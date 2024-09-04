@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 220627,
       "name": "All Away",
       "url": "https://open.spotify.com/track/5NuCPZenjbGUFoU1VaxGLr"
@@ -752,7 +752,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 131327,
       "name": "Background",
       "url": "https://open.spotify.com/track/6oaZSlgWzas2E8d3L067fa"
@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 176760,
       "name": "Brian Cox",
       "url": "https://open.spotify.com/track/0LbtMgKgt5gCN74xpaYNo0"
@@ -1420,6 +1420,24 @@
       "duration_ms": 178000,
       "name": "Buttercup",
       "url": "https://open.spotify.com/track/72dgu4KCdzOBYJP7YvqCkM"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLIES",
+        "url": "https://open.spotify.com/album/2EOiazPJKBs3af7nQOyRBW"
+      },
+      "artists": [
+        {
+          "name": "VITA",
+          "url": "https://open.spotify.com/artist/50gYS9Vnaod5SLK9tBJizB"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176718,
+      "name": "BUTTERFLIES",
+      "url": "https://open.spotify.com/track/5Tx84RyiFBtsFrfWOnLatD"
     },
     {
       "album": {
@@ -2268,6 +2286,24 @@
       "duration_ms": 245596,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/7DDzWtjOLJPz41tmzJZy6o"
+    },
+    {
+      "album": {
+        "name": "Crumble",
+        "url": "https://open.spotify.com/album/3Ael3N7umIPnNzrosB8vS3"
+      },
+      "artists": [
+        {
+          "name": "Asha Jefferies",
+          "url": "https://open.spotify.com/artist/4XUmpHj581ooyS5rJuCBJg"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303848,
+      "name": "Crumble",
+      "url": "https://open.spotify.com/track/0eQ5f7HFTiSStInSb1Lttz"
     },
     {
       "album": {
@@ -3873,6 +3909,28 @@
     },
     {
       "album": {
+        "name": "Big Tidda",
+        "url": "https://open.spotify.com/album/5RtZSqc8hYnrzhhq0wMKhI"
+      },
+      "artists": [
+        {
+          "name": "Barkaa",
+          "url": "https://open.spotify.com/artist/7gGAAZB2j1TmXBwQYOQLwr"
+        },
+        {
+          "name": "MINTY",
+          "url": "https://open.spotify.com/artist/3YMnVKWOJZshs8ulP06gVu"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193255,
+      "name": "Fruition (feat. Minty)",
+      "url": "https://open.spotify.com/track/02XOUswLfdEAm7qaDljKt9"
+    },
+    {
+      "album": {
         "name": "Fuchsia",
         "url": "https://open.spotify.com/album/2onOvDQi5KfgLHGMsxtd5f"
       },
@@ -3924,6 +3982,24 @@
       "duration_ms": 143762,
       "name": "Fun",
       "url": "https://open.spotify.com/track/7tP28GumWYkqSrUH8dBquX"
+    },
+    {
+      "album": {
+        "name": "Gasoline",
+        "url": "https://open.spotify.com/album/1SZOOXspz9RCwXmYHtAKMx"
+      },
+      "artists": [
+        {
+          "name": "Lotte Gallagher",
+          "url": "https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245096,
+      "name": "Gasoline",
+      "url": "https://open.spotify.com/track/6IDLNQc4S4GvXssvZz9BVI"
     },
     {
       "album": {
@@ -6577,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Sailors and Clowns",
+        "url": "https://open.spotify.com/album/5q9gk5trdgdbzrCrItKlwC"
+      },
+      "artists": [
+        {
+          "name": "Surely Shirley",
+          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173418,
+      "name": "Lavender Blues",
+      "url": "https://open.spotify.com/track/2qxghOayHOtuuoQHwJ2n9h"
+    },
+    {
+      "album": {
         "name": "Lean Across",
         "url": "https://open.spotify.com/album/2qcWvD3FcexP83c5OmgYuZ"
       },
@@ -6790,7 +6884,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 176033,
       "name": "Life of the Party",
       "url": "https://open.spotify.com/track/3xMrX3EA2e6fcdarak6Vnf"
@@ -8672,7 +8766,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 144687,
       "name": "Overdraft",
       "url": "https://open.spotify.com/track/3p5v3VU7qE1UDJy7YZeYrC"
@@ -8856,7 +8950,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 259338,
       "name": "Piny Lara",
       "url": "https://open.spotify.com/track/133uiqDWdBnBquBue2QHiD"
@@ -9110,6 +9204,24 @@
       "duration_ms": 312459,
       "name": "rats in my walls",
       "url": "https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL"
+    },
+    {
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/47DlMVv64jPLw8DJJ1oqLU"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229353,
+      "name": "Ray of Light",
+      "url": "https://open.spotify.com/track/2NCivP0yuBfwHuvLf9QNzy"
     },
     {
       "album": {
@@ -11528,7 +11640,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 186506,
       "name": "Two Friends",
       "url": "https://open.spotify.com/track/7KqNayeKNptUTwqL57uvBd"
@@ -12656,6 +12768,24 @@
       "duration_ms": 201173,
       "name": "You Know Better",
       "url": "https://open.spotify.com/track/11CHB0JnkbhkDyMfuqLQdZ"
+    },
+    {
+      "album": {
+        "name": "YOYOTTA",
+        "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "You're On Your Own This Time, Again",
+      "url": "https://open.spotify.com/track/6refloGDPQzdncMkazz7ED"
     },
     {
       "album": {

@@ -994,7 +994,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 234986,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm"
@@ -2185,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "crazy",
+        "url": "https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0"
+      },
+      "artists": [
+        {
+          "name": "yooji",
+          "url": "https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158838,
+      "name": "crazy",
+      "url": "https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X"
+    },
+    {
+      "album": {
         "name": "Cream Dream",
         "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
@@ -2503,6 +2521,24 @@
     },
     {
       "album": {
+        "name": "Dennis The Menace",
+        "url": "https://open.spotify.com/album/6PntXgsqWeJ8dINYWCAyGM"
+      },
+      "artists": [
+        {
+          "name": "the orchard",
+          "url": "https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171527,
+      "name": "Dennis The Menace",
+      "url": "https://open.spotify.com/track/12hdnizN9QCVB9WGIjCiAa"
+    },
+    {
+      "album": {
         "name": "Despite it all",
         "url": "https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB"
       },
@@ -2532,7 +2568,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 103995,
       "name": "devil",
       "url": "https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C"
@@ -12522,7 +12558,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 198733,
       "name": "Vanilla Sundae",
       "url": "https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE"
@@ -13360,7 +13396,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 202800,
       "name": "work, shit, sleep",
       "url": "https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK"

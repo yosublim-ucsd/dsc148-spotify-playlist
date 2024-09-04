@@ -5497,6 +5497,28 @@
     },
     {
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -6162,7 +6184,7 @@
       ],
       "date_added": "2024-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -7632,7 +7654,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 148051,
       "name": "Chk Chk Boom",
       "url": "https://open.spotify.com/track/0GqAWZe1A5ecKadZrHk6XH"
@@ -9877,6 +9899,24 @@
     },
     {
       "album": {
+        "name": "Dejalo Fluir",
+        "url": "https://open.spotify.com/album/0elSExgepksu2iJlCWgIRo"
+      },
+      "artists": [
+        {
+          "name": "KBP EL ALIEN",
+          "url": "https://open.spotify.com/artist/77GakfOFwDDEccUl6Uhxy9"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161410,
+      "name": "Dejalo Fluir",
+      "url": "https://open.spotify.com/track/0rWnVqbRguUvoglkET6q8S"
+    },
+    {
+      "album": {
         "name": "Dejame Saber",
         "url": "https://open.spotify.com/album/3kY5sANzBWpIgY11kiR2bG"
       },
@@ -10682,6 +10722,28 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -12268,6 +12330,28 @@
       "duration_ms": 179999,
       "name": "EL NENE",
       "url": "https://open.spotify.com/track/18onJmAJLKbrQVEt9IiKs1"
+    },
+    {
+      "album": {
+        "name": "El Plumas",
+        "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150528,
+      "name": "El Plumas",
+      "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
     },
     {
       "album": {
@@ -14982,7 +15066,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 142666,
       "name": "FRESITA",
       "url": "https://open.spotify.com/track/6hA12wp8wT93WpLwNYUmOq"
@@ -17124,7 +17208,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 284864,
       "name": "HOLLYWOOD",
       "url": "https://open.spotify.com/track/5GTBdEjZe7zEDp1N0eCZE4"
@@ -18208,6 +18292,24 @@
       "duration_ms": 142758,
       "name": "If We Ever Broke Up",
       "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+    },
+    {
+      "album": {
+        "name": "Igual No Debo",
+        "url": "https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "Igual No Debo",
+      "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
     },
     {
       "album": {
@@ -21182,7 +21284,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -21408,7 +21510,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 276826,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
@@ -21426,7 +21528,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -23136,7 +23238,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 156988,
       "name": "Mamushi (feat. Yuki Chiba)",
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
@@ -26258,7 +26360,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -27050,6 +27152,28 @@
       "duration_ms": 230466,
       "name": "New Romantics",
       "url": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z"
+    },
+    {
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "album": {
@@ -34576,7 +34700,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 247468,
       "name": "SERIO CON ESE Q",
       "url": "https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p"
@@ -35408,7 +35532,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171089,
       "name": "Si Se Deja - Remix",
       "url": "https://open.spotify.com/track/18WzZqLONK1DD7TJoMmQGs"
@@ -37806,7 +37930,7 @@
       ],
       "date_added": "2024-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 157593,
       "name": "S\u00f3lida",
       "url": "https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C"
@@ -37952,6 +38076,24 @@
       "duration_ms": 151000,
       "name": "Tamagotchi",
       "url": "https://open.spotify.com/track/5bfep56ypsHGIR4i5KPKJN"
+    },
+    {
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202500,
+      "name": "Tarde o temprano",
+      "url": "https://open.spotify.com/track/09np8TCtg5O6yYsaxKJlJ0"
     },
     {
       "album": {
@@ -38732,7 +38874,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
@@ -41783,6 +41925,24 @@
     },
     {
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
@@ -43302,7 +43462,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -43468,7 +43628,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
@@ -44748,6 +44908,24 @@
       "duration_ms": 264840,
       "name": "Yours",
       "url": "https://open.spotify.com/track/10IfXtjKQmOiON7tNAHv0y"
+    },
+    {
+      "album": {
+        "name": "F-1 Trillion",
+        "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199438,
+      "name": "Yours",
+      "url": "https://open.spotify.com/track/0DM63CJEklNPKu6kHGyuEl"
     },
     {
       "album": {

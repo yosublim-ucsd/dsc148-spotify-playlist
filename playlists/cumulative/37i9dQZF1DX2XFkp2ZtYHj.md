@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-245 songs - 10 hr 21 min
+246 songs - 10 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Onyx](https://open.spotify.com/track/75Y41KT0PeczPom4iZFs87) | [Brian Charlie](https://open.spotify.com/artist/0s3zGPEjLXfQMOETZfkvOT) | [Onyx](https://open.spotify.com/album/381RgbrHTumeg0pKzXtDdn) | 2:43 | 2023-10-18 |  |
 | [Open Wings To Fly](https://open.spotify.com/track/4cYaNAmm0gtwTVAZKmANUF) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Open Wings To Fly](https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF) | 2:18 | 2023-10-18 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-10-18 |  |
+| [Paragon Sky](https://open.spotify.com/track/3VDYovwr8jMnxXuvVLaVyc) | [Glenn Natale](https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel) | [Paragon Sky](https://open.spotify.com/album/3KqxIkmwtPBAhWOq6s9rme) | 2:16 | 2024-09-03 |  |
 | [Particle rise](https://open.spotify.com/track/0D1cenBb72xRFkD4CErjP3) | [Ama Hemmah](https://open.spotify.com/artist/6hTWxjJtaTM4iQQuOexVqY) | [Particle rise](https://open.spotify.com/album/1jeycRIxUrfUgKxTzDRrKR) | 2:32 | 2023-10-18 |  |
 | [Passion and Fire](https://open.spotify.com/track/5tTv0eBtH62dVailpRZ46C) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Passion and Fire](https://open.spotify.com/album/55AHv4KY3jolnloSltgAou) | 2:24 | 2023-10-18 |  |
 | [Paths](https://open.spotify.com/track/3JWltf5Em6j7uhJhSNFneD) | [Silje Mørk](https://open.spotify.com/artist/3Th7uQxL5iOFrWHZ4GZIzP) | [Paths](https://open.spotify.com/album/5mo02zw7os9mLxLZtANHlC) | 2:52 | 2023-10-18 |  |
@@ -235,7 +236,7 @@
 | [Utsjoki](https://open.spotify.com/track/6QjleATuBevQEy00ssnKhH) | [Vegard](https://open.spotify.com/artist/3KSiDeHcHXc19XgnzXGlXJ) | [Utsjoki](https://open.spotify.com/album/5eLLUN5nLMRCUMf63NKPBT) | 2:23 | 2023-10-18 |  |
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-18 |  |
 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 | 2023-10-18 |  |
-| [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-10-18 |  |
+| [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-10-18 | 2024-09-04 |
 | [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vocation](https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Vocation](https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy) | 2:15 | 2023-10-18 |  |
 | [Warm](https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Warm](https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq) | 2:07 | 2023-10-18 |  |

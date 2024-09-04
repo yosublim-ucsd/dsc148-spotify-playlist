@@ -1,12 +1,12 @@
 {
   "description": "This is Lainey Wilson. The essential tracks, all in one playlist.",
-  "num_followers": 71248,
+  "num_followers": 71327,
   "original_name": "This Is Lainey Wilson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACTEm05+8rAgL5K8zuDCyW7",
+  "snapshot_id": "ZtUAAAAAAACc8M2dJCbZFJvP22Y/DAtm",
   "tracks": [
     {
       "added_at": null,
@@ -291,18 +291,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Country's Cool Again",
-        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
       "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 218280,
-      "name": "Country's Cool Again",
-      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
+      "duration_ms": 176146,
+      "name": "Never Say Never (with Lainey Wilson)",
+      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
     },
     {
       "added_at": null,
@@ -339,22 +343,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stereotype",
-        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+        "name": "Country's Cool Again",
+        "url": "https://open.spotify.com/album/2ktPg8ikDApRGiGSWNUC92"
       },
       "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        },
         {
           "name": "Lainey Wilson",
           "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
         }
       ],
-      "duration_ms": 176146,
-      "name": "Never Say Never (with Lainey Wilson)",
-      "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+      "duration_ms": 218280,
+      "name": "Country's Cool Again",
+      "url": "https://open.spotify.com/track/6fL5O5y6pSeU5Hjx9SgKar"
     },
     {
       "added_at": null,

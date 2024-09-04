@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8153,
+  "num_followers": 8156,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADJTNpBQrSOtZ/jQTC5v27e",
+  "snapshot_id": "ZtUAAAAAAAAIo7S6LHg4yS87Oaz2V3AP",
   "tracks": [
     {
       "added_at": null,
@@ -299,26 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homegrown (Deluxe)",
-        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        },
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 233653,
-      "name": "Say Yes (feat. TOKiMONSTA)",
-      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "On Sum",
         "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 184857,
       "name": "Switch It",
       "url": "https://open.spotify.com/track/0QWvAEwk9l5MNJtyjAygmP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homegrown (Deluxe)",
+        "url": "https://open.spotify.com/album/1g8c7UXl9odDwOpdoPJsWa"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 233653,
+      "name": "Say Yes (feat. TOKiMONSTA)",
+      "url": "https://open.spotify.com/track/2pBVR6cD0ClaSNByNKeN8T"
     },
     {
       "added_at": null,
@@ -379,26 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
-        }
-      ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Young Art Sound II",
         "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 153297,
       "name": "Strange Froot",
       "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 217537,
+      "name": "Don't Call Me (feat. Yuna)",
+      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
     },
     {
       "added_at": null,
@@ -463,26 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 217537,
-      "name": "Don't Call Me (feat. Yuna)",
-      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'm Every Woman (From \u201cBlack History Always / Music For the Movement Vol. 2\")",
         "url": "https://open.spotify.com/album/72cJftl8bK7m7sZxDsDKv3"
       },
@@ -503,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
       "artists": [
         {
@@ -512,13 +492,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
         }
       ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 93929,
       "name": "2nd Boom",
       "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 209280,
-      "name": "Soul to Seoul",
-      "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno (Remixed)",
         "url": "https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 214588,
       "name": "Love That Never - IMANU Remix",
       "url": "https://open.spotify.com/track/7xEonmjoDgWkRCzlofalul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 209280,
+      "name": "Soul to Seoul",
+      "url": "https://open.spotify.com/track/7pyPH0gIvrQIHYCG7bkaOn"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 220934,
       "name": "Surrender",
       "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,

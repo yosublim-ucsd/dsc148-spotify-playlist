@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 
 > This is Hayley Kiyoko\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,659 likes - 44 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,654 likes - 44 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 18 | [This Side of Paradise](https://open.spotify.com/track/7i1WcWycZthlbU1nBKMWQx) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/32GGaHTxe2OxpiIKtD0I4v) | 3:31 |
 | 19 | [Bang! \(feat\. Hayley Kiyoko\) \(AhhHaa Remix\)](https://open.spotify.com/track/0BcNo7nVhSpwNPpuJ5lGoy) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [AhhHaa](https://open.spotify.com/artist/3rnpSVwAs2cQoB2OtHZk8m) | [Bang! \(feat\. Hayley Kiyoko\) \[AhhHaa Remix\]](https://open.spotify.com/album/5DtvtNJSg3QbMhPXOKBI04) | 2:47 |
 | 20 | [Wanna Be Missed](https://open.spotify.com/track/3wqPinf9whHeT7y9EApaPM) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:15 |
-| 21 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
-| 22 | [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG) | 2:35 |
+| 21 | [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/5QfungSRYsaCetJfRdazI3) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/46hhmMspdSlJaGjAVv4VXG) | 2:35 |
+| 22 | [Headcase](https://open.spotify.com/track/6NJQ69XAEJ4TbTuDWA0gM0) | [Kailee Morgue](https://open.spotify.com/artist/245PKF3hKjtxJKIG153kF0), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Headcase](https://open.spotify.com/album/2wDVgssxE37up35W78SFDM) | 3:13 |
 | 23 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 |
 | 24 | [He'll Never Love You \(HNLY\)](https://open.spotify.com/track/03PM8jkLPwI6cDcZBvwCSL) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Expectations](https://open.spotify.com/album/2oRkkW6ZudviRBd6mx4CfL) | 3:51 |
 | 25 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2bUkoM.md) - [plain]
 | 43 | [Hit & Run](https://open.spotify.com/track/1jlLg8ZQbvCTkIoP2fI70b) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:33 |
 | 44 | [Wild & Wicked World](https://open.spotify.com/track/3hVsOFrAxjPdqebJobfZSZ) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [A Belle to Remember](https://open.spotify.com/album/79bdQQVLHNYGEgbPjUHk9z) | 3:24 |
 
-Snapshot ID: `ZtOugAAAAACBkTUR/en+7GjeDbhuqZf6`
+Snapshot ID: `ZtUAAAAAAACSY/N0bIPcV+3YAhrKA8Od`

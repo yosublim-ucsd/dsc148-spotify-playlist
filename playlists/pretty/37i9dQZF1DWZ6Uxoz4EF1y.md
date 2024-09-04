@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,297 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,396 likes - 100 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,10 +102,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 92 | [Poema de salvación](https://open.spotify.com/track/58MfbVYQQATU1ifuqjQsEj) | [Coalo Zamorano](https://open.spotify.com/artist/1EIEV6r6Jr6BQIzwZJdf5b) | [Eres Mi Pasión](https://open.spotify.com/album/3dTLWiG20Njj51aeTo3qqz) | 3:12 |
 | 93 | [Jesucristo basta](https://open.spotify.com/track/6aIiv3gW1ZwtST6nXG6SRd) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Somos Iglesia](https://open.spotify.com/album/0hpOmncVbSSfbec3IZGL9T) | 4:48 |
 | 94 | [Cara A Cara](https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Cara a Cara](https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9) | 5:40 |
-| 95 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
-| 96 | [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 |
-| 97 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 |
-| 98 | [Me rindo a ti](https://open.spotify.com/track/5uVqzGtREfy8NcuRBaVPn9) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Me rindo a ti](https://open.spotify.com/album/1n5KJdbfAbcp7L2357DUVa) | 4:51 |
+| 95 | [Me Entrego a Ti](https://open.spotify.com/track/1tjfTjSWNV1Fo6ZnDKrQaE) | [Alejandro Del Bosque](https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h) | [Un Brote De Adoracion 2](https://open.spotify.com/album/3XWnMTcgXfhxG4MalGMbIo) | 5:02 |
+| 96 | [Gracias](https://open.spotify.com/track/38GjgoCoXBStVNBBgl6Ove) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [25 Concierto Conmemorativo](https://open.spotify.com/album/05f8DnleuhszCNSDe2YGCW) | 5:05 |
+| 97 | [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 |
+| 98 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 |
 | 99 | [Me Dice Que Me Ama](https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE) | 4:01 |
 | 100 | [Eterna luz](https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Música en el Desierto](https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN) | 4:31 |
 

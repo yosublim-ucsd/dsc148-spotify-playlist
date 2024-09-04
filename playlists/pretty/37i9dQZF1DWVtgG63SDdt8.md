@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: <a href="spotify:artist:5FxshnB3eJ2YDn8xN8zDKq">Hannah Kerr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 335,185 likes - 98 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 335,198 likes - 98 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 38 | [psalm 23](https://open.spotify.com/track/2IgzeWI0cmCD1TNaIjmQNW) | [Tianna](https://open.spotify.com/artist/1jQllgFn8BtMLmn7vgmRyr) | [welcome in](https://open.spotify.com/album/1NZxW2nlt2YYgjcSRBxY4P) | 2:55 |
 | 39 | [Jericho](https://open.spotify.com/track/4ciKekTq2TzHmSOfCY89wF) | [TKE3](https://open.spotify.com/artist/0t3vIkZ0lGE9vg88edFFci) | [Jericho](https://open.spotify.com/album/4NBOxjxrbq8TedhsNzlJKP) | 2:43 |
 | 40 | [Ridiculous](https://open.spotify.com/track/3J967S1DPNnUrUaS4bzcfh) | [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Ridiculous](https://open.spotify.com/album/4LKUzyYybXiJiEgFFny1LU) | 2:27 |
-| 41 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \[UNVL' 24\]](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
+| 41 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
 | 42 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
 | 43 | [Big As It Gets](https://open.spotify.com/track/2lA4BUG5rsRPLEJ1F0q0Hp) | [Don Ready](https://open.spotify.com/artist/5kQnpfa9Qp5lNSOThWVnFl), [Marc Vanparla](https://open.spotify.com/artist/3goTcT8vE6cwQihVfz3Vbh) | [Big As It Gets](https://open.spotify.com/album/1r9qKIYakHF1QkjQG5x3qp) | 2:36 |
 | 44 | [runaway](https://open.spotify.com/track/13KsUFZFmo1I7nI3G5yiJD) | [Rivers Crossing Worship](https://open.spotify.com/artist/7xuM274nFelfNPgItlKbUs) | [runaway](https://open.spotify.com/album/1wfx7O5XO9EoqYtMwSd0U1) | 4:21 |

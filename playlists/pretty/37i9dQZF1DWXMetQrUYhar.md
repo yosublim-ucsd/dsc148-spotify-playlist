@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,931 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,942 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,19 +119,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 109 | [Gold Rush \- Live at Spotify Studios NYC](https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 4:08 |
 | 110 | [Blanket Me \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4bMHWD1vEnq76Ro208gZHd) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 5:03 |
 | 111 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
-| 112 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 |
-| 113 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
-| 114 | [Blood Under My Belt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Spotify Singles](https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L) | 6:10 |
-| 115 | [tonite \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 5:44 |
-| 116 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
+| 112 | [Born Again \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0BGdxW79sZA6nmuws983bE) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Spotify Singles](https://open.spotify.com/album/5yPmcKtzc9A0RcKpCFqQtZ) | 3:51 |
+| 113 | [Blood Under My Belt \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5KmJKfQN4VIFbbPBoCFsVz) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v) | [Spotify Singles](https://open.spotify.com/album/5E1LpvOY21eS1Ri6zIjT9L) | 6:10 |
+| 114 | [Praying for July \- Spotify Singles](https://open.spotify.com/track/7wXPl3wCGlHDXXaDyr9rPq) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Praying for July \- Spotify Singles](https://open.spotify.com/album/7mqvcMAHZK0LrrrRqY7S4C) | 3:06 |
+| 115 | [Welcome to Your Life \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2cN7H31DES22HCjYitKggF) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:45 |
+| 116 | [tonite \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/5hSTBY6xBkx60qPVseOKFX) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 5:44 |
 | 117 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 |
 | 118 | [Mourning Sound \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qPb53XN2ilYsBf5OIHdtV) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 5:16 |
 | 119 | [Fire Escape \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1k2XzKObDo17FgS3ovj3se) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Spotify Singles](https://open.spotify.com/album/0MtApzOMJ5uGbMZHhgrMur) | 3:33 |
 | 120 | [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 |
 | 121 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 | 122 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 |
-| 123 | [Deja Vu \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2qoa1Ok9Kyj3f3CQyxu096) | [Natalie Prass](https://open.spotify.com/artist/0EmUT6i9rTu9ZHy1Tl1iuX) | [Spotify Singles](https://open.spotify.com/album/1gLPXEmEAQevLuShz5BIz0) | 4:43 |
+| 123 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
 | 124 | [Easy to be Around \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47KWyTcNRxu3OYNRFfNCIi) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 3:34 |
-| 125 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
+| 125 | [I Don't Believe In The Sun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/14L3bS2ioklhLCkKS5WQcQ) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 4:09 |
 
 Snapshot ID: `ZUqM0AAAAACIODzIAp3d7PLr7LkAALal`

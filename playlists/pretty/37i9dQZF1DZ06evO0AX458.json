@@ -1,12 +1,12 @@
 {
   "description": "This is Touch\u00e9 Amor\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 3529,
+  "num_followers": 3532,
   "original_name": "This Is Touch\u00e9 Amor\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAD55DvHzDqSCFaCNTWsPyOu",
+  "snapshot_id": "ZtUAAAAAAACGovOHBDM+TpTxzg6wKXNl",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 146520,
-      "name": "Palm Dreams",
-      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
+      "duration_ms": 207973,
+      "name": "New Halloween",
+      "url": "https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts"
     },
     {
       "added_at": null,
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 207973,
-      "name": "New Halloween",
-      "url": "https://open.spotify.com/track/02YbvgsXapCh9MLTrU11Ts"
+      "duration_ms": 146520,
+      "name": "Palm Dreams",
+      "url": "https://open.spotify.com/track/3XUnE0OeMrpWHV9OVHNwjo"
     },
     {
       "added_at": null,
@@ -271,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deflector",
-        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
       },
       "artists": [
         {
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 182946,
-      "name": "Green",
-      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
+      "duration_ms": 102240,
+      "name": "Kerosene - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
     },
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+        "name": "Deflector",
+        "url": "https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 102240,
-      "name": "Kerosene - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/1zx9RJjhSaX8RlwIx70LdZ"
+      "duration_ms": 182946,
+      "name": "Green",
+      "url": "https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 177400,
-      "name": "To Write Content - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 152985,
       "name": "Honest Sleep",
       "url": "https://open.spotify.com/track/6q3tRF4KypWtXUVdM5N5FN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 177400,
+      "name": "To Write Content - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/0m6G3bInllyMRVfNQATn49"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 91906,
-      "name": "Blue Angels - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 97429,
       "name": "And Now It's Happening in Mine",
       "url": "https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 91906,
+      "name": "Blue Angels - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/4bBU5YMY4daFmFFxMj9q9Z"
     },
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is Survived By (Revived [Remixed / Remastered])",
-        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 128946,
-      "name": "DNA - Revived (Remixed / Remastered)",
-      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "...To the Beat of a Dead Horse",
         "url": "https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 44418,
       "name": "Nine",
       "url": "https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Is Survived By (Revived [Remixed / Remastered])",
+        "url": "https://open.spotify.com/album/67rHrbtzUdHMnN85yh5UxK"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 128946,
+      "name": "DNA - Revived (Remixed / Remastered)",
+      "url": "https://open.spotify.com/track/6du0m5TxO4f8vmvKmtIjPK"
     },
     {
       "added_at": null,
@@ -584,25 +584,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 185653,
-      "name": "Non Fiction",
-      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Crescent-Shaped Depression",
-        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
-      },
-      "artists": [
-        {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "Crescent-Shaped Depression",
-      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
+      "duration_ms": 158480,
+      "name": "Steps",
+      "url": "https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5"
     },
     {
       "added_at": null,
@@ -619,6 +603,22 @@
       "duration_ms": 92976,
       "name": "History Reshits Itself",
       "url": "https://open.spotify.com/track/68bm9z3WOGCnnqmOrm6PeT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crescent-Shaped Depression",
+        "url": "https://open.spotify.com/album/0yReIcLlaod3FUytt1cN5o"
+      },
+      "artists": [
+        {
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "Crescent-Shaped Depression",
+      "url": "https://open.spotify.com/track/1Ly3zw0kDRbWPwv9P9f6aq"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 158480,
-      "name": "Steps",
-      "url": "https://open.spotify.com/track/66tkJursjOgAkQ94z7Vtn5"
+      "duration_ms": 185653,
+      "name": "Non Fiction",
+      "url": "https://open.spotify.com/track/4iGn2PuMw7G2T6DrmSvZP8"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
-  "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 199358,
+  "description": "This is Djonga. The essential tracks, all in one playlist.",
+  "num_followers": 199388,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABjpHLdijsxhBdaDGfQ4T7Z",
+  "snapshot_id": "ZtUAAAAAAAD+aEQxLdY2oW1p4x6ja3Ca",
   "tracks": [
     {
       "added_at": null,
@@ -1043,30 +1043,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAGIC SHOW (DELUXE)",
-        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
+        "name": "Vida Cara",
+        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
       "artists": [
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+          "name": "Orochi",
+          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
         },
         {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
         }
       ],
-      "duration_ms": 166449,
-      "name": "C.E.O'S (B\u00d4NUS TRACK)",
-      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
+      "duration_ms": 288000,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
     },
     {
       "added_at": null,
@@ -1111,34 +1115,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vida Cara",
-        "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
+        "name": "MAGIC SHOW (DELUXE)",
+        "url": "https://open.spotify.com/album/3QwGvMjTIO0xzb8BrWTRu6"
       },
       "artists": [
         {
-          "name": "Orochi",
-          "url": "https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
         },
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4"
         },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "RUXN",
-          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/3AdKHZtW6IapFJRgYmBTgv"
+      "duration_ms": 166449,
+      "name": "C.E.O'S (B\u00d4NUS TRACK)",
+      "url": "https://open.spotify.com/track/0euUJLQsKhMThMKO07qk01"
     },
     {
       "added_at": null,

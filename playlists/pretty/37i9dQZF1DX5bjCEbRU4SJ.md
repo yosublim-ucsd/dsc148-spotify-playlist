@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,159 likes - 70 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,210 likes - 70 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 30 | [Off the Main Drag](https://open.spotify.com/track/3jdlFiVKRNpLQboArLidxn) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [North Americana](https://open.spotify.com/album/4s9YcRjOOV0m22xeSGIRGl) | 3:44 |
 | 31 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 32 | [Something](https://open.spotify.com/track/1aoBqoZBJ2xuBoWnqV1XVt) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Sprained Ankle](https://open.spotify.com/album/4dRzxZm69k9s0nzKmKb8Gj) | 3:52 |
-| 33 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 |
-| 34 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
+| 33 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
+| 34 | [Dear God \(Sincerely M.O.F.\)](https://open.spotify.com/track/3HrSMLKhDn6mpvc68YuY5W) | [Monsters Of Folk](https://open.spotify.com/artist/7wcYEfyBTrH0iT6J4PgSTj) | [Monsters Of Folk](https://open.spotify.com/album/0S0PP3XHUjfCQwnBnTYOLL) | 5:07 |
 | 35 | [All My Days](https://open.spotify.com/track/6imKHLNom4xjEj2n3ZbKHr) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Time Without Consequence](https://open.spotify.com/album/39xSDFXhE1RmrqR6mF2bXU) | 4:57 |
 | 36 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 |
 | 37 | [Your Song](https://open.spotify.com/track/55uHgEQV1BVtTbI72uEpOq) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Golden Moments](https://open.spotify.com/album/4XIbmP53zK67wpaADb3ErR) | 4:03 |

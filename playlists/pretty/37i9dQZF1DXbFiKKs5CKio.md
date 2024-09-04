@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,858 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,914 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 43 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 | 44 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
 | 45 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
-| 46 | [Ultimo Fim \(Short\)](https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [L0V3 Tvp3](https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN) | 2:09 |
-| 47 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 46 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 47 | [Ultimo Fim \(Short\)](https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [L0V3 Tvp3](https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN) | 2:09 |
 | 48 | [Índigo \(Te Venero\)](https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT) | 3:14 |
 | 49 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |
 | 50 | [SHAWTY](https://open.spotify.com/track/75liZXV6t18aVko4JTjkkm) | [Diego Amani](https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu) | [SHAWTY](https://open.spotify.com/album/1jmxpG3tlqWxDYUyFU1FhF) | 2:53 |

@@ -5129,6 +5129,24 @@
     },
     {
       "album": {
+        "name": "Calm State - Cello Version",
+        "url": "https://open.spotify.com/album/58gOJcDd8vefz9xpZae5Kq"
+      },
+      "artists": [
+        {
+          "name": "Nature Dreams",
+          "url": "https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60443,
+      "name": "Calm State - Cello Version",
+      "url": "https://open.spotify.com/track/6g5qfAnPLKhfRrSydDZB9j"
+    },
+    {
+      "album": {
         "name": "Calm World",
         "url": "https://open.spotify.com/album/224ipkjPTvQsivbMHHgtdB"
       },
@@ -28878,6 +28896,24 @@
       "duration_ms": 66500,
       "name": "Trust",
       "url": "https://open.spotify.com/track/1eE51oUR7YnJjeeO6i0i1W"
+    },
+    {
+      "album": {
+        "name": "Trusted",
+        "url": "https://open.spotify.com/album/3IUMOZ6iBRSIJuu3EqQp1Z"
+      },
+      "artists": [
+        {
+          "name": "Cello Soul",
+          "url": "https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60256,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0ctHaxo5BIICD0XKdViQ8y"
     },
     {
       "album": {

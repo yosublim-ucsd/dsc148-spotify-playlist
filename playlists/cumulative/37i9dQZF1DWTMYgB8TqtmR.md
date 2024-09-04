@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-785 songs - 1 day 15 hr 31 min
+786 songs - 1 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,6 +339,7 @@
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-26 | 2022-07-22 |
 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 | 2024-03-21 |  |
 | [I Like You \(A Happier Song\) \(with Doja Cat\)](https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:12 | 2022-06-02 | 2022-08-30 |
+| [I Might](https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [I Might](https://open.spotify.com/album/0BV35xKFmcMBLRuQqnB78d) | 2:38 | 2024-09-03 |  |
 | [I Raised Your Boyfriend](https://open.spotify.com/track/7u5VlSd8HxCNjeB4txesJ6) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [I Raised Your Boyfriend](https://open.spotify.com/album/0Apz8ymj3oeGthfJz2RAo9) | 2:42 | 2023-02-16 | 2023-04-14 |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-11 | 2024-03-22 |
 | [I Swear](https://open.spotify.com/track/3qnDirWYInwzIJC76AQdV4) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [I Swear](https://open.spotify.com/album/2RtuGDpu3whgnOz8LvB1rO) | 2:11 | 2022-04-07 | 2022-07-02 |
@@ -387,7 +388,7 @@
 | [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-20 | 2023-08-18 |
 | [KAN JAG FRÅGA DIG?](https://open.spotify.com/track/0qhPSIycbhJBAWmRVEqanB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [LUANDA](https://open.spotify.com/album/7wRE4WPt46b9ZRudADVtQe) | 3:21 | 2024-04-29 | 2024-06-21 |
 | [Keep Going Up \(with Nelly Furtado & Justin Timberlake\)](https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Keep Going Up](https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c) | 2:54 | 2023-08-31 | 2023-09-15 |
-| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-08 |  |
+| [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-08 | 2024-09-04 |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-19 | 2023-04-14 |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-13 | 2023-05-14 |
 | [Kite](https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Kite](https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4) | 2:46 | 2024-01-25 | 2024-06-14 |

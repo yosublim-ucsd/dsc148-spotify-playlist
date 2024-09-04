@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music! Cover: <a href="spotify:artist:6g10GEtmIVqIQBhPZh4ScQ">Zach Williams</a>, <a href="spotify:artist:61SFRZAmfyJhcffwR2Ijuq">Jason Crabb</a>, & <a href="spotify:artist:79FMDwzZQxHgSkIYBl3ODU">Trace Adkins</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 365,628 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 365,750 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

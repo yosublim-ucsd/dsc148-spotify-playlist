@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 
 > Porque el romance nunca pasará de moda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,213 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,341 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NhlMhDst2O.md) - [plain]
 | 90 | [Con Cartitas](https://open.spotify.com/track/1YQInx1RDDFO22FwbWcjey) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 3:22 |
 | 91 | [Dame un Beso y Dime Adios \- En Vivo](https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 3:59 |
 | 92 | [Del Signo Libra](https://open.spotify.com/track/52nNbyJq5duX1tzxMTQMXG) | [Grupo Libra](https://open.spotify.com/artist/7A0dBf6Uyh5G1rW7Rh84Dt) | [Bendito Cielo](https://open.spotify.com/album/3ahqP6IBgQDU5UdjmFCymy) | 3:26 |
-| 93 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 |
-| 94 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 |
+| 93 | [Los Hombres No Deben Llorar](https://open.spotify.com/track/3y4BiEvje7Ez7lnWR0VVEa) | [King Clave](https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f) | [Idolos de Argentina](https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB) | 3:17 |
+| 94 | [Por Muchas Razones Te Quiero](https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47) | [Palito Ortega](https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD) | [Palito Ortega y Sus Éxitos](https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3) | 3:20 |
 | 95 | [Asi No Te Amara Jamas](https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE) | [Amanda Miguel](https://open.spotify.com/artist/3v8mFhjLFa50QK8zDvAMYN) | [El Sonido Vol I](https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6) | 2:52 |
 | 96 | [Doce Rosas](https://open.spotify.com/track/4EPJIgQaRIuDZRm1qe9RrA) | [Lorenzo Antonio](https://open.spotify.com/artist/4oYvz8seCf2B2JEyB0GIX4) | [Lorenzo Antonio](https://open.spotify.com/album/5HUORF7vOFU8MHg9mjWi13) | 3:49 |
 | 97 | [Una Sola Caída](https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5) | [Los Muecas](https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b) | [Una Sola Caida Y Las Abandonadas](https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv) | 2:56 |

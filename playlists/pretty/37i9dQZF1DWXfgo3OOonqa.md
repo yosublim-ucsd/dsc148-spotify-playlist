@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,900 likes - 100 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,978 likes - 100 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [BOOTY](https://open.spotify.com/track/5pT3WI2AOZ7bYP3Hp62Glh) | [DABAB](https://open.spotify.com/artist/18tTELWrAXq46UM5D3CFgp), [Rami Bazi](https://open.spotify.com/artist/1xyGVJFEvENupHZdAkYcHd) | [BOOTY](https://open.spotify.com/album/2jKto0kAwChWmuj9YACKfI) | 2:30 |
 | 100 | [Toppisar i näven](https://open.spotify.com/track/5pfdTD19cacU3LuE3tYUWq) | [AKI](https://open.spotify.com/artist/77FK5F2AWebXG5IiEnoHLv), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K) | [Toppisar i näven](https://open.spotify.com/album/7bKNMQqjtigotHwyVvX9xk) | 3:19 |
 
-Snapshot ID: `ZtDvYAAAAACohe8pF/NDvC5XFZ7FGjaf`
+Snapshot ID: `ZtctWQAAAAAIM54iJgvmUNbXxqk3Jqqf`

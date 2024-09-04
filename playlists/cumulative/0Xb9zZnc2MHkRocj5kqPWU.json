@@ -836,7 +836,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 208480,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/32q8GrkqQotlZjWLJMHyF8"
@@ -986,7 +986,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 158706,
       "name": "Christine's Theme",
       "url": "https://open.spotify.com/track/6kjGo5VERVKcVs0pt7mtuK"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 188697,
       "name": "Colours - Solo Piano Version",
       "url": "https://open.spotify.com/track/2Re0XxgSEigqJCzQ89jBlO"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 173386,
       "name": "Flowing Petals",
       "url": "https://open.spotify.com/track/1XthSKADXNnul1eOtI12lp"
@@ -1944,7 +1944,7 @@
       ],
       "date_added": "2022-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189717,
       "name": "Hope, Ascending - Solo Piano Version",
       "url": "https://open.spotify.com/track/3ynbdnEsXE7SIJabep4Mq6"
@@ -2078,6 +2078,28 @@
       "duration_ms": 195840,
       "name": "In Another Life",
       "url": "https://open.spotify.com/track/00csguTIPbfkJJVUJzi6Xh"
+    },
+    {
+      "album": {
+        "name": "In Paradisum",
+        "url": "https://open.spotify.com/album/7aBPTOIQycGBJDZHGjAV7d"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Hayato Sumino",
+          "url": "https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214293,
+      "name": "In Paradisum",
+      "url": "https://open.spotify.com/track/0tIEXct4Pv3TikqvkYR4CM"
     },
     {
       "album": {
@@ -2296,7 +2318,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 168026,
       "name": "Komorebi (Luce Che Filtra Tra Le Foglie Degli Alberi)",
       "url": "https://open.spotify.com/track/3g8WUIWBIpGGCtR8v3spPf"
@@ -2332,7 +2354,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 163160,
       "name": "La Sieste",
       "url": "https://open.spotify.com/track/48lCGg8M4kDMJk9SAsTWgO"
@@ -2584,7 +2606,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 146866,
       "name": "Lullaby for Jacques et Brune",
       "url": "https://open.spotify.com/track/5OO5egVOjkqFASx06Ikz75"
@@ -2864,7 +2886,7 @@
       ],
       "date_added": "2022-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129000,
       "name": "NEEVE - ASMR VERSION",
       "url": "https://open.spotify.com/track/4Qx2yThlMvDlWKIzOihyFq"
@@ -2882,7 +2904,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 241880,
       "name": "Nintai (Spada Nel Cuore)",
       "url": "https://open.spotify.com/track/4vs1lOZoaaBmggRwxUuQkF"
@@ -3064,7 +3086,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 155440,
       "name": "On a Still Night",
       "url": "https://open.spotify.com/track/38riKFmKqlhg1v7G9mDY2F"
@@ -3362,7 +3384,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 142402,
       "name": "Peace",
       "url": "https://open.spotify.com/track/6r149zapbSHwCxJUoh0aLD"
@@ -3762,10 +3784,28 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 153880,
       "name": "Promenade",
       "url": "https://open.spotify.com/track/3D3hrxyqYC8D10YneCf8RD"
+    },
+    {
+      "album": {
+        "name": "Quietly Yours",
+        "url": "https://open.spotify.com/album/0qLNFfTCcpSlpG6hKc7imt"
+      },
+      "artists": [
+        {
+          "name": "Goldb\u00e6k",
+          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187285,
+      "name": "Quietly Yours",
+      "url": "https://open.spotify.com/track/4NXFInAtx4Uit2TWUlSckW"
     },
     {
       "album": {
@@ -3820,7 +3860,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 192680,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/6DRJualYZ2JRCZX8Gmozmq"
@@ -3838,7 +3878,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 192955,
       "name": "Resilience",
       "url": "https://open.spotify.com/track/50T7iQomBxfJaql1mKbyPG"
@@ -3856,7 +3896,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 176920,
       "name": "Resolutions",
       "url": "https://open.spotify.com/track/4jGilKmygrjMY3Q5DKdbTV"
@@ -3910,7 +3950,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 185840,
       "name": "Rituals of Peace",
       "url": "https://open.spotify.com/track/4Bs4Rmrbp2gnbWjN2SLdfW"
@@ -4045,6 +4085,28 @@
     },
     {
       "album": {
+        "name": "J.S. Bach: Transkriptionen",
+        "url": "https://open.spotify.com/album/4qGx5P38CjSiWvW6hCwEbq"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Tal & Groethuysen",
+          "url": "https://open.spotify.com/artist/3jcDwPU3uLhLAt5WZR1suZ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333533,
+      "name": "Schafe k\u00f6nnen sicher weiden, BWV 208, No. 9 (Arr. for Two Pianos by Mary Howe)",
+      "url": "https://open.spotify.com/track/3HKpcfnEc7RSgk4qPnOtq0"
+    },
+    {
+      "album": {
         "name": "Schubert Andantino Variation (arr. from Piano Sonata in A Major, D. 959 by Dirk Maassen)",
         "url": "https://open.spotify.com/album/6InV5cIIy7c50cP2KNKSbK"
       },
@@ -4140,7 +4202,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 123850,
       "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/06naL4CQq3FfhsutfV4rCd"
@@ -4158,7 +4220,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 123850,
       "name": "Sheep May Safely Graze - Arr. by Alexis Ffrench",
       "url": "https://open.spotify.com/track/62vy0nReW4u7ct09gyUlxm"
@@ -4342,7 +4404,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 146000,
       "name": "Spring Waltz",
       "url": "https://open.spotify.com/track/0lCuPew8HPRnwKQ6PZnSSC"
@@ -4360,7 +4422,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 155400,
       "name": "Stay",
       "url": "https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8"
@@ -4592,7 +4654,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 167800,
       "name": "The First Christmas",
       "url": "https://open.spotify.com/track/3JsIen630AIZTAiGpEHgkU"
@@ -4682,7 +4744,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 159480,
       "name": "The River",
       "url": "https://open.spotify.com/track/4vACrwYS7wg5Axoc7MJtmb"
@@ -4718,7 +4780,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 205720,
       "name": "The Room",
       "url": "https://open.spotify.com/track/4uH74EvMfDHr1Zxe1l1AFN"
@@ -4754,7 +4816,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 264360,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/1DaUE599Sj6oJztgqGc3dF"
@@ -5264,7 +5326,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 138795,
       "name": "When the Bells Ring",
       "url": "https://open.spotify.com/track/16nh5oCtsTVq9GBQU8xxEw"

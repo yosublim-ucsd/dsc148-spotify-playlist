@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0s5kDXi1oC5.md) - [plain]
 
 > Listen to all the tracks you've been missing\. Cover: Lady Gaga
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,148,849 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,148,663 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

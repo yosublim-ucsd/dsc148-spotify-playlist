@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 
 > El Tango está más vivo que nunca\. Disfrutá los clásicos en <a href="spotify:user:spotify:playlist:37i9dQZF1DXcCT9tm6fRIV">Tangos y Milongas</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,440 likes - 70 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,442 likes - 70 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WNn0uqbB04.md) - [plain]
 | 67 | [Cuando nos reencontremos](https://open.spotify.com/track/0OeIFndbhNNJEVLsYzC7YR) | [Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Invierno](https://open.spotify.com/album/7d20OGQ2xh0Io9rsPBjtUa) | 2:57 |
 | 68 | [Uprising Of Kindness](https://open.spotify.com/track/6y5RI29ZM1MmFg3yzD48v2) | [Richard Bona](https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT) | [This Is Richard Bona](https://open.spotify.com/album/28rNJjo7RDgAV7Uscjv67T) | 4:01 |
 | 69 | [Buenos Aires Dreams](https://open.spotify.com/track/5CTRkmDhZekiUUT4dT1Chf) | [Le Griser](https://open.spotify.com/artist/5e1nz6aE7X0qZCQPvV2Syb) | [Buenos Aires Dreams](https://open.spotify.com/album/6cXOW35uxFKLeYkH0VU19O) | 3:46 |
-| 70 | [Taquito Militar](https://open.spotify.com/track/42czSuMf6exuMRamVGEuMb) | [Octavio Caruso](https://open.spotify.com/artist/48YWJAykmf4VvEhNaxcMzP) | [De Arrabal](https://open.spotify.com/album/0ji9m1iINGkLKPT375J7sq) | 2:43 |
+| 70 | [Milonga de la Anunciación](https://open.spotify.com/track/36h5l8FAbtSkVodxPOA8Qt) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Fernando Ruiz Diaz](https://open.spotify.com/artist/4DqWhVhkmy4QC5d32i591c) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:51 |
 
 Snapshot ID: `Zr7AsAAAAABD1oGmJvVCtljRtiwzmb45`

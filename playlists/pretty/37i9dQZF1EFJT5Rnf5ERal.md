@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6hyJ0dcR6HEDiNyBAgCEPU">Tay Keith</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,455 likes - 260 songs - 12 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,457 likes - 260 songs - 12 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 40 | [Pound Town 2](https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Hood Hottest Princess](https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42) | 3:14 |
 | 41 | [Loop Hole \(feat\. 21 Savage\)](https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Tee's Coney Island](https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP) | 2:31 |
 | 42 | [See Wat I’m Sayin](https://open.spotify.com/track/30vAfL9Wyu2fu07vdbZ1Xt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [See Wat I’m Sayin](https://open.spotify.com/album/3busrWaOS06nIDLDdIro3R) | 2:26 |
-| 43 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 |
-| 44 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
+| 43 | [Bow Bow Bow \(F My Baby Dad\)](https://open.spotify.com/track/351CSUM0YDA0GCbHCSKoL1) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:20 |
+| 44 | [Jumpin on a Jet](https://open.spotify.com/track/1I3ZAmPmbFV78oNKnibOiW) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:17 |
 | 45 | [U My Everything \(feat\. Drake\)](https://open.spotify.com/track/1TgStpMGTflN84asKJ8VU3) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [In Sexyy We Trust](https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx) | 3:45 |
 | 46 | [Jigsaw](https://open.spotify.com/track/2P6Mg5MHEBpFDrOqEWeHal) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Jigsaw](https://open.spotify.com/album/3oBbpALysZbyMq4SWFmt4P) | 2:32 |
 | 47 | [Same Thing](https://open.spotify.com/track/2XEsbmynS9dLSzNSuZzfXF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:42 |
@@ -269,4 +269,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJT5Rnf5ERal.md) - [plain]
 | 259 | [Drill Back \(with Tay Keith & Anti Da Menace\)](https://open.spotify.com/track/2P28cEFfp6mlS8kscFfIVQ) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Anti Da Menace](https://open.spotify.com/artist/7jkEdcZtIMWXlEM5sgZ2uK) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:12 |
 | 260 | [That’s Him \(with Tay Keith\)](https://open.spotify.com/track/6PpLYEioOcGe67driLklfo) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Yung N Turnt](https://open.spotify.com/album/6w6ILP1M9IAVkPSA2vM8Yv) | 2:45 |
 
-Snapshot ID: `AbbGLAAAAAC1iy8Uctuf8mTUF7U0SAA1`
+Snapshot ID: `AbbL/gAAAABc4Fi3W2bRrszNlYPx49bc`

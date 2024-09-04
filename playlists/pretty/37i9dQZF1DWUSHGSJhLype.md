@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Grelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 534,580 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 534,700 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Só Fé](https://open.spotify.com/track/0bPP5cDG1ZnbAVCEa3ZbQ1) | [Grelo](https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt) | [É o Grelo](https://open.spotify.com/album/41ng9tBJsRNYqaqRDEtrbN) | 3:23 |
 | 2 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
-| 3 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/22ikOGvq39sxkz6HhEtxG7) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
+| 3 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
 | 4 | [Patrai](https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT), [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu), [O REI DA BATIDINHA](https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB) | [Patrai](https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0) | 1:53 |
 | 5 | [2 Descaradinhos \- Ao Vivo](https://open.spotify.com/track/4fIPjhzrwNrPJ1IYTSXNzE) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [2 Descaradinhos \- Ao Vivo](https://open.spotify.com/album/4IuKk2IULwLhudSQfPSl5H) | 3:03 |
 | 6 | [Triplex \- Ao Vivo](https://open.spotify.com/track/1NcqLEg2r2LXqMVbam2BJD) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Triplex \(Ao Vivo\)](https://open.spotify.com/album/0PCSUAvZhDq8HVVN50o0U3) | 2:58 |

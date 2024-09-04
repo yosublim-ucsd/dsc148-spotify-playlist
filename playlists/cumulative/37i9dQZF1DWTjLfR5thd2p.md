@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-414 songs - 18 hr 8 min
+415 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Small windows](https://open.spotify.com/track/54PMgKkErM6O1QUgV3Nk3Q) | [Lyla Lyons](https://open.spotify.com/artist/1QwrYOufNq8cKYVIs8ATy1) | [Small windows](https://open.spotify.com/album/2mNM2ui2bPCfElAWPlvl9U) | 2:49 | 2022-05-20 |  |
 | [Soft Mallets](https://open.spotify.com/track/33UpGvF0qYuVgZRt6g1Gv4) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Soft Mallets](https://open.spotify.com/album/6C3wCA6fepDNa4wfcnP7ro) | 3:39 | 2022-05-20 | 2024-04-10 |
 | [Softly Spoken](https://open.spotify.com/track/4YxLJVcYXgN1Kxb67BvxEZ) | [Atticus Laines](https://open.spotify.com/artist/5lvoIhUaKTZ5DPNElfgAu6) | [Softly Spoken](https://open.spotify.com/album/5sZc4I4qqVcgMOSul9jIFw) | 2:16 | 2022-05-20 |  |
+| [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2024-09-03 |  |
 | [Sol](https://open.spotify.com/track/5Jw3aIOOV0k4xgIELSIz7C) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [Memento Vivere](https://open.spotify.com/album/3hlMxDhwvTsfqw6wMi2VVE) | 2:15 | 2022-05-20 |  |
 | [Soleil](https://open.spotify.com/track/2wiAB7RM25yzFCPXvpbpCi) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Life in Process](https://open.spotify.com/album/01i1UYjei9cY4kFL1VjSWH) | 3:19 | 2022-05-20 | 2024-04-04 |
 | [Someday](https://open.spotify.com/track/2l7GZORseeFArK1n3GUjac) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Someday](https://open.spotify.com/album/5B6UCEHOHCDK3BIng2X4FY) | 2:20 | 2024-08-16 |  |

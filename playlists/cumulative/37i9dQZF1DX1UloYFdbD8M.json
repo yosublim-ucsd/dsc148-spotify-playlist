@@ -1935,6 +1935,24 @@
     },
     {
       "album": {
+        "name": "Laare",
+        "url": "https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT"
+      },
+      "artists": [
+        {
+          "name": "Matadoria",
+          "url": "https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190134,
+      "name": "Laare",
+      "url": "https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt"
+    },
+    {
+      "album": {
         "name": "Lathiri Poothiri",
         "url": "https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz"
       },

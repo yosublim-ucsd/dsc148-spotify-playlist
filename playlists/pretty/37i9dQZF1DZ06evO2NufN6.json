@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 891212,
+  "num_followers": 891386,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABhgaHdWjd2m2XjSlHHC7zo",
+  "snapshot_id": "ZtUAAAAAAADeQxCy74Pm8NICJX712feW",
   "tracks": [
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
-        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 159119,
-      "name": "Best Day Ever",
-      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
+      "duration_ms": 371870,
+      "name": "The Question (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq"
     },
     {
       "added_at": null,
@@ -739,22 +743,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/1xCNBnc7Gm2VudnyeyZ11Q"
+        "name": "K.I.D.S.",
+        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
       },
       "artists": [
         {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 371870,
-      "name": "The Question (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq"
+      "duration_ms": 175782,
+      "name": "Senior Skip Day",
+      "url": "https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Best Day Ever (5th Anniversary Remastered Edition)",
+        "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 159119,
+      "name": "Best Day Ever",
+      "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
     },
     {
       "added_at": null,
@@ -771,22 +787,6 @@
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "K.I.D.S.",
-        "url": "https://open.spotify.com/album/1jzqEyjugAp9iLtRsj9LZg"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 175782,
-      "name": "Senior Skip Day",
-      "url": "https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc"
     },
     {
       "added_at": null,

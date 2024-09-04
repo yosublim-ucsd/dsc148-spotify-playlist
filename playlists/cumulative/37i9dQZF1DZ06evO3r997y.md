@@ -2,7 +2,7 @@
 
 ### [This Is Akari Kito](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is Akari Kito\. Todos os maiores hits em uma só playlist.
+> This is Akari Kito\. The essential tracks, all in one playlist.
 
 76 songs - 5 hr 3 min
 
@@ -56,7 +56,7 @@
 | [Monster \- from CrosSing](https://open.spotify.com/track/1Hv6sMKytVlsvVao1oErWd) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Monster \- from CrosSing](https://open.spotify.com/album/0m8OQ9Xl9id1RJ4uoZf9uQ) | 3:28 | 2022-06-09 | 2023-09-26 |
 | [No Continue](https://open.spotify.com/track/1t0A9qPEyOEW48bj3QiXgr) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:06 | 2022-06-09 |  |
 | [OPENING Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/7lGqrHJq4niQ5F2GLqNYlE) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 1:32 | 2022-06-11 |  |
-| [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 | 2022-10-13 |  |
+| [Oxidation](https://open.spotify.com/track/7JL4OxDA8P6sehYvuQRLlZ) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 3:24 | 2022-10-13 | 2024-09-04 |
 | [Rock the Floor](https://open.spotify.com/track/7dAWXVaKV6rlzHjk5cru7g) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:36 | 2024-08-30 |  |
 | [Star Arc](https://open.spotify.com/track/2Mst4G1cUGZVO5O11PsFCg) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Style](https://open.spotify.com/album/4qiC4VYeLzUiRS06HUH47P) | 4:20 | 2023-02-14 | 2023-03-13 |
 | [Star Arc](https://open.spotify.com/track/4rVJe6WIRlmH808XDC3rYq) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:20 | 2022-06-11 | 2024-08-09 |
@@ -69,7 +69,7 @@
 | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/track/5zpU1HBbzRG6SEEcDV110T) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at Nagoyashikokaido 2020/10/3](https://open.spotify.com/album/1lagESEbbM09Kw25B5DEgY) | 4:55 | 2022-06-16 | 2024-08-02 |
 | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/2EEE2AZhr7DvQ8GgFTH8Bi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/album/1rocMcQTcgdGA8tJTRP7zl) | 4:55 | 2022-08-09 |  |
 | [Tiny Light Live at 名古屋市公会堂 2020/10/3](https://open.spotify.com/track/5Zx58ghtsWvEdp2SIiYeCp) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [鬼頭明里 1st LIVE TOUR「Colorful Closet」Stream Selection](https://open.spotify.com/album/6QVsSElEJnjlZO0uNqUfzE) | 4:55 | 2022-06-09 | 2022-06-17 |
-| [Toumei na Yume](https://open.spotify.com/track/5WcxG1YKXPtJ2ia24rnqTI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 4:17 | 2024-08-26 | 2024-08-28 |
+| [Toumei na Yume](https://open.spotify.com/track/5WcxG1YKXPtJ2ia24rnqTI) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 4:17 | 2024-08-26 |  |
 | [Toumei na Yume](https://open.spotify.com/track/1GvD0dRM2WpuR605OEFvNO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kimi no Tonaride](https://open.spotify.com/album/3Xu8RDPELgeBO6qZQuHvpn) | 4:18 | 2022-07-26 | 2022-07-28 |
 | [Unchained mind](https://open.spotify.com/track/3C9KTBsj3y4wdLnzCOk8ZS) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Give Me Five!](https://open.spotify.com/album/74PByhG8bLn3KEH1poxdUA) | 3:45 | 2024-08-30 |  |
 | [V!vace](https://open.spotify.com/track/5YPWxhL7wOVsm6hP9XClnm) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:11 | 2022-06-09 |  |

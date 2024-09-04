@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Young Thug
 
-1,496 songs - 2 day 23 hr 6 min
+1,497 songs - 2 day 23 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Demon Time](https://open.spotify.com/track/2zWkxKrUj8GfsUMi0MczgE) | [FN DaDealer](https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Demon Time](https://open.spotify.com/album/5kKKmFlOzZCYVEXyVQDV9e) | 3:08 | 2022-08-26 | 2022-10-22 |
 | [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 | 2023-06-23 | 2023-07-19 |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-10 | 2022-07-02 |
+| [DENIAL IS A RIVER](https://open.spotify.com/track/1eTaznNW4Xxtx9za2SMTXB) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Alligator Bites Never Heal](https://open.spotify.com/album/60UzB8mOCMpc7xkuJE6Bwc) | 2:39 | 2024-09-03 |  |
 | [Dennis](https://open.spotify.com/track/2gGMDFXw9d4IRM06cdZ2et) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Dennis](https://open.spotify.com/album/6ypJpUZrayAtN25CvGngsP) | 2:16 | 2023-02-03 | 2023-02-18 |
 | [Deserve To Die](https://open.spotify.com/track/2DesZQFkwZ1OSKIi9e9n1t) | [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk) | [Deserve To Die](https://open.spotify.com/album/2NGea7ZwsdQZssZb8K4dIj) | 2:44 | 2024-05-17 | 2024-06-08 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-02 | 2022-10-15 |
@@ -1164,7 +1165,7 @@
 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 | 2022-11-04 | 2022-11-19 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/1PeDMQb4OIt2QBVvvXUd15) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/album/0afoo6vjuoRwsWH60vsbwN) | 3:07 | 2022-09-09 | 2022-10-21 |
 | [Shoot It Myself \(feat\. Future\)](https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 3:07 | 2022-09-09 | 2022-12-03 |
-| [Shoot It Out](https://open.spotify.com/track/5hYEXv4i4saqJMo4YEv0Zq) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Shoot It Out \- Versions](https://open.spotify.com/album/0czYDZX3GMkKouZ5juPvFb) | 2:08 | 2024-08-23 |  |
+| [Shoot It Out](https://open.spotify.com/track/5hYEXv4i4saqJMo4YEv0Zq) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Shoot It Out \- Versions](https://open.spotify.com/album/0czYDZX3GMkKouZ5juPvFb) | 2:08 | 2024-08-23 | 2024-09-04 |
 | [Shotta Flow 7](https://open.spotify.com/track/1WrxYBGmFK19BMRn3wLYMa) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Shotta Flow 7](https://open.spotify.com/album/1sDAOcqpwOFrDyrIncZn4d) | 2:45 | 2023-12-08 | 2024-04-19 |
 | [should've wore a bonnet](https://open.spotify.com/track/4Xzq2WibDHR5Eufi21HlEZ) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:06 | 2024-02-23 | 2024-03-23 |
 | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Show Dat Work \(feat\. GloRilla & Rob49\)](https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV) | 3:42 | 2024-08-23 | 2024-08-31 |

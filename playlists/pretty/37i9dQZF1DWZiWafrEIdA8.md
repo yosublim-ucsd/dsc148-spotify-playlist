@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 감성을 더해주는 가사와 비트를 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,268 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,269 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [Like Me](https://open.spotify.com/track/6CgtxMNf4JQpgUuDT62CJQ) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [HALO](https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi) | 3:51 |
 | 50 | [Fear](https://open.spotify.com/track/5YQ8OVvW80yoZqZ5PK9JXv) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Show Me the Money 4 Episode 5](https://open.spotify.com/album/38Ch7I5PqyCIugfJCcKTMr) | 4:09 |
 
-Snapshot ID: `ZreGggAAAADVdsp4Uh+HsyFWOQ2HFBow`
+Snapshot ID: `Ztc58wAAAACJ0Kr2FfPATnz0CMMtwq9y`

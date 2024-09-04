@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 152138,
       "name": "beam",
       "url": "https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt"
@@ -4229,6 +4229,24 @@
     },
     {
       "album": {
+        "name": "first love (Feat. ASH ISLAND)",
+        "url": "https://open.spotify.com/album/4cHnK7DeplVJuEg6iyS7r6"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204866,
+      "name": "first love (Feat. ASH ISLAND)",
+      "url": "https://open.spotify.com/track/2LfXmEBokneZ3InvHhBRa7"
+    },
+    {
+      "album": {
         "name": "Fix Me",
         "url": "https://open.spotify.com/album/6RFbxZglh7xXZrkkxXWOGv"
       },
@@ -6202,7 +6220,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 180666,
       "name": "i Loved Him (feat. NO:EL)",
       "url": "https://open.spotify.com/track/2z4OltE3sBCd481f3nkp3F"
@@ -7975,6 +7993,24 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X"
+    },
+    {
+      "album": {
         "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
         "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
       },
@@ -9714,7 +9750,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 162909,
       "name": "One & Only",
       "url": "https://open.spotify.com/track/0kwttQkLxci6m9SU7XelgM"
@@ -9960,6 +9996,24 @@
       "duration_ms": 207053,
       "name": "Over You",
       "url": "https://open.spotify.com/track/3Qi024yD0YtE3nUqv1mCAp"
+    },
+    {
+      "album": {
+        "name": "TENT 0.3",
+        "url": "https://open.spotify.com/album/2Lvb2FmWvthR6XPszLF41J"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159096,
+      "name": "Pajama",
+      "url": "https://open.spotify.com/track/0rtUHxLBR3MARvki4YVOzL"
     },
     {
       "album": {

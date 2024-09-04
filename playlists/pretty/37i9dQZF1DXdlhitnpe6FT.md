@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 
 > The notes that will make you long for those days of yore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,864 likes - 115 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,996 likes - 115 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,20 +100,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdlhitnpe6FT.md) - [plain]
 | 90 | [Capullito de Aleli](https://open.spotify.com/track/6WlYy1nXmehizsvKs1EZV8) | [Pepe Jaramillo](https://open.spotify.com/artist/4op0Vv2745lhZU9Mqxamh0) | [Al Sur de la Frontera](https://open.spotify.com/album/5lVxK9CLDOrkS8vDtGpnc4) | 1:51 |
 | 91 | [Lazy Bones](https://open.spotify.com/track/2mu3ZwektOrAHzGuDVQKtF) | [Esquivel!](https://open.spotify.com/artist/42kHi9ZIpRGtgjP8ZB4jsi) | [Exploring New Sounds In Stereo](https://open.spotify.com/album/6UHuya9o63tCKWr6m55WrG) | 2:45 |
 | 92 | [Lluvia De Primavera](https://open.spotify.com/track/09y50L3Xj8ubckOkjvfmzY) | [Bebu Silvetti](https://open.spotify.com/artist/4KZwQdGgLn54iXbmFEN8WJ) | [Emociones Sin Límite Volumen 1](https://open.spotify.com/album/3PDBK5dKDsYY42NOIh8STL) | 5:55 |
-| 93 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
-| 94 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
+| 93 | [](https://open.spotify.com/track/2jA7IONZUcWrYxEMnwAPDZ) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
+| 94 | [Songbird](https://open.spotify.com/track/0dCC19wOJWLPcldkFY5RlI) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [The Essential Kenny G 3.0](https://open.spotify.com/album/0ymca6tLUBwtLUqH8fslrt) | 5:03 |
 | 95 | [Rise](https://open.spotify.com/track/7znZstuIvZjldNIO1E11U4) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Rise](https://open.spotify.com/album/0UP3rWITqj74OAVCHP5034) | 7:37 |
 | 96 | [Petite Fleur](https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x) | [Chris Barber](https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU), [Monty Sunshine](https://open.spotify.com/artist/42AJfxnbtIFT4DbZcUf11d) | [60 Timeless Classics from the Giants of Traditional Jazz](https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR) | 2:44 |
-| 97 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
-| 98 | [Memories of Summer](https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN) | 3:10 |
-| 99 | [Blue Navajo](https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK) | [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Blue Navajo](https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ) | 3:33 |
-| 100 | [](https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
+| 97 | [Memories of Summer](https://open.spotify.com/track/1xQReqTn2P5oyqnXo9Eir2) | [Tony Hatch](https://open.spotify.com/artist/0k1Nc8EWBurYtiQXSW6rgj) | [Avengers and Other Top Sixties Themes](https://open.spotify.com/album/4G3wBMn8HG0iHXtAhiXoAN) | 3:10 |
+| 98 | [Music Box Dancer](https://open.spotify.com/track/4zvcdfyrGUGgJRsgiCJlVX) | [Frank Mills](https://open.spotify.com/artist/1rlNSO7W5SWGspO6fgrHPS) | [Music Box Dancer](https://open.spotify.com/album/2Ym6tiJht0CqqPTOEhlatf) | 3:12 |
+| 99 | [Claire](https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Danke Schoen \- Helmut Zacharias](https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y) | 2:25 |
+| 100 | [Blue Navajo](https://open.spotify.com/track/3aMkSlWZcFMwfXYGIskbkK) | [Gheorghe Zamfir](https://open.spotify.com/artist/12FFWdcxApUNXV9TljwDpT) | [Blue Navajo](https://open.spotify.com/album/5KYZtxIJAEFc4ahwgtptQQ) | 3:33 |
 | 101 | [Tijuana Taxi](https://open.spotify.com/track/7JH6N7qstfxRhaB7PjiE9q) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:05 |
-| 102 | [Lovers](https://open.spotify.com/track/5oUq3mzTtlqFltQMFXlnTa) | [Fausto Papetti](https://open.spotify.com/artist/63OTxIlptWU4lh6St8Ly69) | [50 Love Songs](https://open.spotify.com/album/3ghITPQCQi4djH9kfjftcN) | 3:29 |
+| 102 | [](https://open.spotify.com/track/5Atv4zsOmzJV3WobHe0Lm2) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4q2uIRtXzeSXEtNegxFR56) | 0:00 |
 | 103 | [Route 101](https://open.spotify.com/track/1Tf0xSQyh7O1bsgwjNRkCl) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:22 |
-| 104 | [Morricone: Chi Mai](https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classical Chillout](https://open.spotify.com/album/5gGoL7HQZvclBKLMGPrByW) | 5:08 |
-| 105 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
-| 106 | [Claire](https://open.spotify.com/track/0SPiPaxXopuqHmU4Z8G2l7) | [Helmut Zacharias](https://open.spotify.com/artist/4nCFpRRLWXwZc3EQYD7GgH) | [Danke Schoen \- Helmut Zacharias](https://open.spotify.com/album/56xiaYPiMFdZhgSrDVHV3y) | 2:25 |
+| 104 | [Lovers](https://open.spotify.com/track/5oUq3mzTtlqFltQMFXlnTa) | [Fausto Papetti](https://open.spotify.com/artist/63OTxIlptWU4lh6St8Ly69) | [50 Love Songs](https://open.spotify.com/album/3ghITPQCQi4djH9kfjftcN) | 3:29 |
+| 105 | [Morricone: Chi Mai](https://open.spotify.com/track/2AO1wjtZURTG3Ti43mYAz0) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Classical Chillout](https://open.spotify.com/album/5gGoL7HQZvclBKLMGPrByW) | 5:08 |
+| 106 | [Chariots Of Fire](https://open.spotify.com/track/3hBgVOpgET0AGtdwc5D8Qy) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Themes](https://open.spotify.com/album/365COQVY3FyrwwOkVUO5Ay) | 3:31 |
 | 107 | [Concierto para una Sola Voz](https://open.spotify.com/track/70sxaj2Vw8JxkJVCSSv7UR) | [Spanish Caribe Band](https://open.spotify.com/artist/0gkvval3Ekf4A9OCjO0s1q) | [Fusion Brasil Jazz\. Bossa Nova Música Brasileña](https://open.spotify.com/album/37zxh5L8F8zURM03aCAp29) | 2:20 |
 | 108 | [Fandango](https://open.spotify.com/track/5PqVJxSboSCtmNs6nbXWcS) | [Herb Alpert](https://open.spotify.com/artist/1PqdKx88nAgPolRy079lMl) | [Fandango](https://open.spotify.com/album/5QhbEfXhTeNtpp8WRj9atp) | 3:41 |
 | 109 | [Spanish Flea](https://open.spotify.com/track/0fmNiN85g1XF1NemAGY7G2) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [!!!Going Places!!!](https://open.spotify.com/album/0VqOfYQxQomNWHAiB9MHm2) | 2:06 |

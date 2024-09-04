@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-947 songs - 2 day 8 hr 12 min
+948 songs - 2 day 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-22 | 2023-09-02 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/32vE1nuG8T9c8bhmZdRY6d) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 3:05 | 2022-06-04 | 2022-06-18 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-19 | 2022-06-01 |
-| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-31 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-08-31 | 2024-09-04 |
+| [CRAZY](https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY \(Party Remixes 1\)](https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2) | 2:44 | 2024-09-03 |  |
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-09 |  |
 | [Crush On](https://open.spotify.com/track/4LSPhOVHew694KG2IAA6Ap) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Diamond In The Rough](https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ) | 3:01 | 2021-10-07 | 2023-01-24 |
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-05-14 | 2023-05-23 |
@@ -565,7 +566,7 @@
 | [Wild Flower \(with youjeen\)](https://open.spotify.com/track/5p8ThxM2OhJ0igfxkz0Z1q) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 4:33 | 2022-12-03 | 2022-12-15 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-24 | 2021-10-02 |
 | [With you](https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Our Blues, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy) | 3:21 | 2022-04-25 | 2022-05-08 |
-| [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 | 2021-03-27\* | 2024-07-10 |
+| [Without You](https://open.spotify.com/track/0KWnRv3wxjltYVB3MqjNd2) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE) | [\#osnrap](https://open.spotify.com/album/4b65l6XzLp2Eg6lDTMmO1k) | 2:55 | 2021-03-27\* |  |
 | [Work](https://open.spotify.com/track/3N0srZgpRLSY2ziJ1FsJh9) | [高爾宣 OSN](https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE), [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr) | [Work](https://open.spotify.com/album/3iFMz768dCGwpWGfzECGx9) | 2:46 | 2022-09-28 | 2022-10-13 |
 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 | 2021-10-31 | 2021-11-23 |
 | [Yawn](https://open.spotify.com/track/1qzvzPfqzpNQ01ZBOEkVlf) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 11th Mini Album 'SEVENTEENTH HEAVEN'](https://open.spotify.com/album/1rE0Gy69MFUh4GuXafWd0f) | 4:18 | 2023-10-24 | 2023-10-29 |
@@ -849,7 +850,7 @@
 | [玻璃心](https://open.spotify.com/track/4SQxzEwMRZcLl4XSDoWCL5) | [Namewee](https://open.spotify.com/artist/24jrxG0tKcwgAzsLuPzyMi), [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [玻璃心](https://open.spotify.com/album/2e5in6GxWwtHPwPi7lqf4N) | 3:58 | 2021-10-19 | 2021-11-17 |
 | [現在是什麼時辰了](https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [現在是什麼時辰了](https://open.spotify.com/album/087F57aCMcaiIh4HUX9GcE) | 3:59 | 2022-02-26 | 2022-03-11 |
 | [男二號](https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [男二號](https://open.spotify.com/album/1XhaXOXcCJIprINnCyMgxP) | 4:47 | 2022-02-04 | 2022-02-13 |
-| [當你](https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp) | 3:23 | 2022-05-31 |  |
+| [當你](https://open.spotify.com/track/4xNDbq22jC2Vdf6QV2uArL) | [Cyndi Wang](https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP) | [Begin](https://open.spotify.com/album/2nXygKVkTEGHeCtdEHCsdp) | 3:23 | 2022-05-31 | 2024-09-04 |
 | [當我們的手勇敢緊握 \-《戀愛無名氏2》主題曲 \(同志音樂愛情故事系列\)](https://open.spotify.com/track/7caHK6TGgZNCPAwKtGWYtq) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [當我們的手勇敢緊握 \-《戀愛無名氏2》主題曲 \(同志音樂愛情故事系列\)](https://open.spotify.com/album/4dZzEDQdvx3KE0OVv4rqBy) | 3:15 | 2021-07-09 | 2021-07-11 |
 | [白日夢](https://open.spotify.com/track/5zpFUmekUFVlDjKDTuCbtl) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:44 | 2023-05-22 | 2023-06-05 |
 | [白月光与朱砂痣](https://open.spotify.com/track/74nVCj4vMVemLIs71vXcnP) | [大籽](https://open.spotify.com/artist/2NJLAUSe3Ifk9MiHbddRAi) | [白月光与朱砂痣](https://open.spotify.com/album/22QqokF4etKGtDv3BrNvXK) | 3:24 | 2021-03-27\* | 2021-12-25 |

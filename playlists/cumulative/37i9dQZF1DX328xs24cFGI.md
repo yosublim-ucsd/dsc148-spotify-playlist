@@ -4,7 +4,7 @@
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-329 songs - 21 hr 25 min
+330 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [愛の言葉](https://open.spotify.com/track/4ResLs28mRYFb0nxR5XyMr) | [Kyanai](https://open.spotify.com/artist/42ogLtXLVjZryRz9j1zvOm) | [愛の言葉](https://open.spotify.com/album/2riMQYgiw2Octvqe808il3) | 4:25 | 2023-02-21 | 2023-02-23 |
 | [愛をやめない](https://open.spotify.com/track/5hua4RebA4SNQmZUdHNyDx) | [フレンズ](https://open.spotify.com/artist/7I045Ct8xfI1QlSYq4XuBh) | [愛をやめない](https://open.spotify.com/album/4G9hhOddozDYiI0ZAFbJv5) | 3:26 | 2023-06-13 | 2023-06-28 |
 | [愛を伝えたいだとか](https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 3:55 | 2023-03-16 |  |
-| [愛言葉](https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:46 | 2024-04-16 |  |
+| [愛言葉](https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [Memories](https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5) | 4:46 | 2024-04-16 | 2024-09-04 |
 | [憂い桜](https://open.spotify.com/track/3i1w3l5dnk2sCxVsVHsjuw) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [憂い桜](https://open.spotify.com/album/1YfaIMNRslj7EHBsZw63cz) | 4:35 | 2023-03-02 | 2023-05-31 |
 | [最低](https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [最低](https://open.spotify.com/album/4DV2vgNpPKrd4BS3p2Msb0) | 3:20 | 2023-02-09 | 2024-01-11 |
 | [本当はね、](https://open.spotify.com/track/16yajBS7lk0QAa5CZnTHo9) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [歌にしてしまえば、どんなことでも許されると思っていた](https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e) | 3:21 | 2024-04-16 |  |
@@ -303,6 +303,7 @@
 | [甘恋](https://open.spotify.com/track/05gzYjM4EQWUksTH9V4zHF) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [甘恋](https://open.spotify.com/album/0b52gb7VLKM0FxLjQkTpkr) | 3:37 | 2023-04-06 | 2023-04-12 |
 | [病](https://open.spotify.com/track/16Dklj36BXIa9bY1ZgP7DK) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:24 | 2023-02-09 | 2023-02-19 |
 | [眠れない夜を君に](https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [眠れない夜を君に](https://open.spotify.com/album/7rrFcw6k2bhPTVkhswjxTk) | 4:04 | 2023-02-09 | 2023-03-03 |
+| [眼差し](https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [眼差し](https://open.spotify.com/album/2uGI04yVeqhytZ8NATBuhh) | 3:40 | 2024-09-03 |  |
 | [瞼を染めて](https://open.spotify.com/track/2fBn3VyijKi3MpJwtAV7vX) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [瞼を染めて](https://open.spotify.com/album/7n9EYkI7aeTGqS0ZGTAg8b) | 4:50 | 2024-01-18 | 2024-02-14 |
 | [知りたい](https://open.spotify.com/track/0ZzlTt1awceD0HCG2ntBi3) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [知りたい](https://open.spotify.com/album/2A9DObdoMkFhBu9OVof8ec) | 3:07 | 2023-11-28 | 2023-11-30 |
 | [秘密のキス](https://open.spotify.com/track/077Erf4RnkjumF791VOBnE) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [ユーモア](https://open.spotify.com/album/4Owee1i5rIFJvQczZXSdiQ) | 4:05 | 2023-02-09 | 2023-02-26 |

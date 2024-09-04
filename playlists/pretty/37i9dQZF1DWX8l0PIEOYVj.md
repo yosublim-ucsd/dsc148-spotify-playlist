@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: William Black & Said The Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,975 likes - 150 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,951 likes - 150 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 60 | [Moments \(feat\. Rynn\)](https://open.spotify.com/track/4zQiv23zrHU1iaplSdKffx) | [Hoang](https://open.spotify.com/artist/2KjxvxgJvbwweNVRMSuIRG), [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [Rynn](https://open.spotify.com/artist/4aOOnr90lZUhyGcEgmtgcl) | [Moments \(feat\. Rynn\)](https://open.spotify.com/album/35vCTBiGCxmTih3qQCwoQ8) | 3:02 |
 | 61 | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \- Dabin Remix](https://open.spotify.com/track/0BsPNqJHgzMgJfcSE7rjNe) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [STUPID IN LOVE \(feat\. HUH YUNJIN of LE SSERAFIM\) \[Dabin Remix\]](https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw) | 2:28 |
 | 62 | [Where You Are](https://open.spotify.com/track/5oTeS54T2KErbIe5XwJbjW) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Jex](https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF) | [Where You Are](https://open.spotify.com/album/11ZzN3XPH3M2DuLLAthWxR) | 3:52 |
-| 63 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
+| 63 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
 | 64 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |
 | 65 | [Lifeline \(Reborn\)](https://open.spotify.com/track/0Gt9HuvYiNb3WbGsZl97h7) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW), [Transparent Arts](https://open.spotify.com/artist/1F9TDeezTpFqrwPkn1S8qW) | [Lifeline \(Reborn\)](https://open.spotify.com/album/0KWR2tv5EErpvqTEWOTriI) | 3:28 |
 | 66 | [Back To Me](https://open.spotify.com/track/7rtHLNRdgRRJdvaMZTdVFn) | [MVSE](https://open.spotify.com/artist/1vaJtw85EDccyv1uf5OoIb), [shXdow.](https://open.spotify.com/artist/5k013eqGq6R7I8hYIqB643), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Back To Me](https://open.spotify.com/album/7wYiEcHymyhrB6n9TDnbvu) | 3:48 |

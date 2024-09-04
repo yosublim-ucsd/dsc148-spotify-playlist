@@ -4,7 +4,7 @@
 
 > This Is Björk\. Los temas esenciales, todos en una lista.
 
-140 songs - 10 hr 4 min
+141 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/1GAOXR2gtrxQ28XW0weuWZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 0:44 | 2024-03-05 | 2024-03-18 |
 | [Fagurt Er Í Fjörðum](https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy) | 0:44 | 2024-03-17 |  |
 | [Fagurt Er í Fjörðum](https://open.spotify.com/track/7sxmybK8Eo24k9uOWttqWS) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 0:44 | 2023-11-10 | 2024-01-28 |
-| [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 | 2024-01-29 |  |
+| [Fossora](https://open.spotify.com/track/0hz1UrqsuZMGVDv7zjXBaK) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 4:19 | 2024-01-29 | 2024-09-04 |
 | [Fossora](https://open.spotify.com/track/6JjISShxjXOGx8C40pBtQJ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/0KVdzmHHGGE8STv19uYPiL) | 4:19 | 2023-11-10 | 2024-01-30 |
 | [Frosti](https://open.spotify.com/track/1XGsj1tkyGJtE3C2Cc9VYT) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 1:41 | 2024-03-13 | 2024-03-19 |
 | [Frosti](https://open.spotify.com/track/7kyQeUJ6g5GQNHUfV2f79v) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 1:41 | 2024-03-18 |  |
@@ -134,6 +134,7 @@
 | [There's More To Life Than This \- Live At The Milk Bar Toilets](https://open.spotify.com/track/2runFrIwOg5p2HZo1oymEL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/7qopDhMKBIfoIM2gJcecbr) | 3:21 | 2024-04-09 | 2024-04-12 |
 | [Triumph Of A Heart](https://open.spotify.com/track/2ZJdtalkNonRqukSTaYTf9) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/12n9nyAJ5Q4FHRldrciIPG) | 4:04 | 2023-11-10 | 2024-03-16 |
 | [Triumph Of A Heart](https://open.spotify.com/track/2xMjSaJTUcwlv6lKQGTb5g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Medúlla](https://open.spotify.com/album/1OBctVHKbHrQ2t5oCeHNtN) | 4:04 | 2024-03-16 |  |
+| [Trölla\-Gabba](https://open.spotify.com/track/2im5iX7LFkBp7vI35x7AYw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [Kasimyn](https://open.spotify.com/artist/2q51gH6fgmHILYSIfsVkU5) | [Fossora](https://open.spotify.com/album/6ZY51GqMbhN0Xlc91bNGX9) | 1:57 | 2024-09-04 |  |
 | [Undo](https://open.spotify.com/track/4HuzulSsDeFqvq3e84ZIrI) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak) | 5:38 | 2024-03-27 |  |
 | [Undo](https://open.spotify.com/track/5eacHz9AJcozOn3KuqzPQz) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:38 | 2024-03-09 | 2024-03-27 |
 | [Unravel](https://open.spotify.com/track/6JrmglKffvzzCZCtMEdUtk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 3:21 | 2024-03-16 |  |

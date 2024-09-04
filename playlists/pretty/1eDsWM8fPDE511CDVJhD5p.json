@@ -1,13 +1,113 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u30af\u30e9\u30d6\u3067\u8074\u304d\u305f\u3044\u30af\u30fc\u30eb\u306a\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 126,
+  "num_followers": 127,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAADkP/6TFFhkDmndpD/k4mqkD5RZzZQ",
+  "snapshot_id": "AAADoAMUecaFZZlt4rBNPwKp44KOSVZA",
   "tracks": [
+    {
+      "added_at": "2024-09-03 08:36:56",
+      "album": {
+        "name": "Circus's Detail",
+        "url": "https://open.spotify.com/album/4TzAk1kHYn3dQ9A0Wbf53q"
+      },
+      "artists": [
+        {
+          "name": "32ki",
+          "url": "https://open.spotify.com/artist/76SIHZoc1kOba5ynrOtvOX"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        },
+        {
+          "name": "\u6b4c\u611b\u30e6\u30ad",
+          "url": "https://open.spotify.com/artist/5NB3uGRtuXv54usQyxe60r"
+        },
+        {
+          "name": "\u30ca\u30fc\u30b9\u30ed\u30dc\uff3f\u30bf\u30a4\u30d7\uff34\uff08VOICEVOX\uff09",
+          "url": "https://open.spotify.com/artist/0LMeefeYmPzOap5flxAghm"
+        }
+      ],
+      "duration_ms": 158578,
+      "name": "\u6a21\u7bc4\u89e3\u7b54\u5b9f\u9a13\u5ba4 (feat. \u53ef\u4e0d&\u6b4c\u611b\u30e6\u30ad&\u30ca\u30fc\u30b9\u30ed\u30dc\uff3f\u30bf\u30a4\u30d7\uff34\uff08VOICEVOX\uff09)",
+      "url": "https://open.spotify.com/track/62p2LWFyHiOE2yc35dOuXU"
+    },
+    {
+      "added_at": "2024-09-03 08:37:07",
+      "album": {
+        "name": "MIra[KU]le",
+        "url": "https://open.spotify.com/album/6UOGL4jPllnNOOomFQ076z"
+      },
+      "artists": [
+        {
+          "name": "\u30e1\u30c9\u30df\u30a2",
+          "url": "https://open.spotify.com/artist/1o2y1QAdMMp0qLp6m267KP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 174222,
+      "name": "\u30a2\u30e9\u30a4\u30d6\u30c9\u30fc\u30eb (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/0T22TAOB1s7w1btHSrfAyg"
+    },
+    {
+      "added_at": "2024-09-03 08:37:19",
+      "album": {
+        "name": "\u30b5\u30a4\u30b1\u30c7\u30ea\u30c3\u30af\u30b7\u30e3\u30c9\u30a6",
+        "url": "https://open.spotify.com/album/4rDYS9WkINvNeeB0B6pPUf"
+      },
+      "artists": [
+        {
+          "name": "As'257G",
+          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 235135,
+      "name": "\u30a2\u30a4\u30c9\u30eb\u30b7\u30f3\u30bb\u30b5\u30a4\u30ba (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/17Gy6gHUPPTS6za9tjBcc3"
+    },
+    {
+      "added_at": "2024-09-03 08:37:29",
+      "album": {
+        "name": "Sandalwood",
+        "url": "https://open.spotify.com/album/3tSwkvjRRWEBRBRnZrnPxD"
+      },
+      "artists": [
+        {
+          "name": "Twinfield",
+          "url": "https://open.spotify.com/artist/56zkAgJU71duRqijLeZbNJ"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Sandalwood (feat. Hatsune Miku)",
+      "url": "https://open.spotify.com/track/0Z7usZMBxtdJ11pIseYpYf"
+    },
+    {
+      "added_at": "2024-09-03 08:37:40",
+      "album": {
+        "name": "\u30d1\u30e9\u30d1\u30e9\u30c1\u30e3\u30fc\u30cf\u30f3",
+        "url": "https://open.spotify.com/album/4Si4fpD99wxKCpslJZBQYI"
+      },
+      "artists": [
+        {
+          "name": "MURASAKI",
+          "url": "https://open.spotify.com/artist/3iC8uRRIPmnEXSTKmYQSBe"
+        }
+      ],
+      "duration_ms": 186600,
+      "name": "\u30d1\u30e9\u30d1\u30e9\u30c1\u30e3\u30fc\u30cf\u30f3 (feat. v flower&\u521d\u97f3\u30df\u30af&\u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3kNy885VVIeW9AI3Q81Xmj"
+    },
     {
       "added_at": "2024-08-27 08:55:33",
       "album": {
@@ -703,98 +803,6 @@
       "duration_ms": 403478,
       "name": "Rennfahrer",
       "url": "https://open.spotify.com/track/76dmZHojyTb5lLou6DebBV"
-    },
-    {
-      "added_at": "2024-06-11 06:06:40",
-      "album": {
-        "name": "GABI",
-        "url": "https://open.spotify.com/album/2I1NA7u5rWcPRQQDvsO3GH"
-      },
-      "artists": [
-        {
-          "name": "tepe",
-          "url": "https://open.spotify.com/artist/2Dc4S00e5Toq28b7HT9VOu"
-        }
-      ],
-      "duration_ms": 150394,
-      "name": "GABI",
-      "url": "https://open.spotify.com/track/6r9z4yBRGcmw3hEpQaWbzN"
-    },
-    {
-      "added_at": "2024-06-11 06:07:09",
-      "album": {
-        "name": "Used to it",
-        "url": "https://open.spotify.com/album/0JAofa2RYiluzG4kQ4k4xr"
-      },
-      "artists": [
-        {
-          "name": "okameP",
-          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
-        },
-        {
-          "name": "MAI",
-          "url": "https://open.spotify.com/artist/0HlTcy9czaATTBerfsVICJ"
-        },
-        {
-          "name": "\u590f\u8272\u82b1\u68a8",
-          "url": "https://open.spotify.com/artist/7FbEkAd1ocwATHXfNIT4fU"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Used to it (feat. Mai&\u590f\u8272\u82b1\u68a8)",
-      "url": "https://open.spotify.com/track/7J4t9pdLJ2oSokm4nTv9f9"
-    },
-    {
-      "added_at": "2024-06-11 06:07:35",
-      "album": {
-        "name": "ReUnion",
-        "url": "https://open.spotify.com/album/6SrHm3MvmahTeHAJ20DRDv"
-      },
-      "artists": [
-        {
-          "name": "UtopiaLyric",
-          "url": "https://open.spotify.com/artist/51gCPcdwzpdNCoD1k65iFr"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 234312,
-      "name": "ReUnion (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/46jeq6z4KOXA7b2ixQWCJz"
-    },
-    {
-      "added_at": "2024-06-11 06:10:04",
-      "album": {
-        "name": "I'm under your spell",
-        "url": "https://open.spotify.com/album/75RbERMYdzNZ6OdM3QTY5j"
-      },
-      "artists": [
-        {
-          "name": "SPACELECTRO",
-          "url": "https://open.spotify.com/artist/3zrzB7L77L7Fl7ec20Ahsy"
-        }
-      ],
-      "duration_ms": 254117,
-      "name": "Mojito(\u3082\u3072\u30fc\u3068)",
-      "url": "https://open.spotify.com/track/1JKYvYLIRRSaOUbE7uEl22"
-    },
-    {
-      "added_at": "2024-06-11 06:12:45",
-      "album": {
-        "name": "Hope Sound",
-        "url": "https://open.spotify.com/album/3GGiOnxf5GYYCCqPSSsspz"
-      },
-      "artists": [
-        {
-          "name": "tilt-six",
-          "url": "https://open.spotify.com/artist/2HUBzrfmf4OFDRjxaCfwbs"
-        }
-      ],
-      "duration_ms": 286066,
-      "name": "pray feat.HATSUNE MIKU",
-      "url": "https://open.spotify.com/track/2VYbUINwqqn47Yq0Nm1Kjz"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

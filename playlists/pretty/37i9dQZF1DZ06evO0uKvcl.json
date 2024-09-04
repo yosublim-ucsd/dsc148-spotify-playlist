@@ -1,12 +1,12 @@
 {
-  "description": "This is Howlin' Wolf. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 27811,
+  "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
+  "num_followers": 27824,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADWCU3tRScF2Jf0zDIwFRkv",
+  "snapshot_id": "ZtUAAAAAAADFXJxZd6nJVy5JSIlG7l5p",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "You Gonna Wreck My Life",
+      "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 311506,
       "name": "Diddley Daddy",
       "url": "https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "You Gonna Wreck My Life",
-      "url": "https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 299093,
-      "name": "I Believe I'll Dust My Broom - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/3DWc5WqUGZCTDxVUIyzZja"
+      "duration_ms": 334320,
+      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 334320,
-      "name": "I Didn't Mean to Hurt Your Feelings - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
-      "url": "https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7"
+      "duration_ms": 299093,
+      "name": "I Believe I'll Dust My Broom - Bremen Live March 3rd. 1964 - Restauraci\u00f3n 2024",
+      "url": "https://open.spotify.com/track/3DWc5WqUGZCTDxVUIyzZja"
     },
     {
       "added_at": null,

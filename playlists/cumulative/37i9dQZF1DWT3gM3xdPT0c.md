@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-356 songs - 15 hr 20 min
+357 songs - 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,6 +224,7 @@
 | [Mysteria](https://open.spotify.com/track/7kiJGWdIIGQGNKGbJiZY13) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Mysteria](https://open.spotify.com/album/15x93VkfHJU0cHYMGXTmcW) | 2:02 | 2022-03-04 | 2022-04-22 |
 | [Nebraska](https://open.spotify.com/track/3q5fdhlCmgridfA7Vvno89) | [Candelion](https://open.spotify.com/artist/3Qq7KInk9dmtAMzajwdPDG) | [Nebraska](https://open.spotify.com/album/0qbdSsiufit9uLqddWE6KK) | 2:31 | 2023-06-02 |  |
 | [New York](https://open.spotify.com/track/31Y814r838dlqpwjwCfDqd) | [Zach Len](https://open.spotify.com/artist/2yZEQrcXpn8B6Pjm4HxvhR) | [New York](https://open.spotify.com/album/3Jh7mSndEvxQOIdq18j4nh) | 2:25 | 2022-11-25 | 2023-10-13 |
+| [Nice](https://open.spotify.com/track/2KGBA1oetwZigO3KXRYZk6) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Nice](https://open.spotify.com/album/3e96nxcQuXexBdHU5J7jxK) | 2:21 | 2024-09-03 |  |
 | [No Worries](https://open.spotify.com/track/2yBaIXKjsNGxGFlaqob4qI) | [Oliver Bade](https://open.spotify.com/artist/2W1nq0Ox5T3BshpYbjxjCj) | [No Worries](https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Noche Oscura](https://open.spotify.com/track/7pBTuE1FyL9c384Qn7VjSi) | [Juan Pedro Camoro](https://open.spotify.com/artist/0RU0eLI9MsXfF40bMd6Wh1) | [Noche Oscura](https://open.spotify.com/album/4VsF4lug4BUD3eU6cAd1zv) | 2:30 | 2022-03-04 | 2022-05-27 |
 | [Nostálgica](https://open.spotify.com/track/4KirUMRCdO6e9dzltUqHoN) | [Manuel Limbucca](https://open.spotify.com/artist/5mTxvOsY3hfZ4DWE6qMSpT) | [Granada](https://open.spotify.com/album/4hSlCERBN8RHcmwYugUOUK) | 2:52 | 2022-03-04 | 2022-05-27 |

@@ -2,7 +2,7 @@
 
 ### [This Is Nirvana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3M0Fbi)
 
-> This is Nirvana\. Todos os maiores hits em uma só playlist.
+> This is Nirvana\. The essential tracks, all in one playlist.
 
 49 songs - 2 hr 46 min
 

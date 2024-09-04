@@ -844,7 +844,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 150438,
       "name": "Episode",
       "url": "https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt"
@@ -2600,6 +2600,24 @@
       "duration_ms": 212374,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz"
+    },
+    {
+      "album": {
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171916,
+      "name": "Simple Pleasures",
+      "url": "https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,113 likes - 125 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,246 likes - 125 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,16 +122,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 112 | [Amores Como el Nuestro](https://open.spotify.com/track/6z6aUQtuqZzq2tbyVwHO6n) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [corazon de papel](https://open.spotify.com/album/6BKIN0ZfJGzO4iBCoOsmu4) | 3:16 |
 | 113 | [Pasito Tun, Tun](https://open.spotify.com/track/44DJn7xXxlUbTzErTY8DiB) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Los Años De Oro \- La Orquesta De Siempre](https://open.spotify.com/album/4lxclNX6RVc7Fldg82i1tz) | 3:46 |
 | 114 | [Porque te Amo](https://open.spotify.com/track/25DfDOwP1giHlA05V3LyUR) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor!!!](https://open.spotify.com/album/3kAXiEiI9Je5tywIAywzcp) | 3:53 |
-| 115 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 |
+| 115 | [Guaracha Sabrosona](https://open.spotify.com/track/1NF3HErcMkLOcyG5K1fGLL) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/2RmmHqe6EdibrcZfvRQkYk) | 3:39 |
 | 116 | [Echarme Al Olvido](https://open.spotify.com/track/52Uy47FjbqbAh3WXejw7gU) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. III](https://open.spotify.com/album/4lxhwVX8BPSeITPGBOzIJw) | 4:40 |
-| 117 | [Amor de Internet](https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW) | 3:50 |
-| 118 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santa Marta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 |
-| 119 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
-| 120 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
+| 117 | [Te Vas](https://open.spotify.com/track/2aJuCPajaqOVaNjmgKGRhF) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/3odNjgXP8eMSz2g8n890mH) | 3:49 |
+| 118 | [Amor de Internet](https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW) | [Amor de Internet](https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW) | 3:50 |
+| 119 | [Hoja En Blanco](https://open.spotify.com/track/1KeFTzRrYwnDlxRFNJY4uQ) | [Santa Marta](https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB) | [Nunca Me Faltes](https://open.spotify.com/album/4IERX704YcJHePC2n4irxt) | 4:26 |
+| 120 | [El Verde De Tus Ojos](https://open.spotify.com/track/1UKNDMySEIHiCSXDWkDfX3) | [Los Yes Yes](https://open.spotify.com/artist/6h9B8wche8pbvJ0wiWKn8q) | [Serie 20 Exitos Los Yes Yes](https://open.spotify.com/album/7AD9IxY8zyCNjGqyut7p1t) | 5:13 |
 | 121 | [Alma De Acero](https://open.spotify.com/track/36L3qqhm1COyggnY3aOGvX) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:44 |
 | 122 | [Te Vas a Arrepentir](https://open.spotify.com/track/5Rb1YFwlxt1AgMaqbOpZzf) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Los Más Queridos](https://open.spotify.com/album/65Z4VN8ZKEYkqM6K2yNoRl) | 3:23 |
-| 123 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
-| 124 | [Pero La Recuerdo \- Cumbia Santa Maria \-](https://open.spotify.com/track/41amq6NLZaFLUzDfkMYS7V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Inventame Un Amor](https://open.spotify.com/album/2iaW8JmFSzJLkAURPi8A0D) | 3:47 |
-| 125 | [Mix Juguito De Pina](https://open.spotify.com/track/68PWHpcmWTC92qoGADfOEG) | [Simba Musical](https://open.spotify.com/artist/2lxLwYbYnQZv7wkubtAq3J) | [Con Carino A Oaxaca](https://open.spotify.com/album/0IuDm4Z0RGNVsPZBDcNnUJ) | 5:54 |
+| 123 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 |
+| 124 | [Procura](https://open.spotify.com/track/7xmp7f74I0rxUOPjVuIOE8) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou) | [Pa' Otro La 'o](https://open.spotify.com/album/5T29t6GK83ntYYu3kjUMar) | 4:32 |
+| 125 | [Pero La Recuerdo \- Cumbia Santa Maria \-](https://open.spotify.com/track/41amq6NLZaFLUzDfkMYS7V) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Inventame Un Amor](https://open.spotify.com/album/2iaW8JmFSzJLkAURPi8A0D) | 3:47 |
 
 Snapshot ID: `Zo8iwwAAAAAloU9vwqq33FBZzt8QKsYe`

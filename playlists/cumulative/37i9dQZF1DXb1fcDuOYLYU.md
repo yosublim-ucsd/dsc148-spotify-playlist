@@ -2,9 +2,9 @@
 
 ### [Women of Latin](https://open.spotify.com/playlist/37i9dQZF1DXb1fcDuOYLYU)
 
-> These are the talented women of Latin music\. Cover: Gloria Trevi & Maria Becerra
+> These are the talented women of Latin music\. Cover: Becky G
 
-344 songs - 18 hr 24 min
+345 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Animal](https://open.spotify.com/track/0mnp9pNxEm4PF7cNOzSyhI) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [Animal Pt\. 1](https://open.spotify.com/album/4nUKyiRK7yKKrR9JslEWzR) | 3:23 | 2022-03-14 | 2023-02-16 |
 | [Antes De Ti](https://open.spotify.com/track/5IkOnAKGDJT5M8KpFIHzsd) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Antes De Ti](https://open.spotify.com/album/0r2OaEU4I8vfWw4hALciVN) | 4:02 | 2022-03-14 | 2023-02-16 |
 | [Así Así](https://open.spotify.com/track/0c60lGN8Fnq4oTMFJpQuYx) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Así Así](https://open.spotify.com/album/1q8UCTOD6HHb477bNDnGaZ) | 3:15 | 2022-03-14 | 2023-02-16 |
-| [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 | 2024-08-16 |  |
+| [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/track/3bLkpcMFfeZ4uaNFlVyC18) | [Susana Cala](https://open.spotify.com/artist/68LgpWsaAwjflP3CLXC0LB) | [Ataque de Ansiedad \(Arial 5\)](https://open.spotify.com/album/22X4Ap36P7CJipc3qOF2Th) | 2:36 | 2024-08-16 | 2024-09-04 |
 | [ATARI](https://open.spotify.com/track/26Fvbip1soBIK5RWJYco05) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 2:56 | 2024-04-12 |  |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-14 | 2023-02-16 |
 | [AUTOMÁTICO](https://open.spotify.com/track/0poQY3RMThmIiutOGv3yH3) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:55 | 2023-02-16 |  |
@@ -66,6 +66,7 @@
 | [Clonazepamela](https://open.spotify.com/track/0m2HMCgaTuCKIn1iJqFWW4) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [Clonazepamela](https://open.spotify.com/album/2oaC1GdSFnaSIWXiIJbdB4) | 2:10 | 2024-05-31 | 2024-07-17 |
 | [Cobarde](https://open.spotify.com/track/4rbFRFbocQDMubY2l2qM1K) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:34 | 2022-03-14 | 2023-02-16 |
 | [Como Así \(feat\. CNCO\)](https://open.spotify.com/track/5hoIOyMDt2cQx6DU0UyiBj) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Como Así \(feat\. CNCO\)](https://open.spotify.com/album/6LYy00ZQOKwxjCDGQY442J) | 3:04 | 2022-03-14 | 2023-02-16 |
+| [COMO DIABLOS](https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [COMO DIABLOS](https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0) | 3:13 | 2024-09-03 |  |
 | [Como La Flor](https://open.spotify.com/track/0gatssZ0J7pMAlvFCGZZGH) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Entre A Mi Mundo](https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z) | 3:06 | 2023-02-16 |  |
 | [Como Me Duele Perderte](https://open.spotify.com/track/2NvsxLwEnF3FtJJsdhkdmq) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Alma Caribeña](https://open.spotify.com/album/5JE7TvLrx9uwR1rHLPEyo9) | 4:27 | 2023-02-16 | 2023-04-20 |
 | [como te va?](https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [como te va?](https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V) | 2:34 | 2023-05-12 | 2023-06-27 |

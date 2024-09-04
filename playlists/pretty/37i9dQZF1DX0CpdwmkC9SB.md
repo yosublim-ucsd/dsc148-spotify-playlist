@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0CpdwmkC9SB.md) - [plain]
 
 > The biggest festival of the year\. The official playlist for Glastonbury 2024.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,971 likes - 200 songs - 12 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,018 likes - 200 songs - 12 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

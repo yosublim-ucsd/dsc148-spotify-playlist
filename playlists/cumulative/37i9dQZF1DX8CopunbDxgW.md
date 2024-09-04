@@ -4,7 +4,7 @@
 
 > The best indie dance tracks of the moment\. Cover: nimino
 
-1,461 songs - 3 day 18 hr 59 min
+1,462 songs - 3 day 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1207,7 +1207,7 @@
 | [Streets \- Disclosure Remix](https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Streets \(Disclosure Remix\)](https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA) | 4:14 | 2021-03-12 | 2022-01-03 |
 | [Strictly Business](https://open.spotify.com/track/1vfQTvWpBCwRPyYU5mZMfs) | [Clive From Accounts](https://open.spotify.com/artist/0HoKhZszlKG94i5rhyeL3n) | [Strictly Business EP](https://open.spotify.com/album/2lHljDHXgQa0d8oxLMGCG6) | 5:26 | 2021-10-29 | 2022-04-17 |
 | [Strike](https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ) | [Little Monarch](https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29) | [Strike](https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz) | 2:53 | 2021-06-25 | 2023-01-06 |
-| [Struckdown](https://open.spotify.com/track/2kb1zk4JsOuHQnstPJx1V7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Struckdown](https://open.spotify.com/album/4RHz9Dy0nLdDaXxlIFxJHe) | 2:54 | 2024-07-05 |  |
+| [Struckdown](https://open.spotify.com/track/2kb1zk4JsOuHQnstPJx1V7) | [Tseba](https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf), [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Struckdown](https://open.spotify.com/album/4RHz9Dy0nLdDaXxlIFxJHe) | 2:54 | 2024-07-05 | 2024-09-04 |
 | [Stuck](https://open.spotify.com/track/0Yi6JO54MOb65Gerl4b22J) | [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Stuck](https://open.spotify.com/album/1ERvxD2WEsZKdDoDgHhmFB) | 4:26 | 2024-08-09 |  |
 | [Studio 54](https://open.spotify.com/track/20blT6R5DJhfrk9c16lQ4E) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Studio 54](https://open.spotify.com/album/5eqNUuxFHel3GEUPeaaFbv) | 2:46 | 2023-05-26 | 2024-01-13 |
 | [Suenos Bravos](https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT) | [Bodysync](https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9), [Giraffage](https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6), [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Suenos Bravos](https://open.spotify.com/album/0qkdLopwwuWRoX4U4FpXL0) | 3:30 | 2021-09-10 | 2022-08-18 |
@@ -1427,6 +1427,7 @@
 | [Where I Hide](https://open.spotify.com/track/30zK0g9XHpKDGri8kzoPS2) | [Flevans](https://open.spotify.com/artist/3Pjo1vIMjTXaOCVI5YhB0l) | [Where I Hide](https://open.spotify.com/album/1XnLvJal1XGn0N2YsT73Dr) | 4:31 | 2024-01-12 | 2024-03-02 |
 | [Whittier Blvd.](https://open.spotify.com/track/659n3ILVIMmDNUDpUd5fYg) | [Jarren](https://open.spotify.com/artist/2KpTJqMLi6peQraKYndqO5) | [Antera](https://open.spotify.com/album/1tJABYqe39jM2xUwsoREZA) | 2:54 | 2022-01-28 | 2022-04-16 |
 | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/track/0HPJa3SJksQakwtOrJT7pj) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Who's Gonna Love You Tonight \(with Tinashe\)](https://open.spotify.com/album/5qf98IBpRNpm0LjmR4T4eu) | 3:16 | 2022-09-09 | 2023-01-06 |
+| [Why's this dealer?](https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk) | [Why's this dealer?](https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX) | 2:09 | 2024-09-03 |  |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-10 | 2023-04-01 |
 | [Wifi Beach](https://open.spotify.com/track/5zwaNwnK8r2FzgDXt6n7EF) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/5I5YPvShZe8jZ3hqWHKClb) | 3:12 | 2021-02-26 | 2022-06-24 |
 | [Wild n Sweet \- Paul Woolford's Special Request Mix](https://open.spotify.com/track/7InnYgaoJvjo4CP06vgoR0) | [Jam City](https://open.spotify.com/artist/4jEa9eTpzzkuDQ9JMr0LT3), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV) | [Wild n Sweet \(Paul Woolford's Special Request Mix\)](https://open.spotify.com/album/2Nn1QjEoj0RleN2mKJV8m6) | 4:20 | 2024-02-23 | 2024-06-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIEvmu6sbiG.md) - [plain]
 
 > Scopa, paletta e musica!
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,561 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,577 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Acoustic instrumental guitar to help focus the mind and concentrate on the task at hand.
 
-385 songs - 17 hr 7 min
+387 songs - 17 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Cuyutlan](https://open.spotify.com/track/451zGCNVAnPGS9Nv7PI8yQ) | [Colibrí Acústico](https://open.spotify.com/artist/6aKYru6qh4nD6Ivcl3WjUB) | [Cuyutlan](https://open.spotify.com/album/7HhrRiyLX4MJ9m3brNjQ0H) | 2:53 | 2021-12-10 | 2023-12-15 |
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-26 |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
+| [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 | 2024-09-03 |  |
 | [Dandelion](https://open.spotify.com/track/7dK6cUzwO6rNcVw5ZJAz8c) | [Jan Wanninger](https://open.spotify.com/artist/2lVbTuG8gjTFAX8WH5zyDs) | [Dandelion](https://open.spotify.com/album/3lvdv6UbaDWO4XeQEvG856) | 3:02 | 2023-10-27 | 2024-04-06 |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-08-26 |
 | [Das Gebirge](https://open.spotify.com/track/12gTq55jChsH7RIFX6LoBP) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Das Gebirge](https://open.spotify.com/album/6CraOjno7t4Lr9buQoXOIw) | 2:34 | 2022-05-27 |  |
@@ -328,6 +329,7 @@
 | [The End of All Rivers](https://open.spotify.com/track/6nS9crd0L3jh2zbGCPGkiC) | [Bruce Cockburn](https://open.spotify.com/artist/4sh4MHP7lhrSUakxwZzwqz) | [Speechless](https://open.spotify.com/album/4YDbl2wUdoTpyErcBzIS74) | 5:55 | 2021-12-10 | 2022-04-06 |
 | [The Lights](https://open.spotify.com/track/2CIpfBZeHsuouUwJWUEsod) | [Remy Simon](https://open.spotify.com/artist/0ExT57wmZSDy4h6wT1AGqs) | [The Lights](https://open.spotify.com/album/7pnNgMZyKEPjGbJlQJ6LI1) | 1:46 | 2023-04-28 | 2023-06-16 |
 | [The Mural](https://open.spotify.com/track/5M9bPsknT89l9tVjCh8kSI) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [The Mural](https://open.spotify.com/album/0oCHjXHrYiPoVLjHYnum88) | 2:08 | 2024-06-07 |  |
+| [The Mystic Road](https://open.spotify.com/track/6n3iSlWrYxHHazT3mpt8o4) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [The Mystic Road](https://open.spotify.com/album/7qosCuQM11X2959HiZ6gxI) | 2:08 | 2024-09-03 |  |
 | [The Other Side Of The Sun](https://open.spotify.com/track/1tQC5wVWIxwsSTY5lPXIeI) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [The Other Side Of The Sun](https://open.spotify.com/album/7DnYdqzWAnfnJEmqFlyBbi) | 2:35 | 2022-04-05 | 2022-07-22 |
 | [The Pioneers](https://open.spotify.com/track/6cuKQazicx5r7o5NQEp1uL) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Music IS](https://open.spotify.com/album/5ngpdhJLdTnAPBV03GgOLb) | 4:13 | 2021-12-10 | 2022-07-22 |
 | [The Space Between Us](https://open.spotify.com/track/7ltsUby2slylSm4sourcaO) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [The Space Between Us](https://open.spotify.com/album/1lN1xuGaayIqMdbh2EpuVN) | 2:11 | 2024-05-10 |  |
@@ -384,7 +386,7 @@
 | [Winter Blues](https://open.spotify.com/track/2s2gJ5xHJcVfiJ6GnvRk0m) | [Joey Michels](https://open.spotify.com/artist/3qUyntPn9GxNrskcMrDaaQ) | [Winter Blues](https://open.spotify.com/album/2f8eOYEG4ftkAniFWAUBDV) | 2:07 | 2022-12-23 | 2023-04-28 |
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 | 2024-05-10 |
 | [Winter Solstice](https://open.spotify.com/track/2qg21mlordJwzXKPjHWFyA) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Abenddämmerung](https://open.spotify.com/album/05yJ8D8WooKWGfItq1NLOA) | 3:29 | 2023-05-26 | 2023-06-16 |
-| [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-20 |  |
+| [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-20 | 2024-09-04 |
 | [With Languor](https://open.spotify.com/track/7wcUEnW420sjGIpD5XZTvK) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 3:19 | 2024-02-02 |  |
 | [Wonder's Pyre](https://open.spotify.com/track/6POun1Z6NKg9JpWdb3pRFF) | [Iris Dauphin](https://open.spotify.com/artist/0XlymLAYuZ9DubWIEUmFR0) | [Wonder's Pyre](https://open.spotify.com/album/18Kyuf3AqYSQHuj0Uuat5V) | 2:49 | 2023-03-10 | 2023-08-26 |
 | [Yellow](https://open.spotify.com/track/27DodeB1seENJxnWojPa6G) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Yellow](https://open.spotify.com/album/6ogaGgYB25jgZmCo405fq6) | 2:31 | 2023-03-31 | 2023-08-26 |

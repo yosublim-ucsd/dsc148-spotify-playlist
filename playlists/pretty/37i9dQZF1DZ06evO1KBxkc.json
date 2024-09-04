@@ -1,12 +1,12 @@
 {
   "description": "This is A Boogie Wit da Hoodie. The essential tracks, all in one playlist.",
-  "num_followers": 199491,
+  "num_followers": 199502,
   "original_name": "This Is A Boogie Wit da Hoodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACQb6Ev9rOVv1jbsja4kiQ7",
+  "snapshot_id": "ZtUAAAAAAAAvcKMVWCno3lFZ/bqMFvHw",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 214857,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
+      "duration_ms": 235776,
+      "name": "Friend Zone",
+      "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 235776,
-      "name": "Friend Zone",
-      "url": "https://open.spotify.com/track/3W0Fvft7V7MtSftTrC8MSQ"
+      "duration_ms": 214857,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/1sXJ0TZDdYBIV4mlzQFi4j"
     },
     {
       "added_at": null,
@@ -923,18 +923,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Steppas",
-        "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
+        "name": "Meet The Woo 2",
+        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
       },
       "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 201000,
-      "name": "Steppas",
-      "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"
+      "duration_ms": 161120,
+      "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
     },
     {
       "added_at": null,
@@ -959,22 +963,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Meet The Woo 2",
-        "url": "https://open.spotify.com/album/4MZnolldq7ciKKlbVDzLm5"
+        "name": "Steppas",
+        "url": "https://open.spotify.com/album/5EFWc59llfnLab6hpjJBkX"
       },
       "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        },
         {
           "name": "A Boogie Wit da Hoodie",
           "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
         }
       ],
-      "duration_ms": 161120,
-      "name": "Foreigner (feat. A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/7AdTyfK7fnvUYbUCGpWqUf"
+      "duration_ms": 201000,
+      "name": "Steppas",
+      "url": "https://open.spotify.com/track/1NIYStZPXSEwxoeX28lK5e"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-339 songs - 15 hr 20 min
+342 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-05-13 | 2023-03-31 |
 | [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 |  |
 | [Rainy Window](https://open.spotify.com/track/7qtNQxxjeHjxZPszQWrpRW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:42 | 2022-05-13 | 2022-06-10 |
+| [Ravel’s Dream](https://open.spotify.com/track/4N2yJrCq7yl7ArlD3GbsWC) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Ravel’s Dream](https://open.spotify.com/album/1balSNUaDGLmZA8kspVEPE) | 2:25 | 2024-09-03 |  |
 | [raven](https://open.spotify.com/track/5o6X2A8XqhphXjR5kpIQXy) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [raven](https://open.spotify.com/album/0XUjhMDUqt4OxUujlgZTgl) | 3:56 | 2022-05-13 | 2024-04-06 |
 | [Readers](https://open.spotify.com/track/4iN6427kzmNUcQWOd3cCNb) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/5ujmkxgqwwHvHZ78oeD9AP) | 3:01 | 2022-05-13 | 2022-07-29 |
 | [Readers](https://open.spotify.com/track/4tkACn8vZjisGUrhTzlmRX) | [Ciaran Delany](https://open.spotify.com/artist/2WuIGHkWICbZ4ZnIWWwaQE) | [Labyrinths](https://open.spotify.com/album/2jzgwz3nkjprtt1epZDN43) | 3:01 | 2022-07-22 | 2023-04-28 |
@@ -263,6 +264,7 @@
 | [Skyline](https://open.spotify.com/track/285lEr4h595zVTecy0u7Nf) | [Owen Larssen](https://open.spotify.com/artist/5KC38oAHkvoeZvx2k9Pwlo) | [Skyline](https://open.spotify.com/album/7fcgX0jd8ZbfyuPDUKWabu) | 1:44 | 2023-06-09 | 2023-09-16 |
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-02-23 |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-05-25 |
+| [Some Relief](https://open.spotify.com/track/6pa3sT6pQ7OmqTQDQrr9Qj) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Some Relief](https://open.spotify.com/album/5ZVDW1j5RqiwtBBuwGFgib) | 2:31 | 2024-09-03 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |
 | [Sommersby](https://open.spotify.com/track/01n9zpPrEWCKsH6o27WwWR) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Sommersby](https://open.spotify.com/album/5q7aaYPfvt8uOpaLJudHjH) | 1:48 | 2023-04-28 | 2023-09-16 |
 | [Soon Enough](https://open.spotify.com/track/6W7rCXxaqacJGS4Lo6w3pf) | [Peder Falk](https://open.spotify.com/artist/1FwT2tXznx06RdocBzl16z) | [Soon Enough](https://open.spotify.com/album/3QQXybzOkugKZwfe9kX2lV) | 2:05 | 2022-05-13 |  |
@@ -282,6 +284,7 @@
 | [Sunset](https://open.spotify.com/track/5GIjvOlsYzA43pNUY2Hq4r) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Before Sunrise](https://open.spotify.com/album/58MoVyu58QleSpvl8Yrxap) | 5:16 | 2023-09-15 | 2024-04-19 |
 | [Sunset on the Farmland](https://open.spotify.com/track/5tvM2CxNOcCBY7Z2H9Xa12) | [Tapperstand](https://open.spotify.com/artist/5qiy3uNvNQrZycAMo6dOgH) | [Shapes in the Sky](https://open.spotify.com/album/7sxQpqFUHwHhz9xnUmUKol) | 2:51 | 2022-05-13 | 2024-05-25 |
 | [Sweet Disposition](https://open.spotify.com/track/5gNlgxqfMX2G1ptN8hGniT) | [Cody Lane](https://open.spotify.com/artist/5PXw7CZ8v8fcIETkAuHkwJ) | [Ode To The Restless Heart](https://open.spotify.com/album/74hAowWLPfmmeKIxsJF0e1) | 2:40 | 2022-05-13 | 2023-04-28 |
+| [Sweet Dreams](https://open.spotify.com/track/1HishdVHjyFZwHbbcby18D) | [Jeff Paul](https://open.spotify.com/artist/6wlWoM5FRXLtNgl04EkZyN) | [Sweet Dreams](https://open.spotify.com/album/6S57Bn9OGyXQti0jCtvW1e) | 2:14 | 2024-09-03 |  |
 | [Sweet Sky](https://open.spotify.com/track/2HUz7Vn3QcsmCPrHmJojvi) | [Daniela Petrová](https://open.spotify.com/artist/0k5b5g9KNikMYLSZWikx4Y) | [Sweet Sky](https://open.spotify.com/album/7M45WfGEysgnjPlcV2Fmud) | 3:00 | 2023-02-24 |  |
 | [Swingset](https://open.spotify.com/track/0OBHK3hxUn0HSRg4TodKsu) | [Antonio y Lola](https://open.spotify.com/artist/744WzucF7FBLg5nkA15b41) | [Swingset](https://open.spotify.com/album/3axglViVIh3CaSZZg8drYA) | 2:06 | 2023-04-28 | 2023-11-24 |
 | [Symphony Road](https://open.spotify.com/track/6wD2btYlsmIi4VrHmsc5kY) | [Ruth Reynolds](https://open.spotify.com/artist/3PYUx4NhsZEBdLIk09FwRI) | [Symphony Road](https://open.spotify.com/album/1bQftBYXBT9z33Mwa4w8yG) | 2:27 | 2022-05-13 | 2024-05-10 |

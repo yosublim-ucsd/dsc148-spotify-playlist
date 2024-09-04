@@ -4,7 +4,7 @@
 
 > 아 나도 모르겠다\~ idk idk idkkk\~
 
-65 songs - 3 hr 30 min
+66 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Like I′m saying](https://open.spotify.com/track/3dBzRsKScRugEdrHi8fKQ0) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [BLEACHED](https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh) | 3:28 | 2023-11-09 | 2024-04-19 |
 | [Live My Life](https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Armageddon \- The 1st Album](https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB) | 2:39 | 2024-07-02 |  |
 | [Love and hatred \(feat\. Jae Woo AN\)](https://open.spotify.com/track/0Ye13DeMM6YgKbZJNv5pq7) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3) | [Love and hatred](https://open.spotify.com/album/3WO6ObA3MkjiGR6TmhUwtM) | 2:34 | 2024-05-09 |  |
+| [MAGIC](https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [MAGIC](https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK) | 3:19 | 2024-09-04 |  |
 | [NAPAL BAJI](https://open.spotify.com/track/3A5djNQe8IW4XPWQaplZO7) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [PSY 7TH ALBUM](https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc) | 3:43 | 2023-11-09 |  |
 | [Night in Seogyo](https://open.spotify.com/track/5NDDGM1FGcpIpLxFoDQ0IG) | [Cosmos Hippie](https://open.spotify.com/artist/3uhjq5389G2qUWYNVHNq7a) | [Night in Seogyo](https://open.spotify.com/album/26XS3JQNBhg7Szfn6m7cC6) | 2:59 | 2023-11-09 |  |
 | [NOTHIN′](https://open.spotify.com/track/7KDtW0MJb331Hjez4iBVu0) | [SuperSu](https://open.spotify.com/artist/1Wd0Rsm7QUHUcnibVDiIC6) | [NOTHIN'](https://open.spotify.com/album/1NbJLWBmqou3p0hp2GLdg1) | 2:20 | 2023-11-09 |  |

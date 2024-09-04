@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 
 > Goes best with small chops and party jollof
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,368 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,366 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18jYOKSXaB2.md) - [plain]
 | 9 | [Oshe](https://open.spotify.com/track/5IPbL3A6dxajsR5VAlNkuN) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Somewhere Between Beauty & Magic](https://open.spotify.com/album/5wMGH7IDoHYCZHgSivY3ko) | 2:13 |
 | 10 | [Finally Finally](https://open.spotify.com/track/7bzOg4aR7E0z4aigy7zwwt) | [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG) | [Mr\. Versatile](https://open.spotify.com/album/3QhsruYmERbXYDqjyV4jdA) | 2:09 |
 | 11 | [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 |
-| 12 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
+| 12 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
 | 13 | [Southy Love](https://open.spotify.com/track/5fNuSX2WFLQgJ4X5b5qexN) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Southy Love](https://open.spotify.com/album/0IYiZqSbFcLxa5xPMSwKEG) | 3:30 |
 | 14 | [Lose](https://open.spotify.com/track/0QQCiP9RQJXn5FhibrS9mf) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Lose](https://open.spotify.com/album/5Npbu5A0KNYnf51FsRZ8Sz) | 3:50 |
 | 15 | [Wayo](https://open.spotify.com/track/3J6APt513Rv9lN7auorpw5) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Wayo](https://open.spotify.com/album/2YCEgok5pslGRKb6LmUfMf) | 2:29 |

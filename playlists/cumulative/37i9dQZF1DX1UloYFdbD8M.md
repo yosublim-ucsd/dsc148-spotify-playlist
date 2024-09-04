@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-228 songs - 15 hr 23 min
+229 songs - 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Katturumbu](https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD) | [Sangeeth](https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ) | [Katturumbu](https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8) | 4:56 | 2023-10-10 |  |
 | [Kunji Penne](https://open.spotify.com/track/1hA3nNa0T0J49ZE4vYgLKV) | [E3Y](https://open.spotify.com/artist/1kfF1kkbyruQ6Abd540tNL) | [Kunji Penne](https://open.spotify.com/album/2iN9DI5qa6cylJKIUmDhAy) | 1:54 | 2024-07-04 |  |
 | [Kunnolam anenikishtam](https://open.spotify.com/track/3Q41RloLb0lCjh52gLIKeZ) | [Prem Krishnan](https://open.spotify.com/artist/6iFo1ZetMJsCWzE25uoEOJ) | [Kunnolam anenikishtam](https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC) | 3:45 | 2023-07-18 | 2023-07-28 |
+| [Laare](https://open.spotify.com/track/6wNkbLcCCtoYEsAxmXC3yt) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Laare](https://open.spotify.com/album/4oMcRv0ujnIqp0AevqBlxT) | 3:10 | 2024-09-03 |  |
 | [Lathiri Poothiri](https://open.spotify.com/track/2hGsJ2HbSJo2Bu9UEHmCqL) | [Gowry Lekshmi](https://open.spotify.com/artist/4Te1MOr4Y7E4lMvaeuyEjR) | [Lathiri Poothiri](https://open.spotify.com/album/4dm5XmOa1mE0LFTzKFbjtz) | 2:14 | 2022-09-06 | 2023-07-28 |
 | [Life Is Adipoli](https://open.spotify.com/track/1RmS3bsRhBJ6WdCb35AxYO) | [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl), [Sajan CR](https://open.spotify.com/artist/7BLGlfpsC12N56HAhcI6ni), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Life Is Adipoli](https://open.spotify.com/album/19NF3iqqpzCUwkSfKXTK6y) | 4:02 | 2024-06-28 |  |
 | [LOVESICK](https://open.spotify.com/track/2FJd24vjgpvd3C0WK4ZwAA) | [Dev](https://open.spotify.com/artist/6QRkI9RqfSzE0VAjqAvB2T) | [KALEIDOSCOPE](https://open.spotify.com/album/4BDnFfBd0mqYdWcpyIBYZQ) | 5:13 | 2024-08-27 |  |

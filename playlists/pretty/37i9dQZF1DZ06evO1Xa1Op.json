@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 20409,
+  "num_followers": 20413,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABWVLX/FuI5fyRMw7gqiBHE",
+  "snapshot_id": "ZtUAAAAAAAA3ZGGHtmav9Kr4/I7ANATT",
   "tracks": [
     {
       "added_at": null,
@@ -502,11 +502,15 @@
         {
           "name": "Ali Farka Tour\u00e9",
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        },
+        {
+          "name": "Oumou Sangar\u00e9",
+          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
         }
       ],
-      "duration_ms": 348760,
-      "name": "Safari",
-      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
+      "duration_ms": 295200,
+      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
+      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
     },
     {
       "added_at": null,
@@ -543,42 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 253226,
-      "name": "Instrumental",
-      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        },
-        {
-          "name": "Oumou Sangar\u00e9",
-          "url": "https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh"
-        }
-      ],
-      "duration_ms": 295200,
-      "name": "Sadjona (feat. Oumou Sangar\u00e9)",
-      "url": "https://open.spotify.com/track/1pqbPGktY2HPGNlkMBgmRc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Savane",
         "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
       },
@@ -595,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
       "artists": [
         {
@@ -604,9 +572,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+      "duration_ms": 348760,
+      "name": "Safari",
+      "url": "https://open.spotify.com/track/4zZMPuSkVYAOjgGiHJ6dc5"
     },
     {
       "added_at": null,
@@ -620,15 +588,15 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 197880,
-      "name": "Ali's Here",
-      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+      "duration_ms": 253226,
+      "name": "Instrumental",
+      "url": "https://open.spotify.com/track/2rMjklMFqee1PrJgGFWsm0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Voyageur",
-        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
       },
       "artists": [
         {
@@ -636,9 +604,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 239866,
-      "name": "Malahani",
-      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
     },
     {
       "added_at": null,
@@ -663,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+        "name": "Voyageur",
+        "url": "https://open.spotify.com/album/0R0L7vD6I7MxXmK1M3cZyj"
       },
       "artists": [
         {
@@ -672,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Hanana",
-      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
+      "duration_ms": 239866,
+      "name": "Malahani",
+      "url": "https://open.spotify.com/track/3VA52tI5eHkISepZFmsH1A"
     },
     {
       "added_at": null,
@@ -688,9 +656,25 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 271280,
-      "name": "Allah Uya",
-      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
+      "duration_ms": 197880,
+      "name": "Ali's Here",
+      "url": "https://open.spotify.com/track/0lZAIY21JP5g967jtaTnJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/1lbT3JkVYPxbcDtebod6Ez"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Hanana",
+      "url": "https://open.spotify.com/track/7ztuIeN2ZgxS1M7Xu98rJf"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
       "duration_ms": 392226,
       "name": "Bandolobourou (feat. Oumou Sangar\u00e9)",
       "url": "https://open.spotify.com/track/33SofccGynwQFUgRvB2Oq7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "Allah Uya",
+      "url": "https://open.spotify.com/track/1yYVh9P32dkDowxATzuwpM"
     }
   ],
   "unique_name": "This Is Ali Farka Tour\u00e9",

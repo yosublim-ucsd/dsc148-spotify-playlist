@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-997 songs - 2 day 1 hr 37 min
+998 songs - 2 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Ah Ellerim Kırılaydı](https://open.spotify.com/track/4D36ZNHfLE3joglWbDLn5X) | [Tuğçe Kandemir](https://open.spotify.com/artist/50z4meqYMvVCXEv2jDneDN) | [Ah Ellerim Kırılaydı](https://open.spotify.com/album/3MRK2TWYUJkpNZM8LmTIN5) | 3:00 | 2021-03-27\* | 2021-07-14 |
 | [Ahu](https://open.spotify.com/track/5dIFM4dkwEjMnFppbHTsEA) | [Mabel Matiz](https://open.spotify.com/artist/1dpqJqIuNqideTvmxBsSku) | [Gök Nerede](https://open.spotify.com/album/7sekCrynyTpbFhD3zVlxl0) | 3:34 | 2024-08-18 | 2024-08-20 |
 | [AİLEM](https://open.spotify.com/track/6IWyTNbWdRsN6xbIhY0W5O) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [AİLEM](https://open.spotify.com/album/4JbjZgDq58T8UhBSBITnkd) | 2:58 | 2023-09-30 | 2023-10-02 |
-| [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-09-23 |  |
+| [aklına ben gelicem](https://open.spotify.com/track/3ZwRkdnTb4az8X5n4WXuHA) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [aklına ben gelicem](https://open.spotify.com/album/58PsD3FgNdDAdX4efIAB2J) | 2:29 | 2023-09-23 | 2024-09-04 |
 | [Aksiyon](https://open.spotify.com/track/79Ux1fGDomunbzofc6vDVr) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Aksiyon](https://open.spotify.com/album/4dr2xGbBSqKzd5yjVpHjkQ) | 2:25 | 2022-10-02 | 2022-10-06 |
 | [Al Aramızdan](https://open.spotify.com/track/44UZWruF4P4uMZ10fd1eMK) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [POPSTAR](https://open.spotify.com/album/7sguONUlqWlrsWxRffF4K1) | 2:51 | 2023-06-17 | 2024-03-21 |
 | [Al Aramızdan](https://open.spotify.com/track/6Uaw8GEKP6AxIMNUyi6q6w) | [KÖFN](https://open.spotify.com/artist/3ZKkHPTZTq8z8pokwZiInd) | [Al Aramızdan](https://open.spotify.com/album/6hxlscwVxcHll5lq1bHnZl) | 2:51 | 2023-04-15 | 2023-06-18 |
@@ -579,6 +579,7 @@
 | [Kılıçdaroğlu](https://open.spotify.com/track/7Fcd576Wwi9R70D1xtHtm9) | [Onur Akın](https://open.spotify.com/artist/4CQctd09SRWjRoo3G7QBZf) | [Kılıçdaroğlu](https://open.spotify.com/album/2l6dmbCmOruZ5vnO3Bip9X) | 3:55 | 2023-05-15 | 2023-05-17 |
 | [Kısa Mesafe](https://open.spotify.com/track/4dnAQt79Fr4q7TVecSb1e7) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/7pRxARASmabm3sMrD8k9Ib) | 2:27 | 2023-11-27 | 2023-12-02 |
 | [Kısa Mesafe](https://open.spotify.com/track/7AeN1Miu6Io3ewNUdBzhyy) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [Kısa Mesafe](https://open.spotify.com/album/3cGFDjql98FAXNFzyiZBAb) | 2:27 | 2023-12-01 | 2024-01-19 |
+| [La La La](https://open.spotify.com/track/3blRKhNNedjdZFR0b9Wtxw) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [La La La](https://open.spotify.com/album/3v5bQhGBimvJJrvmhb2mR8) | 2:19 | 2024-09-03 |  |
 | [LACIVERT](https://open.spotify.com/track/26h7iVBq3DSR9ex0BpT8GO) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Pango](https://open.spotify.com/artist/1wRU9DVyKSF1BCHE0PXDuE) | [ECLIPSE \(Original Soundtrack\)](https://open.spotify.com/album/5LPrbOrlvZ8lnb2CMexS2e) | 3:55 | 2023-11-21 | 2023-11-24 |
 | [LAF](https://open.spotify.com/track/7rHLpc3SZobYPDyBF06uok) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [LAF](https://open.spotify.com/album/0FGpFHP4yc7uWScjSHkx8O) | 2:06 | 2024-04-13 |  |
 | [Lafı mı Olur](https://open.spotify.com/track/6UX8nGE5sT7FsUAgQILD6X) | [Kibariye](https://open.spotify.com/artist/1btod3aNfVEYNrEzIQgx90) | [İşte Ses İşte Yorum](https://open.spotify.com/album/3J3TjBgZWHMEo9FeKrBwke) | 3:32 | 2023-09-25 | 2024-01-04 |

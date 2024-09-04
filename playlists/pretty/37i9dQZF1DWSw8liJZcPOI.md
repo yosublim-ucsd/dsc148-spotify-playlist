@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,852 likes - 250 songs - 15 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,958 likes - 250 songs - 15 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -240,7 +240,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 230 | [Looking in the Same Direction](https://open.spotify.com/track/3223tV7OEezdOyG2CxXKzi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Looking in the Same Direction](https://open.spotify.com/album/0dnnSN7ZOeMC3O3UutSPHU) | 4:04 |
 | 231 | [Amsterdam](https://open.spotify.com/track/29WpzJoXRGrgxb92nOGvZF) | [Sofi Paez](https://open.spotify.com/artist/0SlZh8ALPTGiyIBA9AoAiF) | [Amsterdam](https://open.spotify.com/album/7Ln0x3GBw9Jebr9cxCraaD) | 3:04 |
 | 232 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 |
-| 233 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
+| 233 | [Campfire](https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Lego Builder's Journey](https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274) | 2:55 |
 | 234 | [Eagles Flight](https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Eagles Flight](https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0) | 4:39 |
 | 235 | [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 |
 | 236 | [Lóa \- Bing & Ruth Rework](https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Absent Minded Reworks](https://open.spotify.com/album/4PUlR86gpB0q6IaCq4A5rY) | 3:30 |
@@ -250,7 +250,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 240 | [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Post String Theory \(Foam and Sand Rework\)](https://open.spotify.com/album/4LeYPputcKJqRtKx89XCdI) | 4:50 |
 | 241 | [Think Of Home \- Kelly Moran Rework](https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Reworks I](https://open.spotify.com/album/7ajMV5xymvcCA7EtwWvY79) | 3:38 |
 | 242 | [Pause](https://open.spotify.com/track/6rUSYRNKQG15LBs24DxH5p) | [Poppy Ackroyd](https://open.spotify.com/artist/5q3wKuiaCK8BRPZQSvehFd) | [Pause](https://open.spotify.com/album/0QMLNub1Rwwa6LPRcLqne8) | 4:18 |
-| 243 | [Campfire](https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Lego Builder's Journey](https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274) | 2:55 |
+| 243 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
 | 244 | [Klass](https://open.spotify.com/track/4YKGgZIimpmpWNKcfsaKEq) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Klass](https://open.spotify.com/album/3ZWS1N6F5NIUNjeX8n2SXP) | 6:32 |
 | 245 | [Aurora](https://open.spotify.com/track/41VwA66JSS45VlgYtXLfEH) | [Jacob Pavek](https://open.spotify.com/artist/6vUYqsioPPdlQflRp2z1iG), [Philip Daniel](https://open.spotify.com/artist/58erVRK8N3stJghsvYAFq5), [BLOMMA](https://open.spotify.com/artist/4S79lGp6gXOuwl4N5Vsp3x) | [BLOMMA](https://open.spotify.com/album/2g0Uo6fJuPWOS6O5PtBTbk) | 4:25 |
 | 246 | [Corn](https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 4:04 |

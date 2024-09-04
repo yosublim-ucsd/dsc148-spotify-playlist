@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAr9otI/SUn8FOq0fBWHatl",
+  "snapshot_id": "AAAAAAAAAACdyRLAUv4PowjFAQZowFH3",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -283,26 +283,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151274,
-      "name": "Something (feat. Syd)",
-      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
         "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 187795,
       "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
       "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151274,
+      "name": "Something (feat. Syd)",
+      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
     },
     {
       "added_at": "2024-08-30 04:00:00",

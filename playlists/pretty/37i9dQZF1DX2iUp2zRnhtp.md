@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUp2zRnhtp.md) - [plain]
 
 > De beste nye låtene finner du her!
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,390 likes - 80 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,386 likes - 80 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

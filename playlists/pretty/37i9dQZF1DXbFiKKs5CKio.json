@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 60858,
+  "num_followers": 60914,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -851,6 +851,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "L0V3 Tvp3",
         "url": "https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN"
       },
@@ -867,22 +883,6 @@
       "duration_ms": 129729,
       "name": "Ultimo Fim (Short)",
       "url": "https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
     },
     {
       "added_at": "2024-08-30 03:01:00",

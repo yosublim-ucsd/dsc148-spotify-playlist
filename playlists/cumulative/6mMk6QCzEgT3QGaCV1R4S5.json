@@ -361,6 +361,24 @@
     },
     {
       "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"
+    },
+    {
+      "album": {
         "name": "Deep As Sixteen",
         "url": "https://open.spotify.com/album/0bDKewx93Gsb2ZohvKzApB"
       },
@@ -394,7 +412,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 179161,
       "name": "Desire (with Sam Smith)",
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
@@ -786,6 +804,28 @@
       "duration_ms": 147323,
       "name": "Front To Back",
       "url": "https://open.spotify.com/track/1gslLpyXjUJ42G8us7B2xm"
+    },
+    {
+      "album": {
+        "name": "GET UP BITCH! shake ya ass (with Anitta)",
+        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
+      },
+      "artists": [
+        {
+          "name": "Victoria",
+          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "GET UP BITCH! shake ya ass (with Anitta)",
+      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
     },
     {
       "album": {
@@ -1418,7 +1458,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129631,
       "name": "Lil Boo Thang - Galantis Remix",
       "url": "https://open.spotify.com/track/1xrPJv9PnTyU0C6V6MgtG0"
@@ -2062,7 +2102,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
@@ -2522,7 +2562,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 165860,
       "name": "Strangers (feat. Linney) - Chill Mix",
       "url": "https://open.spotify.com/track/2RPBL5Qhg0WQL1Rd8drHyl"
@@ -2562,7 +2602,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170616,
       "name": "Think Of Us",
       "url": "https://open.spotify.com/track/4jpNmNXMzO3aVgJhy8sdxL"

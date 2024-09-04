@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: IIII
 
-667 songs - 1 day 9 hr 49 min
+668 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,9 +227,10 @@
 | [From The Jump \(Duet Version\)](https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [From The Jump \(Duet Version\)](https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl) | 3:51 | 2024-04-18 | 2024-07-03 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-16 | 2023-06-23 |
 | [Garden](https://open.spotify.com/track/0tfdhbTzWw4S7MMG3Euw50) | [Ghita](https://open.spotify.com/artist/0oZLmVQhyT6zFb7EjpJRrR) | [Garden](https://open.spotify.com/album/5nF0rJdSzwT2V7iJKFKxtO) | 2:48 | 2023-04-06 | 2023-07-01 |
+| [Garden](https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Garden](https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi) | 3:05 | 2024-09-03 |  |
 | [Gatekeeper](https://open.spotify.com/track/7uveohm2cpiLUOYZ7fj8hM) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Gatekeeper](https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB) | 3:26 | 2023-02-24 | 2023-04-15 |
 | [Gebruiksaanwijzing](https://open.spotify.com/track/618yYVf9TdfLpcj6tdePaP) | [Amina](https://open.spotify.com/artist/3xCILTJGZGNKQt4vaYUAAc) | [Gebruiksaanwijzing](https://open.spotify.com/album/1DEK18Z3t4U358XPdRysMP) | 2:47 | 2023-02-24 | 2023-03-10 |
-| [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 |  |
+| [Genesis, pt\. ii](https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 3:28 | 2024-06-27 | 2024-09-04 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-20 | 2024-01-05 |
 | [Ghost](https://open.spotify.com/track/7LbhIjYNfCguxjAw43Mkff) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Diamonds & Dancefloors](https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ) | 3:01 | 2023-02-24 | 2023-04-14 |
 | [Ghost Of Me](https://open.spotify.com/track/2xmsvPkZ67YgQ4p2ABrnzT) | [Haris](https://open.spotify.com/artist/6tE3YSDrBq015UZTxh9Zki) | [Ghost Of Me](https://open.spotify.com/album/4N4vgV1soaj7LbakmNfwvB) | 3:04 | 2024-07-25 |  |

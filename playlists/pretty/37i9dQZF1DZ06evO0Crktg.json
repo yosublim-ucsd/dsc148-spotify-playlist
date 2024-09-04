@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 240625,
+  "num_followers": 240873,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAfYMXOb8pIyOPR1DgdCyHd",
+  "snapshot_id": "ZtUAAAAAAABaHw+dJXOmn9Y7k9urVzq3",
   "tracks": [
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 156133,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
         "url": "https://open.spotify.com/album/2dt9s6lrC6C6m7omR6ElIi"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 200733,
       "name": "Leave The Light On (feat. Alexandra Kay) [From Twisters: The Album]",
       "url": "https://open.spotify.com/track/08iAR28HjxTqITee6Gq5vT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 156133,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/0fYEckNsTfncGvfwafcsEx"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ballads of the Broken",
-        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
-      },
-      "artists": [
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 183306,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "People's Champ",
         "url": "https://open.spotify.com/album/05nUDymtjkkya5l7gtyznT"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 231457,
       "name": "Vows (feat. Jelly Roll)",
       "url": "https://open.spotify.com/track/01CPKpskTCzekQrlkqZtjS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ballads of the Broken",
+        "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/766bpReowqK4hC9v4tYNKz"
     },
     {
       "added_at": null,

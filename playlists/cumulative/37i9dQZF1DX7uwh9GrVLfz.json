@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 125887,
       "name": "!",
       "url": "https://open.spotify.com/track/2l8y4xSzP1b7oZBvFnpWdA"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 182866,
       "name": "Ato-Ichinene",
       "url": "https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 247164,
       "name": "Boy",
       "url": "https://open.spotify.com/track/5Ki3EfcIL6RB8CtV39R8zm"
@@ -2184,7 +2184,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 181506,
       "name": "DON'T WORRY BE HAPPY",
       "url": "https://open.spotify.com/track/6gbju02JFaEKX7O7XlTUj3"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 226561,
       "name": "flagship",
       "url": "https://open.spotify.com/track/4a01VbAG5YGyQ6CBH7KzLA"
@@ -3982,7 +3982,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 238500,
       "name": "INSOMNIAC",
       "url": "https://open.spotify.com/track/2CZ4xGi6f8GsyhCE9hHTQp"
@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 38808,
       "name": "rainy day",
       "url": "https://open.spotify.com/track/5NEtRE4ehYHg6uJ8lrbNTh"
@@ -8616,7 +8616,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-07",
+      "date_removed": null,
       "duration_ms": 161026,
       "name": "SUN MYSELF",
       "url": "https://open.spotify.com/track/6d8qnfUgBXKeiiaPSuuO4z"
@@ -10649,6 +10649,28 @@
     },
     {
       "album": {
+        "name": "LOVE THY DRUNX",
+        "url": "https://open.spotify.com/album/1n2g5AkNNm468K3AG3INeo"
+      },
+      "artists": [
+        {
+          "name": "The Cherry Coke$",
+          "url": "https://open.spotify.com/artist/6GWciujSDoDzAAEcDp48sp"
+        },
+        {
+          "name": "\u30b6\u30fb\u68ee\u6771",
+          "url": "https://open.spotify.com/artist/1XYNQauHdnoJ7GYp9WyDC7"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228296,
+      "name": "\u3055\u3089\u3070\u9752\u6625\u306e\u5149 feat. \u30b6\u30fb\u68ee\u6771",
+      "url": "https://open.spotify.com/track/0NEhKgTtDyXvYy0uOdw0hN"
+    },
+    {
+      "album": {
         "name": "\u3057\u3042\u308f\u305b\u306b\u306a\u308b",
         "url": "https://open.spotify.com/album/5d6jAVVrGPqrXOHeDZTeyJ"
       },
@@ -11200,7 +11222,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 212912,
       "name": "\u30b5\u30d0\u30b7\u30b9\u30bf\u30fc's THEME - 2024 ver.",
       "url": "https://open.spotify.com/track/1cvy3uzdTG80BJK31OG9CK"
@@ -11686,7 +11708,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 188130,
       "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
       "url": "https://open.spotify.com/track/6DuWwQPRJwbfTygikrxOJv"
@@ -12075,6 +12097,28 @@
     },
     {
       "album": {
+        "name": "\u30e9\u30ba\u30ea",
+        "url": "https://open.spotify.com/album/6tsSfB8j7Au2BsfUAgnpza"
+      },
+      "artists": [
+        {
+          "name": "MONGOL800",
+          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
+        },
+        {
+          "name": "WANIMA",
+          "url": "https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335000,
+      "name": "\u30e9\u30ba\u30ea",
+      "url": "https://open.spotify.com/track/0TuWIRwex6d8rOJvdNoOO4"
+    },
+    {
+      "album": {
         "name": "\u30e9\u30d6\u30bd\u30f3\u30b0\u306f\u3044\u3089\u306a\u3044",
         "url": "https://open.spotify.com/album/1IyWrwgeRCsTveiU5s9WyT"
       },
@@ -12126,6 +12170,24 @@
       "duration_ms": 223773,
       "name": "\u30ec\u30a4\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6g4uuGkIaqT1wrrH7uzEuy"
+    },
+    {
+      "album": {
+        "name": "BUZZY KIDS",
+        "url": "https://open.spotify.com/album/6DiKSsRk8mSUmtYQx9Fswj"
+      },
+      "artists": [
+        {
+          "name": "The Dahlia",
+          "url": "https://open.spotify.com/artist/5DXnT4SukHYxqDU9sxdM3n"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171660,
+      "name": "\u30ec\u30b6\u30fc\u306e\u30b7\u30e5\u30fc\u30ba",
+      "url": "https://open.spotify.com/track/0lVlLse1bOuFy3Ja1hsTW0"
     },
     {
       "album": {
@@ -14068,7 +14130,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-22",
+      "date_removed": null,
       "duration_ms": 234627,
       "name": "\u899a\u609f\u3092\u6c7a\u3081\u308d!",
       "url": "https://open.spotify.com/track/5h54yjg8ee1CEuni56Q3Rj"

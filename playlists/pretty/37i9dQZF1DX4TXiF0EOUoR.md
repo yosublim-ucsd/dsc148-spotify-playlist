@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 
 > ¡Los reyes del jaripeo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,073 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,235 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,13 +115,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TXiF0EOUoR.md) - [plain]
 | 105 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 |
 | 106 | [Arriba Tonichi](https://open.spotify.com/track/7qcJmo4GYSfTVKaZaAkNRO) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 2:38 |
 | 107 | [Toro Viejo](https://open.spotify.com/track/3UIy1QHz6iVA4rbUisudzG) | [Banda Sinaloense de Acero](https://open.spotify.com/artist/2SKZP0y4x69KfHpd8QSDRe) | [Y Sigue la Historia \(12 Exitos ¡¡ la Explosiva!!\)](https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV) | 2:51 |
-| 108 | [Huapangos Perros](https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM) | 5:09 |
+| 108 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
 | 109 | [La Chiclanera](https://open.spotify.com/track/5LyKsB6bm885BC0NkddszI) | [Banda Punto Medio](https://open.spotify.com/artist/1e52HdTL1PMcFUdmbs5uvP) | [Jalados Con La Banda Punto Medio "Puras De Viento"](https://open.spotify.com/album/7dRYiCEWT2XSMhyBE595PO) | 2:11 |
-| 110 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
+| 110 | [Huapangos Perros](https://open.spotify.com/track/1MVngYgNoqiISUr26Pht4n) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Puras Pa' Trapear](https://open.spotify.com/album/58cA3whU8aeZpjqKLNuZvM) | 5:09 |
 | 111 | [La Yaquesita](https://open.spotify.com/track/2Lr44VAzPc6jM9Qgd9Ihhj) | [Banda Sinaloense Acero de Pablo Molina Jr.](https://open.spotify.com/artist/53qlNZcUOqKJpIdF61XYBc) | [¡¡La Explosiva!!](https://open.spotify.com/album/49pZIrjzr3D1ABMIFI0nGP) | 3:37 |
-| 112 | [El Muchacho Alegre](https://open.spotify.com/track/6kasN4p6p7Y9LT0OBdLES2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia De Los Exitos\-Parranderas](https://open.spotify.com/album/164kMmRFSeU303lUvwIWyW) | 3:18 |
+| 112 | [Feliz, Feliz](https://open.spotify.com/track/6hFek9A3Xz4g1vgSYJBnzV) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Grupo El Mexicano](https://open.spotify.com/album/06QIUFuTgAr4DNUeuu9sX8) | 3:38 |
 | 113 | [La Gitanilla](https://open.spotify.com/track/0lWqEEFGfBgiiLJPqIArjE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pa' Las De Vidrio "En Vivo"](https://open.spotify.com/album/1jjKI7TJ6tayi5eSX85xwe) | 3:12 |
-| 114 | [El Huitzuqueño](https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI) | [La Super Banda de Chilacachapa, Gro](https://open.spotify.com/artist/35GQObtpaiadJsJDq4BhLf) | [El Toro Meko](https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42) | 3:07 |
+| 114 | [El Muchacho Alegre](https://open.spotify.com/track/6kasN4p6p7Y9LT0OBdLES2) | [El Coyote Y Su Banda Tierra Santa](https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT) | [La Historia De Los Exitos\-Parranderas](https://open.spotify.com/album/164kMmRFSeU303lUvwIWyW) | 3:18 |
 | 115 | [La Vaquilla](https://open.spotify.com/track/7spdYQAPBWxPXzg9t4gnkX) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Como Loco Alucino](https://open.spotify.com/album/6mVMsBmvxhIDNWZ44qS2hd) | 3:12 |
 | 116 | [El Sinaloense](https://open.spotify.com/track/5V7C3cmkkcprkx01ZJXQRQ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [30 Aniversario](https://open.spotify.com/album/7bvOvntSA0iqc0BmOy8wz2) | 2:33 |
 | 117 | [Mi Gusto Es](https://open.spotify.com/track/54sSTki3VxnHatd5ICjT0N) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Banda El Recodo vs La Arrolladora Banda El Limon](https://open.spotify.com/album/4QnlZ53ixv9X4rReaLTNkL) | 2:35 |

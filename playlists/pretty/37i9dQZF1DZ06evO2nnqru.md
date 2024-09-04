@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 
 ### [This Is Marca MP](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru)
 
-> This is Marca MP\. The essential tracks, all in one playlist.
+> This Is Marca MP\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,216 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,235 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 14 | [Ven Conmigo](https://open.spotify.com/track/642pJ6MwUEE6QI426ScXmO) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:33 |
 | 15 | [El Velador](https://open.spotify.com/track/1bnM75H69llLIWrazZwKty) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [$ad Boyz 4 Life](https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO) | 3:49 |
 | 16 | [Buen Resultado \- En Vivo](https://open.spotify.com/track/5jysxizmPqfY7Kv2OIk0fa) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Buen Resultado \(En Vivo\)](https://open.spotify.com/album/3FFVoDJ0mPNexGGbH47YWB) | 2:54 |
-| 17 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 |
+| 17 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 |
 | 18 | [Tal Vez](https://open.spotify.com/track/4ioVrlT8cACWSuVqvQBHYb) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 3:02 |
-| 19 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 |
+| 19 | [Aunque Digan](https://open.spotify.com/track/6V9CTpTvs5LmUVcwGAK5QG) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:31 |
 | 20 | [Litzahaya](https://open.spotify.com/track/3t9RSoRYSbvXH3YmvKtLaS) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Litzahaya](https://open.spotify.com/album/3HfkxQauyghL6mcQViSqui) | 3:28 |
 | 21 | [Lealtad](https://open.spotify.com/track/5HG6bnHO89RRqiqxAVr20B) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 2:17 |
 | 22 | [Ando Sad](https://open.spotify.com/track/2kkXtrMcusksHbshFn8kPf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ando Sad](https://open.spotify.com/album/3YK7JmTZQmwnSNbNv9asHS) | 2:38 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 29 | [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/5TP3mzsguPoY5gwwNrgXIW) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Vaso Derrama \(En Vivo\)](https://open.spotify.com/album/0qAjBcALAxnxLfWDmehs2t) | 3:53 |
 | 30 | [Sigo Al Frente](https://open.spotify.com/track/0na2KcdWb67qUDu0297IWf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 2:57 |
 | 31 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
-| 32 | [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 |
-| 33 | [El Rapido](https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 3:02 |
+| 32 | [El Rapido](https://open.spotify.com/track/3IDvZQYop4XSaTZHw4H5hK) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/08nFf278FBOyxTEssZx2LR) | 3:02 |
+| 33 | [Sin Rencores](https://open.spotify.com/track/3zteaSRVNGnb64nYdNESgw) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Sin Rencores](https://open.spotify.com/album/3t9mSoc9znrVKsUBUyMCW5) | 2:28 |
 | 34 | [Siempre Activo \- En Vivo](https://open.spotify.com/track/6mdGBWH1EZxW3cN2yj737v) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Desde El Cantón, Vol\. II \(En Vivo\)](https://open.spotify.com/album/3jZIGZPZ4iijaPksSNWt13) | 4:07 |
 | 35 | [Sigues Siendo Tu \- En vivo](https://open.spotify.com/track/2QAnp9ABPbpoTWfjyjRBD3) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 3:35 |
 | 36 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2nnqru.md) - [plain]
 | 39 | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/track/0M21gHJZQ3xI6NL3OK0zpL) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Dicen Que Soy Bélico \(En Vivo\)](https://open.spotify.com/album/5ikE5MM200NwQwfJVOpJGG) | 3:51 |
 | 40 | [Hasta El Día De Hoy \- En Vivo](https://open.spotify.com/track/2kLeMNfph8mO99WZl9qikK) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Hasta el Día de Hoy \(En Vivo\)](https://open.spotify.com/album/4BoACxcvzH7D3wdvuYMWV5) | 3:42 |
 | 41 | [Sobrino Del Chavalon \- En Vivo](https://open.spotify.com/track/4IZvy2zGSrlUkGCRZ02pVN) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/77ZS3zOcl24hgHQpI9S9Z1) | 3:28 |
-| 42 | [De Morro](https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [De Morro](https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33) | 2:44 |
+| 42 | [HPNOTIQ](https://open.spotify.com/track/62EhtHu66m7mALECCCHMf6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [HPNOTIQ](https://open.spotify.com/album/5BpFVOT24S7KDep5lQg66z) | 3:03 |
 | 43 | [No Me Voy a Rajar \- En vivo](https://open.spotify.com/track/6yiRCPwBdcXkLYgHjwRvdq) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 2:58 |
-| 44 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
-| 45 | [Tu Ventana](https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:06 |
-| 46 | [HPNOTIQ](https://open.spotify.com/track/62EhtHu66m7mALECCCHMf6) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [HPNOTIQ](https://open.spotify.com/album/5BpFVOT24S7KDep5lQg66z) | 3:03 |
+| 44 | [De Morro](https://open.spotify.com/track/51ZB417tafnkR0UQYTIWzs) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [De Morro](https://open.spotify.com/album/4ujXW1MC4b4a2d7Uq7Cw33) | 2:44 |
+| 45 | [Subete A Mi Troca](https://open.spotify.com/track/31i2tCtppcIKZgEQx5qdHc) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Aunque Digan](https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng) | 2:22 |
+| 46 | [Tu Ventana](https://open.spotify.com/track/1S65ib6SBhlsneaVmjbdrw) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:06 |
 | 47 | [Sabes Amor \- En vivo](https://open.spotify.com/track/70Py0XCeJloi2ERN3w3Mj7) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 4:36 |
 | 48 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
 | 49 | [Tolin Infante](https://open.spotify.com/track/0uNTAScdqGpKxnqZ3Gj8dg) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Brindo](https://open.spotify.com/album/39BGT0v33s4yMplCSCILeI) | 2:47 |
 | 50 | [Mi Universo Entero](https://open.spotify.com/track/6OPFaShW3TEnLcYWSZxt67) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [LEALTAD](https://open.spotify.com/album/1JdiEIBdZQWfrZB2uFEGqm) | 3:37 |
 
-Snapshot ID: `ZtOugAAAAADOl80SaXUQsVnEm3yDS3K6`
+Snapshot ID: `ZtUAAAAAAAA2MbHp8v1YRTWMt/uX43Km`

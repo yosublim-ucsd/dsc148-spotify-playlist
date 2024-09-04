@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Maija Vilkkumaa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,803 likes - 76 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,806 likes - 76 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Me ollaan siskot](https://open.spotify.com/track/4oyeTpI7bkjkpldKOk4PU2) | [Maija Vilkkumaa](https://open.spotify.com/artist/4LhCodjo3UFI0Bu0ZYuOP5) | [Me ollaan siskot](https://open.spotify.com/album/74gp6EnHAcwSQX6PW0l50u) | 2:56 |
 | 2 | [VMP](https://open.spotify.com/track/7wJtQbk3jiwzMmMYzmNahI) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [VMP](https://open.spotify.com/album/4KYBQzyfGj65Q73OylcCY5) | 2:42 |
 | 3 | [Periaatteessa onnellinen](https://open.spotify.com/track/1Ph4WJUA4KRC9MJxbikvat) | [The Stonewalls](https://open.spotify.com/artist/3Lb8xb895mxv1PW4ATbIJc), [Lauri Ketonen](https://open.spotify.com/artist/0COKPylAjot2zwI9ABkrd0) | [Periaatteessa onnellinen](https://open.spotify.com/album/0qatNBp4KY5SMzilMrnMvS) | 3:56 |
-| 4 | [Jokaiselle jotakin](https://open.spotify.com/track/3UXirsFIIcEtEJg1DlMMcy) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [Jokaiselle jotakin](https://open.spotify.com/album/1UyCAuD7IiNINPDC9crXQS) | 3:30 |
-| 5 | [Aioin jättää sut tänään](https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [SUPERAURINKO](https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A) | 3:50 |
-| 6 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 |
-| 7 | [Täs ja nyt](https://open.spotify.com/track/1Shd74Ge7YhV90M2Ttx6Mw) | [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Täs ja nyt](https://open.spotify.com/album/7vFMReWTVm1OZnwDCsbAfh) | 2:51 |
+| 4 | [Täs ja nyt](https://open.spotify.com/track/1Shd74Ge7YhV90M2Ttx6Mw) | [Salla Flinkman](https://open.spotify.com/artist/71UgFcuxzgiAFdwTu26Qlg) | [Täs ja nyt](https://open.spotify.com/album/7vFMReWTVm1OZnwDCsbAfh) | 2:51 |
+| 5 | [Jokaiselle jotakin](https://open.spotify.com/track/3UXirsFIIcEtEJg1DlMMcy) | [Ilkka Alanko](https://open.spotify.com/artist/4KGPlF7eEnZRgR31GRtoor) | [Jokaiselle jotakin](https://open.spotify.com/album/1UyCAuD7IiNINPDC9crXQS) | 3:30 |
+| 6 | [Aioin jättää sut tänään](https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [SUPERAURINKO](https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A) | 3:50 |
+| 7 | [Aurinkomäki](https://open.spotify.com/track/7IEaEIzhKacGDNBMbmGH0M) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Aurinkomäki](https://open.spotify.com/album/4GO7fFLjd6nloXjZqtgmxP) | 3:09 |
 | 8 | [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 |
 | 9 | [Elät Vaan](https://open.spotify.com/track/2tQk2A6XDXKlhxw5cT2jYe) | [Remix](https://open.spotify.com/artist/60rrONrFQipKsTXYazdmQO), [Karoliina Kallio](https://open.spotify.com/artist/0PMSbS727MWOXbiEcSjSLm) | [Elät Vaan](https://open.spotify.com/album/4zTGHW1H5IxyUSYGcRmj6W) | 3:40 |
 | 10 | [Rakkautta & anarkiaa](https://open.spotify.com/track/154heblJv4md1puOCiEFWq) | [Annika Nord](https://open.spotify.com/artist/38CUYNUjAo4KtM0aSp8rgs) | [Rakkautta & anarkiaa](https://open.spotify.com/album/4rfIZOi0exVOhOWxxyVc6U) | 3:31 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 75 | [Sut luotiin lumoamaan](https://open.spotify.com/track/5kjwaozp3A3l5TXx8eoLbJ) | [Baikal](https://open.spotify.com/artist/6J6vHr5MrBjKaVixJq3iva) | [Sut luotiin lumoamaan](https://open.spotify.com/album/5j7QkVGfjNZHCpQzDf9iES) | 4:05 |
 | 76 | [Verivala](https://open.spotify.com/track/63wjcCy16aXLDK9G1t7lNP) | [kytät](https://open.spotify.com/artist/49jF8kdHtxnwhnQa5wiknv) | [Verivala](https://open.spotify.com/album/4CwyveLUU9sPzTWxdix0XS) | 2:37 |
 
-Snapshot ID: `ZtDhjAAAAAAW775wj+CUQ+/XYnFts/CI`
+Snapshot ID: `ZtbZUwAAAADUe0mglXXB1Z8h6xB8NhMc`

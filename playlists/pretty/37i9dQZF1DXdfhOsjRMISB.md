@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfhOsjRMISB.md) - [plain]
 
 > Country music to accompany you on the open road\. Cover: Miranda Lambert
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,535 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 368,570 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

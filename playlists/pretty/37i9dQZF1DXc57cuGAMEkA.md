@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ずっと真夜中でいいのに。、Cordae & Anderson .Paak、水曜日のカンパネラ  and more! cover: ずっと真夜中でいいのに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,694 likes - 76 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,731 likes - 76 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

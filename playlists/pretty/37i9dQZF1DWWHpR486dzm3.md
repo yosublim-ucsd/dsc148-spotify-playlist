@@ -4,26 +4,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Pekka Nisu ja Elias Gould.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,765 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,771 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4) | 2:47 |
-| 2 | [Hän on kalastaja](https://open.spotify.com/track/1fRflLjXAzXmksQ3NIXKVi) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Hän on kalastaja](https://open.spotify.com/album/1UjoSVjjVbTfmaSSdfIeb2) | 3:55 |
-| 3 | [Ota kiinni, päästä irti](https://open.spotify.com/track/43HPsksSgUQpZmuZKUbeMY) | [Kastehelmi](https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa) | [Ota kiinni, päästä irti](https://open.spotify.com/album/1njntjqlVYdHGg0BS96pDI) | 3:31 |
-| 4 | [Joutomaa](https://open.spotify.com/track/4pHwjqKOz8Qv7f6ogUJwIk) | [Samuli Myrsky](https://open.spotify.com/artist/0RlAoFsaFLLU02Wx8nIa6n) | [Joutomaa](https://open.spotify.com/album/764ryunQhKuJD0m0nz1LC9) | 4:12 |
-| 5 | [Forgiveness](https://open.spotify.com/track/4kzVwlkEigZPvgnKhcl6YR) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Body](https://open.spotify.com/album/31iixkCCxseX3aTtTpbM8e) | 3:18 |
-| 6 | [Friedrichshain](https://open.spotify.com/track/6shjzWDbxwUuQzmhQAQJQQ) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Soft Atlas](https://open.spotify.com/album/4Krjmqw6gmzUQzhE5m1Duc) | 4:50 |
-| 7 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 |
-| 8 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
-| 9 | [Rakastan sun exää](https://open.spotify.com/track/6EScyxvlujQM7fP5GDS4va) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Rakastan sun exää](https://open.spotify.com/album/0BTIqyT0VarcPwggEDv8rV) | 3:12 |
-| 10 | [Marigolds](https://open.spotify.com/track/3lR7YTrRLhkB8lTZJRCAK9) | [Airi's](https://open.spotify.com/artist/5QJZKOS0azSGPJXoqPcm12) | [Sea of Your Thoughts](https://open.spotify.com/album/5olMokN7kYmmjkeCkOmoAV) | 3:18 |
-| 11 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 |
-| 12 | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/track/1hGT16i5yL9g6L27dp9PJb) | [Pekka Laine](https://open.spotify.com/artist/2qS0rXD8DBXVA3OJS3xQkF), [Jay Nemor](https://open.spotify.com/artist/4LnRutGXgJkLGZGHBoZwTC) | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/album/34dgsLprfkrrEgbx94OEHi) | 3:07 |
-| 13 | [After Summer](https://open.spotify.com/track/7GbCBC12FINeAvnVFNWDpS) | [VON KONOW](https://open.spotify.com/artist/22j1dLSC6MsQS2Fm0EhZTB) | [After Summer](https://open.spotify.com/album/2oXhJfjjKDiGtmY0hKdK7J) | 3:22 |
-| 14 | [Healing](https://open.spotify.com/track/6gn2qQXhGFAFp2xgwIMZb3) | [feelswithcaps](https://open.spotify.com/artist/4Lz6VUtJikzbN19bHDVdyN) | [Healing](https://open.spotify.com/album/2BWNTOnyegW8FxlCDRplZH) | 3:04 |
-| 15 | [Valheita ja totuutta](https://open.spotify.com/track/7BfjIU5r4vme4Urppia6Bf) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Valheita ja totuutta](https://open.spotify.com/album/1rFOEwuzuo6rvJjr43O7go) | 3:44 |
-| 16 | [Grace](https://open.spotify.com/track/12inBXJYjPMnjPvTO6HRvd) | [Iron Country Sisters](https://open.spotify.com/artist/4nqdOcDZGcXUgZLc8s5qzR) | [Grace](https://open.spotify.com/album/5YcDjN5Kt10MbgIT8tqErp) | 3:46 |
+| 1 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 |
+| 2 | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/track/4KBaamH6sQDzO71LxFHXLJ) | [Pekka Nisu](https://open.spotify.com/artist/5pK0f3WYGPjuZ5aviic5fS), [Elias Gould](https://open.spotify.com/artist/2vMYb9ojrYEFFcz0IRF2b3) | [Hei kuski \(feat\. Elias Gould\)](https://open.spotify.com/album/0GYxct8Pog06gIMvnS5PF4) | 2:47 |
+| 3 | [Början på ingenting](https://open.spotify.com/track/03NXA2TLqt5J6sgyAI0fBK) | [Anna Järvinen](https://open.spotify.com/artist/70vrcQugFAOAtOFIW1wcyR) | [Början på ingenting](https://open.spotify.com/album/0Re4KK11HqOvM3bjr4lSZD) | 3:30 |
+| 4 | [Grace](https://open.spotify.com/track/12inBXJYjPMnjPvTO6HRvd) | [Iron Country Sisters](https://open.spotify.com/artist/4nqdOcDZGcXUgZLc8s5qzR) | [Grace](https://open.spotify.com/album/5YcDjN5Kt10MbgIT8tqErp) | 3:46 |
+| 5 | [Friedrichshain](https://open.spotify.com/track/6shjzWDbxwUuQzmhQAQJQQ) | [NEØV](https://open.spotify.com/artist/6TgS8LDntw71vz2Wf7TJ8h) | [Soft Atlas](https://open.spotify.com/album/4Krjmqw6gmzUQzhE5m1Duc) | 4:50 |
+| 6 | [Hän on kalastaja](https://open.spotify.com/track/1fRflLjXAzXmksQ3NIXKVi) | [Joose Keskitalo](https://open.spotify.com/artist/5NVT5vzzlz2slm2gAoA5je), [The Mystic Revelation of Teppo Repo](https://open.spotify.com/artist/0dZa3VK8cBMlUQ8PsozrsR) | [Hän on kalastaja](https://open.spotify.com/album/1UjoSVjjVbTfmaSSdfIeb2) | 3:55 |
+| 7 | [Ota kiinni, päästä irti](https://open.spotify.com/track/43HPsksSgUQpZmuZKUbeMY) | [Kastehelmi](https://open.spotify.com/artist/6PysTj6KUdoesY60Txurxa) | [Ota kiinni, päästä irti](https://open.spotify.com/album/1njntjqlVYdHGg0BS96pDI) | 3:31 |
+| 8 | [Joutomaa](https://open.spotify.com/track/4pHwjqKOz8Qv7f6ogUJwIk) | [Samuli Myrsky](https://open.spotify.com/artist/0RlAoFsaFLLU02Wx8nIa6n) | [Joutomaa](https://open.spotify.com/album/764ryunQhKuJD0m0nz1LC9) | 4:12 |
+| 9 | [Forgiveness](https://open.spotify.com/track/4kzVwlkEigZPvgnKhcl6YR) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Body](https://open.spotify.com/album/31iixkCCxseX3aTtTpbM8e) | 3:18 |
+| 10 | [High](https://open.spotify.com/track/20INpNM0LYwKHd0ghtqOQD) | [Crimson Peak](https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB) | [Music About Feelings](https://open.spotify.com/album/3uiP4c1oPgsj7o3le60FUk) | 3:32 |
+| 11 | [Rakastan sun exää](https://open.spotify.com/track/6EScyxvlujQM7fP5GDS4va) | [Litku Klemetti](https://open.spotify.com/artist/3Z5GO6d7DMSBeSlNBophOR) | [Rakastan sun exää](https://open.spotify.com/album/0BTIqyT0VarcPwggEDv8rV) | 3:12 |
+| 12 | [Marigolds](https://open.spotify.com/track/3lR7YTrRLhkB8lTZJRCAK9) | [Airi's](https://open.spotify.com/artist/5QJZKOS0azSGPJXoqPcm12) | [Sea of Your Thoughts](https://open.spotify.com/album/5olMokN7kYmmjkeCkOmoAV) | 3:18 |
+| 13 | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/track/1hGT16i5yL9g6L27dp9PJb) | [Pekka Laine](https://open.spotify.com/artist/2qS0rXD8DBXVA3OJS3xQkF), [Jay Nemor](https://open.spotify.com/artist/4LnRutGXgJkLGZGHBoZwTC) | [Sorrow and Pain \(feat\. Jay Nemor\)](https://open.spotify.com/album/34dgsLprfkrrEgbx94OEHi) | 3:07 |
+| 14 | [After Summer](https://open.spotify.com/track/7GbCBC12FINeAvnVFNWDpS) | [VON KONOW](https://open.spotify.com/artist/22j1dLSC6MsQS2Fm0EhZTB) | [After Summer](https://open.spotify.com/album/2oXhJfjjKDiGtmY0hKdK7J) | 3:22 |
+| 15 | [Healing](https://open.spotify.com/track/6gn2qQXhGFAFp2xgwIMZb3) | [feelswithcaps](https://open.spotify.com/artist/4Lz6VUtJikzbN19bHDVdyN) | [Healing](https://open.spotify.com/album/2BWNTOnyegW8FxlCDRplZH) | 3:04 |
+| 16 | [Valheita ja totuutta](https://open.spotify.com/track/7BfjIU5r4vme4Urppia6Bf) | [Eva Louhivuori](https://open.spotify.com/artist/7DX4xa1cd1vBFt2kipYgfq) | [Valheita ja totuutta](https://open.spotify.com/album/1rFOEwuzuo6rvJjr43O7go) | 3:44 |
 | 17 | [Waterfall](https://open.spotify.com/track/6BCKy6advV0E1jyQBpxmCr) | [Indigo Dream](https://open.spotify.com/artist/3nxQ0z5TpFCavqaRB1lJka) | [Indigo Dream](https://open.spotify.com/album/48QgPT41BnnvBP36igX0GA) | 4:08 |
 | 18 | [PVC 1999](https://open.spotify.com/track/1uBA7E8eyWdTUcixbjFIGi) | [Lasse Soundblaster](https://open.spotify.com/artist/2ok1Br7qRwL3FMlYvoBQAf) | [PVC 1999](https://open.spotify.com/album/1SzWCqHtdYx8IojQTAPzy1) | 3:02 |
 | 19 | [Vi Är Finnjävlar](https://open.spotify.com/track/3vHsF9d0jiek3xzT1YNAQp) | [Drug Store Raid](https://open.spotify.com/artist/53dLQQZFdX3WuK7RjFB5UP) | [Vi Är Finnjävlar](https://open.spotify.com/album/6AVbeae6SoZ7qJ072N7Ctx) | 2:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 | 79 | [Muurahainen](https://open.spotify.com/track/3awvOQjFwKi0NdpGBOLNvT) | [Jani Matti Juhani](https://open.spotify.com/artist/68XqQfLoVgplwesDOKhU0a) | [Muurahainen](https://open.spotify.com/album/2t4T4d4mnk9fhXw2gX9NJA) | 3:12 |
 | 80 | [Shine](https://open.spotify.com/track/7x5miBBTHhwBwe0BpxVNkx) | [Pastelli](https://open.spotify.com/artist/2k02EZcMgA1v7BQPQYyzs1) | [Shine](https://open.spotify.com/album/04UiI1wMjn3E7pyUfPXi2v) | 3:18 |
 
-Snapshot ID: `ZtDhjAAAAABiKk9v7SzxUg8UJaQvi3bA`
+Snapshot ID: `Ztbc7QAAAABYyQnuwlEYwnnEeyO5fC2h`

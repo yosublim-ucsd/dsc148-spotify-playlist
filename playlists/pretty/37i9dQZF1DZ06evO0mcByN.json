@@ -1,12 +1,12 @@
 {
-  "description": "This is Kemilly Santos. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 4393,
+  "description": "This is Kemilly Santos. The essential tracks, all in one playlist.",
+  "num_followers": 4399,
   "original_name": "This Is Kemilly Santos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC02Saw1oa4SygLVhryYLZm",
+  "snapshot_id": "ZtUAAAAAAAC92ItO5frx9+VfbGZzw44F",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 293026,
+      "name": "Fogo e Gl\u00f3ria",
+      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 303946,
+      "name": "Tem Horas",
+      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Maravilhosa Gra\u00e7a (feat. Rebeca Carvalho)",
         "url": "https://open.spotify.com/album/1igRu2gmmWySSID0sgMLvb"
       },
@@ -283,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 303946,
-      "name": "Tem Horas",
-      "url": "https://open.spotify.com/track/7uPDau0lf1w3fhXyDGNOHr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 293026,
-      "name": "Fogo e Gl\u00f3ria",
-      "url": "https://open.spotify.com/track/0FaO859uX1wpZhnKa0cUzi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plano Original",
         "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sempre Foi Deus",
-        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 284583,
-      "name": "Sempre Foi Deus",
-      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
+      "duration_ms": 230386,
+      "name": "Aguenta Firme",
+      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+        "name": "Sempre Foi Deus",
+        "url": "https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 230386,
-      "name": "Aguenta Firme",
-      "url": "https://open.spotify.com/track/4bYp3OEj49U3GF71L4kJid"
+      "duration_ms": 284583,
+      "name": "Sempre Foi Deus",
+      "url": "https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
-        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
+        "name": "Vai Valer a Pena",
+        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 219906,
-      "name": "Cuidando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
+      "duration_ms": 301280,
+      "name": "360 Graus",
+      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
     },
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vai Valer a Pena",
-        "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
+        "name": "Kemilly Santos ao Vivo em S\u00e3o Paulo",
+        "url": "https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9"
       },
       "artists": [
         {
@@ -448,25 +448,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 301280,
-      "name": "360 Graus",
-      "url": "https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 270533,
-      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
-      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
+      "duration_ms": 219906,
+      "name": "Cuidando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG"
     },
     {
       "added_at": null,
@@ -491,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vai Valer a Pena",
         "url": "https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx"
       },
@@ -519,6 +487,38 @@
       "duration_ms": 220733,
       "name": "Vai Valer a Pena",
       "url": "https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 270533,
+      "name": "Por Tr\u00e1s Desse Sil\u00eancio",
+      "url": "https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
     },
     {
       "added_at": null,

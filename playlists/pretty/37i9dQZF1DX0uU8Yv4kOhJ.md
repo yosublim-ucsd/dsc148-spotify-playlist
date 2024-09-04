@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,467 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,477 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 46 | [Tiempo Atrás](https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD) | [Urdaneta](https://open.spotify.com/artist/5XAvWDyOxZ5TjPDQTrynFB) | [Tiempo Atrás](https://open.spotify.com/album/1de6lhpWxYRivS5xSM83gK) | 3:45 |
 | 47 | [La Estrella y la Isla](https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo) | [Andrés Correa](https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96), [Cavito Mendoza](https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7) | [La Estrella y la Isla](https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93) | 4:01 |
 | 48 | [Baile De Máscaras](https://open.spotify.com/track/7KeH1mQZlpOTccqRugxRTZ) | [El Extravagante](https://open.spotify.com/artist/0b2zfVa4duZMphcIAK4EA5), [Camilo Zanetti](https://open.spotify.com/artist/4UwlY5gh79bRsYLZbD7h0l) | [Walüng II](https://open.spotify.com/album/6H6pIujNzhCUK03nf68gSY) | 4:04 |
-| 49 | [La Niña Blanca](https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [La Niña Blanca](https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s) | 3:55 |
-| 50 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 |
+| 49 | [Canto \#7](https://open.spotify.com/track/7qIRptEor1ow6u0WFty8Ej) | [Frailejones](https://open.spotify.com/artist/6i766JnQDXpjZ1Kedhjf3h) | [Canto \#7](https://open.spotify.com/album/7GIhm57UKjqGTVpLkF9pKl) | 4:04 |
+| 50 | [La Niña Blanca](https://open.spotify.com/track/2HQfE6rpHZnbXZUtUtO9RL) | [Atrato](https://open.spotify.com/artist/3WDYOIY25xdmi3RXp9sXrn) | [La Niña Blanca](https://open.spotify.com/album/4eTyTbkSsLAM0pwR7Uex5s) | 3:55 |
 
 Snapshot ID: `ZRceUgAAAABrVqXj3DRA1ZAoZB0G6sDO`

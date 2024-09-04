@@ -4,7 +4,7 @@
 
 > De beste Nederlandse liedjes\. Cover: Roxy Dekker
 
-273 songs - 14 hr 14 min
+274 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-10-05 | 2024-04-15 |
 | [Missen Zou](https://open.spotify.com/track/2rdAPax7p9QRghy0wKiw6d) | [Thomas Acda](https://open.spotify.com/artist/50o63K3IrY47g46E8R071Y), [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Missen Zou](https://open.spotify.com/album/5LeUosB70aEFHeCGO9bdRE) | 2:47 | 2023-02-24 |  |
 | [Money Op De Tafel](https://open.spotify.com/track/33HuZaIX8YsIRQfy5GFSng) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Money Op De Tafel](https://open.spotify.com/album/2wFhOgAs823aYGZ0MiGK4O) | 3:02 | 2023-02-24 | 2023-04-04 |
-| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2024-04-16 |  |
+| [Monster](https://open.spotify.com/track/5TEkJECu40iwrM8AOSITBt) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/0258dItR7nbdZhF0fRCbOC) | 2:54 | 2024-04-16 | 2024-09-04 |
 | [Monster](https://open.spotify.com/track/6w67kek3AnRI83HMnDWxpB) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Monster](https://open.spotify.com/album/3m9wXZj0Je2axtnF0fXNYy) | 2:54 | 2023-12-07 | 2024-04-19 |
 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 | 2023-11-10 | 2024-01-08 |
 | [Morgen Gaan We Praten](https://open.spotify.com/track/5sxNsqIte1Yjkf470Z8u0B) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/42BHKZiJziE1bGdozzHuMF) | 2:48 | 2023-12-21 | 2024-03-20 |
@@ -222,6 +222,7 @@
 | [Sterrenstof](https://open.spotify.com/track/4PW9WvbhNlrFoThvc7zheh) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/11rfbdYl1pFjo4sVoPWuKB) | 3:40 | 2023-02-24 | 2024-02-14 |
 | [Sterrenstof](https://open.spotify.com/track/7D5vAulNfrQV6xEwzgH0OF) | [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [De Lachende Derde](https://open.spotify.com/album/2xBEH6Yx2yaKVJNljOW2V4) | 3:40 | 2024-05-23 |  |
 | [Stiekem](https://open.spotify.com/track/1ulgMAx95xb3N33SMklfG3) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU), [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Stiekem ft\. Goldband](https://open.spotify.com/album/1ZzRJDpsGzs8wkkI0w6F8G) | 3:23 | 2023-02-24 |  |
+| [Stiekem ‘24](https://open.spotify.com/track/1FdncxahefhSPAE1npIMCk) | [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Stiekem ‘24](https://open.spotify.com/album/7qSfiZ1AVuuOci1fjEXMQr) | 3:08 | 2024-09-03 |  |
 | [Stil In Mij](https://open.spotify.com/track/3xOiF0xnt47PgOwprICudF) | [Van Dik Hout](https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo) | [Van Dik Hout](https://open.spotify.com/album/74dehe0e0Thai6kw4u0Jrc) | 4:04 | 2023-02-24 | 2023-09-22 |
 | [Stukje Van Mij](https://open.spotify.com/track/3k9LdosLHcyy4kE5J6pV2p) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Stukje Van Mij](https://open.spotify.com/album/0WuTTSyph8iJopqrYySkOL) | 3:25 | 2024-02-28 |  |
 | [Sweet Goodbyes](https://open.spotify.com/track/4NH0G33zApUnRNsSK0CwuN) | [Krezip](https://open.spotify.com/artist/0ZLfGbfO9xjpfna1pN8BeX) | [Sweet Goodbyes](https://open.spotify.com/album/01jUXWDoLYVABwZccg1RbO) | 3:12 | 2023-02-24 | 2024-02-03 |

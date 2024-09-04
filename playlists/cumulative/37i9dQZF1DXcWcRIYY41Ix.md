@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-653 songs - 1 day 14 hr 58 min
+654 songs - 1 day 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Calor](https://open.spotify.com/track/3kboOvTL8QO5qx6bVB094O) | [Nadia Larcher](https://open.spotify.com/artist/7qCEjoCmUjJ0F8ACB0WUX5), [Tomi Llancafil](https://open.spotify.com/artist/2xy5kDRv2UMlxqJJT1RwTo), [Mocchi](https://open.spotify.com/artist/2PIR7IOatY3R48U74ypBez), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld), [Milagros Caliva](https://open.spotify.com/artist/5Zz0dRPQsCEPXJInndPonI), [Noelia Sinkunas](https://open.spotify.com/artist/4HUdSdEPd2TFlEBO334EuF), [Flor Bobadilla Oliva](https://open.spotify.com/artist/4DT7C2ulb62pCMAKbGcl3j), [Manu Sija](https://open.spotify.com/artist/0YJbC4MQ0KFv3bhFz8uUnx) | [Calor](https://open.spotify.com/album/65x4U2QqAvZ48nZSDQbpVR) | 6:08 | 2024-05-09 | 2024-06-01 |
 | [Caminar y Silbar](https://open.spotify.com/track/5iMjqRdsME17iDsAGTkHiL) | [Izqui y los Pequeños Planetas](https://open.spotify.com/artist/4rIMxwqlZeHtdFBGonACct) | [Caminar y Silbar](https://open.spotify.com/album/0cxtvqa04vMLpshMs5szhb) | 2:45 | 2022-05-13 | 2022-07-09 |
 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 | 2022-10-21 | 2022-12-03 |
-| [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 | 2024-04-19 |  |
+| [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 | 2024-04-19 | 2024-09-04 |
 | [Camino Dorado](https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU) | 3:11 | 2023-06-16 | 2023-07-10 |
 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 | 2022-07-22 |  |
 | [Camposanto](https://open.spotify.com/track/2yn6VHPMXU4RPnENTQSHLH) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Camposanto](https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP) | 3:27 | 2022-11-11 | 2023-01-06 |
@@ -546,6 +546,7 @@
 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 | 2021-12-24 |  |
 | [Siempre sale el sol en Barcelona \- Live Session Chez Xefo Art Gallery](https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8) | [Luisa y el Mar](https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC) | [Siempre sale el sol en Barcelona \(Live Session Chez Xefo Art Gallery\)](https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm) | 2:55 | 2023-06-23 |  |
 | [Silencio](https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:27 | 2021-12-24 | 2022-05-13 |
+| [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 | 2024-08-30 |  |
 | [SN 2020Z](https://open.spotify.com/track/332M1uElwOFaCIm82QVF2U) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [SN 2020Z](https://open.spotify.com/album/0nzy45puRrqJHchb66A3uw) | 3:27 | 2024-03-15 | 2024-08-31 |
 | [Sol Redondo](https://open.spotify.com/track/765Av5qJo9j2Tm1ABwxByG) | [Fernanda Ulibarri](https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z), [Musas Ensamble de Arpas](https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg) | [Sol Redondo](https://open.spotify.com/album/6Jgbjx3iO4yQLaa0AEnhsb) | 3:45 | 2022-03-07 | 2022-05-04 |
 | [Soles en la Luna \- Ma'ẽna anga](https://open.spotify.com/track/4PHtYJhjIaK1PJHZxF10qJ) | [Purahei Soul](https://open.spotify.com/artist/4P0LGc8P3PhXCH29S5bU5p) | [Viaje](https://open.spotify.com/album/0axvfQLHypEXhvM6wccZHk) | 2:58 | 2024-04-26 | 2024-06-01 |

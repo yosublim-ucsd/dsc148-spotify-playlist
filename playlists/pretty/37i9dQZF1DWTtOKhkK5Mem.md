@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 
 > Male artists singing about love.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,351 likes - 150 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,444 likes - 150 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,7 +130,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 120 | [In My Time of Need](https://open.spotify.com/track/4JIGrn55PH4BNnoofFKnYc) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 5:38 |
 | 121 | [Home \- Remix](https://open.spotify.com/track/2jRMDx1Xu8pvsIUxIePXAt) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3), [Humberto Gatica](https://open.spotify.com/artist/67K364KAVvBthhmq70ct4h) | [It's Time](https://open.spotify.com/album/457fktVFXVwjQTl9wOLlfg) | 3:41 |
 | 122 | [Don't give up on us](https://open.spotify.com/track/23IWhAK0cYRwnBT5EE8i3u) | [David Soul](https://open.spotify.com/artist/2eFkm34OMSYRUwP4RAtXaT) | [David Soul](https://open.spotify.com/album/3bK8cxPBLUFkeBeoqzoWtx) | 3:38 |
-| 123 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 |
+| 123 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 |
 | 124 | [Truly Madly Deeply](https://open.spotify.com/track/6MXeTGKPhVuaifyloxs8tL) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Love Songs](https://open.spotify.com/album/0Kqw8feGAz7zQ7cELaIeBs) | 4:37 |
 | 125 | [\(Nice To Meet You\) Anyway \- Stripped Version](https://open.spotify.com/track/1Cv3HtEotaYMjTjXCstQMU) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot](https://open.spotify.com/album/75UQQb5KzyAVOfUUxWBjSe) | 4:46 |
 | 126 | [More Than Words](https://open.spotify.com/track/7z0JcZ8PQoAfUaLIXvbyTH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [The Best Of Extreme \(An Accidental Collication Of Atoms\)](https://open.spotify.com/album/4hgVjEoyjjCXhMg5dZtGiI) | 5:35 |
@@ -140,8 +140,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtOKhkK5Mem.md) - [plain]
 | 130 | [Back for Good \- Radio Mix](https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Deluxe\)](https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF) | 4:02 |
 | 131 | [Let's Get It On](https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Let's Get It On \(Expanded Edition\)](https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy) | 4:50 |
 | 132 | [Morning Has Broken](https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat](https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo) | 3:20 |
-| 133 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
-| 134 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
+| 133 | [Every Breath You Take \- Remastered 2003](https://open.spotify.com/track/5C0LFQARavkPpn7JgA4sLk) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Synchronicity \(Remastered\)](https://open.spotify.com/album/28eOriEfl7IGbQDNvWIWXK) | 4:13 |
+| 134 | [Little Things](https://open.spotify.com/track/7kSLdGdXLey7pzLsWpdg1h) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [Take Me Home: Yearbook Edition](https://open.spotify.com/album/5SxEsi1PNyo1XfEKDYcFKF) | 3:39 |
 | 135 | [I Swear](https://open.spotify.com/track/3V0PeMg2mhbYRtk9bioAwF) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [Rhino Hi\-Five: All\-4\-One](https://open.spotify.com/album/0OrEq5JeWVzislPoSg0fzZ) | 4:19 |
 | 136 | [Nothing Really Matters](https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU) | 3:42 |
 | 137 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |

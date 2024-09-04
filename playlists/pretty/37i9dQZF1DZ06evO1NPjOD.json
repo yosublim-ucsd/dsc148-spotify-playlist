@@ -1,12 +1,12 @@
 {
-  "description": "This is City Girls. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 38028,
+  "description": "This is City Girls. The essential tracks, all in one playlist.",
+  "num_followers": 38029,
   "original_name": "This Is City Girls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACaxlWF/Yk1hs5OFv9Oeemc",
+  "snapshot_id": "ZtUAAAAAAADu2GO58r93788k79ccqwJb",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Twerkulator",
+        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        }
+      ],
+      "duration_ms": 138541,
+      "name": "Twerkulator",
+      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "City On Lock",
         "url": "https://open.spotify.com/album/4VzVHSPoh9MP85THaTfYpN"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 218332,
       "name": "Pussy Talk",
       "url": "https://open.spotify.com/track/5EzL7hGT9g2Tvqsy158Lu9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Twerkulator",
-        "url": "https://open.spotify.com/album/0UMsQl5qJZAjhcj2985joB"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        }
-      ],
-      "duration_ms": 138541,
-      "name": "Twerkulator",
-      "url": "https://open.spotify.com/track/2Ty7EDf9XLYzEUqEIwJfDC"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "JT First Day Out",
-        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "JT",
-          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
-        }
-      ],
-      "duration_ms": 187679,
-      "name": "JT First Day Out",
-      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RAW",
         "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 198762,
       "name": "Emotions (feat. Muni Long)",
       "url": "https://open.spotify.com/track/2jp0lOFYZhZsYFeKkNpd3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JT First Day Out",
+        "url": "https://open.spotify.com/album/4kqU7ojcMMAGEmEuJjfghx"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "JT",
+          "url": "https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m"
+        }
+      ],
+      "duration_ms": 187679,
+      "name": "JT First Day Out",
+      "url": "https://open.spotify.com/track/0Otdui0avqjOxuCAzC7Jfc"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "RAW",
+        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
+      },
+      "artists": [
+        {
+          "name": "City Girls",
+          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Static (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bad Boys For Life Soundtrack",
         "url": "https://open.spotify.com/album/1WbcLdDqpfZza3TlvzFJJj"
       },
@@ -971,26 +991,6 @@
       "duration_ms": 119893,
       "name": "Tighten Up",
       "url": "https://open.spotify.com/track/32TXfodRWjRIiOVgoWCAZI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "RAW",
-        "url": "https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu"
-      },
-      "artists": [
-        {
-          "name": "City Girls",
-          "url": "https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 167441,
-      "name": "Static (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/7j1clHjAMtpsO0gKF76GF0"
     },
     {
       "added_at": null,

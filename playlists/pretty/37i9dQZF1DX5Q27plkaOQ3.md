@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: HOL!
 
-[Spotify](https://open.spotify.com/user/spotify) - 970,375 likes - 200 songs - 10 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,368 likes - 200 songs - 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,374 likes - 200 songs - 17 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,382 likes - 200 songs - 17 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,16 +197,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 187 | [Slow Loris Versus Poison Snail](https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj) | [David Toop](https://open.spotify.com/artist/3jFTMxWP6at3FioQqFGmjC), [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Pink Noir](https://open.spotify.com/album/3ImULQZLfQO2HCvbPE5UbB) | 9:23 |
 | 188 | [Sensi](https://open.spotify.com/track/3skhLjuG4wNU7Szv7MN8MW) | [node: project](https://open.spotify.com/artist/7JPL3e4Dihj4HqwMU1RIZH) | [Sensi](https://open.spotify.com/album/6294tobI7hvroKXhAuBD2O) | 3:13 |
 | 189 | [Unguarded Travelin'](https://open.spotify.com/track/4OYS4H9fVFGK87WtC32qmL) | [Koti6](https://open.spotify.com/artist/0son6uK60FSd5ZlXyKLplp) | [Unguarded Travelin'](https://open.spotify.com/album/1LxN2StJXIuiYLFNvrMv7t) | 2:49 |
-| 190 | [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 |
-| 191 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |
-| 192 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 |
+| 190 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |
+| 191 | [Nothing but Endless Rejections](https://open.spotify.com/track/6PIA1qwY2zEztGYWus9wWp) | [Alejandro Morse](https://open.spotify.com/artist/1aCABCUNTciYIqotcWSry6) | [Adversarial Policies](https://open.spotify.com/album/62Bv4Qi83NM7q3F9bXoCDm) | 7:54 |
+| 192 | [Visions II](https://open.spotify.com/track/4V60QHlHRyN6U00K3xI7z4) | [Yamila](https://open.spotify.com/artist/1C2cyevjTKPJ4WVvTlPzUF) | [Visions II](https://open.spotify.com/album/62bihi9m9gnVDjS5ekeMjv) | 4:40 |
 | 193 | [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 |
 | 194 | [Rausch 2](https://open.spotify.com/track/0OgMUfPcPqvHjEBzzi1xNP) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Rausch](https://open.spotify.com/album/14yMkt1uh0AcO2FBqJ2UmA) | 9:46 |
-| 195 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
+| 195 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
 | 196 | [Cierra](https://open.spotify.com/track/7GyEcMfyfwhygUG5GclHT9) | [Alter Ego](https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj) | [Alter Ego EP](https://open.spotify.com/album/4NYzqT293AyVwWVxoKC9yP) | 2:02 |
-| 197 | [Muckbirth](https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ) | [Teset](https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0) | [Muckbirth](https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y) | 3:17 |
-| 198 | [The Ritan Bells 4](https://open.spotify.com/track/3Fv3rj6UCNxfnVqGFs0mYn) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 4:33 |
-| 199 | [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 |
-| 200 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 |
+| 197 | [The Ritan Bells 4](https://open.spotify.com/track/3Fv3rj6UCNxfnVqGFs0mYn) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 4:33 |
+| 198 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
+| 199 | [Aura Show](https://open.spotify.com/track/709Tz6gMwBFkAxzMlcwYbj) | [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Annual Flowers in Color](https://open.spotify.com/album/2lKc2An4mbMhJvlGqCmHYX) | 10:18 |
+| 200 | [Meridian](https://open.spotify.com/track/3oJTvs1FLdka2ogLkXoQNb) | [Joanne Forman](https://open.spotify.com/artist/1KpISDZpqZArxpPqDxGR4S) | [Cave Vaults of the Moon](https://open.spotify.com/album/1VLJuqs7iwhsPvGZOyvB49) | 2:58 |
 
 Snapshot ID: `ZtR+rAAAAABnkzTfH+sEIEyPXsLFloAK`

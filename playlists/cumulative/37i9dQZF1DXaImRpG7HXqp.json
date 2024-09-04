@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Across the Wide Field",
+        "url": "https://open.spotify.com/album/6onm99uKAASW9GYfkvLR6v"
+      },
+      "artists": [
+        {
+          "name": "Marino Calle",
+          "url": "https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167467,
+      "name": "Across the Wide Field",
+      "url": "https://open.spotify.com/track/5YaAixCoWRYntnj0YZaju0"
+    },
+    {
+      "album": {
         "name": "Act of Kindness",
         "url": "https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W"
       },
@@ -2394,7 +2412,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 161103,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp"
@@ -8699,6 +8717,24 @@
     },
     {
       "album": {
+        "name": "Over the Sunset",
+        "url": "https://open.spotify.com/album/2Y64wPIAgv4EG7dP2rJtff"
+      },
+      "artists": [
+        {
+          "name": "Andreas Horschel",
+          "url": "https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167242,
+      "name": "Over the Sunset",
+      "url": "https://open.spotify.com/track/3MWQHYACLVk2rDnEEHp2XU"
+    },
+    {
+      "album": {
         "name": "Pali Hale",
         "url": "https://open.spotify.com/album/17gtmAUDxphDXbzKo1lBtE"
       },
@@ -9686,6 +9722,24 @@
       "duration_ms": 146839,
       "name": "Sail For Toumain",
       "url": "https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou"
+    },
+    {
+      "album": {
+        "name": "Saint Placide",
+        "url": "https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Saint Placide",
+      "url": "https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8"
     },
     {
       "album": {
@@ -13340,7 +13394,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 155274,
       "name": "Wild at Heart",
       "url": "https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV"
@@ -13380,6 +13434,24 @@
       "duration_ms": 147058,
       "name": "Wind Smells the Sea",
       "url": "https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg"
+    },
+    {
+      "album": {
+        "name": "Winding Round",
+        "url": "https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s"
+      },
+      "artists": [
+        {
+          "name": "Serilda Bell",
+          "url": "https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103856,
+      "name": "Winding Round",
+      "url": "https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0"
     },
     {
       "album": {

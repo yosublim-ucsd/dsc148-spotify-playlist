@@ -4,7 +4,7 @@
 
 > All your favourite country hits from Miranda Lambert, Luke Combs, Old Dominion, Kane Brown, Tenille Townes and more! Cover: Luke Combs.
 
-209 songs - 11 hr 31 min
+210 songs - 11 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Broken Man](https://open.spotify.com/track/5JlE9BmDHmUq5Ghy2j6rBg) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Broken Man](https://open.spotify.com/album/08zJ8SCzKgWaRPI7Jguvug) | 3:45 | 2024-03-01 | 2024-06-08 |
 | [Built by Broken Hearts](https://open.spotify.com/track/1IvNEs3RfxDNhR2RO7vX2e) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Built by Broken Hearts](https://open.spotify.com/album/7JOwEL7RKpB6vdYXH3snG8) | 3:13 | 2024-05-10 | 2024-07-20 |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-02-09 | 2024-06-22 |
-| [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 | 2024-05-21 |  |
+| [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/track/3Hns0fETEXY84fGjboAbT7) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Bulletproof \(feat\. Avril Lavigne\)](https://open.spotify.com/album/1tEc7o0AbTqnl3RA873yHK) | 3:03 | 2024-05-21 | 2024-09-04 |
 | [Bury Me in Georgia \- Single Edit](https://open.spotify.com/track/2mltIbKkhQqyh8gCzaqxqA) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Bury Me in Georgia](https://open.spotify.com/album/5KiNzxNpSxplw7RxB9SSEo) | 2:50 | 2023-11-03 | 2024-04-02 |
 | [Can't Break Up Now](https://open.spotify.com/track/3vsdSgCvepm6kroIPLa4Oz) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i), [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Can't Break Up Now](https://open.spotify.com/album/4mwTxDYJxiUMRdGhpiBbx8) | 3:20 | 2023-11-03 | 2024-01-20 |
 | [Change The Game](https://open.spotify.com/track/4RTLkBELy9UNoPeOVmjITc) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Change the Game](https://open.spotify.com/album/4Fjn8d1BEOZhlDIoUyZo8K) | 3:28 | 2024-02-16 | 2024-04-13 |
@@ -64,6 +64,7 @@
 | [DESERVE YOU](https://open.spotify.com/track/3lpuOZo3btK6Q2hWGDNo2K) | [David J](https://open.spotify.com/artist/3PO1jRVb0lsv2140VTXOQo) | [DESERVE YOU](https://open.spotify.com/album/6sIezuXguhUtSiFiFN8yc9) | 2:48 | 2024-08-23 |  |
 | [Devil In My Ear](https://open.spotify.com/track/6BUXeo4htsduta2UWDMdWK) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Devil In My Ear](https://open.spotify.com/album/1wO6dl6mYgTX4DckhmTt7e) | 3:52 | 2024-06-14 |  |
 | [Devil on My Shoulder](https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3) | [Dylan Marlowe](https://open.spotify.com/artist/0ZZLr8EH3aNFzYpXtaTIax) | [Devil on My Shoulder](https://open.spotify.com/album/0sqeYcd08RXPzsrBF7lAoL) | 3:04 | 2024-07-26 |  |
+| [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 | 2024-09-03 |  |
 | [Different About You](https://open.spotify.com/track/0S1fmk6xz49SHINeXXpStW) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Memory Lane](https://open.spotify.com/album/3PUA3xAHTsDAp11oAb33Mv) | 2:40 | 2023-11-03 | 2024-06-01 |
 | [Different Kind of Blue](https://open.spotify.com/track/7bpAdXNMxxKHqOAvCIdHOd) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Different Kind of Blue](https://open.spotify.com/album/4iC3AGxB0FRl8X7oSlVL4A) | 3:29 | 2023-11-03 | 2024-01-13 |
 | [Dirt On Us](https://open.spotify.com/track/1gv7dH35aQjmfvdrSzphws) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [Dirt On Us](https://open.spotify.com/album/6tvUq3lJ1nVe3taTIREnDS) | 3:03 | 2024-05-31 | 2024-08-17 |

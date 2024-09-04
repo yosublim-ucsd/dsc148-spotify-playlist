@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 203393,
       "name": "Camino al Bemb\u00e9",
       "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
@@ -10598,6 +10598,24 @@
       "duration_ms": 207986,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/2gjB9GgSZFlj0YwItEACpQ"
+    },
+    {
+      "album": {
+        "name": "Sim\u00f3n",
+        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298751,
+      "name": "Sim\u00f3n",
+      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
     },
     {
       "album": {

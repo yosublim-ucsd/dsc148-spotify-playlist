@@ -1,12 +1,12 @@
 {
-  "description": "This is Post Malone. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2716542,
+  "description": "This is Post Malone. The essential tracks, all in one playlist.",
+  "num_followers": 2716756,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACCXWtW5ZlDanD/sXpS659H",
+  "snapshot_id": "ZtUAAAAAAAAMlKP93wDFWWKcRnojUFFm",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stoney - Deluxe",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 256532,
       "name": "White Iverson",
       "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -667,38 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 193565,
-      "name": "Wrapped Around Your Finger",
-      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "F-1 Trillion: Long Bed",
-        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 169864,
-      "name": "Who Needs You",
-      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AUSTIN",
         "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
       },
@@ -708,9 +660,9 @@
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 147679,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/3pI3nzi2Y0Iyj1nATDOeQV"
     },
     {
       "added_at": null,
@@ -739,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "F-1 Trillion: Long Bed",
+        "url": "https://open.spotify.com/album/4f2G7uAWqzpOPwEfCDV87A"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 169864,
+      "name": "Who Needs You",
+      "url": "https://open.spotify.com/track/58BnhZIDqSFWmXsj3UA1Un"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -751,6 +719,38 @@
       "duration_ms": 204426,
       "name": "Stay",
       "url": "https://open.spotify.com/track/4H7WNRErSbONkM06blBoGc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 147679,
+      "name": "Overdrive",
+      "url": "https://open.spotify.com/track/3uMO7jmdXxwSijvxNXDgE4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 193565,
+      "name": "Wrapped Around Your Finger",
+      "url": "https://open.spotify.com/track/6Kfoo60npYPdvNxMPMiDpX"
     },
     {
       "added_at": null,

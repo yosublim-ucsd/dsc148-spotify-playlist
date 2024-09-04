@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAA84gk/o8tUKS8Kro8vYhYF",
+  "snapshot_id": "ZtUAAAAAAADFDCb5jYeZ44+bSt2/PPLK",
   "tracks": [
     {
       "added_at": null,
@@ -598,11 +598,15 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe"
+      "duration_ms": 202173,
+      "name": "Secret (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF"
     },
     {
       "added_at": null,
@@ -614,15 +618,11 @@
         {
           "name": "Raveena",
           "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        },
-        {
-          "name": "Vince Staples",
-          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
         }
       ],
-      "duration_ms": 202173,
-      "name": "Secret (feat. Vince Staples)",
-      "url": "https://open.spotify.com/track/1taBEywFZlZO7xiEEIyajF"
+      "duration_ms": 185426,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3XE2o2cDDT16Oq2fcM4sOe"
     }
   ],
   "unique_name": "This Is Raveena",

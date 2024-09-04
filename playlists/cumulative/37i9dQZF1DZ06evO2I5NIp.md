@@ -2,9 +2,9 @@
 
 ### [This Is Shemekia Copeland](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2I5NIp)
 
-> This is Shemekia Copeland\. Todos os maiores hits em uma só playlist.
+> This is Shemekia Copeland\. The essential tracks, all in one playlist.
 
-90 songs - 6 hr 14 min
+92 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [No Heart At All](https://open.spotify.com/track/0sks89llQiyzhvOX8jr3cs) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:17 | 2022-08-19 |  |
 | [Nobody But You](https://open.spotify.com/track/7A2hVb3M0tJo2YSXwieyRK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 4:19 | 2022-08-25 |  |
 | [One I Love](https://open.spotify.com/track/3e4hH7vAzHVqJNcRDKtPMU) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 2:54 | 2023-04-06 |  |
+| [Only Miss You All the Time](https://open.spotify.com/track/3RxKaM5fNDdCTAonhzy7X5) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 4:09 | 2024-09-04 |  |
 | [Outskirts Of Love](https://open.spotify.com/track/7Kkr2utF6dANb5z8c3ztSK) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 4:05 | 2022-08-05 |  |
 | [Pink Turns To Red](https://open.spotify.com/track/3wgjaBZogGtRyVI6Picwd3) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:28 | 2022-08-20 |  |
 | [Promised Myself](https://open.spotify.com/track/0iCw9B4GfBrwbP6fTrzO6b) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 5:19 | 2022-08-05 |  |
@@ -70,9 +71,10 @@
 | [Should Have Come Home](https://open.spotify.com/track/0k6YV1dH3v9ykL1XATPwsE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 3:30 | 2022-08-05 |  |
 | [Smoked Ham And Peaches](https://open.spotify.com/track/0TbFm64bFWwsy2gfhDmfIR) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:35 | 2022-08-21 | 2022-10-11 |
 | [Steamy Windows](https://open.spotify.com/track/2TtO2IPMFIsDD37rpxRmCE) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Funky Blues](https://open.spotify.com/album/6z5ROrtqUdrWD8wdr1KrJI) | 5:03 | 2022-08-05 | 2023-03-06 |
-| [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 | 2023-03-05 |  |
+| [Steamy Windows](https://open.spotify.com/track/6v9sxmWVfKN4xoNzatq9vf) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:03 | 2023-03-05 | 2024-09-04 |
 | [Such A Pretty Flame](https://open.spotify.com/track/3LeiPSKvRLcIyzKkdtafrZ) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [America's Child](https://open.spotify.com/album/2y7iP4KqdPV7sHGtWzbKj8) | 4:31 | 2022-08-05 | 2024-08-15 |
 | [Suspicion](https://open.spotify.com/track/2nqQ4j7TSmvUELX2SvzXUl) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 3:55 | 2023-01-10 |  |
+| [Tee Tot Payne](https://open.spotify.com/track/4Rj0alinvWWuxkNfmZAxM8) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Blame It On Eve](https://open.spotify.com/album/6PkHdkD4zLROQ5hc12wbOh) | 3:08 | 2024-09-04 |  |
 | [The Battle Is Over \(But The War Goes On\)](https://open.spotify.com/track/2fyeyzGsHA5Xw64MfBA3N9) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Outskirts of Love](https://open.spotify.com/album/2Bl6FKUOQbzuFfvR1qfT9e) | 3:53 | 2022-08-05 |  |
 | [The Dolls Are Sleeping](https://open.spotify.com/track/5lo6zHSfRT9ECm1K9Fh7Ho) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 2:56 | 2022-08-20 |  |
 | [The Fool You're Looking For](https://open.spotify.com/track/6OSTcwMHZyPJ8S62nXajYw) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Wicked](https://open.spotify.com/album/2kv1nahejxNevwCYdgZ8AQ) | 5:08 | 2022-08-05 | 2024-09-03 |
@@ -85,7 +87,7 @@
 | [Too Far To Be Gone](https://open.spotify.com/track/4r1WnPDsaFvIkKhgdAGUCV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Sonny Landreth](https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz) | [Done Come Too Far](https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV) | 3:46 | 2022-08-31 | 2023-09-01 |
 | [Tough Mother](https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Tough Mother](https://open.spotify.com/album/5ohhYEuVsLH1k7SxCGJMTI) | 4:14 | 2024-07-10 |  |
 | [Turn The Heat Up](https://open.spotify.com/track/4ifseIlgKYEk3Oyx1L30zV) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Turn The Heat Up!](https://open.spotify.com/album/3OluM5Un09XiWdyrjwtAOX) | 5:20 | 2022-08-05 | 2022-11-05 |
-| [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2022-08-05 |  |
+| [Uncivil War](https://open.spotify.com/track/1JvJA6efPZjMOdak2vrkkh) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:45 | 2022-08-05 | 2024-09-04 |
 | [Under My Thumb](https://open.spotify.com/track/0pDNlIbnYdMHWDG3bOnQkj) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 3:10 | 2022-08-05 |  |
 | [Walk On](https://open.spotify.com/track/6kXGe7mPLgsCVj5UZRor3E) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Talking To Strangers](https://open.spotify.com/album/1BRAG9BQ8m0r61bGfQElaK) | 4:14 | 2022-09-27 | 2022-10-05 |
 | [Walk Until I Ride](https://open.spotify.com/track/5VGvCsAYlOTOTJTiyKyM1y) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee) | [Uncivil War](https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM) | 4:12 | 2022-08-05 | 2023-03-15 |

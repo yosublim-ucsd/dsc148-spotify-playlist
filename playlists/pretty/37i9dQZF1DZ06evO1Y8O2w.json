@@ -1,12 +1,12 @@
 {
-  "description": "This is Phyllis Hyman. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Phyllis Hyman. The essential tracks, all in one playlist.",
   "num_followers": 7638,
   "original_name": "This Is Phyllis Hyman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABNAFU1H9k2sMQLCA4cmUq7",
+  "snapshot_id": "ZtUAAAAAAAD9ZAbE7kwpLmwKU7xazxnd",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 282693,
-      "name": "Love Is Here (feat. Phyllis Hyman)",
-      "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
+      "duration_ms": 308986,
+      "name": "As You Are (feat. Phyllis Hyman)",
+      "url": "https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V"
     },
     {
       "added_at": null,
@@ -292,29 +292,25 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 308986,
-      "name": "As You Are (feat. Phyllis Hyman)",
-      "url": "https://open.spotify.com/track/4szHa9dRhiy3tJ1Jf5jz2V"
+      "duration_ms": 282693,
+      "name": "Love Is Here (feat. Phyllis Hyman)",
+      "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Legacy Of Phyllis Hyman",
-        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
+        "name": "Forever with You",
+        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
       },
       "artists": [
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        },
-        {
-          "name": "Michael Henderson",
-          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
         }
       ],
-      "duration_ms": 317293,
-      "name": "Can't We Fall in Love Again",
-      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
+      "duration_ms": 262413,
+      "name": "Hurry up This Way Again",
+      "url": "https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn"
     },
     {
       "added_at": null,
@@ -351,18 +347,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever with You",
-        "url": "https://open.spotify.com/album/34aeEx1cGFw53Q9wNlQ9kR"
+        "name": "The Legacy Of Phyllis Hyman",
+        "url": "https://open.spotify.com/album/6fXm4HqvSqxh6jsiU5f505"
       },
       "artists": [
         {
           "name": "Phyllis Hyman",
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        },
+        {
+          "name": "Michael Henderson",
+          "url": "https://open.spotify.com/artist/6KzAnKswHOUCX8xiEudD7K"
         }
       ],
-      "duration_ms": 262413,
-      "name": "Hurry up This Way Again",
-      "url": "https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn"
+      "duration_ms": 317293,
+      "name": "Can't We Fall in Love Again",
+      "url": "https://open.spotify.com/track/0c61XIxgnxVYAk3vum9TM3"
     },
     {
       "added_at": null,
@@ -415,7 +415,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "name": "Can't We Fall In Love Again - Expanded Edition",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
       "artists": [
@@ -427,22 +427,6 @@
       "duration_ms": 258920,
       "name": "Don't Tell Me, Tell Her",
       "url": "https://open.spotify.com/track/4broG31djyLAE0zNTe0jyI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 250826,
-      "name": "Waiting For The Last Tear To Fall",
-      "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
     },
     {
       "added_at": null,
@@ -467,6 +451,22 @@
       "duration_ms": 250626,
       "name": "We Both Need Each Other (feat. Phyllis Hyman & Michael Henderson)",
       "url": "https://open.spotify.com/track/30IeocGEafO6mJpVD5Wlvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 339666,
+      "name": "I'm Truly Yours",
+      "url": "https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Can't We Fall In Love Again - Expanded Edition",
+        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "The Love Too Good to Last",
+      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Refuse To Be Lonely",
         "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
@@ -512,9 +528,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 339666,
-      "name": "I'm Truly Yours",
-      "url": "https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML"
+      "duration_ms": 250826,
+      "name": "Waiting For The Last Tear To Fall",
+      "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
     },
     {
       "added_at": null,
@@ -531,22 +547,6 @@
       "duration_ms": 231413,
       "name": "Baby (I'm Gonna Love You) - 7\" Version",
       "url": "https://open.spotify.com/track/5TnLtfz0X6Z1Sou7UiJrWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
-        "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 246400,
-      "name": "The Love Too Good to Last",
-      "url": "https://open.spotify.com/track/2iZo4T7xDFIJhGELrd3wyX"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
-      },
-      "artists": [
-        {
-          "name": "Phyllis Hyman",
-          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
-        }
-      ],
-      "duration_ms": 280560,
-      "name": "Why Not Me",
-      "url": "https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Goddess of Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/73RmyKmUXo2MI4Lthly8FY"
       },
@@ -607,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Know How to Love Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
       },
       "artists": [
         {
@@ -616,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 244880,
-      "name": "Give a Little More",
-      "url": "https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w"
+      "duration_ms": 280560,
+      "name": "Why Not Me",
+      "url": "https://open.spotify.com/track/6rJ7eWJdusD4mgwMCHWMUc"
     },
     {
       "added_at": null,
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Refuse To Be Lonely",
-        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
         }
       ],
-      "duration_ms": 359893,
-      "name": "I'm Calling You",
-      "url": "https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus"
+      "duration_ms": 244880,
+      "name": "Give a Little More",
+      "url": "https://open.spotify.com/track/2kgfnVggBSdoz1XKmHNB1w"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
       "duration_ms": 450306,
       "name": "Loving You - Losing You",
       "url": "https://open.spotify.com/track/1hacpWgUcC3QghqblcVSDT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Refuse To Be Lonely",
+        "url": "https://open.spotify.com/album/5ZL0TvoU13FleSFEGSbqPc"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "duration_ms": 359893,
+      "name": "I'm Calling You",
+      "url": "https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus"
     },
     {
       "added_at": null,
@@ -835,7 +835,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't We Fall In Love Again (Expanded Edition)",
+        "name": "Can't We Fall In Love Again - Expanded Edition",
         "url": "https://open.spotify.com/album/47teGw86AWbHmUZK8Nizip"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover:   <a href=https://open.spotify.com/artist/70HahwExpgNFLm3YKUkiiO?si=7dbL9gMRSDGgTJCqf8jUJQ>Churemi
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,017 likes - 105 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,072 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 11 | [One Name \(Jesus\) \- Live](https://open.spotify.com/track/0C0mv7BaaLQtAUeOZwW47c) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [One Name \(Jesus\) \[Live\]](https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK) | 9:19 |
 | 12 | [Omemma](https://open.spotify.com/track/3t2o1njvVXz9IojLD1FTqk) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:17 |
 | 13 | [Desire](https://open.spotify.com/track/38hOrmc7D0YqWZ2QYdxgK2) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Emandiong](https://open.spotify.com/artist/5Vvh5iDYvPE6EHhUZbgpBs) | [Desire](https://open.spotify.com/album/2QPzJrnYkpPBU4kCD15Hcw) | 3:24 |
-| 14 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \[UNVL' 24\]](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
+| 14 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
 | 15 | [Jesus loves me](https://open.spotify.com/track/7FSncmV4XrTj5r5eLp0pW9) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Jesus loves me](https://open.spotify.com/album/3lq6SNZrphTc6U6P1j5Xi4) | 2:51 |
 | 16 | [Salama](https://open.spotify.com/track/0eN0J7GkiqMNre6K9bQXEX) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F), [Vblaiz](https://open.spotify.com/artist/3rCZErjQlU5ZvkMrQQCJca) | [Salama](https://open.spotify.com/album/3ejG1t8q2Yc8ObSx3VAWMh) | 2:43 |
 | 17 | [Darling Jesus](https://open.spotify.com/track/3ePKfVhpGQWdcm05CDKM36) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus](https://open.spotify.com/album/2BP5xcuHfvDJVNdH1m8kMu) | 2:01 |

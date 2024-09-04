@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,392 likes - 78 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,550 likes - 78 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 12 | [Lead Me](https://open.spotify.com/track/0qsUgNIZ4gJ2AeEUjBmUv8) | [Pastor Emmanuel Iren](https://open.spotify.com/artist/1Ge81wiDXhRxTHVE1pdHyw) | [Lead Me](https://open.spotify.com/album/4s1WzWFA2sLNCUGdfkdxNy) | 6:26 |
 | 13 | [Ekwueme \(In Your Class\)](https://open.spotify.com/track/4VaTVRelsQw9HZDmg45GDs) | [Mr M & Revelation](https://open.spotify.com/artist/7Cj72Nr0p08Jibt7ADcEDa) | [Ekwueme \(In Your Class\)](https://open.spotify.com/album/4aKFnqCvKz4ZDo2apxay1I) | 12:53 |
 | 14 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 |
-| 15 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/476AkWd5R5CYPSRHcg5ph6), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
+| 15 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 16 | [You Are Yahweh](https://open.spotify.com/track/5SNw8bfADobJB1peaEUWcU) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You Are Yahweh](https://open.spotify.com/album/6qLlLddtlRW1Q3Kcaf6E22) | 4:39 |
 | 17 | [I Get Backing](https://open.spotify.com/track/5z8u1GwA8J7dBx1zMpfrjW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Truth in Sounds](https://open.spotify.com/album/0wQ2rB1CLrUZlsYROvBDyq) | 9:06 |
 | 18 | [Eze Ebube II](https://open.spotify.com/track/1qK1fMPy2pmY8igTDT6WQ6) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Nothing but the Gospel](https://open.spotify.com/album/0op0nK45r5sr0KiE8UGoRr) | 7:12 |

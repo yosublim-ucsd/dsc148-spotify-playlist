@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: The OBGMs
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,321 likes - 111 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,344 likes - 111 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

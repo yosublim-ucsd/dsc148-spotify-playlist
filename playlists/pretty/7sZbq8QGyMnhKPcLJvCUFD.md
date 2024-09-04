@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 732,941 likes - 101 songs - 4 hr 51 min
+[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 732,918 likes - 103 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 3 | [On & On](https://open.spotify.com/track/2uZWffKoemZDI0gHcBEcDc) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Jéja](https://open.spotify.com/artist/7BOIhtXWB8DCWOykIHF2dh), [Daniel Levi](https://open.spotify.com/artist/0cA0C4yBNRaN2EZsE2wT3Y) | [On & On](https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc) | 3:27 |
 | 4 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 |
 | 5 | [Cradles](https://open.spotify.com/track/18A7ha5BitZjmdHTCwXFbU) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG) | [Cradles](https://open.spotify.com/album/1WTTu8JvpNLQShwwO8o4L9) | 3:29 |
-| 6 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
+| 6 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
 | 7 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
 | 8 | [Faster](https://open.spotify.com/track/14IblDOnC45Iu0Ad9Qc5M7) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Faster](https://open.spotify.com/album/69o16Vym82Dy5YREmeht1U) | 3:13 |
 | 9 | [Pump Up The Bassline](https://open.spotify.com/track/5YQjdut4XRDv5qZM0R5cvl) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Pump Up The Bassline](https://open.spotify.com/album/3nQUY6Rx481Ilrha2JiiXT) | 2:42 |
@@ -109,5 +109,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 99 | [Set Me Free](https://open.spotify.com/track/0SY3e4Csiw86wTeXvlbr4N) | [T & Sugah](https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH), [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Set Me Free](https://open.spotify.com/album/3Ju6l6H3bnw84mipE59zEC) | 2:03 |
 | 100 | [Oh My Gawd](https://open.spotify.com/track/3wBFnFG8GTTdY6VzMyJ1wQ) | [Crushed Candy](https://open.spotify.com/artist/14eHJcsWsxWq4UjaXBvmJ1) | [Oh My Gawd](https://open.spotify.com/album/3VRnwIygZQl33g9i4C2L5Q) | 2:04 |
 | 101 | [Sinner](https://open.spotify.com/track/5PjasrTqBLqdxWIBbJDLXA) | [Diamond Eyes](https://open.spotify.com/artist/7u7MDzwo7VtVe7FhS3cq8Y) | [Sinner](https://open.spotify.com/album/1SYG3gJWwSjz9paOvyU1NW) | 3:53 |
+| 102 | [Home](https://open.spotify.com/track/7giR6y9ahTIds8BUXszX1H) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM) | [Home](https://open.spotify.com/album/49sMeCWeevXADmnURP9icx) | 2:27 |
+| 103 | [Underrated](https://open.spotify.com/track/0xABj8GJud97r7AXJSlpMg) | [Zushi&Vanko](https://open.spotify.com/artist/298Tr9fKPXEbDuEB4Bugmx), [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b) | [Underrated](https://open.spotify.com/album/3t5D4dnXjMZY8PZsbO8xz8) | 3:41 |
 
-Snapshot ID: `AAAXMG1J9sRS9ZCY0Q0yvdEak+9ocIkp`
+Snapshot ID: `AAAXMkLDEtgMO4l16k/ORkl591lmTM/J`

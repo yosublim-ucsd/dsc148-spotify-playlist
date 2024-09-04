@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-896 songs - 1 day 14 hr 18 min
+898 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,7 +394,7 @@
 | [La Cosa Migliore Che So](https://open.spotify.com/track/2ad6KC9V4jvAB73Z5nWrFF) | [Loreto Bianco](https://open.spotify.com/artist/7DH3PpYqclWL9RpXN4B2PC) | [La Cosa Migliore Che So](https://open.spotify.com/album/6Jd4loeXMsmKpbvxFPnfm2) | 3:14 | 2021-12-07 | 2022-06-08 |
 | [Lacrimosa](https://open.spotify.com/track/5NI4ztzijs8sqoxlhqNleo) | [Lucas Vendrai](https://open.spotify.com/artist/5mo25h1sQIVjZ4gIgIK2Lm) | [Lacrimosa](https://open.spotify.com/album/46QupwR45OEVm0U7ZpyxxF) | 1:58 | 2021-12-07 | 2022-05-06 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2021-12-07 | 2023-03-09 |
-| [Lafayette](https://open.spotify.com/track/1kAYyA2hA8GBjkGgVHYsEB) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Lafayette](https://open.spotify.com/album/273mf7JiWvO7cUPzsT8yCt) | 4:59 | 2022-09-21 |  |
+| [Lafayette](https://open.spotify.com/track/1kAYyA2hA8GBjkGgVHYsEB) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Lafayette](https://open.spotify.com/album/273mf7JiWvO7cUPzsT8yCt) | 4:59 | 2022-09-21 | 2024-09-04 |
 | [Lambay](https://open.spotify.com/track/4AfTf4LCOYOllXEHPgROVf) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Lambay](https://open.spotify.com/album/04ZM5v3dvvfsuROy3iT7D6) | 2:13 | 2021-12-07 | 2023-04-26 |
 | [Lamento](https://open.spotify.com/track/5uSiCZrctu6aXhcrPKDD8h) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Lamento](https://open.spotify.com/album/4bG3BYrBcA1KtNWZjTbbgm) | 2:34 | 2023-08-29 |  |
 | [Lanuza](https://open.spotify.com/track/2b5H5mKnFqxMZtKik6bCej) | [Xaverius Love](https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97) | [Lanuza](https://open.spotify.com/album/3yFTlxkkp47Qb5PLn0QYhQ) | 2:52 | 2022-03-16 | 2023-09-23 |
@@ -821,6 +821,7 @@
 | [une nouvelle année](https://open.spotify.com/track/2TyI8OZl0IOU18BId7MNKv) | [Sabine Paulet](https://open.spotify.com/artist/5IM9wakFCctJnILFe5eL30) | [une nouvelle année](https://open.spotify.com/album/3JWAvL7oBeOX8V0zx4v8kd) | 2:22 | 2021-12-07 | 2022-05-06 |
 | [Unexpected Journey](https://open.spotify.com/track/6HgXeN1ZnCxTJshHSK73z9) | [Hues of Ruby](https://open.spotify.com/artist/2mDOYcn8NaX5VXn6DAECyW) | [Unexpected Journey](https://open.spotify.com/album/7G4UfvLMGm1QheYzzWrupS) | 2:42 | 2023-09-25 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2021-12-07 | 2022-10-05 |
+| [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 | 2024-09-03 |  |
 | [United](https://open.spotify.com/track/7aw2vM9GkttgVrbao29wju) | [Cory Mickens](https://open.spotify.com/artist/6noY2fXct5i6WHVF6OweTS) | [United](https://open.spotify.com/album/7qns71hCpdZzSR0oexqTCs) | 2:03 | 2021-12-07 | 2022-05-06 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2021-12-07 | 2023-01-27 |
 | [Unspoken Declarations](https://open.spotify.com/track/7CnmcN4DEFQzrZZIlwGqoC) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Unspoken Declarations](https://open.spotify.com/album/5n8PoAzYh537L5XWWGvfz8) | 3:08 | 2021-12-07 | 2022-03-02 |
@@ -876,6 +877,7 @@
 | [Wieder Zusammen](https://open.spotify.com/track/7AqrZZG9hEeOJs9i6wzxFb) | [Cole Neumann](https://open.spotify.com/artist/74auvTTfi03X3mGsJxUqEi) | [Wieder Zusammen](https://open.spotify.com/album/7HI3M3BnOgeumeF5sfwo6j) | 3:11 | 2023-04-25 |  |
 | [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-04 |  |
 | [Windborn](https://open.spotify.com/track/3AX6tUG6JdBBtjZVxnDIYB) | [Daniel Paterok](https://open.spotify.com/artist/1NJj3myMAUXcjv6hUmo9iF) | [Windborn](https://open.spotify.com/album/0Aa4Njw3hTnltDw4IRXHQ8) | 1:55 | 2023-04-18 | 2023-07-26 |
+| [Windswept](https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Windswept](https://open.spotify.com/album/4fIJCoIOzSAHmmZQETFkf2) | 3:19 | 2024-09-03 |  |
 | [Wishes](https://open.spotify.com/track/1KnTw354jtQmDvA6b3Fvi0) | [Mewael Yemane](https://open.spotify.com/artist/0F2QkwRNLwkdDnsY0LIA1x) | [Wishes](https://open.spotify.com/album/0qcFUWhrhzdUn1F0bC46wU) | 1:38 | 2021-12-07 | 2022-03-18 |
 | [Wisteria Blue](https://open.spotify.com/track/2uDpyb11bwgMOqLQ1ZQ9E9) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Wisteria Blue](https://open.spotify.com/album/53Dsdz4bBI6oIzsRBNSTh0) | 2:27 | 2022-03-16 |  |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-08-26 |

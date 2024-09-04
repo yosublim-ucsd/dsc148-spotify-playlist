@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 
 > Break up songs, the best cure for a broken heart!
 
-[Filtr Norway](https://open.spotify.com/user/sonymusic) - 447,837 likes - 342 songs - 18 hr 46 min
+[Filtr Norway](https://open.spotify.com/user/sonymusic) - 447,820 likes - 342 songs - 18 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,7 +99,7 @@ pretty - [cumulative](/playlists/cumulative/6dm9jZ2p8iGGTLre7nY4hf.md) - [plain]
 | 89 | [Falling](https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 4:00 |
 | 90 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
 | 91 | [Hopelessly hopeless](https://open.spotify.com/track/3dFjXh41qqEUyp45yfY26b) | [Emma Steinbakken](https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td) | [Hopelessly hopeless](https://open.spotify.com/album/47GMfYxS0DzitLq9BiWjOU) | 3:24 |
-| 92 | [Cry Just A Little](https://open.spotify.com/track/4oUJrtx3U1KKcuBIyyhLMA) | [MARI](https://open.spotify.com/artist/5qOaBCh0z2r6Q0qff40xh2) | [Cry Just A Little](https://open.spotify.com/album/2NgAuBqvXV9IfzXDFhTxKu) | 2:55 |
+| 92 | [Cry Just A Little](https://open.spotify.com/track/4oUJrtx3U1KKcuBIyyhLMA) | [MARI](https://open.spotify.com/artist/6Qda4oVRMWJl7Ri8ZTCgfq) | [Cry Just A Little](https://open.spotify.com/album/2NgAuBqvXV9IfzXDFhTxKu) | 2:55 |
 | 93 | [slower](https://open.spotify.com/track/1bd4heB3yXc5iFTPoOMPuo) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [slower](https://open.spotify.com/album/4NwShGLn0PyyJ7AC7cEqBz) | 3:07 |
 | 94 | [Good Without](https://open.spotify.com/track/15OCqNPYoLziEAsbVnqRj5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Good Without](https://open.spotify.com/album/1TushXSMlKucNp0KziSAU4) | 3:02 |
 | 95 | [Car's Outside](https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 4:08 |

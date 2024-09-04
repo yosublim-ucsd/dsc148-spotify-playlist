@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-384 songs - 20 hr 54 min
+385 songs - 20 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Nee Nanna Kavithe](https://open.spotify.com/track/5F8gPMjRT1zjpaIlyjSBNw) | [Kiran Manjunath](https://open.spotify.com/artist/0aeYsI55Nh78rT5xnI5Pxz), [Shreesh Gombi](https://open.spotify.com/artist/4hhkVfPFH7QhsFj1PpMypP) | [Nee Nanna Kavithe](https://open.spotify.com/album/3Jml0aCC8w631pREfwGKe5) | 3:30 | 2023-11-06 | 2024-05-14 |
 | [Nee Saniha](https://open.spotify.com/track/53F1QXJzhN3mpHU0Q2JOnz) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6), [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W) | [Nee Saniha](https://open.spotify.com/album/5ZD61t4W97RsGNm1ds6nLr) | 4:26 | 2023-05-03 | 2023-09-05 |
 | [Nee Siguva Thanaka](https://open.spotify.com/track/36ya1X6uML6IGmzBpTFbFY) | [Satvik C S](https://open.spotify.com/artist/5nqsLJcHlqXLCvvWjdEIoR), [Asha Bhat](https://open.spotify.com/artist/6cYELvB5Xi5UqGzitD1U96) | [Nee Siguva Thanaka](https://open.spotify.com/album/0oG2g4b7uYekHZiMLKclDA) | 4:28 | 2024-08-09 |  |
+| [Neeli Aakashadi](https://open.spotify.com/track/4YdjtkW8yelygVUp2I74C2) | [Keerthana Chandru](https://open.spotify.com/artist/4cSbty2ketEhsSrDHO4Txr), [N Raaj](https://open.spotify.com/artist/2ZWut9Ob2PPRPXafTWXf5P) | [Neeli Aakashadi](https://open.spotify.com/album/3DP3KuR3HTLstcUMvIfXyz) | 4:43 | 2024-09-03 |  |
 | [Neeli Modagalu](https://open.spotify.com/track/2685mgG3FA17n55sR9p59k) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Neeli Modagalu](https://open.spotify.com/album/4WVkXb39DguSdjVxf8cotL) | 4:22 | 2023-08-09 | 2024-02-15 |
 | [Neene](https://open.spotify.com/track/2GF9LGqfyHNtzNBPpa2SO2) | [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD), [Pramod Maravanthe](https://open.spotify.com/artist/2Rb3KxyRqgU3Wa8hGQaIIr), [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G) | [Neene](https://open.spotify.com/album/6DW7Ujcua7KFh4MAU7StZP) | 2:42 | 2023-09-14 | 2024-04-19 |
 | [Neene](https://open.spotify.com/track/3zSmzrISU59x6c0gwUxvHt) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Athmik Rai](https://open.spotify.com/artist/1iDyvK9ioAbcL0LhWlKPev), [Dr Nithin S](https://open.spotify.com/artist/3tB86JUJhVvi1W0jyoyPhD) | [Neene](https://open.spotify.com/album/05ysqm2w8zVUd1mJHipqhC) | 2:42 | 2023-09-14 | 2024-07-13 |

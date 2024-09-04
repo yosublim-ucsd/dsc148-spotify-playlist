@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-798 songs - 1 day 10 hr 26 min
+801 songs - 1 day 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Cándida Sonata](https://open.spotify.com/track/4KoaZlljNMxtkFYVI9JRR1) | [Nuria Polanka](https://open.spotify.com/artist/2kq2VvWZunlZU33VuP144d) | [Cándida Sonata](https://open.spotify.com/album/0TxBfjer0Zm5m8Y8TtCl7V) | 2:46 | 2022-06-24 | 2022-11-18 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-02-10 |  |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
+| [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 | 2024-09-03 |  |
 | [Daniela's Dance](https://open.spotify.com/track/26ehYEuwv9W8Y2FSy647Ym) | [Somerset Kent](https://open.spotify.com/artist/4Mh07BnVno64HfPVnpy1aw) | [Daniela's Dance](https://open.spotify.com/album/06319WbKFh10PLmLJkbYpW) | 1:55 | 2022-07-15 | 2022-11-18 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-02-10 |  |
 | [Dark Green](https://open.spotify.com/track/6yLylBz8N89N2VbStc61wW) | [Simon Persicke](https://open.spotify.com/artist/2EwkG5Ii2DfeUJSqdDzamR) | [Red Cliff](https://open.spotify.com/album/7Mri2V8TsAD6Qh2kBtaQuJ) | 3:00 | 2022-05-27 | 2022-07-22 |
@@ -234,6 +235,7 @@
 | [Faith Struggle](https://open.spotify.com/track/3rI9bQ7ilP4EKFsr7K9Xib) | [Chico Getz](https://open.spotify.com/artist/2PDfdIdjY7tHMa20yxpBhW) | [Faith Struggle](https://open.spotify.com/album/1nuRmtxWItculC0bP9doH8) | 2:56 | 2021-12-08 | 2022-05-11 |
 | [Falling For You](https://open.spotify.com/track/3Boy1B77i7P895663Fdl19) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Falling For You](https://open.spotify.com/album/4hYaErKM9hpfXWyCUf7INO) | 2:27 | 2022-12-23 | 2023-05-26 |
 | [Fantasie](https://open.spotify.com/track/4HGQtaThav55ugWtulzE5z) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Fantasie](https://open.spotify.com/album/2h8pgJJhpUebg8tG3G1ij7) | 1:55 | 2023-05-26 | 2023-08-19 |
+| [Favored by Life](https://open.spotify.com/track/60TVmYILBDfjHfSgrkkf5Z) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Favored by Life](https://open.spotify.com/album/4bQK0W2lW6yDQQZbTKA7Tn) | 3:07 | 2024-09-03 |  |
 | [Fear Is Far Away](https://open.spotify.com/track/2ASAODBAx7puIDxnhFjaCH) | [Lo Larsen](https://open.spotify.com/artist/1RsZrWsACeuDkqAISdeFDi) | [Fear Is Far Away](https://open.spotify.com/album/0Rryrmddnm4IcqODTTMHxk) | 3:51 | 2022-10-07 | 2023-03-10 |
 | [Feathertop](https://open.spotify.com/track/6pBAubm4vZEQI6tcsn07qi) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Bimberi](https://open.spotify.com/album/5pijgJRyA29DpwtB8BUfhA) | 3:02 | 2021-12-08 | 2023-03-10 |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2022-01-19 | 2024-05-04 |
@@ -724,6 +726,7 @@
 | [This Time Tomorrow](https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S) | 2:09 | 2023-04-21 | 2023-05-13 |
 | [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2022-10-28 | 2023-05-06 |
 | [This Time Tomorrow](https://open.spotify.com/track/6OpC8QfhcsesgXzZvm8gqX) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/1YtMptZExJhRBXGaHic3Mh) | 2:09 | 2022-10-28 | 2022-11-04 |
+| [Through Space And Time](https://open.spotify.com/track/7ntTUba89GDgmTiIDaF9FU) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Through Space And Time](https://open.spotify.com/album/43ZdDQgeDHozcQIuojFdBR) | 2:33 | 2024-09-03 |  |
 | [Through the canyon](https://open.spotify.com/track/7IfuYpqyqgoXHEoaQOmzZg) | [Feran Ali](https://open.spotify.com/artist/2Gpe2ttb0vi4UU3fT5h92j) | [through the canyon](https://open.spotify.com/album/3dbAktoedWmlxLDXffMk0O) | 3:36 | 2021-12-08 | 2022-07-08 |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2021-12-08 | 2022-02-16 |
 | [ti manchi](https://open.spotify.com/track/0WATdTqiw0R4OqBhw8T8aR) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [ti manchi](https://open.spotify.com/album/1eeGzLVpAtr0SOS3g1bOA7) | 2:11 | 2022-04-05 | 2023-06-03 |
@@ -790,7 +793,7 @@
 | [Winter Dreamin'](https://open.spotify.com/track/3EMWJCLAscSYAYlcBKEt65) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Winter Dreamin'](https://open.spotify.com/album/2khbVKACHbQ4UxShCbB4Th) | 3:39 | 2024-02-23 |  |
 | [Winter In Tarifa](https://open.spotify.com/track/1sgGFGC1iftGshE6fH03yL) | [Álvaro Mondo Fernández](https://open.spotify.com/artist/2V18SFrY5UqNXeFLJZlYX9) | [Winter In Tarifa](https://open.spotify.com/album/52S7cB4WieRJMibAj4w2Cv) | 2:05 | 2022-10-28 | 2023-05-13 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |
-| [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-13 |  |
+| [Winterland](https://open.spotify.com/track/1gW3VKqi9qjRHLyBhg4IZO) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Winterland](https://open.spotify.com/album/3Yvb1Wl1aDWwgEUM0vuM9L) | 2:11 | 2023-01-13 | 2024-09-04 |
 | [Wishes](https://open.spotify.com/track/7EK4UOqDPX6BJa2RkrtA1X) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Wishes](https://open.spotify.com/album/6pXAbcUwXLaSvR8ge32fGv) | 3:09 | 2024-06-07 |  |
 | [Wishful Thinking](https://open.spotify.com/track/32jAfJ9rlQRGfFISloeh9m) | [Channing Spence](https://open.spotify.com/artist/7HHhJuGxvzmJzu0UOfrEEp) | [Wishful Thinking](https://open.spotify.com/album/23wAvlEfME0Hg9UYDRTgx2) | 2:28 | 2023-01-13 | 2023-09-08 |
 | [Wishing It Was So](https://open.spotify.com/track/144IEqxttGI6l5MKryGZsL) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Wishing It Was So](https://open.spotify.com/album/1Gf2koBhgOt4z4QaWYVuAU) | 2:41 | 2022-07-01 | 2024-06-08 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is DannyLux. The essential tracks, all in one playlist.",
-  "num_followers": 64661,
+  "description": "This Is DannyLux. Los temas esenciales, todos en una lista.",
+  "num_followers": 64703,
   "original_name": "This Is DannyLux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADiy8lKRN2UV86RW+UD46hU",
+  "snapshot_id": "ZtUAAAAAAACCPpIhRMvn0RrJDj70Srh9",
   "tracks": [
     {
       "added_at": null,
@@ -275,6 +275,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cielo Eterno - Spotify Singles",
+        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 244245,
+      "name": "Cielo Eterno - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sal De Mi Mente",
         "url": "https://open.spotify.com/album/2phpqidiCvEWZx7aVgMQdM"
       },
@@ -311,26 +331,6 @@
       "duration_ms": 225520,
       "name": "ME CAMBIASTE (with Eslabon Armado)",
       "url": "https://open.spotify.com/track/0cAy6Iu6GQcFegbu9RMK1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cielo Eterno - Spotify Singles",
-        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 244245,
-      "name": "Cielo Eterno - Spotify Singles",
-      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
     },
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love </3",
-        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
+        "name": "Junto A Ti",
+        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 211500,
-      "name": "Nuestro Pasado",
-      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
+      "duration_ms": 193922,
+      "name": "Junto A Ti",
+      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Junto A Ti",
-        "url": "https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r"
+        "name": "Love </3",
+        "url": "https://open.spotify.com/album/4TXZgt2GxZONIMcxAhVH9w"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
         }
       ],
-      "duration_ms": 193922,
-      "name": "Junto A Ti",
-      "url": "https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC"
+      "duration_ms": 211500,
+      "name": "Nuestro Pasado",
+      "url": "https://open.spotify.com/track/1wOrWC2AG0JAnce4l67bjJ"
     },
     {
       "added_at": null,

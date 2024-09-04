@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: Boza & ELENA ROSE
 
-[Spotify](https://open.spotify.com/user/spotify) - 665,447 likes - 150 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,450 likes - 150 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

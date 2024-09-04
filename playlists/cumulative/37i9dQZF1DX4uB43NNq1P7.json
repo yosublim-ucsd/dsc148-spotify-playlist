@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "Resurrecting",
+        "url": "https://open.spotify.com/album/2cIYxDn90225ueUWEVy9Gp"
+      },
+      "artists": [
+        {
+          "name": "Nathan Emanuel",
+          "url": "https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184931,
+      "name": "Resurrecting",
+      "url": "https://open.spotify.com/track/7g0BGcIU3aEIA5OZlNc9DH"
+    },
+    {
+      "album": {
         "name": "Returning Home",
         "url": "https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L"
       },

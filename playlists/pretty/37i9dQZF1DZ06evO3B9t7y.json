@@ -1,12 +1,12 @@
 {
-  "description": "This is Carin Leon. The essential tracks, all in one playlist.",
-  "num_followers": 951644,
+  "description": "This Is Carin Leon. Los temas esenciales, todos en una lista.",
+  "num_followers": 952076,
   "original_name": "This Is Carin Leon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAjMHQLTPhtlncXG7bmGMVK",
+  "snapshot_id": "ZtUAAAAAAACkdJrmUp9Qh1pjJlXk2ssH",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me la Avente",
+      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 191250,
       "name": "\u2060Aviso importante",
       "url": "https://open.spotify.com/track/2bvaWmdYkg2xPDDxAC8RkD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/5We7yGwHCRWuy7T5StvTwS"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me la Avente",
-      "url": "https://open.spotify.com/track/3nQ0FbZL6DTcGnu03Jpgzm"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 159200,
-      "name": "\u20601",
-      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 246131,
       "name": "Tu - En Vivo",
       "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 159200,
+      "name": "\u20601",
+      "url": "https://open.spotify.com/track/0JukfGB7110tv7B8oX4qtc"
     },
     {
       "added_at": null,
@@ -435,6 +435,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In\u00e9dito",
+        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 154420,
+      "name": "Secuelas De Amor",
+      "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 195428,
       "name": "Lamentablemente",
       "url": "https://open.spotify.com/track/7GGESORWVDTZnQ8mUENimX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In\u00e9dito",
-        "url": "https://open.spotify.com/album/2OsszrrYft2W0pprUj7jyX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 154420,
-      "name": "Secuelas De Amor",
-      "url": "https://open.spotify.com/track/3wavwOSbjbDahGOI16fpgG"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boca Chueca, Vol. 1",
-        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 174206,
-      "name": "Por culpa de un tercero",
-      "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boca Chueca, Vol. 1",
+        "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 174206,
+      "name": "Por culpa de un tercero",
+      "url": "https://open.spotify.com/track/3qjpDAoUAHs1jrIg1VwxxX"
     },
     {
       "added_at": null,

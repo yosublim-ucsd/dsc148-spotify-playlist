@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 
 > Corridos viejitos que cuentan los hechos reales de nuestro pueblo\. Chalino Sánchez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 653,123 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 653,419 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUuQG5KIiBcn.md) - [plain]
 | 72 | [Pescadores De Ensenada](https://open.spotify.com/track/5nqaSZdUzcKPGIwqLf0QAe) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos](https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R) | 2:54 |
 | 73 | [El Panamá West](https://open.spotify.com/track/25W0oz32wgnoE2SSbRx0Ta) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Me Traes de un Ala](https://open.spotify.com/album/01jUgz4sKHuQlIEI8kzBDv) | 2:31 |
 | 74 | [Que Me Entierren Con La Banda](https://open.spotify.com/track/4bLdt7O8QjS9XyktGWR8hl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Tambora, Vol\. 3](https://open.spotify.com/album/1AVjRVIlWr2zzdc8xrm5Mx) | 3:07 |
-| 75 | [Regalo Caro](https://open.spotify.com/track/5VQGHYoJGFFUUZFu12grRF) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [El Cartel De Los Cielos](https://open.spotify.com/album/1TSt8F0r3kjDNlz1QztfWT) | 3:56 |
+| 75 | [Anastasio Pacheco](https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq), [Los Amables Del Norte](https://open.spotify.com/artist/7r1Ecc2TAxhyLeGac53N6K) | [Alma Enamorada](https://open.spotify.com/album/5zR6lVcijHUyA1l5NnUTxW) | 3:28 |
 
 Snapshot ID: `Zo2ptgAAAAC+Hgls5xwZbowFlhKoiiIP`

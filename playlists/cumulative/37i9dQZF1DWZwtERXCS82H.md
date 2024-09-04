@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-767 songs - 1 day 9 hr 14 min
+769 songs - 1 day 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -323,6 +323,7 @@
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2022-04-15 | 2022-12-24 |
 | [Kveld](https://open.spotify.com/track/4qoa4ULtvmDz6JjGdiPqj0) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Kveld](https://open.spotify.com/album/0n6oSeXcZOyfdmdnnfm0xl) | 2:00 | 2022-04-15 | 2023-05-04 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2022-04-15 | 2022-05-14 |
+| [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 | 2024-09-03 |  |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2022-04-15 | 2024-03-26 |
 | [La grande Nue](https://open.spotify.com/track/3umYvXZeXEt4JrefxncSx6) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [La grande Nue](https://open.spotify.com/album/0HdaHtvjL7EGUO8wjzhwvh) | 3:04 | 2022-05-13 |  |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-04-15 | 2022-05-27 |
@@ -592,7 +593,7 @@
 | [Slow Spinning Balerina](https://open.spotify.com/track/3WXvl9AEf0yaCpM7TvhbrB) | [Sigrid Sigrdisdottir](https://open.spotify.com/artist/2B0VHQkXJ1KhZRsJyil8Vw) | [Slow Spinning Balerina](https://open.spotify.com/album/6gMWsqV8BwjvkF88404TYX) | 3:46 | 2024-03-18 |  |
 | [Slow Voltage](https://open.spotify.com/track/58AYQMGOeuVJn7JppQU7Yd) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Slow Voltage](https://open.spotify.com/album/6MeUn1jRWdr2LAqA2pivVX) | 2:58 | 2022-04-15 | 2024-02-14 |
 | [Small River](https://open.spotify.com/track/283b63a2Vz7UwLFGiPNcln) | [Ludwig Lloyd](https://open.spotify.com/artist/4daTfKKnYKUlMaxDMGZH9K) | [Small River](https://open.spotify.com/album/4KgOAj9Yq69syNN2mqw3dI) | 2:04 | 2022-04-15 | 2024-03-19 |
-| [Small Steps](https://open.spotify.com/track/4C0fbA7KbgfmDcib7tefmH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Small Steps](https://open.spotify.com/album/29wAVFuaCeCjCePIaDK2vq) | 2:50 | 2022-04-15 |  |
+| [Small Steps](https://open.spotify.com/track/4C0fbA7KbgfmDcib7tefmH) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Small Steps](https://open.spotify.com/album/29wAVFuaCeCjCePIaDK2vq) | 2:50 | 2022-04-15 | 2024-09-04 |
 | [Soar](https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Soar](https://open.spotify.com/album/20V23ZlHIuN3hChiJPFrLj) | 2:24 | 2022-04-15 | 2022-09-21 |
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-15 | 2024-04-04 |
@@ -710,6 +711,7 @@
 | [Under the Poplars](https://open.spotify.com/track/0B0cpBMtYjk5PAwM0bkuoB) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Under the Poplars](https://open.spotify.com/album/7vJN1oU025GDt4BkeCRjj3) | 2:44 | 2023-02-27 |  |
 | [Under the Tree](https://open.spotify.com/track/47q2Yzs2VG88llrNWH2icn) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Under the Tree](https://open.spotify.com/album/0Ba8rZUhKEBC4dqp2iP301) | 3:04 | 2024-02-27 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2022-04-15 | 2022-11-19 |
+| [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 | 2024-09-03 |  |
 | [United](https://open.spotify.com/track/7aw2vM9GkttgVrbao29wju) | [Cory Mickens](https://open.spotify.com/artist/6noY2fXct5i6WHVF6OweTS) | [United](https://open.spotify.com/album/7qns71hCpdZzSR0oexqTCs) | 2:03 | 2022-04-15 | 2022-05-27 |
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-04-15 | 2024-03-19 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-15 | 2024-02-03 |
@@ -744,7 +746,7 @@
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-04-15 | 2022-04-23 |
 | [When it drizzles](https://open.spotify.com/track/5YB0FJ63K0g5ZXw0BN4HXF) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [When it drizzles](https://open.spotify.com/album/3nDvhFMcF7a0M5CNuivOn4) | 2:28 | 2022-04-22 |  |
 | [When the evening falls](https://open.spotify.com/track/7r7lC8lRoomYjKzLXobXKL) | [Lilly Eaton](https://open.spotify.com/artist/0HPUKxAUxQpN3JwJJyIHpp) | [In Bloom](https://open.spotify.com/album/1LEZyMtpTYmJQ6ueummnGv) | 2:41 | 2022-04-15 | 2023-05-04 |
-| [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-15 |  |
+| [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-15 | 2024-09-04 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-15 | 2024-08-21 |
 | [White Road](https://open.spotify.com/track/5im9REzRM7HXHBgedv0lod) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [White Road](https://open.spotify.com/album/4CqT4Z5flLY2Kiy1a2oiMf) | 2:23 | 2023-08-07 |  |
 | [Who I Was](https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me) | [Blissful Radiance](https://open.spotify.com/artist/7hrJrU2yFtaDBuXpKa5CcH) | [Who I Was](https://open.spotify.com/album/7DkxS1r9fYg01oz4kMngbo) | 2:05 | 2022-04-15 | 2023-05-04 |

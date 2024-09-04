@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Snotty Nose Rez Kids
+> The latest hip\-hop, refreshed weekly\. Cover: Snotty Nose Rez Kids & Drezus
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,880 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,899 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [The Ticket \(with That Mexican OT\)](https://open.spotify.com/track/2S2YF4VAJtT1i9xNMjPwHn) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [The Ticket \(with That Mexican OT\)](https://open.spotify.com/album/1lHMrRwnFzcs8rINCecvea) | 2:40 |
 | 50 | [BREAK!](https://open.spotify.com/track/0OJpyrMKGyFJrzgfP4Lvv2) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [BREAK!](https://open.spotify.com/album/3E4qKvlfR9AW9sq9jpY76d) | 2:14 |
 
-Snapshot ID: `ZtM+AAAAAAARnkiDwrdLyPYJln02q+Vb`
+Snapshot ID: `ZtcNAAAAAACxy+617JZ6iRW7siAP3RnR`

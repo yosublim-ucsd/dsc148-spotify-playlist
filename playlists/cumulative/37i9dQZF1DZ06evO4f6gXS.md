@@ -2,7 +2,7 @@
 
 ### [This Is The Jones Girls](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4f6gXS)
 
-> This is The Jones Girls\. The essential tracks, all in one playlist.
+> This is The Jones Girls\. Todos os maiores hits em uma só playlist.
 
 71 songs - 5 hr 1 min
 

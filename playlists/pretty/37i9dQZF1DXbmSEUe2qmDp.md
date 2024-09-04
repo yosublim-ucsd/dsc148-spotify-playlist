@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Theo & Luan, Clayton & Romário
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,440 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,439 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 51 | [Erro e a Errada](https://open.spotify.com/track/7xwjse5wRDuFsUBaE8Zv26) | [Sâmi Rico](https://open.spotify.com/artist/6glVyoyoX2Rt180V8BzE0k), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Erro e a Errada](https://open.spotify.com/album/7IZAwduuAKjdIpBPngsuKz) | 3:07 |
 | 52 | [Se Tocar Bruno e Marrone \- Solta a Voz e Vem Com Nóis, Ao Vivo](https://open.spotify.com/track/7FpLr2e3ygHl30w2vJslqW) | [Cacio & Marcos](https://open.spotify.com/artist/2lVljEZxMEnMY5llvgXnUC) | [Se Tocar Bruno e Marrone \(Solta a Voz e Vem Com Nóis, Ao Vivo\)](https://open.spotify.com/album/3zpeO4z561mDNaEpN7ZO2d) | 2:59 |
 | 53 | [Geração Fazendinha \#3: Caipirinha](https://open.spotify.com/track/1yTowBHHmUDnvNDc6pVFjA) | [Fazendinha Sessions](https://open.spotify.com/artist/10fWVVVG2zx5VMJPL4N8wC), [Jennifer e Stephany](https://open.spotify.com/artist/01C18y2QWahmooYkwKs0UP), [João de Souza & Bonifacio](https://open.spotify.com/artist/36KecM1WQEHTBjWU9tx75Z), [MC Escobar](https://open.spotify.com/artist/1y5L7dRuHdAlVUa4PCm9PV), [Matheus Martins](https://open.spotify.com/artist/5PJUQxCYj7Ivi6PYDfeJQW) | [Geração Fazendinha \#3: Caipirinha](https://open.spotify.com/album/1iRx992DnKshUMudpdECeN) | 4:09 |
-| 54 | [Charme Demais \- Ao Vivo](https://open.spotify.com/track/50frgWSf4qigDoDXZ91zTE) | [Wesley & Conrado](https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Charme Demais \(Ao Vivo\)](https://open.spotify.com/album/6rA5drW6RvB2WC5KyCIBIS) | 2:43 |
+| 54 | [Charme Demais \- Ao Vivo](https://open.spotify.com/track/50frgWSf4qigDoDXZ91zTE) | [Wesley & Conrado](https://open.spotify.com/artist/4MFzxXAMZaBj3JDAoYMIuQ), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Charme Demais \- Ao Vivo](https://open.spotify.com/album/6rA5drW6RvB2WC5KyCIBIS) | 2:43 |
 | 55 | [Roxo Novo](https://open.spotify.com/track/6dV91iaRfborYMJ4fIHGzW) | [Cesinha e Matheus](https://open.spotify.com/artist/6GY5MqIO1G53zbx4fhlXuf), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Roxo Novo](https://open.spotify.com/album/7naw4YnDBDylDtpbbqYg1b) | 2:26 |
 | 56 | [A Chance É Grande \- Ao Vivo](https://open.spotify.com/track/0fQ0gx9D0lDWsWaO1NXz5p) | [Lucas Souza](https://open.spotify.com/artist/1oPBjUigdT4JJxW9LjMqWU), [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Quandé Fé Bebi, Ep\. 4 \(Ao Vivo\)](https://open.spotify.com/album/76JHtXz23yAdLWgbdOj5Qm) | 2:45 |
 | 57 | [Haja Luz \- Ao Vivo](https://open.spotify.com/track/3nlnQoON0vqQki5nB4kHTM) | [Neto e Guilherme](https://open.spotify.com/artist/1xczintYOYmOtkZva7cZl0), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Haja Luz \(Ao Vivo\)](https://open.spotify.com/album/5MzdiEeDL8UxZtILQzcwcS) | 2:51 |

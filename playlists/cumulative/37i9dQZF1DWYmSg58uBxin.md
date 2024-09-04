@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-277 songs - 12 hr 49 min
+278 songs - 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2020-10-28 | 2023-09-09 |
 | [Sleepless](https://open.spotify.com/track/5oH5ijHVrmgwEfUttQ9pjX) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Sleepless](https://open.spotify.com/album/5ngJnKqFA5xkve0BQxjUUv) | 2:53 | 2020-10-20\* | 2023-09-09 |
 | [Snowfall](https://open.spotify.com/track/2clc722RMKNSOSgleEgXE4) | [Fallegur Tonn](https://open.spotify.com/artist/0cMr9nPgyN7bdo1xYugyNB) | [Snowfall](https://open.spotify.com/album/4Lr598YUKKD8cMRZu8QPf0) | 2:11 | 2023-09-08 |  |
+| [Sogni di Notturno](https://open.spotify.com/track/6FnrJardubPPSYmp8oVxyZ) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Sogni di Notturno](https://open.spotify.com/album/7hSrAcxKNUJd1QGTCper6y) | 2:19 | 2024-09-03 |  |
 | [Sol Da Manhã](https://open.spotify.com/track/50N1j5jEo9Wj30rnG6OuIH) | [Álvaro Da Silva](https://open.spotify.com/artist/1P53BMYk6Daoq2siT1H3jk) | [Sol Da Manhã](https://open.spotify.com/album/6j4tS64diWDcR9suydI2dz) | 2:38 | 2020-10-20\* |  |
 | [Solglimt](https://open.spotify.com/track/75fWxZM4OMTJxDHAKdGeaV) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Solglimt](https://open.spotify.com/album/0XhYgsUeKCHBESpTk4uFGd) | 2:33 | 2024-04-17 |  |
 | [Someone Else's Memories](https://open.spotify.com/track/0dbeYro3abzF7yIrRorb3o) | [So Vea](https://open.spotify.com/artist/3HKvIprAGifH1akdCwAm3u) | [Someone Else's Memories](https://open.spotify.com/album/21iNC9S6FJxEAbqTVFQW30) | 3:28 | 2020-10-20\* | 2023-09-09 |

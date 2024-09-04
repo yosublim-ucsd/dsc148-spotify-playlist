@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 
 > This is Alex Favela\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,944 likes - 51 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,948 likes - 51 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 25 | [El Pariente \- En Vivo](https://open.spotify.com/track/72wD8rCDNm27xMyeaMLrd5) | [Los Pistones De Uriel Valdez](https://open.spotify.com/artist/7k1FiT4LBe1fIkVSdI8Dmn), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Levemente Live Sessions](https://open.spotify.com/album/5elO2gfBu2K6H7bmPDNCFh) | 2:57 |
 | 26 | [El Lic](https://open.spotify.com/track/47zq3s9SJbPsFLSAutzZ3s) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Lic](https://open.spotify.com/album/2xZEwYIbbGnjvKOL89DjJS) | 2:04 |
 | 27 | [Nos Gusto El Estilo](https://open.spotify.com/track/5tiJ93Am2OQNMCkTAxHBpd) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Perfil SS](https://open.spotify.com/artist/24ieVGvAttWOws9ZuFeOXc) | [Nos Gusto El Estilo](https://open.spotify.com/album/07U20gKzQjfP4e6IyubdMI) | 2:59 |
-| 28 | [Que Cambie](https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:34 |
-| 29 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
+| 28 | [El Marin](https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo) | [David Santos](https://open.spotify.com/artist/3sc9qeCcbKwYiiBspwVUzU), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Marin](https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd) | 2:13 |
+| 29 | [Que Cambie](https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 2:34 |
 | 30 | [El Vago](https://open.spotify.com/track/7C1vq0IO8W2WU12bOayEaN) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [El Vago](https://open.spotify.com/album/04z62VCLswRn0sA2xg9dSd) | 2:57 |
-| 31 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
-| 32 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
+| 31 | [Acá Por Tijuana \- En Vivo](https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [Acá Por Tijuana \(En Vivo\)](https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl) | 2:14 |
+| 32 | [RZR Rojo \- En Vivo](https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:50 |
 | 33 | [No Te He Podido Olvidar](https://open.spotify.com/track/3yh29oAHpX1JNxLcXXPTri) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Clave A](https://open.spotify.com/artist/7sDgy88uLtmmYMwL0fyVcu) | [No Te He Podido Olvidar](https://open.spotify.com/album/7CIFdIcu8ZvB9Sd1dIGmkv) | 3:38 |
-| 34 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
-| 35 | [El Brillo de Mis Ojos](https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Brillo de Mis Ojos](https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer) | 3:32 |
+| 34 | [El Brillo de Mis Ojos](https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [El Brillo de Mis Ojos](https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer) | 3:32 |
+| 35 | [Jaimito El De California](https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Jaimito El De California](https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G) | 2:31 |
 | 36 | [Pa Que Hablen De Verdad](https://open.spotify.com/track/3mMJwhbV6dcACewyXQgKEg) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Tiempos Duros](https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C) | 3:03 |
 | 37 | [Medio Fresa \- En Vivo](https://open.spotify.com/track/4epfxYcztlxebaoBOQvddw) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 1:59 |
 | 38 | [Canchame](https://open.spotify.com/track/20RQ9mAluOQ3SLHK3MgLX8) | [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk), [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Canchame](https://open.spotify.com/album/3DEQ1q5V010o1E8zoCSVvr) | 3:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3tgAuY.md) - [plain]
 | 50 | [Chavalo Serio \- En Vivo](https://open.spotify.com/track/3xqtqir31h4pU9InbaIYS8) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [En Vivo Desde CLN Tololoche Edition](https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z) | 2:07 |
 | 51 | [El De La Misma Línea \- En Vivo](https://open.spotify.com/track/5xH8sGBGGyHEZuGgL7EGsq) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [LA Live Session](https://open.spotify.com/album/2UIvMLWzNV8sTBxPsJ2ZwX) | 2:50 |
 
-Snapshot ID: `ZtOugAAAAAC2Dvb1FylaWHespmlcNCdA`
+Snapshot ID: `ZtUAAAAAAAD/p8HQ1MJBcf4leuabGqCc`

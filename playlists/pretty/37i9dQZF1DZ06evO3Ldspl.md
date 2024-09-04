@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 
 ### [This Is Binomio de Oro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Ldspl)
 
-> This Is Binomio de Oro\. Los temas esenciales, todos en una lista.
+> This is Binomio de Oro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,007 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,010 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 2 | [La creciente](https://open.spotify.com/track/3r7LYQ2EhCw0CwaF5SeF9M) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:02 |
 | 3 | [Muere una Flor](https://open.spotify.com/track/0jnKOvTW1XTC6Na2VPJyXL) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 3:36 |
 | 4 | [Sólo Para Ti](https://open.spotify.com/track/1kkIlrp0Z69s5KlnR4ckoe) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De América](https://open.spotify.com/album/3bVIsgDLKfaiDTT9KHhjK7) | 4:48 |
-| 5 | [Lleno de Ti](https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:51 |
-| 6 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 |
+| 5 | [Esa](https://open.spotify.com/track/5BHKpCV5UiIPTAp7JCrsX5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Festival Vallenato](https://open.spotify.com/album/4kQudN5Gj821X5ejgda6Pi) | 3:51 |
+| 6 | [Lleno de Ti](https://open.spotify.com/track/54RRxofsf2U5V5arPqlnv5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:51 |
 | 7 | [Sombra Perdida](https://open.spotify.com/track/1iLUNt0JQR8FOohEGHE22z) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Caché](https://open.spotify.com/album/3GX1tHN5YaqV4xxqTdKzXs) | 4:24 |
 | 8 | [Momentos de Amor](https://open.spotify.com/track/2pX0FuidV0krQm6yy9DiQ3) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 3:50 |
 | 9 | [No Se Pedir Perdón](https://open.spotify.com/track/2SBtTElyn8VqS31GhD4dnF) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:47 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 30 | [Cuando Decidas](https://open.spotify.com/track/5gIFDhejEETBeSWcjaZkDD) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 4:01 |
 | 31 | [Porque No Te Tengo](https://open.spotify.com/track/4uIZhkCVK25JJ0KyPqGq2k) | [Rafael Orozco](https://open.spotify.com/artist/5EQkvkaE9pNbtp3vrWBLh8), [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los 30 Mejores](https://open.spotify.com/album/13DgbOsMXrslPXmZ9WC2JS) | 4:32 |
 | 32 | [Como Te Quiero](https://open.spotify.com/track/1P5kF1wReUPrrtUYLKB4Nl) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [En Concierto](https://open.spotify.com/album/4jT7Io5pCCnvpKfaXEB7hU) | 4:38 |
-| 33 | [Añoranzas](https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:10 |
+| 33 | [Sólo un Recuerdo](https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:03 |
 | 34 | [Enamorado De Ti](https://open.spotify.com/track/5j5Lb1HzrpUkYacIpQFff7) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Fuera De Serie](https://open.spotify.com/album/0N01F6ZxWcM1YAdCoPpTZ8) | 5:11 |
 | 35 | [A Mano Dura](https://open.spotify.com/track/0NLKxo7am9HmdtjrndiKJL) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Mucha Calidad](https://open.spotify.com/album/2uW4TXsdJu4EmTVGaql57E) | 4:34 |
 | 36 | [Cualquier Momento Es Preciso para Amar](https://open.spotify.com/track/3A5hz5Nnm7juB0yrq84IoG) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Fiesta Con El Binomio De Oro](https://open.spotify.com/album/76WWdL5GKIAP7OiSCCOeOy) | 4:28 |
-| 37 | [Sólo un Recuerdo](https://open.spotify.com/track/6zeAz63YKD3IM5UG4KqlGm) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:03 |
+| 37 | [Añoranzas](https://open.spotify.com/track/1yOTHafP8PK3lcWrql9Ttq) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Binomio De Oro 1986](https://open.spotify.com/album/356uekEIUBT3sL3Xtu5dL5) | 4:10 |
 | 38 | [Nuestra Separación](https://open.spotify.com/track/098CkrzOpQ4vP4FieXch5c) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Internacional](https://open.spotify.com/album/7eAMaa3wNUuI2NBVeeaRB0) | 4:11 |
 | 39 | [Cariñito De Mi Vida](https://open.spotify.com/track/6ALpRyo03tncnro0qElbLy) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Sólo Clásicos: Rafael Orozco](https://open.spotify.com/album/6UsTetmSj6XUraFvepURzu) | 3:02 |
 | 40 | [Quise Manchar Tu Alma](https://open.spotify.com/track/7vhO3vAmpiSNECd97UlT1j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:14 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ldspl.md) - [plain]
 | 43 | [No Vale Quererla](https://open.spotify.com/track/7zZpuiZ1T8aMtyo2Edrc1E) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [De Exportación](https://open.spotify.com/album/3CHxVT00FhsFpNPh7iQvdp) | 4:55 |
 | 44 | [Voz de Acordeones](https://open.spotify.com/track/1ynlh10fcaVkkHg27N0X1w) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 4:48 |
 | 45 | [Seguiré Penando](https://open.spotify.com/track/2ktHd52hiL6M6eehVL0DvM) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [El Binomio De Oro](https://open.spotify.com/album/2rJWmvIzl9Bh87tU0V3Xhh) | 3:20 |
-| 46 | [Miedo Al Amor](https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Superior](https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h) | 4:10 |
-| 47 | [Nuevo Juramento](https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:27 |
+| 46 | [Nuevo Juramento](https://open.spotify.com/track/6ZYnRnLnTtScu5XQgRlBYp) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Somos El Vallenato](https://open.spotify.com/album/3ZFGRFlSAdYUPmTHXJTUfr) | 4:27 |
+| 47 | [Miedo Al Amor](https://open.spotify.com/track/0XgnPjPP5ADbTqQzy7Gtad) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Superior](https://open.spotify.com/album/71e1jF8EwEx5bUBRHKnW3h) | 4:10 |
 | 48 | [Habíamos Terminado](https://open.spotify.com/track/3oIldtYrNvBqJzll1NqdPE) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Clase Aparte](https://open.spotify.com/album/3lVJ0Kg2WmwxVFJ3ti9CHK) | 3:57 |
 | 49 | [Mundo de Ilusiones](https://open.spotify.com/track/2zblES980vphzev9UT5ZF5) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Enamorado Como Siempre](https://open.spotify.com/album/3OhlAnWNEYUiSah3Qwer4z) | 4:09 |
 | 50 | [Te Lo Dije Mujer](https://open.spotify.com/track/4OyfotY7zWw75v94xygq5s) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Los Elegidos](https://open.spotify.com/album/4HDMMTKwuOko0HVcXK5gne) | 4:26 |
 
-Snapshot ID: `ZtOugAAAAAD9uT/V0Ph/RGhY/9yU5GQ3`
+Snapshot ID: `ZtUAAAAAAABtdFNdx3lbximVcYdcxf2x`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > moooooooooove
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,462 likes - 288 songs - 20 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,606 likes - 288 songs - 20 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -295,6 +295,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 285 | [Happy Music](https://open.spotify.com/track/3rh495Z2rIRwD316blea4f) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn) | 3:52 |
 | 286 | [Tell You What It Is \- Shermanology SoulTec Mix](https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Tell You What It Is \(Shermanology SoulTec Mix\)](https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV) | 3:39 |
 | 287 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 |
-| 288 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \(Austin Millz Remix\)](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
+| 288 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
 Snapshot ID: `ZtGEZwAAAAAZ7I48e+qKdnJeUtJIDikQ`

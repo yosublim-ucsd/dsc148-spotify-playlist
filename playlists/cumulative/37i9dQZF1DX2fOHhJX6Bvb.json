@@ -304,7 +304,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 179601,
       "name": "Blue (Da Ba Dee)",
       "url": "https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 225000,
       "name": "deja vu",
       "url": "https://open.spotify.com/track/778jLXEk9gyetQoHYOUHBs"
@@ -758,6 +758,24 @@
       "duration_ms": 220047,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/6EoPNWD4JE1BQZ8VxbYiM8"
+    },
+    {
+      "album": {
+        "name": "Firework",
+        "url": "https://open.spotify.com/album/2kvM4gLHmeglBs7Rxqn7Tb"
+      },
+      "artists": [
+        {
+          "name": "Sandra Turner",
+          "url": "https://open.spotify.com/artist/0AbxEThob5FBDkb4K6MX9q"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216399,
+      "name": "Firework",
+      "url": "https://open.spotify.com/track/6kFILBBiac062EAoYXhy9v"
     },
     {
       "album": {
@@ -1175,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "I'm So Excited",
+        "url": "https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195458,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk"
+    },
+    {
+      "album": {
         "name": "It's A Heartache",
         "url": "https://open.spotify.com/album/1tOdmnCWx6X1aZScGY51xz"
       },
@@ -1190,6 +1226,24 @@
       "duration_ms": 184084,
       "name": "It's A Heartache",
       "url": "https://open.spotify.com/track/3lNgovZW5k6yasJqocDyKa"
+    },
+    {
+      "album": {
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6vacirqzYmkXMdo38CTenR"
+      },
+      "artists": [
+        {
+          "name": "Elin Porsinger",
+          "url": "https://open.spotify.com/artist/6t3WAdzh5pbRFB2piKubXK"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137434,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/0IUMSra0B0igbpr8OynKfB"
     },
     {
       "album": {
@@ -1294,7 +1348,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 148000,
       "name": "Lift Me Up - Piano Version",
       "url": "https://open.spotify.com/track/0ZZzAPbwFZcAbSg4mZTmJL"
@@ -1661,6 +1715,24 @@
     },
     {
       "album": {
+        "name": "Rather Be",
+        "url": "https://open.spotify.com/album/2yaKTHYKeYrTGNu9TQ3HxC"
+      },
+      "artists": [
+        {
+          "name": "Marc Millis",
+          "url": "https://open.spotify.com/artist/51rn0GgkyfOvp4clFcZ7qA"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248865,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/3TjP5s4meR4cvpnH9wPuge"
+    },
+    {
+      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/4SOJm1GEbnhfHC1ggGjT9K"
       },
@@ -1888,7 +1960,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 218581,
       "name": "Someone like you",
       "url": "https://open.spotify.com/track/3f87rDjNZHW38Gf03IiiyG"
@@ -1960,7 +2032,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 221256,
       "name": "Streets Of London",
       "url": "https://open.spotify.com/track/7vT3wxlUc5EJ2jkz6yszVq"

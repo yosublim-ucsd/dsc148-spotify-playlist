@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 116993,
+  "num_followers": 117198,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACAimSlDtlqbW36kXiCyQxj",
+  "snapshot_id": "ZtUAAAAAAAAYJKUA2tNXIBbwJpyzPMgP",
   "tracks": [
     {
       "added_at": null,
@@ -235,26 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mood Malandro",
-        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191558,
-      "name": "Mood Malandro",
-      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 143402,
       "name": "DETONA",
       "url": "https://open.spotify.com/track/7ojqw2j3HrrmXhfykBV88i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mood Malandro",
+        "url": "https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191558,
+      "name": "Mood Malandro",
+      "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
     },
     {
       "added_at": null,

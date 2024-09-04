@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 
 > Celebrate the merriment of the Holiday Season with your favorite country artists\. Cover: Thomas Rhett
 
-[Spotify](https://open.spotify.com/user/spotify) - 350,064 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 350,059 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MuOvUqmxDz.md) - [plain]
 | 99 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1C85AHCMc9BjX5SWeUEsHo) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [A Classic Christmas](https://open.spotify.com/album/5zPiyi6NAqHkuETPjhBHW1) | 2:33 |
 | 100 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/5BgC5vVuhfWHHawbcXRr7h) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Glow](https://open.spotify.com/album/6FjK2XLQJloz36NgRciCHv) | 2:18 |
 
-Snapshot ID: `ZsZSBwAAAACuZhkDGNl/u+NGLMb1VULw`
+Snapshot ID: `ZtcdHAAAAAB0d0O/Rv2giRvsuTcFpjJV`

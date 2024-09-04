@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les artistes \u00e0 l'affiche du Festival International de Jazz de Montr\u00e9al / Discover this year's Montreal Jazz Fest lineup",
-  "num_followers": 4531,
+  "num_followers": 4530,
   "original_name": "Festival International de Jazz de Montr\u00e9al 2024",
   "owner": {
     "name": "Spotify",
@@ -2595,6 +2595,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "Patche",
+        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
+      },
+      "artists": [
+        {
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+        }
+      ],
+      "duration_ms": 342040,
+      "name": "Motorik",
+      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Refract",
         "url": "https://open.spotify.com/album/5AI0KCzgLqhLxjRSF3ZhJW"
       },
@@ -2643,34 +2659,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Patche",
-        "url": "https://open.spotify.com/album/6tIv6FfXjJiAwTt6X07pAr"
+        "name": "Girl In The Yard",
+        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
       },
       "artists": [
         {
-          "name": "Patche",
-          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+          "name": "Joy Lapps",
+          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
         }
       ],
-      "duration_ms": 342040,
-      "name": "Motorik",
-      "url": "https://open.spotify.com/track/5kUVK0faZee9yLpM3WNDYB"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "Prevent the Future",
-        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
-      },
-      "artists": [
-        {
-          "name": "Lex French Quartet with James Muller",
-          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "Austerity",
-      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
+      "duration_ms": 415666,
+      "name": "Lulu's Dream",
+      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2691,18 +2691,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Girl In The Yard",
-        "url": "https://open.spotify.com/album/1DDAedhGIVnmmxwRn5jXD9"
+        "name": "Prevent the Future",
+        "url": "https://open.spotify.com/album/2lBwX3PaCaAGxO8VMzyuFU"
       },
       "artists": [
         {
-          "name": "Joy Lapps",
-          "url": "https://open.spotify.com/artist/1Lkx061Y0k6Szk3Ee0KI2V"
+          "name": "Lex French Quartet with James Muller",
+          "url": "https://open.spotify.com/artist/5p69xASoGbtnZiq5TfYvrI"
         }
       ],
-      "duration_ms": 415666,
-      "name": "Lulu's Dream",
-      "url": "https://open.spotify.com/track/7qqhY60uJZZZPHFkh74sKV"
+      "duration_ms": 266900,
+      "name": "Austerity",
+      "url": "https://open.spotify.com/track/6x4pPVdJX10ekn3wQjl6zY"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2755,26 +2755,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Coubli",
-        "url": "https://open.spotify.com/album/2TNL4KZztaUQ6qqxt1khB9"
-      },
-      "artists": [
-        {
-          "name": "Donald Dogbo",
-          "url": "https://open.spotify.com/artist/6yaw7dNoMEZNXdcdjBzmiK"
-        },
-        {
-          "name": "Noel Mpiaza",
-          "url": "https://open.spotify.com/artist/7gphGsqZmLr2ddNS7hdZHd"
-        }
-      ],
-      "duration_ms": 226560,
-      "name": "Na Zamba",
-      "url": "https://open.spotify.com/track/0KK3Rrwke8oAQP8lWPTrv1"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Bridge",
         "url": "https://open.spotify.com/album/5ggnDDpZa11EvVrt2oB3Bi"
       },
@@ -2795,18 +2775,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Latiendo la tierra",
-        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+        "name": "Coubli",
+        "url": "https://open.spotify.com/album/2TNL4KZztaUQ6qqxt1khB9"
       },
       "artists": [
         {
-          "name": "No\u00e9 Lira",
-          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+          "name": "Donald Dogbo",
+          "url": "https://open.spotify.com/artist/6yaw7dNoMEZNXdcdjBzmiK"
+        },
+        {
+          "name": "Noel Mpiaza",
+          "url": "https://open.spotify.com/artist/7gphGsqZmLr2ddNS7hdZHd"
         }
       ],
-      "duration_ms": 263000,
-      "name": "R\u00edndete",
-      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
+      "duration_ms": 226560,
+      "name": "Na Zamba",
+      "url": "https://open.spotify.com/track/0KK3Rrwke8oAQP8lWPTrv1"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2823,6 +2807,54 @@
       "duration_ms": 179464,
       "name": "Alzar la voz sin reclamar",
       "url": "https://open.spotify.com/track/7eu4tKJUEnH1HHlbpTSV2N"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Take 3",
+        "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
+      },
+      "artists": [
+        {
+          "name": "Les Royal Pickles",
+          "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
+        }
+      ],
+      "duration_ms": 212960,
+      "name": "The Head Hunter's Dream",
+      "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Latiendo la tierra",
+        "url": "https://open.spotify.com/album/2VIPMRFRCsZNH5diTJQ86G"
+      },
+      "artists": [
+        {
+          "name": "No\u00e9 Lira",
+          "url": "https://open.spotify.com/artist/6YQWwm6FdB2tSglKV6jSz4"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "R\u00edndete",
+      "url": "https://open.spotify.com/track/57JCZcoy9vmp6oAqIEGBIo"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "CHANTE'S GROOVE",
+        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "duration_ms": 230649,
+      "name": "HANGING WITH YOU",
+      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2847,34 +2879,18 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Take 3",
-        "url": "https://open.spotify.com/album/6ZqqkFzCWuKviVoXsGJhH9"
+        "name": "VWETO III",
+        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
       },
       "artists": [
         {
-          "name": "Les Royal Pickles",
-          "url": "https://open.spotify.com/artist/17TVfyl46tK0TIDLyVlgAK"
+          "name": "Georgia Anne Muldrow",
+          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
         }
       ],
-      "duration_ms": 212960,
-      "name": "The Head Hunter's Dream",
-      "url": "https://open.spotify.com/track/6yYIdQRZuDL7wfXjKH00yq"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "CHANTE'S GROOVE",
-        "url": "https://open.spotify.com/album/1TV2Jx7E5y7Yg9jul0CP3X"
-      },
-      "artists": [
-        {
-          "name": "THEHONESTGUY",
-          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
-        }
-      ],
-      "duration_ms": 230649,
-      "name": "HANGING WITH YOU",
-      "url": "https://open.spotify.com/track/5kWQ5PENkfsF4C2MEFmiY7"
+      "duration_ms": 275160,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -2891,22 +2907,6 @@
       "duration_ms": 216072,
       "name": "Activate",
       "url": "https://open.spotify.com/track/0SIM57FWfQF56r4K1WwWDD"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "VWETO III",
-        "url": "https://open.spotify.com/album/0LHPSt892Smr99CWlvCZRx"
-      },
-      "artists": [
-        {
-          "name": "Georgia Anne Muldrow",
-          "url": "https://open.spotify.com/artist/2RdnkH5txHb9c4vGwq0I31"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/6kSDH2gdjMJTQxwgbMSnfK"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3031,22 +3031,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Happy Man",
-        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
-      },
-      "artists": [
-        {
-          "name": "Stephen Barry Band",
-          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
-        }
-      ],
-      "duration_ms": 233893,
-      "name": "Tired of Crying",
-      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "Root in Tandem",
         "url": "https://open.spotify.com/album/6oru4puvNWMC1y7ld5qVqZ"
       },
@@ -3059,6 +3043,22 @@
       "duration_ms": 275521,
       "name": "Blurred Season",
       "url": "https://open.spotify.com/track/0JwPATD7qbZkSsnb5bFaQu"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Happy Man",
+        "url": "https://open.spotify.com/album/2VA7RFoMB4Q8SqxKCqB6J8"
+      },
+      "artists": [
+        {
+          "name": "Stephen Barry Band",
+          "url": "https://open.spotify.com/artist/0tTpq4BOjoXAWWUv0bxvTv"
+        }
+      ],
+      "duration_ms": 233893,
+      "name": "Tired of Crying",
+      "url": "https://open.spotify.com/track/0j1WeRuOS2wnoCtUavJ9g7"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3091,6 +3091,22 @@
       "duration_ms": 260560,
       "name": "Love Will Be Reborn",
       "url": "https://open.spotify.com/track/0QRJoHPfeELqE6sceqDobG"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Steppin' Out!",
+        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
+      },
+      "artists": [
+        {
+          "name": "Mariel Bildsten",
+          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
+        }
+      ],
+      "duration_ms": 171824,
+      "name": "Downtown Uproar",
+      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3143,22 +3159,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Steppin' Out!",
-        "url": "https://open.spotify.com/album/1AJBzSknZRIfvCnO6kBDgb"
-      },
-      "artists": [
-        {
-          "name": "Mariel Bildsten",
-          "url": "https://open.spotify.com/artist/1ICMxBMH4wIdXML65hnPNt"
-        }
-      ],
-      "duration_ms": 171824,
-      "name": "Downtown Uproar",
-      "url": "https://open.spotify.com/track/30qquZJYIxT4YZPzayXPB8"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "FO(U)RTH",
         "url": "https://open.spotify.com/album/6Mom4L0l4IAjZickevYnYK"
       },
@@ -3191,6 +3191,22 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/7xhdVWVeUNFNM6CtoQEMYv"
+      },
+      "artists": [
+        {
+          "name": "Melissa Fortin",
+          "url": "https://open.spotify.com/artist/5Sf5ZKBlMdXL5w1wzVAJUo"
+        }
+      ],
+      "duration_ms": 251315,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
         "name": "Time Poem: La joie de l'\u00e9ph\u00e9m\u00e8re",
         "url": "https://open.spotify.com/album/0L4xHZpUhhkzRtMfPXYHjp"
       },
@@ -3211,22 +3227,6 @@
       "duration_ms": 429943,
       "name": "Les vagues",
       "url": "https://open.spotify.com/track/7n3hKwI0VUjfNUYyus9B22"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/7xhdVWVeUNFNM6CtoQEMYv"
-      },
-      "artists": [
-        {
-          "name": "Melissa Fortin",
-          "url": "https://open.spotify.com/artist/5Sf5ZKBlMdXL5w1wzVAJUo"
-        }
-      ],
-      "duration_ms": 251315,
-      "name": "FOMO",
-      "url": "https://open.spotify.com/track/7JGxbfSBnL3ON2H9mFYWyC"
     },
     {
       "added_at": "2024-06-28 14:45:02",
@@ -3347,22 +3347,6 @@
     {
       "added_at": "2024-06-28 14:45:02",
       "album": {
-        "name": "Parfum no.1",
-        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
-      },
-      "artists": [
-        {
-          "name": "Jacques Kuba Seguin",
-          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
-        }
-      ],
-      "duration_ms": 444706,
-      "name": "Promesse de souvenirs",
-      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
-    },
-    {
-      "added_at": "2024-06-28 14:45:02",
-      "album": {
         "name": "FREEDOM FIRST",
         "url": "https://open.spotify.com/album/47GbM3pAl1FCG2m8N5Cdkm"
       },
@@ -3395,6 +3379,22 @@
       "duration_ms": 498899,
       "name": "On Living",
       "url": "https://open.spotify.com/track/4OdBllSXPo0MwPxMv94W5T"
+    },
+    {
+      "added_at": "2024-06-28 14:45:02",
+      "album": {
+        "name": "Parfum no.1",
+        "url": "https://open.spotify.com/album/6RE9JPAjfzBMQRVVbe04wE"
+      },
+      "artists": [
+        {
+          "name": "Jacques Kuba Seguin",
+          "url": "https://open.spotify.com/artist/2aRiHW5NupcW8mXgEhsIs2"
+        }
+      ],
+      "duration_ms": 444706,
+      "name": "Promesse de souvenirs",
+      "url": "https://open.spotify.com/track/65EoPMetS28WivqSCC3r8k"
     },
     {
       "added_at": "2024-06-28 14:45:02",

@@ -4,7 +4,7 @@
 
 > Afro sounds crossing borders\. Cover: <a href="spotify:artist:75VKfyoBlkmrJFDqo1o2VY">Fireboy DML</a>
 
-582 songs - 1 day 6 hr 35 min
+583 songs - 1 day 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [I Swear](https://open.spotify.com/track/0RHdQDaqgDwsXQujji1TSn) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:04 | 2024-08-09 | 2024-08-17 |
 | [IDK \(feat\. Zlatan\)](https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [S2](https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM) | 3:00 | 2024-02-02 |  |
 | [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-06-01 |
-| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 |  |
+| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 | 2024-09-04 |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-04-19 |  |
 | [In My Bed](https://open.spotify.com/track/6XM53PbvlzhuNtJZtpl7RP) | [Rotimi](https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [The Beauty of Becoming](https://open.spotify.com/album/1AUSfQC9x3SsqNQhFq05l7) | 3:05 | 2021-09-10 | 2024-01-26 |
 | [IN MY HEAD](https://open.spotify.com/track/7AoQcUEi2ZzF6vOrutcoZU) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [IN MY HEAD](https://open.spotify.com/album/5dI959e51lkReZI50si0ef) | 2:57 | 2024-04-19 | 2024-04-27 |
@@ -414,6 +414,7 @@
 | [Phenomena](https://open.spotify.com/track/7jDMQi5XZooBgF5i7m3DBo) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Phenomena](https://open.spotify.com/album/7d1uJdESkLI3mrGgBXkkr7) | 3:22 | 2024-08-16 | 2024-08-31 |
 | [Piano](https://open.spotify.com/track/2R6eV26pSgLz2yV5dfgzLL) | [Gabzy](https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [Piano](https://open.spotify.com/album/6hM1d9cytmykFu0qpQ7JpV) | 2:36 | 2024-02-23 | 2024-03-16 |
 | [Pick Up](https://open.spotify.com/track/13iAeDhYtRuuWdcNLZftY2) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Pick Up](https://open.spotify.com/album/6pig1K4wZv0XZ26xYSGHOd) | 3:14 | 2021-09-10 | 2022-07-23 |
+| [PINACOLADA](https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF) | [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PINACOLADA](https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE) | 2:57 | 2024-09-03 |  |
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/2kxWRS8ZcJZ51Dik5uKGK6) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/4aveS935cOYHDIGnb2RT5M) | 3:25 | 2021-09-10 | 2022-07-21 |
 | [Play Play \(feat\. Burna Boy\)](https://open.spotify.com/track/3R60ekRcGXuaoZmnbdlf3n) | [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big Conspiracy](https://open.spotify.com/album/3ORNNahv0Z1IU0AKoliZwn) | 3:25 | 2022-07-25 | 2024-01-26 |
 | [Playboy](https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI) | 3:27 | 2022-03-25 | 2023-12-03 |

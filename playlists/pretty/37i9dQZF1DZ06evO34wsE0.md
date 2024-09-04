@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,495 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,510 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 25 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Shania: The Queen Of Country Pop](https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J) | 3:32 |
 | 26 | [Dance With The One That Brought You](https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:24 |
 | 27 | [Ka\-Ching!](https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:20 |
-| 28 | [Life's About To Get Good](https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:40 |
-| 29 | [When You Kiss Me \- Red Version](https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
+| 28 | [When You Kiss Me \- Red Version](https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
+| 29 | [Life's About To Get Good](https://open.spotify.com/track/4h5uOWibuxo0qrtejla7Pb) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Now \(Deluxe\)](https://open.spotify.com/album/5L1fa5sInW8EeKIXAGycMD) | 3:40 |
 | 30 | [What Made You Say That \- Single Version](https://open.spotify.com/track/2ITLIytT1VERgqERFU9bG4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:59 |
 | 31 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
 | 32 | [White Claw](https://open.spotify.com/track/1lbpwh97jdsftd1DhpESOg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [White Claw](https://open.spotify.com/album/2GRRZDdDDCDBJ7zoadTLzx) | 3:26 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 46 | [It Only Hurts When I'm Breathing \- Red Version](https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Blue Versions\)](https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0) | 3:19 |
 | 47 | [Black Eyes, Blue Tears](https://open.spotify.com/track/43c6l8nrX8hHkwf1yuUKki) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:39 |
 | 48 | [Home Ain't Where His Heart Is \(Anymore\)](https://open.spotify.com/track/43C32gFFER5nS4LJffpEPZ) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:13 |
-| 49 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
-| 50 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
+| 49 | [In My Car \(I'll Be The Driver\) \- Red Version](https://open.spotify.com/track/4MWNs5JLZRkn8IczZo8wru) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 3:16 |
+| 50 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 | 51 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 
-Snapshot ID: `ZtOugAAAAACbSJv4xr/AAuvxTmGd5Ki4`
+Snapshot ID: `ZtUAAAAAAACUpw/S4sp4vIuk4wzDOlOb`

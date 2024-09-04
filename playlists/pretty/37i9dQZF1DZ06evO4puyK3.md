@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. Todos os maiores hits em uma só playlist.
+> This is Gloria Groove\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,763 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,787 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 38 | [Suplicar](https://open.spotify.com/track/2HmwK2dChMGAOv3gd2HQiN) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Suplicar](https://open.spotify.com/album/1rbmSJSM5ie2j5zIH7Nf0X) | 3:06 |
 | 39 | [PROIBIDONA](https://open.spotify.com/track/090GUuqAuh7Vje3V745nep) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Valesca Popozuda](https://open.spotify.com/artist/0IpLJsvZHA1op1pw8GAoPu) | [PROIBIDONA](https://open.spotify.com/album/4uE5CGnjimzfh5m40ullYU) | 2:37 |
 | 40 | [Rolê](https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Beijo De Judas](https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd) | 3:07 |
-| 41 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
-| 42 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
+| 41 | [Só o Amor](https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z) | [Preta Gil](https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Só o Amor](https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ) | 2:58 |
+| 42 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 |
 | 43 | [Vício](https://open.spotify.com/track/2S7MWqh2o9JWO2iFwBTcW8) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Vício](https://open.spotify.com/album/1rbODKal1K9YMyz0PgtC82) | 2:55 |
 | 44 | [Provocar](https://open.spotify.com/track/28SWsF1IQxfc9bP5yua35K) | [Lexa](https://open.spotify.com/artist/0jTDeBJQr3unrK29LklnAv), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Provocar](https://open.spotify.com/album/332UyyUgVxTrm29u44ZvtO) | 2:48 |
 | 45 | [BEAT MEGATRÔNICO](https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 1:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4puyK3.md) - [plain]
 | 49 | [PLANETA OUSADIA](https://open.spotify.com/track/38Dkqi7IYUm3DDyt4tfDcf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:32 |
 | 50 | [MAGENTA CA$H](https://open.spotify.com/track/0BhhGctvTjfNbfDiqjZPGL) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Monna Brutal](https://open.spotify.com/artist/5lC34RckSyg9Y7UlkWfN8n) | [ALEGORIA](https://open.spotify.com/album/3OdT6CibeTpWD54g0MniBg) | 2:38 |
 
-Snapshot ID: `ZtOugAAAAABZU1JpJ7dQM8GPnmEEbcK5`
+Snapshot ID: `ZtUAAAAAAAASiKUO72fPmxDy4Mo7fbIN`

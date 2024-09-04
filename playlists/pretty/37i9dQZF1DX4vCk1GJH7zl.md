@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,099 likes - 80 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,100 likes - 80 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,11 +76,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 66 | [Wake Me Up \- Ao Vivo](https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V) | [Dr\. Sin](https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D) | [Acustico Dr\. Sin 1 \(Ao Vivo\)](https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm) | 4:34 |
 | 67 | [VOU ESTAR AQUI](https://open.spotify.com/track/68a7d2NiPRLsKaKZ5qPPSU) | [A Outra Margem](https://open.spotify.com/artist/0A3D5f6K0YALdFkm7t7o4Y) | [Polaroid Sonora](https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb) | 4:16 |
 | 68 | [Mais um Trabalhador](https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ) | [BÁRBARA SILVA](https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV) | [Mais um Trabalhador](https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d) | 3:19 |
-| 69 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 |
-| 70 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 |
-| 71 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
-| 72 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
-| 73 | [Eu Quero Tanto](https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Eu Quero Tanto](https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA) | 3:07 |
+| 69 | [Eu Quero Tanto](https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV) | [Cogumelo Plutão](https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee) | [Eu Quero Tanto](https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA) | 3:07 |
+| 70 | [Vamos Fingir](https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw) | [Tuono](https://open.spotify.com/artist/3RX3nIvUvzoHh7QP0q7dvL) | [Vamos Fingir](https://open.spotify.com/album/0lhKXLSqmeibVuf9thBqP8) | 4:26 |
+| 71 | [A Gente Sabe Se Amar](https://open.spotify.com/track/6aQ6Tcs6w0efuVzWrimGRC) | [Davi Cartaxo](https://open.spotify.com/artist/4iBDLWArVUT5PiHgKt6nlm) | [DAVI](https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA) | 2:44 |
+| 72 | [Pássaro Livre](https://open.spotify.com/track/0x5cpU5Hup1Rtv8X7tyEx9) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Pássaro Livre](https://open.spotify.com/album/6GaTdxbCc8Q6BzAKUMO9UA) | 4:28 |
+| 73 | [Vou Te Encontrar \- Ao Vivo](https://open.spotify.com/track/06gvb63lSSb4uAIwQIlieF) | [Paulo Miklos](https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe) | [Vou Te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/5ImqZSq0E0Q5GGs9V6vvLr) | 4:30 |
 | 74 | [Vamos Correr Pro Mar](https://open.spotify.com/track/5KUNq0bFfXp6mgQv3ZFH35) | [Seu Cuca](https://open.spotify.com/artist/3RAlbabK7xVqcYu6i4vN0b) | [Vamos Correr Pro Mar](https://open.spotify.com/album/7oIIi1OY9PXw8le6Rdb5BJ) | 3:26 |
 | 75 | [Insensatez](https://open.spotify.com/track/0eWjcSCH69BGN3UwLjqHXT) | [Paulo Ricardo](https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk) | [Insensatez](https://open.spotify.com/album/2XaJHxbfCTLl0FmWRgvnsT) | 4:35 |
 | 76 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |

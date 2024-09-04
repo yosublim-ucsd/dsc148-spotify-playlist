@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,372 likes - 150 songs - 11 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,374 likes - 150 songs - 11 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 135 | [Sister Species](https://open.spotify.com/track/0xi81plszmA40tDw7cefN1) | [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv) | [Meridians](https://open.spotify.com/album/0F5Aw2ovWdzcW7by2vEToC) | 5:04 |
 | 136 | [Ikiru](https://open.spotify.com/track/4DoD7xxnOmsxNyH57jue9y) | [Thoma](https://open.spotify.com/artist/4e8ExN8iJrXnycI51N1Cxb) | [Ikiru](https://open.spotify.com/album/18fNJzLNa7AJfp96UnWZgj) | 3:43 |
 | 137 | [Krautzig](https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f), [Drumno](https://open.spotify.com/artist/7FRYe3XueljQJFNtEWcOqC) | [Krautzig](https://open.spotify.com/album/5RQWpx0iEPdXkvInyzBkW0) | 4:07 |
-| 138 | [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 |
-| 139 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
-| 140 | [Goodnight Felicia](https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr) | [Chris Bear](https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag) | 2:15 |
-| 141 | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww) | 6:00 |
+| 138 | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Midi Sans Frontieres \(Avec Batterie\)](https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww) | 6:00 |
+| 139 | [Merry\-Go\-Round](https://open.spotify.com/track/0zgRWhoG9aNUEZu4Sd6Suf) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 1:47 |
+| 140 | [Tropic Air](https://open.spotify.com/track/3myrvhxZL6nf2UPOYt9TiQ) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Tropic Air](https://open.spotify.com/album/3uxmV2Ce5KiIcZXgDlBuOh) | 3:44 |
+| 141 | [Goodnight Felicia](https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr) | [Chris Bear](https://open.spotify.com/artist/0do9UA8mgexUfGJiVTSmiv) | [High Maintenance: Original Music \(Season 1\)](https://open.spotify.com/album/04lzRvq2MISPHUiMjoxjag) | 2:15 |
 | 142 | [Body Control](https://open.spotify.com/track/761ln8LuN4gus7oR2EGN7K) | [Lauren Flax](https://open.spotify.com/artist/1LUYSrytHIC78JbMgFBIG7) | [Body Control](https://open.spotify.com/album/7ivvUoNWI6OjpfQfjm1gYi) | 6:42 |
 | 143 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
-| 144 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |
-| 145 | [Basheeba](https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1) | 4:27 |
-| 146 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 |
-| 147 | [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 |
-| 148 | [Officer's Club](https://open.spotify.com/track/58A5kjUiP3VJZedyacmHzs) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Bizarster](https://open.spotify.com/album/7J9TDj6wxFbYGorUJoHm17) | 4:26 |
-| 149 | [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 |
-| 150 | [Mr\. Frosty](https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/7FkYY7UIpjx44tuk6oGCKr) | 6:53 |
+| 144 | [Basheeba](https://open.spotify.com/track/5P823piDVg0rvwrWFPoHAv) | [Angel Rada](https://open.spotify.com/artist/5kf6V58qzjez0DRgmW5Wd7) | [Soul Jazz Records Presents VENEZUELA 70: Cosmic Visions Of A Latin American Earth \- Venezuelan Experimental Rock In The 1970s](https://open.spotify.com/album/1cEz5jEFeSgSIVqFYtANE1) | 4:27 |
+| 145 | [jazmin](https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [lightheart](https://open.spotify.com/artist/63BjHqfGQ2GtEdYdUVbOSR) | [Jardines Vol\. I](https://open.spotify.com/album/1huZKOZy8nzN8M7qDjocgg) | 2:33 |
+| 146 | [Officer's Club](https://open.spotify.com/track/58A5kjUiP3VJZedyacmHzs) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [Bizarster](https://open.spotify.com/album/7J9TDj6wxFbYGorUJoHm17) | 4:26 |
+| 147 | [People On Sunday](https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [People On Sunday](https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H) | 3:45 |
+| 148 | [Amaat One](https://open.spotify.com/track/60nFcBJzUY17ZuDTDtD8qi) | [Manatee Commune](https://open.spotify.com/artist/41JNAYVuPs7zwJbQBQ6tec) | [Amaat One](https://open.spotify.com/album/4UVVXIPLpuFYFxOr8hEPjJ) | 5:36 |
+| 149 | [Mr\. Frosty](https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz) | [Mike & Rich](https://open.spotify.com/artist/6J3zaNqIk0fXXFhpbLDg0H) | [Expert Knob Twiddlers](https://open.spotify.com/album/7FkYY7UIpjx44tuk6oGCKr) | 6:53 |
+| 150 | [Arcadian Daze](https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc) | [RUMTUM](https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI) | [Arcadian Daze](https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6) | 3:16 |
 
 Snapshot ID: `ZtFGngAAAADxY7OGlfkbTZLC9G1sX9YR`

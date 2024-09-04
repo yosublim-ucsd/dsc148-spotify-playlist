@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 | 2023-06-07 | 2024-08-19 |
+| [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 | 2023-06-07 |  |
 | [12](https://open.spotify.com/track/4SDvrRS2dKUfvpkYWay8rM) | [Foe](https://open.spotify.com/artist/7j826TUXPEos01kKSeddi3), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [12](https://open.spotify.com/album/1sYUOWAoRUKPvlilrrt9m1) | 3:11 | 2023-06-07 | 2024-08-14 |
 | [Ain't FWM \(feat\. Ken the Man\)](https://open.spotify.com/track/6tuDN7s1S1ld0FSNGhxhl4) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Ken The Man](https://open.spotify.com/artist/5shvxSgmdhZdPLXSZjNVhu) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 3:33 | 2023-06-07 |  |
 | [Andělé A Démoni](https://open.spotify.com/track/1rOGlKL0GNiNbKqNfQq6H4) | [DeFuckTo](https://open.spotify.com/artist/5ePLZV8qgXvEewuJCWkwTU), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Andělé A Démoni](https://open.spotify.com/album/3GHb3nGINrgVc4Ixq37Sj1) | 3:39 | 2023-07-22 | 2024-08-12 |

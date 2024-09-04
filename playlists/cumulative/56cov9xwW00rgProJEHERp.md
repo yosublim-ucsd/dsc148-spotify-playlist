@@ -4,7 +4,7 @@
 
 > Tunes from your favourite coffee shop.
 
-159 songs - 9 hr 8 min
+161 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Evergreen](https://open.spotify.com/track/1BeVLZu8ifoIjjLcLGENBh) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Evergreen](https://open.spotify.com/album/1HryQNC9G8s4bjtfCf66xf) | 2:30 | 2024-08-23 |  |
 | [Every Little Thing](https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [Every Little Thing](https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH) | 3:28 | 2024-05-03 |  |
 | [Fabrics](https://open.spotify.com/track/3KsDwXekJyZFds3u6IyyGE) | [Avry](https://open.spotify.com/artist/3SPEuHo0MHKNRYCZfPiij9) | [Fabrics](https://open.spotify.com/album/2lemypYT4ph9G1wOe7wAxn) | 3:24 | 2024-04-19 | 2024-05-25 |
+| [Faded Splendor \(feat\. Donovan Woods\)](https://open.spotify.com/track/4AzBN2FRFxoORxSd8SlFZr) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31), [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Faded Splendor \(feat\. Donovan Woods\)](https://open.spotify.com/album/72Orv4alDQj8tEwKzKMFIP) | 3:54 | 2024-09-03 |  |
 | [Fair Bit of Time](https://open.spotify.com/track/0dYFnQWlNHd497JF7LT7KO) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Fair Bit of Time](https://open.spotify.com/album/2WnqV16RKFxItPcgDQO599) | 3:38 | 2024-04-26 | 2024-06-22 |
 | [Fall Into Me](https://open.spotify.com/track/3Kq2U1xsE3YOOfjqH8j4l7) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Fall Into Me](https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0) | 2:36 | 2024-02-23 |  |
 | [Felt Too Good!](https://open.spotify.com/track/2LI1mrR3LCyQitVw6vHBdX) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Felt Too Good!](https://open.spotify.com/album/4dxyVZMH7oFr3OjpHef5l4) | 3:04 | 2024-07-19 |  |
@@ -92,7 +93,7 @@
 | [Kindergarten Heart](https://open.spotify.com/track/2GH4jJMwqftLSj09POboHO) | [Shaina Hayes](https://open.spotify.com/artist/07BSJfATf49EmPNOzM01cZ) | [Kindergarten Heart](https://open.spotify.com/album/7HJS2A7JWTfHu4arcFcvmC) | 2:57 | 2024-02-23 | 2024-03-23 |
 | [know that you're not alone \- acoustic](https://open.spotify.com/track/0WX5acjq0gdPCCdfAhsP8o) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [know that you're not alone \(acoustic\)](https://open.spotify.com/album/7oGx6iHwpEPmppKh04Qqk8) | 2:57 | 2024-01-19 | 2024-07-13 |
 | [L'essentiel](https://open.spotify.com/track/1vmhZxLgzC3Pk1ElcmTJTJ) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [L'essentiel](https://open.spotify.com/album/3nc1DGkPmGQEoAMoWhGqEQ) | 3:05 | 2024-01-26 | 2024-03-16 |
-| [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 | 2023-12-08 |  |
+| [Last Train Home \- Ballad Version](https://open.spotify.com/track/60CQpHremwdzRXIzoaufDF) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Last Train Home \(Ballad Version\)](https://open.spotify.com/album/4qI7QOLeKaYr0OtqjCXi7d) | 5:57 | 2023-12-08 | 2024-09-04 |
 | [Last Train To London \(I Won't Look Back\)](https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Amelia](https://open.spotify.com/album/4aAHlX9XKBRfdqUp4JVvr0) | 3:52 | 2023-12-08 | 2024-03-09 |
 | [Lean In](https://open.spotify.com/track/73wvzVVkyZNeZdWLjAGnru) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Lean In](https://open.spotify.com/album/3Ye8tnkENwAK80262hRjVQ) | 3:10 | 2024-03-22 | 2024-07-20 |
 | [Leave This Home](https://open.spotify.com/track/3N48xSRpwfwBytTBOYxh79) | [Dweller](https://open.spotify.com/artist/0BXalrIb822OpYzlONODHU), [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4), [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Leave This Home](https://open.spotify.com/album/4myJO9gIxp7nMeGd6TlKO6) | 5:21 | 2023-12-08 | 2024-02-24 |
@@ -128,6 +129,7 @@
 | [rotted out with flies](https://open.spotify.com/track/0u7184d6EPWJxkezc4eUI0) | [Kevin Atwater](https://open.spotify.com/artist/6ZBM319vNIirp7FOvvLVD6) | [rotted out with flies](https://open.spotify.com/album/52tlFFs7KNpFypEpjNgPvK) | 3:00 | 2024-02-23 | 2024-06-22 |
 | [Sleepwalking](https://open.spotify.com/track/4axflVhTuU55y1ZYyLJ22X) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Sleepwalking](https://open.spotify.com/album/1WkPJ7h3W8VNTOaRWWsATU) | 3:48 | 2023-12-15 | 2024-01-27 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-12-08 |  |
+| [Some Kinda Nerve](https://open.spotify.com/track/4fD2XwoZJLyeGJD07ctWyW) | [Madeleine Roger](https://open.spotify.com/artist/4ByHOwI0KSWMjrb4Wz5zvw) | [Nerve](https://open.spotify.com/album/67njACuhii6ppE1nFoHazz) | 3:15 | 2024-09-03 |  |
 | [Somehow I Forgot](https://open.spotify.com/track/0YtblIQRK83VTI0ienTyOH) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Rootin' For Ya](https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL) | 3:11 | 2024-05-24 | 2024-07-13 |
 | [something i can't do](https://open.spotify.com/track/4rtGByFuVFIb3rj4ewtVYw) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [something i can't do](https://open.spotify.com/album/01lwPYxKLe0fuDFHOp9l5v) | 2:44 | 2023-12-08 | 2024-01-27 |
 | [Sometimes](https://open.spotify.com/track/0K4EvBjWxaVLuv8k3nQXKj) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Sometimes / Tomorrow](https://open.spotify.com/album/1OJMwxD58KaCvmLTaSYiiv) | 2:57 | 2024-03-01 |  |
@@ -140,7 +142,7 @@
 | [Sweet Little Hummingbird](https://open.spotify.com/track/4EDToNaUfaBVNdxGmZbqKb) | [Chorus of Courage](https://open.spotify.com/artist/5ohObI7a6VenwZVe56uAjv), [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Sweet Little Hummingbird](https://open.spotify.com/album/4I8abFjsOo9WkfmeiyuYvY) | 4:18 | 2024-02-16 | 2024-07-20 |
 | [Sweet Love](https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [You Promised A Lifetime](https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW) | 2:29 | 2024-04-01 | 2024-05-11 |
 | [Takes Me Back Home](https://open.spotify.com/track/5SBzve5oEsGhZSE8uZ8tjc) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Takes Me Back Home](https://open.spotify.com/album/6CJPML4dEb9v01jaLeoXZ1) | 3:13 | 2024-07-12 |  |
-| [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 | 2024-05-21 |  |
+| [Talker](https://open.spotify.com/track/2uE2lVjcowIEJeTYtYMx9O) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Talker](https://open.spotify.com/album/67C44VolRSTecbZ2gpRuBE) | 3:02 | 2024-05-21 | 2024-09-04 |
 | [Tell Me How](https://open.spotify.com/track/00RDBupKs9RP0YQEBrKn1i) | [Loryn Taggart](https://open.spotify.com/artist/2DwFvKJOTB8DNK7j0q3HaO) | [Tell Me How](https://open.spotify.com/album/60QZB4L7P6e41u3rNBgB2m) | 4:25 | 2023-12-08 | 2024-02-24 |
 | [Thank You](https://open.spotify.com/track/5iuWWNhVwmcbSJ5qTuYd9H) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Thank You](https://open.spotify.com/album/6bH8EKg9SfXOACeppfdRz4) | 3:36 | 2023-12-08 | 2024-07-27 |
 | [That's Life](https://open.spotify.com/track/77815RO1IuoduqqoxRaC2n) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [When a Thought Grows Wings](https://open.spotify.com/album/7i3h5FxsKCEFVvtKg2fZGs) | 3:43 | 2024-08-23 |  |

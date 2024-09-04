@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Sep 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Sep 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -756,6 +756,24 @@
       "duration_ms": 227335,
       "name": "A.F. Day",
       "url": "https://open.spotify.com/track/3NG2doklvUiqTZMfyQxPWA"
+    },
+    {
+      "album": {
+        "name": "Aberrant Waltz",
+        "url": "https://open.spotify.com/album/0uqaBDAaATDSPSj6fpGM7t"
+      },
+      "artists": [
+        {
+          "name": "Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299025,
+      "name": "Aberrant Waltz",
+      "url": "https://open.spotify.com/track/0v41dZfwAWwduLkKlDNbbX"
     },
     {
       "album": {
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 211739,
       "name": "Because I Love You",
       "url": "https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY"
@@ -5633,6 +5651,24 @@
     },
     {
       "album": {
+        "name": "Cannibals",
+        "url": "https://open.spotify.com/album/426nVp8Z4KDDTqG6gSmonA"
+      },
+      "artists": [
+        {
+          "name": "Karate",
+          "url": "https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144928,
+      "name": "Cannibals",
+      "url": "https://open.spotify.com/track/5txTS9Of0heZutRxZUhOWx"
+    },
+    {
+      "album": {
         "name": "Canyons",
         "url": "https://open.spotify.com/album/5XdBvDpsLBJj8Oe7OTrVS4"
       },
@@ -6684,7 +6720,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 153142,
       "name": "cloud 11",
       "url": "https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD"
@@ -7196,6 +7232,24 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
+    },
+    {
+      "album": {
+        "name": "CPU",
+        "url": "https://open.spotify.com/album/5OTsMu3WWQMNMzWJHZYPeu"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "CPU",
+      "url": "https://open.spotify.com/track/1OXORNmklNNEuJgyNHRfRZ"
     },
     {
       "album": {
@@ -7914,7 +7968,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 131612,
       "name": "Dead On Arrival",
       "url": "https://open.spotify.com/track/65GIGXXf8l9UNnAwcjx823"
@@ -11036,7 +11090,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 297981,
       "name": "Falling Asleep",
       "url": "https://open.spotify.com/track/78FyoS1Nr32K6RaYJPyhgV"
@@ -12048,7 +12102,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 237023,
       "name": "Flying The Black Flag",
       "url": "https://open.spotify.com/track/3KxOFKWjlZOSENYIFDF9wy"
@@ -13535,6 +13589,24 @@
     },
     {
       "album": {
+        "name": "go home",
+        "url": "https://open.spotify.com/album/7DXfwzyOTrSqAkEFoly4bv"
+      },
+      "artists": [
+        {
+          "name": "h!tex",
+          "url": "https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120269,
+      "name": "go home",
+      "url": "https://open.spotify.com/track/5S4JHubPsfj5x5SmVFQFgA"
+    },
+    {
+      "album": {
         "name": "Go-Getters",
         "url": "https://open.spotify.com/album/7BLZ0IWHj61SqqsEcOEUTa"
       },
@@ -13604,7 +13676,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 198133,
       "name": "GOD LEVEL",
       "url": "https://open.spotify.com/track/11VVyQon40HQu03a0arxlT"
@@ -13964,7 +14036,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 148965,
       "name": "Green Haired Girl (with TaTa, Jenn Carter & Dee Billz)",
       "url": "https://open.spotify.com/track/0wpQV02A8XpvvESSqtnbWu"
@@ -14932,6 +15004,24 @@
       "duration_ms": 179794,
       "name": "Here If You Need Me",
       "url": "https://open.spotify.com/track/0vGAmcRmXuePlL2OvfzXo4"
+    },
+    {
+      "album": {
+        "name": "Here Today",
+        "url": "https://open.spotify.com/album/5VCrEEZnhlnwwREQiDjQip"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "Here Today",
+      "url": "https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7"
     },
     {
       "album": {
@@ -16603,6 +16693,24 @@
     },
     {
       "album": {
+        "name": "I Walk",
+        "url": "https://open.spotify.com/album/6q0bqFxDT60yWfMrodtaNs"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306173,
+      "name": "I Walk",
+      "url": "https://open.spotify.com/track/46ONmMQctmk94OljcgE5kP"
+    },
+    {
+      "album": {
         "name": "I WANNA BE",
         "url": "https://open.spotify.com/album/0xdlQ55UOIikv6P4DifQb4"
       },
@@ -17840,7 +17948,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189573,
       "name": "Javelin",
       "url": "https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS"
@@ -18152,6 +18260,24 @@
       "duration_ms": 152835,
       "name": "J\u00e4nner",
       "url": "https://open.spotify.com/track/05uSa0qi1vy6ClsPrPxmgk"
+    },
+    {
+      "album": {
+        "name": "Karen",
+        "url": "https://open.spotify.com/album/3HMGg9ticBXA3gKsy1SJYs"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150133,
+      "name": "Karen",
+      "url": "https://open.spotify.com/track/5YY9pYGtbcw7nIwDDmAt7I"
     },
     {
       "album": {
@@ -18843,6 +18969,24 @@
     },
     {
       "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
+    },
+    {
+      "album": {
         "name": "Last Dance",
         "url": "https://open.spotify.com/album/30KypTEo8oYOQ1y7HbZy2M"
       },
@@ -19252,7 +19396,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 174906,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/2Bf3YFKNl0w3nwkwPhHDW2"
@@ -21559,6 +21703,24 @@
     },
     {
       "album": {
+        "name": "MORAL DEATH SENTENCE",
+        "url": "https://open.spotify.com/album/2rLzTSEc5n5tpHdgZ5rb9r"
+      },
+      "artists": [
+        {
+          "name": "Regional Justice Center",
+          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74077,
+      "name": "MORAL DEATH SENTENCE",
+      "url": "https://open.spotify.com/track/7B3KeKnFNOu95tjmaUjpJu"
+    },
+    {
+      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/4YfuytD8MyY1VvNpezlbZT"
       },
@@ -22412,7 +22574,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 156529,
       "name": "Nasty",
       "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
@@ -23766,7 +23928,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 237289,
       "name": "Oh I",
       "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
@@ -29351,6 +29513,24 @@
     },
     {
       "album": {
+        "name": "SilverCane",
+        "url": "https://open.spotify.com/album/0lZHCPsxNUJXufdgHixK7j"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242194,
+      "name": "SilverCane",
+      "url": "https://open.spotify.com/track/4eg3NfOyPtV6OH7DLg95ZR"
+    },
+    {
+      "album": {
         "name": "SIMMER",
         "url": "https://open.spotify.com/album/0jmSZLtFG74vjKqjIFGBOo"
       },
@@ -32006,6 +32186,36 @@
       "duration_ms": 235216,
       "name": "Sweet Eyes",
       "url": "https://open.spotify.com/track/2cblWZLH8NAVR3ss2LUobR"
+    },
+    {
+      "album": {
+        "name": "Swervin in a Benz !",
+        "url": "https://open.spotify.com/album/0WKX0Wo7NTAupNcdfHs03c"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        },
+        {
+          "name": "SlowMilkAndCookies",
+          "url": "https://open.spotify.com/artist/3heh3jLIHe14TcJ244NMJX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Swervin in a Benz !",
+      "url": "https://open.spotify.com/track/3V87QjFOYpzSYJpD9Kzeaf"
     },
     {
       "album": {

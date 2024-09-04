@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-186 songs - 7 hr 48 min
+187 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Elysian Fields](https://open.spotify.com/track/3JcpgyK7eflknAKNHyo8HF) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Elysian Fields](https://open.spotify.com/album/5Ye5ytPLhrW457eaALFpdW) | 2:03 | 2023-05-09 |  |
 | [Embrace](https://open.spotify.com/track/7uEqmFdTgsMNjW6H2GrwGv) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Embrace](https://open.spotify.com/album/4hw5Kyj5CkPnJ5RtiajIfc) | 2:38 | 2024-02-13 |  |
 | [Empyrean](https://open.spotify.com/track/17RDaw9BH11GDHTDlBi4VW) | [Eva Brummel](https://open.spotify.com/artist/6JCISfcnC2hHTm0uhjrbNy) | [Empyrean](https://open.spotify.com/album/1OOs0fwWFSuP3RqIEwRCiq) | 3:00 | 2023-05-09 | 2024-04-04 |
-| [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2023-05-09 |  |
+| [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2023-05-09 | 2024-09-04 |
 | [Eridani](https://open.spotify.com/track/6kJ4jRr1SB2ao8VimAiuB0) | [Flori Vivea](https://open.spotify.com/artist/1g2rBoWONHzfurvm2ESnz0) | [Eridani](https://open.spotify.com/album/59ALZE7fBIJgO1Awt1S4bV) | 2:32 | 2024-02-02 |  |
 | [Escondidas](https://open.spotify.com/track/5uUdiK8TRiaRR8iLGZsBOt) | [Francine Gaétane](https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw) | [Escondidas](https://open.spotify.com/album/52j4FXkBGwmYA8Jq8xuhKt) | 2:14 | 2024-07-29 |  |
 | [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2023-05-09 |  |
@@ -151,6 +151,7 @@
 | [Seuls ensemble](https://open.spotify.com/track/5r0ag6p51d3VOF8rVaL09E) | [Jean\-Marie Daviau](https://open.spotify.com/artist/4LsnrByAb2moZP6XcRHA8e) | [Seuls ensemble](https://open.spotify.com/album/1C7WhYl4YSRxMtEZSOE4tH) | 2:11 | 2023-05-09 |  |
 | [Silent joy](https://open.spotify.com/track/5lS2q5nrx4qmBUD2ew3QMV) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Silent joy](https://open.spotify.com/album/29NkfVf1QGHv64uleVpGqo) | 2:25 | 2023-05-09 |  |
 | [Silhouette](https://open.spotify.com/track/4Eq7aF59snLVoxPKUAHhUz) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Oddities](https://open.spotify.com/album/5xl48qsYt6IMQlXSKESZsW) | 3:32 | 2023-05-09 |  |
+| [Simple Pleasures](https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Simple Pleasures](https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE) | 2:51 | 2024-09-03 |  |
 | [Sincere](https://open.spotify.com/track/3COEj6CCw5iG6ykRZ0LuKf) | [Andrea Prine](https://open.spotify.com/artist/3tzbuAF9yZZHThB1ykHj0A) | [Sincere](https://open.spotify.com/album/2FrUT2fF8TXPMGiiChOkph) | 2:07 | 2023-05-09 |  |
 | [Slow Fall](https://open.spotify.com/track/0VZ71YhAIA1W3T71DJUi32) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Slow Fall](https://open.spotify.com/album/77O8mS4PmfryxmsKuMrM2S) | 2:58 | 2024-05-29 |  |
 | [Softly](https://open.spotify.com/track/6zJ2ZTSniD1AA9haATbYf7) | [Noah Foem](https://open.spotify.com/artist/4KCLPk2rRE3W6PijOxMoVl) | [Softly](https://open.spotify.com/album/1hpx4jwuWDg8ey7OujBBi4) | 2:06 | 2023-05-09 |  |

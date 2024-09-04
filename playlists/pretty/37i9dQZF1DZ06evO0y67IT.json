@@ -1,12 +1,12 @@
 {
   "description": "This is Hawthorne Heights. The essential tracks, all in one playlist.",
-  "num_followers": 8098,
+  "num_followers": 8105,
   "original_name": "This Is Hawthorne Heights",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAb01DA/q5VEbguFDM8UhAN",
+  "snapshot_id": "ZtUAAAAAAADt5E9hvM2R/W12FswArFHI",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 186653,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lost Lights",
         "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 224762,
       "name": "We Were Never Lost",
       "url": "https://open.spotify.com/track/6oNQdqeYRMHi3ywjbrpoyB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 186653,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/38xTGNjOnSsWgAykuQ4gUR"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 266314,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 171733,
       "name": "Broken Man",
       "url": "https://open.spotify.com/track/4xAfOFbarKIYjpoQCXAMRP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1aM7YH1Onu5blNUOPkvFjh"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 266314,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7vDSpbz16ylQ6tnUFpfIB6"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost Lights",
-        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        }
-      ],
-      "duration_ms": 171098,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4q9fBT07eKXUlbzXC4bxfB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Skeletons",
         "url": "https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 162160,
       "name": "Abandoned Driveways",
       "url": "https://open.spotify.com/track/0PBhQRL2CdOZhBgIL3dzqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost Lights",
+        "url": "https://open.spotify.com/album/7rt4AToj7D1GTIuBM1LDyv"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 171098,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4q9fBT07eKXUlbzXC4bxfB"
     },
     {
       "added_at": null,

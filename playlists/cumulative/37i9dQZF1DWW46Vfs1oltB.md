@@ -2,9 +2,9 @@
 
 ### [KrOWN](https://open.spotify.com/playlist/37i9dQZF1DWW46Vfs1oltB)
 
-> The fresh & hottest K\-Hip hop tracks\. \(Cover: Rad Museum, Kid Milli\)
+> The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Jay Park\(박재범\)\)
 
-1,301 songs - 2 day 22 hr 35 min
+1,303 songs - 2 day 22 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -872,6 +872,7 @@
 | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/track/4EaQ0ouIydfeAgQUz284EF) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [People Pt.2 \(feat\. IU\)](https://open.spotify.com/album/1l12B55qdesQorPcQLJDRo) | 3:33 | 2023-04-07 | 2023-07-19 |
 | [PEP](https://open.spotify.com/track/0cGGwmuWZCvzrIcr6D52C0) | [Boi B](https://open.spotify.com/artist/7MJnvH71CgBGCN9obN4aY5), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [Jung Sangsoo](https://open.spotify.com/artist/5r3uAJ7gBuc6i0eyMR3Lx4) | [PEP](https://open.spotify.com/album/1zzs4IqLwC48bLZvY4u5uH) | 3:08 | 2022-03-14 | 2022-06-28 |
 | [pick up](https://open.spotify.com/track/5oDnl57QoYdMsTMvRH02N9) | [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z), [Rhythm Power](https://open.spotify.com/artist/5gak9sIzatz00aPsLdHVUW) | [pick up](https://open.spotify.com/album/6EzBYX8kxItoy1D9llVIrW) | 3:14 | 2023-04-04 | 2023-06-14 |
+| [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 | 2024-09-03 |  |
 | [pilgrim \(Feat\. Cold Bay\)](https://open.spotify.com/track/6CQNEE1Xn7ziA77FB6n0Zn) | [Camel Jack](https://open.spotify.com/artist/2UAASoJLUN2LcVTvfFlDQS), [Cold Bay](https://open.spotify.com/artist/6EG4gNB7bX6zI2K87xVm2O) | [FANTASY TRIBE](https://open.spotify.com/album/0YrIwu97fGzEOopa5pUmBB) | 2:40 | 2022-03-21 | 2022-05-18 |
 | [Pink Venom](https://open.spotify.com/track/0skYUMpS0AcbpjcGsAbRGj) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/3dZBZnDa3z20uEVnxR38M1) | 3:06 | 2022-08-20 | 2024-03-09 |
 | [Pink Venom](https://open.spotify.com/track/6stcJnJHPO8RrYx5LLz5OP) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/7jaSNQUBJbvfbZHLNFrV7P) | 3:06 | 2024-01-23 | 2024-06-05 |
@@ -1046,6 +1047,7 @@
 | [Spooky Asian](https://open.spotify.com/track/65qJqiCri8ndBSPz2yYWvX) | [Dok2 Changmo](https://open.spotify.com/artist/2JaNBBdULPq5pb3P1sLEET) | [Spooky Asian](https://open.spotify.com/album/5s5NJQJJCTQh4LHkNGQy9B) | 3:28 | 2022-03-05 | 2022-05-26 |
 | [SPOT!](https://open.spotify.com/track/1SS0WlKhJewviwEDZ6dWj0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [SPOT!](https://open.spotify.com/album/3K3C9JjwCGQAzj3Bu7BUaI) | 2:47 | 2024-04-26 |  |
 | [Spring Rain \(feat\. Rakon\)](https://open.spotify.com/track/72CqKBz1W0sHlbVazkD9Ur) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616), [Rakon](https://open.spotify.com/artist/2RLCgVKRIUWY5Dz5azW6Tk) | [SINCE 16'](https://open.spotify.com/album/6SabPv9sCG3yviXpRtgZ5T) | 2:57 | 2021-12-21 | 2022-07-08 |
+| [Stand Out](https://open.spotify.com/track/1jQbHZEM4Qoes0hAbMmAF9) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Stand Out](https://open.spotify.com/album/4ec8gp20EwMyersWF7Ewx5) | 2:52 | 2024-09-03 |  |
 | [Star](https://open.spotify.com/track/4xsJXGVSHydlwsPZ37PNJx) | [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Do Not Go Gentle Into That Good Night](https://open.spotify.com/album/3iHiYg3Yvd6Id1lKNJf1zQ) | 1:59 | 2021-12-21 | 2022-07-04 |
 | [Star](https://open.spotify.com/track/15foo6VSdbAoO0ppSi9HEx) | [Marv](https://open.spotify.com/artist/1V2ep7618bYgCcTVyDKPcW) | [Souly\. \(deluxe\)](https://open.spotify.com/album/2tBqpuWSoHy9WrvsFb6s0O) | 2:44 | 2024-04-05 | 2024-04-12 |
 | [Stars for You \(Feat\. KOONTA, RETA\)](https://open.spotify.com/track/00gxCvZUaZY9dhe5MJpWMT) | [San E](https://open.spotify.com/artist/61MMiylth1injW39oZBuYB), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c), [RETA](https://open.spotify.com/artist/2l7HsagjXMw1994RTTxA0j) | [Stars for You](https://open.spotify.com/album/7r9HoN885vba6iufcl5y9R) | 2:19 | 2022-02-03 | 2022-06-11 |

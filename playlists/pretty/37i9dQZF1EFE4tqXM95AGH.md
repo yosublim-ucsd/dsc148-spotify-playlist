@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4ZIckimeCjQpyqu39pufX2">Leland</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181 likes - 171 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,182 likes - 171 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 41 | [IN A DREAM](https://open.spotify.com/track/2Cxz0VrxP96Oo9pWZxxNsd) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [In A Dream \(Bonus Track Version\)](https://open.spotify.com/album/66M3ZXJLIgROFqMla74reu) | 3:49 |
 | 42 | [Plum](https://open.spotify.com/track/0EftP1nY8Mklt77hAMMMug) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Bloom](https://open.spotify.com/album/3MYJYd73u0SatCnRVvRJ3M) | 3:05 |
 | 43 | [love, or the lack thereof](https://open.spotify.com/track/2E1eJCNpEniIB1NsDqyGzR) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:07 |
-| 44 | [Vowels](https://open.spotify.com/track/2mvEB4KV6L54cfMe9bkzsw) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:04 |
+| 44 | [Vowels](https://open.spotify.com/track/6tXtNrcKGZdaRlEwRuz4e0) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/2f5IES0PhCZZELqdeWMhB5) | 3:04 |
 | 45 | [You Will Find Me](https://open.spotify.com/track/1tQksxQbg0wzhxpTY4ppzB) | [Alex & Sierra](https://open.spotify.com/artist/58MLl9nC29IXbE4nEtuoP2) | [As Seen On TV](https://open.spotify.com/album/7a1BvnRHo7rdeyaHtmxPPB) | 3:26 |
 | 46 | [What's The Time Where You Are?](https://open.spotify.com/track/0sYM4OmgrRYaHq6DV7obq1) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:23 |
 | 47 | [Back To Me](https://open.spotify.com/track/66VG1Cul6TOi0dcRjAf6pR) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Sit Still, Look Pretty](https://open.spotify.com/album/6cMcASNBAfVvmv0AT6IQj4) | 4:01 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFE4tqXM95AGH.md) - [plain]
 | 170 | [Open Always Wins](https://open.spotify.com/track/4vuudfaZC8lxouxxC9tLOz) | [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Kpop Piano \#75](https://open.spotify.com/album/6eajkqJn9Tva9SvTVmYfr2) | 2:22 |
 | 171 | [I'm a Rapper](https://open.spotify.com/track/3Pt8mRiKVgnun7ULVmKTLB) | [Pfool](https://open.spotify.com/artist/4yNdC9T7fkyn8yB1E8cTLY) | [Ultimate Hottest Hits 2013, Vol\. 6 \(The Best of the Teenies\)](https://open.spotify.com/album/5PtK4h7lKH3ittcrWu7hqi) | 2:55 |
 
-Snapshot ID: `AbbGXgAAAADkdo3sY4rtS7ME5+KGovP6`
+Snapshot ID: `AbbL/gAAAACh+HWx+xzwqG9SBH8b5u10`

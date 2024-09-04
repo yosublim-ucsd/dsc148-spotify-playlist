@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 122818,
+  "num_followers": 122854,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACE6zYsTCldzinwM13tFwHB",
+  "snapshot_id": "ZtUAAAAAAACfMzK3GGUfw4i7PdaevvG1",
   "tracks": [
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 146853,
-      "name": "Medication For The Melancholy",
-      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
+      "duration_ms": 181253,
+      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
         }
       ],
-      "duration_ms": 181253,
-      "name": "Run Rabbit Run - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/2PDNpYuAKC9dfxBspBwRm9"
+      "duration_ms": 146853,
+      "name": "Medication For The Melancholy",
+      "url": "https://open.spotify.com/track/0868aqEdMFPsiD5jR14BlE"
     },
     {
       "added_at": null,
@@ -783,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+        "name": "Past, Present & Future",
+        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 178066,
-      "name": "Satanic Cyanide ! The Killer Rocks On !",
-      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
+      "duration_ms": 252693,
+      "name": "Hands Of Death (Burn Baby Burn)",
+      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
     },
     {
       "added_at": null,
@@ -815,22 +819,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Past, Present & Future",
-        "url": "https://open.spotify.com/album/3RjfiKRsIHB7wQ1L6KoDEz"
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "Alice Cooper",
-          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Hands Of Death (Burn Baby Burn)",
-      "url": "https://open.spotify.com/track/1GqoyVXzAUI6PBCLP0X8Ku"
+      "duration_ms": 178066,
+      "name": "Satanic Cyanide ! The Killer Rocks On !",
+      "url": "https://open.spotify.com/track/0rYjattOlPzXJ2BBD0sZqM"
     },
     {
       "added_at": null,

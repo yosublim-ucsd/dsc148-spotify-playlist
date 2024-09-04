@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-506 songs - 21 hr 27 min
+508 songs - 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Altai](https://open.spotify.com/track/5xnMxcqVARosZ7Uwr4D04M) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Altai](https://open.spotify.com/album/2nrYZcCUiavKgeH2f07zlz) | 2:59 | 2023-09-29 |  |
 | [Always With You](https://open.spotify.com/track/5ItGFvCvkLI4wm2dXycCCs) | [Maitre](https://open.spotify.com/artist/4lz66um9dJ0YB7ugJHeoZe) | [Always With You](https://open.spotify.com/album/5T3Ix0PNlLeAhemjXwjBH9) | 2:27 | 2023-08-10 |  |
 | [Amanda's Rose](https://open.spotify.com/track/7irnzCCAnHTmWyH8KfIp2j) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Amanda's Rose](https://open.spotify.com/album/7qFUeny2ZIqb4hMfs7JyzV) | 1:55 | 2023-04-28 | 2023-06-23 |
+| [Ancient Memories](https://open.spotify.com/track/3a0mf882OFwis1OReHHiiV) | [Ivan Bielsa](https://open.spotify.com/artist/5TSHZHmlAoFmP4EyKvwRua) | [Ancient Memories](https://open.spotify.com/album/729ih92lBrqzu42FgEzYoO) | 2:26 | 2024-09-03 |  |
 | [Angel](https://open.spotify.com/track/53buLGflmrjon42rFFwcj8) | [Kaspar Mann](https://open.spotify.com/artist/7hZPqfKfcyqVgLOQ5vOGk8) | [Angel](https://open.spotify.com/album/4mrl491t5RV2RpqKgt5YuG) | 2:24 | 2024-01-12 |  |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-04-28 | 2023-06-23 |
 | [Any Day Now](https://open.spotify.com/track/1nQc7JxHc1cg1hPVqCnQ04) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [Any Day Now](https://open.spotify.com/album/3PLBn83wOzdXLaJBej3kuX) | 2:56 | 2023-04-28 | 2023-06-23 |
@@ -173,6 +174,7 @@
 | [Fragile](https://open.spotify.com/track/2DjZfJBMQxI5tnoC6l1CVc) | [Vincenzo Adelini](https://open.spotify.com/artist/2DCXusMUJpcFfPM786dD8v) | [Fragile](https://open.spotify.com/album/1JAZhzpYAxIExPSV8jvHE6) | 2:49 | 2022-06-17 | 2022-07-29 |
 | [Fragile Dreams](https://open.spotify.com/track/1S1RTPziNCXpzq2ULuoeKG) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fragile Dreams](https://open.spotify.com/album/0FHxZlAQQHtoyQrMPgRedP) | 2:01 | 2022-06-17 | 2023-10-13 |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-09 |  |
+| [From me to you](https://open.spotify.com/track/4P4dWU1fWY0Ub6HjVawTie) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [From me to you](https://open.spotify.com/album/2lKWukwSmwoxCNAFHZSVTK) | 2:51 | 2024-09-03 |  |
 | [Fáilte](https://open.spotify.com/track/7g4jqCEvQZGdRKemCNdOxm) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Fáilte](https://open.spotify.com/album/1Whcn3o7IpIoJtQXEBq6TZ) | 1:44 | 2023-02-24 | 2023-06-23 |
 | [Gelassenheit](https://open.spotify.com/track/4c9gXXifVcTEkTm0vSZm4q) | [William Lynn](https://open.spotify.com/artist/1EQNBTXeMqy5nDpSlzcRwx) | [Gelassenheit](https://open.spotify.com/album/7wxX9KricJdTp3U5HdtYQa) | 2:16 | 2023-03-10 | 2023-06-23 |
 | [Gentle Wind](https://open.spotify.com/track/199dJ94ukJhAJd4eKpAZLH) | [Adrian Strohm](https://open.spotify.com/artist/1Rs3hpkbsgsgFiavB9Id1i) | [Gentle Wind](https://open.spotify.com/album/5NQQh0vTespdY28H1mW6d9) | 2:27 | 2023-05-19 |  |

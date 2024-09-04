@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3sTYeZ3X2HX2cjaNDyKRcP">Bill Maybury</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-58 songs - 2 hr 53 min
+60 songs - 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bored](https://open.spotify.com/track/4Dh90SQzKOotf1bDD3TMxS) | [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Bored](https://open.spotify.com/album/2hkbvDGl0ac4XjXTebdRoR) | 2:56 | 2024-02-26 |  |
 | [Breakfast Over Bae](https://open.spotify.com/track/6y8JwscZfUoEFBhoTLX7Ie) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Breadcrumbs](https://open.spotify.com/album/729KNJXudnLaQoZkCnYeDc) | 2:35 | 2024-02-26 |  |
 | [bugfood](https://open.spotify.com/track/3s5ztgTkbaWTYuiLCgf3SY) | [Alissic](https://open.spotify.com/artist/0xl41ilVNOin4ycHsggk7u) | [bugfood](https://open.spotify.com/album/52xufJVqlIC2itNpk3Hc8r) | 3:26 | 2024-02-26 |  |
+| [Butterflies](https://open.spotify.com/track/2gCZpfBPmMQ26t6yVPYMA1) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Butterflies](https://open.spotify.com/album/2tKcHyeDAbtdoOJ6EpoCXR) | 2:51 | 2024-09-03 |  |
 | [Cherry Gum](https://open.spotify.com/track/1cUG4UvqGEWSMtSt2TvK1m) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Cherry Gum](https://open.spotify.com/album/4NC5vzI0hgh3c9t0bcr4KV) | 2:48 | 2024-02-26 |  |
 | [Circus](https://open.spotify.com/track/0HKV81jHT0tFxoLLYskYOr) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Circus](https://open.spotify.com/album/5gJ8mM7bAsCGEwm47Ak99J) | 2:32 | 2024-02-26 |  |
 | [Coffee](https://open.spotify.com/track/13d5kDTQqKGkx5n4uGWumz) | [Ryan O'Shaughnessy](https://open.spotify.com/artist/5xxkw4ElO0WX3v4i1W5kAQ) | [Coffee](https://open.spotify.com/album/4M1SzV5b67tziejWV7JM5t) | 2:55 | 2024-02-26 |  |
@@ -30,6 +31,7 @@
 | [day i die](https://open.spotify.com/track/6OiLEkbkyXxaDE2PXYi6js) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:55 | 2024-05-12 |  |
 | [Don't Wake Me](https://open.spotify.com/track/6PWxbGXyK8X8FNbnprbfk7) | [Damian McGinty](https://open.spotify.com/artist/55vhWUMlow4Z91foJtpm1Y) | [Those Were the Days](https://open.spotify.com/album/22f6PrUj5bGs2JFNkabso5) | 3:10 | 2024-03-10 |  |
 | [Dopamine](https://open.spotify.com/track/09pDFuRiJpAwTIifF3aPht) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Dopamine](https://open.spotify.com/album/2QWxTZD0HTnNj4JTLCTzJH) | 3:05 | 2024-08-15 |  |
+| [Double Vision](https://open.spotify.com/track/2pfyDztdrbcvB3ommeiCSR) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Brodie](https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t) | [Double Vision](https://open.spotify.com/album/4BqyUjSItakCqDyxWqBbxk) | 2:11 | 2024-09-03 |  |
 | [Everyone Hurts](https://open.spotify.com/track/4684BKYqC3TVInNVrqQOCx) | [Ewan Mainwood](https://open.spotify.com/artist/0sYD7tLwt7uBajEg4adh6u) | [I Found You EP](https://open.spotify.com/album/5h5ux1uJHaRo82sDyhNOin) | 3:25 | 2024-02-26 |  |
 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/3BRI2KJHYRJfse5DYmyoxM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 2:36 | 2024-02-26 |  |
 | [Fairytales Are Nightmares](https://open.spotify.com/track/0gnZMoS21NdAPtqM5va32c) | [Bailey333](https://open.spotify.com/artist/5DQGlDPmc9tzUORPhavWet) | [Fairytales Are Nightmares](https://open.spotify.com/album/0MndFwMnPLQFelpaZW8jYN) | 2:31 | 2024-02-26 |  |

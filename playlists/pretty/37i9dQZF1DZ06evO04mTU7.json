@@ -1,12 +1,12 @@
 {
-  "description": "This is Ajuliacosta. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 5612,
+  "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
+  "num_followers": 5630,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACTJZqI6dC+8KSg+X/LBRco",
+  "snapshot_id": "ZtUAAAAAAACJZs6YHfemlthgN+X7i36l",
   "tracks": [
     {
       "added_at": null,
@@ -407,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Mulher",
-        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
+        "name": "Unic\u00f3rnio",
+        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
       },
       "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
         {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 174254,
-      "name": "Outra Mulher",
-      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
+      "duration_ms": 183005,
+      "name": "P\u00e2nico",
+      "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unic\u00f3rnio",
-        "url": "https://open.spotify.com/album/1YplHKYcFpViJ5C07UpZVS"
+        "name": "Outra Mulher",
+        "url": "https://open.spotify.com/album/1Y33tqTNKUz2HOiVgwr6gB"
       },
       "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
         {
           "name": "Ajuliacosta",
           "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
         }
       ],
-      "duration_ms": 183005,
-      "name": "P\u00e2nico",
-      "url": "https://open.spotify.com/track/5g2L6Ev4rNUf5Ti4MlpOsT"
+      "duration_ms": 174254,
+      "name": "Outra Mulher",
+      "url": "https://open.spotify.com/track/2KFpGefUE516szUT6Pyplp"
     },
     {
       "added_at": null,

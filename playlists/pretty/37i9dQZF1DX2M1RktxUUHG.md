@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 
 > The biggest songs of the 2020s\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,303 likes - 150 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,596 likes - 150 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -155,7 +155,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2M1RktxUUHG.md) - [plain]
 | 145 | [Big Energy](https://open.spotify.com/track/4pi1G1x8tl9VfdD9bL3maT) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 2:52 |
 | 146 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
 | 147 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
-| 148 | [Bad Habits](https://open.spotify.com/track/6ex1Pz3pntgy4NPtxHXN2V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:50 |
+| 148 | [Bad Habits](https://open.spotify.com/track/6ex1Pz3pntgy4NPtxHXN2V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:50 |
 | 149 | [Nonsense](https://open.spotify.com/track/6jSQ6c7OkA4ExGWM61uYcS) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:43 |
 | 150 | [I'm Just Ken \(From Barbie The Album\)](https://open.spotify.com/track/7jPdqwZug0ovtDZsY5uK4T) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [I’m Just Ken \(From Barbie The Album\)](https://open.spotify.com/album/6OvDrWqXGbPBTyovcFmQO5) | 3:42 |
 

@@ -1,6 +1,6 @@
 {
   "description": "Emo feels for the misunderstood. Cover: mgk & Trippie Redd",
-  "num_followers": 1600587,
+  "num_followers": 1600717,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
@@ -1831,13 +1831,17 @@
     {
       "added_at": "2024-02-02 05:00:00",
       "album": {
-        "name": "Ghostrider (Clean)",
+        "name": "Ghostrider",
         "url": "https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE"
       },
       "artists": [
         {
           "name": "TOKYO\u2019S REVENGE",
           "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        },
+        {
+          "name": "Watchmen Pro",
+          "url": "https://open.spotify.com/artist/1U9ynOVbcth6s4fzInM285"
         }
       ],
       "duration_ms": 132712,

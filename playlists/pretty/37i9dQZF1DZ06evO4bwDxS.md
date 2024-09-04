@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 
 > This is Sabrina Carpenter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,795 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 370,940 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 24 | [Slim Pickins](https://open.spotify.com/track/0XkZmBCCcdMY0EPY8ij6Gb) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:32 |
 | 25 | [Already Over](https://open.spotify.com/track/5QhJorJmjqYfETfqgBtGg3) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:50 |
 | 26 | [Lonesome](https://open.spotify.com/track/0HYhOGKAHiOsv8GW4JdMJ8) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:07 |
-| 27 | [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 |
-| 28 | [Why](https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Why](https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7) | 2:51 |
+| 27 | [Why](https://open.spotify.com/track/1byScELwcJffsdL5QWa6Yk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Why](https://open.spotify.com/album/55QjSqhCofvsx559gCIMI7) | 2:51 |
+| 28 | [Exhale](https://open.spotify.com/track/6CagMrZXJUdGGIw6Eaepos) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Singular Act II](https://open.spotify.com/album/19KilSbbeHRFFZM7ChwTdP) | 2:44 |
 | 29 | [Nonsense \- Sped Up Version](https://open.spotify.com/track/5KeI897tZgjezHKvxlaOaR) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Nonsense \(Sped Up Version\)](https://open.spotify.com/album/23eBqMqUmcb1wcxuXfYw6k) | 2:17 |
 | 30 | [skinny dipping](https://open.spotify.com/track/436RVcyrHyXdqYNWGYMxx5) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 2:57 |
 | 31 | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/6Ft6nfssjDYmgmXF19poJE) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Cupid – Twin Ver\. \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/78cUZ3f7KXyEIPVTD3WsDp) | 2:53 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4bwDxS.md) - [plain]
 | 50 | [Tricky \- Sped Up](https://open.spotify.com/track/5ncSBBGWH1yfHqHI2CU3Kc) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Tricky \- Sped Up](https://open.spotify.com/album/4b3ATqkc7kdVSdqGmkhFvy) | 2:12 |
 | 51 | [Shadows](https://open.spotify.com/track/65RTUeyKsXuiIocxEzYhMY) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [EVOLution](https://open.spotify.com/album/7iOAJaGBmk67o337zaqt0R) | 2:52 |
 
-Snapshot ID: `ZtOugAAAAAC5GGvoYwOU6cf2/POuZ0bC`
+Snapshot ID: `ZtUAAAAAAABCqko33b2oE9FzE2RcEN9+`

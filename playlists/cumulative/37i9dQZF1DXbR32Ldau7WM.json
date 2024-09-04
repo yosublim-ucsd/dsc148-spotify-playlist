@@ -615,6 +615,24 @@
     },
     {
       "album": {
+        "name": "The Unforgettables E.P.",
+        "url": "https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM"
+      },
+      "artists": [
+        {
+          "name": "MONOEYES",
+          "url": "https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168173,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/6jMFeJN63salxChERxBq2z"
       },
@@ -922,7 +940,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 321003,
       "name": "Beyond the Raindrops",
       "url": "https://open.spotify.com/track/3Bjr4ODvUR6mY2pa7sVYXX"
@@ -1448,6 +1466,28 @@
       "duration_ms": 220580,
       "name": "Bug",
       "url": "https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH"
+    },
+    {
+      "album": {
+        "name": "BULLDOZER",
+        "url": "https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK"
+      },
+      "artists": [
+        {
+          "name": "PAS TASTA",
+          "url": "https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS"
+        },
+        {
+          "name": "Eastern Margins",
+          "url": "https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161160,
+      "name": "BULLDOZER",
+      "url": "https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD"
     },
     {
       "album": {
@@ -4824,7 +4864,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 327920,
       "name": "Koino Mega Lover",
       "url": "https://open.spotify.com/track/2FGJsygiQplOyghzm99BWZ"
@@ -7636,7 +7676,7 @@
       ],
       "date_added": "2024-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 242000,
       "name": "Pure Green",
       "url": "https://open.spotify.com/track/5BTPjsqZlFKsvXaSaNEnTc"
@@ -13232,7 +13272,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 384013,
       "name": "\u30a2\u30ca\u30b6\u30fc\u30ef\u30fc\u30eb\u30c9\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/3XkGAnx7i8OcFTIEcmVOUP"
@@ -17709,6 +17749,24 @@
     },
     {
       "album": {
+        "name": "\u3044\u3044\u306d!",
+        "url": "https://open.spotify.com/album/6Wnq2e17LS8rJ874gJpVcb"
+      },
+      "artists": [
+        {
+          "name": "Sunny Day Service",
+          "url": "https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189254,
+      "name": "\u6625\u306e\u98a8",
+      "url": "https://open.spotify.com/track/3IQKbvczPlL3PM9lryjroa"
+    },
+    {
+      "album": {
         "name": "\u30d3\u30a2\u30c8\u30ea\u30b9",
         "url": "https://open.spotify.com/album/15s87sPhqCsoeUXfPdnEA2"
       },
@@ -19836,6 +19894,24 @@
       "duration_ms": 245666,
       "name": "\u9752\u3044\u306e\u3002",
       "url": "https://open.spotify.com/track/2wksGIcdJ5C0XPZLeTnSMM"
+    },
+    {
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/5FSNEQcyQtmVeizw5j5Y8b"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324767,
+      "name": "\u9752\u306e\u6714\u65e5",
+      "url": "https://open.spotify.com/track/4juomwTgjpVtOKLaiSsJKS"
     },
     {
       "album": {

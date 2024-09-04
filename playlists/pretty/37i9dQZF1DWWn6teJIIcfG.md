@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 
 > Get your creative juices flowing with these classical and instrumental masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,284 likes - 120 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,349 likes - 120 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,6 +127,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWn6teJIIcfG.md) - [plain]
 | 117 | [Våren](https://open.spotify.com/track/3oBshZ7DMS9sAgja2M1JVV) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Sjur Hjeltnes](https://open.spotify.com/artist/00mQwnjEdHLqoVBApNy3V3), [Tor Jaran Apold](https://open.spotify.com/artist/4Nol1HGGDvKNu5oqQZyY23) | [Norway](https://open.spotify.com/album/5CO47sQ8DX7uMbJbQ8uM38) | 4:54 |
 | 118 | [Requiem for Cello Alone: IV\. Lacrimosa](https://open.spotify.com/track/0aYtpkDdoua0zUqRoX2csM) | [Peter Sculthorpe](https://open.spotify.com/artist/31rgljsVrzeRFFnJXOYq5J), [Richard Narroway](https://open.spotify.com/artist/5xRz6Mr5zBY2D0vDDKYDy4) | [Requiem](https://open.spotify.com/album/2tgroBhBrUTlMUxGZ7pQts) | 2:27 |
 | 119 | [Valses Poéticos H\. 147, DLR 7:8: No\. 1: Melódico](https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s) | [Enrique Granados](https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT), [Xavier De Maistre](https://open.spotify.com/artist/65T5r0RCfJBz5z0gdEkgRp) | [Klassieke Muziek voor Zondagochtend](https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn) | 1:36 |
-| 120 | [Plus tôt \(String Quartet Version\) \- Spotify Singles](https://open.spotify.com/track/6ZysJ6PE8La1gj5LXh6DJw) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Spotify Singles](https://open.spotify.com/album/4xLIYDhsKI2FJp4zwZuGGI) | 3:53 |
+| 120 | [Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche](https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj) | [Marc\-Antoine Charpentier](https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s), [Andrew Parrott](https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM) | [Klara4Kids: Sterren en Sneeuwvlokken \- Klassiek onder de kerstboom](https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy) | 1:09 |
 
 Snapshot ID: `ZlA6lQAAAABjRfUNadJ0CFPIPHM5S67z`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3omIq8ziEt6.md) - [plain]
 
 > Timeless Latin hits\. A 20 años de Barrio Fino\. Cover: Daddy Yankee
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,892,301 likes - 150 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,892,230 likes - 150 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

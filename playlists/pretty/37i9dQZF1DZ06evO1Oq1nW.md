@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 
 ### [This Is The O'Jays](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Oq1nW)
 
-> This is The O'Jays\. Todos os maiores hits em uma só playlist.
+> This is The O'Jays\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,767 likes - 50 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,777 likes - 50 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 19 | [Let Me Make Love To You](https://open.spotify.com/track/5XTdQEuQhO3sUCcm2K1YnR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 3:36 |
 | 20 | [Sunshine](https://open.spotify.com/track/1J1QKnproZR0JkQ7Der8IW) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Back Stabbers](https://open.spotify.com/album/09jTPeDoSuJLLAwFGNUKCX) | 3:41 |
 | 21 | [Your Body's Here with Me \(But Your Mind's on the Other Side of Town\)](https://open.spotify.com/track/17I6vlUf2z1747kHsGmEF0) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:46 |
-| 22 | [I Want You Here With Me](https://open.spotify.com/track/4EkLSFVmsXd2c0GZSPpCFI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:25 |
-| 23 | [Let Me Touch You](https://open.spotify.com/track/5DqMdR9SmhgTRF0DsRI7fJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:52 |
+| 22 | [Let Me Touch You](https://open.spotify.com/track/5DqMdR9SmhgTRF0DsRI7fJ) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Let Me Touch You](https://open.spotify.com/album/5EUSiCoJpa682wyPMqBy4j) | 4:52 |
+| 23 | [I Want You Here With Me](https://open.spotify.com/track/4EkLSFVmsXd2c0GZSPpCFI) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 5:25 |
 | 24 | [Livin' for the Weekend](https://open.spotify.com/track/6FxjvmfQuS4DUuUC0yC4bo) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Family Reunion \(Expanded Edition\)](https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD) | 6:36 |
 | 25 | [You Won't Fail](https://open.spotify.com/track/4EMwieymtOOg9Etmykn1GO) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Year 2000](https://open.spotify.com/album/0nhMUUe0BUwd8YBj7aLkot) | 5:18 |
 | 26 | [Put Our Heads Together](https://open.spotify.com/track/0pukPFDJHfirD3pebGYL1a) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [When Will I See You Again](https://open.spotify.com/album/1oOMRwM09IKQwzydqUm4x1) | 5:40 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 28 | [Help \(Somebody Please\)](https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [So Full Of Love](https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4) | 4:59 |
 | 29 | [Sing A Happy Song](https://open.spotify.com/track/3HsBtrErYQjxf4Pv2p05Oy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 4:59 |
 | 30 | [Fading](https://open.spotify.com/track/1nq2iaxAzhVWeAszQHiJ7R) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Serious](https://open.spotify.com/album/5nZjWXpp6xHMshWatGuHUG) | 6:46 |
-| 31 | [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 |
-| 32 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
+| 31 | [Deeper \(In Love with You\)](https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The O'Jays In Philly](https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP) | 2:39 |
+| 32 | [Give the People What They Want](https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Survival](https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb) | 4:10 |
 | 33 | [Put Your Hands Together](https://open.spotify.com/track/57yGqjGKJUIzgKWdIZo9aR) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 4:07 |
 | 34 | [Keep On Lovin' Me](https://open.spotify.com/track/6rpsIgRcHpiyK47Tqmym0v) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Emotionally Yours](https://open.spotify.com/album/1RkRxV7AWspDjtJxiuuQYf) | 4:43 |
 | 35 | [Start Stoppin'](https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Last Word](https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt) | 4:09 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Oq1nW.md) - [plain]
 | 46 | [Ship Ahoy](https://open.spotify.com/track/5GTd3l7ShrGaziT7kvnNnj) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Ship Ahoy \(Expanded Edition\)](https://open.spotify.com/album/0prtrB4HNL9tiEeAv57Bz8) | 9:37 |
 | 47 | [Wildflower \- Live at Hammersmith Odeon, London, England \- December 1973](https://open.spotify.com/track/7rMPj6IZQGoLT75rC8m1m3) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Live In London](https://open.spotify.com/album/3hfWpCxiuNDogbYIbx4ZQg) | 9:43 |
 | 48 | [Work on Me](https://open.spotify.com/track/3IlG5BCaW8OYvX2B6SDSSt) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Travelin' At The Speed Of Thought](https://open.spotify.com/album/7yov15wgCCwdnYKt0edevV) | 4:28 |
-| 49 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
-| 50 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
+| 49 | [Let Life Flow](https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:29 |
+| 50 | [My Favorite Person](https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [My Favorite Person](https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya) | 4:15 |
 
-Snapshot ID: `ZtOugAAAAAAvQdymd3x+WygN9yf00OOI`
+Snapshot ID: `ZtUAAAAAAADIkcX/mGPRpHmWwhqWvyY7`

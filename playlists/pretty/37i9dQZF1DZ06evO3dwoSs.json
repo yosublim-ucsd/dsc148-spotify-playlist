@@ -1,12 +1,12 @@
 {
   "description": "This is Five Finger Death Punch. The essential tracks, all in one playlist.",
-  "num_followers": 549765,
+  "num_followers": 549839,
   "original_name": "This Is Five Finger Death Punch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADn57RnESlPiW1gauwC5OyP",
+  "snapshot_id": "ZtUAAAAAAADLR4d7tvRNbQKERLEHyusH",
   "tracks": [
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Decade of Destruction",
-        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 275212,
-      "name": "Gone Away",
-      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 202249,
       "name": "Full Circle",
       "url": "https://open.spotify.com/track/76CWLFHm3OFuE2P1dDMhi3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Decade of Destruction",
+        "url": "https://open.spotify.com/album/3jYRtHlssd7nxmOW0mY3l2"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 275212,
+      "name": "Gone Away",
+      "url": "https://open.spotify.com/track/6WmfUWWGRnE2yPaH0pbqDk"
     },
     {
       "added_at": null,

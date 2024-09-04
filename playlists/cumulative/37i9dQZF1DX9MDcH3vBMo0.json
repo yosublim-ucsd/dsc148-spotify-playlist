@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 136691,
       "name": "Adormitor",
       "url": "https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl"
@@ -1366,7 +1366,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 180218,
       "name": "Broparken",
       "url": "https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5"
@@ -5828,6 +5828,24 @@
       "duration_ms": 180124,
       "name": "L'habit ne fait pas le moine",
       "url": "https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9treinte Des Souvenirs",
+        "url": "https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Laurent",
+          "url": "https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "L'\u00e9treinte Des Souvenirs",
+      "url": "https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r"
     },
     {
       "album": {
@@ -12802,6 +12820,24 @@
       "duration_ms": 137968,
       "name": "Unfinished Story",
       "url": "https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py"
+    },
+    {
+      "album": {
+        "name": "Unique New York",
+        "url": "https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m"
+      },
+      "artists": [
+        {
+          "name": "Peiskos",
+          "url": "https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183800,
+      "name": "Unique New York",
+      "url": "https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT"
     },
     {
       "album": {

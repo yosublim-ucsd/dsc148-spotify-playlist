@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-384 songs - 23 hr 27 min
+385 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Anestesiada \(feat\. Luis Miguel Del Amargue\)](https://open.spotify.com/track/0E4h8zC9FLEAFia0XzRL1e) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [LLAMADA PERDIDA](https://open.spotify.com/album/14ZGI8bUlOfVKT8SBLFjjT) | 3:49 | 2024-02-16 |  |
 | [Antes del Lunes](https://open.spotify.com/track/6yVGk00COgjDJbHELkO109) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Este Soy Yo](https://open.spotify.com/album/62FZyT9vBsUAD85XxomugZ) | 3:42 | 2022-09-09 | 2024-04-19 |
 | [Anímate](https://open.spotify.com/track/47KM8wYv36ePhmoDj8ybwU) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2) | [Anímate](https://open.spotify.com/album/2RaMQaXU0ZQgokm44kVgIq) | 3:38 | 2023-04-11 | 2023-07-29 |
-| [Aquí Abajo](https://open.spotify.com/track/3hsjGTNxyA4YTzzgLIggzv) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Aquí Abajo](https://open.spotify.com/album/4G9E6CiMHtJFw7mdSFlBIB) | 3:18 | 2024-02-09 |  |
+| [Aquí Abajo](https://open.spotify.com/track/3hsjGTNxyA4YTzzgLIggzv) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs) | [Aquí Abajo](https://open.spotify.com/album/4G9E6CiMHtJFw7mdSFlBIB) | 3:18 | 2024-02-09 | 2024-09-04 |
 | [ASI ES LA VIDA](https://open.spotify.com/track/0Me3GyNuLOa1YTIxhJPyCn) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [ASI ES LA VIDA](https://open.spotify.com/album/6qW93Zylfk7oxZ8ZzwjkL5) | 2:52 | 2023-09-29 |  |
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2022-03-04 | 2024-01-13 |
 | [atravesao](https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [atravesao](https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr) | 3:20 | 2022-03-04 | 2022-09-03 |
@@ -363,6 +363,7 @@
 | [Traiganme Alcohol](https://open.spotify.com/track/7bWXvDVdp8CsNozvQ4lD9X) | [JFab & Paola Fabre](https://open.spotify.com/artist/1652mfhXA8ApJ7devxmKds) | [Traiganme Alcohol](https://open.spotify.com/album/2EnYFxOn9lnYDGcExmfELE) | 3:54 | 2022-03-25 | 2022-07-27 |
 | [Tres Veces](https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Tres Veces](https://open.spotify.com/album/4uzfousUQ1sZZltZU9kH5q) | 3:32 | 2024-05-17 |  |
 | [Tu Eres Ajena \- Bachata](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 | 2022-03-04 | 2024-01-13 |
+| [TU FEO](https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:56 | 2024-09-03 |  |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-03-04 | 2022-09-03 |
 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 | 2022-09-09 | 2023-04-30 |
 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 | 2022-03-25 | 2022-09-03 |

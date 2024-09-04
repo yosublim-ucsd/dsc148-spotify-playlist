@@ -103,6 +103,28 @@
     },
     {
       "album": {
+        "name": "Anxious (Feat. The Deep)",
+        "url": "https://open.spotify.com/album/7IycamfugtbcUeDk3Tqu8v"
+      },
+      "artists": [
+        {
+          "name": "JINex",
+          "url": "https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT"
+        },
+        {
+          "name": "The Deep",
+          "url": "https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187641,
+      "name": "Anxious (Feat. The Deep)",
+      "url": "https://open.spotify.com/track/5bpXlLyRHhUhd2UiGyr752"
+    },
+    {
+      "album": {
         "name": "Moodswings In To Order",
         "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
       },
@@ -328,6 +350,24 @@
       "duration_ms": 219034,
       "name": "Dance",
       "url": "https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98"
+    },
+    {
+      "album": {
+        "name": "Roses/Dandelion",
+        "url": "https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3"
+      },
+      "artists": [
+        {
+          "name": "JAEHYUN",
+          "url": "https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby"
     },
     {
       "album": {
@@ -1618,6 +1658,28 @@
       "duration_ms": 178500,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ"
+    },
+    {
+      "album": {
+        "name": "So I`m (build-up)",
+        "url": "https://open.spotify.com/album/0GIyg7jc4BAzIz50meah5e"
+      },
+      "artists": [
+        {
+          "name": "Meludima",
+          "url": "https://open.spotify.com/artist/5KuqJ1wfy3MTV4c2B0jJ3B"
+        },
+        {
+          "name": "HB",
+          "url": "https://open.spotify.com/artist/4dZSeSzF2tUTtEluKXl1gP"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150750,
+      "name": "So I`m (build-up)",
+      "url": "https://open.spotify.com/track/5ZV3FzMKyMLPo5yfHcVd94"
     },
     {
       "album": {

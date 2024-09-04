@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 
 > Turn traffic stops into jam sessions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,694 likes - 80 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,797 likes - 80 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NsREGkRuCe.md) - [plain]
 | 8 | [One Call](https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [One Call](https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a) | 2:38 |
 | 9 | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41) | [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k), [Yuppe](https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [S.N.E](https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF) | [Tshwala Bam \(feat\. S.N.E\)](https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2) | 3:23 |
 | 10 | [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 |
-| 11 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
+| 11 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
 | 12 | [Higher](https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Higher](https://open.spotify.com/album/2Ti12rxuf2NZ22iUzUXSNP) | 2:17 |
 | 13 | [EGWU EJI](https://open.spotify.com/track/1XjhPexco85M6Xzyxiqdwl) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [EGWU EJI](https://open.spotify.com/album/4qHRBQjsGaIRqJOqPR2z1p) | 2:52 |
 | 14 | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0) | [Smur Lee](https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [JUJU \(feat\. Shallipopi\)](https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL) | 2:37 |

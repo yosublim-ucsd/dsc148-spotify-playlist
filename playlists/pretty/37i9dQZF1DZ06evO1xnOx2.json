@@ -1,12 +1,12 @@
 {
   "description": "This is Hozier. The essential tracks, all in one playlist.",
-  "num_followers": 541099,
+  "num_followers": 541397,
   "original_name": "This Is Hozier",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADzIPGOXQd+PWkzZl73MOem",
+  "snapshot_id": "ZtUAAAAAAACHSx+0lMAu51o6zGYjGO/o",
   "tracks": [
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 222177,
-      "name": "Wildflower and Barley (feat. Allison Russell)",
-      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "God of War Ragnar\u00f6k (Original Soundtrack)",
         "url": "https://open.spotify.com/album/7LmeRZOi905AochW9J9FAA"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 271696,
       "name": "Blood Upon the Snow",
       "url": "https://open.spotify.com/track/5cgacDGTfR9sm4W03syTyX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 222177,
+      "name": "Wildflower and Barley (feat. Allison Russell)",
+      "url": "https://open.spotify.com/track/7zTZfbO4ZiK69Y6nO4iyO9"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 188454,
-      "name": "Fare Well",
-      "url": "https://open.spotify.com/track/26YxqhG0XM48N7NgWFieHy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 267413,
       "name": "Say My Name - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2xbuycY0MolcTZGENc4PuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 188454,
+      "name": "Fare Well",
+      "url": "https://open.spotify.com/track/26YxqhG0XM48N7NgWFieHy"
     },
     {
       "added_at": null,

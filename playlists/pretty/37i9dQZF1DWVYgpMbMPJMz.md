@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:44tJHJzGo1h7XbBTepJwb0">Ke'Erron</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,141 likes - 100 songs - 9 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,206 likes - 100 songs - 9 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

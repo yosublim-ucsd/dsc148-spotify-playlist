@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-217 songs - 12 hr 30 min
+221 songs - 12 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A whiter shade of pale](https://open.spotify.com/track/7gb7bAdUDArVuoyNh2F90F) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [A whiter shade of pale](https://open.spotify.com/album/7MfYvNk4UVEAZgkKZP05eA) | 2:37 | 2023-02-06 |  |
 | [A Whole New World](https://open.spotify.com/track/0kQ0rvBDN3cT6ZIEDp1ryF) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx), [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [A Whole New World](https://open.spotify.com/album/6EMXsQS2TW8Nd0NjDg7XZ6) | 3:52 | 2021-11-25 |  |
 | [A Whole New World](https://open.spotify.com/track/5d9t0UyUemjI72NdD8zDD8) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx), [The Theorist](https://open.spotify.com/artist/6N1GBr0koYYU0W59ECgg5u) | [A Whole New World](https://open.spotify.com/album/7IcMPl3HJw4i0T6REI24hv) | 3:52 | 2022-07-15 | 2024-04-19 |
+| [A Whole New World](https://open.spotify.com/track/0Wr5xMDOdKaHW3ZRI7WRCb) | [Robin Colt](https://open.spotify.com/artist/4vLD4ziTg1lKE9jSJfa4JH) | [A Whole New World](https://open.spotify.com/album/5WPgDPxl0wS58SbjbeuM7x) | 1:34 | 2024-09-03 |  |
 | [Africa](https://open.spotify.com/track/3Kc0NNnkfVyNQbnOONWgeE) | [Lars Florence](https://open.spotify.com/artist/4ruYri05LUlpHAX2k9Pyo2) | [Africa](https://open.spotify.com/album/1wwzqz8EeieZrlEA6zkwd8) | 3:28 | 2024-07-23 |  |
 | [Ain't No Sunshine](https://open.spotify.com/track/6yLcsEgiCCn6gxVXtGCWQz) | [Nicholas Yee](https://open.spotify.com/artist/06U7PNo4pPFgmTC2Yqr2Rx) | [Cello Covers](https://open.spotify.com/album/1rhVOuaB488YSTGUl5GuvJ) | 2:06 | 2021-11-25 | 2023-02-15 |
 | [All Of Me](https://open.spotify.com/track/1BpGZ5bqIC0F6nbK27G4xP) | [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3) | [Pop Goes Classical](https://open.spotify.com/album/20Et1l6jsJdticffIphZQP) | 3:18 | 2022-07-15 | 2023-02-15 |
@@ -35,6 +36,7 @@
 | [Blinding Lights](https://open.spotify.com/track/1e9wX7xPvovxtSyMzRCTIM) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/5lw6kBIgVHjRPQ1adMBiwN) | 2:53 | 2021-11-25 |  |
 | [Blinding Lights](https://open.spotify.com/track/4qAeCVBiLVpG56P4KOL5sE) | [BAWK](https://open.spotify.com/artist/6cwnpm0nvjKlK4YayMGBl9) | [Blinding Lights](https://open.spotify.com/album/1gLQuDNomgHQQlW2oFJAfj) | 2:53 | 2022-09-09 | 2024-04-19 |
 | [Blue \(Da Ba Dee\)](https://open.spotify.com/track/4JGD5NiVmKVGBjVysCvKIw) | [Christian Lindquist](https://open.spotify.com/artist/2QiW536ikg1NgIkaCvRg8s) | [Blue \(Da Ba Dee\)](https://open.spotify.com/album/1oFuXts0JAGBn1OhcWZp2F) | 2:59 | 2023-03-07 |  |
+| [Can You Feel the Love Tonight](https://open.spotify.com/track/3osEK0HswvG6A84LqrCBjf) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Can You Feel the Love Tonight](https://open.spotify.com/album/53DAURj2Zj5igvfViNepDL) | 3:43 | 2024-09-03 |  |
 | [cardigan \- Bonus Track](https://open.spotify.com/track/2zxv5woj8aMPkAhGsHDxI5) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2020, Vol\. 2 \(Deluxe Version\)](https://open.spotify.com/album/4r4RPtmQBIHxmMrK7pwbyw) | 3:52 | 2022-11-18 | 2022-11-26 |
 | [Castle on the Hill](https://open.spotify.com/track/50rkiMIech8x1lf3YtNVAS) | [Vic Carnes](https://open.spotify.com/artist/3b0FZ0avKzKFw9ZEJacpx0) | [Castle on the Hill](https://open.spotify.com/album/2eTKkBOv6vCCYyLXxFfoVa) | 3:02 | 2023-10-16 |  |
 | [Ceilings \(arr\. piano\)](https://open.spotify.com/track/4APasGM4QM39lYXiUZVD7A) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Ceilings \(arr\. piano\)](https://open.spotify.com/album/25q58qrmESNApR2aVHSc5I) | 2:28 | 2023-06-20 | 2023-09-23 |
@@ -86,6 +88,7 @@
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-07 |  |
 | [God Help the Outcasts](https://open.spotify.com/track/6Gc3wspd9Xqx4BlGHxWpqE) | [Vanessa Khan](https://open.spotify.com/artist/6cjzprtxAqmx74FtQbotMV) | [God Help the Outcasts](https://open.spotify.com/album/07leyNFhgegG6d02Be7wck) | 2:08 | 2023-09-05 |  |
 | [God's Plan](https://open.spotify.com/track/0u3JkMF1s1fbKt3FyIEBdq) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2018](https://open.spotify.com/album/3mg5bKwAv9VmWE1mrxLj31) | 2:23 | 2022-11-18 | 2022-11-26 |
+| [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 | 2024-09-03 |  |
 | [Goodbye Yellow Brick Road](https://open.spotify.com/track/4NyXOt1GM6PaSyg7kkPI9u) | [Georg Erixon](https://open.spotify.com/artist/2YohShuz0Lf4i09lImCR5r) | [Goodbye Yellow Brick Road](https://open.spotify.com/album/2ltdhm5JuSUm5L0DizaUwO) | 3:13 | 2021-11-25 |  |
 | [Got Me Started](https://open.spotify.com/track/57oJOxhRWwsuUQHt9HqGaS) | [Terracciano](https://open.spotify.com/artist/0Kk92lO49EF9Bk39qRycLl) | [Got Me Started](https://open.spotify.com/album/6d1tsnZvDEndqo4F8olKAs) | 3:47 | 2023-12-12 |  |
 | [Greatest Love of All](https://open.spotify.com/track/5jgYxqTewXtM1qcsWHnawA) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [Two from the 80s](https://open.spotify.com/album/6NuD4zVpPFvzJUESLH5svW) | 3:52 | 2023-04-04 |  |
@@ -108,6 +111,7 @@
 | [Hurt](https://open.spotify.com/track/0WLROcssjMREbas0oDpFkA) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/3hV5sj8yGvFHtEkdeJ95yH) | 6:12 | 2022-11-25 | 2023-04-19 |
 | [Hurt](https://open.spotify.com/track/5ssa7x1KD6XqPVqhwVgnA0) | [Holly Bowling](https://open.spotify.com/artist/71Mye1Ra0QWncFulgq354r) | [Alone Together, Vol 6 \(The Living Room Sessions\)](https://open.spotify.com/album/451tLMhR2ySWscHJiWQXs6) | 6:12 | 2021-11-25 | 2023-01-01 |
 | [I Can't Make You Love Me](https://open.spotify.com/track/0njEZi0FP5dUAXcXZqCoXG) | [Therése Therén](https://open.spotify.com/artist/27L2UTyUaO5OCJSNPYgks6) | [I Can't Make You Love Me](https://open.spotify.com/album/3LzJrPwnAKdK0CWGlFb3FM) | 3:31 | 2024-03-04 |  |
+| [I Just Can't Stop Loving You](https://open.spotify.com/track/3AEHG55q4GF9zFgtMdQMQi) | [Oliver Young](https://open.spotify.com/artist/1v27VC8z9CqB2tpHBzZ0xv) | [I Just Can't Stop Loving You](https://open.spotify.com/album/0maykbcNsWHDhZ7TGMq4jn) | 3:34 | 2024-09-03 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 | 2024-04-19 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 |  |

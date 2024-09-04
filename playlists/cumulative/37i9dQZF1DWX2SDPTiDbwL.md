@@ -4,7 +4,7 @@
 
 > El precioso sonido de la guitarra flamenca, perfecto para evadirte.
 
-98 songs - 6 hr 38 min
+100 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Lluvia y Fuego](https://open.spotify.com/track/2Yw9EKOdXCIsZlW2Z5fSSK) | [El Mondao](https://open.spotify.com/artist/6ZWL87UA30dQLCwP9pcJp6), [El Mori de Aguilas](https://open.spotify.com/artist/1uBEhNHvzx8B4cm8ihJKz4), [Paco de Sevilla](https://open.spotify.com/artist/72Ik41iwiim8HUTilM6FSL), [Pepe El Marques](https://open.spotify.com/artist/4mF5KYqhyuBKTZHvnOeGI6), [El Fosi](https://open.spotify.com/artist/0ALDT54x6p28C0xobYE1uZ), [Paquito Gomez](https://open.spotify.com/artist/6msMiaHArZdAQeurrwjKvU) | [Flamenco](https://open.spotify.com/album/0PfYBxRtVurOuMWebBmgw9) | 4:59 | 2023-09-01 | 2024-04-19 |
 | [Lluvia y Fuego](https://open.spotify.com/track/3TgwdNzeyBDULQegzflZpN) | [El Mondao](https://open.spotify.com/artist/6ZWL87UA30dQLCwP9pcJp6), [El Mori de Aguilas](https://open.spotify.com/artist/1uBEhNHvzx8B4cm8ihJKz4), [Paco de Sevilla](https://open.spotify.com/artist/72Ik41iwiim8HUTilM6FSL), [Pepe El Marques](https://open.spotify.com/artist/4mF5KYqhyuBKTZHvnOeGI6), [El Fosi](https://open.spotify.com/artist/0ALDT54x6p28C0xobYE1uZ), [Paquito Gomez](https://open.spotify.com/artist/6msMiaHArZdAQeurrwjKvU) | [Flamenco](https://open.spotify.com/album/3yrSGcqHmoqeOZqP1xkRb1) | 4:59 | 2024-04-05 |  |
 | [Lozana](https://open.spotify.com/track/1huCke5q1BjT7VxypUCrc6) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Lozana](https://open.spotify.com/album/4iHmLYrL4zab3KOyydNKNb) | 2:09 | 2023-09-01 |  |
+| [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 | 2024-09-03 |  |
 | [Malaguena](https://open.spotify.com/track/7fhqEnnUSfREXfYwDlaU8d) | [Vincenzo Martinelli](https://open.spotify.com/artist/5RQtQllQERLUL3Wi4VCIQs) | [El Toro](https://open.spotify.com/album/2XAX34hK3DXVPXI30uLFX7) | 6:59 | 2023-09-01 |  |
 | [Midnight Bolero](https://open.spotify.com/track/67SBVQzIscGk8sxs3XpkPF) | [Armik](https://open.spotify.com/artist/2Z8XcWdgy5dSaiQR3d7tHK) | [Amor De Guitarra](https://open.spotify.com/album/7yoNem1kQLMondAaO3Zqa5) | 4:52 | 2023-09-01 |  |
 | [Monte Gurugú](https://open.spotify.com/track/1F33layvcNu2YUzQQFNvWW) | [Rafael Riqueni](https://open.spotify.com/artist/5eye4DlE12OQi676MhZGM4) | [Parque De María Luisa](https://open.spotify.com/album/30Z7x1x9CxJASsEq7mZ2CI) | 4:34 | 2023-09-01 |  |
@@ -101,6 +102,7 @@
 | [Torero](https://open.spotify.com/track/28wsuYdlvWeUDQCxJDbo5r) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4pVKGwZmlCJAj87KgN48KW) | 5:06 | 2024-02-01 | 2024-04-19 |
 | [Torero](https://open.spotify.com/track/24gx0KrSELx32x4rurTbEu) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/1I7Vcy2FecSv04Tb2dlAPr) | 5:07 | 2024-04-05 |  |
 | [Torero](https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ) | [Govi](https://open.spotify.com/artist/72RlKNzcCZkmb20K5dDwOB) | [Cuchama](https://open.spotify.com/album/4l6MESQt1Y9UVmF0ugDOOI) | 5:07 | 2023-09-01 | 2024-02-03 |
+| [Tu Perfume](https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO) | [Oliver De La Rosa](https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd) | [Tu Perfume](https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS) | 2:13 | 2024-09-03 |  |
 | [Una limosna por el amor de Dios](https://open.spotify.com/track/3zbnFohXXSHXve2oxxdATz) | [WarmHugs](https://open.spotify.com/artist/5aHt1vFcN24nd7PlZdzDGI) | [Una limosna por el amor de Dios](https://open.spotify.com/album/0inCL4j2ZIcg7SXi1g8FY8) | 3:18 | 2023-09-01 |  |
 | [Verdiales](https://open.spotify.com/track/0itmNtj1Mb7WTrUDqnig1Y) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/64ydWqsSid08IPBocvpOvp) | 2:07 | 2023-09-01 | 2024-04-19 |
 | [Verdiales](https://open.spotify.com/track/58fh4j02ygZ2GOOvSF77oa) | [Andres Fernandez Amador](https://open.spotify.com/artist/51I56WKQXjYbL6DApt07qO) | [Absolute Flamenco](https://open.spotify.com/album/3JyXlTgWth2WMGYl5COXQ4) | 2:10 | 2024-04-05 |  |

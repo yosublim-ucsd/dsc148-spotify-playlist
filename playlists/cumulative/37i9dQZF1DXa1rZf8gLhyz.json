@@ -636,6 +636,24 @@
     {
       "album": {
         "name": "Another Night",
+        "url": "https://open.spotify.com/album/3cwth9uUTWX6UqxZT8UVJh"
+      },
+      "artists": [
+        {
+          "name": "Kyrie Barnes",
+          "url": "https://open.spotify.com/artist/2h0vYX95bmDrALzCLg3Qn6"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140481,
+      "name": "Another Night",
+      "url": "https://open.spotify.com/track/2ihaiWqKRXbHekystmojz3"
+    },
+    {
+      "album": {
+        "name": "Another Night",
         "url": "https://open.spotify.com/album/1IwpbsnQGqr2pLaubVvXdG"
       },
       "artists": [
@@ -1996,7 +2014,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 154794,
       "name": "Disconnect",
       "url": "https://open.spotify.com/track/5qSil9FkOcQ6A1o3x6HELD"
@@ -2068,7 +2086,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 168282,
       "name": "Don't Be That Way",
       "url": "https://open.spotify.com/track/5dim4yMUDWM0c5g7sdereZ"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 144124,
       "name": "Flowers In Your Hair",
       "url": "https://open.spotify.com/track/6HuOt4gKn3RL8WuvGjjpcq"
@@ -3364,7 +3382,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 177714,
       "name": "Happy Days",
       "url": "https://open.spotify.com/track/6OXbT5aTGZDURNRG9XBNi9"
@@ -3962,6 +3980,24 @@
       "duration_ms": 218000,
       "name": "I Thought About You",
       "url": "https://open.spotify.com/track/14wxDY2TOvVXXuWpRDDJ8f"
+    },
+    {
+      "album": {
+        "name": "I Would Prefer Some Silence",
+        "url": "https://open.spotify.com/album/1e8eJva8YCGWpU43bVOJo7"
+      },
+      "artists": [
+        {
+          "name": "Tyler Marshall",
+          "url": "https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225786,
+      "name": "I Would Prefer Some Silence",
+      "url": "https://open.spotify.com/track/5B83lg61ko9jiwmf9L2CXz"
     },
     {
       "album": {
@@ -5398,7 +5434,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 177278,
       "name": "Long Ago And Far Away",
       "url": "https://open.spotify.com/track/17lWkPWGTjin8gQ85FGQer"
@@ -8696,7 +8732,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 156746,
       "name": "Tender Nocturne",
       "url": "https://open.spotify.com/track/6Cx1VeqZG4vkZdC4ffsXAy"
@@ -9225,6 +9261,24 @@
     },
     {
       "album": {
+        "name": "The Starless Sky",
+        "url": "https://open.spotify.com/album/39xSq5KeyvetuYh81NCIfu"
+      },
+      "artists": [
+        {
+          "name": "Ellie Manne",
+          "url": "https://open.spotify.com/artist/64pmY5ar3DraFZpBJcrvZf"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124611,
+      "name": "The Starless Sky",
+      "url": "https://open.spotify.com/track/6k4cBdE0ePnWZMsZZPbEu3"
+    },
+    {
+      "album": {
         "name": "The Stars Are Bright",
         "url": "https://open.spotify.com/album/141eACqjInBXxRwguRT1bS"
       },
@@ -9531,6 +9585,24 @@
     },
     {
       "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/17tAr6K75G5JpDOKpKaQpE"
+      },
+      "artists": [
+        {
+          "name": "Dee Burton",
+          "url": "https://open.spotify.com/artist/0Rthp208KPBZuFO10YIVkL"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210643,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1pgsBqRXWgOn6xe42zSSVf"
+    },
+    {
+      "album": {
         "name": "Till There Was You",
         "url": "https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud"
       },
@@ -9722,7 +9794,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 139025,
       "name": "Tune Up",
       "url": "https://open.spotify.com/track/5HnTUG7bVCzWML6a00ZUEu"

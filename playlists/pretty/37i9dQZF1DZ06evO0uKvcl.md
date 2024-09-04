@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 
 ### [This Is Howlin' Wolf](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0uKvcl)
 
-> This is Howlin' Wolf\. Todos os maiores hits em uma só playlist.
+> This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,811 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,824 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 21 | [Back Door Man](https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf](https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl) | 2:53 |
 | 22 | [Louise](https://open.spotify.com/track/0ydFfhF9IOBh4JvlBbbrgv) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:45 |
 | 23 | [Just Like I Treat You \- Single Version](https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:55 |
-| 24 | [Diddley Daddy](https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 5:11 |
-| 25 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
+| 24 | [You Gonna Wreck My Life](https://open.spotify.com/track/5hOjrnYrBXJOFhs4WM3YvT) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 2:54 |
+| 25 | [Diddley Daddy](https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 5:11 |
 | 26 | [Going Back Home](https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Smokestack Lightning /The Complete Chess Masters 1951\-1960](https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q) | 2:39 |
 | 27 | [Hidden Charms \- Single Version](https://open.spotify.com/track/3BuY7nN3DWskCCBY3wTKgE) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:20 |
 | 28 | [My Life \- Single Version](https://open.spotify.com/track/155NceRDOs2fZUXdNTNxvA) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Ain't Gonna Be Your Dog: Chess Collectibles Vol\. 2](https://open.spotify.com/album/6QdJm82BTysvMJVoT7nF61) | 3:01 |
@@ -46,11 +46,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 36 | [Long Distance Call](https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 9:14 |
 | 37 | [You Can't Be Beat \- Single Version](https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [More Real Folk Blues](https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS) | 3:11 |
 | 38 | [What A Woman](https://open.spotify.com/track/1ukHOyXTYjvDR3rKKpmnCQ) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Steve Winwood](https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte), [Charlie Watts](https://open.spotify.com/artist/5e50biMeBYtqgeMAAMPi9k), [Bill Wyman](https://open.spotify.com/artist/5TKEKLhk0wTKM5m61BtKQC) | [The London Howlin' Wolf Sessions \- Reissue](https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse) | 3:03 |
-| 39 | [I Believe I'll Dust My Broom \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/3DWc5WqUGZCTDxVUIyzZja) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 4:59 |
+| 39 | [I Didn't Mean to Hurt Your Feelings \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 5:34 |
 | 40 | [I Better Go Now \- Single Version](https://open.spotify.com/track/2YQclFbhN5AF54JZfZZM80) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Change My Way](https://open.spotify.com/album/3hiph4Eva4CueYfapJb312) | 2:42 |
 | 41 | [Stop Using Me](https://open.spotify.com/track/6Sf2fZ9SqkF1shOetY9Qia) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:55 |
 | 42 | [Chocolate Drop](https://open.spotify.com/track/4HnoJ54rGCjE8j5qkzDZS4) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:40 |
-| 43 | [I Didn't Mean to Hurt Your Feelings \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/4PWaGikeFjRKnsaUSiVhv7) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 5:34 |
+| 43 | [I Believe I'll Dust My Broom \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/3DWc5WqUGZCTDxVUIyzZja) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 4:59 |
 | 44 | [California Blues](https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:58 |
 | 45 | [Can't Stay Here](https://open.spotify.com/track/4jc0aen6yCOI0EEvyqDANp) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 2:34 |
 | 46 | [Color And Kind](https://open.spotify.com/track/0nHrMtXwO96IB1Bpasggv0) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0uKvcl.md) - [plain]
 | 49 | [You Turn Slick On Me](https://open.spotify.com/track/4vFSTxdwlrZJrN5hx6D4ik) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Back Door Wolf](https://open.spotify.com/album/4vh7IH7qY7ToZsSUeNseLt) | 4:53 |
 | 50 | [Oh Red](https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:44 |
 
-Snapshot ID: `ZtOugAAAAADWCU3tRScF2Jf0zDIwFRkv`
+Snapshot ID: `ZtUAAAAAAADFXJxZd6nJVy5JSIlG7l5p`

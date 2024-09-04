@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Time Will Tell",
+        "url": "https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc"
+      },
+      "artists": [
+        {
+          "name": "Bob.B Randhawa",
+          "url": "https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC"
+        },
+        {
+          "name": "Spaceship",
+          "url": "https://open.spotify.com/artist/6w4hV4erWlCgsaNUEmS7od"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201456,
+      "name": "Badland",
+      "url": "https://open.spotify.com/track/1MvSyJE0RcXWfcEVpWaTPO"
+    },
+    {
+      "album": {
         "name": "Baller",
         "url": "https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p"
       },
@@ -1006,7 +1028,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 136416,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/2xgtCp6JpkiIx4PsW0SuFV"

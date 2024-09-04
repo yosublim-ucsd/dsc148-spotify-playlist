@@ -2,14 +2,14 @@
 
 ### [This Is Vicente Fernández](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2PVLJS)
 
-> This Is Vicente Fernández\. Los temas esenciales, todos en una lista.
+> This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-58 songs - 2 hr 59 min
+59 songs - 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Mi Manera \- En Vivo \[Un Azteca en el Azteca\]](https://open.spotify.com/track/78fl7FwLL7HK60Oa6xg4Ng) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Azteca en el Azteca \(En Vivo\)](https://open.spotify.com/album/4geCevoFyJ8TvKJdNfSIRb) | 5:50 | 2023-06-29 | 2023-07-06 |
-| [A Pesar de Todo](https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:06 | 2023-06-29 |  |
+| [A Pesar de Todo](https://open.spotify.com/track/6r8rc6IlfHouZoLhmBjRyK) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [A Pesar De Todo](https://open.spotify.com/album/2AlSrJCTDnDJdMV7mjNRso) | 3:06 | 2023-06-29 | 2024-09-04 |
 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 | 2023-06-29 |  |
 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 | 2023-06-29 |  |
 | [Bohemio de Afición](https://open.spotify.com/track/2UCxVajVSBmExOoUamjtMd) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:26 | 2023-06-29 |  |
@@ -31,6 +31,7 @@
 | [Hermoso Cariño](https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández](https://open.spotify.com/album/4myhLYtrXhU1lq2rgz56LO) | 2:36 | 2023-06-29 |  |
 | [La Derrota](https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:16 | 2023-06-29 |  |
 | [La Diferencia](https://open.spotify.com/track/6wwMqdntt3An3mmVSb613i) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Es La Diferencia](https://open.spotify.com/album/4m82EF4noEFkd5vBBRe63u) | 2:50 | 2023-06-29 |  |
+| [La Ley de la Vida](https://open.spotify.com/track/4mg9oUjQMGJryksOuzvnCr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:55 | 2024-09-04 |  |
 | [La Ley del Monte](https://open.spotify.com/track/2qWPIc4TfXwTzw8cTNxgoI) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Un Mexicano en la México](https://open.spotify.com/album/0qSxCGrIhLiqINhvkCOvwm) | 2:54 | 2023-06-29 |  |
 | [La Misma](https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Si No Te Quisiera](https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT) | 3:09 | 2023-06-29 |  |
 | [La Primera Caricia](https://open.spotify.com/track/7gNiJxQc1qalCS2aH4VNWk) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:43 | 2023-06-29 | 2023-08-20 |

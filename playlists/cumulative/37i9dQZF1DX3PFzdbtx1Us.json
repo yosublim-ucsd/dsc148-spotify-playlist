@@ -2335,6 +2335,24 @@
     },
     {
       "album": {
+        "name": "From the Window",
+        "url": "https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf"
+      },
+      "artists": [
+        {
+          "name": "Gia",
+          "url": "https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "From the Window",
+      "url": "https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug"
+    },
+    {
+      "album": {
         "name": "F\u00e5r\u00f6",
         "url": "https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc"
       },

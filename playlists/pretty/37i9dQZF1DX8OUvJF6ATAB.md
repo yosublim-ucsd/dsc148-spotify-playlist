@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,078 likes - 100 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,102 likes - 100 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 86 | [Lago Escondido](https://open.spotify.com/track/5iUOejpBYg3sXiwD8poRAq) | [Samuel Aguilar](https://open.spotify.com/artist/1gXqzPzUGPeM2E1rixPWrj), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Lago Escondido](https://open.spotify.com/album/0wMehjx81rurqgjDHKheRI) | 3:56 |
 | 87 | [A Biochemical Cascade](https://open.spotify.com/track/4L3vsz9MxEZ5kMiT6U8Yrm) | [Yann Novak](https://open.spotify.com/artist/6OWE5QBb8V4viSlZLjJv0w) | [A Biochemical Cascade](https://open.spotify.com/album/6oeSCBHsgFScQbgtQIBcpt) | 8:34 |
 | 88 | [A Clear Path](https://open.spotify.com/track/3nGPxRTbi8628ZshMRjuQo) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [Light Splitting](https://open.spotify.com/album/1amD8zqzlpSivemeUCIylU) | 4:21 |
-| 89 | [Haust](https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [Haust](https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69) | 5:01 |
-| 90 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |
+| 89 | [How A Spiral Works](https://open.spotify.com/track/7eGYkcCZMNTLpJZ0sc4Jgc) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Jan Jelinek](https://open.spotify.com/artist/6Bpr6Jvb2Ic7WlzPD9EPJT) | [Signals Bulletin](https://open.spotify.com/album/10FIu2uRFbl2UVZSKgaK54) | 6:25 |
+| 90 | [Haust](https://open.spotify.com/track/6HTQcwflvXohkWPTt6JYH4) | [Tomasz Mreńca](https://open.spotify.com/artist/3gBqZAeUL6W6ygL5SkkaUX) | [Haust](https://open.spotify.com/album/7ylFmbJp3xHibLz9APxl69) | 5:01 |
 | 91 | [Plush Hooves](https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN) | [Picnic](https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo) | [Picnic](https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE) | 7:16 |
 | 92 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 |
 | 93 | [Titán](https://open.spotify.com/track/6TiPzgT0HnAgSWwEAcZWlz) | [Chema Macazaga](https://open.spotify.com/artist/0PxtIfTKFxKpj9AmI3PxUN) | [Paisajes en Saturno](https://open.spotify.com/album/25cOm91WtH4u1LJLKaKKJ1) | 6:24 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OUvJF6ATAB.md) - [plain]
 | 95 | [Fire Walk](https://open.spotify.com/track/6AaqehFAOsFvmZGOVrBba9) | [Komodo Kolektif](https://open.spotify.com/artist/1UpUB8v9H7gSpVMMDFYFVo) | [Lost Transmissions From the Off\-World Territories](https://open.spotify.com/album/1TkXeWxIqiesvsvTTwwWHQ) | 3:57 |
 | 96 | [Mourning Shadows We Perish](https://open.spotify.com/track/5AWooNwNN205pZYMrx7jLj) | [zakè](https://open.spotify.com/artist/22becwc1PhY3lSxHM3YThr), [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ossa](https://open.spotify.com/artist/6UDMoQbqPXHUXfLRN6aXrc) | [A Pale Shelter](https://open.spotify.com/album/4A4urd6gIK7PGxRC2E6Q1B) | 5:44 |
 | 97 | [Everyone is Far Away](https://open.spotify.com/track/4fmMywOoOP53r34yowvadz) | [Tapes and Topographies](https://open.spotify.com/artist/6rmx6yRqggZxsha4WKns43) | [Amplitudes](https://open.spotify.com/album/41je9hrZffgF9mq47cGiMk) | 5:28 |
-| 98 | [DRAHTKURBEL](https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE) | [Eckert & Hagen](https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq), [No Bloom Now](https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH) | [DRAHTKURBEL](https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9) | 4:48 |
-| 99 | [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 |
+| 98 | [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 |
+| 99 | [DRAHTKURBEL](https://open.spotify.com/track/3euqW42c6yR3DP4GgIIwpE) | [Eckert & Hagen](https://open.spotify.com/artist/7sstIzjbXHYkMO1HpLVlrq), [No Bloom Now](https://open.spotify.com/artist/4woc6oFscmJHwXGCubSvrH) | [DRAHTKURBEL](https://open.spotify.com/album/5CTHrftpTIpWpUj6vifWW9) | 4:48 |
 | 100 | [Silia](https://open.spotify.com/track/1weVdmYURX7xLaaV9PqSzl) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:03 |
 
 Snapshot ID: `ZtR9nwAAAAC8CdS5b4/4MSOlvC73+lfi`

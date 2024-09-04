@@ -1531,6 +1531,24 @@
     },
     {
       "album": {
+        "name": "(WHAT'S THE STORY) MORNING GLORY?",
+        "url": "https://open.spotify.com/album/2zw9FrFHDh3IlHKg6osNdo"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449506,
+      "name": "Champagne Supernova",
+      "url": "https://open.spotify.com/track/5GGTgkmfEzkhAfmG0hxXk9"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -1920,7 +1938,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 218400,
       "name": "Cuando Te Vi | CROSSOVER #5",
       "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
@@ -2194,6 +2212,28 @@
       "duration_ms": 192000,
       "name": "Diab\u00f3lica",
       "url": "https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -2480,7 +2520,7 @@
       ],
       "date_added": "2024-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 188093,
       "name": "El Fin del Mundo",
       "url": "https://open.spotify.com/track/70JnnNNAxPjvZGPwjJfX47"
@@ -2594,7 +2634,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 232645,
       "name": "El Patio",
       "url": "https://open.spotify.com/track/0PtLrH95CQ2lKf6pym5LmA"
@@ -3066,7 +3106,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
@@ -3120,7 +3160,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
@@ -3518,7 +3558,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 188887,
       "name": "Hasta Aqu\u00ed Llegu\u00e9",
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
@@ -4508,7 +4548,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 160151,
       "name": "LA PLATJA",
       "url": "https://open.spotify.com/track/4seVO1d3uzE3inbIHFhSKn"
@@ -5034,7 +5074,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 259200,
       "name": "Lo Que Tiene",
       "url": "https://open.spotify.com/track/6RqD0fpAaKEZvQd0QrTj7j"
@@ -5052,7 +5092,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 204000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
@@ -5959,6 +5999,28 @@
     },
     {
       "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
         "name": "No Estuviste En Lo Malo (REMIX)",
         "url": "https://open.spotify.com/album/494i7ANNVzcAf94KtyW2X5"
       },
@@ -6352,6 +6414,28 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
+    },
+    {
+      "album": {
+        "name": "LA PANTERA NEGRA",
+        "url": "https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224120,
+      "name": "OTRA NOCHE (feat. Darell)",
+      "url": "https://open.spotify.com/track/0dLdTvslcZVsncSMyVvP7n"
     },
     {
       "album": {
@@ -7762,7 +7846,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 156000,
       "name": "SI NO ES CONTIGO",
       "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
@@ -8518,7 +8602,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 215448,
       "name": "Tengo Un Plan - Remix",
       "url": "https://open.spotify.com/track/3AXw3pd7KHGSogprPSxrMh"
@@ -9499,6 +9583,24 @@
     },
     {
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
         "name": "Vacile",
         "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
       },
@@ -9510,7 +9612,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 140239,
       "name": "Vacile",
       "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
@@ -9554,7 +9656,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 258586,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/5BopknbHSxEm9Ohcs4IbGu"
@@ -10012,7 +10114,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
@@ -10090,7 +10192,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 248000,
       "name": "Yamore",
       "url": "https://open.spotify.com/track/480j122Gpi252OIfy4SNzm"

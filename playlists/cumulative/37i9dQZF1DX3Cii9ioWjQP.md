@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: YUNSEOKCHEOL TRIO\(윤석철트리오\)\)
 
-204 songs - 14 hr 45 min
+209 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 | 2022-05-03 | 2023-02-08 |
 | [Diaspora](https://open.spotify.com/track/4LxjliHXyosD6sqDp9vMjU) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Diaspora](https://open.spotify.com/album/424WFw7apETzYjkgOsyOs5) | 5:03 | 2022-05-18 | 2024-04-19 |
 | [Difference \(with Park Chan Young\)](https://open.spotify.com/track/6VuslUo78MrJiJTmlbPUhQ) | [Jinju Yi](https://open.spotify.com/artist/1wOcvOmQJOR1LUMF0cIQS5), [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Difference](https://open.spotify.com/album/6hroMp0MzJ4UThj5OehuZG) | 3:23 | 2022-11-11 |  |
+| [Don’t Blame Yourself](https://open.spotify.com/track/4ZucTmhwzc3vp0AhIOtY2r) | [Pudditorium](https://open.spotify.com/artist/7uhOcLi85Fj8PlOempXh6z) | [Prologue : Hope](https://open.spotify.com/album/3soUCShTrQXB69QUv0CuYj) | 4:34 | 2024-09-04 |  |
 | [DUO](https://open.spotify.com/track/4qy4NFSM69Ttu5RyZTYQvp) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT) | [DUO](https://open.spotify.com/album/4WhNgdDFTuoA3YUhKMLBhi) | 3:10 | 2024-06-07 |  |
 | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/track/3P4vnvUu03m0kjoLWNWvTa) | [Youjin KO](https://open.spotify.com/artist/4DwpWXyj4LSXRDaB2zmfcj), [Nicola Sergio](https://open.spotify.com/artist/2bxce9EIkMF99r0baqX9Sy) | [END AND \(Feat\. Nicola Sergio\)](https://open.spotify.com/album/1Aur1rcwdfRJXyG8VtRFRr) | 5:59 | 2023-03-31 |  |
 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 | 2023-07-19 | 2024-08-11 |
@@ -71,6 +72,7 @@
 | [Falling In U](https://open.spotify.com/track/24b3VpnaRlYGWDgwPwOLBz) | [다해](https://open.spotify.com/artist/65jZwKXoHgYxbbc0mRCA0V) | [Falling In U](https://open.spotify.com/album/2ufBOd2lyvhlgJM4pFvvw6) | 3:00 | 2023-04-10 |  |
 | [Ferrari](https://open.spotify.com/track/0lOhyaAN0djmwroHqPhApn) | [40](https://open.spotify.com/artist/0XXy0YzgbA0CW9zDM8yxpD) | [Ferrari](https://open.spotify.com/album/5OWnu7q4KDcsotJRkIfqVE) | 3:16 | 2023-02-24 |  |
 | [Finale \(feat\. Kihun Park\)](https://open.spotify.com/track/0Ak7SzhUqRFQDFzO6JlM21) | [Lee ye in](https://open.spotify.com/artist/0Srx88PZKu7nBtKNp1Bv0X), [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Finale](https://open.spotify.com/album/6MdAxE4RRlHKNGzCN2fNLb) | 2:15 | 2022-05-03 | 2022-05-19 |
+| [Fly Me to the Moon](https://open.spotify.com/track/3QdsLBxfpAF6Nu7HBiC0GC) | [Serena Ahn JAZZSTRA](https://open.spotify.com/artist/3qMlNc8pwmvn91eWfzXXKG) | [JAZZSTRA Live in Seoul](https://open.spotify.com/album/6z1JQGfmRc9rRqswuqR5jw) | 4:29 | 2024-09-04 |  |
 | [FOGGY PLATFORM](https://open.spotify.com/track/1v4jgYpz0sdjbVvOP6fZCW) | [STUDIO360 GROUP](https://open.spotify.com/artist/6SYYPeNmfh2jtwVED2LLgO) | [MUSIC FOR WAITING ROOMS Vol.1](https://open.spotify.com/album/4M3JlJA3T13e6fWk3Yz7SB) | 4:36 | 2022-11-11 | 2023-02-08 |
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
@@ -137,6 +139,7 @@
 | [Profile](https://open.spotify.com/track/2U8kKyjv3y0FZ6D1RL6AcR) | [Young Jin Kim](https://open.spotify.com/artist/2znNQLAUycEz4QYAx6wDlO) | [Full Bottle](https://open.spotify.com/album/2GekRFOa2tnNoszyCpZVmD) | 4:40 | 2022-11-11 |  |
 | [Pronounce the Benediction + Messengers](https://open.spotify.com/track/45kvtggm9KeRXjovIvDLbS) | [Kim Seong Hwa Quartet](https://open.spotify.com/artist/5UvwNchXt1PcNIK7nKSe0Y) | [Individual Space Vol.4](https://open.spotify.com/album/3E5HGHHIDP8MC2oBDZrgft) | 14:01 | 2022-05-03 | 2022-05-19 |
 | [Puddle](https://open.spotify.com/track/1MWzNijjV5YR1TbFMfINhf) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Puddle](https://open.spotify.com/album/0a58Zw9w1uLXAEdiEi68yU) | 6:57 | 2024-08-29 |  |
+| [Puddle](https://open.spotify.com/track/5YXm2b0UsA6Zz8aDzeIRnj) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Paride Pignotti](https://open.spotify.com/artist/13IZQ1OV0jN5it11NANQa2) | [Way Back Home](https://open.spotify.com/album/3KyZqznuaRnJk5yrZI3xag) | 6:57 | 2024-09-04 |  |
 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [1LEEY](https://open.spotify.com/artist/4Csb024B5ugIYGJViz9oOF) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 | 2022-05-03 | 2024-08-11 |
 | [Regent's Park](https://open.spotify.com/track/0KH7NarCQrouOez7FRG9FJ) | [Hyunsoo Park](https://open.spotify.com/artist/5FFIobzpoENexOu1dXGd0s) | [Regent's Park](https://open.spotify.com/album/7jQEp2fOLeZlusxnLqQnfA) | 4:30 | 2022-05-03 | 2023-02-08 |
 | [Remember](https://open.spotify.com/track/76jnvd7nJdAfJfMLryTcGw) | [Music Destroyers](https://open.spotify.com/artist/5flL1TPdeAyGc5fb6Y8F6Y) | [Remember](https://open.spotify.com/album/421jqaV4XhjtV0X2qTcdes) | 3:19 | 2022-05-03 | 2022-05-19 |
@@ -164,6 +167,7 @@
 | [sun in my eyes](https://open.spotify.com/track/71wLiJRoaTUH6vpUgU7tYP) | [CADEJO](https://open.spotify.com/artist/296ryPygSSpdsrZJk2x5Up) | [Image \#4](https://open.spotify.com/album/0MkjQ5J3apbaP2LqxTX5bW) | 6:10 | 2024-03-08 |  |
 | [Sunflower](https://open.spotify.com/track/7tbyBVCqd0RPlJulWcz0bO) | [Choi Aim](https://open.spotify.com/artist/10iBhcYlA7mJ3VxkZdIl5i) | [Sunflower](https://open.spotify.com/album/6ak25dnY0MuutpgD0OVLAo) | 4:09 | 2023-03-31 |  |
 | [Sunny after the rain](https://open.spotify.com/track/5EYXCX3C33oyz7EGyBUoo4) | [Ohhwapyoung](https://open.spotify.com/artist/5Ld0vZxZXB0C467fp1bJ7U) | [Weekly Ohhwapyoung Season 4 Vol.39](https://open.spotify.com/album/4R4vkv6lrO0cSjH0jSGTss) | 2:24 | 2022-05-03 | 2023-02-08 |
+| [Supernova \- Jazz Version](https://open.spotify.com/track/6CQIUBZ37JZNarwCo04gqy) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [Supernova \- Jazz Version](https://open.spotify.com/album/4PTNPhc9DoNxOoIbSUq6S7) | 3:18 | 2024-09-04 |  |
 | [Swing Slam](https://open.spotify.com/track/5SVbrvelaTW646cg5SvceW) | [Samuel Seo](https://open.spotify.com/artist/4ZPInhlYlpaCsk1vnHmKBP) | [Swing Slam](https://open.spotify.com/album/3q6KvvIzC0r1k8bT4DGErv) | 3:48 | 2023-02-14 | 2024-08-11 |
 | [Take a Break](https://open.spotify.com/track/5fjY9RhBP29AYMPaWLcq1V) | [OURBEATZ](https://open.spotify.com/artist/5CHL5eSlK4Ghwe9KrZdf0x) | [Take a Break](https://open.spotify.com/album/0aEMu0UemoafzHBLiRHX96) | 2:34 | 2024-08-10 |  |
 | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/track/2iP9edjDEFjmpT4t6BuPRO) | [yesun](https://open.spotify.com/artist/3XUw63l5EYScAl395My20X) | [Take Courage, Take Heart \- Shake It Off](https://open.spotify.com/album/6zsh1oqFy6bexb9uXPc9Rc) | 6:23 | 2023-02-07 |  |
@@ -187,6 +191,7 @@
 | [Vacancy Hugs Time](https://open.spotify.com/track/2fOucbHur1VE47D1m5UCgB) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:52 | 2022-11-23 |  |
 | [Venice Calle](https://open.spotify.com/track/0P0d6FdDTKGAC8sgqOEMIw) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/3zLp95jSHy71DRg7QMc9SO) | 3:40 | 2022-05-18 | 2024-08-11 |
 | [Venice Calle](https://open.spotify.com/track/4BQtzBhik3F3bDeerVrHvZ) | [Standard1](https://open.spotify.com/artist/1ApMXttgfE896QxynNL0MB) | [Venice Calle](https://open.spotify.com/album/4DG9bbTsLTCZjc3FX3cLfM) | 3:40 | 2023-03-31 | 2024-04-19 |
+| [visitor](https://open.spotify.com/track/3BVgCg9jq5nj1TSpoE0zzM) | [Jeon Jisun](https://open.spotify.com/artist/4BBsRnLUkOI7p3G85BW76R) | [visitor](https://open.spotify.com/album/6ezOqgX9tk3y7VD1s8gjva) | 3:40 | 2024-09-04 |  |
 | [Waltz For Baby\(I\)](https://open.spotify.com/track/1VoJvHIlBEKwzDxpvvJhNB) | [Nokyung Lee](https://open.spotify.com/artist/4xK66lFkraZU5FaIO3dugT) | [A Child Is Born](https://open.spotify.com/album/5qqsRg5gpMo4ZG3gdXH9Fq) | 3:43 | 2022-05-03 | 2022-05-19 |
 | [welcoming the moon trip](https://open.spotify.com/track/0PxQ9PisOytpkqMEngzDgk) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [welcoming the moon trip](https://open.spotify.com/album/2nfCnfYJrLPPYWAqmapxer) | 4:24 | 2023-02-07 |  |
 | [What A Wonderful Blue Night](https://open.spotify.com/track/53fCbojK6JJjYvaMdToit0) | [Park Ki Hun](https://open.spotify.com/artist/1FfO76bIOpFkTpyCIjkDCR) | [Journey](https://open.spotify.com/album/0bOaUFUarwmUUQoZV94WES) | 4:56 | 2024-02-15 |  |

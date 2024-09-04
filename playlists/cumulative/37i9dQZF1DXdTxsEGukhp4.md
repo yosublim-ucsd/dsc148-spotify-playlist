@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: Mega Shinnosuke
 
-439 songs - 1 day 1 hr 14 min
+440 songs - 1 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -310,6 +310,7 @@
 | [にゃんにゃんにゃん](https://open.spotify.com/track/5zExZzrMotIZvgyA8CVGgi) | [Koresawa](https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe) | [にゃんにゃんにゃん](https://open.spotify.com/album/3MG1bTi5QrEVZ56HuGUjKC) | 4:15 | 2024-05-23 |  |
 | [はいよろこんで](https://open.spotify.com/track/41xGcFvQsGYQs0RDFvPfv3) | [Kocchi no Kento](https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x) | [はいよろこんで](https://open.spotify.com/album/4QU3XHH0tgaaIzCVf66i16) | 2:41 | 2024-07-01 |  |
 | [ぴぽぴぽ](https://open.spotify.com/track/7GxUPZNxNPvDToM4FkXE6G) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [ワンルームサバイバル](https://open.spotify.com/album/2AbeJ3WRfsuNBj60drWwWi) | 4:22 | 2023-11-09 | 2024-01-12 |
+| [ふたりの映画](https://open.spotify.com/track/0pcf8NBtfYsNYiGI4jonYf) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ふたりの映画](https://open.spotify.com/album/2yRaD5QzVFRFXu3XRj5wII) | 3:27 | 2024-09-04 |  |
 | [ぼくのてんし](https://open.spotify.com/track/2vOdEYqxSzIvZdo7IYISmY) | [ケプラ](https://open.spotify.com/artist/1vJQ33eLhZQw9PHiHoA8ZJ) | [20](https://open.spotify.com/album/2E6evRJYZ8yknwWA65ICDO) | 3:14 | 2024-06-03 |  |
 | [まぶた](https://open.spotify.com/track/6YCwX5jlAEFL775YJqgLqN) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [まぶた](https://open.spotify.com/album/787EPgEJvHIXQ5MFDqG0oP) | 4:16 | 2023-01-26 | 2023-02-10 |
 | [もう恋なんてしない \- 2012 Remaster](https://open.spotify.com/track/2GU85vhIa7EGUt5mDNLHK6) | [Noriyuki Makihara](https://open.spotify.com/artist/3vVDusnDA0LcPH3NvZpoyM) | [君は僕の宝物 \(2012 Remaster\)](https://open.spotify.com/album/0xl7RrBF9tVKPUu5EHHcf3) | 4:33 | 2023-09-14 | 2023-12-15 |
@@ -424,7 +425,7 @@
 | [最高速度](https://open.spotify.com/track/22PDXKDnBNEejFZkWzETQE) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [最高速度](https://open.spotify.com/album/70HIn4TXNsSPybodDDMxqI) | 3:50 | 2024-01-11 | 2024-03-22 |
 | [未来図](https://open.spotify.com/track/3hD6z4YbJk64kN3v3N47hr) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Memory](https://open.spotify.com/album/1lemAJOLEhD9JWaWbQnUAf) | 3:49 | 2023-10-12 | 2023-11-11 |
 | [未来図](https://open.spotify.com/track/7DbgLTaylbqko3vR6k4adw) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [未来図](https://open.spotify.com/album/6xgqi8qVneYK5zAehfnRNF) | 3:49 | 2023-10-02 | 2023-10-13 |
-| [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 |  |
+| [桃源郷とタクシー](https://open.spotify.com/track/4ezC3yFDvZUhBX4fCUIjwq) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [ロックはか゛わ゛い゛い゛](https://open.spotify.com/album/2q9ug8Pt4cCbO4PLLXygXq) | 4:58 | 2024-09-02 | 2024-09-04 |
 | [桃源郷とタクシー](https://open.spotify.com/track/2WW3SD60gBWS12cooxmfaZ) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [桃源郷とタクシー](https://open.spotify.com/album/4iybrmDfQZUvxTweCSTLVa) | 4:58 | 2024-09-02 | 2024-09-03 |
 | [水死体は恋したい](https://open.spotify.com/track/0t9X7vdypTC2niY0GA9DBW) | [LonePi](https://open.spotify.com/artist/0FtyTvAiyb0IS8qTfGOaxb) | [水死体は恋したい](https://open.spotify.com/album/2K4FoBm3Sx9NBKOF9z0pX7) | 3:05 | 2023-09-01 | 2023-09-15 |
 | [渋沢栄一](https://open.spotify.com/track/5iLlUZC0jiNN49m3HDTmlA) | [Ninja We Made It.](https://open.spotify.com/artist/2X7rMdeSJ6OUUtxY5vY3Vg) | [渋沢栄一](https://open.spotify.com/album/4nfG94Htc9Qy9KGhMh7Tr0) | 1:58 | 2024-07-18 |  |

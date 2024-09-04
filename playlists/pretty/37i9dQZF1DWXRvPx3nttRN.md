@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,218 likes - 122 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,275 likes - 122 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 86 | [Hey There Delilah](https://open.spotify.com/track/0xM88xobymkMgg46MStfnV) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT) | 3:52 |
 | 87 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |
 | 88 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
-| 89 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
-| 90 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
-| 91 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
+| 89 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
+| 90 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
+| 91 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
 | 92 | [Stolen Dance](https://open.spotify.com/track/2ZQ87gUxLwKZS2ar0uXFmf) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Gl21cv3eR8SLk2AVR1sMr) | 3:55 |
 | 93 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
 | 94 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 |

@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "100 bux",
+        "url": "https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "100 bux",
+      "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
+    },
+    {
+      "album": {
         "name": "100 Million",
         "url": "https://open.spotify.com/album/0DRD7GdJQNalHpKaLhM871"
       },
@@ -82,7 +100,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
@@ -1025,6 +1043,24 @@
     },
     {
       "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU"
+      },
+      "artists": [
+        {
+          "name": "Halle",
+          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211739,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY"
+    },
+    {
+      "album": {
         "name": "Beckham",
         "url": "https://open.spotify.com/album/5ZYLn7QTjqaKzpAg1fEXRT"
       },
@@ -1925,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "COMO DIABLOS",
+        "url": "https://open.spotify.com/album/2w9SPe6QrjqMXXm7eQJxO0"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193446,
+      "name": "COMO DIABLOS",
+      "url": "https://open.spotify.com/track/78zXzoQ0TqqfEZKzW03VqA"
+    },
+    {
+      "album": {
         "name": "Confusion Song",
         "url": "https://open.spotify.com/album/0QwOhxhUMzkygHnnrLRtOr"
       },
@@ -1994,6 +2048,24 @@
       "duration_ms": 168466,
       "name": "Countin Em Up",
       "url": "https://open.spotify.com/track/5jtMOAP2VSQJ2jtqlH9JRj"
+    },
+    {
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/7Gsu8XlxWUsQbFZGajdxdC"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240937,
+      "name": "Crown",
+      "url": "https://open.spotify.com/track/48HjuSOCti5mGKg6rUjAfB"
     },
     {
       "album": {
@@ -2091,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "Decline & Fall",
+        "url": "https://open.spotify.com/album/6xdJWbVw8VGYBmDnvplt5x"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222285,
+      "name": "Decline & Fall",
+      "url": "https://open.spotify.com/track/0dyUZevogwwjombYMR34pc"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/26XfVMxBavGaeQXzEA6Xu9"
       },
@@ -2142,7 +2232,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 184666,
       "name": "Devil on My Shoulder",
       "url": "https://open.spotify.com/track/6qAhXsSJKV7RF4nTmphTD3"
@@ -2400,7 +2490,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171130,
       "name": "DON'T LEAVE ME BEHIND (feat. Sin\u00e9ad Harnett)",
       "url": "https://open.spotify.com/track/60Tc6fPeEZIwTXcpIG5y3C"
@@ -2795,6 +2885,28 @@
     },
     {
       "album": {
+        "name": "Faded Splendor (feat. Donovan Woods)",
+        "url": "https://open.spotify.com/album/72Orv4alDQj8tEwKzKMFIP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        },
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234348,
+      "name": "Faded Splendor (feat. Donovan Woods)",
+      "url": "https://open.spotify.com/track/4AzBN2FRFxoORxSd8SlFZr"
+    },
+    {
+      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0"
       },
@@ -3165,6 +3277,28 @@
     },
     {
       "album": {
+        "name": "Galina",
+        "url": "https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270448,
+      "name": "Galina",
+      "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
+    },
+    {
+      "album": {
         "name": "Gas Me Up (Diligent)",
         "url": "https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn"
       },
@@ -3194,7 +3328,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 76120,
       "name": "Geek",
       "url": "https://open.spotify.com/track/3sIKgS05lsszua6zt0rgf2"
@@ -3330,7 +3464,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 238726,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/286QlG0bSnI9BBfOQBl0L2"
@@ -3514,7 +3648,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 152759,
       "name": "Good Guy",
       "url": "https://open.spotify.com/track/1o85kjIkzuYJt1w8JjxAKs"
@@ -3814,7 +3948,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 237535,
       "name": "Guitar Song",
       "url": "https://open.spotify.com/track/0EQeatAMJZy3EdgUedlmdz"
@@ -3890,7 +4024,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 180621,
       "name": "Hatchet",
       "url": "https://open.spotify.com/track/5TBJIGQ1TNxSLS7zOrj44g"
@@ -4103,6 +4237,24 @@
     },
     {
       "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "her",
+      "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
+    },
+    {
+      "album": {
         "name": "HERicane",
         "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
       },
@@ -4132,7 +4284,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 215360,
       "name": "Hey Girl",
       "url": "https://open.spotify.com/track/31uxCMxqeSRV7VOW4jFqMK"
@@ -4726,6 +4878,24 @@
       "duration_ms": 179791,
       "name": "I'm Back",
       "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+    },
+    {
+      "album": {
+        "name": "again sometime?",
+        "url": "https://open.spotify.com/album/473k5PVlVC3sMsiGoFwf5o"
+      },
+      "artists": [
+        {
+          "name": "Paul Russell",
+          "url": "https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225880,
+      "name": "I'm Not People",
+      "url": "https://open.spotify.com/track/74LrZH69xVWmRyUTCIUbIm"
     },
     {
       "album": {
@@ -5431,6 +5601,28 @@
     },
     {
       "album": {
+        "name": "LET YA HAIR DOWN (feat. Drezus)",
+        "url": "https://open.spotify.com/album/5HMduZONOJCywSqtWRqT0R"
+      },
+      "artists": [
+        {
+          "name": "Snotty Nose Rez Kids",
+          "url": "https://open.spotify.com/artist/16T3el1CEjX49qFA7UT2n5"
+        },
+        {
+          "name": "Drezus",
+          "url": "https://open.spotify.com/artist/08G2YWw73h9tgNN1CcqTOZ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241363,
+      "name": "LET YA HAIR DOWN (feat. Drezus)",
+      "url": "https://open.spotify.com/track/5J6TeC1lAeFviV6SjN05qG"
+    },
+    {
+      "album": {
         "name": "LET'S GO",
         "url": "https://open.spotify.com/album/22ucq2C8fUF9VHN3dcVvan"
       },
@@ -5634,7 +5826,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 163982,
       "name": "Lost",
       "url": "https://open.spotify.com/track/2aQm7qXDseN5YF5ilzCohC"
@@ -6026,7 +6218,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 137986,
       "name": "Matches",
       "url": "https://open.spotify.com/track/4WD2uWSnU5NmwrfZRM0Vpo"
@@ -6908,6 +7100,28 @@
       "duration_ms": 237200,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/3rnAobCeh4uD1NfNpbNc2e"
+    },
+    {
+      "album": {
+        "name": "Nostalgia (feat. Gray Hawken)",
+        "url": "https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Gray Hawken",
+          "url": "https://open.spotify.com/artist/6qFnkXKWazlAU0OPb4Q4a1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129981,
+      "name": "Nostalgia (feat. Gray Hawken)",
+      "url": "https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS"
     },
     {
       "album": {
@@ -8542,7 +8756,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 192963,
       "name": "Smile (feat. Carolina Liar)",
       "url": "https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D"
@@ -8773,6 +8987,28 @@
     },
     {
       "album": {
+        "name": "SOS (Sex on Sight) (feat. USHER)",
+        "url": "https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH"
+      },
+      "artists": [
+        {
+          "name": "Victoria Mon\u00e9t",
+          "url": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265057,
+      "name": "SOS (Sex on Sight) (feat. USHER)",
+      "url": "https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71"
+    },
+    {
+      "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
@@ -8918,7 +9154,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 217871,
       "name": "still around",
       "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
@@ -9078,6 +9314,24 @@
       "duration_ms": 169026,
       "name": "Sweety",
       "url": "https://open.spotify.com/track/25Re7w5mH0qcSLLhmSjWWA"
+    },
+    {
+      "album": {
+        "name": "Tailor Swif",
+        "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155391,
+      "name": "Tailor Swif",
+      "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
       "album": {
@@ -10664,7 +10918,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 178253,
       "name": "Woke Up in a Dream",
       "url": "https://open.spotify.com/track/1suWl6TYgxag3g4maM8iyJ"

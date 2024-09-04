@@ -1,12 +1,12 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 57188,
+  "num_followers": 57226,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADRw6VtDckuBSnibOSp8ygi",
+  "snapshot_id": "ZtUAAAAAAAD65lVJQU08QQAd06TW7B1E",
   "tracks": [
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Did You Touch?",
-        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
+        "name": "DISTRACTION / SCREAM MY NAME",
+        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 208732,
-      "name": "Who Did You Touch?",
-      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
+      "duration_ms": 180000,
+      "name": "DISTRACTION",
+      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
     },
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISTRACTION / SCREAM MY NAME",
-        "url": "https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy"
+        "name": "Who Did You Touch?",
+        "url": "https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 180000,
-      "name": "DISTRACTION",
-      "url": "https://open.spotify.com/track/2BGyjLA7era3GunIrwqASc"
+      "duration_ms": 208732,
+      "name": "Who Did You Touch?",
+      "url": "https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aeon",
+        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "We Are Still In Love",
+      "url": "https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "It's Beautiful.",
         "url": "https://open.spotify.com/album/6MRvWffD81OCQNUsa5J63K"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aeon",
-        "url": "https://open.spotify.com/album/2jY1UA0MwOECLplKsttWO9"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "We Are Still In Love",
-      "url": "https://open.spotify.com/track/2vMzU3vRcesyByz6Y9xRYJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stay (With Me).",
         "url": "https://open.spotify.com/album/2UOdVuBqu1UQA9EXWGQNeE"
       },
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Lofi Christmas.",
-        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 84000,
-      "name": "Home for the Holidays",
-      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 235500,
       "name": "Crumble",
       "url": "https://open.spotify.com/track/0Gji3Cm4mRFYvXXtX82klr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Lofi Christmas.",
+        "url": "https://open.spotify.com/album/18o8Xw3IFfjR6IoLsoY8xO"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 84000,
+      "name": "Home for the Holidays",
+      "url": "https://open.spotify.com/track/7yrfKopuTvSnedT9sfcG74"
     },
     {
       "added_at": null,
@@ -707,30 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Show the Signs.",
-        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
-      },
-      "artists": [
-        {
-          "name": "Lord's Child",
-          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "chromonicci",
-          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
-        }
-      ],
-      "duration_ms": 181682,
-      "name": "Show the Signs.",
-      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Camp Lukewarm",
         "url": "https://open.spotify.com/album/1ojRsIYi1rLdiFpSKNtEBp"
       },
@@ -755,6 +731,30 @@
       "duration_ms": 248531,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5c2yqU4vbxkQQbZ2ePb5wJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Show the Signs.",
+        "url": "https://open.spotify.com/album/1oc8h9nIQClaRvwaEpeSvl"
+      },
+      "artists": [
+        {
+          "name": "Lord's Child",
+          "url": "https://open.spotify.com/artist/14EkDZQXCL0J9CpQ1tKIKC"
+        },
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "chromonicci",
+          "url": "https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE"
+        }
+      ],
+      "duration_ms": 181682,
+      "name": "Show the Signs.",
+      "url": "https://open.spotify.com/track/4I5dVjz3Uwqmgb4Wzmupn6"
     },
     {
       "added_at": null,

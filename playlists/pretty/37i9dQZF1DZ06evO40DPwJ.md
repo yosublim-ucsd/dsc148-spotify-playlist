@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,304 likes - 44 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,306 likes - 44 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 43 | [Dynamite \- David May Rmx Edit](https://open.spotify.com/track/6akJJXxULYRHdtiaOOOIxe) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [David May](https://open.spotify.com/artist/5d0rLXoTGxF0XzX88MTKeK) | [The Annual Compilation 2012 \- Deluxe Edition](https://open.spotify.com/album/2SV2xl020G040bP0DVM4y3) | 4:40 |
 | 44 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `ZtOugAAAAACckLvCX/jX0735WwERSuJU`
+Snapshot ID: `ZtUAAAAAAACe/cMjkS+4SGsBZGIIq5wY`

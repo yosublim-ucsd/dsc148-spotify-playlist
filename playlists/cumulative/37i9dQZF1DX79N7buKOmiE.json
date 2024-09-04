@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "72's busz",
+        "url": "https://open.spotify.com/album/6bgMXqJty5W8UJaR8lxgro"
+      },
+      "artists": [
+        {
+          "name": "Sofi",
+          "url": "https://open.spotify.com/artist/6Ng4zfUKTRC1ZLMCQcsBrK"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143974,
+      "name": "72's busz",
+      "url": "https://open.spotify.com/track/0sU9O4fOi3ORlkhSEP2707"
+    },
+    {
+      "album": {
         "name": "All In",
         "url": "https://open.spotify.com/album/6Sqo5ZnuRpgXlOw4yzAL8l"
       },
@@ -56,7 +74,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129991,
       "name": "Az id\u0151 p\u00e9nz",
       "url": "https://open.spotify.com/track/4I2PnPHXFLlnFOEfwHShkq"
@@ -237,6 +255,24 @@
     },
     {
       "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/1zObClZJYxlQHXXADFlgn6"
+      },
+      "artists": [
+        {
+          "name": "NOIRA",
+          "url": "https://open.spotify.com/artist/0UWpD8yCQsAW8g5hL7AtKo"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221062,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/6y3DLeTH3Z5fghsahBZDLE"
+    },
+    {
+      "album": {
         "name": "Disposable",
         "url": "https://open.spotify.com/album/7KFXhLvqJpCuFamoGXdZ59"
       },
@@ -368,6 +404,28 @@
       "duration_ms": 218086,
       "name": "Engedn\u00e9d-e",
       "url": "https://open.spotify.com/track/3bp9jct7AyHUPibmPrV8uO"
+    },
+    {
+      "album": {
+        "name": "Ez is \u00e9n vagyok",
+        "url": "https://open.spotify.com/album/60cU1m3NxihZuaMQIXKgQA"
+      },
+      "artists": [
+        {
+          "name": "Nene",
+          "url": "https://open.spotify.com/artist/5ULfF6goJLx0CqPY8V90ot"
+        },
+        {
+          "name": "Orsovai Reni",
+          "url": "https://open.spotify.com/artist/68Jq7F4V4Cpi8HMfWJUyei"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207098,
+      "name": "Ez is \u00e9n vagyok",
+      "url": "https://open.spotify.com/track/4XRpGDe4DCFMM9zZwROUQ5"
     },
     {
       "album": {
@@ -566,7 +624,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 196000,
       "name": "Hiba",
       "url": "https://open.spotify.com/track/6QHeKaA91AW1svaYMfdVwq"
@@ -602,7 +660,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 174615,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/4i7uB7T0MyfbnDOvO2NCgF"
@@ -725,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Koffein",
+        "url": "https://open.spotify.com/album/4ehHwPIy2aQwi2oFAswmkb"
+      },
+      "artists": [
+        {
+          "name": "B. Nagy R\u00e9ka",
+          "url": "https://open.spotify.com/artist/5RNiPH3JLNOxOCuSYplII1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126451,
+      "name": "Koffein",
+      "url": "https://open.spotify.com/track/6hQRR61JgS5MAM0Z43Vh0O"
+    },
+    {
+      "album": {
         "name": "kurvanagy ???",
         "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
       },
@@ -758,7 +834,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 163200,
       "name": "K\u00e9s\u0151",
       "url": "https://open.spotify.com/track/4fakB0l4SgFE6EyK1uqYCH"
@@ -920,7 +996,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 209999,
       "name": "Nem megyek \u00e9n sehova",
       "url": "https://open.spotify.com/track/5wzGNvW8u0XopvK9QQcPcP"
@@ -938,7 +1014,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 219000,
       "name": "Nem volt \u00fagy m\u00e9g",
       "url": "https://open.spotify.com/track/6HlVMdhrNsjWbWYn0erUlq"
@@ -999,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Nincs ki\u00fat",
+        "url": "https://open.spotify.com/album/2fbse8NL2YmQEAlfdU7oEs"
+      },
+      "artists": [
+        {
+          "name": "Sz\u0151cs Reni",
+          "url": "https://open.spotify.com/artist/2qsIfphmABs5h6Kfe0vkoS"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184150,
+      "name": "Nincs ki\u00fat",
+      "url": "https://open.spotify.com/track/3Ag15UGR8Cl59FwV5pJRz0"
+    },
+    {
+      "album": {
         "name": "Ny\u00e1ri Viharban",
         "url": "https://open.spotify.com/album/7no0QyCNBLx636q1mbLm2y"
       },
@@ -1010,10 +1104,32 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 182124,
       "name": "Ny\u00e1ri Viharban",
       "url": "https://open.spotify.com/track/0FosV6UlKOiwG9oul2mAXR"
+    },
+    {
+      "album": {
+        "name": "Odakint",
+        "url": "https://open.spotify.com/album/2dtm6fADzu6o6wQwrP6ayK"
+      },
+      "artists": [
+        {
+          "name": "Hajdu Kl\u00e1ra",
+          "url": "https://open.spotify.com/artist/6h9nWOTF2lZnCCv0TRwzeP"
+        },
+        {
+          "name": "Szakonyi Mil\u00e1n",
+          "url": "https://open.spotify.com/artist/4zugoK3xCvlTcccK5X0UUx"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "Odakint",
+      "url": "https://open.spotify.com/track/0aYraA3ta803hXjvPtHyzS"
     },
     {
       "album": {
@@ -1050,6 +1166,24 @@
       "duration_ms": 174191,
       "name": "Pillang\u00f3k",
       "url": "https://open.spotify.com/track/4abhT0GhZJfRv0dAJBB8vq"
+    },
+    {
+      "album": {
+        "name": "REGGEL",
+        "url": "https://open.spotify.com/album/68Mn9UqeI2VXcfl6PlTPEn"
+      },
+      "artists": [
+        {
+          "name": "B\u00d6BE",
+          "url": "https://open.spotify.com/artist/7EDnFpwVQRaREGbgWNzozn"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125141,
+      "name": "REGGEL",
+      "url": "https://open.spotify.com/track/00109ElG6Kp5SgVMgvaCm0"
     },
     {
       "album": {
@@ -1122,7 +1256,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189333,
       "name": "Small things",
       "url": "https://open.spotify.com/track/0pIkEi390vLhzMPLpTqhHD"
@@ -1237,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "Tengerszem",
+        "url": "https://open.spotify.com/album/6vbbsGtANQcVbwbDg9rbMb"
+      },
+      "artists": [
+        {
+          "name": "Szaffi",
+          "url": "https://open.spotify.com/artist/2t4t8NT5o7Q7OPpO9hw3hV"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201473,
+      "name": "Tengerszem",
+      "url": "https://open.spotify.com/track/4xt73I5nhieayoz3418Km0"
+    },
+    {
+      "album": {
         "name": "The Worst Thing",
         "url": "https://open.spotify.com/album/2xfdFJpzvMK9fFvVWKHqLs"
       },
@@ -1291,6 +1443,28 @@
     },
     {
       "album": {
+        "name": "B\u00e1ty\u00e1m, Dod\u00f3 - A Film",
+        "url": "https://open.spotify.com/album/4FBHvAtwqpEwojA6dDlvg5"
+      },
+      "artists": [
+        {
+          "name": "L.A. Suzi",
+          "url": "https://open.spotify.com/artist/35T2TZNtaWwxTwld0U13k3"
+        },
+        {
+          "name": "Csaknekedkisl\u00e1ny",
+          "url": "https://open.spotify.com/artist/1SN71xW3yOVbPgsGFBMXTZ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174957,
+      "name": "T\u00e1rsas\u00e1gban",
+      "url": "https://open.spotify.com/track/3vyz0Lh32tXc98nbzZgWat"
+    },
+    {
+      "album": {
         "name": "Unnom k\u00e9ne",
         "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
       },
@@ -1328,7 +1502,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 177039,
       "name": "Zavar",
       "url": "https://open.spotify.com/track/7dm2yr6YRLS4lkJwZA7Rad"
@@ -1364,10 +1538,32 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 130666,
       "name": "\u00cfLL\u00daZI\u00d3",
       "url": "https://open.spotify.com/track/469prOAswHTviYhZ8RAXRI"
+    },
+    {
+      "album": {
+        "name": "\u00d6r\u00f6kk\u00e9 fiatal - Sz\u00fclet\u00e9snapodra",
+        "url": "https://open.spotify.com/album/2PuvGPafc443j6aD2F4lKo"
+      },
+      "artists": [
+        {
+          "name": "Korinna",
+          "url": "https://open.spotify.com/artist/2KE76bjIxGIqxJC8p6ERYH"
+        },
+        {
+          "name": "UTAZ\u00d8",
+          "url": "https://open.spotify.com/artist/3IvlWt8F8VgcAldgjFaWnc"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271263,
+      "name": "\u00d6r\u00f6kk\u00e9 fiatal - Sz\u00fclet\u00e9snapodra",
+      "url": "https://open.spotify.com/track/5O3lTXeOtKbQeWWgzf1T9K"
     },
     {
       "album": {

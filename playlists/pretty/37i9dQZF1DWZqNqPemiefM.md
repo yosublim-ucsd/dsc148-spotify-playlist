@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,818 likes - 100 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,820 likes - 100 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 93 | [Nomozaki](https://open.spotify.com/track/3tUB1UvLWbFkSrPmFftXdp) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ), [角銅真実](https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ) | [Nomozaki](https://open.spotify.com/album/4Sm8ekmzW1tGc4JMSF8PAK) | 4:21 |
 | 94 | [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 |
 | 95 | [BALLADE OF AYA](https://open.spotify.com/track/3iBBDYtZzxyMfaTPBUonuh) | [ティン・パン・アレー](https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ) | [キャラメル・ママ](https://open.spotify.com/album/5Spc2oCDj38mKA33NpsfzG) | 1:38 |
-| 96 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |
-| 97 | [Oath](https://open.spotify.com/track/4Glh13oKfSEsDL0GtAyxw6) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Oath](https://open.spotify.com/album/2WweF0iUD71SuOdrUC7aXM) | 3:31 |
+| 96 | [Oath](https://open.spotify.com/track/4Glh13oKfSEsDL0GtAyxw6) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Oath](https://open.spotify.com/album/2WweF0iUD71SuOdrUC7aXM) | 3:31 |
+| 97 | [oto](https://open.spotify.com/track/5RbyOEJsxOVIOGUk1sxX6j) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [cendre](https://open.spotify.com/album/4PnuHl4d1rzQ8lsqxAfB6H) | 3:48 |
 | 98 | [Of Mystic Dreams](https://open.spotify.com/track/3dtTmuaWc0EcnnZK63CzSq) | [Chari Chari](https://open.spotify.com/artist/4MJT57L7RMCvSvg2GjU0wQ) | [We hear the last decades dreaming](https://open.spotify.com/album/55v2rPWFhanCrbVNytkTmT) | 6:26 |
 | 99 | [Zhan\-ti\-sui Temple](https://open.spotify.com/track/0aOmAlujBbTmbnMrxy0iwk) | [Utena Kobayashi](https://open.spotify.com/artist/3JU5NOb3kKE7xffuEn7udg) | [6 roads](https://open.spotify.com/album/0wvuqxZa7jZHv4N57qbJih) | 4:14 |
 | 100 | [the end](https://open.spotify.com/track/7vbxgYOAUfYKDHxIGWvVSW) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [マホロボシヤ](https://open.spotify.com/album/0UtJv0rHwQpBDFu2HAeLwd) | 1:15 |

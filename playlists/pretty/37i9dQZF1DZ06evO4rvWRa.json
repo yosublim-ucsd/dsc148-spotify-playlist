@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1639665,
+  "num_followers": 1639730,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC15o4r5BaW301m6GpL91Qg",
+  "snapshot_id": "ZtUAAAAAAADFS9YQGrEVa3V9rbje1C29",
   "tracks": [
     {
       "added_at": null,
@@ -239,6 +239,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "duration_ms": 138819,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/5j0uoFLuAcXYz2jTWPovHX"
       },
@@ -259,26 +279,6 @@
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        }
-      ],
-      "duration_ms": 138819,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
     },
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 178625,
-      "name": "Man On The Moon",
-      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unity",
         "url": "https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 204521,
       "name": "Unity",
       "url": "https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 178625,
+      "name": "Man On The Moon",
+      "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
     },
     {
       "added_at": null,

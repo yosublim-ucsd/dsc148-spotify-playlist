@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Jory Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,053 likes - 99 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,164 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,6 +106,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 96 | [ETA](https://open.spotify.com/track/7h01E3mGqPrudATKy7zVKN) | [ROA](https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH) | [ETA](https://open.spotify.com/album/7yofWqjDQfluI8HN9ZqUqq) | 2:03 |
 | 97 | [X MADRID](https://open.spotify.com/track/7dzgQFyIswR1VnewrMU06X) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Los Money Makers](https://open.spotify.com/artist/3xqON5f18PRtZ7jqPIXOHx) | [X MADRID](https://open.spotify.com/album/1RL9iRKuK6DoyviIrdOf9O) | 2:42 |
 | 98 | [MUJER FINA](https://open.spotify.com/track/4k0ieiGqa9HcHRwnzpvs1C) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Adan La Amenaza](https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S) | [MUJER FINA](https://open.spotify.com/album/6n82Dmo91AJ28X8Z4Yiy7W) | 2:26 |
-| 99 | [REAL GANGSTA LOVE](https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [EL ÚLTIMO BAILE](https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88) | 2:25 |
 
-Snapshot ID: `ZtIOSQAAAAAEPo9fjd82Q4CrATKsIKlL`
+Snapshot ID: `ZtdU/gAAAACqsS6agxb/Xnmkr0lSQYTd`

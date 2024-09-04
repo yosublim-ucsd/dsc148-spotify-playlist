@@ -2,7 +2,7 @@
 
 ### [This Is AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA)
 
-> This is AC/DC\. Todos os maiores hits em uma só playlist.
+> This is AC/DC\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 19 min
 
@@ -23,7 +23,7 @@
 | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/track/17lu4tymfnhmcIDlzBbtAb) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 5:44 | 2022-01-11 |  |
 | [Get It Hot](https://open.spotify.com/track/7HbHwtTGM3kCjDtmP00x4h) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 2:34 | 2023-05-05 | 2024-04-10 |
 | [Girls Got Rhythm](https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Highway to Hell](https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS) | 3:23 | 2022-01-11 |  |
-| [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 | 2022-01-11 | 2024-06-02 |
+| [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 | 2022-01-11 |  |
 | [Hard as a Rock](https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Ballbreaker](https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX) | 4:31 | 2022-01-11 |  |
 | [Hard Times](https://open.spotify.com/track/5aoTIWdzgcjGo3SdjxqWSf) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:44 | 2022-01-11 | 2024-03-17 |
 | [Have a Drink on Me](https://open.spotify.com/track/4dDurgTN3eGyU0ghzFJ0T1) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Back In Black](https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh) | 3:58 | 2023-12-13 |  |
@@ -43,7 +43,7 @@
 | [Moneytalks](https://open.spotify.com/track/5u5F7qLDvZjBSktaDp4HxB) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 3:45 | 2022-01-11 |  |
 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 | 2022-11-03 |  |
 | [Problem Child](https://open.spotify.com/track/5wTuWXWREngkFGtBXhOaI9) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 5:24 | 2022-01-11 | 2023-01-17 |
-| [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-01-11 |  |
+| [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 | 2022-01-11 | 2024-09-04 |
 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 | 2022-01-11 |  |
 | [Riff Raff](https://open.spotify.com/track/0DZwrC4QQOYqpcxCeZzwDg) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:11 | 2024-06-03 | 2024-07-12 |
 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 | 2022-01-11 |  |

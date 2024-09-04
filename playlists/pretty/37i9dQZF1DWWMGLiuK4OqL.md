@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,443 likes - 200 songs - 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,539 likes - 200 songs - 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,8 +194,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 184 | [Always on my mind](https://open.spotify.com/track/6kyUOXEadxHeG9ya0TuMIr) | [Lisa Östergren](https://open.spotify.com/artist/2KT7G56TlqNhbc3l98Lh4q) | [Always on my mind](https://open.spotify.com/album/5pFidxPVBBynmTakbH5LNL) | 3:31 |
 | 185 | [At Long Last Love \(Live\)](https://open.spotify.com/track/2w945NuM37wWFP4oU0jMqE) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Sullivan Fortner](https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5), [Barry Stephenson](https://open.spotify.com/artist/2be2q753N8e1UfuV5AvqNa), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [At Long Last Love \(Live\)](https://open.spotify.com/album/2U1H2DJYHC4TGCcnjA4be1) | 2:51 |
 | 186 | [Be My Man](https://open.spotify.com/track/6q9TIaTV1rY4AmpnFPp0RF) | [Jill Barber](https://open.spotify.com/artist/0Geq9Y20DjOlUjvmFZtzGx) | [Chances](https://open.spotify.com/album/1FlYFqevPq4JBfDJ2sA5nu) | 3:00 |
-| 187 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 |
-| 188 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 |
+| 187 | [Five Feet Tall](https://open.spotify.com/track/3Td12QdISvxCc924l70f8n) | [Lady Blackbird](https://open.spotify.com/artist/0CcvfJAMRa28MnCnujCdXQ) | [Black Acid Soul](https://open.spotify.com/album/50rbF4FiainFjqW5wWIASV) | 3:20 |
+| 188 | [It Never Entered My Mind](https://open.spotify.com/track/0e1AN11cklltbh13wD66E8) | [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre) | [I Fall in Love Too Easily](https://open.spotify.com/album/1HYUmEhSymsPgtTHGCnweI) | 4:28 |
 | 189 | [It Could Happen to You](https://open.spotify.com/track/6rZWAzKugoYcEqlhPN9DWv) | [Judy Whitmore](https://open.spotify.com/artist/2gzKEkaudJ2BTHE3o68se5) | [It Could Happen to You](https://open.spotify.com/album/5eLzriz99PfQs49eCfHAZ6) | 3:32 |
 | 190 | [Comment Allez Vous](https://open.spotify.com/track/6lz582LMeRURcWgJIozmzm) | [Nikki Yanofsky](https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi) | [Nikki By Starlight](https://open.spotify.com/album/6cCPj3K2gGar75Uo9r47iz) | 2:18 |
 | 191 | [I Wish You Love](https://open.spotify.com/track/5eg751DjyXstfd7xwdHZ62) | [Lauren Henderson](https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l), [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l), [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z), [Eric Wheeler](https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5), [Joe Dyson](https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS) | [I Wish You Love](https://open.spotify.com/album/6jmvc0SSvjpUSDwuxsFrSY) | 3:05 |

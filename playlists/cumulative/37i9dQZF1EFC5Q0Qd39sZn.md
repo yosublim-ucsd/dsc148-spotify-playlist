@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-610 songs - 1 day 18 hr 18 min
+611 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All My Tomorrows](https://open.spotify.com/track/5XZtY0wYBt5Hi5fY9I00Dy) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [From The Soul Of Man](https://open.spotify.com/album/01KHEEunv9YbTODeMUUT83) | 4:46 | 2023-12-30 |  |
 | [All The Way To Heaven](https://open.spotify.com/track/4lrR5IYT2zCnq6GxVHWBCl) | [House Of Lords](https://open.spotify.com/artist/0iu8uY2sqeWpiwxcdwOonn) | [World Upside Down](https://open.spotify.com/album/6oTjneTFA4iWTnhQxqFBFz) | 4:31 | 2024-07-10 |  |
 | [All The Way To Heaven](https://open.spotify.com/track/3S3FJ9kcmmmTY4nM0SdMcu) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:10 | 2023-12-30 | 2024-07-11 |
-| [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 | 2023-12-30 |  |
+| [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 | 2024-09-03 |  |
+| [All Your Attention](https://open.spotify.com/track/6rUQWAQuY5gFMNcltJVbdF) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/3RmAP5v4xev7yl3r0mjJPV) | 3:46 | 2023-12-30 | 2024-09-04 |
 | [And the Night Stood Still](https://open.spotify.com/track/1wiWoQ3YML4sOih65a4OLA) | [Smokie](https://open.spotify.com/artist/5rIqOJspxDq89aBBCUda1X) | [It's Country Time](https://open.spotify.com/album/1QS3ONEVnbVMYmQovpOUC8) | 3:46 | 2023-12-30 |  |
 | [Animal Crackers](https://open.spotify.com/track/7MLtoeFx1XO3BDsEWAX6Nc) | [Steven Tyler](https://open.spotify.com/artist/32zks9ovi0IExzUd1C7W6o) | [I Don't Want To Miss A Thing EP](https://open.spotify.com/album/3fk5Yk62Lekng4NQ89980F) | 2:35 | 2023-12-30 |  |
 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 | 2023-12-30 |  |

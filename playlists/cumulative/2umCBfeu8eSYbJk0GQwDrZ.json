@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "100 bux",
+        "url": "https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz"
+      },
+      "artists": [
+        {
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195093,
+      "name": "100 bux",
+      "url": "https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh"
+    },
+    {
+      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/0dUDaUYs1k6kZyZmgA1AtP"
       },
@@ -520,6 +538,24 @@
       "duration_ms": 175686,
       "name": "Bad World",
       "url": "https://open.spotify.com/track/1lCDMDAsX8nWrb4ccXROV9"
+    },
+    {
+      "album": {
+        "name": "The Phantom Five",
+        "url": "https://open.spotify.com/album/13rCwtfBHmNlPBYyFFU0u5"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183480,
+      "name": "Barbarian",
+      "url": "https://open.spotify.com/track/6mtmThSqO0iPpy3ttgfnHX"
     },
     {
       "album": {
@@ -1068,7 +1104,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 204240,
       "name": "Cactus Water",
       "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
@@ -1660,7 +1696,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 166631,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/4uDSbSTjuPL75gz5Z3ABHH"
@@ -1714,7 +1750,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 114333,
       "name": "Digital Slaves",
       "url": "https://open.spotify.com/track/2vMXEYcrqv5HAoBy83UQkT"
@@ -2107,6 +2143,28 @@
     },
     {
       "album": {
+        "name": "Faded Splendor (feat. Donovan Woods)",
+        "url": "https://open.spotify.com/album/72Orv4alDQj8tEwKzKMFIP"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        },
+        {
+          "name": "Donovan Woods",
+          "url": "https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234348,
+      "name": "Faded Splendor (feat. Donovan Woods)",
+      "url": "https://open.spotify.com/track/4AzBN2FRFxoORxSd8SlFZr"
+    },
+    {
+      "album": {
         "name": "Fall Into Me",
         "url": "https://open.spotify.com/album/6gbZnN5YXnkfHd0oljftk0"
       },
@@ -2313,6 +2371,24 @@
     },
     {
       "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F"
+      },
+      "artists": [
+        {
+          "name": "Catie Turner",
+          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197047,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E"
+    },
+    {
+      "album": {
         "name": "What's on Your Mind?",
         "url": "https://open.spotify.com/album/22ZNgbd6ZdsDeLDIwvbX9E"
       },
@@ -2382,6 +2458,28 @@
       "duration_ms": 216666,
       "name": "Fruits Of My Labor",
       "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
+    },
+    {
+      "album": {
+        "name": "Galina",
+        "url": "https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx"
+      },
+      "artists": [
+        {
+          "name": "Allie X",
+          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+        },
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270448,
+      "name": "Galina",
+      "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
     },
     {
       "album": {
@@ -2706,7 +2804,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 168328,
       "name": "GREEN TXTS",
       "url": "https://open.spotify.com/track/7sWnxtGHO5vo5US2S5yIXM"
@@ -3038,6 +3136,24 @@
       "duration_ms": 211120,
       "name": "Hello Lonely",
       "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+    },
+    {
+      "album": {
+        "name": "her",
+        "url": "https://open.spotify.com/album/6cUhnbhBBTFNb6z2w7llGx"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171757,
+      "name": "her",
+      "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM"
     },
     {
       "album": {
@@ -3482,7 +3598,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 168491,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f"
@@ -3518,7 +3634,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 218656,
       "name": "i hate texas",
       "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
@@ -3612,7 +3728,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 343980,
       "name": "I'm Not Alone",
       "url": "https://open.spotify.com/track/1HP7tKTAfMVyfratNpc6be"
@@ -3995,6 +4111,24 @@
     },
     {
       "album": {
+        "name": "Just The Thought",
+        "url": "https://open.spotify.com/album/7B1KPipFByhyqDq7D1WjWO"
+      },
+      "artists": [
+        {
+          "name": "Lia Pappas-Kemps",
+          "url": "https://open.spotify.com/artist/7N15xabCPo5XjsUSTnGVes"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247862,
+      "name": "Just The Thought",
+      "url": "https://open.spotify.com/track/5AfUzEMxWLsdjRpvobvRhn"
+    },
+    {
+      "album": {
         "name": "Keep Me Free",
         "url": "https://open.spotify.com/album/24lanOWGBoyBK7JT32mejS"
       },
@@ -4064,6 +4198,28 @@
       "duration_ms": 201102,
       "name": "Laced",
       "url": "https://open.spotify.com/track/7i0aLiaOPGf4KamTr69Dh2"
+    },
+    {
+      "album": {
+        "name": "Late To The Party (feat. Declan McKenna)",
+        "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Late To The Party (feat. Declan McKenna)",
+      "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
     },
     {
       "album": {
@@ -4691,6 +4847,24 @@
     },
     {
       "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3K5QrS5kwrgOnImdzKudug"
+      },
+      "artists": [
+        {
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/5uipT2ZryxZmnG2WQAzrI5"
+    },
+    {
+      "album": {
         "name": "Name of God",
         "url": "https://open.spotify.com/album/1bKT0c0tDqVeHx3G4VPGai"
       },
@@ -4864,7 +5038,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171232,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/6r1dG3TW8wpYMt9vSVAO3w"
@@ -5214,7 +5388,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 203716,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/2qF7DKXG3ULJJZ7QK1MZSH"
@@ -5997,6 +6171,24 @@
     },
     {
       "album": {
+        "name": "Isotope",
+        "url": "https://open.spotify.com/album/64gDz0I7VYp8NrDTJkjlZp"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238381,
+      "name": "Somebody Come Through",
+      "url": "https://open.spotify.com/track/4Sz61x2L4mYmtw47NBrzfC"
+    },
+    {
+      "album": {
         "name": "Rootin' For Ya",
         "url": "https://open.spotify.com/album/0hKRKYg5UNFALZdhwukJVL"
       },
@@ -6206,7 +6398,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 217871,
       "name": "still around",
       "url": "https://open.spotify.com/track/2Qe9pxPgnUBZMRDvonR0hK"
@@ -6246,6 +6438,24 @@
       "duration_ms": 219560,
       "name": "Still Water",
       "url": "https://open.spotify.com/track/1vsF7CkEYNAHarwF9ANndA"
+    },
+    {
+      "album": {
+        "name": "C\u00eepayak Joy",
+        "url": "https://open.spotify.com/album/4d3FTWhuRnLVDpKHDziJcz"
+      },
+      "artists": [
+        {
+          "name": "Ghostkeeper",
+          "url": "https://open.spotify.com/artist/3aNeKUntysMTujH191jiGX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188117,
+      "name": "Storm Chaser",
+      "url": "https://open.spotify.com/track/2TBgUyXbykG0XUsxNx49c6"
     },
     {
       "album": {
@@ -6773,6 +6983,24 @@
     },
     {
       "album": {
+        "name": "The Cue",
+        "url": "https://open.spotify.com/album/5diKbTj8sEwkVZ6mDD2k5a"
+      },
+      "artists": [
+        {
+          "name": "Sarah and the Sundays",
+          "url": "https://open.spotify.com/artist/1vnh2cDW2CgA5M1ya95mZG"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267248,
+      "name": "The Cue",
+      "url": "https://open.spotify.com/track/0SYrkhoxv7KujqhxO2PD5k"
+    },
+    {
+      "album": {
         "name": "The Glass",
         "url": "https://open.spotify.com/album/1ytv4k4Yiz5XupOA1Tbgjm"
       },
@@ -7156,7 +7384,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"
@@ -7448,7 +7676,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 184320,
       "name": "Wish We Never Met",
       "url": "https://open.spotify.com/track/5giQWAb5pDtpeBazjaGBPL"

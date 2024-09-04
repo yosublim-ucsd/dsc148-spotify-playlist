@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Lara Somogyi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,236 likes - 160 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,268 likes - 160 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

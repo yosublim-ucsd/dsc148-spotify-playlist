@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Swedish House Mafia & Alicia Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,076 likes - 115 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,155 likes - 115 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

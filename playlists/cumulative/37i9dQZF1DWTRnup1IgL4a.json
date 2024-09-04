@@ -599,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Cerulean Coast",
+        "url": "https://open.spotify.com/album/0TdiawvezxLE0aWFhNW6z8"
+      },
+      "artists": [
+        {
+          "name": "Suno Light",
+          "url": "https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164234,
+      "name": "Cerulean Coast",
+      "url": "https://open.spotify.com/track/151zr84hWWWrr8L1gAH8kM"
+    },
+    {
+      "album": {
         "name": "Clermont-Ferrand",
         "url": "https://open.spotify.com/album/4RgALF2EPsUJlZJ4PLGCli"
       },
@@ -3232,6 +3250,24 @@
       "duration_ms": 175914,
       "name": "s h a v a s a n a",
       "url": "https://open.spotify.com/track/4fCBUtCw1KkEqab3TTDIxr"
+    },
+    {
+      "album": {
+        "name": "Saint Placide",
+        "url": "https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup"
+      },
+      "artists": [
+        {
+          "name": "Finlep",
+          "url": "https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155016,
+      "name": "Saint Placide",
+      "url": "https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8"
     },
     {
       "album": {

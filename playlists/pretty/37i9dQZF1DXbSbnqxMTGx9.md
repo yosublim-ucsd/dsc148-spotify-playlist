@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,008,512 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,008,892 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 91 | [Bam Bam](https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj) | [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [One Two](https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN) | 3:16 |
 | 92 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 93 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
-| 94 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
-| 95 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
-| 96 | [Double Barrel](https://open.spotify.com/track/1TBjuwSsm731S048oMDehz) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:46 |
-| 97 | [East of the River Nile \- 1971 Version](https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [Rebel Music: A Reggae Anthology](https://open.spotify.com/album/6fzSXHcEKtKgewVwHydgsD) | 2:47 |
-| 98 | [Kingston Town](https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:09 |
-| 99 | [Mr\. Bojangles](https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts of Holt \(Deluxe Edition\)](https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs) | 5:18 |
+| 94 | [Mr\. Bojangles](https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts of Holt \(Deluxe Edition\)](https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs) | 5:18 |
+| 95 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
+| 96 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 97 | [Double Barrel](https://open.spotify.com/track/1TBjuwSsm731S048oMDehz) | [Dave & Ansell Collins](https://open.spotify.com/artist/7bf9XwZiLZNWCC0XNiZaN9) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:46 |
+| 98 | [East of the River Nile \- 1971 Version](https://open.spotify.com/track/44Oy8VNAjajn6zT2BRUxzy) | [Augustus Pablo](https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI) | [Rebel Music: A Reggae Anthology](https://open.spotify.com/album/6fzSXHcEKtKgewVwHydgsD) | 2:47 |
+| 99 | [Kingston Town](https://open.spotify.com/track/6UP58GoB80kzAX6eowFj3M) | [Lord Creator](https://open.spotify.com/artist/3KlE1auvNzJPD27W4hEHjs) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:09 |
 | 100 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/7kTvXtMERxvwCGcWv68ssH) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Bad To The Bone](https://open.spotify.com/album/5YEv101kdWy8liOvCZWtzy) | 3:46 |
 
 Snapshot ID: `ZpD3ewAAAACD/VRBno09HZL6DK+zQTq3`

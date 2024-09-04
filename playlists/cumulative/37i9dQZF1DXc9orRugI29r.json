@@ -187,6 +187,24 @@
     },
     {
       "album": {
+        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
+        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento",
+      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
+    },
+    {
+      "album": {
         "name": "El Bellako",
         "url": "https://open.spotify.com/album/1jTPG5Ta9ynl446ZzOhuEq"
       },
@@ -3319,6 +3337,28 @@
     },
     {
       "album": {
+        "name": "ella brilla",
+        "url": "https://open.spotify.com/album/4SUUGxQ9wjP323SAc6VAuD"
+      },
+      "artists": [
+        {
+          "name": "RIZA",
+          "url": "https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1"
+        },
+        {
+          "name": "Humbe",
+          "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263600,
+      "name": "ella brilla",
+      "url": "https://open.spotify.com/track/4xadguhD6ztFKReVXwLTEt"
+    },
+    {
+      "album": {
         "name": "ELOVRGA",
         "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
       },
@@ -6162,7 +6202,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 158545,
       "name": "Lo Que Hay X Aqu\u00ed",
       "url": "https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf"
@@ -6956,7 +6996,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 234077,
       "name": "Mejores Jordans",
       "url": "https://open.spotify.com/track/1cZHUhGz7xJ8c4szDipipd"

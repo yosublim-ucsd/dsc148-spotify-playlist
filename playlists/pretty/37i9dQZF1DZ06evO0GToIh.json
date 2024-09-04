@@ -1,12 +1,12 @@
 {
   "description": "This Is Eden Mu\u00f1oz. Los temas esenciales, todos en una lista.",
-  "num_followers": 243804,
+  "num_followers": 243897,
   "original_name": "This Is Eden Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAj9nQIC3KYpGRIcJXf7v8q",
+  "snapshot_id": "ZtUAAAAAAADqzRCQOOrOo5a0XG3Ct5wI",
   "tracks": [
     {
       "added_at": null,
@@ -27,6 +27,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Abcdario",
         "url": "https://open.spotify.com/album/7BgImTrFzm2nQQW59IeFGD"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 220650,
       "name": "Abcdario",
       "url": "https://open.spotify.com/track/0qCPD6ilr9nXkI4KVZgcns"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 241029,
+      "name": "Ni Te Conozco, Ni Me Saludes",
+      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Consejos Gratis",
         "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 241029,
-      "name": "Ni Te Conozco, Ni Me Saludes",
-      "url": "https://open.spotify.com/track/4ybR1EefMYDu8n2onlvid9"
+      "duration_ms": 245846,
+      "name": "Mi Lugar Favorito",
+      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
     },
     {
       "added_at": null,
@@ -788,9 +804,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 245846,
-      "name": "Mi Lugar Favorito",
-      "url": "https://open.spotify.com/track/1gYG0DmOex4cswuejfN1H1"
+      "duration_ms": 186896,
+      "name": "Mi Momento M\u00e1s Ex-Quizofr\u00e9nico",
+      "url": "https://open.spotify.com/track/4uxMnpm66SEML1u5DqhUH2"
     },
     {
       "added_at": null,
@@ -856,9 +872,9 @@
           "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 186896,
-      "name": "Mi Momento M\u00e1s Ex-Quizofr\u00e9nico",
-      "url": "https://open.spotify.com/track/4uxMnpm66SEML1u5DqhUH2"
+      "duration_ms": 171531,
+      "name": "Juro",
+      "url": "https://open.spotify.com/track/5HxabFJVCV45wrWwLw3NOQ"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 213760,
       "name": "Tu Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eden",
-        "url": "https://open.spotify.com/album/2Mhh5KI8hfKMkpHs7xkWBt"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 171531,
-      "name": "Juro",
-      "url": "https://open.spotify.com/track/5HxabFJVCV45wrWwLw3NOQ"
     }
   ],
   "unique_name": "This Is Eden Mu\u00f1oz",

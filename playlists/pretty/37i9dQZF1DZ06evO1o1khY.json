@@ -1,12 +1,12 @@
 {
   "description": "This is GloRilla. The essential tracks, all in one playlist.",
-  "num_followers": 20152,
+  "num_followers": 20196,
   "original_name": "This Is GloRilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADRKrjxSd67BzWsRRCD2Ohy",
+  "snapshot_id": "ZtUAAAAAAACzdjIjuKzRBGtzjlCyaRP2",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Leave My Baby Tonight (feat. GloRilla)",
+      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "No Bih",
+      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
         "url": "https://open.spotify.com/album/7LK4ohmEO3Arm7oXyd1eVk"
       },
@@ -343,22 +379,6 @@
       "duration_ms": 179666,
       "name": "Mama (with Skilla Baby feat. GloRilla) (Remix)",
       "url": "https://open.spotify.com/track/62Vzyj4Nyy7DeBF2q21dYG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ehhthang Ehhthang",
-        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "No Bih",
-      "url": "https://open.spotify.com/track/3WnxnjGIwQ7rJ7igCOu93l"
     },
     {
       "added_at": null,
@@ -399,26 +419,6 @@
       "duration_ms": 177000,
       "name": "Wrong One (with Gloss Up & Slimeroni feat. K Carbon, Aleza, Tay Keith)",
       "url": "https://open.spotify.com/track/52WoZbGVLrEW0w6AGT9wNS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Leave My Baby Tonight (feat. GloRilla)",
-      "url": "https://open.spotify.com/track/79Az2dOKvoR2hfVEIRZd1D"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 158136,
-      "name": "Nut Quick",
-      "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Show Dat Work (feat. GloRilla & Rob49)",
         "url": "https://open.spotify.com/album/3h6UsC0h6zJXxNITr2OFqV"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 222313,
       "name": "Show Dat Work (feat. GloRilla & Rob49)",
       "url": "https://open.spotify.com/track/3sQinkjMM30VKi3xMdHtA9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 158136,
+      "name": "Nut Quick",
+      "url": "https://open.spotify.com/track/5HlRNODfFSmMcKJkO3zJzv"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 190276,
-      "name": "No More Love",
-      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Internet Trolls (feat. Hitkidd)",
         "url": "https://open.spotify.com/album/34wQFCaqldXSuCIaYp6dt3"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 140572,
       "name": "Internet Trolls (feat. Hitkidd)",
       "url": "https://open.spotify.com/track/7KA9GDEQiMeiuBKunBdwNk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 190276,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/4LDsVBEtxW7Y2liU2wJokp"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anyways, Life\u2019s Great\u2026",
-        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        }
-      ],
-      "duration_ms": 170711,
-      "name": "Out Loud Thinking",
-      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Strictly 4 My Fans 2",
         "url": "https://open.spotify.com/album/5ujM8ZczJbszMvGoWeXmvW"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anyways, Life\u2019s Great\u2026",
+        "url": "https://open.spotify.com/album/1kLWQJYzHP0kX6peGevMkC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        }
+      ],
+      "duration_ms": 170711,
+      "name": "Out Loud Thinking",
+      "url": "https://open.spotify.com/track/0EF2x6DfhDECvRVTdJvBDs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Anyways, Life\u2019s Great\u2026Bonus Edition",
         "url": "https://open.spotify.com/album/2IzitJYy4iVenjF1odSFnf"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 197011,
       "name": "Ex\u2019s (Phatnall Remix) (with Lil Durk)",
       "url": "https://open.spotify.com/track/7M3h8JeDhIQIsdQdMrWohi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside",
+        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Niki Pooh",
+          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
+        }
+      ],
+      "duration_ms": 155193,
+      "name": "Outside",
+      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
     },
     {
       "added_at": null,
@@ -751,46 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outside",
-        "url": "https://open.spotify.com/album/1rRGUmICffgc41b0BRj0kC"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Niki Pooh",
-          "url": "https://open.spotify.com/artist/3hG09J3PPVnHvslivvE3GX"
-        }
-      ],
-      "duration_ms": 155193,
-      "name": "Outside",
-      "url": "https://open.spotify.com/track/6dzhoFsAUAbTAeJgL7gMaG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Overstood (GloRilla)",
-      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Made Self Paid",
         "url": "https://open.spotify.com/album/30FjRjmPxOqIV8EgKDJTGk"
       },
@@ -807,6 +787,30 @@
       "duration_ms": 190008,
       "name": "When She Drunk",
       "url": "https://open.spotify.com/track/0wjB4Pndeqcp6QO9HFKhdX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 211006,
+      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
+      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
     },
     {
       "added_at": null,
@@ -851,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gangsta Art 2",
-        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
-      },
-      "artists": [
-        {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        },
-        {
-          "name": "CMG The Label",
-          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
-        }
-      ],
-      "duration_ms": 211006,
-      "name": "Cha Cha Cha (GloRilla, Fivio Foreign)",
-      "url": "https://open.spotify.com/track/7KNccGSE8lwRn9Gu0BY8Q6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loving U 2 Hard",
         "url": "https://open.spotify.com/album/1mhv3iYPEraW7U5tqPofri"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 205271,
       "name": "Loving U 2 Hard",
       "url": "https://open.spotify.com/track/6kEsXIEMmDsFzpSjCSriSf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Overstood (GloRilla)",
+      "url": "https://open.spotify.com/track/3Kvlx0keyt38EpBFlJkNv5"
     },
     {
       "added_at": null,

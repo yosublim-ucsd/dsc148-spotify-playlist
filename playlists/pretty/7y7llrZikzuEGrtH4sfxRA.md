@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7y7llrZikzuEGrtH4sfxRA.md) - [plain]
 
 > 
 
-[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,599 likes - 20 songs - 58 min 54 sec
+[Matroda](https://open.spotify.com/user/2nightmgmt) - 1,600 likes - 20 songs - 58 min 54 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

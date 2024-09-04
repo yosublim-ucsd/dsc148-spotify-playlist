@@ -1,12 +1,12 @@
 {
-  "description": "This is Azzy. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 7997,
+  "description": "This is Azzy. The essential tracks, all in one playlist.",
+  "num_followers": 8003,
   "original_name": "This Is Azzy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACw/5Js45KViUMOXm33ipRR",
+  "snapshot_id": "ZtUAAAAAAAAVHl+3xPfhpw8fRXgSOFsm",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "INEF\u00c1VEL",
+        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
+      },
+      "artists": [
+        {
+          "name": "Long beatz",
+          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Romano",
+          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
+        }
+      ],
+      "duration_ms": 136750,
+      "name": "Dolce",
+      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Arquivos",
         "url": "https://open.spotify.com/album/0CtmDIpvYbwoOt7iMcVJw9"
       },
@@ -755,30 +779,6 @@
       "duration_ms": 135517,
       "name": "Pra Te Envolver",
       "url": "https://open.spotify.com/track/7xITQo1LbeHwrZbMiA9wPW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INEF\u00c1VEL",
-        "url": "https://open.spotify.com/album/1zztQHsfyK0hYA8debeM6X"
-      },
-      "artists": [
-        {
-          "name": "Long beatz",
-          "url": "https://open.spotify.com/artist/1oBkccDqIDMTntIIHKlJBp"
-        },
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Romano",
-          "url": "https://open.spotify.com/artist/4WOmrdbsuZMutpAiX56Jp6"
-        }
-      ],
-      "duration_ms": 136750,
-      "name": "Dolce",
-      "url": "https://open.spotify.com/track/5pzkXOVH7FgEDu6RuqngQL"
     },
     {
       "added_at": null,
@@ -919,6 +919,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "VIP",
+        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 130800,
+      "name": "VIP",
+      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TUDO \u00c9 SOBRE M\u00daSICA",
         "url": "https://open.spotify.com/album/54pdTQYeRuXqDCcpB1iRC7"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 206106,
       "name": "TUDO \u00c9 SOBRE M\u00daSICA",
       "url": "https://open.spotify.com/track/15APNO11OHG2LfvFzgvvE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIP",
-        "url": "https://open.spotify.com/album/7un1PXzwYc8D8Mk6eiQDtv"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        }
-      ],
-      "duration_ms": 130800,
-      "name": "VIP",
-      "url": "https://open.spotify.com/track/4b8tsQoH69au6oca7bozA3"
     },
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
-        "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        }
-      ],
-      "duration_ms": 214772,
-      "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
-      "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patroa",
         "url": "https://open.spotify.com/album/2ojij9qTa6YUIqrAxukcwL"
       },
@@ -1071,26 +1047,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consequ\u00eancias",
-        "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
+        "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
+        "url": "https://open.spotify.com/album/1PU300VLz10xB5jMs5OVBn"
       },
       "artists": [
-        {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
-        },
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
         },
         {
-          "name": "Amabbi",
-          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         }
       ],
-      "duration_ms": 179340,
-      "name": "Seu Fogo",
-      "url": "https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm"
+      "duration_ms": 214772,
+      "name": "Nota$ (Papatracks #3) (Participa\u00e7\u00e3o especial de Papatinho)",
+      "url": "https://open.spotify.com/track/3zbMe3OWUAoUH2ptQnqYTY"
     },
     {
       "added_at": null,
@@ -1155,6 +1131,30 @@
       "duration_ms": 1147406,
       "name": "Poetas No Topo 3.3, Pt. 1",
       "url": "https://open.spotify.com/track/67vfgPDV3JirBIMpeUzqYu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Consequ\u00eancias",
+        "url": "https://open.spotify.com/album/0iRMKFD3Pwq7heMrMsg8Dk"
+      },
+      "artists": [
+        {
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        }
+      ],
+      "duration_ms": 179340,
+      "name": "Seu Fogo",
+      "url": "https://open.spotify.com/track/5xBJ8FanTJP98CXe5mI6Xm"
     },
     {
       "added_at": null,
@@ -1235,6 +1235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "LOVEZY",
+        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+      },
+      "artists": [
+        {
+          "name": "Azzy",
+          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        }
+      ],
+      "duration_ms": 150266,
+      "name": "Ctrl Z",
+      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eles N\u00e3o Ligam Pra Gente",
         "url": "https://open.spotify.com/album/0uWq40BZUNbaZqpjGyVCPn"
       },
@@ -1271,18 +1287,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOVEZY",
-        "url": "https://open.spotify.com/album/2H0cMONtIiEgY0Mycmvmvp"
+        "name": "Tifanny",
+        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
       },
       "artists": [
         {
           "name": "Azzy",
           "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
+        },
+        {
+          "name": "Tlust",
+          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
+        },
+        {
+          "name": "Bgnobeat",
+          "url": "https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp"
         }
       ],
-      "duration_ms": 150266,
-      "name": "Ctrl Z",
-      "url": "https://open.spotify.com/track/6bCCjHiTv7b8DiaSu7ZhPp"
+      "duration_ms": 160056,
+      "name": "Tifanny",
+      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
     },
     {
       "added_at": null,
@@ -1307,30 +1331,6 @@
       "duration_ms": 243112,
       "name": "Meio Dia",
       "url": "https://open.spotify.com/track/2LjonKYRikUx7H3H96MbBi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tifanny",
-        "url": "https://open.spotify.com/album/7ARaUBO3YmdZ91wDdSn643"
-      },
-      "artists": [
-        {
-          "name": "Azzy",
-          "url": "https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83"
-        },
-        {
-          "name": "Tlust",
-          "url": "https://open.spotify.com/artist/6M1ffwjNDqXAkqpppHukl6"
-        },
-        {
-          "name": "Bgnobeat",
-          "url": "https://open.spotify.com/artist/5V6BONZ5wppD3nyZtFtjqp"
-        }
-      ],
-      "duration_ms": 160056,
-      "name": "Tifanny",
-      "url": "https://open.spotify.com/track/7rSH0RAJ3IkeiXfwqEZERJ"
     },
     {
       "added_at": null,

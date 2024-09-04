@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. Kapak: Skapova
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,531 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,692 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [İçimde Aşk Var](https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [İçimde Aşk Var](https://open.spotify.com/album/0LdGyfUXeGIe39klUkXU22) | 4:28 |
-| 2 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 |
-| 3 | [Hepsi Senin Yüzünden](https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Hepsi Senin Yüzünden](https://open.spotify.com/album/3govR0zpi3USm1IBvlhShd) | 3:40 |
+| 1 | [Hepsi Senin Yüzünden](https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Hepsi Senin Yüzünden](https://open.spotify.com/album/3govR0zpi3USm1IBvlhShd) | 3:40 |
+| 2 | [İçimde Aşk Var](https://open.spotify.com/track/5tM6oJsuJodYtaSOj33Pqy) | [Duman](https://open.spotify.com/artist/6RTC1abMgBC7Krg6qJQHJh) | [İçimde Aşk Var](https://open.spotify.com/album/0LdGyfUXeGIe39klUkXU22) | 4:28 |
+| 3 | [Sen Bilmezsin](https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9) | [Dedublüman](https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT) | [Sen Bilmezsin](https://open.spotify.com/album/5a3y1scYJAt1OALSshX5kp) | 2:53 |
 | 4 | [Ahu Gözlüm](https://open.spotify.com/track/5XKA8HR1B7XDDGKzgwRqII) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [Ahu Gözlüm](https://open.spotify.com/album/5DVYAqvVw2E9O4oYxRsYcN) | 3:31 |
 | 5 | [Her Şey Senin Yüzünden Oldu](https://open.spotify.com/track/76GJmPtPz8iygah2ZQA1c4) | [Kolpa](https://open.spotify.com/artist/1QZYklqR55tZ6b5mK4LD41) | [Her Şey Senin Yüzünden Oldu](https://open.spotify.com/album/2tV8jDd5o2rFd62FjpfwWr) | 3:03 |
 | 6 | [Benim Annem Cumartesi](https://open.spotify.com/track/4nnL9DsffF3l1kcQGYv3UM) | [Teoman](https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT) | [Benim Annem Cumartesi](https://open.spotify.com/album/37YBibpnGZKbx5odcnxBUz) | 5:10 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Gökyüzüm](https://open.spotify.com/track/0Ougz6VoBrcIqaN4QgrmD9) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [İçimdeki Şeytan](https://open.spotify.com/album/70oT5XaoPS0gQcNwton0iw) | 4:04 |
 | 75 | [PİÇ](https://open.spotify.com/track/6mOWYGO4GGTOA5ixHz8S28) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [PİÇ](https://open.spotify.com/album/3FI0Vd5dS1lxf7nTklAAAV) | 3:27 |
 
-Snapshot ID: `ZtDhUAAAAAC00uZ7gk35XWngRsA0BMRj`
+Snapshot ID: `Ztbq3QAAAAA99thLrd63PBZFgeeQKrQA`

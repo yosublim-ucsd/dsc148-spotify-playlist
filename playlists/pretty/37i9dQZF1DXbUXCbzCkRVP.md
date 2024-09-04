@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,129 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,164 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

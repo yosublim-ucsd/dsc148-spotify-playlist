@@ -2,9 +2,9 @@
 
 ### [Éxitos Cristianos](https://open.spotify.com/playlist/37i9dQZF1DWUjxqgjSiQ9K)
 
-> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a>
+> Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:71UQaXNOhfg5hlYglhzVCJ">Montesanto</a>
 
-633 songs - 2 day 0 hr 41 min
+634 songs - 2 day 0 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [El Rey Judío](https://open.spotify.com/track/26uRpmqdNBbm2x8lWhxT4p) | [Felipe S\. Santos](https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ), [UPPERROOM](https://open.spotify.com/artist/107CG0UhUl9GJnPwF83N63), [Laura Souguellis](https://open.spotify.com/artist/0MDyxNYI11EEQWhjsrPFd2) | [El Rey Judío](https://open.spotify.com/album/3EpigUb6xOe8aTV9MWQmiN) | 5:33 | 2023-06-02 | 2024-04-13 |
 | [El Rollo y el Cordero](https://open.spotify.com/track/6GLNLZWHlUQnpPK5DFRZXp) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [MARIANA & JORGE](https://open.spotify.com/artist/4lUskbAla1pz1aQ5gTkXYG) | [En Órbita](https://open.spotify.com/album/46HdJMhs9goXDs06f3AJQa) | 8:57 | 2022-09-09 | 2022-10-01 |
 | [El rollo y el Cordero](https://open.spotify.com/track/7azBBVR9SOOiEjH4uH6wCW) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [MARIANA & JORGE](https://open.spotify.com/artist/4lUskbAla1pz1aQ5gTkXYG) | [El rollo y el Cordero](https://open.spotify.com/album/2z0FfU7JteYH3TDUkqgwr9) | 8:57 | 2022-06-17 | 2022-09-12 |
+| [El Rostro de mi Amado](https://open.spotify.com/track/2EPhkxJ0sLbfSMfmsGtpBC) | [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ), [Belen Losa](https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw) | [El Rostro de mi Amado](https://open.spotify.com/album/6cBkIDjkcnV7ufQYcp5Ej2) | 9:33 | 2024-09-03 |  |
 | [Emanuel](https://open.spotify.com/track/5n8Hp42nZLXEK29gjCm1J1) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Yvonne Muñoz](https://open.spotify.com/artist/5eF9oy3uIgTMRIX3xkAfGi) | [LA MESA](https://open.spotify.com/album/6YQ7BHSUUW6g7XqvPLHBBu) | 13:49 | 2023-09-01 |  |
 | [En Cada Momento](https://open.spotify.com/track/6a3UnW9xFQ4Zy4B16Kc3np) | [Lakewood Music](https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK), [Lakewood Music En Español](https://open.spotify.com/artist/5XAt0k3kGNRjfBXcATmQq8), [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [En Cada Momento](https://open.spotify.com/album/6sbuculhCd2NDU6eqJ0GAh) | 5:12 | 2022-03-25 | 2022-07-30 |
 | [En el estudio con Manny Montes Vol\. 4](https://open.spotify.com/track/2k3zCJ36BmRBINkHV3gWf7) | [D\-One Music](https://open.spotify.com/artist/3r05q2979rrzlHZPgAu7y5), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [En el estudio con Manny Montes Vol\. 4](https://open.spotify.com/album/7HIGaVBJlUaRxYt8dyXVCP) | 3:13 | 2022-11-25 | 2023-01-06 |

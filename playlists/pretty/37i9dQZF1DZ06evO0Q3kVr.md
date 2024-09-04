@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 ### [This Is Banda Bostik](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr)
 
-> This Is Banda Bostik\. Los temas esenciales, todos en una lista.
+> This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,073 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,078 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 49 | [Exeso de Droga](https://open.spotify.com/track/1JVc0G7dDEXJskkEcOD2Oa) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 7:06 |
 | 50 | [C\. P.](https://open.spotify.com/track/6MAslBnj6a3vpV9YcEt90S) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:28 |
 
-Snapshot ID: `ZtOugAAAAACSseaMgiyOuXhB7Gk12EI9`
+Snapshot ID: `ZtUAAAAAAAAFB2LgCtEC4Uo4yT5ZthHt`

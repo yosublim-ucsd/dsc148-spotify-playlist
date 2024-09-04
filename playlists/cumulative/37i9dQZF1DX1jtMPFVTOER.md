@@ -4,7 +4,7 @@
 
 > Explore a genre bending universe centered around jazz\. Cover: Butcher Brown
 
-586 songs - 1 day 11 hr 2 min
+587 songs - 1 day 11 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Stranger Eye](https://open.spotify.com/track/7sEuyKNwMUqwK2Gthp0dDj) | [Sabah Kenway](https://open.spotify.com/artist/62GDAtCrjMrMpNugEPVAiU) | [Stranger Eye](https://open.spotify.com/album/46ViRh1efEK4HAnjRi6Fy4) | 2:53 | 2021-11-12 | 2022-06-04 |
 | [Strawberry](https://open.spotify.com/track/46ZmZ48eTglTAnb7BqQjON) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY) | [Strawberry](https://open.spotify.com/album/53lI2ay35ks4BOQqCPGVeD) | 2:30 | 2022-06-17 | 2022-11-12 |
 | [Strawberry](https://open.spotify.com/track/4e2NJh3yhNT4eNXYaNs3Zr) | [love\-sadKID](https://open.spotify.com/artist/75AKgMMrk1CG5sURNvyX9s), [Garrett.](https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY) | [Strawberry](https://open.spotify.com/album/1VTmYlNHYrTs22mHOGVPDR) | 2:30 | 2022-06-17 | 2022-10-13 |
+| [Streets is Calling \- Single Edit](https://open.spotify.com/track/5FHGzDVFbvZKVoDkJMUWCE) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets is Calling](https://open.spotify.com/album/1nnnWSZpUIdUipG0pDaceS) | 2:32 | 2024-08-30 |  |
 | [Stuck](https://open.spotify.com/track/2YlQ1W3eGXc29XkTVNXovj) | [Headnodic](https://open.spotify.com/artist/7LB0RfmtjwsMFr5OW3H0r3), [Lalin St\. Juste](https://open.spotify.com/artist/0Ly3lk1h5aYHS2N41YzjXe) | [Stuck](https://open.spotify.com/album/4AFLsHmk19ZQQcG4fhTrEW) | 3:13 | 2021-11-12 | 2022-05-07 |
 | [Sugar Coating \- Edit](https://open.spotify.com/track/4dQi75NfxBM2XrUQCmCKfP) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX) | [Sugar Coating](https://open.spotify.com/album/1VKV9JOtOEbfWEKHAxvXBb) | 3:10 | 2023-05-05 | 2024-03-02 |
 | [Summer Love](https://open.spotify.com/track/7BPEc1YXCT4Z2pDBRpcXw5) | [CHERISE](https://open.spotify.com/artist/36J979CZNAI4GsrElYFUOC) | [Calling](https://open.spotify.com/album/6GmQbbAubfdTePHW6edf93) | 3:27 | 2023-07-07 |  |

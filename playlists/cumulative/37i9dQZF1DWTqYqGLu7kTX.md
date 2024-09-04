@@ -4,7 +4,7 @@
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-186 songs - 9 hr 25 min
+187 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [ASSAULT](https://open.spotify.com/track/6pIeD35oayy0j7swdSbBnE) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0) | [VIBIN](https://open.spotify.com/album/2GPHbR6aZ2rZooX6dF1nwB) | 1:56 | 2023-03-18 | 2024-02-10 |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-08-30 |  |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-05 | 2024-08-27 |
+| [Badland](https://open.spotify.com/track/1MvSyJE0RcXWfcEVpWaTPO) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Spaceship](https://open.spotify.com/artist/6w4hV4erWlCgsaNUEmS7od) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 3:21 | 2024-09-03 |  |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2023-03-18 | 2024-04-06 |
 | [Barks](https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Azaad 4L](https://open.spotify.com/artist/1ldpy9FewJ95Fk8xniyxU6) | [Barks](https://open.spotify.com/album/7hIJMW0abXIaHukdRuCp8l) | 2:23 | 2024-07-26 |  |
 | [Bhabi](https://open.spotify.com/track/0SQQc3FJiY1pMUV3GJ0vUN) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN), [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC) | [Bhabi](https://open.spotify.com/album/5FhMfJbIUBFkdZYRTllQGi) | 2:13 | 2024-07-18 | 2024-08-22 |
@@ -53,7 +54,7 @@
 | [Cheques](https://open.spotify.com/track/4eBvRhTJ2AcxCsbfTUjoRp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 3:03 | 2023-06-23 |  |
 | [Chorni](https://open.spotify.com/track/3GEiVoaUXq468gfYs2EPfh) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Chorni](https://open.spotify.com/album/5zGHPCBVVX3L7UADaS2AQ8) | 3:01 | 2023-07-07 |  |
 | [Clash](https://open.spotify.com/track/7krGSbOnw13S7tIpgVEWAo) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 2:56 | 2023-03-18 | 2023-09-05 |
-| [Cloud 9](https://open.spotify.com/track/2xgtCp6JpkiIx4PsW0SuFV) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Cloud 9](https://open.spotify.com/album/5MVcpqBjVQhYBesdGYYW4e) | 2:16 | 2024-05-16 |  |
+| [Cloud 9](https://open.spotify.com/track/2xgtCp6JpkiIx4PsW0SuFV) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Cloud 9](https://open.spotify.com/album/5MVcpqBjVQhYBesdGYYW4e) | 2:16 | 2024-05-16 | 2024-09-04 |
 | [Compulsory](https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Step Up](https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO) | 3:36 | 2023-03-18 | 2024-04-03 |
 | [Dabb Nal](https://open.spotify.com/track/6G1ytXcX96NOSOT3e46umY) | [Bally Bhinder](https://open.spotify.com/artist/6RW1VVbDxHlS1m7NzbGuld), [UPPAL](https://open.spotify.com/artist/1oPAPxl8tllygRBMZO8jkQ), [Tyga Productions](https://open.spotify.com/artist/6JexoE8wiAiQBZQtKGRfno) | [Dabb Nal](https://open.spotify.com/album/4C9e8PZourPawibCJ7CnRq) | 2:23 | 2024-03-28 | 2024-07-27 |
 | [Daku](https://open.spotify.com/track/3wz2vWhYnnBoFmgMkqtzLy) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [Daku](https://open.spotify.com/album/3RaIXDlIRvziryGLXm8lBR) | 2:11 | 2023-03-18 |  |

@@ -4,7 +4,7 @@
 
 > The home of rage rap\. Cover: Destroy Lonely
 
-108 songs - 4 hr 34 min
+111 songs - 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [FUK SUMN](https://open.spotify.com/track/5tEaVciE2GnR28aN6W9cLS) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 3:29 | 2024-03-15 |  |
 | [Gimme Da Lite](https://open.spotify.com/track/5VE6OSfJkMHyMpHaJzuUqn) | [Southside](https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Gimme Da Lite](https://open.spotify.com/album/3nje1igt9y3c85Hx5IbxVx) | 1:53 | 2024-03-15 |  |
 | [Givenchy Kick\-Flip](https://open.spotify.com/track/0xtwb8CmysbHcqLYVUqWdy) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Music B4 Music](https://open.spotify.com/album/2NDLmnHVgicUmK6oEz0JMH) | 2:11 | 2024-05-14 | 2024-08-21 |
+| [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 | 2024-09-03 |  |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-07-31 |  |
 | [Headrush](https://open.spotify.com/track/6DO3EWwZc2wBBS2wJgl4fs) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Headrush](https://open.spotify.com/album/6K4LqNp0rbZVOYj4KchUcX) | 2:50 | 2024-05-14 |  |
 | [Heavy stunts \(with Don Toliver\)](https://open.spotify.com/track/6aC3a6uYGxo2uTAmYPUI1d) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [King tonka](https://open.spotify.com/album/44LBYjW1xDuMiYBHwVHM8L) | 3:25 | 2024-05-05 |  |
@@ -40,6 +41,7 @@
 | [HI\-VOLTAGE](https://open.spotify.com/track/1pq17iFsWxlcUMK3kHrCAr) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [HI\-VOLTAGE](https://open.spotify.com/album/07c7CJkXRPhZq1DQFe3ubf) | 1:58 | 2024-03-29 | 2024-06-01 |
 | [how u feel?](https://open.spotify.com/track/5BsigwhOMHxCkF6ntEhUQ5) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:53 | 2023-12-01 | 2024-04-27 |
 | [i need u](https://open.spotify.com/track/2gSPHSdf0vrk2Psxmn8sUn) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [i need u](https://open.spotify.com/album/0uSAjejTknuT68AYVrzsmz) | 2:28 | 2023-12-01 | 2024-03-16 |
+| [I Rot, I Rot.](https://open.spotify.com/track/6S2Uwo1I2uwyDh7IUx23MM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 1:59 | 2024-09-03 |  |
 | [i suppose'](https://open.spotify.com/track/3gcWCQg7hbMzBj1NzYsHhE) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [searching for klarity](https://open.spotify.com/album/220lwYHC2mt97anoKSMFj2) | 3:18 | 2023-12-01 | 2024-06-01 |
 | [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:20 | 2023-12-01 |  |
 | [IDK IT DEPENDS](https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [2012](https://open.spotify.com/album/6ndv4g7482HJZ2pLAbpzrY) | 2:14 | 2024-07-31 |  |
@@ -52,6 +54,7 @@
 | [LANCEY OR LANCEY](https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [LIFE IN HELL](https://open.spotify.com/album/7A6MutudrSxcDa47a6HHOM) | 3:07 | 2023-12-01 | 2024-08-21 |
 | [Lifestyle](https://open.spotify.com/track/20v5X5P8guUGTQQ1EAWys4) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU) | [Homixide Lifestyle](https://open.spotify.com/album/4vw2hN5xBkFXRBAfnGjUmK) | 2:17 | 2023-12-01 | 2024-03-16 |
 | [listen!](https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu) | [hako](https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin) | [listen! \(sped up\)](https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF) | 1:28 | 2024-03-15 |  |
+| [LOVE HURTS \(with Lil Uzi Vert\)](https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [LOVE LASTS FOREVER](https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv) | 4:34 | 2024-09-03 |  |
 | [LUV 4 YA](https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U) | 3:32 | 2024-06-15 |  |
 | [LUV 4 YA](https://open.spotify.com/track/4gy2E8Wwz5hgwOLjv03cYS) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [LUV 4 YA](https://open.spotify.com/album/0tTnvcy5uv8w6SXgWw7cOZ) | 3:32 | 2024-06-14 | 2024-06-16 |
 | [Lyfe](https://open.spotify.com/track/5GT6tY36LQwQdPfE25NaBA) | [teefaygoo](https://open.spotify.com/artist/58KTnqvNCXA8sd6IHAQ5IV), [prodbysky](https://open.spotify.com/artist/4dkg1q2DJECBqjrSMs8ULh) | [Lyfe \- Instrumental](https://open.spotify.com/album/5sIyurLZodpO94l4l2WMG5) | 2:55 | 2024-01-12 | 2024-02-21 |
@@ -79,7 +82,7 @@
 | [on dat shit](https://open.spotify.com/track/02g10S6jIeoyTgw4qWs00h) | [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [on dat shit](https://open.spotify.com/album/4GA1Wxbvo1S9MBV1HYD5cE) | 2:58 | 2023-12-01 | 2024-01-06 |
 | [ONE CALL](https://open.spotify.com/track/69phA1R4gmQsBFRQ3INW8C) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [Ghetto Fabulous](https://open.spotify.com/album/2D1j7mjB55lvygjMmYgTYT) | 2:01 | 2023-12-18 |  |
 | [ONE CALL](https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug) | [Rich Amiri](https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd) | [ONE CALL](https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi) | 2:01 | 2023-12-01 | 2024-02-03 |
-| [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 |  |
+| [Out thë way](https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Lyfë](https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu) | 2:30 | 2023-12-01 | 2024-09-04 |
 | [overseas](https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:21 | 2024-08-20 |  |
 | [overseas](https://open.spotify.com/track/7ovB5FvDwq1g7AG9ICYaNY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [overseas](https://open.spotify.com/album/0FRicF4BU62Z0OUMZw9l8U) | 2:21 | 2024-04-12 | 2024-08-21 |
 | [Penthouse Shordy](https://open.spotify.com/track/0p761VSAObNRJF855bIHRF) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [On My Own](https://open.spotify.com/album/4l2mKkUUdZyEbQUVJ3oudo) | 2:06 | 2023-12-01 |  |

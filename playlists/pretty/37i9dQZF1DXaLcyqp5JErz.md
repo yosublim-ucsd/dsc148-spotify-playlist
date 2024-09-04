@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Damares
 
-[Spotify](https://open.spotify.com/user/spotify) - 566,928 likes - 70 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 567,056 likes - 70 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,14 +60,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 50 | [Pra Você](https://open.spotify.com/track/2JJstgu72jt2qlB9Bw384J) | [Novo Som](https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl) | [Para Sempre, Vol\. 1](https://open.spotify.com/album/0kMruzcinTCWD5bRkfTDzj) | 4:54 |
 | 51 | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \- Ao Vivo](https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Santo Espírito \(Holy Spirit\) \(feat\. Leonardo Gonçalves\) \[Ao Vivo\]](https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j) | 8:33 |
 | 52 | [Faz Um Milagre em Mim](https://open.spotify.com/track/0Z2PZbBFTJDm8ZQIakyCh7) | [Régis Danese](https://open.spotify.com/artist/0eEbruEG13xwoZ0uT2rpll) | [Compromisso](https://open.spotify.com/album/2RwmrTMOiwryGW3DaDnhG8) | 5:19 |
-| 53 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
-| 54 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 53 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/5BfdaKOZ3LuT45SUhxloAc) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \- Acústico](https://open.spotify.com/album/5BynkHBfbbsUqMgXaqqGmV) | 5:42 |
+| 54 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/4UfeWJN1A2glEr9EteoPQN) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/232rCZvO1DrA08fa2FPE4t) | 7:33 |
 | 55 | [Marca da Promessa \- Ao Vivo](https://open.spotify.com/track/3RWAeIE2pfAeIvvsSn6D5G) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Ao Vivo no Maracanãzinho, Vol\. 2](https://open.spotify.com/album/3nzmSrSJvEOeIopNtdSYCS) | 8:07 |
 | 56 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 | 57 | [No Silêncio](https://open.spotify.com/track/1pgHsf1WqOR7aCiqL3XYO7) | [Rose Nascimento](https://open.spotify.com/artist/0L0h1GGHeljVSNWwnqbRfL) | [Primeiro Passo](https://open.spotify.com/album/0aGGbmF94fwpsFe3M8poC9) | 4:47 |
 | 58 | [Adorador por Excelência](https://open.spotify.com/track/4C3dlfa8iBGgb2MjWe2wOa) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3dYx7HppPTwfAX5a24m3Po) | 5:33 |
-| 59 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
-| 60 | [Ele É Exaltado \- Ao Vivo](https://open.spotify.com/track/0BegvnQ1vYEVWg7HHRbwYl) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Momentos de Louvor, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1FPGbA99QB9qRXYgDV1oAP) | 3:30 |
+| 59 | [Ele É Exaltado \- Ao Vivo](https://open.spotify.com/track/0BegvnQ1vYEVWg7HHRbwYl) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Momentos de Louvor, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/1FPGbA99QB9qRXYgDV1oAP) | 3:30 |
+| 60 | [Descansarei](https://open.spotify.com/track/04X0Jca9E0A5a2hgTvqnI3) | [Comunidade Evangélica de Maringá](https://open.spotify.com/artist/5sunaXJ1Rjob6D6TGDd5wA) | [Te Quero Mais do Que Tudo](https://open.spotify.com/album/47Evtl2CImY1o7i51OucTj) | 6:26 |
 | 61 | [Os Sonhos de Deus](https://open.spotify.com/track/5r35WP3ehhwgC2ctzUsFHS) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Os Sonhos de Deus \- Recebe a Cura \- Adoração Profética 1](https://open.spotify.com/album/1yBo6HD5kUtj5CRz6v0Ovs) | 6:05 |
 | 62 | [Restitui \- Ao Vivo](https://open.spotify.com/track/3i4qQdnaQFdyCs3Art3LzD) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/6yQfzPRnOH87Qv2xaXHN9T) | 7:27 |
 | 63 | [Teus Olhos Revelam](https://open.spotify.com/track/5C4AEdDylSirPXyGJbBHYe) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh) | [Esperança](https://open.spotify.com/album/4QYO62FxD9GxVqERjD1d1i) | 4:58 |

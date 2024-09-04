@@ -4,7 +4,7 @@
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-114 songs - 5 hr 10 min
+115 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/track/3zfT07rguWfRXdaRFKYsgs) | [Enid Fergus](https://open.spotify.com/artist/7KxS3qdagNb674qAsV0vsA) | [Rainwaltz \(Sarabande no 5\)](https://open.spotify.com/album/4ZmHYU7lAJr1ygK5KXk7Dp) | 2:37 | 2024-04-17 |  |
 | [Rainy Day Alone](https://open.spotify.com/track/7sLGSLFtNwNKCCiv2QlvTc) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [A Cottage in a Storm](https://open.spotify.com/album/71BxdqhFXfv0W60R82WgQ1) | 2:15 | 2023-03-13 |  |
 | [Rainy Sunday at the Cottage](https://open.spotify.com/track/1nyzEH2nN9UfL3PNVsxQZz) | [Miss Brooke's Cottage](https://open.spotify.com/artist/6wYWLz4TZvuTTtSI2HCcsj) | [Rainy Sunday at the Cottage](https://open.spotify.com/album/75xGNJ1qnFvoJdx8JtS3WI) | 3:45 | 2023-03-13 |  |
+| [Resurrecting](https://open.spotify.com/track/7g0BGcIU3aEIA5OZlNc9DH) | [Nathan Emanuel](https://open.spotify.com/artist/6ucJzjxkziOXA00hLW3fJV) | [Resurrecting](https://open.spotify.com/album/2cIYxDn90225ueUWEVy9Gp) | 3:04 | 2024-09-03 |  |
 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 | 2023-03-13 |  |
 | [Safety Blanket](https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe) | [Dennis Shaw](https://open.spotify.com/artist/0nj9xF9necCK5vtX9WaRyA) | [Sara's Dream](https://open.spotify.com/album/7F6h50htukYIIbflsJs9TF) | 3:18 | 2023-03-13 | 2023-10-20 |
 | [Saudade \(rain\)](https://open.spotify.com/track/50B2aIF9naQZcULzikaTyi) | [Noella Russo](https://open.spotify.com/artist/2zgddkOsrXf0cnPquq6N59) | [Saudade \(rain\)](https://open.spotify.com/album/0istZOKM7NdEcAPqgCQf93) | 3:04 | 2024-03-20 |  |

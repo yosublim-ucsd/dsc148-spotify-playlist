@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the year's hottest K\-Pop tracks! K\-Pop Tunes \| K\-Pop Mix \| K\-Pop Boyband \| K\-Pop Girl Groups \| Cover: Stray Kids
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 330,991 likes - 79 songs - 4 hr 1 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 330,969 likes - 79 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 | 78 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 |
 | 79 | [GODS](https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [GODS](https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs) | 3:40 |
 
-Snapshot ID: `AAAXub/nm5jpTGareCT9vPW4cg1BSQtj`
+Snapshot ID: `AAAXvKf3VJyUzrH33fXgzYBfo81VwEo2`

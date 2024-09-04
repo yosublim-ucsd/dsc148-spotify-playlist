@@ -4,7 +4,7 @@
 
 > Piezas acústicas para cenar a la luz de las velas con alguien especial.
 
-173 songs - 8 hr 41 min
+174 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Love Letter 2 \- Guitar Solo](https://open.spotify.com/track/3Ja1ilSiwlj5NisHVbfCSV) | [Ulrich Steier](https://open.spotify.com/artist/53d66ja0O9INgwNvA4dIIY) | [Love Letter 2 \(Guitar Solo\)](https://open.spotify.com/album/0EJLdJoq9IKN0MrKo5NGDu) | 2:11 | 2022-09-17 | 2024-07-18 |
 | [Love Story \(Main Theme For Guitar\)](https://open.spotify.com/track/1duB44w73T1Sy7wLL3apCl) | [Tomas Hilber](https://open.spotify.com/artist/2pxii0UbnSs9vWOt4QcmHN) | [Love Story \(Main Theme\)](https://open.spotify.com/album/7vM1zZzyUXq2gd2k5ZP20G) | 1:49 | 2022-09-23 | 2023-06-22 |
 | [Lágrima](https://open.spotify.com/track/1NUBmnSvPtqg9RPWZ1yuxX) | [Benedict Larsen](https://open.spotify.com/artist/0RoZ3QmDJXP7peJyvnDxwC), [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t) | [Lágrima](https://open.spotify.com/album/4YfEucuYaCBARmIfvAOCeU) | 1:43 | 2022-10-07 | 2023-06-22 |
+| [Madame Señora](https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck) | [Esteban Delano](https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN) | [Madame Señora](https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD) | 2:18 | 2024-09-03 |  |
 | [Madrigale](https://open.spotify.com/track/5ypdfYneEqII1aOckEzzfz) | [Valerio Castilla](https://open.spotify.com/artist/4kot0Uzr67BAdjYsmnUczI) | [Madrigale](https://open.spotify.com/album/74i60tfoF7VnXZgTjGJj5o) | 3:10 | 2024-05-24 |  |
 | [Mais tarde](https://open.spotify.com/track/3OsoopvnzJWLErS19g6kkH) | [Margot Leavitt](https://open.spotify.com/artist/0eqVgQI4iTRtSBjclCTV5D) | [Mais tarde](https://open.spotify.com/album/76UFpZeSUJmxeefnkVmSSy) | 3:17 | 2022-03-03 |  |
 | [Manzanilla](https://open.spotify.com/track/0LbZg654PnwFu7lcj5aPtb) | [Agustín Amigó](https://open.spotify.com/artist/3hUFjtgMr2bvq6E6tY7yQB) | [Swatches](https://open.spotify.com/album/6kjbiriERthwWKCpa9H9pX) | 3:13 | 2024-05-24 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 
 > Coloque a bota e o chápeu que hoje o trabalho vai render!
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,694 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,681 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUkWvWISwtjS.md) - [plain]
 | 11 | [Mulher Maravilha \- Ao Vivo](https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 2:37 |
 | 12 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
 | 13 | [Sigilo \- Ao Vivo](https://open.spotify.com/track/6vnKRiOjUjYT59xl4awHTx) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Sigilo \(Ao Vivo\)](https://open.spotify.com/album/7GRukQVPHOjQW1l6o3W9aa) | 2:45 |
-| 14 | [Sujeito \- Ao Vivo](https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \(Ao Vivo\)](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:58 |
+| 14 | [Sujeito \- Ao Vivo](https://open.spotify.com/track/1CwyRAon1uO8TarUHrXZyP) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador \- Ao Vivo](https://open.spotify.com/album/37nwqMqf3kqIsssO30l8MG) | 2:58 |
 | 15 | [É Problema](https://open.spotify.com/track/5gTgQBtNP08fUijxpEgmzF) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [É Problema](https://open.spotify.com/album/67GYNRw2795hr6ZlyyU1Sa) | 3:04 |
 | 16 | [Deprê](https://open.spotify.com/track/2BRGOqLBHFJclDM6PB2dnd) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Deprê](https://open.spotify.com/album/3IFyXLAeUE09BDgfCgnbFx) | 3:00 |
 | 17 | [Não Fala Não pra Mim](https://open.spotify.com/track/0PaAB17axL9hn88mHiw8g0) | [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Jerry Smith](https://open.spotify.com/artist/6OpOg5HVCc8xVf7OVrd5Fk) | [Não Fala Não pra Mim](https://open.spotify.com/album/6ARrHdaTbtLGCYzs5ZGrHG) | 3:16 |

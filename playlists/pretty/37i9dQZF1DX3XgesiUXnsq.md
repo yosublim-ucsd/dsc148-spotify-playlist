@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this?
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,288 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,340 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [BOOM BAP](https://open.spotify.com/track/0YErMMQzy2co60WoollZ9D) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [BOOM BAP](https://open.spotify.com/album/0oMwaQKCvm89EnMMrNfwlA) | 2:14 |
 | 2 | [A.D.H.D](https://open.spotify.com/track/2Fw5S2gaOSZzdN5dFoC2dj) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 3:35 |
 | 3 | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU) | 2:48 |
-| 4 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
+| 4 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 5 | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/track/4OTmDHEUGop3Qw1GAXm3F9) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [Le$](https://open.spotify.com/artist/7rikNLN4AV6SQn9ryQFaMw) | [1982 \(with Curren$y & LE$\)](https://open.spotify.com/album/1VY0UoPeaR3V7P4sA55KnW) | 3:46 |
 | 6 | [Twinz \(feat\. Fat Joe\)](https://open.spotify.com/track/0B8drtTSp68pZdkmVrG9ZA) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Fat Joe](https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6) | [Capital Punishment](https://open.spotify.com/album/3IIHk2ZLXKWuVAjCbQ9g4Y) | 3:48 |
 | 7 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |

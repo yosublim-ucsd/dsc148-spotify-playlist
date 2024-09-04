@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Chimera",
+        "url": "https://open.spotify.com/album/20xZuGYZiJoz7BxlbkBzOC"
+      },
+      "artists": [
+        {
+          "name": "Joshua Ware",
+          "url": "https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135779,
+      "name": "Chimera",
+      "url": "https://open.spotify.com/track/05WnKb5zsyWOQksKqU7LQ9"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/4j2OfohQh61MJkGLNW2HSG"
       },

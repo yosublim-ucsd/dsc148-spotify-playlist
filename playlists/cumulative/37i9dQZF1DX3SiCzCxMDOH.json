@@ -700,7 +700,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 177231,
       "name": "Accidently On Purpose",
       "url": "https://open.spotify.com/track/6Iph7VLWk26M9A1URCSSur"
@@ -1922,7 +1922,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 185287,
       "name": "Blue Notes in the Afternoon",
       "url": "https://open.spotify.com/track/6A3G2dwkman6zLHncJxJGG"
@@ -2714,7 +2714,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 197352,
       "name": "Con Alba",
       "url": "https://open.spotify.com/track/0f0MxPmuo6W577AUYozNVr"
@@ -4468,7 +4468,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 261316,
       "name": "Glencoe Sketches",
       "url": "https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY"
@@ -4583,6 +4583,24 @@
     },
     {
       "album": {
+        "name": "Grasslands",
+        "url": "https://open.spotify.com/album/0RFXQwiKftNdtyjEGSpOTI"
+      },
+      "artists": [
+        {
+          "name": "Hviid Larsen",
+          "url": "https://open.spotify.com/artist/2a9veYX5T7WD5xz0ve9VDO"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212768,
+      "name": "Grasslands",
+      "url": "https://open.spotify.com/track/49AapllCCkhi3AsZ7lW5Tp"
+    },
+    {
+      "album": {
         "name": "Guess I'll Hang My Tears Out To Dry",
         "url": "https://open.spotify.com/album/39KZ6ZyjrzII5xIgRi4fPf"
       },
@@ -4648,7 +4666,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 167145,
       "name": "He Knows I'm Sophisticated",
       "url": "https://open.spotify.com/track/7FoREcrEypkMF3bdA1auQF"
@@ -5314,7 +5332,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 210292,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/6L620MzHPZRTYKqi1mXiaw"
@@ -5512,7 +5530,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 204681,
       "name": "I Waited For You",
       "url": "https://open.spotify.com/track/4j58MWVz5BW6Z4b3x01EEG"
@@ -6052,7 +6070,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 274402,
       "name": "In a Sentimental Mood",
       "url": "https://open.spotify.com/track/7JNNtslGExM27L7sCMzQiS"
@@ -6092,6 +6110,24 @@
       "duration_ms": 174867,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj"
+    },
+    {
+      "album": {
+        "name": "In Every Way",
+        "url": "https://open.spotify.com/album/6D39gRfzo5FkMHvROmpAze"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182667,
+      "name": "In Every Way",
+      "url": "https://open.spotify.com/track/3V0xjqjhlrrOdT97yLSc6A"
     },
     {
       "album": {
@@ -6725,6 +6761,24 @@
     },
     {
       "album": {
+        "name": "Just a Light Beauty",
+        "url": "https://open.spotify.com/album/7guE58VKo80dau4Lp2iJTQ"
+      },
+      "artists": [
+        {
+          "name": "Eltingvilles",
+          "url": "https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202832,
+      "name": "Just a Light Beauty",
+      "url": "https://open.spotify.com/track/6NrUTGEMrBPrh5LX7cR2Hh"
+    },
+    {
+      "album": {
         "name": "Just For Tonight",
         "url": "https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH"
       },
@@ -6920,6 +6974,24 @@
       "duration_ms": 175643,
       "name": "Lament",
       "url": "https://open.spotify.com/track/3HeycjEKlBwsSyAm78dle6"
+    },
+    {
+      "album": {
+        "name": "Lament of the Heart",
+        "url": "https://open.spotify.com/album/0LOEkhXmbYotwSoTSvpqEG"
+      },
+      "artists": [
+        {
+          "name": "Nordic Swing",
+          "url": "https://open.spotify.com/artist/5LL0LIw64LrSLwmZEhJNq4"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203828,
+      "name": "Lament of the Heart",
+      "url": "https://open.spotify.com/track/7DoHgiFgZrduHqJYS98SRR"
     },
     {
       "album": {
@@ -7204,7 +7276,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 187047,
       "name": "Left Lane",
       "url": "https://open.spotify.com/track/5yePqk2jekl7wU2dknFuGL"
@@ -8410,7 +8482,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 230008,
       "name": "Miso the cat",
       "url": "https://open.spotify.com/track/6UoHrLNQE4UR8SG79V6FBX"
@@ -8554,7 +8626,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 212936,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/3BqL7IYqbFJH4dOVeMB0cA"
@@ -9958,7 +10030,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 287479,
       "name": "Pensativa",
       "url": "https://open.spotify.com/track/1QVNZXoguyS3bBzMldMn7i"
@@ -10030,7 +10102,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 169272,
       "name": "Play it right",
       "url": "https://open.spotify.com/track/5FcFS1vSEsHtsQqLahPCaF"
@@ -10667,6 +10739,24 @@
     },
     {
       "album": {
+        "name": "September Serenade",
+        "url": "https://open.spotify.com/album/7eA3GaruW704bhk4jbawJ2"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "September Serenade",
+      "url": "https://open.spotify.com/track/2jkHDRWH6ZsDFvUtFK4Bip"
+    },
+    {
+      "album": {
         "name": "September Song",
         "url": "https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K"
       },
@@ -10804,7 +10894,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 272500,
       "name": "Sidewalk",
       "url": "https://open.spotify.com/track/6Zzs5cbn5V6M3NkIfdLh8x"
@@ -11640,7 +11730,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 223873,
       "name": "Starry Skies and Saxophones",
       "url": "https://open.spotify.com/track/3GvTDh5qbXRvpjcVE5r34w"
@@ -12170,7 +12260,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 196000,
       "name": "Tenderly",
       "url": "https://open.spotify.com/track/5dnf9JbsZFMsiXzQuZ22Tz"
@@ -12404,7 +12494,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 175500,
       "name": "the first time I saw you",
       "url": "https://open.spotify.com/track/2mxkWAgoZBU1lRmxp8KEBt"
@@ -12656,7 +12746,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 133419,
       "name": "The next day",
       "url": "https://open.spotify.com/track/3HBNf1kBZB3Sn4idl26aJK"
@@ -14960,7 +15050,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170526,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"

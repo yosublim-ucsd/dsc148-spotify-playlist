@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > You're the paracetamol to my headache ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,920 likes - 80 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,950 likes - 80 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 19 | [Zombie](https://open.spotify.com/track/45deBBy7lInAwEixnK3gwX) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Zombie](https://open.spotify.com/album/1EFBHXQWEoTrB6eMzvq9hc) | 2:13 |
 | 20 | [Touch Me](https://open.spotify.com/track/7HRcTN24O14B1l871d3tHi) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG), [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW) | [Touch Me](https://open.spotify.com/album/1yA8Hpl2gEc0WgLxuulnoN) | 2:25 |
 | 21 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 |
-| 22 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
+| 22 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
 | 23 | [Asylum](https://open.spotify.com/track/1Cek6PV24GtEk4GDWqFbCk) | [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1) | [Avana \(Deluxe\)](https://open.spotify.com/album/0Y6z5zNbCGEiD6dHeEUtgV) | 3:02 |
 | 24 | [Pepper Dem](https://open.spotify.com/track/4u1H2ZQ5sh188p2XFd5Ehs) | [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Pepper Dem](https://open.spotify.com/album/7BLuaIUb92iX8QT3YMk5wK) | 2:36 |
 | 25 | [Maria](https://open.spotify.com/track/4Tgt15dD8P2m68HYxA8DCG) | [Tml Vibez](https://open.spotify.com/artist/4x4ggvlhCaj5oNqKRRwOAL), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Xin Mao](https://open.spotify.com/album/2xBdv4TVpVXG9U8K3om1WQ) | 2:23 |

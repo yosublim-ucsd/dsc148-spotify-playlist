@@ -4,7 +4,7 @@
 
 > 강렬하면서도 섬세한 감정을 담고 있는 얼터네이티브 록 음악을 즐겨보세요!
 
-110 songs - 6 hr 52 min
+111 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Deranged](https://open.spotify.com/track/4nvwl26KP8LtXaztmBjxPp) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 4:24 | 2024-08-05 |  |
 | [Dilemma](https://open.spotify.com/track/4NrGMEm5SvvpJ9Tk1Rq3cP) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 3:18 | 2024-08-05 |  |
 | [Down](https://open.spotify.com/track/7dtZcMZlJNOKL71wF3Iojn) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [\[O\]](https://open.spotify.com/album/0ZA7uOEgtdQ1iwSHio6iO1) | 3:41 | 2024-08-05 |  |
+| [Echo](https://open.spotify.com/track/6sAbC7IL9cUG4x1S1CORn4) | [Shin Seol Hee](https://open.spotify.com/artist/2IJDF3Fg5VCCynlwWd467a) | [Echo](https://open.spotify.com/album/5NUvmOyxJs12PaJQPXdpin) | 3:15 | 2024-09-04 |  |
 | [even if fall into a fail](https://open.spotify.com/track/1uTHCZukKvnXHC9TGjhsV0) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 2:27 | 2024-08-05 |  |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-08-05 |  |
 | [Every Time You Leave](https://open.spotify.com/track/06OsVIu4Y5LRO4Sp3d5SLs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:57 | 2024-08-05 |  |

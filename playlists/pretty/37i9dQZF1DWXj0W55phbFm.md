@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,778 likes - 100 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,822 likes - 100 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 92 | [Just in Time](https://open.spotify.com/track/3aHJmaeRrBhoNlXL079nc2) | [Cootie Williams](https://open.spotify.com/artist/4zef2ByBl6wZGFPvYWve6o) | [Where or When](https://open.spotify.com/album/6jNlEB9M8Dfmtd2pyCbhfN) | 3:31 |
 | 93 | [Cottage for Sale](https://open.spotify.com/track/11YUyneklQZhbVsc9fWglV) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP), [Walter Bolden](https://open.spotify.com/artist/5hErYsY5trFRjYKz9YU1Uf) | [Dusty Blue](https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU) | 4:27 |
 | 94 | [Tin Roof Blues](https://open.spotify.com/track/7H1oLYALMZNmYLTMMe2aS6) | [Mugsy Spanier](https://open.spotify.com/artist/6NvhulFoko7CGrqdnm43jx) | [Mugsy Spanier Sentimental Journey, Vol\. 3](https://open.spotify.com/album/614lYenVGxB5bAKrmCXPJL) | 2:56 |
-| 95 | [Have Blues, Will Play'em](https://open.spotify.com/track/6UOQDhoXLJbJ2H3quqOUX8) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [The Paris Album](https://open.spotify.com/album/1sGpVsIBbzgOPgbNxEQOuV) | 9:46 |
-| 96 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 95 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
+| 96 | [Have Blues, Will Play'em](https://open.spotify.com/track/6UOQDhoXLJbJ2H3quqOUX8) | [Bill Coleman](https://open.spotify.com/artist/0ywVlWLmExvuNb8Sf4as7w) | [The Paris Album](https://open.spotify.com/album/1sGpVsIBbzgOPgbNxEQOuV) | 9:46 |
 | 97 | [Lonely Woman \- Live](https://open.spotify.com/track/12urjp66cJaOm1xfMAFkoC) | [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin), [Don Cherry](https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI), [Ed Blackwell](https://open.spotify.com/artist/6OyNnPUKtNrjm5QQkK0Px9) | [The Montreal Tapes \(Live\)](https://open.spotify.com/album/7yrhOwYjYhptIlD2HU6xUe) | 11:41 |
 | 98 | [Blowin up Breeze](https://open.spotify.com/track/4t0O1w9kJ0ihfwxfkTcti0) | [Hot Lips Page](https://open.spotify.com/artist/3GAp4nVDIMnsYFZnD9DWSz) | [Mr After Hours](https://open.spotify.com/album/5FQV4leqcgCPXfbesBn420) | 2:43 |
 | 99 | [Hazy Blues](https://open.spotify.com/track/32BWDfFFyb8WeIh7pdaAnJ) | [Booker Little](https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv) | [Take a Coffee Break](https://open.spotify.com/album/15RS9hTyIwntnc0MEK1Aec) | 6:37 |

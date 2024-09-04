@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 3 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 |
 | 4 | [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 |
 | 5 | [If I Killed Someone For You](https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:05 |
-| 6 | [WILD](https://open.spotify.com/track/2HWWsTZxnLSUdFZ4gjsP5N) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \- Deluxe](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:47 |
-| 7 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 |
-| 8 | [FOOLS](https://open.spotify.com/track/0tjfognbowyFM3RHTdxjPK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \- Deluxe](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:40 |
+| 6 | [Anti\-Romantic](https://open.spotify.com/track/44tTqUi3xi7E28QLzHVdUA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FREEZE](https://open.spotify.com/album/5Zdr9vactwnJH4Vpe9Mid9) | 3:35 |
+| 7 | [FOOLS](https://open.spotify.com/track/0tjfognbowyFM3RHTdxjPK) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \- Deluxe](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:40 |
+| 8 | [WILD](https://open.spotify.com/track/2HWWsTZxnLSUdFZ4gjsP5N) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \- Deluxe](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:47 |
 | 9 | [Grow as We Go](https://open.spotify.com/track/6hYvw3LLTViP2mT4MpDNmT) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Sing To Me Instead](https://open.spotify.com/album/2AluSp6sapRu17yc4r2a5F) | 4:09 |
 | 10 | [Must Have Been The Wind](https://open.spotify.com/track/6lERHAmBCZmgODv3OYENXi) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [These Two Windows](https://open.spotify.com/album/3SzqS1H5dj8f450YhV9YbP) | 2:57 |
 | 11 | [Drink About](https://open.spotify.com/track/5r2kpjTJlJouxpESA1xEEY) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Sad in Scandinavia](https://open.spotify.com/album/116cozWS2DlOUFwYDSCovA) | 3:02 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFy48Gq7cnnlI.md) - [plain]
 | 112 | [Love Again](https://open.spotify.com/track/5a1gRWJqyuvuH9jfknO4yd) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Love Again](https://open.spotify.com/album/7ir4YDxoF1JGzuRvaYSZhF) | 3:05 |
 | 113 | [die!](https://open.spotify.com/track/3XUqv7Ou5XyrGfbSi15KqU) | [Savana Santos](https://open.spotify.com/artist/4319F2mBye7whEKPHX8pSm), [Alex Hope](https://open.spotify.com/artist/4vYPr06Tg8byX6r8i2Q3rP) | [1](https://open.spotify.com/album/6N56gxTiG3hCtCTNgdiYtx) | 2:13 |
 
-Snapshot ID: `AbbGZwAAAAA7laMerWPaTH5gBE6UTMwp`
+Snapshot ID: `AbbL/gAAAACH7c8e8ojHwyhRfF17udpg`

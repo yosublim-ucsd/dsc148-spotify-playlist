@@ -2,7 +2,7 @@
 
 ### [New Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWV1aMSQY91oR)
 
-> The latest hip\-hop, refreshed weekly\. Cover: Snotty Nose Rez Kids
+> The latest hip\-hop, refreshed weekly\. Cover: Snotty Nose Rez Kids & Drezus
 
 2,642 songs - 5 day 7 hr 45 min
 

@@ -1031,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Badi Tanhai (From \"Shahkot\")",
+        "url": "https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        },
+        {
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203110,
+      "name": "Badi Tanhai (From \"Shahkot\")",
+      "url": "https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB"
+    },
+    {
+      "album": {
         "name": "Baith Kol",
         "url": "https://open.spotify.com/album/0w1a5AEJ2PYA433M414kMZ"
       },
@@ -14118,7 +14144,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 168375,
       "name": "Sahiba",
       "url": "https://open.spotify.com/track/5JgGBCU4yIogqvCED6y7xt"
@@ -14824,6 +14850,28 @@
       "duration_ms": 184813,
       "name": "Shukarguzar",
       "url": "https://open.spotify.com/track/4TZ0TLM9XlsEyaD5CUGFnH"
+    },
+    {
+      "album": {
+        "name": "Shukrana (From \"Shukrana\")",
+        "url": "https://open.spotify.com/album/2BWjwqELsPhRPwt34HCXWM"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        },
+        {
+          "name": "Desi Crew",
+          "url": "https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187385,
+      "name": "Shukrana (From \"Shukrana\")",
+      "url": "https://open.spotify.com/track/3iqQKT8NpsmzzhHvpMqdwW"
     },
     {
       "album": {

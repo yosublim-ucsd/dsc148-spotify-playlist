@@ -1,29 +1,13 @@
 {
-  "description": "This is Dean Martin. The essential tracks, all in one playlist.",
-  "num_followers": 119570,
-  "original_name": "This Is Dean Martin",
+  "description": "This is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 119598,
+  "original_name": "This Is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADYnWVK5ur3k+vX+g27+gFk",
+  "snapshot_id": "ZtUAAAAAAAAnIV6PdFYxj9D5SHaKOoQ2",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
-    },
     {
       "added_at": null,
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 133933,
       "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
       "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 181626,
+      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
+      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Is Dean Martin",
+        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 177520,
+      "name": "Promise Her Anything - 1998 Digital Remaster",
+      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reprise Rarities - Vol. 5",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 131693,
       "name": "We Open In Venice",
       "url": "https://open.spotify.com/track/1WgG3IMzz233bIm4EQ7QCM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 177520,
-      "name": "Promise Her Anything - 1998 Digital Remaster",
-      "url": "https://open.spotify.com/track/4UXSAkJHUU8SYwpux3ikRq"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "At The Movies",
+        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 168466,
+      "name": "My Rifle, My Pony And Me - Remastered",
+      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reprise Rarities - Vol. 5",
         "url": "https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 151722,
       "name": "The Oldest Established (Permanent Floating Crap Game In New York)",
       "url": "https://open.spotify.com/track/0AIRdaGvVN6uEEsB3iD3C3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At The Movies",
-        "url": "https://open.spotify.com/album/6Dsdu27CRQNlDvs3jF7BLK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "My Rifle, My Pony And Me - Remastered",
-      "url": "https://open.spotify.com/track/0dG69tIjOO6DSltDSINNOJ"
     },
     {
       "added_at": null,
@@ -849,6 +849,6 @@
       "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
     }
   ],
-  "unique_name": "This Is Dean Martin",
+  "unique_name": "This Is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s"
 }

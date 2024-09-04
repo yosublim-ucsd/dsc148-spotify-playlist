@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60918,
+  "num_followers": 60923,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -757,26 +757,6 @@
       "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
     },
     {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Clare Fischer",
-          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Mijo",
-      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
-    },
-    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -799,6 +779,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Clare Fischer",
+          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Mijo",
+      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Voices from the Border",
         "url": "https://open.spotify.com/album/2wITZBdfVISfiCe7NOEWfA"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 443872,
       "name": "Those People",
       "url": "https://open.spotify.com/track/3FTnF6GptSUAfsMMEZH1i8"
-    },
-    {
-      "added_at": "2023-11-23 03:14:06",
-      "album": {
-        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
-      },
-      "artists": [
-        {
-          "name": "Troker",
-          "url": "https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G"
-        }
-      ],
-      "duration_ms": 323800,
-      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
-      "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -851,6 +835,22 @@
       "duration_ms": 370586,
       "name": "La vida tiene que seguir, amor",
       "url": "https://open.spotify.com/track/5oxORYdAYEhF8yqTCKHrQj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
+        }
+      ],
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2024-08-29 03:09:23",

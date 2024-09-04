@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover:  <a href="spotify:artist:4hryzFSB8IYFIaBba9jUvT">Cecily</a>   \| Artwork: Laina Deene
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,589 likes - 99 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,620 likes - 99 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

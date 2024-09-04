@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,525 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,546 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Ahmoore](https://open.spotify.com/track/4lsys7hGDgypUoMZFvi9ke) | [Jack Sheldon](https://open.spotify.com/artist/0AP9ck0QA9iqnCWJ16G7qj) | [The Quartet and the Quintet](https://open.spotify.com/album/6p27kZ6ymuGGZoXNapHwt9) | 3:15 |
 | 50 | [Swingin' The Blues](https://open.spotify.com/track/316FxiYEDzyHI4OMBuXC8l) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Shorty Rodgers Courts The Count](https://open.spotify.com/album/79crFBHL0AC42MEgShce76) | 4:22 |
 
-Snapshot ID: `ZouUVgAAAAAsybpcsSFAubtLbMwkigOf`
+Snapshot ID: `ZtbZ/AAAAADgVanJhNNEAyKRB136qz8V`

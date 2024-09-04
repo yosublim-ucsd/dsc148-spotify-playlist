@@ -4,7 +4,7 @@
 
 > Dave Blunts\. Born and raised on the internet.
 
-1,058 songs - 1 day 19 hr 2 min
+1,059 songs - 1 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,6 +390,7 @@
 | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/track/19wJJ7XPv1IQ6tWZ6LktGu) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [GNARLY! \(WITH ARMANI WHITE\)](https://open.spotify.com/album/47OW0oO4aSghC0y0ivflp5) | 2:27 | 2023-03-10 | 2023-05-06 |
 | [Go](https://open.spotify.com/track/0cNAaZbkK61jCej9BP1NoJ) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Go](https://open.spotify.com/album/0fas0oNoInW2Y68mdaW0Gf) | 2:12 | 2021-11-27 | 2022-02-26 |
 | [Go \(Xtayalive 2\)](https://open.spotify.com/track/1slDsIJxew9AOOA3v0xFzn) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [Go \(Xtayalive 2\)](https://open.spotify.com/album/3RX4kmM0BYSknfrs69XkMi) | 1:46 | 2023-04-28 | 2023-09-02 |
+| [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 | 2024-09-03 |  |
 | [GOATED\. \(feat\. Denzel Curry\)](https://open.spotify.com/track/2PWVxWymGDZKj5BZJB7dAR) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [GOATED.](https://open.spotify.com/album/2RU7Ol70IsJo40QMaV1Yfz) | 3:17 | 2023-01-13 | 2023-07-15 |
 | [Gone \(sped up\)](https://open.spotify.com/track/6dj6mwfnLiCp20cslQEcOE) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Ardeycat](https://open.spotify.com/artist/34Nu2mFDOVCEab7z18ceOo) | [Gone \(sped up\)](https://open.spotify.com/album/1p6EfDB7huUNYmQE9EDCwl) | 1:51 | 2023-03-17 | 2023-06-03 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-05-16 | 2023-09-09 |
@@ -903,7 +904,7 @@
 | [Stop Hating](https://open.spotify.com/track/47h7mEYiGuvzM1o8yhMPIW) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Stop Hating](https://open.spotify.com/album/36peheD1XXO8YHbJEQlTmZ) | 2:32 | 2023-07-14 | 2023-08-19 |
 | [Strawberries & Creamin'](https://open.spotify.com/track/2fGVMa4oQQCKdBBbx8Nagg) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Strawberries & Creamin'](https://open.spotify.com/album/1dJvlcnASsdAl2OuyUQH4B) | 1:55 | 2023-05-26 | 2023-08-12 |
 | [Substance](https://open.spotify.com/track/6uLimhxMmX7fjn2ZQ16WYk) | [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Substance](https://open.spotify.com/album/6njnxVS30tIury9eStFjCp) | 3:39 | 2022-04-01 | 2022-06-03 |
-| [Suburban Friends](https://open.spotify.com/track/5cDCmogoYYVVNPICvDaxMj) | [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [Suburban Friends](https://open.spotify.com/album/7s8H5OVRqUFB5hbYd0TJtI) | 2:04 | 2024-08-05 |  |
+| [Suburban Friends](https://open.spotify.com/track/5cDCmogoYYVVNPICvDaxMj) | [reefuh](https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn) | [Suburban Friends](https://open.spotify.com/album/7s8H5OVRqUFB5hbYd0TJtI) | 2:04 | 2024-08-05 | 2024-09-04 |
 | [Subzero](https://open.spotify.com/track/1OmGrbjzEZXeC4HAiYWwmN) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Subzero](https://open.spotify.com/album/1AQMJbIC1RrLaKbM47DvYi) | 3:00 | 2022-04-08 | 2022-05-18 |
 | [Succubus](https://open.spotify.com/track/2genk7x5jA1HtrEZFTkeNZ) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [Succubus](https://open.spotify.com/album/4jFHzc3Tv8JKuTeCOr6vlQ) | 2:17 | 2022-05-13 | 2022-07-16 |
 | [Suicide](https://open.spotify.com/track/3WYuIKvTLWbv8IwFNakmo5) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Suicide](https://open.spotify.com/album/4rx5wKkcvknXEV7IZzNhUs) | 3:44 | 2022-10-14 | 2022-11-12 |

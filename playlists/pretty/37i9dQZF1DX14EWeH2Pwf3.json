@@ -1,33 +1,13 @@
 {
   "description": "La playlist urban pi\u00f9 grande in Italia \ud83d\udd25 Cover: Cosang",
-  "num_followers": 964184,
+  "num_followers": 964307,
   "original_name": "Plus Ultra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtWGLwAAAACIK1FQDYHQ26iSbn4QgQ9y",
+  "snapshot_id": "ZtbNNAAAAADzSg1+DxD8c5FpfUoX17Ef",
   "tracks": [
-    {
-      "added_at": "2024-08-29 23:01:00",
-      "album": {
-        "name": "DINASTIA",
-        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        },
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 203399,
-      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
-      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
-    },
     {
       "added_at": "2024-08-29 23:01:00",
       "album": {
@@ -43,22 +23,6 @@
       "duration_ms": 191856,
       "name": "Take 5",
       "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
-    },
-    {
-      "added_at": "2024-08-29 23:01:00",
-      "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
     },
     {
       "added_at": "2024-08-29 23:01:00",
@@ -79,6 +43,42 @@
       "duration_ms": 198145,
       "name": "MILANO TESTAROSSA (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/5zVQoMHyELfcHYviXDao3I"
+    },
+    {
+      "added_at": "2024-08-29 23:01:00",
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Perdere \u2018a capa (feat. Geolier)",
+      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
+    },
+    {
+      "added_at": "2024-08-29 23:01:00",
+      "album": {
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
     },
     {
       "added_at": "2024-08-29 23:01:00",
@@ -160,13 +160,13 @@
           "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
         },
         {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
         }
       ],
-      "duration_ms": 220588,
-      "name": "Perdere \u2018a capa (feat. Geolier)",
-      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
+      "duration_ms": 203399,
+      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
+      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
     },
     {
       "added_at": "2024-08-29 23:01:00",

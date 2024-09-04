@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkukgVZ41LA.md) - [plain]
 
 > These are the songs that have shaped <a href="https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw?si=2088df0495e74724">Knocked Loose's</a> alternative spirit\. Check out the latest COUNTER//CULTURE mixtape <a href="https://open.spotify.com/playlist/37i9dQZF1DX9n1dvGkpvfI?si=8688dba1fca74b00">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 777 likes - 30 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 30 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkukgVZ41LA.md) - [plain]
 | 8 | [No Bitterness](https://open.spotify.com/track/3s3Twsw0pQr40yiZpS3toD) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:38 |
 | 9 | [New Day](https://open.spotify.com/track/1OzpSSCY5DRRkNHTWtWO5b) | [Karnivool](https://open.spotify.com/artist/6rX8AFY10dsJkJsv23Z9Um) | [Sound Awake](https://open.spotify.com/album/4yfy90oEyeRtZU2v03C9QW) | 8:20 |
 | 10 | [The Exquisite Machinery Of Torture](https://open.spotify.com/track/2rF3m93v6kqpNnK8SX3zBE) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere](https://open.spotify.com/album/1iYC6e2fBLOI4BFmp9M24C) | 3:55 |
-| 11 | [With Grace](https://open.spotify.com/track/3gJBlw4iUS35KR6GOG9zwX) | [Axis](https://open.spotify.com/artist/7JIjcwOR5MeEyOsCO1jbBA) | [Show Your Greed](https://open.spotify.com/album/7l5r9gujPWRZdp126DiRt0) | 3:28 |
+| 11 | [With Grace](https://open.spotify.com/track/3gJBlw4iUS35KR6GOG9zwX) | [AXIS](https://open.spotify.com/artist/7JIjcwOR5MeEyOsCO1jbBA) | [Show Your Greed](https://open.spotify.com/album/7l5r9gujPWRZdp126DiRt0) | 3:28 |
 | 12 | [It's Cool](https://open.spotify.com/track/6brT17UE9f1LfJ7iH8aonE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:23 |
 | 13 | [Stigmata](https://open.spotify.com/track/5OfrfurDE91gVb8PlCDohW) | [Lukah](https://open.spotify.com/artist/4kXGF3u3kGDHDoLmbdvUzS), [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY) | [Stigmata](https://open.spotify.com/album/19aKJrYRUwW0UQhJd1Ou4g) | 2:36 |
 | 14 | [Collapsing Skies](https://open.spotify.com/track/06PxSbUUwFJwIvXBU4jC0i) | [Disentomb](https://open.spotify.com/artist/1shYFELmbMiLx0KpwTvBbW) | [The Decaying Light](https://open.spotify.com/album/2hOBcgLluNhYCBN71yx1Kr) | 2:01 |

@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125843,
+  "num_followers": 125842,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS6++JqF3lG8+NFE6jVMG20RNT2lLP",
+  "snapshot_id": "AAAS7n0kQGN2J7LZgiHb8SQHih5ElenG",
   "tracks": [
+    {
+      "added_at": "2024-09-03 13:36:29",
+      "album": {
+        "name": "Through The Inversion",
+        "url": "https://open.spotify.com/album/58KZYuS7Afr2W7Rxj2cJm4"
+      },
+      "artists": [
+        {
+          "name": "Flexible Fire",
+          "url": "https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K"
+        },
+        {
+          "name": "Dias Ridge",
+          "url": "https://open.spotify.com/artist/4Tn3M7czIarbhSFOmHYVMu"
+        }
+      ],
+      "duration_ms": 202622,
+      "name": "Through The Inversion",
+      "url": "https://open.spotify.com/track/1m60Iz2EWGJduymkmM33d0"
+    },
+    {
+      "added_at": "2024-09-03 13:36:00",
+      "album": {
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK"
+      },
+      "artists": [
+        {
+          "name": "More Plastic",
+          "url": "https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN"
+        }
+      ],
+      "duration_ms": 171379,
+      "name": "Pandora",
+      "url": "https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi"
+    },
     {
       "added_at": "2024-08-30 14:07:36",
       "album": {
@@ -1123,42 +1159,6 @@
       "duration_ms": 160551,
       "name": "Play It Twice",
       "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
-    },
-    {
-      "added_at": "2024-06-11 15:23:03",
-      "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/7lbBABIl4JaV5388pOs2Af"
-      },
-      "artists": [
-        {
-          "name": "ORACLE",
-          "url": "https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF"
-        },
-        {
-          "name": "Holochrome",
-          "url": "https://open.spotify.com/artist/4J8ZCyRxfI3y0mqQhfmGbQ"
-        }
-      ],
-      "duration_ms": 250500,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4wO2U9v7ho8sEGU0t3O9uq"
-    },
-    {
-      "added_at": "2024-06-10 16:11:04",
-      "album": {
-        "name": "Feeling Low",
-        "url": "https://open.spotify.com/album/2j2CO9BIpL1aGgVtKqvqqp"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        }
-      ],
-      "duration_ms": 175542,
-      "name": "Feeling Low",
-      "url": "https://open.spotify.com/track/4tVVyEKRJZCyoEWC3rqy8t"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

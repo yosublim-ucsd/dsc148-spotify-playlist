@@ -1,12 +1,12 @@
 {
-  "description": "This Is Luis R Conriquez. Los temas esenciales, todos en una lista.",
-  "num_followers": 323185,
+  "description": "This is Luis R Conriquez. The essential tracks, all in one playlist.",
+  "num_followers": 323390,
   "original_name": "This Is Luis R Conriquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAlJNQLiBx2zCeTEa0osDEw",
+  "snapshot_id": "ZtUAAAAAAABIzknS1e4YmQgdY08jXE8Q",
   "tracks": [
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 179450,
-      "name": "La 701",
-      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Plumas",
         "url": "https://open.spotify.com/album/4ARKlUQgNQHUUFvjHpbWcp"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 150528,
       "name": "El Plumas",
       "url": "https://open.spotify.com/track/3IQU5PZDEIKayRyB0txMdC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 179450,
+      "name": "La 701",
+      "url": "https://open.spotify.com/track/7hOjsjkiAxFRHNUlLJSO1i"
     },
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Volando Bajito",
+        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Volando Bajito",
+      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Fresa y Coco",
         "url": "https://open.spotify.com/album/4uKPvJXY4U6xN5uDy4dtxM"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 165447,
       "name": "De Fresa y Coco",
       "url": "https://open.spotify.com/track/46XNO42jaQNr5DdEWINdpL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volando Bajito",
-        "url": "https://open.spotify.com/album/0zpniveKCf8Wogi6fGcyK3"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Volando Bajito",
-      "url": "https://open.spotify.com/track/2EuafaVeBUcNUOHT8cGLhX"
     },
     {
       "added_at": null,
@@ -419,26 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 138559,
-      "name": "SU CASA",
-      "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "INC\u00d3MODO",
         "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 191320,
       "name": "PAJUELAZO",
       "url": "https://open.spotify.com/track/708Xn7MHNQZo3nMErlgXKI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 138559,
+      "name": "SU CASA",
+      "url": "https://open.spotify.com/track/1tGGJ4SRZnd2H0E2dV05iM"
     },
     {
       "added_at": null,
@@ -623,6 +623,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. 2",
+        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 174863,
+      "name": "Me Met\u00ed En El Ruedo",
+      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -639,22 +655,6 @@
       "duration_ms": 150045,
       "name": "Las Dos R",
       "url": "https://open.spotify.com/track/1rlxNbQXvB9mRBB0kszHXq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. 2",
-        "url": "https://open.spotify.com/album/6geYhsANDTi0IoZR30Y5tb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 174863,
-      "name": "Me Met\u00ed En El Ruedo",
-      "url": "https://open.spotify.com/track/2u6xsHnwRURYXCqAMGHi4t"
     },
     {
       "added_at": null,
@@ -763,26 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Amor Como Este",
-        "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 185770,
-      "name": "Un Amor Como Este",
-      "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Puro Campe\u00f3n",
         "url": "https://open.spotify.com/album/1mVC9l649aWqos2Q9biNCm"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 196437,
       "name": "Puro Campe\u00f3n",
       "url": "https://open.spotify.com/track/1kNC7b4zXbqoceKpkGdnD8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Amor Como Este",
+        "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Un Amor Como Este",
+      "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
     },
     {
       "added_at": null,

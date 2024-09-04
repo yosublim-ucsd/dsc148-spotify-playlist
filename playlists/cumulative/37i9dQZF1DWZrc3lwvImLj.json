@@ -1546,7 +1546,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 169250,
       "name": "Deepest woods",
       "url": "https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7"
@@ -3062,6 +3062,24 @@
       "duration_ms": 107215,
       "name": "L'\u00e2me r\u00eav\u00e9e",
       "url": "https://open.spotify.com/track/5ehQEnyRaMM9qmFtIpCJlW"
+    },
+    {
+      "album": {
+        "name": "L'\u00e9treinte Des Souvenirs",
+        "url": "https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Laurent",
+          "url": "https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "L'\u00e9treinte Des Souvenirs",
+      "url": "https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r"
     },
     {
       "album": {
@@ -6410,7 +6428,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 125576,
       "name": "Those Moments",
       "url": "https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH"

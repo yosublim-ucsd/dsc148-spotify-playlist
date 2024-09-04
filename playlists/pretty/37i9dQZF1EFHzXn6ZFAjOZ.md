@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,355 likes - 131 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,360 likes - 131 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 20 | [Better Things](https://open.spotify.com/track/330IIz7d75eqAsKq1xhzXR) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Drama \- The 4th Mini Album](https://open.spotify.com/album/5NMtxQJy4wq3mpo3ERVnLs) | 3:23 |
 | 21 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 |
 | 22 | [Let Them Know](https://open.spotify.com/track/3iEwla99ovgF0Rdla6FZm4) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 2:28 |
-| 23 | [Check \(with RAYE\)](https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Golden Boy](https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P) | 3:35 |
-| 24 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
+| 23 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
+| 24 | [Check \(with RAYE\)](https://open.spotify.com/track/53i7ll4F1dpYS0ZUQx9USd) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Golden Boy](https://open.spotify.com/album/4QJ5jTYVijBczD7o2ynp9P) | 3:35 |
 | 25 | [Cigarette](https://open.spotify.com/track/5ppjtLheLgMk3jtZXnNjC4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Cigarette](https://open.spotify.com/album/7Bi40SPnjMPihjNLHXqG4E) | 3:07 |
 | 26 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 |
 | 27 | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/track/58BJ5oUPX5ST2pjCtOSMkk) | [Da Beatfreakz](https://open.spotify.com/artist/3Q8Ow3li2nXzZhRPHMwR7h), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [wewantwraiths](https://open.spotify.com/artist/3LYyk2fBTwdAw3aN6hrrY2) | [Money Calling \(feat\. RAYE, Russ Millions & wewantwraiths\)](https://open.spotify.com/album/3E9ya95dpugJBXNlHEilrA) | 3:11 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 68 | [How We Do It \(feat\. Pia Mia\)](https://open.spotify.com/track/6x5IZU1qDXFPYxxMJ1cvaC) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP) | [Scorcha](https://open.spotify.com/album/1hVo8fqEJffd9IjV8gHjQ5) | 3:02 |
 | 69 | [Up In Here](https://open.spotify.com/track/1xX9Po48ORssfN8MXeBLj9) | [5 After Midnight](https://open.spotify.com/artist/3x9IfYx4a2FPsxqrTV5FgP) | [Up In Here](https://open.spotify.com/album/5lN3LcDWXPVgQsZVvmStQT) | 3:21 |
 | 70 | [Default](https://open.spotify.com/track/5AEJyckUMzLqIyBxZNmGFW) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Life Support](https://open.spotify.com/album/1TKYO9znkrY14VayHze05r) | 1:56 |
-| 71 | [The Wave \(feat\. Madcon\)](https://open.spotify.com/track/2aE5Nih0DGEVWhA9BVsiua) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [The Wave \(feat\. Madcon\)](https://open.spotify.com/album/3PXhfheqGadYFCxkz33Pmf) | 2:58 |
-| 72 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
+| 71 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 |
+| 72 | [The Wave \(feat\. Madcon\)](https://open.spotify.com/track/2aE5Nih0DGEVWhA9BVsiua) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Madcon](https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz) | [The Wave \(feat\. Madcon\)](https://open.spotify.com/album/3PXhfheqGadYFCxkz33Pmf) | 2:58 |
 | 73 | [Don’t Think About It](https://open.spotify.com/track/4IlakQ3QzAp2WD5tjIpAs7) | [Justine Skye](https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ) | [ULTRAVIOLET](https://open.spotify.com/album/75LxF9bnfpeimog46qoQJl) | 2:50 |
 | 74 | [Sober \- Stripped](https://open.spotify.com/track/7iHAue5izVmII1Z6Q1xy7B) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Sober \(Stripped\)](https://open.spotify.com/album/2LIGrpvdLOfLuLkObXSL6H) | 3:18 |
 | 75 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 130 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 131 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbbGYgAAAADTslafPnPk519CNyTs1/WJ`
+Snapshot ID: `AbbL/gAAAAA5xIz1KxeTe+71e2+RtfCV`

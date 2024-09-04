@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,603 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,708 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 96 | [A Model Of Reality \- Aonian Remix](https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Aonian](https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 3:59 |
 | 97 | [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 |
 | 98 | [Remission](https://open.spotify.com/track/70qBoEjl3TTRTiRgztD94a) | [IKSRE](https://open.spotify.com/artist/5oyUb8IC2vvoJeewltXQ7O), [anthéne](https://open.spotify.com/artist/760Zt0PM5aus5kfBCf4FpR) | [Remission](https://open.spotify.com/album/3L66OcpyOKbNZCm1OlYsHL) | 4:40 |
-| 99 | [Thoughts](https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ) | [Shards](https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU) | [Find Sound](https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c) | 3:37 |
-| 100 | [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 |
+| 99 | [Sospiro](https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Frost](https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes) | 10:50 |
+| 100 | [My Life \- Edit](https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY) | [Matthias Vogt](https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY), [Johanna Klein](https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF) | [My Life / Under The Moon Over The Sky](https://open.spotify.com/album/014P491xuSjVhCPbMapFbt) | 3:25 |
 
 Snapshot ID: `ZtFDwAAAAADcgl/IyeDnUydkaDscKX/J`

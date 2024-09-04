@@ -1,12 +1,12 @@
 {
-  "description": "This Is CeCe Winans. Los temas esenciales, todos en una lista.",
-  "num_followers": 39474,
+  "description": "This is CeCe Winans. The essential tracks, all in one playlist.",
+  "num_followers": 39523,
   "original_name": "This Is CeCe Winans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAA5D7xxTmw7sdnf2bXCMRzQ",
+  "snapshot_id": "ZtUAAAAAAACaKn1OZlUFCoCP/cwL+coh",
   "tracks": [
     {
       "added_at": null,
@@ -351,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than This",
-        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 79812,
-      "name": "Sanctuary",
-      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Purified",
         "url": "https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 210893,
       "name": "Pray",
       "url": "https://open.spotify.com/track/0gbglUQi9q4cQmaNu8N3t9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Than This",
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 79812,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/0DmZniSKzuFKN9Qn3eFaMJ"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alabaster Box",
+        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 190600,
+      "name": "He's Not On His Knees Yet",
+      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Than This",
         "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 499250,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/2kmucvuH6lJzDpvd5QXHWG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alabaster Box",
-        "url": "https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 190600,
-      "name": "He's Not On His Knees Yet",
-      "url": "https://open.spotify.com/track/3AhG2xpFa39bulk3v24sjy"
     },
     {
       "added_at": null,
@@ -552,7 +552,7 @@
       "added_at": null,
       "album": {
         "name": "More Than This",
-        "url": "https://open.spotify.com/album/0zvZ25UkgLXQDZLQDxpwPw"
+        "url": "https://open.spotify.com/album/2lsb6BmwfbVswn64kaLgcy"
       },
       "artists": [
         {
@@ -562,7 +562,7 @@
       ],
       "duration_ms": 83561,
       "name": "Oh The Blood Of Jesus",
-      "url": "https://open.spotify.com/track/6omRhMoKDTQT0o2NOg0M8V"
+      "url": "https://open.spotify.com/track/13FlWWsk7VyhZVG33D2rT4"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs Of Emotional Healing",
-        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 206213,
-      "name": "He's Concerned",
-      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Billy Graham Music Homecoming (Vol. 2 / Live)",
         "url": "https://open.spotify.com/album/0Gn8LSdxzYGqXhTs91kWx8"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 243373,
       "name": "Through It All - Live",
       "url": "https://open.spotify.com/track/5zDIg5nO5TxvEnGUJBiw45"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs Of Emotional Healing",
+        "url": "https://open.spotify.com/album/6VWL7HWmrzRGjhG49pYr4A"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 206213,
+      "name": "He's Concerned",
+      "url": "https://open.spotify.com/track/6bpRaJSFcjdv5aRtyUYwgc"
     },
     {
       "added_at": null,

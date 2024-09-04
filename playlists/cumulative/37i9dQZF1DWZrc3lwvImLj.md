@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-428 songs - 18 hr 44 min
+429 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [De perdidos, al río](https://open.spotify.com/track/77axyFLRvnyWiI6abb8cbB) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [De perdidos, al río](https://open.spotify.com/album/1rIa8uQewnc0QDar4v6cDh) | 1:57 | 2022-03-30 | 2023-11-16 |
 | [Dear](https://open.spotify.com/track/7ICZkeodyeK8foAiGbJjOI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Dear](https://open.spotify.com/album/6WtvQb9SmGvC3Gg7Jc0vDk) | 1:56 | 2022-02-02 | 2023-11-16 |
 | [Dear Mom](https://open.spotify.com/track/64OnVK4dInm0TVFzFPxCVV) | [Silke Böhm](https://open.spotify.com/artist/0Cl19kEnD1Zk5sVsrkaaM8) | [Dear Mom](https://open.spotify.com/album/1J4qdT4JnTedrMlTgxRoGm) | 2:40 | 2022-08-03 | 2023-11-16 |
-| [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2021-12-14 |  |
+| [Deepest woods](https://open.spotify.com/track/3ARfOz1BOZdiaUkcjb5Ul7) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Deepest Woods](https://open.spotify.com/album/1x8ws4uwMZzi3kcUzq7nqe) | 2:49 | 2021-12-14 | 2024-09-04 |
 | [diamond star](https://open.spotify.com/track/6ydpaFmEXXTMSz5igZ9ffh) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [midnight dreams & diamond star](https://open.spotify.com/album/0YOXsQpAXAMvitIUep8teF) | 2:40 | 2022-08-03 |  |
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-12-14 | 2023-06-21 |
 | [Diomede](https://open.spotify.com/track/1PBHmvZAJesTPz7UPnci1k) | [Charly Martin](https://open.spotify.com/artist/0hO3nAl0tbOlhLN99WasSE) | [Diomede](https://open.spotify.com/album/5YyBMY3ZqNsPDQFxfNche8) | 1:54 | 2023-08-07 | 2023-11-16 |
@@ -178,6 +178,7 @@
 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 | 2023-05-09 | 2023-11-16 |
 | [Komorebi](https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC) | [Kyūka](https://open.spotify.com/artist/2HcZQwoaSF9tSiQ3zvuqz7) | [Komorebi](https://open.spotify.com/album/3tKvJOGY06DHfqtbXHO2CS) | 2:06 | 2021-12-14 | 2022-04-23 |
 | [L'âme rêvée](https://open.spotify.com/track/5ehQEnyRaMM9qmFtIpCJlW) | [Zoé Gaspard](https://open.spotify.com/artist/1Yl2JFN0X1iXATUTTgTbZ5) | [L'âme rêvée](https://open.spotify.com/album/4975TNrfqVqaxdVmWtKVR8) | 1:47 | 2023-01-09 | 2023-11-16 |
+| [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 | 2024-09-03 |  |
 | [La Belle Epoque](https://open.spotify.com/track/7bk5U14iArhfEeazvoP3L5) | [Isaac Cassidy](https://open.spotify.com/artist/3QoWofhE474wVe9XdvQrHJ) | [La Belle Epoque](https://open.spotify.com/album/7hiSVCKLapC4UIqtKv6yYi) | 2:43 | 2022-01-05 |  |
 | [La Douleur](https://open.spotify.com/track/2UtXY2slbr0K9xxOU2XidX) | [Charles Faure](https://open.spotify.com/artist/3ONJjReGP3f6w68Gj7H1Im) | [La Douleur](https://open.spotify.com/album/1kqivGfhh7rfux9LA5QCUv) | 2:09 | 2024-03-04 |  |
 | [La lune](https://open.spotify.com/track/4vuX4bbfayOyWpOYswDBGo) | [Remko Kühne](https://open.spotify.com/artist/6LNkjwPSnLW93YeQz777zC) | [La lune](https://open.spotify.com/album/2xLVugO9GUd9UerwgD5ABB) | 4:27 | 2022-06-06 | 2023-11-16 |
@@ -361,7 +362,7 @@
 | [The Still](https://open.spotify.com/track/17C3G5g7bBxxRAe6XVWxHA) | [Erinthe](https://open.spotify.com/artist/5hRoSYyXuiz9JIHvxszP3M) | [The Still](https://open.spotify.com/album/06eRSftUdtz4u5Zx9s7Ywc) | 2:09 | 2024-04-03 |  |
 | [The Tree](https://open.spotify.com/track/6eir7TDacjXjFscPxDFHC4) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [The Tree](https://open.spotify.com/album/6sGfG3gk3pzhPFSDJV1bij) | 3:19 | 2023-01-09 |  |
 | [The Watchtower](https://open.spotify.com/track/504NLPDUBRylbZUUQR97XX) | [Sigimund](https://open.spotify.com/artist/10Sk8d2pdmvQ7JMZcPQDOU) | [The Watchtower](https://open.spotify.com/album/0Pal5VkkxKbiGZZJHsgTHp) | 3:25 | 2021-12-14 | 2022-04-15 |
-| [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-14 |  |
+| [Those Moments](https://open.spotify.com/track/6LBeWgaeVS1VpxEcFp7FJH) | [Korey Banks](https://open.spotify.com/artist/300oLKNAaJNFP04XeswaAG) | [Those Moments](https://open.spotify.com/album/4ml9X8eka1kIsbx8ytmv6g) | 2:05 | 2021-12-14 | 2024-09-04 |
 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 | 2021-12-14 | 2023-08-08 |
 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 | 2021-12-14 |  |
 | [Time Of Loneliness](https://open.spotify.com/track/4QMnY8yCam7Gjuo3DdRMA7) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Time Of Loneliness](https://open.spotify.com/album/7piDZM7pVnkIa5B8o3jL4g) | 2:50 | 2021-12-14 | 2023-08-08 |

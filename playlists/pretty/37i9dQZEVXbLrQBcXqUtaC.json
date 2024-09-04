@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
-  "num_followers": 8831,
+  "num_followers": 8835,
   "original_name": "Top 50 - Saudi Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LmklcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lmp5SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
         "url": "https://open.spotify.com/album/7wH1j7kTS5shml1AJNDXWd"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3IEMwWyYlzeuik3KI3ljne"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Lammah",
         "url": "https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
-        "url": "https://open.spotify.com/album/1Xt8fgPD0TddC7B1zuHQ2u"
-      },
-      "artists": [
-        {
-          "name": "\u0645\u064a\u0648\u0632\u0643 \u0639\u0630\u0627\u0628 - 3DAB MUSIC",
-          "url": "https://open.spotify.com/artist/37AGNtJFOHYp8STnoFoZ2n"
-        }
-      ],
-      "duration_ms": 249614,
-      "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
-      "url": "https://open.spotify.com/track/1bfdoRNpw3XsBeCX7lH0Ot"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "MUSE",
         "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
@@ -125,7 +93,39 @@
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
+        "url": "https://open.spotify.com/album/1Xt8fgPD0TddC7B1zuHQ2u"
+      },
+      "artists": [
+        {
+          "name": "\u0645\u064a\u0648\u0632\u0643 \u0639\u0630\u0627\u0628 - 3DAB MUSIC",
+          "url": "https://open.spotify.com/artist/37AGNtJFOHYp8STnoFoZ2n"
+        }
+      ],
+      "duration_ms": 249614,
+      "name": "\u0627\u063a\u0627\u0646\u064a \u0639\u0631\u0627\u0642\u064a\u0629 | \u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a",
+      "url": "https://open.spotify.com/track/1bfdoRNpw3XsBeCX7lH0Ot"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -141,7 +141,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Aybaah",
         "url": "https://open.spotify.com/album/6NwcjGw9Vm7SodEEZdWlST"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/1KXneoXsShNeFRupir2Hpp"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -193,27 +193,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 183550,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -229,23 +209,23 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "Please Please Please",
-        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+        "name": "\u064a\u0639\u0646\u064a \u0643\u0644\u0647 \u0643\u0630\u0628 \u0645\u0646 \u0627\u0644\u0628\u062f\u0627\u064a\u0647",
+        "url": "https://open.spotify.com/album/2qNYmeusm885L6nA5MI2pc"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "mrkelgrez",
+          "url": "https://open.spotify.com/artist/4mflY2pZkh9xXltN8GJnDa"
         }
       ],
-      "duration_ms": 186365,
-      "name": "Please Please Please",
-      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+      "duration_ms": 188174,
+      "name": "\u064a\u0639\u0646\u064a \u0643\u0644\u0647 \u0643\u0630\u0628 \u0645\u0646 \u0627\u0644\u0628\u062f\u0627\u064a\u0647",
+      "url": "https://open.spotify.com/track/4w6tfdTFpCwZHayVUC4KG2"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -265,23 +245,7 @@
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "\u064a\u0639\u0646\u064a \u0643\u0644\u0647 \u0643\u0630\u0628 \u0645\u0646 \u0627\u0644\u0628\u062f\u0627\u064a\u0647",
-        "url": "https://open.spotify.com/album/2qNYmeusm885L6nA5MI2pc"
-      },
-      "artists": [
-        {
-          "name": "mrkelgrez",
-          "url": "https://open.spotify.com/artist/4mflY2pZkh9xXltN8GJnDa"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "\u064a\u0639\u0646\u064a \u0643\u0644\u0647 \u0643\u0630\u0628 \u0645\u0646 \u0627\u0644\u0628\u062f\u0627\u064a\u0647",
-      "url": "https://open.spotify.com/track/4w6tfdTFpCwZHayVUC4KG2"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -297,7 +261,23 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "Please Please Please",
+        "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 186365,
+      "name": "Please Please Please",
+      "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "umiy (1)",
         "url": "https://open.spotify.com/album/7LM9tHOXAjYx5NCrW0WNSW"
@@ -313,7 +293,27 @@
       "url": "https://open.spotify.com/track/4TComAxYaIeuXPU7Lw5gtw"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "GOLDEN",
+        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 183550,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -329,23 +329,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "umiy (1)",
         "url": "https://open.spotify.com/album/7LM9tHOXAjYx5NCrW0WNSW"
@@ -361,31 +345,39 @@
       "url": "https://open.spotify.com/track/5UPp9LK1VFpsSdQB3NwiJ4"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "Alibi (with Pabllo Vittar & Yseult)",
-        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
       "artists": [
         {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 161655,
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 303440,
+      "name": "CHIHIRO",
+      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -409,23 +401,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 303440,
-      "name": "CHIHIRO",
-      "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -445,7 +421,7 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -461,23 +437,31 @@
       "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+        "name": "Alibi (with Pabllo Vittar & Yseult)",
+        "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
       },
       "artists": [
         {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
+      "duration_ms": 161655,
+      "name": "Alibi (with Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Cigarettes After Sex",
         "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
@@ -493,23 +477,23 @@
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Nasrat Al Badr Collection",
         "url": "https://open.spotify.com/album/7uUcCbO0rCZTiysnpi1gFm"
@@ -525,10 +509,10 @@
       "url": "https://open.spotify.com/track/0nOYzdwXVX4ATRYVENxOyb"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
       "artists": [
         {
@@ -538,10 +522,10 @@
       ],
       "duration_ms": 208211,
       "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+      "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
@@ -561,7 +545,7 @@
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
         "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
@@ -577,55 +561,23 @@
       "url": "https://open.spotify.com/track/2OSxxCfS81wcds5RbQ0Ztq"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "GOLDEN",
-        "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 206019,
-      "name": "Standing Next to You",
-      "url": "https://open.spotify.com/track/2KslE17cAJNHTsI2MI0jb2"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "Be My First One",
-        "url": "https://open.spotify.com/album/05jJHKDTHfyOe8RM89HxJt"
-      },
-      "artists": [
-        {
-          "name": "TalkinToys",
-          "url": "https://open.spotify.com/artist/4HDTeSTvhHcxmdeKGKmCJy"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Be My First One",
-      "url": "https://open.spotify.com/track/4jQj2GzSDoaibN5qTrQh0c"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "KEEP UP // FROSTBITE",
-        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "KEEP UP",
-      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "X-SLIDE",
         "url": "https://open.spotify.com/album/1QFKbF3Oot9Ad1NnRCAG32"
@@ -645,155 +597,39 @@
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+        "name": "KEEP UP // FROSTBITE",
+        "url": "https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY"
       },
       "artists": [
         {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         }
       ],
-      "duration_ms": 242973,
-      "name": "Set Fire to the Rain",
-      "url": "https://open.spotify.com/track/73CMRj62VK8nUS4ezD2wvi"
+      "duration_ms": 133226,
+      "name": "KEEP UP",
+      "url": "https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "CRAZY",
-        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+        "name": "Be My First One",
+        "url": "https://open.spotify.com/album/05jJHKDTHfyOe8RM89HxJt"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "TalkinToys",
+          "url": "https://open.spotify.com/artist/4HDTeSTvhHcxmdeKGKmCJy"
         }
       ],
-      "duration_ms": 164554,
-      "name": "CRAZY",
-      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
+      "duration_ms": 174000,
+      "name": "Be My First One",
+      "url": "https://open.spotify.com/track/4jQj2GzSDoaibN5qTrQh0c"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "yustyna",
-        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 142514,
-      "name": "i like the way you kiss me",
-      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 206280,
-      "name": "Softcore",
-      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
-        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
-      },
-      "artists": [
-        {
-          "name": "TUL8TE",
-          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
-        }
-      ],
-      "duration_ms": 145454,
-      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
-      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "I've Been Waiting (Radio Edits)",
-        "url": "https://open.spotify.com/album/7Jc2Z2eDThlBgiTPgTxtEK"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Badwi",
-          "url": "https://open.spotify.com/artist/16Mje1BDQmN1DWp4a94YOC"
-        },
-        {
-          "name": "Dan Slater",
-          "url": "https://open.spotify.com/artist/2vPomR7qUAlp61XOVdFmWy"
-        }
-      ],
-      "duration_ms": 241874,
-      "name": "I've Been Waiting - Radio Mix",
-      "url": "https://open.spotify.com/track/6hfRfhGxvubOieXwiPL4oA"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
-      "album": {
-        "name": "\u0645\u063a\u0631\u0628\u064a\u0627\u062a \u0627\u0633\u062a\u0643\u0646\u0627\u0646",
-        "url": "https://open.spotify.com/album/4RLC98kTOfWorlkVuyS6Jk"
-      },
-      "artists": [
-        {
-          "name": "Astknan Maghribi",
-          "url": "https://open.spotify.com/artist/3j2RV0vrjqFRwKVrV2aWr7"
-        }
-      ],
-      "duration_ms": 219611,
-      "name": "\u0645\u063a\u0631\u0628\u064a\u0629 \u0637\u064a\u0627\u0631\u0629",
-      "url": "https://open.spotify.com/track/5gp2YvvqRre1LO9iNsEogZ"
-    },
-    {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -809,23 +645,103 @@
       "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
       "album": {
-        "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643 \u0645\u0633\u0631\u0639",
-        "url": "https://open.spotify.com/album/6o3pz4Niw7uPMqNtra7MhM"
+        "name": "21",
+        "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
       },
       "artists": [
         {
-          "name": "umiy",
-          "url": "https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 294312,
-      "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643 \u0645\u0633\u0631\u0639",
-      "url": "https://open.spotify.com/track/63D6e61KrsPzGDVVpl8gXU"
+      "duration_ms": 242973,
+      "name": "Set Fire to the Rain",
+      "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 207347,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "CRAZY (Party Remixes 1)",
+        "url": "https://open.spotify.com/album/6kAsgfuulBOuyYLytWX7e2"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/4gxEY3Mh5FZZDAJAKPNrCS"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "\u0643\u0648\u0643\u062a\u064a\u0644 \u063a\u0646\u0627\u0626\u064a \u0644\u0644\u0641\u0646\u0627\u0646 \u062a\u0648\u0648\u0644\u064a\u062a \u062d\u0635\u0631\u064a\u0627\u064b \u0644\u062d\u0628\u0627\u064a\u0628 \u0642\u0644\u0628\u064a",
+        "url": "https://open.spotify.com/album/42aXaZ9YPO28BbWlTLXVXV"
+      },
+      "artists": [
+        {
+          "name": "TUL8TE",
+          "url": "https://open.spotify.com/artist/5QKGejJMncXUNUb9pUFbEf"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "\u0645\u0627\u062a\u064a\u062c\u064a \u0627\u0639\u062f\u064a \u0639\u0644\u064a\u0643\u064a",
+      "url": "https://open.spotify.com/track/5ks7fVLJY4QRlAALIqJfMR"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "\u0645\u063a\u0631\u0628\u064a\u0627\u062a \u0627\u0633\u062a\u0643\u0646\u0627\u0646",
+        "url": "https://open.spotify.com/album/4RLC98kTOfWorlkVuyS6Jk"
+      },
+      "artists": [
+        {
+          "name": "Astknan Maghribi",
+          "url": "https://open.spotify.com/artist/3j2RV0vrjqFRwKVrV2aWr7"
+        }
+      ],
+      "duration_ms": 219611,
+      "name": "\u0645\u063a\u0631\u0628\u064a\u0629 \u0637\u064a\u0627\u0631\u0629",
+      "url": "https://open.spotify.com/track/5gp2YvvqRre1LO9iNsEogZ"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Skyfall",
         "url": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
@@ -841,7 +757,71 @@
       "url": "https://open.spotify.com/track/6VObnIkLVruX4UVyxWhlqm"
     },
     {
-      "added_at": "2024-09-02 08:39:33",
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643 \u0645\u0633\u0631\u0639",
+        "url": "https://open.spotify.com/album/6o3pz4Niw7uPMqNtra7MhM"
+      },
+      "artists": [
+        {
+          "name": "umiy",
+          "url": "https://open.spotify.com/artist/7CLlOKuKAmd7uuSDeyLN0M"
+        }
+      ],
+      "duration_ms": 294312,
+      "name": "\u0631\u062d\u062a\u064a \u062e\u0646\u062a\u064a\u0646\u064a \u0648\u063a\u062f\u0631\u062a\u064a \u0648\u0647\u0627\u0646\u062a \u0627\u0644\u0639\u0634\u0631\u0647 \u0639\u0644\u064a\u0643 \u0645\u0633\u0631\u0639",
+      "url": "https://open.spotify.com/track/63D6e61KrsPzGDVVpl8gXU"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "yustyna",
+        "url": "https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "2093",
+        "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "If We Being R\u00ebal",
+      "url": "https://open.spotify.com/track/0YThXX1dqUpYBLyJNAsF9N"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
       "album": {
         "name": "Rdy",
         "url": "https://open.spotify.com/album/0IoOphEIvuBQxelbffR5Jc"
@@ -855,6 +835,22 @@
       "duration_ms": 270118,
       "name": "Rdy",
       "url": "https://open.spotify.com/track/1gVT9clRR3jRvgJYK2KsIp"
+    },
+    {
+      "added_at": "2024-09-03 14:39:53",
+      "album": {
+        "name": "Submarine",
+        "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 236906,
+      "name": "No One Noticed",
+      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     }
   ],
   "unique_name": "Top 50 - Saudi Arabia",

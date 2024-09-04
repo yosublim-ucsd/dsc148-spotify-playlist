@@ -4,7 +4,7 @@
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-773 songs - 1 day 9 hr 39 min
+775 songs - 1 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Above Light](https://open.spotify.com/track/2CoBu5GndGDiqwHiBUp3ZT) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Above Light](https://open.spotify.com/album/6CAfWb9Pc7ThbXdGR5sr7R) | 3:11 | 2022-04-21 | 2024-04-10 |
 | [Abre los ojos](https://open.spotify.com/track/0xxo7AH7SJMuoTJKeX72Jj) | [Illari Palben](https://open.spotify.com/artist/7CqYCedd2MyJOwVDQnXSAq) | [Abre los ojos](https://open.spotify.com/album/4EM7qAQ7pqE6qWYFFp7aVi) | 2:46 | 2022-04-21 | 2022-07-21 |
 | [Adagio](https://open.spotify.com/track/3zmLvXyfixDF8gmBezsBxD) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Adagio](https://open.spotify.com/album/2rlGSTH3U5yFtDzs296a89) | 3:55 | 2022-04-21 | 2023-01-21 |
-| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 |  |
+| [Adormitor](https://open.spotify.com/track/2xYggBQVDLV3n75ZuAefGl) | [Micah Fieraru](https://open.spotify.com/artist/7atAO1w0TT6tgBhOiL6ZFe) | [Adormitor](https://open.spotify.com/album/02LRLqZzGiTTvCRuG7mFB6) | 2:16 | 2022-04-21 | 2024-09-04 |
 | [Affirmation](https://open.spotify.com/track/7Gie6qk5O2nBNUAxKmtkGy) | [Kristen Nichols](https://open.spotify.com/artist/7lxr3DfadWQ1MaeNEaqAjk) | [Affirmation](https://open.spotify.com/album/5XOgOWjtMtRUaNeKxdDEgm) | 2:03 | 2022-07-20 | 2022-08-10 |
 | [After Rain](https://open.spotify.com/track/5kTBk5GGD3zIX6DpLhCGbD) | [Renato Luigi](https://open.spotify.com/artist/6BXKYC9Iz51qNqjpAnu72f) | [After Rain](https://open.spotify.com/album/4uFE05K0C5Ziv6D5lrW0Vp) | 4:03 | 2022-04-21 | 2022-08-10 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-21 | 2023-07-04 |
@@ -83,7 +83,7 @@
 | [Breakfast With Chopin](https://open.spotify.com/track/3lHjOedwwnVrhoOayeFdTI) | [Louis Mercier](https://open.spotify.com/artist/3Pew2vdzxrnyQjjs7wsOa2) | [Breakfast with Chopin](https://open.spotify.com/album/6c61W7333vPNTC077Ne0Sm) | 2:06 | 2023-02-20 |  |
 | [Breathable](https://open.spotify.com/track/1wBMFriD7fqIPeA4GVahG7) | [Miriam Juno](https://open.spotify.com/artist/1W4zQyEDpirI3RZbQbhUTw) | [Breathable](https://open.spotify.com/album/6BifaJB9JEsELsZch0YEDk) | 2:41 | 2023-12-18 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2022-04-21 | 2022-08-10 |
-| [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-04-21 |  |
+| [Broparken](https://open.spotify.com/track/40BHeLV8ZIxT9rjVLdrfT5) | [Ruben Fjellner](https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG) | [Broparken](https://open.spotify.com/album/4rKuRtcWLOVWRxima5BTB1) | 3:00 | 2022-04-21 | 2024-09-04 |
 | [Brothers](https://open.spotify.com/track/4wAgG2Y5yUrMc1RdMQJR14) | [Liam Muntz](https://open.spotify.com/artist/3xxV3NmQixCSk6fUPlGSvP) | [Brothers](https://open.spotify.com/album/3Da9jMzHmxCC3ruuyli07H) | 2:28 | 2022-04-21 | 2022-09-24 |
 | [Bubbles](https://open.spotify.com/track/2IdLxL6CPq1bUiMRIenO9J) | [Michel Jean](https://open.spotify.com/artist/4ctoiVR4Okq67Q9vyl3jcz) | [Bubbles](https://open.spotify.com/album/1LrUfRnXCEQCCP3OL48I8K) | 2:14 | 2022-04-21 | 2023-07-06 |
 | [Bulles à facettes](https://open.spotify.com/track/6cPE6jra0BmU8kLzgeUZbb) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Bulles à facettes](https://open.spotify.com/album/3bvtiUyD3XAR3lL04QKuib) | 3:13 | 2022-04-21 | 2023-09-26 |
@@ -331,6 +331,7 @@
 | [Kövess engem](https://open.spotify.com/track/3OvlHDjYRdlbuPaS0Krbml) | [Csizmazia Etel](https://open.spotify.com/artist/0fzi88EmWAkkGiMVuIIi1S) | [Kövess engem](https://open.spotify.com/album/48Dq1LikCVhATFQCUa0yxl) | 2:11 | 2022-04-21 | 2022-08-10 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2022-04-21 | 2023-02-27 |
 | [L'habit ne fait pas le moine](https://open.spotify.com/track/0XGbTlSbgCWgqL5KuQY2qz) | [Pascal Duval](https://open.spotify.com/artist/3VpKcUweq77xUWClI5oSYl) | [L'habit ne fait pas le moine](https://open.spotify.com/album/0jq8I1nrYieRyPt7tcl0Db) | 3:00 | 2022-04-21 | 2022-09-24 |
+| [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 | 2024-09-03 |  |
 | [La Gondola](https://open.spotify.com/track/43xkjr0u5DBR3NfkrCQdHo) | [Nicola Casalino](https://open.spotify.com/artist/3yfPBQP1jcsBr5LNlbipBR) | [Surrender](https://open.spotify.com/album/2SSwUTubPIzCDF0n2IVYYZ) | 3:41 | 2022-04-21 | 2022-07-21 |
 | [La maison de l'été](https://open.spotify.com/track/0yQC370X6nqaUvfZEuAF5D) | [Anne Vallayer](https://open.spotify.com/artist/1Yk8xJQxv9RJTKMwKrkPOz) | [La maison de l'été](https://open.spotify.com/album/6lhP1cl4RdaxwDwUzDwZKr) | 2:34 | 2022-04-21 | 2024-04-10 |
 | [La Raison](https://open.spotify.com/track/5O4mtDJO8jOP867GGp495v) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [La Raison](https://open.spotify.com/album/33JRRgkyeWVNcWgDuWCM4h) | 2:16 | 2022-04-21 | 2022-11-24 |
@@ -718,6 +719,7 @@
 | [Under the Tree](https://open.spotify.com/track/47q2Yzs2VG88llrNWH2icn) | [Sara Hoffman](https://open.spotify.com/artist/5E1w0yu3MqU1W1OaUT1fs1) | [Under the Tree](https://open.spotify.com/album/0Ba8rZUhKEBC4dqp2iP301) | 3:04 | 2024-02-27 |  |
 | [Une main tendue](https://open.spotify.com/track/5rqAxnEsenuRJjUAXbzima) | [Céline Aubin](https://open.spotify.com/artist/1uJcXulhTLN9A0F6qrpWeT) | [Une main tendue](https://open.spotify.com/album/33xfKJOTxE3XQPsinEubFw) | 2:01 | 2023-01-20 |  |
 | [Unfinished Story](https://open.spotify.com/track/0pdWIu5FMVfPECxtZIV1Py) | [Dexter Mills](https://open.spotify.com/artist/3ChW1Y1eF6w0fq0yvMQnS6) | [Unfinished Story](https://open.spotify.com/album/6L3cz0Uc70mGVYDoEcmCLc) | 2:17 | 2022-04-21 | 2022-07-21 |
+| [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 | 2024-09-03 |  |
 | [Unless you leave now](https://open.spotify.com/track/2X2suFxascM2QSKOcWJsA1) | [Alva Brunel](https://open.spotify.com/artist/2S3Ke4RpuUU2OppAVlC2zf) | [Unless you leave now](https://open.spotify.com/album/0ArXH6DflLbNkfl8NAOyl0) | 2:30 | 2022-04-21 | 2023-08-08 |
 | [Unsaid](https://open.spotify.com/track/6DOjomPB7sCFUSx96x6bSc) | [Amity Fall](https://open.spotify.com/artist/6cGxRgjUNOdLJ1dJby1GmS) | [Unsaid](https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD) | 2:16 | 2022-04-21 | 2024-04-04 |
 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 | 2022-04-21 | 2023-10-07 |

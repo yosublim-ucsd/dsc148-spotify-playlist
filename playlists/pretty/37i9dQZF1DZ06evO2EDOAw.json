@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4518,
+  "num_followers": 4520,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAyI0b59e+L6iKM6n6vRGLY",
+  "snapshot_id": "ZtUAAAAAAABasZQm3++EnuumcAAkIRD8",
   "tracks": [
     {
       "added_at": null,
@@ -731,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 217911,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -755,26 +775,6 @@
       "duration_ms": 282440,
       "name": "So Glad",
       "url": "https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 217911,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/1NSNj15GXQC9TIEQ7n6ALS"
     },
     {
       "added_at": null,
@@ -835,26 +835,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
+        "name": "Anthems & Glory (Live)",
+        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
       },
       "artists": [
         {
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
+        },
+        {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        },
-        {
-          "name": "JDS",
-          "url": "https://open.spotify.com/artist/7GeIcTu4YxcVc0stcO5oQm"
         }
       ],
-      "duration_ms": 223866,
-      "name": "Since I Found Christ",
-      "url": "https://open.spotify.com/track/6aF7NI4aBCRAxicyBDaZQR"
+      "duration_ms": 310644,
+      "name": "Come A Little Closer - Live",
+      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
     },
     {
       "added_at": null,
@@ -908,29 +904,33 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 289240,
-      "name": "Hear This",
-      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
+      "duration_ms": 169453,
+      "name": "You",
+      "url": "https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Anthems & Glory (Live)",
-        "url": "https://open.spotify.com/album/55YFp7Q3oXCGDOk5zOXY1N"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee"
       },
       "artists": [
         {
-          "name": "Todd Dulaney",
-          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
-        },
-        {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
+        },
+        {
+          "name": "JDS",
+          "url": "https://open.spotify.com/artist/7GeIcTu4YxcVc0stcO5oQm"
         }
       ],
-      "duration_ms": 310644,
-      "name": "Come A Little Closer - Live",
-      "url": "https://open.spotify.com/track/3bA2GURflrfsHv8YtS0Ud6"
+      "duration_ms": 223866,
+      "name": "Since I Found Christ",
+      "url": "https://open.spotify.com/track/6aF7NI4aBCRAxicyBDaZQR"
     },
     {
       "added_at": null,
@@ -976,33 +976,9 @@
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 169453,
-      "name": "You",
-      "url": "https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
-      },
-      "artists": [
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "James Fortune",
-          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
-        },
-        {
-          "name": "BRL",
-          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
-        }
-      ],
-      "duration_ms": 385080,
-      "name": "Victory - Live",
-      "url": "https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL"
+      "duration_ms": 289240,
+      "name": "Hear This",
+      "url": "https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo"
     },
     {
       "added_at": null,
@@ -1051,6 +1027,30 @@
       "duration_ms": 315533,
       "name": "Somehow (feat. Kierra Sheard)",
       "url": "https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "James Fortune",
+          "url": "https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH"
+        },
+        {
+          "name": "BRL",
+          "url": "https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ"
+        }
+      ],
+      "duration_ms": 385080,
+      "name": "Victory - Live",
+      "url": "https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL"
     },
     {
       "added_at": null,
@@ -1111,18 +1111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bold Right Life",
-        "url": "https://open.spotify.com/album/2bXPdUw4c2lrvVQaxXzIwB"
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
       },
       "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
         {
           "name": "Kierra Sheard",
           "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
         }
       ],
-      "duration_ms": 159133,
-      "name": "If It Had Not Been",
-      "url": "https://open.spotify.com/track/0TJ1R4dnf9rXBPT7ZyLSfl"
+      "duration_ms": 547048,
+      "name": "You Must Break - Live",
+      "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
     }
   ],
   "unique_name": "This Is Kierra Sheard",

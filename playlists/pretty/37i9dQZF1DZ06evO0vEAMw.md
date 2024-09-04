@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,237 likes - 51 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,278 likes - 51 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 13 | [Electricity](https://open.spotify.com/track/5ZGXOgSHLkDYlDssUkVp7a) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Pheelz Good](https://open.spotify.com/album/5JDvgDchniRt7s72WlHOH6) | 2:12 |
 | 14 | [AWAY](https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:33 |
 | 15 | [High](https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 3:13 |
-| 16 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 |
-| 17 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 |
+| 16 | [Joy](https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Joy](https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V) | 2:50 |
+| 17 | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/track/2IBrgYf3Hjw16c6oNwkZ9M) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dada \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/0tqiftjjP81odLWXCrhmUD) | 2:57 |
 | 18 | [OVER DEM](https://open.spotify.com/track/1KCCxeit3q5wJXxDmRgbl3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:18 |
 | 19 | [Fall](https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Fall](https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs) | 4:00 |
 | 20 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 44 | [Assurance](https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:09 |
 | 45 | [Nwa Baby](https://open.spotify.com/track/5LQ4gy76WKL3yH7eClwM5m) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Nwa Baby](https://open.spotify.com/album/2ginnTdwjq3y0c5aYhUvzn) | 3:42 |
 | 46 | [FEM](https://open.spotify.com/track/2PxLuV3mcHbxB8K7Zci1GQ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:22 |
-| 47 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
-| 48 | [The Money](https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Money](https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU) | 3:41 |
+| 47 | [The Money](https://open.spotify.com/track/0nheubP8e9oOMWw1d6Bz85) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [The Money](https://open.spotify.com/album/6fvuVCY2ORKjNdHdR1GOMU) | 3:41 |
+| 48 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
 | 49 | [Sweet in the Middle \(feat\. Wurld, Naira Marley & Zlatan\)](https://open.spotify.com/track/2ylO41DTQwQv1QH1mSP3cH) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Wurld](https://open.spotify.com/artist/4LRCMIDhEBEHDp7L207QlK), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:08 |
 | 50 | [Shopping Spree \(feat\. Chris Brown & Young Thug\)](https://open.spotify.com/track/1ln2sDL64h9Y0PJIrUogM6) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [A Better Time](https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD) | 3:33 |
 | 51 | [Ke Star \(feat\. Virgo Deep\) \- Remix](https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(feat\. Virgo Deep\) \[Remix\]](https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3) | 5:28 |
 
-Snapshot ID: `ZtOugAAAAACjQkaQT7BcclLFe2FXU1X2`
+Snapshot ID: `ZtUAAAAAAACHc0Pa8Sa3YjTiXESOEjlg`

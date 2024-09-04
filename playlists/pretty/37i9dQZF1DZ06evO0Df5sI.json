@@ -1,12 +1,12 @@
 {
-  "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 20668,
+  "description": "This Is Alkaline Trio. Los temas esenciales, todos en una lista.",
+  "num_followers": 20677,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADLQFZHodIe7yo4FMmj/PoP",
+  "snapshot_id": "ZtUAAAAAAAAAqPU9kNgkYzFTza8ndPJ4",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
-      },
-      "artists": [
-        {
-          "name": "Alkaline Trio",
-          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
-        }
-      ],
-      "duration_ms": 136160,
-      "name": "Fatally Yours",
-      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Remains",
         "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 229666,
       "name": "Hell Yes",
       "url": "https://open.spotify.com/track/16dxfNNlbUJnKQdt6uRt8l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+      },
+      "artists": [
+        {
+          "name": "Alkaline Trio",
+          "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+        }
+      ],
+      "duration_ms": 136160,
+      "name": "Fatally Yours",
+      "url": "https://open.spotify.com/track/1paIlsdJpkQgPmQ8f6U8RA"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Continental",
-      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
+      "duration_ms": 221520,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 221520,
-      "name": "Metro",
-      "url": "https://open.spotify.com/track/4js6mEbWT0stDAGLwPzirt"
+      "duration_ms": 207973,
+      "name": "Continental",
+      "url": "https://open.spotify.com/track/5ZAi4uu4ECJBivRPD937WB"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Every Thug Needs a Lady",
-      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
+      "duration_ms": 207213,
+      "name": "Jaked on Green Beers",
+      "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 207213,
-      "name": "Jaked on Green Beers",
-      "url": "https://open.spotify.com/track/3Xaaa4IOhf3x4rzI2Xfkfe"
+      "duration_ms": 198893,
+      "name": "Every Thug Needs a Lady",
+      "url": "https://open.spotify.com/track/15TRw56sh5Trmt4nhM2zyn"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Mourning",
-        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
+        "name": "Remains",
+        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 240213,
-      "name": "All on Black",
-      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
+      "duration_ms": 154080,
+      "name": "My Standard Break from Life",
+      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remains",
-        "url": "https://open.spotify.com/album/6U1NRLEie1cPXfDt2kf8Nz"
+        "name": "Good Mourning",
+        "url": "https://open.spotify.com/album/1iT5nziNpSIeIFWB1Vx8hq"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 154080,
-      "name": "My Standard Break from Life",
-      "url": "https://open.spotify.com/track/67aA3pLpZ02gtMlOLaEBb4"
+      "duration_ms": 240213,
+      "name": "All on Black",
+      "url": "https://open.spotify.com/track/3bW28EUV2h0gBv0hCIdMYH"
     },
     {
       "added_at": null,

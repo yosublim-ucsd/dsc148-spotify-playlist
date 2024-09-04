@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTxeAdrVG2l.md) - [plain]
 
 > The biggest songs of the 1990s\. Cover: Christina Aguilera
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,360,233 likes - 150 songs - 10 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,360,795 likes - 150 songs - 10 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

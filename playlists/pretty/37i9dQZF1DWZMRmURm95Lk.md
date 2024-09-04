@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Mezzosangue in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,540 likes - 155 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,557 likes - 155 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

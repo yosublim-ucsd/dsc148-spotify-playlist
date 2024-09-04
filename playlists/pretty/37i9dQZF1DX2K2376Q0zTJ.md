@@ -2,38 +2,38 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ちゃんみな
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: NENE
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,802 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,806 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
-| 2 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 |
-| 3 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
-| 4 | [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 |
-| 5 | [Bad Bitch 美学 Remix](https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 6:09 |
-| 6 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
-| 7 | [あたしの全部を愛せない](https://open.spotify.com/track/40BWfinCBSQnaCBRuVqBfh) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 3:17 |
-| 8 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 |
-| 9 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
-| 10 | [MY BODY IS CUTE](https://open.spotify.com/track/5ytRSw00JzFmL6cpZPCRPC) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [うたうように、ほがらかに](https://open.spotify.com/album/1bZcROAAD3VDGBVN799Mh6) | 4:03 |
-| 11 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
-| 12 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 |
-| 13 | [CLAP CLAP](https://open.spotify.com/track/6L1XkeAPSKoZN9z5YmFxB1) | [Maki Goto](https://open.spotify.com/artist/5pJEdeLmuXxPjXLDoXDaP0) | [CLAP CLAP](https://open.spotify.com/album/6xWmlmVYL8Kda7Pzh5rFYu) | 3:41 |
-| 14 | [POWER SPOT](https://open.spotify.com/track/155hCdvvOX3zsudibFIyG7) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/1mmTuDM7M8LsvYNLimERpV) | 3:30 |
-| 15 | [Tokyo Calling](https://open.spotify.com/track/2ZVDVwltoFAwqdhCxbvdKg) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 3:11 |
-| 16 | [生者の行進](https://open.spotify.com/track/6R4rDgrw56JCrLdbxSQeAE) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:00 |
-| 17 | [Donuts Mind If I Do](https://open.spotify.com/track/7dVsIb37EhgpQ4Wg07h7c2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:48 |
-| 18 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
-| 19 | [Hold The Girl](https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:05 |
-| 20 | [TWO HANDS](https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z) | 3:58 |
-| 21 | [あぼーん \- 2024 Remastered](https://open.spotify.com/track/03VUhe9dGbFWy9B05QyGUt) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Slash\-&\-Burn](https://open.spotify.com/album/31WI5dtn9l8IzW7rehqecI) | 2:38 |
-| 22 | [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 |
-| 23 | [The Light](https://open.spotify.com/track/6Jf6l54ftlk6rvk14v0kma) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [The Light](https://open.spotify.com/album/3S3qjC95LDdkcmZ8G0w7Tt) | 3:35 |
-| 24 | [A・O・U](https://open.spotify.com/track/031USpgPSo9UPnaCiddg13) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A・O・U](https://open.spotify.com/album/3NdyX9VKROuSfRraKxbDm6) | 3:19 |
-| 25 | [Somebody Else Now](https://open.spotify.com/track/1kxAIgqMbdYVXNZ5Lr8dac) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [NOW](https://open.spotify.com/album/7zbqFK9cexmlYW2bBw16Og) | 3:02 |
-| 26 | [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 |
+| 1 | [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 |
+| 2 | [NG](https://open.spotify.com/track/12jwNYJiHCSnXwbCmOm8Up) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [NG](https://open.spotify.com/album/4eNwx9fVPUqrsKys2F5kqw) | 2:51 |
+| 3 | [LONELY](https://open.spotify.com/track/13iGOxPi9XuTpXcc8EejKr) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [LONELY](https://open.spotify.com/album/6V5Kq4L9VMG3zhBO0FmtcZ) | 4:46 |
+| 4 | [SOMETHING AIN'T RIGHT](https://open.spotify.com/track/4xzrnTQ0CVRj6LBisVyTum) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [SOMETHING AIN'T RIGHT](https://open.spotify.com/album/1reE28qY4WnZLHJ6gTh5Rh) | 3:10 |
+| 5 | [Ice Palace](https://open.spotify.com/track/0RQL1Q1xo2nuZ7im5KXCnX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Ice Palace](https://open.spotify.com/album/6OjsY6C1ezMaP6dIgXk5ve) | 3:20 |
+| 6 | [Bad Bitch 美学 Remix](https://open.spotify.com/track/2BHMUxVdjuK9zKPmocIX56) | [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG), [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [MaRI](https://open.spotify.com/artist/51xnWxXCNoQq62j6v01ETi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [YURIYAN RETRIEVER](https://open.spotify.com/artist/40invYzFvP1PrTIEdGTQo2) | [THE UNION](https://open.spotify.com/album/2hATBMNx4aGZhv6ep8jKTh) | 6:09 |
+| 7 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
+| 8 | [あたしの全部を愛せない](https://open.spotify.com/track/40BWfinCBSQnaCBRuVqBfh) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [GENE](https://open.spotify.com/album/02YMpTWtl4ZYGwyDtDpSKl) | 3:17 |
+| 9 | [Run](https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Run](https://open.spotify.com/album/1YjBHkHzDehlUyhlaskjvV) | 4:08 |
+| 10 | [Burning](https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning](https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc) | 3:51 |
+| 11 | [MY BODY IS CUTE](https://open.spotify.com/track/5ytRSw00JzFmL6cpZPCRPC) | [詩羽](https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp) | [うたうように、ほがらかに](https://open.spotify.com/album/1bZcROAAD3VDGBVN799Mh6) | 4:03 |
+| 12 | [NEW ERA](https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [NEW ERA](https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2) | 3:05 |
+| 13 | [B級](https://open.spotify.com/track/0mBPNrXQjNv3NfzqrljAZZ) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Naked](https://open.spotify.com/album/39Dsd8qI8LZqxjFw7RfKqA) | 3:16 |
+| 14 | [CLAP CLAP](https://open.spotify.com/track/6L1XkeAPSKoZN9z5YmFxB1) | [Maki Goto](https://open.spotify.com/artist/5pJEdeLmuXxPjXLDoXDaP0) | [CLAP CLAP](https://open.spotify.com/album/6xWmlmVYL8Kda7Pzh5rFYu) | 3:41 |
+| 15 | [POWER SPOT](https://open.spotify.com/track/155hCdvvOX3zsudibFIyG7) | [AKKOGORILLA](https://open.spotify.com/artist/7hAHFeP5IiecsxxczqKt0U) | [POWER SPOT](https://open.spotify.com/album/1mmTuDM7M8LsvYNLimERpV) | 3:30 |
+| 16 | [Tokyo Calling](https://open.spotify.com/track/2ZVDVwltoFAwqdhCxbvdKg) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [AG! Calling](https://open.spotify.com/album/77wA5oi8vqF6VvSYeEt9P1) | 3:11 |
+| 17 | [生者の行進](https://open.spotify.com/track/6R4rDgrw56JCrLdbxSQeAE) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi), [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [放生会](https://open.spotify.com/album/37asoWjHlM134Da94j5kAc) | 3:00 |
+| 18 | [Donuts Mind If I Do](https://open.spotify.com/track/7dVsIb37EhgpQ4Wg07h7c2) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/0OVqSFvnMWiYgeMfu6VJsB) | 3:48 |
+| 19 | [I SYNC](https://open.spotify.com/track/51aSWkFg6MHg2ciLjcnFRw) | [LAUSBUB](https://open.spotify.com/artist/1nK2FcujOkjFDDAr1EMo2M) | [ROMP](https://open.spotify.com/album/1aVH41SAin716xpep2O53d) | 4:19 |
+| 20 | [Hold The Girl](https://open.spotify.com/track/5Ohlkv2NY6pOC9sHZMsUPV) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Hold The Girl](https://open.spotify.com/album/0JO5WJ19NtFRtVYOnw24xS) | 4:05 |
+| 21 | [TWO HANDS](https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z) | 3:58 |
+| 22 | [あぼーん \- 2024 Remastered](https://open.spotify.com/track/03VUhe9dGbFWy9B05QyGUt) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC) | [Slash\-&\-Burn](https://open.spotify.com/album/31WI5dtn9l8IzW7rehqecI) | 2:38 |
+| 23 | [Sunburn](https://open.spotify.com/track/5rNmTueR51ym4tXPot3i4s) | [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [ati natu ep](https://open.spotify.com/album/4azQrQNfeoBVGK5dQuv716) | 3:12 |
+| 24 | [The Light](https://open.spotify.com/track/6Jf6l54ftlk6rvk14v0kma) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [The Light](https://open.spotify.com/album/3S3qjC95LDdkcmZ8G0w7Tt) | 3:35 |
+| 25 | [A・O・U](https://open.spotify.com/track/031USpgPSo9UPnaCiddg13) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [A・O・U](https://open.spotify.com/album/3NdyX9VKROuSfRraKxbDm6) | 3:19 |
+| 26 | [Somebody Else Now](https://open.spotify.com/track/1kxAIgqMbdYVXNZ5Lr8dac) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [NOW](https://open.spotify.com/album/7zbqFK9cexmlYW2bBw16Og) | 3:02 |
 | 27 | [True Feelings](https://open.spotify.com/track/24nL2PxXk3NGcuHi8EH5Nd) | [Grace Aimi](https://open.spotify.com/artist/2m3H3Dr0tGC1Fdmq4AV3iX) | [If](https://open.spotify.com/album/2aJ0E4mGlgX34vkZlnrvKv) | 2:46 |
 | 28 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 |
 | 29 | [蜃気楼](https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL) | [蜃気楼](https://open.spotify.com/album/5DJKBXc6OyavLzdYQdHHdg) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [しゅー・しゃいん](https://open.spotify.com/track/6BeLbrlUjLp8SRr5K7j99L) | [Saho Terao](https://open.spotify.com/artist/0yLUatFP9McWRDsM42uzCH) | [しゅー・しゃいん](https://open.spotify.com/album/2GPjMAOMWYOZoMBx5tCXkA) | 3:27 |
 | 50 | [NOT MY FAULT](https://open.spotify.com/track/1Ggy7TViwOQ2soAjZOmBhM) | [CHIANZ](https://open.spotify.com/artist/131DUTfKAyi7NWTRfnnxxX) | [NOT MY FAULT](https://open.spotify.com/album/2GZ9f3RjbxRFpshSs1NELV) | 3:07 |
 
-Snapshot ID: `Zrt6LAAAAAAX63Kgj2sPZkB7zX3F2kqf`
+Snapshot ID: `ZtckcAAAAACkzFXSis1Zn6W9QROAnwHY`

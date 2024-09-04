@@ -1,6 +1,6 @@
 {
   "description": "The perfect backdrop to an evening spent relaxing in solitude.",
-  "num_followers": 2130195,
+  "num_followers": 2130427,
   "original_name": "Late Night Jazz",
   "owner": {
     "name": "Spotify",
@@ -3871,6 +3871,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "Autumn Serenade",
+        "url": "https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r"
+      },
+      "artists": [
+        {
+          "name": "Bill Mays Trio",
+          "url": "https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9"
+        }
+      ],
+      "duration_ms": 287688,
+      "name": "Still Life",
+      "url": "https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
         "url": "https://open.spotify.com/album/6NUxtWDXrctrTv06UTWx9L"
       },
@@ -3891,22 +3907,6 @@
       "duration_ms": 352493,
       "name": "Owl Song 1 (feat. Bill Frisell & Herlin Riley)",
       "url": "https://open.spotify.com/track/6ICJd5vAZPHxLB3zIt2u2u"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Autumn Serenade",
-        "url": "https://open.spotify.com/album/0vz4fJU7XRDfAocP8Syq9r"
-      },
-      "artists": [
-        {
-          "name": "Bill Mays Trio",
-          "url": "https://open.spotify.com/artist/0u0kF8FSLbjeCbwzf9rSL9"
-        }
-      ],
-      "duration_ms": 287688,
-      "name": "Still Life",
-      "url": "https://open.spotify.com/track/5pMkhUygNBOg2dCYu0Mi0q"
     },
     {
       "added_at": "2024-08-23 13:10:08",
@@ -3951,6 +3951,22 @@
     {
       "added_at": "2024-08-23 13:10:08",
       "album": {
+        "name": "I Can\u2019t Make You Love Me",
+        "url": "https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz"
+      },
+      "artists": [
+        {
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "I Can\u2019t Make You Love Me",
+      "url": "https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0"
+    },
+    {
+      "added_at": "2024-08-23 13:10:08",
+      "album": {
         "name": "Blame It on My Youth",
         "url": "https://open.spotify.com/album/0HePzHlmq6iuLuY8ySVlQl"
       },
@@ -3987,22 +4003,6 @@
       "duration_ms": 350606,
       "name": "Old Folks",
       "url": "https://open.spotify.com/track/1pfckgGedZWa6JGNhAWdOI"
-    },
-    {
-      "added_at": "2024-08-23 13:10:08",
-      "album": {
-        "name": "Hodges: Front and Center, Vol. 1",
-        "url": "https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD"
-      },
-      "artists": [
-        {
-          "name": "Owen Broder",
-          "url": "https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy"
-        }
-      ],
-      "duration_ms": 253106,
-      "name": "Ballade for the Very Sad and Very Tired Lotus Eaters",
-      "url": "https://open.spotify.com/track/7CxYBXp6hBFnnyYm7ivNCd"
     }
   ],
   "unique_name": "Late Night Jazz",

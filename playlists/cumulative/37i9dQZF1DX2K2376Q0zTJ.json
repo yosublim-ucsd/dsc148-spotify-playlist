@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: \u3061\u3083\u3093\u307f\u306a",
+  "description": "\u97f3\u697d\u306b\u304a\u3051\u308b\u30b8\u30a7\u30f3\u30c0\u30fc\u306e\u516c\u5e73\u6027\u4fc3\u9032\u3092\u76ee\u6307\u3057\u3001\u5973\u6027\u306e\u6301\u3064\u30d1\u30ef\u30fc\u3084\u53ef\u80fd\u6027\u3092\u6700\u5927\u9650\u306b\u5f15\u304d\u51fa\u3057\u3066\u3044\u304f\u30d7\u30ed\u30b0\u30e9\u30e0\u3002cover: NENE",
   "name": "EQUAL Japan",
   "tracks": [
     {
@@ -19387,6 +19387,24 @@
     },
     {
       "album": {
+        "name": "\u6fc0\u30a2\u30c4",
+        "url": "https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl"
+      },
+      "artists": [
+        {
+          "name": "NENE",
+          "url": "https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138719,
+      "name": "\u30d2\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC"
+    },
+    {
+      "album": {
         "name": "\u30d4\u30af\u30c1\u30e3\u30fc",
         "url": "https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB"
       },
@@ -20386,7 +20404,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 231033,
       "name": "\u4e59 (feat. NENE)",
       "url": "https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7"

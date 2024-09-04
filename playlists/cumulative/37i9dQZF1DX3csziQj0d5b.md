@@ -4,7 +4,7 @@
 
 > Music to take the pain of homework away.
 
-710 songs - 1 day 14 hr 33 min
+712 songs - 1 day 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Beautiful Love \- Free Fire](https://open.spotify.com/track/3e10Ct9oFcIdgFjkDUBV2k) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Beautiful Love \(Free Fire\)](https://open.spotify.com/album/3Dukyn15RlALh1JDtQRqO0) | 3:27 | 2022-09-02 | 2022-09-10 |
 | [Beautiful Scars](https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 3:14 | 2023-06-30 | 2023-08-20 |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-23 |  |
+| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-03 |  |
 | [Before You Go](https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent \(Extended Edition\)](https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8) | 3:35 | 2022-06-10 |  |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-03-15 |  |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-03-29 |  |
@@ -306,7 +307,7 @@
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-24 |  |
 | [If We Have Each Other](https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:01 | 2022-12-09 | 2023-07-01 |
 | [if we never met](https://open.spotify.com/track/5HBDBBr5OV90lubqW8ctJF) | [John K](https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE) | [if we never met](https://open.spotify.com/album/2KfDGvN1Q2CkL5yYWeSglg) | 2:24 | 2023-06-30 | 2023-07-15 |
-| [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-13 |  |
+| [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-13 | 2024-09-04 |
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2022-04-14 | 2022-04-21 |
 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 | 2022-07-08 | 2022-09-10 |
 | [Imagination](https://open.spotify.com/track/21TcDbGosp7w9YhTjOszgA) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/5Jov5724Nz13A302HM2eKG) | 3:37 | 2023-02-03 | 2023-07-01 |
@@ -330,6 +331,7 @@
 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 | 2022-04-14 | 2022-07-29 |
 | [July](https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [THE END OF EVERYTHING](https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5) | 2:36 | 2022-07-08 | 2024-08-14 |
 | [July \(feat\. Leon Bridges\)](https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [July \(feat\. Leon Bridges\)](https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic) | 2:32 | 2022-10-28 | 2022-12-04 |
+| [June Gloom](https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO](https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr) | 3:00 | 2024-09-03 |  |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-06-30 | 2023-11-18 |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-08-09 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-10 | 2023-07-01 |
@@ -655,7 +657,7 @@
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-11-17 |  |
 | [Water Fountain](https://open.spotify.com/track/4IhKLu7Vk3j2TLmnFPl6To) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [Narrated For You](https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ) | 3:38 | 2022-12-09 | 2023-07-01 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2022-04-14 | 2022-10-08 |
-| [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 |  |
+| [Watermelon Sugar \- Spotify Singles](https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Watermelon Sugar \(Spotify Singles\)](https://open.spotify.com/album/0kKBZgTc90Mdudfsu3bDl3) | 2:09 | 2024-05-17 | 2024-09-04 |
 | [Wave of You](https://open.spotify.com/track/0KfNomDfIkM7suIHb105Oi) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 3:33 | 2022-04-14 | 2022-07-29 |
 | [Waves](https://open.spotify.com/track/4If7JKEkzeY0WusIrOdQlC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/4hlLOR9Zd7pmBg2Qb4Dlss) | 2:13 | 2023-06-30 | 2023-11-04 |
 | [Waves](https://open.spotify.com/track/6dH6NIftdswHruAjD80ZHB) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [Waves](https://open.spotify.com/album/03GjkxYFYALwT61skyiFjW) | 2:13 | 2022-04-14 | 2022-07-29 |

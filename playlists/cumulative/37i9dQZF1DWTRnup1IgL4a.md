@@ -4,7 +4,7 @@
 
 > Get a great night's sleep with these soft acoustic guitar tunes.
 
-260 songs - 10 hr 59 min
+262 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Calvanda](https://open.spotify.com/track/0TTOjbZ7i9aA0zphN18jBu) | [Patrick Prescott](https://open.spotify.com/artist/4axTAgIeRFIlRTV9EoxLIu) | [Calvanda](https://open.spotify.com/album/6aagZIFwnFJbBnEq0E6csO) | 3:05 | 2021-12-09 | 2024-04-05 |
 | [Caminando en junio](https://open.spotify.com/track/7ztkI6pDauyqnIwBhLvWnm) | [Isaac Valero](https://open.spotify.com/artist/6E6ZVCiRYmdbc6Y1Ujgxnm) | [Compañero de vida](https://open.spotify.com/album/7790K3EuMhGdVZYPGErxVD) | 1:54 | 2021-12-09 | 2022-05-27 |
 | [Capulet](https://open.spotify.com/track/71cwIqUl6Zuqxdms9Bkwg2) | [Esmeralda Torres](https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp) | [Capulet](https://open.spotify.com/album/7I2zx3Yc5sAx2qAblV1Mlh) | 2:04 | 2023-01-20 |  |
+| [Cerulean Coast](https://open.spotify.com/track/151zr84hWWWrr8L1gAH8kM) | [Suno Light](https://open.spotify.com/artist/2ZcyQDuJb3xFY8QxgqsX8h) | [Cerulean Coast](https://open.spotify.com/album/0TdiawvezxLE0aWFhNW6z8) | 2:44 | 2024-09-03 |  |
 | [Clermont\-Ferrand](https://open.spotify.com/track/3ebmMzqWToAPoVGFOPispU) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Clermont\-Ferrand](https://open.spotify.com/album/4RgALF2EPsUJlZJ4PLGCli) | 2:09 | 2022-10-14 | 2024-06-21 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-17 |  |
 | [Con Amore](https://open.spotify.com/track/3ddRRVM3eVeIAKUqF105Ch) | [Cristof Walters](https://open.spotify.com/artist/6njQrWP56vwgO6636iLPVa) | [Con Amore](https://open.spotify.com/album/6ePub6XVRKOYZBuZLCFCvE) | 2:54 | 2024-06-07 |  |
@@ -187,6 +188,7 @@
 | [Rio De La Plata](https://open.spotify.com/track/1H4v0YFVVKN8uU6nxzmfWt) | [Las Penas](https://open.spotify.com/artist/2v5fDmNadBqRCk7r6u9nFS) | [Rio De La Plata](https://open.spotify.com/album/4WhBZeA6L71Jy9sNXZm0Cd) | 4:06 | 2021-12-09 | 2024-05-24 |
 | [Rolling Hills](https://open.spotify.com/track/365aGwp7tIjLPorjrgjsUv) | [Ava Olivia Bailey](https://open.spotify.com/artist/1NjdPXI16F7zIDzhZBxk79) | [Rolling Hills](https://open.spotify.com/album/3ATXMDroBKLW4VtUeLtEd8) | 1:57 | 2022-09-02 | 2023-08-26 |
 | [s h a v a s a n a](https://open.spotify.com/track/4fCBUtCw1KkEqab3TTDIxr) | [Lendrich](https://open.spotify.com/artist/4ZIZqHoq3b13hoDAN19MAF) | [s h a v a s a n a](https://open.spotify.com/album/5JEtqbiiBHe7AULDN0sP3o) | 2:55 | 2022-11-18 |  |
+| [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 | 2024-09-03 |  |
 | [San Tropez](https://open.spotify.com/track/2RjR06sl1N1GVii5Vts7TP) | [Tim Hans](https://open.spotify.com/artist/432QjwpddzTUEL02W60QRg) | [San Tropez](https://open.spotify.com/album/7hYM36cQRk7nHmb01n54ts) | 2:22 | 2023-02-24 |  |
 | [Sapphire Sky](https://open.spotify.com/track/2XwrLcoHOiFF0OvxLOlx47) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Sapphire Sky](https://open.spotify.com/album/4Az8Mhi6d9vnBQQuPHva9F) | 1:39 | 2022-10-28 | 2023-08-26 |
 | [Satellites](https://open.spotify.com/track/241ZXbv26EbLNmVADe6yDK) | [Liam Stoler](https://open.spotify.com/artist/3siLaFiKTJUQKTTkUS8xaR) | [West End](https://open.spotify.com/album/2ze5UXnapC2cmlXG70feQ3) | 2:36 | 2021-12-09 | 2024-05-24 |

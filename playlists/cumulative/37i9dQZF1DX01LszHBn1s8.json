@@ -6111,6 +6111,24 @@
     },
     {
       "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
         "name": "Dinero",
         "url": "https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3"
       },
@@ -8998,6 +9016,24 @@
       "duration_ms": 140921,
       "name": "Girls",
       "url": "https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU"
+    },
+    {
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY"
     },
     {
       "album": {

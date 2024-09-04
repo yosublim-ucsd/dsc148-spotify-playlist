@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1dd5WKvvHTC.md) - [plain]
 
 > Highlighting key releases from this month’s most exciting songwriters from around the globe\. Cover: <a href="spotify:artist:4LUOGNccPSilRIm4Jcflg2">Shaznay Lewis</a> and co\-writer <a href="spotify:playlist:37i9dQZF1EFzIGUqdLpX4q">Fred Ball</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,704 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,738 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

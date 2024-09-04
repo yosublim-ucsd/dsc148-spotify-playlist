@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6wQUgoZzUc.md) - [plain]
 
 > Un perreito en la pared...
 
-[Spotify](https://open.spotify.com/user/spotify) - 955,974 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 956,483 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

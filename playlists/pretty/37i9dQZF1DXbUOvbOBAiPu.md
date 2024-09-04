@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Tijs Vanneste & Metejoor
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,905 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,903 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

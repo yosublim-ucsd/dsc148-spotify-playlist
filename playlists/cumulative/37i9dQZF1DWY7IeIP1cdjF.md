@@ -2,7 +2,7 @@
 
 ### [Baila Reggaeton](https://open.spotify.com/playlist/37i9dQZF1DWY7IeIP1cdjF)
 
-> Reggaeton hits from Anuel AA, Feid, Cris Mj and more.🔥🍑
+> Reggaeton hits from Peso Pluma, Kenio OS, Feid, Cris Mj and more.🔥🍑
 
 510 songs - 1 day 4 hr 20 min
 
@@ -424,7 +424,7 @@
 | [Sensual Bebé](https://open.spotify.com/track/1xqbfjRuUw0ot43wgBuVkt) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Sensual Bebé](https://open.spotify.com/album/2k3Qqrw8oQT3lq4XPe1xWC) | 3:29 | 2022-03-11 | 2022-09-10 |
 | [SERIO CON ESE Q](https://open.spotify.com/track/4kCGXKoHyfvpSF535X4Z4p) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [SERIO CON ESE Q](https://open.spotify.com/album/3zo7zq13zlZS9rVG6MQbdf) | 4:07 | 2024-07-26 |  |
 | [Señorita](https://open.spotify.com/track/0FmIDOVz1wI7F8axO6elnu) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Señorita](https://open.spotify.com/album/5IP7D7qqhizcvATXIizxYC) | 3:11 | 2023-12-15 | 2024-02-03 |
-| [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 |  |
+| [Shampoo de Coco](https://open.spotify.com/track/6W8qT0SkyfZRfqaB3nWIan) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Shampoo de Coco](https://open.spotify.com/album/2s85lQ8aH3Uw6Wff9nzYKZ) | 4:00 | 2024-08-30 | 2024-09-04 |
 | [Si La Mami](https://open.spotify.com/track/3HEsgWS7O1kpNkNMwRA3Kg) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Brand Randall](https://open.spotify.com/artist/76iz3JNOhCYTh7QgjFZkhL) | [Si La Mami](https://open.spotify.com/album/79uKrGBtEMy9IhnbH3sM5c) | 2:56 | 2024-04-05 | 2024-04-13 |
 | [SI NO ES CONTIGO](https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [SI NO ES CONTIGO](https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL) | 2:36 | 2024-05-31 |  |
 | [SI SABE FERXXO](https://open.spotify.com/track/7chTH3GBjjAyagf0SPCZDL) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 2:32 | 2024-01-26 |  |

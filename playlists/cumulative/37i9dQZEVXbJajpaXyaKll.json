@@ -1548,7 +1548,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 223255,
       "name": "Bla, Bla, Bla",
       "url": "https://open.spotify.com/track/7LObVUWVLHGG3iSrVUarmu"
@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "Cuarteto mix",
+        "url": "https://open.spotify.com/album/0dLtvEcALluR51AZ9HcdWC"
+      },
+      "artists": [
+        {
+          "name": "El Vecino",
+          "url": "https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385029,
+      "name": "Cuarteto mix",
+      "url": "https://open.spotify.com/track/6rctq6dmGh4mkntQj8Z2kR"
+    },
+    {
+      "album": {
         "name": "Cuarteto Sessions #3",
         "url": "https://open.spotify.com/album/2iDxLzsD09N23JARBiIGPA"
       },
@@ -3156,6 +3174,28 @@
       "duration_ms": 118002,
       "name": "Did It First (with Central Cee)",
       "url": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -3435,6 +3475,32 @@
     },
     {
       "album": {
+        "name": "EL MOROCHO, EL RUBIO Y EL COLO",
+        "url": "https://open.spotify.com/album/6CxUNLedTsYxnTO7N1U1Wa"
+      },
+      "artists": [
+        {
+          "name": "AgusFortnite2008",
+          "url": "https://open.spotify.com/artist/6S0NgDvO6FINUMYschvqZe"
+        },
+        {
+          "name": "Stiffy",
+          "url": "https://open.spotify.com/artist/7g7N6cRr5izWiIWvffgwWO"
+        },
+        {
+          "name": "Dillom",
+          "url": "https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138250,
+      "name": "EL MOROCHO, EL RUBIO Y EL COLO",
+      "url": "https://open.spotify.com/track/6lPqorKufNl3wHdPnpmZTW"
+    },
+    {
+      "album": {
         "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
         "url": "https://open.spotify.com/album/5yRir5FLWf70z0eRCokOQY"
       },
@@ -3708,6 +3774,24 @@
       "duration_ms": 215800,
       "name": "Ella",
       "url": "https://open.spotify.com/track/1DOuHBUpfN1GwDsZOZkwgO"
+    },
+    {
+      "album": {
+        "name": "ELLA ES BUTAKERA x Alex El Beatmaker",
+        "url": "https://open.spotify.com/album/6YbUGutpWMy6DT7uCgewYy"
+      },
+      "artists": [
+        {
+          "name": "Sarpado Negro Fino",
+          "url": "https://open.spotify.com/artist/2roqSnQRJjl8X3iXJUWIOD"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145727,
+      "name": "ELLA ES BUTAKERA x Alex El Beatmaker",
+      "url": "https://open.spotify.com/track/1kVK8CdQPKhAHTkqp21bE7"
     },
     {
       "album": {
@@ -5566,7 +5650,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 184560,
       "name": "I'd Rather Pretend",
       "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
@@ -5832,7 +5916,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -7088,7 +7172,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -8376,6 +8460,54 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn"
+    },
+    {
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "Ni Lo Intenten",
+        "url": "https://open.spotify.com/album/45tnkwi58ZSonhPRVnI1lp"
+      },
+      "artists": [
+        {
+          "name": "Matias Fisher",
+          "url": "https://open.spotify.com/artist/1ZAKCwVwJeKtjVQtzm76kd"
+        },
+        {
+          "name": "Phontana",
+          "url": "https://open.spotify.com/artist/41BZwHjzWGfT4wsOP3yZOz"
+        },
+        {
+          "name": "Santiago Ibarra",
+          "url": "https://open.spotify.com/artist/0GdhrNbXSn4TOvqinRC076"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152981,
+      "name": "Ni Lo Intenten",
+      "url": "https://open.spotify.com/track/1TokKdKuXjVQgjRnNLH8St"
     },
     {
       "album": {
@@ -9787,6 +9919,24 @@
     },
     {
       "album": {
+        "name": "Teenangels 3",
+        "url": "https://open.spotify.com/album/3FtLMfZcuRSOZVpy1MOllT"
+      },
+      "artists": [
+        {
+          "name": "Teenangels",
+          "url": "https://open.spotify.com/artist/5bRULziD2hCP3acYRcfK3E"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187493,
+      "name": "Que Nos Volvamos a Ver",
+      "url": "https://open.spotify.com/track/5hDI2VtaUnvDXa0vhxNGZi"
+    },
+    {
+      "album": {
         "name": "Que Se Pegue",
         "url": "https://open.spotify.com/album/0hzUC0srK0ejnY6CFwkcOy"
       },
@@ -10555,6 +10705,24 @@
     },
     {
       "album": {
+        "name": "SIMO VIANI",
+        "url": "https://open.spotify.com/album/2JRBRLEl3UvqyTDnXhsAOp"
+      },
+      "artists": [
+        {
+          "name": "turrobaby",
+          "url": "https://open.spotify.com/artist/3ZZY9rHZxm8lmug0aoX3pB"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112714,
+      "name": "SIMO VIANI",
+      "url": "https://open.spotify.com/track/1MrjpaStwevY1VDTZfaqKA"
+    },
+    {
+      "album": {
         "name": "Sin Querer",
         "url": "https://open.spotify.com/album/5crzwGAdOnMyylNrwt8fWx"
       },
@@ -10920,7 +11088,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 142022,
       "name": "Soltera - W Sound 01",
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
@@ -12218,7 +12386,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 128218,
       "name": "Tu La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/2fMiCHqLXMKC54sbfYugJK"
@@ -12276,7 +12444,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170480,
       "name": "Tu Silueta",
       "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
@@ -12580,6 +12748,24 @@
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
+    },
+    {
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "album": {
@@ -12954,7 +13140,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -13178,7 +13364,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 321741,
       "name": "WYA REMIX RED",
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"

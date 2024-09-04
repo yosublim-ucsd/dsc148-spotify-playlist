@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 278914,
+  "num_followers": 278929,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADP81IVrtKzXlfKbWigxW8/",
+  "snapshot_id": "ZtUAAAAAAAAA3bUmhXZ8Lfu5HqVnafp1",
   "tracks": [
     {
       "added_at": null,
@@ -795,6 +795,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "LolOLove (feat. Pabllo Vittar)",
+        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+      },
+      "artists": [
+        {
+          "name": "Princesa Alba",
+          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 160480,
+      "name": "LolOLove (feat. Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -839,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Batid\u00e3o Tropical",
+        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 147289,
+      "name": "Apaixonada",
+      "url": "https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noitada",
         "url": "https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO"
       },
@@ -859,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Batid\u00e3o Tropical",
-        "url": "https://open.spotify.com/album/194szTkDIGJsa9iZJNStwN"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 147289,
-      "name": "Apaixonada",
-      "url": "https://open.spotify.com/track/4gqJgiZDOoLrKNN7bmvYKa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Para N\u00e3o",
         "url": "https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe"
       },
@@ -891,34 +911,6 @@
       "duration_ms": 158544,
       "name": "Trago seu Amor de Volta (feat. Dilsinho)",
       "url": "https://open.spotify.com/track/5XZur2QUZ1yY1OclXoKFUt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pop 2",
-        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
-      },
-      "artists": [
-        {
-          "name": "Charli xcx",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "cupcakKe",
-          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Brooke Candy",
-          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
     },
     {
       "added_at": null,
@@ -983,22 +975,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "LolOLove (feat. Pabllo Vittar)",
-        "url": "https://open.spotify.com/album/7pxIQkKtEabdKufRaYJ00G"
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
       "artists": [
         {
-          "name": "Princesa Alba",
-          "url": "https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3"
+          "name": "Charli xcx",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "cupcakKe",
+          "url": "https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM"
         },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
         }
       ],
-      "duration_ms": 160480,
-      "name": "LolOLove (feat. Pabllo Vittar)",
-      "url": "https://open.spotify.com/track/2ZGXvRgRgUBpMTdflzPEOy"
+      "duration_ms": 231573,
+      "name": "I Got It (feat. Brooke Candy, CupcakKe and Pabllo Vittar)",
+      "url": "https://open.spotify.com/track/7tjQl5EC72HBJRAKxP3Bvm"
     }
   ],
   "unique_name": "This Is Pabllo Vittar",

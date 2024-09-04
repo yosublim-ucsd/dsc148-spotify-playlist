@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232 likes - 131 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 233 likes - 131 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 58 | [Shoot Down The Sun](https://open.spotify.com/track/1agXGm6VaKxT5DckyuhCJc) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Shoot Down The Sun](https://open.spotify.com/album/1E9dHNaYD5tfmslrOwNRyj) | 3:10 |
 | 59 | [Humans](https://open.spotify.com/track/7KmEHD4bLjod8nhGFYYU2X) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Shaun Farrugia](https://open.spotify.com/artist/4ukUyiEoZi8QxibfjuUsEw) | [Humans](https://open.spotify.com/album/5OPflo8FBOC3I0PySfpfef) | 3:33 |
 | 60 | [You Matter to Me](https://open.spotify.com/track/2Kr1yWpmD7t3wyuu2fVhMU) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \(Deluxe\)](https://open.spotify.com/album/19ftohYqQetn7BoGQXXlSd) | 3:13 |
-| 61 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
-| 62 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
+| 61 | [Built To Be Bad](https://open.spotify.com/track/5N2hSC9gVqycS9CsCSquKb) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ) | [Built To Be Bad](https://open.spotify.com/album/0WKz4PTSrBqUkmP4xyQyhz) | 3:09 |
+| 62 | [Start Again](https://open.spotify.com/track/1FypvNODDT5HbtPbIDsugy) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Only Ticket Home](https://open.spotify.com/album/4xsgJS74UkFgI1DE71lnXX) | 3:40 |
 | 63 | [Blueprints](https://open.spotify.com/track/3anbBxikNOxuhTyjgQbATh) | [Lilla Vargen](https://open.spotify.com/artist/1bYTiIHnxEdBncCHYCfE4j) | [Blueprints](https://open.spotify.com/album/7sPrHqcvrDmYO9AhKV5Tgo) | 3:32 |
 | 64 | [Novocaine](https://open.spotify.com/track/05TZjnjIisRVDp37lkhq8e) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/0b4Skg0UskddlJ9v4XRQ0S) | 3:18 |
 | 65 | [The Answer](https://open.spotify.com/track/4FNs5xchSa49YAzHh8QG09) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [The Years in Between](https://open.spotify.com/album/54vQHuNLb2W5K8e9vU6a8y) | 2:51 |
@@ -111,8 +111,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 101 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 |
 | 102 | [Anger](https://open.spotify.com/track/4eZK7n4GZ1nDOzHZgSmLyt) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Anger](https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR) | 2:57 |
 | 103 | [Ocean](https://open.spotify.com/track/7LKsAuk6QUbh92y2bX6Nel) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Ocean](https://open.spotify.com/album/0g2AIhkbIqZez1FE5xSUGh) | 3:00 |
-| 104 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
-| 105 | [Loved Somebody Else](https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Loved Somebody Else](https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0) | 3:12 |
+| 104 | [Loved Somebody Else](https://open.spotify.com/track/5zWjUmp1laBahCxtmKnO7o) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Loved Somebody Else](https://open.spotify.com/album/5ithKxVdpmbeGSTzAg8wU0) | 3:12 |
+| 105 | [Anyone](https://open.spotify.com/track/0SvS0K6Hehf58MRhUSdpDT) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b) | [Anyone](https://open.spotify.com/album/7mq2F1PMmHZNGVatKOsSu7) | 3:21 |
 | 106 | [You Were Never My Boyfriend](https://open.spotify.com/track/0HF7qznaTH3qe9cJv7rMsw) | [Ariana and the Rose](https://open.spotify.com/artist/5HgPIUp6b7DVdhWK3tkl83) | [You Were Never My Boyfriend](https://open.spotify.com/album/4wj1fiaQDXK4IT3vZ1ZKoS) | 2:48 |
 | 107 | [Who's Gonna Love You More](https://open.spotify.com/track/1tKgSDKLiGecDcbxm4kOIG) | [Huntar](https://open.spotify.com/artist/2woivlckW1wdml7zq1WW6e) | [Bitter](https://open.spotify.com/album/4RSwF4HXGFzdtxnV3xuxjT) | 2:57 |
 | 108 | [No Life](https://open.spotify.com/track/03URrJS1ItDUJELGMuDW2T) | [Larkins](https://open.spotify.com/artist/6cCfC12LHtD5XIc1rLsm8Y) | [JCOY](https://open.spotify.com/album/6BgcY6wNgindhEnSeCmJ5i) | 3:33 |
@@ -136,8 +136,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 126 | [Heaven On Earth](https://open.spotify.com/track/5L7QLqxhkYu4n8z4vLv5FY) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 3:14 |
 | 127 | [Walk Away](https://open.spotify.com/track/40COlkwjf7rVerBqzNYFOj) | [Kingsland Road](https://open.spotify.com/artist/5z3iTZIRcqy0MyPQY9vEZG) | [We Are the Young](https://open.spotify.com/album/7lSQAPah3kFTIYiUNUAKw4) | 3:47 |
 | 128 | [Blame Myself](https://open.spotify.com/track/0pd0n1og6VABJdjoDdvP2R) | [Jalle](https://open.spotify.com/artist/3NiL0OfaA5v0eK59rJgAvB) | [I’m Sorry](https://open.spotify.com/album/1qm7E3fh18mC8VyagVrdVS) | 3:15 |
-| 129 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
-| 130 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
+| 129 | [Before You Let Me Down](https://open.spotify.com/track/778HnQTXflDcZVMWnCwrIf) | [Ryan Ennis](https://open.spotify.com/artist/63RrE3UKxL775dT9siAan2) | [Before You Let Me Down](https://open.spotify.com/album/5cUVqdVm9a0Ahuw1VPUnEA) | 3:03 |
+| 130 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 131 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbbGYwAAAADO3XpYwNJvwF24ymSul0Ch`
+Snapshot ID: `AbbL/gAAAADitHt/aMjGOPaqvluVnsuI`

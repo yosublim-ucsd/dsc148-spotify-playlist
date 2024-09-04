@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,643 likes - 149 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,642 likes - 149 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 89 | [GUAPA](https://open.spotify.com/track/6ITr6ssOIerjd3azRaL7A8) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:19 |
 | 90 | [TE CONOZCO](https://open.spotify.com/track/0MrTHUbjsHRC8sMrfLBd65) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:48 |
 | 91 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
-| 92 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
-| 93 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 |
+| 92 | [ECHÁNDOTE DE MENOS](https://open.spotify.com/track/1WOkxgqXnHQRiVGLpnmluF) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/4j58S9wNTTLgllMslsSMhk) | 3:06 |
+| 93 | [Funk Total: Vai danada](https://open.spotify.com/track/2B0m7HYBaT5alq24RHSLhg) | [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Gabily](https://open.spotify.com/artist/5DIR6IADBl1MixJ75bNvAz) | [Funk Total: Vai danada](https://open.spotify.com/album/0yLHbBPsTZQaibDA5DOkyC) | 2:44 |
 | 94 | [BIEN CANIJO](https://open.spotify.com/track/2c1PXctrxMCsvYgMhbztVe) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 2:58 |
 | 95 | [Las estrellas / Si tu me love me](https://open.spotify.com/track/5TAsVTozAW7U4JjoW9dDH8) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 5:09 |
 | 96 | [NADA QUE DECIR](https://open.spotify.com/track/3s517OY43flGYhwMVRXU2F) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [SI SABE](https://open.spotify.com/album/7ot6ebVthlYG3wXzLaZ5NF) | 1:57 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyQSkfNQhy8K.md) - [plain]
 | 148 | [Primavera](https://open.spotify.com/track/5PVPha1dOqgSY97foDvDOx) | [Nati Boulier](https://open.spotify.com/artist/2uBuga2RTo3KxodK6mO5W0) | [PA' LA CULTURA](https://open.spotify.com/album/0TWS1tWYlIBYzOdLu2Y1Pz) | 1:40 |
 | 149 | [Tango](https://open.spotify.com/track/1KSWO08GFqAzmfUSfKfwNl) | [Alaya](https://open.spotify.com/artist/5MY5rCpGaLfcgRpocaw8EG) | [Alaya](https://open.spotify.com/album/4nXbn9OTGwVGOBumFSF7Ul) | 3:25 |
 
-Snapshot ID: `AbbGZwAAAAAy1Fi5MeVOoNEGj90QtFy1`
+Snapshot ID: `AbbL/gAAAADoy/7BX+kE8XF46MV1HKH8`

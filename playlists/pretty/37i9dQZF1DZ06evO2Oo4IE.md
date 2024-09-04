@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 
 > This is Janis Joplin\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,756 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,775 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 15 | [Try \(Just a Little Bit Harder\)](https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 3:55 |
 | 16 | [Turtle Blues](https://open.spotify.com/track/1CdEksXQ6gvdr4blQjQdTZ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:21 |
 | 17 | [Get It While You Can](https://open.spotify.com/track/3dOfHE5J4Qsj1hJ35vnfn4) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:23 |
-| 18 | [Blindman](https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:23 |
+| 18 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
 | 19 | [To Love Somebody](https://open.spotify.com/track/1hxrGuTfeq8ayjB7fbIfpN) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 5:13 |
 | 20 | [Ball and Chain](https://open.spotify.com/track/6jXzkgISP6UfMEEaKkxWJw) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 9:27 |
 | 21 | [A Woman Left Lonely](https://open.spotify.com/track/5NXI6TWg0mQRmbGPHzkoHk) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 3:29 |
-| 22 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 |
+| 22 | [Blindman](https://open.spotify.com/track/6aUAFC6ldgKCeSL3qcSVZQ) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Big Brother & The Holding Company](https://open.spotify.com/album/4W821NJLoB9uHHkAFNXXKu) | 2:23 |
 | 23 | [One Good Man](https://open.spotify.com/track/6Evy14WwFHLIJNxvBMnoX6) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Got Dem Ol' Kozmic Blues Again Mama!](https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A) | 4:09 |
 | 24 | [To Love Someboy \(Live The Dick Cavett TV Show 8th July 1969\]](https://open.spotify.com/track/5oZKxXSTGwt769hWxadMLo) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:16 |
 | 25 | ["Are We Taping Now?"](https://open.spotify.com/track/3jpfF9gHUjuv2Tgc2tigNg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC), [Jorma Kaukonen](https://open.spotify.com/artist/55CXG5KDJpRYwBopfYAJHa) | [The Legendary Typewriter Tape: 6/25/64 Jorma's House](https://open.spotify.com/album/1jx4E5ox9tZxil897h13VF) | 0:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Oo4IE.md) - [plain]
 | 49 | [I Know You Rider](https://open.spotify.com/track/6GDpRUjZ4v6pQ4jK121ePG) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [I Know You Rider](https://open.spotify.com/album/2hOmBtJar9W2AQnENrBcLx) | 3:13 |
 | 50 | [Farewell Song \- Live at the Winterland Ballroom, San Francisco, CA \- April 1968](https://open.spotify.com/track/6Xz7vJYqEjINFozPaJNDHk) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Essential Janis Joplin](https://open.spotify.com/album/3sR7NJMeadiOYLFl94uj0X) | 4:56 |
 
-Snapshot ID: `ZtOugAAAAADxq0a0imKTfevvKt7GwiHD`
+Snapshot ID: `ZtUAAAAAAAD5ZSfJtvVX2fPiH3WKqoc5`

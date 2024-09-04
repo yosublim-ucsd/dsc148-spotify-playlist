@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 
 > A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Logos Olori
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,888 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,924 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SlHbqMm3vJ.md) - [plain]
 | 8 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
 | 9 | [Will I?](https://open.spotify.com/track/76u1M1WWr3TGCJUXR5eKTT) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Will I?](https://open.spotify.com/album/76c9Zwxc1cTq0tfXw7eMSM) | 2:44 |
 | 10 | [Risk](https://open.spotify.com/track/6qS9yoAUIXNfno5t4YLQdn) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:22 |
-| 11 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
+| 11 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
 | 12 | [everyday](https://open.spotify.com/track/2yskKhqtDAHJ73obmJh8tf) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [everyday](https://open.spotify.com/album/4atn1aHLq3H0jxE5kJs2S7) | 2:46 |
 | 13 | [letting go](https://open.spotify.com/track/4VmZWEvWcmWFqg7GciQM88) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 2:35 |
 | 14 | [Burning](https://open.spotify.com/track/1D1M805zV8DwhYXsvJdQZx) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Born in the Wild](https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p) | 2:55 |

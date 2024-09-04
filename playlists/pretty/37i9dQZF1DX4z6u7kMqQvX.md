@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,565 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,559 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 70 | [Domingo Escarlata](https://open.spotify.com/track/6AmMgsrkMwJhiDGXpuH0eo) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Domingo Escarlata](https://open.spotify.com/album/53tQQ7wzBRA6yJePou8jTf) | 3:49 |
 | 71 | [Cuántas Veces Más](https://open.spotify.com/track/20PCWULdClhxMbCzNEABSo) | [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz) | [Cuántas Veces Más](https://open.spotify.com/album/4qT91jTnhI8WklGt5putrF) | 3:23 |
 | 72 | [Tuna](https://open.spotify.com/track/26RnklHNP0yoUEmbn7p2Hv) | [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [Tuna](https://open.spotify.com/album/3AQZJExI7Gy0836Ot2LQnq) | 3:41 |
-| 73 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
-| 74 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
+| 73 | [Cómo olvidar](https://open.spotify.com/track/4ZQDnvCAnMJLiIiEj2hxbP) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF) | [3D](https://open.spotify.com/album/7CPux4iLNEQ1KGVzmE9CKz) | 2:15 |
+| 74 | [X AMOR](https://open.spotify.com/track/3dVxdzni1LpSrHY4trEbMK) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [X AMOR](https://open.spotify.com/album/4RhwgeqH9jfFBPptPeM7P1) | 4:02 |
 | 75 | [Ojos de Planeta](https://open.spotify.com/track/7ehX81xpki8FXQBO94KCF0) | [Manu Hattom](https://open.spotify.com/artist/0bktV4M0SvAzGH7auzlGpY), [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Ojos de Planeta](https://open.spotify.com/album/48g89qmq4trgf6qkn8x5gH) | 3:15 |
 | 76 | [Solo](https://open.spotify.com/track/3TCDwk2QYxOe9oKlM81N2u) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Solo](https://open.spotify.com/album/56i29m64vzKcbDFnZbKd55) | 2:50 |
 | 77 | [TODO LO QUE HICIMOS.](https://open.spotify.com/track/4yREnAodtCMnXrOspdO6QR) | [Valdes](https://open.spotify.com/artist/62KIJJdBnLN13RmoZPNXfc) | [TODO LO QUE HICIMOS.](https://open.spotify.com/album/6tK7ZnVuqJMKX8qXKwwwJK) | 3:37 |
@@ -95,9 +95,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 85 | [duele](https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [duele](https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6) | 2:14 |
 | 86 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 |
 | 87 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 |
-| 88 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 |
-| 89 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 |
-| 90 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 |
+| 88 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 |
+| 89 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 |
+| 90 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 |
 | 91 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/4TIaGP6idg1KZ5lSrGvjZw) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Respiro \(Cap\. 8\)](https://open.spotify.com/album/0nbH40OtNF4gU2Ilxn5BCo) | 3:41 |
 | 92 | [Fuji](https://open.spotify.com/track/1s1XgeIjN3tyyuduv3VhRU) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2ZUxEEF8UXDzh0OgEJwylB) | 4:38 |
 | 93 | [Imán](https://open.spotify.com/track/0l4CmNAlJ4r2uIgJMK8yLD) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [MILLONES](https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA) | 2:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,939 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,995 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 27 | [Foi Intenso \- Ao Vivo](https://open.spotify.com/track/0agjQg7eWrwFtqBQRKu1CX) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Intenso, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/4fDZQ3XWcJpwqOhJen5ZjQ) | 2:12 |
 | 28 | [De Trás Pra Frente \- Ao Vivo](https://open.spotify.com/track/6Tp4LCJ5r5IJaEf8lnlPfG) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Céu Explica Tudo \(Ao Vivo\)](https://open.spotify.com/album/6UuPk9eKMZBEr0HizvV2Wy) | 2:43 |
 | 29 | [Sombra Desconhecida \- Ao Vivo](https://open.spotify.com/track/3Na9gwLmFdEJH2l54AYwpk) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Sombra Desconhecida \(Ao Vivo\)](https://open.spotify.com/album/7j9FmFWjSSuqJe5XAtz0WG) | 2:40 |
-| 30 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/4Bvj8kzo5Lwao1tCgDhOFz) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Eu, Yasmin Santos \- Vol 01](https://open.spotify.com/album/0ty7ckh94sn1TnMn4XsC7P) | 2:41 |
+| 30 | [Nem a Pau \(feat\. Simone Mendes\) \- Ao Vivo](https://open.spotify.com/track/6u9tu5yRDTHpWlY86J1GDa) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz), [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Nem a Pau \(feat\. Simone Mendes\) \[Ao Vivo\]](https://open.spotify.com/album/2YD9sBbLCikn0C7ZHLZmjm) | 2:41 |
 | 31 | [Nosso Primeiro Beijo \- Ao Vivo](https://open.spotify.com/track/7Elw15XWLpOi4qzHyAwa9e) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \- Ao Vivo](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 2:48 |
 | 32 | [Como Um Beijo](https://open.spotify.com/track/60wgnlVBEsyswrTB6pYiTi) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Nadson O Ferinha](https://open.spotify.com/artist/7KdmibNmW5J0q5YtGnJqQ8) | [Como Um Beijo](https://open.spotify.com/album/0v9tio4n9EmZr960giD6Q4) | 3:25 |
 | 33 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Minha Herança](https://open.spotify.com/track/1CpneInvFvGYcDVU4CCDgI) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Minha Herança](https://open.spotify.com/album/2boxN9IacevwsFdvVPJ4xO) | 3:42 |
 | 50 | [Dois Tristes \- Ao Vivo](https://open.spotify.com/track/6cFW2FPaUL4YRJfS9zFJaV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Simone Mendes \- Só Hits](https://open.spotify.com/album/1LftNEPKrkFye3xoJ8kjQ7) | 3:09 |
 
-Snapshot ID: `LmklcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lmp28AAAAAAAAAAAAAAAAAAAAAAAAGVu`

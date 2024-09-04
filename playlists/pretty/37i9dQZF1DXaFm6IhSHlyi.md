@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,684 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,694 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 90 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
 | 91 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
 | 92 | [白昼夢](https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [白昼夢](https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE) | 3:45 |
-| 93 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
-| 94 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
-| 95 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
+| 93 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
+| 94 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
+| 95 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
 | 96 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 97 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 | 98 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |

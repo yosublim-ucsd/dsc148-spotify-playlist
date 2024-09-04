@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > nasze brzmienie ✨ Cover: MAJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,970 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,969 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 96 | [Sansewierie](https://open.spotify.com/track/5CWSpK1cmWWEgYod64Wlrf) | [Oliwia Twardosz](https://open.spotify.com/artist/1UqrpPxGWQc9QXRqElmBCF) | [Sansewierie](https://open.spotify.com/album/3lA9ppkbEyLkGhMYjdGSQF) | 3:24 |
 | 97 | [burzysz krew](https://open.spotify.com/track/50DiPplDH3i9KKn8NkfPwa) | [Julia Mreńca](https://open.spotify.com/artist/0o67bNa457im54EQIpinH2) | [burzysz krew](https://open.spotify.com/album/1UVwtL7JInFSGPpIJlfPsh) | 3:18 |
 | 98 | [Pętle](https://open.spotify.com/track/2XwIPfgqL1ZcvTdDAwOfkE) | [Dereal](https://open.spotify.com/artist/7HRamaztrCxQDrYR0Z1Sx3) | [Pętle](https://open.spotify.com/album/0VM7z6lryDDKmfqONMDpwa) | 2:15 |
-| 99 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 |
-| 100 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 |
+| 99 | [Droga na szczyt](https://open.spotify.com/track/22BWCcf3TRftAfP71zauxf) | [Roxi](https://open.spotify.com/artist/6ow2wx3HMUNE74wndNKUyw) | [Droga na szczyt](https://open.spotify.com/album/2CtcBO4momVTAkA3cP3cGF) | 2:45 |
+| 100 | [Ostatni raz](https://open.spotify.com/track/5o4s8SzJxPAXGpuoccNo6z) | [elis](https://open.spotify.com/artist/0fSSRqeUCWHm0ChaK8G9w0) | [Ostatni raz](https://open.spotify.com/album/6df8D3pnrik5kuxfOfLoqF) | 2:31 |
 
 Snapshot ID: `ZtG8igAAAACc3cOMcQ1Q0HYcqj9cMTZx`

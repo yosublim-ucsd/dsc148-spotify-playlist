@@ -4063,6 +4063,24 @@
     },
     {
       "album": {
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/4tQ2nIqxjL2iRON1hoW6Qi"
+      },
+      "artists": [
+        {
+          "name": "Matt Simons",
+          "url": "https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185411,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/29DdvWUvx1CTrIS4LtpXhx"
+    },
+    {
+      "album": {
         "name": "Gatekeeper",
         "url": "https://open.spotify.com/album/2cbHlXqnA646x6mGL8RpWB"
       },
@@ -4110,7 +4128,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 208836,
       "name": "Genesis, pt. ii",
       "url": "https://open.spotify.com/track/4VUc2yMO1AttRC7jahya9y"

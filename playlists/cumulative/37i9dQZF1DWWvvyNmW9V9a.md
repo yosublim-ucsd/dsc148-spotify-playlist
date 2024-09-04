@@ -2,7 +2,7 @@
 
 ### [teen beats](https://open.spotify.com/playlist/37i9dQZF1DWWvvyNmW9V9a)
 
-> She's your favorite artist's favorite artist for real 💗
+> RIP Edward and Bella, you would have loved Louis and Olivia
 
 1,725 songs - 3 day 18 hr 19 min
 

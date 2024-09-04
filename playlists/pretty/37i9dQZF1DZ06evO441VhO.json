@@ -1,12 +1,12 @@
 {
   "description": "This is zebrahead. The essential tracks, all in one playlist.",
-  "num_followers": 16886,
+  "num_followers": 16888,
   "original_name": "This Is zebrahead",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAQqjSmAQ16PsS+oGrBQNsg",
+  "snapshot_id": "ZtUAAAAAAAB8355UVmvvllhxICoSkMwA",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Have Mixed Drinks About Feelings",
+        "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 176344,
+      "name": "I Have Mixed Drinks About Feelings",
+      "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Broadcast to the World",
         "url": "https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 175272,
       "name": "We\u2019re Not Alright",
       "url": "https://open.spotify.com/track/3CPm8pViOWEUtCTI4qrWGu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Have Mixed Drinks About Feelings",
-        "url": "https://open.spotify.com/album/7EXmRDsRPmFj3D5IanLt59"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 176344,
-      "name": "I Have Mixed Drinks About Feelings",
-      "url": "https://open.spotify.com/track/5eA3lmgW05BXjGlNmkjML5"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165386,
-      "name": "Postcards From Hell",
-      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
+      "duration_ms": 181933,
+      "name": "Rated \"U\" For Ugly",
+      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
     },
     {
       "added_at": null,
@@ -472,41 +472,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 181933,
-      "name": "Rated \"U\" For Ugly",
-      "url": "https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brain Invaders (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 200018,
-      "name": "If Your Looking for Your Knife...I Think My Back Found It",
-      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III.II.",
-        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 190075,
-      "name": "Middle Seat Blues",
-      "url": "https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO"
+      "duration_ms": 165386,
+      "name": "Postcards From Hell",
+      "url": "https://open.spotify.com/track/6x5AHaFSlfgeVm6U95CNtr"
     },
     {
       "added_at": null,
@@ -527,6 +495,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "III.II.",
+        "url": "https://open.spotify.com/album/2QiVrIwDl3U4Adoay0fnfQ"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 190075,
+      "name": "Middle Seat Blues",
+      "url": "https://open.spotify.com/track/3TTZSzruGpNwO54bdhjCHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brain Invaders (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5JxQ55Wvq2kCWtOQ0gSr9h"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 200018,
+      "name": "If Your Looking for Your Knife...I Think My Back Found It",
+      "url": "https://open.spotify.com/track/7ARNueFmeVUHPPfntbDdwk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MFZB",
         "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
       },
@@ -539,38 +539,6 @@
       "duration_ms": 191066,
       "name": "Into You",
       "url": "https://open.spotify.com/track/2mZVENOSjFDXtUgWzucYEo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lay Me to Rest",
-        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Lay Me to Rest",
-      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
-      },
-      "artists": [
-        {
-          "name": "zebrahead",
-          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
-        }
-      ],
-      "duration_ms": 173788,
-      "name": "Homesick for Hope",
-      "url": "https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs"
     },
     {
       "added_at": null,
@@ -591,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MFZB",
-        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+        "name": "Lay Me to Rest",
+        "url": "https://open.spotify.com/album/3ikhEcU7D6TW0zHJgxNBPO"
       },
       "artists": [
         {
@@ -600,9 +568,9 @@
           "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
         }
       ],
-      "duration_ms": 165640,
-      "name": "Over the Edge",
-      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+      "duration_ms": 219760,
+      "name": "Lay Me to Rest",
+      "url": "https://open.spotify.com/track/1mamHp9prkpRIUmkbL0Ipk"
     },
     {
       "added_at": null,
@@ -619,6 +587,38 @@
       "duration_ms": 225340,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/0OjPFbDRJDFuHxnV6X2YpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MFZB",
+        "url": "https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 165640,
+      "name": "Over the Edge",
+      "url": "https://open.spotify.com/track/3hBe44zPoFkpXLlTTwGHkY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/2fugR8H7GN4SNbXAnZwfPx"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "duration_ms": 173788,
+      "name": "Homesick for Hope",
+      "url": "https://open.spotify.com/track/4RvPDeKtZxooLkO2mXW6gs"
     },
     {
       "added_at": null,

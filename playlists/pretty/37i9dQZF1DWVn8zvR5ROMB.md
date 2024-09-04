@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Dylan Scott, Carter Faith, Russell Dickerson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,461 likes - 62 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,578 likes - 62 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

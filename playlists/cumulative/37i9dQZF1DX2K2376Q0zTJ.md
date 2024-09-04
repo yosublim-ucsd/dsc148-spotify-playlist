@@ -2,9 +2,9 @@
 
 ### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
-> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: ちゃんみな
+> 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: NENE
 
-1,215 songs - 2 day 23 hr 57 min
+1,216 songs - 2 day 23 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1017,6 +1017,7 @@
 | [バイタルサイン](https://open.spotify.com/track/6aVcOec4Ci6UFSE0X2l6vF) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [てん、\(stereo\) \[リマスター\]](https://open.spotify.com/album/6W6coNHQW9ijtVtoXzoezO) | 4:35 | 2022-01-04 | 2022-02-02 |
 | [パンク蛹化の女 \- 2016 Remaster](https://open.spotify.com/track/1nGs85ttRC2g894ETYUBJB) | [Jun Togawa](https://open.spotify.com/artist/6fI3ZQseiBwzjXLSVuJGEI), [Yapoos](https://open.spotify.com/artist/0ctmtK3BfHN3HnfusoowPd) | [裏玉姫](https://open.spotify.com/album/4I54Cn8iIyS0Ta9nOVV5P6) | 4:11 | 2023-04-04 | 2023-05-03 |
 | [ヒカレイノチ](https://open.spotify.com/track/4uVvqoI2sWncxvqgwRZ1H9) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq) | 5:22 | 2021-11-30 | 2022-01-05 |
+| [ヒート](https://open.spotify.com/track/5KetBmXVgZzElVXPHY4iOC) | [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [激アツ](https://open.spotify.com/album/4V4YY3zjHSS8XRfre6x1Vl) | 2:18 | 2024-09-03 |  |
 | [ピクチャー](https://open.spotify.com/track/302U8EHJsUBooB2vGvkl9y) | [mei ehara](https://open.spotify.com/artist/7501C4PyvqS1BWbmrYq3LF) | [ピクチャー](https://open.spotify.com/album/0SS8mbJNuXQRVtU43SegtB) | 2:48 | 2023-01-03 | 2024-06-21 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-04 | 2023-08-02 |
 | [フェイバリットボーイ](https://open.spotify.com/track/5IMC1pHr0RTrHZdDJLxkPm) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋人が好きでたまらないあなたへ](https://open.spotify.com/album/13zAmLWgTphxEmBm5On8l6) | 4:27 | 2023-02-01 | 2023-03-01 |
@@ -1071,7 +1072,7 @@
 | [中央フリーウェイ \- 2022 mix](https://open.spotify.com/track/6qwkwyISxpT7ZrR4sbw8q2) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:40 | 2022-11-08 | 2022-12-07 |
 | [中庭の少女たち](https://open.spotify.com/track/1YrU8ExqF04ygegVoOOoFU) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 3](https://open.spotify.com/album/0uCP0Uel2GPuxjaV3s67AB) | 5:10 | 2023-02-28 | 2023-04-05 |
 | [中庭の少女たち](https://open.spotify.com/track/0Ghck1vu23AVykjizjQrYk) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO 3](https://open.spotify.com/album/0Aozh4H5CJDiiMmlPIHHil) | 5:12 | 2022-03-07 | 2022-04-06 |
-| [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 | 2024-07-30 |  |
+| [乙 \(feat\. NENE\)](https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NENE](https://open.spotify.com/artist/1uNnKxEFiPfhNAIPCvGRhG) | [乙 \(feat\. NENE\)](https://open.spotify.com/album/4oBeNXrvD0bKUdVLBtNo5A) | 3:51 | 2024-07-30 | 2024-09-04 |
 | [予感](https://open.spotify.com/track/4tKrrFD7CQt8fPU7qUmV5E) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [予感](https://open.spotify.com/album/7HFkmbiT8TbVBGKIkAiMLm) | 2:43 | 2023-01-03 | 2024-06-21 |
 | [予感](https://open.spotify.com/track/5KNP39R2DEshipc9QjzPiT) | [Kaneko Ayano](https://open.spotify.com/artist/4XKIIegkRbSJft0PmMv9NB) | [タオルケットは穏やかな](https://open.spotify.com/album/2byWdUAtCOUaxDe73nGfhU) | 2:43 | 2024-06-20 |  |
 | [今日がインフィニティ](https://open.spotify.com/track/3TH4KniZxHCQovqvRpwQZM) | [橋本絵莉子](https://open.spotify.com/artist/69k6tELwycdIAgvTInKNlM) | [日記を燃やして](https://open.spotify.com/album/1mE37cesFslJwiZSUp0Ny9) | 3:45 | 2022-03-07 | 2022-04-06 |

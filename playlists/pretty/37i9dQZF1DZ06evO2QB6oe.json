@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pedro Cap\u00f3. Los temas esenciales, todos en una lista.",
-  "num_followers": 65447,
+  "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
+  "num_followers": 65461,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC7iEk72npA68MfunHt24+3",
+  "snapshot_id": "ZtUAAAAAAABTIGlv9+TjOXHO9AmGu+0m",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "5 y 3",
-      "url": "https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casualidad",
         "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
       },
@@ -347,6 +331,26 @@
       "duration_ms": 193112,
       "name": "Casualidad",
       "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 188708,
+      "name": "Una Vez M\u00e1s",
+      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
     },
     {
       "added_at": null,
@@ -391,26 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 188708,
-      "name": "Una Vez M\u00e1s",
-      "url": "https://open.spotify.com/track/1Pm4oHKLf3IrPYjn8OajCg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MUNAY",
         "url": "https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 218444,
       "name": "Donde Hubo Amor",
       "url": "https://open.spotify.com/track/26oMyThq262l4DJVZ3cUz2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "5 y 3",
+      "url": "https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86"
     },
     {
       "added_at": null,
@@ -535,26 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good Vibration - Vol. 1",
-        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 200899,
-      "name": "Todo Bien",
-      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Haber Dormido",
         "url": "https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 187593,
       "name": "Sin Haber Dormido",
       "url": "https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Good Vibration - Vol. 1",
+        "url": "https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 200899,
+      "name": "Todo Bien",
+      "url": "https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 189080,
+      "name": "Amor Prohibido",
+      "url": "https://open.spotify.com/track/6ZMaSqYTXnZU4gZE6yc6U2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PAUSA",
         "url": "https://open.spotify.com/album/3hS1wzvOJuioDs9VV6HW3R"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 218665,
       "name": "Cae de Una",
       "url": "https://open.spotify.com/track/3NG3wfTRRPiGLxysGXG5RU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 189080,
-      "name": "Amor Prohibido",
-      "url": "https://open.spotify.com/track/6ZMaSqYTXnZU4gZE6yc6U2"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt?si=XQm6khbXRRmHNHbvBq41aQ>Tosin Bee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,111 likes - 80 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,144 likes - 80 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Free \- Live](https://open.spotify.com/track/4zInE6ScKS3cn62WSq8gxG) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Free](https://open.spotify.com/album/2HNaXcsPM8Drd6ETWVpeRH) | 11:08 |
-| 2 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/476AkWd5R5CYPSRHcg5ph6), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
+| 2 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 |
 | 3 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 4 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 |
 | 5 | [I no go ever tire](https://open.spotify.com/track/31E9nzyPs56BLoOcZt4CQm) | [Uwa](https://open.spotify.com/artist/3PhBxIUdrJCXeEprUL5pkV) | [I no go ever tire](https://open.spotify.com/album/4JM5RKxLPeB11RMxvowla1) | 2:59 |

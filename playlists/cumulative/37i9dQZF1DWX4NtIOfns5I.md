@@ -4,7 +4,7 @@
 
 > where folk flowers bloom 🍃 cover: Paris Paloma
 
-320 songs - 18 hr 43 min
+321 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Pain Is Cold Water \- Live From Fenway Park](https://open.spotify.com/track/1XUlg6YCcns9gsJAB4DoFi) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Live From Fenway Park](https://open.spotify.com/album/6o5iGTU8HzbS6LFGI8LPa6) | 2:20 | 2024-08-30 |  |
 | [People Always Change](https://open.spotify.com/track/6uMlsNZsVHH2MLJx6z44IY) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [All For Something](https://open.spotify.com/album/5oOtwx1qgZoWzvqu1pvmZm) | 4:16 | 2024-05-24 |  |
 | [Perfection \(feat\. Tiny Habits\)](https://open.spotify.com/track/1ycdplQuyqA5eHgZmiy5kt) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Deeper Well: Deeper into the Well](https://open.spotify.com/album/1qkr1AJ7sc8IF2nLmjCBkZ) | 2:56 | 2024-08-02 |  |
+| [Persimmon](https://open.spotify.com/track/5k4k6yqihuv3mcgXzDISKQ) | [The Army, The Navy](https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI) | [Fruit For Flies](https://open.spotify.com/album/09XjI8xRCkYwwQouWsarak) | 2:49 | 2024-09-03 |  |
 | [Pink Skies](https://open.spotify.com/track/4ZJ4vzLQekI0WntDbanNC7) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Pink Skies](https://open.spotify.com/album/7LRZfujsTLyy814AnMSdtT) | 3:14 | 2024-05-24 |  |
 | [Please Be Rude](https://open.spotify.com/track/1MLYuzjhAUt254cNOnjmts) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Please Be Rude](https://open.spotify.com/album/0SW9RZVTLHaA1JtNPj0cNz) | 3:00 | 2024-05-10 | 2024-08-27 |
 | [Please Love Me](https://open.spotify.com/track/6jEi6mO39kO1WtOm6ksogj) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Love Letters](https://open.spotify.com/album/1mH0uD5SIm4wJiDEvqXONe) | 2:29 | 2024-01-05 | 2024-02-24 |

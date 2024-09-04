@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Tiakola au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,053 likes - 90 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,083 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 49 | [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 |
 | 50 | [NO](https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [NO](https://open.spotify.com/album/39JZFh4AzmaT7NMB5Q38Qc) | 2:28 |
 | 51 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
-| 52 | [Spleen dans le coeur](https://open.spotify.com/track/30k8edKJT6p8TMlGyir4lv) | [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX), [2TH](https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT) | [Spleen dans le coeur](https://open.spotify.com/album/2hiBeZID6wQMbxCyncOGBT) | 2:46 |
+| 52 | [Spleen dans le coeur](https://open.spotify.com/track/30k8edKJT6p8TMlGyir4lv) | [2TH](https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Spleen dans le coeur](https://open.spotify.com/album/2hiBeZID6wQMbxCyncOGBT) | 2:46 |
 | 53 | [D.S.L \(feat\. Merveille\)](https://open.spotify.com/track/6ZJ1i1Jjb4AmmW8BHHzgft) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY), [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [D.S.L \(feat\. Merveille\)](https://open.spotify.com/album/16UxdYbqp0V1qt8dPcHirV) | 2:28 |
 | 54 | [Ça va ça vient](https://open.spotify.com/track/7uwkND9nqZIM9LWZbUdkIR) | [Danakil](https://open.spotify.com/artist/52MTyKpEJBAnWj1oVNYGTj) | [Ça va ça vient](https://open.spotify.com/album/0bnHJ2MAkcfO24FXaCFXm3) | 4:18 |
 | 55 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 |

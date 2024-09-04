@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 
 > Aquí vive el hip\-hop mexicano\. Zxmyr y Gera MX en la casa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,514 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 823,565 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVFZbCNivv6B.md) - [plain]
 | 2 | [Por Un Beso](https://open.spotify.com/track/390hl8efmjrNQKiCgP2sU0) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Por Un Beso](https://open.spotify.com/album/1WlVjhzcuvwsHqCJX3BztF) | 3:52 |
 | 3 | [GOET](https://open.spotify.com/track/5CE77TLqLjOQ2qgAobzPds) | [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce) | [GOET](https://open.spotify.com/album/3tbuO1Yqd3nkyGdVqqtAbF) | 3:01 |
 | 4 | [Candela](https://open.spotify.com/track/6QgZMzRigLCwQZfEBgRDoU) | [Doom Deca](https://open.spotify.com/artist/4ZVolhf7GCqhwdLyQheHpL), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Candela](https://open.spotify.com/album/1iUBAs3SCKHSI3n5tnTq7j) | 2:51 |
-| 5 | [Genios](https://open.spotify.com/track/3YsK7zohjEf6jsRlLfzOY2) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Genios](https://open.spotify.com/album/7e8r7cKrzX1h4JqpIQ8noy) | 3:11 |
+| 5 | [Genios](https://open.spotify.com/track/3YsK7zohjEf6jsRlLfzOY2) | [Lobo Estepario](https://open.spotify.com/artist/3mqPl8mavq0P24IIbbgYnI), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Genios](https://open.spotify.com/album/7e8r7cKrzX1h4JqpIQ8noy) | 3:10 |
 | 6 | [La Receta](https://open.spotify.com/track/1tWPmGzWTc2aRjB0BeLQHo) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [La Receta](https://open.spotify.com/album/2QgKob0qHmbDkIsugkw31v) | 3:26 |
 | 7 | [La Manzana \(feat\. Mente En Blanco\)](https://open.spotify.com/track/2BHca5YGWsdLwNaOHqJRQ3) | [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Jr López](https://open.spotify.com/artist/1oXMq3RQFNAuWRmDZJZjRO), [Poncho Lkd](https://open.spotify.com/artist/5RVRXnbv7PKnZvGk24xwu4), [Mente En Blanco](https://open.spotify.com/artist/4NZKIGTqaBTXyDUYbCcWWH) | [La Manzana \(feat\. Mente En Blanco\)](https://open.spotify.com/album/5Cc8uzpDnbDbF1GrSu9R5r) | 4:34 |
 | 8 | [Me Perdí](https://open.spotify.com/track/1tYBjcreU2WONT4AmhZ7oc) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Jon Jams](https://open.spotify.com/artist/1QmcAReKKTu2A9L97Mofv7) | [Me Perdí](https://open.spotify.com/album/6S2t4FIFbtG9Lov0u4WqGu) | 2:49 |

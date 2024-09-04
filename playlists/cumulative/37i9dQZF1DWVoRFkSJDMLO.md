@@ -2,7 +2,7 @@
 
 ### [Crxss Current](https://open.spotify.com/playlist/37i9dQZF1DWVoRFkSJDMLO)
 
-> Inspired by African drums..\. welcome to the function\. Cover: Oxlade 🇳🇬  & Fally Ipupa 🇨🇩
+> Inspired by African drums..\. welcome to the function\. Cover: Asake 🇳🇬
 
 1,043 songs - 2 day 4 hr 27 min
 
@@ -425,7 +425,7 @@
 | [i'm a mess](https://open.spotify.com/track/65v99AWZyNz3aRmfrT2I7N) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:33 | 2022-07-22 | 2023-02-04 |
 | [I'm You](https://open.spotify.com/track/5gdzZZkkk4KcBR7zFaGWhY) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:07 | 2024-04-05 | 2024-04-27 |
 | [Icky](https://open.spotify.com/track/7fUndQqdYJsbzu23WlOvRf) | [DJ CHEEM](https://open.spotify.com/artist/73srMZV12x8XvV4r8VekHZ) | [Icky](https://open.spotify.com/album/3dKIj7ERfC4UiwUY6ivZtt) | 2:54 | 2024-06-28 | 2024-07-13 |
-| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-30 |  |
+| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-30 | 2024-09-04 |
 | [Ilashe](https://open.spotify.com/track/1kW728xFsRBvunN1yiTsNf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:40 | 2024-04-19 | 2024-06-29 |
 | [Impatient](https://open.spotify.com/track/2LnADQWYzH6LWSsylwpmFE) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Impatient](https://open.spotify.com/album/5ztwKgM43IMhm0Qnl3MI28) | 2:49 | 2024-04-26 | 2024-07-13 |
 | [In Love](https://open.spotify.com/track/4WM7I8zRXJ6qjl4kuHeHrF) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Trafic Inter](https://open.spotify.com/album/4gPe7bl2PI7Jv1acB0J3gw) | 3:01 | 2022-11-11 | 2023-04-01 |

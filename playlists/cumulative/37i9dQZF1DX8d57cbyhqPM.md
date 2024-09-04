@@ -2,7 +2,7 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tontons Oxlade et Fally Ipupa
+> Du Congo, au monde\. 🌍 Photo: Tonton Fally Ipupa
 
 435 songs - 1 day 1 hr 53 min
 
@@ -172,7 +172,7 @@
 | [Hypnosia](https://open.spotify.com/track/3y37dGMIG4msr8n8jEcqh2) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [Hypnosia](https://open.spotify.com/album/3US94NljdsVB2HON8Y5YlM) | 3:32 | 2022-09-23 | 2023-03-18 |
 | [I Love You](https://open.spotify.com/track/71N5pPfGIAwXvlQAfwr4PU) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I Love You](https://open.spotify.com/album/3ZRL0ytPa6BNp5IGjMDhvo) | 3:18 | 2023-11-10 | 2023-11-18 |
 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 | 2023-12-08 | 2024-05-03 |
-| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 |  |
+| [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-23 | 2024-09-04 |
 | [Indess](https://open.spotify.com/track/6niNPp6rdlIQS61n95OQwo) | [Mobeti beat](https://open.spotify.com/artist/4SWuugJ2IJ1RppX6XOwfqt), [Bazzarba](https://open.spotify.com/artist/3yW1RJsMZEla8T9KvnPSJL) | [Indess](https://open.spotify.com/album/4A4yPkRSHMDr0DMvehKUgR) | 3:25 | 2023-09-01 | 2023-10-21 |
 | [INDIGO](https://open.spotify.com/track/5JlG5WJSZ0b1mHWtXyXYig) | [Scor Novy](https://open.spotify.com/artist/5EDWIzXeFXQwd0RVSdoTAS) | [INDIGO](https://open.spotify.com/album/7fPft6aUKPhVCcp0kD4fWL) | 4:15 | 2024-04-19 | 2024-05-03 |
 | [J'achète](https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [47°](https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg) | 2:54 | 2024-07-12 |  |

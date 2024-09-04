@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover: Rad Museum, Kid Milli)",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover: YUNGIN, Jay Park(\ubc15\uc7ac\ubc94))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -19753,6 +19753,24 @@
     },
     {
       "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170315,
+      "name": "Pierrot",
+      "url": "https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx"
+    },
+    {
+      "album": {
         "name": "FANTASY TRIBE",
         "url": "https://open.spotify.com/album/0YrIwu97fGzEOopa5pUmBB"
       },
@@ -23782,6 +23800,28 @@
       "duration_ms": 177750,
       "name": "Spring Rain (feat. Rakon)",
       "url": "https://open.spotify.com/track/72CqKBz1W0sHlbVazkD9Ur"
+    },
+    {
+      "album": {
+        "name": "Stand Out",
+        "url": "https://open.spotify.com/album/4ec8gp20EwMyersWF7Ewx5"
+      },
+      "artists": [
+        {
+          "name": "YUNGIN",
+          "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/1jQbHZEM4Qoes0hAbMmAF9"
     },
     {
       "album": {

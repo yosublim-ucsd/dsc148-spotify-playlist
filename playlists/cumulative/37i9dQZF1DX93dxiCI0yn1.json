@@ -237,6 +237,28 @@
     },
     {
       "album": {
+        "name": "All My Life",
+        "url": "https://open.spotify.com/album/1nVOfilyAErWuZsYWqzmPQ"
+      },
+      "artists": [
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+        },
+        {
+          "name": "D3adStock",
+          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165937,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/56QxuKtKb9GyiHR2tOvEJR"
+    },
+    {
+      "album": {
         "name": "Manic Depression",
         "url": "https://open.spotify.com/album/16dUeHW2IeDbBum9lYbLzG"
       },
@@ -5215,6 +5237,24 @@
     },
     {
       "album": {
+        "name": "TOKYO",
+        "url": "https://open.spotify.com/album/1q7UQDNZ54fUm9RylYYsOW"
+      },
+      "artists": [
+        {
+          "name": "ARuM",
+          "url": "https://open.spotify.com/artist/2W46oY5sDSCWXrZq8sljQx"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176932,
+      "name": "TOKYO",
+      "url": "https://open.spotify.com/track/7uu9sitndlTCyWZ3ad9RhO"
+    },
+    {
+      "album": {
         "name": "T.U.R.N.",
         "url": "https://open.spotify.com/album/6dX5BAKhxVc12kqr4OlGm3"
       },
@@ -5986,6 +6026,44 @@
       "duration_ms": 239000,
       "name": "\u30e9\u30c3\u30d7\u30b9\u30bf\u30a2CYPHER",
       "url": "https://open.spotify.com/track/6tyrKXMRwlMgnysMZQLmUB"
+    },
+    {
+      "album": {
+        "name": "\u4e00\u65e5\u76ee",
+        "url": "https://open.spotify.com/album/1h96isqVx4hjWt40RrCrXJ"
+      },
+      "artists": [
+        {
+          "name": "\u591c\u732b\u65cf",
+          "url": "https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ"
+        },
+        {
+          "name": "noma",
+          "url": "https://open.spotify.com/artist/5lL3ZTc535xQeLqXH9cB3V"
+        },
+        {
+          "name": "XakiMichele",
+          "url": "https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl"
+        },
+        {
+          "name": "tip jam",
+          "url": "https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5c6lWvTCMWDYRraVAEIm9G"
+        },
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u4e00\u65e5\u76ee",
+      "url": "https://open.spotify.com/track/0NaTrHvSqvdVgD7QUT3Agj"
     },
     {
       "album": {

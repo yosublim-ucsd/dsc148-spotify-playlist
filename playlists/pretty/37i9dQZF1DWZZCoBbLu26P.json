@@ -1,6 +1,6 @@
 {
   "description": "Queens everywhere - givin' us life. ",
-  "num_followers": 89602,
+  "num_followers": 89621,
   "original_name": "Fierce",
   "owner": {
     "name": "Spotify",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-05-31 17:55:47",
       "album": {
-        "name": "Sunshine State",
-        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
-      },
-      "artists": [
-        {
-          "name": "Ginger Minj",
-          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
-        },
-        {
-          "name": "Brandon Stansell",
-          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
-        }
-      ],
-      "duration_ms": 186686,
-      "name": "Sunshine State",
-      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
-    },
-    {
-      "added_at": "2024-05-31 17:55:47",
-      "album": {
         "name": "Transphibian",
         "url": "https://open.spotify.com/album/34Q0hpXICT1xqe6t6TjZTb"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 253585,
       "name": "Supermarch\u00e9",
       "url": "https://open.spotify.com/track/2nTwIRB9J29KUI7eWprArI"
+    },
+    {
+      "added_at": "2024-05-31 17:55:47",
+      "album": {
+        "name": "Sunshine State",
+        "url": "https://open.spotify.com/album/4QMqDNrRDg3Abr3viHFDka"
+      },
+      "artists": [
+        {
+          "name": "Ginger Minj",
+          "url": "https://open.spotify.com/artist/2FaZdTkWlJXrx0fbHuUfeE"
+        },
+        {
+          "name": "Brandon Stansell",
+          "url": "https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz"
+        }
+      ],
+      "duration_ms": 186686,
+      "name": "Sunshine State",
+      "url": "https://open.spotify.com/track/2wwO8AXtUB0qy8rT4dV9nP"
     },
     {
       "added_at": "2024-05-31 17:55:47",

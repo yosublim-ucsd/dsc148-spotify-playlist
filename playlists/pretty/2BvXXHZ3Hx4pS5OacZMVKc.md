@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 135,063 likes - 110 songs - 5 hr 46 min
+[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 135,056 likes - 110 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Desperate](https://open.spotify.com/track/068gApVgHSg3dZbqHjYRW4) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Desperate](https://open.spotify.com/album/6iBQ9N0IsxqPxSn2QJjpZv) | 3:15 |
 | 2 | [Follow Back](https://open.spotify.com/track/2xPj7wIXgUmBcvrdVTPDax) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK) | [Follow Back](https://open.spotify.com/album/0RqjqgfSxS7hA9654aPLk0) | 2:04 |
 | 3 | [Throne](https://open.spotify.com/track/1DbjGwT77l5Ph0N89lo8Hy) | [Tomatow](https://open.spotify.com/artist/1FzBO5erQh8xC6qT6tY3tO), [SagaB](https://open.spotify.com/artist/7hSyeMWPot9g32PhU808zU), [Adam Putra](https://open.spotify.com/artist/1PdEYf0awBJvZHoOJu0LtS) | [Throne](https://open.spotify.com/album/6Bfrj9X2sXA8omh8yW5uVi) | 3:20 |
-| 4 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
+| 4 | [Wonder](https://open.spotify.com/track/1TKW3OglG58pfVAfIMDClZ) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Rarin](https://open.spotify.com/artist/3VhKwjUzCzgIJAzpjMBXmQ), [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0) | [Wonder](https://open.spotify.com/album/5duEVzCzfvdzzgmdo7vryH) | 2:18 |
 | 5 | [Fell For A Demon](https://open.spotify.com/track/3PXwHjw3Y5DuCAVUONVaSj) | [ROY KNOX](https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3), [LINKER](https://open.spotify.com/artist/0THtcraqLXBsPUaZrCZIs6) | [Fell For A Demon](https://open.spotify.com/album/1KVLNWGRRiT6hc15O05rdy) | 4:03 |
 | 6 | [You Get Me High](https://open.spotify.com/track/3cFuhNR2w6AIYnAl9k64Ht) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL) | [You Get Me High](https://open.spotify.com/album/00b2IJWVx1cTveGK68jNnR) | 3:00 |
 | 7 | [DANGEROUS](https://open.spotify.com/track/2WUua0PT86pEpMwo4ePH92) | [ANGELPLAYA](https://open.spotify.com/artist/4WcJRxmR6wNm0L1acKLKVo) | [DANGEROUS](https://open.spotify.com/album/3dwNpIaKdJM1MFmvCWKcjs) | 2:45 |

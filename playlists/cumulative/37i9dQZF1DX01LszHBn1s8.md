@@ -4,7 +4,7 @@
 
 > i just wanna be part of your symphony
 
-1,511 songs - 3 day 7 hr 32 min
+1,513 songs - 3 day 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -329,6 +329,7 @@
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-02-23 |  |
 | [Die For You \- Sped Up](https://open.spotify.com/track/4LR9G3Vr27KaqrNm9aymBq) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [xxtristanxo](https://open.spotify.com/artist/4kBCXTJBl1aY9pDHONsjfr), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Die For You](https://open.spotify.com/album/0hZdHrGRGnRKxmfabZme18) | 3:43 | 2023-02-02 |  |
 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 | 2022-06-01 |  |
+| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-03 |  |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2022-05-19 | 2022-10-07 |
 | [Dip](https://open.spotify.com/track/0r6tglSiN3TZTyRMvMCR5B) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Neogazino](https://open.spotify.com/album/24ohBXA9KS4lIq1ebnirp6) | 3:43 | 2022-07-28 | 2023-01-06 |
 | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Disappointment \(feat\. Rxseboy\)](https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd) | 2:22 | 2022-05-19 |  |
@@ -478,6 +479,7 @@
 | [girlfriend](https://open.spotify.com/track/3oxjdkrul9fGW82LfkCdxg) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [girlfriend](https://open.spotify.com/album/6vLqlkHUKH696KzKUPiqdd) | 2:13 | 2023-05-11 | 2023-10-02 |
 | [girlfriend](https://open.spotify.com/track/7qkNf6D661jZI9yNqw27LA) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [going...going...GONE!](https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf) | 2:13 | 2023-09-28 | 2024-04-19 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-09 |  |
+| [Girls](https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY) | [The Dare](https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb) | [Girls](https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb) | 1:59 | 2024-09-03 |  |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-06-28 |  |
 | [Give It to Me](https://open.spotify.com/track/0uYRup7G0zdLWWGLf52ACH) | [Fantom](https://open.spotify.com/artist/42N61ygUyJF7ooVCcmOhIO) | [Music Is a Part of the Soul.](https://open.spotify.com/album/5FbZHzL3JLJdHhO0GVYJ7j) | 2:52 | 2023-02-16 | 2023-02-25 |
 | [Give It To Me](https://open.spotify.com/track/04SSxcKDNjAkTvPeT0UUMN) | [Henrik](https://open.spotify.com/artist/5h726j6J9LwwSoINEX4dLx) | [Give It To Me](https://open.spotify.com/album/73DfRZAOvXTeJKyd0pWs3v) | 2:56 | 2023-02-23 | 2024-04-19 |

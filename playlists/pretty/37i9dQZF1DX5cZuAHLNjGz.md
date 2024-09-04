@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 
 > Ultimate 101 Punjabi Hits with AP Dhillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,277,971 likes - 101 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,278,423 likes - 101 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cZuAHLNjGz.md) - [plain]
 | 54 | [Mi Amor](https://open.spotify.com/track/24MMjyA3NLqCsDJfsn51eg) | [Sharn](https://open.spotify.com/artist/74RGMjbSsFv5RLj8wVx9Yv), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk), [The Paul](https://open.spotify.com/artist/1i31OYo0s5VoMCaMRJFZkJ) | [Mi Amor](https://open.spotify.com/album/0azGrKHPYvl2MEKwQFfbV2) | 3:23 |
 | 55 | [MEDAL](https://open.spotify.com/track/4K5aBuakMjnDhFa56CmlHC) | [Chandra Brar](https://open.spotify.com/artist/5sieaTASHA1VDIsOg04ubm), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [MEDAL](https://open.spotify.com/album/1UWSQ9JqRDlPfFMR89J9kf) | 2:13 |
 | 56 | [Softly](https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 2:35 |
-| 57 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 |
+| 57 | [Busy Doin Nothin](https://open.spotify.com/track/0xOblh9Op69YZkvbsHrsDW) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [San\-B](https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD) | [Busy Doin Nothin](https://open.spotify.com/album/5P7BaRLeaZ0RVj9DKUtPgx) | 3:40 |
 | 58 | [Love Ya](https://open.spotify.com/track/5RWZ6TVZ0HeFTdRWu3VQ7w) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Love Ya](https://open.spotify.com/album/4VkH37VVMJ2geNURWVg1W7) | 2:41 |
 | 59 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 |
 | 60 | [Aa](https://open.spotify.com/track/476WPJ4GsgLDkJiAFbHJRo) | [Roach Killa](https://open.spotify.com/artist/62RUJAVFb2U8n54mYnZAmS), [Arif Lohar](https://open.spotify.com/artist/1zs5AOsqD2b0YfmGNfWni4), [Deep Jandu](https://open.spotify.com/artist/2RJawMqX9ESxws2KMtHyP3) | [Aa](https://open.spotify.com/album/777njg8aKak7ogZL2NUYrk) | 3:10 |

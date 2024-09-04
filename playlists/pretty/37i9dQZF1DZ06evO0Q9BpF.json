@@ -1,12 +1,12 @@
 {
   "description": "This is Generaci\u00f3n 12. The essential tracks, all in one playlist.",
-  "num_followers": 42096,
+  "num_followers": 42118,
   "original_name": "This Is Generaci\u00f3n 12",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAcZfiNjxCwVdpIh60fYWY8",
+  "snapshot_id": "ZtUAAAAAAAAMes3K8Eta8Py48G/EQIOV",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seamos Luz",
+        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 424534,
+      "name": "Hay Poder",
+      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 549068,
       "name": "Vuelvo a Casa",
       "url": "https://open.spotify.com/track/2FJQHTLhycwIjRnRbd4Wm6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Seamos Luz",
-        "url": "https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 424534,
-      "name": "Hay Poder",
-      "url": "https://open.spotify.com/track/3VSYtAqWgzIrUJp3sTk4h2"
     },
     {
       "added_at": null,
@@ -135,6 +135,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Sof\u00eda Mancipe",
+          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        }
+      ],
+      "duration_ms": 475893,
+      "name": "Encontr\u00e9",
+      "url": "https://open.spotify.com/track/7sJso6WxzD0AUgyzm9SdGW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Naci\u00f3n",
         "url": "https://open.spotify.com/album/4TfOypp18c3CALG8DpZX2y"
       },
@@ -163,30 +187,6 @@
       "duration_ms": 306976,
       "name": "Tu Amor No Tiene Fin (Reprise)",
       "url": "https://open.spotify.com/track/0IncgT247WJc9X63Ni1p4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Sof\u00eda Mancipe",
-          "url": "https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        }
-      ],
-      "duration_ms": 475893,
-      "name": "Encontr\u00e9",
-      "url": "https://open.spotify.com/track/7sJso6WxzD0AUgyzm9SdGW"
     },
     {
       "added_at": null,
@@ -231,6 +231,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Johan Manjarr\u00e9s",
+          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
+        },
+        {
+          "name": "Josu\u00e9 Su\u00e1rez",
+          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
+        }
+      ],
+      "duration_ms": 333893,
+      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
+      "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Obra de Tu Amor",
         "url": "https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV"
       },
@@ -259,30 +283,6 @@
       "duration_ms": 605453,
       "name": "Obra de Tu Amor - (Alfarero)",
       "url": "https://open.spotify.com/track/1yvDR7cxU98Zr2VxQ4WZE3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-        "url": "https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Johan Manjarr\u00e9s",
-          "url": "https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7"
-        },
-        {
-          "name": "Josu\u00e9 Su\u00e1rez",
-          "url": "https://open.spotify.com/artist/6Y8o0ezdvlydLWkm8pknxL"
-        }
-      ],
-      "duration_ms": 333893,
-      "name": "Tu Reino Est\u00e1 Aqu\u00ed",
-      "url": "https://open.spotify.com/track/26oaPbdYRvDFEddhi6ApAu"
     },
     {
       "added_at": null,
@@ -551,6 +551,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        },
+        {
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        }
+      ],
+      "duration_ms": 469537,
+      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
+      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si T\u00fa Est\u00e1s Conmigo",
         "url": "https://open.spotify.com/album/3GG0BnFJLkg1GOQQzCOxK1"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 245760,
       "name": "Si T\u00fa Est\u00e1s Conmigo",
       "url": "https://open.spotify.com/track/6k1NGpGexYFNYtHvpVWs3t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        },
-        {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        }
-      ],
-      "duration_ms": 469537,
-      "name": "Tu Nombre Santo Es (Feat. Miel San Marcos)",
-      "url": "https://open.spotify.com/track/4poExKERVNwn7qzdr1I8gj"
     },
     {
       "added_at": null,
@@ -643,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Lo Haces Nuevo",
+        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 376840,
+      "name": "Cuanto M\u00e1s Me Rindo",
+      "url": "https://open.spotify.com/track/2YkJvapduvbtgS0oc4MwUu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tu Amor No Tiene Fin",
         "url": "https://open.spotify.com/album/4CKUegOuIIvograUF8Q7Sz"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 616226,
       "name": "\u00c9l Me Am\u00f3 Primero",
       "url": "https://open.spotify.com/track/6cn1iz7f2V7MSds6OkjwOF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Lo Haces Nuevo",
-        "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 376840,
-      "name": "Cuanto M\u00e1s Me Rindo",
-      "url": "https://open.spotify.com/track/2YkJvapduvbtgS0oc4MwUu"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos Uno",
-        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
-      },
-      "artists": [
-        {
-          "name": "Generaci\u00f3n 12",
-          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
-        }
-      ],
-      "duration_ms": 411440,
-      "name": "Eres Santo",
-      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Todo Lo Haces Nuevo",
         "url": "https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 359837,
       "name": "Cristo Te Amo",
       "url": "https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somos Uno",
+        "url": "https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS"
+      },
+      "artists": [
+        {
+          "name": "Generaci\u00f3n 12",
+          "url": "https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C"
+        }
+      ],
+      "duration_ms": 411440,
+      "name": "Eres Santo",
+      "url": "https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx"
     },
     {
       "added_at": null,

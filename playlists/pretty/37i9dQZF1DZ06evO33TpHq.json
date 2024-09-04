@@ -1,12 +1,12 @@
 {
   "description": "This is Phil Wickham. The essential tracks, all in one playlist.",
-  "num_followers": 48298,
+  "num_followers": 48312,
   "original_name": "This Is Phil Wickham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADLulbjXtdP79IiWo0O8G8y",
+  "snapshot_id": "ZtUAAAAAAADhDQYmDk+G7FMvRv+N7VAq",
   "tracks": [
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cannons",
+        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 249413,
+      "name": "Cannons",
+      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Behold (feat. Anne Wilson)",
         "url": "https://open.spotify.com/album/2Tm2tryR4iBqwcfy8xtJyQ"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 264160,
       "name": "Behold (feat. Anne Wilson)",
       "url": "https://open.spotify.com/track/2fy4fzUaoBurQu9IpFmdRG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cannons",
-        "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 249413,
-      "name": "Cannons",
-      "url": "https://open.spotify.com/track/6comBEUeJfkr2GuCxYPaxd"
     },
     {
       "added_at": null,

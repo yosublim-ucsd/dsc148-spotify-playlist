@@ -10996,7 +10996,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 184347,
       "name": "Caught Up in My Head",
       "url": "https://open.spotify.com/track/0DYD7bR5s7rZFBvtFPDAML"
@@ -18652,7 +18652,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 193253,
       "name": "Easy",
       "url": "https://open.spotify.com/track/2Mq3vkDvuj2MskGEPKiB6y"
@@ -26580,7 +26580,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 222419,
       "name": "Half as Heartless",
       "url": "https://open.spotify.com/track/6YlNNkCrwUkuQJJcztNLs8"
@@ -27888,7 +27888,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 175648,
       "name": "Hey Gina",
       "url": "https://open.spotify.com/track/2CZJXVtnwAz7KdOvZGqxCf"
@@ -43892,7 +43892,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 130000,
       "name": "My Type",
       "url": "https://open.spotify.com/track/1jrGYEJhRqQuugrjUNcNuV"
@@ -46196,7 +46196,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 255240,
       "name": "Now",
       "url": "https://open.spotify.com/track/1kzOIOfikqNyExcu5CQsfg"
@@ -50760,7 +50760,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 186947,
       "name": "Privacy",
       "url": "https://open.spotify.com/track/2DPoGdTd7TL3h3LauAq8a6"
@@ -58058,7 +58058,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 237856,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4VNvyqy97rQMutDov0xCaS"
@@ -71536,6 +71536,28 @@
       "duration_ms": 157126,
       "name": "Why Try",
       "url": "https://open.spotify.com/track/4pWmqre0qCQ6K2eS0L0yfQ"
+    },
+    {
+      "album": {
+        "name": "Why Wait",
+        "url": "https://open.spotify.com/album/59gQbC6zsACvkdl76SneoZ"
+      },
+      "artists": [
+        {
+          "name": "Man.You?",
+          "url": "https://open.spotify.com/artist/26yxMLQtqaJ2DIHY7Gn929"
+        },
+        {
+          "name": "Rasneek",
+          "url": "https://open.spotify.com/artist/1sN37BHcFAxk5O7r7vLqo4"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127058,
+      "name": "Why Wait",
+      "url": "https://open.spotify.com/track/4pdzDOdu7f2DyVOztk5b4b"
     },
     {
       "album": {

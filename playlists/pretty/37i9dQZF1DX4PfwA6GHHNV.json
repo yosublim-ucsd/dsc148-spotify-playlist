@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 18541,
+  "num_followers": 18552,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
-      },
-      "artists": [
-        {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
-        }
-      ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Atitude",
         "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 185741,
       "name": "Brinca Comigo",
       "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+      },
+      "artists": [
+        {
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+        }
+      ],
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2024-08-30 03:01:00",

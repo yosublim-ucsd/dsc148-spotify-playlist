@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,795 songs - 1 day 13 hr 0 min
+1,797 songs - 1 day 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/track/3KGeyPoru1o5I0v0uUDclf) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Calm Solitude Arr\. For Cello And Harp](https://open.spotify.com/album/2adPYyDCIgUncMi5II8H99) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm Solitude Arr\. For Strings](https://open.spotify.com/track/0oKpv6o8KJojLffylpR3Mr) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Calm Solitude Arr\. For Strings](https://open.spotify.com/album/6GAJrIXO6kZXDuobr95tNi) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Calm State](https://open.spotify.com/track/1Ke9zybM5qcvITp64sMScM) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Calm State](https://open.spotify.com/album/3Khne7nQ9lv3iZePU1OXZN) | 1:00 | 2024-08-31 |  |
+| [Calm State \- Cello Version](https://open.spotify.com/track/6g5qfAnPLKhfRrSydDZB9j) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Calm State \- Cello Version](https://open.spotify.com/album/58gOJcDd8vefz9xpZae5Kq) | 1:00 | 2024-09-03 |  |
 | [Calm World](https://open.spotify.com/track/6RrMqrtAIHwfYZPJTmaAyk) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Calm World](https://open.spotify.com/album/224ipkjPTvQsivbMHHgtdB) | 1:00 | 2024-03-30 |  |
 | [Calming](https://open.spotify.com/track/3XKnpSnQ3CoHMUcDPrVhY4) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calming](https://open.spotify.com/album/0k1djjFgglB3z3S28ad36c) | 1:00 | 2024-08-12 |  |
 | [Calming Mind](https://open.spotify.com/track/2NxQ4PPTziWUBN8QLt1ITb) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calming Mind](https://open.spotify.com/album/5feoVS46VwnkQZ8TSFqRxZ) | 1:00 | 2024-05-27 |  |
@@ -1608,6 +1609,7 @@
 | [Triste \- Alternate Version](https://open.spotify.com/track/2W4TSATgtlBXeIo5PglZtc) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Triste](https://open.spotify.com/album/6aExwuRPJoAHNZhMDiWTOw) | 0:59 | 2024-02-09 | 2024-02-13 |
 | [True Hope](https://open.spotify.com/track/0COdRc0WuWOmR9DWwVbxXM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Carry Me Away](https://open.spotify.com/album/3dlqG3m3IlYnsISyOLygAE) | 1:05 | 2022-03-03 |  |
 | [Trust](https://open.spotify.com/track/1eE51oUR7YnJjeeO6i0i1W) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Present](https://open.spotify.com/album/7iNVMa6OBF7uixhm3CCb20) | 1:06 | 2022-01-12 |  |
+| [Trusted](https://open.spotify.com/track/0ctHaxo5BIICD0XKdViQ8y) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Trusted](https://open.spotify.com/album/3IUMOZ6iBRSIJuu3EqQp1Z) | 1:00 | 2024-09-03 |  |
 | [Trusted](https://open.spotify.com/track/6aZG1H2taGEPdf9VSLfpDh) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:02 | 2022-03-02 |  |
 | [Trusted \- Ambient Felt](https://open.spotify.com/track/1qGHTzGfaDrN72qRZ679yI) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:02 | 2022-03-02 |  |
 | [Trusted \- Cello Version](https://open.spotify.com/track/3rZPBUwGiTOcySIc6wrWNa) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Wonderment](https://open.spotify.com/album/5xvoEnKYHlb2kBfkcE6i0k) | 1:03 | 2022-03-02 |  |

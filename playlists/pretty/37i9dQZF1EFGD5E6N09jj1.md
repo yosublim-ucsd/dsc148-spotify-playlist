@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2YMfVMHfyhZ8nNwKmfbrZi">Charli XCX</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,303 likes - 179 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,304 likes - 179 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 31 | [Used to Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 |
 | 32 | [Gone](https://open.spotify.com/track/1yUJK3qxPiFiPeAG2gLfuW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Charli](https://open.spotify.com/album/386IqvSuljaZsMjwDGGdLj) | 4:06 |
 | 33 | [OctaHate](https://open.spotify.com/track/7JVfDagtyWy9bYsaf37H9K) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:24 |
-| 34 | [Doing It \(feat\. Rita Ora\)](https://open.spotify.com/track/4ljwHVxOaRTuPJe5qtriKr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:48 |
-| 35 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 34 | [Sympathy is a knife](https://open.spotify.com/track/5c9tBmJKbTdn1vhzXHeAwW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:31 |
+| 35 | [Doing It \(feat\. Rita Ora\)](https://open.spotify.com/track/4ljwHVxOaRTuPJe5qtriKr) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [SUCKER](https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2) | 3:48 |
 | 36 | [CHARGER \(ft\. Charli XCX\)](https://open.spotify.com/track/3InNdtWYQV1Wx81qST5rU1) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [ELIO and Friends : The Remixes](https://open.spotify.com/album/1O1b6rtBC1KVjqAt6grw96) | 2:27 |
 | 37 | [When I Find Love Again \- Apollo Edition Version](https://open.spotify.com/track/5aHgzqUqrqlaS8mzAUfo8K) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Moon Landing \(Special Apollo Edition\)](https://open.spotify.com/album/1um82m9PCAD6SDLqkkDsYS) | 3:04 |
 | 38 | [We Lost The Summer](https://open.spotify.com/track/2QgHbElxpwEuYp2DoZEAr3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:30 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 57 | [ringtone](https://open.spotify.com/track/3VHiIVQe8Sc6gtSsTp3pDz) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:23 |
 | 58 | [Constant Repeat](https://open.spotify.com/track/0U9ltIN4q3aBKGZDZq5cAW) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 3:09 |
 | 59 | [Rewind](https://open.spotify.com/track/50GxvQA2KEWNt31EdwIlzY) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 2:48 |
-| 60 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
-| 61 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
+| 60 | [I might say something stupid](https://open.spotify.com/track/0PFZCt7UNmpas24HejQGu8) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 1:49 |
+| 61 | [forever](https://open.spotify.com/track/5GsJIVCBFjhCcUwJaTW2sB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 4:03 |
 | 62 | [Baby](https://open.spotify.com/track/2lE8pY64icLsx6k0Wr9iVF) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:39 |
 | 63 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 |
 | 64 | [So I](https://open.spotify.com/track/0AkiAfilrTUXV49dleC5SB) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [BRAT](https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7) | 3:31 |
@@ -188,4 +188,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGD5E6N09jj1.md) - [plain]
 | 178 | [Speed Drive](https://open.spotify.com/track/3EzFjQcnnrIgEnka90MurP) | [Twenty One Two](https://open.spotify.com/artist/2A5VOguZzXMBrg27MEUZcp) | [Covers of 2023 \- Covers of 2023](https://open.spotify.com/album/4zHQs9bvQiNkV8rChyzxqT) | 1:56 |
 | 179 | [Friss meine Shorts](https://open.spotify.com/track/52sdkW14TkAL1lURxnPsgW) | [Bart](https://open.spotify.com/artist/27T8KFq2GCENrgbvjioqIb) | [The Voices of Springfield](https://open.spotify.com/album/2geQRLxx4XzNZHwGYVHVVl) | 2:40 |
 
-Snapshot ID: `AbbGXgAAAAAzUWwqtXjGyrEHVK7VKK9w`
+Snapshot ID: `AbbL/gAAAABcss0M2t75cnvG4BwE+37u`

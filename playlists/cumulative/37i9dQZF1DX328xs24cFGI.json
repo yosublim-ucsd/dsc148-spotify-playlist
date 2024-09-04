@@ -5206,7 +5206,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 286546,
       "name": "\u611b\u8a00\u8449",
       "url": "https://open.spotify.com/track/515q6vR077kY4BQv8F3pGj"
@@ -5408,6 +5408,24 @@
       "duration_ms": 244279,
       "name": "\u7720\u308c\u306a\u3044\u591c\u3092\u541b\u306b",
       "url": "https://open.spotify.com/track/1ftEhiwyfsGsdYHyKxUj2f"
+    },
+    {
+      "album": {
+        "name": "\u773c\u5dee\u3057",
+        "url": "https://open.spotify.com/album/2uGI04yVeqhytZ8NATBuhh"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220311,
+      "name": "\u773c\u5dee\u3057",
+      "url": "https://open.spotify.com/track/33ONOFAa82gRalbmkQKpkz"
     },
     {
       "album": {

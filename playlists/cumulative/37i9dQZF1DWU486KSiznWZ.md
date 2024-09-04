@@ -4,13 +4,14 @@
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: أصيل هميم و عايض
 
-186 songs - 13 hr 17 min
+187 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [6Air Elma7abba](https://open.spotify.com/track/1uLo7VvVInEf4mG1ne1GH8) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [6air Elma7abba](https://open.spotify.com/album/51iqAWJczGv01DPAdNCU0B) | 5:19 | 2022-06-08 | 2023-08-01 |
 | [Aady](https://open.spotify.com/track/51xCLTYjK5IhySDDdnSCzy) | [Talal Sam](https://open.spotify.com/artist/72mJx5QexvdKQK1mi5CB4T), [Amy Roko](https://open.spotify.com/artist/4MYTbyu2ZNKAiImWWrAMjQ) | [Aady](https://open.spotify.com/album/11hE157XbnuTAeJnboNR7Y) | 2:49 | 2022-04-07 | 2023-01-28 |
 | [Abader](https://open.spotify.com/track/7clpLRhperdFynKEaIsG7I) | [Khaled Almuthafar](https://open.spotify.com/artist/1ToVXfINPwcuiUWRzhg9BG) | [Abader](https://open.spotify.com/album/749eE00Y5A8hauiQJi2V2S) | 3:24 | 2024-06-27 |  |
+| [Admentik](https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Admentik](https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi) | 4:18 | 2024-09-03 |  |
 | [Ahl Aleshg](https://open.spotify.com/track/44tJDmoFxmtbbZFiTyJ63a) | [Kadim Al Sahir](https://open.spotify.com/artist/5FXMkwsloHI5c05GIkWpuK), [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Ahl Aleshg](https://open.spotify.com/album/5RBewkiAhunvGKOaqvl6t2) | 5:48 | 2022-07-15 | 2023-03-15 |
 | [Ahla Watan](https://open.spotify.com/track/0l96bCDCnawVGivHaq9GZw) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj) | [Ahla Watan](https://open.spotify.com/album/1VSx7ihfIys5LekVlkUjY2) | 2:02 | 2022-06-08 | 2023-01-19 |
 | [Akhaf Admank](https://open.spotify.com/track/79VV7tQBOrBBmZRhtuCeSn) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Akhaf Admank](https://open.spotify.com/album/2epsEqrKFfzJEynuhpEaoH) | 3:32 | 2024-08-19 |  |
@@ -107,7 +108,7 @@
 | [Sara Barg](https://open.spotify.com/track/611PXXtuU51ToWk55udzWo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Sara Barg](https://open.spotify.com/album/38JLjvDN9Vmdv3hlf6KA0O) | 4:07 | 2022-08-14 | 2023-02-15 |
 | [Sawb Al Riyadh](https://open.spotify.com/track/2zRFrCapormSMSKfWh7Hu4) | [Mashael](https://open.spotify.com/artist/0Wy58cHn0XDlkr4jBIqhZs) | [Sawb Al Riyadh](https://open.spotify.com/album/4ol55IfB7hD1b6yRHlglTG) | 3:31 | 2022-04-07 | 2023-04-21 |
 | [Sha'a Rabi](https://open.spotify.com/track/3xHc0sVjmX3wELp4Gl2bQf) | [Fahad El Salem](https://open.spotify.com/artist/4qVn0gcHkdthKF07tD8F7D), [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Sha'a Rabi](https://open.spotify.com/album/4DwOVSEePfdMFjAiyXyghG) | 4:26 | 2023-04-20 | 2023-06-21 |
-| [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-24 |  |
+| [Shabeah Rouhi](https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Shabeah Rouhi](https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd) | 6:15 | 2023-05-24 | 2024-09-04 |
 | [Shahr 7](https://open.spotify.com/track/5W38ngA8pVHq5AnsyWNVM5) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Shahr 7](https://open.spotify.com/album/2Bhcqu0QL5QSr6RmtIffsv) | 6:06 | 2024-04-10 | 2024-04-19 |
 | [Shoor Al Faqd](https://open.spotify.com/track/1iC7AOPexbawa8ihSwQMm7) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Shoor Al Faqd](https://open.spotify.com/album/6pcdhmvP3x2Obffu2899xu) | 4:52 | 2022-04-07 | 2022-06-09 |
 | [Sukar](https://open.spotify.com/track/64jmDPPjHxrv2uvT2Q8kZD) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk) | [Sukar](https://open.spotify.com/album/5WEQISx8MQ5sBgomay7bc1) | 3:09 | 2023-02-24 | 2023-07-28 |

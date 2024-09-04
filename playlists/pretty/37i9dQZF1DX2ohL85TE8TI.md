@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Romance in the House\(가족X멜로\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Cinderella at 2AM\(새벽 2시의 신데렐라\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,530,085 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,530,126 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [To\. Me](https://open.spotify.com/track/3iclBTy2seRGoHq71GCJ6e) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [FlexxCop OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/5GWrGN3k1vnk7NItvfiH7Q) | 4:06 |
 | 100 | [Lemon](https://open.spotify.com/track/4uBkLFdqwsKI7Mn3QE0k0Z) | [YOO YEONJUNG](https://open.spotify.com/artist/35cW62cltZjFaHCCWeax6v) | [브랜딩 인 성수동 OST Part.2](https://open.spotify.com/album/1UGXySXL9nDZBIU1gtEfEo) | 3:51 |
 
-Snapshot ID: `ZtUz4QAAAABtT/F8IZLZ/lh6OIYchYNK`
+Snapshot ID: `ZtadNwAAAAC4hkhc0rkalFeew9nbLAPO`

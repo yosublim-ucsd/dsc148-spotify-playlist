@@ -1,12 +1,12 @@
 {
   "description": "This is Alex Favela. The essential tracks, all in one playlist.",
-  "num_followers": 1944,
+  "num_followers": 1948,
   "original_name": "This Is Alex Favela",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC2Dvb1FylaWHespmlcNCdA",
+  "snapshot_id": "ZtUAAAAAAAD/p8HQ1MJBcf4leuabGqCc",
   "tracks": [
     {
       "added_at": null,
@@ -567,22 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tiempos Duros",
-        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154154,
-      "name": "Que Cambie",
-      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Marin",
         "url": "https://open.spotify.com/album/6VR7lIXVocgm88OHiHa5wd"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 133923,
       "name": "El Marin",
       "url": "https://open.spotify.com/track/4gjCNNhuWpeagvK5Nr0jxo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tiempos Duros",
+        "url": "https://open.spotify.com/album/1grOOSZFlQSPqxZEvo4t6C"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154154,
+      "name": "Que Cambie",
+      "url": "https://open.spotify.com/track/3rYH7ZzFDnBkV5CSCa7nYS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde CLN Tololoche Edition",
-        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 110256,
-      "name": "RZR Rojo - En Vivo",
-      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ac\u00e1 Por Tijuana (En Vivo)",
         "url": "https://open.spotify.com/album/3MV4ny3FtiZ8eLcPJubwAl"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 134184,
       "name": "Ac\u00e1 Por Tijuana - En Vivo",
       "url": "https://open.spotify.com/track/6MWU4lwTjKRKRsSP80rSKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde CLN Tololoche Edition",
+        "url": "https://open.spotify.com/album/0nQSOTRnaZSOyj3pF15S9z"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 110256,
+      "name": "RZR Rojo - En Vivo",
+      "url": "https://open.spotify.com/track/2p0fRqlC2yZVMJAoNWCmeh"
     },
     {
       "added_at": null,
@@ -679,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jaimito El De California",
-        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 151018,
-      "name": "Jaimito El De California",
-      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Brillo de Mis Ojos",
         "url": "https://open.spotify.com/album/4hrceAyhQrDdiFV4XJZMer"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 212672,
       "name": "El Brillo de Mis Ojos",
       "url": "https://open.spotify.com/track/4aV9ASbXqXKjDIkoYSyWHC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jaimito El De California",
+        "url": "https://open.spotify.com/album/1mVJSgKrzx0DhOhT2jwT6G"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 151018,
+      "name": "Jaimito El De California",
+      "url": "https://open.spotify.com/track/3uMlRUWCJleZhyaZTh1H8X"
     },
     {
       "added_at": null,

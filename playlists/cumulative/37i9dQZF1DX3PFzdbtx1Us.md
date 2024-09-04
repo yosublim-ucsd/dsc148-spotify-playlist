@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-351 songs - 13 hr 57 min
+352 songs - 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [Footprints](https://open.spotify.com/track/3dxvqhGVXEkzBkLUapY1eW) | [Maree Docia](https://open.spotify.com/artist/2UjQMEOzrwt2v4L3dNrcqe) | [We Were Legends](https://open.spotify.com/album/07uVGssx4qgJDsJAgepdsO) | 2:19 | 2022-07-05 | 2023-05-16 |
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-17 |  |
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-05-15 |  |
+| [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 | 2024-09-03 |  |
 | [Fårö](https://open.spotify.com/track/1eAIx6ZkhGBb20lkDABhy9) | [ODELIO](https://open.spotify.com/artist/69WozQ1x904JxonDiYM4ax) | [Fårö](https://open.spotify.com/album/1nsTkxa7rQtTCJQlwV4mfc) | 1:52 | 2023-05-15 | 2023-08-16 |
 | [Glimmer](https://open.spotify.com/track/2ya2p81qaEuynQAlohFm58) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Glimmer](https://open.spotify.com/album/1c7NcP2Owl3VHRieSjKBkf) | 2:40 | 2023-11-28 |  |
 | [Hammock](https://open.spotify.com/track/7LTVGmS15JBwO11pTS4ykt) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hammock](https://open.spotify.com/album/02duehzy4k0kc3iDwoLVkr) | 2:06 | 2023-05-15 |  |

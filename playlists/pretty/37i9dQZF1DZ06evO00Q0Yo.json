@@ -1,29 +1,13 @@
 {
   "description": "This is Flo Milli. The essential tracks, all in one playlist.",
-  "num_followers": 17732,
+  "num_followers": 17734,
   "original_name": "This Is Flo Milli",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACL2p46had3kKkWfAV0KUiu",
+  "snapshot_id": "ZtUAAAAAAACY/rv3YmzLUkU5CP3CuIjJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fine Ho, Stay",
-        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 125901,
-      "name": "Never Lose Me",
-      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 245959,
       "name": "Rodeo (Remix)",
       "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fine Ho, Stay",
+        "url": "https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 125901,
+      "name": "Never Lose Me",
+      "url": "https://open.spotify.com/track/2x2olWuWXpqjoeE4bO1NFS"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BGC",
-        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 156877,
-      "name": "BGC",
-      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Still Here, Ho ?",
         "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 138240,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/2u3hKhl5ltq0gbFo8ivsbB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BGC",
+        "url": "https://open.spotify.com/album/6Cc9Uzkovy0wEyUiazE5qR"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 156877,
+      "name": "BGC",
+      "url": "https://open.spotify.com/track/6j8rjIqqZkKnc0VzLjIN3J"
     },
     {
       "added_at": null,
@@ -687,6 +687,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "You Still Here, Ho ?",
+        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 147525,
+      "name": "Big Steppa",
+      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Snatched (Remix)",
         "url": "https://open.spotify.com/album/1FT1bJftmXeooNZqBUANZG"
       },
@@ -711,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Still Here, Ho ?",
-        "url": "https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A"
+        "name": "Chocolate Rain",
+        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
       },
       "artists": [
         {
@@ -720,9 +736,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 147525,
-      "name": "Big Steppa",
-      "url": "https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL"
+      "duration_ms": 162000,
+      "name": "Chocolate Rain",
+      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
     },
     {
       "added_at": null,
@@ -747,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chocolate Rain",
-        "url": "https://open.spotify.com/album/6JUUed8Ed1U8IYzLIiQvoL"
+        "name": "Nasty Dancer",
+        "url": "https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k"
       },
       "artists": [
         {
@@ -756,9 +772,9 @@
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Chocolate Rain",
-      "url": "https://open.spotify.com/track/4VtN4HDolfU0II9KOftqy4"
+      "duration_ms": 137931,
+      "name": "Nasty Dancer",
+      "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
     },
     {
       "added_at": null,
@@ -779,22 +795,6 @@
       "duration_ms": 181875,
       "name": "Expensive (feat. Flo Milli)",
       "url": "https://open.spotify.com/track/6J5arrQW3qOEccgueXbKn0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nasty Dancer",
-        "url": "https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k"
-      },
-      "artists": [
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
-        }
-      ],
-      "duration_ms": 137931,
-      "name": "Nasty Dancer",
-      "url": "https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3"
     },
     {
       "added_at": null,

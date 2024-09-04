@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 
 ### [This Is Bailey Zimmerman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22SbM4)
 
-> This is Bailey Zimmerman\. The essential tracks, all in one playlist.
+> This is: Bailey Zimmerman\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,456 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,480 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22SbM4.md) - [plain]
 | 19 | [Trainwreck](https://open.spotify.com/track/6uhtKcSdQMFpnX8Gj3QBxF) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:30 |
 | 20 | [From The Fall](https://open.spotify.com/track/1NYf23TIqL4hyIw8rppZ2S) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Leave The Light On](https://open.spotify.com/album/5FGZeAnAbmC0MJD597764o) | 3:48 |
 
-Snapshot ID: `ZtOugAAAAADx6f60ns2uFRRxKBOojSiy`
+Snapshot ID: `ZtUAAAAAAACBdnlnxM1mqbFAZ2mtDK1H`

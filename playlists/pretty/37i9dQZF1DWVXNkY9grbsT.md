@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,225 likes - 100 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,263 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 97 | [Perpetuum Mobile \- Civilistjävel! Dub](https://open.spotify.com/track/0TdghIglWF8RE2VDiQQo5A) | [Death and Vanilla](https://open.spotify.com/artist/7GSTcEvn1BkC3eucAlvBwt), [Civilistjävel!](https://open.spotify.com/artist/3MVZ2vxkDeDuTy3cGsDuQC) | [Reimagined by Civilistjävel!](https://open.spotify.com/album/4hflrVmJW7qo5U9o97TonK) | 8:15 |
 | 98 | [The Body Keeps Score](https://open.spotify.com/track/54xn0GmYF08I5Pi5rKMMEj) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Superposition](https://open.spotify.com/artist/7B74HjlZ4Kiy6oKndiiRqL) | [The Body Keeps Score / I Left My Juul in Monterey](https://open.spotify.com/album/0zC4RmPmdRzk3WyygOuFOt) | 3:27 |
 | 99 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
-| 100 | [Aun Cyc](https://open.spotify.com/track/6xOUTeROja1JmSpoiGLpl9) | [Pataphysical](https://open.spotify.com/artist/4K1gxhkzaKIv8prbKAIIGC) | [Periphera](https://open.spotify.com/album/2XajyrsNkVgdsR68pJBDUY) | 4:39 |
+| 100 | [Alabaster](https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3) | [Croatian Amor](https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig) | [Remember Rainbow Bridge](https://open.spotify.com/album/0eAoxDuk2B4dyyHlwPGOBy) | 3:59 |
 
 Snapshot ID: `Zn7JAwAAAAAeP8Vb9Zlq04WQmSojkpmv`

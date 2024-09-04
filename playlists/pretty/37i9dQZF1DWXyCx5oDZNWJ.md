@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 
 > <a href="spotify:artist:3CdsJ9u53uPu3dScKypLVv">Shkoon</a>'s favorite tracks\. Updated regularly\. Curated by Shkoon\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,654 likes - 67 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,668 likes - 67 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXyCx5oDZNWJ.md) - [plain]
 | 57 | [Offworld Colonies](https://open.spotify.com/track/1WAnp87TmhSjJ0NadMbXXJ) | [Paul Traeumer](https://open.spotify.com/artist/6QtYRtIKQPKhChX5ZKAD5C) | [Offworld](https://open.spotify.com/album/5JsPJMHpvFPI9JuI5eqxVh) | 5:26 |
 | 58 | [Earth](https://open.spotify.com/track/18Vds2ehiWC09W390vcptq) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Tripoli](https://open.spotify.com/artist/5kO8Lt8fTaDRmvwcmjDO46) | [Plutón](https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW) | 6:22 |
 | 59 | [Two Shine Brighter](https://open.spotify.com/track/77YGSekMJbG5sA3nezxdmb) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Childish EP](https://open.spotify.com/album/3d65ZR2vntfRh0EY3eSMKI) | 6:06 |
-| 60 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
+| 60 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 61 | [Mabruk](https://open.spotify.com/track/3WqB1v1NRjsK7x1yKutS4S) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm) | [From Nubia to Cairo](https://open.spotify.com/album/3a1dswo4gx3RMO431Qe8w7) | 6:32 |
 | 62 | [La Hafla](https://open.spotify.com/track/4S9TTIC637gscv055ziGLw) | [Acid Arab](https://open.spotify.com/artist/3ShO8tPKqXUUpOA0urOWW7) | [Musique de France](https://open.spotify.com/album/3ho19qOS0JKvWuxM7bFWOd) | 4:08 |
 | 63 | [Wana](https://open.spotify.com/track/0tEEnyy6nvFDIwcfyplx6s) | [TAXI KEBAB](https://open.spotify.com/artist/47sKkybVg9NVz7IWvTezzy) | [Wana](https://open.spotify.com/album/4wza4j0KRwsTHtAk96gcY5) | 5:01 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 ### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This Is Megan Thee Stallion\. Los temas esenciales, todos en una lista.
+> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,897 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,979 likes - 46 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 45 | [Stalli \(Freestyle\)](https://open.spotify.com/track/7nIpGpMm3gSnL3QTrMisH7) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Stalli \(Freestyle\)](https://open.spotify.com/album/4qvqT3mL1uJrp0EITbaMb7) | 1:56 |
 | 46 | [Freak Nasty](https://open.spotify.com/track/4rd4bY5IzC4AN6NdgYGtWD) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 2:53 |
 
-Snapshot ID: `ZtOugAAAAABUIqC/KmLjw+ECsPgPYQ1m`
+Snapshot ID: `ZtUAAAAAAADO7SCYgULuEjG1ZWt9SI4F`

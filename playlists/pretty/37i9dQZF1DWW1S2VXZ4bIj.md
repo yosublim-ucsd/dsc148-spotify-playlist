@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: NONT TANONT
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,387 likes - 99 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,464 likes - 99 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

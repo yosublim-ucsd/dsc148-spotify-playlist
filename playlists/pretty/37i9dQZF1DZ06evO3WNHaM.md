@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 
 ### [This Is Deftones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WNHaM)
 
-> This Is Deftones\. Los temas esenciales, todos en una lista.
+> This is Deftones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,153 likes - 53 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,379 likes - 53 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3WNHaM.md) - [plain]
 | 52 | [Radiant City](https://open.spotify.com/track/33Mdiqg5G8TNeaKQHntgyU) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 3:35 |
 | 53 | [Battle\-axe](https://open.spotify.com/track/2ouqll9zsD2cjcGUfgtInW) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 5:01 |
 
-Snapshot ID: `ZtOugAAAAACoGqJWcrm6/l9nB4mAogfv`
+Snapshot ID: `ZtUAAAAAAAAVHl25olqDoHcWmeeAjevq`

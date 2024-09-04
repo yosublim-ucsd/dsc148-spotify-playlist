@@ -1,12 +1,12 @@
 {
   "description": "This is Sum 41. The essential tracks, all in one playlist.",
-  "num_followers": 198839,
+  "num_followers": 198873,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADqS4EkxZ32Nc4mdsVhxECI",
+  "snapshot_id": "ZtUAAAAAAADJPM7sfMoa5LBeFz2F5YDW",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 204626,
-      "name": "Screaming Bloody Murder",
-      "url": "https://open.spotify.com/track/1zqAXXA12UEVS7iDmAVeay"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chuck",
         "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 231000,
       "name": "Noots",
       "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 204626,
+      "name": "Screaming Bloody Murder",
+      "url": "https://open.spotify.com/track/1zqAXXA12UEVS7iDmAVeay"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 238693,
+      "name": "Speak Of The Devil",
+      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Skull Ring",
         "url": "https://open.spotify.com/album/4y0DpbIDRVqf8MPGs1pvBu"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 213373,
       "name": "Little Know It All",
       "url": "https://open.spotify.com/track/27BATZe36zHNAKfr7by2ob"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 238693,
-      "name": "Speak Of The Devil",
-      "url": "https://open.spotify.com/track/3zdg1IMqKog1YNRpTjKDOB"
     },
     {
       "added_at": null,

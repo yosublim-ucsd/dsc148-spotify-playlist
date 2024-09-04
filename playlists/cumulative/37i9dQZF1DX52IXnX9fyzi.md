@@ -4,7 +4,7 @@
 
 > Piano music to accompany and inspire your writing.
 
-492 songs - 21 hr 18 min
+493 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Fratelli](https://open.spotify.com/track/0ptKkh5g9jnbLnNQjbpBTs) | [Pontus De Bjorn](https://open.spotify.com/artist/0CqDF46d81NfjoRM74rPtl) | [Fratelli](https://open.spotify.com/album/24K76zbkZFeNYrF4rdMUmr) | 2:07 | 2022-04-14 | 2022-10-27 |
 | [Freddie's Theme](https://open.spotify.com/track/2oBPx5k5ejQcgzyDMoRlAU) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Freddie's Theme](https://open.spotify.com/album/7zJCUf2zTgutPRpweGoQiS) | 2:15 | 2022-04-14 | 2022-05-27 |
 | [Free Ground](https://open.spotify.com/track/7q8qkfqoWf64gZPU1vm0LT) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Free Ground](https://open.spotify.com/album/7cREA26xmC6RgT0yTYeJPZ) | 2:43 | 2022-04-14 | 2023-05-10 |
+| [From the Window](https://open.spotify.com/track/5VTpbaOoBcayvUxmI7IGug) | [Gia](https://open.spotify.com/artist/2EF6KwiVbFHUsL53LQ2y4R) | [From the Window](https://open.spotify.com/album/3rq8yzc28vT3W4FmHzNBUf) | 2:32 | 2024-09-03 |  |
 | [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 | 2024-05-07 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-04-14 | 2022-05-05 |
 | [Fýsi](https://open.spotify.com/track/0zYyu43x5caXk8EbIVGdqU) | [Thalis](https://open.spotify.com/artist/7yHGLV2Dy9w1FYG6RqTzp7) | [Fýsi](https://open.spotify.com/album/12ccCzAaV8mc4V8heoPnw1) | 2:18 | 2022-05-13 |  |
@@ -316,7 +317,7 @@
 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-02-07 |  |
 | [Particles](https://open.spotify.com/track/30eikMQkwP7jtD5SnYCBbB) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Particles](https://open.spotify.com/album/2hkdSb3Av1Z1JP67nKZpxX) | 2:39 | 2024-07-23 |  |
 | [Paseo](https://open.spotify.com/track/3z34o6Tz0nEHd6rPjIcyTN) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Paseo](https://open.spotify.com/album/11v1XsFDWHyGfF8FKizm6P) | 2:22 | 2023-09-18 |  |
-| [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-04-14 |  |
+| [Peaceful Rebellion](https://open.spotify.com/track/55as6jfARR6xn5g0ZxChCA) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Peaceful Rebellion](https://open.spotify.com/album/57Pg8ejZM8WiXzduIW1SXI) | 2:19 | 2022-04-14 | 2024-09-04 |
 | [Peregrine](https://open.spotify.com/track/6ru4oHaeosmzYwl3ZQ4FOy) | [Stella Acorsi](https://open.spotify.com/artist/5cOxvGawKcmi9tVZ1CgYDc) | [Peregrine](https://open.spotify.com/album/52YTCEVKNlvcSpjkg4eE1Z) | 2:21 | 2022-06-07 | 2024-02-15 |
 | [Places](https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Places](https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI) | 2:34 | 2022-04-14 | 2024-04-04 |
 | [Possibility](https://open.spotify.com/track/09nOi0lagkDCqWC99TRpWL) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [By The Hour](https://open.spotify.com/album/5wdvYv8r6AgU6fNSnBXHYd) | 2:17 | 2022-05-04 |  |

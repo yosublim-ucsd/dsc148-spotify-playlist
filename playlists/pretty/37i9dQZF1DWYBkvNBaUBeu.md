@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: LE SSERAFIM
 
-[Spotify](https://open.spotify.com/user/spotify) - 196,891 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,923 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

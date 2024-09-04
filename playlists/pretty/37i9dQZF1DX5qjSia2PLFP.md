@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > They got next\. Cover: <a href="spotify:artist:2MEiPjmRDl1ftTEaBD3B7D">Raq Baby</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,788 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,884 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

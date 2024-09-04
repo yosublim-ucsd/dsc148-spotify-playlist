@@ -6123,6 +6123,28 @@
     },
     {
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+    },
+    {
+      "album": {
         "name": "The Car",
         "url": "https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs"
       },
@@ -6796,7 +6818,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
@@ -10466,7 +10488,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171193,
       "name": "Dejame Pensar - Remix Intro",
       "url": "https://open.spotify.com/track/4BovCcDdsln8G7yCUczeOn"
@@ -11388,6 +11410,28 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "album": {
@@ -12472,7 +12516,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-23",
+      "date_removed": null,
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -12620,6 +12664,24 @@
       "duration_ms": 105693,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/0Q8uS8c6cXBO03cyQcv3Xn"
+    },
+    {
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135546,
+      "name": "El Guat\u00f3n Loyola",
+      "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
     },
     {
       "album": {
@@ -15527,6 +15589,28 @@
     },
     {
       "album": {
+        "name": "HABLANDO DE TI",
+        "url": "https://open.spotify.com/album/6rnqGuJHKPtXBDDuT9zTIf"
+      },
+      "artists": [
+        {
+          "name": "FaceBrooklyn",
+          "url": "https://open.spotify.com/artist/0HGYhpDqId26b8YElUubo8"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "FREDDY",
+      "url": "https://open.spotify.com/track/4U9pgstVucKqljsAyj6oje"
+    },
+    {
+      "album": {
         "name": "FREEBARS #2",
         "url": "https://open.spotify.com/album/4SXUD1V42E0BO1UjkGBwHn"
       },
@@ -16644,7 +16728,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 284878,
       "name": "GLIZZY GVNGSTER (feat. Slayter, SOMBRA PR & Ele d)",
       "url": "https://open.spotify.com/track/4RRZW1jOVHmualiLCQKghJ"
@@ -18688,7 +18772,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 157146,
       "name": "I Love You, I'm Sorry",
       "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
@@ -19772,7 +19856,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 195109,
       "name": "Juna",
       "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
@@ -20252,7 +20336,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 247840,
       "name": "Kyoto",
       "url": "https://open.spotify.com/track/7eNwwoxDR8KVzNAuGvliAO"
@@ -22048,6 +22132,24 @@
       "duration_ms": 178960,
       "name": "Lithonia",
       "url": "https://open.spotify.com/track/3uC4r2daXertBxxc8BpbbN"
+    },
+    {
+      "album": {
+        "name": "Definitely Maybe",
+        "url": "https://open.spotify.com/album/5zfhhKXHK0YQdvacCs1ErM"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276866,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
     },
     {
       "album": {
@@ -26269,6 +26371,28 @@
     },
     {
       "album": {
+        "name": "misteriosa (xulinho)",
+        "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "CJota",
+          "url": "https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "misteriosa (xulinho)",
+      "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
+    },
+    {
+      "album": {
         "name": "Miti Miti",
         "url": "https://open.spotify.com/album/4bkZm5iXxACsrjw8xFPOKM"
       },
@@ -27379,6 +27503,28 @@
     },
     {
       "album": {
+        "name": "M\u00e1s Risa Menos Pena <3",
+        "url": "https://open.spotify.com/album/1O1iaFKaiJK7CYw4ECRjd9"
+      },
+      "artists": [
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182039,
+      "name": "M\u00e1s Risa Menos Pena <3",
+      "url": "https://open.spotify.com/track/6C8J7tzAowu429wel8oxTE"
+    },
+    {
+      "album": {
         "name": "M\u00edrame",
         "url": "https://open.spotify.com/album/0zsSzjFE9niFBrawKhZmYH"
       },
@@ -27802,6 +27948,28 @@
       "duration_ms": 108986,
       "name": "New Jeans",
       "url": "https://open.spotify.com/track/6rdkCkjk6D12xRpdMXy0I2"
+    },
+    {
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "album": {
@@ -28386,7 +28554,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 246400,
       "name": "NO SUFRIRE POR NADIE (version urbana)",
       "url": "https://open.spotify.com/track/7BPHiBdGnMWZNbPNisJ19B"
@@ -30798,7 +30966,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 150902,
       "name": "para siempre(\uff61>\ufe4f<)",
       "url": "https://open.spotify.com/track/33BJHPx4bGPiHlE5Xo0x8K"
@@ -32350,7 +32518,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -41558,7 +41726,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 121200,
       "name": "TU TA RICA",
       "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
@@ -43045,6 +43213,24 @@
     },
     {
       "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
@@ -43558,6 +43744,24 @@
       "duration_ms": 180476,
       "name": "Visto",
       "url": "https://open.spotify.com/track/77dnbVCFQJSvQN7RDgtAaw"
+    },
+    {
+      "album": {
+        "name": "Su Majestad La Cueca - Volumen 2",
+        "url": "https://open.spotify.com/album/7Eo5UjozwNVXP6V0tJhTgz"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Graneros",
+          "url": "https://open.spotify.com/artist/5OloSHg3TjTOocxybYkw37"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102122,
+      "name": "Viva Chile, Viva Chile",
+      "url": "https://open.spotify.com/track/4qYkYELTxSmwsFkeVSDsei"
     },
     {
       "album": {
@@ -44544,7 +44748,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

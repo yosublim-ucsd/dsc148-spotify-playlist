@@ -1,12 +1,12 @@
 {
   "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 169003,
+  "num_followers": 169005,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABeHSuv96AMKO8Pp0EK+Lxf",
+  "snapshot_id": "ZtUAAAAAAADUKE2s2EamYtYZdI5FozOB",
   "tracks": [
     {
       "added_at": null,
@@ -295,26 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LAS QUE NO IBAN A SALIR",
-        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 209180,
-      "name": "CANCI\u00d3N CON YANDEL",
-      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) [Remix]",
         "url": "https://open.spotify.com/album/4BQBdbRNXOJAV580HH1mr2"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 395666,
       "name": "Expl\u00edcale (feat. Cosculluela & Brytiago) - Remix",
       "url": "https://open.spotify.com/track/65n40RsQ9SObH7hNvVTHp0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LAS QUE NO IBAN A SALIR",
+        "url": "https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 209180,
+      "name": "CANCI\u00d3N CON YANDEL",
+      "url": "https://open.spotify.com/track/3pm4XtcsRIFFtH2UErk62R"
     },
     {
       "added_at": null,
@@ -427,26 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "Sigo Enamorau'",
-      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FELIZ CUMPLEA\u00d1OS FERXXO TE PIRATEAMOS EL \u00c1LBUM",
         "url": "https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9"
       },
@@ -463,6 +443,26 @@
       "duration_ms": 218693,
       "name": "XQ Te Pones As\u00ed",
       "url": "https://open.spotify.com/track/6JUMswocQ7Hp46kj9kyljT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 194941,
+      "name": "Sigo Enamorau'",
+      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
     },
     {
       "added_at": null,
@@ -747,30 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GANGSTER (PQFNEDG)",
         "url": "https://open.spotify.com/album/1q4RVq8faHbRP2v1OnoRxl"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 215470,
       "name": "GANGSTER (PQFNEDG)",
       "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saliendo del Planeta",
-        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
-      },
-      "artists": [
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "CORLEONE",
-      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Resistencia",
         "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 287080,
       "name": "Pierdo la Cabeza - Remix",
       "url": "https://open.spotify.com/track/7dnOGJWp5Mspq4drP0oaxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Saliendo del Planeta",
+        "url": "https://open.spotify.com/album/0ct1nMrWBi5B93RKXAZJEf"
+      },
+      "artists": [
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "CORLEONE",
+      "url": "https://open.spotify.com/track/4XCIp44SX79A7spTo4O40y"
     },
     {
       "added_at": null,

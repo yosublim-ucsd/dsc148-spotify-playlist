@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: Romance in the House\(가족X멜로\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
+> Hot & new K\-Drama OSTs are here! \(Cover: Cinderella at 2AM\(새벽 2시의 신데렐라\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\)
 
 905 songs - 2 day 7 hr 0 min
 

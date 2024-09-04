@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Switzerland's biggest hits right now. Cover: MoBlack, Salif Keita, Benja (NL), Frank Fala",
+  "description": "Switzerland's biggest hits right now. Cover: Sevdaliza, Pabllo Vittar, Yseult",
   "name": "Hot Hits Switzerland",
   "tracks": [
     {
@@ -122,7 +122,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -325,6 +325,28 @@
     },
     {
       "album": {
+        "name": "Bolide Noir",
+        "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "JRK 19",
+          "url": "https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170800,
+      "name": "Bolide Noir",
+      "url": "https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE"
+    },
+    {
+      "album": {
         "name": "Carry You Home",
         "url": "https://open.spotify.com/album/42eRSINaWEzBXj7aqTB2cu"
       },
@@ -478,7 +500,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129522,
       "name": "Fall Back",
       "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
@@ -719,6 +741,24 @@
     },
     {
       "album": {
+        "name": "The Secret of Us",
+        "url": "https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157146,
+      "name": "I Love You, I'm Sorry",
+      "url": "https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6"
       },
@@ -844,6 +884,32 @@
       "duration_ms": 207431,
       "name": "Malli",
       "url": "https://open.spotify.com/track/4jOcL6LbpfMF68rEVFZtPI"
+    },
+    {
+      "album": {
+        "name": "MANON B",
+        "url": "https://open.spotify.com/album/4kaRXOJNgAAa3Odl6ojLBf"
+      },
+      "artists": [
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        },
+        {
+          "name": "Ryflo",
+          "url": "https://open.spotify.com/artist/4acowSAiQXmdhs4DCgUQ0U"
+        },
+        {
+          "name": "Oskoow",
+          "url": "https://open.spotify.com/artist/1eXXCUkwhu0MRLTamWEgXE"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169846,
+      "name": "MANON B",
+      "url": "https://open.spotify.com/track/2PYlRGF5Wi5sDobsLH5gLX"
     },
     {
       "album": {
@@ -994,7 +1060,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 172075,
       "name": "NO LOVE",
       "url": "https://open.spotify.com/track/0FhvBb6Ye7j48tiLiuFvGF"

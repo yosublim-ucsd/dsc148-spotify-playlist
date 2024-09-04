@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
-  "num_followers": 47532,
+  "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
+  "num_followers": 47550,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABYkuPzBkazhpxJIVW9W/Vn",
+  "snapshot_id": "ZtUAAAAAAADxpLPN0usmbUcU1pac70V5",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Due\u00f1o",
-        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 183941,
-      "name": "Ten\u00eda Due\u00f1o",
-      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Mis Rancheras Consentidas",
+        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 195600,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Rancheras Consentidas",
-        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
+        "name": "Ten\u00eda Due\u00f1o",
+        "url": "https://open.spotify.com/album/5mXBG1ENFkwJjklKbFQKrk"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 195600,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
+      "duration_ms": 183941,
+      "name": "Ten\u00eda Due\u00f1o",
+      "url": "https://open.spotify.com/track/6nZZB9Q0NDUliyOsa9BKEU"
     },
     {
       "added_at": null,
@@ -563,8 +563,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi M\u00e9xico Para El Mundo",
-        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
+        "name": "Apasionado (Remasterizado 2021)",
+        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
       "artists": [
         {
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 171426,
-      "name": "Porque Eres Mi Reina (Mariachi)",
-      "url": "https://open.spotify.com/track/2xaQrRwSJj77U7D5Kl7E2g"
+      "duration_ms": 192120,
+      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
+      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
     },
     {
       "added_at": null,
@@ -595,8 +595,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Apasionado (Remasterizado 2021)",
-        "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
+        "name": "Mi M\u00e9xico Para El Mundo",
+        "url": "https://open.spotify.com/album/23r76axU3JSU045PYMWqIq"
       },
       "artists": [
         {
@@ -604,9 +604,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 192120,
-      "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
-      "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+      "duration_ms": 171426,
+      "name": "Porque Eres Mi Reina (Mariachi)",
+      "url": "https://open.spotify.com/track/2xaQrRwSJj77U7D5Kl7E2g"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mayor de Edad",
+        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        },
+        {
+          "name": "Frank Velasquez",
+          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
+        }
+      ],
+      "duration_ms": 191796,
+      "name": "Le Dire Que Me Gusta",
+      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 186746,
       "name": "Contigo Me Gusta",
       "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mayor de Edad",
-        "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        },
-        {
-          "name": "Frank Velasquez",
-          "url": "https://open.spotify.com/artist/63QGsk6k2QujcYZH5kxNbq"
-        }
-      ],
-      "duration_ms": 191796,
-      "name": "Le Dire Que Me Gusta",
-      "url": "https://open.spotify.com/track/58I4vJ6hFJHk4PMh0zFliq"
     },
     {
       "added_at": null,

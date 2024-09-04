@@ -1,13 +1,185 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 03 Sep 22:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 04 Sep 22:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAK7OMXiHOC8qp6BAE+5h/9mVsEi1yT",
+  "snapshot_id": "AAAK9Et/E8bp3kt32cuxwq/HWEOppgW7",
   "tracks": [
+    {
+      "added_at": "2024-09-03 22:03:13",
+      "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 196960,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
+    },
+    {
+      "added_at": "2024-09-03 22:03:13",
+      "album": {
+        "name": "SilverCane",
+        "url": "https://open.spotify.com/album/0lZHCPsxNUJXufdgHixK7j"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 242194,
+      "name": "SilverCane",
+      "url": "https://open.spotify.com/track/4eg3NfOyPtV6OH7DLg95ZR"
+    },
+    {
+      "added_at": "2024-09-03 04:04:08",
+      "album": {
+        "name": "Karen",
+        "url": "https://open.spotify.com/album/3HMGg9ticBXA3gKsy1SJYs"
+      },
+      "artists": [
+        {
+          "name": "Rejjie Snow",
+          "url": "https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt"
+        }
+      ],
+      "duration_ms": 150133,
+      "name": "Karen",
+      "url": "https://open.spotify.com/track/5YY9pYGtbcw7nIwDDmAt7I"
+    },
+    {
+      "added_at": "2024-09-03 22:03:13",
+      "album": {
+        "name": "Here Today",
+        "url": "https://open.spotify.com/album/5VCrEEZnhlnwwREQiDjQip"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Here Today",
+      "url": "https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7"
+    },
+    {
+      "added_at": "2024-09-03 04:04:08",
+      "album": {
+        "name": "I Walk",
+        "url": "https://open.spotify.com/album/6q0bqFxDT60yWfMrodtaNs"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 306173,
+      "name": "I Walk",
+      "url": "https://open.spotify.com/track/46ONmMQctmk94OljcgE5kP"
+    },
+    {
+      "added_at": "2024-09-03 22:03:13",
+      "album": {
+        "name": "CPU",
+        "url": "https://open.spotify.com/album/5OTsMu3WWQMNMzWJHZYPeu"
+      },
+      "artists": [
+        {
+          "name": "MASTER BOOT RECORD",
+          "url": "https://open.spotify.com/artist/77s5NAGQbxu8oLstaqSwHE"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "CPU",
+      "url": "https://open.spotify.com/track/1OXORNmklNNEuJgyNHRfRZ"
+    },
+    {
+      "added_at": "2024-09-03 04:04:08",
+      "album": {
+        "name": "Aberrant Waltz",
+        "url": "https://open.spotify.com/album/0uqaBDAaATDSPSj6fpGM7t"
+      },
+      "artists": [
+        {
+          "name": "Disembodied Tyrant",
+          "url": "https://open.spotify.com/artist/6Mik5bw5uqwmpwjvc5PGYk"
+        }
+      ],
+      "duration_ms": 299025,
+      "name": "Aberrant Waltz",
+      "url": "https://open.spotify.com/track/0v41dZfwAWwduLkKlDNbbX"
+    },
+    {
+      "added_at": "2024-09-03 16:03:04",
+      "album": {
+        "name": "Cannibals",
+        "url": "https://open.spotify.com/album/426nVp8Z4KDDTqG6gSmonA"
+      },
+      "artists": [
+        {
+          "name": "Karate",
+          "url": "https://open.spotify.com/artist/6U26vGPwnCQcNDr9Dpj0Y0"
+        }
+      ],
+      "duration_ms": 144928,
+      "name": "Cannibals",
+      "url": "https://open.spotify.com/track/5txTS9Of0heZutRxZUhOWx"
+    },
+    {
+      "added_at": "2024-09-03 04:04:08",
+      "album": {
+        "name": "Swervin in a Benz !",
+        "url": "https://open.spotify.com/album/0WKX0Wo7NTAupNcdfHs03c"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        },
+        {
+          "name": "irichan!",
+          "url": "https://open.spotify.com/artist/0hk7xvuMOqeUb0MWDkWwH6"
+        },
+        {
+          "name": "SlowMilkAndCookies",
+          "url": "https://open.spotify.com/artist/3heh3jLIHe14TcJ244NMJX"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Swervin in a Benz !",
+      "url": "https://open.spotify.com/track/3V87QjFOYpzSYJpD9Kzeaf"
+    },
+    {
+      "added_at": "2024-09-03 10:03:28",
+      "album": {
+        "name": "MORAL DEATH SENTENCE",
+        "url": "https://open.spotify.com/album/2rLzTSEc5n5tpHdgZ5rb9r"
+      },
+      "artists": [
+        {
+          "name": "Regional Justice Center",
+          "url": "https://open.spotify.com/artist/2jsi0W3bFzL0ITqKU4gVE2"
+        }
+      ],
+      "duration_ms": 74077,
+      "name": "MORAL DEATH SENTENCE",
+      "url": "https://open.spotify.com/track/7B3KeKnFNOu95tjmaUjpJu"
+    },
     {
       "added_at": "2024-09-02 16:03:48",
       "album": {
@@ -147,6 +319,22 @@
       "duration_ms": 153650,
       "name": "Zp\u00ed\u010denec",
       "url": "https://open.spotify.com/track/6s6ZXtqG43eZwAnTw5vW4j"
+    },
+    {
+      "added_at": "2024-09-03 10:03:28",
+      "album": {
+        "name": "go home",
+        "url": "https://open.spotify.com/album/7DXfwzyOTrSqAkEFoly4bv"
+      },
+      "artists": [
+        {
+          "name": "h!tex",
+          "url": "https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS"
+        }
+      ],
+      "duration_ms": 120269,
+      "name": "go home",
+      "url": "https://open.spotify.com/track/5S4JHubPsfj5x5SmVFQFgA"
     },
     {
       "added_at": "2024-09-01 04:02:47",
@@ -675,194 +863,6 @@
       "duration_ms": 224640,
       "name": "Bending My Rules",
       "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "cloud 11",
-        "url": "https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 153142,
-      "name": "cloud 11",
-      "url": "https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU"
-      },
-      "artists": [
-        {
-          "name": "Halle",
-          "url": "https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx"
-        }
-      ],
-      "duration_ms": 211739,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Javelin",
-      "url": "https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "GOD LEVEL",
-        "url": "https://open.spotify.com/album/4m7EvGWRtPbnJvbwgOfbuH"
-      },
-      "artists": [
-        {
-          "name": "DC The Don",
-          "url": "https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "GOD LEVEL",
-      "url": "https://open.spotify.com/track/11VVyQon40HQu03a0arxlT"
-    },
-    {
-      "added_at": "2024-08-30 10:03:00",
-      "album": {
-        "name": "Oh I",
-        "url": "https://open.spotify.com/album/3Na8m2k5Xz4PZkA4l5FoBz"
-      },
-      "artists": [
-        {
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "duration_ms": 237289,
-      "name": "Oh I",
-      "url": "https://open.spotify.com/track/6lgpP2tQ8zyVHZTNUKJk1q"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "Falling Asleep",
-        "url": "https://open.spotify.com/album/1IKsGCY0XvNW3RG3V24Lki"
-      },
-      "artists": [
-        {
-          "name": "St. Lucia",
-          "url": "https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu"
-        }
-      ],
-      "duration_ms": 297981,
-      "name": "Falling Asleep",
-      "url": "https://open.spotify.com/track/78FyoS1Nr32K6RaYJPyhgV"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj"
-      },
-      "artists": [
-        {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
-        }
-      ],
-      "duration_ms": 156529,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
-    },
-    {
-      "added_at": "2024-08-31 10:02:10",
-      "album": {
-        "name": "Dead On Arrival",
-        "url": "https://open.spotify.com/album/6MfmqcksdMWuQBeQHGhAXl"
-      },
-      "artists": [
-        {
-          "name": "GRAHAM",
-          "url": "https://open.spotify.com/artist/662lI9CXPZ0a6ou4CkLr0G"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Dead On Arrival",
-      "url": "https://open.spotify.com/track/65GIGXXf8l9UNnAwcjx823"
-    },
-    {
-      "added_at": "2024-08-30 04:03:47",
-      "album": {
-        "name": "Life Is Good",
-        "url": "https://open.spotify.com/album/7H7wjYLW3WRS06T22AwZwP"
-      },
-      "artists": [
-        {
-          "name": "Transviolet",
-          "url": "https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i"
-        }
-      ],
-      "duration_ms": 174906,
-      "name": "Life Is Good",
-      "url": "https://open.spotify.com/track/2Bf3YFKNl0w3nwkwPhHDW2"
-    },
-    {
-      "added_at": "2024-08-30 10:03:00",
-      "album": {
-        "name": "Green Haired Girl",
-        "url": "https://open.spotify.com/album/48qvkyUISWY0cmEAKNfc4o"
-      },
-      "artists": [
-        {
-          "name": "41",
-          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
-        },
-        {
-          "name": "TaTa",
-          "url": "https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41"
-        },
-        {
-          "name": "Jenn Carter",
-          "url": "https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM"
-        },
-        {
-          "name": "Dee Billz",
-          "url": "https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Green Haired Girl (with TaTa, Jenn Carter & Dee Billz)",
-      "url": "https://open.spotify.com/track/0wpQV02A8XpvvESSqtnbWu"
-    },
-    {
-      "added_at": "2024-08-30 10:03:00",
-      "album": {
-        "name": "Flying The Black Flag",
-        "url": "https://open.spotify.com/album/4AggZ8AOoJJHMxOHjYYeKf"
-      },
-      "artists": [
-        {
-          "name": "Shadow of Intent",
-          "url": "https://open.spotify.com/artist/76xrrejizyQpKukBIhnf3D"
-        }
-      ],
-      "duration_ms": 237023,
-      "name": "Flying The Black Flag",
-      "url": "https://open.spotify.com/track/3KxOFKWjlZOSENYIFDF9wy"
     }
   ],
   "unique_name": "New Singles Now",

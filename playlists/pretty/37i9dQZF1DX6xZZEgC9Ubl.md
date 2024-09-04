@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 
 > Emo feels for the misunderstood\. Cover: mgk & Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,600,587 likes - 150 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,717 likes - 150 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xZZEgC9Ubl.md) - [plain]
 | 103 | [Same Room](https://open.spotify.com/track/6cUwBCnf5yiBkUwExpcni2) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Same Room](https://open.spotify.com/album/5YkVPpSWxikAxEn48uU6Mp) | 3:22 |
 | 104 | [Dial Tone](https://open.spotify.com/track/2mIGK5ayzgKEjNvGKweeSR) | [6host](https://open.spotify.com/artist/5GP0ySZUhhFtH62pKtZJox) | [Dial Tone](https://open.spotify.com/album/009Aq8zqUelp55YBXvSu12) | 2:57 |
 | 105 | [don julio](https://open.spotify.com/track/3zkEWt9iXhXypwzw4kZOo3) | [Henry Verus](https://open.spotify.com/artist/6H79VfD8FjtzQHYdVwZ3I4) | [don julio](https://open.spotify.com/album/3zAKt8sfKGjJyo0pbYT1Dx) | 2:55 |
-| 106 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 |
+| 106 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt), [Watchmen Pro](https://open.spotify.com/artist/1U9ynOVbcth6s4fzInM285) | [Ghostrider](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 |
 | 107 | [wdym?](https://open.spotify.com/track/1iMsmdz6NFv30BfFn6H8cE) | [Razegod](https://open.spotify.com/artist/0sBbpqhrb9FInmsDSjpCau), [MinimumWade](https://open.spotify.com/artist/5tWiEejDM9WKiai4CkHFNm) | [wdym?](https://open.spotify.com/album/0YBi25ivXul0BBLjT2iQrC) | 3:15 |
 | 108 | [fml](https://open.spotify.com/track/0r8WywH5D8rL7mxhMyHzN1) | [Unodavid](https://open.spotify.com/artist/3mpOt39mUD754Q7aZ725KH) | [fml](https://open.spotify.com/album/0on4W1TsvgcYzaxwKQRxi5) | 2:43 |
 | 109 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 |

@@ -1,6 +1,6 @@
 {
   "description": "Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 205397,
+  "num_followers": 205388,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Christmas Through Your Eyes",
-        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Arbolito de Navidad",
-      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Feliz Christmas (Vol.1)",
         "url": "https://open.spotify.com/album/2Z3UcWtQd6WSEudALv1IJW"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 191333,
       "name": "Let It Snow",
       "url": "https://open.spotify.com/track/2o9Gsb0lejeTmJ06F2R5hh"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Christmas Through Your Eyes",
+        "url": "https://open.spotify.com/album/6E6TrU7oUDqYXgpkyOJYnf"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Arbolito de Navidad",
+      "url": "https://open.spotify.com/track/4GUkYV8IMQiEsliScEZ0jf"
     },
     {
       "added_at": "2023-12-20 18:10:37",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-20 18:10:37",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
-      },
-      "artists": [
-        {
-          "name": "Parchis",
-          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
-        }
-      ],
-      "duration_ms": 133000,
-      "name": "Ya Viene la Vieja",
-      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
-    },
-    {
-      "added_at": "2023-12-20 18:10:37",
-      "album": {
         "name": "Sweet Christmas Ukulele & Jazz",
         "url": "https://open.spotify.com/album/0GKnPhTHDcxSmIsnAC5wzi"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 253424,
       "name": "Te Deseo Muy Felices Fiestas",
       "url": "https://open.spotify.com/track/7k14Hgdg2U6nM5cF2QtQYE"
+    },
+    {
+      "added_at": "2023-12-20 18:10:37",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/20bHfo0I3RXOt41LXqHzPE"
+      },
+      "artists": [
+        {
+          "name": "Parchis",
+          "url": "https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6"
+        }
+      ],
+      "duration_ms": 133000,
+      "name": "Ya Viene la Vieja",
+      "url": "https://open.spotify.com/track/37RZwbb0lxK7oPWs7YZopX"
     },
     {
       "added_at": "2023-12-20 18:10:37",

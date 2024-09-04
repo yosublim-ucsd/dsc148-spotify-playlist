@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Lo mejor de agosto 2024. Cover: Leanys",
+  "description": "Lo mejor de septiembre 2024. Cover: Tito Double P",
   "name": "Lo mejor del mes",
   "tracks": [
     {
@@ -2787,6 +2787,28 @@
     },
     {
       "album": {
+        "name": "CARITA TRISTE",
+        "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175296,
+      "name": "CARITA TRISTE",
+      "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
+    },
+    {
+      "album": {
         "name": "Carretera y manta",
         "url": "https://open.spotify.com/album/3DlIRvWPWudQaYZOclzabT"
       },
@@ -3093,6 +3115,28 @@
     },
     {
       "album": {
+        "name": "Cielo Eterno - Spotify Singles",
+        "url": "https://open.spotify.com/album/2t1sBdEdduEEpw4fQo4mme"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244245,
+      "name": "Cielo Eterno - Spotify Singles",
+      "url": "https://open.spotify.com/track/2kbVIAXEqZybRPxLUvqx0q"
+    },
+    {
+      "album": {
         "name": "cielo violeta",
         "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
       },
@@ -3108,6 +3152,24 @@
       "duration_ms": 160000,
       "name": "cielo violeta",
       "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "album": {
+        "name": "durmiendo con la luz prendida",
+        "url": "https://open.spotify.com/album/7kyXGS8FVbNDbX9ijc7y8B"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/1m2sKm6i2WIAvWxRrqunWt"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177629,
+      "name": "Ciudades Gemelas",
+      "url": "https://open.spotify.com/track/3DuYff17xmHhGJjY8G8lYU"
     },
     {
       "album": {
@@ -5040,7 +5102,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 151384,
       "name": "Dubai",
       "url": "https://open.spotify.com/track/07m8zrY54KfKT1siLhqxAz"
@@ -9034,7 +9096,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 203389,
       "name": "La Piscina",
       "url": "https://open.spotify.com/track/62T4aq95ad7tN8iKe2gyE6"
@@ -9620,7 +9682,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 165248,
       "name": "LIV - Spotify Singles",
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
@@ -10893,6 +10955,24 @@
     },
     {
       "album": {
+        "name": "Media Hora",
+        "url": "https://open.spotify.com/album/3FcVOuO9zj6o3Pu8JqAfSg"
+      },
+      "artists": [
+        {
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123157,
+      "name": "Media Hora",
+      "url": "https://open.spotify.com/track/6JDf3oDiHpOaWAw7a0GgA5"
+    },
+    {
+      "album": {
         "name": "Medio Crazy Remix",
         "url": "https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV"
       },
@@ -11400,7 +11480,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 216426,
       "name": "mil procedimientos",
       "url": "https://open.spotify.com/track/3GbGWkO0fqOGKvDGQle35s"
@@ -11644,7 +11724,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 150640,
       "name": "Muevelo Paca",
       "url": "https://open.spotify.com/track/7fjfqd1ADX65I7wEbdsPiT"
@@ -12662,7 +12742,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 208529,
       "name": "No Volver\u00e9",
       "url": "https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu"
@@ -13639,6 +13719,24 @@
     },
     {
       "album": {
+        "name": "Pal\u00edndromo",
+        "url": "https://open.spotify.com/album/4H0lTGq5KsU1U8kYGLPl3t"
+      },
+      "artists": [
+        {
+          "name": "Fer Casillas",
+          "url": "https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156667,
+      "name": "Pal\u00edndromo",
+      "url": "https://open.spotify.com/track/1nCidg1Hrskh7gL9Wz5Uj0"
+    },
+    {
+      "album": {
         "name": "PANTIES Y BRASIERES",
         "url": "https://open.spotify.com/album/5I66RzytH4VwOHZiowdsXf"
       },
@@ -14371,6 +14469,28 @@
     },
     {
       "album": {
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164991,
+      "name": "PRIMO",
+      "url": "https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk"
+    },
+    {
+      "album": {
         "name": "Problem\u00f3n",
         "url": "https://open.spotify.com/album/0A6sjLzd6wPSye48ipLBBj"
       },
@@ -15056,7 +15176,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 227500,
       "name": "Qu\u00edtame El Sent\u00edo (Remix)",
       "url": "https://open.spotify.com/track/288KhqkZ2SWlQ2RNCmaQ31"
@@ -15838,7 +15958,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 126000,
       "name": "Se siente bien",
       "url": "https://open.spotify.com/track/3bVTNz3OwCutKR6q24jIF9"
@@ -16422,6 +16542,28 @@
       "duration_ms": 219672,
       "name": "Sincer\u00e1ndome",
       "url": "https://open.spotify.com/track/6d920UMBw9naD9ggKvIiMT"
+    },
+    {
+      "album": {
+        "name": "Sirena (feat. Cuco)",
+        "url": "https://open.spotify.com/album/2h5F7Pgy170HEdoGmTr5XQ"
+      },
+      "artists": [
+        {
+          "name": "Niko Rubio",
+          "url": "https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212402,
+      "name": "Sirena (feat. Cuco)",
+      "url": "https://open.spotify.com/track/7a8VuafM3JGvY03huhgLTT"
     },
     {
       "album": {
@@ -18575,6 +18717,28 @@
     },
     {
       "album": {
+        "name": "TODO PUEDE SUCEDER",
+        "url": "https://open.spotify.com/album/19DbwnDUWS0CuJF92sc4Wn"
+      },
+      "artists": [
+        {
+          "name": "MAGNA",
+          "url": "https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF"
+        },
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167213,
+      "name": "UN CUARTICO",
+      "url": "https://open.spotify.com/track/2WYjLEYwE1vIWC6XNMN94z"
+    },
+    {
+      "album": {
         "name": "Un Cumbi\u00f3n Dolido",
         "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
       },
@@ -19957,6 +20121,24 @@
     },
     {
       "album": {
+        "name": "YVAINE",
+        "url": "https://open.spotify.com/album/1uY65872CT6U5quhzQ17wl"
+      },
+      "artists": [
+        {
+          "name": "MOSBI",
+          "url": "https://open.spotify.com/artist/6kvoEVPUc4pJ6w8QO4DHef"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193064,
+      "name": "YVAINE",
+      "url": "https://open.spotify.com/track/08UfNYY3HESjVkjWxrko96"
+    },
+    {
+      "album": {
         "name": "ZAFIRO (feat. Pablo Hurtado)",
         "url": "https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ"
       },
@@ -20088,7 +20270,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"

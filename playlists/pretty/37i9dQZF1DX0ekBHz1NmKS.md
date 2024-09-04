@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > En samling av de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,589 likes - 109 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,577 likes - 109 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 105 | [One Time](https://open.spotify.com/track/7AbTRmWf15HOI9q6JTU1JM) | [Raees](https://open.spotify.com/artist/7qqX1NATkbO31TVxBYyNlJ), [Zassy](https://open.spotify.com/artist/1Pgv804IVbEd0LLbYpp5kB), [YE\-BØ](https://open.spotify.com/artist/5UxvUCbRSlJqI5hQ8YpFFa) | [One Time](https://open.spotify.com/album/7i06SlHnwSwpGEfqndbzyT) | 2:15 |
 | 106 | [Maniac](https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi) | [Ellen Benediktson](https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8) | [Maniac](https://open.spotify.com/album/64GQS6Mk0WTvW1L9y61vnI) | 2:43 |
 | 107 | [Endless Road](https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Endless Road](https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv) | 2:43 |
-| 108 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 |
-| 109 | [Det är något i luften](https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD) | [Viola Martinsson](https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ) | [Det är något i luften](https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K) | 3:01 |
+| 108 | [Det är något i luften](https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD) | [Viola Martinsson](https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ) | [Det är något i luften](https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K) | 3:01 |
+| 109 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 |
 
 Snapshot ID: `ZtDvYAAAAABHmmpqIk3Rmakkz+FZnZmD`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The home for heavy music\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,445 likes - 145 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,422 likes - 145 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -148,8 +148,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 138 | [Nuclear Boy Scout](https://open.spotify.com/track/4MarIUdPF8riTeoEi00xao) | [Blanket](https://open.spotify.com/artist/2AOTmilsEJDBEM6SIHFFy6) | [Nuclear Boy Scout](https://open.spotify.com/album/2lmSKXcV1MkDYaKli47ICz) | 3:39 |
 | 139 | [Punk's Dead](https://open.spotify.com/track/5RFjklYNzWhHH3wZ6c7ngo) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Punk's Dead](https://open.spotify.com/album/26CBoch8r0WmpjOYQedOnM) | 3:12 |
 | 140 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 |
-| 141 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 |
-| 142 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 |
+| 141 | [War](https://open.spotify.com/track/3jawKKlzEQ8KmCGVlIuJJS) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [War](https://open.spotify.com/album/3naAe4XjHbX8gqtKUIUdar) | 2:54 |
+| 142 | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/track/5ipALw7s8VxqaxoskWH6hJ) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8), [Adam Gontier](https://open.spotify.com/artist/2NkpmkcWNxbWydBaETRfqT) | [Finish Line \(feat\. Adam Gontier\)](https://open.spotify.com/album/5CDZtrKb7xdTOwFlqrmzP0) | 3:27 |
 | 143 | [Cellar Door](https://open.spotify.com/track/0seYEimfvmRFTXxODTNcqb) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cellar Door](https://open.spotify.com/album/2On9UxYqSqp8hBwgiGS9F1) | 4:43 |
 | 144 | [Mirror Mirror](https://open.spotify.com/track/0F8K4JFVtT4B73fmJ6LgDp) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/3DB7QyldGqXJgzGg9XYwpG) | 3:50 |
 | 145 | [Welcome In \(feat\. Creeper\)](https://open.spotify.com/track/3w3bCAYFoLubYOWkVlaBeG) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [vol.3](https://open.spotify.com/album/1B8CC64goZTyBVAyBmJrVX) | 1:54 |

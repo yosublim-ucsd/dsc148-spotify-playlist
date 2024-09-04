@@ -37,6 +37,6 @@
 | [The Exquisite Machinery Of Torture](https://open.spotify.com/track/2rF3m93v6kqpNnK8SX3zBE) | [Meshuggah](https://open.spotify.com/artist/3ggwAqZD3lyT2sbovlmfQY) | [Chaosphere](https://open.spotify.com/album/1iYC6e2fBLOI4BFmp9M24C) | 3:55 | 2024-05-31 |  |
 | [This Is the Best Day Ever](https://open.spotify.com/track/1mWMGKUaL7EyYIIveqlKC0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [I Brought You My Bullets, You Brought Me Your Love](https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605) | 2:12 | 2024-05-31 |  |
 | [To Build a Mountain](https://open.spotify.com/track/6snBia6cmlUVLeMtSyrguK) | [Crowbar](https://open.spotify.com/artist/3xtIpqzIOfQUxKce8BU4Ka) | [Sonic Excess In Its Purest Form](https://open.spotify.com/album/4Davu5xpuijMwg3dohmKsZ) | 3:58 | 2024-05-31 |  |
-| [With Grace](https://open.spotify.com/track/3gJBlw4iUS35KR6GOG9zwX) | [Axis](https://open.spotify.com/artist/7JIjcwOR5MeEyOsCO1jbBA) | [Show Your Greed](https://open.spotify.com/album/7l5r9gujPWRZdp126DiRt0) | 3:28 | 2024-05-31 |  |
+| [With Grace](https://open.spotify.com/track/3gJBlw4iUS35KR6GOG9zwX) | [AXIS](https://open.spotify.com/artist/7JIjcwOR5MeEyOsCO1jbBA) | [Show Your Greed](https://open.spotify.com/album/7l5r9gujPWRZdp126DiRt0) | 3:28 | 2024-05-31 |  |
 
 \*This playlist was first scraped on 2024-06-01. Prior content cannot be recovered.

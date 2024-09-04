@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2S9rTKTX6JP.md) - [plain]
 
 > killer rock & alternative covers\. Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 690,233 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 690,360 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 
 > Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,700 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,901 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUAMxTn0rVu.md) - [plain]
 | 5 | [Worst Comes To Worst](https://open.spotify.com/track/4bHrZLxaOU1gfAz0rZAnCx) | [Dilated Peoples](https://open.spotify.com/artist/56OMwqr8qaLIRH4ZrvvdXq) | [Expansion Team](https://open.spotify.com/album/5l8eNNfdgghJbhPtOf0aw2) | 3:36 |
 | 6 | [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 |
 | 7 | [Just Don't Give A Fuck](https://open.spotify.com/track/2MEvYNn2tRvFDAucAtAKVq) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Slim Shady LP](https://open.spotify.com/album/0vE6mttRTBXRe9rKghyr1l) | 4:02 |
-| 8 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/7AQJ6lwVCcej6eKZXQZus4) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
+| 8 | [Doomsday](https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA) | [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL), [Pebbles The Invisible Girl](https://open.spotify.com/artist/34lNC2xOF1VtnRHk5ZCtU6) | [Operation: Doomsday \(Complete\)](https://open.spotify.com/album/5bjUbZPVTEQcb6W3LquX1E) | 4:58 |
 | 9 | [Meat Grinder](https://open.spotify.com/track/4WM1hvYr2NC6bQnQXcj3sH) | [Madvillain](https://open.spotify.com/artist/2aoFQUeHD1U7pL098lRsDU), [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf), [MF DOOM](https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL) | [Madvillainy](https://open.spotify.com/album/19bQiwEKhXUBJWY6oV3KZk) | 2:11 |
 | 10 | [Hold You Down](https://open.spotify.com/track/4TpBPG62p9RefejCGNoxF9) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Nina Sky](https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6), [Prodigy](https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs), [Illa Ghee](https://open.spotify.com/artist/3brL6NPSZHYrJNzeUKcVbL) | [1st Infantry](https://open.spotify.com/album/6bTrNPIYDpWVFoE3E7wpUk) | 3:58 |
 | 11 | [Work](https://open.spotify.com/track/1EiLrPd8JMTcQUr1aLEUKi) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/5f6Nz2v1DESbpu1NerEql2) | 2:57 |

@@ -1,12 +1,12 @@
 {
   "description": "The best indie dance tracks of the moment. Cover: nimino",
-  "num_followers": 861932,
+  "num_followers": 861964,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAAG5w5JpnorZwXkVr4KotyA",
+  "snapshot_id": "Ztc/IAAAAADX6KvZmdgHQZ/CA511DFnK",
   "tracks": [
     {
       "added_at": "2024-08-23 04:00:00",
@@ -347,6 +347,22 @@
       "duration_ms": 152804,
       "name": "in heaven",
       "url": "https://open.spotify.com/track/3eDuwudjmOqc15ca9xKXt6"
+    },
+    {
+      "added_at": "2024-09-03 16:53:52",
+      "album": {
+        "name": "Why's this dealer?",
+        "url": "https://open.spotify.com/album/7qQGDOIpEcgmt1VsZ6qkZX"
+      },
+      "artists": [
+        {
+          "name": "Niko B",
+          "url": "https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk"
+        }
+      ],
+      "duration_ms": 129571,
+      "name": "Why's this dealer?",
+      "url": "https://open.spotify.com/track/6RvLWcPTuaKfq11vi9csOK"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -1495,26 +1511,6 @@
       "duration_ms": 199565,
       "name": "amun\u00ec",
       "url": "https://open.spotify.com/track/7f55PbgmDgjN2bdwm2btjY"
-    },
-    {
-      "added_at": "2024-07-05 05:27:32",
-      "album": {
-        "name": "Struckdown",
-        "url": "https://open.spotify.com/album/4RHz9Dy0nLdDaXxlIFxJHe"
-      },
-      "artists": [
-        {
-          "name": "Tseba",
-          "url": "https://open.spotify.com/artist/5GDVlpxmmh7VMNQMVpxRjf"
-        },
-        {
-          "name": "Arno Faraji",
-          "url": "https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ"
-        }
-      ],
-      "duration_ms": 174831,
-      "name": "Struckdown",
-      "url": "https://open.spotify.com/track/2kb1zk4JsOuHQnstPJx1V7"
     },
     {
       "added_at": "2024-07-05 05:27:32",

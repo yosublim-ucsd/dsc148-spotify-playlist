@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 
 ### [This Is Dolly Parton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KXgbK)
 
-> This Is Dolly Parton\. Los temas esenciales, todos en una lista.
+> This is Dolly Parton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,342 likes - 51 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,352 likes - 51 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 36 | [Seasons](https://open.spotify.com/track/3HCPcK7bCPAczLUfRmZEUn) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Bebe](https://open.spotify.com/album/59zVzm5imosI0J0j1UpFEs) | 3:23 |
 | 37 | [Just When I Needed You Most](https://open.spotify.com/track/0UKSP1rPdm2DybI4vHk6Iw) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG), [John Sebastian](https://open.spotify.com/artist/3FPF6tyBTP79pCCAJDcPft) | [Treasures](https://open.spotify.com/album/3tDqwmruXhYiBBVJuoQcGb) | 4:36 |
 | 38 | [Harper Valley PTA](https://open.spotify.com/track/43vto7McP8RTBjhOK0cyFa) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [In the Good Old Days \(When Times Were Bad\)](https://open.spotify.com/album/3UFL86RcSqzBcCLcaJUBRl) | 3:12 |
-| 39 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 |
-| 40 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
+| 39 | [After the Gold Rush \- 2015 Remaster](https://open.spotify.com/track/22GKOoU7q9YGhaedUzhlpT) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio II \(2016 Remaster\)](https://open.spotify.com/album/6exPHeQxJirI2kkgLss9d7) | 3:31 |
+| 40 | [Somebody's Child](https://open.spotify.com/track/28lmqduaFZVV6r46kALIpP) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Somebody's Child](https://open.spotify.com/album/2YhXAEGsBxEE4qpqFPbDUV) | 3:24 |
 | 41 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id), [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Honky Tonk Angels](https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w) | 2:51 |
 | 42 | [You Are](https://open.spotify.com/track/6okcxWVQetuXyRKMcVqJXZ) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [New Harvest...First Gathering](https://open.spotify.com/album/1cvsUKsk753nko4CmpzG4H) | 5:15 |
 | 43 | [Dumb Blonde](https://open.spotify.com/track/1wgXZFadykcGX9W1olAOmp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hello, I'm Dolly](https://open.spotify.com/album/4iHaLUI8kOanVu1r294TzO) | 2:30 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KXgbK.md) - [plain]
 | 50 | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/track/7u0qPfX0sXCdYfN6juC2Fh) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U), [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY), [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Debbie Harry](https://open.spotify.com/artist/7FxMjqH6DH056sdsstGeVl) | [Gonna Be You \(feat\. Gloria Estefan and Debbie Harry\)](https://open.spotify.com/album/4yq6mXEcVYU7wphdgqgiys) | 2:58 |
 | 51 | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/track/67eBprqjXUiKOzoK2jgsCe) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [Let It Be \(feat\. Paul McCartney and Ringo Starr\)](https://open.spotify.com/album/33BWIVo4IBWijRDKMMB5bV) | 4:27 |
 
-Snapshot ID: `ZtOugAAAAAD/Kw8+PV4j+S+ogHDQxo9n`
+Snapshot ID: `ZtUAAAAAAAC5d6w6FQXwhhcljBU2M6PL`

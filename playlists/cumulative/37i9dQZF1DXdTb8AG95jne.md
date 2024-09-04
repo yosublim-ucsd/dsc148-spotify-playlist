@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: GYEOM\(겸\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-764 songs - 1 day 22 hr 43 min
+766 songs - 1 day 22 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [An Empiricist](https://open.spotify.com/track/1jjfnYIMlvmzna7yZmXgGx) | [JAE BEE POP KEY](https://open.spotify.com/artist/4FBZVYeGQnd6OWH8hPdioM) | [We](https://open.spotify.com/album/4nmgB5pSZhxKsLEoSrI9Gf) | 3:04 | 2022-03-21 | 2022-04-11 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-05-03 | 2024-05-15 |
 | [Around](https://open.spotify.com/track/0WGDTNPUH5ywFcatKn4DUo) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Around](https://open.spotify.com/album/6tICS1jK7fDG4e2Mmlcsw3) | 4:49 | 2022-04-12 | 2022-07-23 |
-| [As I Am](https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [As I Am](https://open.spotify.com/album/1YUP8BmPqjVWiS54AztFXi) | 3:54 | 2024-08-29 |  |
+| [As I Am](https://open.spotify.com/track/6n4R95MRGR3FmzxFtF89fm) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [As I Am](https://open.spotify.com/album/1YUP8BmPqjVWiS54AztFXi) | 3:54 | 2024-08-29 | 2024-09-04 |
 | [Ashes](https://open.spotify.com/track/51ttgzyQ0SKKlC92bFK58v) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx) | [HOME](https://open.spotify.com/album/4finbgKnMb3yfGdr0vErpw) | 3:56 | 2024-06-19 | 2024-07-02 |
 | [Aspirin Overdose](https://open.spotify.com/track/2k8uwXICRE6Bwy7TZZI2KA) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 4:11 | 2022-12-13 | 2022-12-30 |
 | [at jongro](https://open.spotify.com/track/6r5Vy49fSeSNXUU3wiKfXu) | [Mew](https://open.spotify.com/artist/4Y74dNwvq5TMzDHMtlcmYI) | [at jongro](https://open.spotify.com/album/2Q7L1DKryOmry4pBX1WUoM) | 3:43 | 2024-05-08 | 2024-05-10 |
@@ -126,6 +126,7 @@
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
+| [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 |  |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [Trophy Cat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2021-12-21 | 2022-07-25 |
 | [Crystal Trees](https://open.spotify.com/track/52XWDiWgJZsDea3mvYyQVl) | [U\-Turn](https://open.spotify.com/artist/4mhu5X1P8QV77uRvOm9Oj0) | [Crystal Trees](https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao) | 3:23 | 2022-04-12 | 2022-04-14 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-28 | 2023-03-28 |
@@ -143,8 +144,9 @@
 | [December](https://open.spotify.com/track/7hlJPqGPSdf9Ss76Do54zf) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [December](https://open.spotify.com/album/5KpmOvSlSMUyyuSMK1eAdy) | 3:44 | 2022-03-31 | 2022-04-21 |
 | [deep water](https://open.spotify.com/track/3ToLIuUHoaedt4cagzX41J) | [AVOKID](https://open.spotify.com/artist/1pTg0Tbi7M27AnarCbdGzS) | [?!](https://open.spotify.com/album/1uhyHd8foilSr6qLYjzEwc) | 3:16 | 2022-03-31 | 2022-04-14 |
 | [Default](https://open.spotify.com/track/7a9JYapvSZ6jYu2TaG7BRU) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Default](https://open.spotify.com/album/4P8nciEu4ohngeo77oex4u) | 3:52 | 2024-03-20 | 2024-05-10 |
+| [Dennis The Menace](https://open.spotify.com/track/12hdnizN9QCVB9WGIjCiAa) | [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Dennis The Menace](https://open.spotify.com/album/6PntXgsqWeJ8dINYWCAyGM) | 2:51 | 2024-09-04 |  |
 | [Despite it all](https://open.spotify.com/track/7LLnHEOcFGPd0ACRIE6CtP) | [Mingginyu](https://open.spotify.com/artist/29UQ130XMQDR55X4Rmjapd) | [Despite it all](https://open.spotify.com/album/0AybLuodK9yOikxRilqpBB) | 3:49 | 2022-02-16 |  |
-| [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 |  |
+| [devil](https://open.spotify.com/track/7sgTVyyE6mGklZaX3oiX7C) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [devil](https://open.spotify.com/album/1rJQScegG3PRYR8i9yTXyd) | 1:43 | 2024-08-08 | 2024-09-04 |
 | [Dew](https://open.spotify.com/track/7GBYlHlShMCcdQv9aiUw8y) | [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe), [hevel](https://open.spotify.com/artist/7gnhLu1Gs5WaOuOPnFm9js), [DASU](https://open.spotify.com/artist/6KTycwV94S3FJhfu1tXa3b) | [Dew](https://open.spotify.com/album/6UesXx8nmvnYOFOCAPjxTo) | 3:20 | 2023-01-10 | 2023-01-26 |
 | [Dive into love](https://open.spotify.com/track/6apTn1k3YjfjkoMUTS1av2) | [SUDI](https://open.spotify.com/artist/2UNjeY1rdhEAozH2hZJigF), [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Dive into love](https://open.spotify.com/album/1wrWUQmvi9dqyxPPQHTg6H) | 3:22 | 2021-12-21 | 2022-04-30 |
 | [Do You Believe in Love?](https://open.spotify.com/track/6aOFf7lR1t5OHM6kN6keme) | [Lee Yerin](https://open.spotify.com/artist/1cDDtQ75Yz5Xi9sA16wl3N) | [Do You Believe in Love?](https://open.spotify.com/album/2PjLdyzhTz97ubbZYnfnht) | 3:29 | 2024-05-22 | 2024-06-19 |
@@ -675,7 +677,7 @@
 | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/track/20CiPSS7cby4JLhwzPC2JB) | [AQUINAS](https://open.spotify.com/artist/6icWxBzgVFQXsLJN8uIzCR), [P.RAO](https://open.spotify.com/artist/6iGM3mRu8Dgv0vraQmsocz) | [Until tomorrow comes \(feat\. P.RAO\)](https://open.spotify.com/album/3PrBuHgC7Dpgtw3T1Ny2uS) | 3:38 | 2024-01-30 | 2024-05-10 |
 | [Untitled](https://open.spotify.com/track/5DiAPGjSA37OUVDtv3t5MN) | [Cho Hee Won](https://open.spotify.com/artist/5EQY8swADecXlA94pjEyzX) | [Untitled](https://open.spotify.com/album/4AI3v5hgmh3ZETMgw2rJVw) | 3:35 | 2021-12-12 | 2022-05-26 |
 | [Us](https://open.spotify.com/track/4xOxGzY6ctpO2prDbGJbIQ) | [Jade](https://open.spotify.com/artist/2EmcKC5wA38PKb4ue4ZzbE) | [Us](https://open.spotify.com/album/23dZakjHhvfJJsiuX5A8MF) | 3:38 | 2021-12-21 | 2022-07-28 |
-| [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-08-29 |  |
+| [Vanilla Sundae](https://open.spotify.com/track/5ynIlEuq3O4PyEqRW3bRlE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Limbo](https://open.spotify.com/album/1PdPZVN1e0s39JUdd1B4uY) | 3:18 | 2024-08-29 | 2024-09-04 |
 | [Velvet Glove](https://open.spotify.com/track/2sw4palAKf0wKtopLjDLSi) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | ["L"](https://open.spotify.com/album/3GU6dBAcgSyLa5gSpVpTrx) | 2:44 | 2024-07-15 |  |
 | [Venus](https://open.spotify.com/track/31WQPYHmmXFGmKXpmaA6Pe) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [INNER SPACE](https://open.spotify.com/album/1oYzH1AGQsOJEkdSI4gC3z) | 3:11 | 2022-03-31 | 2022-04-18 |
 | [Villain⤻ \(feat\. lIlBOI\)](https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [The Lost Diary](https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn) | 2:55 | 2023-08-16 | 2024-05-09 |
@@ -720,7 +722,7 @@
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-27 | 2024-04-19 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [WOODLAND 푸르던](https://open.spotify.com/track/7hSpkFR4umYfTdwAbGlkUb) | [Besweet](https://open.spotify.com/artist/0grUBAiZwYyGykIxK6UjW8) | [WOODLAND 푸르던](https://open.spotify.com/album/7ItB3jPiPLGAeARn3YzSHp) | 3:54 | 2022-04-12 | 2022-04-21 |
-| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 | 2024-09-02 |
+| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 |  |
 | [Worries 걱정](https://open.spotify.com/track/5dBREAFlHitnu99IHDQi4l) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/4juD3p5xvgts6zCQzlQYKl) | 7:47 | 2022-03-31 | 2022-04-21 |
 | [written on a leaf](https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [written on a leaf](https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin) | 3:45 | 2022-03-18 | 2022-07-15 |
 | [Wrong question](https://open.spotify.com/track/6wzGqTvlpSpnr1qgSZSQ2O) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:15 | 2022-03-31 | 2022-06-21 |

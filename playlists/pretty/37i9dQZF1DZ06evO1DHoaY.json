@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Marley & The Wailers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2030614,
+  "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
+  "num_followers": 2030703,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC/TySWtzUm7Pqa16VGpOMs",
+  "snapshot_id": "ZtUAAAAAAAB2IWmxtbbN1EsQRJZvgJ9n",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confrontation",
-        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
+        "name": "Rastaman Vibration",
+        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 205693,
-      "name": "Stiff Necked Fools",
-      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
+      "duration_ms": 213920,
+      "name": "Positive Vibration",
+      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/1FictwFMH9Uv1LE8zw4pZu"
+        "name": "Confrontation",
+        "url": "https://open.spotify.com/album/5Rg4ZSwf1LPCuAMr0msdun"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
         }
       ],
-      "duration_ms": 213920,
-      "name": "Positive Vibration",
-      "url": "https://open.spotify.com/track/2eHOlLD5glnSYlfWXYGTbd"
+      "duration_ms": 205693,
+      "name": "Stiff Necked Fools",
+      "url": "https://open.spotify.com/track/1eN3VT6F8JNkjF9b4AMhzd"
     },
     {
       "added_at": null,

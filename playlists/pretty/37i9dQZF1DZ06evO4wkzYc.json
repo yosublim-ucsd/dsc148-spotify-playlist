@@ -1,12 +1,12 @@
 {
-  "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 131286,
+  "description": "This Is Edicion Especial. Los temas esenciales, todos en una lista.",
+  "num_followers": 131435,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACGyoBdYS46waUOeJl+ED1p",
+  "snapshot_id": "ZtUAAAAAAAB0Evd23nEi7c5YfOrPsQAI",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sin Pagar Renta",
+        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 202443,
+      "name": "Sin Pagar Renta",
+      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Fea",
         "url": "https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY"
       },
@@ -307,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 237679,
-      "name": "El Mago",
-      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho 43",
         "url": "https://open.spotify.com/album/2pB51s0SsNUxorhGEyAtZM"
       },
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Pagar Renta",
-        "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 202443,
-      "name": "Sin Pagar Renta",
-      "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+      "duration_ms": 237679,
+      "name": "El Mago",
+      "url": "https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
       "duration_ms": 181901,
       "name": "Zutano",
       "url": "https://open.spotify.com/track/7dzQS07Mqm4TVE0R1urWix"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 182299,
-      "name": "Delante De Mi",
-      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
     },
     {
       "added_at": null,
@@ -423,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 182299,
+      "name": "Delante De Mi",
+      "url": "https://open.spotify.com/track/54WpanwL6bIMbK92QJ6QpH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Guardadas",
         "url": "https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4"
       },
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pareja Ideal (Live)",
-        "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "La Pareja Ideal - Live",
-      "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chavo (En Vivo)",
         "url": "https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 245098,
       "name": "El Chavo - En Vivo",
       "url": "https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pareja Ideal (Live)",
+        "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "La Pareja Ideal - Live",
+      "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos",
-        "url": "https://open.spotify.com/album/2YkTzUogP6QEy3epG8yzfH"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 219147,
-      "name": "El 3",
-      "url": "https://open.spotify.com/track/3cLASsB33EdcHmUsIcyC0C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pocho (En Vivo)",
         "url": "https://open.spotify.com/album/7rVm4V33wkLN3f12ECJJ8q"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 168288,
       "name": "El Pocho - En Vivo",
       "url": "https://open.spotify.com/track/2ANPejDS8oZYn91lBOUyEz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos",
+        "url": "https://open.spotify.com/album/2YkTzUogP6QEy3epG8yzfH"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 219147,
+      "name": "El 3",
+      "url": "https://open.spotify.com/track/3cLASsB33EdcHmUsIcyC0C"
     },
     {
       "added_at": null,

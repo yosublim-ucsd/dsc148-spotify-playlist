@@ -1,13 +1,29 @@
 {
   "description": "Gitar ve davulu konu\u015fturanlar. Kapak: Skapova",
-  "num_followers": 530531,
+  "num_followers": 530692,
   "original_name": "T\u00fcrk\u00e7e Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDhUAAAAAC00uZ7gk35XWngRsA0BMRj",
+  "snapshot_id": "Ztbq3QAAAAA99thLrd63PBZFgeeQKrQA",
   "tracks": [
+    {
+      "added_at": "2024-08-29 21:00:00",
+      "album": {
+        "name": "Hepsi Senin Y\u00fcz\u00fcnden",
+        "url": "https://open.spotify.com/album/3govR0zpi3USm1IBvlhShd"
+      },
+      "artists": [
+        {
+          "name": "Skapova",
+          "url": "https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Hepsi Senin Y\u00fcz\u00fcnden",
+      "url": "https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg"
+    },
     {
       "added_at": "2024-08-29 21:00:00",
       "album": {
@@ -39,22 +55,6 @@
       "duration_ms": 173307,
       "name": "Sen Bilmezsin",
       "url": "https://open.spotify.com/track/5VykLQtjCYF6qFq59HbUg9"
-    },
-    {
-      "added_at": "2024-08-29 21:00:00",
-      "album": {
-        "name": "Hepsi Senin Y\u00fcz\u00fcnden",
-        "url": "https://open.spotify.com/album/3govR0zpi3USm1IBvlhShd"
-      },
-      "artists": [
-        {
-          "name": "Skapova",
-          "url": "https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Hepsi Senin Y\u00fcz\u00fcnden",
-      "url": "https://open.spotify.com/track/2PHYMPiieiD8BAwwHiePZg"
     },
     {
       "added_at": "2024-08-29 21:00:00",

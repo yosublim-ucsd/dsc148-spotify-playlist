@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 
 > Ideale muziek voor de werkdag
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,891 likes - 230 songs - 13 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,914 likes - 230 songs - 13 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,7 +195,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bw5oBAFpuz.md) - [plain]
 | 185 | [Ride or Die](https://open.spotify.com/track/5dzD57wEZZZ4tdn4ybJgXU) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Ride or Die](https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg) | 3:24 |
 | 186 | [Middle Of The Night \- Radio Mix](https://open.spotify.com/track/6NljwIzPEd3saqUsp4s4kT) | [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Middle Of The Night \(Radio Mix\)](https://open.spotify.com/album/7ucOHGF9Ud1nC3SY6KoSiU) | 2:47 |
 | 187 | [Meet You In The Middle](https://open.spotify.com/track/7KNfqyUKqkIkhHV4Xo5g6K) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Meet You In The Middle](https://open.spotify.com/album/2UWD7JfYUKklHrdaVN5xGV) | 3:30 |
-| 188 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 |
+| 188 | [One Life](https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3) | 3:51 |
 | 189 | [Hunter](https://open.spotify.com/track/0tu3IW9kbapTXjdgp7ClFL) | [Sandra van Nieuwland](https://open.spotify.com/artist/255PaovXNzjBcODZn42QgC) | [Hunter](https://open.spotify.com/album/5PmxMLXItoWNckYoSPgKfY) | 3:05 |
 | 190 | [Dancing Slow](https://open.spotify.com/track/0CIxOoxye5HUWA23ofjbpJ) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP), [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Dancing Slow](https://open.spotify.com/album/39J4TkvH0VvrpfCDfkUwx5) | 3:20 |
 | 191 | [Used To Have It All \- Acoustic](https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l) | [FÄIS](https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Used To Have It All \(Acoustic Version\)](https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ) | 3:01 |

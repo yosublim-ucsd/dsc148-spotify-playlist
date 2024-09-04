@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,866 likes - 90 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,881 likes - 90 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,19 +84,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 74 | [No Te Vayas](https://open.spotify.com/track/3LYprBFXZbHZZVmRQbephK) | [Los 4 De Cordoba](https://open.spotify.com/artist/3d3pm23Qc0Pa9v1mQqTtj2) | [No Te Vayas](https://open.spotify.com/album/56yg8RU5UCcM0FjcQFL3dT) | 3:44 |
 | 75 | [Adiós Amor Mío](https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Adiós Amor Mío](https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt) | 2:29 |
 | 76 | [Gotas de Amor](https://open.spotify.com/track/3JS1Eq5oS5mPqZjuJSkRCD) | [Roxana Carabajal](https://open.spotify.com/artist/3XliglxGifK0IJjHPxo5MP), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [Autóctona](https://open.spotify.com/album/2E6mheIAe5QBEI5a5TuiKV) | 5:19 |
-| 77 | [Un Adiós](https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Un Adiós](https://open.spotify.com/album/3SSX9ExfyXKEK5MzFWX0AF) | 3:15 |
-| 78 | [Respuesta](https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Respuesta](https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE) | 3:37 |
+| 77 | [Respuesta](https://open.spotify.com/track/6G63kmxKv6dvQBzAKkauq6) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Respuesta](https://open.spotify.com/album/7zjeW6ii0jEetYbDDeMOFE) | 3:37 |
+| 78 | [Un Adiós](https://open.spotify.com/track/56zrEOWE31bRjS8yp7onRZ) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Un Adiós](https://open.spotify.com/album/3SSX9ExfyXKEK5MzFWX0AF) | 3:15 |
 | 79 | [Todo Será Mejor](https://open.spotify.com/track/6OPnnk3JYCQNybD4WMH5n5) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Todo Será Mejor](https://open.spotify.com/album/2IbkSqdOd9aEpVuXUSgc2q) | 3:59 |
 | 80 | [Tonada De Tus Labios](https://open.spotify.com/track/5iynZIlZkHVoWrxXgdhd4N) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Goy Karamelo](https://open.spotify.com/artist/6ivDKC9j7KCZ6vYb9syvcC) | [Tonada De Tus Labios](https://open.spotify.com/album/7CUPx0jk0kMV7CaS8uae5n) | 2:57 |
 | 81 | [Que Tiene de Malo Eso](https://open.spotify.com/track/5yGvbIKyrrTsFi0etQKgv7) | [El Indio Lucio Rojas](https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3) | [Que Tiene de Malo Eso](https://open.spotify.com/album/6VcwvW6wSfr5DFyEiTL5Nw) | 2:46 |
 | 82 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
-| 83 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
-| 84 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
-| 85 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 |
+| 83 | [Asuntos Pendientes](https://open.spotify.com/track/6kS0RzghvmItZOz99eutk2) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Asuntos Pendientes](https://open.spotify.com/album/5PC43L0Gftheh1WbrjW1VC) | 2:50 |
+| 84 | [Mil Momentos \- En Vivo](https://open.spotify.com/track/16sswACfv8q6ndVYSHVtrT) | [Guitarreros](https://open.spotify.com/artist/7Ky9MAWbIE0z5VtPSNiMvd) | [Mil Momentos \(En Vivo\)](https://open.spotify.com/album/35oe1PzRomgYknZMJ8MCqT) | 3:35 |
+| 85 | [No Me Canso de Amar](https://open.spotify.com/track/5LKPve9fCi7TKtgoJx49NF) | [Los Carabajal](https://open.spotify.com/artist/73HzrMaQAGRv2nHCiOBlam) | [Huella](https://open.spotify.com/album/0y0ckypghp0Ae1bdo3qjth) | 3:34 |
 | 86 | [Amarte Sin Piedad](https://open.spotify.com/track/0Pfov0G5ZoskadtvAgwPl8) | [Qiro](https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO) | [Amarte Sin Piedad](https://open.spotify.com/album/62i9o08soByC7ONFYj67IB) | 3:31 |
 | 87 | [Quizás Me Perdí](https://open.spotify.com/track/6sHneNrLrkrGHss9P6X11i) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY) | [Quizás Me Perdí](https://open.spotify.com/album/38Gakce6kB8reFWqvdhD6g) | 3:28 |
 | 88 | [La Forma Perfecta](https://open.spotify.com/track/5cpScCtXXmeE9H4UhuIpwh) | [La Macha](https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc) | [La Forma Perfecta](https://open.spotify.com/album/5PHybIbCaOijo0dv0htTOF) | 3:13 |
 | 89 | [La Ley Y La Trampa](https://open.spotify.com/track/2sb31nQbx4QnFD9FQv2D28) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/4u22Umljn6A5UYjDfQSOjc) | 2:48 |
-| 90 | [Zamba y Acuarela](https://open.spotify.com/track/1X2Z8Js9G8YmXIbrwSIptK) | [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf) | [El Principio del Final](https://open.spotify.com/album/0jZXoejsjx2oS5vEHXmWzt) | 4:32 |
+| 90 | [La Desamorada](https://open.spotify.com/track/4d1wSBlKUlfRQIaPw9Qt0x) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [La Desamorada](https://open.spotify.com/album/7sQGoOzXHrxY9LcP4Ll6b3) | 4:01 |
 
 Snapshot ID: `Zr5kQAAAAADbOfO1F5XwVGcd54PlLmCb`

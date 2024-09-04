@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Perfect music for perfect food.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,785 likes - 200 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,783 likes - 200 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 154 | [Rosie](https://open.spotify.com/track/5gY5mb97G1JZFB8eved6rR) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [Loose Fit](https://open.spotify.com/album/50CjNUYxGgbXKVHkVQyGIZ) | 3:43 |
 | 155 | [You Ought To Be With Me](https://open.spotify.com/track/1mjLVtmT7EwwgWB2RPwZRL) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Love And Happiness](https://open.spotify.com/album/04frYt9UMyGnZqztK3Qevg) | 3:07 |
 | 156 | [Suspicious](https://open.spotify.com/track/4kmjsi97KPdrn83uyF6UCQ) | [June Noa](https://open.spotify.com/artist/0HE18lhOTamRtLWsb08Ggx) | [Not Guilty](https://open.spotify.com/album/5N1n0iLL8IWYBzqAZ9eWsR) | 6:00 |
-| 157 | [Listening Man](https://open.spotify.com/track/7vnn5LUUHthfsRkSufLXA0) | [The Bees](https://open.spotify.com/artist/6XiSck3QPuXk7ho6zlDz3P) | [The Festivals Album](https://open.spotify.com/album/7FMaHwR4ZzxxJjIdaB7fus) | 4:47 |
-| 158 | [You've Really Got a Hold on Me \- Single Version](https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE) | [Lorraine Ellison](https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0) | [Sister Love: The Warner Bros\. Recordings](https://open.spotify.com/album/0ID6yMGnkB3Fxr15HoOve6) | 3:00 |
+| 157 | [You've Really Got a Hold on Me \- Single Version](https://open.spotify.com/track/5m8zKwogmJl7Fw2qgIoMeE) | [Lorraine Ellison](https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0) | [Sister Love: The Warner Bros\. Recordings](https://open.spotify.com/album/0ID6yMGnkB3Fxr15HoOve6) | 3:00 |
+| 158 | [Listening Man](https://open.spotify.com/track/7vnn5LUUHthfsRkSufLXA0) | [The Bees](https://open.spotify.com/artist/6XiSck3QPuXk7ho6zlDz3P) | [The Festivals Album](https://open.spotify.com/album/7FMaHwR4ZzxxJjIdaB7fus) | 4:47 |
 | 159 | [Respect Yourself \- Single Edit](https://open.spotify.com/track/7neZIzWa2nLzl1RFN636Ff) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Short Stax, Vol\. 7](https://open.spotify.com/album/3Bwk9OcKHF8x9SC5jRLyNn) | 3:31 |
 | 160 | [Keep On Holding On](https://open.spotify.com/track/0ZYulti55Y3OumnwLQsn1M) | [Ann Sexton](https://open.spotify.com/artist/0GRaCCNpPCOZZ1tTheDKXJ) | [I Want to Be Loved](https://open.spotify.com/album/4vA6tOj1hFAib4Foxu2g6X) | 3:50 |
 | 161 | [It's Love](https://open.spotify.com/track/7A8YLLXffwbChLJs1sW67Y) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \(Words And Sounds Vol\. 1\)](https://open.spotify.com/album/2fwvQikqDmWiam99r1om1B) | 5:54 |

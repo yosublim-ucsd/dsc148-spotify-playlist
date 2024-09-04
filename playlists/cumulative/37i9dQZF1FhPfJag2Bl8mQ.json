@@ -182,7 +182,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-02",
+      "date_removed": null,
       "duration_ms": 186504,
       "name": "Acidente",
       "url": "https://open.spotify.com/track/0soeEPl0HwEmuC0LNQ1dSp"
@@ -200,7 +200,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 138839,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2JvK5309aRgcdgd4Ed9RJ0"
@@ -462,7 +462,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 188468,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0XvoMOI25j4wODyk8nuANS"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 152613,
       "name": "Baby I'm Yours",
       "url": "https://open.spotify.com/track/0SzvmWfOhoxZVGrmvb56YL"
@@ -910,7 +910,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 166000,
       "name": "Bad Drugs",
       "url": "https://open.spotify.com/track/7eIoao9xGQ8tAbmPa5DDLE"
@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 277046,
       "name": "Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra)",
       "url": "https://open.spotify.com/track/0cciBj4236w1xByzZvn92D"
@@ -1194,7 +1194,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 156026,
       "name": "Care For You",
       "url": "https://open.spotify.com/track/2CBtdZVcpSwaxOcLUi1AGo"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 100665,
       "name": "Carnaval",
       "url": "https://open.spotify.com/track/48hK09fSQ98TncY4VaPvnX"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Church",
       "url": "https://open.spotify.com/track/7bbYT48HWWIbL3YKmtMNzn"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 126666,
       "name": "Colors",
       "url": "https://open.spotify.com/track/3ES6cLKSNuWCZgL0X7BHSv"
@@ -2275,6 +2275,24 @@
     },
     {
       "album": {
+        "name": "Daddy Blue / O.T.D.",
+        "url": "https://open.spotify.com/album/3AyS2ocCJM3NhSnBtuhPmD"
+      },
+      "artists": [
+        {
+          "name": "Brad stank",
+          "url": "https://open.spotify.com/artist/6BkeI9oZkqskZ4XMwy5OFl"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146646,
+      "name": "Daddy Blue",
+      "url": "https://open.spotify.com/track/7dLW8Xafiq7m747c5qO5NM"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/25I5EyoTxWvqfjIN0wD2gx"
       },
@@ -2470,7 +2488,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 284333,
       "name": "Desire",
       "url": "https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z"
@@ -2560,7 +2578,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 225773,
       "name": "Dive",
       "url": "https://open.spotify.com/track/0X0MCiE18F0xztZ6G6lQuz"
@@ -2618,7 +2636,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 227520,
       "name": "Do You Like Me?",
       "url": "https://open.spotify.com/track/4deAN7JXhdHHifxOp0TTjU"
@@ -3218,7 +3236,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 181565,
       "name": "Fahrenheit",
       "url": "https://open.spotify.com/track/4CTmdK2ghnQSHKT2q7qu22"
@@ -3348,7 +3366,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 204000,
       "name": "FEEL",
       "url": "https://open.spotify.com/track/6F12MoUtqXHy8Pdy110YeS"
@@ -3684,7 +3702,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 218287,
       "name": "Fuck it I love you",
       "url": "https://open.spotify.com/track/7MtVPRGtZl6rPjMfLoI3Lh"
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 211626,
       "name": "Future Lover",
       "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK"
@@ -3796,7 +3814,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 291400,
       "name": "Get It Together",
       "url": "https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7"
@@ -4142,7 +4160,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 211140,
       "name": "Heart To Heart",
       "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2"
@@ -4366,7 +4384,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
@@ -4438,7 +4456,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 211283,
       "name": "Hot Mess",
       "url": "https://open.spotify.com/track/5tewOYXM6gHZ1Lux0JkIjm"
@@ -4496,10 +4514,28 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 204316,
       "name": "Hrs & Hrs",
       "url": "https://open.spotify.com/track/3ncmoWTwJgx63LwMTyBCXf"
+    },
+    {
+      "album": {
+        "name": "Wachito Rico",
+        "url": "https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5"
+      },
+      "artists": [
+        {
+          "name": "boy pablo",
+          "url": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "i <3 u",
+      "url": "https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1"
     },
     {
       "album": {
@@ -4586,7 +4622,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 164333,
       "name": "I Fucking Lust You",
       "url": "https://open.spotify.com/track/3ahFEKNBhxvHwVMFI9rDpW"
@@ -4676,7 +4712,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 210520,
       "name": "I Put A Spell On You (Fifty Shades of Grey) - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/32YHCNItnCdiYaPbw0uTo8"
@@ -4962,7 +4998,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 128205,
       "name": "if u think i'm pretty",
       "url": "https://open.spotify.com/track/1ACA277B6f46DYCgZW8di3"
@@ -5122,7 +5158,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 194882,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/2myQE9T8UAbl5u6Wg3UT2J"
@@ -5140,7 +5176,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 315101,
       "name": "Into Orbit",
       "url": "https://open.spotify.com/track/24mo8K6ZzBTB4YBS3OtZ0k"
@@ -5400,7 +5436,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
@@ -5436,7 +5472,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 269933,
       "name": "Kiss It Off Me",
       "url": "https://open.spotify.com/track/2UKvxuMTM7JwprZrnpxgY1"
@@ -5490,7 +5526,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 194776,
       "name": "Kiss U Right Now",
       "url": "https://open.spotify.com/track/4A4EI3YNaHhDiAgpQlCZkk"
@@ -5682,7 +5718,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 179725,
       "name": "liga\u00e7\u00f5es de alma",
       "url": "https://open.spotify.com/track/77Q89ukOsI7eucDvkrldsa"
@@ -5700,7 +5736,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 267441,
       "name": "LIGHT SHOWER",
       "url": "https://open.spotify.com/track/5g74XKUBIGb6akymXK8QNg"
@@ -5718,7 +5754,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 224072,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/6rj4P92CbrWyxfLWkmGRPQ"
@@ -5946,7 +5982,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 181831,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/4fVXcxsXPW5lhy5ut9biHB"
@@ -6098,7 +6134,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 181466,
       "name": "Love Is a Bitch",
       "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
@@ -6304,7 +6340,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 148640,
       "name": "Love Songs - Bonus",
       "url": "https://open.spotify.com/track/6qL5UWxRSQYml9O99ozoLv"
@@ -6506,7 +6542,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 155909,
       "name": "Make Me Feel",
       "url": "https://open.spotify.com/track/4PazDqTv3SUmxs3Dm6VxUr"
@@ -6564,7 +6600,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 200191,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/7r1MqPAD09w24mCUUbxiCI"
@@ -6752,7 +6788,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
@@ -6850,7 +6886,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 131538,
       "name": "Moan",
       "url": "https://open.spotify.com/track/3xRue8c0zDkTWZ9fdDdz0u"
@@ -6940,7 +6976,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 151462,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/0jNFq59zT9PfahNqPJYzsu"
@@ -7222,7 +7258,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 245000,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/113xf7t4qNM7038YJvauik"
@@ -7312,7 +7348,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 183920,
       "name": "Not Around",
       "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
@@ -7598,7 +7634,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 205523,
       "name": "Olhos Castanhos",
       "url": "https://open.spotify.com/track/1Eh2tS7tgwqvvQLIBbByHo"
@@ -7746,7 +7782,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 365150,
       "name": "Opera House",
       "url": "https://open.spotify.com/track/6XdoudbyF67XLcwarEPy0L"
@@ -7836,7 +7872,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 209442,
       "name": "Outra Vez",
       "url": "https://open.spotify.com/track/4SO47HbaWop3fHAKP7fwT4"
@@ -7862,7 +7898,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 161772,
       "name": "Outta my head",
       "url": "https://open.spotify.com/track/1joXqptvn9OgoDbXA1S3p7"
@@ -7880,7 +7916,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 266481,
       "name": "Over",
       "url": "https://open.spotify.com/track/4nHJM2W28BnHazHJlGYJCR"
@@ -8086,7 +8122,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 149668,
       "name": "perfume",
       "url": "https://open.spotify.com/track/1kvkYrjZh561EJwERr8EsK"
@@ -8104,7 +8140,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 188597,
       "name": "Perverted",
       "url": "https://open.spotify.com/track/0L7Gl1yCKKEkKNxvCOlwij"
@@ -8126,7 +8162,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 268813,
       "name": "Pink Matter",
       "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596"
@@ -8162,7 +8198,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 191362,
       "name": "Plage Coquillage (First Kiss Song)",
       "url": "https://open.spotify.com/track/5mnSkB71UFNvOF1jPlHrWv"
@@ -8198,7 +8234,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 252445,
       "name": "Play With Me",
       "url": "https://open.spotify.com/track/3LCTDjSZ7pMIKPfreTmHaF"
@@ -8372,7 +8408,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 200813,
       "name": "Pray",
       "url": "https://open.spotify.com/track/7vl6ANTdLHg94AvCYXiSIw"
@@ -8394,7 +8430,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 233990,
       "name": "Preciso Dizer Que Te Amo",
       "url": "https://open.spotify.com/track/347uerQudKYIl3pOrtnDwa"
@@ -8604,7 +8640,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 219686,
       "name": "Red Lights (feat. Wale)",
       "url": "https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe"
@@ -8730,7 +8766,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 162480,
       "name": "Right There",
       "url": "https://open.spotify.com/track/6ACABT7da0gny402DMm9vs"
@@ -8748,7 +8784,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 391906,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/0755vnFQZLSgHHWbR1qCjY"
@@ -8890,7 +8926,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 209360,
       "name": "Sacrifice (feat. Jessie Reyez)",
       "url": "https://open.spotify.com/track/4LbfLqheRZesqH794Avpd9"
@@ -8966,7 +9002,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 271333,
       "name": "Salted Wound - From \"Fifty Shades Of Grey\" Soundtrack",
       "url": "https://open.spotify.com/track/69b5QMSpgvGhcjbQXzmxfP"
@@ -9136,7 +9172,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 273760,
       "name": "Seduction",
       "url": "https://open.spotify.com/track/2qVqxcTXGugY41u8Sr8xfp"
@@ -9426,7 +9462,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 287906,
       "name": "Skin",
       "url": "https://open.spotify.com/track/1eDS8ii1utvj0PjfQLrDb4"
@@ -9972,7 +10008,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 232266,
       "name": "Sweat",
       "url": "https://open.spotify.com/track/6ZHRi0QxzSnlevyhyNkj4a"
@@ -10410,7 +10446,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 196400,
       "name": "The Wall",
       "url": "https://open.spotify.com/track/4yQ9L9UGPf90d4JpqcsbmR"
@@ -10468,7 +10504,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 220750,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/2psRActEWsTlYYd7EDoyVR"
@@ -10504,7 +10540,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 121600,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/1qys87gdRHllBT34ansI0c"
@@ -10580,7 +10616,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 145573,
       "name": "Too Late To Love You",
       "url": "https://open.spotify.com/track/1XP6izZrqT8FsMaLKDAnUP"
@@ -10667,6 +10703,36 @@
     },
     {
       "album": {
+        "name": "Remonta",
+        "url": "https://open.spotify.com/album/0Ii4TGRRMO6hEKOu22d6CH"
+      },
+      "artists": [
+        {
+          "name": "Liniker e os Caramelows",
+          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Caramelows",
+          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
+        },
+        {
+          "name": "Tassia Reis",
+          "url": "https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350906,
+      "name": "Tua",
+      "url": "https://open.spotify.com/track/1oke7Jkp9afNQzTUD5iHZZ"
+    },
+    {
+      "album": {
         "name": "CAJU",
         "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
       },
@@ -10678,7 +10744,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 214033,
       "name": "TUDO",
       "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
@@ -10892,7 +10958,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 430800,
       "name": "Untitled (How Does It Feel)",
       "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966"
@@ -10946,7 +11012,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 238093,
       "name": "Use Me",
       "url": "https://open.spotify.com/track/3c3i4mHX5Z0jEyXV7jGQHR"
@@ -11040,7 +11106,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 437313,
       "name": "VELUDO MARROM",
       "url": "https://open.spotify.com/track/21nV7Brjy93nQPM98QwIfr"
@@ -11130,7 +11196,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 101440,
       "name": "want u",
       "url": "https://open.spotify.com/track/1312ZAYpw7aeRQ8GMkbJux"
@@ -11188,7 +11254,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 186013,
       "name": "Watch Me Burn",
       "url": "https://open.spotify.com/track/3hiXR95RrJCaYqykCQmYLH"
@@ -11550,7 +11616,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 331933,
       "name": "Would You Mind",
       "url": "https://open.spotify.com/track/0mf7t4vNsn4UV1bcehCLl5"
@@ -11590,7 +11656,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 133762,
       "name": "Yebba\u2019s Heartbreak",
       "url": "https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2"
@@ -11644,7 +11710,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-25",
+      "date_removed": null,
       "duration_ms": 172506,
       "name": "You Are the Right One",
       "url": "https://open.spotify.com/track/2qpacEyFxmbxCpIEqZkqvC"
@@ -11684,7 +11750,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 157813,
       "name": "You Put a Spell on Me",
       "url": "https://open.spotify.com/track/0j22qHa0UFrzpAZnQ40XO9"
@@ -11810,7 +11876,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 169066,
       "name": "You?",
       "url": "https://open.spotify.com/track/7aW115ZGsZcA0Y2HQxiUIU"
@@ -11828,7 +11894,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 174149,
       "name": "Your Guilty Pleasure",
       "url": "https://open.spotify.com/track/0Sn0hAaE5yQxyduDZuqWoY"
@@ -11868,7 +11934,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 158608,
       "name": "\u00daltima Dan\u00e7a",
       "url": "https://open.spotify.com/track/5ypeYDodf7RV3Uhaj6jkJ3"

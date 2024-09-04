@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover: <a href="spotify:artist:0GdzQJqgRL5SHp7kXOKba0">Anike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,834 likes - 99 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,600,002 likes - 99 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

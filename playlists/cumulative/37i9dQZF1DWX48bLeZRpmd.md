@@ -4,7 +4,7 @@
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-114 songs - 8 hr 34 min
+115 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [五等分の未来](https://open.spotify.com/track/18JnusZ3OJObBjn9hepHDc) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の未来 EP](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:39 | 2024-04-16 |  |
 | [五等分の気持ち](https://open.spotify.com/track/4T0CHrYyqrRY4dOIyuYg4b) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の気持ち](https://open.spotify.com/album/63hKE3ngVp5tVAaj2LqvNz) | 3:42 | 2022-05-24 |  |
 | [五等分の気持ち \- PandaBoY Five Flowers Dance Edit](https://open.spotify.com/track/1W3zNwneeowozdFmUwkyjB) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の花嫁](https://open.spotify.com/album/3GTf370mImQEnd9WNDszoh) | 3:48 | 2022-05-24 |  |
+| [五等分の笑顔](https://open.spotify.com/track/2Fz3eFV15mtQ2bEqbFwcsb) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の笑顔](https://open.spotify.com/album/5ow3moFGsOpqOUo4kW3SN3) | 3:37 | 2024-09-03 |  |
 | [五等分の花嫁](https://open.spotify.com/track/19E614FaNGBXrQ1EuEmB8m) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 2:03 | 2022-05-24 |  |
 | [五等分の花嫁 ∬ \-悲しみ\-](https://open.spotify.com/track/7bC0pMjM1bvhvTuLFzTjXm) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁∬」 オリジナル・サウンドトラック vol.2](https://open.spotify.com/album/1i2lqyQzOAiPPUcskSsRJC) | 2:15 | 2022-05-24 |  |
 | [五等分の花嫁\-日常\-](https://open.spotify.com/track/4CQ8tvu4YzONDpsirVS6NP) | [櫻井美希](https://open.spotify.com/artist/0DJwvspIfWX9bWs6adlpj3), [田渕夏海](https://open.spotify.com/artist/69iWHDSfFZVhJNE9aU4Okd), [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [TVアニメ「五等分の花嫁」オリジナル・サウンドトラック](https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5) | 1:27 | 2022-05-24 |  |

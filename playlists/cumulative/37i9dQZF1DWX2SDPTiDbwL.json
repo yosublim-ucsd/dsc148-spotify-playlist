@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Madame Se\u00f1ora",
+        "url": "https://open.spotify.com/album/3RncnfVEmFPkZB92PQl0HD"
+      },
+      "artists": [
+        {
+          "name": "Esteban Delano",
+          "url": "https://open.spotify.com/artist/1L2SxyOV2Cl8bHGXKDZOrN"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138157,
+      "name": "Madame Se\u00f1ora",
+      "url": "https://open.spotify.com/track/3N3Oyfhwsf3Y9xkpgxDnck"
+    },
+    {
+      "album": {
         "name": "El Toro",
         "url": "https://open.spotify.com/album/2XAX34hK3DXVPXI30uLFX7"
       },
@@ -1840,6 +1858,24 @@
       "duration_ms": 307773,
       "name": "Torero",
       "url": "https://open.spotify.com/track/6Ql5ovfv38vALEkP00TMzJ"
+    },
+    {
+      "album": {
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6wv3yqEeD4XuUBmoYNLeKS"
+      },
+      "artists": [
+        {
+          "name": "Oliver De La Rosa",
+          "url": "https://open.spotify.com/artist/1oMULTRADWpK6wmcKx7KAd"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133437,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/091UBqLSNqZzoJ7q5XbhVO"
     },
     {
       "album": {

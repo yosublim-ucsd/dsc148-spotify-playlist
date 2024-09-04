@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1YiLbd.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1YiLbd) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1YiLbd)
 
-### [This Is Yuki Hayashi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
+### [This Is 林ゆうき](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1YiLbd)
 
-> This is Yuki Hayashi\. Todos os maiores hits em uma só playlist.
+> This is 林ゆうき\. The essential tracks, all in one playlist.
 
 135 songs - 6 hr 9 min
 
@@ -101,7 +101,7 @@
 | [好敵手と書いて「とも」と読む](https://open.spotify.com/track/3PYLUvGhhkENSkwKT376Ns) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル・サウンドトラック](https://open.spotify.com/album/2gHjS3AtDHtuwLnZT5Ks4E) | 2:05 | 2023-09-12 | 2023-09-19 |
 | [妖怪たち](https://open.spotify.com/track/31N8krI56apyaerBDrK8pL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:02 | 2023-06-04 | 2023-07-19 |
 | [幼鳥](https://open.spotify.com/track/3PKqyqFqjRnPQMHk9R5uig) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:20 | 2024-04-20 | 2024-06-26 |
-| [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 | 2024-04-21 | 2024-08-24 |
+| [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 | 2024-04-21 |  |
 | [強くなれ](https://open.spotify.com/track/6RQvBfTupup0pjiE01m4mq) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 3:10 | 2022-12-23 | 2024-03-30 |
 | [後悔と原動力](https://open.spotify.com/track/0C4FFuNGEayRRMtjlYL1wj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:20 | 2024-01-22 | 2024-05-21 |
 | [悔しさ](https://open.spotify.com/track/3YmBYMAYnWwWxs20A3vfBj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:40 | 2022-12-23 | 2024-04-11 |
@@ -141,7 +141,7 @@
 | [超速攻](https://open.spotify.com/track/3QuURNtWiAAAa6dLPLLyx5) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 3:21 | 2022-12-23 |  |
 | [進化](https://open.spotify.com/track/4DRekX1RLo64233HPnQzhW) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/6f7ewU8BNZaeqfN899iutk) | 2:55 | 2022-12-23 | 2024-04-07 |
 | [雑食](https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:39 | 2022-12-23 |  |
-| [頂の景色](https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 1:31 | 2024-05-04 |  |
+| [頂の景色](https://open.spotify.com/track/3TQq78O1tjqaAvEusTDh4s) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 1:31 | 2024-05-04 | 2024-09-04 |
 | [頂の景色](https://open.spotify.com/track/7796rbzMCNwvAUV0SfvsnE) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/5i5tqedwi7y2ebLEdXCBE7) | 1:31 | 2022-12-23 | 2024-03-29 |
 
 \*This playlist was first scraped on 2022-12-24. Prior content cannot be recovered.

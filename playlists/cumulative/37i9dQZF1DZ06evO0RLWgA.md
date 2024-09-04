@@ -2,7 +2,7 @@
 
 ### [This Is John Lee Hooker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RLWgA)
 
-> This is John Lee Hooker\. Todos os maiores hits em uma só playlist.
+> This is John Lee Hooker\. The essential tracks, all in one playlist.
 
 144 songs - 9 hr 59 min
 
@@ -87,7 +87,7 @@
 | [Lucille \- Live At Soledad Prison/1972](https://open.spotify.com/track/718xQ9jnYPzjwux2VVDTdQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Live At Soledad Prison](https://open.spotify.com/album/4QHOhElqVZuSYH8zJTfBJd) | 6:44 | 2022-08-06 | 2022-09-26 |
 | [Maudie \- 2024 Remastered](https://open.spotify.com/track/0B0T3yVvfNzcAme2HpzaFB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Masters of Blues Presents John Lee Hooker \(2024 Remastered\)](https://open.spotify.com/album/7C2RiwHNaz5YVLizjlmcBA) | 2:25 | 2024-07-10 | 2024-07-18 |
 | [Medley: Serves Me Right To Suffer/Syndicator](https://open.spotify.com/track/0XiKlXNrY8b7qlAaB2MjY3) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE) | 6:26 | 2022-08-05 | 2024-02-06 |
-| [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 | 2022-08-05 |  |
+| [Messin' With The Hook](https://open.spotify.com/track/1R1NIZpyN47AJa3to8vu0x) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x), [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [Hooker 'N Heat](https://open.spotify.com/album/0D0s7xWS9xH5x2PXO4fVw3) | 3:23 | 2022-08-05 | 2024-09-04 |
 | [Money](https://open.spotify.com/track/1fStKfM74b9XmJa4YExB1a) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [It Serves You Right To Suffer](https://open.spotify.com/album/7Fizhioivpqy1oSn6R7zcV) | 2:23 | 2022-08-06 |  |
 | [Moon Is Rising](https://open.spotify.com/track/3WaC3Xx9ipaIAWE6OwpzCF) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Alternative Boogie: Early Studio Recordings, 1948\-1952](https://open.spotify.com/album/0rGdGbskTT8NnfJwfDVEkc) | 2:49 | 2022-08-10 | 2024-05-15 |
 | [Mr\. Lucky](https://open.spotify.com/track/69lFRWBkVZEFxkQ79wZ9Is) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Urban Blues \(Expanded Edition\)](https://open.spotify.com/album/5QCX3rK4zjRiUknme1gQ9x) | 2:52 | 2023-04-23 |  |
@@ -140,7 +140,7 @@
 | [This is Hip \- Remastered](https://open.spotify.com/track/4gUQvpeHV3Itf2WAX0CdjI) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 2:25 | 2022-08-05 |  |
 | [Tupelo](https://open.spotify.com/track/609Z49h2R2fPKGn1kArB0Q) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Blue Notes – A Blues Survey from 1920\-1960, vol\. 3](https://open.spotify.com/album/3cPo0Dcsnx460C8Alq0dGK) | 3:24 | 2024-05-17 | 2024-05-24 |
 | [Tupelo](https://open.spotify.com/track/1hR7F9GFvDAD57EnuKhdM9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/6iOdCnIfgJBuFcg3KAyBAE) | 3:58 | 2022-08-05 | 2024-02-07 |
-| [Tupelo \(2007 \- Remaster\)](https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:58 | 2024-02-06 | 2024-07-24 |
+| [Tupelo \(2007 \- Remaster\)](https://open.spotify.com/track/0F4R78rWhmodVOy4H2azVB) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Chill Out](https://open.spotify.com/album/1gHlGo1eKQl5ppd7pdihNy) | 3:58 | 2024-02-06 |  |
 | [Tupelo Blues](https://open.spotify.com/track/3Qoo65OB1f4mgqSqQGyPbQ) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [The Country Blues Of John Lee Hooker](https://open.spotify.com/album/0CHr7nfBBFriUQqSqQw8pt) | 3:23 | 2022-12-17 | 2023-12-14 |
 | [Unfriendly Woman](https://open.spotify.com/track/2FwMyaKaq5V8NLIvfWR0Ft) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Saga Blues: From Detroit to Chicago 1954\-1958](https://open.spotify.com/album/43tIzDymZjL8eFUfUAmQGj) | 2:54 | 2022-08-08 | 2024-03-07 |
 | [Walkin' The Boogie](https://open.spotify.com/track/5xmZAOvKvIUNfWMo99gcN9) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [House Of The Blues](https://open.spotify.com/album/52ake2Vmv23KLzk7UUh6f3) | 2:42 | 2022-08-10 | 2024-06-04 |

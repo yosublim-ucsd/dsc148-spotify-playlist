@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8tjzQw0If3c.md) - [plain]
 
 > Unearthing trailblazers\. Cover: J.M3
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,766 likes - 76 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,765 likes - 76 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,816 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,854 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 74 | [The Chess Players \- Remastered 2005](https://open.spotify.com/track/63Ko3TB1r09NYmWr8T3VH9) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Big Beat \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/3xTvTulNR8Ba1uk0oDaQbs) | 9:31 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `ZouSiAAAAADq1swgUA8HRDaqPZjfwOcv`
+Snapshot ID: `ZtbY+wAAAACdrSzrNa+K93cTQwPN2hXD`

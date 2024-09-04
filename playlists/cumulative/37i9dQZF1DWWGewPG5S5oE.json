@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: fox capture plan",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u99ac\u5834\u667a\u7ae0",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 231000,
       "name": "Euclid",
       "url": "https://open.spotify.com/track/52SNjuD9IbFxKLSrliAHls"
@@ -3635,6 +3635,24 @@
     },
     {
       "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/70qWVaE7p5z8AUsBJorMlA"
+      },
+      "artists": [
+        {
+          "name": "POLYPLUS",
+          "url": "https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235064,
+      "name": "purple view",
+      "url": "https://open.spotify.com/track/2ota8TtaMhG4CBAtHLGyT8"
+    },
+    {
+      "album": {
         "name": "qualia",
         "url": "https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP"
       },
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 261273,
       "name": "Season of Harvest",
       "url": "https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU"
@@ -4738,7 +4756,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 132853,
       "name": "The Great U's Train",
       "url": "https://open.spotify.com/track/09K7opjPdiz1VwEJCBk34v"
@@ -5541,6 +5559,24 @@
     },
     {
       "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
+    },
+    {
+      "album": {
         "name": "Beauty And Funky",
         "url": "https://open.spotify.com/album/3UihgxiHq3bvjCRvcP3hgJ"
       },
@@ -6002,6 +6038,24 @@
       "duration_ms": 312666,
       "name": "\u30d5\u30a3\u30ed\u30e9\u30aa\u30b9 feat. Eiko Ishibashi",
       "url": "https://open.spotify.com/track/68Kxl8innv2zWN3epatGk9"
+    },
+    {
+      "album": {
+        "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/2hnk8qCpFHbNlT8Rqg1oLO"
+      },
+      "artists": [
+        {
+          "name": "H ZETTRIO",
+          "url": "https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74000,
+      "name": "\u30d9\u30b9\u30c8\u30de\u30c3\u30c1\u30b0\u30e9\u30f3\u30d7\u30ea",
+      "url": "https://open.spotify.com/track/0tIWLp37QshtVajg2zplo9"
     },
     {
       "album": {

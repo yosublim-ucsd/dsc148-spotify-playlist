@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,495 likes - 167 songs - 7 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,509 likes - 167 songs - 7 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,16 +13,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 3 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 |
 | 4 | [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 |
 | 5 | [Clear And Calm](https://open.spotify.com/track/4Gn7QkFfIUdoJnRnmMBIZ7) | [Wolf Keller](https://open.spotify.com/artist/0nL3okOqVl6PvsOmtzWwkb) | [Clear And Calm](https://open.spotify.com/album/2JUNDwk1OCuOqTLdgbS8zv) | 2:10 |
-| 6 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
-| 7 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
+| 6 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 |
+| 7 | [Sleeping Forest](https://open.spotify.com/track/3VpHOtfXljfg3cPkE1hrzd) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Sleeping Forest](https://open.spotify.com/album/4B7jHTpuKUHgvU2YdlsLiO) | 3:48 |
 | 8 | [Bona Fide](https://open.spotify.com/track/3pfjdDVdlQzUjJaw75NvhE) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Bona Fide](https://open.spotify.com/album/26DhwEc8DPyiZlOCVNPtMC) | 2:37 |
 | 9 | [Quiet Moments](https://open.spotify.com/track/2Zof2lqNWh3mum2rtnQsCc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Quiet Moments](https://open.spotify.com/album/1lQIkbvbkJqqK3t7t8iwcc) | 2:00 |
-| 10 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
-| 11 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
-| 12 | [Sing To Me](https://open.spotify.com/track/3a4y408TGCZCoQICRo9bLN) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing To Me](https://open.spotify.com/album/6XBB7li71b9uZPbQ2os5HI) | 2:17 |
-| 13 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 |
-| 14 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
-| 15 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
+| 10 | [This Silent Night](https://open.spotify.com/track/5jGACx1QuHblS6yNrBSeEU) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [This Silent Night](https://open.spotify.com/album/6HbFMkBUb1jTvnjKcmClOX) | 2:05 |
+| 11 | [Cornerstone](https://open.spotify.com/track/50asLnxLvpjOfFv7f20Ol5) | [Aveline Evan](https://open.spotify.com/artist/3Wrv7jhidzGqxmx2bmubem) | [Cornerstone](https://open.spotify.com/album/1pcfLlpMAQ6jPx9eI39aDs) | 2:40 |
+| 12 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 |
+| 13 | [Lucid Dreams](https://open.spotify.com/track/6O9AWPGehNHiSJ1sNcKgBg) | [Dawn Huntley](https://open.spotify.com/artist/6uyCGuIi7ItiVD9zVFaa4s) | [Lucid Dreams](https://open.spotify.com/album/11fdE1fXnkCVmNKgqNDEEm) | 2:50 |
+| 14 | [Providential](https://open.spotify.com/track/2SJYDILOKnfms6VeB5nbHV) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Providential](https://open.spotify.com/album/78MbTcogTNTH2kxhxpNFBx) | 2:42 |
+| 15 | [Sing To Me](https://open.spotify.com/track/3a4y408TGCZCoQICRo9bLN) | [Ludwig Bern](https://open.spotify.com/artist/3CTqF5KWRHPvxA8SMgxHNA) | [Sing To Me](https://open.spotify.com/album/6XBB7li71b9uZPbQ2os5HI) | 2:17 |
 | 16 | [Fire Lily](https://open.spotify.com/track/2uSAha9mpw97lxp4Gpp2HK) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Fire Lily](https://open.spotify.com/album/7vwV0V7Xn0c9f5WGNTJhZ8) | 2:28 |
 | 17 | [Approaching View](https://open.spotify.com/track/0mF6mYZxi3HLMfKJpXT6JT) | [Keith Foster](https://open.spotify.com/artist/5e1yO1Z9BVf2csEYLGqQ2j) | [Approaching View](https://open.spotify.com/album/4LemwZw7HfUQQ63MqzVuHz) | 2:25 |
 | 18 | [Two Hearts](https://open.spotify.com/track/7hWj5ZNuvZfCSn24MFRzwx) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [Two Hearts](https://open.spotify.com/album/72fypJ6Ikrw15nvVhFT1yG) | 2:21 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FUaCNVd2fs.md) - [plain]
 | 166 | [A Quiet Triumph](https://open.spotify.com/track/6z80w3KsiHTJioRQYGlPDx) | [Jean DeVoite](https://open.spotify.com/artist/66t8qvy2cOoSxmEjuiRPmf) | [A Quiet Triumph](https://open.spotify.com/album/5S8I0cMWopewNcq6xzlBzj) | 2:04 |
 | 167 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 |
 
-Snapshot ID: `ZsRYEQAAAACJBx8zKcQ6iTQgXzkZq+bt`
+Snapshot ID: `Zta9fQAAAABQvTIs1gnAxaYKaQEvYf69`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387,255 likes - 100 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,387,551 likes - 100 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 97 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 |
 | 98 | [House Of Broken Love](https://open.spotify.com/track/0tFscEe2fMwsHflVPsyaAD) | [Great White](https://open.spotify.com/artist/6ZPbX2Lxd40e2UVkXpyxvI) | [Twice Shy](https://open.spotify.com/album/0gPfgxBDkrtJgwIkziS8LI) | 5:58 |
 | 99 | [Always](https://open.spotify.com/track/4JAJV4D2902ZQL4A63Q2fe) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road](https://open.spotify.com/album/6ltCtxmCcZrkuqpmUwmCq4) | 5:53 |
-| 100 | [Memories](https://open.spotify.com/track/17AtQU2FNV14jSGpPfhejn) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/7Mqb9JDLwwr4kLuNXFnuJZ) | 3:51 |
+| 100 | [No Stranger to Love \- 2009 Remaster](https://open.spotify.com/track/5Sv037WbFHlIIQPmhsBUUZ) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Seventh Star \(Deluxe Edition\)](https://open.spotify.com/album/557z9zU5A2g5jhZBiu8obi) | 4:29 |
 
 Snapshot ID: `ZmcjJwAAAAAaZtYSiaP2PpRmsZvcgSGE`

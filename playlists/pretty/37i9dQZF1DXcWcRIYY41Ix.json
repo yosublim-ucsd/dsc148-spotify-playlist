@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Alejandro y Maria Laura.",
-  "num_followers": 125199,
+  "num_followers": 125195,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2024-08-30 14:28:20",
       "album": {
+        "name": "Sim\u00f3n",
+        "url": "https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD"
+      },
+      "artists": [
+        {
+          "name": "Montse",
+          "url": "https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm"
+        }
+      ],
+      "duration_ms": 298751,
+      "name": "Sim\u00f3n",
+      "url": "https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M"
+    },
+    {
+      "added_at": "2024-08-30 14:28:20",
+      "album": {
         "name": "Siembro",
         "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
       },
@@ -1851,22 +1867,6 @@
       "duration_ms": 234933,
       "name": "El hombre de la habitaci\u00f3n de al lado",
       "url": "https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0"
-    },
-    {
-      "added_at": "2024-08-30 14:28:20",
-      "album": {
-        "name": "Camino al Bemb\u00e9",
-        "url": "https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb"
-      },
-      "artists": [
-        {
-          "name": "Carey",
-          "url": "https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy"
-        }
-      ],
-      "duration_ms": 203393,
-      "name": "Camino al Bemb\u00e9",
-      "url": "https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd"
     }
   ],
   "unique_name": "Cancionistas",

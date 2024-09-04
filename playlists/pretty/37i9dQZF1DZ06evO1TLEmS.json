@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3340,
+  "num_followers": 3343,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADnT8kfnvm7ic8bPJcVjLEZ",
+  "snapshot_id": "ZtUAAAAAAABWLIuXxcnxuHTZsrFhCB4E",
   "tracks": [
     {
       "added_at": null,
@@ -123,26 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tales Of America (The Second Coming)",
-        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
-      },
-      "artists": [
-        {
-          "name": "Ondara",
-          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 174586,
-      "name": "Milk And Honey",
-      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Departures",
         "url": "https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj"
       },
@@ -163,6 +143,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tales Of America (The Second Coming)",
+        "url": "https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V"
+      },
+      "artists": [
+        {
+          "name": "Ondara",
+          "url": "https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 174586,
+      "name": "Milk And Honey",
+      "url": "https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -175,26 +175,6 @@
       "duration_ms": 246573,
       "name": "Pin It Down",
       "url": "https://open.spotify.com/track/4G0cKJupBY79cAoYDihZwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Neighbor Song (ft. Madison Cunningham)",
-        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 220230,
-      "name": "Neighbor Song [Feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
     },
     {
       "added_at": null,
@@ -219,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+        "name": "Neighbor Song (ft. Madison Cunningham)",
+        "url": "https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs"
       },
       "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Anywhere",
-      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
+      "duration_ms": 220230,
+      "name": "Neighbor Song [Feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS"
     },
     {
       "added_at": null,
@@ -247,6 +231,22 @@
       "duration_ms": 273150,
       "name": "Plain Letters - Reimagined",
       "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Anywhere",
+      "url": "https://open.spotify.com/track/11s7r8ffgXRZreqvMVPACS"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 306783,
+      "name": "All I\u2019ve Ever Known",
+      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
         "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 307157,
       "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
       "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 306783,
-      "name": "All I\u2019ve Ever Known",
-      "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
     },
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Modern Man",
-        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 184445,
-      "name": "Modern Man (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -467,6 +447,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Modern Man",
+        "url": "https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 184445,
+      "name": "Modern Man (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -479,22 +479,6 @@
       "duration_ms": 228013,
       "name": "L.A. (Looking Alive)",
       "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -515,28 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ups & Downs",
-        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
-      },
-      "artists": [
-        {
-          "name": "Scary Pockets",
-          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 202895,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
       "artists": [
         {
@@ -544,9 +508,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+      "duration_ms": 215200,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
     },
     {
       "added_at": null,
@@ -571,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 237493,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 262727,
       "name": "Sunshine Over The Counter",
       "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ups & Downs",
+        "url": "https://open.spotify.com/album/3NRo2C87t72OqUzt1DnRBD"
+      },
+      "artists": [
+        {
+          "name": "Scary Pockets",
+          "url": "https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 202895,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
     },
     {
       "added_at": null,

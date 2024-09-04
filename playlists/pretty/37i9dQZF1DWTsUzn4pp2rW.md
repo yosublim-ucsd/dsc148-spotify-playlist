@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,427 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,468 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 93 | [In My Craft or Sullen Art](https://open.spotify.com/track/5ThjhKc0mU6KW16uL0eYqD) | [Josefine Lindstrand](https://open.spotify.com/artist/6qDDOhdKv4LfJT8kUctI9g), [Marius Neset](https://open.spotify.com/artist/2hG8VlQmj1un8dl8fbRPQi) | [In My Craft or Sullen Art](https://open.spotify.com/album/4OvXZKvxKuG586cvembeGH) | 4:37 |
 | 94 | [You Are My Everything](https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x) | [Oliver Nosaczynski Bohovič](https://open.spotify.com/artist/2dz544MXV8GuN3lCoeNfum) | [You Are My Everything](https://open.spotify.com/album/3rBbcpcZPUwr3F8yFfT7r4) | 4:10 |
 | 95 | [Wherever You're Going](https://open.spotify.com/track/2U2CqVG9M78eJM9kLDz1oO) | [Viktoria Tolstoy](https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ) | [Wherever You're Going](https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb) | 4:07 |
-| 96 | [Sunny Days](https://open.spotify.com/track/0e9Etx1cLy20DjH7q4t0T0) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Sunny Days](https://open.spotify.com/album/0v7xpgCyoHfeLFzsgl1fBE) | 4:00 |
-| 97 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
+| 96 | [I Can’t Make You Love Me](https://open.spotify.com/track/3qFYOX9Rmu5OsEiqGLZva0) | [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [I Can’t Make You Love Me](https://open.spotify.com/album/1sn4P6Jxru5Yph7lNqXLoz) | 5:03 |
+| 97 | [Sunny Days](https://open.spotify.com/track/0e9Etx1cLy20DjH7q4t0T0) | [Ginne Marker](https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39) | [Sunny Days](https://open.spotify.com/album/0v7xpgCyoHfeLFzsgl1fBE) | 4:00 |
 | 98 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 99 | [Infant Eyes \- Edit](https://open.spotify.com/track/51WaGUFBND6XOLcJ1HcP7Y) | [Jamael Dean](https://open.spotify.com/artist/2eoVP5QgTopsYgTS7H1CKs), [Sharada Shashidhar](https://open.spotify.com/artist/1S5hEP3i3XrnBeW602MbUq) | [Infant Eyes \(Edit\)](https://open.spotify.com/album/7anJAMptW5jyQ9bbnZFe9g) | 6:29 |
 | 100 | [Your Song](https://open.spotify.com/track/0OelgOpyjbEyc1agABKR4P) | [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP), [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS), [Lars Danielsson](https://open.spotify.com/artist/7c9O0hfRy2u32JVcWhoope), [Wolfgang Haffner](https://open.spotify.com/artist/4if1U9RYhAJN9msYzpsfwh) | [Your Song](https://open.spotify.com/album/5wgdPiD77nrKUBiW7ptss4) | 4:30 |

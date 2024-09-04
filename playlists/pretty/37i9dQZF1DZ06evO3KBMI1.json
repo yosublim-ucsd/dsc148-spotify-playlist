@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 71403,
+  "num_followers": 71411,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABFrMy9+aAimRZbcNpCLC4z",
+  "snapshot_id": "ZtUAAAAAAADcIAoEBxKX3oeeglJANEO1",
   "tracks": [
     {
       "added_at": null,
@@ -259,18 +259,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEMORIES of the End",
-        "url": "https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa"
+        "name": "\u6765\u9ce5\u6c5f",
+        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
       "artists": [
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        },
+        {
+          "name": "\u5c71\u7530\u5b5d\u4e4b",
+          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
+        },
+        {
+          "name": "Aiemu",
+          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
         }
       ],
-      "duration_ms": 139211,
-      "name": "MEMORIES of the End",
-      "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
+      "duration_ms": 219200,
+      "name": "\u6765\u9ce5\u6c5f",
+      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
     },
     {
       "added_at": null,
@@ -323,26 +331,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u6765\u9ce5\u6c5f",
-        "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
+        "name": "MEMORIES of the End",
+        "url": "https://open.spotify.com/album/0Om3YDAvdvlZoCOcL7SLoa"
       },
       "artists": [
         {
           "name": "UVERworld",
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        },
-        {
-          "name": "\u5c71\u7530\u5b5d\u4e4b",
-          "url": "https://open.spotify.com/artist/4TVqk2KMYTgu4TMyEJdu0P"
-        },
-        {
-          "name": "Aiemu",
-          "url": "https://open.spotify.com/artist/5jgdNxHkpHuJ9dSUgw8KZt"
         }
       ],
-      "duration_ms": 219200,
-      "name": "\u6765\u9ce5\u6c5f",
-      "url": "https://open.spotify.com/track/01jssTUlTw2QSx8U1XLhAw"
+      "duration_ms": 139211,
+      "name": "MEMORIES of the End",
+      "url": "https://open.spotify.com/track/2Ph8GBGglY86MJGnW9t4I0"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "TYCOON",
+        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 281706,
+      "name": "DECIDED (album ver.)",
+      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UNSER",
         "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
@@ -603,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "TYCOON",
-        "url": "https://open.spotify.com/album/2wRVWAzSEzmpOSObJnOZdo"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
@@ -612,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 281706,
-      "name": "DECIDED (album ver.)",
-      "url": "https://open.spotify.com/track/27eQZYYlgZ2YRAeVCkX6So"
+      "duration_ms": 200426,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,
@@ -663,22 +679,6 @@
       "duration_ms": 229253,
       "name": "AS ONE",
       "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,

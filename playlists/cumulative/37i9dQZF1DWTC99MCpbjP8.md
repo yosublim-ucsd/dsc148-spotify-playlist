@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-604 songs - 1 day 2 hr 13 min
+605 songs - 1 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-22 | 2023-05-10 |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-08 |  |
 | [Fiume](https://open.spotify.com/track/0kpHSnJTru2qYTk0WFDsyA) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Fiume](https://open.spotify.com/album/7o91RvyJGtNZmoVe68zkSk) | 2:20 | 2023-03-14 |  |
-| [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-04-22 |  |
+| [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-04-22 | 2024-09-04 |
 | [Flow like there's no tomorrow](https://open.spotify.com/track/1qkv4AQX3dQ93UtiEjLETB) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Flow like there's no tomorrow](https://open.spotify.com/album/6NhPWzJslCZoTFClYBtOuP) | 3:36 | 2022-07-27 |  |
 | [Follow The Wind](https://open.spotify.com/track/5TsrzBIJvEJXoujkVVY6be) | [Jett Ingram](https://open.spotify.com/artist/1OsM3C8DqfNYJc0PXD0Pyv) | [Follow The Wind](https://open.spotify.com/album/00szFnztAJMvCFQI4xN0pe) | 2:24 | 2022-04-22 | 2024-04-04 |
 | [For A Moment](https://open.spotify.com/track/1mKHZDWICROPP1gmOg1mn2) | [Haley Morrison](https://open.spotify.com/artist/3OMlFyzbxE7bDYBg4GiwET) | [For A Moment](https://open.spotify.com/album/0uQtP6n33MGR13YOZz4pmO) | 3:21 | 2023-10-16 |  |
@@ -593,6 +593,7 @@
 | [Whatever Will Be](https://open.spotify.com/track/6adM0QgyKfIaCnPos6OXX6) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Whatever Will Be](https://open.spotify.com/album/1lQs3tvAI1Sqh2kPAnCR56) | 1:52 | 2023-06-26 | 2023-08-15 |
 | [When Everything Is Calm](https://open.spotify.com/track/4haSmVvaqE5H7bHoH5Ji4N) | [Jon Thebur](https://open.spotify.com/artist/2Bhpy04Xbt9Vj0siuMXx3n) | [When Everything Is Calm](https://open.spotify.com/album/0x7gVCtQ16DwBB2G9GuKrD) | 2:44 | 2023-12-12 |  |
 | [When It Rains It Pours](https://open.spotify.com/track/2Dasbncj88VgX5FKh2ZVzs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [A Drop in the Ocean](https://open.spotify.com/album/0ZQQAZfQcQEU171lBODhZM) | 2:28 | 2022-04-22 | 2023-04-19 |
+| [When You Leave](https://open.spotify.com/track/45ZPmGvXAAxuebk3eXJE8v) | [Julius Sedlák](https://open.spotify.com/artist/2xBu9yRSo2C1G2Kb1ZlpGH) | [When You Leave](https://open.spotify.com/album/6JE7wFRA9OleazQwSF9B8A) | 2:46 | 2024-09-03 |  |
 | [When you were near](https://open.spotify.com/track/1hsC8r1VfGSuGCwLWbzmEh) | [Isabella Morales](https://open.spotify.com/artist/0UerER0nccijlpv1VMVkxL) | [Morning Rain](https://open.spotify.com/album/44kNZrMvuQjZamAb3vmuvB) | 2:40 | 2022-04-22 | 2022-05-28 |
 | [Whereabouts](https://open.spotify.com/track/4BWkwMwvllPPl0XKxPxRad) | [Portia Price](https://open.spotify.com/artist/7IwKtpUI6EW84PJLgzmlP7) | [Whereabouts](https://open.spotify.com/album/3riGY3qnZxMyCp01hgMCnd) | 3:09 | 2022-04-22 | 2022-07-28 |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-04-22 |  |

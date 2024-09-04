@@ -1,12 +1,12 @@
 {
-  "description": "This is Mariah Carey. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 478053,
+  "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
+  "num_followers": 478141,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAvzxI//N2r7tKDRbKKhSHh",
+  "snapshot_id": "ZtUAAAAAAAD7WW5Gcfcuy/n8tbDu9/6a",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Memoirs of an imperfect Angel (International Version)",
+        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 238866,
+      "name": "It's A Wrap",
+      "url": "https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Emancipation of Mimi",
         "url": "https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 203360,
       "name": "It's Like That",
       "url": "https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memoirs of an imperfect Angel (International Version)",
-        "url": "https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 238866,
-      "name": "It's A Wrap",
-      "url": "https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD"
     },
     {
       "added_at": null,

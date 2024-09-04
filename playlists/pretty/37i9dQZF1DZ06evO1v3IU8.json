@@ -1,12 +1,12 @@
 {
-  "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1326640,
+  "description": "This Is Banda MS de Sergio Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "num_followers": 1326717,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABSkZtTHA5jVh4wBRtkQ6Zz",
+  "snapshot_id": "ZtUAAAAAAAAPLKQLURCKJYxss/nMOGcl",
   "tracks": [
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 212280,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perdo\u0301n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 223453,
-      "name": "No Me Pidas Perdo\u0301n",
-      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
+      "duration_ms": 212280,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/1ugCJElyPMmDj2FYPgbD4d"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Bendici\u00f3n",
-        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 225960,
-      "name": "A M\u00ed Me Esta Doliendo",
-      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo Guadalajara - Monterrey (Live)",
         "url": "https://open.spotify.com/album/5KROXqQSRCERoBjGHu5koQ"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 231800,
       "name": "Se Va Muriendo Mi Alma - En Vivo",
       "url": "https://open.spotify.com/track/5IMVKUioFmxXU1TFYn5kZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Que Bendici\u00f3n",
+        "url": "https://open.spotify.com/album/5VL90afs1EsezktD44XMIN"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "A M\u00ed Me Esta Doliendo",
+      "url": "https://open.spotify.com/track/01dVdmSV7eaVgRzUAi6o13"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Preparaci\u00f3n",
-        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 176213,
-      "name": "En Preparaci\u00f3n",
-      "url": "https://open.spotify.com/track/56OruUjNoZ1JIeit65nUFP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Versi\u00f3n De M\u00ed",
         "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 198320,
       "name": "A Mi Tambien Me Vale",
       "url": "https://open.spotify.com/track/45aFUmuYDIL4biQYNfiGSQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Preparaci\u00f3n",
+        "url": "https://open.spotify.com/album/6SkVZ9EJpL1pQkf79qFnLF"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 176213,
+      "name": "En Preparaci\u00f3n",
+      "url": "https://open.spotify.com/track/56OruUjNoZ1JIeit65nUFP"
     },
     {
       "added_at": null,

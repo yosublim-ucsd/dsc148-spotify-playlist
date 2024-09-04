@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "3D : The Remixes",
+        "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201812,
+      "name": "3D (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
+    },
+    {
+      "album": {
         "name": "52 & HAUNTED",
         "url": "https://open.spotify.com/album/3uPela7bf7RAtg7EnkfQ2M"
       },
@@ -432,7 +454,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 110638,
       "name": "CRANKI",
       "url": "https://open.spotify.com/track/1dwuA3034avUaHBlIOUSlg"
@@ -1134,7 +1156,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 107538,
       "name": "juice",
       "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 169846,
       "name": "November",
       "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
@@ -2619,6 +2641,24 @@
     },
     {
       "album": {
+        "name": "\u0427\u0442\u043e \u043e\u043d\u0438 \u0437\u043d\u0430\u044e\u0442?",
+        "url": "https://open.spotify.com/album/53WSUcZEI05MflhZvEoyBk"
+      },
+      "artists": [
+        {
+          "name": "Egor Kreed",
+          "url": "https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192124,
+      "name": "\u0410\u043b\u043b\u043e",
+      "url": "https://open.spotify.com/track/7gxhnpAW0axBSVEjplfwhv"
+    },
+    {
+      "album": {
         "name": "\u0410\u043d\u0433\u0435\u043b",
         "url": "https://open.spotify.com/album/3OD1DuTZ0s1Rzmo60A32SP"
       },
@@ -3038,6 +3078,24 @@
       "duration_ms": 139574,
       "name": "\u0412\u0440\u0435\u043c\u044f \u043d\u0430 \u0432\u0435\u0441\u0435\u043b\u044c\u0435",
       "url": "https://open.spotify.com/track/4hAz8sq2eIVMPCDaXVveUx"
+    },
+    {
+      "album": {
+        "name": "\u0413\u0440\u0443\u0441\u0442\u043d\u0430\u044f \u0434\u0435\u0432\u0447\u043e\u043d\u043a\u0430 \u0441 \u0433\u043b\u0430\u0437\u0430\u043c\u0438 \u043a\u0430\u043a \u0443 \u0441\u043e\u0431\u0430\u043a\u0438",
+        "url": "https://open.spotify.com/album/4cRqvcjfnQDxwCTGP2UAUV"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
+      "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
     },
     {
       "album": {
@@ -4638,7 +4696,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 138512,
       "name": "\u0420\u0430\u0439\u0441\u043a\u0438\u0435 \u0446\u0432\u0435\u0442\u044b",
       "url": "https://open.spotify.com/track/1DSCMhnFgL4BVI6D8fJJ8a"
@@ -5788,7 +5846,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 279250,
       "name": "\u042d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC"

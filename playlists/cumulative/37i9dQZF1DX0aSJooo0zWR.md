@@ -2,7 +2,7 @@
 
 ### [Fusion Fest](https://open.spotify.com/playlist/37i9dQZF1DX0aSJooo0zWR)
 
-> Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
+> Electrified jazz, complex rhythms and virtuosic playing\. Cover: Chick Corea
 
 167 songs - 16 hr 7 min
 

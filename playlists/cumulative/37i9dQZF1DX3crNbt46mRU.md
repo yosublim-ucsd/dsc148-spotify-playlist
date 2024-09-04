@@ -4,7 +4,7 @@
 
 > This week's top new releases\. Cover: Tiakola
 
-13,720 songs - 28 day 13 hr 20 min
+13,720 songs - 28 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4602,7 +4602,7 @@
 | [GESPENSTER](https://open.spotify.com/track/0IFHokanzfRH4Jlxq127fO) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [GESPENSTER](https://open.spotify.com/album/3DHMTc37qNDdA1KEtP5YWM) | 2:48 | 2024-08-22 | 2024-08-30 |
 | [Gestern](https://open.spotify.com/track/5Vk6QMQGbsjkF3Ouqvfrjy) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS), [OVE](https://open.spotify.com/artist/42RwQlOWDVzGRQVa61O8VV) | [Gestern](https://open.spotify.com/album/7HwJvPEr1YmHt8TV40867S) | 2:19 | 2023-10-19 | 2023-10-27 |
 | [Gestern \(feat\. Wavy\)](https://open.spotify.com/track/4yCR0rsubDGD28gctgMxhT) | [ZAVET](https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG), [Wavy](https://open.spotify.com/artist/6fo2QiffMr02sEA2aFvUIz) | [Husky Augen](https://open.spotify.com/album/0Zn0Ls1AvADs49L3Kqk5Zi) | 2:43 | 2023-04-13 | 2023-04-21 |
-| [Gestern Morgen \(feat\. Kontra K\)](https://open.spotify.com/track/7kl6lMwuxvHZNmyD3bqGJT) | [JURI](https://open.spotify.com/artist/6SGVQ8bD0Hab6BItkqWVuJ) | [Gestern Morgen \(feat\. Kontra K\)](https://open.spotify.com/album/7cTd44LnH6jw6TRhjNMOCP) | 2:41 | 2024-08-29 |  |
+| [Gestern Morgen \(feat\. Kontra K\)](https://open.spotify.com/track/7kl6lMwuxvHZNmyD3bqGJT) | [JURI](https://open.spotify.com/artist/6SGVQ8bD0Hab6BItkqWVuJ) | [Gestern Morgen \(feat\. Kontra K\)](https://open.spotify.com/album/7cTd44LnH6jw6TRhjNMOCP) | 2:41 | 2024-08-29 | 2024-09-04 |
 | [Geständnis](https://open.spotify.com/track/7AGtu4Lg1qMeky9XCkWu9h) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0) | [Geständnis](https://open.spotify.com/album/1XFDJO0I4f1QnqF77KGjoV) | 4:00 | 2024-04-11 | 2024-04-19 |
 | [Get 2 Love](https://open.spotify.com/track/7cVA3CATXntsxQvTNvKPXW) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf), [Alexander Oscar](https://open.spotify.com/artist/7ypOZKaKGrCf3V6pOuaXiM) | [Get 2 Love](https://open.spotify.com/album/4EGWJ5JhpZpij2KVEj8BnR) | 2:43 | 2022-07-29 | 2022-08-05 |
 | [Get 27](https://open.spotify.com/track/6j5hgs8ZYahbIcjjr0DTNd) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [Get 27](https://open.spotify.com/album/5wDcn3urfjHVuOJXTCtKMI) | 2:31 | 2023-05-11 | 2023-05-19 |
@@ -13030,7 +13030,7 @@
 | [Wer ist hier der Bass \(Marco\)](https://open.spotify.com/track/2umkRcmmGEIsvauHjWZBkn) | [Fäaschtbänkler](https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX) | [Wer ist hier der Bass \(Marco\)](https://open.spotify.com/album/1LYNpX8Ft2LfAkkHgr8uRT) | 2:43 | 2023-10-05 | 2023-10-13 |
 | [Wer lieben will, muss fühlen](https://open.spotify.com/track/1MBEeyvkbOiYhqaVJh18Qf) | [Maite Kelly](https://open.spotify.com/artist/67e4k4hUdeTb0UIm878liJ) | [Nur Liebe](https://open.spotify.com/album/02bmtzNQo7tU5s5W1sYdCG) | 3:56 | 2024-03-28 | 2024-04-05 |
 | [Wer Rettet Die Welt Für Mich](https://open.spotify.com/track/4yfh620DQDbNumAxWtqecH) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [Wer Rettet Die Welt Für Mich](https://open.spotify.com/album/6uUZLaRL7oJg3MjpM2cZOo) | 2:57 | 2022-09-15 | 2022-09-23 |
-| [Wer Sagt Es Zuerst](https://open.spotify.com/track/56RJCIP17bS8CQLhtdhiMG) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Wer Sagt Es Zuerst](https://open.spotify.com/album/4tpqM5OCsHm8h4v0jkJYv0) | 2:34 | 2024-08-29 |  |
+| [Wer Sagt Es Zuerst](https://open.spotify.com/track/56RJCIP17bS8CQLhtdhiMG) | [Tom Twers](https://open.spotify.com/artist/6Vg9ZTblAIMeOiRCgyzJzO) | [Wer Sagt Es Zuerst](https://open.spotify.com/album/4tpqM5OCsHm8h4v0jkJYv0) | 2:23 | 2024-08-29 |  |
 | [Wer sammelt mich noch auf](https://open.spotify.com/track/3qlxuSW5iab5IjVh5Io1bA) | [Mijo](https://open.spotify.com/artist/1UFe8wvqGgbzvRGq3yya1X) | [Wer sammelt mich noch auf](https://open.spotify.com/album/3Z4EcNVjKmH9mRzg9TO9Qx) | 2:16 | 2022-12-15 | 2022-12-24 |
 | [Wer wir sind](https://open.spotify.com/track/4SEImIUylCy9YVNwREfXkL) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Wer wir sind](https://open.spotify.com/album/3zUerUY6tHRhKCvMnJR87K) | 3:37 | 2022-03-24 | 2022-04-01 |
 | [wer wir waren](https://open.spotify.com/track/52uMovKo0Oo8bponOopTbH) | [Nisa](https://open.spotify.com/artist/6wYROOAfZ97gNh5TzasS50) | [wer wir waren](https://open.spotify.com/album/3pXtZtMd2Wt0KDjXmJGLqq) | 2:30 | 2023-12-21 | 2024-01-05 |

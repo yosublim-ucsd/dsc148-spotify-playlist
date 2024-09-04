@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This is Zona Ganjah\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,655 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,680 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 5 | [No estes triste](https://open.spotify.com/track/2bAE47QK208a6EAv8YIUIf) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:58 |
 | 6 | [Fumando Vamos a Casa](https://open.spotify.com/track/4O8jfikpUqtZvWV7PAUwTv) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:42 |
 | 7 | [Estoy bien](https://open.spotify.com/track/3t6qVkQq25yy44BjjsMbUD) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 5:34 |
-| 8 | [Cada quien](https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:25 |
+| 8 | [Juicio](https://open.spotify.com/track/4o9ZnWYtZg2vPh6GT0tjT6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 4:02 |
 | 9 | [Todo Cuadra](https://open.spotify.com/track/0humo0il6SEZs9uI4RS76H) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:32 |
 | 10 | [Y mi corazón contento](https://open.spotify.com/track/3FUhe43n5NShAfvPWSyPxE) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:28 |
 | 11 | [Buscar estar](https://open.spotify.com/track/2SbiOwjYdEwPDvGdI9glxW) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:11 |
-| 12 | [Juicio](https://open.spotify.com/track/4o9ZnWYtZg2vPh6GT0tjT6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 4:02 |
+| 12 | [Cada quien](https://open.spotify.com/track/7rD8eGGIOy2G5yxWlmiQH3) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:25 |
 | 13 | [Fuma del humo y sana](https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:01 |
 | 14 | [Dos que Brillamos](https://open.spotify.com/track/3g6a9iLkuWfUnqD7bslHC4) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:05 |
 | 15 | [Bendita](https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [Inescriptible sensación](https://open.spotify.com/track/2U8IkNoq1MhpS13YlJ80ri) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Despertar](https://open.spotify.com/album/0eWRk2qoyQ3YSbdC6Uff8o) | 4:26 |
 | 50 | [Buscándote](https://open.spotify.com/track/0MZ8BVLMsfmzN5UUmqvtqX) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 2:38 |
 
-Snapshot ID: `ZtOugAAAAAAp7g1efshC4Obr06m/JMOl`
+Snapshot ID: `ZtUAAAAAAAByZ72j9BUICOntosdt0qjI`

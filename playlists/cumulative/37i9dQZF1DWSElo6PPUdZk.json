@@ -115,6 +115,32 @@
     },
     {
       "album": {
+        "name": "Badi Tanhai (From \"Shahkot\")",
+        "url": "https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2"
+      },
+      "artists": [
+        {
+          "name": "Afsana Khan",
+          "url": "https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo"
+        },
+        {
+          "name": "Jatinder Shah",
+          "url": "https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr"
+        },
+        {
+          "name": "Shellee",
+          "url": "https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203110,
+      "name": "Badi Tanhai (From \"Shahkot\")",
+      "url": "https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB"
+    },
+    {
+      "album": {
         "name": "Badmashi",
         "url": "https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM"
       },
@@ -970,7 +996,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 198400,
       "name": "Life",
       "url": "https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf"

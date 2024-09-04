@@ -2,9 +2,9 @@
 
 ### [This Is Danny Felix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUjFC)
 
-> This is Danny Felix\. The essential tracks, all in one playlist.
+> This is Danny Felix\. Track\-track unggulan, semuanya dalam satu playlist.
 
-84 songs - 4 hr 43 min
+85 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [CELOSO](https://open.spotify.com/track/2M9bbvrClHRNUvipXTFxK7) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [CELOSO](https://open.spotify.com/album/4OWLOru17aWeqTWg7TSxKb) | 3:05 | 2024-02-24 |  |
 | [Con la U y la P](https://open.spotify.com/track/2zOPjlGlARwM0t5YEHPwf4) | [La Destreza](https://open.spotify.com/artist/24R1KBqLrpV8Ta5Yha8TTm), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Chris Hermosillo](https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B) | [Con la U y la P](https://open.spotify.com/album/4uuRnTWV3KUzdZBQOZSb5t) | 3:16 | 2024-01-29 |  |
 | [Culiacan Se Estremecia](https://open.spotify.com/track/5e3qwCkgUwpxsw70k5N2Xt) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [No Te Awuites Solo Son Unos Dop3kidz$](https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH) | 4:02 | 2024-08-25 |  |
-| [Cumbia Del Sol \(Live\)](https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 4:29 | 2024-07-22 |  |
+| [Cumbia Del Sol \(Live\)](https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 4:29 | 2024-07-22 | 2024-09-04 |
 | [De Cero](https://open.spotify.com/track/5UCOFCpcZuAqZhB3pwmA6X) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [AMEN](https://open.spotify.com/album/628Kex6bcmoIkHin6sdBS6) | 3:51 | 2024-01-29 |  |
 | [De Negra a Negra](https://open.spotify.com/track/2PJfn1KMAIupqjdHOvp1AY) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [De Negra a Negra](https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp) | 2:45 | 2024-01-29 |  |
 | [De Verde Una Hectárea](https://open.spotify.com/track/4Epr5XuIyiVQhCC5SMVXtw) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [De Verde Una Hectárea](https://open.spotify.com/album/0Ki6JrEdXYE7HqsQAktUYq) | 2:23 | 2024-01-29 | 2024-06-25 |
@@ -32,9 +32,9 @@
 | [El 0\-10](https://open.spotify.com/track/5BYCIO0bie4rbtRp3QpeXG) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El 0\-10](https://open.spotify.com/album/3InQJ7xM3XPE7BzMizPgW6) | 2:42 | 2024-01-29 |  |
 | [EL ARQUITECTO](https://open.spotify.com/track/7HHEleNNNKkvSr1e2Axtu3) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:28 | 2024-02-14 | 2024-04-07 |
 | [EL ATASCADO](https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 2:54 | 2024-08-27 |  |
-| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 | 2024-08-12 |
+| [El Caballero \(Live\)](https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:46 | 2024-01-29 |  |
 | [EL GAVILÁN](https://open.spotify.com/track/3DEyKgtG8Z1enjpfGDuETH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [EL GAVILÁN](https://open.spotify.com/album/6Seu8jXab2lGU2CJ2Jofuu) | 4:28 | 2024-07-08 | 2024-08-25 |
-| [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 |  |
+| [El Lunar \(Live\)](https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Rancho Style](https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA) | 4:54 | 2024-04-28 | 2024-09-04 |
 | [EL MAGO “EL MÁGICO”](https://open.spotify.com/track/7n1mrrgEcpSXpjULsOQZmO) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [12:34](https://open.spotify.com/album/7GhNtRAUiODAMJQyl8fa6b) | 2:03 | 2024-01-29 | 2024-06-12 |
 | [El Operativo](https://open.spotify.com/track/4CazHqNXSkINRcWAPpN8Nn) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Jesús Ojeda y Sus Parientes](https://open.spotify.com/artist/3DVNivnmWy2nzzIneVr4Yk) | [Entre Los Grandes](https://open.spotify.com/album/7wK9o9b3vwOrv2dXbCbQMK) | 3:01 | 2024-01-29 |  |
 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |
@@ -74,6 +74,7 @@
 | [Pa Que Sepan De Una Vez](https://open.spotify.com/track/2xS2oBq0mCa7O4RbdxBtxL) | [Carlos Y Los Del Monte Sinai](https://open.spotify.com/artist/3bNAwmmGrAz6YTioxIBmXc), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Pa Que Sepan De Una Vez](https://open.spotify.com/album/5lFgevGf7iLk3WOe7Uhz3G) | 2:57 | 2024-01-29 |  |
 | [Popurri de Cumbias](https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los De Finix](https://open.spotify.com/artist/5PQoAsNyQgPfDgncYxm8jz) | [Sigo Firme de Pie](https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT) | 4:50 | 2024-01-29 |  |
 | [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 | 2024-07-15 |
+| [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 |  |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |
 | [Quítate La Ropa](https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Crónicas De Un Corazón Roto](https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz) | 3:20 | 2024-01-29 |  |
 | [SALUDOS A MI VIEJÓN](https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Alberto H](https://open.spotify.com/artist/5aOm6iaKxo35g41zaju8kd) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 3:14 | 2024-01-29 |  |

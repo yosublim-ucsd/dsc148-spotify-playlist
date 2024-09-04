@@ -1,6 +1,6 @@
 {
   "description": "Tiakola au top des nouveaut\u00e9s de la semaine !",
-  "num_followers": 351053,
+  "num_followers": 351083,
   "original_name": "New Music Friday France",
   "owner": {
     "name": "Spotify",
@@ -928,12 +928,12 @@
       },
       "artists": [
         {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
           "name": "2TH",
           "url": "https://open.spotify.com/artist/5FK0v12GGmqj8kzmiWDPRT"
+        },
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
         }
       ],
       "duration_ms": 166468,

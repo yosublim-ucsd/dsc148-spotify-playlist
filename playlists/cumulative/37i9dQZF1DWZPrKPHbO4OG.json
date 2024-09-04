@@ -1611,6 +1611,28 @@
     },
     {
       "album": {
+        "name": "Taambdi Chaamdi",
+        "url": "https://open.spotify.com/album/1z1BAADazRIogvfkRqvl8w"
+      },
+      "artists": [
+        {
+          "name": "Kratex",
+          "url": "https://open.spotify.com/artist/3Gowc3dedLQgQAt4y0gPBo"
+        },
+        {
+          "name": "Shreyas",
+          "url": "https://open.spotify.com/artist/65qLuo5zSTqg8Qb17OCnLu"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Taambdi Chaamdi",
+      "url": "https://open.spotify.com/track/14M0pSvqNEhPdByBNw159R"
+    },
+    {
+      "album": {
         "name": "Ved (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Zs7pmwTEUYubRl75dvoSR"
       },

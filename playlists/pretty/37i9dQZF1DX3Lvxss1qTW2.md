@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. <br/>Cover: Hyce, Boy Pee & Brown Joel
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,475 likes - 70 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,498 likes - 70 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 19 | [Finish Me \(AEIOU\)](https://open.spotify.com/track/2u5YJtmjz0wRISSek8g2tS) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Finish Me \(AEIOU\)](https://open.spotify.com/album/3WcAZQlQPsmeewc90tLg7H) | 1:31 |
 | 20 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 |
 | 21 | [back n forth](https://open.spotify.com/track/2q7BfsGmjmUbxn5VkI6QKN) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Lagbaja](https://open.spotify.com/artist/2caVTY3yVrcZ3iaB7rIaY2) | [adedamola](https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A) | 3:32 |
-| 22 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/28Z7pwhYRsiI6FCjtLUn4p) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
+| 22 | [W](https://open.spotify.com/track/59AFh7GmSfoUZgxH3tG75O) | [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [W](https://open.spotify.com/album/74tqYpE59VuRIU36bh7xUn) | 2:33 |
 | 23 | [Feels](https://open.spotify.com/track/1akSDgOrWqGhHy4ZWIM4nd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [Le Mav](https://open.spotify.com/artist/59MU62wyOLf8FlV7l8fewL), [GOLD](https://open.spotify.com/artist/3G7vnr4LuKUuDU3hgIZSMM) | [Feels](https://open.spotify.com/album/7c9ijsXzppdoXA8OEdDA2k) | 3:03 |
 | 24 | [Jogo](https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB) | [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv) | [Jogo](https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8) | 2:40 |
 | 25 | [Light Up](https://open.spotify.com/track/0F98hOl7tUOTXphPzFfFX3) | [Lovince Mckenzie](https://open.spotify.com/artist/4dTlGjltanfIiMqXrPD8eZ), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Light Up](https://open.spotify.com/album/4xtF86l14dbbZvCBB8OppD) | 2:17 |

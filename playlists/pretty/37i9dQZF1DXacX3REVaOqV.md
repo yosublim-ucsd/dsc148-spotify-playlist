@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacX3REVaOqV.md) - [plain]
 
 > The best in house music
 
-[Spotify](https://open.spotify.com/user/spotify) - 501,344 likes - 120 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,341 likes - 120 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

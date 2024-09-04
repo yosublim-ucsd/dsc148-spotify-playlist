@@ -4,7 +4,7 @@
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-298 songs - 15 hr 18 min
+299 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,8 @@
 | [GOLF R FREESTYLE](https://open.spotify.com/track/4l11vPYTqYrq9wjcO2pHDc) | [Bobby Vandamme](https://open.spotify.com/artist/054k3bx4tpjx1tfypvq3eq) | [GOLF R FREESTYLE](https://open.spotify.com/album/0muYATiSO8VD8aNbUqGXdF) | 2:02 | 2024-04-19 | 2024-05-11 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-06-28 |  |
 | [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2024-01-26 | 2024-05-25 |
-| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-09 |  |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN) | 2:23 | 2024-08-09 | 2024-09-04 |
+| [Guess featuring Billie Eilish](https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guess featuring Billie Eilish](https://open.spotify.com/album/3rQE6GuZuvLF82h0o3Xqqd) | 2:23 | 2024-08-30 |  |
 | [Guilty as Sin?](https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 4:14 | 2024-04-26 | 2024-05-04 |
 | [Heartless](https://open.spotify.com/track/6zUYK0u0aZTrEadjNzuQXv) | [Hotvibez](https://open.spotify.com/artist/7f4xrM2aayisIjXZxjzcGb) | [Heartless](https://open.spotify.com/album/7InE6hOyJcHVT4OSg8iliC) | 2:09 | 2024-02-09 | 2024-02-17 |
 | [HERZ MACHT BAMM](https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [treamiboii](https://open.spotify.com/artist/4jsmk00NuPR1FfXqUCF1ac) | [HERZ MACHT BAMM](https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11) | 2:44 | 2024-02-16 | 2024-03-23 |

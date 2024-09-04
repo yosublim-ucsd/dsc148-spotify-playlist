@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 
 > A journey in the modern & old Sudanese sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,555 likes - 120 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,559 likes - 120 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,11 +75,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX15iTqq2X8NE.md) - [plain]
 | 65 | [slow dance](https://open.spotify.com/track/1nD3OTwIppymPUbNkmv1sK) | [Hoosh](https://open.spotify.com/artist/451QYarjabz09nL2SSufeV), [Paperwater](https://open.spotify.com/artist/4enJurkJhWYJxokouQ02ky) | [slow dance](https://open.spotify.com/album/7nkTyKTdrfVkp7xt8NZF3u) | 2:15 |
 | 66 | [Mashy](https://open.spotify.com/track/5apy8FTSLpwUU06Dbrsp6T) | [Adiga Music Band](https://open.spotify.com/artist/5U7XnFuuPanGY0TnJfqtlK) | [Hegira](https://open.spotify.com/album/7LPjjzAikDcyN8IDa7W0px) | 3:47 |
 | 67 | [Manaok \(Forbidden\)](https://open.spotify.com/track/10LEmxW2mReKO9krEEROLa) | [Amira Kheir](https://open.spotify.com/artist/5WZN5v7MdgFPu29h88MWvh) | [Mystic Dance](https://open.spotify.com/album/3xQYBIIhwi1Xmts6Y8lgSq) | 6:15 |
-| 68 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
-| 69 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 68 | [The Woods](https://open.spotify.com/track/2kmfh6SiWGNGscn1z7RlUT) | [Nadine El Roubi](https://open.spotify.com/artist/0LFs7mfW7n7DOKwmRTO0sf) | [The Woods](https://open.spotify.com/album/2k0fEyChPaC0qsSYXc0UqK) | 3:03 |
+| 69 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
 | 70 | [Farasha فراشة](https://open.spotify.com/track/4F731VYNl7sOZ3dwdZZsTV) | [Alsarah](https://open.spotify.com/artist/44xvhsoOZU4Tmr5maR79mS), [Sufyvn](https://open.spotify.com/artist/5uO9QrR5mvPdJ7uPIESbr6), [Flippter](https://open.spotify.com/artist/3E60sH2l7t9f4bIfCZo5DX) | [Farasha فراشة](https://open.spotify.com/album/2SgBBbEiX68bS67DbqFJZG) | 3:52 |
-| 71 | [Soudani Manayou \- Cervo Edit](https://open.spotify.com/track/6lJJHmqZGULV0H34Dyw1kF) | [Majid Bekkas](https://open.spotify.com/artist/6T4kWmFsjL5rnWOLOHKa7C), [Cervo](https://open.spotify.com/artist/4U5yFCOe1UuvE72efEJAlX) | [Soudani Manayou](https://open.spotify.com/album/2iPwYRSgVpjaqL7fPW2wRR) | 8:05 |
-| 72 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
+| 71 | [Tmsa7](https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2) | [Fodi](https://open.spotify.com/artist/4fhdYn7sQME3sJkPuCpYZE) | [Tmsa7](https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8) | 2:08 |
+| 72 | [ARMANI](https://open.spotify.com/track/1VKywc57uO6UZVXxpQWkkN) | [PAPII](https://open.spotify.com/artist/2LGrYR15SmiRsIGQlEnRQs) | [ARMANI](https://open.spotify.com/album/4FXXZelcECRt63G4Yq3Nc1) | 3:24 |
 | 73 | [Stay Alive](https://open.spotify.com/track/23RTebU5woj5YZgKi9xuZm) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/6BcaOyEe7OjryQ8EP3HUfF) | 3:01 |
 | 74 | [Agabony](https://open.spotify.com/track/00EfH4456NhY3RIMpBH3yP) | [Sharief Elfehail](https://open.spotify.com/artist/4bBWBw0jxg6rlIx4GpTuLC) | [Agabony](https://open.spotify.com/album/0y8Z1R9rnVv5a87fx7scp0) | 4:34 |
 | 75 | [Nyctophilia](https://open.spotify.com/track/1XBbWRDkbUNl9We8ZebYmp) | [Mvndila](https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ) | [HYDR](https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA) | 4:02 |

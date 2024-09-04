@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. Todos os maiores hits em uma só playlist.
+> This is League of Legends\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 388,016 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 388,001 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 37 | [Shine On](https://open.spotify.com/track/4NL6HJer1ViiI2BEWO1d3c) | [Legends of Runeterra](https://open.spotify.com/artist/3rZDp6jeBal6cdTyi50EYb), [Brain Tan](https://open.spotify.com/artist/3K9UVvuVwQZbO35b8uBsdb), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Shine On](https://open.spotify.com/album/0TATIDURuDWbpmq54rOzFn) | 3:52 |
 | 38 | [Mi Clan](https://open.spotify.com/track/356YI2lqH74Ta2pKkLDeIF) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Mi Clan](https://open.spotify.com/album/5lzNwqpKkJPP8sTnZETESo) | 2:18 |
 | 39 | [Rise \(Redux\)](https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Rise \(Redux\)](https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC) | 3:14 |
-| 40 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
-| 41 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
+| 40 | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Aphelios, the Weapon of the Faithful](https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab) | 4:01 |
+| 41 | [REMIX RUMBLE](https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [REMIX RUMBLE \(Steve Aoki Remix\)](https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5) | 3:37 |
 | 42 | [Burning Bright](https://open.spotify.com/track/6d2cQyhS2E4ai0VuNCorFC) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Burning Bright](https://open.spotify.com/album/25DYEijVSAPC4w9R1BxtsS) | 3:07 |
 | 43 | [Coming Alive](https://open.spotify.com/track/6BeqTTy15ExY8rFFY6aQRk) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Vo Williams](https://open.spotify.com/artist/18KIg6ST1nUjVUvAlEB6ak), [Boslen](https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL) | [Soul Fighter \(Original Soundtrack\)](https://open.spotify.com/album/6WtdFxF33VJGO1gy3Gl1Ga) | 3:27 |
 | 44 | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/track/4OiGC4aSeZV2O71xKl6ssk) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Our Love \(From the series Arcane League of Legends\)](https://open.spotify.com/album/0AVg3b9aPqPsyXDgR6E2fV) | 3:38 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [Pantheon, the Unbreakable Spear \(From League of Legends: Season 9\)](https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [The Music of League of Legends: Season 9 \(Original Game Soundtrack\)](https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg) | 3:38 |
 | 51 | [I'll Find a Way](https://open.spotify.com/track/3fYMVtfD6mbDSNREPAl1pq) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TELLE](https://open.spotify.com/artist/2ZLkrrjhoAzlDuxGZJSWB2) | [Echoes of Light](https://open.spotify.com/album/4BI0o8MQXotNlNIzQl5fGC) | 3:25 |
 
-Snapshot ID: `ZtOugAAAAAB8K/mUsw7OnU9HWXB3B9Md`
+Snapshot ID: `ZtUAAAAAAAACK8bGtB2vbO6RvTvvgYoC`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
+> This is Daniela Araújo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,982 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,980 likes - 51 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 32 | [Abril](https://open.spotify.com/track/0YjPR65MgY5cIFVtOuuAdt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Vitor Kivitz](https://open.spotify.com/artist/32UsyOM3D9SLWD1hSIYo5d) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:49 |
 | 33 | [Salmo 100](https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7) | [Turma do Barulho, Vol\. 4](https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr) | 2:38 |
 | 34 | [Jesus](https://open.spotify.com/track/5a546hu8m59WXDxwAmryIt) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 3:46 |
-| 35 | [Conexão](https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:49 |
-| 36 | [Lento](https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
-| 37 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 |
+| 35 | [Lento](https://open.spotify.com/track/1Cq27FmPcRhjg35dsPKUjx) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [La Luz](https://open.spotify.com/album/1XFGH2sQhe9oIJIVMjrnsN) | 3:00 |
+| 36 | [Conexão](https://open.spotify.com/track/4aBMjZM1g06xrRwlm16rjd) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:49 |
+| 37 | [Ruídos](https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ruídos](https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX) | 5:20 |
 | 38 | [Imensurável](https://open.spotify.com/track/0JwkjDLTgWa3y4CtgB4zMw) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:04 |
-| 39 | [Ruídos](https://open.spotify.com/track/0m46RBiDz3fsJHecdbwqwU) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Ruídos](https://open.spotify.com/album/7p4hTNtWgcYTcZZZc92LjX) | 5:20 |
-| 40 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
-| 41 | [Gratidão](https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:14 |
+| 39 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 |
+| 40 | [Gratidão](https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:14 |
+| 41 | [Esperança](https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 4:40 |
 | 42 | [Liberdade](https://open.spotify.com/track/1MksipefYCj3jjdupynfZi) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:30 |
-| 43 | [Esperança](https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 4:40 |
+| 43 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 44 | [Sintonia](https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:22 |
 | 45 | [Assim Eu Sou \(feat\. Daniela Araújo\)](https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Graça](https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU) | 3:36 |
 | 46 | [Quem é Esse? \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acelera e Pisa \(Ao Vivo\)](https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3) | 5:21 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 50 | [Sala](https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo: Sessions](https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS) | 5:18 |
 | 51 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 |
 
-Snapshot ID: `ZtOugAAAAAABpoSG+rauPD4CjCMt+uKU`
+Snapshot ID: `ZtUAAAAAAAA7SO1c6QZ9/Kbbboo4WYyO`

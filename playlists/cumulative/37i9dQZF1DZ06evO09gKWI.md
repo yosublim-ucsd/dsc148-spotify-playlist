@@ -2,7 +2,7 @@
 
 ### [This Is Bivolt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09gKWI)
 
-> This is Bivolt\. Todos os maiores hits em uma só playlist.
+> This is: Bivolt\. Alle wichtigen Tracks in einer Playlist.
 
 68 songs - 3 hr 55 min
 

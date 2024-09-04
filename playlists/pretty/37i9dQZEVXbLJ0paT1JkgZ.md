@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Chile.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,125 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,130 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 25 | [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 |
 | 26 | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/track/4Br7zuCL1Jetik8COatafL) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Easykid](https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb), [LOS 4F](https://open.spotify.com/artist/7vdDWCqSTK2O100wDjYvh5) | [Enrolar \- Fantastic Four Remix](https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO) | 5:03 |
 | 27 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 |
-| 28 | [Sólida](https://open.spotify.com/track/7eTTWunsR2Z1z5plDYKk6C) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Sólida](https://open.spotify.com/album/6ijyNh1JRhaj3lqPys9eiZ) | 2:37 |
+| 28 | [Solida](https://open.spotify.com/track/1mpyzZYsTIlRar5s0CxsC5) | [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH) | [Solida](https://open.spotify.com/album/76Vgm0kKAsH7kkapKsPudr) | 2:33 |
 | 29 | [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 |
 | 30 | [Hoy](https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Hoy](https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn) | 3:18 |
 | 31 | [misteriosa \(xulinho\)](https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH) | [misteriosa \(xulinho\)](https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLJ0paT1JkgZ.md) - [plain]
 | 49 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 |
 | 50 | [miau](https://open.spotify.com/track/5osSgKDiyrzhLjsEABO6c9) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [miau](https://open.spotify.com/album/71I1bBOFoP9ootc5n4LPjg) | 3:05 |
 
-Snapshot ID: `LmklcAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lmp28AAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 
 > \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,233 likes - 85 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,712 likes - 85 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvyLcddcaVU.md) - [plain]
 | 57 | [Imagine](https://open.spotify.com/track/6IcsbETuviVu6UTiBTcxY4) | [Carbonne](https://open.spotify.com/artist/2t0frJEIdex2PTwuLlGxDD) | [Imagine](https://open.spotify.com/album/3jI55EoABEJ0qbxHJ7OvQ6) | 2:45 |
 | 58 | [BBL](https://open.spotify.com/track/4vyW7yLnnO01ZIoZR21PIq) | [Arma Jackson](https://open.spotify.com/artist/22I8wvU1Zw6EMiOt4W98BN), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [BBL](https://open.spotify.com/album/595vG7VzrjghpR8TlhgFaD) | 2:52 |
 | 59 | [Lilou Dallas](https://open.spotify.com/track/2GgkH0MWw40xMXcwljb4mk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Autobahn](https://open.spotify.com/album/1y0Yts8U11AdgMgl4tPDII) | 3:38 |
-| 60 | [Bebeto](https://open.spotify.com/track/1fDFx7MpMpxNeHj0uQ4395) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Mi Vida \(Edition de Noël\)](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:25 |
+| 60 | [Bebeto](https://open.spotify.com/track/1fDFx7MpMpxNeHj0uQ4395) | [Kendji Girac](https://open.spotify.com/artist/4IS4EyXNmiI2w5SRCjMtEF), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Mi Vida \- Edition de Noël](https://open.spotify.com/album/6Rq5fjFsMh2iF4RCNo2PFk) | 3:25 |
 | 61 | [Rouge et bleu](https://open.spotify.com/track/4PkQpqSjCxenpqJbFViK6b) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Kaos](https://open.spotify.com/album/1eFiIv1SqrUJHOFf54U27W) | 4:13 |
 | 62 | [Passe ton chemin](https://open.spotify.com/track/1edPU5OOn4YCWn9lR0nesC) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Passe ton chemin](https://open.spotify.com/album/4oZy6v3nyTXCE2pX4Vv8m0) | 2:49 |
 | 63 | [HAY LUPITA](https://open.spotify.com/track/5jFA0f4ZDGLbQP4nxzL8D4) | [Lomiiel](https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo) | [HAY LUPITA](https://open.spotify.com/album/2VOwmlyJzRjfMfofsNHTtR) | 1:45 |

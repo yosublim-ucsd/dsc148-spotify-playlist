@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACEHmY7WetB/NK2KFgoMbAc",
+  "snapshot_id": "AAAAAAAAAABPbQhwURAwMmQxS5JYKk4P",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -83,6 +83,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Becoming the Bull",
+        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Becoming the Bull - Reimagined",
+      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -99,22 +115,6 @@
       "duration_ms": 207160,
       "name": "She Don't Love Me Now",
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Becoming the Bull",
-        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
-      },
-      "artists": [
-        {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
-        }
-      ],
-      "duration_ms": 238363,
-      "name": "Becoming the Bull - Reimagined",
-      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
     },
     {
       "added_at": "2024-08-30 04:00:00",

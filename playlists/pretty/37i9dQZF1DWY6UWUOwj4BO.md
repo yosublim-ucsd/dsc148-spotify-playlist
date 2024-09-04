@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 
 > Les meilleurs titres du moment et plus encore en version acoustique.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,474 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,489 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 26 | [Tattoo \- Acoustic](https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo \(Acoustic\)](https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY) | 3:34 |
 | 27 | [Linger \- SiriusXM Session](https://open.spotify.com/track/2dono2Koz7DEvGwxUsmMLq) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Linger / Heading For The Door \(Sirius XM Session\)](https://open.spotify.com/album/2THNAoibV6yyuZcvaU9U5x) | 3:06 |
 | 28 | [Anti\-Hero \- Acoustic Version](https://open.spotify.com/track/2d3d9xZutJjmUpntiyHt3F) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Anti\-Hero \(Acoustic Version\)](https://open.spotify.com/album/5vgWXUueeEU2labRz6TlNv) | 3:16 |
-| 29 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \(Acoustic Version\)](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
+| 29 | [Bad Habits \- Acoustic Version](https://open.spotify.com/track/0IkK4SEryuCtbQjm5LRLMZ) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bad Habits \- Acoustic Version](https://open.spotify.com/album/6m1jYE77JZX8aJpO5ei2V7) | 3:52 |
 | 30 | [Bitter Sweet Love \- Acoustic](https://open.spotify.com/track/0OKRjdVDhc7IM6bbhkMxjJ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love \(Acoustic\)](https://open.spotify.com/album/37L0qyd3pFSABQ4OfKi8Tf) | 2:43 |
 | 31 | [Et Bam \- Acoustic Version](https://open.spotify.com/track/1bizPvtC2qar0gSJBt3NMd) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Et Bam](https://open.spotify.com/album/4bk60BI5rfcvl392wkXZwJ) | 3:35 |
 | 32 | [Emiliana \- Acoustic](https://open.spotify.com/track/5o2eHgbRzQbeZKMFfgy1nn) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 3:19 |
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6UWUOwj4BO.md) - [plain]
 | 43 | [Take On Me \- 2017 Acoustic](https://open.spotify.com/track/6NK9sI0Lnsiwn6I0MbWWxn) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Take On Me \(2017 Acoustic\)](https://open.spotify.com/album/475VP8QRLP0eQ5wfeyrCS1) | 3:04 |
 | 44 | [SNAP \- Acoustic](https://open.spotify.com/track/6OQ84LoCVGxLkH95LOjIC1) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/3CVEB0FPk25Ds64ALgxjH7) | 3:28 |
 | 45 | [How Do I Say Goodbye \- Acoustic](https://open.spotify.com/track/7fAoDr6naastKUtqo75SNm) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [How Do I Say Goodbye](https://open.spotify.com/album/1F0usgSkjLQNKW7wRsNvRY) | 2:44 |
-| 46 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \(Piano Version\)](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 |
+| 46 | [Eyes Closed \- Piano Version](https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Eyes Closed \- Piano Version](https://open.spotify.com/album/6dhAJ4oigNFSv4paZnZHmW) | 3:14 |
 | 47 | [Forget Me \- Piano Acoustic](https://open.spotify.com/track/3Xu1SbsuVDHrnzuNAZEXNB) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Forget Me \(Piano Acoustic\)](https://open.spotify.com/album/2RhXMRkU9R9LW0bNxcuVX0) | 3:27 |
 | 48 | [Sweet but Psycho \- Acoustic](https://open.spotify.com/track/10WVEHOf1FZf5XgK6dUWvN) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho \(Acoustic\)](https://open.spotify.com/album/2oKx85K5SRVksSS9aN1Lon) | 2:59 |
 | 49 | [Desire \(with Sam Smith\) \- Acoustic](https://open.spotify.com/track/5EUZq2pJJi1X2yRHzAeDWJ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Desire \(with Sam Smith\) \[Acoustic\]](https://open.spotify.com/album/15fFDWyVcxknsTGmJ2q354) | 3:05 |

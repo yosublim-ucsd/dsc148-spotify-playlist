@@ -1,12 +1,12 @@
 {
-  "description": "This Is Chris Brown. Los temas esenciales, todos en una lista.",
-  "num_followers": 871712,
+  "description": "This is Chris Brown. The essential tracks, all in one playlist.",
+  "num_followers": 871938,
   "original_name": "This Is Chris Brown",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAP61ItIHx9trwMbn/otms2",
+  "snapshot_id": "ZtUAAAAAAACVykaICwD5+xsjNyivsM0N",
   "tracks": [
     {
       "added_at": null,
@@ -243,6 +243,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nost\u00e1lgico",
+        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 209883,
+      "name": "Nost\u00e1lgico",
+      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wait On It (feat. Bryson Tiller & Chris Brown)",
         "url": "https://open.spotify.com/album/4KIsBJev5R0VLIL3qAVDhx"
       },
@@ -267,26 +291,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nost\u00e1lgico",
-        "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
       "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
         {
           "name": "Chris Brown",
           "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 209883,
-      "name": "Nost\u00e1lgico",
-      "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "added_at": null,
@@ -335,22 +351,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Yo (Excuse Me Miss)",
-      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86"
       },
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 217251,
-      "name": "Delusional",
-      "url": "https://open.spotify.com/track/4i1wik8DtU7eqSEWRsTHuP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 217251,
+      "name": "Delusional",
+      "url": "https://open.spotify.com/track/4i1wik8DtU7eqSEWRsTHuP"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 176503,
-      "name": "Hmmm (feat. Davido)",
-      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F.A.M.E. (Expanded Edition)",
         "url": "https://open.spotify.com/album/6df0qvkMXoyHGt9J8cujZb"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 265813,
       "name": "Next To You (feat. Justin Bieber)",
       "url": "https://open.spotify.com/track/7gd01LMH2gBcoDngSt8sq9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 176503,
+      "name": "Hmmm (feat. Davido)",
+      "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
     },
     {
       "added_at": null,
@@ -571,26 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 207339,
-      "name": "Run Away (feat. Bryson Tiller)",
-      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fan of A Fan The Album (Expanded Edition)",
         "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 207339,
+      "name": "Run Away (feat. Bryson Tiller)",
+      "url": "https://open.spotify.com/track/5JrQ1Jc3udCcAJasEpH0Ov"
     },
     {
       "added_at": null,

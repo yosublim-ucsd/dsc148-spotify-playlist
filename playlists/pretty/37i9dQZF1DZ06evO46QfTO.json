@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 73065,
+  "num_followers": 73056,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAzi3Msyc+E9AdiKcdDDaUU",
+  "snapshot_id": "ZtUAAAAAAAAlbxUeEn4kU5/92LezE1lw",
   "tracks": [
     {
       "added_at": null,
@@ -238,15 +238,11 @@
         {
           "name": "Amanda Shires",
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
-        },
-        {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Highwomen",
-      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
+      "duration_ms": 209906,
+      "name": "Crowded Table",
+      "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
     },
     {
       "added_at": null,
@@ -326,11 +322,15 @@
         {
           "name": "Amanda Shires",
           "url": "https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN"
+        },
+        {
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Crowded Table",
-      "url": "https://open.spotify.com/track/5HuaHij4kVpfEVv93MYCeW"
+      "duration_ms": 212480,
+      "name": "Highwomen",
+      "url": "https://open.spotify.com/track/0CTNLJMN9dMG4cl5qgsZSv"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Line By Line (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "Line By Line (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Line By Line (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/0a6mnIEhvLCsIKZNGRcjaK"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "Line By Line (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/2gA74HvN6NKFrhgzpd5oNE"
     },
     {
       "added_at": null,
@@ -719,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Kiss the Sky (from The Wild Robot)",
+        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
       },
       "artists": [
         {
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187640,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+      "duration_ms": 215716,
+      "name": "Kiss the Sky (from The Wild Robot)",
+      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kiss the Sky (from The Wild Robot)",
-        "url": "https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 215716,
-      "name": "Kiss the Sky (from The Wild Robot)",
-      "url": "https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS"
+      "duration_ms": 187640,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,

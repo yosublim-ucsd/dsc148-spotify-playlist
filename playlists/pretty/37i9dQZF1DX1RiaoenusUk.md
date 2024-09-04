@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,787 likes - 94 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,790 likes - 94 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 60 | [Insomnia](https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN) | [Tony 70](https://open.spotify.com/artist/1laEjxa14vAVGj1bkkkQUv) | [Sudamericano](https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt) | 4:12 |
 | 61 | [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 |
 | 62 | [Traffic \(Groovin' de bondi\)](https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP) | [Goro Wins](https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG) | [Super 8](https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw) | 4:30 |
-| 63 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
-| 64 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 63 | [Selva](https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Selva](https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC) | 3:30 |
+| 64 | [Acércame a Tu Piel](https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv) | [Santiago Soul](https://open.spotify.com/artist/0DmhysmjwL1OymWMDEEXl9) | [Acércame a Tu Piel](https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o) | 4:08 |
 | 65 | [Aceituna](https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Los Funktasticos Genitales](https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b) | 3:10 |
 | 66 | [Beast in You](https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 5:15 |
 | 67 | [Entrégate](https://open.spotify.com/track/6djj0VgDKXMSAsLLlD3oXY) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Masquemusica](https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo) | [Entrégate](https://open.spotify.com/album/2t1CAVrP6XZ5zwrKOvTTgV) | 3:43 |
@@ -90,11 +90,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 80 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 |
 | 81 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
 | 82 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
-| 83 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
-| 84 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
-| 85 | [Una Vez Más](https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl) | [Sophie Sobral & Factor Paracaídas](https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl) | [Una Vez Más](https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G) | 3:30 |
-| 86 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
-| 87 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 |
+| 83 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
+| 84 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
+| 85 | [See you](https://open.spotify.com/track/2fWi95TFVVGrxxAiYIomnZ) | [Martín Longoni](https://open.spotify.com/artist/2jb0o40W69Jdbfq7TgyuYf), [Axel Mark](https://open.spotify.com/artist/0BxJVdQrTrAKG3x3STcevC) | [See you](https://open.spotify.com/album/3X0LmvRNjaJnlmsgcwNSXt) | 3:30 |
+| 86 | [Una Vez Más](https://open.spotify.com/track/0R8tmsKik1nPo08jNaHZzl) | [Sophie Sobral & Factor Paracaídas](https://open.spotify.com/artist/34QT17jY811TDQqqkCdgLl) | [Una Vez Más](https://open.spotify.com/album/10dL0cnrBd1Cp47hAH7e1G) | 3:30 |
+| 87 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
 | 88 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
 | 89 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
 | 90 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |

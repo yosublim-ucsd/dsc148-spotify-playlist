@@ -1,12 +1,12 @@
 {
   "description": "This is Chris Stapleton. The essential tracks, all in one playlist.",
-  "num_followers": 635624,
+  "num_followers": 635792,
   "original_name": "This Is Chris Stapleton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABd8OYaPO43YWGPvC5q8MJI",
+  "snapshot_id": "ZtUAAAAAAAC9e+O7iBjxSXeUPATuKqgS",
   "tracks": [
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 231333,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
+      "duration_ms": 248053,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
     },
     {
       "added_at": null,
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 248053,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
+      "duration_ms": 231333,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/6Oexp3W6bv5LBzsS171iqN"
     },
     {
       "added_at": null,

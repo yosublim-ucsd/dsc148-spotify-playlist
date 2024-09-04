@@ -1,12 +1,12 @@
 {
   "description": "i just wanna be part of your symphony",
-  "num_followers": 264474,
+  "num_followers": 264454,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtCNDAAAAACypHmkfKv1ge1lcv6+OYZR",
+  "snapshot_id": "ZtdxjgAAAADn4ywyG8My1N5P67bfd3ny",
   "tracks": [
     {
       "added_at": "2024-08-23 13:28:56",
@@ -27,6 +27,22 @@
       "duration_ms": 212459,
       "name": "Symphony (feat. Zara Larsson)",
       "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    },
+    {
+      "added_at": "2024-08-21 15:53:55",
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
     },
     {
       "added_at": "2024-08-15 08:57:47",
@@ -61,6 +77,22 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
+      "added_at": "2024-09-03 15:13:15",
+      "album": {
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+      },
+      "artists": [
+        {
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+        }
+      ],
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
       "added_at": "2024-08-15 08:57:47",
       "album": {
         "name": "Black Friday (pretty like the sun)",
@@ -81,20 +113,36 @@
       "url": "https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco"
     },
     {
-      "added_at": "2024-08-21 15:53:55",
+      "added_at": "2024-08-29 14:28:37",
       "album": {
-        "name": "THE FIRST TIME (DELUXE VERSION)",
-        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+        "name": "Sigg",
+        "url": "https://open.spotify.com/album/257wUtgGlLJmtJManK37Pk"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
         }
       ],
-      "duration_ms": 171243,
-      "name": "BABY I'M BACK",
-      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+      "duration_ms": 158815,
+      "name": "Sigg",
+      "url": "https://open.spotify.com/track/4u6STUR9fsBQozW1S40BTN"
+    },
+    {
+      "added_at": "2024-09-03 20:29:02",
+      "album": {
+        "name": "Girls",
+        "url": "https://open.spotify.com/album/30wCOCKeicLp3ErOHhkBAb"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 119558,
+      "name": "Girls",
+      "url": "https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY"
     },
     {
       "added_at": "2024-08-15 08:57:47",
@@ -161,22 +209,6 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-08-29 14:28:37",
-      "album": {
-        "name": "Sigg",
-        "url": "https://open.spotify.com/album/257wUtgGlLJmtJManK37Pk"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Sigg",
-      "url": "https://open.spotify.com/track/4u6STUR9fsBQozW1S40BTN"
-    },
-    {
       "added_at": "2024-08-15 08:57:47",
       "album": {
         "name": "GIRLS",
@@ -191,6 +223,22 @@
       "duration_ms": 152979,
       "name": "GIRLS",
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
+    },
+    {
+      "added_at": "2024-08-15 08:57:47",
+      "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 226706,
+      "name": "Forever Young",
+      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
     },
     {
       "added_at": "2024-08-15 08:57:47",
@@ -223,6 +271,22 @@
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
+    },
+    {
+      "added_at": "2024-08-15 08:57:47",
+      "album": {
+        "name": "Se p\u00e5 meg",
+        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
+      },
+      "artists": [
+        {
+          "name": "Tigergutt101",
+          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
+        }
+      ],
+      "duration_ms": 143759,
+      "name": "Se p\u00e5 meg",
+      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
     },
     {
       "added_at": "2024-08-15 08:57:47",
@@ -311,22 +375,6 @@
     {
       "added_at": "2024-08-15 08:57:47",
       "album": {
-        "name": "Forever Young",
-        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
-      },
-      "artists": [
-        {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
-        }
-      ],
-      "duration_ms": 226706,
-      "name": "Forever Young",
-      "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
-    },
-    {
-      "added_at": "2024-08-15 08:57:47",
-      "album": {
         "name": "No Strings Attached",
         "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
       },
@@ -339,22 +387,6 @@
       "duration_ms": 200400,
       "name": "Bye Bye Bye - From Deadpool and Wolverine Soundtrack",
       "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2024-08-15 08:57:47",
-      "album": {
-        "name": "Se p\u00e5 meg",
-        "url": "https://open.spotify.com/album/5vmMQJYn1vtGORBfEBg0fv"
-      },
-      "artists": [
-        {
-          "name": "Tigergutt101",
-          "url": "https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K"
-        }
-      ],
-      "duration_ms": 143759,
-      "name": "Se p\u00e5 meg",
-      "url": "https://open.spotify.com/track/7IYXHtvFO3qZfe6In07sKE"
     },
     {
       "added_at": "2024-08-15 08:57:47",

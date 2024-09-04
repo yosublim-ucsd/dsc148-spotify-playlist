@@ -1,12 +1,12 @@
 {
   "description": "This is Machine Head. The essential tracks, all in one playlist.",
-  "num_followers": 58097,
+  "num_followers": 58112,
   "original_name": "This Is Machine Head",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAADa/4IxXEBZNiHEs+c2PfVg",
+  "snapshot_id": "ZtUAAAAAAAB8bgM4rqK2a43TeQATcBlk",
   "tracks": [
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catharsis",
-        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 370746,
-      "name": "Catharsis",
-      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 366467,
       "name": "Ghosts Will Haunt My Bones",
       "url": "https://open.spotify.com/track/0VWbvw6PcVSLgKZCpnxBiw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catharsis",
+        "url": "https://open.spotify.com/album/5OhAVXSslPqvWkh7XEj4Wq"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 370746,
+      "name": "Catharsis",
+      "url": "https://open.spotify.com/track/5D0xWyog9zSgg94wuEG3Jq"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Burning Red",
-        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 288600,
-      "name": "Desire to Fire",
-      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bloodstone & Diamonds",
         "url": "https://open.spotify.com/album/5LflIRpgFkIkwXZHiXqyoX"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 272058,
       "name": "Killers & Kings",
       "url": "https://open.spotify.com/track/1CcU2J9Uzo5wVIXmuV8YZK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Burning Red",
+        "url": "https://open.spotify.com/album/3hOfgUH1xNzCeJgANjO5dA"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 288600,
+      "name": "Desire to Fire",
+      "url": "https://open.spotify.com/track/4HVymfRIpYsw37K0at1FbK"
     },
     {
       "added_at": null,

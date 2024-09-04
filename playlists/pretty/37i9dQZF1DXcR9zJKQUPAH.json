@@ -1,6 +1,6 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 151747,
+  "num_followers": 151764,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 229760,
-      "name": "Motion Sickness",
-      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -1427,18 +1411,18 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Iris",
-        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 181136,
-      "name": "Iris",
-      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1455,6 +1439,22 @@
       "duration_ms": 196600,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/2c9OnhCwDVpKZWjOPqKiA8"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Iris",
+        "url": "https://open.spotify.com/album/74wXrpY7UqobiKTiVb3JAL"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 181136,
+      "name": "Iris",
+      "url": "https://open.spotify.com/track/5oV8bZaShr2d01FFMHBUPq"
     },
     {
       "added_at": "2024-03-18 13:08:31",

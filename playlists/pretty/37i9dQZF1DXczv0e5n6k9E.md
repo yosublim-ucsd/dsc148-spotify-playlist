@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Kidd
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,575 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,573 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ONE DANCE](https://open.spotify.com/track/2moVjjYXKWy91ih9yh0oZH) | [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [BABYSHARK](https://open.spotify.com/album/07dJAiFnDIzhB9hMrUfohG) | 2:23 |
-| 2 | [ALE](https://open.spotify.com/track/3z08xHO2BBjuYqoDXP6MId) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Big Ben](https://open.spotify.com/artist/2PFQD1oR9BMXdRgiUbPlBy) | [ALE](https://open.spotify.com/album/65uAvBGzeb7dYE4IHXuSIM) | 2:45 |
+| 2 | [ALE](https://open.spotify.com/track/3z08xHO2BBjuYqoDXP6MId) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Big Ben](https://open.spotify.com/artist/3Y1aYOJVLSdP0kuRfhJ9lE) | [ALE](https://open.spotify.com/album/65uAvBGzeb7dYE4IHXuSIM) | 2:45 |
 | 3 | [EURO BOP](https://open.spotify.com/track/4CpRyPsmzydxkH9Bc4swfb) | [Kareem Kalokoh](https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb), [Saske](https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p), [Gola Gianni](https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6) | [EURO BOP](https://open.spotify.com/album/29o0nGoAGZ6YfflvMB8VIh) | 2:44 |
 | 4 | [BOSSIDONAS 2](https://open.spotify.com/track/7ynfPeRJrOVXXIbprUOBcA) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:49 |
 | 5 | [Ke Ti Den Tha Dina](https://open.spotify.com/track/63BVcYK5badAGfZoUJarvK) | [SNIK](https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Ke Ti Den Tha Dina](https://open.spotify.com/album/7fycmjm7HIc2ogDfX1aTx0) | 3:08 |

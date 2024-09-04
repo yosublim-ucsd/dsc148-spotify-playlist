@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,355 likes - 75 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,361 likes - 75 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 71 | [Solitude \- Theme](https://open.spotify.com/track/1kLaOChjYgevlR19UMA6yh) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Tony Takitani](https://open.spotify.com/album/7wbkTFi8Gve3hgYMAJuBw2) | 4:05 |
 | 72 | [1981](https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ) | [Hautefort](https://open.spotify.com/artist/5Loh152dLFcu8etyfQKuCg) | [1981](https://open.spotify.com/album/2sBnGK0TmbE9uSjX8G7bin) | 4:14 |
 | 73 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 |
-| 74 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
-| 75 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
+| 74 | [AM Prosperität](https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [AM Prosperität](https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN) | 4:48 |
+| 75 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 |
 
 Snapshot ID: `Zs/4WwAAAABvN9YcbX6lPALKLFqH4Eg8`

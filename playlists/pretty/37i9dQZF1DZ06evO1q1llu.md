@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 
 > This is The Kid LAROI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,251 likes - 43 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,343 likes - 43 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,12 +44,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q1llu.md) - [plain]
 | 34 | [DESERVE YOU](https://open.spotify.com/track/4xKLuSF9EgcCGscGmoVXhx) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:37 |
 | 35 | [I GUESS IT'S LOVE?](https://open.spotify.com/track/0zotwiNo16aaUg76C4Fgl5) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I GUESS IT'S LOVE?](https://open.spotify.com/album/4ZjQNVehaSszNDfxILOLzW) | 2:17 |
 | 36 | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/track/4gpfihcTO7NKPFsn3Vl4fq) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [I Can't Go Back To The Way It Was \(Intro\)](https://open.spotify.com/album/0oU6UlaM28lOTkWJFz5kmB) | 1:35 |
-| 37 | [Fade Away](https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fade Away](https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3) | 2:59 |
+| 37 | [Wind](https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:50 |
 | 38 | [THE LINE \(feat\. d4vd\)](https://open.spotify.com/track/6peLcllXcq0BQ6XiwtlVA7) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [THE FIRST TIME](https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS) | 2:32 |
-| 39 | [Wind](https://open.spotify.com/track/5zkZkBTygtZcOgWCWzzKB2) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A Love Letter To You 5](https://open.spotify.com/album/0ITPUZfqnXi720BiYRJWPq) | 2:50 |
+| 39 | [Fade Away](https://open.spotify.com/track/32ypPhtgTaETvFn3ZIHXTW) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fade Away](https://open.spotify.com/album/5b7NAfjg5DjYPWshy2jSr3) | 2:59 |
 | 40 | [No Return \(with The Kid LAROI & Lil Durk\)](https://open.spotify.com/track/23OYT3SFtoJqhiAUqktbc1) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hall of Fame](https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT) | 2:48 |
 | 41 | [Speak](https://open.spotify.com/track/6MiklcQlQKHGqM7VV1mWKo) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:02 |
 | 42 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 43 | [My City](https://open.spotify.com/track/0DqIzDu0BK4dkhABRt4iFT) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Against All Odds](https://open.spotify.com/album/4VT9Y4UGDGFs723kYsTXJU) | 2:51 |
 
-Snapshot ID: `ZtOugAAAAADeuhL6j6OA4Hdm1sDA7iXA`
+Snapshot ID: `ZtUAAAAAAACAVJFoBcxQd0Spm43IUxxb`

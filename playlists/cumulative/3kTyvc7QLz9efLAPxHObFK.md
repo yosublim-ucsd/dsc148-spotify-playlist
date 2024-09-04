@@ -4,7 +4,7 @@
 
 > 
 
-1,667 songs - 3 day 17 hr 45 min
+1,668 songs - 3 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [Funky Sh!t](https://open.spotify.com/track/096nThwJtpWjmWgaxAte3Q) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Tha Mechanic](https://open.spotify.com/artist/4Nhqao0AUSRpuHCSVQA2my) | [Funky Sh!t](https://open.spotify.com/album/1GLUAwgER0CsHfZ1GzEoRD) | 2:30 | 2023-06-02 |  |
 | [Future Downloader v2.0](https://open.spotify.com/track/1lRv3eDgBqsNLBfNXQ58rl) | [Kobaryo](https://open.spotify.com/artist/1Y81Ch90opScfpMfN17lZb) | [SUPER KEY GENERATOR](https://open.spotify.com/album/0QQVwPaGD5Vr33bYXy60lY) | 3:29 | 2023-05-02 |  |
 | [G.A.B.B.E.R.](https://open.spotify.com/track/7rOcKvntilTERy7JW9rrPx) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [G.A.B.B.E.R.](https://open.spotify.com/album/0ZglrNJ8GAaisIxr3sASah) | 3:17 | 2024-04-19 |  |
+| [G.L.Y.](https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [G.L.Y.](https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe) | 3:33 | 2024-09-03 |  |
 | [Game Of Hate](https://open.spotify.com/track/0YiOkYXWTaFda3ZttdkPuD) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [BOMBSQUAD](https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [Game Of Hate](https://open.spotify.com/album/2sm4kctw7K0HbT1cRpiHYu) | 3:00 | 2024-02-08 |  |
 | [Game Over](https://open.spotify.com/track/0pcIExB9WDMsgRopRZQshN) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP), [Dimitri K](https://open.spotify.com/artist/1WXsfnqh2lT56nFMI5Pc0E) | [Game Over](https://open.spotify.com/album/1XtkukXNhbUhVve9Ue9KVg) | 2:11 | 2023-11-20 |  |
 | [Game Over](https://open.spotify.com/track/1N62PRlZcr5PoISOnSdLeL) | [F\. Noize](https://open.spotify.com/artist/0mdmNdny2m37Hb1DIdQkG7), [Abaddon](https://open.spotify.com/artist/3ujI46PHi7vombfnkjM8C3) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 2:28 | 2022-11-07 |  |

@@ -1,31 +1,15 @@
 {
-  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e\">Casos de la Risa Real</a>",
-  "num_followers": 2917,
+  "description": "Podcasts que necesitas tener en el RADAR. En la portada: <a href=\"https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ?si=aee7681de4dd411e\">Buz\u00f3n de Quejas</a>",
+  "num_followers": 2916,
   "original_name": "RADAR Podcasters M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZqreEAAAAACNlKa26ntOrljXBgK5HyHM",
+  "snapshot_id": "ZtdRvwAAAABFJNxtAo9QerxJzSfZtSxr",
   "tracks": [
     {
-      "added_at": "2024-08-01 01:00:00",
-      "album": {
-        "name": "Casos de la Risa Real",
-        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
-      },
-      "artists": [
-        {
-          "name": "Casos de la Risa Real",
-          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
-        }
-      ],
-      "duration_ms": 4425926,
-      "name": "Cap\u00edtulo 21: Zool\u00f3gicos",
-      "url": "https://open.spotify.com/episode/7jLwJUwlqQdfsnv2NWKyGp"
-    },
-    {
-      "added_at": "2024-08-01 01:00:00",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
         "name": "Buz\u00f3n de quejas",
         "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
@@ -36,12 +20,12 @@
           "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
         }
       ],
-      "duration_ms": 4340010,
-      "name": "Episodio 106 / Quejitas de hacer el super",
-      "url": "https://open.spotify.com/episode/5fRMYaAZAPzikhv8ZEp9NX"
+      "duration_ms": 4130005,
+      "name": "Episodio 116 / Cocinar",
+      "url": "https://open.spotify.com/episode/2vAA2zrUb2XfkwrKoBzzcs"
     },
     {
-      "added_at": "2024-08-01 01:00:00",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
         "name": "Se Regalan Sustos",
         "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
@@ -52,12 +36,12 @@
           "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
         }
       ],
-      "duration_ms": 3656537,
-      "name": "Amarres de brujer\u00eda y maldiciones de parejas ",
-      "url": "https://open.spotify.com/episode/613uB61F6Iuh0gBPtQzjc6"
+      "duration_ms": 3488357,
+      "name": "Mi Amigo Imaginario Me Quer\u00eda MATAR Ft. Felisa Vicente",
+      "url": "https://open.spotify.com/episode/4ZXpTxB5XogjtbK5epZEEp"
     },
     {
-      "added_at": "2024-08-01 01:00:00",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
         "name": "Lclub Podcast",
         "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
@@ -68,44 +52,12 @@
           "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
         }
       ],
-      "duration_ms": 3555328,
-      "name": "T3 I EP.7 I ADRENALINA I FT. MANUNA",
-      "url": "https://open.spotify.com/episode/2ItamVRgjNKfGkcncpFSsg"
+      "duration_ms": 3530218,
+      "name": "EP.11 I NO ERA YO, ERA PATRICIA I FT. DAMIAN CERVANTES",
+      "url": "https://open.spotify.com/episode/0nB0xFTi2MPsUHGJTlxA7B"
     },
     {
-      "added_at": "2024-08-01 01:00:00",
-      "album": {
-        "name": "Chisme Corporativo",
-        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
-      },
-      "artists": [
-        {
-          "name": "Chisme Corporativo",
-          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
-        }
-      ],
-      "duration_ms": 5361580,
-      "name": "19. Airbnb: El crecimiento imparable de la compa\u00f1\u00eda de alojamiento m\u00e1s grande del mundo",
-      "url": "https://open.spotify.com/episode/0vxqB3OihNVJMPIhROiEwV"
-    },
-    {
-      "added_at": "2024-07-02 17:55:52",
-      "album": {
-        "name": "LAS BOTARGAS PODCAST",
-        "url": "https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t"
-      },
-      "artists": [
-        {
-          "name": "LAS BOTARGAS PODCAST",
-          "url": "https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t"
-        }
-      ],
-      "duration_ms": 3764271,
-      "name": "ROMPIENDO MOLDES",
-      "url": "https://open.spotify.com/episode/0NcofAbWfRkRkPMovCmaH1"
-    },
-    {
-      "added_at": "2024-08-01 01:00:00",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
         "name": "Casos de la Risa Real",
         "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
@@ -116,60 +68,12 @@
           "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
         }
       ],
-      "duration_ms": 5520848,
-      "name": "Cap\u00edtulo 20: Asaltos",
-      "url": "https://open.spotify.com/episode/2BoJYQUWLZ3VcoSWFsAg5I"
+      "duration_ms": 4939937,
+      "name": "Cap\u00edtulo 26: Gimnasios",
+      "url": "https://open.spotify.com/episode/1z03UWVUI3X8ziVrKoAwVS"
     },
     {
-      "added_at": "2024-08-01 01:00:00",
-      "album": {
-        "name": "Buz\u00f3n de quejas",
-        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
-      },
-      "artists": [
-        {
-          "name": "Buz\u00f3n de quejas",
-          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
-        }
-      ],
-      "duration_ms": 4020010,
-      "name": "Episodio 105 / Rob\u00e9 al ratero",
-      "url": "https://open.spotify.com/episode/6P3waH9Bb7VnUpKqH1boPM"
-    },
-    {
-      "added_at": "2024-08-01 01:00:00",
-      "album": {
-        "name": "Se Regalan Sustos",
-        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
-      },
-      "artists": [
-        {
-          "name": "Se Regalan Sustos",
-          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
-        }
-      ],
-      "duration_ms": 5514134,
-      "name": "La Maldici\u00f3n de la Suegra, Intent\u00f3 Acabar con su propio Nieto FT Fepo",
-      "url": "https://open.spotify.com/episode/3TL14025u9YgGWOoYxBj2m"
-    },
-    {
-      "added_at": "2024-08-01 01:00:00",
-      "album": {
-        "name": "Lclub Podcast",
-        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
-      },
-      "artists": [
-        {
-          "name": "Lclub Podcast",
-          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
-        }
-      ],
-      "duration_ms": 4538901,
-      "name": "T3 I EP.6 I MOMENTOS LOTSO",
-      "url": "https://open.spotify.com/episode/0UqChF60P14psrqbwrebTL"
-    },
-    {
-      "added_at": "2024-08-01 01:00:00",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
         "name": "Chisme Corporativo",
         "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
@@ -180,25 +84,89 @@
           "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
         }
       ],
-      "duration_ms": 4283062,
-      "name": "18. COSTCO: El 3er retailer m\u00e1s grande del mundo",
-      "url": "https://open.spotify.com/episode/3JvF2wUwZXz8D6GPn9TKqW"
+      "duration_ms": 4791013,
+      "name": "24. WeWork: Subida y ca\u00edda del unicornio m\u00e1s grande de la historia",
+      "url": "https://open.spotify.com/episode/2kKEhYbDvUyGaXXaSleiXx"
     },
     {
-      "added_at": "2024-07-02 17:55:52",
+      "added_at": "2024-09-03 18:13:19",
       "album": {
-        "name": "LAS BOTARGAS PODCAST",
-        "url": "https://open.spotify.com/album/0rvDGNVn0DW9borbedX88t"
+        "name": "Buz\u00f3n de quejas",
+        "url": "https://open.spotify.com/album/08gpvHpEXuLEI9mqoIfDPa"
       },
       "artists": [
         {
-          "name": "LAS BOTARGAS PODCAST",
-          "url": "https://open.spotify.com/show/0rvDGNVn0DW9borbedX88t"
+          "name": "Buz\u00f3n de quejas",
+          "url": "https://open.spotify.com/show/08gpvHpEXuLEI9mqoIfDPa"
         }
       ],
-      "duration_ms": 4753057,
-      "name": "OVULANDO Y PELIGRANDO",
-      "url": "https://open.spotify.com/episode/5JxLBlw6oVhRUSOEP8TBNe"
+      "duration_ms": 4028010,
+      "name": "Episodio 115 / Phishing",
+      "url": "https://open.spotify.com/episode/22A9pAjbOpqyPwMUvL1VKD"
+    },
+    {
+      "added_at": "2024-09-03 18:13:19",
+      "album": {
+        "name": "Se Regalan Sustos",
+        "url": "https://open.spotify.com/album/3oHILWpLvqwNMCFDLI6kTb"
+      },
+      "artists": [
+        {
+          "name": "Se Regalan Sustos",
+          "url": "https://open.spotify.com/show/3oHILWpLvqwNMCFDLI6kTb"
+        }
+      ],
+      "duration_ms": 4228237,
+      "name": "CONTACTO CON EXTRATERRESTRES Y DEMONIOS FT YOHANAN DIAZ",
+      "url": "https://open.spotify.com/episode/0fyON3ai628tZCgXgcqSb4"
+    },
+    {
+      "added_at": "2024-09-03 18:13:19",
+      "album": {
+        "name": "Lclub Podcast",
+        "url": "https://open.spotify.com/album/1NR8RVbhxvIz5BPILejfVZ"
+      },
+      "artists": [
+        {
+          "name": "Lclub Podcast",
+          "url": "https://open.spotify.com/show/1NR8RVbhxvIz5BPILejfVZ"
+        }
+      ],
+      "duration_ms": 3345151,
+      "name": "T3 I EP.10 I [ SE ASUSTAN EN LESBIAN ]",
+      "url": "https://open.spotify.com/episode/2Sm75KSgktkiAEWMwK0JAV"
+    },
+    {
+      "added_at": "2024-09-03 18:13:19",
+      "album": {
+        "name": "Casos de la Risa Real",
+        "url": "https://open.spotify.com/album/1oqmfEuvybQ41YrSbPgEhZ"
+      },
+      "artists": [
+        {
+          "name": "Casos de la Risa Real",
+          "url": "https://open.spotify.com/show/1oqmfEuvybQ41YrSbPgEhZ"
+        }
+      ],
+      "duration_ms": 4670563,
+      "name": "Cap\u00edtulo 25: Polic\u00edas",
+      "url": "https://open.spotify.com/episode/6LCNTrvFPVUGDGuSXPNKFr"
+    },
+    {
+      "added_at": "2024-09-03 18:13:19",
+      "album": {
+        "name": "Chisme Corporativo",
+        "url": "https://open.spotify.com/album/4zeEGCXH4Au4WdokuRvJHf"
+      },
+      "artists": [
+        {
+          "name": "Chisme Corporativo",
+          "url": "https://open.spotify.com/show/4zeEGCXH4Au4WdokuRvJHf"
+        }
+      ],
+      "duration_ms": 3613753,
+      "name": "23. L\u2019Or\u00e9al: la pol\u00e9mica historia de la mujer m\u00e1s rica del mundo",
+      "url": "https://open.spotify.com/episode/0nMQmRIzqGr1DkgfWIMOEY"
     }
   ],
   "unique_name": "RADAR Podcasters M\u00e9xico",

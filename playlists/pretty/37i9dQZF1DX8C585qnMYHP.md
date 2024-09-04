@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Misha Panfilov on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,516 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,592 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,21 +90,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 80 | [As Happy as a Sandboy](https://open.spotify.com/track/1jcOLLOtYQ9lfIBCw64T16) | [Jay Glass Dubs](https://open.spotify.com/artist/2Uo8hdDlnsj9baLt1jPiVu), [Sissi Rada](https://open.spotify.com/artist/6tur6gkfmy5lrI9A4rIzlt) | [DJ HUMBLE \(Expanded Edition\)](https://open.spotify.com/album/1rhbprgJVR4NBkxwJZ4zwl) | 7:55 |
 | 81 | [Youth](https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP) | [House on the Strand](https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23) | [Heroine](https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9) | 5:27 |
 | 82 | [Arrasa Goza](https://open.spotify.com/track/39coyagUm7jIP67222iSkn) | [Lao](https://open.spotify.com/artist/2zDEnKW6qy7E4M9A2c2YAZ), [Franka Polari](https://open.spotify.com/artist/7ad01VOR5DOjLGNZhOZYDF) | [PISO \(Originals\)](https://open.spotify.com/album/5PaZ8Jb2MMDASvUflctOsV) | 3:51 |
-| 83 | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [YEEET](https://open.spotify.com/artist/3c4oSlSmrIpIBNDhbWIU0P) | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9) | 3:16 |
-| 84 | [Psychological Housekeeping](https://open.spotify.com/track/1yJRRJgVFgN3nYtYas5Rfo) | [Famous Mammals](https://open.spotify.com/artist/78ubQZ3ywPoTIi8VF8JihE) | [Famous Mammals](https://open.spotify.com/album/58MaSPTHyIPoo6ePjpSX12) | 1:45 |
+| 83 | [Psychological Housekeeping](https://open.spotify.com/track/1yJRRJgVFgN3nYtYas5Rfo) | [Famous Mammals](https://open.spotify.com/artist/78ubQZ3ywPoTIi8VF8JihE) | [Famous Mammals](https://open.spotify.com/album/58MaSPTHyIPoo6ePjpSX12) | 1:45 |
+| 84 | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [YEEET](https://open.spotify.com/artist/3c4oSlSmrIpIBNDhbWIU0P) | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9) | 3:16 |
 | 85 | [Weimar 22](https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp) | [R.N.A\. Organism](https://open.spotify.com/artist/44Rhiu2k3Yp0a6Y8VpTfxu) | [R.N.A.O Meets P.O.P.O](https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI) | 4:11 |
 | 86 | [ocean, sea, ocean.](https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO) | [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [a two](https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f) | 2:57 |
 | 87 | [Meta VI](https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:52 |
-| 88 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
+| 88 | [Ritual](https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl) | [Frank Rodas](https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM) | [Ritual](https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91) | 9:08 |
 | 89 | [Gate VIII](https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2) | [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Bearings: Soundtracks for the Bardos](https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE) | 4:00 |
-| 90 | [Ritual](https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl) | [Frank Rodas](https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM) | [Ritual](https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91) | 9:08 |
+| 90 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
 | 91 | [In the Merry Month of May](https://open.spotify.com/track/4bptC5RF2Gpevf1UNW4hQY) | [Tony Conrad](https://open.spotify.com/artist/4JZ6ZOxHDimksHWN4DFmoM), [Jennifer Walshe](https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J) | [In The Merry Month Of May](https://open.spotify.com/album/0gPpPJZb17VAdPc22ZhKYi) | 7:49 |
 | 92 | [Ines](https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A) | [Alena Spanger](https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF) | [Fire Escape](https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj) | 3:24 |
 | 93 | [Viking](https://open.spotify.com/track/48fcNhtI0PEDuQ7ReUhOaF) | [Geoffroy](https://open.spotify.com/artist/3fMYNaPQar24I1jSPnGT3E) | [Kiosque d'Orphée – Une épopée de l'autoproduction en France](https://open.spotify.com/album/1JEqgytHuhDlYCV0eElLLL) | 11:51 |
 | 94 | [Cold Drinks](https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj) | [Atrás del Cosmos](https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl) | [Cold Drinks, Hot Dreams](https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb) | 10:28 |
 | 95 | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be) | [Low End Activist](https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg) | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf) | 4:18 |
-| 96 | [Manc TK 2](https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb) | [John T\. Gast](https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv) | [5GTOUR](https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM) | 3:42 |
-| 97 | [affinity](https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X) | [Kool Music](https://open.spotify.com/artist/4MYZvp7sFATdqfMy3k0pUs) | [Trois Horses](https://open.spotify.com/album/05bmyDRJZb9BWCjdNGWhVm) | 3:24 |
+| 96 | [affinity](https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X) | [Kool Music](https://open.spotify.com/artist/4MYZvp7sFATdqfMy3k0pUs) | [Trois Horses](https://open.spotify.com/album/05bmyDRJZb9BWCjdNGWhVm) | 3:24 |
+| 97 | [Manc TK 2](https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb) | [John T\. Gast](https://open.spotify.com/artist/7sdETEHtFrBJARdIVvf8Mv) | [5GTOUR](https://open.spotify.com/album/75YgFxLYkgIF3qU3Bp87JM) | 3:42 |
 | 98 | [two](https://open.spotify.com/track/5AFbHte0qXKs8QUKTFY78i) | [Black Decelerant](https://open.spotify.com/artist/3hDJXXTF8ZlZwrmiRuWtYo), [Contour](https://open.spotify.com/artist/5eUhoxsPgFqAWSfOtwMNBF), [Omari Jazz](https://open.spotify.com/artist/2JnmbU4G6t4GPZpIl5PUCT) | [three](https://open.spotify.com/album/4Wp9nBdyOi7Bg0NcSukCvO) | 2:35 |
 | 99 | [Hardtmuth](https://open.spotify.com/track/7dyw1H4QgBOjrqgGXYIOAg) | [XIII](https://open.spotify.com/artist/1j28QCAu7jjDccLS5Ve2AQ), [Hans Harsen](https://open.spotify.com/artist/1XCSenCALib9Xyy2JVGBL0) | [Hardtmuth](https://open.spotify.com/album/71S4ffIcpqNV3UxBUtQhNw) | 3:48 |
 

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 
 ### [This Is Nightwish](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1C7dIs)
 
-> This is Nightwish\. Todos os maiores hits em uma só playlist.
+> This is Nightwish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,490 likes - 52 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,520 likes - 52 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1C7dIs.md) - [plain]
 | 51 | [Where Were You Last Night](https://open.spotify.com/track/1BZ2yeGFtYN0Sk5yrgvMdk) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Wish I Had an Angel](https://open.spotify.com/album/2l0KYO3zjZtfFzls7rSPA7) | 3:52 |
 | 52 | [Sahara](https://open.spotify.com/track/5BVCsSoPnMXwPeaK9Aexjx) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Dark Passion Play](https://open.spotify.com/album/33knvUBRR5ekNBrtLqQVTD) | 5:47 |
 
-Snapshot ID: `ZtOugAAAAADFZiubXRvHKtFyVq4uJNzs`
+Snapshot ID: `ZtUAAAAAAADQ8ZHw3Vnde4whDMiFTF2K`

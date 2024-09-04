@@ -4,7 +4,7 @@
 
 > Soft piano music to accompany your reading
 
-188 songs - 8 hr 5 min
+189 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Felt Improv No\. 3](https://open.spotify.com/track/4mUEjeo70EeAq2ARJySrj6) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 3](https://open.spotify.com/album/1cseVonhcrCKoxuNDGY6T8) | 3:01 | 2022-04-28 |  |
 | [Finale](https://open.spotify.com/track/3NT3cMv9qqmIX45fQqwVIU) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Sweet Water](https://open.spotify.com/album/4pFfD5JJWub5rc1A7kflUG) | 2:34 | 2022-07-20 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-28 |  |
+| [Fireside](https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [Fireside](https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK) | 2:24 | 2024-09-03 |  |
 | [Foreseeable Future](https://open.spotify.com/track/31yTOwrJEks6Uz9Vz25WWR) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Foreseeable Future](https://open.spotify.com/album/5fH8yNs6J9KbiAFO1gKL36) | 2:14 | 2023-08-15 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Jose Garcia](https://open.spotify.com/artist/5bwWMpXFa16RzsnAeaxttA) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2022-04-28 | 2022-07-21 |
 | [Fragment](https://open.spotify.com/track/3VBPPIu4MGBnMj4SF8sJBJ) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:33 | 2022-04-28 |  |

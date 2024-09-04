@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 ### [This Is La Santa Grifa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0LGEA8)
 
-> This is La Santa Grifa\. The essential tracks, all in one playlist.
+> This Is La Santa Grifa\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,679 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,902 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 45 | [No Sé Que Pasó](https://open.spotify.com/track/3MVMTa6ZD3Ep4034dw7Q0A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Sé Que Pasó](https://open.spotify.com/album/7xcIfZh7we4EvelWYPK0vH) | 3:36 |
 | 46 | [Así la Vivo Yo](https://open.spotify.com/track/4SYaEOPOUyeNkU7OQm97TQ) | [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Neto Reyno](https://open.spotify.com/artist/7sgnuH8OwU32WbGLZwD03q), [Yaz Tarelo](https://open.spotify.com/artist/59JtSjLRASadXsL9hNlLXB) | [Así la Vivo Yo](https://open.spotify.com/album/4u1qy1RYfnKF0cRgZGrftW) | 3:47 |
 | 47 | [No Cambio](https://open.spotify.com/track/7ArwxXsucZMkx6iSD8fQTk) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Éxitos, Vol\. 2](https://open.spotify.com/album/5MhpEW1P1Lpu4NLrLB34x7) | 4:41 |
-| 48 | [Mal Ejemplo](https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 5:02 |
+| 48 | [Amor al Arte](https://open.spotify.com/track/5ZmdCVprp0xw4LRT66Q65J) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:00 |
 | 49 | [A Ti Mi Dama](https://open.spotify.com/track/6eOLT7ugIriFbbFYZVzh8V) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Seguimos Fumando](https://open.spotify.com/album/7panOfxwnv0Z3YUStTU3OO) | 5:30 |
 | 50 | [Escucho Voces](https://open.spotify.com/track/76JIRMXbAiOrpBVAy2ieYP) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:28 |
 
-Snapshot ID: `ZtOugAAAAAA2r8be41fRJxGzb1a7ee5s`
+Snapshot ID: `ZtUAAAAAAACpJTugD3CgQHk0t6pFFBV1`

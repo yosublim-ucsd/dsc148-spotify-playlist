@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NEXZ",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: ATEEZ + BE:FIRST",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -3981,6 +3981,24 @@
     },
     {
       "album": {
+        "name": "RIIZING : Epilogue - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY"
+      },
+      "artists": [
+        {
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219551,
+      "name": "Combo",
+      "url": "https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie"
+    },
+    {
+      "album": {
         "name": "Come back to me",
         "url": "https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW"
       },
@@ -4468,6 +4486,24 @@
       "duration_ms": 196906,
       "name": "dangdang",
       "url": "https://open.spotify.com/track/4wp725MlpbUiyn1NcTMHJ6"
+    },
+    {
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/6ufSIMU4eAQjkI37l8ecoO"
+      },
+      "artists": [
+        {
+          "name": "BOYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143773,
+      "name": "Dangerous",
+      "url": "https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD"
     },
     {
       "album": {
@@ -7308,7 +7344,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 187920,
       "name": "Girls Never Die",
       "url": "https://open.spotify.com/track/0Ol7uhYjodbXAKKarXdn6r"
@@ -8274,7 +8310,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 170640,
       "name": "Here I am",
       "url": "https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9"
@@ -8382,7 +8418,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189680,
       "name": "HEYA",
       "url": "https://open.spotify.com/track/1jXkl4Jv3iiX0Maj77witN"
@@ -8700,7 +8736,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 205013,
       "name": "Hush-Hush",
       "url": "https://open.spotify.com/track/27JQxefJsCVa6xTbEFBVXG"
@@ -11246,7 +11282,7 @@
       ],
       "date_added": "2024-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 198906,
       "name": "MAESTRO",
       "url": "https://open.spotify.com/track/2UE9XGbAzicJIyo4bB6sqM"
@@ -13949,6 +13985,24 @@
     },
     {
       "album": {
+        "name": "prologue\uff5ethe deepest blue",
+        "url": "https://open.spotify.com/album/2VTQSXk3clYbVD434fLVZn"
+      },
+      "artists": [
+        {
+          "name": "KJRGL",
+          "url": "https://open.spotify.com/artist/0cIWA2RwHqzE0OGvNjRxrX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101364,
+      "name": "prologue\uff5ethe deepest blue",
+      "url": "https://open.spotify.com/track/6ge4uZOlJSWLGi5phzC4Qx"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/4Wt2BXLfObF0w0QMrnPy0e"
       },
@@ -14859,6 +14913,28 @@
     },
     {
       "album": {
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/1YKSS88CPp87pKphKTZMTd"
+      },
+      "artists": [
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        },
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222446,
+      "name": "Royal",
+      "url": "https://open.spotify.com/track/0NR5Ps5s2hpfZ8Ysmp3dTF"
+    },
+    {
+      "album": {
         "name": "RU-PUM PUM (Japanese ver.)",
         "url": "https://open.spotify.com/album/5OurfkN4UO7DRPnIkfODcA"
       },
@@ -15076,7 +15152,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 243498,
       "name": "Same Key",
       "url": "https://open.spotify.com/track/6bl0lwuf0okN1QKOer1m2n"
@@ -16230,7 +16306,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 169533,
       "name": "Smoke",
       "url": "https://open.spotify.com/track/6kEU60ykxhb0shZMTiPWZL"
@@ -21545,6 +21621,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u751f\u8cdb\u6b4c",
+        "url": "https://open.spotify.com/album/3B7ffaqfCtOWpZVzqGELLZ"
+      },
+      "artists": [
+        {
+          "name": "CNBLUE",
+          "url": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228252,
+      "name": "\u4eba\u751f\u8cdb\u6b4c",
+      "url": "https://open.spotify.com/track/1PsDitrM5j4vM6gySCfCEA"
+    },
+    {
+      "album": {
         "name": "ALWAYS YOURS",
         "url": "https://open.spotify.com/album/5Qae32LmUnMlJRqZv2BWvY"
       },
@@ -22016,6 +22110,24 @@
       "duration_ms": 253879,
       "name": "\uae30\uc5b5 \uc18d\uc758 \uba5c\ub85c\ub514",
       "url": "https://open.spotify.com/track/1KbNnoqia3vnp1KH477gai"
+    },
+    {
+      "album": {
+        "name": "Band Aid",
+        "url": "https://open.spotify.com/album/3i15S6O0DP0uirT7O58yyO"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "\ub179\uc544\ub0b4\ub824\uc694 Melt Down",
+      "url": "https://open.spotify.com/track/5Invv3m92xZvztdCbZrmZ6"
     },
     {
       "album": {

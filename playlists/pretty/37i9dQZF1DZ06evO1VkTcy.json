@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21643,
+  "num_followers": 21651,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACMky40CdMkyMjPjmalmfUn",
+  "snapshot_id": "ZtUAAAAAAABSGKTweYnA/MuqC7QADaxF",
   "tracks": [
     {
       "added_at": null,
@@ -755,30 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -803,6 +779,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deixa Ir",
         "url": "https://open.spotify.com/album/2Ng3hFcV0NzZixOLu0dvav"
       },
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3 Porque Eu Sou Mulher",
-        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 163535,
-      "name": "S\u00f3 Porque Eu Sou Mulher",
-      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "5458",
         "url": "https://open.spotify.com/album/530LB9H9MD7SmG5QbnvNsV"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 187629,
       "name": "5458",
       "url": "https://open.spotify.com/track/6sJRnHsNWIT2yoW5Uhp1bs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3 Porque Eu Sou Mulher",
+        "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 163535,
+      "name": "S\u00f3 Porque Eu Sou Mulher",
+      "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
     },
     {
       "added_at": null,

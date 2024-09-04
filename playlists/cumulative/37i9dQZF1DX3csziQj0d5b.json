@@ -1221,6 +1221,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+    },
+    {
+      "album": {
         "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
         "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8"
       },
@@ -5652,7 +5670,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 187874,
       "name": "If You Were My Girl",
       "url": "https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU"
@@ -6094,6 +6112,24 @@
       "duration_ms": 152280,
       "name": "July (feat. Leon Bridges)",
       "url": "https://open.spotify.com/track/3V0nnQhqvbE3JmiDdnzQFQ"
+    },
+    {
+      "album": {
+        "name": "C,XOXO",
+        "url": "https://open.spotify.com/album/004ywPlW72Hgn1Bo9PlNOr"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180013,
+      "name": "June Gloom",
+      "url": "https://open.spotify.com/track/5fvPYln4Ke77apnrjbbvOo"
     },
     {
       "album": {
@@ -12318,7 +12354,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129656,
       "name": "Watermelon Sugar - Spotify Singles",
       "url": "https://open.spotify.com/track/0kIsnEg0TzJTsb6wTVHSeG"

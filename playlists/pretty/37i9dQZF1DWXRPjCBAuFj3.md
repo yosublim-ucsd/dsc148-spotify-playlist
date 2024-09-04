@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Il rap è uno sport competitivo 🔥 Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,708 likes - 120 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,697 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

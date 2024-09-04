@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 
 ### [This Is Los Cafres](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Fa8jC)
 
-> This Is Los Cafres\. Los temas esenciales, todos en una lista.
+> This is Los Cafres\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,543 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,572 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 27 | [Woman](https://open.spotify.com/track/5fpFzu6nqLodx3UZbmpIFX) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Classic Lover Covers](https://open.spotify.com/album/1J1n5i0OVkjhGzwVRtt3mF) | 3:36 |
 | 28 | [La Flor](https://open.spotify.com/track/0nd81OJKHU8vUIMp27noMA) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:58 |
 | 29 | [El Ángel \- Versión 25 Años](https://open.spotify.com/track/11WUrYOeZgefPOIuEDxJd8) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:06 |
-| 30 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
-| 31 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 30 | [Puedo](https://open.spotify.com/track/0TWTda4yD1jdsIlRTQLoA0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:15 |
+| 31 | [Dulce Muñequita](https://open.spotify.com/track/4801GXDyQH6oD4RXXgyxmW) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 4:24 |
 | 32 | [Se Va de Mí](https://open.spotify.com/track/4K7SetvOiFCZPEWk08wM4Z) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Hoy – 3décadas, Vol\. 1](https://open.spotify.com/album/4PSbFROuWr7Cny41folDLl) | 4:31 |
 | 33 | [Es la Música \- Versión 25 Años \[Live\]](https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 4:18 |
 | 34 | [Suena la Alarma](https://open.spotify.com/track/1JhSOyxBOmnHBr4RnGkMBe) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Fa8jC.md) - [plain]
 | 49 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 |
 | 50 | [Esclavo](https://open.spotify.com/track/760amZp34Hu7t5cH9QB3BB) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Esclavo](https://open.spotify.com/album/1eVMXERactTzMCN0xab6j8) | 4:16 |
 
-Snapshot ID: `ZtOugAAAAAAHO/kRLn2jOuatgWrl0uu4`
+Snapshot ID: `ZtUAAAAAAADJYNpsml5JXg+n8G/1LTXg`

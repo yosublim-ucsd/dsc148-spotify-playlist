@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=eS2iNpVSTMiw5vS\_IFCFpg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,455 likes - 99 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,476 likes - 99 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 25 | [Imela](https://open.spotify.com/track/65z4V93nU42AYmiL2XAeNC) | [Chris Heaven](https://open.spotify.com/artist/0wWIHR4oX0miVq88XpVoYZ), [JAYCLEF ADEWALE](https://open.spotify.com/artist/3cmeG1FLJTVXgbDLTlDTLU) | [Imela](https://open.spotify.com/album/22lYGNyYmwJiAJdgkTEIYI) | 2:45 |
 | 26 | [The Name of Jesus](https://open.spotify.com/track/31TwFfVC8RMKZRCVavPLZQ) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [The Name of Jesus](https://open.spotify.com/album/4YyieGrZKYs8S7W9eaOGz4) | 2:51 |
 | 27 | [Refuge](https://open.spotify.com/track/0XgwyHubW1bkFlIc9xItR0) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Refuge](https://open.spotify.com/album/2NZ39Qei2PPavJYHuRedJf) | 2:37 |
-| 28 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \[UNVL' 24\]](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
+| 28 | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/track/3JzgsERiwlrenXhlVF1t1f) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [RAPAPAM \(BLESSINGS\) \- UNVL' 24](https://open.spotify.com/album/22ewpv02WvNpsGYjnEp3Z8) | 2:48 |
 | 29 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 |
 | 30 | [kind luv](https://open.spotify.com/track/6tczpC60Ac98bPwOB2cR7t) | [Cyfa](https://open.spotify.com/artist/3fItFJEQGwuAIQhFy92rJ9), [Echow Clay](https://open.spotify.com/artist/6L3FtVc42qiH1J9PUtdUDu), [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi) | [kind luv](https://open.spotify.com/album/7JculnQng8LWSQ45Hhy3p0) | 2:51 |
 | 31 | [Well Done \- Acoustic](https://open.spotify.com/track/2HFIv4eeBYSITsPwNuskgZ) | [Mabongi](https://open.spotify.com/artist/0uSRQHujTrrx0z341H366j) | [Well Done \(Acoustic\)](https://open.spotify.com/album/53rg8HOiElOn43j90ZW58X) | 5:22 |

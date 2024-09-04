@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 60603,
+  "num_followers": 60708,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Find Sound",
-        "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
-      },
-      "artists": [
-        {
-          "name": "Shards",
-          "url": "https://open.spotify.com/artist/0ATldWSJILH1tS2H87szDU"
-        }
-      ],
-      "duration_ms": 217090,
-      "name": "Thoughts",
-      "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
       },
@@ -1847,6 +1831,26 @@
       "duration_ms": 650794,
       "name": "Sospiro",
       "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "My Life / Under The Moon Over The Sky",
+        "url": "https://open.spotify.com/album/014P491xuSjVhCPbMapFbt"
+      },
+      "artists": [
+        {
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Johanna Klein",
+          "url": "https://open.spotify.com/artist/2SRNyDF0axecZrxNj5dArF"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "My Life - Edit",
+      "url": "https://open.spotify.com/track/7sXmm2QoZ8qpMxzHT160lY"
     }
   ],
   "unique_name": "ethereal voices",

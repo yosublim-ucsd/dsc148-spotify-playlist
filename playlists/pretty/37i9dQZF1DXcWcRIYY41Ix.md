@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Alejandro y Maria Laura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,199 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,195 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 95 | [MI NI NO VE LA](https://open.spotify.com/track/12t4EGfAbGTxUi3nZknKrE) | [Gabriel Vidanauta](https://open.spotify.com/artist/2f2xsmfNoZhf5FiX0gcRtQ), [Gilipojazz](https://open.spotify.com/artist/47TWGbbKU5JYIzlySwkFK4) | [MI NI NO VE LA](https://open.spotify.com/album/0nDIRkcWI5OtkiZORvqljj) | 4:01 |
 | 96 | [El Estallido](https://open.spotify.com/track/0x1gvDz9CUoVHS8uoC3uxB) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS), [Blanca la Almendrita](https://open.spotify.com/artist/4SHp6hFKS5azKCDDXrsLB5), [María del Tango](https://open.spotify.com/artist/3Sj2eDMpmDWqmqIOtWyVEU) | [El Estallido](https://open.spotify.com/album/4P98v55Jw2OQtU0TO62MW8) | 3:45 |
 | 97 | [Tanananá](https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo) | [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Tanananá](https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2) | 4:05 |
-| 98 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 |
-| 99 | [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 |
-| 100 | [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 |
+| 98 | [Simón](https://open.spotify.com/track/4xMiOxgxoJQ12FuRJ6lb0M) | [Montse](https://open.spotify.com/artist/3T0GzJMjk9HMVCWH8cteSm) | [Simón](https://open.spotify.com/album/2msIOoeg2OmpUfWQBw4BkD) | 4:58 |
+| 99 | [Siembro](https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Raquel Riba Rossy](https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe) | [Siembro](https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA) | 3:51 |
+| 100 | [El hombre de la habitación de al lado](https://open.spotify.com/track/0O8cglYEjO4csK9xHbKqp0) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [El hombre de la habitación de al lado](https://open.spotify.com/album/7EqHXkO34eYZLPco3EpGZC) | 3:54 |
 
 Snapshot ID: `ZtHXBAAAAACRV0OFB8d+/tEIogpFuK/X`

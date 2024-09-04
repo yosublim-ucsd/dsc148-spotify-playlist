@@ -2,7 +2,7 @@
 
 ### [Spooky Season](https://open.spotify.com/playlist/0ZWYUjUMhaq0Rammqq3qu1)
 
-> Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now to all your Halloween faves.
+> Music for the strange, unusual, and recently deceased\. Get ready for a very Beetlejuice Halloween with songs from the original film soundtrack, Bee Gees “Tragedy” and Richard Marx “Right Here Waiting”\. It’s Showtime! 🪲
 
 647 songs - 1 day 12 hr 42 min
 

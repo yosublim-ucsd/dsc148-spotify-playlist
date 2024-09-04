@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,082 likes - 290 songs - 15 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,083 likes - 290 songs - 15 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 18 | [Never Not](https://open.spotify.com/track/3ZPBZH2k9p306C1bu7bkhC) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR) | 3:28 |
 | 19 | [I Don't Wanna Wait](https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Don't Wanna Wait](https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji) | 2:29 |
 | 20 | [Blueberry Eyes \(feat\. SUGA of BTS\)](https://open.spotify.com/track/6sI8Q7TTJeA9exw6hxEqq3) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [Colour Vision](https://open.spotify.com/album/2FwpEC226o3WpXoptGbk85) | 2:52 |
-| 21 | [Visiting Hours](https://open.spotify.com/track/2TBe2DqsUIIUKbkGmhKV3A) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:35 |
+| 21 | [Visiting Hours](https://open.spotify.com/track/2TBe2DqsUIIUKbkGmhKV3A) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:35 |
 | 22 | [Boys](https://open.spotify.com/track/1du4tPkvJfCIuVL6WMtqSs) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:52 |
 | 23 | [Lost](https://open.spotify.com/track/18XlJEroUwFo0tLZxscgXE) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/2dnLi41uRXC7aNqDmcEc0P) | 2:52 |
 | 24 | [Used To Be Young](https://open.spotify.com/track/41WQUSINanQHfhfKpFDsms) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:11 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 72 | [Love Like This](https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Love Like This](https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7) | 2:53 |
 | 73 | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/track/4QeBlVCl2KzUEcQZiuskRd) | [NexXthursday](https://open.spotify.com/artist/07Y8trtAhW1FFUPqZYTosy), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Sway \(feat\. Quavo & Lil Yachty\)](https://open.spotify.com/album/0i9TSDm7kuCNRsaw8rSca2) | 4:04 |
 | 74 | [Love On](https://open.spotify.com/track/2fB5YRuD88drKpCXQOAk03) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Love On](https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL) | 3:01 |
-| 75 | [Invisible Things](https://open.spotify.com/track/24n8p4vCkwNL9OhvTrwe9z) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:17 |
-| 76 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 75 | [Watch Me Work](https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn) | [Andrew Rannells](https://open.spotify.com/artist/0GxSAKOw8AV0JsEQ0HYY4b), [Brianna Mazzola](https://open.spotify.com/artist/5LZ6g1nJq6l1uN39CTjzmG) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 2:30 |
+| 76 | [Invisible Things](https://open.spotify.com/track/24n8p4vCkwNL9OhvTrwe9z) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:17 |
 | 77 | [Summer Baby](https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [The Album](https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx) | 2:41 |
 | 78 | [Rich Boy](https://open.spotify.com/track/0K7Dd9DP6fvOl0mrlX0aUa) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Rich Boy](https://open.spotify.com/album/0Im9DNZw6k6bG5tjxKToPc) | 3:03 |
 | 79 | [My City](https://open.spotify.com/track/6uWykkthdJzx6GMLcFI2iB) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [My City \(FAST X Soundtrack\)](https://open.spotify.com/album/1aLqbEIzAVcrTLgx92YW1h) | 2:29 |
@@ -299,4 +299,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 289 | [Aliens](https://open.spotify.com/track/3n5lE0vC4SOb3tKP1h1fVD) | [The Dudley Corporation](https://open.spotify.com/artist/7Ch6Iyny8xZOqGcKbg1TEd) | [What a Human Does](https://open.spotify.com/album/3QdQhjtaMNBpwNgK1VwAR4) | 2:19 |
 | 290 | [Ghost Town](https://open.spotify.com/track/3psN2n0AqdpDY2pyY3P6uW) | [David Michael Ross](https://open.spotify.com/artist/2irkthky57ha2MXa6Owuwu) | [Guitaro](https://open.spotify.com/album/1AmQN4zcNgNBlSaSYWa3QC) | 4:07 |
 
-Snapshot ID: `AbbGZAAAAACCRI0f5QwCLwtn8ptta5EJ`
+Snapshot ID: `AbbL/gAAAACwehlf1u8XrNQ+UiMwPY5c`

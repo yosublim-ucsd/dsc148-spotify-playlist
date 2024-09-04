@@ -2,9 +2,9 @@
 
 ### [This Is Kali Uchis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO14xkre)
 
-> This Is Kali Uchis\. Los temas esenciales, todos en una lista.
+> This is Kali Uchis\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 52 min
+75 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Body Language \- Intro](https://open.spotify.com/track/2Tl0t18jgqJo0S7Fs2iy50) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 2:16 | 2024-05-19 | 2024-07-16 |
 | [Call Me](https://open.spotify.com/track/5KCDu7bWD2eXGhVjzBcPDB) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:12 | 2023-11-10 | 2024-01-14 |
 | [Como Debe Ser](https://open.spotify.com/track/4gXn7Yhi4oG1T1jLtVk49K) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS PARTE 2 \- Deluxe](https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS) | 3:29 | 2024-08-13 |  |
+| [Dame Beso // Muévete](https://open.spotify.com/track/21RAJfkAbaq85RWJQWoxkx) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 3:35 | 2024-09-04 |  |
 | [de nadie](https://open.spotify.com/track/7lm2mLylLoEjPiqGgcnhSY) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:59 | 2024-05-12 | 2024-07-02 |
 | [Dead To Me](https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:19 | 2023-11-10 |  |
 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 | 2023-11-10 | 2024-01-14 |
@@ -49,7 +50,7 @@
 | [Lottery](https://open.spotify.com/track/4atsB8EjUKY1kWg8KVag9h) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:26 | 2023-11-10 |  |
 | [Love Between...](https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Red Moon In Venus](https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br) | 2:35 | 2023-11-10 |  |
 | [MALVADA \(with Kali Uchis & KHEA\)](https://open.spotify.com/track/0oW1upYPuCWkarwMWZD0NK) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [NEON16 TAPE: THE KIDS THAT GREW UP ON REGGAETON](https://open.spotify.com/album/0yYekqi5aLywihK4YtigeN) | 2:20 | 2023-11-10 | 2024-08-13 |
-| [Me Pongo Loca](https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:57 | 2024-01-13 |  |
+| [Me Pongo Loca](https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:57 | 2024-01-13 | 2024-09-04 |
 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 | 2023-11-10 |  |
 | [Melting](https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:28 | 2023-11-10 |  |
 | [Moonlight](https://open.spotify.com/track/2i2gDpKKWjvnRTOZRhaPh2) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Moonlight](https://open.spotify.com/album/1y8Yw0NDcP2qxbZufIXt7u) | 3:07 | 2023-11-10 | 2024-01-31 |

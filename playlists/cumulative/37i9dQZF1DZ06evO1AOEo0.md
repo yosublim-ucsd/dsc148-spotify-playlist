@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-73 songs - 5 hr 57 min
+74 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Christ Our Hope In Life And Death](https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 20](https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p) | 4:31 | 2023-10-10 |  |
 | [Come As You Are](https://open.spotify.com/track/7bIm0ycdw7tiQEjsKzSTmM) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 12](https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV) | 4:35 | 2023-03-17 |  |
 | [Come Thou Fount \(Above All Else\)](https://open.spotify.com/track/5yZcK6LIBxD6Ia5vYuEr6v) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 5:51 | 2023-03-17 |  |
+| [Come Unto Jesus](https://open.spotify.com/track/12tLwuXI2xjAwBbN2DwOQg) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 4:00 | 2024-09-04 |  |
 | [Creed](https://open.spotify.com/track/4q8zQYnNqzYPaEZiBLBFgx) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Creed](https://open.spotify.com/album/6NLfzDJ2kwdpdcwldaBujR) | 5:07 | 2024-06-18 | 2024-06-30 |
 | [Draw Me Close](https://open.spotify.com/track/4cXn1bMqeZjyE65Ajl3Au8) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Vintage](https://open.spotify.com/album/4qbhfbCJvCjkFlXfFJ8fxu) | 5:54 | 2023-03-17 |  |
 | [Give Me Jesus](https://open.spotify.com/track/0RsaQMxAuonHIVM7pjQm6S) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 4:42 | 2023-03-17 |  |
@@ -58,7 +59,7 @@
 | [Psalm 139 \(Far Too Wonderful\)](https://open.spotify.com/track/3MS8o3UWQkGdFmhQ8vrFDP) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:12 | 2023-03-17 |  |
 | [Psalm 23 \(Surely Goodness, Surely Mercy\)](https://open.spotify.com/track/2Zxili8AmCuqiomg9HzTgH) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:47 | 2023-03-17 |  |
 | [Psalm 34 \(Taste and See\)](https://open.spotify.com/track/4JDmqxJrJS9FoMPzWmILkQ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:26 | 2023-03-17 |  |
-| [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 | 2023-03-17 |  |
+| [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalm 42 \(Loudest Praise\)](https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB) | 5:55 | 2023-03-17 | 2024-09-04 |
 | [Psalm 45 \(Fairest of All\)](https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:25 | 2023-03-17 |  |
 | [Psalm 46 \(Lord of Hosts\)](https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:02 | 2023-03-17 |  |
 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 | 2023-03-17 |  |

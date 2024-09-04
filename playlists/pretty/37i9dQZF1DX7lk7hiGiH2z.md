@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Plantschen, Eis & Freibadpommes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,420 likes - 45 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,441 likes - 45 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

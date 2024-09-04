@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "99% ANGEL",
+        "url": "https://open.spotify.com/album/2zWbHOqxYYHBZLcujr9fGY"
+      },
+      "artists": [
+        {
+          "name": "Sorana",
+          "url": "https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "99% ANGEL",
+      "url": "https://open.spotify.com/track/5fZlbHpe7bOU0MG2DHM0tB"
+    },
+    {
+      "album": {
         "name": "ABRACADABRA",
         "url": "https://open.spotify.com/album/2cbuhk7ZysIJM3KwGD2ddX"
       },
@@ -103,6 +121,28 @@
     },
     {
       "album": {
+        "name": "Ai gre\u0219it",
+        "url": "https://open.spotify.com/album/5zGlVaN0cYPsj21qCndxxg"
+      },
+      "artists": [
+        {
+          "name": "Andreea Banica",
+          "url": "https://open.spotify.com/artist/1MRQV5l5n4ax84U6CQljVq"
+        },
+        {
+          "name": "Andrei Banuta",
+          "url": "https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185223,
+      "name": "Ai gre\u0219it",
+      "url": "https://open.spotify.com/track/0wORaL1EhDo4Quewj9LSua"
+    },
+    {
+      "album": {
         "name": "Aoleu",
         "url": "https://open.spotify.com/album/1b1qzIiq173faiGUn0Cza7"
       },
@@ -118,6 +158,28 @@
       "duration_ms": 151909,
       "name": "Aoleu",
       "url": "https://open.spotify.com/track/1S3YJGo4PxvRYEc8kl7S0C"
+    },
+    {
+      "album": {
+        "name": "Arat\u0103-mi",
+        "url": "https://open.spotify.com/album/3FbkTM2AuoNj099CRxloDb"
+      },
+      "artists": [
+        {
+          "name": "LENO",
+          "url": "https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq"
+        },
+        {
+          "name": "NANE",
+          "url": "https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Arat\u0103-mi",
+      "url": "https://open.spotify.com/track/0tIqIoI3q43DsJmAwr6S6Y"
     },
     {
       "album": {
@@ -172,7 +234,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 196363,
       "name": "At\u00e2t de Noi",
       "url": "https://open.spotify.com/track/3PQon8IigFFRIPxWVLJ7oa"
@@ -212,7 +274,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 201212,
       "name": "A\u0219a, cum e\u0219ti tu",
       "url": "https://open.spotify.com/track/6ESlixRsvSuqBdm5y60njA"
@@ -230,7 +292,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 147640,
       "name": "Ba e soare, ba e ploaie",
       "url": "https://open.spotify.com/track/7ffVzMf2rW26TlWkPhYvPk"
@@ -273,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Burning Love (Roton 3.0 Sessions)",
+        "url": "https://open.spotify.com/album/7ER3S7FN1mKpX3sLIHW8gv"
+      },
+      "artists": [
+        {
+          "name": "Bianca Tilici",
+          "url": "https://open.spotify.com/artist/61xRS6kv2QLSQQI1Id4iBD"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146131,
+      "name": "Burning Love - Roton 3.0 Sessions",
+      "url": "https://open.spotify.com/track/5CVsCx9UvrOblhZv2LVHbm"
+    },
+    {
+      "album": {
         "name": "Buzele tale",
         "url": "https://open.spotify.com/album/4ojQgcsrLZBFxDjzoZfRFT"
       },
@@ -302,7 +382,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 147750,
       "name": "Caldaram",
       "url": "https://open.spotify.com/track/4K66vI18Er9YUxilyFcpnI"
@@ -476,7 +556,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 139672,
       "name": "Dancing in Marbella",
       "url": "https://open.spotify.com/track/0l328syCyA11b9Ai3DqRDy"
@@ -530,7 +610,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 132222,
       "name": "De cate ori",
       "url": "https://open.spotify.com/track/4R6ciqK8BxBoyHVo2GlI4S"
@@ -548,7 +628,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 203835,
       "name": "De la dela",
       "url": "https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7"
@@ -588,7 +668,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 174871,
       "name": "Derni\u00e8re Cigarette",
       "url": "https://open.spotify.com/track/4ULGWCPPadrpPvWdumBHG1"
@@ -646,7 +726,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 121250,
       "name": "Doare inima",
       "url": "https://open.spotify.com/track/2rNyrtpLI4SB3e8rd4BRXM"
@@ -664,7 +744,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 183460,
       "name": "Doru' ca P\u0103durea",
       "url": "https://open.spotify.com/track/4rfdzFCHH1xVWVZRYh04U2"
@@ -791,6 +871,24 @@
     },
     {
       "album": {
+        "name": "Fii tu",
+        "url": "https://open.spotify.com/album/2bjQVSBxXxPtcvANTzYwm5"
+      },
+      "artists": [
+        {
+          "name": "Mara Trefas",
+          "url": "https://open.spotify.com/artist/0mRH9oO5trSJOhXFYFwHKT"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152470,
+      "name": "Fii tu",
+      "url": "https://open.spotify.com/track/1ayrlFSnYpRA4Qwsxwd496"
+    },
+    {
+      "album": {
         "name": "Gradina",
         "url": "https://open.spotify.com/album/0jkPV4mS0uTgJGFG4ha20A"
       },
@@ -845,6 +943,42 @@
     },
     {
       "album": {
+        "name": "Hanorac",
+        "url": "https://open.spotify.com/album/5AWeuk3lQwxl85qn56QkHw"
+      },
+      "artists": [
+        {
+          "name": "Aria Moon",
+          "url": "https://open.spotify.com/artist/4cE6cMg8gPOmoFNO8yYRbj"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "Hanorac",
+      "url": "https://open.spotify.com/track/47DlUxcVui51KXcIpKJtLt"
+    },
+    {
+      "album": {
+        "name": "Hide",
+        "url": "https://open.spotify.com/album/1AP4YpJXsNnCXvP4EAOE6P"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218926,
+      "name": "Hide",
+      "url": "https://open.spotify.com/track/3yIM5GDH3UYpYMi0fWRmx3"
+    },
+    {
+      "album": {
         "name": "Ia Loc",
         "url": "https://open.spotify.com/album/3UAVxkT83K8fmqeA4RZHdb"
       },
@@ -856,10 +990,28 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 201600,
       "name": "Ia Loc",
       "url": "https://open.spotify.com/track/6wOQ7xqVkemBbc8tySYBcA"
+    },
+    {
+      "album": {
+        "name": "Idee de iubire",
+        "url": "https://open.spotify.com/album/4QsHdzZjOPqGccVQTjptPQ"
+      },
+      "artists": [
+        {
+          "name": "Alessiah",
+          "url": "https://open.spotify.com/artist/1EdD1RXOUNqPUJAqwtnHWw"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177313,
+      "name": "Idee de iubire",
+      "url": "https://open.spotify.com/track/73pTwDVMPgzxe7lPjvmeev"
     },
     {
       "album": {
@@ -918,6 +1070,28 @@
       "duration_ms": 160000,
       "name": "Iubirea mea e cu tupeu",
       "url": "https://open.spotify.com/track/6GntlpK8FxVDVFIWDm1ii1"
+    },
+    {
+      "album": {
+        "name": "Kef Halak",
+        "url": "https://open.spotify.com/album/5ZN6HBUIItM6dyvXHsUhbd"
+      },
+      "artists": [
+        {
+          "name": "Stefania",
+          "url": "https://open.spotify.com/artist/3GyTyH3aepWj2Z2wC3FqHy"
+        },
+        {
+          "name": "Dhurata Dora",
+          "url": "https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Kef Halak",
+      "url": "https://open.spotify.com/track/7Mzy4mmnf33pfZIM3fwQax"
     },
     {
       "album": {
@@ -1096,7 +1270,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 165949,
       "name": "M\u0103 \u00eentorc acas\u0103",
       "url": "https://open.spotify.com/track/1JMncfAtFYW1CO1LMk0sUE"
@@ -1132,7 +1306,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 153000,
       "name": "Nop\u021bile",
       "url": "https://open.spotify.com/track/1edVyy7z6tX1Bmt0N6W8iL"
@@ -1154,6 +1328,24 @@
       "duration_ms": 182535,
       "name": "Norocul t\u0103u",
       "url": "https://open.spotify.com/track/2KIAwpwvdJM3O55vq9t4Nz"
+    },
+    {
+      "album": {
+        "name": "Nu ma cauta",
+        "url": "https://open.spotify.com/album/4Q29o4xFD6XnHDRijOG9rc"
+      },
+      "artists": [
+        {
+          "name": "Serena",
+          "url": "https://open.spotify.com/artist/3TnHUGTOpN3yuYw59iGMSd"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161095,
+      "name": "Nu ma cauta",
+      "url": "https://open.spotify.com/track/38rqPCaMbpKFr7mrGPj3Sn"
     },
     {
       "album": {
@@ -1211,6 +1403,24 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Stan",
+          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172235,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp"
+    },
+    {
+      "album": {
         "name": "Oh My God",
         "url": "https://open.spotify.com/album/3dq5MZbIweguyRT9VK2y3w"
       },
@@ -1222,7 +1432,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 148153,
       "name": "Oh My God",
       "url": "https://open.spotify.com/track/0hTkBmM30pSw6PBnH5U2b7"
@@ -1323,6 +1533,24 @@
     },
     {
       "album": {
+        "name": "Ploi de Tequila",
+        "url": "https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk"
+      },
+      "artists": [
+        {
+          "name": "Antonia",
+          "url": "https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146646,
+      "name": "Ploi de Tequila",
+      "url": "https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT"
+    },
+    {
+      "album": {
         "name": "Prieteni",
         "url": "https://open.spotify.com/album/1oFPhfgmm9Bwo3olTP6a5G"
       },
@@ -1334,7 +1562,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 169411,
       "name": "Prieteni",
       "url": "https://open.spotify.com/track/762tfyVXBlCKIzKebDJaVU"
@@ -1356,6 +1584,28 @@
       "duration_ms": 164705,
       "name": "Puerto Rico",
       "url": "https://open.spotify.com/track/7xEKElo4ecDS2V6mQl9TfJ"
+    },
+    {
+      "album": {
+        "name": "Que Guapa Mami",
+        "url": "https://open.spotify.com/album/15FjmfK8fV3BVsmHIXj23q"
+      },
+      "artists": [
+        {
+          "name": "Ruxit",
+          "url": "https://open.spotify.com/artist/2eZznjvEZqB1UOCAPKW2MH"
+        },
+        {
+          "name": "Ministerul Manelelor",
+          "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Que Guapa Mami",
+      "url": "https://open.spotify.com/track/3brVm2rCdUW1kELGRT77lM"
     },
     {
       "album": {
@@ -1396,6 +1646,28 @@
       "duration_ms": 145038,
       "name": "Saruta-ma",
       "url": "https://open.spotify.com/track/6YS3SfDm9FAl6SW43DyTVw"
+    },
+    {
+      "album": {
+        "name": "Scena vie\u021bii",
+        "url": "https://open.spotify.com/album/1XV1IN3uTrgbYY0BwibwiH"
+      },
+      "artists": [
+        {
+          "name": "Cleopatra Stratan",
+          "url": "https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG"
+        },
+        {
+          "name": "Pavel Stratan",
+          "url": "https://open.spotify.com/artist/6COGnMricMUbH9sM5TMbAF"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Scena vie\u021bii",
+      "url": "https://open.spotify.com/track/76NVHK5VDIAyzqoQ5PlHRk"
     },
     {
       "album": {
@@ -1457,6 +1729,64 @@
     },
     {
       "album": {
+        "name": "S\u0103 te iubeasca cineva",
+        "url": "https://open.spotify.com/album/3gELYpkcWHvRCf2knFCtw8"
+      },
+      "artists": [
+        {
+          "name": "Andra",
+          "url": "https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179076,
+      "name": "S\u0103 te iubeasca cineva",
+      "url": "https://open.spotify.com/track/1rTuIL65PDHgTCAlmGY0jb"
+    },
+    {
+      "album": {
+        "name": "Take Me Home (Know You Better)",
+        "url": "https://open.spotify.com/album/5DpQWNcGEtMtM916omzVKX"
+      },
+      "artists": [
+        {
+          "name": "INNA",
+          "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+        },
+        {
+          "name": "Makar",
+          "url": "https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196874,
+      "name": "Take Me Home (Know You Better)",
+      "url": "https://open.spotify.com/track/1SqZ61R7nbecaUPrHF8JVU"
+    },
+    {
+      "album": {
+        "name": "Ioana Ignat (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1RyvcQhHL8M6fzVbUTD6Ra"
+      },
+      "artists": [
+        {
+          "name": "Ioana Ignat",
+          "url": "https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203195,
+      "name": "Te strig",
+      "url": "https://open.spotify.com/track/5JmvuBgj4ODK4pLH7NQVlb"
+    },
+    {
+      "album": {
         "name": "Everything Or Nothing #DQH2",
         "url": "https://open.spotify.com/album/3qAA1ejpFJwfbSEyXzBikF"
       },
@@ -1468,7 +1798,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 148500,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/3OONvR6HW8rdXNDGYO81Ru"
@@ -1602,7 +1932,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 179236,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/7HgiJTptTSMYrF9gNAOOnx"
@@ -1642,7 +1972,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 129729,
       "name": "\u00cenapoi",
       "url": "https://open.spotify.com/track/4AXb87kku5QFump60qvqQB"
@@ -1671,6 +2001,24 @@
     },
     {
       "album": {
+        "name": "\u00centre noi nu e gata",
+        "url": "https://open.spotify.com/album/4Qy8QGV7YmUQ8fuifu3wNl"
+      },
+      "artists": [
+        {
+          "name": "Olivia Addams",
+          "url": "https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127272,
+      "name": "\u00centre noi nu e gata",
+      "url": "https://open.spotify.com/track/632eYdJlwLj2FJdTaQ90Gm"
+    },
+    {
+      "album": {
         "name": "\u0218tiu c\u0103 \u021bi-e dor",
         "url": "https://open.spotify.com/album/4b0bPRy2U7Vb1IYzd1UIOS"
       },
@@ -1682,7 +2030,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 165505,
       "name": "\u0218tiu c\u0103 \u021bi-e dor",
       "url": "https://open.spotify.com/track/2b1la3Gzeuna5fmifUBk61"

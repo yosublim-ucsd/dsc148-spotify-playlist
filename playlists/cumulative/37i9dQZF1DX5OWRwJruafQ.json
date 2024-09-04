@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 125346,
       "name": "Active",
       "url": "https://open.spotify.com/track/2WZeBhTbaVg1k4KoT1VbNt"
@@ -1550,6 +1550,10 @@
         {
           "name": "Prem Dhillon",
           "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "San-B",
+          "url": "https://open.spotify.com/artist/5F5Gjm7dSLUY66aTEUR1pD"
         }
       ],
       "date_added": "2024-04-19",
@@ -9790,6 +9794,24 @@
       "duration_ms": 164000,
       "name": "Vibe",
       "url": "https://open.spotify.com/track/2jg12Hm0uoAdSDj6TpjII2"
+    },
+    {
+      "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/0iFzZFYfOGwar3n7MRvDEn"
+      },
+      "artists": [
+        {
+          "name": "Pavitar Lassoi",
+          "url": "https://open.spotify.com/artist/3fn50P81Whm1meTnMmS8zX"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140869,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/50i8NXAygiZBfZb92m8ssD"
     },
     {
       "album": {

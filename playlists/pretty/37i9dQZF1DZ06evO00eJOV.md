@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 
 ### [This Is Brenda Fassie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00eJOV)
 
-> This is Brenda Fassie\. The essential tracks, all in one playlist.
+> This is Brenda Fassie\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,773 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,774 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 36 | [Zola Budd](https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Greatest Hits 1964\-2004](https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0) | 4:00 |
 | 37 | [Jiva](https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 5:07 |
 | 38 | [Dikonyana](https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx) | [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Refe Matla](https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8) | 4:56 |
-| 39 | [Uyang'Embarasa](https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:50 |
-| 40 | [Elakho Likhona \(La Hao Le Teng\)](https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:39 |
+| 39 | [Elakho Likhona \(La Hao Le Teng\)](https://open.spotify.com/track/1oLm476hsQ2fEBx468IukC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:39 |
+| 40 | [Uyang'Embarasa](https://open.spotify.com/track/2sYRByVFwMQAx6K0CTWizr) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:50 |
 | 41 | [Good Black Woman](https://open.spotify.com/track/0tBcgGtZP7OmfiSG5LiXqX) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 5:31 |
 | 42 | [Soon And Very Soon \- 99 Remix](https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Nomakanjani](https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM) | 4:35 |
-| 43 | [Ngohlala Ngi Nje](https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:58 |
-| 44 | [Hamba Sathane](https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:50 |
+| 43 | [Hamba Sathane](https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:50 |
+| 44 | [Ngohlala Ngi Nje](https://open.spotify.com/track/5oV9NjG1DzywliYzg1CLaS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Mina Nawe](https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0) | 4:58 |
 | 45 | [Don't Follow Me I'm Married](https://open.spotify.com/track/3ntYMGTuAmBoRHe1IdQAsS) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Too Late For Mama](https://open.spotify.com/album/46iGQsed63hPnVAF45FCLN) | 4:37 |
 | 46 | [The Lord Is My Shepherd](https://open.spotify.com/track/2oaBWSFWKd5Nc3c0cE2pLE) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Ag Shame Lovey](https://open.spotify.com/album/2yAfaG9DutJ1MDKadP9kZ8) | 5:48 |
 | 47 | [Ngizobuya](https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Amadlozi](https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00eJOV.md) - [plain]
 | 49 | [O Lemenemene](https://open.spotify.com/track/34VLLIFr9h9MKRwdWlJZHl) | [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl), [Pure Gold](https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z) | [Hamba Sathane](https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ) | 4:35 |
 | 50 | [Only Jesus](https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg) | [Children Of God](https://open.spotify.com/artist/2DPySSVd2uQRDoUIMA9pEq), [Chicco](https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f), [Brenda Fassie](https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl) | [Soon And Very Soon](https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs) | 3:56 |
 
-Snapshot ID: `ZtOugAAAAAA+6lFQWXQfgLhcXup/Gs8j`
+Snapshot ID: `ZtUAAAAAAAC2BExAHpqy6zGokZWNtGAT`

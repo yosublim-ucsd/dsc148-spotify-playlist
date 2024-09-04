@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 
 > This is NAV\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,109 likes - 51 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,112 likes - 51 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 3 | [Calling \(Spider\-Man: Across the Spider\-Verse\) \(Metro Boomin & Swae Lee, NAV, feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5rurggqwwudn9clMdcchxT) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [METRO BOOMIN PRESENTS SPIDER\-MAN: ACROSS THE SPIDER\-VERSE \(SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE\)](https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ) | 3:39 |
 | 4 | [6AM Thoughts \(with Cash Cobain & Bay Swag\)](https://open.spotify.com/track/4l4gr5KjRl1msqINS47y20) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [6AM Thoughts](https://open.spotify.com/album/6Y7WV9kM9IS5mhcgrvIbfx) | 3:20 |
 | 5 | [Some Way](https://open.spotify.com/track/7zxRMhXxJMQCeDDg0rKAVo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:59 |
-| 6 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
-| 7 | [Fall Back \(feat\. NAV\)](https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back](https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md) | 2:40 |
+| 6 | [Fall Back \(feat\. NAV\)](https://open.spotify.com/track/2L6KDf6tt2bZpIrSvG2qlz) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back](https://open.spotify.com/album/72VSncJHPkOlhsNSoSD4Md) | 2:40 |
+| 7 | [Rexdale](https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Rexdale](https://open.spotify.com/album/7luxPo6uIc8GseoVfDBqB4) | 2:05 |
 | 8 | [Turks \(with Gunna & ft\. Travis Scott\)](https://open.spotify.com/track/7IMwEtpAiJanqF6vQteZN2) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 2:41 |
 | 9 | [Myself](https://open.spotify.com/track/05nbZ1xxVNwUTcGwLbp7CN) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:46 |
 | 10 | [Champion \(feat\. Travis Scott\)](https://open.spotify.com/track/6nO3tr47nr2P7f3hXb8JIo) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 3:15 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 41 | [Codeine \(feat\. Gunna\)](https://open.spotify.com/track/6NzuJWrNriXAbSmscAuSIq) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Good Intentions](https://open.spotify.com/album/0jk3nAmtiIfwLU4CvDDMaS) | 3:08 |
 | 42 | [Good For It](https://open.spotify.com/track/2Bli1Wbi5mRa1BcVJaZ1m4) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 2:39 |
 | 43 | [Bali](https://open.spotify.com/track/4y5tKWeAUcaFE6O8Fa8XsY) | [88GLAM](https://open.spotify.com/artist/2I9SLklAOG0vdMiUUMNxRl), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [88GLAM RELOADED](https://open.spotify.com/album/5FqQFZh4GPzYuEXJCXYd36) | 3:05 |
-| 44 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 |
-| 45 | [Glow Up](https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 2:40 |
+| 44 | [Glow Up](https://open.spotify.com/track/09L4qpS3qvz725z6K8yW0M) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [RECKLESS](https://open.spotify.com/album/1hTrdWpdPEeXHQWc9GmpxZ) | 2:40 |
+| 45 | [Fell In Love \(2016\)](https://open.spotify.com/track/0Tj8jGisjOjBE74rJUlcah) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fell In Love \(2016\)](https://open.spotify.com/album/0qNXBllDOLbmINeIE7qwNZ) | 2:57 |
 | 46 | [NAV](https://open.spotify.com/track/0OPfZM09RUjE46nIeJGCfX) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [NAV](https://open.spotify.com/album/4JR29CNW14Zc4Z5vflxkoJ) | 3:02 |
 | 47 | [Perfect Timing \(Intro\)](https://open.spotify.com/track/5Od0M7jp6IODTPW0cygHgu) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Perfect Timing](https://open.spotify.com/album/6VFETcEfjilkAng073KLt9) | 2:57 |
 | 48 | [Dead Shot \(with Lil Uzi Vert\)](https://open.spotify.com/track/5CI4P97F6XAwK1kGnFYC0k) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Demons Protected By Angels](https://open.spotify.com/album/29NWnawJBetVB3lOM9Sbp6) | 3:01 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4p7boI.md) - [plain]
 | 50 | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/track/71Ih7wOeWd2EJxKi77Yiqi) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Painless 2 \(with NAV feat\. Lil Durk\)](https://open.spotify.com/album/7rKi5SdKXxVSLIc0B9z0wK) | 4:02 |
 | 51 | [On My Own \(2016\)](https://open.spotify.com/track/1JfhrpmEjgO85Y7sM2QWvH) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [On My Own \(2016\)](https://open.spotify.com/album/0R0Zqjy0b5vkPCBKhP3IRo) | 2:48 |
 
-Snapshot ID: `ZtOugAAAAACuQlGlGOQW+XAAP4NccU3K`
+Snapshot ID: `ZtUAAAAAAACKAPw6sF+VLw/19h8rWdnB`

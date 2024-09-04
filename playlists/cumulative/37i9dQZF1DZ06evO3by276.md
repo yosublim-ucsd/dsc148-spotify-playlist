@@ -2,7 +2,7 @@
 
 ### [This Is Rihanna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3by276)
 
-> This Is Rihanna\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Rihanna\. Los temas esenciales, todos en una lista.
 
 57 songs - 3 hr 35 min
 

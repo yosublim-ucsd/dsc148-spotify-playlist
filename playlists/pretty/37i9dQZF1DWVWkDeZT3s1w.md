@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,470 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,511 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 85 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 |
 | 86 | [Bienvenidx](https://open.spotify.com/track/4AZ9qnUdWe1r7twDSTRhCw) | [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Siempreviva](https://open.spotify.com/album/263pNkZ0JorxekXYAmCkO0) | 3:10 |
 | 87 | [Prometo](https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 3:03 |
-| 88 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
-| 89 | [Algo Bien](https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Algo Bien](https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW) | 4:31 |
+| 88 | [Algo Bien](https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Algo Bien](https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW) | 4:31 |
+| 89 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
 | 90 | [Fe de Errata](https://open.spotify.com/track/5ABJNOBKeE7tNn5aOGXQ1R) | [Lil Supa](https://open.spotify.com/artist/0qHbO3z6lgLE6ZYCkQBo1K) | [Claro](https://open.spotify.com/album/2AzFsL7ANckjBWqVIO8sn1) | 3:06 |
 | 91 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
 | 92 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |

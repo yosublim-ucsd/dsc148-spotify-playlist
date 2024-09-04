@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bCHOSNG(\ucd08\uc2b9)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
+  "description": "Chillout to the coolest Korean folk/acoustic tunes. (Cover:\bsaram tto saram(\uc0ac\ub78c\ub610\uc0ac\ub78c)) \uac10\ubbf8\ub86d\uace0 \ubd80\ub4dc\ub7ec\uc6b4 \ud55c\uad6d \ud3ec\ud06c/\uc5b4\ucfe0\uc2a4\ud2f1 \uc74c\uc545\uacfc \ud568\uaed8\ud558\uc138\uc694.",
   "name": "K-Folk/Acoustic",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 171880,
       "name": "4Life",
       "url": "https://open.spotify.com/track/0rG2HaZzBT4ZzaXFPRir7Z"
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 301500,
       "name": "a colored pencil",
       "url": "https://open.spotify.com/track/1NjI04swvcr8FoRG4zUMEO"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 189520,
       "name": "dawn",
       "url": "https://open.spotify.com/track/3fUFxDs2Edus1oe5HxaqOT"
@@ -2968,6 +2968,24 @@
       "duration_ms": 175295,
       "name": "Hope You're Ruined (Piano Ver.)",
       "url": "https://open.spotify.com/track/5rRW7ODPgCmIAekrEnvEJM"
+    },
+    {
+      "album": {
+        "name": "the adult world",
+        "url": "https://open.spotify.com/album/13V7PnYmzy7WWi1gIO2Cgj"
+      },
+      "artists": [
+        {
+          "name": "saram tto saram",
+          "url": "https://open.spotify.com/artist/4khhm4gbowkhdIbNWxWXgT"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199844,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/3TUJnv0USMSgUPtCHABe56"
     },
     {
       "album": {
@@ -4582,7 +4600,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-11",
+      "date_removed": null,
       "duration_ms": 257986,
       "name": "Loveless Night",
       "url": "https://open.spotify.com/track/3D51P7X8MO6G6YaynJsprB"
@@ -6848,7 +6866,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-01",
+      "date_removed": null,
       "duration_ms": 257471,
       "name": "STAR",
       "url": "https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW"
@@ -7216,7 +7234,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 164176,
       "name": "Swim in you",
       "url": "https://open.spotify.com/track/5VGDHco00AJQFgyBCRmLYo"
@@ -9702,6 +9720,24 @@
       "duration_ms": 328250,
       "name": "\uc7a5\ub9c8 Rainy Season",
       "url": "https://open.spotify.com/track/2Vvl3BfXWpuuCVMkScEYpC"
+    },
+    {
+      "album": {
+        "name": "\ud558\ub8e8 \ud55c\ubc29\uc6b8 One drop a day (Original Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190520,
+      "name": "\uc9c0\uae08 \uc774\ub300\ub85c Stay with me",
+      "url": "https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt"
     },
     {
       "album": {

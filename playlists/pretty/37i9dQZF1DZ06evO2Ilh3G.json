@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 115631,
+  "num_followers": 115648,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABPiAyCTSmb8G9ulANgy7zO",
+  "snapshot_id": "ZtUAAAAAAADJ7t61mMV7VZGz4+tEDQ3p",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Legendary",
+        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 229210,
+      "name": "Taste (feat. Offset)",
+      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
         "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
       },
@@ -99,26 +119,6 @@
       "duration_ms": 231746,
       "name": "Annihilate (Spider-Man: Across the Spider-Verse) (Metro Boomin & Swae Lee, Lil Wayne, Offset)",
       "url": "https://open.spotify.com/track/39MK3d3fonIP8Mz9oHCTBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Legendary",
-        "url": "https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 229210,
-      "name": "Taste (feat. Offset)",
-      "url": "https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt"
     },
     {
       "added_at": null,
@@ -451,6 +451,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "JEALOUSY (feat. Cardi B)",
+        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "JEALOUSY (feat. Cardi B)",
+      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Life's A Gamble",
         "url": "https://open.spotify.com/album/6wScYhNN09rl5Sc4XfL9ru"
       },
@@ -471,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "JEALOUSY (feat. Cardi B)",
-        "url": "https://open.spotify.com/album/3PgS3nituPh4DDt5LT1cNL"
+        "name": "SET IT OFF",
+        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
       "artists": [
         {
@@ -480,13 +500,13 @@
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 174466,
-      "name": "JEALOUSY (feat. Cardi B)",
-      "url": "https://open.spotify.com/track/73S4fsK22WH929PLFNYgOj"
+      "duration_ms": 168426,
+      "name": "BROAD DAY (feat. Future)",
+      "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
       "added_at": null,
@@ -515,26 +535,6 @@
       "duration_ms": 145188,
       "name": "Menace",
       "url": "https://open.spotify.com/track/0CjHqLvr4EdjBJ0XiKtbCI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SET IT OFF",
-        "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 168426,
-      "name": "BROAD DAY (feat. Future)",
-      "url": "https://open.spotify.com/track/6Qc90FMwNUjJ2M893RdYUg"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Risk Taker",
-        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
-      },
-      "artists": [
-        {
-          "name": "Blxst",
-          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 223189,
-      "name": "Risk Taker",
-      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -639,30 +619,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Huncho Jack, Jack Huncho",
-        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+        "name": "Risk Taker",
+        "url": "https://open.spotify.com/album/0eX3oKIfRjTb0gjAOysT0E"
       },
       "artists": [
         {
-          "name": "Huncho Jack",
-          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
         }
       ],
-      "duration_ms": 228431,
-      "name": "Dubai Shit",
-      "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+      "duration_ms": 223189,
+      "name": "Risk Taker",
+      "url": "https://open.spotify.com/track/1rdL4oJxPzqDiNclK2aP3u"
     },
     {
       "added_at": null,
@@ -715,6 +687,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Huncho Jack, Jack Huncho",
+        "url": "https://open.spotify.com/album/6FED8aeieEnUWwQqAO9zT1"
+      },
+      "artists": [
+        {
+          "name": "Huncho Jack",
+          "url": "https://open.spotify.com/artist/6extd4B6hl8VTmnlhpl2bY"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 228431,
+      "name": "Dubai Shit",
+      "url": "https://open.spotify.com/track/6urLjX35oXXRYtcH1b3dCh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SET IT OFF",
         "url": "https://open.spotify.com/album/1D1hLipjrdB6pnxurMtC3E"
       },
@@ -727,26 +727,6 @@
       "duration_ms": 156306,
       "name": "FAN",
       "url": "https://open.spotify.com/track/41JN30LlL093JqC2YUJ0IW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Grim Reaper: The Return",
-        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
-      },
-      "artists": [
-        {
-          "name": "Big Scarr",
-          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 202783,
-      "name": "Fantasy (feat. Offset)",
-      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
     },
     {
       "added_at": null,
@@ -791,6 +771,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Big Grim Reaper: The Return",
+        "url": "https://open.spotify.com/album/59pMTqaKusiZtVLLuwx6Ut"
+      },
+      "artists": [
+        {
+          "name": "Big Scarr",
+          "url": "https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 202783,
+      "name": "Fantasy (feat. Offset)",
+      "url": "https://open.spotify.com/track/2Hl9mZVT3fXMq4NwDa16sM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hurts Like Hell (feat. Offset)",
         "url": "https://open.spotify.com/album/1oLgEL9h1BcRpntPNBDQyE"
       },
@@ -831,6 +831,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baby On Baby",
+        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
+      },
+      "artists": [
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "Baby Sitter (feat. Offset)",
+      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Michael & The Mighty Midnight Revival, Songs For Sinners And Saints",
         "url": "https://open.spotify.com/album/4uusjgOWMeitjvIrSA1HXO"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 217771,
       "name": "EXIT 9 (SCENIC ROUTE)",
       "url": "https://open.spotify.com/track/0OPnIBDVMdIB7sQ4R6nkV7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baby On Baby",
-        "url": "https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0"
-      },
-      "artists": [
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "Baby Sitter (feat. Offset)",
-      "url": "https://open.spotify.com/track/7f1zjZG77S891Uv4O68yfk"
     },
     {
       "added_at": null,

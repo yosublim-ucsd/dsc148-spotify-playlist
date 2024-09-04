@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0d3wigiTss.md) - [plain]
 
 > Adormecer ao som relaxante da chuva.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,426 likes - 300 songs - 13 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,578 likes - 300 songs - 13 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

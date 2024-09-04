@@ -731,6 +731,24 @@
     },
     {
       "album": {
+        "name": "MAGIC",
+        "url": "https://open.spotify.com/album/4R6JJEwoyqf7737pEdR0iK"
+      },
+      "artists": [
+        {
+          "name": "JAEHA",
+          "url": "https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "MAGIC",
+      "url": "https://open.spotify.com/track/6ceAPjFnKNifeGlOTRTi1X"
+    },
+    {
+      "album": {
         "name": "PSY 7TH ALBUM",
         "url": "https://open.spotify.com/album/1aHmoh8Iog2xqwVk9A77yc"
       },

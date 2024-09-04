@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,407 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,455 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ViysbCzMHO.md) - [plain]
 | 56 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 |
 | 57 | [Little More Be Alright](https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Little More Be Alright](https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM) | 3:35 |
 | 58 | [That's Why \(Acoustic Version\)](https://open.spotify.com/track/3KpwuK8rJmwNJtAYGwBzxX) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why \(Acoustic Version\)](https://open.spotify.com/album/5Rf2mz5BFjulfBK3idNujx) | 2:57 |
-| 59 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \(Wedding Version\)](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
+| 59 | [Another \- Wedding Version](https://open.spotify.com/track/3pF8tbhwVEqpef7RJkFUtK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Another \- Wedding Version](https://open.spotify.com/album/4RTl5pDygFl1McoNT4AkMd) | 2:51 |
 | 60 | [What He Didn't Do \- Acoustic](https://open.spotify.com/track/5Jvc5wJuQOBrRxV5JgGgSX) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [What He Didn't Do \(Acoustic\)](https://open.spotify.com/album/59dYMGSh4qPQ9X0tvsTAG9) | 3:09 |
 | 61 | [Cowboy Break My Heart \- Take 1](https://open.spotify.com/track/774cccmqH0RT5ubk4niAU5) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Cowboy Break My Heart \- Take 1](https://open.spotify.com/album/5BOgEvcF5Im6qsECuLss6G) | 3:23 |
 | 62 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |

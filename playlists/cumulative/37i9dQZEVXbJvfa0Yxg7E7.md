@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,784 songs - 3 day 21 hr 3 min
+1,785 songs - 3 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Beautiful Wave](https://open.spotify.com/track/1jfnMuuwGBxZtaaMSdDF9n) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Beautiful Wave](https://open.spotify.com/album/3N6aCvfvY4TYEj8csu460O) | 3:28 | 2021-11-14 | 2021-11-16 |
 | [BeautiFull](https://open.spotify.com/track/6x9k1cXLTqDWagE7voMWv1) | [TIX](https://open.spotify.com/artist/6CawoDDP1IZUSGl4wSJGC9) | [BeautiFull](https://open.spotify.com/album/7zNW7WJZ1BPQRoPUqgNopV) | 2:44 | 2021-06-27 | 2021-08-31 |
 | [BED](https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [BED](https://open.spotify.com/album/36tML2tWjDrbLW4FgrX17U) | 2:58 | 2021-05-10 | 2021-05-23 |
+| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-03 |  |
 | [Before You](https://open.spotify.com/track/523f4oSjrZx83XDtRLnsIw) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Before You](https://open.spotify.com/album/5daRbOcG3hGi60yaXm5PXM) | 3:07 | 2022-10-29 | 2022-11-21 |
 | [Before You Leave Me](https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Before You Leave Me](https://open.spotify.com/album/5RFlSbyzgtiMtN7IzqLOhz) | 2:56 | 2024-02-23 | 2024-06-23 |
 | [Befri mæ \- Live fra Oslo Spektrum](https://open.spotify.com/track/4pVlQCedbsF4VJceMSf2Dk) | [Sondre Justad](https://open.spotify.com/artist/3a0gvZAydt98HKVbGb0V67), [Peder Snekvik](https://open.spotify.com/artist/2wopQ6p6xtwYSN5WLrg6ns) | [Befri mæ \(Live fra Oslo Spektrum\)](https://open.spotify.com/album/4YuwZDV6AZZKFNzKpxw1iO) | 4:55 | 2023-01-07 | 2023-01-09 |
@@ -1697,7 +1698,7 @@
 | [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 | 2023-10-15 |
 | [VISIT NORWAY \- Live from Sala la Paqui But, Madrid](https://open.spotify.com/track/4QRCOP0KA8l9RBN07O2xTA) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 4:18 | 2023-05-20 | 2023-05-23 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-09-19 |
-| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 |  |
+| [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2023-07-07 | 2024-09-04 |
 | [Viva La Vida](https://open.spotify.com/track/4zOfy9kqJlG0ZXvcaSh4gv) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/7sYd6KDHefklNf94RmND8g) | 4:02 | 2024-08-12 | 2024-08-14 |
 | [Viva La Vida](https://open.spotify.com/track/3PzfAzqI03wcX8OikTdrH2) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/1L8q23sIBg9hklgZwbHyVX) | 2:27 | 2024-06-04 |  |
 | [Viva La Vida](https://open.spotify.com/track/3Ud6yq3sdjs8DgUrvyaPRF) | [Soppgirobygget](https://open.spotify.com/artist/03SBMfoHX3EUENFwFoLN5i) | [Viva La Vida](https://open.spotify.com/album/3PRgGhQorhC5iB5H2xTUVU) | 2:27 | 2024-03-16 | 2024-04-16 |

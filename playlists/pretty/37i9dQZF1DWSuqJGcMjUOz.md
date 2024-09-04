@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,389 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,16 +111,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 101 | [salades](https://open.spotify.com/track/5hbBxh7gYyVRMotreleFyp) | [Miro Chino](https://open.spotify.com/artist/7LGfZCzWqRgxqEjLMcuPlI) | [Bons Times Bad Times](https://open.spotify.com/album/3e1Ie4LcLqAXk7HWN2kDj9) | 4:01 |
 | 102 | [Revoir le monde](https://open.spotify.com/track/2EOIAHCr3irNh5NEhv0qzN) | [Michelle & Les Garçons](https://open.spotify.com/artist/4pkiINtgqRjnKwflzhlH2z) | [Revoir le monde](https://open.spotify.com/album/5CR4XEKyc3ipMnKjevgkfk) | 2:48 |
 | 103 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
-| 104 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
-| 105 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
-| 106 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
+| 104 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
+| 105 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
+| 106 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 107 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
 | 108 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 109 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
 | 110 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |
 | 111 | [Ailleurs](https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 2:51 |
-| 112 | [Du love à revendre](https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Du love à revendre](https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy) | 4:04 |
-| 113 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
+| 112 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
+| 113 | [Du love à revendre](https://open.spotify.com/track/5eTbAP2VvIXo4atQgwSwSY) | [ALICE](https://open.spotify.com/artist/0GpP2UU9Uv9fulve6gp75x) | [Du love à revendre](https://open.spotify.com/album/1zGu1T6rv7Hp931DxGEtRy) | 4:04 |
 | 114 | [Pour l'amour du geste II](https://open.spotify.com/track/0lFZYnGWlm2F06POFIQtzt) | [20Some](https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ) | [Pour l'amour du geste II](https://open.spotify.com/album/7vfGXIjImAp4BchsPLD92E) | 2:06 |
 | 115 | [Après la nuit](https://open.spotify.com/track/0BPbIaHil9VVRgKUTOrA3k) | [Marie\-Annick Lepine](https://open.spotify.com/artist/6X0xLOYFVNmRVbKM7t46X3) | [J'ai brodé mon cœur](https://open.spotify.com/album/1PEpCslLEnFiASwWXpkXrP) | 0:34 |
 | 116 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |

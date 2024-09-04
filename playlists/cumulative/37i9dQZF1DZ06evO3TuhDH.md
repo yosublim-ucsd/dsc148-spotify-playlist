@@ -2,7 +2,7 @@
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray\. The essential tracks, all in one playlist.
+> This Is Coi Leray\. Los temas esenciales, todos en una lista.
 
 104 songs - 4 hr 45 min
 
@@ -64,7 +64,7 @@
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2023-09-15 | 2024-03-05 |
 | [Lost In Time \(feat\. Coi Leray\)](https://open.spotify.com/track/3jjiozyhDFsR4Rolx5bppS) | [Wifisfuneral](https://open.spotify.com/artist/1vb1XqzyNMQ16BqbxRz5BV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [PAIN?](https://open.spotify.com/album/3thS5m3xP8MgMarJwi9IAD) | 2:39 | 2022-10-28 | 2024-07-22 |
 | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/10tfI0fBzPnoC0IcVkgOhS) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [BLOCKBUSTA](https://open.spotify.com/album/4XN6Kx1iUxtuhuAfh0zqZN) | 2:18 | 2023-12-13 | 2024-01-26 |
-| [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 | 2023-09-15 |  |
+| [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/track/1v4trJXb9eBsIewxan0TBP) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [LUXURY LIFE \(feat\. Coi Leray\)](https://open.spotify.com/album/4juZyT9LN9kiBGRlkL5w2a) | 2:18 | 2023-09-15 | 2024-09-04 |
 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 | 2023-06-24 |  |
 | [Man's World \(with James Brown\)](https://open.spotify.com/track/235C6mYJSyfN74X8s92900) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 3:16 | 2023-06-25 |  |
 | [Messy](https://open.spotify.com/track/2K1hsMf2MZ5lRN2dEDalAv) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Messy](https://open.spotify.com/album/31U14pPaowEmeGUVZAwYHP) | 2:24 | 2022-10-28 | 2023-06-05 |
@@ -77,7 +77,7 @@
 | [Not In The Store](https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS) | [Doodles](https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Not In The Store](https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ) | 3:09 | 2024-08-18 |  |
 | [Ocean Prime \(feat\. Coi Leray\)](https://open.spotify.com/track/17lzuZ03enjlAQ8RHBx3aN) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Fat Niggas Need Love Too](https://open.spotify.com/album/5OtBIO7dEq9iupw2BbIS9D) | 2:30 | 2022-10-28 |  |
 | [Okay Yeah!](https://open.spotify.com/track/2MyBXnGc9dK06pceZaNIul) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Okay Yeah!](https://open.spotify.com/album/5hOKJshWZ2bLaVg0qdnVaA) | 1:40 | 2022-10-28 | 2023-02-28 |
-| [On My Way](https://open.spotify.com/track/2tyfNq6oSghX5RBZ0taCGB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:59 | 2023-06-28 | 2024-07-24 |
+| [On My Way](https://open.spotify.com/track/2tyfNq6oSghX5RBZ0taCGB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 1:59 | 2023-06-28 |  |
 | [Oou Oou \(feat\. Coi Leray\)](https://open.spotify.com/track/64lcp0LwdQLvxxsgYaGOqd) | [Fredo Bang](https://open.spotify.com/artist/4yTmEo2clwWq2jwelvqgVv), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Murder Made Me](https://open.spotify.com/album/0KNl6GATG5LULCHTCQpSgZ) | 2:22 | 2022-10-28 | 2024-05-12 |
 | [Options \(with Coi Leray & Wale\) \- Remix](https://open.spotify.com/track/1O110m9QKRYpE14dfqHzg5) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Options \(with Coi Leray & Wale\) \[Remix\]](https://open.spotify.com/album/3aU4rpw0vnlJF8wqzAlhcI) | 3:13 | 2022-10-28 | 2023-05-02 |
 | [Overthinking \(with H.E.R.\)](https://open.spotify.com/track/5IaKG7RVFKddipzaOeide9) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 3:10 | 2022-10-28 |  |

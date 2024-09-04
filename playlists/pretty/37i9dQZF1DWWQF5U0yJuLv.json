@@ -1,6 +1,6 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 13372,
+  "num_followers": 13374,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
@@ -2277,6 +2277,22 @@
       "url": "https://open.spotify.com/track/1ihvgQmJUbKpDpebjGVS9E"
     },
     {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Midi Sans Frontieres (Avec Batterie)",
+        "url": "https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww"
+      },
+      "artists": [
+        {
+          "name": "Squarepusher",
+          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
+        }
+      ],
+      "duration_ms": 360690,
+      "name": "Midi Sans Frontieres (Avec Batterie)",
+      "url": "https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why"
+    },
+    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "People On Sunday",
@@ -2325,22 +2341,6 @@
       "url": "https://open.spotify.com/track/7quMtERAYLteumHQSrBkMr"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Midi Sans Frontieres (Avec Batterie)",
-        "url": "https://open.spotify.com/album/5lUzv71igw2aj6LQFJ1uww"
-      },
-      "artists": [
-        {
-          "name": "Squarepusher",
-          "url": "https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko"
-        }
-      ],
-      "duration_ms": 360690,
-      "name": "Midi Sans Frontieres (Avec Batterie)",
-      "url": "https://open.spotify.com/track/51otAp4ocieYr1ogeg4Why"
-    },
-    {
       "added_at": "2023-02-17 02:19:05",
       "album": {
         "name": "Body Control",
@@ -2371,22 +2371,6 @@
       "duration_ms": 151520,
       "name": "Roygbiv",
       "url": "https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy"
-    },
-    {
-      "added_at": "2023-02-17 01:53:11",
-      "album": {
-        "name": "People On Sunday",
-        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 225207,
-      "name": "People On Sunday",
-      "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2425,22 +2409,6 @@
       "url": "https://open.spotify.com/track/3vLbYgfzxz2PewnOtVbayK"
     },
     {
-      "added_at": "2023-02-17 01:10:22",
-      "album": {
-        "name": "Arcadian Daze",
-        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 196222,
-      "name": "Arcadian Daze",
-      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
-    },
-    {
       "added_at": "2023-02-17 01:53:11",
       "album": {
         "name": "Bizarster",
@@ -2455,6 +2423,22 @@
       "duration_ms": 266653,
       "name": "Officer's Club",
       "url": "https://open.spotify.com/track/58A5kjUiP3VJZedyacmHzs"
+    },
+    {
+      "added_at": "2023-02-17 01:53:11",
+      "album": {
+        "name": "People On Sunday",
+        "url": "https://open.spotify.com/album/4yq095FcGXmjYAnZXtxu7H"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 225207,
+      "name": "People On Sunday",
+      "url": "https://open.spotify.com/track/3qbJR3E3iKWssRw2nzhz2w"
     },
     {
       "added_at": "2023-02-17 01:53:11",
@@ -2487,6 +2471,22 @@
       "duration_ms": 413384,
       "name": "Mr. Frosty",
       "url": "https://open.spotify.com/track/6gG3LaEbu4O0bPfar4UpYz"
+    },
+    {
+      "added_at": "2023-02-17 01:10:22",
+      "album": {
+        "name": "Arcadian Daze",
+        "url": "https://open.spotify.com/album/4mJHhsOMF0pNejI56iArI6"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 196222,
+      "name": "Arcadian Daze",
+      "url": "https://open.spotify.com/track/4JGozkruuZZRH9I5RZYFuc"
     }
   ],
   "unique_name": "Quirktronica",

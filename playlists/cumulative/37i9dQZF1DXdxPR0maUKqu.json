@@ -347,6 +347,24 @@
     },
     {
       "album": {
+        "name": "Burning",
+        "url": "https://open.spotify.com/album/5ASAZ96MqDUBXSpa5pwCyc"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231250,
+      "name": "Burning",
+      "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
         "name": "Candle",
         "url": "https://open.spotify.com/album/1Dy7aa6yDhK1X0RdrVnHhq"
       },
@@ -1744,7 +1762,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 200156,
       "name": "Record Dogs",
       "url": "https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2"
@@ -1856,6 +1874,24 @@
       "duration_ms": 245769,
       "name": "Saiai No Yukue.",
       "url": "https://open.spotify.com/track/2hTcj0PSKDczMBV2DtwQhP"
+    },
+    {
+      "album": {
+        "name": "Scoop!",
+        "url": "https://open.spotify.com/album/0brj4UWdmeAkIGeOAkOnOB"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176013,
+      "name": "Scoop!",
+      "url": "https://open.spotify.com/track/3fccsKwQvFMV38W4zrx8TU"
     },
     {
       "album": {
@@ -2994,7 +3030,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 208413,
       "name": "\u30a2\u30a4\u30e9\u30d6",
       "url": "https://open.spotify.com/track/3U0vkx4Qy5D3IKlFq5Gfjc"
@@ -4237,6 +4273,24 @@
     },
     {
       "album": {
+        "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
+        "url": "https://open.spotify.com/album/2xsnhiiwiMnxfur6djTwqZ"
+      },
+      "artists": [
+        {
+          "name": "reGretGirl",
+          "url": "https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206813,
+      "name": "\u30ed\u30b9\u30bf\u30a4\u30e0",
+      "url": "https://open.spotify.com/track/3qsJ2inVRpojJ0LFXttqVR"
+    },
+    {
+      "album": {
         "name": "Attitude",
         "url": "https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V"
       },
@@ -4849,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+        "url": "https://open.spotify.com/album/2LJwdbcSoc4PwemsUj93xW"
+      },
+      "artists": [
+        {
+          "name": "Ryokuoushoku Shakai",
+          "url": "https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269093,
+      "name": "\u6065\u305a\u304b\u3057\u3044\u304b\u9752\u6625\u306f",
+      "url": "https://open.spotify.com/track/22eQvkARz49TB9Unclo2b0"
+    },
+    {
+      "album": {
         "name": "\u60b2\u5287\u306e\u30d2\u30ed\u30a4\u30f3",
         "url": "https://open.spotify.com/album/7KTH9kITVs2j6bSouUtCLX"
       },
@@ -4972,6 +5044,24 @@
       "duration_ms": 227728,
       "name": "\u611b\u54c0",
       "url": "https://open.spotify.com/track/1jNX9JdSdlhqkmiIPBUii4"
+    },
+    {
+      "album": {
+        "name": "\u6182\u3001\u71e6\u3005",
+        "url": "https://open.spotify.com/album/7d4ruxnSzZwJNn4txVARK4"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249100,
+      "name": "\u6182\u3001\u71e6\u3005",
+      "url": "https://open.spotify.com/track/65npSVkyhQVDDqOsbOW0Aa"
     },
     {
       "album": {
@@ -5202,7 +5292,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 202200,
       "name": "\u6b32\u671b\u306b\u6e80\u3061\u305f\u9752\u5e74\u56e3",
       "url": "https://open.spotify.com/track/6D6Pybzey0shI8U9ttRAPx"
@@ -5238,7 +5328,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 285396,
       "name": "\u6c34\u5e73\u7dda",
       "url": "https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L"
@@ -5652,7 +5742,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 270026,
       "name": "\u9752\u3068\u590f",
       "url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3"

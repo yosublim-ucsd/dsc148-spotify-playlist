@@ -1,12 +1,12 @@
 {
-  "description": "This is Danny Felix. The essential tracks, all in one playlist.",
-  "num_followers": 789,
+  "description": "This is Danny Felix. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 790,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACdBKHtTa58B3ojXCVapaeM",
+  "snapshot_id": "ZtUAAAAAAADd7GTxcnY7F4PdQF2AM0v7",
   "tracks": [
     {
       "added_at": null,
@@ -183,26 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "\u00bfCon Qui\u00e9n?",
-      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Sue\u00f1o De Un Marihuano",
         "url": "https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L"
       },
@@ -219,6 +199,26 @@
       "duration_ms": 200946,
       "name": "El Sue\u00f1o De Un Marihuano",
       "url": "https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 174946,
+      "name": "\u00bfCon Qui\u00e9n?",
+      "url": "https://open.spotify.com/track/6XiGIzAJDMML0qV0Ho4bPw"
     },
     {
       "added_at": null,
@@ -291,22 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA CARRETERA",
-        "url": "https://open.spotify.com/album/1BxkK7beRTaYflcU33pJlc"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "LA CARRETERA",
-      "url": "https://open.spotify.com/track/2mjiVUUTy0RkK9pfaSyAkB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 258339,
       "name": "Mujer Mujer (Live)",
       "url": "https://open.spotify.com/track/2L7sRBdAp6d2W9rViQzZIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LA CARRETERA",
+        "url": "https://open.spotify.com/album/1BxkK7beRTaYflcU33pJlc"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "LA CARRETERA",
+      "url": "https://open.spotify.com/track/2mjiVUUTy0RkK9pfaSyAkB"
     },
     {
       "added_at": null,
@@ -375,26 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
-        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
-      },
-      "artists": [
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 200979,
-      "name": "Qu\u00edtate La Ropa",
-      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live, Rancho Style",
         "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
       },
@@ -411,18 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO TE VAYAS",
-        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
+        "name": "Cr\u00f3nicas De Un Coraz\u00f3n Roto",
+        "url": "https://open.spotify.com/album/5rTJ6pTQUCyIxxWKlWhvaz"
       },
       "artists": [
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 198973,
-      "name": "NO TE VAYAS",
-      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
+      "duration_ms": 200979,
+      "name": "Qu\u00edtate La Ropa",
+      "url": "https://open.spotify.com/track/4ERKgBz9yny32wfRoG1kli"
     },
     {
       "added_at": null,
@@ -483,6 +467,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NO TE VAYAS",
+        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "NO TE VAYAS",
+      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mariachi Tumbado",
         "url": "https://open.spotify.com/album/335zeL9J8OJmo2tlroxaI7"
       },
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 277773,
+      "name": "Me Gusta Tener De a Dos (Live)",
+      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Y Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/0X3P4KYmCXt1EQaQe6CXIu"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 155560,
       "name": "Somos Hombres O Payasos",
       "url": "https://open.spotify.com/track/6GWuEWQvVfTDIcJqbp4Jm8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 277773,
-      "name": "Me Gusta Tener De a Dos (Live)",
-      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
     },
     {
       "added_at": null,
@@ -599,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 362306,
+      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
+      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Pase De Lavada (En Vivo)",
         "url": "https://open.spotify.com/album/7pFb4OH3XCpQoIhWOgzOE7"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 198826,
       "name": "Un Pase De Lavada (En Vivo)",
       "url": "https://open.spotify.com/track/2a9Yj20bS6Np0SF3KKnP7l"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 362306,
-      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
-      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
     },
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live, Rancho Style",
+        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 286032,
+      "name": "El Caballero (Live)",
+      "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sigo Firme de Pie",
         "url": "https://open.spotify.com/album/1vWG9z0gnPJ0YzVmciYKpT"
       },
@@ -691,38 +707,6 @@
       "duration_ms": 290621,
       "name": "Popurri de Cumbias",
       "url": "https://open.spotify.com/track/5ew0ma07k1CCzudmFsD9xJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Rancho Style",
-        "url": "https://open.spotify.com/album/7qt84cnhuRfW5dbufqY2RA"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 294742,
-      "name": "El Lunar (Live)",
-      "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Live, Cumbia Style",
-        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "La Ni\u00f1a Quiere Cerveza (Live)",
-      "url": "https://open.spotify.com/track/3RGHrqczwFxYhdY3gwm62T"
     },
     {
       "added_at": null,
@@ -751,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LOS CHISMES",
-        "url": "https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX"
+        "name": "Live, Cumbia Style",
+        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
       },
       "artists": [
         {
@@ -760,9 +744,25 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 175346,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv"
+      "duration_ms": 258500,
+      "name": "La Ni\u00f1a Quiere Cerveza (Live)",
+      "url": "https://open.spotify.com/track/3RGHrqczwFxYhdY3gwm62T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "EL ATASCADO",
+      "url": "https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "EL ATASCADO",
-      "url": "https://open.spotify.com/track/43z9qW2zWacyDL5zENZ2il"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Soy Todo Tuyo (En Vivo)",
         "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 195666,
       "name": "Soy Todo Tuyo - En Vivo",
       "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LOS CHISMES",
+        "url": "https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 175346,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mariachi Tumbado",
-        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "El Bebeto",
-          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
-        }
-      ],
-      "duration_ms": 162866,
-      "name": "D\u00e9jame Llevarte",
-      "url": "https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Con La Cochi (En Vivo)",
         "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
@@ -947,18 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Cumbia Style",
-        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
+        "name": "Mariachi Tumbado",
+        "url": "https://open.spotify.com/album/2sbXCLAfQ1cE5DBgyp3idU"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "El Bebeto",
+          "url": "https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Cumbia Del Sol (Live)",
-      "url": "https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN"
+      "duration_ms": 162866,
+      "name": "D\u00e9jame Llevarte",
+      "url": "https://open.spotify.com/track/0UJs00Ps6vf3SuI84DjufP"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
       "duration_ms": 177440,
       "name": "Impala Tumbado",
       "url": "https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "QUI\u00c9REME",
+      "url": "https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj"
     }
   ],
   "unique_name": "This Is Danny Felix",

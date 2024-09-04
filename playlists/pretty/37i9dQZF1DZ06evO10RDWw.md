@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,471 likes - 34 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,472 likes - 34 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 33 | [This Changed My Life \- Live](https://open.spotify.com/track/1JwkY0S2mpbWgpaYrFvJBh) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 1:08 |
 | 34 | [Zero \- Live](https://open.spotify.com/track/41A0T5Gx3l0QJKxbXnoMRg) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/6s0gKMBVxmaEHcuaAzreLN) | 3:35 |
 
-Snapshot ID: `ZtOugAAAAABu0WNLn4+TI1ez5lEJ0OHM`
+Snapshot ID: `ZtUAAAAAAACEMwuiKEE5RMsFNxgzQvcg`

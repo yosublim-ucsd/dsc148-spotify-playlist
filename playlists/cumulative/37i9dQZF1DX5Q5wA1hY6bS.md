@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-462 songs - 1 day 4 hr 7 min
+463 songs - 1 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -394,6 +394,7 @@
 | [Tell That Devil](https://open.spotify.com/track/4wU4XL8nX0we6MXgmFAmnh) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Tell That Devil](https://open.spotify.com/album/4SUzxP2sBgdjiogiNlbSaw) | 2:38 | 2020-03-09 | 2020-04-14 |
 | [Tennessee Song](https://open.spotify.com/track/1FEVjTvRUuDJn2HKtSrz1U) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/1ltdOb1CJGjzMW52gq2U9t) | 4:40 | 2020-03-09 | 2020-06-25 |
 | [Terlingua Girl](https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Terlingua Girl](https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF) | 4:14 | 2019-07-26 | 2021-10-16 |
+| [The Bird Song](https://open.spotify.com/track/5DEpOV9no5cf22c5Lj198g) | [Noah Floersch](https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF) | [The Bird Song](https://open.spotify.com/album/7oxKk85crBUxMYZM19LeRN) | 3:53 | 2024-09-03 |  |
 | [The Cave](https://open.spotify.com/track/3pLTOP0G0etiWUknFoRpsr) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/7GiLJfRPHARQrRJf01P2Tt) | 3:37 | 2019-06-21 | 2019-10-24 |
 | [The Chain \- From the Motion Picture Soundtrack "The Kitchen"](https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps) | [The Highwomen](https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Natalie Hemby](https://open.spotify.com/artist/32opPqLCT3sF24Aso7wTXw), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Amanda Shires](https://open.spotify.com/artist/5yN0nwLpUCaZ2gr67bndCN) | [The Chain \(From the Motion Picture Soundtrack "The Kitchen"\)](https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5) | 4:51 | 2019-09-30 |  |
 | [The Comeback Kid](https://open.spotify.com/track/0U4q2pruilw8Zpyfl1WsId) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty](https://open.spotify.com/album/6Orkr7bKMo3jeKVith8cMR) | 3:01 | 2020-03-09 | 2020-04-14 |
@@ -429,7 +430,7 @@
 | [Valapriso](https://open.spotify.com/track/3n0xIVkkvBrMLSivg3VHg1) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:07 | 2023-11-17 | 2024-04-19 |
 | [Walk Home](https://open.spotify.com/track/1FlRyhXBseDsJwFXM6T2sp) | [Leah Blevins](https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW) | [Walk Home](https://open.spotify.com/album/7MFJXxEZyPp269ejzAz4BN) | 4:13 | 2020-03-09 | 2020-04-14 |
 | [Walk Through Fire](https://open.spotify.com/track/1Z2T4ettj3iYZFVaWw3m3R) | [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Walk Through Fire](https://open.spotify.com/album/3YkPGNQ0ATRPcigTb74F5A) | 3:47 | 2020-03-09 | 2020-04-14 |
-| [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 | 2022-05-27 |  |
+| [Waste Your Time](https://open.spotify.com/track/7k1gACB0qAHrRaWjCCvlGj) | [Jackson+Sellers](https://open.spotify.com/artist/5ckJTICncOrAgKg5z5OTmk) | [Breaking Point](https://open.spotify.com/album/36KsjnvXcJLoMD1VW6JhQZ) | 3:36 | 2022-05-27 | 2024-09-04 |
 | [Way down We Go](https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [A/B](https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk) | 3:33 | 2020-11-11 | 2021-10-12 |
 | [We're All Gonna Die Someday](https://open.spotify.com/track/7FitpvEu8Ok0hVvH9rKV8v) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/3i9IhP5dZwhEileTfygCBr) | 2:09 | 2020-03-09 | 2020-04-14 |
 | [Weed Instead of Roses](https://open.spotify.com/track/4VErYdXTSbt5pGa9eZwUFA) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Like a Rose](https://open.spotify.com/album/35H5tWdoP4xZenoLJBiaGf) | 3:19 | 2020-03-09 | 2020-04-14 |

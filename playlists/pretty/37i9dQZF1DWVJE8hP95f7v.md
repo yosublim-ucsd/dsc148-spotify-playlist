@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Hyldon
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,403 likes - 74 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,410 likes - 74 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

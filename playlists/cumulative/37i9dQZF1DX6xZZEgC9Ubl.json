@@ -5729,13 +5729,17 @@
     },
     {
       "album": {
-        "name": "Ghostrider (Clean)",
+        "name": "Ghostrider",
         "url": "https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE"
       },
       "artists": [
         {
           "name": "TOKYO\u2019S REVENGE",
           "url": "https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt"
+        },
+        {
+          "name": "Watchmen Pro",
+          "url": "https://open.spotify.com/artist/1U9ynOVbcth6s4fzInM285"
         }
       ],
       "date_added": "2023-03-17",

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e 🌎 / Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,587,084 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,586,889 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CAJU](https://open.spotify.com/track/7tmvvRmUqzCRjRx9ub8K7i) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [CAJU](https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj) | 4:26 |
 | 2 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 3 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/22ikOGvq39sxkz6HhEtxG7) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
+| 3 | [Não Para](https://open.spotify.com/track/02hupCKclLtfyoQrp2xtfz) | [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Blakbone](https://open.spotify.com/artist/5pmOKG8qbFf3zvOXiRiN1L), [DJ Cash](https://open.spotify.com/artist/2k6tWKmfbOKF1I8Vyft2XZ) | [Sem Música](https://open.spotify.com/album/0l6zDsnSn1lM6FWZknjsAI) | 2:10 |
 | 4 | [São Amores](https://open.spotify.com/track/2BYQzRnQvFvLwfJSLYQjfn) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical Vol\. 2](https://open.spotify.com/album/7g1OoBZsRRCy2DA9NeASaw) | 2:55 |
 | 5 | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi \(with Pabllo Vittar & Yseult\)](https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq) | 2:41 |
 | 6 | [Não Fosse Tão Tarde \- MTG Remix](https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov), [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [Não Fosse Tão Tarde \(MTG Remix\)](https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni) | 1:57 |

@@ -1,12 +1,12 @@
 {
   "description": "Dave Blunts. Born and raised on the internet.",
-  "num_followers": 1393505,
+  "num_followers": 1393454,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZrZTdgAAAADvUvbMrXR5hx9VZLrpbEuC",
+  "snapshot_id": "Ztd2fgAAAAA8uyhuh3lk1TRY1UPQDUEn",
   "tracks": [
     {
       "added_at": "2024-08-09 05:00:00",
@@ -45,24 +45,28 @@
       "url": "https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO"
     },
     {
-      "added_at": "2024-08-04 18:16:00",
+      "added_at": "2024-09-03 20:50:06",
       "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+        "name": "GO AGAIN (feat. Superheaven)",
+        "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
       },
       "artists": [
         {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
         },
         {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         }
       ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+      "duration_ms": 214046,
+      "name": "GO AGAIN (feat. Superheaven)",
+      "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
       "added_at": "2024-08-04 18:16:00",
@@ -165,6 +169,26 @@
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
     },
     {
+      "added_at": "2024-08-04 18:16:00",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
       "added_at": "2024-08-09 17:35:12",
       "album": {
         "name": "B.U.G Antman \"On The Radar\" Freestyle",
@@ -263,22 +287,6 @@
       "duration_ms": 159837,
       "name": "I DID IT (w/ Kanii & Anycia)",
       "url": "https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq"
-    },
-    {
-      "added_at": "2024-08-05 20:13:57",
-      "album": {
-        "name": "Suburban Friends",
-        "url": "https://open.spotify.com/album/7s8H5OVRqUFB5hbYd0TJtI"
-      },
-      "artists": [
-        {
-          "name": "reefuh",
-          "url": "https://open.spotify.com/artist/6ChAy6cuN28SDLsUecubQn"
-        }
-      ],
-      "duration_ms": 124683,
-      "name": "Suburban Friends",
-      "url": "https://open.spotify.com/track/5cDCmogoYYVVNPICvDaxMj"
     },
     {
       "added_at": "2024-08-04 18:16:00",

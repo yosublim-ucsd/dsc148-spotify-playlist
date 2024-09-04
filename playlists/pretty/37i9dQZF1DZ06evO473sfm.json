@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Frontera. The essential tracks, all in one playlist.",
-  "num_followers": 410007,
+  "description": "This Is Grupo Frontera. Los temas esenciales, todos en una lista.",
+  "num_followers": 410235,
   "original_name": "This Is Grupo Frontera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAACZ/R4R1QYILWCKeg+7slNK",
+  "snapshot_id": "ZtUAAAAAAAAHIeYgHTu5vm3vgN9v4HXJ",
   "tracks": [
     {
       "added_at": null,
@@ -231,18 +231,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOR PROPIO",
-        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+        "name": "INC\u00d3MODO",
+        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
       },
       "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        },
         {
           "name": "Grupo Frontera",
           "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 172485,
-      "name": "AMOR PROPIO",
-      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+      "duration_ms": 163031,
+      "name": "AY MAM\u00c1",
+      "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
     },
     {
       "added_at": null,
@@ -267,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOR PROPIO",
+        "url": "https://open.spotify.com/album/7z3Yk4R2PWF0jkQp4ZKX4y"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 172485,
+      "name": "AMOR PROPIO",
+      "url": "https://open.spotify.com/track/01cN1DKc5HH7F9MOBBjSip"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fr\u00e1gil",
         "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
@@ -283,26 +303,6 @@
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "INC\u00d3MODO",
-        "url": "https://open.spotify.com/album/27GWSFRITD8JJcSGMgEfTN"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 163031,
-      "name": "AY MAM\u00c1",
-      "url": "https://open.spotify.com/track/2lAUq68F2bt7Kc218n9FPp"
     },
     {
       "added_at": null,

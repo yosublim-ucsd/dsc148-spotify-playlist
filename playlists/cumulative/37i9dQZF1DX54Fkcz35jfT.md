@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: w.o.d.
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: MONOEYES
 
-340 songs - 19 hr 34 min
+342 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [APEX](https://open.spotify.com/track/7CTA1vdVYwHsIwOMvOkEhE) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [APEX](https://open.spotify.com/album/14H4061l4bvaxzT8EcMVP2) | 3:47 | 2023-11-21 | 2024-06-07 |
 | [Appetite](https://open.spotify.com/track/0LPIIylUH5sd4dmV2RgoVT) | [ulma sound junction](https://open.spotify.com/artist/3h5skAdoPngCgx42LEYnse) | [INVISIBRUISE](https://open.spotify.com/album/3GdBp0u3VxTTbGPvaAF7Q4) | 5:37 | 2023-11-28 | 2023-12-20 |
 | [AREA PD](https://open.spotify.com/track/2vdO4HCh3Ya4B6U044UdCh) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa) | [AREA PD](https://open.spotify.com/album/4QC4o5bDLPMDLPk4Hs2M22) | 2:57 | 2023-07-20 | 2023-11-22 |
+| [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 | 2024-09-03 |  |
 | [BANG!!!](https://open.spotify.com/track/0GbTk360zzHOkQqyS6hvUz) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [BANG!!!](https://open.spotify.com/album/6QMQPmyX3VFs6SLhEFA7JU) | 3:39 | 2023-10-05 | 2024-07-31 |
 | [BANG!!!](https://open.spotify.com/track/68syBLj2N0IUSzItDP4cnU) | [Are Square](https://open.spotify.com/artist/57YbNDKxQBIRzIjsLSfhCY) | [We Are Square](https://open.spotify.com/album/0YzdiGzb6X9UmVeSv45HQQ) | 3:39 | 2024-01-09 | 2024-04-19 |
 | [Baseball Boys](https://open.spotify.com/track/77tcPNCVlARy4PGSIn5ZfZ) | [Sinker](https://open.spotify.com/artist/5ssYTZaF3nmIR7PLJOxJ6f) | [Gutless](https://open.spotify.com/album/3BjN8m2MWcPAWet9PIxBCE) | 3:11 | 2023-10-24 | 2023-11-01 |
@@ -51,6 +52,7 @@
 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 | 2023-10-03 |  |
 | [Bucho puccho dou?](https://open.spotify.com/track/6NMKeAdHg89Pw1OhlbNpag) | [UchikubiGokumonDoukoukai](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [Bochibochi veteran](https://open.spotify.com/album/71wWzO4mMCNotX61aWFjy1) | 3:27 | 2024-01-02 | 2024-01-24 |
 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 | 2023-07-20 |  |
+| [BULLDOZER](https://open.spotify.com/track/1CsDTErfzbeq61FESzsayD) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Eastern Margins](https://open.spotify.com/artist/28U72qhceWcm0usxPCY0ut) | [BULLDOZER](https://open.spotify.com/album/1qIdi4vFmO79C90DhUk7yK) | 2:41 | 2024-09-03 |  |
 | [BUNBUN SUIBUN](https://open.spotify.com/track/7uVVj1RvODumHsaDgcRVeD) | [GOKUMON\(UchikubiGokumonDoukoukai\)](https://open.spotify.com/artist/3EJLTLWBKED6IQdsGgOscG) | [BUNBUN SUIBUN](https://open.spotify.com/album/3hibQwCXeFryrTrvs3Gre0) | 3:11 | 2024-06-11 |  |
 | [Chin Age Negotiation](https://open.spotify.com/track/2DGJX6CxOTpXvYspATCQRg) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [Chin Age Negotiation](https://open.spotify.com/album/51Wg05oEpQ48VcwdskP7R7) | 4:02 | 2023-11-21 | 2023-12-13 |
 | [CLIMB](https://open.spotify.com/track/3FXKi2gZSiSA8sXQemm87Q) | [SHADOWS](https://open.spotify.com/artist/0VyVlaKyEJ2NFJnxxYgyt3) | [CLIMB](https://open.spotify.com/album/4fXRZmz7myClJWDsAiu4Cv) | 2:55 | 2024-07-09 | 2024-08-04 |
@@ -315,7 +317,7 @@
 | [ビキニ・スポーツ・ポンチン](https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [LUST \(Selected Edition\)](https://open.spotify.com/album/5kAkYG1awEWhHuqDP5FjZE) | 3:42 | 2023-07-20 | 2024-03-27 |
 | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/track/213nQotWKjNWnD92F6NWVx) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [メタり！！ \(feat\. Tom Morello\)](https://open.spotify.com/album/5ZuHwoWf9rMyj5F1DsexIt) | 3:28 | 2024-04-18 |  |
 | [メリーゴーランド](https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [メリーゴーランド](https://open.spotify.com/album/09yWVpo1Ff7MOqdRXxGFO2) | 3:21 | 2023-08-01 | 2023-10-04 |
-| [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-25 |  |
+| [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-25 | 2024-09-04 |
 | [ユナイテッドパンケーキ](https://open.spotify.com/track/35wXqoRa5J448Mi4EcRzWM) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [ユナイテッドパンケーキ](https://open.spotify.com/album/0ws17q0T3CgE9l4KBx4sTW) | 2:41 | 2023-12-14 | 2024-05-20 |
 | [仮面舞踏](https://open.spotify.com/track/7EkGKms2llXnCrrOYH5P6B) | [Hello Sleepwalkers](https://open.spotify.com/artist/12CmFAwzxYnVtJgnzIysvm) | [仮面舞踏](https://open.spotify.com/album/4oUtcD69j94SCf98v529vR) | 3:33 | 2024-06-23 | 2024-07-10 |
 | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/track/2rTmZHTXWo9YfIRAxbdkpG) | [マキシマム ザ ホルモン 一部のアニメテーマ専用仮設チャンネル](https://open.spotify.com/artist/7ipRKwjoASGW04QLVsDg3g) | [刃渡り2億センチ\(TV edit\)](https://open.spotify.com/album/04tV0O6qn5cXheBUTHmeKv) | 1:29 | 2023-07-20 |  |
@@ -330,7 +332,7 @@
 | [彗星](https://open.spotify.com/track/1qEnnY6gKiBXxU4D6shBgH) | [TYOSiN](https://open.spotify.com/artist/61GEYBaST9W8FSoigPRYs7) | [シネマ](https://open.spotify.com/album/4ZDYzzPwxrwf015qEeIPMO) | 3:39 | 2023-12-05 | 2023-12-07 |
 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 | 2023-07-20 | 2024-03-20 |
 | [感情is MINE](https://open.spotify.com/track/1ijdOQYxwXh7HMqQCxY7Mi) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [感情is MINE/Super Model](https://open.spotify.com/album/0hH7lHpPWSDtysnqC9FDL4) | 1:46 | 2023-12-05 | 2023-12-20 |
-| [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 | 2023-10-10 |  |
+| [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 | 2023-10-10 | 2024-09-04 |
 | [暁アイデンティティ](https://open.spotify.com/track/3qfxzGWwzlpxAQGrMPGYBG) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [暁アイデンティティ](https://open.spotify.com/album/3KB7bquyMHBddtSfqC5gou) | 1:00 | 2024-05-30 |  |
 | [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 | 2023-07-20 |  |
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-07-20 | 2024-05-08 |

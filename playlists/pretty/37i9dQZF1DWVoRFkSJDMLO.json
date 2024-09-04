@@ -1,33 +1,13 @@
 {
-  "description": "Inspired by African drums... welcome to the function. Cover: Oxlade \ud83c\uddf3\ud83c\uddec  & Fally Ipupa \ud83c\udde8\ud83c\udde9",
-  "num_followers": 60384,
+  "description": "Inspired by African drums... welcome to the function. Cover: Asake \ud83c\uddf3\ud83c\uddec ",
+  "num_followers": 60392,
   "original_name": "Crxss Current",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAD7ewX6eMXbSUzcVt/4BxwO",
+  "snapshot_id": "Ztd07QAAAABxAysS92rQvNZflyQCDvpP",
   "tracks": [
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "IFA",
-        "url": "https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Fally Ipupa",
-          "url": "https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV"
-        }
-      ],
-      "duration_ms": 218055,
-      "name": "IFA",
-      "url": "https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ"
-    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -51,18 +31,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "ENERGY IS EVERYTHING",
-        "url": "https://open.spotify.com/album/4G02arsAMsEaGFfb2e9Fyf"
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
       },
       "artists": [
         {
-          "name": "EverythingOShauN",
-          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 181600,
-      "name": "BIG WAHALA",
-      "url": "https://open.spotify.com/track/0KuKELHPCnDwNTYW0qVBLH"
+      "duration_ms": 172597,
+      "name": "Active",
+      "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -119,26 +103,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Lungu Boy",
-        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 172597,
-      "name": "Active",
-      "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Benz Key",
         "url": "https://open.spotify.com/album/6mYlymBalvB4Z7UdGvgXxZ"
       },
@@ -155,6 +119,22 @@
       "duration_ms": 135885,
       "name": "Benz Key",
       "url": "https://open.spotify.com/track/3wepHuQaZWFjev0Rd5Hsgo"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "ENERGY IS EVERYTHING",
+        "url": "https://open.spotify.com/album/4G02arsAMsEaGFfb2e9Fyf"
+      },
+      "artists": [
+        {
+          "name": "EverythingOShauN",
+          "url": "https://open.spotify.com/artist/5OTdYlGM1r6HuTFAonqq03"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "BIG WAHALA",
+      "url": "https://open.spotify.com/track/0KuKELHPCnDwNTYW0qVBLH"
     },
     {
       "added_at": "2024-08-30 04:00:00",

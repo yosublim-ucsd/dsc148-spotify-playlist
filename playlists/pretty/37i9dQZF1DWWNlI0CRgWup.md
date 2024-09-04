@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNlI0CRgWup.md) - [plain]
 
 > Découvrez les nouveautés des artistes RADAR France\. Photo : VEN1
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,306 likes - 54 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,309 likes - 54 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

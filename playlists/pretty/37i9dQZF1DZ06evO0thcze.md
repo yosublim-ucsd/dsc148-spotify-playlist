@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 
 ### [This Is Neto Peña](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0thcze)
 
-> This Is Neto Peña\. Los temas esenciales, todos en una lista.
+> This is Neto Peña\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,428 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,446 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0thcze.md) - [plain]
 | 50 | [Lo Fácil Es Difícil](https://open.spotify.com/track/4FlYNoOafUcXBOKqhtC5c1) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Lo Fácil Es Difícil](https://open.spotify.com/album/2tCrAb6z2az7bolBJuGe2V) | 2:52 |
 | 51 | [Vamos a Beber](https://open.spotify.com/track/18cFdBJf22tG8LZtJwWVNP) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Vamos a Beber](https://open.spotify.com/album/2jv5642s9t09nUDQmbVPvN) | 3:10 |
 
-Snapshot ID: `ZtOugAAAAACS7OIcXO0r0BQQWw6ZRmgD`
+Snapshot ID: `ZtUAAAAAAABqZOcgxeVCA2boipjkAqFo`

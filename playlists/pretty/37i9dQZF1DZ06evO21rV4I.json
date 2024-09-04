@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 129826,
+  "num_followers": 129888,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAB9/vc45y+liTh2JwshVT79",
+  "snapshot_id": "ZtUAAAAAAABI+d+OeTNSdxO7rr0cJXgr",
   "tracks": [
     {
       "added_at": null,
@@ -327,26 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Gets Late Here",
-        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 162912,
-      "name": "Work Me Out (with Wizkid)",
-      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joro",
         "url": "https://open.spotify.com/album/1Mj4mLvCC9P4b167keUsRh"
       },
@@ -363,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "S2",
-        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
       },
       "artists": [
         {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
         },
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 210194,
-      "name": "Ololufe (feat. Wande Coal)",
-      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
+      "duration_ms": 162912,
+      "name": "Work Me Out (with Wizkid)",
+      "url": "https://open.spotify.com/track/1SJQNDyy5OsL8kQHotWSh3"
     },
     {
       "added_at": null,
@@ -407,6 +387,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S2",
+        "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 210194,
+      "name": "Ololufe (feat. Wande Coal)",
+      "url": "https://open.spotify.com/track/0x3sDnom0itB72oEVrRE7v"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ignorance is Bliss",
         "url": "https://open.spotify.com/album/22zpCX6Nb9ppOVklalvGec"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 175346,
       "name": "Glow In The Dark",
       "url": "https://open.spotify.com/track/0kmxWw7KjktV4V1ZpbOeru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": null,

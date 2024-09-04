@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZU4i93guc1c.md) - [plain]
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: Тонка
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,332 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,343 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

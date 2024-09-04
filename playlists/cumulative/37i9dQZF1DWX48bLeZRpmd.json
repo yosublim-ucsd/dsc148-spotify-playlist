@@ -1753,6 +1753,24 @@
     },
     {
       "album": {
+        "name": "\u4e94\u7b49\u5206\u306e\u7b11\u9854",
+        "url": "https://open.spotify.com/album/5ow3moFGsOpqOUo4kW3SN3"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u91ce\u5bb6\u306e\u4e94\u3064\u5b50",
+          "url": "https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217893,
+      "name": "\u4e94\u7b49\u5206\u306e\u7b11\u9854",
+      "url": "https://open.spotify.com/track/2Fz3eFV15mtQ2bEqbFwcsb"
+    },
+    {
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300c\u4e94\u7b49\u5206\u306e\u82b1\u5ac1\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/6tnxKkyaun6S68XTDwkhV5"
       },

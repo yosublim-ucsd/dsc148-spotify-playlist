@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 
 ### [This Is Pop Smoke](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04kFZs)
 
-> This Is Pop Smoke\. Los temas esenciales, todos en una lista.
+> This is Pop Smoke\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,456 likes - 46 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,509 likes - 46 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04kFZs.md) - [plain]
 | 45 | [Tell The Vision \(feat\. Kanye West & Pusha T\)](https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 3:35 |
 | 46 | [More Time](https://open.spotify.com/track/2wzionesqIt3x5Sglb4n91) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:00 |
 
-Snapshot ID: `ZtOugAAAAADOk+EFA+LYplnxRig7LWRQ`
+Snapshot ID: `ZtUAAAAAAACglqNxDQOFAaMAPto9TkVr`

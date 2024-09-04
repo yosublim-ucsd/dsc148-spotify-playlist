@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2qiE6s.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2qiE6s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2qiE6s)
 
-### [This Is Dean Martin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
+### [This Is ディーン・マーティン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
 
-> This is Dean Martin\. The essential tracks, all in one playlist.
+> This is ディーン・マーティン。アーティストの代表曲をひとつのプレイリストに。
 
 137 songs - 6 hr 4 min
 

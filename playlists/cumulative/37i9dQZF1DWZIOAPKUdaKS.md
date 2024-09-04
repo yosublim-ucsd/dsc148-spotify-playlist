@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-780 songs - 1 day 9 hr 46 min
+781 songs - 1 day 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Carrousel](https://open.spotify.com/track/2HsHeR0683mY61u4e35Jg1) | [Léonne Michaud](https://open.spotify.com/artist/5tXCEjYUtlox3uFr67xM1k) | [Trustful Hearts](https://open.spotify.com/album/31uIH2IWFY6bH4R6ZFLrLe) | 2:59 | 2021-12-07 | 2022-07-20 |
 | [Casa luminosa](https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Casa luminosa](https://open.spotify.com/album/60nfneMr0LrmdoAaokyHEf) | 1:49 | 2022-12-21 | 2023-07-19 |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2022-10-25 |
-| [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 |  |
+| [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 | 2023-11-20 | 2024-09-04 |
 | [Catching The Light](https://open.spotify.com/track/57PkNLZYgqsIFKtzQ8R0A6) | [Salomon Isle](https://open.spotify.com/artist/48J1kuqZgr2pNtsN8BxhZu) | [Catching The Light](https://open.spotify.com/album/6dTVYbMJ85y2x9f3Qm01JD) | 1:33 | 2022-11-24 | 2023-07-19 |
 | [câlin](https://open.spotify.com/track/0Y7lBoYcGhi9D1F26xJ1Tk) | [Sabine Paulet](https://open.spotify.com/artist/5IM9wakFCctJnILFe5eL30) | [câlin](https://open.spotify.com/album/0Qy3iuL5TqXCuq87kM8Rea) | 2:24 | 2021-12-07 | 2022-10-05 |
 | [Ce n’est pas la mer à boire](https://open.spotify.com/track/2LdkHXvU7cvGzybVuIBlXZ) | [Vail Bizier](https://open.spotify.com/artist/33QYi4D3jB1OJig8upNeMR) | [Ce n’est pas la mer à boire](https://open.spotify.com/album/6KBRQMShV9Bw3ANK9PIQI6) | 2:31 | 2021-12-07 | 2022-01-01 |
@@ -608,6 +608,7 @@
 | [Silva](https://open.spotify.com/track/362bwMZCrw9NvRNoUf0LgT) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Silva](https://open.spotify.com/album/0IIn6EvRZ1OecHp2hTuRY9) | 2:10 | 2023-04-04 |  |
 | [Silverfog](https://open.spotify.com/track/6nEtaXKHUnrcbTjagD9mXC) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Silverfog](https://open.spotify.com/album/4lvsDfnDzSQ5SbV8vAGMW9) | 2:36 | 2022-01-04 | 2024-02-15 |
 | [Simple Plans](https://open.spotify.com/track/5CZDntcdKNfGLxbeCkGei5) | [Junie Oakes](https://open.spotify.com/artist/1eZcI6Nskr85kkZFjl9LQS) | [Simple Plans](https://open.spotify.com/album/0PGgBVaKuVwpZVP5bI6aiN) | 3:13 | 2023-08-01 |  |
+| [Simple Pleasures](https://open.spotify.com/track/2D66MDdbYaJyDuw53Vtju4) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Simple Pleasures](https://open.spotify.com/album/2X5SruBiLwtcWV86lflqqE) | 2:51 | 2024-09-03 |  |
 | [simplified](https://open.spotify.com/track/0eCVi3Gu6YwE6Zh0ukFFvo) | [Lyle Shattler](https://open.spotify.com/artist/6b9XvfnznB6bPK95vnhO0k) | [simplified](https://open.spotify.com/album/2DS1bD4i7ywzL5vlVSFhuS) | 2:32 | 2021-12-07 | 2022-10-25 |
 | [Sincerely](https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ) | [Deborah Fulmen](https://open.spotify.com/artist/3u1wiRKUBM08aAzGxjNwZb) | [Sincerely](https://open.spotify.com/album/23rm68zt8EUysobz9LTR9B) | 3:15 | 2022-04-20 |  |
 | [Sinkadus](https://open.spotify.com/track/0dLptfXupd4zsgppQgrvVO) | [Alfred Mizzi](https://open.spotify.com/artist/2Uf5jsbEf7DrgnCTRSJDXp) | [Sinkadus](https://open.spotify.com/album/54JglKkD4WG2OzwhmXUv9M) | 2:32 | 2021-12-07 | 2022-10-14 |

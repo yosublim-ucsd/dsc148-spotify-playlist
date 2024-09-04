@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. The essential tracks, all in one playlist.
+> This Is Barry White\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,952 likes - 50 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,967 likes - 50 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 18 | [Don't Make Me Wait Too Long](https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 3:19 |
 | 19 | [More Than Anything, You're My Everything](https://open.spotify.com/track/3RFjwRwVRpo0Kv1NBsDUiG) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 3:04 |
 | 20 | [Lady, Sweet Lady](https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Sheet Music](https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2) | 5:40 |
-| 21 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
-| 22 | [It's Ecstasy When You Lay Down Next To Me](https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 6:57 |
+| 21 | [It's Ecstasy When You Lay Down Next To Me](https://open.spotify.com/track/3QXNBUYJX2aekx6mHQ14GZ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 6:57 |
+| 22 | [September When I First Met You \- Single Version](https://open.spotify.com/track/22nqc8OGp6fhEQlTdSs476) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Love's Theme: The Best Of The 20th Century Records Singles](https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3) | 3:59 |
 | 23 | [Just Not Enough](https://open.spotify.com/track/6ZOMSx70yBrS8NI74afiDH) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 4:21 |
 | 24 | [Honey Please, Can't Ya See](https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White's Greatest Hits](https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0) | 3:14 |
 | 25 | [I Won't Settle For Less Than The Best \(For You Baby\)](https://open.spotify.com/track/10rAFshE2jcncyB0a6f618) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Beware!](https://open.spotify.com/album/0QZc5pm1bH0kLFCnYoajHw) | 4:21 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 35 | [Volare](https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Put Me In Your Mix](https://open.spotify.com/album/6ZB7sec84vKJ6mBXocdfwL) | 5:45 |
 | 36 | [I Love You More Than Anything \(In This World Girl\)](https://open.spotify.com/track/4Ltz2LvHKcegbx1D6PpdVI) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 4:59 |
 | 37 | [Which Way is Up](https://open.spotify.com/track/0OM2jBDnZ8tkGh3GYTw2KE) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 5:42 |
-| 38 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
-| 39 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
+| 38 | [You Turned My Whole World Around](https://open.spotify.com/track/1CHYcb0rNFrqf4dWsVmI82) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White Sings For Someone You Love](https://open.spotify.com/album/65orbyfwR353KTYqz3seIu) | 7:47 |
+| 39 | [You're The First, The Last, My Everything \- Live](https://open.spotify.com/track/62OKQRxgusW4mvvUwLjGye) | [Peter Sterling Radcliffe](https://open.spotify.com/artist/54NMfgOhekddlihvy6VRdg), [Tony Sepe](https://open.spotify.com/artist/5OQcWjJISTnIWZT7iMGfjL), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU) | [Pavarotti \- The Greatest Hits](https://open.spotify.com/album/2P3b56yTzSqL3HLM25qUq4) | 4:27 |
 | 40 | [Anything You Want Me To](https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [The Complete 20th Century Records Singles \(1973\-1979\)](https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um) | 5:44 |
 | 41 | [Dark And Lovely \(You Over There\)](https://open.spotify.com/track/2v3lZgW5CV4zQ5PEsyIl5I) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [The Ultimate Collection](https://open.spotify.com/album/7daqbcrvuJHpS2Xm3IHaxL) | 4:54 |
 | 42 | [Staying Power](https://open.spotify.com/track/1rjXVxlsnbXDGhWX8ZW3ER) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Staying Power](https://open.spotify.com/album/4N5IZ7S83zs2UQGxtzkDdS) | 6:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZPPgY.md) - [plain]
 | 49 | [Put Me In Your Mix \- Single Version](https://open.spotify.com/track/1od7sGul0Kh8Wa6XG7aRYX) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Gold](https://open.spotify.com/album/3dKHHUkN4yHz5EsavvhcOa) | 4:30 |
 | 50 | [I Can't Believe You Love Me](https://open.spotify.com/track/3Yqv3fzCx7M5Hs4kKtX7aS) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Can't Get Enough](https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG) | 10:21 |
 
-Snapshot ID: `ZtOugAAAAADDE/KsONKPWdQvUeD/CHn7`
+Snapshot ID: `ZtUAAAAAAADyjOmSbgjeprWdAArHIec7`

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 
 ### [This Is Harold Budd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21YUWA)
 
-> This is Harold Budd\. Todos os maiores hits em uma só playlist.
+> This is Harold Budd\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 5,227 likes - 48 songs - 3 hr 7 min
 
@@ -37,11 +37,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 27 | [Little Heart \- 2013 Remaster](https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 7:38 |
 | 28 | [Don't Go Where I Can't Find You](https://open.spotify.com/track/6RtdBwIiYavQENjkE6JCba) | [Eraldo Bernocchi](https://open.spotify.com/artist/7uXzqanGH5YKBVLs3cXHk5), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Winter Garden](https://open.spotify.com/album/79CiLRhOgW6bYfeB38SrQH) | 4:53 |
 | 29 | [Momentary Architecture](https://open.spotify.com/track/7FvfIOd3vfpsi67OvV34bG) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 1:40 |
-| 30 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
+| 30 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
 | 31 | [Porcelain Ginger \- 2013 Remaster](https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 1:58 |
 | 32 | [Jane 2](https://open.spotify.com/track/5ninNGGy8iR9tv3USENLKb) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Jane 1\-11](https://open.spotify.com/album/1WWcacsiLhViXL44OCdtft) | 4:56 |
 | 33 | [Sunlit Silhouette](https://open.spotify.com/track/4QkV3lZCbf9SoQXbYjefMR) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 3:15 |
-| 34 | [The Kiss](https://open.spotify.com/track/56jrNmzTvsGi7geeFTaW11) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 3:17 |
+| 34 | [Afar](https://open.spotify.com/track/7ix5BtN2K7vsTpFWDqN8Bk) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Budd Box \(Spotify Only\)](https://open.spotify.com/album/2jXPqbAqkOkTixXDmqtJNP) | 2:34 |
 | 35 | [Arabesque 3 \- 2013 Remaster](https://open.spotify.com/track/7AsLKcHPrUZe60x8o47YeQ) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Avalon Sutra \(2013 Remaster\)](https://open.spotify.com/album/74U382QRUWf0vA9PaBnZW6) | 2:39 |
 | 36 | [Bismillahi 'Rrahmani 'Rrahim](https://open.spotify.com/track/5oTnjavcEz8hENl2nlYmdx) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [The Pavilion Of Dreams](https://open.spotify.com/album/0hWjBUtA4eoFsyh6lygVRN) | 18:27 |
 | 37 | [A Delicate Romance](https://open.spotify.com/track/481dttcKW8GzhMJ56EDdyP) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/7BEfxVzXS9j2WEvuOlkxgO) | 7:14 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21YUWA.md) - [plain]
 | 47 | [Ice Floes In Eden](https://open.spotify.com/track/5C0DGc7M86XqwMRPeusb8r) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Lovely Thunder](https://open.spotify.com/album/1MUMyzhjWpYnTKjmpTF1YA) | 3:28 |
 | 48 | [The Belles of Saint Andrew](https://open.spotify.com/track/7AtA5R9G0HAkleSk9Z0kiU) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Bordeaux](https://open.spotify.com/album/1O5oSyE5rPE7heWZYjWy5c) | 3:42 |
 
-Snapshot ID: `ZtOugAAAAADeVt6s1n2z6xzNzvh2NohB`
+Snapshot ID: `ZtUAAAAAAACOsPnS8SCUvr/SxZMUL97y`

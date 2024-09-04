@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "This is Danny Felix. The essential tracks, all in one playlist.",
+  "description": "This is Danny Felix. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is Danny Felix",
   "tracks": [
     {
@@ -278,7 +278,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 269000,
       "name": "Cumbia Del Sol (Live)",
       "url": "https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-12",
+      "date_removed": null,
       "duration_ms": 286032,
       "name": "El Caballero (Live)",
       "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
@@ -536,7 +536,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-04",
       "duration_ms": 294742,
       "name": "El Lunar (Live)",
       "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
@@ -1334,6 +1334,24 @@
       "duration_ms": 191466,
       "name": "PRC - En Vivo",
       "url": "https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj"
+    },
+    {
+      "album": {
+        "name": "Y.T.L.S.V.",
+        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223653,
+      "name": "QUI\u00c9REME",
+      "url": "https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj"
     },
     {
       "album": {

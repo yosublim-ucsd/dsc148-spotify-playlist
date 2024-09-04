@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-92 songs - 4 hr 53 min
+93 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2023-03-18 |  |
 | [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
+| [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 | 2024-09-03 |  |
 | [Badmashi](https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Badmashi](https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM) | 3:19 | 2023-03-18 |  |
 | [Be Aware](https://open.spotify.com/track/1QsojV2MruriPEFHh249kF) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/59APTUJ5kzD9oqOGAaHlSR) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Be Aware \(feat\. Kaater\)](https://open.spotify.com/track/63y0bDChOJ5rSd7PsxvTun) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:08 | 2023-03-18 |  |
@@ -53,7 +54,7 @@
 | [Laare](https://open.spotify.com/track/4L6h1muuapCakyu81caEVN) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat) | [Laare](https://open.spotify.com/album/0o667wDHfJ9lPRl3T1q7iw) | 2:38 | 2023-03-18 | 2023-04-20 |
 | [Lala Lala](https://open.spotify.com/track/02FQ4MmF9Q7us88QgTSQnJ) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3) | [Lala Lala](https://open.spotify.com/album/2i03NF2qSpfLiH5zeUEIW4) | 3:12 | 2023-12-11 | 2024-04-24 |
 | [License](https://open.spotify.com/track/0sZMzHirZ6Iw4Zpg7K67nX) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Rav Dhaliwal](https://open.spotify.com/artist/3quojFCZjKk1j5zIv0HX2P) | [License](https://open.spotify.com/album/0yDxXtnTfsajw6L4idWi4Q) | 2:34 | 2023-09-15 |  |
-| [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 |  |
+| [Life](https://open.spotify.com/track/2W1iYW6m4hW9EOApubE9Tf) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Life](https://open.spotify.com/album/6ezeADqN6YlvTaG5w5Cmv5) | 3:18 | 2023-03-18 | 2024-09-04 |
 | [Like Me](https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [5 Diamonds](https://open.spotify.com/album/3nULLU4gQASy6xcbCnoTrh) | 2:58 | 2024-01-30 |  |
 | [Main Bandey](https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Main Bandey](https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV) | 2:17 | 2024-04-24 | 2024-05-10 |
 | [Main Tenu](https://open.spotify.com/track/6my9ChoBE2Ozs6oVerPzbX) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Main Tenu](https://open.spotify.com/album/4NlsZkgeJsvykk2EhCv3ko) | 2:31 | 2023-10-03 |  |

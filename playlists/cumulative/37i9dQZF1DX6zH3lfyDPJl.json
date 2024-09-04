@@ -517,6 +517,24 @@
     },
     {
       "album": {
+        "name": "Echo",
+        "url": "https://open.spotify.com/album/5NUvmOyxJs12PaJQPXdpin"
+      },
+      "artists": [
+        {
+          "name": "Shin Seol Hee",
+          "url": "https://open.spotify.com/artist/2IJDF3Fg5VCCynlwWd467a"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195250,
+      "name": "Echo",
+      "url": "https://open.spotify.com/track/6sAbC7IL9cUG4x1S1CORn4"
+    },
+    {
+      "album": {
         "name": "COLOR PAPER HOTEL",
         "url": "https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ"
       },

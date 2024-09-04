@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: raissa anggiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 772,803 likes - 82 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,901 likes - 82 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

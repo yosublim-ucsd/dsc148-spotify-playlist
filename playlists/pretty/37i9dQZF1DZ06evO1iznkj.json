@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 153352,
+  "num_followers": 153396,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAA90/+OWBh4aCxatLC3IsoM",
+  "snapshot_id": "ZtUAAAAAAAAY/qHtGSyaO55YSO5pq8HO",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Style Rare (with Gunna)",
-        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
-      },
-      "artists": [
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Style Rare (with Gunna)",
-      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 197760,
       "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Style Rare (with Gunna)",
+        "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208800,
+      "name": "Style Rare (with Gunna)",
+      "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
     },
     {
       "added_at": null,
@@ -531,6 +531,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "It Is What It Is (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -567,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "turned your back",
+      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Certified Hitmaker",
         "url": "https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp"
       },
@@ -583,22 +619,6 @@
       "duration_ms": 123560,
       "name": "Stuck In A Dream (feat. Gunna)",
       "url": "https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 243133,
-      "name": "turned your back",
-      "url": "https://open.spotify.com/track/7Aq3pnhSzI8FnHt7T6TPsX"
     },
     {
       "added_at": null,
@@ -631,26 +651,6 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "It Is What It Is (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
     },
     {
       "added_at": null,
@@ -743,26 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "All The Money (with Gunna) [Bonus]",
-      "url": "https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
         "url": "https://open.spotify.com/album/6FJQeinfF6MQckQ0HbTRxe"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 224042,
       "name": "His & Hers (feat. Don Toliver & Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5LKIZ4UTKebSE5VFbLSQnr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "All The Money (with Gunna) [Bonus]",
+      "url": "https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0"
     },
     {
       "added_at": null,
@@ -859,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "WUNNA - Deluxe",
+        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "200 FOR LUNCH",
+      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1:59 (feat. Gunna)",
         "url": "https://open.spotify.com/album/4QTPH0500WkMREPzyNYp9d"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 192089,
       "name": "1:59 (feat. Gunna)",
       "url": "https://open.spotify.com/track/4nncvBrXyuKNg5jfBnJ1dR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 131493,
-      "name": "ca$h $hit",
-      "url": "https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM"
     },
     {
       "added_at": null,
@@ -931,8 +931,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WUNNA - Deluxe",
-        "url": "https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq"
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
       },
       "artists": [
         {
@@ -940,9 +940,9 @@
           "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
         }
       ],
-      "duration_ms": 149106,
-      "name": "200 FOR LUNCH",
-      "url": "https://open.spotify.com/track/6SpBKyfn9BnvnoQbUGPlYM"
+      "duration_ms": 131493,
+      "name": "ca$h $hit",
+      "url": "https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM"
     },
     {
       "added_at": null,
@@ -995,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "bread & butter",
-      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Twelve Carat Toothache",
         "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 169824,
       "name": "I Cannot Be (A Sadder Song) (with Gunna)",
       "url": "https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "bread & butter",
+      "url": "https://open.spotify.com/track/7IqsNN0EMckx9YqddgXlwg"
     }
   ],
   "unique_name": "This Is Gunna",

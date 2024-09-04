@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 
 ### [This Is Yoss Bones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0sej1C)
 
-> This Is Yoss Bones\. Los temas esenciales, todos en una lista.
+> This is Yoss Bones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,353 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,370 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 38 | [El](https://open.spotify.com/track/4RAjJ3UJiBoyPQl9RjZdRU) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El](https://open.spotify.com/album/30ctRql5lTP2yO64dd6T76) | 3:24 |
 | 39 | [Andamos Al Cien](https://open.spotify.com/track/2Xfm185fiOWuV5VtTwE6ys) | [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Andamos Al Cien](https://open.spotify.com/album/7BetyM1rTuAhNe73AmlgAF) | 3:12 |
 | 40 | [De Roll](https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Pato Machete](https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2) | [De Roll](https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg) | 3:46 |
-| 41 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
-| 42 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
+| 41 | [De Ti Me Olvidé](https://open.spotify.com/track/33s8LK4Cof43AIDnfhVJUb) | [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [De Ti Me Olvidé](https://open.spotify.com/album/4eqsTSv4Ftfdi4fC453fRp) | 3:41 |
+| 42 | [Lo Que Quedó](https://open.spotify.com/track/30Sn828wzCRX4ateJdo8hS) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Lo Que Quedó](https://open.spotify.com/album/4h69km8MmjfhpDEBXRnxhc) | 3:27 |
 | 43 | [PILLS](https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [PILLS](https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf) | 3:07 |
 | 44 | [LIKE A BULL](https://open.spotify.com/track/2nOY7yr4kFvNJl1mL0bwgc) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Love Dealer](https://open.spotify.com/album/04tuh57qYcWnXDzvjxBLHp) | 3:02 |
 | 45 | [Alto Calibre](https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Alto Calibre](https://open.spotify.com/album/57GLdwafwTftYL1TqryiTu) | 2:51 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0sej1C.md) - [plain]
 | 49 | [Susurros](https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Faruz Fit, Vol\. 2](https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ) | 4:43 |
 | 50 | [Nagasaki](https://open.spotify.com/track/2l630OkikzDGx20oh3lRsK) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Nagasaki](https://open.spotify.com/album/0JOSqpYff2eSTjPqr8drus) | 4:05 |
 
-Snapshot ID: `ZtOugAAAAACXCEHkO7yi0qUQG1zWfbvK`
+Snapshot ID: `ZtUAAAAAAABejMTiPJIFgZHp1mTCn6B3`

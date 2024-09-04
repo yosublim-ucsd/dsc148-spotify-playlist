@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 
 ### [This Is The Cure](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4fzHck)
 
-> This is The Cure\. Todos os maiores hits em uma só playlist.
+> This is The Cure\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,255 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,364 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 26 | [Disintegration \- Remastered](https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 8:19 |
 | 27 | [Push](https://open.spotify.com/track/23RzgkADmUXaOm9YIgD8jm) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head On The Door](https://open.spotify.com/album/7zJzNs8eVgbkVVSQSwKRtx) | 4:31 |
 | 28 | [10:15 Saturday Night](https://open.spotify.com/track/2CdxmZfz23dIjK7iuxvvMO) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Three Imaginary Boys](https://open.spotify.com/album/0jYmAPQezr1aG75KerJCdG) | 3:42 |
-| 29 | [Boys Don't Cry \(Bestival Live 2011\)](https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bestival Live 2011](https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI) | 3:05 |
-| 30 | [Killing An Arab](https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Staring At The Sea \- The Singles](https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB) | 2:21 |
+| 29 | [Killing An Arab](https://open.spotify.com/track/1LpZAbTRcP46SqdJXCPIl9) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Staring At The Sea \- The Singles](https://open.spotify.com/album/5JLKZcOSNXcm6xaX1vI7nB) | 2:21 |
+| 30 | [Boys Don't Cry \(Bestival Live 2011\)](https://open.spotify.com/track/1YrhoxYtegw7IDv7JHJTHl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bestival Live 2011](https://open.spotify.com/album/4BIu0GCMComOTwBzuS6PCI) | 3:05 |
 | 31 | [Charlotte Sometimes \- Single Version](https://open.spotify.com/track/1rs7lqaXBlcw1N9wuHiQyJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Faith \(Deluxe Edition\)](https://open.spotify.com/album/0BGTV9xi9NFdUjA3erGs1T) | 4:13 |
 | 32 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 |
 | 33 | [From The Edge Of The Deep Green Sea](https://open.spotify.com/track/5Pmpq3bZzrjT9HuYbvMviP) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 7:40 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 40 | [Catch](https://open.spotify.com/track/2aJ6PwdTLJRhOMX7KIySvv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 2:45 |
 | 41 | [To Wish Impossible Things](https://open.spotify.com/track/69MyxFlOm2ennzuE2FqeM1) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Wish](https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1) | 4:39 |
 | 42 | [Last Dance \- Remastered](https://open.spotify.com/track/5wogpGnbWL89uAlRviQWJL) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 4:43 |
-| 43 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
-| 44 | [Maybe Someday](https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:06 |
+| 43 | [Maybe Someday](https://open.spotify.com/track/6x2f8jgLWU8IrBSuNdvoWj) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Bloodflowers](https://open.spotify.com/album/5HJmojoRWpw0GYiRjdLT6B) | 5:06 |
+| 44 | [One Hundred Years](https://open.spotify.com/track/5D9ArD78F5e39isS8BNCfl) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/0qJ30kPyjNkKjtV5h0JpHm) | 6:39 |
 | 45 | [The Caterpillar](https://open.spotify.com/track/6rH2JRSsG4PInKoUOcshrX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Top \(Deluxe Edition\)](https://open.spotify.com/album/5OniNO040dM4H5kAlet3XV) | 3:41 |
 | 46 | [Prayers For Rain \- Remastered](https://open.spotify.com/track/7mJ8LgmL8VX9jJGgqbbzFv) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Remastered\)](https://open.spotify.com/album/6DZNOsLXIU2zOQfQDwDpIS) | 6:07 |
 | 47 | [Underneath The Stars](https://open.spotify.com/track/0PKVjYlKw7z3IvKAoxrYTR) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [4:13 Dream](https://open.spotify.com/album/0gd0t1iQ3WReB8TNQvALTV) | 6:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4fzHck.md) - [plain]
 | 49 | [Six Different Ways \- 2006 Remaster](https://open.spotify.com/track/24W113iYyDEa2d6lqfgikX) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [The Head on the Door \(Deluxed Edition\)](https://open.spotify.com/album/4Uq47onfCEj5en94jpHovk) | 3:18 |
 | 50 | [Cold \- 2005 Remaster](https://open.spotify.com/track/3XerBkjkILRc48huk5NkLG) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Pornography](https://open.spotify.com/album/33TDfmEXufojT6jxgb3BTK) | 4:26 |
 
-Snapshot ID: `ZtOugAAAAACHJ/rXKF+QYeusjs7uEipg`
+Snapshot ID: `ZtUAAAAAAABZ6KcfkP+wrAvdCOayrHho`

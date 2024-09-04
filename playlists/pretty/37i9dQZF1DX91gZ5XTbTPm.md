@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Polo G
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,377 likes - 55 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,410 likes - 55 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

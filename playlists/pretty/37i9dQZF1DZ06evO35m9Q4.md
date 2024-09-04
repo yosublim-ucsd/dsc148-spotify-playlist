@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 
 ### [This Is Stevie Ray Vaughan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4)
 
-> This is Stevie Ray Vaughan\. Todos os maiores hits em uma só playlist.
+> This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,494 likes - 49 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,541 likes - 49 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO35m9Q4.md) - [plain]
 | 44 | [Come On, Pt\. III](https://open.spotify.com/track/0t4Ef0Z7BGIRtwoK8S8299) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [The Real Deal: Greatest Hits Volume 1](https://open.spotify.com/album/1cBgyEhogUvaKVgsdczgHm) | 4:30 |
 | 45 | [Live Another Day \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 3:49 |
 | 46 | [Slip Slidin' Slim](https://open.spotify.com/track/67LxQFCjFefEJ1cqq1Y5br) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Archives](https://open.spotify.com/album/5k4yS9NqQQnvPqe5IBJGSH) | 1:41 |
-| 47 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
-| 48 | [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 |
+| 47 | [Ask Me No Questions](https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session](https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb) | 5:02 |
+| 48 | [On The Run \- Live](https://open.spotify.com/track/0gmMJ7GXPFTZv4kLMbHGyn) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [Solos, Sessions & Encores](https://open.spotify.com/album/34moluVsUish03HIUdzSze) | 5:33 |
 | 49 | [Slide Thing \- Live at Steamboat 1874, Austin, TX \- April 1980](https://open.spotify.com/track/78x9FWB5S033aa4E67D9Wg) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In The Beginning](https://open.spotify.com/album/5judWRJxX0B8BCohZDm69R) | 2:55 |
 
-Snapshot ID: `ZtOugAAAAABauWcYiVV8ykznPA6G5bDT`
+Snapshot ID: `ZtUAAAAAAAAhr8YpV2HjfRGP9szdkvDy`

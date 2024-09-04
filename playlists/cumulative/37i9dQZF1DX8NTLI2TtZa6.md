@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-523 songs - 22 hr 24 min
+524 songs - 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Chasing lights](https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm) | [Giles Garnier](https://open.spotify.com/artist/7kROE0Pp2o1NqMVIWLX3Vg) | [Chasing lights](https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX) | 2:14 | 2023-03-06 |  |
 | [Cherish](https://open.spotify.com/track/0bIWmSPMbqvbUcU8c8JLwv) | [Reese Willis](https://open.spotify.com/artist/4iw6QArXcxuKkS1v2mo47u) | [Cherish](https://open.spotify.com/album/48QipqQv7e35UMnsYWmMuJ) | 2:02 | 2021-12-07 | 2022-04-15 |
 | [Children's Waltz](https://open.spotify.com/track/4rw3ixKqjEzKUajMD0z3mA) | [Serge Dusault](https://open.spotify.com/artist/2RV3XBg4xGArDfTzQ1apdz) | [Children's Waltz](https://open.spotify.com/album/6jtiXFHQFQt298cHCywft9) | 2:13 | 2022-03-01 | 2023-10-05 |
+| [Chimera](https://open.spotify.com/track/05WnKb5zsyWOQksKqU7LQ9) | [Joshua Ware](https://open.spotify.com/artist/6FMxrKi6qjCJnoY4rMNIHT) | [Chimera](https://open.spotify.com/album/20xZuGYZiJoz7BxlbkBzOC) | 2:15 | 2024-09-03 |  |
 | [Circles](https://open.spotify.com/track/7pDMaPfKcCiBovr98OYb5d) | [Benjamin Waldmann](https://open.spotify.com/artist/2UZuVJs5LmvsaV4Y5eIRbc) | [Circles](https://open.spotify.com/album/4j2OfohQh61MJkGLNW2HSG) | 2:54 | 2021-12-07 | 2022-06-08 |
 | [Circles](https://open.spotify.com/track/7r8OKeD5bIacpidpuEx1SG) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Circles](https://open.spotify.com/album/5jVNACEwpRHyJbOCDrbCc4) | 2:58 | 2022-04-01 | 2023-10-05 |
 | [Come again](https://open.spotify.com/track/2tJuFH2XmBlwP64I2uEUiJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Come again](https://open.spotify.com/album/2bb3nVCQzTG8QuSNU3sRAS) | 2:21 | 2023-06-20 | 2024-03-20 |

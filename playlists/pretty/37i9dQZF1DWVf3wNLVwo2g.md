@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 
 > Powerful female voices, like you've never heard before\.  Cover: Miley Cyrus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,430 likes - 195 songs - 11 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,455 likes - 195 songs - 11 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -197,9 +197,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf3wNLVwo2g.md) - [plain]
 | 187 | [Rockstar \- Recorded At Abbey Road Studios, London](https://open.spotify.com/track/5D6Z7Iof3v5QRbaW2LquoN) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Spotify Singles](https://open.spotify.com/album/2bOO36ZGSYDuXj27cdnxKE) | 3:57 |
 | 188 | [Loyal to Me \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/6Y1WpXQywt8Fg7MfahslyC) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Spotify Singles](https://open.spotify.com/album/0AsNH8uuIf5hLbreW4zQSc) | 3:27 |
 | 189 | [Stay Right Here \- Spotify Singles](https://open.spotify.com/track/0C8b1WyFkUFyHlztkWAGwq) | [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Spotify Singles](https://open.spotify.com/album/2rIrWq7n4FrnDwEyIUlBpJ) | 3:33 |
-| 190 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
+| 190 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 |
 | 191 | [LOVE IN THE DARK \- Recorded at East West Studios, LA](https://open.spotify.com/track/1qBT1qIyGu3jFTjF6dEqIb) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Spotify Singles](https://open.spotify.com/album/2ceL7dMRViacYhqhPGQRLM) | 3:34 |
-| 192 | [Kele Kele](https://open.spotify.com/track/2iJVEBnGX2QW41fUIyyhLe) | [Ria Sean](https://open.spotify.com/artist/41fhfR098MSw8CTCFcr1od) | [Kele Kele \- Spotify Singles](https://open.spotify.com/album/6uTuS5g5Vhq3IqrT6VJj9c) | 2:10 |
+| 192 | [Liar Liar \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/54whmtPE736Lh8t0cjrihv) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u) | [Spotify Singles](https://open.spotify.com/album/6zKsXG7Q3k2HFLHY4i3tGU) | 4:17 |
 | 193 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 | 194 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
 | 195 | [Remind Me \- Recorded at East West Studios](https://open.spotify.com/track/0kEsPkTywuo1sMXdTj0bce) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Spotify Singles](https://open.spotify.com/album/15vSZCbdEfZAXWIuwVvhca) | 4:56 |

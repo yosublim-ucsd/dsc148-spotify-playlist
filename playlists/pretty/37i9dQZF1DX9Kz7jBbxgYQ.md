@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > Home to the best of South Asian Indie scene\. Cover: Dhee
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,512 likes - 86 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,547 likes - 86 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

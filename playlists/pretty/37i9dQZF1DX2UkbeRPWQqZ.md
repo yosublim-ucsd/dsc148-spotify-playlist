@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 
 > Sweet lullabies on guitar for little dreamers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,915 likes - 106 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,917 likes - 106 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UkbeRPWQqZ.md) - [plain]
 | 105 | [Stjernefall](https://open.spotify.com/track/72Brqr3kj4zbxnmA31fW78) | [William Riddervold](https://open.spotify.com/artist/6bXFZUyz2nx7UnywL13lR7) | [Stjernefall](https://open.spotify.com/album/6JCE5LPLTWhPfwJsq27RAM) | 1:28 |
 | 106 | [Humpty Dumpty](https://open.spotify.com/track/7uOmSCgwje1TQsMKDHx8ci) | [Micci Rogers](https://open.spotify.com/artist/5ne1I2oi3j1HJTWK2Luk9z) | [Lavender's Blue](https://open.spotify.com/album/7iNFN6AA89RPAG0Vrvwqkh) | 2:16 |
 
-Snapshot ID: `ZtG6WQAAAAAYMpF4DBDstu/o0Ozhd6g7`
+Snapshot ID: `Zte03AAAAADGmL4EcN/FiGKy6mn4H+rR`

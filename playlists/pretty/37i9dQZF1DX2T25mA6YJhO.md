@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Karavana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,760 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,774 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 97 | [Fin de Semana](https://open.spotify.com/track/5yxMN1xhn6zH2HCjOEecGH) | [Cora Yako](https://open.spotify.com/artist/09un4iSHi0vAwjGBwvWiDm) | [Fin de Semana](https://open.spotify.com/album/7eqUFhcdJMROi1LdAq73gK) | 3:47 |
 | 98 | [Los Muertos](https://open.spotify.com/track/0DofQePTXespQrIKQfLXuc) | [Sugarcrush](https://open.spotify.com/artist/42qSwWCF0ZJBVKtpuG1XlJ) | [Bohemian Rhapsody 2](https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e) | 2:50 |
 | 99 | [La Bachata](https://open.spotify.com/track/2EUqLIfO9fhqb6RCWNIj8B) | [Santa Engracia](https://open.spotify.com/artist/3T9NEUBx3Z4jiM3s65DKdF) | [La Bachata](https://open.spotify.com/album/3eSIDuyQP5A5qAXMxlzwMt) | 3:01 |
-| 100 | [Un viento de amnesia](https://open.spotify.com/track/4GWcRyNfjTawfSSNF1nBOd) | [Vermú](https://open.spotify.com/artist/7cXnpdXUUN67Vr3niD2dAi) | [Un viento de amnesia](https://open.spotify.com/album/79e0Cbkt1dWXUWEYoSKZTN) | 3:31 |
+| 100 | [Deconstrucción](https://open.spotify.com/track/3Idd0RLLacT6ZRcM4Aj0KP) | [Havalina](https://open.spotify.com/artist/2nQcWlLWvXPTX34Ysqr2A2) | [Deconstrucción](https://open.spotify.com/album/5Zpuijy5w6Pxbe3IrCn0wU) | 4:40 |
 
 Snapshot ID: `ZtDvYAAAAADWcNv5y7VIjSEdtJBvjZ1F`

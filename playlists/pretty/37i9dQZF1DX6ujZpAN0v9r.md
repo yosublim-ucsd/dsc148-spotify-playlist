@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 
 > The essential beautiful noise: sweet and sour fuzz to warm your heart\. Slowdive on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 623,114 likes - 152 songs - 11 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 623,275 likes - 152 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,22 +91,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ujZpAN0v9r.md) - [plain]
 | 81 | [Sugar for the Pill](https://open.spotify.com/track/0GN3fXUdsTHeUg50xfDS0V) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Slowdive](https://open.spotify.com/album/4nSWX5A4xVomzrOEGDKLQ6) | 4:30 |
 | 82 | [Cherry\-coloured Funk](https://open.spotify.com/track/6sVQNUvcVFTXvlk3ec0ngd) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 3:12 |
 | 83 | [Under the Sun](https://open.spotify.com/track/3yR8cAdli5Ohn3dUlS1PgV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:46 |
-| 84 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
-| 85 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
-| 86 | [Dissonance](https://open.spotify.com/track/4u7egDsjL6R5gl5YzFl6Xk) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Everything and Nothing](https://open.spotify.com/album/0hdyt15dWQRZf9Bx2jEd7T) | 3:16 |
+| 84 | [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 |
+| 85 | [What Lies Beneath](https://open.spotify.com/track/6HwfqB8ajWFaHyQGxO0Z9g) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Departure](https://open.spotify.com/album/6PlC1gFl7hLSY6ylKbxwKf) | 3:53 |
+| 86 | [Autre temps](https://open.spotify.com/track/38cEFxU4h05Aa0BgzWrNyy) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Les voyages de l'âme](https://open.spotify.com/album/1y9zL8o1XLnLsiDzoC7v0O) | 5:50 |
 | 87 | [Molten Young Lovers](https://open.spotify.com/track/5uu6X7Fs4fkoKSRo7zDXAf) | [Airiel](https://open.spotify.com/artist/1WOhabhnnH1k6KcD81xGD1) | [Molten Young Lovers](https://open.spotify.com/album/5ZyewodnhW2uWCuNH83gP7) | 4:39 |
-| 88 | [Lovely Times](https://open.spotify.com/track/4YGPKyLmAkUEBNIcEWnAMV) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/54wd1Hh4e1z8tApOoHdM6j) | 4:17 |
+| 88 | [Dissonance](https://open.spotify.com/track/4u7egDsjL6R5gl5YzFl6Xk) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Everything and Nothing](https://open.spotify.com/album/0hdyt15dWQRZf9Bx2jEd7T) | 3:16 |
 | 89 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 |
-| 90 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
-| 91 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
-| 92 | [Turn Into](https://open.spotify.com/track/0iIZNAtdihZR65sTst3KgZ) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Turn Into](https://open.spotify.com/album/3hGEiHWq02qRrTIWqJrk7U) | 3:23 |
+| 90 | [Lovely Times](https://open.spotify.com/track/4YGPKyLmAkUEBNIcEWnAMV) | [Suburban Living](https://open.spotify.com/artist/3ZOX2dQRZEB6qADJd4emx2) | [Almost Paradise](https://open.spotify.com/album/54wd1Hh4e1z8tApOoHdM6j) | 4:17 |
+| 91 | [Love Comes In Waves](https://open.spotify.com/track/2boEyOYahQ5kYuAQnr05B9) | [Andy Bell](https://open.spotify.com/artist/0DCLBHSfbqLoGK3ikLGPxc) | [Love Comes In Waves](https://open.spotify.com/album/6H1YKdZQvIuOVQkKUpOHtR) | 4:48 |
+| 92 | [23](https://open.spotify.com/track/4HIwL9ii9CcXpTOTzMq0MP) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/3CRBMstrlbZNVWQjahQACl) | 5:18 |
 | 93 | [Dive](https://open.spotify.com/track/5TvkWUGywzfVF5HQ9uySVF) | [The Soft Cavalry](https://open.spotify.com/artist/4e9FOKctNAC68ii4bR9ucZ) | [The Soft Cavalry](https://open.spotify.com/album/2YbM8PN17mT9zpxohKc2s5) | 4:15 |
 | 94 | [May](https://open.spotify.com/track/3hVlV66Z3PfvXwIYOTeZdi) | [Life On Venus](https://open.spotify.com/artist/72cBWuYjXkWxEXqZcoH5kE) | [Encounters](https://open.spotify.com/album/0xeUhrPDwkyFJzOAADD6Bf) | 3:40 |
 | 95 | [Souvenirs d'un autre monde](https://open.spotify.com/track/1ZdDjrw2wdX2Ehe7J6GQr3) | [Alcest](https://open.spotify.com/artist/0d5ZwMtCer8dQdOPAgWhe7) | [Souvenirs d'un autre monde](https://open.spotify.com/album/5wmBTIuYVQ9hbCZuVxLNxf) | 6:08 |
-| 96 | [When I Tried](https://open.spotify.com/track/7M439GhksUYrts5IEScnDq) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Expect the Best](https://open.spotify.com/album/1cvuHdIuQf4Ij4caODhZPb) | 4:42 |
-| 97 | [Just Like Honey](https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0) | 3:03 |
-| 98 | [One](https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF) | 4:11 |
-| 99 | [Superbike](https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Superbike](https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi) | 3:53 |
+| 96 | [Superbike](https://open.spotify.com/track/4kK7bQcFQKldges2b6WXrV) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Superbike](https://open.spotify.com/album/68TrLByFkqkuVDVmIVpXdi) | 3:53 |
+| 97 | [When I Tried](https://open.spotify.com/track/7M439GhksUYrts5IEScnDq) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [Expect the Best](https://open.spotify.com/album/1cvuHdIuQf4Ij4caODhZPb) | 4:42 |
+| 98 | [Just Like Honey](https://open.spotify.com/track/4E6YM4V7Kz6zpbiNsliwEl) | [The Jesus and Mary Chain](https://open.spotify.com/artist/4rjlerN21ygkIhmUv55irs) | [Psychocandy](https://open.spotify.com/album/2YUNV2XbvydCwHLTpBV5A0) | 3:03 |
+| 99 | [One](https://open.spotify.com/track/5tC9wEYsOylv7aXeXCRaL3) | [Mild Orange](https://open.spotify.com/artist/6yXBFHhojjdwKoop55NsHf) | [Mild Orange](https://open.spotify.com/album/0cHGTDM93EWsLKxwiUzpPF) | 4:11 |
 | 100 | [Lip](https://open.spotify.com/track/26eNgATTW7K0N1QjWHnyjf) | [His Name Is Alive](https://open.spotify.com/artist/4LMQqMZYbFJgvxBOzshZVL) | [Mouth By Mouth](https://open.spotify.com/album/7sMhtwP2qwANyUlwijcn5j) | 2:59 |
 | 101 | [Farewell](https://open.spotify.com/track/7HGOZac4VHXnWXWuvMniTv) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi) | [Pink \(Deluxe Edition\)](https://open.spotify.com/album/2rRHqBhUioCssa9VHMRJYO) | 7:33 |
 | 102 | [Boyfriend](https://open.spotify.com/track/3t9fLR1lbPI8QguRVBgiAs) | [Majesty Crush](https://open.spotify.com/artist/0qRadykocaVqX7C4WM8b4t) | [I Love You in Other Cities](https://open.spotify.com/album/5LjqufMHmynqx9QEqWzHko) | 4:22 |

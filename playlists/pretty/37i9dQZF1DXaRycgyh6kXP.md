@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,067 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,241 likes - 100 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 88 | [Marilyn](https://open.spotify.com/track/5jJPcImQkogKdwsVS36zH7) | [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Micachu](https://open.spotify.com/artist/50Dd971ruHE4jP4gI7l1Qa) | [Love What Survives](https://open.spotify.com/album/54FblbvyHNrWeAuEJqnyit) | 4:06 |
 | 89 | [Another Girl](https://open.spotify.com/track/0eHYHJ7tpSXYvka4zgejeG) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Another Girl](https://open.spotify.com/album/3AQwqy7mrNS5InBDlDSDIA) | 6:42 |
 | 90 | [Curls](https://open.spotify.com/track/2dXAmfTnWAzuBakuyMNoMu) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ribbons](https://open.spotify.com/album/66uh2zByzGn6sW3mbpZTVh) | 3:17 |
-| 91 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
-| 92 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
-| 93 | [KODOMOTACHI](https://open.spotify.com/track/4tLaYku0oFYiq3PsznaQwQ) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:06 |
-| 94 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
-| 95 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |
-| 96 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
+| 91 | [No Rise](https://open.spotify.com/track/6hnnGHky3Kp40Q7JRRqI0T) | [TALsounds](https://open.spotify.com/artist/3W8UkPK2qxmnwqcBxqf1vL) | [Acquiesce](https://open.spotify.com/album/2RYXBmfMcG5qTh7LjfG2by) | 5:32 |
+| 92 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/0WvOTOVdItdQgWB6hEvIqQ) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/3MeNCEVxsgW3JkPDBMh1OA) | 4:16 |
+| 93 | [I Will Make Room for You \- Four Tet Remix](https://open.spotify.com/track/5veNZCICsWMKLzykjlWurt) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [I Will Make Room for You \(Four Tet Remix\)](https://open.spotify.com/album/4Gm7PiDeS6TYPKy8iRjRiX) | 8:17 |
+| 94 | [KODOMOTACHI](https://open.spotify.com/track/4tLaYku0oFYiq3PsznaQwQ) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 4:06 |
+| 95 | [Kilika](https://open.spotify.com/track/2Oz3kiJCYR8OLVLh2nFewE) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Themes for a New Earth](https://open.spotify.com/album/2nriy2p6VrJTgsQLvXnjSV) | 4:44 |
+| 96 | [Places](https://open.spotify.com/track/3oGqaG8lbdMzw4kgRb0CYz) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/3VpOUMVf32y2WQasgqmGPn) | 5:02 |
 | 97 | [The Way You Talk](https://open.spotify.com/track/1V2Q2OPyqSivMbgPlJAEF7) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG) | [A Mineral Love](https://open.spotify.com/album/47riSLCeFOffFRi9BZ2eig) | 2:50 |
-| 98 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
-| 99 | [Pack Yr Romantic Mind](https://open.spotify.com/track/79vjmzHz7zmXOBzy1w4Zin) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transient Random\-Noise Bursts With Announcements \(Expanded Edition\)](https://open.spotify.com/album/7i6xvTqziHnOBKLxstx9va) | 5:06 |
-| 100 | [Tommib Help Buss](https://open.spotify.com/track/5RQjC6zC0Jj166iNydg654) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/2DgDJIt55XlfyHpep3CFKs) | 2:10 |
+| 98 | [All the Way Down](https://open.spotify.com/track/6JT37WmQRQawN2By1ZQR0N) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Hallucinogen](https://open.spotify.com/album/5vI1UvJLIPAKf1kvzgPaTO) | 4:28 |
+| 99 | [Time Moves Slow](https://open.spotify.com/track/5XK1xClRUXSwCUu4I0E1RV) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Sam Herring](https://open.spotify.com/artist/4sfhX4TAhZ7KlbMnYAROQS) | [IV](https://open.spotify.com/album/1KgiVPDV0v0pn1MslihNHB) | 4:33 |
+| 100 | [Pack Yr Romantic Mind](https://open.spotify.com/track/79vjmzHz7zmXOBzy1w4Zin) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Transient Random\-Noise Bursts With Announcements \(Expanded Edition\)](https://open.spotify.com/album/7i6xvTqziHnOBKLxstx9va) | 5:06 |
 
 Snapshot ID: `Zr7OwAAAAAAfi2vs3g9TTNPZQWlPvI02`

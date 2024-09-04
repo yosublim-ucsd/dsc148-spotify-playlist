@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sa2Fqej3CR.md) - [plain]
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161 likes - 92 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 163 likes - 92 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 865994,
+  "num_followers": 866074,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAAF0l/qWosCrz00NPWJoK9+",
+  "snapshot_id": "ZtUAAAAAAAABX/jM6MN0e0xeUR3AraZL",
   "tracks": [
     {
       "added_at": null,
@@ -467,50 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DUMMY BOY (Revised)",
-        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
-      },
-      "artists": [
-        {
-          "name": "6ix9ine",
-          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 179404,
-      "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
-      "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 235689,
-      "name": "Needle (feat. Drake)",
-      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Beautiful Dark Twisted Fantasy",
         "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
       },
@@ -539,6 +495,50 @@
       "duration_ms": 378893,
       "name": "Monster",
       "url": "https://open.spotify.com/track/1ZHYJ2Wwgxes4m8Ba88PeK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 235689,
+      "name": "Needle (feat. Drake)",
+      "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DUMMY BOY (Revised)",
+        "url": "https://open.spotify.com/album/0iPy3R6fqEtiu8AFE6Azqr"
+      },
+      "artists": [
+        {
+          "name": "6ix9ine",
+          "url": "https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 179404,
+      "name": "FEFE (feat. Nicki Minaj & Murda Beatz)",
+      "url": "https://open.spotify.com/track/43VXG87ajppI8mO1Mxo8vu"
     },
     {
       "added_at": null,
@@ -679,30 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hood Hottest Princess",
-        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 194047,
-      "name": "Pound Town 2",
-      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix]",
         "url": "https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0"
       },
@@ -723,6 +699,30 @@
       "duration_ms": 268863,
       "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
       "url": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hood Hottest Princess",
+        "url": "https://open.spotify.com/album/6uoGeT623i76TwlgYFfe42"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 194047,
+      "name": "Pound Town 2",
+      "url": "https://open.spotify.com/track/65iyYuAIuhttMaYvHQnonf"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
+        "name": "BEYONC\u00c9 [Platinum Edition]",
+        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 199427,
-      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
-      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
+      "duration_ms": 234413,
+      "name": "Flawless Remix (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
     },
     {
       "added_at": null,
@@ -1055,22 +1051,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEYONC\u00c9 [Platinum Edition]",
-        "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
+        "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+        "url": "https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK"
       },
       "artists": [
         {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
         {
           "name": "Nicki Minaj",
           "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 234413,
-      "name": "Flawless Remix (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0zVMzJ37VQNFUNvdxxat2E"
+      "duration_ms": 199427,
+      "name": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+      "url": "https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk"
     },
     {
       "added_at": null,

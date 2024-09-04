@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 223271,
+  "num_followers": 223286,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABQkWymswR/n8+TVHVRj5Tz",
+  "snapshot_id": "ZtUAAAAAAAB7X62MGKHsiMs5QOI531Go",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Desce Pro Play (PA PA PA)",
+        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
+      },
+      "artists": [
+        {
+          "name": "ZAAC",
+          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 168507,
+      "name": "Desce Pro Play (PA PA PA)",
+      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wow. (Remix)",
         "url": "https://open.spotify.com/album/1Id3Zj9GMvi7dPj3u6cMNs"
       },
@@ -491,30 +515,6 @@
       "duration_ms": 183067,
       "name": "Like It Is",
       "url": "https://open.spotify.com/track/3frUvGrmGcay91lvFbOgsN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desce Pro Play (PA PA PA)",
-        "url": "https://open.spotify.com/album/5dgSOOnRf2k9UJyijM9ZwV"
-      },
-      "artists": [
-        {
-          "name": "ZAAC",
-          "url": "https://open.spotify.com/artist/76Xa625geVw0Q7BdyxNjA2"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 168507,
-      "name": "Desce Pro Play (PA PA PA)",
-      "url": "https://open.spotify.com/track/4zGtfOglDBfVUypabBwIjQ"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bops Goin Brazy",
+        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 128367,
+      "name": "Bops Goin Brazy",
+      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 145813,
       "name": "Blessed (with Tyga)",
       "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bops Goin Brazy",
-        "url": "https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S"
-      },
-      "artists": [
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 128367,
-      "name": "Bops Goin Brazy",
-      "url": "https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q"
     },
     {
       "added_at": null,

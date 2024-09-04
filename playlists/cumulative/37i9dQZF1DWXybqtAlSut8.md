@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-54 songs - 2 hr 18 min
+56 songs - 2 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 | 2024-03-20 |  |
 | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/track/5kC4N5H8YCjcaK00gys1n7) | [Orphan Collective](https://open.spotify.com/artist/4PibzND7lx6W7zXHGiXxLP) | [Amazing Grace! \(How Sweet The Sound\)](https://open.spotify.com/album/133mlcPnxlE5qSMPym2Cq1) | 2:45 | 2024-03-20 |  |
 | [And Can It Be That I Should Gain \- Piano](https://open.spotify.com/track/7ahdNh4B5iAAS4Rt32CPQH) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:24 | 2024-03-20 |  |
+| [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 | 2024-09-03 |  |
 | [Awakening](https://open.spotify.com/track/1vaIoBWMdNDI2qccIqA9Li) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:54 | 2024-03-20 |  |
 | [Be Thou My Vision](https://open.spotify.com/track/3qkqUtvKhgMvlDhloV7O01) | [Harry Cross](https://open.spotify.com/artist/3SUUNx6JXgmJPojGiLO8bo) | [Be Thou My Vision](https://open.spotify.com/album/1lxy3dD7zvfCDhhq9dI3tf) | 2:31 | 2024-03-20 |  |
 | [Beautiful Place](https://open.spotify.com/track/1tHNih8afCvuqWReZWcpvZ) | [Ricardo Henriquez](https://open.spotify.com/artist/2KphNahrTQR94NfgOp0wXn) | [Beautiful Place](https://open.spotify.com/album/1Y3DJYLI58h8DdZhlQTcyA) | 2:44 | 2024-03-20 |  |
@@ -52,6 +53,7 @@
 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 | 2024-03-20 |  |
 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 | 2024-03-20 |  |
 | [This Is How I Thank The Lord](https://open.spotify.com/track/2R2cs5oc2cWfv6GqYyu84M) | [Piano Praises](https://open.spotify.com/artist/7e4xD2CTQeYKxWxKNG6XVn) | [Burn Bright: Instrumental Worship](https://open.spotify.com/album/46m3UsnSj8ldBmuLOr5cTR) | 3:08 | 2024-03-20 |  |
+| [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 | 2024-09-03 |  |
 | [tis So Sweet To Trust In Jesus \- Piano](https://open.spotify.com/track/6uZZOnfsqJ6uk3KjAFhtVX) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:26 | 2024-03-20 |  |
 | [To Be A Pilgrim](https://open.spotify.com/track/1PdtgxuOZlryglsmUbowbg) | [Tristian Fitzmaurice](https://open.spotify.com/artist/19kUkTgm6469j8Pp2BKyav) | [To Be A Pilgrim](https://open.spotify.com/album/6oFmmowsFtnxT8sdMzMaXX) | 1:53 | 2024-03-20 |  |
 | [To God Be the Glory \- Piano](https://open.spotify.com/track/4JTguoVmnJnvYU7Tr3UXcZ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:29 | 2024-03-20 |  |

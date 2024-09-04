@@ -1,12 +1,12 @@
 {
-  "description": "This is Grupo Marca Registrada. The essential tracks, all in one playlist.",
-  "num_followers": 301499,
+  "description": "This Is Grupo Marca Registrada. Los temas esenciales, todos en una lista.",
+  "num_followers": 301750,
   "original_name": "This Is Grupo Marca Registrada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAD6vHTyDdQ+QaHtbHrVveKf",
+  "snapshot_id": "ZtUAAAAAAACwVcCJsiQmvNaWL5JznXR6",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigue La Magia Dando",
+        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 245376,
+      "name": "El Comerciante",
+      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/451wD2M8BdRq8SAruNb8c4"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigue La Magia Dando",
-        "url": "https://open.spotify.com/album/0QUDmu7pfqsOPgc3kGULkZ"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 245376,
-      "name": "El Comerciante",
-      "url": "https://open.spotify.com/track/56YZft0whsresPdufFqwwS"
     },
     {
       "added_at": null,
@@ -811,6 +811,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Ni\u00f1o",
+        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 190720,
+      "name": "El Ni\u00f1o",
+      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 209440,
       "name": "El Inocente",
       "url": "https://open.spotify.com/track/1tLbquZ3AZCUWpst5N8T6S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Ni\u00f1o",
-        "url": "https://open.spotify.com/album/752bhrEwJA4s5o39zAACNy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 190720,
-      "name": "El Ni\u00f1o",
-      "url": "https://open.spotify.com/track/3gEolrSD883RXFsgiruxEm"
     },
     {
       "added_at": null,

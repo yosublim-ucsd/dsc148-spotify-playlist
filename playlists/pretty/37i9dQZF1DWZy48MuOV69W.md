@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 
 > Cozy and jazzy interpretations of all your favourite Christmas songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,465 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,461 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 19 | [Jolis sapins](https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy) | [Noël ! Noël !! Noël !!!](https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3) | 4:02 |
 | 20 | [Maybe Next Christmas](https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Merry Christmas](https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE) | 3:56 |
 | 21 | [A Song For Christmas](https://open.spotify.com/track/1UyTgv5uA2AWeEzl8xhRxW) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [The Very Best Time Of Year](https://open.spotify.com/album/5OYaZZMzjUuPmj1OZgDwh1) | 2:54 |
-| 22 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:47 |
-| 23 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 3:26 |
+| 22 | [Winter Wonderland \- 1959 Version](https://open.spotify.com/track/73I5rgoTrAOnRLIOMnAcSM) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 3:26 |
+| 23 | [God Rest Ye, Merry Gentlemen](https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Have Yourself a Soulful Little Christmas](https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw) | 3:47 |
 | 24 | [Christmas Memories](https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy) | [Peter Asplund](https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz), [Vivian Buczek](https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq) | [The Christmas Feeling](https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx) | 4:58 |
 | 25 | [What Are You Doing New Year's Eve](https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 2:50 |
 | 26 | [Christmas Blues](https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ) | [Holly Cole](https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX) | [Jazz To The World](https://open.spotify.com/album/48ZEjUeHqGxS6icwwRMuRh) | 2:57 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy48MuOV69W.md) - [plain]
 | 31 | [Silent Night](https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG) | [Silvio Thompson Band](https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C) | ['Tis The Season](https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ) | 3:20 |
 | 32 | [Santa Baby](https://open.spotify.com/track/49HH1FubuHZSbdF64N8OEK) | [Javon Jackson](https://open.spotify.com/artist/57vcT3Th6V43bi5Jr5aSZl) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 4:22 |
 | 33 | [Jingle Bells](https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb) | [Luca Francis](https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a) | [It's Christmas Time](https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO) | 2:39 |
-| 34 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
+| 34 | [O Come All Ye Faithful](https://open.spotify.com/track/6LWdAiqeXcgKp5tSq13o0y) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:14 |
 | 35 | [Rest in Peace](https://open.spotify.com/track/5MUp64SC6HDHCLly5R4fP7) | [Joe Stilgoe](https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am), [Canterbury Cathedral Girls' Choir](https://open.spotify.com/artist/0PvYJwsHYAaKLNBadoQwC4) | [Joe Stilgoe's Christmas Album](https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1) | 4:08 |
-| 36 | [O Come All Ye Faithful](https://open.spotify.com/track/6LWdAiqeXcgKp5tSq13o0y) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [What A Night! A Christmas Album](https://open.spotify.com/album/4ZD2z6ZVjiaeZolP8MXgvK) | 4:14 |
+| 36 | [Love Is a Christmas Rose](https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Greatest Christmas Songs](https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO) | 2:01 |
 | 37 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/1SNWQrpsdeCcm9k5OYnIPV) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Songs Of December \- International Version](https://open.spotify.com/album/3119F0UcdVJ8ZME3WDF8MY) | 4:49 |
 | 38 | [Sleighride](https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2) | [Jane Monheit](https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ) | [The Season](https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG) | 2:46 |
 | 39 | [Christmas in New York](https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE) | [José James](https://open.spotify.com/artist/4l2MwXYwUDQKHcUXwCZjEz) | [ホセ・ジェイムズのクリスマス・タイム](https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z) | 2:57 |

@@ -4,7 +4,7 @@
 
 > Enjoy mysterious and dreamy music as if walking in a dream\. \(꿈 속을 거닐듯 신비롭고 몽환적인 음악들을 즐겨보세요.\)
 
-113 songs - 6 hr 26 min
+116 songs - 6 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Akita \(Feat\. hartts\) \(Prod\. OBSN\)](https://open.spotify.com/track/3Z8mmSGRXteAGEZFJW4VYV) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7), [hartts](https://open.spotify.com/artist/0a1stdnZdUUGkudEf9iymv) | [Akita](https://open.spotify.com/album/47SpzlhQhg5hcwX1J7azaS) | 3:44 | 2023-02-24 |  |
 | [Alone with You](https://open.spotify.com/track/3mq0dLTh4wC8goZY3s6oLQ) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [haaAakkKKK!!!](https://open.spotify.com/album/44OzoIkxMtGrmnP978PTZY) | 2:47 | 2023-02-08 | 2024-08-11 |
 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 | 2023-02-08 |  |
+| [Anxious \(Feat\. The Deep\)](https://open.spotify.com/track/5bpXlLyRHhUhd2UiGyr752) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [The Deep](https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp) | [Anxious \(Feat\. The Deep\)](https://open.spotify.com/album/7IycamfugtbcUeDk3Tqu8v) | 3:07 | 2024-09-04 |  |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2023-02-08 |  |
 | [Be](https://open.spotify.com/track/47d52vNfgM4z0Us5QmP4TZ) | [DoBeat](https://open.spotify.com/artist/2nujFuydbIGyhalGKHMYb6) | [Be](https://open.spotify.com/album/2hJebRkn9Z3PpLSDgODtDE) | 3:20 | 2024-08-05 |  |
 | [Bird](https://open.spotify.com/track/3ZbGV3tQ7nnJaqArImPw3M) | [OurR](https://open.spotify.com/artist/5lC9qDfzcZb5iQp6x17ASP) | [can't](https://open.spotify.com/album/5XKIoRiJI9U2NXBOB7nhjI) | 5:40 | 2023-02-08 | 2024-03-09 |
@@ -25,6 +26,7 @@
 | [COOL \(Your rainbow\)](https://open.spotify.com/track/6SYVnDzwzMmTGqW13DSiZA) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2WraNaeFiJAOFEozKoAtC6) | 2:50 | 2023-02-08 |  |
 | [D \(Half Moon\)](https://open.spotify.com/track/3uA8SjMyDtwtt0jLPMQbVD) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:49 | 2023-02-08 |  |
 | [Dance](https://open.spotify.com/track/3rQmTAyMDDZ73rMyhLkn98) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:39 | 2023-02-08 |  |
+| [Dandelion](https://open.spotify.com/track/3bqmErC7qZn0BMQHGfnxby) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Roses/Dandelion](https://open.spotify.com/album/6cKYPQdKPYElQMIQfZD8z3) | 2:30 | 2024-09-04 |  |
 | [dear a.i](https://open.spotify.com/track/3jghe6qOB5kiwtXlrTuYFe) | [Jung Jin Woo](https://open.spotify.com/artist/5uVgoepJHC3fbOohI5gXc4) | [DEAR A.I](https://open.spotify.com/album/6COdSY0jHI0tMeCdA7C9qy) | 2:29 | 2024-08-10 |  |
 | [Diver](https://open.spotify.com/track/4SGwJXOUyVRnbKZH09O4D9) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/5Qx8HSQxYH27Bf1Gc750UB) | 3:10 | 2023-05-02 |  |
 | [Diver](https://open.spotify.com/track/4YWTrUVmmvULMJviDOzMg0) | [Izykite](https://open.spotify.com/artist/5U1sDgoWfJGV8dwlvnuxvx) | [I ZIP](https://open.spotify.com/album/4wuAqejGxm4tQW952IKfHI) | 3:10 | 2024-02-20 | 2024-03-09 |
@@ -94,6 +96,7 @@
 | [Seven \(feat\. Latto\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-08-25 | 2024-03-28 |
 | [Shutdown \(Feat\. Seori\)](https://open.spotify.com/track/3mjSO8tQD78ht78SlFMKd1) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL), [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:21 | 2023-02-08 |  |
 | [Sleep](https://open.spotify.com/track/45vAXcFwBye4C8ct9vwWqJ) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Heaven](https://open.spotify.com/album/5w0J14k4fylvuAW93zv31W) | 2:58 | 2023-02-14 |  |
+| [So I\`m \(build\-up\)](https://open.spotify.com/track/5ZV3FzMKyMLPo5yfHcVd94) | [Meludima](https://open.spotify.com/artist/5KuqJ1wfy3MTV4c2B0jJ3B), [HB](https://open.spotify.com/artist/4dZSeSzF2tUTtEluKXl1gP) | [So I\`m \(build\-up\)](https://open.spotify.com/album/0GIyg7jc4BAzIz50meah5e) | 2:30 | 2024-09-04 |  |
 | [Sover \(feat\. EFFY\)](https://open.spotify.com/track/0wKiDGK0fkx6dSDCpa0zl9) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4), [EFFY](https://open.spotify.com/artist/5Hq1SKAbACg8QBPQalqUGD) | [Sover](https://open.spotify.com/album/3KNFq8vyJ8soYkdRh0xlfS) | 2:42 | 2024-08-10 |  |
 | [starstarstar](https://open.spotify.com/track/2rkLmJD9UfISCouYBukvCP) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 3:38 | 2023-02-08 | 2024-04-19 |
 | [starstarstar](https://open.spotify.com/track/503KMAmGqO2iOkyao4S1bx) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/3sa814wrHO77FkSycZwhNf) | 3:38 | 2024-08-05 |  |

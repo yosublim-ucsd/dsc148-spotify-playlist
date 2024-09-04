@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-762 songs - 1 day 9 hr 7 min
+766 songs - 1 day 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Absolutely Nothing](https://open.spotify.com/track/3tK6DPMKK0sOFzjtIYO31C) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Absolutely Nothing](https://open.spotify.com/album/2doFeD2JvERQd22iG6AzfF) | 2:01 | 2024-01-12 |  |
 | [Acamchula Creeks](https://open.spotify.com/track/0nlYGpYrgVvtxy00ShqZ04) | [Georg Gardner](https://open.spotify.com/artist/6f0loscSdyOfbHMWJSV9Pv) | [Acamchula Creeks](https://open.spotify.com/album/3VjF1M6fwo4rYHScvsT1Md) | 2:31 | 2022-10-07 | 2024-06-28 |
 | [Across the Pavement](https://open.spotify.com/track/51Tnos6jL6P1FvJtXzxBk1) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Across the Pavement](https://open.spotify.com/album/69PoP6QUOXVPVyvJJdS2hp) | 2:14 | 2023-12-15 | 2024-07-19 |
+| [Across the Wide Field](https://open.spotify.com/track/5YaAixCoWRYntnj0YZaju0) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Across the Wide Field](https://open.spotify.com/album/6onm99uKAASW9GYfkvLR6v) | 2:47 | 2024-09-03 |  |
 | [Act of Kindness](https://open.spotify.com/track/3Xip9lwNo2DAPADWHdVgyi) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Act of Kindness](https://open.spotify.com/album/6nKme2M8g4OjVWz7v8Ze9W) | 3:05 | 2023-11-24 |  |
 | [Adelita](https://open.spotify.com/track/5qGYBd0wZHJ9Chu3YnvYvu) | [Francisco Tárrega](https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t), [Pablo Despeyroux](https://open.spotify.com/artist/5PIQKptSn7b9KGsMrK296N) | [Tres mazurcas](https://open.spotify.com/album/0gE3MUJGWkrAcnZtiQhzSD) | 1:38 | 2022-05-27 | 2022-07-29 |
 | [Afternoon hovers](https://open.spotify.com/track/7JaU9CgUhv6I6DqryPyg1C) | [Oceane Bardot](https://open.spotify.com/artist/4YYQ7Q0261K5rIEs0SQZIi) | [Afternoon hovers](https://open.spotify.com/album/2VMThT0iQUWcvbKm6OUOW7) | 2:26 | 2023-04-21 |  |
@@ -139,7 +140,7 @@
 | [Chinar Es \(Arr\. by João Kouyoumdjian\)](https://open.spotify.com/track/2NIOzaefQJpBxnuMMaI8Om) | [Komitas](https://open.spotify.com/artist/4Yiwp7GT4REEHykKPHSWv3), [João Kouyoumdjian](https://open.spotify.com/artist/097DtxFwNclp8H7VUPsRx1) | [Gakavig Fantasy: Armenian Music Arranged & Composed for Classical Guitar](https://open.spotify.com/album/7gnyqhBCrjcYap8XFfry1D) | 2:57 | 2022-06-24 | 2022-12-10 |
 | [Claim on the future](https://open.spotify.com/track/1hS0hVNC5GpM6MAD4jxd8K) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Claim on the future](https://open.spotify.com/album/2JNt3pBwJk8VjEt06E3kcC) | 2:09 | 2023-01-13 |  |
 | [Close To Firenze](https://open.spotify.com/track/6Fixm5hLh4ySUdQmXHYTNq) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Close To Firenze](https://open.spotify.com/album/6K0R6DtEhe1wcG4U4Hjq8W) | 2:42 | 2022-05-27 | 2022-10-07 |
-| [Closure](https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Closure](https://open.spotify.com/album/4EsEmffVs8EQszN8sqyucH) | 2:41 | 2023-06-22 |  |
+| [Closure](https://open.spotify.com/track/3ttrN1Rck6yBoCYMbvC4Vp) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Closure](https://open.spotify.com/album/4EsEmffVs8EQszN8sqyucH) | 2:41 | 2023-06-22 | 2024-09-04 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-24 |  |
 | [Colorful Quilt](https://open.spotify.com/track/4JFm1ljuUfrmCmTirryRVp) | [Blythe Davidson](https://open.spotify.com/artist/0mVoFjwABzQkARh5w2hUBg) | [Colorful Quilt](https://open.spotify.com/album/78hX5m7IOPoNFVB8Ci8zA2) | 2:38 | 2024-03-08 |  |
 | [Colors Of Spirit](https://open.spotify.com/track/0usXBNEX4RoDTQODT1ZJEO) | [Iron Ore](https://open.spotify.com/artist/4kgygMrQyq2ABMHuhm07fZ) | [Colors Of Spirit](https://open.spotify.com/album/75y49kivSa0YKGV050ODBr) | 4:03 | 2022-10-07 | 2024-05-04 |
@@ -489,6 +490,7 @@
 | [Oshoshina](https://open.spotify.com/track/1ZUzQ8QlodbTIJdEVCnOlA) | [Ryohei Shimoyama](https://open.spotify.com/artist/22rBJY8j8xwmBm0Iml3Cgt) | [Oshoshina](https://open.spotify.com/album/1e8hNICSZneSSvoKx8plS6) | 2:10 | 2022-09-02 | 2022-12-10 |
 | [Other Days](https://open.spotify.com/track/3lLdHVyx76OUJtG9S9pJkW) | [Aaron Reid](https://open.spotify.com/artist/1ie0JBUOVxOoaVsQkuIsuG) | [Where I Belong](https://open.spotify.com/album/49FiONw30Aya5gcFJEOCz3) | 2:24 | 2021-12-08 | 2022-07-01 |
 | [Our Corner Of The World](https://open.spotify.com/track/6fuQyoZURai0hV2js4AhHT) | [August Wilkes](https://open.spotify.com/artist/19gSkzJPz68TJCpd3RIbm5) | [Our Corner Of The World](https://open.spotify.com/album/6PlkLwoz58spqC90qxokN9) | 1:57 | 2021-12-08 | 2022-06-03 |
+| [Over the Sunset](https://open.spotify.com/track/3MWQHYACLVk2rDnEEHp2XU) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Over the Sunset](https://open.spotify.com/album/2Y64wPIAgv4EG7dP2rJtff) | 2:47 | 2024-09-03 |  |
 | [Pali Hale](https://open.spotify.com/track/23KFTdPnG5SVo3UMNoI7BC) | [Lukas Holsen](https://open.spotify.com/artist/0k6bekZzPKdDnAcDbRqYgO) | [Pali Hale](https://open.spotify.com/album/17gtmAUDxphDXbzKo1lBtE) | 2:50 | 2021-12-08 | 2022-09-03 |
 | [Pampas](https://open.spotify.com/track/69mjMThxmO77svcQG5jv9s) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Pampas](https://open.spotify.com/album/24ZUuBk8JknWaAalkgC2ZO) | 2:43 | 2023-09-29 | 2024-05-24 |
 | [Passage](https://open.spotify.com/track/5QpR40FJQcO0dU4ygdQuIm) | [Carol Poole](https://open.spotify.com/artist/02I1DT5QQhN18VH7MYEsSv) | [Passage](https://open.spotify.com/album/6eVfefPBUUxftPxKDlxLjE) | 2:30 | 2021-12-08 | 2022-06-10 |
@@ -544,6 +546,7 @@
 | [Rosebuds](https://open.spotify.com/track/0GydsTxQwwzuyVbqpdSgD7) | [Josephine Forrester](https://open.spotify.com/artist/3hGRgVdSwQQVheMJ6pizcz) | [Rosebuds](https://open.spotify.com/album/36pUo2ZfESoPVlGVRGrzIK) | 2:18 | 2021-12-08 | 2022-06-10 |
 | [Roses](https://open.spotify.com/track/29rFbzOew6wFUm29ZEtXIl) | [Victor Santos](https://open.spotify.com/artist/1VIfeRsZv9cw7shAwqBDOW) | [Roses](https://open.spotify.com/album/09p5h5U8OsTHA9dIaXGVes) | 3:51 | 2021-12-08 | 2022-07-01 |
 | [Sail For Toumain](https://open.spotify.com/track/1WFdNNCiWcNFnL45R08pou) | [Carol Maddox](https://open.spotify.com/artist/1tfErPhfPUi2JprfJZRsfb) | [Sail For Toumain](https://open.spotify.com/album/4qEH9vdWvau9XxXhlBi3q1) | 2:26 | 2022-08-19 | 2023-03-25 |
+| [Saint Placide](https://open.spotify.com/track/3pdhKb8GivqG4PVhNujVu8) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [Saint Placide](https://open.spotify.com/album/3b247w7f2QfCQgTMpuppup) | 2:35 | 2024-09-03 |  |
 | [San Juan](https://open.spotify.com/track/3LJc8MWjahc3VNp3JGKrwX) | [Las Tres Cuerdas](https://open.spotify.com/artist/6jXpHupMSkU9UO5HNpP30a) | [San Juan](https://open.spotify.com/album/5cDGufFIZdvK1n8piyum2Z) | 2:25 | 2021-12-08 | 2024-05-04 |
 | [san luca](https://open.spotify.com/track/5HBOzyGyihD8KEptCOoxxu) | [Valery Isabel](https://open.spotify.com/artist/4QYwsnE0bbhWxuyUbSFnZR) | [purple dreams](https://open.spotify.com/album/3ofKSAH3DgolDBcU1IaWCs) | 3:06 | 2021-12-08 | 2024-04-19 |
 | [San Sebastian](https://open.spotify.com/track/6r9LaBQgUkbQzqjxCFQRVO) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [San Sebastian](https://open.spotify.com/album/0bCjvoW1iidtDENdbN0z1x) | 2:25 | 2024-07-19 |  |
@@ -746,9 +749,10 @@
 | [Whisper of the Heart](https://open.spotify.com/track/4joOtftW0JiCALcn0aU04F) | [Allan Soderbergh](https://open.spotify.com/artist/3xqsMFRhJhUFZo7ktD34rU) | [Whisper of the Heart](https://open.spotify.com/album/4cdWP61wTkYf0e7z4xYg68) | 2:14 | 2023-06-02 |  |
 | [Whispering Winds](https://open.spotify.com/track/5D9BEXCyDrVrfYGDfwl9FE) | [Michael Reiss](https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy) | [Whispering Winds](https://open.spotify.com/album/0MIMtnfIxqRTZBz5drD61Z) | 3:42 | 2024-05-24 |  |
 | [Wichita Falls](https://open.spotify.com/track/1CAOAUuIIhbXkHUeQHgnYb) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wichita Falls](https://open.spotify.com/album/1Ty3h8HlwKdRThb4qzR9fC) | 2:23 | 2023-05-12 |  |
-| [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 |  |
+| [Wild at Heart](https://open.spotify.com/track/42sRbwPRxauCwwtNTc9baV) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Wild at Heart](https://open.spotify.com/album/5k6E0BDsXsVt5E9Qm2qDAB) | 2:35 | 2024-04-05 | 2024-09-04 |
 | [Wildflowers](https://open.spotify.com/track/3xeVTA8S7PyPItewgE9Mpx) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Wildflowers](https://open.spotify.com/album/2hlO5P9G2aDGVS6GnDxaXI) | 2:05 | 2022-06-17 | 2023-06-03 |
 | [Wind Smells the Sea](https://open.spotify.com/track/2REjYFKoTnUcmQ5mlycefg) | [Jonka Ebony](https://open.spotify.com/artist/1JTHwGu0pNf3WuXKyaZFAE) | [Wind Smells the Sea](https://open.spotify.com/album/6ycA17KnDVAjaN0VeXo2AJ) | 2:27 | 2024-07-19 |  |
+| [Winding Round](https://open.spotify.com/track/6tAMRb5B9arxFxGwdU3AQ0) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Winding Round](https://open.spotify.com/album/0hZVB1UgQA8RYnjEx1oq8s) | 1:43 | 2024-09-03 |  |
 | [Window](https://open.spotify.com/track/7Avxe9ZBaBQ8yWk1fpYM8Y) | [Elsa Pelling](https://open.spotify.com/artist/6m3MUFzflTDG8M0r7Isk9U) | [Window](https://open.spotify.com/album/1Qa7H30jLp6XDAxCv7M769) | 2:02 | 2023-10-27 | 2024-06-28 |
 | [windows](https://open.spotify.com/track/5KZLT2poBO9eTLjpaD7EDN) | [Elum Vance](https://open.spotify.com/artist/0Ams3Y9kvFZ7zJ0iPkIhfG) | [windows](https://open.spotify.com/album/0T3syhriHLYTW1Uskr3kGE) | 2:46 | 2021-12-08 | 2022-03-05 |
 | [Winter is coming](https://open.spotify.com/track/2TVL32urlZnR6EBTRGUHEP) | [Moody Me](https://open.spotify.com/artist/195UO4AUwZfApowkBDD3i8) | [Winter is coming](https://open.spotify.com/album/33zjD4b9Oeab3uRFpcuZFw) | 2:32 | 2023-03-10 |  |

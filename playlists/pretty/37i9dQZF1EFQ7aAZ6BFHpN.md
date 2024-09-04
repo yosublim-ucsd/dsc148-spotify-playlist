@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 331 likes - 148 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 148 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `AbbGWAAAAABF71BnvWJmy45HuzcZv1PX`
+Snapshot ID: `AbbL9AAAAACM06FetVemV0j+ZqbjiTL1`

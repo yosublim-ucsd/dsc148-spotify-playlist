@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 
 ### [This Is AC/DC](https://open.spotify.com/playlist/37i9dQZF1DZ06evO49hLQA)
 
-> This is AC/DC\. Todos os maiores hits em uma só playlist.
+> This is AC/DC\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,153,755 likes - 50 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,153,934 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO49hLQA.md) - [plain]
 | 38 | [Hell Ain't a Bad Place to Be](https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 4:14 |
 | 39 | [Play Ball](https://open.spotify.com/track/3fpzBeEHvuXKOl7QeVe1iz) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 2:47 |
 | 40 | [Heatseeker](https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Blow Up Your Video](https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI) | 3:50 |
-| 41 | [Witch's Spell](https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:42 |
+| 41 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
 | 42 | [Dog Eat Dog](https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 3:34 |
-| 43 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
+| 43 | [Witch's Spell](https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:42 |
 | 44 | [Live Wire](https://open.spotify.com/track/6FWoYwZa13llS7nj0SG65F) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:48 |
-| 45 | [Through The Mists Of Time](https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:32 |
-| 46 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 |
-| 47 | [Rock the Blues Away](https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:24 |
+| 45 | [Rock 'N' Roll Damnation](https://open.spotify.com/track/2308VPPaMh7Q3AX1Zap99A) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 3:37 |
+| 46 | [Rock the Blues Away](https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Rock or Bust](https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg) | 3:24 |
+| 47 | [Through The Mists Of Time](https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:32 |
 | 48 | [The Jack](https://open.spotify.com/track/3k1WwLG1OXCm6iQ13VrJEL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [High Voltage](https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq) | 5:52 |
 | 49 | [Let's Get It Up](https://open.spotify.com/track/1EJIEPzahlUiev5IQ1HnuL) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [For Those About to Rock \(We Salute You\)](https://open.spotify.com/album/7DUvURQ0wfA1kgG8j99frR) | 3:54 |
-| 50 | [Realize](https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [POWER UP](https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0) | 3:37 |
+| 50 | [Gone Shootin'](https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Powerage](https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm) | 5:05 |
 
-Snapshot ID: `ZtOugAAAAAA7yX/wiUjiqA8h/ncunPg4`
+Snapshot ID: `ZtUAAAAAAACSl7N8cN/k40r/SoAv76AO`

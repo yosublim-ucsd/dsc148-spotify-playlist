@@ -3905,6 +3905,24 @@
     },
     {
       "album": {
+        "name": "Nice",
+        "url": "https://open.spotify.com/album/3e96nxcQuXexBdHU5J7jxK"
+      },
+      "artists": [
+        {
+          "name": "Toni Barella",
+          "url": "https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141699,
+      "name": "Nice",
+      "url": "https://open.spotify.com/track/2KGBA1oetwZigO3KXRYZk6"
+    },
+    {
+      "album": {
         "name": "No Worries",
         "url": "https://open.spotify.com/album/6ARmrbdkKDqXtvDy9p8ktK"
       },

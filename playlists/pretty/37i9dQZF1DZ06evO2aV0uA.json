@@ -1,12 +1,12 @@
 {
   "description": "This is Lamb of God. The essential tracks, all in one playlist.",
-  "num_followers": 130148,
+  "num_followers": 130173,
   "original_name": "This Is Lamb of God",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAAC2n0fFwXWlTjWCzJ4wNGVs",
+  "snapshot_id": "ZtUAAAAAAACPgkF95QkrMm6rQmGZ8ArO",
   "tracks": [
     {
       "added_at": null,
@@ -479,8 +479,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "As The Palaces Burn",
-        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
         {
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 283000,
-      "name": "Vigil",
-      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
+      "duration_ms": 221080,
+      "name": "Dead Seeds",
+      "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "As The Palaces Burn",
+        "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 221080,
-      "name": "Dead Seeds",
-      "url": "https://open.spotify.com/track/6pUIxt8QTqXrAr24oet0dW"
+      "duration_ms": 283000,
+      "name": "Vigil",
+      "url": "https://open.spotify.com/track/77XOYoYeK1CoTfnKUIXTjk"
     },
     {
       "added_at": null,
@@ -543,22 +543,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "DISCO4 :: PART II",
-        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
+        "name": "Wrath (Special Edition)",
+        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
       },
       "artists": [
-        {
-          "name": "HEALTH",
-          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
-        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 326771,
-      "name": "COLD BLOOD",
-      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
+      "duration_ms": 233466,
+      "name": "Broken Hands",
+      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
     },
     {
       "added_at": null,
@@ -579,18 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wrath (Special Edition)",
-        "url": "https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU"
+        "name": "DISCO4 :: PART II",
+        "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
       "artists": [
+        {
+          "name": "HEALTH",
+          "url": "https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth"
+        },
         {
           "name": "Lamb of God",
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 233466,
-      "name": "Broken Hands",
-      "url": "https://open.spotify.com/track/3WJaypEGPAc0GH4l9ouoww"
+      "duration_ms": 326771,
+      "name": "COLD BLOOD",
+      "url": "https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz"
     },
     {
       "added_at": null,
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VII: Sturm und Drang",
-        "url": "https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9"
+        "name": "Resolution",
+        "url": "https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
         }
       ],
-      "duration_ms": 264686,
-      "name": "Footprints",
-      "url": "https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ"
+      "duration_ms": 148653,
+      "name": "Straight For The Sun",
+      "url": "https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo"
     }
   ],
   "unique_name": "This Is Lamb of God",

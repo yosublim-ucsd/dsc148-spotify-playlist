@@ -815,6 +815,24 @@
     },
     {
       "album": {
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144291,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
+    },
+    {
+      "album": {
         "name": "Foreseeable Future",
         "url": "https://open.spotify.com/album/5fH8yNs6J9KbiAFO1gKL36"
       },

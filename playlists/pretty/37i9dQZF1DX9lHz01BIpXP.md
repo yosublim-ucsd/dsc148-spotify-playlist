@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf?si=JVqQ1FRRSoCJNLbtkVT5Ng">Chesrae Megan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,775 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 | 37 | [Lavis](https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7) | [Mr Heinz](https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL) | [Bishop Lavis](https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF) | 3:18 |
 | 38 | [Violence \- Afrikaans Drill](https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og) | [SwiinkBEATS.Ltd](https://open.spotify.com/artist/1CgMsuCR1kJBIHfmj2obaG), [KG Lucas](https://open.spotify.com/artist/0EapRyIBol6qpPBm7hPd9l) | [Violence \(Afrikaans Drill\)](https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN) | 3:40 |
 | 39 | [JMHWB](https://open.spotify.com/track/2iVtx13izbsfNMdDjmK7Th) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Stuwi W](https://open.spotify.com/artist/1I6vji9IXigkijAeej9pQO) | [JMHWB](https://open.spotify.com/album/1T6tnYZ1l4htYjHyQ8aNWO) | 3:47 |
-| 40 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 |
+| 40 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
 | 41 | [Laaste Hond](https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Laaste Hond](https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK) | 3:01 |
-| 42 | [DIE LANIE](https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1) | [Madgas](https://open.spotify.com/artist/6SxrHxCHpyEIfdtUOQrkMH) | [DIE LANIE](https://open.spotify.com/album/6CqQqWzEOHGTYkZjrjGqAe) | 2:43 |
+| 42 | [Denero](https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Denero](https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN) | 2:24 |
 | 43 | [Deh!](https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ) | [Epidemi](https://open.spotify.com/artist/4mb93T3CWJd1pKp2XAsp9K) | [Deh!](https://open.spotify.com/album/38J1BiT27OyRsI60572LsP) | 2:39 |
 | 44 | [Sal Alright is](https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ) | [Shameel Afrikaans Music](https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl), [BIGDMUZIC](https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur) | [Sal Alright is](https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL) | 4:12 |
-| 45 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
-| 46 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 |
+| 45 | [Hou Vas](https://open.spotify.com/track/2hoT3UMzDU3FeeRDnL0lOD) | [Klein Fortuin](https://open.spotify.com/artist/7i6gIaTRv7iECLBF89Mdw5), [Illrow](https://open.spotify.com/artist/7CsyTb53IWkpe2j43VIsg7) | [Hou Vas](https://open.spotify.com/album/5JUHiZaI261mwUGVEUibNU) | 3:06 |
+| 46 | [Nigel Hulle](https://open.spotify.com/track/3NmojQTDVqNO0oboZ0gQ1z) | [Boss Niggas Only](https://open.spotify.com/artist/2XAQ82g5yBNXxe7fPk8Nfq), [Jy Checkie](https://open.spotify.com/artist/0NPQslNjzLvoZR8MJzZfst), [Cee Jay Zondagh](https://open.spotify.com/artist/3GWLfJPjLRZdlKUoVzUZ9a), [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [BOSS NIGGAS ONLY V2](https://open.spotify.com/album/4N4GAxHD9McOIKA1BcXyWd) | 3:16 |
 | 47 | [OGlizzy](https://open.spotify.com/track/1NlWi9AEB4vB9z7MxoalXS) | [Jossi\-Boy](https://open.spotify.com/artist/4Ewat2VC8zABVgUA0YEXvY) | [OGlizzy](https://open.spotify.com/album/58cgGZyo8nD6zMFjdMfQFH) | 3:16 |
-| 48 | [Ek Sal Nie Lieg Nie](https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Ek Sal Nie Lieg Nie](https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ) | 2:31 |
-| 49 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
-| 50 | [Skrik Wakker](https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm), [Rennie\-Boy](https://open.spotify.com/artist/53BPfXb27ng2cYGEK6PtaG) | [Skrik Wakker](https://open.spotify.com/album/0zGRb9dlhnxbgEtax9R9aB) | 4:00 |
+| 48 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 |
+| 49 | [Skrik Wakker](https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [YB Benzy](https://open.spotify.com/artist/2Nm9WbGktDzUxMXLVp1ALm), [Rennie\-Boy](https://open.spotify.com/artist/53BPfXb27ng2cYGEK6PtaG) | [Skrik Wakker](https://open.spotify.com/album/0zGRb9dlhnxbgEtax9R9aB) | 4:00 |
+| 50 | [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 |
 
 Snapshot ID: `ZtDvYAAAAAD0nhAacJfQVuqv6IQSvugj`

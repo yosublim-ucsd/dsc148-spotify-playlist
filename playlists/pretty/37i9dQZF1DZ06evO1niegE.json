@@ -1,12 +1,12 @@
 {
-  "description": "This Is RENEE. Los temas esenciales, todos en una lista.",
-  "num_followers": 7623,
+  "description": "This is RENEE. The essential tracks, all in one playlist.",
+  "num_followers": 7620,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOugAAAAABNEJBrDnXTDWrODzmQ7WOo",
+  "snapshot_id": "ZtUAAAAAAADsCGkSqx98KiOs9/B9UkOf",
   "tracks": [
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 150760,
-      "name": "Tibio",
-      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
+      "duration_ms": 150773,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
     },
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 150773,
-      "name": "Algo Bien",
-      "url": "https://open.spotify.com/track/6k2HTT8CqCUWlEG7saWg0r"
+      "duration_ms": 150760,
+      "name": "Tibio",
+      "url": "https://open.spotify.com/track/2iqzKoc9YpedaZGWU1S84i"
     },
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "mucho texto",
-        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
+        "name": "Retrofuturismo",
+        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
       },
       "artists": [
+        {
+          "name": "MiSHNRZ",
+          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
+        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 203280,
-      "name": "as\u00ed no funciona",
-      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
+      "duration_ms": 176000,
+      "name": "VHS",
+      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
     },
     {
       "added_at": null,
@@ -463,22 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Retrofuturismo",
-        "url": "https://open.spotify.com/album/2UD0pOeSTiEqLcZNVoX36O"
+        "name": "mucho texto",
+        "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
       "artists": [
-        {
-          "name": "MiSHNRZ",
-          "url": "https://open.spotify.com/artist/3tbJ4v64S8EcwVSkoFIwvl"
-        },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 176000,
-      "name": "VHS",
-      "url": "https://open.spotify.com/track/3OrVqG7CoKW0RIFeEPLPSY"
+      "duration_ms": 203280,
+      "name": "as\u00ed no funciona",
+      "url": "https://open.spotify.com/track/3Ucf2vetuD34u1HiKsE3p3"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "2D",
+      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Alta Joya",
         "url": "https://open.spotify.com/album/2WH2HCRoqqL7Vag4wRsSva"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 201200,
       "name": "Alta Joya",
       "url": "https://open.spotify.com/track/1mcW8W3MAKP1daibEnOlRv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "2D",
-      "url": "https://open.spotify.com/track/2ANRO7dJSKAVdtDOOT8VJi"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todo Te Da Igual",
-        "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
-      },
-      "artists": [
-        {
-          "name": "Soy Os",
-          "url": "https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Todo Te Da Igual",
-      "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Desenamor\u00e9",
         "url": "https://open.spotify.com/album/1kwxYhYVUoAqTS5IjBzxpw"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 208755,
       "name": "Me Desenamor\u00e9",
       "url": "https://open.spotify.com/track/2wHPbYYfVrJHHHur6WETtY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Todo Te Da Igual",
+        "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
+      },
+      "artists": [
+        {
+          "name": "Soy Os",
+          "url": "https://open.spotify.com/artist/2J2jJ0c3IzSL7iF3UQ2pDb"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Todo Te Da Igual",
+      "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
     },
     {
       "added_at": null,

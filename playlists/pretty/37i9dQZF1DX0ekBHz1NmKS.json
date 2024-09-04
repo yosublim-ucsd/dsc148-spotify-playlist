@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195589,
+  "num_followers": 195577,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Eddie",
-        "url": "https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn"
-      },
-      "artists": [
-        {
-          "name": "SIV",
-          "url": "https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY"
-        }
-      ],
-      "duration_ms": 157041,
-      "name": "Eddie",
-      "url": "https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Det \u00e4r n\u00e5got i luften",
         "url": "https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K"
       },
@@ -1839,6 +1823,22 @@
       "duration_ms": 181442,
       "name": "Det \u00e4r n\u00e5got i luften",
       "url": "https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Eddie",
+        "url": "https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn"
+      },
+      "artists": [
+        {
+          "name": "SIV",
+          "url": "https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY"
+        }
+      ],
+      "duration_ms": 157041,
+      "name": "Eddie",
+      "url": "https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct"
     }
   ],
   "unique_name": "Made in Sweden",

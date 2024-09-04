@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,541 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 36 | [Natureza](https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [JnrBeats](https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt) | [Natureza](https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd) | 2:24 |
 | 37 | [Não Prometeu Nada](https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf) | [Victor sant's](https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp), [Pivet Panda](https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu), [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW) | [Não Prometeu Nada](https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS) | 2:55 |
 | 38 | [Doce](https://open.spotify.com/track/4RaKNRhCEAWsWysxkPeQUR) | [Dcan](https://open.spotify.com/artist/2bCS9Bu6Kpf2TXQhBbE2bj), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [Doce](https://open.spotify.com/album/5VQ5eJPnq233aCXQuGsGoH) | 2:35 |
-| 39 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
-| 40 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
+| 39 | [Brinca Comigo](https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd) | [RUBY](https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1), [IZRRA](https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV) | [Atitude](https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ) | 3:05 |
+| 40 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
 | 41 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 42 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
 | 43 | [Slow](https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Slow](https://open.spotify.com/album/4ggL80W6aIdxgFyicdQOzl) | 3:06 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Zöelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,671 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,685 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 73 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
 | 74 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
 | 75 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
-| 76 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
-| 77 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
+| 76 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
+| 77 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
 | 78 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
 | 79 | [Ego](https://open.spotify.com/track/5PaDqjS3R3uYYpEfiFhbBb) | [Daniela Milagros](https://open.spotify.com/artist/63rlbkR6zIzPK9AoF1cGLj) | [Ego](https://open.spotify.com/album/1lflT5lvnjKFTIomILkwp1) | 3:10 |
 | 80 | [Girando](https://open.spotify.com/track/5H5izKvNGSzMu1cH5ZuTiI) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Girando](https://open.spotify.com/album/3UZQBVo8ILtP3nHpiikkQM) | 3:31 |
@@ -92,19 +92,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 82 | [Mi Voz](https://open.spotify.com/track/7hP4By4y7vioCgRVZxuBuE) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Mi Voz](https://open.spotify.com/album/7yJRR7UVedkmHG1pzIrkeG) | 3:12 |
 | 83 | [Vengas Conmigo](https://open.spotify.com/track/7r3c0iVuQdV5xrjpJR5iT1) | [Flopa](https://open.spotify.com/artist/4YTUVeo0e98siu66F21HFy) | [Dulce Fuerte Grave](https://open.spotify.com/album/0zhB5QwCFJuqigoick9eHz) | 3:44 |
 | 84 | [Flores Sobre las Piedras](https://open.spotify.com/track/4WzYFb4DuCsBdSxwuc5AnZ) | [Carla Rivarola](https://open.spotify.com/artist/2zx6gMuW2mPXl4WJx4lgGK) | [Flores Sobre las Piedras](https://open.spotify.com/album/2NDbkXbi16sS49LigcSd4n) | 5:02 |
-| 85 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
-| 86 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
+| 85 | [Agitar](https://open.spotify.com/track/3V6CPu5kQ4iRcjngnwgSHe) | [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ) | [Agitar](https://open.spotify.com/album/2rdYalIkT3ijzl7zs69NGZ) | 2:07 |
+| 86 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
 | 87 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
 | 88 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |
 | 89 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
 | 90 | [BANCATE ESE DEFECTO \- Radio Edit](https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [BANCATE ESE DEFECTO \(Radio Edit\)](https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e) | 4:22 |
-| 91 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
+| 91 | [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 |
 | 92 | [Tu Caminar](https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:40 |
-| 93 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
-| 94 | [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 |
-| 95 | [Todo Parece](https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM) | [Samantha Navarro](https://open.spotify.com/artist/42bSW87StWghA8hysIh96X), [Diego Matturro](https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca) | [Éxito](https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b) | 3:09 |
+| 93 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
+| 94 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
+| 95 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
 | 96 | [Vómito](https://open.spotify.com/track/2aFwjkdha1gFCLfPQjUBgG) | [Las Ex](https://open.spotify.com/artist/72XQhTeAhEJOtHVtJ0nZlY) | [Primera Temporada](https://open.spotify.com/album/7LDp2V0KNQGRMSYPByAvYk) | 2:17 |
-| 97 | [Juego](https://open.spotify.com/track/7za0cW9mZQRu0n4HYjd0dl) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Juego](https://open.spotify.com/album/0Ne1rhsv5UKWtR9zF0f1LU) | 3:09 |
+| 97 | [Todo Parece](https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM) | [Samantha Navarro](https://open.spotify.com/artist/42bSW87StWghA8hysIh96X), [Diego Matturro](https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca) | [Éxito](https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b) | 3:09 |
 | 98 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 |
 | 99 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 |
 | 100 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |

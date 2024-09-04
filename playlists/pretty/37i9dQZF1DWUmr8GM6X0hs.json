@@ -1,6 +1,6 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 87536,
+  "num_followers": 87572,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
@@ -859,6 +859,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Me Dices Que Te Vas",
+      "url": "https://open.spotify.com/track/3OYTcBibQjitxy8hMeMTTn"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Lucho Barrios - In Memoriam 1935 - 2010",
         "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
       },
@@ -963,6 +979,22 @@
     {
       "added_at": "2024-06-25 17:49:34",
       "album": {
+        "name": "El Disco de Oro",
+        "url": "https://open.spotify.com/album/1AwKxxu6mqRri6YC2Ia63s"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Cruz",
+          "url": "https://open.spotify.com/artist/3zQZWNtvXSGkESIkW5Bf2L"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Mozo Deme Otra Copa",
+      "url": "https://open.spotify.com/track/4eQp08ROyedetA7cz2fxnc"
+    },
+    {
+      "added_at": "2024-06-25 17:49:34",
+      "album": {
         "name": "Con Alma de Bolero",
         "url": "https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI"
       },
@@ -975,42 +1007,6 @@
       "duration_ms": 220146,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Lucho Barrios - In Memoriam 1935 - 2010",
-        "url": "https://open.spotify.com/album/0VBFqcD3jsclm0q9Ad5NbS"
-      },
-      "artists": [
-        {
-          "name": "Lucho Barrios",
-          "url": "https://open.spotify.com/artist/0THtXVjA70xW4Qk9o2YEYh"
-        }
-      ],
-      "duration_ms": 113652,
-      "name": "Se\u00f1or Abogado",
-      "url": "https://open.spotify.com/track/5b20eSs2NNL7K1MkW5KiWd"
-    },
-    {
-      "added_at": "2024-06-25 17:49:34",
-      "album": {
-        "name": "Cien A\u00f1os",
-        "url": "https://open.spotify.com/album/1qjnoUsmscffVjof5Q8O9A"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 222453,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/5CyehZ1DVKSrvwpntww0Md"
     }
   ],
   "unique_name": "Boleros en Casa",
