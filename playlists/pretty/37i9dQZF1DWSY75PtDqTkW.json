@@ -1,6 +1,6 @@
 {
   "description": "Extra van je vrije tijd genieten voor jong en oud.",
-  "num_followers": 100205,
+  "num_followers": 100207,
   "original_name": "Quality Time",
   "owner": {
     "name": "Spotify",
@@ -3263,6 +3263,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 356733,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "Silk Degrees",
         "url": "https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs"
       },
@@ -3291,22 +3307,6 @@
       "duration_ms": 249960,
       "name": "Walk Of Life",
       "url": "https://open.spotify.com/track/3Ud6fFep5ZlXzRWw6Sm8no"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw"
-      },
-      "artists": [
-        {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
-        }
-      ],
-      "duration_ms": 356733,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3439,22 +3439,6 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Brothers In Arms",
-        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
-      },
-      "artists": [
-        {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
-        }
-      ],
-      "duration_ms": 424000,
-      "name": "Brothers In Arms",
-      "url": "https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
         "name": "Teaser And The Firecat",
         "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
       },
@@ -3467,6 +3451,22 @@
       "duration_ms": 200000,
       "name": "Morning Has Broken",
       "url": "https://open.spotify.com/track/3BqqF8suAIzW8655yJfcvh"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "Brothers In Arms",
+        "url": "https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 424000,
+      "name": "Brothers In Arms",
+      "url": "https://open.spotify.com/track/0CzeAbfKFnxnWjwo5iYiCG"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3487,6 +3487,22 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
+        "name": "Up From Below",
+        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
+      },
+      "artists": [
+        {
+          "name": "Edward Sharpe & The Magnetic Zeros",
+          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+        }
+      ],
+      "duration_ms": 306320,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
       },
@@ -3503,18 +3519,18 @@
     {
       "added_at": "2024-04-01 12:27:42",
       "album": {
-        "name": "Up From Below",
-        "url": "https://open.spotify.com/album/3yfisavFdGTrjFf9Ecpbio"
+        "name": "Celebrate (Greatest Hits)",
+        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
       },
       "artists": [
         {
-          "name": "Edward Sharpe & The Magnetic Zeros",
-          "url": "https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh"
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
         }
       ],
-      "duration_ms": 306320,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/10ViidwjGLCfVtGPfdcszR"
+      "duration_ms": 263973,
+      "name": "Don't You (Forget About Me) - Remastered",
+      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3535,22 +3551,6 @@
       "duration_ms": 231426,
       "name": "This Is Not America - 2002 Remaster",
       "url": "https://open.spotify.com/track/3Tc5BaETZ8E6p1xlSNotzt"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "Celebrate (Greatest Hits)",
-        "url": "https://open.spotify.com/album/7dKQCCQnnkqgRQFxKRDqkJ"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 263973,
-      "name": "Don't You (Forget About Me) - Remastered",
-      "url": "https://open.spotify.com/track/0A4PZuepTcIQVvA5m7R0M1"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3683,6 +3683,22 @@
       "duration_ms": 260586,
       "name": "One",
       "url": "https://open.spotify.com/track/0Y8o2jU3ATJsIuatAhTG5Y"
+    },
+    {
+      "added_at": "2024-04-01 12:27:42",
+      "album": {
+        "name": "The Best Of Tom Jones 20th Century Masters The Millennium Collection",
+        "url": "https://open.spotify.com/album/6TiIQSWfDgwQTg1aycqAsP"
+      },
+      "artists": [
+        {
+          "name": "Tom Jones",
+          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
+        }
+      ],
+      "duration_ms": 119266,
+      "name": "It's Not Unusual",
+      "url": "https://open.spotify.com/track/5Fwif6oyL2EjXAFTGL909U"
     },
     {
       "added_at": "2024-04-01 12:27:42",
@@ -3911,22 +3927,6 @@
       "duration_ms": 217199,
       "name": "About A Girl",
       "url": "https://open.spotify.com/track/2a8pQLSuhloP8ywoy5Or5i"
-    },
-    {
-      "added_at": "2024-04-01 12:27:42",
-      "album": {
-        "name": "The Best Of Tom Jones 20th Century Masters The Millennium Collection",
-        "url": "https://open.spotify.com/album/6TiIQSWfDgwQTg1aycqAsP"
-      },
-      "artists": [
-        {
-          "name": "Tom Jones",
-          "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-        }
-      ],
-      "duration_ms": 119266,
-      "name": "It's Not Unusual",
-      "url": "https://open.spotify.com/track/5Fwif6oyL2EjXAFTGL909U"
     },
     {
       "added_at": "2024-04-01 12:27:42",

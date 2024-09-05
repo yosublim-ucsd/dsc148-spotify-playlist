@@ -1,12 +1,12 @@
 {
-  "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 667957,
+  "description": "This Is Madonna. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 668024,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABGzWoY9fs4pMCj4GDw4roR",
+  "snapshot_id": "ZtZRgAAAAACMeQwczLdxcHY7Uq3oSKQT",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 267345,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hard Candy",
         "url": "https://open.spotify.com/album/1Ms3J8LcSCMH29tG5bSKLu"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 287906,
       "name": "Give It 2 Me",
       "url": "https://open.spotify.com/track/59qPP8coY8EWIQ9nQDThui"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bedtime Stories",
+        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Secret",
+      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
     },
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bedtime Stories",
-        "url": "https://open.spotify.com/album/1saoZHjleM0tAQQoCvpMrB"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/15FcP9qwmIKqaD5NhfhNpu"
+      "duration_ms": 267345,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
     },
     {
       "added_at": null,
@@ -655,26 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Jonathan Pryce",
-          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
-        }
-      ],
-      "duration_ms": 84560,
-      "name": "Your Little Body's Slowly Breaking Down",
-      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Confessions on a Dance Floor",
         "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
@@ -707,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 278135,
-      "name": "You'll See",
-      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
       },
@@ -739,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
       "artists": [
         {
@@ -748,9 +712,29 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 335733,
-      "name": "Don't Cry for Me Argentina",
-      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Jonathan Pryce",
+          "url": "https://open.spotify.com/artist/26fxwQv5dbSx7ow4faauEh"
+        }
+      ],
+      "duration_ms": 84560,
+      "name": "Your Little Body's Slowly Breaking Down",
+      "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"
     },
     {
       "added_at": null,
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 310266,
-      "name": "This Used to Be My Playground",
-      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BREAK MY SOUL (THE QUEENS REMIX)",
         "url": "https://open.spotify.com/album/4xm2wzhAU05Y4dEdj1BO5J"
       },
@@ -811,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MDNA",
-        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
       "artists": [
         {
@@ -820,9 +788,25 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
+      "duration_ms": 310266,
+      "name": "This Used to Be My Playground",
+      "url": "https://open.spotify.com/track/637V2ymBt4Ljlbz4EmRys8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 335733,
+      "name": "Don't Cry for Me Argentina",
+      "url": "https://open.spotify.com/track/0bLRXQaWzmSXRXPmP6JnEF"
     },
     {
       "added_at": null,
@@ -843,8 +827,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Evita: The Complete Motion Picture Music Soundtrack",
-        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+        "name": "MDNA",
+        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
       },
       "artists": [
         {
@@ -852,9 +836,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 78293,
-      "name": "A Cinema in Buenos Aires, 26 July 1952",
-      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
     },
     {
       "added_at": null,
@@ -871,6 +855,22 @@
       "duration_ms": 262626,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/4ixxz1GXB57Q6K2nbR4AwL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Evita: The Complete Motion Picture Music Soundtrack",
+        "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 78293,
+      "name": "A Cinema in Buenos Aires, 26 July 1952",
+      "url": "https://open.spotify.com/track/06x7aT9XWYclduRt6Yab6e"
     },
     {
       "added_at": null,
@@ -911,6 +911,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "American Life",
+        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 279480,
+      "name": "Die Another Day",
+      "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Frozen On Fire",
         "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 192000,
       "name": "Frozen On Fire",
       "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "American Life",
-        "url": "https://open.spotify.com/album/6makHXbA3KBYNlYEPXyFJW"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 279480,
-      "name": "Die Another Day",
-      "url": "https://open.spotify.com/track/7DUpuAzGUyJaJB3p9BC3Ms"
     }
   ],
   "unique_name": "This Is Madonna",

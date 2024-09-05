@@ -1,6 +1,6 @@
 {
   "description": "Porque el coraz\u00f3n habla vallenato. \u00a1Ay ombe!",
-  "num_followers": 131331,
+  "num_followers": 131400,
   "original_name": "Vallenato Rom\u00e1ntico",
   "owner": {
     "name": "Spotify",
@@ -1003,6 +1003,26 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
+        "name": "Celebrando",
+        "url": "https://open.spotify.com/album/2AqL8QyJsL9dB1mLZygptC"
+      },
+      "artists": [
+        {
+          "name": "Beto Zabaleta",
+          "url": "https://open.spotify.com/artist/797OTNZjzrWCZnkRVY1Gtp"
+        },
+        {
+          "name": "Franco Arg\u00fcelles",
+          "url": "https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q"
+        }
+      ],
+      "duration_ms": 322272,
+      "name": "Cuando la Vi",
+      "url": "https://open.spotify.com/track/0sAbSiHZXHdYrUdlbqZOYh"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
         "name": "S\u00f3lo Cl\u00e1sicos - Miguel Morales",
         "url": "https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF"
       },
@@ -1015,22 +1035,6 @@
       "duration_ms": 267186,
       "name": "Que Me Puedas Amar",
       "url": "https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
-        "name": "Versi\u00f3n Original",
-        "url": "https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw"
-      },
-      "artists": [
-        {
-          "name": "Los Diablitos",
-          "url": "https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd"
-        }
-      ],
-      "duration_ms": 266573,
-      "name": "Me Tiraste Al Mar",
-      "url": "https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y"
     },
     {
       "added_at": "2024-03-28 01:45:52",
@@ -1067,22 +1071,6 @@
     {
       "added_at": "2024-03-28 01:45:52",
       "album": {
-        "name": "Volver a Triunfar",
-        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
-      },
-      "artists": [
-        {
-          "name": "Los inquietos del vallenato",
-          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Quiero Saber de Ti",
-      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
-    },
-    {
-      "added_at": "2024-03-28 01:45:52",
-      "album": {
         "name": "Historia Musical",
         "url": "https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o"
       },
@@ -1096,9 +1084,25 @@
           "url": "https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX"
         }
       ],
-      "duration_ms": 306280,
-      "name": "Qui\u00e9reme",
-      "url": "https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe"
+      "duration_ms": 279560,
+      "name": "Muero por Verla",
+      "url": "https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp"
+    },
+    {
+      "added_at": "2024-03-28 01:45:52",
+      "album": {
+        "name": "Volver a Triunfar",
+        "url": "https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk"
+      },
+      "artists": [
+        {
+          "name": "Los inquietos del vallenato",
+          "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Quiero Saber de Ti",
+      "url": "https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg"
     }
   ],
   "unique_name": "Vallenato Rom\u00e1ntico",

@@ -2,9 +2,9 @@
 
 ### [This Is Nanpa Básico](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0EB6q4)
 
-> This is Nanpa Básico\. The essential tracks, all in one playlist.
+> This Is Nanpa Básico\. Los temas esenciales, todos en una lista.
 
-64 songs - 3 hr 47 min
+65 songs - 3 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [Pelinegra](https://open.spotify.com/track/3Huo8FfIN5pph8cwHvgUiM) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Pelinegra](https://open.spotify.com/album/4JuX8uo2Z2hememSjuoOSK) | 3:37 | 2024-08-24 |  |
 | [Penitencia](https://open.spotify.com/track/7aHkSmt0l7xTgCaAYvSZ9L) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM) | 4:06 | 2023-12-30 |  |
 | [Poeta](https://open.spotify.com/track/03vDrY1YnJsfJa6fKp1Onc) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Según Nosotros](https://open.spotify.com/album/6iXZ3BjBZkcELgxks0ijaf) | 3:53 | 2023-12-30 |  |
-| [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 | 2023-12-30 |  |
+| [Prohibida](https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Prohibida](https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD) | 3:26 | 2023-12-30 | 2024-09-05 |
+| [Prohibida](https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Mustang 65'](https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq) | 3:26 | 2024-09-05 |  |
 | [Prototipo](https://open.spotify.com/track/2eDnDmBCMRWiADTOWgVtHR) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Otro Paso a la Locura](https://open.spotify.com/album/1hZRh10fuvCtR4X9CYnUeJ) | 3:48 | 2023-12-30 |  |
 | [Púrpura](https://open.spotify.com/track/1bRrJaO9IHxsx8OY3ly5di) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Púrpura](https://open.spotify.com/album/32Fgx3PGAOXi2F1KtJNmfz) | 3:21 | 2023-12-30 |  |
 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2023-12-30 |  |

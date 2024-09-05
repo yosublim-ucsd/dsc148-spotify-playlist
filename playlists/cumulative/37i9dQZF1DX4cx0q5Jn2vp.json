@@ -1228,7 +1228,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 233728,
       "name": "I Need You More Today",
       "url": "https://open.spotify.com/track/04qDUASuSfVp6fktfsxVej"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 243506,
       "name": "Lumang Gunita",
       "url": "https://open.spotify.com/track/6y2vT4HD1jxx4ak9zAwhWD"
@@ -2111,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "Namumula",
+        "url": "https://open.spotify.com/album/5nS1IYsFBBHe1hZlcbrypc"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174473,
+      "name": "Namumula",
+      "url": "https://open.spotify.com/track/5OAGg2B2BjxzpiEcuzaCkZ"
+    },
+    {
+      "album": {
         "name": "Ni Yao De Ai",
         "url": "https://open.spotify.com/album/0dAg90pgcs9HdH7OzwovWj"
       },
@@ -2162,7 +2180,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 316125,
       "name": "Oh Giliw Ko",
       "url": "https://open.spotify.com/track/1WhbuhFMIV9DzgbNX6JV09"
@@ -2260,6 +2278,28 @@
       "duration_ms": 227370,
       "name": "Pagtingin",
       "url": "https://open.spotify.com/track/7178ubXeY1sFOqdNkKrUwb"
+    },
+    {
+      "album": {
+        "name": "Palagi - TJxKZ Version",
+        "url": "https://open.spotify.com/album/6HKsZL1QL7e2Mp5HGNn6N0"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        },
+        {
+          "name": "KZ Tandingan",
+          "url": "https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "Palagi - TJxKZ Version",
+      "url": "https://open.spotify.com/track/4WgViu9gw3qYOr3iF9OuLG"
     },
     {
       "album": {
@@ -2466,6 +2506,24 @@
       "duration_ms": 240869,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/1GIYbHnooC5s66QG7lmXo7"
+    },
+    {
+      "album": {
+        "name": "Sandal",
+        "url": "https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX"
+      },
+      "artists": [
+        {
+          "name": "James Reid",
+          "url": "https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226421,
+      "name": "Sandal",
+      "url": "https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P"
     },
     {
       "album": {

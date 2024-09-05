@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125842,
+  "num_followers": 125843,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS7n0kQGN2J7LZgiHb8SQHih5ElenG",
+  "snapshot_id": "AAAS8CXPuuzMjeQF5FjstvLAJRa0ah1t",
   "tracks": [
+    {
+      "added_at": "2024-09-04 14:20:11",
+      "album": {
+        "name": "KRUSH TO KILL",
+        "url": "https://open.spotify.com/album/0vmoYVO4xC6kIqLanSE1SK"
+      },
+      "artists": [
+        {
+          "name": "RAIZHELL",
+          "url": "https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq"
+        }
+      ],
+      "duration_ms": 135526,
+      "name": "KRUSH TO KILL",
+      "url": "https://open.spotify.com/track/2i7AEOTjDNil7h3WD3e6ss"
+    },
     {
       "added_at": "2024-09-03 13:36:29",
       "album": {
@@ -1143,22 +1159,6 @@
       "duration_ms": 209538,
       "name": "Reel Me In",
       "url": "https://open.spotify.com/track/0FH2xI17Xj0qkoKrqMZ2df"
-    },
-    {
-      "added_at": "2024-06-12 14:59:06",
-      "album": {
-        "name": "Play It Twice",
-        "url": "https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO"
-      },
-      "artists": [
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        }
-      ],
-      "duration_ms": 160551,
-      "name": "Play It Twice",
-      "url": "https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

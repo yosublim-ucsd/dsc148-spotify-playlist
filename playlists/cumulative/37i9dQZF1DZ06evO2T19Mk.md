@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2T19Mk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2T19Mk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2T19Mk)
 
-### [This Is Fall Out Boy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk)
+### [This Is フォール・アウト・ボーイ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk)
 
-> This is Fall Out Boy\. The essential tracks, all in one playlist.
+> This is フォール・アウト・ボーイ。アーティストの代表曲をひとつのプレイリストに。
 
 76 songs - 4 hr 32 min
 
@@ -59,7 +59,7 @@
 | [Novocaine](https://open.spotify.com/track/5F0bmCjKUufNz1bHXfgRwe) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 3:46 | 2023-12-13 |  |
 | [Of All The Gin Joints In All The World](https://open.spotify.com/track/4304kbwhzhb8A3n6wl27Kg) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:11 | 2023-12-13 |  |
 | [Our Lawyer Made Us Change The Name Of This Song So We Wouldn't Get Sued](https://open.spotify.com/track/73A0DxzMGDhVGsvHQSaaBq) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:08 | 2023-12-13 |  |
-| [Pavlove \- Demo](https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Pavlove \(Demo\)](https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY) | 3:33 | 2023-12-16 |  |
+| [Pavlove \- Demo](https://open.spotify.com/track/73kIi1OijvzVIWP4OhBm7D) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Pavlove \(Demo\)](https://open.spotify.com/album/1iYntUmv88nNeE4zw5xgMY) | 3:33 | 2023-12-16 | 2024-09-05 |
 | [Reinventing the Wheel to Run Myself Over](https://open.spotify.com/track/4tj6uekOEtNOqJJ8BpBP74) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 2:21 | 2024-08-31 |  |
 | [Saturday](https://open.spotify.com/track/423FiDerFgzeEcqKEOmZ81) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:36 | 2023-12-13 |  |
 | [Save Rock And Roll](https://open.spotify.com/track/6SFTYQSczxhBNKR5bYjGMD) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 4:41 | 2023-12-13 | 2024-06-27 |
@@ -69,7 +69,7 @@
 | [Stay Frosty Royal Milk Tea](https://open.spotify.com/track/0hfByzDRgR10HDLqm89lA9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 2:51 | 2023-12-13 |  |
 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 | 2023-12-13 |  |
 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 | 2024-06-19 | 2024-06-21 |
-| [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 | 2023-12-30 | 2024-08-31 |
+| [Tell That Mick He Just Made My List of Things to Do Today](https://open.spotify.com/track/6mCjOSXkABONouTVa6PQOy) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Take This to Your Grave](https://open.spotify.com/album/7l4nnHG7upOnUM4WvAjToY) | 3:30 | 2023-12-30 |  |
 | [The Carpal Tunnel Of Love](https://open.spotify.com/track/6FAUi2Xm6RCF0wpwG8oXGZ) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 | 2024-05-19 | 2024-07-18 |
 | [The Kids Aren't Alright](https://open.spotify.com/track/3x7NGlfDKQYN2wnwEnL7r9) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [American Beauty/American Psycho](https://open.spotify.com/album/022DrG7Wp2PSCwzuD0bSzT) | 4:20 | 2024-05-17 | 2024-07-24 |
 | [The Kintsugi Kid \(Ten Years\)](https://open.spotify.com/track/4p80Y9aDRTdkRkXkuRDFe2) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:55 | 2024-05-10 | 2024-05-27 |

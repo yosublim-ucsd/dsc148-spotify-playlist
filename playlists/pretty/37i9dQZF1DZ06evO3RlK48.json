@@ -1,12 +1,12 @@
 {
-  "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 14761,
+  "description": "This Is MUNA. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 14766,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACjqbh7wpUshlDUkO0RnnCH",
+  "snapshot_id": "ZtZRgAAAAACTm8bnTa3DxNFJlDvk9d9O",
   "tracks": [
     {
       "added_at": null,
@@ -335,18 +335,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At Electric Lady",
-        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
+        "name": "Bad At Letting Go (feat. MUNA)",
+        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
       },
       "artists": [
+        {
+          "name": "Leland",
+          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
+        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 228827,
-      "name": "August - Recorded At Electric Lady Studios",
-      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
+      "duration_ms": 200959,
+      "name": "Bad At Letting Go (feat. MUNA)",
+      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
     },
     {
       "added_at": null,
@@ -399,22 +403,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bad At Letting Go (feat. MUNA)",
-        "url": "https://open.spotify.com/album/06mxBmKzY4C9ILn6aoTFFX"
+        "name": "Live At Electric Lady",
+        "url": "https://open.spotify.com/album/7vDxMTFqAcV8dqaieKLL9T"
       },
       "artists": [
-        {
-          "name": "Leland",
-          "url": "https://open.spotify.com/artist/7dnMXd8vKl0C2NUZvkyd69"
-        },
         {
           "name": "MUNA",
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 200959,
-      "name": "Bad At Letting Go (feat. MUNA)",
-      "url": "https://open.spotify.com/track/1AJx07ntjz0nILoa6M7xEe"
+      "duration_ms": 228827,
+      "name": "August - Recorded At Electric Lady Studios",
+      "url": "https://open.spotify.com/track/4c3YUioV69ajOtvgjYgIE4"
     },
     {
       "added_at": null,

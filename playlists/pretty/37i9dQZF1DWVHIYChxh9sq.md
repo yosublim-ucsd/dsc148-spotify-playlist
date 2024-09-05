@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,861 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,873 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHIYChxh9sq.md) - [plain]
 | 61 | [El Chino](https://open.spotify.com/track/268zPLDFKoXULAX7aFqcE7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [El Chino](https://open.spotify.com/album/6cIC7nXT8crS5Q7XaPPZdo) | 2:47 |
 | 62 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 |
 | 63 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 |
-| 64 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
+| 64 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
 | 65 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 |
 | 66 | [Cielo Nublado Aka Cielo Nevado \- En Vivo](https://open.spotify.com/track/1y4h8u7FJdByH32PCVvXiZ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 3:22 |
-| 67 | [El Del Ice \- Live](https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U) | 3:36 |
+| 67 | [El Del Ice \- Live](https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \- Live](https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U) | 3:36 |
 | 68 | [Una Flor Quise Cortar](https://open.spotify.com/track/6fbbV0S1tDc9msYsgZ23gA) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [Desde Las Vegas](https://open.spotify.com/album/0I8AEABTxLD1OG8uPMCIDB) | 2:33 |
-| 69 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Kikil Caro \(En Vivo\)](https://open.spotify.com/album/029qX4UJEYEw61Hoc9LIuP) | 2:41 |
+| 69 | [Kikil Caro \- En Vivo](https://open.spotify.com/track/2oQSkBN2ug0pLvOkHqtt3J) | [El Rabbanito](https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Kikil Caro \- En Vivo](https://open.spotify.com/album/029qX4UJEYEw61Hoc9LIuP) | 2:41 |
 | 70 | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/track/5wQEqtdGcb7Ap2a50MNRiX) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [El Cabezón \(El Papas Fritas\)](https://open.spotify.com/album/0wpGkyUDlxKZqflYfVWIBL) | 2:29 |
 | 71 | [Bien Belicones \(En vivo\)](https://open.spotify.com/track/6PAUJwzFJgtL6eFZzcg6Ne) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Bien Belicones \(En vivo\)](https://open.spotify.com/album/0lroHqTkfmsxY3OYhRWZda) | 2:30 |
 | 72 | [Tragos Amargos \- Live At Nuevo León México/2009](https://open.spotify.com/track/3vsD7bXY5xQP2GJLAnJ8GA) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Eliseo Robles](https://open.spotify.com/artist/7mK1F4c2VQnHzuoH4wUX2y) | [Desde La Cantina \(Live At Nuevo León México/2009\)](https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy) | 2:58 |

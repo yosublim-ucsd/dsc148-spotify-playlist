@@ -4,7 +4,7 @@
 
 > Deep electronic and organic house sounds, inspired by the folk music of Africa, Latin America and the Middle East.
 
-411 songs - 1 day 20 hr 16 min
+412 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Bananat](https://open.spotify.com/track/69NmsHtvnzA6sMu1bEAFcA) | [Akkan](https://open.spotify.com/artist/2CA2ypghZh6RCxJdPOQ4Ze) | [AKKAN](https://open.spotify.com/album/0M3aMQR1HYyFZgHzqbc9c3) | 4:30 | 2020-12-05 | 2023-01-08 |
 | [Barbazan \- Zigan Aldi Remix](https://open.spotify.com/track/3g3DoR3C4Deg1VJPdIY1N7) | [il Civetto](https://open.spotify.com/artist/337iYuRKw6oyOfxsxRuR0o), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Barbazan](https://open.spotify.com/album/7u8JF1qpvRDoCLzDTo95lB) | 7:21 | 2021-12-17 | 2022-06-12 |
 | [Bayad](https://open.spotify.com/track/1ZbuLf8dUXFUvOcqSw31H0) | [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Bayad](https://open.spotify.com/album/3Lj3O6h25S4JdM1PguWEHA) | 5:12 | 2020-01-01 | 2021-05-08 |
+| [Bayati Shiraz \(feat\. Kenan Bayramli\)](https://open.spotify.com/track/1GRdOrA1Dbc2qvNXIBqdU7) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Kənan Bayramlı](https://open.spotify.com/artist/2wW91AYNfhXggQoKJF6am9) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 3:34 | 2024-09-04 |  |
 | [Beat Cari](https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua) | 5:32 | 2021-02-16 | 2022-08-25 |
 | [Beat Cari](https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Beat Cari](https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B) | 5:32 | 2023-11-14 | 2024-04-19 |
 | [Before the Storm](https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR) | [Santi & Tuğçe](https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC) | [Before the Storm](https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j) | 7:25 | 2021-03-14 |  |
@@ -384,7 +385,7 @@
 | [Twilight in Tankwa](https://open.spotify.com/track/2FRLszWM6EYIiKd5afU5cw) | [Be Svendsen](https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru) | [Twilight in Tankwa](https://open.spotify.com/album/385xHS5jOnedTSH2dPoIiT) | 8:03 | 2019-08-02\* | 2019-09-06 |
 | [Tzantza](https://open.spotify.com/track/2xixdZ2dxE00bX6A6jV17m) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Cantos de Vision](https://open.spotify.com/album/2FFMtf8Log72Ow5A3ExNv5) | 5:50 | 2019-08-02\* | 2019-09-20 |
 | [Uhuru](https://open.spotify.com/track/5gWaO5shjSJ7YXAGoqRx3I) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Los Suruba](https://open.spotify.com/artist/5ChHWvFPh4raexx461QFhS) | [Uhuru EP](https://open.spotify.com/album/2qwxpk3oDnZUKiulgZNeqS) | 6:26 | 2020-06-12 | 2020-06-29 |
-| [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 | 2023-06-30 |  |
+| [Ummo](https://open.spotify.com/track/4MKb3ULfmzOcPpoho89AaJ) | [You Man](https://open.spotify.com/artist/7J7wDWLxbvVQdozTVeNWdp) | [Doors To Shambhala](https://open.spotify.com/album/3P7aWuNA3Sk4BkBztpr8Yr) | 4:31 | 2023-06-30 | 2024-09-05 |
 | [Unataka Nini](https://open.spotify.com/track/4nLNZjlEXZfmJbexOdKblj) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:53 | 2020-11-05 | 2022-11-24 |
 | [Undutu](https://open.spotify.com/track/6OjVy3Ec5pUQM9daiPQ2a4) | [Gazzille](https://open.spotify.com/artist/0RZmj0ZArllOXvKMA768s4), [Super Flu](https://open.spotify.com/artist/5gLRPNOZB4bsB0e2XHJal8) | [Undutu](https://open.spotify.com/album/70wdZ0EBSpvsofEzLXOHLz) | 3:28 | 2020-06-12 | 2021-03-11 |
 | [Unsichtbar \- Behrooz Zandi Remix](https://open.spotify.com/track/6eOmmUyJYl6RrRTT7P0M4S) | [Tiefe Wasser Berlin](https://open.spotify.com/artist/1CB3IMXIZ0RJXC9JRrC7x3), [Behrooz Zandi](https://open.spotify.com/artist/3wDZlcLsCTvZ5e6OaPSQP0) | [Unsichtbar \(Behrooz Zandi Remix\)](https://open.spotify.com/album/0XqcOaBaLYzrYZllSfU2Rr) | 6:10 | 2023-04-20 |  |

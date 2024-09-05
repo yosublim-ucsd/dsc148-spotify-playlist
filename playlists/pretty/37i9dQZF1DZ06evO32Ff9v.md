@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,262 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,308 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 4 | [Gallo Fino](https://open.spotify.com/track/2If3KMEM7GBifXEFuIJhjW) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Gallo Fino](https://open.spotify.com/album/6wMh4EtNMU85BGmGWrYfiq) | 3:09 |
 | 5 | [Sin Parar](https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Sin Parar](https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS) | 2:32 |
 | 6 | [Don Mayo](https://open.spotify.com/track/7m6bPXQpytQk3Iyf5w1tbQ) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Don Mayo](https://open.spotify.com/album/61n5k372HW6UrPqiv9m7g5) | 3:11 |
-| 7 | [El Don Nadie](https://open.spotify.com/track/1fLNqVgfDCngGJIuLu4fAA) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Dos Carnales](https://open.spotify.com/artist/4fixWRS3vXXzNu75pfOfHN) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 3:24 |
-| 8 | [El Gallo Negro](https://open.spotify.com/track/76usisYYCiUistKv5mpWO0) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:03 |
+| 7 | [El Gallo Negro](https://open.spotify.com/track/76usisYYCiUistKv5mpWO0) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 3:03 |
+| 8 | [El Don Nadie](https://open.spotify.com/track/1fLNqVgfDCngGJIuLu4fAA) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Dos Carnales](https://open.spotify.com/artist/4fixWRS3vXXzNu75pfOfHN) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 3:24 |
 | 9 | [La Belikiza](https://open.spotify.com/track/7gJnQLfoixzf5ODwLdIhoj) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [La Belikiza](https://open.spotify.com/album/7HOUdywGr2S6abfhiUxopa) | 3:01 |
 | 10 | [Por Que Te Vas De Mi](https://open.spotify.com/track/2sTtOh2i7bBe7ypfj3GUZ4) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:04 |
 | 11 | [De Que Puedo Puedo](https://open.spotify.com/track/3qnCn9WImrTRRaqIxC6WIN) | [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [De Que Puedo Puedo](https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0) | 2:53 |
 | 12 | [El Tony](https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 1:58 |
-| 13 | [Dicen Que Soy Belicon](https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dicen Que Soy Belicon](https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a) | 3:06 |
-| 14 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
+| 13 | [El Fulano](https://open.spotify.com/track/5WvnjvR7hKpzFbiMORlehl) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Inquietos Del Norte](https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya) | [El Fulano](https://open.spotify.com/album/000CeVlRllkXCfRAt5Ivll) | 2:22 |
+| 14 | [Dicen Que Soy Belicon](https://open.spotify.com/track/1FjWaxfDLfcvJjA5TDZTPc) | [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Dicen Que Soy Belicon](https://open.spotify.com/album/2Qk2i6CreCzTWRIs9B8b8a) | 3:06 |
 | 15 | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/track/0Q5oW0YE1kUmfYFCetQvGz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [3 Hectáreas y Media \(En Vivo\)](https://open.spotify.com/album/3s6AnnMfnUHUVW26oI2wOQ) | 3:25 |
 | 16 | [Vivo Alegre](https://open.spotify.com/track/7v4DwHg2BsIFM5qoxqv2PF) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 2:16 |
 | 17 | [El Gavilan](https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Gavilan](https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 49 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 |
 | 50 | [La Cheyene](https://open.spotify.com/track/1ZBux9Fo2OdW8MEvIiueoP) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Del Cristo](https://open.spotify.com/artist/3BarTzhsrWCqdYdTuHaXiK) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 2:35 |
 
-Snapshot ID: `ZtUAAAAAAABST5VP57GqhvPhunnain6O`
+Snapshot ID: `ZtZRgAAAAACS4jNdO1H3p3XJmOSaS+8P`

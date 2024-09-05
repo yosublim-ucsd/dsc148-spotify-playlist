@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:4drP7GL5gdmNowIgcunWgn\">Obl\u00e9 Reed</a>\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: <a href=\"spotify:artist:1J1pGfTqp5ReVIX8Z1Wzsg\">BabyChiefDoIt</a>\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 89485,
       "name": "& the oscar goes 2",
       "url": "https://open.spotify.com/track/6sVgwiRJB9UrymMZJqqRJe"
@@ -4807,6 +4807,24 @@
     },
     {
       "album": {
+        "name": "Cartoned Milk",
+        "url": "https://open.spotify.com/album/6ltZvbDPjEp5KUDeg6ZWfN"
+      },
+      "artists": [
+        {
+          "name": "RRoxket",
+          "url": "https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180080,
+      "name": "Cartoned Milk",
+      "url": "https://open.spotify.com/track/6I4UFN0FjQgAiZqxySk7rw"
+    },
+    {
+      "album": {
         "name": "Mirrors In A Mausoleum",
         "url": "https://open.spotify.com/album/2gTkZrjyFquglk0gFcUJnu"
       },
@@ -6488,7 +6506,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 179101,
       "name": "Dine & Wine",
       "url": "https://open.spotify.com/track/1b8rGH5gl6XceSf4TwrIgP"
@@ -7766,7 +7784,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 132413,
       "name": "everybody",
       "url": "https://open.spotify.com/track/4BfPAZUK2bUT0dCbNiZoAk"
@@ -9916,7 +9934,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 111133,
       "name": "GOOD GAME",
       "url": "https://open.spotify.com/track/2O26FRYISTWUtCbQFWxAoI"
@@ -11532,6 +11550,24 @@
       "duration_ms": 147368,
       "name": "ICE COLD",
       "url": "https://open.spotify.com/track/16n4AGKAZ2FPN9MCxSfSev"
+    },
+    {
+      "album": {
+        "name": "This Is What You Asked For",
+        "url": "https://open.spotify.com/album/2zQiS72IsIaalhyndYwtTF"
+      },
+      "artists": [
+        {
+          "name": "E the profit",
+          "url": "https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113571,
+      "name": "Ichigo",
+      "url": "https://open.spotify.com/track/6USyAT0lJYDVdP9LXbPjZk"
     },
     {
       "album": {
@@ -14655,6 +14691,24 @@
     },
     {
       "album": {
+        "name": "Abstruse (Deluxe)",
+        "url": "https://open.spotify.com/album/3WGE4jssBqaGr9LHNKGPy9"
+      },
+      "artists": [
+        {
+          "name": "Raq baby",
+          "url": "https://open.spotify.com/artist/2MEiPjmRDl1ftTEaBD3B7D"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127564,
+      "name": "Mars",
+      "url": "https://open.spotify.com/track/6Op63XpB5sQiHnr4Rt7Y7W"
+    },
+    {
+      "album": {
         "name": "maserati",
         "url": "https://open.spotify.com/album/62KiLCDN5uVSg5yx2xbjaN"
       },
@@ -17101,6 +17155,28 @@
     },
     {
       "album": {
+        "name": "nobody knows'",
+        "url": "https://open.spotify.com/album/6bD2NPVB1NeAB5sfGE86lm"
+      },
+      "artists": [
+        {
+          "name": "1st Class",
+          "url": "https://open.spotify.com/artist/5GJyUspxip5Sn1vwjvsgl6"
+        },
+        {
+          "name": "Destin Laurel",
+          "url": "https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "nobody knows'",
+      "url": "https://open.spotify.com/track/1oBUJaCRZXx3jhHoeP1VK0"
+    },
+    {
+      "album": {
         "name": "None of My Business Beloved",
         "url": "https://open.spotify.com/album/3WedJvhKZazYvF7m99g0XJ"
       },
@@ -19440,6 +19516,24 @@
       "duration_ms": 122700,
       "name": "Real One",
       "url": "https://open.spotify.com/track/4yu0UrhFzPEgJ1vTW0P5dp"
+    },
+    {
+      "album": {
+        "name": "Reap the City P2",
+        "url": "https://open.spotify.com/album/6bVIDNzCGQKxvowCVDEcVK"
+      },
+      "artists": [
+        {
+          "name": "YFG FATSO",
+          "url": "https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185129,
+      "name": "Reap the City P2",
+      "url": "https://open.spotify.com/track/5kH2TnSD7jgEzlcSWXRZXl"
     },
     {
       "album": {
@@ -25826,7 +25920,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 220076,
       "name": "What If",
       "url": "https://open.spotify.com/track/7xKOKEyump3QuzGBq3FbEf"

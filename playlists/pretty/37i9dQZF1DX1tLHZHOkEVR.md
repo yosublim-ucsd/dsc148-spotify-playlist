@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 
 > Floor fillers to soundtrack the happiest day of your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,383 likes - 100 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,461 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 71 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/2df5QsXucx4VLiHNGusXD5) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Alegria Y Cosabuena](https://open.spotify.com/album/1Q9ij11CdNvogM0IPG1KNc) | 4:13 |
 | 72 | [Forget You](https://open.spotify.com/track/6zKMARmU2Ue50cucKnIUR6) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(The Platinum Edition\)](https://open.spotify.com/album/3MnOoZGbCDAjLf8jOImSbg) | 3:42 |
 | 73 | [I Say a Little Prayer](https://open.spotify.com/track/7haFcQaoTBr2qY6G0r4JSH) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Soul Queen](https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb) | 3:32 |
-| 74 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:25 |
+| 74 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \- Rerecorded](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
 | 75 | [Keep On Movin'](https://open.spotify.com/track/0mrU1w2UMIZnR2I6oguwGz) | [Five](https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG), [Steve Mac](https://open.spotify.com/artist/78E5Zx38dgv90Q7VN2AplD) | [Invincible](https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG) | 3:17 |
 | 76 | [Steal My Sunshine](https://open.spotify.com/track/1puEUilaw5RSbi3AYnkF8K) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5HSrkpKs0kEhEMuM3ZkG8W) | 4:25 |
 | 77 | [\(Is This The Way To\) Amarillo](https://open.spotify.com/track/2XY4ViIjge2ihN3PSri8wH) | [Tony Christie](https://open.spotify.com/artist/7KK6M2jPylHa6gLbMBI6V0) | [With Loving Feeling](https://open.spotify.com/album/1g9z90QALCotolW8uco6Ii) | 3:13 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tLHZHOkEVR.md) - [plain]
 | 91 | [You Got The Love \- New Voyager Radio Edit](https://open.spotify.com/track/4nQkNmJJWnFIRsbIMeIrlX) | [The Source](https://open.spotify.com/artist/25EAVXsff9L7LHy7UIsPbR), [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [You Got the Love](https://open.spotify.com/album/1HT8FmsDQuWYmkCBVREimB) | 3:13 |
 | 92 | [Roxanne \- Remastered 2003](https://open.spotify.com/track/3FmAUR4SPWa3P1KyDf21Fu) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Outlandos D'Amour \(Remastered\)](https://open.spotify.com/album/3D9JqZG5Q1ptOJr8ZQ0j7I) | 3:11 |
 | 93 | [Livin' On A Prayer](https://open.spotify.com/track/2tyW1uBUnYMKAFEfKDKi9B) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/3gORsZp3xSbkN1ymRNonp1) | 4:10 |
-| 94 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
-| 95 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
-| 96 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 |
-| 97 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |
-| 98 | [What Makes You Beautiful](https://open.spotify.com/track/1QxlG2lGedOmKgSMEDcR8D) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [What Makes You Beautiful](https://open.spotify.com/album/3GkCmaJqWkEvlUU3gOqdSe) | 3:18 |
-| 99 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/3nxlM2DFwij3JVP55yNRya) | 3:15 |
-| 100 | [You Spin Me Round \(Like a Record\)](https://open.spotify.com/track/0BB9eUBBaaX6GALSYNcEp7) | [Dead Or Alive](https://open.spotify.com/artist/5WWSL6rElJeUk3Uc1S2RyD) | [Youthquake](https://open.spotify.com/album/0HEKWtu7St3tKgZDKZsX90) | 3:16 |
+| 94 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/7r5bS08R8d0jZuDZutVeHQ) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/366R23DbfxqjZo6AUBrQjv) | 4:54 |
+| 95 | [Everywhere](https://open.spotify.com/track/6i8ecOsx4J2Px1maiqzqoG) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In The Night](https://open.spotify.com/album/1W5YP0TlKjFtb2UZJThLpV) | 3:42 |
+| 96 | [Wake Me Up Before You Go\-Go](https://open.spotify.com/track/5XsMz0YfEaHZE0MTb1aujs) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Make It Big](https://open.spotify.com/album/0CpBTGH3Eewlbw35IclPdm) | 3:50 |
+| 97 | [Twist And Shout \- Remastered](https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Please Please Me \(Remastered\)](https://open.spotify.com/album/7gDXyW16byCQOgK965BRzn) | 2:35 |
+| 98 | [Let's Dance \- 1999 Remaster](https://open.spotify.com/track/0F0MA0ns8oXwGw66B2BSXm) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(1999 Remaster\)](https://open.spotify.com/album/37KYBt1Lzn4eJ4KoCFZcnR) | 7:37 |
+| 99 | [What Makes You Beautiful](https://open.spotify.com/track/1QxlG2lGedOmKgSMEDcR8D) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [What Makes You Beautiful](https://open.spotify.com/album/3GkCmaJqWkEvlUU3gOqdSe) | 3:18 |
+| 100 | [This Girl \(Kungs Vs\. Cookin' On 3 Burners\)](https://open.spotify.com/track/0tICYNayWWhH9GPeFrfjfD) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Layers](https://open.spotify.com/album/3nxlM2DFwij3JVP55yNRya) | 3:15 |
 
 Snapshot ID: `ZogNlgAAAABRmNxLwNcska3Fl0zdnimF`

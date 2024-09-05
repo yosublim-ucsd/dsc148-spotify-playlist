@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 
 > This is Alejandro Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 804,716 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 804,807 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Ossb6.md) - [plain]
 | 46 | [Es la Mujer](https://open.spotify.com/track/3XZzWPnm0h00FAxiIbTvnd) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Muy Dentro De Mi Corazon](https://open.spotify.com/album/1MjXsi8NTPsYXwjhcbdolj) | 2:58 |
 | 47 | [A Qué Sabe El Olvido](https://open.spotify.com/track/4I4smJ6xLCaLQmNYUTQg9R) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Hecho En México](https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI) | 3:13 |
 | 48 | [Inexperto En Olvidarte](https://open.spotify.com/track/1WvNTYRxyodbQ4NPmO9jKZ) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Inexperto En Olvidarte](https://open.spotify.com/album/4ZBMLo0vXL00kQqp3SeebE) | 3:05 |
-| 49 | [La Tóxica](https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:57 |
-| 50 | [Mentirosos](https://open.spotify.com/track/5P00gBfGxu2SyAD0M8yAMn) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Mi Verdad](https://open.spotify.com/album/1HYorOzh8yVdEsprLTnlyE) | 3:18 |
+| 49 | [Jeré con Z \- Dislexia Creativa \- 09 \- Pedro Cacerola](https://open.spotify.com/track/7v4r6efjfVoZA54VHnca5n) | [Jeré conZ](https://open.spotify.com/artist/7zwr9JDl1jdc3bpfnEYAho), [JorgeGomez](https://open.spotify.com/artist/6UeJZKcnQKv2R503A3PeBo), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dislexia creativa](https://open.spotify.com/album/0hxBCwgjaDwFd6wT0LcTiQ) | 4:09 |
+| 50 | [La Tóxica](https://open.spotify.com/track/6iNS7Co2kw6yhsioGKLMEP) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Te Llevo En La Sangre](https://open.spotify.com/album/3Ub671KoyZe3maF5cz45RU) | 2:57 |
 
-Snapshot ID: `ZtUAAAAAAAAaPMKGEdmUDy6pAj0dlAE4`
+Snapshot ID: `ZtZRgAAAAAC/OHZ0Bwti2Qnxc3TVU7y/`

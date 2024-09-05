@@ -1171,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/4Vb2SuRDHzpmrLH2KJSJmG"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305749,
+      "name": "IV",
+      "url": "https://open.spotify.com/track/5aFjxj67TfCqxztInFyhtp"
+    },
+    {
+      "album": {
         "name": "Risveglio",
         "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
       },
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 313543,
       "name": "LO SPECCHIO",
       "url": "https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi"
@@ -2456,7 +2474,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 302834,
       "name": "VERDE",
       "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"

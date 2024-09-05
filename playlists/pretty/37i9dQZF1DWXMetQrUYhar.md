@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,942 likes - 125 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,948 likes - 125 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 120 | [Seventeen \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6qeP5qZPiycfpOMRvhTJYv) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:55 |
 | 121 | [Want You Back \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1VxuPBPMqgVMAv6NXZFQ3B) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Spotify Singles](https://open.spotify.com/album/1YRHQaixdZLJkUxQ5glsnk) | 4:05 |
 | 122 | [Perfume \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6jPNBp1lDOoLNYm4sd2rWq) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Spotify Singles](https://open.spotify.com/album/7422NfmOW8GffdVQNbM90S) | 2:35 |
-| 123 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
+| 123 | [I Don't Believe In The Sun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/14L3bS2ioklhLCkKS5WQcQ) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 4:09 |
 | 124 | [Easy to be Around \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/47KWyTcNRxu3OYNRFfNCIi) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Spotify Singles](https://open.spotify.com/album/68X345rpDHj4iY6E7pcT6d) | 3:34 |
-| 125 | [I Don't Believe In The Sun \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/14L3bS2ioklhLCkKS5WQcQ) | [Hundred Waters](https://open.spotify.com/artist/108ugtkRFQzP9nGgNiyERO) | [Spotify Singles](https://open.spotify.com/album/7BhKeRmiTdFrmc8hvGk5lb) | 4:09 |
+| 125 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 |
 
 Snapshot ID: `ZUqM0AAAAACIODzIAp3d7PLr7LkAALal`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: Boj
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,217 likes - 85 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,246 likes - 85 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 49 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 |
 | 50 | [Tiny Apartment \(with SAINt JHN\)](https://open.spotify.com/track/23i0NB9OBq8S1Haizx1rQY) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Stubborn](https://open.spotify.com/album/1dfsKiTgOKzA8sLHCNMuKc) | 3:40 |
 | 51 | [Head Start](https://open.spotify.com/track/4N7alCheeoFUxAAKkuTzU5) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [Head Start](https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb) | 2:14 |
-| 52 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
+| 52 | [Love](https://open.spotify.com/track/0uXOQ3Mh3buBmSBV9ZTi0g) | [DUKE.](https://open.spotify.com/artist/3h1Z9rpBcFzTmW47vymTQA), [Tomi Thomas](https://open.spotify.com/artist/1W6kAvOt2N7X3Rta12vPGR), [Thisizlondon](https://open.spotify.com/artist/30SVAanrbFS6o0cIVDZ9ta), [YKB](https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE) | [Love](https://open.spotify.com/album/64U9s10EhvqbUYknglkeNg) | 2:40 |
 | 53 | [OFF](https://open.spotify.com/track/2Jkf8z4byKRKRxKmb93U0D) | [SuperJazzClub](https://open.spotify.com/artist/5CINjDZoikcuTmtw3wgPfp) | [OFF](https://open.spotify.com/album/5bEUic0KdaCrouhSB7HFuY) | 3:08 |
 | 54 | [Unruly](https://open.spotify.com/track/58Wujfnk39NKHNwmEXqGx2) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV) | [Unruly](https://open.spotify.com/album/1oqD64QwyyRfz3h8gWDD1T) | 2:33 |
 | 55 | [Que Sera](https://open.spotify.com/track/0JT39TP99M3D2sA1SdRmdK) | [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Que Sera](https://open.spotify.com/album/09vJd4nTEvLwwhgpOKnbAl) | 2:35 |

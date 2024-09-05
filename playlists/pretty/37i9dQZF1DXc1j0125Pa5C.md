@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 
 > Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Thais Macedo, Amanda Amado, Mannda Lym
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,602 likes - 75 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,694 likes - 75 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1j0125Pa5C.md) - [plain]
 | 70 | [Quem / Deixa Rolar / Homem Perfeito \- Ao Vivo](https://open.spotify.com/track/28Uap5Z1ln3bzEd61lbZGH) | [Billy SP](https://open.spotify.com/artist/4GH92X1Uuv583KVfSiQBxJ), [Cleverson Luiz](https://open.spotify.com/artist/1qsMWW4u7KkD22SErIjogd) | [Na Pagodeira, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/7InArBmaRfYqVlY7oBPvph) | 8:00 |
 | 71 | [Dividido / Malibu \- Ao Vivo](https://open.spotify.com/track/4chQ44wXBumsaTNo3QitAr) | [Fabinho Sou Eu](https://open.spotify.com/artist/4CQPmHby32hOV9vjFHHUJS), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut) | [Dividido / Malibu \(Ao Vivo\)](https://open.spotify.com/album/2N1F5mxROWlLngkSWOPBNU) | 3:48 |
 | 72 | [Clichê / Sobrenome / Amanhã \- Ao Vivo](https://open.spotify.com/track/77ya2SnTsokkD7s2Gq82L1) | [Puro Clima](https://open.spotify.com/artist/0tqBQWnmKCi741dnOHbVkq) | [Pra Quem Não Conhece, Ep\. 01 \(Ao Vivo\)](https://open.spotify.com/album/4NGOlC5CIiLYoLEGI12TEr) | 6:02 |
-| 73 | [Por Favor \(O Que Fazer\) / É Natural / Até Que Enfim \- Ao Vivo](https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Benza Em Brasa \(Ao Vivo\)](https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0) | 6:37 |
+| 73 | [Por Favor \(O Que Fazer\) / É Natural / Até Que Enfim \- Ao Vivo](https://open.spotify.com/track/3vOJANukOHT71TRkoSxauK) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy) | [Benza Em Brasa \- Ao Vivo](https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0) | 6:37 |
 | 74 | [Me Redimir / Preciso Desabafar / Felina \- Ao Vivo](https://open.spotify.com/track/5ZwsfeygdXJEJDxPMyUwSe) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Swing & Simpatia](https://open.spotify.com/artist/07o97MiFEobUUwiIYcspmj) | [DVD Fases Parte 1 \(Ao Vivo\)](https://open.spotify.com/album/1xyir17L6OpZDZzOJAVuwy) | 4:59 |
 | 75 | [Pot\-Pourri: Fernando de Noronha / Mô \- Ao Vivo](https://open.spotify.com/track/0F5c6zkojxAdk0X4qwot69) | [Tiee](https://open.spotify.com/artist/1runhgZ4PyzxBhg0Nrc1F8) | [Ladrão de Coração, Vol\. 2 \(ao Vivo\)](https://open.spotify.com/album/0SivEW9RNGz6yifXU4tvJ2) | 5:02 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,372 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,440 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 87 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
 | 88 | [Fire In The Kitchen](https://open.spotify.com/track/2OXVvNEILOCFxEHEElOHTb) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h) | [Live At The Moody Theater](https://open.spotify.com/album/7fBc5Ge5u6lxKBxqaaU8y8) | 7:06 |
 | 89 | [Goddamn Lonely Love](https://open.spotify.com/track/7ekj86VgKXB5XFTwVYnTQP) | [Drive\-By Truckers](https://open.spotify.com/artist/1rXr1ZnvbRoYBaedIl9v4v) | [The Dirty South](https://open.spotify.com/album/6MaUJWhC6jQJL84AH1MNWy) | 4:59 |
-| 90 | [Midnight Rider](https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back](https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23) | 4:28 |
-| 91 | [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 |
+| 90 | [Keep Your Hands to Yourself](https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx) | [The Georgia Satellites](https://open.spotify.com/artist/2hnzQ6eCFkxUIPsVcsdj8A) | [Rhino Hi\-Five: The Georgia Satellites](https://open.spotify.com/album/2V1agf5NiLNSziJTRSTDcS) | 3:25 |
+| 91 | [Midnight Rider](https://open.spotify.com/track/2I2Z3BMH3wjVVxNHcJG0kO) | [Gregg Allman](https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I) | [Laid Back](https://open.spotify.com/album/5F7PzrH7DqZg1LunR0zL23) | 4:28 |
 | 92 | [Ramblin' Man](https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Brothers And Sisters \(Deluxe Edition\)](https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj) | 4:48 |
 | 93 | [Soulshine](https://open.spotify.com/track/1oHdIbwsw3jJvrIKvZdB2e) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [The Deep End Vol\. 1](https://open.spotify.com/album/3E5cQw3IpyFqCM4VeFnOXR) | 7:47 |
 | 94 | [Mind Bender](https://open.spotify.com/track/3hIvzNXqATvSudLlq1asrC) | [Still Water](https://open.spotify.com/artist/3MmozgkNHOs1TPPnGAgkj9) | [Southern Rock Gold](https://open.spotify.com/album/5idfJulAAtmCL4xoIcTrSN) | 4:16 |

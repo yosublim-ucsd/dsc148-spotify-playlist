@@ -1,12 +1,12 @@
 {
   "description": "New music by Christian Nodal & Estevie, Becky G,  Anuel AA, DannyLux & Jasiel Nu\u00f1ez, Sebastian Yatra and more! Updates every Friday.",
-  "num_followers": 593422,
+  "num_followers": 593446,
   "original_name": "All New Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFb/AAAAAA3CijLW2mBAaG6pdRIDo9T",
+  "snapshot_id": "ZtiLZQAAAAA32LIWXYuJw58iHMkUCf+s",
   "tracks": [
     {
       "added_at": "2024-08-30 05:43:24",
@@ -295,6 +295,22 @@
       "duration_ms": 160312,
       "name": "Drogada de Emociones",
       "url": "https://open.spotify.com/track/7nUWS3PiYx9LmrLKInsLzM"
+    },
+    {
+      "added_at": "2024-09-04 16:31:32",
+      "album": {
+        "name": "Soubad, Vol .1",
+        "url": "https://open.spotify.com/album/54Vo3eSQBgLsxImMPejHoq"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "duration_ms": 142275,
+      "name": "SugarDaddy",
+      "url": "https://open.spotify.com/track/2smpQKz9cYXAgNPez0lqZW"
     },
     {
       "added_at": "2024-08-30 05:43:24",

@@ -4,7 +4,7 @@
 
 > Un poco de esto, un poco de lo otro.
 
-101 songs - 5 hr 56 min
+102 songs - 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [BEACHY \(Play\-N\-Skillz House Remix\)](https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv) | 3:25 | 2023-11-29 | 2024-01-19 |
 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 | 2023-11-29 |  |
 | [Borracho y Loco](https://open.spotify.com/track/6UKDdTM8tTFUFKIbhN2I4R) | [Cach House](https://open.spotify.com/artist/4Ulkh8tuR73CcyXaJ5F8oc), [Conrado](https://open.spotify.com/artist/5SRZIc21bFdo3fRxOaoF9e) | [Borracho y Loco](https://open.spotify.com/album/2pBdRHtvScC3KJyAvlbyRK) | 5:11 | 2024-03-01 |  |
+| [Buenos Aires \(en la cara\)](https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr) | [Olivia Wald](https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0), [Lucca Saettone](https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp), [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL) | [Buenos Aires \(en la cara\)](https://open.spotify.com/album/40Q0V0xD8JZ1ueBT7qlPb3) | 3:14 | 2024-09-04 |  |
 | [Buscando Money](https://open.spotify.com/track/357iDuZ0IXAAg3Aj7UszqO) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl) | 2:30 | 2024-01-25 |  |
 | [Buscando Money](https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ) | [TWENTY SIX](https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P), [Tayson Kryss](https://open.spotify.com/artist/3aIuAAH6qMvKYrtxxF7FF7) | [Buscando Money](https://open.spotify.com/album/2dJSAvaObagSOskW5umnny) | 2:30 | 2024-03-01 | 2024-04-19 |
 | [Bzrp Music Sessions, Vol\. 53 \- Tiësto Remix](https://open.spotify.com/track/22Q0eVNpSUIWG0prN6cVmI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:36 | 2024-03-22 |  |

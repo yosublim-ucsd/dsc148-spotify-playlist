@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 732,918 likes - 103 songs - 4 hr 57 min
+[NCS \(NoCopyrightSounds\)](https://open.spotify.com/user/nocopyrightsounds) - 732,911 likes - 103 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

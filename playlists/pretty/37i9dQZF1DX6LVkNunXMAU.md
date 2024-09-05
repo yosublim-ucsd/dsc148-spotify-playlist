@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Paola Navarrete & Adanowsky.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,385 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,392 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,15 +85,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 75 | [Coquimbo, Mazatlán](https://open.spotify.com/track/6hJ3NOmGfnY11dvwsM2I3Z) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Coquimbo, Mazatlán](https://open.spotify.com/album/44SIr0g0SdQWjxmZSOo6cd) | 4:24 |
 | 76 | [Bailar en la Cuerda Floja](https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII) | [LARÓ](https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri) | [Bailar en la Cuerda Floja](https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra) | 3:41 |
 | 77 | [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 |
-| 78 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 |
-| 79 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 |
+| 78 | [Que Placer](https://open.spotify.com/track/2SS9GnNMqb1ciYOSWLXNAL) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Locomotora](https://open.spotify.com/album/5EGcEvMUKQS4cnJFhlYvvf) | 3:05 |
+| 79 | [Dolor](https://open.spotify.com/track/0chHnBvvMZPlYhu9zng97m) | [Maria Campos](https://open.spotify.com/artist/6MyLptpVK60BMHEDBl1oxu) | [Dolor](https://open.spotify.com/album/6zB720K3Qqm1dpiZPJB60h) | 2:48 |
 | 80 | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/track/2qNkCvTOfJFdXglLsjzwBO) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cuéntanos Lo Que Pasó…](https://open.spotify.com/album/2AqxjpMBlOA9RZx8RWbmju) | 3:02 |
 | 81 | [En una](https://open.spotify.com/track/0JljvMGjWcpbKY5pultmMb) | [Camila Buch](https://open.spotify.com/artist/0FthFdbx8Sjiz5niqeLygV), [Mora Navarro](https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx) | [En una](https://open.spotify.com/album/0ksnp7Yvn8AqWXAyhiZLD1) | 3:39 |
 | 82 | [Ya No Era Felíz](https://open.spotify.com/track/7mTfMbGpBMZQE3pE9cyndg) | [María Colores](https://open.spotify.com/artist/6VQxtEeYFtNENvE6Qsvlan), [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG) | [Ya No Era Felíz Contigo](https://open.spotify.com/album/2MMrxUtCssjTgQr1NHigS5) | 3:08 |
 | 83 | [No Ves Tal Vez](https://open.spotify.com/track/4vKh9YiqQQQHq7Bn2IdNbN) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy) | [No Ves Tal Vez](https://open.spotify.com/album/3C4Cqb16lrZSpFoc772AIv) | 3:29 |
 | 84 | [El rey del yuyal](https://open.spotify.com/track/37q1oUFGyp0Uh8L8kArkym) | [Pensé que era viernes](https://open.spotify.com/artist/4ItV8u3CWrnoo4D8JEHXk1) | [El rey del yuyal](https://open.spotify.com/album/3YmKNf3CiCG381ZvxJwkCk) | 2:54 |
-| 85 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 |
-| 86 | [hoy me desperté así \- v\. 02](https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [plasti bonus track](https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS) | 3:22 |
+| 85 | [hoy me desperté así \- v\. 02](https://open.spotify.com/track/3NlTGKhMil22mpMwxKL99N) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9), [Acus](https://open.spotify.com/artist/39DDfcoTv0v0HoZY1ZoPWp) | [plasti bonus track](https://open.spotify.com/album/1XVWDJkUFe03SpQDDN8DTS) | 3:22 |
+| 86 | [Lo Que Hicimos](https://open.spotify.com/track/0sCce9Byqxnaj763s0RaWf) | [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Sónico Vivo](https://open.spotify.com/artist/4gKGHKgKXprf8kvRCmcrpe) | [Lo Que Hicimos](https://open.spotify.com/album/5M7QbPWs7IZbZ7GgwucHwh) | 2:37 |
 | 87 | [Azul](https://open.spotify.com/track/7jUG0DPV7K1r0gHBvF6BFz) | [Luciana Tagliapietra](https://open.spotify.com/artist/1Q3Ba3dBArHD2RV4SpROOk), [Santiago Motorizado](https://open.spotify.com/artist/1ldpEB62bhHdKBLnaYYLvs) | [Azul](https://open.spotify.com/album/7xmxWuzUa907hkQYL64jJD) | 2:50 |
 | 88 | [Un Nuevo Ritmo](https://open.spotify.com/track/33D7MHDLCtY3lhDkaEtNe9) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Un Nuevo Ritmo](https://open.spotify.com/album/3F2ROcUUuqyFDMAe5WmYr2) | 3:33 |
 | 89 | [Ya Se Fue](https://open.spotify.com/track/6JQ3tU4PwJr51FW9YRKq43) | [Gonzalo Brancciari](https://open.spotify.com/artist/2kvcov0e0ppYAVU5NywB2x) | [Ya Se Fue](https://open.spotify.com/album/6SFW7nOwBJK61hJLnfU2PX) | 2:50 |

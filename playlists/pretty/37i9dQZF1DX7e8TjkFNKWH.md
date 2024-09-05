@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,141,137 likes - 150 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,141,629 likes - 150 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

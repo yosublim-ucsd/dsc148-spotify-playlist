@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This is Dharius\. The essential tracks, all in one playlist.
+> This Is Dharius\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,053 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,108 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 49 | [Polvo Blanco](https://open.spotify.com/track/0pLOQYM1WMrlNtQedapWTM) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [Tiro Loko](https://open.spotify.com/artist/4Y5HJP3oFOJ8UVBXHYWBgx) | [Cuando Todo Acaba](https://open.spotify.com/album/1lSYxwcLpWyqM7pD5N1fAU) | 4:29 |
 | 50 | [WARZONE FREESTYLE](https://open.spotify.com/track/3cXHViSCDDH5m4tWJa2VjI) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [WARZONE FREESTYLE](https://open.spotify.com/album/4IKnvsfuxWYGJIaVUkwC2P) | 3:16 |
 
-Snapshot ID: `ZtUAAAAAAABoWqRfaFihTFepZ3S/iLN3`
+Snapshot ID: `ZtZRgAAAAAApVwdYCc7QFJTWxNBFEp5o`

@@ -6,7 +6,7 @@
     "name": "Digster Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAhLN0VMZr+WlArCQEHYrumX/tsph5T",
+  "snapshot_id": "AAAhLnThrxTKryw7PUC8iCp1tiOcvOKX",
   "tracks": [
     {
       "added_at": "2024-09-03 13:32:18",
@@ -123,6 +123,30 @@
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/4VQO1UdVIecQqB49PlANHz"
+    },
+    {
+      "added_at": "2024-09-04 22:44:20",
+      "album": {
+        "name": "GO AGAIN (feat. Superheaven)",
+        "url": "https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z"
+      },
+      "artists": [
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 214046,
+      "name": "GO AGAIN (feat. Superheaven)",
+      "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
     },
     {
       "added_at": "2024-09-03 13:32:18",

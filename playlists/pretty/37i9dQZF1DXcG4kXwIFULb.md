@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,987 likes - 100 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,074 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 82 | [Lonely Soul](https://open.spotify.com/track/2HHC3GxRY2SxqRn6v6TvXX) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC), [Richard Ashcroft](https://open.spotify.com/artist/1HGTHrRQkw0BtevSo1jucU) | [Psyence Fiction](https://open.spotify.com/album/6Dxx0vxLQ83LK1PMZezlcY) | 8:53 |
 | 83 | [Peacock Tail](https://open.spotify.com/track/2HHAxkrJbuWZ7JWdxYbsWO) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 5:24 |
 | 84 | [Just Chillin'](https://open.spotify.com/track/41YJJAO78aMWy1puye2sUH) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5) | [SB1](https://open.spotify.com/album/1p1w828sU7QewePqhfZKwh) | 2:14 |
-| 85 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 |
-| 86 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
+| 85 | [Sweet Tides](https://open.spotify.com/track/5IapIlqooJJ0CmJmrEY8Ir) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [Radio Retaliation](https://open.spotify.com/album/7JK0l9nae3EcV6C1lz4LlG) | 4:48 |
+| 86 | [Porcelain](https://open.spotify.com/track/3cYgOAFB1HAUhC7b7U8viI) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: The B Sides](https://open.spotify.com/album/0t4ItMJbYMYLzvEO7tzt0B) | 4:01 |
 | 87 | [Riders On the Storm](https://open.spotify.com/track/3tYOKwQBtYebD0XPbY2vQ6) | [Yonderboi](https://open.spotify.com/artist/4hi7BCJEn3xCR3VRZU1Ek7) | [Shallow and Profound](https://open.spotify.com/album/0gvbUOhSJofzDL1DE9uWZq) | 4:19 |
 | 88 | [Flip Ya Lid](https://open.spotify.com/track/5ftamIDoDRpEvlZinDuNNW) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [In A Space Outta Sound](https://open.spotify.com/album/76IdrUoD3S7mXFww6H78Cf) | 5:24 |
 | 89 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/4xEPVHiIpSVXrQYfMViux3) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/2KtW863zWF7TCoaSgRRNKX) | 4:12 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 92 | [Love Will Tear Us Apart](https://open.spotify.com/track/6kVauIy0iOT2u1Gs8TBIqJ) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0) | [Nouvelle Vague](https://open.spotify.com/album/4eTJmNY6X5VJ0v8d0x0lkh) | 3:18 |
 | 93 | [Lebanese Blonde](https://open.spotify.com/track/488E8BWYDCDrL6vunOAzPy) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Mirror Conspiracy](https://open.spotify.com/album/12PENKuzKH3r1Kv2rlCjZn) | 4:50 |
 | 94 | [Night over Manaus](https://open.spotify.com/track/5E80SdB1TAjgZqX5t6D3Fa) | [Boozoo Bajou](https://open.spotify.com/artist/2I36EjIVz3vDfROgj1MfZ3) | [Satta](https://open.spotify.com/album/33EJ6lZ0aQ6uYFnac5F5Xq) | 6:19 |
-| 95 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
-| 96 | [Chun Li vs\. Wah Wah Man](https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 2:59 |
-| 97 | [No Competition](https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Abstract Manifesto](https://open.spotify.com/album/5fQRlwuPBxtmq2pK9tR8y6) | 5:58 |
+| 95 | [Six Underground \- Nellee Hoopers Edit](https://open.spotify.com/track/6Ui2yvA0D5bXxZiPFWd47y) | [Sneaker Pimps](https://open.spotify.com/artist/1EJWNhiYbOyeUHbsS7Kp1P) | [Six Underground](https://open.spotify.com/album/1W9Wlg9utd4h70fgitFbM2) | 3:54 |
+| 96 | [Nights Introlude](https://open.spotify.com/track/3SpXpcG603AqfxhJ6l4uzk) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/2kXJwEYQw7WD8cz8VAAcHm) | 4:40 |
+| 97 | [Chun Li vs\. Wah Wah Man](https://open.spotify.com/track/52vZ4NsPjq9LQMLwfushzh) | [London Funk Allstars](https://open.spotify.com/artist/2NTMckStRtgsN3A6LacOR6) | [London Funk Volume 1](https://open.spotify.com/album/3mwJkbOsAEobKg21Ad5bMa) | 2:59 |
 | 98 | [Until The Morning](https://open.spotify.com/track/20F3FcES8KU4kffMCkFgNN) | [Thievery Corporation](https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3) | [The Richest Man In Babylon](https://open.spotify.com/album/7qJaVqhgiBtPLb9MOzwmZA) | 3:56 |
-| 99 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
-| 100 | [Sign](https://open.spotify.com/track/5YNMjGLMY3JvuCFd9FLdcc) | [Coldcut](https://open.spotify.com/artist/5wnhqlZzXIq8aO9awQO2ND) | [Cold Krush Cuts](https://open.spotify.com/album/2pIjSXfVTFQsoSGKrtqF8B) | 6:14 |
+| 99 | [No Competition](https://open.spotify.com/track/1sXmkVWZHCkj76FcHh3rIL) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Abstract Manifesto](https://open.spotify.com/album/5fQRlwuPBxtmq2pK9tR8y6) | 5:58 |
+| 100 | [Sunny Road](https://open.spotify.com/track/5dcfP0DYH5SDeizgbHZop6) | [Emilíana Torrini](https://open.spotify.com/artist/08j69Ndyx1P7RLO3Janb5P) | [Fisherman's Woman](https://open.spotify.com/album/7kqYf6dpsDgxm61go96hwp) | 3:04 |
 
 Snapshot ID: `ZpFVWQAAAAAjHONao7a3cZvzUjsRpDdv`

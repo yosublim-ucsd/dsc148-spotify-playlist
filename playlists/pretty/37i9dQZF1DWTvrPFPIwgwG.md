@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Fernanda Brum
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,458 likes - 85 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,576 likes - 85 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

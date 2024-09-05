@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,095,860 likes - 75 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,096,831 likes - 75 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,12 +32,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 22 | [Meu Sonho](https://open.spotify.com/track/1dGxOpMQknNgkD5d9BCObF) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Meu Sonho](https://open.spotify.com/album/2uol5nnCAv9RHeadO2TRoJ) | 2:37 |
 | 23 | [Promessas \(Promises\) \- Ao Vivo](https://open.spotify.com/track/3KVF4VK0Kclakez9LCGYga) | [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Promessas \(Promises\) \[Ao Vivo\]](https://open.spotify.com/album/6Bm010xs1prbkP2bVbKPFj) | 5:47 |
 | 24 | [Yeshua](https://open.spotify.com/track/7mwHk3vhKoVuzJxPFCjoRY) | [Casa Worship](https://open.spotify.com/artist/4bqKmu3kRUl6X7pTl1CuVs), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [MOVER](https://open.spotify.com/artist/0wNTBKHmaWnXfxiPbdvi2m) | [Momentos](https://open.spotify.com/album/7MRDs01RHDgPcEq4PbLQLX) | 8:42 |
-| 25 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \- Ao Vivo](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 |
-| 26 | [Tua Graça Me Basta](https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Tua Graça Me Basta](https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB) | 7:19 |
-| 27 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 |
-| 28 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 |
-| 29 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 |
-| 30 | [Mesmo Sem Entender](https://open.spotify.com/track/6KDsJnkSLvgIKgDxLa2fza) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/3ZkRPxfzYbUmPEEpAmJkT8) | 3:40 |
+| 25 | [Mesmo Sem Entender](https://open.spotify.com/track/5A2PGUJvo4euS7n6Bu6C9u) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Saudade, Vol\. 1](https://open.spotify.com/album/7AJY52qnMHN6z1xn1F0isE) | 3:40 |
+| 26 | [Azeite \(Ao Vivo\)](https://open.spotify.com/track/2ZfhftG3iFfUEdb7tpMlsz) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Tetelestai \- Ao Vivo](https://open.spotify.com/album/0S9BqWyHtqkfR1MdAwAIlj) | 4:32 |
+| 27 | [Tua Graça Me Basta](https://open.spotify.com/track/22qTwnv9sDRqauI3txYUSf) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Tua Graça Me Basta](https://open.spotify.com/album/4TfEJhEc8zjkdkp6HHEuhB) | 7:19 |
+| 28 | [Ruja o Leão / Que Se Abram Os Céus \- Ao Vivo](https://open.spotify.com/track/36OnXKUU9pAKRYs9jfusbl) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Ruja o Leão / Que Se Abram Os Céus \(Ao Vivo\)](https://open.spotify.com/album/4PSU1YDNjWdpb4xErJpQRt) | 7:34 |
+| 29 | [Bondade de Deus](https://open.spotify.com/track/4VvsTSxSSAu8IRBpt3iDMR) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Bondade de Deus](https://open.spotify.com/album/5EVe9B2vKWnDOOnHV6Qklx) | 6:15 |
+| 30 | [Por Causa Dele \- Ao Vivo](https://open.spotify.com/track/3fpsR525Hmk4eBm5wfJIQW) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Por Causa Dele](https://open.spotify.com/album/6tYiLNL7m3QtrGfFb4h0Y4) | 5:52 |
 | 31 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 |
 | 32 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/1Uan5GD1uZ1b6ivgt7ODsp) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Deus e Eu \(Ao Vivo\)](https://open.spotify.com/album/5J8hASVOsKFLqaQin10oab) | 3:59 |
 | 33 | [É Ele](https://open.spotify.com/track/4yEKHiUQA70cjfWnEL2m13) | [Drops INA](https://open.spotify.com/artist/0KKcTiB0jc5ZWK1a0JfuUh) | [É Ele](https://open.spotify.com/album/7KlZpsjIMUEPApVyY7RC1h) | 8:15 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Sua Presença \- Ao Vivo](https://open.spotify.com/track/29ZrGQad8homm9iN5mZQlp) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Sua Presença \(Ao Vivo\)](https://open.spotify.com/album/4jQtPIEe62yNvp8Z1sGKt4) | 5:14 |
 | 75 | [Abre os Selos \- Ao Vivo](https://open.spotify.com/track/2b0UBZsCXF1fsJ2tClZPdh) | [Nívea Soares](https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk) | [Abre os Selos \(Ao Vivo\)](https://open.spotify.com/album/4atSKWPnxosi6GAs40GEvl) | 7:54 |
 
-Snapshot ID: `ZtE17AAAAADmYnHQYHJlV6El4eUrA3Pu`
+Snapshot ID: `Ztir2wAAAABDQ8ERf5fjsKZ9zbZqDbOM`

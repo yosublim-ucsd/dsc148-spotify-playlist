@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 
 > ¡Asadito a pura cumbia con toques de cuarteto!
 
-[Spotify](https://open.spotify.com/user/spotify) - 564,022 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,284 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyLwMSMFLA4.md) - [plain]
 | 9 | [Inocente](https://open.spotify.com/track/6gV8ALkSHfJi7Bprabr1FC) | [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [Inocente](https://open.spotify.com/album/1IwuM5jEXE9v58NVKUyrwk) | 2:51 |
 | 10 | [Piel](https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Piel](https://open.spotify.com/album/4HB0tHV2edhM1QJXFYeKLy) | 2:21 |
 | 11 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
-| 12 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 |
+| 12 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \- En Vivo](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 |
 | 13 | [Te Mentiría](https://open.spotify.com/track/3H0PlcSmQ6z4DDCBFkD7Wx) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R) | [Te Mentiría](https://open.spotify.com/album/1thSmmjUCLb5T39zktUUae) | 3:38 |
 | 14 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/6jRZ33ifS5VOTMwmPxhPhN) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/album/2Tuphpb4jfXRwFYTxGXCSs) | 3:24 |
 | 15 | [Loquita \- Remix](https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Los Turros](https://open.spotify.com/artist/6QVEWdYtBkaJcboEtH5FeB), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Cristian Di Marco](https://open.spotify.com/artist/1NtRGHzfJ8H7dENIXu1tdk) | [Loquita \- Remix](https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp) | 3:29 |

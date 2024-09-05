@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Traileros Del Norte. Los temas esenciales, todos en una lista.",
-  "num_followers": 25499,
+  "description": "This is Los Traileros Del Norte. The essential tracks, all in one playlist.",
+  "num_followers": 25501,
   "original_name": "This Is Los Traileros Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACoTcBiwkBhzDc0m7vI88gf",
+  "snapshot_id": "ZtZRgAAAAACJ+dRlNo3xRJzXHVY85VhL",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Tu Amigo Ni Tu Amante",
-        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 159146,
-      "name": "Ni Tu Amigo Ni Tu Amante",
-      "url": "https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Palabras Tristes",
         "url": "https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 190813,
       "name": "Mary Lee",
       "url": "https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Tu Amigo Ni Tu Amante",
+        "url": "https://open.spotify.com/album/71FVSUhY9SHjYXYr0DePhJ"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 159146,
+      "name": "Ni Tu Amigo Ni Tu Amante",
+      "url": "https://open.spotify.com/track/2SeZ4jqXC5gFGaMrIDJOr2"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
-        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
-      },
-      "artists": [
-        {
-          "name": "Los Traileros Del Norte",
-          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
-        }
-      ],
-      "duration_ms": 183466,
-      "name": "Islas Mar\u00edas",
-      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rosas Blancas",
         "url": "https://open.spotify.com/album/6K3skX1EmX7Dn56MjhnuC8"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 158573,
       "name": "Trigue\u00f1ita De Ojos Negros",
       "url": "https://open.spotify.com/track/7hrTjTBC0xfBBmeepiTyng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Abeja Reina (Cl\u00e1sicos Digitalizados)",
+        "url": "https://open.spotify.com/album/6BnRsg4J1Y3HQsJlcrwEZi"
+      },
+      "artists": [
+        {
+          "name": "Los Traileros Del Norte",
+          "url": "https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37"
+        }
+      ],
+      "duration_ms": 183466,
+      "name": "Islas Mar\u00edas",
+      "url": "https://open.spotify.com/track/1qNXN1U7whKkdvQciiiFU8"
     },
     {
       "added_at": null,

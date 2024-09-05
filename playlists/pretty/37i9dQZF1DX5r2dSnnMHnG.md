@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 
 > 벚꽃이 흩날리고 새싹이 피어오르는 봄의 설레임을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,151 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,154 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5r2dSnnMHnG.md) - [plain]
 | 62 | [Spring illusion](https://open.spotify.com/track/23AfR0HzE468s6NcPqSGQn) | [YEWON](https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0) | [Spring illusion](https://open.spotify.com/album/0IsKfvMDp1i8iOa0LzZS68) | 3:03 |
 | 63 | [Love is You](https://open.spotify.com/track/1wtmCl6XTMaJVQmHpVI4Gu) | [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [Love is You](https://open.spotify.com/album/208XzKaQPMlzkOimZbCG9E) | 2:41 |
 | 64 | [Wish](https://open.spotify.com/track/3vvJdhNvwogyNhmgaGONZw) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry) | [Wish](https://open.spotify.com/album/7DagjiIwCFeivyBSZYTsy7) | 3:11 |
-| 65 | [the 24th spring](https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk) | [jeong min joo](https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk) | [the 24th spring](https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP) | 4:01 |
-| 66 | [Night thinking 'bout you](https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [Night thinking 'bout you](https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam) | 3:41 |
+| 65 | [Night thinking 'bout you](https://open.spotify.com/track/42m5jkIH5GzWdZM1V9JJQs) | [CITI](https://open.spotify.com/artist/18Ddi2iVxvOlH08AZrP0PE) | [Night thinking 'bout you](https://open.spotify.com/album/3b4Ruv48lyKdWpWDHHHAam) | 3:41 |
+| 66 | [the 24th spring](https://open.spotify.com/track/2y9J8vIBmsrZDBMIpySIMk) | [jeong min joo](https://open.spotify.com/artist/5opiWhQPSyQQQ3wcuim5dk) | [the 24th spring](https://open.spotify.com/album/3iOEyEwC6NogLMgjQ9gKWP) | 4:01 |
 | 67 | [The Season Of You](https://open.spotify.com/track/1Lb7mJc6hxkCEiFnKGWoKG) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:59 |
 | 68 | [Bygones at night](https://open.spotify.com/track/6WvGNtdslqyHl8rYTxCyPk) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Bygones at night](https://open.spotify.com/album/4sFVw84S0iMunYWJrcMUQA) | 3:55 |
 | 69 | [Stay With Me \(feat\. Brick\)](https://open.spotify.com/track/3hMhTQuyerdLRPATMY61CR) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Stay With Me](https://open.spotify.com/album/7wHGPtZKJIvgTGW4RkQakm) | 3:04 |

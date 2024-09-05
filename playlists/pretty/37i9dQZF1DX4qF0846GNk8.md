@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15?si=E98dgI\_sTCS\_UWSXKusF4A"> مجدي الزهار </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,300 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,001 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

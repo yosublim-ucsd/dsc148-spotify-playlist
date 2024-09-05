@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 
 > Ný tónlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,100 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,099 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 10 | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/track/0XG0M7286ZdcOflyehbXmS) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Vivo Por Ella \(feat\. KAROL G\)](https://open.spotify.com/album/57WjrGotxjy4Wh2CEHZSMl) | 4:24 |
 | 11 | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Summer Drop \(feat\. Anderson .Paak\)](https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU) | 2:48 |
 | 12 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 |
-| 13 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 13 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 14 | [Dafodil](https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Kelsey Lu](https://open.spotify.com/artist/0fEfMW5bypHZ0A8eLnhwj5), [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Dafodil](https://open.spotify.com/album/2lg6Q82rLglSMu4JkvnHDb) | 3:32 |
 | 15 | [Song Of The Lake](https://open.spotify.com/track/7kN3xKqRtMQEnhxCK5d5Ih) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf) | 3:36 |
 | 16 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvNG1v6uWvH.md) - [plain]
 | 92 | [Want Me Dead](https://open.spotify.com/track/4o7vtj953aOapFCrM83odl) | [drea](https://open.spotify.com/artist/5uAxEwTjRGgSqL1NkSROTM) | [Want Me Dead](https://open.spotify.com/album/2lEmhiDE29p2OzX3pQ7sRZ) | 2:55 |
 | 93 | [Weak](https://open.spotify.com/track/7IoOgmEwcj8Cj6dTDHQ2IC) | [NEA EINI](https://open.spotify.com/artist/5d9OWj9gEcEXkTsILdZg0S) | [Weak](https://open.spotify.com/album/18k9auOfMZJfLSklwRp9yh) | 3:48 |
 | 94 | [Welcome Vault Dweller](https://open.spotify.com/track/6PbzX87NCEt6LMv5hJJUsW) | [Victor Lundberg](https://open.spotify.com/artist/3aPt0ITiKD1r1GXV3RvOUh) | [Welcome Vault Dweller](https://open.spotify.com/album/0XdSMs09mpVlpRUeXAwCk4) | 3:34 |
-| 95 | [Komast heim](https://open.spotify.com/track/5u2NwvkMeFTbBthI2BqjO2) | [Sigurður Guðmundsson](https://open.spotify.com/artist/0j0YjzQLf57Dc9tpehBDdU), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Komast heim](https://open.spotify.com/album/5uRQ7iqbVROfh5wBrGxPeH) | 3:53 |
-| 96 | [Reel In](https://open.spotify.com/track/1AHGXiFb6btyUIeSHq4hlm) | [Luthersson](https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109) | [Reel In](https://open.spotify.com/album/0KN00sGJ5NPc9jZBWFVZTX) | 3:04 |
-| 97 | [SURFACE](https://open.spotify.com/track/0h1TVMjWbU6Q4SwylIGcHw) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 1:45 |
-| 98 | [Hollystick](https://open.spotify.com/track/2mRDr2ck0kXO70egbIErQT) | [Kahnin](https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL) | [Hollystick](https://open.spotify.com/album/5rKN77AODf9gxQGPWapnqM) | 4:09 |
+| 95 | [Reel In](https://open.spotify.com/track/1AHGXiFb6btyUIeSHq4hlm) | [Luthersson](https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109) | [Reel In](https://open.spotify.com/album/0KN00sGJ5NPc9jZBWFVZTX) | 3:04 |
+| 96 | [Komast heim](https://open.spotify.com/track/5u2NwvkMeFTbBthI2BqjO2) | [Sigurður Guðmundsson](https://open.spotify.com/artist/0j0YjzQLf57Dc9tpehBDdU), [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Komast heim](https://open.spotify.com/album/5uRQ7iqbVROfh5wBrGxPeH) | 3:53 |
+| 97 | [Hollystick](https://open.spotify.com/track/2mRDr2ck0kXO70egbIErQT) | [Kahnin](https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL) | [Hollystick](https://open.spotify.com/album/5rKN77AODf9gxQGPWapnqM) | 4:09 |
+| 98 | [SURFACE](https://open.spotify.com/track/0h1TVMjWbU6Q4SwylIGcHw) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [My Heart Weighs A Ton](https://open.spotify.com/album/3ZrDgzyEV7A1rwsXPeEFOC) | 1:45 |
 | 99 | [MYTHOLOGY \- VVV \[Trippin'you\] Remix](https://open.spotify.com/track/4MXNt72gdwySamw9cp5gbY) | [Xiupill](https://open.spotify.com/artist/7A4lk7YkhOKFzcuVfWoTlB), [VVV \[Trippin'you\]](https://open.spotify.com/artist/7tszuN9emjCCsC7kccXTFU) | [MYTHOLOGY REBORN](https://open.spotify.com/album/2LmDOk3xw79jOL6Ydxoaq8) | 4:33 |
-| 100 | [Meyjan](https://open.spotify.com/track/2KVkFvyPhUNcsFFx3yn6Cv) | [Iðunn Einars](https://open.spotify.com/artist/5hwL04760a7qDuB5jJt9Uh) | [Meyjan](https://open.spotify.com/album/42bxkmwIj8gpyQNiDEs0Tn) | 3:33 |
+| 100 | [Stay The Same](https://open.spotify.com/track/0dKT5uBZHwButbQhbNn7n0) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Stay The Same](https://open.spotify.com/album/04K2gCjYdFVvhNdHez1smw) | 3:24 |
 
 Snapshot ID: `ZtVqgwAAAAAANYZitF0fZJbIFq+mscGI`

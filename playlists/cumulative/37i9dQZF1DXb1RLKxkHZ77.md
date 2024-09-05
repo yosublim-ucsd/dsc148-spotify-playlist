@@ -2,9 +2,9 @@
 
 ### [Carta Malaysia 50](https://open.spotify.com/playlist/37i9dQZF1DXb1RLKxkHZ77)
 
-> Lagu\-lagu yang terbaik di Malaysia\. Cover: Haqiem Rusli
+> Lagu\-lagu yang terbaik di Malaysia\. Cover: Aina Abdul, Fabio Asher
 
-519 songs - 1 day 8 hr 44 min
+520 songs - 1 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Gambar Dan Kenangan](https://open.spotify.com/track/4wbrkz0CyQhMFVTXpGGwo8) | [Reedzwann](https://open.spotify.com/artist/4w9Ukwue8Yj5zmMGPd1jok) | [Gambar Dan Kenangan](https://open.spotify.com/album/0agOzLYAiWUbo36rCzaEzy) | 4:35 | 2024-07-17 | 2024-08-15 |
 | [Gatal](https://open.spotify.com/track/4GdO5TJoymMcrAZaf2jOEf) | [Janna Nick](https://open.spotify.com/artist/47T14gc4KnTM8ewH4gPlbA) | [Gatal](https://open.spotify.com/album/1u37Ngw22P9smTaJlqb3ey) | 3:05 | 2022-05-25 | 2022-08-04 |
 | [Gelora](https://open.spotify.com/track/1LSDf9UugcT7zX9FlCQRvL) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX) | [Gelora](https://open.spotify.com/album/1ZO8DsyDKeG3SPU5Uoggjc) | 3:48 | 2023-10-04 | 2024-07-11 |
+| [Gemercik Asmara](https://open.spotify.com/track/3wA8KBsBcCkAAF9ZDZLkKQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Gemercik Asmara](https://open.spotify.com/album/2ORVC4aitj1kM2XqkDXnH8) | 3:51 | 2024-09-04 |  |
 | [Genggam](https://open.spotify.com/track/4ymk5xUFpoevOYcE8gvw8v) | [Aliff Aziz](https://open.spotify.com/artist/5lsnCehMgZLY9UfQa7STMy) | [Genggam](https://open.spotify.com/album/5Z0eni7PYZo7u7UL1vd6te) | 4:22 | 2023-02-22 | 2023-04-06 |
 | [Gerimis Mengundang](https://open.spotify.com/track/3D9N3k4civFOuEsXXoUlq6) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Gerimis Mengundang](https://open.spotify.com/album/6daxVY9Z9PULei728X9xVG) | 3:57 | 2023-09-06 | 2023-09-28 |
 | [Ghaibmu II](https://open.spotify.com/track/11W5sINlIku4WCBgnEgl3X) | [Imran Ajmain](https://open.spotify.com/artist/6RwVCUG6anzF4HiiIKMFWV), [ITSDATBOYINBLVCK](https://open.spotify.com/artist/3Wiuqy7xJpr0L7eL8HjcdY) | [Ghaibmu II](https://open.spotify.com/album/017y4K1MSpSseb4vWRq6GY) | 3:05 | 2024-03-20 | 2024-04-24 |
@@ -301,7 +302,7 @@
 | [Masa Mudaku Habis](https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Masa Mudaku Habis](https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ) | 4:14 | 2023-09-20 | 2023-10-12 |
 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 | 2024-02-28 | 2024-04-04 |
 | [Masih Sunyi](https://open.spotify.com/track/5VyaFEMVKCFuuKXAlIgD1W) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Masih Yuna](https://open.spotify.com/album/6yzS4B3517AyjytLYAukvm) | 2:35 | 2023-05-10 | 2023-07-06 |
-| [Masihkah Ada Rasa Itu? \- From "Wanita Syurga"](https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Masihkah Ada Rasa Itu? \(From "Wanita Syurga"\)](https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G) | 3:22 | 2024-03-06 |  |
+| [Masihkah Ada Rasa Itu? \- From "Wanita Syurga"](https://open.spotify.com/track/4c4Rs17mDezGSFJI3u7CcW) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Masihkah Ada Rasa Itu? \(From "Wanita Syurga"\)](https://open.spotify.com/album/3u4ZDExYXwapRXRWwzbJ0G) | 3:22 | 2024-03-06 | 2024-09-05 |
 | [Masing Masing](https://open.spotify.com/track/7BgFlmOxrL7M1jVGoxqy37) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Aura](https://open.spotify.com/album/59ptvvKVVgt5Oo8R6uYDda) | 3:54 | 2023-11-08 |  |
 | [Masuk](https://open.spotify.com/track/1MjcAJQWeWwDgXIB8aQ9nM) | [Fariz Jabba](https://open.spotify.com/artist/5euTSdDookRvAEl8yOXhHh) | [Masuk](https://open.spotify.com/album/6N5gdazIpVUbG1WIjNid1g) | 2:39 | 2023-03-01 | 2023-05-18 |
 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 | 2024-04-03 |  |

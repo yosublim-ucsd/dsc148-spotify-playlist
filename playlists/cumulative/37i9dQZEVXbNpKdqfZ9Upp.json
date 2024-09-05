@@ -408,7 +408,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 118558,
       "name": "3 PECADOS DESPUES\u2026",
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
@@ -3585,6 +3585,24 @@
     },
     {
       "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "album": {
         "name": "nadie sabe lo que va a pasar ma\u00f1ana",
         "url": "https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO"
       },
@@ -4398,6 +4416,24 @@
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
+    },
+    {
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
       "album": {
@@ -11136,7 +11172,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 289560,
       "name": "Don't Look Back in Anger - Remastered",
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
@@ -20607,6 +20643,36 @@
     },
     {
       "album": {
+        "name": "La Sillita",
+        "url": "https://open.spotify.com/album/68ZJlXR5m5QCC3bysYnOgX"
+      },
+      "artists": [
+        {
+          "name": "Lil Roy",
+          "url": "https://open.spotify.com/artist/4aB8apVS8jkEpN2h8ZIrQt"
+        },
+        {
+          "name": "KBP EL ALIEN",
+          "url": "https://open.spotify.com/artist/4O6h6daISMFjWaM9xqJxAM"
+        },
+        {
+          "name": "Fresh Bodden",
+          "url": "https://open.spotify.com/artist/7blu0IsZ2zyetdLEQdLVUO"
+        },
+        {
+          "name": "Jaso Beat",
+          "url": "https://open.spotify.com/artist/4q5QUHNoeTR62HZPEoHvov"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "La Sillita",
+      "url": "https://open.spotify.com/track/0XcNKa1sicyfqef7bWQQNm"
+    },
+    {
+      "album": {
         "name": "La Suma",
         "url": "https://open.spotify.com/album/6cpIPgg4Bv4Oc29R7uCqOR"
       },
@@ -21284,7 +21350,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 152893,
       "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
       "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
@@ -21510,7 +21576,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 276826,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
@@ -21528,7 +21594,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -31674,7 +31740,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 164991,
       "name": "PRIMO",
       "url": "https://open.spotify.com/track/7AysIqSEDiwP4CUsAXJwrk"
@@ -37360,7 +37426,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 303133,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"
@@ -38874,7 +38940,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"
@@ -42902,7 +42968,7 @@
       ],
       "date_added": "2022-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 285653,
       "name": "Wake Me up When September Ends",
       "url": "https://open.spotify.com/track/3ZffCQKLFLUvYM59XKLbVm"

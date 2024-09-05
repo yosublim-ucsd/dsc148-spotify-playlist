@@ -1,12 +1,12 @@
 {
   "description": "This is Finch. The essential tracks, all in one playlist.",
-  "num_followers": 3011,
+  "num_followers": 3008,
   "original_name": "This Is Finch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACQ6WpESakZaJXfxvw3dS0K",
+  "snapshot_id": "ZtZRgAAAAAAZLFMGev2y2XqvPs6vw9Vr",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za"
         }
       ],
-      "duration_ms": 173733,
-      "name": "Two Guns To The Temple",
-      "url": "https://open.spotify.com/track/4XTwwsOi4vezsAjc8azV5N"
+      "duration_ms": 218746,
+      "name": "Picasso Trigger",
+      "url": "https://open.spotify.com/track/3BfMK2bpqF9w4r24FGwzJk"
     }
   ],
   "unique_name": "This Is Finch",

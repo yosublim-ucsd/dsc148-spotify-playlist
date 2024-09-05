@@ -309,6 +309,24 @@
     },
     {
       "album": {
+        "name": "b.o.m.b.",
+        "url": "https://open.spotify.com/album/5kxSD8iP2rpaZU2LGosAuX"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166937,
+      "name": "b.o.m.b.",
+      "url": "https://open.spotify.com/track/0D1MNTrIZM6rHZbENgL8ZS"
+    },
+    {
+      "album": {
         "name": "THE FIRST TIME (DELUXE VERSION)",
         "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
       },
@@ -418,6 +436,24 @@
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9"
+    },
+    {
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     },
     {
       "album": {
@@ -704,6 +740,24 @@
       "duration_ms": 165339,
       "name": "Cozy",
       "url": "https://open.spotify.com/track/5mRFZlOAptPpimncCeBxoJ"
+    },
+    {
+      "album": {
+        "name": "CRAZY",
+        "url": "https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164554,
+      "name": "CRAZY",
+      "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
     },
     {
       "album": {
@@ -1569,6 +1623,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3rYLPJVwn2FzXnG5oI6noQ"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173949,
+      "name": "honeymoon - Spotify Singles",
+      "url": "https://open.spotify.com/track/1HF4nVwcWoLIIE6vyyuwcP"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -1768,7 +1840,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 180500,
       "name": "i like that you like it",
       "url": "https://open.spotify.com/track/3J3uorC8pSDKVaiNkGv3Q9"
@@ -1942,6 +2014,28 @@
       "duration_ms": 183251,
       "name": "IWALY",
       "url": "https://open.spotify.com/track/4SwXtg8jDejWX18zLsZwCO"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not The Only One (feat. TAEYEON)",
+        "url": "https://open.spotify.com/album/1EkQ1dUNlc0J0xPhxv1DgY"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239619,
+      "name": "I\u2019m Not The Only One (feat. TAEYEON)",
+      "url": "https://open.spotify.com/track/7lJ3JlojP8p7fwKWyRIfmZ"
     },
     {
       "album": {
@@ -3896,7 +3990,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 242666,
       "name": "us. (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR"
@@ -4158,7 +4252,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 206355,
       "name": "without you",
       "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"
@@ -4404,7 +4498,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 261000,
       "name": "\u5728\u52a0\u7d0d\u5171\u548c\u570b\u96e2\u5a5a",
       "url": "https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh"

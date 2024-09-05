@@ -1,12 +1,12 @@
 {
   "description": "This is P-Lo. The essential tracks, all in one playlist.",
-  "num_followers": 5436,
+  "num_followers": 5439,
   "original_name": "This Is P-Lo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAC5Fhm0LvHM2/IaM+tZEMW7",
+  "snapshot_id": "ZtZRgAAAAAAk3jXXA3PnnJBMFjNBZcB/",
   "tracks": [
     {
       "added_at": null,
@@ -263,22 +263,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do It For The Bay",
-        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
+        "name": "What We On (feat. E-40)",
+        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
       },
       "artists": [
         {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        },
+        {
+          "name": "DaBoii",
+          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "E-40",
+          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         }
       ],
-      "duration_ms": 118551,
-      "name": "Do It For The Bay",
-      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
+      "duration_ms": 173000,
+      "name": "What We On (feat. E-40)",
+      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
     },
     {
       "added_at": null,
@@ -315,30 +323,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "What We On (feat. E-40)",
-        "url": "https://open.spotify.com/album/6NCCYWOcEUB5jCMzBtgiql"
+        "name": "Do It For The Bay",
+        "url": "https://open.spotify.com/album/7LhiiKXxWkyRs3PDtIsl60"
       },
       "artists": [
         {
-          "name": "Lil Jon",
-          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
-        },
-        {
-          "name": "DaBoii",
-          "url": "https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0"
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "E-40",
-          "url": "https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V"
         }
       ],
-      "duration_ms": 173000,
-      "name": "What We On (feat. E-40)",
-      "url": "https://open.spotify.com/track/0TLAn4Hzf9fTtprPfDgjY4"
+      "duration_ms": 118551,
+      "name": "Do It For The Bay",
+      "url": "https://open.spotify.com/track/0rxd3zqvnNV8AQgkhYKDke"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caught In The Funk",
-        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
-      },
-      "artists": [
-        {
-          "name": "Dezzy Hollow",
-          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 120153,
-      "name": "Hotel Lobby",
-      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Foreal Tape",
         "url": "https://open.spotify.com/album/1Vy65JOMv18Aix6cjTNnrn"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 188235,
       "name": "The Loot",
       "url": "https://open.spotify.com/track/5sNA1F4eCOh3mWKlFqRKJ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caught In The Funk",
+        "url": "https://open.spotify.com/album/6pqpuT6DyMScQZC3TK9Sa8"
+      },
+      "artists": [
+        {
+          "name": "Dezzy Hollow",
+          "url": "https://open.spotify.com/artist/6YY8kfgPtpc49TxClWFKS0"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 120153,
+      "name": "Hotel Lobby",
+      "url": "https://open.spotify.com/track/76CYVdP16HtyHy95iVN0YF"
     },
     {
       "added_at": null,
@@ -879,26 +879,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "#CrashCourse",
-        "url": "https://open.spotify.com/album/0mi3HUlRDa6UTwyCmsX2Oo"
-      },
-      "artists": [
-        {
-          "name": "isthatCJ",
-          "url": "https://open.spotify.com/artist/7AWk1NutdnSV7snTmNtiki"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 223817,
-      "name": "Go Dance (feat. P-Lo)",
-      "url": "https://open.spotify.com/track/2cmhQ5BADI9XAJAMVak7Wg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Going To Work - Single",
         "url": "https://open.spotify.com/album/0CTn4BqFFTsfDuWrPguexd"
       },
@@ -911,54 +891,6 @@
       "duration_ms": 197187,
       "name": "Going To Work",
       "url": "https://open.spotify.com/track/1iri2k9wVGJl2UQuHlNxrM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
-      },
-      "artists": [
-        {
-          "name": "Jeff Bernat",
-          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        }
-      ],
-      "duration_ms": 144060,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moovie! 2: The Yeequel",
-        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
-      },
-      "artists": [
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
-        },
-        {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
-        },
-        {
-          "name": "Nef The Pharaoh",
-          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
-        },
-        {
-          "name": "ALLBLACK",
-          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
-        }
-      ],
-      "duration_ms": 176634,
-      "name": "THUMB (feat. Nef The Pharaoh & ALLBLACK)",
-      "url": "https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7"
     },
     {
       "added_at": null,
@@ -999,6 +931,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moovie! 2: The Yeequel",
+        "url": "https://open.spotify.com/album/1XAv7QusEb7Gf85cH85Dps"
+      },
+      "artists": [
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        },
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "Nef The Pharaoh",
+          "url": "https://open.spotify.com/artist/3DiSC0nSNNWpPy5ZK3mcrz"
+        },
+        {
+          "name": "ALLBLACK",
+          "url": "https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD"
+        }
+      ],
+      "duration_ms": 176634,
+      "name": "THUMB (feat. Nef The Pharaoh & ALLBLACK)",
+      "url": "https://open.spotify.com/track/5GZQYTcFNDkmtAmnCD8tn7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/49BAsVfGKE1OUwWkPmGWhX"
+      },
+      "artists": [
+        {
+          "name": "Jeff Bernat",
+          "url": "https://open.spotify.com/artist/2vVT4qoxWje0gVD2FiWZ4u"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 144060,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/4hCQuHqA48AFbT99bP87Dx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "POP OFF",
         "url": "https://open.spotify.com/album/2PPWpduO1cqj48JrfvicJV"
       },
@@ -1015,6 +995,26 @@
       "duration_ms": 143529,
       "name": "U TELL ME (Feat. P-Lo)",
       "url": "https://open.spotify.com/track/31LksTH2NrF2R8nw2f20PH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moovie!",
+        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+      },
+      "artists": [
+        {
+          "name": "Kool John",
+          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 218453,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
     },
     {
       "added_at": null,
@@ -1039,22 +1039,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moovie!",
-        "url": "https://open.spotify.com/album/3utWbzZz4YqSW0HGLqyovN"
+        "name": "#CrashCourse",
+        "url": "https://open.spotify.com/album/0mi3HUlRDa6UTwyCmsX2Oo"
       },
       "artists": [
         {
-          "name": "Kool John",
-          "url": "https://open.spotify.com/artist/7zmuMr74dNGqjq74uibncO"
+          "name": "isthatCJ",
+          "url": "https://open.spotify.com/artist/7AWk1NutdnSV7snTmNtiki"
         },
         {
           "name": "P-Lo",
           "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
         }
       ],
-      "duration_ms": 218453,
-      "name": "Mad",
-      "url": "https://open.spotify.com/track/1fv8SOmc4mzmV6STxsHaK2"
+      "duration_ms": 223817,
+      "name": "Go Dance (feat. P-Lo)",
+      "url": "https://open.spotify.com/track/2cmhQ5BADI9XAJAMVak7Wg"
     },
     {
       "added_at": null,

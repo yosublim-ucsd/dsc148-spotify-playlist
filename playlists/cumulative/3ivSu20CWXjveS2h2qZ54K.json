@@ -4055,6 +4055,24 @@
     },
     {
       "album": {
+        "name": "Can We Fix Our Nation's Broken Heart",
+        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278366,
+      "name": "Can We Fix Our Nation's Broken Heart",
+      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
+    },
+    {
+      "album": {
         "name": "Can't Be Still",
         "url": "https://open.spotify.com/album/1x8CYRugVpcyD4JEeJtRa0"
       },
@@ -8686,12 +8704,16 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        },
-        {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
         }
       ],
       "date_added": "2024-08-30",
@@ -10596,6 +10618,24 @@
       "duration_ms": 170672,
       "name": "HOY TENGO GANAS DE TI",
       "url": "https://open.spotify.com/track/27AycGPhBPGCc6YnTZTaSh"
+    },
+    {
+      "album": {
+        "name": "Huella de ti",
+        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
+      },
+      "artists": [
+        {
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197253,
+      "name": "Huella de ti",
+      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
     },
     {
       "album": {
@@ -25050,6 +25090,24 @@
       "duration_ms": 188790,
       "name": "\u00c1ngel",
       "url": "https://open.spotify.com/track/3buCh2VTwMAxSV1p2ITXAx"
+    },
+    {
+      "album": {
+        "name": "\u00daltima fiesta",
+        "url": "https://open.spotify.com/album/2lSneXBhLJQ8qDe1FrKctM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157912,
+      "name": "\u00daltima fiesta",
+      "url": "https://open.spotify.com/track/3CtpdxwpN1TH26L20XQJSs"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The sound of summer 2024! Cover: Jazzy
 
-289 songs - 14 hr 34 min
+290 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [I See Colors](https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [I See Colors](https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh) | 3:12 | 2023-05-15 | 2023-06-27 |
 | [I Will](https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [I Will](https://open.spotify.com/album/17YWNPXw7xDsLqC6ES3Ysj) | 2:29 | 2024-03-29 | 2024-06-19 |
 | [I'm Not Here To Make Friends](https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Gloria](https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV) | 3:49 | 2023-05-15 | 2023-06-06 |
+| [Ibizacore](https://open.spotify.com/track/0LU920mdHUiNTWGd3xIxdl) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [Muki](https://open.spotify.com/artist/6D8m8pBw3RkQ1TAi1bF2e1) | [Into The Doof](https://open.spotify.com/album/7bQCvS4ChwrfuLEiGY7fkf) | 2:42 | 2024-09-04 |  |
 | [If U Need It](https://open.spotify.com/track/5CaUUACiQFEf4zR5WoeIrp) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [If U Need It](https://open.spotify.com/album/628CN0UzuPsstc678cQ5Sn) | 2:59 | 2024-07-23 |  |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-05-15 | 2023-08-26 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-04-12 | 2024-05-03 |
@@ -186,7 +187,7 @@
 | [Never Be Alone](https://open.spotify.com/track/3WB9r0SqS5ThjK49bDexXe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP) | [Never Be Alone](https://open.spotify.com/album/1sYaWj31p76yMZhspz73yM) | 3:09 | 2024-03-29 |  |
 | [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-29 |  |
 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 | 2023-05-15 | 2023-06-20 |
-| [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-29 |  |
+| [obsessed](https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS \(spilled\)](https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu) | 2:50 | 2024-03-29 | 2024-09-05 |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-06-12 | 2024-03-29 |
 | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/track/2F0dCzhF9W1tcXwXu99m28) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [bshp](https://open.spotify.com/artist/2RV0VshxVfkduUIHn0PLzJ), [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Oh Baby \(feat\. bshp & Issey Cross\)](https://open.spotify.com/album/7oXgMepNUWPk1dN6MpDn2C) | 2:28 | 2023-05-15 | 2023-07-18 |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2024-03-29 |  |

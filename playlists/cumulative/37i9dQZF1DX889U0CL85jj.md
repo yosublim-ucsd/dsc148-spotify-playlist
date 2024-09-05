@@ -4,7 +4,7 @@
 
 > Always good, always chill indie for hanging out and relaxing.
 
-627 songs - 1 day 12 hr 21 min
+630 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Heavy](https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Heavy](https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV) | 3:01 | 2020-04-24 | 2022-01-22 |
 | [Hell of a Ride](https://open.spotify.com/track/0enjWdCHaqJqO3aEPxhR0G) | [Oscar Louis](https://open.spotify.com/artist/3beovFcnzA9hTr18ZxymFK) | [Hell of a Ride](https://open.spotify.com/album/0VMdF4cntbcWah66Fb7oqJ) | 4:03 | 2019-12-06 | 2022-09-30 |
 | [Hello Sun](https://open.spotify.com/track/5GOs3BNuWlIfaAQQJNdgJD) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Hello Sun](https://open.spotify.com/album/2kKbyRzHiD3y7zM4QnjtwX) | 3:35 | 2020-06-12 | 2022-01-22 |
+| [Her](https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1) | [The American Dawn](https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11) | [Her](https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv) | 3:34 | 2024-09-04 |  |
 | [Hide and Seek](https://open.spotify.com/track/7mMlbJlXXo2mRtQ4R9sIzD) | [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Speak for Yourself](https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ) | 4:28 | 2020-05-04 | 2022-08-06 |
 | [High \(Remix\)](https://open.spotify.com/track/32R9F2G42rDjgkZg3k5ecx) | [fika](https://open.spotify.com/artist/4nJPiUgLhO1HcK13jBkAqX), [golden era](https://open.spotify.com/artist/0zfNkbfXyVpesD3S0XFKB8) | [High \(Remix\)](https://open.spotify.com/album/7g2RU49bcG38WFQ0VJTZNv) | 2:50 | 2020-04-24 | 2022-01-22 |
 | [Hoboken](https://open.spotify.com/track/0i3pE7eoqghj9gdRoBd8tU) | [Franklin Jonas](https://open.spotify.com/artist/0CiDBbLe1R6VLQ4wXgRHoV) | [Hoboken](https://open.spotify.com/album/6DuIkYLO8uu4Yz1GEsMivZ) | 4:08 | 2023-05-02 |  |
@@ -258,6 +259,7 @@
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-05-31 |  |
 | [I Can't Help](https://open.spotify.com/track/1sjXaEmqj5cRMns8rWYnKe) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Flash](https://open.spotify.com/album/5WXHkvPDK5F7MRd8ia0DOo) | 2:01 | 2022-06-10 | 2022-09-30 |
 | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Can't Help \(with Sarcastic Sounds\)](https://open.spotify.com/album/0HfMtVtwcLY0hrZbIMc5X5) | 2:01 | 2020-02-28 | 2022-07-29 |
+| [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-09-04 |  |
 | [I Don't Wanna Be Nothin'](https://open.spotify.com/track/42y6YvuL1zbJEYTpGyJ4ut) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [I Don't Wanna Be Nothin'](https://open.spotify.com/album/1pNlh4Xx9a0y8EWEw6i5hx) | 4:30 | 2019-09-06 | 2022-01-22 |
 | [i feel like chet \(khai dreams edit\)](https://open.spotify.com/track/2Kqqq1W7neB7AgN9u49HVx) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1), [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [plum blossom \(the edits\)](https://open.spotify.com/album/5mGRMZXNW3Vh6wR8v4qDD2) | 2:53 | 2019-07-26 | 2022-06-18 |
 | [I Leave Again](https://open.spotify.com/track/5QI8TzL0eOULZSwsr1FJzu) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [I Leave Again](https://open.spotify.com/album/7sfk2PYxLTn13ecAe2CIYH) | 3:58 | 2020-05-22 | 2022-07-29 |
@@ -490,6 +492,7 @@
 | [sole outlet](https://open.spotify.com/track/3Axrk0m3aMkCz2D7R3GT5D) | [juno roome](https://open.spotify.com/artist/75OmhmviEWTWkMBllWgdQv) | [sole outlet](https://open.spotify.com/album/0Xmtrxgeg2ivd3874Nn9fL) | 3:47 | 2023-08-11 |  |
 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2022-12-23 | 2023-05-23 |
 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 | 2019-10-25 | 2022-09-30 |
+| [Something Cool](https://open.spotify.com/track/1NrZz7qJPeqwKPlyVLdAkQ) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE), [Sea Birdie](https://open.spotify.com/artist/3N3RcPQt0ggGMThvw0EFIa) | [Something Cool](https://open.spotify.com/album/5EkL7zDYeUmWcN1046sMrG) | 2:57 | 2024-09-04 |  |
 | [something to live for](https://open.spotify.com/track/0iQPej6D7P8i2lWlulqH2T) | [kerri](https://open.spotify.com/artist/7mupgmN5rkDNGrqQt1tjcf), [farewell](https://open.spotify.com/artist/4wGoZhMN4NyNoZqUgMxUxc) | [something to live for](https://open.spotify.com/album/1PKTmqOWuI8UzZ3Mf0RFys) | 2:14 | 2020-08-21 | 2022-01-22 |
 | [something will happen](https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW) | [berlioz](https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141) | [something will happen](https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC) | 2:59 | 2024-05-10 |  |
 | [Sometimes \(Backwood\)](https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM) | [gigi](https://open.spotify.com/artist/3FVGHhoCQxw0fmNhRMhmOT) | [Sometimes \(Backwood\)](https://open.spotify.com/album/3hdw3AH6dkRpONWlJnotZn) | 2:33 | 2022-06-10 | 2023-01-14 |

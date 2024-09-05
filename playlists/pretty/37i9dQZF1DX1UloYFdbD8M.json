@@ -1,12 +1,12 @@
 {
   "description": "Super Cool Indie Tracks from Gods Own Country\nCover: Masala Coffee",
-  "num_followers": 33167,
+  "num_followers": 33180,
   "original_name": "Malayalam Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtcDNgAAAADpvwiCEqy2431HNP/DruTt",
+  "snapshot_id": "ZtggpQAAAACe1oQi6vjndynHiTQAdbBO",
   "tracks": [
     {
       "added_at": "2024-07-30 13:08:46",
@@ -39,6 +39,26 @@
       "duration_ms": 221395,
       "name": "Muthaane Chankaane",
       "url": "https://open.spotify.com/track/5X527N2Czc8NjGunkSLzjn"
+    },
+    {
+      "added_at": "2024-09-04 08:56:05",
+      "album": {
+        "name": "Eda Mone Kollam Poli Alle",
+        "url": "https://open.spotify.com/album/0LUyeasRyRHZSea1b9t14K"
+      },
+      "artists": [
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        },
+        {
+          "name": "S. Sreesanth",
+          "url": "https://open.spotify.com/artist/4L9lPMNvEdreunDkSgARg6"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Eda Mone Kollam Poli Alle",
+      "url": "https://open.spotify.com/track/27FIzrQe7xWSCvcfwAGAS3"
     },
     {
       "added_at": "2024-08-20 10:09:42",

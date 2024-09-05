@@ -1,6 +1,6 @@
 {
   "description": "Cantoras y compositoras de nuestra tierra, con Soledad en portada.",
-  "num_followers": 26242,
+  "num_followers": 26257,
   "original_name": "Mujeres del Folklore",
   "owner": {
     "name": "Spotify",
@@ -1455,70 +1455,6 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Sigo So\u00f1ando",
-        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
-      },
-      "artists": [
-        {
-          "name": "Marit\u00e9 Berbel",
-          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "Mate Con Cedr\u00f3n",
-      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Cantora",
-        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
-      },
-      "artists": [
-        {
-          "name": "Julia Elena D\u00e1valos",
-          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "La Maimare\u00f1a",
-      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Las Simples Cosas",
-        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
-      },
-      "artists": [
-        {
-          "name": "Yanet Mayoral",
-          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Asuntos Pendientes",
-      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Melod\u00edas que sobran",
-        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
-      },
-      "artists": [
-        {
-          "name": "Nosas",
-          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
-        }
-      ],
-      "duration_ms": 208540,
-      "name": "Secretos",
-      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
         "name": "Anidar",
         "url": "https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD"
       },
@@ -1539,6 +1475,70 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "Sigo So\u00f1ando",
+        "url": "https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA"
+      },
+      "artists": [
+        {
+          "name": "Marit\u00e9 Berbel",
+          "url": "https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "Mate Con Cedr\u00f3n",
+      "url": "https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Las Simples Cosas",
+        "url": "https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a"
+      },
+      "artists": [
+        {
+          "name": "Yanet Mayoral",
+          "url": "https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Asuntos Pendientes",
+      "url": "https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Cantora",
+        "url": "https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29"
+      },
+      "artists": [
+        {
+          "name": "Julia Elena D\u00e1valos",
+          "url": "https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "La Maimare\u00f1a",
+      "url": "https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Melod\u00edas que sobran",
+        "url": "https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI"
+      },
+      "artists": [
+        {
+          "name": "Nosas",
+          "url": "https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03"
+        }
+      ],
+      "duration_ms": 208540,
+      "name": "Secretos",
+      "url": "https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal",
         "url": "https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw"
       },
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Gaucha",
-        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+        "name": "Agosto",
+        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
       },
       "artists": [
         {
-          "name": "Mavi Diaz &  Las Folkies",
-          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+          "name": "Mar\u00eda y Cosecha",
+          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
         }
       ],
-      "duration_ms": 107710,
-      "name": "La Arruguita",
-      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+      "duration_ms": 206151,
+      "name": "La Copla Triste",
+      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "Gaucha",
+        "url": "https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0"
+      },
+      "artists": [
+        {
+          "name": "Mavi Diaz &  Las Folkies",
+          "url": "https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z"
+        }
+      ],
+      "duration_ms": 107710,
+      "name": "La Arruguita",
+      "url": "https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Pajaro Rojo",
         "url": "https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 299363,
       "name": "Maria Sabina",
       "url": "https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Agosto",
-        "url": "https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda y Cosecha",
-          "url": "https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH"
-        }
-      ],
-      "duration_ms": 206151,
-      "name": "La Copla Triste",
-      "url": "https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc"
     },
     {
       "added_at": "2024-08-16 03:00:00",

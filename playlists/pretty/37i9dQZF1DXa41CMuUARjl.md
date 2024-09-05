@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Swedish House Mafia & Alicia Keys
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,155 likes - 115 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,234 likes - 115 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 |
 | 2 | [No Gravity \(feat\. Bava\)](https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Telos](https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5) | 3:31 |
-| 3 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 3 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 4 | [Like A Dream](https://open.spotify.com/track/5BfmbGA0K89froxm1kNBF1) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Like A Dream](https://open.spotify.com/album/2g6OYPEIP9D20JF6MRxElp) | 4:13 |
 | 5 | [Lift Me Up](https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Kyozo](https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v) | [Lift Me Up \(feat\. Kyozo\)](https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA) | 3:53 |
 | 6 | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [GET UP BITCH! shake ya ass \(with Anitta\)](https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV) | 3:33 |

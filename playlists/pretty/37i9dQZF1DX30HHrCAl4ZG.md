@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > Explore all things indie rock right now\. Featuring music from Fontaines D.C.
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,799 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,791 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 15 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 |
 | 16 | [Violet](https://open.spotify.com/track/1ges2nnhkzi5rNTjsO4vze) | [Joe P](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [Garden State Vampire](https://open.spotify.com/album/0QpbKPoMoW7LZY1yOVrg2l) | 3:41 |
 | 17 | [Sleeping In](https://open.spotify.com/track/5t9JiHbOldV8xiFfXERd5J) | [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [POWER](https://open.spotify.com/album/5YMMVf8CozIqS0IDOoqTAD) | 3:18 |
-| 18 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
+| 18 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Adam Granduciel](https://open.spotify.com/artist/73KiP7jo5pwsmaAjFZOCY4) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 19 | [Only One I Want](https://open.spotify.com/track/3qmIAnyaUnYF6Uy6YNJEFN) | [Bones and Jones](https://open.spotify.com/artist/5gJ35QfLWXsCmfleo8gPz4) | [Only One I Want](https://open.spotify.com/album/499HFPNFK1LPvb0Y6Y0fJr) | 3:23 |
 | 20 | [Kinky](https://open.spotify.com/track/5HO0GMmYN9gPme6XbQMhoF) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Kinky](https://open.spotify.com/album/0fCN0g8Y2hBCeVLYFHNkRN) | 2:14 |
 | 21 | [Nobody's Soldier](https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unaired](https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy) | 3:57 |

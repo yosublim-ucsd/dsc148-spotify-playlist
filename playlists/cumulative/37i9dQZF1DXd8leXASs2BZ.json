@@ -12033,6 +12033,28 @@
     },
     {
       "album": {
+        "name": "\u3084\u3063\u3066\u3084\u308b\u3088",
+        "url": "https://open.spotify.com/album/1QJDb9wnBcQczE34vqoJQZ"
+      },
+      "artists": [
+        {
+          "name": "MAX!!!",
+          "url": "https://open.spotify.com/artist/1MgqejqU5aSwZkhkhPkefn"
+        },
+        {
+          "name": "\u30b7\u30e9\u30d5",
+          "url": "https://open.spotify.com/artist/4NTgCBuUgWbeOPuUwj2I5V"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245538,
+      "name": "\u3084\u3063\u3066\u3084\u308b\u3088",
+      "url": "https://open.spotify.com/track/0QsbcNdfmh2Njvqhbfkobx"
+    },
+    {
+      "album": {
         "name": "\u30a4\u30a4\u611f\u3058!",
         "url": "https://open.spotify.com/album/0egJG7iKcFwumk1V5aJYCO"
       },

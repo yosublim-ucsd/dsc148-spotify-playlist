@@ -1,12 +1,12 @@
 {
   "description": "This Is Ximena Sari\u00f1ana. Los temas esenciales, todos en una lista.",
-  "num_followers": 60717,
+  "num_followers": 60737,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADCo7+uUrHQ3+4Z0HEXLzq8",
+  "snapshot_id": "ZtZRgAAAAAB248PaW1y/eEYT4FbCZwUn",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mediocre [Edici\u00f3n Especial]",
+        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 237386,
+      "name": "Vidas Paralelas",
+      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Voy a Volver",
         "url": "https://open.spotify.com/album/57CJ8jeEFUi6Xh8dS4FzAb"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 287840,
       "name": "Un A\u00f1o M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/2qz2TwDrWbDKK4rdHkV66V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mediocre [Edici\u00f3n Especial]",
-        "url": "https://open.spotify.com/album/4XorEyilYOodayD0mbzTcq"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 237386,
-      "name": "Vidas Paralelas",
-      "url": "https://open.spotify.com/track/2USZHGvpJAOmoh4t4YAcfn"
     },
     {
       "added_at": null,
@@ -707,26 +707,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nada Para Ti",
-        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
-      },
-      "artists": [
-        {
-          "name": "Francisca Valenzuela",
-          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
-        },
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 236255,
-      "name": "Nada Para Ti",
-      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Realismo M\u00e1gico",
         "url": "https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P"
       },
@@ -743,6 +723,26 @@
       "duration_ms": 177019,
       "name": "Lo que fuera",
       "url": "https://open.spotify.com/track/7fTZpxKHt6bltWZcZvEB1g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nada Para Ti",
+        "url": "https://open.spotify.com/album/5G9mAcnZnP9F1WdqiY370t"
+      },
+      "artists": [
+        {
+          "name": "Francisca Valenzuela",
+          "url": "https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 236255,
+      "name": "Nada Para Ti",
+      "url": "https://open.spotify.com/track/6EKLpV51tSY9SmMgwdb42W"
     },
     {
       "added_at": null,

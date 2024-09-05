@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 
 > ¡Lleva el alma musical de México a donde sea!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,110 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,179 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,18 +56,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdotmDZv5uE.md) - [plain]
 | 46 | [Ay Jalisco No Te Rajes](https://open.spotify.com/track/5q673d8BBfaK3CrQWBUMOH) | [Daniel Armas](https://open.spotify.com/artist/62m8kgUSiuiUb2cl118JCi) | [México 2010 El Salterio](https://open.spotify.com/album/1PU88tZ22xHSWrdTY1jroX) | 2:41 |
 | 47 | [Jesusita en Chihuahua](https://open.spotify.com/track/1KbZZUotUeq0C72gu62mIq) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Los Primeros Años](https://open.spotify.com/album/1QnGhxm3nv05SZPNknmdw6) | 2:11 |
 | 48 | [San Pedro Hermoso](https://open.spotify.com/track/0xARjffWeQ3NEmseEU4rum) | [Costa Mía Orquesta](https://open.spotify.com/artist/5gr6ZjgBXbZAcIjsHJgwoL), [Sicarú Gazga](https://open.spotify.com/artist/6G1d37MQZPkT8JbDIIMS6V) | [San Pedro Hermoso](https://open.spotify.com/album/5XbUpC6yNlA4W9e6K4Cv37) | 3:59 |
-| 49 | [La Borrachita](https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:07 |
-| 50 | [Los Once Pueblos \(Eraxamani\)](https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII) | [Gran Banda De Ichán Michoacán](https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1) | [Antología de la Música P'urhepecha Vol\. VIII](https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL) | 3:14 |
+| 49 | [Los Once Pueblos \(Eraxamani\)](https://open.spotify.com/track/3HWQJhwYGZ8CWZefWSDxII) | [Gran Banda De Ichán Michoacán](https://open.spotify.com/artist/1m1AhZMj1tTgQGuLwAdKh1) | [Antología de la Música P'urhepecha Vol\. VIII](https://open.spotify.com/album/3CVW7CGhHs7Wg3lyG97sSL) | 3:14 |
+| 50 | [La Borrachita](https://open.spotify.com/track/1OIET3yptLiovEz07Wpk7y) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:07 |
 | 51 | [La Llorona](https://open.spotify.com/track/1DQKQpOqSSDMrsHkvsQd0J) | [Los Vega](https://open.spotify.com/artist/50Ww2VNPqAF6hgXaT3XuBB) | [En Tonos Muy Diferentes](https://open.spotify.com/album/3IJPBiKZUz4UZmxBo8MKNf) | 5:42 |
 | 52 | [Reza en Voz Alta](https://open.spotify.com/track/3iXA6VYCudT4ZaKw7xBHKT) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Reza en Voz Alta](https://open.spotify.com/album/3modoSnNXdsJx7c6rUqfg4) | 4:00 |
 | 53 | [El Feo](https://open.spotify.com/track/1orAub5Dz1NbEMOtojgVal) | [Los Hermanos Ríos](https://open.spotify.com/artist/4T0GBgActseXoBYsSNouZV) | [La Tortuga, Sones Istmeños](https://open.spotify.com/album/5eooFYB6EVUOdo2vD42bxE) | 3:01 |
 | 54 | [El Sacamandú](https://open.spotify.com/track/7M6y0noSLd6nal1GUGSpMN) | [Los Caporales](https://open.spotify.com/artist/6GlDYSt5RyCkTRJ1zPN3DY) | [El Gusto \- 40 Años de son Huasteco](https://open.spotify.com/album/1iaywSk07ESk9L5nCy5bdV) | 4:21 |
 | 55 | [LAS ALTEÑITAS](https://open.spotify.com/track/0U6SkH7h38q4SNHHoEckCW) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/artist/5AEvcZM8v0mptSbdX427om) | [LA BELLA EPOCA CON SALTERIO](https://open.spotify.com/album/0sDmy1GnNFZN5JmuuUyn9p) | 2:38 |
 | 56 | [La Petenera](https://open.spotify.com/track/4WeazL7v9t7yHAUF7TgGnG) | [Trío Cantores de la Huasteca](https://open.spotify.com/artist/2NJotnwq4BqtWJlP73PvGk) | [Antología del Son de México, Huasteca](https://open.spotify.com/album/3Bp5LJYCdRc7ZjeE202cf8) | 3:29 |
-| 57 | [Rayando el Sol](https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:04 |
-| 58 | [El Son Guerrerense](https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP) | [Conjunto de Juan Reynoso](https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:25 |
-| 59 | [Cruzando en el Barco](https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 3:25 |
-| 60 | [La Bamba](https://open.spotify.com/track/6NfzJJCQQ2lG6kf0fPPCVI) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8) | [Veracruz Son Y Huapango](https://open.spotify.com/album/7dEEXO2Uxcd0NTKUt8bfTZ) | 3:13 |
+| 57 | [El Son Guerrerense](https://open.spotify.com/track/1mmQmz9iCZZ94g0ugaAInP) | [Conjunto de Juan Reynoso](https://open.spotify.com/artist/2SWABlfQlQFjqf8m17TkOo) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 3:25 |
+| 58 | [Cruzando en el Barco](https://open.spotify.com/track/3tqIxbFFT4yY1z5pNlhH25) | [Conjunto Jardin](https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0) | [Nuevo Son Jarocho](https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr) | 3:25 |
+| 59 | [La Bamba](https://open.spotify.com/track/6NfzJJCQQ2lG6kf0fPPCVI) | [Tlen Huicani](https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8) | [Veracruz Son Y Huapango](https://open.spotify.com/album/7dEEXO2Uxcd0NTKUt8bfTZ) | 3:13 |
+| 60 | [Rayando el Sol](https://open.spotify.com/track/3QCepB8MPLM3haboCIg9Fg) | [Antonio Bribiesca](https://open.spotify.com/artist/0c8lhCQOQYwyxzykdeOxgz) | [Homenaje a Antonio Bribiesca](https://open.spotify.com/album/3OaBQCe5DXCqudbGWNOyCS) | 3:04 |
 | 61 | [Agradecer](https://open.spotify.com/track/3xFVSTW8SdnST60rBsObdt) | [Eugenia Leon](https://open.spotify.com/artist/4rb77bUYfTSu6Hkb9Oar8y) | [Agradecer](https://open.spotify.com/album/5qVQLwmsMmBEKfQsPd3LXM) | 3:25 |
 | 62 | [Pinotepa](https://open.spotify.com/track/2I4oBWJvg2X7UGaAhcGyIe) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sandunga](https://open.spotify.com/album/56QEBEeTO0vjmJALf49pnP) | 4:44 |
 | 63 | [El Tilingo](https://open.spotify.com/track/3XlOnuGPGhSwigVf9d6gaV) | [Trio Azteca](https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY) | [Mexico: 20 Best Mariachi and Folk Songs](https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT) | 3:05 |

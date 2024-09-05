@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 
 > This is Kemilly Santos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,399 likes - 38 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,404 likes - 38 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 21 | [Sempre Foi Deus](https://open.spotify.com/track/45Fb4jFMHddR0gu7JsUcuW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Sempre Foi Deus](https://open.spotify.com/album/1NpTyl3tLidjF6x2PWHb0j) | 4:44 |
 | 22 | [Pedro](https://open.spotify.com/track/57FSmz2z4I2DLdjRBzdHpy) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Trilo](https://open.spotify.com/album/2U8Z37cBZSCuN6IVd9wrMu) | 5:18 |
 | 23 | [360 Graus](https://open.spotify.com/track/5SU7gkuU0jQerzQL44Tz2K) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 5:01 |
-| 24 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 |
-| 25 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
+| 24 | [Cuidando \(Ao Vivo\)](https://open.spotify.com/track/2IdmwJsfpDSGwteaPhTRNG) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos ao Vivo em São Paulo](https://open.spotify.com/album/1KAi9GUnEOYjhuVxi5xVm9) | 3:39 |
+| 25 | [Quem é Você](https://open.spotify.com/track/3jRJnLknna0DBtnT2GeJvt) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [César Menotti & Fabiano](https://open.spotify.com/artist/08yxJfM5RnFAjJvMJIFnvh) | [Quem é Você](https://open.spotify.com/album/1I6u12BkipzrVbdDMFImHX) | 4:00 |
 | 26 | [Fogo](https://open.spotify.com/track/1zEVQacf6Kf8X79sJpvjcP) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF), [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fogo](https://open.spotify.com/album/4yfESzbAlSbUIicPQTw13W) | 4:40 |
 | 27 | [Vai Valer a Pena](https://open.spotify.com/track/6g82UItVgM6KYKGyDTZ7wz) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Vai Valer a Pena](https://open.spotify.com/album/16y13iFjoAQcnTveRj0eCx) | 3:40 |
 | 28 | [Por Trás Desse Silêncio](https://open.spotify.com/track/1WmDM8aO0X9fxPO4I77Qc2) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Fica Tranquilo](https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV) | 4:30 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0mcByN.md) - [plain]
 | 37 | [Vai Acontecer](https://open.spotify.com/track/4FBSQX1tKKfsIkW8rmvuQ7) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 3:57 |
 | 38 | [A Resposta](https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Plano Original](https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI) | 4:33 |
 
-Snapshot ID: `ZtUAAAAAAAC92ItO5frx9+VfbGZzw44F`
+Snapshot ID: `ZtZRgAAAAABJ9dt+AoDK0W8iBTo8KoUT`

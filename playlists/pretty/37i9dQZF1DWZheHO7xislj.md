@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Perfect music for perfect food.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,783 likes - 200 songs - 12 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,782 likes - 200 songs - 12 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -172,11 +172,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 162 | [What Will It Be?](https://open.spotify.com/track/5Z6Y7HWyIQJ1Y5DaepehAp) | [Room Eleven](https://open.spotify.com/artist/1fnqrUzStcFzRdTybhaOdT) | [Mmm..\. Gumbo? \[ International Version \]](https://open.spotify.com/album/2GhhKuE8coVyF5us5Glbe2) | 3:59 |
 | 163 | [Little Bit of Feel Good](https://open.spotify.com/track/0cIoSMR8kFaJHF8eGgHBHs) | [Jamie Lidell](https://open.spotify.com/artist/6ASGmWCYupa0CXGtsDdYSI) | [Jim](https://open.spotify.com/album/3Hoe3hptCyII2pA7tNEAab) | 4:02 |
 | 164 | [If You Don't Know Me by Now \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/3oI95Uihdvu7uCiirC1DQA) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [The Best Of Harold Melvin & The Blue Notes: If You Don't Know Me By Now \(Featuring Teddy Pendergrass\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/4FyAsercGqajQeEdk2Isj6) | 3:25 |
-| 165 | [Love And Happiness](https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 5:03 |
-| 166 | [I Put A Spell On You](https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:35 |
-| 167 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va), [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Best Of Rotary Connection](https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK) | 5:49 |
-| 168 | [Seven Days in Sunny June](https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb) | 3:57 |
-| 169 | [How Does It Feel \- Radio Edit](https://open.spotify.com/track/1Xr1t0vvUdBZeUIuBFVicO) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [How Does It Feel \(Radio Edit\)](https://open.spotify.com/album/4Rv4wL7wVch0BVcy3oYFio) | 3:26 |
+| 165 | [How Does It Feel \- Radio Edit](https://open.spotify.com/track/1Xr1t0vvUdBZeUIuBFVicO) | [Giovanca](https://open.spotify.com/artist/1GHgheljbmRBI1NgiDkQ98) | [How Does It Feel \(Radio Edit\)](https://open.spotify.com/album/4Rv4wL7wVch0BVcy3oYFio) | 3:26 |
+| 166 | [Love And Happiness](https://open.spotify.com/track/13FkFPnKX1eC2V3nwSy5YB) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Greatest Hits](https://open.spotify.com/album/0fgloBlv8EpPqyL4j1W4AO) | 5:03 |
+| 167 | [I Put A Spell On You](https://open.spotify.com/track/0C5ex13H3zRMsqSROZu78W) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:35 |
+| 168 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/2xVtBEcsM6s2RsH8wkirhS) | [Rotary Connection](https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va), [Minnie Riperton](https://open.spotify.com/artist/2i1IdHG5w0wiSmJGoqAGlj) | [Best Of Rotary Connection](https://open.spotify.com/album/51eqNHht7wUBpKBc9fbsxK) | 5:49 |
+| 169 | [Seven Days in Sunny June](https://open.spotify.com/track/04hWLKwZKdwl1mZHafiphV) | [Jamiroquai](https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid) | [Dynamite](https://open.spotify.com/album/7uG6DZHTBiDlrSXA43WpMb) | 3:57 |
 | 170 | [How Come You Don't Call Me](https://open.spotify.com/track/5bAEFsQjo0DEJalVwFVmsW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Expanded Edition\)](https://open.spotify.com/album/1SLgJeTdzDAJLcDyQqoWnu) | 3:57 |
 | 171 | [Fantasy \- Single Version](https://open.spotify.com/track/3YcusdF0VAb25wLvmvJDJ6) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [The Best Of Earth, Wind & Fire Vol\. 1](https://open.spotify.com/album/6kEe268WsSL0bE5KPeaq8X) | 3:46 |
 | 172 | [I’m A Good Woman](https://open.spotify.com/track/66vDBjvjz2YvSF9yJ9JnC5) | [Barbara Lynn](https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB) | [Voices Of Americana: Barbara Lynn](https://open.spotify.com/album/0xN4aEdaLtT87v3W0xDGVm) | 2:21 |

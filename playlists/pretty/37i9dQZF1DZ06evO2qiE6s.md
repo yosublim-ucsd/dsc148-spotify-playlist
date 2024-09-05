@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO2qiE6s) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2qiE6s)
 
-### [This Is ディーン・マーティン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
+### [This Is Dean Martin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s)
 
-> This is ディーン・マーティン。アーティストの代表曲をひとつのプレイリストに。
+> This is Dean Martin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,598 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,603 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,19 +27,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 17 | [Come Back To Sorrento](https://open.spotify.com/track/5aefoUh9oR6nzQdwdp6k14) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 3:15 |
 | 18 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
 | 19 | [Innamorata](https://open.spotify.com/track/0xeqhLx9L3QzXIAaxMRUiX) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 6 \(1955\-1956\)](https://open.spotify.com/album/6jq5UCuuPwaCZIwLQlLhT6) | 2:25 |
-| 20 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
-| 21 | [Dream A Little Dream](https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:16 |
+| 20 | [Dream A Little Dream](https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 3:16 |
+| 21 | [Good Mornin' Life](https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 8 \(1957\-1958\)](https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK) | 2:16 |
 | 22 | [Heaven Can Wait \- Remastered/1998](https://open.spotify.com/track/291IQsv9uraExolqtoRczv) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:29 |
 | 23 | [Cha Cha Cha D'Amour \(Melodie D'Amour\)](https://open.spotify.com/track/5vfgDZt7VwNCof5lltwwZk) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 2:20 |
-| 24 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
-| 25 | [All I Do Is Dream Of You \- Remastered 1991](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
+| 24 | [All I Do Is Dream Of You \- Remastered 1991](https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Sleep Warm](https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa) | 2:46 |
+| 25 | [Kiss](https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 3 \(1951\-1952\)](https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu) | 2:25 |
 | 26 | [It Looks Like Love](https://open.spotify.com/track/08QMFKQ4jbwh6N6ZuEHdEg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 7 \(1956\-1957\)](https://open.spotify.com/album/4OnCOdXX9tpuQD0zCMiGwz) | 2:20 |
 | 27 | [Return To Me \(Ritorna\-Me\) \- 1997 Remaster](https://open.spotify.com/track/6YAgmqaeo8Fm3pne8OJEBo) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 2:24 |
 | 28 | [Gentle on My Mind](https://open.spotify.com/track/0znQyUrJwmuLenUzJXawEY) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Reprise Years](https://open.spotify.com/album/6anBFHbt3PaNwDKWbsVkzG) | 2:36 |
 | 29 | [The Birds and the Bees](https://open.spotify.com/track/2PNBLcmRZn83z6MjhYynQC) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:06 |
-| 30 | [The One I Love \(Belongs to Somebody Else\)](https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:13 |
+| 30 | [I Have But One Heart \('O Marenariello\)](https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:05 |
 | 31 | [When You're Smiling \(The Whole World Smiles With You\) \- Digitally Remastered 97](https://open.spotify.com/track/11tOuFtY7njtSzA5wr07xp) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Is Dean Martin](https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX) | 3:03 |
-| 32 | [I Have But One Heart \('O Marenariello\)](https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 12 \(1961\)](https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh) | 3:05 |
+| 32 | [The One I Love \(Belongs to Somebody Else\)](https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin TV Show](https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR) | 2:13 |
 | 33 | [Welcome to My World](https://open.spotify.com/track/66Gt2H63ctSt3968rvbGJe) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [\(Remember Me\) I'm the One That Loves You](https://open.spotify.com/album/5tG8Yo4TbHyzirUGDq02xK) | 2:19 |
 | 34 | [Fools Rush In](https://open.spotify.com/track/0j3ideT0tRuIyRhOOUQjYa) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dream with Dean](https://open.spotify.com/album/3yHEoxFfjdoM0zJjsApvFL) | 3:02 |
 | 35 | [Fugue For Tinhorns](https://open.spotify.com/track/25AH3SYPABuo5xXNs1qiRn) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Reprise Rarities \- Vol\. 5](https://open.spotify.com/album/5zQAZL3ru5PqHCEddrnSX2) | 1:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2qiE6s.md) - [plain]
 | 49 | [All In A Night's Work](https://open.spotify.com/track/6o04w9JEOuexVW0LuIs8xK) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Dean Martin: The Capitol Recordings, Vol\. 11 \(1960\-1961\)](https://open.spotify.com/album/3LGVxGRKwi4WfDnhMaBygF) | 2:39 |
 | 50 | [Things](https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:39 |
 
-Snapshot ID: `ZtUAAAAAAAAnIV6PdFYxj9D5SHaKOoQ2`
+Snapshot ID: `ZtZRgAAAAADRnk1PPjCcz3wBt5wYwvtW`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: <a href="spotify:artist:3SKza3YPBri1k43LB1Tqy4">Tauren Wells</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,325 likes - 85 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,435 likes - 85 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,13 +85,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 75 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/4Uvjwj4KWFlyCULhR9zeTx) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabe Real](https://open.spotify.com/artist/4P0egFKcqow04ImKICyPYt) | [Fresh Start](https://open.spotify.com/album/5x2mlaqEWywJ8YioOj2OpC) | 5:31 |
 | 76 | [Even If](https://open.spotify.com/track/787cootcZRw5Xr47Of97AN) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/0PcT8mmJZRU6H1HXeChS2H) | 4:15 |
 | 77 | [The Father’s House](https://open.spotify.com/track/7jrsM2LoAP1bSbtp2tZDIY) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [To Love a Fool](https://open.spotify.com/album/5lI4dcwtT3IXJ8i097XkIH) | 4:05 |
-| 78 | [Peace Be Still](https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/6DijVs6K0pynequruoG3o2) | 5:20 |
-| 79 | [Springtime](https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let The Ground Rest](https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c) | 4:14 |
-| 80 | [Church \(Take Me Back\)](https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Church \(Take Me Back\) / Grave](https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE) | 2:56 |
-| 81 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
-| 82 | [Symphony](https://open.spotify.com/track/4psxhrMFCo4FeQeAWTPFhr) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5xlQ1oXfwSMtImBVVZTS11) | 4:02 |
-| 83 | [Reason](https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi) | 3:18 |
-| 84 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 78 | [Different](https://open.spotify.com/track/4NTJ9sbakiYD1SyGWSMyCf) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6OcMZnLDn70a5ryrMMU4Ch) | 3:17 |
+| 79 | [Peace Be Still](https://open.spotify.com/track/0ZpJVWYW5hJKGbpStrsCdD) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/6DijVs6K0pynequruoG3o2) | 5:20 |
+| 80 | [Springtime](https://open.spotify.com/track/5XBbvUfLSFAT5Rh8eudY8G) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let The Ground Rest](https://open.spotify.com/album/0HqdkOBWLtdPRUxfdVxL9c) | 4:14 |
+| 81 | [Church \(Take Me Back\)](https://open.spotify.com/track/3vvao6zCQPVB8EGajtg9dp) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Church \(Take Me Back\) / Grave](https://open.spotify.com/album/0pGJxxpEZ6Vgq9Vd6GNyHE) | 2:56 |
+| 82 | [Death Was Arrested](https://open.spotify.com/track/7eBybNhcjCylloMZT2QjQE) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/7JnYzgXFC4jEM0XFtwRdK9) | 4:53 |
+| 83 | [Symphony](https://open.spotify.com/track/4psxhrMFCo4FeQeAWTPFhr) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN), [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [Symphony](https://open.spotify.com/album/5xlQ1oXfwSMtImBVVZTS11) | 4:02 |
+| 84 | [Reason](https://open.spotify.com/track/02GmO6MMtnh77QXRM4TqIn) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/7IXpRlAYAxi2mIQlDldGdi) | 3:18 |
 | 85 | [Faithful](https://open.spotify.com/track/4HCsfA9kLHCG1Modb1RzQD) | [Erik Nieder](https://open.spotify.com/artist/5LfJyJ9ZnWxRWawuGFIMMh) | [Faithful](https://open.spotify.com/album/7ARtMK1EgWMgh3rwdmEylb) | 4:44 |
 
 Snapshot ID: `ZnYuKAAAAABG2OF3hWlpeyyonGTFUHKC`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,764 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,793 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 81 | [Eddy Eddy](https://open.spotify.com/track/1gQ3NYyKULxCt7Eo2Acblo) | [Angelica Maria](https://open.spotify.com/artist/4mQmpDH2FfT9FjSnAJV3U1) | [Exitos del Rock & Roll](https://open.spotify.com/album/7J3zAnHYs4XSpR3e9hh4fN) | 2:31 |
 | 82 | [Corina, Corina](https://open.spotify.com/track/2pXeJhrylYrsCXyZVNp7oy) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:51 |
 | 83 | [El Pecador](https://open.spotify.com/track/5k6fOcv3B7sE6V1uZ5kwb6) | [Alberto Vazquez](https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc) | [16 Exitos Baladas \- Alberto Vazquez](https://open.spotify.com/album/5UL88gRWNLOp1Js5EDPsLX) | 3:20 |
-| 84 | [Gracias por el Recuerdo](https://open.spotify.com/track/31KJnspiQtvxwob0cMjxxc) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 2:34 |
+| 84 | [Dame Felicidad](https://open.spotify.com/track/5RX0rW0SSkc1QOC1sDltUP) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Idolos del Rock de los 60's: Enrique Guzman](https://open.spotify.com/album/64c67khJOMtjYVBvqzR2MA) | 2:22 |
 | 85 | [Siluetas](https://open.spotify.com/track/0g31VnIXiibmcb0cvHMUAd) | [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [La Hiedra Venenosa](https://open.spotify.com/album/2Moy4btjVyC9w3sAcUcFZe) | 2:58 |
 | 86 | [Mi Pueblo](https://open.spotify.com/track/15F0WHXpKYQQGUXkSVnOkJ) | [Cesar Costa](https://open.spotify.com/artist/3XzMaBTbJva7quyxFSubuP) | [Mi Pueblo](https://open.spotify.com/album/0dmXOgNdxPGd0B2Frp7shj) | 2:32 |
 | 87 | [Melodía de Amor](https://open.spotify.com/track/4Xz9a5ykDzCQh02OZVjYg0) | [Johnny Laboriel](https://open.spotify.com/artist/3LuvtpIFyGIY9RKuFaRiCs), [Los Rebeldes Del Rock](https://open.spotify.com/artist/5ahSHu8Ulm48wkQalpmjb5) | [Historia Musical de Mis Exitos](https://open.spotify.com/album/5IjKB1mEzXeHrlgsOT76Yy) | 2:28 |

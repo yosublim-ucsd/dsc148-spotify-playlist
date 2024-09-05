@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,107,657 likes - 100 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,107,984 likes - 100 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 60 | [TALKING WALLS](https://open.spotify.com/track/2EgVyvvuU95B3DqEZxbtj5) | [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [TALKING WALLS](https://open.spotify.com/album/023LW9WoSCeEDUwLBPIsHJ) | 2:32 |
 | 61 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 |
 | 62 | [Sucker](https://open.spotify.com/track/04A0Rm6cMA5J1r9f2WlVPO) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [Sucker](https://open.spotify.com/album/2kjJ97kUqeAbq3EI5TyYbS) | 2:03 |
-| 63 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 63 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 64 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 |
 | 65 | [ok </3](https://open.spotify.com/track/7EF7xI1dSQj1dN1dP3YPPW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/7Cp4NjG6vmRiPDOfihtSg1) | 3:24 |
 | 66 | [ZENLESS](https://open.spotify.com/track/2GW2qcpzaRrErv4Nd8NSCH) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Sān\-Z](https://open.spotify.com/artist/4Ep9NXSZDTJzz6BIv24p5x) | [ZENLESS](https://open.spotify.com/album/5ItApQpFnG9fDaZpUgbYzu) | 2:24 |

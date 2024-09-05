@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 
 > Mellow songs from the 1950s\. Cover: Frank Sinatra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 373,254 likes - 82 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,371 likes - 82 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXcg95telZlE.md) - [plain]
 | 66 | [Don't Laugh at Me \('Cause I'm a Fool\)](https://open.spotify.com/track/6VVqpLQDeyEwQd2NQrjQPN) | [Norman Wisdom](https://open.spotify.com/artist/2TQwlvzU9XPzZF8hJIuChI) | [Original Hits \- 50s](https://open.spotify.com/album/5F5iEKIrS6EZmItYyvAQjx) | 3:36 |
 | 67 | [Down In The Willow Garden](https://open.spotify.com/track/7F4z7VV5aVWX72YK4bM9HB) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [Songs Our Daddy Taught Us](https://open.spotify.com/album/6TChmXsRtOQXNZQPrI2yGy) | 3:04 |
 | 68 | [La vie en rose](https://open.spotify.com/track/5IIybI1oiOCY3DRUrpQ7zA) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [C'est Si Bon](https://open.spotify.com/album/6yKeev1MnyUbFjhNHWsFFK) | 3:26 |
-| 69 | [When I Fall In Love](https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:11 |
-| 70 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:37 |
+| 69 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
+| 70 | [When I Fall In Love](https://open.spotify.com/track/6bZf2VcN25Hu7jcLNkc5NC) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:11 |
 | 71 | [My Special Angel](https://open.spotify.com/track/5gMys5AKf5PaAXeebvSJzS) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [Call The Midwife](https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3) | 2:45 |
-| 72 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
-| 73 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
+| 72 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/307XEC1IUwUs9ojlEFwH7f) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Best Of The Platters](https://open.spotify.com/album/48VpGQRP9z2Nhw2iq1uyaN) | 2:37 |
+| 73 | [Ev'ry Time We Say Goodbye](https://open.spotify.com/track/6HuSgh4PeME56VMDrufHxo) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [50's Love Songs](https://open.spotify.com/album/7B8jF75Iw0JrrLjEvyG88Q) | 3:04 |
 | 74 | [Goodnite, It's Time to Go \(Goodnight Sweetheart, Goodnight\)](https://open.spotify.com/track/50meIWPMuhYgQSXfSsUvtI) | [The Spaniels](https://open.spotify.com/artist/0EkpTQlDjByRT3m4wOsr4P) | [The Very Best of the Spaniels](https://open.spotify.com/album/1EmuK9fr4cSt3hys4l1Uha) | 2:40 |
 | 75 | [Since I Don't Have You](https://open.spotify.com/track/1vkbmoEPyp1MxrfWvmV5KD) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [Since I Don't Have You](https://open.spotify.com/album/68AidMa2IJie0sDbMpuwBL) | 2:40 |
-| 76 | [Pretend](https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 2:45 |
-| 77 | [The Theme From "A Summer Place"](https://open.spotify.com/track/5hznMxKe11iqwcW8BFlNWZ) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Definitive 60's \(sixties\)](https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX) | 2:22 |
+| 76 | [The Theme From "A Summer Place"](https://open.spotify.com/track/5hznMxKe11iqwcW8BFlNWZ) | [Percy Faith](https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE) | [The Definitive 60's \(sixties\)](https://open.spotify.com/album/4B5tAsWRbuik1yAOzdZcuX) | 2:22 |
+| 77 | [Pretend](https://open.spotify.com/track/0nQq0gmq7gcOWyLGrtqu8Z) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 2:45 |
 | 78 | [Sugar Moon](https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Backline Volume 57](https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa) | 1:56 |
 | 79 | [Tennessee Waltz](https://open.spotify.com/track/7t8Tzd9FqVz2asFMCL0HpZ) | [Patti Page](https://open.spotify.com/artist/4nZN9kln8toEzOifhWG2uF) | [Rockin' Gals Of The 1950's](https://open.spotify.com/album/27lZJLd8V0j7jQdmQ7ZNx4) | 3:03 |
 | 80 | [It's All In The Game](https://open.spotify.com/track/65DHarvIY5nZ57ZcgTxx75) | [Tommy Edwards](https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD) | [True 50's love](https://open.spotify.com/album/1bYAKB9rFvAJNwR7XDyN5Y) | 2:38 |

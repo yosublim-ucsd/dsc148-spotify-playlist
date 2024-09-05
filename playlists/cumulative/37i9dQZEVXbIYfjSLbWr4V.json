@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u0443\u043b\u044f\u0439, \u0434\u0443\u0448\u0430",
+        "url": "https://open.spotify.com/album/2Fvv1cvIYXNyOmM04hutX0"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Shufutinsky",
+          "url": "https://open.spotify.com/artist/3Ar1W7H096Z6qSGBMmwSmO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378600,
+      "name": "3-\u0435 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f",
+      "url": "https://open.spotify.com/track/13JjbD8SXv6tljUOfrwvKP"
+    },
+    {
+      "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
@@ -1156,7 +1174,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 107538,
       "name": "juice",
       "url": "https://open.spotify.com/track/2PXxdh7WHZAlONZW8P3H2h"
@@ -1740,7 +1758,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "November",
       "url": "https://open.spotify.com/track/4FSg7aHsASSaFgskTYPCor"
@@ -1780,7 +1798,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 181395,
       "name": "OMEGA",
       "url": "https://open.spotify.com/track/1Pd7YDi71oQkPenclP9H0q"
@@ -1860,7 +1878,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -3092,7 +3110,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 114346,
       "name": "\u043c\u043e\u0436\u043d\u043e",
       "url": "https://open.spotify.com/track/2zQYnQQDFuW5rCBaXlkodn"
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 118625,
       "name": "\u0422\u0410\u041d\u0426\u0423\u0419!",
       "url": "https://open.spotify.com/track/6jefxlKCkx9d0bCjftVyQm"

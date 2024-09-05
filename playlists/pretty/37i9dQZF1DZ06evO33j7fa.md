@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 
 > This is Nick Drake\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,496 likes - 32 songs - 1 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,508 likes - 32 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
 | 2 | [Northern Sky](https://open.spotify.com/track/7pdmBld4yW3WIUkrxHyb5r) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 3:43 |
 | 3 | [Day Is Done](https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 2:26 |
-| 4 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 |
+| 4 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
 | 5 | [Place To Be](https://open.spotify.com/track/5QUeSXjTMHbq1fW5da2waF) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:40 |
 | 6 | [One Of These Things First](https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 4:49 |
 | 7 | [Saturday Sun](https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:05 |
-| 8 | [Been Smoking Too Long](https://open.spotify.com/track/7wZcJFjBz2QE0LdKeYwt0R) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:13 |
+| 8 | [Clothes Of Sand](https://open.spotify.com/track/6YRcClEQPYq3yGOOgabbn3) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 2:31 |
 | 9 | [Road](https://open.spotify.com/track/5ir0VEsMI7cLhN6SEiaKol) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 1:59 |
 | 10 | [Hazey Jane II](https://open.spotify.com/track/7lDnXMcGYeGnku3H84JlQh) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Bryter Layter](https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K) | 3:45 |
 | 11 | [River Man](https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Five Leaves Left](https://open.spotify.com/album/7IpcJbVxLLEfW0KXB7ndE2) | 4:18 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33j7fa.md) - [plain]
 | 31 | [Black Eyed Dog](https://open.spotify.com/track/1ORNDo58BSH2uP0nNXJTT1) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Made To Love Magic](https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR) | 3:27 |
 | 32 | [Milk And Honey](https://open.spotify.com/track/7bsSdjF8UgqleAaBTTiYql) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Family Tree](https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo) | 2:59 |
 
-Snapshot ID: `ZtUAAAAAAACOpzyhwTbCflEHmrNiU0Sv`
+Snapshot ID: `ZtZRgAAAAACLqnqvz7VrpCh+oCGAPRMp`

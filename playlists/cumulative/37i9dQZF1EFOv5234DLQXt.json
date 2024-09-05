@@ -2246,10 +2246,28 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 245080,
       "name": "Zona de Promesas",
       "url": "https://open.spotify.com/track/3XiTDH6e5xhCpVHPPz4vQR"
+    },
+    {
+      "album": {
+        "name": "Cantora 2",
+        "url": "https://open.spotify.com/album/3pnyaihZuauVqbp3SiRy3r"
+      },
+      "artists": [
+        {
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238840,
+      "name": "Zona de Promesas (with Gustavo Cerati)",
+      "url": "https://open.spotify.com/track/1YBSWq2Wc7cwgHgvHvMm2Z"
     },
     {
       "album": {

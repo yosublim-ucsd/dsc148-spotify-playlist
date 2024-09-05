@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,562 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 40 | [Tô Aqui de Novo](https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo) | [Vinijoe](https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg), [Pedrin 31](https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx) | [Tô Aqui de Novo](https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp) | 3:35 |
 | 41 | [Desacelera](https://open.spotify.com/track/6AKle6rT20sIcA55YYH8oY) | [Pejota](https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu), [Emiká](https://open.spotify.com/artist/4en1RCnkxLeusJGKXW9JDB) | [Desacelera](https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo) | 2:44 |
 | 42 | [Bóra](https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt) | [Kayode](https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW), [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [Bóra](https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv) | 3:55 |
-| 43 | [Slow](https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Slow](https://open.spotify.com/album/4ggL80W6aIdxgFyicdQOzl) | 3:06 |
+| 43 | [Pu'ce](https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Pu'ce](https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C) | 2:45 |
 | 44 | [Me Conta](https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Me Conta](https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs) | 3:16 |
 | 45 | [Lembra?](https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ) | [CT](https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV) | [Lembra?](https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU) | 2:07 |
 | 46 | [Águas Passadas](https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj) | [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Águas Passadas](https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc) | 2:38 |
 | 47 | [Aí é Bom Demais](https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0) | [Garius](https://open.spotify.com/artist/0BXmaBCcv4S4rYZc0nECVA), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Deagaene](https://open.spotify.com/artist/5JcChpQICoJnLNmzEgpWEq) | [Aí é Bom Demais](https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu) | 3:17 |
 | 48 | [Medusa](https://open.spotify.com/track/11jWFITfECvDfLi3ukJWYt) | [Ryan Realcria](https://open.spotify.com/artist/24km46riM1Ch9H1eNDQcuX), [Bi$](https://open.spotify.com/artist/3PLe9jQKKCodC1Q6kB5MdA) | [Medusa](https://open.spotify.com/album/7kQSGEo2Sk1Kxmt3NYdzdT) | 2:24 |
-| 49 | [Pu'ce](https://open.spotify.com/track/23Zy5CXzgMyu7McnxPgdVD) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Pu'ce](https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C) | 2:45 |
+| 49 | [Slow](https://open.spotify.com/track/2gV2UT3QTYlmx6KduymFg1) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Slow](https://open.spotify.com/album/4ggL80W6aIdxgFyicdQOzl) | 3:06 |
 | 50 | [Proveito](https://open.spotify.com/track/2Q7d9bsJArH3ecLOBd6Axs) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/3AZhDI5vJnZtHvI3Z1cC0S) | 3:36 |
 
 Snapshot ID: `ZtE17AAAAACAKFnOQdI6i11IAWGcjRrF`

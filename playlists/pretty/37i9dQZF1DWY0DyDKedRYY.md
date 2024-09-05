@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Chance Peña
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,367 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,355 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 3 | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/track/4xbfYPpKIKtGU4iEK3WW2C) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [PJ \(feat\. Lil Baby\)](https://open.spotify.com/album/4ulbgdzzSPhT7HEmUWfUPG) | 2:58 |
 | 4 | [Mirada](https://open.spotify.com/track/0tXFWZC3ZF44vgi0h2o4iI) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [MIRADA](https://open.spotify.com/album/4QwYcMNFzIhUctirR6XKDM) | 2:47 |
 | 5 | [Newspaper Boat](https://open.spotify.com/track/4Ji0qrNoExLxTlu0ezFKmR) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [Jungle In The City](https://open.spotify.com/album/3L0Uu4uPGQ7CaFFdbo5YdX) | 4:16 |
-| 6 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 6 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 7 | [act like](https://open.spotify.com/track/3P3PONWYGlQWSu3rd4wGIl) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 2:20 |
 | 8 | [OBVIOUS](https://open.spotify.com/track/42sqQTi2EqDPd6Iex66joE) | [Fordo](https://open.spotify.com/artist/56MVymJsDkkMOkpmlzbvqa) | [OBVIOUS](https://open.spotify.com/album/7xIca8DCJWtimWJLLJeD3W) | 3:10 |
 | 9 | [rmb da time' \(dundadundun\)](https://open.spotify.com/track/31AW2cF3747K6LYnfkASm5) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR), [Ziahfyah](https://open.spotify.com/artist/53kUGCuekuXoSYPISirZpl) | [rmb da time' \(dundadundun\)](https://open.spotify.com/album/54Ih1ReTQRjLCtOIgIhOFM) | 2:10 |

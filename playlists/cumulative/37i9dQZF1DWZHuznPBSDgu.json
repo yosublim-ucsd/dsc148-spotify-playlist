@@ -347,24 +347,6 @@
     },
     {
       "album": {
-        "name": "\u30cf\u3099\u30e9\u30c3\u30c8\u3099 '77~'82",
-        "url": "https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD"
-      },
-      "artists": [
-        {
-          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
-          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
-        }
-      ],
-      "date_added": "2023-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 210706,
-      "name": "Oh!\u30af\u30e9\u30a6\u30c6\u3099\u30a3\u30a2",
-      "url": "https://open.spotify.com/track/0jUvRgPeGNS48HZ5dbUBk7"
-    },
-    {
-      "album": {
         "name": "\u30d0\u30e9\u30c3\u30c9\uff13 \uff5ethe album of LOVE\uff5e",
         "url": "https://open.spotify.com/album/2UVNn2pM6ARwyJ5HxdPBFg"
       },
@@ -380,6 +362,24 @@
       "duration_ms": 235533,
       "name": "OH, GIRL\uff08\u60b2\u3057\u3044\u80f8\u306e\u30b9\u30af\u30ea\u30fc\u30f3\uff09",
       "url": "https://open.spotify.com/track/1VRqtVKwdsvOQu7FxcUWRy"
+    },
+    {
+      "album": {
+        "name": "\u30d0\u30e9\u30c3\u30c9\u3000'77\uff5e'82",
+        "url": "https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD"
+      },
+      "artists": [
+        {
+          "name": "\u30b5\u30b6\u30f3\u30aa\u30fc\u30eb\u30b9\u30bf\u30fc\u30ba",
+          "url": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael"
+        }
+      ],
+      "date_added": "2023-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210706,
+      "name": "Oh\uff01\u30af\u30e9\u30a6\u30c7\u30a3\u30a2",
+      "url": "https://open.spotify.com/track/0jUvRgPeGNS48HZ5dbUBk7"
     },
     {
       "album": {
@@ -689,7 +689,7 @@
     },
     {
       "album": {
-        "name": "\u30cf\u3099\u30e9\u30c3\u30c8\u3099 '77~'82",
+        "name": "\u30d0\u30e9\u30c3\u30c9\u3000'77\uff5e'82",
         "url": "https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD"
       },
       "artists": [

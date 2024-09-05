@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eRPd9frC1m.md) - [plain]
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,587,059 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,587,132 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [leavemealone](https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [leavemealone](https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb) | 3:42 |
-| 2 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 2 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 3 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 |
 | 4 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 |
 | 5 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |

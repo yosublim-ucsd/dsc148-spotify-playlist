@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 
 > ที่สุดเพลงฮิตในไทย รวมเพลงเด่นจากทั่วโลก\. ศิลปิน: FOURTH
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,491 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,539 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc51TI5dx7RC.md) - [plain]
 | 35 | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/track/43eS61ezviPc61XDu6tRYR) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [เผื่อวันไหนเธอจะกลับมา](https://open.spotify.com/album/3TssDAhHAEuj5IIoLjLJ5U) | 3:59 |
 | 36 | [ดาวหางฮัลเลย์](https://open.spotify.com/track/56wDFSIa9Tr7zbEXUVMwjP) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ดาวหางฮัลเลย์](https://open.spotify.com/album/3ZqqQUWMeZasXiZhu7L1Zl) | 3:44 |
 | 37 | [ดีใจรึเปล่า](https://open.spotify.com/track/1WbqdJzBawPmNVBL1tT7dK) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ดีใจรึเปล่า](https://open.spotify.com/album/4D1IFvo9V2Y8Ty52v8LcyE) | 4:08 |
-| 38 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 38 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 39 | [วันนี้ปีที่แล้ว](https://open.spotify.com/track/4bnxMt1viexb85sAtVz1dA) | [MEYOU](https://open.spotify.com/artist/4G5OlxtrOm9ADmu3VZgFbG) | [วันนี้ปีที่แล้ว \- Single](https://open.spotify.com/album/6gI2LOnO76dKJ97awecXIx) | 3:53 |
 | 40 | [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 |
 | 41 | [จดจำ](https://open.spotify.com/track/2CjNvED1BSLPG1jYENA0QS) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [จดจำ \- Single](https://open.spotify.com/album/60XMexQBFQjM99UfV0QdoR) | 5:34 |

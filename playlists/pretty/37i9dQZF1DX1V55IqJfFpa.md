@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1V55IqJfFpa.md) - [plain]
 
 > aquí pura vibra chida de verano ✨ Nsqk en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,136 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,342 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,242 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,257 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwZRNpP8kqb.md) - [plain]
 | 81 | [Volverè Siempre a San Juan](https://open.spotify.com/track/3S9Z0cuE5E6po46Mej4Yui) | [Claudia Pirán](https://open.spotify.com/artist/51SK2K3KAlKxpGzc8zja7P) | [Pasaje al Corazón](https://open.spotify.com/album/5mDREF3d8nq1k3PGEs4IZc) | 3:31 |
 | 82 | [Pétalo de Sal](https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Buscando el sol](https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT) | 3:15 |
 | 83 | [A la Mañanita](https://open.spotify.com/track/0Ti0CDAul42PGXeBjzfOnd) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be), [Matias Betti](https://open.spotify.com/artist/08WMcz05WBuMoNqxYBagBc) | [Verdeado Dulzor](https://open.spotify.com/album/2EbX3kgkMgWKKoRK2l7REI) | 2:31 |
-| 84 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 |
-| 85 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
+| 84 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
+| 85 | [Mate Con Cedrón](https://open.spotify.com/track/1leD3TsB3nNofcOwqHQHnG) | [Marité Berbel](https://open.spotify.com/artist/36qkmiSQko9dzUPJXFKueU) | [Sigo Soñando](https://open.spotify.com/album/55OtrniFRuCVB1rh7rxDnA) | 2:50 |
 | 86 | [Asuntos Pendientes](https://open.spotify.com/track/6PTupRbVwBr1wX8sD0YCFt) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 |
-| 87 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
-| 88 | [Astilla de Tus Montes](https://open.spotify.com/track/1oyglyKvUdZflbmHMqpX0b) | [Rocío Sanjurjo Abalos](https://open.spotify.com/artist/6jBoGQrIq53YHEI7nnaqr5), [Darío Barozzi](https://open.spotify.com/artist/7wWcoNAI3kXg6vBcVYV74Z) | [Anidar](https://open.spotify.com/album/59qJErVdXwuD3ywHTZa7uD) | 2:36 |
+| 87 | [La Maimareña](https://open.spotify.com/track/4hsuc4Xq5UfZMoYpA3H72J) | [Julia Elena Dávalos](https://open.spotify.com/artist/6znApi0MuZQEpmkAroh1IU) | [Cantora](https://open.spotify.com/album/7vwAQYRjCKPReZYIQYwp29) | 2:53 |
+| 88 | [Secretos](https://open.spotify.com/track/0KMwXfkFUQvhL2JpVnf3gY) | [Nosas](https://open.spotify.com/artist/12uumDdB9e1f4J4qyC4p03) | [Melodías que sobran](https://open.spotify.com/album/1ct9yz0dqbKdqEhh6hcsWI) | 3:28 |
 | 89 | [Cómo Pájaros en el Aire](https://open.spotify.com/track/5ZA0iEXMqSs7f9YzRnqj1u) | [Anabella Zoch](https://open.spotify.com/artist/7hxv4viTwAh1SxAFcB2u2v) | [Espejo de Amor: Anabella Zoch Canta a Peteco Carabajal](https://open.spotify.com/album/5EvslgD1DNVwI7OOXBGviw) | 4:27 |
-| 90 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
+| 90 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
 | 91 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 |
-| 92 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
-| 93 | [La Copla Triste](https://open.spotify.com/track/6nseIjjosmhP2oLfCzm3Zc) | [María y Cosecha](https://open.spotify.com/artist/5kOLdtx8iK9p4Ka01J1wEH) | [Agosto](https://open.spotify.com/album/3Zknqrbbw1TiFoeDLeJnl7) | 3:26 |
+| 92 | [La Arruguita](https://open.spotify.com/track/27ZRd4JyUtaRAx6RgKNZET) | [Mavi Diaz &  Las Folkies](https://open.spotify.com/artist/7hxEyNaUhWIl2tBNYBXR9Z) | [Gaucha](https://open.spotify.com/album/03OShV7EW4Q1AGy3MbLkE0) | 1:47 |
+| 93 | [Maria Sabina](https://open.spotify.com/track/59WZZenkOSwmCN1BzbXHBO) | [Paola Bernal](https://open.spotify.com/artist/4tL93YWLvL0kNlg42d6I8f) | [Pajaro Rojo](https://open.spotify.com/album/30CNaOBBICXPs1CcmqC0RL) | 4:59 |
 | 94 | [Canción Repentina](https://open.spotify.com/track/2sa6bCsoc8rBlxSPdxpObs) | [Verde Trébol](https://open.spotify.com/artist/24KqDdEAK2qD277Eyc0aPl) | [No Hacen Falta Alas](https://open.spotify.com/album/4Z1X0T3S4fgIOlfvNPxvFQ) | 2:42 |
 | 95 | [Guitarra, Dímelo Tú](https://open.spotify.com/track/4IhafbJrYWVrSfWt5qiaL9) | [Suma Paz](https://open.spotify.com/artist/6EINkNkWN74E8LNbTt3pVe) | [Canto de Nadie](https://open.spotify.com/album/22IpmEhX4X2AyPw86iNIzE) | 3:10 |
 | 96 | [Zamba de Carnaval](https://open.spotify.com/track/3RpSwGmzKDbbZbd7ck91QP) | [Rocio Araujo](https://open.spotify.com/artist/6UtYC4NKlcaHeRjiYFaeBg) | [Conviccion](https://open.spotify.com/album/0wj18e2GExiXfHbEObWwy2) | 4:19 |

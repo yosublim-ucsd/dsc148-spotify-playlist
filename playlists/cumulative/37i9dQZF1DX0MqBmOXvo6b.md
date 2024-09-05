@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-667 songs - 1 day 4 hr 17 min
+669 songs - 1 day 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2022-06-07 |  |
 | [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 | 2024-03-19 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-06-07 |  |
+| [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 | 2024-09-02 |  |
 | [Floating](https://open.spotify.com/track/1fcPVf8Rqckxy4wxC4vYoz) | [Way Beyond](https://open.spotify.com/artist/7qZK8mnemfBOD9VVjRxB1Z) | [Floating](https://open.spotify.com/album/0zB9fYEcH3zXLvL2Wporwa) | 1:57 | 2022-06-07 | 2023-07-25 |
 | [Flower Wings](https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S) | [Léon Mignard](https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL) | [Flower Wings](https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv) | 2:18 | 2024-04-17 |  |
 | [Flowers](https://open.spotify.com/track/1wawCywSOC0uHeauIiCibd) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [Flowers](https://open.spotify.com/album/0vXwvweYixVXGGlhfqHqw0) | 2:17 | 2023-09-05 |  |
@@ -268,7 +269,7 @@
 | [Keep You Safe](https://open.spotify.com/track/6XwdGPFuIObAvlrgwTuFOC) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Keep You Safe](https://open.spotify.com/album/7llQfYCqtcg0uXYQu2ZQOx) | 2:04 | 2022-06-07 |  |
 | [Keepsake](https://open.spotify.com/track/3OacSixqamhyHu3M2fRqxU) | [Pamela Goldings](https://open.spotify.com/artist/0zz0ZeRODmieOdGKeznHQA) | [Keepsake](https://open.spotify.com/album/6g1Mpl8jLuLTcR8mO2Qpon) | 2:32 | 2023-11-28 |  |
 | [Kiriume](https://open.spotify.com/track/6VaWHjTTcKiPjWEkejHkMR) | [Arden Forest](https://open.spotify.com/artist/3LUa5res2UmvZ04kvlPMc7) | [Kiriume](https://open.spotify.com/album/63qOqv2FOkfpIUs2SKEuH6) | 2:24 | 2022-06-07 | 2023-06-22 |
-| [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2022-06-07 |  |
+| [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 | 2022-06-07 | 2024-09-05 |
 | [L'estétique](https://open.spotify.com/track/7jTY0nAzuv2Gm3Y7MCQR5Z) | [Elena Miguel](https://open.spotify.com/artist/5gK5I1IIdNR5gZNGhYuJLD) | [L'estétique](https://open.spotify.com/album/6nDRfDYFbnuhstYE9OBjTO) | 1:59 | 2022-06-07 | 2022-07-20 |
 | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/track/2DbJvzfZ5tb6Iz12uZrywG) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [La gatta frettolosa fece i gattini ciechi](https://open.spotify.com/album/6vrXwzmTmZ7aH9rRjt5bd8) | 1:47 | 2022-06-07 | 2022-09-24 |
 | [Lady Ground](https://open.spotify.com/track/7f6YYO3XtJgWiddeVqnhI0) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Lady Ground](https://open.spotify.com/album/2yFKE5lcraojoSTsV7Jl0a) | 2:54 | 2022-06-07 |  |
@@ -300,7 +301,7 @@
 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 | 2024-03-05 |  |
 | [Little Home](https://open.spotify.com/track/0Zi9n2e0CCh9PipP8FI4Hn) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Different Kinds of Silence](https://open.spotify.com/album/6uWIBPRBygQToejf8rWu0a) | 2:51 | 2023-02-06 | 2024-04-19 |
 | [Little Home](https://open.spotify.com/track/3jJpGbcFO68CduWReWo1oV) | [Eik Octobre](https://open.spotify.com/artist/5TOIlVyy8otZ53kt3WxdrK) | [Little Home](https://open.spotify.com/album/61DvnLfaBfNvoIf0dDcDsM) | 2:51 | 2022-06-07 | 2023-02-23 |
-| [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-06-07 |  |
+| [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 | 2022-06-07 | 2024-09-05 |
 | [Little While](https://open.spotify.com/track/1f9RHATlSLTKsEgGjC6lQh) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Little While](https://open.spotify.com/album/11gmPF0r2oGtFQ6WP943jU) | 2:35 | 2022-06-07 |  |
 | [Loire](https://open.spotify.com/track/01353wne9nMZmBlVdp9M1m) | [Coralie Millet](https://open.spotify.com/artist/3h7raNEnMaJcwnLeOr4TQV) | [Loire](https://open.spotify.com/album/1oH7qGWFBBYNekfY2blTNS) | 2:14 | 2022-06-07 | 2022-07-20 |
 | [Longues Plages](https://open.spotify.com/track/5Oyyykx2FGneJJgZjZxZyj) | [Danette Allard](https://open.spotify.com/artist/7i3VAz5T2mPx61l8S7V3LI) | [Longues Plages](https://open.spotify.com/album/5vM6hwPpKgHfytWlqEU7jJ) | 2:45 | 2022-06-07 | 2024-03-27 |
@@ -656,6 +657,7 @@
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2022-06-07 | 2024-05-09 |
 | [Why Do We Change?](https://open.spotify.com/track/4UJ9CeB5TeQfHdhGvwYKnH) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Why Do We Change?](https://open.spotify.com/album/6UgPmbtXd16KezvPEqgILh) | 2:46 | 2022-06-07 | 2023-08-11 |
 | [Windows](https://open.spotify.com/track/2mfV2cjYcEnBmqjT1qih83) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Windows](https://open.spotify.com/album/4SiQ4V6EHnYTjvE5tcaN0j) | 2:21 | 2022-06-07 | 2022-09-24 |
+| [Windswept](https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Windswept](https://open.spotify.com/album/4fIJCoIOzSAHmmZQETFkf2) | 3:19 | 2024-09-02 |  |
 | [Winged Melancholy](https://open.spotify.com/track/5zz75ole7gzWU3YhOHgx4P) | [Patrick Hamilton](https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ) | [Winged Melancholy](https://open.spotify.com/album/4XXfes67gExeafFINOtoPL) | 2:19 | 2022-06-07 | 2022-09-15 |
 | [winter waltz](https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [winter waltz](https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h) | 2:51 | 2024-02-05 |  |
 | [Wish of the Progeny](https://open.spotify.com/track/1Lz6DNlm1D9T1qc2JbAwit) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:29 | 2022-06-07 | 2024-01-15 |

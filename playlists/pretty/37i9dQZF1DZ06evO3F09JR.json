@@ -1,13 +1,29 @@
 {
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
-  "num_followers": 1309,
+  "num_followers": 1310,
   "original_name": "This Is Alessandro Cortini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABQRTB0fbanoXNnrC8AOYne",
+  "snapshot_id": "ZtZRgAAAAAAPeG2/TFm52akctQsMqL4W",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "IV",
+        "url": "https://open.spotify.com/album/4Vb2SuRDHzpmrLH2KJSJmG"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 305749,
+      "name": "IV",
+      "url": "https://open.spotify.com/track/5aFjxj67TfCqxztInFyhtp"
+    },
     {
       "added_at": null,
       "album": {
@@ -371,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emosfere",
-        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+        "name": "VOLUME MASSIMO",
+        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
       "artists": [
         {
@@ -380,9 +396,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 461298,
-      "name": "Quinta Emosfera",
-      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
+      "duration_ms": 308813,
+      "name": "LET GO",
+      "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
     },
     {
       "added_at": null,
@@ -427,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 461298,
+      "name": "Quinta Emosfera",
+      "url": "https://open.spotify.com/track/7dNWIGQs3AjqUWd1TdVg6V"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
@@ -436,25 +468,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 308813,
-      "name": "LET GO",
-      "url": "https://open.spotify.com/track/40L92SC94k4NHvXTI9MxrU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonno: Nuit Noire Tape (Live)",
-        "url": "https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 1275000,
-      "name": "Sonno Side A (Live)",
-      "url": "https://open.spotify.com/track/2c5ROKD75qsYLeIuC1zVzC"
+      "duration_ms": 343169,
+      "name": "SABBIA",
+      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
     },
     {
       "added_at": null,
@@ -495,6 +511,22 @@
       "duration_ms": 376615,
       "name": "Perdere",
       "url": "https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonno: Nuit Noire Tape (Live)",
+        "url": "https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 1275000,
+      "name": "Sonno Side A (Live)",
+      "url": "https://open.spotify.com/track/2c5ROKD75qsYLeIuC1zVzC"
     },
     {
       "added_at": null,
@@ -544,9 +576,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 384657,
-      "name": "Quarta Emosfera",
-      "url": "https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU"
+      "duration_ms": 463644,
+      "name": "Sesta Emosfera",
+      "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
     },
     {
       "added_at": null,
@@ -580,57 +612,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 343169,
-      "name": "SABBIA",
-      "url": "https://open.spotify.com/track/1wUAoagKfjHyDJQVSc799P"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Risveglio",
-        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 127361,
-      "name": "La Meta",
-      "url": "https://open.spotify.com/track/2ztGZ1f2NjiYY18CmI3BAN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emosfere",
-        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 463644,
-      "name": "Sesta Emosfera",
-      "url": "https://open.spotify.com/track/1buvtoupRp3gJfICXlHyZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sonno: Nuit Noire Tape (Live)",
-        "url": "https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 1336000,
-      "name": "Sonno Side B (Live)",
-      "url": "https://open.spotify.com/track/0O7qkW2GZCdSmIDNqlykBH"
+      "duration_ms": 315448,
+      "name": "BATTICUORE",
+      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
     },
     {
       "added_at": null,
@@ -655,6 +639,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 384657,
+      "name": "Quarta Emosfera",
+      "url": "https://open.spotify.com/track/4jv2QHX1EK7iSYT395wGeU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risveglio",
+        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 127361,
+      "name": "La Meta",
+      "url": "https://open.spotify.com/track/2ztGZ1f2NjiYY18CmI3BAN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonno: Nuit Noire Tape (Live)",
+        "url": "https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 1336000,
+      "name": "Sonno Side B (Live)",
+      "url": "https://open.spotify.com/track/0O7qkW2GZCdSmIDNqlykBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "VOLUME MASSIMO",
         "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
       },
@@ -664,9 +696,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 315448,
-      "name": "BATTICUORE",
-      "url": "https://open.spotify.com/track/0jC4NnWzM1qErySeXvGx7Z"
+      "duration_ms": 359444,
+      "name": "MOMENTI",
+      "url": "https://open.spotify.com/track/6eLxFBOAUkoru90HVkacyO"
     },
     {
       "added_at": null,
@@ -699,54 +731,6 @@
       "duration_ms": 414895,
       "name": "La Sveglia",
       "url": "https://open.spotify.com/track/4ZKXNfLnhAwFAKt6RD7lGU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Forse 1",
-        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VOLUME MASSIMO",
-        "url": "https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 359444,
-      "name": "MOMENTI",
-      "url": "https://open.spotify.com/track/6eLxFBOAUkoru90HVkacyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Emosfere",
-        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 338434,
-      "name": "Seconda Emosfera",
-      "url": "https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW"
     },
     {
       "added_at": null,
@@ -787,6 +771,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Emosfere",
+        "url": "https://open.spotify.com/album/6ACgV6T6VEmQDgSyxzbqqb"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 338434,
+      "name": "Seconda Emosfera",
+      "url": "https://open.spotify.com/track/2swOxJgEdleBGXTQiAOKQW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forse 1",
+        "url": "https://open.spotify.com/album/1HmOuZVCAp0Y39JaqknZ6K"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/3F7lJxQ0B6watLGlV1oOmh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Concordia University (Live) [Montreal 2009]",
         "url": "https://open.spotify.com/album/1gsd7TJk8u6rMb8eP28uv3"
       },
@@ -799,6 +815,22 @@
       "duration_ms": 2345500,
       "name": "Concordia University (Live) [Montreal 2009]",
       "url": "https://open.spotify.com/track/5YA53lwxWqzmwa0i3UZeNT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Risveglio",
+        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 396596,
+      "name": "La Guardia",
+      "url": "https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f"
     },
     {
       "added_at": null,
@@ -828,25 +860,9 @@
           "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
         }
       ],
-      "duration_ms": 302834,
-      "name": "VERDE",
-      "url": "https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Risveglio",
-        "url": "https://open.spotify.com/album/5fAdZa0NA7lkx1SSH5i7OG"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 396596,
-      "name": "La Guardia",
-      "url": "https://open.spotify.com/track/3W9EtXgVkjZfcSGPjsxU4f"
+      "duration_ms": 313543,
+      "name": "LO SPECCHIO",
+      "url": "https://open.spotify.com/track/5UsGULCoSIl588deHBqgFi"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spettri",
-        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
-      },
-      "artists": [
-        {
-          "name": "Alessandro Cortini",
-          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
-        }
-      ],
-      "duration_ms": 518000,
-      "name": "Spettro I",
-      "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Immediate Horizon",
         "url": "https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2"
       },
@@ -907,6 +907,22 @@
       "duration_ms": 299196,
       "name": "Immediate Horizon 1",
       "url": "https://open.spotify.com/track/3FaAMSO4RytHjUQ2CKUprQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spettri",
+        "url": "https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "duration_ms": 518000,
+      "name": "Spettro I",
+      "url": "https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX"
     }
   ],
   "unique_name": "This Is Alessandro Cortini",

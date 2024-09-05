@@ -3533,6 +3533,32 @@
     },
     {
       "album": {
+        "name": "Khoobsurat (From \"Stree 2\")",
+        "url": "https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Vishal Mishra",
+          "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244583,
+      "name": "Khoobsurat (From \"Stree 2\")",
+      "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
+    },
+    {
+      "album": {
         "name": "khoya sa",
         "url": "https://open.spotify.com/album/6IiHRcLjSVjw20V5ctMCoU"
       },
@@ -4510,7 +4536,7 @@
           "url": "https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn"
         },
         {
-          "name": "M. M. Keeravani",
+          "name": "M. M. Keeravaani",
           "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
         },
         {

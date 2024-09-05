@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 
 ### [This Is Lola Indigo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1QmCJj)
 
-> This Is Lola Indigo\. Los temas esenciales, todos en una lista.
+> This is Lola Indigo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,044 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,064 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 2 | [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 |
 | 3 | [1000COSAS](https://open.spotify.com/track/6xqQDwzjswlToEEHgvA3KM) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [1000COSAS](https://open.spotify.com/album/0tsruTj7W1OO3QyOLdnoBj) | 3:59 |
 | 4 | [Casanova](https://open.spotify.com/track/0qZhK4gFB5c1Wxsnd6WA8U) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Casanova](https://open.spotify.com/album/0igR3TtSOtN4dCTFH9wA71) | 4:03 |
-| 5 | [EL PANTALON \- RUMBAS](https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR) | [LAGRIMAS DE UN MALEANTE](https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q) | 3:13 |
-| 6 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 |
+| 5 | [EL TONTO](https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 3:07 |
+| 6 | [EL PANTALON \- RUMBAS](https://open.spotify.com/track/7CsOowK8aWlxgjuZLW7pXA) | [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Las Chuches](https://open.spotify.com/artist/4Orj5NmOg4wuREX0dzsyjR) | [LAGRIMAS DE UN MALEANTE](https://open.spotify.com/album/4hzbSxExXzavyIJGmqQb5q) | 3:13 |
 | 7 | [UNA BACHATA](https://open.spotify.com/track/4SmMe198ot30paOyvuTH5w) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:37 |
 | 8 | [KOMBOLEWA \- Remix](https://open.spotify.com/track/1mLTFke4DR2dwAkDORrrvq) | [Suzete](https://open.spotify.com/artist/2JXeQeL8WjIbo6GIiCJjea), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [KOMBOLEWA \(Remix\)](https://open.spotify.com/album/5CYQvAzeyM6VYqBINgo5ST) | 2:51 |
 | 9 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1QmCJj.md) - [plain]
 | 50 | [Chivirika \- Remix](https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I) | [El Villanord](https://open.spotify.com/artist/3CLzGEm4DCOh5ouaMm6mZs), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Chivirika \(Remix\)](https://open.spotify.com/album/2hi0gHwba26cTJEY3YAko2) | 5:37 |
 | 51 | [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 |
 
-Snapshot ID: `ZtUAAAAAAABE4pmGCZa5OcdxvS03nh/Y`
+Snapshot ID: `ZtZRgAAAAABQl2LJYjmIGg9EWVIZprH2`

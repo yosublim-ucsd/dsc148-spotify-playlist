@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 572763,
+  "num_followers": 572803,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACH7wT8DkHGYiOC61yW2zIn",
+  "snapshot_id": "ZtZRgAAAAADbRhKZo1haIOZ2lBd5X/JR",
   "tracks": [
     {
       "added_at": null,
@@ -919,18 +919,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twenty Five",
-        "url": "https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY"
+        "name": "Duets An American Classic",
+        "url": "https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX"
       },
       "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
         {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 278573,
-      "name": "An Easier Affair - Remastered 2006",
-      "url": "https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o"
+      "duration_ms": 323320,
+      "name": "How Do You Keep the Music Playing? (with George Michael)",
+      "url": "https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI"
     }
   ],
   "unique_name": "This Is George Michael",

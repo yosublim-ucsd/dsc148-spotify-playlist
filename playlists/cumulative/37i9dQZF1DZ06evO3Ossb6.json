@@ -487,6 +487,32 @@
     },
     {
       "album": {
+        "name": "Dislexia creativa",
+        "url": "https://open.spotify.com/album/0hxBCwgjaDwFd6wT0LcTiQ"
+      },
+      "artists": [
+        {
+          "name": "Jer\u00e9 conZ",
+          "url": "https://open.spotify.com/artist/7zwr9JDl1jdc3bpfnEYAho"
+        },
+        {
+          "name": "JorgeGomez",
+          "url": "https://open.spotify.com/artist/6UeJZKcnQKv2R503A3PeBo"
+        },
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249000,
+      "name": "Jer\u00e9 con Z - Dislexia Creativa - 09 - Pedro Cacerola",
+      "url": "https://open.spotify.com/track/7v4r6efjfVoZA54VHnca5n"
+    },
+    {
+      "album": {
         "name": "La Cumbia Triste",
         "url": "https://open.spotify.com/album/7DSLHSjqV7CCjNa1NxKi2P"
       },
@@ -672,7 +698,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 198453,
       "name": "Mentirosos",
       "url": "https://open.spotify.com/track/5P00gBfGxu2SyAD0M8yAMn"

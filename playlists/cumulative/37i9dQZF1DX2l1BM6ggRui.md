@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-147 songs - 8 hr 12 min
+148 songs - 8 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [be like YOU](https://open.spotify.com/track/2OpFlqsiJHetPoNMWpHJhE) | [JUNGSOOMIN](https://open.spotify.com/artist/5e907QyP66bLqY6UiT2sXc) | [be like YOU](https://open.spotify.com/album/4DvrkrGMiV3rl5GaoskeG8) | 2:34 | 2024-05-27 |  |
 | [Be with me](https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [Beloved](https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu) | 4:37 | 2024-03-27 |  |
 | [Be Your Love](https://open.spotify.com/track/7nNdcIrE2rIybmnLdvjgBA) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/52RD1LIAFhL4YrqrMxUpXN) | 3:12 | 2023-11-03 | 2024-01-23 |
-| [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 | 2024-03-08 |  |
+| [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 | 2024-03-08 | 2024-09-05 |
 | [Beautiful Restriction](https://open.spotify.com/track/7CHDUDw89DCR8vvI0yTXGa) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [A Time Called You \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5qHH0SHWf5yQxG4yqHnIzY) | 3:52 | 2023-11-03 | 2024-03-09 |
 | [BENCH \(with Zion.T\)](https://open.spotify.com/track/52nOiyRgQ7B7N7FjXhCCgz) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:45 | 2024-03-08 |  |
 | [Bon voyage](https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c) | [YooA](https://open.spotify.com/artist/4ur1jCwyNlhgd0viJkOtcQ) | [Bon Voyage](https://open.spotify.com/album/2dFsfVOAwvmRV8hOBdssiI) | 3:39 | 2023-11-03 | 2024-03-09 |
@@ -90,6 +90,7 @@
 | [Lovin' Me](https://open.spotify.com/track/2CcdmXIMEObTJM5CCPXfma) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 3:09 | 2024-03-27 | 2024-04-19 |
 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 | 2024-03-27 |  |
 | [Lucky Girl Syndrome](https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:20 | 2024-03-27 |  |
+| [LUMOS](https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr) | [AEONIT](https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF) | [LUMOS](https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO) | 2:37 | 2024-09-04 |  |
 | [LUNATIC](https://open.spotify.com/track/3hicr5nSY0RrKGEy3nYZwU) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:25 | 2023-11-03 | 2024-03-09 |
 | [Marry You](https://open.spotify.com/track/14bycLXzjEIFKVQCe2K6M2) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:00 | 2023-11-03 | 2024-03-09 |
 | [METEOR](https://open.spotify.com/track/4g6XOg9rvB55GCTJcYchOG) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Boyhood](https://open.spotify.com/album/7ybEq8ZLOtsH2VwdIrjNri) | 3:17 | 2023-11-03 | 2024-04-19 |

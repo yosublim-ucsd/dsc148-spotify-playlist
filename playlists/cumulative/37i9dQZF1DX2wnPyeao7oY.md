@@ -4,7 +4,7 @@
 
 > New music by the heaviest independent artists every Wednesday\. Cover: LOCKED SHUT \| Artwork: Nejc Prah
 
-81 songs - 4 hr 51 min
+82 songs - 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Bloodlines](https://open.spotify.com/track/45t1gsyIjBtIEIa3BNTvzB) | [Melted Bodies](https://open.spotify.com/artist/3l1Z9XFIBCJXaxfpussnIZ) | [Bloodlines](https://open.spotify.com/album/6JdG2NGlYNHKcVmx6gK0Im) | 5:10 | 2024-08-21 |  |
 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-07 |  |
 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 | 2024-08-21 |  |
+| [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-09-04 |  |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-08-07 | 2024-08-29 |
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-08-07 |  |
 | [Crystal Rest](https://open.spotify.com/track/7zXPUkYo3HJNZFvAnygAjO) | [Denigrate](https://open.spotify.com/artist/5KmMe8RlK2emr65JFPsUaw) | [Crystal Rest](https://open.spotify.com/album/2YVL3ZFbs4t09NKa0ZoMU4) | 6:26 | 2024-08-07 |  |
@@ -42,7 +43,7 @@
 | [Green Lights](https://open.spotify.com/track/3zViD1hgl87WDaY70Gf3Iv) | [FUET!](https://open.spotify.com/artist/7aTaQAh9d7z98h0CMrx1s6) | [Green Lights](https://open.spotify.com/album/2mODDvV0uJ4vVHYRSiP6zb) | 2:24 | 2024-08-07 |  |
 | [Heart of Thorns](https://open.spotify.com/track/2ww4jkfTyKGHqx0vWJ5HpG) | [Jager Henry](https://open.spotify.com/artist/6ruldbo2ccvWfvFckCO2Mn), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [Heart of Thorns](https://open.spotify.com/album/31tRafX6l8pVaplRXrtE4q) | 3:37 | 2024-08-07 |  |
 | [Home](https://open.spotify.com/track/2vwet79qkBXw1uUcCMaLhS) | [HUE](https://open.spotify.com/artist/0zdplS4ya9kYvzqcwdrS1P), [Shooters ABM](https://open.spotify.com/artist/7btHSUR8idjj2wMF2iELXv) | [Home](https://open.spotify.com/album/61GqR5lDk787dO5ERGQZrB) | 3:21 | 2024-08-07 |  |
-| [House ≠ Home](https://open.spotify.com/track/4CQA3WAuyb3prHO2f9pSen) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [House ≠ Home](https://open.spotify.com/album/15AerqHUy84VzJfaIofLFS) | 2:55 | 2024-08-14 |  |
+| [House ≠ Home](https://open.spotify.com/track/4CQA3WAuyb3prHO2f9pSen) | [Seven Blood](https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr) | [House ≠ Home](https://open.spotify.com/album/15AerqHUy84VzJfaIofLFS) | 2:55 | 2024-08-14 | 2024-09-05 |
 | [I Feel the Night](https://open.spotify.com/track/0Zv8aSaljJoVwuCJrxRukk) | [IOTUNN](https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz) | [I Feel the Night](https://open.spotify.com/album/6UlqlUXm4XxCJMElrUgJ4N) | 6:34 | 2024-08-28 |  |
 | [I'll Give You Hell](https://open.spotify.com/track/5AFm4hEnZAdCpGWwcvVOKz) | [Arctis](https://open.spotify.com/artist/28NEaGWW9MKwryzTsFX8ko) | [I'll Give You Hell](https://open.spotify.com/album/07gD3jqtgnnxtm4Y1z1Vsr) | 3:39 | 2024-08-28 |  |
 | [INFECTED](https://open.spotify.com/track/7gu9O79HBwb3nobL4Jwkje) | [DOGBITE](https://open.spotify.com/artist/3Xp7gOUxxgoXyJsK3P6uFs), [AMOKKOMA](https://open.spotify.com/artist/7kJo3MmlciDTotWsiBS8nY) | [INFECTED](https://open.spotify.com/album/3nLpeqxL8nkAbSI0Kdn9xU) | 4:18 | 2024-08-07 |  |

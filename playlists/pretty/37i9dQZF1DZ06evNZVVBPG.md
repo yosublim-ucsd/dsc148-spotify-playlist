@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 
 ### [This Is Lana Del Rey](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVVBPG)
 
-> This Is Lana Del Rey\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Lana Del Rey\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,473,387 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,474,188 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVVBPG.md) - [plain]
 | 49 | [Music To Watch Boys To](https://open.spotify.com/track/34rRFl0bz9PocxWuO2ca5J) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:50 |
 | 50 | [Get Free](https://open.spotify.com/track/761QvVHTibYjEi2r6A4g4Q) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 5:34 |
 
-Snapshot ID: `ZtUAAAAAAACG4li8ayIUoZE72pdI+hz4`
+Snapshot ID: `ZtZRgAAAAAD/oYMZtw06PQwetFkhj2aW`

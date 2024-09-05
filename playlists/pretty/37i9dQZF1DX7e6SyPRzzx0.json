@@ -1,12 +1,12 @@
 {
   "description": "The home of rage rap. Cover: Destroy Lonely",
-  "num_followers": 64777,
+  "num_followers": 64773,
   "original_name": "RAGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtdzDwAAAACqrqRnTLZ3JjEwjpLsfe1H",
+  "snapshot_id": "ZthmTAAAAAC4ID9rVp2ra19ASfBciqen",
   "tracks": [
     {
       "added_at": "2024-09-03 20:34:19",
@@ -27,38 +27,6 @@
       "duration_ms": 274308,
       "name": "LOVE HURTS (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
-    },
-    {
-      "added_at": "2024-06-15 12:43:38",
-      "album": {
-        "name": "LUV 4 YA",
-        "url": "https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        }
-      ],
-      "duration_ms": 212088,
-      "name": "LUV 4 YA",
-      "url": "https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH"
-    },
-    {
-      "added_at": "2024-08-20 20:38:33",
-      "album": {
-        "name": "A Great Chaos (Deluxe)",
-        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 184375,
-      "name": "ss",
-      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
     },
     {
       "added_at": "2024-09-03 20:35:27",
@@ -99,6 +67,22 @@
       "duration_ms": 214046,
       "name": "GO AGAIN (feat. Superheaven)",
       "url": "https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E"
+    },
+    {
+      "added_at": "2024-08-20 20:38:33",
+      "album": {
+        "name": "A Great Chaos (Deluxe)",
+        "url": "https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 184375,
+      "name": "ss",
+      "url": "https://open.spotify.com/track/26QJuQfM8PVAWkIm1JRyqq"
     },
     {
       "added_at": "2024-08-20 20:38:33",
@@ -183,6 +167,22 @@
       "duration_ms": 134680,
       "name": "IDK IT DEPENDS",
       "url": "https://open.spotify.com/track/0CgH8C1KQbv67P0birF4MN"
+    },
+    {
+      "added_at": "2024-06-15 12:43:38",
+      "album": {
+        "name": "LUV 4 YA",
+        "url": "https://open.spotify.com/album/2k04YImJq8pTvYTOwSB66U"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "LUV 4 YA",
+      "url": "https://open.spotify.com/track/2V9ssBr0S36RJdEXqAREfH"
     },
     {
       "added_at": "2024-08-20 20:38:33",
@@ -479,22 +479,6 @@
       "duration_ms": 94666,
       "name": "Figure It Out",
       "url": "https://open.spotify.com/track/7qHQqWGE4JrOom3uvwHPiJ"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Shibuya",
-        "url": "https://open.spotify.com/album/6N0JK7T9CcsvDOXsIFF9cB"
-      },
-      "artists": [
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 156910,
-      "name": "Shibuya",
-      "url": "https://open.spotify.com/track/3Nv0VdYEBn1B2wxCJK2VV2"
     },
     {
       "added_at": "2024-04-26 05:00:00",
@@ -939,22 +923,6 @@
       "duration_ms": 158137,
       "name": "MMM HMM (feat. Sexyy Red)",
       "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
-    },
-    {
-      "added_at": "2024-04-26 05:00:00",
-      "album": {
-        "name": "Snot or Not",
-        "url": "https://open.spotify.com/album/4PtaK9Se4jUaKwyeTMqnRN"
-      },
-      "artists": [
-        {
-          "name": "Homixide Gang",
-          "url": "https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU"
-        }
-      ],
-      "duration_ms": 105954,
-      "name": "Uzi Work",
-      "url": "https://open.spotify.com/track/4wBaBLQcSSzjdcEC93YxPG"
     }
   ],
   "unique_name": "RAGE",

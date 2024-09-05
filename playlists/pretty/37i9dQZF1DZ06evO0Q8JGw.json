@@ -1,12 +1,12 @@
 {
   "description": "This Is Pearl Jam. Los temas esenciales, todos en una lista.",
-  "num_followers": 759962,
+  "num_followers": 760091,
   "original_name": "This Is Pearl Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAA5HqiBObH0o/l4MMzy9xqB",
+  "snapshot_id": "ZtZRgAAAAAAl2A7EJDqAMWyczcRRql4O",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vitalogy",
-        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Spin the Black Circle - Remastered",
-      "url": "https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lightning Bolt",
         "url": "https://open.spotify.com/album/01WEcEzoa9mfh8fIDhvV1M"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 206893,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/5NHZFD1TXeBwAFV3EzRKjT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vitalogy",
+        "url": "https://open.spotify.com/album/5pd9B3KQWKshHw4lnsSLNy"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Spin the Black Circle - Remastered",
+      "url": "https://open.spotify.com/track/7Al0ADUt8SCPiQIBbTcNdR"
     },
     {
       "added_at": null,

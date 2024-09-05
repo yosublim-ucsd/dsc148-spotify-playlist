@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Orla Gartland
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,085 likes - 89 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,079 likes - 89 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 42 | [Space Invader](https://open.spotify.com/track/25Z5WIk6ORaCTU7dLtz349) | [Ten Fé](https://open.spotify.com/artist/3cohAS2UQTaOo80kCn8qjT) | [Space Invader](https://open.spotify.com/album/1vhdCQ2nTd5vupxIwUsEmx) | 4:45 |
 | 43 | [I CAN'T WRITE A SAD SONG](https://open.spotify.com/track/6teHdvK8vMcYElhoIA7NfD) | [NEEVE](https://open.spotify.com/artist/6Ais7UkieGvrmSxQ8eAull) | [I CAN'T WRITE A SAD SONG](https://open.spotify.com/album/2qan4Iwsd5L9CLIC8suhKh) | 3:05 |
 | 44 | [Hardcore Romance](https://open.spotify.com/track/2DXmrFjBKWY11AiIlZanYD) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Hardcore Romance](https://open.spotify.com/album/6WAU1dlxzNP5jksM5qr3I3) | 3:19 |
-| 45 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
+| 45 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Adam Granduciel](https://open.spotify.com/artist/73KiP7jo5pwsmaAjFZOCY4) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 46 | [When Disco Died](https://open.spotify.com/track/18sRR0V18W0ksA97hdrRDc) | [Laddermen](https://open.spotify.com/artist/5QDHKEjQcF3vDeUsuMtbM9) | [When Disco Died](https://open.spotify.com/album/5xCAGWu0nR64V0AjetGBG8) | 3:40 |
 | 47 | [Territory of Your Heart](https://open.spotify.com/track/3w4OafKQZXziSa9KcRRqwl) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Territory of Your Heart](https://open.spotify.com/album/0OiMIJaH1n6DUe53OD80Mq) | 3:24 |
 | 48 | [Purple Teeth, The Bravery](https://open.spotify.com/track/3RbZSOQW9pgZtrnMqrLnAM) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Purple Teeth, The Bravery](https://open.spotify.com/album/0IYQON1mYTy2JaE8VUHnmV) | 3:04 |

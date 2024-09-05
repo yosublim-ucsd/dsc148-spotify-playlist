@@ -306,7 +306,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 180000,
       "name": "Beautiful (feat. Camila Cabello)",
       "url": "https://open.spotify.com/track/4VUwkH455At9kENOfzTqmF"
@@ -335,6 +335,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+    },
+    {
+      "album": {
         "name": "Lesson Learned",
         "url": "https://open.spotify.com/album/1ShrAiTDbq2soLmIpmIvd8"
       },
@@ -346,7 +364,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 265737,
       "name": "Best Lesson",
       "url": "https://open.spotify.com/track/37V2WeqMC54TPFa7d9PsfM"
@@ -570,7 +588,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 210070,
       "name": "Dream",
       "url": "https://open.spotify.com/track/37gousVr7Tfh7798ae6eac"
@@ -750,7 +768,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 217232,
       "name": "For Cryin' Out Loud!",
       "url": "https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w"
@@ -1318,7 +1336,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-11",
+      "date_removed": null,
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
@@ -1558,7 +1576,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -1620,7 +1638,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
@@ -1638,7 +1656,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 237213,
       "name": "Nobody's Soldier",
       "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
@@ -1884,6 +1902,24 @@
       "duration_ms": 255998,
       "name": "seasons",
       "url": "https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF"
+    },
+    {
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260790,
+      "name": "Senopati in the Rain",
+      "url": "https://open.spotify.com/track/3ydP2Te1Tm99wizbhC55FD"
     },
     {
       "album": {
@@ -2184,7 +2220,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
@@ -2394,7 +2430,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 125806,
       "name": "True",
       "url": "https://open.spotify.com/track/2pw12Ta8UfYKesE52ldUFm"
@@ -2448,7 +2484,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 236575,
       "name": "Untangling",
       "url": "https://open.spotify.com/track/0bSYdcUnIbKJbraPbLc4kj"

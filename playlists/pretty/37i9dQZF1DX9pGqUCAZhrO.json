@@ -1,13 +1,321 @@
 {
   "description": "Live by your own rules. Listen to the official playlist inspired by Bel-Air, streaming now exclusively on  <a href=\"https://www.peacocktv.com/stream-tv/bel-air\">Peacock</a>.",
-  "num_followers": 36223,
+  "num_followers": 36229,
   "original_name": "Bel-Air Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZIsXRgAAAADDLTQl6yohGwBPOvZdEL0/",
+  "snapshot_id": "ZtfbQAAAAAA23RqK7cEMVNOWwtfJt8fY",
   "tracks": [
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "HAN",
+        "url": "https://open.spotify.com/album/5lNkWEQ3JI2nrJL07xjbTh"
+      },
+      "artists": [
+        {
+          "name": "Berhana",
+          "url": "https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl"
+        }
+      ],
+      "duration_ms": 304984,
+      "name": "California",
+      "url": "https://open.spotify.com/track/4lXbVIprNR0de0Rjjzj9Am"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/4G6BILfMKr9J36MWIslf5f"
+      },
+      "artists": [
+        {
+          "name": "BLK ODYSSY",
+          "url": "https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV"
+        }
+      ],
+      "duration_ms": 151220,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/3rCfcTci0MDdEQyyZoZWSY"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "I Left My Heart In Ladera",
+        "url": "https://open.spotify.com/album/0kET3F9lWfNPBZVEHryLuN"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 199074,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/17qHPyrnf0KJyT3EI9PM1m"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Never Gets Late Here",
+        "url": "https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 159394,
+      "name": "Dolla",
+      "url": "https://open.spotify.com/track/3LUa59DK3bfE47WY4M6HnL"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "ETA",
+        "url": "https://open.spotify.com/album/50M8kCOZXF3v3SWdMrojvV"
+      },
+      "artists": [
+        {
+          "name": "SHERIE",
+          "url": "https://open.spotify.com/artist/22QPHxxyb3RvIFvct9EAbu"
+        }
+      ],
+      "duration_ms": 179902,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/4UTOQV3RqdlOqkxLdhxQDw"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "GROOVE WITH ME - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/1AFLKfNYVhAgGZubUO2glF"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        }
+      ],
+      "duration_ms": 165330,
+      "name": "GROOVE WITH ME - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/002zpZlg5aBDdOoMkTlejS"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Summer Pack",
+        "url": "https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 297404,
+      "name": "Feels Like Summer",
+      "url": "https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Sis.",
+        "url": "https://open.spotify.com/album/5udBfaGdflGiQRkL9TORN2"
+      },
+      "artists": [
+        {
+          "name": "KIRBY",
+          "url": "https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU"
+        }
+      ],
+      "duration_ms": 122738,
+      "name": "We Don't Funk",
+      "url": "https://open.spotify.com/track/6M40tXXUSmYeadDMnVULsR"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Good Wine (feat. Rapsody)",
+        "url": "https://open.spotify.com/album/6CssieYWo7uDREKCtaixLe"
+      },
+      "artists": [
+        {
+          "name": "LARA'",
+          "url": "https://open.spotify.com/artist/0WNTADu0FukWXgtEF8V7yu"
+        },
+        {
+          "name": "Harry Edohoukwa",
+          "url": "https://open.spotify.com/artist/2ugmrMhuc5JJjQFFwACJYa"
+        },
+        {
+          "name": "Rapsody",
+          "url": "https://open.spotify.com/artist/6NL31G53xThQXkFs7lDpL5"
+        }
+      ],
+      "duration_ms": 202293,
+      "name": "Good Wine (feat. Rapsody)",
+      "url": "https://open.spotify.com/track/1D3S2IqlSujtnMgFFmIC4R"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "The Lo-Fis",
+        "url": "https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 90708,
+      "name": "Uuuu",
+      "url": "https://open.spotify.com/track/6M0EP76qW9TG4SNU0agu94"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "exodus the north star",
+        "url": "https://open.spotify.com/album/31prAWzIqlD3D7R4qPZlfr"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 74303,
+      "name": "you up?",
+      "url": "https://open.spotify.com/track/3HjRISOy6fhuXb73Pf2kN3"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Starfruit",
+        "url": "https://open.spotify.com/album/0GYnBGNhECdMz7cSo6fYmz"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        }
+      ],
+      "duration_ms": 225960,
+      "name": "Takes Two",
+      "url": "https://open.spotify.com/track/3xHmAiOra48hXpC6B6PVQa"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Dinner Party",
+        "url": "https://open.spotify.com/album/4Wq9dC08uEtSuGc8mFwC3r"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        },
+        {
+          "name": "Kamasi Washington",
+          "url": "https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU"
+        },
+        {
+          "name": "Dinner Party",
+          "url": "https://open.spotify.com/artist/6p70iKebfMSl8zbkiEwOtS"
+        },
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Sleepless Nights (feat. Phoelix)",
+      "url": "https://open.spotify.com/track/6h7jn2jE2EqJadOkDXsDJh"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Central Standard Time",
+        "url": "https://open.spotify.com/album/5ZOpFR8X2GYwMojJOmGxxQ"
+      },
+      "artists": [
+        {
+          "name": "Stik Figa",
+          "url": "https://open.spotify.com/artist/2EOYzFWSEZyYkMfWq7K6nj"
+        },
+        {
+          "name": "Apollo Brown",
+          "url": "https://open.spotify.com/artist/151BUVKmiB9rHDjIkgbeVE"
+        }
+      ],
+      "duration_ms": 196557,
+      "name": "Holding Back Tears",
+      "url": "https://open.spotify.com/track/1drVVKks4T8jA6NwnKVYvG"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "NO THANK YOU",
+        "url": "https://open.spotify.com/album/57263zG8Md6XZ9lBUPPYCm"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 317278,
+      "name": "No Merci",
+      "url": "https://open.spotify.com/track/552lBxKLGjerBDS8VYHOJn"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "The Story of Sonny Boy Slim",
+        "url": "https://open.spotify.com/album/5gRwx5vpeXUA75GmuqwByn"
+      },
+      "artists": [
+        {
+          "name": "Gary Clark Jr.",
+          "url": "https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0z6kwqZiVdhfkwIuWwG8pM"
+    },
     {
       "added_at": "2023-02-23 05:00:00",
       "album": {

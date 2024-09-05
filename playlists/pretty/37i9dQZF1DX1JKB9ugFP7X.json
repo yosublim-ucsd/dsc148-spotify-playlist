@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop electr\u00f3nico en espa\u00f1ol.",
-  "num_followers": 24136,
+  "num_followers": 24133,
   "original_name": "ElectroPop",
   "owner": {
     "name": "Spotify",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2024-08-23 03:00:00",
       "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
+      },
+      "artists": [
+        {
+          "name": "Fakuta",
+          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
+        }
+      ],
+      "duration_ms": 235710,
+      "name": "La Monta\u00f1a",
+      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
+    },
+    {
+      "added_at": "2024-08-23 03:00:00",
+      "album": {
         "name": "Ya fue",
         "url": "https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 186472,
       "name": "Ya fue",
       "url": "https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG"
-    },
-    {
-      "added_at": "2024-08-23 03:00:00",
-      "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL"
-      },
-      "artists": [
-        {
-          "name": "Fakuta",
-          "url": "https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD"
-        }
-      ],
-      "duration_ms": 235710,
-      "name": "La Monta\u00f1a",
-      "url": "https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8"
     },
     {
       "added_at": "2024-08-23 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This Is Banda Machos. Los temas esenciales, todos en una lista.",
-  "num_followers": 60308,
+  "num_followers": 60322,
   "original_name": "This Is Banda Machos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABXEFBZr9WW7Cs2pnD+yLdV",
+  "snapshot_id": "ZtZRgAAAAADu0YLNa+v/FWEbdc0oj8xs",
   "tracks": [
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+        "name": "Los machos tambi\u00e9n lloran",
+        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 172666,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"
+      "duration_ms": 188506,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los machos tambi\u00e9n lloran",
-        "url": "https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30"
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 188506,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/65lfzguWycfHortBjpZAwr"
+      "duration_ms": 172666,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
       "duration_ms": 178506,
       "name": "Mu\u00e9vete morena",
       "url": "https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 215200,
-      "name": "Te lo debo a ti",
-      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 215200,
+      "name": "Te lo debo a ti",
+      "url": "https://open.spotify.com/track/6ZekD6aJtWhH81FV7xIPHo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Gracias Mujer",
         "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sentimientos",
-        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 181106,
-      "name": "Tu otro dios - Tu dios de poder",
-      "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura pasi\u00f3n",
         "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 191266,
       "name": "La noche que Chicago muri\u00f3",
       "url": "https://open.spotify.com/track/2fz0tjz7uUMY9jIxIUTd4H"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentimientos",
+        "url": "https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 181106,
+      "name": "Tu otro dios - Tu dios de poder",
+      "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 141533,
-      "name": "No compro amores",
-      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura pasi\u00f3n",
         "url": "https://open.spotify.com/album/2o7KaI8uRQcQd8TXfcC2uG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 190226,
       "name": "El mandilon",
       "url": "https://open.spotify.com/track/6jLka2PiSCyGNpSTLiVB1l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 141533,
+      "name": "No compro amores",
+      "url": "https://open.spotify.com/track/3RFaoL5rTwLJN0SgG6ERdq"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Pr\u00f3ximo Tonto",
-        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 206120,
-      "name": "El Pr\u00f3ximo Tonto",
-      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Batalla De Bandas Banda El Recodo Vs. Banda Machos",
         "url": "https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 189266,
       "name": "Traficantes Michoacanos",
       "url": "https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 206120,
+      "name": "El Pr\u00f3ximo Tonto",
+      "url": "https://open.spotify.com/track/159vIWmmGLkVzYWqG2oHNb"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
-      },
-      "artists": [
-        {
-          "name": "Banda Machos",
-          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
-        }
-      ],
-      "duration_ms": 123306,
-      "name": "Ingratos ojos m\u00edos",
-      "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Estrellas de la Musica Mexicana (USA)",
         "url": "https://open.spotify.com/album/2JOLFDLR0yxFWPQ2V8f2tY"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 216306,
       "name": "Mi guitarra y yo",
       "url": "https://open.spotify.com/track/0edkcVjFnMaLouhsMHlcXw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rancheras de oro",
+        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "duration_ms": 123306,
+      "name": "Ingratos ojos m\u00edos",
+      "url": "https://open.spotify.com/track/34XdmETpQ8dw17dfyA9znG"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rancheras de oro",
-        "url": "https://open.spotify.com/album/4aPS74SgbMHdVmhcfHEsXD"
+        "name": "El Pr\u00f3ximo Tonto",
+        "url": "https://open.spotify.com/album/3WvE7i1NcHqtHYC7GnE8HF"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
         }
       ],
-      "duration_ms": 153013,
-      "name": "En toda la chapa",
-      "url": "https://open.spotify.com/track/2bYFjXeMwQ9S17ZUbUQ9gq"
+      "duration_ms": 189093,
+      "name": "La Novia Coja",
+      "url": "https://open.spotify.com/track/27PkP7nu6jxF0mJ0SxRYXR"
     }
   ],
   "unique_name": "This Is Banda Machos",

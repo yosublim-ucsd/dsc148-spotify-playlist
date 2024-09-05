@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2pcjIHtCtNOL6UG7yMKv1k">SECH</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-160 songs - 9 hr 22 min
+161 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Lo Malo](https://open.spotify.com/track/4kIuPsijmLzK11RTCseKh7) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sueños](https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX) | 3:08 | 2024-06-11 |  |
 | [Lo Que Dios Quiera](https://open.spotify.com/track/58EEYVahoZAK7crGM6qAwA) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:14 | 2024-06-11 |  |
 | [Loco Contigo \(feat\. J\. Balvin & Tyga\)](https://open.spotify.com/track/6osaMSJh9NguagEDQcZaKx) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Carte Blanche](https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR) | 3:05 | 2024-06-11 |  |
+| [LUNA](https://open.spotify.com/track/46PJdzPGEb06XT7BCYPyHI) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK) | [LUNA](https://open.spotify.com/album/5GePbEJD29vrg2Fi2TeSuN) | 2:44 | 2024-09-04 |  |
 | [Masoquista](https://open.spotify.com/track/371o9tvTqz6CB0gQZZHRds) | [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx), [El Roockie](https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4), [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH) | [Always Dream](https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w) | 3:33 | 2024-06-11 |  |
 | [Me Gustaría](https://open.spotify.com/track/54SVSLkZTLxmGGlvhxTt4I) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Dímelo Flow](https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx) | [Me Gustaría](https://open.spotify.com/album/0njxbT6uDUmE2TxTGlZsp6) | 3:39 | 2024-06-11 |  |
 | [Me Olvidé](https://open.spotify.com/track/1mfMlthHXTmgbQd2MtF1tA) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 2:37 | 2024-06-11 |  |

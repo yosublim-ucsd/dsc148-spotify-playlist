@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charli xcx. Los temas esenciales, todos en una lista.",
-  "num_followers": 124928,
+  "description": "This is Charli xcx. The essential tracks, all in one playlist.",
+  "num_followers": 125233,
   "original_name": "This Is Charli xcx",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAJuwZPtrT+zY+zC60QcKR/",
+  "snapshot_id": "ZtZRgAAAAABU220Ij7Qtx7M0WK8Lcf5r",
   "tracks": [
     {
       "added_at": null,
@@ -239,18 +239,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
-        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 219470,
-      "name": "Hello goodbye",
-      "url": "https://open.spotify.com/track/7KA5C1c2byqgzCCgdo0nZR"
+      "duration_ms": 176479,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
     },
     {
       "added_at": null,
@@ -271,22 +275,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The City",
-        "url": "https://open.spotify.com/album/4yb3RB7teZSVscBmOoDWvT"
+        "name": "Brat and it\u2019s the same but there\u2019s three more songs so it\u2019s not",
+        "url": "https://open.spotify.com/album/316O0Xetgx2NJLRgJBw4uq"
       },
       "artists": [
         {
           "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        },
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
         }
       ],
-      "duration_ms": 176479,
-      "name": "In The City",
-      "url": "https://open.spotify.com/track/3xY5aYJcdvZX9xQxNd02ku"
+      "duration_ms": 219470,
+      "name": "Hello goodbye",
+      "url": "https://open.spotify.com/track/7KA5C1c2byqgzCCgdo0nZR"
     },
     {
       "added_at": null,

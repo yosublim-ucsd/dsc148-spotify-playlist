@@ -5396,7 +5396,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 137631,
       "name": "Higher",
       "url": "https://open.spotify.com/track/7fA7mrYaXVDVVGCAV65NRN"
@@ -6191,6 +6191,28 @@
     },
     {
       "album": {
+        "name": "Ik Haat Hem Voor Jou",
+        "url": "https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz"
+      },
+      "artists": [
+        {
+          "name": "Froukje",
+          "url": "https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp"
+        },
+        {
+          "name": "S10",
+          "url": "https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Ik Haat Hem Voor Jou",
+      "url": "https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF"
+    },
+    {
+      "album": {
         "name": "Nafsi (Pt. II)",
         "url": "https://open.spotify.com/album/6rneBPWDNtU6TIUTVMehfq"
       },
@@ -6828,6 +6850,24 @@
       "duration_ms": 148328,
       "name": "La",
       "url": "https://open.spotify.com/track/5XF583kr3Eojotxl6SOKF0"
+    },
+    {
+      "album": {
+        "name": "La Pression",
+        "url": "https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161311,
+      "name": "La Pression",
+      "url": "https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP"
     },
     {
       "album": {
@@ -10874,7 +10914,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 230199,
       "name": "Somebody Save Me",
       "url": "https://open.spotify.com/track/4HMUrFl8y6rQCzEbaGEkcj"

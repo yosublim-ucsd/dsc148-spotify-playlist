@@ -4,7 +4,7 @@
 
 > This is Shane & Shane\. The essential tracks, all in one playlist.
 
-74 songs - 6 hr 1 min
+75 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,10 +63,11 @@
 | [Psalm 45 \(Fairest of All\)](https://open.spotify.com/track/3EWCQ11cjcgjKOCJFXTKuz) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:25 | 2023-03-17 |  |
 | [Psalm 46 \(Lord of Hosts\)](https://open.spotify.com/track/6obkbpih6pYSgjPyoI75Xp) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 5:02 | 2023-03-17 |  |
 | [Psalm 8 \(How Majestic Is Your Name\)](https://open.spotify.com/track/4SdrS21OB26xY1hWYTOA4i) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:22 | 2023-03-17 |  |
-| [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 | 2023-03-17 |  |
+| [Psalm 84 \(I'm Home\)](https://open.spotify.com/track/6BaCssQMVGSLNElXyrmmGF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:02 | 2023-03-17 | 2024-09-05 |
 | [Psalm 90 \(Satisfy Us with Your Love\)](https://open.spotify.com/track/1BsEjM4yjgsTlykhygDeNr) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs, Vol\. 1](https://open.spotify.com/album/0zQOH5kEUD7CDho30wHTjf) | 5:15 | 2023-03-17 |  |
 | [Psalm 91 \(On Eagles' Wings\)](https://open.spotify.com/track/572afBiucwePeZgB1BBRfC) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Vol\. 2](https://open.spotify.com/album/6pwAGIb6tyzhbsxmEeoTYu) | 4:04 | 2023-03-17 |  |
 | [Sovereign Over Us](https://open.spotify.com/track/7w9H7pkUh4pxDOzFAGQnza) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [The Worship Initiative, Vol\. 11](https://open.spotify.com/album/6Bjl6DD6TP4gYRgO7ZkcI3) | 5:48 | 2023-03-17 |  |
+| [Speak O Lord](https://open.spotify.com/track/3aeNn39bXDyE2HNPkdYI62) | [The Worship Initiative](https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ), [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Modern Hymns](https://open.spotify.com/album/3um1S34YTMpbdo2kEum7k1) | 5:48 | 2024-09-05 |  |
 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/1sUB2adev4A2MPZaEFzsUk) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Psalms, Hymns, and Spiritual Songs \(Live\)](https://open.spotify.com/album/5HQ1DoBSvOsNK0hTw0NvPv) | 4:21 | 2023-04-04 | 2023-11-11 |
 | [Tell the Story \(Psalm 8\) \- Live](https://open.spotify.com/track/5ujsO21VAHuwmoNIdo3tdV) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied), [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ) | [Worship in The Word \(Live\)](https://open.spotify.com/album/2r1bFBFghxJUoSmJe5eTIJ) | 5:26 | 2023-03-17 | 2023-04-05 |
 | [The Lord Is My Salvation](https://open.spotify.com/track/2hGceYvgFdrhriDL1KKDLF) | [Shane & Shane](https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied) | [Hymns, Vol\. 1](https://open.spotify.com/album/2LE9j1hE1bGMiRK4KUdiEF) | 6:11 | 2023-03-17 |  |

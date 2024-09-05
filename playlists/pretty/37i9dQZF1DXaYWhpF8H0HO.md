@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover:  Gabriella Eka Putri
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,699 likes - 99 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,703 likes - 99 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

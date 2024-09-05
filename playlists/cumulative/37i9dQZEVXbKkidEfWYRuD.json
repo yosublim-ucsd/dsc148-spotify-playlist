@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "\u0413\u0443\u043b\u044f\u0439, \u0434\u0443\u0448\u0430",
+        "url": "https://open.spotify.com/album/2Fvv1cvIYXNyOmM04hutX0"
+      },
+      "artists": [
+        {
+          "name": "Mikhail Shufutinsky",
+          "url": "https://open.spotify.com/artist/3Ar1W7H096Z6qSGBMmwSmO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378600,
+      "name": "3-\u0435 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f",
+      "url": "https://open.spotify.com/track/13JjbD8SXv6tljUOfrwvKP"
+    },
+    {
+      "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
       },
@@ -1932,7 +1950,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 210373,
       "name": "BIRDS OF A FEATHER",
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"

@@ -4,7 +4,7 @@
 
 > 1990s alt rock \| 90s alternative rock \| 90s hits \| grunge \| b\-sides \| deep cuts \| rock classics \| 90s throwbacks \| punk \| indie \| early 90s \| late 90s \| alice in chains \| foo fighters \| korn \| pearl jam \| rage against the machine \| tool \| dave matthews band \| incubus \| system of a down \| wheatus
 
-218 songs - 14 hr 59 min
+219 songs - 15 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -197,6 +197,7 @@
 | [The Kids Aren't Alright](https://open.spotify.com/track/4sQJXbtxwoKHG7PwMRJ0Ig) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Americana](https://open.spotify.com/album/7rgq4mAjZOPGVJCRF56FU4) | 2:59 | 2022-04-07 | 2023-07-11 |
 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 | 2022-04-07 | 2023-07-11 |
 | [The Way](https://open.spotify.com/track/7IsEXPk6qqt30FfQv4SZMa) | [Fastball](https://open.spotify.com/artist/7FtVJzRtpQpU61nBwB7cKN) | [All The Pain Money Can Buy](https://open.spotify.com/album/2KVpGKVIzcK9bB13MXJGEb) | 4:17 | 2022-04-07 | 2023-07-11 |
+| [Them Bones \(2022 Remaster\)](https://open.spotify.com/track/4A065x9kJt955eGVqf813g) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 2:29 | 2024-09-04 |  |
 | [There She Goes](https://open.spotify.com/track/49NL7CMHXugSn72znOA5Nd) | [The Boo Radleys](https://open.spotify.com/artist/6UYwzZChuolxsylHcZcBBP) | [So I Married An Axe Murderer Original Motion Picture Soundtrack](https://open.spotify.com/album/5bof4K2oWtFKLj1FUiY8Nm) | 2:18 | 2022-04-07 | 2023-07-11 |
 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 | 2023-07-10 |  |
 | [To Rock Or Not To Be](https://open.spotify.com/track/6rarhzP4W4FVeB1Z0nuKR1) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [To Rock Or Not To Be](https://open.spotify.com/album/6TK7sfTVB6L3guQ2LCKJBY) | 3:23 | 2023-07-10 |  |

@@ -2,7 +2,7 @@
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> Dave Blunts\. Born and raised on the internet.
+> BNYX®\. Born and raised on the internet.
 
 1,059 songs - 1 day 19 hr 5 min
 

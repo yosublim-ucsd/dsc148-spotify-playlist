@@ -1,6 +1,6 @@
 {
   "description": "El lado electr\u00f3nico del indie latino, featuring Javiera Mena.",
-  "num_followers": 19085,
+  "num_followers": 19090,
   "original_name": "NE\u00d3N",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
+        "name": "Cuando Sea Grande",
+        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
+      },
+      "artists": [
+        {
+          "name": "Mora Navarro",
+          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
+        }
+      ],
+      "duration_ms": 147316,
+      "name": "Cuando Sea Grande",
+      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
         "name": "Nada que ver",
         "url": "https://open.spotify.com/album/65G9K1ZVORf6C2esI96EGI"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 193971,
       "name": "Nada que ver",
       "url": "https://open.spotify.com/track/3lD8DZfzilDTI0R42VSCvr"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Cuando Sea Grande",
-        "url": "https://open.spotify.com/album/6JVKbotUObykq6GfLYcVJL"
-      },
-      "artists": [
-        {
-          "name": "Mora Navarro",
-          "url": "https://open.spotify.com/artist/1TVta41xrglUQxVheaXZJx"
-        }
-      ],
-      "duration_ms": 147316,
-      "name": "Cuando Sea Grande",
-      "url": "https://open.spotify.com/track/5QHMeQzf99dGl2WwTqiOu0"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1335,18 +1335,38 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Vitamina",
-        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
+        "name": "ON\u00cdRIKA",
+        "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
       },
       "artists": [
         {
-          "name": "FRANSIA",
-          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
+          "name": "Amelia",
+          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
+        },
+        {
+          "name": "Lnt. Noire",
+          "url": "https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt"
         }
       ],
-      "duration_ms": 249000,
-      "name": "Vitamina",
-      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
+      "duration_ms": 280625,
+      "name": "\u00bfDe Qu\u00e9 Sirve?",
+      "url": "https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "KRAUT!",
+        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "KRAUT!",
+      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1371,38 +1391,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "KRAUT!",
-        "url": "https://open.spotify.com/album/7wDAZrA54pxMuDr7ETowNS"
+        "name": "Vitamina",
+        "url": "https://open.spotify.com/album/5c73YlnTK0mZ5AvZORvlaz"
       },
       "artists": [
         {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+          "name": "FRANSIA",
+          "url": "https://open.spotify.com/artist/3wuwaLRUrbF4nI4NQ4Vet7"
         }
       ],
-      "duration_ms": 208747,
-      "name": "KRAUT!",
-      "url": "https://open.spotify.com/track/2Y5yB0mTnXqlUqX98sh3Xz"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "ON\u00cdRIKA",
-        "url": "https://open.spotify.com/album/6QLEJbuQAJnC8u62fMpr0b"
-      },
-      "artists": [
-        {
-          "name": "Amelia",
-          "url": "https://open.spotify.com/artist/54DOvUaX10WtpRddMhbI4P"
-        },
-        {
-          "name": "Lnt. Noire",
-          "url": "https://open.spotify.com/artist/6iQaNTW8QA5orel0VJRkGt"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "\u00bfDe Qu\u00e9 Sirve?",
-      "url": "https://open.spotify.com/track/0nj6RDxpCQOBawgxFzYLEm"
+      "duration_ms": 249000,
+      "name": "Vitamina",
+      "url": "https://open.spotify.com/track/0qEUsh0UxL1gJEerlSz4mS"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1475,18 +1475,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Blue Planet",
-        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
+        "name": "Fuerte",
+        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
       },
       "artists": [
         {
-          "name": "CVMILLE",
-          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
+          "name": "Carolina Zac",
+          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
         }
       ],
-      "duration_ms": 153193,
-      "name": "Blue Planet",
-      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
+      "duration_ms": 229454,
+      "name": "Fuerte",
+      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1511,18 +1511,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Fuerte",
-        "url": "https://open.spotify.com/album/7vNNvYJXFXdDo8uTJZ1wJ5"
+        "name": "Blue Planet",
+        "url": "https://open.spotify.com/album/0M9LsY1BnlDDG8kdvFR44S"
       },
       "artists": [
         {
-          "name": "Carolina Zac",
-          "url": "https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4"
+          "name": "CVMILLE",
+          "url": "https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv"
         }
       ],
-      "duration_ms": 229454,
-      "name": "Fuerte",
-      "url": "https://open.spotify.com/track/2WZlEk0Kg7O2VWbOKs76Oy"
+      "duration_ms": 153193,
+      "name": "Blue Planet",
+      "url": "https://open.spotify.com/track/2qsB52JnIjIKzsWcZwVXzb"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1543,6 +1543,26 @@
       "duration_ms": 225173,
       "name": "Flaps",
       "url": "https://open.spotify.com/track/1KulHWqJTFq3tKAXJxDASc"
+    },
+    {
+      "added_at": "2024-08-16 03:00:00",
+      "album": {
+        "name": "Bocado a Bocado",
+        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
+      },
+      "artists": [
+        {
+          "name": "UMA",
+          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
+        },
+        {
+          "name": "Lucas Mart\u00ed",
+          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+        }
+      ],
+      "duration_ms": 187433,
+      "name": "Bocado a Bocado",
+      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1571,22 +1591,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Bocado a Bocado",
-        "url": "https://open.spotify.com/album/4kmFRMOjrFEZmhm5xHD5k9"
+        "name": "Modernos",
+        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
       },
       "artists": [
         {
-          "name": "UMA",
-          "url": "https://open.spotify.com/artist/6sGX7YU5GYzvsUaqOZLJxP"
-        },
-        {
-          "name": "Lucas Mart\u00ed",
-          "url": "https://open.spotify.com/artist/4SjBX6jitXDJ7VUfIqeXfP"
+          "name": "La Femme D\u00b4Argent",
+          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
         }
       ],
-      "duration_ms": 187433,
-      "name": "Bocado a Bocado",
-      "url": "https://open.spotify.com/track/7HlWjFNcuvzkWhBG699dW4"
+      "duration_ms": 253500,
+      "name": "Modernos",
+      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1607,18 +1623,18 @@
     {
       "added_at": "2024-08-16 03:00:00",
       "album": {
-        "name": "Modernos",
-        "url": "https://open.spotify.com/album/3fWV46dBC3QBaVNa241fO0"
+        "name": "Fotogr\u00e1fica",
+        "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
       },
       "artists": [
         {
-          "name": "La Femme D\u00b4Argent",
-          "url": "https://open.spotify.com/artist/2322VlBmxItu46m3d5KOyQ"
+          "name": "Mailen Pankonin",
+          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
         }
       ],
-      "duration_ms": 253500,
-      "name": "Modernos",
-      "url": "https://open.spotify.com/track/0fXdGk5hDi1uvtFFq3QjFp"
+      "duration_ms": 251428,
+      "name": "Fotogr\u00e1fica",
+      "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
     },
     {
       "added_at": "2024-08-16 03:00:00",
@@ -1635,22 +1651,6 @@
       "duration_ms": 263546,
       "name": "Debilidad",
       "url": "https://open.spotify.com/track/3YJJtTITDvpaAqZmBR3Knj"
-    },
-    {
-      "added_at": "2024-08-16 03:00:00",
-      "album": {
-        "name": "Fotogr\u00e1fica",
-        "url": "https://open.spotify.com/album/4QocZENZd5eWaDxRueWwkH"
-      },
-      "artists": [
-        {
-          "name": "Mailen Pankonin",
-          "url": "https://open.spotify.com/artist/3YB6vxmSJc6YpW3Otha1v5"
-        }
-      ],
-      "duration_ms": 251428,
-      "name": "Fotogr\u00e1fica",
-      "url": "https://open.spotify.com/track/2Tcdm44krbRkwi5OLLNQ9o"
     },
     {
       "added_at": "2024-08-16 03:00:00",

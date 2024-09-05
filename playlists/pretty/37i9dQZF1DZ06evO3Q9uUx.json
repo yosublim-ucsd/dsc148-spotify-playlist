@@ -1,12 +1,12 @@
 {
   "description": "This is BIA. The essential tracks, all in one playlist.",
-  "num_followers": 14688,
+  "num_followers": 14691,
   "original_name": "This Is BIA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABs/h60XIwrUTi/PeBb/kMI",
+  "snapshot_id": "ZtZRgAAAAAAq2mQh3OfwoGsJbELXkLid",
   "tracks": [
     {
       "added_at": null,
@@ -407,34 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
-      },
-      "artists": [
-        {
-          "name": "Culture Jam",
-          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Flau'jae",
-          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
-        }
-      ],
-      "duration_ms": 208163,
-      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
-      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -459,6 +431,34 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+        "url": "https://open.spotify.com/album/3NiNyHyUbObfCYN3GuytFL"
+      },
+      "artists": [
+        {
+          "name": "Culture Jam",
+          "url": "https://open.spotify.com/artist/3NbMf2TTL0tcjISP5AFgzf"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Flau'jae",
+          "url": "https://open.spotify.com/artist/5IQcgEvxwvq8kwy4iWCiBC"
+        }
+      ],
+      "duration_ms": 208163,
+      "name": "Can't Get Enough (feat. BIA, Lakeyah & Flau'jae)",
+      "url": "https://open.spotify.com/track/3XvMwcBtHnk5GDem3AweQN"
     },
     {
       "added_at": null,
@@ -651,26 +651,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIKI",
-        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+        "name": "Savage (feat. BIA)",
+        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
       },
       "artists": [
         {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        },
-        {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "Bahari",
+          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 155666,
-      "name": "Labels. (ft. Moneybagg Yo, BIA)",
-      "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
+      "duration_ms": 164131,
+      "name": "Savage (feat. BIA)",
+      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
     },
     {
       "added_at": null,
@@ -691,22 +687,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savage (feat. BIA)",
-        "url": "https://open.spotify.com/album/0B93ATZTlJWmJqLRKS31sS"
+        "name": "KIKI",
+        "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
       },
       "artists": [
         {
-          "name": "Bahari",
-          "url": "https://open.spotify.com/artist/0fs8oBR1rx7JIXZi75h7Uu"
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
         }
       ],
-      "duration_ms": 164131,
-      "name": "Savage (feat. BIA)",
-      "url": "https://open.spotify.com/track/6gjitvaInHSbArmOHI6vro"
+      "duration_ms": 155666,
+      "name": "Labels. (ft. Moneybagg Yo, BIA)",
+      "url": "https://open.spotify.com/track/3H6jIGAjC93RTm9MihQe3w"
     },
     {
       "added_at": null,
@@ -811,6 +811,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "Distrito Federal",
+        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
+      },
+      "artists": [
+        {
+          "name": "Mexican Institute Of Sound",
+          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 172078,
+      "name": "Vamos",
+      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR CERTAIN",
+        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+      },
+      "artists": [
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "SAME HANDS (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh feat. BIA (Remix)",
         "url": "https://open.spotify.com/album/2jTsUf60eITHeQUKdt7ggo"
       },
@@ -839,46 +883,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOR CERTAIN",
-        "url": "https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg"
+        "name": "BEACH BALL (feat. BIA)",
+        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
       },
       "artists": [
         {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "SAME HANDS (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/5AE9DzJr8jhTFgcbkCvrPq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Distrito Federal",
-        "url": "https://open.spotify.com/album/6ojf6Hfhj5NtQLRMiCRaFt"
-      },
-      "artists": [
-        {
-          "name": "Mexican Institute Of Sound",
-          "url": "https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy"
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
         },
         {
           "name": "BIA",
           "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
         }
       ],
-      "duration_ms": 172078,
-      "name": "Vamos",
-      "url": "https://open.spotify.com/track/4gbRykMoB7dM0okw4DHj5J"
+      "duration_ms": 144000,
+      "name": "BEACH BALL (feat. BIA)",
+      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
     },
     {
       "added_at": null,
@@ -899,26 +919,6 @@
       "duration_ms": 181812,
       "name": "Eat It Up (feat. BIA)",
       "url": "https://open.spotify.com/track/3nePMGxrBMKtffHpkKqSHA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BEACH BALL (feat. BIA)",
-        "url": "https://open.spotify.com/album/2lUZ8Vde6vLKqg4kdaAuXZ"
-      },
-      "artists": [
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        },
-        {
-          "name": "BIA",
-          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BEACH BALL (feat. BIA)",
-      "url": "https://open.spotify.com/track/3wSf7ZuqT38jZyJ92hNUiE"
     },
     {
       "added_at": null,

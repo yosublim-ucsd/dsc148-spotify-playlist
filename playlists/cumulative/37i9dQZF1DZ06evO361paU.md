@@ -2,9 +2,9 @@
 
 ### [This Is Lenny Kravitz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO361paU)
 
-> This is Lenny Kravitz\. The essential tracks, all in one playlist.
+> This Is Lenny Kravitz\. Los temas esenciales, todos en una lista.
 
-85 songs - 6 hr 10 min
+86 songs - 6 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Are You Gonna Go My Way](https://open.spotify.com/track/45Ia1U4KtIjAPPU7Wv1Sea) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 3:31 | 2023-07-28 |  |
 | [Believe](https://open.spotify.com/track/6x9t21Gl6bRhOrgigur7wK) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:54 | 2023-07-28 |  |
 | [Believe In Me](https://open.spotify.com/track/7aJjhQlplwtUS7emsLIEWC) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 4:40 | 2023-07-28 |  |
-| [Black Velveteen](https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:50 | 2023-07-28 |  |
+| [Black Velveteen](https://open.spotify.com/track/7ptNdKLu4PHKcma1zCAQLW) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Greatest Hits](https://open.spotify.com/album/1cW0de5T5fdedlS4YqvyCv) | 4:50 | 2023-07-28 | 2024-09-05 |
 | [Borders \(feat\. Lenny Kravitz\)](https://open.spotify.com/track/2Fq1WjRulkMGB4O1920yCI) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0ufGvePLRPce9olVIZhRyE) | 3:53 | 2023-07-28 | 2023-12-25 |
 | [Borders \[Feat\. Lenny Kravitz\]](https://open.spotify.com/track/11mnQTviVTw9tazgtV4hGA) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Ghetto Lenny's Love Songs](https://open.spotify.com/album/0Tbf101DgSbH9k9gOMYjAF) | 3:53 | 2023-12-24 |  |
 | [Bundle of Joy](https://open.spotify.com/track/4dNqV9k2uMEccSRlrjSjzh) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Blue Electric Light](https://open.spotify.com/album/33i9bBiL7PuwD5hEG9GoUi) | 5:06 | 2024-05-27 | 2024-07-10 |
@@ -26,6 +26,7 @@
 | [Circus](https://open.spotify.com/track/773RId8EM5wexAlZMlVMeL) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Circus](https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0) | 4:48 | 2023-07-28 | 2024-07-19 |
 | [Dancin' Til Dawn](https://open.spotify.com/track/3Lc9RexjkRH4ButA7diDoj) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [It Is Time For A Love Revolution](https://open.spotify.com/album/5n8PfxHoukvHzyRmzr1Eqb) | 5:09 | 2023-07-28 |  |
 | [Dig In](https://open.spotify.com/track/0mBmE1IzBpbhfwEU4nd4ew) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Lenny](https://open.spotify.com/album/5a9ALw6xk6jtluuCektmMU) | 3:37 | 2023-07-28 |  |
+| [Don't Think You Ever Loved Me \(feat\. Lenny Kravitz, Le'Andria Johnson\)](https://open.spotify.com/track/7Hau6gKa1qB6YT4AYtn1qd) | [Tyrese](https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ), [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Beautiful Pain](https://open.spotify.com/album/1HDxgZHLsOFHHj7g6MT7lk) | 6:38 | 2024-09-05 |  |
 | [Eleutheria](https://open.spotify.com/track/7datu36O7lY60kKBOan48U) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Are You Gonna Go My Way](https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ) | 4:53 | 2023-07-28 |  |
 | [Fields Of Joy](https://open.spotify.com/track/0XcR8kUxhai3H7wqB0R2eE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 3:57 | 2023-07-28 |  |
 | [Flowers For Zoë](https://open.spotify.com/track/0yNaHmWHv5qdasXFlbr9Hs) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Mama Said](https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks) | 2:43 | 2023-07-28 | 2024-05-26 |

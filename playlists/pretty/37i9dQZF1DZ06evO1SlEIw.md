@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 
 > This is Linked Horizon\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,487 likes - 28 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,488 likes - 28 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 14 | [自由の代償](https://open.spotify.com/track/2F44cjOVPs0Hod03KYF6KQ) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [進撃の軌跡](https://open.spotify.com/album/5FDJ6OYeCiAvGzNyVyPSMt) | 5:49 |
 | 15 | [Tasogare no Rakuen](https://open.spotify.com/track/75S5vWZUfeTs1Bf6P6yXei) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Rakuen Eno Shingeki](https://open.spotify.com/album/6BDIotmFsibbcl4s5uaV4D) | 3:56 |
 | 16 | [14\-moji no Dengon](https://open.spotify.com/track/74SUWGzg9fhFEkCRQ7rByT) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kioku](https://open.spotify.com/album/1n7P2hvRS2ntEAhEUj2Peg) | 5:30 |
-| 17 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 |
+| 17 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 |
 | 18 | [Nikagetsugo no Kimi e](https://open.spotify.com/track/7IMuezAZparajKkgkCMalN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:27 |
 | 19 | [彼の者の名は… \- Vocalized Version](https://open.spotify.com/track/7hrdmPqrrTKrMhwwUs893K) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 6:12 |
-| 20 | [君は僕の希望 \- Vocalized Version](https://open.spotify.com/track/11Z0ESWmihfMooJCVDngWz) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:10 |
+| 20 | [愛の放浪者 \- Vocalized Version](https://open.spotify.com/track/2vHszXmgBO8zOR87nB2Gd2) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:41 |
 | 21 | [Souyoku no Hikari](https://open.spotify.com/track/3ffPqlc1wy97Rl4pK0DKX6) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:05 |
 | 22 | [希望へ向う譚詩曲 \- Long Version](https://open.spotify.com/track/5JXpmLfv4FroyVzbkkRSEg) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク小紀行](https://open.spotify.com/album/2y1q4O6BcBYOCpC3VPT7pP) | 8:08 |
 | 23 | [雛鳥 \- Vocalized Version](https://open.spotify.com/track/15IvoIfa5eyGjOzBqx95gl) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:15 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1SlEIw.md) - [plain]
 | 27 | [風の行方 \- Vocalized Version](https://open.spotify.com/track/6O1RmgmLZEPpHvvyvqjlEy) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 5:11 |
 | 28 | [ルクセンダルク紀行](https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [ルクセンダルク大紀行](https://open.spotify.com/album/4tJAqLvsQbbQKbRxMax1Kd) | 11:27 |
 
-Snapshot ID: `ZtUAAAAAAAByieUgmEWy26uJxGOx3Sum`
+Snapshot ID: `ZtZRgAAAAAArQTnJNhvmXdPAiWwLUF6s`

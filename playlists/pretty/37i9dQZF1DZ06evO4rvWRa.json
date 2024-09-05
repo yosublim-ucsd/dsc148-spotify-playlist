@@ -1,12 +1,12 @@
 {
   "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1639730,
+  "num_followers": 1639729,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADFS9YQGrEVa3V9rbje1C29",
+  "snapshot_id": "ZtZRgAAAAACfvA1oKcMKyFCusbgdGqYz",
   "tracks": [
     {
       "added_at": null,
@@ -967,26 +967,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heading Home",
-        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 184889,
-      "name": "Heading Home",
-      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fake A Smile",
         "url": "https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 168118,
       "name": "Fake A Smile",
       "url": "https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heading Home",
+        "url": "https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 184889,
+      "name": "Heading Home",
+      "url": "https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp"
     },
     {
       "added_at": null,

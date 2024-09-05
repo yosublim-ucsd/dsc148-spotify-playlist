@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > rock never dies \| feel it in your bones\.  📸: Wunderhorse
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,563,820 likes - 76 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,563,953 likes - 76 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

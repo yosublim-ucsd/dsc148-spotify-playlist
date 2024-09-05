@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 
 > Que no falte la música, la familia y los amigos\. ¡Felices fiestas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,008 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sf2VCrbIti.md) - [plain]
 | 66 | [El Dia De Suerte](https://open.spotify.com/track/0Az3jAeIEImuTugUp33ajY) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Hector Lavoe El Cantante \-The Originals](https://open.spotify.com/album/6RPoqtPA2JdEXv7vAeFtj4) | 5:27 |
 | 67 | [Ella Dice](https://open.spotify.com/track/0CTe09ay5oQbSDU4kWas4S) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Mudanza y Acarreo](https://open.spotify.com/album/3ziq7zy6hcvNHwAmQkLbzG) | 3:31 |
 | 68 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
-| 69 | [En Estas Navidades](https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:35 |
-| 70 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
+| 69 | [Aguinaldo Con Billo](https://open.spotify.com/track/5lEGMU8m1Ah5MgD1vBYb8t) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [Clásicos de Oro de Billo Caracas Boy's, Vol II](https://open.spotify.com/album/6eMolS4wBsvJPuehofhm9W) | 3:13 |
+| 70 | [En Estas Navidades](https://open.spotify.com/track/710cHHvEWf2gBkCzXnjnww) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Merengue Navideño](https://open.spotify.com/album/723wthgUpMymoNyzovCz5e) | 4:35 |
 | 71 | [Plastico](https://open.spotify.com/track/0iHzbGak1CdbDBCu8VDwNU) | [Willie Colon Y Ruben Blades](https://open.spotify.com/artist/3j2xUU9GSvJLBKhp7maKaO) | [Greatest Hits](https://open.spotify.com/album/2eDs8NuigDls3kImG3u2yM) | 6:41 |
 | 72 | [Canto A Borinquen](https://open.spotify.com/track/78vtLxHpby2kpBk4aOn0l2) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Asalto Navideño](https://open.spotify.com/album/6s2mOYixTdw49iz5CAObaI) | 4:29 |
 | 73 | [Viejo Año](https://open.spotify.com/track/3RLWyrjTXerpJrIXsuVxLr) | [Maracaibo 15](https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 3:16 |
 | 74 | [Gaita Onomatopeyica](https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy) | [Gran Coquivacoa](https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38) | [Las Mejores Gaitas Vol.2](https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S) | 2:54 |
-| 75 | [Las Avispas](https://open.spotify.com/track/4VLeXSrhxaGzRpIYc9rLxl) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Para Ti](https://open.spotify.com/album/3ymWHKNKXp04OoBbkHEkZB) | 3:17 |
+| 75 | [Año Nuevo](https://open.spotify.com/track/6qGuZNB1PMKF2UupR9lbaQ) | [Billo's Caracas Boys](https://open.spotify.com/artist/38zyliF0xdJKS7k1BIEuL6) | [100% Global Hits Navideñas](https://open.spotify.com/album/1k8irGWfyfmWpFT7JJIscW) | 2:51 |
 
 Snapshot ID: `ZXytygAAAABw17jS+Zd0HjXS9kVbTSxH`

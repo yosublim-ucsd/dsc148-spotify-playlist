@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Listen to women at full volume. Cover - Rekha Bhardwaj",
+  "description": "Listen to women at full volume. Cover - Shreya Ghoshal",
   "name": "EQUAL India",
   "tracks": [
     {
@@ -474,6 +474,28 @@
       "duration_ms": 260262,
       "name": "Angaaron (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/2ZDOzySC2g3YF1p26TPzBt"
+    },
+    {
+      "album": {
+        "name": "Angana Morey",
+        "url": "https://open.spotify.com/album/6w3m6HEdSHvN8ce9LHG9tR"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Soumyadeep Ghoshal",
+          "url": "https://open.spotify.com/artist/7rBseLu4BdOoy20DP0KbPF"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225909,
+      "name": "Angana Morey",
+      "url": "https://open.spotify.com/track/46ww2w2OsgYCOWADmkLsbK"
     },
     {
       "album": {
@@ -8450,7 +8472,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 334500,
       "name": "Zaroorat Se Zyada - Female Version - From \"Vedaa\"",
       "url": "https://open.spotify.com/track/1UrVeNKlZD1Ib6v8rhEtEk"

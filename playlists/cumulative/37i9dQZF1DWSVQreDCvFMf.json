@@ -703,6 +703,24 @@
     },
     {
       "album": {
+        "name": "Hayaan",
+        "url": "https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS"
+      },
+      "artists": [
+        {
+          "name": "Chrstn",
+          "url": "https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 349746,
+      "name": "Hayaan",
+      "url": "https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa"
+    },
+    {
+      "album": {
         "name": "Hey You",
         "url": "https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J"
       },

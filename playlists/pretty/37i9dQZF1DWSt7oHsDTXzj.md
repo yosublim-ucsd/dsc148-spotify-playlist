@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 
 > The ultimate seasonal \(indie\) playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,380 likes - 75 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,375 likes - 75 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSt7oHsDTXzj.md) - [plain]
 | 63 | [The Little Drummer Boy](https://open.spotify.com/track/3PS3si74boOaOC6zxf858B) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [The Little Drummer Boy](https://open.spotify.com/album/31DWNerPyDK7QIpaT3FAWF) | 2:56 |
 | 64 | [Christmas In April](https://open.spotify.com/track/0Af4dYxE130GzSUNMvkQty) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [HARK!](https://open.spotify.com/album/41h4pqwFRxXDXWsd61hHad) | 3:31 |
 | 65 | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/5PZYjlwLznLOjHXIHJpyHa) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Christmas \(Baby Please Come Home\) \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/album/7L7nmx23fd3TOd2DlqvZGF) | 3:23 |
-| 66 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 |
-| 67 | [LIFE ON EARTH \- with Preservation Hall Jazz Band](https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [LIFE ON EARTH \(with Preservation Hall Jazz Band\)](https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w) | 6:20 |
-| 68 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
+| 66 | [O’Holy Night](https://open.spotify.com/track/4csQ5HPKp41UUaEdzpepRQ) | [Kat Cunning](https://open.spotify.com/artist/0THdxk7bYWo6wciF1gInBK) | [O’Holy Night](https://open.spotify.com/album/6UZ92OsliFZN4TrzPyFT7D) | 2:53 |
+| 67 | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/track/1MRr1ivNucqEBjHBMgDFjA) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Boxing Day Blues \(Revisited\)](https://open.spotify.com/album/1IO428uiETHUFmPRjme2ff) | 2:47 |
+| 68 | [LIFE ON EARTH \- with Preservation Hall Jazz Band](https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt), [Preservation Hall Jazz Band](https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5) | [LIFE ON EARTH \(with Preservation Hall Jazz Band\)](https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w) | 6:20 |
 | 69 | [ugly xmas sweater party](https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [ugly xmas sweater party](https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI) | 3:28 |
 | 70 | [Auld Lang Syne](https://open.spotify.com/track/1csVCmVSxMwc9wbL0j54hW) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Auld Lang Syne](https://open.spotify.com/album/5kJSx4MUPIidcP4DZNRzfu) | 3:12 |
 | 71 | [Merry Xmas Everybody](https://open.spotify.com/track/5lfN1H4X6hDhHKMoZIApEN) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Merry Xmas Everybody](https://open.spotify.com/album/60i7Lo8iMpAFEogjdDQje4) | 3:38 |

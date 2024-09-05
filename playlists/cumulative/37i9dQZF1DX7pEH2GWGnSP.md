@@ -4,17 +4,22 @@
 
 > Hear all of LE SSERAFIM's biggest and best hits in one playlist..\. DODODOK!
 
-51 songs - 2 hr 26 min
+57 songs - 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2024-09-04 |  |
 | [ANTIFRAGILE](https://open.spotify.com/track/4fsQ0K37TOXa3hEQfjEic1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 3:04 | 2023-05-01 |  |
 | [Blue Flame](https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:21 | 2023-05-01 |  |
 | [Blue Flame \(Japanese ver.\)](https://open.spotify.com/track/1nCcwtlNAPrgQnMXilDo10) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i) | 3:21 | 2024-03-29 |  |
 | [Blue Flame \- Japanese ver.](https://open.spotify.com/track/6FnZShD1O17bZa9emuXLXh) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4db6bVyZTtbpZjsCQGyZpl) | 3:21 | 2023-05-01 | 2024-04-19 |
 | [Burn the Bridge](https://open.spotify.com/track/3NJ5Ksj7LNbvfNgEtl3o6Z) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:34 | 2023-05-01 |  |
+| [Chasing Lightning](https://open.spotify.com/track/5hfKDfqthxHt6xsgCjimuO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 3:25 | 2024-09-04 |  |
 | [Choices](https://open.spotify.com/track/4Uho9zRGoO1aLspbIQ8y7A) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4xfupa1EtOtNuKYtoBMy7i) | 3:20 | 2024-03-29 |  |
 | [Choices](https://open.spotify.com/track/0THn1agoZT9wJXkITUz6dJ) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Choices](https://open.spotify.com/album/4mpznsEPjMQrvD7laIx9UI) | 3:21 | 2023-05-01 | 2024-04-19 |
+| [Crazier](https://open.spotify.com/track/3druZC9WrM7UUv82PX0SfA) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:58 | 2024-09-04 |  |
+| [CRAZY](https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:44 | 2024-09-04 |  |
+| [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/track/3lLH0FlC2pYCeZEf05zKQn) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [CRAZY \(feat\. PinkPantheress\)](https://open.spotify.com/album/6bZk9oecizspP2MeHIhKYL) | 2:48 | 2024-09-04 |  |
 | [EASY](https://open.spotify.com/track/08ZaKnsnO14nB9pxAgabCm) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(Remixes\)](https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS) | 2:44 | 2024-03-01 |  |
 | [EASY](https://open.spotify.com/track/2O4Bb2WCkjlTPO827OnBMI) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:44 | 2024-02-20 |  |
 | [EASY \(Drum & Bass Remix\)](https://open.spotify.com/track/16TyjAiSkhVm5pmSccJcsW) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY \(Remixes\)](https://open.spotify.com/album/75rFaEWO9nufjSlTcg3wPS) | 2:44 | 2024-03-01 |  |
@@ -47,6 +52,7 @@
 | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/track/40CJrEAyXS8qe0BBFbYbJO) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Holiday Remix\)](https://open.spotify.com/album/0YaaIvxu7OH0OxUSnM9WFH) | 2:42 | 2023-11-23 |  |
 | [Perfect Night \(Slowed + Reverb ver.\)](https://open.spotify.com/track/5sVWwPuoQlZpvAFcF0MMjf) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:55 | 2023-11-03 |  |
 | [Perfect Night \(Sped Up ver.\)](https://open.spotify.com/track/2pCcl9FB4KCqYXYzloAMRK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Perfect Night \(Remix\)](https://open.spotify.com/album/4soeaXzvqJurX5Flkh6ZD1) | 2:08 | 2023-11-03 |  |
+| [Pierrot](https://open.spotify.com/track/411fZBnpfU4eIDIZmDKswx) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:50 | 2024-09-04 |  |
 | [Smart](https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:46 | 2024-02-20 |  |
 | [Sour Grapes](https://open.spotify.com/track/6wBpO4Xc4YgShnENGSFA1M) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 3:16 | 2023-05-01 |  |
 | [spruce \(feat\. KIM CHAEWON of LE SSERAFIM\)](https://open.spotify.com/track/1LEeMr3Fpq8wH7j4Wbirew) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Kim Chaewon of LE SSERAFIM](https://open.spotify.com/artist/39j6wByxxNDb92rODch4mT) | [TORI.](https://open.spotify.com/album/5y27dKpTOQRBMWpgAS7TD2) | 2:43 | 2024-06-25 |  |

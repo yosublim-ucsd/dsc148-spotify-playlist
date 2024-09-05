@@ -1,6 +1,6 @@
 {
   "description": "Guerreras del rock latinoamericano. Foto: Z\u00f6elle",
-  "num_followers": 39685,
+  "num_followers": 39707,
   "original_name": "Rockeras",
   "owner": {
     "name": "Spotify",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Promesa",
-        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
-      },
-      "artists": [
-        {
-          "name": "Maria Durante",
-          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
-        }
-      ],
-      "duration_ms": 208689,
-      "name": "Promesa",
-      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
         "name": "Un Dios Nuevo",
         "url": "https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll"
       },
@@ -1191,6 +1175,38 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
+        "name": "Promesa",
+        "url": "https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO"
+      },
+      "artists": [
+        {
+          "name": "Maria Durante",
+          "url": "https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx"
+        }
+      ],
+      "duration_ms": 208689,
+      "name": "Promesa",
+      "url": "https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
+        "name": "Ghost In The Machine",
+        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+      },
+      "artists": [
+        {
+          "name": "Marion Raw",
+          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+        }
+      ],
+      "duration_ms": 232975,
+      "name": "Unfuckable",
+      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
+    },
+    {
+      "added_at": "2024-08-15 20:21:06",
+      "album": {
         "name": "Huir",
         "url": "https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 158200,
       "name": "Est\u00e1s Borracho",
       "url": "https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8"
-    },
-    {
-      "added_at": "2024-08-15 20:21:06",
-      "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
-      },
-      "artists": [
-        {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
-        }
-      ],
-      "duration_ms": 232975,
-      "name": "Unfuckable",
-      "url": "https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Desvelo",
-        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
+        "name": "Por Mil Noches",
+        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
       },
       "artists": [
         {
-          "name": "Fin del Mundo",
-          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
+          "name": "Maggie Sky",
+          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
         }
       ],
-      "duration_ms": 274414,
-      "name": "Desvelo",
-      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
+      "duration_ms": 283826,
+      "name": "Por Mil Noches",
+      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Por Mil Noches",
-        "url": "https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d"
+        "name": "Desvelo",
+        "url": "https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI"
       },
       "artists": [
         {
-          "name": "Maggie Sky",
-          "url": "https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6"
+          "name": "Fin del Mundo",
+          "url": "https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn"
         }
       ],
-      "duration_ms": 283826,
-      "name": "Por Mil Noches",
-      "url": "https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI"
+      "duration_ms": 274414,
+      "name": "Desvelo",
+      "url": "https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F"
     },
     {
       "added_at": "2024-08-15 20:21:06",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-08-15 20:21:06",
       "album": {
-        "name": "Ghost In The Machine",
-        "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
+        "name": "Hasta Abajo - Ep",
+        "url": "https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg"
       },
       "artists": [
         {
-          "name": "Marion Raw",
-          "url": "https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj"
+          "name": "Violeta Castillo",
+          "url": "https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe"
         }
       ],
-      "duration_ms": 145086,
-      "name": "Ghost in the Machine",
-      "url": "https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT"
+      "duration_ms": 345723,
+      "name": "Las Se\u00f1ales",
+      "url": "https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ"
     }
   ],
   "unique_name": "Rockeras",

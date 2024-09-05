@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,232 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,238 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,11 +95,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0XFjXWSV9Z.md) - [plain]
 | 85 | [Mary Sol](https://open.spotify.com/track/6hp9tqJr04dB0AZNhSILn5) | [Papi Perez](https://open.spotify.com/artist/58sA5PhdfixwU0PIfLNhRo), [Chirimoyo](https://open.spotify.com/artist/4ksypgLryHLmQe8fMl5wR3) | [Mary Sol](https://open.spotify.com/album/2LFNGr4OTi6fVNYAQE2GUh) | 4:10 |
 | 86 | [Me Duele Tu Partida](https://open.spotify.com/track/3VrE3hqJAqZ6vOcIKDQaF5) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Me Duele Tu Partida](https://open.spotify.com/album/3rreqEAgQUOo9XYDvLOF6S) | 3:12 |
 | 87 | [Dios](https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Dios](https://open.spotify.com/album/4y1NSE3BTF7B08jd0v212w) | 3:13 |
-| 88 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
-| 89 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 |
-| 90 | [Ya](https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Ya](https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM) | 2:20 |
+| 88 | [Lamento en la Selva \- Remix](https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo) | [Astros de Mendoza](https://open.spotify.com/artist/354fUDKAlUUsUfuC1Riike), [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Abducción Amazonica, Lamento en la Selva](https://open.spotify.com/album/0XWPWLDrLsSUAW0kTF4T07) | 3:36 |
+| 89 | [Chucha](https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V) | [Chucha](https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ) | 2:27 |
+| 90 | [Empecemos \(Let's Start\)](https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [Los Kings](https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:58 |
 | 91 | [Chica Psy](https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [Chica Psy](https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE) | 3:22 |
-| 92 | [Empecemos \(Let's Start\)](https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G), [Los Kings](https://open.spotify.com/artist/3mkewj7XqZIrYz10FDiymw) | [Color de Trópico Vol 2 \(Compiled By El Dragón Criollo y El Palmas\)](https://open.spotify.com/album/1HL8rE8xoQy5tC73730bZP) | 2:58 |
+| 92 | [Ya](https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5) | [CHIFLIDO](https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1) | [Ya](https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM) | 2:20 |
 | 93 | [Porrovía](https://open.spotify.com/track/1dYgoBJEkIHfhKGebTRioT) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Porrovía](https://open.spotify.com/album/1xglUTNFCosYq9NW4FXc9g) | 3:27 |
 | 94 | [Por Ahí](https://open.spotify.com/track/5TewOoVbMDzrV5AKHXKMPd) | [La Chamba](https://open.spotify.com/artist/0HDNMO4nFZR6IGwqLdBneh) | [Somos](https://open.spotify.com/album/4MoPXiOJYb32vO1JhKBOvw) | 3:18 |
 | 95 | [Que Tumba](https://open.spotify.com/track/5hDj4IZig0UoK3dGzEUhGF) | [Romperayo](https://open.spotify.com/artist/1Ey12Gi2P3PNPBsz39cncu) | [Que Tumba](https://open.spotify.com/album/0luwH2VIVcYNZoxGESrjrr) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover new Punjabi artists! Cover: Sahij Hothi",
+  "description": "Discover new Punjabi artists! Cover: Param Pannu",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 158126,
       "name": ".45",
       "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 148860,
       "name": "About You",
       "url": "https://open.spotify.com/track/5a2OkIZNf6ysvZKZsmIOxR"
@@ -170,6 +170,24 @@
       "duration_ms": 162666,
       "name": "Backhome",
       "url": "https://open.spotify.com/track/0GhRs7Mj3bJyHR94IswfXN"
+    },
+    {
+      "album": {
+        "name": "Bandana",
+        "url": "https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV"
+      },
+      "artists": [
+        {
+          "name": "Jujhar",
+          "url": "https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "Bandana",
+      "url": "https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo"
     },
     {
       "album": {
@@ -374,7 +392,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 186352,
       "name": "Comparison",
       "url": "https://open.spotify.com/track/1Vqdn4844998ZMgpIe2iKr"
@@ -430,6 +448,24 @@
       "duration_ms": 145647,
       "name": "Daaka",
       "url": "https://open.spotify.com/track/3ZqJTzZ8ZMprzw9QHyGY5d"
+    },
+    {
+      "album": {
+        "name": "Diwana Tera",
+        "url": "https://open.spotify.com/album/0syHU62MrNvxtb1rF4aRaD"
+      },
+      "artists": [
+        {
+          "name": "Saajz",
+          "url": "https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213203,
+      "name": "Diwana Tera",
+      "url": "https://open.spotify.com/track/6J5NFk9xM7J5DwRPfkFTmX"
     },
     {
       "album": {
@@ -546,7 +582,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 162730,
       "name": "Gaddiyan",
       "url": "https://open.spotify.com/track/1hB6kLVnDXqL2XJEsSj2b8"
@@ -637,6 +673,28 @@
     },
     {
       "album": {
+        "name": "Hopeless",
+        "url": "https://open.spotify.com/album/6cXygxE2Y07GN4uAW4loGs"
+      },
+      "artists": [
+        {
+          "name": "Yadi",
+          "url": "https://open.spotify.com/artist/0goPTDjr7U8QQNFubP2Iwz"
+        },
+        {
+          "name": "Uptown Slick",
+          "url": "https://open.spotify.com/artist/4wYL5YgQIWCzlFJ6CpWb0s"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159999,
+      "name": "Hopeless",
+      "url": "https://open.spotify.com/track/4yCYeHPFF0dmQNEUqKX1Gn"
+    },
+    {
+      "album": {
         "name": "Hulaare",
         "url": "https://open.spotify.com/album/5eKSNifZknKkVZKffxu2PE"
       },
@@ -656,6 +714,68 @@
       "duration_ms": 156330,
       "name": "Hulaare",
       "url": "https://open.spotify.com/track/07iUc6V4hpQTmq2IxrcQWB"
+    },
+    {
+      "album": {
+        "name": "I AM Done",
+        "url": "https://open.spotify.com/album/30XNFAUP3dhjhqBhRwU10F"
+      },
+      "artists": [
+        {
+          "name": "Mani Lubana",
+          "url": "https://open.spotify.com/artist/4pGzfGs3Rtndzl8F8qHHnn"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203802,
+      "name": "I AM Done",
+      "url": "https://open.spotify.com/track/5RWQ7vMGl48OAazZh4m0SZ"
+    },
+    {
+      "album": {
+        "name": "Ik Munda",
+        "url": "https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd"
+      },
+      "artists": [
+        {
+          "name": "Simmi Virk",
+          "url": "https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7"
+        },
+        {
+          "name": "Bugzy",
+          "url": "https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI"
+        },
+        {
+          "name": "Parneet Kaur",
+          "url": "https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211619,
+      "name": "Ik Munda",
+      "url": "https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7"
+    },
+    {
+      "album": {
+        "name": "Ishq Mareez",
+        "url": "https://open.spotify.com/album/7zxdng2WO3XfAawo5JXnpn"
+      },
+      "artists": [
+        {
+          "name": "Mann Music",
+          "url": "https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140413,
+      "name": "Ishq Mareez",
+      "url": "https://open.spotify.com/track/33O5Bj6BBRjSLdhySP75u2"
     },
     {
       "album": {
@@ -692,6 +812,24 @@
       "duration_ms": 140525,
       "name": "Jhanjar",
       "url": "https://open.spotify.com/track/6yb8rhOJTnEZteHR2RUkwz"
+    },
+    {
+      "album": {
+        "name": "Keep It Hundo",
+        "url": "https://open.spotify.com/album/0hfg65x4fdR1khGEwrZF9d"
+      },
+      "artists": [
+        {
+          "name": "Param Pannu",
+          "url": "https://open.spotify.com/artist/7oM10RkgjEOA2dP6mEXfse"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114181,
+      "name": "Keep It Hundo",
+      "url": "https://open.spotify.com/track/2DdHsOXcs49IRdIMU6rwaq"
     },
     {
       "album": {
@@ -772,7 +910,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 214236,
       "name": "Let It Be",
       "url": "https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc"
@@ -816,7 +954,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 139172,
       "name": "Long Distance",
       "url": "https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL"
@@ -885,6 +1023,54 @@
     },
     {
       "album": {
+        "name": "Maruti",
+        "url": "https://open.spotify.com/album/4REQxfyDQEOShdnEHqSWcY"
+      },
+      "artists": [
+        {
+          "name": "Azal",
+          "url": "https://open.spotify.com/artist/78pPuZK6cYjVjooXDqdtl6"
+        },
+        {
+          "name": "Jinxy",
+          "url": "https://open.spotify.com/artist/70kUQdkJwB4hlE6wi4St3x"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135555,
+      "name": "Maruti",
+      "url": "https://open.spotify.com/track/5cK0q9bP6DMS3WdYYd19iX"
+    },
+    {
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/6t1YnsTiZ6lKkEftch3UUa"
+      },
+      "artists": [
+        {
+          "name": "Roshan Prince",
+          "url": "https://open.spotify.com/artist/43Tz67xdL3Y2OjpPuMrzld"
+        },
+        {
+          "name": "The Masterz",
+          "url": "https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi"
+        },
+        {
+          "name": "Gagan Deep",
+          "url": "https://open.spotify.com/artist/3GnvsfUK9sLJJ8TcK2MMMZ"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179693,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/54ADSaOtLUZtES2IvDAm0u"
+    },
+    {
+      "album": {
         "name": "MERA YAAR",
         "url": "https://open.spotify.com/album/7Fq5g1BORrbYwavQKvmyHC"
       },
@@ -896,7 +1082,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 198857,
       "name": "MERA YAAR",
       "url": "https://open.spotify.com/track/5EkuhS6Fxi7JgwaNJaaVvB"
@@ -948,7 +1134,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 172173,
       "name": "Mi Precioso",
       "url": "https://open.spotify.com/track/6dD2PSY0pVmkQKsyflBR92"
@@ -1036,10 +1222,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 150927,
       "name": "Muqabala",
       "url": "https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg"
+    },
+    {
+      "album": {
+        "name": "Muqabala (Original)",
+        "url": "https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm"
+      },
+      "artists": [
+        {
+          "name": "The Ranjha",
+          "url": "https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Muqabala (Original)",
+      "url": "https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO"
     },
     {
       "album": {
@@ -1252,7 +1456,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 156000,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4oStWk8TYqWPmAvEJ6AhkN"
@@ -1351,6 +1555,24 @@
     },
     {
       "album": {
+        "name": "Town",
+        "url": "https://open.spotify.com/album/6spYrcWcehDD6YBZESTaPW"
+      },
+      "artists": [
+        {
+          "name": "Baaz Sidhu",
+          "url": "https://open.spotify.com/artist/5Spq7kP7dUZmxp78mIcQmg"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165714,
+      "name": "Town",
+      "url": "https://open.spotify.com/track/1OrOIX7DXmrrOpBDbSLOVl"
+    },
+    {
+      "album": {
         "name": "Those Days",
         "url": "https://open.spotify.com/album/7gueC5Ubn0dbz8bGBuSBnj"
       },
@@ -1396,7 +1618,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 167211,
       "name": "Vanjara",
       "url": "https://open.spotify.com/track/6c3aaV7TSnCCnDAfPFwUAj"
@@ -1422,10 +1644,28 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 142500,
       "name": "Venom",
       "url": "https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo"
+    },
+    {
+      "album": {
+        "name": "VOW",
+        "url": "https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg"
+      },
+      "artists": [
+        {
+          "name": "Kaash",
+          "url": "https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359917,
+      "name": "VOW",
+      "url": "https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu"
     },
     {
       "album": {

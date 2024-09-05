@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,639,730 likes - 51 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,639,729 likes - 51 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 43 | [Sorry](https://open.spotify.com/track/6k1Q8mNcA2jFH0uv5B6g9G) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [ISÁK](https://open.spotify.com/artist/2LGU3PxihjIK5SUeCVcdFl) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:45 |
 | 44 | [Hello World](https://open.spotify.com/track/1zS7wXUlPhxdOgGZ7RorQ2) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Torine](https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo) | [Hello World](https://open.spotify.com/album/48ftSLCJelcAYOnk5u0era) | 2:51 |
 | 45 | [Ritual](https://open.spotify.com/track/0BxhpnfBTbnDfXi7mK4B6B) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:25 |
-| 46 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
-| 47 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
+| 46 | [Fake A Smile](https://open.spotify.com/track/6rAGFY9D3ah6Lb7fUgbNNH) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Fake A Smile](https://open.spotify.com/album/1leY6jsSJO6qjoZYUxE2fN) | 2:48 |
+| 47 | [Heading Home](https://open.spotify.com/track/22O2Zdfj3jnJZDSzlDMAJp) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Heading Home](https://open.spotify.com/album/3vZaa7OReXh9JIwfq1nWcD) | 3:04 |
 | 48 | [Yesterday](https://open.spotify.com/track/0CSLSbNaWiSnaXQ5h5lmWm) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:41 |
 | 49 | [Lovesick](https://open.spotify.com/track/2ECNBJ0b112QmhoBHKq8O6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sophie Simmons](https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:09 |
 | 50 | [Fire! \- Tribbs Remix](https://open.spotify.com/track/3eCnYztoiJj5XC8A7SAXLA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6), [Tribbs](https://open.spotify.com/artist/6iqDK7aHVlwGGgPmcdSK5L), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Fire! \(Tribbs Remix\)](https://open.spotify.com/album/0D5CVgPJs3zWbzWhyK4cvK) | 1:45 |
 | 51 | [Believers](https://open.spotify.com/track/4bMLBGnjAGVFpjAfIkD0UY) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Believers](https://open.spotify.com/album/74KEYV3bI7VYVw8rZbITEB) | 2:39 |
 
-Snapshot ID: `ZtUAAAAAAADFS9YQGrEVa3V9rbje1C29`
+Snapshot ID: `ZtZRgAAAAACfvA1oKcMKyFCusbgdGqYz`

@@ -1,6 +1,6 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf?si=JVqQ1FRRSoCJNLbtkVT5Ng\">Chesrae Megan</a> ",
-  "num_followers": 1782,
+  "num_followers": 1793,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -563,18 +563,22 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Op Dai",
-        "url": "https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY"
+        "name": "Sundphazamisa",
+        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
       },
       "artists": [
         {
-          "name": "Cream Machine",
-          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
+          "name": "Umlungu The Rapper",
+          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
+        },
+        {
+          "name": "Big Xhosa",
+          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
         }
       ],
-      "duration_ms": 206928,
-      "name": "Op Dai",
-      "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
+      "duration_ms": 192296,
+      "name": "Sundphazamisa",
+      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -595,22 +599,18 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Sundphazamisa",
-        "url": "https://open.spotify.com/album/6dXdxTE3ukBgMXaHnklGMn"
+        "name": "Op Dai",
+        "url": "https://open.spotify.com/album/2wIXzbUBqaSiLYIepgLlKY"
       },
       "artists": [
         {
-          "name": "Umlungu The Rapper",
-          "url": "https://open.spotify.com/artist/0a3BxAGzEMacCsDSriIuz0"
-        },
-        {
-          "name": "Big Xhosa",
-          "url": "https://open.spotify.com/artist/7BPZ6o23eC19ZB4TktaCMy"
+          "name": "Cream Machine",
+          "url": "https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx"
         }
       ],
-      "duration_ms": 192296,
-      "name": "Sundphazamisa",
-      "url": "https://open.spotify.com/track/2A3BrITsh8RjQUaqRq4JP0"
+      "duration_ms": 206928,
+      "name": "Op Dai",
+      "url": "https://open.spotify.com/track/4bBjjBekKBVWGT2gJAggt9"
     },
     {
       "added_at": "2024-02-22 22:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Bishop Lavis",
-        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
-      },
-      "artists": [
-        {
-          "name": "Mr Heinz",
-          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Lavis",
-      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Violence (Afrikaans Drill)",
         "url": "https://open.spotify.com/album/0jObNX3R2nb3iYkuTDN8MN"
       },
@@ -723,6 +707,74 @@
       "duration_ms": 220366,
       "name": "Violence - Afrikaans Drill",
       "url": "https://open.spotify.com/track/6S9YhbxX3kHqUhYAoAR4Og"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Bishop Lavis",
+        "url": "https://open.spotify.com/album/0oqmKdcmYZVjaFPM30JZnF"
+      },
+      "artists": [
+        {
+          "name": "Mr Heinz",
+          "url": "https://open.spotify.com/artist/1ONbGb6rAiwalf2VHjsdxL"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Lavis",
+      "url": "https://open.spotify.com/track/0suMtWepSXO0xP4dBfcdF7"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Sal Alright is",
+        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
+      },
+      "artists": [
+        {
+          "name": "Shameel Afrikaans Music",
+          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
+        },
+        {
+          "name": "BIGDMUZIC",
+          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
+        }
+      ],
+      "duration_ms": 252395,
+      "name": "Sal Alright is",
+      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
+        "name": "Denero",
+        "url": "https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        }
+      ],
+      "duration_ms": 144300,
+      "name": "Denero",
+      "url": "https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ"
+    },
+    {
+      "added_at": "2024-04-05 04:23:02",
+      "album": {
+        "name": "Laaste Hond",
+        "url": "https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        }
+      ],
+      "duration_ms": 181812,
+      "name": "Laaste Hond",
+      "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -761,38 +813,6 @@
       "url": "https://open.spotify.com/track/7DGKnYj1l9tUChMBAqpXh1"
     },
     {
-      "added_at": "2024-04-05 04:23:02",
-      "album": {
-        "name": "Laaste Hond",
-        "url": "https://open.spotify.com/album/1wbXY8vdl8zqVPqyr4L4RK"
-      },
-      "artists": [
-        {
-          "name": "C.M.T",
-          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
-        }
-      ],
-      "duration_ms": 181812,
-      "name": "Laaste Hond",
-      "url": "https://open.spotify.com/track/6m54uxr3viaN4w6NfSj3YR"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Denero",
-        "url": "https://open.spotify.com/album/28WlZuUcULwuuXdRCrJhjN"
-      },
-      "artists": [
-        {
-          "name": "KYLEO FROM THE WEST",
-          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
-        }
-      ],
-      "duration_ms": 144300,
-      "name": "Denero",
-      "url": "https://open.spotify.com/track/5hgUqD7jK0e0wRXg67FsTZ"
-    },
-    {
       "added_at": "2024-02-15 22:00:00",
       "album": {
         "name": "Deh!",
@@ -807,26 +827,6 @@
       "duration_ms": 159686,
       "name": "Deh!",
       "url": "https://open.spotify.com/track/1PJqCEQSbxRaeWwDSlJBXJ"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Sal Alright is",
-        "url": "https://open.spotify.com/album/30XOqBXKgS6q4rHt4oeCDL"
-      },
-      "artists": [
-        {
-          "name": "Shameel Afrikaans Music",
-          "url": "https://open.spotify.com/artist/5JVEUKZM50V4pnjV8Rv6Yl"
-        },
-        {
-          "name": "BIGDMUZIC",
-          "url": "https://open.spotify.com/artist/5SILa3QBUig6bmSsaCHIur"
-        }
-      ],
-      "duration_ms": 252395,
-      "name": "Sal Alright is",
-      "url": "https://open.spotify.com/track/2tNf5CIEfQ0FNIXereIvAQ"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -895,6 +895,26 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
+        "name": "Ek Sal Nie Lieg Nie",
+        "url": "https://open.spotify.com/album/0P2QBEdQVwvUwQJXWVJ4mQ"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "duration_ms": 151196,
+      "name": "Ek Sal Nie Lieg Nie",
+      "url": "https://open.spotify.com/track/4reYk1zhvoQh4K78On9Y0h"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
         "name": "Hopeless",
         "url": "https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD"
       },
@@ -931,22 +951,6 @@
       "duration_ms": 240000,
       "name": "Skrik Wakker",
       "url": "https://open.spotify.com/track/5pOcnruKNKTWB0U3xE5KoO"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
-        "name": "Broke",
-        "url": "https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw"
-      },
-      "artists": [
-        {
-          "name": "Demo Ricch",
-          "url": "https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Broke",
-      "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
     }
   ],
   "unique_name": "Afrikaanse Hip Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 291,445 likes - 60 songs - 3 hr 45 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 291,437 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 6 | [Messin' With The Crowd](https://open.spotify.com/track/4kzfx3ePx6BiiTyYeO2hYq) | [Summum](https://open.spotify.com/artist/1uHoVy6fKhUB3IO5EyWAMw) | [Messin' With The Crowd](https://open.spotify.com/album/6GmO9erSCzDdrtE4DYcufM) | 4:35 |
 | 7 | [Is It True? What I Feel?](https://open.spotify.com/track/32sDfkIliTuTEqJ8EdMi1v) | [Eleganto](https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V), [Dark Cities](https://open.spotify.com/artist/5Gq2kr5Hg7WCD4wUo8MF9y) | [Eyes On Me](https://open.spotify.com/album/2zs4Ua7VfpbTPQzenTfJut) | 3:26 |
 | 8 | [GEMINI](https://open.spotify.com/track/1xuOHamdG6ehgc1WxeSfvc) | [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa), [ZARA](https://open.spotify.com/artist/5jwZdQArPjjRLzneEx3DAn) | [GEMINI](https://open.spotify.com/album/2kZBFbopZXVTHKzyEy1Lme) | 2:37 |
-| 9 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 9 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 10 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 11 | [Sunshine](https://open.spotify.com/track/2yvPz2K18f1W2PTG8qSTpQ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Sunshine](https://open.spotify.com/album/08K52DkbBPpPB1YZqEt8yi) | 3:15 |
 | 12 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 |

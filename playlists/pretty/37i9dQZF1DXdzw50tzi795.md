@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 
 > เพลงไทยฮิตล่าสุด ฟังได้ที่เพลย์ลิสต์นี้เลย! ศิลปิน: Jeff Satur
 
-[Spotify](https://open.spotify.com/user/spotify) - 432,553 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,732 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzw50tzi795.md) - [plain]
 | 9 | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\)](https://open.spotify.com/track/1iB4DlhihIiLpXB6rTDtkO) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เหนื่อยหน่อยนะ \(SOMEONE LIKE ME\) \- Single](https://open.spotify.com/album/083WVo2isnQjzo2Z0IiYHZ) | 2:56 |
 | 10 | [ง้อ \(ALRIGHT\)](https://open.spotify.com/track/7ykcQ6Jx9Q6JbLGAazWuKS) | [FOURTH](https://open.spotify.com/artist/4PtJISxBNvXOwLxuQgUiyQ) | [ง้อ \(ALRIGHT\) \- Single](https://open.spotify.com/album/6IsszUhBvsoqnBIQeDwE3w) | 3:05 |
 | 11 | [BF](https://open.spotify.com/track/25K1tGmiprhsC8LXgOrNjM) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx), [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [BF](https://open.spotify.com/album/7p0YVbItQH3RE6jqZ5ug4u) | 3:36 |
-| 12 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 12 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 13 | [Goodbye](https://open.spotify.com/track/2kpVbauiG7Tcue6kZPKYNG) | [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [Goodbye](https://open.spotify.com/album/4yOyrokpt9SeI9icULlYCB) | 4:04 |
 | 14 | [ไม่ให้ไป](https://open.spotify.com/track/0zLFNFvbnPmWZfDewtyaVg) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [ไม่ให้ไป \- Single](https://open.spotify.com/album/5mS7KW0IM3CrLf0SO9QM6P) | 4:00 |
 | 15 | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5) | [LITTLE JOHN](https://open.spotify.com/artist/6IyHyMlpel4mF7hTldZu3m) | [ฉันไม่ต้องการตัวเธอในตอนนี้](https://open.spotify.com/album/3fGfAm9QQEuVE2QBdLk4DT) | 6:05 |

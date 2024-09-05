@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,234 likes - 103 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,279 likes - 103 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 17 | [C調言葉に御用心](https://open.spotify.com/track/09rH8fBLnRC3J3MR1fj62z) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [C調言葉に御用心](https://open.spotify.com/album/1ZCvNcTOD4B0GO4k6VoXTV) | 4:35 |
 | 18 | [エロティカ・セブン EROTICA SEVEN](https://open.spotify.com/track/3cL7lXa3QIPDSiWFbKEyke) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [エロティカ・セブン EROTICA SEVEN](https://open.spotify.com/album/2HHtmHMgSIV5e8q1znDVSL) | 4:00 |
 | 19 | [東京VICTORY](https://open.spotify.com/track/4XnY5LBp2C37Cr0VrQmGl2) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [東京VICTORY](https://open.spotify.com/album/33M5HqxOl248yYStshaJll) | 5:09 |
-| 20 | [Oh!クラウディア](https://open.spotify.com/track/0jUvRgPeGNS48HZ5dbUBk7) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド '77\~'82](https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD) | 3:30 |
+| 20 | [Oh！クラウディア](https://open.spotify.com/track/0jUvRgPeGNS48HZ5dbUBk7) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド　'77～'82](https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD) | 3:30 |
 | 21 | [TSUNAMI](https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [TSUNAMI](https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss) | 5:15 |
 | 22 | [君こそスターだ](https://open.spotify.com/track/13CtZJqJk1G5dOx7iJWMa1) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [キラーストリート](https://open.spotify.com/album/5j3eLtL3zb0RzC89iP1sSC) | 4:23 |
 | 23 | [みんなのうた](https://open.spotify.com/track/7LereEsMqMJzSNfmKZZvKE) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [みんなのうた](https://open.spotify.com/album/67kqLzZDNLjeyTWrpmO3pb) | 4:18 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHuznPBSDgu.md) - [plain]
 | 62 | [気分しだいで責めないで](https://open.spotify.com/track/5EsSmQhV0aw6W9Uce4A6tj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [気分しだいで責めないで](https://open.spotify.com/album/3fEN9ap8sQuB31ozWZHuts) | 3:34 |
 | 63 | [HAIR](https://open.spotify.com/track/7G3FkDlUAGCg4lz1QaQbLj) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [世に万葉の花が咲くなり](https://open.spotify.com/album/1YYb9yAkqBmZ39X0gKBaXj) | 4:54 |
 | 64 | [恋はお熱く](https://open.spotify.com/track/64ImLMWhTsD0KxCW6IxXBY) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [熱い胸さわぎ](https://open.spotify.com/album/35lVeQiY2JsnKUiWCPGtre) | 4:30 |
-| 65 | [わすれじのレイド・バック](https://open.spotify.com/track/5QgHPDEAul97B0eN1Od0QC) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド '77\~'82](https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD) | 4:56 |
+| 65 | [わすれじのレイド・バック](https://open.spotify.com/track/5QgHPDEAul97B0eN1Od0QC) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [バラッド　'77～'82](https://open.spotify.com/album/0bGPAuSyCVVTMehiMv3xeD) | 4:56 |
 | 66 | [Happy Birthday](https://open.spotify.com/track/0zvmdVqVekWfgqB0Ue3zMp) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [KAMAKURA](https://open.spotify.com/album/2JydGhmXdCjLhXzGQ5zGeu) | 4:42 |
 | 67 | [ラチエン通りのシスター](https://open.spotify.com/track/2RsEc4yJlkysDpvJJpjGS4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [10ナンバーズ・からっと](https://open.spotify.com/album/4LHQULS4KxSqq1NpZDjnPP) | 4:07 |
 | 68 | [夏の日のドラマ](https://open.spotify.com/track/6LPf6hslQiDBwt4czEJzm4) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [イエローマン \~星の王子様\~](https://open.spotify.com/album/2sakru6aGav5mv6AkbXYNs) | 5:11 |

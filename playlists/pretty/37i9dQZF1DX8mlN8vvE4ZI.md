@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 
 > Intertwine with the soul stirring strings of the Sitar, from Indian maestros & modern geniuses\. Cover : Mehtab Ali Niazi
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,234 likes - 50 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,240 likes - 50 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mlN8vvE4ZI.md) - [plain]
 | 37 | [Inspiration](https://open.spotify.com/track/67XJ39k65gnMALcoiKLe9r) | [Chirag Katti](https://open.spotify.com/artist/10TUORRjZ8DeHwsa5DLzvo) | [Inspiration](https://open.spotify.com/album/69qEVU3jV5p0NVpfA5q8rO) | 6:56 |
 | 38 | [Raga Gaoti](https://open.spotify.com/track/4slENTEDQUIeyeSU8OnZsE) | [Nishat Khan](https://open.spotify.com/artist/44XDC1eZWRjnCvpiAFSRQm) | [Raga Khan](https://open.spotify.com/album/6WtSHMIpnsc3MNAgiyQ4N4) | 8:51 |
 | 39 | [Dreaming Sitar \- Original Mix](https://open.spotify.com/track/0CwcCMYR8AkoQHYLKCIe2D) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 1:57 |
-| 40 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
-| 41 | [Raag Hansadhwani \- Raag \- Hansadhwani \- Live](https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Raag Hansadhwani \(Live\)](https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5) | 9:34 |
+| 40 | [Raag Hansadhwani \- Raag \- Hansadhwani \- Live](https://open.spotify.com/track/0JQX9g5zVXcqtzJksDF7qD) | [Mehtab Ali Niazi](https://open.spotify.com/artist/0VeyExXFhPsEQAqH9uyKWK) | [Raag Hansadhwani \(Live\)](https://open.spotify.com/album/0x0ixMEcuN7Qoa9m0bgYp5) | 9:34 |
+| 41 | [Best Sitar Music](https://open.spotify.com/track/4RvwQkxmTl1SjNH1WXWFgS) | [Adho Vrikshasana](https://open.spotify.com/artist/3HEuFjuF3gbxD2pj6evcHx) | [Indian Instrumental Music: Indian Soft Music for Relaxation, Indian Yoga Music](https://open.spotify.com/album/2wMo20oHMXtq5yV9ymis44) | 6:12 |
 | 42 | [Devotion](https://open.spotify.com/track/0yTG25aRENPb5LZ6gLrnIp) | [Sitar A Seyer Otsenre](https://open.spotify.com/artist/7s77nmdi7381TXW14TdSmk) | [Sitar Eternal Circle](https://open.spotify.com/album/7bIFyBoxUZ0sWNyGQhrfTz) | 6:53 |
 | 43 | [Sanctuary \- Sitar Meditation](https://open.spotify.com/track/5YXTDeGgp7U8pMLZIhQq52) | [Meditation Mantras Guru](https://open.spotify.com/artist/1bF3IgxBQw61FRqeyuvq7b) | [Quin Yin: Many Faces of the Goddess, 50 Reiki Healing Music & Relaxing Sounds \(Absolute Feng Shui, Life in Harmony, Chakra of the Heart, Yoga & Meditation\)](https://open.spotify.com/album/4lov37f9GSk3d2snAYruCu) | 3:49 |
 | 44 | [The Natural Forces \- Original Mix](https://open.spotify.com/track/7BNhD4ohfUMs6VxhWgtcvB) | [Kaustav Majumder](https://open.spotify.com/artist/3K3PS2t0Qh8lmLDU9OAPHn) | [Morning Sitar Peace](https://open.spotify.com/album/4BZ3CCPWQp2QmzrPn0N0Cr) | 2:04 |

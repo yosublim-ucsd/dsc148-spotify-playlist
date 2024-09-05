@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 
 > The biggest party hits of the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,603 likes - 145 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,696 likes - 145 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,14 +128,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3AdAEX3vkB1.md) - [plain]
 | 118 | [I'm A Man](https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU) | [The Spencer Davis Group](https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS) | [I'm A Man / I Can't Get Enough Of It](https://open.spotify.com/album/4ILV3dYfHY0dfvLxYORAFb) | 2:56 |
 | 119 | [Do Wah Diddy Diddy](https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R) | [Manfred Mann](https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ) | [Groovin' with Manfred Mann](https://open.spotify.com/album/24uIWywoZqArplgomqtvfW) | 2:23 |
 | 120 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
-| 121 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 |
-| 122 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
-| 123 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
-| 124 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 |
-| 125 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 |
-| 126 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
-| 127 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
-| 128 | [Rescue Me](https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Soul](https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk) | 2:56 |
+| 121 | [Rescue Me](https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo) | [Fontella Bass](https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA) | [Soul](https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk) | 2:56 |
+| 122 | [Twist And Shout](https://open.spotify.com/track/0URp9jOJtiWKR1AfMGH2Qj) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Twist & Shout](https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J) | 2:35 |
+| 123 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 |
+| 124 | [Papa's Got A Brand New Bag](https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [20 All\-Time Greatest Hits!](https://open.spotify.com/album/6MjOv3BeIjmht2ymtRih3s) | 2:05 |
+| 125 | [If I Had a Hammer](https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [Rhino Hi\-Five: Trini Lopez](https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI) | 2:59 |
+| 126 | [My Boy Lollipop](https://open.spotify.com/track/4Tsx5uLCyJphR0oAzbFS9D) | [Millie Small](https://open.spotify.com/artist/0h3n6BqxvmRhWwNcdw4CWT) | [Trojan Presents: Mod Ska](https://open.spotify.com/album/1yHoapFf9ehxEkQOUdoFOq) | 2:02 |
+| 127 | [Stop! In The Name Of Love](https://open.spotify.com/track/5yfrc6CGOXxDWx3nGUDcNj) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes \- Expanded Edition](https://open.spotify.com/album/5Z9hrH7aGLMT9s6lNYx2HH) | 2:52 |
+| 128 | [Dancing In The Street \- Single Version](https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [The Ultimate Collection: Martha Reeves & The Vandellas](https://open.spotify.com/album/0kvY6WYTWWJXQnesQRJZUZ) | 2:40 |
 | 129 | [The Hippy Hippy Shake](https://open.spotify.com/track/3CQRcM0crUAiZUf1n51ecD) | [The Swinging Blue Jeans](https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH) | [The EMI Years \- Best Of The Swinging Blue Jeans](https://open.spotify.com/album/7fpIPCHQxBjahH7mfMiylL) | 1:46 |
 | 130 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/6DfAdJWkHIRUiYsuYoAfim) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [Gold \(International Version\)](https://open.spotify.com/album/7AetomzAid1LhjAQSMxWIx) | 2:40 |
 | 131 | [Luck Be A Lady](https://open.spotify.com/track/3MIEsuQuZQeLSfD2EnM2BS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [My Kind Of Broadway](https://open.spotify.com/album/7MJ6rkVywaHJsugKkhcLnv) | 5:14 |

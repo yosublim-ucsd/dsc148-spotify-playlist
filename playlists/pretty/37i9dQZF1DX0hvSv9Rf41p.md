@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0hvSv9Rf41p.md) - [plain]
 
 > All things <a href="spotify:genre:bass">bass</a> with Seven Lions, Subtronics, and Skylar Grey
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,301 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,326 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [I'll Wait For You](https://open.spotify.com/track/1CI8Jvisq21AKQsFHHOWbI) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV) | [I'll Wait For You](https://open.spotify.com/album/7KoKBGgqZFDmZ4LQdef74V) | 3:25 |
 | 2 | [Down Low \- YDG Remix](https://open.spotify.com/track/20iODoi8eZUC1sBS5C01GF) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Sorana](https://open.spotify.com/artist/1PnnRNGfichOAfPOn5mVyx) | [Down Low \(YDG Remix\)](https://open.spotify.com/album/4OgyJ5Zk7Ucye5ZKupsjhD) | 3:09 |
 | 3 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 |
-| 4 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 4 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 5 | [IN THE ZONE](https://open.spotify.com/track/3EZT1GQldSjQALioFg3XEp) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij) | [IN THE ZONE](https://open.spotify.com/album/0cSvYjnV5i1aU4Mpndu7FC) | 2:49 |
 | 6 | [Pop, Lock & Drop It](https://open.spotify.com/track/3MGgzQBgl3nnrqychGdTtw) | [Izzy Vadim](https://open.spotify.com/artist/3mEgLhTVxuUG4n1ezLNY5l), [Huey](https://open.spotify.com/artist/33wbkdcxtduHKY53LnI1Hf) | [Pop, Lock & Drop It](https://open.spotify.com/album/38Ekud22i84S9aKovvGeNo) | 2:41 |
 | 7 | [SMACK TALK](https://open.spotify.com/track/5rzHkSHRyZUdQcCX6noFDB) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [ISOKNOCK](https://open.spotify.com/artist/0mmIPiJ8l2gAProE7THr37) | [SMACK TALK](https://open.spotify.com/album/0F1AHBmHwzLNiOvqXc1bnc) | 4:00 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,755 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,861 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [PAWZ](https://open.spotify.com/track/7HgIsm8Oq9akUEUaLNBYHM) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [PAWZ](https://open.spotify.com/album/13pKsRvNU67T96ERJH8vxm) | 2:01 |
 | 100 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 |
 
-Snapshot ID: `ZtM+wgAAAAAuI1CcFLe1U8Oj2JODetec`
+Snapshot ID: `ZtfUSQAAAAC1cqxw3nPfRJRoMabRNKL4`

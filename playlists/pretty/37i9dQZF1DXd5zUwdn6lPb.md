@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,686 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,828 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

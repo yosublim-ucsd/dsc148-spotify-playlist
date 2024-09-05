@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eros Ramazzotti. Los temas esenciales, todos en una lista.",
-  "num_followers": 230450,
+  "description": "This is Eros Ramazzotti. The essential tracks, all in one playlist.",
+  "num_followers": 230497,
   "original_name": "This Is Eros Ramazzotti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADHXk99xaS0XR+7Uea9bwoU",
+  "snapshot_id": "ZtZRgAAAAACbgcpF7+BOmFYJXZH14jod",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Somos",
+        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
+      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eros (Spanish Version)",
         "url": "https://open.spotify.com/album/66PLBQY9K6Ehb6QYAqjYYA"
       },
@@ -363,8 +379,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somos",
-        "url": "https://open.spotify.com/album/3h5yQVDuEGV0Xu0vVKe0Fk"
+        "name": "Eros 30 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
       },
       "artists": [
         {
@@ -372,9 +388,9 @@
           "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
         }
       ],
-      "duration_ms": 203026,
-      "name": "Un \u00c1ngel Como El Sol T\u00fa Eres",
-      "url": "https://open.spotify.com/track/6qkDsBn30aO9TJdwXznRO8"
+      "duration_ms": 239253,
+      "name": "Adesso tu",
+      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -391,22 +407,6 @@
       "duration_ms": 258480,
       "name": "Quanto amore sei",
       "url": "https://open.spotify.com/track/4uZODT0zynKg5TFTLC8fLd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eros 30 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6vCxp7Tyue7CRCd0FOaCrz"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 239253,
-      "name": "Adesso tu",
-      "url": "https://open.spotify.com/track/2gq6d9KkrE4RLkjWa3TMVu"
     },
     {
       "added_at": null,
@@ -699,6 +699,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todo Historias (Remastered 192 khz)",
+        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 347720,
+      "name": "A Medio Camino - Remastered 2021",
+      "url": "https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Donde Hay M\u00fasica (Spanish Version)",
+        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
+      },
+      "artists": [
+        {
+          "name": "Eros Ramazzotti",
+          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
+        }
+      ],
+      "duration_ms": 279666,
+      "name": "Estrella Gemela",
+      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heroes De hoy [35th Anniversary Edition (Remastered 192 khz)]",
         "url": "https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc"
       },
@@ -727,38 +759,6 @@
       "duration_ms": 232613,
       "name": "Perfetto",
       "url": "https://open.spotify.com/track/7yCNwWbcIOt3P6oz5qViW0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Donde Hay M\u00fasica (Spanish Version)",
-        "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 279666,
-      "name": "Estrella Gemela",
-      "url": "https://open.spotify.com/track/2w5KTTp4DLF5vJ4Xk6Y7bb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todo Historias (Remastered 192 khz)",
-        "url": "https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf"
-      },
-      "artists": [
-        {
-          "name": "Eros Ramazzotti",
-          "url": "https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX"
-        }
-      ],
-      "duration_ms": 347720,
-      "name": "A Medio Camino - Remastered 2021",
-      "url": "https://open.spotify.com/track/2Pt9kY02ODStk0n20FlEEM"
     },
     {
       "added_at": null,

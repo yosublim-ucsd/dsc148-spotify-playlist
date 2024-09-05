@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82RdxyHKCWG.md) - [plain]
 
 > Tudo de novo que tá rolando no pop! Atualizada toda semana ✨ Foto: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,989 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 612,982 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

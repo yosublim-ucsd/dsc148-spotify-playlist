@@ -1,6 +1,6 @@
 {
   "description": "The warm sound and the cozy mood of classic Jazz. A soundtrack in the background for relaxing, dinner or focus. Cover: Hank Mobley",
-  "num_followers": 107235,
+  "num_followers": 107257,
   "original_name": "In the Mood for Jazz",
   "owner": {
     "name": "Spotify",
@@ -2831,7 +2831,7 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Unforgettable (Expanded Edition)",
+        "name": "Unforgettable - Expanded Edition",
         "url": "https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1"
       },
       "artists": [
@@ -3167,26 +3167,6 @@
     {
       "added_at": "2024-07-17 11:36:47",
       "album": {
-        "name": "Getz Meets Mulligan In Hi-Fi",
-        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 389640,
-      "name": "Let's Fall In Love",
-      "url": "https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff"
-    },
-    {
-      "added_at": "2024-07-17 11:36:47",
-      "album": {
         "name": "John Coltrane & Johnny Hartman",
         "url": "https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r"
       },
@@ -3203,6 +3183,26 @@
       "duration_ms": 333840,
       "name": "You Are Too Beautiful",
       "url": "https://open.spotify.com/track/1AL1RPAS8xiZGehR3ch7mp"
+    },
+    {
+      "added_at": "2024-07-17 11:36:47",
+      "album": {
+        "name": "Getz Meets Mulligan In Hi-Fi",
+        "url": "https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 389640,
+      "name": "Let's Fall In Love",
+      "url": "https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff"
     },
     {
       "added_at": "2024-07-17 11:36:47",

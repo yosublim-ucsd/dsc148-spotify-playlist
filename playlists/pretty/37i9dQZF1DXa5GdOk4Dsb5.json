@@ -1,6 +1,6 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 136788,
+  "num_followers": 136810,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
@@ -1671,38 +1671,6 @@
     {
       "added_at": "2024-07-11 01:48:38",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 224026,
-      "name": "Sobrevivir\u00e9",
-      "url": "https://open.spotify.com/track/7w1oxfGb7RuXJUeo7BXIeP"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
-        "name": "Lo Mejor de Luis Alberto Posada",
-        "url": "https://open.spotify.com/album/2E1pvbJzRLX1ldbSHXYP08"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Posada",
-          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "El Precio de Tu Error",
-      "url": "https://open.spotify.com/track/3I1lXaKt0XKgAKx6u1hlE8"
-    },
-    {
-      "added_at": "2024-07-11 01:48:38",
-      "album": {
         "name": "Guaro (Remix)",
         "url": "https://open.spotify.com/album/3NnJPRCFbWl8UuMm78YnyK"
       },
@@ -1755,6 +1723,38 @@
       "duration_ms": 222285,
       "name": "Guaro - Remix",
       "url": "https://open.spotify.com/track/5fNJ6mhN9NBOELN7Nw8dzJ"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/1Boj3OklpAJEVqarl7EVnw"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 224026,
+      "name": "Sobrevivir\u00e9",
+      "url": "https://open.spotify.com/track/7w1oxfGb7RuXJUeo7BXIeP"
+    },
+    {
+      "added_at": "2024-07-11 01:48:38",
+      "album": {
+        "name": "Lo Mejor de Luis Alberto Posada",
+        "url": "https://open.spotify.com/album/2E1pvbJzRLX1ldbSHXYP08"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Posada",
+          "url": "https://open.spotify.com/artist/70OAdYggwWl6EApsgp1jNX"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "El Precio de Tu Error",
+      "url": "https://open.spotify.com/track/3I1lXaKt0XKgAKx6u1hlE8"
     },
     {
       "added_at": "2024-07-11 01:48:38",

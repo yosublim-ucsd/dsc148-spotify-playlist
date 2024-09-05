@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: WONKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,886 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,912 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 69 | [Sunday](https://open.spotify.com/track/7KjIhqpp6bpUc4W9sllJud) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Moondance Diner Ensemble](https://open.spotify.com/artist/4zTtRmjslc9GFQhSKjcTMK) | [tick, tick..\. BOOM! \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/4d1XaejoQ5r4jdkV8k5SNJ) | 2:50 |
 | 70 | [Song About You](https://open.spotify.com/track/01Dmc9x1ogPGsk80kWK4nY) | [Jane Bruce](https://open.spotify.com/artist/5xoKNTTnFbgsYPKRAbLSKB) | [Song About You](https://open.spotify.com/album/3Krhyaxo0HqjJU7uFYNRfm) | 3:22 |
 | 71 | [Louder Than Words](https://open.spotify.com/track/6JNHdUEMA2X2LbubU5IUKR) | [Andrew Garfield](https://open.spotify.com/artist/2garjIdgTW5i89s4Z3UT72), [Vanessa Hudgens](https://open.spotify.com/artist/6G9bygHlCyPgNGxK2l3YdE), [Joshua Henry](https://open.spotify.com/artist/2WHbNs4WT5ZN7rbjDqbyEE) | [Louder Than Words](https://open.spotify.com/album/74IjHcLoC6K2SJcdp132It) | 4:53 |
-| 72 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \(From ''Cyrano'' Soundtrack\)](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
+| 72 | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/track/7HYgIW2TK4hPfcC6XaqF2W) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Somebody Desperate \- From ''Cyrano'' Soundtrack](https://open.spotify.com/album/1h6dh2TaMHS9uB9uYxJJCv) | 3:55 |
 | 73 | [Another day in America \(with Ozuna\)](https://open.spotify.com/track/0SRBovIdW5xMxuw7ZR9pHz) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Another day in America \(with Ozuna\)](https://open.spotify.com/album/5xeu1LWvPrYWnWuyLXRcRW) | 2:47 |
 | 74 | [Just Walk Away](https://open.spotify.com/track/6bcF7kirM0zjmDWEzy968G) | [Burt Bacharach](https://open.spotify.com/artist/35y7CZMg7jbG8Q96JY7dyC), [Steven Sater](https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv), [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q) | [Some Lovers \(World Premiere Recording\)](https://open.spotify.com/album/1tEyFYVH36zYUYfFK58gPN) | 2:39 |
 | 75 | [All I Ask Of You](https://open.spotify.com/track/6YBmnh6VjgCeM7grsnulWk) | [Sierra Boggess](https://open.spotify.com/artist/6QB1J3JKvV9KXWu33g1r7W), [Julian Ovenden](https://open.spotify.com/artist/4MtwwZvqAt5fXJTV9dlnuu) | [Together At A Distance](https://open.spotify.com/album/59ninoXyrak9KxDAeGqVVi) | 4:24 |

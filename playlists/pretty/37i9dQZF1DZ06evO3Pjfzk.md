@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 
 > This is Lainey Wilson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,327 likes - 47 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,375 likes - 47 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Pjfzk.md) - [plain]
 | 46 | [Refugee](https://open.spotify.com/track/607QAv6xaTMW1tkjgx59JE) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Refugee](https://open.spotify.com/album/7snxpZlyi8B7T6dEi3zw1k) | 3:50 |
 | 47 | [Beer Song \(feat\. Lainey Wilson, Chase Rice & Granger Smith\)](https://open.spotify.com/track/6syL6trhY0U7rclABd9HPF) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn), [Granger Smith](https://open.spotify.com/artist/4sTFGCigAQIUiEy8wSSQNF), [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [HIXTAPE: Vol\. 2](https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj) | 3:31 |
 
-Snapshot ID: `ZtUAAAAAAACc8M2dJCbZFJvP22Y/DAtm`
+Snapshot ID: `ZtZRgAAAAACnm8RikQXiIEhW8PzIC8bb`

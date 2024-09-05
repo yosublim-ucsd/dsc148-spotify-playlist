@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Immanuel Wilkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 935,623 likes - 100 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,687 likes - 100 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AFTERLIFE RESIDENCE TIME](https://open.spotify.com/track/5e1AKABWAK8NTzjRj8S8FX) | [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG) | [AFTERLIFE RESIDENCE TIME](https://open.spotify.com/album/3lxJ9yzA7gITHwmBca0eIL) | 8:40 |
-| 2 | [The Cool \(Constantly Opperating On Love\)](https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Composers Collective: Beyond The Jukebox](https://open.spotify.com/album/1CK1mfq11ZVb2ILzQ82tcl) | 3:39 |
+| 2 | [The Cool \(Constantly Operating On Love\)](https://open.spotify.com/track/6ILjgccPqtpAizFpj4k8da) | [Marquis Hill](https://open.spotify.com/artist/5QI54xb4Ovm8DwDkmmHbez) | [Composers Collective: Beyond The Jukebox](https://open.spotify.com/album/1CK1mfq11ZVb2ILzQ82tcl) | 3:39 |
 | 3 | [The Quest Begins](https://open.spotify.com/track/3pbRUWgefMDCVY0DBFoNkK) | [Tigran Hamasyan](https://open.spotify.com/artist/0D3h8NZqNp7BN97JwtV6eW) | [The Bird Of A Thousand Voices](https://open.spotify.com/album/4UnelVCThASbUfwNKPFqCa) | 4:31 |
 | 4 | [Remember \(feat\. Samara Joy, Robert Glasper\)](https://open.spotify.com/track/1j8K2Lv9a3oPOxu0wXCsla) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7), [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [Remember](https://open.spotify.com/album/5F9W0ZzmESRfGUvMluW1kU) | 4:00 |
 | 5 | [The Smile of Rita](https://open.spotify.com/track/69SMAib2dFku6q4tzYLp20) | [Ibrahim Maalouf](https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb) | [The Smile of Rita](https://open.spotify.com/album/1kLYvxNVrbZZo8BdhLoJkQ) | 5:01 |

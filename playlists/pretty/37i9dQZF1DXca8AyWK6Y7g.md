@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > ♡ meant to be ♡ Sycco!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,532,012 likes - 150 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,531,964 likes - 150 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Jhon Allan
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,310 likes - 101 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,312 likes - 101 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

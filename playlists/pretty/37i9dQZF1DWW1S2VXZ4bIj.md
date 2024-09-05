@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 > เพลงใหม่มาแรง เพลงฮิตล่าสุด และเพลงอิงกระแสตอนนี้\. ศิลปิน: NONT TANONT
 
-[Spotify](https://open.spotify.com/user/spotify) - 240,464 likes - 99 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 240,540 likes - 99 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 41 | [รักแค่ไหน](https://open.spotify.com/track/1jDtb5VfsCC0Uoipn641qB) | [PONCHET](https://open.spotify.com/artist/0BRKLnTK2MmWWQ2RXJAHQr) | [รักแค่ไหน](https://open.spotify.com/album/6mf2j6MQai90zgSl0hTYbn) | 3:37 |
 | 42 | [ดองเก่ง](https://open.spotify.com/track/3ZCYNMzlWPNfwdP2rHKgxm) | [Only Monday](https://open.spotify.com/artist/2zByTMDKM5g76Kbz4huf0A) | [ดองเก่ง \- Single](https://open.spotify.com/album/0gpGGst2Csb85u0qaxpQgc) | 4:51 |
 | 43 | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/track/3wyzSQ9rAWjx9vsMQSrLn2) | [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [ไม่เปลี่ยนเลย \(Best Luck\)](https://open.spotify.com/album/0Xzh5uhsKj61IstBtpyx0u) | 3:10 |
-| 44 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 44 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 45 | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/track/0Vuen2jMTrQ5BOx2CU4wwi) | [PROXIE](https://open.spotify.com/artist/4tNPboeMQnpoUX7IEbPLdF) | [เริ่มก่อน \(If I Could\)](https://open.spotify.com/album/6JJAfcGaQtsY0pkdpmNWEZ) | 3:40 |
 | 46 | [น่ารักมั้ยไม่รู้ \(Narak Mhai Mai Roo\)](https://open.spotify.com/track/2RDj0KKuo4NP8PxaNf5quT) | [Butterbear](https://open.spotify.com/artist/7bDJAhi2Egiu9bGQq91Qkr) | [น่ารักมั้ยไม่รู้ \(Narak Mhai Mai Roo\)](https://open.spotify.com/album/6ceHXU8Nvd9nao4NXVScqZ) | 2:55 |
 | 47 | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\)](https://open.spotify.com/track/36VP0QLf0R3KqcWeyJxuEO) | [Paper Planes](https://open.spotify.com/artist/52VcFYcq5kJEaRYgy58ouW) | [กลับมาเพื่อบอกลา \(JUST TO LET ME KNOW\) \- Single](https://open.spotify.com/album/2HgDU0bpa2LwPdFpXJLsBL) | 3:34 |

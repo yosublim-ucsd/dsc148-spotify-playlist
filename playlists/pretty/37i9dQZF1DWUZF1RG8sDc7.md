@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 
 > Porque el corazón habla vallenato\. ¡Ay ombe!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,331 likes - 60 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,400 likes - 60 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZF1RG8sDc7.md) - [plain]
 | 52 | [Vivo por Ti](https://open.spotify.com/track/4YtHcEWXyGYpqhNfBEf9c6) | [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Son los Gigantes](https://open.spotify.com/album/0Z2iq6VX08puUldiB6Nkfu) | 4:39 |
 | 53 | [Nunca Niegues Que Te Amo](https://open.spotify.com/track/5vNt4MQT5u3QPH47pwLwqS) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Presente y Futuro](https://open.spotify.com/album/75PBmgvD63PfCATtt6FxiS) | 5:00 |
 | 54 | [Muchacha Encantadora](https://open.spotify.com/track/4M3WYnhqRxRSoWTGjhrUtr) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP), [Amin Martinez](https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi) | [Grandes Éxitos de los Chiches Vallenatos](https://open.spotify.com/album/7DgpZQf6wpxfxIeliadbBB) | 4:17 |
-| 55 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
-| 56 | [Me Tiraste Al Mar](https://open.spotify.com/track/6dqxQhRZG8bsBfJBQft24Y) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [Versión Original](https://open.spotify.com/album/79bVLSKqyyQWGjQLI55HRw) | 4:26 |
+| 55 | [Cuando la Vi](https://open.spotify.com/track/0sAbSiHZXHdYrUdlbqZOYh) | [Beto Zabaleta](https://open.spotify.com/artist/797OTNZjzrWCZnkRVY1Gtp), [Franco Argüelles](https://open.spotify.com/artist/66pMOS7QsO8moXgL0Zza6q) | [Celebrando](https://open.spotify.com/album/2AqL8QyJsL9dB1mLZygptC) | 5:22 |
+| 56 | [Que Me Puedas Amar](https://open.spotify.com/track/3AS4n5gPVuRXwgVvsFzVtm) | [Miguel Morales](https://open.spotify.com/artist/1viot8lL4r3cgRLb2hBUri) | [Sólo Clásicos \- Miguel Morales](https://open.spotify.com/album/2arurJc4cJuCD6USvybpRF) | 4:27 |
 | 57 | [Dime pajarito](https://open.spotify.com/track/2k3691QJP2dunDmktCzg3j) | [Binomio de Oro](https://open.spotify.com/artist/6n21XaDAuqpceTXBiypR9W) | [Rafael Orozco El Ídolo de Siempre](https://open.spotify.com/album/3OOfzYCpcJBvIWt4rAN6HX) | 4:55 |
 | 58 | [Niña Bonita](https://open.spotify.com/track/1fbRYLGk6VJQheSL5XcFKj) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1aHXwZk5TZGIxmELnmrFyq) | 5:10 |
-| 59 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
-| 60 | [Quiéreme](https://open.spotify.com/track/3vjJiSh9xzWwMo0PxptiLe) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 5:06 |
+| 59 | [Muero por Verla](https://open.spotify.com/track/030oP5zYYT57rlsvLQbQFp) | [Luis Mateus](https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW), [David Rendon](https://open.spotify.com/artist/6mUIKTMphJ1lYGBDo2yXhX) | [Historia Musical](https://open.spotify.com/album/7iFLzogate5gmPK3DCcG7o) | 4:39 |
+| 60 | [Quiero Saber de Ti](https://open.spotify.com/track/0a3S4msjTQNsVgi34Hr3Jg) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [Volver a Triunfar](https://open.spotify.com/album/5MWq2cLBp376ewRNJUoKWk) | 4:57 |
 
 Snapshot ID: `ZgTL0AAAAAA4HuajChT3zTDBy9OKiDPJ`

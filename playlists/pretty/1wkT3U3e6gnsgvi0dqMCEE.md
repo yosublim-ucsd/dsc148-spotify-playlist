@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 3,726 likes - 107 songs - 6 hr 55 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 3,725 likes - 107 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 83 | [Higher Ground](https://open.spotify.com/track/0dMd4rilfd6gPbXaLpNYhu) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 3:42 |
 | 84 | [We Got To Change](https://open.spotify.com/track/3KOtaTxNIitCRgkdq3F4ir) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [We Got To Change](https://open.spotify.com/album/3ve6xJpPDWT9YABqOrciFS) | 3:46 |
 | 85 | [Paradise](https://open.spotify.com/track/3pBncKks8ZvP64uXIPms7Q) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Visions](https://open.spotify.com/album/59Gsd0DGxyhKyuHkhCV4Hq) | 3:25 |
-| 86 | [I Just Wanna Have Something To Do \- 2024 Remaster](https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [I Just Wanna Have Something To Do / Betcha \(2024 Remaster\)](https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG) | 2:25 |
+| 86 | [I Just Wanna Have Something To Do \- 2024 Remaster](https://open.spotify.com/track/5bGVtLRW7GQs14UnCu8FdE) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [I Just Wanna Have Something To Do / Betcha \- 2024 Remaster](https://open.spotify.com/album/2aFACqpuUVQt2qXQcbASWG) | 2:25 |
 | 87 | [No Return \- Extended Version From The Original Series “Yellowjackets”](https://open.spotify.com/track/6VOGgvuUoCXodrytKKpEGQ) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [No Return \(Extended Version From The Original Series “Yellowjackets”\)](https://open.spotify.com/album/0HDzM32hlE8cCKJJgwD3L8) | 3:04 |
 | 88 | [Just A Girl](https://open.spotify.com/track/5rIkE2zdyUfdDWfWpSwmge) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [The Set List](https://open.spotify.com/album/7Gt5hv82rfRokHQP9a4vAu) | 3:25 |
 | 89 | [All The Small Things](https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 2:47 |

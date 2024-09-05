@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64th GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,078 likes - 143 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,075 likes - 143 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 129 | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/track/2ghjBzkF9XwqBt9nw1GjlO) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo), [Paul Franklin](https://open.spotify.com/artist/2d5aRKZTJgcuetYRNzKDrA) | [Kissing Your Picture \(Is So Cold\)](https://open.spotify.com/album/1cx9p0adZ9GVMOsWs1UIhC) | 3:25 |
 | 130 | [Pashto](https://open.spotify.com/track/6vxP8D4gBHH1EiMmlzYmSL) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [As We Speak](https://open.spotify.com/album/2ZxzJ0ULWeGLzUhyapuVNN) | 8:24 |
 | 131 | [Inventing The Wheel](https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Inventing The Wheel](https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw) | 4:17 |
-| 132 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
-| 133 | [Vulnerable](https://open.spotify.com/track/3A1sYYDisSoPuXZe1ss3in) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 6:21 |
+| 132 | [Vulnerable](https://open.spotify.com/track/3A1sYYDisSoPuXZe1ss3in) | [Adam Blackstone](https://open.spotify.com/artist/01qe6O86TULkQwNofn1zgs), [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp) | [Legacy](https://open.spotify.com/album/3nHbEmj9rc6mvJSAm1RXDm) | 6:21 |
+| 133 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
 | 134 | [Basquiat](https://open.spotify.com/track/5RJbt6pveM6LjkI7LuBMa6) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul) | [Phoenix](https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7) | 5:41 |
 | 135 | [Love Letter](https://open.spotify.com/track/2qqsWxv1jxmmZxcSwi3LqD) | [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Love Letter](https://open.spotify.com/album/1hezohaDOgcy6FHtnDJBCq) | 4:34 |
 | 136 | [Need A Favor](https://open.spotify.com/track/5twSy6ffBrF03mnNUsUgJZ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:17 |

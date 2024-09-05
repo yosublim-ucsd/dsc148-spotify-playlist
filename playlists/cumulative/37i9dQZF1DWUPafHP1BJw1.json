@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "This Land",
+        "url": "https://open.spotify.com/album/0IXW2nCmhfprq7V4HwYhxE"
+      },
+      "artists": [
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
+        },
+        {
+          "name": "Lara Downes",
+          "url": "https://open.spotify.com/artist/2pSV3M4cqq8MUqT3SrXdpS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "America (Arr. for Piano by Noah Luna)",
+      "url": "https://open.spotify.com/track/7oXj6NwhbxjHM7FirgQUQ2"
+    },
+    {
+      "album": {
         "name": "Another Love",
         "url": "https://open.spotify.com/album/2Z6y6VZDUHTgIwWM9G2bkw"
       },
@@ -1747,6 +1769,24 @@
     },
     {
       "album": {
+        "name": "I'm So Excited",
+        "url": "https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Hart",
+          "url": "https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195458,
+      "name": "I'm So Excited",
+      "url": "https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk"
+    },
+    {
+      "album": {
         "name": "IDOL",
         "url": "https://open.spotify.com/album/0LzZLzIcCZmQNb63bH81Rj"
       },
@@ -2546,6 +2586,28 @@
       "duration_ms": 221693,
       "name": "Retrograde (Arr. Rimmer / Maydew)",
       "url": "https://open.spotify.com/track/2Qzs78maIl8RzAbzGCHuOc"
+    },
+    {
+      "album": {
+        "name": "Right Here Waiting - Symphony Orchestra Version",
+        "url": "https://open.spotify.com/album/4dTCxc2Y7544yexIFfF28w"
+      },
+      "artists": [
+        {
+          "name": "Zymphonica",
+          "url": "https://open.spotify.com/artist/3R9zN97nItXXTI1VEGoYOC"
+        },
+        {
+          "name": "Johan Landqvist",
+          "url": "https://open.spotify.com/artist/1O3w0XFadsTjVje8TZZZCA"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196613,
+      "name": "Right Here Waiting - Symphony Orchestra Version",
+      "url": "https://open.spotify.com/track/2vgmMMj6mJfseiBYtNPl9s"
     },
     {
       "album": {

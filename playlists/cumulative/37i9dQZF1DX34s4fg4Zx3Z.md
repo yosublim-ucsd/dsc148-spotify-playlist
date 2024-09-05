@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Hank
 
 1,808 songs - 4 day 9 hr 55 min
 

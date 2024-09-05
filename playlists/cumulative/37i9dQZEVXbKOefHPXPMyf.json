@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 175280,
       "name": "444",
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
@@ -5482,7 +5482,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-21",
+      "date_removed": null,
       "duration_ms": 148937,
       "name": "BESITOS",
       "url": "https://open.spotify.com/track/18D77Y4jjTwk4IASWhzJNP"
@@ -11545,6 +11545,24 @@
     },
     {
       "album": {
+        "name": "Debut",
+        "url": "https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123281,
+      "name": "Debut",
+      "url": "https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG"
+    },
+    {
+      "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
@@ -12868,7 +12886,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 289560,
       "name": "Don't Look Back in Anger - Remastered",
       "url": "https://open.spotify.com/track/0UvCh63URrLFcPkKt99hHd"
@@ -24592,7 +24610,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 276826,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
@@ -24610,7 +24628,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -30402,7 +30420,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -35006,7 +35024,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -38668,7 +38686,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -45756,7 +45774,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 358000,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2PZuFDO3jh5RHLX6CGEpsW"
@@ -49476,7 +49494,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -51080,7 +51098,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 184095,
       "name": "\u00c1NGEL",
       "url": "https://open.spotify.com/track/4JtKlgBLKHtRTqixKHrrw8"

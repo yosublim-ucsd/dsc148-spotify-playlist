@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,367 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,376 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 78 | [Entre Líneas](https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Entre Líneas](https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe) | 3:16 |
 | 79 | [Distintas Frecuencias](https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV) | [Fantasmagoria](https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn) | [Distintas Frecuencias](https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs) | 4:02 |
 | 80 | [Lago Eterno](https://open.spotify.com/track/3aaEQFzM99jkEVqUT9XsX4) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Lago Eterno](https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC) | 2:08 |
-| 81 | [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 |
-| 82 | [Las Ventajas](https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg) | [La Primera Especie](https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ) | [Las Ventajas](https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu) | 4:03 |
+| 81 | [Las Ventajas](https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg) | [La Primera Especie](https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ) | [Las Ventajas](https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu) | 4:03 |
+| 82 | [Confín Dorado](https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3) | [GULI](https://open.spotify.com/artist/0elXx8UZ9tsCV7SG7R8WcH), [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Si No Hubiera Mañana](https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4) | 3:48 |
 | 83 | [Mejor Sin Miedo](https://open.spotify.com/track/4nbkZq5yLjPh4Zy7kEqOGX) | [La Gente del Bien](https://open.spotify.com/artist/0M7YLSxwvd6kNKHbH8eQUw) | [Mejor Sin Miedo](https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs) | 3:08 |
 | 84 | [Los Carritos](https://open.spotify.com/track/5WqyFYPGHGoEQWGZC4cC3i) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [Fantasías de Violencia](https://open.spotify.com/album/19OW2y7pIYn6AKGSTA9Ys4) | 4:13 |
 | 85 | [Espejo](https://open.spotify.com/track/32VI35kNjDYQhtryCeBv0y) | [Todo Aparenta Normal](https://open.spotify.com/artist/3wsEppaZbJOYZEtwMfNI0o), [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ) | [Espejo](https://open.spotify.com/album/3mrLJYiIA3aHTco2VdFD2U) | 4:15 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 90 | [Mi Generación](https://open.spotify.com/track/6ikDyxIA451wrhNzdKTQGK) | [Marcelo Saccomanno](https://open.spotify.com/artist/2Sb6nU04HNObQnSBjIAnwr), [LeGüero](https://open.spotify.com/artist/6Q6GGQ9zLNN5I4LCkYmEbN) | [Mi Generación](https://open.spotify.com/album/5cfherksWvvP9ou8gMS8dj) | 4:34 |
 | 91 | [La Mañana](https://open.spotify.com/track/4OEX1eyHwC6GTJCxc5j9j8) | [Mostruo!](https://open.spotify.com/artist/5Q3EFP1RdiY8cF6S4QktgE), [Richard Coleman](https://open.spotify.com/artist/6Hngy3cPnHG2DO493ZxSya) | [La Mañana](https://open.spotify.com/album/2T8fDtbcTS9A93AjmkB0dP) | 3:50 |
 | 92 | [Mariposas](https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD) | [Echega](https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Mariposas](https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30) | 3:12 |
-| 93 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 |
-| 94 | [Amarras](https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Amarras](https://open.spotify.com/album/0ht5lOQi8PPTlwUeyl29el) | 4:37 |
-| 95 | [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 |
+| 93 | [No digas que no te avisé](https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [No digas que no te avisé](https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT) | 4:26 |
+| 94 | [No Está Mal Volar](https://open.spotify.com/track/5lQCyblY4iqtuAxDCxxOfd) | [T'Shine](https://open.spotify.com/artist/4d3XBHv7pvLOtkJBwQqMrm) | [No Está Mal Volar](https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ) | 3:16 |
+| 95 | [Amarras](https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB) | [Shaman Herrera](https://open.spotify.com/artist/6v6Zd9sNdAHCHBrrIs58So) | [Amarras](https://open.spotify.com/album/0ht5lOQi8PPTlwUeyl29el) | 4:37 |
 | 96 | [Anclado](https://open.spotify.com/track/3SnASrSEhm1AoHsawT7Wnx) | [Los Hermanos Laser](https://open.spotify.com/artist/1G3t1G8HB4X8DIAaix8JaX) | [Anclado](https://open.spotify.com/album/7JjatfKYlSBkcTfChzT4yt) | 4:24 |
 | 97 | [Dame el Dinero](https://open.spotify.com/track/6tJ9c79mosjm3OdEEDdBiW) | [Hijos de la Psicodelia](https://open.spotify.com/artist/6JxIskGsVf6ow8UU9ivNHU) | [Dame el Dinero](https://open.spotify.com/album/2IvCoG15EfRzeehu38EuNI) | 2:14 |
 | 98 | [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 |

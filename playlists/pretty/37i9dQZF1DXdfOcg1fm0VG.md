@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 704,383 likes - 129 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 704,512 likes - 129 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfOcg1fm0VG.md) - [plain]
 | 101 | [The Face of Our New Hope](https://open.spotify.com/track/4Er4Eq5De16sKwCV8nx4ej) | [Ludvig Forssell](https://open.spotify.com/artist/2nrb04b45LG5tjuHHzK5lc) | [Death Stranding \(Original Score\)](https://open.spotify.com/album/5e4LO7QzLLN6sSs9RlaawU) | 3:25 |
 | 102 | [Menu \(Protect the Loop\)](https://open.spotify.com/track/0HGknL22SeV3WN0hrWffhp) | [Tom Salta](https://open.spotify.com/artist/0KFl3wbs0hvoKlKDPcXODj), [Aeralie Brighton](https://open.spotify.com/artist/6lM6rCctpuMEtpFTGaQbAM), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Deathloop \(Original Game Soundtrack\)](https://open.spotify.com/album/2VNdSDOOqN9f1uFHrZt75y) | 1:14 |
 | 103 | [Glorifica](https://open.spotify.com/track/2P961w334gKjxJEM2h8Rxi) | [Johan Söderqvist](https://open.spotify.com/artist/0Z6bE6kOVhh2DHZPMUz2Sr), [Patrik Andrén](https://open.spotify.com/artist/6RgbIwWiBcHtDEk77uNjrA) | [Battlefield V \(Original Soundtrack\)](https://open.spotify.com/album/4SAV75H61yWLg3tiIwM2FX) | 2:23 |
-| 104 | [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/28QxVPI8Qeh3rOriVjJziN) | [ICO〜霧の中の旋律〜](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 |
+| 104 | [Castle in the Mist](https://open.spotify.com/track/3NqHQ4V2U4wQuWlByWfa1r) | [ICO](https://open.spotify.com/artist/6vuQJMjP5BC4Wyrq6mpVlb) | [ICO～霧の中の旋律～](https://open.spotify.com/album/7Gp7M4UtFXPJ6qc5oILizv) | 3:05 |
 | 105 | [Sogno di Volare \(“The Dream of Flight”\)](https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sogno di Volare \(Civilization VI Main Theme\)](https://open.spotify.com/album/3Mlu8nz19IlADr2IK85VJa) | 3:53 |
 | 106 | [Overture: Lore](https://open.spotify.com/track/3ITCrEvmcuQOnmy4g1TZY5) | [Takeshi Furukawa](https://open.spotify.com/artist/1nmiCVZ0sfOQm43MGc9wr5) | [The Last Guardian Soundtrack \(Japan Deluxe Edition\)](https://open.spotify.com/album/4cTewzrku9xOpNPXOZ4jVo) | 3:06 |
 | 107 | [Bonding Winds \- Monster Hunter Stories 2 Version](https://open.spotify.com/track/77AG1cu6yIcvSHV9Ct8q6o) | [Marika Suzuki](https://open.spotify.com/artist/41kVzr5RxwegBwWAWzwRG6) | [MONSTER HUNTER STORIES 2: WINGS OF RUIN ORIGINAL SOUND TRACK](https://open.spotify.com/album/4m9EYywTRX2I2eimoPaaN8) | 3:49 |

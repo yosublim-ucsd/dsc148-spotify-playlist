@@ -1,12 +1,12 @@
 {
-  "description": "This is Yandel. The essential tracks, all in one playlist.",
-  "num_followers": 169005,
+  "description": "This Is Yandel. Los temas esenciales, todos en una lista.",
+  "num_followers": 169027,
   "original_name": "This Is Yandel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADUKE2s2EamYtYZdI5FozOB",
+  "snapshot_id": "ZtZRgAAAAAAE0L14c2SQggtYtTjGzKf8",
   "tracks": [
     {
       "added_at": null,
@@ -715,6 +715,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Euphoria (Standard US/Latin version)",
+        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 270760,
+      "name": "No Me Digas Que No",
+      "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Amor de tu Vida (feat. Lenny Tav\u00e1rez & Best) [Remix]",
         "url": "https://open.spotify.com/album/1gOZkfjt7XYXBbfZWWSjPT"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 215470,
       "name": "GANGSTER (PQFNEDG)",
       "url": "https://open.spotify.com/track/3Yw6KJjm8ycybvl6UdW9dq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Euphoria (Standard US/Latin version)",
-        "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 270760,
-      "name": "No Me Digas Que No",
-      "url": "https://open.spotify.com/track/436EpHvGoKO3DgaSeD9lW8"
     },
     {
       "added_at": null,
@@ -875,26 +875,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 176293,
-      "name": "Cuando Te Toca",
-      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pierdo la Cabeza (Remix)",
         "url": "https://open.spotify.com/album/3YEcnOrALEkI04rGSJK4FH"
       },
@@ -939,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/5xefnzEqKIWnmTWYFzekGZ"
+      },
+      "artists": [
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 176293,
+      "name": "Cuando Te Toca",
+      "url": "https://open.spotify.com/track/6N5kayELaZsZUOwW9uCBU2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3G (feat. Jon Z, Don Chezina, Chencho Corleone & Myke Towers) [Remix]",
         "url": "https://open.spotify.com/album/7mau5c15cnVkwcp79cV5LK"
       },
@@ -979,30 +979,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DYNASTY",
-        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 166929,
-      "name": "UNA M\u00c1S",
-      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Cero",
         "url": "https://open.spotify.com/album/6g2Cu0rMNRxTkRovhkGgcq"
       },
@@ -1023,6 +999,30 @@
       "duration_ms": 223586,
       "name": "En Cero",
       "url": "https://open.spotify.com/track/51uLQESb4VnYAbs5WtGxho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DYNASTY",
+        "url": "https://open.spotify.com/album/58YsVjb7H6iov9MmLuvome"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 166929,
+      "name": "UNA M\u00c1S",
+      "url": "https://open.spotify.com/track/7Hzh5oY6cIitvcK6oJDwTb"
     },
     {
       "added_at": null,

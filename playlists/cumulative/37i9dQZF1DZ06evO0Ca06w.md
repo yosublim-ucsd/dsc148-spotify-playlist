@@ -2,7 +2,7 @@
 
 ### [This Is Miriam Makeba](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Ca06w)
 
-> This is Miriam Makeba\. The essential tracks, all in one playlist.
+> This is: Miriam Makeba\. Alle wichtigen Tracks in einer Playlist.
 
 180 songs - 9 hr 23 min
 
@@ -40,7 +40,7 @@
 | [Come to Glory](https://open.spotify.com/track/4IScXiXpEgp2krXzAbZX9k) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Voice of Africa](https://open.spotify.com/album/2D1LiG2WIZqQduUOJB2eWo) | 2:30 | 2023-01-04 | 2023-04-19 |
 | [Darlie Kea Lemang](https://open.spotify.com/track/66x9E25mjcwA2XgXXZqFdi) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sound of South Africa](https://open.spotify.com/album/6NnwZi32pAsFiCoCyHiD7i) | 2:51 | 2023-03-24 | 2024-02-08 |
 | [Djiu de Galinha](https://open.spotify.com/track/6DiHndbg1CcNgZRXjiDUbj) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Welela](https://open.spotify.com/album/77b73CkVByeIMB3mlVC7A4) | 4:08 | 2024-03-10 |  |
-| [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \(Deluxe\)](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 | 2021-12-28 | 2024-09-04 |
+| [Don't Break My Heart](https://open.spotify.com/track/2mVVN4Tv54Py7X9LZDgnip) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W), [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Zazzarazàz \- Uno Spettacolo D'arte Varia \- Deluxe](https://open.spotify.com/album/27Z6mdIhCmLKgrs13yp19s) | 4:33 | 2021-12-28 |  |
 | [Down on the Corner \- Remastered](https://open.spotify.com/track/6CbmJUrKZKdZ2jlSfPFlGe) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Keep Me In Mind](https://open.spotify.com/album/1cDSHioyv2YlTpct2b1j74) | 2:33 | 2022-01-03 |  |
 | [Emabhaceni](https://open.spotify.com/track/27nFGGdYDpN2u2zI8SwUZZ) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:40 | 2021-12-28 |  |
 | [Erev Shel Shoshanim](https://open.spotify.com/track/5bHF4aLdksOMoNzB5micYf) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [The Magic Of Makeba](https://open.spotify.com/album/3tSc0xHT9dlq12Ca78J6Lf) | 2:19 | 2021-12-28 | 2022-10-19 |
@@ -170,7 +170,7 @@
 | [Umam' Uyajabula](https://open.spotify.com/track/4HQ4fGyglhDFsvJQVH4eIx) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 2:02 | 2023-06-25 | 2024-06-26 |
 | [Umhome](https://open.spotify.com/track/3t4CPDDI33PW7712K4BpB5) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Miriam Makeba](https://open.spotify.com/album/1x0hxEsfIUX7NR2ovzDY8n) | 1:19 | 2022-12-19 | 2023-08-15 |
 | [Umhome](https://open.spotify.com/track/1TOTU0DQNaQ6FofNr2gkob) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [South African Queen](https://open.spotify.com/album/7swfx9Yn2FvEhYzrgNwpX6) | 1:19 | 2022-12-23 | 2024-02-16 |
-| [Umhome](https://open.spotify.com/track/2QCZM3wIigrOdkbx8f8DxY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Homeland](https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu) | 5:08 | 2024-06-06 |  |
+| [Umhome](https://open.spotify.com/track/2QCZM3wIigrOdkbx8f8DxY) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Homeland](https://open.spotify.com/album/7rpMuQI334lB7NK6fPUZPu) | 5:08 | 2024-06-06 | 2024-09-05 |
 | [Umqokozo](https://open.spotify.com/track/3ppcz1h6mWD7rKAlBdTRrD) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Le monde de Myriam Makeba](https://open.spotify.com/album/2ein2C5tzYfR94IJCSHK5c) | 2:09 | 2023-05-04 |  |
 | [Under African Skies \- Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87](https://open.spotify.com/track/0dz7AgLTb30euAIqMQmSKh) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI), [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Graceland Live \- Remastered \(Live: Rufaro Stadium, Harare, Zimbabwe 14 Feb '87\)](https://open.spotify.com/album/66nQdyL3P4u1yfsDu5Y4AT) | 4:00 | 2022-10-17 |  |
 | [Ungakanani](https://open.spotify.com/track/1V9p61vG2SvaIqgJ9qRHD4) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Sangoma](https://open.spotify.com/album/0hDU5JxEQMr3cQNaRIxMlI) | 1:29 | 2023-01-22 | 2024-07-13 |

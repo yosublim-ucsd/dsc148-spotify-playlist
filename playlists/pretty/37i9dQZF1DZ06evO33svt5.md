@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 
 > This is Doja Cat\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,029,676 likes - 52 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,029,822 likes - 52 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 30 | [OKLOSER](https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 2:49 |
 | 31 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 |
 | 32 | [Freaky Deaky](https://open.spotify.com/track/3vySEUpD0tc801F2WZDLYw) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Freaky Deaky](https://open.spotify.com/album/05oVghsqITa33yHnbW7uPz) | 3:35 |
-| 33 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l) | 2:55 |
-| 34 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
+| 33 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 |
+| 34 | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0) | [StarBoi3](https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Dick \(feat\. Doja Cat\)](https://open.spotify.com/album/5gH9EDMWWiLEplNCLb1r7l) | 2:55 |
 | 35 | [HEADHIGH](https://open.spotify.com/track/29pWNRvG3sugJEr05GgqlQ) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2) | 3:19 |
 | 36 | [In Your Eyes \(with Doja Cat\) \- Remix](https://open.spotify.com/track/0UnTaVkntyh3vqvLEvbpQx) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [In Your Eyes \(Remix\)](https://open.spotify.com/album/0Jh3A8NAbc9eFpdUfhDedt) | 3:57 |
 | 37 | [Go To Town](https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Amala](https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI) | 3:37 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO33svt5.md) - [plain]
 | 51 | [Up And Down](https://open.spotify.com/track/1uQ1TZ9YIWCtBTgq09uoix) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 2:31 |
 | 52 | [Can't Wait](https://open.spotify.com/track/5ZyQqAgrPr0cVm0VfM69Np) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:55 |
 
-Snapshot ID: `ZtUAAAAAAAB2h7awG2NHa1YS82jbpGU6`
+Snapshot ID: `ZtZRgAAAAABco9P5YaH/V6Zidhn5P43m`

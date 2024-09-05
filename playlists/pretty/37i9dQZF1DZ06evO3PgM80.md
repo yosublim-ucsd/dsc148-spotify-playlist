@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 
 > This is Julia Vitória\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,475 likes - 49 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,479 likes - 49 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PgM80.md) - [plain]
 | 48 | [Eu Sou do Meu Deus: Live Session](https://open.spotify.com/track/5gRql2gkj4LdOSKy2AkUet) | [Joe Vasconcelos](https://open.spotify.com/artist/71ebPclkvE4MAtYPNQ4XBX), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Eu Sou do Meu Deus: Live Session](https://open.spotify.com/album/1a8krW4eQvfkn8RM0gVmSz) | 6:42 |
 | 49 | [Santo Aleluia / Holy Hallelujah \- Live](https://open.spotify.com/track/2sUqTxB22HkNZgbdkD9M78) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Hananiel Eduardo](https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM), [Mark Alan Schoolmeesters](https://open.spotify.com/artist/0mTJxKhV5L8JtQmXHTJZXy), [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [REVERE: Unscripted Portuguese](https://open.spotify.com/album/41kS6H8A18CIWT5DaYsLlu) | 7:19 |
 
-Snapshot ID: `ZtUAAAAAAAC+DLcW3FtXBC5uKLEo+5fz`
+Snapshot ID: `ZtZRgAAAAACiCaOYIgTfOadVnpsWT9Cp`

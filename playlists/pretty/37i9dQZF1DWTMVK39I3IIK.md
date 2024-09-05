@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 
 > de skarpeste nye knive i dansk musik🔪 August Høyen skinner på forsiden 😎
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,214 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,221 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMVK39I3IIK.md) - [plain]
 | 67 | [AUTOSTRADA](https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7) | [FABRÄK](https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [7"](https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1) | 2:51 |
 | 68 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 |
 | 69 | [Ung & Smuk](https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia) | [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Ung & Smuk](https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3) | 2:40 |
-| 70 | [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/5bLVbfnY8JoJOPqnOqxXHL) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 |
+| 70 | [Uhh Yeah](https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K) | [FRAADS](https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH) | [Uhh Yeah](https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3) | 2:53 |
 
 Snapshot ID: `ZtGkCgAAAACahxQ/sm2EiiTiEjFTWL+F`

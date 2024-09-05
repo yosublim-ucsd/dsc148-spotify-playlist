@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,438 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,446 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 74 | [Jakbym zjadł mentosy i popił je colą](https://open.spotify.com/track/2nc3VYvWHGckELkcmzssWa) | [Kacperczyk](https://open.spotify.com/artist/2XsHanVw1onfSpTECII15X) | [Pokolenie Końca Świata](https://open.spotify.com/album/1AIy2wSd4TWW0CjP1ibZsp) | 2:48 |
 | 75 | [Kruszysz \(Szatt Remix\)](https://open.spotify.com/track/3zoH3L4e1VZdauVbiqFVwn) | [KIWI](https://open.spotify.com/artist/6VQUyaRqUl5BCTJS0cCEki), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [p@Ran0j3](https://open.spotify.com/album/0ulVcgl164iEs4IAV2f2Zu) | 3:30 |
 | 76 | [I Love To Chat With You](https://open.spotify.com/track/5uovSoI7Bo2il8hRm8I0WN) | [Mariusz Duda](https://open.spotify.com/artist/1rQa5aEdP2RbeEvnQT2M8Y) | [AFR AI D](https://open.spotify.com/album/6XXQvJPQZep9OmjColzjsb) | 3:42 |
-| 77 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
-| 78 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
+| 77 | [Wicher](https://open.spotify.com/track/3RMrUbkkndNsqWgDMI9hNC) | [Ugory](https://open.spotify.com/artist/0klnXt9e0AfPQVFpKq9XH9) | [Wicher](https://open.spotify.com/album/064J59XhoaytObENeSH9fJ) | 3:36 |
+| 78 | [Full Speed No Brakes](https://open.spotify.com/track/69305G8R3qlddRjRZSq38d) | [Boogie Boys](https://open.spotify.com/artist/5GqQE5CztlJNgrbayqqR8P) | [Full Speed No Brakes](https://open.spotify.com/album/1oWwgqATXgnQLLzbuqjf3z) | 2:42 |
 | 79 | [Nie Zabijaj Ze Strachu](https://open.spotify.com/track/2bXbfkqYThRRiJ31615RQb) | [Dragon](https://open.spotify.com/artist/1vA0SsWYp5ynlgRUFskT1E) | [Unde Malum](https://open.spotify.com/album/1wbVSZuqVyKjynWekKUhsq) | 4:30 |
 | 80 | [Polski blues](https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1) | [Sławek Wierzcholski](https://open.spotify.com/artist/7bWJ5zf6p3rM0ucHZ3BD4y), [Nocna Zmiana Bluesa](https://open.spotify.com/artist/0KirHnU7pIfeMYWSJ6xm8I) | [Koncert w Rozmarino](https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi) | 5:01 |
 | 81 | [Tiritaka](https://open.spotify.com/track/55krx4SNu1AJ6vwrqxdpsq) | [Kazimierz Jonkisz Quintet](https://open.spotify.com/artist/3QxJW501Ah3SdMt3w3aO22) | [TiriTaka \(Polish Jazz, Vol\. 62\)](https://open.spotify.com/album/2nDgX64PdLDyHtOX4nEHJf) | 6:09 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 86 | [Falling Up](https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3) | [Horntet](https://open.spotify.com/artist/2miwAQ8PY05NnvIEZa4TQz), [Bartłomiej Leśniak](https://open.spotify.com/artist/6elU49AsLleDexXyQnOeAW), [Robert Wypasek](https://open.spotify.com/artist/3azzTqUgUR97rCoPjwq8lA), [Szymon Ziółkowski](https://open.spotify.com/artist/3XYwgUP8jS69oxkfxRuIfg), [Mikolaj Sikora](https://open.spotify.com/artist/1HfykGEcWFCtMQgVkBFKVh), [Piotr Przewoźniak](https://open.spotify.com/artist/4ungdngpcfCsXiIHS7enTF) | [Horntet](https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN) | 9:23 |
 | 87 | [Toksyczny myśliciel / Toxic thinker](https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg) | [Władysław Komendarek](https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6), [Krzysztof Komendarek\-Tymendorf](https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts) | [AtomoGenus](https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS) | 6:19 |
 | 88 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 89 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
-| 90 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
+| 90 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
 
 Snapshot ID: `ZgE7OQAAAADt1nonr8MgMSbXNCBEKblz`

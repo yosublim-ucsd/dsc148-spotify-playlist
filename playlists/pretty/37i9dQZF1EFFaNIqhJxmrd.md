@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 54 | [grow old together](https://open.spotify.com/track/7nnVCVsEqxmctsnLdTCLZw) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/3NNyPYXwkHc4F8QffKQkui) | 2:13 |
 | 55 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 |
 | 56 | [Now That I Found You](https://open.spotify.com/track/1HqlMQsDtVUUJnf24eZLRC) | [Mari Bølla](https://open.spotify.com/artist/74iYO8DekSJih2cEZoMrMl) | [Now That I Found You](https://open.spotify.com/album/5MJwGNYvUTFfCNkL2ZPEtb) | 3:09 |
-| 57 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 |
+| 57 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/04yovA3Awq1PhEuSRgPXFi) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:44 |
 | 58 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
 | 59 | [Like You](https://open.spotify.com/track/60B6GgDJmbHH9OCEb4Ltdq) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/4VQuG8kX3s0Oo1VSGdtXQs) | 3:24 |
 | 60 | [Glömd&Begraven](https://open.spotify.com/track/0yNXh5Js8rYPKzczlUmTyd) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 3:19 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 93 | [Forever Yours](https://open.spotify.com/track/21lRcbCWJSbXNy5MMuQgWd) | [Jon](https://open.spotify.com/artist/1WD5Hdopwbbx8OdDR6jRZI) | [EiGHTYF!VE](https://open.spotify.com/album/6Uu4ZxPscUcIbCsZyQVXCB) | 2:52 |
 | 94 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbbL9AAAAAAXqMezAW0PzS1H7INVajxp`
+Snapshot ID: `AbbRngAAAACIP0Ge3wIhiT8S1F5vJQtO`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdmJixlyx0rj.md) - [plain]
 
 > New & best K\-Electronic music is here\. \(Cover: IÖN\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,889 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,898 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

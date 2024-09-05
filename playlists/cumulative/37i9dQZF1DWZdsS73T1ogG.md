@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Jory Boy
 
-1,306 songs - 2 day 21 hr 6 min
+1,307 songs - 2 day 21 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,6 +1112,7 @@
 | [Suelta](https://open.spotify.com/track/7kN7u1ZDOrNBKcEEGwGeDY) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [Suelta](https://open.spotify.com/album/79Ei7No5zyEoMYJdj9rJFe) | 4:03 | 2022-07-08 | 2022-10-08 |
 | [Suena el Bajo](https://open.spotify.com/track/0BZPshjB0SXlplST6GzpG2) | [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Suena El Bajo](https://open.spotify.com/album/4kOzvLDpRWFQtwyj1tEBIP) | 3:14 | 2023-12-01 | 2024-02-02 |
 | [Sufro](https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:36 | 2022-12-16 | 2023-02-25 |
+| [SugarDaddy](https://open.spotify.com/track/2smpQKz9cYXAgNPez0lqZW) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Soubad, Vol .1](https://open.spotify.com/album/54Vo3eSQBgLsxImMPejHoq) | 2:22 | 2024-09-04 |  |
 | [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 | 2022-11-25 | 2023-01-10 |
 | [SUNDAY](https://open.spotify.com/track/79vWGx71o8stKSXdBzsWJh) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SUNDAY](https://open.spotify.com/album/6OQCwKo6nKn6qGmZ11VZMN) | 2:56 | 2024-08-09 | 2024-08-31 |
 | [SUSANA](https://open.spotify.com/track/7EnZaT7BlPSRORrWdmAaIS) | [Leo Bash](https://open.spotify.com/artist/09xRT8VIvTTNEAfz0HTxvx), [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC) | [SUSANA](https://open.spotify.com/album/2to3l5blV24S95syzQg5Th) | 2:31 | 2022-07-29 | 2022-10-29 |

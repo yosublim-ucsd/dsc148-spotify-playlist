@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,559 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,552 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4z6u7kMqQvX.md) - [plain]
 | 82 | [Perdoname amor](https://open.spotify.com/track/60lkCw09ehFMdRAjSZSi8o) | [La Figui](https://open.spotify.com/artist/5QqWmfNdVYRaUOZ93oJJmn), [Potra](https://open.spotify.com/artist/2qP9rlQySpfxXYrHZ8IkAO) | [Perdoname amor](https://open.spotify.com/album/4kJBJbwTiiWslEAx5S41KU) | 3:22 |
 | 83 | [Mariposas](https://open.spotify.com/track/0sINp2DnE4lC3LXVP3U7OD) | [Echega](https://open.spotify.com/artist/2Li2QjHBJr15McMHdQSPJc), [Mariana Päraway](https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja) | [Mariposas](https://open.spotify.com/album/0jt2HG9su1FciUJ2BgBJ30) | 3:12 |
 | 84 | [Pangal](https://open.spotify.com/track/3E739758DB9IJ1dBoRDX2Z) | [Arranquemos del Invierno](https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs) | [Pangal](https://open.spotify.com/album/7Jvhy8k5mSE9hiMXCp89Lp) | 2:54 |
-| 85 | [duele](https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [duele](https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6) | 2:14 |
-| 86 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 |
+| 85 | [Tu Costado Más Feroz](https://open.spotify.com/track/6wLQARt5kV2nigf2dxmCaX) | [Julieta Zylberberg](https://open.spotify.com/artist/4M0TqlnzfvsDJh7igtfNg5) | [Tu Costado Más Feroz](https://open.spotify.com/album/6YGEszrMAOBfJZ9ZZFMbUb) | 2:16 |
+| 86 | [duele](https://open.spotify.com/track/0PraCrWXNKfoLpVnqZsfCj) | [Catalina Bayá](https://open.spotify.com/artist/1YKe4dEtIUe6MdYV0L0vcf), [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [duele](https://open.spotify.com/album/0xogsBHAhbvhZg6Qas45J6) | 2:14 |
 | 87 | [Cómo y Cuándo](https://open.spotify.com/track/5p3ewseYcitkJUdhYpaSkY) | [El Féral](https://open.spotify.com/artist/34Iany0uooiPsZ0pIWUy1G), [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Cómo y Cuándo](https://open.spotify.com/album/3F8JTJRlLwqan1umbVh1ku) | 3:24 |
 | 88 | [Radar](https://open.spotify.com/track/2ZrnMV7mUPqU2qPgFyEa23) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Radar](https://open.spotify.com/album/21upJvK4VBVEwgyftb1k58) | 2:42 |
 | 89 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 |

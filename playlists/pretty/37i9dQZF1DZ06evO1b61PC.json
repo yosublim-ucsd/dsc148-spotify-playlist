@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11045,
+  "num_followers": 11046,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADXilQYLP1xfiymgvNy3dNx",
+  "snapshot_id": "ZtZRgAAAAABqWICP/4Le/1q/ub1rq7CY",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Want It All (feat. Evalyn)",
-        "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Evalyn",
-          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Want It All (feat. Evalyn)",
-      "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Like It's Over (feat. MNDR)",
         "url": "https://open.spotify.com/album/0ohanLzrNxJRhFs9ELhesM"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 318000,
       "name": "Like It's Over (feat. MNDR)",
       "url": "https://open.spotify.com/track/4loZFQtwao4GVquR0dLEiL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Want It All (feat. Evalyn)",
+        "url": "https://open.spotify.com/album/22MkBC5l2Zi9atm66fE0Jq"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Evalyn",
+          "url": "https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Want It All (feat. Evalyn)",
+      "url": "https://open.spotify.com/track/32IMgcVhysYW12NRvMLp8c"
     },
     {
       "added_at": null,

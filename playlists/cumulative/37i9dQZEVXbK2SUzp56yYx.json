@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 155333,
       "name": "GDE PAPA?",
       "url": "https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX"
@@ -7268,7 +7268,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 229935,
       "name": "Till the End",
       "url": "https://open.spotify.com/track/3zxalQwgkMsHj3EjqX3V1y"
@@ -8560,7 +8560,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 192124,
       "name": "\u0410\u043b\u043b\u043e",
       "url": "https://open.spotify.com/track/7gxhnpAW0axBSVEjplfwhv"
@@ -9192,6 +9192,24 @@
       "duration_ms": 121166,
       "name": "\u0412 \u0420\u041e\u0421\u0421\u0418\u0418 \u0416\u0418\u0422\u042c \u041f\u0418\u0417\u0414\u0410\u0422\u041e",
       "url": "https://open.spotify.com/track/30IuMuNTWNv71jqK2Pwzmw"
+    },
+    {
+      "album": {
+        "name": "\u0412 \u044d\u043a\u0441\u0442\u0430\u0437\u0435",
+        "url": "https://open.spotify.com/album/078skmerJunZK6nyjJVygF"
+      },
+      "artists": [
+        {
+          "name": "Misha Xramovi",
+          "url": "https://open.spotify.com/artist/1dIYCI15jajEXo4xgvweKY"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134487,
+      "name": "\u0412 \u044d\u043a\u0441\u0442\u0430\u0437\u0435",
+      "url": "https://open.spotify.com/track/7pwagmoDkhaKiGJGd9YhJp"
     },
     {
       "album": {
@@ -10098,7 +10116,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 98192,
       "name": "\u0437\u0430\u0432\u0438\u0441\u0438\u043c - speed up",
       "url": "https://open.spotify.com/track/1rU68TwhzAJ45dSgcuPZYA"
@@ -10632,7 +10650,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
@@ -11376,7 +11394,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 229053,
       "name": "\u041d\u0435 \u0441\u0445\u043e\u0434\u0438 \u0441 \u0443\u043c\u0430",
       "url": "https://open.spotify.com/track/0ha05gR023LDKNpcRvbbhR"

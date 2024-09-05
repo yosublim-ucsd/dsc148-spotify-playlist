@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-319 songs - 18 hr 28 min
+320 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,7 +228,7 @@
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/2SQTteM7L4POuyKcMHpsoG) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/album/1t9cf3yWQcLKtBZT1s1DvY) | 4:15 | 2021-12-24 | 2022-07-29 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0M0BRpsdr7alyNbfoDWQCA) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias De Verano Best Hits](https://open.spotify.com/album/29uIiFyT1LswhnoqkRGjIm) | 4:16 | 2022-10-28 | 2022-11-13 |
 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0A2fcg05Ii6MpFCiuzfNfJ) | [sonoradinamita](https://open.spotify.com/artist/2wesOX1fzorPTtgcuZ0xv2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Transformando La Cumbia](https://open.spotify.com/album/0oQPPVHlGTrEPptF9mOZeZ) | 4:16 | 2022-07-22 | 2023-06-30 |
-| [Que Poco](https://open.spotify.com/track/0GN7d4LYbEl8sdY7N9J33n) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Que Poco](https://open.spotify.com/album/7n2gRYJJECZrdIjnSF3bPY) | 3:27 | 2024-08-16 |  |
+| [Que Poco](https://open.spotify.com/track/0GN7d4LYbEl8sdY7N9J33n) | [Xochilt](https://open.spotify.com/artist/2aHIy41xJKMsudwVFxCfoB) | [Que Poco](https://open.spotify.com/album/7n2gRYJJECZrdIjnSF3bPY) | 3:27 | 2024-08-16 | 2024-09-05 |
 | [Que Tiene la Noche](https://open.spotify.com/track/0ZY0V2lkqbxDxq3Ys0AU1U) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm), [Los Rabanes](https://open.spotify.com/artist/3yYb4SmE7A3rpOTklSlpXO) | [Que Tiene la Noche](https://open.spotify.com/album/61z2zm2d248rCOaPppWrd5) | 3:26 | 2022-12-02 | 2023-01-14 |
 | [Que Vuelvas](https://open.spotify.com/track/0uMsuZYdEC8yJI1mrx0vog) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [Que Vuelvas](https://open.spotify.com/album/3jgBD0phLA3LBdsaPS3wrs) | 2:42 | 2023-12-08 | 2024-01-09 |
 | [Quedate](https://open.spotify.com/track/0NxxoaArPqmo2ivluHFCPD) | [Marito](https://open.spotify.com/artist/6635eN3p3KGQiPdlFFvred) | [Quedate](https://open.spotify.com/album/6KLtoJE5SMa2NpeV3DmW91) | 3:28 | 2022-08-26 | 2023-01-28 |
@@ -258,6 +258,7 @@
 | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Si No Te Tengo / Ángel / Aquello Que Pasó](https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND) | 7:08 | 2021-12-24 |  |
 | [Si Regresas](https://open.spotify.com/track/56MNKndcWxFCIlgpDtd8Fd) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [Si Regresas](https://open.spotify.com/album/5hSPjucZjmNTdvuJ4Th9xW) | 3:23 | 2024-05-03 | 2024-05-25 |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-24 | 2024-07-13 |
+| [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/track/5AkLEnorFvb7WIJOGqKYVT) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Si Un Día Estás Sola \| CROSSOVER \#7](https://open.spotify.com/album/2nEAqrVGMybdrkN3gP9NGF) | 2:44 | 2024-09-04 |  |
 | [Siento](https://open.spotify.com/track/6P3P2GtNiCCIZrXEb9INcw) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Siento](https://open.spotify.com/album/26oBWM1k8dNJgcB89m5xnw) | 2:45 | 2023-01-06 | 2023-02-18 |
 | [Sin Ayuda](https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25), [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Sin Ayuda](https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV) | 3:49 | 2022-08-26 | 2022-09-10 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-04-03 |  |

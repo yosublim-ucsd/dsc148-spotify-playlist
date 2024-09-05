@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Chi Xê
+> Những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Hank
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,439 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,437 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [The Moon](https://open.spotify.com/track/49xpOFWY0ZE6i0CMRbZWrE) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [The Moon](https://open.spotify.com/album/63MBBGv1incoPmXs0K1InV) | 3:50 |
 | 100 | [maybe it's all for the best](https://open.spotify.com/track/6Xen9HvZbm7NCbPmDR8Tj0) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [maybe it's all for the best](https://open.spotify.com/album/0UxAbv1loFTbdUbY56STLy) | 3:35 |
 
-Snapshot ID: `ZtdAkAAAAAD3dC/8YzGejRsNoMW0ekUk`
+Snapshot ID: `ZtiSEAAAAAAc1rtXWHkeM3qkcUXGIlfU`

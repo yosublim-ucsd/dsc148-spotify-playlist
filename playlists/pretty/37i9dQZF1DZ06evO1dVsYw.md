@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 
 ### [This Is Racionais MC's](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1dVsYw)
 
-> This is Racionais MC's\. Todos os maiores hits em uma só playlist.
+> This is: Racionais MC's\. Alle wichtigen Tracks in einer Playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,195 likes - 32 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,205 likes - 33 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,11 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1dVsYw.md) - [plain]
 | 24 | [Eu Te Disse](https://open.spotify.com/track/6l7uyNOOHVO7PZuZRPIHm2) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 0:54 |
 | 25 | [Pânico na Zona Sul \- Ao Vivo](https://open.spotify.com/track/7pD1bfCSOr5i5VN8k4OeR0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:15 |
 | 26 | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/track/5MYKqp6J8rstffAQBCE2nl) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Mil Faces de um Homem Leal \(Marighella\)](https://open.spotify.com/album/1hqniVJju4Nj9qGJR2ZeIR) | 9:58 |
-| 27 | [Cores & Valores \(Finado](https://open.spotify.com/track/6ZNcr9DyYl3ySLoHPm9cHt) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:00 |
-| 28 | [Tempos Difíceis \- Ao Vivo](https://open.spotify.com/track/1Ldsc5zXVqOiUdKsDTq5HG) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:44 |
-| 29 | [Voz Ativa \- Ao Vivo](https://open.spotify.com/track/10pkKRI8K5AkVfqSfhM5oK) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:05 |
-| 30 | [Beco Sem Saída \- Ao Vivo](https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:34 |
-| 31 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 |
-| 32 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
+| 27 | [Capítulo 4, Versículo 3 – Da Rua E Do Povo, O Hip Hop: Um Manifesto Paulistano](https://open.spotify.com/track/4dqhw6XOCGeaAxlP4yGwpV) | [Liga Carnaval SP](https://open.spotify.com/artist/31SU63Dknz98JD66U9zJPt), [G.R.C.S.E.S\. Vai\-Vai](https://open.spotify.com/artist/2Asu95Ut2mLtc8hsnpkTzE), [Luiz Felipe](https://open.spotify.com/artist/0w3ToityJnCyZacH2wzmqk), [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [Sol da Vai\-Vai](https://open.spotify.com/artist/02uWG83UtstFnjmKfBVENF) | [Sambas de Enredo: Carnaval SP 2024 \(Grupo Especial, Acesso e Acesso II\)](https://open.spotify.com/album/1TXRS714j125DTxduDHugX) | 5:36 |
+| 28 | [Cores & Valores \(Finado](https://open.spotify.com/track/6ZNcr9DyYl3ySLoHPm9cHt) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Cores & Valores](https://open.spotify.com/album/1CYfSGAq6xQNF5V8CAeP7m) | 2:00 |
+| 29 | [Tempos Difíceis \- Ao Vivo](https://open.spotify.com/track/1Ldsc5zXVqOiUdKsDTq5HG) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:44 |
+| 30 | [Voz Ativa \- Ao Vivo](https://open.spotify.com/track/10pkKRI8K5AkVfqSfhM5oK) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:05 |
+| 31 | [Beco Sem Saída \- Ao Vivo](https://open.spotify.com/track/1X8ADi0LT3YU72H7QMBj4z) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 3:34 |
+| 32 | [Intro \- People Get Up And Drive Your Funky Soul \- Ao Vivo](https://open.spotify.com/track/0mxcW0LJMBXHVT8PXaD8H0) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 2:45 |
+| 33 | [Mano na Porta do Bar \- Ao Vivo](https://open.spotify.com/track/5GYBM7QhacNgVzzZNUXfEr) | [Racionais MC's](https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr) | [Racionais 3 Décadas](https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX) | 4:11 |
 
-Snapshot ID: `ZtUAAAAAAAD3lUPuNuJNzcrNsYoY0BeB`
+Snapshot ID: `ZtZRgAAAAABg0ctYvnuWwFEDNV7WkEzn`

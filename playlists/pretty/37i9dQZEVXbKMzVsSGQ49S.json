@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Iceland.",
-  "num_followers": 42122,
+  "num_followers": 42124,
   "original_name": "Top 50 - Iceland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lmp28AAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmvIcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/6dqtXAD7TqlhZVroaUigVC"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Andvaka",
         "url": "https://open.spotify.com/album/7Dq9vXLX3tDD256JjbdrN9"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5p8cnx65q4YJPGeCNlBbdI"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Gemm\u00e9r Gemm\u00e9r",
         "url": "https://open.spotify.com/album/7LJEDCRPzOWRbWbNgtx5zP"
@@ -97,39 +97,7 @@
       "url": "https://open.spotify.com/track/6WTAHBYCAuzikPp5XBiOGO"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/43fF3Hs4PyjYEJs2K8nwMQ"
-      },
-      "artists": [
-        {
-          "name": "Alexis Marrero",
-          "url": "https://open.spotify.com/artist/0mUJHSgFsZZf1zRUH4X3Ez"
-        }
-      ],
-      "duration_ms": 206340,
-      "name": "Overdrive",
-      "url": "https://open.spotify.com/track/4PPwTxASRmrUkAJ08Fd0Hg"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 108901,
-      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
-      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -145,7 +113,7 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Gr\u00e6ni Pakkinn",
         "url": "https://open.spotify.com/album/1NMZaN57GOuC3pGSSwOOQg"
@@ -165,7 +133,7 @@
       "url": "https://open.spotify.com/track/08gGODSrgb09P0yyl9Hx7B"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Please Please Please",
         "url": "https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9"
@@ -181,7 +149,23 @@
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 108901,
+      "name": "Dvel \u00e9g \u00ed draumah\u00f6ll",
+      "url": "https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -197,7 +181,7 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -217,7 +201,7 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -233,23 +217,7 @@
       "url": "https://open.spotify.com/track/1l2AHO7bb47QGFKJmXhXMz"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 133050,
-      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
-      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -265,23 +233,7 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99613,
-      "name": "\u00d3skasteinar",
-      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -297,23 +249,7 @@
       "url": "https://open.spotify.com/track/1qIEu0g7jbL4KhZbjTeVW9"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "MONN\u00cd",
-        "url": "https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf"
-      },
-      "artists": [
-        {
-          "name": "Aron Can",
-          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
-        }
-      ],
-      "duration_ms": 181253,
-      "name": "MONN\u00cd",
-      "url": "https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -324,12 +260,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 150883,
-      "name": "Sofa urtub\u00f6rn",
-      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
+      "duration_ms": 133050,
+      "name": "Sof\u00f0u unga \u00e1stin m\u00edn",
+      "url": "https://open.spotify.com/track/0Xh9sOCT7ZvmKg8KthRYnH"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -345,7 +281,39 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99613,
+      "name": "\u00d3skasteinar",
+      "url": "https://open.spotify.com/track/5myQVDBhZvE7DIvsQICuKn"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "MONN\u00cd",
+        "url": "https://open.spotify.com/album/29Z4fN5F8ZumIsfrfH0Krf"
+      },
+      "artists": [
+        {
+          "name": "Aron Can",
+          "url": "https://open.spotify.com/artist/4jfe3cL8wzjPxD9CViP2dW"
+        }
+      ],
+      "duration_ms": 181253,
+      "name": "MONN\u00cd",
+      "url": "https://open.spotify.com/track/25dFPWFPt3OVvDsOSybenL"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Til \u00ed allt, Pt. III",
         "url": "https://open.spotify.com/album/09KYxBRoopLruITkHnv69i"
@@ -369,23 +337,7 @@
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "KBE kynnir: Legend \u00ed Leiknum",
-        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
-      },
-      "artists": [
-        {
-          "name": "Herra Hnetusmj\u00f6r",
-          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
-        }
-      ],
-      "duration_ms": 131017,
-      "name": "Hef Veri\u00f0 Verri",
-      "url": "https://open.spotify.com/track/4k92ZvGtKAVJLzwnS0lIrW"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -396,12 +348,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 175403,
-      "name": "B\u00edum b\u00edum bambal\u00f3",
-      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
+      "duration_ms": 150883,
+      "name": "Sofa urtub\u00f6rn",
+      "url": "https://open.spotify.com/track/1MWg9aH6OhteqF1RXR3J5w"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -417,23 +369,55 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
       },
       "artists": [
         {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         }
       ],
-      "duration_ms": 197137,
-      "name": "Lj\u00f3s",
-      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
+      "duration_ms": 86983,
+      "name": "NIGHTS LIKE THIS",
+      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "KBE kynnir: Legend \u00ed Leiknum",
+        "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
+      },
+      "artists": [
+        {
+          "name": "Herra Hnetusmj\u00f6r",
+          "url": "https://open.spotify.com/artist/6MBiPjSFsYijvVDtKDwVs4"
+        }
+      ],
+      "duration_ms": 131017,
+      "name": "Hef Veri\u00f0 Verri",
+      "url": "https://open.spotify.com/track/4k92ZvGtKAVJLzwnS0lIrW"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -453,23 +437,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -480,28 +448,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 191332,
-      "name": "\u00c6vint\u00fdral\u00f6nd",
-      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
+      "duration_ms": 197137,
+      "name": "Lj\u00f3s",
+      "url": "https://open.spotify.com/track/0RT86wBrufYQZSdN852Wjn"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 86983,
-      "name": "NIGHTS LIKE THIS",
-      "url": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -512,12 +464,28 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 132446,
-      "name": "G\u00f3\u00f0a n\u00f3tt",
-      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
+      "duration_ms": 175403,
+      "name": "B\u00edum b\u00edum bambal\u00f3",
+      "url": "https://open.spotify.com/track/5pn6OskYybJrrqcdlNpBvk"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Where I've Been, Isn't Where I'm Going",
+        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -537,23 +505,7 @@
       "url": "https://open.spotify.com/track/5xUMIgT1ANxPDJa3j7IBGv"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "Where I've Been, Isn't Where I'm Going",
-        "url": "https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/5fZJQrFKWQLb7FpJXZ1g7K"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -564,44 +516,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 123576,
-      "name": "B\u00ed b\u00ed og blaka",
-      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
+      "duration_ms": 191332,
+      "name": "\u00c6vint\u00fdral\u00f6nd",
+      "url": "https://open.spotify.com/track/1ZzSy8HeLFZAeuQi577bhB"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "MILLION DOLLAR BABY",
-        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 155151,
-      "name": "MILLION DOLLAR BABY",
-      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 261466,
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -612,12 +532,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 193282,
-      "name": "Sof\u00f0u",
-      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
+      "duration_ms": 132446,
+      "name": "G\u00f3\u00f0a n\u00f3tt",
+      "url": "https://open.spotify.com/track/7nzeIh8kUdieUBLPXch9wi"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "KBE kynnir: Legend \u00ed Leiknum",
         "url": "https://open.spotify.com/album/5hoR5fg75A1FiQMjOLgpj3"
@@ -633,7 +553,23 @@
       "url": "https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "MILLION DOLLAR BABY",
+        "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 155151,
+      "name": "MILLION DOLLAR BABY",
+      "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -644,60 +580,12 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 182090,
-      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
-      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
+      "duration_ms": 123576,
+      "name": "B\u00ed b\u00ed og blaka",
+      "url": "https://open.spotify.com/track/2q2cdTPrbgWSxLFFXjjaoO"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 125852,
-      "name": "Frost er \u00fati fuglinn minn",
-      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "V\u00f6gguv\u00edsur",
-        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
-      },
-      "artists": [
-        {
-          "name": "Hafd\u00eds Huld",
-          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
-        }
-      ],
-      "duration_ms": 99752,
-      "name": "S\u00f3lskin",
-      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "F-1 Trillion",
         "url": "https://open.spotify.com/album/4BbsHmXEghoPPevQjPnHXx"
@@ -717,27 +605,39 @@
       "url": "https://open.spotify.com/track/5IZXB5IKAD2qlvTPJYDCFB"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
-        "name": "Elska",
-        "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Daniil",
-          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
-        },
-        {
-          "name": "Lil Binni",
-          "url": "https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 157506,
-      "name": "Elska",
-      "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
+      "duration_ms": 193282,
+      "name": "Sof\u00f0u",
+      "url": "https://open.spotify.com/track/51J0zLsmKb265vmylOJGMr"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Love Somebody",
+        "url": "https://open.spotify.com/album/33XgKakCSduffyPH4OxPK7"
+      },
+      "artists": [
+        {
+          "name": "Kelvin Kellz",
+          "url": "https://open.spotify.com/artist/51QsQxogHqCZ2f2vIjydeN"
+        }
+      ],
+      "duration_ms": 113103,
+      "name": "Love Somebody",
+      "url": "https://open.spotify.com/track/7w1T7MBVRvq4pmTF8WfSME"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "PBT 2.0",
         "url": "https://open.spotify.com/album/3Mrz2JSDKfvEwDCyI0xLLe"
@@ -757,7 +657,7 @@
       "url": "https://open.spotify.com/track/6srY1H4DrPVgvSD1asK0Og"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "V\u00f6gguv\u00edsur",
         "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
@@ -768,28 +668,96 @@
           "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 135325,
-      "name": "\u00de\u00fa ert",
-      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+      "duration_ms": 125852,
+      "name": "Frost er \u00fati fuglinn minn",
+      "url": "https://open.spotify.com/track/1sgn8wmK2kuJrF9ppsnH2F"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
         }
       ],
-      "duration_ms": 289560,
-      "name": "Don't Look Back In Anger - Remastered",
-      "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
+      "duration_ms": 182090,
+      "name": "N\u00f3ttin l\u00e6\u00f0ist inn",
+      "url": "https://open.spotify.com/track/5TBNZCGMR1NJtJrrg606m0"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 261466,
+      "name": "WILDFLOWER",
+      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 99752,
+      "name": "S\u00f3lskin",
+      "url": "https://open.spotify.com/track/3LP5YM7IMwmffWXPE1VBf1"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Elska",
+        "url": "https://open.spotify.com/album/3ff0TMuz5cPCFrVSDDfOMz"
+      },
+      "artists": [
+        {
+          "name": "Daniil",
+          "url": "https://open.spotify.com/artist/734Ea35ORu5chErtoqMMtU"
+        },
+        {
+          "name": "Lil Binni",
+          "url": "https://open.spotify.com/artist/5A08BH6Y4ogPpBz71JO0e3"
+        }
+      ],
+      "duration_ms": 157506,
+      "name": "Elska",
+      "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Krumla",
         "url": "https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd"
@@ -805,7 +773,55 @@
       "url": "https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "V\u00f6gguv\u00edsur",
+        "url": "https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l"
+      },
+      "artists": [
+        {
+          "name": "Hafd\u00eds Huld",
+          "url": "https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "\u00de\u00fa ert",
+      "url": "https://open.spotify.com/track/6xsUlQIjfduRdQt88yekZ5"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2024-09-04 09:34:09",
       "album": {
         "name": "Risa Tilkynning",
         "url": "https://open.spotify.com/album/7toTj3b3jGCcM77TqnB8Nt"
@@ -825,40 +841,20 @@
       "url": "https://open.spotify.com/track/6uZNr8aRW5XPS1cJp6zO5C"
     },
     {
-      "added_at": "2024-09-03 14:40:02",
+      "added_at": "2024-09-04 09:34:09",
       "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
       },
       "artists": [
         {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
-      "added_at": "2024-09-03 14:40:02",
-      "album": {
-        "name": "Que Me Amas",
-        "url": "https://open.spotify.com/album/2iuYZsngCnmKa3J7Eqe3YN"
-      },
-      "artists": [
-        {
-          "name": "Komataya",
-          "url": "https://open.spotify.com/artist/337EKEPAJZnhtTwIz6CIEN"
-        },
-        {
-          "name": "Sonia Barcelona",
-          "url": "https://open.spotify.com/artist/5BnpEcWQGaEu2leiUSsvjb"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Que Me Amas",
-      "url": "https://open.spotify.com/track/7h6XYv5S9ef4Dd9fpK3F7D"
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
     }
   ],
   "unique_name": "Top 50 - Iceland",

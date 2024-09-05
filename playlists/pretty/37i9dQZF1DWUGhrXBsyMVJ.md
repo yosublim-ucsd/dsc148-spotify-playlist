@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,232 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,280 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 46 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/7fWo4TRloCEOl12sMX2sNq) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Best Of Doo Wop](https://open.spotify.com/album/4MvO5fM1slzCWGzDFtklka) | 2:58 |
 | 47 | [Side By Side](https://open.spotify.com/track/7hVvAoadyCej8i3v3hm3Do) | [Kay Starr](https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i) | [The Fabulous Favorites](https://open.spotify.com/album/3KzeH6j8lksLOBLCqqSiQT) | 2:52 |
 | 48 | [Love Me Forever](https://open.spotify.com/track/7btY1s2T1ITVqQ9g9HrTTp) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Backline Volume 63](https://open.spotify.com/album/6aHbkUj1zttZbx6cPki27R) | 2:54 |
-| 49 | [Too Young](https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:25 |
-| 50 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
+| 49 | [True Love Ways](https://open.spotify.com/track/7ljPNANyoIDc7sL0PWaJlu) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:48 |
+| 50 | [Too Young](https://open.spotify.com/track/44ZAlAAn0bAEzUJgZky04H) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Ultimate Collection](https://open.spotify.com/album/0X60d06UrpWTMaLwMPd4Od) | 3:25 |
 
 Snapshot ID: `ZpO0vgAAAAAGs6TmZygI0lBXH7GFJO3i`

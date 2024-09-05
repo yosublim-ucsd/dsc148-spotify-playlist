@@ -4,7 +4,7 @@
 
 > Summer 2024 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-547 songs - 23 hr 57 min
+548 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [How Will I Know](https://open.spotify.com/track/48B3FbaoxaYKbZo5uIHoBU) | [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Danny CLLS](https://open.spotify.com/artist/6d3nH8GbnopYSzp2u5qaFG), [nøya.](https://open.spotify.com/artist/7uQIdGvojsQWSphx9QHNYD) | [How Will I Know](https://open.spotify.com/album/5UVeoCXb9GJtXl3AiLk1RV) | 2:30 | 2024-05-04 | 2024-06-23 |
 | [Hung Up](https://open.spotify.com/track/75Ea1glfmbAfMAOJ7SlnBL) | [Vogel](https://open.spotify.com/artist/3E1WT25XSYZkSdw2FLEaCB), [James Stefano](https://open.spotify.com/artist/38Hlo0i9xWEI6JCe28nlzf) | [Hung Up](https://open.spotify.com/album/4Rr5tOtjoMJbmuPwrCfv4p) | 2:28 | 2024-08-29 |  |
 | [Hurts So Good](https://open.spotify.com/track/4jF0w3rpoQki2asXn2N2Aa) | [FIXL](https://open.spotify.com/artist/0Kxf9SzJfQfE0o80i5N3Li), [M2chael](https://open.spotify.com/artist/2ciGImEu29l0qk6LCRjg5G) | [Hurts So Good](https://open.spotify.com/album/3vzt9rAvpW3OIg3JupTJ2J) | 2:05 | 2024-04-26 | 2024-07-14 |
+| [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Arash](https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG), [Daecolm](https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N) | [I Adore You \(feat\. Daecolm\)](https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00) | 3:34 | 2024-09-04 |  |
 | [I Apologize](https://open.spotify.com/track/08fzPg0SVkkyOGFLL4D5IC) | [blue my mind](https://open.spotify.com/artist/6D1wjtA3nKandBjo3erjkJ), [Adeema](https://open.spotify.com/artist/73MgVKcfdjq58j9TPNI0QY), [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2) | [I Apologize](https://open.spotify.com/album/1rQXCRCDEbcw5xhoZcuqhP) | 2:36 | 2023-10-07 | 2023-12-14 |
 | [I Could Be The One](https://open.spotify.com/track/2bjAXkuz5CGTcoIRnifM0x) | [Riesling](https://open.spotify.com/artist/3GxT7ZybNZXWlMR1eopmx9), [Raphael DeLove](https://open.spotify.com/artist/2WHKOM9mlVBFVyLloTzFYA) | [I Could Be The One](https://open.spotify.com/album/6yJSnQCK808sq0hBkweWO6) | 2:34 | 2024-04-28 | 2024-06-03 |
 | [I Don't Need You](https://open.spotify.com/track/08hBQCNt6DRzZQs8gkJEIL) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [I Don't Need You](https://open.spotify.com/album/0qC3o6ssC7IS7bEZ3fQaBn) | 3:00 | 2024-07-30 |  |

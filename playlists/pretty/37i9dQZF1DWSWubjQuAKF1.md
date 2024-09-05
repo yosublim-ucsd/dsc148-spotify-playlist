@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 
 > nasze brzmienie ✨ Cover: MAJA
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,969 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,967 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSWubjQuAKF1.md) - [plain]
 | 17 | [Karma](https://open.spotify.com/track/5hBg4Ndb5n80A24qOxvLrl) | [Jea Mira](https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3) | [Karma](https://open.spotify.com/album/0nytfi2xw7vYF04PRdEnNW) | 2:35 |
 | 18 | [brudny moncler](https://open.spotify.com/track/6WKbaflUxBW6Qara39s2Oq) | [stickxr](https://open.spotify.com/artist/5RwiBwEEW5dOXGUlEVA0LT), [luvpill](https://open.spotify.com/artist/636Sh0pcePIBMfPNjVsNO8) | [brudny moncler](https://open.spotify.com/album/1qtX5b6rMgzIBdG555F6rm) | 1:45 |
 | 19 | [Zapomniana Twarz](https://open.spotify.com/track/7HznfAgmZ7cHTK5U9DVYts) | [MAJA](https://open.spotify.com/artist/7qAu2kYGjO28g0CJERiQhM) | [Zapomniana Twarz](https://open.spotify.com/album/1XZIYu5ZTZEeWsjSP2hHC3) | 3:03 |
-| 20 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 |
+| 20 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 |
 | 21 | [Dwa Tygodnie](https://open.spotify.com/track/3JmQQfMfhJdQEeMp3T8Txd) | [Zaleś](https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5) | [Instalacja I](https://open.spotify.com/album/3HB7pBioWew0y3VogkkUVw) | 2:45 |
 | 22 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 |
 | 23 | [Pokaż Twarz \(tą naprawdę\)](https://open.spotify.com/track/3htwuWxUJq0afILxoV7lpy) | [Paula Biskup](https://open.spotify.com/artist/719plHUneGIpNF9cAWXEf2) | [Wachlarz Wad EP](https://open.spotify.com/album/62nOfhOHWgOc19RYaTWxFe) | 2:04 |

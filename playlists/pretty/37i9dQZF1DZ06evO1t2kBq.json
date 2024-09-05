@@ -1,12 +1,12 @@
 {
   "description": "This is Bad Religion. The essential tracks, all in one playlist.",
-  "num_followers": 77917,
+  "num_followers": 77920,
   "original_name": "This Is Bad Religion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAqx52gAJBTwnGJPZxGflIy",
+  "snapshot_id": "ZtZRgAAAAAAuVVcl58I7qb8gE6LdvJVi",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Recipe For Hate",
-        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
+        "name": "No Control",
+        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 122813,
-      "name": "Recipe For Hate",
-      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
+      "duration_ms": 102293,
+      "name": "Big Bang",
+      "url": "https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Control",
-        "url": "https://open.spotify.com/album/3efgo1fUo21py17Z7jGsle"
+        "name": "Recipe For Hate",
+        "url": "https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
         }
       ],
-      "duration_ms": 102293,
-      "name": "Big Bang",
-      "url": "https://open.spotify.com/track/318CznWjAUDlkYDHP2VYTQ"
+      "duration_ms": 122813,
+      "name": "Recipe For Hate",
+      "url": "https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 95697,
-      "name": "1000 More Fools",
-      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gray Race",
         "url": "https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 129026,
       "name": "A Walk",
       "url": "https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 95697,
+      "name": "1000 More Fools",
+      "url": "https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suffer",
-        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 122367,
-      "name": "Give You Nothing",
-      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Process Of Belief",
         "url": "https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 106586,
       "name": "Supersonic",
       "url": "https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Suffer",
+        "url": "https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 122367,
+      "name": "Give You Nothing",
+      "url": "https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce"
     },
     {
       "added_at": null,
@@ -699,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Against The Grain",
-        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
-      },
-      "artists": [
-        {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
-        }
-      ],
-      "duration_ms": 97640,
-      "name": "God Song",
-      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Empire Strikes First",
         "url": "https://open.spotify.com/album/42uZcfyZzRmzBnEyyGGjQE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 117652,
       "name": "Atheist Peace",
       "url": "https://open.spotify.com/track/72VqIWmCDS423j8TglfMWK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Against The Grain",
+        "url": "https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 97640,
+      "name": "God Song",
+      "url": "https://open.spotify.com/track/0EhzHcEryTCWHaL98TdzIA"
     },
     {
       "added_at": null,

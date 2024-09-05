@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5MvQUYjD2Ap5Ga6pD5YN9g">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-127 songs - 6 hr 37 min
+128 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Power Suit](https://open.spotify.com/track/09dlKExc85wtU719kpctK4) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Power Suit](https://open.spotify.com/album/58od0srS1llhodqjGlFup8) | 2:18 | 2022-05-29 | 2022-09-12 |
 | [Same Team](https://open.spotify.com/track/52MFjMbUfxVJw3N1Ue7aQR) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:54 | 2022-07-24 |  |
 | [Same Team](https://open.spotify.com/track/7knjkn9qkKM6VyekFQMYW0) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Same Team](https://open.spotify.com/album/1tyfPdNSvHpE8jgxlCfENs) | 2:54 | 2022-05-29 | 2022-07-25 |
+| [Sawed Off Shotgun](https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh) | [Chloe Lilac](https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx) | [No Hard Feelings](https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX) | 2:13 | 2024-09-04 |  |
 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 | 2022-06-05 |  |
 | [Seeing Other People](https://open.spotify.com/track/11RrEXIm6wdeblYMuhEuPH) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/1NrOk9xRbIjuo17XiPOIuq) | 3:02 | 2022-05-29 | 2024-07-11 |
 | [Seeing Other People](https://open.spotify.com/track/71N3EleSFJYbY2aYuqIJs7) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Drinkin' Songs: The Collection](https://open.spotify.com/album/043S2htmYc7XNknsnoiP7b) | 3:02 | 2024-07-10 |  |

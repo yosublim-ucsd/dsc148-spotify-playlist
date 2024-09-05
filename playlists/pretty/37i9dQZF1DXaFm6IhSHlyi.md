@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,694 likes - 150 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,700 likes - 150 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,13 +96,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 86 | [Can't Help Falling in Love](https://open.spotify.com/track/6yIHGmQLJxWAUZ1ZkENemN) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q) | [Better](https://open.spotify.com/album/2jg7PvepCK9V7MyWM7pvzr) | 2:53 |
 | 87 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
 | 88 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
-| 89 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
-| 90 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
+| 89 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
+| 90 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
 | 91 | [Something](https://open.spotify.com/track/4M2leU57ZJGJsjjXpIoh17) | [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Kyle](https://open.spotify.com/album/1vsQ04APUwAJm7OtPV9aMY) | 4:15 |
 | 92 | [白昼夢](https://open.spotify.com/track/2IYtrfX0s3Wgm3thc0jCYH) | [深根](https://open.spotify.com/artist/5wCs789dq9VkEJAdTxlFlt) | [白昼夢](https://open.spotify.com/album/3LNHJ3ZReYcdf187yIi3uE) | 3:45 |
 | 93 | [Amazing](https://open.spotify.com/track/5XBlT87VTJ7BEF0O8vS1Ep) | [Ramzi](https://open.spotify.com/artist/7sOe0BpnYTaGhBB6V6DAmo) | [Amazing](https://open.spotify.com/album/4Snw24SJhc1VkH0cOlGZvC) | 3:25 |
-| 94 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
-| 95 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
+| 94 | [Bla Bik](https://open.spotify.com/track/5AUqRIriVFNE2UJ3TWFKFs) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Bla Bik](https://open.spotify.com/album/0Yu3JYLiKy327FbZPAU5C3) | 2:55 |
+| 95 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 96 | [How We Love](https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [How We Love](https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd) | 3:50 |
 | 97 | [Между нами \- Ice Lyrical Version](https://open.spotify.com/track/5wPlVVTPeRnVjwPyX79UL9) | [Nyusha](https://open.spotify.com/artist/4GieO2JjiJOxc7m53YFjza), [Artem Kacher](https://open.spotify.com/artist/2XaHngr3ql0L2nrJC8PSwY) | [Между нами \(Ice Lyrical Version\)](https://open.spotify.com/album/0ztRJunw2tGm9inc8zaO1y) | 3:43 |
 | 98 | [17h](https://open.spotify.com/track/24SBLKhtIv7wEAlXct7mNu) | [Malket](https://open.spotify.com/artist/4SniWApo3km8jt2PVMnyEK) | [17h](https://open.spotify.com/album/0groCpwC87L58ocN0SsLh9) | 3:38 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 112 | [At My Worst \(feat\. Kehlani\)](https://open.spotify.com/track/5OdNjYTpLjuDDPCBNWonRX) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [PINK PLANET](https://open.spotify.com/album/74UvOvL6L4tZbYFtY759ZG) | 2:49 |
 | 113 | [Maula](https://open.spotify.com/track/5qyEyqpT0TBVun8W07MEmR) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Maula](https://open.spotify.com/album/3O5bFYxMItBMLrGcFVJfIu) | 3:57 |
 | 114 | [Kahit Maputi Na Ang Buhok ko \- From "The Hows Of Us"](https://open.spotify.com/track/7aW2GrNlteWTwQZxX6LNjT) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Kahit Maputi Na Ang Buhok ko \(From "The Hows Of Us"\)](https://open.spotify.com/album/0v4UIlXB8pda8iP9vUdV25) | 3:39 |
-| 115 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 |
-| 116 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
+| 115 | [Oye](https://open.spotify.com/track/09nSCeCs6eYfAIJVfye1CE) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Oye](https://open.spotify.com/album/1xwUFsb21qbGugy09vdd7O) | 2:53 |
+| 116 | [Hindi Tayo Pwede](https://open.spotify.com/track/6VqZS3Wmf53pbfDBVEYvnP) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Umaga](https://open.spotify.com/album/2m8pNsbpAvJYe7rbRpkhFF) | 5:03 |
 | 117 | [July](https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [July](https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg) | 2:36 |
 | 118 | [Cardamom Tea](https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh) | [Dania](https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx) | [Cardamom Tea](https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq) | 3:41 |
 | 119 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 |

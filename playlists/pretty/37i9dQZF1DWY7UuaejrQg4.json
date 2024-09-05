@@ -1,6 +1,6 @@
 {
   "description": "2018 highlights from the home of indie music.",
-  "num_followers": 84771,
+  "num_followers": 84792,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-03-18 13:23:17",
       "album": {
+        "name": "Say, Can You Hear",
+        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 189246,
+      "name": "Say, Can You Hear",
+      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
+    },
+    {
+      "added_at": "2024-03-18 13:23:17",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/28enuddLPEA914scE6Drvk"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx"
-    },
-    {
-      "added_at": "2024-03-18 13:23:17",
-      "album": {
-        "name": "Say, Can You Hear",
-        "url": "https://open.spotify.com/album/6rQixYcPsSviu4PfdprZgK"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 189246,
-      "name": "Say, Can You Hear",
-      "url": "https://open.spotify.com/track/7JvjjlZ5R1I1xRDsEkPuJ7"
     },
     {
       "added_at": "2024-03-18 13:23:17",

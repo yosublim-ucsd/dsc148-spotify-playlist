@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71579,
+  "num_followers": 71581,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACGShTygj6Jexg/j/m+sc1S",
+  "snapshot_id": "ZtZRgAAAAABNGNXnEs6cDwBjIWEnO+aD",
   "tracks": [
     {
       "added_at": null,
@@ -171,6 +171,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "KYGO (The Remixes)",
+        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "duration_ms": 231477,
+      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lights Up (Dimitri Vegas & Like Mike Edit)",
         "url": "https://open.spotify.com/album/1jtuFy5U2SMXOhESik9Cfp"
       },
@@ -203,34 +231,6 @@
       "duration_ms": 184320,
       "name": "Bass Down Low",
       "url": "https://open.spotify.com/track/4o6LuBwSwu4ZYIbN1Af5IS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "KYGO (The Remixes)",
-        "url": "https://open.spotify.com/album/3l8rLJyHoGvEEDmNqPKHGu"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        }
-      ],
-      "duration_ms": 231477,
-      "name": "For Life (feat. Zak Abel & Nile Rodgers) - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/7lc4S03umj2cTbFP4FWPGc"
     },
     {
       "added_at": null,
@@ -319,30 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 188284,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Carry On - Nicky Romero Remix",
         "url": "https://open.spotify.com/album/14BprFzfLNat9osGVdFmXM"
       },
@@ -363,6 +339,30 @@
       "duration_ms": 175312,
       "name": "Carry On - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/4fK2NU9UyQJV74ZGiSVYsr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 188284,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
     },
     {
       "added_at": null,
@@ -479,30 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sometimes",
-        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
-      },
-      "artists": [
-        {
-          "name": "DallasK",
-          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "XYL\u00d8",
-          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Need You To Know",
         "url": "https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 180000,
       "name": "I Need You To Know",
       "url": "https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sometimes",
+        "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
+      },
+      "artists": [
+        {
+          "name": "DallasK",
+          "url": "https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "XYL\u00d8",
+          "url": "https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/4Ld9Wvjpj1IOAIbnNy07AP"
     },
     {
       "added_at": null,
@@ -587,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/4GRth1z0snfAbeLoZXtnpk"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 162924,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk"
     },
     {
       "added_at": null,
@@ -707,6 +707,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        }
+      ],
+      "duration_ms": 216250,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dynamite (Dr Phunk Remix)",
         "url": "https://open.spotify.com/album/6AlAzaSbnPBDn3DbT8l1M0"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 212800,
       "name": "Dynamite - Dr Phunk Remix",
       "url": "https://open.spotify.com/track/4rgfKB6ujLdyuXgA9kAgcu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/0sWfMsoSshIRZYdMxzBzaZ"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Third Party",
-          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
-        }
-      ],
-      "duration_ms": 216250,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6DtrplY1gFIUigPCPLTCIO"
     },
     {
       "added_at": null,
@@ -1011,6 +1011,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Everybody Clap",
+        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Everybody Clap",
+      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
@@ -1031,26 +1071,6 @@
       "duration_ms": 198281,
       "name": "Be Somebody (feat. Kiiara)",
       "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everybody Clap",
-        "url": "https://open.spotify.com/album/1nm7alSq7eIZXsoLW7xg2r"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Everybody Clap",
-      "url": "https://open.spotify.com/track/6lMNMaq2OaE7UIQiBevauB"
     },
     {
       "added_at": null,
@@ -1119,30 +1139,6 @@
       "duration_ms": 202541,
       "name": "Let Me Feel - Radio Edit",
       "url": "https://open.spotify.com/track/5EbITZyzQ51x4y5vgTCoGw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/2iSj1nR3XEL9PVUk6CCzTv"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        },
-        {
-          "name": "Jared Lee",
-          "url": "https://open.spotify.com/artist/7cBPcPEdhDWIoFX6BDvw1b"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/4oDm90OxoKSOSoJIL9eYVc"
     }
   ],
   "unique_name": "This Is Nicky Romero",

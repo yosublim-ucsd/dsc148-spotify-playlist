@@ -4,12 +4,12 @@
 
 > This is Jacob Banks\. The essential tracks, all in one playlist.
 
-91 songs - 5 hr 11 min
+92 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aim for My Head](https://open.spotify.com/track/4QAQ3JRAFcBm0zrX3oREX4) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 4:09 | 2022-08-27 | 2022-10-27 |
-| [Aim For My Head](https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 4:11 | 2024-07-16 |  |
+| [Aim For My Head](https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 4:11 | 2024-07-16 | 2024-09-05 |
 | [Alive](https://open.spotify.com/track/74HHgWX80N5YfZpvEQOUov) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Brand New Machine \(Deluxe Version\)](https://open.spotify.com/album/2YgT8pqXE1rvVEYDxkLNrs) | 3:26 | 2021-12-28 |  |
 | [Bang](https://open.spotify.com/track/5cECPK2MfXHYncVB9wLoMR) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Bang](https://open.spotify.com/album/2nqTrXkTZV9pQgDU8Bde00) | 3:22 | 2022-08-27 | 2022-10-27 |
 | [Bang](https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3) | [Lies About The War](https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv) | 3:22 | 2022-10-26 |  |
@@ -32,7 +32,8 @@
 | [Every Age](https://open.spotify.com/track/3O0UhqrG43wI8EZb1TrEpk) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Every Age](https://open.spotify.com/album/3032DsFJNkwfossx6xG9wQ) | 2:10 | 2021-12-28 | 2024-09-03 |
 | [Feel](https://open.spotify.com/track/5mMCnnycAkho18eZmZIDwi) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Feel](https://open.spotify.com/album/1xr54fLjHQSPjOF3MF6pEm) | 3:39 | 2024-05-26 |  |
 | [Found](https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [For My Friends](https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0) | 3:15 | 2021-12-28 |  |
-| [Good Evening](https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:53 | 2024-07-14 |  |
+| [GOLD](https://open.spotify.com/track/6KYp8pZIRjDnU8CVyDghOc) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Keisha Renee](https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA) | [HOOD HYMNS](https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA) | 3:12 | 2024-09-05 |  |
+| [Good Evening](https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:53 | 2024-07-14 | 2024-09-05 |
 | [Grace](https://open.spotify.com/track/1aTsh0N4mZvzdY9Ure3eBo) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT) | 3:36 | 2022-09-19 | 2024-09-02 |
 | [Grace](https://open.spotify.com/track/2ZKHqERUbvXfcJGXLObv0X) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:36 | 2021-12-28 | 2022-09-19 |
 | [Home](https://open.spotify.com/track/1LtJ3tdHHxeV8mQ4hhFLCB) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:28 | 2021-12-28 | 2022-09-21 |
@@ -51,7 +52,7 @@
 | [Like You'll Never See Me Again](https://open.spotify.com/track/0KQ6GRR5qKY3XrdsEHU5hT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Like You'll Never See Me Again](https://open.spotify.com/album/5jXpTr504jjizPvcn9FnZP) | 3:58 | 2021-12-28 |  |
 | [Love Ain't Enough](https://open.spotify.com/track/2TH7wRbGBMH0U2noQy9cHT) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 2:52 | 2021-12-28 |  |
 | [Love Me](https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4) | [WiDE AWAKE](https://open.spotify.com/artist/7bKJsFgjE6XoO5fDhTCCqX), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Love Me](https://open.spotify.com/album/2LQHSnhq9Da9qOVG4tAFQA) | 3:15 | 2022-09-10 |  |
-| [Lovely Nanna](https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:51 | 2024-07-14 | 2024-09-03 |
+| [Lovely Nanna](https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Our Time Together: The Live Album](https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG) | 0:51 | 2024-07-14 |  |
 | [Mercy](https://open.spotify.com/track/1ohlbpNCsuqstbqsezNdUI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 3:11 | 2021-12-28 |  |
 | [Mexico](https://open.spotify.com/track/6sL9r9439ijWhZhtLHFBbm) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Village](https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9) | 3:40 | 2022-10-09 | 2022-10-11 |
 | [Monster](https://open.spotify.com/track/1u9iIukLvxQgahsrPjqcmV) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [The Paradox](https://open.spotify.com/album/4xzTcKOC2PGXyZUwLb3ik4) | 3:53 | 2021-12-28 | 2022-09-20 |

@@ -4,7 +4,7 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-129 songs - 6 hr 9 min
+132 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Devotions](https://open.spotify.com/track/6ALEIWchlJMZDG8HP1kgsg) | [Hans Heeler](https://open.spotify.com/artist/6zzRaTxXyx1wRJH5AAXkTV) | [Devotions](https://open.spotify.com/album/5i1J8hrYHz8fULZRSnjvvQ) | 2:56 | 2023-10-23 |  |
 | [Distant Cave](https://open.spotify.com/track/0f9EVsaWRAapvdRrWMt04G) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Distant Cave](https://open.spotify.com/album/61SiaXN7PIa6jhB5OAi5LL) | 2:35 | 2024-05-01 | 2024-06-30 |
 | [Dream Ripples](https://open.spotify.com/track/6yd4nQEl7aicM2nqLHoTiY) | [Lusunzi](https://open.spotify.com/artist/49HNtFHbhsCh56YvciuMVE) | [Dream Ripples](https://open.spotify.com/album/0zxCATLreAmFRKmML8p4bF) | 2:28 | 2023-10-23 | 2024-08-23 |
-| [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 |  |
+| [Drift at Sea](https://open.spotify.com/track/1YdgBkhDrwpKcxSTg179mf) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Drift at Sea](https://open.spotify.com/album/4FqYXt6nTVyn6aNJaStLjx) | 2:38 | 2024-04-01 | 2024-09-05 |
 | [Driftwood](https://open.spotify.com/track/3cVQJRndyIwxIe3BDjUKkD) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Driftwood](https://open.spotify.com/album/2z2WkFkO85mvy8NTsdLN0I) | 2:33 | 2023-10-23 |  |
 | [Embedded Waves](https://open.spotify.com/track/5M0bzHl4Xer4ZwiQs2ZPLR) | [Dormironauts](https://open.spotify.com/artist/6j73VJJ6sZVqO1CVQdLvEA) | [Embedded Waves](https://open.spotify.com/album/1BBvbqT9A4Ftkk8td956tO) | 2:42 | 2024-02-06 |  |
 | [Endless 432 Hz](https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so) | [Eoforwine](https://open.spotify.com/artist/5nyQvoStR6vrrev0Ns7TWq) | [Endless 432 Hz](https://open.spotify.com/album/6bSPIH4cKVS2eetAwvvpKM) | 3:19 | 2023-10-23 |  |
@@ -96,6 +96,7 @@
 | [Passage](https://open.spotify.com/track/4uLjLZULqyGddexHpZYiqR) | [So Lis](https://open.spotify.com/artist/79guO4ndu3WasS8qTpee8n) | [Passage](https://open.spotify.com/album/1BURie5CI42IywQp2zXJ2V) | 2:32 | 2024-08-22 |  |
 | [Pawkian](https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw) | [Hevios](https://open.spotify.com/artist/2UeG11XTCrSKxGnAK4peeL) | [Pawkian](https://open.spotify.com/album/5jHIQGoDGlXEzqXW5QPWgI) | 2:50 | 2023-10-26 |  |
 | [Pra Ae](https://open.spotify.com/track/0PZQezoyHDKnpk28LwAtfc) | [Forrest Gomez](https://open.spotify.com/artist/1PHHfV4BP0QFgommlTuc6Q) | [Pra Ae](https://open.spotify.com/album/50y0X3amN6i9ekVr9tggXU) | 2:17 | 2024-03-01 |  |
+| [precious](https://open.spotify.com/track/6X33ozLJBIbYDFnvqqmIFm) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [precious](https://open.spotify.com/album/6nmYVTu0G7AW4pf7LJkWN4) | 2:16 | 2024-09-04 |  |
 | [Pukaki Passion](https://open.spotify.com/track/0AUpYDRGRJzA4gKkYQc1c5) | [Greet The Day](https://open.spotify.com/artist/1NOoLv44Fhhctc2GYYMD7R) | [Pukaki Passion](https://open.spotify.com/album/2iXVcEH9ABo2oIZelDAbnj) | 3:09 | 2023-10-26 |  |
 | [Reaching Waves](https://open.spotify.com/track/1hIgkWfHCKetneFMw5H3Td) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Reaching Waves](https://open.spotify.com/album/6qQ71QzjNiDyncq5UzHW5s) | 2:38 | 2023-10-26 |  |
 | [Rebuild](https://open.spotify.com/track/6xYoQ0EtHqtvhgm8zlxHUa) | [Toni Fairbanks](https://open.spotify.com/artist/11M2X5cWg29k0Xg2eHLJHy) | [Rebuild](https://open.spotify.com/album/38zNoXSDR3Isa9xG2li7vY) | 4:28 | 2024-02-06 | 2024-08-01 |
@@ -109,9 +110,10 @@
 | [Silent Retreat \(Ocean View\)](https://open.spotify.com/track/6CF747KbWGVUZpaFRI9ykf) | [Clouds Come Down](https://open.spotify.com/artist/6AqxTQj5IlWTwGCwPuxZu8) | [Grace](https://open.spotify.com/album/2IzduArXZVwnuqTPuYuxrT) | 3:51 | 2023-10-23 |  |
 | [Singing Mermaids](https://open.spotify.com/track/7MnNQEoNtmddjkcM7pQsaH) | [George Memfri](https://open.spotify.com/artist/45b6UK7Bn3GavDYBkkgTxl) | [Singing Mermaids](https://open.spotify.com/album/7rwtwkooAD4zrqkvH8Mff3) | 3:06 | 2023-10-26 |  |
 | [Skye Nights](https://open.spotify.com/track/39MhIdIn0QhJoHhHEPfmQg) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Skye Nights](https://open.spotify.com/album/7DfLxJGWfggWYmti94MYD9) | 3:34 | 2023-10-23 |  |
+| [Sleepy Ocean Dreams](https://open.spotify.com/track/7tp4girj8neLRJI2xVERQD) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Sleepy Ocean Dreams](https://open.spotify.com/album/5oLpFsS31oeOnR8dGRfRAM) | 2:57 | 2024-09-04 |  |
 | [Slowing down with the Waves](https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg) | [Solar Wash](https://open.spotify.com/artist/0Yh3qH3YP5YPSK9o1emQLC) | [Slowing down with the Waves](https://open.spotify.com/album/7CDYHzDA8UwQbmqXiXZKwO) | 2:47 | 2023-11-24 | 2024-08-13 |
 | [Soft Sea Waves](https://open.spotify.com/track/16PZo5L2PS0p9WNES66TlO) | [Aristides Okoro](https://open.spotify.com/artist/3R5bzljb2FdRwr7yo3W0nm) | [Soft Sea Waves](https://open.spotify.com/album/3vMqqCHWcoOS3qysd89GiH) | 2:54 | 2023-10-26 | 2024-08-19 |
-| [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 | 2024-05-01 |  |
+| [Solar Dreams](https://open.spotify.com/track/2uZHjgoCnueq1wtMczo1SW) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [Solar Dreams](https://open.spotify.com/album/2dH0L3tzqAFXSZhtpzkxId) | 2:27 | 2024-05-01 | 2024-09-05 |
 | [Soothing Beach](https://open.spotify.com/track/2o3AzylnHnrJX7Xv1CR3kz) | [Eshe Fajah](https://open.spotify.com/artist/37SGaKsCJu5Gnoei4XlUkz) | [Soothing Beach](https://open.spotify.com/album/2VMaNw1qhP4TKIUWyGkyII) | 2:22 | 2023-10-23 |  |
 | [Soothing Waves](https://open.spotify.com/track/44pymRZAgj5Tqx1D4LNB3L) | [Menidia](https://open.spotify.com/artist/4scbgnFpSTNWZgSaxcXLS8) | [Soothing Waves](https://open.spotify.com/album/3kPehnBJFJSeIYdb2OWd5s) | 2:31 | 2023-10-23 | 2024-09-01 |
 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-10-23 |  |
@@ -123,9 +125,10 @@
 | [Taigh An Locha](https://open.spotify.com/track/4Fissa3zt57IqW1m5Db7bq) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Taigh An Locha](https://open.spotify.com/album/6f7sk0ebjs0GOJZm6WRse1) | 2:52 | 2023-10-23 |  |
 | [The Cove](https://open.spotify.com/track/7pRyNDcMVEezLVkZ1P2PEC) | [Fred Russ](https://open.spotify.com/artist/6pUnNnSTbIgI6sUe9QhF7K) | [The Cove](https://open.spotify.com/album/3g0Z1vEQD7u16dn2XTtapr) | 2:01 | 2024-06-03 |  |
 | [The Little Cabin](https://open.spotify.com/track/0MPufbIEaLbtQYtsO2MoF9) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [The Little Cabin](https://open.spotify.com/album/6nGhvw8WHa82wpJzT2djse) | 2:55 | 2024-03-01 |  |
-| [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 |  |
+| [The North Sea](https://open.spotify.com/track/5kR1w0nEgRVJi28Y3v445V) | [Tundriunas](https://open.spotify.com/artist/38zGrr9psTPxaS1oCBb63z) | [The North Sea](https://open.spotify.com/album/7CBWzwXLxmfXco1i9Kza09) | 1:54 | 2023-10-23 | 2024-09-05 |
 | [The Shining Sea](https://open.spotify.com/track/4FfGK1TKJRymLGoPXjkhHl) | [Castillo Indigo](https://open.spotify.com/artist/4XdYi3SHxZqmqrJtn1M1Yv) | [Calming Waves](https://open.spotify.com/album/7pcuD2Qm9SsNy73XXuQCvf) | 3:10 | 2023-10-26 | 2024-06-20 |
 | [The Tower of Embellion](https://open.spotify.com/track/5Fote1YAJdFBepEnDLU9lT) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [The Tower of Embellion](https://open.spotify.com/album/5hFzH7DJZJGcPg2jC0WuS8) | 3:08 | 2023-10-23 |  |
+| [Trearddur Bay](https://open.spotify.com/track/0QLK0YU0s1NEdwdguhih0p) | [Lawrence Libert](https://open.spotify.com/artist/4bdis3Cw3TaQPyW8pps6vE), [Little Symphony](https://open.spotify.com/artist/4SCWiQbJCMTHK737aNUqBJ) | [A Place To Call Home](https://open.spotify.com/album/6CDFfPGj11bEgFeQ8CMUPg) | 3:35 | 2024-09-04 |  |
 | [Träumend \(Sound Bath\)](https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo) | [Kaspar Hahn](https://open.spotify.com/artist/3P4ASeb4sRWkWtOSDa36GX) | [Träumend \(Sound Bath\)](https://open.spotify.com/album/7tDKtuP1BNoPQdwSDWWNKS) | 2:17 | 2023-11-24 |  |
 | [Vakandi \(Sound Bath\)](https://open.spotify.com/track/1cipDwJ3Ck65zMWqpaC1Zn) | [Toninn](https://open.spotify.com/artist/5K7zhN8cue1f54j0vVFsZR) | [Vakandi \(Sound Bath\)](https://open.spotify.com/album/0PppRLpAnKS1i8o9Ie8GzV) | 2:30 | 2023-10-23 |  |
 | [Venus Beach](https://open.spotify.com/track/5YjawZBUOTnv8TZHC3ybTj) | [Crystallinum](https://open.spotify.com/artist/61JNuXysnsPfOH5HoqzBoO) | [Venus](https://open.spotify.com/album/7293b3ELIM6qa5akPQZQgQ) | 2:43 | 2023-11-24 |  |

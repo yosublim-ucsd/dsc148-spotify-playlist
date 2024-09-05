@@ -1,6 +1,6 @@
 {
   "description": "French scene makes some noise!",
-  "num_followers": 38280,
+  "num_followers": 38289,
   "original_name": "French Noise",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Paradis",
-        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
-      },
-      "artists": [
-        {
-          "name": "MDNS",
-          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
-        }
-      ],
-      "duration_ms": 141238,
-      "name": "Paradis",
-      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Ineffable",
         "url": "https://open.spotify.com/album/5ffY3OhPNukgdhw6n13tXz"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 254687,
       "name": "The Password",
       "url": "https://open.spotify.com/track/5lXrakjlZisavgHGQlBEGx"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Houses Are Built The Same",
+        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
+      },
+      "artists": [
+        {
+          "name": "CATHEDRALE",
+          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
+        }
+      ],
+      "duration_ms": 190508,
+      "name": "Gold Rush",
+      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
+        "name": "Paradis",
+        "url": "https://open.spotify.com/album/3H70ykleQyOBLTyXlU4Gy9"
+      },
+      "artists": [
+        {
+          "name": "MDNS",
+          "url": "https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA"
+        }
+      ],
+      "duration_ms": 141238,
+      "name": "Paradis",
+      "url": "https://open.spotify.com/track/53CZ1AmFTNPQnLrzGAlw2j"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
         "name": "Staring At The Sun",
         "url": "https://open.spotify.com/album/7wjQNoKbHVtm9QGXfqo4Tg"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 229429,
       "name": "Like gods we feast",
       "url": "https://open.spotify.com/track/4JEsjww8YIm3P9nZ1094m8"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Houses Are Built The Same",
-        "url": "https://open.spotify.com/album/4KeFsz1xKIYgztkHQbyrVh"
-      },
-      "artists": [
-        {
-          "name": "CATHEDRALE",
-          "url": "https://open.spotify.com/artist/1OYppHNOuAIQ69SvpKPR5F"
-        }
-      ],
-      "duration_ms": 190508,
-      "name": "Gold Rush",
-      "url": "https://open.spotify.com/track/2BbJnbjHspWPoNQxUktXam"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Linger Over, Linger On",
-        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
-      },
-      "artists": [
-        {
-          "name": "The Great Divide",
-          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Anyone, Evermore",
-      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Nothing Belongs to Anything",
         "url": "https://open.spotify.com/album/1hCtl92M5FJH8zmgRT1fN3"
       },
@@ -931,22 +915,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "HORIZON",
-        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
-      },
-      "artists": [
-        {
-          "name": "The Inspector Cluzo",
-          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "HORIZON",
-      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Fall Away",
         "url": "https://open.spotify.com/album/5WbqS655AbA289SoaS4x7Q"
       },
@@ -959,6 +927,38 @@
       "duration_ms": 182008,
       "name": "Fall Away",
       "url": "https://open.spotify.com/track/1CEZOLVOKSAQIxbTDT4g8m"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Linger Over, Linger On",
+        "url": "https://open.spotify.com/album/6TKDj8xVjtCy1ZUyUgSoLX"
+      },
+      "artists": [
+        {
+          "name": "The Great Divide",
+          "url": "https://open.spotify.com/artist/1KDvR3odlKqAOjqT2Rp3Dn"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Anyone, Evermore",
+      "url": "https://open.spotify.com/track/6binrNkX9MO9nyFNt2pH1n"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "HORIZON",
+        "url": "https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU"
+      },
+      "artists": [
+        {
+          "name": "The Inspector Cluzo",
+          "url": "https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "HORIZON",
+      "url": "https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Too Late",
-        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
-      },
-      "artists": [
-        {
-          "name": "Shady Fat Kats",
-          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
-        }
-      ],
-      "duration_ms": 216047,
-      "name": "Too Late",
-      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "The West Is the Best",
         "url": "https://open.spotify.com/album/0VCp3ltRTuGJAfZfikMkDA"
       },
@@ -1043,50 +1027,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Can't Wait to Be Fine",
-        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+        "name": "Centaur Desire",
+        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
       },
       "artists": [
         {
-          "name": "We Hate You Please Die",
-          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+          "name": "J.C. Sat\u00e0n",
+          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
         }
       ],
-      "duration_ms": 358080,
-      "name": "Can't Wait to Be Fine",
-      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+      "duration_ms": 209426,
+      "name": "No Brain No Shame",
+      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
     },
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Postmodern Blue",
-        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
+        "name": "Too Late",
+        "url": "https://open.spotify.com/album/4vxSmhPj7cz8B1Pqu1Ygdy"
       },
       "artists": [
         {
-          "name": "Trainfantome",
-          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
+          "name": "Shady Fat Kats",
+          "url": "https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD"
         }
       ],
-      "duration_ms": 170393,
-      "name": "Vulgar",
-      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Toy",
-        "url": "https://open.spotify.com/album/3Kr7lm2ciyU7bJxUWgaKRl"
-      },
-      "artists": [
-        {
-          "name": "Pythies",
-          "url": "https://open.spotify.com/artist/6xMjSwnzwclo7mLrB3Yqk3"
-        }
-      ],
-      "duration_ms": 216995,
-      "name": "Toy",
-      "url": "https://open.spotify.com/track/204jDxDMw4u8NWQm7jMNnD"
+      "duration_ms": 216047,
+      "name": "Too Late",
+      "url": "https://open.spotify.com/track/0nHJq23KJ6Fb34tHeC3qtX"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1107,18 +1075,50 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Centaur Desire",
-        "url": "https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np"
+        "name": "Postmodern Blue",
+        "url": "https://open.spotify.com/album/4ytKLcwskenzEAA3Ae3Kta"
       },
       "artists": [
         {
-          "name": "J.C. Sat\u00e0n",
-          "url": "https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW"
+          "name": "Trainfantome",
+          "url": "https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp"
         }
       ],
-      "duration_ms": 209426,
-      "name": "No Brain No Shame",
-      "url": "https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy"
+      "duration_ms": 170393,
+      "name": "Vulgar",
+      "url": "https://open.spotify.com/track/7cOZA9hhLkBValr2rhaH61"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Can't Wait to Be Fine",
+        "url": "https://open.spotify.com/album/2MSwOyJWgQm0gnb4ofdNzD"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "duration_ms": 358080,
+      "name": "Can't Wait to Be Fine",
+      "url": "https://open.spotify.com/track/3ceHHdlzB4tgJXCviVKTBc"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Toy",
+        "url": "https://open.spotify.com/album/3Kr7lm2ciyU7bJxUWgaKRl"
+      },
+      "artists": [
+        {
+          "name": "Pythies",
+          "url": "https://open.spotify.com/artist/6xMjSwnzwclo7mLrB3Yqk3"
+        }
+      ],
+      "duration_ms": 216995,
+      "name": "Toy",
+      "url": "https://open.spotify.com/track/204jDxDMw4u8NWQm7jMNnD"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Only Weird People Can Fly",
-        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
-      },
-      "artists": [
-        {
-          "name": "Dust On Earth",
-          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
-        }
-      ],
-      "duration_ms": 258372,
-      "name": "Only Weird People Can Fly",
-      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Straight-Jacket",
         "url": "https://open.spotify.com/album/1I8YjgUFSqw2N85hljqRMc"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Sisyphus",
-        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
+        "name": "Only Weird People Can Fly",
+        "url": "https://open.spotify.com/album/2srLsSJHxis4kIt99ugrUV"
       },
       "artists": [
         {
-          "name": "7 Weeks",
-          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
+          "name": "Dust On Earth",
+          "url": "https://open.spotify.com/artist/2HbxbDzJQeFyeHgsH0Mou6"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
+      "duration_ms": 258372,
+      "name": "Only Weird People Can Fly",
+      "url": "https://open.spotify.com/track/75zhMxYeZoLRp2qrKiz5sQ"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1231,6 +1215,22 @@
       "duration_ms": 192815,
       "name": "Humans",
       "url": "https://open.spotify.com/track/5rcE08QNXMI9CUsbnpWf7n"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Sisyphus",
+        "url": "https://open.spotify.com/album/1zZ0wIAF8iYeiLGqNxqVOI"
+      },
+      "artists": [
+        {
+          "name": "7 Weeks",
+          "url": "https://open.spotify.com/artist/3va5uyDVlsWxIq7oxb3ofw"
+        }
+      ],
+      "duration_ms": 233880,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1I2u7A2VycGzm1YUU1Oe36"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1263,6 +1263,26 @@
       "duration_ms": 226670,
       "name": "Inner Life",
       "url": "https://open.spotify.com/track/7zClaF5pABRQTns4NaKZYA"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Future Me",
+        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
+      },
+      "artists": [
+        {
+          "name": "Do It Later",
+          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
+        },
+        {
+          "name": "Totorro",
+          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+        }
+      ],
+      "duration_ms": 187299,
+      "name": "Didn\u2019t Know",
+      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1315,38 +1335,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Future Me",
-        "url": "https://open.spotify.com/album/5OaYsU9Y4xwSOYZ8N1TntQ"
+        "name": "Your Great Deception",
+        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
       },
       "artists": [
         {
-          "name": "Do It Later",
-          "url": "https://open.spotify.com/artist/4ghzsBC2zItzqKvULx6CGF"
-        },
-        {
-          "name": "Totorro",
-          "url": "https://open.spotify.com/artist/470SGea4tIbGLTpKcYJfLx"
+          "name": "Dirty Black Summer",
+          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
         }
       ],
-      "duration_ms": 187299,
-      "name": "Didn\u2019t Know",
-      "url": "https://open.spotify.com/track/15nBPDVVQr8F7RXFicG5KT"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
-        "name": "Nasty Habits",
-        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
-      },
-      "artists": [
-        {
-          "name": "Komodor",
-          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
-        }
-      ],
-      "duration_ms": 238541,
-      "name": "Nasty Habits",
-      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
+      "duration_ms": 322013,
+      "name": "Your Great Deception",
+      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1367,18 +1367,18 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Your Great Deception",
-        "url": "https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3"
+        "name": "Nasty Habits",
+        "url": "https://open.spotify.com/album/6J1ziCqilUwlShHoRpy2hX"
       },
       "artists": [
         {
-          "name": "Dirty Black Summer",
-          "url": "https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq"
+          "name": "Komodor",
+          "url": "https://open.spotify.com/artist/4IsZphrl7x0aGLGQDYKAmt"
         }
       ],
-      "duration_ms": 322013,
-      "name": "Your Great Deception",
-      "url": "https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm"
+      "duration_ms": 238541,
+      "name": "Nasty Habits",
+      "url": "https://open.spotify.com/track/2YBh9d0765HJaWVyScvNrE"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Electrify Me",
-        "url": "https://open.spotify.com/album/1PDzPuWjVMNvzBS6bKlvPu"
-      },
-      "artists": [
-        {
-          "name": "Bad Situation",
-          "url": "https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG"
-        }
-      ],
-      "duration_ms": 192016,
-      "name": "The Underdog",
-      "url": "https://open.spotify.com/track/2dpDSs9ydfRgbs2NYOogXb"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Parasite",
         "url": "https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 158266,
       "name": "Parasite",
       "url": "https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Electrify Me",
+        "url": "https://open.spotify.com/album/1PDzPuWjVMNvzBS6bKlvPu"
+      },
+      "artists": [
+        {
+          "name": "Bad Situation",
+          "url": "https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG"
+        }
+      ],
+      "duration_ms": 192016,
+      "name": "The Underdog",
+      "url": "https://open.spotify.com/track/2dpDSs9ydfRgbs2NYOogXb"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "I Need a Blue",
-        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
-      },
-      "artists": [
-        {
-          "name": "G L I T C H",
-          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
-        }
-      ],
-      "duration_ms": 224206,
-      "name": "I Need a Blue",
-      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "Day After Day",
         "url": "https://open.spotify.com/album/5O3oHcfxZjMpXFD3lD67EJ"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 211800,
       "name": "Calendar",
       "url": "https://open.spotify.com/track/57pGtVBCp7ZJYav8EppSNH"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "I Need a Blue",
+        "url": "https://open.spotify.com/album/5cQBjAgYh9tf6jaqFmbIUY"
+      },
+      "artists": [
+        {
+          "name": "G L I T C H",
+          "url": "https://open.spotify.com/artist/2PoDbctAc8F4fvSYw3F9MG"
+        }
+      ],
+      "duration_ms": 224206,
+      "name": "I Need a Blue",
+      "url": "https://open.spotify.com/track/4994q3UseinN3Fac9p3v95"
     },
     {
       "added_at": "2024-07-15 21:15:50",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Murderology",
-        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
-      },
-      "artists": [
-        {
-          "name": "Yard of Blondes",
-          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
-        }
-      ],
-      "duration_ms": 263040,
-      "name": "Murderology",
-      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
-    },
-    {
-      "added_at": "2024-07-15 21:15:50",
-      "album": {
         "name": "The Lair of Gods",
         "url": "https://open.spotify.com/album/1snWQPp1HIT5ixB77kRcpf"
       },
@@ -1607,18 +1591,34 @@
     {
       "added_at": "2024-07-15 21:15:50",
       "album": {
-        "name": "Liminal Status",
-        "url": "https://open.spotify.com/album/4pyKwnieAfUEzKdhLw1Ahp"
+        "name": "Homes & Galaxies",
+        "url": "https://open.spotify.com/album/0TvqbBd23TOC2gSxnYbgV3"
       },
       "artists": [
         {
-          "name": "Watertank",
-          "url": "https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC"
+          "name": "Fl\u00e8che",
+          "url": "https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Liminal Status",
-      "url": "https://open.spotify.com/track/0wqxvfCxfga9DBOcKYPWuY"
+      "duration_ms": 263100,
+      "name": "Once You Taste Blood",
+      "url": "https://open.spotify.com/track/52npcX3OyVS3Gg5UAYtpbO"
+    },
+    {
+      "added_at": "2024-07-15 21:15:50",
+      "album": {
+        "name": "Murderology",
+        "url": "https://open.spotify.com/album/4APpUafKlxYejTiKM4Zvti"
+      },
+      "artists": [
+        {
+          "name": "Yard of Blondes",
+          "url": "https://open.spotify.com/artist/3rpeGp3AdGW8w8P3K04hcg"
+        }
+      ],
+      "duration_ms": 263040,
+      "name": "Murderology",
+      "url": "https://open.spotify.com/track/5ABNXl7Dlqa1y0gl0M3Brn"
     }
   ],
   "unique_name": "French Noise",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,671 likes - 288 songs - 17 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,672 likes - 288 songs - 17 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 95 | [The Resistance](https://open.spotify.com/track/0llA0pYA6GpGk7fTjew0wO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:45 |
 | 96 | [All Things Go](https://open.spotify.com/track/1lW62Z2BOtL2xl3PR68AEk) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [The Pinkprint](https://open.spotify.com/album/1IOHcoY4gPRECxpIhVGmuq) | 4:53 |
 | 97 | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/track/6wBpgsERq6XpJfIjWXOrnn) | [OB OBrien](https://open.spotify.com/artist/4thGcsymOK5oc43gJVtAqZ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Schemin Up \(feat\. Drake and P\. Reign\)](https://open.spotify.com/album/4dPN67UqCc7dcCly1UeNKQ) | 5:30 |
-| 98 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
-| 99 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
+| 98 | [All The Parties \(feat\. Chief Keef\)](https://open.spotify.com/track/1PIgY9ybyFT9uWLM5POYGY) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 3:38 |
+| 99 | [Fireworks](https://open.spotify.com/track/73tgFzBug5Ifk1Retdtwk7) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:13 |
 | 100 | [Unforgettable](https://open.spotify.com/track/5LZ0ZCRXrklIpnzn4Tcyde) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Jeezy](https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 3:33 |
 | 101 | [B.B\. King Freestyle \(with Drake\)](https://open.spotify.com/track/6EW1fwOk4JHmTZKINZsyjB) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [B.B\. King Freestyle](https://open.spotify.com/album/4Epq84TTM5hHH5jI78R271) | 3:42 |
 | 102 | [PROUD](https://open.spotify.com/track/365wwIjijQdlRJEjUWTidq) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [The Play Don’t Care Who Makes It](https://open.spotify.com/album/5C3uZS83u9pXWFEpl47hWb) | 3:54 |
@@ -159,8 +159,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 149 | [Get Like](https://open.spotify.com/track/466nTkRePUO44ptVwsvGYJ) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [SweetSexySavage \(Deluxe\)](https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC) | 2:50 |
 | 150 | [Money Conversations](https://open.spotify.com/track/6GYWvz3bRmKXjZPiOpTt1Y) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 3:11 |
 | 151 | [Dope Game](https://open.spotify.com/track/5QHiWzDN9z3qkLyvM1w7JK) | [Baka Not Nice](https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU) | [4Milli](https://open.spotify.com/album/28vYZP2mGD54CUoY0lPUr2) | 3:39 |
-| 152 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
-| 153 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 152 | [Blame On Me](https://open.spotify.com/track/76hpb4zuwh6bsBZCDfVYJy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/0zKLHvP1TLKdDLSg4FOihB) | 4:01 |
+| 153 | [The Bloodiest](https://open.spotify.com/track/3eEMeaaT3otIimFCcYcS7i) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Redemption](https://open.spotify.com/album/4IAMLhL37kMrpByavj25Ne) | 3:03 |
 | 154 | [See No Evil](https://open.spotify.com/track/0ndpJtfKGuGM3pyNwnwSUx) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 4:44 |
 | 155 | [Never Satisfied \(feat\. Drake\)](https://open.spotify.com/track/11eVz92Nm7b2CTgA8OJVwp) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 1:55 |
 | 156 | [Feel A Way \(feat\. Kanye West & Brent Faiyaz\)](https://open.spotify.com/track/1GxoFQZxD7tFhQFUD9F0dD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 3:33 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 287 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 288 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbbL/gAAAAAOyjNgUFBH9bJ/Sd2nyqd8`
+Snapshot ID: `AbbRngAAAAAU6vHMn9X1W9IBV3J3vn9u`

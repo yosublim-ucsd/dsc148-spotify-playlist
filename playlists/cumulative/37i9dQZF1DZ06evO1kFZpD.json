@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "While You Were Sleeping",
+        "url": "https://open.spotify.com/album/6tmcv5Ex2UwhFvNXScwD44"
+      },
+      "artists": [
+        {
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214432,
+      "name": "While You Were Sleeping",
+      "url": "https://open.spotify.com/track/7kWOuJFd1UenmFrr9z64H9"
+    },
+    {
+      "album": {
         "name": "You Give Me That",
         "url": "https://open.spotify.com/album/53bQue2uZu3yPVYBcx03GQ"
       },

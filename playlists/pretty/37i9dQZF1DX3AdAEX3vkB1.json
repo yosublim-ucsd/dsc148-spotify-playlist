@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 265603,
+  "num_followers": 265696,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 176426,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 160306,
       "name": "Dancing In The Street - Single Version",
       "url": "https://open.spotify.com/track/32k7kVzz4SpmI7Q5xI856l"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/5xJJSAj0WIYZ5fW77IfORk"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 176426,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7cKeMrlyGpfOshlldqoILo"
     },
     {
       "added_at": "2022-06-16 22:02:00",

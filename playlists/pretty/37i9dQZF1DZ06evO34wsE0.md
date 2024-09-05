@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 
 > This is Shania Twain\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,510 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,526 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 16 | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/track/2bV4NwncWMnVvcWyU2yxwB) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [hole in the bottle \(with Shania Twain\)](https://open.spotify.com/album/16by1M7adOE6AeoyLzQZVc) | 2:36 |
 | 17 | [Forever And For Always](https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 4:43 |
 | 18 | [You've Got A Way](https://open.spotify.com/track/1OuEcnthR9ePQHtZqNcZSf) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:31 |
-| 19 | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4) | 3:57 |
-| 20 | [Up!](https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 2:52 |
+| 19 | [Up!](https://open.spotify.com/track/4dIrj82d70x7vGmUxTyOYC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 2:52 |
+| 20 | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Da Stanotte in Poi \(From This Moment On\)](https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4) | 3:57 |
 | 21 | [\(If You're Not In It For Love\) I'm Outta Here!](https://open.spotify.com/track/6Lst3nF4McKOTLSLuTvLhw) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [The Woman In Me](https://open.spotify.com/album/3wDeIA9tJU0uNlsroUdcYK) | 4:30 |
 | 22 | [Don't Be Stupid \(You Know I Love You\)](https://open.spotify.com/track/6qHg6trMgxUz7TuAgc4gnC) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(Diamond Edition / Super Deluxe\)](https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV) | 3:34 |
 | 23 | [Endless Love](https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:19 |
-| 24 | [Man! I Feel Like A Woman! \- Real Hypha Remix](https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Real Hypha](https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC) | [Man! I Feel Like A Woman! \(Real Hypha Remix\)](https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI) | 2:56 |
-| 25 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Shania: The Queen Of Country Pop](https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J) | 3:32 |
+| 24 | [Party For Two \- Country Version With Intro](https://open.spotify.com/track/2jGUPNSCOkqiX6yRnAoO8w) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Shania: The Queen Of Country Pop](https://open.spotify.com/album/0Lyu4QtTnVUC7vVycP5l4J) | 3:32 |
+| 25 | [Man! I Feel Like A Woman! \- Real Hypha Remix](https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL), [Real Hypha](https://open.spotify.com/artist/4nuduAqGulo8ekf0ufrpIC) | [Man! I Feel Like A Woman! \(Real Hypha Remix\)](https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI) | 2:56 |
 | 26 | [Dance With The One That Brought You](https://open.spotify.com/track/0XIsMMHjiqpXi4BUV1695T) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Shania Twain](https://open.spotify.com/album/7o4ktUz3Z0Ky0L06avgkYz) | 2:24 |
 | 27 | [Ka\-Ching!](https://open.spotify.com/track/6gFKCSEfGAb8kmXumYkpmh) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Red and Green Versions\)](https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm) | 3:20 |
 | 28 | [When You Kiss Me \- Red Version](https://open.spotify.com/track/7b8mI7YNGUfckTtyzoe1Zm) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up!](https://open.spotify.com/album/0dXnuPLFLPT9fnj6vIUa1G) | 4:08 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO34wsE0.md) - [plain]
 | 50 | [Pretty Liar](https://open.spotify.com/track/1mm9WqeXWMnP6mIc0uYqS4) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Queen Of Me](https://open.spotify.com/album/5zDqo50KERwnv3vlFE4y99) | 2:39 |
 | 51 | [Not Just A Girl](https://open.spotify.com/track/7DF7d3MvTaEaktGUFc6s3d) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Not Just A Girl \(The Highlights\)](https://open.spotify.com/album/1Gqoca4RxsEZCIAgx6PsTS) | 3:11 |
 
-Snapshot ID: `ZtUAAAAAAACUpw/S4sp4vIuk4wzDOlOb`
+Snapshot ID: `ZtZRgAAAAACBn6mm/BEFKup+CJW9kOgG`

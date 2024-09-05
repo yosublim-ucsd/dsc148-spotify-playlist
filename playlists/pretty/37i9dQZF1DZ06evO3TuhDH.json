@@ -1,12 +1,12 @@
 {
-  "description": "This Is Coi Leray. Los temas esenciales, todos en una lista.",
-  "num_followers": 16818,
+  "description": "This is Coi Leray. The essential tracks, all in one playlist.",
+  "num_followers": 16817,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADtVyxaV13d7ZO0/QoJBMbV",
+  "snapshot_id": "ZtZRgAAAAADNq/md8YerwMkHYcMHywU3",
   "tracks": [
     {
       "added_at": null,
@@ -407,26 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tomboy (feat. Coi Leray)",
-        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
-      },
-      "artists": [
-        {
-          "name": "Destiny Rogers",
-          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 190355,
-      "name": "Tomboy (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
       },
@@ -447,18 +427,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lemon Cars",
-        "url": "https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6"
+        "name": "Tomboy (feat. Coi Leray)",
+        "url": "https://open.spotify.com/album/6kTShcld6IzMqXiciWTz7L"
       },
       "artists": [
+        {
+          "name": "Destiny Rogers",
+          "url": "https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu"
+        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 173493,
-      "name": "Lemon Cars",
-      "url": "https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8"
+      "duration_ms": 190355,
+      "name": "Tomboy (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/2iRSvggpclrZU49PH3tqtg"
     },
     {
       "added_at": null,
@@ -483,26 +467,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Die 4 Respect",
-        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+        "name": "Lemon Cars",
+        "url": "https://open.spotify.com/album/1wZO0rgyD5zGCmzzrXkpo6"
       },
       "artists": [
-        {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
         {
           "name": "Coi Leray",
           "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 245621,
-      "name": "Impatient (feat. Coi Leray)",
-      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
+      "duration_ms": 173493,
+      "name": "Lemon Cars",
+      "url": "https://open.spotify.com/track/4kf5AnIriTBgyLdSykT5s8"
     },
     {
       "added_at": null,
@@ -523,6 +499,30 @@
       "duration_ms": 175648,
       "name": "Nonsense (with Coi Leray) - Remix",
       "url": "https://open.spotify.com/track/0DD4vkP9qDiej99eUCG4jC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Die 4 Respect",
+        "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
+      },
+      "artists": [
+        {
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 245621,
+      "name": "Impatient (feat. Coi Leray)",
+      "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Anxiety",
+        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Anxiety",
+      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "COI",
         "url": "https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 150413,
       "name": "No Angels (with Lola Brooke)",
       "url": "https://open.spotify.com/track/41s7nEKyANNfGaxRyMyFGI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Anxiety",
-        "url": "https://open.spotify.com/album/0qpJG5o7TzjB6x5kfKMLa7"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Anxiety",
-      "url": "https://open.spotify.com/track/7ewmy2XLAnCAwUsYw4MiUl"
     },
     {
       "added_at": null,
@@ -923,22 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Run It Up",
-        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        }
-      ],
-      "duration_ms": 168013,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lemon Cars",
         "url": "https://open.spotify.com/album/4fpd2D289N4Ma0jxG3zzSm"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 177230,
       "name": "We Time",
       "url": "https://open.spotify.com/track/1LR9G0wTclqlagmp8Q3RHN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Run It Up",
+        "url": "https://open.spotify.com/album/0sTMa5g20KXJCg3t0Z0jay"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        }
+      ],
+      "duration_ms": 168013,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4mlOPLhMCZ6muAwQbQRvgx"
     },
     {
       "added_at": null,

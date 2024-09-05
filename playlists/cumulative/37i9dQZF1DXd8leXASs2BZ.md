@@ -4,7 +4,7 @@
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: 夜猫族
 
-622 songs - 1 day 4 hr 42 min
+623 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [どうでもいいかもね](https://open.spotify.com/track/5WkrqCGgSmTKGo7NYim4yo) | [J.Peter](https://open.spotify.com/artist/0bARf1n7M10zgVaZiyLqCg) | [どうでもいいかもね](https://open.spotify.com/album/5sFsKUsXoDbI9BhUJ6VNvW) | 1:58 | 2024-04-16 | 2024-08-28 |
 | [はじまり](https://open.spotify.com/track/7rwUoZOOd2BdXKLVVLivuq) | [さよならGOODVIBRATION](https://open.spotify.com/artist/1sq0xWw6UczynlAaJrsiIy) | [はじまり](https://open.spotify.com/album/2O2y83KzYQ5haSzJ5WL6MD) | 2:10 | 2024-04-16 | 2024-05-01 |
 | [ぶっ生き返す](https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS) | [夜猫族](https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ), [XakiMichele](https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl), [tip jam](https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe), [Tade Dust](https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9) | [ぶっ生き返す](https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV) | 2:49 | 2024-04-24 | 2024-09-04 |
+| [やってやるよ](https://open.spotify.com/track/0QsbcNdfmh2Njvqhbfkobx) | [MAX!!!](https://open.spotify.com/artist/1MgqejqU5aSwZkhkhPkefn), [シラフ](https://open.spotify.com/artist/4NTgCBuUgWbeOPuUwj2I5V) | [やってやるよ](https://open.spotify.com/album/1QJDb9wnBcQczE34vqoJQZ) | 4:05 | 2024-09-04 |  |
 | [イイ感じ!](https://open.spotify.com/track/5YjLKMHjH9h5bdMwlAIINF) | [agul](https://open.spotify.com/artist/6hAkSs8eKFhn94XnqSOQRu) | [イイ感じ!](https://open.spotify.com/album/0egJG7iKcFwumk1V5aJYCO) | 1:37 | 2024-07-16 |  |
 | [ウシロスガタ](https://open.spotify.com/track/26zn2HrCbGk58d7f2eZmR9) | [Staxx T](https://open.spotify.com/artist/1GRuzVYie982wZplKsEH71) | [ウシロスガタ](https://open.spotify.com/album/3iZWXIxQDNZYcC05TUdCdg) | 3:15 | 2024-06-11 | 2024-07-31 |
 | [オレたちが気になる](https://open.spotify.com/track/1QU79bN3pSRH4RIs6tC3W5) | [Young zetton](https://open.spotify.com/artist/5goD1jyNCWx6AnsSwsvzhS), [炒炒](https://open.spotify.com/artist/7ACr4V99K9o7WZrPIFlys0), [D\-KARAT](https://open.spotify.com/artist/2RiJGoRLhaoP2CG6AM1ViK) | [Zee PACK vol.2](https://open.spotify.com/album/18kC3R78bY1I0LpsvWTvMR) | 3:23 | 2024-04-16 | 2024-05-29 |

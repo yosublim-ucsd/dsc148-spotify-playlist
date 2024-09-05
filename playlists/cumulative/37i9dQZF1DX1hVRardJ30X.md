@@ -4,7 +4,7 @@
 
 > New music by Christian Nodal & Estevie, Becky G,  Anuel AA, DannyLux & Jasiel Nuñez, Sebastian Yatra and more! Updates every Friday.
 
-7,777 songs - 16 day 22 hr 53 min
+7,778 songs - 16 day 22 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -6623,6 +6623,7 @@
 | [Sugar Daddy](https://open.spotify.com/track/6Y5Qro4ZFtXlseOz9gV5VV) | [Soy Emilia](https://open.spotify.com/artist/09MCzRiOuz48BY0imXgFFM) | [Sugar Daddy](https://open.spotify.com/album/33NBwS2DrC7W0CO4lS8C9P) | 3:24 | 2022-04-22 | 2022-04-29 |
 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 | 2023-06-16 | 2023-06-24 |
 | [Sugar Mami \(feat\. Gini Santana\)](https://open.spotify.com/track/5Cipoy9vB4xDdCGnoMpJQH) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Gini Santana](https://open.spotify.com/artist/1KBsQLZwxvQ6H5lh7zjeji) | [Sin Pensar](https://open.spotify.com/album/6UAGXIPMrWgPcqWuT0iwra) | 2:07 | 2022-04-29 | 2022-05-07 |
+| [SugarDaddy](https://open.spotify.com/track/2smpQKz9cYXAgNPez0lqZW) | [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [Soubad, Vol .1](https://open.spotify.com/album/54Vo3eSQBgLsxImMPejHoq) | 2:22 | 2024-09-04 |  |
 | [Suge Knight](https://open.spotify.com/track/6izcmLT9QWSov9DSp2H3eL) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Suge Knight](https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj) | 8:18 | 2022-11-25 | 2022-12-03 |
 | [SUICIDA](https://open.spotify.com/track/3ZUNf99e2NMY4hdAywzW2R) | [Gotay "El Autentiko"](https://open.spotify.com/artist/6ieK9Ddas29reReO60on3o), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [SUICIDA](https://open.spotify.com/album/2DMXezhzleiRRtvZd09nJG) | 3:17 | 2024-07-26 | 2024-08-03 |
 | [SUITE PRESIDENCIAL](https://open.spotify.com/track/44laHIYcGhxx0IEySoExVj) | [KEVIN ROLDAN](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO), [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [Ruso Beats](https://open.spotify.com/artist/046MM5OvGEg7muuuoFNaXe) | [SUITE PRESIDENCIAL](https://open.spotify.com/album/6L24CgGwx51OiBnhAIDfhI) | 4:20 | 2023-11-17 | 2023-11-25 |

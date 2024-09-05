@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 
 ### [This Is Scorpions](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1cSzqU)
 
-> This is Scorpions\. The essential tracks, all in one playlist.
+> This Is Scorpions\. Les titres incontournables, réunis dans une seule et même playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,208 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,265 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1cSzqU.md) - [plain]
 | 49 | [Raised on Rock](https://open.spotify.com/track/21wukp6132v5Y165Lxg17H) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Sting in the Tail](https://open.spotify.com/album/3n2WzsBMJtfoV1kYIQZOLj) | 3:58 |
 | 50 | [Coming Home \(2015 \- Remaster\)](https://open.spotify.com/track/0fHqE1z5xYm8htOWED8QA2) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/5eiWWiHKC7Elfml59PORlF) | 4:59 |
 
-Snapshot ID: `ZtUAAAAAAABak1KFajvBU0tdMSplMIYm`
+Snapshot ID: `ZtZRgAAAAACXNV254JZi4xf1dBGMGrds`

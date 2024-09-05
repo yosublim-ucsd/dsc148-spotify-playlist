@@ -1,12 +1,12 @@
 {
   "description": "This is Howlin' Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 27824,
+  "num_followers": 27834,
   "original_name": "This Is Howlin' Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADFXJxZd6nJVy5JSIlG7l5p",
+  "snapshot_id": "ZtZRgAAAAAAYqXf7gqYRUXpuybspMoh+",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 155360,
-      "name": "Sitting On Top Of The World",
-      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
+      "duration_ms": 159400,
+      "name": "Built For Comfort",
+      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
     },
     {
       "added_at": null,
@@ -348,9 +348,29 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159400,
-      "name": "Built For Comfort",
-      "url": "https://open.spotify.com/track/21SP5PYTLcth1BjKfqyKBO"
+      "duration_ms": 155360,
+      "name": "Sitting On Top Of The World",
+      "url": "https://open.spotify.com/track/1HJvxhYzcw6c5cwRsRCYA5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electro Blues - In House Selection",
+        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
+      },
+      "artists": [
+        {
+          "name": "Swing Republic",
+          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Cryin' at Daybreak",
+      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
     },
     {
       "added_at": null,
@@ -375,26 +395,6 @@
       "duration_ms": 394173,
       "name": "Ooh, Baby / Wrecking My Love Life - Medley",
       "url": "https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electro Blues - In House Selection",
-        "url": "https://open.spotify.com/album/3WIp2Kipz5Wc4OPLvQ54iW"
-      },
-      "artists": [
-        {
-          "name": "Swing Republic",
-          "url": "https://open.spotify.com/artist/0iOe7zpme8Z6oTs4ffvJjX"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Cryin' at Daybreak",
-      "url": "https://open.spotify.com/track/5qCis4a4VWrU4YbZ8gRQMW"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "Commit A Crime",
-      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 179040,
       "name": "Worried About My Baby",
       "url": "https://open.spotify.com/track/3liB9UAZasfLNoAMo6PphY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/23Tl49tunn9g2e9YWC2y7B"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 187533,
+      "name": "Commit A Crime",
+      "url": "https://open.spotify.com/track/2AZ3TMtCVzbrOI6KJHgaCw"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "I'm The Wolf",
-      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 143826,
       "name": "Do The Do",
       "url": "https://open.spotify.com/track/7qUFSMqfCOCHd2kLjMR2LK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "I'm The Wolf",
+      "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 191640,
-      "name": "You Can't Be Beat - Single Version",
-      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The London Howlin' Wolf Sessions - Reissue",
         "url": "https://open.spotify.com/album/0ofc7MShxTRYCAXt7zdCse"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183373,
       "name": "What A Woman",
       "url": "https://open.spotify.com/track/1ukHOyXTYjvDR3rKKpmnCQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 191640,
+      "name": "You Can't Be Beat - Single Version",
+      "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"
     },
     {
       "added_at": null,
@@ -831,8 +831,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Memphis Sessions",
-        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
+        "name": "Message To The Young",
+        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
       },
       "artists": [
         {
@@ -840,9 +840,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 178000,
-      "name": "California Blues",
-      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
+      "duration_ms": 161760,
+      "name": "I Smell A Rat",
+      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
     },
     {
       "added_at": null,
@@ -895,8 +895,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Message To The Young",
-        "url": "https://open.spotify.com/album/0GZWroLahIzKwjCDqxwdoJ"
+        "name": "The Memphis Sessions",
+        "url": "https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 161760,
-      "name": "I Smell A Rat",
-      "url": "https://open.spotify.com/track/0DLtoMUpVzLRfGsxVX4Vfh"
+      "duration_ms": 178000,
+      "name": "California Blues",
+      "url": "https://open.spotify.com/track/2M19rRn4szqGf03Czou1ov"
     },
     {
       "added_at": null,

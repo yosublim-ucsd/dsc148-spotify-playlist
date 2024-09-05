@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,249 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,255 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 3 | [คิดคิด \(Let me know\)](https://open.spotify.com/track/6C66xbNCg6Zv19tisXJnUC) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [คิดคิด \(Let me know\)](https://open.spotify.com/album/0Vaea3qMOaclumAYzoHBCF) | 3:45 |
 | 4 | [พบรัก](https://open.spotify.com/track/2LJerOY5jSwO5K6OF9Cyuz) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [พบรัก](https://open.spotify.com/album/3C1L1CgjEjjHoyAPZwePgs) | 3:54 |
 | 5 | [อยู่คนเดียวกับเขา](https://open.spotify.com/track/53LA6FpWz2mGrQVde1vTr9) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [อยู่คนเดียวกับเขา](https://open.spotify.com/album/2Pm2Btrcqr3bhyOLPXRolY) | 3:45 |
-| 6 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/08i92Xw2ejoxy4D1agyMPC) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
+| 6 | [จางหาย](https://open.spotify.com/track/6pTSm2Sw6fEEO4iKfOJqTL) | [Goy Arachaporn](https://open.spotify.com/artist/6xUrGOUoBkhE6EVXr5RI70) | [จางหาย](https://open.spotify.com/album/1hYPmPnr57DaLd8M9bzRSQ) | 3:32 |
 | 7 | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/track/1L2Kyu9eOSz9PVKyUloBM6) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ห้องเล็ก \(Wishful\)](https://open.spotify.com/album/0ptiLoehWeONMaAlbo4ukW) | 3:50 |
 | 8 | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/track/5HTpwZZ7Xg5YRSbwrkvnZG) | [MXFRUIT](https://open.spotify.com/artist/556NsleNBrQWCLjVHoPQ6G), [XX](https://open.spotify.com/artist/67ESbusyanUlxkaZ06dYrJ) | [ต้านไม่ไหว \(magnetize\)](https://open.spotify.com/album/2Yf5NftN7hgVHKKWUkhykr) | 4:12 |
 | 9 | [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 |

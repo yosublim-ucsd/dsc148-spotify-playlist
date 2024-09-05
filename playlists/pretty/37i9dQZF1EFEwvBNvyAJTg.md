@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tipyZnSXT4rMixqUyVpz6">Jon Shave</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41 likes - 167 songs - 9 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 167 songs - 9 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 50 | [Love Made Me Do It](https://open.spotify.com/track/3yFQhSmhgVf4thycUwRmXE) | [Cheryl](https://open.spotify.com/artist/3NyNPJaemMYsL14DK2tO01) | [Love Made Me Do It](https://open.spotify.com/album/1B7hNM5LicxuEfmaVxz96s) | 3:26 |
 | 51 | [Murder](https://open.spotify.com/track/1x2Lwsmw3nHlitV31w3Hwu) | [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Fable](https://open.spotify.com/album/2KKnbxUK3ycERX2d9qINVP) | 3:09 |
 | 52 | [September Rose](https://open.spotify.com/track/2RIE736kkO0hLZ4Y3auCL2) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [September Rose](https://open.spotify.com/album/5HaNyMxVqfJQHygG2bjIJr) | 3:41 |
-| 53 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
-| 54 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
+| 53 | [Tonight \(D.I.Y.A\)](https://open.spotify.com/track/1FYAysfZgA82W5QA8SwdwI) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Tonight \(D.I.Y.A\)](https://open.spotify.com/album/4RhrsCGc8rziRbyPa3SnFF) | 3:01 |
+| 54 | [No Angel](https://open.spotify.com/track/4neipBD8hA1q2g1FS9hgAC) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Focus / No Angel](https://open.spotify.com/album/7uBztHlyuZ9oSE4faTYWXX) | 3:06 |
 | 55 | [Impossible Is Nothing](https://open.spotify.com/track/0wjP81vqcXgjkCZDdIdwoL) | [Iggy Azalea](https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL) | [The New Classic](https://open.spotify.com/album/3r51pg8BwnjazLJlW6dJIh) | 3:10 |
 | 56 | [MISBEHAVE](https://open.spotify.com/track/32lyiJgk8LYfVBTkhq7kCW) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [ALL ABOUT LUV](https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp) | 3:24 |
 | 57 | [When I Lie \(Remix\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6lLDL0dGG00wcyo1yQTnUY) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [For The Throne \(Music Inspired by the HBO Series Game of Thrones\)](https://open.spotify.com/album/00xUnMv4KFgxTBvNMsUy3T) | 3:13 |
@@ -176,4 +176,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEwvBNvyAJTg.md) - [plain]
 | 166 | [Complicated](https://open.spotify.com/track/0q5e7MQkxdsjyXvi0R9r9x) | [Frank](https://open.spotify.com/artist/67AaTjklnlY8WITqoNBC0n) | [Devil's Got Your Gold](https://open.spotify.com/album/2aAmkJUKCQdkiEBRUTGErp) | 3:52 |
 | 167 | [What You Waiting For](https://open.spotify.com/track/1RCvjgA7wXjBcQuIJpKOG3) | [The Cat and Owl](https://open.spotify.com/artist/3gMxLPJN4ETgH10XwG37Wo) | [Lullaby Renditions of Sigala](https://open.spotify.com/album/5XoymdXUuLAHi2VoOiI2Th) | 3:46 |
 
-Snapshot ID: `AbbL9AAAAABbxgxDpJh8mRBC9IsLi648`
+Snapshot ID: `AbbRlQAAAABVhxEUfVuzL7DSp/i0sM6u`

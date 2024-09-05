@@ -1,12 +1,12 @@
 {
-  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 223999,
+  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
+  "num_followers": 224165,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABcmfRcS0xvVSLBwYWwzv9r",
+  "snapshot_id": "ZtZRgAAAAADioPc8Dsxbf5WjVjognpI4",
   "tracks": [
     {
       "added_at": null,
@@ -283,6 +283,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 172816,
+      "name": "Duelo",
+      "url": "https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contra Todo Pron\u00f3stico",
         "url": "https://open.spotify.com/album/6Vci5Gbazs7TZYDNliRJKO"
       },
@@ -307,8 +327,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prohibida",
-        "url": "https://open.spotify.com/album/5PMYtsW0XUpaPLGntAkOCD"
+        "name": "Mustang 65'",
+        "url": "https://open.spotify.com/album/6N7LzstAyCIAe7sQHJLOEq"
       },
       "artists": [
         {
@@ -322,7 +342,7 @@
       ],
       "duration_ms": 206200,
       "name": "Prohibida",
-      "url": "https://open.spotify.com/track/1ax1dPQHLGFZfIu1JdWdsm"
+      "url": "https://open.spotify.com/track/7bbo8bW8isBHUSrd2pVF7z"
     },
     {
       "added_at": null,
@@ -339,26 +359,6 @@
       "duration_ms": 203456,
       "name": "Me Gustas M\u00e1s Que Salir a Fumar",
       "url": "https://open.spotify.com/track/3e5qNP3CSArQiLLBMJQkUM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/1xajkTaZBtld1ECRNCLxsy"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 172816,
-      "name": "Duelo",
-      "url": "https://open.spotify.com/track/1QUcUbfPSxwfUY7qM99J7r"
     },
     {
       "added_at": null,
@@ -871,6 +871,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
+        "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
+      },
+      "artists": [
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 360910,
+      "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
+      "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HECHO M13RD4",
         "url": "https://open.spotify.com/album/5XhTnZgcv9l8gUZOVVUxAY"
       },
@@ -903,38 +935,6 @@
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) [Remix]",
-        "url": "https://open.spotify.com/album/2Zs2mVbPL5ZJyDYD4oshLD"
-      },
-      "artists": [
-        {
-          "name": "Esteban Rojas",
-          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
-        },
-        {
-          "name": "Pirlo",
-          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
-        },
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 360910,
-      "name": "Bulevar (feat. Nanpa B\u00e1sico & Brray) - Remix",
-      "url": "https://open.spotify.com/track/0YFtiekZdGa81WeWgzbRAG"
     },
     {
       "added_at": null,

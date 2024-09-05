@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,093 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,236 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCkamcYMQkz.md) - [plain]
 | 33 | [When Lights Are Low](https://open.spotify.com/track/67KiXzH1vJUJdmpcq9DaoB) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 1:56 |
 | 34 | [I Get A Kick Out Of You](https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \- Special Edition](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 4:10 |
 | 35 | [I've Got You Under My Skin \- 2011 Remaster](https://open.spotify.com/track/3Pe0waDSznXfHHEmEGXU57) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Desmond Blue](https://open.spotify.com/album/6w6jA35lueTrk0l6sipJ58) | 4:39 |
-| 36 | [A\-Tisket, A\-Tasket](https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \(Expanded Edition\)](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 2:22 |
+| 36 | [A\-Tisket, A\-Tasket](https://open.spotify.com/track/5935p4F2K5crvwdc6mBLPg) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Get Happy! \- Expanded Edition](https://open.spotify.com/album/4y9NGBV1nMcJKedGL22d8n) | 2:22 |
 | 37 | [Don't Get Around Much Anymore](https://open.spotify.com/track/2oBKJYEr166RFXyXtEAtCd) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [The Duke: The Columbia Years \(1927\-1962\)](https://open.spotify.com/album/1xhUCPji1RYC7Xr4nsAkU7) | 3:03 |
 | 38 | [It's All Right](https://open.spotify.com/track/29q5W2FpwJyjZjrJROG5Mk) | [Wynton Kelly Trio](https://open.spotify.com/artist/49XXRf3IT5eeUgAbYeBOmr) | [It's All Right!](https://open.spotify.com/album/14CbMw1lBMs4xI2JacW9ad) | 2:50 |
 | 39 | [Wonder Why](https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs) | [Lafayette Harris, Jr.](https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT) | [You Can't Lose with the Blues](https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl) | 5:15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 
 > Tu karaoke personal para darlo todo cantando.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,710,045 likes - 200 songs - 13 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,709,977 likes - 200 songs - 13 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -200,8 +200,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CTD7HWYPDn.md) - [plain]
 | 190 | [Three Little Birds](https://open.spotify.com/track/6A9mKXlFRPMPem6ygQSt7z) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:00 |
 | 191 | [Come As You Are](https://open.spotify.com/track/0MKGH8UMfCnq5w7nG06oM5) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 3:38 |
 | 192 | [What A Wonderful World](https://open.spotify.com/track/1qCQTy0fTXerET4x8VHyr9) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/19UoBHanqMth4tk0rFw5RJ) | 2:17 |
-| 193 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
-| 194 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
+| 193 | [Nada Fue Un Error](https://open.spotify.com/track/5QhOF5HXgZ0OFUZSE5kEv1) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Coti](https://open.spotify.com/album/1msFprmU8cqzLu66TOX4rf) | 3:28 |
+| 194 | [Someone Like You](https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147) | 4:45 |
 | 195 | [Our House \- 2009 \- Remaster](https://open.spotify.com/track/0BTsVL5VMdq5zGNRSTHozJ) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [Total Madness \(2012\)](https://open.spotify.com/album/5rl8LksSnuRN1x1wVlazO3) | 3:10 |
 | 196 | [Seven Nation Army](https://open.spotify.com/track/3m6KkYKdnbffMpGd9Pm9FP) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/0rRNLpdA8nA8Sm8Fk490b9) | 3:51 |
 | 197 | [Ella Me Levanto](https://open.spotify.com/track/3AZXqe3LGCFD4r6YFJgaK3) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [El Cartel: The Big Boss](https://open.spotify.com/album/0GarKYA3ebL7sQx7IP2SSt) | 3:29 |

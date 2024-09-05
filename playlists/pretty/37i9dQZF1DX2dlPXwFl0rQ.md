@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 
 > Estas son las indomables de la Música Mexicana\. Camila Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,786 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,812 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2dlPXwFl0rQ.md) - [plain]
 | 49 | [Es Cosa De El](https://open.spotify.com/track/0ftCOyTnNeeLhlIuMPR3op) | [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Promesas No](https://open.spotify.com/album/17cEzhYbgpZ3MBf6K9l0Y3) | 3:26 |
 | 50 | [Cuando Hablo De Ti](https://open.spotify.com/track/62FakRf9Vkz5KlOCYNFORi) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Y Tequila](https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu) | 3:00 |
 | 51 | [A Mi Me Respetas](https://open.spotify.com/track/3bHdMr1QxQrTHhPilZzjMM) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo), [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [A Mi Me Respetas](https://open.spotify.com/album/3SJzUYtPV1J5CZxkwfJnzS) | 2:30 |
-| 52 | [Libro Abierto \- En Vivo](https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7), [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Libro Abierto \(En Vivo\)](https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL) | 2:39 |
+| 52 | [Libro Abierto \- En Vivo](https://open.spotify.com/track/5xsTkci1YsuBTB9Sa5xiSS) | [Paquita La Del Barrio](https://open.spotify.com/artist/1q18ngxrhXlHasoNpc2dt7), [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Libro Abierto \- En Vivo](https://open.spotify.com/album/3PRLiYQLtdK5k4FXeRyMsL) | 2:39 |
 | 53 | [Compañera Presidenta](https://open.spotify.com/track/0p8TaudvyXLcM67ORslaSH) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Compañera Presidenta](https://open.spotify.com/album/5F0eh6cLSaGpGvOznO3m3J) | 3:24 |
 | 54 | [Gente Gacha](https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Gente Gacha](https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP) | 2:55 |
 | 55 | [ME PRENDO UN GALLO](https://open.spotify.com/track/7re8yr31VL3aGEIgfCIGVn) | [DiDi R](https://open.spotify.com/artist/5DYr71gMagoWXuYCrWexQM) | [ME PRENDO UN GALLO](https://open.spotify.com/album/6nOz8DD7iIlAeMjXHXsLbX) | 3:14 |

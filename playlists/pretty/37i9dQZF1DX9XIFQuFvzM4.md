@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 
 > Feel good with this positively timeless playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,633,566 likes - 150 songs - 8 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,633,653 likes - 150 songs - 8 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,18 +145,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9XIFQuFvzM4.md) - [plain]
 | 135 | [I Think](https://open.spotify.com/track/0KubmI0koWzdKaZdqLaXNj) | [Emanuel Harrold](https://open.spotify.com/artist/7BCEWQ7ebjQql2El4eAxOU), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [I Think](https://open.spotify.com/album/3cyit0KF2bS4H3wAwB54bU) | 5:45 |
 | 136 | [How Long Do I Have to Wait for You?](https://open.spotify.com/track/113bLFbp3F9MVN0w2KJ1ma) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [Naturally](https://open.spotify.com/album/1xwNW7Q1daqJ8LNgymY04y) | 4:03 |
 | 137 | [My Guy](https://open.spotify.com/track/7rUPIW0pQoshbOtysdlWX2) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [An American Love Story](https://open.spotify.com/album/0P2UzaCywB5aWhIplMUryK) | 2:52 |
-| 138 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 |
-| 139 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
-| 140 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 |
-| 141 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
+| 138 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 2:38 |
+| 139 | [Ain't No Mountain High Enough \- Stereo Version](https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [The Very Best Of Marvin Gaye](https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud) | 2:26 |
+| 140 | [Coming Home](https://open.spotify.com/track/5EA06TsQmqmQXZiEhr1AaM) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home](https://open.spotify.com/album/4svLfrPPk2npPVuI4kXPYg) | 3:26 |
+| 141 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 |
 | 142 | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/track/4ZC6YjPsP4JSkGFOcdrimb) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Funky Music \(Is A Part Of Me\)](https://open.spotify.com/album/3qM618ubqSqUwbD1lYCWje) | 5:29 |
-| 143 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
-| 144 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
-| 145 | [Signed, Sealed, Delivered \(I'm Yours\)](https://open.spotify.com/track/2jg4Yc8071puvDRYi22B3a) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Number 1's](https://open.spotify.com/album/5x7vXXWapy8cUmdSuwpUy1) | 2:38 |
+| 143 | [You Can't Hurry Love](https://open.spotify.com/track/69Qa7czzqraPWZgxpQN405) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Favorites](https://open.spotify.com/album/5u4oZQY6eYzH7ZpydPoUN3) | 2:45 |
+| 144 | [Boogie Nights](https://open.spotify.com/track/20zOIoex7YchUh87d8tlvg) | [Heatwave](https://open.spotify.com/artist/6D7h7R79IZjqJC2GM2wzyY) | [Too Hot To Handle](https://open.spotify.com/album/3OjfTt27HmGpVd45IuMAT6) | 5:03 |
+| 145 | [Sure Don't Miss You](https://open.spotify.com/track/4k6WZXbHUFEZR02X9FhOuT) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [The Dip Delivers](https://open.spotify.com/album/5NaNDBt0tTh3Y8GiS3zfoI) | 2:54 |
 | 146 | [Build Me Up Buttercup](https://open.spotify.com/track/3XcuLPQb1LG13ZJEEa6wUI) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 2:58 |
-| 147 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 |
-| 148 | [Ain't No Mountain High Enough \- Stereo Version](https://open.spotify.com/track/28wGX1hoLCRbBZbEqITvE3) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [The Very Best Of Marvin Gaye](https://open.spotify.com/album/113AzyLAbshZITpkRK4Gud) | 2:26 |
-| 149 | [It's A Shame](https://open.spotify.com/track/6cpNEgirhi0QmLDA2cVSHO) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Best Of The Spinners](https://open.spotify.com/album/1YtoIFW84QtpYVlkOR8xTe) | 3:11 |
-| 150 | [Feeling Good](https://open.spotify.com/track/61S0mEfdRtJ62Fc7fPqx0U) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/13jolTb1DQl8IVPczYtQJ3) | 2:54 |
+| 147 | [I Heard It Through The Grapevine](https://open.spotify.com/track/27m1soUndRthrAA1ediOXn) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Heard It Through The Grapevine / In The Groove \(Stereo\)](https://open.spotify.com/album/1jcnZvZWvAGzNyQ7GNVy8X) | 3:15 |
+| 148 | [Come See About Me](https://open.spotify.com/track/5QXAMj4GVRUPOQVUNJjLJl) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 2:42 |
+| 149 | [My Girl](https://open.spotify.com/track/6jWkZvd1URGktyTTwcpPpB) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [The Temptations Sing Smokey](https://open.spotify.com/album/7C4vMPQR8KcbZv4e2ZI0lc) | 2:45 |
+| 150 | [Land of 1000 Dances](https://open.spotify.com/track/61w1Ry5X8UUsbNoPG7zRP1) | [Wilson Pickett](https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE) | [Rhino Hi\-Five: Wilson Pickett](https://open.spotify.com/album/3R7ZC37Ur3zx40M06RLMMd) | 2:26 |
 
 Snapshot ID: `Zow3pAAAAACAP/5oXjpqFu+162YDZaRR`

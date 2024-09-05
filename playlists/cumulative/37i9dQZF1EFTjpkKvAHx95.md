@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-161 songs - 8 hr 44 min
+162 songs - 8 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Keep A Place](https://open.spotify.com/track/5RUJl9eXW62FS94oKQZSnF) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Never Gets Late Here](https://open.spotify.com/album/2wkK1n9m6c7OutXRgtvVsz) | 2:16 | 2024-07-17 |  |
 | [Keep It Going](https://open.spotify.com/track/59O4w7NZgVqowQkcG8gs1i) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:53 | 2023-12-30 |  |
 | [KEHLANI](https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY) | [KEHLANI](https://open.spotify.com/album/5Zwbll6KYxOjZSuxRjQDEm) | 2:02 | 2024-07-17 |  |
+| [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-09-04 |  |
 | [Late Night](https://open.spotify.com/track/6XfhmcqDEapsyoK8mnTFnB) | [Lyrica Anderson](https://open.spotify.com/artist/6yqadcG6z5djW3lDuP7Abh) | [Adia](https://open.spotify.com/album/6E9ZTmTTn4cOuWYWVBB931) | 2:20 | 2023-12-30 |  |
 | [Light Flex \(From the Original Motion Picture Soundtrack 'Uncle Drew'\) \(feat\. 2 Chainz\)](https://open.spotify.com/track/2c07bc2mwRIcuN52hoyzT0) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Light Flex \(From the Original Motion Picture Soundtrack 'Uncle Drew'\) \(feat\. 2 Chainz\)](https://open.spotify.com/album/1RKcmHPNIjZVAaXklTOPjO) | 3:52 | 2023-12-30 |  |
 | [Like It \(with 6LACK\)](https://open.spotify.com/track/4CNzuSQoL5jgCxzYmuMvcz) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 2:51 | 2023-12-30 |  |

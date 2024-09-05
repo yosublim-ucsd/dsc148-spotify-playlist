@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 
 > This is Juice WRLD\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,580,638 likes - 54 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,580,728 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 30 | [Maze](https://open.spotify.com/track/55XOUxXsBBbC07PD3Zml3F) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:24 |
 | 31 | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/track/4qmG24ebshLXtKu9HIShBP) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa) | [Lace It \(with Eminem & benny blanco\)](https://open.spotify.com/album/5nOfPCLpHGpayGrUNHAPLt) | 3:37 |
 | 32 | [Righteous](https://open.spotify.com/track/5dOxHHMOFAbG3VH23t0xNm) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 4:02 |
-| 33 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
-| 34 | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 3:01 |
+| 33 | [GO \(feat\. Juice WRLD\)](https://open.spotify.com/track/4lH5L59hPQGr05aJyb2Q2E) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 3:01 |
+| 34 | [Nuketown \(feat\. Juice WRLD\)](https://open.spotify.com/track/74lnM5V6ecvoTPV0fvptx9) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:46 |
 | 35 | [Make Believe](https://open.spotify.com/track/1goNZsIE8w3NQOzlP40veh) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 2:22 |
 | 36 | [1400 / 999 Freestyle \(feat\. Juice WRLD\)](https://open.spotify.com/track/0axBgt9y0GvMCLuRl2xBKG) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [A Love Letter To You 3](https://open.spotify.com/album/1fFwMXuTJ8J3KXo14Vvsna) | 2:55 |
 | 37 | [Legends](https://open.spotify.com/track/1Knctxx9vGZxpZfF66BIEa) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends](https://open.spotify.com/album/7zfsq2Hboh0SZMcWo2ASkD) | 3:11 |
@@ -60,7 +60,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2O09Hg.md) - [plain]
 | 50 | [From My Window](https://open.spotify.com/track/4HDQt6Lepj3HpxypbG30Hz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 3:07 |
 | 51 | [Blastoff \(feat\. Juice WRLD\)](https://open.spotify.com/track/2EL58P9iKGM5L2sO203i5y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [B4 The Storm \(Expanded Edition\)](https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY) | 2:54 |
 | 52 | [Glo’d Up](https://open.spotify.com/track/1KGJ5ozUB7XOgCJ73IBMz3) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance \(5 Year Anniversary Edition\)](https://open.spotify.com/album/5v9IfhMyxAkE9CbLjfNChR) | 2:30 |
-| 53 | [Life's A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/track/4O3RwH1TFG1EjPezLIYehI) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Clever](https://open.spotify.com/artist/5yy76ufVriyvidNSvXlRU1), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Life’s A Mess II \(with Clever & Post Malone\)](https://open.spotify.com/album/4BUBmfexqfuvnaVT7ZnFiR) | 3:26 |
-| 54 | [Not Enough](https://open.spotify.com/track/55ZNNY6D8FkNFAlVceAwIZ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:51 |
+| 53 | [Not Enough](https://open.spotify.com/track/55ZNNY6D8FkNFAlVceAwIZ) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Fighting Demons \(Deluxe\)](https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew) | 2:51 |
 
-Snapshot ID: `ZtUAAAAAAADJosyNhTS43hvxitqRJNyX`
+Snapshot ID: `ZtZRgAAAAAA8fNIAwwVcA+15UElaszpx`

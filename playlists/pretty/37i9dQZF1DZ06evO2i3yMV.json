@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8156,
+  "num_followers": 8161,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAIo7S6LHg4yS87Oaz2V3AP",
+  "snapshot_id": "ZtZRgAAAAAAY6h3hYkDCtMQsxIrBxhZi",
   "tracks": [
     {
       "added_at": null,
@@ -255,26 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Naked",
-        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Naked",
-      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 212811,
       "name": "Get Me Some",
       "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Naked",
+        "url": "https://open.spotify.com/album/3q33nMv5nBInrenFWEiYsy"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Naked",
+      "url": "https://open.spotify.com/track/1EzfgoY8TVuHrX402tzK7D"
     },
     {
       "added_at": null,
@@ -379,46 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Young Art Sound II",
-        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Ambr\u00e9",
-          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
-        }
-      ],
-      "duration_ms": 153297,
-      "name": "Strange Froot",
-      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 217537,
-      "name": "Don't Call Me (feat. Yuna)",
-      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -439,6 +399,46 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Selah Sue",
+          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+        }
+      ],
+      "duration_ms": 266643,
+      "name": "I Wish I Could (feat. Selah Sue)",
+      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Young Art Sound II",
+        "url": "https://open.spotify.com/album/56Sabgy81YsOgHAURQY3uH"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Ambr\u00e9",
+          "url": "https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP"
+        }
+      ],
+      "duration_ms": 153297,
+      "name": "Strange Froot",
+      "url": "https://open.spotify.com/track/3LCIxTgrIysK7KVbtUrWED"
     },
     {
       "added_at": null,
@@ -492,13 +492,13 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         },
         {
-          "name": "Selah Sue",
-          "url": "https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 266643,
-      "name": "I Wish I Could (feat. Selah Sue)",
-      "url": "https://open.spotify.com/track/4LEM9GuAIk6f78yVNI5Ngm"
+      "duration_ms": 217537,
+      "name": "Don't Call Me (feat. Yuna)",
+      "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dream Chorus",
         "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
       },
@@ -659,6 +643,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -671,6 +671,22 @@
       "duration_ms": 280022,
       "name": "Up and Out",
       "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
     },
     {
       "added_at": null,
@@ -719,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eats The Tale",
         "url": "https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB"
       },
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -807,6 +787,26 @@
       "duration_ms": 191233,
       "name": "Fried for the Night",
       "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
     },
     {
       "added_at": null,

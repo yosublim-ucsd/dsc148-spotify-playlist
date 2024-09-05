@@ -4,7 +4,7 @@
 
 > Best of the Indian Indie scene\. Cover \- Gini
 
-253 songs - 14 hr 18 min
+254 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2021-12-06 |  |
 | [Alfaazo](https://open.spotify.com/track/6KvXpACADAz73IPrCgXobL) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Alfaazo](https://open.spotify.com/album/6xy5HvqMaDhB1EGlqE5iju) | 2:38 | 2023-04-17 |  |
 | [All I Need](https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:33 | 2022-05-23 | 2022-12-24 |
-| [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 | 2023-05-19 |  |
+| [Antariksh](https://open.spotify.com/track/3JJtci5fSMdxYCVoHRHX2h) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Antariksh](https://open.spotify.com/album/41c3IoL1qIAvR38l2kB7Zj) | 2:45 | 2023-05-19 | 2024-09-05 |
 | [Attached](https://open.spotify.com/track/4LXP4tw0mucgLy8zeNj7lL) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [Issamood](https://open.spotify.com/artist/4CM8qfix2AYlwVU0iUIxAW) | [593, Vol\. I](https://open.spotify.com/album/1UtL4DXUWM7Qs6TeL42I5I) | 2:10 | 2021-12-06 | 2022-02-05 |
 | [Aziyat](https://open.spotify.com/track/5DEp8hauuZ45oG38YOkkQq) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Aziyat](https://open.spotify.com/album/45ClrZZAaxYdWMG5FqsjfB) | 3:41 | 2021-12-06 |  |
 | [Baaraat](https://open.spotify.com/track/0YLSjVxSb5FT1Bo8Tnxr8j) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb), [Nucleya](https://open.spotify.com/artist/2CkrXQPoBz8jTQ3u0ZeLPh) | [Baaraat](https://open.spotify.com/album/5tJNl2p7wNTuRBvikWFHSn) | 3:42 | 2021-12-06 | 2022-09-04 |
@@ -40,6 +40,7 @@
 | [Baarishein](https://open.spotify.com/track/3WLJ7D5kh44K5eJ1NqZQ6W) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein](https://open.spotify.com/album/2LeZ6oWQed5ewVUpyGJKDh) | 3:27 | 2023-10-09 | 2024-04-19 |
 | [Baatein](https://open.spotify.com/track/3q5Ur1rIlB8NuOY6FbzxJs) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK) | [Baatein](https://open.spotify.com/album/0SwjECRoO3tjUhX3rYaqJf) | 4:06 | 2022-01-05 | 2022-10-21 |
 | [Baaton Baaton Main](https://open.spotify.com/track/764XnzLSpfB7VSMkKywfMB) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Baaton Baaton Main](https://open.spotify.com/album/0QVNwZykSmyVyFLbKZkMMY) | 3:54 | 2023-02-06 |  |
+| [Baawra](https://open.spotify.com/track/2Repz4eP8qEqOVz8CltLZ0) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw), [Geet](https://open.spotify.com/artist/3jWuXbAR2GuuGrY0WgDA7W) | [Baawra](https://open.spotify.com/album/58CpJdSRp7B0Hg96V45ch1) | 4:28 | 2024-09-04 |  |
 | [Beh Jaana](https://open.spotify.com/track/4EO3U6Ip5sVJZGTQuemMev) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Jugaadistan \(Original Series Soundtrack\)](https://open.spotify.com/album/0tPs35OLKpMmnxzWJXoyze) | 2:41 | 2022-03-16 | 2022-04-23 |
 | [Betahasha](https://open.spotify.com/track/7D5x7oRRK279Tx3SzJ95it) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL), [Nilotpal Sinha](https://open.spotify.com/artist/5JJJXKgD03icW3z2dkjTTV) | [Betahasha](https://open.spotify.com/album/56DhJ2JIMfgT8mEI5VczxT) | 3:16 | 2022-06-20 | 2023-04-18 |
 | [Blush](https://open.spotify.com/track/6IjeHG6oLIkZeSq2SMEAtd) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Blush](https://open.spotify.com/album/5XLBXjciXLRxhhRI99zaOP) | 3:19 | 2021-12-06 | 2022-11-19 |

@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-688 songs - 1 day 5 hr 29 min
+690 songs - 1 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Antique Clock](https://open.spotify.com/track/0LenKLAcx2fIHmPGBbLWpn) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Antique Clock](https://open.spotify.com/album/1Pbl3p0NMDIm4LQXISV7WB) | 2:20 | 2023-11-08 |  |
 | [Apart](https://open.spotify.com/track/6lnhnrHB83cj7EO38t4vgP) | [Lucas Forch](https://open.spotify.com/artist/13gyOR6KA3pA8MIuWW2Pcm) | [Apart](https://open.spotify.com/album/171iVmp0gn0SVHV5DGBQAt) | 3:15 | 2021-12-07 | 2022-07-16 |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-07 | 2023-01-27 |
-| [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 |  |
+| [Approaching Haumea](https://open.spotify.com/track/6mwVh9GJeesKKE0OJWHrMt) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Approaching Haumea](https://open.spotify.com/album/0j6t12qqfzwHpVvKeSwz9k) | 2:51 | 2022-02-01 | 2024-09-05 |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-08-15 |  |
 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 | 2021-12-07 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-02-06 |  |
@@ -198,6 +198,7 @@
 | [Flashing lights](https://open.spotify.com/track/3jbaWxRwhXCZmvpPWHIKe3) | [Niels Wang](https://open.spotify.com/artist/5CEH6P4vzHUyHI4WGrWaKT) | [Flashing lights](https://open.spotify.com/album/6fFieao3USpz413NdKe9Or) | 3:27 | 2021-12-07 |  |
 | [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 | 2024-03-05 |  |
 | [Fleurs Séchées](https://open.spotify.com/track/70oTgyGPmB9ZtU2lrjbZfj) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Fleurs Séchées](https://open.spotify.com/album/7LeBN7j9XjqfRoxtUKIvV2) | 2:06 | 2022-01-04 |  |
+| [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 | 2024-09-02 |  |
 | [Float Away](https://open.spotify.com/track/5uNxH6IeDRZnn9KiRtIflT) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Distant Lovers](https://open.spotify.com/album/3GhSTFSSS851A5sykAVh0T) | 2:43 | 2021-12-07 | 2022-04-21 |
 | [Floating Wings](https://open.spotify.com/track/7tsrWMRsfgC584FsZNP2fC) | [Dave Sherman](https://open.spotify.com/artist/7p9avjMf6a7ZqxS011oeuO) | [Floating Wings](https://open.spotify.com/album/5JZYWSti5LieyBtTfCFF5m) | 2:50 | 2022-09-14 | 2024-04-26 |
 | [Flor](https://open.spotify.com/track/2Mru9a0DGRUJWTb4XeIuNo) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Flor](https://open.spotify.com/album/1spCAAyAm46YalU3LbjT8s) | 1:59 | 2023-01-26 | 2023-05-20 |
@@ -377,7 +378,7 @@
 | [Minor Fable](https://open.spotify.com/track/6IJ5eCQNpXifW7OqRK9pQc) | [Luis Berra](https://open.spotify.com/artist/7JfQ6KThQOrDXIBDJgSFLk) | [Minor Fable](https://open.spotify.com/album/4yq1sWpFO7LgofgmmPEEVC) | 2:01 | 2024-03-19 |  |
 | [Minorities](https://open.spotify.com/track/0WGxduCskRMRz2sBkHgpDg) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Minorities](https://open.spotify.com/album/48ludebOOiB7RpPpgtEhxs) | 2:49 | 2024-08-13 |  |
 | [Minuit à Paris](https://open.spotify.com/track/4MEQkYg6D715wDzzm5r5K6) | [Nolan Khan](https://open.spotify.com/artist/6GpEjquDluNZrINNY0cS3H) | [Minuit à Paris](https://open.spotify.com/album/2OxcHeyTYMZ9vFOj2Ktml6) | 2:14 | 2021-12-07 |  |
-| [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 |  |
+| [Minute By Minute](https://open.spotify.com/track/5FeKYp26uQ93jj361VH7mr) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Final Feliz](https://open.spotify.com/album/6h74nF5jtOcrYaJwc7YDat) | 3:08 | 2022-01-04 | 2024-09-05 |
 | [Mirror Image](https://open.spotify.com/track/6yPemeVzF0Ew5oYNxOYoqI) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Mirror Image](https://open.spotify.com/album/0aaLes9e9gY3KQ6LZwDmNJ) | 2:12 | 2021-12-07 | 2023-08-16 |
 | [Mitternacht](https://open.spotify.com/track/61LRf67gHGilGO4DbIecZz) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Mitternacht](https://open.spotify.com/album/0LZwgyNIT6ZFHBSUGwAz39) | 2:35 | 2022-12-22 |  |
 | [Mol allena](https://open.spotify.com/track/7J1KmTQJFGhkyKHNZBbmc0) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:26 | 2021-12-07 |  |
@@ -677,6 +678,7 @@
 | [Whisper Trail](https://open.spotify.com/track/2pEF97eTTTNC8pbpAVu8SB) | [Peter Mandel](https://open.spotify.com/artist/7pcKNsR8Kj7AIXtJT7u46g) | [Whisper Trail](https://open.spotify.com/album/6zalqhvd0efWVXZI4z6VyU) | 2:35 | 2021-12-07 | 2023-01-27 |
 | [Whistling Fields](https://open.spotify.com/track/1yfU7I4NmdN44ztLDlGsmh) | [Riley Santos](https://open.spotify.com/artist/4LEExWliqooeTNczZkiBBd) | [Twelve Doves](https://open.spotify.com/album/2BHstuxhhN0fjiJy72WUac) | 2:15 | 2022-04-20 | 2023-11-09 |
 | [Wilderness](https://open.spotify.com/track/0tSmlC1xetq79l5LWo5bql) | [Matt van Stern](https://open.spotify.com/artist/6R18bmvwvBLIz0r9XsIOza) | [Wilderness](https://open.spotify.com/album/1Xb6fQ3AZG0y59v4ibTPYn) | 2:53 | 2021-12-07 | 2022-04-21 |
+| [Windswept](https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Windswept](https://open.spotify.com/album/4fIJCoIOzSAHmmZQETFkf2) | 3:19 | 2024-09-02 |  |
 | [winter waltz](https://open.spotify.com/track/4OrNJsI46x4VvX6VXfJHEW) | [Aisen Voight](https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb) | [winter waltz](https://open.spotify.com/album/5zMCgImeWbDPD2UFb1s96h) | 2:51 | 2024-02-05 |  |
 | [Winter´s Passing](https://open.spotify.com/track/0HXWR7kXRRDsmSeBgAgpPz) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Winter´s Passing](https://open.spotify.com/album/1nrBZ7BnwGbi7Nt6elcIKB) | 3:38 | 2021-12-07 | 2022-07-16 |
 | [with me, with you](https://open.spotify.com/track/1S9aFKkJi0MILii1icKFeu) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [heart pieces](https://open.spotify.com/album/0Tzbu2y034RCgFtLhQI2GY) | 3:19 | 2021-12-07 | 2022-09-15 |

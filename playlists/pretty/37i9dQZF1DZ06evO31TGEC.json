@@ -1,12 +1,12 @@
 {
-  "description": "This is El Chapo De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 47550,
+  "description": "This Is El Chapo De Sinaloa. Los temas esenciales, todos en una lista.",
+  "num_followers": 47556,
   "original_name": "This Is El Chapo De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADxpLPN0usmbUcU1pac70V5",
+  "snapshot_id": "ZtZRgAAAAADsYuj98rlXDP3WbO9eOvqH",
   "tracks": [
     {
       "added_at": null,
@@ -319,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
+        "name": "Mis Rancheras Consentidas",
+        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 176626,
-      "name": "Esa Muchacha Me Gusta",
-      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
+      "duration_ms": 195600,
+      "name": "El Paletero",
+      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Rancheras Consentidas",
-        "url": "https://open.spotify.com/album/5znoYZMw9OHlDjcOVcIoKH"
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
         }
       ],
-      "duration_ms": 195600,
-      "name": "El Paletero",
-      "url": "https://open.spotify.com/track/0T6k96AhWayIZN6KzMvsol"
+      "duration_ms": 176626,
+      "name": "Esa Muchacha Me Gusta",
+      "url": "https://open.spotify.com/track/6gpuslIhDRrUk64OdhdcPU"
     },
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Noche Perfecta",
-        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Cuando Era Ni\u00f1o",
-      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Eran De Azucar Sus Labios",
         "url": "https://open.spotify.com/album/4O78YM1McunYoan4VbIC2P"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 187848,
       "name": "Eran De Azucar Sus Labios",
       "url": "https://open.spotify.com/track/10pvk16EhVuq7VhcQxaOrg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Noche Perfecta",
+        "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Cuando Era Ni\u00f1o",
+      "url": "https://open.spotify.com/track/60W9QkfdZKM7bCRg41K0q2"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triunfador",
-        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 172805,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Apasionado (Remasterizado 2021)",
         "url": "https://open.spotify.com/album/7pXzWQE4urVbA9k8sqAggO"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 192120,
       "name": "Dime Una Y Otra Vez (Versi\u00f3n Remasterizada De 2021)",
       "url": "https://open.spotify.com/track/4aP9JFXT8QYMqy7N5lrZIf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triunfador",
+        "url": "https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 172805,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 170853,
-      "name": "Hice De Todo",
-      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mayor de Edad",
         "url": "https://open.spotify.com/album/2061v0dtiRcEHsSPOSbiRZ"
       },
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 170853,
+      "name": "Hice De Todo",
+      "url": "https://open.spotify.com/track/2Et0OmVLcyP72ZSmHxQT4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Las Bandas Rom\u00e1nticas",
         "url": "https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Siempre",
-        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 186746,
-      "name": "Contigo Me Gusta",
-      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Noche Perfecta",
         "url": "https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 202573,
       "name": "Ella (Me Cans\u00e9 De Rogarle)",
       "url": "https://open.spotify.com/track/3pwWfa8pqHCoDJrFwwQCkk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Para Siempre",
+        "url": "https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 186746,
+      "name": "Contigo Me Gusta",
+      "url": "https://open.spotify.com/track/2MGe6zekKWb3Tpd1aZ3r69"
     },
     {
       "added_at": null,

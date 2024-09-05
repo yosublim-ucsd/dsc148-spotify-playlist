@@ -2,7 +2,7 @@
 
 ### [This Is Lana Del Rey](https://open.spotify.com/playlist/37i9dQZF1DZ06evNZVVBPG)
 
-> This Is Lana Del Rey\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Lana Del Rey\. Los temas esenciales, todos en una lista.
 
 74 songs - 5 hr 12 min
 

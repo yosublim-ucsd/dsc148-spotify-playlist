@@ -1,6 +1,6 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Nala Sinephro",
-  "num_followers": 39145,
+  "num_followers": 39214,
   "original_name": "Women of Ambient",
   "owner": {
     "name": "Spotify",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Arrow",
-        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
-      },
-      "artists": [
-        {
-          "name": "Noveller",
-          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
-        }
-      ],
-      "duration_ms": 227748,
-      "name": "Effektology",
-      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
         "name": "Humidity",
         "url": "https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba"
       },
@@ -1019,22 +1003,18 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
-        "name": "Cradle (Patience Rework)",
-        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+        "name": "Arrow",
+        "url": "https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S"
       },
       "artists": [
         {
-          "name": "Lyra Pramuk",
-          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
-        },
-        {
-          "name": "Ben Frost",
-          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+          "name": "Noveller",
+          "url": "https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2"
         }
       ],
-      "duration_ms": 324000,
-      "name": "Cradle - Patience Rework",
-      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+      "duration_ms": 227748,
+      "name": "Effektology",
+      "url": "https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1051,6 +1031,26 @@
       "duration_ms": 387268,
       "name": "Hyphae",
       "url": "https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
+        "name": "Cradle (Patience Rework)",
+        "url": "https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA"
+      },
+      "artists": [
+        {
+          "name": "Lyra Pramuk",
+          "url": "https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm"
+        },
+        {
+          "name": "Ben Frost",
+          "url": "https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Cradle - Patience Rework",
+      "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
     },
     {
       "added_at": "2024-08-12 14:12:23",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-08-12 14:12:23",
       "album": {
+        "name": "Epistasis",
+        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
+      },
+      "artists": [
+        {
+          "name": "Maria W Horn",
+          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
+        }
+      ],
+      "duration_ms": 571000,
+      "name": "Epistasis",
+      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
+    },
+    {
+      "added_at": "2024-08-12 14:12:23",
+      "album": {
         "name": "Nine Spells",
         "url": "https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 618138,
       "name": "Myg",
       "url": "https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp"
-    },
-    {
-      "added_at": "2024-08-12 14:12:23",
-      "album": {
-        "name": "Epistasis",
-        "url": "https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev"
-      },
-      "artists": [
-        {
-          "name": "Maria W Horn",
-          "url": "https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak"
-        }
-      ],
-      "duration_ms": 571000,
-      "name": "Epistasis",
-      "url": "https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO"
     },
     {
       "added_at": "2024-08-12 14:12:23",

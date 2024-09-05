@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,235 likes - 200 songs - 14 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,257 likes - 200 songs - 14 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -177,7 +177,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 167 | [Love Walked In](https://open.spotify.com/track/2L5RBxcTAfDjb7BpKboDm7) | [Erroll Garner](https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED) | [The Complete Savoy Master Takes](https://open.spotify.com/album/7obNWrtC06yrnbNlovA7H0) | 2:59 |
 | 168 | [Silver's Serenade \- Remastered 1997](https://open.spotify.com/track/5Bj7wuOkiIgv8bHuRHLEQ0) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Finest](https://open.spotify.com/album/4AK2aC9SkRSIJnyWVVHHrE) | 9:21 |
 | 169 | [Too Close For Comfort](https://open.spotify.com/track/4Qv9LV0XE6t8DzqtqGTiV8) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [The Art Of Pepper](https://open.spotify.com/album/0YbEP4V2qsPv0CKR0PrvbK) | 6:08 |
-| 170 | [I Understand](https://open.spotify.com/track/02B878qmLiO19I44u0DtqN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1) | 2:41 |
+| 170 | [I Understand](https://open.spotify.com/track/02B878qmLiO19I44u0DtqN) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Unforgettable \- Expanded Edition](https://open.spotify.com/album/4PqUh4XHqHBDjhgTz9TIS1) | 2:41 |
 | 171 | [Moonlight In Vermont](https://open.spotify.com/track/0IIG5qxX8k08mJZ1xxpFQy) | [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [Songs from the Heart \(Remastered 2013\)](https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW) | 3:08 |
 | 172 | [Seranade In Blue](https://open.spotify.com/track/7kQEllYu7M6nfipTRYL4pF) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 3:01 |
 | 173 | [The Night We Called It a Day](https://open.spotify.com/track/6NDcfPDPnh5FIhfeIITGdb) | [Chris Connor](https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ) | [A Jazz Date With Chris Connor](https://open.spotify.com/album/6VvCDBJant7nKfjVromljF) | 3:21 |
@@ -198,8 +198,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 188 | [Slowly](https://open.spotify.com/track/7aBsFTDIUlNiIj1HCuTpmM) | [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [2\-3\-4](https://open.spotify.com/album/577bKb4GhRgofSSyvbtRdY) | 5:33 |
 | 189 | [I Let A Song Go Out Of My Heart](https://open.spotify.com/track/5y8MG77yLGWQFQCcuDXHFp) | [Lena Horne](https://open.spotify.com/artist/2I6nP70ltmOHi6xjJUXHMe) | [Love Is The Thing](https://open.spotify.com/album/3ofmbu4psYknhfw89Sh6T0) | 2:44 |
 | 190 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/1n4BIhfYfgkCAFJfcVQ5OO) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin](https://open.spotify.com/album/24XyFtHMmecxawtvXfc27y) | 6:29 |
-| 191 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 |
-| 192 | [You Are Too Beautiful](https://open.spotify.com/track/1AL1RPAS8xiZGehR3ch7mp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 5:33 |
+| 191 | [You Are Too Beautiful](https://open.spotify.com/track/1AL1RPAS8xiZGehR3ch7mp) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane & Johnny Hartman](https://open.spotify.com/album/3nmLPoLaRsN7cj9XkkDq2r) | 5:33 |
+| 192 | [Let's Fall In Love](https://open.spotify.com/track/669fZh7MR6mreYTIV3n8ff) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 6:29 |
 | 193 | [Love For Sale](https://open.spotify.com/track/6UkKOXXYGcKMR9X9S3f7Qi) | [Anita O'Day](https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB), [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS) | [Jazz Queens of the 50's](https://open.spotify.com/album/1naixH6GxUzhEVuenHHC2Q) | 2:44 |
 | 194 | [Bunny](https://open.spotify.com/track/608Il5lMSRS5AK7QUZlVPt) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Gerry Mulligan Meets Johnny Hodges](https://open.spotify.com/album/3qtmg537HyA6zWtAnwM98z) | 5:43 |
 | 195 | [It's Easy To Remember](https://open.spotify.com/track/1nMBhazQDRj2SdNxw4Gr0s) | [John Coltrane Quartet](https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy) | [Ballads](https://open.spotify.com/album/65iE2klct5VviQiJSq9ygF) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 
 > This is Eric Clapton\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,164 likes - 51 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,218 likes - 51 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO42oITu.md) - [plain]
 | 50 | [Give Me Strength](https://open.spotify.com/track/4pkuaNauckc35kkEBxCsLg) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 2:51 |
 | 51 | [Pretending](https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Journeyman](https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B) | 4:43 |
 
-Snapshot ID: `ZtUAAAAAAACx+chbGOO7zETCoe1t6I8k`
+Snapshot ID: `ZtZRgAAAAAAfDIfs17FgDXnGrTemPlcS`

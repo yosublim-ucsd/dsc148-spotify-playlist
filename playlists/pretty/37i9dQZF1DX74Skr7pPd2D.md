@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,554 likes - 100 songs - 7 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,562 likes - 100 songs - 7 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74Skr7pPd2D.md) - [plain]
 | 74 | [Stars Fell On Alabama](https://open.spotify.com/track/4ViAydYxcGT7wLuilsvdsc) | [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Gettin' To It](https://open.spotify.com/album/0sTCOTNTXhgAxUvwCnyIK2) | 5:23 |
 | 75 | [I Can't Get Started](https://open.spotify.com/track/24pCNUnKGmlG9MEzYkgBR1) | [Dizzy Gillespie Sextet](https://open.spotify.com/artist/3LZnEYR8H7Odg793sSJbmU) | [Birks Works: The Verve Big\-Band Sessions](https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS) | 2:55 |
 | 76 | [Ad Lib Blues](https://open.spotify.com/track/5JEpa8eK5ohw3ZD8s9Gjer) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Lester Swings](https://open.spotify.com/album/1YtMIgRjJvAUtbidTuRMAg) | 5:53 |
-| 77 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |
-| 78 | [Maya](https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [High Life](https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU) | 5:12 |
+| 77 | [Maya](https://open.spotify.com/track/14CS5ex2sEZKyKdCgDOivI) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [High Life](https://open.spotify.com/album/2SN7tuhq5GC1usNNrY74yU) | 5:12 |
+| 78 | [People Get Ready](https://open.spotify.com/track/5Ms4U6Z2cDqkENFZ52VkTc) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Goodies](https://open.spotify.com/album/2cW0MlQhy163FpGhbzKiB6) | 4:14 |
 | 79 | [Bashin'](https://open.spotify.com/track/5B5QXJzYyyzp4NaqyiI4gI) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [Bashin' \- The Unpredictable Jimmy Smith \(Expanded Edition\)](https://open.spotify.com/album/34SD5R6dsyvxAzhohq2gxB) | 6:13 |
 | 80 | [You're A Sweetheart](https://open.spotify.com/track/7HkBHqWkeVcm4TKRzo0wjU) | [Betty Carter](https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ) | [The Betty Carter Album](https://open.spotify.com/album/75nqEXwT3ivlItWbuxMApg) | 3:57 |
 | 81 | [Jazzery](https://open.spotify.com/track/6rqGgu0tHZUAngnMLkAOt7) | [Jeff Lorber](https://open.spotify.com/artist/1SaH16LT1AWVsBU8AKY4HN) | [Worth Waiting For](https://open.spotify.com/album/4kM5RiMozOGvrkvzPLYxvR) | 4:22 |

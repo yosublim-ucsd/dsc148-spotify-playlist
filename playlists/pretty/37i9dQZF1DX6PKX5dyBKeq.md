@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Kairo Keyz
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,408 likes - 81 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,504 likes - 81 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

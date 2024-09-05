@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,318 likes - 98 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,353 likes - 98 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 47 | [The Sky is Blue](https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Sky is Blue](https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW) | 3:45 |
 | 48 | [bullet time](https://open.spotify.com/track/2ahDW2yLEaPXT3Uusclm93) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [bullet time](https://open.spotify.com/album/3VHcbYO0QXlrnF1I4Rt4HB) | 2:47 |
 | 49 | [I'm Violent](https://open.spotify.com/track/1Yn5NNoF9vcuA3vXL8EAkz) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [In Color](https://open.spotify.com/album/1zaPltMj4aX8iqlCK1SGeV) | 2:40 |
-| 50 | [When The Night Ends](https://open.spotify.com/track/02uWohnSysSgopNzDSPx2o) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [When The Night Ends](https://open.spotify.com/album/1WBSGNS1Fnz9G2LgXWl40v) | 3:10 |
+| 50 | [WHEN THE NIGHT ENDS](https://open.spotify.com/track/02uWohnSysSgopNzDSPx2o) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [WHEN THE NIGHT ENDS](https://open.spotify.com/album/1WBSGNS1Fnz9G2LgXWl40v) | 3:10 |
 | 51 | [JUST US TWO](https://open.spotify.com/track/5tToDx5ba3X0vbtWjjvZ9S) | [Dinah Jane](https://open.spotify.com/artist/59KQTERLpPa7M0F25fRH6V) | [JUICE COUNTY: VOLUME 1](https://open.spotify.com/album/5MSxvWNa1LkE9rID29PT85) | 2:42 |
 | 52 | [Pigs Fly](https://open.spotify.com/track/6RMkmCxqiF7MDluGxqE2S1) | [Oda Loves You](https://open.spotify.com/artist/1SPo0Gb7MLOZRbrpnj4ybr) | [Pigs Fly](https://open.spotify.com/album/4tR9OcHgtC4ToKwFfN26fE) | 3:06 |
 | 53 | [Rose Without The Thorns](https://open.spotify.com/track/6gMnLQjyIRyPqIeKx43Q6x) | [Scott Hoying](https://open.spotify.com/artist/72Q6lRKiVLErS4QjuZxsDG), [säje](https://open.spotify.com/artist/7iitvSs52z6e7UvIo2LCYi), [Tonality](https://open.spotify.com/artist/5pcicNTH7aIJujRAA7WFXg) | [Rose Without The Thorns](https://open.spotify.com/album/4g8Rp0NmAGcfIJ5N6Acmkf) | 3:48 |

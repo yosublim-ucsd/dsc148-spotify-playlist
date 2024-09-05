@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Jordan Susanto",
-  "num_followers": 1326178,
+  "num_followers": 1326739,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtTx8AAAAAAbaR7xaTou1vJZnqyGkTrU",
+  "snapshot_id": "ZtfK/gAAAAAVwqNdX9q9kXM/x74dmI2+",
   "tracks": [
     {
       "added_at": "2024-09-01 23:00:00",
@@ -39,6 +39,26 @@
       "duration_ms": 182903,
       "name": "Untungnya, Hidup Harus Tetap Berjalan",
       "url": "https://open.spotify.com/track/2gcMYiZzzmzoF8PPAfL3IO"
+    },
+    {
+      "added_at": "2024-09-04 02:50:38",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
       "added_at": "2024-09-01 23:00:00",
@@ -839,6 +859,26 @@
       "duration_ms": 73918,
       "name": "doodle",
       "url": "https://open.spotify.com/track/4Xfp9BcKrKYmxJPxn68Yb8"
+    },
+    {
+      "added_at": "2024-09-04 02:50:38",
+      "album": {
+        "name": "New Woman (feat. ROSAL\u00cdA)",
+        "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        },
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 179789,
+      "name": "New Woman (feat. ROSAL\u00cdA)",
+      "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
       "added_at": "2024-09-01 23:00:00",

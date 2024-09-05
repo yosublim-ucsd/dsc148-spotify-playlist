@@ -4,7 +4,7 @@
 
 > Det bedste nye pop ❣️ Drew Sycamore ❣️
 
-176 songs - 8 hr 59 min
+178 songs - 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Devil Mode](https://open.spotify.com/track/6qoLE0fGOkA8qyFAS27g9c) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Devil Mode](https://open.spotify.com/album/2BGKztt6hybqY9C5GMcpUf) | 3:04 | 2024-06-27 | 2024-08-30 |
 | [Didn't I](https://open.spotify.com/track/7599XbTuLgp7SD3tAhpw1C) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [Didn't I](https://open.spotify.com/album/0oTqVOIOmBbLQskSoVHXKC) | 2:50 | 2024-07-11 |  |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-15 |  |
+| [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-09-04 |  |
 | [Discoteca](https://open.spotify.com/track/2MktwCE2h7aodPJDX8qjSX) | [Scarlet Pleasure](https://open.spotify.com/artist/7wrulS1dfanckBnoxxEuS6) | [Discoteca](https://open.spotify.com/album/6Fefsj0yN8ponEZSJ0yNij) | 2:29 | 2024-06-27 |  |
 | [don't forget about me](https://open.spotify.com/track/7zrGDodwUZ2yU0ZgzV78DF) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [don't forget about me](https://open.spotify.com/album/0fVIxgVxPzOVs1vLO7ZZEa) | 2:52 | 2024-06-27 | 2024-08-30 |
 | [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2024-08-30 |
@@ -77,6 +78,7 @@
 | [Hammer to the Heart](https://open.spotify.com/track/0IdwfnHFfyb7zc7GFs75QQ) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1.5\)](https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH) | 3:12 | 2024-06-27 | 2024-07-30 |
 | [held og lykke](https://open.spotify.com/track/4cVS7RykoCGMv85pwDE6i5) | [SASO](https://open.spotify.com/artist/1i1xNUxNNcy0pgHVHq5oF6) | [held og lykke](https://open.spotify.com/album/0rZffjzPmTvGc6I9nWD4dR) | 3:09 | 2024-06-27 |  |
 | [Hero](https://open.spotify.com/track/5TTyyKNJZHONhjtAiXL1nG) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Hero](https://open.spotify.com/album/62wSbbJY50qycn9uBP4rIC) | 3:16 | 2024-06-27 | 2024-08-30 |
+| [HOMESICK](https://open.spotify.com/track/1LgtiOd4QwvRSrY6ebiaSW) | [Jhon Allan](https://open.spotify.com/artist/2ktaLonDF6CapHBx6IP1vS) | [HOMESICK](https://open.spotify.com/album/5z6Aa2gtISXvVSzrb1ZlYH) | 2:49 | 2024-09-04 |  |
 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/1xIhiVVntsudPMTRFoODyo) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/album/0xyf39pFfwPDJYHCIAxjVF) | 3:47 | 2024-06-27 | 2024-08-30 |
 | [HONEY IM HOME](https://open.spotify.com/track/4dztGCRXZC4hE5By2E2MqD) | [HUGORM](https://open.spotify.com/artist/2MaqdTB8EUuYLUPDJipWG2) | [HONEY IM HOME](https://open.spotify.com/album/78GULFSix9Ukfypf8XMXQk) | 2:53 | 2024-08-22 |  |
 | [Hot Fever Dream](https://open.spotify.com/track/3bivI0NycEM5Q9uzfmFulF) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hot Fever Dream](https://open.spotify.com/album/43hFtKcoKhHpJndFac4O1j) | 2:27 | 2024-06-27 | 2024-08-09 |

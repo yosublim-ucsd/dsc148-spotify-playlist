@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere\.  Cover: Grace Power
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,445 likes - 110 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,422 likes - 110 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

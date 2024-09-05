@@ -3487,6 +3487,24 @@
     },
     {
       "album": {
+        "name": "Le Musk (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/31xnft6hKf7Rt5AbB2YGYR"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168372,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/0IKJfr52GxTTEJUwJD4wnI"
+    },
+    {
+      "album": {
         "name": "Spaceman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1hdVK33BZMAAtFM428XGqr"
       },

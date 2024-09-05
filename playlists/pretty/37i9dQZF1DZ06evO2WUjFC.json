@@ -1,12 +1,12 @@
 {
-  "description": "This is Danny Felix. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 790,
+  "description": "This is Danny Felix. The essential tracks, all in one playlist.",
+  "num_followers": 789,
   "original_name": "This Is Danny Felix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADd7GTxcnY7F4PdQF2AM0v7",
+  "snapshot_id": "ZtZRgAAAAAC9/Vb3Td57BW5P34ElDZqd",
   "tracks": [
     {
       "added_at": null,
@@ -467,18 +467,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO TE VAYAS",
-        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
+        "name": "TUMBADO STYLE",
+        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        },
+        {
+          "name": "Brandon Reyes y Elvin",
+          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 198973,
-      "name": "NO TE VAYAS",
-      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
+      "duration_ms": 230853,
+      "name": "BANDIDOS",
+      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
     },
     {
       "added_at": null,
@@ -503,22 +507,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "TUMBADO STYLE",
-        "url": "https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7"
+        "name": "NO TE VAYAS",
+        "url": "https://open.spotify.com/album/5pdbBSD9DXBPzquZ0g5RxL"
       },
       "artists": [
         {
           "name": "Danny Felix",
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        },
-        {
-          "name": "Brandon Reyes y Elvin",
-          "url": "https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq"
         }
       ],
-      "duration_ms": 230853,
-      "name": "BANDIDOS",
-      "url": "https://open.spotify.com/track/3HFpZKFhuaKGAoG3syVTMi"
+      "duration_ms": 198973,
+      "name": "NO TE VAYAS",
+      "url": "https://open.spotify.com/track/0K7Zwhax5MtOrNTWHq7l0r"
     },
     {
       "added_at": null,
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 277773,
-      "name": "Me Gusta Tener De a Dos (Live)",
-      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
+      "duration_ms": 362306,
+      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
+      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
     },
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 362306,
-      "name": "Ya Est\u00e1n Cantando Los Gallos (Live)",
-      "url": "https://open.spotify.com/track/7M0ai5eJ5f301qH51XZcjp"
+      "duration_ms": 277773,
+      "name": "Me Gusta Tener De a Dos (Live)",
+      "url": "https://open.spotify.com/track/0m0GnKmfUFDWz84D7h9ogx"
     },
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Todo Tuyo (En Vivo)",
+        "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "duration_ms": 195666,
+      "name": "Soy Todo Tuyo - En Vivo",
+      "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Negra a Negra",
         "url": "https://open.spotify.com/album/7LCKyNYcDIA6pHGmGxxuGp"
       },
@@ -787,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soy Todo Tuyo (En Vivo)",
-        "url": "https://open.spotify.com/album/7KO6eGq5GgbuGef7jXS4OK"
+        "name": "Live, Cumbia Style",
+        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
       },
       "artists": [
         {
@@ -796,15 +812,15 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 195666,
-      "name": "Soy Todo Tuyo - En Vivo",
-      "url": "https://open.spotify.com/track/7mQrIbmgWDpB9zmkTeot98"
+      "duration_ms": 152000,
+      "name": "La Cadenita (Live)",
+      "url": "https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g"
     },
     {
       "added_at": null,
       "album": {
-        "name": "LOS CHISMES",
-        "url": "https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX"
+        "name": "Con La Cochi (En Vivo)",
+        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
       },
       "artists": [
         {
@@ -812,9 +828,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 175346,
-      "name": "LOS CHISMES",
-      "url": "https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv"
+      "duration_ms": 145160,
+      "name": "Los Botones Azules - En Vivo",
+      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
     },
     {
       "added_at": null,
@@ -835,8 +851,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live, Cumbia Style",
-        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
+        "name": "LOS CHISMES",
+        "url": "https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX"
       },
       "artists": [
         {
@@ -844,9 +860,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 152000,
-      "name": "La Cadenita (Live)",
-      "url": "https://open.spotify.com/track/6rekTj3LwYOz9C4C2Tcz7g"
+      "duration_ms": 175346,
+      "name": "LOS CHISMES",
+      "url": "https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv"
     },
     {
       "added_at": null,
@@ -887,22 +903,6 @@
       "duration_ms": 223573,
       "name": "LA VIDA",
       "url": "https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Con La Cochi (En Vivo)",
-        "url": "https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi"
-      },
-      "artists": [
-        {
-          "name": "Danny Felix",
-          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
-        }
-      ],
-      "duration_ms": 145160,
-      "name": "Los Botones Azules - En Vivo",
-      "url": "https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb"
     },
     {
       "added_at": null,
@@ -963,8 +963,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Y.T.L.S.V.",
-        "url": "https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq"
+        "name": "Live, Cumbia Style",
+        "url": "https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5"
       },
       "artists": [
         {
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
         }
       ],
-      "duration_ms": 223653,
-      "name": "QUI\u00c9REME",
-      "url": "https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj"
+      "duration_ms": 269000,
+      "name": "Cumbia Del Sol (Live)",
+      "url": "https://open.spotify.com/track/4fFYHKUjGm1f8xH1XRCLGN"
     }
   ],
   "unique_name": "This Is Danny Felix",

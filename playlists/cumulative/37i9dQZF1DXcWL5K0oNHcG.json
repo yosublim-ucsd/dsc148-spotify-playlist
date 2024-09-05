@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "Islands",
+        "url": "https://open.spotify.com/album/104XBjVffKSbgBhpBHP7zs"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162716,
+      "name": "(being) around you",
+      "url": "https://open.spotify.com/track/5P4I2e4mSyCdyKxMdLnyai"
+    },
+    {
+      "album": {
         "name": "(If You Don\u2019t Leave) The City Will Kill You",
         "url": "https://open.spotify.com/album/2NDA4o8vqNr0IpwHJIUPXJ"
       },
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 264401,
       "name": "Alibi",
       "url": "https://open.spotify.com/track/210XOuA7O7WmFggY5L5HyB"
@@ -1704,7 +1722,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 243457,
       "name": "April In Paris",
       "url": "https://open.spotify.com/track/2mBmDzFH3ysQoZM6eEYh0X"
@@ -9032,7 +9050,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 208450,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/2K0iWOM2xNgdTymhkCbYJf"
@@ -9434,6 +9452,24 @@
       "duration_ms": 265320,
       "name": "Forza Roma",
       "url": "https://open.spotify.com/track/4pL7irNSSCs6HpfEXsrEL2"
+    },
+    {
+      "album": {
+        "name": "Four Flights to Fibs",
+        "url": "https://open.spotify.com/album/0EY2T0dzaS7NdBGY0qmAQ3"
+      },
+      "artists": [
+        {
+          "name": "Littlefingers",
+          "url": "https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228491,
+      "name": "Four Flights to Fibs",
+      "url": "https://open.spotify.com/track/339mditL5UwdFiPbUsBOa0"
     },
     {
       "album": {
@@ -14846,6 +14882,24 @@
       "duration_ms": 339906,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3ZEDt1u84XttGSvJJL5xDF"
+    },
+    {
+      "album": {
+        "name": "LOVE CAME SO EASILY",
+        "url": "https://open.spotify.com/album/1srXTat2QuIrACT3ilvTla"
+      },
+      "artists": [
+        {
+          "name": "SISICA",
+          "url": "https://open.spotify.com/artist/6ZxNkk8ek1Ho5qNxnYNH9D"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184076,
+      "name": "LOVE CAME SO EASILY",
+      "url": "https://open.spotify.com/track/5XgHLkdBZ2Fjbmc8FgoFoK"
     },
     {
       "album": {
@@ -22043,6 +22097,24 @@
     },
     {
       "album": {
+        "name": "Shifting Sands",
+        "url": "https://open.spotify.com/album/3S09ovtnNONO6xTL3AH8sO"
+      },
+      "artists": [
+        {
+          "name": "Kinkajous",
+          "url": "https://open.spotify.com/artist/2b5G9b0cY3bbzJf1QKdtez"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354352,
+      "name": "Shifting Sands",
+      "url": "https://open.spotify.com/track/1s2zS5rGcfMcEuoZee4tgd"
+    },
+    {
+      "album": {
         "name": "Shinkansen",
         "url": "https://open.spotify.com/album/16mvPF24jJc5dafWR6S0QC"
       },
@@ -24326,6 +24398,24 @@
     {
       "album": {
         "name": "Sweet",
+        "url": "https://open.spotify.com/album/44KGQSJH1CfifwIMpQ9U76"
+      },
+      "artists": [
+        {
+          "name": "Cassidy Place",
+          "url": "https://open.spotify.com/artist/3FZveyZUO7UrcjpYiqtj54"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94434,
+      "name": "Sweet",
+      "url": "https://open.spotify.com/track/3U5BPOrzioSPevnkFSLVA6"
+    },
+    {
+      "album": {
+        "name": "Sweet",
         "url": "https://open.spotify.com/album/6m9yxPcpMpKTp24ZTiZleI"
       },
       "artists": [
@@ -25864,7 +25954,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 134793,
       "name": "The Sum Of All The Parts",
       "url": "https://open.spotify.com/track/3fWZ6GqCGuv2xtGVdQbAJP"
@@ -29266,7 +29356,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 285600,
       "name": "Wings Of Submission",
       "url": "https://open.spotify.com/track/6Xg6glWN4QBM1I6nO0qrrn"

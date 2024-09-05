@@ -1,12 +1,12 @@
 {
   "description": "This is Sarkodie. The essential tracks, all in one playlist.",
-  "num_followers": 11222,
+  "num_followers": 11230,
   "original_name": "This Is Sarkodie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAWRiRQEQFvKDRExGFxpmlP",
+  "snapshot_id": "ZtZRgAAAAAAsWG6DZs7Uvh3DeD0tZ1WI",
   "tracks": [
     {
       "added_at": null,
@@ -231,26 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
-      },
-      "artists": [
-        {
-          "name": "Praiz",
-          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
-        },
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Me and You",
-      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adonai (Remix) [feat. Castro]",
         "url": "https://open.spotify.com/album/4xXYqG9l4l7XmuxrNebCyY"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 288130,
       "name": "Adonai (Remix) [feat. Castro]",
       "url": "https://open.spotify.com/track/6y4nqlHb6WXmHkv3Pa7n3P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/2NurBGrvfdiNz5GnzvYh1u"
+      },
+      "artists": [
+        {
+          "name": "Praiz",
+          "url": "https://open.spotify.com/artist/41MWgwfjzWDupE1i0OUghd"
+        },
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Me and You",
+      "url": "https://open.spotify.com/track/73gG9GzysDFMjiLvFG1WHI"
     },
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 100362,
+      "name": "CONFETTI",
+      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 100362,
-      "name": "CONFETTI",
-      "url": "https://open.spotify.com/track/6h4RT6Vwb9bo8agXsFVqlW"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        }
+      ],
+      "duration_ms": 187922,
+      "name": "LOYALTY",
+      "url": "https://open.spotify.com/track/5HVada5wfaycUQnf6OFZkI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happy Day",
         "url": "https://open.spotify.com/album/4qJhOsV4i9fi8blINlt8Qk"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 212932,
       "name": "Happy Day",
       "url": "https://open.spotify.com/track/2CwQ6rEsoirjV8nu33BVyy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        }
-      ],
-      "duration_ms": 187922,
-      "name": "LOYALTY",
-      "url": "https://open.spotify.com/track/5HVada5wfaycUQnf6OFZkI"
     },
     {
       "added_at": null,
@@ -759,26 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sarkology",
-        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Burna Boy N Aka",
-          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
-        }
-      ],
-      "duration_ms": 258964,
-      "name": "Special Sumone (feat. Burna Boy n Aka)",
-      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Championship",
         "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 273256,
       "name": "X",
       "url": "https://open.spotify.com/track/5ixH9djj6liGfZB4scbjRF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sarkology",
+        "url": "https://open.spotify.com/album/1FUPZGZNwvXHj5F5M8UTOb"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Burna Boy N Aka",
+          "url": "https://open.spotify.com/artist/4bYmtZBkPlKEP2sUV5ZQMM"
+        }
+      ],
+      "duration_ms": 258964,
+      "name": "Special Sumone (feat. Burna Boy n Aka)",
+      "url": "https://open.spotify.com/track/7iwOlLnaysT2Z92dx3PTio"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Homicide",
+        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        }
+      ],
+      "duration_ms": 183477,
+      "name": "Homicide",
+      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vawulence (Remix)",
         "url": "https://open.spotify.com/album/1hkosTcAidMQWeEdYgMEri"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 174315,
       "name": "Vawulence (Remix)",
       "url": "https://open.spotify.com/track/26zrOWI3JO2y0grY3UyTGj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homicide",
-        "url": "https://open.spotify.com/album/48AoFYGD47IgoGp0EA3x81"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        }
-      ],
-      "duration_ms": 183477,
-      "name": "Homicide",
-      "url": "https://open.spotify.com/track/7apx56XH17e6lBtG2bJ7Mt"
     },
     {
       "added_at": null,
@@ -1019,22 +1019,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Africa Unite",
-        "url": "https://open.spotify.com/album/5wk8v3DlfVtW5ZV5IOAiEY"
+        "name": "Highest",
+        "url": "https://open.spotify.com/album/7JpG1FNBJsXsmhrmCGV1Au"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
           "name": "Sarkodie",
           "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Yung L",
+          "url": "https://open.spotify.com/artist/5jW1p6bav4DYihIHewKBCq"
         }
       ],
-      "duration_ms": 221053,
-      "name": "Stir It Up",
-      "url": "https://open.spotify.com/track/7h35uAmKtfoUwTiUhHkmjs"
+      "duration_ms": 201750,
+      "name": "Glory",
+      "url": "https://open.spotify.com/track/5KLFqxmGAZKj3HpGzExiZR"
     }
   ],
   "unique_name": "This Is Sarkodie",

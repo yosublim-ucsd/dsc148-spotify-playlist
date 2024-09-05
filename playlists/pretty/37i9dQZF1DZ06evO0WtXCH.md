@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 
 ### [This Is Quicksand](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WtXCH)
 
-> This is Quicksand\. The essential tracks, all in one playlist.
+> This Is Quicksand\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,148 likes - 28 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151 likes - 28 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 2 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
 | 3 | [Lightning Field](https://open.spotify.com/track/76EZdckv7V2EIyvSu6hpx8) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 2:23 |
 | 4 | [Cosmonauts](https://open.spotify.com/track/0IAF0KIM3Cnp7WhOVJfFuS) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 4:08 |
-| 5 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
+| 5 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
 | 6 | [Backward](https://open.spotify.com/track/3OzXhpTO6Y3aDH7OzFAIbg) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 1:43 |
 | 7 | [Brushed](https://open.spotify.com/track/16Zjiyrktq6QBnwXF2lDTv) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:35 |
 | 8 | [Illuminant](https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:53 |
-| 9 | [Lie And Wait](https://open.spotify.com/track/6eLn8XKQQbt1GHAwZcg4Wp) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 2:32 |
+| 9 | [Dine Alone](https://open.spotify.com/track/27X1P8USDRbZ5RNjbbQ9d1) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Slip](https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp) | 3:27 |
 | 10 | [Landmine Spring](https://open.spotify.com/track/4kqAUoDhmGzFw8BCl2X5vA) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 3:40 |
 | 11 | [Colossus](https://open.spotify.com/track/2nxTdYXI2XnscHguTOseg7) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Distant Populations](https://open.spotify.com/album/616nwZda5YwqxLfX8rZciA) | 3:18 |
 | 12 | [Warm And Low](https://open.spotify.com/track/57yUjPDCY10YUcXLhUFY4F) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:48 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0WtXCH.md) - [plain]
 | 27 | [Giving The Past Away](https://open.spotify.com/track/3RfK7XioFJ4ZDZSIb4cQzm) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Giving The Past Away](https://open.spotify.com/album/7qBUAfoQWv76k8I1Gi7pBc) | 3:31 |
 | 28 | [Spoken Through Clouds](https://open.spotify.com/track/5fmbZlkalVRdnXklTnnI3G) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Triptych Continuum](https://open.spotify.com/album/2o6B7VhjL5tgbAa4c4ukK0) | 3:07 |
 
-Snapshot ID: `ZtUAAAAAAACOVnQloWKkBPcizr8bL6vt`
+Snapshot ID: `ZtZRgAAAAACxfRMCIJnytm4OYuFeRn3c`

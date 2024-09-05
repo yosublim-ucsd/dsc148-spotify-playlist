@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,547 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,617 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 71 | [Mojik \(Your Waves\)](https://open.spotify.com/track/1GFcIhsm65DXpeWo9JLT9S) | [Fatima Al Qadiri](https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN) | [Mojik \(Your Waves\)](https://open.spotify.com/album/1XpqQ8QN4Cxq23yChIiDt1) | 3:13 |
 | 72 | [Signal \(Maral Remix\)](https://open.spotify.com/track/0hRjNutbJnMSjsSzP6XwyD) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU), [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [Signal Remixes](https://open.spotify.com/album/5Plx7Zi9lHnIDUq9HwkaeQ) | 3:38 |
 | 73 | [Selalu](https://open.spotify.com/track/5x5VcM4mz5bqBRjz9Mwg32) | [Tarawangsawelas](https://open.spotify.com/artist/4Wx6IGLGk4cI3HtL3114il) | [Wanci](https://open.spotify.com/album/4wjoTcychTa05MTJOCfDaS) | 5:44 |
-| 74 | [lover's spit plays in the background](https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [lover's spit plays in the background](https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A) | 4:02 |
-| 75 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
+| 74 | [Mind Era](https://open.spotify.com/track/7ikwHilKD3pDtp9tcLTeCn) | [Aïsha Devi](https://open.spotify.com/artist/4RtrEYqj2bINZ2HXWUG3j4) | [Death Is Home](https://open.spotify.com/album/5HO1N4upxkWKuO3hdB4d2m) | 4:32 |
+| 75 | [lover's spit plays in the background](https://open.spotify.com/track/5S4mmPMYsszspSn1tnLx9E) | [claire rousay](https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq) | [lover's spit plays in the background](https://open.spotify.com/album/57GtrV4S6DmQHCIH38xi2A) | 4:02 |
 
 Snapshot ID: `Zsfo0wAAAAAS2y6vNgaNUigmWSjGUKIX`

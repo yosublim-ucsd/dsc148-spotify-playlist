@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,861 likes - 43 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,907 likes - 43 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 25 | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/track/0I053rrkNW20iX8wlvoctY) | [Vijai Bulganin](https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx) | [Vaishnavi Celebration Dance \(From "Baby"\)](https://open.spotify.com/album/3IXz0KiwMcNuwqh4ntRakn) | 1:28 |
 | 26 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 27 | [Stranger in Black \- Theme Song](https://open.spotify.com/track/0PIRM1sf42d0BvnMIQuaKx) | [Sunitha Sarathy](https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B), [Chennai Chorale](https://open.spotify.com/artist/35oks2waDWUhJqH4Lodvcu) | [Aparichitudu \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2LscBzYzac0rt3i2FMmgtw) | 2:44 |
-| 28 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
+| 28 | [Agni Skalana](https://open.spotify.com/track/547drAxnHv6qRwvJMceREO) | [M\. M\. Keeravaani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR), [Mathangi](https://open.spotify.com/artist/1FLKLH0gwcm3HOkQopsn9t) | [Chatrapathi](https://open.spotify.com/album/5xvwlDPbWYpTSeWdBJf2oX) | 3:09 |
 | 29 | [Bheemla Back On Duty](https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vaishnavi kovvuri](https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i), [Pratyusha pallapothu](https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC), [Rachitha Rayaprolu](https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx), [Parnika Manya](https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Bheemla Nayak](https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V) | 4:02 |
 | 30 | [Theme of Gharshanaa](https://open.spotify.com/track/4uGnRhL3ZKDyTmLaDD0kMP) | [Harris Jayaraj](https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l) | [Gharshanaa](https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx) | 2:17 |
 | 31 | [Shock Theme](https://open.spotify.com/track/08VzrRcQmO0qM8oWni6iag) | [Ajay Gogavale](https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI) | [Shock](https://open.spotify.com/album/3ebPed5NGhVmrk6fn99Mpk) | 2:29 |

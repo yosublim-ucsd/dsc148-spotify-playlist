@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: bbno$
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,950 likes - 125 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,008 likes - 125 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 5 | [Receipts \(feat\. Gunna\)](https://open.spotify.com/track/5fiKIc9nFfSt1FsBHrSvWZ) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Receipts \(feat\. Gunna\)](https://open.spotify.com/album/44hwz3eFAgDFt5NzOtBaqd) | 3:54 |
 | 6 | [Boost Up](https://open.spotify.com/track/07Sm4SlYGZ4CRSxgwP3hUr) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Boost Up](https://open.spotify.com/album/58koXuocSFzeYdnmC4gyFK) | 3:31 |
 | 7 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |
-| 8 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 8 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 | 9 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 |
 | 10 | [Satellite](https://open.spotify.com/track/3tHCG0ISOA0pXscIdNrJml) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Satellite](https://open.spotify.com/album/07VhUtgyRdGGmMeo5lN5CW) | 3:25 |
 | 11 | [Black Ice](https://open.spotify.com/track/1oacAKa5ReNOfuqaJ1gdBJ) | [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw) | [Black Ice](https://open.spotify.com/album/24bVVflh1w44yZSCZBtMME) | 4:20 |

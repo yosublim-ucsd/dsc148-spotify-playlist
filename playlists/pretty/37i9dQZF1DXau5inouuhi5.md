@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 
 > Listen to music and soundtrack from Kingdom Hearts series\. PC\(Steam®\)版『キングダム ハーツ』シリーズ発売記念。シリーズ作品のサウンドトラックを聴いて作品の思い出を振り返ろう。 © Disney.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,916 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,031 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXau5inouuhi5.md) - [plain]
 | 58 | [TWISTER \- KINGDOM MIX\-](https://open.spotify.com/track/0e6hypDvqFjgvbRJ0SkQNM) | [Stephanie](https://open.spotify.com/artist/2WayJxPpG3Ib63CpVIlBsm) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 4:49 |
 | 59 | [Traverse in Trance](https://open.spotify.com/track/1slaGJz8z1MVoU06YUZJf8) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 4:53 |
 | 60 | [Dream Eaters](https://open.spotify.com/track/212ZV7m1vm0fGWZUtjccqp) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 2:58 |
-| 61 | [CALLING \- KINGDOM MIX\-](https://open.spotify.com/track/02bQaj0w7d8sEYeZ9y2yKo) | [OLIVIA](https://open.spotify.com/artist/0r4SuP92ATT2wpKCT7blnM) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 4:03 |
+| 61 | [CALLING \- KINGDOM MIX\-](https://open.spotify.com/track/02bQaj0w7d8sEYeZ9y2yKo) | [OLIVIA](https://open.spotify.com/artist/4GU9tZJECz9Emc0oeEI5bG) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 4:03 |
 | 62 | [SOMEDAY \- KINGDOM MIX\-](https://open.spotify.com/track/2plKL3aKTsUJ6qUQ7yxGWh) | [Stephanie](https://open.spotify.com/artist/2WayJxPpG3Ib63CpVIlBsm) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 4:52 |
 | 63 | [The World of Dream Drops](https://open.spotify.com/track/5y29tYa5aKgCAh0LijRJ4X) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 2:21 |
 | 64 | [The Dream](https://open.spotify.com/track/736a9kJuUawAj3rcSFXryd) | [Yoko Shimomura](https://open.spotify.com/artist/2uDsUIyCIqk9wKj17I8WAH) | [KINGDOM HEARTS Dream Drop Distance \- Original Soundtrack](https://open.spotify.com/album/6upYKLGSXNnI8W53QwBJoG) | 2:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 60708,
+  "num_followers": 60776,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -1691,6 +1691,22 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
+        "name": "Aquarius/Pisces",
+        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+      },
+      "artists": [
+        {
+          "name": "Ekin Fil",
+          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Pisces",
+      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
         "name": "And You Know I Care",
         "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
@@ -1707,18 +1723,18 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Aquarius/Pisces",
-        "url": "https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W"
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
       "artists": [
         {
-          "name": "Ekin Fil",
-          "url": "https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Pisces",
-      "url": "https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N"
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1739,22 +1755,6 @@
       "duration_ms": 96450,
       "name": "Clotho",
       "url": "https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2024-08-30 04:00:00",

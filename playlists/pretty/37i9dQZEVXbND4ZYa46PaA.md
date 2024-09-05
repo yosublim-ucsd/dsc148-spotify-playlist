@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belgium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,672 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,677 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbND4ZYa46PaA.md) - [plain]
 | 49 | [Bah Ouais \- Nouvelle École](https://open.spotify.com/track/2PYMw8P6kuCHqhltz47XMr) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Nouvelle École \| Saison 3 \| La Finale \(Série Netflix\)](https://open.spotify.com/album/44DbOJw5YJTV9iBM1vsh7F) | 3:21 |
 | 50 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 
-Snapshot ID: `Lmp5SAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmvKyAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 
 > This is 林ゆうき\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,441 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,443 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,24 +22,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 12 | [まったりとした日常](https://open.spotify.com/track/2NHzJwUGKcAIL72WbMETk8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ボールルームへようこそ』オリジナルサウンドトラック](https://open.spotify.com/album/3C3pGhgf6bEHazFLYbDBwk) | 2:28 |
 | 13 | [君の力](https://open.spotify.com/track/2sUwFqwbQwS8dfT3gbfKVZ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:53 |
 | 14 | [Wistoria: Wand and Sword](https://open.spotify.com/track/3IHDAxWfAlM2FQ8Pp31AHO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の壱](https://open.spotify.com/album/78nqHhROUNGaF7HG6buFdD) | 4:03 |
-| 15 | [真っ向勝負](https://open.spotify.com/track/0qJ7OecpYupx360N8havQm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:56 |
-| 16 | [The Demon Lord](https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Pre\-Release Soundtrack\)](https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy) | 3:10 |
+| 15 | [The Demon Lord](https://open.spotify.com/track/6gsulI9GDDaXrBRChQdmOj) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: Season 7 \(Original Pre\-Release Soundtrack\)](https://open.spotify.com/album/5RWOdk6MQhq7EQYRdbt3cy) | 3:10 |
+| 16 | [真っ向勝負](https://open.spotify.com/track/0qJ7OecpYupx360N8havQm) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.2\)](https://open.spotify.com/album/54yg1VofNhuje44hH5ySea) | 2:56 |
 | 17 | [君はヒーローになれる](https://open.spotify.com/track/1Cdz1ehTv3zCKqmGbPI2Vo) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 2:56 |
 | 18 | [Goggles](https://open.spotify.com/track/1Xr2Hmtg9FTvCWQUhsAenT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の弐](https://open.spotify.com/album/5j01P8nr13z6kGfUrqMS51) | 2:54 |
 | 19 | [大人たち](https://open.spotify.com/track/2cldiPnH3DGMbXUmXZ58OU) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 1:40 |
 | 20 | [ハイキュー!!](https://open.spotify.com/track/5zjO7yPF7xRUA4APAvxjV8) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 3:54 |
 | 21 | [暴走する悪意](https://open.spotify.com/track/0u1McmvpOZsUIjIvhmm4fM) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 1:52 |
 | 22 | [Calculated Prowess](https://open.spotify.com/track/52B6mvouFX55fJ10eHPWpL) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『杖と剣のウィストリア』音楽抄録 其の肆](https://open.spotify.com/album/1IxnwQ5bcezPF7fLJ7l7dR) | 2:07 |
-| 23 | [All Might with U.A\. Students](https://open.spotify.com/track/59h3i22MBicerNR1llNXqv) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:29 |
-| 24 | [バケモンたちの宴](https://open.spotify.com/track/6UgPcdNdyLK96zqKs7nBCT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 3:25 |
+| 23 | [バケモンたちの宴](https://open.spotify.com/track/6UgPcdNdyLK96zqKs7nBCT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 3:25 |
+| 24 | [All Might with U.A\. Students](https://open.spotify.com/track/59h3i22MBicerNR1llNXqv) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 2:29 |
 | 25 | [悔しさ](https://open.spotify.com/track/6ZIQnW2s2v6w3iHG8ELt7B) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:40 |
 | 26 | [熱\(ひだり\)は絶対使わねえ](https://open.spotify.com/track/4SAnyLkFJUhq3YPdELqv0j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 2:00 |
-| 27 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 |
-| 28 | [雑食](https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:39 |
+| 27 | [雑食](https://open.spotify.com/track/1ndLmZB3Kom7Q7EdJHWDRa) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!! セカンドシーズン』オリジナル・サウンドトラック \(Vol.1\)](https://open.spotify.com/album/0QUKlTBDQczWoXUKvNYF8Z) | 2:39 |
+| 28 | [Trinity](https://open.spotify.com/track/0DllV6dwG26PTq513ZzUqY) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 1:18 |
 | 29 | [神業速攻](https://open.spotify.com/track/78PkKrhnqhbiYWOyPRYD3E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 2:53 |
 | 30 | [三位一体](https://open.spotify.com/track/029gE0tJnnOfGNoV0d4I5C) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「僕のヒーローアカデミア」 2nd オリジナル･サウンドトラック](https://open.spotify.com/album/45dUggEwLrNKqgCJuMgRrR) | 3:44 |
-| 31 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 |
-| 32 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 |
+| 31 | [Go Straight!](https://open.spotify.com/track/6FB9Fhfjx5NJETCcCyzRgb) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia: World Heroes' Mission \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25LhTa5jwYofUu9qMLrijW) | 1:53 |
+| 32 | [2 Heros](https://open.spotify.com/track/5OvaF7T4vGcbKnE9rRaTFQ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [『僕のヒーローアカデミア』2018 オリジナルサウンドトラック](https://open.spotify.com/album/09rMYCfyxxknNP9NmrqmNw) | 3:26 |
 | 33 | [Might](https://open.spotify.com/track/6YD0zF5VFBXvwmQqAlZWnE) | [Makayla Phillips](https://open.spotify.com/artist/3jWmy4ZEloWRoAiMiHI9f7), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 5:43 |
 | 34 | [敗者](https://open.spotify.com/track/4vRbvyWLU5Salwd9RYous6) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック](https://open.spotify.com/album/4KYMA3QiGbqcHh0GPIT6Bo) | 2:42 |
 | 35 | [カモメ](https://open.spotify.com/track/0dNliW8cZpIhwE9ZV1suFD) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『ハイキュー!!TO THE TOP』オリジナル・サウンドトラック](https://open.spotify.com/album/1WWNN8hEJjPZ80lrG8rxbh) | 2:05 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YiLbd.md) - [plain]
 | 50 | [moonlit night](https://open.spotify.com/track/6ebH5PH2IzMkAx2aLoh1dJ) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Death Parade Original Soundtrack](https://open.spotify.com/album/22MVfh0OuAn8dv8nWn438G) | 4:40 |
 | 51 | [強くなれ](https://open.spotify.com/track/1lxtWPkY7QaSxvwG2Szl2E) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ「ハイキュー!!」 オリジナルサウンドトラック 2](https://open.spotify.com/album/1aO6rB7SrbcwStQuaC0X78) | 3:10 |
 
-Snapshot ID: `ZtUAAAAAAADVMiq6cyvWhkJNj2OUNrQu`
+Snapshot ID: `ZtZRgAAAAAD1Dn5aIdNKz/5tCzULpfr5`

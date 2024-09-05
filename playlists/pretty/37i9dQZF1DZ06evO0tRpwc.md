@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. The essential tracks, all in one playlist.
+> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,980 likes - 51 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,980 likes - 51 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 9 | [Mi Jesús](https://open.spotify.com/track/2w84WTatORJJTPLFqeTIlO) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Mi Jesús](https://open.spotify.com/album/7ac4ykr2GHuMYc29l6QzHx) | 4:20 |
 | 10 | [Guia\-Me](https://open.spotify.com/track/3ysiBzk8LiZaik65dHuqDh) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 3:57 |
 | 11 | [Não Fale \(feat\. Daniela Araújo\)](https://open.spotify.com/track/0CYLRw7EaHlDmbsX15HzUI) | [Os Arrais](https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Mais](https://open.spotify.com/album/4s3DJODPpSqMtiC5rARb0Y) | 3:23 |
-| 12 | [Party Love](https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X) | 3:16 |
-| 13 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
+| 12 | [Cicatrizes](https://open.spotify.com/track/1cHIMrCWPWCAgnFeG7URQp) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Cicatrizes](https://open.spotify.com/album/11wqz4WKKxY68CDLihmEwl) | 3:35 |
+| 13 | [Party Love](https://open.spotify.com/track/0SXNLVcim7labm8IkyyyrI) | [Kev Miranda](https://open.spotify.com/artist/5mAsjDDm81xwtAbB6TrWVR), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [DOMINICO GONZALEZ](https://open.spotify.com/artist/72zhW2gZnxEz4jKsutwSLw) | [Party Love](https://open.spotify.com/album/7yiznDGtQNJPDxsiQZVY0X) | 3:16 |
 | 14 | [Jugo Suave](https://open.spotify.com/track/0RMiTd0mlAeSK94yk3BHKj) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:21 |
 | 15 | [Desejo do Meu Coração \- Ao Vivo](https://open.spotify.com/track/56YKz3uWPr5Pnj1itFWUsP) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [15 Anos \(ao Vivo\)](https://open.spotify.com/album/6FqbT28o6hDsjrwq3WpS9V) | 6:01 |
 | 16 | [Criador do Mundo](https://open.spotify.com/track/37QXq42xGy7Qmzqsozd1aM) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:09 |
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 40 | [Gratidão](https://open.spotify.com/track/6ktpmdpTcsHiMl17l1k5Nl) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo](https://open.spotify.com/album/3Zf565n9xral9OaJJ0VVVQ) | 4:14 |
 | 41 | [Esperança](https://open.spotify.com/track/3tYbGa6Ns57fZyRgvMXPAB) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 4:40 |
 | 42 | [Liberdade](https://open.spotify.com/track/1MksipefYCj3jjdupynfZi) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Criador do Mundo](https://open.spotify.com/album/1oxLcLBcTuPRwa4XA23Sv6) | 4:30 |
-| 43 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
+| 43 | [Assim Eu Sou \(feat\. Daniela Araújo\)](https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Graça](https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU) | 3:36 |
 | 44 | [Sintonia](https://open.spotify.com/track/2yKjWCsYFa4ohq2EjvdsYu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:22 |
-| 45 | [Assim Eu Sou \(feat\. Daniela Araújo\)](https://open.spotify.com/track/4vmzoCSKD2LQGzaA7TojH6) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Graça](https://open.spotify.com/album/4EZWRLZ7fYQPeLLGfUTaCU) | 3:36 |
+| 45 | [Música Favorita ♾](https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Jorginho Araújo](https://open.spotify.com/artist/4r2RITYiPz9BqPPNGNHJIs) | [Música Favorita \(Água\)](https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l) | 4:13 |
 | 46 | [Quem é Esse? \(feat\. Daniela Araújo\) \- Ao Vivo](https://open.spotify.com/track/6UBzQP0E4IkkYDwUDiSu77) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acelera e Pisa \(Ao Vivo\)](https://open.spotify.com/album/1AxsFgdjC8PtnPPJixKqS3) | 5:21 |
 | 47 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
 | 48 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
 | 49 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 |
-| 50 | [Sala](https://open.spotify.com/track/50ncoSJxBb3wbVGHUcPSwu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Daniela Araújo: Sessions](https://open.spotify.com/album/3Dzq8QRbp61WJD1d0wjpqS) | 5:18 |
+| 50 | [Te Agradeço \(Inexplicável\) \[feat\. Daniela Araújo\]](https://open.spotify.com/track/2mEfbwvWtAInN3oMsvAjeI) | [Luciano Claw](https://open.spotify.com/artist/29cOjdDdQXsONEsNqNixeu), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Inexplicável](https://open.spotify.com/album/3xvDPpayacdcLevke66mzK) | 4:28 |
 | 51 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 |
 
-Snapshot ID: `ZtUAAAAAAAA7SO1c6QZ9/Kbbboo4WYyO`
+Snapshot ID: `ZtZRgAAAAAAtSylwf3rBbQvCWVdcdQIL`

@@ -1,6 +1,6 @@
 {
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu. ",
-  "num_followers": 195577,
+  "num_followers": 195583,
   "original_name": "Made in Sweden",
   "owner": {
     "name": "Spotify",
@@ -1755,6 +1755,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/64GQS6Mk0WTvW1L9y61vnI"
+      },
+      "artists": [
+        {
+          "name": "Ellen Benediktson",
+          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+        }
+      ],
+      "duration_ms": 163505,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "One Time",
         "url": "https://open.spotify.com/album/7i06SlHnwSwpGEfqndbzyT"
       },
@@ -1779,18 +1795,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Maniac",
-        "url": "https://open.spotify.com/album/64GQS6Mk0WTvW1L9y61vnI"
+        "name": "Det \u00e4r n\u00e5got i luften",
+        "url": "https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K"
       },
       "artists": [
         {
-          "name": "Ellen Benediktson",
-          "url": "https://open.spotify.com/artist/3IXfNkd6BwjYA48aNCPDI8"
+          "name": "Viola Martinsson",
+          "url": "https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ"
         }
       ],
-      "duration_ms": 163505,
-      "name": "Maniac",
-      "url": "https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi"
+      "duration_ms": 181442,
+      "name": "Det \u00e4r n\u00e5got i luften",
+      "url": "https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1807,22 +1823,6 @@
       "duration_ms": 163594,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Det \u00e4r n\u00e5got i luften",
-        "url": "https://open.spotify.com/album/0eBYWIL9in5OT4aLkcPP8K"
-      },
-      "artists": [
-        {
-          "name": "Viola Martinsson",
-          "url": "https://open.spotify.com/artist/2aJlmkqQUcFTDe1GBpTkNZ"
-        }
-      ],
-      "duration_ms": 181442,
-      "name": "Det \u00e4r n\u00e5got i luften",
-      "url": "https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD"
     },
     {
       "added_at": "2024-08-29 22:00:00",

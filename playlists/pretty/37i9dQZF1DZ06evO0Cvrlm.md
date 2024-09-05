@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572,763 likes - 51 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 572,803 likes - 51 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 48 | [Mothers Pride \- Remastered](https://open.spotify.com/track/2q1lPD9JAnCo5TDDrbC9Tm) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 3:59 |
 | 49 | [Idol \- Live](https://open.spotify.com/track/1Gv3XEaqzTleOjmbHXGjDh) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:29 |
 | 50 | [John and Elvis Are Dead](https://open.spotify.com/track/0pavieu1tjZZvUkUDevy7k) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Patience](https://open.spotify.com/album/1Ys4joU6TESJ4eh00lvUoI) | 4:23 |
-| 51 | [An Easier Affair \- Remastered 2006](https://open.spotify.com/track/0LNlKea7BFyja8oSeSs86o) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Twenty Five](https://open.spotify.com/album/5HaOXSCK1IlwzV4ve7CUKY) | 4:38 |
+| 51 | [How Do You Keep the Music Playing? \(with George Michael\)](https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 5:23 |
 
-Snapshot ID: `ZtUAAAAAAACH7wT8DkHGYiOC61yW2zIn`
+Snapshot ID: `ZtZRgAAAAADbRhKZo1haIOZ2lBd5X/JR`

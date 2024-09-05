@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 
 ### [This Is Sofía Reyes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO05RikU)
 
-> This is Sofía Reyes\. The essential tracks, all in one playlist.
+> This is Sofía Reyes\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,215 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,227 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05RikU.md) - [plain]
 | 50 | [Goofy, Pt\. 2 \- Remix](https://open.spotify.com/track/2wBp1MT7ivIUYcF7oVlM3n) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [MishCatt](https://open.spotify.com/artist/4nljnlPiswjFIoVpLGn8Wc), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [Goofy, Pt\. 2 \(Remix\)](https://open.spotify.com/album/2azRGXriZ9DLXQ0JGrQBaC) | 3:21 |
 | 51 | [Échalo Pa' Ca](https://open.spotify.com/track/2h9otdWcqvn5D52cgS32fz) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Échalo Pa' Ca](https://open.spotify.com/album/0l17ZOSlaSfuQXPe2G82hk) | 3:42 |
 
-Snapshot ID: `ZtUAAAAAAADmhWydCuxZqlPsW+eRJHGe`
+Snapshot ID: `ZtZRgAAAAAAUY2AV6y6HFwm02czzg0Wn`

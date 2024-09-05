@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UZCW3u80le.md) - [plain]
 
 > Back when we had Kelly Clarkson, Usher, Lady Gaga and \*NSYNC on repeat! Cover: Ashlee Simpson
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,749 likes - 150 songs - 9 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,012 likes - 150 songs - 9 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

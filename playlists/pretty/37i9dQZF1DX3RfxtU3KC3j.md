@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. Kapak: Skapova
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,692 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,734 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 16 | [Kişisel Cehennemim \- Rashit Greatest Shits](https://open.spotify.com/track/0milex1kMhCBiWhNugQOTJ) | [Dört X Dört](https://open.spotify.com/artist/1hw1VLiutfMgbxficYxq65), [Volkan Başaran](https://open.spotify.com/artist/5xoh7PaFns9Q4oarHLVMKV) | [Kişisel Cehennemim \- Rashit Greatest Shits](https://open.spotify.com/album/5CHkevNMbdGQUlZvDBCpbq) | 3:24 |
 | 17 | [TELAŞK](https://open.spotify.com/track/6BJOpJ3yLeUY5rDCKPCIxg) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [TELAŞK](https://open.spotify.com/album/4EE6Qv3NZpEU3j4beiGyrw) | 3:22 |
 | 18 | [Sevme](https://open.spotify.com/track/4oGecQuYpeIQH7cOGRURkG) | [Ufuk Beydemir](https://open.spotify.com/artist/00C6n2psbFm6XWqyPCXJ5v) | [Sevme](https://open.spotify.com/album/4obQjM8HLb2oEtXYd3yegb) | 2:21 |
-| 19 | [Küsme Bana](https://open.spotify.com/track/2SwtkE2CMIsknHUbY3qrPX) | [MFÖ](https://open.spotify.com/artist/2jbrqAuwSdvwcMTbtvncND) | [Küsme Bana](https://open.spotify.com/album/5t40i2pquz8totuZTesiUz) | 3:27 |
-| 20 | [Sarılmışsın Kendine](https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Sarılmışsın Kendine](https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS) | 3:07 |
+| 19 | [Sarılmışsın Kendine](https://open.spotify.com/track/1mF7bTZkbm7amnaGOsRz2Z) | [Can Koç](https://open.spotify.com/artist/3O6mcOK5C1hkMfwrSkNPMM) | [Sarılmışsın Kendine](https://open.spotify.com/album/5QaXgBjxrPLNBfnrGg9dpS) | 3:07 |
+| 20 | [Evdekiler](https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO) | [Selût](https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd) | [Evdekiler](https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT) | 4:29 |
 | 21 | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/track/0Gh6eyUsAMhChAIhih4UIQ) | [BKE](https://open.spotify.com/artist/51VogrGKLinkrSwYToAW1C), [Rakin](https://open.spotify.com/artist/4kQJbtGKPd0tvsZAu7WfqO) | [Ben Gezegenim Sen Uzaysın](https://open.spotify.com/album/2AHIcjdhSQDmmO9VRruccX) | 2:45 |
 | 22 | [Defolup Gidelim](https://open.spotify.com/track/4qUh25Q7kFHxubAtLCvV6e) | [Sena Şener](https://open.spotify.com/artist/7CW2eGwAuElNq09rVtZYsM) | [Defolup Gidelim](https://open.spotify.com/album/0oflIVq580immGYGFzcPQp) | 3:34 |
 | 23 | [Söyle Sevgilim](https://open.spotify.com/track/0f590ou0JkmPoMR5cdVu6C) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Söyle Sevgilim](https://open.spotify.com/album/0IRFNnCSPTGl1IwAjmm7E2) | 3:23 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 74 | [Gökyüzüm](https://open.spotify.com/track/0Ougz6VoBrcIqaN4QgrmD9) | [Pera](https://open.spotify.com/artist/1bzmtVU7jf2rRZJALkZA3j) | [İçimdeki Şeytan](https://open.spotify.com/album/70oT5XaoPS0gQcNwton0iw) | 4:04 |
 | 75 | [PİÇ](https://open.spotify.com/track/6mOWYGO4GGTOA5ixHz8S28) | [Canozan](https://open.spotify.com/artist/4MUb8ilmrxyePXwSkG31lC) | [PİÇ](https://open.spotify.com/album/3FI0Vd5dS1lxf7nTklAAAV) | 3:27 |
 
-Snapshot ID: `Ztbq3QAAAAA99thLrd63PBZFgeeQKrQA`
+Snapshot ID: `Ztg8KgAAAAB2nQOId+mmY0PflnuJPnMS`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 
 > Türkiye'nin en büyük pop listesi\. Kapak: Hande Yener
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,460,648 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,460,925 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,14 +18,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 8 | [Zümrüdüankam](https://open.spotify.com/track/3D9jHgjOH6Bt5rI6hgSnjr) | [Merve Özbey](https://open.spotify.com/artist/74IYRdqa9EFKMMXUIjGyxM) | [Zümrüdüankam](https://open.spotify.com/album/7d9iXw48RFQd5UxGS2CIgN) | 3:23 |
 | 9 | [Eriyorum Günden Güne](https://open.spotify.com/track/6Tv0qEIymHmFJT74WS52TO) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz) | [Eriyorum Günden Güne](https://open.spotify.com/album/07ZzbfU1xkU9d9r90jKV5N) | 2:32 |
 | 10 | [Yeri Var](https://open.spotify.com/track/6WTnCHQKG1fbuKbMKzgMW5) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Yeri Var](https://open.spotify.com/album/7kjGGFkcA7HlORL45H4s7H) | 2:33 |
-| 11 | [Beni Annem Bile Sevmedi](https://open.spotify.com/track/6tIkGkAq6TpgGmbdbxaRSU) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Beni Annem Bile Sevmedi](https://open.spotify.com/album/47EB5uUGzYpvhNvyM6YXiq) | 2:37 |
+| 11 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
 | 12 | [Yansam](https://open.spotify.com/track/38gCk1mC6RwSm1iJK5qhsZ) | [Amo988](https://open.spotify.com/artist/05c2IUQGegTcqtWeWwuJ06) | [Yansam](https://open.spotify.com/album/3jrBw3qp6f0oLYFUJUHxdo) | 2:16 |
-| 13 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 |
-| 14 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 |
-| 15 | [Ölüyorum Anla](https://open.spotify.com/track/7AxK6ojozGBLlxuRaXwQQ1) | [Mert Demir](https://open.spotify.com/artist/1Zj4GtouAnxHq4qw7ooLfm) | [Ölüyorum Anla](https://open.spotify.com/album/3uO5eTI7iFm0WCgRYRergy) | 3:03 |
-| 16 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 |
-| 17 | [İhtimal](https://open.spotify.com/track/37dO7nOyDyZT4MUDrvH8zK) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [İhtimal](https://open.spotify.com/album/7hAN78zujt3FZ5Wk4t8A8t) | 3:13 |
-| 18 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 |
+| 13 | [Küle Dönmüşsün](https://open.spotify.com/track/2CZzw0He9fzyi2FkBkn4Bk) | [Semicenk](https://open.spotify.com/artist/1CcZoULzFHa8Uhwo6OlQcp), [Doğu Swag](https://open.spotify.com/artist/0uHvlWnhRpaomF4e9IZHLy) | [Küle Dönmüşsün](https://open.spotify.com/album/69XrCiTVTxzFDxvk6RorEG) | 2:22 |
+| 14 | [Beni Annem Bile Sevmedi](https://open.spotify.com/track/6tIkGkAq6TpgGmbdbxaRSU) | [Kubilay Karça](https://open.spotify.com/artist/2pbct1ni3yLLAfzrSXQDrH) | [Beni Annem Bile Sevmedi](https://open.spotify.com/album/47EB5uUGzYpvhNvyM6YXiq) | 2:37 |
+| 15 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 |
+| 16 | [İhtimal](https://open.spotify.com/track/37dO7nOyDyZT4MUDrvH8zK) | [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [İhtimal](https://open.spotify.com/album/7hAN78zujt3FZ5Wk4t8A8t) | 3:13 |
+| 17 | [Sana Yıldızları Ödediğimden](https://open.spotify.com/track/0fu7d7LgXjClCkgBmnNlc0) | [Bengü Beker](https://open.spotify.com/artist/3D1JNJeLVPBmwhCbyqlTHW) | [Sana Yıldızları Ödediğimden](https://open.spotify.com/album/745xmwLY8UKgHtxDa9UMYU) | 4:18 |
+| 18 | [Hoşuna Gidiyo](https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE) | [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn), [Zeki Arkun](https://open.spotify.com/artist/0o370GMjPTWUz6gv8lasfs) | [Hoşuna Gidiyo](https://open.spotify.com/album/78Dk6oqNWoSFBJpUfM4rtm) | 2:31 |
 | 19 | [BAL](https://open.spotify.com/track/2RojZW2380o281z4LF0wTh) | [Gülşen](https://open.spotify.com/artist/1F2v33FQTavJyaD7ZsyhdA) | [BAL](https://open.spotify.com/album/14jmglD62tPPu5yptZcSv4) | 2:37 |
 | 20 | [Kafamın İçi](https://open.spotify.com/track/30kd9r9pbMn6bs6CKyFOCu) | [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Siyam](https://open.spotify.com/artist/20VUzeHAjxKUEJuXT6EiMo), [Zeyd](https://open.spotify.com/artist/12MwQGIKtcERM3CNJhhq5T) | [Yine Çalıyor](https://open.spotify.com/album/2d3z7xdD9R3sAKueFrV2jp) | 2:15 |
 | 21 | [İmdadım](https://open.spotify.com/track/6Bd1IXmQB9YZa7yI8j98fM) | [Eypio](https://open.spotify.com/artist/6h5P3J0j1x2lhiDk9w4deZ), [Zara](https://open.spotify.com/artist/1B4KdcJA6Dh1MlAiezqc08) | [İmdadım](https://open.spotify.com/album/616fhHuuWrVXPz8gpHR8Yd) | 2:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ASuQophyb3.md) - [plain]
 | 49 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 |
 | 50 | [Olmuşum Leyla](https://open.spotify.com/track/4mGcrLq0JSjumS1GyyQOYj) | [Buray](https://open.spotify.com/artist/1qZ684TB9E1BjH58btdtYd) | [Olmuşum Leyla](https://open.spotify.com/album/3KO4mFibY1L2nbqOateAOA) | 2:52 |
 
-Snapshot ID: `ZtDhUAAAAADC0pSWbsWE2q50Pt9GKEHw`
+Snapshot ID: `ZtgjoQAAAABtozc0X63KLI93w4+8jS61`

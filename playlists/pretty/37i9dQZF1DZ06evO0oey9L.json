@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 90153,
+  "num_followers": 90160,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAnWUiD4JaGfBgW2/pMXqXJ",
+  "snapshot_id": "ZtZRgAAAAACKzGLJ2sEqEzT/az9+M9Cc",
   "tracks": [
     {
       "added_at": null,
@@ -471,8 +471,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botas Ariat",
-        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
       "artists": [
         {
@@ -480,9 +480,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
+      "duration_ms": 186301,
+      "name": "Barrio Xolo",
+      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
     },
     {
       "added_at": null,
@@ -503,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+        "name": "Botas Ariat",
+        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
       },
       "artists": [
         {
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 186301,
-      "name": "Barrio Xolo",
-      "url": "https://open.spotify.com/track/5gHg03BEF7wM1bPBnbAC7b"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
     },
     {
       "added_at": null,
@@ -535,22 +535,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Aqu\u00ed Para All\u00e1",
-        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 216841,
-      "name": "De Aqu\u00ed Para All\u00e1",
-      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
+      "duration_ms": 185000,
+      "name": "Que Me Va Mal",
+      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
     },
     {
       "added_at": null,
@@ -571,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+        "name": "De Aqu\u00ed Para All\u00e1",
+        "url": "https://open.spotify.com/album/6GXtWhkWY6KQ7xBn3Ici8Q"
       },
       "artists": [
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        },
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 185000,
-      "name": "Que Me Va Mal",
-      "url": "https://open.spotify.com/track/0fvu7lFdHrY4JTENYgSeoK"
+      "duration_ms": 216841,
+      "name": "De Aqu\u00ed Para All\u00e1",
+      "url": "https://open.spotify.com/track/5e71bYvDvHQNHCWwqslKfV"
     },
     {
       "added_at": null,

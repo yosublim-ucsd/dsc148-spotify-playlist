@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 
 > Guerreras del rock latinoamericano\. Foto: Zöelle
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,685 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,707 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,13 +76,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 66 | [Somos](https://open.spotify.com/track/02s5vAzBU4NodaEq3JIdJr) | [Las Fokin Biches](https://open.spotify.com/artist/57PVit02jqmX3h5SL0XnHa) | [Somos](https://open.spotify.com/album/1e1rVTTSCgPWMvkhJLZ8Ik) | 3:00 |
 | 67 | [Esquizofrenia](https://open.spotify.com/track/7nokQKdrIGXkII2CTnyU1t) | [Piba](https://open.spotify.com/artist/1IInCoJv0r1nx56b0qFhVb) | [Esquizofrenia](https://open.spotify.com/album/3MS1vYzXgPKjTbPhKlkNxD) | 3:08 |
 | 68 | [RANDOM](https://open.spotify.com/track/5MWKgFwsd5tQNiq7O46XVP) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [RANDOM](https://open.spotify.com/album/0GHsQyhxiIRO3R9h7rIVR1) | 2:08 |
-| 69 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
-| 70 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 |
-| 71 | [Confusion](https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 5:31 |
-| 72 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
-| 73 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
-| 74 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
-| 75 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
+| 69 | [Hay que Creer en Algo](https://open.spotify.com/track/6rYcyDesF9ZlScEaeGq9QA) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [Un Dios Nuevo](https://open.spotify.com/album/0Fjiq4GdADJx3I3tVPD1Ll) | 4:04 |
+| 70 | [Confusion](https://open.spotify.com/track/3YouVy36Vqg0uO2ChhJjCj) | [Actitud María Marta](https://open.spotify.com/artist/0GQzO6YWsPqvMLMa92Epea) | [Acorralar a la Bestia](https://open.spotify.com/album/1TU6tcrZKKWovyAF5XehDe) | 5:31 |
+| 71 | [Morirían](https://open.spotify.com/track/53JVw942AQvbqqDy8DqtaN) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Hora de No Ver](https://open.spotify.com/album/7vV8Ye5scpEoP8SsEQvXnR) | 3:11 |
+| 72 | [Promesa](https://open.spotify.com/track/2wzCZ1ol8EPdtSDZ0Zoa48) | [Maria Durante](https://open.spotify.com/artist/6B4Tjeum0gQN48UJWgtnRx) | [Promesa](https://open.spotify.com/album/3lDnDC0ArBlmTpSzJHPNDO) | 3:28 |
+| 73 | [Unfuckable](https://open.spotify.com/track/0reeyWnqibeD6hgYHwVA7C) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:52 |
+| 74 | [Huir](https://open.spotify.com/track/3EsdaOJe5pTbJNA2sR6OQl) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Huir](https://open.spotify.com/album/2oGBubmGLQVNjmuL0lrU4s) | 4:16 |
+| 75 | [Estás Borracho](https://open.spotify.com/track/2FMqDh4Ul5Xm0YDQZUD1B8) | [Venus](https://open.spotify.com/artist/00Q8zKa6UO4AJiXx3I5ROh) | [El Ataque de Zorrita](https://open.spotify.com/album/4fQleIdN3GLRQRkWbNl8JQ) | 2:38 |
 | 76 | [Cuando el sol está así](https://open.spotify.com/track/328VGo9M8zoespJRuWNpfJ) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Cuando el sol está así](https://open.spotify.com/album/6rM8uPZagSb9CwaBZepDi8) | 3:50 |
 | 77 | [Piedra Marea Fuego](https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3) | [Epica & Fantástica](https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1) | 4:05 |
 | 78 | [Atasco](https://open.spotify.com/track/7hIpozpqki8Lnpu2WwsQ86) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:46 |
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 86 | [Suave](https://open.spotify.com/track/5IO55F3xMlUG6xdLGh7bb5) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Suave](https://open.spotify.com/album/4fzMFE1G3GVQtbasedbooZ) | 3:23 |
 | 87 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 |
 | 88 | [Tiro de Gracia](https://open.spotify.com/track/60tZwScYfPsB314xJ3zuYc) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Tiro de Gracia](https://open.spotify.com/album/6ro7NdgISN4SVWrea2V2SU) | 3:42 |
-| 89 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
+| 89 | [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 |
 | 90 | [BANCATE ESE DEFECTO \- Radio Edit](https://open.spotify.com/track/7eyUN8JSbeDzUB9w4eqEKh) | [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [BANCATE ESE DEFECTO \(Radio Edit\)](https://open.spotify.com/album/3S1bG3zai1ZaU7ZaiZ225e) | 4:22 |
-| 91 | [Por Mil Noches](https://open.spotify.com/track/07oCYfVtlh8m1ndq6KilHI) | [Maggie Sky](https://open.spotify.com/artist/68ZvGitpk9Ex4WwUnrmDf6) | [Por Mil Noches](https://open.spotify.com/album/0Nifxl170FafOSFrdYgq4d) | 4:43 |
+| 91 | [Desvelo](https://open.spotify.com/track/5ZB7rbNjnJ8lMZ4KTuh55F) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Desvelo](https://open.spotify.com/album/5Ik4DBNjzxeCdawBwHyxFI) | 4:34 |
 | 92 | [Tu Caminar](https://open.spotify.com/track/0AikKCO53aUEgxvpjkNK9b) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:40 |
 | 93 | [Quieta](https://open.spotify.com/track/0nGXKHrGuaLBSAp7hJAEE6) | [Escorpia](https://open.spotify.com/artist/1mZ7eKZB1gTlzWbwNBZszv) | [Quieta](https://open.spotify.com/album/0Dyr2BVWw6iFWwBRiP2OIu) | 2:55 |
 | 94 | [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFNjGW0o442.md) - [plain]
 | 97 | [Todo Parece](https://open.spotify.com/track/7wrUGAtnEhdTEaIPg6PpGM) | [Samantha Navarro](https://open.spotify.com/artist/42bSW87StWghA8hysIh96X), [Diego Matturro](https://open.spotify.com/artist/4b0yopCKitZnedZydA8Aca) | [Éxito](https://open.spotify.com/album/5nkt0p0MCd9WqFjk2zcw9b) | 3:09 |
 | 98 | [Si Me Canso de Callar](https://open.spotify.com/track/6yt5G8Nk1CpvZfeD3w0UqA) | [Más Que Uno](https://open.spotify.com/artist/5SK9vGIjsAFdaAM4yIj7er) | [Arder](https://open.spotify.com/album/7oys3rJDdOuR7TclhkceCG) | 3:38 |
 | 99 | [No Importa](https://open.spotify.com/track/3nC0jDV1D6LHvS9MRd6x0s) | [She Devils](https://open.spotify.com/artist/445D2giDXP47r2uJcPknm7) | [La Piel Dura](https://open.spotify.com/album/24QdWuBJgFTJ1VcFyIc3OG) | 2:03 |
-| 100 | [Ghost in the Machine](https://open.spotify.com/track/2T94eayr7lubesYiSs4kyT) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 2:25 |
+| 100 | [Las Señales](https://open.spotify.com/track/0SGP9BI4GBOCISPNlE51sJ) | [Violeta Castillo](https://open.spotify.com/artist/2NtYHfTFxDUWZcQAxJBzhe) | [Hasta Abajo \- Ep](https://open.spotify.com/album/29alHfZaRhQyIYWv2Ug8mg) | 5:45 |
 
 Snapshot ID: `Zr5jMgAAAAAtSNO5x0hi2YVPqN4k+627`

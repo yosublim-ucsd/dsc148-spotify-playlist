@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i just wanna be part of your symphony
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,454 likes - 970 songs - 2 day 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,428 likes - 970 songs - 2 day 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

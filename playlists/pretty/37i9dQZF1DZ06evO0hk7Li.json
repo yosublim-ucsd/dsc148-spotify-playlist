@@ -1,12 +1,12 @@
 {
   "description": "This is Jacob Banks. The essential tracks, all in one playlist.",
-  "num_followers": 37990,
+  "num_followers": 37998,
   "original_name": "This Is Jacob Banks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADNJiNqf7AKVRVgfSL6+P98",
+  "snapshot_id": "ZtZRgAAAAAAgUeHCcGi+R6v5ATp9xfRh",
   "tracks": [
     {
       "added_at": null,
@@ -203,26 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Paradox",
-        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Avelino",
-          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
-        }
-      ],
-      "duration_ms": 233497,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "What Do You Love",
         "url": "https://open.spotify.com/album/4ltuKyjrU6A8AEo9JkNRdN"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 211875,
       "name": "What Do You Love",
       "url": "https://open.spotify.com/track/4aB4udr3pcJuENmfDitPSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Paradox",
+        "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Avelino",
+          "url": "https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6"
+        }
+      ],
+      "duration_ms": 233497,
+      "name": "Monster",
+      "url": "https://open.spotify.com/track/5GQQGVrDjbuTx3GcmLncH5"
     },
     {
       "added_at": null,
@@ -383,62 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies About The War",
-        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 202213,
-      "name": "Bang",
-      "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lundi M\u00e9chant",
-        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
-      },
-      "artists": [
-        {
-          "name": "Ga\u00ebl Faye",
-          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 231213,
-      "name": "Only Way Is Up",
-      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For My Friends",
-        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 170803,
-      "name": "Devil That I Know",
-      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HOOD HYMNS",
         "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
       },
@@ -468,13 +412,49 @@
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
         },
         {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         }
       ],
-      "duration_ms": 202133,
-      "name": "Our Song",
-      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
+      "duration_ms": 202213,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/7MQxN4lV9BC6Y5qgx4Inxc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For My Friends",
+        "url": "https://open.spotify.com/album/4B3jvFJWTYsVcLGoepXhX0"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 170803,
+      "name": "Devil That I Know",
+      "url": "https://open.spotify.com/track/0HmdysB9yEb1EVWe7aNIGT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lundi M\u00e9chant",
+        "url": "https://open.spotify.com/album/42QybsqCIxCc1H2SEskAiv"
+      },
+      "artists": [
+        {
+          "name": "Ga\u00ebl Faye",
+          "url": "https://open.spotify.com/artist/69irZ4R8OsrLHjr6VmMmMg"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 231213,
+      "name": "Only Way Is Up",
+      "url": "https://open.spotify.com/track/2CQQQfax1YLcMbU0V5oTuQ"
     },
     {
       "added_at": null,
@@ -495,6 +475,26 @@
       "duration_ms": 195000,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/6OkP1t5se0cYZTfnNE5gC4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lies About The War",
+        "url": "https://open.spotify.com/album/7Dq8kOETaKNLrKouSjg5Pv"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "Our Song",
+      "url": "https://open.spotify.com/track/1nqvZEiWm2mNTma5dZOziC"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Village",
-        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
-        }
-      ],
-      "duration_ms": 241573,
-      "name": "Kumbaya (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Creed II (Score & Music from the Original Motion Picture)",
         "url": "https://open.spotify.com/album/4VODNHZZp8qxuMLJQK2G4u"
       },
@@ -759,6 +739,26 @@
       "duration_ms": 147386,
       "name": "You Might Find Me",
       "url": "https://open.spotify.com/track/0QTOw32h1G2LD8EFExxedV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Village",
+        "url": "https://open.spotify.com/album/2KxC2M0bVm5hrK3GgGMuV9"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Bibi Bourelly",
+          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+        }
+      ],
+      "duration_ms": 241573,
+      "name": "Kumbaya (feat. Bibi Bourelly)",
+      "url": "https://open.spotify.com/track/3gevHqNgAIl0dqFenYqkiM"
     },
     {
       "added_at": null,
@@ -799,6 +799,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "HOOD HYMNS",
+        "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Ivory Nwigwe",
+          "url": "https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ"
+        }
+      ],
+      "duration_ms": 111541,
+      "name": "NI**AS NEED JESUS",
+      "url": "https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Owe You Nothing / Remember",
         "url": "https://open.spotify.com/album/0rCgUCr9lTI64dezlg2Xjr"
       },
@@ -835,46 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HOOD HYMNS",
-        "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        },
-        {
-          "name": "Ivory Nwigwe",
-          "url": "https://open.spotify.com/artist/3rqdCc8vGRGq7RUwHRCOBJ"
-        }
-      ],
-      "duration_ms": 111541,
-      "name": "NI**AS NEED JESUS",
-      "url": "https://open.spotify.com/track/4UY0cvACvAfZryubsiNXTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
-      },
-      "artists": [
-        {
-          "name": "Jacob Banks",
-          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
-        }
-      ],
-      "duration_ms": 251626,
-      "name": "Aim For My Head",
-      "url": "https://open.spotify.com/track/5Ii6ZhGfVWuKrKdStXdfpj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Paradox",
         "url": "https://open.spotify.com/album/32cDtKd8eH2F74ChwdiWaT"
       },
@@ -907,6 +891,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Our Time Together: The Live Album",
+        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+      },
+      "artists": [
+        {
+          "name": "Jacob Banks",
+          "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        }
+      ],
+      "duration_ms": 51880,
+      "name": "Lovely Nanna",
+      "url": "https://open.spotify.com/track/3q9cr2fdhQBeK4LJC98LjU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "About 30",
         "url": "https://open.spotify.com/album/3ssy7tJKSX4ohRxWvfqsJo"
       },
@@ -927,18 +927,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Our Time Together: The Live Album",
-        "url": "https://open.spotify.com/album/2QC2pvNH3D7mSgHhF9lbxG"
+        "name": "HOOD HYMNS",
+        "url": "https://open.spotify.com/album/57JNHxlXjfkddcn7QWfnNA"
       },
       "artists": [
         {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
           "name": "Jacob Banks",
           "url": "https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV"
+        },
+        {
+          "name": "Keisha Renee",
+          "url": "https://open.spotify.com/artist/3UG1w00aJyvqbJkZwgbwFA"
         }
       ],
-      "duration_ms": 53853,
-      "name": "Good Evening",
-      "url": "https://open.spotify.com/track/5ujvilUlDY0p6VMWshWsnS"
+      "duration_ms": 192938,
+      "name": "GOLD",
+      "url": "https://open.spotify.com/track/6KYp8pZIRjDnU8CVyDghOc"
     }
   ],
   "unique_name": "This Is Jacob Banks",

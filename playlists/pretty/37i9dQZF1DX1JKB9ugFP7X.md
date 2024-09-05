@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 
 > Lo mejor del pop electrónico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,136 likes - 95 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,133 likes - 95 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1JKB9ugFP7X.md) - [plain]
 | 81 | [SHAMPOO](https://open.spotify.com/track/5nQNuWgtRHzQXTmnrb2Ysn) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [SHAMPOO](https://open.spotify.com/album/0bu5FOI7GA1iL9vvIQFrWy) | 3:01 |
 | 82 | [Atentado en la Pista](https://open.spotify.com/track/1kvNcx5MoS5XvMcIua4PfG) | [Laika Perra Rusa](https://open.spotify.com/artist/1ENwhswPVedRKPgabgGxsb) | [Marcha II](https://open.spotify.com/album/06zWjeOA3MwBHLApKUS3Qs) | 3:44 |
 | 83 | [Bajo Cero](https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH) | [Sussie 4](https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb), [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [Bajo Cero](https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7) | 4:03 |
-| 84 | [Ya fue](https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Ya fue](https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf) | 3:06 |
-| 85 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 |
+| 84 | [La Montaña](https://open.spotify.com/track/580JHhlEFykGzMxEMepXW8) | [Fakuta](https://open.spotify.com/artist/5qW2pOdPhEkkBlsUjcGdhD) | [La Montaña](https://open.spotify.com/album/0t3VjLfrjhOCj5IHHe6dIL) | 3:55 |
+| 85 | [Ya fue](https://open.spotify.com/track/1RsAoqvtT8Uqsg2HUejHeG) | [Santi Celli](https://open.spotify.com/artist/3zoMlg6gx6K4NcGE15qtCF), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Ya fue](https://open.spotify.com/album/3UAdbKKyU8bflHX2vlQcGf) | 3:06 |
 | 86 | [Ángel Malo](https://open.spotify.com/track/66Rr0jxckqZvjgYfqIInZD) | [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08), [Karla Grunewaldt](https://open.spotify.com/artist/5w4VSeopBIU3C6uPYqunc3) | [Ángel Malo](https://open.spotify.com/album/2MJTEprt9EmWCzhfSAJKlw) | 3:34 |
 | 87 | [Dejarte de Querer \- Nico Castro Remix](https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2) | [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm), [Nico Castro](https://open.spotify.com/artist/3BPUQKAxccyClPyj2A4vv9) | [La Mar \(Remixes\)](https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O) | 5:47 |
 | 88 | [Lucía](https://open.spotify.com/track/2IKC7XhiH7ZVVESFYmW1Ru) | [Renata Di Croce](https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr) | [Lucía](https://open.spotify.com/album/4Ni2gs4GGSo6NmJjvKL0NH) | 4:49 |

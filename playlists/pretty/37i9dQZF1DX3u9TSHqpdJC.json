@@ -1,13 +1,109 @@
 {
   "description": "The best new pop music by independent artists and labels. Cover: Surely Shirley.  Artwork by Paola Saliby",
-  "num_followers": 216182,
+  "num_followers": 216226,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs6gwAAAAABhkc3zFnoht8hIlF5F1O3r",
+  "snapshot_id": "ZtfbQAAAAACkLyRNEWhcpk5UjGRiXS6H",
   "tracks": [
+    {
+      "added_at": "2024-08-21 04:21:49",
+      "album": {
+        "name": "Josefina",
+        "url": "https://open.spotify.com/album/4titPRX5YbydOTTZs8B8Y0"
+      },
+      "artists": [
+        {
+          "name": "Kristen Cruz",
+          "url": "https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq"
+        }
+      ],
+      "duration_ms": 168949,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/4bv5ZSgEDfvJlZ6xJebEw7"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Sucks",
+        "url": "https://open.spotify.com/album/1e1jCQGjucNZTfZEQqQDhq"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Sucks",
+      "url": "https://open.spotify.com/track/6AJ9ZMfQnuYtjOFrRCLtZe"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "in another life",
+        "url": "https://open.spotify.com/album/2F7fBEWKOpA99tw7DF8xwY"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kensington",
+          "url": "https://open.spotify.com/artist/4Ffrd2faZZlkN2LTyPIPxb"
+        }
+      ],
+      "duration_ms": 171528,
+      "name": "in another life",
+      "url": "https://open.spotify.com/track/3Bh2SISC7cpYYc126SGdrj"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "2018",
+        "url": "https://open.spotify.com/album/6adhvOA1OkiN4QmxpD4Zcx"
+      },
+      "artists": [
+        {
+          "name": "TAAHLIAH",
+          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "2018",
+      "url": "https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Oh My God",
+        "url": "https://open.spotify.com/album/0qfoZ99XRt8kbzK47jNjf0"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Stringer",
+          "url": "https://open.spotify.com/artist/6Dv6bV7bzZSCAX0E0qLw7u"
+        }
+      ],
+      "duration_ms": 160146,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/4ytfNcKDQfUu7x1HSGXdsb"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "raincoat",
+        "url": "https://open.spotify.com/album/6tMdzJd8H2CKk1zCvXEujM"
+      },
+      "artists": [
+        {
+          "name": "Ivoris",
+          "url": "https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji"
+        }
+      ],
+      "duration_ms": 181983,
+      "name": "raincoat",
+      "url": "https://open.spotify.com/track/12AHuNbammlb96IpqKhpKa"
+    },
     {
       "added_at": "2024-08-28 04:00:00",
       "album": {
@@ -23,6 +119,70 @@
       "duration_ms": 173418,
       "name": "Lavender Blues",
       "url": "https://open.spotify.com/track/2qxghOayHOtuuoQHwJ2n9h"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Miss America",
+        "url": "https://open.spotify.com/album/18vIZLZVsuQd5LIp5DCevF"
+      },
+      "artists": [
+        {
+          "name": "Ripley Alexander",
+          "url": "https://open.spotify.com/artist/1u08K2WdTIJX1f4gZbFG9K"
+        }
+      ],
+      "duration_ms": 141164,
+      "name": "Miss America",
+      "url": "https://open.spotify.com/track/4h48JciRHkK8WieE1Y7TLA"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Superpowers",
+        "url": "https://open.spotify.com/album/72r5J66uu7y0hwDvC6UJgH"
+      },
+      "artists": [
+        {
+          "name": "CERANDA",
+          "url": "https://open.spotify.com/artist/3ZjsvHpE8CzvA7IguAnlsI"
+        }
+      ],
+      "duration_ms": 149102,
+      "name": "Superpowers",
+      "url": "https://open.spotify.com/track/4Tm81rjIT3bEq5WXA4lG5e"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/4hK3BiVM1UsQGNvVle14bP"
+      },
+      "artists": [
+        {
+          "name": "Lo Lauren",
+          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
+        }
+      ],
+      "duration_ms": 203446,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/1aWaSDGHjvcV3OQcupT7mq"
+    },
+    {
+      "added_at": "2024-09-04 04:00:00",
+      "album": {
+        "name": "see you again",
+        "url": "https://open.spotify.com/album/6l9jidV2wcnk9yioYXGnPS"
+      },
+      "artists": [
+        {
+          "name": "Jim Alxndr",
+          "url": "https://open.spotify.com/artist/73oeeOCtBTa9kBMuVggdMI"
+        }
+      ],
+      "duration_ms": 120030,
+      "name": "see you again",
+      "url": "https://open.spotify.com/track/0mW95CFGEMqpJ5rOXSvYOg"
     },
     {
       "added_at": "2024-08-28 04:00:00",
@@ -183,22 +343,6 @@
       "duration_ms": 260790,
       "name": "Senopati in the Rain",
       "url": "https://open.spotify.com/track/1OUhKRN1EbjLIYJPTs91nk"
-    },
-    {
-      "added_at": "2024-08-21 04:21:49",
-      "album": {
-        "name": "Josefina",
-        "url": "https://open.spotify.com/album/4titPRX5YbydOTTZs8B8Y0"
-      },
-      "artists": [
-        {
-          "name": "Kristen Cruz",
-          "url": "https://open.spotify.com/artist/39cgWt6wdG1LU7FKREfqVq"
-        }
-      ],
-      "duration_ms": 168949,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/4bv5ZSgEDfvJlZ6xJebEw7"
     },
     {
       "added_at": "2024-08-28 04:00:00",
@@ -1359,22 +1503,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "East Coast",
-        "url": "https://open.spotify.com/album/7IdwGiHgVmpBrmcBA157TK"
-      },
-      "artists": [
-        {
-          "name": "Indy",
-          "url": "https://open.spotify.com/artist/6vxqYQ8aMNtCuks7tVencQ"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "East Coast",
-      "url": "https://open.spotify.com/track/64ISc1GmFnEbkHVY91YQtk"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "I Like You Best",
         "url": "https://open.spotify.com/album/6dk1A9dHnyENBQyJk3QWJX"
       },
@@ -1455,22 +1583,6 @@
     {
       "added_at": "2024-07-10 04:00:00",
       "album": {
-        "name": "How Long",
-        "url": "https://open.spotify.com/album/7ssXHDTUiWMgXKvu7Nw9Qe"
-      },
-      "artists": [
-        {
-          "name": "Yana",
-          "url": "https://open.spotify.com/artist/6bR96LMvgvYgDlumR7JwPX"
-        }
-      ],
-      "duration_ms": 210658,
-      "name": "How Long",
-      "url": "https://open.spotify.com/track/6ugo6TrO93ZW9gAovTzegl"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
         "name": "Sound System",
         "url": "https://open.spotify.com/album/6RcUla7GznQLl9POMi4N3e"
       },
@@ -1503,198 +1615,6 @@
       "duration_ms": 182857,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/7fjno2HOtZoIEMAgcSwOyy"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "90's Break Up",
-        "url": "https://open.spotify.com/album/4JTZf6R5gNRcDZQ6yldpil"
-      },
-      "artists": [
-        {
-          "name": "Clayre",
-          "url": "https://open.spotify.com/artist/0MUz7kTqWwA0XjWIOLIiuv"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "90's Break Up",
-      "url": "https://open.spotify.com/track/3AiHYNQSdf9gd5AIyJylH8"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Fear of the Unknown",
-        "url": "https://open.spotify.com/album/60olbifny6PT6tQ67u0k89"
-      },
-      "artists": [
-        {
-          "name": "Peyton McMahon",
-          "url": "https://open.spotify.com/artist/7HYMKelR2o8mJ9qk8KF1CJ"
-        }
-      ],
-      "duration_ms": 223127,
-      "name": "Fear of the Unknown",
-      "url": "https://open.spotify.com/track/4qHxxlwDjEvanNtKeG6DCy"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/1DzbWIh7tTnbyLV0NzWmJO"
-      },
-      "artists": [
-        {
-          "name": "Rubina",
-          "url": "https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M"
-        }
-      ],
-      "duration_ms": 165507,
-      "name": "Dangerous",
-      "url": "https://open.spotify.com/track/5sVGUMG3JxHXC70IGTjmK1"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
-      },
-      "artists": [
-        {
-          "name": "Kinck",
-          "url": "https://open.spotify.com/artist/3WIqCpjYUrR2Bt9rFYNaej"
-        }
-      ],
-      "duration_ms": 150699,
-      "name": "Honeypot",
-      "url": "https://open.spotify.com/track/5toaAXAOsjHs3aK2d6nJqW"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "if you still like me in the morning",
-        "url": "https://open.spotify.com/album/7uEB2J1sLv4Wg48XXUH93l"
-      },
-      "artists": [
-        {
-          "name": "Tessa Rae",
-          "url": "https://open.spotify.com/artist/1DdDuFwFjcX2NN5bYnqu5k"
-        }
-      ],
-      "duration_ms": 228144,
-      "name": "if you still like me in the morning",
-      "url": "https://open.spotify.com/track/32UGfgmC8cbsK3RpqIJs4f"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "HOT",
-        "url": "https://open.spotify.com/album/605MbIJ0JOxxaXhs9akCYG"
-      },
-      "artists": [
-        {
-          "name": "XKYLAR",
-          "url": "https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq"
-        }
-      ],
-      "duration_ms": 109961,
-      "name": "HOT",
-      "url": "https://open.spotify.com/track/70Rl9wHktp0yNs4VuaSc8F"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "misery",
-        "url": "https://open.spotify.com/album/1Rwh9G6lfAF0tv2kPiB1Kr"
-      },
-      "artists": [
-        {
-          "name": "Casey Shirin",
-          "url": "https://open.spotify.com/artist/3rCpG0uKek5oUwF2r9ZSvK"
-        }
-      ],
-      "duration_ms": 142045,
-      "name": "misery",
-      "url": "https://open.spotify.com/track/4zAg05SqMkxC5HIwgO6X55"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "1000 Fucks Ago",
-        "url": "https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT"
-      },
-      "artists": [
-        {
-          "name": "Aria Lisslo",
-          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
-        }
-      ],
-      "duration_ms": 184041,
-      "name": "1000 Fucks Ago",
-      "url": "https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3OA28iQCKxCSiuIkWaykhZ"
-      },
-      "artists": [
-        {
-          "name": "Temm",
-          "url": "https://open.spotify.com/artist/1TCG4phIm3YNXPLzKhHPoD"
-        }
-      ],
-      "duration_ms": 222270,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/6vTzONIAVZMzG9UGAtv7Xv"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "cross my heart (hope to die)",
-        "url": "https://open.spotify.com/album/2OPo2MAbCCUWp3TS4N7nld"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Arromba",
-          "url": "https://open.spotify.com/artist/1BdbPr0jIW0h7HurLRlekq"
-        }
-      ],
-      "duration_ms": 160622,
-      "name": "cross my heart (hope to die)",
-      "url": "https://open.spotify.com/track/7qt0s5OswWIDJBlLHmiKNi"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
-    },
-    {
-      "added_at": "2024-07-10 04:00:00",
-      "album": {
-        "name": "It's Giving...",
-        "url": "https://open.spotify.com/album/3wsRwVsFWBq7cpPcSQPa60"
-      },
-      "artists": [
-        {
-          "name": "ili",
-          "url": "https://open.spotify.com/artist/4Yn7SW1ERvmPwQHPMiv8t4"
-        }
-      ],
-      "duration_ms": 189199,
-      "name": "It's Giving...",
-      "url": "https://open.spotify.com/track/14sy9bz023LO93gUiyf5Mz"
     }
   ],
   "unique_name": "Fresh Finds Pop",

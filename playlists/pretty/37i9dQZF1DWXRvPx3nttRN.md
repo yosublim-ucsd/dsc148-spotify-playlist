@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,275 likes - 122 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,354 likes - 122 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,17 +94,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 84 | [Poison \- Acoustic](https://open.spotify.com/track/3Lpcz58EmUfusfV16tPqPH) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Poison \(Acoustic\)](https://open.spotify.com/album/16KGNmwzTUr81fFTrFBqac) | 3:40 |
 | 85 | [The Night We Met](https://open.spotify.com/track/6mORGLOz79w6VsCRLWYYuK) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/1SUC3BzNqa5Kna2bZAsAK8) | 3:28 |
 | 86 | [Hey There Delilah](https://open.spotify.com/track/0xM88xobymkMgg46MStfnV) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Every Second Counts](https://open.spotify.com/album/5UdU4dmcRw1TG3oVZf9ZvT) | 3:52 |
-| 87 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |
-| 88 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
+| 87 | [Set Fire To The Rain](https://open.spotify.com/track/5foLNCCWHMFXIzgtuOVEis) | [Noah Guthrie](https://open.spotify.com/artist/6b0Wy4mw8ePj9w2EX3s4V3) | [The Covers, Vol\. 4](https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU) | 3:53 |
+| 88 | [Rely On Me](https://open.spotify.com/track/2amrY1Qly3pMNfqVPsAbBo) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [Rely On Me](https://open.spotify.com/album/1AD4aREnRdDu0hhUqzVRUu) | 3:39 |
 | 89 | [Behind the Light](https://open.spotify.com/track/3crPGxHwf3PZSxOqaXO3Q5) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Behind the Light](https://open.spotify.com/album/36JPaaHtgvqijZAMHmwXhN) | 2:51 |
 | 90 | [When You Love Someone](https://open.spotify.com/track/5fX2oPyLCe5mBKqGDbOWqC) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [First Impressions](https://open.spotify.com/album/6ZPn3tnyLZAbgLFy3GSkqT) | 3:36 |
 | 91 | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl \(Acoustic Version\)](https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6) | 3:31 |
 | 92 | [Stolen Dance](https://open.spotify.com/track/2ZQ87gUxLwKZS2ar0uXFmf) | [Twin Bandit](https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr), [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Stolen Dance](https://open.spotify.com/album/0Gl21cv3eR8SLk2AVR1sMr) | 3:55 |
 | 93 | [There's Nothing Holdin' Me Back \- Acoustic](https://open.spotify.com/track/6gnS49VEamgI5zQmjsUxs3) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [There's Nothing Holdin' Me Back \(Acoustic\)](https://open.spotify.com/album/1t7E85IHgoM8HiU9QoRWr3) | 3:21 |
-| 94 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 |
-| 95 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
-| 96 | [Mercy \- Acoustic Version](https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Spotify Session](https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu) | 3:33 |
-| 97 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 94 | [T\-Shirts \- Acoustic](https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o) | [James Smith](https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7) | [T\-Shirts \(Acoustic\)](https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF) | 3:15 |
+| 95 | [Hand In My Pocket \- Live/Acoustic Cover](https://open.spotify.com/track/3P2I45r2nyahA9vZS6SQGT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Live At AllSaints Studios](https://open.spotify.com/album/0kFojclwKS2epbuzKVKx6s) | 3:05 |
+| 96 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 |
+| 97 | [Mercy \- Acoustic Version](https://open.spotify.com/track/1uZ9Sb4JJRiG4gvINBfZMM) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Spotify Session](https://open.spotify.com/album/5feWfhvdBhDbolLTe4myfu) | 3:33 |
 | 98 | [No Promises \- Acoustic](https://open.spotify.com/track/1LKxHaLu3RG4xWO0DXZ8OU) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Tell Me You Love Me \(Deluxe\)](https://open.spotify.com/album/1MI6gNg0plcEOgs8aezsjH) | 3:52 |
 | 99 | [leading me on \- acoustic](https://open.spotify.com/track/1ABFvT2I5TSJC0gjfyfpfx) | [OSTON](https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ) | [Sitting at the Kids Table \(Acoustic\)](https://open.spotify.com/album/1wwpBhbFjjxylQBB6rMfly) | 3:41 |
 | 100 | [Bruises](https://open.spotify.com/track/3BxzQaXrfoWo1lYLZjJqyD) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Bruises](https://open.spotify.com/album/6eOlXFqR2q3WYQpKu6xSRm) | 3:38 |

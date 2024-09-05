@@ -2,7 +2,7 @@
 
 ### [This Is Skillet](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qgZOg)
 
-> This is Skillet\. The essential tracks, all in one playlist.
+> This is Skillet\. المقاطع الأساسية، كلها في قايمة أغاني واحدة.
 
 58 songs - 3 hr 31 min
 
@@ -58,12 +58,12 @@
 | [Unbreakable Soul](https://open.spotify.com/track/1H5O8Re8EWxGtniptE7HIW) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion: Day of Destiny](https://open.spotify.com/album/0yppsQTW8pACnrnH75Rvhv) | 3:21 | 2024-05-24 |  |
 | [Undefeated](https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed](https://open.spotify.com/album/4rJu3hBFAUqIAQOlSStJzO) | 3:35 | 2024-05-24 |  |
 | [Unpopular](https://open.spotify.com/track/2LQj9oZhGaxq6oBb9FMwGq) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unpopular](https://open.spotify.com/album/3K80OU42OLQ9ZlRAOEewL4) | 3:05 | 2024-08-11 |  |
-| [Valley of Death](https://open.spotify.com/track/6yPfhJH9EjrJZMCevkN7a9) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:27 | 2024-05-24 |  |
+| [Valley of Death](https://open.spotify.com/track/6yPfhJH9EjrJZMCevkN7a9) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Dominion](https://open.spotify.com/album/1ZUW7enyVvaUZgkcWXk6wG) | 4:27 | 2024-05-24 | 2024-09-05 |
 | [Victorious](https://open.spotify.com/track/4emQrNiz37OidY7SoXXQls) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 4:05 | 2024-05-24 |  |
 | [What I Believe](https://open.spotify.com/track/5aUl2cPg4O7yXXdzWQVTYO) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Rise \(Deluxe Edition\)](https://open.spotify.com/album/3AUIurHdBrfvqSs7EEr3AA) | 3:19 | 2024-05-24 |  |
 | [Whispers in the Dark](https://open.spotify.com/track/6rSuL1ViLO7Aljn2WD09s4) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Comatose](https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4) | 3:24 | 2024-05-24 |  |
 | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8), [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Wolf \(feat\. John Cooper of Skillet\)](https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ) | 3:18 | 2024-05-24 |  |
-| [Would It Matter](https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \(Deluxe Edition\)](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 4:12 | 2024-05-24 | 2024-08-19 |
+| [Would It Matter](https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake \- Deluxe Edition](https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW) | 4:12 | 2024-05-24 |  |
 | [You Ain't Ready](https://open.spotify.com/track/1v0031VtKGsWfPDkKzGV3s) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Victorious](https://open.spotify.com/album/6uBm8oGd1fJNWpCsaURaPZ) | 3:17 | 2024-07-13 |  |
 | [You Get Me High](https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Unleashed Beyond \(Special Edition\)](https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37) | 3:17 | 2024-05-24 |  |
 

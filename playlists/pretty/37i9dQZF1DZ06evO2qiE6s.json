@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 119598,
-  "original_name": "This Is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3",
+  "description": "This is Dean Martin. The essential tracks, all in one playlist.",
+  "num_followers": 119603,
+  "original_name": "This Is Dean Martin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAAnIV6PdFYxj9D5SHaKOoQ2",
+  "snapshot_id": "ZtZRgAAAAADRnk1PPjCcz3wBt5wYwvtW",
   "tracks": [
     {
       "added_at": null,
@@ -323,22 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
-        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 136493,
-      "name": "Good Mornin' Life",
-      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 196573,
       "name": "Dream A Little Dream",
       "url": "https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 8 (1957-1958)",
+        "url": "https://open.spotify.com/album/3qkVx3Bic5wetQLYEYKPuK"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 136493,
+      "name": "Good Mornin' Life",
+      "url": "https://open.spotify.com/track/3AnTfM2O5kUtlZfZ5O3hyB"
     },
     {
       "added_at": null,
@@ -387,22 +387,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
-        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 145066,
-      "name": "Kiss",
-      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sleep Warm",
         "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 166066,
       "name": "All I Do Is Dream Of You - Remastered 1991",
       "url": "https://open.spotify.com/track/4e6JJ0mppGJmSG9TOTYVoM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dean Martin: The Capitol Recordings, Vol. 3 (1951-1952)",
+        "url": "https://open.spotify.com/album/2Kk2yOUlO23aSwwJBTeXPu"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 145066,
+      "name": "Kiss",
+      "url": "https://open.spotify.com/track/1IAMWO6YGFzwagaGtBSuD1"
     },
     {
       "added_at": null,
@@ -483,8 +483,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dean Martin TV Show",
-        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
+        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
+        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 133186,
-      "name": "The One I Love (Belongs to Somebody Else)",
-      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
+      "duration_ms": 185760,
+      "name": "I Have But One Heart ('O Marenariello)",
+      "url": "https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd"
     },
     {
       "added_at": null,
@@ -515,8 +515,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dean Martin: The Capitol Recordings, Vol. 12 (1961)",
-        "url": "https://open.spotify.com/album/7yfeP3Bnhe4mE1rZiLqQWh"
+        "name": "The Dean Martin TV Show",
+        "url": "https://open.spotify.com/album/1PAwD673MBnPT4Kt6cGGfR"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 185760,
-      "name": "I Have But One Heart ('O Marenariello)",
-      "url": "https://open.spotify.com/track/4B2PkwShniUthCG4UiAYtd"
+      "duration_ms": 133186,
+      "name": "The One I Love (Belongs to Somebody Else)",
+      "url": "https://open.spotify.com/track/5bhFjjOxKttzjw4wISVQZ8"
     },
     {
       "added_at": null,
@@ -849,6 +849,6 @@
       "url": "https://open.spotify.com/track/5kkuFmsiEYlDXHoCWLey4B"
     }
   ],
-  "unique_name": "This Is \u30c7\u30a3\u30fc\u30f3\u30fb\u30de\u30fc\u30c6\u30a3\u30f3",
+  "unique_name": "This Is Dean Martin",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2qiE6s"
 }

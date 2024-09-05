@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,596 likes - 64 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,850 likes - 64 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 2 | [A decirme qué \- En Vivo Luna Park](https://open.spotify.com/track/10nFDR4YGrQa4QNMNZTuaM) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [A decirme qué \(En Vivo Luna Park\)](https://open.spotify.com/album/2qQpDG3fsQe4U83k6WsXFs) | 4:04 |
 | 3 | [Pobre Corazón](https://open.spotify.com/track/1gpayq8BQ8Z1AZSCHUeZOC) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón](https://open.spotify.com/album/1IV4edNM4eYtHUOieGtIj9) | 3:18 |
 | 4 | [Costumbres \- Vivo](https://open.spotify.com/track/6HT88WDVwEJiHEbPuQ5XcB) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Costumbres \(Vivo\)](https://open.spotify.com/album/5bF1CFdbRtYvsCbVro137h) | 2:13 |
-| 5 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \[En Vivo\]](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 |
+| 5 | [El Humo del Cigarrillo \- En Vivo](https://open.spotify.com/track/1d3bKbNVwO3YgXPAi3YrI9) | [Sin Miedo](https://open.spotify.com/artist/02lGxcSZaGuHiJryv6vkOY), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Sin Miedo: Un Tiro \- Raúl Ramirez \(Sessiones con Público\) \- En Vivo](https://open.spotify.com/album/6EwZ8CnSFgD8IKvwbhToc0) | 1:56 |
 | 6 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 |
 | 7 | [Muero Por Ti \- Vivo](https://open.spotify.com/track/7CynOao5TaEsvjxtdi8uMS) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [A.B\. Quintanilla III](https://open.spotify.com/artist/5MP9bH9aUryiKQeUvABLIU), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Muero Por Ti \(Vivo\)](https://open.spotify.com/album/4yZMxxx2r9b0a7fKdysT1k) | 3:37 |
 | 8 | [Sólo con un Beso](https://open.spotify.com/track/5ucrujpVC5pPdxNR42guhh) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sólo con un Beso](https://open.spotify.com/album/1wCoN5OCgwlVWfR8nzTJBJ) | 2:35 |

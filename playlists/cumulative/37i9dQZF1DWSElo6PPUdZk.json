@@ -115,6 +115,24 @@
     },
     {
       "album": {
+        "name": "Magical",
+        "url": "https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb"
+      },
+      "artists": [
+        {
+          "name": "Nimrat Khaira",
+          "url": "https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145765,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v"
+    },
+    {
+      "album": {
         "name": "Badi Tanhai (From \"Shahkot\")",
         "url": "https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 158000,
       "name": "Jhanjar",
       "url": "https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy"

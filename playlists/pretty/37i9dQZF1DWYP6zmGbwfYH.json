@@ -1,6 +1,6 @@
 {
   "description": "El icuiricui, el matalacachimba y el ruletero.",
-  "num_followers": 279846,
+  "num_followers": 279919,
   "original_name": "Ruleteando",
   "owner": {
     "name": "Spotify",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
-      },
-      "artists": [
-        {
-          "name": "La Mafia",
-          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "En Tiempo de Amor",
         "url": "https://open.spotify.com/album/2z5Nu8i0nPraJy20am9sZL"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 292773,
       "name": "Te Va a Doler",
       "url": "https://open.spotify.com/track/2h6WIOkTPvHSAD7vR6lMSS"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/0zinXPMSpU4hy0XRlSZtda"
+      },
+      "artists": [
+        {
+          "name": "La Mafia",
+          "url": "https://open.spotify.com/artist/3rhO3rDk432VyAwyZnkECs"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/6TyDYuV7w2BwEFnGiMkIn6"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
+        "name": "7 Exitos",
+        "url": "https://open.spotify.com/album/03uXL5xUnM58mYxtq077r9"
+      },
+      "artists": [
+        {
+          "name": "Yiyo Sarante",
+          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
+        }
+      ],
+      "duration_ms": 224496,
+      "name": "Corazon de Acero",
+      "url": "https://open.spotify.com/track/2fM9D3e5pyVBzqOBgMC8ap"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
         "name": "No Se Va",
         "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
       },
@@ -1807,34 +1823,18 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
-        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
+        "name": "B\u00fascame",
+        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
         }
       ],
-      "duration_ms": 232493,
-      "name": "Amor Sin Primavera",
-      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
-        "name": "7 Exitos",
-        "url": "https://open.spotify.com/album/03uXL5xUnM58mYxtq077r9"
-      },
-      "artists": [
-        {
-          "name": "Yiyo Sarante",
-          "url": "https://open.spotify.com/artist/2rwLjVHS15sfzciKXXNbgA"
-        }
-      ],
-      "duration_ms": 224496,
-      "name": "Corazon de Acero",
-      "url": "https://open.spotify.com/track/2fM9D3e5pyVBzqOBgMC8ap"
+      "duration_ms": 233325,
+      "name": "Aquel Lugar",
+      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "B\u00fascame",
-        "url": "https://open.spotify.com/album/2NCLhGDYACSCs0UHT9jLAL"
+        "name": "Los Gigantes De La Cumbia, Vol. 1, Disco 1",
+        "url": "https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly"
       },
       "artists": [
         {
-          "name": "Adolescent's Orquesta",
-          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 233325,
-      "name": "Aquel Lugar",
-      "url": "https://open.spotify.com/track/2vHNqDJe1qvt1sroQfNHSI"
+      "duration_ms": 232493,
+      "name": "Amor Sin Primavera",
+      "url": "https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe"
     },
     {
       "added_at": "2024-07-11 01:03:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-07-11 01:03:00",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
-    },
-    {
-      "added_at": "2024-07-11 01:03:00",
-      "album": {
         "name": "15 Boleros de Oro",
         "url": "https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 224256,
       "name": "Tus Jefes No Me Quieren",
       "url": "https://open.spotify.com/track/16OHjORdq0UoVilD02ZzXN"
+    },
+    {
+      "added_at": "2024-07-11 01:03:00",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/1yyAMU18fNUqYqLupq1CoP"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207266,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/5lmCmdcgX5kZGdEFRS9H77"
     },
     {
       "added_at": "2024-07-11 01:03:00",

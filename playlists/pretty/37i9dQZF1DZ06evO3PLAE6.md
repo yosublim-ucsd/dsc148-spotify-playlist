@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,629 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,634 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 14 | [True Colours](https://open.spotify.com/track/2BTf3I9a3wECs9UYY2Pd7V) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Storybook](https://open.spotify.com/album/1m1dZJQxbo8XzvsVUbirEb) | 3:44 |
 | 15 | [The Quiet Life](https://open.spotify.com/track/2vRGeDYwISNpSebcswORMg) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:35 |
 | 16 | [Good People](https://open.spotify.com/track/5kS79rn0ol9Ha8zyxCz8Z4) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Good People](https://open.spotify.com/album/5O1JpWoLxXK3IgxtxTYBmR) | 4:23 |
-| 17 | [Better Be Home Soon](https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [She Will Have Her Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD) | 3:19 |
-| 18 | [Sweetest Waste Of Time](https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:57 |
+| 17 | [Sweetest Waste Of Time](https://open.spotify.com/track/6gaMBphZBrrirDf2jYJYwr) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 2:57 |
+| 18 | [Better Be Home Soon](https://open.spotify.com/track/1gVTqBN71D8imfxxq9gRxD) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [She Will Have Her Way \- The Songs Of Tim & Neil Finn](https://open.spotify.com/album/3V5T6sEl1VzExdSrEbsLDD) | 3:19 |
 | 19 | [On A Bad Day](https://open.spotify.com/track/1BuBbiwN7qkZjZtmmklPzj) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:51 |
 | 20 | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/track/4v0Lu9dboiL2jeGvtvBiQT) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Lose Yourself \- Live at Civic Theater, Newcastle, Australia](https://open.spotify.com/album/17Kt6yiwlPwzwiYesXk6wC) | 8:14 |
 | 21 | [Hey \(with Paul Kelly\)](https://open.spotify.com/track/3XnN1OhwOLTYjDB1UR3Sx8) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:07 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 25 | [Little Bird](https://open.spotify.com/track/29BFk3tVefQDnyrNEwUezI) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:30 |
 | 26 | [Cry Like A Baby](https://open.spotify.com/track/7sQmRscgaqL7Ue2BguSrLR) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:00 |
 | 27 | [A Little Bit Lonesome](https://open.spotify.com/track/203Lkzy5VCbp6KNpZe1eYi) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 2:59 |
-| 28 | [Wildflower](https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:55 |
-| 29 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
+| 28 | [If We Had a Child \(with Keith Urban\)](https://open.spotify.com/track/5ipsrUhNoP3WyNxFmGsGc0) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:40 |
+| 29 | [Wildflower](https://open.spotify.com/track/2zKsKOqfi9bwIbCWgFz0Un) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Rattlin' Bones](https://open.spotify.com/album/4RuqNm5j8BzPDEivITVxOk) | 3:55 |
 | 30 | [Last Hard Bible](https://open.spotify.com/track/5j2e567wbrQ8VrfhyvgBss) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 2:23 |
 | 31 | [I Still Pray](https://open.spotify.com/track/4oYgJotc49KtSyGALfwWVH) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 4:31 |
 | 32 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 49 | [Have Mercy On Me](https://open.spotify.com/track/3pkx8nZDJWB72d8wUTOABy) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:55 |
 | 50 | [Satellite](https://open.spotify.com/track/3TSW0LDIUXbUa3NT5ynZKP) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Dragonfly](https://open.spotify.com/album/3o807nqdUFN5MEc9Ex7IoM) | 3:41 |
 
-Snapshot ID: `ZtUAAAAAAAC6DdSResF5s2Oa6JrOf/Ac`
+Snapshot ID: `ZtZRgAAAAABxxIoPjQ/5Ih5yWK2qCMun`

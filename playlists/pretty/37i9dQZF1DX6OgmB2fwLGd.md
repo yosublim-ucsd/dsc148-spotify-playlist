@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 ### [Internet People](https://open.spotify.com/playlist/37i9dQZF1DX6OgmB2fwLGd)
 
-> Dave Blunts\. Born and raised on the internet.
+> BNYX®\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,393,454 likes - 100 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,407 likes - 100 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bundle Of Sticks](https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Bundle Of Sticks](https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj) | 2:47 |
+| 1 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
 | 2 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 |
-| 3 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
-| 4 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 |
-| 5 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
-| 6 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
+| 3 | [mewtwo](https://open.spotify.com/track/6xZYGIixR3zhhOHwu7UEMY) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos \(Deluxe\)](https://open.spotify.com/album/58iEeJbYd6OBGRM0TiwltL) | 2:08 |
+| 4 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 |
+| 5 | [KEEP UP](https://open.spotify.com/track/2yR2sziCF4WEs3klW1F38d) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [KEEP UP // FROSTBITE](https://open.spotify.com/album/526xuSD6c45Gb5hH4rN8RY) | 2:13 |
+| 6 | [Bundle Of Sticks](https://open.spotify.com/track/6rLgFcrZmYEJs6oM4nxpPr) | [Dave Blunts](https://open.spotify.com/artist/2OrFz59xI0kQpzelSLB80j) | [Bundle Of Sticks](https://open.spotify.com/album/0b4W9PteoO5ZuFrtHQGIqj) | 2:47 |
 | 7 | [trauma](https://open.spotify.com/track/0jNhSK5gotdRB1G4nMqEau) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [trauma](https://open.spotify.com/album/0eihBhagAmahQQALFmScz3) | 2:11 |
 | 8 | [sassup witcha](https://open.spotify.com/track/0u2nsmVqQmoQNxfBT1kVH0) | [angelus](https://open.spotify.com/artist/56l5jbQerCGh7lfbwLnfaK) | [sassup witcha](https://open.spotify.com/album/2T1zQxFBQcWX8kQKCkql3o) | 1:21 |
 | 9 | [Escape](https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [Escape](https://open.spotify.com/album/7htW5qv2yBt0dH7be0zMbc) | 2:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [all the time](https://open.spotify.com/track/2gWQfBIHmiELMy5LAcvHLD) | [Bayymack](https://open.spotify.com/artist/1scrvreYQVFmaZTPUGUxdG), [Pr0xy](https://open.spotify.com/artist/3PmktxhWPrnvZ9dW9EWMcM) | [all the time](https://open.spotify.com/album/57AlgBtPGJj2jFIigBeRWJ) | 1:51 |
 | 100 | [22 hours](https://open.spotify.com/track/3RdB9x6VjjxTsp3YfiBaJ3) | [b4u](https://open.spotify.com/artist/5DjaUPqQpwjqpoYKeGcULR) | [still feels like](https://open.spotify.com/album/4v0qd6jPgkGfGAKfogxCuN) | 1:36 |
 
-Snapshot ID: `Ztd2fgAAAAA8uyhuh3lk1TRY1UPQDUEn`
+Snapshot ID: `ZthliAAAAADrkqnhZOdq7hsisYlkos98`

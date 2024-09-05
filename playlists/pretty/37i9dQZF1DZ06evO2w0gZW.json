@@ -1,12 +1,12 @@
 {
   "description": "This is Mariah Carey. The essential tracks, all in one playlist.",
-  "num_followers": 478141,
+  "num_followers": 478210,
   "original_name": "This Is Mariah Carey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAD7WW5Gcfcuy/n8tbDu9/6a",
+  "snapshot_id": "ZtZRgAAAAADc8ldSXvdLC7dGw02TU32j",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 209266,
+      "name": "Open Arms",
+      "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Butterfly",
         "url": "https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 283573,
       "name": "Breakdown (feat. Krayzie Bone & Wish Bone)",
       "url": "https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 209266,
-      "name": "Open Arms",
-      "url": "https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7"
     },
     {
       "added_at": null,

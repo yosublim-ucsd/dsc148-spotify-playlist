@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-902 songs - 2 day 3 hr 29 min
+903 songs - 2 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Love letter](https://open.spotify.com/track/6SsTCoS6ofghaAqbzEiFK4) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:11 | 2022-05-03 | 2022-07-19 |
 | [Love me once again](https://open.spotify.com/track/6G7GXLG42nhZgBu8eRReAa) | [Son Tae jin](https://open.spotify.com/artist/7w3dpNEHUV9vTN2EPtJBhf) | [Fire Trot Preliminary PART 2](https://open.spotify.com/album/0vaOAhSkzH2Ob2CDFkW5Iv) | 2:50 | 2024-08-13 |  |
 | [Love must be a butterfly + I am 17 years old](https://open.spotify.com/track/5tXEh4F6N1cOLCzmVYHApa) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [\[2020 TrotAwards\] BEST](https://open.spotify.com/album/1qabkEyfuiYxzewvUD6hHf) | 2:31 | 2022-04-22 | 2022-07-13 |
-| [Love Signal](https://open.spotify.com/track/3rnvLgteBQWTALKwhRt0p9) | [JANG SONG HO](https://open.spotify.com/artist/61f28y2zvYJyjTqfCB5b4p) | [Love Signal](https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN) | 3:33 | 2023-07-07 |  |
+| [Love Signal](https://open.spotify.com/track/3rnvLgteBQWTALKwhRt0p9) | [JANG SONG HO](https://open.spotify.com/artist/61f28y2zvYJyjTqfCB5b4p) | [Love Signal](https://open.spotify.com/album/1E6pcoxRxmJGPayYeK0QNN) | 3:33 | 2023-07-07 | 2024-09-05 |
 | [Love Station](https://open.spotify.com/track/2D1xAiDD33nqcxtSMH30hO) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:11 | 2022-07-22 | 2023-03-02 |
 | [Love Station](https://open.spotify.com/track/2LQCNmrPz6cIm1Y3sdwHO4) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/39cHmgjQ5FDyK6IgpGuMbr) | 3:11 | 2022-05-03 | 2022-07-29 |
 | [Love that left Autumn behind](https://open.spotify.com/track/1ehBpQ5yivI6sjlmnPVHx7) | [Shin Yu](https://open.spotify.com/artist/4aLSOIhA1dueSblihS8Zk9) | [Love call center PART14](https://open.spotify.com/album/4gaF7DNZZA5W1wHEYZ88ll) | 3:05 | 2022-05-03 | 2022-07-09 |
@@ -678,6 +678,7 @@
 | [Together in the rain](https://open.spotify.com/track/1zSzl0XZ6ZTrOqETlxQ5AV) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:20 | 2022-04-22 | 2022-07-12 |
 | [Together in the rain](https://open.spotify.com/track/3LWrzcBkiKaXNZSUKoCTlb) | [Oh Seungeun](https://open.spotify.com/artist/7nCfLz9ZdOnTkH5PW4IWqy), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 3:19 | 2023-09-28 |  |
 | [Tonight](https://open.spotify.com/track/2EHIlmOzfIw1OYrasmhXBW) | [Enoch](https://open.spotify.com/artist/1KcnBJQnU9D8NHEMZaBkVh) | [Seol Un Do X Enoch Special](https://open.spotify.com/album/4XvEgcBiv2Et2kojlh1lFs) | 3:19 | 2024-06-17 |  |
+| [Tonight](https://open.spotify.com/track/2MDDkx4W0mIolqWHgXWvqi) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:05 | 2024-09-03 |  |
 | [Traditional Market](https://open.spotify.com/track/7imk0My0UHl3DSG3XJ4rN4) | [KangNam](https://open.spotify.com/artist/5eVitbulmXBzZ2NsRyYJN3), [Tae Jin\-Ah](https://open.spotify.com/artist/0WuT3krqBIm5MranO0BJ1H) | [Traditional Market](https://open.spotify.com/album/58oRrFuBlJXlQCKkg8AEhS) | 3:24 | 2022-04-22 |  |
 | [Train for the south](https://open.spotify.com/track/0A4X8AL89Ab5UDhG1iYh0D) | [Kim Jungyeon](https://open.spotify.com/artist/1hYRpUtSjcgh8qwPE0JkRz) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 1:52 | 2024-08-13 |  |
 | [Tralalala](https://open.spotify.com/track/4p46qIOHJXGNpgNtL75Tvz) | [UV](https://open.spotify.com/artist/2oZuwz3cAbFhsEOoXJ2Mem), [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART35](https://open.spotify.com/album/1jMXZXkQijYdiy2VXDwWYQ) | 6:18 | 2022-04-22 |  |

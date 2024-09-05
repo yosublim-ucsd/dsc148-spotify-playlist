@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Dulce y Agraz.",
-  "num_followers": 121711,
+  "num_followers": 121710,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
+        "name": "Albor",
+        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 201123,
+      "name": "Esta vislumbra",
+      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
         "name": "anhelo",
         "url": "https://open.spotify.com/album/0ycnaEHl68CAPA2Y4OC6vZ"
       },
@@ -1047,18 +1063,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Albor",
-        "url": "https://open.spotify.com/album/4Ux1CbTTTwflNZzI5wxtp7"
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
       },
       "artists": [
         {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
         }
       ],
-      "duration_ms": 201123,
-      "name": "Esta vislumbra",
-      "url": "https://open.spotify.com/track/5RSDZ3yNuLTvCEFi9amsc9"
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1103,26 +1123,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1139,22 +1139,6 @@
       "duration_ms": 246349,
       "name": "Fachada Continua",
       "url": "https://open.spotify.com/track/0vBmnm1xu5k4j5Yb3S1rCs"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
-        "name": "Espiral, Pt. 1",
-        "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
-      },
-      "artists": [
-        {
-          "name": "Ciudad N\u00f3made",
-          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
-        }
-      ],
-      "duration_ms": 174526,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1179,6 +1163,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
+        "name": "Espiral, Pt. 1",
+        "url": "https://open.spotify.com/album/77BAbdA4KSnWqkdBGFxFft"
+      },
+      "artists": [
+        {
+          "name": "Ciudad N\u00f3made",
+          "url": "https://open.spotify.com/artist/5bTN0MgAA8rwwi16VuwXwA"
+        }
+      ],
+      "duration_ms": 174526,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/1zvFHmZkxyxUOpAaMRi2qm"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
         "name": "aterrizar",
         "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
       },
@@ -1191,22 +1191,6 @@
       "duration_ms": 178285,
       "name": "aterrizar",
       "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
-      },
-      "artists": [
-        {
-          "name": "Arranquemos del Invierno",
-          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
-        }
-      ],
-      "duration_ms": 163885,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 210434,
       "name": "Obsesi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/5lpEBuXr9cSb1jXnOySI0g"
+      },
+      "artists": [
+        {
+          "name": "Arranquemos del Invierno",
+          "url": "https://open.spotify.com/artist/6TohVx7C5O24NqelCsIdfs"
+        }
+      ],
+      "duration_ms": 163885,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3SRRSI56Cus8ePoxIVysNg"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Donde Mueren Todos",
-        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
-      },
-      "artists": [
-        {
-          "name": "Prehist\u00f6ricos",
-          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
-        }
-      ],
-      "duration_ms": 189416,
-      "name": "Donde Mueren Todos",
-      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "qui\u00e9n llama a esta hora",
         "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
       },
@@ -1423,18 +1407,18 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "IKARO",
-        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+        "name": "Donde Mueren Todos",
+        "url": "https://open.spotify.com/album/7H9luEo8S8ZrmfTXeBvpgM"
       },
       "artists": [
         {
-          "name": "Planetario",
-          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+          "name": "Prehist\u00f6ricos",
+          "url": "https://open.spotify.com/artist/1DmSwSzxDlSDJMPWobjzcB"
         }
       ],
-      "duration_ms": 363750,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
+      "duration_ms": 189416,
+      "name": "Donde Mueren Todos",
+      "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 238000,
       "name": "PISCINA OL\u00cdMPICA",
       "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "IKARO",
+        "url": "https://open.spotify.com/album/687jphzyNm4w2mjd2BASOk"
+      },
+      "artists": [
+        {
+          "name": "Planetario",
+          "url": "https://open.spotify.com/artist/4KyZLSFxk5EZnqkceVEvga"
+        }
+      ],
+      "duration_ms": 363750,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/5B9czb7Nibn6TP9sANx5xK"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "El Sol y T\u00fa",
-        "url": "https://open.spotify.com/album/69vYAPeaJrb4j2AY3acJAO"
-      },
-      "artists": [
-        {
-          "name": "palma",
-          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "El Sol y T\u00fa",
-      "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "Refresco",
         "url": "https://open.spotify.com/album/2IF1XMAdUABwcrZSWFnE4b"
       },
@@ -1695,18 +1679,18 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
+        "name": "El Sol y T\u00fa",
+        "url": "https://open.spotify.com/album/69vYAPeaJrb4j2AY3acJAO"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+          "name": "palma",
+          "url": "https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3"
         }
       ],
-      "duration_ms": 165088,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
+      "duration_ms": 186893,
+      "name": "El Sol y T\u00fa",
+      "url": "https://open.spotify.com/track/4I2W2aOUJlmaEbW19PxyYj"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1723,6 +1707,22 @@
       "duration_ms": 190566,
       "name": "Despertar",
       "url": "https://open.spotify.com/track/3AlBiuHcUjtTACtAKxI0pK"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 165088,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
     },
     {
       "added_at": "2024-08-30 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,396 likes - 100 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,494 likes - 100 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ6Uxoz4EF1y.md) - [plain]
 | 97 | [Santo Es Tu Nombre \- En Vivo](https://open.spotify.com/track/0HVwdABlCeSEMKcNrrltMq) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Lilly Goodman](https://open.spotify.com/artist/6vetaGijEBK3wfhtCUWRBS) | [Santo Es Tu Nombre](https://open.spotify.com/album/1VWgamUUdySfyTVnuwG0zP) | 6:27 |
 | 98 | [Cantaré de Tu Amor](https://open.spotify.com/track/3uXGOO9rHDZu2hQaqOgjRG) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Colección de Danilo Montero](https://open.spotify.com/album/0yECmK5HVjCGNV30RpG1BY) | 6:00 |
 | 99 | [Me Dice Que Me Ama](https://open.spotify.com/track/2OaM6swiHf8Q9fikExLHei) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [El Aire De Tu Casa](https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE) | 4:01 |
-| 100 | [Eterna luz](https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Música en el Desierto](https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN) | 4:31 |
+| 100 | [Cielo En La Tierra](https://open.spotify.com/track/14379PKwuusX7iKk8OnpZ7) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Cielo En La Tierra](https://open.spotify.com/album/3JTD6PWtChPdo6kxxWZS6y) | 6:26 |
 
 Snapshot ID: `ZoM6BAAAAADfYRsgrR2fP5NfFyL+uAeM`

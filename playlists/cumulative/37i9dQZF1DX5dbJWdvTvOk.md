@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-718 songs - 1 day 6 hr 34 min
+719 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Cymatic Patterns](https://open.spotify.com/track/5iPaREWrPaHuLjfZIJvOfM) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [Cymatic Patterns](https://open.spotify.com/album/4D7FAUbOxuBOvyGjRUdglI) | 1:53 | 2023-08-17 | 2023-08-26 |
 | [Da Capo](https://open.spotify.com/track/7otpDaoUjNgyaq15nyFXGC) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Da Capo](https://open.spotify.com/album/6b0najWGe4E4YpcuGgelWq) | 2:15 | 2023-04-21 |  |
 | [Daffodil](https://open.spotify.com/track/4iMdLRlOYmVKieGVPNfawY) | [Kevin Flynn](https://open.spotify.com/artist/6Bgvv35hEHNuAeOQoNmpAm) | [Daffodil](https://open.spotify.com/album/7iPJO6kKUX6OzSxXxhBgjW) | 2:46 | 2024-02-23 |  |
+| [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 | 2024-09-03 |  |
 | [Dandelion wishes](https://open.spotify.com/track/5CstzwIEFQn2Rz6K8Ww1B4) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Dandelion wishes](https://open.spotify.com/album/0y2WWgiF0SnUS7GrLkbaxq) | 2:29 | 2023-03-31 | 2023-04-22 |
 | [Dans tes mains](https://open.spotify.com/track/5ECdxrA7QwtRFqxyuM3BK6) | [Bonno Neo](https://open.spotify.com/artist/5nBFfdEKdggIFXDXiWs8lf) | [Toucher mon coeur](https://open.spotify.com/album/2gz6d6FUO7EUSGT3YAXSZl) | 2:29 | 2023-04-21 |  |
 | [Dartden Road](https://open.spotify.com/track/0xW2pfHnKCyDQXACbQonff) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Dartden Road](https://open.spotify.com/album/2CY1GbH0o6jWzddu6qR13U) | 2:07 | 2023-04-21 |  |
@@ -296,7 +297,7 @@
 | [Icarus](https://open.spotify.com/track/6kTvM9JYiEriQHNRXhFUPs) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Icarus](https://open.spotify.com/album/6kefDAQzsl3jmFnt93Iaxz) | 2:43 | 2023-04-21 |  |
 | [If Only](https://open.spotify.com/track/0TzHkdetO52vNoFkf1bqyP) | [Vita Alexander](https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz) | [If Only](https://open.spotify.com/album/4SkSg2UW1Tvw3sbbBniySM) | 2:44 | 2023-09-29 |  |
 | [Igueldo](https://open.spotify.com/track/4IN9TQVhu3Mzw1fEwblxGq) | [Rick Strauss](https://open.spotify.com/artist/5eZxnhbh1hSbnwiSBzlb5q) | [Silver Castle](https://open.spotify.com/album/60mfbInhL61D5iw97J0nE5) | 2:12 | 2022-07-15 | 2023-04-22 |
-| [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2023-04-21 |  |
+| [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 | 2023-04-21 | 2024-09-05 |
 | [Illuminé](https://open.spotify.com/track/2BITPXNQ15DTL6yiaCByPI) | [Fleur Onora](https://open.spotify.com/artist/1tjgN34CqFam0q9yCl2uP7) | [Illuminé](https://open.spotify.com/album/7Ab8RG5EdpXSfLpMqQDbn1) | 1:29 | 2023-04-21 | 2023-08-26 |
 | [Imagine](https://open.spotify.com/track/0JWLHBuJtbbR9ycmxVvmu7) | [Walter Penn](https://open.spotify.com/artist/2CWnlvisVPTCncNKI0k3U9) | [Imagine](https://open.spotify.com/album/4eXY3l7p4tlcSopoPBBUQ6) | 2:23 | 2023-04-21 | 2024-07-19 |
 | [Impressions](https://open.spotify.com/track/5FtBh1Ik9zIzJSoh33fxlM) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Impressions](https://open.spotify.com/album/44WfQys4PLW5lRENyD5U62) | 4:18 | 2023-06-22 |  |

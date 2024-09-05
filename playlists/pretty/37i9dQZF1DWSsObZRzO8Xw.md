@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 
 > Complex rhythms and mesmerizing loops\. Cover: Stegosauro
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,898 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,998 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,9 +96,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSsObZRzO8Xw.md) - [plain]
 | 86 | [Ausente](https://open.spotify.com/track/5mZbQmUlpLaq5ZFSsGcVE6) | [FRDZ](https://open.spotify.com/artist/3jNpad0kg45sRNra2vNp3t) | [Fernández](https://open.spotify.com/album/6mUGFYdjj6WKPfLOPdXbzw) | 2:21 |
 | 87 | [Ten Billion People](https://open.spotify.com/track/04B0actK1X1Y4Buy2vXARb) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Ten Billion People](https://open.spotify.com/album/6KkbUhO6mLJSldvbSSK5h8) | 6:29 |
 | 88 | [Shiva](https://open.spotify.com/track/1DicVORKQaNPV5wjEjIHjR) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Fontana Bella](https://open.spotify.com/album/2g1ryrsisD6xbYSV89N2Oc) | 3:37 |
-| 89 | [Camp Adventure](https://open.spotify.com/track/6umKcjGSEcThGs5dcYEnoU) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Twin Galaxies](https://open.spotify.com/album/2ip3aGH8KWEA8EugbTdsNZ) | 3:09 |
-| 90 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/71acYyonlfdPHddsxdKuVo) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp) | 4:33 |
-| 91 | [Teratology](https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt) | 6:25 |
+| 89 | [Teratology](https://open.spotify.com/track/7e27JuhzIHIN2p2C6PpGU1) | [The Physics House Band](https://open.spotify.com/artist/30EilmonVXftR1pWoALezP) | [Horizons / Rapture](https://open.spotify.com/album/6g3H4Su4jES5zbfY4av4Tt) | 6:25 |
+| 90 | [Camp Adventure](https://open.spotify.com/track/6umKcjGSEcThGs5dcYEnoU) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [Twin Galaxies](https://open.spotify.com/album/2ip3aGH8KWEA8EugbTdsNZ) | 3:09 |
+| 91 | [At the Turf Field Behind My Parents' House](https://open.spotify.com/track/71acYyonlfdPHddsxdKuVo) | [Giraffes? Giraffes!](https://open.spotify.com/artist/5wGMwXlBLMpuJzRpPxNFjq) | [Memory Lame](https://open.spotify.com/album/1MUGe9LNk7uyaIEdqIhwQp) | 4:33 |
 | 92 | [D \- feat\. Tomotaka Tsuji](https://open.spotify.com/track/4VtDX2nzP5TY2CwiTenZKq) | [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [Tomotaka Tsuji](https://open.spotify.com/artist/4I4peCBKiAH2e9Lggqn7X2) | [Fraction](https://open.spotify.com/album/179Fhkk5OUsNFh46JDJ6vl) | 4:43 |
 | 93 | [itsallwaves](https://open.spotify.com/track/5E5sFKr3L2sfmvnQR38N5C) | [Enemies](https://open.spotify.com/artist/5vfSFPrDPPBGExVLldEDOB) | [Valuables](https://open.spotify.com/album/4qB4qeFJ51u16LIX67gcfR) | 4:27 |
 | 94 | [The Barnacle Beach](https://open.spotify.com/track/5DYQ0bInAoRKJFzVRrFy5v) | [Settlefish](https://open.spotify.com/artist/1FzE9PthcwrmwfFNs7LNag) | [The Plural Of The Choir](https://open.spotify.com/album/20Xbsn2bDcmtZKp6FliRP8) | 2:45 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 
 > Pagodeira apresenta..\. O Melhor do Pagode 2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,083 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,072 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXxlTjrCu8cE.md) - [plain]
 | 30 | [Canção da Despedida](https://open.spotify.com/track/3x4t3QVJdGW2q0bDH0o13k) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Canção da Despedida](https://open.spotify.com/album/3dvqBJdA4409QXJlozKTHg) | 3:09 |
 | 31 | [Um Minuto Sem Você \- Ao Vivo](https://open.spotify.com/track/1be3Fdhi0YTJiZTrOqvunH) | [Renato da Rocinha](https://open.spotify.com/artist/2bRmiOcLOpBKxnMRZ9Nqiv), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7) | [Um Minuto Sem Você \(Ao Vivo\)](https://open.spotify.com/album/6EzV6ZJ7zi9d9EabqpKenZ) | 4:01 |
 | 32 | [Degrauzinho](https://open.spotify.com/track/1uWSkDWAW8g2ue465eWJYc) | [Akatu](https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8), [Belo](https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki) | [Degrauzinho por Degrauzinho \(Ao Vivo\)](https://open.spotify.com/album/0bObPIzUpM7Ai8PAu6ZPWm) | 3:37 |
-| 33 | [Cantin \- Ao Vivo](https://open.spotify.com/track/4paBHXdM2NGncZHevhXPJQ) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Benza Em Brasa \(Ao Vivo\)](https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0) | 2:17 |
+| 33 | [Cantin \- Ao Vivo](https://open.spotify.com/track/4paBHXdM2NGncZHevhXPJQ) | [Grupo Benzadeus](https://open.spotify.com/artist/66aYJzbeqXd9LyYc1qppzy), [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [Benza Em Brasa \- Ao Vivo](https://open.spotify.com/album/6pMJ5KR4DlkXmzkcA3IrK0) | 2:17 |
 | 34 | [Aos 45 \- Ao Vivo](https://open.spotify.com/track/2uvb60UP8gfdNKeffcfN3l) | [Vitinho](https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp) | [Aos 45 \(Ao Vivo\)](https://open.spotify.com/album/4Ym68agHC92MfdvlM5ohYP) | 2:54 |
 | 35 | [Tô Sentindo Falta](https://open.spotify.com/track/2EONSRu7JnCe75ZERnURp3) | [Di Propósito](https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7) | [Tô Sentindo Falta](https://open.spotify.com/album/008M0S57XJtqyqOlK1H5g6) | 3:10 |
 | 36 | [Trajetória \- Ao Vivo](https://open.spotify.com/track/67Cco0htUXmnuPYKgAkJnq) | [Caju Pra Baixo](https://open.spotify.com/artist/4QXf68owEt4pbGAUeDaIfp), [Mumuzinho](https://open.spotify.com/artist/34dfPo3Zi55yM6oV46q4y7), [FM O Dia](https://open.spotify.com/artist/50WgAZQkWLb1jysnVRsZBJ) | [10 Anos de Caju, Vol\. 1](https://open.spotify.com/album/3MrMVmydFjA8VMdWI2wBKq) | 3:16 |

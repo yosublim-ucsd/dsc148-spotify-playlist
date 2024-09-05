@@ -3423,6 +3423,24 @@
     },
     {
       "album": {
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+      },
+      "artists": [
+        {
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149466,
+      "name": "Them Bones (2022 Remaster)",
+      "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
+    },
+    {
+      "album": {
         "name": "So I Married An Axe Murderer Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/5bof4K2oWtFKLj1FUiY8Nm"
       },

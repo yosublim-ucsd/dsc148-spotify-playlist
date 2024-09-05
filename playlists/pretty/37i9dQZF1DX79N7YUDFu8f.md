@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 
 > Lekker rustig aan doen op zaterdag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,675 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,668 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79N7YUDFu8f.md) - [plain]
 | 33 | [Don't You](https://open.spotify.com/track/57qbmijYidoNcaLkT9zXQJ) | [Marike Jager](https://open.spotify.com/artist/1DvjWYF9T7H6CuQ7udKLYF), [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [The Silent Song](https://open.spotify.com/album/7p8kTQeWSGGs3yQkl8t6j8) | 3:03 |
 | 34 | [Sister](https://open.spotify.com/track/1IKMzW0NMEWOgNO3LVFZbe) | [Tomas Ferdinand](https://open.spotify.com/artist/04wssUBpRPfy8WOL1JKaLf) | [Airplanes](https://open.spotify.com/album/5Nm3G5vPdDf9hxo11dQiEZ) | 3:25 |
 | 35 | [Two By Two](https://open.spotify.com/track/43e1QhXItiHWcoHvENyJkI) | [Géonne Hartman](https://open.spotify.com/artist/4DxQTlVe6YC4kzlrPxXXon) | [He Went To The Sea](https://open.spotify.com/album/6sbHZO54hBTlyMhpqqkmom) | 2:40 |
-| 36 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \(Acoustic\)](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 |
+| 36 | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/track/0d7atlmNSW6i3rVaGyIpO0) | [FRIDAY](https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX) | [Show Me Where It Hurts \- Acoustic](https://open.spotify.com/album/1KX2m7tPEsz20wSfugvdWs) | 3:03 |
 | 37 | [Dream In A Dream](https://open.spotify.com/track/6EGvCC2xy1lEzfINPK5DUq) | [Frank Rensen](https://open.spotify.com/artist/4nahdbp2YzcisSOrGyVBAP) | [1/2](https://open.spotify.com/album/02YjNurvWFrkzn5wjEYT2P) | 3:11 |
 | 38 | [Courtyard Theatre](https://open.spotify.com/track/00eAyad4JN4CFGRdZPFdF9) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Courtyard Theatre](https://open.spotify.com/album/3QD3YNRDTSsYLI30dBYAHm) | 3:09 |
 | 39 | [Is It Really Over](https://open.spotify.com/track/6iu2xELNP7DX9XPG3kl58q) | [Paper Towns](https://open.spotify.com/artist/5ofMaKibg1xntezRb8Og2U), [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [Is It Really Over](https://open.spotify.com/album/5giATgpzWHU0d0N48oRdIa) | 3:38 |

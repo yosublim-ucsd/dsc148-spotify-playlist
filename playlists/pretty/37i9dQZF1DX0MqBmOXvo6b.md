@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 
 > Concéntrate al máximo, sin distracciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,282 likes - 250 songs - 10 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,370 likes - 250 songs - 10 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -232,31 +232,31 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0MqBmOXvo6b.md) - [plain]
 | 222 | [Seine](https://open.spotify.com/track/2y1o99gVURVZkmIyahWBb5) | [Rosa Leoni](https://open.spotify.com/artist/0TeuxsDOlSehaWDrCgGKNq) | [Moonray](https://open.spotify.com/album/4TsCwNDnZVczYuYG7nAyaC) | 3:18 |
 | 223 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 |
 | 224 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
-| 225 | [Encore une Danse](https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Encore une Danse](https://open.spotify.com/album/6wym62QStSSPaBmDN1kunZ) | 2:01 |
-| 226 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
-| 227 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 |
-| 228 | [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 |
-| 229 | [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 |
-| 230 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 |
-| 231 | [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 |
-| 232 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 |
-| 233 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 |
-| 234 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 |
-| 235 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 |
-| 236 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 |
-| 237 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 |
-| 238 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 |
-| 239 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 |
-| 240 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 |
-| 241 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 |
-| 242 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 |
-| 243 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 |
-| 244 | [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 |
-| 245 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 |
-| 246 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 |
-| 247 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 |
-| 248 | [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 |
-| 249 | [Knots](https://open.spotify.com/track/6OPZgEbGHJufMo64TipZF8) | [Norse Mythology](https://open.spotify.com/artist/05IxAmFj1DzEpTmjRJ6K54) | [Knots](https://open.spotify.com/album/0TN9Plv6OuVrZiuZ2shewx) | 3:32 |
-| 250 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
+| 225 | [Windswept](https://open.spotify.com/track/0onZ2SiPUMZVNjCnrwh4Ff) | [Alfons Daiminger](https://open.spotify.com/artist/6U9R5Ba5DxvK0ALylOx60v) | [Windswept](https://open.spotify.com/album/4fIJCoIOzSAHmmZQETFkf2) | 3:19 |
+| 226 | [Encore une Danse](https://open.spotify.com/track/5o7LUHW8BVTU0NQV8wMgbw) | [Francis Laplanne](https://open.spotify.com/artist/5CKQ9qNvPaV6mZ3eeOcUMY) | [Encore une Danse](https://open.spotify.com/album/6wym62QStSSPaBmDN1kunZ) | 2:01 |
+| 227 | [Voyager](https://open.spotify.com/track/6zplwArWlq8WOjRGVZIPii) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Voyager](https://open.spotify.com/album/2XnDUF444KioNZsTWIxBWX) | 2:12 |
+| 228 | [Falling Trees](https://open.spotify.com/track/6chDSMcaPisS0Dg7IiU1kD) | [Jared Chance Taylor](https://open.spotify.com/artist/29GfkEnuiaWJrX3uM4PPLt) | [Falling Trees](https://open.spotify.com/album/1cEko5IGVvuTgQe5HEB2l3) | 2:42 |
+| 229 | [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 |
+| 230 | [Final Thoughts](https://open.spotify.com/track/33N2hGEswrt2owzlW5PAsX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Final Thoughts](https://open.spotify.com/album/445Tm1RU9hCsXTagEdZ3Y1) | 2:14 |
+| 231 | [Rhyl Sands](https://open.spotify.com/track/2eB6dVkwbCJayvgplBO6Nt) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Malerei](https://open.spotify.com/album/6sxgRR1cYtmCXQSuDGU8ST) | 3:02 |
+| 232 | [Fleur De Vie](https://open.spotify.com/track/3XI8tZp7AGsBwtl3x3jJQ9) | [Jonas Bergsson](https://open.spotify.com/artist/46L8889dejsvPsDQIUMlvZ) | [Fleur De Vie](https://open.spotify.com/album/2OfATe9Y1JiETaENiHb6o9) | 2:56 |
+| 233 | [O Soave Fanciulla](https://open.spotify.com/track/5HQp593kflHm8LV12MepjR) | [Janet Bolt](https://open.spotify.com/artist/6qaN2QFmI31hie6adDTtgz) | [O Soave Fanciulla](https://open.spotify.com/album/3oCBWqBIPO4gcNWTJq98nl) | 2:56 |
+| 234 | [Tracing the Sky](https://open.spotify.com/track/7DuRtVOXIo2EKXUmcMMKgx) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Without Words](https://open.spotify.com/album/57pvjTiZ2itUqiYHMg9cUq) | 3:50 |
+| 235 | [kawaguchiko](https://open.spotify.com/track/3lGHx6NLMzkhwcCmO7gwBY) | [Valla](https://open.spotify.com/artist/1nrQ489GYy77LqrmBOmtfh) | [Wünderdoll](https://open.spotify.com/album/3VC8wOGv0ifbJyP5mEirn9) | 2:02 |
+| 236 | [above the world](https://open.spotify.com/track/6rgvIxOgJNNaQrIDPt0C1n) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [above the world](https://open.spotify.com/album/0NFfAEcHOvTRfrciO3WGqT) | 2:26 |
+| 237 | [Inner Axis](https://open.spotify.com/track/1jd5fyqDAFheXyMkCB0AX7) | [Marco Caron](https://open.spotify.com/artist/1ukrMCaSMKpylie4DjbhNw) | [Inner Axis](https://open.spotify.com/album/2EpslSBwvpOzdt0kk9nO4U) | 2:35 |
+| 238 | [Armagnac](https://open.spotify.com/track/7wFf7sKhGVHEJRFFrLol7T) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Armagnac](https://open.spotify.com/album/0o0fNvI8Lo5fScxRyu9jpj) | 3:17 |
+| 239 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 |
+| 240 | [Peaceful Ignorance](https://open.spotify.com/track/5bGPLVJlI19XA1Oi4XtdEV) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Peaceful Ignorance](https://open.spotify.com/album/6BGZkVmgfvJvsHGlK6Ri16) | 2:38 |
+| 241 | [Skärgård](https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Skärgård](https://open.spotify.com/album/3HTVIw9HK66IcYjS5Z4QuV) | 2:19 |
+| 242 | [Fairy Pools](https://open.spotify.com/track/02jSeRZPyBoysGlvsnFe7N) | [Jakob Maler](https://open.spotify.com/artist/7b7kemtMdYD48P8Ec7MWzb) | [Skye](https://open.spotify.com/album/65bltqhMq5gjB9kNxCXqvw) | 2:40 |
+| 243 | [Rianmarsi](https://open.spotify.com/track/3DG5USrBXKc74Hf8T1H2jn) | [Emiliano Nucci](https://open.spotify.com/artist/4EuYecPOxU6sd7XQzkzYRp) | [Rianmarsi](https://open.spotify.com/album/1pIIVUNVmiMvRBJbyNDt0J) | 2:16 |
+| 244 | [Rendezvous](https://open.spotify.com/track/3QWwv034n46XFeSPV7ImCW) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Rendezvous](https://open.spotify.com/album/6UmF6utHyLXJsDpmbnMcaf) | 2:28 |
+| 245 | [Eros](https://open.spotify.com/track/6S7DVL5a6gVfHCT93P2STO) | [Las Tinieblas](https://open.spotify.com/artist/3eY0YTyWNXA8z9zrWz1kYU) | [Eros](https://open.spotify.com/album/7hOhgHILlzIIjBziaqADKt) | 2:08 |
+| 246 | [Fljúga](https://open.spotify.com/track/1rFxXMAIF7GQhBhBNzumT1) | [Eyøni](https://open.spotify.com/artist/1WSVb6NfuMCOujQS2yOier) | [Fljúga](https://open.spotify.com/album/5wQ1doSiGa5Onc5SxGpd61) | 2:37 |
+| 247 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 |
+| 248 | [Sublime](https://open.spotify.com/track/22ifgaP1tUahdVaIn1K4ik) | [Figaro Castello](https://open.spotify.com/artist/5Ry3FXe5PMGIUxcADr3a4n) | [Valentina](https://open.spotify.com/album/3JTXSEftjN2uXDc44BKYMW) | 2:17 |
+| 249 | [Yellow Man](https://open.spotify.com/track/49m1O8EMWPKhqw8lIvmU81) | [Ramin Kuliev](https://open.spotify.com/artist/31YH5gJZ2AxYRBhQRIUzaT) | [Yellow Man](https://open.spotify.com/album/6w2UFWXpoVwjLby9A3y3yT) | 3:06 |
+| 250 | [Tulips In Spring](https://open.spotify.com/track/6Wpqybyfaa4PdGbcDtRykl) | [Janina Kowalski](https://open.spotify.com/artist/6vrxG1gknQh7kJRQXbW2zm) | [Tulips In Spring](https://open.spotify.com/album/6VI3QlSoosVVrtjiewD0DH) | 2:52 |
 
 Snapshot ID: `ZtXjqgAAAADL2FBDs2wsitx2/wamJ+Q9`

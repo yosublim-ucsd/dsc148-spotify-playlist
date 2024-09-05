@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 
 > Don't worry, be happy :\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,043 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,097 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fvgalTu2lg.md) - [plain]
 | 53 | [Better Days](https://open.spotify.com/track/2K0r5GD5zYlEMx2M7ZMcqG) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Better Days](https://open.spotify.com/album/3ETKNL7BaU8N2gh1GH4HXQ) | 2:24 |
 | 54 | [Always Look On The Bright Side Of Life](https://open.spotify.com/track/4DEcdqqKokU7UAE4wCGQEy) | [Monty Python](https://open.spotify.com/artist/5IxfhXIHjAOAqibxl90NZO) | [Monty Python Sings](https://open.spotify.com/album/57awupvncNEIad7j0lkOuT) | 3:35 |
 | 55 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/6jF1nHIMESqft9p33tQYPn) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO) | 3:31 |
-| 56 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \(Rerecorded\)](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:25 |
+| 56 | [I Will Survive \- Rerecorded](https://open.spotify.com/track/2a1MrtxYybqFV1Ow8VJ1dW) | [Gloria Gaynor](https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5) | [I Will Survive \- Rerecorded](https://open.spotify.com/album/0EvxRMIJySiL1ges38c753) | 4:10 |
 | 57 | [Let The Sunshine In \(Reprise\) \- Remastered 2000](https://open.spotify.com/track/2r5seNRSheLITyH4cevy2O) | [The 5th Dimension](https://open.spotify.com/artist/1UUYAQ9LiRsZF0ZukQNWXM) | [The Age Of Aquarius](https://open.spotify.com/album/1kVipwgtVNAaHM7Py341Ch) | 1:27 |
 | 58 | [Ain't Got No \- I Got Life \(From the musical production "Hair"\)](https://open.spotify.com/track/5VgcM58bybW45T2WgTdbeY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | ['Nuff Said \(Expanded Edition\)](https://open.spotify.com/album/1ZRMX4V4gDAJzRmwUfjMYg) | 2:07 |
 | 59 | [Lovely Day](https://open.spotify.com/track/1QQRBPMzXbL4z26mnIvgZD) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [The Essential Bill Withers](https://open.spotify.com/album/36qxAJDnXvbjD2UVAkawwZ) | 4:14 |

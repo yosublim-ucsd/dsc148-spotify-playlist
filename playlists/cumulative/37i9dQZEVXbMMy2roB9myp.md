@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Argentina.
 
-877 songs - 1 day 23 hr 5 min
+878 songs - 1 day 23 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,6 +222,7 @@
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-28 | 2024-08-30 |
 | [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-11-22 | 2023-12-12 |
 | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/track/7v7RTZrtBsoENSPD0SCMLy) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt) | [DIME SI ERES FELIZ VOL.2](https://open.spotify.com/album/4qsduU9ye1CNUnHVE6BHGn) | 2:51 | 2023-09-04 | 2024-01-31 |
+| [Dimelo Mami](https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [444](https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad) | 2:34 | 2024-09-04 |  |
 | [DISCOTEKA](https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [DISCOTEKA](https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs) | 2:54 | 2022-08-27 | 2023-01-16 |
 | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/track/5w7RsSgxxBwdVTSyQDj8Bi) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [DISCOTEKA \(feat\. Locura Mix\)](https://open.spotify.com/album/64rUVVmLA2xspGjE2nt6dx) | 3:24 | 2023-03-25 | 2023-12-11 |
 | [Disfruto](https://open.spotify.com/track/1v4ggzkdNysd77L7oJ6GmU) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Disfruto](https://open.spotify.com/album/3QGHVWaXZfHNFsH7NEQvp5) | 2:10 | 2023-06-19 | 2023-06-21 |
@@ -790,7 +791,7 @@
 | [TU AMOR \| E7](https://open.spotify.com/track/3N6rAKpPraBOZqn9RhSrz0) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [TU AMOR \| E7](https://open.spotify.com/album/772pSj9TMLYJoULLYIEVBX) | 2:33 | 2022-10-15 | 2023-03-25 |
 | [Tu Foto \- En Vivo](https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Tu Foto](https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv) | 3:00 | 2024-05-17 |  |
 | [Tu Nombre](https://open.spotify.com/track/5DberPEjKBTY8WTzLgr0zZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Desde el Espacio](https://open.spotify.com/album/2C9O39yyriTfCN5IN0gngg) | 3:21 | 2022-03-12 | 2022-04-12 |
-| [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 | 2024-09-01 |  |
+| [TU TA RICA](https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Lewis Somes](https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 2:01 | 2024-09-01 | 2024-09-05 |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-06-17 | 2023-05-31 |
 | [Tu Versión De La Historia](https://open.spotify.com/track/5XBhEFome7Mfb1ovOJu8ez) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Tu Versión De La Historia](https://open.spotify.com/album/7vBIHRSMzLhJhya7Mx9fIg) | 3:00 | 2024-08-24 | 2024-08-31 |
 | [TU Y YO](https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [TU Y YO](https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr) | 3:12 | 2024-02-16 | 2024-04-28 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,346 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,358 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [Go](https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2) | [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7), [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb) | [Resurrection](https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q) | 3:25 |
 | 50 | [FEEL THE RAIN](https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2), [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [BRAIN RUSH](https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW) | 3:27 |
 
-Snapshot ID: `Zs6uQwAAAACbXsY1r6DHjYNdmZuOQ3VI`
+Snapshot ID: `Ztf38wAAAAD19bGPe6lKQVg6liyT1h7X`

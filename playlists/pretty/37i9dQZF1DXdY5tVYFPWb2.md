@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,779 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,795 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 30 | [東京cruisin'](https://open.spotify.com/track/1LJEIE8IjHnQuV5mc0w399) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [東京cruisin'](https://open.spotify.com/album/07uk8juzTAwRlLaqYMscne) | 3:08 |
 | 31 | [行けたら、行くわ](https://open.spotify.com/track/6MlZpIrMtTrb2E64bXnpUK) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [LIVE](https://open.spotify.com/album/1pjnSakXyIUkTBacbXguWq) | 4:26 |
 | 32 | [ナイトグルーヴ](https://open.spotify.com/track/5nnEGWycHraBQ0EhfOFToK) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Groove it](https://open.spotify.com/album/4GQsvPVVp3eMNIJdIc7bKZ) | 3:34 |
-| 33 | [GINGILA](https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [GINGILA](https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry) | 4:52 |
+| 33 | [メトロにゆられて](https://open.spotify.com/track/5OXo1Hk2igFcVdSyWotlzS) | [wyolica](https://open.spotify.com/artist/3QA8WrxreeOmS96ZFvK79n) | [メトロにゆられて](https://open.spotify.com/album/4vWGGPdKj3KhWo4WTUj8sR) | 5:18 |
 | 34 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 |
 | 35 | [風にのって～Over the Moon](https://open.spotify.com/track/2UUdPyGMIeZWVOFGgR66Vt) | [伊藤 蘭](https://open.spotify.com/artist/4KRqPsYKtYo44aNpJf0Db2) | [風にのって～Over the Moon](https://open.spotify.com/album/4uV19LMFvx9WsbENM0cNrk) | 4:51 |
 | 36 | [また旅に誘われて](https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [離婚伝説](https://open.spotify.com/album/6EUUyYF65ypQvxmhjk17zb) | 2:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [悲しみがとまらない I CAN'T STOP THE LONLINESS \(feat\. ひかり\)](https://open.spotify.com/album/61HCGMtpaNDpW1YUFldzKJ) | 4:35 |
 | 100 | [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 |
 
-Snapshot ID: `Zs6nZwAAAAAk2v8nymQSGsP1NMJoMIIL`
+Snapshot ID: `Ztf1hgAAAADy0PzHIblcq4vMcCEGfwj1`

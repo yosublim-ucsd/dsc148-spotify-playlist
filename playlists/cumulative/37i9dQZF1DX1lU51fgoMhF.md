@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: HYOLYN\(효린\)\)
 
-364 songs - 19 hr 54 min
+365 songs - 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,6 +209,7 @@
 | [MAMMA MIA](https://open.spotify.com/track/65eBRMPIMrQVndALJMc4fX) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [SF9 4th Mini Album \[ MAMMA MIA! \]](https://open.spotify.com/album/1sJh6MN85EcJAxnfRt6YvV) | 3:24 | 2021-11-17 | 2024-08-14 |
 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 | 2022-07-27 |  |
 | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/track/08Oq0ODihIEHHU9Y0JRi0W) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF), [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW), [Aizat Amdan](https://open.spotify.com/artist/2sS4H2xFvWaxaixeVZC4Vu), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4), [PAM ANSHISA](https://open.spotify.com/artist/5Y84b3jX9aGpTr4F1CMNnP), [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [ME ME WE \(feat\. Aizat Amdan, Chillies, PAAM, Quest & Rahmania Astrini\)](https://open.spotify.com/album/4PrWleaxfuvZ3plIJJxm8J) | 3:24 | 2021-11-17 | 2022-07-29 |
+| [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 |  |
 | [Memories](https://open.spotify.com/track/11s5p72subU7SHJPzyR2Lq) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT) | 2:58 | 2023-09-14 | 2024-04-19 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-24 |  |
 | [Midas Touch](https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V) | [KISS OF LIFE](https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky) | [Midas Touch](https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef) | 2:42 | 2024-08-13 |  |
@@ -318,7 +319,7 @@
 | [SUGAR](https://open.spotify.com/track/3J33REyr0X61LC869JrocX) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:51 | 2021-11-17 | 2022-07-19 |
 | [SUMMER](https://open.spotify.com/track/6QwgTML7rpE006H9ROG5mi) | [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh) | [SUMMER](https://open.spotify.com/album/6D2b7LdHoc6YhWf2Zx5M0Y) | 3:07 | 2024-07-08 | 2024-08-08 |
 | [Summer Bliss](https://open.spotify.com/track/1xVZxMqppn2l2kIRLSR6IN) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [Summer Bliss](https://open.spotify.com/album/6TTyktwPBBDfsgc4ZqrjiF) | 3:05 | 2024-07-08 | 2024-08-01 |
-| [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 |  |
+| [Summer Comes](https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Golden Hourglass](https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif) | 3:20 | 2023-07-25 | 2024-09-05 |
 | [Summer Freak](https://open.spotify.com/track/7MeLFWgbHK8XxiMwvAUyne) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Summer Freak](https://open.spotify.com/album/7zld27DJOAGzHZwTjKH1Lb) | 2:54 | 2022-06-09 | 2022-07-03 |
 | [Summer night](https://open.spotify.com/track/0E2MxOyjc4l5lh4IkX2bZO) | [Zitten](https://open.spotify.com/artist/3of4z5k152Et4C0IQ7HUAg) | [Summer](https://open.spotify.com/album/6UOZ5T5xRdaNitOLDv5hXD) | 3:36 | 2022-07-11 | 2022-07-19 |
 | [Summer or Summer](https://open.spotify.com/track/6tU92qp9bJWAW86IHUggUa) | [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ), [DASOM](https://open.spotify.com/artist/6xxFNpc17jiiVZzOCgdLyv) | [Summer or Summer](https://open.spotify.com/album/5Sxd8gbumDCdcmq6M24eJV) | 3:19 | 2021-11-17 | 2024-06-17 |

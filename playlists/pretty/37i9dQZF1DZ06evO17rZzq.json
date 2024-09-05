@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 3804,
+  "num_followers": 3808,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADXwTfrpEaGi/GsQ7Wa62B3",
+  "snapshot_id": "ZtZRgAAAAAA5qYdHM4gcJObIbDEpcAvt",
   "tracks": [
     {
       "added_at": null,
@@ -155,30 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
-      },
-      "artists": [
-        {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        },
-        {
-          "name": "Stunna Girl",
-          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
-        }
-      ],
-      "duration_ms": 191538,
-      "name": "SHAKE (feat. Kaliii and Stunna Girl)",
-      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reasonable Woman",
         "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
       },
@@ -203,6 +179,30 @@
       "duration_ms": 160723,
       "name": "Champion (feat. Tierra Whack, Kaliii & Jimmy Jolliff)",
       "url": "https://open.spotify.com/track/6LqftaVN35FQ60QmuDm1x9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+        "url": "https://open.spotify.com/album/5Ht7NVw5YFw4p3P3QqKacv"
+      },
+      "artists": [
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        },
+        {
+          "name": "Stunna Girl",
+          "url": "https://open.spotify.com/artist/4eEkR7IDAXyGngHvnJZpdV"
+        }
+      ],
+      "duration_ms": 191538,
+      "name": "SHAKE (feat. Kaliii and Stunna Girl)",
+      "url": "https://open.spotify.com/track/1gYPFlrHvmP8PiuTf0a9n1"
     },
     {
       "added_at": null,
@@ -751,30 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
-        "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
-      },
-      "artists": [
-        {
-          "name": "Raedio",
-          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
-        },
-        {
-          "name": "Enchanting",
-          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
-        },
-        {
-          "name": "Kaliii",
-          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
-        }
-      ],
-      "duration_ms": 138240,
-      "name": "Run It Up",
-      "url": "https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Keep It Playa",
         "url": "https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS"
       },
@@ -811,6 +787,30 @@
       "duration_ms": 155476,
       "name": "Street Nigga (feat. Kaliii)",
       "url": "https://open.spotify.com/track/0enS3HzQvOcZcQARcPQdK2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "RAP SH!T: The Mixtape (From the Max Original Series, S2)",
+        "url": "https://open.spotify.com/album/2WhkGLUX16VzmOjr6KSqRX"
+      },
+      "artists": [
+        {
+          "name": "Raedio",
+          "url": "https://open.spotify.com/artist/0txgDz2yNToARuN2vD7SWD"
+        },
+        {
+          "name": "Enchanting",
+          "url": "https://open.spotify.com/artist/26XGM4cZDcTgrXo1nis5HT"
+        },
+        {
+          "name": "Kaliii",
+          "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
+        }
+      ],
+      "duration_ms": 138240,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/4FgLCYILnDFfT3qzmiAPFg"
     },
     {
       "added_at": null,

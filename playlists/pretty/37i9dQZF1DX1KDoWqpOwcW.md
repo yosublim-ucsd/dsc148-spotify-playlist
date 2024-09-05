@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 
 > Que arda el infierno con el fuego de Trevor Bauer  ⚾️🏟👺\#VamosD17BLOS🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,296 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,303 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KDoWqpOwcW.md) - [plain]
 | 11 | [Memento Mori](https://open.spotify.com/track/5I29F9GR0OkaU1nuxp9hU8) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 5:48 |
 | 12 | [Top of the Mountain](https://open.spotify.com/track/32GgINCOCvcXga4eNOIr7v) | [Raven](https://open.spotify.com/artist/1EH9eSje47IiRyVsq3gfkl) | [Metal City](https://open.spotify.com/album/4i7u4MlCkVabutbQ93DNjj) | 3:36 |
 | 13 | [Confined](https://open.spotify.com/track/7eWuBTL35BSBBiIjWJk0KB) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shadows Are Security](https://open.spotify.com/album/3D8V1PlxgpX05jyHLv6e4P) | 3:10 |
-| 14 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 |
+| 14 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \- 15th Anniversary](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 |
 | 15 | [Saxons and Vikings](https://open.spotify.com/track/3MpcisMq2eMJzmRqvtWgBI) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL), [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [The Great Heathen Army](https://open.spotify.com/album/49RfDv9BawZQq8hJq0V5wB) | 4:55 |
 | 16 | [The Ageless Whisper](https://open.spotify.com/track/2asURPidltWil9yQoL7ajr) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Verkligheten](https://open.spotify.com/album/1bKXTR40NIO0RrsIlFQyTr) | 5:01 |
 | 17 | [Born to Die](https://open.spotify.com/track/2BmvafX08HneGOFozVGB6P) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Chasing Ghosts \(Special Edition\)](https://open.spotify.com/album/3GSta6Iv6ogRJ6kfTxKXTk) | 4:11 |

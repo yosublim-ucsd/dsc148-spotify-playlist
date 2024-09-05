@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 
 ### [This Is Grupo Niche](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0S76rS)
 
-> This Is Grupo Niche\. Los temas esenciales, todos en una lista.
+> This is Grupo Niche\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 144,816 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,857 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 13 | [Entrega](https://open.spotify.com/track/0O2j5GTz60A3K7dMZn4WQC) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:42 |
 | 14 | [Con Dinero y Sin Dinero](https://open.spotify.com/track/1wn4CZoE0MWbeV7yy03yyw) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [TROPICALIA](https://open.spotify.com/album/0MwcYv6ItA0eercc8IAwHJ) | 3:40 |
 | 15 | [Nuestro Sueño](https://open.spotify.com/track/0g9d2hcBECm8eOuxG9w5kH) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:59 |
-| 16 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
-| 17 | [La Primera Vez](https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ) | 3:50 |
+| 16 | [La Primera Vez](https://open.spotify.com/track/6dMGhnoZyPLbELETfiGGn1) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8), [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [La Primera Vez](https://open.spotify.com/album/0j45QHGc7TLFr2csPro4DJ) | 3:50 |
+| 17 | [Cali Pachanguero 40 Años](https://open.spotify.com/track/64H2xGPNjBtXNsTWflotcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cali Pachanguero 40 Años](https://open.spotify.com/album/4a75zchEpeHQj8y1A2kSRC) | 4:47 |
 | 18 | [La Canoa Ranchaa](https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [10 De Colección](https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk) | 4:40 |
 | 19 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
 | 20 | [Ganas](https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Control Absoluto](https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9) | 5:37 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 23 | [Se Pareció Tanto a Ti](https://open.spotify.com/track/36CmpO4k6RCa410JCgn3Er) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:28 |
 | 24 | [Búscame](https://open.spotify.com/track/2nmBPPXKiyibca7MvnQYBG) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [40](https://open.spotify.com/album/1uF0bcswgdJBg2aq2r1HPk) | 4:17 |
 | 25 | [Un Día Después](https://open.spotify.com/track/3uciPSsKqqgG2HuLlUTEDm) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7k4rlkbT1vjiKAvOUVWVIR) | 5:26 |
-| 26 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 |
-| 27 | [A Prueba De Fuego](https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:42 |
+| 26 | [A Prueba De Fuego](https://open.spotify.com/track/3WIHqoLLeQ0m7zeJshfSpg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:42 |
+| 27 | [Del Puente Pa' Allá](https://open.spotify.com/track/49RM9ZTCUSWQHJAHPo8tgV) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 6:00 |
 | 28 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 29 | [Mujer de Novela](https://open.spotify.com/track/0ql5YXad4srSRaBoSAnR9h) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Señales de Humo](https://open.spotify.com/album/0xccneykPb7RZMB6UV5grn) | 5:15 |
 | 30 | [Un Alto en el Camino](https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:48 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 33 | [Han Cogido la Cosa](https://open.spotify.com/track/1Y1OX9CuslwUPpq0dtjJxI) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Golpe de Folklore](https://open.spotify.com/album/1GHV54c3dMwxLe3p2QgnWi) | 4:42 |
 | 34 | [Rupelto Mena](https://open.spotify.com/track/26PQMla9TXfmFcclWiQfak) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:47 |
 | 35 | [Listo Medellín](https://open.spotify.com/track/6IIdauPFRfFJVuDskGRbcF) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Triunfo](https://open.spotify.com/album/38hDfA4kZ15zRt4BQqQxfy) | 5:31 |
-| 36 | [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 |
-| 37 | [Me Sabe a Perú](https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Me Sabe a Perú](https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX) | 4:22 |
+| 36 | [Me Sabe a Perú](https://open.spotify.com/track/60uygJSldCifzLzPAUkgHD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Me Sabe a Perú](https://open.spotify.com/album/4ycsh8x6oNr9L1DdJLvXQX) | 4:22 |
+| 37 | [Mecánico](https://open.spotify.com/track/2kyyYYbP0MMqK2kEjqn2Eg) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 5:09 |
 | 38 | [Falto un Pañuelo](https://open.spotify.com/track/5rjEJwL2hp7z7CmxUDPhcl) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Alive](https://open.spotify.com/album/1mo4XJivw6RG7kwX9K37Hz) | 4:49 |
 | 39 | [Mi Valle del Cauca](https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tapando el Hueco](https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM) | 5:05 |
 | 40 | [Mi Hijo y Yo](https://open.spotify.com/track/0rOkqMmPpkInktks5tdAmn) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Sutil y Contundente](https://open.spotify.com/album/3j3BnIkciRBXtoAvYll1Za) | 5:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0S76rS.md) - [plain]
 | 49 | [Tocando el Cielo Con las Manos](https://open.spotify.com/track/4QhxN9hf5LWvYIqJcjwxQ6) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Tocando el Cielo Con las Manos](https://open.spotify.com/album/7lQolVdhEBRtv8Ayzhi2p4) | 4:47 |
 | 50 | [Solo Tu Sabes](https://open.spotify.com/track/1O2N1rsU2Y1FR2nuYWjrYD) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [A Prueba De Fuego](https://open.spotify.com/album/6xuqBMxn6vZtsITA5555JU) | 4:44 |
 
-Snapshot ID: `ZtUAAAAAAAAQoWDN4TaXyhshNhcogoX8`
+Snapshot ID: `ZtZRgAAAAAC7Nu0DjOFB7/9avQo4jn5J`

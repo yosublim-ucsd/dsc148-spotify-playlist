@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 81278,
+  "num_followers": 81319,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACHc0Pa8Sa3YjTiXESOEjlg",
+  "snapshot_id": "ZtZRgAAAAAClaCMPIV4IPkuNnW7fWqgl",
   "tracks": [
     {
       "added_at": null,
@@ -319,26 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Catch Me If You Can",
-        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 193758,
-      "name": "High",
-      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 170785,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Catch Me If You Can",
+        "url": "https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 193758,
+      "name": "High",
+      "url": "https://open.spotify.com/track/4G11wDzAKuCFqApL4g3ixC"
     },
     {
       "added_at": null,
@@ -567,26 +567,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drift (Remix)",
-        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
-      },
-      "artists": [
-        {
-          "name": "Teejay",
-          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 201583,
-      "name": "Drift (Remix)",
-      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Better Time",
         "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 187586,
       "name": "La La (feat. Ckay)",
       "url": "https://open.spotify.com/track/53PewZvhksjF9EynzsBnAR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drift (Remix)",
+        "url": "https://open.spotify.com/album/5fJIM0swYvPJq8Pru6Aa7i"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 201583,
+      "name": "Drift (Remix)",
+      "url": "https://open.spotify.com/track/1CNquhNCNiX6le62xuq23D"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maserati (Remix)",
-        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
-      },
-      "artists": [
-        {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 208420,
-      "name": "Maserati (Remix)",
-      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy (Deluxe)",
         "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 179080,
       "name": "Nobody Has To Know (feat. Davido)",
       "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maserati (Remix)",
+        "url": "https://open.spotify.com/album/2rUhpReSQ0taUFdT9kEt50"
+      },
+      "artists": [
+        {
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 208420,
+      "name": "Maserati (Remix)",
+      "url": "https://open.spotify.com/track/7glMaSseNC233Ntl6NhGC5"
     },
     {
       "added_at": null,

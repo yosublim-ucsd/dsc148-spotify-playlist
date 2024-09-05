@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 
 > This is Tex Tex\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,729 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,731 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,13 +45,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 35 | [Octubre 68](https://open.spotify.com/track/1gbPPseEPr7MqjBDL4ckx8) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 3:11 |
 | 36 | [Blues del Borracho](https://open.spotify.com/track/1rA5JzukQ5DVicpwZ5JxIS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:08 |
 | 37 | [Martin Rocka](https://open.spotify.com/track/2yxtbkvt9biJlHxkJpN6yM) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Tex Tex 3](https://open.spotify.com/album/3yd7QnbMmZ5uDiYb1u28Pi) | 3:49 |
-| 38 | [Esta en Su Mes](https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 2:45 |
+| 38 | [La Calle 16](https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:17 |
 | 39 | [4to y 5to Paso](https://open.spotify.com/track/5xO5xjE7V5W5RwyCeksSlS) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [La Fiesta](https://open.spotify.com/album/5NMDR1l1QRdzUgOQNlFNN8) | 4:03 |
-| 40 | [La Calle 16](https://open.spotify.com/track/1wf4pyJiS0fkX84FLwoEPf) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 5:17 |
+| 40 | [Esta en Su Mes](https://open.spotify.com/track/1dDxW5wlaNO7GVLVgNsdwo) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [\*86](https://open.spotify.com/album/2A8yt2oR5jQKQusczF0jyA) | 2:45 |
 | 41 | [Deja en Paz Mi Corazón](https://open.spotify.com/track/5Ov9ys2XQdAuxBg8OW3Ugy) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 3:49 |
-| 42 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
-| 43 | [Funky, Pt\. 1 \- En Vivo](https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 5:11 |
-| 44 | [Devuelvelo](https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 2:29 |
+| 42 | [Devuelvelo](https://open.spotify.com/track/5ReKWdDtrjJpNVTNbscQJB) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Un Toque Magico](https://open.spotify.com/album/58ozvUHrRppgI8nCqAyCdL) | 2:29 |
+| 43 | [Vengador Anónimo](https://open.spotify.com/track/4YmEl8T1rbGyNifdmB7tTp) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 5:20 |
+| 44 | [Funky, Pt\. 1 \- En Vivo](https://open.spotify.com/track/5gYOs5IL03sXdbsYT58xeI) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Los Muñecos Desenchufados \(En Vivo\) \[Serie Alive\]](https://open.spotify.com/album/7pixSb8mEYaDg1Nk6oak9I) | 5:11 |
 | 45 | [Vacas](https://open.spotify.com/track/2yhXukrwoHoT2HAFAVFllc) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Perdidos](https://open.spotify.com/album/28kwRlbn4AFl6VNu4LC87a) | 1:42 |
 | 46 | [Fast Food](https://open.spotify.com/track/5tZQcnx2HRbeRwBp8P24U9) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Súbete al Tren](https://open.spotify.com/album/6scq5eOKVsFPlzmgZtjdxC) | 2:27 |
 | 47 | [Cuando el Amor Acaba](https://open.spotify.com/track/51EJd3jBO8g5Iz5FYWcEIu) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Me Haces Volar](https://open.spotify.com/album/258YrXJW3cZPhinJpiCKef) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19SYxl.md) - [plain]
 | 49 | [El Gato Con Botas](https://open.spotify.com/track/2auwC34hJtOYDV8qs0LXNW) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:47 |
 | 50 | [La Niebla](https://open.spotify.com/track/7eK5IAzMYqfsVB4BMK5S4Y) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Te Vas a Acordar de Mi](https://open.spotify.com/album/3UWvD8vARmr4oXYLRfSXEP) | 4:41 |
 
-Snapshot ID: `ZtUAAAAAAACJKdptZvfz3IEIppGxwg8v`
+Snapshot ID: `ZtZRgAAAAAAtUeYs9u94VjUPhgfV6t9+`

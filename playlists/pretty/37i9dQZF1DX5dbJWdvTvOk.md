@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,411 likes - 300 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,403 likes - 300 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -302,11 +302,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 292 | [Livandi](https://open.spotify.com/track/5dwTEdDifPzXeThnggzJt4) | [Zinning](https://open.spotify.com/artist/1AWUohu2y7RgDsHStsF43S) | [Livandi](https://open.spotify.com/album/75hU4Ep3z9VSWp8Lr7F8Oi) | 2:07 |
 | 293 | [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 |
 | 294 | [Daylight](https://open.spotify.com/track/27JyPhZMT8qnYNlOyMZLgP) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Daylight](https://open.spotify.com/album/6m9A74ji0dI8rvQVSYyyf7) | 2:29 |
-| 295 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 |
-| 296 | [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 |
-| 297 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 |
-| 298 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 |
-| 299 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 |
-| 300 | [Il Tramonto](https://open.spotify.com/track/1wHO9UPhBh1b7kg0JOBlSd) | [Enzo La Mattina](https://open.spotify.com/artist/6z7U7lNXziQtlaVlWbfJa9) | [Il Tramonto](https://open.spotify.com/album/2Qx4P5RKFaxEnakbDE531a) | 2:28 |
+| 295 | [Dancing Shadows](https://open.spotify.com/track/6eLHmtQQw0J6guPKQpkcjR) | [Alexa Popov](https://open.spotify.com/artist/0qVJFO1tdBqdhHfwcBoHfE) | [Dancing Shadows](https://open.spotify.com/album/3908kc5syeU5k1DdmO2w7A) | 2:31 |
+| 296 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 |
+| 297 | [Brescia](https://open.spotify.com/track/2padEig8uM1o78Irz2A7Ip) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Boboli Gardens](https://open.spotify.com/album/1ZorAmdZHG1iTSsXHkWhFM) | 2:45 |
+| 298 | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/track/7cn8OaiEmm9eM5cO5m3JqJ) | [Manuel Galán](https://open.spotify.com/artist/29d8S9wbsggVBbr2YXxjfM) | [Nana 1985 \(Two Guitars Version\)](https://open.spotify.com/album/2LTna82bAjdhBShUJh7Vn6) | 2:39 |
+| 299 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 |
+| 300 | [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 |
 
 Snapshot ID: `ZtdFoAAAAACuLXIRYTBKqVqQUtp4OZTJ`

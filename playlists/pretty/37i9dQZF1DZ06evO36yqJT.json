@@ -1,12 +1,12 @@
 {
   "description": "This is Shirley Caesar. The essential tracks, all in one playlist.",
-  "num_followers": 5221,
+  "num_followers": 5222,
   "original_name": "This Is Shirley Caesar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACojxytcaN7N6cuSN9sXU+4",
+  "snapshot_id": "ZtZRgAAAAAAi3ge9GD84n7ob/p0nk/fr",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Good God",
-        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 271840,
-      "name": "You Stayed",
-      "url": "https://open.spotify.com/track/6d1rpwFNCoyeLoQr8D2g0Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You Can Make It",
         "url": "https://open.spotify.com/album/42KsGB2QDaVWnswEBpORpG"
       },
@@ -327,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sailin'",
-        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
+        "name": "Good God",
+        "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
       "artists": [
         {
@@ -336,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 249733,
-      "name": "Sailin' On the Sea of Your Love",
-      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
+      "duration_ms": 271840,
+      "name": "You Stayed",
+      "url": "https://open.spotify.com/track/6d1rpwFNCoyeLoQr8D2g0Q"
     },
     {
       "added_at": null,
@@ -359,6 +343,22 @@
       "duration_ms": 207960,
       "name": "Steal Away to Jesus",
       "url": "https://open.spotify.com/track/4F9ziNIqiyoj7AcFOjScXZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sailin'",
+        "url": "https://open.spotify.com/album/2Ry1FIiQdzq5jbKuznVzoq"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 249733,
+      "name": "Sailin' On the Sea of Your Love",
+      "url": "https://open.spotify.com/track/2EmVY7LfBTKQOjBpd0xlOl"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fill This House",
-        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 299078,
-      "name": "Prayer Changes Things",
-      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shirley Caesar: Her Very Best",
         "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 232626,
       "name": "Go",
       "url": "https://open.spotify.com/track/69m7r5zILyhcRYxvLDTcsl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 299078,
+      "name": "Prayer Changes Things",
+      "url": "https://open.spotify.com/track/0ZvANWHiYL2knzAqIF4exv"
     },
     {
       "added_at": null,
@@ -467,8 +467,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden Gospel Classics",
-        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 187695,
-      "name": "Teach Me Master",
-      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
+      "duration_ms": 173600,
+      "name": "Jesus Makes the Difference In Me",
+      "url": "https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+        "name": "He Touched Me",
+        "url": "https://open.spotify.com/album/3A6EiBRp7ZwUMcMVflxl6a"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 173600,
-      "name": "Jesus Makes the Difference In Me",
-      "url": "https://open.spotify.com/track/3L7ZfCwoXMPz3vy0x57fYC"
+      "duration_ms": 219733,
+      "name": "Satan, We're Gonna Tear Your Kingdom Down",
+      "url": "https://open.spotify.com/track/0wgHoxZ4UnCQwEszz2vTZk"
     },
     {
       "added_at": null,
@@ -535,8 +535,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "He Touched Me",
-        "url": "https://open.spotify.com/album/3A6EiBRp7ZwUMcMVflxl6a"
+        "name": "Golden Gospel Classics",
+        "url": "https://open.spotify.com/album/7xpGOpE9s0PU9UmQAomNX5"
       },
       "artists": [
         {
@@ -544,9 +544,25 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 219733,
-      "name": "Satan, We're Gonna Tear Your Kingdom Down",
-      "url": "https://open.spotify.com/track/0wgHoxZ4UnCQwEszz2vTZk"
+      "duration_ms": 187695,
+      "name": "Teach Me Master",
+      "url": "https://open.spotify.com/track/2r01jTO6OTBRxVHEi8ZYTG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 220666,
+      "name": "The Lord Will Make a Way",
+      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
     },
     {
       "added_at": null,
@@ -567,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Still",
-        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 395973,
-      "name": "Just As I Am",
-      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Harvest Collection: Shirley Caesar",
         "url": "https://open.spotify.com/album/5AKZgUleZv6hyUs4uEZl3I"
       },
@@ -599,8 +599,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+        "name": "Stand Still",
+        "url": "https://open.spotify.com/album/5AviMtfQEvyIVIUTTkEinE"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
         }
       ],
-      "duration_ms": 220666,
-      "name": "The Lord Will Make a Way",
-      "url": "https://open.spotify.com/track/6v4owQIaYIlZ4MVAdpcsC2"
+      "duration_ms": 395973,
+      "name": "Just As I Am",
+      "url": "https://open.spotify.com/track/1lwJbzXrcJLaWdKDfePhEO"
     },
     {
       "added_at": null,
@@ -663,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 293400,
+      "name": "Lord Let Your Spirit Fall On Me",
+      "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Gospel Explosion: Recorded Live",
         "url": "https://open.spotify.com/album/2OFQFPtUzrUvsBYg3C2Q7I"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 293400,
-      "name": "Lord Let Your Spirit Fall On Me",
-      "url": "https://open.spotify.com/track/6sUkxHGbYkjOEckag5qrWb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Remember Mama",
         "url": "https://open.spotify.com/album/39lUTIjf3Y8je8kEsftT34"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Shirley Caesar: Her Very Best",
+        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "duration_ms": 210306,
+      "name": "You Are All I Need",
+      "url": "https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/4iUreslNNFv2gNQdjuBlzt"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 354040,
       "name": "Good God",
       "url": "https://open.spotify.com/track/3G44iMDHusN8H9kcaXHXVS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shirley Caesar: Her Very Best",
-        "url": "https://open.spotify.com/album/5IupVWWvGtq48Am82jTWF1"
-      },
-      "artists": [
-        {
-          "name": "Shirley Caesar",
-          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
-        }
-      ],
-      "duration_ms": 210306,
-      "name": "You Are All I Need",
-      "url": "https://open.spotify.com/track/1lfr85MCIOWgZVgkfkEXSt"
     },
     {
       "added_at": null,

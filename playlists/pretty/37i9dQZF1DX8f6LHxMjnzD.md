@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 864,485 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 864,520 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 37 | [CR@SH \(feat\. Travis Scott\)](https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh) | [Strick](https://open.spotify.com/artist/2WInxWtfee6mRhUQUmIRAH), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ALL TIME HIGH](https://open.spotify.com/album/1eqb4sPiZO1oLXs0ADlcW2) | 2:16 |
 | 38 | [Hard To Breathe](https://open.spotify.com/track/4r7Kw8A3WBKMJt5szJrT3T) | [honestav](https://open.spotify.com/artist/5LvRazQ7EDZLfQU4HYc6XF) | [Hard To Breathe](https://open.spotify.com/album/1Kitl2aVxnDSMC8kIR5IWd) | 2:26 |
 | 39 | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/track/2cNTMTh42p1dwMS3Kaea8E) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [GO AGAIN \(feat\. Superheaven\)](https://open.spotify.com/album/4WXIMpmT2wITUU85TCcW0z) | 3:34 |
-| 40 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
+| 40 | [Gas Pedal Remix](https://open.spotify.com/track/18SVzej2aT7rf04XvCs7CB) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Tape B](https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi), [Sage The Gemini](https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z) | [Gas Pedal Remix](https://open.spotify.com/album/5nshc7uzMruLtzRAErOway) | 2:10 |
 
 Snapshot ID: `ZteDDAAAAACno4F45sVDNO8OZ5aW7obh`

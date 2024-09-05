@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-1,965 songs - 4 day 15 hr 5 min
+1,966 songs - 4 day 15 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -698,6 +698,7 @@
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-05-19 | 2023-06-10 |
 | [Good Time](https://open.spotify.com/track/5Fq1Ak7zXLlge7PuAIEbWs) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Good Time](https://open.spotify.com/album/43rpQD7NisxyZmV8wPeAfn) | 3:44 | 2022-05-18 | 2022-05-30 |
 | [Gospel Jam](https://open.spotify.com/track/1n6nv120i0TZ4gCqhdlnts) | [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3), [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Gospel Jam](https://open.spotify.com/album/6UokgdKWElT4KAaAyFqCl1) | 2:37 | 2022-11-18 | 2022-11-29 |
+| [Got To Be](https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Got To Be](https://open.spotify.com/album/6a2HJtuzyDY9avmEFjEKKa) | 2:20 | 2024-09-04 |  |
 | [Got What U Need \(feat\. MELLY OHH\)](https://open.spotify.com/track/5udjRtxA0Ivt0wt8Kz5lSG) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [MELLY OHH](https://open.spotify.com/artist/1CQHY4R9T7Fr7qwydWLVUa) | [Got What U Need \(feat\. MELLY OHH\)](https://open.spotify.com/album/4IhXKu4TOSmYb9xA986wad) | 2:56 | 2023-03-10 | 2023-03-18 |
 | [Gotta Be Real](https://open.spotify.com/track/1m5xlssT6mhlw9OtsuXUBn) | [Fletcher Kerr](https://open.spotify.com/artist/0MMPzOAJySvSWs8lqcDc5k) | [Gotta Be Real](https://open.spotify.com/album/6zOxsFFlU0IMPAqIYVQuHN) | 2:56 | 2023-03-10 | 2023-03-18 |
 | [Gotta Let You Go](https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND) | 2:47 | 2023-02-10 | 2023-02-18 |

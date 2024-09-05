@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06wYNNUR5t6.md) - [plain]
 
 > Build the foundation of your day with this great list of inspired modern rock and hardcore songs!  Cover: <a href="spotify:artist:49bzE5vRBRIota4qeHtQM8">Skillet</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,419 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,453 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

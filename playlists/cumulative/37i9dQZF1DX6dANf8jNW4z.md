@@ -4,7 +4,7 @@
 
 > Escucha a mujeres a todo volumen\. Foto: Lennis Rodriguez.
 
-1,514 songs - 3 day 4 hr 11 min
+1,515 songs - 3 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [El Baño de las Chicas](https://open.spotify.com/track/0GDVzirtSVPApCKfMlX1EE) | [Penélope](https://open.spotify.com/artist/6SHQwrGBd6PmgME2zFXNtr) | [El Baño de las Chicas](https://open.spotify.com/album/77pxtlbA3wYXp7uRiovCFx) | 3:59 | 2023-08-01 | 2023-10-04 |
 | [EL BOLERO](https://open.spotify.com/track/3tGauBODZp830GJXbhYtvh) | [Lachispa](https://open.spotify.com/artist/3HicHd9spplU6i1mYtRCHx) | [EL BOLERO](https://open.spotify.com/album/24qyEoOCzGJmCcO4DxMMRF) | 2:46 | 2024-09-03 |  |
 | [El bolso](https://open.spotify.com/track/3j0iYwJWutm1qPDUmjAHgC) | [Safree](https://open.spotify.com/artist/11u8AlYmK5fmocR0s8qGgL) | [El bolso](https://open.spotify.com/album/60XZdkOTaFJDfmlWZW2eEb) | 2:40 | 2022-11-08 | 2022-11-17 |
-| [el borde del mundo \- Canción Original de “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 | 2024-09-03 |  |
+| [el borde del mundo \- Canción Original de “El 47”](https://open.spotify.com/track/6a6oU1HNcSTsOyzWZLcwL7) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [el borde del mundo \- Canción Original de “El 47”](https://open.spotify.com/album/6gEWPynIqmCBGiQWCL5FC7) | 4:07 | 2024-09-03 | 2024-09-05 |
 | [El Cervatillo](https://open.spotify.com/track/6vAoXRdls7zSYTQFoK0qaa) | [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [El Cervatillo](https://open.spotify.com/album/2qCzPfroFLBsxrZaPT7hlG) | 5:07 | 2024-06-05 | 2024-07-03 |
 | [El Disfraz](https://open.spotify.com/track/0qU5wZaYxNHtBVPDtpuPkv) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [roots](https://open.spotify.com/artist/25rfSQptHe18iy1f4TYR7A) | [El Disfraz](https://open.spotify.com/album/3mGHU6Au7nS9rOZoDlCvAP) | 2:44 | 2024-02-07 | 2024-03-06 |
 | [El día de hoy](https://open.spotify.com/track/26jRf1RDqHeb2CAmfvde3V) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [El día de hoy](https://open.spotify.com/album/0s6LNM8yAgW40jIg95RzTU) | 2:54 | 2022-01-04 | 2022-02-02 |
@@ -797,6 +797,7 @@
 | [Me Muero x Ti](https://open.spotify.com/track/07iNPzOVxrNmy3FujFBc5z) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w) | [Me Muero x Ti](https://open.spotify.com/album/0sW2blqOU2M9P168xW7vPP) | 2:37 | 2023-04-04 | 2023-07-05 |
 | [Me Nace del Corazón](https://open.spotify.com/track/3FeJ2nHPQsRmMix0hq6vWr) | [Mara Barros](https://open.spotify.com/artist/38YYADiV9iEYiZu22QuIJs) | [Me Nace del Corazón](https://open.spotify.com/album/79HtY5klGtMR8uvSNRpAvK) | 3:13 | 2024-06-05 | 2024-07-03 |
 | [ME OLVIDARÉ](https://open.spotify.com/track/3PaQRWe7mcUpOCErTEFLYF) | [Vivi K](https://open.spotify.com/artist/4WSOtiDdjEIvAAK6HqvdUg), [Zeper](https://open.spotify.com/artist/3tNfCak31ds75TVqS3wEIL) | [ME OLVIDARÉ](https://open.spotify.com/album/4i5s9jkFyeBWjxR56yZaoi) | 2:32 | 2022-05-03 | 2022-06-01 |
+| [Me Para El Corazón](https://open.spotify.com/track/21nwaq3cwNGJdH0ELxu9uG) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z), [Victor R \-Swag](https://open.spotify.com/artist/5Jz48JzVckf7ZUvrQc55Iq) | [Me Para El Corazón](https://open.spotify.com/album/71ByGoBvBVAxaFHVATts3a) | 2:52 | 2024-09-04 |  |
 | [Me Pasaste Tú](https://open.spotify.com/track/1hGgAd3TcygC80dySoz1IJ) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Pasaste Tú](https://open.spotify.com/album/3qpfnaFR4DRyurzcluP5vV) | 3:13 | 2023-10-03 | 2023-11-08 |
 | [Me Pone](https://open.spotify.com/track/1xJhavrryPbyvXjDy5l3Mt) | [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Me Pone](https://open.spotify.com/album/4d1NVFpq0ENK6oXG4pa0Nm) | 3:05 | 2024-07-02 | 2024-08-07 |
 | [Me Presento](https://open.spotify.com/track/5whdmVRrXZ1dU2DWkNc5vn) | [Paula Mattheus](https://open.spotify.com/artist/7BL2ojuqTfVuPSD6ViSmHR) | [Me Presento](https://open.spotify.com/album/3c9LupnZmRqoAHdzdSFMzC) | 3:24 | 2024-07-02 | 2024-08-07 |
@@ -970,7 +971,7 @@
 | [Nunha Estrela](https://open.spotify.com/track/3cssoNGnWQ3ckzsmZhL4GY) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Nunha Estrela](https://open.spotify.com/album/4SjlQBmPjaKl2PS5TXxpWG) | 3:52 | 2022-11-08 | 2022-12-01 |
 | [Obsesión](https://open.spotify.com/track/69RzUYF7OYvi7QfolKPl4w) | [La Flaka](https://open.spotify.com/artist/7pktGXp3O8a977gysQXUhT) | [Obsesión](https://open.spotify.com/album/6BmtcEVMxxQ20nAxNZABL6) | 3:07 | 2023-07-04 | 2023-08-02 |
 | [Oh la la](https://open.spotify.com/track/24UhCg2xznaNpBBF2yZ2Xq) | [Julieta](https://open.spotify.com/artist/7DzqOghrDEW0vlJxZXaeLj) | [5AM](https://open.spotify.com/album/478kwp3OSEgUZUwkoLucAl) | 2:28 | 2023-10-03 | 2024-01-10 |
-| [Ojalá](https://open.spotify.com/track/0ynhih5BLvyPnoE3wrsxpp) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Ojalá](https://open.spotify.com/album/6MLKbOL2UhpTMFl3uUQnwT) | 2:58 | 2024-07-02 |  |
+| [Ojalá](https://open.spotify.com/track/0ynhih5BLvyPnoE3wrsxpp) | [Lennis Rodriguez](https://open.spotify.com/artist/4Rzu63KnqMsThOdfkrJk1Z) | [Ojalá](https://open.spotify.com/album/6MLKbOL2UhpTMFl3uUQnwT) | 2:58 | 2024-07-02 | 2024-09-05 |
 | [Ojalá](https://open.spotify.com/track/2NuWsgQzctA8yBIgAgRVjD) | [The Crab Apples](https://open.spotify.com/artist/6u98K0jUUoIvIG5mPXRIWZ) | [Ojalá](https://open.spotify.com/album/5wj95nBNFeK1y2CsT2cCr5) | 2:32 | 2024-04-30 | 2024-06-06 |
 | [Ojalá No Sea Verdad](https://open.spotify.com/track/0CBi8halgBp9zl2Nme8Ci3) | [Maren](https://open.spotify.com/artist/1dQFUUeoS0srP2hNrmzj5L) | [Ojalá No Sea Verdad](https://open.spotify.com/album/4TgBa71N7dcCzrS4vK5Hyj) | 2:56 | 2022-07-05 | 2022-09-07 |
 | [Ojitos verdes](https://open.spotify.com/track/4phlKk4QBU36zO9IxfB3Ou) | [Las Migas](https://open.spotify.com/artist/6wWp1JO8wL9qEeVV0TRHY3) | [Rumberas](https://open.spotify.com/album/6SgGpYDWCLWEH2wfeVXhd8) | 3:35 | 2024-04-02 | 2024-05-01 |

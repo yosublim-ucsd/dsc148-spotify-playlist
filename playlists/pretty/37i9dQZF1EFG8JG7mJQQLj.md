@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,714 likes - 436 songs - 1 day 1 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,718 likes - 436 songs - 1 day 1 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 142 | [Distorted Light Beam](https://open.spotify.com/track/1Z1Swejv14UoCFKPlFIXA9) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:57 |
 | 143 | [Move](https://open.spotify.com/track/2ZzHR2sOKAOKyN8efCa69E) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Move](https://open.spotify.com/album/5ZNjMUOLzjsQRDbAdtHial) | 2:36 |
 | 144 | [I Want That](https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m) | 2:51 |
-| 145 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 |
-| 146 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
+| 145 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
+| 146 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 |
 | 147 | [I Want Love](https://open.spotify.com/track/4DqXhYryASlQ2W6IAZF8Un) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [I Want Love](https://open.spotify.com/album/0UoYRs1WP7625dmeOsY3Zn) | 3:17 |
 | 148 | [Selfish Love](https://open.spotify.com/track/6KgoUHakjLYPf7VrAVRfyS) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Glasshouse](https://open.spotify.com/album/4dCYurAtpYbC77cBWt2uIH) | 3:57 |
 | 149 | [Wrong Places \(from Songland\)](https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Wrong Places \(from Songland\)](https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P) | 3:17 |
@@ -226,9 +226,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 216 | [Dope \(feat\. JID\)](https://open.spotify.com/track/3VEL2iEZ8udM0evRe3Bj2u) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:38 |
 | 217 | [Honey \(with Muni Long\)](https://open.spotify.com/track/1ei5bZDXeMNU4rw3iEQ2zX) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [LEGEND](https://open.spotify.com/album/48XBEHGNh0oVF5foY3ZtvT) | 2:20 |
 | 218 | [Hurt Me Tomorrow](https://open.spotify.com/track/3SdAoQZr0azIpNV3ogNkAd) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Country, God Or The Girl \(Deluxe\)](https://open.spotify.com/album/6b7Cs5avLSsnEnXWM9pzVB) | 3:47 |
-| 219 | [Rescue](https://open.spotify.com/track/6WY7Q7D3BWu00Vd6EegHgr) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:54 |
-| 220 | [Fake Friends](https://open.spotify.com/track/3OnCuJmMGAGCu59ixJnMFK) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Fake Friends](https://open.spotify.com/album/3uQBucC9DeP7iqCGKNJ1sk) | 2:54 |
-| 221 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 219 | [Debut](https://open.spotify.com/track/58AZXyKRlsMBMcrRjpJpVG) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [Debut](https://open.spotify.com/album/7mGArRHjAYY0o8UYOAfRHf) | 2:03 |
+| 220 | [Rescue](https://open.spotify.com/track/6WY7Q7D3BWu00Vd6EegHgr) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 2:54 |
+| 221 | [Fake Friends](https://open.spotify.com/track/3OnCuJmMGAGCu59ixJnMFK) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Fake Friends](https://open.spotify.com/album/3uQBucC9DeP7iqCGKNJ1sk) | 2:54 |
 | 222 | [Hurt](https://open.spotify.com/track/6eZEuLvZDa5cQy8bX22oZT) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:41 |
 | 223 | [Good In Goodbye](https://open.spotify.com/track/1rDBEE2J1D9oJhtdK29jk6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Blown Away](https://open.spotify.com/album/7atJn49QvtOLiFxhQd2hp9) | 4:17 |
 | 224 | [Touch](https://open.spotify.com/track/1xz905v9g71heS0BQQM9re) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Touch](https://open.spotify.com/album/3Ukv5qnyHMAyBoG0GOrOMU) | 3:03 |
@@ -266,8 +266,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 256 | [Take Care Of You](https://open.spotify.com/track/2ExaKO7GhafvrUHOjWxjgC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:48 |
 | 257 | [Say It All](https://open.spotify.com/track/57CyqjHnj1E9dNysbxLysv) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [LP1](https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm) | 3:27 |
 | 258 | [Mistake](https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Mistake](https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg) | 2:24 |
-| 259 | [Someone To Save You](https://open.spotify.com/track/1mXiSrqOdR09yT43TwkSLh) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:12 |
-| 260 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
+| 259 | [Sink Or Swim](https://open.spotify.com/track/4FDDExmv76Da7aaFqxbxVp) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \- Deluxe](https://open.spotify.com/album/4yHDaLGrPSwUfJNVUIvFgg) | 2:34 |
+| 260 | [Someone To Save You](https://open.spotify.com/track/1mXiSrqOdR09yT43TwkSLh) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 4:12 |
 | 261 | [Trust You](https://open.spotify.com/track/23eUnTrHxVd4RNnramhnRA) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [The Great Unknown](https://open.spotify.com/album/49n3sqv2vCz36QNrO41yKr) | 3:08 |
 | 262 | [Prodigal](https://open.spotify.com/track/5rvS6QdcKCXXLGq4YpinQe) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Dreaming Out Loud](https://open.spotify.com/album/2KSpGeDoNjqCKg6HL8LAyI) | 3:55 |
 | 263 | [I Am Woman](https://open.spotify.com/track/0vKuYHEs83maj9GNB8Y0Hp) | [Jordin Sparks](https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz) | [I Am Woman](https://open.spotify.com/album/2zyPeQvdKUTL8VycWoXHOP) | 3:30 |
@@ -445,4 +445,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 435 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 436 | [All I Ever Wanted](https://open.spotify.com/track/6tUyTMQms7mQdaRiyLizCu) | [The Faith Crew](https://open.spotify.com/artist/4rdDVgScRyE4NTocYd30Qi) | [Tribute to Margaret Becker & Jeremy Camp](https://open.spotify.com/album/6ZjxpWsEm2ewK4K2PdJVXM) | 4:43 |
 
-Snapshot ID: `AbbL9AAAAACbIUlRxJG3EA9JduoK6ci8`
+Snapshot ID: `AbbRngAAAACupgbP/+QJzMpLI9h/XfrY`

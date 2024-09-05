@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 
 > los mejores beats producidos en tierras mexicanas 🌵
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,230 likes - 100 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,247 likes - 100 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDdJhxmcmN7.md) - [plain]
 | 96 | [98 pasos](https://open.spotify.com/track/4DfTxshRgY238XqOHkxAnx) | [Omar Juárez](https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2), [Lofitic](https://open.spotify.com/artist/6oBQKbykqoZPrX8ebzX8ZM), [Patiotic Records](https://open.spotify.com/artist/7nxdGB1ERSodMHz0rYUXkQ) | [98 pasos](https://open.spotify.com/album/3CxK8OH2UaRL4LdMALcWEZ) | 2:13 |
 | 97 | [Although](https://open.spotify.com/track/1yzntUA9nlN3ieYjtmGN94) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Although](https://open.spotify.com/album/5ysdKCkyWk9CcyAmr0n3gK) | 2:40 |
 | 98 | [Sundown Reflections](https://open.spotify.com/track/5ss1SSBpwUrhz1ibWzNiJm) | [Lotus Eco](https://open.spotify.com/artist/5YwJLe0MXNm0CFVX7Kzbo6) | [Sundown Reflections](https://open.spotify.com/album/51g8wnW8XG4LcrsUYLuO9v) | 2:15 |
-| 99 | [Bloom](https://open.spotify.com/track/7nVf8L0WkgqecsJ0BcEj0a) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj) | [Bloom](https://open.spotify.com/album/6DNFbu726NR7u4pWdZoAjf) | 2:15 |
-| 100 | [having meaningful conversations](https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [having meaningful conversations](https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu) | 2:00 |
+| 99 | [having meaningful conversations](https://open.spotify.com/track/6GBVz0idn47z2dMOA0r63W) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [having meaningful conversations](https://open.spotify.com/album/0yP457DQfQ6iyp8TGWksCu) | 2:00 |
+| 100 | [Thoughts](https://open.spotify.com/track/7y1jE8yAcIsicq1jPRxbEc) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Thoughts](https://open.spotify.com/album/0iLzW6pPI8X7o0Mr5ErVH7) | 2:48 |
 
 Snapshot ID: `Zr4VFAAAAAB4n/spL0sCPuYGG4WEGkjF`

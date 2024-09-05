@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 121169,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 121183,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACX9469Ys4TNn11pMLo/Foh",
+  "snapshot_id": "ZtZRgAAAAABQRHAwgEqBr37a1hIEd9Qm",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Alta Fidelidad",
-        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
+        "name": "Perfecta",
+        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
       },
       "artists": [
         {
-          "name": "LAGOS",
-          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 172852,
-      "name": "Si Superamos Esta Noche",
-      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
+      "duration_ms": 182533,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecta",
-        "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
+        "name": "Alta Fidelidad",
+        "url": "https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "LAGOS",
+          "url": "https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia"
         },
         {
           "name": "Greeicy",
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 182533,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
+      "duration_ms": 172852,
+      "name": "Si Superamos Esta Noche",
+      "url": "https://open.spotify.com/track/6bzOf2vhI5j3KAnOtDhd8X"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Rizzle Kicks \(pictured\),  Mabel,  Wunderhorse and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 859,741 likes - 116 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 859,770 likes - 116 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 92 | [Nasty](https://open.spotify.com/track/29FBmRrebixRofs0flcm4O) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [Nasty](https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj) | 2:36 |
 | 93 | [Church Music](https://open.spotify.com/track/38CNqaMwftGQXyqYJPo45l) | [Indoor Foxes](https://open.spotify.com/artist/6wsisvgmHy85OWQWa4TeBo) | [Church Music](https://open.spotify.com/album/5EQn4CO9cSBtqsa9rMCcDA) | 3:09 |
 | 94 | [U Never See \(Digital Underground\)](https://open.spotify.com/track/5gwqlXXs4Dj8RFqJNUKYyh) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [D:U:2](https://open.spotify.com/album/19DaPWM5EvJ2PhnUmS8jzD) | 3:09 |
-| 95 | [No Lie](https://open.spotify.com/track/4p02Cca194seaXdqvbQTWx) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj) | [No Lie](https://open.spotify.com/album/1GNypwCrlw3IQEt5GtUt41) | 2:06 |
+| 95 | [No Lie](https://open.spotify.com/track/4p02Cca194seaXdqvbQTWx) | [Kasien](https://open.spotify.com/artist/5VFbrnGdINL3hcSOluMsCj), [Slim Typical](https://open.spotify.com/artist/06L5TBw1IiCYLGbh2wwleR) | [No Lie](https://open.spotify.com/album/1GNypwCrlw3IQEt5GtUt41) | 2:06 |
 | 96 | [Pocket \(montreal\)](https://open.spotify.com/track/3TJWODxkUUPtC28fGZUNCZ) | [EDEN](https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt) | [Pocket \(montreal\)](https://open.spotify.com/album/7ni6ylCJVoStwdAvKTyjjG) | 1:58 |
 | 97 | [Where's Your Feet?](https://open.spotify.com/track/5lfHud35lzCO8Pk4QtaAvw) | [Lord Apex](https://open.spotify.com/artist/052uglZ4PgpVs8YxEOViXz), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Where's Your Feet?](https://open.spotify.com/album/6d6DfXPUyFDV4sFwMP5H8p) | 3:24 |
 | 98 | [september](https://open.spotify.com/track/55Garen3zwJD1uCPG6FMpg) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [september](https://open.spotify.com/album/1DL5V3kVhSBru0pvN3m3nN) | 3:56 |

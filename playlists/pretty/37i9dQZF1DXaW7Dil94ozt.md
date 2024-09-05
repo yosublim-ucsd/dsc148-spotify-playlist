@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 
 > Enjoy the songs from the lineup appearing at Let's Rock Festival 2023! \(Let's Rock Festival 2023에 출연하는 라인업의 노래들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,887 likes - 120 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,889 likes - 120 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaW7Dil94ozt.md) - [plain]
 | 55 | [RENDEZ\-VOUS](https://open.spotify.com/track/3HMZ4LB4LMR4veIp32wmJO) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [RENDEZ\-VOUS](https://open.spotify.com/album/7lJ1TVxfkpdk65QaKWISZE) | 5:05 |
 | 56 | [Say You Love Me](https://open.spotify.com/track/4XNTpEDSF5lLgvORlix9nq) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [On The Campus \(So BE It\) \(Original Soundtrack\), Pt\. 4](https://open.spotify.com/album/79GIDdEWG0KFAW7gdmc7wt) | 4:04 |
 | 57 | [In your heart](https://open.spotify.com/track/45iGURr7fcZlwSJwkMrnf8) | [LIM HYUNSIK \(BTOB\)](https://open.spotify.com/artist/64RLzrPkNeclT4cTjWcYd2) | [In your heart](https://open.spotify.com/album/36Fy1tjB6FOQrTKL6RL2mo) | 3:41 |
-| 58 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
+| 58 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [실리카겔](https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
 | 59 | [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/0kz21Av0iMO0SBlSd7HyXn) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Tik Tak Tok](https://open.spotify.com/album/3Smz9fmZKjq0hsHexHnEut) | 6:15 |
 | 60 | [Desert Eagle](https://open.spotify.com/track/6QWvs1y2hXMwEswdJ8TiIU) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Desert Eagle](https://open.spotify.com/album/3z3iDsyby0fu7TxpQ74OrO) | 5:09 |
 | 61 | [Mercurial](https://open.spotify.com/track/3JpZzVHJ641hGw1EgzToGc) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [Mercurial](https://open.spotify.com/album/786eyZKL9JTgEptCf9JvdQ) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt?si=eS2iNpVSTMiw5vS\_IFCFpg>Ada Ehi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,476 likes - 99 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,497 likes - 99 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

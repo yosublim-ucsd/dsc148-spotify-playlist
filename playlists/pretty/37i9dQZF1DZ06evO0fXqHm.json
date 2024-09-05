@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADJGCglJSPSP4be59DbhxnF",
+  "snapshot_id": "ZtZRgAAAAADwbN87KA6QY2ieVJFL3u7+",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
-        }
-      ],
-      "duration_ms": 193052,
-      "name": "S\u00f3 Lamento",
-      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mete Mac Vol 1",
         "url": "https://open.spotify.com/album/6FhipK7nTsuCbqW5jCg6er"
       },
@@ -415,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ela Joga Muito na Minha Cara",
-        "url": "https://open.spotify.com/album/68rjxN49e47v971UbMRFAU"
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
       },
       "artists": [
         {
@@ -424,17 +404,13 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "MC NAHARA",
-          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
-        },
-        {
-          "name": "DJ TAK VADI\u00c3O",
-          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
         }
       ],
-      "duration_ms": 142153,
-      "name": "Ela Joga Muito na Minha Cara",
-      "url": "https://open.spotify.com/track/5qERHS3gAJxUbeXyY3qxKk"
+      "duration_ms": 193052,
+      "name": "S\u00f3 Lamento",
+      "url": "https://open.spotify.com/track/6OT7k19AcCujMXzYaIYmFa"
     },
     {
       "added_at": null,
@@ -459,6 +435,30 @@
       "duration_ms": 205902,
       "name": "Aguenta Caladinha",
       "url": "https://open.spotify.com/track/5vUQOsGWg3wyMClrSiQ3Yo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ela Joga Muito na Minha Cara",
+        "url": "https://open.spotify.com/album/68rjxN49e47v971UbMRFAU"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "MC NAHARA",
+          "url": "https://open.spotify.com/artist/1Vnwxb3UkZxMF4S3J6hxAS"
+        },
+        {
+          "name": "DJ TAK VADI\u00c3O",
+          "url": "https://open.spotify.com/artist/4U3o74Io4hwQPsm6iIj4fu"
+        }
+      ],
+      "duration_ms": 142153,
+      "name": "Ela Joga Muito na Minha Cara",
+      "url": "https://open.spotify.com/track/5qERHS3gAJxUbeXyY3qxKk"
     },
     {
       "added_at": null,
@@ -603,26 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Sem Calcinha",
-      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Minha Vida",
         "url": "https://open.spotify.com/album/6ILfnzEyoEa8QYwq1W5Yav"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 165216,
       "name": "Minha Vida",
       "url": "https://open.spotify.com/track/1Z6GxhNhlDVZvaK9D4d7dc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Sem Calcinha",
+      "url": "https://open.spotify.com/track/4Itnhb3PoldsFK4kgu7RNw"
     },
     {
       "added_at": null,
@@ -687,26 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juma",
-        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "Nicoby",
-          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Juma Marru\u00e1",
-      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ta na Hora",
         "url": "https://open.spotify.com/album/32wuBDeLvsJ1pvwmUmardT"
       },
@@ -743,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sozinho",
-        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
+        "name": "Juma",
+        "url": "https://open.spotify.com/album/7f2UOJiCm4KvJfdjXANSBW"
       },
       "artists": [
         {
@@ -752,21 +732,33 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Dj Leo Lg",
-          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
-        },
-        {
-          "name": "DJ JOAO DA INESTAN",
-          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+          "name": "Nicoby",
+          "url": "https://open.spotify.com/artist/1Xd91UbkKjjg6Bk8vvlW9C"
         }
       ],
-      "duration_ms": 121846,
-      "name": "Sozinho",
-      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
+      "duration_ms": 162000,
+      "name": "Juma Marru\u00e1",
+      "url": "https://open.spotify.com/track/69GJRlhDtyaOnSGL7tQhhw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "$IMBIO$E",
+        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "Pejota",
+          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+        }
+      ],
+      "duration_ms": 164850,
+      "name": "Sainha",
+      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
     },
     {
       "added_at": null,
@@ -795,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "$IMBIO$E",
-        "url": "https://open.spotify.com/album/4yDTSQ6Iztp8kfmqv7HsUY"
+        "name": "Sozinho",
+        "url": "https://open.spotify.com/album/0kzkl5kB8rwy8D0jCpLopY"
       },
       "artists": [
         {
@@ -804,13 +796,41 @@
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         },
         {
-          "name": "Pejota",
-          "url": "https://open.spotify.com/artist/3W10YNoIzqgJymjc5ULDzu"
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Leo Lg",
+          "url": "https://open.spotify.com/artist/7fhK7EsjjzfFurFz8FAlDe"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
         }
       ],
-      "duration_ms": 164850,
-      "name": "Sainha",
-      "url": "https://open.spotify.com/track/40delH3Ol7m3zSRAVjnhL1"
+      "duration_ms": 121846,
+      "name": "Sozinho",
+      "url": "https://open.spotify.com/track/6vqr49lCwlODxmWEdb091P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Me Leva Pra Casa",
+        "url": "https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs"
+      },
+      "artists": [
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Me Leva Pra Casa",
+      "url": "https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn"
     },
     {
       "added_at": null,
@@ -835,26 +855,6 @@
       "duration_ms": 151384,
       "name": "Rua do Ouro",
       "url": "https://open.spotify.com/track/0jIpirkyh4eJenGg28djsm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Leva Pra Casa",
-        "url": "https://open.spotify.com/album/4Vf8NtFMlx2Ftw7iyymGZs"
-      },
-      "artists": [
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Me Leva Pra Casa",
-      "url": "https://open.spotify.com/track/4leTvVRDhTdHMZAtSnwntn"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "AMOUR BEIJA FLOR",
+        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+      },
+      "artists": [
+        {
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+        },
+        {
+          "name": "Mac J\u00falia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        }
+      ],
+      "duration_ms": 107142,
+      "name": "BOLA LOGO",
+      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baile do Bruxo (DELUXE)",
         "url": "https://open.spotify.com/album/0S3pM5Z9LfLBU6IdYFJxiA"
       },
@@ -1007,22 +1027,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AMOUR BEIJA FLOR",
-        "url": "https://open.spotify.com/album/1x8PBSEvx9oYxYzIczWTVn"
+        "name": "Balan\u00e7a Dona On\u00e7a",
+        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
       },
       "artists": [
         {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+          "name": "Gu",
+          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
         },
         {
           "name": "Mac J\u00falia",
           "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
         }
       ],
-      "duration_ms": 107142,
-      "name": "BOLA LOGO",
-      "url": "https://open.spotify.com/track/3dFDxzAJkvjvOXG91ODzql"
+      "duration_ms": 204444,
+      "name": "Balan\u00e7a Dona On\u00e7a",
+      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
     },
     {
       "added_at": null,
@@ -1075,26 +1095,6 @@
       "duration_ms": 170760,
       "name": "Meio",
       "url": "https://open.spotify.com/track/6pH8kmKsxJGHrnvPsCWfjf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Balan\u00e7a Dona On\u00e7a",
-        "url": "https://open.spotify.com/album/37Lo8SM4fMpdXXliNW4d3H"
-      },
-      "artists": [
-        {
-          "name": "Gu",
-          "url": "https://open.spotify.com/artist/08vwQJxPdhUyPBxT4Tf0cS"
-        },
-        {
-          "name": "Mac J\u00falia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Balan\u00e7a Dona On\u00e7a",
-      "url": "https://open.spotify.com/track/7wRB9osEiwoJQtttVmpDmm"
     },
     {
       "added_at": null,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 
 ### [This Is Joy Crookes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3w1CV3)
 
-> This is Joy Crookes\. The essential tracks, all in one playlist.
+> This is Joy Crookes\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,331 likes - 28 songs - 1 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,337 likes - 28 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 3 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
 | 4 | [Early](https://open.spotify.com/track/6AcFiVsHvDtat3rmHNK2Nf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Jafaris](https://open.spotify.com/artist/69hGavzu5tphYU1EIY0yEg) | [Early](https://open.spotify.com/album/5Q7XISk90DAYHFghAvKYI9) | 3:13 |
 | 5 | [Don't Let Me Down \- Demo](https://open.spotify.com/track/1VwPTHAfPvcL1ZubK6qabL) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Don't Let Me Down \(Demo\)](https://open.spotify.com/album/7GWow8Uxx2X9Moop7GD3KR) | 3:15 |
-| 6 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 |
-| 7 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
+| 6 | [Mother May I Sleep With Danger?](https://open.spotify.com/track/6rZtlYru44l92npSBTbUN7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Influence EP](https://open.spotify.com/album/6znFcVbDZJpb6w4bSdRrXv) | 3:27 |
+| 7 | [Yah / Element \- Medley](https://open.spotify.com/track/4ZE50Luqd1emzOeJ2DjzYn) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Yah / Element \(Medley\)](https://open.spotify.com/album/6Ys13vgiUDDJ7Rw8g9h0Yw) | 2:56 |
 | 8 | [You & Me Song](https://open.spotify.com/track/2KYxtGXViLqIRY5fkOpPDS) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [You & Me Song](https://open.spotify.com/album/3awmmBHW9HS1V5fp26kfN7) | 2:51 |
 | 9 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 10 | [Two Nights](https://open.spotify.com/track/5BeS2mGbdYVfS53Q6bVinG) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Reminiscence EP](https://open.spotify.com/album/6fACkmxRXI0jzKkdvrTGeV) | 3:06 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3w1CV3.md) - [plain]
 | 27 | [19th Floor](https://open.spotify.com/track/3fKmIoHvrhBQMOITJYeyeb) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:09 |
 | 28 | [Wild Jasmine](https://open.spotify.com/track/02AtJRkWiLd5rl0oFjSxhR) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Skin](https://open.spotify.com/album/62FYQGKcsi3nrkdicraMw7) | 3:35 |
 
-Snapshot ID: `ZtUAAAAAAABlnqA2x1wFJNuxhcEqB8in`
+Snapshot ID: `ZtZRgAAAAACuRwaGY9DjM5DNAgKxEENj`

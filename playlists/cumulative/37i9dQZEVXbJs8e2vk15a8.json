@@ -22146,7 +22146,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 276866,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1KgfeuVn5OlsBEtoEmBa1t"
@@ -22278,6 +22278,32 @@
       "duration_ms": 131106,
       "name": "Llorando Ausencia",
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
+    },
+    {
+      "album": {
+        "name": "Llor\u00e9",
+        "url": "https://open.spotify.com/album/4vTcYSb7z2P9VCF0f3cgrl"
+      },
+      "artists": [
+        {
+          "name": "Amigo de Artistas",
+          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
+        },
+        {
+          "name": "godie.",
+          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
+        },
+        {
+          "name": "V.I.C",
+          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176535,
+      "name": "Llor\u00e9",
+      "url": "https://open.spotify.com/track/4l3pQHBRv57dNtm7hNB5MM"
     },
     {
       "album": {
@@ -24068,7 +24094,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -39696,7 +39722,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 110053,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"

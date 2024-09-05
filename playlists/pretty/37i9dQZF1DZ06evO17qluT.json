@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 56951,
+  "num_followers": 57023,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADGutVoegZOLeiupueiWlK4",
+  "snapshot_id": "ZtZRgAAAAADp2FN4zVLwgMNh3C3B3WNn",
   "tracks": [
     {
       "added_at": null,
@@ -176,21 +176,17 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         },
         {
           "name": "Gigantes",
           "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
-        },
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 193697,
-      "name": "S\u00f3 me ligar",
-      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
+      "duration_ms": 211786,
+      "name": "Amanhecer",
+      "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
     },
     {
       "added_at": null,
@@ -276,17 +272,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
         },
         {
           "name": "Gigantes",
           "url": "https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe"
+        },
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Amanhecer",
-      "url": "https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o"
+      "duration_ms": 193697,
+      "name": "S\u00f3 me ligar",
+      "url": "https://open.spotify.com/track/31ySVMbs7U8LOuy7w4McR9"
     },
     {
       "added_at": null,
@@ -351,26 +351,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "SEMR\u00c9H",
-        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
+        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
       },
       "artists": [
         {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Rocco",
+          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
         }
       ],
-      "duration_ms": 147967,
-      "name": "SEMR\u00c9H",
-      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
+      "duration_ms": 178869,
+      "name": "Sensa\u00e7\u00e3o de Liberdade",
+      "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
     },
     {
       "added_at": null,
@@ -403,34 +411,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eu Ainda Tenho Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o"
+        "name": "SEMR\u00c9H",
+        "url": "https://open.spotify.com/album/2xTJzFHszAuE5hAq0Q1Rpw"
       },
       "artists": [
         {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
         },
         {
           "name": "BK",
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka"
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
         }
       ],
-      "duration_ms": 178869,
-      "name": "Sensa\u00e7\u00e3o de Liberdade",
-      "url": "https://open.spotify.com/track/64iBfVmlDnQVxZCz9ySpU1"
+      "duration_ms": 147967,
+      "name": "SEMR\u00c9H",
+      "url": "https://open.spotify.com/track/2XdFauLk4oDWT1dKLLxFPs"
     },
     {
       "added_at": null,
@@ -808,21 +808,13 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
         }
       ],
-      "duration_ms": 249813,
-      "name": "Vivos",
-      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
+      "duration_ms": 294314,
+      "name": "Tit\u00e3s",
+      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
     },
     {
       "added_at": null,
@@ -916,13 +908,21 @@
           "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
         },
         {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
         }
       ],
-      "duration_ms": 294314,
-      "name": "Tit\u00e3s",
-      "url": "https://open.spotify.com/track/3yMjo7k4tTly5iyYcvQM3S"
+      "duration_ms": 249813,
+      "name": "Vivos",
+      "url": "https://open.spotify.com/track/10jI01n8w6g41qiIMAcAkb"
     },
     {
       "added_at": null,
@@ -1059,6 +1059,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Antes dos Gigantes Chegarem, Vol. 2",
+        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "El Lif Beatz",
+          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
+        },
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        }
+      ],
+      "duration_ms": 227093,
+      "name": "Almas",
+      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pir\u00e2mide Perdida (Vol. 7)",
         "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
       },
@@ -1091,34 +1119,6 @@
       "duration_ms": 281684,
       "name": "Canto das Baixas",
       "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Antes dos Gigantes Chegarem, Vol. 2",
-        "url": "https://open.spotify.com/album/5Dz9KqHWRNlLHrWpEXcWoc"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "El Lif Beatz",
-          "url": "https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k"
-        },
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Almas",
-      "url": "https://open.spotify.com/track/1l2T5EJk8djGStVNwsltCo"
     },
     {
       "added_at": null,
@@ -1171,30 +1171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CONFIA",
-        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
-      },
-      "artists": [
-        {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
-        },
-        {
-          "name": "Jovem Dex",
-          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 126678,
-      "name": ".38",
-      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Favela Vive 2",
         "url": "https://open.spotify.com/album/3yIiTiHnuTqOhFEJQAg9n3"
       },
@@ -1219,6 +1195,30 @@
       "duration_ms": 422857,
       "name": "Favela Vive 2",
       "url": "https://open.spotify.com/track/5nu2sTKMvTOzlBKQoz1nxf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CONFIA",
+        "url": "https://open.spotify.com/album/4U4UGmipseImDNZBY1Njt3"
+      },
+      "artists": [
+        {
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+        },
+        {
+          "name": "Jovem Dex",
+          "url": "https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 126678,
+      "name": ".38",
+      "url": "https://open.spotify.com/track/4DT1XyJfezpWVgf11fiq3v"
     },
     {
       "added_at": null,

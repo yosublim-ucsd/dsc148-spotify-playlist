@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,360 likes - 131 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,364 likes - 131 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 36 | [Love Me Again](https://open.spotify.com/track/4QbX1M5JblYzGTVwdZTgfb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Me Again](https://open.spotify.com/album/0Mz15UUJtdswzlTpPfhPfc) | 3:18 |
 | 37 | [Told You So](https://open.spotify.com/track/3Mvd9KPeMf2YQa1MiQGKmV) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:12 |
 | 38 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
-| 39 | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/track/1qX6EzEftYFq7MWL0ry3An) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/album/0HwFa92Rbgm9mVEMtfOV7z) | 2:30 |
-| 40 | [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 |
+| 39 | [Breaking News \("Rattn Tattn"\)](https://open.spotify.com/track/3SpSPySCZRobjGpUsZdQq9) | [Expulze](https://open.spotify.com/artist/0hiID7lYjHkCqeTRQFhU5D), [Narfos](https://open.spotify.com/artist/7CqGN5affrTPInov9PqsCr) | [2 Loutr \- 1 Soul](https://open.spotify.com/album/1AoWfy7iH5J5Y7Exn07s2q) | 2:51 |
+| 40 | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/track/1qX6EzEftYFq7MWL0ry3An) | [Parx](https://open.spotify.com/artist/2C45tSmv4vJEa6zD0aSwtO), [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Feel Right Now \(feat\. Nonô\)](https://open.spotify.com/album/0HwFa92Rbgm9mVEMtfOV7z) | 2:30 |
 | 41 | [BIGGER](https://open.spotify.com/track/4R2KJOgEUP2qO3re9BwIhs) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 3:46 |
 | 42 | [Just for One Night \(feat\. Astrid S\)](https://open.spotify.com/track/7AEV4oGvHPn1DtAE7pLCXR) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Just For One Night \(feat\. Astrid S\)](https://open.spotify.com/album/0RXOXEux1zPAhFcL8AkzJY) | 3:46 |
 | 43 | [Hard Out Here.](https://open.spotify.com/track/0o4HD0mOtTiHSbycbg4IpT) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:11 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 130 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
 | 131 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbbL/gAAAAA5xIz1KxeTe+71e2+RtfCV`
+Snapshot ID: `AbbRngAAAACFS4DJprVh0nRyuAkxRNmb`

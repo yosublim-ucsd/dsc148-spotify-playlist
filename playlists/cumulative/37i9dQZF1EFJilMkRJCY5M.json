@@ -1743,6 +1743,24 @@
     },
     {
       "album": {
+        "name": "No Hard Feelings",
+        "url": "https://open.spotify.com/album/1yTrHdi3czn3taZM9KsCLX"
+      },
+      "artists": [
+        {
+          "name": "Chloe Lilac",
+          "url": "https://open.spotify.com/artist/2CUeVZl8E9ouggdBhyclFx"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133008,
+      "name": "Sawed Off Shotgun",
+      "url": "https://open.spotify.com/track/4bvNpj3dwfzIxPFJCvsLeh"
+    },
+    {
+      "album": {
         "name": "Say It",
         "url": "https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS"
       },

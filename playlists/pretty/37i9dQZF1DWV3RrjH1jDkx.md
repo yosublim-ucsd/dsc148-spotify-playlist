@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og masse ny musikk! 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,115 likes - 108 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,122 likes - 108 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

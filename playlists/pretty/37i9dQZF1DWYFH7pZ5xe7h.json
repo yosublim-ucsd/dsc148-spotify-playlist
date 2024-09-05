@@ -1,6 +1,6 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 51167,
+  "num_followers": 51189,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
@@ -1543,34 +1543,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Lieder",
-        "url": "https://open.spotify.com/album/3hGdaHVgLyLpKNOh5NbOkS"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Gustav Mahler Ensemble",
-          "url": "https://open.spotify.com/artist/6ivbCf0rHD7MJLfawBtXqT"
-        },
-        {
-          "name": "Bernarda Fink",
-          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
-        },
-        {
-          "name": "Anthony Spiri",
-          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
-        }
-      ],
-      "duration_ms": 204693,
-      "name": "Winterlied",
-      "url": "https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler - Vol. 1",
         "url": "https://open.spotify.com/album/72hN3r6nJBr60A4VhtxfUn"
       },
@@ -1659,6 +1631,34 @@
       "duration_ms": 564213,
       "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
       "url": "https://open.spotify.com/track/4qU7uo9ra85PqbCnOVaQQS"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Lieder",
+        "url": "https://open.spotify.com/album/3hGdaHVgLyLpKNOh5NbOkS"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Gustav Mahler Ensemble",
+          "url": "https://open.spotify.com/artist/6ivbCf0rHD7MJLfawBtXqT"
+        },
+        {
+          "name": "Bernarda Fink",
+          "url": "https://open.spotify.com/artist/1Lq2OVm5zTJ4hDGWn2T0D0"
+        },
+        {
+          "name": "Anthony Spiri",
+          "url": "https://open.spotify.com/artist/1ioDARCClIPWV5ythKSaHM"
+        }
+      ],
+      "duration_ms": 204693,
+      "name": "Winterlied",
+      "url": "https://open.spotify.com/track/21xmYdw32ZcvHAruFOFPmZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",

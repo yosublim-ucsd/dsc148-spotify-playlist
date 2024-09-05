@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: SOPHIE
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,430 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,460 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLrNDPW5co2.md) - [plain]
 | 13 | [C\-U\-N\-T\-Y](https://open.spotify.com/track/1JCpF28evLoaFOVfWxorj5) | [Fei\-Fei](https://open.spotify.com/artist/5JXS13q07rUqMWcgQeQXCM) | [C\-U\-N\-T\-Y](https://open.spotify.com/album/49dln17v6ZA5ZFnpOqG88f) | 2:41 |
 | 14 | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/track/5YXlSRFFpJCiEqfn9kctWI) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [I'm Free \(feat\. Rina Sawayama\)](https://open.spotify.com/album/44fVvCJwKKIZ5SSzMKyih2) | 3:02 |
 | 15 | [FEMININE ENERGY](https://open.spotify.com/track/0RwUodOQMZwbJktcNYFq6x) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [FEMININE ENERGY](https://open.spotify.com/album/0YwES4jeWclweRFzUI2WdT) | 2:51 |
-| 16 | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [DJ Flapjack](https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6) | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX) | 3:05 |
+| 16 | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [DJ Flapjack](https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6) | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX) | 3:02 |
 | 17 | [Don't Be Afraid \(feat\. LATASHÁ\)](https://open.spotify.com/track/1sY09LjCOiWtZKooLBhwUI) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [LATASHÁ](https://open.spotify.com/artist/2lW1SPnxy7JqGV84TcSINi) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 4:04 |
 | 18 | [Drip Sweat \(feat\. Channel Tres\)](https://open.spotify.com/track/4lTR2EJ4FcVTZfxDnVkR1w) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [TIMELESS](https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg) | 2:27 |
 | 19 | [Always Forever](https://open.spotify.com/track/2kSeF6yZz3wLFchfnX0xfO) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Always Forever](https://open.spotify.com/album/65otcCeyfEPtdY4DZMgPtF) | 3:05 |

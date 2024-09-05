@@ -445,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Evdekiler",
+        "url": "https://open.spotify.com/album/7qQ8oJIcVEXHJ02iI0qoLT"
+      },
+      "artists": [
+        {
+          "name": "Sel\u00fbt",
+          "url": "https://open.spotify.com/artist/1HqUargxLzVB1RdGcFYZJd"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269416,
+      "name": "Evdekiler",
+      "url": "https://open.spotify.com/track/4ZiFyCXYRlkAQ5w6iitCgO"
+    },
+    {
+      "album": {
         "name": "Farkl\u0131 Son",
         "url": "https://open.spotify.com/album/5RY7aUCkfmv5HGun7JSdDl"
       },
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 207545,
       "name": "K\u00fcsme Bana",
       "url": "https://open.spotify.com/track/2SwtkE2CMIsknHUbY3qrPX"

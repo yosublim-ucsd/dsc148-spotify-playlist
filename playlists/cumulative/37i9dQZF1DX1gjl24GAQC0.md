@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: ZEROBASEONE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
+> Is it your favorite oppa or dongsaeng? \(Cover: RIIZE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-598 songs - 1 day 9 hr 9 min
+600 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [CLOCK](https://open.spotify.com/track/04qxEHjaV9DKnLmHYrGOr7) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [CLOCK](https://open.spotify.com/album/76fLpe8YKSqQ7yyQ9kMv3o) | 3:48 | 2022-03-22 | 2022-04-18 |
 | [CLOSE](https://open.spotify.com/track/5CXbZ60u7fq4UjlLnOig5Q) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [MO' COMPLETE: HAVE A DREAM](https://open.spotify.com/album/3Z1J8LibfFAvFDtDpXWQzH) | 3:39 | 2021-12-08 | 2022-06-06 |
 | [Close your eyes](https://open.spotify.com/track/2S55QaJ7WPKbwCGAr8MU72) | [Bz\-Boys](https://open.spotify.com/artist/73FA33YtQWdPuswF6u7u4D) | [CONTRAST](https://open.spotify.com/album/7ku0nYsGBPFkhwKp7RepI9) | 3:21 | 2022-04-15 | 2022-07-28 |
+| [Combo](https://open.spotify.com/track/3LUi9n9mMOR1eK3kle7oCe) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/7ug3rkXUrzOKpDZ1Sxk7Oh) | 3:39 | 2024-09-04 |  |
 | [COME](https://open.spotify.com/track/2WasDVjYFmLgukoxIcUTZp) | [NewKidd](https://open.spotify.com/artist/1ASod2UqIYzO1NGvj1zTgW) | [COME](https://open.spotify.com/album/2wCPKaa4xP9Pxqa2fmsdzZ) | 3:04 | 2022-03-22 | 2022-04-20 |
 | [Coming Home \(Sung by TAEIL, DOYOUNG, JAEHYUN, HAECHAN\)](https://open.spotify.com/track/1A7pDII9Zy07oCDW3xldgy) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [STATION X 4 LOVEs for Winter Part.2](https://open.spotify.com/album/6KCFJyHGY6CL9DJIcOQxzZ) | 4:23 | 2022-03-22 | 2022-04-20 |
 | [Complete](https://open.spotify.com/track/4rzJ2hzZINazNrqxRv9XoN) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [You Complete Me](https://open.spotify.com/album/7HdYN5CBIdmOj2zhKkqnwb) | 3:06 | 2022-03-22 | 2022-04-17 |
@@ -356,6 +357,7 @@
 | [MAVERICK](https://open.spotify.com/track/1Ylu1Il2czce9eQQXtDXwO) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 3rd Single Album \[MAVERICK\]](https://open.spotify.com/album/2nR7Wi1KtRYrDSqsCW8JVi) | 3:28 | 2022-03-22 | 2022-05-14 |
 | [ME= \(NANEUN\)](https://open.spotify.com/track/2fRzv9XVm3o5kk6ed5FjIU) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [= \(NEUN\)](https://open.spotify.com/album/5raCfFI9NNJyjsseHkdkPH) | 3:12 | 2022-11-17 | 2022-11-24 |
 | [MEDUSA](https://open.spotify.com/track/6ZhLGUfleWoL751FUIDUYl) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [÷ \(NANUGI\)](https://open.spotify.com/album/6OYLlrSEe5QxS89FQ5PpYr) | 2:48 | 2023-10-13 | 2023-10-24 |
+| [Melt Down](https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [Band Aid](https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX) | 2:45 | 2024-09-04 |  |
 | [Memento](https://open.spotify.com/track/5BuvRDep3503zAgrOvfalf) | [IZ](https://open.spotify.com/artist/4XiZ3nAGoPv8K8IMktGc3b) | [Memento](https://open.spotify.com/album/3msXwm2ApxwHTjJNeCOosf) | 3:59 | 2022-03-22 | 2022-04-18 |
 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 | 2023-08-23 |  |
 | [Midnight Sun](https://open.spotify.com/track/1o6OdD35Z7A1qtgIQKIWdg) | [Seven O'Clock](https://open.spotify.com/artist/4NeKLW82adFCE8Y6r50X1E) | [White Night](https://open.spotify.com/album/5mkUMTAVUZfE1zTkfI62EN) | 3:42 | 2022-03-22 | 2022-04-18 |
@@ -416,7 +418,7 @@
 | [PARTY ROCK](https://open.spotify.com/track/5n81hoM1QMLib476FVMp2Y) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [NEW WAVE](https://open.spotify.com/album/43PdGV8b4Xb1a4ffk3Ywt6) | 3:04 | 2022-09-27 | 2022-10-27 |
 | [PASTEL](https://open.spotify.com/track/4q0CYq46WxuMBCrXcs57vq) | [LUN8](https://open.spotify.com/artist/5LkLwB6VSZLQiFkJa9SPOn) | [PASTEL](https://open.spotify.com/album/1QxYNSafFlcKwmnazaU8yE) | 3:20 | 2024-02-26 | 2024-03-06 |
 | [PERFORMER](https://open.spotify.com/track/2arrxX2BubTq86E4N067WY) | [VANNER](https://open.spotify.com/artist/05pkCt3DQY5ZC41u7WMk5D) | [VENI VIDI VICI](https://open.spotify.com/album/6s5By8sGoiYLpQmtYYvmGO) | 2:53 | 2023-08-22 | 2023-09-20 |
-| [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-21 |  |
+| [Perfume](https://open.spotify.com/track/0jd4aa9XgV5eom0ez0WBrD) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw) | [Perfume \- The 1st Mini Album](https://open.spotify.com/album/3sVBVr420an61GAwib9AYk) | 2:47 | 2023-04-21 | 2024-09-05 |
 | [Peter Pan](https://open.spotify.com/track/0FF1qj8n4vZEzY54Kt5qh1) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:54 | 2023-04-30 | 2023-05-10 |
 | [Pirate King](https://open.spotify.com/track/5Jl2i6LR3Socm4TYqRzZw3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [TREASURE EP.1: All to Zero](https://open.spotify.com/album/4ayTucmOGwLd0WrJddrUwx) | 3:15 | 2022-03-31 | 2022-04-13 |
 | [plot twist](https://open.spotify.com/track/0aZG8KWrpRnsGL0loUkfSj) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 1st Mini Album 'Sparkling Blue'](https://open.spotify.com/album/25qO1VYd8BuT8m5w8CFpdG) | 2:32 | 2024-01-22 |  |
@@ -427,7 +429,7 @@
 | [Puzzle](https://open.spotify.com/track/5QYXBAiagfRIwzlouAnJXQ) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE PIECE OF9](https://open.spotify.com/album/5SPtURpxbD8ZCIKRpjQWpo) | 3:36 | 2023-01-09 | 2023-03-16 |
 | [Ra Pam Pam](https://open.spotify.com/track/7aJSEhH3kzrcr4g0uGXUC7) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [Golden Child 2nd Album \[Game Changer\]](https://open.spotify.com/album/4PTy3b8H1Blt625KhFa9QU) | 3:31 | 2022-03-30 | 2022-07-28 |
 | [Rain To Be](https://open.spotify.com/track/3JUy6uHdxEGf5cqk7IxDrE) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [Planet Nine : Alter Ego](https://open.spotify.com/album/4vGyxBRf0DK6Jhq0DyL87O) | 3:15 | 2022-01-27 | 2022-06-21 |
-| [Rains in Heaven](https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/3FTFpShMTd8cB5vV7w0gf1) | 3:57 | 2024-08-23 |  |
+| [Rains in Heaven](https://open.spotify.com/track/2u30g2qcJJo13rES1Us8aW) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Rains in Heaven](https://open.spotify.com/album/3FTFpShMTd8cB5vV7w0gf1) | 3:57 | 2024-08-23 | 2024-09-05 |
 | [RE=LOAD](https://open.spotify.com/track/7xbF0zvvjJ4oT4HvcYi85k) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe) | [JUST BEGUN](https://open.spotify.com/album/0uF2qZ5B62L4ZlfLkAXhd1) | 3:18 | 2022-04-15 | 2022-05-12 |
 | [Ready or Not](https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [SUN SEEKER](https://open.spotify.com/album/1FdVBP7g9FfMa7ifgyY4iA) | 3:11 | 2023-09-11 | 2023-10-14 |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-12-08 | 2022-07-29 |

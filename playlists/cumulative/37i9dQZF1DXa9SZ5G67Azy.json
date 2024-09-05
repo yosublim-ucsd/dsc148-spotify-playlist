@@ -239,6 +239,32 @@
     },
     {
       "album": {
+        "name": "Buenos Aires (en la cara)",
+        "url": "https://open.spotify.com/album/40Q0V0xD8JZ1ueBT7qlPb3"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        },
+        {
+          "name": "Lucca Saettone",
+          "url": "https://open.spotify.com/artist/15o6RNNTFlXc1ALh7HzTTp"
+        },
+        {
+          "name": "Karlo",
+          "url": "https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Buenos Aires (en la cara)",
+      "url": "https://open.spotify.com/track/6sn9Dgxbh4FBDrxs2EOhrr"
+    },
+    {
+      "album": {
         "name": "Buscando Money",
         "url": "https://open.spotify.com/album/2kPKfMNrvUMOFVrFVENqrl"
       },

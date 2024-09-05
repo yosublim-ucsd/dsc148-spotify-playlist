@@ -2,7 +2,7 @@
 
 ### [This Is Justin Timberlake](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KAa52)
 
-> This Is Justin Timberlake\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Justin Timberlake\. The essential tracks, all in one playlist.
 
 83 songs - 5 hr 43 min
 

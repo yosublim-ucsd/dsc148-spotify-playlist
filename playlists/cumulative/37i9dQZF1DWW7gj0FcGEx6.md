@@ -4,7 +4,7 @@
 
 > The latest, greatest soundtracks from the big and small screen.
 
-391 songs - 19 hr 9 min
+392 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Maya’s Adoption Party](https://open.spotify.com/track/1QQGVmtL3AC8ECUWDNDOIH) | [Starr Parodi](https://open.spotify.com/artist/4wMTcGiDCOJ5XkpbeyMU3m), [Jeff Eden Fair](https://open.spotify.com/artist/05BkDv6lrBLduTzqJABTqB) | [The Storied Life of A.J\. Fikry \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ewjDDOWk0vXaUiJjIkjun) | 2:21 | 2022-12-09 |  |
 | [Meet Ambar](https://open.spotify.com/track/1bp2n1h1zPMrer1nCtuRJa) | [Nitin Sawhney](https://open.spotify.com/artist/5NCKpzuowtihcIrIHFjKbJ) | [Disneynature: Tiger \(Original Soundtrack\)](https://open.spotify.com/album/7f3FKboh4pUWBHWytsBgiT) | 1:19 | 2024-04-26 |  |
 | [Meeting Ruth](https://open.spotify.com/track/6mKHm67aAI4azpDooIf3qO) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Andrew Wyatt](https://open.spotify.com/artist/4TpW7t4Cz0RG1gOEU6EcUm), [Molly Lewis](https://open.spotify.com/artist/16eM95zw2t0KRDniuNFKVt) | [Barbie \(Score from the Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5zaVq7C2Fb9ydqg1SU9qFy) | 2:22 | 2023-10-13 |  |
+| [Memories](https://open.spotify.com/track/0IKJfr52GxTTEJUwJD4wnI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Le Musk \(Original Soundtrack\)](https://open.spotify.com/album/31xnft6hKf7Rt5AbB2YGYR) | 2:48 | 2024-09-04 |  |
 | [Memory Is A Voyager](https://open.spotify.com/track/6p5OZvP8NGfKSjdqr5o3g8) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spaceman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1hdVK33BZMAAtFM428XGqr) | 2:56 | 2024-03-01 |  |
 | [Mercy \- from "The Hunger Games: The Ballad of Songbirds and Snakes" Score](https://open.spotify.com/track/3oMawK9eqpd5Ln59b8tr4E) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [The Hunger Games: The Ballad of Songbirds and Snakes \(Original Motion Picture Score\)](https://open.spotify.com/album/6L0YVSVuw4BD3UX3fhl8et) | 2:21 | 2023-11-24 | 2024-04-19 |
 | [Mercy \- from "The Hunger Games: The Ballad of Songbirds and Snakes" Score](https://open.spotify.com/track/6moXCi6h6LFqaSg8wkya7W) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Mercy \(from "The Hunger Games: The Ballad of Songbirds and Snakes" Score\)](https://open.spotify.com/album/2AsHPFSZzEZ6L0sUsJK5sx) | 2:21 | 2023-11-17 |  |

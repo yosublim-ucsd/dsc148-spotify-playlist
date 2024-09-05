@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 
 > Deep, dark, dramatic\. Roots rock, folk, and Americana—with a gothic soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,473 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,597 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX58NJL8iVBGW.md) - [plain]
 | 81 | [Skunks](https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL) | [The Handsome Family](https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq) | [Skunks](https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL) | 3:27 |
 | 82 | [Hell's Comin' with Me](https://open.spotify.com/track/0cPvRrV9PBBHVfHoGBlFdO) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Hell's Comin' with Me](https://open.spotify.com/album/459ww0Q7WATvZO0tLzpqvg) | 3:32 |
 | 83 | [I Am The Man Thomas](https://open.spotify.com/track/3uWGP9UpCet5wZBtXE9JPK) | [The Devil Makes Three](https://open.spotify.com/artist/63knPlGzLHTNDf1J78Fvte) | [I Am The Man Thomas](https://open.spotify.com/album/2pnIVh2Ttaf5pVvAx5Nos8) | 2:39 |
-| 84 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
-| 85 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 84 | [At Night](https://open.spotify.com/track/6Hf3csmUPauF9MsanSZVjk) | [The Eagle Rock Gospel Singers](https://open.spotify.com/artist/6mSbhnOMxNViQqlh58ZOhE) | [At Night](https://open.spotify.com/album/1kWQBgsWuDTe8qtsYmd4fg) | 3:19 |
+| 85 | [Barton Hollow](https://open.spotify.com/track/2ZheGCM31EbCwUfGs0WJB1) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Barton Hollow](https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV) | 3:25 |
 | 86 | [Highway 9](https://open.spotify.com/track/3HHOqY088OPzIknqOC1hNn) | [Barnaby Bright](https://open.spotify.com/artist/6LQfYurqiaL6tB19ynez50) | [The Longest Day](https://open.spotify.com/album/4PuPpil37rBxZB02yBemvF) | 4:30 |
 | 87 | [Death Don't Have No Mercy](https://open.spotify.com/track/10XSmEckAjZgMguYb22sbn) | [Delaney Davidson](https://open.spotify.com/artist/5gKjq94Zz8p953ddbd9bRP), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Sad but True](https://open.spotify.com/album/1pHRJmbANaoylf3yU1eSRL) | 2:10 |
 | 88 | [Fault Line](https://open.spotify.com/track/20hLTXbjj0jhiyOQFwIqa0) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Howl](https://open.spotify.com/album/3otJWr2xpdvZJGNS303RCZ) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3uTE4ljTDvd.md) - [plain]
 
 > Ouça e conheça as revelações da música gospel\. Foto: Paloma Possi
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,394 likes - 60 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,416 likes - 60 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

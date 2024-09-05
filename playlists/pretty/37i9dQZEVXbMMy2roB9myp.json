@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Argentina.",
-  "num_followers": 1570570,
+  "num_followers": 1570685,
   "original_name": "Top 50 - Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lmp5SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LmvKyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Hoy",
         "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Perdonarte, \u00bfPara Qu\u00e9?",
         "url": "https://open.spotify.com/album/1fXZxmn9aUIo5Zjx8zQFol"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/4dLLdfiniBhDP9dlJQIOi4"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0c82YIGpQ5dCaXpTNCk4sb"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Cuando Te Vi | CROSSOVER #5",
         "url": "https://open.spotify.com/album/4u5sL85dlRv7eIMJIozZl8"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/3KeYEr9ogMBemsOfQIJmZp"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "GOTTI A",
         "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
@@ -133,7 +133,7 @@
       "url": "https://open.spotify.com/track/6kPCcIAGoTeRrh8qrmKa90"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "UN SIGLO SIN TI",
         "url": "https://open.spotify.com/album/4SoT5hvuP9LLXZM2QuV2Pz"
@@ -153,27 +153,7 @@
       "url": "https://open.spotify.com/track/2AFC9ad4nGauS1cgm7FCqU"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "DOCTOR",
-        "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 144148,
-      "name": "DOCTOR",
-      "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "TERAPIA DE CHOQUE",
         "url": "https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc"
@@ -197,7 +177,27 @@
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "DOCTOR",
+        "url": "https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 144148,
+      "name": "DOCTOR",
+      "url": "https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -213,7 +213,23 @@
       "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Un Besito M\u00e1s",
         "url": "https://open.spotify.com/album/6lrNHcXSOvN82VYYtL9wCs"
@@ -233,7 +249,7 @@
       "url": "https://open.spotify.com/track/5rQSQlZXXjMcevPGoAfE1z"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Loquita - Remix",
         "url": "https://open.spotify.com/album/0jhYJp2HjjXL4Qr30p8THp"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/2N0hVk2Ant8751xPZUjCV2"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "EL \u00daLTIMO BAILE",
         "url": "https://open.spotify.com/album/3EWJoKrG9XnCjvAPzkQZ88"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Tu Foto",
         "url": "https://open.spotify.com/album/2zsRRXZwCOTRvF8r2m7TRv"
@@ -313,23 +313,23 @@
       "url": "https://open.spotify.com/track/3cWo162YkfLIFyB3DWbVoH"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
@@ -345,27 +345,27 @@
       "url": "https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
-        "name": "FERXXOCALIPSIS",
-        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
       },
       "artists": [
         {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         },
         {
-          "name": "ATL Jacob",
-          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
+          "name": "Abel Pintos",
+          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
         }
       ],
-      "duration_ms": 196800,
-      "name": "LUNA",
-      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
+      "duration_ms": 165918,
+      "name": "QUE ME FALTE TODO",
+      "url": "https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "WYA REMIX RED",
         "url": "https://open.spotify.com/album/4KparoC39Qn5NatBrMA7nN"
@@ -397,27 +397,27 @@
       "url": "https://open.spotify.com/track/4YnmQG1fnJR9LnTZtix70T"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
-        "name": "QUE NOS FALTE TODO",
-        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+        "name": "FERXXOCALIPSIS",
+        "url": "https://open.spotify.com/album/0lgs2Sa82lyX89nBUWyUy6"
       },
       "artists": [
         {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Abel Pintos",
-          "url": "https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa"
+          "name": "ATL Jacob",
+          "url": "https://open.spotify.com/artist/7jAs1uPnpfNmT6e5qtEPxq"
         }
       ],
-      "duration_ms": 165918,
-      "name": "QUE ME FALTE TODO",
-      "url": "https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ"
+      "duration_ms": 196800,
+      "name": "LUNA",
+      "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Mil Preguntas",
         "url": "https://open.spotify.com/album/5BI7zRrLecwdHFZ3qzDYNR"
@@ -437,7 +437,7 @@
       "url": "https://open.spotify.com/track/42mrOMjkQb7jRKatu0bqg4"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
@@ -453,23 +453,7 @@
       "url": "https://open.spotify.com/track/16iLGYXMiLUhvqTEIu4pKB"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "SI NO ES CONTIGO",
-        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "SI NO ES CONTIGO",
-      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/3uzutRS5qX4ng5Skjh5S6W"
@@ -493,7 +477,55 @@
       "url": "https://open.spotify.com/track/6a9Z1jUms915w4O7N1PxjY"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "IMAN (Two Of Us)",
+        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 122405,
+      "name": "IMAN (Two Of Us)",
+      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "SI NO ES CONTIGO",
+        "url": "https://open.spotify.com/album/4ecjQGViGCD4snnZ3QJOEL"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "SI NO ES CONTIGO",
+      "url": "https://open.spotify.com/track/5Uptvz6j1sjDKxidAcnH2L"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 185866,
+      "name": "Ese Maldito Momento",
+      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "SINVERG\u00dcENZA - con Angela Torres",
         "url": "https://open.spotify.com/album/2j4yf0X00zieL424k90UVn"
@@ -521,23 +553,7 @@
       "url": "https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "IMAN (Two Of Us)",
-        "url": "https://open.spotify.com/album/6wDJCPLe4cheYx7dWJQavb"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 122405,
-      "name": "IMAN (Two Of Us)",
-      "url": "https://open.spotify.com/track/3sra6aEWWDXUiy46fWQobH"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": ".mp3",
         "url": "https://open.spotify.com/album/2qo8j9yZIsx66yDuUho2jp"
@@ -557,39 +573,7 @@
       "url": "https://open.spotify.com/track/6Es8Sk3xe1HiJ2MXCfHHwR"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "SAN TURRONA",
-        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        }
-      ],
-      "duration_ms": 124689,
-      "name": "SAN TURRONA",
-      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 185866,
-      "name": "Ese Maldito Momento",
-      "url": "https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "SE ME OLVIDA",
         "url": "https://open.spotify.com/album/00ESTj1vBUkIbaTHaXaXu3"
@@ -609,7 +593,7 @@
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
@@ -645,7 +629,39 @@
       "url": "https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "El Calor Del Pleno Invierno",
+        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
+      },
+      "artists": [
+        {
+          "name": "No Te Va Gustar",
+          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
+        }
+      ],
+      "duration_ms": 207533,
+      "name": "A las Nueve",
+      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "SAN TURRONA",
+        "url": "https://open.spotify.com/album/0Fp8YIrA3udbfxtjtC6PJd"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "duration_ms": 124689,
+      "name": "SAN TURRONA",
+      "url": "https://open.spotify.com/track/0EOynYGvn9TbAyKPyMAStL"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "House of Pleasure",
         "url": "https://open.spotify.com/album/4s9iYsrtBIvkZn5AEbUbl0"
@@ -661,7 +677,51 @@
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "La K'onga",
+          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
+        },
+        {
+          "name": "Ke Personajes",
+          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
+      "url": "https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 166536,
+      "name": "HOLA PERDIDA",
+      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -681,7 +741,7 @@
       "url": "https://open.spotify.com/track/0ZS96pPRLyGUViVi5PWCAR"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "SOLTERO",
         "url": "https://open.spotify.com/album/1QGuXd9G1ymlQMq50ofEek"
@@ -709,75 +769,7 @@
       "url": "https://open.spotify.com/track/7ytAHohytO1TxO9yF5vn7d"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "El Calor Del Pleno Invierno",
-        "url": "https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3"
-      },
-      "artists": [
-        {
-          "name": "No Te Va Gustar",
-          "url": "https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j"
-        }
-      ],
-      "duration_ms": 207533,
-      "name": "A las Nueve",
-      "url": "https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "QUE NOS FALTE TODO",
-        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 166536,
-      "name": "HOLA PERDIDA",
-      "url": "https://open.spotify.com/track/7JKptWv4YXmievid0HajID"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Ohnana",
         "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
@@ -793,7 +785,55 @@
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "111",
+        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
+      },
+      "artists": [
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 184027,
+      "name": "M.A.I",
+      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "TATTOO",
         "url": "https://open.spotify.com/album/2pT9dWP5sqm4FipajPLVpw"
@@ -817,103 +857,7 @@
       "url": "https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "QUE NOS FALTE TODO",
-        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "La K'onga",
-          "url": "https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R"
-        },
-        {
-          "name": "Ke Personajes",
-          "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Ya No Vuelvas (Versi\u00f3n Cuarteto)",
-      "url": "https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/338cbfABt3duRORfvNeqLT"
-      },
-      "artists": [
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 184027,
-      "name": "M.A.I",
-      "url": "https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "30 Grados",
-        "url": "https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56"
-      },
-      "artists": [
-        {
-          "name": "El Turko",
-          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
-        },
-        {
-          "name": "Mandale Flow",
-          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
-        }
-      ],
-      "duration_ms": 151441,
-      "name": "30 Grados",
-      "url": "https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "QUE NOS FALTE TODO",
-        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
-      },
-      "artists": [
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "BM",
-          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
-        }
-      ],
-      "duration_ms": 134144,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "2000",
-        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "CARITA TRISTE",
         "url": "https://open.spotify.com/album/6TRRRmLdBwtELfN4EYeYSM"
@@ -933,7 +877,23 @@
       "url": "https://open.spotify.com/track/2mYlSgPvC5Np4mDg9DU5Mc"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "2000",
+        "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
+      },
+      "artists": [
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Libertad",
         "url": "https://open.spotify.com/album/7GqNN5mgkE38TFBjU8vKCd"
@@ -949,23 +909,7 @@
       "url": "https://open.spotify.com/track/5vHWh24GAsXJ7tnIu8v7UN"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
-      "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 174229,
-      "name": "LA FALDA",
-      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
-    },
-    {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
         "name": "Mil Preguntas",
         "url": "https://open.spotify.com/album/5ougKjEm8bDDKJQSEsWSSR"
@@ -985,24 +929,80 @@
       "url": "https://open.spotify.com/track/4YntVuBqggRsASIbBoWT3F"
     },
     {
-      "added_at": "2024-09-03 14:39:52",
+      "added_at": "2024-09-04 09:34:07",
       "album": {
-        "name": "EL COMIENZO",
-        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
       },
       "artists": [
         {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lewis Somes",
-          "url": "https://open.spotify.com/artist/6U574RAq08wVaurzSaqEY3"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 121200,
-      "name": "TU TA RICA",
-      "url": "https://open.spotify.com/track/27bcRgu0wnDteieWlLCxc8"
+      "duration_ms": 174229,
+      "name": "LA FALDA",
+      "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "444",
+        "url": "https://open.spotify.com/album/6xKpzZVah8P8ybxXDOG4Ad"
+      },
+      "artists": [
+        {
+          "name": "Salastkbron",
+          "url": "https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r"
+        },
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        }
+      ],
+      "duration_ms": 154806,
+      "name": "Dimelo Mami",
+      "url": "https://open.spotify.com/track/1MCArCVJUgBUrBnzUoZqmq"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "QUE NOS FALTE TODO",
+        "url": "https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G"
+      },
+      "artists": [
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk"
+        }
+      ],
+      "duration_ms": 134144,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/6vRQqxOhUFd78p5tL8jXr7"
+    },
+    {
+      "added_at": "2024-09-04 09:34:07",
+      "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "duration_ms": 151441,
+      "name": "30 Grados",
+      "url": "https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5"
     }
   ],
   "unique_name": "Top 50 - Argentina",

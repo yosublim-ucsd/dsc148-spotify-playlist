@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Ascolta a tutto volume queste talentuose artiste italiane! Cover: Malika Ayane",
+  "description": "Ascolta a tutto volume queste talentuose artiste italiane! Cover: Sally Cruz",
   "name": "EQUAL Italia",
   "tracks": [
     {
@@ -4270,7 +4270,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 193359,
       "name": "comphet",
       "url": "https://open.spotify.com/track/0Qt4bjEENOnUiXRA792apJ"
@@ -5006,7 +5006,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 160000,
       "name": "DAY&NIGHT",
       "url": "https://open.spotify.com/track/0DNacAFfZQZp6ZXre463Nv"
@@ -5918,7 +5918,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 189400,
       "name": "Estate infinita",
       "url": "https://open.spotify.com/track/6XEv6VPkpV3QuqeGKS4Jaa"
@@ -6774,7 +6774,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 140406,
       "name": "Finto cielo",
       "url": "https://open.spotify.com/track/6mT2w1ht77DkG5aKXzSJhc"
@@ -8274,6 +8274,24 @@
       "duration_ms": 137148,
       "name": "HUSTLE",
       "url": "https://open.spotify.com/track/2GA2X9ppNsPpcMgBfpszA8"
+    },
+    {
+      "album": {
+        "name": "hyperlacrime",
+        "url": "https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S"
+      },
+      "artists": [
+        {
+          "name": "mew",
+          "url": "https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188372,
+      "name": "hyperlacrime",
+      "url": "https://open.spotify.com/track/29dpmriqXCKgoHRjRSFXHA"
     },
     {
       "album": {
@@ -10252,7 +10270,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 156968,
       "name": "Lontano",
       "url": "https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H"
@@ -11765,6 +11783,24 @@
     },
     {
       "album": {
+        "name": "Mi piace",
+        "url": "https://open.spotify.com/album/1GG6KWNtIcVYasYtTcERFw"
+      },
+      "artists": [
+        {
+          "name": "Flamen",
+          "url": "https://open.spotify.com/artist/0v8ujlLqWIfCTv9aK3nGMe"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174720,
+      "name": "Mi piace",
+      "url": "https://open.spotify.com/track/6L1Vn4Sylnvm1aWDVyM5HA"
+    },
+    {
+      "album": {
         "name": "Intro",
         "url": "https://open.spotify.com/album/0ZEM5B4oMJk6EAhOaekSDk"
       },
@@ -12368,7 +12404,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 130526,
       "name": "MVP",
       "url": "https://open.spotify.com/track/0Nojgk52ObYMvHlPQ4wq37"
@@ -12852,7 +12888,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 142390,
       "name": "Non chiamarmi bella",
       "url": "https://open.spotify.com/track/7zEfVA2Zg2oUlMpTwcO3FY"
@@ -12906,7 +12942,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 150330,
       "name": "Non ho bisogno di te",
       "url": "https://open.spotify.com/track/4DM3aalAzejRhIEy4u5Oov"
@@ -13404,7 +13440,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 137538,
       "name": "Obl\u00f2",
       "url": "https://open.spotify.com/track/7zLDRlMwAG0twTs3d3I73s"
@@ -13808,7 +13844,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 173924,
       "name": "OSSA ROTTE",
       "url": "https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS"
@@ -13848,6 +13884,24 @@
       "duration_ms": 240000,
       "name": "OTT",
       "url": "https://open.spotify.com/track/2fAzROOpEsYAgp8lkT0QY1"
+    },
+    {
+      "album": {
+        "name": "Ottovolanti",
+        "url": "https://open.spotify.com/album/4UcyS3aHApF3S5Zu2NSD6z"
+      },
+      "artists": [
+        {
+          "name": "eyTrama",
+          "url": "https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213658,
+      "name": "Ottovolanti",
+      "url": "https://open.spotify.com/track/4ku0gp9Dmu4pdiaRmBlrse"
     },
     {
       "album": {
@@ -14241,6 +14295,24 @@
     },
     {
       "album": {
+        "name": "Perduto - D-Verse",
+        "url": "https://open.spotify.com/album/3b8AIeuDDRxyn6LbwgdAo0"
+      },
+      "artists": [
+        {
+          "name": "Ornella Vanoni",
+          "url": "https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193282,
+      "name": "Perduto - D-Verse",
+      "url": "https://open.spotify.com/track/4RcZV7lGmG1cDlwPzbdaZX"
+    },
+    {
+      "album": {
         "name": "Periferia",
         "url": "https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy"
       },
@@ -14606,6 +14678,24 @@
       "duration_ms": 201000,
       "name": "Porto",
       "url": "https://open.spotify.com/track/4n4zAIGUM0jO9zvqrvDCU2"
+    },
+    {
+      "album": {
+        "name": "Posto Nuovo",
+        "url": "https://open.spotify.com/album/06E5ivgvPo3qLoX6jK8t82"
+      },
+      "artists": [
+        {
+          "name": "Casadilego",
+          "url": "https://open.spotify.com/artist/1KEprABpzSCzzgwNk8EpYT"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343138,
+      "name": "Posto Nuovo",
+      "url": "https://open.spotify.com/track/1B1JlGhz2IycsOV8EmaJXi"
     },
     {
       "album": {
@@ -15201,6 +15291,24 @@
     },
     {
       "album": {
+        "name": "Raccontarsi favole",
+        "url": "https://open.spotify.com/album/3YwaqlCyDXMugZWmfifiHt"
+      },
+      "artists": [
+        {
+          "name": "Missey",
+          "url": "https://open.spotify.com/artist/2DcrZVjp98sHG7ttcywb7s"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Raccontarsi favole",
+      "url": "https://open.spotify.com/track/7I0jLHSjDKZ29BWrnqP4Ah"
+    },
+    {
+      "album": {
         "name": "Ragazza Sola",
         "url": "https://open.spotify.com/album/7pIwLFUMrWOLd9o0edX64Z"
       },
@@ -15230,7 +15338,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 176516,
       "name": "RAGAZZI FUORI",
       "url": "https://open.spotify.com/track/6ESqYk01s6jNv0YFv2vguz"
@@ -16067,6 +16175,24 @@
     },
     {
       "album": {
+        "name": "Salire",
+        "url": "https://open.spotify.com/album/4HYUidAJGBAxq8sxTEd3iV"
+      },
+      "artists": [
+        {
+          "name": "Lucy",
+          "url": "https://open.spotify.com/artist/4UH11YIdiHkl8rCyRdSR0P"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189285,
+      "name": "Salire",
+      "url": "https://open.spotify.com/track/5kuVlOHjzutgkyopjJn8A2"
+    },
+    {
+      "album": {
         "name": "salotto",
         "url": "https://open.spotify.com/album/4rRug7Wi12XXlxP8TJb9WX"
       },
@@ -16734,7 +16860,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 159685,
       "name": "Sexy Magica",
       "url": "https://open.spotify.com/track/55JgCMrXnEr7efsSEaUjpd"
@@ -17047,6 +17173,24 @@
     },
     {
       "album": {
+        "name": "soli soli",
+        "url": "https://open.spotify.com/album/0Ki0cUpTBIoipeFO26lJKu"
+      },
+      "artists": [
+        {
+          "name": "Giuze",
+          "url": "https://open.spotify.com/artist/2drbYqHcAqNoLoEhrzaZ5B"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160941,
+      "name": "soli soli",
+      "url": "https://open.spotify.com/track/5T3kVq65Kjxg4698zdogLI"
+    },
+    {
+      "album": {
         "name": "Solite chiacchiere",
         "url": "https://open.spotify.com/album/6mglMQh6NgxleBd7LbEMBY"
       },
@@ -17094,7 +17238,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 161973,
       "name": "Solo diamanti",
       "url": "https://open.spotify.com/track/29ZokjwQEz6D0Di4NRqhXe"
@@ -17134,6 +17278,24 @@
       "duration_ms": 170319,
       "name": "Solo se \u00e8 buio",
       "url": "https://open.spotify.com/track/6VB3sLcbR13gvnbVP66HhA"
+    },
+    {
+      "album": {
+        "name": "Solo tu",
+        "url": "https://open.spotify.com/album/6cU7ghqXYVgLVtvrcdoTTp"
+      },
+      "artists": [
+        {
+          "name": "CORHA",
+          "url": "https://open.spotify.com/artist/5vL17EWSXeyQwrTGcRU4JZ"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Solo tu",
+      "url": "https://open.spotify.com/track/3t7RVFQ09AY9C6iHhwtnSk"
     },
     {
       "album": {
@@ -17202,7 +17364,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 172079,
       "name": "Sotto Effetto",
       "url": "https://open.spotify.com/track/5AoTOyFrguTiDH1YCCHZMh"
@@ -17960,7 +18122,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 184000,
       "name": "T'aggio fatto ved\u00e8",
       "url": "https://open.spotify.com/track/3bogKjT5U6ashXBZ0oRaZM"
@@ -18558,7 +18720,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 175135,
       "name": "TONIGHT",
       "url": "https://open.spotify.com/track/30yZdVYOfemHG7uuntz7HH"

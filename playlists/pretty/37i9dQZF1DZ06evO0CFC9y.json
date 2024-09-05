@@ -1,12 +1,12 @@
 {
   "description": "This is AFI. The essential tracks, all in one playlist.",
-  "num_followers": 33915,
+  "num_followers": 33928,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABo/7J0sB24flRrbXWg7Xdd",
+  "snapshot_id": "ZtZRgAAAAADnaeqavUrC0+/JesKTxW8Q",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "AFI",
+        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 277840,
-      "name": "I Hope You Suffer",
-      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+      "duration_ms": 201973,
+      "name": "God Called In Sick Today",
+      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFI",
-        "url": "https://open.spotify.com/album/1eK4nhdVZTpIzibRw7qWiw"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 201973,
-      "name": "God Called In Sick Today",
-      "url": "https://open.spotify.com/track/1KlroNpIZRQuLK236qrfog"
+      "duration_ms": 277840,
+      "name": "I Hope You Suffer",
+      "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+        "name": "Crash Love - Deluxe",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 241560,
-      "name": "A Deep Slow Panic",
-      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love - Deluxe",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 176640,
-      "name": "Too Shy To Scream",
-      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
     },
     {
       "added_at": null,

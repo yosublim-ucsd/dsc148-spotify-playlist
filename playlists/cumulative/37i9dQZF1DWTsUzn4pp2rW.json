@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
+  "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Laufey",
   "name": "Jazz Pop",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 228983,
       "name": "5 Star Overthinker",
       "url": "https://open.spotify.com/track/6xSafwQKqlAyUVh7UT3FOC"
@@ -798,7 +798,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
@@ -1522,7 +1522,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 181000,
       "name": "Everywhere",
       "url": "https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ"
@@ -1558,7 +1558,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-30",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "Falling Behind",
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
@@ -1771,6 +1771,24 @@
     },
     {
       "album": {
+        "name": "Bewitched",
+        "url": "https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/43iIQbw5hx986dUEZbr3eN"
+    },
+    {
+      "album": {
         "name": "Gin & Jazz",
         "url": "https://open.spotify.com/album/1RNLGn3sx62f64k9wfi2PI"
       },
@@ -1968,7 +1986,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 222161,
       "name": "Help Me Make It Through the Night (feat. Loren Allred)",
       "url": "https://open.spotify.com/track/6f6jBn29HU6pbvy99NYXF3"
@@ -2706,7 +2724,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 277506,
       "name": "In My Craft or Sullen Art",
       "url": "https://open.spotify.com/track/5ThjhKc0mU6KW16uL0eYqD"
@@ -3183,6 +3201,28 @@
     },
     {
       "album": {
+        "name": "Let You Break My Heart Again",
+        "url": "https://open.spotify.com/album/2YkyuQGoMV2FlG7mFprnRf"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269066,
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo"
+    },
+    {
+      "album": {
         "name": "Let's Get Lost",
         "url": "https://open.spotify.com/album/12tZcQltgeJcB7jaBGIWHx"
       },
@@ -3306,7 +3346,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 91613,
       "name": "Live Without You",
       "url": "https://open.spotify.com/track/6Z175630nXFIv5o6wY47aF"
@@ -3426,7 +3466,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 218142,
       "name": "Love Is In The Picture",
       "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
@@ -4134,7 +4174,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 234266,
       "name": "Promise",
       "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn"
@@ -5451,6 +5491,24 @@
     },
     {
       "album": {
+        "name": "Everything I Know About Love",
+        "url": "https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168906,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
+    },
+    {
+      "album": {
         "name": "The Window",
         "url": "https://open.spotify.com/album/2XClSOjimwtkeWYPo53mHG"
       },
@@ -5657,6 +5715,24 @@
     },
     {
       "album": {
+        "name": "Where or When",
+        "url": "https://open.spotify.com/album/70L7alOq247J9W6jGo3PqR"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203300,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/4gJXJkd0zFFanZL2w0RsMB"
+    },
+    {
+      "album": {
         "name": "Wherever You're Going",
         "url": "https://open.spotify.com/album/0F0fb6ytX3wGsmCNKkBOeb"
       },
@@ -5704,7 +5780,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 252049,
       "name": "Why Am I Doubting",
       "url": "https://open.spotify.com/track/1QJS8rCr4SvVunqh9fGTQw"

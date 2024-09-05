@@ -4,7 +4,7 @@
 
 > 
 
-1,668 songs - 3 day 17 hr 49 min
+1,669 songs - 3 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -431,6 +431,7 @@
 | [Ease My Mind \(Barber Remix\)](https://open.spotify.com/track/24H7fAmZTQK0k1qqBQS91H) | [Juliëx](https://open.spotify.com/artist/3RTCQDInBbA9wEuRrhRLTq), [Sjammienators](https://open.spotify.com/artist/2gRSrXu8APvASvSMZK1hO2), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W) | [A New Beginning](https://open.spotify.com/album/43iVtS44j58pYt6KPhuchb) | 2:51 | 2022-09-09 |  |
 | [Eat My Shit](https://open.spotify.com/track/6mhqWAUiEa9nRiPZQd5CGO) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Eat My Shit](https://open.spotify.com/album/6m6srzVOxusuCpTui3axmV) | 3:51 | 2023-02-11 |  |
 | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/track/5dwBjzLjqbhIPeTHrFY3ny) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Echoes of Unity \(Official Toxicator 2023 Anthem\)](https://open.spotify.com/album/6L5eWhkdwPFpSEtMOkG34G) | 3:56 | 2023-11-13 |  |
+| [Ecstasy](https://open.spotify.com/track/0VQCry3a1LTmU3BZYhl9dj) | [Republic](https://open.spotify.com/artist/3b2nFKYSMKcxy0kV1hTqFt), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Sense of Freedom](https://open.spotify.com/album/5oMnMfPEFJqPRK9oaO659x) | 2:58 | 2024-09-04 |  |
 | [Edge of Infinity](https://open.spotify.com/track/1PHbbNUTkC46KEEculOwNZ) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [New Age Of Rave](https://open.spotify.com/album/22fTTNJUT1KNs7I1XJKS6k) | 3:22 | 2023-09-11 |  |
 | [Edison](https://open.spotify.com/track/7obK6GuQBRXK9agu8sfyrz) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE), [Partyraiser](https://open.spotify.com/artist/39cgo5SPJygKIlIcrwkd73) | [Edison](https://open.spotify.com/album/0rBsDGrsCkRE7cs2Z0A845) | 4:24 | 2022-09-09 |  |
 | [ELECTRONIC UNIVERSE](https://open.spotify.com/track/2eAMTObI815qwy7oa8vnjm) | [Ixper](https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN) | [ELECTRONIC UNIVERSE](https://open.spotify.com/album/7jgoChu3QvdSTfoaOmALU4) | 3:30 | 2024-07-24 |  |

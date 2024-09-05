@@ -19752,7 +19752,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -19774,7 +19774,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 143330,
       "name": "Guess featuring Billie Eilish",
       "url": "https://open.spotify.com/track/7qbJ4Dh8xuYUFdAWL8SFPK"
@@ -21978,7 +21978,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
@@ -26673,6 +26673,24 @@
     },
     {
       "album": {
+        "name": "Capitaine fait de l'art",
+        "url": "https://open.spotify.com/album/05YqDGZ0w5GCfvLb7TMoKT"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "J\u2019crois qu\u2019ils ont pas compris",
+      "url": "https://open.spotify.com/track/3KmGOpeFaltoCpzRAyrZJg"
+    },
+    {
+      "album": {
         "name": "K-POP",
         "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
       },
@@ -26974,7 +26992,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 179974,
       "name": "KEHLANI (REMIX) [feat. Kehlani]",
       "url": "https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo"
@@ -49666,7 +49684,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 228285,
       "name": "That's Who I Praise",
       "url": "https://open.spotify.com/track/3gVYa5bvsuvBegKEIEY8Mk"

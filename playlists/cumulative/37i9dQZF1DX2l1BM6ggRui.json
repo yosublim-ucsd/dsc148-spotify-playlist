@@ -308,7 +308,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 209133,
       "name": "Beautiful Day",
       "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
@@ -1522,6 +1522,24 @@
       "duration_ms": 140021,
       "name": "Lucky Girl Syndrome",
       "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
+    },
+    {
+      "album": {
+        "name": "LUMOS",
+        "url": "https://open.spotify.com/album/0o8HKVMLiAoBkJnlSl4YHO"
+      },
+      "artists": [
+        {
+          "name": "AEONIT",
+          "url": "https://open.spotify.com/artist/43Y3IZ3LrZD1YsSzG5xRxF"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157666,
+      "name": "LUMOS",
+      "url": "https://open.spotify.com/track/0Qrn3Cy33RjElWdqp7u3sr"
     },
     {
       "album": {

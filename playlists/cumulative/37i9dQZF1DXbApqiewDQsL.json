@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Fresh new music by independent artists and labels, featuring La Cuatiza.  Updates every Wednesday.",
+  "description": "Fresh new music by independent artists and labels, featuring Los de FL.  Updates every Wednesday.",
   "name": "Fresh Finds M\u00fasica Mexicana",
   "tracks": [
     {
@@ -388,7 +388,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 143504,
       "name": "Baby Dante",
       "url": "https://open.spotify.com/track/6iH6b2mLTeO48HQLEZyoTY"
@@ -1893,6 +1893,28 @@
     },
     {
       "album": {
+        "name": "Hannah Montana",
+        "url": "https://open.spotify.com/album/5hMBPNzaAbX4xtpvXDnqWL"
+      },
+      "artists": [
+        {
+          "name": "Eduardo Soto",
+          "url": "https://open.spotify.com/artist/2iCcqtXpDIFCLn1DnvUGQR"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143124,
+      "name": "Hannah Montana",
+      "url": "https://open.spotify.com/track/2CGH52UvOXmqVs3cLcavu2"
+    },
+    {
+      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -2371,6 +2393,46 @@
     },
     {
       "album": {
+        "name": "Loko y Malandron",
+        "url": "https://open.spotify.com/album/5tkeerNPkWQMc3lMsiDMG4"
+      },
+      "artists": [
+        {
+          "name": "Los de FL",
+          "url": "https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "Loko y Malandron",
+      "url": "https://open.spotify.com/track/3t1fpixtTYS9qLAJDOrghi"
+    },
+    {
+      "album": {
+        "name": "Los Juguetes del MT",
+        "url": "https://open.spotify.com/album/4Ss9M4xxQib1DqyQI2obzR"
+      },
+      "artists": [
+        {
+          "name": "Guty Ibarra",
+          "url": "https://open.spotify.com/artist/5dP2S6oHu7va85XG6BeXAn"
+        },
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199418,
+      "name": "Los Juguetes del MT",
+      "url": "https://open.spotify.com/track/3ctaBbjus87zuBIRE5ClD6"
+    },
+    {
+      "album": {
         "name": "Vuelve",
         "url": "https://open.spotify.com/album/4cZukU1kJ55MUGKTRkgge2"
       },
@@ -2611,6 +2673,24 @@
     },
     {
       "album": {
+        "name": "Moon",
+        "url": "https://open.spotify.com/album/2d1DgPb4ii56HIjAMGq0cA"
+      },
+      "artists": [
+        {
+          "name": "Linea M",
+          "url": "https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193493,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/5Wp4HNq9irJe6NVL3dWuuD"
+    },
+    {
+      "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
       },
@@ -2742,7 +2822,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 189473,
       "name": "NNSQ (Si Es Contigo)",
       "url": "https://open.spotify.com/track/1fDc9t9sh3jhyih4yXoED6"
@@ -3449,6 +3529,28 @@
     },
     {
       "album": {
+        "name": "Que Pasara",
+        "url": "https://open.spotify.com/album/6uJ5pxliaLXEfSEKLyDiL6"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        },
+        {
+          "name": "Design\u00f3",
+          "url": "https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Que Pasara",
+      "url": "https://open.spotify.com/track/6oeBRv0dOACUTRDnwmtppo"
+    },
+    {
+      "album": {
         "name": "Que Triste",
         "url": "https://open.spotify.com/album/36RNXuLE0BmLqqS36VDpWF"
       },
@@ -3644,7 +3746,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 164214,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/7hOJUhwwyfUVjrbj3ckvL8"
@@ -3918,7 +4020,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 203124,
       "name": "Tan Sensual",
       "url": "https://open.spotify.com/track/7yvhrqpYUxRRsDR13kViYx"
@@ -4086,6 +4188,24 @@
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
+    },
+    {
+      "album": {
+        "name": "TINTEADO",
+        "url": "https://open.spotify.com/album/4SgwY7r4w9JtPePdCjB5zn"
+      },
+      "artists": [
+        {
+          "name": "Yng Naz",
+          "url": "https://open.spotify.com/artist/3pGStZwQq6wzCgCPjT8YOC"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141413,
+      "name": "TINTEADO",
+      "url": "https://open.spotify.com/track/4pkZkvLb6EoqQvpY8mM381"
     },
     {
       "album": {

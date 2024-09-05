@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 23367,
+  "num_followers": 23376,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-09-03 23:21:54",
       "album": {
+        "name": "Las Ventajas",
+        "url": "https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu"
+      },
+      "artists": [
+        {
+          "name": "La Primera Especie",
+          "url": "https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ"
+        }
+      ],
+      "duration_ms": 243611,
+      "name": "Las Ventajas",
+      "url": "https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg"
+    },
+    {
+      "added_at": "2024-09-03 23:21:54",
+      "album": {
         "name": "Si No Hubiera Ma\u00f1ana",
         "url": "https://open.spotify.com/album/1WmcAiuPAtwzxCLzSwFXf4"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 228506,
       "name": "Conf\u00edn Dorado",
       "url": "https://open.spotify.com/track/3O8NcxrSDChmIR4RkeFRf3"
-    },
-    {
-      "added_at": "2024-09-03 23:21:54",
-      "album": {
-        "name": "Las Ventajas",
-        "url": "https://open.spotify.com/album/3DCRIRQgeUxsQzGPckHAxu"
-      },
-      "artists": [
-        {
-          "name": "La Primera Especie",
-          "url": "https://open.spotify.com/artist/3MXxt2uAO11bNSei5CmKtZ"
-        }
-      ],
-      "duration_ms": 243611,
-      "name": "Las Ventajas",
-      "url": "https://open.spotify.com/track/3mX8eK6njKAu7PIWh1zEOg"
     },
     {
       "added_at": "2024-09-03 23:21:54",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-09-03 23:21:54",
       "album": {
+        "name": "No digas que no te avis\u00e9",
+        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
+      },
+      "artists": [
+        {
+          "name": "Riel",
+          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
+        }
+      ],
+      "duration_ms": 266472,
+      "name": "No digas que no te avis\u00e9",
+      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
+    },
+    {
+      "added_at": "2024-09-03 23:21:54",
+      "album": {
         "name": "No Est\u00e1 Mal Volar",
         "url": "https://open.spotify.com/album/6thHooDl6fbhY7eA81TPNJ"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 277438,
       "name": "Amarras",
       "url": "https://open.spotify.com/track/4rwAzcLfS0Rze0QkJU9QgB"
-    },
-    {
-      "added_at": "2024-09-03 23:21:54",
-      "album": {
-        "name": "No digas que no te avis\u00e9",
-        "url": "https://open.spotify.com/album/7mNsh0jlcVtoUbJDh4PfJT"
-      },
-      "artists": [
-        {
-          "name": "Riel",
-          "url": "https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu"
-        }
-      ],
-      "duration_ms": 266472,
-      "name": "No digas que no te avis\u00e9",
-      "url": "https://open.spotify.com/track/0XWbz1U6iOO2FW2NRT2omM"
     },
     {
       "added_at": "2024-09-03 23:21:54",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 
 > This is Deorro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,406 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,412 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO462cZX.md) - [plain]
 | 50 | [Freak \(feat\. Steve Bays\)](https://open.spotify.com/track/0GATmBanwPiHQBfl2mDq3o) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Steve Bays](https://open.spotify.com/artist/6vomg8FUuwmHqjYSQXL6SO) | [Random White Dude Be Everywhere](https://open.spotify.com/album/4c7lxBZCbR8SQsoVvO2lCb) | 4:41 |
 | 51 | [Left Right](https://open.spotify.com/track/1lpgyKW9jJSUl4QMFcADHa) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [MAKJ](https://open.spotify.com/artist/3PtCud9dIdOv4exrzdZZ1C), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Left Right](https://open.spotify.com/album/1zq0v6b34WAN1J7HqbXLUZ) | 2:35 |
 
-Snapshot ID: `ZtUAAAAAAAATBxZICNOv9SmyuWr92pPF`
+Snapshot ID: `ZtZRgAAAAAC+pvtiCrprlvoWEGSDCStx`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 ### [This Is Carolina Ross](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3fD9Xc)
 
-> This is Carolina Ross\. The essential tracks, all in one playlist.
+> This is Carolina Ross\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,325 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,328 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 40 | [Yo Te Extrañaré](https://open.spotify.com/track/6MHmMj5jjQuMNjAagOqmdG) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Yo Te Extrañaré](https://open.spotify.com/album/4UK1fdTA3gZ1wkqdDRXa20) | 4:55 |
 | 41 | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/track/0Xlne6EwDCM8qpBnIfvwUm) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Merecemos Perdonarnos \(En Vivo\)](https://open.spotify.com/album/4vUxy6TypvUYyRcVUfPjhS) | 3:15 |
 | 42 | [El Barco](https://open.spotify.com/track/0qcj9j5w8dZhFcCj9e3hvK) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:46 |
-| 43 | [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 |
-| 44 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
-| 45 | [Dos Balas](https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Dos Balas](https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb) | 2:35 |
-| 46 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
-| 47 | [Cuando Caiga La Noche](https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:21 |
-| 48 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
+| 43 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
+| 44 | [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 |
+| 45 | [Ya Lo Sé Que Tú Te Vas](https://open.spotify.com/track/13JmKPnANDG4nNcXdURZNR) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:16 |
+| 46 | [Dos Balas](https://open.spotify.com/track/0nFrXmyVlEN34M29mN1xiv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV), [Fend](https://open.spotify.com/artist/4zTS87j9J5bBv0R9AEzeC7) | [Dos Balas](https://open.spotify.com/album/76v60AQbzVgs6YyKUtOVgb) | 2:35 |
+| 47 | [Jugar a Los Besos](https://open.spotify.com/track/3eCarseFqDhUPEWMDcWi2t) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Jugar a Los Besos](https://open.spotify.com/album/3ft9sLjNF5Ff3nTytL3TRD) | 2:48 |
+| 48 | [Cuando Caiga La Noche](https://open.spotify.com/track/25xtqmANsVCuTfdoEHMnAv) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/1mLr3RcaBKzPJJqrlDEdv7) | 3:21 |
 | 49 | [Si Me Tenías](https://open.spotify.com/track/5KQqFvTyDGh7eumS8WpbD5) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 4:00 |
 
-Snapshot ID: `ZtUAAAAAAAC54K1lv5L6uP0l6muEvyBU`
+Snapshot ID: `ZtZRgAAAAACNs2f4KImnFz/JBCww9F0+`

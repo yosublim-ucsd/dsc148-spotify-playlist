@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: Jordan Susanto
 
-707 songs - 1 day 18 hr 32 min
+709 songs - 1 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Did You Like Her In The Morning?](https://open.spotify.com/track/5SwdrJLtyFyC926bXw5PCz) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Buzz](https://open.spotify.com/album/3g73KFee4dbxDq5vTmX92S) | 3:37 | 2024-08-28 |  |
 | [DIE 4 YOU](https://open.spotify.com/track/7yZD4AVfQtAZD4cG8eRnPk) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [DIE 4 YOU](https://open.spotify.com/album/0FMkdX3YNx7Ez7pv3XRGzr) | 3:14 | 2023-12-06 | 2024-02-01 |
 | [Die For You \- Remix](https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Die For You \(Remix\)](https://open.spotify.com/album/6Exo0MYoL3XammoTDeihFy) | 3:52 | 2023-03-23 | 2023-08-11 |
+| [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-09-04 |  |
 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 | 2024-08-28 |  |
 | [Dinda](https://open.spotify.com/track/49aLn6dhgqf1XOjxQGG15w) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO) | [Dinda](https://open.spotify.com/album/5uAiw6BRqGyyJ3jFsrvRY0) | 3:31 | 2023-10-19 | 2023-12-02 |
 | [Disenchanted](https://open.spotify.com/track/6T7MAQCekVb3UnCykjX3BP) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 4:55 | 2023-05-11 | 2023-07-15 |
@@ -412,6 +413,7 @@
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-13 | 2023-09-07 |
 | [Never Let Go](https://open.spotify.com/track/2nRMW95dnOILirpjbksLTs) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Never Let Go](https://open.spotify.com/album/6zXydimgenc15N3LWmf0cn) | 2:46 | 2024-06-26 | 2024-07-27 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-22 | 2024-02-16 |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-04 |  |
 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 | 2023-03-30 | 2023-05-12 |
 | [Nikmati Perjalanannya](https://open.spotify.com/track/7GEct8saqLf7ldt1g2HRTA) | [Chintya Gabriella](https://open.spotify.com/artist/1o0MfrMPYehxn9ieyHbk1Q) | [Nikmati Perjalanannya](https://open.spotify.com/album/5oAaVT1eCNMDDDECL2dxHd) | 3:21 | 2024-04-03 | 2024-05-03 |
 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2024-07-26 |  |

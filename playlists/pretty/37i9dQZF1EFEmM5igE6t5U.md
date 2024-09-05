@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7clFvfOCA8KimyV26jLALB">Alicia Keys</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 560 likes - 190 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 559 likes - 190 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 61 | [Raise A Man](https://open.spotify.com/track/5qEsQiKndh4h3d16LiZs5x) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Raise A Man](https://open.spotify.com/album/1N0iT0PwcXXV1zUXNICAgP) | 6:13 |
 | 62 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
 | 63 | [That's When I Knew](https://open.spotify.com/track/24lEIdWXVJiEZ2IOCU0T9b) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 4:05 |
-| 64 | [Nobody \(feat\. Alicia Keys & Nicki Minaj\)](https://open.spotify.com/track/3vchM8RVoYP2rAb9NcaaMR) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 4:31 |
-| 65 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 |
+| 64 | [Trillions \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/5md3aeM1WaEjDec9gH21yW) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [KEYS II](https://open.spotify.com/album/4z4IDBBvwAl3SyUOorj5M0) | 2:53 |
+| 65 | [Nobody \(feat\. Alicia Keys & Nicki Minaj\)](https://open.spotify.com/track/3vchM8RVoYP2rAb9NcaaMR) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Grateful](https://open.spotify.com/album/6YDPJOxe5wW5pTIXMH0nCI) | 4:31 |
 | 66 | [Butterflyz](https://open.spotify.com/track/2rfRICVLPoWlFVGx7f48Cw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 4:08 |
 | 67 | [Love Is My Disease](https://open.spotify.com/track/0YXj3sGj6ejeROqSXsmWo4) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:01 |
 | 68 | [You Save Me \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/4vXSx9EFAd81zyACNmMIsA) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:41 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 78 | [Like the Sea](https://open.spotify.com/track/3fnpMcMbhrep8wMIjKsNVS) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Element Of Freedom](https://open.spotify.com/album/0Rxab8t0y7GlaTJTHX2wEN) | 4:13 |
 | 79 | [The Gospel](https://open.spotify.com/track/4ZmZpbcmJUVBgETosOn0sK) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 3:01 |
 | 80 | [The Thing About Love](https://open.spotify.com/track/0dS5vi71dgXFID7jlyjKsr) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [As I Am \(Expanded Edition\)](https://open.spotify.com/album/6KlxyxhXEDo1LdheFulN7h) | 3:49 |
-| 81 | [Not Even the King](https://open.spotify.com/track/55do1f4mkLfM314tQDlyfw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:07 |
-| 82 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 81 | [Psalm 62](https://open.spotify.com/track/1Pai6r7aZUkrP57WoGNVtp) | [Foggieraw](https://open.spotify.com/artist/1dbTwUlL11ZYdC1YAR07AM) | [The Foggie Pound 3](https://open.spotify.com/album/1ZzXYPLLalBAuHiy9JJgGr) | 2:51 |
+| 82 | [Not Even the King](https://open.spotify.com/track/55do1f4mkLfM314tQDlyfw) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Girl On Fire](https://open.spotify.com/album/3qqhNVbjLFNdLviBFrFwCa) | 3:07 |
 | 83 | [Illusion Of Bliss](https://open.spotify.com/track/3CMnKJNcZBtELH6nyLqkKg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 5:23 |
 | 84 | [A Beautiful Noise](https://open.spotify.com/track/4Z8DyhYIN47p8LgrPVOYeL) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:19 |
 | 85 | [More Than We Know](https://open.spotify.com/track/1LNTSZ2tzwhYpN9xopkDqI) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 4:35 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEmM5igE6t5U.md) - [plain]
 | 189 | [You Glow \(Interlude\)](https://open.spotify.com/track/4KEMTZBgdf5cxsby54YqSE) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [HERE](https://open.spotify.com/album/5M31iLPzYuYxkpSO5tBOMN) | 0:25 |
 | 190 | [I Got A Little Something \- Live In Seattle](https://open.spotify.com/track/79H23cYdXUmMj0Ceo2Hx8Y) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor \(Deluxe Edition\)](https://open.spotify.com/album/11z4Njr53X88x2ldtS92Ub) | 1:42 |
 
-Snapshot ID: `AbbL9AAAAAAJw++ed9oazk1dlbxsz9Yf`
+Snapshot ID: `AbbRlQAAAAAYYEpWtbrYqLQotrZH8yqf`

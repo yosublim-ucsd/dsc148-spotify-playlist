@@ -2,9 +2,9 @@
 
 ### [EQUAL Hong Kong](https://open.spotify.com/playlist/37i9dQZF1DX6W1YbI0Nbnc)
 
-> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Jasmine Kelly\)
+> Listen to women at full volume! 香港EQUAL女聲力量！\(cover: Joya\)
 
-283 songs - 17 hr 48 min
+285 songs - 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [But I'm Not Lonely](https://open.spotify.com/track/1YU243lVfy5OSUpPRc08qU) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Joyce To The World](https://open.spotify.com/album/7cFAV4DrbsYVLtLxVknIQF) | 2:49 | 2022-01-04 | 2022-03-08 |
 | [Call My Name!](https://open.spotify.com/track/16uUro9vLJogJJued0TFos) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name!](https://open.spotify.com/album/2eqT6kfBxCwKVJqsAXqjtl) | 3:23 | 2022-04-05 | 2022-05-04 |
 | [Chosen Family](https://open.spotify.com/track/501E0fjo0yGBWmHyUh6Tvb) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Chosen Family](https://open.spotify.com/album/2Xc5OPcEckqdRFg3fjdf1j) | 3:52 | 2024-04-02 |  |
+| [Confetti](https://open.spotify.com/track/1gdGrigcX8XMqs0mIYsxTo) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [Confetti](https://open.spotify.com/album/0j8IM4yNhayiWsBL4Vuedy) | 1:57 | 2024-09-04 |  |
 | [Dating Rules \- Studio Live](https://open.spotify.com/track/7oSrtwyMNXomragc2eLyI4) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM), [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [Dating Rules \(Studio Live\)](https://open.spotify.com/album/5SjqXySWWIZc5DWSw6uYwf) | 3:33 | 2022-03-07 | 2022-05-04 |
 | [Don't](https://open.spotify.com/track/4zCQxuCaO9LOID7RY2fpke) | [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [Don't](https://open.spotify.com/album/39aYSGzlwHRMQXCpPd9jAw) | 2:50 | 2022-02-02 | 2022-03-08 |
 | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/track/24XFrHZRTT96SiAojljvT8) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [Don't Text Him \(Just Kiss Him\)](https://open.spotify.com/album/6PA2ObDsGpLAHeKnbuFGTg) | 4:00 | 2021-12-07 | 2022-08-03 |
@@ -45,6 +46,7 @@
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2022-10-05 | 2022-12-01 |
 | [I'm Fine, Thx.](https://open.spotify.com/track/2MHibR4RkeGXkSvnVcTj13) | [Serrini](https://open.spotify.com/artist/0u3m5Sy2zsq4Gk0aduH9s7) | [I'm Fine, Thx.](https://open.spotify.com/album/2Hj7d0PyY4gWtmmQG7SMck) | 3:39 | 2022-01-04 | 2022-03-08 |
 | [IDK](https://open.spotify.com/track/4TlU4jNsch6P9hgbFxNK8L) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [IDK](https://open.spotify.com/album/6TA2BHMMBRmW2dGthzsQZV) | 3:22 | 2021-12-07 | 2022-01-05 |
+| [In Between](https://open.spotify.com/track/46HV59uHgPKBntPWvVIQdZ) | [Joya](https://open.spotify.com/artist/0eVN99QzrUY98uCiqa3vcu) | [In Between](https://open.spotify.com/album/4FKYyvK7jc7pfGTUB5RIsw) | 2:13 | 2024-09-04 |  |
 | [It’s OK To Be Sad](https://open.spotify.com/track/0up477QX11ffSLneXa0xHA) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [It’s OK To Be Sad](https://open.spotify.com/album/5HJdjpBgRxl4XcMuimvho9) | 3:59 | 2021-12-07 | 2023-11-30 |
 | [kill the thought](https://open.spotify.com/track/5VWmYzMPAm3GLkYlMWT9zu) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [kill the thought](https://open.spotify.com/album/4frxdpM4eCcnLoUTlucFZe) | 3:04 | 2024-01-09 | 2024-04-03 |
 | [lately](https://open.spotify.com/track/0xEpNvwICCpdZU6i2h0GUr) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [lately](https://open.spotify.com/album/69k19hsB1YmW23a7Z5fHqf) | 2:50 | 2022-03-07 | 2023-11-30 |
@@ -132,7 +134,7 @@
 | [剛好](https://open.spotify.com/track/2glEQhYzV4hvVM5tTuKzI2) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Time & Faith](https://open.spotify.com/album/4kVnFSELfabAHeMobiNSGv) | 3:49 | 2022-09-06 | 2023-11-30 |
 | [勇者鬥惡言](https://open.spotify.com/track/36cK81VNERJWGRaomcUkFv) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [勇者鬥惡言](https://open.spotify.com/album/5EVVIPWt3rKmLnE42iYqQg) | 3:28 | 2022-11-01 | 2023-11-30 |
 | [勿念](https://open.spotify.com/track/7jo1ash37IUB5NyviV7ajO) | [Yoyo Sham](https://open.spotify.com/artist/2OrCYFzQYE1TmevdYARnU1) | [勿念](https://open.spotify.com/album/09P4na1xZen1gwM63oVMGH) | 3:26 | 2022-03-07 |  |
-| [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/track/5RBFwJdHdlQ11F9bxdvjxF) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/album/5NyuMTWEGkPBMz4xyEw2xu) | 3:40 | 2024-06-06 |  |
+| [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/track/5RBFwJdHdlQ11F9bxdvjxF) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [千年如一日 \(電視劇「叠影狙擊」主題曲\)](https://open.spotify.com/album/5NyuMTWEGkPBMz4xyEw2xu) | 3:40 | 2024-06-06 | 2024-09-05 |
 | [印象](https://open.spotify.com/track/3gfm2zOE9ZwsiKh36mPjpY) | [Ivana Wong](https://open.spotify.com/artist/27WDr8Ky1j0LtgY82Ttk5S) | [印象](https://open.spotify.com/album/4ynS04kn3rXnCvOJ9wFXmm) | 3:53 | 2022-03-07 | 2022-08-03 |
 | [原來談戀愛是這麼一回事](https://open.spotify.com/track/6TJOXAyqTtq6Xvk1qHoleJ) | [Chantel 姚焯菲](https://open.spotify.com/artist/1MlkzLE28NFMVQZpydkBsq) | [原來談戀愛是這麼一回事](https://open.spotify.com/album/41qU1Np9lsLmB0o1e4sQql) | 3:29 | 2022-08-02 | 2022-09-07 |
 | [只想你記得](https://open.spotify.com/track/2CZDMyih2ayqPoe9Ccw2e7) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [只想你記得](https://open.spotify.com/album/28HSqRdjcCF4tHGwbXH10K) | 3:13 | 2022-01-04 | 2022-03-08 |
@@ -167,7 +169,7 @@
 | [小伊人愛護說明書](https://open.spotify.com/track/1iXcFABGhZSdrcTIzNcraa) | [Chancharlie](https://open.spotify.com/artist/43ibupoLM6nWMGBh14Og4T) | [小伊人愛護說明書](https://open.spotify.com/album/2nMO1JCBFcwzdlXe5tKLr4) | 3:33 | 2022-01-04 | 2022-02-03 |
 | [小島](https://open.spotify.com/track/2hn37fEFyplCS7stICKgAq) | [Tang Siu Hau](https://open.spotify.com/artist/01LAw9Av7Zcg01A8McfGYB) | [小島](https://open.spotify.com/album/13fTvWxRTs2t02FhPLCaGw) | 3:27 | 2022-03-07 | 2023-11-30 |
 | [尚有一堆理由顯出我優秀](https://open.spotify.com/track/1cg1SNSHbG9LxIy539xi3U) | [Robynn Yip](https://open.spotify.com/artist/0FjCN42GXtXZktPmzmKWa2) | [尚有一堆理由顯出我優秀](https://open.spotify.com/album/1qvLWSZ1Sg4DQ3tUeGJPvC) | 4:10 | 2022-03-07 | 2022-05-04 |
-| [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/track/5ZqIDd1adGJHhILcPXeE6Y) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/album/6IUuElV1sctU8hirdTyieP) | 3:33 | 2024-06-06 |  |
+| [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/track/5ZqIDd1adGJHhILcPXeE6Y) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [已刪除的時間線 \(電視劇「家族榮耀之繼承者」片尾曲\)](https://open.spotify.com/album/6IUuElV1sctU8hirdTyieP) | 3:33 | 2024-06-06 | 2024-09-05 |
 | [幻愛 \(Pollie Version\) \- 電影《幻愛》主題曲](https://open.spotify.com/track/2KhBT97IkCutyCnGBB2nRV) | [Lil’ Ashes](https://open.spotify.com/artist/61JmerIHrcyWpHtih0adVh) | [幻愛](https://open.spotify.com/album/7KEkWyboM6KB8E1Amq5CX1) | 4:36 | 2022-01-04 | 2022-02-03 |
 | [後人類的美麗與哀愁](https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [後人類的美麗與哀愁](https://open.spotify.com/album/2XRiLdbU5VPiLF5jxRPczq) | 3:40 | 2023-11-29 | 2024-06-07 |
 | [心亂如麻](https://open.spotify.com/track/7xHHCahHre8K3vHpMd7ql0) | [Janice Vidal](https://open.spotify.com/artist/68gYAqni9tSrACmLCp4qoM) | [My Love](https://open.spotify.com/album/3oAVjAtOmjrOlNOC5cwk3r) | 4:06 | 2021-12-07 | 2022-01-05 |

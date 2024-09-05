@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2tl6tGvyHMK5cyDc38ZF7I">Fanny Hultman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-102 songs - 5 hr 10 min
+103 songs - 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Stanna kvar](https://open.spotify.com/track/1jPZKsumGQFoUG2jN4hvmF) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:15 | 2024-01-29 |  |
 | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/track/7eNF3i7lHKtRwlvMfbNu9M) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Karen Harding](https://open.spotify.com/artist/1QOHbhVRpDoNtRkz79si6b) | [Stay \(feat\. Karen Harding\)](https://open.spotify.com/album/7DNteGyvbzO8o1XpVQoFVE) | 3:29 | 2024-01-29 |  |
 | [Sweet Dreams & Dynamite](https://open.spotify.com/track/6S8pntCfgqcPa5vhybICfv) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Sweet Dreams & Dynamite](https://open.spotify.com/album/4bL1xyGhj6p9Tzw9UO5Mjy) | 2:41 | 2024-01-29 |  |
-| [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 | 2024-01-29 |  |
+| [Thanks a lot now I can’t smile](https://open.spotify.com/track/03b4yd2Efg2bi8KvFNpMyz) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/57phmd4OriulBsRSCOWSrX) | 2:44 | 2024-01-29 | 2024-09-05 |
+| [Thanks a lot now I can’t smile](https://open.spotify.com/track/04yovA3Awq1PhEuSRgPXFi) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:44 | 2024-09-04 |  |
 | [This Could Be The End Of It](https://open.spotify.com/track/7nNJNQyU9yShkp5oPeglok) | [JUNG](https://open.spotify.com/artist/1OHba9a2SK2KcJmJgkGQZO) | [This Could Be The End Of It](https://open.spotify.com/album/2TnthnGyzc6mPwr0gypJio) | 3:03 | 2024-01-29 |  |
 | [Turn of the Tide](https://open.spotify.com/track/571rp5YwvdDOs2940lYqLg) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 3:17 | 2024-01-29 |  |
 | [VA?!](https://open.spotify.com/track/6Lvbm39dOUSuSBsPieuYMq) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 1:51 | 2024-01-29 |  |

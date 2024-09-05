@@ -1,12 +1,12 @@
 {
-  "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 124348,
+  "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
+  "num_followers": 124351,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAABo0VjBWwy/hA0mmjXOI6ON",
+  "snapshot_id": "ZtZRgAAAAAADK3QwW+zFf8CgeDPNxkJf",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "Gran D\u00eda",
-      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Besos en Cualquier Horario",
         "url": "https://open.spotify.com/album/6zCIUD6SfbJWpDy7YBzH7h"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 180624,
       "name": "Besos en Cualquier Horario",
       "url": "https://open.spotify.com/track/31nEAXAPZTr21xzxCxF38a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "Gran D\u00eda",
+      "url": "https://open.spotify.com/track/02F3ap4jOzK7Yhjv102C9B"
     },
     {
       "added_at": null,
@@ -419,22 +419,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 137693,
-      "name": "Pasado Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
         "url": "https://open.spotify.com/album/694hCUyeR4sSjV7J1mu0dO"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 212348,
       "name": "Qu\u00e9 Tienes T\u00fa (feat. Jes\u00fas de Reik & Mau y Ricky)",
       "url": "https://open.spotify.com/track/4txQPJDlvU72lC6EMhT7m9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 137693,
+      "name": "Pasado Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/79vaLBBCDHmYvY8JUcnDj9"
     },
     {
       "added_at": null,
@@ -499,26 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/0ZFf280RcEEsVThiKLVOnr"
-        }
-      ],
-      "duration_ms": 188862,
-      "name": "Hasta Olvidarte",
-      "url": "https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cocoterapia",
         "url": "https://open.spotify.com/album/0vmNJ8cSNDKIOSOuYSnIz1"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 160653,
       "name": "Hijos Contigo",
       "url": "https://open.spotify.com/track/3m4nEtqr8vaHJCfc6yjasu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/0ZFf280RcEEsVThiKLVOnr"
+        }
+      ],
+      "duration_ms": 188862,
+      "name": "Hasta Olvidarte",
+      "url": "https://open.spotify.com/track/4Si5fSGdnlntioOKmpDnu8"
     },
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 174480,
-      "name": "Vas a Destrozarme",
-      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Me Enamora",
         "url": "https://open.spotify.com/album/1dig8YSzW8UrxJ89D1iSC2"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 168167,
       "name": "Me Enamora",
       "url": "https://open.spotify.com/track/2hdhH9YsYQInj4NYU75XZZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 174480,
+      "name": "Vas a Destrozarme",
+      "url": "https://open.spotify.com/track/3pGXsSv5CM4Xl4GATNfB9v"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hotel Caracas",
-        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 148767,
-      "name": "Canci\u00f3n 2",
-      "url": "https://open.spotify.com/track/04yUAvNYBJfOescfqT8UlS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miami",
         "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 130653,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hotel Caracas",
+        "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 148767,
+      "name": "Canci\u00f3n 2",
+      "url": "https://open.spotify.com/track/04yUAvNYBJfOescfqT8UlS"
     },
     {
       "added_at": null,
@@ -719,6 +719,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Qu\u00e9 Dir\u00edas?",
+        "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "Qu\u00e9 Dir\u00edas?",
+      "url": "https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hotel Caracas",
         "url": "https://open.spotify.com/album/5ZH7IdEga8gne83NYz8nsS"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 175217,
       "name": "Espectacular",
       "url": "https://open.spotify.com/track/3GOkMzVUvW3ax2bDIe0U8C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Qu\u00e9 Dir\u00edas?",
-        "url": "https://open.spotify.com/album/6nz3906mjf2FD4EiuzBrGM"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 183613,
-      "name": "Qu\u00e9 Dir\u00edas?",
-      "url": "https://open.spotify.com/track/3HPvXWekjDqIppRxhpHkDT"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Grosera",
+        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 158626,
+      "name": "La Grosera",
+      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malo",
         "url": "https://open.spotify.com/album/7oC7SkpvhmZWlB6Srg3wBz"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 181804,
       "name": "Malo",
       "url": "https://open.spotify.com/track/0RUd7aym18Qmc5sIHARIFg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Grosera",
-        "url": "https://open.spotify.com/album/2jwfudGl8LThRwaAXmWGdL"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 158626,
-      "name": "La Grosera",
-      "url": "https://open.spotify.com/track/0KEdaZfGUjxZbvGWqjsfER"
     },
     {
       "added_at": null,

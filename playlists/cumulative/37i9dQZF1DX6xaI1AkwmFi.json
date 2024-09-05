@@ -659,6 +659,24 @@
     },
     {
       "album": {
+        "name": "CARAI",
+        "url": "https://open.spotify.com/album/2iMnoiFCOn8mC8eRJtWPqR"
+      },
+      "artists": [
+        {
+          "name": "CHiLi GiRL",
+          "url": "https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/69TWjExg7jIsKppVduemkN"
+    },
+    {
+      "album": {
         "name": "Friday's High",
         "url": "https://open.spotify.com/album/5tNVnWBWRvCcZzinIcnRXp"
       },
@@ -880,6 +898,24 @@
       "duration_ms": 153065,
       "name": "HELLO (from The Tiger's Apprentice)",
       "url": "https://open.spotify.com/track/6tmP2DtGTamdlOK7t5rjNB"
+    },
+    {
+      "album": {
+        "name": "Knightclub",
+        "url": "https://open.spotify.com/album/4Nh1wrox3ruzwPThq4xKKR"
+      },
+      "artists": [
+        {
+          "name": "VK Blanka",
+          "url": "https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197130,
+      "name": "High Love",
+      "url": "https://open.spotify.com/track/0BiEJZbK16o6Zaj4x1IkAR"
     },
     {
       "album": {
@@ -1300,7 +1336,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 275560,
       "name": "Lonely cocoa",
       "url": "https://open.spotify.com/track/6qxQtL7P942IyGv1CumwZr"
@@ -1462,7 +1498,7 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
@@ -2209,6 +2245,24 @@
     },
     {
       "album": {
+        "name": "Scoop!",
+        "url": "https://open.spotify.com/album/0brj4UWdmeAkIGeOAkOnOB"
+      },
+      "artists": [
+        {
+          "name": "This is LAST",
+          "url": "https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176013,
+      "name": "Scoop!",
+      "url": "https://open.spotify.com/track/3fccsKwQvFMV38W4zrx8TU"
+    },
+    {
+      "album": {
         "name": "SCRAP BOOOO",
         "url": "https://open.spotify.com/album/1TV3feeXhBqjJHCrpoLUdv"
       },
@@ -2372,6 +2426,24 @@
       "duration_ms": 234993,
       "name": "sister",
       "url": "https://open.spotify.com/track/2neojiNTVF8n3ppd05DCG7"
+    },
+    {
+      "album": {
+        "name": "\u6b8b\u5fc3\u6b8b\u6691",
+        "url": "https://open.spotify.com/album/7jP1J26XhTXiLzVAIcDc0D"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255960,
+      "name": "skirt",
+      "url": "https://open.spotify.com/track/4Tpsjv8zpTKcWPL6deVsr1"
     },
     {
       "album": {
@@ -3130,7 +3202,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 265617,
       "name": "\u3042\u306e\u5b50\u3068\u30c0\u30f3\u30b9 (feat. chelmico)",
       "url": "https://open.spotify.com/track/0gVOzW7v3JyWzcLlbz3T2G"
@@ -3722,7 +3794,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 234323,
       "name": "\u30b7\u30f3\u30c7\u30ec\u30e9\u30dc\u30fc\u30a4",
       "url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V"
@@ -3819,6 +3891,28 @@
     },
     {
       "album": {
+        "name": "\u30ce\u30fc\u30e1\u30a4\u30af\u30b9\u30bf\u30fc (feat. \u8a69\u7fbd)",
+        "url": "https://open.spotify.com/album/2Kn1t6oSfWXfBwgGRJh9e8"
+      },
+      "artists": [
+        {
+          "name": "Genie High",
+          "url": "https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB"
+        },
+        {
+          "name": "\u8a69\u7fbd",
+          "url": "https://open.spotify.com/artist/3vWbD5gIzJgQXrDr79HaQp"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244585,
+      "name": "\u30ce\u30fc\u30e1\u30a4\u30af\u30b9\u30bf\u30fc (feat. \u8a69\u7fbd)",
+      "url": "https://open.spotify.com/track/6jIdvMOKYSRTWlmHKunRwn"
+    },
+    {
+      "album": {
         "name": "\u30cf\u30a4\u30a8\u30fc\u30b9\u30ca\u30f3\u30d0\u30fc",
         "url": "https://open.spotify.com/album/4ZHJRDBCYVAazMCS0SO56e"
       },
@@ -3848,7 +3942,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 205584,
       "name": "\u30cf\u30cb\u30fc\u30c8\u30e9\u30c3\u30d7",
       "url": "https://open.spotify.com/track/74CwJftVUW6rfZzjSpUYtL"
@@ -3870,6 +3964,28 @@
       "duration_ms": 219130,
       "name": "\u30cf\u30df\u30f3\u30b0",
       "url": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
+    },
+    {
+      "album": {
+        "name": "\u30cf\u30ed\u30fc\u30b5\u30fc\u30ea\u30a2\u30eb",
+        "url": "https://open.spotify.com/album/5JNoI1ukDCN2rjllmUZN4a"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        {
+          "name": "sumika",
+          "url": "https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245250,
+      "name": "\u30cf\u30ed\u30fc\u30b5\u30fc\u30ea\u30a2\u30eb",
+      "url": "https://open.spotify.com/track/5pFwWbBckoChVGRuYvzrZo"
     },
     {
       "album": {
@@ -5638,7 +5754,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 200200,
       "name": "\u938c\u5009STYLE",
       "url": "https://open.spotify.com/track/7uuGRrAHErHkzp51tFzcd7"

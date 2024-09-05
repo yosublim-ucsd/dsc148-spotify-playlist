@@ -4397,6 +4397,24 @@
     },
     {
       "album": {
+        "name": "Her",
+        "url": "https://open.spotify.com/album/3YsLlWQ9dzG0dFQQZO1jEv"
+      },
+      "artists": [
+        {
+          "name": "The American Dawn",
+          "url": "https://open.spotify.com/artist/3EXC0gkpntFvtLS1R0yf11"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214086,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/2vlkTkPqdATznKHu9gD2c1"
+    },
+    {
+      "album": {
         "name": "Speak for Yourself",
         "url": "https://open.spotify.com/album/0t0Cr8jA63wlm8nWj7qfvJ"
       },
@@ -4774,6 +4792,24 @@
       "duration_ms": 121250,
       "name": "I Can't Help (with Sarcastic Sounds)",
       "url": "https://open.spotify.com/track/1OdYu7mDO94ydUvfZPaPvP"
+    },
+    {
+      "album": {
+        "name": "I Can\u2019t Even Cry",
+        "url": "https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221771,
+      "name": "I Can\u2019t Even Cry",
+      "url": "https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3"
     },
     {
       "album": {
@@ -9182,6 +9218,28 @@
       "duration_ms": 166533,
       "name": "Something About You (with Rudimental) - Chill Mix",
       "url": "https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ"
+    },
+    {
+      "album": {
+        "name": "Something Cool",
+        "url": "https://open.spotify.com/album/5EkL7zDYeUmWcN1046sMrG"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        },
+        {
+          "name": "Sea Birdie",
+          "url": "https://open.spotify.com/artist/3N3RcPQt0ggGMThvw0EFIa"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Something Cool",
+      "url": "https://open.spotify.com/track/1NrZz7qJPeqwKPlyVLdAkQ"
     },
     {
       "album": {

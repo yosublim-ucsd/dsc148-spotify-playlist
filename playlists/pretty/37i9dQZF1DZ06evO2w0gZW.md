@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 
 > This is Mariah Carey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,141 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,210 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 29 | [Through The Rain](https://open.spotify.com/track/1TT6pwOM1puBtx8bYSMTBA) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Charmbracelet](https://open.spotify.com/album/2UYie72CXeuwIB7YepDidw) | 4:48 |
 | 30 | [Don't Forget About Us \- Radio Edit](https://open.spotify.com/track/1HkVSmzBbdZ5Bzdd00IZgh) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Emancipation Of Mimi \(Ultra Platinum Edition\)](https://open.spotify.com/album/7MMpjM0wynysTbhpvKjHrm) | 3:53 |
 | 31 | [I'll Be There \(feat\. Trey Lorenz\) \- Live at MTV Unplugged, Kaufman Astoria Studios, New York \- March 1992](https://open.spotify.com/track/5t1OvYkhjQzWrxlE3UcDb6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [\#1's](https://open.spotify.com/album/4brWwgz4lEG49fVDXajWvL) | 4:23 |
-| 32 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 |
-| 33 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 |
+| 32 | [Open Arms](https://open.spotify.com/track/5zVY1h1jUFLhZ7fLBjMTK7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 3:29 |
+| 33 | [Breakdown \(feat\. Krayzie Bone & Wish Bone\)](https://open.spotify.com/track/6iUlUzSGZzKtlCvQ3wCVZD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Krayzie Bone](https://open.spotify.com/artist/53B8dEQzmtefvkdCAkO0YR), [Wish Bone](https://open.spotify.com/artist/2XH6h2sS6oSr27Yy4GyLlY) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 4:43 |
 | 34 | [It's A Wrap](https://open.spotify.com/track/0CnlKa2jjIMzG0gLN1KZbD) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel \(International Version\)](https://open.spotify.com/album/0an7K6LfvYERpVviYMUFp0) | 3:58 |
 | 35 | [It's Like That](https://open.spotify.com/track/6qFEkCFsHB8rNerOBfY5Su) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Emancipation of Mimi](https://open.spotify.com/album/6ek7Y68IlB6CoFkkc2gEQb) | 3:23 |
 | 36 | [\#Beautiful](https://open.spotify.com/track/1ahAuX3F6tDdNRfMdiLsv6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Me\. I Am Mariah…The Elusive Chanteuse](https://open.spotify.com/album/6hGRm1piHNE0Xp7I5Guesy) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w0gZW.md) - [plain]
 | 49 | [Can't Let Go](https://open.spotify.com/track/0ikbcCJIJaY9sKEivAXJ4I) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:26 |
 | 50 | [Obsessed \(feat\. Mariah Carey\)](https://open.spotify.com/track/1lEIT08AUU67qef6MkKAKx) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [The Gooch](https://open.spotify.com/album/4LM7ibF4BGEDBqlzcY6zly) | 4:08 |
 
-Snapshot ID: `ZtUAAAAAAAD7WW5Gcfcuy/n8tbDu9/6a`
+Snapshot ID: `ZtZRgAAAAADc8ldSXvdLC7dGw02TU32j`

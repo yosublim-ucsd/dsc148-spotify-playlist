@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Sunanda Sharma
 
-93 songs - 4 hr 56 min
+94 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [8 Parche](https://open.spotify.com/track/42ETKyApzUl8hTtytFAjen) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [8 Parche](https://open.spotify.com/album/5vMZWQdiqWB8iaeqnBfdRu) | 3:30 | 2023-03-18 |  |
 | [Affair](https://open.spotify.com/track/21SBUUtRtPK2x2OLmZCKTP) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Affair](https://open.spotify.com/album/4ubZpOzmJp9haVbf9F97hy) | 3:08 | 2023-03-18 |  |
 | [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2023-03-18 | 2023-11-21 |
+| [Baby](https://open.spotify.com/track/2hZkyRqr9NO7OjJxHuVf2v) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Magical](https://open.spotify.com/album/0Lp0XnJLL5z4Q51J1tXIKb) | 2:25 | 2024-09-04 |  |
 | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/track/4JYBIDVraaXWdA1bYYS3XB) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr), [Shellee](https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O) | [Badi Tanhai \(From "Shahkot"\)](https://open.spotify.com/album/1xrMNezoX6aUBU4s21yAW2) | 3:23 | 2024-09-03 |  |
 | [Badmashi](https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP) | [Barbie Maan](https://open.spotify.com/artist/0wsuu0i3CbgYaormvhnXat), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Badmashi](https://open.spotify.com/album/09u7AjthFXfvIKBVoRG4MM) | 3:19 | 2023-03-18 |  |
 | [Be Aware](https://open.spotify.com/track/1QsojV2MruriPEFHh249kF) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/59APTUJ5kzD9oqOGAaHlSR) | 3:08 | 2023-10-05 | 2024-04-19 |
@@ -39,7 +40,7 @@
 | [Jaan](https://open.spotify.com/track/3WYzyafR47qwO5w2UtzFv9) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Jaan](https://open.spotify.com/album/6BjpagtcyuPWjTAPxzPHNv) | 3:46 | 2023-03-18 |  |
 | [Jee Jeha Karda](https://open.spotify.com/track/71jkE3pPYmg8v0nrU8Mhn1) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Jee Jeha Karda](https://open.spotify.com/album/1xYMYWzzEYlV1yxpjDYojp) | 3:35 | 2023-03-18 | 2024-01-31 |
 | [jhalle aa](https://open.spotify.com/track/6udf2AxEj8ivTwOt5sFrQd) | [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg), [Dronark](https://open.spotify.com/artist/5lOdnhqrGPtKohxH9xS7NV) | [jhalle aa](https://open.spotify.com/album/0tHkeM32CHm0pXBv4ykrvh) | 2:44 | 2023-04-14 | 2023-04-20 |
-| [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2023-03-18 |  |
+| [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2023-03-18 | 2024-09-05 |
 | [Jodaa](https://open.spotify.com/track/7t8oWuQ4zBK4Sq5tO2HQCq) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Jatinder Shah](https://open.spotify.com/artist/4vGVzTMuXsO1vb5YA8vKEr) | [Jodaa](https://open.spotify.com/album/3yCf6sKeJ0ACymcdGX0vJB) | 5:40 | 2023-03-18 | 2023-04-20 |
 | [Jutti](https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM) | [Tanishq Kaur](https://open.spotify.com/artist/3WooYZ0DIopSIa80iyL16E) | [Jutti](https://open.spotify.com/album/5kSBVzFYKKRpa1OX6yTErb) | 2:24 | 2023-03-18 | 2024-04-24 |
 | [Kala Dhaga](https://open.spotify.com/track/1D7hlxCIxeKvBYUVKTa1P9) | [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg) | [Kala Dhaga](https://open.spotify.com/album/6vHA6JUcG1QvLcZzRJKRiV) | 2:36 | 2023-03-18 | 2023-05-26 |

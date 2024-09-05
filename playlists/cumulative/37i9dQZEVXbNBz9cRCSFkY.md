@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-870 songs - 2 day 4 hr 16 min
+871 songs - 2 day 4 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [Beautiful Scars](https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 3:14 | 2021-03-27\* | 2021-04-10 |
 | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \- Acoustic](https://open.spotify.com/track/2vcDl2SLudnltyDEos3v6E) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr), [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Beautiful Scars \(Maximillian x Moira Dela Torre\) \[Acoustic\]](https://open.spotify.com/album/3w21pYIhQWUtUcNfyoYiba) | 2:37 | 2021-03-27\* | 2021-05-23 |
 | [Beauty And A Beat](https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Believe](https://open.spotify.com/album/5cxMa6oLINJzmZ8lF7wWQN) | 3:47 | 2023-08-18 | 2023-08-24 |
+| [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-09-04 |  |
 | [Before It Sinks In](https://open.spotify.com/track/20JlaQj9irFjFb8X0SKKS7) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [Malaya](https://open.spotify.com/album/05rQadwAVYTpNNnBoeTuj0) | 4:23 | 2022-06-02 | 2022-06-04 |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-06-26 | 2021-11-04 |
 | [Begin Again \(Taylor's Version\)](https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:58 | 2021-11-14 | 2021-11-19 |
@@ -470,7 +471,7 @@
 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 | 2022-06-13 | 2023-12-17 |
 | [Mahika](https://open.spotify.com/track/0Pafr67ogSuAur2L3DxB4b) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Mahika](https://open.spotify.com/album/65PZ3P2MKJuSAVCMM9WWkA) | 3:30 | 2023-03-18 | 2023-03-26 |
 | [Makasarili Malambing](https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing](https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B) | 2:01 | 2024-01-01 | 2024-03-16 |
-| [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-15 |  |
+| [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8) | [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Makasarili Malambing \(feat\. Hev Abi\)](https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4) | 2:01 | 2024-03-15 | 2024-09-05 |
 | [Make It With You](https://open.spotify.com/track/2Mo4pOpCYXOu33856sMQLh) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Make It With You](https://open.spotify.com/album/3cHbJm4cKnGephP4UYxIEv) | 3:29 | 2021-07-04 | 2021-09-28 |
 | [Malaking P \- Rich N\*\*\*\* Shit Remix](https://open.spotify.com/track/3UsQ5xVmuxXhZkJOJbVDed) | [E.J](https://open.spotify.com/artist/4CUQubNxrznvOLWuWDxsuN) | [Malaking P \(Rich N\*\*\*\* Shit Remix\)](https://open.spotify.com/album/5tCHTJUJiydizlAspI60QC) | 2:32 | 2023-10-15 | 2024-01-04 |
 | [Mana](https://open.spotify.com/track/0EtkP3TUHvTeDIgrpgMS8m) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:03 | 2021-07-24 | 2021-07-25 |

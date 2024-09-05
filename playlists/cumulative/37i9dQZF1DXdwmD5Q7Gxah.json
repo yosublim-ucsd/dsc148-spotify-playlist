@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
+    },
+    {
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/3hvl1jHmHMJjTHOAyCuucv"
       },
@@ -14018,7 +14036,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 245720,
       "name": "Drunk, Running",
       "url": "https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt"
@@ -20022,7 +20040,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 219498,
       "name": "Hammer",
       "url": "https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq"
@@ -29816,7 +29834,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 293389,
       "name": "Maine",
       "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
@@ -49536,7 +49554,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 161400,
       "name": "Timelapse",
       "url": "https://open.spotify.com/track/1Cppjn0ioEQjIVBEYbfQ6R"
@@ -54025,6 +54043,24 @@
     },
     {
       "album": {
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "album": {
         "name": "THE INSIDE OUTTAKES",
         "url": "https://open.spotify.com/album/1m44SygOrmURyQXnYYq59H"
       },
@@ -54112,7 +54148,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 245933,
       "name": "XTC",
       "url": "https://open.spotify.com/track/1nprNtGeg6usxwk5TZHJNi"

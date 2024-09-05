@@ -1,12 +1,12 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11241,
+  "num_followers": 11242,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAjdpOEKpRK+ChmSZN8eLMBTKnFIuOL",
+  "snapshot_id": "AAAjd4AYH/EFBfixPZeH17J3GkLhncLy",
   "tracks": [
     {
       "added_at": "2024-08-31 14:35:42",
@@ -879,6 +879,22 @@
       "duration_ms": 143000,
       "name": "Bah Bah",
       "url": "https://open.spotify.com/track/6UZW6sgFXSdr96sqrxhTHc"
+    },
+    {
+      "added_at": "2024-09-04 21:35:01",
+      "album": {
+        "name": "Got To Be",
+        "url": "https://open.spotify.com/album/6a2HJtuzyDY9avmEFjEKKa"
+      },
+      "artists": [
+        {
+          "name": "Tigerblind",
+          "url": "https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA"
+        }
+      ],
+      "duration_ms": 140909,
+      "name": "Got To Be",
+      "url": "https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg"
     }
   ],
   "unique_name": "SUBSHIFT SELECTS ",

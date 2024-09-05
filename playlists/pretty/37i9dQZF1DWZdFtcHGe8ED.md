@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Anthrax
 
-[Spotify](https://open.spotify.com/user/spotify) - 554,341 likes - 200 songs - 14 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 554,449 likes - 200 songs - 14 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,17 +196,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdFtcHGe8ED.md) - [plain]
 | 186 | [Sacrilegious Pain](https://open.spotify.com/track/7sYEZU5f02dITKOEgSo6TM) | [Lowest Creature](https://open.spotify.com/artist/5c9Gljxjd5hYeaq5W0Aq1e) | [Sacrilegious Pain](https://open.spotify.com/album/3DFD5UOgUynlN4mZ3LRL1u) | 3:53 |
 | 187 | [Bleeding Out](https://open.spotify.com/track/43leqVDeli1HgybvpX93GG) | [Xentrix](https://open.spotify.com/artist/5lYOBorQmZgCCPxJYCjSmO) | [Bleeding Out](https://open.spotify.com/album/5t1gUgN4mYBojZTxRQyCEO) | 4:33 |
 | 188 | [Ethereal Nightmare](https://open.spotify.com/track/6uPmOrub79aq604KUvk8uQ) | [Hatriot](https://open.spotify.com/artist/7mDUXpqtYFG7g9bJsvaZEh) | [Ethereal Nightmare](https://open.spotify.com/album/5aDwfeotLsMsFOg2XO57K4) | 6:05 |
-| 189 | [Under No Illusions](https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [Under No Illusions](https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im) | 4:10 |
-| 190 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 |
-| 191 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 |
+| 189 | [Non\-Existent](https://open.spotify.com/track/4sMGh1NvsGiJs2yfYLbI2d) | [Fueled By Fire](https://open.spotify.com/artist/0j61zPo0HzQ86JU6ivMVAx) | [Non\-Existent](https://open.spotify.com/album/3w0A1NWMUE0OOVQ195aHsr) | 3:03 |
+| 190 | [As We Breach](https://open.spotify.com/track/5yttcK85rYSClFzPC9v1N7) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [As We Breach](https://open.spotify.com/album/513Lp3HTQfozEabGEGaG9f) | 4:52 |
+| 191 | [Under No Illusions](https://open.spotify.com/track/1KAOO6KffrhVPo7BI36qK6) | [Savage Messiah](https://open.spotify.com/artist/1kOg7VnU8brFniiq9RnR9X) | [Under No Illusions](https://open.spotify.com/album/7fZzlt7IIm4EHWWOorQ3Im) | 4:10 |
 | 192 | [Metal Forces \- Remastered 2011](https://open.spotify.com/track/4Y7jDyDnl0xJHHhFNXUFgB) | [Onslaught](https://open.spotify.com/artist/71lhIVHJ24x9hEcwFSWuOf) | [The Force \(Remastered 2011\)](https://open.spotify.com/album/2Nmnn3tJN1icXiWGiAc6KZ) | 6:36 |
 | 193 | [Malicious Souls](https://open.spotify.com/track/5mipERxPGdO9j46zfghXB4) | [Vulture](https://open.spotify.com/artist/1CT8OXcMKm9zlFcSX74tFF) | [Malicious Souls](https://open.spotify.com/album/6AIAuIzz1IidgUVMPHOsmS) | 3:17 |
-| 194 | [Neural Hack](https://open.spotify.com/track/3FiOkmDcuCdi6UPzpHklRF) | [Dissimulator](https://open.spotify.com/artist/3xT1argeiTgkrMAtznyaAf) | [Lower Form Resistance](https://open.spotify.com/album/5yQ864wWm1U7CsVbULs6KJ) | 3:36 |
+| 194 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 |
 | 195 | [Here Comes The Incubus](https://open.spotify.com/track/6dr0Y8ExuoZtJdjw9gwmxV) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [Here Comes The Incubus](https://open.spotify.com/album/3z8zibgis2sJvZM3o7LjxK) | 4:25 |
-| 196 | [Witching Hour](https://open.spotify.com/track/1V36Hxv16qWjGvnK2FV4cO) | [Witchery](https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10) | [Witching Hour](https://open.spotify.com/album/5pBhA2ZnRbP16R4mQ6xh9z) | 3:03 |
+| 196 | [Neural Hack](https://open.spotify.com/track/3FiOkmDcuCdi6UPzpHklRF) | [Dissimulator](https://open.spotify.com/artist/3xT1argeiTgkrMAtznyaAf) | [Lower Form Resistance](https://open.spotify.com/album/5yQ864wWm1U7CsVbULs6KJ) | 3:36 |
 | 197 | [The Descending](https://open.spotify.com/track/72keEkoiv1LfF83ZImJd4g) | [Evildead](https://open.spotify.com/artist/0A97olVepqtH6CCUoSaGEl) | [The Descending](https://open.spotify.com/album/5wMW5X0vaDerQZxctW50KF) | 3:11 |
 | 198 | [State of Apathy](https://open.spotify.com/track/5hgN5IYDZGN1Fjkf8EfXII) | [Destruction](https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2) | [State of Apathy](https://open.spotify.com/album/490dTJ1j5UsKGnFXV1QnLj) | 3:46 |
 | 199 | [Recycled Hate](https://open.spotify.com/track/35a7t2h5N2ewK9r18l8S0k) | [Inhuman Condition](https://open.spotify.com/artist/3unugXDIgyLGDkorSoRTfm) | [Recycled Hate](https://open.spotify.com/album/4i8j5yuwU0ytacVJnUujp7) | 3:25 |
-| 200 | [Illusion of Existence](https://open.spotify.com/track/1T7pML1JBYs1IQ50uE2wwy) | [Refore](https://open.spotify.com/artist/4MmDues4Gop2TTlDJLQNBF) | [Illusion of Existence](https://open.spotify.com/album/5QJVXAmX39ddZtJNwq3vnq) | 3:53 |
+| 200 | [Beerless Fiesta](https://open.spotify.com/track/3zCqKZo4vUqlddvJVCJgxZ) | [Insanity Alert](https://open.spotify.com/artist/7371n3dNMRdoAuDOiweQJx) | [Beerless Fiesta](https://open.spotify.com/album/5NscqVa3F75pwMni2ug2C8) | 2:10 |
 
 Snapshot ID: `ZnzbjAAAAADJT088ajimDXHx5CTR+WUg`

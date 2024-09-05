@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,573 songs - 3 day 0 hr 53 min
+1,574 songs - 3 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [2step \(feat\. Antytila\)](https://open.spotify.com/track/5HfA6KNvluQJSbrgrv3gh3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Antytila](https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu) | [2step \(The Remixes\)](https://open.spotify.com/album/1nqJFaKVTrCkCDaC2I1zM7) | 2:33 | 2022-05-28 | 2022-07-21 |
 | [2step \(feat\. Antytila\)](https://open.spotify.com/track/5it0QwktdpQ7oE33PbImkX) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Antytila](https://open.spotify.com/artist/5sc9td6C7xxPa3mOmmvXPu) | [2step \(feat\. Antytila\)](https://open.spotify.com/album/0cNLR4ksEAAesnSOVzV33s) | 2:33 | 2022-05-05 | 2022-05-29 |
 | [3 сентября](https://open.spotify.com/track/5k2f1GT00ainOwvBjmoDRf) | [Mikhail Shufutinsky](https://open.spotify.com/artist/3Ar1W7H096Z6qSGBMmwSmO) | [Легенды Русского Шансона\. Михаил Шуфутинский](https://open.spotify.com/album/5R6IRfKDkGTLBrD4tSfqmn) | 6:16 | 2021-09-05 | 2021-09-06 |
+| [3\-е сентября](https://open.spotify.com/track/13JjbD8SXv6tljUOfrwvKP) | [Mikhail Shufutinsky](https://open.spotify.com/artist/3Ar1W7H096Z6qSGBMmwSmO) | [Гуляй, душа](https://open.spotify.com/album/2Fvv1cvIYXNyOmM04hutX0) | 6:18 | 2024-09-04 |  |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:21 | 2023-10-03 | 2023-11-10 |
 | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/track/6ehWdR7cGDXnT7aKEASJxE) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [3D \(feat\. Jack Harlow\)](https://open.spotify.com/album/4DKnznk5VbGVvAOYBbQrZJ) | 3:21 | 2023-09-30 | 2023-10-04 |
 | [4 Da Game](https://open.spotify.com/track/30X4I15tOx6DodFMMVBMA0) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [VARSKVA](https://open.spotify.com/album/1Qk2lItE5KiD5DqKZpd31w) | 2:57 | 2023-11-25 | 2023-11-27 |
@@ -104,7 +105,7 @@
 | [BESTSELLER](https://open.spotify.com/track/6rnmvTLg2KnF0rZUCgRWHH) | [MAX BARSKIH](https://open.spotify.com/artist/5zXGVPJHUzQPUXKA7AlTi5), [Zivert](https://open.spotify.com/artist/1pvmXh50KezixmCHnp9XvV) | [BESTSELLER](https://open.spotify.com/album/7bA2UGo5MJwtDmyqOqGwnC) | 3:43 | 2021-03-27\* | 2021-05-21 |
 | [Big Dawgs](https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW) | [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [Kalmi](https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45) | [Big Dawgs](https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD) | 3:10 | 2024-08-05 |  |
 | [Big Tymers](https://open.spotify.com/track/66jiJ5DX54pWNBL2Vt2859) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [kizaru](https://open.spotify.com/artist/5NipqMGsY4AUeb7kGT8aVz) | [BANDANA I](https://open.spotify.com/album/6kzabofELlyd7dYqY78dzu) | 3:11 | 2021-10-23 | 2022-01-14 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 |  |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-05-18 | 2024-09-05 |
 | [Bite Me](https://open.spotify.com/track/7mpdNiaQvygj2rHoxkzMfa) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DARK BLOOD](https://open.spotify.com/album/7q65W5gVANjh1j1KXLeU0f) | 2:37 | 2023-05-24 | 2023-05-26 |
 | [BITTERSUITE](https://open.spotify.com/track/7DpUoxGSdlDHfqCYj0otzU) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:58 | 2024-05-18 | 2024-05-20 |
 | [BLIND SPOT](https://open.spotify.com/track/6uVpG6300TODQGjOAtXJjh) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:20 | 2023-11-11 | 2023-11-13 |

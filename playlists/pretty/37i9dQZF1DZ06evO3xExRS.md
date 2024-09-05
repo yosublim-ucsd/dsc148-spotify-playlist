@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 
 ### [This Is Hombres G](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3xExRS)
 
-> This is Hombres G\. The essential tracks, all in one playlist.
+> This Is Hombres G\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 277,107 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 277,152 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3xExRS.md) - [plain]
 | 44 | [No te escaparás \- Remaster 2015](https://open.spotify.com/track/6NWuX9wdArxoTN2xE7nhUt) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [30 años y un día](https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p) | 3:13 |
 | 45 | [Nada que perder \- DJ Nano Remix](https://open.spotify.com/track/1oi4usVhLy1KEH9XSolQ2g) | [DJ Nano](https://open.spotify.com/artist/3bxfcfxKQ7rbS93s7jZhiw), [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw), [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Nada que perder \(DJ Nano Remix\)](https://open.spotify.com/album/0xkIQQu8j8ntHWgXxahg4y) | 3:19 |
 | 46 | [Mis amigos](https://open.spotify.com/track/4wR6BFCeMHtQUlVh7gshuR) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 4:30 |
-| 47 | [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 |
-| 48 | [Será esta noche](https://open.spotify.com/track/6iN3XJ7aUUlAlukIH8ymR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:07 |
+| 47 | [Será esta noche](https://open.spotify.com/track/6iN3XJ7aUUlAlukIH8ymR5) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Agitar Antes De Usar](https://open.spotify.com/album/7BL0aE8DBJvu0D3u4LUBJR) | 4:07 |
+| 48 | [Te Vi \(with Albert Hammond\)](https://open.spotify.com/track/1CnYkECrVRHHfguk01Zn07) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [En La Playa](https://open.spotify.com/album/0oGCqVHaevPFm5mzgTsUsL) | 3:45 |
 | 49 | [Se Me Sale El Corazón \(feat\. Carlos Rivera\)](https://open.spotify.com/track/09CJ7Ce51uMqYhAbNibJuo) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [La Esquina de Rowland](https://open.spotify.com/album/1FE8pGBD3kW5jRGspwmCku) | 3:44 |
 | 50 | [Y cayó la bomba \- Fetida](https://open.spotify.com/track/4VAjay4fzvm5usaLLHhmSD) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Estamos Locos..\. O Que?](https://open.spotify.com/album/3NFqaD3XmQPjEPJUdXR1re) | 3:54 |
 
-Snapshot ID: `ZtUAAAAAAAAZu04AtJZi4QQhlnutE8Iv`
+Snapshot ID: `ZtZRgAAAAACxppbe7upq6Hejh7aPYnhe`

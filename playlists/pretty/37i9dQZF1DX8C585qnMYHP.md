@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Misha Panfilov on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,592 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,668 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 87 | [Meta VI](https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:52 |
 | 88 | [Ritual](https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl) | [Frank Rodas](https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM) | [Ritual](https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91) | 9:08 |
 | 89 | [Gate VIII](https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2) | [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Bearings: Soundtracks for the Bardos](https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE) | 4:00 |
-| 90 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
-| 91 | [In the Merry Month of May](https://open.spotify.com/track/4bptC5RF2Gpevf1UNW4hQY) | [Tony Conrad](https://open.spotify.com/artist/4JZ6ZOxHDimksHWN4DFmoM), [Jennifer Walshe](https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J) | [In The Merry Month Of May](https://open.spotify.com/album/0gPpPJZb17VAdPc22ZhKYi) | 7:49 |
+| 90 | [In the Merry Month of May](https://open.spotify.com/track/4bptC5RF2Gpevf1UNW4hQY) | [Tony Conrad](https://open.spotify.com/artist/4JZ6ZOxHDimksHWN4DFmoM), [Jennifer Walshe](https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J) | [In The Merry Month Of May](https://open.spotify.com/album/0gPpPJZb17VAdPc22ZhKYi) | 7:49 |
+| 91 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
 | 92 | [Ines](https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A) | [Alena Spanger](https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF) | [Fire Escape](https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj) | 3:24 |
 | 93 | [Viking](https://open.spotify.com/track/48fcNhtI0PEDuQ7ReUhOaF) | [Geoffroy](https://open.spotify.com/artist/3fMYNaPQar24I1jSPnGT3E) | [Kiosque d'Orphée – Une épopée de l'autoproduction en France](https://open.spotify.com/album/1JEqgytHuhDlYCV0eElLLL) | 11:51 |
 | 94 | [Cold Drinks](https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj) | [Atrás del Cosmos](https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl) | [Cold Drinks, Hot Dreams](https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb) | 10:28 |

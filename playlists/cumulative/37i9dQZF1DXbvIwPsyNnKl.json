@@ -256,7 +256,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 217600,
       "name": "AKNG BHLA SAYO",
       "url": "https://open.spotify.com/track/5ay2w1HasPkX5YDDzp2evO"
@@ -684,10 +684,32 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 225555,
       "name": "Bukas Pa",
       "url": "https://open.spotify.com/track/62I2yNEQVegBCapuS7UPSd"
+    },
+    {
+      "album": {
+        "name": "Buong Ako Sayo",
+        "url": "https://open.spotify.com/album/1MNUWaqszKt8l5fqPU49pu"
+      },
+      "artists": [
+        {
+          "name": "Crakky",
+          "url": "https://open.spotify.com/artist/3t80c7XZFuKcSUVyvpI6d3"
+        },
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172756,
+      "name": "Buong Ako Sayo",
+      "url": "https://open.spotify.com/track/2jFVlEdFvek4J2kYmd9JFH"
     },
     {
       "album": {
@@ -1124,6 +1146,24 @@
       "duration_ms": 218650,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/7g0PwcVq4qNuum1ex9OO0N"
+    },
+    {
+      "album": {
+        "name": "Elohim",
+        "url": "https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs"
+      },
+      "artists": [
+        {
+          "name": "Lynx",
+          "url": "https://open.spotify.com/artist/4mQuTsax5ozo0Dg0unNLfC"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146732,
+      "name": "Elohim",
+      "url": "https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV"
     },
     {
       "album": {
@@ -2379,6 +2419,32 @@
     },
     {
       "album": {
+        "name": "Medyo Crazy",
+        "url": "https://open.spotify.com/album/0mOyA4JrnWfOC7ai9SxJ1w"
+      },
+      "artists": [
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        },
+        {
+          "name": "_dyco",
+          "url": "https://open.spotify.com/artist/4NzPBLN5xfDwrUwz42xpnb"
+        },
+        {
+          "name": "Cozyivy",
+          "url": "https://open.spotify.com/artist/3x8luodoKaUDBXV4xnXWdS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Medyo Crazy",
+      "url": "https://open.spotify.com/track/7JZG2ljaYhgCLz3YwcI9zH"
+    },
+    {
+      "album": {
         "name": "MINAHALAGAD",
         "url": "https://open.spotify.com/album/1N6eO3cWQ1LXAJux7E21fD"
       },
@@ -2412,7 +2478,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 167808,
       "name": "Mine",
       "url": "https://open.spotify.com/track/16BMFqJFcbs0iriQ5Hrkcp"

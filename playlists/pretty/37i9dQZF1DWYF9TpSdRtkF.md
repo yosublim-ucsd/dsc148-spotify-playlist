@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,230 likes - 75 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,236 likes - 75 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 72 | [KING of SPADE](https://open.spotify.com/track/2Z1BbYVuMtUjaLwnPCOl0D) | [白石 紬 \(CV.南 早紀\)](https://open.spotify.com/artist/3PPgB9OX7DD1DoCgUHikKI), [我那覇 響 \(CV.沼倉愛美\)](https://open.spotify.com/artist/1Cuw2qCekOnoFAZMkhVnrU), [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/7xnOD6rZxXAaEzf5hLiut6) | 3:10 |
 | 73 | [ショコラブル イブ](https://open.spotify.com/track/4GRTDhKqdqPwpiPsyDDQcr) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G), [春日未来 \(CV.山崎はるか\)](https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv), [高山紗代子 \(CV.駒形友梨\)](https://open.spotify.com/artist/7cq2REtJjYZjt8jf7zEZHS), [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U), [望月杏奈 \(CV.夏川椎菜\)](https://open.spotify.com/artist/67TBXktwJzlFlKz3tl0cLs) | [THE IDOLM@STER MILLION THE@TER VARIETY 01](https://open.spotify.com/album/4xc3t5jIv0mfJF7Ra19gHH) | 3:47 |
 | 74 | [AIKANE？](https://open.spotify.com/track/0QZUVjycMYb3YOO9w6fxf2) | [野々原 茜 \(CV.小笠原早紀\)](https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 04](https://open.spotify.com/album/7fbgOJKABo75Cjpa529vgU) | 4:13 |
-| 75 | [Shooting Stars](https://open.spotify.com/track/3WWM1gtUk3qwX9XWRPBBiQ) | [クレシェンドブルー](https://open.spotify.com/artist/3dkB6cT6divKkccsHTPExx) | [THE IDOLM@STER LIVE THE@TER HARMONY 03](https://open.spotify.com/album/7eyHlvuilbyQace0k063iy) | 4:17 |
+| 75 | [裏表深層心理](https://open.spotify.com/track/0zP8fZMB0LgFYMJPZKGHla) | [豊川風花 \(CV.末柄里恵\)](https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz) | [THE IDOLM@STER MILLION LIVE! M@STER SPARKLE2 05](https://open.spotify.com/album/4LtWSOGZrbUE0qS0GVgVPw) | 3:35 |
 
 Snapshot ID: `ZUp/zAAAAAA1qVOIAbr8LeBNsbuB93PP`

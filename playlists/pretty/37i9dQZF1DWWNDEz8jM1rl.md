@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNDEz8jM1rl.md) - [plain]
 
 > ¡Vamos a bailar con Dios!   Nuestro invitado especial, <a href="spotify:artist:6slyJwua5e5GuhuP82sTHR">Alex Campos</a> nos da su seleccion musical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,823 likes - 65 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,874 likes - 65 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

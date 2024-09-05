@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 
 > Enjoy songs from artists appearing on WONDERLIVET 2024! \(WONDERLIVET 2024의 출연 아티스트 곡들을 즐겨보세요! \)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407 likes - 66 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,436 likes - 66 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYky5xA4i61c.md) - [plain]
 | 23 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 |
 | 24 | [月光](https://open.spotify.com/track/2Oq8Z7bvZ65dSspYlfexTv) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv), [Harumakigohan](https://open.spotify.com/artist/7y7byJwxSQxTOxuoAA9tcp) | [月光](https://open.spotify.com/album/3Fh89Q1fJ3hU2cpace10Js) | 3:54 |
 | 25 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 |
-| 26 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
+| 26 | [NO PAIN](https://open.spotify.com/track/01d3IKaDzqxP50zPZnAkT9) | [실리카겔](https://open.spotify.com/artist/5b8FRX78ua1KgccYUyGhkI) | [NO PAIN](https://open.spotify.com/album/0PU7zuIyFTemauVmePGD95) | 3:39 |
 | 27 | [ヨワネハキ](https://open.spotify.com/track/0FOVGBW0RpVRuDuUuN4ZVw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [ヨワネハキ](https://open.spotify.com/album/5cVWpOwex504JeWwqE3Q7y) | 2:46 |
 | 28 | [ダンス・ダンス・ダダ](https://open.spotify.com/track/1mnVdQakrLTiG9hEAv5HB2) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [EMA](https://open.spotify.com/artist/23rpDPnKdY96j4smcpPTJT), [たなか](https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm) | [ダンス・ダンス・ダダ](https://open.spotify.com/album/6JogITYOudxPlwli095MIY) | 3:49 |
 | 29 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 |

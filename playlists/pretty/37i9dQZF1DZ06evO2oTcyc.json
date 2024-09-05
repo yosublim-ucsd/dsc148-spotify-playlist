@@ -1,12 +1,12 @@
 {
   "description": "This is Kodak Black. The essential tracks, all in one playlist.",
-  "num_followers": 206443,
+  "num_followers": 206511,
   "original_name": "This Is Kodak Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADJXoHcAigUiqMRu3deMs2I",
+  "snapshot_id": "ZtZRgAAAAADxljqE9E+G1kea//XYxxPE",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Painting Pictures",
+        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
+      },
+      "artists": [
+        {
+          "name": "Kodak Black",
+          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        }
+      ],
+      "duration_ms": 198109,
+      "name": "Patty Cake",
+      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/6aHHJHhyAt6fBWwc7baiCw"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 62789,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) - Trailer Version",
       "url": "https://open.spotify.com/track/5qyjy0xfsHNzWxvXkHVB85"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Pictures",
-        "url": "https://open.spotify.com/album/5mG8oNkNKM2my7t9ywra96"
-      },
-      "artists": [
-        {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        }
-      ],
-      "duration_ms": 198109,
-      "name": "Patty Cake",
-      "url": "https://open.spotify.com/track/0bXFIF7iL17TYLyx8JHziM"
     },
     {
       "added_at": null,
@@ -903,26 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Air (feat. Kodak Black, Future)",
-        "url": "https://open.spotify.com/album/0hQb42GMRbOqhWhYYGzg6G"
+        "name": "Lil Big Pac",
+        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
       },
       "artists": [
         {
-          "name": "Jflexxx",
-          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
-        },
-        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 210144,
-      "name": "Air (feat. Kodak Black, Future)",
-      "url": "https://open.spotify.com/track/5HTz5BNGKK78RuEK6QkFFj"
+      "duration_ms": 240274,
+      "name": "Purp",
+      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
     },
     {
       "added_at": null,
@@ -943,18 +935,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lil Big Pac",
-        "url": "https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE"
+        "name": "Air (feat. Kodak Black, Future)",
+        "url": "https://open.spotify.com/album/0hQb42GMRbOqhWhYYGzg6G"
       },
       "artists": [
         {
+          "name": "Jflexxx",
+          "url": "https://open.spotify.com/artist/4T6xxsoAF89NuOi6JzDboR"
+        },
+        {
           "name": "Kodak Black",
           "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 240274,
-      "name": "Purp",
-      "url": "https://open.spotify.com/track/4RVDMSnj0BdE03cbbYg5rW"
+      "duration_ms": 210144,
+      "name": "Air (feat. Kodak Black, Future)",
+      "url": "https://open.spotify.com/track/5HTz5BNGKK78RuEK6QkFFj"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-05-24",
-  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "description": "This is Skillet. \u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
   "name": "This Is Skillet",
   "tracks": [
     {
@@ -920,7 +920,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 267195,
       "name": "Valley of Death",
       "url": "https://open.spotify.com/track/6yPfhJH9EjrJZMCevkN7a9"
@@ -1003,7 +1003,7 @@
     },
     {
       "album": {
-        "name": "Awake (Deluxe Edition)",
+        "name": "Awake - Deluxe Edition",
         "url": "https://open.spotify.com/album/7CQbXJGvM6XXcltghDSISW"
       },
       "artists": [
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-19",
+      "date_removed": null,
       "duration_ms": 252280,
       "name": "Would It Matter",
       "url": "https://open.spotify.com/track/3yawCOFKiw8TVVdCubX4hu"

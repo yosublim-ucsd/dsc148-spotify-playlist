@@ -4,7 +4,7 @@
 
 > Beautiful and serene harp music for relaxation, meditation and unwinding from the day.
 
-194 songs - 9 hr 48 min
+195 songs - 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [about a flower](https://open.spotify.com/track/7CYLeiX2QNGzDIt9LMXBvz) | [Ezra Santos](https://open.spotify.com/artist/3sTuSeAY6N4wIUeV4zVmbX) | [about a flower](https://open.spotify.com/album/5ji1JFiWgGmvxK8jg2rOvT) | 2:58 | 2024-07-16 | 2024-08-30 |
 | [Aeolian Echoes](https://open.spotify.com/track/6eDW0LQieSmvyUBCm9X4Ne) | [August Deware](https://open.spotify.com/artist/4JkwQIDvHhzRTVVs6JcxjZ) | [Aeolian Echoes](https://open.spotify.com/album/1K5aPVNeOqduH6HOjgoJqy) | 3:03 | 2023-09-20 |  |
 | [Air](https://open.spotify.com/track/010Fakb9MSuX7JKJXpYdMn) | [Yvon Brosseau](https://open.spotify.com/artist/3HhJCAu0uQ95w9eHjxNBt8) | [Air](https://open.spotify.com/album/2ncIJGdJ3qP4sus8MJRZDE) | 3:03 | 2023-10-04 | 2024-08-30 |
-| [All of Me \(Instrumental Version\)](https://open.spotify.com/track/3Zc7KXq9O7sWHePYMcKauY) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Covers of Popular Love Songs on Harp](https://open.spotify.com/album/2bliklpSIhmoyXBcIpEVF3) | 4:06 | 2022-05-11 |  |
+| [All of Me \(Instrumental Version\)](https://open.spotify.com/track/3Zc7KXq9O7sWHePYMcKauY) | [Ivy Ravenwood](https://open.spotify.com/artist/4sch5lw4B8tfy0uWtQ4lfn) | [Covers of Popular Love Songs on Harp](https://open.spotify.com/album/2bliklpSIhmoyXBcIpEVF3) | 4:06 | 2022-05-11 | 2024-09-05 |
 | [All Will Be Well](https://open.spotify.com/track/6iowz3YABCssMEveogLct9) | [Zen of Harp](https://open.spotify.com/artist/55AxE4yhhIf9nr1EtXi7Ti) | [The Passage of Time](https://open.spotify.com/album/2n0k9lBkDrqHBQXGZq9169) | 3:00 | 2022-05-11 |  |
 | [All your dreams](https://open.spotify.com/track/0M3V23JVlV6YtaOigHn8xV) | [Tibby Andrewson](https://open.spotify.com/artist/74Pwf4cFdOvPBXYqSO1LMe) | [All your dreams](https://open.spotify.com/album/7tCWLOhBLZkSbpM6Nalanh) | 1:26 | 2022-05-11 | 2023-10-05 |
 | [Amapola](https://open.spotify.com/track/7D974yUD17vx2AMIx0xw0d) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 1:53 | 2022-05-11 | 2023-10-05 |
@@ -152,6 +152,7 @@
 | [Relieving](https://open.spotify.com/track/2DWYBGBzNQKQ7sB1IJDnRz) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Relieving](https://open.spotify.com/album/6ACa4v7ue1vczGy03tJkH0) | 3:37 | 2023-09-20 |  |
 | [Reverie Harp](https://open.spotify.com/track/4oPOb70QTYN7aG8h8ndYOr) | [Caiharice](https://open.spotify.com/artist/4FIDD82Hp8dfCV7hwuAfEn) | [Reverie Harp](https://open.spotify.com/album/36I1Jwr7psMzCm4vO0GAx5) | 3:13 | 2024-07-16 |  |
 | [River Flows in You](https://open.spotify.com/track/2gvxgyu4TVOizX3KMrlKmL) | [Moldan Sevoni](https://open.spotify.com/artist/3G8BggMGTr06vVbV3WyBhP) | [Cinematic Harp](https://open.spotify.com/album/7niYLEnTIdgTYILsjaKlJ4) | 2:53 | 2022-05-11 | 2023-11-25 |
+| [Rosemary](https://open.spotify.com/track/2ZlFfgNXTEVfqPOk20mzQ5) | [Laurence Furr](https://open.spotify.com/artist/24tme04aimWOpZKvAcKogM) | [Portraits](https://open.spotify.com/album/4OJyeOfgd44Byen2ENCjnN) | 3:21 | 2024-09-04 |  |
 | [Sahasrara](https://open.spotify.com/track/4J3thqtdcMUAjF2jCeaVfu) | [Antonio Jesús Asiáin Sanz](https://open.spotify.com/artist/2y3iKYGjPiNtNyONKlFseo) | [Música para Sumergirse Dentro \(Un Viaje Hacia la Calma y las Emociones\)](https://open.spotify.com/album/34ka7Jysmq09w8RrnmmyeP) | 3:48 | 2023-01-05 |  |
 | [Saman](https://open.spotify.com/track/0ZZR7yshyNORje3HH1yxUX) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Are You Still Somewhere?](https://open.spotify.com/album/36xU7Hq8G8QbsRrl59TyxD) | 2:26 | 2022-05-11 |  |
 | [Scale of Dreams](https://open.spotify.com/track/57q0DJRzvwzW7zjpqi5E0w) | [Jep Ellery](https://open.spotify.com/artist/3XcuCasoz9LagVgPQTWHOh) | [Scale of Dreams](https://open.spotify.com/album/4Fk46UnHpg1qSJMdY7MSZK) | 1:11 | 2022-05-11 | 2023-10-05 |
@@ -198,7 +199,7 @@
 | [Whispered Illusions](https://open.spotify.com/track/3eW9mZoFUagfvIy2BkHAms) | [Just Fillin' Time](https://open.spotify.com/artist/3kpfRZ9ygubWr0Ydx9pARu) | [Whispered Illusions](https://open.spotify.com/album/0Stfsf9NMheCgPpP7xRZfM) | 2:32 | 2024-07-16 |  |
 | [Whispers Of Eternity](https://open.spotify.com/track/40pCJecZC9XmUkUHeoElZn) | [Porthos Riqueti](https://open.spotify.com/artist/0zqr06oM4FSFSVPmOnv3jN) | [Whispers Of Eternity](https://open.spotify.com/album/6wIBvlNXzsOWd64zNMfMkn) | 3:17 | 2024-07-16 |  |
 | [Without me](https://open.spotify.com/track/5GeGVfKzixdHU91E03x4bb) | [Mia Zand](https://open.spotify.com/artist/7oA0yR25YU6LLZYg4Eur1n) | [Mia Zand](https://open.spotify.com/album/5k7rzNbcEUcrGUVw1gPOU8) | 1:55 | 2022-05-11 | 2023-10-05 |
-| [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 |  |
+| [Written on the Sky](https://open.spotify.com/track/0TqOzCvSGxVpQzCMgNMrcD) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Written on the Sky](https://open.spotify.com/album/281bvdsQgskz3mvvjqa67x) | 2:02 | 2023-02-10 | 2024-09-05 |
 | [Written on the Sky](https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI) | [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp), [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Actus Tragicus](https://open.spotify.com/album/5y3BawuYMUk0iOdKsAepdr) | 2:02 | 2023-02-10 | 2023-03-25 |
 | [Written on the Sky](https://open.spotify.com/track/0x1sDBH8c2eAqmBSjwv4yd) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Spring](https://open.spotify.com/album/1JY1BKv5rj8ILQvHdz2Aaw) | 2:02 | 2023-03-09 | 2024-04-19 |
 | [Written on the Sky](https://open.spotify.com/track/23Gjcxh2nK5cy1EnToKaCL) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [Billow Gently](https://open.spotify.com/album/12A7tN2PisImkNMTb7es9f) | 2:02 | 2023-03-09 | 2023-04-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,241 likes - 48 songs - 2 hr 28 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,242 likes - 49 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,5 +56,6 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 46 | [Time](https://open.spotify.com/track/4ijQ2jgdFKCVlqgPTDCmea) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Time](https://open.spotify.com/album/356QbLLLBhlgRb0GEOS2cV) | 2:24 |
 | 47 | [Freakk](https://open.spotify.com/track/6h9bBSHQOcLVmqkcD4gIY4) | [Juan Valencia](https://open.spotify.com/artist/5Afyw95iiiAg0cpCU0EwoJ), [Alexander Zabbi](https://open.spotify.com/artist/6vYrqzg2DLvAfsf0VMAeQI) | [Freakk](https://open.spotify.com/album/23KzxbEO0NmaCR08VZdWW6) | 4:05 |
 | 48 | [Bah Bah](https://open.spotify.com/track/6UZW6sgFXSdr96sqrxhTHc) | [Johan S](https://open.spotify.com/artist/2An2rcMqBw43CIZbmeesnd) | [Bah Bah](https://open.spotify.com/album/0lfcwC5CwrTQzKswvXEeGN) | 2:23 |
+| 49 | [Got To Be](https://open.spotify.com/track/2azPJNICoNaxiTaAYi11Vg) | [Tigerblind](https://open.spotify.com/artist/3Uy3rel4Zw9anDMtPIU9IA) | [Got To Be](https://open.spotify.com/album/6a2HJtuzyDY9avmEFjEKKa) | 2:20 |
 
-Snapshot ID: `AAAjdpOEKpRK+ChmSZN8eLMBTKnFIuOL`
+Snapshot ID: `AAAjd4AYH/EFBfixPZeH17J3GkLhncLy`

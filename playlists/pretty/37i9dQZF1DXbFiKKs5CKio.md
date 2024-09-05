@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,914 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,956 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,15 +45,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 35 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN), [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
 | 36 | [Deixa](https://open.spotify.com/track/59ZjIItfGwA39IWTxibw33) | [Nathi](https://open.spotify.com/artist/1LeAwT4Eu1E6ySD3htFnh9) | [Deixa](https://open.spotify.com/album/7zS1vdR4gWETQig8uVCBlI) | 3:24 |
 | 37 | [Perfeita Demais](https://open.spotify.com/track/0iNOiUAd5TjdGTA60iiPCJ) | [R0DR1](https://open.spotify.com/artist/2VpY3fWHu7VbsHZSyQKOGZ) | [Perfeita Demais](https://open.spotify.com/album/4TVvIDkA9n06aB2FzEvRU9) | 3:20 |
-| 38 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
-| 39 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
-| 40 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
-| 41 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
-| 42 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
-| 43 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
-| 44 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
-| 45 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
-| 46 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 38 | [Romance Fora de Hora](https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr) | [Augusta Barna](https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk) | [Na Miúda](https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0) | 2:44 |
+| 39 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8), [YellowLab](https://open.spotify.com/artist/4oI7Lvu0tN4iZyMmGe93k4) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
+| 40 | [Traços](https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC) | [Pedro Stone](https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM) | [Traços](https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L) | 3:19 |
+| 41 | [reconectar](https://open.spotify.com/track/3weVtoWNEdLnqrJ4qrw6G2) | [Camargo](https://open.spotify.com/artist/1gH9PRoYmehUf3bErRTN1f), [Gaza OG](https://open.spotify.com/artist/08OEOpKk43nidwxmby8W0W) | [reconectar](https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI) | 2:48 |
+| 42 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
+| 43 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |
+| 44 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
+| 45 | [SEM SER AMOR](https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 4:21 |
+| 46 | [Filho do Soul](https://open.spotify.com/track/0GyYORKftax285LSmzF2oA) | [Augus7o](https://open.spotify.com/artist/78iJtzui4jnlK1KsDnlykz), [Lovro](https://open.spotify.com/artist/7roNMW0hJ2WwFhrXyKZRwF) | [Filho do Soul](https://open.spotify.com/album/11CfMBbIFivVBOerau2ZFI) | 4:00 |
 | 47 | [Ultimo Fim \(Short\)](https://open.spotify.com/track/5zXJwUbCor3SB0RFvDvgNh) | [Eddu Chaves](https://open.spotify.com/artist/1F2sGUNH0ElOKlAc90BQaa), [Hanifah](https://open.spotify.com/artist/14gJACUz7t8KTdjfO2ricr) | [L0V3 Tvp3](https://open.spotify.com/album/4VMbvm1NCu8KmeuXnYEZcN) | 2:09 |
 | 48 | [Índigo \(Te Venero\)](https://open.spotify.com/track/73Yn2f5eGn3iG4bzTB98tl) | [Aydan](https://open.spotify.com/artist/6fKyodrAgP9ewRR1mGgSmU) | [Índigo \(Te Venero\)](https://open.spotify.com/album/0w0NCCZiMTaLmPYXZRtBqT) | 3:14 |
 | 49 | [Eu Tava Em Casa](https://open.spotify.com/track/2h7DmQXeYqAXG9cMtqdiLy) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/5A6E29QwhDcINDIEBSbYPR) | 4:09 |

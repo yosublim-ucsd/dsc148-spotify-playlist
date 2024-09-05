@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 
 > Descubre los nuevos álbumes de Música Mexicana\. Hit shuffle for a mixed listening experience\. Cover: Panther Bélico
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,483 likes - 203 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,517 likes - 203 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,9 +163,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXbC1ZOkTuut.md) - [plain]
 | 153 | [Más Allá Que Pa' Acá](https://open.spotify.com/track/3d8oynfpYEfBfHQbUFvmKu) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Más Allá Que Pa' Acá](https://open.spotify.com/album/6LK3iuVgcvD7hcZwjHY1uf) | 2:22 |
 | 154 | [Algo Bien](https://open.spotify.com/track/1zfpy39kSjhxxsVpBdZLd6) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:44 |
 | 155 | [Hazme Un Paro](https://open.spotify.com/track/0KFOwJrwBfWVhUTIYPYps5) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB) | [Soy Sagitario](https://open.spotify.com/album/2PVs0MBr8H5mGoTbwzXu60) | 2:45 |
-| 156 | [Adivina donde estoy \- En Vivo](https://open.spotify.com/track/6YQVPzkUZdTSRhpIJ3KHUq) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \(En Vivo\)](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 3:25 |
-| 157 | [Amor no es \- En Vivo](https://open.spotify.com/track/16Gv02Qx5TWXdCfAX6BtXU) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \(En Vivo\)](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 3:33 |
-| 158 | [Se Acabo \- En Vivo](https://open.spotify.com/track/1hgrp7TjWMgA59yywFTJbM) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \(En Vivo\)](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 2:45 |
+| 156 | [Adivina donde estoy \- En Vivo](https://open.spotify.com/track/6YQVPzkUZdTSRhpIJ3KHUq) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \- En Vivo](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 3:25 |
+| 157 | [Amor no es \- En Vivo](https://open.spotify.com/track/16Gv02Qx5TWXdCfAX6BtXU) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \- En Vivo](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 3:33 |
+| 158 | [Se Acabo \- En Vivo](https://open.spotify.com/track/1hgrp7TjWMgA59yywFTJbM) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Live Sessions Vol.2 \- En Vivo](https://open.spotify.com/album/3GFiIqJ5yElwELSsLWPNY1) | 2:45 |
 | 159 | [MALDITO ALCOHOL](https://open.spotify.com/track/1WJwXj50c0du75fIkeEMDY) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 4:02 |
 | 160 | [FRACASO \(With Alejandro Buelna\)](https://open.spotify.com/track/1uZo4RpiQPDn4FVrckJvrx) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Alejandro Buelna](https://open.spotify.com/artist/5CLkLBa8amfsdvs6b1R7Cv) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 3:24 |
 | 161 | [HOUSE OF LUX 2](https://open.spotify.com/track/3dtgHj28cZW9Io2PIftNW7) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [EVOLUXION](https://open.spotify.com/album/2amMAPbRhZFTcoSu8pJpw0) | 2:25 |

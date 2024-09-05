@@ -2,9 +2,9 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e 🌎 / Foto: Liniker
+> Grandes hits do BR e 🌎 / Foto: Pedro Sampaio, Luísa Sonza
 
-320 songs - 15 hr 36 min
+321 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-04-19 | 2023-05-31 |
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-08 | 2023-10-07 |
 | [Chico \(English Version\)](https://open.spotify.com/track/6AErmv0Xg3YVmTZo4jgz1z) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Chico \(English Version\)](https://open.spotify.com/album/6FWg2G8y9IMA2ztAPO6XvA) | 2:58 | 2024-03-08 | 2024-04-04 |
-| [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-18 |  |
+| [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-18 | 2024-09-05 |
 | [CHIHIRO](https://open.spotify.com/track/0GtGtRY3SB3tlfLYiFtrEw) | [Mulú](https://open.spotify.com/artist/4jsA7x5v8Xg3L4FGwyhGaQ), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [MTG CHIHIRO](https://open.spotify.com/album/7bjKMqVLAEYU4q7TWrzOs6) | 2:31 | 2024-07-26 |  |
 | [CHIRI](https://open.spotify.com/track/3CBaIz3eftJCf9GHycFanL) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI +](https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr) | 2:00 | 2022-09-09 | 2022-09-24 |
 | [Clack Bum](https://open.spotify.com/track/5DrDpWyvharQkhsloNTN9W) | [Mc J Mito](https://open.spotify.com/artist/0n57jUvvtDjkdrnbV7kOvB), [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [DJ Borest](https://open.spotify.com/artist/0142GGirP7FbDVVICbWQ46) | [Clack Bum](https://open.spotify.com/album/5u1yWj74PxP12ZqVUcn78H) | 2:21 | 2024-07-26 |  |
@@ -123,6 +123,7 @@
 | [Evoque Prata](https://open.spotify.com/track/6TYZ8bvIGM0HuSVlsHDhoS) | [MC Menor HR](https://open.spotify.com/artist/6snA6Etiw0tiYZaTAoIf5k), [MC Menor SG](https://open.spotify.com/artist/26cXdFW2i1PE5HuCzxYvC1), [DJ Escobar](https://open.spotify.com/artist/1YYDS54YoZeR7WTokK7eEf) | [Evoque Prata](https://open.spotify.com/album/3qA6U2HnNfpkBhJlDw03V1) | 1:47 | 2023-07-06 | 2023-08-09 |
 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/3V7jLMYvvg4BHi4tmDveNc) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/album/0keCRGjhQNl2Wba6nSwqgx) | 2:28 | 2022-05-20 | 2022-06-30 |
 | [Falling Back](https://open.spotify.com/track/1vbn9fEyw1IYhqgZJdu9ZB) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:26 | 2022-06-17 | 2022-06-28 |
+| [FAMA](https://open.spotify.com/track/7uc5eXiV8Yw5DK3V9RNFEk) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:05 | 2024-09-05 |  |
 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 | 2023-07-28 | 2024-03-30 |
 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 | 2023-08-02 | 2024-01-23 |
 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 | 2023-12-08 | 2024-01-23 |

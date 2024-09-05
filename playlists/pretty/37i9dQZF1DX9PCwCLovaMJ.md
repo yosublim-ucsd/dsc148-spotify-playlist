@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 876 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,13 +81,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 71 | [Lilla liv](https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lilla liv](https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ) | 3:15 |
 | 72 | [forget me](https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS) | [Orion Sisters](https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u) | [forget me](https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i) | 2:55 |
 | 73 | [Who](https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Who](https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd) | 3:27 |
-| 74 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
-| 75 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
+| 74 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
+| 75 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
 | 76 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 | 77 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
 | 78 | [2 MARTINIS ON THE GO](https://open.spotify.com/track/39ErQKxX5vWCjzIQvAtTZM) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [2 MARTINIS ON THE GO](https://open.spotify.com/album/0Bi4rmdRjCNYPQ85hHeRdG) | 1:49 |
-| 79 | [Nekad på klubben](https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Nekad på klubben](https://open.spotify.com/album/1raUpMAzD2pUxLPeUk7Jvj) | 3:23 |
-| 80 | [the kick is good](https://open.spotify.com/track/1WBT7cIY72ebsB9o0neu7r) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [the kick is good](https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7) | 3:43 |
+| 79 | [the kick is good](https://open.spotify.com/track/1WBT7cIY72ebsB9o0neu7r) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [the kick is good](https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7) | 3:43 |
+| 80 | [Nekad på klubben](https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Nekad på klubben](https://open.spotify.com/album/1raUpMAzD2pUxLPeUk7Jvj) | 3:23 |
 | 81 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
 | 82 | [\~HÄR\~](https://open.spotify.com/track/1kIoQ1Rir3L6XbKY0ZAUQh) | [OG Bella](https://open.spotify.com/artist/1G3wxkbnecGA5KszB3wmB6), [Slackin Beats](https://open.spotify.com/artist/7gwV2BYHAZbfgmYaNxbBfw), [Broder John](https://open.spotify.com/artist/66iUd3sGrtkATTS7FHWPe4), [JËLLY](https://open.spotify.com/artist/6mqTQZ0Cz6MAeGNHfaseMX) | [MELLAN TVIVEL & TILLIT](https://open.spotify.com/album/6rTpIQjX1HZHQtlYQCZ3Y0) | 4:01 |
 | 83 | [Attack On Us](https://open.spotify.com/track/4N1tF1jz1JKLpnaoUSxG9Z) | [Orphée Noah](https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3) | [Attack On Us](https://open.spotify.com/album/0N4kxrPiQ8PuixSIJg2owR) | 2:28 |

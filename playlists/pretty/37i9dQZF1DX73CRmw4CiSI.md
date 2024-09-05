@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 
 > Rock y rumba para esos días de sol, sangría y amigxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,386 likes - 90 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,419 likes - 90 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73CRmw4CiSI.md) - [plain]
 | 84 | [Que Puedo Pedir](https://open.spotify.com/track/11QBPkSlXTr00bOj5SQqbm) | [La Oreja de Van Gogh](https://open.spotify.com/artist/4U7lXyKdSf1JbM1aXvsodC) | [Dile Al Sol](https://open.spotify.com/album/3gf35Jrzpwy233vwcAe3ux) | 3:02 |
 | 85 | [Grita](https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [La Flaca](https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m) | 3:32 |
 | 86 | [Probe Miguel](https://open.spotify.com/track/0Hzq7sPeciHv6l7mfVfdfu) | [Triana Pura](https://open.spotify.com/artist/7suCoxqWwcH7yxF8gbgydg) | [De Triana al Cielo](https://open.spotify.com/album/4sWOyP3HSXKO5omktW61om) | 4:08 |
-| 87 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World \(Version Comentada\)](https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY) | 3:15 |
-| 88 | [La Quiero a Morir](https://open.spotify.com/track/6shvAFKsshKhvsazuGO404) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y Vueltas](https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB) | 3:13 |
+| 87 | [La Quiero a Morir](https://open.spotify.com/track/6shvAFKsshKhvsazuGO404) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y Vueltas](https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB) | 3:13 |
+| 88 | [Hoy Puede Ser un Gran Dia \- Tributo a Serrat](https://open.spotify.com/track/1WOn068GSVYKoIXj2veXsw) | [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [10 Años Around The World \(Version Comentada\)](https://open.spotify.com/album/1AZA9yNFMmcawToDITEscY) | 3:15 |
 | 89 | [Nada Fue Un Error \- Live In Spain / 2005](https://open.spotify.com/track/15RAXEkBCh62ZB6xddv0wO) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Paulina Rubio](https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Esta Mañana Y Otros Cuentos](https://open.spotify.com/album/2uXGAATjtNc6ikrWsy0B1B) | 3:45 |
 | 90 | [No Estamos Lokos \- Kalikeño](https://open.spotify.com/track/6qD5Tep3hEoRDQUpyrrDLK) | [Ketama](https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF) | [De Aki A Ketama](https://open.spotify.com/album/0Gw8HKoLK67806LLeSAJT7) | 4:37 |
 

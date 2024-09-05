@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,277 likes - 90 songs - 5 hr 36 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,284 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 85 | [Clementine](https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP) | [Yannis & The Yaw](https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt) | [Lagos Paris London](https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL) | 4:00 |
 | 86 | [He's Still On My Mind](https://open.spotify.com/track/4uuMkk1WozRNewEbW05AyH) | [Cassie Ramone](https://open.spotify.com/artist/6pAyzsOyA4yfT0sEEPnvyT) | [He's Still On My Mind](https://open.spotify.com/album/63rdh1qoHI1vtnBikXG38L) | 3:47 |
 | 87 | [Tunnel Lights \- ††† \(Crosses\) remix](https://open.spotify.com/track/543tq6Hdkz2NzCXTdkN27z) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10), [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Tunnel Lights \- ††† \(Crosses\) remix](https://open.spotify.com/album/0sXqxQOG6RrjwCT4V7zNTW) | 4:23 |
-| 88 | [Heard a Train \- 2024 Remaster](https://open.spotify.com/track/5m9HUKTG72liOtmeXQpxEo) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Heard a Train \(2024 Remaster\)](https://open.spotify.com/album/2rxO2vOLn82nv936YDilzN) | 4:35 |
+| 88 | [Heard a Train](https://open.spotify.com/track/5m9HUKTG72liOtmeXQpxEo) | [Mark Lanegan](https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ) | [Heard a Train](https://open.spotify.com/album/2rxO2vOLn82nv936YDilzN) | 4:35 |
 | 89 | [Peixeira Amolada e Quebra Queixo](https://open.spotify.com/track/7iN0VCQD7X8KvfYceK36kk) | [Nomade Orquestra](https://open.spotify.com/artist/0empAFasxmO94e7zJOurTf) | [Peixeira Amolada & Quebra Queixo](https://open.spotify.com/album/0qdU1g1bOAaumFlccgGVcq) | 5:27 |
 | 90 | [Foreign Spies](https://open.spotify.com/track/6cjortdbUAfAY5dyX17kEM) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Foreign Spies / Zero Sum](https://open.spotify.com/album/61qHOXEBFrlwPIWts51B4p) | 4:48 |
 

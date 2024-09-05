@@ -1195,6 +1195,24 @@
     },
     {
       "album": {
+        "name": "CHSM El H\u00edgado X2",
+        "url": "https://open.spotify.com/album/4Xdc6jbEyG74XnamElVAmR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197265,
+      "name": "Tutorial Para Olvidar",
+      "url": "https://open.spotify.com/track/4n9gwibMSsdO1naaAixsO2"
+    },
+    {
+      "album": {
         "name": "T\u00fa Y Mi Ex",
         "url": "https://open.spotify.com/album/4g7nDlkHIw3kZ9TovWje5u"
       },

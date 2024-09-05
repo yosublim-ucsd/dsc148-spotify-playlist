@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Intruders. The essential tracks, all in one playlist.",
+  "description": "This is The Intruders. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is The Intruders",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-06",
+      "date_removed": null,
       "duration_ms": 257333,
       "name": "Only One",
       "url": "https://open.spotify.com/track/05uSb6kgHSKwZ5kCPOe9gh"

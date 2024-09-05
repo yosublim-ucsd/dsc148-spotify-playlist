@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,713 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,771 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 27 | [Beyond The Sea \(La Mer\)](https://open.spotify.com/track/1iqYqVkzPJAQ6Kgc0Kn2I5) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangology 49](https://open.spotify.com/album/7JHX9w5tOLvxZQDqXIaBlq) | 4:16 |
 | 28 | [The Moon Is A Harsh Mistress](https://open.spotify.com/track/70JLN0ibjDTs5hlUFTmqGq) | [Pat Metheny](https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA), [Charlie Haden](https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin) | [Beyond The Missouri Sky](https://open.spotify.com/album/2PULgzT2IHwYzfNxi4n3vY) | 4:04 |
 | 29 | [In Your Own Sweet Way](https://open.spotify.com/track/392OK8Qdmos0wNDrduiwy0) | [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Incredible Jazz Guitar](https://open.spotify.com/album/74kBIzv8E0CG5V6qx5ytm2) | 4:51 |
-| 30 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \(Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000\)](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
+| 30 | [Sookie Sookie \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/track/6i9Uhx8fUHQu9aHXCjiu7B) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k), [Ray Blair](https://open.spotify.com/artist/2D3XOzloX98FKjvCa9inP1) | [Alive! \- Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000](https://open.spotify.com/album/4NL6PN6GkMqI7Ztz4iGPU6) | 10:58 |
 | 31 | [It Could Happen To You](https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Ellis In Wonderland](https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP) | 3:44 |
 | 32 | [You Go To My Head](https://open.spotify.com/track/73re1KsASRSKXmk0MdhwcT) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP) | [Standards Trio: Reflections](https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn) | 3:37 |
 | 33 | [Brazil](https://open.spotify.com/track/3ctsORVoVEDUxLpQAL0zOC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt: Legendary Recordings](https://open.spotify.com/album/3RCsS8ichdIB9arRJFicaf) | 2:48 |

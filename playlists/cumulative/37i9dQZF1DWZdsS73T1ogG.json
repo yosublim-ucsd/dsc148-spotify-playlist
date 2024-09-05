@@ -24385,6 +24385,24 @@
     },
     {
       "album": {
+        "name": "Soubad, Vol .1",
+        "url": "https://open.spotify.com/album/54Vo3eSQBgLsxImMPejHoq"
+      },
+      "artists": [
+        {
+          "name": "Papi Sousa",
+          "url": "https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142275,
+      "name": "SugarDaddy",
+      "url": "https://open.spotify.com/track/2smpQKz9cYXAgNPez0lqZW"
+    },
+    {
+      "album": {
         "name": "Suge Knight",
         "url": "https://open.spotify.com/album/3aSTKnTr1iHgjBxNn3iuLj"
       },

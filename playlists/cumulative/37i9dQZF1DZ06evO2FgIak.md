@@ -2,7 +2,7 @@
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is Muddy Waters\. The essential tracks, all in one playlist.
+> This Is Muddy Waters\. Los temas esenciales, todos en una lista.
 
 139 songs - 9 hr 27 min
 
@@ -41,7 +41,7 @@
 | [Don't Go No Farther \- Single Version](https://open.spotify.com/track/2uN2QIBpyfP88G8Y1gtkgY) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [His Best 1956\-1964 \- The Chess 50th Anniversary Collection](https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57) | 2:56 | 2023-03-17 | 2023-11-11 |
 | [Down The Road I Go \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/1sY1hthrks1zXGCWF8c2V3) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Mojo Buford](https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 6:20 | 2024-07-17 |  |
 | [Evans' Shuffle](https://open.spotify.com/track/0qjSYugTXUitQdXfd0V6te) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:12 | 2022-08-17 | 2024-07-23 |
-| [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 | 2022-08-05 |  |
+| [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 | 2022-08-05 | 2024-09-05 |
 | [Five Long Years \- Live](https://open.spotify.com/track/04fJfOXeaxpzH4kHy0Y2OF) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Dice Won't Pass \(Live Germany '63\)](https://open.spotify.com/album/25QdfKz6dQWcy9JCBTQLaN) | 5:20 | 2022-08-05 | 2022-09-03 |
 | [Flip Flop And Fly \- Live](https://open.spotify.com/track/7DP44czst4J3LVEKKCFvkr) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 1:50 | 2022-08-25 | 2024-04-29 |
 | [Forty Days And Forty Nights](https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Real Folk Blues](https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT) | 2:54 | 2022-08-06 |  |
@@ -141,7 +141,7 @@
 | [You Don't Have To Go \- Live](https://open.spotify.com/track/3RcQoZDJPRqYnxJ7Eho21N) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Live At The Checkerboard Lounge](https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW) | 5:39 | 2022-08-05 | 2024-07-24 |
 | [You Don't Love Me](https://open.spotify.com/track/2mk91c3gWWezEG8UPN3LWq) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:10 | 2022-08-25 | 2023-03-05 |
 | [You done lost your good thing now \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/2OKm8Qukylwyd8yFTrLDWP) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Pee Wee Madison](https://open.spotify.com/artist/5ZRzXIj0gQi03FpgQ9lTh4) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 7:32 | 2024-07-17 |  |
-| [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 | 2022-08-06 | 2024-07-22 |
+| [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 | 2022-08-06 |  |
 | [You Need Love](https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:45 | 2022-08-05 | 2024-07-24 |
 | [You Shook Me](https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Chess Box](https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB) | 2:46 | 2022-08-05 | 2024-07-13 |
 | [You're Gonna Miss Me](https://open.spotify.com/track/6LHxUGOL9wmHvYCPmqEeUV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Sunnyland Slim](https://open.spotify.com/artist/5IrMTnoQ7OgoLpFfsisXX2) | [Rare And Unissued](https://open.spotify.com/album/5P3KyLQoVmGHxtYa5ac2am) | 2:34 | 2023-05-25 | 2023-08-14 |

@@ -2,7 +2,7 @@
 
 ### [This Is Aidan Bissett](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ULe02)
 
-> This is Aidan Bissett\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Aidan Bissett\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
 
 23 songs - 1 hr 8 min
 

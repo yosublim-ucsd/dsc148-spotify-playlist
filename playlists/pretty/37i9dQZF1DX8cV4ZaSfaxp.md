@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,197 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,203 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,11 +94,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 84 | [Algorithm](https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX) | [HeeJin](https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks) | [<K>](https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu) | 3:08 |
 | 85 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 |
 | 86 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 |
-| 87 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
-| 88 | [My Universe \- Home Recording Project \#4](https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [My Universe \- Home Recording Project \#4](https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk) | 3:20 |
+| 87 | [My Universe \- Home Recording Project \#4](https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [My Universe \- Home Recording Project \#4](https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk) | 3:20 |
+| 88 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 | 89 | [Midnight \(feat\. SFC.JGR & B JYUN.\)](https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Midnight](https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t) | 3:32 |
-| 90 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 |
-| 91 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 |
+| 90 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 |
+| 91 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 |
 | 92 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
 | 93 | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/track/51ZFJYJmdt8nX2nInpDOJk) | [Yoon Jong Shin](https://open.spotify.com/artist/0hW1muryuCdZLfjoLrUhnw) | [Monthly Project 2023 January Yoon Jong Shin \- The Third](https://open.spotify.com/album/1rIQCBkQf1iYVCHK7hCxZr) | 4:15 |
 | 94 | [The Reason Why](https://open.spotify.com/track/1RHbrUkbac7nUg5Zj86QgQ) | [Heju](https://open.spotify.com/artist/4wwWOTP0uQkwy905mukvXU) | [The Reason Why](https://open.spotify.com/album/04FO7xZADfgWN1hPb9DGMF) | 3:20 |

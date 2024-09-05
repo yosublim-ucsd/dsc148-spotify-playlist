@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,175 likes - 50 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,199 likes - 50 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 47 | [Don't Ask Me to Be Lonely](https://open.spotify.com/track/0AFnv5nhaov4aiWyl81Yb6) | [The Dubs](https://open.spotify.com/artist/33rjua7RFjy9GwqKWnbnGJ) | [The Dubs Meet The Shells](https://open.spotify.com/album/66OAMu3Uhm62dda1U22OZQ) | 2:19 |
 | 48 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
 | 49 | [Little Darlin'](https://open.spotify.com/track/0f7JTPN46BnWiRGb5A1fft) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/5zsNB8XxgBrMHJeQjYJ7QH) | 2:09 |
-| 50 | [Whispering Bells](https://open.spotify.com/track/0VRJtAPuTBrYTfAjVp7HD9) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5) | [Stand By Me \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0Yk5DkDnqOtzPuBzTs6fti) | 2:26 |
+| 50 | [Crying In The Chapel](https://open.spotify.com/track/35vjuw2ttf6OL5vFXY9w5v) | [The Orioles](https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj) | [The Orioles 1947\-1955](https://open.spotify.com/album/65RsqV8nJL5rPzAkzKjjWa) | 3:08 |
 
 Snapshot ID: `ZpO4VAAAAAB7ZgqBTwuRX+kbJ0eMrdTa`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-611 songs - 1 day 18 hr 22 min
+613 songs - 1 day 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,8 @@
 | [I Know What's Good for You](https://open.spotify.com/track/6v0kYD1OtpqAxRNuQQgjS0) | [Amy Keys](https://open.spotify.com/artist/2K1iGjjn5wjpOHhpeU9Cy0) | [Lover's Intuition](https://open.spotify.com/album/5ZmIfeKLj8AE45i0JELGog) | 5:02 | 2023-12-30 |  |
 | [I Know You Too Well](https://open.spotify.com/track/3psObHKM9bzvpBZ3fnOoPt) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 4:55 | 2023-12-30 |  |
 | [I Learned from the Best](https://open.spotify.com/track/3wACjmQo7ZkRNMLfZXndFB) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:19 | 2023-12-30 |  |
-| [I Love You Goodbye](https://open.spotify.com/track/54OvU2GG8ic8x6p0UqWIpt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:33 | 2023-12-30 |  |
+| [I Love You Goodbye](https://open.spotify.com/track/54OvU2GG8ic8x6p0UqWIpt) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Celine Dion](https://open.spotify.com/album/7C6LFxLn63uasNoDIQ5khO) | 3:33 | 2023-12-30 | 2024-09-05 |
+| [I Love You Goodbye](https://open.spotify.com/track/7yrsFzWR3bDNbuAFWMP0nj) | [Juris](https://open.spotify.com/artist/4BNWanhw4AjSXjBm9L1Jzy) | [Now Playing](https://open.spotify.com/album/60IYlGAr00jr3Q44opYHWN) | 3:29 | 2024-09-04 |  |
 | [I Miss U Missing Me](https://open.spotify.com/track/2F4LgGTiUPzdUcdxYnTcPg) | [Bibi Zhou](https://open.spotify.com/artist/3WHsy1Rq4vPEdRyo9P3a48) | [I, 魚, 光, 鏡](https://open.spotify.com/album/40j9k1XSwTJzxJI0DKc1qO) | 3:19 | 2023-12-30 |  |
 | [I Promise](https://open.spotify.com/track/0EhqdgtayZ43jlzYTpHLdi) | [Stacie Orrico](https://open.spotify.com/artist/5QjWgYDeKNP2iPHTdTttnG) | [Stacie Orrico](https://open.spotify.com/album/05bphHAv5bizNSVDeirA9t) | 4:17 | 2023-12-30 |  |
 | [I See You In A Different Light](https://open.spotify.com/track/3ZJSit2Z7fKbtHnNA1Fnqv) | [Chanté Moore](https://open.spotify.com/artist/77OlE8SkEHDkJczfswzDFo), [Joel Hailey](https://open.spotify.com/artist/6AnUMBsjIzJ5PPXEqE3d0v) | [This Moment Is Mine](https://open.spotify.com/album/3tkdUlOR0x8lYElhaQUUbb) | 4:22 | 2023-12-30 |  |
@@ -284,7 +285,7 @@
 | [It's My Time \- Radio Edit](https://open.spotify.com/track/0q1PTDRFl64tIskcoIs2EO) | [Jade Ewen](https://open.spotify.com/artist/7u44AAgf8SNIq2Kdw23vHD) | [It's My Time \(International Version\)](https://open.spotify.com/album/4wWVKiMSwH6tyf5kS4JMrM) | 3:17 | 2023-12-30 |  |
 | [It's Only My Heart \- Alternate Version](https://open.spotify.com/track/65VlkQugl1EffW1DvaBkTE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn) | [Soul Provider](https://open.spotify.com/album/5g9LXOhTPW9Iow6GZPRg2D) | 4:31 | 2023-12-30 |  |
 | [Je vous dis merci](https://open.spotify.com/track/7IkPmUXEccnXCalWiM4Nsg) | [Dominique Michalon](https://open.spotify.com/artist/6jPyZa4C2G5uSDZNOncrEx) | [Si je n'étais pas moi](https://open.spotify.com/album/3FThUQRthdThnpM7OsGKTr) | 3:53 | 2023-12-30 |  |
-| [Just Another Night](https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11) | [Jimmy Demers](https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5) | [Dream A Little](https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv) | 3:51 | 2024-07-31 |  |
+| [Just Another Night](https://open.spotify.com/track/1U4SFDM4sTtv6imMDwou11) | [Jimmy Demers](https://open.spotify.com/artist/2TW2VZBWnhz5L2xk6WWct5) | [Dream A Little](https://open.spotify.com/album/7i2Cwl97MDdNDOHhPvJTuv) | 3:51 | 2024-07-31 | 2024-09-05 |
 | [Just Like Jesse James](https://open.spotify.com/track/5JGdpqo9wrRtOZtui5GShI) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:05 | 2023-12-30 |  |
 | [Just the Thought of You](https://open.spotify.com/track/2EbRYotlbA3ZDKIk300jAS) | [Tony Hadley](https://open.spotify.com/artist/0wHrpPuQ3Qea6UXAc06ocM) | [The State of Play](https://open.spotify.com/album/1BrylrchcrwAWtTqM8ZJ7x) | 3:44 | 2023-12-30 |  |
 | [Just to Hear You Say That You Love Me \(with Tim McGraw\)](https://open.spotify.com/track/7m7V3K1yHLfJB2Sx9FKinU) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa), [Tim McGraw](https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 4:28 | 2023-12-30 |  |
@@ -453,7 +454,8 @@
 | [Sheltered Heart](https://open.spotify.com/track/7vs9x1UUlXQkBIyaV7KcVP) | [David Hasselhoff](https://open.spotify.com/artist/0cfSfyq03Uj5lVX9jcJw1m) | [Looking For Freedom](https://open.spotify.com/album/2E5SRcJqYXGXyJTAZOgmnB) | 4:44 | 2023-12-30 |  |
 | [She’s Fire](https://open.spotify.com/track/0hP4n7XV0olkYL8mwB9GXZ) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:33 | 2023-12-30 |  |
 | [Shine](https://open.spotify.com/track/0v2Qw3hhGhpK07yHYtCaVf) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [The Declaration](https://open.spotify.com/album/23d3EfXK0OEtfOB61bBz9d) | 3:40 | 2023-12-30 |  |
-| [Show Me The Way Back To Your Heart](https://open.spotify.com/track/55pJM8TMefpyEBnuzoViIU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 3:57 | 2023-12-30 |  |
+| [Show Me The Way Back To Your Heart](https://open.spotify.com/track/4YcXc551uqE3IpHf3iZiYM) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Anytime](https://open.spotify.com/album/7qxIzUF6FoGTu62oeRdNFd) | 3:55 | 2024-09-04 |  |
+| [Show Me The Way Back To Your Heart](https://open.spotify.com/track/55pJM8TMefpyEBnuzoViIU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 3:57 | 2023-12-30 | 2024-09-05 |
 | [Silent Partners](https://open.spotify.com/track/1TVvf6Cvf3domSqZTgKQ3R) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Self Control](https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D) | 4:04 | 2023-12-30 |  |
 | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/track/27dYgu9SoZY5t3EzC2hSue) | [Jessie J](https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou) | [Silver Lining \(crazy 'bout you\)](https://open.spotify.com/album/5OYTmotVhUzSxheuRa6CrV) | 3:53 | 2023-12-30 |  |
 | [Solitaire](https://open.spotify.com/track/17RxTPSIGg0WP92dAiZliC) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [Branigan 2](https://open.spotify.com/album/7KYSQrbIraNspxKXbXoJ8e) | 4:05 | 2023-12-30 |  |

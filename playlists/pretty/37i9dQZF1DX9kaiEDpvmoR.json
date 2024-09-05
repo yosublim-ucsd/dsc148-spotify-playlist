@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92182,
+  "num_followers": 92177,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Endless Road",
-        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
-      },
-      "artists": [
-        {
-          "name": "NSH",
-          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
-        }
-      ],
-      "duration_ms": 163594,
-      "name": "Endless Road",
-      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Stora torget",
         "url": "https://open.spotify.com/album/4LSLOqDBZJv2G8EEOmYgSN"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 265466,
       "name": "Stora torget",
       "url": "https://open.spotify.com/track/64ha9fpcSD3Zc53SjghbMS"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Endless Road",
+        "url": "https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv"
+      },
+      "artists": [
+        {
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
+        }
+      ],
+      "duration_ms": 163594,
+      "name": "Endless Road",
+      "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
     },
     {
       "added_at": "2024-08-29 22:00:00",

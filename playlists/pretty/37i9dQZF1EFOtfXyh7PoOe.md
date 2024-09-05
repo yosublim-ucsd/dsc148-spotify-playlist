@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 765 likes - 115 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 766 likes - 115 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 32 | [Head Up](https://open.spotify.com/track/4t3mg02RDihx96FOBuwL9H) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [James Newman](https://open.spotify.com/artist/4iaTgZRy5aVnImDyRJn61n) | [FUTURE](https://open.spotify.com/album/0zysDjrxBtO6sb2pOJyxNt) | 3:11 |
 | 33 | [American Boy](https://open.spotify.com/track/2D3QYCDI7WrbSMbcIRRBdm) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:11 |
 | 34 | [Goodbye](https://open.spotify.com/track/5b6enCVP67LsqqrfTs6rxr) | [Mimi Webb](https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz) | [Goodbye](https://open.spotify.com/album/58Xvw6spiAwJygmEi6iQC7) | 3:04 |
-| 35 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
-| 36 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 35 | [Angel Of My Dreams](https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [Angel Of My Dreams](https://open.spotify.com/album/6Wf3fqCoGcOYah2lTcwyAA) | 3:17 |
+| 36 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
 | 37 | [Nights With You](https://open.spotify.com/track/31xqlEutnJGeu9vwkE3P6v) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Nicky Romero JAPAN COLLECTION 2021](https://open.spotify.com/album/3oxyWlxzEzX7kGgOQnqtQi) | 2:29 |
 | 38 | [It's Christmas Time \(feat\. Dan Caplen\)](https://open.spotify.com/track/6skTvnm735GYcgiKaeDDPq) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Dan Caplen](https://open.spotify.com/artist/2U3FuHYvL3vhkbDAXm24Ep) | [It's Christmas Time \(feat\. Dan Caplen\)](https://open.spotify.com/album/4yaTdtVKfwkMmX9JrN2O79) | 3:18 |
 | 39 | [Tomorrow](https://open.spotify.com/track/1kOIM9LKyTlqdtsLRS7RUR) | [CHANYEOL](https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5) | [Tomorrow \- SM STATION](https://open.spotify.com/album/5sPtM10mGhGGEUIkTkNMhm) | 2:25 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOtfXyh7PoOe.md) - [plain]
 | 114 | [Beachgrass](https://open.spotify.com/track/0Hq9LR4QzB39RvrngZpzbA) | [HEAD BALLET](https://open.spotify.com/artist/1YWp4o7h26JLnz5strYI0E) | [Suddenly It's Making Sense](https://open.spotify.com/album/1qxtSUzztfc1zPouYoDDsI) | 2:39 |
 | 115 | [Machu Picchu](https://open.spotify.com/track/44Uo9mTbDfmpy2PTL3KuUD) | [kid ryan](https://open.spotify.com/artist/1ncjiTAfWX4ipmk1WMHeHL) | [Machu Picchu](https://open.spotify.com/album/5q6YYFkNQzffl1IYxgoD47) | 2:48 |
 
-Snapshot ID: `AbbMCAAAAAClU+iraRqXvVsojU5iLmcs`
+Snapshot ID: `AbbRqAAAAACQzj9bAOTCF2/m43jJolkp`

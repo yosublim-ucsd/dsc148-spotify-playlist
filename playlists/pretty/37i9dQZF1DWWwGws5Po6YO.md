@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Nala Sinephro
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,145 likes - 100 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,214 likes - 100 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,17 +66,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 56 | [In Her Hair](https://open.spotify.com/track/76cA2zwvP6oZXMEMrx7jRV) | [Lisa Lerkenfeldt](https://open.spotify.com/artist/3famB97koyRfo502IWQjFL) | [Collagen](https://open.spotify.com/album/5DCzCJxAkCrd011i8CgZgx) | 5:21 |
 | 57 | [The Centre of Everything](https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [World Breathes](https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj) | 3:14 |
 | 58 | [Divining \(naming of the Lost\)](https://open.spotify.com/track/3TbfqBzk796zABgsCNE9nk) | [The Seven Fields Of Aphelion](https://open.spotify.com/artist/6cd4FkCiVUCWh7oFf71CRQ) | [Keep the Ocean Inside](https://open.spotify.com/album/2lSHSI3IKXBEsdIuwN1Sv2) | 4:51 |
-| 59 | [Effektology](https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2) | [Arrow](https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S) | 3:47 |
-| 60 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
-| 61 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
-| 62 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
+| 59 | [Humidity](https://open.spotify.com/track/2WO4gKLH1gaydKHuJof33I) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn), [Nana Pi](https://open.spotify.com/artist/3gbm3E5mVftZywfgEysN6I) | [Humidity](https://open.spotify.com/album/3RD5Gg1dcm6bHJUQIFWJba) | 4:31 |
+| 60 | [Effektology](https://open.spotify.com/track/2R7ow3ycyaJZe13AvKdLQc) | [Noveller](https://open.spotify.com/artist/3MqYHtX48uiYNf0gPaNBW2) | [Arrow](https://open.spotify.com/album/23XR5sJhFLxezpchTPf54S) | 3:47 |
+| 61 | [Hyphae](https://open.spotify.com/track/2NOCvQQPWRz19g6cK4rR7g) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Possessed \(Original Score\)](https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY) | 6:27 |
+| 62 | [Cradle \- Patience Rework](https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3) | [Lyra Pramuk](https://open.spotify.com/artist/4nIgCJvBTi7M3pFn2ELhxm), [Ben Frost](https://open.spotify.com/artist/6qEM4txXHvfMbOUOK9L7pl) | [Cradle \(Patience Rework\)](https://open.spotify.com/album/2SOtUwtSq0hOOT2X7FtziA) | 5:24 |
 | 63 | [I'll Look for You in Others](https://open.spotify.com/track/0ca3Leu9WL9yazpJXD1xyd) | [Patricia Wolf](https://open.spotify.com/artist/5U2PKpLxoEwfOnPAwzPt5T) | [I'll Look For You In Others](https://open.spotify.com/album/2PFv0zSiY1gSipgGyXI6V6) | 6:33 |
 | 64 | [Lost At Sea \- Kelly Moran remix](https://open.spotify.com/track/0My0fhq5AZ4AyndjDAL1YY) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [One Life : four remixes](https://open.spotify.com/album/37cXPtsjdDJNR65haaZvx9) | 4:56 |
 | 65 | [Hope Dealers](https://open.spotify.com/track/4V6Y9lCX3xnSoa11nN2S02) | [Klein](https://open.spotify.com/artist/6chuFWw4BmHxOc3X0cC8Ct) | [Hope Dealers](https://open.spotify.com/album/71cZVBxEtdDgJDRXipmtlZ) | 5:52 |
 | 66 | [Light in Phases](https://open.spotify.com/track/46cgCeZNqCMTmzlBKtFPin) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Sketch for Winter IX: Perlita](https://open.spotify.com/album/4v9uUlcfLWHzhZfmoTjAz8) | 4:26 |
-| 67 | [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 |
-| 68 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
-| 69 | [Epistasis](https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO) | [Maria W Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Epistasis](https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev) | 9:31 |
+| 67 | [Epistasis](https://open.spotify.com/track/5aSDp6NmeEfxGg353TLPrO) | [Maria W Horn](https://open.spotify.com/artist/2td3eHrQeycxkGLmCeauak) | [Epistasis](https://open.spotify.com/album/2PLRVIvX0FVaraQLFB5rev) | 9:31 |
+| 68 | [Spell I: Let the Waves In](https://open.spotify.com/track/18nx0x8Jfrlr8Bhow7WYVg) | [Jolanda Moletta](https://open.spotify.com/artist/54twWvYmCkwvUftBtWyrt1) | [Nine Spells](https://open.spotify.com/album/7tTgFC4f511XvHbHYgHpgA) | 2:41 |
+| 69 | [Myg](https://open.spotify.com/track/5Duc5JGiBxkKMueTcdgPzp) | [Sofie Birch](https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn) | [Island Alchemy](https://open.spotify.com/album/1ERBT1FkGAKPslESZgxWKS) | 10:18 |
 | 70 | [Sino Algo Que Produce Sombras?](https://open.spotify.com/track/084NpmX5haKuRUX3lh5vk6) | [Hannah Lee](https://open.spotify.com/artist/3bUs5Fz4GknxKlVALu9Aoy), [El León Pardo](https://open.spotify.com/artist/1GWsnvoiuPEfBxKLkznKUu) | [¿Y Qué Es el Sol para Ellos Sino Algo Que Produce Sombras?](https://open.spotify.com/album/1SnoM9AauiiroErXXLuZnz) | 29:52 |
 | 71 | [Berceuse for a Star Child](https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G) | [Meg Bowles](https://open.spotify.com/artist/3sWYpVmSMPD4YdhuvP2DFW) | [Evensong: Canticles for the Earth](https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z) | 5:51 |
 | 72 | [Hymn](https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Chain Reaction at Dusk](https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP) | 7:28 |

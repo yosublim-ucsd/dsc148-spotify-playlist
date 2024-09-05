@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-808 songs - 1 day 22 hr 14 min
+809 songs - 1 day 22 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -381,6 +381,7 @@
 | [KINGS OF THE BLOCK](https://open.spotify.com/track/7COTnn3UDXkMLclKWnPzU3) | [THIRST](https://open.spotify.com/artist/48jyKugtgYM5RdzwF7zKde) | [AFTER HOURS MIXTAPE](https://open.spotify.com/album/2ONCilDSqQYTYjD2b1sRtG) | 1:12 | 2024-07-03 |  |
 | [Kingslayer](https://open.spotify.com/track/2xYI4GVeC4SUaNsx9HIUJ1) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [RIENK](https://open.spotify.com/artist/1EDTEfdQZ9nRsyZjfRNEfo) | [Kingslayer](https://open.spotify.com/album/7uAVQn7dKdmZSqk3Lu47g8) | 3:44 | 2023-03-20 | 2023-06-13 |
 | [Know Me Better](https://open.spotify.com/track/41AVceKYPXTFQNm8Sm9GP2) | [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC), [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5) | [Know Me Better](https://open.spotify.com/album/2iR9KdDE9yT2u5WVXehm1u) | 2:56 | 2024-04-25 | 2024-07-16 |
+| [KRUSH TO KILL](https://open.spotify.com/track/2i7AEOTjDNil7h3WD3e6ss) | [RAIZHELL](https://open.spotify.com/artist/24sVPKlhUfQ8rMyUg7qLUq) | [KRUSH TO KILL](https://open.spotify.com/album/0vmoYVO4xC6kIqLanSE1SK) | 2:15 | 2024-09-04 |  |
 | [Lacuna](https://open.spotify.com/track/7DJtpkk5hNrM8AFTjKPlZv) | [A.M.R](https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc), [Kymira](https://open.spotify.com/artist/6bWdHKULequjwRPTQYWzer) | [Lacuna](https://open.spotify.com/album/0uzhDCZK3SP1oPYSzqQHOA) | 3:59 | 2023-08-08 | 2023-12-14 |
 | [Land of the Living](https://open.spotify.com/track/5kfnCvlXXJEa9HpFKdSczm) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Land of the Living](https://open.spotify.com/album/1Ok5c9oP3hWgunQvhIsC0e) | 2:40 | 2023-08-22 | 2023-12-14 |
 | [Landslide](https://open.spotify.com/track/7DsQcrBb8p6dc6ccMFf7Gk) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Landslide](https://open.spotify.com/album/4vEjKBgSWs2EvLWQ4FNL8n) | 3:10 | 2023-03-03 | 2023-05-30 |
@@ -538,7 +539,7 @@
 | [PEW PEW](https://open.spotify.com/track/0VUiaSYJJgUF0JvweD6Mr9) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [PEW PEW](https://open.spotify.com/album/24SclrXmcuFi7wwD8UZoy3) | 3:19 | 2022-07-14 | 2022-09-27 |
 | [Phases Of The Moon](https://open.spotify.com/track/4V7J0Au7NmhmPV9WwKcr48) | [Embliss](https://open.spotify.com/artist/5MSK0EcJzGYAEgTCY7EIAa), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Phases Of The Moon](https://open.spotify.com/album/4KE7wS3749LiK3LZFjBVSW) | 4:18 | 2022-07-13 | 2022-09-27 |
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-05-31 | 2023-08-28 |
-| [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 |  |
+| [Play It Twice](https://open.spotify.com/track/1Bh3YR7qp6aFByFoHmzmq4) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl) | [Play It Twice](https://open.spotify.com/album/1hsBmf6kB92nKgfADDThoO) | 2:40 | 2024-06-12 | 2024-09-05 |
 | [Pondering Minds](https://open.spotify.com/track/36Pig1iSIarIq3NudqIPNM) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Khai](https://open.spotify.com/artist/2nUgzaTpZZxmzOh2hGlp64) | [Pondering Minds](https://open.spotify.com/album/0rXMwYMIcqCsH7fmnsimlN) | 4:38 | 2023-11-23 | 2024-03-07 |
 | [Portal](https://open.spotify.com/track/7Ifj94OvitrEBJolFPeBTN) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs) | [Portal](https://open.spotify.com/album/0oSIeNRjMe5z6wAJ0AB5xs) | 2:34 | 2024-02-12 | 2024-05-07 |
 | [Power Stone](https://open.spotify.com/track/5FufznQatRZsjumawlLbbo) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Power Stone](https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0) | 2:47 | 2022-07-28 | 2022-10-08 |

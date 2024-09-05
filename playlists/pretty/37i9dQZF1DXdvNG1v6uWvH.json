@@ -1,6 +1,6 @@
 {
   "description": "N\u00fd t\u00f3nlist!",
-  "num_followers": 9100,
+  "num_followers": 9099,
   "original_name": "New Music Friday Iceland",
   "owner": {
     "name": "Spotify",
@@ -240,12 +240,16 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        },
-        {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
         }
       ],
       "duration_ms": 130070,
@@ -1775,6 +1779,22 @@
     {
       "added_at": "2024-08-30 00:00:00",
       "album": {
+        "name": "Reel In",
+        "url": "https://open.spotify.com/album/0KN00sGJ5NPc9jZBWFVZTX"
+      },
+      "artists": [
+        {
+          "name": "Luthersson",
+          "url": "https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "Reel In",
+      "url": "https://open.spotify.com/track/1AHGXiFb6btyUIeSHq4hlm"
+    },
+    {
+      "added_at": "2024-08-30 00:00:00",
+      "album": {
         "name": "Komast heim",
         "url": "https://open.spotify.com/album/5uRQ7iqbVROfh5wBrGxPeH"
       },
@@ -1795,18 +1815,18 @@
     {
       "added_at": "2024-08-30 00:00:00",
       "album": {
-        "name": "Reel In",
-        "url": "https://open.spotify.com/album/0KN00sGJ5NPc9jZBWFVZTX"
+        "name": "Hollystick",
+        "url": "https://open.spotify.com/album/5rKN77AODf9gxQGPWapnqM"
       },
       "artists": [
         {
-          "name": "Luthersson",
-          "url": "https://open.spotify.com/artist/4HVMUm3pAcQ2Yf4WasP109"
+          "name": "Kahnin",
+          "url": "https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL"
         }
       ],
-      "duration_ms": 184186,
-      "name": "Reel In",
-      "url": "https://open.spotify.com/track/1AHGXiFb6btyUIeSHq4hlm"
+      "duration_ms": 249397,
+      "name": "Hollystick",
+      "url": "https://open.spotify.com/track/2mRDr2ck0kXO70egbIErQT"
     },
     {
       "added_at": "2024-08-30 00:00:00",
@@ -1823,22 +1843,6 @@
       "duration_ms": 105985,
       "name": "SURFACE",
       "url": "https://open.spotify.com/track/0h1TVMjWbU6Q4SwylIGcHw"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Hollystick",
-        "url": "https://open.spotify.com/album/5rKN77AODf9gxQGPWapnqM"
-      },
-      "artists": [
-        {
-          "name": "Kahnin",
-          "url": "https://open.spotify.com/artist/7DCknTbREZ6aG4DGihWUdL"
-        }
-      ],
-      "duration_ms": 249397,
-      "name": "Hollystick",
-      "url": "https://open.spotify.com/track/2mRDr2ck0kXO70egbIErQT"
     },
     {
       "added_at": "2024-08-30 00:00:00",
@@ -1863,18 +1867,18 @@
     {
       "added_at": "2024-08-30 00:00:00",
       "album": {
-        "name": "Meyjan",
-        "url": "https://open.spotify.com/album/42bxkmwIj8gpyQNiDEs0Tn"
+        "name": "Stay The Same",
+        "url": "https://open.spotify.com/album/04K2gCjYdFVvhNdHez1smw"
       },
       "artists": [
         {
-          "name": "I\u00f0unn Einars",
-          "url": "https://open.spotify.com/artist/5hwL04760a7qDuB5jJt9Uh"
+          "name": "NSH",
+          "url": "https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS"
         }
       ],
-      "duration_ms": 213346,
-      "name": "Meyjan",
-      "url": "https://open.spotify.com/track/2KVkFvyPhUNcsFFx3yn6Cv"
+      "duration_ms": 204332,
+      "name": "Stay The Same",
+      "url": "https://open.spotify.com/track/0dKT5uBZHwButbQhbNn7n0"
     }
   ],
   "unique_name": "New Music Friday Iceland",

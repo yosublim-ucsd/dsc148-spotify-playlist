@@ -2,7 +2,7 @@
 
 ### [This Is FLOW](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV)
 
-> This is FLOW\. The essential tracks, all in one playlist.
+> This is FLOW。アーティストの代表曲をひとつのプレイリストに。
 
 110 songs - 7 hr 7 min
 

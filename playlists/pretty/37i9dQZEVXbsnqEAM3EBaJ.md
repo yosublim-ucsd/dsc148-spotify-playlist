@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 25 songs - 1 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 25 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbsnqEAM3EBaJ.md) - [plain]
 | 19 | [Oxygen](https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr) | [Dead Rabbitts](https://open.spotify.com/artist/7JVShmAauuaq861DoM5rP6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum), [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Fronzilla](https://open.spotify.com/artist/2JvkRVVvySroPAtnf3sEW3), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Oxygen](https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ) | 3:15 |
 | 20 | [It's All Over Now, Baby Blue \- Live at The Forum, Inglewood, CA \- February 14, 1974 \(Afternoon\)](https://open.spotify.com/track/3q6WUhqjjcHCos0sW83Gn3) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [It's All Over Now, Baby Blue \[Live at The Forum, Inglewood, CA \- February 14, 1974 \(Afternoon\)\]](https://open.spotify.com/album/3eF5Dyc5aAvyFqgdfgQbXk) | 4:26 |
 | 21 | [Kaleidoscope Eyes](https://open.spotify.com/track/0KyOqeVAPYVKcryHhqrGPU) | [BVSMV](https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF) | [Other Landscapes, Vol\. 1](https://open.spotify.com/album/3mRM87d7RHlFrF27fWhAtD) | 5:20 |
-| 22 | [Eye To Eye](https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Call The Devil](https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o) | 4:40 |
+| 22 | [We Don't Care](https://open.spotify.com/track/6GtWz3PCQ12jai5htoKiQ3) | [Mushroomhead](https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M) | [Call The Devil](https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o) | 3:49 |
 | 23 | [Burnin' For You \- Live](https://open.spotify.com/track/5zAdE8QwyFuFExIFNOhPQR) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [50th Anniversary Live \- Second Night](https://open.spotify.com/album/3ZFAS293XPGNfuXcKzdhtO) | 4:50 |
 | 24 | [I Like It \- Alesso & Sentinel Remix](https://open.spotify.com/track/2kG38uIoDRlqJU0aFafpP0) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x), [Sentinel](https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw) | [I Like It \- Alesso & Sentinel Remix](https://open.spotify.com/album/7GJkVr9LA2svhxSG2w5N3Z) | 2:46 |
 | 25 | [Good Luck, Babe!](https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2024](https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk) | 3:36 |
 
-Snapshot ID: `AAAAAAAAAABPbQhwURAwMmQxS5JYKk4P`
+Snapshot ID: `AAAAAAAAAAD6Yrmhmg7OVZhNw2ImM7hS`

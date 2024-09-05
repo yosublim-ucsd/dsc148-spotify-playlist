@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJhOVGWqUKF.md) - [plain]
 
 > Sechs Saiten für ein Halleluja\. Cover: All To Get Her, Comastatic
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,269 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 332,316 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

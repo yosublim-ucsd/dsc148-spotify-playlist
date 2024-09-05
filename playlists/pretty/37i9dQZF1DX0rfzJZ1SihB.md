@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 
 > 2024 年金曲 35 全名單出爐！和 Spotify 一起全力支持優秀歌手與傑出作品！
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,773 likes - 106 songs - 7 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,770 likes - 106 songs - 7 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rfzJZ1SihB.md) - [plain]
 | 93 | [布朗熱變奏 Boulanger's Variation](https://open.spotify.com/track/19Cicp5MtqjtsSuLTbJNMB) | [Chien Chien Lu](https://open.spotify.com/artist/0DlkcshSnSMw3Hk7SBNZwC) | [Built in System 內建系統](https://open.spotify.com/album/1w8DTGBEwQ3YRsDTC9Mv0o) | 7:44 |
 | 94 | [welcoming the moon trip](https://open.spotify.com/track/10mqn0Br3Xto5uquVDGC4f) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [a method for capsaicinoid analysis](https://open.spotify.com/album/6ItdzqrN4bwOzDuKLYmIiU) | 4:24 |
 | 95 | [漂洋 Somewhere Over the Sea](https://open.spotify.com/track/7MDfjI91wjWbbFX2qoXEw5) | [Chill Qin](https://open.spotify.com/artist/5WzGRRy1480eH0fzxv0k4n), [Hu Zhe Rui](https://open.spotify.com/artist/4AuEAfl7t4etFtl1Fivxe6), [Riga Huang](https://open.spotify.com/artist/50ZIxqTaKIXK6K90tkuRDI) | [美麗的灣 Wonderful One](https://open.spotify.com/album/2T5gaZ5N0y5V3JeIdOOKq4) | 4:53 |
-| 96 | [迷仙引](https://open.spotify.com/track/3TIIRfwgU0UkVDabcGeUn3) | [Szx.](https://open.spotify.com/artist/720R40K2uHGhXIGtquH7CY), [刘㔻](https://open.spotify.com/artist/2ugg1plVeRZzEzCWoMS63A), [觉者](https://open.spotify.com/artist/5AFnTlbupsEPZgFde74RRy), [刘子男](https://open.spotify.com/artist/66JMTHW6HXiPTYklzD46Jj), [钟洋](https://open.spotify.com/artist/7BIm92Ndhmt6UmA2Igz8b1), [卢创](https://open.spotify.com/artist/4L5UyzxTFs4bjWqC3WfNCD) | [無常定](https://open.spotify.com/album/5QNc9tOcB2DKvEjLLQkLUT) | 6:54 |
+| 96 | [迷仙引](https://open.spotify.com/track/3TIIRfwgU0UkVDabcGeUn3) | [蘇紫旭\(Szx.\)](https://open.spotify.com/artist/3eRVBaSyJPWXlHrAiNcwZW), [刘㔻](https://open.spotify.com/artist/2ugg1plVeRZzEzCWoMS63A), [觉者](https://open.spotify.com/artist/5AFnTlbupsEPZgFde74RRy), [刘子男](https://open.spotify.com/artist/66JMTHW6HXiPTYklzD46Jj), [钟洋](https://open.spotify.com/artist/7BIm92Ndhmt6UmA2Igz8b1), [卢创](https://open.spotify.com/artist/4L5UyzxTFs4bjWqC3WfNCD) | [無常定](https://open.spotify.com/album/5QNc9tOcB2DKvEjLLQkLUT) | 6:54 |
 | 97 | [농담](https://open.spotify.com/track/6K9qP6a9PMcBTbsvGjTXMs) | [dongyi](https://open.spotify.com/artist/6KBuSEyXlphYJhk7vGAZYU) | [a method for capsaicinoid analysis](https://open.spotify.com/album/6ItdzqrN4bwOzDuKLYmIiU) | 5:23 |
 | 98 | [Intro: Day to Day 日常](https://open.spotify.com/track/39RPdAZXoeqpwdjL4Pmigs) | [Ruby Pan 潘子爵](https://open.spotify.com/artist/7r74JFmvA3yPLuDyyzH8Mx) | [沒問題少女](https://open.spotify.com/album/4Y4FZCpKHRC5kU0dhml3Bj) | 1:07 |
 | 99 | [Becoming a Hero](https://open.spotify.com/track/0DKerVQh3lBoxIoT4zymle) | [Gordy Haab](https://open.spotify.com/artist/3F3rZzKrKFGI2A7PpGAAQa) | [Creation of The Gods I \- Feng Shen Trilogy \(Original Soundtrack\)](https://open.spotify.com/album/5GN8JzPRgqlLJmcGJwl0d8) | 3:58 |

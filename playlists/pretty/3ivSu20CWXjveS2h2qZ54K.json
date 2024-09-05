@@ -1,13 +1,61 @@
 {
   "description": "Las mejores novedades de cada viernes, seleccionadas por la redacci\u00f3n de JENESAISPOP",
-  "num_followers": 6551,
+  "num_followers": 6553,
   "original_name": "Ready for the Weekend (JNSP)",
   "owner": {
     "name": "Jenesaispop",
     "url": "https://open.spotify.com/user/jenesaispop"
   },
-  "snapshot_id": "AACdY8yfjcOwa3FHVIbDTid27xjcY/QX",
+  "snapshot_id": "AACdZ0zBOLYeogn5fa924OUpDLmvOPdi",
   "tracks": [
+    {
+      "added_at": "2024-09-04 12:23:47",
+      "album": {
+        "name": "Huella de ti",
+        "url": "https://open.spotify.com/album/04VF4cO2dj3nuNvnPKBIfH"
+      },
+      "artists": [
+        {
+          "name": "Kokoshca",
+          "url": "https://open.spotify.com/artist/0FDO0siwgVeDs40rqwS2mK"
+        }
+      ],
+      "duration_ms": 197253,
+      "name": "Huella de ti",
+      "url": "https://open.spotify.com/track/6SmYVKgtUd4jsZdkAnnA1b"
+    },
+    {
+      "added_at": "2024-09-04 12:23:47",
+      "album": {
+        "name": "\u00daltima fiesta",
+        "url": "https://open.spotify.com/album/2lSneXBhLJQ8qDe1FrKctM"
+      },
+      "artists": [
+        {
+          "name": "Vicente Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/23NCVrnE5VJqesZBazalWN"
+        }
+      ],
+      "duration_ms": 157912,
+      "name": "\u00daltima fiesta",
+      "url": "https://open.spotify.com/track/3CtpdxwpN1TH26L20XQJSs"
+    },
+    {
+      "added_at": "2024-09-04 17:24:08",
+      "album": {
+        "name": "Can We Fix Our Nation's Broken Heart",
+        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 278366,
+      "name": "Can We Fix Our Nation's Broken Heart",
+      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
+    },
     {
       "added_at": "2024-08-30 06:33:30",
       "album": {
@@ -996,12 +1044,16 @@
           "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
         },
         {
-          "name": "Sage The Gemini",
-          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-        },
-        {
           "name": "Subtronics",
           "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Tape B",
+          "url": "https://open.spotify.com/artist/59tlsKpLWoLTxjNNS2wdPi"
+        },
+        {
+          "name": "Sage The Gemini",
+          "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
         }
       ],
       "duration_ms": 130070,

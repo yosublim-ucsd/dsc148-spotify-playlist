@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,785 songs - 3 day 21 hr 6 min
+1,786 songs - 3 day 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -320,7 +320,7 @@
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-29 | 2023-01-10 |
 | [Dans](https://open.spotify.com/track/0EfTxcH2ZZ1mkSC83GD3C3) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Hver gang vi møtes 2023](https://open.spotify.com/album/0D9xDd3je29qrH1otIrbOx) | 2:58 | 2023-02-22 | 2023-02-26 |
 | [Dans](https://open.spotify.com/track/4f3SD5C93R8QXPNmAip2PR) | [Freddy Kalas](https://open.spotify.com/artist/2HAShHcL0dMLf1iNzmxTi3), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Dans](https://open.spotify.com/album/5FZ6eOWqmTlZdczQSgvTzw) | 2:58 | 2023-01-23 | 2023-02-23 |
-| [Dans Med Meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans Med Meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 | 2024-04-11 |  |
+| [Dans Med Meg](https://open.spotify.com/track/2g7232WSHdTpsh3br3ueXt) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [Dans Med Meg](https://open.spotify.com/album/7muCKlH36eZGABYNxTy3vl) | 2:20 | 2024-04-11 | 2024-09-05 |
 | [Dans På Bordet](https://open.spotify.com/track/2D1QHKW5IBDfn7xBGplNS9) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/71606owUcX3aLa6tyCxOqZ) | 2:23 | 2022-02-11 | 2022-02-19 |
 | [Dans På Bordet](https://open.spotify.com/track/56kyGGwLIVAR30ZFiASn8Q) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv), [David Mokel](https://open.spotify.com/artist/7lGq0g80TaLqM8uT9HLAni) | [Dans På Bordet](https://open.spotify.com/album/0324AmCGXDbzi4XRgVVc7g) | 2:23 | 2022-02-18 | 2024-05-20 |
 | [DANSA](https://open.spotify.com/track/63IaMjanvXp9c3f0Y7OImT) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO) | [DANSA](https://open.spotify.com/album/5pe5edaldK4cwvH2Crjgiw) | 2:47 | 2021-10-23 | 2021-11-07 |
@@ -1356,6 +1356,7 @@
 | [Rødvin](https://open.spotify.com/track/7BFmuOloyI4GnPapK0ERcg) | [brvge](https://open.spotify.com/artist/33lBP13fSNr2FdUBXZ7vtK), [Sander Systad](https://open.spotify.com/artist/5Rsadk1NxuiiwWrNzbpEzu) | [Rødvin](https://open.spotify.com/album/0FoZRLFkVlW9MaVYXmjn1k) | 2:09 | 2023-07-08 | 2023-08-13 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-02-06 |
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ) | 2:21 | 2021-09-12 | 2021-09-13 |
+| [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 | 2024-09-04 |  |
 | [SALMALAKS](https://open.spotify.com/track/77CbBhyQwjWgF5EWT76cPY) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [Omar Sheriff](https://open.spotify.com/album/4pUvAgc5wiu5ww3v65wVB7) | 3:52 | 2022-01-29 | 2022-09-11 |
 | [Same Again \(For Love\)](https://open.spotify.com/track/5gbVnjdHLilM1rCoXMiaKT) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Same Again \(For Love\)](https://open.spotify.com/album/2wgTwcm3eDWKgCkr33nTnR) | 3:19 | 2023-06-17 | 2023-07-30 |
 | [Samma gamla vanliga](https://open.spotify.com/track/4hsTQQgfBnBgtBkTGKWS1G) | [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [Samma gamla vanliga](https://open.spotify.com/album/0pDplTjct8PBplJ7s2sL6p) | 2:09 | 2021-07-05 | 2021-11-14 |

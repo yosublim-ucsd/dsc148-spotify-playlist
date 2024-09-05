@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-859 songs - 2 day 8 hr 35 min
+860 songs - 2 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Gift](https://open.spotify.com/track/77VV0IhRZikqbVz6eLMIpY) | [ネオンに恋して](https://open.spotify.com/artist/0nUqLbbcq3ZxXPjaU76nB9) | [LOVE DRIVE](https://open.spotify.com/album/05UHHOq9BVELWwF5Xuqceg) | 4:06 | 2024-02-20 | 2024-07-31 |
 | [Gimme](https://open.spotify.com/track/45NTZvgs7x6GyXvyzfG5fN) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [Gimme](https://open.spotify.com/album/6IaDp8PawQuKoiZpcun410) | 3:31 | 2022-05-24 | 2022-07-29 |
 | [Gimme](https://open.spotify.com/track/4iELGQQnXwloNqbQZ0rfNZ) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/0BSd8vQJG03o2NHVMA7kA5) | 3:31 | 2022-09-13 | 2022-11-02 |
-| [GINGILA](https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [GINGILA](https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry) | 4:52 | 2024-08-14 |  |
+| [GINGILA](https://open.spotify.com/track/4XJYGDYtk5S1NrtTiLFvam) | [UNCHAIN](https://open.spotify.com/artist/02PEhzGH16gaPuzm29f0zL) | [GINGILA](https://open.spotify.com/album/6n7np1WaRKGTc3P5GcKnry) | 4:52 | 2024-08-14 | 2024-09-05 |
 | [GLASS NO PALM TREE \- 2020 Remix](https://open.spotify.com/track/77tmXKuiCWoACwbyyJd4Ry) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [FIRST FINALE REMIX](https://open.spotify.com/album/5hzaK16MfTovy9Xxvuqnla) | 4:33 | 2023-09-26 | 2023-11-18 |
 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 | 2024-02-06 |  |
 | [Good Luck,Good Time](https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3) | [Takuya Kimura](https://open.spotify.com/artist/7jZnmNs4rkoMqljfgaXxF9) | [Next Destination](https://open.spotify.com/album/4iczsnS9GVykkEwh5LpufO) | 4:27 | 2023-07-04 | 2023-08-02 |
@@ -703,6 +703,7 @@
 | [ヘッドフォン・ガール \-翼が無くても\-](https://open.spotify.com/track/5Orb9Ce9nY6IOPjukhpXXW) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [ヘッドフォン・ガール \-翼が無くても\-](https://open.spotify.com/album/7aSfXxSNQBzzEHe3xTX2ls) | 4:56 | 2022-06-02 | 2022-06-04 |
 | [ミスター・サマー](https://open.spotify.com/track/1u3yvu0EGWdYFXjUM53e8J) | [Dally Work’s](https://open.spotify.com/artist/5S07RGRRWgJMPAvs9YIZWa) | [ミスター・サマー](https://open.spotify.com/album/7LLom3bKPRvi6l1RDsJMCE) | 4:00 | 2023-06-20 | 2023-07-13 |
 | [ムーンライトアドバイス](https://open.spotify.com/track/3XHcVhqyMCnAOO0lHaaBXo) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12) | [Music Restaurant Royal Host](https://open.spotify.com/album/1jbldbepC2GKoqyn1ay8y3) | 3:09 | 2022-09-20 | 2022-12-14 |
+| [メトロにゆられて](https://open.spotify.com/track/5OXo1Hk2igFcVdSyWotlzS) | [wyolica](https://open.spotify.com/artist/3QA8WrxreeOmS96ZFvK79n) | [メトロにゆられて](https://open.spotify.com/album/4vWGGPdKj3KhWo4WTUj8sR) | 5:18 | 2024-09-04 |  |
 | [メモリアフロア](https://open.spotify.com/track/56UpxpbqRT8I6vBAMo3BIu) | [Takashi Fujii](https://open.spotify.com/artist/50CvRcUXhLkVVN6jGH9X12), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [メモリアフロア](https://open.spotify.com/album/72XokMMY8qOas8X3zoaySq) | 3:14 | 2022-09-06 | 2023-03-08 |
 | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/track/59MOghNeV6K16bCxsRsaTY) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [蒔田彩珠](https://open.spotify.com/artist/4XORR0FPl43HuS4ZMgSrjg), [髙石あかり](https://open.spotify.com/artist/7C8Jhm5iqg2Wjwte4neNrT) | [メロディ \(feat\. 蒔田彩珠 & 髙石あかり\)](https://open.spotify.com/album/5cnBdECOvU0mv7sXn7snG3) | 3:49 | 2023-09-14 | 2023-11-11 |
 | [モナリザの涙](https://open.spotify.com/track/3M4oUMwKZTewN85bBzZoOM) | [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [モナリザの涙](https://open.spotify.com/album/42gLMIxChPhg6mriBI9Qtf) | 4:55 | 2022-07-12 | 2022-07-16 |

@@ -2,9 +2,9 @@
 
 ### [OUTSIDE](https://open.spotify.com/playlist/37i9dQZF1DWT69BWwm9goV)
 
-> A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Suki Waterhouse
+> A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists\. Cover: Lizzy McAlpine
 
-32 songs - 1 hr 31 min
+34 songs - 1 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Capricorn](https://open.spotify.com/track/4oAGV7IADPWfkpk6aGQqZt) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Only God Was Above Us](https://open.spotify.com/album/1W04wu2W4OIcuiNc5AMB3y) | 4:09 | 2024-06-26 |  |
 | [club heaven \- Live from Spotify Green Screen](https://open.spotify.com/track/3AaRTY18Q5ETuYoQ2wLXDP) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven \(Live from Spotify Green Screen\)](https://open.spotify.com/album/1fe3shDrSWQXIwf32qLFiY) | 2:28 | 2024-04-02 |  |
 | [Coal](https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Coal](https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ) | 3:14 | 2024-04-02 |  |
+| [Come Down Soon \(Spotify OUTSIDE Version\) \- Live from Pasadena](https://open.spotify.com/track/059Yqzlm6TAAd1YI7hKYNW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify OUTSIDE](https://open.spotify.com/album/07MbrTFOyeeDRIiF365e8g) | 4:57 | 2024-09-04 |  |
 | [Cowboy In An Escalade \(Spotify OUTSIDE Version\) \- Live From West Columbia, TX](https://open.spotify.com/track/1w35Va648auSiXaTgimWj0) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [Cowboy In A Escalade \(Spotify OUTSIDE Version\) \[Live From West Columbia, TX\]](https://open.spotify.com/album/4QsqH6RBbMl6OgB47gRc1t) | 2:02 | 2024-04-04 |  |
 | [die first](https://open.spotify.com/track/3TfDUStpnEVIlsNlgcKQgJ) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [young forever](https://open.spotify.com/album/4uoeBpJ631QyWNHw9GqTEn) | 2:57 | 2024-04-02 |  |
 | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/track/6qSx2AFL9pqYPoUrbKyeY5) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Donde Estás \- Live from Spotify Green Screen](https://open.spotify.com/album/7ldQ6NFWnHHiuxsbNYZWbS) | 3:12 | 2024-04-02 |  |
@@ -31,6 +32,7 @@
 | [Low Sun \- \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/track/4nGuaghHjPh6bIX1NNpGLF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Low Sun \(Spotify OUTSIDE Version\) \- Live from Ghost Ranch](https://open.spotify.com/album/18kTggzUoBtbM6dQY3bzQc) | 2:57 | 2024-06-26 |  |
 | [Needs](https://open.spotify.com/track/6sg284TefDkBpFh0317Agp) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BB/ANG3L](https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM) | 2:26 | 2024-04-02 |  |
 | [No Horse To Ride](https://open.spotify.com/track/1KNuxvWSka5wOXQOOOyFsw) | [Luke Grimes](https://open.spotify.com/artist/7Cezk2wEDBPfYCwEuKum1Y) | [Luke Grimes](https://open.spotify.com/album/3z24fpMlBap60LQ1Or1Gq2) | 2:14 | 2024-04-02 |  |
+| [Older](https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 3:21 | 2024-09-04 |  |
 | [One Of Your Girls](https://open.spotify.com/track/5Eh1nj7IjV9lwpcKAkidyY) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E) | 3:01 | 2024-04-02 |  |
 | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/track/3QlLPR0FihjO5CGGfsaxoW) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Prep\-School Gangsters \(Spotify OUTSIDE Version\) \- Live from Queens, NY](https://open.spotify.com/album/4BXnoSeA4uOTWm29ZXDLZu) | 3:23 | 2024-05-31 |  |
 | [run for the hills \(Spotify OUTSIDE Version\) \- Live from Malibu](https://open.spotify.com/track/1gMv5QSRDJ6SwcQGbTtAtB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [Spotify OUTSIDE](https://open.spotify.com/album/6iAheP6Xd45D2CocnMGMmE) | 2:44 | 2024-04-02 |  |

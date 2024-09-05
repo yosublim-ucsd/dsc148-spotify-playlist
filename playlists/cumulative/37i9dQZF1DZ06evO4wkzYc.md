@@ -2,7 +2,7 @@
 
 ### [This Is Edicion Especial](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wkzYc)
 
-> This Is Edicion Especial\. Los temas esenciales, todos en una lista.
+> This is Edicion Especial\. The essential tracks, all in one playlist.
 
 67 songs - 4 hr 5 min
 
@@ -23,8 +23,8 @@
 | [El Chavo \- En Vivo](https://open.spotify.com/track/4Wr7lrIjNOUeOtmPLZK4uz) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chavo \(En Vivo\)](https://open.spotify.com/album/5dEUxpQSGwvUtcSvtO4tG6) | 4:05 | 2024-08-22 |  |
 | [El Chico \- En Vivo](https://open.spotify.com/track/74sZC4Ct0aNy3pCzvWV2bL) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \(En Vivo\)](https://open.spotify.com/album/6nQUSaf8PN31ZjjAl5LFgF) | 2:27 | 2024-08-22 |  |
 | [El Chico \- En Vivo](https://open.spotify.com/track/7o7Ms4ivCjMu0D1HqCCEC8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Chico \- En Vivo](https://open.spotify.com/album/7wZ8CgOGPMikdBgb833Tq2) | 2:27 | 2024-01-29 | 2024-08-22 |
-| [El Cuadros \- Live](https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \(Live\)](https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe) | 4:06 | 2024-01-29 |  |
-| [El Del Ice \- Live](https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \(Live\)](https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U) | 3:36 | 2024-01-29 |  |
+| [El Cuadros \- Live](https://open.spotify.com/track/5nYKgIWaO0z42UjrBaet5x) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Cuadros \- Live](https://open.spotify.com/album/20eftZvtNJDJXXal1uDTCe) | 4:06 | 2024-01-29 |  |
+| [El Del Ice \- Live](https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \- Live](https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U) | 3:36 | 2024-01-29 |  |
 | [El Mago](https://open.spotify.com/track/4wsDPCHzxThEqCx4iYPAIO) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:57 | 2024-01-29 |  |
 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 | 2024-01-29 | 2024-04-27 |
 | [El Nini](https://open.spotify.com/track/2U1NhCp8wc2m4kYZSBeYl4) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Nini](https://open.spotify.com/album/4t9ykJcRqh40msncpBbLF0) | 4:31 | 2024-01-29 |  |
@@ -41,7 +41,7 @@
 | [Hoy Ya Me Voy](https://open.spotify.com/track/5oBed9LF8gyRsVVKZsnwSp) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Hoy Ya Me Voy](https://open.spotify.com/album/5DRB5hx7fVDzXUGoc4YffJ) | 4:19 | 2024-01-29 | 2024-08-22 |
 | [Jimmy Neutron](https://open.spotify.com/track/01P0P9xzhkQ3Mzs2QMzrjr) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:15 | 2024-01-29 |  |
 | [La Fea](https://open.spotify.com/track/6qYIKvPdRn7tIyCv19nFLm) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Fea](https://open.spotify.com/album/0GqDAplr6kDDLQeqoajRNY) | 4:05 | 2024-01-29 |  |
-| [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \(Live\)](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 | 2024-01-29 |  |
+| [La Pareja Ideal \- Live](https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [La Pareja Ideal \- Live](https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR) | 4:09 | 2024-01-29 |  |
 | [La Super Del Barril](https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U) | [La Super Del Barril](https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo) | 3:17 | 2024-01-29 |  |
 | [Luna](https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:34 | 2024-01-29 |  |
 | [Mario Portillo](https://open.spotify.com/track/6i6AvLCXwu6QMAg20eDOjc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:16 | 2024-01-29 |  |

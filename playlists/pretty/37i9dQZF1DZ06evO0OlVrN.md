@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 
 ### [This Is Los Relampagos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OlVrN)
 
-> This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
+> This is Los Relampagos Del Norte\. أغانٍ رائعة في قائمة أغانٍ واحدة.
 
 [Spotify](https://open.spotify.com/user/spotify) - 7,241 likes - 39 songs - 1 hr 56 min
 
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0OlVrN.md) - [plain]
 | 38 | [Veinte Novias](https://open.spotify.com/track/77nPWfw1XzVOSV1LQDM7yi) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:05 |
 | 39 | [Ven a Decirme](https://open.spotify.com/track/5JPYHivczvHw5bjav4COLC) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 2:12 |
 
-Snapshot ID: `ZtUAAAAAAACVuqyNlIjKhiD9cDusZvsj`
+Snapshot ID: `ZtZRgAAAAABrJlRYVqpbNPFW7Zw2bHjX`

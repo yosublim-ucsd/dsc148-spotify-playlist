@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ1RmpoqILAO.md) - [plain]
 
 > indie tunes with country experimentation featuring music from MJ Lenderman 🌟🌟🌟
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,978 likes - 122 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,208 likes - 122 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This Is Botellita De Jerez. Los temas esenciales, todos en una lista.",
-  "num_followers": 3877,
+  "num_followers": 3879,
   "original_name": "This Is Botellita De Jerez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAD2tOlVTdceFrtOyafxUObF",
+  "snapshot_id": "ZtZRgAAAAADfXtBOktRkXQJvsuIuF9fB",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 194066,
-      "name": "Laberinto de la Soledad",
-      "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
+      "duration_ms": 265080,
+      "name": "Ropavejero",
+      "url": "https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 265080,
-      "name": "Ropavejero",
-      "url": "https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr"
+      "duration_ms": 194066,
+      "name": "Laberinto de la Soledad",
+      "url": "https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles",
-        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
       },
       "artists": [
         {
@@ -532,25 +532,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 257946,
-      "name": "Vete Al Averno",
-      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Venganza Del Hijo Del Guacarock",
-        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 40733,
-      "name": "Carefoca\u00b4s Swing",
-      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
+      "duration_ms": 180306,
+      "name": "Dulce Amor",
+      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
     },
     {
       "added_at": null,
@@ -567,22 +551,6 @@
       "duration_ms": 246786,
       "name": "Te Quiero Mucho, Pero Ya No Te Soporto",
       "url": "https://open.spotify.com/track/30TZX7UiJunHYKByAQKqCj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 180306,
-      "name": "Dulce Amor",
-      "url": "https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy"
     },
     {
       "added_at": null,
@@ -628,9 +596,25 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 120426,
-      "name": "Guaca Rocker",
-      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
+      "duration_ms": 40733,
+      "name": "Carefoca\u00b4s Swing",
+      "url": "https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Singles",
+        "url": "https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 257946,
+      "name": "Vete Al Averno",
+      "url": "https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC"
     },
     {
       "added_at": null,
@@ -651,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Amor",
-        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
-      },
-      "artists": [
-        {
-          "name": "Botellita De Jerez",
-          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
-        }
-      ],
-      "duration_ms": 185840,
-      "name": "Tibur\u00f3n A La Vista",
-      "url": "https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Forjando Patria",
         "url": "https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L"
       },
@@ -679,6 +647,38 @@
       "duration_ms": 184760,
       "name": "Vamos a la Alberca",
       "url": "https://open.spotify.com/track/6lwlEDfZNSNESBQOiErgul"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Venganza Del Hijo Del Guacarock",
+        "url": "https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 120426,
+      "name": "Guaca Rocker",
+      "url": "https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Amor",
+        "url": "https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "duration_ms": 185840,
+      "name": "Tibur\u00f3n A La Vista",
+      "url": "https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm"
     },
     {
       "added_at": null,
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 205746,
-      "name": "La Calaca",
-      "url": "https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y"
+      "duration_ms": 186053,
+      "name": "\u00a1Que Se Acaben Los Guapos!",
+      "url": "https://open.spotify.com/track/4OMF4unx7V16o87gijklQd"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 333293,
-      "name": "Negro\u00b4s Blues",
-      "url": "https://open.spotify.com/track/1E94KQQkNKaGHXGYwoAWO8"
+      "duration_ms": 174600,
+      "name": "La Sorpresa",
+      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
     },
     {
       "added_at": null,
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 186053,
-      "name": "\u00a1Que Se Acaben Los Guapos!",
-      "url": "https://open.spotify.com/track/4OMF4unx7V16o87gijklQd"
+      "duration_ms": 205746,
+      "name": "La Calaca",
+      "url": "https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y"
     },
     {
       "added_at": null,
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
         }
       ],
-      "duration_ms": 174600,
-      "name": "La Sorpresa",
-      "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
+      "duration_ms": 333293,
+      "name": "Negro\u00b4s Blues",
+      "url": "https://open.spotify.com/track/1E94KQQkNKaGHXGYwoAWO8"
     },
     {
       "added_at": null,

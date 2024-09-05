@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Theo & Luan, Clayton & Romário
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,439 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,434 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 | 61 | [Público \- Ao Vivo](https://open.spotify.com/track/63OjdM1spOoq2XccwEx2HA) | [Rapha & Leo](https://open.spotify.com/artist/05BcBTSbcgEgbIMzRTOhKs) | [Público \(Ao Vivo\)](https://open.spotify.com/album/727C5Kq5DwQCKGFWsddWSN) | 2:44 |
 | 62 | [Guenta Recaída \- Ao Vivo](https://open.spotify.com/track/0WMglEGNGlmFkr9wTdSrKk) | [Marco Aurélio & Bueno](https://open.spotify.com/artist/0N3cc0QOIYw3YBq76ivMLe), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Guenta Recaída \(Ao Vivo\)](https://open.spotify.com/album/5JHm0ZPG3ePXxNlLk9iQ5t) | 2:33 |
 | 63 | [Minha Loucura de Amor \- Ao Vivo](https://open.spotify.com/track/1uigKf4kN647DGnyVDXnSG) | [Júlio Torres](https://open.spotify.com/artist/44P8fYRg0UVUGcPOuQHEqN), [Fátima Leão](https://open.spotify.com/artist/2d7EIdqRpKN43NEeyDzN83) | [Aô Moçada, Ep\. 3 \- Ao Vivo](https://open.spotify.com/album/0abRBX4YpBmeXDg402NHOj) | 3:37 |
-| 64 | [Cê Nunca Namorou Eu](https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Cê Nunca Namorou Eu](https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7) | 2:35 |
+| 64 | [Cê Nunca Namorou Eu \- Ao Vivo](https://open.spotify.com/track/5Mt3jH3Jwbe7tXVDVzgAmk) | [Pedro e Rafael](https://open.spotify.com/artist/2DFCklgpKvgnjLY8CoCwVZ), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Cê Nunca Namorou Eu \- Ao Vivo](https://open.spotify.com/album/3CfgXVVQFmYAPqBZwYJ0y7) | 2:35 |
 | 65 | [Palavra De Amigo](https://open.spotify.com/track/18H4LNgyOPY8uXGo8XdiWx) | [Rick e Lucas](https://open.spotify.com/artist/0aCAuXwuQ0UoZwJ5ePQqYo), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Palavra De Amigo](https://open.spotify.com/album/0FQYbg7M06FFvSq1b58j46) | 3:45 |
 | 66 | [Beijo De Algema](https://open.spotify.com/track/2XnFC5rOm9AwqJEtR0iGIN) | [Pedro Vitor e Mariana](https://open.spotify.com/artist/0BwOq5L9lhr5zKwayZFYqG), [Moda Music](https://open.spotify.com/artist/2nua9HyiFzlMJmBh6NKplR) | [Beijo De Algema](https://open.spotify.com/album/7yZRtv00yZxGd0AMLVlaGp) | 3:02 |
 | 67 | [Festa dos Solteiros \- Ao Vivo](https://open.spotify.com/track/6yeblJB7KkfXfYWXWlvjms) | [Renan e Leandro](https://open.spotify.com/artist/1k4tgN6H2IDieE4HQec9lE) | [Festa dos Solteiros \(Ao Vivo\)](https://open.spotify.com/album/60El7Nq2nF4qRUxAtzhP50) | 3:26 |

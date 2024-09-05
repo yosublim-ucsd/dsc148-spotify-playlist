@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-435 songs - 23 hr 58 min
+438 songs - 1 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Every Time I Breathe](https://open.spotify.com/track/6wfYL7bN5TEVa434eELtQz) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Every Time I Breathe](https://open.spotify.com/album/2WNgLao3kqyegPrdEshKcA) | 3:03 | 2021-12-27 | 2022-02-21 |
 | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/track/7jnHuJ0HDcAYt7Anv77h4X) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Everything I Did to Get to You \(from Songland\)](https://open.spotify.com/album/40lf12fnzCVNE6t6MV2dvA) | 3:07 | 2021-12-27 |  |
 | [F.A.N](https://open.spotify.com/track/2cWNPMdynPxjeoeWPBH9cB) | [Trap Trap Jr.](https://open.spotify.com/artist/7z5P8x1U9YopcN9zF1nn2M), [3:AM](https://open.spotify.com/artist/2bTfdzLYPyRGwYZ7LYqyoT) | [F.A.N](https://open.spotify.com/album/0DoTL8KE4Ryi4eGJtJkdmi) | 1:55 | 2023-06-22 |  |
+| [Fall into You](https://open.spotify.com/track/1AeSZVz9UrF4m5kQ7KPmUu) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Dancing In The Dark](https://open.spotify.com/album/0735UJg7bIwGmv28e7zQOF) | 2:38 | 2024-09-04 |  |
 | [Family](https://open.spotify.com/track/3uAPRSXcJo3kgdFWAQjy1R) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7), [Anna Kendrick](https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Eric Andre](https://open.spotify.com/artist/65b4bZsoMS43PhlilVEzke), [Daveed Diggs](https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [TROLLS Band Together \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs) | 3:37 | 2023-12-13 |  |
 | [Feelings](https://open.spotify.com/track/0s26En1JoJhVj32vizElpA) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:09 | 2021-12-27 | 2022-11-18 |
 | [Feelings](https://open.spotify.com/track/6r3duEAfFTH83DuoywkG20) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [\~how i'm feeling\~](https://open.spotify.com/album/3ZuE680xhR1A4bCFGvL8mi) | 3:09 | 2022-11-17 |  |
@@ -210,6 +211,7 @@
 | [Just Another Sunset](https://open.spotify.com/track/2NWo9thdl4q6gyHD9t4Tdz) | [Jfx Sound](https://open.spotify.com/artist/6qb9w31WPKfVVfpAYEY126) | [Out of Stress Zone with Yoga & Meditation: Ambient Streams, New Age Electronic Sounds](https://open.spotify.com/album/38YitoGriO1yHp5lP2hpER) | 9:59 | 2023-12-13 |  |
 | [king of the world, pt\. 1](https://open.spotify.com/track/3gKYW1rcm3jgAtDPSUChEl) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:06 | 2023-06-22 |  |
 | [king of the world, pt\. 3](https://open.spotify.com/track/6fh9K3SyISdYR5DSs0BGwc) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Reverie](https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR) | 1:30 | 2023-06-22 | 2023-12-14 |
+| [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/track/5TLe0pvHJ9M3aemysRpogS) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Kiss the Sky \(from The Wild Robot\)](https://open.spotify.com/album/1jVIOXL9M4U6T9B8KWW4TW) | 3:35 | 2024-09-04 |  |
 | [Lead Me On](https://open.spotify.com/track/0dXHRxaBl9mlrBh2XF3cIn) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Lead Me On](https://open.spotify.com/album/2sU1qbQCl9mUgnlciieWtb) | 2:53 | 2024-01-31 | 2024-03-25 |
 | [Lead Me On](https://open.spotify.com/track/4627b0SeGkBoYKejSG6XXJ) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:53 | 2024-03-24 | 2024-05-24 |
 | [Lead Me On](https://open.spotify.com/track/4Rp2SBHnd68nEBvpKX8sTA) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/5QWMCRZ2PfAUOTslrs3wGg) | 2:53 | 2024-05-23 |  |
@@ -308,6 +310,7 @@
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 3:12 | 2022-09-08 |  |
 | [One by One](https://open.spotify.com/track/5NWDFtv61Vwg2cE56awht8) | [Michael Fracasso](https://open.spotify.com/artist/0JF0a1wWCocCDgQrVeZo5x) | [When I Lived in the Wild](https://open.spotify.com/album/5PG35kl9QMtkoFzgbylOzv) | 4:32 | 2023-06-22 | 2023-12-14 |
 | [One By One \(Silver Nikan Remix\)](https://open.spotify.com/track/0Uu2PPV5YvadQOFntVdnRI) | [DeeVibez](https://open.spotify.com/artist/1mDioypI9Cs06ygaLMRt5l) | [One By One](https://open.spotify.com/album/7wIY5m6krkZkMlRHnxV3Ot) | 6:43 | 2023-12-13 |  |
+| [Other People](https://open.spotify.com/track/3P1kMuiZGH7dTItGObGKTA) | [Daniel Seavey](https://open.spotify.com/artist/21z8to3YxZXgKYJpBB54P2) | [Other People](https://open.spotify.com/album/75L5T6Dt03DU6dowoKX5v0) | 3:37 | 2024-09-04 |  |
 | [Out Of My Head](https://open.spotify.com/track/6ovkLF42qFLN7VqKX0r0jT) | [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [single.](https://open.spotify.com/album/6XeL8rkWXe5pUdg2uGqmak) | 3:34 | 2021-12-27 |  |
 | [Paralysed](https://open.spotify.com/track/1SD6lwPNEb656mfWu8O6yI) | [Union J](https://open.spotify.com/artist/7DTZkttLXeUXamkocrRzeh) | [Ten](https://open.spotify.com/album/7hCYO8JXU2Ecp8oFezxD9w) | 3:42 | 2023-12-13 |  |
 | [Paranoid](https://open.spotify.com/track/2wCVpdNSHjqIn2en8jAnF0) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [I met you when I was 18\. \(the playlist\)](https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS) | 3:12 | 2021-12-27 | 2022-11-03 |

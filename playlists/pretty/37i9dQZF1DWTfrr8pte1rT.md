@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a Drop\. Cover: HVDES \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,872 likes - 125 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,945 likes - 125 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

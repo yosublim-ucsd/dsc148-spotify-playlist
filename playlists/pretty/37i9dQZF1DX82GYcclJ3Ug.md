@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: Orla Gartland
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,125,148 likes - 137 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,125,215 likes - 137 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 51 | [Seasons & Narcissus](https://open.spotify.com/track/1yT4qMKeA7Hr06veApFMgv) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [“&” \(Ampersand\), Part One](https://open.spotify.com/album/14gwVejGdggFC3UspqGWOC) | 3:29 |
 | 52 | [Rock N Roller](https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Rock N Roller](https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K) | 3:43 |
 | 53 | [Stay Golden](https://open.spotify.com/track/45OEuZMTUGnI03JnjuLs7x) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Stay Golden](https://open.spotify.com/album/4dC2p95PixzWkTym8R9Z25) | 2:53 |
-| 54 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
+| 54 | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/track/1jAhvw24wQv2puNASTzFvM) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas), [Adam Granduciel](https://open.spotify.com/artist/73KiP7jo5pwsmaAjFZOCY4) | [Old Tape \(feat\. Adam Granduciel\)](https://open.spotify.com/album/2hnTUBlcbAPk0fcnQi1jyn) | 3:32 |
 | 55 | [Death Valley High](https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Death Valley High](https://open.spotify.com/album/1z4pInY9WWAOfzWklGV4cb) | 2:40 |
 | 56 | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/track/2CcH3jT1sLd06JU4VVBTq9) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Die For Me \(feat\. Lil Yachty\)](https://open.spotify.com/album/0CFYKSZZuRcAypaOSBGlJb) | 3:26 |
 | 57 | [Price On Fun](https://open.spotify.com/track/3Hf0FdUs6M72wuzvmUGqDA) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [You Can't Put A Price On Fun](https://open.spotify.com/album/1l4BHtwsAmmLTkiP1dP3k9) | 3:22 |

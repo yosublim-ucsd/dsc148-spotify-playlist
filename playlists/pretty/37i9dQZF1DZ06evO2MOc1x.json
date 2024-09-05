@@ -1,12 +1,12 @@
 {
-  "description": "This is Bonnie Raitt. The essential tracks, all in one playlist.",
-  "num_followers": 49365,
+  "description": "This Is Bonnie Raitt. Les titres incontournables, r\u00e9unis dans une seule et m\u00eame playlist.",
+  "num_followers": 49372,
   "original_name": "This Is Bonnie Raitt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAA/1lCGxOzXYmvJSmuVA1i9",
+  "snapshot_id": "ZtZRgAAAAAD6kfcJah8CgjuEFYVWHdsK",
   "tracks": [
     {
       "added_at": null,
@@ -263,8 +263,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Longing In Their Hearts",
-        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 219866,
-      "name": "Dimming Of The Day",
-      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
+      "duration_ms": 228640,
+      "name": "Love Has No Pride - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+        "name": "Longing In Their Hearts",
+        "url": "https://open.spotify.com/album/5mkkuHwxHfE9yqafBFSLLI"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
         }
       ],
-      "duration_ms": 228640,
-      "name": "Love Has No Pride - 2008 Remaster",
-      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
+      "duration_ms": 219866,
+      "name": "Dimming Of The Day",
+      "url": "https://open.spotify.com/track/3g3ngs81nNMZn6kW1BA8Hs"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Runaway - 2008 Remaster",
+      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bonnie Raitt And Friends",
         "url": "https://open.spotify.com/album/4qt6BOh1VgNCyNyKYnFb5A"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 339466,
       "name": "You - Live",
       "url": "https://open.spotify.com/track/6mG1WZbhkUsTSJRhdfYP78"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sweet Forgiveness",
-        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 235773,
-      "name": "Runaway - 2008 Remaster",
-      "url": "https://open.spotify.com/track/7ldCklGtxrVxpmdt1el897"
     },
     {
       "added_at": null,

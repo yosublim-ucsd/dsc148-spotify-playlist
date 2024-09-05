@@ -4,7 +4,7 @@
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: TJ Monterde
 
-142 songs - 9 hr 3 min
+143 songs - 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Gupit \(with Alamat\)](https://open.spotify.com/track/2DK8sb1DDQ3r9gJ602NP5W) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv), [Alamat](https://open.spotify.com/artist/5n85IrVFHhxKEa65tcXFgW) | [Gupit \(with Alamat\)](https://open.spotify.com/album/6q8e4tluebb674QYLTMyot) | 3:19 | 2024-07-02 | 2024-08-24 |
 | [Halikana](https://open.spotify.com/track/2bdSVYtbQe5RWW6g4kXIsO) | [Ryannah J](https://open.spotify.com/artist/6qmz5baFW3JXKU7jUv3vJD), [Baby Blood](https://open.spotify.com/artist/43mQpC11b5yKRPDURZOC76), [NEXXFRIDAY](https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd) | [Halikana](https://open.spotify.com/album/6YOAxlb0s1MCSyfWsTdka3) | 3:23 | 2024-08-14 |  |
 | [Hanggang Kailan](https://open.spotify.com/track/2i1TTUWdQlntOpxMZKVzf9) | [Darren Espanto](https://open.spotify.com/artist/0u4G1K1CSzcp5PZ6G6FIGu) | [Hanggang Kailan](https://open.spotify.com/album/1d8wq7e8BiL3c0RVdiDju3) | 3:53 | 2024-07-02 | 2024-07-13 |
+| [Hayaan](https://open.spotify.com/track/2XJh7f9YrJlvXOq4OH0Lfa) | [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Hayaan](https://open.spotify.com/album/2pIQmW7vmDdmVY5qOjCjWS) | 5:49 | 2024-09-04 |  |
 | [Hey You](https://open.spotify.com/track/5VbhpRXYHv8encAvLTk9AE) | [Janella Salvador](https://open.spotify.com/artist/5TNuvf8y7Y3QLXsNaIYCYX) | [Hey You](https://open.spotify.com/album/6Ux8KoRZJYi5td2vKRFd6J) | 4:31 | 2024-07-02 | 2024-08-17 |
 | [Hirana](https://open.spotify.com/track/6mOhNJfrKXWD5SnrqPwR6o) | [CRIMASON](https://open.spotify.com/artist/2omAS3u3ZQaxiWXA9OmiWj) | [Hirana](https://open.spotify.com/album/6ZRHYWB8uI6CjfBHTyLAhS) | 4:56 | 2024-07-02 | 2024-07-13 |
 | [Hiraya](https://open.spotify.com/track/7hKefTBNDE5VuVruNmvu5N) | [Paham](https://open.spotify.com/artist/41NKF8NtYx7ZlfIUMwCJ1v) | [Hiraya](https://open.spotify.com/album/7nb9CSpOvsRJbrCXPLIJtt) | 4:12 | 2024-07-02 | 2024-07-09 |

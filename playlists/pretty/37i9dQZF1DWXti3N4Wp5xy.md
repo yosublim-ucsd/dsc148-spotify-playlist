@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXti3N4Wp5xy.md) - [plain]
 
 > A perfect little pop party.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,719 likes - 150 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,818 likes - 150 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

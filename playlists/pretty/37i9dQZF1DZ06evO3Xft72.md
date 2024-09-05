@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 
 > This is Def Leppard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,578 likes - 51 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,601 likes - 51 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Xft72.md) - [plain]
 | 44 | [Paper Sun](https://open.spotify.com/track/6Ap9ZlHD4EGNcpiOwX9wGc) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Euphoria](https://open.spotify.com/album/7EAgGLOZoYNm5P5rF5IjV2) | 5:27 |
 | 45 | [Tonight](https://open.spotify.com/track/5Q4M16AsBdGZc31KDm0kU8) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 4:03 |
 | 46 | [Now](https://open.spotify.com/track/71sHC5AHCow7uIka7RWztY) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [X](https://open.spotify.com/album/3if8cfZD6MuAc5UmwBd6By) | 4:00 |
-| 47 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
-| 48 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
+| 47 | [Tear It Down](https://open.spotify.com/track/3pH9Vu1LNBXMUptZbmipFF) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Hysteria \(Super Deluxe\)](https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE) | 3:37 |
+| 48 | [Personal Jesus \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Spotify Singles](https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6) | 3:56 |
 | 49 | [I Wanna Touch U](https://open.spotify.com/track/3P0dOhy7Vz9KIub2Ay1b2x) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Adrenalize](https://open.spotify.com/album/7FKcbsCm4eoDWTMTNCUUqw) | 3:37 |
 | 50 | [Dangerous](https://open.spotify.com/track/3o49Lb4VSVmuT0yzLYuxHo) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Def Leppard](https://open.spotify.com/album/2GpOJTgMzlHlqIREzGh7he) | 3:26 |
 | 51 | [Undefeated](https://open.spotify.com/track/7w2W2XIem4XdNfgSQzbypm) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [Mirror Ball – Live & More](https://open.spotify.com/album/3dAgxpN9US0pj3OB3hOq32) | 4:40 |
 
-Snapshot ID: `ZtUAAAAAAAB4m3XkQ8YNaNu2ymIBDsT5`
+Snapshot ID: `ZtZRgAAAAABMB/BLaMFQpV4kLneQVU+c`

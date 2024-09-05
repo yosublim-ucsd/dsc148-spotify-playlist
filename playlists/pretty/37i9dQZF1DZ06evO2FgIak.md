@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 
 ### [This Is Muddy Waters](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2FgIak)
 
-> This is Muddy Waters\. The essential tracks, all in one playlist.
+> This Is Muddy Waters\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,176 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,183 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FgIak.md) - [plain]
 | 39 | [Mannish Boy \(feat\. Muddy Waters\) \- Concert Version](https://open.spotify.com/track/1iL5y9axvIm4Hel8OSYsOr) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Last Waltz \(Deluxe Version\)](https://open.spotify.com/album/7uqVE9qWdqjtDeLpdHyMxP) | 6:40 |
 | 40 | [Down The Road I Go \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/1sY1hthrks1zXGCWF8c2V3) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Mojo Buford](https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 6:20 |
 | 41 | [Diddley Daddy](https://open.spotify.com/track/1rgDmiw0dWFmMq7oIM2GL3) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 5:11 |
-| 42 | [Feel Like Going Home](https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:57 |
+| 42 | [Can't Get No Grindin' \(What's The Matter With The Meal\)](https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Can't Get No Grindin'](https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ) | 2:46 |
 | 43 | [Black Cat Bone / Dust My Broom \- Live](https://open.spotify.com/track/2BOmAaz4fIMMFTGwT05NvS) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO), [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Breakin' It Up, Breakin' It Down](https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl) | 5:53 |
 | 44 | [You done lost your good thing now \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/2OKm8Qukylwyd8yFTrLDWP) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Pee Wee Madison](https://open.spotify.com/artist/5ZRzXIj0gQi03FpgQ9lTh4) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 7:32 |
-| 45 | [Can't Get No Grindin' \(What's The Matter With The Meal\)](https://open.spotify.com/track/3AKs9gBENThKxpSPAGEWgA) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Can't Get No Grindin'](https://open.spotify.com/album/4lpsTbPd0zSyBewg5cPfwZ) | 2:46 |
-| 46 | [What Is That She Got \- Live At Mr\. Kelly's/1971](https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters: Live \(At Mr\. Kelly's\) \[Reissue\]](https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk) | 4:40 |
-| 47 | [I Want to Be Loved \#2](https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hard Again](https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q) | 2:21 |
+| 45 | [What Is That She Got \- Live At Mr\. Kelly's/1971](https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Muddy Waters: Live \(At Mr\. Kelly's\) \[Reissue\]](https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk) | 4:40 |
+| 46 | [I Want to Be Loved \#2](https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hard Again](https://open.spotify.com/album/11pwCi0JWNahMuu9ViIx3Q) | 2:21 |
+| 47 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
 | 48 | [Big Legged Woman \- Live Boston August 22nd.1972 \- Restauración 2024](https://open.spotify.com/track/3fQVodoQllFlEeGDEOpqiV) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Pee Wee Madison](https://open.spotify.com/artist/5ZRzXIj0gQi03FpgQ9lTh4) | [Muddy Waters Live Boston August 22nd\. 1972 \(Restauración 2024\)](https://open.spotify.com/album/1MhdCXMVY4TMQbdtE4LcBx) | 3:54 |
-| 49 | [Who Do You Love](https://open.spotify.com/track/1BaGFTIPeL32MpF9eUVguh) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Super Blues](https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s) | 4:14 |
+| 49 | [You Gonna Need My Help](https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Folk Singer \(Expanded Edition\)](https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7) | 3:13 |
 | 50 | [Sugar Sweet \- 1955 Single Version](https://open.spotify.com/track/57EUcSzG8IdY70NoeOUycb) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [Hoochie Coochie Man: Complete Chess Masters \(Vol\. 2: 1952\-1958\)](https://open.spotify.com/album/2vbTviLzQVGNe8rGCOyyQo) | 2:29 |
 
-Snapshot ID: `ZtUAAAAAAAAJvjDvGJsE9+4B6AWDgAb2`
+Snapshot ID: `ZtZRgAAAAADYEDfOpy+PWPqKDdbPlGtL`

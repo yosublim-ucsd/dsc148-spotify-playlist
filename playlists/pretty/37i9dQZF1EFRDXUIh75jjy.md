@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3lU5u0XAQ25ta8AmlI0SCB">Steph Jones</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 591 likes - 194 songs - 10 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 590 likes - 194 songs - 10 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 108 | [Bubbles](https://open.spotify.com/track/2Z1hvUB3unIudQSRVGTBC2) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Three Dimensions Deep](https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU) | 2:38 |
 | 109 | [Can't Stay Mad](https://open.spotify.com/track/2caU93YaWxERJpGB0ZXnUw) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:27 |
 | 110 | [on my way](https://open.spotify.com/track/2D9VGKzODKblwcTxaxZhIt) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Tulip Drive](https://open.spotify.com/album/20dZqC8aUO4ip6aqAPymYL) | 2:57 |
-| 111 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
-| 112 | [I Wanna](https://open.spotify.com/track/1IXfNzFG3JdrjBt8VPDjC6) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:30 |
-| 113 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
-| 114 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 |
+| 111 | [Roses](https://open.spotify.com/track/6fqbblMIytVYfUn8ra4bdV) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Roses](https://open.spotify.com/album/7I1rq9232iROAhn1YTYKcc) | 3:10 |
+| 112 | [Plastic Purse](https://open.spotify.com/track/51XzyvRLe38bouIZCv5itX) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SUCKERPUNCH](https://open.spotify.com/album/04fys4zcFF3rawoRTl1Lgw) | 2:23 |
+| 113 | [I Wanna](https://open.spotify.com/track/1IXfNzFG3JdrjBt8VPDjC6) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:30 |
+| 114 | [Don't Feel Like Fighting](https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Life Love & Madness](https://open.spotify.com/album/57nDa2V6zo9QDKZLpTLtBx) | 3:03 |
 | 115 | [If I Fall](https://open.spotify.com/track/6SLqAWFmEBEyjU4QIuEIsc) | [Cole Plante](https://open.spotify.com/artist/0BmgT51Y8JI74rlRK7YcAL), [Myon & Shane 54](https://open.spotify.com/artist/0uXRsluXdi5LtEs8DoFknc), [Ruby O'Dell](https://open.spotify.com/artist/0f2gU2tbpYHLSKtFBnxdg9) | [If I Fall](https://open.spotify.com/album/28HsMk0oE0r8voVBAuSkJJ) | 4:15 |
 | 116 | [Cozy](https://open.spotify.com/track/6c4RrBGXMbzuhj8XwzzWWW) | [Jacob Sartorius](https://open.spotify.com/artist/6czdbISBoxGckbBX8F4m8L) | [Cozy](https://open.spotify.com/album/4UMAPxQmkZDLjJYl3tyHu7) | 2:25 |
 | 117 | [Ring](https://open.spotify.com/track/61YRwJhh806c08P61ZWKc5) | [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [How it Used to Feel](https://open.spotify.com/album/1LqOKFe0jiCnmbRfuatV2b) | 3:40 |
@@ -136,10 +136,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 126 | [Circles](https://open.spotify.com/track/40EouT4GbFzSTyxs447pBv) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Girl Problems](https://open.spotify.com/album/6toYxO6NCaUTUI0g5w2CEq) | 3:41 |
 | 127 | [Out My Mind](https://open.spotify.com/track/6FB5eizWGtG9hXpWBJwPit) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Slow Dance](https://open.spotify.com/album/3BN8juNaSxMdwagm6RBvwh) | 3:15 |
 | 128 | [In My Head](https://open.spotify.com/track/22YECKvXAQGWpsUUULCWcM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Good Luck, Kid](https://open.spotify.com/album/4Nz2TKH4snc8EZMhsMDjgi) | 3:22 |
-| 129 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
-| 130 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
-| 131 | [Selfish](https://open.spotify.com/track/04xYbJK43PdehhM2AA4fhi) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 2:50 |
-| 132 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 129 | [Hate It Here](https://open.spotify.com/track/4ppkdy0KDApHApfR5R4OIL) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
+| 130 | [Part Time Lover](https://open.spotify.com/track/5swD4enZDl1r6ynQsTGHJa) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Part Time Lover](https://open.spotify.com/album/0OcjuVP8kAUL2LnNUZwjLa) | 2:53 |
+| 131 | [You're Cool](https://open.spotify.com/track/2bWIYp9KRcClACWoQtytU1) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Not Afraid to Say Goodbye](https://open.spotify.com/album/76ahXbGodPCqMpKrTHWCpe) | 2:28 |
+| 132 | [Selfish](https://open.spotify.com/track/04xYbJK43PdehhM2AA4fhi) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story : RETOLD](https://open.spotify.com/album/1W8HpoJr9zJmNxBYP8uCT9) | 2:50 |
 | 133 | [Hanging On](https://open.spotify.com/track/6hDXJbOh3PmAO8d6NSfSEv) | [Quinn Lewis](https://open.spotify.com/artist/5n69lhq7BLWqnSjJgNPRh4) | [Hanging On](https://open.spotify.com/album/0PlU5KBD4gYLyee8ixByoR) | 2:51 |
 | 134 | [Nevermind](https://open.spotify.com/track/2pGb1wcW7PfIJulOQ3G9Cw) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Nevermind](https://open.spotify.com/album/2w0LOmjGXqQ44zGDcW1lAa) | 2:21 |
 | 135 | [Chameleon](https://open.spotify.com/track/2dUbh6RaHpDQd8gTlu2hUg) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Chameleon](https://open.spotify.com/album/2sHZNoBTXZmva4P2CD7DNT) | 3:06 |
@@ -166,8 +166,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 156 | [Sore Loser](https://open.spotify.com/track/2vzDOmaJO7sAJQmwuH1Kna) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J), [Charlie Hickey](https://open.spotify.com/artist/4Ky0ZDJDfY7UBbTVYPyVKc) | [Marginalia \(Deluxe\)](https://open.spotify.com/album/4hHP4S8QfwXBFyXUd5TOC9) | 3:08 |
 | 157 | [Knock](https://open.spotify.com/track/2joLxoigsMO8cfWpjgbn0M) | [Brooke Eden](https://open.spotify.com/artist/6TFhESBLRTi95wmI1dRFVt) | [Choosing You](https://open.spotify.com/album/3ic1j88D0kLfyBKotz1RFP) | 3:19 |
 | 158 | [it's us](https://open.spotify.com/track/6lUV4RcPycER5am574exMD) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:13 |
-| 159 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 |
-| 160 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
+| 159 | [IT'S ALL GOOD](https://open.spotify.com/track/7yaeNwiYNogSFeehnPWwxS) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU), [Michael Franti & Spearhead](https://open.spotify.com/artist/1mHuZMOP8FG5ip4yAb1vrB) | [THESE ARE THE DAYS](https://open.spotify.com/album/1AJALAmmWZ7esphVavr66K) | 3:03 |
+| 160 | [Watercolor Flowers](https://open.spotify.com/track/6l9MmERiCcHyTIU3fZI9Gt) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [CHAPTER 4: The End](https://open.spotify.com/album/1I3cIvKGqoFQKnlLFhT9Lx) | 2:48 |
 | 161 | [God Made Fridays](https://open.spotify.com/track/4rIBtj2jHi8nIVfV7KeWy4) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 2:43 |
 | 162 | [Tell Me](https://open.spotify.com/track/2DDlpZmYVGlkVBJHN2YgSP) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Turning Point](https://open.spotify.com/album/4M9Twnws1UtTJJvNR60BmG) | 4:00 |
 | 163 | [wrong girl](https://open.spotify.com/track/5h5gQnX1FaFVYRhReyGQUV) | [Lindsay Ell](https://open.spotify.com/artist/4lpA7MWpQpY7hKkwfLxw2Q) | [heart theory](https://open.spotify.com/album/4aWrYo1HHAwk367y7PJzIm) | 2:36 |
@@ -203,4 +203,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRDXUIh75jjy.md) - [plain]
 | 193 | [Tidal Wave](https://open.spotify.com/track/4ZNjc5TKVprUo1e9NzeCqQ) | [Paulina Jayne](https://open.spotify.com/artist/2VQ1JuL4CakwuJVSgaNBDg) | [Paulina Jayne](https://open.spotify.com/album/4OxqxKz3fmSAcAr1clBfxV) | 3:08 |
 | 194 | [Damage](https://open.spotify.com/track/0QsUCwtJBqLqv8SPexwnfk) | [Aaron Miller Hill](https://open.spotify.com/artist/6JzrBm54EjeRxn01EKjvLe) | [Occasus](https://open.spotify.com/album/3i3SSeZSTyyvlZtaRjjXvq) | 3:36 |
 
-Snapshot ID: `AbbL/gAAAADznqc+azw1Q5K9Hc0qPxda`
+Snapshot ID: `AbbRlQAAAACHhSbIHUFotpzb3ZpBk+ep`

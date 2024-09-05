@@ -3555,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171869,
+      "name": "Bed Chem",
+      "url": "https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF"
+    },
+    {
+      "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/0k7ALIqqds5oGFtpMsaHLK"
       },
@@ -8534,7 +8552,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 289560,
       "name": "Don't Look Back In Anger - Remastered",
       "url": "https://open.spotify.com/track/12dU3vAh6AFoJkisorfoUl"
@@ -22378,7 +22396,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 113103,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7w1T7MBVRvq4pmTF8WfSME"
@@ -27502,7 +27520,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 206340,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/4PPwTxASRmrUkAJ08Fd0Hg"
@@ -29602,7 +29620,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 160800,
       "name": "Que Me Amas",
       "url": "https://open.spotify.com/track/7h6XYv5S9ef4Dd9fpK3F7D"
@@ -34548,7 +34566,7 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"

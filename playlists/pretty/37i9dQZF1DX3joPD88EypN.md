@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 
 > The sound of Jazz from the nordics\. Cover: Jan Garbarek
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,841 likes - 100 songs - 8 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,877 likes - 100 songs - 8 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3joPD88EypN.md) - [plain]
 | 79 | [9](https://open.spotify.com/track/2buYb32JUcXvH1PLwTc8Cu) | [Agnas Bros](https://open.spotify.com/artist/5vGzJvLmR1rxxu1jgDWlJp) | [Lycka till med musiken](https://open.spotify.com/album/2sDcUMzVTuwXFVXOU0ueNL) | 9:04 |
 | 80 | [The Lilly Flower \- Liljankukka](https://open.spotify.com/track/0GPpNpnx62fCmifnzd3gVL) | [Niels Lan Doky](https://open.spotify.com/artist/4aRjcECzLWpoxbzYFaevhV) | [Scandinavian Standards](https://open.spotify.com/album/3VODRpK2OCjnnBhNnqcQQt) | 5:06 |
 | 81 | [Kingdom of Coldness](https://open.spotify.com/track/2bS340pgBoL6phEsVMMMDT) | [Bobo Stenson Trio](https://open.spotify.com/artist/1BKStidrseaPjyjQjL3yxV) | [Kingdom of Coldness](https://open.spotify.com/album/6U8xbucEMNpSIIACYNdXWY) | 7:37 |
-| 82 | [Cinematic](https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Cinematic](https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2) | 8:07 |
-| 83 | [Rossetti](https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP) | [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Tommy Smith](https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO), [Paolo Vinaccia](https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ) | [Mira](https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM) | 5:35 |
+| 82 | [Rossetti](https://open.spotify.com/track/4ilwrLj110VpFtHbv3SrIP) | [Arild Andersen](https://open.spotify.com/artist/1XNQGT010JcXsJIbUE6j4m), [Tommy Smith](https://open.spotify.com/artist/2LbRiVusjtrdBlE4lkXxfO), [Paolo Vinaccia](https://open.spotify.com/artist/6KRqpgcx3IlzqHGiyrBHbJ) | [Mira](https://open.spotify.com/album/7tjHDePOLgWEjAMzUZKMAM) | 5:35 |
+| 83 | [Cinematic](https://open.spotify.com/track/3XKc6VFBNCCkd5vAs45Psd) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Cinematic](https://open.spotify.com/album/3ENnQUmuL81kiXanIh6YT2) | 8:07 |
 | 84 | [Seaweed](https://open.spotify.com/track/4zsuEGITGJszGI2Qntozhe) | [Trondheim Jazz Orchestra](https://open.spotify.com/artist/0fdeKZTscGBWSYyKcltGWw), [Albatrosh](https://open.spotify.com/artist/3tKMUGzQEHu1e301XqOmHR) | [Tree House](https://open.spotify.com/album/13JdDMG0dpUGtqylZNiRDG) | 7:29 |
 | 85 | [Hjorten i skogen](https://open.spotify.com/track/2yJIwvrRF8OnwFJ8GV81oZ) | [Moskus](https://open.spotify.com/artist/5olyNH3GQns8kKDujdG5oa) | [Hjorten i skogen](https://open.spotify.com/album/1msMWUc2k6bMgdUlzXjyFW) | 7:05 |
 | 86 | [På havets bunn](https://open.spotify.com/track/2vSfGunb5DZxIWeiKxvXOc) | [Maridalen](https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ), [Erland Dahlen](https://open.spotify.com/artist/2i6XzcJWLtgscJFmzMRiPn) | [På havets bunn](https://open.spotify.com/album/1IEAMA5b2cH0TmEc4vFbnK) | 3:32 |

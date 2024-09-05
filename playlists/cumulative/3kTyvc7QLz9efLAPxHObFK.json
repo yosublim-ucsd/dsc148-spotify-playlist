@@ -8655,6 +8655,28 @@
     },
     {
       "album": {
+        "name": "Sense of Freedom",
+        "url": "https://open.spotify.com/album/5oMnMfPEFJqPRK9oaO659x"
+      },
+      "artists": [
+        {
+          "name": "Republic",
+          "url": "https://open.spotify.com/artist/3b2nFKYSMKcxy0kV1hTqFt"
+        },
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178571,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/0VQCry3a1LTmU3BZYhl9dj"
+    },
+    {
+      "album": {
         "name": "New Age Of Rave",
         "url": "https://open.spotify.com/album/22fTTNJUT1KNs7I1XJKS6k"
       },

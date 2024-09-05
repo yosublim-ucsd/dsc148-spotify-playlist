@@ -114,10 +114,28 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 256901,
       "name": "11",
       "url": "https://open.spotify.com/track/0oAzD4paJjiaqZM4s2fkJ6"
+    },
+    {
+      "album": {
+        "name": "I Can Feel My Dreams",
+        "url": "https://open.spotify.com/album/14SSpIBg8GGfVgThO9VlTB"
+      },
+      "artists": [
+        {
+          "name": "Damian Dalla Torre",
+          "url": "https://open.spotify.com/artist/2ZcNubl5ligYVy7MCs2JJ9"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Acryl",
+      "url": "https://open.spotify.com/track/56Wpf80guuziEQ5Yz2nI5V"
     },
     {
       "album": {

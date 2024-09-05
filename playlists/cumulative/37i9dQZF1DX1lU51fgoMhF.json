@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Band Aid",
+        "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
+      },
+      "artists": [
+        {
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165587,
+      "name": "Melt Down",
+      "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
+    },
+    {
+      "album": {
         "name": "Memories",
         "url": "https://open.spotify.com/album/2oPFVwB8gXNDjVGA9wDmMT"
       },
@@ -5828,7 +5846,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-05",
       "duration_ms": 200493,
       "name": "Summer Comes",
       "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"

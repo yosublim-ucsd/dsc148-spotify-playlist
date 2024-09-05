@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Patrick the Pan
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,281 likes - 100 songs - 5 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,300 likes - 100 songs - 5 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 73 | [BIAŁY BEZ](https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp) | [Rosalie.](https://open.spotify.com/artist/65RQbLHJIWPfWwxYJ5a5BZ), [Chloe Martini](https://open.spotify.com/artist/6vhgsnZ2dLDaLDog3pqP2d), [Dawid Podsiadło](https://open.spotify.com/artist/6EB8VE9f7Ut6NOgviN6gDW) | [NIE CIERPIE NIE](https://open.spotify.com/album/02e0lE7f2bukYoOJWwBSPT) | 3:44 |
 | 74 | [Szum](https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii) | [Kaśka Sochacka](https://open.spotify.com/artist/3ClL18AtCAPwXVT6mUkBDN) | [Szum](https://open.spotify.com/album/2S6yeWf41bXsVaVnQ8AskE) | 3:53 |
 | 75 | [Teardrop](https://open.spotify.com/track/0SW9AngyutPHZOOqU5gT8H) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3) | [Teardrop](https://open.spotify.com/album/3zOyxQ0GuRrMXDAeOSviEW) | 4:07 |
-| 76 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 |
+| 76 | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/track/3u7NG0qKoxZPbdLiz2G6lp) | [PROJEKT WOW](https://open.spotify.com/artist/5PMVw2BdUOLVhFe0Hibkms), [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL), [Piotr Odoszewski](https://open.spotify.com/artist/46nannj2VJWVBAgoh7EvSk), [Kajetan Wolas](https://open.spotify.com/artist/6tpxFh5TlBxnHzrAfFlCXj) | [Miliony monet \(feat\. Wiktor Waligóra, Piotr Odoszewski & Kajetan Wolas\)](https://open.spotify.com/album/3ZrD1SPVM3EUSqbUM9AgW0) | 2:52 |
 | 77 | [epicentrum](https://open.spotify.com/track/2gCNm0DrdB0kbhFSfGsC0O) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [epicentrum](https://open.spotify.com/album/5Nnjs9uBxHkRpn3t2yn5my) | 2:19 |
 | 78 | [chcę cię więcej](https://open.spotify.com/track/3gFH7qSBnk9iGnYfxE3hFb) | [Faustyna Maciejczuk](https://open.spotify.com/artist/3CIcRH4j4mWpUv8n2UrImj) | [chcę cię więcej](https://open.spotify.com/album/5raJPtPXkkmxfna8ouSqpF) | 2:35 |
 | 79 | [Sejsmografy](https://open.spotify.com/track/0QmFlAssO2rGhUfCXZ46YW) | [Greg Strangler](https://open.spotify.com/artist/4GNfmsk4UMneqeoOldw3vN) | [Sejsmografy](https://open.spotify.com/album/1qdvZgDYoLEh1I1ic8rBUO) | 3:07 |

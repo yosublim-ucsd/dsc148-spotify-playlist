@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:6XNVOebbeiowkj9FJwvc7m">Karen Espinosa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,753 likes - 98 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,769 likes - 98 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

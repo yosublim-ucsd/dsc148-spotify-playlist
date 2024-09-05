@@ -1103,6 +1103,44 @@
     },
     {
       "album": {
+        "name": "Julie Cooper: Oculus",
+        "url": "https://open.spotify.com/album/0K3k8wYtwcI5F68FSQAgaG"
+      },
+      "artists": [
+        {
+          "name": "Julie Cooper",
+          "url": "https://open.spotify.com/artist/3Orwjks4n4xieFN72XQDQa"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+        },
+        {
+          "name": "Her Ensemble",
+          "url": "https://open.spotify.com/artist/60LMcgWPaQLRwx8dZicM3z"
+        },
+        {
+          "name": "Camilla Pay",
+          "url": "https://open.spotify.com/artist/7yWnwEs8QVQL4cHlbPvwkG"
+        },
+        {
+          "name": "Oculus Ensemble",
+          "url": "https://open.spotify.com/artist/5ztcfnJe9BZtxFnnEIBvYW"
+        },
+        {
+          "name": "Jessica Cottis",
+          "url": "https://open.spotify.com/artist/47Slf02gu2TPZk3H1UbQJT"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305693,
+      "name": "MOONGLADE in Jet Black",
+      "url": "https://open.spotify.com/track/4WOAF20NzYuD8ftfANhuog"
+    },
+    {
+      "album": {
         "name": "eighth blackbird meanwhile",
         "url": "https://open.spotify.com/album/42LHToYisj1n2ZH1MJFomB"
       },

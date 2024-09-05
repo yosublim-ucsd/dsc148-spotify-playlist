@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 213384,
+  "num_followers": 213440,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADAkG18I+ujVtkIa5LCKUkm",
+  "snapshot_id": "ZtZRgAAAAAAf+lOsoQiv5vrSp+Vs5+pl",
   "tracks": [
     {
       "added_at": null,
@@ -255,6 +255,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Julieta Venegas - MTV Unplugged",
+        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "El Presente (Unplugged) (En Vivo)",
+      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Sonora Santanera en Su 60 Aniversario",
         "url": "https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 182586,
       "name": "El Ladr\u00f3n (with Julieta Venegas)",
       "url": "https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Julieta Venegas - MTV Unplugged",
-        "url": "https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "El Presente (Unplugged) (En Vivo)",
-      "url": "https://open.spotify.com/track/713yeila63kevWr0gqwTxO"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
+        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 166185,
+      "name": "A Donde Va El Viento",
+      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vol. II",
         "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 275920,
       "name": "El Dolor del Micro (feat. Julieta Venegas)",
       "url": "https://open.spotify.com/track/2hHpxsF9kvHNugYXt9cH8x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nadie Nos Va A Extra\u00f1ar (Banda Sonora De La Serie Original De Prime)",
-        "url": "https://open.spotify.com/album/3qij28yM7ARubnZJrSqmpa"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 166185,
-      "name": "A Donde Va El Viento",
-      "url": "https://open.spotify.com/track/56fgrIPr54E85K98kmgqwy"
     },
     {
       "added_at": null,
@@ -575,6 +575,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 172306,
+      "name": "Canciones de Amor",
+      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Salvavidas de hielo",
         "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
@@ -611,26 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Leb\u00f3n & Co.",
-        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
-      },
-      "artists": [
-        {
-          "name": "David Leb\u00f3n",
-          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 207396,
-      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
-      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Otra Cosa",
         "url": "https://open.spotify.com/album/7rrYlu3nL2ZfW7RR9tSDMO"
       },
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
+        "name": "Leb\u00f3n & Co.",
+        "url": "https://open.spotify.com/album/2VuiXEQmTm3WcwGVha8wW2"
       },
       "artists": [
+        {
+          "name": "David Leb\u00f3n",
+          "url": "https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E"
+        },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 172306,
-      "name": "Canciones de Amor",
-      "url": "https://open.spotify.com/track/66t9mMSm7razNHOKQxAa6R"
+      "duration_ms": 207396,
+      "name": "Puedo Sentirlo (feat. Julieta Venegas)",
+      "url": "https://open.spotify.com/track/53tBGB7t5IGnRBcAo2j8S8"
     },
     {
       "added_at": null,
@@ -855,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Tributo",
-        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 257933,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Historia",
         "url": "https://open.spotify.com/album/37hygnVgTNDZxFQ9FJMLII"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 212156,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/1LlyK223zyuDRCRjJbWPue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Tributo",
+        "url": "https://open.spotify.com/album/4AiVPWn2MW2q4C4BcF69lJ"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 257933,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6ZWGKfPSyvC2Oe68CB2brV"
     },
     {
       "added_at": null,

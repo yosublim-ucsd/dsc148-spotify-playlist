@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den bedste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,840 likes - 89 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,868 likes - 89 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

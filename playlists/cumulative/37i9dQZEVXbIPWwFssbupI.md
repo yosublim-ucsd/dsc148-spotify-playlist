@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,923 songs - 4 day 5 hr 42 min
+1,924 songs - 4 day 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1127,6 +1127,7 @@
 | [Maladie moderne](https://open.spotify.com/track/7AoYApfKZO5jADcj7AmWg2) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 3:57 | 2022-09-17 | 2022-09-30 |
 | [Malembé](https://open.spotify.com/track/0dAdLqKqFPmOzkPiTA4V2K) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [OMERTA](https://open.spotify.com/album/6GBLnzPmNPkumYGkHBEzDQ) | 3:14 | 2023-03-11 | 2023-03-19 |
 | [Malpolis](https://open.spotify.com/track/3sgzxVe4NjuezbZ8CiPlLP) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Tombolo](https://open.spotify.com/album/4Vuld8wVr4SATvO8v625Ht) | 3:20 | 2022-09-24 | 2022-10-23 |
+| [Malya](https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [15](https://open.spotify.com/album/1kPpMyLk2aWFhjP6Jw51Gn) | 3:12 | 2024-09-04 |  |
 | [Mambella](https://open.spotify.com/track/48xHszgl5GSK5nefCOiFov) | [Lucenzo](https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E), [Olupellar](https://open.spotify.com/artist/09wnzgFWuf8oZHJ4BDoeMS) | [Mambella](https://open.spotify.com/album/0qZsbYAhTYHpu5y5sjF46B) | 2:51 | 2023-02-12 | 2023-02-14 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2023-12-02 | 2024-08-30 |
 | [Mamma Mia](https://open.spotify.com/track/3p26SlvvvwRo3WY9pUTlE0) | [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [La vingtaine](https://open.spotify.com/album/1xMisloOjQEMQTRte7kkJz) | 2:56 | 2023-07-27 | 2023-11-07 |
@@ -1704,7 +1705,7 @@
 | [Temps perdu](https://open.spotify.com/track/0YFuRRuUdNgpvM3G2a9lQ9) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4) | [Caméléon](https://open.spotify.com/album/7uUTDl6Q5EXTkC7pF0sGid) | 3:27 | 2022-03-05 | 2022-03-07 |
 | [Tempête](https://open.spotify.com/track/5qI1ToAUusnSsq1I9NLJqy) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 3:40 | 2021-12-05 | 2021-12-06 |
 | [Tennessee](https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:55 | 2022-11-26 | 2022-12-03 |
-| [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-08-24 |  |
+| [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-08-24 | 2024-09-05 |
 | [Tereza](https://open.spotify.com/track/5jonseK9nWkH0Vl3mLZTvl) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Demain ça ira](https://open.spotify.com/album/2NmDWH25YnnR7IkwRpT1KF) | 3:05 | 2021-06-27 | 2021-07-04 |
 | [Terminal 2F](https://open.spotify.com/track/0kcTNJvmhpx2Oeb4VChx14) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Terminal 2F](https://open.spotify.com/album/2MYR9MkUTMgmSJXxRXCtoM) | 3:07 | 2024-08-22 |  |
 | [Terrible](https://open.spotify.com/track/3M7qiBXcogT8WTZnVOm3aC) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:34 | 2021-09-12 | 2021-09-13 |

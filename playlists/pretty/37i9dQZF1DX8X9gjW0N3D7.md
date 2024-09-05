@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 
 > De la musique québécoise pour tous les goûts\. Photo: Marie\-Pierre Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,289 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,293 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8X9gjW0N3D7.md) - [plain]
 | 16 | [Je ne sais quoi](https://open.spotify.com/track/0m0UzHmi1csduQT0cNCJEA) | [Laurence Nerbonne](https://open.spotify.com/artist/1fPc13ccCnGx3gdESGBhYQ) | [Le ciel est beau regarde les nuages](https://open.spotify.com/album/5uCWa2yqZmpgJNdOJNhK81) | 2:55 |
 | 17 | [Notre p'tit refrain](https://open.spotify.com/track/3IETeJZYbBCT9NIXuIBJ14) | [2Frères](https://open.spotify.com/artist/7hHwwhjG9V3HkHZoPsJB5Q) | [Notre p'tit refrain](https://open.spotify.com/album/4QuHgOVVO7FMFTMnfDtoUw) | 3:29 |
 | 18 | [Le reste du temps](https://open.spotify.com/track/3W5N7Yzq14iQ3Zxy1gJPM7) | [Andréanne A\. Malette](https://open.spotify.com/artist/7Cm84tcv4znPwVFtFyIdBB) | [Le reste du temps](https://open.spotify.com/album/6mQG6GKJVdB70oYwl60Yzw) | 3:28 |
-| 19 | [Névrose](https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Névrose](https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje) | 2:50 |
+| 19 | [Névrose \(Radio Edit\)](https://open.spotify.com/track/2DJwnSFTpk2H59G0ahMgWb) | [Joseph Boonen](https://open.spotify.com/artist/75yQ1VHbMDt2zo4HAuO4GG) | [Névrose \(Radio Edit\)](https://open.spotify.com/album/6B2N4pA6JHfbwpAArzxjje) | 2:50 |
 | 20 | [Ta bouche](https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY) | [William Cloutier](https://open.spotify.com/artist/4OyTM2zSEE5t9D9bghE0iS) | [Ta bouche](https://open.spotify.com/album/33TW5PYMySDjISn4HDpbbE) | 2:43 |
 | 21 | [Le stade](https://open.spotify.com/track/4CLliCkjzI04eoHKXMI68H) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Demain il fera beau](https://open.spotify.com/album/74gQAViAPXnavitK5BTOmv) | 2:23 |
 | 22 | [Pomme](https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q) | [William Papillon](https://open.spotify.com/artist/3Hrbbg19aEK3UpbzpPcfys), [Alfa Rococo](https://open.spotify.com/artist/6nG2T7gGBQilOJXPWw0F0n) | [Pomme](https://open.spotify.com/album/7I2rduDJv8Np37F3cQuupC) | 2:59 |

@@ -1,6 +1,6 @@
 {
   "description": "La psicodelia tropical latinoamericana y sus alucinantes ritmos.",
-  "num_followers": 44232,
+  "num_followers": 44238,
   "original_name": "TROPILOCO",
   "owner": {
     "name": "Spotify",
@@ -1509,22 +1509,6 @@
       "url": "https://open.spotify.com/track/1hTGXQD56NSef0JYfJi9U1"
     },
     {
-      "added_at": "2023-02-10 06:00:00",
-      "album": {
-        "name": "Chucha",
-        "url": "https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 147469,
-      "name": "Chucha",
-      "url": "https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2"
-    },
-    {
       "added_at": "2021-10-20 15:37:42",
       "album": {
         "name": "Abducci\u00f3n Amazonica, Lamento en la Selva",
@@ -1545,36 +1529,20 @@
       "url": "https://open.spotify.com/track/2HjI7XZy4nXBEPim02cGDo"
     },
     {
-      "added_at": "2024-01-26 16:12:23",
+      "added_at": "2023-02-10 06:00:00",
       "album": {
-        "name": "Ya",
-        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+        "name": "Chucha",
+        "url": "https://open.spotify.com/album/2jRnyhgUfDXCAbhmGWE4yZ"
       },
       "artists": [
         {
-          "name": "CHIFLIDO",
-          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
         }
       ],
-      "duration_ms": 140552,
-      "name": "Ya",
-      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
-    },
-    {
-      "added_at": "2023-01-02 21:53:18",
-      "album": {
-        "name": "Chica Psy",
-        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
-      },
-      "artists": [
-        {
-          "name": "Cadereira",
-          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
-        }
-      ],
-      "duration_ms": 202302,
-      "name": "Chica Psy",
-      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+      "duration_ms": 147469,
+      "name": "Chucha",
+      "url": "https://open.spotify.com/track/206oJ0ulnpsdfaxK8dJVD2"
     },
     {
       "added_at": "2022-01-11 02:45:58",
@@ -1595,6 +1563,38 @@
       "duration_ms": 178887,
       "name": "Empecemos (Let's Start)",
       "url": "https://open.spotify.com/track/5k4uozUOYVtF6IsXIML1U0"
+    },
+    {
+      "added_at": "2023-01-02 21:53:18",
+      "album": {
+        "name": "Chica Psy",
+        "url": "https://open.spotify.com/album/6wXsBA06udJMz8GXS4k6CE"
+      },
+      "artists": [
+        {
+          "name": "Cadereira",
+          "url": "https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO"
+        }
+      ],
+      "duration_ms": 202302,
+      "name": "Chica Psy",
+      "url": "https://open.spotify.com/track/2hZtbjIOTdO1ohJ70SOyu3"
+    },
+    {
+      "added_at": "2024-01-26 16:12:23",
+      "album": {
+        "name": "Ya",
+        "url": "https://open.spotify.com/album/7nzAbKNMTxGFlGloo6sytM"
+      },
+      "artists": [
+        {
+          "name": "CHIFLIDO",
+          "url": "https://open.spotify.com/artist/1j2ynZu5H24PDCnVsovPL1"
+        }
+      ],
+      "duration_ms": 140552,
+      "name": "Ya",
+      "url": "https://open.spotify.com/track/7F3girVxqXUFc75BEVrLq5"
     },
     {
       "added_at": "2021-10-20 15:37:42",

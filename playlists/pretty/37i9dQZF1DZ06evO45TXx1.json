@@ -1,12 +1,12 @@
 {
-  "description": "This is: Mc Luanna. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 10255,
+  "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
+  "num_followers": 10284,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAACiyzdXHm4DqNYZlRZjOqvR",
+  "snapshot_id": "ZtZRgAAAAADnNPFOxg7+ajW/9lFf/AZ/",
   "tracks": [
     {
       "added_at": null,
@@ -415,30 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Piranha",
-        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 176098,
-      "name": "Piranha",
-      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -463,6 +439,30 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Piranha",
+        "url": "https://open.spotify.com/album/7Msb9eEGxaujbKTFzL9ykK"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 176098,
+      "name": "Piranha",
+      "url": "https://open.spotify.com/track/3FVtG5hvfbOpcQipyovIZE"
     },
     {
       "added_at": null,
@@ -511,30 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ai Caralh*",
-        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
-      },
-      "artists": [
-        {
-          "name": "RalphTheKiD",
-          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 169655,
-      "name": "Ai Caralh*",
-      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Botano (\u00datero Baixo)",
         "url": "https://open.spotify.com/album/7baADEZGaDw6LsdwyaOSEX"
       },
@@ -559,6 +535,30 @@
       "duration_ms": 166153,
       "name": "Botano (\u00datero Baixo)",
       "url": "https://open.spotify.com/track/6YCqXGsOAPKFBwQ4EtoM5Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ai Caralh*",
+        "url": "https://open.spotify.com/album/2BguUcLv11qrIymhG7zonv"
+      },
+      "artists": [
+        {
+          "name": "RalphTheKiD",
+          "url": "https://open.spotify.com/artist/6Hmszyqw2GWY3X0yt0k1lw"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 169655,
+      "name": "Ai Caralh*",
+      "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maldita",
+        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 110071,
+      "name": "\u00daltima Vez",
+      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Set Ajc",
         "url": "https://open.spotify.com/album/3DymWr7vqMdUQbX7ko9OFh"
       },
@@ -751,8 +771,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maldita",
-        "url": "https://open.spotify.com/album/5YAVUmI41dnIgFCHPCtVFu"
+        "name": "HSEH",
+        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
       },
       "artists": [
         {
@@ -762,31 +782,15 @@
         {
           "name": "Mello Santana",
           "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 110071,
-      "name": "\u00daltima Vez",
-      "url": "https://open.spotify.com/track/6750ETCZArnUYN2KQbXGE7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trap de Quebra",
-        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
         },
         {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 167426,
-      "name": "iPhone 12",
-      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
+      "duration_ms": 150260,
+      "name": "HSEH",
+      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
     },
     {
       "added_at": null,
@@ -815,26 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "HSEH",
-        "url": "https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP"
+        "name": "Trap de Quebra",
+        "url": "https://open.spotify.com/album/1HMjNCSWltt5Iz3VTr2Oa0"
       },
       "artists": [
         {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
           "name": "Mc Luanna",
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
         }
       ],
-      "duration_ms": 150260,
-      "name": "HSEH",
-      "url": "https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w"
+      "duration_ms": 167426,
+      "name": "iPhone 12",
+      "url": "https://open.spotify.com/track/0e66BfYoPfihbRJCfIunrR"
     },
     {
       "added_at": null,
@@ -1035,30 +1035,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "P\u00e9talas",
-        "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
-      },
-      "artists": [
-        {
-          "name": "Thiago Kelbert",
-          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Menor MC",
-          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
-        }
-      ],
-      "duration_ms": 192807,
-      "name": "P\u00e9talas",
-      "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Notas",
         "url": "https://open.spotify.com/album/5JxbFGCIxfZPOPSuSs5GAY"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 201951,
       "name": "Notas",
       "url": "https://open.spotify.com/track/2AuH6RO1u7PMqCUv8HNg43"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "P\u00e9talas",
+        "url": "https://open.spotify.com/album/1sq1EdgUiQ8jYxWnBAIaNv"
+      },
+      "artists": [
+        {
+          "name": "Thiago Kelbert",
+          "url": "https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Menor MC",
+          "url": "https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS"
+        }
+      ],
+      "duration_ms": 192807,
+      "name": "P\u00e9talas",
+      "url": "https://open.spotify.com/track/0LVGGVzzPqArsRUq3PoZa5"
     },
     {
       "added_at": null,

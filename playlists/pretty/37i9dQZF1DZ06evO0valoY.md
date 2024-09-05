@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 ### [This Is Eslabon Armado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY)
 
-> This is Eslabon Armado\. The essential tracks, all in one playlist.
+> This Is Eslabon Armado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,317 likes - 48 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,349 likes - 48 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 47 | [Ganas Que Te Tengo](https://open.spotify.com/track/1sS5aMT5JWYSHwrTbxGGsn) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 3:59 |
 | 48 | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/track/15BYgAqFbSrnsKvvs3Yu45) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [TE XTRAÑO \(With Eslabon Armado\)](https://open.spotify.com/album/43jEzQ4AlCO7sHXegbuYjm) | 3:45 |
 
-Snapshot ID: `ZtUAAAAAAAABAtJziPVSwGQDFOGzrEbN`
+Snapshot ID: `ZtZRgAAAAAD1LS0OCC4U8WA3RI/oiiBT`

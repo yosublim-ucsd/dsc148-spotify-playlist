@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Juan Gabriel en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,994 likes - 200 songs - 13 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,196 likes - 200 songs - 13 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

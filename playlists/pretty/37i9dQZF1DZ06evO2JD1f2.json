@@ -1,12 +1,12 @@
 {
   "description": "This is EST Gee. The essential tracks, all in one playlist.",
-  "num_followers": 11705,
+  "num_followers": 11708,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAADhrKYrMorRMhZKOBzLi/wO",
+  "snapshot_id": "ZtZRgAAAAACoCvQ2LbHus0PO1vqf1Ns3",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 160033,
-      "name": "Burglars & Murderers (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
+      "duration_ms": 193617,
+      "name": "Lick Back Remix (feat. Future & Young Thug)",
+      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
     },
     {
       "added_at": null,
@@ -559,26 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
       "artists": [
         {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 193617,
-      "name": "Lick Back Remix (feat. Future & Young Thug)",
-      "url": "https://open.spotify.com/track/6kWNMFptUFZE1tlkbRCwav"
+      "duration_ms": 160033,
+      "name": "Burglars & Murderers (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 139681,
-      "name": "THE ONE & ONLY",
-      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bigger Than Life Or Death",
         "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 103249,
       "name": "Bigger Than Life Or Death",
       "url": "https://open.spotify.com/track/1CU4rFrgdSRIgNOprx8H0Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 139681,
+      "name": "THE ONE & ONLY",
+      "url": "https://open.spotify.com/track/4iKIlY9BNZk0M09Leoczwz"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
       },
@@ -815,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Been One",
         "url": "https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa"
       },
@@ -831,22 +831,6 @@
       "duration_ms": 152314,
       "name": "On Da Floor (feat. EST Gee)",
       "url": "https://open.spotify.com/track/3MQXlG1GoNK0lezV66qcWq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ion Feel Nun",
-        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 106904,
-      "name": "Morals",
-      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,
@@ -883,6 +867,22 @@
       "duration_ms": 162055,
       "name": "TURN THE STREETS UP",
       "url": "https://open.spotify.com/track/0A5fRjPHOLznxrx7dVEpx5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ion Feel Nun",
+        "url": "https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 106904,
+      "name": "Morals",
+      "url": "https://open.spotify.com/track/1rVsTdubD5s0PDz6gzLhTK"
     },
     {
       "added_at": null,

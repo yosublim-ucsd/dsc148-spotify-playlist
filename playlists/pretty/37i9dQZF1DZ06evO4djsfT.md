@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,096 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,105 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 49 | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 |
 | 50 | [Built For This](https://open.spotify.com/track/5ihWb5kpd7brDr32wNebn6) | [Trip Lee](https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Epilogue.](https://open.spotify.com/album/6q7eHLeBX6B7teKXCtX3Mg) | 2:53 |
 
-Snapshot ID: `ZtUAAAAAAAD63pM85jvSK5ganTxp9U17`
+Snapshot ID: `ZtZRgAAAAAAPQo7a+PwB3eEworX84bx2`

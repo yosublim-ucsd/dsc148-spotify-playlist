@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40F1hlCueZ7.md) - [plain]
 
 > Lo mejor del año en el mundo alternativo, como La La Love You.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,936 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,953 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

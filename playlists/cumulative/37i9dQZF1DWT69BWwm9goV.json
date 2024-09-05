@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-03",
-  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Suki Waterhouse",
+  "description": "A collection of songs from Spotify's video series OUTSIDE & Green Screen, plus more of our favorite tracks from featured artists. Cover: Lizzy McAlpine",
   "name": "OUTSIDE",
   "tracks": [
     {
@@ -180,6 +180,24 @@
       "duration_ms": 194440,
       "name": "Coal",
       "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/07MbrTFOyeeDRIiF365e8g"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297547,
+      "name": "Come Down Soon (Spotify OUTSIDE Version) - Live from Pasadena",
+      "url": "https://open.spotify.com/track/059Yqzlm6TAAd1YI7hKYNW"
     },
     {
       "album": {
@@ -440,6 +458,24 @@
       "duration_ms": 134760,
       "name": "No Horse To Ride",
       "url": "https://open.spotify.com/track/1KNuxvWSka5wOXQOOOyFsw"
+    },
+    {
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201186,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/059gVW493dUeBHkn0gE1zm"
     },
     {
       "album": {

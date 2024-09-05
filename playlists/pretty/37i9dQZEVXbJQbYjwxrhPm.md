@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 487 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 488 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 42 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 |
 | 43 | [Dai Mi Vsichko](https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg) | [Andrea](https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw) | [Men Si Tarsil](https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf) | 3:21 |
 | 44 | [Хубавица](https://open.spotify.com/track/469ChfE6lDYglc46wfzNG7) | [Donika](https://open.spotify.com/artist/3DJYC50MIKFpWotJVrxFJg), [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355), [Azis](https://open.spotify.com/artist/1vAwQYTE1k5MBhNsvqphp1) | [Хубавица](https://open.spotify.com/album/0FQA5XpZgJi9FGnCIgt2OS) | 3:03 |
-| 45 | [Ghost in My Mind](https://open.spotify.com/track/2HBTuTAallHsOGrDmP4jmt) | [Fellxe](https://open.spotify.com/artist/1gsYHQSCm5hEK6jGpXWXq0), [Syd](https://open.spotify.com/artist/1Wz2GM6YInFjpXq3O97Tom) | [Ghost in My Mind](https://open.spotify.com/album/2VzhTnYvovlcshuHBGPxso) | 2:09 |
+| 45 | [Ghost in My Mind](https://open.spotify.com/track/6OxeB3RNo9oirUYejCQmOf) | [Ander Tavys](https://open.spotify.com/artist/0HNGfrqKHdnrncCmnirDew) | [Ghost in My Mind](https://open.spotify.com/album/0JE9ZlOTIoMbui4U2wX5T9) | 2:09 |
 | 46 | [1 милион](https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Ork\. Salih Hamburg](https://open.spotify.com/artist/4CrkuFqKkCWd7pJTOaGxhX) | [1 милион](https://open.spotify.com/album/28t9nnMVI7mJWLWpKnx7Sh) | 3:39 |
 | 47 | [Gata Only](https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [EL COMIENZO](https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz) | 3:42 |
 | 48 | [Tuka Tuka](https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Tuka Tuka](https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW) | 3:16 |
 | 49 | [Interlude : Showtime](https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [MUSE](https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr) | 1:18 |
 | 50 | [DJALEBIBEBI](https://open.spotify.com/track/3lj4Jt7n9k6wlsgTz6ruyV) | [Kotenceto](https://open.spotify.com/artist/1yxLPqI8RMcczR0u8y9tBf) | [FUTURE](https://open.spotify.com/album/0sdBYgBRV90gN4Peabm5gw) | 2:57 |
 
-Snapshot ID: `Lmp28AAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LmvIcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

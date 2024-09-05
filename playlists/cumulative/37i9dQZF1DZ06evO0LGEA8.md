@@ -4,7 +4,7 @@
 
 > This Is La Santa Grifa\. Los temas esenciales, todos en una lista.
 
-63 songs - 4 hr 25 min
+64 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [De Mexico Song](https://open.spotify.com/track/6xMZFpORmifhj8lbB5RGH9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [De Mexico Song](https://open.spotify.com/album/5Fiig4Q85kNWPm4aSztfBy) | 3:33 | 2023-11-10 |  |
 | [El Diablo Anda Suelto](https://open.spotify.com/track/1uSj6BBujIU1oaZFqIyZg7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Santos Grifos, Vol\. 1](https://open.spotify.com/album/1vJm0PP19mjHS2BQfzZP3H) | 6:20 | 2023-11-10 |  |
 | [En el Espacio](https://open.spotify.com/track/2m04Nl3l3Q5u3XfosRDQ6p) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9) | [En el Espacio](https://open.spotify.com/album/63DPGQHAUt7Uv9e1pn9APj) | 4:55 | 2023-11-10 |  |
-| [Escucho Voces](https://open.spotify.com/track/76JIRMXbAiOrpBVAy2ieYP) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:28 | 2024-08-31 |  |
+| [Escucho Voces](https://open.spotify.com/track/76JIRMXbAiOrpBVAy2ieYP) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:28 | 2024-08-31 | 2024-09-05 |
 | [Estamos al Aire](https://open.spotify.com/track/6XagfTLSVgSx9lZFJ7q6Wy) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 4](https://open.spotify.com/album/2biWpudc2pbS9UGGxjLgBM) | 3:06 | 2023-11-10 |  |
 | [Hasta Donde Se Pueda](https://open.spotify.com/track/7xLRhre70l67OEVs6qZyIv) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hasta Donde Se Pueda, Vol\. 2](https://open.spotify.com/album/69Jo9dSkh9nTPpASqM49Gk) | 5:45 | 2023-11-10 |  |
 | [Humo y Tequila](https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Humo y Tequila](https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0) | 4:29 | 2024-02-23 | 2024-05-12 |
@@ -39,6 +39,7 @@
 | [Las Chidas Pal Cuarto](https://open.spotify.com/track/0crzECUaFwVsvR2Ew6dYpX) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:30 | 2024-05-10 |  |
 | [Liga Malandra](https://open.spotify.com/track/2Fn5OzgcxKaGiWmE6Dz4SZ) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Duende](https://open.spotify.com/artist/6RqzIj3qOKsNemp4GZMDH9), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Quetzal](https://open.spotify.com/artist/1NsELvHsy63esCtlakIxjD), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [Locofonías](https://open.spotify.com/album/26zGsUDPf6YXszmHdi4aCT) | 6:00 | 2023-11-10 |  |
 | [Liga Malandra 2](https://open.spotify.com/track/0cthSQfXnR3JOCOg0CfX0B) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz), [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Sid MSC](https://open.spotify.com/artist/60ltkiwaQfISsFpwwktCcb), [Unex Msc](https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX) | [Liga Malandra 2](https://open.spotify.com/album/46phNOwy2WSnRWYvOBzjTZ) | 4:00 | 2023-11-10 |  |
+| [Mal Ejemplo](https://open.spotify.com/track/0HSBllfhckt9BhJAvNGLCN) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/3mIsCeIbeXeicXk0QmSQRM) | 5:02 | 2024-09-05 |  |
 | [Mal Ejemplo](https://open.spotify.com/track/5ACoDyUWazcetrFnCL4aXZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mal Ejemplo, Vol\. 3](https://open.spotify.com/album/14zVz3UK6xf6oEaFXeGiow) | 5:02 | 2023-11-10 | 2024-09-04 |
 | [MI Necesidad](https://open.spotify.com/track/5I6FABuflROqF98yBr3Qlz) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Las Chidas Pal Cuarto](https://open.spotify.com/album/5qYizwBXw7HD441oTtqrpg) | 5:15 | 2023-11-10 |  |
 | [Mi Propio Infierno](https://open.spotify.com/track/4wxMG2YWx25CbEWpuw9ZhC) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Mi Propio Infierno](https://open.spotify.com/album/2MfgnhIZjbOS1JcoTXO1dO) | 3:14 | 2023-11-10 | 2024-01-24 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Brenda Fassie. \u0623\u063a\u0627\u0646\u064d \u0631\u0627\u0626\u0639\u0629 \u0641\u064a \u0642\u0627\u0626\u0645\u0629 \u0623\u063a\u0627\u0646\u064d \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 35774,
+  "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
+  "num_followers": 35776,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtUAAAAAAAC2BExAHpqy6zGokZWNtGAT",
+  "snapshot_id": "ZtZRgAAAAABfXDD3/edk5O2MktBFERmo",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 277680,
-      "name": "Nakupenda (I Love You)",
-      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
+      "duration_ms": 270133,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/3gMIm1DzHL4BFdfzarGX42"
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 270133,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/1pLVv5izG6cj2GiQdsEreq"
+      "duration_ms": 277680,
+      "name": "Nakupenda (I Love You)",
+      "url": "https://open.spotify.com/track/0blTOYXnFJ57BmSgXLU7NR"
     },
     {
       "added_at": null,
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Am Not A Bad Girl",
-        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 288626,
-      "name": "Romantic World",
-      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hamba Sathane",
         "url": "https://open.spotify.com/album/1mNSmtT55yrOH4TFCdQJtJ"
       },
@@ -827,26 +811,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
       },
       "artists": [
         {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/2DPySSVd2uQRDoUIMA9pEq"
-        },
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Romantic World",
+      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Refe Matla",
+        "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
+      },
+      "artists": [
         {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
+          "name": "Pure Gold",
+          "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 236560,
-      "name": "Only Jesus",
-      "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+      "duration_ms": 285160,
+      "name": "Kellela Moya",
+      "url": "https://open.spotify.com/track/3lOFXc1T0MxWWCjtjtkiaG"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Milton Nascimento, Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,513 likes - 70 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,512 likes - 70 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KVW02Geer9.md) - [plain]
 | 22 | [Get Lit](https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Fearless Movement](https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL) | 3:26 |
 | 23 | [Season of Harvest](https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ウィーディー・ブライマー](https://open.spotify.com/artist/1H5VMlyi86K6m02awVdsa7) | [Season of Harvest](https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF) | 4:21 |
 | 24 | [Honey](https://open.spotify.com/track/5JaQSETw0yC1OhuxkEIGnV) | [Citrus Sun](https://open.spotify.com/artist/4fsTmu7jQ7IT9bSQPgPi8U) | [Anaconga](https://open.spotify.com/album/7nB9nRoU9HuXjFXbSrANhq) | 4:49 |
-| 25 | [The Scene](https://open.spotify.com/track/7sdieOhSVuir4fIGrNLICY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1) | [2010 Mixtape](https://open.spotify.com/album/19djQgfrSTjq7mwNZxx6SZ) | 3:25 |
+| 25 | [The Scene](https://open.spotify.com/track/7sdieOhSVuir4fIGrNLICY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [2010 Mixtape](https://open.spotify.com/album/19djQgfrSTjq7mwNZxx6SZ) | 3:25 |
 | 26 | [Checkpoint \(Violence\)](https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI), [Amika Quartet](https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX) | [Checkpoint \(Violence\)](https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe) | 3:56 |
 | 27 | [Ain't No End](https://open.spotify.com/track/31v0BnVgzjF2mYulVUGgwc) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Ain't No End](https://open.spotify.com/album/44kHdjDgsLdNNy24g6TbDL) | 3:06 |
 | 28 | [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 |

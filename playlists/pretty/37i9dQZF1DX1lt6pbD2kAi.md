@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 
 > Ana Castela e os artistas mais ouvidos no Brasil em 2023.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,510 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,509 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lt6pbD2kAi.md) - [plain]
 | 39 | [LUA POR LUA](https://open.spotify.com/track/3ivAMHvasSrmOhKV2VgVgE) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:36 |
 | 40 | [Ballena](https://open.spotify.com/track/1Vy9Wn5sbiduZKBqBlH3Mc) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 3:20 |
 | 41 | [Só Os Loucos Sabem](https://open.spotify.com/track/3nI0piSOxAik2RCpHGloB7) | [Charlie Brown Jr.](https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5) | [Camisa 10 joga bola até na chuva](https://open.spotify.com/album/0tbiBipiOorOAnL7XWFbgt) | 3:30 |
-| 42 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [Perera DJ](https://open.spotify.com/artist/1Bp5RHQ2K9k986YoxNvACB) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 |
+| 42 | [Coração na Geladeira 2](https://open.spotify.com/track/4AKsSRxe6z6woOAsXr5gVA) | [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [DJ Jorgin](https://open.spotify.com/artist/5bZh8YQDUYXGHrkWwjakNF) | [O Menino Ainda Encanta a Quebrada](https://open.spotify.com/album/0ZYbCunZV39UwLahPHMc5O) | 2:24 |
 | 43 | [Erro Gostoso \- Ao Vivo](https://open.spotify.com/track/6vq7r1Pqd3pyI07u63cPZV) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/7lLjDECsr4tJUs0BEulGbU) | 2:58 |
 | 44 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 45 | [Giro Louco](https://open.spotify.com/track/1fdgwbyO1IOHmmRUKCAgqC) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [ECLÉTICO](https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn) | 3:35 |
