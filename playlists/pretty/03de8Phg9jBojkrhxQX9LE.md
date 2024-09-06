@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,828 likes - 156 songs - 8 hr 45 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 20,827 likes - 156 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 102 | [Pump The Bass](https://open.spotify.com/track/2AvftRrQt565x4gLPaCvor) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Pump The Bass](https://open.spotify.com/album/45K47FDDqFIcAQslA77hf4) | 3:07 |
 | 103 | [IDK](https://open.spotify.com/track/1lbioiuFVq2Dqp1bCK6K1A) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [IDK](https://open.spotify.com/album/5FFOPCk5z8xNWwA2MWboEA) | 3:18 |
 | 104 | [Get Splashed](https://open.spotify.com/track/4QYG1jhCleikOw6NbBrr9t) | [Moody Good](https://open.spotify.com/artist/3EN8pUGJtYWutzf2fUxrDH) | [Get Splashed](https://open.spotify.com/album/5Wgj0axhe1E594o6yQ88uc) | 4:20 |
-| 105 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
+| 105 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 106 | [SPAIN](https://open.spotify.com/track/23xWflZpTTd8C2vavceLTa) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Nate Wyatt](https://open.spotify.com/artist/1N9NZiOruq1d1fMdpYuwwg) | [SPAIN](https://open.spotify.com/album/2hpAZ0GGA0ijw5YuftEBbo) | 2:37 |
 | 107 | [100 Days \(Stay With Me\)](https://open.spotify.com/track/2GGw5L45QncmXfNvJS3UBF) | [Feed Me](https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby) | [Feed Me's Vintage Rally Championship](https://open.spotify.com/album/0aPuz4U1D8EFCOHIyaI0xU) | 5:49 |
 | 108 | [Ain't Giving Up](https://open.spotify.com/track/4w0p0jhWegRvJmHOPI3lN9) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Ain’t Giving Up](https://open.spotify.com/album/6DLqWNcNqD90oEgI7KWkaw) | 3:11 |

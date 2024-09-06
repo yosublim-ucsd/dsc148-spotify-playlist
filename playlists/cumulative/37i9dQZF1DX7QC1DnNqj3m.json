@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "25!",
+        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129623,
+      "name": "25!",
+      "url": "https://open.spotify.com/track/0bxpbu9nyLiWVEoAB40hlz"
+    },
+    {
+      "album": {
         "name": "Ain't That Good News",
         "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
@@ -215,6 +233,28 @@
     },
     {
       "album": {
+        "name": "CHILL ON ME",
+        "url": "https://open.spotify.com/album/1amVbKXct9YO5r2q7KK242"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "June Freedom",
+          "url": "https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215544,
+      "name": "CHILL ON ME",
+      "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
+    },
+    {
+      "album": {
         "name": "Don't Think You Ever Loved Me",
         "url": "https://open.spotify.com/album/7LFx0rToSRheeuvNMdjovz"
       },
@@ -346,7 +386,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195428,
       "name": "Flaws & All",
       "url": "https://open.spotify.com/track/393v1sHACPDeRwjasbtJBQ"
@@ -730,6 +770,24 @@
       "duration_ms": 192760,
       "name": "It's A Shame - Remastered",
       "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN"
+    },
+    {
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V"
+      },
+      "artists": [
+        {
+          "name": "Rizzle Kicks",
+          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189573,
+      "name": "Javelin",
+      "url": "https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS"
     },
     {
       "album": {
@@ -1442,7 +1500,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195082,
       "name": "Start My Day",
       "url": "https://open.spotify.com/track/2UvXKCd5cMV3vEKyKcSxCs"
@@ -1712,7 +1770,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"

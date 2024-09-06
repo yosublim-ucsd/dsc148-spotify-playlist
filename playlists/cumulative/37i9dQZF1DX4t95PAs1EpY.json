@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163910,
       "name": "buenos d\u00edas flaca (in love again)",
       "url": "https://open.spotify.com/track/5s9eQnrNqgXgBlQnTOY8dO"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150857,
       "name": "Dream Tunnel",
       "url": "https://open.spotify.com/track/0gyDK00aAkv2Cj5MiDdRDV"
@@ -2830,7 +2830,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172450,
       "name": "Feel Jolly",
       "url": "https://open.spotify.com/track/2X7IEYH1ani18XiYyhFYaY"
@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165925,
       "name": "Fuji",
       "url": "https://open.spotify.com/track/3saNOmdsMZjlKLM3FSFU70"
@@ -5537,6 +5537,28 @@
     },
     {
       "album": {
+        "name": "mermaid melodies",
+        "url": "https://open.spotify.com/album/3TtVNk2KrYd2Fk93hem1Cm"
+      },
+      "artists": [
+        {
+          "name": "Sitting Duck",
+          "url": "https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt"
+        },
+        {
+          "name": "Rufus Dipper",
+          "url": "https://open.spotify.com/artist/7vSjvv75PSaKYhLK3J0DMb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176470,
+      "name": "mermaid melodies",
+      "url": "https://open.spotify.com/track/5zO8OlM8WBi7ve7o8zlQ6A"
+    },
+    {
+      "album": {
         "name": "Mesmerized",
         "url": "https://open.spotify.com/album/1ndHDTREiFpE6pQin9lwWL"
       },
@@ -6153,6 +6175,24 @@
     },
     {
       "album": {
+        "name": "moving mountains",
+        "url": "https://open.spotify.com/album/4XVqMTpPB6QTj32XMfnC8e"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148620,
+      "name": "moving mountains",
+      "url": "https://open.spotify.com/track/1ye7e1fKT6Rfd9Rj8L26qD"
+    },
+    {
+      "album": {
         "name": "Muddy",
         "url": "https://open.spotify.com/album/6RXOUVWckGhNU2X4D69Xip"
       },
@@ -6262,6 +6302,28 @@
       "duration_ms": 130437,
       "name": "Nameless and Forgotten",
       "url": "https://open.spotify.com/track/6QLNxoDZMlUm0aHwgmt6iw"
+    },
+    {
+      "album": {
+        "name": "Natsukashii, Pleased Nostalgia",
+        "url": "https://open.spotify.com/album/2bzopRV7qnGkgRoQrUyQVF"
+      },
+      "artists": [
+        {
+          "name": "alhivi",
+          "url": "https://open.spotify.com/artist/7ulf45VD9Q3ZazcIG3v79P"
+        },
+        {
+          "name": "Tosso",
+          "url": "https://open.spotify.com/artist/0pYbYmiGEC2nEe02Npg4bp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137560,
+      "name": "Natsukashii, Pleased Nostalgia",
+      "url": "https://open.spotify.com/track/5EkE3pKip0yB8YTd9daXp5"
     },
     {
       "album": {

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Nsoki & Nelson Freitas
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,617 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,676 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BABETE](https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [REI DO KUYUYU](https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv) | 3:23 |
+| 1 | [Essa Dança](https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq) | [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i) | [Essa Dança](https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW) | 3:36 |
 | 2 | [Juliana](https://open.spotify.com/track/2ujbkemDmWlKttKOnAHliq) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Elements](https://open.spotify.com/album/7l478mo7VlYpgFVUJeZBCm) | 2:42 |
-| 3 | [Essa Dança](https://open.spotify.com/track/5FBPxXwpBLA8CH1wHRvDhq) | [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH), [Nelson Freitas](https://open.spotify.com/artist/6yWyIM8jA96kl3jlCXpabB), [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i) | [Essa Dança](https://open.spotify.com/album/3cboQNy5mz93cr9AmvT5VW) | 3:36 |
+| 3 | [BABETE](https://open.spotify.com/track/02QrqKgWNYUfjLdvJiut5h) | [Landrick](https://open.spotify.com/artist/0K7M2QEMiMcok8igQeSsRU) | [REI DO KUYUYU](https://open.spotify.com/album/7ftrPCFmHY9CzokQnwfjQv) | 3:23 |
 | 4 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 |
 | 5 | [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 |
 | 6 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Part I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 99 | [Me Leva Contigo](https://open.spotify.com/track/1iRDn08Im0yWFH1b7oZ6E5) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Me Leva Contigo](https://open.spotify.com/album/7lBcm5RypJALhpWxsjh7sM) | 4:18 |
 | 100 | [Novinha](https://open.spotify.com/track/3YgyXiZE0E68EYvWDQ2RZd) | [Tamyris Moiane](https://open.spotify.com/artist/0DcdMBubONMXpTlmcWui2g), [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ) | [Novinha](https://open.spotify.com/album/4RgA2js3fUyRfOX9No2Xrs) | 3:30 |
 
-Snapshot ID: `ZtD9cAAAAADUCwDYpsoVu20gggw5eBPR`
+Snapshot ID: `Zto38AAAAACpBD8Zcdy/2ENOsEMH4o0d`

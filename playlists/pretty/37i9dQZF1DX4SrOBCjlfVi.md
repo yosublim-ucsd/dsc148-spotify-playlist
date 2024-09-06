@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Big Sean, A$AP Rocky, Doechii and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,606 likes - 52 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,726 likes - 52 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

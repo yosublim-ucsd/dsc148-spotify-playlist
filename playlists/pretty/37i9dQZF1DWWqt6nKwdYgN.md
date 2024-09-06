@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 
 > ¡Lo más fresco del hip\-hop en español! Delfina Dib en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,779 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,781 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqt6nKwdYgN.md) - [plain]
 | 97 | [Dependiente](https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD) | [Yoky Barrios](https://open.spotify.com/artist/1ltK3b65ZE7WKb7fGtufsj), [Barragan](https://open.spotify.com/artist/1cIqvDo17E9xHqz3homiJH), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Dependiente](https://open.spotify.com/album/0ndJ027vnBAx4MQ58fFYnu) | 4:19 |
 | 98 | [KLOK](https://open.spotify.com/track/1iXM1Cws9X0316taI1As05) | [Cirujano Resendez](https://open.spotify.com/artist/0nFyvpRgCIvNG2JVyAGdbY) | [KLOK](https://open.spotify.com/album/3T3EnDa9JbavIxRSdjLyaN) | 3:03 |
 | 99 | [SHININ' \(PISPO\)](https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ) | [ha$lopablito](https://open.spotify.com/artist/2oWYJFQ324bj4y4Km5eNeX), [Pocket Tincho](https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387) | [SHININ' \(PISPO\)](https://open.spotify.com/album/2qJeWkFjVmcK9X11QgkcS6) | 2:35 |
-| 100 | [SENSOU](https://open.spotify.com/track/4Kd8F1bIzXqAcyesoAOlUO) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [SENSOU](https://open.spotify.com/album/2kIclQyee6jM7Z2DhASF9D) | 3:15 |
+| 100 | [Puro Soñador](https://open.spotify.com/track/6n5qZ480oyxvNxsD0hNQLm) | [Blood G](https://open.spotify.com/artist/5ziMak61OEXsu6NvkAF7Gu) | [Puro Soñador](https://open.spotify.com/album/2Xw3HDA20dgrY1KkDBvSRI) | 2:52 |
 
 Snapshot ID: `ZtFf4AAAAADYUlIlLQqviYZjAyyaxNZL`

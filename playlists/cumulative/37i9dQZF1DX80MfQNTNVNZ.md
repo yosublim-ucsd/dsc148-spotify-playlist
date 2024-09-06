@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-518 songs - 1 day 6 hr 43 min
+519 songs - 1 day 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Killing Me](https://open.spotify.com/track/1vghSeMBb7AIMT3JaMrlHO) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Killing Me](https://open.spotify.com/album/4HsgZMW1HHEQX6xyX0MrQm) | 2:45 | 2022-03-10 | 2022-07-28 |
 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 | 2022-07-28 | 2024-04-19 |
 | [Kinks](https://open.spotify.com/track/6biOWQ7B2x5VDxfZrQxg44) | [Smile High](https://open.spotify.com/artist/2TD6omXIh4gf6AJZlVV7oG), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [The Main Squeeze](https://open.spotify.com/artist/5I6ni4YWY0WJUs6rFqufxT), [QUIN](https://open.spotify.com/artist/3sHS70DMNgPxRqx2fUNrRA) | [Kinks](https://open.spotify.com/album/38xAsoxCRO7zuPsGfZi4Wv) | 3:33 | 2023-11-09 | 2023-12-01 |
-| [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/track/5BQzjZCF41jwSoZUDB74dw) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/album/5lpMbruWkd3p3YAXjZJSjh) | 2:53 | 2024-08-09 |  |
+| [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/track/5BQzjZCF41jwSoZUDB74dw) | [M\-Swift](https://open.spotify.com/artist/7dCttz7xrkybpvjhBr82n4), [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [Tilly Valentine](https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP) | [Kissing Booth feat\. edbl & Tilly Valentine](https://open.spotify.com/album/5lpMbruWkd3p3YAXjZJSjh) | 2:53 | 2024-08-09 | 2024-09-06 |
 | [Kumbaya](https://open.spotify.com/track/2LiAbVThDjRxRWz8SQaWuw) | [Nick Dorian](https://open.spotify.com/artist/60tZRF2LOOUONoZXo2ATtd), [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Kumbaya](https://open.spotify.com/album/57LuWIUr292QLP9xJhBzgp) | 3:21 | 2021-12-23 | 2022-07-29 |
 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 | 2022-03-31 | 2022-04-18 |
 | [Laputa \(Taylor McFerrin Remix feat\. Anderson .Paak\)](https://open.spotify.com/track/5UFtKaL5KBumqv4tpgdm0p) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Taylor McFerrin](https://open.spotify.com/artist/0yLmsf6RBPYqm6hvFJCPg6) | [Recalibrations, Vol\. 1](https://open.spotify.com/album/7EWi5y6EgXcW1TuW81Y3Yi) | 4:04 | 2022-03-24 | 2022-04-14 |
@@ -253,6 +253,7 @@
 | [Lucky](https://open.spotify.com/track/1Lc6A4WmjLh6HbBiuoLQk1) | [Soulflex](https://open.spotify.com/artist/4wzBvv8o6GlsTLTEkH4SsS) | [Lucky / Someone Like You](https://open.spotify.com/album/5h9LKoeKeOwQshK3cqhlXr) | 4:15 | 2022-03-24 | 2022-04-16 |
 | [Luvaroq](https://open.spotify.com/track/4WaqKOyMYufVzW57VrYc6U) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [Luvaroq](https://open.spotify.com/album/1pXnRcKwgFFQDSyUNWng6b) | 3:40 | 2021-12-23 | 2022-07-29 |
 | [L’Anthropofemme](https://open.spotify.com/track/5LDkPdCtlZpf5gWsFjghri) | [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK) | [L’Anthropofemme](https://open.spotify.com/album/2rdk5oMRB4g6yBMxzXPv7I) | 3:10 | 2024-01-18 | 2024-02-16 |
+| [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 | 2024-09-06 |  |
 | [Magic](https://open.spotify.com/track/487daYdwjgsdWz8fY6axV2) | [80KIDZ](https://open.spotify.com/artist/6ah9gnwgMJ1PMKhkKOwH1D), [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ANGLE](https://open.spotify.com/album/0uIkLtmXLsNluUtpKszbr6) | 4:01 | 2022-03-10 | 2022-06-19 |
 | [Magical](https://open.spotify.com/track/3vwd499tfp2HSDJ7HN7ZHt) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [IT'S not YOU, it's me](https://open.spotify.com/album/59fRFRS8RpqQEnq9B9kUTf) | 2:46 | 2023-03-30 | 2023-05-19 |
 | [Magnificent](https://open.spotify.com/track/287p7lbcw95SrINpsNJTzk) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Magnificent](https://open.spotify.com/album/2ByZUAzcozWClH2N1gIAqz) | 4:28 | 2022-03-24 | 2022-04-21 |

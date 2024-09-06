@@ -4,7 +4,7 @@
 
 > 
 
-758 songs - 1 day 12 hr 22 min
+759 songs - 1 day 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -641,6 +641,7 @@
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-09 | 2023-12-14 |
 | [Stumblin'](https://open.spotify.com/track/1SqocC5Kczq2f7Y0Uxdz8j) | [Maitchhh, Ion999](https://open.spotify.com/artist/2jJ3dHmsUVS70WcJidjy0P) | [Stumblin'](https://open.spotify.com/album/5UK34UItPiyIEElV7TYc54) | 3:51 | 2022-10-21 | 2023-12-14 |
 | [Succubus](https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:29 | 2023-10-27 | 2024-04-24 |
+| [Sugar Water](https://open.spotify.com/track/3V3RTC6VfgbNSEH6fZLBtR) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/1YzRTeNdwXPnEf9D9mfmOQ) | 2:25 | 2024-09-05 |  |
 | [Suicide Doors](https://open.spotify.com/track/3fDTzkvrOo5xQIO480Qmsb) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 4:19 | 2023-07-12 | 2024-03-05 |
 | [Suicide Mission](https://open.spotify.com/track/6GpRLxHvsTayOnY83TZdmM) | [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [Suicide Mission](https://open.spotify.com/album/3oXmHRYseFn96UYT2I3BR1) | 2:25 | 2022-09-12 | 2023-04-12 |
 | [Sum 2 do](https://open.spotify.com/track/7sjhOYcPgeSv3oj3IkFTeK) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 2:32 | 2023-12-20 | 2024-04-24 |

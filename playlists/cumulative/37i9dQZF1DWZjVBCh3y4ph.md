@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Fanny J
+> Les hits zouk du moment\. Photo : DJ Kawest
 
-153 songs - 8 hr 9 min
+155 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 | 2024-02-08 |  |
 | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/track/6e5pkeDJe4kfJgKuqP3xQH) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Inkonpatible \(feat\. Lycinaïs Jean\)](https://open.spotify.com/album/7gz1BW4xlM8NHMslH42IEv) | 3:10 | 2024-08-01 |  |
 | [Intouchable](https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Intouchable](https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha) | 3:46 | 2024-01-04 | 2024-06-01 |
+| [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 | 2024-09-05 |  |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
 | [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-30 | 2024-07-19 |
 | [Je veux ton coeur](https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc) | [Teety](https://open.spotify.com/artist/6HeLKMKnHapbFxCOFppEF9) | [Je veux ton coeur \(Audio\)](https://open.spotify.com/album/3KzcVgfho9IgIo24nqWtVt) | 3:37 | 2023-09-28 | 2023-10-06 |
@@ -78,7 +79,7 @@
 | [Limbisa \- Kriolu Version](https://open.spotify.com/track/0e8djkn3TGLjP9VstMyOZt) | [Lisandro Cuxi](https://open.spotify.com/artist/18B188KE3gPEhXfx15XnhY) | [Limbisa \(Kriolu Version\)](https://open.spotify.com/album/7EqW8r7VH9W0E2JeQAcfq1) | 2:43 | 2023-09-28 | 2023-12-22 |
 | [Loin d'ici](https://open.spotify.com/track/22nGLFY5Ak7DYjCoIAYl2V) | [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [POISON](https://open.spotify.com/album/2tHdpuWyzPzGZuNxErPaPG) | 3:09 | 2024-06-06 |  |
 | [LOUD](https://open.spotify.com/track/4jJBZuAd8KHFS9ALEZsAM3) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Magdala](https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz) | [LOUD](https://open.spotify.com/album/1YrHvEby37Qg6RkeB0Kdyg) | 3:00 | 2023-11-09 | 2024-01-19 |
-| [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-02-08 |  |
+| [Ma dose](https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [Ma dose](https://open.spotify.com/album/2LFPrhcBAXLKzl99gVgj7z) | 2:55 | 2024-02-08 | 2024-09-06 |
 | [Ma partition](https://open.spotify.com/track/4uokP7DOEf7LKERqIEsHat) | [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Ma partition](https://open.spotify.com/album/3w5UZizv5UTz34NJXGuJE7) | 3:35 | 2024-08-22 |  |
 | [Ma Vie](https://open.spotify.com/track/0NaxyxpoxUugFeGx4B2YW3) | [Axel Tony](https://open.spotify.com/artist/4G64n0HC3gXlYvZeeuYYuh), [Princess' Lover](https://open.spotify.com/artist/2MR0CohJ0bX97VcvgcIhsl) | [En Boucle \(Deluxe\)](https://open.spotify.com/album/2zNXO3bjMY3VJI1ASnhqNs) | 3:06 | 2023-09-28 | 2023-12-22 |
 | [Madame](https://open.spotify.com/track/6RcTLTiuhMr7ufrehTkT47) | [Maiko](https://open.spotify.com/artist/2Q9GRYHW7SsDdDrZghr3Sd) | [Madame](https://open.spotify.com/album/1kzwySJHeTPXZ5Ryqj6fcE) | 3:12 | 2023-11-23 | 2024-06-07 |
@@ -108,6 +109,7 @@
 | [Pa Nowmal](https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Pa Nowmal](https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ) | 3:47 | 2024-02-08 |  |
 | [Padoné´m](https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [DJ ZOXY](https://open.spotify.com/artist/5b6w6ijGuL3InHAhilZ87E) | [Padoné´m](https://open.spotify.com/album/6VumwiygGh99yBroZW1C6R) | 3:30 | 2024-06-06 | 2024-07-12 |
 | [Partons](https://open.spotify.com/track/6x549B62Wsm1IytHDL9VbQ) | [Yoan](https://open.spotify.com/artist/3zLakmncfxwiYZRHe0i5Ke) | [Partons](https://open.spotify.com/album/0445yJTHQ6gwNVabVcbMT1) | 3:13 | 2024-06-20 |  |
+| [Patché Pata](https://open.spotify.com/track/2fHdAwgVFYMqRs0Gul1jji) | [Saina Manotte](https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj), [Pompis](https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI) | [Patché Pata](https://open.spotify.com/album/52Vqc4Gt6W0W0ymKeaOftd) | 2:47 | 2024-09-05 |  |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
 | [PLAN B](https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [PLAN B](https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG) | 3:21 | 2024-05-02 | 2024-08-30 |
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-09-28 | 2023-11-24 |
@@ -137,7 +139,7 @@
 | [Tellement doux](https://open.spotify.com/track/3o1osJPn6XpsoWa3S5AHDN) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/7z6iLtGQjSt4R2WOTSCW41) | 3:15 | 2024-03-07 | 2024-04-19 |
 | [Tellement doux](https://open.spotify.com/track/7fqvFVk7ZE7GzHQwcPJNdR) | [Liljooe](https://open.spotify.com/artist/1fXRDObcekmH7aEVbCqsYZ) | [Tellement doux](https://open.spotify.com/album/1njifPExP5d1ZwFuOFXa5j) | 3:15 | 2024-01-11 | 2024-06-28 |
 | [Tic Tac](https://open.spotify.com/track/2n7kwiBaEjDdBzwrbKl7e1) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Tic Tac](https://open.spotify.com/album/0ZfpOUYxc42l8gNcpYoUM3) | 2:37 | 2024-07-25 | 2024-08-08 |
-| [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 |  |
+| [TKT PAS](https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [TKT PAS](https://open.spotify.com/album/5EtCIE7heSTXlbxPIefyyK) | 3:26 | 2023-11-16 | 2024-09-06 |
 | [Ton amour](https://open.spotify.com/track/2iEdw5ymM0dVzaeZHEq4JI) | [Nk Divine](https://open.spotify.com/artist/5uUyNQRdjYew8L4OfHPcqD), [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [DESTINÉE chapitre II in ut regium](https://open.spotify.com/album/1jnGuJq0cEPWYWsGPFaUCH) | 2:32 | 2024-07-25 | 2024-08-30 |
 | [TON PIED MON PIED](https://open.spotify.com/track/27Dsm5M4o01VCzFrTMHx7b) | [Varaine Ben](https://open.spotify.com/artist/6dP1hrA6zbtVabsfbjiTL8) | [TON PIED MON PIED](https://open.spotify.com/album/5vRxSbGuUdaGP4WR5uSlE1) | 2:55 | 2024-06-20 | 2024-07-19 |
 | [Tou Sa Ki Fo](https://open.spotify.com/track/3DZJQP0BrrpSWKPT8KXMQh) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Tou Sa Ki Fo](https://open.spotify.com/album/7cBHtC6kiiKJbmg4fFBco1) | 2:52 | 2023-09-28 | 2024-02-09 |

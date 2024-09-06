@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/331479?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/331675">連動記事</a>をSPICEでチェック!
 
 7,627 songs - 19 day 13 hr 33 min
 
@@ -927,7 +927,7 @@
 | [Cuba, Awakeness](https://open.spotify.com/track/0oSknD0vbuX2gqvu93KMsI) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [YELLOW](https://open.spotify.com/album/4hCFV2a5LJ5pj5Iq0taMPl) | 3:26 | 2023-08-30 | 2023-09-06 |
 | [Cube](https://open.spotify.com/track/3QSUyvnLOX7t6ygwI2RTGb) | [Hannah Warm](https://open.spotify.com/artist/3NpwE88TR2nUKcmg87MeL7) | [Cube](https://open.spotify.com/album/6EDyXrQifwCdJP5jnX9B65) | 2:58 | 2023-12-19 | 2023-12-27 |
 | [Cubism](https://open.spotify.com/track/2vQi0AbpCSO0YRSmH44Jzl) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv) | [Cubism](https://open.spotify.com/album/7kZYHnhPHOqT4T0KRaUYVx) | 3:13 | 2024-04-02 | 2024-04-10 |
-| [CUE :\)](https://open.spotify.com/track/4dbc3zkAP1RAPk84w6o6Cs) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [DJ YEN](https://open.spotify.com/artist/3PU8RwsWsS9uZmH1V2C4wn) | [CUE :\)](https://open.spotify.com/album/5vt7rKllGYhmP6fmlX4zNR) | 3:24 | 2024-09-04 |  |
+| [CUE :\)](https://open.spotify.com/track/4dbc3zkAP1RAPk84w6o6Cs) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [CUE :\)](https://open.spotify.com/album/5vt7rKllGYhmP6fmlX4zNR) | 3:24 | 2024-09-04 |  |
 | [Culmo Jackson](https://open.spotify.com/track/63mmgwdSYGIxPBkNMjYXCZ) | [The Hilt](https://open.spotify.com/artist/64Xme46arkk02d8HfUrbYZ), [Monsieur Jovoni](https://open.spotify.com/artist/3xuKlsLk8I0Ch7gtyTKD2I), [A.Valley](https://open.spotify.com/artist/3cjK1QEOZqwFIGr5Yxluql), [MJ the Sensei](https://open.spotify.com/artist/0zHReD52l5uUj2U7fdARpo), [J the Protagonist](https://open.spotify.com/artist/7bQHeTX7EYY0zYRQMmVGAe) | [Culmo Jackson](https://open.spotify.com/album/5v0YSmTXVWhJiS569M4JvB) | 2:32 | 2024-01-16 | 2024-01-24 |
 | [CULT SPEAKERS](https://open.spotify.com/track/4xmwDkVWc8YY2Qs9RltVPy) | [Suspended 4th](https://open.spotify.com/artist/6q0QNKHpDI9j3lOCRxoPyp) | [CULT SPEAKERS](https://open.spotify.com/album/1iCqSSwihsJjHUMoT067Da) | 3:28 | 2023-12-13 | 2023-12-20 |
 | [Cult.](https://open.spotify.com/track/2CBkM69RwTqvBe6xsvMn8M) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Cult.](https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o) | 4:28 | 2023-11-21 | 2023-11-29 |

@@ -2,7 +2,7 @@
 
 ### [This Is Kemilly Santos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0mcByN)
 
-> This is Kemilly Santos\. The essential tracks, all in one playlist.
+> This is Kemilly Santos。アーティストの代表曲をひとつのプレイリストに。
 
 53 songs - 4 hr 5 min
 

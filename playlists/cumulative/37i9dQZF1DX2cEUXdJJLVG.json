@@ -7597,6 +7597,28 @@
     },
     {
       "album": {
+        "name": "What Makes You Dance (Vocal Version)",
+        "url": "https://open.spotify.com/album/4IsLiLDHUzUMB8UVN31IvE"
+      },
+      "artists": [
+        {
+          "name": "Misto Kay",
+          "url": "https://open.spotify.com/artist/0rsQVrlGriu6AjSiSu0llW"
+        },
+        {
+          "name": "Mo Wrights",
+          "url": "https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300624,
+      "name": "What Makes You Dance - Vocal Version",
+      "url": "https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik"
+    },
+    {
+      "album": {
         "name": "Persona (Deluxe)",
         "url": "https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB"
       },

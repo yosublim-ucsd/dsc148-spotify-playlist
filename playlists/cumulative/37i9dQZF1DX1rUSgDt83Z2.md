@@ -4,7 +4,7 @@
 
 > Mooi van eigen bodem, nationaal in elke taal.
 
-66 songs - 3 hr 29 min
+68 songs - 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All We Need](https://open.spotify.com/track/6M7IyHyAWnRIVIjqcnjhAO) | [Ed Struijlaart](https://open.spotify.com/artist/08cpwYrPWo8Xkxl9qdiDP2) | [All We Need](https://open.spotify.com/album/1cxwHJeUhCpJP7MLDY1Pw3) | 3:03 | 2024-06-24 |  |
 | [Alle sterke mensen](https://open.spotify.com/track/01a4YW6fMlq7oa3Tlx0yVI) | [Gerson Main](https://open.spotify.com/artist/4Dx8d8fm84Z6b1RDuF4Co7) | [Alle sterke mensen](https://open.spotify.com/album/7CWmjZX0RujBqmDn6EpmuQ) | 2:49 | 2024-06-27 |  |
 | [Als Nu Nu Is](https://open.spotify.com/track/7BULw4wshBw0FzcosF7wgf) | [Joost & Bar](https://open.spotify.com/artist/5nmQxVw4RSwLYvj5IqfRI1) | [Als Nu Nu Is](https://open.spotify.com/album/2ESWFC4Y56iHorfe5y74V9) | 2:54 | 2024-07-22 |  |
+| [Alsof](https://open.spotify.com/track/0AqCxKxCmZcLpWW4hD4hWv) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Alsof](https://open.spotify.com/album/6VtLheGYOudLBOwCTkDK9S) | 2:55 | 2024-09-05 |  |
 | [Belangrijk](https://open.spotify.com/track/6QJFBH8HpTzTVVNE7Crbh2) | [Dwight Dissels](https://open.spotify.com/artist/6mJqqz8Dra13cr75NGhC7f) | [Belangrijk](https://open.spotify.com/album/0KpvKRZa46wgvsDtXlVCTt) | 3:54 | 2024-07-22 |  |
 | [Brandende Zee](https://open.spotify.com/track/2Z9qbGSmIaIZEZeEfAjAUt) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Brandende Zee](https://open.spotify.com/album/19ijVBynplq41Q4ra9fVhf) | 3:49 | 2024-06-24 |  |
 | [Chase My Heart Away \(Hero\)](https://open.spotify.com/track/0dX23H5gyR8CyaPLYN5hnP) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Chase My Heart Away \(Hero\)](https://open.spotify.com/album/0mQHBusXGoYpuHYXt6mS93) | 3:29 | 2024-06-24 | 2024-07-27 |
@@ -34,7 +35,8 @@
 | [I Won't Back Down](https://open.spotify.com/track/57Pi3DaG8nmHuFpLhwXRmF) | [Lisa Ploeger](https://open.spotify.com/artist/5wF8hWTn52B6QYhCXVJiuh) | [I Won't Back Down](https://open.spotify.com/album/6pmkV4SFjBSc01k7c8R3Pu) | 3:19 | 2024-06-24 | 2024-08-30 |
 | [It's You Or Me](https://open.spotify.com/track/4hq7e1IgOKKS3nmfUaEwaH) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [It's You Or Me](https://open.spotify.com/album/1arwfvhx4Ox7cl84QqHCUl) | 3:54 | 2024-06-24 |  |
 | [Kom Met Me Dansen](https://open.spotify.com/track/3F6BHPhUkM5jKzpzJAxw90) | [Krystl](https://open.spotify.com/artist/7eacKV5WqetV2IZTDrwKhi) | [Kom Met Me Dansen](https://open.spotify.com/album/6kCO8tjI1Tzs9jWH9v66e3) | 4:00 | 2024-07-25 |  |
-| [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 | 2024-06-24 |  |
+| [Kwattaweg](https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5) | [ANDRO](https://open.spotify.com/artist/2VOCs6lYNw7KgXminnltr5) | [We Zijn Hier](https://open.spotify.com/album/1rsOJSZNmEwcqoHIBcjmMg) | 2:39 | 2024-09-05 |  |
+| [Let You Go](https://open.spotify.com/track/63t1r4qxpc8WmM3sGW03cM) | [Martin Jasper](https://open.spotify.com/artist/7vcAIkOgnOD1L8aXk7YheZ) | [Let You Go](https://open.spotify.com/album/5f0BeyC7OKitwUPFjZl6IW) | 2:46 | 2024-06-24 | 2024-09-06 |
 | [Little darling](https://open.spotify.com/track/091YZFlY55pe02VFuqmutv) | [Laura van Kaam](https://open.spotify.com/artist/4ywz66EHjNFUszU6lXLsXe) | [Little darling](https://open.spotify.com/album/4mh4TeD0yoM0aKIMiBpA4j) | 3:13 | 2024-06-24 | 2024-07-23 |
 | [Louder](https://open.spotify.com/track/1F3tkkKZrYFxQJ9d8EKePh) | [Dotan](https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H) | [Louder](https://open.spotify.com/album/5sIGXhcUk3h0RyJVw0Mag3) | 3:49 | 2024-06-24 | 2024-08-30 |
 | [Maar Niet Met Jou Erbij](https://open.spotify.com/track/1mYqzZR5sfv0zZhgtyUsna) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Maar Niet Met Jou Erbij](https://open.spotify.com/album/6KGMZMTMQvbFgaqZJDu1ey) | 3:01 | 2024-06-24 |  |
@@ -70,7 +72,7 @@
 | [Wat Ik Ook Ga Doen](https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1) | [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Wat Ik Ook Ga Doen](https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY) | 2:38 | 2024-06-24 |  |
 | [What If I Want You Now](https://open.spotify.com/track/6yYFUkI1RitIRxGlXadb4d) | [KANE](https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6) | [What If I Want You Now](https://open.spotify.com/album/43fvwvfFC0F8XVLhzeXKaq) | 3:10 | 2024-06-24 | 2024-08-30 |
 | [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 | 2024-06-24 | 2024-07-12 |
-| [YOUNGER ME](https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [YOUNGER ME](https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX) | 3:06 | 2024-07-11 |  |
+| [YOUNGER ME](https://open.spotify.com/track/3zltYP3YIcvM1LkMT1Mitr) | [Inge Lamboo](https://open.spotify.com/artist/6XpM8vftkvjA114GyLB8hz) | [YOUNGER ME](https://open.spotify.com/album/6ikyXmmKQY2xBz6EXCxvlX) | 3:06 | 2024-07-11 | 2024-09-06 |
 | [Zeg Niks](https://open.spotify.com/track/5dBGZaXPyxlAZoGqbshZLb) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Zeg Niks](https://open.spotify.com/album/7tI2nI10T5KYcE11Nt76n3) | 3:13 | 2024-06-24 |  |
 | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ) | [Re\-Play](https://open.spotify.com/artist/3P6TDldsIBKCowucdJfFZd), [Ruth Jacott](https://open.spotify.com/artist/0NM27i2hSW1lbc7rYa5D6u) | [Zie Ik Jou Weer Morgen?](https://open.spotify.com/album/0tUcPCqXyt90DHnHWMtaMo) | 3:08 | 2024-06-27 |  |
 | [Zomaar Zomer](https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y) | [Simon Keizer](https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2) | [Zomaar Zomer](https://open.spotify.com/album/07sVqmOJJWQfQHdaushDSO) | 2:18 | 2024-07-22 |  |

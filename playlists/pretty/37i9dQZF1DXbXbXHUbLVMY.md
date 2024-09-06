@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,304 likes - 80 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,303 likes - 80 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXbXHUbLVMY.md) - [plain]
 | 79 | [Igjen](https://open.spotify.com/track/0fTITw88Jr9xtvwbXzNQeW) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Å Drukne En Fisk](https://open.spotify.com/album/4v3uw177yv8f3AcStx8jkK) | 2:29 |
 | 80 | [Slipp](https://open.spotify.com/track/0maSJGlqjImKAXWJdvICqZ) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t), [Tshawe](https://open.spotify.com/artist/3gS0rQdigX9t4PJu1ay3BY) | [Slipp](https://open.spotify.com/album/08H5x80tXnqO9M1U5V21By) | 2:59 |
 
-Snapshot ID: `Zse04AAAAAAVW0vRRkH6NErBZLY8gAo+`
+Snapshot ID: `Ztop4AAAAAAph+LBlUSFcwFJ/3gaqOgF`

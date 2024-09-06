@@ -5738,7 +5738,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 182000,
       "name": "jingle.tm - remix",
       "url": "https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5"
@@ -7504,6 +7504,24 @@
       "duration_ms": 218258,
       "name": "Nada a Esconder",
       "url": "https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX"
+    },
+    {
+      "album": {
+        "name": "NADA DE NOVO",
+        "url": "https://open.spotify.com/album/6qzOOim4Cn6gYlOtNCxeBU"
+      },
+      "artists": [
+        {
+          "name": "Kyle Quest",
+          "url": "https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164732,
+      "name": "NADA DE NOVO",
+      "url": "https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A"
     },
     {
       "album": {

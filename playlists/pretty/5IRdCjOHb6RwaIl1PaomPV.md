@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from evilgiane &amp; Nourished by Time, Eera, Kito + the latest cuts from Miss Mdeline, Merry Lamb Lamb  &amp; more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,750 likes - 101 songs - 5 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,747 likes - 101 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 |
 | 2 | [Crash](https://open.spotify.com/track/02BfeOKVVYNBernetHoanQ) | [Eera](https://open.spotify.com/artist/2pEvCYGB3kxgoesDK5kt2P) | [Crash](https://open.spotify.com/album/1od34k2qnVdccjj2GDfiY0) | 5:13 |
-| 3 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
+| 3 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 4 | [Shake It Like A \(feat\. Danny Brown\)](https://open.spotify.com/track/0ckT2CLzy9AZrqH47AZ6yc) | [Frost Children](https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [Shake It Like A \(feat\. Danny Brown\)](https://open.spotify.com/album/3cQBYLjNbuCMHBpiWTwIar) | 3:17 |
 | 5 | [WORLDWIDE](https://open.spotify.com/track/7zFkGRqHaa2KzL4l4cLIL5) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [So Dramatic](https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp) | 2:18 |
 | 6 | [Favorita](https://open.spotify.com/track/0gwbpSOdruAYk3FETUBKif) | [GRIGGY](https://open.spotify.com/artist/14taCFzU37WYRPttdu7plf) | [Favorita](https://open.spotify.com/album/5jNdazuk1sLFM7kPMJ7geF) | 2:55 |

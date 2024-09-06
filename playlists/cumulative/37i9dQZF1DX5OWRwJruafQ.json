@@ -5667,6 +5667,24 @@
     },
     {
       "album": {
+        "name": "Lakh Lagje",
+        "url": "https://open.spotify.com/album/49uhqEP8BvmBraMlXHADRT"
+      },
+      "artists": [
+        {
+          "name": "Love Brar",
+          "url": "https://open.spotify.com/artist/60lKtBkcPvtB70ZNkGzUeQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201132,
+      "name": "Lakh Lagje",
+      "url": "https://open.spotify.com/track/3jo8Skp9Zb42J7smlir9pz"
+    },
+    {
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -9524,7 +9542,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195000,
       "name": "Tu Te Sharab",
       "url": "https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9"

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Alkaline Trio. Los temas esenciales, todos en una lista.",
-  "num_followers": 20687,
+  "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
+  "num_followers": 20700,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACzcZSqW0IZ3xKIzHyUxJRM",
+  "snapshot_id": "ZtejAAAAAAD9rHT2KGlnY5nLk9wOT5ms",
   "tracks": [
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 196360,
-      "name": "Demon and Division",
-      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
+      "duration_ms": 163506,
+      "name": "Is This Thing Cursed?",
+      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Found a Way",
-        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225533,
-      "name": "I Found a Way",
-      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+      "duration_ms": 201320,
+      "name": "Kiss You To Death",
+      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
     },
     {
       "added_at": null,
@@ -740,15 +740,15 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 163506,
-      "name": "Is This Thing Cursed?",
-      "url": "https://open.spotify.com/track/4KgLMgC9724dK12vbHkbYk"
+      "duration_ms": 196360,
+      "name": "Demon and Division",
+      "url": "https://open.spotify.com/track/1z1KFCZnxDl5YsJPhJcqqB"
     },
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "I Found a Way",
+        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 201320,
-      "name": "Kiss You To Death",
-      "url": "https://open.spotify.com/track/74ocpSSePJzUbfstuWISWD"
+      "duration_ms": 225533,
+      "name": "I Found a Way",
+      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
+        "name": "My Shame Is True (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 187480,
-      "name": "Maybe I'll Catch Fire",
-      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
+      "duration_ms": 130720,
+      "name": "I, Pessimist",
+      "url": "https://open.spotify.com/track/219DU5WdarWWzSssghQqPH"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Shame Is True (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/47ooGYp4iWw3HqEYpMPMIV"
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/2cosroXFwTeqXEwrWEXFJK"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 130720,
-      "name": "I, Pessimist",
-      "url": "https://open.spotify.com/track/219DU5WdarWWzSssghQqPH"
+      "duration_ms": 187480,
+      "name": "Maybe I'll Catch Fire",
+      "url": "https://open.spotify.com/track/1SAu5cfWXQPqd3CppSkhWA"
     }
   ],
   "unique_name": "This Is Alkaline Trio",

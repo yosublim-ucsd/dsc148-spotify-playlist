@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Beyond titles, beyond genre. Cover: Jamie xx",
+  "description": "Beyond titles, beyond genre. Cover: Jungle",
   "name": "UNTITLED",
   "tracks": [
     {
@@ -313,6 +313,24 @@
     },
     {
       "album": {
+        "name": "Behind The Curtain",
+        "url": "https://open.spotify.com/album/185OtflbDmpXsuk4On7bXM"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157120,
+      "name": "Behind The Curtain",
+      "url": "https://open.spotify.com/track/6I4qOLo0kWFbCXRsJtU8vz"
+    },
+    {
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/6ormJEXkQnAbDrTZUdkZgv"
       },
@@ -372,6 +390,24 @@
       "duration_ms": 253057,
       "name": "Big Man",
       "url": "https://open.spotify.com/track/1kgEHdcA1hesiL4qFISZc4"
+    },
+    {
+      "album": {
+        "name": "Black Poppies",
+        "url": "https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Black Poppies",
+      "url": "https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT"
     },
     {
       "album": {
@@ -711,6 +747,24 @@
     },
     {
       "album": {
+        "name": "Crying Out For Love",
+        "url": "https://open.spotify.com/album/3ee2pERWiIBRX2aPPW2DzZ"
+      },
+      "artists": [
+        {
+          "name": "Tom Vek",
+          "url": "https://open.spotify.com/artist/4dGVRIf2xj0JhawVheLiOI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Crying Out For Love",
+      "url": "https://open.spotify.com/track/04g8JIcLIEeaKhJC0UHnmP"
+    },
+    {
+      "album": {
         "name": "cutting grass",
         "url": "https://open.spotify.com/album/7maQPrZw6mZViTmb2b9isU"
       },
@@ -722,7 +776,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 310361,
       "name": "cutting grass",
       "url": "https://open.spotify.com/track/0ppaXTvuIgsCIEws6shvAX"
@@ -1006,7 +1060,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 223904,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4I95FgYJkKw8HKrEli1WY2"
@@ -1107,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214469,
+      "name": "fear less",
+      "url": "https://open.spotify.com/track/4IHblO52meh2jwqES1BA7X"
+    },
+    {
+      "album": {
         "name": "When You Gonna Tell 'Em the Truth, Aaron?",
         "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
@@ -1140,6 +1216,42 @@
       "duration_ms": 229619,
       "name": "Floating Parade",
       "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
+    },
+    {
+      "album": {
+        "name": "FLUX",
+        "url": "https://open.spotify.com/album/1jXKXZjH3ESFcs3VBvoQSN"
+      },
+      "artists": [
+        {
+          "name": "TENDER",
+          "url": "https://open.spotify.com/artist/1I9HNoVK6kOQGVZfulXVnm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280840,
+      "name": "flux",
+      "url": "https://open.spotify.com/track/7Ls5alNvrm46CrJ2gETL53"
+    },
+    {
+      "album": {
+        "name": "For Sure",
+        "url": "https://open.spotify.com/album/5xFn52znOHVXnZlaDQVqrh"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593346,
+      "name": "For Sure",
+      "url": "https://open.spotify.com/track/2dUPhgv2YYEnbFrLZ16Ojt"
     },
     {
       "album": {
@@ -1401,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212927,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
+    },
+    {
+      "album": {
         "name": "Hallelujah!",
         "url": "https://open.spotify.com/album/5X6t1Y5kuS47gJSwfrAEH0"
       },
@@ -1416,7 +1546,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157593,
       "name": "Hallelujah!",
       "url": "https://open.spotify.com/track/7lbPVYxNxuQMdDpC4lwv5n"
@@ -1648,10 +1778,36 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 515500,
       "name": "I Guess Time Just Makes Fools of Us All",
       "url": "https://open.spotify.com/track/4xeFxp27NAtRoUrNcgVD9k"
+    },
+    {
+      "album": {
+        "name": "I Would Die 4 U",
+        "url": "https://open.spotify.com/album/5kDgEnfQkOrcYjl5v2VxbO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        },
+        {
+          "name": "Wendy & Lisa",
+          "url": "https://open.spotify.com/artist/5Fe7lgCHgCB8oZhG3KoTZz"
+        },
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201534,
+      "name": "I Would Die 4 U",
+      "url": "https://open.spotify.com/track/1R9ah1wItTvehP2whKXpQk"
     },
     {
       "album": {
@@ -1821,6 +1977,28 @@
     },
     {
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260997,
+      "name": "just stand there",
+      "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
+    },
+    {
+      "album": {
         "name": "K9",
         "url": "https://open.spotify.com/album/4yBjOCopyDn9TDoJHm59kf"
       },
@@ -1879,6 +2057,46 @@
     },
     {
       "album": {
+        "name": "kisses (Daniel Avery Remix) b/w kisses - sky ii",
+        "url": "https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "kisses - Daniel Avery Remix",
+      "url": "https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw"
+    },
+    {
+      "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
+    },
+    {
+      "album": {
         "name": "Mid Spiral: Chaos",
         "url": "https://open.spotify.com/album/4jSXr6It6ARLX8iDOHbwaJ"
       },
@@ -1908,10 +2126,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193493,
       "name": "Less of You",
       "url": "https://open.spotify.com/track/3IqGOQkS07q8HhGpGc4bjV"
+    },
+    {
+      "album": {
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "album": {
@@ -1991,6 +2227,28 @@
     },
     {
       "album": {
+        "name": "Hole Erth",
+        "url": "https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172893,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6"
+    },
+    {
+      "album": {
         "name": "Mahal",
         "url": "https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT"
       },
@@ -2024,7 +2282,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 298882,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/0K69bmjZwfIXmlnFN43SgS"
@@ -2086,6 +2344,24 @@
       "duration_ms": 231968,
       "name": "Mood To Make Love",
       "url": "https://open.spotify.com/track/7I6ULQAi5q2zmabIXA7w2w"
+    },
+    {
+      "album": {
+        "name": "mouthy",
+        "url": "https://open.spotify.com/album/1OMr8FjYQhhdt96kJhFVFd"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152694,
+      "name": "mouthy",
+      "url": "https://open.spotify.com/track/70aBphOfOhPka4WwhBvcQ4"
     },
     {
       "album": {
@@ -2470,7 +2746,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 129173,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/0FxrHtcqdrMsDsUOd8nDSd"
@@ -2603,6 +2879,24 @@
     },
     {
       "album": {
+        "name": "Roses Ether",
+        "url": "https://open.spotify.com/album/2otIbQUDCLNjKUM75j315q"
+      },
+      "artists": [
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178032,
+      "name": "Roses Ether",
+      "url": "https://open.spotify.com/track/6Ih6oi6CkOfkFaKvcQacw6"
+    },
+    {
+      "album": {
         "name": "empathogen",
         "url": "https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL"
       },
@@ -2716,7 +3010,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 293377,
       "name": "Satellite Business 2.0",
       "url": "https://open.spotify.com/track/5y6vRQJrzPveBmvysTE4UQ"
@@ -2836,6 +3130,24 @@
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/5up80b8x2wCG8qwM294QR6"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242194,
+      "name": "SilverCane",
+      "url": "https://open.spotify.com/track/7KyIWRsQLKsSSqxjHJ33FO"
     },
     {
       "album": {
@@ -3244,7 +3556,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 224000,
       "name": "Time",
       "url": "https://open.spotify.com/track/78Uo6eJIPkVo4Xw848NCN7"
@@ -3407,6 +3719,24 @@
     },
     {
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "UMPA",
+      "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
+    },
+    {
+      "album": {
         "name": "Under The Strikes",
         "url": "https://open.spotify.com/album/3X2bhCGH9RNj9gErZuY0Qn"
       },
@@ -3546,6 +3876,28 @@
       "duration_ms": 146086,
       "name": "We Move",
       "url": "https://open.spotify.com/track/7ahvkrZ5wIpOTRBKYmL0i0"
+    },
+    {
+      "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200737,
+      "name": "where will i be",
+      "url": "https://open.spotify.com/track/4S05mkyTtAiWy5l4umch0X"
     },
     {
       "album": {

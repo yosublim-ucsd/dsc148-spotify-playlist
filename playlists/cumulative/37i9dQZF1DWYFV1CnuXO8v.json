@@ -1577,6 +1577,24 @@
     },
     {
       "album": {
+        "name": "Enty El Amar",
+        "url": "https://open.spotify.com/album/4AoVpzWrxFobpYFE7IP4ux"
+      },
+      "artists": [
+        {
+          "name": "Abdelrahman Roshdy",
+          "url": "https://open.spotify.com/artist/4uKgnZbfQdntYvL9j9hzeK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206595,
+      "name": "Enty El Amar",
+      "url": "https://open.spotify.com/track/1JsvbUGLWrPUuyZoXqYjmT"
+    },
+    {
+      "album": {
         "name": "Ya Bent El Eih",
         "url": "https://open.spotify.com/album/5ptbpLwbos10hG8LIZNrge"
       },
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 257695,
       "name": "Fe Hetta Tanya",
       "url": "https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp"
@@ -2204,6 +2222,24 @@
       "duration_ms": 209764,
       "name": "Helw El Kalam",
       "url": "https://open.spotify.com/track/0K9cS7axpvMGE67LPO3lqH"
+    },
+    {
+      "album": {
+        "name": "Hena Hena",
+        "url": "https://open.spotify.com/album/6CjxysxsDyVNHP9v3WesPq"
+      },
+      "artists": [
+        {
+          "name": "Carmen Soliman",
+          "url": "https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201840,
+      "name": "Hena Hena",
+      "url": "https://open.spotify.com/track/1ld76Cgeeyf9onz2AdmhTJ"
     },
     {
       "album": {
@@ -3336,7 +3372,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 191322,
       "name": "Rawa2any",
       "url": "https://open.spotify.com/track/6znR1QMliqWnF5KQ6nJld2"

@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -1667,6 +1667,24 @@
     },
     {
       "album": {
+        "name": "Intersteller",
+        "url": "https://open.spotify.com/album/3pwtHGowQOfeEe22gaf5TE"
+      },
+      "artists": [
+        {
+          "name": "Penguin Piano",
+          "url": "https://open.spotify.com/artist/5GARimhxfjVVPvVBsplJlv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113499,
+      "name": "Drowning Love - Chasing Kou",
+      "url": "https://open.spotify.com/track/0JcINBOEZFMchzVInOdk1V"
+    },
+    {
+      "album": {
         "name": "Pump This Party",
         "url": "https://open.spotify.com/album/72qGHxPgwr5D1Gi0UMsj1j"
       },
@@ -1802,7 +1820,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -5364,7 +5382,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 120240,
       "name": "O Melhor no Que Faz 3.0",
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
@@ -6102,7 +6120,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148244,
       "name": "RUN! (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/1ZNrPyeyKs8YleAwY4vpKj"
@@ -7293,6 +7311,24 @@
     },
     {
       "album": {
+        "name": "Till The End",
+        "url": "https://open.spotify.com/album/7ChCLAPxluDqb7nvq6EmUV"
+      },
+      "artists": [
+        {
+          "name": "unshackled",
+          "url": "https://open.spotify.com/artist/7541yYNA9CAWFQE8dejvGd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229935,
+      "name": "Till The End",
+      "url": "https://open.spotify.com/track/2H0wVAvo4EktuSkxoYV2ke"
+    },
+    {
+      "album": {
         "name": "TRENCHBOY",
         "url": "https://open.spotify.com/album/6K1QskJv5Db6mv0J88KrCX"
       },
@@ -7916,7 +7952,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -10650,7 +10686,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
@@ -10922,10 +10958,36 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 184000,
       "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
       "url": "https://open.spotify.com/track/51NbxnUumMIZPZKKMU6owu"
+    },
+    {
+      "album": {
+        "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
+        "url": "https://open.spotify.com/album/5WFxDp5Oyuc2GfJE142S9l"
+      },
+      "artists": [
+        {
+          "name": "Lemaier",
+          "url": "https://open.spotify.com/artist/1hqPoQ4ygIEttexOevD5xv"
+        },
+        {
+          "name": "Gulyashik",
+          "url": "https://open.spotify.com/artist/70ahHabCiRxt2261B7W7p3"
+        },
+        {
+          "name": "Qurorr",
+          "url": "https://open.spotify.com/artist/2C0kEcT9mb6KMhJR3Z9IqG"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
+      "url": "https://open.spotify.com/track/6HqBnPp3mZCQYHJ9n9ACNk"
     },
     {
       "album": {
@@ -11586,6 +11648,24 @@
       "duration_ms": 95625,
       "name": "\u041e\u0431\u043e\u0436\u0430\u044e \u043a\u0430\u0439\u0444\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0gOXDu9DXKUErfkBTaRcNb"
+    },
+    {
+      "album": {
+        "name": "\u041e\u0434\u0438\u043d \u0432 \u043f\u043e\u043b\u0435 \u0432\u043e\u0438\u043d",
+        "url": "https://open.spotify.com/album/2mux3ebr0FRprDu2KMfZp0"
+      },
+      "artists": [
+        {
+          "name": "Bearwolf",
+          "url": "https://open.spotify.com/artist/7EphZt6JMWKGgPLG8NjAW6"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "\u041e\u0434\u0438\u043d \u0432 \u043f\u043e\u043b\u0435 \u0432\u043e\u0438\u043d",
+      "url": "https://open.spotify.com/track/6mVGjLZJde7C2olESoYE9K"
     },
     {
       "album": {
@@ -13200,7 +13280,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147425,
       "name": "\u0443\u0431\u0435\u0439 \u043c\u0435\u043d\u044f",
       "url": "https://open.spotify.com/track/4uBSuFDF9BHdF4ynsp3pmg"
@@ -13880,7 +13960,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 123000,
       "name": "\u042f \u0431\u0443\u0434\u0443 \u043f\u043e\u043f\u0443\u043b\u044f\u0440\u043d\u0435\u0435!",
       "url": "https://open.spotify.com/track/6BZ9Z7VedM86pOaef7tQ15"

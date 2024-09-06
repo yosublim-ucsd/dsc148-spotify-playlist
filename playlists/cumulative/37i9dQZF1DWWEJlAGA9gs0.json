@@ -5777,6 +5777,32 @@
     },
     {
       "album": {
+        "name": "Mahler: Symphony No. 2",
+        "url": "https://open.spotify.com/album/4CuL78ajX8ROdyAYv1ezmv"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Czech Philharmonic",
+          "url": "https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb"
+        },
+        {
+          "name": "Semyon Bychkov",
+          "url": "https://open.spotify.com/artist/6qg886AZaBjnfRF5tEs4Ht"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 655720,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": II. Andante moderato. Sehr gemaechlich",
+      "url": "https://open.spotify.com/track/5dDbXEip19cWfVDZdHABNK"
+    },
+    {
+      "album": {
         "name": "Classical Works: Mozart",
         "url": "https://open.spotify.com/album/54p240QL2BvIVq24s4vUgN"
       },

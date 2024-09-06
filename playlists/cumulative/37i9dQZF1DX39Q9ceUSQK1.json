@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe indie, rock en alternative. Cover: Glass Animals",
+  "description": "Nieuwe indie, rock en alternative. Cover: <a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest The Vices",
   "name": "New Alternative",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173013,
       "name": "All Again",
       "url": "https://open.spotify.com/track/4KVpza8DNWl7v61rhv2IYA"
@@ -132,6 +132,24 @@
       "duration_ms": 167493,
       "name": "All Kinds Of People",
       "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
+    },
+    {
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233397,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn"
     },
     {
       "album": {
@@ -225,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Better Than God",
+        "url": "https://open.spotify.com/album/50DXKDGoGawgW5QzLcXkZv"
+      },
+      "artists": [
+        {
+          "name": "RHEA",
+          "url": "https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196049,
+      "name": "Better Than God",
+      "url": "https://open.spotify.com/track/6PXg4maKBeSFlhiFPbGap2"
+    },
+    {
+      "album": {
         "name": "Big Time Nothing",
         "url": "https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X"
       },
@@ -236,7 +272,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
@@ -294,6 +330,24 @@
       "duration_ms": 150029,
       "name": "Claim To Fame",
       "url": "https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M"
+    },
+    {
+      "album": {
+        "name": "WOOF.",
+        "url": "https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226737,
+      "name": "Closer to God",
+      "url": "https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2"
     },
     {
       "album": {
@@ -434,7 +488,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173426,
       "name": "Downwards",
       "url": "https://open.spotify.com/track/4QzU8IMWxU3c9ech5Xg8YA"
@@ -506,7 +560,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 214776,
       "name": "Favourite Songs",
       "url": "https://open.spotify.com/track/6HRQ8K09zFUODljpu7lhn6"
@@ -567,6 +621,24 @@
     },
     {
       "album": {
+        "name": "For a Friend",
+        "url": "https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg"
+      },
+      "artists": [
+        {
+          "name": "Elephant",
+          "url": "https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198907,
+      "name": "For a Friend",
+      "url": "https://open.spotify.com/track/2mLdVh2Qxkf8UFBAKRHH6w"
+    },
+    {
+      "album": {
         "name": "Fun Fact",
         "url": "https://open.spotify.com/album/5EAS9bSHTwrTlizIJIVUqO"
       },
@@ -582,6 +654,24 @@
       "duration_ms": 151141,
       "name": "Fun Fact",
       "url": "https://open.spotify.com/track/1f5EdRf2pijijsSEeJBaKg"
+    },
+    {
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174869,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm"
     },
     {
       "album": {
@@ -636,6 +726,24 @@
       "duration_ms": 177867,
       "name": "I Can Be Your Personal Trainer",
       "url": "https://open.spotify.com/track/5BUXRb2mj07Jhglst2dUpz"
+    },
+    {
+      "album": {
+        "name": "I Want It All",
+        "url": "https://open.spotify.com/album/3WDpCrcxGaat5ExupeTV1c"
+      },
+      "artists": [
+        {
+          "name": "Lenny Monsou",
+          "url": "https://open.spotify.com/artist/1mCVKxQihZkfBjdphoGLT3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139308,
+      "name": "I Want It All",
+      "url": "https://open.spotify.com/track/0xOqlgHD7UKRGB2TM6Tthw"
     },
     {
       "album": {
@@ -866,7 +974,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 146826,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7p7D2nrK1QXkTlVBFuprGD"
@@ -956,7 +1064,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 289097,
       "name": "Merry Old England",
       "url": "https://open.spotify.com/track/3BxzLyZAlj0fKDGo9iuw5F"
@@ -1118,7 +1226,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 214000,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/4S85XqWBdcYn7CMq4wZRuN"
@@ -1154,7 +1262,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 191466,
       "name": "Parked Car Conversations",
       "url": "https://open.spotify.com/track/1xLoBwOKMtCq3tALgb8F6A"
@@ -1288,7 +1396,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 162785,
       "name": "Round",
       "url": "https://open.spotify.com/track/590wnEjl9OYl7dJQ6Eb3OO"
@@ -1583,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "Stray Dog (Session 388)",
+        "url": "https://open.spotify.com/album/4SJ0GH4mcLsSpiKxrNR1nd"
+      },
+      "artists": [
+        {
+          "name": "Subterranean Street Society",
+          "url": "https://open.spotify.com/artist/2k1ZiGmJ759N7UmlTXGbEe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Stray Dog - Session 388",
+      "url": "https://open.spotify.com/track/1TmUHwM2umXy3JF6Sz1vTG"
+    },
+    {
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
       },
@@ -1648,10 +1774,46 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173866,
       "name": "The Craving - single version",
       "url": "https://open.spotify.com/track/0S7lkKStHgfgjgwSFOvRNA"
+    },
+    {
+      "album": {
+        "name": "The Mirror",
+        "url": "https://open.spotify.com/album/61cO8XhTmKxop0sic3zPIZ"
+      },
+      "artists": [
+        {
+          "name": "Bongloard",
+          "url": "https://open.spotify.com/artist/14irVozeTn0DEdXOdaWxow"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183173,
+      "name": "The Mirror",
+      "url": "https://open.spotify.com/track/2XuQYRC1eHBFZ1AER3EQbP"
+    },
+    {
+      "album": {
+        "name": "Gift Horse",
+        "url": "https://open.spotify.com/album/0IzNKyesKN0lCIO2e8kUDa"
+      },
+      "artists": [
+        {
+          "name": "Cloud Cafe",
+          "url": "https://open.spotify.com/artist/6ZLN3zJF1GLVaSNk7tU3MY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120550,
+      "name": "The Ride Home",
+      "url": "https://open.spotify.com/track/5SGlJZH10ztCskNdXORhbu"
     },
     {
       "album": {
@@ -1692,6 +1854,24 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
     },
     {
       "album": {
@@ -1742,7 +1922,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 206659,
       "name": "U Should Not Be Doing That",
       "url": "https://open.spotify.com/track/20H3uanVBm4oOZ27yHco3Y"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
+  "description": "This is Pauline Oliveros. Track-track unggulan, semuanya dalam satu playlist.",
   "name": "This Is Pauline Oliveros",
   "tracks": [
     {
@@ -198,7 +198,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157400,
       "name": "Alien Makeover",
       "url": "https://open.spotify.com/track/2YBqSfVClH6M5I5Ouyt7w9"
@@ -908,7 +908,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 176026,
       "name": "Davide",
       "url": "https://open.spotify.com/track/1oaydiJBUyrZJtpk7SFopD"
@@ -1038,7 +1038,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 211093,
       "name": "Display of Plasma",
       "url": "https://open.spotify.com/track/5xNggf69ytqkDlULoIPU3n"
@@ -1574,7 +1574,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-10",
+      "date_removed": null,
       "duration_ms": 968040,
       "name": "III",
       "url": "https://open.spotify.com/track/63sKc5bAefymu5ity0Qpbo"
@@ -2976,7 +2976,7 @@
       ],
       "date_added": "2023-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 469973,
       "name": "Sandra",
       "url": "https://open.spotify.com/track/7Ece4pbj8LC27e2YUCKwwS"
@@ -3616,7 +3616,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 1504466,
       "name": "The Beauty Of Sorrow",
       "url": "https://open.spotify.com/track/078txIRiyvxbjjYesA9qy6"
@@ -4420,9 +4420,39 @@
           "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
         }
       ],
-      "date_added": "2024-08-30",
+      "date_added": "2024-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 688425,
+      "name": "Untitled #270",
+      "url": "https://open.spotify.com/track/55ZG1nvyNx0sqNCNhA0KMq"
+    },
+    {
+      "album": {
+        "name": "Quartet for the End of Space",
+        "url": "https://open.spotify.com/album/3KVPHG3HBlsKFDcUQ9sISO"
+      },
+      "artists": [
+        {
+          "name": "Doug Van Nort",
+          "url": "https://open.spotify.com/artist/1UmXzF9w5fJ5TP34bJYFbv"
+        },
+        {
+          "name": "Francisco L\u00f3pez",
+          "url": "https://open.spotify.com/artist/2NIo9CSlxx2pArdKee4hes"
+        },
+        {
+          "name": "Jonas Braasch",
+          "url": "https://open.spotify.com/artist/7afoLzRgffLzdSmKzYR1vq"
+        },
+        {
+          "name": "Pauline Oliveros",
+          "url": "https://open.spotify.com/artist/27RypxD9VhgrvCg9QePTLi"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": "2024-09-06",
       "duration_ms": 555891,
       "name": "Untitled #273",
       "url": "https://open.spotify.com/track/2P1BIA4a801I5DxyMi5H4p"

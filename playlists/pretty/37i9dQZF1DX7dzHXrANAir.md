@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Lara Somogyi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,307 likes - 160 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,347 likes - 160 songs - 11 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,7 +152,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 142 | [The Misanthropes](https://open.spotify.com/track/67bRAhNkNMfMwekNTtX1VV) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr), [Abul Mogard](https://open.spotify.com/artist/4bNteCe0Beu161GmkB8Rq7) | [The Misanthropes](https://open.spotify.com/album/77OEx1HTPgOzj8ikx9RZB0) | 4:11 |
 | 143 | [Leaving This Behind Again](https://open.spotify.com/track/7tCK6wE3aCJYz4FztSYxFV) | [Mike Lazarev](https://open.spotify.com/artist/5GHe2wbHyPb5RZbES8coHc) | [Leaving This Behind Again](https://open.spotify.com/album/6wvPng4188UU2elDTqYpK5) | 6:09 |
 | 144 | [We Were Landed, We Were Landing Gently We Landed \(uncut\)](https://open.spotify.com/track/1RenBfXqWZiCElrTQVKwTl) | [VLMV](https://open.spotify.com/artist/4odVEinIMqpSWy8oBnLbwl) | [Redivider](https://open.spotify.com/album/0VY5KRCY5hIHpoAXGucXhi) | 4:06 |
-| 145 | [Critical Spirit \- Live](https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Critical Spirit \(Live\)](https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS) | 11:09 |
+| 145 | [Critical Spirit \- Live](https://open.spotify.com/track/0hlFgnsQV1zPdCD9agrSc2) | [Luke Howard](https://open.spotify.com/artist/3duTXsC49HoPt4f4EySDKf) | [Critical Spirit \- Live](https://open.spotify.com/album/39Mnio6xUJ9bmEacmj6SfS) | 11:09 |
 | 146 | [Loving Kindness](https://open.spotify.com/track/2XhsxJAM4sG2GKHraKOoWy) | [Dobrawa Czocher](https://open.spotify.com/artist/7A5EBB4tls8HDFroU2Cm5p) | [Consonance](https://open.spotify.com/album/5X7MR14EhAbwDkRyFFBlnA) | 4:11 |
 | 147 | [Fastelavn](https://open.spotify.com/track/5Yw6J6DgRK9TzX1FHAjVzn) | [Ed Carlsen](https://open.spotify.com/artist/0yW0kiRsK5MYhgICpQhbaG) | [Grains of Gold](https://open.spotify.com/album/1G7nQlAfySuHs7AdGdIyIW) | 4:42 |
 | 148 | [Rose in Abstract](https://open.spotify.com/track/2cbVl45bfPrJ5LkffGXEgd) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9), [Morris Kliphuis](https://open.spotify.com/artist/5P0KM3HQDxCDtE83ttmYJl), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY), [Clarice Jensen](https://open.spotify.com/artist/1B25oHGZdWQzQJCajIwA3a) | [Rose In Abstract](https://open.spotify.com/album/6Hc12NeN4AfqHtdXhUvV6O) | 4:58 |

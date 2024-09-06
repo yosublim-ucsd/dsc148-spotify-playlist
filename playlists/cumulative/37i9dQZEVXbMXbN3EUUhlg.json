@@ -622,7 +622,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201557,
       "name": "A Noite (La Notte) - Ao Vivo",
       "url": "https://open.spotify.com/track/2D0C1CYWKdyau002ZtcTHW"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 167391,
       "name": "Dedo do Meio - Ao Vivo",
       "url": "https://open.spotify.com/track/2ORC76autQ7QTfBCkZl4Wo"
@@ -17817,6 +17817,28 @@
     },
     {
       "album": {
+        "name": "PEDRIN",
+        "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127846,
+      "name": "PEDRIN",
+      "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
+    },
+    {
+      "album": {
         "name": "PEGA ESCANDALOSO",
         "url": "https://open.spotify.com/album/04zYU6BO0y6Tz9rkmg658x"
       },
@@ -17986,7 +18008,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 125227,
       "name": "Pensa Que \u00c9 Dois",
       "url": "https://open.spotify.com/track/396PHB0q5c3JVE3DyJlFHW"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Andy C, Becky Hill ",
+  "description": "The world's biggest Drum 'n' Bass playlist! Cover: Sub Focus, Dimension, NGHTMRE",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -6865,6 +6865,24 @@
     },
     {
       "album": {
+        "name": "I Miss The Old Macky",
+        "url": "https://open.spotify.com/album/1dWGmCM3soNePkWxM0Saca"
+      },
+      "artists": [
+        {
+          "name": "Macky Gee",
+          "url": "https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155056,
+      "name": "I Miss The Old Macky",
+      "url": "https://open.spotify.com/track/3QwJmwvUKOnlmoeHDn8MVN"
+    },
+    {
+      "album": {
         "name": "I Need To Feel",
         "url": "https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM"
       },
@@ -8708,7 +8726,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157398,
       "name": "Lowkey (LDN Drift) [feat. Takura]",
       "url": "https://open.spotify.com/track/308JcmNsqtkEZaAkcZrCT2"
@@ -13930,7 +13948,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 230788,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/5Rsmx8b0fSRbjOE2j6lMZm"
@@ -15372,6 +15390,24 @@
       "duration_ms": 338000,
       "name": "Wasting My Time - Tim Reaper Remix",
       "url": "https://open.spotify.com/track/2GSOtGiKIncKgAzFCT2hZ5"
+    },
+    {
+      "album": {
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/7zj3rtD025xkX7EBxNMmU6"
+      },
+      "artists": [
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211502,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/5vA6eVEgWhABxQuMJUVByd"
     },
     {
       "album": {

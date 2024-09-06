@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-591 songs - 1 day 6 hr 1 min
+592 songs - 1 day 6 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Mess](https://open.spotify.com/track/6bOXwq9j9wFe4M8LAHc3cl) | [Siik](https://open.spotify.com/artist/3dWrzZ5NrBW1cRHeU15Yrf), [Alenn](https://open.spotify.com/artist/7gHWDovnAqm8jZ53BJCsa7) | [Mess](https://open.spotify.com/album/5TpIbGAHt0rVaw52JIP8md) | 2:20 | 2022-12-16 | 2023-04-28 |
 | [Mirage Of My Heart](https://open.spotify.com/track/6lsu0PNBCk03cdTnZpdgVO) | [D'Amico & Valax](https://open.spotify.com/artist/3kSr7WLrGY10p3zTrJcTsc), [Fayzone](https://open.spotify.com/artist/1hSg7N5p2IUGoWCKtzEHcA) | [Mirage Of My Heart](https://open.spotify.com/album/6ncDWBhtWeEWVWCrmfS3Ud) | 3:09 | 2023-04-07 | 2023-08-10 |
 | [misunderstood](https://open.spotify.com/track/1E0IXWXtlqRjO46cfMXIRJ) | [yanvince](https://open.spotify.com/artist/5WAjBWhp1RaOUP7TxxvfOl) | [misunderstood](https://open.spotify.com/album/0NUdAPurIahjbvjmlAdk6K) | 2:09 | 2024-01-18 | 2024-08-28 |
+| [Models](https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC) | [Hush](https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ) | [Models](https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM) | 2:32 | 2024-09-05 |  |
 | [Moments](https://open.spotify.com/track/1sTKNKmcwHyE8Nxo2gNq77) | [Lost Identities](https://open.spotify.com/artist/76BHKmTZPOUV3itxUUXmkQ), [Robbie Rosen](https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM) | [Moments](https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc) | 3:39 | 2022-04-14 | 2023-04-28 |
 | [Moon Farewell](https://open.spotify.com/track/26RqDVvcnpBLGeSkfwc6DW) | [Wiguez](https://open.spotify.com/artist/25waW5SfUCXqYCUeV8gvvU), [Alltair](https://open.spotify.com/artist/4gBQ6BSVo4NDxXohKHEQHY), [Josh Levoid](https://open.spotify.com/artist/2Pe7zH2Xz9nrhBWU7T2c6E) | [The Noise Will Get Us Home](https://open.spotify.com/album/0fVlmoZwqMCT3HKkqVJv9V) | 2:49 | 2024-01-18 | 2024-08-28 |
 | [More](https://open.spotify.com/track/01eUcUUfmt69IpEGGVZCAH) | [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [More](https://open.spotify.com/album/3N3hF12L5Jo51eZulkniES) | 2:29 | 2023-08-25 | 2023-12-14 |

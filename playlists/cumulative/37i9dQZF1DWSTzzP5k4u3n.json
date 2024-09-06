@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 226831,
       "name": "Aina sinulle",
       "url": "https://open.spotify.com/track/3OxJGAR04RUV1krR1usKTW"
@@ -240,6 +240,24 @@
       "duration_ms": 211531,
       "name": "Avaruus",
       "url": "https://open.spotify.com/track/0joGJWTBlCCgZ0GE2V4ZQZ"
+    },
+    {
+      "album": {
+        "name": "Beibi, mua pelottaa",
+        "url": "https://open.spotify.com/album/0tpcxn7ukFwh2IhAPjKMA0"
+      },
+      "artists": [
+        {
+          "name": "Joni Ekman",
+          "url": "https://open.spotify.com/artist/4RYXmp0JLdPVLHnad9qivJ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254020,
+      "name": "Beibi, mua pelottaa",
+      "url": "https://open.spotify.com/track/5wySVPiV0ja44vUBxCrAdc"
     },
     {
       "album": {
@@ -427,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Amerihaka",
+        "url": "https://open.spotify.com/album/5YJ87o01HUjPpvwkb3fct2"
+      },
+      "artists": [
+        {
+          "name": "AK-77",
+          "url": "https://open.spotify.com/artist/6MvyUZ15BwWLM4xxJaqEgR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "Hoodoo-mama",
+      "url": "https://open.spotify.com/track/20bZr8LnlhUsZDvz5i4jEB"
+    },
+    {
+      "album": {
         "name": "hvvmukipuv juhlajulkaisu",
         "url": "https://open.spotify.com/album/3zBAWm5r0TXyGcTZEgo3UT"
       },
@@ -496,6 +532,24 @@
       "duration_ms": 211122,
       "name": "Itkuvideoita",
       "url": "https://open.spotify.com/track/3OaLbr5bzeGbgaiv5ZbjRg"
+    },
+    {
+      "album": {
+        "name": "It\u00e4v\u00e4yl\u00e4",
+        "url": "https://open.spotify.com/album/2U6lKa2Eia3H7huo43JqrB"
+      },
+      "artists": [
+        {
+          "name": "Sam Shaky",
+          "url": "https://open.spotify.com/artist/21m35VZF1Yhlb5Nm2BeDH3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "It\u00e4v\u00e4yl\u00e4",
+      "url": "https://open.spotify.com/track/1mBuoiWexvzrbHtscJQiH4"
     },
     {
       "album": {
@@ -1040,7 +1094,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215013,
       "name": "Leilan Boogie",
       "url": "https://open.spotify.com/track/0kLlX72WO3tY7kR0A5ALMk"
@@ -1138,6 +1192,24 @@
       "duration_ms": 140973,
       "name": "Maailma on",
       "url": "https://open.spotify.com/track/4JnxaZEVFf63QZbtvnm2Zl"
+    },
+    {
+      "album": {
+        "name": "Korpit kyselev\u00e4t",
+        "url": "https://open.spotify.com/album/1lB63knrtoI0E0yG1nHzTJ"
+      },
+      "artists": [
+        {
+          "name": "Kaita Is\u00e4ri Sepp\u00e4l\u00e4",
+          "url": "https://open.spotify.com/artist/2Uzu5DGiDcgrATD8qtJqjS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231973,
+      "name": "Maanantaina Kiinaan",
+      "url": "https://open.spotify.com/track/6eTTka2pDoiJ18nxH4wTVP"
     },
     {
       "album": {
@@ -1552,7 +1624,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188114,
       "name": "Pienest\u00e4 pit\u00e4en",
       "url": "https://open.spotify.com/track/5xhQbEDkYQFHTltAZmE1gS"
@@ -1905,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Sinussa on meri",
+        "url": "https://open.spotify.com/album/6tO9ULw0zmaoBmEbFuBzkz"
+      },
+      "artists": [
+        {
+          "name": "Esa Eloranta",
+          "url": "https://open.spotify.com/artist/7DebIQncqcKWGJHP0Gtiee"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Sinussa on meri",
+      "url": "https://open.spotify.com/track/5R1lLYpBdrOgJh8vrbincI"
+    },
+    {
+      "album": {
         "name": "Sin\u00e4",
         "url": "https://open.spotify.com/album/1jq5CEyeI6ogb3ZUx9Ufdh"
       },
@@ -1956,6 +2046,24 @@
       "duration_ms": 244544,
       "name": "Skorpionin k\u00e4yt\u00e4v\u00e4",
       "url": "https://open.spotify.com/track/7KJ82tKpECjS9YC1Votnhk"
+    },
+    {
+      "album": {
+        "name": "Sorvari",
+        "url": "https://open.spotify.com/album/3hBcpmfIgsMaQC5rksjadQ"
+      },
+      "artists": [
+        {
+          "name": "Nelosolut",
+          "url": "https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221497,
+      "name": "Sorvari",
+      "url": "https://open.spotify.com/track/5zn4BIqhy3dpDZX5jS7k53"
     },
     {
       "album": {
@@ -2194,6 +2302,24 @@
       "duration_ms": 210697,
       "name": "The Dancer",
       "url": "https://open.spotify.com/track/15QD6muRGE0P8SgDw6rg9u"
+    },
+    {
+      "album": {
+        "name": "Toto",
+        "url": "https://open.spotify.com/album/6DhpuvgUOwBMXT2agYWOrY"
+      },
+      "artists": [
+        {
+          "name": "Keh\u00e4",
+          "url": "https://open.spotify.com/artist/3Zs4zRtT5oaenOXxlyL1Iu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181553,
+      "name": "Toto",
+      "url": "https://open.spotify.com/track/4W6vTZ0pmLtdsgS1cUCDjU"
     },
     {
       "album": {

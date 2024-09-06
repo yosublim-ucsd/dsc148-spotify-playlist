@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Summer motion en good vibes. Cover: Jonna Fraser",
+  "description": "Summer motion en good vibes. Cover: Idaly, Ronnie Flex & Kaya Imani",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -756,7 +756,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 166060,
       "name": "All Night Long",
       "url": "https://open.spotify.com/track/5SCdqmybgdABx5f53HkwhP"
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 149507,
       "name": "Anna",
       "url": "https://open.spotify.com/track/0rYjHLCDkqtfzCiQqIqPGa"
@@ -1712,7 +1712,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 168406,
       "name": "Bad Vibes (feat. Seyi Vibez)",
       "url": "https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX"
@@ -2284,7 +2284,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 154010,
       "name": "Beetje Dik",
       "url": "https://open.spotify.com/track/2JJMkUJVyu7HrYIjtqwn2x"
@@ -2332,7 +2332,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 155454,
       "name": "Beetje Fout (Remix) (feat. D-Double & Latifah)",
       "url": "https://open.spotify.com/track/7s626ea0E22HNxmFaYKQ7k"
@@ -5720,7 +5720,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 140188,
       "name": "Desire",
       "url": "https://open.spotify.com/track/0NZjYegFmcAKsoAXWzdDUr"
@@ -7215,6 +7215,28 @@
     },
     {
       "album": {
+        "name": "FEELINGS",
+        "url": "https://open.spotify.com/album/4QuGt1tm0WIP5qKWa1SNSw"
+      },
+      "artists": [
+        {
+          "name": "Syllaa",
+          "url": "https://open.spotify.com/artist/2BJAiTDstqkddEvx7Rrd52"
+        },
+        {
+          "name": "MELL",
+          "url": "https://open.spotify.com/artist/0oU4JPyGHFpmq8oNyfkrk7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "FEELINGS",
+      "url": "https://open.spotify.com/track/1btcjhW4ee8dzr6m827KYH"
+    },
+    {
+      "album": {
         "name": "Ferrari",
         "url": "https://open.spotify.com/album/7zofIfcAejL89Vu2ITkxHf"
       },
@@ -8394,6 +8416,28 @@
       "duration_ms": 169109,
       "name": "Grey (feat. Aitch)",
       "url": "https://open.spotify.com/track/5XtIcFaG7MjXyjSAiIWH5e"
+    },
+    {
+      "album": {
+        "name": "GTA (Ik Had Koud Remix)",
+        "url": "https://open.spotify.com/album/5MLd5rFDPceTncUoJjQPgA"
+      },
+      "artists": [
+        {
+          "name": "Fabiow",
+          "url": "https://open.spotify.com/artist/1ajwQHm69MonB1oaH6ZPBH"
+        },
+        {
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177637,
+      "name": "GTA (Ik Had Koud Remix)",
+      "url": "https://open.spotify.com/track/1p38IAW7vhGpYZQO3mzeQr"
     },
     {
       "album": {
@@ -9686,7 +9730,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 136031,
       "name": "Ik kan je",
       "url": "https://open.spotify.com/track/1G2eu9fcGS80uhub5XCqBX"
@@ -10725,6 +10769,36 @@
     },
     {
       "album": {
+        "name": "Kannie Dansen (feat. Sluwe Ollie & Jozo)",
+        "url": "https://open.spotify.com/album/27zAC7srDSY1kNuHmPdlVH"
+      },
+      "artists": [
+        {
+          "name": "ChildsPlay",
+          "url": "https://open.spotify.com/artist/6rNu1h2bZtfgDuZC5FWGel"
+        },
+        {
+          "name": "KEANU",
+          "url": "https://open.spotify.com/artist/6LfsMzntUnwK5YdO7l6MD3"
+        },
+        {
+          "name": "Sluwe Ollie",
+          "url": "https://open.spotify.com/artist/7zRN086UvocMbINAumZ8kx"
+        },
+        {
+          "name": "Jozo",
+          "url": "https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Kannie Dansen (feat. Sluwe Ollie & Jozo)",
+      "url": "https://open.spotify.com/track/6nHeo1G47vtRhMcqnhuIba"
+    },
+    {
+      "album": {
         "name": "Keeper",
         "url": "https://open.spotify.com/album/3NVMLm66TK5iDnp7Cl9dQ2"
       },
@@ -11094,6 +11168,28 @@
       "duration_ms": 137756,
       "name": "KUPE",
       "url": "https://open.spotify.com/track/7fUY7l9bzrVALFIlO5UwgD"
+    },
+    {
+      "album": {
+        "name": "Kwijt",
+        "url": "https://open.spotify.com/album/2QuMt7DMWx2frAU7VfC9j9"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127346,
+      "name": "Kwijt",
+      "url": "https://open.spotify.com/track/0P1u42ISU2ligXsxTs0QBB"
     },
     {
       "album": {
@@ -11994,6 +12090,32 @@
       "duration_ms": 161359,
       "name": "Lie to You",
       "url": "https://open.spotify.com/track/0PFOCmRvh6HyBXXUsxmcrb"
+    },
+    {
+      "album": {
+        "name": "Liefde In De Lucht",
+        "url": "https://open.spotify.com/album/44pVrKk1t5wqkeNzTE525Z"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Eves Laurent",
+          "url": "https://open.spotify.com/artist/5QWQYxfuoNq7iJBlbIAYRS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174330,
+      "name": "Liefde In De Lucht",
+      "url": "https://open.spotify.com/track/65hZ0SrvAHOfPVxyBJTolH"
     },
     {
       "album": {
@@ -12925,6 +13047,28 @@
     },
     {
       "album": {
+        "name": "Ma Baby Yo (Na Leli Yo)",
+        "url": "https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ma Baby Yo (Na Leli Yo)",
+      "url": "https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq"
+    },
+    {
+      "album": {
         "name": "Ma Sweetie",
         "url": "https://open.spotify.com/album/2LSb2pNWAqYM3BhwnHc5W5"
       },
@@ -13250,7 +13394,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150892,
       "name": "Matchday",
       "url": "https://open.spotify.com/track/4peow9pJx76ZvS5FtzGo5H"
@@ -14138,7 +14282,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 124705,
       "name": "MOOIE LEUGEN",
       "url": "https://open.spotify.com/track/2PMec0qgEG1212bNx6aniG"
@@ -16139,6 +16283,36 @@
     },
     {
       "album": {
+        "name": "Ow Wat Lekker Zeg",
+        "url": "https://open.spotify.com/album/7D4uqOqGuBdm7gjLS6D32M"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Anthony Kruijver",
+          "url": "https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Ow Wat Lekker Zeg",
+      "url": "https://open.spotify.com/track/2fdhIByUYRVcYOuTRu8U6N"
+    },
+    {
+      "album": {
         "name": "Autobahn",
         "url": "https://open.spotify.com/album/2NtRis2vPCaLFaMZ3OxXJj"
       },
@@ -17484,6 +17658,32 @@
       "duration_ms": 178216,
       "name": "Pretty Girls - Remix",
       "url": "https://open.spotify.com/track/0BQhQL9MIIOvkufAPkqq1q"
+    },
+    {
+      "album": {
+        "name": "Protocol (feat. Jonna Fraser)",
+        "url": "https://open.spotify.com/album/7AzaaUOcxOLRoxBXhJSyrD"
+      },
+      "artists": [
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+        },
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188969,
+      "name": "Protocol (feat. Jonna Fraser)",
+      "url": "https://open.spotify.com/track/75KIgiMpV1mqoydOo3NnC8"
     },
     {
       "album": {
@@ -19494,7 +19694,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188818,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/2fFTn0f94EopgZyfSGQuyK"
@@ -19946,6 +20146,28 @@
       "duration_ms": 152178,
       "name": "SUPARO",
       "url": "https://open.spotify.com/track/1Di904lomBvS89EWnSpW6J"
+    },
+    {
+      "album": {
+        "name": "Superster",
+        "url": "https://open.spotify.com/album/4BFhVJyo8DqDh9vDQM1oY5"
+      },
+      "artists": [
+        {
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116129,
+      "name": "Superster",
+      "url": "https://open.spotify.com/track/48WY4FtOfNAHD4ren2zTCY"
     },
     {
       "album": {
@@ -22240,6 +22462,24 @@
       "duration_ms": 381341,
       "name": "Velletjes - Latin Remix",
       "url": "https://open.spotify.com/track/1ZOSXQJ8lZzFCTnh7RlVzv"
+    },
+    {
+      "album": {
+        "name": "Vent du Nord",
+        "url": "https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145730,
+      "name": "Vent du Nord",
+      "url": "https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM"
     },
     {
       "album": {

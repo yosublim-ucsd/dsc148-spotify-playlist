@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: Green Day
 
-432 songs - 1 day 1 hr 28 min
+434 songs - 1 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [The Big Come Down](https://open.spotify.com/track/3cl42VFcRop14wAduvSeaH) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Fragile](https://open.spotify.com/album/4uiVwLbTzE6VMkXpaDAwB8) | 4:12 | 2020-10-10\* | 2021-02-25 |
 | [The Burden of Belief](https://open.spotify.com/track/4lyWDEzPsyJtmQmLRkCUC1) | [Times Of Grace](https://open.spotify.com/artist/0CfztphU9FWmAhGocFrrYC) | [The Burden of Belief](https://open.spotify.com/album/6Nt3lAffezruA8VjFQsymZ) | 5:39 | 2021-05-22 | 2022-03-18 |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 |  |
+| [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-06 |  |
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 |  |
 | [The Girls Are Fighting \- Edit](https://open.spotify.com/track/7F1dxj9sEAHy4SsGIHARGq) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [The Girls Are Fighting](https://open.spotify.com/album/3xt9SJ3g3ieRV3C2Om8Mws) | 3:01 | 2022-02-04 |  |
 | [The Knack](https://open.spotify.com/track/46NgqjSNoXMZEtmJyoeA97) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside](https://open.spotify.com/album/4v0i8VJOxYxngmADCFvi6o) | 2:59 | 2021-07-01 |  |
@@ -440,5 +441,6 @@
 | [You Make Me Feel Like It’s Halloween](https://open.spotify.com/track/4k0hvjglHbcZI203QI4pF7) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/5qK8S5JRF8au6adIVtBsmk) | 3:00 | 2022-08-26 |  |
 | [You n Me Sellin' Weed](https://open.spotify.com/track/3vbiHwFRUuoIU9oa01dwmx) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [You n Me Sellin' Weed](https://open.spotify.com/album/3v7rmNsFfuUSmIOdPMslld) | 4:56 | 2020-10-10\* | 2021-05-13 |
 | [You Oughta Know](https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [You Oughta Know](https://open.spotify.com/album/05Ukhe9G2XLfuByt31unQM) | 4:08 | 2021-07-17 |  |
+| [§3](https://open.spotify.com/track/72U6mVliG329C2zGWxDNte) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§3](https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt) | 5:10 | 2024-09-06 |  |
 
 \*This playlist was first scraped on 2020-10-10. Prior content cannot be recovered.

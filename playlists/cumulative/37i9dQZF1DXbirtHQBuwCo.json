@@ -1298,7 +1298,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192772,
       "name": "BAD (Feat. Moon Sujin, Joh!)",
       "url": "https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V"
@@ -13680,6 +13680,24 @@
       "duration_ms": 168739,
       "name": "Undo",
       "url": "https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa"
+    },
+    {
+      "album": {
+        "name": "UoU",
+        "url": "https://open.spotify.com/album/5OuzEfhlKMTT2gAXJZqyGp"
+      },
+      "artists": [
+        {
+          "name": "SHIRT",
+          "url": "https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "UoU",
+      "url": "https://open.spotify.com/track/1Er4Us9efoj7yyAZQ7CNd4"
     },
     {
       "album": {

@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,333 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,324 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
-| 2 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 |
-| 3 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 |
-| 4 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 |
-| 5 | [Still My Hero](https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Still My Hero](https://open.spotify.com/album/1cLa4VMrT73UlrjSW52lvw) | 3:43 |
-| 6 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 |
-| 7 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 |
-| 8 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
-| 9 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 |
-| 10 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 |
-| 11 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 |
-| 12 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 |
+| 1 | [Chosen Force](https://open.spotify.com/track/4l8tcS0fXtsafe6mqNT6h8) | [Dream Evil](https://open.spotify.com/artist/1bkf8u8ot6vEpWTJFBzKZB) | [Chosen Force](https://open.spotify.com/album/01rbcbdKGHBpNWvqEEVcqY) | 5:08 |
+| 2 | [Dream Stealer](https://open.spotify.com/track/5oQHPf5TmzfR55syUrSIeR) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Dream Stealer](https://open.spotify.com/album/6XEYQ3lAGzmK2JtT5ADpld) | 4:29 |
+| 3 | [Big Buck](https://open.spotify.com/track/7550bj9cCmDLxRjCnR2bjE) | [Johnossi](https://open.spotify.com/artist/0k5NrYJAazGYrIhzrDslcT) | [Big Buck](https://open.spotify.com/album/0u3qKDOok16eC5hkZZMJsE) | 3:33 |
+| 4 | [Still My Hero](https://open.spotify.com/track/1ayiQ7eig8C8SqL2bnEOee) | [Eclipse](https://open.spotify.com/artist/23ajwxFk5RBpPERZrcjHUr) | [Still My Hero](https://open.spotify.com/album/1cLa4VMrT73UlrjSW52lvw) | 3:43 |
+| 5 | [Avenge The Fallen](https://open.spotify.com/track/3mEBAyCxcdvLi4AmrHx0vg) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Avenge The Fallen](https://open.spotify.com/album/05kFGCVd0J5UC8ZzaSTfLv) | 3:28 |
+| 6 | [§1 \- Radio Edit](https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [§1 \(Radio Edit\)](https://open.spotify.com/album/3OK5MthdysdgLjnK6Un45k) | 4:46 |
+| 7 | [AFRAID TO DIE \(feat\. Tatiana Shmayluk from Jinjer\)](https://open.spotify.com/track/0MVhJOLU3VhNRzWLwTtA26) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Tatiana Shmayluk](https://open.spotify.com/artist/4jUJBAkaX0Foc8fjhuyfpa), [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [AFRAID TO DIE](https://open.spotify.com/album/2kObu5MHhR6BCsvgtptz2T) | 3:04 |
+| 8 | [Stay With You](https://open.spotify.com/track/4fizhrPpuAMIdbMD6WWTFf) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [Stay With You](https://open.spotify.com/album/215BsdC8uPa1CbX8OlkNKJ) | 3:40 |
+| 9 | [Lullaby](https://open.spotify.com/track/5cEHYQPgYp3zfYP3BFzbJA) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Lullaby](https://open.spotify.com/album/1d28BRRg2LDrQxycJWoGiC) | 4:03 |
+| 10 | [The Future Is A Foreign Land](https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [The Future Is A Foreign Land](https://open.spotify.com/album/6jSNCcxIIB0ccyTgOJ2y1F) | 3:45 |
+| 11 | [The Day Of...](https://open.spotify.com/track/20w340h37XvpPjiO591XCg) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [The Day Of...](https://open.spotify.com/album/7e7ujNrBRUhHsTXFqCH8b1) | 4:33 |
+| 12 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 |
 | 13 | [War With The World](https://open.spotify.com/track/6sfBDJFuHewjdxPk33IZyZ) | [DAMPF](https://open.spotify.com/artist/0S3PwQ8ImA3ORcNpYsG6my) | [War With The World](https://open.spotify.com/album/3BasJfXGxeCJqPQFNzoGej) | 3:41 |
 | 14 | [Feedback](https://open.spotify.com/track/4rpw43XrPiHKER3nSL2vZH) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Feedback](https://open.spotify.com/album/6OwSZ83UAtFcYuWbrYuafP) | 2:32 |
 | 15 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 99 | [Tidal Wave](https://open.spotify.com/track/5xqd2haG6pqsujDUkSYLDi) | [Astroqueen](https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo) | [Tidal Wave](https://open.spotify.com/album/1uVxpF7yvpK7B85D5RDh9E) | 6:59 |
 | 100 | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/track/6vY1R7oFD9ppJAfyAZfxRI) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I), [James Hetfield](https://open.spotify.com/artist/1pp3jqKNKXFawj4MaWuwnr), [Robert Trujillo](https://open.spotify.com/artist/3rROvEsUJJ9y55g1PLaA16) | [One \(feat\. James Hetfield & Robert Trujillo\)](https://open.spotify.com/album/3sfPyXkIL27yCmt22kM2rd) | 9:34 |
 
-Snapshot ID: `ZtDvYAAAAADYxnE0sg87F2vZzdQ2t2LI`
+Snapshot ID: `ZtoBIgAAAADbjwOeR0xI6IU9jHe8zWJH`

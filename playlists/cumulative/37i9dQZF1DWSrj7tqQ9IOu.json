@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Emma Hoet",
+  "description": "The best French indie tracks right now. Cover : Victor Marc",
   "name": "Made in France",
   "tracks": [
     {
@@ -938,7 +938,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178961,
       "name": "BPM",
       "url": "https://open.spotify.com/track/7Cd1MBmhMqmTbvRl4A1uaG"
@@ -1004,6 +1004,28 @@
       "duration_ms": 252203,
       "name": "Burning House",
       "url": "https://open.spotify.com/track/2VHE71w44Y2xjA8pSoN8tp"
+    },
+    {
+      "album": {
+        "name": "Businessman",
+        "url": "https://open.spotify.com/album/3vTSqqLAKoH4H8kU41aJ5i"
+      },
+      "artists": [
+        {
+          "name": "Ed Mount",
+          "url": "https://open.spotify.com/artist/5THdJGUVSrpyW9sDW49Q92"
+        },
+        {
+          "name": "M.I.L.K.",
+          "url": "https://open.spotify.com/artist/2ekValwbXG7P55xYXwWOZx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195248,
+      "name": "Businessman",
+      "url": "https://open.spotify.com/track/2be8j001jZ3xCahZ6rktJM"
     },
     {
       "album": {
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 228000,
       "name": "Cold Touch",
       "url": "https://open.spotify.com/track/5SL769u0mPWC6b7XyXghFz"
@@ -2278,7 +2300,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247352,
       "name": "DUI",
       "url": "https://open.spotify.com/track/3dzRsFKA4HXFF1cVuR0oxH"
@@ -3720,6 +3742,24 @@
       "duration_ms": 188936,
       "name": "I'll Think About It",
       "url": "https://open.spotify.com/track/0RLKhd3wbu8733GCu03nNn"
+    },
+    {
+      "album": {
+        "name": "Il Faudra Bien",
+        "url": "https://open.spotify.com/album/0oLHRQFyXLMjVrHW3Lxejo"
+      },
+      "artists": [
+        {
+          "name": "Victor Marc",
+          "url": "https://open.spotify.com/artist/7tiOyhvxRgmYnPfxYgm0kX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183097,
+      "name": "Il Faudra Bien",
+      "url": "https://open.spotify.com/track/2NEL9RbgWhmFl0zeQpyLB6"
     },
     {
       "album": {
@@ -7816,6 +7856,24 @@
       "duration_ms": 179612,
       "name": "six summers ago",
       "url": "https://open.spotify.com/track/1gGMlQrApJ3eW2CNwI5FFA"
+    },
+    {
+      "album": {
+        "name": "SIXTEEN WONDERS",
+        "url": "https://open.spotify.com/album/778Og5tR0wLAoV4bRkhtQU"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178875,
+      "name": "SIXTEEN WONDERS",
+      "url": "https://open.spotify.com/track/1KwH6IwyksTOagfHQm6VpX"
     },
     {
       "album": {

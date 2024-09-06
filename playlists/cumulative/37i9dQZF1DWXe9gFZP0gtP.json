@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 180250,
       "name": "A Fair Wind",
       "url": "https://open.spotify.com/track/0ezyvcP1ghdnLjI7L7o236"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193500,
       "name": "Above Erta",
       "url": "https://open.spotify.com/track/5XodChHSGzXmfhoYyZ7Wjv"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 136500,
       "name": "An Eternity With You",
       "url": "https://open.spotify.com/track/26lMzRXcIvEZZocZwGtu7e"
@@ -1319,6 +1319,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Balance",
+        "url": "https://open.spotify.com/album/1qobBVLrSQk3kxBTtb3ysx"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181426,
+      "name": "Cosmic Balance",
+      "url": "https://open.spotify.com/track/2OIQ15ivFONa31vze9jIoz"
+    },
+    {
+      "album": {
         "name": "Ivory Clouds",
         "url": "https://open.spotify.com/album/4nYrgdNmIyEbayYyjdmppr"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201000,
       "name": "Eclipsar",
       "url": "https://open.spotify.com/track/0oqHzecOQrrHFYEERCTeqT"
@@ -2292,7 +2310,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 191609,
       "name": "Exoplaneta",
       "url": "https://open.spotify.com/track/4luQBiFE4vKIyJoXGBOQm8"
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 140252,
       "name": "Hemisphere",
       "url": "https://open.spotify.com/track/7IPMzEuY6Ep2rHIAEjPwd4"
@@ -3775,6 +3793,24 @@
     },
     {
       "album": {
+        "name": "Lavender",
+        "url": "https://open.spotify.com/album/6BuLXbQHZ8hO5KHHdLTxHF"
+      },
+      "artists": [
+        {
+          "name": "Broken Peak",
+          "url": "https://open.spotify.com/artist/1BpFMGgHOZ6pGHrby548Os"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Lavender",
+      "url": "https://open.spotify.com/track/3T0pE0Y5DAzNAZTrnLagCt"
+    },
+    {
+      "album": {
         "name": "Lenitivo",
         "url": "https://open.spotify.com/album/0aKQ6hDtXLG2FbFiDqfiEi"
       },
@@ -4128,7 +4164,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157658,
       "name": "Magical Calmness",
       "url": "https://open.spotify.com/track/20hO8nLj0SFWfC2b2d0Czs"
@@ -5154,7 +5190,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 205285,
       "name": "Places",
       "url": "https://open.spotify.com/track/3OoXbnBZiWY3RHhz31zKPj"
@@ -5424,7 +5460,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173793,
       "name": "Quiet Times",
       "url": "https://open.spotify.com/track/0DnhhwJ9zw3xjRHGB7eo7R"
@@ -6342,7 +6378,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 189000,
       "name": "Sognante",
       "url": "https://open.spotify.com/track/78JrKrc3HthRfKAnFoG0Nw"
@@ -6612,7 +6648,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 186076,
       "name": "State of Grace",
       "url": "https://open.spotify.com/track/0GGBywhLXTT0D3dRIaEvFO"
@@ -6702,7 +6738,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247379,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/72FRs65Zmikn6KvZG3kolE"
@@ -7033,6 +7069,24 @@
     },
     {
       "album": {
+        "name": "The Return",
+        "url": "https://open.spotify.com/album/4vopNqveoyiZML72Np4CAj"
+      },
+      "artists": [
+        {
+          "name": "Poery",
+          "url": "https://open.spotify.com/artist/4bBUpmis3SXC5W9N92H3xC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159535,
+      "name": "The Return",
+      "url": "https://open.spotify.com/track/0yuos80cVkjKN1gLKAoVBg"
+    },
+    {
+      "album": {
         "name": "The Wish",
         "url": "https://open.spotify.com/album/1tmUGszdvl1lHeEx3IeyuD"
       },
@@ -7120,6 +7174,24 @@
       "duration_ms": 209250,
       "name": "Tiniebla",
       "url": "https://open.spotify.com/track/1uGy4uNI3SeVUien40Dtzo"
+    },
+    {
+      "album": {
+        "name": "To Touch is To Heal",
+        "url": "https://open.spotify.com/album/4eoqfjloZWtzkSPrG9NSz6"
+      },
+      "artists": [
+        {
+          "name": "Clouds of Calm",
+          "url": "https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "To Touch is To Heal",
+      "url": "https://open.spotify.com/track/2ATtWaaCWVZw4fajfi21Rk"
     },
     {
       "album": {
@@ -7638,7 +7710,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150000,
       "name": "Where the Sea Touches the Sky",
       "url": "https://open.spotify.com/track/3t7robvrkpCI8Q0Ek8rLaR"

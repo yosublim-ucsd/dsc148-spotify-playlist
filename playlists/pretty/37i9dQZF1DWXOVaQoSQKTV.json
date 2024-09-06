@@ -1,6 +1,6 @@
 {
   "description": "Get ready for the final season, nerds. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix. ",
-  "num_followers": 106416,
+  "num_followers": 106420,
   "original_name": "Never Have I Ever Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -471,17 +471,21 @@
     {
       "added_at": "2023-06-08 07:00:00",
       "album": {
-        "name": "my rose (Luca Edit)",
+        "name": "my rose - Luca Edit",
         "url": "https://open.spotify.com/album/4HOrv14KHvgOfoxqAhmdUo"
       },
       "artists": [
         {
-          "name": "Emma Castellino",
-          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
-        },
-        {
           "name": "Luca",
           "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "colormeblue.",
+          "url": "https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev"
+        },
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
         }
       ],
       "duration_ms": 206808,

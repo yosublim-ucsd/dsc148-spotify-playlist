@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: EMO",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Julia Wieniawa",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -498,7 +498,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 161899,
       "name": "CHC\u0118 TYLKO KRZYCZE\u0106",
       "url": "https://open.spotify.com/track/1pHyRBjIwgNvmKYCsI3BRD"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 170858,
       "name": "Ch\u0142opak z s\u0105siedztwa",
       "url": "https://open.spotify.com/track/2kHWlk6Yw6vB4LfJJKIkiq"
@@ -578,6 +578,28 @@
       "duration_ms": 173000,
       "name": "czarno-bia\u0142e sny",
       "url": "https://open.spotify.com/track/6inPDUhEEzK2kXY42YGdcq"
+    },
+    {
+      "album": {
+        "name": "Czy Ty te\u017c to czujesz?",
+        "url": "https://open.spotify.com/album/7d03WD3fqVnJQbdCXxtmmS"
+      },
+      "artists": [
+        {
+          "name": "Slavic DAMA",
+          "url": "https://open.spotify.com/artist/7zyIbwt96luqV788BmvZxz"
+        },
+        {
+          "name": "Mikolaj Blascello",
+          "url": "https://open.spotify.com/artist/3iVo9cA9TEZvegm5JGfxUU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238425,
+      "name": "Czy Ty te\u017c to czujesz?",
+      "url": "https://open.spotify.com/track/6PWIARqotQsWcvAb5Kzejc"
     },
     {
       "album": {
@@ -919,6 +941,24 @@
     },
     {
       "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/5WV73fHbT3Wc9dTl17Xzq1"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175562,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB"
+    },
+    {
+      "album": {
         "name": "HIFI (7 bieg)",
         "url": "https://open.spotify.com/album/5PQEWjHpXnBiKuwzGa3XMD"
       },
@@ -1210,7 +1250,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148571,
       "name": "Lawenda",
       "url": "https://open.spotify.com/track/03zESWjJhCUNKvbIO4W4AQ"
@@ -1606,7 +1646,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 124963,
       "name": "Naturalnie",
       "url": "https://open.spotify.com/track/0ITBfggasiPdkLgubB7NDk"
@@ -1752,6 +1792,24 @@
       "duration_ms": 158000,
       "name": "Nie \u017ca\u0142uj\u0119 - Radio Edit",
       "url": "https://open.spotify.com/track/0i1CwpX1PPbyCv7clD8nTq"
+    },
+    {
+      "album": {
+        "name": "Niepoprawny",
+        "url": "https://open.spotify.com/album/0AkH0q0cfo60MjEdgBMiHG"
+      },
+      "artists": [
+        {
+          "name": "Myk",
+          "url": "https://open.spotify.com/artist/40iBjy7JF1BaVbnQFoUO20"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161328,
+      "name": "Niepoprawny",
+      "url": "https://open.spotify.com/track/3lUWohokIPaYQSl6jngB4n"
     },
     {
       "album": {
@@ -1966,7 +2024,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 175312,
       "name": "Pierwszy",
       "url": "https://open.spotify.com/track/4FkHnWNvDemKUWQzFx2rUB"
@@ -2038,7 +2096,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 146086,
       "name": "Poszukam",
       "url": "https://open.spotify.com/track/6CGJGXApyiw0Gu5pzVx0W2"
@@ -2082,6 +2140,32 @@
       "duration_ms": 144472,
       "name": "Prawie straci\u0142em g\u0142os",
       "url": "https://open.spotify.com/track/2CJoMNzcvbpV38fKqAOaQ3"
+    },
+    {
+      "album": {
+        "name": "Presja",
+        "url": "https://open.spotify.com/album/5473QIElieVuouUCoG8VkQ"
+      },
+      "artists": [
+        {
+          "name": "Dominika Kwiatkowska",
+          "url": "https://open.spotify.com/artist/7psv9gndJ8VqYGr33wvNdZ"
+        },
+        {
+          "name": "Vixen",
+          "url": "https://open.spotify.com/artist/5XKQ8fa0WdWBmgMFDmctCO"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Presja",
+      "url": "https://open.spotify.com/track/5PaZC5nA3HLHHI2Q7w4jIR"
     },
     {
       "album": {
@@ -2155,6 +2239,28 @@
     },
     {
       "album": {
+        "name": "SAM SOBIE NA Z\u0141O\u015a\u0106",
+        "url": "https://open.spotify.com/album/7JtFMcsHRYgKQo4Mqo5WqZ"
+      },
+      "artists": [
+        {
+          "name": "J\u0119drek Wo\u0142odko",
+          "url": "https://open.spotify.com/artist/7rt0rSs6YpqXyysiIeKVYC"
+        },
+        {
+          "name": "FANT\u00d8M",
+          "url": "https://open.spotify.com/artist/3txITmpi5Y5yUnangRGPn5"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155207,
+      "name": "SAM SOBIE NA Z\u0141O\u015a\u0106",
+      "url": "https://open.spotify.com/track/1h31HcvjAxWOrexsiT4Za5"
+    },
+    {
+      "album": {
         "name": "SANTORINI",
         "url": "https://open.spotify.com/album/5iPUra2nZbLil9V5gaxa97"
       },
@@ -2188,7 +2294,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 159717,
       "name": "SILVERMAN",
       "url": "https://open.spotify.com/track/6v4MFQKr4RmYQTcYxvFCvJ"
@@ -2318,7 +2424,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147412,
       "name": "szafka w ma\u0142ym pokoju",
       "url": "https://open.spotify.com/track/537HBeLGiO4IjQPP6swDWJ"
@@ -2442,6 +2548,28 @@
       "duration_ms": 194754,
       "name": "TATUSIU",
       "url": "https://open.spotify.com/track/1kYiSaFo2hccIqtE2PvEV6"
+    },
+    {
+      "album": {
+        "name": "Ta\u0144cz\u0119 do Ciebie",
+        "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        },
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Ta\u0144cz\u0119 do Ciebie",
+      "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
     },
     {
       "album": {
@@ -2673,6 +2801,24 @@
     },
     {
       "album": {
+        "name": "Atom",
+        "url": "https://open.spotify.com/album/73miKBOEh8sIZw5FoxjzmK"
+      },
+      "artists": [
+        {
+          "name": "Natalia Nykiel",
+          "url": "https://open.spotify.com/artist/2f0ffZ1gPxazVKo0TossWj"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "We Girls",
+      "url": "https://open.spotify.com/track/0JlQ9LybFRSU96B1wESXLI"
+    },
+    {
+      "album": {
         "name": "Wielka Mi\u0142o\u015b\u0107 (Radio)",
         "url": "https://open.spotify.com/album/7eXv9ZWeOzcAG4DHh6iy8E"
       },
@@ -2810,6 +2956,28 @@
       "duration_ms": 192461,
       "name": "Z nikim a\u017c tak",
       "url": "https://open.spotify.com/track/2tD084cxyXfM8rTrR7vpZU"
+    },
+    {
+      "album": {
+        "name": "4 Piosenki o Mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/4iCqwnFpHNRpk8sTB5ATiX"
+      },
+      "artists": [
+        {
+          "name": "Kuba\u0144czyk",
+          "url": "https://open.spotify.com/artist/76Uu7lnLuTOmH2eZsKZTan"
+        },
+        {
+          "name": "Dizzma",
+          "url": "https://open.spotify.com/artist/7EaDsPGE5PcfbaqySXxzU1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154977,
+      "name": "Za Miasto",
+      "url": "https://open.spotify.com/track/4PXLCS8HNjWiJARIyv7mhp"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 
 > An eclectic collection of brilliantly produced and recorded tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,293,946 likes - 200 songs - 16 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,294,336 likes - 200 songs - 16 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -164,8 +164,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 154 | [Daniel](https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Two Suns](https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe) | 4:11 |
 | 155 | [Hyper\-ballad](https://open.spotify.com/track/3jIzAeh7fhe70umAJrY3Fk) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Post](https://open.spotify.com/album/3p7WXDBxhC5KS9IFXnwae7) | 5:21 |
 | 156 | [O Children](https://open.spotify.com/track/29FQEJUtBAnxWEkux39d7I) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Abattoir Blues / The Lyre of Orpheus](https://open.spotify.com/album/4OrbNhWLOrWi6lb40T0IHM) | 6:51 |
-| 157 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 |
-| 158 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
+| 157 | [Lowdown](https://open.spotify.com/track/0nlZjTPzW6S9JIESuGfImT) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 5:15 |
+| 158 | [Solsbury Hill \- 2002 Remaster](https://open.spotify.com/track/6DnKPMbm4KnBP16v7xde4J) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [R\-Kive](https://open.spotify.com/album/7Jigl7PJCgN4mAODbJYkFT) | 4:23 |
 | 159 | [Strict Machine](https://open.spotify.com/track/5kNbpvJ5b6R9Zqfm6c9sIX) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Black Cherry](https://open.spotify.com/album/65BnZsIXnhBeBReAHAaF6V) | 3:51 |
 | 160 | [What's A Girl To Do?](https://open.spotify.com/track/6nX4R2UiVrg6XZphd3QjaI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Fur and Gold](https://open.spotify.com/album/0MBMbIshl7jfto6yWs8BFN) | 2:58 |
 | 161 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
@@ -179,9 +179,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtZ8vUCzche.md) - [plain]
 | 169 | [Heaven Or Las Vegas](https://open.spotify.com/track/1bwXRScnt3k6vSyVqcKyNj) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven Or Las Vegas \(Remastered\)](https://open.spotify.com/album/37hHXJ7xas2Nb7Jbi8ip4E) | 4:58 |
 | 170 | [The Rip](https://open.spotify.com/track/4kOy7M6eT5kYJCZxh0c6Lh) | [Portishead](https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y) | [Third](https://open.spotify.com/album/18JyZd2XLdT2rmekw6EwoS) | 4:30 |
 | 171 | [House Of Cards](https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:28 |
-| 172 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 |
-| 173 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
-| 174 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 |
+| 172 | [Texas Sun](https://open.spotify.com/track/6Flu33CZc4xS2gkA6cRcNh) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 4:12 |
+| 173 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 |
+| 174 | [Roygbiv](https://open.spotify.com/track/2XQSgmtEY2titXhfY414dy) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 2:31 |
 | 175 | [Islands](https://open.spotify.com/track/2SMn57cBVxoD4TArscpovk) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2nXJkqkS1tIKIyhBcFMmwz) | 2:40 |
 | 176 | [Organ Donor \- Extended Overhaul](https://open.spotify.com/track/0woxBVfznRP84kRSUS4Fuc) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Preemptive Strike](https://open.spotify.com/album/1TCu83avwEGwIVCAJ3mrP0) | 4:25 |
 | 177 | [Svefn\-g\-englar](https://open.spotify.com/track/2fkPXXnPh0jhtwcTxLobqd) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis Byrjun](https://open.spotify.com/album/7LKQtdC6uWxqLzSbDonFij) | 10:04 |

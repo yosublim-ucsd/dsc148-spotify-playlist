@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ">Joe Goddard</a>
 
-1,051 songs - 3 day 0 hr 11 min
+1,052 songs - 3 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Ghost On](https://open.spotify.com/track/512vqW0xDLcWjWD2tc46xd) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Big Time](https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH) | 4:20 | 2022-06-08 | 2022-07-21 |
 | [Ghosts](https://open.spotify.com/track/045EJUy4tNHrB3lgvpSdND) | [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Icons](https://open.spotify.com/album/5sJJC4UoKTfJaW0jO6YYCG) | 5:53 | 2022-07-06 | 2022-08-11 |
 | [Ghosts Again](https://open.spotify.com/track/3TiVl5igD6Z5Pw6R5sp8YV) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Ghosts Again](https://open.spotify.com/album/71hI1kZm2fvpY19mlv38nF) | 3:58 | 2023-02-15 | 2023-03-23 |
+| [Gild](https://open.spotify.com/track/1xCle6fuuS62o6in7g8GA9) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Gild](https://open.spotify.com/album/3cmUNvUATYjLaodQuLbvFo) | 3:56 | 2024-09-05 |  |
 | [Girl Behind The Glass](https://open.spotify.com/track/70LWfy4gnw3wqhYrNp0yn9) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:16 | 2022-10-12 | 2022-11-24 |
 | [Give It Up For Love](https://open.spotify.com/track/6EORs2L1KC83EyRdyR85da) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [Give It Up For Love](https://open.spotify.com/album/4v0skZp9CpkFDVQvA48Dky) | 3:58 | 2023-06-13 | 2023-08-03 |
 | [Glad I Found You](https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Glad I Found You](https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07) | 3:31 | 2024-04-17 | 2024-05-16 |

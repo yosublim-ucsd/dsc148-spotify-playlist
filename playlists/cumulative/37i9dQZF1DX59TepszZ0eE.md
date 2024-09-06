@@ -2,9 +2,9 @@
 
 ### [Sunday Praise](https://open.spotify.com/playlist/37i9dQZF1DX59TepszZ0eE)
 
-> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W?si=ZJvb0rUMRDW0opM01RtMAg>Joyous Celebration</a>
+> Proudly South African Christian and Gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=NX6XK91qTCiwIn6fh8Xx\_Q>Spirit of Praise</a>
 
-306 songs - 1 day 7 hr 47 min
+307 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Ntho ke ena \(Live\)](https://open.spotify.com/track/2NHFL8FpxYGJ1ovE4uIuWs) | [Tebs David](https://open.spotify.com/artist/5wuC7dnBTQsphj7CIOm4fv) | [Ntho ke ena \(Live\)](https://open.spotify.com/album/0olffnuTDQXe6cYxOse7f3) | 6:00 | 2023-12-22 | 2024-06-07 |
 | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/track/2JWpFdGDHflpiRpfoRilNL) | [SbuNoah](https://open.spotify.com/artist/6Hmj1Zk3LCAFn8xvujto6O) | [Nxa ngimbona \(Live at Goshen City Church 2023\)](https://open.spotify.com/album/7DkQ7RJcsGJls3WyfQEwwU) | 6:03 | 2022-03-17 |  |
 | [O Mohau Messiah \- Live At The Emperors Palace](https://open.spotify.com/track/5kX2Q80IlCS8wGVriBYaIN) | [Dr Winnie Mashaba](https://open.spotify.com/artist/5ZUpkkYxKKwQbd8uNBvw2F) | [O Mohau Messiah \(Live At The Emporers Palace\)](https://open.spotify.com/album/4Ct2CYrtO90t6RrfdhrOX2) | 7:11 | 2024-03-29 | 2024-04-05 |
+| [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 |  |
 | [Pela Hao / Jehovah o Lefika \- Live](https://open.spotify.com/track/5rPuW9s3cqoNKeVNUrBCjd) | [David TheKing](https://open.spotify.com/artist/2U5BkItwy4iRjlDjemdAgi) | [Hymns of Faith \(Live\)](https://open.spotify.com/album/4P7hoE9mBHjwNgJTLtrlWo) | 8:41 | 2022-02-17 |  |
 | [Phendula Imithandazo](https://open.spotify.com/track/3mRQCsQk2RKfW36ZJbG82z) | [Mjakes The Producer](https://open.spotify.com/artist/1xPLC6Bv9F6olLAxpN6XLZ), [Nhlonipho](https://open.spotify.com/artist/4fmvHSoDtKFGNsQL3imnRN) | [Phendula Imithandazo](https://open.spotify.com/album/0rbl6EdViK0hKcMKoPyvMs) | 4:24 | 2023-10-20 | 2024-02-02 |
 | [Prayer \(Live\)](https://open.spotify.com/track/6Vyu1Ov6fj5yTySId6lJQr) | [Buhle Thela](https://open.spotify.com/artist/3LW26tYtBgsMCv8QpoUuhs) | [Umuhle](https://open.spotify.com/album/540wvtDmjHq2p3muUBUkyV) | 5:02 | 2024-03-29 | 2024-04-05 |

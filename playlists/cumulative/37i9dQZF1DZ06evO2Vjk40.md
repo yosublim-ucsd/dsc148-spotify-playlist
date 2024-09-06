@@ -2,7 +2,7 @@
 
 ### [This Is Chris Stapleton](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Vjk40)
 
-> This is Chris Stapleton\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Chris Stapleton\. The essential tracks, all in one playlist.
 
 67 songs - 4 hr 16 min
 

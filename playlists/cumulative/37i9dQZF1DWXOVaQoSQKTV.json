@@ -2687,17 +2687,21 @@
     },
     {
       "album": {
-        "name": "my rose (Luca Edit)",
+        "name": "my rose - Luca Edit",
         "url": "https://open.spotify.com/album/4HOrv14KHvgOfoxqAhmdUo"
       },
       "artists": [
         {
-          "name": "Emma Castellino",
-          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
-        },
-        {
           "name": "Luca",
           "url": "https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4"
+        },
+        {
+          "name": "colormeblue.",
+          "url": "https://open.spotify.com/artist/2pTVZkDfvfNKhwQP4mtFev"
+        },
+        {
+          "name": "Emma Castellino",
+          "url": "https://open.spotify.com/artist/2layJFdtvlPW95WA9s2GST"
         }
       ],
       "date_added": "2023-06-08",

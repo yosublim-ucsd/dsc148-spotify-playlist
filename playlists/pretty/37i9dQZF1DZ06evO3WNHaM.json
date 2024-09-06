@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 376595,
+  "num_followers": 376786,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABr9uTm/eyTf6KnK0Bfepqo",
+  "snapshot_id": "ZtejAAAAAACWblNnnkUEGCW9tQTWyAgq",
   "tracks": [
     {
       "added_at": null,
@@ -379,6 +379,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "Xerces",
+      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 276573,
       "name": "Dai the Flu",
       "url": "https://open.spotify.com/track/2cN7qiHMJflO91pkG9HoO1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 194306,
-      "name": "Kimdracula",
-      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
     },
     {
       "added_at": null,
@@ -443,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 194306,
+      "name": "Kimdracula",
+      "url": "https://open.spotify.com/track/4m8wPzkI1y0sUdqEh4A7fq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "White Pony",
         "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 268026,
       "name": "Rx Queen",
       "url": "https://open.spotify.com/track/6HgrJfzfj9WRBABdussy8z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 221800,
-      "name": "Xerces",
-      "url": "https://open.spotify.com/track/5hxcxipGOjgTzrPOkfsyyS"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Back to School (Mini Maggit)",
-      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Around the Fur",
         "url": "https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 237733,
       "name": "Lotion",
       "url": "https://open.spotify.com/track/7iiULg8Kmbnh1vWbh9rnBA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 237360,
+      "name": "Back to School (Mini Maggit)",
+      "url": "https://open.spotify.com/track/0Qrb3L8JgreLBW8g4qyan9"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
+        "name": "Saturday Night Wrist",
+        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
       },
       "artists": [
         {
@@ -564,25 +564,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 220826,
-      "name": "Root",
-      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "White Pony",
-        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 189760,
-      "name": "Feiticeira",
-      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+      "duration_ms": 238040,
+      "name": "Mein",
+      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "White Pony",
+        "url": "https://open.spotify.com/album/5LEXck3kfixFaA3CqVE7bC"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 189760,
+      "name": "Feiticeira",
+      "url": "https://open.spotify.com/track/0FpYnuKYFJXHAmHbS1CycY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ohms",
         "url": "https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd"
       },
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Saturday Night Wrist",
-        "url": "https://open.spotify.com/album/4ilqDlqD37nilewk9x8tyZ"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 238040,
-      "name": "Mein",
-      "url": "https://open.spotify.com/track/7vfUhnW7qDtkFId4GJnvtA"
+      "duration_ms": 220826,
+      "name": "Root",
+      "url": "https://open.spotify.com/track/2jkZB94i573H134wKmsw2y"
     },
     {
       "added_at": null,

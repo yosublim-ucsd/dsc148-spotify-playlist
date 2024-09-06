@@ -4,7 +4,7 @@
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Dunsin Oyekan
 
-105 songs - 13 hr 38 min
+108 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,8 @@
 | [OLULANA \- Live in Lagos](https://open.spotify.com/track/2oJ6YukjG68VK7MrMnFX4B) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [LIVE IN LAGOS](https://open.spotify.com/album/6pbRSHAID65hj5yDF7wSrk) | 3:37 | 2024-02-23 |  |
 | [Omemma](https://open.spotify.com/track/12g6OxatpkEvYBdiSTUI9C) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/58wrEUE51xyTyZ4A4uL091) | 6:34 | 2024-02-23 | 2024-04-19 |
 | [Omemma \- \(Live\)](https://open.spotify.com/track/7oWP17AUvTig60GCXuXeFl) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee \(Live\)](https://open.spotify.com/album/0YUY2M4XWrK5xMFJ0HDS1H) | 6:34 | 2024-02-23 |  |
+| [Only You \- Live](https://open.spotify.com/track/5GaU7VE0s3s0swmNvfMDmt) | [Dr TJ](https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [Only You \- Live](https://open.spotify.com/album/45JvaXvxfvciQ8CA4HhNgG) | 9:30 | 2024-09-06 |  |
+| [Otshepehile \(Live\)](https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j) | [Spirit Of Praise](https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa), [Omega Khunou](https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3) | [Spirit Of Praise 10 \(Live\)](https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv) | 8:03 | 2024-09-06 |  |
 | [Praise Medley \- Live](https://open.spotify.com/track/3YvkrCWErGF7GxO5N0li38) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Praise Medley \(Live\)](https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ) | 8:44 | 2024-06-28 |  |
 | [Prayer \- Live](https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY) | [Minstrel K.I](https://open.spotify.com/artist/1KGm6LnIBHf7Ki5MgTeBKR), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Prayer \(Live\)](https://open.spotify.com/album/5IzpZ1rz36w0rq32M6paX4) | 9:19 | 2024-06-28 |  |
 | [Rahama \(Live\)](https://open.spotify.com/track/4QYJFByYxJpmmpKknW1651) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Rahama \(Live\)](https://open.spotify.com/album/3KZjGboiC4GMKw7mo2opPI) | 9:56 | 2024-08-16 |  |
@@ -101,6 +103,7 @@
 | [Victory Praise \- Live](https://open.spotify.com/track/46UBVMKVX2mYXS453PcvlJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Victory Praise \(Live\)](https://open.spotify.com/album/1o02xBcfIuhOt4MVTgr7Nn) | 12:44 | 2024-02-23 |  |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2024-02-23 |  |
 | [We Bless \- Live](https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Victory Sounds \(Live\)](https://open.spotify.com/album/4Qrwc9UuMmNgBfgYWQf21n) | 6:36 | 2024-06-21 |  |
+| [We Want More](https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD) | [Tony Richie](https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm), [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [We Want More](https://open.spotify.com/album/1AiXWLmThkIw2jF9e1RPWd) | 17:03 | 2024-09-06 |  |
 | [When We Praise \- Live](https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [When We Praise \- Live](https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ) | 5:44 | 2024-08-30 |  |
 | [WO NKYEN](https://open.spotify.com/track/5DLa96rKO72NOOMnTFk53N) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Felicia Sarfo](https://open.spotify.com/artist/3P1uB9Vb9lBVnTHsXIB7eq) | [WO NKYEN](https://open.spotify.com/album/4uNt01HdxLnW29Ptqn6GtC) | 5:36 | 2024-08-30 |  |
 | [Wo Ye \(Live\)](https://open.spotify.com/track/6NrKEvAtPayQpi9iPBF4zL) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Wo Ye \(Live\)](https://open.spotify.com/album/1UQpttjQ3N0bzPONAeuN1Y) | 8:32 | 2024-02-23 |  |

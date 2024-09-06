@@ -4,7 +4,7 @@
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-151 songs - 10 hr 14 min
+152 songs - 10 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dewi Pelita](https://open.spotify.com/track/0xD8XcL3Z655ohuMf8AYED) | [kidunghara](https://open.spotify.com/artist/6aNEwNrod9qI0UZO69awmo), [Noh Salleh](https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf) | [Dewi Pelita](https://open.spotify.com/album/4ERCJb48c2k4aOtPz7U7tK) | 3:45 | 2023-07-06 |  |
 | [discohaze](https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:18 | 2022-05-26 |  |
 | [DOWN TOWN](https://open.spotify.com/track/3MXCCaSni8I1FSvHeMQIGV) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y), [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Hiro\-a\-key](https://open.spotify.com/artist/3xST4IdzibYK6K3IAtcaVe), [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [DOWN TOWN](https://open.spotify.com/album/3yY408DUkgwhfZkouMRK0i) | 4:50 | 2023-03-16 |  |
+| [Eksplorasi](https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Eksplorasi](https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI) | 3:01 | 2024-09-05 |  |
 | [Essential](https://open.spotify.com/track/5jtEduKSyyJXEE6IbZFLJR) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym) | [Essential](https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0) | 3:06 | 2022-05-26 |  |
 | [Fantasia](https://open.spotify.com/track/4lALjw6ugXYRubOBAIqP4b) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Fantasia](https://open.spotify.com/album/4R29MM1Qdq4ZlNSfldipEb) | 4:08 | 2024-01-10 |  |
 | [Flashlight](https://open.spotify.com/track/4qTspjp0GiwfTTYDvhgJ6u) | [Precious Bloom](https://open.spotify.com/artist/6IFNsMUy9ZIPoITKCjMTMN) | [Flashlight](https://open.spotify.com/album/16670hpVDgDohewHKfthD6) | 7:07 | 2024-06-14 |  |

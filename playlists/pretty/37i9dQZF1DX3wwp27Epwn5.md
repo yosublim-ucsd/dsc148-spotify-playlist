@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 
 > Train insane with these Bollywood tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,819 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,884 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3wwp27Epwn5.md) - [plain]
 | 37 | [Lakshya](https://open.spotify.com/track/7o1yzUVkQt2Gto5yYvzo2T) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Lakshya \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2U02MTp5MJnqV54xsJOVIe) | 6:15 |
 | 38 | [Dil Chori](https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ishers](https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:46 |
 | 39 | [Tu Hai Champion \(From "Chandu Champion"\)](https://open.spotify.com/track/6nnXcVOjQROs4x1RUY57kI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Amit Mishra](https://open.spotify.com/artist/2LgKrgRJcbJlt14i1LTzDU), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Tu Hai Champion \(From "Chandu Champion"\)](https://open.spotify.com/album/6LVS3ciZv4mt2m1dA5FWnx) | 3:36 |
-| 40 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
+| 40 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \- Original Never Ends](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 41 | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/track/2RBkVQwpkDeYytMTQwjyTk) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Baaki Baatein Peene Baad \(Shots\) \(feat\. Badshah\)](https://open.spotify.com/album/3PagIUxITkcJhnMY4z7wLV) | 3:40 |
 | 42 | [Odhani \(From "Made in China"\)](https://open.spotify.com/track/2q0V50aNlI1RQXJyE5HDgD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Odhani \(From "Made in China"\)](https://open.spotify.com/album/55vXKnwnYYVesz6sz6pOSR) | 3:15 |
 | 43 | [Bom Diggy Diggy](https://open.spotify.com/track/1OACsTiYokI4NUgnMonSmt) | [Zack Knight](https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP), [Jasmin Walia](https://open.spotify.com/artist/4bWGzsNAtfPp8P7pSBukH8) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:58 |

@@ -2,13 +2,14 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Nena
+> Uma playlist de pura alma pop! Foto: Bárbara Tinoco.
 
-89 songs - 4 hr 49 min
+93 songs - 5 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Chamada](https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [A Chamada](https://open.spotify.com/album/5gK7m9ajcA9TbW4KcSaLIl) | 3:39 | 2024-06-27 |  |
+| [A Chamada](https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb) | [A Chamada](https://open.spotify.com/album/5gK7m9ajcA9TbW4KcSaLIl) | 3:39 | 2024-06-27 | 2024-09-06 |
+| [A Coisa Vai Andando](https://open.spotify.com/track/1D5koDg0uGRsy8BlyIPox3) | [Beatriz Caixinha](https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n) | [Merenda Mista](https://open.spotify.com/album/5xhVXFc7AYDKknWcC1U5Qf) | 2:16 | 2024-09-05 |  |
 | [A Nossa Dança](https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A Nossa Dança](https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz) | 3:02 | 2024-06-27 |  |
 | [A Terra Gira \(feat\. Bárbara Tinoco\) \- Ao Vivo no Estádio Cidade De Coimbra](https://open.spotify.com/track/6RUgFUI2nGoU2mv04yaDsP) | [Os Quatro e Meia](https://open.spotify.com/artist/4pHDBbJMWvniiMjrhi2rfE), [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [A Terra Gira \(feat\. Bárbara Tinoco\) \[Ao Vivo no Estádio Cidade De Coimbra\]](https://open.spotify.com/album/5yJNnaDRjjSxHGcPdTCnEr) | 5:42 | 2024-06-27 | 2024-08-09 |
 | [Amigos Coloridos](https://open.spotify.com/track/4A006qfhftf2y12JKLyxoK) | [Bandidos do Cante](https://open.spotify.com/artist/3Yv2ZG7hKpMhJxzUbx8DpC) | [Amigos Coloridos](https://open.spotify.com/album/67hN41imzmwzYlQuI2FN05) | 3:44 | 2024-07-11 |  |
@@ -46,12 +47,15 @@
 | [Espera Por Mim](https://open.spotify.com/track/3qCz2wp2u8FK4d6g2cLDHP) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Espera Por Mim](https://open.spotify.com/album/55yJIiWoQwa7XnTovpZ07z) | 3:36 | 2024-06-27 | 2024-08-02 |
 | [ESPINHOS](https://open.spotify.com/track/2IJYS685KL8OE01SNtR1KK) | [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [ESPINHOS](https://open.spotify.com/album/3ApfoGIEbbpakkR8NqcviA) | 3:06 | 2024-06-27 |  |
 | [Estou a Ficar Maluco](https://open.spotify.com/track/3U031aTlvrvNQxGTJxAp5O) | [Khiaro](https://open.spotify.com/artist/1F9fj23YI3lhbe8IX5mHRb), [Badoxa](https://open.spotify.com/artist/5ZOMkfINXvTF4GqNwHPsfW) | [Estou a Ficar Maluco](https://open.spotify.com/album/0dPDfiIKVsdjYnItoDqdio) | 2:53 | 2024-06-27 |  |
+| [Eu Deixo Ir](https://open.spotify.com/track/00VJM4qAgMpVQ6xNVutDCw) | [Ivo Soares](https://open.spotify.com/artist/7lG5oTNwNk1Ddgv1zB75DT) | [Eu Vou Ficar](https://open.spotify.com/album/1uAalpoapaUqrH4uSrY5Ly) | 2:39 | 2024-09-05 |  |
 | [Eu e Tu](https://open.spotify.com/track/4YN0S8r2onJGCiPdVrMh8A) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x), [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y) | [Eu e Tu](https://open.spotify.com/album/3mhOdbBo8GTzbRDNgD99gq) | 4:42 | 2024-07-04 |  |
 | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/track/3fM66OkuxlPrrHPp5J5978) | [Kura](https://open.spotify.com/artist/3NwcP2GO2sZZS2BVvWcc9T), [Nuno Ribeiro](https://open.spotify.com/artist/6vgClJhn4BAJ4pmLvsT8lt) | [Eu Prometo \(feat\. Nuno Ribeiro\)](https://open.spotify.com/album/2vXp7NGxTjJaI4VQF5LdTy) | 2:43 | 2024-06-27 |  |
 | [Faz Bem](https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa) | [Bluay](https://open.spotify.com/artist/18jB1ZnaJSWmro1ExvqZo4), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Faz Bem](https://open.spotify.com/album/1TW06h2SedE0SrfFXK7QHo) | 3:03 | 2024-06-27 |  |
-| [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 | 2024-07-18 |  |
+| [Filha de Lisboa](https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD) | [Catarina Castanhas](https://open.spotify.com/artist/7oMMnf1YRqDS8mJ1GYGwHf) | [Filha de Lisboa](https://open.spotify.com/album/2AvgPZA0PszARWc0zS5Fyf) | 3:04 | 2024-07-18 | 2024-09-06 |
+| [Flash](https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi) | [Tiago Nacarato](https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X) | [Flash](https://open.spotify.com/album/48CCNFMg4Mw7GOiL66oRvG) | 3:24 | 2024-09-05 |  |
 | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/track/3Q4rvGBoHiTxNDqR13iaKF) | [Nena](https://open.spotify.com/artist/561qBVd91ZPE9yCURXt7BB) | [Fones nos ouvidos \- Ao vivo no Grovewood Estúdio](https://open.spotify.com/album/5QpUym9AFfvPiT74s7T3XM) | 3:53 | 2024-08-15 |  |
 | [Foste Embora](https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Aparentemente \- vol 1](https://open.spotify.com/album/626ozUdqBKuPW0cmLkHEuJ) | 2:39 | 2024-06-27 |  |
+| [FUGACIDADE](https://open.spotify.com/track/3LFPFTXstkw1bOYGf4s435) | [Janeiro](https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0) | [FUGACIDADE](https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3) | 2:36 | 2024-09-05 |  |
 | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/track/1Qi9DwRbJCAyBsLWY8Lope) | [Bárbara Bandeira](https://open.spotify.com/artist/4zhMand4AowXuUz4VpGiTJ), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Fumaça \(feat\. Veigh\)](https://open.spotify.com/album/0wQJo0SvCjABJJjgINGylA) | 3:22 | 2024-06-27 |  |
 | [G Wagon](https://open.spotify.com/track/726AIEba3u6eETD7A4e5LJ) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch), [LEO2745](https://open.spotify.com/artist/1MBezd5OaoWoOTQVs16FOx), [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07) | [G Wagon](https://open.spotify.com/album/5yOXfIJsr2DBJuFTKRG3Az) | 3:10 | 2024-07-04 | 2024-07-17 |
 | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/track/3YsnklkstFoHWUNw6Oqici) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr), [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [Garota \(feat\. Marisa Liz\)](https://open.spotify.com/album/7siXX6r4UDDEoAecVwqAPc) | 3:36 | 2024-06-27 |  |
@@ -69,7 +73,7 @@
 | [Não Somos Iguais](https://open.spotify.com/track/6jjhceNhQRNbOu3EZ5LfIo) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Beco Com Saída](https://open.spotify.com/album/4tRPih3kZoV0bnKUm8AntL) | 3:05 | 2024-06-27 | 2024-08-23 |
 | [Não és tu, sou eu](https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Não és tu, sou eu](https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE) | 2:59 | 2024-06-27 |  |
 | [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 | 2024-08-22 |  |
-| [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 | 2024-07-18 |  |
+| [Ojé Ojé](https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG) | [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw) | [Ojé Ojé](https://open.spotify.com/album/1QbfyEPfk1NXG8VeobR64P) | 2:52 | 2024-07-18 | 2024-09-06 |
 | [Ondas Do Mar](https://open.spotify.com/track/57U5uPOSahT6Cis5IgPw6g) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Ondas Do Mar](https://open.spotify.com/album/22sH7NUz2saNvEwVx1YOgD) | 2:00 | 2024-06-27 | 2024-07-27 |
 | [Outro Planeta](https://open.spotify.com/track/5gowKvKBEEpQhdAL2Qklhe) | [Virgul](https://open.spotify.com/artist/0qe3I1MOY8oFj3DuoWNwbq) | [Outro Planeta](https://open.spotify.com/album/2QEjRxraeyKj7iYlLLQUCM) | 3:04 | 2024-07-04 |  |
 | [Pelos Cantos do Mundo](https://open.spotify.com/track/1tEbzUsK47jPVTYJNDqAc1) | [Mickael Carreira](https://open.spotify.com/artist/6Y9n4rtU99wHdeIrrhndtU), [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Pelos Cantos do Mundo](https://open.spotify.com/album/1LIT5KUsrJIMfio5tuRJoa) | 3:30 | 2024-06-27 |  |
@@ -96,6 +100,6 @@
 | [Talvez...](https://open.spotify.com/track/65BXCyoVQ1sSGj0z6UxRcL) | [CAROLINA DE DEUS](https://open.spotify.com/artist/0CwJCUfVGXjdMvyLzJNwFH) | [Talvez...](https://open.spotify.com/album/0o8AGwMQunsC0QMOk4hZt3) | 3:04 | 2024-06-27 |  |
 | [Tu Amor](https://open.spotify.com/track/3pXyAh3uYKEehDa6EcHRI8) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Tu Amor](https://open.spotify.com/album/2IqpqWDTt6n9oLHboUZkaB) | 3:53 | 2024-06-27 | 2024-07-19 |
 | [Tu És Capaz](https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl) | [Fernando Daniel](https://open.spotify.com/artist/3Cpjz5dY9HNR41QuMn3oYC), [Sara Correia](https://open.spotify.com/artist/6CDeCfO2MlVXHhHgpK6HvA), [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [Tu És Capaz](https://open.spotify.com/album/0ZDVybzvo8hbZ2IUWxK4Vz) | 2:53 | 2024-08-15 |  |
-| [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 |  |
+| [Âmbar](https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN) | [Tainá](https://open.spotify.com/artist/0XXftdqBugbSuMCYFiisaC) | [Âmbar](https://open.spotify.com/album/25iYTRlmDMaSMYMedcjkEl) | 2:52 | 2024-07-18 | 2024-09-06 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

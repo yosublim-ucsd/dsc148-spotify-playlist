@@ -4,7 +4,7 @@
 
 > Listen to your favourite tunes for inspiration and upliftment.
 
-331 songs - 1 day 6 hr 29 min
+332 songs - 1 day 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Could've Been Worse](https://open.spotify.com/track/03BDnOYsdzivNPqIuBQMGh) | [Shae'\\dy](https://open.spotify.com/artist/1WnGHRAEWg1fJyMeH2wVds) | [Could've Been Worse](https://open.spotify.com/album/0C5tLT12nuIGtusVqIuIO0) | 2:40 | 2023-06-23 | 2023-11-03 |
 | [COUNT 'EM](https://open.spotify.com/track/5tgXL0bJKzjwC2hZSYJzgl) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Count 'Em](https://open.spotify.com/album/6lbqpHtIIM0pEC3zDoUYfd) | 3:47 | 2023-08-04 |  |
 | [Counting My Blessings](https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Counting My Blessings](https://open.spotify.com/album/4t6WQgunJKOb6ieHMXDD2P) | 3:29 | 2024-05-31 |  |
+| [Courts](https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0) | [Linc Worship](https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B), [Ashleigh Duggan](https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI) | [Courts](https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5) | 7:16 | 2024-09-06 |  |
 | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/track/11rRKeoYIb3eloAr5nqHAA) | [Worship House](https://open.spotify.com/artist/3Aa2R54aqT4UiklOkE0qwD), [Mahazel](https://open.spotify.com/artist/15On8moHOaky2qVhWIp1xA) | [Covenant keeping God \(Live at Worship House Church Limpopo, 2023\) \(feat\. Mahazel\)](https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw) | 9:51 | 2023-12-22 | 2024-01-12 |
 | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/track/7AboTNWY3jzxA4i5L7FPjf) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [JWLKRS Worship](https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh) | [Crazy Love \(feat\. JWLKRS Worship\)](https://open.spotify.com/album/5rrTuiCJK1IozX5qW1Fm22) | 5:58 | 2023-11-03 | 2024-01-19 |
 | [Dancing in the Rain](https://open.spotify.com/track/4NjKhRbDuH0bpQtumrFy8W) | [His Church Music](https://open.spotify.com/artist/1jMeFoQnHRPmCYctBPZqbp) | [Higher](https://open.spotify.com/album/2hSQPS2MhV1IFwCjeVHvhN) | 3:52 | 2023-10-06 | 2023-11-10 |
@@ -287,7 +288,7 @@
 | [Umona](https://open.spotify.com/track/6ufN7QxJhFZ4rEIKndvdon) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Umona](https://open.spotify.com/album/60tGABu8pLNqzV9W1rZlap) | 2:53 | 2023-04-28 | 2023-06-23 |
 | [Undignified \(Excuse Me\)](https://open.spotify.com/track/4gP0lFMHrIl5dzTBpDytJ7) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 8:53 | 2024-08-08 | 2024-08-16 |
 | [Ungukuphila](https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa) | [Xolly Mncwango](https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4) | [Jesus Is Enough](https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii) | 5:56 | 2023-11-03 |  |
-| [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 | 2024-05-31 |  |
+| [Up + Up](https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Up + Up](https://open.spotify.com/album/6q5zDjRliJ0Soj8XDnZlVU) | 2:43 | 2024-05-31 | 2024-09-06 |
 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 | 2023-09-22 | 2023-11-03 |
 | [Uyabusa \(Live at the Durban Icc\)](https://open.spotify.com/track/5WokshInqxVb0pALrnHmjU) | [Joyous Celebration](https://open.spotify.com/artist/6jG7VTyXJjdrVP4jNjDX9W) | [Joyous Celebration 28 \(The Second Set Live at the Durban Icc\)](https://open.spotify.com/album/1b8ofWviHvmtMysu7jiJcJ) | 9:13 | 2024-08-23 |  |
 | [Victory](https://open.spotify.com/track/10haoRmSr2DBVvZaIn8YqX) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Bobby Jones Gospel: Faith Unscripted, Volume 1](https://open.spotify.com/album/6tJJ3dJHr7JCyeiqYhUrnq) | 5:13 | 2024-08-08 | 2024-08-16 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "welcome to the underground. greetings from geordie greep.",
+  "description": "welcome to the underground. greetings from fat dog. ",
   "name": "melomania",
   "tracks": [
     {
@@ -153,6 +153,24 @@
     },
     {
       "album": {
+        "name": "BIG FISH",
+        "url": "https://open.spotify.com/album/3YOYvZEPsU7hMRiTmf9GWb"
+      },
+      "artists": [
+        {
+          "name": "Blood Wizard",
+          "url": "https://open.spotify.com/artist/60XRtGmul45VSNNKt9mZhp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190189,
+      "name": "BIG FISH",
+      "url": "https://open.spotify.com/track/3gGtZis4nJpIMGGM2g0lcm"
+    },
+    {
+      "album": {
         "name": "POSTINDUSTRIAL HOMETOWN BLUES",
         "url": "https://open.spotify.com/album/7xzVWfraTTIu3HrdGrSOPN"
       },
@@ -186,7 +204,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 220373,
       "name": "Blanket - Dan Carey Remix",
       "url": "https://open.spotify.com/track/0n7MDEsT31gB6W1dcYOS32"
@@ -316,6 +334,24 @@
       "duration_ms": 163826,
       "name": "Close Call",
       "url": "https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY"
+    },
+    {
+      "album": {
+        "name": "WOOF.",
+        "url": "https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226737,
+      "name": "Closer to God",
+      "url": "https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2"
     },
     {
       "album": {
@@ -464,6 +500,24 @@
       "duration_ms": 165510,
       "name": "Don't",
       "url": "https://open.spotify.com/track/51492YDzG1jwyFHKpkVbsK"
+    },
+    {
+      "album": {
+        "name": "Dream Untitled (On and On)",
+        "url": "https://open.spotify.com/album/18F789MGT0N0PgNsES9HPA"
+      },
+      "artists": [
+        {
+          "name": "junodream",
+          "url": "https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243562,
+      "name": "Dream Untitled (On and On)",
+      "url": "https://open.spotify.com/track/7D7C76K9lJvDiZhzMNZrlM"
     },
     {
       "album": {
@@ -730,7 +784,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178826,
       "name": "Gone Girl",
       "url": "https://open.spotify.com/track/5bajgZvZb1x9OScsPAC1gB"
@@ -766,7 +820,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 307200,
       "name": "Grief In Phantasia",
       "url": "https://open.spotify.com/track/5fpWCZHGKmGjeoRqOM5eQN"
@@ -910,7 +964,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 408950,
       "name": "Icy Windy Sky",
       "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
@@ -1774,7 +1828,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 205484,
       "name": "Steamroller",
       "url": "https://open.spotify.com/track/5t4lCUVCHh65FOgYH1xxPN"
@@ -1925,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "The Well",
+        "url": "https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD"
+      },
+      "artists": [
+        {
+          "name": "Rubber Oh",
+          "url": "https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283014,
+      "name": "The Well",
+      "url": "https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e"
+    },
+    {
+      "album": {
         "name": "Therapy",
         "url": "https://open.spotify.com/album/6jHgbO9dacL4avMfBmhWam"
       },
@@ -1954,7 +2026,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 196761,
       "name": "This Is Not The End",
       "url": "https://open.spotify.com/track/20OZFpJWz3ojDCNKfIbrmx"
@@ -2102,6 +2174,24 @@
       "duration_ms": 363022,
       "name": "We Can Still Win This",
       "url": "https://open.spotify.com/track/0kVnN6ffJCubItoBM1Nmzx"
+    },
+    {
+      "album": {
+        "name": "Smile While You're Losing",
+        "url": "https://open.spotify.com/album/33I0BwTfQ5VM5UZr1ob7XZ"
+      },
+      "artists": [
+        {
+          "name": "Human Interest",
+          "url": "https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "Wearing Faces",
+      "url": "https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg"
     },
     {
       "album": {

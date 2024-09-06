@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0?si=zYAzYADYRYyDogiV2hSiCw\">Yuppe</a>, <a href=\"https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k?si=fy5KqVYcSPe09gafCYOybQ\">TitoM</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover:  <a href=\"https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G?si=D242H4dQQ2ejRjapro1ZjQ\">Cooper SA</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -23671,6 +23671,36 @@
     },
     {
       "album": {
+        "name": "Qoqoqo (feat. Kailey Botman & Steve.Artchild)",
+        "url": "https://open.spotify.com/album/6VZBQPev5XHhSoqbcpDZhO"
+      },
+      "artists": [
+        {
+          "name": "Bandros",
+          "url": "https://open.spotify.com/artist/5yR5c8xnUVQDP3UDqfjhZd"
+        },
+        {
+          "name": "Alex Avenues",
+          "url": "https://open.spotify.com/artist/1t7nV0FfnKtXsouPvSV87D"
+        },
+        {
+          "name": "Kailey Botman",
+          "url": "https://open.spotify.com/artist/0wTwLyah7AviSd5juTDVey"
+        },
+        {
+          "name": "Steve.Artchild",
+          "url": "https://open.spotify.com/artist/3rWF8SFXgMuz5gQgo5IgbA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399242,
+      "name": "Qoqoqo (feat. Kailey Botman & Steve.Artchild)",
+      "url": "https://open.spotify.com/track/7kdTm3Xic9NCbh13HuYD9d"
+    },
+    {
+      "album": {
         "name": "Quantum Sounds",
         "url": "https://open.spotify.com/album/5c4ZZgkPLIk8TASBsXe8Ix"
       },
@@ -26332,6 +26362,44 @@
       "duration_ms": 309524,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/6ktI4U0WpyihLT8zP5lQtC"
+    },
+    {
+      "album": {
+        "name": "Sondela (feat. TurnUpKiid, P L U T O & Lady Steezy)",
+        "url": "https://open.spotify.com/album/3cHsN5AEj2FHnzyrMc61JW"
+      },
+      "artists": [
+        {
+          "name": "Ray&Jay",
+          "url": "https://open.spotify.com/artist/1gGxd1GallZ8uYhT1P51PG"
+        },
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Mr Nation Thingz",
+          "url": "https://open.spotify.com/artist/5N1to90ym4E3lzJg0CyEGH"
+        },
+        {
+          "name": "TurnUpKiid",
+          "url": "https://open.spotify.com/artist/1sA6jNKu1eluLUT2xqsbv4"
+        },
+        {
+          "name": "P L U T O",
+          "url": "https://open.spotify.com/artist/5zrTBvChan1Ci70rAcznAG"
+        },
+        {
+          "name": "Lady Steezy",
+          "url": "https://open.spotify.com/artist/6B7gicAnGtCxLjMCYUodWy"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 409529,
+      "name": "Sondela (feat. TurnUpKiid, P L U T O & Lady Steezy)",
+      "url": "https://open.spotify.com/track/1tHrdF8csWbQwsOpcmZl0H"
     },
     {
       "album": {
@@ -29975,6 +30043,28 @@
     },
     {
       "album": {
+        "name": "Tshika Ti Small Boys",
+        "url": "https://open.spotify.com/album/4uZMlYNkTUKoeHNsQ3bIyQ"
+      },
+      "artists": [
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        },
+        {
+          "name": "Optimist Music ZA",
+          "url": "https://open.spotify.com/artist/69FMBSIEqfCYBg5xqWdDQV"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300547,
+      "name": "Tshika Ti Small Boys",
+      "url": "https://open.spotify.com/track/4NbCOa10LTKAz4ZaJAAYa8"
+    },
+    {
+      "album": {
         "name": "Tshivhidzwela Amapiano",
         "url": "https://open.spotify.com/album/0LXcSCKiODfObDwTqZ6NlH"
       },
@@ -32081,6 +32171,36 @@
     },
     {
       "album": {
+        "name": "uThukela (feat. Harry Cane & Eemoh)",
+        "url": "https://open.spotify.com/album/7tif6rlfnYcqrG0diY1yW6"
+      },
+      "artists": [
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Harry Cane",
+          "url": "https://open.spotify.com/artist/1eiu4TofnbXLBF7r59mwE4"
+        },
+        {
+          "name": "Eemoh",
+          "url": "https://open.spotify.com/artist/4k3Qot5J7igrWE9JUP3Wza"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280868,
+      "name": "uThukela (feat. Harry Cane & Eemoh)",
+      "url": "https://open.spotify.com/track/1IvL0gAbxxgBd6E7BCJHg1"
+    },
+    {
+      "album": {
         "name": "Tshwala Bam",
         "url": "https://open.spotify.com/album/4qYfV3DTCJeB83hqco5JfR"
       },
@@ -32747,7 +32867,37 @@
     },
     {
       "album": {
-        "name": "Wadibusa (feat. Royal MusiQ, OHP Sage & Pcee)",
+        "name": "Wa Tshembeka (feat. Tyler ICU & Jay Sax)",
+        "url": "https://open.spotify.com/album/4vzICC4bQfC2W94Z3zxqSc"
+      },
+      "artists": [
+        {
+          "name": "Cooper SA",
+          "url": "https://open.spotify.com/artist/7xDh9xWg5mER07kIArgw1G"
+        },
+        {
+          "name": "Small S.P",
+          "url": "https://open.spotify.com/artist/6vNjfyz8Jq8eSfD6DEQ0Od"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Jay Sax",
+          "url": "https://open.spotify.com/artist/2QLRzMotnSVwPw8iXdsVPC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 427265,
+      "name": "Wa Tshembeka (feat. Tyler ICU & Jay Sax)",
+      "url": "https://open.spotify.com/track/2dY16kzM2zR2P8MU9nwizH"
+    },
+    {
+      "album": {
+        "name": "Wadibusa (feat. Royal MusiQ, OHP Sage, & Pcee)",
         "url": "https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI"
       },
       "artists": [
@@ -32772,7 +32922,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 285034,
-      "name": "Wadibusa (feat. Royal MusiQ, OHP Sage & Pcee)",
+      "name": "Wadibusa (feat. Royal MusiQ, OHP Sage, & Pcee)",
       "url": "https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI"
     },
     {

@@ -8641,6 +8641,24 @@
     },
     {
       "album": {
+        "name": "Walk to Midnight",
+        "url": "https://open.spotify.com/album/70srRlaI7hVqXB7jD4OSBT"
+      },
+      "artists": [
+        {
+          "name": "Melt",
+          "url": "https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186263,
+      "name": "Walk to Midnight",
+      "url": "https://open.spotify.com/track/4SiwVyRC37B6HsqMyLgxgk"
+    },
+    {
+      "album": {
         "name": "We Made It",
         "url": "https://open.spotify.com/album/50soRftpa2dYDxH6v9Jka8"
       },

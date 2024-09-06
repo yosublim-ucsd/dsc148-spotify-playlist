@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GEMINI",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27 \u0e2d\u0e31\u0e1b\u0e40\u0e14\u0e15\u0e17\u0e38\u0e01\u0e2a\u0e31\u0e1b\u0e14\u0e32\u0e2b\u0e4c. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: FOURTH",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247898,
       "name": "Expire",
       "url": "https://open.spotify.com/track/7oliYDhzo6s3QtwYpQMoRH"
@@ -2584,6 +2584,28 @@
       "duration_ms": 271764,
       "name": "Wish",
       "url": "https://open.spotify.com/track/1ecud9LC1clhcuhjLIyyMB"
+    },
+    {
+      "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/4X5Wd999DQrVtVKbf2HFDh"
+      },
+      "artists": [
+        {
+          "name": "GULF KANAWUT",
+          "url": "https://open.spotify.com/artist/232CbSfw9pgI0oz4c5UKZ2"
+        },
+        {
+          "name": "LAZYLOXY",
+          "url": "https://open.spotify.com/artist/5w5u1DluuMvsS9o02rqWO5"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/78iVXsaiRJuSkVE8kOXYV5"
     },
     {
       "album": {
@@ -6539,6 +6561,24 @@
     },
     {
       "album": {
+        "name": "\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Pick Me Up)",
+        "url": "https://open.spotify.com/album/48POxxUuGb7Jal9dThmx3R"
+      },
+      "artists": [
+        {
+          "name": "Slow Sundae",
+          "url": "https://open.spotify.com/artist/4jA3LPzvGQcPImWTjpDlma"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210708,
+      "name": "\u0e23\u0e31\u0e1a\u0e09\u0e31\u0e19\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Pick Me Up)",
+      "url": "https://open.spotify.com/track/1D5UUVv0w4t4yQ3tPIv3gg"
+    },
+    {
+      "album": {
         "name": "\u0e23\u0e31\u0e1a\u0e1c\u0e34\u0e14\u0e0a\u0e2d\u0e1a\u0e43\u0e08\u0e09\u0e31\u0e19\u0e14\u0e49\u0e27\u0e22 (LOVE RESPONSE)",
         "url": "https://open.spotify.com/album/4S3sgGbvptGHBhZPjsp02t"
       },
@@ -7092,6 +7132,24 @@
       "duration_ms": 184000,
       "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e40\u0e1a\u0e25\u0e2d (BLURRR)",
       "url": "https://open.spotify.com/track/2MzPAfKHgy5BoE8bjm97d0"
+    },
+    {
+      "album": {
+        "name": "\u0e2a\u0e19\u0e17\u0e19\u0e32",
+        "url": "https://open.spotify.com/album/2N47F5faJvui0xa5KPuUMr"
+      },
+      "artists": [
+        {
+          "name": "INGKHO PiXXiE",
+          "url": "https://open.spotify.com/artist/7MIipN2WKHNjIPShD0ocPg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213913,
+      "name": "\u0e2a\u0e19\u0e17\u0e19\u0e32",
+      "url": "https://open.spotify.com/track/18g2qDpPj6BMk0co4vuDRt"
     },
     {
       "album": {
@@ -7660,7 +7718,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201477,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e21\u0e35\u0e40\u0e18\u0e2d\u0e43\u0e01\u0e25\u0e49\u0e46",
       "url": "https://open.spotify.com/track/02mE5JW89debQbxtBSPA9p"
@@ -10260,7 +10318,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 260000,
       "name": "\u0e44\u0e21\u0e48\u0e43\u0e0a\u0e48\u0e40\u0e18\u0e2d (Position)",
       "url": "https://open.spotify.com/track/5T2kMqNwQWcimlY2eSXrJC"

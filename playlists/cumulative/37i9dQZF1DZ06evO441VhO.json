@@ -297,6 +297,24 @@
     },
     {
       "album": {
+        "name": "Doomsday on the Radio",
+        "url": "https://open.spotify.com/album/3VOXn5xzWS3Up57Q1TRsG8"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170029,
+      "name": "Doomsday on the Radio",
+      "url": "https://open.spotify.com/track/7llSYRBzQZ2yUKVvFsCfhr"
+    },
+    {
+      "album": {
         "name": "The Bonus Brothers (Japan Only Bonus Tracks)",
         "url": "https://open.spotify.com/album/3tzvxBdYuBLvwYloAnIybs"
       },

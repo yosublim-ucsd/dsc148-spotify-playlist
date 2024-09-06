@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: SWEET SPINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,212 likes - 131 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,234 likes - 131 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

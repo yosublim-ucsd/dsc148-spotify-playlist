@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie music of the moment. Yannis & The Yaw take us to Lagos Paris London \ud83c\udf0e",
+  "description": "The best indie music of the moment. Partying with Orla and Declan \ud83e\udea9",
   "name": "The Indie List",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 193106,
       "name": "1901",
       "url": "https://open.spotify.com/track/1Ug5wxoHthwxctyWTUMGta"
+    },
+    {
+      "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
     },
     {
       "album": {
@@ -113,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Same Mistake Twice",
+        "url": "https://open.spotify.com/album/4IGKgrYtE2lGul5aNGmaCO"
+      },
+      "artists": [
+        {
+          "name": "The Howl & The Hum",
+          "url": "https://open.spotify.com/artist/3EQ310YOzcS1pJqiaoDs32"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267458,
+      "name": "All Your Friends Hate Me",
+      "url": "https://open.spotify.com/track/1UAHD1PMWuH0glGXGuEeFe"
+    },
+    {
+      "album": {
         "name": "All Your Life",
         "url": "https://open.spotify.com/album/0MeJsDdKFpqVgGX2GqSaXu"
       },
@@ -178,7 +214,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 250537,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/13vRJ8LDVH73EFLuZXz8co"
@@ -214,7 +250,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 197027,
       "name": "Beach House",
       "url": "https://open.spotify.com/track/5exf0keVsX7ocqamzUOVtG"
@@ -438,7 +474,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 182240,
       "name": "Call It Love - Edit",
       "url": "https://open.spotify.com/track/5NWmu7Sm48TZRhvjM7CyGU"
@@ -536,6 +572,24 @@
       "duration_ms": 240711,
       "name": "Clementine",
       "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "album": {
+        "name": "WOOF.",
+        "url": "https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226737,
+      "name": "Closer to God",
+      "url": "https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2"
     },
     {
       "album": {
@@ -972,7 +1026,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247000,
       "name": "Get Back To You",
       "url": "https://open.spotify.com/track/0rfKOy4TA3vF4UitzYGQmQ"
@@ -1069,6 +1123,24 @@
     },
     {
       "album": {
+        "name": "heat",
+        "url": "https://open.spotify.com/album/4m3Mfj6DYZwR6t9zMoSecI"
+      },
+      "artists": [
+        {
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184261,
+      "name": "heat",
+      "url": "https://open.spotify.com/track/3YzjkiK7zrHNONvu2vwuVU"
+    },
+    {
+      "album": {
         "name": "Heavy Pour",
         "url": "https://open.spotify.com/album/3Wts0iKSOrE244mqwSS0kN"
       },
@@ -1098,7 +1170,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/58tz5wYT6bAvhhO9pjsXLP"
@@ -1531,6 +1603,24 @@
     },
     {
       "album": {
+        "name": "Made Out Of Memory",
+        "url": "https://open.spotify.com/album/1329EWe2YqVTTfdNLxVKKy"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214694,
+      "name": "Made Out Of Memory",
+      "url": "https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB"
+    },
+    {
+      "album": {
         "name": "Magpie",
         "url": "https://open.spotify.com/album/4EHdBVY6WlYTQHWqP9BubZ"
       },
@@ -1600,6 +1690,24 @@
       "duration_ms": 138640,
       "name": "Midas",
       "url": "https://open.spotify.com/track/2FhyTzw49NtYw29JEFvdu2"
+    },
+    {
+      "album": {
+        "name": "Midnight Shining",
+        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212105,
+      "name": "Midnight Shining",
+      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
     },
     {
       "album": {
@@ -2022,10 +2130,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 296722,
       "name": "Rain Can't Reach Us",
       "url": "https://open.spotify.com/track/6raq4es8xYh6Rp8OJNBFYj"
+    },
+    {
+      "album": {
+        "name": "RIDE",
+        "url": "https://open.spotify.com/album/4kUR2d4Y8Do3wInxBxMFnk"
+      },
+      "artists": [
+        {
+          "name": "Ray Laur\u00e9l",
+          "url": "https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "RIDE",
+      "url": "https://open.spotify.com/track/12RWoYcPeMb42JOLu7Xzp8"
     },
     {
       "album": {
@@ -2040,7 +2166,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208733,
       "name": "Roses In The Kitchen",
       "url": "https://open.spotify.com/track/4NSbxF11DKXMbNHdezK6bR"
@@ -2062,6 +2188,24 @@
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
+    },
+    {
+      "album": {
+        "name": "Sad Boiii",
+        "url": "https://open.spotify.com/album/52WgEY29coP4ZokwAqmYbR"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166026,
+      "name": "Sad Boiii",
+      "url": "https://open.spotify.com/track/5LOUGL5zAmtxRQIJBmuUay"
     },
     {
       "album": {
@@ -2281,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "VIVA HINDS",
+        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206563,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
+      "album": {
         "name": "Supersad",
         "url": "https://open.spotify.com/album/1zirJ7lGSbrflcoVdTnEPA"
       },
@@ -2418,7 +2584,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148422,
       "name": "The Bed, The Room, The Rain and You",
       "url": "https://open.spotify.com/track/73MkKDeELnYufTdyA3Xj5R"
@@ -2533,6 +2699,28 @@
     },
     {
       "album": {
+        "name": "the situation",
+        "url": "https://open.spotify.com/album/0657U2wMjwUdAiBwWRtV5R"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        },
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209868,
+      "name": "the situation",
+      "url": "https://open.spotify.com/track/1121pgLTPEidWPG7J5ualG"
+    },
+    {
+      "album": {
         "name": "The Table",
         "url": "https://open.spotify.com/album/2vmyJbe35Nv4DDyOkTR5Ku"
       },
@@ -2544,7 +2732,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173952,
       "name": "The Table",
       "url": "https://open.spotify.com/track/5pCd4dfI9bQ9H3U1EiaLXv"
@@ -2580,7 +2768,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
@@ -2847,6 +3035,24 @@
     },
     {
       "album": {
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "album": {
         "name": "YOYOTTA",
         "url": "https://open.spotify.com/album/2UI9xc0QpD3SC2lQOLbaFp"
       },
@@ -2876,7 +3082,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 121884,
       "name": "You're the Best",
       "url": "https://open.spotify.com/track/5vjkYtVO6JVIwqEN7lbtxE"

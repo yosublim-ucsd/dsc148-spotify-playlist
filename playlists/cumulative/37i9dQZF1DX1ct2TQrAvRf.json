@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 144375,
       "name": "Bhai Hai",
       "url": "https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 332538,
       "name": "Kaanch Ke Ghar",
       "url": "https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX"
@@ -2524,6 +2524,28 @@
       "duration_ms": 181379,
       "name": "Like A Snake",
       "url": "https://open.spotify.com/track/1pCyNu4mgeZP0qqHNMTjWJ"
+    },
+    {
+      "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178424,
+      "name": "Losing Myself (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
     },
     {
       "album": {
@@ -3352,6 +3374,24 @@
       "duration_ms": 243870,
       "name": "Role Model",
       "url": "https://open.spotify.com/track/1kwDiS9TToZtBG6nwNOZwD"
+    },
+    {
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J"
     },
     {
       "album": {

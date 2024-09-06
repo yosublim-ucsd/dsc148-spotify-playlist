@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Belgium.
 
-757 songs - 1 day 14 hr 32 min
+759 songs - 1 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [ART DECO \(TEKKNO\)](https://open.spotify.com/track/5E0FGSdQruBGedbKrhx4po) | [Clarke 99](https://open.spotify.com/artist/2oAPxiUkLs3EdFAtYX4Qr5) | [ART DECO \(TEKKNO\)](https://open.spotify.com/album/4cPDwpxho889ZbeQiLLK8o) | 3:18 | 2024-06-18 | 2024-06-30 |
 | [Assieds\-toi](https://open.spotify.com/track/6sLop4uEOLkrfNLfQMNq0q) | [Maks](https://open.spotify.com/artist/27y3Ud8v0SrHGx0uOYN34z) | [Assieds\-toi](https://open.spotify.com/album/42bh4l3dESYs5NwszT7bHP) | 2:45 | 2024-04-30 | 2024-05-08 |
 | [Auffe aufn Berg](https://open.spotify.com/track/4jNkEyCYTfCavAOHgtBsCz) | [Jägermeister DJ Alex](https://open.spotify.com/artist/1Ob4fbwSOaJu4rbx79jJMk), [Matty Valentino](https://open.spotify.com/artist/01eNVgZ9dzR28mpouhde9h) | [Auffe aufn Berg](https://open.spotify.com/album/1MsuuxBavwmlg23A2KapAr) | 3:51 | 2024-02-05 | 2024-02-14 |
+| [AURA](https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [AURA](https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1) | 1:55 | 2024-09-05 |  |
 | [Austin](https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e) | 2:51 | 2024-03-25 | 2024-04-27 |
 | [Austin](https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5) | [Dasha](https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I) | [What Happens Now?](https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz) | 2:51 | 2024-02-22 | 2024-03-25 |
 | [Avant\-goût \- Nouvelle École](https://open.spotify.com/track/5MXsJhqpma8RvMr98zMD7Q) | [Clara Charlotte](https://open.spotify.com/artist/2j2XsTjam1x6HjXkoPu2ki) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:51 | 2024-07-23 | 2024-08-02 |
@@ -262,7 +263,7 @@
 | [Give Me Everything \- Stripped Down](https://open.spotify.com/track/1o9JJeBKlVxQ9O4j5Qd4Vh) | [Archer Marsh](https://open.spotify.com/artist/74rnJF4h8ScpbyEhLholBg) | [Sequēns](https://open.spotify.com/album/6w1oQvnsjA0y4x6qhBs2wq) | 2:12 | 2024-05-28 | 2024-06-28 |
 | [GLORY](https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP) | [Ogryzek](https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm) | [GLORY](https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf) | 2:29 | 2024-08-08 | 2024-08-21 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-10 | 2024-07-31 |
-| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-23 |  |
+| [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-04-23 | 2024-09-06 |
 | [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 | 2024-01-30 | 2024-02-14 |
 | [Grey](https://open.spotify.com/track/4Fuf1v4kPQ6RIvEGlUfvaq) | [Yung Filly](https://open.spotify.com/artist/3OEJ7D4RwbnNFuG9JczKEa) | [Grey](https://open.spotify.com/album/3sNFF8w1fDHGcqRG6bWzhu) | 2:49 | 2024-02-13 | 2024-03-10 |
 | [Grito](https://open.spotify.com/track/1MJqdZY2srI7SVxLO6fJ1s) | [iolanda](https://open.spotify.com/artist/37VYsW0OfWchi5qpCDOv1b) | [Grito](https://open.spotify.com/album/5kIN4fhsoFopjJwFSlLgkL) | 2:56 | 2024-05-12 | 2024-05-22 |
@@ -473,10 +474,11 @@
 | [Mwaki \- Tiësto's VIP Mix](https://open.spotify.com/track/3bYSuNFC8UqtpTRKBcDtZf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki \(Tiësto's VIP Mix\)](https://open.spotify.com/album/3pbFWOxjxLdlyxapT21PLe) | 2:40 | 2024-01-29 | 2024-02-07 |
 | [Nardo RS](https://open.spotify.com/track/0nJz0YOgj4iXWayoewi6F8) | [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Rockywhereyoubeen](https://open.spotify.com/artist/5pieMKHiTXhVZEmlMT0ij7) | [Nardo RS](https://open.spotify.com/album/0mdF7CR6FPfSxS0LZdoXDu) | 2:17 | 2024-09-03 |  |
 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 | 2024-05-24 | 2024-07-10 |
+| [Nasty Dog](https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln) | [Sir Mix\-A\-Lot](https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV) | [Chief Boot Knocka](https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP) | 4:00 | 2024-09-05 |  |
 | [Natural](https://open.spotify.com/track/3OKAYvfvOvxqZQk3KBCIZr) | [Prinsess Jorge](https://open.spotify.com/artist/6f2aOoKCFhLJLEJqZKyf7j) | [Natural](https://open.spotify.com/album/54NfArLaY7lyO3x0D5G5RX) | 2:53 | 2024-05-13 | 2024-05-29 |
 | [Nergens Liever](https://open.spotify.com/track/5PhLJO4IkwuWwUlnRr0VKH) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Nergens Liever](https://open.spotify.com/album/7BfMAnfZJBqhrRy16FbpzB) | 3:15 | 2024-07-16 | 2024-07-27 |
 | [Never Lose Me](https://open.spotify.com/track/6uTPdRrEDeH8Fyg5L5qmeU) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Never Lose Me](https://open.spotify.com/album/4K5YnziH8o3NoEsxv8zviL) | 2:05 | 2024-01-29 | 2024-02-21 |
-| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-03 |  |
+| [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-09-03 | 2024-09-06 |
 | [NEXT!](https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx) | [NCTS](https://open.spotify.com/artist/6BWtcMF39LT5Db5FT54YYG) | [NEXT!](https://open.spotify.com/album/1k9oQsBjwIhc4vF32zxvY5) | 1:39 | 2024-08-14 | 2024-09-04 |
 | [Nie mehr Fastelovend](https://open.spotify.com/track/7AAcQMV6Uw3YXt9TTx4b6r) | [Querbeat](https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4) | [Fettes Q](https://open.spotify.com/album/4JNEX0FgXfXzYHdwcAPBH8) | 3:28 | 2024-02-12 | 2024-02-15 |
 | [Nightcall](https://open.spotify.com/track/73bDvrmSBh2fr53tLDH9oA) | [Kavinsky](https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV) | [OutRun](https://open.spotify.com/album/3bRM4GQgoFjBRRzhp87Ugb) | 4:17 | 2024-08-16 | 2024-08-19 |

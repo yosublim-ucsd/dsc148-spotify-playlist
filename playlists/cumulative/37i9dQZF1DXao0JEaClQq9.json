@@ -1263,6 +1263,24 @@
     },
     {
       "album": {
+        "name": "Biking",
+        "url": "https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Biking",
+      "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
+    },
+    {
+      "album": {
         "name": "Billions",
         "url": "https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5"
       },
@@ -1386,6 +1404,24 @@
       "duration_ms": 229119,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4Slq5M8UGESA29hiRrJVnX"
+    },
+    {
+      "album": {
+        "name": "Tender the Spark",
+        "url": "https://open.spotify.com/album/0nl0JtEn53WxDh7RmGfHTr"
+      },
+      "artists": [
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182357,
+      "name": "Blink Twice",
+      "url": "https://open.spotify.com/track/1UGWWNp4C37Cte2VPG8TUs"
     },
     {
       "album": {
@@ -2362,7 +2398,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 100000,
       "name": "Cool",
       "url": "https://open.spotify.com/track/6Vi0l0FKmydrOVzdU1l423"
@@ -2424,6 +2460,24 @@
       "duration_ms": 542732,
       "name": "Creep - Very 2021 Rmx",
       "url": "https://open.spotify.com/track/2KwRMzefAHziMwQabFpKz4"
+    },
+    {
+      "album": {
+        "name": "Crickets",
+        "url": "https://open.spotify.com/album/2PgyjdmNivt1iFXQ4C7VkI"
+      },
+      "artists": [
+        {
+          "name": "Hollis Howard",
+          "url": "https://open.spotify.com/artist/38SGcqf6cMSdDxd4t6SuFq"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Crickets",
+      "url": "https://open.spotify.com/track/6f069VM5bj00oF7f82NkqP"
     },
     {
       "album": {
@@ -4483,6 +4537,24 @@
     },
     {
       "album": {
+        "name": "Half Alive",
+        "url": "https://open.spotify.com/album/6yKFZg4f9lFfEQ0cPNqFgY"
+      },
+      "artists": [
+        {
+          "name": "yun\u00e8 pinku",
+          "url": "https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212927,
+      "name": "Half Alive",
+      "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
+    },
+    {
+      "album": {
         "name": "plague town",
         "url": "https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6"
       },
@@ -5350,7 +5422,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156240,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0w3cvLy7r4ZGxaifbVMTQv"
@@ -5845,6 +5917,28 @@
     },
     {
       "album": {
+        "name": "kisses (Daniel Avery Remix) b/w kisses - sky ii",
+        "url": "https://open.spotify.com/album/59iYqAJNi4w4HZoB7jEVgD"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "kisses - Daniel Avery Remix",
+      "url": "https://open.spotify.com/track/1Pk3nzbEP2iYN6Qn10PIAw"
+    },
+    {
+      "album": {
         "name": "La Chica-c\u00e1",
         "url": "https://open.spotify.com/album/2vWpiroIhTQMfaKUCYsyhT"
       },
@@ -6266,7 +6360,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 199576,
       "name": "Love Is Complicated (The Angels Sing)",
       "url": "https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9"
@@ -9092,7 +9186,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 238965,
       "name": "Skin Tight (Alternate) [feat. Steve Lacy]",
       "url": "https://open.spotify.com/track/4c16iHPk6g5XQavzEfDpld"
@@ -10178,7 +10272,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195750,
       "name": "Teenage Dirtbag",
       "url": "https://open.spotify.com/track/484LUX0XVdBqpy3vgCUbSm"

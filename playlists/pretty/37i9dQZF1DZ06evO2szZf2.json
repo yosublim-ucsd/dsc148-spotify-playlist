@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 34638,
+  "num_followers": 34637,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAADsD/vMhU2/xVUODA00+eLn",
+  "snapshot_id": "ZtejAAAAAADwJkp+y8NUmWv1qU37DmeB",
   "tracks": [
     {
       "added_at": null,
@@ -259,6 +259,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Festa na Marina",
+        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
+      },
+      "artists": [
+        {
+          "name": "Bonde do gato preto",
+          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 135047,
+      "name": "Festa na Marina (feat. Mc Dricka)",
+      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Caldeir\u00e3o",
         "url": "https://open.spotify.com/album/63v9to8cvqYjhU6om4CxPK"
       },
@@ -279,26 +299,6 @@
       "duration_ms": 147692,
       "name": "Golpeame",
       "url": "https://open.spotify.com/track/5lZQrRhEHEiHEvF9xguzwi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Festa na Marina",
-        "url": "https://open.spotify.com/album/50Lm8KlJ9bD92SYvvimBBX"
-      },
-      "artists": [
-        {
-          "name": "Bonde do gato preto",
-          "url": "https://open.spotify.com/artist/5A6NOdTbk43Jnr0GxFZQei"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 135047,
-      "name": "Festa na Marina (feat. Mc Dricka)",
-      "url": "https://open.spotify.com/track/5SDbIKvFDRTy45WsXsgyxD"
     },
     {
       "added_at": null,
@@ -723,6 +723,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "DJ DEIV\u00c3O",
+          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
+        },
+        {
+          "name": "DJ Dozabri",
+          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
+        }
+      ],
+      "duration_ms": 162764,
+      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
+      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Festa Linda 2",
         "url": "https://open.spotify.com/album/59x9Hd7SccL2fSY0ykY5U5"
       },
@@ -775,74 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-        "url": "https://open.spotify.com/album/27tAWJ4Yh4CS6FxjIt3E1W"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "DJ DEIV\u00c3O",
-          "url": "https://open.spotify.com/artist/5dLVqC89Drj8IZ82EICZZk"
-        },
-        {
-          "name": "DJ Dozabri",
-          "url": "https://open.spotify.com/artist/06e0gXtUpvgPUZFrR2ywsg"
-        }
-      ],
-      "duration_ms": 162764,
-      "name": "Aqui Ningu\u00e9m T\u00e1 Puro",
-      "url": "https://open.spotify.com/track/5kIEFlkeSBl3Dw7KSoqSi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexo Sem Estresse",
-        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Mc Kevin",
-          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Gustah",
-          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Fepache",
-          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
-        },
-        {
-          "name": "2050",
-          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
-        }
-      ],
-      "duration_ms": 139403,
-      "name": "Sexo Sem Estresse",
-      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set Tipo F\u00e1bio Jr",
         "url": "https://open.spotify.com/album/53xyrvLqe51ezB3SAG0oWK"
       },
@@ -891,6 +851,46 @@
       "duration_ms": 643571,
       "name": "Set Tipo F\u00e1bio Jr",
       "url": "https://open.spotify.com/track/0qxx0e0xM38oMmKky8Dcss"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sexo Sem Estresse",
+        "url": "https://open.spotify.com/album/7i2ULSZwxMk2cKNCwYeRlo"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Mc Kevin",
+          "url": "https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Fepache",
+          "url": "https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "duration_ms": 139403,
+      "name": "Sexo Sem Estresse",
+      "url": "https://open.spotify.com/track/2naBe4jcELPtlcSxR5BaHw"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Vuco Vuco",
-      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 144915,
       "name": "Bate Com Vontade - Remix",
       "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5FxjQb0ZUEFgvVGO3bHg90"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Vuco Vuco",
+      "url": "https://open.spotify.com/track/0zlRKRyq7aICnfuiOD17yD"
     },
     {
       "added_at": null,
@@ -1187,6 +1187,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Que Cara Maluco",
         "url": "https://open.spotify.com/album/2qTV1A0SANR2CBlWh0idAu"
       },
@@ -1207,26 +1227,6 @@
       "duration_ms": 208615,
       "name": "Que Cara Maluco",
       "url": "https://open.spotify.com/track/1t5j7QWLmoGtxOS7Jkz2wx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1555,22 +1555,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colocadinha",
-        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
+        "name": "CORO COM CO\u00c7A",
+        "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
       },
       "artists": [
         {
-          "name": "Argentino No Beat",
-          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
         },
         {
           "name": "Mc Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Dj Juninho da Espanha",
+          "url": "https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4"
+        },
+        {
+          "name": "Ariel Donato",
+          "url": "https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ"
         }
       ],
-      "duration_ms": 143085,
-      "name": "Colocadinha",
-      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
+      "duration_ms": 177230,
+      "name": "J\u00c1 ERA TARDE",
+      "url": "https://open.spotify.com/track/7C4JFAkLIoy7aWroEOy60X"
     }
   ],
   "unique_name": "This Is Mc Dricka",

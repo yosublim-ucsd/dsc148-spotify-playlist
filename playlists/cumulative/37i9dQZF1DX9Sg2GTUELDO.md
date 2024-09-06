@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover:  Leah Doh \(竇靖童\)
+> 感受超級女聲力量。Cover:  Anna hisbbuR
 
-361 songs - 21 hr 44 min
+364 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [heng fa chuen.](https://open.spotify.com/track/5QuTmL5jwXsWmQ1EspO2rN) | [Claudia Koh](https://open.spotify.com/artist/4F8VvBAkQDTQ8K2tKm9iSx) | [heng fa chuen.](https://open.spotify.com/album/1nBxVB6eQbJv7KxUTXoIgI) | 3:21 | 2024-06-27 |  |
 | [Hush](https://open.spotify.com/track/6J1YPcD1DNYgde4dyKfiU4) | [Peace Lo](https://open.spotify.com/artist/0NiSYetyXtCKWhDZXfqydC) | [Blue Hour](https://open.spotify.com/album/0fruFp7UTDJ1sLZDs01CAG) | 3:32 | 2024-06-27 |  |
 | [I am All Alone](https://open.spotify.com/track/2Uw9M5MT2xXOxmPsXd8xvK) | [Feanna Wong](https://open.spotify.com/artist/1Ky2RP3PsLKQZ1rWp31DKW) | [I am All Alone](https://open.spotify.com/album/5YMJ4zEgtRCyeUmDq6pSwS) | 4:04 | 2024-06-27 |  |
+| [I go to school by bus](https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa) | [Anna hisbbuR](https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR) | [I go to school by bus](https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD) | 2:04 | 2024-09-05 |  |
 | [I kinda feel like going home](https://open.spotify.com/track/1WA1STD9PGm3lOq6SwKVa4) | [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR), [Kymza](https://open.spotify.com/artist/51dbcON5ZgfH3B19hpIzeB), [nardey](https://open.spotify.com/artist/7tHQPahicLUO5EdLyo5V28) | [Human Heart](https://open.spotify.com/album/46UcZkRj4FkwY9vNb89gij) | 2:25 | 2024-06-27 |  |
 | [i love u](https://open.spotify.com/track/5y5JrAfwqYDoVrXfv532W4) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i love u](https://open.spotify.com/album/4np08DYpAtw26nV2UUX47D) | 3:34 | 2024-06-27 |  |
 | [I Sleep](https://open.spotify.com/track/3jCvUjMqkmRm2Zvx8dcH7l) | [黃心穎](https://open.spotify.com/artist/24FbcOEOUyJ2HtRGxOTZi4) | [I Sleep](https://open.spotify.com/album/1tUVDfBW2ianIvJPK8zLXI) | 4:04 | 2024-06-27 |  |
@@ -200,6 +201,7 @@
 | [外星少女失語症](https://open.spotify.com/track/1b3RrSZo4YlfMld5CwwFez) | [sica](https://open.spotify.com/artist/7iExyvANFWKeRdregJ4Yk5) | [外星少女失語症](https://open.spotify.com/album/2pBDOiVOij3gFzBGsE1IkS) | 3:03 | 2024-08-01 |  |
 | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/track/0lvs3h7idaLPhnG1eslC75) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [夜風中 \- 電視劇《繁花》歌曲](https://open.spotify.com/album/0VuHTFO8gQFu81ggO0yuVP) | 3:40 | 2024-06-27 |  |
 | [夢想與夢](https://open.spotify.com/track/2aVETk75kz1k0xh7zxi83q) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX), [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [WE ARE TWINS](https://open.spotify.com/album/3SKJDhMkmIFrE4RQRtiMDS) | 3:11 | 2024-06-27 |  |
+| [大人國](https://open.spotify.com/track/0acD0EP6TtrvhevpY6gqcl) | [Apple 凌雪怡](https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp) | [大人國](https://open.spotify.com/album/1VQgHauEpOLjkB0ZX1maWb) | 3:29 | 2024-09-05 |  |
 | [大半夜未肯睡](https://open.spotify.com/track/0fucNPeujolYdigae25LyP) | [駱胤鳴](https://open.spotify.com/artist/4x0AqvSUmkoazJYSz9q4wq) | [大半夜未肯睡](https://open.spotify.com/album/0xZ83szptwJfrtcZkIR1Ih) | 4:25 | 2024-06-27 |  |
 | [大開眼界](https://open.spotify.com/track/7n75RcZhhR97zJeWnuCqNt) | [Gigi炎明熹](https://open.spotify.com/artist/7McwvS0kWbED0fxl6orCjA) | [大開眼界](https://open.spotify.com/album/7rwqS0ITSHUyEfo4X4a67X) | 3:29 | 2024-06-27 |  |
 | [天下看娃娃](https://open.spotify.com/track/6tjsENHZl0qX3YVRSt1u4l) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 4:16 | 2024-07-11 |  |
@@ -219,6 +221,7 @@
 | [平凡的我重生](https://open.spotify.com/track/4S9sYZnRHkxxkuCfRSRo7M) | [Winka 陳泳伽](https://open.spotify.com/artist/1wmTLcYhwwD3GbNoI2Vwls) | [平凡的我重生](https://open.spotify.com/album/5cqlRpVY9pBdwpTwSjULnt) | 3:40 | 2024-06-27 |  |
 | [座右銘](https://open.spotify.com/track/0wrcgFagQjRcXmuGRm8p0C) | [Kary Ng](https://open.spotify.com/artist/3B9ZmIcte26paTCaI1PFKE) | [In Control](https://open.spotify.com/album/687bmgPYRYsFGrdnRfTniL) | 3:56 | 2024-06-27 |  |
 | [弄哭男孩子](https://open.spotify.com/track/10K6w1fJp52uMQLgXCKQW9) | [Charmaine Fong](https://open.spotify.com/artist/1DgBVE3lCnC7Osg9zpAt6N) | [弄哭男孩子](https://open.spotify.com/album/4KXX3XI6XzME9ZpAHt3I9P) | 4:25 | 2024-06-27 |  |
+| [引我笑](https://open.spotify.com/track/5NV6UYomi1d0o02vPEi0nm) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [引我笑](https://open.spotify.com/album/6a8DC52Ao3RD86JQM0RU9M) | 3:17 | 2024-09-05 |  |
 | [後人類的美麗與哀愁](https://open.spotify.com/track/0xBCMoVEaOfrCqM0bHwPek) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [後人類的美麗與哀愁](https://open.spotify.com/album/2XRiLdbU5VPiLF5jxRPczq) | 3:40 | 2024-06-27 |  |
 | [從前的我們](https://open.spotify.com/track/6ovnT0BGF0l7pgur3t6X4Z) | [Sammi Cheng](https://open.spotify.com/artist/3XCnp5UV5wnNw49Xuka9qH) | [SOUND OF MI](https://open.spotify.com/album/1xeD7kHt0606S9NMvId26c) | 3:39 | 2024-07-25 |  |
 | [心甘情願](https://open.spotify.com/track/1rkbhMawUQNcA9okSe0DaN) | [Stephanie Leung](https://open.spotify.com/artist/5L8OEtf2LqWJhj3vFkLfDP) | [心甘情願](https://open.spotify.com/album/1TyTLJ5ESW2dXMHeikM2hE) | 3:16 | 2024-06-27 |  |
@@ -357,7 +360,7 @@
 | [開燈 \. 熄燈 \- 熄燈版](https://open.spotify.com/track/0ESNH8JaBCbLb2PH5rZpL1) | [Gin Lee](https://open.spotify.com/artist/0UtXMxHMXhwQUI6G6TFDt1) | [Dear Secret](https://open.spotify.com/album/5CsoFDurYbSRb02fd5AqRQ) | 4:15 | 2024-06-27 |  |
 | [間歇性休眠](https://open.spotify.com/track/6NTpMNt4qi3icnZq9Wh5WE) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa) | [間歇性休眠](https://open.spotify.com/album/2N8gg8nxAPMrAJOJkCnM0H) | 4:41 | 2024-06-27 |  |
 | [關我蛋治](https://open.spotify.com/track/6DRatWcrhtv1ba4xeV01Bi) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [關我蛋治](https://open.spotify.com/album/6o5YClIb0rr2h6a189V9iK) | 3:16 | 2024-06-27 |  |
-| [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 |  |
+| [阿姐今年已經30歲](https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3) | [Salty Chick](https://open.spotify.com/artist/37gag5BhRpch91IX5dEf5A), [Gwenji](https://open.spotify.com/artist/6Plwm4XDEK2qBannPfy1LC) | [阿姐今年已經30歲](https://open.spotify.com/album/2OFMhoYXMpQZlZTEJeJcZX) | 3:40 | 2024-08-15 | 2024-09-06 |
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 |  |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 |  |

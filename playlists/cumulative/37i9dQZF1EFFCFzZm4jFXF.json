@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Crazy Bitch",
+        "url": "https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ"
+      },
+      "artists": [
+        {
+          "name": "Madelline",
+          "url": "https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182750,
+      "name": "Crazy Bitch",
+      "url": "https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD"
+    },
+    {
+      "album": {
         "name": "Crossed My Mind",
         "url": "https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP"
       },

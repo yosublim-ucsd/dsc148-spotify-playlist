@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 121392,
       "name": "Did you see?",
       "url": "https://open.spotify.com/track/4PyXMzFClFXCFkzxWqB9vu"
@@ -17448,6 +17448,24 @@
       "duration_ms": 224727,
       "name": "\ud30c\ud2b8\ub108",
       "url": "https://open.spotify.com/track/7KOjeZxrGtUvXBL3jdyyED"
+    },
+    {
+      "album": {
+        "name": "4\uc778\uc758 \uba85\ud488\uac00\uc655 \ubca0\uc2a4\ud2b8",
+        "url": "https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0"
+      },
+      "artists": [
+        {
+          "name": "\ubb38\ud76c\uc625",
+          "url": "https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E"
+        }
+      ],
+      "date_added": "2024-09-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181185,
+      "name": "\ud3c9\ud589\uc120",
+      "url": "https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アイドルマスターSideMの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,305 likes - 75 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,307 likes - 75 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 48 | [Avenue Illusion!](https://open.spotify.com/track/2lqD4z4sqYHRF7HukTBIqN) | [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:36 |
 | 49 | [Reason!!](https://open.spotify.com/track/3CLQ12T4Ff4vGX0T98r2mP) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR](https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz) | 5:05 |
 | 50 | [ミュージアムジカ](https://open.spotify.com/track/2y7Cll24OufSOnWmvdzPDe) | [W](https://open.spotify.com/artist/5cmezlx5oF243CQzRMGAmK), [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe), [もふもふえん](https://open.spotify.com/artist/7ospiAjIrYdjMFZQ5BuAWS) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 3:53 |
-| 51 | [Resonate Blessing](https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 5:09 |
+| 51 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 |
 | 52 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 |
 | 53 | [Dance in the school!](https://open.spotify.com/track/7hKA7W7hgr7n2VhVjqQYtH) | [S.E.M](https://open.spotify.com/artist/6z50vl34UBNvRB2CQGhDbj) | [THE IDOLM@STER SideM GROWING SIGN@L 13 S.E.M](https://open.spotify.com/album/0UGtgMGUTtpAGR0LdzXDWE) | 4:58 |
-| 54 | [PERMAFROST](https://open.spotify.com/track/66FhJlwAJbbXr9E31F76kP) | [Legenders](https://open.spotify.com/artist/4iG460lxCJz1J6UYEbYxTR) | [THE IDOLM@STER SideM GROWING SIGN@L 05 Legenders](https://open.spotify.com/album/2RRf2NPY2BepCu4SrlymaE) | 4:38 |
+| 54 | [Resonate Blessing](https://open.spotify.com/track/4Wb3NyRgnl8o3helEmmCUm) | [都築 圭 \(CV.土岐隼一\)](https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 5:09 |
 | 55 | [Reversed Masquerade](https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 5:20 |
 | 56 | [Cherish BOUQUET](https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U) | [渡辺みのり \(CV.高塚智人\)](https://open.spotify.com/artist/0X5yOApIvHeL7vb0hfmT9V) | [THE IDOLM@STER SideM ORIGIN@L PIECES 08](https://open.spotify.com/album/6QEUejxA2SoviwNNtk66rh) | 3:58 |
 | 57 | [いつかのトライアングル](https://open.spotify.com/track/1HFMjPsihGlVX4MiECVlgp) | [Jupiter](https://open.spotify.com/artist/7yIZvf93cvym5UEV2IGd8D), [Beit](https://open.spotify.com/artist/1AZCEPWgL4qpqfc86wi9Ah), [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 5:49 |

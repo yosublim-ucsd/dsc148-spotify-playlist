@@ -6019,6 +6019,28 @@
     },
     {
       "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205425,
+      "name": "Blamegame",
+      "url": "https://open.spotify.com/track/3dSplmMF8Dyw5R8NL5fb5c"
+    },
+    {
+      "album": {
         "name": "Blim Blim Blam Blam",
         "url": "https://open.spotify.com/album/4htoj8Hkdo6JxdKmurdRjO"
       },
@@ -14702,7 +14724,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 322680,
       "name": "En Su Nota",
       "url": "https://open.spotify.com/track/7DWgF6bsbk9ITB91GfGK6N"
@@ -24610,7 +24632,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 276826,
       "name": "Live Forever",
       "url": "https://open.spotify.com/track/1D2SVYXZdtNfJCg8wZWvVz"
@@ -30420,7 +30442,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -38686,7 +38708,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"
@@ -42094,7 +42116,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 303133,
       "name": "Stop Crying Your Heart Out",
       "url": "https://open.spotify.com/track/5YciOakY5dB5dULkiLdCaf"

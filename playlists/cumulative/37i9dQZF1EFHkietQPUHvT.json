@@ -843,6 +843,24 @@
     },
     {
       "album": {
+        "name": "FLOW",
+        "url": "https://open.spotify.com/album/7peUxIsjo1GlwVhNdXe4r2"
+      },
+      "artists": [
+        {
+          "name": "ONEW",
+          "url": "https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177613,
+      "name": "MAESTRO",
+      "url": "https://open.spotify.com/track/6waMyYYhkiFHg0hPd2luQo"
+    },
+    {
+      "album": {
         "name": "biting my tongue",
         "url": "https://open.spotify.com/album/4Xl9cCcZARYBmV4SK9SysK"
       },

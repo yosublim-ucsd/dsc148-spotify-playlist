@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Kidd",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf: Mikros Kleftis",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -860,7 +860,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 198347,
       "name": "Dinero",
       "url": "https://open.spotify.com/track/6eyAhSQLBbGHeh8E4ees5m"
@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Giati",
+        "url": "https://open.spotify.com/album/6Blmb4z14jFl88cUcBrFII"
+      },
+      "artists": [
+        {
+          "name": "Mel",
+          "url": "https://open.spotify.com/artist/0fo4hbtY8v9248tMgaR8i3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117557,
+      "name": "Giati",
+      "url": "https://open.spotify.com/track/6jKKmTfNGuoIPB9AzynlpA"
+    },
+    {
+      "album": {
         "name": "Grammes",
         "url": "https://open.spotify.com/album/2Qutjhy1RKGAH7WeCQLNF9"
       },
@@ -1424,6 +1442,28 @@
       "duration_ms": 116400,
       "name": "Hunger",
       "url": "https://open.spotify.com/track/5P8xgPPGAyNTFsKRPoXzX8"
+    },
+    {
+      "album": {
+        "name": "I Texni Tou Dromou",
+        "url": "https://open.spotify.com/album/3oevrX82QSDJbm71lzoh93"
+      },
+      "artists": [
+        {
+          "name": "12os Pithikos",
+          "url": "https://open.spotify.com/artist/6YZmV2xFddssAVfrSu1sfI"
+        },
+        {
+          "name": "Rjay",
+          "url": "https://open.spotify.com/artist/2CaHe8TG0kJ8gTTodohITQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "I Texni Tou Dromou",
+      "url": "https://open.spotify.com/track/69JGTbI1YVkAV9NXIH5s1r"
     },
     {
       "album": {
@@ -1852,7 +1892,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 166153,
       "name": "MAMI",
       "url": "https://open.spotify.com/track/1dlQ12B28WyZIAq6ysIdA0"
@@ -2347,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Pellegrino",
+        "url": "https://open.spotify.com/album/33V1BNkhlOWskkF36d4wc1"
+      },
+      "artists": [
+        {
+          "name": "Mikros Kleftis",
+          "url": "https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9"
+        },
+        {
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219774,
+      "name": "Pellegrino",
+      "url": "https://open.spotify.com/track/78jTlEGnXYGgGo8rAG8aDJ"
+    },
+    {
+      "album": {
         "name": "Phantom",
         "url": "https://open.spotify.com/album/5kgt1ltex1gi2HOBBe4UiI"
       },
@@ -2733,6 +2795,32 @@
     },
     {
       "album": {
+        "name": "STON IDIO OURANO",
+        "url": "https://open.spotify.com/album/6Oqy9CleNRYG3qfkprL80t"
+      },
+      "artists": [
+        {
+          "name": "EKASTOS",
+          "url": "https://open.spotify.com/artist/2cE76SEV51hNMQSKcvA1yM"
+        },
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/2bI0N9ztQb3L6e9DIMdMuC"
+        },
+        {
+          "name": "Giorgos Orfanidis",
+          "url": "https://open.spotify.com/artist/6V6g5uJVLdrOUO9LLqMawh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215474,
+      "name": "STON IDIO OURANO",
+      "url": "https://open.spotify.com/track/4tMHv7PW2lL68DSfG03J5e"
+    },
+    {
+      "album": {
         "name": "Sukarie",
         "url": "https://open.spotify.com/album/4aykjh6AjljvE3AGMGnULZ"
       },
@@ -2984,7 +3072,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 118400,
       "name": "U 2 <3",
       "url": "https://open.spotify.com/track/4H1kdmHykpDLziS7kKHopG"
@@ -3218,7 +3306,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 96243,
       "name": "XRISOS",
       "url": "https://open.spotify.com/track/4bnx03kz0ZUQ8wKIHj1M3f"

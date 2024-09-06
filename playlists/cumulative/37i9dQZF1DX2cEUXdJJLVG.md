@@ -4,7 +4,7 @@
 
 > Funky & groovy tunes for poolside chilling.
 
-368 songs - 21 hr 54 min
+369 songs - 21 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,6 +366,7 @@
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-09-09 |  |
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/7rxDQ5tgnJ4T6gJL1HyoZ1) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall](https://open.spotify.com/album/2f1wxCMX4KoS2DwTeagrNO) | 3:45 | 2022-09-15 | 2022-10-13 |
 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution \(Pt 1\)](https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh) | 4:02 | 2022-09-09 | 2023-10-05 |
+| [What Makes You Dance \- Vocal Version](https://open.spotify.com/track/25c0wQxy5TZxkqESkiqzik) | [Misto Kay](https://open.spotify.com/artist/0rsQVrlGriu6AjSiSu0llW), [Mo Wrights](https://open.spotify.com/artist/0rS8hPbRwt1dfoQ3fromV2) | [What Makes You Dance \(Vocal Version\)](https://open.spotify.com/album/4IsLiLDHUzUMB8UVN31IvE) | 5:00 | 2024-09-05 |  |
 | [When It All Falls Down](https://open.spotify.com/track/3lvj20MikepdxKpadT7mBF) | [Selah Sue](https://open.spotify.com/artist/5Oc4knEQaid8K7AFqO5lHu) | [Persona \(Deluxe\)](https://open.spotify.com/album/6DBFehDJdkqSMBdoIl9YaB) | 2:27 | 2024-01-18 |  |
 | [When It's Over](https://open.spotify.com/track/2ucmSB9k1pRlzmiEcZctiy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W) | [When It's Over](https://open.spotify.com/album/3xVQrC9JZJiUF6EHVkLVbr) | 2:33 | 2024-03-21 |  |
 | [Without You](https://open.spotify.com/track/0r8vxCY5ZP9Q49FJBzwdH0) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [For All Time](https://open.spotify.com/album/4U6jJK40mq3OXnvgjFqukJ) | 2:26 | 2024-05-31 |  |

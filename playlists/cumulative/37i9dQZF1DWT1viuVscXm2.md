@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-320 songs - 18 hr 31 min
+321 songs - 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Debería Odiarte](https://open.spotify.com/track/5VhWTN08ZA9rPNBGmCuu6N) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Desnudos](https://open.spotify.com/album/3bPO3lMoj5AdStRso5Q2bH) | 3:28 | 2021-12-24 | 2022-12-03 |
 | [Deja de Llorar \- Remix](https://open.spotify.com/track/213XnJpTBY7pkumgiaR15m) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc), [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Deja de Llorar \(Remix\)](https://open.spotify.com/album/3ZCFRZG7ZPYRhbMrid7BR5) | 3:17 | 2024-07-19 |  |
 | [Dime si eres feliz](https://open.spotify.com/track/2FsKAVOxpmnxhxmEsqrZOD) | [La Champions Liga](https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3) | [La Champions Liga](https://open.spotify.com/album/62CXOSLSYEgIUONJ8Mu9gm) | 2:07 | 2023-09-04 |  |
+| [DOCTOR](https://open.spotify.com/track/5DSMm0BZXlSvqArsTX00Ge) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [DOCTOR](https://open.spotify.com/album/3Z9VnhuHM0BmsNUVPWMd7y) | 2:24 | 2024-09-05 |  |
 | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/track/1yKxctyjh6CdDmJd9LaRNb) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [CUMBIALANDIA](https://open.spotify.com/artist/6NLMDsPCHLd5s6BEGBYCIP) | [Duetos De Etiqueta \#1 \- Roto Corazón](https://open.spotify.com/album/4JtNGqrJtfeIquW3svl1bh) | 3:06 | 2022-10-22 | 2023-07-29 |
 | [Díganle](https://open.spotify.com/track/7Gc9iCkANNOlw32jQCemjz) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 3:22 | 2022-12-09 |  |
 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 | 2023-08-18 |  |
@@ -326,7 +327,7 @@
 | [Yo Tomo Licor](https://open.spotify.com/track/5EHRc2WJASyZg3alJqsbqU) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor De Lo Mejor](https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t) | 2:41 | 2021-12-24 |  |
 | [¿Cómo Te Explico?](https://open.spotify.com/track/3SKg1RSmLkyV81MU7DFIcY) | [Baketha](https://open.spotify.com/artist/5EnlVsNjGwBWWexlQoO1sX), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [¿Cómo Te Explico?](https://open.spotify.com/album/7xYBX4ndfTPCfLzpuIwJoK) | 3:09 | 2021-12-24 | 2022-01-12 |
 | [Ámame](https://open.spotify.com/track/6UFCHCAQEchbBScuyxuzxh) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [La Ruta del Oro](https://open.spotify.com/album/1FAEHvXUQaOxGbrfDuUpzl) | 3:41 | 2022-11-18 | 2023-07-15 |
-| [Ángel de Amor](https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Ángel de Amor](https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q) | 2:37 | 2024-04-12 |  |
+| [Ángel de Amor](https://open.spotify.com/track/17Z5fFzgyie0uGJd7DNaT5) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q) | [Ángel de Amor](https://open.spotify.com/album/0g4FobPrEueLnugnpSy03q) | 2:37 | 2024-04-12 | 2024-09-06 |
 | [Éramos los dos](https://open.spotify.com/track/16dlgB8k2xsI4qmteGhKTI) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Éramos los dos](https://open.spotify.com/album/3Wtyw5fG0HucGm59A3xo3m) | 3:41 | 2024-06-07 |  |
 
 \*This playlist was first scraped on 2022-01-02. Prior content cannot be recovered.

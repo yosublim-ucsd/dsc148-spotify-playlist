@@ -2,7 +2,7 @@
 
 ### [Yaz Hitleri 2024](https://open.spotify.com/playlist/37i9dQZF1DX1396r8cYxSL)
 
-> 2024 yazına damga vuracak şarkılar\. Kapak: Era7Capone x Batuflex x Narco
+> 2024 yazına damga vuran şarkılar\. Kapak: Era7Capone x Batuflex x Narco
 
 107 songs - 5 hr 12 min
 

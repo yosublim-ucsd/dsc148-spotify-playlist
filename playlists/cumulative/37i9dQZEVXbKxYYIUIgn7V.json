@@ -180,7 +180,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 151664,
       "name": "8HT",
       "url": "https://open.spotify.com/track/047hH2x8agj3EEVSo74thP"
@@ -636,6 +636,28 @@
       "duration_ms": 234072,
       "name": "Always Remember Us This Way",
       "url": "https://open.spotify.com/track/3XlKoDmt7NritaYTEndgC2"
+    },
+    {
+      "album": {
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/3U4smvytNhwiHJjR9Iutd5"
+      },
+      "artists": [
+        {
+          "name": "yioku",
+          "url": "https://open.spotify.com/artist/6f0oqF2oYVcPi2otJQMSIi"
+        },
+        {
+          "name": "jsthebg",
+          "url": "https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299886,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/37JUfPyulxkZ2pd6KPmghm"
     },
     {
       "album": {
@@ -3508,6 +3530,24 @@
       "duration_ms": 169697,
       "name": "Diet Pepsi",
       "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
     },
     {
       "album": {
@@ -6428,6 +6468,24 @@
       "duration_ms": 214000,
       "name": "I Adore You (feat. Daecolm)",
       "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "album": {
+        "name": "I am a Woman",
+        "url": "https://open.spotify.com/album/0rXiKDL2eyaxllBV6qIv2f"
+      },
+      "artists": [
+        {
+          "name": "Sodl",
+          "url": "https://open.spotify.com/artist/4uEmCrzbHn8nWveDxaq6G9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170983,
+      "name": "I am a Woman",
+      "url": "https://open.spotify.com/track/0NQe3uy6sNMCZBozC5THph"
     },
     {
       "album": {
@@ -10198,7 +10256,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 240293,
       "name": "Nasty Dog",
       "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
@@ -10398,7 +10456,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
@@ -11400,7 +11458,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177847,
       "name": "PINACOLADA",
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
@@ -12594,7 +12652,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 176232,
       "name": "Scheiss Egal - District Red Remix",
       "url": "https://open.spotify.com/track/3LDWTfooMxOcQBP8WZzToC"
@@ -12802,7 +12860,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160719,
       "name": "sekundentakt",
       "url": "https://open.spotify.com/track/6LIgQ7TIoAx9nzpfvOq0Nq"
@@ -15090,6 +15148,24 @@
       "duration_ms": 184633,
       "name": "Us Vs. Them",
       "url": "https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM"
+    },
+    {
+      "album": {
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "album": {

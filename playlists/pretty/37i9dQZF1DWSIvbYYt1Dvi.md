@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > rashid é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,181,868 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,181,826 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 33 | [Cabra](https://open.spotify.com/track/0EIfvVwz1YANHBTU3v2meu) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Nobre Beats](https://open.spotify.com/artist/0mAnaYgKhBPZ89wzd6ebT7) | [Cabra](https://open.spotify.com/album/43VNY5HGA36AxRdKXT3PfR) | 1:42 |
 | 34 | [Vivência Maldita](https://open.spotify.com/track/7Cfmo0VnZPTxWNKvGilixA) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Sain](https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul), [Erick Jay](https://open.spotify.com/artist/7ntlG8Jb2UFaxMKaq81EhX) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 2:22 |
 | 35 | [MODIFICAR](https://open.spotify.com/track/7lQjAcGb8Nh7KkbYpiuBjh) | [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [ALMA IMORTAL](https://open.spotify.com/album/2wTVtjLOFxTnHmkCmgTpdp) | 2:44 |
-| 36 | [Gangue de Metrô](https://open.spotify.com/track/5pgjvAsrgpfciER76jnHMj) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 3:04 |
+| 36 | [Gangue de Metrô](https://open.spotify.com/track/5pgjvAsrgpfciER76jnHMj) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [Dory de Oliveira](https://open.spotify.com/artist/1UbxAwPgZUfLcItrQw4bWr) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 3:04 |
 | 37 | [MJ DA SHOPEE](https://open.spotify.com/track/7FzfQt9l9vHFwUlUn1r6d3) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [Jazzkey](https://open.spotify.com/artist/2FU8GRGYyF795GLAXNHW3u), [MUSIK PALM](https://open.spotify.com/artist/3ru4b4USmKJGk3kYjgLLqz) | [MJ DA SHOPEE](https://open.spotify.com/album/7Dvu5LFfYRQGrJA1q499lY) | 2:30 |
 | 38 | [Artigo 211](https://open.spotify.com/track/4BVSfKW6sm09Bo0Pf3TSR2) | [RAP, falando](https://open.spotify.com/artist/5V8FZVxUupPFrmqrZcoaBt), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mc Binn](https://open.spotify.com/artist/56xxOvCpWdgJgd9WwjrhTE), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Jovem MK](https://open.spotify.com/artist/01APkKC04vJYFKyYVxSZWR), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk) | [Músicas pra Sair na Mão, Vol\. 1](https://open.spotify.com/album/6g2cGMBQOKa6F8WTeMKBby) | 4:03 |
 | 39 | [Vai Baby](https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:57 |

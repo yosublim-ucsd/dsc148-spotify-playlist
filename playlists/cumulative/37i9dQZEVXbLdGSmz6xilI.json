@@ -2102,7 +2102,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 207347,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/3LWVXp636uLT356Rj08Jaz"
@@ -3653,6 +3653,32 @@
     },
     {
       "album": {
+        "name": "ANH TRAI \"SAY HI\", T\u1eadp 12",
+        "url": "https://open.spotify.com/album/2kNm3kRqlIUlyHheaFlxRl"
+      },
+      "artists": [
+        {
+          "name": "ANH TRAI \"SAY HI\"",
+          "url": "https://open.spotify.com/artist/4wZ6awunqaaVLl5j0WpDFu"
+        },
+        {
+          "name": "Negav",
+          "url": "https://open.spotify.com/artist/4fg8aMZ23d2bxKz7r2vt9v"
+        },
+        {
+          "name": "GREY D",
+          "url": "https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309473,
+      "name": "CH\u00c0NG KH\u1edc THU\u1ef6 CUNG (feat. Negav & GREY D)",
+      "url": "https://open.spotify.com/track/73ax9vvEPz8yXm9TCrn2Y1"
+    },
+    {
+      "album": {
         "name": "Ch\u00e2n M\u00e2y",
         "url": "https://open.spotify.com/album/132e0pv2T4h5aiC5qHgUGJ"
       },
@@ -3788,7 +3814,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156303,
       "name": "Ch\u00ecm S\u00e2u",
       "url": "https://open.spotify.com/track/7jLSThU5Kg1RWt19Leiaxm"
@@ -3958,7 +3984,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 255429,
       "name": "Ch\u1ea1y Kh\u1ecfi Th\u1ebf Gi\u1edbi N\u00e0y",
       "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
@@ -9002,7 +9028,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 131050,
       "name": "id thang m\u00e1y (feat. 267)",
       "url": "https://open.spotify.com/track/0ezCZF82GYZFV1W6W1os7N"
@@ -15570,7 +15596,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"

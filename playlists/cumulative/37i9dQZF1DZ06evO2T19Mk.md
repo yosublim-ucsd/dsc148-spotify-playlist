@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2T19Mk.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2T19Mk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2T19Mk)
 
-### [This Is フォール・アウト・ボーイ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk)
+### [This Is Fall Out Boy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2T19Mk)
 
-> This is フォール・アウト・ボーイ。アーティストの代表曲をひとつのプレイリストに。
+> This is Fall Out Boy\. The essential tracks, all in one playlist.
 
 76 songs - 4 hr 32 min
 

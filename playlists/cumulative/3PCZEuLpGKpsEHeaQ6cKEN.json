@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Tita Lau, Chocolate Puma",
+  "description": "The tracks we love, work on and enjoy every hour of the day | Including trance, house, techno, dance, Afro house, melodic techno | Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! | Updated weekly on Friday | Cover:  Brando",
   "name": "Armada Today",
   "tracks": [
     {
@@ -4732,7 +4732,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 179120,
       "name": "Dominos - Friction Remix",
       "url": "https://open.spotify.com/track/22dsfbjCdIarRPGXy7Un9l"
@@ -10250,6 +10250,32 @@
     {
       "album": {
         "name": "In My Head",
+        "url": "https://open.spotify.com/album/36Rk2KPpYmWTFHTMyRaSaB"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        },
+        {
+          "name": "Haska",
+          "url": "https://open.spotify.com/artist/0oNrNJk1WEVKDpbz4bw54T"
+        },
+        {
+          "name": "Jay Sorrow",
+          "url": "https://open.spotify.com/artist/3CjbN6OZLjg1pbfqTlSVB9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214426,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/6touT68ZnV9zwgYabqj2eK"
+    },
+    {
+      "album": {
+        "name": "In My Head",
         "url": "https://open.spotify.com/album/29ruA3J7ns9aIlwiud6x7r"
       },
       "artists": [
@@ -12262,7 +12288,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210337,
       "name": "Living In A Dream - Sam Divine Remix",
       "url": "https://open.spotify.com/track/6nsbeYgK4UM6x3ZX6jA8P3"
@@ -13143,6 +13169,28 @@
     },
     {
       "album": {
+        "name": "Mad Motion",
+        "url": "https://open.spotify.com/album/3JDv0FccxznLCdDIs32axJ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160942,
+      "name": "Mad Motion",
+      "url": "https://open.spotify.com/track/65TcmTdJ6bqvYfC8UTsqiR"
+    },
+    {
+      "album": {
         "name": "Breathe In",
         "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
       },
@@ -13395,6 +13443,28 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/7rsuL0QKTG0jAceR17H1uZ"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Natascha Polk\u00e9",
+          "url": "https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204039,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/5H5wa2EQJyOkR0ghHZDcNI"
+    },
+    {
+      "album": {
         "name": "Love Therapy",
         "url": "https://open.spotify.com/album/5gjhdgT90wzs9QeDRpEdrB"
       },
@@ -13630,7 +13700,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 228753,
       "name": "Mists Of Time",
       "url": "https://open.spotify.com/track/7mRz4BAwFxQNm4LlYUzYtb"
@@ -16102,6 +16172,10 @@
         {
           "name": "Kevin Saunderson",
           "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+        },
+        {
+          "name": "Dantiez",
+          "url": "https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma"
         }
       ],
       "date_added": "2024-08-29",
@@ -18010,7 +18084,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 221550,
       "name": "Sand",
       "url": "https://open.spotify.com/track/5wIOba6Tp9lqoOlIkePym5"
@@ -18050,7 +18124,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215417,
       "name": "Satisfaction",
       "url": "https://open.spotify.com/track/3ZKenCHFbGlX4mTwmCjFn5"
@@ -18248,7 +18322,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165306,
       "name": "Seatbelt",
       "url": "https://open.spotify.com/track/1cYjsBLoLxHJ9u3bVznHHW"
@@ -20492,7 +20566,7 @@
       ],
       "date_added": "2023-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 207360,
       "name": "Superhero",
       "url": "https://open.spotify.com/track/2vm52EstTRxGsvQ44gEFRL"
@@ -21903,6 +21977,32 @@
     },
     {
       "album": {
+        "name": "This Old House - Kryder & Jay Robinson Remix",
+        "url": "https://open.spotify.com/album/5WNd7QeOtFDHMYCnXjMnJX"
+      },
+      "artists": [
+        {
+          "name": "Technique",
+          "url": "https://open.spotify.com/artist/75FeSeDaZfioIVO7DnPLHj"
+        },
+        {
+          "name": "Kryder",
+          "url": "https://open.spotify.com/artist/1xfLBmx0n8DQri9HxJsq9O"
+        },
+        {
+          "name": "Jay Robinson",
+          "url": "https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178096,
+      "name": "This Old House - Kryder & Jay Robinson Remix",
+      "url": "https://open.spotify.com/track/1a478a7gyoNGPeUZrjjVcw"
+    },
+    {
+      "album": {
         "name": "This Time Baby",
         "url": "https://open.spotify.com/album/1cWr3z9IYr1hSkrUQgcTa6"
       },
@@ -22058,6 +22158,24 @@
       "duration_ms": 271508,
       "name": "Time Machine",
       "url": "https://open.spotify.com/track/2W95I0bLSIEyuMepqUO522"
+    },
+    {
+      "album": {
+        "name": "Time Stops (When You're With Me)",
+        "url": "https://open.spotify.com/album/2Z5vf28jYpwyKpChBq1kkt"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160088,
+      "name": "Time Stops (When You're With Me)",
+      "url": "https://open.spotify.com/track/1uYfpBUMhoNCcCCqCwrumX"
     },
     {
       "album": {
@@ -24018,6 +24136,28 @@
       "duration_ms": 200200,
       "name": "When I'm Alone",
       "url": "https://open.spotify.com/track/5WwnSIlom58yAxG4j2EVRK"
+    },
+    {
+      "album": {
+        "name": "When The Sun Comes Up",
+        "url": "https://open.spotify.com/album/5i3ee7P18T2vbLurnXjsHw"
+      },
+      "artists": [
+        {
+          "name": "Eelke Kleijn",
+          "url": "https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey"
+        },
+        {
+          "name": "JAI RYU",
+          "url": "https://open.spotify.com/artist/1YtiawZzH3pF90C07iauWh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290800,
+      "name": "When The Sun Comes Up",
+      "url": "https://open.spotify.com/track/4e4pwMrYXmJAKGlQOVkLUZ"
     },
     {
       "album": {

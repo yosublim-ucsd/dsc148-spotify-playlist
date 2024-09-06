@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: GYEOM\(겸\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Luli Lee\(이루리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-766 songs - 1 day 22 hr 48 min
+767 songs - 1 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [FINE](https://open.spotify.com/track/1HP9RKXLLbanlco3KB0QsN) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [FINE](https://open.spotify.com/album/3lowzloIMuCOyzPGCWXbks) | 2:37 | 2022-07-08 | 2022-08-09 |
 | [Fire](https://open.spotify.com/track/0h1KusfiDFqqWhHNPcKn0V) | [Hwang Puha](https://open.spotify.com/artist/6r9cEkpE75hhzDw3jfcRwn) | [Two Faces](https://open.spotify.com/album/1xtsl99YsUY2QBbMIRQqzC) | 5:00 | 2022-12-21 | 2023-01-05 |
 | [First Time](https://open.spotify.com/track/1w8eS94wSGqXJxbXWsmuig) | [Budung](https://open.spotify.com/artist/4RtxNIrPXlf3cTtIsuEWMi) | [Let’s take a step to a brighter place](https://open.spotify.com/album/33myALTzpif1l5ApybO8pk) | 3:39 | 2022-03-31 | 2022-04-16 |
+| [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/track/37VvbzX6M33crYC1cp9Mbk) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK), [Moonsoo Kim](https://open.spotify.com/artist/2ylkZLnqiOeta3QWY8zgJr) | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/album/63hibZ5d4d0vR8vBSnmoDt) | 3:38 | 2024-09-05 |  |
 | [Flower](https://open.spotify.com/track/1FFHAvliNowwAKaojCNYP4) | [9z](https://open.spotify.com/artist/3DoD8wMylOlNPJZm0Geebu) | [Flower](https://open.spotify.com/album/2N9nB5RdJUlRFODl4Ku4Ar) | 3:37 | 2022-03-07 | 2022-04-21 |
 | [Flower 꽃](https://open.spotify.com/track/2RZcBcDje7h7XnINICVJtR) | [Lacuna 라쿠나](https://open.spotify.com/artist/2FDl06nCrSYpA1n9PLZfen) | [Garden 정원](https://open.spotify.com/album/72cTrdX2EGfSpYdZsyCvLj) | 4:33 | 2022-04-12 | 2022-04-14 |
 | [flowerain](https://open.spotify.com/track/1p0cy7P5OdzZtVJOzhjfSF) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [flowerain](https://open.spotify.com/album/00h8cmaMZFSyKkPAJ4uvTJ) | 2:57 | 2022-03-31 | 2022-04-12 |
@@ -722,7 +723,7 @@
 | [Wonder](https://open.spotify.com/track/0hx7Ee7zi8zft0gcv5BIcf) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/7E0KQMrRuZRM0EcIPjlXSO) | 3:55 | 2022-07-27 | 2024-04-19 |
 | [Wonder](https://open.spotify.com/track/0v89jw9S9NPzOPCoZnLZxE) | [ADOY](https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC) | [LOVE](https://open.spotify.com/album/2PXqmGnh714FuMOPji4JiI) | 3:55 | 2021-12-21 | 2022-07-29 |
 | [WOODLAND 푸르던](https://open.spotify.com/track/7hSpkFR4umYfTdwAbGlkUb) | [Besweet](https://open.spotify.com/artist/0grUBAiZwYyGykIxK6UjW8) | [WOODLAND 푸르던](https://open.spotify.com/album/7ItB3jPiPLGAeARn3YzSHp) | 3:54 | 2022-04-12 | 2022-04-21 |
-| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 |  |
+| [work, shit, sleep](https://open.spotify.com/track/6NKAKulkYABhP7s63wbCDK) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [work, shit, sleep](https://open.spotify.com/album/3Ova8PNeLYEkYcqfSLMak0) | 3:22 | 2023-12-18 | 2024-09-06 |
 | [Worries 걱정](https://open.spotify.com/track/5dBREAFlHitnu99IHDQi4l) | [KIRARA](https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW) | [Sarah](https://open.spotify.com/album/4juD3p5xvgts6zCQzlQYKl) | 7:47 | 2022-03-31 | 2022-04-21 |
 | [written on a leaf](https://open.spotify.com/track/4DdynawjdYLn81mdfaqZKM) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [written on a leaf](https://open.spotify.com/album/5EbUl4ypzZl5YmRfqIdjin) | 3:45 | 2022-03-18 | 2022-07-15 |
 | [Wrong question](https://open.spotify.com/track/6wzGqTvlpSpnr1qgSZSQ2O) | [The Black Skirts](https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8) | [THIRSTY](https://open.spotify.com/album/7dSqbQ9mGpHdlkLk7rBFuO) | 3:15 | 2022-03-31 | 2022-06-21 |

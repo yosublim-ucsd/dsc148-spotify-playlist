@@ -605,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Water the Flowers, Pray for a Garden",
+        "url": "https://open.spotify.com/album/2AUF4A04JUP4xaSUmFjJnK"
+      },
+      "artists": [
+        {
+          "name": "Valley",
+          "url": "https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212502,
+      "name": "Bop Ba",
+      "url": "https://open.spotify.com/track/2kohdOn9SEqiWlkIkOChy2"
+    },
+    {
+      "album": {
         "name": "Brand New Life",
         "url": "https://open.spotify.com/album/6Vwe5sledpijPPJGg8HyGE"
       },
@@ -656,7 +674,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 232725,
       "name": "Cape Forestier",
       "url": "https://open.spotify.com/track/1W2ihQwMDPNX7eAJaex3om"
@@ -1060,7 +1078,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 180543,
       "name": "Dark Black",
       "url": "https://open.spotify.com/track/15QWUDaLNNYvd8aXdj9GfK"
@@ -2410,7 +2428,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-19",
+      "date_removed": null,
       "duration_ms": 262079,
       "name": "J\u00daJ\u00da",
       "url": "https://open.spotify.com/track/2fvzuOmOYZJWSXFur49qQn"
@@ -2472,6 +2490,24 @@
       "duration_ms": 223000,
       "name": "L'avventura",
       "url": "https://open.spotify.com/track/059jLJwzwUHfNSLj2LWlbi"
+    },
+    {
+      "album": {
+        "name": "Laredo",
+        "url": "https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196960,
+      "name": "Laredo",
+      "url": "https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb"
     },
     {
       "album": {
@@ -2856,7 +2892,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192144,
       "name": "May Ninth",
       "url": "https://open.spotify.com/track/2145px2VY14o2Pgr0OIttX"
@@ -3226,6 +3262,24 @@
       "duration_ms": 268335,
       "name": "Out on the weekend",
       "url": "https://open.spotify.com/track/0Gb9R3sEf8QQSQSLAkKpGQ"
+    },
+    {
+      "album": {
+        "name": "Anger",
+        "url": "https://open.spotify.com/album/4inkmCqix6rQcYAvPta2ZR"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/1lyswcW898bSZdGtEUqUdq"
     },
     {
       "album": {
@@ -3950,7 +4004,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 186540,
       "name": "Songs In My Head",
       "url": "https://open.spotify.com/track/1r7Q77PuiuZwSJgVooeuiv"

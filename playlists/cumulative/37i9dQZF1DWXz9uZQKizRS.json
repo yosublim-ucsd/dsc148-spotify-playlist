@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Patrick the Pan",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: PIETRUCHA/ZALEWSKA",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -78,7 +78,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 243000,
       "name": "900 (BESKRES remix)",
       "url": "https://open.spotify.com/track/6CPumxLdRw5MQTzSz51oCE"
@@ -380,7 +380,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187690,
       "name": "By\u0107 Obok",
       "url": "https://open.spotify.com/track/2OguWT50SuF1SQwJDtkBzy"
@@ -574,7 +574,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 242960,
       "name": "Ciep\u0142e lato",
       "url": "https://open.spotify.com/track/29s6EzaPsLR42nLvp3Twfv"
@@ -1045,6 +1045,28 @@
     },
     {
       "album": {
+        "name": "G\u0141OWA STOP",
+        "url": "https://open.spotify.com/album/4IVyf4dinzL1jT0X5MCYOT"
+      },
+      "artists": [
+        {
+          "name": "Marika",
+          "url": "https://open.spotify.com/artist/35vsCsMdgbOroCgADBadfR"
+        },
+        {
+          "name": "Simba",
+          "url": "https://open.spotify.com/artist/3vWjpXrCdYaj5vVHQ5HqJY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158185,
+      "name": "G\u0141OWA STOP",
+      "url": "https://open.spotify.com/track/0sAgyuHYDTQoQ6bkRrxxny"
+    },
+    {
+      "album": {
         "name": "Hide a Lie",
         "url": "https://open.spotify.com/album/0G1kJkQPPs7DAJovQ7xp20"
       },
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 216468,
       "name": "Jesie\u0144",
       "url": "https://open.spotify.com/track/7lD591QrVNzVxbmY1Xmq8i"
@@ -1382,6 +1404,24 @@
       "duration_ms": 178170,
       "name": "Ko\u0142owrotek",
       "url": "https://open.spotify.com/track/3P5Sj49AHNNyA4GgJ6WID7"
+    },
+    {
+      "album": {
+        "name": "Ostatnie okr\u0105\u017cenie",
+        "url": "https://open.spotify.com/album/5hxeO2918SVqtT21zUE0TR"
+      },
+      "artists": [
+        {
+          "name": "Komety",
+          "url": "https://open.spotify.com/artist/2ESBtuNHbnfEqXZVGVJZTG"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108926,
+      "name": "Kryzys na wizji",
+      "url": "https://open.spotify.com/track/0sOeNMosamFuoDjQkeCvf3"
     },
     {
       "album": {
@@ -1900,6 +1940,24 @@
       "duration_ms": 177750,
       "name": "Mia\u0142e\u015b by\u0107",
       "url": "https://open.spotify.com/track/6VZZhPyAo9U7ZTBRXduWBH"
+    },
+    {
+      "album": {
+        "name": "LETNIE OPOWIE\u015aCI",
+        "url": "https://open.spotify.com/album/08FD38wyvCbjAjKfH9tIVB"
+      },
+      "artists": [
+        {
+          "name": "FOMOTOK",
+          "url": "https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152400,
+      "name": "MIEJSKIE NIEBO",
+      "url": "https://open.spotify.com/track/1tL30TRxVJ4IHh2qQfG9Hl"
     },
     {
       "album": {
@@ -2740,7 +2798,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187056,
       "name": "Odwr\u00f3c\u0119 los",
       "url": "https://open.spotify.com/track/5P0hBjKtLkxcTOjQkWJ04D"
@@ -2961,6 +3019,24 @@
     },
     {
       "album": {
+        "name": "Pierwsza prosta",
+        "url": "https://open.spotify.com/album/1vjhoOnK38f1ne8iwj70ET"
+      },
+      "artists": [
+        {
+          "name": "Happysad",
+          "url": "https://open.spotify.com/artist/4NkE5k5xSRm6eVE7vMhqD6"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211146,
+      "name": "Pierwsza prosta",
+      "url": "https://open.spotify.com/track/2MV0yI5YujkDiIDtZz7r0H"
+    },
+    {
+      "album": {
         "name": "Piotru\u015b Pan",
         "url": "https://open.spotify.com/album/7vAEvd1uBOzoXtpZ31hrVX"
       },
@@ -2998,6 +3074,24 @@
       "duration_ms": 227800,
       "name": "Po ko\u015bciach",
       "url": "https://open.spotify.com/track/6U9m9iSlQrTkS95HOx9jJk"
+    },
+    {
+      "album": {
+        "name": "Zabawa Mistrz\u00f3w",
+        "url": "https://open.spotify.com/album/3WPrIDuKUgpqSp49lqkJkN"
+      },
+      "artists": [
+        {
+          "name": "Marek Niedzielski",
+          "url": "https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173693,
+      "name": "Po zabawie",
+      "url": "https://open.spotify.com/track/3rR2y5VHnLbnbATLIirCmK"
     },
     {
       "album": {
@@ -3153,6 +3247,28 @@
     },
     {
       "album": {
+        "name": "Przesz\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/2WcQ138CnSXMZet2iFixv7"
+      },
+      "artists": [
+        {
+          "name": "Meek, Oh Why?",
+          "url": "https://open.spotify.com/artist/1x95fYBLV8dI26ECivQ4DT"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148132,
+      "name": "Przesz\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/54YKNvPNJpWCEHd2bA5oHm"
+    },
+    {
+      "album": {
         "name": "Przezroczyste",
         "url": "https://open.spotify.com/album/4zQrdcYwsBdMx62fMFZjyG"
       },
@@ -3168,6 +3284,24 @@
       "duration_ms": 215575,
       "name": "Przezroczyste",
       "url": "https://open.spotify.com/track/5Lj0edumcBeng66Cqprah9"
+    },
+    {
+      "album": {
+        "name": "przypadkiem",
+        "url": "https://open.spotify.com/album/7cPkz7ex0tIwfxls5NaPK0"
+      },
+      "artists": [
+        {
+          "name": "Wiktoria Zwoli\u0144ska",
+          "url": "https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183881,
+      "name": "przypadkiem",
+      "url": "https://open.spotify.com/track/4qnzc5iJp1NI23WG0iroCQ"
     },
     {
       "album": {
@@ -3262,6 +3396,28 @@
       "duration_ms": 354400,
       "name": "Radical Kindness",
       "url": "https://open.spotify.com/track/0Twtb0Mi3I6McMdh6UNK3y"
+    },
+    {
+      "album": {
+        "name": "Razy 100",
+        "url": "https://open.spotify.com/album/3R2sGL9CgX7gniIPV2aqG7"
+      },
+      "artists": [
+        {
+          "name": "12 kamieni",
+          "url": "https://open.spotify.com/artist/4X5vA3EzcDxZQxAcECzGqH"
+        },
+        {
+          "name": "Szymon Szczot",
+          "url": "https://open.spotify.com/artist/3SYXkGixE2adr3Cm8ctN2E"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262909,
+      "name": "Razy 100",
+      "url": "https://open.spotify.com/track/5CQepYVAKLQYjinwfrwEdR"
     },
     {
       "album": {
@@ -3360,7 +3516,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 222680,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/5hiVAx1on8cg6SlfzRYVld"
@@ -3450,7 +3606,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187102,
       "name": "Sejsmografy",
       "url": "https://open.spotify.com/track/0QmFlAssO2rGhUfCXZ46YW"
@@ -3748,7 +3904,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 233578,
       "name": "Szum",
       "url": "https://open.spotify.com/track/4dbp2q4IPbDvmDlECn3Xii"
@@ -3835,6 +3991,28 @@
     },
     {
       "album": {
+        "name": "Ta\u0144cz\u0119 do Ciebie",
+        "url": "https://open.spotify.com/album/59Kq0skwHuLhRpeffUuA9L"
+      },
+      "artists": [
+        {
+          "name": "Kuba D\u0105browski",
+          "url": "https://open.spotify.com/artist/3AxyUv67RW9vF4GbXFqTCP"
+        },
+        {
+          "name": "Ania Szlagowska",
+          "url": "https://open.spotify.com/artist/6b5VWyfQbsAaYfBqiZJy8D"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Ta\u0144cz\u0119 do Ciebie",
+      "url": "https://open.spotify.com/track/22I924FKxxTIDS7JXQjaPE"
+    },
+    {
+      "album": {
         "name": "Teardrop",
         "url": "https://open.spotify.com/album/3zOyxQ0GuRrMXDAeOSviEW"
       },
@@ -3846,7 +4024,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247285,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/0SW9AngyutPHZOOqU5gT8H"
@@ -4437,6 +4615,28 @@
     },
     {
       "album": {
+        "name": "Z Tob\u0105",
+        "url": "https://open.spotify.com/album/1cYaygpwKHcxESKGAyklX1"
+      },
+      "artists": [
+        {
+          "name": "flyology",
+          "url": "https://open.spotify.com/artist/6GuasJ2TFBIAkGizQG1KjY"
+        },
+        {
+          "name": "T\u0119skno",
+          "url": "https://open.spotify.com/artist/2jlB25j7GZyJWFApPtordZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Z Tob\u0105",
+      "url": "https://open.spotify.com/track/7bwMlmAsLPWUlsB7WXxOBq"
+    },
+    {
+      "album": {
         "name": "Za darmo",
         "url": "https://open.spotify.com/album/3rYR5zDO6s7sfrH40X32M0"
       },
@@ -4466,7 +4666,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171235,
       "name": "zabierz mnie nad morze",
       "url": "https://open.spotify.com/track/7F2Gq8jGLgZen4XgLCKWaP"
@@ -4525,6 +4725,24 @@
     },
     {
       "album": {
+        "name": "Wszech\u015bwiat nas ta\u0144czy",
+        "url": "https://open.spotify.com/album/41an1ZgUTL4xzaupnTTJ6z"
+      },
+      "artists": [
+        {
+          "name": "Sobo\u0144",
+          "url": "https://open.spotify.com/artist/3EpW18kg7lnp1DcQ0lURBe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Zamknij oczy",
+      "url": "https://open.spotify.com/track/61Soq4jUOzP7zn1Yendzgm"
+    },
+    {
+      "album": {
         "name": "Zapach bzu",
         "url": "https://open.spotify.com/album/3D01gQwNB6fZmLlSponBRI"
       },
@@ -4536,7 +4754,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 246923,
       "name": "Zapach bzu",
       "url": "https://open.spotify.com/track/3cc8DmFFG7Ue9gDHPfdgQV"
@@ -4717,6 +4935,24 @@
     },
     {
       "album": {
+        "name": "Zn\u00f3w oddychamy",
+        "url": "https://open.spotify.com/album/12ukJXGhTYjiplFyAvJCiE"
+      },
+      "artists": [
+        {
+          "name": "Kr\u00f3l S\u0142o\u0144ce",
+          "url": "https://open.spotify.com/artist/5l1BH7yCrzKx9KJtLNfYGa"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279560,
+      "name": "Zn\u00f3w oddychamy",
+      "url": "https://open.spotify.com/track/6wm02rkCZLu5ArLvQvdzb3"
+    },
+    {
+      "album": {
         "name": "zn\u00f3w patrzysz tak",
         "url": "https://open.spotify.com/album/4eHhOzhzyKKr4kyIm79oDK"
       },
@@ -4782,7 +5018,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201241,
       "name": "\u017bar",
       "url": "https://open.spotify.com/track/0z0umpHu3CLg0HzQvEvWRm"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Gabriela Gomes, Luma Elpidio
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,376 likes - 80 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,431 likes - 80 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

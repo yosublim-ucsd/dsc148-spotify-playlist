@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp\-bzUrQ>Freke Umoh</a>
 
-302 songs - 1 day 0 hr 56 min
+303 songs - 1 day 1 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Congratulations](https://open.spotify.com/track/66BBI9oQqeABCpHkEUVqgW) | [EJ Newton](https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4), [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Great Grace Music](https://open.spotify.com/artist/22AZCb1o64DatHge9vhkTN) | [Congratulations](https://open.spotify.com/album/4WM4SgukPTr9ZRXzkIzD36) | 3:06 | 2024-06-07 | 2024-06-30 |
 | [Cornerstone \(feat\. Zach Williams\)](https://open.spotify.com/track/56GZHQ4E3i9w9xgRkzitd4) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Zach Williams](https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ) | [Life After Death](https://open.spotify.com/album/1WImPglJycAdHQ79c8yRH8) | 3:39 | 2023-12-29 |  |
 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 | 2023-12-05 | 2023-12-13 |
+| [Courts](https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0) | [Linc Worship](https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B), [Ashleigh Duggan](https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI) | [Courts](https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5) | 7:16 | 2024-09-06 |  |
 | [Cover Me](https://open.spotify.com/track/6I4UKQeC4RZtiegyiXqVxk) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Oyije](https://open.spotify.com/artist/5yyv47kIRS1JBvjBzDOyGa), [Dj Horphuray](https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L) | [Cover Me](https://open.spotify.com/album/1ulp36eMzjM82qIt6jh3rl) | 2:02 | 2024-01-19 | 2024-01-26 |
 | [Daddy](https://open.spotify.com/track/7yjKnPwdYwo8jcT4xQtNlb) | [M I L O](https://open.spotify.com/artist/3h8ysJX4brfjOTz1GmlhLa) | [Daddy](https://open.spotify.com/album/29sf3eScVnDNqfBVpCtf8t) | 3:13 | 2023-05-19 | 2023-06-16 |
 | [Daddy Wey Dey Pamper \- Gbedu Version](https://open.spotify.com/track/1TL5gkcrDrX5sOdNOzmCQ6) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [Daddy Wey Dey Pamper \(Gbedu Version\)](https://open.spotify.com/album/2vFfnAxG1DEPzxRxakdE5r) | 3:28 | 2023-12-05 | 2023-12-13 |
@@ -198,7 +199,7 @@
 | [Na You](https://open.spotify.com/track/1GaztXz2h5pFWjPwgqjWHg) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Blessed](https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk) | 2:44 | 2023-12-05 | 2023-12-13 |
 | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/track/0xmGgQUiXR4OhXi9RWDoRl) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [IBK](https://open.spotify.com/artist/2ux4hl4BNE4i7mfHek88W3), [Xtreme](https://open.spotify.com/artist/0JyPOK4PQYaOEqdSwN16NT) | [Na You Be God \(Remix\) \[feat\. Ibk & Xtreme\]](https://open.spotify.com/album/2wDwXXHbSCdG6qwFtbCX5W) | 5:26 | 2023-04-07 | 2023-04-15 |
 | [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2023-04-07 |  |
-| [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 |  |
+| [Nara](https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [Nara](https://open.spotify.com/album/24dR45SETUfw44qynSI732) | 4:56 | 2023-04-07 | 2024-09-06 |
 | [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2023-12-29 | 2024-02-04 |
 | [Never Let Me Go \- African Worship Medley/Live](https://open.spotify.com/track/5mT9muoaYVBcvpM3UiJZBY) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:22 | 2023-04-07 | 2023-06-09 |
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-01-05 | 2024-04-05 |

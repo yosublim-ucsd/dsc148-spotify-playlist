@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-169 songs - 11 hr 49 min
+170 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Ego](https://open.spotify.com/track/76ucx0i5WBu3fTPIrG1jh3) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [MOBILE SUIT GUNDAM UNICORN Original Motion Picture Soundtrack 2](https://open.spotify.com/album/6CHzOvncncZpIt3htstibX) | 3:14 | 2023-05-12 | 2024-04-19 |
 | [EGO](https://open.spotify.com/track/66aGCBWbAB1CgDl5ulm3lv) | [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [EGO](https://open.spotify.com/album/7zu5xRNqfpTtG6rQk1BqJD) | 3:15 | 2022-06-07 |  |
 | [EL○](https://open.spotify.com/track/7mBLkiiBW38YLIkuoUAfcc) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [TVアニメ「進撃の巨人 The Final Season」 Original Sound Track Complete Album](https://open.spotify.com/album/4sYRnJIKzOjPEbINS8r19D) | 4:41 | 2024-07-16 |  |
+| [FALLOUT](https://open.spotify.com/track/1599HZqymjBnkD9rZeDqVy) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [FALLOUT](https://open.spotify.com/album/4IojNXivtvb33tRQd8Lm7X) | 3:26 | 2024-09-05 |  |
 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 | 2022-06-07 |  |
 | [God of ink](https://open.spotify.com/track/5s0LeGW1HW39G1ZqxonnFj) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [Re:CREATORS Original Soundtrack](https://open.spotify.com/album/79D8sROYs9ik8C3f8dm9ZG) | 4:11 | 2022-06-07 |  |
 | [gravityWall](https://open.spotify.com/track/6WBoHxSRyvMyGIzslzJJ8m) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [gravityWall/sh0ut](https://open.spotify.com/album/2K0cY9YMrCDWoNHMpNZMsF) | 3:46 | 2022-09-29 | 2022-11-13 |

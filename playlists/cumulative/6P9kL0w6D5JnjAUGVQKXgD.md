@@ -4,7 +4,7 @@
 
 > EDM, Dance, House, Electro, Electronica and more! Vote at edmcharts.net\. With: Kriss Reeve, Jackson Wang, Galantis, MK
 
-1,569 songs - 3 day 10 hr 33 min
+1,570 songs - 3 day 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1136,7 +1136,7 @@
 | [Rollerblade](https://open.spotify.com/track/1hz0SWhLPWKqpGiEBnWFpm) | [Trial & Error](https://open.spotify.com/artist/6W4qhJWqjWK8x6oo4oKMwK), [HENDRICK LANE](https://open.spotify.com/artist/0eJYjGNZFypo9g9QH5JaGL) | [Rollerblade](https://open.spotify.com/album/0xewukHzbfXN0oIR9GUJoi) | 2:50 | 2019-09-29\* | 2023-06-13 |
 | [Rollercoaster](https://open.spotify.com/track/636kRUoh1D1ZJifHip4RtS) | [Love Regenerator](https://open.spotify.com/artist/05KDKIpxshxrB9BMewaCBW), [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [Rollercoaster](https://open.spotify.com/album/4lC9pLz0vfNZQe7xcpqjKg) | 2:59 | 2021-09-29 | 2021-09-30 |
 | [Rooftops](https://open.spotify.com/track/6pbhkfdG5RvTJaC3VKPaJn) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Joytime II](https://open.spotify.com/album/0xi4cOWPUHjctyYU8ypCOB) | 2:57 | 2020-05-26 | 2023-03-10 |
-| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 |  |
+| [Roses \(feat\. ROZES\)](https://open.spotify.com/track/3FWPoYBDserKdzcattMFGa) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ROZES](https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA) | [Bouquet](https://open.spotify.com/album/5uJqpJth89JzqPFt6vEzwF) | 3:45 | 2023-05-30 | 2024-09-06 |
 | [Roses \(Imanbek Remix\)](https://open.spotify.com/track/7mS2ZgalsI18LW6EnqFA0v) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Roses \(Imanbek Remix\)](https://open.spotify.com/album/3wZL4Pxagph7pND4IPpXlt) | 2:56 | 2020-05-27 | 2023-05-24 |
 | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/track/3yvHcaY61FpeSiLiHiIST4) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Rule The World \(feat\. ILIRA\)](https://open.spotify.com/album/3SRrcJb9UQxc6vZm7cZ2Ww) | 2:50 | 2020-12-10 | 2020-12-17 |
 | [Rumors](https://open.spotify.com/track/0ibEbPyMI2JbYgzFYNJlwh) | [TYMEN](https://open.spotify.com/artist/38dICdGB6bl9UKmQx3lt2R), [MYXE](https://open.spotify.com/artist/3og6e24muubWOaYriWZsPc) | [Rumors](https://open.spotify.com/album/6LyEg0JrkaYHXqhyeg96bl) | 3:05 | 2023-01-11 | 2023-03-09 |
@@ -1177,6 +1177,7 @@
 | [Say Yeah](https://open.spotify.com/track/7diiW6RSbOz0o1P7BWGmut) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v) | [Say Yeah](https://open.spotify.com/album/6tdaVrv380eGHJywX3dEOk) | 3:45 | 2022-02-03 | 2022-05-04 |
 | [Scrub The Ground](https://open.spotify.com/track/1AJAQmdCa9D1JhN6vVbaLJ) | [Chocolate Puma](https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA), [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [dj funk](https://open.spotify.com/artist/6M0FCfVRUo5DUuziqLFjJ0) | [Scrub The Ground](https://open.spotify.com/album/2IWIzj8yuoRr2dSCCDReu8) | 2:48 | 2020-05-26 | 2023-05-30 |
 | [Scythe Master](https://open.spotify.com/track/2ioTUZg5JbOwl2nKNFquQx) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Eat Your Own Ears Recordings EP 1](https://open.spotify.com/album/5qrcFcqf23B9TUQef3Caxx) | 8:00 | 2022-07-19 | 2022-10-05 |
+| [Secret Enemy](https://open.spotify.com/track/2EUp66zaGElrvmPmX5YedM) | [Jadoo](https://open.spotify.com/artist/0xblqK8SQH7ktMA5juS6WP) | [Secret Enemy](https://open.spotify.com/album/2E6xJec4cTLNEqJb0wIENp) | 2:23 | 2024-09-06 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2020-05-27 | 2024-05-10 |
 | [See\-Line Woman \- Riton Remix](https://open.spotify.com/track/2BnoxYpCeEiDQSUNx1TZpf) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO), [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1) | [See\-Line Woman \(Riton Remix\)](https://open.spotify.com/album/5TgdVipR636imv6aQaUnns) | 4:04 | 2021-11-29 | 2022-03-07 |
 | [Selfish \- Alan Walker Remix](https://open.spotify.com/track/5CkILcn5YhXYJ1XDuGwrGN) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Selfish \(Alan Walker Remix\)](https://open.spotify.com/album/52S0DGimdMtS40jtnjRSGn) | 3:33 | 2020-06-08 | 2022-12-21 |

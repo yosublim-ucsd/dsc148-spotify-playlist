@@ -1906,7 +1906,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 244631,
       "name": "Cu\u00e1l es tu nombre",
       "url": "https://open.spotify.com/track/37CVXWCuodvbNjcWYnaTLy"
@@ -4054,7 +4054,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178734,
       "name": "Juguemos",
       "url": "https://open.spotify.com/track/7MnS8sUKTd3Vk1Erk2V20D"
@@ -4094,6 +4094,24 @@
       "duration_ms": 200367,
       "name": "K\u00e9 M\u00e1s Nos Da",
       "url": "https://open.spotify.com/track/1JurgyjeCTcDyZErghSV0y"
+    },
+    {
+      "album": {
+        "name": "La cabecita loca - Directo Bot\u00e1nico",
+        "url": "https://open.spotify.com/album/59NpAQaaPqOV3LUIwxi6sd"
+      },
+      "artists": [
+        {
+          "name": "Rulo y la contrabanda",
+          "url": "https://open.spotify.com/artist/0ewtf5KcA50GVkF6FBXOcs"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233052,
+      "name": "La cabecita loca - Directo Bot\u00e1nico",
+      "url": "https://open.spotify.com/track/5uc29SREot10Yu5ToGX4sT"
     },
     {
       "album": {
@@ -4398,6 +4416,28 @@
       "duration_ms": 212019,
       "name": "La Reina del Adi\u00f3s",
       "url": "https://open.spotify.com/track/0Kxc35nEHZ4G42YFcvvzL1"
+    },
+    {
+      "album": {
+        "name": "La Rendici\u00f3n",
+        "url": "https://open.spotify.com/album/5anCEsrInu0Xy5jIEx3LuG"
+      },
+      "artists": [
+        {
+          "name": "Lady Ma Belle",
+          "url": "https://open.spotify.com/artist/2zEaaKAloDC00e7FDTuIIN"
+        },
+        {
+          "name": "La Rabia Del Milenio",
+          "url": "https://open.spotify.com/artist/3ue0pUcV77yY9r3RdgAYJX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228127,
+      "name": "La Rendici\u00f3n",
+      "url": "https://open.spotify.com/track/0wfBnXjwqEpVodsevOVeMY"
     },
     {
       "album": {
@@ -6573,6 +6613,24 @@
     },
     {
       "album": {
+        "name": "Pu\u00f1o",
+        "url": "https://open.spotify.com/album/6aVHxdAzvCCdanJeDsvj35"
+      },
+      "artists": [
+        {
+          "name": "Chicle",
+          "url": "https://open.spotify.com/artist/0ndlPDlxgSChUM9bNexLBU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173590,
+      "name": "Pu\u00f1o",
+      "url": "https://open.spotify.com/track/27ftICjvEPlBFBtZjhH3xm"
+    },
+    {
+      "album": {
         "name": "P\u00e1jaro Herido",
         "url": "https://open.spotify.com/album/1UP0k6JViOIO3sDH2FTk78"
       },
@@ -8096,7 +8154,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 239069,
       "name": "T\u00fa sabr\u00e1s, lo digo por tu bien",
       "url": "https://open.spotify.com/track/5fIqQ9w6M0xyG7WrhoThAw"

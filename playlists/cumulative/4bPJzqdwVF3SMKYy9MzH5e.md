@@ -4,7 +4,7 @@
 
 > 
 
-1,965 songs - 4 day 9 hr 55 min
+1,966 songs - 4 day 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [bloodline](https://open.spotify.com/track/2hloaUoRonYssMuqLCBLTX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [thank u, next](https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw) | 3:36 | 2021-08-05 |  |
 | [BLOODMONEY](https://open.spotify.com/track/6QPOr9B8aEquK1nGwG9Yj6) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [I Disagree](https://open.spotify.com/album/4LgpVx8efQT7SRXGRq5Tze) | 3:02 | 2021-08-05 |  |
 | [bloodstains](https://open.spotify.com/track/1j581GCDFQ9P8xd6fyjgLt) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [100 gecs](https://open.spotify.com/album/7KpuGjIfduSD45wl5IQc7G) | 2:09 | 2021-08-05 |  |
+| [Bloody Sneakers \(Violet's Theme\)](https://open.spotify.com/track/5UNlr5NiYJhZi16TGLTIgi) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Neon White Soundtrack Part 2 "The Burn That Cures"](https://open.spotify.com/album/4ssvXCfePUn0EwwcUy10Pi) | 1:07 | 2024-09-05 |  |
 | [Bloom](https://open.spotify.com/track/05xA64s3UzOOmAnh9SIIjn) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Mango](https://open.spotify.com/album/5huBh4ncSbQS0awxP3FyVW) | 5:02 | 2021-08-05 |  |
 | [Blow My Brains Out](https://open.spotify.com/track/4ZlQzskKkK4jsbcqO96luB) | [Tikkle Me](https://open.spotify.com/artist/6oWIS1UZp9dR74eYez74vX) | [Tikkle Me](https://open.spotify.com/album/0tNO6EN9i6at8omQTYkcch) | 3:42 | 2021-08-05 |  |
 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 | 2021-08-05 |  |
@@ -634,7 +635,7 @@
 | [Freak](https://open.spotify.com/track/3sYDVtqO35oRSOIMx7dOqR) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Honeymoon](https://open.spotify.com/album/2DpEBrjCur1ythIZ10gJWw) | 4:55 | 2022-06-21 |  |
 | [Freak \(feat\. REI AMI\)](https://open.spotify.com/track/5jkbw3FDS3bSSb4oLKYbjf) | [Sub Urban](https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Thrill Seeker](https://open.spotify.com/album/0PTvzABaWDvafuJ8MZplha) | 3:14 | 2021-08-05 |  |
 | [Freak On a Leash](https://open.spotify.com/track/6W21LNLz9Sw7sUSNWMSHRu) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Follow The Leader](https://open.spotify.com/album/0gsiszk6JWYwAyGvaTTud4) | 4:15 | 2021-11-14 |  |
-| [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/4EvEzSi4r9MkLpsGyxxREO) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2021-08-05 |  |
+| [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 | 2021-08-05 |  |
 | [Freakin' Out On the Interstate](https://open.spotify.com/track/6Fqf0OTfB9VPfYk2HfBhPn) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Carnival](https://open.spotify.com/album/59z895VS27PtxzCwDV6dRY) | 4:11 | 2021-08-05 |  |
 | [Freaking Out the Neighborhood](https://open.spotify.com/track/25SJaCCPiosugnlY53VhRG) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/7x6wYKbZUU2BL3N8ZWwM3q) | 2:53 | 2021-08-05 |  |
 | [FREAKOUT](https://open.spotify.com/track/67sc8RomM2gwAwXVVZBKKL) | [1 800 PAIN](https://open.spotify.com/artist/7BT9qietxZuylsjyWGYBUR) | [FREAKOUT](https://open.spotify.com/album/3CA429bFNjzjr9KwM1RuoA) | 2:26 | 2022-02-04 |  |

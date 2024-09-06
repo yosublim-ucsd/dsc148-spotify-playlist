@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "de skarpeste nye knive i dansk musik\ud83d\udd2a August H\u00f8yen skinner p\u00e5 forsiden \ud83d\ude0e",
+  "description": "de skarpeste nye knive i dansk musik... Mille p\u00e5 forsiden \ud83c\udf3e",
   "name": "ung kniv ",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171000,
       "name": "AUTOSTRADA",
       "url": "https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7"
@@ -244,6 +244,28 @@
       "duration_ms": 190200,
       "name": "Caroline",
       "url": "https://open.spotify.com/track/49LGe1i7eznRGUyOHD4tVM"
+    },
+    {
+      "album": {
+        "name": "Coast II Coast (feat. USSEL)",
+        "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
+      },
+      "artists": [
+        {
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128616,
+      "name": "Coast II Coast (feat. USSEL)",
+      "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
     },
     {
       "album": {
@@ -785,6 +807,24 @@
     },
     {
       "album": {
+        "name": "hva s\u00e5?",
+        "url": "https://open.spotify.com/album/0KmHCjtrUeOPujRiAcULPj"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164696,
+      "name": "hva s\u00e5?",
+      "url": "https://open.spotify.com/track/5IeqczS5hrm0otRU9O8YWe"
+    },
+    {
+      "album": {
         "name": "August",
         "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
       },
@@ -1132,6 +1172,24 @@
       "duration_ms": 159539,
       "name": "Mig Og Min Mund",
       "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "album": {
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+      },
+      "artists": [
+        {
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231072,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
     },
     {
       "album": {
@@ -1554,7 +1612,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173032,
       "name": "Uhh Yeah",
       "url": "https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K"
@@ -1626,7 +1684,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 168425,
       "name": "v\u00e6ret der for mig",
       "url": "https://open.spotify.com/track/12ad9oFsZSnVnOayNX044w"

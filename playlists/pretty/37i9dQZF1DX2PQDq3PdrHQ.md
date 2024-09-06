@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 
 > Instrumental beats for a restful night's sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,535 likes - 304 songs - 11 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,799 likes - 304 songs - 11 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -149,7 +149,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PQDq3PdrHQ.md) - [plain]
 | 139 | [slow move](https://open.spotify.com/track/3xpUN6eBlBi3P4ZPu7xBBy) | [hinako fukushi](https://open.spotify.com/artist/5glOFLmRNoXs1AC2jGYS6j) | [slow move](https://open.spotify.com/album/05QCXiRLNm7LJF9xp9j2wf) | 2:22 |
 | 140 | [Beautiful Life](https://open.spotify.com/track/5VCLOtscJZjl1lXqLI7KUH) | [Shalaq](https://open.spotify.com/artist/66fej5BLBVa8w437XcLXNL) | [Beautiful Life](https://open.spotify.com/album/27SnLQpv7TE3TRBe5vMxgW) | 2:01 |
 | 141 | [Unaware Kids](https://open.spotify.com/track/2rATTvjwQJaM27lhZ4AazV) | [West Sun](https://open.spotify.com/artist/11bJ0fFdkXZ9KIp85qIAKh) | [Unaware Kids](https://open.spotify.com/album/2vRwLu21g6T1qrRDbHqCio) | 2:34 |
-| 142 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 |
+| 142 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [Shapes](https://open.spotify.com/artist/4gBUA2UNwLWqKFee9VIsEc) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 |
 | 143 | [cardemom](https://open.spotify.com/track/72zJvhH4TtIiLhqf0MLcH0) | [costa rossa](https://open.spotify.com/artist/2X3PPKj7e0xtArhiXP6n1U) | [cardemom](https://open.spotify.com/album/7xdsI2tMfxROavLukCqiRe) | 2:16 |
 | 144 | [in the midst](https://open.spotify.com/track/2VJfrZ5tEhbZosQPCR7Mdu) | [Ali Kaj](https://open.spotify.com/artist/06VNBq9wJN4eEo6ZRM7HGI) | [in the midst](https://open.spotify.com/album/20RpbHkyl7mYIWAXNIqDIM) | 2:58 |
 | 145 | [reflections in water](https://open.spotify.com/track/5ZPeC07wnQMCVJ4FU6tee9) | [sample mode](https://open.spotify.com/artist/2DGAFB9eNsTcy6LSlvbNft), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [reflections in water](https://open.spotify.com/album/2HxJ1HI1Anen7ey9SJWIWI) | 2:20 |

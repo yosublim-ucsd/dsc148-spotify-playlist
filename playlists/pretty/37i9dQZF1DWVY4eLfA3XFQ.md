@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Diplo, Mau P, and Gunna\.  50% techno, 50% house
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,037 likes - 125 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,106 likes - 125 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

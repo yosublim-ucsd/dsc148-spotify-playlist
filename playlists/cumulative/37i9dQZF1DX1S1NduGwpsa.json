@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Samara Joy",
+  "description": "The best jazz new releases. Cover: Aaron Parks",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1440,7 +1440,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 282666,
       "name": "Bonjour Dolly ! (D'apr\u00e8s Dolly Suite Op. 56, Berceuse)",
       "url": "https://open.spotify.com/track/2WPuBGF8SxUhzWvJrmqkdQ"
@@ -5652,7 +5652,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 236890,
       "name": "Ivan",
       "url": "https://open.spotify.com/track/0456iEt4RKO3bmhJbTixcf"
@@ -8651,6 +8651,28 @@
     },
     {
       "album": {
+        "name": "Pluie",
+        "url": "https://open.spotify.com/album/0K3icnpWYXPXChkLBpmiVW"
+      },
+      "artists": [
+        {
+          "name": "Edouard Ferlet",
+          "url": "https://open.spotify.com/artist/5Xk2kN7YHolwzGSrjmx0Ni"
+        },
+        {
+          "name": "Marion Rampal",
+          "url": "https://open.spotify.com/artist/3i8F40UKXQY3JmCIwbuCQD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158156,
+      "name": "Pluie",
+      "url": "https://open.spotify.com/track/2DyPdqW5gT8aqgO0PgQOi9"
+    },
+    {
+      "album": {
         "name": "Plus Fort Que Nous",
         "url": "https://open.spotify.com/album/5b3U4t8eiOoLiBlqGZ2Zwf"
       },
@@ -9208,7 +9230,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193546,
       "name": "Secret House",
       "url": "https://open.spotify.com/track/4aVUPEHIzzXsidRgdAf4RW"
@@ -9799,6 +9821,24 @@
     },
     {
       "album": {
+        "name": "Sports",
+        "url": "https://open.spotify.com/album/2MgzrpQ2YqHJm2qegQy40F"
+      },
+      "artists": [
+        {
+          "name": "Aaron Parks",
+          "url": "https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351226,
+      "name": "Sports",
+      "url": "https://open.spotify.com/track/3rm5SyIyyYMkDsQwKLTGtx"
+    },
+    {
+      "album": {
         "name": "Step out",
         "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
       },
@@ -10158,6 +10198,24 @@
       "duration_ms": 189542,
       "name": "Taboo",
       "url": "https://open.spotify.com/track/00DVBKks7yF8Mii6DSiO9g"
+    },
+    {
+      "album": {
+        "name": "Take It Higher",
+        "url": "https://open.spotify.com/album/1v39mabJGNjblUNcqcwL0M"
+      },
+      "artists": [
+        {
+          "name": "Ashley Henry",
+          "url": "https://open.spotify.com/artist/64bpQRbx4Nw2r7oIg1SAzw"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255234,
+      "name": "Take It Higher",
+      "url": "https://open.spotify.com/track/6LwlCtA2lARQe2Atz6v6Ly"
     },
     {
       "album": {

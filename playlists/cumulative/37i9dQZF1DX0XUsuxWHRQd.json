@@ -41055,6 +41055,28 @@
     },
     {
       "album": {
+        "name": "I LOVE MAKONNEN",
+        "url": "https://open.spotify.com/album/4gyGykGf5e2iGiSeVNDAyW"
+      },
+      "artists": [
+        {
+          "name": "ILOVEMAKONNEN",
+          "url": "https://open.spotify.com/artist/3aGFCoR8xGN6DKwvdzeSja"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321987,
+      "name": "Tuesday (feat. Drake)",
+      "url": "https://open.spotify.com/track/35rSpXB5bk9ega9jsjcRts"
+    },
+    {
+      "album": {
         "name": "BETTER THAN YOU",
         "url": "https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3"
       },

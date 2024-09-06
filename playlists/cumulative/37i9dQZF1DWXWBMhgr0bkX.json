@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Your future favourite pop stars, fresh for the UK. Cover: \u00c1ine Deane",
+  "description": "Your future favourite pop stars, fresh for the UK. Cover: Humble The Great",
   "name": "New Pop UK",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 214680,
       "name": "All of a Sudden",
       "url": "https://open.spotify.com/track/5hBiUf48QNbdNCsiQRxPlY"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 243213,
       "name": "Before My Eyes",
       "url": "https://open.spotify.com/track/5SSYJZtlpKoffUxhrbLsGV"
@@ -254,6 +254,24 @@
       "duration_ms": 252703,
       "name": "BT45",
       "url": "https://open.spotify.com/track/0r30NQF5cjXjTrxIw1f4Iw"
+    },
+    {
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/3w2zVPreJDG8CtnPJJw84R"
+      },
+      "artists": [
+        {
+          "name": "KYLA BELLE",
+          "url": "https://open.spotify.com/artist/7GioxrqkD4rSturxZiObW3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124000,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/5nL9S4gMy7YgcZ4D1y9LKE"
     },
     {
       "album": {
@@ -376,7 +394,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165198,
       "name": "Daydreams",
       "url": "https://open.spotify.com/track/1Zd1rB7gPvaIhtJmorOUgU"
@@ -394,7 +412,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 122000,
       "name": "Death of the Party",
       "url": "https://open.spotify.com/track/0SqMmcSIHxx1T4Dy4JDQTP"
@@ -491,6 +509,24 @@
     },
     {
       "album": {
+        "name": "everything that lacks in me",
+        "url": "https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153609,
+      "name": "everything that lacks in me",
+      "url": "https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK"
+    },
+    {
+      "album": {
         "name": "Fail",
         "url": "https://open.spotify.com/album/6EPz1cdBFPdjoXKdczgdbY"
       },
@@ -578,6 +614,24 @@
       "duration_ms": 164034,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1kFEvhWfwYP5Ct75HuETBv"
+    },
+    {
+      "album": {
+        "name": "Ghost Town",
+        "url": "https://open.spotify.com/album/0wSeMLx1GYnWaznBhcAZq9"
+      },
+      "artists": [
+        {
+          "name": "Tilly Valentine",
+          "url": "https://open.spotify.com/artist/26xnf09CoXKte8d2MSOCSP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168889,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/4OgLQctGaqePQNdXJbBIoT"
     },
     {
       "album": {
@@ -743,6 +797,24 @@
     },
     {
       "album": {
+        "name": "I Cried, I Wept",
+        "url": "https://open.spotify.com/album/09N8Dm5XaBbssMo7VZmUuA"
+      },
+      "artists": [
+        {
+          "name": "Kingfishr",
+          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211000,
+      "name": "I Cried, I Wept",
+      "url": "https://open.spotify.com/track/7Dm6GMcGw8g4ULinTQbwlG"
+    },
+    {
+      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -884,6 +956,24 @@
       "duration_ms": 284068,
       "name": "Messy",
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1"
+      },
+      "artists": [
+        {
+          "name": "Abigail Liddle",
+          "url": "https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW"
     },
     {
       "album": {
@@ -1226,7 +1316,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 222000,
       "name": "Teenage Kinda Love",
       "url": "https://open.spotify.com/track/4gXjYIj0CNWCrzjUeHS3k3"

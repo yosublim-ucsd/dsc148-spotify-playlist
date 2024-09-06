@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 107368,
       "name": "+7(952)812",
       "url": "https://open.spotify.com/track/74JfQsOBIs7z4y6jDrbDmh"
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 378600,
       "name": "3-\u0435 \u0441\u0435\u043d\u0442\u044f\u0431\u0440\u044f",
       "url": "https://open.spotify.com/track/13JjbD8SXv6tljUOfrwvKP"
@@ -1878,7 +1878,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 179560,
       "name": "Rainy Days",
       "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
@@ -3110,7 +3110,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 144000,
       "name": "\u0412\u0441\u0435 \u0445\u043e\u0442\u044f\u0442 \u043c\u0435\u043d\u044f \u043f\u043e\u0446\u0435\u043b\u043e\u0432\u0430\u0442\u044c",
       "url": "https://open.spotify.com/track/0rqe1Pt1EGu0VDAqPupREU"
@@ -3360,6 +3360,28 @@
       "duration_ms": 187971,
       "name": "\u0414\u043e \u0441\u043a\u043e\u0440\u044b\u0445 \u0432\u0441\u0442\u0440\u0435\u0447",
       "url": "https://open.spotify.com/track/36ocjwXRcwzf4W8atfWmR5"
+    },
+    {
+      "album": {
+        "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
+        "url": "https://open.spotify.com/album/2BzlnRShyxnyPh5Dp9uEeT"
+      },
+      "artists": [
+        {
+          "name": "Poshlaya Molly",
+          "url": "https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2"
+        },
+        {
+          "name": "Eldzhey",
+          "url": "https://open.spotify.com/artist/0Cm90jv892OeEegB3ELmvN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174842,
+      "name": "\u0414\u043e\u043c \u041f\u0435\u0440\u0438\u043d\u044c\u043e\u043d",
+      "url": "https://open.spotify.com/track/0i8YObgqnjZYoYJOQbwLHq"
     },
     {
       "album": {
@@ -5864,7 +5886,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 279250,
       "name": "\u042d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c",
       "url": "https://open.spotify.com/track/1P9oRiZJWnxe2pZmYUZ5eC"

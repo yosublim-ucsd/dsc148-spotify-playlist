@@ -1,6 +1,6 @@
 {
   "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: WUKONG",
-  "num_followers": 202181,
+  "num_followers": 202194,
   "original_name": "Electro Mix",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "ZtCbAAAAAAD+UeeN37QXvs0mmF119DpV",
   "tracks": [
+    {
+      "added_at": "2024-08-29 16:00:00",
+      "album": {
+        "name": "Never Going Home Tonight (feat. Madison Love)",
+        "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Madison Love",
+          "url": "https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ"
+        }
+      ],
+      "duration_ms": 164285,
+      "name": "Never Going Home Tonight (feat. Madison Love)",
+      "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
     {
       "added_at": "2024-08-29 16:00:00",
       "album": {

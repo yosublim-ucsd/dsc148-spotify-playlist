@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-546 songs - 1 day 3 hr 35 min
+547 songs - 1 day 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Dancing in the sky](https://open.spotify.com/track/2JuWcnU7ifoIaIzQXNH6hk) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Dancing in the sky](https://open.spotify.com/album/2L8ds3AKfmgpyrB8Z584PM) | 2:34 | 2023-02-23 | 2023-04-12 |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-04 | 2023-06-13 |
+| [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [Luna](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 | 2024-09-05 |  |
 | [De Leven](https://open.spotify.com/track/0NxfpRR1pmtGC9J61iHIIc) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Leven](https://open.spotify.com/album/7BN14z7CoTNeKKGniRFVGf) | 2:41 | 2023-11-08 | 2024-03-14 |
 | [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-08-07 | 2024-01-07 |
 | [DNA](https://open.spotify.com/track/7omACbUaNfQohJbydBWiw3) | [EINDHOVEN'S FINEST](https://open.spotify.com/artist/2PXu5HFtDJEvWK4T6bszxr), [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [Lirical](https://open.spotify.com/artist/2H0j2bWQRjJWzcGIjnl7nX), [Sandersville](https://open.spotify.com/artist/4PwNo9ExQ9lVXrYMoJLh7A) | [DNA](https://open.spotify.com/album/5n9MkK07sdjgqgLwNApZ3z) | 2:51 | 2024-04-16 | 2024-07-04 |

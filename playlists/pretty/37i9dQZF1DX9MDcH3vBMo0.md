@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 
 > Una bella banda sonora que acompañará tu tiempo de lectura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,551 likes - 231 songs - 10 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,823 likes - 231 songs - 10 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -231,9 +231,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MDcH3vBMo0.md) - [plain]
 | 221 | [Moon Song](https://open.spotify.com/track/2QBAV31pJ1kQZBQvNERwKZ) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Moon Song](https://open.spotify.com/album/343jSnwo27lTQx4VIEuUxA) | 2:32 |
 | 222 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
 | 223 | [Serene](https://open.spotify.com/track/3dwdsOZ2lvnEfsIwK9hyBX) | [Isobel Watkins](https://open.spotify.com/artist/7q33Rk7eAyVKYNQ8e1yNeq) | [Serene](https://open.spotify.com/album/2RPnCQxP5HRG8u0Avw9b6S) | 2:59 |
-| 224 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 |
-| 225 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 |
-| 226 | [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 |
+| 224 | [Unique New York](https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT) | [Peiskos](https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd) | [Unique New York](https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m) | 3:03 |
+| 225 | [Serenade](https://open.spotify.com/track/0xczKUSyVIfX9rekmTBkbv) | [Ivan Blois](https://open.spotify.com/artist/4dH20BbKaKVPBfwfmvUfZp) | [Serenade](https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M) | 2:25 |
+| 226 | [Waltz 21](https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R) | [Andreas Ihlebæk](https://open.spotify.com/artist/2FikjOw5WWNEpKxsmU6Ye0), [Rasmus H Thomsen](https://open.spotify.com/artist/42jjk371b9jW9zsmrMls10) | [Waltz 21](https://open.spotify.com/album/6GwiUbUZOZoz96kWpDligN) | 2:24 |
 | 227 | [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 |
 | 228 | [Eternal Sunshine](https://open.spotify.com/track/73VevVSRPsGB4FFIasDEB2) | [Jean Lucas](https://open.spotify.com/artist/43nGYUDNoXAdaOc7sOI7SJ) | [Eternal Sunshine](https://open.spotify.com/album/5TvrJAZpjUqTATvZXDxCFr) | 2:27 |
 | 229 | [Why Talk](https://open.spotify.com/track/1M8F8Wav4lOZstOtFxGo56) | [Zeppi](https://open.spotify.com/artist/1s7kBMoO84Vhl5aYQx4LOO), [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Why Talk](https://open.spotify.com/album/3itSrZTR8a8kwhM7EoyRBu) | 2:34 |

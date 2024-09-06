@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-733 songs - 2 day 0 hr 1 min
+734 songs - 2 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,6 +609,7 @@
 | [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 | 2023-09-17 |  |
 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 | 2024-02-24 | 2024-03-09 |
 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 | 2024-03-13 |  |
+| [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-06 |  |
 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2023-06-28 | 2023-07-05 |
 | [Teeth Like God's Shoeshine](https://open.spotify.com/track/5aUn8l6MaYrh9yNBzrLEBF) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [The Lonesome Crowded West](https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj) | 6:53 | 2022-09-20 |  |
 | [Tekka](https://open.spotify.com/track/4JDdbnKobkyn7j2o76D1mV) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [Velocity: Design: Comfort.](https://open.spotify.com/album/0eUUQ4rly8Q8PyJPWLgde2) | 3:08 | 2023-01-07 |  |

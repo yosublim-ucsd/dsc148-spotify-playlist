@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest alternative rock songs through the decades\. Cover: Phoenix
 
-[Spotify](https://open.spotify.com/user/spotify) - 748,676 likes - 200 songs - 13 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 748,820 likes - 200 songs - 13 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,10 +190,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 | 180 | [All The Small Things](https://open.spotify.com/track/7yCPwWs66K8Ba5lFuU2bcx) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/5qt11cWjSs5Gbqj2Wyfu38) | 2:48 |
 | 181 | [Icky Thump](https://open.spotify.com/track/09QZAEmdbq28OaNyqTOEvY) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/1Mu6HgmdfdiQTOZ8mPEyFU) | 4:14 |
 | 182 | [Cannonball](https://open.spotify.com/track/2hjGuRIEfEGzQ5MEWLowiU) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/4fyJ3cuyKlSMSw9Q5SAiEx) | 3:33 |
-| 183 | [House Of Cards](https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:28 |
+| 183 | [Don't Look Back In Anger \(Remastered\)](https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:49 |
 | 184 | [House Of Jealous Lovers](https://open.spotify.com/track/0MrkkxbgfHfbxrTg12oHd4) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 5:04 |
-| 185 | [Don't Look Back In Anger \(Remastered\)](https://open.spotify.com/track/7CVYxHq1L0Z4G84jTDS6Jl) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Edition\) \[Remastered\]](https://open.spotify.com/album/6ozp33PI3p9AdddB6ZL3xQ) | 4:49 |
-| 186 | [Unbelievers](https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 3:22 |
+| 185 | [Unbelievers](https://open.spotify.com/track/7psPPGwhFzP3pyOcb3ivcT) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Modern Vampires of the City](https://open.spotify.com/album/2Qi2SySN2ePZwMLDSv9Krn) | 3:22 |
+| 186 | [House Of Cards](https://open.spotify.com/track/3Jc6X15OZCCyhGSHBF4hwB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [In Rainbows](https://open.spotify.com/album/7eyQXxuf2nGj9d2367Gi5f) | 5:28 |
 | 187 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
 | 188 | [The Middle](https://open.spotify.com/track/3mcG2NI5G5vhrQtRda1YnA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2ZuFyQ3E5n1L0VA9iyH0YV) | 2:48 |
 | 189 | [Obstacle 1](https://open.spotify.com/track/7wvtiQ3o8ELEmk2NjSSPpX) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights: The Tenth Anniversary Edition \(Remastered\)](https://open.spotify.com/album/0YOTy70NrfSFvKAbzLY9GF) | 4:11 |

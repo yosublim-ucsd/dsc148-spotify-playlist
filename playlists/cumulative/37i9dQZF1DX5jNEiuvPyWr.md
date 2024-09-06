@@ -2,7 +2,7 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : Zamdane
+> Le meilleur du rap français version cloud\. Photo : So La Lune
 
 418 songs - 20 hr 28 min
 

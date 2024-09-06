@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "Admentik",
+        "url": "https://open.spotify.com/album/0paz1ms5cAX0ZqOim3tJKi"
+      },
+      "artists": [
+        {
+          "name": "Sultan Al Murshed",
+          "url": "https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258696,
+      "name": "Admentik",
+      "url": "https://open.spotify.com/track/7mY9OBHRc2m2eViCN4dTR1"
+    },
+    {
+      "album": {
         "name": "Aezerouni",
         "url": "https://open.spotify.com/album/0qdcpe5wD6AP9bkGm5VF0I"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 253462,
       "name": "Al Sayda Al Oula",
       "url": "https://open.spotify.com/track/5zGk9jf74600Cy1RzvJp3M"
@@ -918,6 +936,24 @@
       "duration_ms": 232848,
       "name": "Ana Malathak",
       "url": "https://open.spotify.com/track/7DgjgPW8yxcqJ9YXNP5VxR"
+    },
+    {
+      "album": {
+        "name": "Ana Mawjoud",
+        "url": "https://open.spotify.com/album/3RkXdZFfg2OuhuY9NGzHO3"
+      },
+      "artists": [
+        {
+          "name": "Fahad Al Kubaisi",
+          "url": "https://open.spotify.com/artist/6rBbNvUdaLTfN5ynPdHdhJ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302107,
+      "name": "Ana Mawjoud",
+      "url": "https://open.spotify.com/track/2mwRZnhBHSuUhQdrJN4D8P"
     },
     {
       "album": {
@@ -1556,7 +1592,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210410,
       "name": "Einy Aalehom",
       "url": "https://open.spotify.com/track/2hi4t9aTdbdnV3bmTqPnuo"
@@ -2691,6 +2727,24 @@
     },
     {
       "album": {
+        "name": "Khat Ahmar",
+        "url": "https://open.spotify.com/album/1JwCrg5ygj6Zlsydwb5Hta"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300462,
+      "name": "Khat Ahmar",
+      "url": "https://open.spotify.com/track/7yixIHQyuM0sir2UTLVFNh"
+    },
+    {
+      "album": {
         "name": "Khatftni",
         "url": "https://open.spotify.com/album/3wxQX2Gzc7oh5AlziRmRRa"
       },
@@ -2742,6 +2796,24 @@
       "duration_ms": 253676,
       "name": "Kheira",
       "url": "https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS"
+    },
+    {
+      "album": {
+        "name": "Kif Ansa",
+        "url": "https://open.spotify.com/album/04y8i682SQUEEwIi4Yqft3"
+      },
+      "artists": [
+        {
+          "name": "Rashed Al-Majed",
+          "url": "https://open.spotify.com/artist/3bAY4XYwWCUNpuXclgudSX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288909,
+      "name": "Kif Ansa",
+      "url": "https://open.spotify.com/track/3RR66lZhoGeghO8CHr3SXV"
     },
     {
       "album": {
@@ -5462,7 +5534,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 186911,
       "name": "\u0627\u0644\u0641 \u0634\u0643\u0631\u0627\u064b",
       "url": "https://open.spotify.com/track/1ZADeCy8PdRpyWTp4o6UAz"
@@ -5678,7 +5750,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 190511,
       "name": "\u062f\u0631\u0639\u064a\u0629 \u0627\u0644\u0639\u0632",
       "url": "https://open.spotify.com/track/5zVEy651bxerXBDB6Y93Vk"

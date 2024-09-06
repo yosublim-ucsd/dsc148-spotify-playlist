@@ -909,6 +909,24 @@
     },
     {
       "album": {
+        "name": "Problemas Mentales",
+        "url": "https://open.spotify.com/album/2JV7M938XpePJOEUftFeBL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Problemas Mentales",
+      "url": "https://open.spotify.com/track/56X29F9THJqhofWefcdvRk"
+    },
+    {
+      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },

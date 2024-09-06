@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn?si=NnXR8s_CRSCABVrL54iQVw\">Lowfeye</a>",
+  "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D?si=GmoC5sAwTQCbLZF9ErnmDw\">Blue Pappi</a>",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -1394,7 +1394,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 126942,
       "name": "BABY JACKSON",
       "url": "https://open.spotify.com/track/6Y7t0IzxHdPAIbEVssTW6V"
@@ -4953,6 +4953,24 @@
     },
     {
       "album": {
+        "name": "Fool Me Once",
+        "url": "https://open.spotify.com/album/4gGU03u8caW7e173y55ti4"
+      },
+      "artists": [
+        {
+          "name": "Just Jabba",
+          "url": "https://open.spotify.com/artist/0amT7Na5hQmFkS70QyITxE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Fool Me Once",
+      "url": "https://open.spotify.com/track/7cQxeDA9TrT2cH3g8QTGOZ"
+    },
+    {
+      "album": {
         "name": "The Burning Tree",
         "url": "https://open.spotify.com/album/0NnJ99VCcTCuKBB2PUpdp2"
       },
@@ -7128,6 +7146,24 @@
       "duration_ms": 197333,
       "name": "Incomplete",
       "url": "https://open.spotify.com/track/2zhCM6EhSYhIYYYxfqyXic"
+    },
+    {
+      "album": {
+        "name": "Ingozi Freestyle",
+        "url": "https://open.spotify.com/album/1SD4Faks1fL7QQ5j3QuvTd"
+      },
+      "artists": [
+        {
+          "name": "Sonwabile",
+          "url": "https://open.spotify.com/artist/10nJhya28FQvYO31jFYZry"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74302,
+      "name": "Ingozi Freestyle",
+      "url": "https://open.spotify.com/track/6j7OCM9b1OXonvozfrZG5k"
     },
     {
       "album": {
@@ -9762,7 +9798,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 189621,
       "name": "Mo Strateng",
       "url": "https://open.spotify.com/track/5wTPz2HImRPCSMCCepK0gB"
@@ -10084,6 +10120,40 @@
       "duration_ms": 154285,
       "name": "Mud",
       "url": "https://open.spotify.com/track/5GWqKTUOOFf7jH0T8GOsfP"
+    },
+    {
+      "album": {
+        "name": "Mud",
+        "url": "https://open.spotify.com/album/6rLGhiSDi2NozXz6L01kjp"
+      },
+      "artists": [
+        {
+          "name": "ZRi.",
+          "url": "https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N"
+        },
+        {
+          "name": "LaCabra",
+          "url": "https://open.spotify.com/artist/1Ccf9QPY9mcDSSwnlvofIT"
+        },
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        },
+        {
+          "name": "Scarface Panda",
+          "url": "https://open.spotify.com/artist/3jyUAIoIRG8CgEraAM8RWJ"
+        },
+        {
+          "name": "Qwellers",
+          "url": "https://open.spotify.com/artist/6SGJkyMFu3E4RnOpPsMF0R"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228322,
+      "name": "Mud",
+      "url": "https://open.spotify.com/track/2pnpyVc48sLowcV0UPIEco"
     },
     {
       "album": {
@@ -11680,6 +11750,36 @@
       "duration_ms": 101748,
       "name": "Pour Mi",
       "url": "https://open.spotify.com/track/1Cy6StltAMUd48nbIFEZZU"
+    },
+    {
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/4t4AqORfYDyMwZVGDO0Z8V"
+      },
+      "artists": [
+        {
+          "name": "yungseruno",
+          "url": "https://open.spotify.com/artist/5sQfJS73DtZdQlA00Fg5La"
+        },
+        {
+          "name": "Solo Sae",
+          "url": "https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        },
+        {
+          "name": "Saudi",
+          "url": "https://open.spotify.com/artist/37Qsf5KCKljH7mL134xp4k"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202788,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6Pye5o65HC4VwzfHF2hI3L"
     },
     {
       "album": {
@@ -14089,6 +14189,28 @@
     },
     {
       "album": {
+        "name": "Stacks Only (feat. CaseKlowzed)",
+        "url": "https://open.spotify.com/album/1RRvqmy9wBsEKeduWATEXq"
+      },
+      "artists": [
+        {
+          "name": "Sastii",
+          "url": "https://open.spotify.com/artist/32Mj58IRbLXY5O8uj2O0Ml"
+        },
+        {
+          "name": "CaseKlowzed",
+          "url": "https://open.spotify.com/artist/7gVgCsUONh0i70WAvyOlkG"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181032,
+      "name": "Stacks Only (feat. CaseKlowzed)",
+      "url": "https://open.spotify.com/track/5bvdPVsxDxOpghYSi5DdWH"
+    },
+    {
+      "album": {
         "name": "Stalling",
         "url": "https://open.spotify.com/album/0IMyl9QsHEcb5B8PQsgEHG"
       },
@@ -15795,6 +15917,24 @@
     },
     {
       "album": {
+        "name": "Took Me For A Nai",
+        "url": "https://open.spotify.com/album/6vc3D35aDIr4sZFicZ00gf"
+      },
+      "artists": [
+        {
+          "name": "Blue Pappi",
+          "url": "https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133524,
+      "name": "Took Me For A Nai",
+      "url": "https://open.spotify.com/track/6TffFYos6mnj9Os1nTac4m"
+    },
+    {
+      "album": {
         "name": "Smoke Silence III",
         "url": "https://open.spotify.com/album/5HaE4Ewmud3kGB07z9rTbZ"
       },
@@ -16856,6 +16996,24 @@
       "duration_ms": 186900,
       "name": "Walking On Water",
       "url": "https://open.spotify.com/track/7dbSPhiAeHOuPSrGKQOdGc"
+    },
+    {
+      "album": {
+        "name": "Wanita",
+        "url": "https://open.spotify.com/album/6HBJLpS8hJyAxhv5gx0b83"
+      },
+      "artists": [
+        {
+          "name": "Linda Kim",
+          "url": "https://open.spotify.com/artist/3vBbPr7TwJv8jHjxH30bul"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137420,
+      "name": "Wanita",
+      "url": "https://open.spotify.com/track/6awKlZneJTsXjwABSl1L4W"
     },
     {
       "album": {

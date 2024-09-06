@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring BERNARDO\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,265 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,268 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 17 | [Antes de Morir](https://open.spotify.com/track/5TxWg0l0QCjh9srdmIcJRm) | [Mermelada de Pepino](https://open.spotify.com/artist/06yMAeTVaEEbmtmKvN6EAK) | [Antes de Morir](https://open.spotify.com/album/00KfdQcYoPnllkSOT5Elqy) | 3:26 |
 | 18 | [BLESSED](https://open.spotify.com/track/3pMP9qcLMWQ1FEgaqOIvaa) | [GATITAS VEGANAS](https://open.spotify.com/artist/5l7iFbjqZQtvFVzAF9Kv28), [Agus Vivo](https://open.spotify.com/artist/6aULl90kAb6JwNUYjIgUdW), [Ine Maguire](https://open.spotify.com/artist/4qAPGbDVkkSdOGo2OEKFqz), [Chipi Chipi](https://open.spotify.com/artist/08r9ZpucGE4jjArjLmbjfc) | [BLESSED](https://open.spotify.com/album/0ThXnszjIO8XyZwXKdmVXP) | 3:09 |
 | 19 | [Caracoles](https://open.spotify.com/track/3P21jtJ6ljgaPAMeDOECvS) | [Tony Toyán](https://open.spotify.com/artist/2ozZWRkmPDYraMtcrzGzcX) | [Caracoles](https://open.spotify.com/album/0Y0oqgzoaWj04FIDZTw07v) | 3:18 |
-| 20 | [Estar sin ti me quema](https://open.spotify.com/track/2JJJsI8Js2RemEpGpib2UY) | [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF), [Milton McDonald](https://open.spotify.com/artist/0Nydj18tqAJPtKtioy200q) | [Estar sin ti me quema](https://open.spotify.com/album/50tFmTf9GkByhvUbwIzCfg) | 2:39 |
+| 20 | [Estar sin ti me quema](https://open.spotify.com/track/2JJJsI8Js2RemEpGpib2UY) | [Milton McDonald](https://open.spotify.com/artist/0Nydj18tqAJPtKtioy200q), [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF) | [Estar sin ti me quema](https://open.spotify.com/album/50tFmTf9GkByhvUbwIzCfg) | 2:39 |
 | 21 | [Montaña](https://open.spotify.com/track/0uvezRcyGHpeFw1doCRSGw) | [RAMSI](https://open.spotify.com/artist/2yrRZayfrT5J9U7GZ9AYfK) | [Montaña](https://open.spotify.com/album/5MKdiz7q1engXf22GmeXAY) | 1:50 |
 | 22 | [Se Fue](https://open.spotify.com/track/0CLaR87DOI2UG6Z1ZLPXfu) | [Malaka](https://open.spotify.com/artist/2IFT6Pp5gkM7cA6TO48VCD) | [Se Fue](https://open.spotify.com/album/2p0rrlWEeVlND8d4BE1oix) | 3:17 |
 | 23 | [no es lo mismo](https://open.spotify.com/track/21luwIfhSuDwqCoHaJSLB9) | [Aka'Cracker](https://open.spotify.com/artist/43xlHbhpE4ycK2OBCnFSKV), [JPI\-I](https://open.spotify.com/artist/4D3v7GFVsfvAXjKTP4bNRZ) | [IVORY](https://open.spotify.com/album/1B3yKadpIiUOEksvIn4cV6) | 2:20 |

@@ -2,9 +2,9 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Leto au top de la première playlist de rap français.
+> Gambi x Hamza au top de la première playlist de rap français.
 
-270 songs - 13 hr 51 min
+272 songs - 13 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Big Meech](https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY), [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [Big Meech](https://open.spotify.com/album/04XeEmlFNHjXX2UU9s9RHz) | 3:40 | 2022-01-06 | 2022-07-29 |
 | [Bitume](https://open.spotify.com/track/6Bz3XzPurBj5poPqSHXHZB) | [L2B Gang](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [94 bois, Vol\. 2](https://open.spotify.com/album/6WELqgG0dapTfZXNUnOHKC) | 3:12 | 2022-03-17 | 2022-11-04 |
 | [Bolide allemand](https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Liens du 100](https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2) | 2:56 | 2023-02-16 | 2024-02-09 |
+| [Bolide Noir](https://open.spotify.com/track/14DLZ9FaTofhnXBiV38axE) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [JRK 19](https://open.spotify.com/artist/081t7kkrq7re69pk4vTurz) | [Bolide Noir](https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW) | 2:50 | 2024-09-05 |  |
 | [Bonjour](https://open.spotify.com/track/4MAloTk4m4tP1y5gpYYUDw) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bonjour](https://open.spotify.com/album/3sBZDZM9mAEVN9mV3s8yj7) | 2:16 | 2023-08-24 | 2024-02-09 |
 | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/track/6RZ5IuPlCVcXSrnzQ5jsE7) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Bonsoir Paris \(Mama No Cry\)](https://open.spotify.com/album/2nZoEqQ0HREvujxUpQ2Ohn) | 3:38 | 2023-11-09 | 2024-02-23 |
 | [BOOM BOOM](https://open.spotify.com/track/70T34qUA8otqXwxraVSbry) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44), [iDS](https://open.spotify.com/artist/6FIkk8GqVuqCHg2vMKWKqm) | [Memory \(Extended Version\)](https://open.spotify.com/album/0TCb7xCgT5JFTl6LnCJZlY) | 1:54 | 2024-04-18 |  |
@@ -216,7 +217,7 @@
 | [Philly](https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu) | [Zkr](https://open.spotify.com/artist/2yJ6lsLqG06r9bckSTQRt4), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Philly](https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP) | 3:48 | 2023-02-02 | 2023-12-01 |
 | [Pistol & Zamal](https://open.spotify.com/track/62N0lcbpZiLKaly4o0DffQ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Pistol & Zamal](https://open.spotify.com/album/5qzjroW1hyHrxILtShmQwR) | 2:25 | 2023-04-06 | 2023-05-26 |
 | [Platine o Plomo](https://open.spotify.com/track/3q75DDBcn7RfeMxAmTvJ7d) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:37 | 2022-01-06 | 2022-03-25 |
-| [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-13 |  |
+| [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-06-13 | 2024-09-06 |
 | [Préjudice](https://open.spotify.com/track/4QNPtD5yF7sTwoE92n2sSg) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Préjudice](https://open.spotify.com/album/5v5g6wVemrFkJFJDe4S77V) | 2:01 | 2023-10-12 | 2023-11-03 |
 | [Pyramide](https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2IO8Jize9ml8Gpj4HoJFaF) | 3:28 | 2024-02-15 |  |
 | [Périph](https://open.spotify.com/track/0J8Ff1p7vpxBMLnZuAwAUb) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Périph](https://open.spotify.com/album/4ImOyHSUym1ZFnmV3SKXDI) | 2:48 | 2023-12-21 |  |
@@ -234,7 +235,7 @@
 | [RENCONTRE](https://open.spotify.com/track/2toEys3zZ8rRB242Na7FZh) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 3:18 | 2022-03-31 | 2022-09-16 |
 | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/track/6g0sbIAUt7e25MCdnutAc6) | [Gambino La MG](https://open.spotify.com/artist/2xdTZfuOFh2ylOnnTEs5sg), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Reste\-là \(feat\. Tiakola\)](https://open.spotify.com/album/1vqZKCP1o9Ufq7ukp3vF4U) | 2:44 | 2022-04-28 | 2022-12-02 |
 | [Roule un autre \- A COLORS SHOW](https://open.spotify.com/track/7FKZix4pk2qf4SZVMOYich) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Roule un autre \(A COLORS SHOW\)](https://open.spotify.com/album/0ddT6KMNHM7qXZQww6yZWx) | 2:56 | 2023-10-19 | 2024-02-02 |
-| [RR Phantom](https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [RR Phantom](https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY) | 2:32 | 2024-05-02 |  |
+| [RR Phantom](https://open.spotify.com/track/2ZEHv7uVlIJA1fUZNWP1YQ) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [RR Phantom](https://open.spotify.com/album/6biiy3ANhJ4vl57sXa9MxY) | 2:32 | 2024-05-02 | 2024-09-06 |
 | [Sadio \(feat\. Offset\)](https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Sincèrement](https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y) | 2:42 | 2023-02-23 | 2023-10-06 |
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-03-28 |  |
 | [Selfie](https://open.spotify.com/track/3r8VoLB4rSYaCWg6nEZWG8) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Selfie](https://open.spotify.com/album/2QW5d3Iczt0ZzhaSc5I6sI) | 2:36 | 2022-09-29 | 2023-02-17 |
@@ -258,6 +259,7 @@
 | [Tchalla](https://open.spotify.com/track/3cFUv0LpvrvdAMAT2B4zhS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg), [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Tchalla](https://open.spotify.com/album/48WjMsMmHRLQTC2ZXqPwaw) | 3:45 | 2022-01-06 | 2022-05-20 |
 | [Temps en temps](https://open.spotify.com/track/4RJ4yw4211nR1ggAved18G) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Temps en temps](https://open.spotify.com/album/5aD9BWFO8RxAX5yt4RXMUb) | 2:33 | 2024-01-18 |  |
 | [Tennessee](https://open.spotify.com/track/0iR0ZbEw46KtSDSGph0HHE) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tombolo \(Réédition\)](https://open.spotify.com/album/597zMwmxvoBtRDUsOjk54P) | 3:55 | 2022-12-01 | 2023-06-09 |
+| [Tentation \(feat\. Hamza\)](https://open.spotify.com/track/2kpahpZlkZF8I2yFR65CIC) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Tentation \(feat\. Hamza\)](https://open.spotify.com/album/33Cvwo6OSmVMtrEwnvsTdP) | 2:55 | 2024-09-05 |  |
 | [Tout recommencer](https://open.spotify.com/track/1EtlH4DyYlU1X9cAIyVFXB) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Tout recommencer](https://open.spotify.com/album/3QsR7SiN3AFBTKNgjgnhrv) | 2:30 | 2022-01-06 | 2022-04-08 |
 | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u) | [Zola](https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [TOUTE LA JOURNÉE \(feat\. Tiakola\)](https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE) | 2:48 | 2023-02-09 | 2023-10-06 |
 | [Triste mélancolie \(feat\. Josman\)](https://open.spotify.com/track/2Xbeuuuba5orpOWIBlXoKi) | [Lesram](https://open.spotify.com/artist/0UeKDbiaApyP7qKfcmGN03), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Du peu que j'ai eu, Du mieux que j'ai pu](https://open.spotify.com/album/3MfrrJMMFJKkn1HCeelBM7) | 3:25 | 2024-02-01 | 2024-07-27 |

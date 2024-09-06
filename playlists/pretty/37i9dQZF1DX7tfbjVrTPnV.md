@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Shelby Lynne
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,686 likes - 150 songs - 9 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,735 likes - 150 songs - 9 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,9 +143,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 133 | [Tell the Devil I'm Gettin' There as Fast as I Can \(with Lucinda Williams and Eric Church\)](https://open.spotify.com/track/4kFU8iC2NpunvTdDMycgmT) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV), [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Tell the Devil I'm Gettin' There as Fast as I Can \(with Lucinda Williams and Eric Church\)](https://open.spotify.com/album/3QxK0p3lEYTW3MH1v5S8vG) | 5:47 |
 | 134 | [All The Trouble](https://open.spotify.com/track/0cAINnIaczIxISDFHK3ZSI) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF) | 5:41 |
 | 135 | [California \(Cast Iron Soul\)](https://open.spotify.com/track/3y4QaYUb66fCWlP5f9EBNt) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [Utah](https://open.spotify.com/album/3sFyLeLs38eyzBtBnJoHN7) | 5:29 |
-| 136 | [Sweet Lucinda](https://open.spotify.com/track/6HohWRMwZri2QuHUTsIQrM) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3ui6POyBTPABrI3dWF4Ntq) | 2:45 |
-| 137 | [Shaky Ground](https://open.spotify.com/track/5KW5uUDK6N1gFag7jHCTno) | [Malcolm Holcombe](https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ) | [Shaky Ground](https://open.spotify.com/album/489nHVMeojoG3Tc3YVSFUq) | 3:35 |
-| 138 | [Something Has to Change](https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Something Has to Change](https://open.spotify.com/album/77JgPh5gVcNbovCdiQCKQo) | 4:01 |
+| 136 | [Shaky Ground](https://open.spotify.com/track/5KW5uUDK6N1gFag7jHCTno) | [Malcolm Holcombe](https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ) | [Shaky Ground](https://open.spotify.com/album/489nHVMeojoG3Tc3YVSFUq) | 3:35 |
+| 137 | [Something Has to Change](https://open.spotify.com/track/3UYk55HdmtGfWQMggK5ie4) | [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Something Has to Change](https://open.spotify.com/album/77JgPh5gVcNbovCdiQCKQo) | 4:01 |
+| 138 | [Sweet Lucinda](https://open.spotify.com/track/6HohWRMwZri2QuHUTsIQrM) | [Gibson Brothers](https://open.spotify.com/artist/5a1u9fulLhPXwEWkrxmzEV) | [Mockingbird](https://open.spotify.com/album/3ui6POyBTPABrI3dWF4Ntq) | 2:45 |
 | 139 | [Lungs](https://open.spotify.com/track/1p3ZBdx6XCXZEu7OoO0zW2) | [Townes Van Zandt](https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof) | [Live at the Old Quarter](https://open.spotify.com/album/2drUynocyGveMTFheprmJy) | 2:34 |
 | 140 | [Gentle on My Mind](https://open.spotify.com/track/4cqj2eiCHxpyf80ePDrcgs) | [Billy Bragg](https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO), [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Gentle On My Mind](https://open.spotify.com/album/7f4JdFYRCcPLVwBwxleQMW) | 3:39 |
 | 141 | [House of the White Rose Bouquet](https://open.spotify.com/track/2vfmwwTDwEDCaZuss6TzXn) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0) | [House of the White Rose Bouquet](https://open.spotify.com/album/7tGQLHItk2nXOE6fOgSIHb) | 3:23 |

@@ -444,7 +444,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173333,
       "name": "Booty Pop",
       "url": "https://open.spotify.com/track/3IlA4U5Vca1pF6mutpcLUw"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150559,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/6h9Ff5LGaS2h0G3iB5jim6"
@@ -2945,6 +2945,28 @@
     },
     {
       "album": {
+        "name": "Paper Boats",
+        "url": "https://open.spotify.com/album/49R4RBVBH4sktSSTO5Fg1u"
+      },
+      "artists": [
+        {
+          "name": "ZAC",
+          "url": "https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv"
+        },
+        {
+          "name": "Riascode",
+          "url": "https://open.spotify.com/artist/6sKceWIUPv10lfblPrUQDM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255375,
+      "name": "Paper Boats",
+      "url": "https://open.spotify.com/track/66EaDuPoCEvvz8GBn1bXL9"
+    },
+    {
+      "album": {
         "name": "Party Crashers",
         "url": "https://open.spotify.com/album/3LLtXVH3HDyBIOBQ1SKl6l"
       },
@@ -4448,6 +4470,24 @@
       "duration_ms": 170859,
       "name": "You Can\u2019t Change Me (feat. Raye)",
       "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+    },
+    {
+      "album": {
+        "name": "You Say",
+        "url": "https://open.spotify.com/album/0ztZhtP4gdenC5ZtWWUp7g"
+      },
+      "artists": [
+        {
+          "name": "Meca",
+          "url": "https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/0xQCD0NlztHLkMl4PHkaJL"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXd14ByHZraz1"

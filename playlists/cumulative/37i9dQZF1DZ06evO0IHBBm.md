@@ -2,7 +2,7 @@
 
 ### [This Is Damares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IHBBm)
 
-> This is Damares\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is: Damares\. Alle wichtigen Tracks in einer Playlist.
 
 59 songs - 5 hr 23 min
 

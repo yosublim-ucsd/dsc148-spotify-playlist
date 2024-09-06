@@ -1,6 +1,6 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 120197,
+  "num_followers": 120259,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
@@ -1939,26 +1939,6 @@
     {
       "added_at": "2024-08-19 19:01:43",
       "album": {
-        "name": "Sexto Sentido",
-        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Y La Exce",
-          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "Sexto Sentido (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
-    },
-    {
-      "added_at": "2024-08-19 19:01:43",
-      "album": {
         "name": "Flow Cabron",
         "url": "https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK"
       },
@@ -1975,6 +1955,26 @@
       "duration_ms": 226371,
       "name": "Flow Cabron",
       "url": "https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH"
+    },
+    {
+      "added_at": "2024-08-19 19:01:43",
+      "album": {
+        "name": "Sexto Sentido",
+        "url": "https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Y La Exce",
+          "url": "https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 227220,
+      "name": "Sexto Sentido (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY"
     },
     {
       "added_at": "2024-08-19 19:01:43",

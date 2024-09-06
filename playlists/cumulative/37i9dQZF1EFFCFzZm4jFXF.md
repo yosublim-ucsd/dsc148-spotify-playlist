@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-103 songs - 5 hr 46 min
+104 songs - 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Circus](https://open.spotify.com/track/62bw5Ul7YeOXsQHq7HmT56) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Play Dead](https://open.spotify.com/album/3iOOZ1PJx2CEl7snAAW6W6) | 3:30 | 2024-06-13 |  |
 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 | 2024-06-13 |  |
 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 | 2024-06-13 |  |
+| [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 | 2024-09-05 |  |
 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 | 2024-06-13 |  |
 | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/track/5cD20nkndQ7iRkoidzZCpc) | [Breathe Carolina](https://open.spotify.com/artist/53M4Iv2RkzzxFFvW2B1jhC), [SMBDY](https://open.spotify.com/artist/3EVIvUOdQq6byU8fIljO2e) | [Crossfire \(feat\. SMBDY\)](https://open.spotify.com/album/3eaRXUyq7GADlgdkST47de) | 3:36 | 2024-06-13 |  |
 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 | 2024-06-13 |  |

@@ -2299,6 +2299,28 @@
     },
     {
       "album": {
+        "name": "\u5531LP",
+        "url": "https://open.spotify.com/album/4aXd5rEWxs2GToz0fbfS4K"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        },
+        {
+          "name": "TeddyLoid",
+          "url": "https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228133,
+      "name": "\u5531 - TeddyLoid Remix",
+      "url": "https://open.spotify.com/track/0By5ouDlxfawqv0CX8SPQB"
+    },
+    {
+      "album": {
         "name": "\u72c2\u8a00",
         "url": "https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P"
       },

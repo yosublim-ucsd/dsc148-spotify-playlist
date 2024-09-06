@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: MENDEZ, Soarito
 
-636 songs - 1 day 9 hr 53 min
+637 songs - 1 day 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Incondicional](https://open.spotify.com/track/6lPmN0eGKHfOBWtg1j3POy) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Teo No Beat](https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2) | [Incondicional](https://open.spotify.com/album/2P0qrKBUGVHvzvZLcParmC) | 3:25 | 2023-11-17 | 2023-12-15 |
 | [Interfeer](https://open.spotify.com/track/0Sc0LtMt22xo48C8YiojYk) | [Chá Black](https://open.spotify.com/artist/3tiL6mQyAaxxHVa8lMudaI), [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a), [MasterPiece](https://open.spotify.com/artist/2A4Hd66juilvQXfb8JQe0L) | [Interfeer](https://open.spotify.com/album/20HDAlAV4WyhRQ8JmgwwvB) | 3:42 | 2023-09-14 | 2023-10-06 |
 | [INÍCIO](https://open.spotify.com/track/0pWS7S3UEkh2zGcNyB2p28) | [ZARCO](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [INÍCIO](https://open.spotify.com/album/2cYblQu0jTbi8qv71eaoBD) | 3:25 | 2024-04-18 | 2024-07-23 |
-| [jingle.tm \- remix](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 | 2024-04-25 |  |
+| [jingle.tm \- remix](https://open.spotify.com/track/4mXY3BEmpSxceP5bsT9JI5) | [PTM](https://open.spotify.com/artist/0wqRH0NmahVaDoeCXRlEuP), [LON3R JOHNY](https://open.spotify.com/artist/1fV7Au7ymGP3uhDV1TfjSd), [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP), [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [jingle.tm](https://open.spotify.com/album/5TTL9OOjczMupeEm3u2yM4) | 3:02 | 2024-04-25 | 2024-09-06 |
 | [Jorge Mundo](https://open.spotify.com/track/249u6O2uBVavumgxEpQyWN) | [Reyz](https://open.spotify.com/artist/17NgBeR3LCYGxecmH0PTOl) | [Jorge Mundo](https://open.spotify.com/album/2jtgdgFSqKMJX2AuBIXnYA) | 3:27 | 2022-08-18 | 2022-09-02 |
 | [Jura](https://open.spotify.com/track/23GXQ3JzXWx72SM6eZP1B8) | [Jimmy P](https://open.spotify.com/artist/0Odg6UKDVyJQruefzF19FU) | [Jura](https://open.spotify.com/album/7ckkZsKrcK4fegh5MhbDif) | 2:52 | 2023-08-03 | 2023-09-15 |
 | [Juro](https://open.spotify.com/track/3gqQ3IwW18Sc1QqvjLtPO6) | [Neko’Rs](https://open.spotify.com/artist/4zx51r3gseQXjy8yEs20ee) | [Juro](https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP) | 3:31 | 2024-03-08 | 2024-06-08 |
@@ -381,6 +381,7 @@
 | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/track/4fDWhaNWTNHGI0SGsm9tvF) | [Karma](https://open.spotify.com/artist/4dy4hTb8rfqlxr4s2m6YJq), [Agir](https://open.spotify.com/artist/6CDebPALpa0iwJyx0IgnaC) | [NA NA NA \(feat\. Agir\)](https://open.spotify.com/album/4rG2ahHCoc3BW4OSn4nCFS) | 3:07 | 2022-09-16 | 2022-09-26 |
 | [Nada a Esconder](https://open.spotify.com/track/0JrBOhbstid47iGfPIdwwi) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/2mkZBhS9I5hcZfCw8ShfM3) | 3:38 | 2023-03-17 | 2024-04-19 |
 | [Nada a Esconder](https://open.spotify.com/track/6MrbmTRF9s1GF2ONK5tXzX) | [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [Nada a Esconder](https://open.spotify.com/album/3Xr91r7bFgPNZcdgoJEtuj) | 3:38 | 2022-07-07 | 2024-04-20 |
+| [NADA DE NOVO](https://open.spotify.com/track/4O1Uk0lAty6YBmrAdmYk2A) | [Kyle Quest](https://open.spotify.com/artist/6tEYbq0qUZoQwzmCjMtFHC) | [NADA DE NOVO](https://open.spotify.com/album/6qzOOim4Cn6gYlOtNCxeBU) | 2:44 | 2024-09-05 |  |
 | [Naufrágio](https://open.spotify.com/track/3B1Dx1Aw35feOLmZXuGf7t) | [Rikas](https://open.spotify.com/artist/4Vfwk2pzV3ppLQ93PtT54a) | [Naufrágio](https://open.spotify.com/album/02LpaXLNwr4dcPDYMXl131) | 2:14 | 2022-10-27 | 2022-11-18 |
 | [Nazaré](https://open.spotify.com/track/1egCduaKZy7kiJiAtozeGz) | [P.L.E.N.A](https://open.spotify.com/artist/3yhNvnt2mdwKiuJTvlVNtF) | [Nazaré](https://open.spotify.com/album/6OmfdNi5uveoVGPtWZ2fv7) | 1:54 | 2023-11-17 | 2023-12-09 |
 | [Neblina](https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto) | [Trista](https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw) | [Neblina](https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw) | 3:23 | 2024-02-16 | 2024-06-21 |

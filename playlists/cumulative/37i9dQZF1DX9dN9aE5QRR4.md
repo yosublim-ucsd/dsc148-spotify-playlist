@@ -2,9 +2,9 @@
 
 ### [Nouvelle École](https://open.spotify.com/playlist/37i9dQZF1DX9dN9aE5QRR4)
 
-> La playlist officielle de l'émission Nouvelle École Saison 3, disponible sur Netflix.
+> La playlist officielle de l'émission Nouvelle École, disponible sur Netflix.
 
-98 songs - 4 hr 35 min
+103 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Champs\-Élysées](https://open.spotify.com/track/3GA0XILGuMHjTTGcQtP7lu) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [A7](https://open.spotify.com/album/2VlYazP0xKrO9BxKe9wTZ4) | 3:45 | 2024-07-04 |  |
 | [Chaud – Nouvelle école](https://open.spotify.com/track/4Vb1ztihzCqdC7szS4JHxs) | [LEDOS](https://open.spotify.com/artist/3YWUSYVX6bCnVZBaXEUwbH) | [Chaud – Nouvelle école](https://open.spotify.com/album/1B6E8tfhye3fskhTbEWNBh) | 2:45 | 2023-05-31 | 2024-07-05 |
 | [Chop \(Nouvelle École\)](https://open.spotify.com/track/0wLG5McOPyKtqBFv8zQVoI) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X) | [Chop \(Nouvelle École\)](https://open.spotify.com/album/6G4SQQQtJfwqo0J4fMX7l1) | 3:15 | 2024-07-18 |  |
+| [Cohiba \- Nouvelle École \- Bonus Track](https://open.spotify.com/track/1JKbf55em8QbWLudWDNfUJ) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi) | [Nouvelle École \| Saison 3 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP) | 1:59 | 2024-09-05 |  |
 | [Come On](https://open.spotify.com/track/557X9hpi0tWsrCeD1yneDe) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/7MMUOLZJ2g9ph19pplEkSy) | 2:28 | 2023-05-31 | 2024-07-05 |
 | [Come On](https://open.spotify.com/track/6R6acFTljyYK1sww9BIcOo) | [ELSO](https://open.spotify.com/artist/4W1lopkH4sNXzwfiUvST3P) | [Come On](https://open.spotify.com/album/4TVGVePfkd6hndEEAQqfTU) | 2:28 | 2023-05-31 | 2024-04-19 |
 | [Coucou](https://open.spotify.com/track/3kiTnvHHKipoAwa40GTGGy) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA) | [Jour avant caviar](https://open.spotify.com/album/4PX1ZZFjRIhHG57nRSP4mF) | 2:41 | 2023-05-31 | 2024-07-05 |
@@ -51,6 +52,8 @@
 | [ELLA Y YO](https://open.spotify.com/track/70yKcPk3HV4jl4l5C41DKB) | [La Valentina](https://open.spotify.com/artist/6YpiZGhMwYRH8tXhPdBjVq), [Tonio 8cho](https://open.spotify.com/artist/4BbPpshNwDO8yZUOGuzqdX) | [ELLA Y YO](https://open.spotify.com/album/13vfSSY4H7K9BWfE01LdIK) | 1:49 | 2023-05-31 | 2024-07-05 |
 | [FADE UP](https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [FADE UP](https://open.spotify.com/album/6eD0LYFE7Tp1vOFffZVWNr) | 3:39 | 2023-05-31 | 2024-07-05 |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-05-31 |  |
+| [Freestyle Londonienne aime Le Rap \- Nouvelle École \- Bonus Track](https://open.spotify.com/track/34jxcANIyE04PEUNFmergG) | [Damys](https://open.spotify.com/artist/486eivvjMrA8ZyjYzlie10), [Durden](https://open.spotify.com/artist/6FmtyIjNfNWAUSbV486jxe) | [Nouvelle École \| Saison 3 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP) | 3:22 | 2024-09-05 |  |
+| [Galactiques Cypher \- Nouvelle École \- Bonus Track](https://open.spotify.com/track/2rqfJBZpiM8XtmPmKqZa4X) | [AMK](https://open.spotify.com/artist/1AFQg3CpeciNbd120XZDmi), [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434), [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc), [Anglade](https://open.spotify.com/artist/6geZ27i8FeopccSJ8Azodp) | [Nouvelle École \| Saison 3 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP) | 4:02 | 2024-09-05 |  |
 | [Genkidama](https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty) | [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Genkidama](https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ) | 3:04 | 2023-05-31 | 2024-07-05 |
 | [Goal](https://open.spotify.com/track/2yYwQWgkmEWEivKeLGODRK) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Crackito, vol\. 1](https://open.spotify.com/album/5Z0HoUBlTxKxoJaMNcKHW8) | 2:37 | 2023-05-31 | 2024-04-19 |
 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 | 2023-05-31 | 2024-07-05 |
@@ -87,9 +90,11 @@
 | [PERDU](https://open.spotify.com/track/43bfTCUSTBAJNWCourc7Mb) | [Vadek](https://open.spotify.com/artist/40m5FHZCGhyfN6eMi1oJPv), [Demas](https://open.spotify.com/artist/6jgxd1BrkpYObThse9uhfG) | [PERDU](https://open.spotify.com/album/1W1QqDVrF4rMqE2O7OnVYg) | 3:15 | 2023-05-31 | 2024-07-05 |
 | [Personne \- Nouvelle École](https://open.spotify.com/track/5RIXW3MtY5vw5Hrd1aRPK8) | [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| Partie 3 \(Série Netflix\)](https://open.spotify.com/album/0DbVstsApJvNjhgHsj1u1z) | 2:10 | 2024-07-18 |  |
 | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/track/24l2mDpWEmA7gWgmFJ8CIG) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Petrouchka \(feat\. PLK\)](https://open.spotify.com/album/5cmKjUuXgKczYFGZlEOldO) | 3:09 | 2023-05-31 | 2024-07-05 |
+| [Peur \- Nouvelle École \(Remix\) \- Bonus Track](https://open.spotify.com/track/3ioHLL39qHrtloeZz9PcIV) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Youssef Swatt's](https://open.spotify.com/artist/7Bc4N4SWkPWM9TipAmwj6q) | [Nouvelle École \| Saison 3 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP) | 3:03 | 2024-09-05 |  |
 | [Pop $mok€](https://open.spotify.com/track/31qsklcu6f0djboRNvxltu) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Pop $mok€](https://open.spotify.com/album/5SSq4E9asJsReNnd7IMp8P) | 2:00 | 2024-07-04 | 2024-07-12 |
 | [Prequel](https://open.spotify.com/track/0y2JXGqNraYN2gbnSLguWk) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [JVLIVS Prequel : Giulio](https://open.spotify.com/album/4xR5GFngZglie60Cc3DvoS) | 3:30 | 2024-07-04 |  |
 | [Pum Fat](https://open.spotify.com/track/08ckCoQXKD3GbSHGOoQG5J) | [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD) | [BAD QUEEN](https://open.spotify.com/album/6tFR7Oob6kt98NLhTpfZ90) | 2:20 | 2024-07-18 |  |
+| [Racks \- Booska Nouvelle École \- Bonus Track](https://open.spotify.com/track/7xaFBxkqKXaoUy9oethBpp) | [Yorssy](https://open.spotify.com/artist/4v3iE7RK6SOyplsSQxZsjc) | [Nouvelle École \| Saison 3 \| L'album Intégral \(Série Netflix\)](https://open.spotify.com/album/12MBHSVFoIZwID23cPmhcP) | 2:29 | 2024-09-05 |  |
 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 | 2023-05-31 | 2024-07-05 |
 | [Saison 2](https://open.spotify.com/track/0LrR09OWMytBTDwMVYicPv) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Saison 2](https://open.spotify.com/album/7yxd0DGipOiS2oCeo93EKy) | 2:25 | 2024-07-18 |  |
 | [Sarouel \- Nouvelle École](https://open.spotify.com/track/0eDP9XFJn7ghObMOpJcPH9) | [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [Nouvelle École \| Saison 3 \| Partie 1 \(Série Netflix\)](https://open.spotify.com/album/0hT60Uhrzopbw39A49tYs6) | 1:56 | 2024-07-05 |  |

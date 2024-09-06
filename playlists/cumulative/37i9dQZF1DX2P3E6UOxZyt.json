@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: Majin",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6797\u6f54\u5fc3",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -398,7 +398,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 133714,
       "name": "Body Party \u8eab\u9ad4\u6d3e\u5c0d",
       "url": "https://open.spotify.com/track/7zSntdEewdgvCbDFoNgnYU"
@@ -1588,7 +1588,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 154285,
       "name": "hate myself",
       "url": "https://open.spotify.com/track/66WcY2zIeDXpToEfZCgoAj"
@@ -2622,6 +2622,28 @@
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
+    },
+    {
+      "album": {
+        "name": "\u5496\u5561\u6c24",
+        "url": "https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221758,
+      "name": "Natural Smoke (feat.Andr)",
+      "url": "https://open.spotify.com/track/3fYnpBSctoHlGNWqiJ9SSI"
     },
     {
       "album": {
@@ -4162,7 +4184,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 163263,
       "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
       "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
@@ -4464,6 +4486,24 @@
       "duration_ms": 238163,
       "name": "\u4e00\u9ede\u9ede",
       "url": "https://open.spotify.com/track/47LMkwFBrs59m1GSUsxvMF"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u5206",
+        "url": "https://open.spotify.com/album/3Gxhpc2IQBLsbFRRDsikLu"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "\u4e09\u5206",
+      "url": "https://open.spotify.com/track/7fmQAI0hZDqNHId7Sdvbup"
     },
     {
       "album": {
@@ -5610,7 +5650,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 217124,
       "name": "\u53cd\u793e\u4ea4",
       "url": "https://open.spotify.com/track/1NN7kusqeGJq4n8MDGmDM8"
@@ -5780,7 +5820,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 203500,
       "name": "\u5496\u5561\u6c24",
       "url": "https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3"
@@ -7204,7 +7244,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 186835,
       "name": "\u611b\u60c5\u4e0d\u80fd\u8cb7\u9189",
       "url": "https://open.spotify.com/track/47pMzV13SzR4tUqdyxGpOL"
@@ -7408,7 +7448,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 211176,
       "name": "\u6211\u5728\u5f80\u96e2\u5225\u524d\u9032",
       "url": "https://open.spotify.com/track/4I3n6Hq3p1F52ipZkpC8jj"
@@ -8258,7 +8298,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 228631,
       "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
       "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
@@ -8514,6 +8554,24 @@
       "duration_ms": 236201,
       "name": "\u6bcf\u4e00\u79d2\u949f",
       "url": "https://open.spotify.com/track/75LwmPBzvVj2xtIB3G2J84"
+    },
+    {
+      "album": {
+        "name": "\u6c92\u6210\u672a\u4f86\u7684\u591c\u88e1",
+        "url": "https://open.spotify.com/album/7FQ8zE8Z6TjmgjGeFmn4ee"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u6c92\u6210\u672a\u4f86\u7684\u591c\u88e1",
+      "url": "https://open.spotify.com/track/2lmdWEDm97WvzOVppaa7QT"
     },
     {
       "album": {
@@ -9762,7 +9820,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 170014,
       "name": "\u812b\u4fd7",
       "url": "https://open.spotify.com/track/7vdGyajh36go3Qyc58R7Kf"

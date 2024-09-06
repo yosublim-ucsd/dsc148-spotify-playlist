@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46983,
+  "num_followers": 46986,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABEcvSqLikMfaTQOnj/smkX",
+  "snapshot_id": "ZtejAAAAAAA5aifFiXhI6nGfe3Tc7Wx+",
   "tracks": [
     {
       "added_at": null,
@@ -83,26 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "back from the dead",
-        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        },
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 158060,
-      "name": "back from the dead (with mxmtoon)",
-      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "back from the dead",
+        "url": "https://open.spotify.com/album/3xiULM7K8q360Xg9jmon9x"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        },
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158060,
+      "name": "back from the dead (with mxmtoon)",
+      "url": "https://open.spotify.com/track/7H4G1mhD1qCCeYDPgZ5mgh"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hate texas",
-        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 218656,
-      "name": "i hate texas",
-      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 124853,
       "name": "feelings are fatal",
       "url": "https://open.spotify.com/track/09NibQcboHT4aqZbkvRa2w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i hate texas",
+        "url": "https://open.spotify.com/album/4rPQF5Ujx6eTRGDrIfRl55"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 218656,
+      "name": "i hate texas",
+      "url": "https://open.spotify.com/track/6xEE80nW1NgNC2p04n4in5"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "coming of age",
-      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "plum blossom",
         "url": "https://open.spotify.com/album/1arxeGx8v0sv8wlwDeTMVe"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 184272,
       "name": "clich\u00e9",
       "url": "https://open.spotify.com/track/0RV9Oaa22RsUDvuIzk7fGB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "coming of age",
+      "url": "https://open.spotify.com/track/44J3plqT5zMSpaa6bkGfhZ"
     },
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 139386,
-      "name": "frown",
-      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "dawn",
         "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 208813,
       "name": "almost home",
       "url": "https://open.spotify.com/track/1B4XVCWbQcMQ1wFMLrjjOz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 139386,
+      "name": "frown",
+      "url": "https://open.spotify.com/track/4BESW4wF6WoW4blvEqeFJM"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 167925,
       "name": "the idea of you",
       "url": "https://open.spotify.com/track/1g1Ni37doHAEjypC9SrFoY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": null,
@@ -643,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
       "artists": [
         {
@@ -652,9 +652,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158200,
-      "name": "quiet motions",
-      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
+      "duration_ms": 191706,
+      "name": "haze",
+      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 191706,
-      "name": "haze",
-      "url": "https://open.spotify.com/track/79Cy0YeFlg104VAoeY4lmm"
+      "duration_ms": 158200,
+      "name": "quiet motions",
+      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dawn",
-        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+        "name": "rising",
+        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 169413,
-      "name": "no faker",
-      "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
+      "duration_ms": 156906,
+      "name": "victim of nostalgia",
+      "url": "https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
       "duration_ms": 219813,
       "name": "high & dry",
       "url": "https://open.spotify.com/track/00PN6MBzEuptqXKCJkoXoh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "rising",
-        "url": "https://open.spotify.com/album/6moZ0XzoBW9Yg35w0y5GlN"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 156906,
-      "name": "victim of nostalgia",
-      "url": "https://open.spotify.com/track/4h9jqsfXr9UJtWwlqvvvux"
     },
     {
       "added_at": null,
@@ -780,9 +764,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 212093,
-      "name": "lessons",
-      "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
+      "duration_ms": 169413,
+      "name": "no faker",
+      "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
     },
     {
       "added_at": null,
@@ -843,6 +827,22 @@
       "duration_ms": 198640,
       "name": "asking for a friend",
       "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dawn",
+        "url": "https://open.spotify.com/album/13VsJYysq5tyeZiB0GY4oy"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 212093,
+      "name": "lessons",
+      "url": "https://open.spotify.com/track/5kDSSV27L3LxQiqFBW8Agg"
     },
     {
       "added_at": null,

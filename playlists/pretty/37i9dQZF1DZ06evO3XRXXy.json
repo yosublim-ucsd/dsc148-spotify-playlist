@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 137320,
+  "num_followers": 137354,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABQjMsYnqZtVn4V+r4w2hLy",
+  "snapshot_id": "ZtejAAAAAAAbo0bi62x6q08CUBbtCO6x",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
       "duration_ms": 281906,
       "name": "Heart And Soul - Live",
       "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Edelweiss",
-        "url": "https://open.spotify.com/album/6W9KJZCfnCPm1IpoEgMrXb"
-      },
-      "artists": [
-        {
-          "name": "Kenny G",
-          "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
-        }
-      ],
-      "duration_ms": 207757,
-      "name": "Edelweiss",
-      "url": "https://open.spotify.com/track/00Cs2pIEXYOWATPGeQywMm"
     }
   ],
   "unique_name": "This Is Kenny G",

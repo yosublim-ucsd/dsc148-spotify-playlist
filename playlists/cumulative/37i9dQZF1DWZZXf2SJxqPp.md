@@ -4,7 +4,7 @@
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-201 songs - 13 hr 21 min
+202 songs - 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Nabi](https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi](https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw) | 3:52 | 2023-03-20 | 2023-11-05 |
 | [Nabi \(feat\. OHHYUK\)](https://open.spotify.com/track/6zQ24McTYC36rMWRgEfzqC) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [OHHYUK](https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0) | [Nabi \(feat\. Ohhyuk\)](https://open.spotify.com/album/06LftbqN9jVmaHDFq4eitA) | 3:52 | 2023-08-14 | 2024-04-19 |
 | [Never A Coincidence](https://open.spotify.com/track/3PvRkGqCj68rr52KGDcjP9) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Diastrata](https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 3:58 | 2024-05-30 |  |
+| [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 | 2024-09-05 |  |
 | [nice 2 me](https://open.spotify.com/track/3f5W7B3MxSartmmom92jGj) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [nice 2 me](https://open.spotify.com/album/50pA39m1Je0bgfqqJFBBlT) | 2:51 | 2023-05-26 |  |
 | [Okay Okay](https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Italian Classics: Pino D'Angiò Collection, Vol\. 1](https://open.spotify.com/album/7dwnwKTPnHsmfcMWsChtCp) | 4:18 | 2023-03-20 | 2024-04-19 |
 | [On The Cloud](https://open.spotify.com/track/1U6LYBh6HZXaaQu3QJlDLm) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [On the Cloud](https://open.spotify.com/album/2P06JH4YLK8eDlbuB5JgEG) | 1:51 | 2023-03-20 | 2024-06-01 |
@@ -196,7 +197,7 @@
 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 | 2023-03-20 |  |
 | [Voodoo? \- Lazywax Remix](https://open.spotify.com/track/2wHeYDrniYngp3did3McYD) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Lazywax](https://open.spotify.com/artist/0JmfcW7ntKscmNRiLbKEcw) | [Voodoo? \(Lazywax Remix\)](https://open.spotify.com/album/4Lbd1wUo222I65CLuxYEj9) | 6:26 | 2023-03-20 |  |
 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 | 2023-03-20 |  |
-| [Walk Away](https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0) | 3:02 | 2024-05-03 |  |
+| [Walk Away](https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0) | 3:02 | 2024-05-03 | 2024-09-06 |
 | [Walk with the Dreamers](https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm) | [Ambala](https://open.spotify.com/artist/2z0mgUBpRGfMpV39n7sLXw), [Laid Back](https://open.spotify.com/artist/2OLmN3LLWtLF7zerL4VdaX) | [Volume 1](https://open.spotify.com/album/6HZfuAb9iEuSTvx2GQ3hkE) | 4:57 | 2023-03-20 |  |
 | [WALLS](https://open.spotify.com/track/4mUWS2M0eoM8jezmEJPbFh) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Boats](https://open.spotify.com/artist/2QIZbR4qIR1yoJr9RWkR7E) | [MOOD](https://open.spotify.com/album/2Eh8MVthc1OiqAQOgQClVl) | 4:47 | 2023-03-20 | 2024-04-19 |
 | [Warming Up](https://open.spotify.com/track/7mkGyBb7Bhftg5St3Aka5K) | [Galcher Lustwerk](https://open.spotify.com/artist/1c7bxvBwJrMuZKwx4EDPHf) | [Information \(Redacted\)](https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W) | 3:36 | 2023-08-14 | 2024-04-19 |

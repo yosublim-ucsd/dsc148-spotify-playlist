@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de septiembre 2024\. Cover: Tito Double P
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,504,042 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,503,999 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 29 | [Dímelo Mike](https://open.spotify.com/track/4d2x3rUeiEbizZOqJdICWs) | [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Dímelo Mike](https://open.spotify.com/album/41WR10toKUqWeWMACVJXzK) | 2:43 |
 | 30 | [teléfono ocupado](https://open.spotify.com/track/1enVAgxMhkgYm64qnCS0p5) | [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [teléfono ocupado](https://open.spotify.com/album/2Cv01uanCpS6AJ3MjKVzWS) | 2:10 |
 | 31 | [CALMA](https://open.spotify.com/track/6GHN1yz4xoCLnlPuG80lFh) | [Emiliano Athie](https://open.spotify.com/artist/1qho775jbZoPnNUR9Xtjzr) | [CALMA](https://open.spotify.com/album/2Qo5wqgAGGIRMRxPMHTxD3) | 4:04 |
-| 32 | [Estar sin ti me quema](https://open.spotify.com/track/2JJJsI8Js2RemEpGpib2UY) | [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF), [Milton McDonald](https://open.spotify.com/artist/0Nydj18tqAJPtKtioy200q) | [Estar sin ti me quema](https://open.spotify.com/album/50tFmTf9GkByhvUbwIzCfg) | 2:39 |
+| 32 | [Estar sin ti me quema](https://open.spotify.com/track/2JJJsI8Js2RemEpGpib2UY) | [Milton McDonald](https://open.spotify.com/artist/0Nydj18tqAJPtKtioy200q), [Jotabarrioz](https://open.spotify.com/artist/5IhomfuVzQaE29lfaBFFYF) | [Estar sin ti me quema](https://open.spotify.com/album/50tFmTf9GkByhvUbwIzCfg) | 2:39 |
 | 33 | [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 |
 | 34 | [Tu Versión De La Historia](https://open.spotify.com/track/5XBhEFome7Mfb1ovOJu8ez) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Flor Alvarez](https://open.spotify.com/artist/3R8XhCi6bUcoR1CJx2XASa) | [Tu Versión De La Historia](https://open.spotify.com/album/7vBIHRSMzLhJhya7Mx9fIg) | 3:00 |
 | 35 | [La Foto](https://open.spotify.com/track/1BSijYfeMpjKCzfROYNKh7) | [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [La Foto](https://open.spotify.com/album/06I6NgN45EyL1hy4QtI3pU) | 3:13 |

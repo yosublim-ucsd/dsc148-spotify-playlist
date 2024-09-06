@@ -1,12 +1,12 @@
 {
-  "description": "This is Skillet. \u0627\u0644\u0645\u0642\u0627\u0637\u0639 \u0627\u0644\u0623\u0633\u0627\u0633\u064a\u0629\u060c \u0643\u0644\u0647\u0627 \u0641\u064a \u0642\u0627\u064a\u0645\u0629 \u0623\u063a\u0627\u0646\u064a \u0648\u0627\u062d\u062f\u0629.",
-  "num_followers": 284342,
+  "description": "This is Skillet. The essential tracks, all in one playlist.",
+  "num_followers": 284433,
   "original_name": "This Is Skillet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACS9RvrNEy3S/bYIKOCK7bw",
+  "snapshot_id": "ZtejAAAAAACi/m0br/2YM/skBLp96zDo",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 225853,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
+      "duration_ms": 215880,
+      "name": "Undefeated",
+      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
     },
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 215880,
-      "name": "Undefeated",
-      "url": "https://open.spotify.com/track/7sCQbcrVlIKoIjOpR3Oj5N"
+      "duration_ms": 225853,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/6VMT3SzIMbNoR5lsUsniQY"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+      },
+      "artists": [
+        {
+          "name": "Skillet",
+          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+        }
+      ],
+      "duration_ms": 226506,
+      "name": "Those Nights",
+      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Wolf (feat. John Cooper of Skillet)",
         "url": "https://open.spotify.com/album/6q3tBwBS5uMSeeWD3JRhDZ"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 198750,
       "name": "Wolf (feat. John Cooper of Skillet)",
       "url": "https://open.spotify.com/track/2TotmUJiZqzDh7OMjD7zGr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Comatose",
-        "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
-      },
-      "artists": [
-        {
-          "name": "Skillet",
-          "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
-        }
-      ],
-      "duration_ms": 226506,
-      "name": "Those Nights",
-      "url": "https://open.spotify.com/track/1ZWEsoqJSrtZA1qjlG02Hp"
     },
     {
       "added_at": null,
@@ -723,8 +723,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Victorious: The Aftermath - Deluxe",
-        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
+        "name": "Unleashed Beyond (Special Edition)",
+        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 231105,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
+      "duration_ms": 197586,
+      "name": "You Get Me High",
+      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unleashed Beyond (Special Edition)",
-        "url": "https://open.spotify.com/album/2KKPw3uv39fzhiUTS7zw37"
+        "name": "Victorious: The Aftermath - Deluxe",
+        "url": "https://open.spotify.com/album/3YhTX4XmDv0BHQ8gReEStW"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
         }
       ],
-      "duration_ms": 197586,
-      "name": "You Get Me High",
-      "url": "https://open.spotify.com/track/4AapC5EaUVuL7LZojRPyGu"
+      "duration_ms": 231105,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/0xdHxI8iKatXB8PYWKRi74"
     },
     {
       "added_at": null,

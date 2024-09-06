@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: A$AP Rocky",
+  "description": "Il rap \u00e8 uno sport competitivo \ud83d\udd25 Cover: Central Cee, Raye",
   "name": "Rap Internazionale",
   "tracks": [
     {
@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 207315,
       "name": "BLACK FLAG FREESTYLE (with That Mexican OT)",
       "url": "https://open.spotify.com/track/5HwYQgUgUsHC3RqfSFMPxq"
@@ -1604,7 +1604,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 217846,
       "name": "Blue Green Red",
       "url": "https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo"
@@ -8451,6 +8451,28 @@
     },
     {
       "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "album": {
         "name": "MON LOVE OHO",
         "url": "https://open.spotify.com/album/2WXMfQ0n7ETl8urYg80Xg9"
       },
@@ -10465,6 +10487,32 @@
     },
     {
       "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158980,
+      "name": "PROMOTION",
+      "url": "https://open.spotify.com/track/6bSfeCXlUaGa3eWCy5qPTb"
+    },
+    {
+      "album": {
         "name": "DIAMONDS",
         "url": "https://open.spotify.com/album/3kzwY2NyciGzUmvPOHciap"
       },
@@ -11002,6 +11050,28 @@
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163108,
+      "name": "Replay (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/3Ue2iavxQaLREs76kLaUTD"
     },
     {
       "album": {
@@ -12982,7 +13052,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177260,
       "name": "THank god 4 me",
       "url": "https://open.spotify.com/track/7CwO2esrH095tjxmJVMY2E"

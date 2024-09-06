@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=P3aUHJWgRLCGMmhYuDEMtQ>Sunmisola Agbebi</a>
 
-85 songs - 9 hr 42 min
+88 songs - 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [B'Ola \- Honour](https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [B'Ola \(Honour\)](https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM) | 5:24 | 2024-05-09 |  |
 | [Baba Yangu, Baba Yangu \- Live](https://open.spotify.com/track/1pRSMBzKzEbMiWMerX8hBm) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU), [Yinka Okeleye](https://open.spotify.com/artist/0QD66eLbMvlwcjQVUtKpo9) | [Baba Yangu, Baba Yangu \(Live\)](https://open.spotify.com/album/7k7hnvGI5oYtw0ZUwcvghF) | 4:49 | 2024-08-02 |  |
 | [Beyond Me](https://open.spotify.com/track/1dLvBXVVbWSrZ9j0g2YyHT) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [The Love Story](https://open.spotify.com/album/55oOa9npkSisKLa3tvbibr) | 7:11 | 2024-05-09 |  |
+| [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/track/412oQBTiuIDTCDLuVALKXx) | [David Nkennor](https://open.spotify.com/artist/4IunI41jLkKQaKyb3dYESN) | [Break forth \(Isaiah 54:1\-4\) \- Live From The Song Of Sons Project](https://open.spotify.com/album/6MFNHyKp4ABkLOfzXdpAu9) | 12:24 | 2024-09-06 |  |
 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2024-05-09 |  |
 | [Casting Crowns](https://open.spotify.com/track/2AXoz82FM7qwhFwEKztGdm) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 6:34 | 2024-05-09 |  |
 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions \(Live\)](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 | 2024-05-09 |  |
@@ -73,6 +74,7 @@
 | [Only one thing is needed](https://open.spotify.com/track/0IXW08BrMsIePLbK9o0HM5) | [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Only one thing is needed](https://open.spotify.com/album/6qH0qNNxBEFTlpCadAxial) | 6:42 | 2024-07-12 |  |
 | [Only You Satisfy](https://open.spotify.com/track/7EHn5jHANk2kTMXL8dN0Wr) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Overwhelming Victory](https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV) | 5:12 | 2024-05-09 |  |
 | [Osuba \- Remix](https://open.spotify.com/track/3X6x1sYQIiUCUwzY3u94qI) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [121SELAH](https://open.spotify.com/artist/3D0PnJS2WA0lgjLgMz0Oqq), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Osuba \- Remix](https://open.spotify.com/album/55HkimoZNtqiYb81B2XFIS) | 5:23 | 2024-08-09 |  |
+| [Prophetic Worship, Vol\. 2](https://open.spotify.com/track/4JbkjVGb7FmKKyuN8WpkND) | [Apostle Femi Lazarus](https://open.spotify.com/artist/4bbgsyWj0hlgyUXUY9GHTp), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Prophetic Worship, Vol\. 2](https://open.spotify.com/album/6iptYi4tTiItuNB2QY84tL) | 13:15 | 2024-09-06 |  |
 | [Reign](https://open.spotify.com/track/5Ihx5hpbXnuKyT2O2pmaxw) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Reign](https://open.spotify.com/album/3nXzqLc7IGfMn3QfKbn7gy) | 8:22 | 2024-08-23 |  |
 | [Rescue The Perishing](https://open.spotify.com/track/4s3qSbjkrTX48tz50UYHA7) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Rescue The Perishing](https://open.spotify.com/album/3SdyZkiUe9YG86xFsIXQYC) | 3:44 | 2024-05-24 | 2024-08-16 |
 | [Song of Angels \(The Call\)](https://open.spotify.com/track/11r7LKpoZzMQByA9gC9cgf) | [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Gwen Samuel](https://open.spotify.com/artist/3MKVPEAKVqjOWppgRRqIfK) | [Song of Angels \(The Call\)](https://open.spotify.com/album/758w7ppEQYjtKeLn0E9n4p) | 6:09 | 2024-08-23 |  |
@@ -83,6 +85,7 @@
 | [Too Faithful](https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Too Faithful](https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN) | 6:10 | 2024-05-09 |  |
 | [War Room Worship, Pt\. 4](https://open.spotify.com/track/64XhCvtsgCAJbOWxsUe5Wh) | [Minister Afam](https://open.spotify.com/artist/2OuwAasMkYHQXewbtvrIMK) | [War Room Worship, Pt\. 4](https://open.spotify.com/album/2hZvzNbOJWmtp8ufg9U26j) | 9:54 | 2024-08-23 |  |
 | [Wonderful \- African Worship Medley/Live](https://open.spotify.com/track/7JV1mx4hsvRUtdkcXlZt8L) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:24 | 2024-05-09 |  |
+| [Worship and Adoration](https://open.spotify.com/track/7g2gsAGBYwzcbvltv2rzIp) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Worship and Adoration](https://open.spotify.com/album/1F4r0a22ZYty1JpK1oD7ya) | 3:21 | 2024-09-06 |  |
 | [WORSHIP TO YOUR THRONE \- LIVE](https://open.spotify.com/track/57wt9vQPFxQOBFvAV1yBvb) | [Ruke Gure](https://open.spotify.com/artist/3kJycPCLqMjSCHGEjvMUlz) | [WORSHIP TO YOUR THRONE \(LIVE\)](https://open.spotify.com/album/1tVk6j8s7rr2o2kl6c0LFK) | 4:17 | 2024-06-14 |  |
 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 | 2024-05-09 |  |
 | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/track/0L7X9VDmvgtXVFuqO1lt7g) | [Jakes Hinjari](https://open.spotify.com/artist/0vHke5zDphp49XceKxztGu), [Koinonia Worship Team](https://open.spotify.com/artist/3Gu1HyCRYShWIkeEM75HsP) | [Yabo da Sujada \-a Worship Experience \(Live\)](https://open.spotify.com/album/624n5JDuYk636uDrB7T9Yh) | 5:40 | 2024-07-12 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Sai Abhyankkar",
+  "description": "Home to the Desi Pop Bops. For more desi bangers check out <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa\">Desi Hits</a>.  Cover: Darshan Raval",
   "name": "Desi Pop",
   "tracks": [
     {
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 161232,
       "name": "In Love",
       "url": "https://open.spotify.com/track/2hMKHl9OYpQX7WXItUWG3H"
@@ -2674,6 +2674,24 @@
       "duration_ms": 213344,
       "name": "Kinni Kinni",
       "url": "https://open.spotify.com/track/3F3ZuXYFXGM1V6pk3b3zmi"
+    },
+    {
+      "album": {
+        "name": "Kinni Soni",
+        "url": "https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241201,
+      "name": "Kinni Soni",
+      "url": "https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd"
     },
     {
       "album": {
@@ -5428,7 +5446,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172500,
       "name": "YOU",
       "url": "https://open.spotify.com/track/5SOKLE8PuKhC6zVURF8VZG"

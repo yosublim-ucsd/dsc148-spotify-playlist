@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 169500,
       "name": "Enchanted Silence",
       "url": "https://open.spotify.com/track/5aRMApCifuUZKjWbZuJCkT"
@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 151721,
       "name": "Fj\u00e4derl\u00e4tt",
       "url": "https://open.spotify.com/track/2FV0bpajGSlVU21kZEiaEw"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172849,
       "name": "Four Days With You",
       "url": "https://open.spotify.com/track/7dGuSEYGWw0BJpjbe9nzZL"
@@ -1986,7 +1986,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148684,
       "name": "In a distance",
       "url": "https://open.spotify.com/track/0CK6eCztxc3uUZcnl0TZmN"
@@ -2533,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "Manifest Destiny",
+        "url": "https://open.spotify.com/album/2YCTLxrC3gWPNokJssUUpS"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Sine",
+          "url": "https://open.spotify.com/artist/1Zg71yjBlaSt5KF93TDyxt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Manifest Destiny",
+      "url": "https://open.spotify.com/track/4BNP0a8ran93Tu0cvNQgDY"
+    },
+    {
+      "album": {
         "name": "Mare Nostrum",
         "url": "https://open.spotify.com/album/0ZMMkZ9tnJNTQZf66cHlp7"
       },
@@ -2836,6 +2854,24 @@
       "duration_ms": 206750,
       "name": "Naten e mire",
       "url": "https://open.spotify.com/track/6uTgcVdZs17V0Fy5PX2O54"
+    },
+    {
+      "album": {
+        "name": "Nautica",
+        "url": "https://open.spotify.com/album/6AuvwZNSnUwD2OCn5Ga3iY"
+      },
+      "artists": [
+        {
+          "name": "Zooids",
+          "url": "https://open.spotify.com/artist/67VSC1OWyqo4z4X9dOTYkZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155638,
+      "name": "Nautica",
+      "url": "https://open.spotify.com/track/0chPcJHRNvBJfq8SOwoVHV"
     },
     {
       "album": {
@@ -3761,6 +3797,24 @@
     },
     {
       "album": {
+        "name": "Slowly Surely",
+        "url": "https://open.spotify.com/album/21OjXBesQATWH54Z430rF6"
+      },
+      "artists": [
+        {
+          "name": "Whispered Dreams",
+          "url": "https://open.spotify.com/artist/2zdXJAvrcV5IxCHYrfKNqu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Slowly Surely",
+      "url": "https://open.spotify.com/track/53wG1SQqfEgr7Y3FD02sUF"
+    },
+    {
+      "album": {
         "name": "So Serene",
         "url": "https://open.spotify.com/album/75cidIbNTEIRMg7yMeaWpQ"
       },
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193500,
       "name": "Suis moi",
       "url": "https://open.spotify.com/track/62RkIz0nURCnDM5qvdWXbh"
@@ -4756,6 +4810,24 @@
       "duration_ms": 144500,
       "name": "Yearning",
       "url": "https://open.spotify.com/track/2eEmTR3Z7KnbZ6wkctRIjO"
+    },
+    {
+      "album": {
+        "name": "Yorokobi",
+        "url": "https://open.spotify.com/album/5mZ7OlFuS64Xi3P3J6LTWw"
+      },
+      "artists": [
+        {
+          "name": "Etta",
+          "url": "https://open.spotify.com/artist/5wcUrjRIi6pDYKGb0UZvd2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137750,
+      "name": "Yorokobi",
+      "url": "https://open.spotify.com/track/2h4JwOuZMiBSCao8QAiwgS"
     },
     {
       "album": {

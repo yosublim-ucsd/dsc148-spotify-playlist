@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/4Qec40S0raFaGWTY30j8pl"
+      },
+      "artists": [
+        {
+          "name": "Rinus Werrens",
+          "url": "https://open.spotify.com/artist/7wJCnEGuQhs6vvj9vLn4KU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206298,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/05AVFzPtFgvDoEVDBoSifN"
+    },
+    {
+      "album": {
         "name": "Beest Van De Nacht",
         "url": "https://open.spotify.com/album/5WsOBIwlgP3nfxa3LtW7Me"
       },
@@ -200,7 +218,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 141081,
       "name": "Blijf Bij Mij",
       "url": "https://open.spotify.com/track/4a3k5MpyuTYfAWiZknc0bj"
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173353,
       "name": "De Hele Wereld Mag Het Weten",
       "url": "https://open.spotify.com/track/5gV2rLuE0JOnE5WltYwCgg"
@@ -601,6 +619,24 @@
     },
     {
       "album": {
+        "name": "Ik heb me eventjes flink laten gaan",
+        "url": "https://open.spotify.com/album/2BXjM0r6UJxtuy5fVtRYUn"
+      },
+      "artists": [
+        {
+          "name": "Jessy Arjaans",
+          "url": "https://open.spotify.com/artist/3Z7N31JX9Ok9e6CjRz8WyT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182222,
+      "name": "Ik heb me eventjes flink laten gaan",
+      "url": "https://open.spotify.com/track/7GVIsuE4FdvG1yF27LVko5"
+    },
+    {
+      "album": {
         "name": "Ik Leef M'n Eigen Leven",
         "url": "https://open.spotify.com/album/73hoU7EUbLVKfgiO8ZRD42"
       },
@@ -652,7 +688,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 158991,
       "name": "Ik Pluk Een Ster",
       "url": "https://open.spotify.com/track/6IL9WqozMq9AZnj0v8jEAY"
@@ -981,6 +1017,24 @@
     },
     {
       "album": {
+        "name": "Ladder Naar De Hemel",
+        "url": "https://open.spotify.com/album/1Fo1S5d0Z0KiVffUAfLaGl"
+      },
+      "artists": [
+        {
+          "name": "Jeroen Van Zelst",
+          "url": "https://open.spotify.com/artist/0wBzidLaREzN3M2UrjwbnR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189569,
+      "name": "Ladder Naar De Hemel",
+      "url": "https://open.spotify.com/track/56x8TdbbAo6KHvToVEQ9vD"
+    },
+    {
+      "album": {
         "name": "Langer Blijven",
         "url": "https://open.spotify.com/album/7GnO6ko8jq8yImhb6KWD9C"
       },
@@ -996,6 +1050,24 @@
       "duration_ms": 137111,
       "name": "Langer Blijven",
       "url": "https://open.spotify.com/track/5xoiIIIbiAJ7uoXqDRB5Zy"
+    },
+    {
+      "album": {
+        "name": "Lekkerding",
+        "url": "https://open.spotify.com/album/6v2kdek0jNjVVgdUC5ZRyx"
+      },
+      "artists": [
+        {
+          "name": "Mike Peterson",
+          "url": "https://open.spotify.com/artist/4mxrXHWDcP8CifQMVEgY3E"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155188,
+      "name": "Lekkerding",
+      "url": "https://open.spotify.com/track/73MmD8YyM4vq4JLbt7scxF"
     },
     {
       "album": {
@@ -1792,7 +1864,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 142285,
       "name": "Vraag Me Niets",
       "url": "https://open.spotify.com/track/2Ed0Hh28X8zPYSszIK90sS"
@@ -1832,6 +1904,28 @@
       "duration_ms": 141428,
       "name": "Wachten Op Jou",
       "url": "https://open.spotify.com/track/7D8tOp3trj6rvaplYCnVro"
+    },
+    {
+      "album": {
+        "name": "Wat Maakt Het Uit",
+        "url": "https://open.spotify.com/album/0KfUyIG4rn8eRdQr5Oh5hm"
+      },
+      "artists": [
+        {
+          "name": "Frans Duijts",
+          "url": "https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t"
+        },
+        {
+          "name": "Frank Van Etten",
+          "url": "https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "Wat Maakt Het Uit",
+      "url": "https://open.spotify.com/track/5Cm7n1Bxa7rhzuLLNHRt6K"
     },
     {
       "album": {
@@ -1929,6 +2023,24 @@
     },
     {
       "album": {
+        "name": "Winnend Lot",
+        "url": "https://open.spotify.com/album/4OnHe0UHInw6bOItoQFe2w"
+      },
+      "artists": [
+        {
+          "name": "Rutger van Barneveld",
+          "url": "https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196616,
+      "name": "Winnend lot",
+      "url": "https://open.spotify.com/track/7qj8pQVtTDuSQtEM4OdOYR"
+    },
+    {
+      "album": {
         "name": "Zaterdag",
         "url": "https://open.spotify.com/album/3WlRVur6fAPxfhfBzwZarG"
       },
@@ -1994,7 +2106,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 225949,
       "name": "Zeg me wie",
       "url": "https://open.spotify.com/track/1GkaioqxI6kq8MGhvM40vJ"
@@ -2016,7 +2128,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188217,
       "name": "Zie Ik Jou Weer Morgen?",
       "url": "https://open.spotify.com/track/07iAKwRXb0yRWPK0cqasFZ"

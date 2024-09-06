@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-751 songs - 1 day 9 hr 48 min
+753 songs - 1 day 9 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [INNER CHILD](https://open.spotify.com/track/0UN76wlPdYnG5O6V0qORZq) | [DJ MOTORA](https://open.spotify.com/artist/5NkOVFLxuooWRa99WZuQu2) | [INNER CHILD](https://open.spotify.com/album/54VHZuKa304ZvfiEXO27xA) | 2:56 | 2021-12-23 |  |
 | [Inside Love](https://open.spotify.com/track/5WSaTxllq6SNyOCEh2C1kb) | [SSIR](https://open.spotify.com/artist/68aVwfoV4wmRwYhRhaze7t) | [Inside Love](https://open.spotify.com/album/4bA08DkU2XGgOvwgmB7dFa) | 1:40 | 2022-04-14 | 2022-07-28 |
 | [Intersect](https://open.spotify.com/track/40ZwjOSE0JE0eqYN6v1XXn) | [Minthaze](https://open.spotify.com/artist/0GDuz9Xe0BQHtO6uEOHm1v), [A N T I T H E S I S](https://open.spotify.com/artist/1sbuH2QadilkAzCOOrjHuf) | [Cadence](https://open.spotify.com/album/61KwQrK6ffvkm5JWWHwjTg) | 2:51 | 2021-12-23 | 2022-07-17 |
+| [INTO DEEP](https://open.spotify.com/track/1c6QKZ0z2TFQwQ7S5lzfjk) | [NARISK](https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV) | [INTO DEEP](https://open.spotify.com/album/2ZXpS7xopeAG0okEqqtzpU) | 2:34 | 2024-09-06 |  |
 | [IQ \- Instrumental](https://open.spotify.com/track/5Ied56g4AIcQbG2xB782QW) | [CARREC](https://open.spotify.com/artist/2GvSLpKBp3XZdNbAtiChQr), [TALOW](https://open.spotify.com/artist/5HwgnSQkBOfC49j0eCs7BJ) | [IQ](https://open.spotify.com/album/0Yn3CPyencGnFUlj0VuMoF) | 4:32 | 2022-01-06 | 2022-04-20 |
 | [Iro no Sekai](https://open.spotify.com/track/2njBtntWGbDjKmmp1MnoWG) | [Osaki](https://open.spotify.com/artist/5mBv1P6ffkM2YlJvsBJlze) | [Iro no Sekai](https://open.spotify.com/album/4eHSLBAL3OmVL4oVoc4YCp) | 3:22 | 2022-03-24 | 2022-04-21 |
 | [Jazz Neko](https://open.spotify.com/track/484Ncn0zQgpfa36UFwnBda) | [Midan](https://open.spotify.com/artist/1dYfhrPxJSeCJp8gGwN4qo), [AHNAMUSICA](https://open.spotify.com/artist/2QONtzTPgMymeO5VVQ4w3h) | [Origami Skizzen](https://open.spotify.com/album/27OrwbZSGLRCg8oPNRHozF) | 2:32 | 2022-07-28 | 2024-04-19 |
@@ -408,7 +409,7 @@
 | [midnightblue](https://open.spotify.com/track/68vICURdbP4DrFdumsxddr) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [midnightblue](https://open.spotify.com/album/5hWozsqDLkH1M9llIOVqP8) | 2:50 | 2021-12-23 | 2022-07-27 |
 | [MidnightBlue](https://open.spotify.com/track/4BeIZYbemmAQ8azx7Y9Vvr) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Opal](https://open.spotify.com/album/1ltmHOkm08hEvcsoLq4S3Q) | 3:03 | 2022-07-28 | 2022-07-30 |
 | [MidnightBlue](https://open.spotify.com/track/4E60U6cA2viUVDFK66QYwi) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [MidnightBlue](https://open.spotify.com/album/0KVB3GRu9vFgVzHYZydCuC) | 3:03 | 2022-03-24 | 2022-04-17 |
-| [Mifflin'](https://open.spotify.com/track/51J4SXEGP6b7EBVN9eVMxb) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Mifflin'](https://open.spotify.com/album/5u5np8MwFWHWgBEAYpnggf) | 2:34 | 2024-06-15 |  |
+| [Mifflin'](https://open.spotify.com/track/51J4SXEGP6b7EBVN9eVMxb) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [Tenda Senda](https://open.spotify.com/artist/3yZ1Z0nJmVbL3KFP1afffU) | [Mifflin'](https://open.spotify.com/album/5u5np8MwFWHWgBEAYpnggf) | 2:34 | 2024-06-15 | 2024-09-06 |
 | [Migratory Bird](https://open.spotify.com/track/1SJcAnuUDI8nJhMdp6ziiS) | [tajima hal](https://open.spotify.com/artist/5SuPIkCZe2U5TZCqYX4mcI) | [Minor Sights](https://open.spotify.com/album/1owPNAaXMDvIonCXvGphVQ) | 3:35 | 2022-03-24 | 2022-07-27 |
 | [mild waves](https://open.spotify.com/track/6Ggz8uUOumCGSMeNTZhjtu) | [Dyelo think](https://open.spotify.com/artist/7lhzvvDG8CInm97fUkCoC4) | [mild waves](https://open.spotify.com/album/09vAYDtF6xJI3R5IE8iR3X) | 2:17 | 2022-01-13 | 2022-07-27 |
 | [Miles Above](https://open.spotify.com/track/6ugiGxMGuZuQvLXLZte3HD) | [Eccy](https://open.spotify.com/artist/7uld07kmI7qKWujYC7dnbO) | [Fog Over Trees](https://open.spotify.com/album/6cJp8cOaSXXiLwREshy1Cb) | 4:28 | 2022-01-06 | 2022-07-05 |
@@ -457,6 +458,7 @@
 | [Napping](https://open.spotify.com/track/7MO7WcQUSM1zr4WZpxvVSK) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/0onTYCoBPN2eFQsDWQUlAL) | 1:55 | 2022-07-28 | 2023-06-28 |
 | [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 | 2023-06-29 | 2024-04-19 |
 | [naptime](https://open.spotify.com/track/0A3wdC4h8kdZRK7fqjdlJ5) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA) | [naptime](https://open.spotify.com/album/7HiIGoWkuhEvupPkWrnlVk) | 2:31 | 2021-12-23 | 2022-07-29 |
+| [Naturally Lonely Girl](https://open.spotify.com/track/187BDUUMtjvCDYufgZCopb) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Refeeld](https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP), [Lonely Girl](https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw) | [Riverside Girl](https://open.spotify.com/album/1ag6ULc7Pe4BAjGXGo7ji1) | 2:54 | 2024-09-06 |  |
 | [Nearby](https://open.spotify.com/track/4FV9Rqeiu6eq67rXjzwZYU) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Kazuki Isogai](https://open.spotify.com/artist/0SIrNPNAXLUyzyvZqWZw4K) | [Nature City](https://open.spotify.com/album/0hMp6doJxKWUzdMvyg6Gvu) | 1:30 | 2021-12-23 | 2022-07-29 |
 | [Need You](https://open.spotify.com/track/5YzAkB0MayEenthmDRSB58) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [NOTE](https://open.spotify.com/album/568d5HDFBQzaujPEu9hFsb) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [Need You](https://open.spotify.com/track/60nkYijW61SLHlTPls1yIJ) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8) | [NOTE](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa) | 3:42 | 2022-07-28 | 2024-04-19 |
@@ -648,7 +650,7 @@
 | [sunrise](https://open.spotify.com/track/3syEFU3GcxSZUhwAJzBfTh) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [sunrise](https://open.spotify.com/album/5Zm3mPMM6RbSeCL9S48CeC) | 2:56 | 2023-01-19 | 2023-04-12 |
 | [SUNSHOWER](https://open.spotify.com/track/1UBW6L4Kg42c0FNL8nTIGp) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [MIDNIGHTINDICA](https://open.spotify.com/album/5Pi2OXnK98IqCrNbFhL7Yd) | 2:41 | 2023-07-13 | 2024-04-19 |
 | [SUNSHOWER](https://open.spotify.com/track/2Hzc0G0PGKvBeNkA0TBlDb) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/0aaYXHwj0CoNUuRgJ223Zn) | 2:41 | 2023-06-13 | 2023-07-18 |
-| [SUNSHOWER](https://open.spotify.com/track/7pxmMC52tSut9LTW8LsqpC) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/2liA4g5iYVrqwoQ26Sj3Fr) | 2:41 | 2024-04-12 |  |
+| [SUNSHOWER](https://open.spotify.com/track/7pxmMC52tSut9LTW8LsqpC) | [Leo Iwamura](https://open.spotify.com/artist/1MCO0Lwky0o4pxlgvlMWqY) | [SUNSHOWER](https://open.spotify.com/album/2liA4g5iYVrqwoQ26Sj3Fr) | 2:41 | 2024-04-12 | 2024-09-06 |
 | [sweet smoke](https://open.spotify.com/track/444O4OVp9DSfS5PwzOeueM) | [m\-al](https://open.spotify.com/artist/36uYgW4LAxNLllQq3NmoVJ) | [SWEET SMOKE](https://open.spotify.com/album/6COcQwEQ9QOI3i101M6e97) | 1:54 | 2021-12-23 | 2022-01-10 |
 | [Sweet Spare](https://open.spotify.com/track/16os4JPoRQcwdzIKo9pdHo) | [I love you Orchestra Swing Style](https://open.spotify.com/artist/03Avx5uX73mr7MtZZzkzls) | [Sweet Spare](https://open.spotify.com/album/6fOmtJfu7XciZl8g2SRSJi) | 3:16 | 2021-12-23 | 2022-07-16 |
 | [Swing](https://open.spotify.com/track/03EMUB8q3QAkssNRXzTC6f) | [GORO KUMAI](https://open.spotify.com/artist/41lxUXDzSD0mjAnHOgbXDR) | [The Wondering Beats vol.1](https://open.spotify.com/album/7yq1QjAynYRp6fD9VQUrRM) | 2:38 | 2021-12-23 |  |

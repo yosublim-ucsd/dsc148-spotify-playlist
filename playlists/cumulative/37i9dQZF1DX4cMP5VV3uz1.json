@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "BARRIN' ALOT (FREESTYLE)",
+        "url": "https://open.spotify.com/album/4gPTGKiUx3XkSb8kVzCGEi"
+      },
+      "artists": [
+        {
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125000,
+      "name": "BARRIN' ALOT (FREESTYLE)",
+      "url": "https://open.spotify.com/track/7HpTKnBG6kCKYxjjyTmolW"
+    },
+    {
+      "album": {
         "name": "Bass & Treble",
         "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
       },
@@ -948,7 +966,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 214925,
       "name": "Counting - Sammy Virji Remix",
       "url": "https://open.spotify.com/track/4KPTu8qSxATFXL3e5sJipW"
@@ -1346,7 +1364,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-16",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "Don't Let Me Go",
       "url": "https://open.spotify.com/track/3UGNkp6UluxzrztoMu9q1C"
@@ -1914,7 +1932,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 174428,
       "name": "FWTDJ (All Night Long)",
       "url": "https://open.spotify.com/track/5FyugvX0og6OA1s2NUBK6L"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 181028,
       "name": "Green & Gold (feat. Charlotte Plank & Riko Dan) - Skepsis VIP Mix",
       "url": "https://open.spotify.com/track/72XbhXFWC35fbBPmMUA0NR"
@@ -2352,7 +2370,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 191022,
       "name": "Hot In Here",
       "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
@@ -2422,6 +2440,24 @@
       "duration_ms": 164983,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj"
+    },
+    {
+      "album": {
+        "name": "I'll Be Good",
+        "url": "https://open.spotify.com/album/72TVWYXcYfunh4HFLdKYt3"
+      },
+      "artists": [
+        {
+          "name": "Feed Me",
+          "url": "https://open.spotify.com/artist/5FWi1mowu6uiU2ZHwr1rby"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/7z7KWEjCMJh0V6oenkmeqq"
     },
     {
       "album": {
@@ -2750,6 +2786,28 @@
       "duration_ms": 158400,
       "name": "Kraken",
       "url": "https://open.spotify.com/track/76FWqanqrb3nf3XZ3vIv7x"
+    },
+    {
+      "album": {
+        "name": "Lapse",
+        "url": "https://open.spotify.com/album/7HcZT4FVS2BdGJIr7FfWPB"
+      },
+      "artists": [
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
+        },
+        {
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252558,
+      "name": "Lapse",
+      "url": "https://open.spotify.com/track/6rduLWfZ32SDJLco9Pb4jr"
     },
     {
       "album": {
@@ -3153,6 +3211,24 @@
     },
     {
       "album": {
+        "name": "Serum's Gaff: Part 1",
+        "url": "https://open.spotify.com/album/5hIYAOozeN1r6D52OwbQIi"
+      },
+      "artists": [
+        {
+          "name": "Serum",
+          "url": "https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Maxwell",
+      "url": "https://open.spotify.com/track/6bb66l6tdBvXdbqt9eGYXl"
+    },
+    {
+      "album": {
         "name": "Mercury",
         "url": "https://open.spotify.com/album/5PrEi7aLxDosgWfIa3eegg"
       },
@@ -3396,7 +3472,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 263314,
       "name": "Nan Slapper",
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
@@ -3462,7 +3538,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177266,
       "name": "Ninja Bike",
       "url": "https://open.spotify.com/track/0BoPDihQptJKrwz6PSkUOh"
@@ -3518,7 +3594,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 249700,
       "name": "No Tomorrow (P Money x Whiney Remix)",
       "url": "https://open.spotify.com/track/51uRkSahJICiVwrPe7GgzY"
@@ -3540,7 +3616,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193103,
       "name": "Nobody Likes The Records That I Play",
       "url": "https://open.spotify.com/track/2qpfRinMEix4FG8q45XroG"
@@ -3910,7 +3986,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 122069,
       "name": "Party Muscle",
       "url": "https://open.spotify.com/track/2eEu7oUEeT3NhuxGiYXgaI"
@@ -3980,7 +4056,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 200086,
       "name": "Perfect (Exceeder) - 1991 Remix",
       "url": "https://open.spotify.com/track/1VKWQgq0g2uKtgNfL0ceNM"
@@ -4002,7 +4078,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 163764,
       "name": "Perfect Harmony - Phibes VIP",
       "url": "https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx"
@@ -4174,7 +4250,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 274650,
       "name": "POW",
       "url": "https://open.spotify.com/track/3u7Iti3x8N4fKWUy0xgGOn"
@@ -4192,7 +4268,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183448,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
@@ -4444,7 +4520,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 268285,
       "name": "Relapse",
       "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
@@ -4466,7 +4542,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 216551,
       "name": "Release Me",
       "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
@@ -4597,6 +4673,40 @@
     },
     {
       "album": {
+        "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
+        "url": "https://open.spotify.com/album/0dmolG8epxpF6Lt15lRahj"
+      },
+      "artists": [
+        {
+          "name": "Brodie",
+          "url": "https://open.spotify.com/artist/7HvAimFUDbhD9XRv1dbJ9t"
+        },
+        {
+          "name": "Born On Road",
+          "url": "https://open.spotify.com/artist/7HEalvJ7jjJXVRTy3dSI5z"
+        },
+        {
+          "name": "Kelvin 373",
+          "url": "https://open.spotify.com/artist/2dfy5XzFykgcuyOaUhMlrD"
+        },
+        {
+          "name": "Selecta J-Man",
+          "url": "https://open.spotify.com/artist/25UCJWhCAOcXmm7i4hLyNP"
+        },
+        {
+          "name": "Aries",
+          "url": "https://open.spotify.com/artist/1zJ2muuUZOaJBgOxjXxyuZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192314,
+      "name": "Rig Fairy (feat. Kelvin 373, Selecta J-Man and Aries) - VIP",
+      "url": "https://open.spotify.com/track/5a97fAfJIHN6GfwwcVUNzA"
+    },
+    {
+      "album": {
         "name": "Riot Gear Romance",
         "url": "https://open.spotify.com/album/2EFKBPxVQcp4EwmlOzws21"
       },
@@ -4630,7 +4740,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 174171,
       "name": "Rudeboy",
       "url": "https://open.spotify.com/track/0XT8UILzCWoXZMvfmo8iNw"
@@ -4863,6 +4973,32 @@
     },
     {
       "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/46pWepYfmFsjoZIOQMz1GD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Haining",
+          "url": "https://open.spotify.com/artist/2XRjIwgD0UiJXtx7Xzfy7w"
+        },
+        {
+          "name": "Tempza",
+          "url": "https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC"
+        },
+        {
+          "name": "Gardna",
+          "url": "https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167068,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4n92wzBjtxwFb3d0f1jbtW"
+    },
+    {
+      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu"
       },
@@ -4926,6 +5062,28 @@
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
+    },
+    {
+      "album": {
+        "name": "Soundguy",
+        "url": "https://open.spotify.com/album/4qvSsh7qckIVcreLO9I6uI"
+      },
+      "artists": [
+        {
+          "name": "GLXY",
+          "url": "https://open.spotify.com/artist/1U8nnmbuPk1EpoO7MVgIeT"
+        },
+        {
+          "name": "Sustance",
+          "url": "https://open.spotify.com/artist/3069G1J62ioGObj518Umm2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "Soundguy",
+      "url": "https://open.spotify.com/track/3jCVsU1RyLxOpx41CnQM9g"
     },
     {
       "album": {
@@ -5094,7 +5252,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-05",
+      "date_removed": null,
       "duration_ms": 226206,
       "name": "Stop Talking",
       "url": "https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE"
@@ -5186,7 +5344,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 133793,
       "name": "Stubborn",
       "url": "https://open.spotify.com/track/2mDwqmYCoKNQoqZkgnkJxv"
@@ -5292,7 +5450,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 224232,
       "name": "Supersonic - Basstripper Remix",
       "url": "https://open.spotify.com/track/0vMIb12OsAkLzYuuWixnka"
@@ -5592,7 +5750,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-03",
+      "date_removed": null,
       "duration_ms": 154482,
       "name": "UFO",
       "url": "https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0"
@@ -5764,7 +5922,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-22",
+      "date_removed": null,
       "duration_ms": 105090,
       "name": "Wearing My Tracky",
       "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
@@ -5860,7 +6018,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 152822,
       "name": "where's my head at _",
       "url": "https://open.spotify.com/track/1hJN8hZvzEvOvqX32jSSrw"

@@ -4,7 +4,7 @@
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-463 songs - 1 day 5 hr 21 min
+465 songs - 1 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 | 2021-11-12 | 2022-07-29 |
 | [Get out of My Head](https://open.spotify.com/track/3RZXQB6zCmH4isPCM5nY4n) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Brain Pain](https://open.spotify.com/album/2a4cziYbGCoqvltbbnXxR1) | 3:10 | 2022-07-13 | 2022-07-29 |
 | [Ghost Shaped People](https://open.spotify.com/track/3DTBBooSCMAo2OcUQeNt2n) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ghost Shaped People](https://open.spotify.com/album/4wqrKmVmZFZMXwc1lQyE7g) | 4:05 | 2021-11-12 | 2022-07-29 |
+| [Gimme That Boom](https://open.spotify.com/track/5aZ9mfnT8jp3ZdrMQaF76j) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Smile](https://open.spotify.com/album/7bS1WGyOPaE03hEBzwyZHm) | 3:13 | 2024-09-05 |  |
 | [God Damn](https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko) | 3:41 | 2022-10-21 | 2023-11-11 |
 | [God Damn](https://open.spotify.com/track/67AwhpUrZfSLwK2ekFptmM) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0cdCviY5SBNmhmHSraQVmM) | 3:41 | 2022-04-04 | 2022-04-21 |
 | [Gold Cobra](https://open.spotify.com/track/2PDdjoIa7fHriNPkqu055e) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Gold Cobra \(Deluxe\)](https://open.spotify.com/album/5SWyjakBNg9n0JpnHaQQSI) | 3:53 | 2022-11-02 |  |
@@ -289,7 +290,7 @@
 | [Notorious](https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Notorious](https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD) | 2:50 | 2023-07-25 | 2024-04-19 |
 | [Notorious](https://open.spotify.com/track/5PZo9NMyNLxOlpEFoYo611) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Notorious](https://open.spotify.com/album/7b2MbEhzi3TMgbKn5Fkjqb) | 2:50 | 2022-07-13 | 2023-08-30 |
 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 | 2022-07-13 | 2022-09-28 |
-| [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2021-11-12 |  |
+| [Obsolete](https://open.spotify.com/track/4d8iN5Re3A6UOYVxZAbJ7v) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Obsolete](https://open.spotify.com/album/2hiPqMWbwko9fxKd1JWUI1) | 4:25 | 2021-11-12 | 2024-09-06 |
 | [Omen](https://open.spotify.com/track/2zCwpuQuSzm2Mk7h7JYNtS) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Omen](https://open.spotify.com/album/18NPrDrGXVfQDHOXUTUxSA) | 3:53 | 2022-04-13 | 2022-08-22 |
 | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/track/3HFD33d1GOur9PQswfVeaP) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Aaron Pauley](https://open.spotify.com/artist/6xbMbFrQZYm4BtqPQEwhu5) | [One Foot In The Grave \(feat\. Aaron Pauley of Of Mice & Men\)](https://open.spotify.com/album/2UtZm0xthYxvZdvjuNJqh7) | 3:28 | 2024-06-10 |  |
 | [ONE OF US](https://open.spotify.com/track/51rdCmgHBzg9HJ7eHjVRK9) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:24 | 2021-11-12 |  |
@@ -376,6 +377,7 @@
 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 | 2022-04-04 |  |
 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 | 2022-11-02 |  |
 | [Stålfågel](https://open.spotify.com/track/4HOVQhtjFCRGY9PnsLoR86) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Verkligheten](https://open.spotify.com/album/1bKXTR40NIO0RrsIlFQyTr) | 4:25 | 2024-08-03 | 2024-08-19 |
+| [Suffocate \(feat\. Poppy\)](https://open.spotify.com/track/6PXYOVPBzO3xojFhQAvmde) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw), [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [You Won't Go Before You're Supposed To](https://open.spotify.com/album/2sLBMdUF5HYNB0voqWs4K3) | 2:44 | 2024-09-05 |  |
 | [Sun Eater](https://open.spotify.com/track/2UYaWPvRRxv5vdhxyjpLLR) | [Sumo Cyco](https://open.spotify.com/artist/3rSpnCzb6wtsvZlGkkcHz4) | [Initiation \(Deluxe Version\)](https://open.spotify.com/album/4vGdpxFxmauDkkcXkbykSh) | 4:13 | 2021-11-12 | 2022-07-28 |
 | [Survivor](https://open.spotify.com/track/7KIcB8DLf6lygeroA4nYMR) | [Scott Stapp](https://open.spotify.com/artist/6HySSUk2KthFj3bd9R61ql) | [The Space Between the Shadows](https://open.spotify.com/album/4gWnScXgicxrQKRLRviZpH) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [SYSTEMATIC](https://open.spotify.com/track/3Hl5rvgzMgPGSx91MLWPOX) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SLEEPS SOCIETY](https://open.spotify.com/album/79sFCnrZ9TPamHkqCOQwJA) | 2:56 | 2023-06-02 | 2023-11-11 |
@@ -389,7 +391,7 @@
 | [That Day](https://open.spotify.com/track/7nobjDCjkn6Y8UDQFt2mga) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Nonpoint](https://open.spotify.com/album/7HYkuJ62NjUnGwMRm7wwUN) | 3:30 | 2022-07-13 | 2023-11-11 |
 | [That's My Jam](https://open.spotify.com/track/2WxJwVefvzqhGui9a2bMFz) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [That's My Jam](https://open.spotify.com/album/7w6uv3otp1CRCd8XjGtZOo) | 3:16 | 2022-04-04 | 2022-07-14 |
 | [That's My Jam](https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Big Tings](https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam) | 3:16 | 2022-11-02 | 2024-04-05 |
-| [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 | 2022-07-13 |  |
+| [The Antidote](https://open.spotify.com/track/7yGhfjsppOXSLcoSwcJ1yT) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:59 | 2022-07-13 | 2024-09-06 |
 | [The Bottom](https://open.spotify.com/track/4vpJYmoqQ2bGkC1IKVWeIG) | [Devour the Day](https://open.spotify.com/artist/4olk2DDoPvzAJlJBonZFHk) | [S.O.A.R](https://open.spotify.com/album/5OsKZSMhvAjBb47m8zakxI) | 3:02 | 2022-07-13 | 2023-03-25 |
 | [The Cage](https://open.spotify.com/track/2u15Avqt6Dr3fgq1XLSqeg) | [Citizen Soldier](https://open.spotify.com/artist/7fM0h2CG7zKqKc0jEa1b4R) | [The Cage](https://open.spotify.com/album/6jRJxHg5DovKXA27ntMyUG) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2022-10-07 | 2022-10-22 |

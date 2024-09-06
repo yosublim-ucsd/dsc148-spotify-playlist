@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Polo G
 
-871 songs - 1 day 16 hr 34 min
+873 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -539,6 +539,7 @@
 | [Old Days](https://open.spotify.com/track/7gM0bjWc2LpgZTihy4U18P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Old Days](https://open.spotify.com/album/5d1hVedvruMRp2GFplN9DI) | 3:15 | 2024-02-23 | 2024-08-03 |
 | [OLD SKOOL WHOOP](https://open.spotify.com/track/3vVglxAcpBVDR0B5HquXrU) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [SHONUFF](https://open.spotify.com/album/2Wex5QVHpDs99hZJxM55hr) | 4:01 | 2023-02-24 | 2023-04-15 |
 | [Olympic Shit Talkin](https://open.spotify.com/track/7iMyS2paeZ1pFLWlfCLotN) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF), [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Forget Me Not](https://open.spotify.com/album/1IOxq6YB4Rb5kANFxa5Vbe) | 2:03 | 2024-03-29 | 2024-04-13 |
+| [Olé Olé](https://open.spotify.com/track/4flACQjRqzX5Q4Hdil5ehP) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 2:22 | 2024-09-04 |  |
 | [On A Star \(feat\. FendiDa Rappa & Raiche\)](https://open.spotify.com/track/0n177AtFQY4VoYEGAV2EcZ) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b), [Raiche](https://open.spotify.com/artist/4yaRDENYr8yAAlEUf23DRI), [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [On A Star \(feat\. FendiDa Rappa & Raiche\)](https://open.spotify.com/album/5MSUYBMNkmi1HeWgkKW1AF) | 3:13 | 2023-10-13 | 2023-12-02 |
 | [On My Own](https://open.spotify.com/track/6Dgox7jnx9vMRQlyfcXBPK) | [Calboy](https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk) | [On My Own](https://open.spotify.com/album/639gMjOufhPpas54rznoPg) | 2:54 | 2023-07-28 | 2023-09-30 |
 | [On Up](https://open.spotify.com/track/7k0QYUgeKHmNuroFKUbQbw) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [On Up](https://open.spotify.com/album/3YLwQzaO1nUO6E4aMFTt7c) | 2:30 | 2024-08-02 | 2024-08-17 |
@@ -680,6 +681,7 @@
 | [Shordie \(with Gunna\)](https://open.spotify.com/track/6H6ZtVp6DymejLOJLdRzOI) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Survivor’s Remorse: A Side](https://open.spotify.com/album/11KPzNJd5GlFhb1R11cZVr) | 2:56 | 2022-10-21 | 2023-04-09 |
 | [Show Dat](https://open.spotify.com/track/3YnjEF9USwZuycc7CWTgbE) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy) | [Show Dat](https://open.spotify.com/album/7kPevCgsZgnDAkcZu324Go) | 2:52 | 2024-05-31 | 2024-06-29 |
 | [Show Us Some](https://open.spotify.com/track/4MHv1Aj2VvfhueuCQ7HEro) | [Lil Reese](https://open.spotify.com/artist/1bPxKZtCdjB1aj1csBJpdS), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Show Us Some](https://open.spotify.com/album/1R5XkbkfbYyCQtozO9WeOE) | 1:55 | 2021-10-15 | 2022-02-19 |
+| [Show You How to Ball](https://open.spotify.com/track/4dTTxsUdupznSkpmeSdQGB) | [GMO Stax](https://open.spotify.com/artist/7GCgSmqgis7c7z4ElZfTyK), [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Show You How to Ball](https://open.spotify.com/album/6zMhbqt6zvjtDS1kPKHNtO) | 2:18 | 2024-09-04 |  |
 | [Showstopper](https://open.spotify.com/track/2jgvCXn0M81JnYRM5CkKju) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Showstopper](https://open.spotify.com/album/0sphY41zkKz25R3ZXnoV3X) | 1:53 | 2022-03-25 | 2022-06-04 |
 | [Shut Up](https://open.spotify.com/track/2Y2bBcf53C7EbVTQ6QMSl5) | [E the profit](https://open.spotify.com/artist/55ZKRn4w3oNhBMV7sgG1PP) | [ETP](https://open.spotify.com/album/44MxZuG1D6fmiNqjmZ1QPs) | 2:04 | 2023-06-23 | 2023-08-19 |
 | [Shut Up \(feat\. Icewear Vezzo\)](https://open.spotify.com/track/4cuX6FQzeLkQUazvZDnEph) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Shut Up](https://open.spotify.com/album/326ZNOWH1SA60tvvGgGj4K) | 2:42 | 2022-11-11 | 2022-12-17 |

@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: אלון עדר
 
-101 songs - 6 hr 9 min
+102 songs - 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,19 +70,20 @@
 | [כל זמן שיהיה](https://open.spotify.com/track/1ptjFUKvetnXQVdOuuCv2R) | [Yoni Rechter](https://open.spotify.com/artist/05YG290otZjn1UMHXjEqxh) | [כל זמן שיהיה](https://open.spotify.com/album/0VKf839VIuf05fW86LeiTB) | 7:26 | 2024-08-22 |  |
 | [כל מה שיש לי](https://open.spotify.com/track/46uktboi95gUvrnfqoMJTr) | [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h) | [כל מה שיש לי](https://open.spotify.com/album/6xlMw4UotTi9vjNnNfcja9) | 3:24 | 2024-08-15 |  |
 | [כנען \(12 מרגלים\)](https://open.spotify.com/track/5Am5GSd3X37xFizHRop1YO) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx), [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [כנען \(12 מרגלים\)](https://open.spotify.com/album/0KG0JVyFQYi7ojbOF0jTUy) | 4:50 | 2024-06-27 |  |
+| [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 | 2024-09-05 |  |
 | [כשאין בי אהבה](https://open.spotify.com/track/1H4HWSagU7m1FjQf3slAKw) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [כשאין בי אהבה](https://open.spotify.com/album/7jpjHhEo31VK1T5DaVB8S5) | 3:20 | 2024-06-27 | 2024-07-12 |
 | [כשתהיה גדול](https://open.spotify.com/track/0Q9Ov43PNEpJETS22zCkO3) | [Mish Bejerano](https://open.spotify.com/artist/1oG8qiBUA1WVFpYkesEZBH) | [כשתהיה גדול](https://open.spotify.com/album/6LBEj25cxtyqT3H5SAduQR) | 3:31 | 2024-08-08 | 2024-08-23 |
 | [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 | 2024-08-10 |
 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 | 2024-07-25 | 2024-08-05 |
-| [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 |  |
+| [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 | 2024-09-06 |
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 |  |
 | [מגדל המים](https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [מגדל המים](https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU) | 3:47 | 2024-06-27 |  |
 | [מה לעשות עם הזאב](https://open.spotify.com/track/6ClLC1FYoL8orfOrcknQkk) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [איך האהבה הזאת חומקת בין האצבעות](https://open.spotify.com/album/7kO2WXy0zLHtKF49A4DwOP) | 2:49 | 2024-06-27 |  |
 | [מה קורה](https://open.spotify.com/track/5znDBBWwpKxdtg2aK8vxPZ) | [Assaf Amdursky](https://open.spotify.com/artist/7ncSeJV3xl2Q2HnWvllj4B) | [שירים שלא נכנסו לאלבום הראשון](https://open.spotify.com/album/0bPqS7b3y1MCdBXFEBSvxs) | 5:06 | 2024-06-27 | 2024-07-19 |
 | [מה שצריך עכשיו](https://open.spotify.com/track/5bIpv0uWRNzpyCIgtMfZbo) | [ניצן אלון](https://open.spotify.com/artist/0GHCd1IWetBFg2HuAelOSy), [Aviv Peck](https://open.spotify.com/artist/5fw6WCTMo2YveO5IP6cz6W) | [מה שצריך עכשיו](https://open.spotify.com/album/7ySfWffSk48imvNnivpPhd) | 3:19 | 2024-06-27 | 2024-07-12 |
 | [מנגב לך את הדמעות](https://open.spotify.com/track/1BFV4UNl1Ikm6Lg9RZRQEV) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [בית אבי חי](https://open.spotify.com/artist/6vvdEZLta5n7Shfl6HjAqH) | [מנגב לך את הדמעות](https://open.spotify.com/album/1qdOPBoXgkrtRnwATdzlN3) | 2:39 | 2024-06-27 |  |
-| [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 | 2024-06-27 |  |
+| [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 | 2024-06-27 |  |
 | [מראה שבורה \- לייב](https://open.spotify.com/track/6T1jIQSlwvQ7L3uHIX2PgJ) | [איתי דלומי](https://open.spotify.com/artist/0aCKA0bYDFN7BIt7v2YJrB), [Rona Kenan](https://open.spotify.com/artist/5Rpubz1id17VKCrm0mBW1h), [Eran Weitz](https://open.spotify.com/artist/3D99a797NmPrmX4s9WA750) | [מראה שבורה \(לייב\)](https://open.spotify.com/album/6NupFAXRVQ7qw2VrJwf1AE) | 3:46 | 2024-06-27 | 2024-07-12 |
 | [משהו בי חי](https://open.spotify.com/track/2rZH5yjqm3F4QkJEUJ29qX) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [משהו בי חי](https://open.spotify.com/album/1nLbe6nNP4Su8AFaH3GWjH) | 2:57 | 2024-08-08 |  |
 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 | 2024-06-27 |  |

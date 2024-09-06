@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover:  Randy Moss
+> Fourth quarter, two minutes left .\. get locked in\. Cover:  Lamar Jackson and Patrick Mahomes
 
 674 songs - 1 day 10 hr 11 min
 

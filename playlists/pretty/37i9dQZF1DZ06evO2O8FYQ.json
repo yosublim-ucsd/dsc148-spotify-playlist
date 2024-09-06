@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACTdePgs7lQhgmenETGL3pE",
+  "snapshot_id": "ZtejAAAAAAD/IVUaQIzV3IvAN0Ospn2I",
   "tracks": [
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
+        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
+        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
+      "duration_ms": 165773,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 184786,
-      "name": "Grim Valentine",
-      "url": "https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y"
+      "duration_ms": 98746,
+      "name": "Gimme Something",
+      "url": "https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nurtured EP - B-Sides and Bonus Tracks from Nature Nurture",
-        "url": "https://open.spotify.com/album/08UCZsDHQq9RcfuQO026T5"
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3GUDZsryEmkMvrjYWhwQix"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 165773,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/1HZAdnHEMtYT4f4L4zU2mH"
+      "duration_ms": 240280,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/6mVOKsjpRcm7QfFvugK4WZ"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/4MQsNhP9u10g1xuxaJBF0S"
         }
       ],
-      "duration_ms": 98746,
-      "name": "Gimme Something",
-      "url": "https://open.spotify.com/track/0SEXpfW8WE1GlJBoRYaM37"
+      "duration_ms": 184786,
+      "name": "Grim Valentine",
+      "url": "https://open.spotify.com/track/006Bhk6TqUiVEGQJVQ912y"
     },
     {
       "added_at": null,

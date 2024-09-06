@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Serving Country",
+        "url": "https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY"
+      },
+      "artists": [
+        {
+          "name": "Yung Gravy",
+          "url": "https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ"
+        },
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145154,
+      "name": "Cop A Truck (with Brantley Gilbert)",
+      "url": "https://open.spotify.com/track/4tlcnOZbBJMxjj1UbLd10S"
+    },
+    {
+      "album": {
         "name": "Cotton Candy Lemonade",
         "url": "https://open.spotify.com/album/3HZvR8MHQxmVhDRiVzqckQ"
       },
@@ -1010,6 +1032,24 @@
       "duration_ms": 127493,
       "name": "Go Bad - From The Netflix Film \u201cHe\u2019s All That\"",
       "url": "https://open.spotify.com/track/0KrxLbZ5Ii6o6PmDgcWii8"
+    },
+    {
+      "album": {
+        "name": "Good Bad & Ugly",
+        "url": "https://open.spotify.com/album/4V8iHTf70CbUtPmPre6WJl"
+      },
+      "artists": [
+        {
+          "name": "JaeyBxrd",
+          "url": "https://open.spotify.com/artist/4rBpyETZEnrBQB7Xc4oRfa"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121973,
+      "name": "Good Bad & Ugly",
+      "url": "https://open.spotify.com/track/5lrIBgTRHWlQj2LZdUYIwA"
     },
     {
       "album": {
@@ -1602,6 +1642,24 @@
       "duration_ms": 152186,
       "name": "Let's go to Hell",
       "url": "https://open.spotify.com/track/45JNYckUs23slxKt36DJzr"
+    },
+    {
+      "album": {
+        "name": "Missing Something",
+        "url": "https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y"
+      },
+      "artists": [
+        {
+          "name": "Asal",
+          "url": "https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134875,
+      "name": "Lie",
+      "url": "https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk"
     },
     {
       "album": {
@@ -2442,6 +2500,24 @@
       "duration_ms": 161497,
       "name": "virtual reality",
       "url": "https://open.spotify.com/track/18WaQZeWkZ9Yy0QZtxoW50"
+    },
+    {
+      "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201533,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Unearthing trailblazers\. Cover: J.M3
+> Unearthing trailblazers\. Cover: Josh Makazo
 
-76 songs - 4 hr 7 min
+77 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aku Ada](https://open.spotify.com/track/4ZurJR1BsX2m4f5rEy402F) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Aku Ada](https://open.spotify.com/album/3nEcXrYMBLnXfAumOk6yTa) | 3:06 | 2024-06-27 |  |
 | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/track/16dEsck7g3sl9GBgjNi9lj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx), [唐仲彣](https://open.spotify.com/artist/2AXIg0cc8pzzVcNnE3sSI6) | [All Night Long \(feat\. 唐仲彣\)](https://open.spotify.com/album/2FohZt2GfxsBBJwkHsrXps) | 2:29 | 2024-06-27 |  |
 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 | 2024-06-27 |  |
+| [Belong To You](https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Belong To You](https://open.spotify.com/album/6qnuQBa0OcjhsLbe8brjNF) | 3:16 | 2024-09-05 |  |
 | [brozone](https://open.spotify.com/track/4ZE2OPr5oeQbzeGZkQNAQU) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 3:42 | 2024-06-27 |  |
 | [Burn \- English Version](https://open.spotify.com/track/5IENcbXHvFoKAhecGLQtc6) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Burn \(English Version\)](https://open.spotify.com/album/11VgXoVhoRveVxdk7wFLRE) | 3:09 | 2024-06-27 |  |
 | [BUSSDOWN](https://open.spotify.com/track/1ysZrTXCyxKWherTLuYZDr) | [DISTORTED](https://open.spotify.com/artist/0Wv3gsDJdsG8860MkMtZby), [JOEK](https://open.spotify.com/artist/7uGX423vQ21F0GrjCI7fvu) | [BUSSDOWN](https://open.spotify.com/album/12nyRS91N6oD8DgXuRg50H) | 2:42 | 2024-06-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU?si=eMGAGfGpQsWF4Xx05Adw2g>Sunmisola Agbebi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,753 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,763 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 49 | [Halle \- Remix](https://open.spotify.com/track/3pYU8E6yHFDkWjsq97RlbH) | [Peterson Okopi](https://open.spotify.com/artist/4ouEwOfx8SDXXkTdQCPnOz), [Phindi P](https://open.spotify.com/artist/5dE89DuV6VJledFjwVjemU), [TWC](https://open.spotify.com/artist/2OzRLiRiuLhR5QkrwX8lQW) | [Halle \- Remix](https://open.spotify.com/album/2YeAPHd7mDzcnIdpoTeEwE) | 5:04 |
 | 50 | [NO TURNING BACK](https://open.spotify.com/track/6PG6ax7e9yKzZ7whHsfWHJ) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [NO TURNING BACK](https://open.spotify.com/album/0EPrh1j8nCXxkBEcLSRyID) | 2:07 |
 
-Snapshot ID: `ZtGeZAAAAABDaP6I8WQ/nzhv1keTGaVG`
+Snapshot ID: `ZtpGPAAAAADvLMrAHIKkYRbn0UeEdlqZ`

@@ -4,7 +4,7 @@
 
 > Rock, indie e punk dall'Italia 🎸 Cover: Vanarin
 
-1,045 songs - 2 day 9 hr 41 min
+1,049 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Cpr14](https://open.spotify.com/track/0kNVayFfKaampXjb0fdOCy) | [Gazebo Penguins](https://open.spotify.com/artist/7w6Xdr6KK4A4g9OySnUOUN) | [Cpr14](https://open.spotify.com/album/1TT1RZ8aAGVy04DVcv9oBt) | 3:44 | 2022-11-24 | 2023-01-27 |
 | [CRACCO](https://open.spotify.com/track/6UqEFbDhIFIQnL4g3AY675) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [CRACCO](https://open.spotify.com/album/1HwLLJbjwzEebz1n3gmVSw) | 2:28 | 2024-05-16 | 2024-08-09 |
 | [Crepuscolo](https://open.spotify.com/track/2ynNY2fbbznv1JE5ePaNQ7) | [Buriana](https://open.spotify.com/artist/2xp9MuQLpCHqMuoRQ2AtHu) | [Crepuscolo](https://open.spotify.com/album/24N87ShW17h11WIXpdlGnd) | 3:15 | 2023-04-14 | 2023-06-09 |
+| [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/track/5brfd9l0op8jNVGK8Hzwdw) | [Bambole Di Pezza](https://open.spotify.com/artist/2RucBHMHhR5LMQUoGO19OW), [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [Cresciuti male \(feat\. J\-AX\)](https://open.spotify.com/album/0C91CO3GlyIlxfmZNJ5xbK) | 2:13 | 2024-09-05 |  |
 | [Crispy](https://open.spotify.com/track/5qThAUaX5m9rxiCrYckogG) | [Siouxie and the Skunks](https://open.spotify.com/artist/687wBZ0bSTp7AaCf2UYcOR) | [Songs About Cuddles](https://open.spotify.com/album/0ZueNLhUivQE9u5JNsUKNF) | 3:28 | 2024-03-21 | 2024-06-07 |
 | [CRISTALLI](https://open.spotify.com/track/4ZVyFW3LQyCuAogzMSaoox) | [NAMIDA](https://open.spotify.com/artist/4duGFkhJRa85BPJowuoFDv) | [CRISTALLI](https://open.spotify.com/album/52KLBDTEnwxIkJCjh0gRpK) | 2:35 | 2023-06-29 | 2023-10-20 |
 | [Cristallo metallo](https://open.spotify.com/track/2GNllavhO7WsdE2yRuKWnO) | [Post Nebbia](https://open.spotify.com/artist/0BdiTIT0f1quCjphcLrwKZ) | [Cristallo metallo](https://open.spotify.com/album/17KgId2ANISJqXZrb5fT6c) | 3:23 | 2022-05-09 | 2022-06-17 |
@@ -407,6 +408,7 @@
 | [HEY NOI](https://open.spotify.com/track/3zC7HuEPnmhtDvIEFgtkwZ) | [ROS](https://open.spotify.com/artist/15kGQ75uyHlhEeK4ZK40YB) | [HEY NOI](https://open.spotify.com/album/5rg0nCPqqkiaHL6QXpTF4K) | 2:45 | 2023-06-22 | 2023-07-28 |
 | [Hey U](https://open.spotify.com/track/25Tztg1uslRPRXpXzsXctK) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Hey U](https://open.spotify.com/album/27oTo8ISybYjEze4YL67Bc) | 2:01 | 2022-05-09 | 2022-05-27 |
 | [High On Stress](https://open.spotify.com/track/1y2fS0kinayyO7Ih4vFrqT) | [The Manges](https://open.spotify.com/artist/5Uop1XjzGUDG3t4uoWXooc) | [High On Stress](https://open.spotify.com/album/4TTP6knd1uIUPK2NlFfSEX) | 2:38 | 2022-05-12 | 2022-06-24 |
+| [Ho paura di vederti](https://open.spotify.com/track/6Lf4ibOAF5rdWsulHVN4Ug) | [The Snookers](https://open.spotify.com/artist/2a7yyVkE8ckYhuBmce4JFM) | [Ho paura di vederti](https://open.spotify.com/album/7cnsQbQ16zd90of9uCoCoq) | 2:47 | 2024-09-05 |  |
 | [ho perso \(tempo\)](https://open.spotify.com/track/0ZmJQPFg9BOF2Bhcygfrfd) | [joe croci](https://open.spotify.com/artist/48AI6QByBPDMRrZZDskGzD) | [ho perso \(tempo\)](https://open.spotify.com/album/6lQbHdReyXxt7N3KxGYxkY) | 2:34 | 2023-10-05 | 2023-11-17 |
 | [ho sentito il tuo cuore](https://open.spotify.com/track/4TdtIFAJvvn7Hrg1DHkier) | [ciliegia suicidio](https://open.spotify.com/artist/4SEMUz1c0Z8kEc9E9NbnS3) | [i mostri col cazzo che si nascondono sotto alle lenzuola](https://open.spotify.com/album/7LCf7e9ejfOnOqAE7oFSvJ) | 2:11 | 2023-03-02 | 2023-03-31 |
 | [Ho'oponopono](https://open.spotify.com/track/0Zluv3GSvcioMI90TlJr6w) | [Tre Allegri Ragazzi Morti](https://open.spotify.com/artist/6jKqcDpxUSl4gbjgc97L22) | [Ho'oponopono](https://open.spotify.com/album/4fDW5mdTkWAkpKMYc290qr) | 3:00 | 2024-02-29 | 2024-05-10 |
@@ -681,6 +683,7 @@
 | [Okey \(Unsolved\)](https://open.spotify.com/track/2aFLQXjaxK37rG6w4WqM9K) | [PIPYA](https://open.spotify.com/artist/4MopKRVZ6lyknlOml9P0Zz) | [And the Gangband Vol\. I](https://open.spotify.com/album/5d75e3Qi8Nao1CloFB1bgy) | 4:57 | 2024-05-16 | 2024-06-01 |
 | [Oki](https://open.spotify.com/track/0tQyP1NLdenjVtxa2pLGw5) | [CALMI](https://open.spotify.com/artist/1EMmg2PUpITYRwsGvpUWat) | [Una comune esperienza umana](https://open.spotify.com/album/3WGZZVgobE2JFuASTZIZxp) | 2:35 | 2023-06-08 | 2023-07-28 |
 | [Ombrastella](https://open.spotify.com/track/2s3wL6X1Vhrem3xgkJZHb8) | [FoFoForever](https://open.spotify.com/artist/5xR3wo9O0dqoNuinin4an4), [Francesco De Leo](https://open.spotify.com/artist/3PpiZ8N2SEIctxgh7iDuiU) | [Ombrastella](https://open.spotify.com/album/5FQu9txwDquLt5YTZ7FVsE) | 2:39 | 2024-06-27 |  |
+| [On My Own](https://open.spotify.com/track/2mvmpAHmVLtBdScwZWqAXE) | [Simon Says!](https://open.spotify.com/artist/186v5tVeJT1K15be0J5vKe) | [On My Own](https://open.spotify.com/album/2XDbxB9iIQOwKPcwHcFnMn) | 2:34 | 2024-09-05 |  |
 | [Oncetime](https://open.spotify.com/track/4bC4hPbLPwbF4d42ff3dfY) | [JAGWARI](https://open.spotify.com/artist/7lEA9nHCMpZmdjHjKaZFns) | [JAGWARI, Pt\. 1](https://open.spotify.com/album/1tB4n3uO7E98f8U7syRyDq) | 3:08 | 2023-11-09 | 2023-12-15 |
 | [Open Access](https://open.spotify.com/track/4181R1o6hcVe8LMmGhkxWJ) | [montag](https://open.spotify.com/artist/3tace7aJONiUqExBPqfYb0) | [Open Access](https://open.spotify.com/album/4KFYFGfZewWABulugtQqSF) | 2:38 | 2023-01-31 | 2023-05-04 |
 | [ORBO](https://open.spotify.com/track/4VBCWRlrzDNxyjBEfuubST) | [I Le Lucertole](https://open.spotify.com/artist/5RzjUawywFTUvNpO6wEvvM) | [ORBO](https://open.spotify.com/album/6UYDYZNV39L4V138niJ2Pf) | 3:55 | 2022-05-19 | 2022-07-01 |
@@ -946,6 +949,7 @@
 | [Time and Time](https://open.spotify.com/track/5yoZ3ruzBCsMWLWrEMRb2W) | [Bee Bee Sea](https://open.spotify.com/artist/5CKsgoNaSS96h4gPbLFuWV) | [Time and Time](https://open.spotify.com/album/4tnfYJuYrz6WOmIc0BjDAa) | 4:52 | 2023-04-13 | 2023-05-26 |
 | [Tipi a posto](https://open.spotify.com/track/7dhM6cmSACQt53M0T7Vnqb) | [Antartica](https://open.spotify.com/artist/3waKEzmxmiC9ZNDlCyL9Wb) | [Tipi a Posto](https://open.spotify.com/album/0OTDRav72ZKBKSCTORhVnF) | 2:20 | 2023-04-06 | 2023-05-05 |
 | [Tokyo 20](https://open.spotify.com/track/4psZkMjNV6bDrkvKFjGtFU) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Tokyo 20 / Spirito](https://open.spotify.com/album/3vSYheKa4APkJSC03A77Bo) | 3:21 | 2024-07-11 |  |
+| [Tonight](https://open.spotify.com/track/1FB26IGwOp4GtGzssdV4BD) | [Giungla](https://open.spotify.com/artist/2hXIoMXYA65EDbqyLMzr5r) | [Tonight](https://open.spotify.com/album/3ilWH0uA8uI5bQBuE2QOKO) | 3:00 | 2024-09-05 |  |
 | [Topi](https://open.spotify.com/track/5GCBuDynnVjvmxAjqJBEEl) | [CASX](https://open.spotify.com/artist/2J1ivtTZT4Trce2QNrgnUU) | [Topi](https://open.spotify.com/album/68WjLDJML5tpV0wjOuMdjk) | 3:24 | 2023-03-09 | 2023-04-28 |
 | [Torino non è la mia città](https://open.spotify.com/track/3YL6KwcKsIoQ7yLgBR4fUG) | [Scheletri](https://open.spotify.com/artist/5tzlUTfnx5Wp7dRPrJ8nPj) | [Torino non è la mia città](https://open.spotify.com/album/0y0n9AJZaUJ1QefMfIRlKU) | 3:33 | 2023-04-06 | 2023-05-12 |
 | [Touch Me](https://open.spotify.com/track/5xXHDzHyqXvrA3ZI9FGrXJ) | [Puà](https://open.spotify.com/artist/3QxZsvWeRws1CzQLPfIsFq) | [Animali](https://open.spotify.com/album/0QyUJdtQoZYZ2TfXCWRagB) | 2:54 | 2024-02-01 | 2024-02-03 |

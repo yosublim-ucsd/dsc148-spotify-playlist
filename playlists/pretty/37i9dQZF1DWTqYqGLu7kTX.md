@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 
 > This is how we do it, This is our style.<br/>Cover: Sidhu Moose Wala
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,246 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,539 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTqYqGLu7kTX.md) - [plain]
 | 12 | [First Class](https://open.spotify.com/track/4ea35OZX4UT2gwhvlJCph6) | [Sukh\-E Muzical Doctorz](https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ), [MNLTX](https://open.spotify.com/artist/2g012qHtkRZyFmoM0Pu5Ws) | [First Class](https://open.spotify.com/album/1lWqSxox5zlk66RGQDNiJK) | 2:25 |
 | 13 | [Badland](https://open.spotify.com/track/1MvSyJE0RcXWfcEVpWaTPO) | [Bob.B Randhawa](https://open.spotify.com/artist/64v80BSPBbO4NG2EKLdbgC), [Spaceship](https://open.spotify.com/artist/6w4hV4erWlCgsaNUEmS7od) | [Time Will Tell](https://open.spotify.com/album/60hP5BO12BmQs3KjUgGyqc) | 3:21 |
 | 14 | [Safety Off](https://open.spotify.com/track/3NwmvlTYDZPRBGDMGgJH8K) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Leo](https://open.spotify.com/album/1h0Yw7Wm49GGiGpN2gd3o2) | 2:23 |
-| 15 | [LC](https://open.spotify.com/track/72Knl6oBSAmZ7C4SFNsPd2) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [LC](https://open.spotify.com/album/6RCaDL2k6YIf7nsPpnwYZf) | 2:30 |
+| 15 | [LC](https://open.spotify.com/track/72Knl6oBSAmZ7C4SFNsPd2) | [DJ Flow](https://open.spotify.com/artist/3MP2WJg5D3bmH5Mz2scPF8), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Balkar](https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k) | [LC](https://open.spotify.com/album/6RCaDL2k6YIf7nsPpnwYZf) | 2:30 |
 | 16 | [Goin' Off](https://open.spotify.com/track/3txE0SZnwamBhYB2ZQtHwU) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Goin' Off](https://open.spotify.com/album/3uXGbWKTUkC14RmbgjTQlM) | 2:43 |
 | 17 | [Murder](https://open.spotify.com/track/0uMY0ZOYpXKHPxuakVtQzs) | [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G) | [Murder](https://open.spotify.com/album/1i6h3Xs1qunoQAO7N2XHVg) | 3:02 |
 | 18 | [Wake Up Call](https://open.spotify.com/track/4a4RBRrHoYe4akc8lYSPX7) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Gill Madhipuriya](https://open.spotify.com/artist/5HK0k0FIFR1al68TrZkfdp) | [Wake Up Call](https://open.spotify.com/album/1wP7zwsGUxHsZu5dD5Dzvt) | 3:45 |

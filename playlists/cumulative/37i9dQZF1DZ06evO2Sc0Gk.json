@@ -1950,6 +1950,36 @@
     {
       "album": {
         "name": "Oh My Gawd",
+        "url": "https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "K4mo",
+          "url": "https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Oh My Gawd",
+      "url": "https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d"
+    },
+    {
+      "album": {
+        "name": "Oh My Gawd",
         "url": "https://open.spotify.com/album/2zTCpBjXqGaZwwdSCSXc2R"
       },
       "artists": [
@@ -3048,7 +3078,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 153992,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/6uqAcjD0a81jJkJJD6NzCC"

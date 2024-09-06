@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Les hits zouk du moment. Photo : Fanny J",
+  "description": "Les hits zouk du moment. Photo : DJ Kawest",
   "name": "Zouk Station",
   "tracks": [
     {
@@ -1011,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "J'me pr\u00e9f\u00e8re",
+        "url": "https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175603,
+      "name": "J'me pr\u00e9f\u00e8re",
+      "url": "https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1"
+    },
+    {
+      "album": {
         "name": "Je le savais",
         "url": "https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC"
       },
@@ -1464,7 +1482,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 175225,
       "name": "Ma dose",
       "url": "https://open.spotify.com/track/6uZezXA1pDL4NcwxLdrnGD"
@@ -2065,6 +2083,28 @@
     },
     {
       "album": {
+        "name": "Patch\u00e9 Pata",
+        "url": "https://open.spotify.com/album/52Vqc4Gt6W0W0ymKeaOftd"
+      },
+      "artists": [
+        {
+          "name": "Saina Manotte",
+          "url": "https://open.spotify.com/artist/0ftpDCmIMJEV7wODuCu6Cj"
+        },
+        {
+          "name": "Pompis",
+          "url": "https://open.spotify.com/artist/5MvTyp1ILPh1FZupAcFffI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167561,
+      "name": "Patch\u00e9 Pata",
+      "url": "https://open.spotify.com/track/2fHdAwgVFYMqRs0Gul1jji"
+    },
+    {
+      "album": {
         "name": "Piment",
         "url": "https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E"
       },
@@ -2646,7 +2686,7 @@
       ],
       "date_added": "2023-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 206294,
       "name": "TKT PAS",
       "url": "https://open.spotify.com/track/794czLwx4ZNky1ltmguo8u"

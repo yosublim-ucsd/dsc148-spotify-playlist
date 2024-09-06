@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-480 songs - 22 hr 54 min
+481 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,6 +265,7 @@
 | [Laadla](https://open.spotify.com/track/5mGAQXwHbwdknsmupmSvrI) | [Deep Kahlon](https://open.spotify.com/artist/13I6uR82Cjz7RlWtGDBXnz) | [Laadla](https://open.spotify.com/album/5NyFfchNcLDT04OTahxUPI) | 4:07 | 2023-10-04 | 2024-04-12 |
 | [Laara](https://open.spotify.com/track/6YjzEVM695unCYO1rAAoQy) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:07 | 2024-04-26 |  |
 | [Laareyan](https://open.spotify.com/track/1YGV9xfXsIF93WYyQzwcCZ) | [Vicky sandhu](https://open.spotify.com/artist/3vYjrjW80Bsa4lKBNIYZVT), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Laareyan](https://open.spotify.com/album/5faxscqEzI3hb6gSSVVHdP) | 3:23 | 2024-08-12 | 2024-08-21 |
+| [Lakh Lagje](https://open.spotify.com/track/3jo8Skp9Zb42J7smlir9pz) | [Love Brar](https://open.spotify.com/artist/60lKtBkcPvtB70ZNkGzUeQ) | [Lakh Lagje](https://open.spotify.com/album/49uhqEP8BvmBraMlXHADRT) | 3:21 | 2024-09-05 |  |
 | [Lalkara](https://open.spotify.com/track/2oenSXLDbWVaaL7QjSGYj5) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd) | 2:40 | 2023-10-23 | 2024-07-27 |
 | [Lalkara](https://open.spotify.com/track/6swVP5qDAjqlzbF2R3A4bC) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4) | [Ghost](https://open.spotify.com/album/4kWZIqo8LpvJxE7pDcOeQH) | 2:40 | 2023-10-26 | 2023-11-17 |
 | [Lambo Flow](https://open.spotify.com/track/3w9vIld1UbvPOdDj89dHaj) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Lambo Flow](https://open.spotify.com/album/2L8DokfZs3TSWmRlPnFbx3) | 2:51 | 2023-09-12 | 2023-10-26 |
@@ -442,7 +443,7 @@
 | [Tryna](https://open.spotify.com/track/07MVHWeQ4Tl1IpHp6gnMvd) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ) | [Tryna](https://open.spotify.com/album/6QljW2V2G1x9e26LwABOmQ) | 3:13 | 2024-07-08 | 2024-07-19 |
 | [Tu Te Sharaab](https://open.spotify.com/track/0oUfa6l7wLkVAdXpuZv1Es) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Tu Te Sharab](https://open.spotify.com/album/2WkHsdB7xX7Iogc6V3mMCc) | 3:15 | 2023-03-29 | 2023-05-28 |
 | [Tu Te Sharaab](https://open.spotify.com/track/1DdAnzhSw7HT4xMNDrGMcV) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv) | [Jordan Sandhu Hits](https://open.spotify.com/album/1o3aNTlOP5JyryDI2D5aMq) | 3:15 | 2023-05-26 | 2024-04-19 |
-| [Tu Te Sharab](https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tu Te Sharab](https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48) | 3:15 | 2024-04-19 |  |
+| [Tu Te Sharab](https://open.spotify.com/track/5aVuu233cUXaz2899s8fT9) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Tu Te Sharab](https://open.spotify.com/album/0rNIfWLgk9zDDTny87rS48) | 3:15 | 2024-04-19 | 2024-09-06 |
 | [Udda Adda](https://open.spotify.com/track/5l73e044D6SL8IrgKtQzbn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Udda Adda](https://open.spotify.com/album/5rY6xAOZ9b4hg9HtOY5FPK) | 2:26 | 2024-06-28 | 2024-07-09 |
 | [Unanswerable](https://open.spotify.com/track/0nestoDLiYS47RsEiET5fC) | [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8) | [Unanswerable](https://open.spotify.com/album/3liOTxNCO9JIZnVB50hFUV) | 2:54 | 2024-01-02 | 2024-01-18 |
 | [Unexpected](https://open.spotify.com/track/1sbwUh5TnxyIug3zfbGwhJ) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Billa Balero](https://open.spotify.com/artist/43wdO0MiAJylEiH6aoUh7f), [J.Hind](https://open.spotify.com/artist/3hWwqQE8pDtGEOOf0VJx4t) | [Unexpected](https://open.spotify.com/album/0KN5XdHYFCLoBqUu7DS4w2) | 2:59 | 2023-06-30 | 2023-11-16 |

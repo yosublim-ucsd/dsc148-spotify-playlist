@@ -4,7 +4,7 @@
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Aina Abdul, Fabio Asher
 
-520 songs - 1 day 8 hr 48 min
+521 songs - 1 day 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Bukan Dengan Kita](https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bukan Dengan Kita](https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy) | 4:33 | 2023-04-05 | 2023-08-03 |
 | [Bukan Karena Tak Cinta](https://open.spotify.com/track/66mmXcrSk8HfyIf28hRGIT) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd), [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Bukan Karena Tak Cinta](https://open.spotify.com/album/1txZB0N3UvCesSy5mdyq3x) | 4:18 | 2024-06-12 | 2024-07-04 |
 | [Bukan Ku Tak Sudi](https://open.spotify.com/track/3ZLT0HblDRAA2VtigVUy8z) | [Usop](https://open.spotify.com/artist/4Gva5ICIXF9VvD8AEIyOSX), [Apex Tajudin](https://open.spotify.com/artist/2XJ2ePxUF5CnYf2VRPo6la) | [Bukan Ku Tak Sudi](https://open.spotify.com/album/6x30MeoOMh3ROo5jrlrY9w) | 3:44 | 2023-04-26 | 2023-05-24 |
+| [Bukan Lagi Kita](https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv) | [Nadeera](https://open.spotify.com/artist/4KMw2UKyEd9miV1F3uRQXB) | [Bukan Lagi Kita](https://open.spotify.com/album/1K8IO5SGFca4ot9mPyngjv) | 3:32 | 2024-09-05 |  |
 | [Bukan Milikku](https://open.spotify.com/track/1yavbHLRJuSRdfZGKcztfn) | [Floor 88](https://open.spotify.com/artist/4QwvHvUlOSlPvxH7ldeEvD) | [Bukan Milikku](https://open.spotify.com/album/1uYOd8vzHaaDO0ZN8c0NC7) | 4:46 | 2024-05-15 | 2024-07-04 |
 | [Bukan Milikmu](https://open.spotify.com/track/7ng6S2AgkeiTUQxqt144Oh) | [Han Byul](https://open.spotify.com/artist/4BGk8nswKSAE0bSuxA1uTP) | [Bukan Milikmu](https://open.spotify.com/album/4mvPsc8drKxg40vjva9y1d) | 4:00 | 2022-05-25 | 2022-08-18 |
 | [Bukan Sebuah Rindu](https://open.spotify.com/track/52nlvStdjH3V5h4Kga8nTp) | [Yovie Widianto](https://open.spotify.com/artist/7Ln5yumFjHCkeZ8bAzHUcp), [Andmesh](https://open.spotify.com/artist/6IDsZZ4IHgs9VblBgQQSmt) | [Bukan Sebuah Rindu](https://open.spotify.com/album/3aEQ9agxX7W9hCR5dQi4jy) | 3:51 | 2024-05-15 | 2024-06-05 |
@@ -358,7 +359,7 @@
 | [Pejam](https://open.spotify.com/track/70ZVALP5Zdc5RwYmRqcCuJ) | [Khai Bahar](https://open.spotify.com/artist/3jNp263VZXVLzuznuLgghq), [Adira Suhaimi](https://open.spotify.com/artist/3BwdkvUUHLP8pZj9hN4FiF) | [Pejam](https://open.spotify.com/album/5Mx54PHn9cyvTA7MqHIRNb) | 3:45 | 2023-09-27 | 2023-11-02 |
 | [Pelukan Angkasa](https://open.spotify.com/track/7fIy9XzcyuehISrxOarqT2) | [Sekumpulan Orang Gila](https://open.spotify.com/artist/0lsic3ZlNuapuwzbmD4imv), [Shila Amzah](https://open.spotify.com/artist/6lrBGrd0TJMQxfzSdPAn3X) | [Pelukan Angkasa](https://open.spotify.com/album/3WORap8ygxl4A6qxjLEsiC) | 3:51 | 2022-05-25 | 2022-07-22 |
 | [Pencarianku](https://open.spotify.com/track/7MajjFbtZq2ZfELVQ4Op3x) | [Aisha Retno](https://open.spotify.com/artist/1eizIry8svwmH0cSjLUEYy) | [Pencarianku](https://open.spotify.com/album/423zHeEaXrsN5yMQK133ID) | 3:58 | 2022-05-25 | 2022-08-11 |
-| [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-25 |  |
+| [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-25 | 2024-09-06 |
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-24 | 2024-08-29 |
 | [Penyangkalan](https://open.spotify.com/track/3GdN5n6p34yFMd12WKq8jL) | [For Revenge](https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1) | [Penyangkalan](https://open.spotify.com/album/5DYiigOQPVOXd99jUnRTdP) | 4:00 | 2024-07-24 | 2024-08-29 |
 | [perayaan mati rasa](https://open.spotify.com/track/1RyqmamAZTAB9WSZpX4S3f) | [Umay Shahab](https://open.spotify.com/artist/1Mupz2Po4xVP1xQL8yPDGa), [Natania Karin](https://open.spotify.com/artist/4HtAIvJXDROCWO5Bb9dL9d) | [when it all ends HERE](https://open.spotify.com/album/1GqVTlNRWsjQo9b4HcuEpL) | 4:45 | 2023-09-06 | 2024-07-25 |

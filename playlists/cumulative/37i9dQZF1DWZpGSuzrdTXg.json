@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "Please Slow Down",
+        "url": "https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163324,
+      "name": "Please Slow Down",
+      "url": "https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR"
+    },
+    {
+      "album": {
         "name": "Promise",
         "url": "https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0"
       },
@@ -3410,7 +3428,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 202106,
       "name": "Where's My Love",
       "url": "https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT"

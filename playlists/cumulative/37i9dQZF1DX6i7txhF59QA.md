@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: YOUNGTAK\(영탁\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-903 songs - 2 day 3 hr 31 min
+904 songs - 2 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Delilah \(guitar by Ham Chun Ho\)](https://open.spotify.com/track/3POxo1AVC3L9jXOtrXNO50) | [Cho Youngnam](https://open.spotify.com/artist/2buYSyVLRSRpDtKB0JzWiR), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Bongsungah school PART15](https://open.spotify.com/album/06ONAyDAqBtnpcx8hWSkHt) | 3:14 | 2022-04-22 | 2022-07-24 |
 | [Desert Island](https://open.spotify.com/track/3I03ioZwAMs2ZAT5mo9ct2) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART10](https://open.spotify.com/album/38YiZVacI8Yyu2PcauaRgT) | 3:50 | 2022-04-22 | 2022-07-03 |
 | [Despacito](https://open.spotify.com/track/62ziudLgVpIuHQHTVWJPR1) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART3](https://open.spotify.com/album/4yTFiZEUtbItfWaKTa1cOf) | 1:55 | 2022-05-03 | 2022-07-24 |
-| [Did you see?](https://open.spotify.com/track/4PyXMzFClFXCFkzxWqB9vu) | [Shin Inseon](https://open.spotify.com/artist/0j3AGsh17Szy6BFiXcMpA8) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:01 | 2024-08-13 |  |
+| [Did you see?](https://open.spotify.com/track/4PyXMzFClFXCFkzxWqB9vu) | [Shin Inseon](https://open.spotify.com/artist/0j3AGsh17Szy6BFiXcMpA8) | [Best of Mr\. Trot Preliminary](https://open.spotify.com/album/22SUPxLxO7DUsKnf0b4qAb) | 2:01 | 2024-08-13 | 2024-09-06 |
 | [Do not give up](https://open.spotify.com/track/0BNKx2eeYLIhjPIeK6bq0I) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4), [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k), [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Bongsungah school PART10](https://open.spotify.com/album/5yzyorzCF8cBIhgXJZqXHN) | 3:41 | 2022-07-04 | 2022-07-10 |
 | [Do Not U turn](https://open.spotify.com/track/1C2jmeOffBm9vD6mMw46yd) | [박군](https://open.spotify.com/artist/3Fe5DbLAhIho2Gdc3xr6BC) | [Do Not U turn](https://open.spotify.com/album/6hILjW7IC1yp72l7nrrZ46) | 3:22 | 2022-04-07 |  |
 | [Doll](https://open.spotify.com/track/7z2gqtQdjfQLio422Ldx63) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Jeong Myeong Kyu](https://open.spotify.com/artist/4MT304jerDdVCtOutaqajA) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 4:42 | 2022-04-22 | 2022-07-24 |
@@ -899,6 +899,7 @@
 | [태클을 걸지마](https://open.spotify.com/track/2ZE58r2vseLLeSr152ce7s) | [Jin Sung](https://open.spotify.com/artist/73Bihnu9ymiWuNTNtZLg9Z) | [트롯가왕](https://open.spotify.com/album/2GhSslxollNuNr8Q94sa4b) | 2:44 | 2022-04-21 |  |
 | [테스형!](https://open.spotify.com/track/57oDPVvNldgc6setk832Ev) | [Na Hoon\-A](https://open.spotify.com/artist/6w4Xk1ziLyfweN6w3KdhxG) | [아홉 이야기](https://open.spotify.com/album/3cbESEgKDuZ1JYO1yDTvB2) | 4:38 | 2022-04-07 |  |
 | [파트너](https://open.spotify.com/track/7KOjeZxrGtUvXBL3jdyyED) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH), [박가빈](https://open.spotify.com/artist/2MJzSm31EecgMb9SdPhYsf) | [아무도 모르게 김호중의 파트너 Pt\. 4](https://open.spotify.com/album/1tgsVFqUFXFCcfoTogeGky) | 3:44 | 2022-04-07 | 2022-07-04 |
+| [평행선](https://open.spotify.com/track/3uDPEYcRxNVdflXOmraU1z) | [문희옥](https://open.spotify.com/artist/0r8ZiqQdT7hMdaHbZY6a7E) | [4인의 명품가왕 베스트](https://open.spotify.com/album/5py19ysNA0ATyqDdO5aXO0) | 3:01 | 2024-09-03 |  |
 | [풍등](https://open.spotify.com/track/4LRwxYACbFQpM8cWbQVBS5) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/5SHzzLq6kYCnAqnMfgs20f) | 4:08 | 2023-02-21 | 2023-08-18 |
 | [풍등](https://open.spotify.com/track/5DsfVKZSYC8O1ETXhddjjV) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [ONE](https://open.spotify.com/album/1gerIiArAWWKeZoA5XNErG) | 4:08 | 2023-10-16 |  |
 | [하늘 여행](https://open.spotify.com/track/7i6gw4yvdxfTAbjHOmSjsP) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [bright;燦](https://open.spotify.com/album/0KnSUj4tVouYcRhP0DePZn) | 3:53 | 2024-08-13 |  |

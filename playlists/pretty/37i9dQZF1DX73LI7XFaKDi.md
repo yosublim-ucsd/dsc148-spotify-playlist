@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX73LI7XFaKDi.md) - [plain]
 
 > There's a new way to be wicked\. Listen to all the music from Descendants, including Descendants: The Rise of Red.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,536 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,971 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

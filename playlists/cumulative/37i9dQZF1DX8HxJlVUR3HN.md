@@ -2,9 +2,9 @@
 
 ### [Volume France](https://open.spotify.com/playlist/37i9dQZF1DX8HxJlVUR3HN)
 
-> Les meilleures nouveautés de la scène rock française\. Photo : The Odds
+> Les meilleures nouveautés de la scène rock française\. Photo : Storm Orchestra \(avec Loïc le batteur\)
 
-251 songs - 15 hr 18 min
+254 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Born to Win](https://open.spotify.com/track/4fsVCgzknleqGFmV7WihCF) | [La Rosa](https://open.spotify.com/artist/3XX6YLm7pQFZZA8qo0MtmB) | [Born to Win](https://open.spotify.com/album/5DVy8NKNSeRGYIjH7rCftk) | 2:31 | 2023-10-12 | 2023-12-08 |
 | [Break Even](https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Break Even](https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se) | 6:10 | 2023-10-05 | 2023-11-25 |
 | [Break The Rules](https://open.spotify.com/track/65uA9t4W1khgUaCYg7Y018) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [What A Time To Be Alive](https://open.spotify.com/album/2z8GnZChsFh5azAx1Rpbpl) | 3:19 | 2023-09-28 | 2023-11-10 |
-| [Bright Soul](https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Bright Soul](https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY) | 2:59 | 2024-06-13 |  |
+| [Bright Soul](https://open.spotify.com/track/4xvLk9biHaiDH6sZQ6F8Lb) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Bright Soul](https://open.spotify.com/album/2nABJf5Qgz34ayXKpWuRAY) | 2:59 | 2024-06-13 | 2024-09-06 |
 | [Bring the Fun Back to Me](https://open.spotify.com/track/0vXBJJ1cW9Gc3h13Z4NvTp) | [Ponta Preta](https://open.spotify.com/artist/4yJHzoFmD1ysQRd3qDR37e) | [Bring the Fun Back to Me](https://open.spotify.com/album/6YXlAgunvz0RKjNXJidPkh) | 3:33 | 2023-09-28 | 2023-11-03 |
 | [Broken Bones](https://open.spotify.com/track/2ZTXDpAna2oX7SmxctOjmi) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Broken Bones](https://open.spotify.com/album/7Bo93WOR189AwOAt6RUvAD) | 3:25 | 2023-09-28 | 2023-10-13 |
 | [Bruised And Battered](https://open.spotify.com/track/6EnpuWBCsYGh9Eeq4E3rKR) | [Bad Situation](https://open.spotify.com/artist/6jwj8yMIb86kjEuGVoHKqG) | [Bruised And Battered](https://open.spotify.com/album/7GKpuslNh1hguCV8aJuy3d) | 3:33 | 2023-10-26 | 2024-01-19 |
@@ -65,8 +65,9 @@
 | [Dance](https://open.spotify.com/track/5wzOg8ba8q6g167QNepcZX) | [MADAM](https://open.spotify.com/artist/6JbwGT0YARZ43pze31ST8h) | [Thanks for the Noise](https://open.spotify.com/album/5ypPwi6yhfMZ6wEhgX5aV3) | 3:28 | 2024-04-11 |  |
 | [Daydreaming](https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:35 | 2023-11-09 | 2023-12-08 |
 | [De l'aventure \- Single Version](https://open.spotify.com/track/7Gf7bWdlp2RE79kJAlSszu) | [Matmatah](https://open.spotify.com/artist/4bhynkwu2d1ZbjPTNBkI2t) | [De l'aventure](https://open.spotify.com/album/56oB6biFyDY1Xwoelcsoab) | 2:53 | 2023-09-28 | 2023-10-06 |
-| [Desires Never Die](https://open.spotify.com/track/6sUNt22AmoTlv445X7tCZt) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Desires Never Die](https://open.spotify.com/album/3JjzAUR9gttR7TojchskCo) | 3:12 | 2024-03-28 |  |
+| [Desires Never Die](https://open.spotify.com/track/6sUNt22AmoTlv445X7tCZt) | [Yodelice](https://open.spotify.com/artist/167abweXl3demO9x0VMMeJ) | [Desires Never Die](https://open.spotify.com/album/3JjzAUR9gttR7TojchskCo) | 3:12 | 2024-03-28 | 2024-09-06 |
 | [Downcast](https://open.spotify.com/track/2u87z2dIbSA5PNIik6bLM5) | [Rendez Vous](https://open.spotify.com/artist/4a118edzJsiImCyPCZk6mY) | [Downcast](https://open.spotify.com/album/57awDgLzQYvC60Rzw9CpRE) | 4:04 | 2024-05-23 |  |
+| [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 | 2024-09-05 |  |
 | [EGO BOX](https://open.spotify.com/track/0AXZUu9lcYqafrC73HIXp7) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [NOT GOOD ENOUGH](https://open.spotify.com/album/0I0h76V3meSOgQPLklwvR9) | 3:28 | 2024-04-11 | 2024-05-24 |
 | [Erase Me](https://open.spotify.com/track/4EVbSzE3QvdC00xHQ1EzOg) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Erase Me](https://open.spotify.com/album/4m4Bc2uY4M8RAI9ELRKZ4g) | 2:08 | 2024-04-25 | 2024-06-21 |
 | [Escape](https://open.spotify.com/track/5YcEpgSrceS4t1zFdg8z0t) | [Venus Worship](https://open.spotify.com/artist/1DYlwWhbYliHmGopueibNJ) | [Relapse](https://open.spotify.com/album/6R6curgxkflcKqc0WVCsnk) | 3:41 | 2024-03-07 | 2024-05-17 |
@@ -129,8 +130,9 @@
 | [Le Détail \- Radio Edit](https://open.spotify.com/track/0z9HArgBH0JzwXo79siANR) | [The Odds](https://open.spotify.com/artist/1Tcb7Fen1mZVvGdGNnPJX0) | [Danse Animale](https://open.spotify.com/album/794v2cKu92FNgbe0xK6jDH) | 2:38 | 2024-08-29 |  |
 | [Les gamins](https://open.spotify.com/track/7zD8Y0vrXkI52xdOxTdFcX) | [Astonvilla](https://open.spotify.com/artist/3qNYZS3uNCwEA3Zn9gBsO7) | [Superspectives](https://open.spotify.com/album/6OFWJChBYs4oF6f8V2V5Ow) | 3:37 | 2024-02-29 | 2024-04-19 |
 | [Les magazines](https://open.spotify.com/track/1OoRHpcCl1afYCqDaBpa85) | [F.F.F.](https://open.spotify.com/artist/0jf1mgJNTrNdgFXmcwKmkL) | [Les magazines](https://open.spotify.com/album/5m3D7pJBWUh8ybUjGQn9FQ) | 3:34 | 2023-10-05 | 2024-02-16 |
-| [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 | 2024-03-14 |  |
+| [Les Sirènes](https://open.spotify.com/track/2EPUVAWRKCCiNKOl3twUE6) | [JOUJOU](https://open.spotify.com/artist/573HQlBPoUNZ9HAxvtTRs8) | [Les Sirènes](https://open.spotify.com/album/6PqaTibhL2ppnczfldjYkT) | 2:45 | 2024-03-14 | 2024-09-06 |
 | [Liminal Status](https://open.spotify.com/track/0Bwp8KB0rlOAOGcBvPP2rk) | [Watertank](https://open.spotify.com/artist/2N3PHaigRY80nInbgjjbPC) | [Liminal Status](https://open.spotify.com/album/0I11xptQ0tRtlWQo99uXMz) | 3:33 | 2024-03-14 |  |
+| [Limousine](https://open.spotify.com/track/5Iatj6CbK0AjL90wZZMCY0) | [The Late Speakers...!](https://open.spotify.com/artist/524hQV3Jv9I3Ozep6dBR0r) | [Limousine](https://open.spotify.com/album/61FOACCkZkHVZdOLPFlhSf) | 3:15 | 2024-09-05 |  |
 | [Lona](https://open.spotify.com/track/1OKLcCzpJSirNj38J2FNI9) | [SEX SHOP MUSHROOMS](https://open.spotify.com/artist/0rqXIZ2g1twsiHjOdxSD1G) | [Lona](https://open.spotify.com/album/2K3PORwKw6TTEh3zQBkQRZ) | 4:16 | 2024-08-29 |  |
 | [Lésinight](https://open.spotify.com/track/0kSs8D9jHyK9JLwMLb37Ru) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Lésinight](https://open.spotify.com/album/3Yx0rlQDcQGgDg3pmYSKca) | 2:36 | 2024-01-11 | 2024-02-16 |
 | [Ma pièce](https://open.spotify.com/track/3gbTHza5asYZ7QrA8RQehA) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Ma pièce](https://open.spotify.com/album/20vx4PPkOcDFPYuV51BoKW) | 2:23 | 2023-09-28 | 2024-05-24 |
@@ -227,6 +229,7 @@
 | [THE OUTSIDER](https://open.spotify.com/track/6uApMCvfHnJVLDG538k5kr) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/0JPpXj9R4dOgYbSERMAnRM) | 7:22 | 2024-04-25 |  |
 | [The Plan](https://open.spotify.com/track/6aXsqO4vskXScn6EuLAvCz) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [The Plan](https://open.spotify.com/album/5Yl97xpCRkjy25qhOtNq9V) | 3:26 | 2023-11-23 | 2024-01-12 |
 | [The Undercover Man](https://open.spotify.com/track/1mQmOLp6op4aXMggN800U9) | [Shaker Poisson](https://open.spotify.com/artist/0bZSQ7lf91kvi8h7fioG3A) | [The Undercover Man](https://open.spotify.com/album/59bl4gqVOdo9QNxbMcJiVR) | 3:56 | 2024-04-18 | 2024-07-27 |
+| [The Unseen](https://open.spotify.com/track/3PSXA2skQ9RCiNXkVti9Z4) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [The Unseen](https://open.spotify.com/album/04wGxo9T2edvKFUshLp49T) | 5:45 | 2024-09-05 |  |
 | [There's Nothing After](https://open.spotify.com/track/36OZre827rTdSFuDDY3eiI) | [Moloch/Monolyth](https://open.spotify.com/artist/2UpTActP8LhN6FZcEm35bm) | [There's Nothing After](https://open.spotify.com/album/0Nf7La4ySI1rx0nbWhhdqb) | 3:38 | 2024-02-29 | 2024-07-19 |
 | [Time](https://open.spotify.com/track/2w3KEeb54tgFgeMtB5HHgy) | [Edgär](https://open.spotify.com/artist/2O7MXaIBC2VqFGOF1ygZsO) | [Time](https://open.spotify.com/album/6iPuJPHRgrMUnzyOJWrQp9) | 2:49 | 2023-10-05 | 2024-02-02 |
 | [Tiny Actions \\ Unexpected Results](https://open.spotify.com/track/0VnWBIxITcm9sV4qPZShM3) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [Tiny Actions \\ Unexpected Results](https://open.spotify.com/album/547AxZceVBxf3NchgpdFaB) | 5:25 | 2024-02-15 | 2024-04-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,535 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,554 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 83 | [Canción para Mi Muerte](https://open.spotify.com/track/4HJZ42ANJk2Wq7aLEC1sGR) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn), [Lucas Colque](https://open.spotify.com/artist/71Pb73xyOq0ddcWi0Dwen2) | [Canción para Mi Muerte](https://open.spotify.com/album/5gwIwKg9GwTAVZMwhF8pzx) | 3:34 |
 | 84 | [El Petizo Maceta](https://open.spotify.com/track/00Zi29FEljeO6hlBN7Ioyo) | [Santhyago Rios](https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT) | [Chamamé Con Estilo Propio](https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb) | 2:36 |
 | 85 | [Mi Anhelo](https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN) | [Los Hermanos Cardozo](https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR) | [Nuestras Mejores 30 Canciones](https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex) | 2:44 |
-| 86 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
-| 87 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
+| 86 | [Jineteando](https://open.spotify.com/track/0eyjFUUJMTX4XjNClJBKUl) | [Fito Ledesma](https://open.spotify.com/artist/3M9GsOLqrAOPPMznyfzXcL) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:00 |
+| 87 | [El Gato Blanco](https://open.spotify.com/track/1jqw5PLbmOk02PlnA3TL5u) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:19 |
 | 88 | [Nostalgias Camperas](https://open.spotify.com/track/2w7HJNJhi017o0TCw1s4PI) | [Isaco Abitbol](https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s), [Dúo Ubeda / Chavez](https://open.spotify.com/artist/58fMfIAKCyYaNnqL65U7b8) | [20 Superexitos Originales](https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG) | 2:34 |
 | 89 | [La Ofelia](https://open.spotify.com/track/5jkKjvTBWVg0vlsT9oYfdM) | [Abelardo Dimotta](https://open.spotify.com/artist/3TYc7ZGC0521ErIVHq6Vzm) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:38 |
 | 90 | [La dama misteriosa](https://open.spotify.com/track/53eK40Lxn2ZAohjTsqb2jw) | [Toto Maidana](https://open.spotify.com/artist/4Ralrak0KFagAtmwkhVrOj) | [Chamame los 100 mejores temas Vol 1](https://open.spotify.com/album/3TNUznwXZmMAAmw3I4AUao) | 2:14 |

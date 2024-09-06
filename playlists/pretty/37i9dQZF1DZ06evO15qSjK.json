@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABHeSldnfJtBOFDqTquZ/c+",
+  "snapshot_id": "ZtejAAAAAAABNd9rBQDQDKQBYOzBrRPD",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KIDZ BOP All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 206413,
-      "name": "Party In The USA - Redo Version",
-      "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 221960,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/2iJJ6xdKdaLkFB6qVNaFsS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KIDZ BOP All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/2r2u6SsHaCMojcx5bpSlJ8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 206413,
+      "name": "Party In The USA - Redo Version",
+      "url": "https://open.spotify.com/track/5tvBQ9zlAxMzAt7GI7ik2n"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Things",
-        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KIDZ BOP 40",
         "url": "https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 169746,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Things",
+        "url": "https://open.spotify.com/album/1DIU4TxxG760gMCxDgOQgu"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/4UwaYZvF4EhJ4y2IgKbdX2"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
       "duration_ms": 208590,
       "name": "we can\u2019t be friends (wait for your love)",
       "url": "https://open.spotify.com/track/62HxU85ooVsB6eDss0tmVu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/1LyxWPM9OifFw2Yi6UNSqK"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 172239,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/2cdV8rABAvNCoXtyDIUhCI"
     }
   ],
   "unique_name": "This Is Kidz Bop Kids",

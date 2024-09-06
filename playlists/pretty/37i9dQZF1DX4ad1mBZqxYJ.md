@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 
 > ¡Cortes modernos pa' los compas con estilo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,000 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,008 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,8 +119,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ad1mBZqxYJ.md) - [plain]
 | 109 | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/track/69fR39dr6KuJhBr6C9y7Vn) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Me Metí En El Ruedo \(En Vivo\)](https://open.spotify.com/album/0Nx0NCr9BmvR1UFjzZ5Jb2) | 2:54 |
 | 110 | [Huracán](https://open.spotify.com/track/1QSxLf1ldQnoBqOoLKQT9e) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Huracán](https://open.spotify.com/album/72AgLJrge61AYrpf2zH8rl) | 4:15 |
 | 111 | [Si Te Vienen a Contar](https://open.spotify.com/track/4058DPUoC7sLPQ05pr3e4C) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Golpe Avisa](https://open.spotify.com/album/7r0sV0ubq1ZutTadIrhHDL) | 3:39 |
-| 112 | [L\-Gante Rkt](https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante Rkt](https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub) | 3:02 |
-| 113 | [El Doctor](https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/3xsItvs6hmfFRhukjRjdMt) | 3:55 |
+| 112 | [El Doctor](https://open.spotify.com/track/4Eki5zNlMHuBg2IDzNUw5C) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/3xsItvs6hmfFRhukjRjdMt) | 3:55 |
+| 113 | [L\-Gante Rkt](https://open.spotify.com/track/6EHrppRT1Uj4cyShAujxFu) | [Papu DJ](https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [L\-Gante Rkt](https://open.spotify.com/album/5GTDPMYQ2mqLwJLlS6iRub) | 3:02 |
 | 114 | [Te Ire a Buscar](https://open.spotify.com/track/5NEIEghTIfcIIOKuLlaKPc) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Te Ire a Buscar](https://open.spotify.com/album/0CtyvwPwCoF3VV8KiLRFlG) | 3:38 |
 | 115 | [Por Mi México](https://open.spotify.com/track/6f3ISIn47Wyg6X0V8eHMjm) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/6FF9KMDcDJF0pnAfrInopS) | 3:38 |
 | 116 | [SABOR FRESA](https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [SABOR FRESA](https://open.spotify.com/album/1vw6eLxCJRAfD6RMJTiuKZ) | 2:36 |

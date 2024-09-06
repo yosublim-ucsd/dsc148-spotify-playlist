@@ -1,44 +1,28 @@
 {
-  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=VrBl2LsXSg-1srU-DCReDg\">Danny Smoke</a> ",
-  "num_followers": 108920,
+  "description": "Net die beste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=DaXZrLYRQAicawY7XgZAuw\">Prop</a> ",
+  "num_followers": 108951,
   "original_name": "Afrikaanse Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDvYAAAAACfzasuduWn4oWJ4oJ9Izu4",
+  "snapshot_id": "Ztop4AAAAAC2oxL7ODbNnjXA7sS9GGAe",
   "tracks": [
     {
-      "added_at": "2024-08-29 22:00:00",
+      "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Carina",
-        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
+        "name": "Proe Soos Nog",
+        "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
       },
       "artists": [
         {
-          "name": "Danny Smoke",
-          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
+          "name": "Prop",
+          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
         }
       ],
-      "duration_ms": 196208,
-      "name": "Carina",
-      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
-    },
-    {
-      "added_at": "2024-05-09 22:00:00",
-      "album": {
-        "name": "Heito Potato",
-        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
-      },
-      "artists": [
-        {
-          "name": "Appel",
-          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
-        }
-      ],
-      "duration_ms": 217342,
-      "name": "Heito Potato",
-      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+      "duration_ms": 177600,
+      "name": "Hasie Hop",
+      "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
     },
     {
       "added_at": "2024-06-20 22:00:00",
@@ -59,22 +43,6 @@
     {
       "added_at": "2024-02-15 22:00:00",
       "album": {
-        "name": "Boksemdais",
-        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
-      },
-      "artists": [
-        {
-          "name": "Riaan Benad\u00e9",
-          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
-        }
-      ],
-      "duration_ms": 188553,
-      "name": "Boksemdais",
-      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
-    },
-    {
-      "added_at": "2024-02-15 22:00:00",
-      "album": {
         "name": "Moegdans",
         "url": "https://open.spotify.com/album/2PZIORUBXjaeRTuepRjTvq"
       },
@@ -87,6 +55,38 @@
       "duration_ms": 201777,
       "name": "Moegdans",
       "url": "https://open.spotify.com/track/4NoHaRFPShno0CHDtele4b"
+    },
+    {
+      "added_at": "2024-05-09 22:00:00",
+      "album": {
+        "name": "Heito Potato",
+        "url": "https://open.spotify.com/album/2d2TSU0tmTXceqGYpHay2e"
+      },
+      "artists": [
+        {
+          "name": "Appel",
+          "url": "https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd"
+        }
+      ],
+      "duration_ms": 217342,
+      "name": "Heito Potato",
+      "url": "https://open.spotify.com/track/3pocW23fJjuIzeiDOCw4Rb"
+    },
+    {
+      "added_at": "2024-02-15 22:00:00",
+      "album": {
+        "name": "Boksemdais",
+        "url": "https://open.spotify.com/album/19Ix1u1IRDk6919QD7o9O0"
+      },
+      "artists": [
+        {
+          "name": "Riaan Benad\u00e9",
+          "url": "https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7"
+        }
+      ],
+      "duration_ms": 188553,
+      "name": "Boksemdais",
+      "url": "https://open.spotify.com/track/5UqFcsRHW5It2HD3f2yoJD"
     },
     {
       "added_at": "2024-05-16 22:00:00",
@@ -201,36 +201,20 @@
       "url": "https://open.spotify.com/track/1zbUPXvrhPgjuO5ZFvN75z"
     },
     {
-      "added_at": "2024-07-18 22:00:00",
+      "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Plaaspop (Mullet Mix)",
-        "url": "https://open.spotify.com/album/7cIenDiVkghVyHAQd6FHS9"
+        "name": "Carina",
+        "url": "https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS"
       },
       "artists": [
         {
-          "name": "Brendan Peyper",
-          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+          "name": "Danny Smoke",
+          "url": "https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Plaaspop (Mullet Mix)",
-      "url": "https://open.spotify.com/track/6pTZP4V1f14d7s6n2Nqhok"
-    },
-    {
-      "added_at": "2024-05-30 22:00:00",
-      "album": {
-        "name": "Net Myne",
-        "url": "https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0"
-      },
-      "artists": [
-        {
-          "name": "Demi Lee Moore",
-          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
-        }
-      ],
-      "duration_ms": 182896,
-      "name": "Net Myne",
-      "url": "https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM"
+      "duration_ms": 196208,
+      "name": "Carina",
+      "url": "https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -249,6 +233,22 @@
       "url": "https://open.spotify.com/track/1PRL5i4psRnhOutaezVAzd"
     },
     {
+      "added_at": "2024-07-18 22:00:00",
+      "album": {
+        "name": "Plaaspop (Mullet Mix)",
+        "url": "https://open.spotify.com/album/7cIenDiVkghVyHAQd6FHS9"
+      },
+      "artists": [
+        {
+          "name": "Brendan Peyper",
+          "url": "https://open.spotify.com/artist/4K2VQvyBnfU7La65rShI0v"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Plaaspop (Mullet Mix)",
+      "url": "https://open.spotify.com/track/6pTZP4V1f14d7s6n2Nqhok"
+    },
+    {
       "added_at": "2024-08-15 22:00:00",
       "album": {
         "name": "Lek My Lippe Af",
@@ -263,6 +263,22 @@
       "duration_ms": 193447,
       "name": "Lek My Lippe Af",
       "url": "https://open.spotify.com/track/7AxtjVZVNwPt9VG3D0N1jK"
+    },
+    {
+      "added_at": "2024-05-30 22:00:00",
+      "album": {
+        "name": "Net Myne",
+        "url": "https://open.spotify.com/album/5NALlrlbVlzuMcjLK29zR0"
+      },
+      "artists": [
+        {
+          "name": "Demi Lee Moore",
+          "url": "https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp"
+        }
+      ],
+      "duration_ms": 182896,
+      "name": "Net Myne",
+      "url": "https://open.spotify.com/track/6PdtHsCB9kopQGKLcHjpwM"
     },
     {
       "added_at": "2024-02-15 22:00:00",
@@ -547,22 +563,6 @@
       "duration_ms": 199593,
       "name": "Meisie wat kan Vasdans",
       "url": "https://open.spotify.com/track/7gjLQZDJgPsZJNWu63PAdn"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Proe Soos Nog",
-        "url": "https://open.spotify.com/album/3QFQnR9V6HOhs0tiMJVvOS"
-      },
-      "artists": [
-        {
-          "name": "Prop",
-          "url": "https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Hasie Hop",
-      "url": "https://open.spotify.com/track/7mJEgMNaCnwUx4Y4jcP2rd"
     },
     {
       "added_at": "2024-02-15 22:00:00",

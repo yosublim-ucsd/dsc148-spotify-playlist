@@ -1113,6 +1113,24 @@
     },
     {
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/2GzoMwLkAXmod1QjiCD4bu"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260790,
+      "name": "Senopati in the Rain",
+      "url": "https://open.spotify.com/track/3ydP2Te1Tm99wizbhC55FD"
+    },
+    {
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
       },

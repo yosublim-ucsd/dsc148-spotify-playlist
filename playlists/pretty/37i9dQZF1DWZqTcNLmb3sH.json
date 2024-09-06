@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Max\n",
-  "num_followers": 58971,
+  "num_followers": 59000,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtgiCAAAAAAsvPVoH/S7buGaLzu6AFDT",
+  "snapshot_id": "ZtmaVwAAAABf2Te3X6AvbEFjvhqdEzpz",
   "tracks": [
     {
       "added_at": "2024-09-02 12:05:23",
@@ -135,6 +135,54 @@
       "duration_ms": 212058,
       "name": "Houdda Huliya (From \"Yello Jogappa Ninnaramane\")",
       "url": "https://open.spotify.com/track/3uftTbhDOwjGJpa6D6IvFg"
+    },
+    {
+      "added_at": "2024-09-05 11:46:23",
+      "album": {
+        "name": "Gajendira (From \"Mr. Celebrity - Kannada\")",
+        "url": "https://open.spotify.com/album/6aOO5fJCk2JYP8pYKSQ6ks"
+      },
+      "artists": [
+        {
+          "name": "Vinod Yajamanya",
+          "url": "https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR"
+        },
+        {
+          "name": "Rama Durgam",
+          "url": "https://open.spotify.com/artist/09dYbajCM8q1uSNMukcKsL"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Gajendira (From \"Mr. Celebrity - Kannada\")",
+      "url": "https://open.spotify.com/track/1Z9pwPGojNYki1FO1DfSkK"
+    },
+    {
+      "added_at": "2024-09-05 11:47:25",
+      "album": {
+        "name": "Daavudi (From \"Devara Part 1\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3KwUSrnu9nNN69zwhsDpl1"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "duration_ms": 229167,
+      "name": "Daavudi (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/3SnEdhM9uuwwxf33uUEiqa"
     },
     {
       "added_at": "2024-09-04 09:01:51",
@@ -1619,54 +1667,6 @@
       "duration_ms": 196477,
       "name": "Joli Thoogo (From \"Kabandha'')",
       "url": "https://open.spotify.com/track/7xqO9Rs3OGB3VDD7o0DLkl"
-    },
-    {
-      "added_at": "2024-07-11 05:00:28",
-      "album": {
-        "name": "Party Anthem (From \"Back Bencherz\")",
-        "url": "https://open.spotify.com/album/3gvLWkXdAYCM5waHpHuEIV"
-      },
-      "artists": [
-        {
-          "name": "V.M. Mahalingam",
-          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        },
-        {
-          "name": "Nakul Abhyankar",
-          "url": "https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD"
-        },
-        {
-          "name": "Jathin Aryan",
-          "url": "https://open.spotify.com/artist/6Fhd9bLVmCsCZ9fHy3z5Qs"
-        }
-      ],
-      "duration_ms": 243509,
-      "name": "Party Anthem (From \"Back Bencherz\")",
-      "url": "https://open.spotify.com/track/3aVGfzcrtn9qLbmMUM6cmy"
-    },
-    {
-      "added_at": "2024-07-10 06:02:54",
-      "album": {
-        "name": "Tadibeda Tadibeda (From \"Jigar\")",
-        "url": "https://open.spotify.com/album/27dEmar1QdnB60IXW3qS3C"
-      },
-      "artists": [
-        {
-          "name": "Ritvik Muralidhar",
-          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
-        },
-        {
-          "name": "Ganesh Parashuram",
-          "url": "https://open.spotify.com/artist/43bk8P90kiFXiS92Qg9L1W"
-        }
-      ],
-      "duration_ms": 88999,
-      "name": "Tadibeda Tadibeda (From \"Jigar\")",
-      "url": "https://open.spotify.com/track/6fkUaEMWWsnMWbyHhCQ4ur"
     },
     {
       "added_at": "2024-07-04 06:13:56",

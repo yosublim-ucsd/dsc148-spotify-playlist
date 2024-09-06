@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Nena",
+  "description": "Uma playlist de pura alma pop! Foto: B\u00e1rbara Tinoco.",
   "name": "Pop PT",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 219035,
       "name": "A Chamada",
       "url": "https://open.spotify.com/track/4ycKz3ByrKv6s0NdZ36Tl5"
+    },
+    {
+      "album": {
+        "name": "Merenda Mista",
+        "url": "https://open.spotify.com/album/5xhVXFc7AYDKknWcC1U5Qf"
+      },
+      "artists": [
+        {
+          "name": "Beatriz Caixinha",
+          "url": "https://open.spotify.com/artist/6Ji4dWE4lgaPMko8PLJV5n"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136968,
+      "name": "A Coisa Vai Andando",
+      "url": "https://open.spotify.com/track/1D5koDg0uGRsy8BlyIPox3"
     },
     {
       "album": {
@@ -765,6 +783,24 @@
     },
     {
       "album": {
+        "name": "Eu Vou Ficar",
+        "url": "https://open.spotify.com/album/1uAalpoapaUqrH4uSrY5Ly"
+      },
+      "artists": [
+        {
+          "name": "Ivo Soares",
+          "url": "https://open.spotify.com/artist/7lG5oTNwNk1Ddgv1zB75DT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159400,
+      "name": "Eu Deixo Ir",
+      "url": "https://open.spotify.com/track/00VJM4qAgMpVQ6xNVutDCw"
+    },
+    {
+      "album": {
         "name": "Eu e Tu",
         "url": "https://open.spotify.com/album/3mhOdbBo8GTzbRDNgD99gq"
       },
@@ -842,10 +878,28 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 184618,
       "name": "Filha de Lisboa",
       "url": "https://open.spotify.com/track/4DUfHfmKcl4YKTlrgFAjLD"
+    },
+    {
+      "album": {
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/48CCNFMg4Mw7GOiL66oRvG"
+      },
+      "artists": [
+        {
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204760,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/6bUbxSQqLIS7zzgjCF7hKi"
     },
     {
       "album": {
@@ -882,6 +936,24 @@
       "duration_ms": 159600,
       "name": "Foste Embora",
       "url": "https://open.spotify.com/track/6elFmzmHRGXeqyya232ZFu"
+    },
+    {
+      "album": {
+        "name": "FUGACIDADE",
+        "url": "https://open.spotify.com/album/0QVDHqBLRd5AjHuU4bJmJ3"
+      },
+      "artists": [
+        {
+          "name": "Janeiro",
+          "url": "https://open.spotify.com/artist/6XkMchHBuVhvBzCOyKIlJ0"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156613,
+      "name": "FUGACIDADE",
+      "url": "https://open.spotify.com/track/3LFPFTXstkw1bOYGf4s435"
     },
     {
       "album": {
@@ -1246,7 +1318,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172000,
       "name": "Oj\u00e9 Oj\u00e9",
       "url": "https://open.spotify.com/track/1QBJJ3EFiE933KnPuNa9PG"
@@ -1804,7 +1876,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172586,
       "name": "\u00c2mbar",
       "url": "https://open.spotify.com/track/3tZSEpmI6vAJO5iAZVrQvN"

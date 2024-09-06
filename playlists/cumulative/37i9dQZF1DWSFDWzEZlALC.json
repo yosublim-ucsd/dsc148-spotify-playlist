@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-03",
-  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: SOFFIE",
+  "description": "Indie, Pop und Rap mit deutschen Texten. Cover: JEREMIAS",
   "name": "Wilde Herzen",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 204405,
       "name": "24 Grad im Schatten",
       "url": "https://open.spotify.com/track/4eQoU8H2gG15HN2zxkwJhK"
@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "35",
+        "url": "https://open.spotify.com/album/1m4XgKmsQDA4bNt6hyk6xq"
+      },
+      "artists": [
+        {
+          "name": "fiio",
+          "url": "https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138500,
+      "name": "35",
+      "url": "https://open.spotify.com/track/7BHYGtf2CdYLpMgPntkOLL"
+    },
+    {
+      "album": {
         "name": "36\u00b0C",
         "url": "https://open.spotify.com/album/640HnQfReS1Y3DBts3jPAh"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 138916,
       "name": "45 Grad",
       "url": "https://open.spotify.com/track/5Diih8vr9g2mPLrQg7hwbB"
@@ -651,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Ach Du Liebe Zeit",
+        "url": "https://open.spotify.com/album/166W07TT8Wb8twJnnA4HyP"
+      },
+      "artists": [
+        {
+          "name": "bac",
+          "url": "https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144385,
+      "name": "Ach Du Liebe Zeit",
+      "url": "https://open.spotify.com/track/6Knu3Uggcb1nTDPkKiXFaM"
+    },
+    {
+      "album": {
         "name": "Achilles",
         "url": "https://open.spotify.com/album/4Xlm7Jhpp9bkWQ8Hd1Thp8"
       },
@@ -720,6 +756,24 @@
       "duration_ms": 166405,
       "name": "Akademie der bildenden K\u00fcnste",
       "url": "https://open.spotify.com/track/6uQAZMFNPejBdiRnp6F03D"
+    },
+    {
+      "album": {
+        "name": "Akademie der \u00c4ngste",
+        "url": "https://open.spotify.com/album/5H6b9koot7CyWTcGrGsaQ7"
+      },
+      "artists": [
+        {
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193352,
+      "name": "Akademie der \u00c4ngste",
+      "url": "https://open.spotify.com/track/2W4YN0g8Mjg3zF40urodaT"
     },
     {
       "album": {
@@ -1901,6 +1955,24 @@
     },
     {
       "album": {
+        "name": "Blitzlicht",
+        "url": "https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Blitzlicht",
+      "url": "https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj"
+    },
+    {
+      "album": {
         "name": "blue",
         "url": "https://open.spotify.com/album/56V2Kulz8kNpLvhHO3IApl"
       },
@@ -2082,6 +2154,24 @@
       "duration_ms": 147693,
       "name": "brauchst mich nicht",
       "url": "https://open.spotify.com/track/1eo2xIdXZlZxDMxuhSFwXQ"
+    },
+    {
+      "album": {
+        "name": "btw",
+        "url": "https://open.spotify.com/album/4zBl5NXyMGYUaNzijYWWfY"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162779,
+      "name": "btw",
+      "url": "https://open.spotify.com/track/3GsBqvekTAOytIzDdbUjj4"
     },
     {
       "album": {
@@ -2443,6 +2533,24 @@
     },
     {
       "album": {
+        "name": "r\u00fcckw\u00e4rts auf dem heimweg",
+        "url": "https://open.spotify.com/album/4PtW0vPRbmiOQ6LgNzBkg7"
+      },
+      "artists": [
+        {
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168954,
+      "name": "darth vader",
+      "url": "https://open.spotify.com/track/0cCNOiul92riHmV1DHPdr4"
+    },
+    {
+      "album": {
         "name": "Das Ende",
         "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
       },
@@ -2714,7 +2822,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 146948,
       "name": "Die Anderen",
       "url": "https://open.spotify.com/track/4AeWyAX82przbYSEDJsqph"
@@ -2862,7 +2970,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 167466,
       "name": "Dies das",
       "url": "https://open.spotify.com/track/6ZOChTjEfZJosOhwKck4oE"
@@ -5583,6 +5691,24 @@
     },
     {
       "album": {
+        "name": "Heiter bis Wolkig",
+        "url": "https://open.spotify.com/album/3ir3iX1G0CK97lA5Dla8Id"
+      },
+      "artists": [
+        {
+          "name": "Felix Herbst",
+          "url": "https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164100,
+      "name": "Heiter bis Wolkig",
+      "url": "https://open.spotify.com/track/3y4C5uz82Ov9PoDkIhuMWS"
+    },
+    {
+      "album": {
         "name": "Hei\u00df/Kalt",
         "url": "https://open.spotify.com/album/4bvtp5T7GeQmtjeXDghCFL"
       },
@@ -5740,7 +5866,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 146134,
       "name": "Hier",
       "url": "https://open.spotify.com/track/4pixX8XnfVkmLWQDMANjG9"
@@ -7138,7 +7264,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148000,
       "name": "Kleine Liebesgeschichte",
       "url": "https://open.spotify.com/track/5jsfiJZadojaLepCtYKoLv"
@@ -7174,7 +7300,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 212690,
       "name": "Koffer",
       "url": "https://open.spotify.com/track/4LGysr2kp2s1kMdqmN9pNt"
@@ -7246,7 +7372,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192000,
       "name": "Kopfsache",
       "url": "https://open.spotify.com/track/44dnpEV3ALSX36p64J8cIb"
@@ -8456,6 +8582,24 @@
       "duration_ms": 176963,
       "name": "mausmann",
       "url": "https://open.spotify.com/track/07z15WtiDQV9IGhb9oinIc"
+    },
+    {
+      "album": {
+        "name": "Meer",
+        "url": "https://open.spotify.com/album/1FJOvb5Be9ntGSps0DeNBs"
+      },
+      "artists": [
+        {
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226151,
+      "name": "Meer",
+      "url": "https://open.spotify.com/track/1CfXReZpkv5l10m1Zc1mGn"
     },
     {
       "album": {
@@ -10633,6 +10777,24 @@
     },
     {
       "album": {
+        "name": "sad girl summer",
+        "url": "https://open.spotify.com/album/2ZmXJSHjGlDKrQLoio24kk"
+      },
+      "artists": [
+        {
+          "name": "Kayla Shyx",
+          "url": "https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207466,
+      "name": "sad girl summer",
+      "url": "https://open.spotify.com/track/7pVdFkXNZRr4F12K0hiUPy"
+    },
+    {
+      "album": {
         "name": "sag was",
         "url": "https://open.spotify.com/album/2biK8sXdAObBs6oRqNpTEs"
       },
@@ -10728,7 +10890,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201193,
       "name": "Schlaf gut",
       "url": "https://open.spotify.com/track/1gUDyPpx99jRTVgSvrWEjl"
@@ -11990,7 +12152,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 158813,
       "name": "Strategie",
       "url": "https://open.spotify.com/track/48jWQ1HB4VPLMUyUulRxo9"
@@ -12725,6 +12887,28 @@
     },
     {
       "album": {
+        "name": "Universum gro\u00df",
+        "url": "https://open.spotify.com/album/4cNUzv8xwwRGJ4GBOOdYcG"
+      },
+      "artists": [
+        {
+          "name": "Lena&Linus",
+          "url": "https://open.spotify.com/artist/3DX6TJtDUfOov1NKF18IXh"
+        },
+        {
+          "name": "Tim Tautorat",
+          "url": "https://open.spotify.com/artist/04F7sUgAvncSBIiZZ1B1Re"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171260,
+      "name": "Universum gro\u00df",
+      "url": "https://open.spotify.com/track/1YSL2Q8PYtVeKaH0TEnMqR"
+    },
+    {
+      "album": {
         "name": "Sichtrennen, Vergessen, Vergeben",
         "url": "https://open.spotify.com/album/383NcF3nA2mYnCkpo54aP6"
       },
@@ -12838,7 +13022,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147863,
       "name": "Van Gogh",
       "url": "https://open.spotify.com/track/3MWBw4s7TTCp6g0GDxI3LO"
@@ -13280,6 +13464,24 @@
       "duration_ms": 196411,
       "name": "Wann f\u00e4ngt es wieder an aufzuh\u00f6ren?",
       "url": "https://open.spotify.com/track/2HzkudjwoomjtuurW8W0XQ"
+    },
+    {
+      "album": {
+        "name": "Warm",
+        "url": "https://open.spotify.com/album/5fVk54hi6GJa6xM6G1lfOf"
+      },
+      "artists": [
+        {
+          "name": "FRISO",
+          "url": "https://open.spotify.com/artist/4xAMTJFCMfH1AZNQexkYEt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191739,
+      "name": "Warm",
+      "url": "https://open.spotify.com/track/0XcEkE090RlUPXarl7c1cX"
     },
     {
       "album": {

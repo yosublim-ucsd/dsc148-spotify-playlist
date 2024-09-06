@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd43GfSFAeHA.md) - [plain]
 
 > A selection of the finest Hip Hop tracks from the illest Arab Rappers\. Cover: The Synaptik
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,265 likes - 51 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,273 likes - 51 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Al Taman](https://open.spotify.com/track/0890Wmyp53lDUwv0F1rU6c) | [The Synaptik](https://open.spotify.com/artist/3fyyPt5BZ20BkmqVcQV6wS), [Wardenclyph](https://open.spotify.com/artist/7z08dCgfyZFDbnapJvV93h) | [Al Taman](https://open.spotify.com/album/7zaC52w15nrgQQ6NRAfZhF) | 2:10 |
-| 2 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 |
+| 2 | [AMOT ANA](https://open.spotify.com/track/5Q7wSLrCf2z6isQqDuuqeY) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [مرحلة الإنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 3:45 |
 | 3 | [6 STARS](https://open.spotify.com/track/4Lozk0H98Zzu7iEoOMQy2t) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [6 STARS](https://open.spotify.com/album/1mUqezppyVhmPDJHX7E1tq) | 2:40 |
 | 4 | [Cima](https://open.spotify.com/track/0Aa8tvJw1AaDPF29mmBECv) | [Montiyago](https://open.spotify.com/artist/46MsyReAQf8kF6M4tD38Bk), [Big Moe](https://open.spotify.com/artist/6sBqHpSlcT0xxekqD15BTn) | [Cima](https://open.spotify.com/album/3c90YV2TtEGpmoMXSttMFf) | 3:18 |
 | 5 | [Please](https://open.spotify.com/track/0YHNbqd916UBseBu2qv0xX) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Please](https://open.spotify.com/album/48GGUy02bmdLkROqggBbXi) | 2:19 |

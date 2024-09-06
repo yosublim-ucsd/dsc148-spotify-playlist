@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-265 songs - 19 hr 25 min
+267 songs - 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Kolak Agebny](https://open.spotify.com/track/1mBQMkL8NOQ0akkTr8kqba) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Kolak Agebny](https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm) | 6:24 | 2021-12-16 | 2022-12-21 |
 | [Kollo Shmal](https://open.spotify.com/track/0Y1xET6NicWkYTnrKtFv4v) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Wagih Elaspany](https://open.spotify.com/artist/0AJIecs3dW9ALRevRVAPfs) | [Kollo Shmal](https://open.spotify.com/album/72OIxMzGUrFbsxzhC655QW) | 3:51 | 2021-12-16 | 2022-07-27 |
 | [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 | 2022-10-08 |
-| [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 | 2023-12-23 |  |
+| [Law Nasafni Ez Zaman](https://open.spotify.com/track/01sbp3Job06xunweuDmeP9) | [Faisal Abdulkareem](https://open.spotify.com/artist/5jFvzkcrrV8TqpRo2sMRuK) | [Law Nasafni Ez Zaman](https://open.spotify.com/album/0gJ7hB8tOSpccIabnVSWd3) | 4:23 | 2023-12-23 | 2024-09-06 |
 | [Ma Tefrahoush](https://open.spotify.com/track/3v2n89Farb1ft281eNbAsY) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 5:40 | 2021-12-16 | 2021-12-30 |
 | [Ma'alem](https://open.spotify.com/track/1A3StHwevJ44EqCJZST3c8) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Ma'alem](https://open.spotify.com/album/548fUzS5czPUPtUI3M7yMy) | 3:36 | 2022-12-20 | 2023-08-03 |
 | [Makany Mesh Hena](https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Makany Mesh Hena](https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE) | 3:43 | 2021-12-30 | 2022-12-01 |
@@ -161,10 +161,12 @@
 | [أبويا قالي زمان](https://open.spotify.com/track/6MdDjqdi61JRdW7ZhmsZIp) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [رضا البحراوي](https://open.spotify.com/artist/4VGgaeJRefrtn1Ymrn0zRg) | [أبويا قالي زمان](https://open.spotify.com/album/59iv1aUX6P1xLgzBlJfJcg) | 3:46 | 2021-12-16 | 2024-06-01 |
 | [أخوك يشرف بلد \- من فيلم حمص وحلاوة](https://open.spotify.com/track/6WcQ9rUbuDhFGAr7vYzlIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [أخوك يشرف بلد \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/4XFxQG7aF7Z0zALVa3Ee0P) | 6:02 | 2023-12-14 | 2023-12-30 |
 | [أنا العريس](https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [أنا العريس](https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf) | 4:14 | 2021-12-16 |  |
+| [إحنا البلد](https://open.spotify.com/track/73Y0J7zh5hSXg1VBICyzx0) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [إحنا البلد](https://open.spotify.com/album/0uKPJwneURKke432itVCCY) | 4:34 | 2024-09-05 |  |
 | [ابن ابوه](https://open.spotify.com/track/3QBNk0pRaYpWpKdM6RKXaf) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [ابن ابوه](https://open.spotify.com/album/079BNFRCtr3nPhRQpiHqJl) | 3:45 | 2024-03-29 |  |
 | [احزان](https://open.spotify.com/track/4TM9BFIoAizYGhwxhpqJlD) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/7HmAVQ3sV461mow0iEmVlM) | 23:46 | 2022-07-14 | 2023-05-12 |
 | [احزان](https://open.spotify.com/track/78Qm9FSk3A6MOc3o7RtzIq) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [احزان](https://open.spotify.com/album/6vxFPL1a81sNUrcYHaCsvM) | 23:46 | 2021-12-16 | 2022-07-29 |
 | [اسف يا نفسي](https://open.spotify.com/track/0a5RhyjwXaSOsv5KyNzISr) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [اسف يا نفسي](https://open.spotify.com/album/2kIBZ9uvmCaxjCGNT9kVyH) | 4:36 | 2024-02-05 |  |
+| [الباشا](https://open.spotify.com/track/2KkuXDZWQlwFa8QKeATHH2) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Mohamed AlSalim](https://open.spotify.com/artist/5Zkp6UaHTafGRXROGj6W0S) | [الباشا](https://open.spotify.com/album/31MkClRO6l5z3eSdoxX4nR) | 3:08 | 2024-09-05 |  |
 | [البطه البطه](https://open.spotify.com/track/4w7ZbySCNWOehHZjiT8Uws) | [حمزة الصغير](https://open.spotify.com/artist/20y1jfVrZPTR65Lw8i9MMN) | [الله عليك](https://open.spotify.com/album/6vUCRUmQ7jTzvqDB0KXc0A) | 4:19 | 2021-12-16 | 2023-05-12 |
 | [الثبات الثبات](https://open.spotify.com/track/0RKfjPG1r7ZlPsAJ8MPuVI) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Wadih El Cheikh](https://open.spotify.com/artist/6eeAS0L17Rl7edN18yWfFl) | [الثبات الثبات](https://open.spotify.com/album/0S4LwZEuXNAu7e2Sacp6Nv) | 3:30 | 2024-08-08 |  |
 | [الجدع](https://open.spotify.com/track/1byDc7CCRVo5nhD7zk6Vs3) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [الجدع](https://open.spotify.com/album/1SBSlPem3rQ5r97XDh5DQQ) | 3:19 | 2024-01-11 | 2024-02-16 |
@@ -239,7 +241,7 @@
 | [عذبني عذب](https://open.spotify.com/track/5DZYT2wKA64KDXins0gTIO) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عذبني عذب](https://open.spotify.com/album/6DQcUnGijb9dN7d0ehTmOv) | 4:16 | 2023-02-03 | 2023-06-07 |
 | [عشان الحلوين](https://open.spotify.com/track/6TyrvuX049CsYggJpMdYLK) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [عشان الحلوين](https://open.spotify.com/album/14XK0T7KIlVj5ddF1t6DxF) | 2:53 | 2021-12-16 | 2022-07-28 |
 | [عم المجال](https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE) | 3:40 | 2024-03-12 | 2024-07-05 |
-| [عم المجال \- يبني أنا في الشغله دي عمها](https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/72ggotxJU02kj6Anb7WKcV) | 4:15 | 2024-07-04 |  |
+| [عم المجال \- يبني أنا في الشغله دي عمها](https://open.spotify.com/track/4tHdErGYkKkbHI9Svvhy4Z) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [عم المجال](https://open.spotify.com/album/72ggotxJU02kj6Anb7WKcV) | 4:15 | 2024-07-04 | 2024-09-06 |
 | [فينك يا راحه](https://open.spotify.com/track/5gXfbfZBkXlnEPhvxMNdCW) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [فينك يا راحه](https://open.spotify.com/album/3o1lLPHhpSdk6plSKxNJxR) | 3:21 | 2021-12-16 | 2022-07-29 |
 | [قرار نهائى](https://open.spotify.com/track/43oIicOxYWzw75hJLHm1AW) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/2IkUWV4SlRri8UiiddXyUw) | 4:19 | 2022-07-14 | 2023-05-13 |
 | [قرار نهائى](https://open.spotify.com/track/58ncF5dp5mwaRvEWUXwLHm) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [قرار نهائى](https://open.spotify.com/album/3f3MTQ7CCByD9NQbun975j) | 4:19 | 2021-12-30 | 2022-07-28 |

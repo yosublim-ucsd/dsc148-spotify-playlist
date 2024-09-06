@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Albireo",
+        "url": "https://open.spotify.com/album/3VvtwFjm7btVW5sXLD7cyf"
+      },
+      "artists": [
+        {
+          "name": "\u30ed\u30af\u30c7\u30ca\u30b7",
+          "url": "https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207812,
+      "name": "Albireo",
+      "url": "https://open.spotify.com/track/4TAoC3ZUZB6iUu1nUa92Al"
+    },
+    {
+      "album": {
         "name": "angel girl is a slut",
         "url": "https://open.spotify.com/album/4eL3wRQYnnauSjMxgAV4rv"
       },
@@ -1407,6 +1425,24 @@
     },
     {
       "album": {
+        "name": "CARAI",
+        "url": "https://open.spotify.com/album/2iMnoiFCOn8mC8eRJtWPqR"
+      },
+      "artists": [
+        {
+          "name": "CHiLi GiRL",
+          "url": "https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "FLY",
+      "url": "https://open.spotify.com/track/69TWjExg7jIsKppVduemkN"
+    },
+    {
+      "album": {
         "name": "WHOOPEE LAND",
         "url": "https://open.spotify.com/album/0hue9kuX7nULpylyGYvMDS"
       },
@@ -1484,6 +1520,24 @@
       "duration_ms": 318320,
       "name": "FREEDOM",
       "url": "https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu"
+    },
+    {
+      "album": {
+        "name": "From Now!",
+        "url": "https://open.spotify.com/album/0ZQ92Ej8z7S5K65dmOIoB9"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175578,
+      "name": "From Now!",
+      "url": "https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy"
     },
     {
       "album": {
@@ -3884,7 +3938,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 206527,
       "name": "Outside (Soto)",
       "url": "https://open.spotify.com/track/3qFGKudbda5dTtblhOvlXh"
@@ -7858,7 +7912,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 225485,
       "name": "\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/24yjeET9kkN8mQMHLBdSoV"
@@ -8672,7 +8726,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177466,
       "name": "\u5b8c\u74a7\u5f7c\u5973",
       "url": "https://open.spotify.com/track/4IvwKg7uLZmB8wx4eXS8h5"
@@ -8792,6 +8846,24 @@
       "duration_ms": 137332,
       "name": "\u5f37\u98a8\u30aa\u30fc\u30eb\u30d0\u30c3\u30af",
       "url": "https://open.spotify.com/track/4pBQGAV1bm6xqFcZL2yGSM"
+    },
+    {
+      "album": {
+        "name": "\u5f3e\u304d\u3053\u3082\u308a",
+        "url": "https://open.spotify.com/album/4qVclJ7bWURb4dn6pD693e"
+      },
+      "artists": [
+        {
+          "name": "AKASAKI",
+          "url": "https://open.spotify.com/artist/2VcWFvgGxVdma52qB5DSDw"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179493,
+      "name": "\u5f3e\u304d\u3053\u3082\u308a",
+      "url": "https://open.spotify.com/track/7nujhR6eck3NCE2oQRyDFz"
     },
     {
       "album": {
@@ -9716,7 +9788,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 207958,
       "name": "\u821e\u53f0\u306b\u7acb\u3063\u3066",
       "url": "https://open.spotify.com/track/42lDvdAmBr7H5hLzvr882L"

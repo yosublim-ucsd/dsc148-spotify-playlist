@@ -1,13 +1,29 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy! Cover: <a href=\"https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ\">Joe Goddard</a>",
-  "num_followers": 67044,
+  "num_followers": 67060,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "AAAP3gTEMGLBoYaeOMOfdiutP9VABrfg",
+  "snapshot_id": "AAAP6ukMOKcmPFkrXTXMzB5XU6ROg7QZ",
   "tracks": [
+    {
+      "added_at": "2024-09-05 08:33:34",
+      "album": {
+        "name": "Gild",
+        "url": "https://open.spotify.com/album/3cmUNvUATYjLaodQuLbvFo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 236220,
+      "name": "Gild",
+      "url": "https://open.spotify.com/track/1xCle6fuuS62o6in7g8GA9"
+    },
     {
       "added_at": "2024-09-04 11:47:05",
       "album": {

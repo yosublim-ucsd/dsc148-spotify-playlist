@@ -2,9 +2,9 @@
 
 ### [Courant Alternatif](https://open.spotify.com/playlist/37i9dQZF1DX4TqmALHVh5A)
 
-> La scène française branchée sur courant alternatif\. Photo : Zed Yun Pavarotti
+> La scène française branchée sur courant alternatif\. Photo : La Femme
 
-189 songs - 10 hr 7 min
+192 songs - 10 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [babyBB](https://open.spotify.com/track/0W701OYHjDCdIs8G3LR5CJ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/3WMUtz1selQxoqGxCHbh7j) | 3:19 | 2024-03-07 | 2024-04-19 |
 | [babyBB](https://open.spotify.com/track/3QdDaachbgJdrWgAXfYBVZ) | [Ofé](https://open.spotify.com/artist/6BStglzFvs6FDKMzHbZzV0) | [babyBB](https://open.spotify.com/album/7cNKxHYLzPobRtCsnXzjRD) | 3:20 | 2024-02-29 |  |
 | [Bagarre](https://open.spotify.com/track/5E7GDG7h7WcIbDqbvpntoU) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Bagarre](https://open.spotify.com/album/5iNxyLikg53HwIGOhnxqs6) | 2:24 | 2023-10-26 | 2024-01-27 |
+| [Baisodrome](https://open.spotify.com/track/2KVBVw9MhDP4KSGhjvBSap) | [Claude](https://open.spotify.com/artist/7GwgWrKzqg3WzSD8EAvNZP) | [Baisodrome](https://open.spotify.com/album/3PydxWkYJxebd7ILDVbPT5) | 4:20 | 2024-09-05 |  |
 | [Birthday Party](https://open.spotify.com/track/4YcBDlhIXz3reul1Z9WW8N) | [Metro Verlaine](https://open.spotify.com/artist/2BYbt36s189UAMhaTUA1PX) | [Birthday Party](https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82) | 3:30 | 2023-11-30 | 2024-02-09 |
 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/7kRmyF6PQpQQbOZYb5NeA3) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BITCH YOU COULD NEVER](https://open.spotify.com/album/3hisckVmjrbZDOAgxC1GL0) | 2:28 | 2024-05-09 |  |
 | [Bliss](https://open.spotify.com/track/0EmKhO8Mnd4o4ErUfFDPdC) | [Dead.](https://open.spotify.com/artist/0utyVWsLcppQJm5U2U1hMu) | [Bliss](https://open.spotify.com/album/1vmKg53JyZ1NJy0cFOmrYv) | 5:13 | 2023-12-08 | 2024-06-01 |
@@ -36,13 +37,14 @@
 | [Calme\-toi bouge tes genoux](https://open.spotify.com/track/5YOjTNyz3YvHeGEbDYiCSB) | [Astéréotypie](https://open.spotify.com/artist/1bPIphq90zexFcnUA7qILm) | [Calme\-toi bouge tes genoux](https://open.spotify.com/album/4DpOlFFpUpEZj5ODQu48Ba) | 3:09 | 2024-04-04 | 2024-04-19 |
 | [caméléon](https://open.spotify.com/track/16t191oUr541iQTZrbqYuM) | [DO not DO](https://open.spotify.com/artist/7ipFE8S09qHrx6zoLKVGqi) | [caméléon](https://open.spotify.com/album/63VHMWKqWMclz52WGkOt16) | 3:37 | 2024-04-18 |  |
 | [Catch Me](https://open.spotify.com/track/3aAmbkmw4wGiCAIn1Ktwlv) | [Balm](https://open.spotify.com/artist/4hI6ww0nRIy2qtXh48yKlp) | [Lavender](https://open.spotify.com/album/4nCf0hlINNS0mF6LeK0Cmh) | 3:43 | 2023-09-28 | 2024-01-19 |
-| [Ce monde où tu n'existes pas](https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 3:17 | 2023-11-16 |  |
+| [Ce monde où tu n'existes pas](https://open.spotify.com/track/1rBhr3qkZxueavxEc5xnov) | [ascendant vierge](https://open.spotify.com/artist/3IMOGrM63og03I4jMYo35G) | [Une Nouvelle Chance](https://open.spotify.com/album/2y0CqT7wxeJ4xXGEt9OpEl) | 3:17 | 2023-11-16 | 2024-09-06 |
 | [Ce que la lune éclaire](https://open.spotify.com/track/3m5pD1dbGn5UoWUAiKyg8A) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Ce que la lune éclaire](https://open.spotify.com/album/6I9VmoqM3N8NtEotua9LVH) | 3:45 | 2023-09-28 | 2023-10-06 |
 | [Cendrier](https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Cendrier](https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu) | 3:24 | 2023-12-08 | 2024-01-12 |
 | [Christiane F](https://open.spotify.com/track/20qFSAGLPpDxaQJYd1fB7G) | [Takeshi HRTBRK](https://open.spotify.com/artist/5UDVJ8zsudfutHD7DCLeuz) | [Christiane F](https://open.spotify.com/album/73RKng65JeReqOgTTLGspF) | 2:31 | 2023-09-28 | 2023-11-17 |
 | [Chromé total](https://open.spotify.com/track/732rPfESdrlQjJoeqtSOgm) | [Scuffles](https://open.spotify.com/artist/2FLeI069itvCLf9YBn6CpQ) | [Chromé total](https://open.spotify.com/album/1ZkKO0IVqwv6kO3M9d8yWK) | 3:12 | 2023-10-19 | 2024-04-05 |
 | [Cl0ckW0rk](https://open.spotify.com/track/5w8XK7wdcdsIp76zLtc3aR) | [Apple Jelly](https://open.spotify.com/artist/587AadegoSQQn1WdhSCnSZ) | [Cl0ckW0rk EP](https://open.spotify.com/album/2aMSVdnr1U8YJKdbjLqHfr) | 3:01 | 2023-10-05 | 2023-11-17 |
 | [CLAIRIÈRE](https://open.spotify.com/track/2oMkFzQlvWaJBYjJPcHiMU) | [VISCERAL](https://open.spotify.com/artist/5AwoTd09zcU8oUJ12Qt4Om) | [CLAIRIÈRE](https://open.spotify.com/album/089lVl2UqcXFCc6Xy87WCP) | 2:49 | 2024-03-28 | 2024-05-03 |
+| [Clover Paradise](https://open.spotify.com/track/3WT0j8yvZHAM6HVArq1LX0) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Clover Paradise](https://open.spotify.com/album/2suW4wxHSdhU0uK4gGuMui) | 5:09 | 2024-09-05 |  |
 | [COLLÉ SERRÉ](https://open.spotify.com/track/0Oeym4SSUPJqNAH9sLUdvy) | [BRIQUE ARGENT](https://open.spotify.com/artist/6oEiRjlcIxYaZvnjlMiYLw) | [COLLÉ SERRÉ](https://open.spotify.com/album/1qRHnXgeDKChBP6iu16FQF) | 3:07 | 2023-09-28 | 2023-11-17 |
 | [Comme tout le monde](https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Comme tout le monde](https://open.spotify.com/album/5NKUHRNWaQhzNvNIL7s3YS) | 2:39 | 2024-05-02 |  |
 | [Comme Un Animal](https://open.spotify.com/track/0rQ4QMF4nQ7j2lRMmiAyXL) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Comme Un Animal](https://open.spotify.com/album/517FTIAufDAkVeTyoFeQRd) | 3:05 | 2024-04-18 |  |
@@ -79,7 +81,7 @@
 | [Ikea Boy](https://open.spotify.com/track/64NFlmUuFlT9HPhshsvQk3) | [Hoorsees](https://open.spotify.com/artist/2jEi3FU5iGeVWxOCm9BTX4) | [Ikea Boy](https://open.spotify.com/album/5L2BWyQDdBO1GPERRBjqrU) | 3:29 | 2023-11-02 | 2023-12-08 |
 | [It's Over](https://open.spotify.com/track/1ZpbVeGleNHviKOyPQhMkU) | [Agar Agar](https://open.spotify.com/artist/5TkylUv5ysSbNoawmn3PBj) | [Player Non Player](https://open.spotify.com/album/2j2pVa9Bw4UcXeWMFkq13K) | 4:57 | 2023-09-28 | 2023-10-13 |
 | [J'ai plus peur](https://open.spotify.com/track/23A5YxiaHkz2pT7KOesZBN) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [J'ai plus peur](https://open.spotify.com/album/1epUOG9NbeV7YydZYFmV7p) | 3:12 | 2024-03-28 | 2024-05-17 |
-| [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 |  |
+| [J'ai plus peur](https://open.spotify.com/track/68Bx21Flk7AhI9PCnNI775) | [TOMASI](https://open.spotify.com/artist/54Bq5KQLmswXsQyh6kDSJ5), [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Adulescent Fluorescent](https://open.spotify.com/album/7CN4CQaAH8OlV2vEFGNXhf) | 3:23 | 2023-09-28 | 2024-09-06 |
 | [J'aimerais tellement](https://open.spotify.com/track/50iCUpHSFtwJ7SAgil8MXx) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [J'aimerais tellement](https://open.spotify.com/album/2tJlAcgwyoxrAa2iASbviH) | 3:15 | 2023-12-14 | 2024-02-09 |
 | [Jamais Je Ne Viens](https://open.spotify.com/track/5dSLiCcetFe3LGrnhbh9fZ) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/48OOvBs7jVOAWitbHAQ9Ll) | 2:28 | 2023-09-28 | 2023-10-06 |
 | [Je cours](https://open.spotify.com/track/51Gt7yGGiV4wEH9C8YgwBd) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Je cours](https://open.spotify.com/album/4mjbfmCjIffHSLbZRqNWNf) | 2:57 | 2023-09-28 | 2023-11-03 |
@@ -126,7 +128,7 @@
 | [New World](https://open.spotify.com/track/4j9XjA7cYOeX9KFKNk3WUz) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [New World](https://open.spotify.com/album/6MTwKUXoJ0zWO8H8bshzqy) | 3:14 | 2023-09-28 | 2023-11-03 |
 | [Nobody's Wife](https://open.spotify.com/track/3b0XPLMM0anvaKPumGyDoW) | [Pi Ja Ma](https://open.spotify.com/artist/4Rvd84k54Bx41YK2kH3GoA) | [Nobody's Wife](https://open.spotify.com/album/0JGgXJR6ZJES8IQ1bYEg8W) | 3:39 | 2023-09-28 | 2023-10-06 |
 | [NON!](https://open.spotify.com/track/0Exg9zdCIzf5oxraD55Hvx) | [Moyà](https://open.spotify.com/artist/1Xvap7Au9MqLcUJUCPcJp1) | [NON!](https://open.spotify.com/album/0QN2wl4FJrYBnug6pADlWq) | 1:41 | 2024-04-25 | 2024-06-07 |
-| [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 | 2023-11-23 |  |
+| [ON EST LES MÊMES](https://open.spotify.com/track/4yWpqptuVmPra8Ua8Huwg8) | [Bagarre](https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ) | [ON EST LES MÊMES](https://open.spotify.com/album/4R937d2jBEIEij9ANYh7go) | 3:38 | 2023-11-23 | 2024-09-06 |
 | [On Fait du Rock](https://open.spotify.com/track/3Y6MKj7jBrXqPve2DyoWqO) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [On Fait du Rock](https://open.spotify.com/album/2vAq1Kmv81GC3GfkSg9neE) | 4:13 | 2023-09-28 | 2023-10-06 |
 | [Opening](https://open.spotify.com/track/6JlZNJP7EKJIxXPaeDQcrz) | [Talisco](https://open.spotify.com/artist/0ZR3khgseh3xy3s8iBYWrI) | [Opening](https://open.spotify.com/album/03BSJyijRZPzlCiPbTcHFC) | 2:04 | 2023-11-02 | 2024-01-19 |
 | [Pala](https://open.spotify.com/track/6X66gz7OKx3jcKBbkDWm4Y) | [igee](https://open.spotify.com/artist/4k9plDbRTvmEIQWcSGyWbI) | [DiRTYPOP!](https://open.spotify.com/album/3TgAVNiAN1Me3iWV8fGEor) | 2:27 | 2024-06-06 | 2024-06-14 |
@@ -181,6 +183,7 @@
 | [Tout eteindre](https://open.spotify.com/track/3TVR0qA8G8V30Ywtnf1Xgm) | [LE BLEU](https://open.spotify.com/artist/0J9AH1bf6gXuhhZY8Ysuz4) | [Tout eteindre](https://open.spotify.com/album/7kWbrWPzUb3j1BySkQRqJI) | 4:41 | 2023-11-09 | 2024-02-02 |
 | [Tovsk](https://open.spotify.com/track/3eE3crzsKJ2PaNQ8Ql0nzD) | [Vipères Sucrées Salées](https://open.spotify.com/artist/6CAIJHm9VUJsqMjRdRnBc5) | [Tovsk](https://open.spotify.com/album/2c6Y0gdj5J23TeQhEHJwq2) | 2:45 | 2023-11-30 | 2024-03-08 |
 | [tu t'es laissé aller](https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I) | [L'enfant](https://open.spotify.com/artist/5imgjumuHUmnzZF3vOEmso) | [trop de choses à prouver](https://open.spotify.com/album/3hzGGpG5isbfTez00TFkcG) | 2:39 | 2024-01-04 | 2024-06-28 |
+| [Un Autre Nom](https://open.spotify.com/track/2Sftxg76IUpWf3aSH7prbl) | [Allo Christine](https://open.spotify.com/artist/0ycuoXwPh9pQpDebMV5Wg3) | [Un Autre Nom](https://open.spotify.com/album/1SIurxrtkXjXzxfuj2awk8) | 3:51 | 2024-09-05 |  |
 | [Une dernière fois](https://open.spotify.com/track/3FWo0LZdY98cNzlJ3vkBPO) | [Jean Castel](https://open.spotify.com/artist/1mNalEbDGiL0rHTGwagfr1) | [Bella Vita](https://open.spotify.com/album/1CUDj03p5bIJMthHyrqpYZ) | 3:07 | 2023-09-28 | 2023-10-20 |
 | [Vampire](https://open.spotify.com/track/1NXaC1bu1eufFLpkqog2zw) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 3:33 | 2023-09-28 | 2023-10-20 |
 | [Vert Colère](https://open.spotify.com/track/25rbcw7r1mKCMLME1yrA1R) | [Order89](https://open.spotify.com/artist/6ayzB6RMcaJM7POpMjRtTW) | [Brûle](https://open.spotify.com/album/3Rt5jXlFYs8MNa7TfEGTLD) | 3:22 | 2023-11-16 | 2024-01-12 |

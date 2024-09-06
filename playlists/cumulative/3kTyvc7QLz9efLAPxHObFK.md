@@ -4,7 +4,7 @@
 
 > 
 
-1,669 songs - 3 day 17 hr 52 min
+1,670 songs - 3 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,6 +301,7 @@
 | [Control](https://open.spotify.com/track/5mJY3L4zzRXNJojY4Rdwka) | [RAYZEN](https://open.spotify.com/artist/2x7wHChcawAYikCTKfhjId) | [Control](https://open.spotify.com/album/4Xauc0EgYDO3wyVYV6JqGL) | 2:04 | 2024-05-28 |  |
 | [Control](https://open.spotify.com/track/2dm3quTMIJIUOaCSpM7bZW) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [AK47](https://open.spotify.com/artist/5S8iKAwEiBxlyietNxHj8Y) | [Control](https://open.spotify.com/album/6U5fr8VTIJk1QyDuSXsNjR) | 3:32 | 2021-11-30 |  |
 | [CONTROL MY ANGER](https://open.spotify.com/track/2LMeEidRd7nPz6yb7KAt4B) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [CONTROL MY ANGER](https://open.spotify.com/album/1DyqQHAwKXuA8OafTKjVhh) | 2:26 | 2023-07-26 |  |
+| [Cooking Up Your Brain](https://open.spotify.com/track/6a3KlgLFasWWsAsi96RovP) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Cooking Up Your Brain](https://open.spotify.com/album/1iKdbLAU6o5AZwlTN8Omxk) | 3:04 | 2024-09-05 |  |
 | [Cosmic Conquest \- Official Masters of Hardcore 2023 Anthem](https://open.spotify.com/track/5eU5LKRWXsSU1rtuwzQusj) | [Nosferatu](https://open.spotify.com/artist/0S6b11xqvO6XOWZSukSjiY), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Cosmic Conquest \(Official Masters of Hardcore 2023 Anthem\)](https://open.spotify.com/album/2mULZLc1KMZYc1NDWSEdcb) | 5:45 | 2023-02-18 |  |
 | [CPU](https://open.spotify.com/track/1FP8x42Zz0g5NGJSLnSBzm) | [DEEZL](https://open.spotify.com/artist/5Gmt205UikGABaRkBaTX5L) | [CPU](https://open.spotify.com/album/1GLuR8XOGZMhsSke1ymZ4i) | 2:40 | 2023-06-17 |  |
 | [Crank Up The Bass](https://open.spotify.com/track/6H5MuadWUZTmZbYTE1u4s9) | [N\-Vitral](https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3), [Miss K8](https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO) | [Crank Up The Bass](https://open.spotify.com/album/0onI16GdtZSf1DnBtux4Xp) | 3:24 | 2023-07-18 |  |

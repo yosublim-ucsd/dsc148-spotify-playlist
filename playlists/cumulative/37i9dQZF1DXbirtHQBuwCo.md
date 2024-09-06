@@ -4,7 +4,7 @@
 
 > Enjoy trendy & chill Korean R&B music\. \(Cover: JAEHYUN\(재현\)\)
 
-742 songs - 1 day 15 hr 36 min
+743 songs - 1 day 15 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [Baby I Need You](https://open.spotify.com/track/7F7s8Hh6h1PgGUyVzpRfDs) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Baby I Need You](https://open.spotify.com/album/439HCLfX880T9IBLn7iSEf) | 3:35 | 2022-07-24 | 2022-09-06 |
 | [Baby PLZ \(feat\. Jay Park\)](https://open.spotify.com/track/0KBQZCNDLOPLFNZ17Q8CQg) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [BLESSED](https://open.spotify.com/album/7wTEF0FR8kVEtPTV5cjRzd) | 2:45 | 2024-03-13 | 2024-03-28 |
 | [Back Against The Wall \(feat\. Kvsh\)](https://open.spotify.com/track/0Qk9zm15Djca5RKNt3y7iu) | [aiai](https://open.spotify.com/artist/5lrByYTqlHSUHEg6hsMakl), [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB) | [Back Against The Wall](https://open.spotify.com/album/3Q2Ma8GBxQLguoc5gxmvk4) | 2:44 | 2022-10-29 | 2022-11-10 |
-| [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-08 |  |
+| [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 | 2024-08-08 | 2024-09-06 |
 | [Bad At Us](https://open.spotify.com/track/12EhuKuFOOs7sBMbajhDNW) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/3kyB3zyiJQ4jWKheOKrFhH) | 3:19 | 2023-05-30 | 2023-06-16 |
 | [BAD BAD \(Feat\. Tabber, Jay Park\)](https://open.spotify.com/track/7fjAIwn4DpKwTEqO08zN9H) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Tabber](https://open.spotify.com/artist/4CYjITN8Au3K5CWFeex7fU), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:34 | 2023-03-10 | 2023-04-01 |
 | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/track/2uFxjq8W6lbVNJDg0EoRgd) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [Bad Rain \(Feat\. SUMIN\)](https://open.spotify.com/album/0DuMzsjufFCk6yHUMnMgxz) | 3:47 | 2022-06-03 | 2022-06-19 |
@@ -681,6 +681,7 @@
 | [uleum](https://open.spotify.com/track/595KCHsr2IGHS3iykdPyta) | [Mokyo](https://open.spotify.com/artist/1kRGgLBLwdQ16TxyfN1YgP) | [uleum](https://open.spotify.com/album/3KHDiSRpFQg50qplOfznpw) | 3:51 | 2022-04-19 | 2022-04-21 |
 | [Unbreak](https://open.spotify.com/track/1UQHcilrljYHCBHEHg8eMi) | [KATIE](https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO) | [Unbreak](https://open.spotify.com/album/5cW2CezifOIFXI599yiVcJ) | 3:19 | 2024-07-19 |  |
 | [Undo](https://open.spotify.com/track/6z1pJ3KUmQagUpMVqL62sa) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 2:48 | 2022-07-04 | 2022-08-19 |
+| [UoU](https://open.spotify.com/track/1Er4Us9efoj7yyAZQ7CNd4) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi) | [UoU](https://open.spotify.com/album/5OuzEfhlKMTT2gAXJZqyGp) | 2:36 | 2024-09-05 |  |
 | [Up Late](https://open.spotify.com/track/0zGHkO156T5MNaYmaS7fNP) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Love Sick](https://open.spotify.com/album/35taXjwOGmbL92CzJBjqek) | 2:53 | 2023-11-17 | 2023-11-23 |
 | [Up Late](https://open.spotify.com/track/1UGQ0UbDJ69eTfUvrqMwNz) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj) | [Up Late](https://open.spotify.com/album/4WP3fm7ewSHgbQLHn84oaf) | 2:53 | 2023-08-17 | 2023-08-19 |
 | [US](https://open.spotify.com/track/28toOHNKaU968fvVoKA9pQ) | [Moon Jong Up](https://open.spotify.com/artist/3I9hRYYNJvENa3EcJ6c5cd) | [Moon Jong Up \- 1st Mini Album "US"](https://open.spotify.com/album/5v8Uj3vFwXfdu8eKiyhUuX) | 2:59 | 2022-06-03 | 2022-07-28 |

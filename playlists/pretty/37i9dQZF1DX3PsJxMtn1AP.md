@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,742 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,743 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,12 +27,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 17 | [Garmonbozia](https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Garmonbozia](https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc) | 3:33 |
 | 18 | [Weird Moments](https://open.spotify.com/track/3WFGkSKtU8ahwFluCrUb6n) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 3:30 |
 | 19 | [Technicolor Dream](https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej) | [My Friend Catie](https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq) | [Technicolor Dream](https://open.spotify.com/album/165OxgFnUaeMTJnYndej77) | 4:10 |
-| 20 | [Metropolis](https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Metropolis](https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP) | 3:21 |
-| 21 | [dead end.](https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 3:18 |
-| 22 | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 |
-| 23 | [Nube](https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 5:39 |
-| 24 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
-| 25 | [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 |
+| 20 | [Estarán aparcando](https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Estarán aparcando](https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ) | 2:20 |
+| 21 | [Metropolis](https://open.spotify.com/track/5fXOgsysYHIOKh3lT7qQWG) | [Kit Sebastian](https://open.spotify.com/artist/5GSILaXo4yN4umwJK8eBBY) | [Metropolis](https://open.spotify.com/album/0qCFJreQmYWvUUJjWos6eP) | 3:21 |
+| 22 | [dead end.](https://open.spotify.com/track/57EHa4bjlEm8Cr63Ue4BGZ) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [here we go again...](https://open.spotify.com/album/1TQmMkWDju1CTomVO866ju) | 3:18 |
+| 23 | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/track/7pkBZWpr9BActeFhWeWtVO) | [urboi.](https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L), [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [Come&Go \(funnynoiseclub002\)](https://open.spotify.com/album/2BDAa2AXTSSJuUJQSNhN06) | 2:22 |
+| 24 | [Nube](https://open.spotify.com/track/3dNMnVXjn1RZ2fQzGvphul) | [Luisa Almaguer](https://open.spotify.com/artist/2EIoOPYbB27xL2XuvKmNEq) | [Weyes](https://open.spotify.com/album/4X8yo0vpzCLJtqYSlJXoEV) | 5:39 |
+| 25 | [ANIMAL SEEKING](https://open.spotify.com/track/226CR861s1Xc1hrLfdPNxj) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. II](https://open.spotify.com/album/5BVjkQyN80FvN61CGaY5bl) | 3:19 |
 | 26 | [Lava](https://open.spotify.com/track/6gyeYI3DIMrjCe7qhmk84J) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Lava](https://open.spotify.com/album/2oKV2sTXWRld4SNQ5o1jkH) | 3:51 |
 | 27 | [Side Quest](https://open.spotify.com/track/3CQhLUh7PfobqurGEEoz6h) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Side Quest](https://open.spotify.com/album/3ws96T2S43qUuNt1vyYjHq) | 3:19 |
 | 28 | [Sandrail Silhouette](https://open.spotify.com/track/0d3yrpfIZj4BJUVRdm2llW) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [& the Charm](https://open.spotify.com/album/4lfxnysknFsZMnrB07hlCo) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [Continuum 1](https://open.spotify.com/track/2HwPbhzKbOT0Tfa5QAXSER) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Continuum 1](https://open.spotify.com/album/30FyWqYnR3TP5RbadU28e4) | 7:13 |
 | 50 | [RITUAL \(palace\)](https://open.spotify.com/track/23glDLdns3JnzpaFdY8eH8) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI), [Vylana](https://open.spotify.com/artist/6NDHQ6GcwKEA6BKvIIuFpn) | [RITUAL \(palace\)](https://open.spotify.com/album/6nO37jTIWGvANeK8VQtz2U) | 5:55 |
 
-Snapshot ID: `ZtSB2AAAAABuQ/ArjjOnxu7fA1WJdj9k`
+Snapshot ID: `ZtnzMwAAAAALZGAfJdA3LwOhv4CAE1lI`

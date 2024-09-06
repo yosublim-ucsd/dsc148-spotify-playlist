@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Nick Cave",
+  "description": "Le meilleur de la sc\u00e8ne alternative du moment. Photo : Yannis & The Yaw",
   "name": "Hot Alternative",
   "tracks": [
     {
@@ -907,6 +907,28 @@
     },
     {
       "album": {
+        "name": "Lagos Paris London",
+        "url": "https://open.spotify.com/album/489nt0VZ9DLPB4r9movvdL"
+      },
+      "artists": [
+        {
+          "name": "Yannis & The Yaw",
+          "url": "https://open.spotify.com/artist/398DRY2p9x2q0XOU3gkkYH"
+        },
+        {
+          "name": "Yannis",
+          "url": "https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240711,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/5wPI9EcZ30sT0b68kdAXBP"
+    },
+    {
+      "album": {
         "name": "Cocoon",
         "url": "https://open.spotify.com/album/3lrZiTjmoBOseURTwpz0jn"
       },
@@ -1114,6 +1136,24 @@
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
       "url": "https://open.spotify.com/track/3SRtygyWBQnoxuOPtdBPm2"
+    },
+    {
+      "album": {
+        "name": "Deep Dark Waters",
+        "url": "https://open.spotify.com/album/6x1Uu1bl7VTxmrFWBIk9xU"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212366,
+      "name": "Deep Dark Waters - Edit",
+      "url": "https://open.spotify.com/track/1xd2CibZy7SNzcUoKmMQxF"
     },
     {
       "album": {
@@ -1644,7 +1684,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 139500,
       "name": "Garage Sale",
       "url": "https://open.spotify.com/track/6E1g4wl5lSHEEyAqP6eTfQ"
@@ -1997,6 +2037,24 @@
     },
     {
       "album": {
+        "name": "Here Today",
+        "url": "https://open.spotify.com/album/5VCrEEZnhlnwwREQiDjQip"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217293,
+      "name": "Here Today",
+      "url": "https://open.spotify.com/track/15vXV6pd5WIJUhe2VJ34O7"
+    },
+    {
+      "album": {
         "name": "Here's The Thing",
         "url": "https://open.spotify.com/album/63MATGJoOix8OypoCqnJga"
       },
@@ -2033,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5wm6RLQG7S7L8GuJrD3Mzs"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
+    },
+    {
+      "album": {
         "name": "How Can I Love Her More?",
         "url": "https://open.spotify.com/album/4AflCecOU26ScUgd34omyk"
       },
@@ -2048,6 +2124,24 @@
       "duration_ms": 167586,
       "name": "How Can I Love Her More?",
       "url": "https://open.spotify.com/track/5ZH5HVHFtxf7opSL8Tvo6r"
+    },
+    {
+      "album": {
+        "name": "Hurry Hurry",
+        "url": "https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "Hurry Hurry",
+      "url": "https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d"
     },
     {
       "album": {
@@ -2242,7 +2336,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 266884,
       "name": "In The Modern World",
       "url": "https://open.spotify.com/track/3kQmcD1XU29nSMrS7kgsWm"
@@ -2314,7 +2408,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 155658,
       "name": "Italian Horror",
       "url": "https://open.spotify.com/track/0NZvjVlwXHLUeLgZV8zk98"
@@ -2448,6 +2542,28 @@
       "duration_ms": 156397,
       "name": "kms",
       "url": "https://open.spotify.com/track/6xl5EyL3JzVtqpxp3GRkmH"
+    },
+    {
+      "album": {
+        "name": "Late To The Party (feat. Declan McKenna)",
+        "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        },
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215693,
+      "name": "Late To The Party (feat. Declan McKenna)",
+      "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
     },
     {
       "album": {
@@ -3674,7 +3790,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 317467,
       "name": "Running",
       "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
@@ -3740,7 +3856,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 227145,
       "name": "Scared Of Nothing",
       "url": "https://open.spotify.com/track/2SGuTPGl17tQUyyunrOl22"
@@ -3776,7 +3892,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 278226,
       "name": "She's Leaving You",
       "url": "https://open.spotify.com/track/10cGyorRXoOc9RhVhY9Sru"
@@ -4129,6 +4245,28 @@
     },
     {
       "album": {
+        "name": "VIVA HINDS",
+        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206563,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
+      "album": {
         "name": "Strawberry Jam",
         "url": "https://open.spotify.com/album/3WtWzLerFbkjmu2Uh2f2k9"
       },
@@ -4468,7 +4606,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 159520,
       "name": "The End",
       "url": "https://open.spotify.com/track/61hkYwYeknRNFuj9TmgTtI"
@@ -4738,7 +4876,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
@@ -5074,6 +5212,24 @@
       "duration_ms": 174521,
       "name": "worlds greatest emoter",
       "url": "https://open.spotify.com/track/6cjffqe2ghES5XsGAL9TlT"
+    },
+    {
+      "album": {
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
     },
     {
       "album": {

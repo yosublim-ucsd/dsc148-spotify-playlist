@@ -2,7 +2,7 @@
 
 ### [This Is Eden Muñoz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0GToIh)
 
-> This Is Eden Muñoz\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Eden Muñoz\. The essential tracks, all in one playlist.
 
 69 songs - 3 hr 36 min
 

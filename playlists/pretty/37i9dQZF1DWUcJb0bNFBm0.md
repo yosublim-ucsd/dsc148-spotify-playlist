@@ -2,20 +2,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: Subsonic Eye\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Enola\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,458 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,469 likes - 100 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 |
-| 2 | [crush](https://open.spotify.com/track/1HxUhCalGraWOoaheJLUbM) | [Asher Alexander](https://open.spotify.com/artist/5IBHOC7U2mLy8qt3AEsJYj) | [crush](https://open.spotify.com/album/2sYRmISD3lbhcdym9OxCRc) | 2:12 |
-| 3 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 |
-| 4 | [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 |
-| 5 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 |
-| 6 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 |
-| 7 | [Call Ken](https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Call Ken](https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR) | 2:57 |
-| 8 | [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 |
+| 1 | [Lambda \(λ\)](https://open.spotify.com/track/1kUVmT99zwgXFAtnoLSbk9) | [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [Commit Death](https://open.spotify.com/album/1WcDZaLkfS0dJGN5r9PRec) | 7:40 |
+| 2 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 |
+| 3 | [Not Linear](https://open.spotify.com/track/1X65qVpOjYsy2OSluTVpCo) | [Subsonic Eye](https://open.spotify.com/artist/6nRhwtv2bwuDvPijPCjcie) | [Not Linear](https://open.spotify.com/album/2x7CDxnBDVenYcLBUeCiwA) | 4:28 |
+| 4 | [crush](https://open.spotify.com/track/1HxUhCalGraWOoaheJLUbM) | [Asher Alexander](https://open.spotify.com/artist/5IBHOC7U2mLy8qt3AEsJYj) | [crush](https://open.spotify.com/album/2sYRmISD3lbhcdym9OxCRc) | 2:12 |
+| 5 | [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 |
+| 6 | [Burning \- English ver.](https://open.spotify.com/track/6d4gP8ZGP9eHnexHj4Fqhb) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [Burning \(English ver.\)](https://open.spotify.com/album/3ID8TkLdErk9dIct7FaVer) | 3:54 |
+| 7 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 |
+| 8 | [Call Ken](https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Call Ken](https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR) | 2:57 |
 | 9 | [Maybe Somewhere](https://open.spotify.com/track/1MMQVrSaKBllpbepX3zCho) | [Parannoul](https://open.spotify.com/artist/7eZbNxarrTW4VkRI8u9aDX) | [Sky Hundred](https://open.spotify.com/album/45rVXGAItPUFuTG9e10ldd) | 5:16 |
 | 10 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 |
 | 11 | [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUcJb0bNFBm0.md) - [plain]
 | 99 | [Ribs](https://open.spotify.com/track/73KEmBzTgMoLbTf5QkP4bq) | [AVA](https://open.spotify.com/artist/4mfHZUR1oMLsM7QrDH36NP) | [Ribs](https://open.spotify.com/album/0sUvrfyz1Yko9iPSFGQhwe) | 4:31 |
 | 100 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 |
 
-Snapshot ID: `ZtF+RwAAAABPn01yAQx8ICxLg7DYWG0H`
+Snapshot ID: `ZtnHcAAAAACcyDLpE21Z8DpHE83ltKlP`

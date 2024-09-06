@@ -9735,6 +9735,28 @@
     },
     {
       "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4I8VD4l96QtADrkwpuYgX0"
+      },
+      "artists": [
+        {
+          "name": "Lucky Yu",
+          "url": "https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL"
+        },
+        {
+          "name": "Lumi Jin",
+          "url": "https://open.spotify.com/artist/2YpzKwWnFbUAJJzBvuA0R7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176865,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/7kOqzZoJ20ssyvx8LlKMbO"
+    },
+    {
+      "album": {
         "name": "Unfold",
         "url": "https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse"
       },
@@ -12566,7 +12588,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183923,
       "name": "Wild One - Jai Wolf Club Babu Remix",
       "url": "https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd"

@@ -5623,6 +5623,24 @@
     },
     {
       "album": {
+        "name": "Blitzlicht",
+        "url": "https://open.spotify.com/album/2udJZcqPmnJwgcVgCGrBII"
+      },
+      "artists": [
+        {
+          "name": "ENNIO",
+          "url": "https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166706,
+      "name": "Blitzlicht",
+      "url": "https://open.spotify.com/track/4Ro083Dj0kBhr6JslQjfLj"
+    },
+    {
+      "album": {
         "name": "Block In Der Brust",
         "url": "https://open.spotify.com/album/1xCqi0g3kNJFW3y6pyBzgs"
       },
@@ -6304,6 +6322,24 @@
       "duration_ms": 128813,
       "name": "BTS",
       "url": "https://open.spotify.com/track/0PeWtgdkQU1cRhbKuxL0sq"
+    },
+    {
+      "album": {
+        "name": "btw",
+        "url": "https://open.spotify.com/album/4zBl5NXyMGYUaNzijYWWfY"
+      },
+      "artists": [
+        {
+          "name": "Levin Liam",
+          "url": "https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162779,
+      "name": "btw",
+      "url": "https://open.spotify.com/track/3GsBqvekTAOytIzDdbUjj4"
     },
     {
       "album": {
@@ -21786,7 +21822,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 220673,
       "name": "Liebe teilen",
       "url": "https://open.spotify.com/track/7bjgHa1cCjMMU9FQw13iti"
@@ -25412,7 +25448,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 176817,
       "name": "My Mama Dropped LSD in the 90's",
       "url": "https://open.spotify.com/track/0MeGiBDDodJwa1iHnCgG3q"
@@ -27456,6 +27492,32 @@
       "duration_ms": 162000,
       "name": "Oh Babe!",
       "url": "https://open.spotify.com/track/5aNUDH2XjGidP1MTlDnzru"
+    },
+    {
+      "album": {
+        "name": "Oh Man",
+        "url": "https://open.spotify.com/album/3gRNqRNSkIghbTuwrpijif"
+      },
+      "artists": [
+        {
+          "name": "01099",
+          "url": "https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9"
+        },
+        {
+          "name": "Paul",
+          "url": "https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg"
+        },
+        {
+          "name": "Zachi",
+          "url": "https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143804,
+      "name": "Oh Man",
+      "url": "https://open.spotify.com/track/54idR8y69xUnLlRbsquSzk"
     },
     {
       "album": {
@@ -30562,7 +30624,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 164067,
       "name": "RITALIN",
       "url": "https://open.spotify.com/track/5kdAL3H0vfAeHBvTwXskGm"

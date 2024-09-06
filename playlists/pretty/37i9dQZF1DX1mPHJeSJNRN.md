@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 
 > Soundtrack spring time with uplifting and sunny Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,818 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,817 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1mPHJeSJNRN.md) - [plain]
 | 75 | [Last Night](https://open.spotify.com/track/2WNrH1N4HprO6pY8Yuydh8) | [Katherine Kostoff](https://open.spotify.com/artist/6iejr7uXjNOIaqvE5R9t8W), [Gil Goldstein](https://open.spotify.com/artist/59bgiWWmCiIfBkzZ8URC1Q) | [It Happens Like That](https://open.spotify.com/album/6GIr6kHBasx66WNSl4l8FD) | 3:31 |
 | 76 | [Almost Like Being in Love](https://open.spotify.com/track/0TmcK78lgDPxklkbUlV98O) | [Shaymus Hanlin Quartet](https://open.spotify.com/artist/3EZijApK2Jti32JDC1HXAO) | [Just Us, Just We](https://open.spotify.com/album/5lYCaNdWLMa6TF9VHyPYHP) | 3:22 |
 | 77 | [Comes Love](https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [The Danish Radio Big Band](https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE) | [We've Just Begun](https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE) | 6:41 |
-| 78 | [Who's Lily?](https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 4:08 |
-| 79 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 |
+| 78 | [Keep It in Your Dreams](https://open.spotify.com/track/568TTAaxWs5vG3IdmcI0RD) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Romain Collin](https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV) | [Because I Love You](https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5) | 3:12 |
+| 79 | [Who's Lily?](https://open.spotify.com/track/44ZlML36cTMW7U2MhW5AFU) | [Ben Wolfe](https://open.spotify.com/artist/7A1xxtVfUahU8u7Z4kKFRC) | [From Here I See](https://open.spotify.com/album/2zmbP9vz9Bwx1SCHgkPzTc) | 4:08 |
 | 80 | [Needle and Candle](https://open.spotify.com/track/7nnbMfLZgrz76xfYkDjJM7) | [Yoon Jong Ryul](https://open.spotify.com/artist/14gyB2ipghybniP9azTd42) | [Simple Life](https://open.spotify.com/album/6pX7bkr7XqrsEk6pJnEhLP) | 5:57 |
 | 81 | [Dont Rain on My Parade](https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 3:07 |
 | 82 | [Come Rain or Come Shine](https://open.spotify.com/track/060iqzIx8nHrhtQEOZaXv2) | [Susie Arioli](https://open.spotify.com/artist/1RP8z21bodEXHqdJOx2VZ9), [Jordan Officer](https://open.spotify.com/artist/3WaxIOxGHCCrhx840jEGuL) | [All the Way \(feat\. Jordan Officer\)](https://open.spotify.com/album/2yVOdOvS5TN8Hc3vMsugdb) | 2:36 |

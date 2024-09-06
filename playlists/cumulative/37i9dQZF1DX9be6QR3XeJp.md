@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: JD\. REID
+> Discover your new favourite artists from UK&IE\. Cover: Fat Dog
 
-277 songs - 14 hr 52 min
+278 songs - 14 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-03-08 |  |
 | [Cherry Bomb](https://open.spotify.com/track/3MyuOZO9kWyvluRgxBoMus) | [Finn Askew](https://open.spotify.com/artist/0ZYv8jRFp5YAC29bfjaP9X) | [Cherry Bomb](https://open.spotify.com/album/78a6SHXF3uUFDqZ1FBCS7h) | 3:17 | 2022-02-18 |  |
 | [Chicken Lemon Rice](https://open.spotify.com/track/4dXXwHB7WfozMLhkpBvLvw) | [Priya Ragu](https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F) | [Chicken Lemon Rice](https://open.spotify.com/album/6WW0z789UPK64cjkMgjhZy) | 2:33 | 2022-02-18 |  |
+| [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 | 2024-09-05 |  |
 | [COCONUT PERFUME](https://open.spotify.com/track/7lMrIFrNAwSSdOrsk4glWa) | [Ray Laurél](https://open.spotify.com/artist/7gW3GsnBSoT6q9YQUstlzA) | [COCONUT PERFUME](https://open.spotify.com/album/3hgkYhTNryeg7ZLEgPOKeh) | 2:45 | 2022-06-30 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/0mFflI3yK2y3SJybiAMgLr) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4hGpmPcRrysSUbbBnM4F0T) | 4:09 | 2022-02-18 |  |
 | [Convalesce \(feat\. REGALJASON\)](https://open.spotify.com/track/4Unohs1Js8HlyFeKBrNeL5) | [ABSOLUTE.](https://open.spotify.com/artist/7LAUsmZK0QfpJAmapct66h), [A Shadow of My Former Self](https://open.spotify.com/artist/2zBz80goR5JIdfV6TDkjCl), [REGALJASON](https://open.spotify.com/artist/7xXVzcfLvLi79nRtcwTNP0) | [Wonderland](https://open.spotify.com/album/4FfY3r1VbpH6E0sAyq4Hc9) | 4:09 | 2023-10-26 | 2024-04-19 |

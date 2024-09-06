@@ -1,8 +1,38 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The future hits of today. \nCover: Hyce, Boy Pee & Brown Joel ",
+  "description": "The future hits of today. \nCover: Alpha P",
   "name": "Bubblin'",
   "tracks": [
+    {
+      "album": {
+        "name": "4x4 (feat.Tyler ICU)",
+        "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Magicsticks",
+          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "4x4 (feat.Tyler ICU)",
+      "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
+    },
     {
       "album": {
         "name": "A Million Things",
@@ -16,7 +46,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187159,
       "name": "A Million Things",
       "url": "https://open.spotify.com/track/1jG5GaaSjcX5F6qy6RuvbN"
@@ -90,6 +120,32 @@
       "duration_ms": 174358,
       "name": "Alright",
       "url": "https://open.spotify.com/track/7CxmcGj4sXX9ZhjGUgOb3f"
+    },
+    {
+      "album": {
+        "name": "Amazing Grace",
+        "url": "https://open.spotify.com/album/1kXYVUHCOO5rYsW5kWGXBu"
+      },
+      "artists": [
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Yinka Bernie",
+          "url": "https://open.spotify.com/artist/5TuVpSIsvh6lKoKLBsAxFL"
+        },
+        {
+          "name": "Bosco Soundtrack",
+          "url": "https://open.spotify.com/artist/4vkkMvu0BYvfIsioM7U7w6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191164,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/43RN0F4crBoN8Uv4YrRKUG"
     },
     {
       "album": {
@@ -218,7 +274,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171666,
       "name": "Ba$tard, Don't Be Silly",
       "url": "https://open.spotify.com/track/0u9khlv9uOvSEUOTFZtMNs"
@@ -374,7 +430,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 140357,
       "name": "California",
       "url": "https://open.spotify.com/track/2NJaVPITRe1XCSwTpbIZk3"
@@ -647,6 +703,28 @@
     },
     {
       "album": {
+        "name": "Greatness III",
+        "url": "https://open.spotify.com/album/2sZqidw4Cdi9gKZ4BarPg1"
+      },
+      "artists": [
+        {
+          "name": "DJ Neptune",
+          "url": "https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR"
+        },
+        {
+          "name": "Olivetheboy",
+          "url": "https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135652,
+      "name": "Emmanuella",
+      "url": "https://open.spotify.com/track/3sgFQajQAvJTYny1e8pJS4"
+    },
+    {
+      "album": {
         "name": "EWE",
         "url": "https://open.spotify.com/album/4qxyLpRxIfW15AKnbgmksE"
       },
@@ -746,7 +824,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 184800,
       "name": "Favourite Girl (with Rema)",
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
@@ -772,7 +850,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183716,
       "name": "Feels",
       "url": "https://open.spotify.com/track/1akSDgOrWqGhHy4ZWIM4nd"
@@ -790,7 +868,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 142373,
       "name": "Finally",
       "url": "https://open.spotify.com/track/7K421TaU7VnlOYYNfftd8A"
@@ -1137,6 +1215,24 @@
     },
     {
       "album": {
+        "name": "Hardest Babe",
+        "url": "https://open.spotify.com/album/4ads4crCwlT9BU7Jvgfdoo"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126993,
+      "name": "Hardest Babe",
+      "url": "https://open.spotify.com/track/645fiSovmhWhotSv00WcHT"
+    },
+    {
+      "album": {
         "name": "Head Start",
         "url": "https://open.spotify.com/album/02OOD9WmhXOFZEUsZ7CYQb"
       },
@@ -1184,7 +1280,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150000,
       "name": "Hiii!",
       "url": "https://open.spotify.com/track/5MZyGKfdd4KzswVxfZptJb"
@@ -1286,10 +1382,54 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160078,
       "name": "Jogo",
       "url": "https://open.spotify.com/track/1FvYnYoGgA4VSCCQYoyYLB"
+    },
+    {
+      "album": {
+        "name": "JUJU (feat. Shallipopi)",
+        "url": "https://open.spotify.com/album/6xtWvj11zaodhnfa7izxCL"
+      },
+      "artists": [
+        {
+          "name": "Smur Lee",
+          "url": "https://open.spotify.com/artist/5jF4VfE2TZtAXWYQLe3F8A"
+        },
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157756,
+      "name": "JUJU (feat. Shallipopi)",
+      "url": "https://open.spotify.com/track/6XBIOtdSL47qn201KKNCA0"
+    },
+    {
+      "album": {
+        "name": "Jumpin Bumpin",
+        "url": "https://open.spotify.com/album/1xP7JjWo5kl8Nta5MYc8Rw"
+      },
+      "artists": [
+        {
+          "name": "Kida Kudz",
+          "url": "https://open.spotify.com/artist/4wrFUdBKN4RBMtC3ZoLVdw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169130,
+      "name": "Jumpin Bumpin",
+      "url": "https://open.spotify.com/track/1R87FQkMGRnIiCeo9l3lCW"
     },
     {
       "album": {
@@ -1797,6 +1937,46 @@
     },
     {
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/7uW3vWcXXhIqLSjHuH677g"
+      },
+      "artists": [
+        {
+          "name": "Tia",
+          "url": "https://open.spotify.com/artist/3JAdD9AfJI9QymrEo49Qhp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150018,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2Woou7ZB8SrnnpMey9ulxc"
+    },
+    {
+      "album": {
+        "name": "Nyash Na Nyash (Remix) [feat. Young Jonn]",
+        "url": "https://open.spotify.com/album/1Rj31LivlulhX1VXlMwMWE"
+      },
+      "artists": [
+        {
+          "name": "Chella",
+          "url": "https://open.spotify.com/artist/3Idn4rRQLKL7cDHbaWx3GI"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173061,
+      "name": "Nyash Na Nyash (feat. Young Jonn) - Remix",
+      "url": "https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R"
+    },
+    {
+      "album": {
         "name": "O.U.A.T",
         "url": "https://open.spotify.com/album/1qrmA17zsvEfAbB5Ba5l0b"
       },
@@ -1901,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
+    },
+    {
+      "album": {
         "name": "ONOME",
         "url": "https://open.spotify.com/album/12Fq69ugTCwPCPzRLEK7yg"
       },
@@ -1930,7 +2132,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 175405,
       "name": "oSHA-PIANO",
       "url": "https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk"

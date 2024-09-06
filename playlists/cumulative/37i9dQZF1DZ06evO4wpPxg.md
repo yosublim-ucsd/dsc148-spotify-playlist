@@ -2,7 +2,7 @@
 
 ### [This Is Rev\. Gary Davis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wpPxg)
 
-> This is Rev\. Gary Davis\. The essential tracks, all in one playlist.
+> This Is Rev\. Gary Davis\. Los temas esenciales, todos en una lista.
 
 312 songs - 19 hr 37 min
 
@@ -30,7 +30,7 @@
 | [Blues in E](https://open.spotify.com/track/76fnhZiCoZRs62Udv85QSI) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:12 | 2022-07-27 | 2022-09-26 |
 | [Buck Dance](https://open.spotify.com/track/3mehPZ1GnF8SUC4rc9BLol) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Newport](https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc) | 1:27 | 2024-06-21 | 2024-08-09 |
 | [Buck Dance](https://open.spotify.com/track/2IhDsv4glVvkFLvVuxh1EB) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Pure Religion and Bad Company](https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg) | 2:52 | 2022-11-15 |  |
-| [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 | 2024-08-23 |
+| [Buck Rag](https://open.spotify.com/track/4RkxqGLAliVW8mFzLyHt9Q) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:40 | 2022-11-22 |  |
 | [C\-Rag](https://open.spotify.com/track/1GiJmTHq7vLj1ikbdY961s) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Blues & Ragtime \(Live\)](https://open.spotify.com/album/2fs1vPEk2YnmXptiETV1TJ) | 2:57 | 2022-11-23 | 2023-03-25 |
 | [Can't Be Satisfied \- Instrumental](https://open.spotify.com/track/65TO75TTJpRkVzvplOyCnl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:55 | 2022-07-25 | 2022-10-07 |
 | [Can't Make This Journey By Myself](https://open.spotify.com/track/2lLXz5yaEaLrbN4swx3wYp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 2:51 | 2023-06-04 | 2024-04-19 |
@@ -238,7 +238,7 @@
 | [Shine On Me](https://open.spotify.com/track/6lXyg4DRa5VdxRWitfnYZM) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [If I Had My Way: Early Home Recordings](https://open.spotify.com/album/59aeoDXr1SZjDRJNqOl3J7) | 3:01 | 2022-05-25 | 2024-08-30 |
 | [Slippin' 'Til My Gal Comes In Partner](https://open.spotify.com/track/3dtEEMSI8GO75NMWN8NwMp) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels: The Ultimate Collection, Pt\. 1](https://open.spotify.com/album/6QJfikVh7nRPbmH8n3p7oJ) | 3:40 | 2024-04-21 | 2024-08-16 |
 | [Slippin' Till My Gal Comes in Partner](https://open.spotify.com/track/5z2zAtdqXz1IV5MnE8ML0v) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Demons & Angels \- the Music of Rev\. Gary Davis](https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox) | 3:41 | 2022-09-18 | 2022-11-24 |
-| [Slippin' to My Gal Comes in Partner](https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:00 | 2023-04-25 |  |
+| [Slippin' to My Gal Comes in Partner](https://open.spotify.com/track/1cxin9oX9nHIpYeTp6pKhj) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [At Home and Church, 1962 \- 1967](https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU) | 3:00 | 2023-04-25 | 2024-09-06 |
 | [Slow Blues in E](https://open.spotify.com/track/7lEynQW8MpI0zN2qnfHBhl) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Sun of Our Life](https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR) | 2:41 | 2024-06-16 | 2024-06-18 |
 | [Slow Drag \(Cincinnati Flow Rag\) \- Instrumental](https://open.spotify.com/track/3TbRCDUuUTxQW4y2KUz1MJ) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [The Guitar And Banjo Of Reverend Gary Davis](https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ) | 2:24 | 2022-05-25 |  |
 | [Soldier's Drill \- Live](https://open.spotify.com/track/3JsiiI1nDBJeawJJ2DhHa3) | [Rev\. Gary Davis](https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv) | [Rev\. Gary Davis \- The Best of \(Live\)](https://open.spotify.com/album/5ZPJN0s0Fp8KR0ZQsaVqNT) | 7:54 | 2022-10-29 | 2022-10-31 |

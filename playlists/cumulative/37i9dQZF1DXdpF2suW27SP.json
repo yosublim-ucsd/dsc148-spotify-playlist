@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "For\u00e7a Suprema entram na zona. ",
+  "description": "Waze e Chefin entram na zona. ",
   "name": "Na Zona",
   "tracks": [
     {
@@ -2221,6 +2221,28 @@
     },
     {
       "album": {
+        "name": "Cartaz",
+        "url": "https://open.spotify.com/album/63v15QVFTb7QBLwzR2QkKz"
+      },
+      "artists": [
+        {
+          "name": "Waze",
+          "url": "https://open.spotify.com/artist/0CHentDviLeOrlfyu96uVm"
+        },
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131506,
+      "name": "Cartaz",
+      "url": "https://open.spotify.com/track/0st4BsVfJJPUJOfHPJ6WX8"
+    },
+    {
+      "album": {
         "name": "Casa Blanca",
         "url": "https://open.spotify.com/album/5P08g3YGMUjb61747WPztl"
       },
@@ -3244,7 +3266,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173707,
       "name": "Deixa Viver",
       "url": "https://open.spotify.com/track/0mwoprOrCPlayw9t4YeFPN"
@@ -4966,7 +4988,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 237428,
       "name": "Gipsy Side",
       "url": "https://open.spotify.com/track/4jAoJGGgeFECTv5Yo1xqo5"
@@ -6981,6 +7003,36 @@
     },
     {
       "album": {
+        "name": "Medos",
+        "url": "https://open.spotify.com/album/7ALJO5m84Kpbl2NxeOl9fk"
+      },
+      "artists": [
+        {
+          "name": "Caixa Cart\u00e3o Collective",
+          "url": "https://open.spotify.com/artist/58OjDxOOGxAHL8s2mxbLgk"
+        },
+        {
+          "name": "Beiro",
+          "url": "https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn"
+        },
+        {
+          "name": "Pedra",
+          "url": "https://open.spotify.com/artist/0pqtHEnbvxrph9Rg21qqBa"
+        },
+        {
+          "name": "T\u00e1cio",
+          "url": "https://open.spotify.com/artist/7xsXB7bAJkcsdPmak1bafd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139034,
+      "name": "Medos",
+      "url": "https://open.spotify.com/track/6hLClV48R7Mujp0HxuKbEG"
+    },
+    {
+      "album": {
         "name": "Melanina",
         "url": "https://open.spotify.com/album/1Fu5gGz80ynZmZWgty92Ch"
       },
@@ -7836,7 +7888,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208124,
       "name": "No Credit",
       "url": "https://open.spotify.com/track/5WBnYHhVUTPnQcf15Tyjyz"
@@ -10721,6 +10773,24 @@
     },
     {
       "album": {
+        "name": "Sinergia",
+        "url": "https://open.spotify.com/album/4B1ZrV03N39UPnTbEUv1Uf"
+      },
+      "artists": [
+        {
+          "name": "Bala G",
+          "url": "https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198123,
+      "name": "Sinergia",
+      "url": "https://open.spotify.com/track/1NRIFwE6wteP9eRwVU8Cgy"
+    },
+    {
+      "album": {
         "name": "SLOW DOWN",
         "url": "https://open.spotify.com/album/5MZcvVDhqJQkjIIq3toEje"
       },
@@ -11014,6 +11084,24 @@
       "duration_ms": 192911,
       "name": "Subway Surf",
       "url": "https://open.spotify.com/track/7mQ734YFLEqgbI7MfssWnB"
+    },
+    {
+      "album": {
+        "name": "Super Alien",
+        "url": "https://open.spotify.com/album/6Doib7YeIo4dU1PIIZ4TIE"
+      },
+      "artists": [
+        {
+          "name": "Slim Boy",
+          "url": "https://open.spotify.com/artist/3taajR4dFA7XMW1OU9P7DU"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174774,
+      "name": "Super Alien",
+      "url": "https://open.spotify.com/track/4QkfvRXRsnTDrNt601Jowa"
     },
     {
       "album": {
@@ -11922,7 +12010,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188663,
       "name": "Vagalume",
       "url": "https://open.spotify.com/track/7m0bUtNOfrtrIcNDDcrPjS"

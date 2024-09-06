@@ -1,6 +1,6 @@
 {
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
-  "num_followers": 286551,
+  "num_followers": 286823,
   "original_name": "M\u00fasica para Leer",
   "owner": {
     "name": "Spotify",
@@ -3591,6 +3591,22 @@
     {
       "added_at": "2024-09-03 09:47:15",
       "album": {
+        "name": "Unique New York",
+        "url": "https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m"
+      },
+      "artists": [
+        {
+          "name": "Peiskos",
+          "url": "https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd"
+        }
+      ],
+      "duration_ms": 183800,
+      "name": "Unique New York",
+      "url": "https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT"
+    },
+    {
+      "added_at": "2024-09-03 09:47:15",
+      "album": {
         "name": "Serenade",
         "url": "https://open.spotify.com/album/5deoUv9fEIqoxOy1sM3z9M"
       },
@@ -3623,22 +3639,6 @@
       "duration_ms": 144420,
       "name": "Waltz 21",
       "url": "https://open.spotify.com/track/4DaPrcpcDrbtXKmdFhqG5R"
-    },
-    {
-      "added_at": "2024-09-03 09:47:15",
-      "album": {
-        "name": "Unique New York",
-        "url": "https://open.spotify.com/album/5MqiGDigVWRoGi6wJtdn5m"
-      },
-      "artists": [
-        {
-          "name": "Peiskos",
-          "url": "https://open.spotify.com/artist/6HJogn62jMko4Zgq055Swd"
-        }
-      ],
-      "duration_ms": 183800,
-      "name": "Unique New York",
-      "url": "https://open.spotify.com/track/0Hp8w1B8wM3hxYlKZP1TpT"
     },
     {
       "added_at": "2024-09-03 09:47:15",

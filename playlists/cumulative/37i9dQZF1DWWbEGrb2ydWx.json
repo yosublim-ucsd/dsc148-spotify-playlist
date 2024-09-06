@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Au Seve",
+        "url": "https://open.spotify.com/album/2khQnnhKRdljReqsaYuk3N"
+      },
+      "artists": [
+        {
+          "name": "Julio Bashmore",
+          "url": "https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393387,
+      "name": "Au Seve",
+      "url": "https://open.spotify.com/track/7w0W6W9dz5lVH3M3IWgwIT"
+    },
+    {
+      "album": {
         "name": "Bacardi Papi",
         "url": "https://open.spotify.com/album/4Ss42IUh5AjXZguuOQQMbK"
       },
@@ -359,6 +377,24 @@
     },
     {
       "album": {
+        "name": "Boriqua Posse (Mixes)",
+        "url": "https://open.spotify.com/album/3ZLnUL8i3TDfb42WftG4pP"
+      },
+      "artists": [
+        {
+          "name": "Rare Arts",
+          "url": "https://open.spotify.com/artist/3U1actp6fBCEOKbUrtI4Mv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303911,
+      "name": "Boriqua Posse (The Kiss Connection Mix)",
+      "url": "https://open.spotify.com/track/4X1U5z2I3ZMCN3fl0fKWei"
+    },
+    {
+      "album": {
         "name": "Bout It",
         "url": "https://open.spotify.com/album/5VGDL0LsNukMUzmmXmLJSI"
       },
@@ -450,6 +486,50 @@
       "duration_ms": 415097,
       "name": "Bring U Up (Deetron Edit)",
       "url": "https://open.spotify.com/track/1XGGeTyTVgOzdFyN7KRXVM"
+    },
+    {
+      "album": {
+        "name": "TNGHT",
+        "url": "https://open.spotify.com/album/3YryuS3uTm7wogdtqaAb6A"
+      },
+      "artists": [
+        {
+          "name": "TNGHT",
+          "url": "https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        },
+        {
+          "name": "Lunice",
+          "url": "https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205798,
+      "name": "Bugg'n",
+      "url": "https://open.spotify.com/track/57eOI4ftuKaQ9SbCKLG8df"
+    },
+    {
+      "album": {
+        "name": "Mala in Cuba",
+        "url": "https://open.spotify.com/album/1OePHA63tFKw79IQrrwOgm"
+      },
+      "artists": [
+        {
+          "name": "Mala",
+          "url": "https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251820,
+      "name": "Calle F",
+      "url": "https://open.spotify.com/track/4TAZrDGbhVvxKNYjd9KA8G"
     },
     {
       "album": {
@@ -1099,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "fabric 10: Doc Martin (DJ Mix)",
+        "url": "https://open.spotify.com/album/1bDtqoU9BBF9YkGuOE5ZD0"
+      },
+      "artists": [
+        {
+          "name": "DJ Buck",
+          "url": "https://open.spotify.com/artist/55SVN0FQCBPhNMPuKPUyRd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245106,
+      "name": "Highlights - Mixed",
+      "url": "https://open.spotify.com/track/5g8y3No4zR8JckYVDyEA2S"
+    },
+    {
+      "album": {
         "name": "Sector Y",
         "url": "https://open.spotify.com/album/4HZVJ5paRux7rF3LxRKnDA"
       },
@@ -1273,6 +1371,24 @@
     },
     {
       "album": {
+        "name": "IDFKA",
+        "url": "https://open.spotify.com/album/5cm1XhAt6PK1M8kqbfxHaQ"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "IDFKA",
+      "url": "https://open.spotify.com/track/3BfXyeEsyf6dJEf5ZvaCKV"
+    },
+    {
+      "album": {
         "name": "Sign O' The Times",
         "url": "https://open.spotify.com/album/2QuHyvguNhl5kfdoE17RRe"
       },
@@ -1288,6 +1404,28 @@
       "duration_ms": 303504,
       "name": "If I Was Your Girlfriend - 2020 Remaster",
       "url": "https://open.spotify.com/track/2laui4O0tY1GDZcsB7iJtK"
+    },
+    {
+      "album": {
+        "name": "Illusion (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/1uWLzkJnbcLwKrfaoAa11p"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199348,
+      "name": "Illusion - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/77kkDugNfkAar6gx2UkuHi"
     },
     {
       "album": {
@@ -1918,6 +2056,50 @@
       "duration_ms": 264253,
       "name": "Natural Wonder Beauty Concept",
       "url": "https://open.spotify.com/track/6ABsQgxBbFvgSPSvxv4PgM"
+    },
+    {
+      "album": {
+        "name": "Dreams Of Santa Ana",
+        "url": "https://open.spotify.com/album/5JnxNkwKn8vEHtBL2KgvA8"
+      },
+      "artists": [
+        {
+          "name": "Robin Porter",
+          "url": "https://open.spotify.com/artist/0aW2YtrhnhsBlC2EbbzyMe"
+        },
+        {
+          "name": "Lucas Rodenbush",
+          "url": "https://open.spotify.com/artist/7k4XiW0Rkl2gT1RKJsFzoB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313577,
+      "name": "Neighborhood Drama - Original Mix",
+      "url": "https://open.spotify.com/track/0AfjqnkVz9dZbXLWmptG6L"
+    },
+    {
+      "album": {
+        "name": "1993-99 Main Street Records",
+        "url": "https://open.spotify.com/album/5xRtyFjbbzTVAMiIWxUH8A"
+      },
+      "artists": [
+        {
+          "name": "Round Two",
+          "url": "https://open.spotify.com/artist/4he15ixNlw68u4LmeKTKEY"
+        },
+        {
+          "name": "Andy Caine",
+          "url": "https://open.spotify.com/artist/0ch3WsezSB3uS12VZDQvJu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 412893,
+      "name": "New Day - Club Vocal Mix",
+      "url": "https://open.spotify.com/track/4sTilZKdZ50w5aSNpQoh54"
     },
     {
       "album": {
@@ -3163,6 +3345,24 @@
     },
     {
       "album": {
+        "name": "Wanna Play House?",
+        "url": "https://open.spotify.com/album/3prtz2DOF45x0INlLIHx1d"
+      },
+      "artists": [
+        {
+          "name": "AceMo",
+          "url": "https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351496,
+      "name": "Wanna Play House? - Dub Version",
+      "url": "https://open.spotify.com/track/48bEUZhhmxzXOGeuccfGc9"
+    },
+    {
+      "album": {
         "name": "Information (Redacted)",
         "url": "https://open.spotify.com/album/12gAB26MYzHb34WYOxjM3W"
       },
@@ -3404,6 +3604,32 @@
       "duration_ms": 181801,
       "name": "Work (feat. Dave Giles II, Cor.Ece & Mike Dunn)",
       "url": "https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc"
+    },
+    {
+      "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/4NORX6Usjv9807i13cGZQG"
+      },
+      "artists": [
+        {
+          "name": "Pupa Nas T",
+          "url": "https://open.spotify.com/artist/4vm90zckXYAA2AZGFStkmy"
+        },
+        {
+          "name": "Denise \"Saucey Wow\" Belfon",
+          "url": "https://open.spotify.com/artist/6UkwDW2VnXaCGIBRAQ5UXp"
+        },
+        {
+          "name": "Masters At Work",
+          "url": "https://open.spotify.com/artist/5Fkj0k7EPUhIsESSIEA9f1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 323600,
+      "name": "Work - Masters At Work Mix",
+      "url": "https://open.spotify.com/track/74qAG1qz9p68xH9QLLdMLm"
     },
     {
       "album": {

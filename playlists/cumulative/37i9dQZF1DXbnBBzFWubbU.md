@@ -4,13 +4,14 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-141 songs - 9 hr 20 min
+142 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/5CPzdtBN36g76OBOvpP9f9) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Piano Bazaar](https://open.spotify.com/album/0lx2QNZKKM2eE7YRqnnvBK) | 0:00 | 2023-08-18 | 2023-12-22 |
 | [Aaja](https://open.spotify.com/track/4K4nj54UdKtLMVkZxzngQK) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Anvaya](https://open.spotify.com/artist/5Xmtvg99J5F7maYz0LpzKA) | [Aaja](https://open.spotify.com/album/37iXz5nyJJViHWbP3YFT4K) | 5:09 | 2024-06-07 |  |
 | [Aayati](https://open.spotify.com/track/3GfaTPUn1gzC1rJhzYQ7Um) | [Firaaq](https://open.spotify.com/artist/3souTM6F1BIoqEaLRDfaGc) | [Aayati](https://open.spotify.com/album/24JdrtJs3tRUuHbQb71CWU) | 5:54 | 2023-08-18 | 2024-03-23 |
+| [Addicted \(ਆਦੀ\)](https://open.spotify.com/track/7CsARx4aBRnx7r76rPMuuL) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted \(ਆਦੀ\)](https://open.spotify.com/album/2mb6o5BhEvbO4ma4hf6hcy) | 2:58 | 2024-09-05 |  |
 | [Aja Sawariya](https://open.spotify.com/track/1YiwARhwbWkDELenG8Toi6) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Aja Sawariya](https://open.spotify.com/album/3DW4dwDoi4pGl5f55YqsKK) | 2:52 | 2023-08-18 |  |
 | [Aja Sawariya \- Remix](https://open.spotify.com/track/2c8olBjlarZbL6nUKn0vGM) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Gurbax](https://open.spotify.com/artist/52nO5w2jFAlYYsq6h9YjQG), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [The Spindoctor](https://open.spotify.com/artist/2bUONMhpskrzUmRkpZUVu3) | [Aja Sawariya \(Remix\)](https://open.spotify.com/album/0EfCp9ysBs6OCmckczM2lf) | 2:56 | 2023-09-08 |  |
 | [Akhiyan](https://open.spotify.com/track/3wyfqsbIar6tON17FWVOMC) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb), [Shrii](https://open.spotify.com/artist/0kJnDYDVqQebEko4J5Gboo) | [Akhiyan](https://open.spotify.com/album/5Jg99GPnRLymnmYmkfVFwT) | 5:25 | 2024-01-19 |  |

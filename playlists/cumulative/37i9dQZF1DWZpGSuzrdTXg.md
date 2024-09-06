@@ -4,7 +4,7 @@
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-193 songs - 11 hr 3 min
+194 songs - 11 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Papercuts](https://open.spotify.com/track/4BoCONPNSPR7KRsxYuZM4B) | [Joel Adams](https://open.spotify.com/artist/36jaGQtMj5UWD0eO1fCVdD) | [Papercuts](https://open.spotify.com/album/54w4JiMeaz7aIweo7zHO6H) | 5:23 | 2022-12-22 |  |
 | [Passport Home](https://open.spotify.com/track/4DzgGTs7eaS6DHHOp1xcyj) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:00 | 2022-12-22 | 2023-11-10 |
 | [Pillow Scream](https://open.spotify.com/track/5dt3DHWX8EnVR4QJZ0fhxI) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Pillow Scream](https://open.spotify.com/album/5tDWszKpaH5baAcFGpj6xF) | 3:10 | 2024-05-09 |  |
+| [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 | 2024-09-05 |  |
 | [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 | 2024-07-15 |  |
 | [Questionnaire](https://open.spotify.com/track/4BxYjk8XeIv5FNgwbLi824) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2 \(so far...\)](https://open.spotify.com/album/7KaaocrZv6Tpe5KzkyW5qN) | 2:45 | 2023-04-13 | 2023-05-30 |
 | [Questionnaire](https://open.spotify.com/track/4iHzg001tiA65MGZ4dq0Je) | [a balladeer](https://open.spotify.com/artist/5MUNbMtqB3EOKxwSJBVJ1U) | [Clutter, Vol\. 2](https://open.spotify.com/album/0ys8RG7cVPqEJoiMhaimV9) | 2:45 | 2023-05-25 | 2024-04-19 |
@@ -191,7 +192,7 @@
 | [what it is to love](https://open.spotify.com/track/1D8EkYBlvHNhdZ5bEYxO12) | [Ruxley](https://open.spotify.com/artist/1STiTeuda0CtQf1DDh7F8P) | [what it is to love](https://open.spotify.com/album/76qrFblYh2LPN1k5whi6Lp) | 3:07 | 2024-02-08 |  |
 | [When I Feel This Way](https://open.spotify.com/track/4lpOGqNlKHARTJa4fYcDis) | [Milo Meskens](https://open.spotify.com/artist/2os0uvECng2MYlxDj5iEbc) | [When I Feel This Way](https://open.spotify.com/album/0tIUxcgbx06IQKAk8x7lM6) | 3:19 | 2022-12-22 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-12-22 | 2024-04-19 |
-| [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2024-04-18 |  |
+| [Where's My Love](https://open.spotify.com/track/3XRDrBtoCJAMDQJgSzJ9WT) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/79eTuxHrv8BNv6yPosXC9J) | 3:22 | 2024-04-18 | 2024-09-06 |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/0E8afAKop5kTWKQ6BL9fub) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/6uMJVg0n7lQAT0X8XBLMEV) | 3:15 | 2022-12-22 | 2024-04-19 |
 | [Wide Awake & Dreaming \- Stripped Duet](https://open.spotify.com/track/3ndUqqoVEMQHOlh4sRiXyN) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq), [Stu Larsen](https://open.spotify.com/artist/44M8i4BCwuBbmcQWwMaOfH) | [Honeymoon Phase / Wide Awake & Dreaming](https://open.spotify.com/album/38k7lGHmy8LyVpkXLVnZSj) | 3:15 | 2024-04-18 |  |
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-05-04 |  |

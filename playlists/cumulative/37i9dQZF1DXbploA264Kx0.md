@@ -2,9 +2,9 @@
 
 ### [The Sound of Formosa](https://open.spotify.com/playlist/37i9dQZF1DXbploA264Kx0)
 
-> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: LÜCY
+> Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Fi\-Né x CHANKA \(粉內 x 陳嘉\)
 
-246 songs - 14 hr 59 min
+249 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,9 +40,11 @@
 | [Call Ken](https://open.spotify.com/track/0vnCEZnPVUyXZHt8gaDqct) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [Call Ken](https://open.spotify.com/album/6fU5eY87ieKS6lmDyWmyzR) | 2:57 | 2024-08-29 |  |
 | [Can You Fix It](https://open.spotify.com/track/6C7tnzMVfOPgxPhjigd3kf) | [Yokkorio](https://open.spotify.com/artist/5yGZhAsU9EHqFszyq19jXg) | [Can You Fix It](https://open.spotify.com/album/6tbjnicCHxbuAtSQuq3xS7) | 2:54 | 2024-03-28 | 2024-04-26 |
 | [Carousel](https://open.spotify.com/track/6a1KogheIeQ34Y1ZwN2q34) | [RayRay](https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM), [Red Hood Squad](https://open.spotify.com/artist/06MFEUOcADxVpRKLC9EZXn) | [Carousel](https://open.spotify.com/album/1nbOlxFDqQJYI1FcXJn4JX) | 3:15 | 2024-03-28 | 2024-05-24 |
+| [Cast a Spell](https://open.spotify.com/track/6yzbKS2v7yhcOxYToR79QN) | [Fi\-Né 粉內](https://open.spotify.com/artist/6WcKBIz81gaWyTuoGtnTlQ), [CHANKA](https://open.spotify.com/artist/4utRb36IMsCRI6nycGb4JR) | [Cast a Spell](https://open.spotify.com/album/0jMlL4rQInNkEL7lw5HeTs) | 3:36 | 2024-09-05 |  |
 | [Chubby](https://open.spotify.com/track/13nw3eoalLPH4497o4H76U) | [尋人啟事The Wanted](https://open.spotify.com/artist/7FNSvrE4X5hb2C6pYN0skP) | [減肥計劃](https://open.spotify.com/album/5X8BhE0aDFoqWuesFfihM6) | 2:55 | 2024-06-13 | 2024-07-01 |
 | [CLOUD 9](https://open.spotify.com/track/53QI2tEUs5dh0oVWUIHTeF) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [CLOUD 9](https://open.spotify.com/album/7iDLISX1nf2helOPlrwouj) | 3:05 | 2024-02-29 | 2024-03-15 |
 | [CLV](https://open.spotify.com/track/7gh3QqAkJeGSbWTKDopwAd) | [Majin](https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl) | [CLV](https://open.spotify.com/album/5HPjcuwsmRIbpPTwa7z1rV) | 2:44 | 2024-02-29 | 2024-03-15 |
+| [COCOCO](https://open.spotify.com/track/2WlGO3iwa43XA7K7ZCbibC) | [GENBLUE 幻藍小熊](https://open.spotify.com/artist/73QQqobizk6EGabqlA5GKz) | [1st Single Album COCOCO](https://open.spotify.com/album/4mX1yBYGkgFh15keJF9VLz) | 2:38 | 2024-09-05 |  |
 | [Come back to me](https://open.spotify.com/track/2RNut2tMgGnggdKCxzLLNM) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Come back to me](https://open.spotify.com/album/01TpqEJQDjap26yL6FhByW) | 6:28 | 2024-05-10 | 2024-06-01 |
 | [Confessions Of A Baddie](https://open.spotify.com/track/7FqczlIA6btUkcAjBisZ4Q) | [BAER](https://open.spotify.com/artist/2zYNTwc8lCUzPueFdmh8ta) | [Confessions Of A Baddie](https://open.spotify.com/album/1Wto1tcfzt387E1Lk8srgZ) | 2:25 | 2024-02-15 | 2024-04-26 |
 | [Countdown](https://open.spotify.com/track/4WBPb6gPaa2xad6B4010sX) | [Maderlin Weng](https://open.spotify.com/artist/4fpCZI760JLt135sUs4y5A) | [Countdown](https://open.spotify.com/album/5CGoQh0GDK2ycccVyiFIQM) | 3:57 | 2024-03-14 |  |
@@ -83,6 +85,7 @@
 | [I'm Lost](https://open.spotify.com/track/09aC6XZ5JMPpTnrRovseFJ) | [潘婕](https://open.spotify.com/artist/3qX27u4mAqflYeIhY8dOar) | [I'm Lost](https://open.spotify.com/album/07kG46tge4IaR2NMOhtEwv) | 3:25 | 2024-01-25 |  |
 | [ICE AND FIRE \- 「冰箱打开时」音乐特别企划](https://open.spotify.com/track/1P5Ty8Lugfcfj7WwITjWvg) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [ICE AND FIRE \(「冰箱打开时」音乐特别企划\)](https://open.spotify.com/album/5JFVly1VtCSgvgeceRLjd0) | 2:23 | 2024-04-25 |  |
 | [If I Say I Love You](https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J), [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6) | [If I Say I Love You](https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP) | 3:50 | 2024-02-29 | 2024-03-15 |
+| [If I Tell Lies](https://open.spotify.com/track/6JUheBvRFEtkq2ENhCaaZB) | [張牧喬](https://open.spotify.com/artist/3PwhR9DEOjrmcRTaPvY2LZ) | [If I Tell Lies](https://open.spotify.com/album/3MmjUVfe6eqYfncDIFC0vW) | 3:37 | 2024-09-05 |  |
 | [Imma Get A New One](https://open.spotify.com/track/0WSTcd9inhbtHhV9vi1jDQ) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [房間裡的大象](https://open.spotify.com/album/1hLOyMZ8n5dmBckqXkToIG) | 4:33 | 2024-03-15 |  |
 | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/track/16xxMRn4v1fKbPvA9wVm1H) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [In My Dreams \(You're Not Extinct\)](https://open.spotify.com/album/4N3jtleWnWAv6O9i259aTi) | 3:25 | 2024-01-25 |  |
 | [Innocent](https://open.spotify.com/track/7bAW1H5zXBXOobKCn9IbKd) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Jocelyn 9.4.0](https://open.spotify.com/album/7JAZUMYKeUKapZzWIeb7aI) | 3:28 | 2024-06-13 | 2024-07-01 |
@@ -175,7 +178,7 @@
 | [UMAMI](https://open.spotify.com/track/2O69clP6C6Jipc9jSOYWx8) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL), [whoosh](https://open.spotify.com/artist/75SZZT7Gh4mjvmAbuKdzLA) | [UMAMI](https://open.spotify.com/album/1Ja6sE2nTmSFRUWJKuo48g) | 3:22 | 2024-01-25 | 2024-03-29 |
 | [Unwind](https://open.spotify.com/track/4cAVjrQKhvYrirCdD3u4Iu) | [Shi Shi](https://open.spotify.com/artist/4XKp9GFAQfsh2NflSRnHQi) | [Boomerang](https://open.spotify.com/album/2V2VAi4Rb2aDUWBtSvICMR) | 3:17 | 2024-01-25 | 2024-08-09 |
 | [Up In The Clouds](https://open.spotify.com/track/5g527cG5qz62qSrRrmZMfD) | [The Crane](https://open.spotify.com/artist/7naloiyHdmw1HsJd95OYDL) | [TALENT](https://open.spotify.com/album/58AtmygL5FdxGhuEUSnWwF) | 7:10 | 2024-06-13 | 2024-07-01 |
-| [We Don't Have To](https://open.spotify.com/track/5WXcIoVs1ucVbm25cDUqEp) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [We Don't Have To](https://open.spotify.com/album/2G8IIAv91WflCcadACtAbe) | 3:02 | 2024-03-14 |  |
+| [We Don't Have To](https://open.spotify.com/track/5WXcIoVs1ucVbm25cDUqEp) | [Edelyn](https://open.spotify.com/artist/70Bc8yYTfXV3n8AtUH6xZG) | [We Don't Have To](https://open.spotify.com/album/2G8IIAv91WflCcadACtAbe) | 3:02 | 2024-03-14 | 2024-09-06 |
 | [What Can I Do \(feat\. J.Sheon\)](https://open.spotify.com/track/7E3E4nQdBTv2rm3uMtGFgA) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [AD ASTRA](https://open.spotify.com/album/0robvGvRNoSzos2Ae9KRyX) | 3:08 | 2024-01-25 |  |
 | [WHY AM I HERE](https://open.spotify.com/track/4pFD8YFEzOXslurT0tXLer) | [Miao Miao Flow](https://open.spotify.com/artist/2r0ajtCNBtW94trsCQxyZr), [薛詒丹](https://open.spotify.com/artist/4sbZb3GwHmK7Ou1PVA4U5z) | [WHY AM I HERE](https://open.spotify.com/album/1RVNd9HerLJAD5CUsTFCU1) | 2:41 | 2024-03-28 | 2024-07-05 |
 | [XTC](https://open.spotify.com/track/0PyXVXFSlm952pL8tQp0CZ) | [SiNNER MOON](https://open.spotify.com/artist/7uNmdZ8FJkmZjsHEQWM5Xw) | [XTC](https://open.spotify.com/album/4g2n03bNP2tKrGOr4FXmy2) | 2:36 | 2024-02-29 | 2024-03-15 |
@@ -245,7 +248,7 @@
 | [記得呼吸](https://open.spotify.com/track/1nzYGfWfv9csqPBmpmYxHB) | [呂允](https://open.spotify.com/artist/0IOTVYHqENzrhSgJQmIkE9) | [記得呼吸](https://open.spotify.com/album/7ErAzNpBgExbpSGDd5f5hC) | 3:22 | 2024-06-13 | 2024-07-01 |
 | [超級英雄 Antibiotic](https://open.spotify.com/track/0jCx4g5bqpmUoz86x1Rgm0) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [超級英雄 Antibiotic](https://open.spotify.com/album/4OfhbyxPpVnACKoB42nwY7) | 3:15 | 2024-02-29 | 2024-03-15 |
 | [躍](https://open.spotify.com/track/0vQw7IhLHzTInsj5OQnh35) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [躍](https://open.spotify.com/album/6BhcCeMEBlIwhafSD05aS8) | 3:41 | 2024-06-13 | 2024-07-01 |
-| [過去の君へのうた](https://open.spotify.com/track/7cNeoHZrCQJ2Lt8Yiyl8wh) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [過去の君へのうた](https://open.spotify.com/album/6ryuZFXjSo5V81tz4hD15U) | 4:24 | 2024-08-15 |  |
+| [過去の君へのうた](https://open.spotify.com/track/7cNeoHZrCQJ2Lt8Yiyl8wh) | [王江元（Jack Wang）](https://open.spotify.com/artist/19bV8H1LCmcQpajbJ7IYN2) | [過去の君へのうた](https://open.spotify.com/album/6ryuZFXjSo5V81tz4hD15U) | 4:24 | 2024-08-15 | 2024-09-06 |
 | [都是weather你](https://open.spotify.com/track/3Sp9bi6Oj8rWmWhPXpyZ5l) | [JOYCE 就以斯](https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv), [楊子平 ᏟᎪsᏢᎬᏒ](https://open.spotify.com/artist/3ZvPuPIHI1Xhh0XvBLAhky) | [都是weather你](https://open.spotify.com/album/59aLs5FpqBI7u5tSaYIi7a) | 3:07 | 2024-06-13 | 2024-07-01 |
 | [醫生 Doctor](https://open.spotify.com/track/1NJKPIIveHFIA7hFFNzdNI) | [百合花](https://open.spotify.com/artist/4JGHOtt9Kj0EKZFjF8cmeL) | [燒金蕉 Burnana](https://open.spotify.com/album/5ItO3LzSpFyaLpugxVHtgC) | 3:45 | 2024-06-13 | 2024-07-01 |
 | [釋迦 \- Live Session](https://open.spotify.com/track/3Z3oabr31eKhocCaFoMiHE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [釋迦 \(Live Session\)](https://open.spotify.com/album/73lJKnwBSY4nN072HpBD8N) | 4:31 | 2024-04-11 | 2024-05-11 |

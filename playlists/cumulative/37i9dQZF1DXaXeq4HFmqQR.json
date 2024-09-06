@@ -7075,6 +7075,24 @@
     },
     {
       "album": {
+        "name": "ilegal.",
+        "url": "https://open.spotify.com/album/1XV0mUCzpeicwz6rw0oOF5"
+      },
+      "artists": [
+        {
+          "name": "Mariana Bfly",
+          "url": "https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133942,
+      "name": "ilegal.",
+      "url": "https://open.spotify.com/track/2d5BsK5KVtv6GevWXeolNl"
+    },
+    {
+      "album": {
         "name": "Jesica Alegr\u00eda",
         "url": "https://open.spotify.com/album/2UXcnZ1VHKmIOlPvZvi3lm"
       },

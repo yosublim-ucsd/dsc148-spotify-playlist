@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: BIANCADIMAS",
+  "description": "Menemani akhir pekanmu dengan lagu-lagu terbaru. Cover: Iwan Fals,  Irfan Hakim",
   "name": "Musik Akhir Pekan",
   "tracks": [
     {
@@ -160,7 +160,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 214491,
       "name": "Bagaimana Ku Bisa",
       "url": "https://open.spotify.com/track/3qMt6x9lCGhKs6OCsw4ZBo"
@@ -342,6 +342,24 @@
       "duration_ms": 194613,
       "name": "Berlalu - Demo",
       "url": "https://open.spotify.com/track/0bJsVv49d5F0zqNARXdoux"
+    },
+    {
+      "album": {
+        "name": "Berlari Dalam Mimpi",
+        "url": "https://open.spotify.com/album/5ZntmrL1eNrHMkvWXGm7Up"
+      },
+      "artists": [
+        {
+          "name": "Ticya",
+          "url": "https://open.spotify.com/artist/0NbMfuIv1DlbPuBZqqhK27"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248000,
+      "name": "Berlari Dalam Mimpi",
+      "url": "https://open.spotify.com/track/7iN5OYXt6jTEkltcZeOXMv"
     },
     {
       "album": {
@@ -582,7 +600,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 253980,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/6MidLW447aO1XCYHirArxz"
@@ -774,7 +792,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 219656,
       "name": "Di Saat Cinta Cintanya",
       "url": "https://open.spotify.com/track/71BLmKvQ0hu4moTx8XkyVh"
@@ -1037,6 +1055,28 @@
     },
     {
       "album": {
+        "name": "Genjrengan Iwan & Irfan - Aviary Live Session",
+        "url": "https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9"
+      },
+      "artists": [
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        },
+        {
+          "name": "Irfan Hakim",
+          "url": "https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347037,
+      "name": "Hmmm - Aviary Live Session",
+      "url": "https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS"
+    },
+    {
+      "album": {
         "name": "Hoping You'll Be Mine",
         "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
       },
@@ -1100,7 +1140,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213387,
       "name": "Indonesiaku",
       "url": "https://open.spotify.com/track/6pKrxfoAsq0quIIb3yyKdP"
@@ -1710,6 +1750,42 @@
       "duration_ms": 311111,
       "name": "Legawa",
       "url": "https://open.spotify.com/track/03AwH2SWxG5euxufW8vjlS"
+    },
+    {
+      "album": {
+        "name": "Luka Yang Kusengaja",
+        "url": "https://open.spotify.com/album/6lz0kmrqmPpiJmKz9L8V7F"
+      },
+      "artists": [
+        {
+          "name": "GITA",
+          "url": "https://open.spotify.com/artist/4Bj2N0TMyyM7lGyEgZz93Q"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199764,
+      "name": "Luka Yang Kusengaja",
+      "url": "https://open.spotify.com/track/5pzndYkzTrj6iyX07dubxn"
+    },
+    {
+      "album": {
+        "name": "maaf, aku gak romantis",
+        "url": "https://open.spotify.com/album/1qqRD7YHoplWYZDM53OR8M"
+      },
+      "artists": [
+        {
+          "name": "DEABDIL",
+          "url": "https://open.spotify.com/artist/0DdKmEBoSQuTWY9Mo2EQm2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230062,
+      "name": "maaf, aku gak romantis",
+      "url": "https://open.spotify.com/track/5LiSqq9ulrceYCexBJ68YD"
     },
     {
       "album": {
@@ -2511,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
+    },
+    {
+      "album": {
         "name": "Sayang Segera Pulang",
         "url": "https://open.spotify.com/album/3Y8CQYyOORxgn035ofr9TP"
       },
@@ -2802,7 +2896,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 242800,
       "name": "Suamiku",
       "url": "https://open.spotify.com/track/5L6ydpf6e8upEYWBpBGggs"
@@ -2820,7 +2914,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 209493,
       "name": "Sudah Sangat Rindu",
       "url": "https://open.spotify.com/track/4RvQCrQ9SYxqpgrPBkywXD"
@@ -3090,10 +3184,54 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215238,
       "name": "Tolak Ukur",
       "url": "https://open.spotify.com/track/1AAySuGQ1gl02lYQsX0naQ"
+    },
+    {
+      "album": {
+        "name": "Ulurkan",
+        "url": "https://open.spotify.com/album/4QTM1LD57CyUbGs8DltyBG"
+      },
+      "artists": [
+        {
+          "name": "Bragi",
+          "url": "https://open.spotify.com/artist/0sKPWtHbmPXRBZDocnmjNG"
+        },
+        {
+          "name": "Dudy Oris",
+          "url": "https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210254,
+      "name": "Ulurkan",
+      "url": "https://open.spotify.com/track/0lXjMEFfyD6aXWT5T2l9bv"
+    },
+    {
+      "album": {
+        "name": "Untuk Dikenang",
+        "url": "https://open.spotify.com/album/2DhwbTaWboVQqGiqTAjacK"
+      },
+      "artists": [
+        {
+          "name": "Pongki Barata",
+          "url": "https://open.spotify.com/artist/4FTaeFBX07JxJ5hIFFvack"
+        },
+        {
+          "name": "The Dangerous Band",
+          "url": "https://open.spotify.com/artist/6ESLP0LzmoAcDZd8ILvitQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Untuk Dikenang",
+      "url": "https://open.spotify.com/track/3ysXeMcA70M7v5fJXywJJR"
     },
     {
       "album": {

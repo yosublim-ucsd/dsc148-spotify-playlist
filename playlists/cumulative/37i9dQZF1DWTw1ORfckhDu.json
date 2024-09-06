@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "100 Suomi \ud83d\udcaf Kannessa Averagekidluke.",
+  "description": "100 Suomi \ud83d\udcaf Kannessa Jami Faltin.",
   "name": "100 Suomi",
   "tracks": [
     {
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171230,
       "name": "247",
       "url": "https://open.spotify.com/track/7JCSgrKfAWLoW5EttS6tEo"
@@ -794,7 +794,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147291,
       "name": "Aurinkoon",
       "url": "https://open.spotify.com/track/1jyva7msC2LeaBA9jFCsLZ"
@@ -1606,7 +1606,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 164850,
       "name": "Downtown (feat. NCO)",
       "url": "https://open.spotify.com/track/5ahzUmHTdIA3B3ujctjf75"
@@ -2417,6 +2417,28 @@
     },
     {
       "album": {
+        "name": "Finanssiveli (feat. Finanssiveli)",
+        "url": "https://open.spotify.com/album/7G6ZryN0DX8o4Ua8cdjpKJ"
+      },
+      "artists": [
+        {
+          "name": "Uniikki",
+          "url": "https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX"
+        },
+        {
+          "name": "Finanssiveli",
+          "url": "https://open.spotify.com/artist/1lQle7p1O9Km6lVr98cNsf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165792,
+      "name": "Finanssiveli (feat. Finanssiveli)",
+      "url": "https://open.spotify.com/track/288AqC7SebjSQh5SGa6diI"
+    },
+    {
+      "album": {
         "name": "First Day Out 2",
         "url": "https://open.spotify.com/album/2Z9JO6wm3gC6yoAEsv9LTE"
       },
@@ -3112,7 +3134,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 133355,
       "name": "Hood Lifestyle",
       "url": "https://open.spotify.com/track/3gB0TCak1He6G35kV16P50"
@@ -3400,7 +3422,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150360,
       "name": "IBZ (feat. T Swoop & Nelli Orell)",
       "url": "https://open.spotify.com/track/2DjLdWKFTuG6qqE6yTlKuj"
@@ -3806,6 +3828,24 @@
       "duration_ms": 200000,
       "name": "Joku p\u00e4iv\u00e4 viel\u00e4",
       "url": "https://open.spotify.com/track/3K5UNK87uJWk7w4SqayDg4"
+    },
+    {
+      "album": {
+        "name": "Jorma",
+        "url": "https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx"
+      },
+      "artists": [
+        {
+          "name": "Nebi",
+          "url": "https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "Jorma",
+      "url": "https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV"
     },
     {
       "album": {
@@ -8561,6 +8601,24 @@
     },
     {
       "album": {
+        "name": "Kehykset",
+        "url": "https://open.spotify.com/album/1V3KJYqBkdDSHFY3oAurAR"
+      },
+      "artists": [
+        {
+          "name": "HUGO",
+          "url": "https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179267,
+      "name": "Painajaiset",
+      "url": "https://open.spotify.com/track/4uja2Q6sXUYoGgjvWUlFez"
+    },
+    {
+      "album": {
         "name": "Pakko jatkaa",
         "url": "https://open.spotify.com/album/21ssjmKMBP7wXtUB7yY53Q"
       },
@@ -10014,7 +10072,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 186627,
       "name": "Sata ongelmaa",
       "url": "https://open.spotify.com/track/2mpPYjUSTD2163kPttv2JZ"
@@ -10300,6 +10358,24 @@
       "duration_ms": 180031,
       "name": "Selvii p\u00e4ivii",
       "url": "https://open.spotify.com/track/4aDQIhFNwywQ7Ch0kJCXF0"
+    },
+    {
+      "album": {
+        "name": "SELVIYTYJ\u00c4",
+        "url": "https://open.spotify.com/album/2xlnq9qgRnJtP1wFh2GfyJ"
+      },
+      "artists": [
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143014,
+      "name": "SELVIYTYJ\u00c4",
+      "url": "https://open.spotify.com/track/3atnoHWVZSbgeBUMoKXCJG"
     },
     {
       "album": {
@@ -10722,6 +10798,24 @@
       "duration_ms": 172275,
       "name": "Sua Ei Oo",
       "url": "https://open.spotify.com/track/6sqPOCugqjcu11jIpnAkaL"
+    },
+    {
+      "album": {
+        "name": "Sumplin",
+        "url": "https://open.spotify.com/album/4o1UIGQFXBGMepduybfewa"
+      },
+      "artists": [
+        {
+          "name": "J\u00e4tk\u00e4J\u00e4tk\u00e4t",
+          "url": "https://open.spotify.com/artist/207EXmenqRIqAK9z5yiLPt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208911,
+      "name": "Sumplin",
+      "url": "https://open.spotify.com/track/32DbouJ57QdERixh9g0e6j"
     },
     {
       "album": {
@@ -11416,7 +11510,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183995,
       "name": "Taustapeili",
       "url": "https://open.spotify.com/track/0Z0Y0HYw1LyhPh6JHUn8iz"
@@ -12313,6 +12407,28 @@
     },
     {
       "album": {
+        "name": "Mushkila",
+        "url": "https://open.spotify.com/album/763qzlJigg3lsHzP6Knuy3"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "VJ",
+          "url": "https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Up",
+      "url": "https://open.spotify.com/track/2ESCQGR2fFf3OScucQ6mci"
+    },
+    {
+      "album": {
         "name": "Upee",
         "url": "https://open.spotify.com/album/4ahFJuxz9ErjjaVJHxmn1P"
       },
@@ -12759,6 +12875,24 @@
     },
     {
       "album": {
+        "name": "Vielki kentil",
+        "url": "https://open.spotify.com/album/3R18RGuJLRLmLHpqdqS5Iq"
+      },
+      "artists": [
+        {
+          "name": "Kube",
+          "url": "https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182468,
+      "name": "Vielki kentil",
+      "url": "https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC"
+    },
+    {
+      "album": {
         "name": "Viha",
         "url": "https://open.spotify.com/album/3pAAk22i8KcGwlQ0OFCCvE"
       },
@@ -12814,7 +12948,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 164374,
       "name": "Viikatemies (feat. costee)",
       "url": "https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG"
@@ -12890,6 +13024,28 @@
       "duration_ms": 255010,
       "name": "Vintagevaatteet",
       "url": "https://open.spotify.com/track/4ZZse7s6SepxuIpjZDEvFq"
+    },
+    {
+      "album": {
+        "name": "ATOG",
+        "url": "https://open.spotify.com/album/61ROchLRecuGLKRhNVJiQk"
+      },
+      "artists": [
+        {
+          "name": "Eevil St\u00f6\u00f6",
+          "url": "https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf"
+        },
+        {
+          "name": "JV",
+          "url": "https://open.spotify.com/artist/4X4k68di2P4I0tbSsLgnp3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164776,
+      "name": "Vippip\u00f6yt\u00e4 huudeilla (feat. JV)",
+      "url": "https://open.spotify.com/track/152IZJyxREI8WFSSaWpQHZ"
     },
     {
       "album": {
@@ -13490,6 +13646,24 @@
       "duration_ms": 144585,
       "name": "\u00c4l\u00e4 vihaa mua",
       "url": "https://open.spotify.com/track/0PGTUDrfpzx8bzY4tHYBx0"
+    },
+    {
+      "album": {
+        "name": "\u00c4rsytt\u00e4v\u00e4",
+        "url": "https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX"
+      },
+      "artists": [
+        {
+          "name": "AHTI",
+          "url": "https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158455,
+      "name": "\u00c4rsytt\u00e4v\u00e4",
+      "url": "https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ"
     },
     {
       "album": {

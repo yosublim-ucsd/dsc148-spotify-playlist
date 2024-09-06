@@ -12307,6 +12307,24 @@
     },
     {
       "album": {
+        "name": "Scarecrow",
+        "url": "https://open.spotify.com/album/1YzRTeNdwXPnEf9D9mfmOQ"
+      },
+      "artists": [
+        {
+          "name": "BLP KOSHER",
+          "url": "https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145882,
+      "name": "Sugar Water",
+      "url": "https://open.spotify.com/track/3V3RTC6VfgbNSEH6fZLBtR"
+    },
+    {
+      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },

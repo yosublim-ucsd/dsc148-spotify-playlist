@@ -2,9 +2,9 @@
 
 ### [100 DK](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> den bedste danske rap lige nu...<a href="spotify:artist:2GGL93jyTZ4X7uidHSJhIr">Kundo</a> & <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">MAS</a> er vaaarme 🥵
+> den bedste danske rap lige nu 🏆
 
-219 songs - 9 hr 27 min
+224 songs - 9 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 | 2024-05-23 | 2024-06-22 |
 | [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
 | [2 Kanoner](https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p) | 2:40 | 2023-09-21 | 2024-04-19 |
+| [4 LIFE](https://open.spotify.com/track/0o5ibKv2wHgbjYXtGuKQ2r) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [4 LIFE](https://open.spotify.com/album/3y3ecFqLH3IcIMr6owmcQL) | 2:46 | 2024-09-05 |  |
 | [4 LIFE](https://open.spotify.com/track/3oR0iJiqjO5onYOs8ThQa1) | [ZK](https://open.spotify.com/artist/4uvOZHqwKYuWz1ywTBN5En) | [4 LIFE](https://open.spotify.com/album/2ZSarbwHOnvmj19c4jiVey) | 2:28 | 2023-09-21 | 2024-05-14 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/2s0v4Q14vbu2jUpuNTBcww) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/1CnKG0vmRTZkG0oxwIZnc3) | 2:37 | 2024-01-04 | 2024-02-10 |
 | [555 \(feat\. KESI\)](https://open.spotify.com/track/3VWuGvgAaYMB6bSNevfozD) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Kiko Club](https://open.spotify.com/album/3y4SAFKOvJ9CDDwNaMOgLL) | 2:37 | 2023-11-10 |  |
@@ -25,12 +26,14 @@
 | [ANDERLEDES](https://open.spotify.com/track/4oo2AlvgGclgCfnsw7kVTw) | [MEMZ](https://open.spotify.com/artist/6XvIKkATarRkAZppLCdLVY) | [ANDERLEDES](https://open.spotify.com/album/7azznQEPvB5GM2olU0M8X2) | 1:55 | 2023-11-10 | 2023-12-14 |
 | [Astralis](https://open.spotify.com/track/7C7PFBbwFC3e0XQF4utbQX) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [ASTRALIS](https://open.spotify.com/album/5IN3zS8PZ2uabDDKzVqJtS) | 2:36 | 2024-07-11 |  |
 | [Baby Mama](https://open.spotify.com/track/3NG0HvogvABEgt8bdpzCK8) | [Durani](https://open.spotify.com/artist/2AivxtcAJBYO40RucLMH8P) | [Baby Mama](https://open.spotify.com/album/7uonA79doG0xDcgWWobwsf) | 2:58 | 2023-09-21 | 2024-01-19 |
+| [Bad Bitch](https://open.spotify.com/track/1B2gmZjTfSGNDUYdQeGV8w) | [Område 69](https://open.spotify.com/artist/15Bo9za66QGiX8iIJnJzfv) | [Bad Bitch](https://open.spotify.com/album/3M1nQVoHKBEM8uVlEHn6ON) | 2:29 | 2024-09-05 |  |
 | [Baddies & Draris](https://open.spotify.com/track/4oy5g8o1arUDfFX1jTsGna) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Baddies & Draris](https://open.spotify.com/album/29ExeT8qqQJwiHv7R7Qhvw) | 2:26 | 2023-09-21 | 2023-12-14 |
 | [Baggen](https://open.spotify.com/track/1I3SW3d0TGH1NWY0tfK4QH) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [Baggen](https://open.spotify.com/album/1X7LxXRddLunOvIu3gXDTP) | 2:20 | 2023-11-10 | 2024-01-19 |
 | [Bagheera](https://open.spotify.com/track/7o2AlIdw7u6cHIhl5wNReN) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Bagheera](https://open.spotify.com/album/35HMlmfvRcIoh4xxK51lXN) | 2:34 | 2024-05-16 | 2024-06-22 |
 | [Balaclava](https://open.spotify.com/track/0GSoForoOEUELr6W30bDpp) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [Balaclava](https://open.spotify.com/album/03R0VwOAvruUcU4S6C4VgE) | 2:29 | 2024-02-29 |  |
 | [Balancen \(feat\. Kesi\)](https://open.spotify.com/track/4sGUkfsLxIK4tZxLZt0unU) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [DK GOAT](https://open.spotify.com/album/5rwILepTiMfBTOwJCqholQ) | 2:53 | 2023-10-12 | 2024-01-19 |
 | [Barcelona](https://open.spotify.com/track/2WHlIijZW8Wg2rnzCt59fT) | [Volkan](https://open.spotify.com/artist/0bIoVDzI4BefNfAQid4nox) | [Barcelona](https://open.spotify.com/album/3gjER3vO2O3ObxPdPPWZ3h) | 2:00 | 2023-12-14 |  |
+| [Barn Af Byen Freestyle](https://open.spotify.com/track/2SU1ddE0ZApcf91ClCs72w) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Barn Af Byen Freestyle](https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh) | 1:54 | 2024-09-05 |  |
 | [Bedøvende](https://open.spotify.com/track/1XillHPBk3C21iDpnpLmSR) | [Fouli](https://open.spotify.com/artist/1IWMpdsWQeTckTQSGVNj8N), [Babyface Mo](https://open.spotify.com/artist/4HLdhkirMBFxuir7hgDtmf) | [Bedøvende](https://open.spotify.com/album/75hr6dG6BNro3Nx61Jc4La) | 2:45 | 2024-08-29 |  |
 | [Bellingham Freestyle](https://open.spotify.com/track/3iDvA9yErFpMUNhvx9KiqU) | [Anton Westerlin](https://open.spotify.com/artist/5NYUb39ntjgN7cRtN4y25T), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Bellingham Freestyle](https://open.spotify.com/album/1WzzRG4FdwNgBPxiVuhdT7) | 1:24 | 2024-07-18 |  |
 | [BENZ](https://open.spotify.com/track/0VfA42lvkgmpCE73fFxKjE) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [BENZ](https://open.spotify.com/album/4yU3IEVdrCYGldYLiUIxqq) | 2:20 | 2024-03-07 |  |
@@ -197,6 +200,7 @@
 | [Svaneflex](https://open.spotify.com/track/5HPCoFIPcckTMWF0wc6ncG) | [Sondergaard](https://open.spotify.com/artist/059d96CtYS9700ezKQWsFz) | [Svaneflex](https://open.spotify.com/album/0dOVDYCMrGpRngvk16BPmU) | 2:02 | 2024-04-29 | 2024-06-22 |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 | 2023-10-11 |
 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Slow Mo' / Swervin'](https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8) | 2:31 | 2023-10-06 | 2024-02-23 |
+| [Syreregn](https://open.spotify.com/track/1P6IhxWSo9KtdCZj87wYo2) | [BONFÍ](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Syreregn](https://open.spotify.com/album/0IZtOod9T7rvTCAYcoEsfz) | 2:50 | 2024-09-05 |  |
 | [Tak For Sidst](https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Tak For Sidst](https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi) | 2:34 | 2023-09-21 | 2024-04-05 |
 | [Tar Dig Med](https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Tar Dig Med](https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc) | 2:00 | 2023-09-21 | 2023-12-14 |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 | 2023-11-11 |
@@ -206,6 +210,7 @@
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 |  |
 | [Tsamina](https://open.spotify.com/track/0qBSIf8Ic0SYCYvGozlqKB) | [Shooter Gang](https://open.spotify.com/artist/7HAfa0zXzOgIEUdyxE08AO) | [Tsamina](https://open.spotify.com/album/4xElpKHXJv700nJ3eTwQPN) | 3:42 | 2024-02-08 | 2024-04-05 |
 | [Tudo Bem \(feat\. Gilli\)](https://open.spotify.com/track/2hFdRvBjl6eWf0tPt9NYID) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Ny Sejr](https://open.spotify.com/album/7jgxhbrMgnkQMnpjfIB1IQ) | 2:10 | 2023-09-21 | 2023-12-14 |
+| [TUR](https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh) | [TUR](https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY) | 2:13 | 2024-09-05 |  |
 | [U\-vending](https://open.spotify.com/track/3DPZCTa94K2A68GAevOqsI) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [U\-vending](https://open.spotify.com/album/7xwLK7e8YAeFYXwUoqv8Dy) | 2:26 | 2024-02-08 | 2024-03-08 |
 | [Ud Af Hovedet \(feat\. ICEKIID\)](https://open.spotify.com/track/5f4wCcBdSHI5SxlfU2cpNI) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:43 | 2024-02-01 |  |
 | [UDØDELIG](https://open.spotify.com/track/0FyCLGRnLuYNSQvsMTaLNb) | [DeDerDrenge](https://open.spotify.com/artist/76iK1YKt3B6HvYKKl84Hml) | [UDØDELIG](https://open.spotify.com/album/4XmsleiLDfq75f5Gmz3eWf) | 2:03 | 2024-06-27 |  |

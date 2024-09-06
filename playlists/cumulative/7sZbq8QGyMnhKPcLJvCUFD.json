@@ -6799,6 +6799,24 @@
     },
     {
       "album": {
+        "name": "Models",
+        "url": "https://open.spotify.com/album/3UW07KJKOcewzC2V6XIjfM"
+      },
+      "artists": [
+        {
+          "name": "Hush",
+          "url": "https://open.spotify.com/artist/5yumQW70M7N3EeWFWV7fUZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152661,
+      "name": "Models",
+      "url": "https://open.spotify.com/track/7xUNCA7dezcwtlo7IOYgdC"
+    },
+    {
+      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/7IpkM4Q4T63J4C56pAFgQc"
       },

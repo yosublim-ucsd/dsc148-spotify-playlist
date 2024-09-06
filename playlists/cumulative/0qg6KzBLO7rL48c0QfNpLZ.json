@@ -162,7 +162,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150870,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/2d57oiLdCaAc8zcfByKQ82"
@@ -5977,6 +5977,28 @@
     },
     {
       "album": {
+        "name": "Is It True",
+        "url": "https://open.spotify.com/album/510lllqbpbKCbG2fbvWkPc"
+      },
+      "artists": [
+        {
+          "name": "Jan Liva",
+          "url": "https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX"
+        },
+        {
+          "name": "LDVC",
+          "url": "https://open.spotify.com/artist/7EShHZRP35PHBA0FXwrI4f"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146440,
+      "name": "Is It True",
+      "url": "https://open.spotify.com/track/3nykCjJlES91pTS7iRyPeO"
+    },
+    {
+      "album": {
         "name": "It Ain't Me (with Selena Gomez)",
         "url": "https://open.spotify.com/album/0IUCAsckpNyV4wHKIHQawC"
       },
@@ -6862,6 +6884,24 @@
       "duration_ms": 134331,
       "name": "Like I Do",
       "url": "https://open.spotify.com/track/3JSCR3Zj2u7AoPMeJ7jFMs"
+    },
+    {
+      "album": {
+        "name": "Like It Used To",
+        "url": "https://open.spotify.com/album/3SxfVTN7bBSnBdXZwpj3sx"
+      },
+      "artists": [
+        {
+          "name": "L\u00f8vento",
+          "url": "https://open.spotify.com/artist/147Xjr0mly4tsEfY5yLPDC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Like It Used To",
+      "url": "https://open.spotify.com/track/3HHBvPL9wzH4zXjIfoCZ7x"
     },
     {
       "album": {
@@ -8313,6 +8353,10 @@
         "url": "https://open.spotify.com/album/3EIZFxKQuFV7B6GPrBhwmj"
       },
       "artists": [
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        },
         {
           "name": "Rory Hope",
           "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
@@ -12236,6 +12280,54 @@
       "duration_ms": 206192,
       "name": "What We Had",
       "url": "https://open.spotify.com/track/1sgyJyiWyn2G3gU9MyV2td"
+    },
+    {
+      "album": {
+        "name": "What We Started",
+        "url": "https://open.spotify.com/album/4uq0IbSNNaY2IbPE9oatns"
+      },
+      "artists": [
+        {
+          "name": "DALEXO",
+          "url": "https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l"
+        },
+        {
+          "name": "Ruxolf",
+          "url": "https://open.spotify.com/artist/35UJGn6qRHJ2rWqWJl9ps5"
+        },
+        {
+          "name": "Mason",
+          "url": "https://open.spotify.com/artist/4jXbk5gQsWSBWL8HGnIcoh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151635,
+      "name": "What We Started",
+      "url": "https://open.spotify.com/track/5jsiM3FA6cmJmmepchwNCz"
+    },
+    {
+      "album": {
+        "name": "What You Want (My Love)",
+        "url": "https://open.spotify.com/album/3Ys286U703QXIZboOYPsPp"
+      },
+      "artists": [
+        {
+          "name": "Lane Boy",
+          "url": "https://open.spotify.com/artist/0ABF5V88EylbLU08lCp9N3"
+        },
+        {
+          "name": "WLZN",
+          "url": "https://open.spotify.com/artist/3C46QoWzkbaelIUTmuWvce"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129481,
+      "name": "What You Want (My Love)",
+      "url": "https://open.spotify.com/track/30m2haMQ7WS2M6p0KnX3pq"
     },
     {
       "album": {

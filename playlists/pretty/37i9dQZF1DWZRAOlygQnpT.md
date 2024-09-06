@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar! Los Locos del Ritmo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,793 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,811 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 69 | [Memphis Tennessee](https://open.spotify.com/track/4OeCOfLidp02t8fRKyd6ag) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:23 |
 | 70 | [La Catedral De Winchestern](https://open.spotify.com/track/7wbROPLgipLyC5OYe2SxxW) | [Abril](https://open.spotify.com/artist/6i3CrGDk8vbDsddphpPbCG) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:21 |
 | 71 | [Mary Mary](https://open.spotify.com/track/1fIeqp0iOeZTGhnzHfznzR) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:18 |
-| 72 | [Bájate De Mi Nube](https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI) | [Reo](https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:01 |
-| 73 | [Dame Tu Amor](https://open.spotify.com/track/3lPADg2yBojS0fAPRODg9J) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Lo Mejor de Karina](https://open.spotify.com/album/2QnxVQzKb0JQ9TDjpMqSrH) | 2:58 |
+| 72 | [Dame Tu Amor](https://open.spotify.com/track/3lPADg2yBojS0fAPRODg9J) | [Karina](https://open.spotify.com/artist/7kL7lbaqaHIUB3Ol5YU69a) | [Lo Mejor de Karina](https://open.spotify.com/album/2QnxVQzKb0JQ9TDjpMqSrH) | 2:58 |
+| 73 | [Bájate De Mi Nube](https://open.spotify.com/track/56G34ReoS8zGUKyMuVSBuI) | [Reo](https://open.spotify.com/artist/76Fy1NoZqAV6RYzX7CO5I1) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 3:01 |
 | 74 | [Aconséjame Mamá](https://open.spotify.com/track/1K1oIlMqoHG3B6eIGCe5Xm) | [Baby Batiz](https://open.spotify.com/artist/1ovGu4hf8b9yivHof9N997) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:33 |
 | 75 | [Cartas de amor en la arena \- Love Letters in the Sand](https://open.spotify.com/track/5P9ruhpi2GGK5xniYcvtO6) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:16 |
 | 76 | [La Mantequilla](https://open.spotify.com/track/7fhZsTB9ip8h9H6vMcP8ux) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy), [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Roots Of Rock En Español](https://open.spotify.com/album/66v26zIv917KdNZHVRXTWr) | 3:50 |

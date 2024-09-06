@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favorites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,672 likes - 125 songs - 8 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,722 likes - 125 songs - 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 113 | [Beam Me Up \- Radio Edit](https://open.spotify.com/track/64y85LeHY8Z6OlTOM9cpKD) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Eject](https://open.spotify.com/album/5cYW3ILGflf28W2vkkCvgs) | 3:23 |
 | 114 | [Deep Down Low](https://open.spotify.com/track/46rZgRYU1H5Xnv0n75OGis) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [Deep Down Low](https://open.spotify.com/album/67bF4s11NHmoi7cnwJcEMM) | 3:10 |
 | 115 | [Watch Out For This \(Bumaye\)](https://open.spotify.com/track/3j9o0zUoyGNXkijNSyRyBI) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [The Flexican](https://open.spotify.com/artist/5Z3k52rtOTnOnvFHoKNHEN), [FS Green](https://open.spotify.com/artist/2xjVYIMLS3nR5Y1UOr02Vb) | [Free The Universe \(Extended Version\)](https://open.spotify.com/album/6Ax8Neb7dEif3KUlJwj2P8) | 4:29 |
-| 116 | [In My Mind \(feat\. Georgi Kay\) \- Axwell Radio Edit](https://open.spotify.com/track/2tW2Kn1IGFFVfRVnQE2UaQ) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind \(feat\. Georgi Kay\)](https://open.spotify.com/album/7itE3cK3ye649qjIcsgGNu) | 3:05 |
-| 117 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
+| 116 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
+| 117 | [In My Mind \(feat\. Georgi Kay\) \- Axwell Radio Edit](https://open.spotify.com/track/2tW2Kn1IGFFVfRVnQE2UaQ) | [Ivan Gough](https://open.spotify.com/artist/5aBWZE8TOaaA9O50ENS3EM), [Feenixpawl](https://open.spotify.com/artist/5FvlJcXnFIm72pgQtW3Dct), [Georgi Kay](https://open.spotify.com/artist/32DJdHuhN1840L73Bqxhxj), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43) | [In My Mind \(feat\. Georgi Kay\)](https://open.spotify.com/album/7itE3cK3ye649qjIcsgGNu) | 3:05 |
 | 118 | [Crash 2.0](https://open.spotify.com/track/3NAGKEkJN7cUTaIYqFnF8l) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [DallasK](https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW) | [Red // Blue](https://open.spotify.com/album/45hTiiH7JpJx1P5TN6iDDG) | 4:14 |
 | 119 | [Booyah](https://open.spotify.com/track/30BBwDTjwHQf1ixFGaE2o2) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [We Are Loud](https://open.spotify.com/artist/2INDI0xc49oGYTZC7fBZjX), [Sonny Wilson](https://open.spotify.com/artist/3gTl4XARdQR2Sy59osG0Ia) | [Booyah](https://open.spotify.com/album/5VlVcVoGT5g1F8t1VUAef8) | 5:11 |
 | 120 | [Illmerica](https://open.spotify.com/track/3ERVrhNx8p2I3xY9RomH9t) | [Wolfgang Gartner](https://open.spotify.com/artist/3534yWWzmxx8NbKVoNolsK) | [Weekend In America](https://open.spotify.com/album/5pIPewOu9MCZVSQt7FLMim) | 5:37 |

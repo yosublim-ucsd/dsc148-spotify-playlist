@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Walk Off the Earth & Romeo Eats
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,771 likes - 215 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,839 likes - 215 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 62 | [Masterpiece](https://open.spotify.com/track/5XsvwrKPEw1xl5Bb55ydAk) | [Monster High](https://open.spotify.com/artist/43niWwvn8OX1HmJLXu4aLV) | [Masterpiece](https://open.spotify.com/album/5RrRJFDJP7cfbn0Fxmk1y8) | 1:53 |
 | 63 | [Let's Grow Together](https://open.spotify.com/track/3yCLPmnVfHTkBNKMKL2j5Q) | [Zoe](https://open.spotify.com/artist/7fwvBtJJavkIB34vf73p8V), [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Sesame Street’s Tamir](https://open.spotify.com/artist/0mPoJFAaRIZhq9QkQEqXcn), [Sesame Street’s Charlie](https://open.spotify.com/artist/4bfEr94LI5n6CTxlWRA6fX), [Oscar the Grouch](https://open.spotify.com/artist/2dX0vdWogRhm7Jz8DuB9t9), [Big Bird](https://open.spotify.com/artist/0iDC0DDdk9WL7W8OdBSmtE), [Sesame Street](https://open.spotify.com/artist/50bY8HGxT0SuDgJX3AilTT) | [Let's Grow Together](https://open.spotify.com/album/1l734c5LwoQbTVRUjIEh3J) | 1:21 |
 | 64 | [Too Sweet](https://open.spotify.com/track/5VV7jBGFStPxRbQc3BlK6O) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Too Sweet](https://open.spotify.com/album/6fgqEz2qgiPYeqtmjbAwPE) | 4:10 |
-| 65 | [I've Got the Look](https://open.spotify.com/track/4okadNJiMVWaSyoQtDQ6U4) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [I've Got the Look \- From Barbie Dream Besties](https://open.spotify.com/album/01snEx6jLkUxi6bk7gZSql) | 2:17 |
+| 65 | [I've Got the Look](https://open.spotify.com/track/4okadNJiMVWaSyoQtDQ6U4) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl) | [I've Got the Look / Owning the Stage \- From Barbie Dream Besties](https://open.spotify.com/album/01snEx6jLkUxi6bk7gZSql) | 2:17 |
 | 66 | [Peter, Peter Pickle Eater](https://open.spotify.com/track/4k3DjHmEO59MyihDLvGlcm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Peter, Peter Pickle Eater](https://open.spotify.com/album/2LzJHIuWqawRpxyoALCGRI) | 1:40 |
 | 67 | [Who Stole the Cookies?](https://open.spotify.com/track/3QvkCAl9TveAsc1epCJ51N) | [Gracie's Corner](https://open.spotify.com/artist/7liE451ZyJBxZ4pLKgIeEH) | [Who Stole the Cookies?](https://open.spotify.com/album/4SytWyafqvc5Z3WFalCR1O) | 3:23 |
 | 68 | [Major Tom \(Coming Home\)](https://open.spotify.com/track/7iIqM6aRzrWFJ54bqRJFNY) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [Major Tom \(Coming Home\)](https://open.spotify.com/album/3BlZf2W4J410EXrzHoIDu4) | 3:55 |

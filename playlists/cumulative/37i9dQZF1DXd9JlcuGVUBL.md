@@ -2,9 +2,9 @@
 
 ### [Country Musiek](https://open.spotify.com/playlist/37i9dQZF1DXd9JlcuGVUBL)
 
-> Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT?si=rQBnyeaTRgaEWhIeGTMFkA">Rooksein</a>
+> Die beste country musiek\. Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=qoOia4ldQ4uiK3NfGWc6Zg">Dodo Nyoka</a>
 
-73 songs - 4 hr 7 min
+75 songs - 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Closing Time In California](https://open.spotify.com/track/2w4ZM8WjsIyGpmWQ8ZgWhw) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Closing Time In California](https://open.spotify.com/album/77s1WZEMDVRT2mENUEJBzl) | 3:29 | 2024-08-09 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-08-09 |  |
 | [Damn Love](https://open.spotify.com/track/7uuMtZ0IkdybIPJvvwfHaI) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/1fvyi30P2ZxqMqtxd6wTai) | 3:10 | 2024-02-09 |  |
+| [Dancin' In The Stars](https://open.spotify.com/track/627prN1Fich2Z7u0zttQat) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Dancin' In The Stars](https://open.spotify.com/album/5I8QMWeW9JjS1NHNyAcaFd) | 3:19 | 2024-09-05 |  |
 | [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-02-29 |  |
 | [Diamante Maak Baba's](https://open.spotify.com/track/5uaUeuchs7YAfgfGaVm30b) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Diamante Maak Baba's](https://open.spotify.com/album/4Lj0Xzyg3W1MacXNxTQC0M) | 3:03 | 2024-07-12 | 2024-07-19 |
 | [Didn't I](https://open.spotify.com/track/3pKrznV5COeDouofUDzq6F) | [BlackByrd](https://open.spotify.com/artist/2EcQCsx4TPZ4VXmK8FbTbm) | [Didn't I](https://open.spotify.com/album/5owWR8QqLFMGRnNIK0pftp) | 3:25 | 2024-05-30 |  |
@@ -50,7 +51,7 @@
 | [II MOST WANTED](https://open.spotify.com/track/1UP7PXne1lIYZB5G5aiRGL) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:28 | 2024-03-29 | 2024-08-16 |
 | [Indifferent](https://open.spotify.com/track/4WtllVoPahHbtOGnLvS8Wk) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Indifferent](https://open.spotify.com/album/7nKCQbT5TOu7AAug3vlRLM) | 2:56 | 2024-05-02 |  |
 | [Last Night](https://open.spotify.com/track/59uQI0PADDKeE6UZDTJEe8) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [3 Songs At A Time Sampler](https://open.spotify.com/album/7fOmdhRrRohTzToL617xkk) | 2:43 | 2024-02-09 |  |
-| [Leaving at Midnight \- Radio Edit](https://open.spotify.com/track/5mpuf0qLx3l19E1l6FoYYs) | [Jack Atlantic](https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB) | [Leaving at Midnight \(Radio Edit\)](https://open.spotify.com/album/79127mkkGmDXdhm3umZAB5) | 2:56 | 2024-08-09 |  |
+| [Leaving at Midnight \- Radio Edit](https://open.spotify.com/track/5mpuf0qLx3l19E1l6FoYYs) | [Jack Atlantic](https://open.spotify.com/artist/3qoOXrkZpDUYj8uhVkaFFB) | [Leaving at Midnight \(Radio Edit\)](https://open.spotify.com/album/79127mkkGmDXdhm3umZAB5) | 2:56 | 2024-08-09 | 2024-09-06 |
 | [Lies Lies Lies](https://open.spotify.com/track/7Fzl7QaTu47WyP9R5S5mh5) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Lies Lies Lies](https://open.spotify.com/album/62ldGEkFUkQa34B8qsAFyc) | 3:18 | 2024-07-04 |  |
 | [Love You As My Own](https://open.spotify.com/track/77Vmg0e0lxxPm9I7amGhHf) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Love You As My Own](https://open.spotify.com/album/6KBJb1k74r9vFuE8NSqxDN) | 3:57 | 2024-06-13 | 2024-07-05 |
 | [Maybe My Baby](https://open.spotify.com/track/3lcbd1EnJrVl2gWeQnZHfJ) | [Christiaan Baartman](https://open.spotify.com/artist/5egE9ZcFwzNSANzupQrcYQ) | [Maybe My Baby](https://open.spotify.com/album/0F8MksmxSo8spHZifIP0qQ) | 3:28 | 2024-06-13 | 2024-07-05 |
@@ -76,7 +77,8 @@
 | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/track/0dXPW8HPmTl4oIGkshXo9F) | [Dax](https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39), [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [To Be A Man \(feat\. Darius Rucker\)](https://open.spotify.com/album/4ME9Moy4lllcM9KQilk4m8) | 3:39 | 2024-02-15 |  |
 | [Two Blue Eyes](https://open.spotify.com/track/3c51VLAPb5blL4BjI7UoH3) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Two Blue Eyes](https://open.spotify.com/album/6VK2AbMoHYzqvsP7R6K2Ik) | 3:31 | 2024-02-09 |  |
 | [Vegas](https://open.spotify.com/track/6FEV8FeTA9kKU2sLTSJw7V) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Vegas](https://open.spotify.com/album/2RUdZVnTQeSGB0QVffPJ7m) | 3:01 | 2024-03-15 | 2024-08-16 |
-| [Vroegoggend Koffie](https://open.spotify.com/track/39ayqFuZypxahqYKOMk9Pr) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Vroegoggend Koffie](https://open.spotify.com/album/5JmUOWdYBJIs0qdiDpC5dy) | 3:45 | 2024-08-29 |  |
+| [Vroegoggend Koffie](https://open.spotify.com/track/39ayqFuZypxahqYKOMk9Pr) | [Rooksein](https://open.spotify.com/artist/0TX0T9VkzOTEjsdzi1a4nT) | [Vroegoggend Koffie](https://open.spotify.com/album/5JmUOWdYBJIs0qdiDpC5dy) | 3:45 | 2024-08-29 | 2024-09-06 |
+| [Where The Wild Things Are](https://open.spotify.com/track/64A4uUdTYHLYZ2TSKZV6A6) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [About Last Night](https://open.spotify.com/album/0gZPTH0ayDDEhUhDWAxvR7) | 3:56 | 2024-09-05 |  |
 | [Whirlwind](https://open.spotify.com/track/1avlmOsNBhIaHDxpEOPQYz) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 4:00 | 2024-08-23 |  |
 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 | 2024-02-09 | 2024-07-05 |
 | [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2024-02-09 |  |

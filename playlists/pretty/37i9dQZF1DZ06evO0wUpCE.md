@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 
 ### [This Is Intocable](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0wUpCE)
 
-> This is Intocable\. The essential tracks, all in one playlist.
+> This Is Intocable\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,726 likes - 51 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 502,870 likes - 51 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 25 | [El Poder De Tus Manos](https://open.spotify.com/track/4ZhvLAPvtgJkk6RBBqJCUq) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Sueños](https://open.spotify.com/album/6RHhs75iZiSjKMSemcyh24) | 3:02 |
 | 26 | [El Amigo Que Se Fué](https://open.spotify.com/track/6BTtKitErY2JcpwdZ9rdpZ) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:39 |
 | 27 | [Más Muerto Que Vivo](https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Más Muerto Que Vivo](https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg) | 3:33 |
-| 28 | [Te Perdono](https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 3:24 |
-| 29 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 |
+| 28 | [Coqueta](https://open.spotify.com/track/7qA8CEV09ZmwrDGUU5cCmc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Otro Mundo](https://open.spotify.com/album/59Vhmr9cg38yiXZwUgxfQZ) | 3:01 |
+| 29 | [Te Perdono](https://open.spotify.com/track/6TNp0Npc9NP2NKznr1Xb4Y) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Highway](https://open.spotify.com/album/1XdnsguIr95QPVg7lZ45rm) | 3:24 |
 | 30 | [Por Ella \(Poco A Poco\)](https://open.spotify.com/track/4WWITxzEgGZJcB1JyzPvbc) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 4:03 |
 | 31 | [Contigo](https://open.spotify.com/track/4uvXexDPkF0gV2K6sqNYDV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 3:25 |
 | 32 | [Robarte un Beso](https://open.spotify.com/track/2I8JurbSZR2wjQnP4T87SO) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [2011](https://open.spotify.com/album/0iKVh2YiP0Ah83V4T2U1Lr) | 3:13 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 37 | [Basto](https://open.spotify.com/track/2fDA3Ws2IgRRvJL3N3cg21) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:38 |
 | 38 | [Es Mejor Decir Adiós](https://open.spotify.com/track/0YwdU9eCFz14gpy93jvrRV) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X](https://open.spotify.com/album/66JS64FD7dhGEKIHo2Uizr) | 4:20 |
 | 39 | [Aire](https://open.spotify.com/track/1a8vNLzmwmy31iCT45MNkF) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 4:03 |
-| 40 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 |
-| 41 | [Dímelo](https://open.spotify.com/track/5X7kFGFvw85zvg64IjJp4G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:38 |
+| 40 | [Dímelo](https://open.spotify.com/track/5X7kFGFvw85zvg64IjJp4G) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [En Peligro De Extinción](https://open.spotify.com/album/0nKSgzMBxxghnjJATsPm2Z) | 4:38 |
+| 41 | [¿A Dónde Estabas?](https://open.spotify.com/track/0Lq5wNcegxCGz7glMbUBNn) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Nuestro Destino Estaba Escrito](https://open.spotify.com/album/5XlC9twRLfKfmO0hMJAsmB) | 3:35 |
 | 42 | [Con Mis Alas Rotas](https://open.spotify.com/track/0oLxCakblNFiYlAaZjLwU1) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Es Para Ti](https://open.spotify.com/album/1kV7jDTxmrdblp3QD0ypND) | 3:36 |
 | 43 | [Si Se Acabó El Amor](https://open.spotify.com/track/6Q81FQKs8frictojPGC91p) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:53 |
 | 44 | [Dejate Amar](https://open.spotify.com/track/5iveqz8wifjSPTBWwOtSiI) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [X \(Vol\. 2\)](https://open.spotify.com/album/410rRXK2ZRpUWNv37vUSy2) | 4:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0wUpCE.md) - [plain]
 | 50 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 |
 | 51 | [Mi Castigo](https://open.spotify.com/track/1SlD0IINVTsQEctNYIEFhr) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Modus Operandi](https://open.spotify.com/album/7zzc54afmjSxp7ozFkD8IJ) | 4:18 |
 
-Snapshot ID: `ZtZRgAAAAADGrWuHWf6hvasxk3XVSk5j`
+Snapshot ID: `ZtejAAAAAAAe9ChxTL1R2H+FzBLYl30C`

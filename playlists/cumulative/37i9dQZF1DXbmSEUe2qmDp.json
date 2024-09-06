@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "40 Garrafas",
+        "url": "https://open.spotify.com/album/59Yc5o0QtN9zfWzYyN87oW"
+      },
+      "artists": [
+        {
+          "name": "Benatti & Rafael",
+          "url": "https://open.spotify.com/artist/6caWlqKRJ83aET3n7zjlQz"
+        },
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190571,
+      "name": "40 Garrafas",
+      "url": "https://open.spotify.com/track/0JxnzORQ9GdQpFtNLfzc5q"
+    },
+    {
+      "album": {
         "name": "Quand\u00e9 F\u00e9 Bebi, Ep. 4 (Ao Vivo)",
         "url": "https://open.spotify.com/album/76JHtXz23yAdLWgbdOj5Qm"
       },
@@ -242,7 +264,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 179367,
       "name": "Biscoito - Ao Vivo",
       "url": "https://open.spotify.com/track/7bwy2SMcHAf1nfy1C297Oj"
@@ -340,7 +362,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 180605,
       "name": "Casinha",
       "url": "https://open.spotify.com/track/7pi1FjqCvv3wVr55MsDPqP"
@@ -406,6 +428,50 @@
       "duration_ms": 251393,
       "name": "Chorei no Sinal",
       "url": "https://open.spotify.com/track/6aTO59jOFsmS1Vgjg9Ehlg"
+    },
+    {
+      "album": {
+        "name": "Chupadinha de Menta",
+        "url": "https://open.spotify.com/album/7aS2AS5p4vncgohWAmY2zE"
+      },
+      "artists": [
+        {
+          "name": "Caio e Ot\u00e1vio",
+          "url": "https://open.spotify.com/artist/3jX1O8Ovb83UemrMnLBpIH"
+        },
+        {
+          "name": "Felipe & Murillo",
+          "url": "https://open.spotify.com/artist/7Dz1HatpprkP9lmZIezKiE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172842,
+      "name": "Chupadinha de Menta",
+      "url": "https://open.spotify.com/track/6UJBFaizlU3gTKIOQbnF1O"
+    },
+    {
+      "album": {
+        "name": "Coadjuvante - Ao Vivo",
+        "url": "https://open.spotify.com/album/29CMlxa9SsWK2pRI2mu1Ut"
+      },
+      "artists": [
+        {
+          "name": "Dani Kramar",
+          "url": "https://open.spotify.com/artist/66cud0YzAQGjDJ43cfbTHE"
+        },
+        {
+          "name": "Thiago & Graciano",
+          "url": "https://open.spotify.com/artist/0ECZ1gcdRnPXN4Bf1P8odD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174075,
+      "name": "Coadjuvante - Ao Vivo",
+      "url": "https://open.spotify.com/track/0pKd7T2l96lPOnzBKYO5hs"
     },
     {
       "album": {
@@ -486,7 +552,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 243813,
       "name": "Curvas Da Ta\u00e7a",
       "url": "https://open.spotify.com/track/3qzlO5b31Bj3BMhvN2KqQx"
@@ -654,7 +720,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 139216,
       "name": "Elas Entenderam",
       "url": "https://open.spotify.com/track/7yu0Jr37G9rPBIFPbIkV2i"
@@ -796,7 +862,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193623,
       "name": "Faz Um Favorz\u00e3o",
       "url": "https://open.spotify.com/track/09J97Q4oJ2ifMWbi3IG88O"
@@ -1120,7 +1186,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 144864,
       "name": "Maquininha - Solta a Voz e Vem Com N\u00f3is, Ao Vivo",
       "url": "https://open.spotify.com/track/4zyCb6oVYHeWkxrsqxXNzP"
@@ -1138,7 +1204,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177345,
       "name": "menina durona",
       "url": "https://open.spotify.com/track/3p3SvFut1bQXsdGScEDILQ"
@@ -1542,10 +1608,6 @@
         {
           "name": "Jo\u00e3o Pedro e Fellipe",
           "url": "https://open.spotify.com/artist/4HN8GLpL6Vie0xgKDEtpSN"
-        },
-        {
-          "name": "Workshow",
-          "url": "https://open.spotify.com/artist/6YjAtmEF0HcwMnKYSHSDDJ"
         }
       ],
       "date_added": "2024-06-28",
@@ -1630,7 +1692,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 337125,
       "name": "Playlist Aleat\u00f3ria",
       "url": "https://open.spotify.com/track/3dYTq032KmmGfaUbAmo4TI"
@@ -1684,7 +1746,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 257380,
       "name": "Pra Desbotar a Saudade / Um Dia de Domingo - Sem Edi\u00e7\u00e3o, Ao Vivo",
       "url": "https://open.spotify.com/track/3Tto4rwHGb8Exa15XRHSDn"
@@ -2344,6 +2406,28 @@
       "duration_ms": 158296,
       "name": "T\u00e1 Foragida",
       "url": "https://open.spotify.com/track/7qIqvK4PUghMpqkrOquBwA"
+    },
+    {
+      "album": {
+        "name": "SE FOR CAIR, DEITA! - Ao Vivo",
+        "url": "https://open.spotify.com/album/6CeSDpjsyAwYi7MpmWpZWh"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio & Gabriel",
+          "url": "https://open.spotify.com/artist/6W8lIDVtT482jEILmtOYj3"
+        },
+        {
+          "name": "J\u00falia & Rafaela",
+          "url": "https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162115,
+      "name": "Uma Hora Dessas - Ao Vivo",
+      "url": "https://open.spotify.com/track/50JrS8naXwhbHvc5nI6r82"
     },
     {
       "album": {

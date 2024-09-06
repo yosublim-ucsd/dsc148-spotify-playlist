@@ -980,7 +980,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 229000,
       "name": "Deli",
       "url": "https://open.spotify.com/track/0pGSMJUKF5WSkv3biaKscJ"
@@ -2903,6 +2903,28 @@
     },
     {
       "album": {
+        "name": "Goodbye Egypt",
+        "url": "https://open.spotify.com/album/4i5AUa3AQLCSlsjIooR8ro"
+      },
+      "artists": [
+        {
+          "name": "Cidtronyck",
+          "url": "https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS"
+        },
+        {
+          "name": "Gronex",
+          "url": "https://open.spotify.com/artist/055fOIKrbtC2UmnVrPfGPb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245454,
+      "name": "Nefertiti",
+      "url": "https://open.spotify.com/track/5iCXq3R8G9ZG9OMa4QrOk5"
+    },
+    {
+      "album": {
         "name": "No Le Bajes",
         "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
       },
@@ -4580,7 +4602,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 233423,
       "name": "UNITY CYPHER-ONE",
       "url": "https://open.spotify.com/track/05PcZv3YVnzfg0ZQYJdniI"
@@ -4900,6 +4922,28 @@
       "duration_ms": 187399,
       "name": "Ya Vendr\u00e1n",
       "url": "https://open.spotify.com/track/3DaYKu6C2R6VoK1az8qBu9"
+    },
+    {
+      "album": {
+        "name": "Yeti",
+        "url": "https://open.spotify.com/album/20wLFfUJyqL0hLf9a9Sl4I"
+      },
+      "artists": [
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Catalina y Las Bordonas de Oro",
+          "url": "https://open.spotify.com/artist/0ejFAAwLS7hDXNPksYkhpH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173830,
+      "name": "Yeti",
+      "url": "https://open.spotify.com/track/0fnKJ9UiTyAuhYTmL2yrup"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 
 > New and trending hip\-hop from around the world\. Cover: Central Cee 🇬🇧 & JRK 19 🇫🇷
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,747 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,834 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sQHbtx0sdt.md) - [plain]
 | 63 | [Addicted](https://open.spotify.com/track/2tCGA7eGKeXXAKS1DCxx9k) | [Brandz](https://open.spotify.com/artist/1I2O1hTFF1JXLnuvIn2IXl) | [Addicted](https://open.spotify.com/album/3PSgrVSIYeWDBhtNfTLhqa) | 2:15 |
 | 64 | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/track/0AyUide4aAlvuQB76Zj4GR) | [La Zona](https://open.spotify.com/artist/0dapCwy3FCdgJb0yGCN4qQ), [ACHIM](https://open.spotify.com/artist/48cu2msOlKJZfmTxeYLkuZ), [Huda](https://open.spotify.com/artist/5NnVq8GhEz24ecoViL85Do) | [La vida pasa \(Freestyle \#13\)](https://open.spotify.com/album/0FqPmjoAhmyG0uYEyf33qr) | 2:43 |
 | 65 | [We Be Killing it](https://open.spotify.com/track/220vekezDsEdQz8PZrmfCn) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Safar](https://open.spotify.com/album/1XknSuKMvGyfUWEf1TrrsO) | 2:45 |
-| 66 | [MOZZA](https://open.spotify.com/track/16u1uzODmSjeiT0lLSKWTy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [الجلسة الاولى: إنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
+| 66 | [MOZZA](https://open.spotify.com/track/16u1uzODmSjeiT0lLSKWTy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [مرحلة الإنكار](https://open.spotify.com/album/7G4Q5iVg1SpWgM2nylODkr) | 2:28 |
 | 67 | [Old Money](https://open.spotify.com/track/4WLDaQ8AgSwUgFoPzJkAYK) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [Old Money](https://open.spotify.com/album/2f8hk48Uin6SFQyMKw7AIp) | 2:08 |
 | 68 | [Blocco](https://open.spotify.com/track/53XOl5fbG1dxv8JNB8VkdS) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Décennie](https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA) | 3:01 |
 | 69 | [LA PRIMERA VEZ](https://open.spotify.com/track/2ShZFahITlEHv8xDNvzdG4) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [LA PRIMERA VEZ](https://open.spotify.com/album/7GDhpu34fz9fUPoQ6sdNp0) | 2:51 |

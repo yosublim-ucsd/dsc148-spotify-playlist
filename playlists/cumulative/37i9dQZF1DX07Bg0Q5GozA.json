@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Leyya\n",
+  "description": "New music off the beaten track. Cover: Mano Le Tough, Perel\n",
   "name": "OFF POP",
   "tracks": [
     {
@@ -150,6 +150,32 @@
       "duration_ms": 312405,
       "name": "32 Floors - Alex Metric Remix",
       "url": "https://open.spotify.com/track/77HbaJgKovG8qNiKDDmOLY"
+    },
+    {
+      "album": {
+        "name": "6' Pole",
+        "url": "https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0"
+      },
+      "artists": [
+        {
+          "name": "Safe Mind",
+          "url": "https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts"
+        },
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        },
+        {
+          "name": "LUCY (Cooper B. Handy)",
+          "url": "https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235087,
+      "name": "6' Pole",
+      "url": "https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v"
     },
     {
       "album": {
@@ -487,6 +513,24 @@
     },
     {
       "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233397,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn"
+    },
+    {
+      "album": {
         "name": "All Night (David Bay Remix)",
         "url": "https://open.spotify.com/album/3ANMqFaekbl9w4qFZj4Pdq"
       },
@@ -568,7 +612,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
@@ -2874,7 +2918,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 169545,
       "name": "Cyclone",
       "url": "https://open.spotify.com/track/2fT4QsF8AWnQIsseRXkLMl"
@@ -3337,6 +3381,28 @@
     },
     {
       "album": {
+        "name": "Die Maschine",
+        "url": "https://open.spotify.com/album/6a0AmCr0hnHYZp9FzQMw2i"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "Friedrich Liechtenstein",
+          "url": "https://open.spotify.com/artist/5oIljAPYFD1SnbT8024cIV"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 527282,
+      "name": "Die Maschine",
+      "url": "https://open.spotify.com/track/1Q2uov0aJcwzcGbDr1aDT0"
+    },
+    {
+      "album": {
         "name": "Digging Deeper",
         "url": "https://open.spotify.com/album/0bZtJTjE90SXIW0PIChpnl"
       },
@@ -3726,7 +3792,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 182761,
       "name": "Double",
       "url": "https://open.spotify.com/track/6VNvyzWcgWUKsV7MkINTQQ"
@@ -4194,6 +4260,28 @@
       "duration_ms": 240053,
       "name": "Enjoy Your Life",
       "url": "https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS"
+    },
+    {
+      "album": {
+        "name": "Entertain Us",
+        "url": "https://open.spotify.com/album/1mdnKroiqVM3icONIuw6xR"
+      },
+      "artists": [
+        {
+          "name": "Mano Le Tough",
+          "url": "https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp"
+        },
+        {
+          "name": "Perel",
+          "url": "https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358250,
+      "name": "Entertain Us",
+      "url": "https://open.spotify.com/track/1cOMGFQ6hMy0Eo97k6elcz"
     },
     {
       "album": {
@@ -4760,7 +4848,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 229903,
       "name": "Feeling Alive",
       "url": "https://open.spotify.com/track/3wuKHGGrJ4DFXpd7Hrptrl"
@@ -5514,7 +5602,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213333,
       "name": "Garmonbozia",
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
@@ -8065,6 +8153,28 @@
     },
     {
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260997,
+      "name": "just stand there",
+      "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
+    },
+    {
+      "album": {
         "name": "Just The Once",
         "url": "https://open.spotify.com/album/1GdDtwpkl0nQPormpkSiD5"
       },
@@ -8642,6 +8752,24 @@
       "duration_ms": 190080,
       "name": "Let's Break It Down",
       "url": "https://open.spotify.com/track/29HtjUMEeeAS0y2JdsXhO1"
+    },
+    {
+      "album": {
+        "name": "Let's Go Back",
+        "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169651,
+      "name": "Let's Go Back",
+      "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
     },
     {
       "album": {
@@ -9734,7 +9862,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 148689,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
@@ -11089,6 +11217,24 @@
     },
     {
       "album": {
+        "name": "Number One",
+        "url": "https://open.spotify.com/album/2VUF1kPLKLvgWgnxrX8If3"
+      },
+      "artists": [
+        {
+          "name": "\u00c4TNA",
+          "url": "https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180223,
+      "name": "Number One",
+      "url": "https://open.spotify.com/track/0gb6KfibP8ehI8JSjScGpc"
+    },
+    {
+      "album": {
         "name": "Trio Mocoto",
         "url": "https://open.spotify.com/album/54jgQWkGJXWZTWuJ27h3HX"
       },
@@ -11190,7 +11336,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 190352,
       "name": "Ode",
       "url": "https://open.spotify.com/track/7i99euN6scE3ukkEuy3jYl"
@@ -11270,6 +11416,28 @@
       "duration_ms": 154434,
       "name": "OKALRIGHTISEEYOU",
       "url": "https://open.spotify.com/track/3PkRzJh41SCMUc2JRJXFR0"
+    },
+    {
+      "album": {
+        "name": "On Our Side",
+        "url": "https://open.spotify.com/album/0kMmCW614qRHZEGYG27yFZ"
+      },
+      "artists": [
+        {
+          "name": "narou",
+          "url": "https://open.spotify.com/artist/4WZfEIgHLAMmAxATgVjspH"
+        },
+        {
+          "name": "Mulay",
+          "url": "https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "On Our Side",
+      "url": "https://open.spotify.com/track/4vwqDJxQNwdGswNnygVehe"
     },
     {
       "album": {
@@ -13447,6 +13615,32 @@
     },
     {
       "album": {
+        "name": "Smalltown Boy (feat. Perfume Genius)",
+        "url": "https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274920,
+      "name": "Smalltown Boy (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
+    },
+    {
+      "album": {
         "name": "Smalltown Boy - Planningtorock's 'The Love That You Need' Rework",
         "url": "https://open.spotify.com/album/68eT8PNa2lmvX5tKdhJSjM"
       },
@@ -13644,7 +13838,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 271502,
       "name": "Something",
       "url": "https://open.spotify.com/track/05QG0OFlJ6c1CLRDad6MLh"
@@ -14802,7 +14996,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 256381,
       "name": "The Feeling You Get",
       "url": "https://open.spotify.com/track/79RIg06Di0CfLaLBy6a8Pu"
@@ -15753,6 +15947,24 @@
     },
     {
       "album": {
+        "name": "Baggy$$",
+        "url": "https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk"
+      },
+      "artists": [
+        {
+          "name": "Fcukers",
+          "url": "https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152253,
+      "name": "UMPA",
+      "url": "https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s"
+    },
+    {
+      "album": {
         "name": "Jardin",
         "url": "https://open.spotify.com/album/3gLXNVaVPGv7TCmyRnVgky"
       },
@@ -16192,7 +16404,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 176049,
       "name": "Wait on You",
       "url": "https://open.spotify.com/track/5LxSIqwKj8HAFsn2yZVm8O"

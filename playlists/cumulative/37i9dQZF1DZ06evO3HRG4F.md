@@ -2,7 +2,7 @@
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This is Charlie Monttana\. The essential tracks, all in one playlist.
+> This is Charlie Monttana\. Todos os maiores hits em uma só playlist.
 
 66 songs - 4 hr 28 min
 
@@ -29,7 +29,7 @@
 | [Hipócrita](https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 4:11 | 2023-01-14 |  |
 | [Hotel](https://open.spotify.com/track/3dYIbbqwLf6WpnnfhqriCG) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:54 | 2023-01-14 |  |
 | [Intro + 4 de Febrero \- En Vivo](https://open.spotify.com/track/4aLRC12MxcILsD7ohiY4Ff) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 4:26 | 2023-05-22 | 2024-01-29 |
-| [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 |  |
+| [La Cita](https://open.spotify.com/track/2ndf2BC45Q69FCa4rPJXX0) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 3:23 | 2023-01-14 | 2024-09-06 |
 | [La Niña del Acordeón](https://open.spotify.com/track/5RUjpiH4aVDzpCJ5GQfE4p) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rockin' And Rollin'](https://open.spotify.com/album/2NSURyToNLKlRwUM1AS3x0) | 3:40 | 2024-01-28 | 2024-01-30 |
 | [La Rubia](https://open.spotify.com/track/2RO5Hsd5RjsjNTPZ9KP8Y5) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Sé Lo Que Hicieron el Disco Pasado \(Del Creador de Suicida\)](https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm) | 2:55 | 2023-01-14 |  |
 | [La Última Carta](https://open.spotify.com/track/5YBgsFJou4PLqaBSuO9YSJ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Rock Star](https://open.spotify.com/album/0W1YVfPwlRyB1WpkptmtbA) | 5:13 | 2023-09-15 | 2024-06-10 |
@@ -59,7 +59,7 @@
 | [Tocando el Cielo](https://open.spotify.com/track/4q0iHgSQgyeFtkc0DbWFq7) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:33 | 2023-01-14 |  |
 | [Tocando el Cielo](https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [15 Grandes Éxitos](https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0) | 3:35 | 2023-11-10 | 2024-03-29 |
 | [Todas Esas Lagrimas \- En Vivo](https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [En Vivo, Vol\. 1 \(En el Teatro Isabela Corona\)](https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue) | 5:20 | 2023-01-14 |  |
-| [Todas Estas Lágrimas](https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Proceso: Mi Trabajo](https://open.spotify.com/album/6gJ7C6p4DifEuVGd4OjI5h) | 5:53 | 2024-03-01 | 2024-09-01 |
+| [Todas Estas Lágrimas](https://open.spotify.com/track/1Z0QjjwTN7ekP9sKkLdFJq) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Proceso: Mi Trabajo](https://open.spotify.com/album/6gJ7C6p4DifEuVGd4OjI5h) | 5:53 | 2024-03-01 |  |
 | [Todos Estos Años](https://open.spotify.com/track/3RyPPIzLHpXG8bIw4SVItO) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 1](https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9) | 3:43 | 2023-01-14 |  |
 | [Tu Mamá No Me Quiere](https://open.spotify.com/track/0cDbBduK0f4n0WBQjThaYV) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Todos Estos Años, Vol\. 2](https://open.spotify.com/album/6uqtNBebkhBdxig3ewSyl5) | 4:02 | 2023-01-14 |  |
 | [Tu Mirada](https://open.spotify.com/track/6o2XrtJNdOuiOuPYkMBUpQ) | [Charlie Monttana](https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv) | [Hotel Barcelona](https://open.spotify.com/album/6bciz5nlieWUNMpPJXqwcT) | 3:41 | 2023-01-14 |  |

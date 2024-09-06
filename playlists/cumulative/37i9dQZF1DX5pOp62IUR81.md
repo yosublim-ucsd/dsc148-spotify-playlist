@@ -4,7 +4,7 @@
 
 > Go inside the music from the Marvel worlds that you love!
 
-187 songs - 7 hr 58 min
+188 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [I Love You Guys](https://open.spotify.com/track/78ij1ARRZ7DlnikdAxqtVu) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Guardians of the Galaxy Vol\. 3 \(Original Score\)](https://open.spotify.com/album/4WrDwO2xf0pxNmrQpb7e5q) | 2:15 | 2024-01-05 |  |
 | [In The Dark \(with Jhené Aiko\)](https://open.spotify.com/track/0zaoWwS8RpE3LSDdmkg8TC) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Shang\-Chi and The Legend of The Ten Rings: The Album](https://open.spotify.com/album/2kAqjStKcwlDD59H0llhGC) | 2:41 | 2024-01-05 |  |
 | [Infinity War](https://open.spotify.com/track/51Amo7fyI2jL3sf2UgX75i) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Infinity War \(Original Motion Picture Soundtrack / Deluxe Edition\)](https://open.spotify.com/album/6Ltf5m1jvSomNQ0bhfuj5O) | 2:35 | 2024-01-05 |  |
+| [Iron Man \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/track/6aptHccREaN8qfxJBQFrCx) | [Marvel Chorus](https://open.spotify.com/artist/63KXngPaFXJtGolZzKpRln) | [Iron Man \(1966 Theme\) \- 2024 Stereo Remaster](https://open.spotify.com/album/4GbxSvZN0SkeulVJY3XBf9) | 0:56 | 2024-09-05 |  |
 | [Iron Man 3](https://open.spotify.com/track/7u5XBHnht6dyoRXRBb5soK) | [Brian Tyler](https://open.spotify.com/artist/109FvbnDVNag1UcJDVpFlr) | [Iron Man 3 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7x6etI9jQ2ePxZUOQaPrbi) | 2:23 | 2024-01-05 |  |
 | [It Is Time](https://open.spotify.com/track/4bJXN7i3AtEA8C8JnXtS7u) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Eternals \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qBn8Lw72Fs6zWyA7yFrMn) | 2:17 | 2024-01-05 |  |
 | [Kaboom](https://open.spotify.com/track/6iGKLc3npqmbmWJzyIOESo) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD) | [What If...? \(Episode 7\) \[Original Soundtrack\]](https://open.spotify.com/album/5I4rXFyypt4FaRCtrAxcIS) | 0:40 | 2024-01-05 |  |

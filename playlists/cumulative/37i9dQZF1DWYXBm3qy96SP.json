@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-19",
-  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: The Last Dinner Party",
+  "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: Blink-182",
   "name": "Rock The World",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 260682,
       "name": "\"L\"",
       "url": "https://open.spotify.com/track/6bnM3mthxSY6fWrk15msxM"
@@ -4696,7 +4696,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 222154,
       "name": "Cat 5 (Cyclone)",
       "url": "https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg"
@@ -9890,7 +9890,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 261975,
       "name": "Hanya Ada Kegelapan yang Menunggumu Di Sana",
       "url": "https://open.spotify.com/track/0kMMtFGMNokZROdiK6uG4x"
@@ -11354,6 +11354,24 @@
       "duration_ms": 245648,
       "name": "I Won\u2019t Run",
       "url": "https://open.spotify.com/track/1HrOEzhY9igRiYqCRQbEyA"
+    },
+    {
+      "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
       "album": {
@@ -15404,7 +15422,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 256575,
       "name": "New Grass",
       "url": "https://open.spotify.com/track/6rGTmMhEP1AXESNERAyNLx"
@@ -19057,6 +19075,24 @@
     },
     {
       "album": {
+        "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
+        "url": "https://open.spotify.com/album/4t3hIBsq1eZB5FVVw1Ti9W"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274533,
+      "name": "Sad Song - Mauldeth Road West Demo, Nov' 92",
+      "url": "https://open.spotify.com/track/0dABTXRfWoMmWD43T66KZI"
+    },
+    {
+      "album": {
         "name": "Salivate",
         "url": "https://open.spotify.com/album/5wEDBwUDtEWwuPKTT8Y77g"
       },
@@ -21643,6 +21679,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+    },
+    {
+      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -22140,6 +22194,24 @@
       "duration_ms": 225946,
       "name": "The Dumb Song",
       "url": "https://open.spotify.com/track/5udkv8BEG1sAN5ZtR6CAzv"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -25418,7 +25490,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193281,
       "name": "Yo Me Estreso",
       "url": "https://open.spotify.com/track/5z6gkiZKHoy0T4Ybs8iPZw"
@@ -25918,7 +25990,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 286173,
       "name": "\u00a71 - Radio Edit",
       "url": "https://open.spotify.com/track/1wkWkXCdHR4nGViHA3I9Yc"

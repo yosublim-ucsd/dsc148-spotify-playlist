@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: אלון עדר
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,176 likes - 60 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,182 likes - 60 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 33 | [תן סימן](https://open.spotify.com/track/51Mk3S1G3YmcF6oHujOyJW) | [יושי](https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ) | [תן סימן](https://open.spotify.com/album/1eAZyULyRT2BgAaWSfdjku) | 2:39 |
 | 34 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 |
 | 35 | [מתחיל להתעורר](https://open.spotify.com/track/5deZW0Kieaq1KyMJLZpAcF) | [Ehud Banai](https://open.spotify.com/artist/0qdbc8V1HlLub2jB2UJCPk) | [מתחיל להתעורר](https://open.spotify.com/album/4pjAc6ct45RTh4wVxh5Voq) | 6:02 |
-| 36 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:33 |
+| 36 | [מעונה לעונה](https://open.spotify.com/track/22jXWfwJBMhBXgA9rVDffX) | [Eviatar Banai](https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB) | [מעונה לעונה](https://open.spotify.com/album/05Fd43H9kijfdRJECTCYBV) | 3:34 |
 | 37 | [Until The Morning](https://open.spotify.com/track/5EMgxRd9V5ARW4b3aRol1L) | [Gabriel Guy](https://open.spotify.com/artist/20kc19j4AJlDbl2GEBpqKg) | [Until The Morning](https://open.spotify.com/album/6e1fxnLrU2cp5GxPbko4Oq) | 2:31 |
 | 38 | [תולה את הנעליים](https://open.spotify.com/track/3aQpw97YFj1zgEx3cXenED) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [תולה את הנעליים](https://open.spotify.com/album/27TpWs5Id4y8Rg4ElHes1y) | 3:40 |
 | 39 | [נהרות ומפלים](https://open.spotify.com/track/3gpfzYhbbxaHlgbDQsPCON) | [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e) | [נהרות ומפלים](https://open.spotify.com/album/4TKOCUq3Ya9j4mI2eQe0NG) | 3:38 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41IYVoQd4Sa.md) - [plain]
 | 57 | [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 |
 | 58 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 |
 | 59 | [החיים שלי פיגוע יפיפה](https://open.spotify.com/track/6mJzamOGdc5LmVNpCRuQ5X) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [החיים שלי פיגוע יפיפה](https://open.spotify.com/album/0QXun3wB20gm0vOZ0KfGWZ) | 4:49 |
-| 60 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 |
+| 60 | [כנפי רוח](https://open.spotify.com/track/5V8d8fQGZrGmDxAj9RaKMW) | [Pulkes](https://open.spotify.com/artist/3GuD5lqoDUYEPVx5lyC5gP), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [כנפי רוח](https://open.spotify.com/album/0zFt4df2XFaUozjI276G9U) | 3:59 |
 
-Snapshot ID: `Zsem0AAAAABpW2voLdnEs/Fe7rAy57MW`
+Snapshot ID: `ZtocDAAAAAA/RRDwRyLSfswjb/xSUfb0`

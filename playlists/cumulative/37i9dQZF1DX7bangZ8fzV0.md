@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj?si=VrBl2LsXSg\-1srU\-DCReDg">Danny Smoke</a>
+> Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/3TNxvHZvTgeosFCIYz1BUu?si=DaXZrLYRQAicawY7XgZAuw">Prop</a>
 
 237 songs - 13 hr 14 min
 

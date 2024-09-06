@@ -2,9 +2,9 @@
 
 ### [Int 'o Rione](https://open.spotify.com/playlist/37i9dQZF1DWYrg01Xmlew6)
 
-> Rap napoletano e il meglio della scena campana\. Cover: Cosang
+> Rap napoletano e il meglio della scena campana\. Cover: Frezza
 
-360 songs - 16 hr 43 min
+361 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Colpa Mia](https://open.spotify.com/track/7qFqO4ytYYQCYRO8j13nIG) | [Nicola Siciliano](https://open.spotify.com/artist/0q0CTttRdwiuDFmDiN7jAt) | [Colpa Mia](https://open.spotify.com/album/0Wp77ioPW3AFkhEEcXKM2P) | 2:54 | 2024-01-25 | 2024-05-10 |
 | [Comandamento \(feat\. Geolier\)](https://open.spotify.com/track/3qWKjLK0EKxylouzVaiTwh) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 3:09 | 2022-05-10 | 2022-08-13 |
 | [COME VUOI](https://open.spotify.com/track/5x9LonDyHxGUO2VzfHJHLE) | [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [IL CORAGGIO DEI BAMBINI](https://open.spotify.com/album/5FAlSQMZ4j8pPa4sp0ZB4K) | 2:52 | 2023-01-12 | 2024-03-22 |
+| [CONTIGO](https://open.spotify.com/track/7vTumt1u4yB2ysy3TID5L6) | [Lele Blade](https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz) | [CONTIGO](https://open.spotify.com/album/22WUKu41Q78VgqeE49z2zT) | 2:30 | 2024-09-05 |  |
 | [CREATUR](https://open.spotify.com/track/3x3zzu71pDb02u6bOtTDvh) | [Pit](https://open.spotify.com/artist/5dO2ChPqNYjEyy3wXA5R0A) | [CREATUR](https://open.spotify.com/album/3HPRHm1cSto7dT0mhzFEB4) | 2:37 | 2023-06-01 | 2023-06-15 |
 | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/147hzs261FAZBpwfQkOUCL) | [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu) | [CRIATUR \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/4v2vbwWe9ongpkfgLJDbir) | 2:54 | 2024-03-06 | 2024-05-10 |
 | [Cuore](https://open.spotify.com/track/0d16j8Dro7bPysTqCC41gx) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Cuore](https://open.spotify.com/album/2QuV4BJfv91iB4alvddypY) | 3:22 | 2022-06-23 | 2022-11-18 |
@@ -240,7 +241,7 @@
 | [Pane e miseria](https://open.spotify.com/track/73zmaeL2sXpoc9gsWQ38Fx) | [Luis Add](https://open.spotify.com/artist/3oMuALMGNkRZ5OZaktx8s0), [Pino Franzese](https://open.spotify.com/artist/0l0FOScVlsDoqviZiYCJpo) | [Pane e miseria](https://open.spotify.com/album/2QGUAAI0ygmYQ6nBjqlydS) | 2:57 | 2023-01-19 | 2023-10-06 |
 | [Parln e me](https://open.spotify.com/track/42K8rB0IhO0NzPTZNm7QNq) | [Lil Tony](https://open.spotify.com/artist/5scZI5Lpqp6uijn5kCXCEZ), [Kid Lost](https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu), [Sam Beats Baby](https://open.spotify.com/artist/1fphGmGC35v82kdBFDbmNf) | [Parln e me](https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i) | 2:35 | 2022-05-10 | 2022-09-30 |
 | [PARTENOPE](https://open.spotify.com/track/60NC3OqjiISKBYbscb8vW3) | [LIBERATO](https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW) | [LIBERATO II](https://open.spotify.com/album/2C6181H1enBSZDL8kbhUXQ) | 3:37 | 2022-05-10 | 2023-09-29 |
-| [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 | 2024-03-05 |  |
+| [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/track/3o7Wj9qmWwV1mnnouU3krc) | [JELECROIS](https://open.spotify.com/artist/2kZAbjn3zWasP4zuwk0QAP) | [Partenope \(From the Netflix Rap Show “Nuova Scena”\)](https://open.spotify.com/album/1ONWmXCcVhTpI6qmpOZrTo) | 3:16 | 2024-03-05 | 2024-09-06 |
 | [Password](https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 2:45 | 2022-05-10 | 2022-07-29 |
 | [Password](https://open.spotify.com/track/4mKhK3oDQoFvZc3LsqDKfm) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/3cWKB68DH7QRVdoWEjdu8F) | 2:45 | 2022-07-28 | 2022-08-05 |
 | [Password](https://open.spotify.com/track/78fu3G69lVmwRdce8RuuYf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Dove Volano Le Aquile](https://open.spotify.com/album/2fheBMJ0R15riUbISACz2F) | 2:45 | 2022-11-03 | 2023-05-11 |

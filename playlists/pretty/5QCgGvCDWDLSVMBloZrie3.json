@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "AAAE3ZH1uNL+/Bq7e8al2T1IvJUmtrMi",
+  "snapshot_id": "AAAE3kOtTBmBbPXflIjepuyGD8TyNI5e",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -7243,6 +7243,22 @@
       "duration_ms": 206295,
       "name": "Don\u2019t Smile",
       "url": "https://open.spotify.com/track/09LrGvT9KsACH66RHYMDyR"
+    },
+    {
+      "added_at": "2024-09-05 23:50:00",
+      "album": {
+        "name": "Walk to Midnight",
+        "url": "https://open.spotify.com/album/70srRlaI7hVqXB7jD4OSBT"
+      },
+      "artists": [
+        {
+          "name": "Melt",
+          "url": "https://open.spotify.com/artist/0G7KI9I5BApiXc5Sqpyil9"
+        }
+      ],
+      "duration_ms": 186263,
+      "name": "Walk to Midnight",
+      "url": "https://open.spotify.com/track/4SiwVyRC37B6HsqMyLgxgk"
     }
   ],
   "unique_name": "main playlist",

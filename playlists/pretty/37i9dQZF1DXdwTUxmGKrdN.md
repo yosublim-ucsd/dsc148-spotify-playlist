@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,098 likes - 150 songs - 10 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,143 likes - 150 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,6 +157,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 147 | [Forever Yours](https://open.spotify.com/track/3A8ZJNLPBYKLt2r1pbRKeQ) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Retro Forward](https://open.spotify.com/album/6UHWGNhNxr24TCqUVUkUTh) | 4:09 |
 | 148 | [Workin'](https://open.spotify.com/track/73PMlacQVhln12IqZi16ep) | [Jazz Holdouts](https://open.spotify.com/artist/1opzXqZeqkYLVzBsXw45qJ) | [Workin'](https://open.spotify.com/album/4A7dd18P9hBcBImg4tf3np) | 4:06 |
 | 149 | [Consequences](https://open.spotify.com/track/6yLOYaqyHjHBiAIGwEj1Xt) | [Marion Meadows](https://open.spotify.com/artist/46PWlvjKg5zNakteW1CJkG) | [Soul City](https://open.spotify.com/album/4wjBRmKPL5VVnLwEBZ0GtR) | 3:56 |
-| 150 | [Personal Touch](https://open.spotify.com/track/5eMbgx0rjKqcCkWfBGYM83) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Personal Touch](https://open.spotify.com/album/7zo6MlgisQqNHORy6SqYXb) | 3:44 |
+| 150 | [All Jazzed Up \(And Nowhere To Go\)](https://open.spotify.com/track/5vR4spKdyVXwP5DFUkM6yD) | [Everette Harp](https://open.spotify.com/artist/7LQBzOrln4d4D5EVAKK7LZ) | [My Inspiration](https://open.spotify.com/album/0tlHys9ZKolT2bHG8CvgyT) | 5:07 |
 
 Snapshot ID: `ZqcClAAAAADEL3v+0m2zNvdQ3mKfUi+Q`

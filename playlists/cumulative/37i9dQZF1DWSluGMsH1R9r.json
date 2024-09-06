@@ -3343,6 +3343,24 @@
     },
     {
       "album": {
+        "name": "Fireside",
+        "url": "https://open.spotify.com/album/4w1VRr8VTbdwyp1VfQ7mwK"
+      },
+      "artists": [
+        {
+          "name": "Aisen Voight",
+          "url": "https://open.spotify.com/artist/6qP2qRYduH4bCfMcSMiglb"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144291,
+      "name": "Fireside",
+      "url": "https://open.spotify.com/track/41A4bFgArMNz740zk0qOJD"
+    },
+    {
+      "album": {
         "name": "Firmamentum Mysteria",
         "url": "https://open.spotify.com/album/0wlyujvSVRp3g03vVoWPRt"
       },
@@ -4140,6 +4158,24 @@
       "duration_ms": 136500,
       "name": "Heartfelt",
       "url": "https://open.spotify.com/track/7hoho5MSIQZfluHupiNuq1"
+    },
+    {
+      "album": {
+        "name": "Heat Haze",
+        "url": "https://open.spotify.com/album/7GnAVNEg6jkv7xmQtdau9L"
+      },
+      "artists": [
+        {
+          "name": "Ferragno",
+          "url": "https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155921,
+      "name": "Heat Haze",
+      "url": "https://open.spotify.com/track/7cHs2bIhwUYR1GJKGZlUpF"
     },
     {
       "album": {
@@ -5922,7 +5958,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165767,
       "name": "Little Waltz",
       "url": "https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1"
@@ -9540,7 +9576,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195232,
       "name": "Sincerely",
       "url": "https://open.spotify.com/track/4AvIQWGzD3YoYi2BEAxegJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,203 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,213 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 85 | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/track/2gw0RI5FJUgLHZuyLFYAvx) | [90yonge St.](https://open.spotify.com/artist/1eJGTmb81YxxbykvAezg2r), [Jennifer Choi](https://open.spotify.com/artist/3W2mgO6CNMSZc9qD4J6nJQ) | [Kona \(feat\. Jennifer Choi\)](https://open.spotify.com/album/2O6Q3bYc8H7mi2NkED3LA7) | 3:35 |
 | 86 | [City](https://open.spotify.com/track/38qecpqjU5yzD7bFwU6GKL) | [정은재](https://open.spotify.com/artist/6hG6knn5PcWdv4hN0Yhvso) | [City](https://open.spotify.com/album/5tIUoIBCtGC1TYpuoZ2xIF) | 2:42 |
 | 87 | [My Universe \- Home Recording Project \#4](https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx) | [W24](https://open.spotify.com/artist/2SJQjeKXsMqPziotLsmEit) | [My Universe \- Home Recording Project \#4](https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk) | 3:20 |
-| 88 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
-| 89 | [Midnight \(feat\. SFC.JGR & B JYUN.\)](https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Midnight](https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t) | 3:32 |
+| 88 | [Midnight \(feat\. SFC.JGR & B JYUN.\)](https://open.spotify.com/track/3LYOTfdF9jyJXVcLvhZ8nz) | [IFI](https://open.spotify.com/artist/6BGkJaN8F1g3OjeOcxVlIB), [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ), [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1) | [Midnight](https://open.spotify.com/album/3zr4mIqRlBEh17j5w7hm1t) | 3:32 |
+| 89 | [NEPTUNE](https://open.spotify.com/track/0bb8pvRKp6Fa443FhuooU0) | [D’allant](https://open.spotify.com/artist/43twit4jxaRzr008CaVw3l) | [\[COSMOS\]](https://open.spotify.com/album/73mGtUdDaLFdLiTnxz0Lqf) | 3:33 |
 | 90 | [Afterlife \(Feat\. OOHYO\) \- Voradory Ver.](https://open.spotify.com/track/2CAZNT7E7ZZMDuJrh1f69Q) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:12 |
 | 91 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 |
 | 92 | [City Drive](https://open.spotify.com/track/1lKA6Qy1QbzSeF0Ec7iolp) | [Nahee](https://open.spotify.com/artist/5uTRxWUE0w5hHOui1lbQjD) | [City Drive](https://open.spotify.com/album/2oAZ4ieVQt9DWutbX2jKB1) | 3:27 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 97 | [Passing Light](https://open.spotify.com/track/0eXreZ3kZDgnqhvgXz6Mav) | [NO\_ON](https://open.spotify.com/artist/44CBCqoh0b32RmvSVB5Jiz) | [Passing](https://open.spotify.com/album/5oUO7dUg3pRcaO5SnpLef3) | 2:59 |
 | 98 | [Slide](https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4) | [Swing](https://open.spotify.com/artist/66bVJmfvszO59SwBAc4z9W), [Nene](https://open.spotify.com/artist/5LQjpbx0z9EONJHkWoDt0K) | [play ground](https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle) | 3:26 |
 | 99 | [I′m Alright](https://open.spotify.com/track/1EmSHvEUIwjzJOHXSXNhzj) | [QUDO](https://open.spotify.com/artist/5tlKesRTuMzjFhGMxoDRqf), [Sehwan Hong](https://open.spotify.com/artist/3djMK9mGuqKGYH4h9putId) | [INCHEON CITYPOP Vol\. 1](https://open.spotify.com/album/73rd6npj17FEsbxfNfEdJH) | 3:46 |
-| 100 | [Hope](https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [GFRIEND The 7th Mini Album \`FEVER SEASON\`](https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR) | 3:28 |
+| 100 | [LOVE SEEKER](https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ) | [JD](https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW) | [LOVE SEEKER](https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb) | 3:26 |
 
 Snapshot ID: `ZreMHQAAAAD+dDa5y+Kifis1zVJBL4GB`

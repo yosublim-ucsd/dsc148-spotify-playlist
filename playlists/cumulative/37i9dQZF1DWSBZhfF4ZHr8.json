@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Amir",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : DAYSY",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 184356,
       "name": "Adieu",
       "url": "https://open.spotify.com/track/1gDD9giByuHtgkprzQqUXN"
@@ -56,6 +56,24 @@
       "duration_ms": 147782,
       "name": "Am\u00e8re",
       "url": "https://open.spotify.com/track/2LKcg2tRu36P7WnvSeZSnX"
+    },
+    {
+      "album": {
+        "name": "Au dessus des nuages",
+        "url": "https://open.spotify.com/album/2hUw8a8vbQOWFLSYRYpwaT"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey",
+          "url": "https://open.spotify.com/artist/3kB7ObACEFRh7mKeB1RstK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149957,
+      "name": "Au dessus des nuages",
+      "url": "https://open.spotify.com/track/6ioB8gvjuMsrLxdlwJpeC1"
     },
     {
       "album": {
@@ -92,6 +110,24 @@
       "duration_ms": 149546,
       "name": "C'est \u00e7a la vie",
       "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
+    },
+    {
+      "album": {
+        "name": "Ces filles",
+        "url": "https://open.spotify.com/album/5NOBiapUgGKZvFOqNEoj6M"
+      },
+      "artists": [
+        {
+          "name": "Carla De Coignac",
+          "url": "https://open.spotify.com/artist/0S71ohbhoJii4mG4geSK2B"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183186,
+      "name": "Ces filles",
+      "url": "https://open.spotify.com/track/7sxkjio9AdWpCQb5MmCGiD"
     },
     {
       "album": {
@@ -248,6 +284,24 @@
       "duration_ms": 164154,
       "name": "Derniers humains",
       "url": "https://open.spotify.com/track/1hIiHu1M2Lb42pe8Nktbfx"
+    },
+    {
+      "album": {
+        "name": "Dis-le moi",
+        "url": "https://open.spotify.com/album/6Lzv3Nl0m09P73lFQkTrEc"
+      },
+      "artists": [
+        {
+          "name": "Valentina",
+          "url": "https://open.spotify.com/artist/0gEOgqLxlWc5L54Uvaku2S"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158205,
+      "name": "Dis-le moi",
+      "url": "https://open.spotify.com/track/7JI97inpI8UEflF3hsncqb"
     },
     {
       "album": {
@@ -453,6 +507,24 @@
     },
     {
       "album": {
+        "name": "15h22",
+        "url": "https://open.spotify.com/album/5KKMlk879ZC5yHDMsNpMq1"
+      },
+      "artists": [
+        {
+          "name": "Sylvain Duthu",
+          "url": "https://open.spotify.com/artist/7mlvN5fTEjTUBLuUbUPpW6"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199160,
+      "name": "Hyper",
+      "url": "https://open.spotify.com/track/0np3gb4z1uCPbMzLPYVnoE"
+    },
+    {
+      "album": {
         "name": "Ils s'aimaient toujours",
         "url": "https://open.spotify.com/album/3QGHad6WExNAujuYcmauUm"
       },
@@ -522,7 +594,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172263,
       "name": "Je pense \u00e0 vous",
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
@@ -724,7 +796,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 150579,
       "name": "Le tour du monde",
       "url": "https://open.spotify.com/track/4zQnaIcM2gWNnEnrf0PPKd"
@@ -760,7 +832,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 162880,
       "name": "Les jours qui restent",
       "url": "https://open.spotify.com/track/0frKjAjwE6M58Q6bmnesKk"
@@ -822,7 +894,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178000,
       "name": "L\u00e9a",
       "url": "https://open.spotify.com/track/5y4SGiUMB4cTr14h6kwFyZ"
@@ -898,6 +970,24 @@
       "duration_ms": 182546,
       "name": "Nous on sait",
       "url": "https://open.spotify.com/track/2daxxajwTWuKX0LW2B9sgL"
+    },
+    {
+      "album": {
+        "name": "Nouveau d\u00e9part",
+        "url": "https://open.spotify.com/album/2mpuYLosZM3qj8iBnCH7i4"
+      },
+      "artists": [
+        {
+          "name": "DAYSY",
+          "url": "https://open.spotify.com/artist/6vorHF3qW6vODkQP51kGlk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158520,
+      "name": "Nouveau d\u00e9part",
+      "url": "https://open.spotify.com/track/4Ty8Q0KsyuNHmBLlPK13fi"
     },
     {
       "album": {
@@ -1006,7 +1096,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160441,
       "name": "Pas d'apr\u00e8s",
       "url": "https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5"
@@ -1184,6 +1274,24 @@
       "duration_ms": 179866,
       "name": "Summer Body",
       "url": "https://open.spotify.com/track/2jg0zwe6fa4oWjzy1EvcWg"
+    },
+    {
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/6l8MpmPfGRirtOSzUeflMB"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/0ga5vX42pHZ7KSwaZhriSB"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Jes\u00fas Adri\u00e1n Romero. The essential tracks, all in one playlist.",
-  "num_followers": 194201,
+  "description": "This Is Jes\u00fas Adri\u00e1n Romero. Sus mejores \u00e9xitos, todos en una playlist.",
+  "num_followers": 194226,
   "original_name": "This Is Jes\u00fas Adri\u00e1n Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABkCBybj0RiCAfGT1ChbSbt",
+  "snapshot_id": "ZtejAAAAAADSI0pr2sSo5/6GZSkSiGFg",
   "tracks": [
     {
       "added_at": null,
@@ -603,6 +603,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sencillos",
+        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 279466,
+      "name": "Princesas M\u00e1gicas",
+      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Encontrarme Contigo",
         "url": "https://open.spotify.com/album/4vFri5t3ea2FpongVjqXql"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 255960,
       "name": "Vuelve (feat. Jes\u00fas Adri\u00e1n Romero)",
       "url": "https://open.spotify.com/track/7u3BNHXrIdT3oKykbwtc6u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sencillos",
-        "url": "https://open.spotify.com/album/5GafkqDsApJB9fSB0IkrX5"
-      },
-      "artists": [
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 279466,
-      "name": "Princesas M\u00e1gicas",
-      "url": "https://open.spotify.com/track/4N3sG9h9pnbmIy8MaxcTxG"
     },
     {
       "added_at": null,
@@ -682,35 +682,11 @@
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        },
-        {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 208920,
-      "name": "Que Seas Mi Hogar (feat. Reyli Barba)",
-      "url": "https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alex Campos y Sus Amigos (En Vivo)",
-        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Jes\u00fas Adri\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
-        }
-      ],
-      "duration_ms": 218746,
-      "name": "Suave Voz - En Vivo",
-      "url": "https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG"
+      "duration_ms": 233586,
+      "name": "El Anhelo de Mi Voz",
+      "url": "https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6"
     },
     {
       "added_at": null,
@@ -731,6 +707,26 @@
       "duration_ms": 369000,
       "name": "Ven, Te Necesito - En Vivo",
       "url": "https://open.spotify.com/track/3osNQddwrMYWQ1bCvsew62"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Alex Campos y Sus Amigos (En Vivo)",
+        "url": "https://open.spotify.com/album/1XEQDxwovn8C0l6qb2NSnz"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Jes\u00fas Adri\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        }
+      ],
+      "duration_ms": 218746,
+      "name": "Suave Voz - En Vivo",
+      "url": "https://open.spotify.com/track/3w3FGKINqJhLZZGFvcp9eG"
     },
     {
       "added_at": null,
@@ -758,11 +754,15 @@
         {
           "name": "Jes\u00fas Adri\u00e1n Romero",
           "url": "https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX"
+        },
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
         }
       ],
-      "duration_ms": 233586,
-      "name": "El Anhelo de Mi Voz",
-      "url": "https://open.spotify.com/track/60dUV3Tt4lpU5ghaIIFKA6"
+      "duration_ms": 208920,
+      "name": "Que Seas Mi Hogar (feat. Reyli Barba)",
+      "url": "https://open.spotify.com/track/1VzKKSoe86AmfWh0DJL1Yw"
     },
     {
       "added_at": null,

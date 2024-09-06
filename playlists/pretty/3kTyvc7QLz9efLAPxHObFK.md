@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,668 songs - 3 day 17 hr 48 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,669 songs - 3 day 17 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1676,5 +1676,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1666 | [Moshpit](https://open.spotify.com/track/4cP0rtmRdvwpljV4hes0W9) | [Cardination](https://open.spotify.com/artist/4toQz3bR47E3eTqP8PssZm) | [Moshpit](https://open.spotify.com/album/0g33qxD3KYKmTpxZciorMX) | 2:18 |
 | 1667 | [G.L.Y.](https://open.spotify.com/track/0XacYFLW0WdPqXTajmmdw5) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [G.L.Y.](https://open.spotify.com/album/7gGZW6T6rXjDSMGaqOvBUe) | 3:33 |
 | 1668 | [Ecstasy](https://open.spotify.com/track/0VQCry3a1LTmU3BZYhl9dj) | [Republic](https://open.spotify.com/artist/3b2nFKYSMKcxy0kV1hTqFt), [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Sense of Freedom](https://open.spotify.com/album/5oMnMfPEFJqPRK9oaO659x) | 2:58 |
+| 1669 | [Cooking Up Your Brain](https://open.spotify.com/track/6a3KlgLFasWWsAsi96RovP) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Cooking Up Your Brain](https://open.spotify.com/album/1iKdbLAU6o5AZwlTN8Omxk) | 3:04 |
 
-Snapshot ID: `AAAGsZEmPJvsvQ4dJSoBmdpZ+eq5vyTK`
+Snapshot ID: `AAAGsjSPY2iVgfravc8+TOHSw7ky8Sqa`

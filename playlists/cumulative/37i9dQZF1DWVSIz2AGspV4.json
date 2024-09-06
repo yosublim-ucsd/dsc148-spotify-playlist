@@ -1419,6 +1419,24 @@
     },
     {
       "album": {
+        "name": "Daiman",
+        "url": "https://open.spotify.com/album/788RiwaYqxD5ipbJODPd8w"
+      },
+      "artists": [
+        {
+          "name": "Ali Saber",
+          "url": "https://open.spotify.com/artist/6kNbn4f4j3Uhd79CGCmcFK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213600,
+      "name": "Daiman",
+      "url": "https://open.spotify.com/track/1zvSqMpUbktNbtNKVD3CIH"
+    },
+    {
+      "album": {
         "name": "Dam Rasak",
         "url": "https://open.spotify.com/album/6UDXOrXiBPyd1nO0hi5BsV"
       },
@@ -3608,7 +3626,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210000,
       "name": "Min Fadwa Li Dehketah",
       "url": "https://open.spotify.com/track/6tWh2BZh7W0wPQJpDNh9hc"
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177029,
       "name": "Safha Jdida",
       "url": "https://open.spotify.com/track/35TewCJeiy2uiA044iUMsL"
@@ -5036,6 +5054,24 @@
       "duration_ms": 285680,
       "name": "Yekhnog",
       "url": "https://open.spotify.com/track/2h9VSz8bhwaVXaSFdRrUXM"
+    },
+    {
+      "album": {
+        "name": "Yomma Yomma",
+        "url": "https://open.spotify.com/album/2b48LGnrngZQ8fhUFmSErM"
+      },
+      "artists": [
+        {
+          "name": "Saif Nabeel",
+          "url": "https://open.spotify.com/artist/2i8aIAYY0wCKbFYWiihztK"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163464,
+      "name": "Yomma Yomma",
+      "url": "https://open.spotify.com/track/1LbWQ7SjTeCvD1iLSCfZre"
     },
     {
       "album": {

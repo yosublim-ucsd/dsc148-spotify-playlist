@@ -2,9 +2,9 @@
 
 ### [Be Lifted ](https://open.spotify.com/playlist/37i9dQZF1DXbqtyDNQsEFL)
 
-> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt?si=XQm6khbXRRmHNHbvBq41aQ>Tosin Bee</a>
+> Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=D1GnpblmS6SUR0P3\_eKi4w>Anendlessocean</a>
 
-380 songs - 1 day 13 hr 47 min
+382 songs - 1 day 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Forever You Are God](https://open.spotify.com/track/1STQoJfd8xcqv0tKMhf1Ri) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [Breathe](https://open.spotify.com/album/254N1MBygkKvBoWrKToJ0K) | 4:04 | 2023-12-05 | 2023-12-11 |
 | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/track/3BbGiJH0O5U1E9hJaFJuPO) | [Esther Oji](https://open.spotify.com/artist/5Hd4U5JFovPR2yNcXa3Pm4), [GGTQ All Stars](https://open.spotify.com/artist/2lvxliTzqHNjv7hOulrHCS) | [Fragrance \(feat\. GGTQ All Stars\)](https://open.spotify.com/album/4taa6a2TeF7uSOS6280L0p) | 4:27 | 2023-12-01 |  |
 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 | 2023-12-05 | 2023-12-11 |
-| [Free \- Live](https://open.spotify.com/track/4zInE6ScKS3cn62WSq8gxG) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Free](https://open.spotify.com/album/2HNaXcsPM8Drd6ETWVpeRH) | 11:08 | 2024-08-30 |  |
+| [Free \- Live](https://open.spotify.com/track/4zInE6ScKS3cn62WSq8gxG) | [Tosin Bee](https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt), [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Free](https://open.spotify.com/album/2HNaXcsPM8Drd6ETWVpeRH) | 11:08 | 2024-08-30 | 2024-09-06 |
 | [Freedom](https://open.spotify.com/track/3moHocFcyX5Ek77GoG0532) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH), [Oneskript](https://open.spotify.com/artist/5KDGw9OX1CI7VirkAANWlE) | [Freedom](https://open.spotify.com/album/00KlpgifV0V42Hl7KhR4E9) | 2:40 | 2024-06-10 | 2024-07-27 |
 | [Gallant](https://open.spotify.com/track/1Lmjh3qhOwibSlsrBmkUsx) | [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Gallant](https://open.spotify.com/album/7kR0lwEA2gncJV1NJill1K) | 5:16 | 2023-12-05 | 2023-12-11 |
 | [Give Me Chance](https://open.spotify.com/track/5FAGIf4yjvXLNETnWJzkF1) | [Bidemi Olaoba](https://open.spotify.com/artist/6zgGhksQtJmJzAOalAeUSV), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Give Me Chance](https://open.spotify.com/album/2HHg2RR0qXRg1GtziqSP4q) | 4:15 | 2024-06-10 |  |
@@ -274,6 +274,7 @@
 | [Overflow \- Live](https://open.spotify.com/track/5fGEWpEGRbeqiSx0BFM4ri) | [Chingtok Ishaku](https://open.spotify.com/artist/1lwlqct7jFtSjSvId0bxOQ), [First Love](https://open.spotify.com/artist/5NvCvGYLahLQcc7s5AqMfJ) | [Overflow](https://open.spotify.com/album/6HTnAGRH2XzNOd0jaO482B) | 12:32 | 2022-10-14 | 2022-11-05 |
 | [Overflow \- Live](https://open.spotify.com/track/4929bxPQHzXBD2SEMFb2AM) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [Overflow \(Live\)](https://open.spotify.com/album/7wiyNbURRHwc16s1teLYlk) | 6:12 | 2024-04-12 |  |
 | [Owawani](https://open.spotify.com/track/0Tqoobs4tDE4MylAjg34yd) | [Nana Yaw Ofori\-Atta](https://open.spotify.com/artist/1D6DzRCxKig1KCd4uDuHoL) | [Owawani](https://open.spotify.com/album/74ZFgjpDnKg8sF6kmIH4yq) | 2:38 | 2024-05-03 | 2024-08-31 |
+| [P&A](https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [P&A](https://open.spotify.com/album/5S3nsAPACcO7HW1kIHK5va) | 2:41 | 2024-09-06 |  |
 | [Pariwo](https://open.spotify.com/track/57MJfukjIG6gh9G0MCITjM) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Pariwo](https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C) | 2:37 | 2023-12-05 | 2023-12-11 |
 | [Particularly](https://open.spotify.com/track/5mAkFGshHceNUuw6GOwnz8) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo), [Tope Alabi](https://open.spotify.com/artist/1WDoaSGtFrO4ZPMZqLiaEU) | [Particularly](https://open.spotify.com/album/6wdvPGkqiUVd3vxtxBXzA1) | 3:08 | 2024-05-17 | 2024-06-22 |
 | [Peace \(Open Verse\)](https://open.spotify.com/track/7jkOX2bZm2lrAn7vBtBysS) | [Holy drill](https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j) | [Great God](https://open.spotify.com/album/4P3kOp9sw1SCMDuSFuibOB) | 2:26 | 2023-09-29 | 2023-11-02 |
@@ -336,7 +337,8 @@
 | [Waiting](https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9) | [Waiting](https://open.spotify.com/album/0niIWAYA59wwk1loWGcboC) | 2:22 | 2024-04-05 | 2024-06-20 |
 | [Watching All over Me](https://open.spotify.com/track/6TMZINReRMSLQUP9iWi1HQ) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Ada Ehi](https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt) | [Watching All over Me](https://open.spotify.com/album/3Ggx3rwJl4LK0T8UmhCBnL) | 3:10 | 2022-06-09 |  |
 | [Water Run Away My Eyes](https://open.spotify.com/track/6L1aJvQ16EN7KxKSe6iEwW) | [Kaydee Numbere](https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF) | [The Heirloom](https://open.spotify.com/album/1FunCx5cBfAALXrEKOl4B7) | 4:16 | 2023-12-05 | 2023-12-11 |
-| [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 | 2023-12-05 |  |
+| [Way Maker](https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker](https://open.spotify.com/album/3rnFSwqvcBtB9OP7em9C2H) | 5:06 | 2023-12-05 | 2024-09-06 |
+| [Waymaker \- Bonus Track, Live](https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Way Maker \(Live\)](https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65) | 8:20 | 2024-09-06 |  |
 | [Wayε Me Yie](https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI) | [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Wayε Me Yie](https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr) | 5:03 | 2022-06-16 |  |
 | [We Behold\(Qavah Anthem\)](https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [We Behold\(Qavah Anthem\)](https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM) | 12:53 | 2023-07-28 |  |
 | [We Glorify Your Name \- Live](https://open.spotify.com/track/5lz0C3ODoXteXQlnKSnC0B) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0) | [New Dimension](https://open.spotify.com/album/5F8AS4nbIJ1RRceKfrO7G8) | 6:13 | 2023-12-05 | 2023-12-11 |

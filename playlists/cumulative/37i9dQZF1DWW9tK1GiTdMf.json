@@ -1206,7 +1206,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 167671,
       "name": "Alta quota",
       "url": "https://open.spotify.com/track/6RZYgLDTE8czWHhhlfI2Tk"
@@ -3860,7 +3860,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 121949,
       "name": "COME MAI",
       "url": "https://open.spotify.com/track/0gd6xXtjEbjaZiGGQ90GcI"
@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165333,
       "name": "Distratti !",
       "url": "https://open.spotify.com/track/5ulOn76mFsjGbpeP1cvEsK"
@@ -8440,7 +8440,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 138966,
       "name": "hai qualcosa da dirmi",
       "url": "https://open.spotify.com/track/2g87rgZH0CFWebejSDBkf7"
@@ -10190,7 +10190,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157718,
       "name": "la ragazza pi\u00f9 bella del ballo",
       "url": "https://open.spotify.com/track/4CbiKaM69YfCuPODAPuUTO"
@@ -18721,6 +18721,24 @@
     },
     {
       "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
+    },
+    {
+      "album": {
         "name": "Take Me With You",
         "url": "https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4"
       },
@@ -19538,7 +19556,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 102000,
       "name": "TRISTE",
       "url": "https://open.spotify.com/track/4q0R0CF9mMOoeJqSbtXoPP"

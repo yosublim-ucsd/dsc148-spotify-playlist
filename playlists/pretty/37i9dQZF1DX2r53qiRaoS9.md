@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 
 > Warm Up! Burn! Cooldown! Ready, Steady, move to Bhangra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,935 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,944 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2r53qiRaoS9.md) - [plain]
 | 22 | [BIBA](https://open.spotify.com/track/4IQqOlTZpfjnSTOArpZX5j) | [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm), [Slick Trick](https://open.spotify.com/artist/6ENmrRecdouZ74WXpHjQZl), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [OFIVE1](https://open.spotify.com/album/1Rk6mhJQnIDrhygra17EtG) | 3:36 |
 | 23 | [Shadgi](https://open.spotify.com/track/7pV4fzDrc5ekLJzZ9MpG30) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE) | [Shadgi](https://open.spotify.com/album/7a2HtTgL4nHJuhrRkEPrth) | 3:12 |
 | 24 | [Bottle](https://open.spotify.com/track/40mBzQIpmcxFUzuJMOAHFC) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75) | [Bottle](https://open.spotify.com/album/2Ywo4nVpumOk0RgUPJCan0) | 3:15 |
-| 25 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
+| 25 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \- Original Never Ends](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
 | 26 | [Baby Girl](https://open.spotify.com/track/0FoAlOXHI6KJ4RHP9v8jnw) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Dhvani Bhanushali](https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk) | [Baby Girl](https://open.spotify.com/album/4dob5W0fcOiKEe3ii4AuqD) | 3:27 |
 | 27 | [Jaani Tera Naa](https://open.spotify.com/track/0LZA36VEmc6n0Y7X29zIgE) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Jaani Tera Naa](https://open.spotify.com/album/1x5pYAKZnAlLXn2kTzdPrF) | 3:08 |
 | 28 | [Muchh](https://open.spotify.com/track/3m3uKnTWKAPlnfggqVsIOq) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Muchh](https://open.spotify.com/album/6Tu3rISlgcL1tjBLb3jmuS) | 3:25 |

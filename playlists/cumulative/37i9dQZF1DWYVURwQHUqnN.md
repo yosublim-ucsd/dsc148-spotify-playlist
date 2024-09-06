@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : GIMS
+> Photo : Guy2bezbar
 
-173 songs - 8 hr 27 min
+174 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [La Capitale](https://open.spotify.com/track/61ftvJIboUekDBePgs2Qe9) | [Dj Leska](https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Venant Delacapitale](https://open.spotify.com/artist/2YWcCTBHHea2yUzM71Kwz1) | [La Capitale](https://open.spotify.com/album/5jTEJD2cxm5u2naymHRBDN) | 2:31 | 2023-09-28 | 2023-10-06 |
 | [La grinta](https://open.spotify.com/track/1IVtCHJuAl40ypJtAsR9Ld) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La grinta](https://open.spotify.com/album/4sBVMRxXihQczIaXHS29xc) | 3:31 | 2023-09-28 | 2023-12-01 |
 | [LA MÊME HISTOIRE](https://open.spotify.com/track/6I6nQIBRYlQLMT58liSyWI) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [LA MÊME HISTOIRE](https://open.spotify.com/album/1q67Fv3Ccr8yAOrtVD7F7U) | 2:12 | 2024-07-18 |  |
-| [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-28 |  |
+| [LAISSE MOI](https://open.spotify.com/track/2ImdwbujxKFxN1UxEvf2dD) | [KeBlack](https://open.spotify.com/artist/7x3eTVPlBiPjXHn3qotY86) | [LAISSE MOI](https://open.spotify.com/album/2H2opHZttuBFqxhBNssSkD) | 2:48 | 2023-09-28 | 2024-09-06 |
 | [Lalla](https://open.spotify.com/track/1iM4agLs3G8ihIHEcWojcN) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Lalla](https://open.spotify.com/album/5OXNr5pjxuzvHgWTV4mRp0) | 3:07 | 2024-05-23 | 2024-06-28 |
 | [Lancôme \(feat\. ElGrandeToto\)](https://open.spotify.com/track/29ST3UVdjUIYyu5eiRNpZI) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:00 | 2024-02-08 | 2024-04-19 |
 | [Liberta](https://open.spotify.com/track/69lKtGrjuqYypkYHm6H2WY) | [DTF](https://open.spotify.com/artist/37ioGUZGhKk7VjWIocx8kM) | [Liberta](https://open.spotify.com/album/4ezzeRj05jnLrRqunm6qJn) | 2:28 | 2023-10-12 | 2023-11-10 |
@@ -88,12 +88,12 @@
 | [MA DOUCE](https://open.spotify.com/track/3G9yB5mhAfdq3toymB5Pug) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [MA DOUCE](https://open.spotify.com/album/2ySxKt2YEOhxUcF0Iw5X1R) | 3:36 | 2024-02-22 | 2024-05-10 |
 | [MAMACITA](https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MAMACITA](https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN) | 3:08 | 2024-07-04 | 2024-07-27 |
 | [MAMI WATA](https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:53 | 2024-02-15 |  |
-| [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 | 2024-08-01 |  |
+| [Maylin](https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs) | [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [Maylin](https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0) | 2:54 | 2024-08-01 | 2024-09-06 |
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-20 |  |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 | 2024-06-21 |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-09-28 | 2024-02-16 |
-| [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-11 | 2024-08-08 |
+| [Monaco](https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [Monaco](https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT) | 2:21 | 2024-07-11 |  |
 | [MONÉGASQUE](https://open.spotify.com/track/53M3U2p7JVh3MV0GwhOVYj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [MONÉGASQUE](https://open.spotify.com/album/7e94f11NCnM32gJByB9rt1) | 2:27 | 2024-07-11 |  |
 | [Méchant](https://open.spotify.com/track/1h8484CNhIZqhMsqD0ljkl) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Méchant](https://open.spotify.com/album/0qnEbi793qwTHRjUIsNQxD) | 2:21 | 2023-09-28 | 2023-12-08 |
 | [Mélanine](https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh) | [Mélanine](https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO) | 3:00 | 2024-05-02 |  |
@@ -168,6 +168,7 @@
 | [Turn Up \(feat\. Leto & MHD\)](https://open.spotify.com/track/5NerckOQ6Feq0DMf3tB9Ln) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Turn Up \(feat\. Leto & MHD\)](https://open.spotify.com/album/6QKNpu7ufgdHlc1KnKMAKP) | 2:25 | 2024-08-08 |  |
 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 | 2024-06-20 |  |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-06-20 |  |
+| [Vent du Nord](https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Vent du Nord](https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks) | 2:25 | 2024-09-05 |  |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-09-28 | 2024-05-24 |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 | 2023-12-22 |
 | [VNTR](https://open.spotify.com/track/7C3F77AkLpgs2of59VGJYd) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [VNTR](https://open.spotify.com/album/2IZ78EPVEqj7f7KTiQ9hUV) | 3:38 | 2023-09-28 | 2024-01-19 |

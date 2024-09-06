@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "The hottest Hip-Hop of today all over the world. (Cover:\u001fBAP.)",
+  "description": "The hottest Hip-Hop of today all over the world. (Cover:\u001fRAYE, Central Cee)",
   "name": "Beats & Rhymes",
   "tracks": [
     {
@@ -4833,6 +4833,28 @@
     },
     {
       "album": {
+        "name": "BALANCE",
+        "url": "https://open.spotify.com/album/53TUP9i0S2t2gDRe9pCfYB"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        },
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113142,
+      "name": "Better Days (feat. JUMADIBA)",
+      "url": "https://open.spotify.com/track/0vBoj1HfKDyB4SGQJPPUEK"
+    },
+    {
+      "album": {
         "name": "BETTER OFF",
         "url": "https://open.spotify.com/album/49lq6IVAiJd1aXd2zigg4L"
       },
@@ -8878,6 +8900,24 @@
       "duration_ms": 114894,
       "name": "Cinematic",
       "url": "https://open.spotify.com/track/5m9oeTlb4cZXBGsYmvWjHt"
+    },
+    {
+      "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
     },
     {
       "album": {
@@ -17454,6 +17494,28 @@
       "duration_ms": 146893,
       "name": "H&M",
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
+    },
+    {
+      "album": {
+        "name": "HA DAMN \u4f60\u6ca1\u6709 (feat. TizzyT)",
+        "url": "https://open.spotify.com/album/5yBJkV9ZYAVCF4SNsgW5oq"
+      },
+      "artists": [
+        {
+          "name": "ShiGGa Shay",
+          "url": "https://open.spotify.com/artist/3vYlOrtxEjNzvUPhacOdoV"
+        },
+        {
+          "name": "Tizzy T",
+          "url": "https://open.spotify.com/artist/1ShC8iSQrfdxlSbtIXfCaa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150437,
+      "name": "HA DAMN \u4f60\u6ca1\u6709 (feat. TizzyT)",
+      "url": "https://open.spotify.com/track/2qtOPToXBpuw5rAMSMLhCD"
     },
     {
       "album": {
@@ -26257,6 +26319,28 @@
     },
     {
       "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "album": {
         "name": "heaven sent",
         "url": "https://open.spotify.com/album/34YNeXrm7G7S8Ikr8lIrv6"
       },
@@ -35003,6 +35087,28 @@
     },
     {
       "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+    },
+    {
+      "album": {
         "name": "Rudi (Wawancara Liar)",
         "url": "https://open.spotify.com/album/2zpARUYH1qzKehx7RvHwTt"
       },
@@ -35180,6 +35286,24 @@
       "duration_ms": 216608,
       "name": "Running Business (with iayze)",
       "url": "https://open.spotify.com/track/3Tn2jRgZpObn1I0SpFaWnm"
+    },
+    {
+      "album": {
+        "name": "THE FORCE",
+        "url": "https://open.spotify.com/album/27LiHmMNnXEDUOBUXPqndi"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166173,
+      "name": "Runnit Back",
+      "url": "https://open.spotify.com/track/3bsRYAhhM86a3egINAKALh"
     },
     {
       "album": {
@@ -36822,6 +36946,24 @@
       "duration_ms": 186067,
       "name": "Sight Beyond Sight",
       "url": "https://open.spotify.com/track/2etakEYwanc1czXQbx8V6j"
+    },
+    {
+      "album": {
+        "name": "SILVERSTONE SUMMERTIMES III.",
+        "url": "https://open.spotify.com/album/1FgNpmK9hdaVy9fZq5HK5P"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242222,
+      "name": "SILVERSTONE SUMMERTIMES III.",
+      "url": "https://open.spotify.com/track/4nSIagdYwtuni95rRopyty"
     },
     {
       "album": {
@@ -45890,6 +46032,24 @@
       "duration_ms": 173973,
       "name": "wet",
       "url": "https://open.spotify.com/track/2KgrSqrURqF9m3w1y0ezaN"
+    },
+    {
+      "album": {
+        "name": "Wet Dreams",
+        "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159090,
+      "name": "Wet Dreams",
+      "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
       "album": {

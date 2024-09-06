@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Canciones deliciosas para relajarse y pasarla chill junto a la piscina\. 🏖️🏊🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,609 likes - 100 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,613 likes - 100 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 14 | [I CAN’T LOSE YOU](https://open.spotify.com/track/1LLC7MZufBwaO52XRtGRHD) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [I CAN'T LOSE YOU](https://open.spotify.com/album/4Vks6PwxrmJ6CAfhNSrcvO) | 2:35 |
 | 15 | [Perdida](https://open.spotify.com/track/2BI6KD4uL19vAqbUs76EpF) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Velveta](https://open.spotify.com/artist/6k0FM5lvukpP68GlodFQcA) | [Yo No Soy Marinero](https://open.spotify.com/album/7Lg3d27iQnRX3Is6yEXho5) | 3:54 |
 | 16 | [Throw Some Ass](https://open.spotify.com/track/5YO44oPkpH4zeinnihUpIR) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Throw Some Ass](https://open.spotify.com/album/6IMZTpxljVKTek4hLAgiVG) | 3:02 |
-| 17 | [Walk Away](https://open.spotify.com/track/0h04l7hE4CrYjdRFbk4c4O) | [Catpack](https://open.spotify.com/artist/68KbEcrrJYafVy6ChYVqyt), [Amber Navran](https://open.spotify.com/artist/4akQZt0saex1UBmywlc1qH), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Phil Beaudreau](https://open.spotify.com/artist/3U6rbhm05Jzcux0IOP0poA) | [Walk Away](https://open.spotify.com/album/6KK8Hcp5en0xPxmOfHuen0) | 3:02 |
+| 17 | [Never Walk Alone](https://open.spotify.com/track/4HB7ECLzrbgapiZyLlFbxz) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Never Walk Alone](https://open.spotify.com/album/1BuWrjAiFiHMHtCYHuUIKM) | 3:08 |
 | 18 | [Canela](https://open.spotify.com/track/1RvQuttQA07CqymAtpMnwb) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [Que Bien Te Queda El Caribe](https://open.spotify.com/album/0NcVCJEhUixZFrZ1mryhRN) | 2:56 |
 | 19 | [Never A Coincidence](https://open.spotify.com/track/3PvRkGqCj68rr52KGDcjP9) | [Flamingosis](https://open.spotify.com/artist/75cW8FFekyCjj0mfZM1Gfb), [Diastrata](https://open.spotify.com/artist/1Z1MedqFUlxM3OHqdHK7mx) | [Better Will Come](https://open.spotify.com/album/1L01NCxCJxNFuL7OgyuvOv) | 3:58 |
 | 20 | [Vanille fraise](https://open.spotify.com/track/7nZ9CzhiFRPhOQCn7eDSnn) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Vanille fraise](https://open.spotify.com/album/41Ht5x3AgpMVmoFoIzaUPO) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 99 | [Beginning \- Totally Enormous Extinct Dinosaurs Remix](https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp) | [LA Priest](https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Beginning \(Totally Enormous Extinct Dinosaurs Remix\)](https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo) | 5:50 |
 | 100 | [Better When We're Close](https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Better When We're Close](https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah) | 3:33 |
 
-Snapshot ID: `Zs/Z+AAAAADAguq9IifoyJ29ogrAvJcx`
+Snapshot ID: `Ztn2RwAAAAAFOgNMeT8RG7ABVVlGGwxk`

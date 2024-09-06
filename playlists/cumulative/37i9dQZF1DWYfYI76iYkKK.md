@@ -4,7 +4,7 @@
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-440 songs - 1 day 4 hr 55 min
+441 songs - 1 day 4 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 | 2022-07-28 |  |
 | [你不应该离开我\(不插电版\)](https://open.spotify.com/track/4b3OFRqf4IcxIyJ4xKDHpq) | [YKEY](https://open.spotify.com/artist/3elVUbEnotEJZxxARFtbno) | [你不应该离开我\(不插电版\)](https://open.spotify.com/album/4xn3lDSr0nO7tfT5SIHI7M) | 2:51 | 2023-03-16 | 2023-03-31 |
 | [你不是第一個離開的人](https://open.spotify.com/track/2uY8mN0tdlmy9E1zuHmWOh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [你不是第一個離開的人](https://open.spotify.com/album/2C8bIw4bA99REC2i34epaK) | 3:20 | 2022-08-18 | 2024-03-29 |
-| [你我 \(影視劇《九部的檢察官》情感曲\)](https://open.spotify.com/track/2UR2lNbbDZyYUBDWrXZIiO) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [影視劇《九部的檢察官》原聲帶](https://open.spotify.com/album/7FadrmXJj99PhdVkQVtfC5) | 3:59 | 2024-08-29 |  |
+| [你我 \(影視劇《九部的檢察官》情感曲\)](https://open.spotify.com/track/2UR2lNbbDZyYUBDWrXZIiO) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [影視劇《九部的檢察官》原聲帶](https://open.spotify.com/album/7FadrmXJj99PhdVkQVtfC5) | 3:59 | 2024-08-29 | 2024-09-06 |
 | [你教會我的事](https://open.spotify.com/track/5qOii2BZ1rxAuWJi4L5jxk) | [深白色二人組](https://open.spotify.com/artist/6n64O3TcrHboyT9eMrdjrb) | [你教會我的事](https://open.spotify.com/album/4d6j6BEkdIC8uLB83XPpZY) | 4:15 | 2022-12-15 | 2022-12-24 |
 | [你是治癒我的光](https://open.spotify.com/track/0eYDmgCgiqCszcR7u3vp8i) | [Laurence Larson](https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw) | [你是治癒我的光](https://open.spotify.com/album/0j9Xxe2m2XiHs3j6bJaeEl) | 2:51 | 2024-07-11 | 2024-07-19 |
 | [你是說謊的人](https://open.spotify.com/track/69OyZ8v2TYJDwcdYLYPSI0) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/4rJmTaA232von1xGH17Tsa) | 3:52 | 2022-10-17 | 2023-02-06 |
@@ -180,7 +180,7 @@
 | [她是誰](https://open.spotify.com/track/1GOM2I6F2ulhxO4oabuvhh) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [她是誰](https://open.spotify.com/album/2RsjjlLJTXnv2NLv62Fybu) | 3:08 | 2024-07-04 |  |
 | [她的房間](https://open.spotify.com/track/22ZmJWPElKL5XVxcPFt9oM) | [洪一诺](https://open.spotify.com/artist/3NHSezYp3mVfJLOgaLhra8) | [桃子的詠嘆](https://open.spotify.com/album/2PKOmtIL6AOEbtPetDb39Z) | 3:10 | 2023-09-21 | 2023-10-06 |
 | [好久不見](https://open.spotify.com/track/0wbDVGqhU2BAryAp2haBdv) | [祐祐 YoyoLin](https://open.spotify.com/artist/48Q3KzFIm8EGZzTjH6wzKm), [先生娛樂 \(Mr\. Music Channel\)](https://open.spotify.com/artist/0On5G4W5XlrbS56t7W6JbO) | [好久不見](https://open.spotify.com/album/6HGlmOOc8slmF8StDC3XGF) | 4:17 | 2023-09-07 | 2023-09-22 |
-| [好人](https://open.spotify.com/track/100tzdvpzq9K3CvtEt9cds) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [好人](https://open.spotify.com/album/2xNLLYeSZToH45mqQdRaR6) | 4:06 | 2024-08-29 |  |
+| [好人](https://open.spotify.com/track/100tzdvpzq9K3CvtEt9cds) | [蘇研之](https://open.spotify.com/artist/4cbEBwZICHpVIBPo9hgCdD) | [好人](https://open.spotify.com/album/2xNLLYeSZToH45mqQdRaR6) | 4:06 | 2024-08-29 | 2024-09-06 |
 | [好好](https://open.spotify.com/track/1wI4WM504xW0N7PTQeu6LA) | [Anni Hung](https://open.spotify.com/artist/3ZlBKjbfPWDT0RUWTpWzwv) | [好好](https://open.spotify.com/album/6FacBzWHBXqpz4kICD7qD8) | 3:11 | 2022-06-02 | 2022-07-29 |
 | [好好對待她](https://open.spotify.com/track/0ZnmSyvulI0c8a3YLXrvdO) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [好好對待她](https://open.spotify.com/album/3qAC5nzZ2eeyS3VqOoQ3Sj) | 4:38 | 2022-09-29 | 2022-10-31 |
 | [好強](https://open.spotify.com/track/4JFZsWTrCwk45XbRioOYiC) | [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [相反的是](https://open.spotify.com/album/69yaUTVnjoxtsP7vTXqKxw) | 4:07 | 2022-07-28 | 2023-05-30 |
@@ -324,6 +324,7 @@
 | [淡情歌 \(《淡水小鎮》舞台劇宣傳曲\)](https://open.spotify.com/track/6drvtSjYEYVEe8JYLAGXzu) | [李千娜](https://open.spotify.com/artist/3iGNpRQH6ei188rHVvwytb) | [淡情歌 \(《淡水小鎮》舞台劇宣傳曲\)](https://open.spotify.com/album/6RZxRYdZciQPRshvlBDn9Z) | 4:40 | 2023-05-25 | 2023-06-09 |
 | [淡黃色 \- Recap](https://open.spotify.com/track/66EtQpP48OLRo1O79XVrzN) | [AlvinWCH](https://open.spotify.com/artist/0Gl4gWr8nxwxhlT4xjCFJE) | [淡黃色 \(Recap\)](https://open.spotify.com/album/252ZIrz1yHu3XzpeWc4sft) | 5:50 | 2023-01-12 | 2023-01-27 |
 | [潮水箴言](https://open.spotify.com/track/43ydEcvPtB09gg689Iizfu) | [SHUA](https://open.spotify.com/artist/4ZPApia4YNHraw5nhgp804) | [潮水箴言](https://open.spotify.com/album/5B0AZtKqwCRjMej90HoCKn) | 4:50 | 2024-01-11 | 2024-01-19 |
+| [灰燼](https://open.spotify.com/track/0m21x8eCBS9LFqr2H5Xm6h) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [灰燼](https://open.spotify.com/album/1CjHb4Jt2w4U02G035C1Xh) | 2:25 | 2024-09-05 |  |
 | [為了什麼而努力](https://open.spotify.com/track/4ax74pSfPz6QWO5o8rCwmD) | [曾嘉偉](https://open.spotify.com/artist/6ZgzedIaClSQzNFBoF0Zq7) | [為了什麼而努力](https://open.spotify.com/album/3ELx1GoOTS1TwywUjgArYL) | 3:39 | 2023-08-24 | 2023-09-08 |
 | [為什麼只留下我一個](https://open.spotify.com/track/0PfB9QJ3T9uCGfkt0ml5TR) | [劉學甫](https://open.spotify.com/artist/4fQhjXVVGKPG7K1SYFWjpH), [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [為什麼只留下我一個](https://open.spotify.com/album/0TzPiD0Z6JOcwbDY6vzuKL) | 3:46 | 2022-07-28 | 2023-04-20 |
 | [無人](https://open.spotify.com/track/0GaXVbxat5CjDUdtgPpdu2) | [蕎Chiao](https://open.spotify.com/artist/3JgvHRyoYHDkGGT1oGlRYU) | [無人](https://open.spotify.com/album/6A5oYdk1PIhhOkIxdMoXqU) | 3:36 | 2024-06-27 | 2024-07-05 |
@@ -419,7 +420,7 @@
 | [那 就是我们吗](https://open.spotify.com/track/0L3FcHK6fmWfV6pu6bE6te) | [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [外南街1982](https://open.spotify.com/album/5YwEslhuCquUrP6TtSHue4) | 3:29 | 2023-02-09 | 2023-02-24 |
 | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/track/5FO9eEyRRtJu972fstMsfS) | [江靜 Jiang Jing](https://open.spotify.com/artist/0NzcQo5gooNhYRtnx4YTQ7), [Zhang Zhen Yue](https://open.spotify.com/artist/6PNEi9i2MxUgRufqYr76Xt) | [都挺好的 \(feat.張震嶽\)](https://open.spotify.com/album/2iHjpA5Ih5extOciUm6Fpq) | 3:16 | 2022-06-10 | 2022-07-22 |
 | [釀月光](https://open.spotify.com/track/31tSRRvp34rsk7NBhwImCq) | [Where Chou](https://open.spotify.com/artist/0T1grpeZ4qvXm7ALeRPKno) | [釀月光](https://open.spotify.com/album/4c4y64aLqXcbql0vDvg0YI) | 4:26 | 2022-06-10 | 2022-07-10 |
-| [銀色的移動城堡](https://open.spotify.com/track/6zHOmCEdlmKLwtbhI51P6W) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [銀色的移動城堡](https://open.spotify.com/album/6VLssXYYz9HFg073o4gOOV) | 3:48 | 2024-08-15 | 2024-09-03 |
+| [銀色的移動城堡](https://open.spotify.com/track/6zHOmCEdlmKLwtbhI51P6W) | [吳獻 Osean](https://open.spotify.com/artist/5bZ0x0ViEXpiJhnTHeLXhc) | [銀色的移動城堡](https://open.spotify.com/album/6VLssXYYz9HFg073o4gOOV) | 3:48 | 2024-08-15 |  |
 | [鏡子](https://open.spotify.com/track/7bsKXBK0KpNrXRFppnoJMl) | [Nana Ou\-Yang](https://open.spotify.com/artist/22JbAaWA5Abf5esf6N4PHY) | [The Star 初星](https://open.spotify.com/album/563AgYXs8LTZMiSA7qK8sE) | 3:41 | 2023-08-24 | 2023-09-08 |
 | [關於你](https://open.spotify.com/track/5PFauYPzYUvlES81qdn7DP) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [關於你](https://open.spotify.com/album/5Xd40gVbrMtNsdzNnxsXb1) | 4:53 | 2022-07-28 | 2022-08-26 |
 | [阿人](https://open.spotify.com/track/1oCGUOvfjmi2HrNQM68ch0) | [Eli Low](https://open.spotify.com/artist/5CqSLnQK3K3DiKhoRouEeC) | [阿人](https://open.spotify.com/album/15lksUQWcO4kkuYPkqPH9Y) | 3:38 | 2023-03-16 | 2023-03-31 |

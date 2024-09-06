@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,515 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,573 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ovYHwmjqZK.md) - [plain]
 | 84 | [Sos](https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fim,](https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah) | 3:19 |
 | 85 | [Eu Preciso de Você](https://open.spotify.com/track/4sn6sAoO20QWPdscEr1NPi) | [Didi Gomes](https://open.spotify.com/artist/2fTHMyHkY0Nc9lAeac5VQn), [Ayrton do Violão](https://open.spotify.com/artist/37BuIUO9zQiqB8QxPpBYHj) | [Eu Preciso de Você](https://open.spotify.com/album/1t8n7PLn8yMyuHJzkq7UcT) | 2:48 |
 | 86 | [Bossa Got The Blues](https://open.spotify.com/track/2l8rsGvh5MJL4gF0K479BA) | [Bossacucanova](https://open.spotify.com/artist/2nB77EV6Al8aHXfxa6YfrW), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Bossa Got The Blues](https://open.spotify.com/album/4p22TSGfHnoBdmkWJBjAMS) | 3:00 |
-| 87 | [Meios](https://open.spotify.com/track/03w5Y87L53zqYGvTIlUj2W) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9), [Aline Falcão](https://open.spotify.com/artist/3XlZKXZNlvhOyPJe9TaGHn), [Jorge Solovera](https://open.spotify.com/artist/3Tjm4zNHgFByjq82aLX9N1), [ldson galter](https://open.spotify.com/artist/64UaxNjcHxcChL4253pwYV), [Sebastian Notini](https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6) | [Vida\-Código + Meios](https://open.spotify.com/album/1ehdOI4YPYd30lWnwKdl2W) | 3:37 |
-| 88 | [Você Não](https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A) | [Jana Andrade](https://open.spotify.com/artist/110kMQksFS986W3yIbKozG), [Pedro Palma](https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI) | [Você Não](https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v) | 2:55 |
+| 87 | [Você Não](https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A) | [Jana Andrade](https://open.spotify.com/artist/110kMQksFS986W3yIbKozG), [Pedro Palma](https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI) | [Você Não](https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v) | 2:55 |
+| 88 | [Meios](https://open.spotify.com/track/03w5Y87L53zqYGvTIlUj2W) | [Tiganá Santana](https://open.spotify.com/artist/2Xgh3UMlVReiRdvCELwiK9), [Aline Falcão](https://open.spotify.com/artist/3XlZKXZNlvhOyPJe9TaGHn), [Jorge Solovera](https://open.spotify.com/artist/3Tjm4zNHgFByjq82aLX9N1), [ldson galter](https://open.spotify.com/artist/64UaxNjcHxcChL4253pwYV), [Sebastian Notini](https://open.spotify.com/artist/29pYaUWQ3RYaJfkJ14ELm6) | [Vida\-Código + Meios](https://open.spotify.com/album/1ehdOI4YPYd30lWnwKdl2W) | 3:37 |
 | 89 | [India \(Tarde De Sol\)](https://open.spotify.com/track/1O5NM6DEmroU160palBrX7) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [India](https://open.spotify.com/album/0ZUGe88QMoEUDETw0rOao3) | 3:08 |
 | 90 | [Se Acontecer](https://open.spotify.com/track/1PuqbHqhn1uGiT6xTyt4hw) | [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM) | [Storytellers](https://open.spotify.com/album/79Nec7JBai5QMAC0PX81ic) | 5:10 |
 | 91 | [Vaidoso](https://open.spotify.com/track/5k2NFQf8v2foh5Kwkk7zVg) | [Ramiro Pinheiro](https://open.spotify.com/artist/3OXQ3e6cnm6HYisXCRpPRV), [Alvar Monfort](https://open.spotify.com/artist/5tgFZn6lbPjBQ2lWuiuRxm) | [Vaidoso](https://open.spotify.com/album/2YnXefeX040GxF3fE7Y8Ly) | 3:00 |

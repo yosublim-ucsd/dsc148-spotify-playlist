@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is Felicity Urquhart\. The essential tracks, all in one playlist.
+> This is Felicity Urquhart\. Tutti i brani in un'unica playlist.
 
 97 songs - 5 hr 57 min
 

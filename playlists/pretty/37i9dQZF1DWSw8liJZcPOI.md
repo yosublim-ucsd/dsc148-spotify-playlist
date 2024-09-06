@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,051 likes - 250 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,131 likes - 250 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -243,12 +243,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 233 | [Amsterdam](https://open.spotify.com/track/29WpzJoXRGrgxb92nOGvZF) | [Sofi Paez](https://open.spotify.com/artist/0SlZh8ALPTGiyIBA9AoAiF) | [Amsterdam](https://open.spotify.com/album/7Ln0x3GBw9Jebr9cxCraaD) | 3:04 |
 | 234 | [Eagles Flight](https://open.spotify.com/track/6UksCv4F5AqNeyLI69f3lW) | [Blurstem](https://open.spotify.com/artist/0FXk0xKcMcLfLjkGduqGkn) | [Eagles Flight](https://open.spotify.com/album/62mVwJekp8RwY5QFLpLgx0) | 4:39 |
 | 235 | [Woven Song — piano reworks](https://open.spotify.com/track/1wb6pRSvhekFyXO5j3fXol) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Woven Song — piano reworks](https://open.spotify.com/album/27yZ8bTAOMlvnfU4vaIxvK) | 3:47 |
-| 236 | [Campfire](https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Lego Builder's Journey](https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274) | 2:55 |
+| 236 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
 | 237 | [Still / Sound – piano reworks](https://open.spotify.com/track/1n6ouOiQpRXaWVTeDOGxDW) | [Sophie Hutchings](https://open.spotify.com/artist/54MsweggxTxlfYUbhZNIQ0), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Still / Sound — piano reworks](https://open.spotify.com/album/5KmLU0k60tDKnEhgRAqG2N) | 4:51 |
 | 238 | [Lóa \- Bing & Ruth Rework](https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [Absent Minded Reworks](https://open.spotify.com/album/4PUlR86gpB0q6IaCq4A5rY) | 3:30 |
 | 239 | [Steep Hills of Vicodin Tears](https://open.spotify.com/track/6Yv5DNJlyW0e6Iy8zrh9Xy) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1) | [A Winged Victory for the Sullen](https://open.spotify.com/album/2spBndYI1ujMciJOh0C2nQ) | 4:29 |
 | 240 | [Starwood Choker](https://open.spotify.com/track/2w5l9sDXytt4lu0ZYFSoIX) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [No Home of the Mind](https://open.spotify.com/album/24gsYd7bA0V4fHCHpc3KlM) | 6:16 |
-| 241 | [Søndermarken \- Video Edit](https://open.spotify.com/track/2GMSzm2ZRK4aZSVEhd1LM2) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Søndermarken \(Video Edit\)](https://open.spotify.com/album/3K2dpXIQseN96P9cRJLonX) | 4:10 |
+| 241 | [Campfire](https://open.spotify.com/track/0qdMoqCqqmKo1V3NAuoWRM) | [Henrik Lindstrand](https://open.spotify.com/artist/1jdUu8RsoIhTGLeJvzoACP) | [Lego Builder's Journey](https://open.spotify.com/album/7ITTIJLVp2HjmjeWnwk274) | 2:55 |
 | 242 | [Triptych 1 for Piano](https://open.spotify.com/track/2YAjAXgl0GVtuZ6uDH6aWl) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ) | [Triptych 1 for Piano](https://open.spotify.com/album/3kPnyIFFsaowlybyuN9krj) | 2:39 |
 | 243 | [Post String Theory \- Foam and Sand Rework](https://open.spotify.com/track/4UQCB1YLBTl8n1WeshtUq1) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Foam and Sand](https://open.spotify.com/artist/1auVJGxP1B7a0GYbD6G6dd) | [Post String Theory \(Foam and Sand Rework\)](https://open.spotify.com/album/4LeYPputcKJqRtKx89XCdI) | 4:50 |
 | 244 | [Think Of Home \- Kelly Moran Rework](https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB), [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Reworks I](https://open.spotify.com/album/7ajMV5xymvcCA7EtwWvY79) | 3:38 |

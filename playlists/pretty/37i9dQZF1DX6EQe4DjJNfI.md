@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,039 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,096 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 65 | [Faz Arrepiar](https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz) | [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Ane](https://open.spotify.com/artist/59BcvfHR3rS8VA3yxwATAG) | [Faz Arrepiar](https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7) | 2:20 |
 | 66 | [Lingerie Branca](https://open.spotify.com/track/767Wg3TRuMBDuc92Vz1pQS) | [Motico Money](https://open.spotify.com/artist/7rOf2PkphQnVsVQKzVsfbA) | [Lingerie Branca](https://open.spotify.com/album/0HvagvotzuwiTprnrRyM6z) | 3:59 |
 | 67 | [NEGRA COR](https://open.spotify.com/track/342rayf5kBDPfjdGu7Ke0S) | [VÉRTICE](https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm) | [VIVER É SENTIR](https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb) | 3:21 |
-| 68 | [Açaí e Amendoím](https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw) | [Nevess](https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy), [Caslu](https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP) | [Açaí e Amendoím](https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ) | 3:13 |
-| 69 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 |
-| 70 | [Seu Jogo](https://open.spotify.com/track/4e5bZHMpSrEJDovEdER2DK) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Seu Jogo](https://open.spotify.com/album/2SEQeYEUN1srTGXgOlX4Zs) | 2:34 |
+| 68 | [Seu Jogo](https://open.spotify.com/track/4e5bZHMpSrEJDovEdER2DK) | [Murilo Magalhães](https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Seu Jogo](https://open.spotify.com/album/2SEQeYEUN1srTGXgOlX4Zs) | 2:34 |
+| 69 | [Açaí e Amendoím](https://open.spotify.com/track/3rSrYhRAqFVTg1Lva2uCvw) | [Nevess](https://open.spotify.com/artist/3Cmd7iDVwnt0rgVdveqNVy), [Caslu](https://open.spotify.com/artist/0j5Ei0F504PNqn0DSzIodP) | [Açaí e Amendoím](https://open.spotify.com/album/36yIeO6OMUs4aa1GxdbCsJ) | 3:13 |
+| 70 | [Milão](https://open.spotify.com/track/4x4Fp6OGsLjIu2T0rZt6d5) | [Bela Maria](https://open.spotify.com/artist/3PiRpeHMxOFToEs65CZQCv), [Matheusinho](https://open.spotify.com/artist/7a44CZgtFWpgACFj2G56JX) | [Milão](https://open.spotify.com/album/710Y3Si18m6WkKMtNrzgMl) | 3:19 |
 | 71 | [Lady](https://open.spotify.com/track/2CTPUB6BAFFr7ws4D6o4pa) | [Akin](https://open.spotify.com/artist/1rHhyIAiFS59m0cjtVzusv) | [Brisa](https://open.spotify.com/album/7zvPrl4QuI1pRVWKLlqAxm) | 3:28 |
 | 72 | [Troco](https://open.spotify.com/track/3lL3rifI9DsdbApt8Lidkr) | [Feh](https://open.spotify.com/artist/3bMQmsnuvak2a7fOQagiCP) | [Troco](https://open.spotify.com/album/5Vl5m3qaYvCf6Q1Q0xRI7V) | 2:39 |
 | 73 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |

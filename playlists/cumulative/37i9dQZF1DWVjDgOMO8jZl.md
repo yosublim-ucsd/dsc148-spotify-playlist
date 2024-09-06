@@ -4,7 +4,7 @@
 
 > STE in cover di RADAR Italia, la playlist dedicata agli artisti che Spotify ha scelto come emergenti dell'anno.
 
-162 songs - 7 hr 48 min
+164 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Ogni Minuto](https://open.spotify.com/track/5muyR3scZrOQDW1sHDraGq) | [TOMMY DALI](https://open.spotify.com/artist/0dus12DVjr0hoFaUDOz9B5) | [Ogni Minuto](https://open.spotify.com/album/0CntyxOD6yvCreqPWDTyQz) | 2:35 | 2023-03-08 | 2023-04-12 |
 | [ok :\)](https://open.spotify.com/track/5QTT9PQDW6CSl1UByi5nxt) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :\)](https://open.spotify.com/album/499zhITIl5pq4NgXU7AXoR) | 3:29 | 2024-06-27 |  |
 | [ok :/](https://open.spotify.com/track/04ui4a5OFflkrFJ5qXExdY) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok :/](https://open.spotify.com/album/7JMRoCMELpRyMhzj8XAkmt) | 2:52 | 2024-04-23 |  |
+| [ok :0](https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok?](https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz) | 3:10 | 2024-09-05 |  |
 | [ok </3](https://open.spotify.com/track/0KPSTNiVHs4cRwCj3W5GW4) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok </3](https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz) | 3:24 | 2024-08-08 |  |
 | [okok](https://open.spotify.com/track/1bcDVX5XacuPzujRos1C3T) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 3:30 | 2024-04-23 |  |
 | [okokok](https://open.spotify.com/track/4h38UzD3z7bWMafhrdM7xW) | [okgiorgio](https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg) | [ok](https://open.spotify.com/album/1w7C8fTWGQu5QhHdS5B7pi) | 2:38 | 2024-04-23 |  |
@@ -133,6 +134,7 @@
 | [PROFUMO](https://open.spotify.com/track/0Gi4BJG02Hj6x1csoni8fz) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PROFUMO](https://open.spotify.com/album/1lD5U7HWtabfmkSxx7vH6X) | 3:23 | 2023-04-20 | 2024-04-24 |
 | [pupille](https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [pupille](https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt) | 2:49 | 2024-08-30 |  |
 | [Quanto Ti Amo](https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Quanto Ti Amo](https://open.spotify.com/album/5Z8aea17ANp1pI8q89O7fL) | 3:09 | 2022-08-31 | 2023-04-12 |
+| [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [quasi nuda](https://open.spotify.com/track/317eSzpK6SiEUiqTtke6Jk) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [quasi nuda](https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn) | 2:45 | 2024-05-30 |  |
 | [QUELLE PAROLE](https://open.spotify.com/track/44FeZREhPwoT8lYNImkVV6) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [FARSI MALE A NOI VA BENE 2.0](https://open.spotify.com/album/3V5mL95C6ca2X7UoQAwGpo) | 2:38 | 2022-08-31 | 2023-04-12 |
 | [RED](https://open.spotify.com/track/0jwm30oXN08kVO9JwqrCPL) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz) | [RED](https://open.spotify.com/album/2Ddi22NvLWIP9MUAYqEil5) | 2:14 | 2024-08-08 |  |

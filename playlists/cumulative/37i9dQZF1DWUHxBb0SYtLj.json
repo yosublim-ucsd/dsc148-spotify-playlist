@@ -8605,6 +8605,24 @@
     },
     {
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh"
+    },
+    {
+      "album": {
         "name": "Immagina che bello sarebbe scappare",
         "url": "https://open.spotify.com/album/5KncyVxTCM54HWwdvczmWb"
       },
@@ -14295,7 +14313,7 @@
     },
     {
       "album": {
-        "name": "Perduto - D-Verse",
+        "name": "Perduto (D-Verse)",
         "url": "https://open.spotify.com/album/3b8AIeuDDRxyn6LbwgdAo0"
       },
       "artists": [
@@ -14308,7 +14326,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 193282,
-      "name": "Perduto - D-Verse",
+      "name": "Perduto (D-Verse)",
       "url": "https://open.spotify.com/track/4RcZV7lGmG1cDlwPzbdaZX"
     },
     {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: sara j jones, cura",
+  "description": "Il meglio dell'R&B italiano. Cover: Cristina Lizzul",
   "name": "anima R&B",
   "tracks": [
     {
@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 168923,
       "name": "Anni Luce",
       "url": "https://open.spotify.com/track/5lQ5fL5tH7IbOcOTBuwZuL"
@@ -2982,6 +2982,24 @@
       "duration_ms": 159000,
       "name": "Dipinto",
       "url": "https://open.spotify.com/track/7EyaNzozxk5KAXjXK9fv4c"
+    },
+    {
+      "album": {
+        "name": "DISCESA",
+        "url": "https://open.spotify.com/album/6bFh0qQMdJ3h5KAQpIIBEt"
+      },
+      "artists": [
+        {
+          "name": "Federico Vinci",
+          "url": "https://open.spotify.com/artist/2WXOFbXEJ319V8Qoc6UIf4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121519,
+      "name": "DISCESA",
+      "url": "https://open.spotify.com/track/4UusFIpxBLxJVZZMeIJ1VU"
     },
     {
       "album": {
@@ -9441,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Ros\u00e9 Gold",
+        "url": "https://open.spotify.com/album/07xt0gQgokIELeYWINUTGI"
+      },
+      "artists": [
+        {
+          "name": "NIMSAY",
+          "url": "https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169148,
+      "name": "Ros\u00e9 Gold",
+      "url": "https://open.spotify.com/track/7kXoxdK0EHw10Q3T3ol37N"
+    },
+    {
+      "album": {
         "name": "Rotterdam",
         "url": "https://open.spotify.com/album/5Hh1Yp8l8vZNDaNGS5mAco"
       },
@@ -9723,6 +9759,28 @@
     },
     {
       "album": {
+        "name": "Scusame (feat. SVM)",
+        "url": "https://open.spotify.com/album/4xgf5oNHQaVvNkSCDepWUO"
+      },
+      "artists": [
+        {
+          "name": "Keyra",
+          "url": "https://open.spotify.com/artist/5Y0hkP4UJmxdajANUr1IoC"
+        },
+        {
+          "name": "SVM",
+          "url": "https://open.spotify.com/artist/3wLbD7kI7V3nruSMNuajEL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "Scusame (feat. SVM)",
+      "url": "https://open.spotify.com/track/6pXyhPamzXn79LFvMSrYZQ"
+    },
+    {
+      "album": {
         "name": "Se chiedo alla luna",
         "url": "https://open.spotify.com/album/5lom3OWxoJbpyMC2CCWKbw"
       },
@@ -9966,7 +10024,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 185077,
       "name": "Senza Finale",
       "url": "https://open.spotify.com/track/2VitXF1SEYx95J7bi9XZHU"
@@ -10368,6 +10426,24 @@
       "duration_ms": 144864,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/4v7o3iqvL88jdc2HzADlMZ"
+    },
+    {
+      "album": {
+        "name": "SONO IO",
+        "url": "https://open.spotify.com/album/7qL9fOVmQxkdKWHpUrsbIi"
+      },
+      "artists": [
+        {
+          "name": "Ivan Indovino",
+          "url": "https://open.spotify.com/artist/2Es1bbQJ3W1gsJC0KUhiiX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183825,
+      "name": "SONO IO",
+      "url": "https://open.spotify.com/track/3gJLtSkDcgj1K8RDUej7H7"
     },
     {
       "album": {
@@ -11441,6 +11517,24 @@
     },
     {
       "album": {
+        "name": "Tu Me Faje Mur\u00ed",
+        "url": "https://open.spotify.com/album/1XJbJoFrOUUhMymaZoEKUP"
+      },
+      "artists": [
+        {
+          "name": "Cristina Lizzul",
+          "url": "https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200929,
+      "name": "Tu Me Faje Mur\u00ed",
+      "url": "https://open.spotify.com/track/0KjwK1p3zAWiyrN2M3x1gb"
+    },
+    {
+      "album": {
         "name": "tu sonrisa de dise\u00f1o",
         "url": "https://open.spotify.com/album/6hX4z8fr1EHZs8lOnhanG9"
       },
@@ -11496,6 +11590,28 @@
       "duration_ms": 175545,
       "name": "tutta la citt\u00e0",
       "url": "https://open.spotify.com/track/5jZ3gAws7oYZcJ9e9moN2u"
+    },
+    {
+      "album": {
+        "name": "tutte le mie notti",
+        "url": "https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u"
+      },
+      "artists": [
+        {
+          "name": "main",
+          "url": "https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz"
+        },
+        {
+          "name": "bless",
+          "url": "https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "tutte le mie notti",
+      "url": "https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY"
     },
     {
       "album": {
@@ -11688,6 +11804,24 @@
       "duration_ms": 197000,
       "name": "Ultimo Giro",
       "url": "https://open.spotify.com/track/4tOx6QdfZipbqLZhSREDxG"
+    },
+    {
+      "album": {
+        "name": "Un altro Caff\u00e8",
+        "url": "https://open.spotify.com/album/3ncO7WlxH4hthTWDtTftPy"
+      },
+      "artists": [
+        {
+          "name": "Gheto Soffittaman",
+          "url": "https://open.spotify.com/artist/62CPNMq6q0kqvEGTYbdZ4U"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Un altro Caff\u00e8",
+      "url": "https://open.spotify.com/track/2Y1UU3K1Hi34Vw9QBZjhxv"
     },
     {
       "album": {

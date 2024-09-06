@@ -1,12 +1,12 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71581,
+  "num_followers": 71586,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABNGNXnEs6cDwBjIWEnO+aD",
+  "snapshot_id": "ZtejAAAAAAB5saVbOc5A/4owUXRWmQHO",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sensation",
-        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Chelcee Grimes",
-          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
-        }
-      ],
-      "duration_ms": 174665,
-      "name": "Sensation",
-      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Here We Go (Hey Boy, Hey Girl)",
         "url": "https://open.spotify.com/album/1FEl0KDX9bd9RwIOfwycgd"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 158095,
       "name": "Here We Go (Hey Boy, Hey Girl)",
       "url": "https://open.spotify.com/track/2FQgmygHetc4SPApVDmj3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sensation",
+        "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Chelcee Grimes",
+          "url": "https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx"
+        }
+      ],
+      "duration_ms": 174665,
+      "name": "Sensation",
+      "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
     },
     {
       "added_at": null,
@@ -935,6 +935,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Why Do I Call",
+        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 158958,
+      "name": "Why Do I Call",
+      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Nighttrain",
         "url": "https://open.spotify.com/album/4t5mdjfkRkRPwQmHmXRx1v"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 186573,
       "name": "The Nighttrain",
       "url": "https://open.spotify.com/track/067wD8CKiwiOz8beq5OTV2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Why Do I Call",
-        "url": "https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 158958,
-      "name": "Why Do I Call",
-      "url": "https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi"
     },
     {
       "added_at": null,
@@ -1031,26 +1031,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "Nico & Vinz",
-          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
-        }
-      ],
-      "duration_ms": 140477,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Neon Future III",
         "url": "https://open.spotify.com/album/1VFgefav92A6JzlPSUatzV"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 198281,
       "name": "Be Somebody (feat. Kiiara)",
       "url": "https://open.spotify.com/track/0YnJVay1kDxknXcIigPSvn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "Nico & Vinz",
+          "url": "https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn"
+        }
+      ],
+      "duration_ms": 140477,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP"
     },
     {
       "added_at": null,

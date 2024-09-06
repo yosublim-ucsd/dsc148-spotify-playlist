@@ -1,6 +1,6 @@
 {
   "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
-  "num_followers": 60931,
+  "num_followers": 60945,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -741,6 +741,22 @@
       "url": "https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8"
     },
     {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mujer De Luna",
+        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
+      },
+      "artists": [
+        {
+          "name": "Patricia Carri\u00f3n",
+          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
+        }
+      ],
+      "duration_ms": 285746,
+      "name": "Ana's Song",
+      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
+    },
+    {
       "added_at": "2022-03-30 03:01:09",
       "album": {
         "name": "Kumoi",
@@ -759,42 +775,6 @@
       "duration_ms": 127240,
       "name": "Suite Yusef Lateef",
       "url": "https://open.spotify.com/track/0AkwnLhfQNazmhFaWQ9unK"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Mujer De Luna",
-        "url": "https://open.spotify.com/album/6T8B3gspDicZbXyDW37MV4"
-      },
-      "artists": [
-        {
-          "name": "Patricia Carri\u00f3n",
-          "url": "https://open.spotify.com/artist/1OKNkm7GiyzPsp5xktd9Uj"
-        }
-      ],
-      "duration_ms": 285746,
-      "name": "Ana's Song",
-      "url": "https://open.spotify.com/track/5m9ubjmsr1Imfa26KulXz0"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Sacbe: Sacbe (Complete)",
-        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
-      },
-      "artists": [
-        {
-          "name": "Clare Fischer",
-          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
-        },
-        {
-          "name": "Sacbe",
-          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
-        }
-      ],
-      "duration_ms": 380800,
-      "name": "Mijo",
-      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -819,6 +799,26 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Sacbe: Sacbe (Complete)",
+        "url": "https://open.spotify.com/album/3LhbAvlKoxmYCbagKUajAP"
+      },
+      "artists": [
+        {
+          "name": "Clare Fischer",
+          "url": "https://open.spotify.com/artist/6YUywiIGx79eA85WXt0FrM"
+        },
+        {
+          "name": "Sacbe",
+          "url": "https://open.spotify.com/artist/2UA1zpDaD5s3Uy5R7JzzOh"
+        }
+      ],
+      "duration_ms": 380800,
+      "name": "Mijo",
+      "url": "https://open.spotify.com/track/5xWmwOAA9RiH4iTrxWKWnL"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Nuevas Relaciones: Atardecer",
         "url": "https://open.spotify.com/album/6BGjiD39s1ZeHTOEraKnbl"
       },
@@ -839,22 +839,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Bienvenidos",
-        "url": "https://open.spotify.com/album/0o32WHvVW7dEI8R2VT2K2K"
+        "name": "Mezcal",
+        "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
       "artists": [
         {
-          "name": "Palapa",
-          "url": "https://open.spotify.com/artist/0ToWehUK2VL3ZmdhthaQt0"
-        },
-        {
-          "name": "Francisco Lelo de Larrea",
-          "url": "https://open.spotify.com/artist/5RARQRDOtniHclBKYK0pdP"
+          "name": "Adri\u00e1n Oropeza Tr\u00edo",
+          "url": "https://open.spotify.com/artist/3kSQteccOICAnocbnba3yl"
         }
       ],
-      "duration_ms": 343187,
-      "name": "5:PM",
-      "url": "https://open.spotify.com/track/76Q411FGiMRHoi3NoFhIGf"
+      "duration_ms": 393786,
+      "name": "La Cigarra",
+      "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
     },
     {
       "added_at": "2024-08-29 03:09:23",

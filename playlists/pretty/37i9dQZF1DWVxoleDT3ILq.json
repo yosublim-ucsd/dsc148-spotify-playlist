@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Dulce y Agraz.",
-  "num_followers": 121710,
+  "num_followers": 121707,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Ya No Te Quiero",
-        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
-      },
-      "artists": [
-        {
-          "name": "Hija de Rojo",
-          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
-        },
-        {
-          "name": "Planeta No",
-          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
-        }
-      ],
-      "duration_ms": 197566,
-      "name": "Ya No Te Quiero",
-      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1119,6 +1099,26 @@
       "duration_ms": 221620,
       "name": "Bailar en la Cuerda Floja",
       "url": "https://open.spotify.com/track/3cCrs1Ecy594YZwf3CVuII"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Ya No Te Quiero",
+        "url": "https://open.spotify.com/album/3r8ngrBY6vR9jwsj67HCCy"
+      },
+      "artists": [
+        {
+          "name": "Hija de Rojo",
+          "url": "https://open.spotify.com/artist/5HaKPLitdETb46owOu4Uxd"
+        },
+        {
+          "name": "Planeta No",
+          "url": "https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN"
+        }
+      ],
+      "duration_ms": 197566,
+      "name": "Ya No Te Quiero",
+      "url": "https://open.spotify.com/track/2r6aWKCe1ZggvtwWBEXDWv"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1319,28 +1319,24 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Confortas Pero Da\u00f1as",
-        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
+        "name": "Barreras de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
       },
       "artists": [
         {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Resonancia Et\u00e9rea",
-          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
+          "name": "El Mulu",
+          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
         }
       ],
-      "duration_ms": 249502,
-      "name": "Confortas Pero Da\u00f1as",
-      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
+      "duration_ms": 228000,
+      "name": "Barreras de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
     },
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Ganas de Verte",
-        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
+        "name": "Aves de papel",
+        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
       },
       "artists": [
         {
@@ -1348,13 +1344,13 @@
           "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
         },
         {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+          "name": "Salares",
+          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Ganas de Verte",
-      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
+      "duration_ms": 233422,
+      "name": "Aves de papel",
+      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1375,34 +1371,22 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Barreras de Cart\u00f3n",
-        "url": "https://open.spotify.com/album/6v1MmbGgBM50waNJgC0BYj"
+        "name": "Confortas Pero Da\u00f1as",
+        "url": "https://open.spotify.com/album/0XnGw8WHcmD8E5PAec44ip"
       },
       "artists": [
         {
-          "name": "El Mulu",
-          "url": "https://open.spotify.com/artist/7qN9FEsJkAp5Efc0xfRcpM"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Barreras de Cart\u00f3n",
-      "url": "https://open.spotify.com/track/0wTOjnwwJbkq8jnUiNoVUM"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
-        "name": "qui\u00e9n llama a esta hora",
-        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
-      },
-      "artists": [
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
         {
-          "name": "gabriela arcos",
-          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+          "name": "Resonancia Et\u00e9rea",
+          "url": "https://open.spotify.com/artist/7cD8IM5x8k0vTOgY4kQzuB"
         }
       ],
-      "duration_ms": 225932,
-      "name": "cuando pienses en el destino",
-      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
+      "duration_ms": 249502,
+      "name": "Confortas Pero Da\u00f1as",
+      "url": "https://open.spotify.com/track/1XhoqOuon1mUaZpDSjRiaD"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1419,6 +1403,22 @@
       "duration_ms": 189416,
       "name": "Donde Mueren Todos",
       "url": "https://open.spotify.com/track/44oCQkDKciyv322yWTCOTz"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "qui\u00e9n llama a esta hora",
+        "url": "https://open.spotify.com/album/0kxhAbkGpkSqxQCV7Z1hzJ"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "duration_ms": 225932,
+      "name": "cuando pienses en el destino",
+      "url": "https://open.spotify.com/track/6eGkYDbB2e5LOZ4jBnlfdS"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
-    },
-    {
-      "added_at": "2024-08-30 03:00:00",
-      "album": {
         "name": "Poemas por DM",
         "url": "https://open.spotify.com/album/1RinKYk7btVI8Bcan7PQqc"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 220856,
       "name": "Poemas por DM",
       "url": "https://open.spotify.com/track/1l4mucwox19VbCrLJKESoz"
+    },
+    {
+      "added_at": "2024-08-30 03:00:00",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/7gNdaydtI1DfL8EB5GJxBn"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1CmeVB662WNqknJ78htsuB"
     },
     {
       "added_at": "2024-08-30 03:00:00",
@@ -1507,8 +1507,8 @@
     {
       "added_at": "2024-08-30 03:00:00",
       "album": {
-        "name": "Aves de papel",
-        "url": "https://open.spotify.com/album/3k7BiE434QYKjrCIStqiUB"
+        "name": "Ganas de Verte",
+        "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
       },
       "artists": [
         {
@@ -1516,13 +1516,13 @@
           "url": "https://open.spotify.com/artist/2IVtNowtuHyVIqx0mwPuR3"
         },
         {
-          "name": "Salares",
-          "url": "https://open.spotify.com/artist/0RhqBfkTtUA96ucZsbjzXL"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         }
       ],
-      "duration_ms": 233422,
-      "name": "Aves de papel",
-      "url": "https://open.spotify.com/track/3AZHa5QgudzfPcD1KmCwep"
+      "duration_ms": 198000,
+      "name": "Ganas de Verte",
+      "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
     },
     {
       "added_at": "2024-08-30 03:00:00",

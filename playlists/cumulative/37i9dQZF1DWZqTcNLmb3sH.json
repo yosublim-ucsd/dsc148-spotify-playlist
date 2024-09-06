@@ -5947,6 +5947,32 @@
     },
     {
       "album": {
+        "name": "Daavudi (From \"Devara Part 1\") [KANNADA]",
+        "url": "https://open.spotify.com/album/3KwUSrnu9nNN69zwhsDpl1"
+      },
+      "artists": [
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        },
+        {
+          "name": "AKASA",
+          "url": "https://open.spotify.com/artist/4mRPyvdSBxARQIFeXXM13s"
+        },
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229167,
+      "name": "Daavudi (From \"Devara Part 1\")",
+      "url": "https://open.spotify.com/track/3SnEdhM9uuwwxf33uUEiqa"
+    },
+    {
+      "album": {
         "name": "Dachak Anthamma (from \"Kiraathaka 2\")",
         "url": "https://open.spotify.com/album/1rSgL0Nsuq6Rp8H14FxUVh"
       },
@@ -9244,6 +9270,32 @@
       "duration_ms": 83601,
       "name": "Gajagala Palagiso",
       "url": "https://open.spotify.com/track/5KzU2kVWKYjGPQzQdqqyQS"
+    },
+    {
+      "album": {
+        "name": "Gajendira (From \"Mr. Celebrity - Kannada\")",
+        "url": "https://open.spotify.com/album/6aOO5fJCk2JYP8pYKSQ6ks"
+      },
+      "artists": [
+        {
+          "name": "Vinod Yajamanya",
+          "url": "https://open.spotify.com/artist/2owwjbhnbOYXcKtShHRrwR"
+        },
+        {
+          "name": "Rama Durgam",
+          "url": "https://open.spotify.com/artist/09dYbajCM8q1uSNMukcKsL"
+        },
+        {
+          "name": "Ananya Bhat",
+          "url": "https://open.spotify.com/artist/4JczWHls9n9VpTHnqO2IG8"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Gajendira (From \"Mr. Celebrity - Kannada\")",
+      "url": "https://open.spotify.com/track/1Z9pwPGojNYki1FO1DfSkK"
     },
     {
       "album": {
@@ -24188,7 +24240,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 243509,
       "name": "Party Anthem (From \"Back Bencherz\")",
       "url": "https://open.spotify.com/track/3aVGfzcrtn9qLbmMUM6cmy"
@@ -28572,7 +28624,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 88999,
       "name": "Tadibeda Tadibeda (From \"Jigar\")",
       "url": "https://open.spotify.com/track/6fkUaEMWWsnMWbyHhCQ4ur"

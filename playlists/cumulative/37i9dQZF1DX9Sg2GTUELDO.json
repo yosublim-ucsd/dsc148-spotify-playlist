@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover:  Leah Doh (\u7ac7\u9756\u7ae5)",
+  "description": "\u611f\u53d7\u8d85\u7d1a\u5973\u8072\u529b\u91cf\u3002Cover:  Anna hisbbuR",
   "name": "\u8d85\u7d1a\u5973\u8072",
   "tracks": [
     {
@@ -918,6 +918,24 @@
       "duration_ms": 244401,
       "name": "I am All Alone",
       "url": "https://open.spotify.com/track/2Uw9M5MT2xXOxmPsXd8xvK"
+    },
+    {
+      "album": {
+        "name": "I go to school by bus",
+        "url": "https://open.spotify.com/album/33B3jDSQXLMuuWt8dtjnWD"
+      },
+      "artists": [
+        {
+          "name": "Anna hisbbuR",
+          "url": "https://open.spotify.com/artist/1aGiVSaZQoVVgMOLYF5yVR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124261,
+      "name": "I go to school by bus",
+      "url": "https://open.spotify.com/track/3Os3BK6rPvh7Z7VKDBTtAa"
     },
     {
       "album": {
@@ -3521,6 +3539,24 @@
     },
     {
       "album": {
+        "name": "\u5927\u4eba\u570b",
+        "url": "https://open.spotify.com/album/1VQgHauEpOLjkB0ZX1maWb"
+      },
+      "artists": [
+        {
+          "name": "Apple \u51cc\u96ea\u6021",
+          "url": "https://open.spotify.com/artist/3k01I6i5Vdf4fxSCzCdZvp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209117,
+      "name": "\u5927\u4eba\u570b",
+      "url": "https://open.spotify.com/track/0acD0EP6TtrvhevpY6gqcl"
+    },
+    {
+      "album": {
         "name": "\u5927\u534a\u591c\u672a\u80af\u7761",
         "url": "https://open.spotify.com/album/0xZ83szptwJfrtcZkIR1Ih"
       },
@@ -3860,6 +3896,24 @@
       "duration_ms": 265573,
       "name": "\u5f04\u54ed\u7537\u5b69\u5b50",
       "url": "https://open.spotify.com/track/10K6w1fJp52uMQLgXCKQW9"
+    },
+    {
+      "album": {
+        "name": "\u5f15\u6211\u7b11",
+        "url": "https://open.spotify.com/album/6a8DC52Ao3RD86JQM0RU9M"
+      },
+      "artists": [
+        {
+          "name": "Cloud \u96f2\u6d69\u5f71",
+          "url": "https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "\u5f15\u6211\u7b11",
+      "url": "https://open.spotify.com/track/5NV6UYomi1d0o02vPEi0nm"
     },
     {
       "album": {
@@ -6374,7 +6428,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 220529,
       "name": "\u963f\u59d0\u4eca\u5e74\u5df2\u7d9330\u6b72",
       "url": "https://open.spotify.com/track/6zqysqnKJv93lCU4LgPil3"

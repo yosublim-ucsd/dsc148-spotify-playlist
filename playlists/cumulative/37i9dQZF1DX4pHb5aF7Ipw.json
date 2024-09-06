@@ -815,6 +815,28 @@
     },
     {
       "album": {
+        "name": "DIRECT FLOW",
+        "url": "https://open.spotify.com/album/3GOSiSO5yEPX297pBdM2ln"
+      },
+      "artists": [
+        {
+          "name": "Ransher",
+          "url": "https://open.spotify.com/artist/1VsPxJiSgXUDVzw7JeES6z"
+        },
+        {
+          "name": "Robby Ladhar",
+          "url": "https://open.spotify.com/artist/1fQKXXirkWuF0LSuodz1Zf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148800,
+      "name": "DIRECT FLOW",
+      "url": "https://open.spotify.com/track/7CRjNrCH0IRCn6nUbkWIMb"
+    },
+    {
+      "album": {
         "name": "DND",
         "url": "https://open.spotify.com/album/3ySYqXXj6Ycfy1NdPCT6y1"
       },
@@ -1528,7 +1550,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 170322,
       "name": "MAJHE AALE",
       "url": "https://open.spotify.com/track/5eN1nmOe9R29OBL6soTJov"
@@ -1700,6 +1722,28 @@
       "duration_ms": 181333,
       "name": "my turn/meri vaari",
       "url": "https://open.spotify.com/track/1lnRtzXxijmzDRixUHz1aL"
+    },
+    {
+      "album": {
+        "name": "Breakin Boundaries",
+        "url": "https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150927,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0IU3udts4NQ1C4KHRfv6sv"
     },
     {
       "album": {
@@ -2066,7 +2110,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 225000,
       "name": "Racks and Rounds (feat. Sikander Kahlon)",
       "url": "https://open.spotify.com/track/4RbRZYPR7Dwg8WRNn4UA8m"
@@ -2381,6 +2425,28 @@
     },
     {
       "album": {
+        "name": "Breakin Boundaries",
+        "url": "https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e"
+      },
+      "artists": [
+        {
+          "name": "Jxggi",
+          "url": "https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG"
+        },
+        {
+          "name": "Sickboi",
+          "url": "https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "They Don't Know",
+      "url": "https://open.spotify.com/track/3rQmvM91VG7Yq3gqQXq6nu"
+    },
+    {
+      "album": {
         "name": "To The Warrior",
         "url": "https://open.spotify.com/album/3reOnoEISEFMSSkMBfvWFR"
       },
@@ -2426,7 +2492,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 236800,
       "name": "Todh",
       "url": "https://open.spotify.com/track/7FVgT8XjxUSfKuZuHxg316"

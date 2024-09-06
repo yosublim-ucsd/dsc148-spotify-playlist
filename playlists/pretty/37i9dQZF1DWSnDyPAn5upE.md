@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 
 > Otherworldly voices in the realms of ambient\. Cover: Grouper
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,776 likes - 100 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,840 likes - 100 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSnDyPAn5upE.md) - [plain]
 | 90 | [chamomile](https://open.spotify.com/track/2UUgL4njMUrtqoylzUfDus) | [marine eyes](https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25) | [chamomile](https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj) | 4:02 |
 | 91 | [An Open Door](https://open.spotify.com/track/3SMUq0TSlF7Q8Ti7ClAgCi) | [Roly Porter](https://open.spotify.com/artist/4RN8pUdphaky5GRL8rUL6P) | [Kistvaen](https://open.spotify.com/album/2FyQ190yTNtBb54jvQzs80) | 6:00 |
 | 92 | [Pisces](https://open.spotify.com/track/2dAYdDyD2misHkcqSEYT0N) | [Ekin Fil](https://open.spotify.com/artist/2F9OXpPD8su7xGVgEtPrda) | [Aquarius/Pisces](https://open.spotify.com/album/1EeFUVRFKGK3p4KBckGf5W) | 4:58 |
-| 93 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 |
-| 94 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
+| 93 | [Fur & Feather](https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT) | [Penelope Three](https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi) | 3:04 |
+| 94 | [Nocturnal](https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN) | [Fiona Brice](https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT) | [And You Know I Care](https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ) | 4:49 |
 | 95 | [Clotho](https://open.spotify.com/track/5BhDYQ7r5ftJKQGIFOPRYF) | [We like We](https://open.spotify.com/artist/6UaYVZHa4gmjroNhpJiRWN), [Jacob Kirkegaard](https://open.spotify.com/artist/71cpL5pgnIANdmbY7L7NGE) | [Time Is Local](https://open.spotify.com/album/5u8j8cCULkNlhSRr07CPvV) | 1:36 |
 | 96 | [A Model Of Reality \- Aonian Remix](https://open.spotify.com/track/5vwXzugL0n34KQYLP9PRhA) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J), [Kotomi](https://open.spotify.com/artist/2DkkZhwyZWHflCcjGEA6Nu), [Aonian](https://open.spotify.com/artist/0irfc5RmuSG3wGYtVOXdJi) | [A Model of Reality Reworks](https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK) | 3:59 |
 | 97 | [By the Shore](https://open.spotify.com/track/172HYchcUHffaAYQ8sQOyy) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 7:20 |

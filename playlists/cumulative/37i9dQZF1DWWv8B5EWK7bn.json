@@ -1891,6 +1891,24 @@
     },
     {
       "album": {
+        "name": "Estar\u00e1n aparcando",
+        "url": "https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ"
+      },
+      "artists": [
+        {
+          "name": "Espanto",
+          "url": "https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140727,
+      "name": "Estar\u00e1n aparcando",
+      "url": "https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA"
+    },
+    {
+      "album": {
         "name": "Morro",
         "url": "https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE"
       },
@@ -6074,7 +6092,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 180560,
       "name": "Situation",
       "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"

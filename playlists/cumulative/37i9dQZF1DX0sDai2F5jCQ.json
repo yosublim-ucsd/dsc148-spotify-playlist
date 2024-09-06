@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Sleepy Hallow, Sheff G",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Big Sean",
   "name": "A1",
   "tracks": [
     {
@@ -436,6 +436,24 @@
       "duration_ms": 161562,
       "name": "And We",
       "url": "https://open.spotify.com/track/2bKnka3kbhgqGb4pCHPmYl"
+    },
+    {
+      "album": {
+        "name": "Anything Goes",
+        "url": "https://open.spotify.com/album/78o0jD0mpRLazYdUfYiK04"
+      },
+      "artists": [
+        {
+          "name": "Ay Huncho",
+          "url": "https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "Anything Goes",
+      "url": "https://open.spotify.com/track/0FU8AIBNGxSZ8IdXsSUjWF"
     },
     {
       "album": {
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192000,
       "name": "Body (feat. Cash Cobain)",
       "url": "https://open.spotify.com/track/44WjDzEEEy3a7c8ZzJJ8rW"
@@ -1562,7 +1580,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 155783,
       "name": "COOL DOWN (feat. YG)",
       "url": "https://open.spotify.com/track/5xF2xRuCrPzdiuquJ363Ok"
@@ -2226,7 +2244,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208968,
       "name": "Fear No Man",
       "url": "https://open.spotify.com/track/0t5jX5yYQ4HklmDak76c39"
@@ -2526,7 +2544,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 128063,
       "name": "GEEKALEEK (Remix) [feat. Day1]",
       "url": "https://open.spotify.com/track/4jzIKI8EP8oaKW3pY5Huoj"
@@ -3499,6 +3517,28 @@
     },
     {
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203637,
+      "name": "It Is What It Is (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
+    },
+    {
+      "album": {
         "name": "100 GIGS",
         "url": "https://open.spotify.com/album/0FYZn1AI7Fly7H25Vykc64"
       },
@@ -3580,7 +3620,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160000,
       "name": "Jing Jing",
       "url": "https://open.spotify.com/track/6PuAeP3t6Rx1weKHWib9NM"
@@ -4193,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "Maybach Wallet",
+        "url": "https://open.spotify.com/album/1ERLcIsPGfZpS3v4zOFFJ3"
+      },
+      "artists": [
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153720,
+      "name": "Maybach Wallet",
+      "url": "https://open.spotify.com/track/086OIQVqSMKZRIE28P7ds9"
+    },
+    {
+      "album": {
         "name": "meet the grahams",
         "url": "https://open.spotify.com/album/5PGH88Cwual1Nj8d2RsKP0"
       },
@@ -4404,7 +4462,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 173475,
       "name": "NATURAL HABITAT",
       "url": "https://open.spotify.com/track/7a8mHVnOWMKJEfmoNtBqwb"
@@ -4558,6 +4616,24 @@
       "duration_ms": 145661,
       "name": "Nkita (feat. Fimiguerrero)",
       "url": "https://open.spotify.com/track/0ZTM2WCM4fAOwmYtG9pbnm"
+    },
+    {
+      "album": {
+        "name": "Peace of mine.",
+        "url": "https://open.spotify.com/album/4tZPcfJAWSiGsADrEnNDor"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "No Disrespect",
+      "url": "https://open.spotify.com/track/0ZDYdn0Eirn5HVqDzP5hes"
     },
     {
       "album": {
@@ -5020,7 +5096,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 134826,
       "name": "Playa (feat. Skilla Baby)",
       "url": "https://open.spotify.com/track/3pEOBaJeDXyN5PpGXxeDx9"
@@ -5400,7 +5476,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -6388,7 +6464,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 134126,
       "name": "That's My Girl",
       "url": "https://open.spotify.com/track/2V0Vlkbb6fUEHl1gk8Lwr6"
@@ -7524,7 +7600,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210931,
       "name": "Yes - vinyl version",
       "url": "https://open.spotify.com/track/2RgwImATiujgRNf6Gfg3wM"
@@ -7622,7 +7698,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192876,
       "name": "Young Free & Reckless",
       "url": "https://open.spotify.com/track/4jXHmBEYQy2EF1pI8PWzrO"

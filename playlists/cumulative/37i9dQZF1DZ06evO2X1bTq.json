@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-25",
-  "description": "This is U2\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "This is U2. The essential tracks, all in one playlist.",
   "name": "This Is U2",
   "tracks": [
     {
@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 318666,
       "name": "Discotheque",
       "url": "https://open.spotify.com/track/3IrhUrZKAkJ8LsFtH71fOT"
@@ -1274,6 +1274,24 @@
       "duration_ms": 294000,
       "name": "The Unforgettable Fire - Remastered 2009",
       "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
+    },
+    {
+      "album": {
+        "name": "ZOO TV Live In Dublin 1993 EP",
+        "url": "https://open.spotify.com/album/03qRoidfH8PEvybfKfWyZm"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252585,
+      "name": "Tryin\u2019 To Throw Your Arms Around The World - ZOO TV Live In Dublin, 1993",
+      "url": "https://open.spotify.com/track/72gDOAoAkBKq0QLaXrg7Ox"
     },
     {
       "album": {

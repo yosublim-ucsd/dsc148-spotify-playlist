@@ -1,12 +1,12 @@
 {
-  "description": "This is: Static-X. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 36748,
+  "description": "This is Static-X. The essential tracks, all in one playlist.",
+  "num_followers": 36757,
   "original_name": "This Is Static-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABkv7cqwUMSKV5Lcd0X8U8y",
+  "snapshot_id": "ZtejAAAAAAApl9fUZ0mIccDz2r9oTPvA",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cult of Static",
-        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
+        "name": "Start a War",
+        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 319106,
-      "name": "Tera-Fied",
-      "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
+      "duration_ms": 164706,
+      "name": "Start a War",
+      "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Start a War",
-        "url": "https://open.spotify.com/album/71j3INQJXy1sSQPkPiYxIO"
+        "name": "Cult of Static",
+        "url": "https://open.spotify.com/album/11WtSOfo6AE5p5K6WiZAvc"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 164706,
-      "name": "Start a War",
-      "url": "https://open.spotify.com/track/7GB8ZyFJsOZ6YXD5Qlr5Cx"
+      "duration_ms": 319106,
+      "name": "Tera-Fied",
+      "url": "https://open.spotify.com/track/5n9ZFf0QDe2AXPbeO3ZHoB"
     },
     {
       "added_at": null,

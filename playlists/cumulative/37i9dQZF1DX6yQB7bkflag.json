@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-20",
-  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: LE SSERAFIM ",
+  "description": "Lagu-lagu teranyar yang akan menjadi favoritmu selanjutnya. Cover: Jaz ",
   "name": "Pop Rising Indonesia",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 189192,
       "name": "15 MINUTES",
       "url": "https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf"
+    },
+    {
+      "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
     },
     {
       "album": {
@@ -1103,6 +1121,24 @@
     },
     {
       "album": {
+        "name": "Berakhir Sebelum Dimulai",
+        "url": "https://open.spotify.com/album/7DXmHAleSRK2LXDxclslrW"
+      },
+      "artists": [
+        {
+          "name": "Febinda Tito",
+          "url": "https://open.spotify.com/artist/538SnQc3YoJ96cIs2mpTaZ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241558,
+      "name": "Berakhir Sebelum Dimulai",
+      "url": "https://open.spotify.com/track/3WCSK9vmBA2FOCx0CTPJpQ"
+    },
+    {
+      "album": {
         "name": "Beraksi",
         "url": "https://open.spotify.com/album/4heQ0fU30FAFK7ulTT74ai"
       },
@@ -1592,6 +1628,24 @@
       "duration_ms": 227093,
       "name": "Boleh Juga",
       "url": "https://open.spotify.com/track/2RadWC8dJhTEkvSBTndJZ5"
+    },
+    {
+      "album": {
+        "name": "Boleh Merindu",
+        "url": "https://open.spotify.com/album/16tWz380soVodMC5yN9la7"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Boleh Merindu",
+      "url": "https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC"
     },
     {
       "album": {
@@ -2256,7 +2310,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165106,
       "name": "Check",
       "url": "https://open.spotify.com/track/3tNa8xKl7HWeXHFYNnttvD"
@@ -3571,6 +3625,42 @@
     },
     {
       "album": {
+        "name": "Ego",
+        "url": "https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198498,
+      "name": "Ego",
+      "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+    },
+    {
+      "album": {
+        "name": "Eksplorasi",
+        "url": "https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181158,
+      "name": "Eksplorasi",
+      "url": "https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ"
+    },
+    {
+      "album": {
         "name": "Enough (Miami)",
         "url": "https://open.spotify.com/album/5TlQ2moqWicDMAFASeeCZY"
       },
@@ -4379,6 +4469,24 @@
     },
     {
       "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
       },
@@ -4679,6 +4787,24 @@
     },
     {
       "album": {
+        "name": "OUCH",
+        "url": "https://open.spotify.com/album/0RE42aBn4kBL7E020tvhQl"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234132,
+      "name": "HAPPY DAY",
+      "url": "https://open.spotify.com/track/3gtCLTVYbsvSj8I2kBZHty"
+    },
+    {
+      "album": {
         "name": "Hari Ini",
         "url": "https://open.spotify.com/album/7vsQ0aGXPAnKBqXZxJrGDL"
       },
@@ -4972,6 +5098,24 @@
       "duration_ms": 192600,
       "name": "hey! hey!",
       "url": "https://open.spotify.com/track/6vSpm3PAXA1PLyEINx3DJC"
+    },
+    {
+      "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "album": {
@@ -6349,6 +6493,24 @@
     },
     {
       "album": {
+        "name": "Kamu Kerja Apa?",
+        "url": "https://open.spotify.com/album/2icA7FSlPwshS7eY4Gufu9"
+      },
+      "artists": [
+        {
+          "name": "dr.pm",
+          "url": "https://open.spotify.com/artist/6K8PNgfYdYhkfiOrBYaqWq"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214310,
+      "name": "Kamu Kerja Apa?",
+      "url": "https://open.spotify.com/track/2VAG9mkivGstvcX75f8TtA"
+    },
+    {
+      "album": {
         "name": "Kamu Pemain Aku Pelatih",
         "url": "https://open.spotify.com/album/6gScXa3HXQDkvHABuuhbX6"
       },
@@ -7621,6 +7783,24 @@
     },
     {
       "album": {
+        "name": "LOVE ME LIKE YOU",
+        "url": "https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "LOVE ME LIKE YOU",
+      "url": "https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC"
+    },
+    {
+      "album": {
         "name": "Love On",
         "url": "https://open.spotify.com/album/7I7rbWQoLZ7PrTMsRfocpL"
       },
@@ -7672,7 +7852,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 127380,
       "name": "Lucky (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/7cXOERtbj4ZOk0I6ivACvb"
@@ -8334,6 +8514,28 @@
       "duration_ms": 140423,
       "name": "Mind Is Naked",
       "url": "https://open.spotify.com/track/7JyBS6M5frEYlH7XEN3wj8"
+    },
+    {
+      "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174533,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
       "album": {
@@ -9903,6 +10105,42 @@
     },
     {
       "album": {
+        "name": "Rahasia #2",
+        "url": "https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194943,
+      "name": "Rahasia #2",
+      "url": "https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND"
+    },
+    {
+      "album": {
+        "name": "Rahsia Tuhan",
+        "url": "https://open.spotify.com/album/4t9LkUma3iBV9PWJQG5cKP"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287071,
+      "name": "Rahsia Tuhan",
+      "url": "https://open.spotify.com/track/6twyTAZjH3ap9GFkGukraz"
+    },
+    {
+      "album": {
         "name": "Rains in Heaven",
         "url": "https://open.spotify.com/album/2SUJuWIru2k3m8RkjwcSsW"
       },
@@ -10210,7 +10448,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183373,
       "name": "Room For You",
       "url": "https://open.spotify.com/track/7G2om18d9kfV3aNtNfQkzA"
@@ -10878,7 +11116,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 254487,
       "name": "Semua Cinta",
       "url": "https://open.spotify.com/track/16vZp4ncPm0otuupSp9tOx"
@@ -11949,6 +12187,24 @@
     },
     {
       "album": {
+        "name": "Summer Blue",
+        "url": "https://open.spotify.com/album/4aexuUAYbC9Xie2yD6GSjq"
+      },
+      "artists": [
+        {
+          "name": "Shakila Anjani",
+          "url": "https://open.spotify.com/artist/0b7ktdXIZGmEH06i40rDek"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180294,
+      "name": "Summer Blue",
+      "url": "https://open.spotify.com/track/2x4U871UlUdjVtlLShDeHJ"
+    },
+    {
+      "album": {
         "name": "Sun/Son",
         "url": "https://open.spotify.com/album/7yFCk6DfTK0AqZRVkwYZ24"
       },
@@ -11964,6 +12220,24 @@
       "duration_ms": 176197,
       "name": "Sun/Son",
       "url": "https://open.spotify.com/track/1WD5d42tRqdLyfaoTtUlHB"
+    },
+    {
+      "album": {
+        "name": "Sunlight!",
+        "url": "https://open.spotify.com/album/2SeBLWi60SECxWFI8LRgeR"
+      },
+      "artists": [
+        {
+          "name": "elijah woods",
+          "url": "https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149093,
+      "name": "Sunlight!",
+      "url": "https://open.spotify.com/track/0wAE8X8R3A0WqIBTuxwRvF"
     },
     {
       "album": {
@@ -12152,6 +12426,42 @@
       "duration_ms": 229583,
       "name": "Tak",
       "url": "https://open.spotify.com/track/0SfvWcJQ41AQUJoJRVVDUt"
+    },
+    {
+      "album": {
+        "name": "Tak Ada Restu",
+        "url": "https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h"
+      },
+      "artists": [
+        {
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224020,
+      "name": "Tak Ada Restu",
+      "url": "https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG"
+    },
+    {
+      "album": {
+        "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+        "url": "https://open.spotify.com/album/5UizfLMmPsJpezsjEnBd8J"
+      },
+      "artists": [
+        {
+          "name": "Lomba Sihir",
+          "url": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233630,
+      "name": "Tak Ada Waktu Tepat Untuk Berita Buruk",
+      "url": "https://open.spotify.com/track/58yYXKH0TKKSRDvPdWKPxm"
     },
     {
       "album": {
@@ -12855,6 +13165,24 @@
     },
     {
       "album": {
+        "name": "Texas",
+        "url": "https://open.spotify.com/album/17VJHcUZKAcfT2xyrlSbJQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188901,
+      "name": "Texas",
+      "url": "https://open.spotify.com/track/607vRhDNPs67nXVgqk4J1Z"
+    },
+    {
+      "album": {
         "name": "TEXAS HOLD 'EM",
         "url": "https://open.spotify.com/album/0uDw0KPDEkrADYz4ouVSv3"
       },
@@ -12968,6 +13296,24 @@
       "duration_ms": 217986,
       "name": "The Day After You Said Goodbye",
       "url": "https://open.spotify.com/track/0037eQ5YPvX3aHBrLGVmB9"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -13192,6 +13538,32 @@
       "duration_ms": 217783,
       "name": "These Walls",
       "url": "https://open.spotify.com/track/7b6sWLSnbZhSIeqNGrJ4py"
+    },
+    {
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "album": {
@@ -13620,6 +13992,24 @@
       "duration_ms": 246000,
       "name": "Tukar Lalu",
       "url": "https://open.spotify.com/track/6iVQIRPVzCUZwWI0Z3BJXp"
+    },
+    {
+      "album": {
+        "name": "Tunggu Apa Lagi",
+        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219352,
+      "name": "Tunggu Apa Lagi",
+      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     },
     {
       "album": {
@@ -14378,7 +14768,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 206355,
       "name": "without you",
       "url": "https://open.spotify.com/track/2OLV8r3uk30q6taFSWy6xE"

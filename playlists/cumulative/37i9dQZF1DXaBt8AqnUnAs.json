@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193322,
       "name": "Camisa P",
       "url": "https://open.spotify.com/track/0DPjN6E1YtYIH42IPomCNM"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
@@ -4120,7 +4120,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 180000,
       "name": "Eu S\u00f3 Penso em N\u00f3s",
       "url": "https://open.spotify.com/track/3sQuO4jLsCnCSva4eXiPap"
@@ -5314,7 +5314,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210000,
       "name": "Hora Errada",
       "url": "https://open.spotify.com/track/6ubWrh2GuyKMpQrzOynRjD"
@@ -5436,6 +5436,36 @@
       "duration_ms": 213333,
       "name": "Imaginando Coisas",
       "url": "https://open.spotify.com/track/2coYmtA0EDUHS7P24CFzcW"
+    },
+    {
+      "album": {
+        "name": "INCONSEQUENTES",
+        "url": "https://open.spotify.com/album/4CiPAZMjZtaRbV045fXmp2"
+      },
+      "artists": [
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/3XNHzdXC6EaSv1k0Dcghgq"
+        },
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "CL FEZ O BEAT",
+          "url": "https://open.spotify.com/artist/2So8OpBawO4DEcHETTaXV8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176670,
+      "name": "INCONSEQUENTES",
+      "url": "https://open.spotify.com/track/7e8SlJLysQL2OQQd9dc82Z"
     },
     {
       "album": {
@@ -6087,6 +6117,28 @@
     },
     {
       "album": {
+        "name": "Linha De Frente",
+        "url": "https://open.spotify.com/album/1V9S7FNSWhky8UMt9igozG"
+      },
+      "artists": [
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        },
+        {
+          "name": "Tibery",
+          "url": "https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177902,
+      "name": "Linha De Frente",
+      "url": "https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn"
+    },
+    {
+      "album": {
         "name": "Lo-Fi Luv",
         "url": "https://open.spotify.com/album/7nHwxLUEzSadUIzY6HMJCc"
       },
@@ -6618,7 +6670,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 138715,
       "name": "Manda \u00c1udio",
       "url": "https://open.spotify.com/track/106v1J8uUOsa6Q0pAcxsKr"
@@ -10047,6 +10099,28 @@
     },
     {
       "album": {
+        "name": "Prince Of Persia",
+        "url": "https://open.spotify.com/album/60vrHQUHO2F06fR5SYMN3n"
+      },
+      "artists": [
+        {
+          "name": "Batz Ninja",
+          "url": "https://open.spotify.com/artist/6hpQHbMfl5l28hhWtCnSOG"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Prince Of Persia",
+      "url": "https://open.spotify.com/track/3B5nyE02B3FwmBKyWPPWGg"
+    },
+    {
+      "album": {
         "name": "Priv\u00ea",
         "url": "https://open.spotify.com/album/17EHgYliwwIYmr9XtsigrO"
       },
@@ -10844,6 +10918,24 @@
       "duration_ms": 154695,
       "name": "S2",
       "url": "https://open.spotify.com/track/6iZetMvxSFh0kiHvEIKs1w"
+    },
+    {
+      "album": {
+        "name": "AM/PM",
+        "url": "https://open.spotify.com/album/44YOBuLwAxZxhJ6zVvCtWj"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "Sabor de Mel",
+      "url": "https://open.spotify.com/track/7yOnFchjHPh6ChIrwfxjyE"
     },
     {
       "album": {
@@ -12056,6 +12148,28 @@
       "duration_ms": 197333,
       "name": "T.D.A.H",
       "url": "https://open.spotify.com/track/7sUoJGfvpKfev4rCZbub7A"
+    },
+    {
+      "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/52TV8f9AXnXFZLM07ZTckI"
+      },
+      "artists": [
+        {
+          "name": "Tribo da Periferia",
+          "url": "https://open.spotify.com/artist/1xxS2WrLlgl9QNGEUCsbPG"
+        },
+        {
+          "name": "Duckjay",
+          "url": "https://open.spotify.com/artist/7b5XefluHSHw1lKQkqIZO0"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196923,
+      "name": "Taj Mahal",
+      "url": "https://open.spotify.com/track/3xEeoAvid83QuD3BfFc4yK"
     },
     {
       "album": {

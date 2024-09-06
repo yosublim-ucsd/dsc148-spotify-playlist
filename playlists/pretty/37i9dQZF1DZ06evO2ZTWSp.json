@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 488686,
+  "num_followers": 488668,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABf7gZhogtYXb840313q9+W",
+  "snapshot_id": "ZtejAAAAAAC46M4cMi1QXHtbT5gY6ZlN",
   "tracks": [
     {
       "added_at": null,
@@ -699,26 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "High Times For Low Lives",
+        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "The Griswolds",
+          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sasha Flute",
-          "url": "https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs"
         }
       ],
-      "duration_ms": 468590,
-      "name": "Stairway To Heaven",
-      "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
+      "duration_ms": 192106,
+      "name": "YDLM",
+      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
     },
     {
       "added_at": null,
@@ -739,22 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Times For Low Lives",
-        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "The Griswolds",
-          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sasha Flute",
+          "url": "https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs"
         }
       ],
-      "duration_ms": 192106,
-      "name": "YDLM",
-      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
+      "duration_ms": 468590,
+      "name": "Stairway To Heaven",
+      "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
     },
     {
       "added_at": null,

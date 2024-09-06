@@ -251,6 +251,60 @@
     },
     {
       "album": {
+        "name": "Caught Me On A Bad Day",
+        "url": "https://open.spotify.com/album/2Iy5aSJ1kHMvHua3UXUktN"
+      },
+      "artists": [
+        {
+          "name": "Martin Almgren",
+          "url": "https://open.spotify.com/artist/7iURZ6msGELD5SZqMqKa7G"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210468,
+      "name": "Caught Me On A Bad Day",
+      "url": "https://open.spotify.com/track/5ZyLkrD8XrdJ4tphZRE3AP"
+    },
+    {
+      "album": {
+        "name": "The Rest Of The Best - Vol. 2",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
+    },
+    {
+      "album": {
+        "name": "Country Song Came On",
+        "url": "https://open.spotify.com/album/6MwT2Mzk3PaYE7KVBbg2XC"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234652,
+      "name": "Country Song Came On",
+      "url": "https://open.spotify.com/track/4hdC3JHzFN1XEebO0BGIpd"
+    },
+    {
+      "album": {
         "name": "COWBOY",
         "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
       },
@@ -378,7 +432,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 191250,
       "name": "Det \u00c4r Nog K\u00e4rlek \u00c4nd\u00e5",
       "url": "https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l"
@@ -706,7 +760,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 248319,
       "name": "En \u00f6kenblomma",
       "url": "https://open.spotify.com/track/6S1qBl9aILtZtbsFlp0z7i"
@@ -724,7 +778,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163594,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
@@ -764,6 +818,24 @@
       "duration_ms": 394696,
       "name": "Europa",
       "url": "https://open.spotify.com/track/2jlj959NddsGSOCWG50UAv"
+    },
+    {
+      "album": {
+        "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
+        "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239173,
+      "name": "Fading Like A Rose (Original +2 bpm)",
+      "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
     },
     {
       "album": {
@@ -1287,6 +1359,24 @@
     },
     {
       "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "album": {
         "name": "I'm Coming Home",
         "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
       },
@@ -1392,7 +1482,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 184256,
       "name": "Jag g\u00f6r allt som man inte f\u00e5r",
       "url": "https://open.spotify.com/track/7MyUU3mlh2g4FtSjPUItXL"
@@ -1515,6 +1605,28 @@
     },
     {
       "album": {
+        "name": "Lagt kort ligger",
+        "url": "https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd"
+      },
+      "artists": [
+        {
+          "name": "Benny Anderssons Orkester",
+          "url": "https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS"
+        },
+        {
+          "name": "Helen Sj\u00f6holm",
+          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181106,
+      "name": "Lagt kort ligger",
+      "url": "https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF"
+    },
+    {
+      "album": {
         "name": "Leave the Light On",
         "url": "https://open.spotify.com/album/5qqzcP5RWRIM73HtHCeVM2"
       },
@@ -1526,7 +1638,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 234106,
       "name": "Leave the Light On",
       "url": "https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu"
@@ -1790,7 +1902,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156066,
       "name": "Midsummer Day",
       "url": "https://open.spotify.com/track/1ui8U7xoaD0T6i8CxC6GIz"
@@ -2429,6 +2541,24 @@
     },
     {
       "album": {
+        "name": "Solen i den v\u00e4nstra",
+        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293083,
+      "name": "Solen i den v\u00e4nstra",
+      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
+    },
+    {
+      "album": {
         "name": "Som jag har l\u00e4ngtat",
         "url": "https://open.spotify.com/album/183IIgn8Rta9AJkGaP90wG"
       },
@@ -2636,7 +2766,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 265466,
       "name": "Stora torget",
       "url": "https://open.spotify.com/track/64ha9fpcSD3Zc53SjghbMS"

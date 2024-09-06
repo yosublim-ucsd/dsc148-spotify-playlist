@@ -4,7 +4,7 @@
 
 > Ascolta a tutto volume queste talentuose artiste italiane! Cover: Sally Cruz
 
-1,110 songs - 2 day 7 hr 21 min
+1,111 songs - 2 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Il tuo gatto](https://open.spotify.com/track/5SJoiNGpqY8O9xixMVqQXj) | [CARO WOW](https://open.spotify.com/artist/6kyGmHxzIq5UcqAYS6BWUs) | [Il tuo gatto](https://open.spotify.com/album/5IfNvKlSEnqdvpW1178Bcd) | 2:38 | 2023-06-07 | 2023-07-06 |
 | [Iliade](https://open.spotify.com/track/4pmK8N7r8tajDezvfo3wj6) | [Cristina Lizzul](https://open.spotify.com/artist/4Bn67qpfGeAhkbINuqnxze) | [Iliade](https://open.spotify.com/album/6vrx3mVYnoQ7jNoTN3mb3c) | 3:56 | 2023-11-07 | 2023-11-30 |
 | [Illa Sera](https://open.spotify.com/track/79ocQFpSVnyQ7qokQSYbU6) | [Daniela Pes](https://open.spotify.com/artist/6DEkxQm6GxNV26tUMfVf6c) | [SPIRA](https://open.spotify.com/album/1a8ThwO86pH1QSjVYAeC5H) | 4:03 | 2023-11-07 | 2024-01-10 |
+| [ILY](https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [ILY](https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs) | 2:50 | 2024-09-04 |  |
 | [Immagina che bello sarebbe scappare](https://open.spotify.com/track/2MjnEtIqfTDDOqZ0guCOgo) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Immagina che bello sarebbe scappare](https://open.spotify.com/album/5KncyVxTCM54HWwdvczmWb) | 3:20 | 2022-10-06 | 2022-11-02 |
 | [Immortali](https://open.spotify.com/track/449RN1qJP2uMTJGP5yQW6s) | [Sidea](https://open.spotify.com/artist/6hG077WYgnjPVTkzhD2a9A) | [Immortali](https://open.spotify.com/album/68foSZEghjbhdyo8Q0tL5H) | 2:52 | 2023-02-09 | 2023-04-05 |
 | [imparare ad urlare](https://open.spotify.com/track/1QwO0QLtjqLhX4w5lwFk8w) | [Martina](https://open.spotify.com/artist/5FUuvvK6pzPDOJsRl10Z8p) | [imparare ad urlare](https://open.spotify.com/album/7CKmVZ6WXRwQcuie3k8vQF) | 1:48 | 2024-04-02 | 2024-05-09 |
@@ -781,7 +782,7 @@
 | [Per le ragazze come me](https://open.spotify.com/track/5VY3FfrFU27uqQssRstdHK) | [Maria Antonietta](https://open.spotify.com/artist/6anaeWEVZRRTdhWVMp1wnb), [Laila Al Habash](https://open.spotify.com/artist/6TlzdBQJ60fuenBUtDARlg) | [Per le ragazze come me](https://open.spotify.com/album/6BL3SNqJaoVoGlR3un5tVV) | 3:36 | 2023-04-04 | 2023-06-08 |
 | [Perdermi](https://open.spotify.com/track/6pF0XneVxp19Yd0tn40Rqx) | [Santé](https://open.spotify.com/artist/55EIo5yMfuqGqppQzEBep1) | [Perdermi](https://open.spotify.com/album/0dkeFFn1v88UbqZ9P7DDq1) | 2:57 | 2023-02-09 | 2023-03-01 |
 | [Perdo Tempo](https://open.spotify.com/track/0QUbRVMAHMxiPt0TCUlNZM) | [Assurditè](https://open.spotify.com/artist/2vDluwryVXelZfng6DxjnC) | [Perdo Tempo](https://open.spotify.com/album/66JdPSPWoJrYem4QTVsb5B) | 2:56 | 2022-06-02 | 2022-08-03 |
-| [Perduto \- D\-Verse](https://open.spotify.com/track/4RcZV7lGmG1cDlwPzbdaZX) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Perduto \- D\-Verse](https://open.spotify.com/album/3b8AIeuDDRxyn6LbwgdAo0) | 3:13 | 2024-09-04 |  |
+| [Perduto \(D\-Verse\)](https://open.spotify.com/track/4RcZV7lGmG1cDlwPzbdaZX) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Perduto \(D\-Verse\)](https://open.spotify.com/album/3b8AIeuDDRxyn6LbwgdAo0) | 3:13 | 2024-09-04 |  |
 | [Periferia](https://open.spotify.com/track/1EcVrX4oy3Z9mUjsvhsIEh) | [ceneri](https://open.spotify.com/artist/1RpjdVVigmI1T1UW8gxXJz) | [Periferia](https://open.spotify.com/album/5imPI6T7UGse84jzoy1Zcy) | 3:05 | 2024-07-02 |  |
 | [PETARDI](https://open.spotify.com/track/6aBkkxEVmDGC1o0DpxQcjM) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [PETARDI](https://open.spotify.com/album/0KFD7ttxVpwUGGHws8HKod) | 2:28 | 2023-10-23 | 2023-11-30 |
 | [Pianeti](https://open.spotify.com/track/050rIkxAVEaZp41RBfYqH5) | [Tamì](https://open.spotify.com/artist/3DPniGk3KehPU6Z3dOy34Y) | [Liverpool Lime Street](https://open.spotify.com/album/71cKSv9bZGyaTnnLmZkXEi) | 3:30 | 2023-08-01 | 2023-09-07 |

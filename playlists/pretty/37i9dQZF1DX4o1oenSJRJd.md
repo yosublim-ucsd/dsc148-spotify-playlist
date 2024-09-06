@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4o1oenSJRJd.md) - [plain]
 
 > The biggest songs of the 2000s\. Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,359,087 likes - 150 songs - 9 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,359,812 likes - 150 songs - 9 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

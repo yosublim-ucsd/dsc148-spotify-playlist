@@ -7483,6 +7483,32 @@
     },
     {
       "album": {
+        "name": "Te la Parto (Remix)",
+        "url": "https://open.spotify.com/album/6OWOFagw1LqgI9LTX9ZM0r"
+      },
+      "artists": [
+        {
+          "name": "La Mas Doll",
+          "url": "https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK"
+        },
+        {
+          "name": "Yailin la Mas Viral",
+          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131272,
+      "name": "Te la Parto - Remix",
+      "url": "https://open.spotify.com/track/1SwgbVS16zRVJTsMW3RHUR"
+    },
+    {
+      "album": {
         "name": "TE LLENASTE",
         "url": "https://open.spotify.com/album/2bbsPeybovEKJ1C6rPvamw"
       },
@@ -7644,6 +7670,24 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "album": {
+        "name": "To No Morimo",
+        "url": "https://open.spotify.com/album/0lnz8NzGJfIs2s0TIRJrEA"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "To No Morimo",
+      "url": "https://open.spotify.com/track/0WjYqtGGmGoPEVGk5kFqu8"
     },
     {
       "album": {
@@ -7914,7 +7958,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171880,
       "name": "Travesura (feat. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few)",
       "url": "https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB"

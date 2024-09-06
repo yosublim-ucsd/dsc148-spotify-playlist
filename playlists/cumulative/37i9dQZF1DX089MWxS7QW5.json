@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: merrymerryseoul(\uba54\ub9ac\uba54\ub9ac\uc11c\uc6b8))",
+  "description": "\ud55c\uad6d R&B. The new & fresh K-R&B is here. (Cover: GEMINI(\uc81c\ubbf8\ub098\uc774))",
   "name": "K-R&B Now",
   "tracks": [
     {
@@ -4686,6 +4686,32 @@
       "duration_ms": 248213,
       "name": "Meet Again",
       "url": "https://open.spotify.com/track/1m7yg4UDxh2xco5eRq9UL5"
+    },
+    {
+      "album": {
+        "name": "Miles Away (Feat. GIRIBOY, KWACA)",
+        "url": "https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        },
+        {
+          "name": "KWACA",
+          "url": "https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155133,
+      "name": "Miles Away (Feat. GIRIBOY, KWACA)",
+      "url": "https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l"
     },
     {
       "album": {

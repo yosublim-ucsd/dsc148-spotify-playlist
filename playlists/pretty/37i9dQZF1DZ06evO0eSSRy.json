@@ -6,8 +6,40 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAAD8CZo5CA7/p1C4u0k75sty",
+  "snapshot_id": "ZtejAAAAAAD56qx69DSE9DzL9H4NmN/D",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're in both dreams (and you're scared)",
+        "url": "https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
+    },
     {
       "added_at": null,
       "album": {
@@ -84,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/3PEes770N4fkSv0RrBsBZC"
+      "duration_ms": 181771,
+      "name": "Amanita",
+      "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
     },
     {
       "added_at": null,
@@ -148,9 +180,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 189579,
-      "name": "Still There",
-      "url": "https://open.spotify.com/track/6nE6Ays1vUQugTCUiUpi6z"
+      "duration_ms": 276424,
+      "name": "Sequoia",
+      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
     },
     {
       "added_at": null,
@@ -212,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 181771,
-      "name": "Amanita",
-      "url": "https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei"
+      "duration_ms": 244767,
+      "name": "Houses of American Style",
+      "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
     },
     {
       "added_at": null,
@@ -276,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 276424,
-      "name": "Sequoia",
-      "url": "https://open.spotify.com/track/52sgHE6V4gTMYE97K6m2tm"
+      "duration_ms": 185433,
+      "name": "Worry",
+      "url": "https://open.spotify.com/track/7rwGONCajGFV6kzNcJJEzh"
     },
     {
       "added_at": null,
@@ -324,9 +356,9 @@
           "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 244767,
-      "name": "Houses of American Style",
-      "url": "https://open.spotify.com/track/5lSTpSh4DrzGCW4gmpMOao"
+      "duration_ms": 243612,
+      "name": "It Only Bothers You",
+      "url": "https://open.spotify.com/track/69MwqSM07rdnCA89MNxzdL"
     },
     {
       "added_at": null,

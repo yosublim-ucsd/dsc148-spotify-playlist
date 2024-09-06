@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music from Black artists every Friday\. Cover: <a href="spotify:artist:13ubrt8QOOCPljQ2FL1Kca">A$AP Rocky</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,025,861 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,985 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

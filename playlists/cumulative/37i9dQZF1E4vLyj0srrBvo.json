@@ -6406,6 +6406,24 @@
     {
       "album": {
         "name": "Abyss",
+        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/4hrxPxnI4hCZdUusjcGaXh"
+    },
+    {
+      "album": {
+        "name": "Abyss",
         "url": "https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV"
       },
       "artists": [
@@ -6416,7 +6434,7 @@
       ],
       "date_added": "2022-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 247000,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/5fr0ocIee7TpDCRWaK0002"
@@ -7180,7 +7198,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 126663,
       "name": "Cry (feat. Grimes)",
       "url": "https://open.spotify.com/track/1jR9XTpUeT6a82Yz4GNCCo"
@@ -7512,10 +7530,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 222000,
       "name": "Dark Beach",
       "url": "https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Dark Beach",
+      "url": "https://open.spotify.com/track/7fqjWHXf330QwnfaAWB2Dr"
     },
     {
       "album": {
@@ -9190,10 +9226,28 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 204120,
       "name": "Embrace",
       "url": "https://open.spotify.com/track/1PZeAjfBkRX2J7bN5o1KQ1"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204124,
+      "name": "Embrace",
+      "url": "https://open.spotify.com/track/1wszdDUhlil6EH3SRkmTZL"
     },
     {
       "album": {
@@ -17852,7 +17906,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 199280,
       "name": "Lovers From The Past",
       "url": "https://open.spotify.com/track/69cGlmgNyMf2K6AvmLBuRD"
@@ -20598,7 +20652,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 167864,
       "name": "Not Allowed",
       "url": "https://open.spotify.com/track/3IznIgmXtrUaoPWpQTy5jB"
@@ -24906,7 +24960,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 189632,
       "name": "Sea, Swallow Me - 2024 Remaster",
       "url": "https://open.spotify.com/track/2kwKk1pkWM6ywaC4gQaByB"
@@ -25264,10 +25318,28 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208613,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4TimKwMIY6mTJXEdSilVP9"
+    },
+    {
+      "album": {
+        "name": "Abyss",
+        "url": "https://open.spotify.com/album/2FQieUp8BxPN7OR8fE76TE"
+      },
+      "artists": [
+        {
+          "name": "Pastel Ghost",
+          "url": "https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208624,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/3vtFowc9zcQfvqsLAZ9Cx2"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best in new rock. Cover: blink-182",
+  "description": "The best in new rock. Cover: Jet",
   "name": "Rock Out.",
   "tracks": [
     {
@@ -110,6 +110,24 @@
       "duration_ms": 167493,
       "name": "All Kinds Of People",
       "url": "https://open.spotify.com/track/5dOkvWdlRlKYvhM3MkD2Ai"
+    },
+    {
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7yscvqpYCcpNEgByHSzwrN"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233397,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn"
     },
     {
       "album": {
@@ -517,6 +535,24 @@
     },
     {
       "album": {
+        "name": "DESERT RAP",
+        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "DESERT RAP",
+      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
+    },
+    {
+      "album": {
         "name": "Docket (feat. Bully)",
         "url": "https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI"
       },
@@ -872,6 +908,24 @@
       "duration_ms": 167276,
       "name": "HONEY (ARE U COMING?)",
       "url": "https://open.spotify.com/track/7GJRZmyEpMIou1RqG0ebd8"
+    },
+    {
+      "album": {
+        "name": "Hurry Hurry",
+        "url": "https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184716,
+      "name": "Hurry Hurry",
+      "url": "https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d"
     },
     {
       "album": {
@@ -1532,7 +1586,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208114,
       "name": "ONE MORE TIME",
       "url": "https://open.spotify.com/track/5VEnzMXc8ocZko4M4TqnR2"
@@ -1883,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "Something Good",
+        "url": "https://open.spotify.com/album/5huMS2fO8b4GpvCBAMX7co"
+      },
+      "artists": [
+        {
+          "name": "The Superjesus",
+          "url": "https://open.spotify.com/artist/7o9kdTx6RmO12iAVVsNehd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209962,
+      "name": "Something Good",
+      "url": "https://open.spotify.com/track/1VDZnlKsZX8Ufekz9BQDCo"
+    },
+    {
+      "album": {
         "name": "Wild God",
         "url": "https://open.spotify.com/album/0TRr4JGEPJ4eAb5QKRaunf"
       },
@@ -1948,7 +2020,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 303005,
       "name": "Split Screen",
       "url": "https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD"
@@ -2006,6 +2078,24 @@
       "duration_ms": 175951,
       "name": "Superweak",
       "url": "https://open.spotify.com/track/2TF4DWgC82TZZVFRDU1ZO3"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
     },
     {
       "album": {
@@ -2096,6 +2186,24 @@
       "duration_ms": 255426,
       "name": "The Deluge",
       "url": "https://open.spotify.com/track/3x2pPg6d0aftxc955ko6fy"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -2334,6 +2442,24 @@
       "duration_ms": 214826,
       "name": "Upside Down",
       "url": "https://open.spotify.com/track/3jESXgVdq4COa7QrbUAL0T"
+    },
+    {
+      "album": {
+        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
     },
     {
       "album": {

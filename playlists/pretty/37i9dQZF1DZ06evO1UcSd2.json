@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 72029,
+  "num_followers": 72041,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACV7VehaUCW+FDMqCrXDm87",
+  "snapshot_id": "ZtejAAAAAACvVkRa1CbBUBtHBOoATZ+k",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180050,
-      "name": "Soy La Suerte",
-      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estrenando Amante",
         "url": "https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 168546,
       "name": "Estrenando Amante",
       "url": "https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 180050,
+      "name": "Soy La Suerte",
+      "url": "https://open.spotify.com/track/6Zc5EXYSjDrKjyyWS29NNA"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163477,
-      "name": "Conmigo Ya No Cuentas",
-      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El De La Pandilla (En Vivo)",
         "url": "https://open.spotify.com/album/71Jl9ua91qDVu7ktzJDy7m"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 246946,
       "name": "Las Vueltas de la Vida",
       "url": "https://open.spotify.com/track/04QYNjGUwtJ3emEPCvjaJl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 163477,
+      "name": "Conmigo Ya No Cuentas",
+      "url": "https://open.spotify.com/track/6iT1nqzgw1zYL8Ke7Kt7O6"
     },
     {
       "added_at": null,
@@ -839,42 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ariel Camacho Para Siempre",
-        "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 156972,
-      "name": "El Mentado",
-      "url": "https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Reinicio",
-        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 163392,
-      "name": "Moneda",
-      "url": "https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -895,6 +859,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ariel Camacho Para Siempre",
+        "url": "https://open.spotify.com/album/4M57SO3tOI7AhXqUc4ujde"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 156972,
+      "name": "El Mentado",
+      "url": "https://open.spotify.com/track/2K5oFDtsSM0Wf6rzOmVEMT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Lo Que Sigue",
         "url": "https://open.spotify.com/album/6yntzdnPB5ZYQQUp8OJnoE"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 202750,
       "name": "A Lo Que Sigue",
       "url": "https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 163392,
+      "name": "Moneda",
+      "url": "https://open.spotify.com/track/6MvsTGagRDZG2ylhdfh8Jx"
     },
     {
       "added_at": null,

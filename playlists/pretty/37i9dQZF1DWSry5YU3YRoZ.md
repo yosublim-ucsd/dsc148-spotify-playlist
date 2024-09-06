@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 
 > 차분하고 감성적인 음악들과 함께 편안한 밤 되세요 :\) \(Listen to K\-Pop sleeping songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,591 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,599 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSry5YU3YRoZ.md) - [plain]
 | 38 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |
 | 39 | [Storing Nights](https://open.spotify.com/track/6oPucs07MGXSIW9pZut2W9) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:59 |
 | 40 | [Lullaby](https://open.spotify.com/track/0XpUIQVa2EhdLPoZE6FT4b) | [Kim Hyunchang](https://open.spotify.com/artist/2IEHO7wbuUKxOVkMKaT5KB) | [Demo songs](https://open.spotify.com/album/6MnPLoqYKHzJuzoh2CIxxi) | 4:24 |
-| 41 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 |
-| 42 | [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 |
+| 41 | [Bad \(feat\. Ji ahn\)](https://open.spotify.com/track/17NkIhmtTSLJe36c4avYpd) | [YooShin](https://open.spotify.com/artist/2EzuG4WW4xOYNjMIxVddHn), [Ji ahn](https://open.spotify.com/artist/7p5TxIRVe3keYFDbXp5frm) | [illusion](https://open.spotify.com/album/2maGAQ0vI0etyfBhxDd7oq) | 2:36 |
+| 42 | [Note](https://open.spotify.com/track/2A48Jp9CV8lb8aCXJAVZdk) | [LEE SOLOMON](https://open.spotify.com/artist/1jAN8TUTxjjsygfzHqVlmP) | [When the dawn calls me abruptly](https://open.spotify.com/album/6OMipjKp4xAqDXp5qQQspt) | 2:51 |
 | 43 | [For my little one \(with Jeon sohyeon\)](https://open.spotify.com/track/6oDLxxBH9gOUiwQxoP0qlh) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeon sohyeon](https://open.spotify.com/artist/7iLP6KAcEmHPCyxqyAD62E) | [For my little one](https://open.spotify.com/album/6JiBi7vAWxttrHkpb2FLBU) | 3:18 |
 | 44 | [Zero gravity](https://open.spotify.com/track/4MusxBtpbg66dyP4HPzvW5) | [Jo SoJeong](https://open.spotify.com/artist/132BPeZOhapfWxSIOR974P) | [Zero gravity](https://open.spotify.com/album/1O99A4FLtOXLNqsGiJ4rpW) | 3:44 |
 | 45 | [Forgive, Forget](https://open.spotify.com/track/63ZyS4MPjh4tHYQeq11fEE) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:31 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. \nCover: Caribou",
+  "description": "A new world of alternative electronic music. \nCover: Nimino ",
   "name": "Portal",
   "tracks": [
     {
@@ -877,6 +877,28 @@
     },
     {
       "album": {
+        "name": "Angel Music",
+        "url": "https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127634,
+      "name": "Angel Music",
+      "url": "https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa"
+    },
+    {
+      "album": {
         "name": "Ante",
         "url": "https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7"
       },
@@ -1076,7 +1098,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201795,
       "name": "BACK ON",
       "url": "https://open.spotify.com/track/77bCvwZqXZJLfLBG7iGvjE"
@@ -2124,7 +2146,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215249,
       "name": "Bring It Back",
       "url": "https://open.spotify.com/track/35lr2IOCIMU5QK4azowTfq"
@@ -2468,6 +2490,24 @@
       "duration_ms": 258946,
       "name": "Carey Street",
       "url": "https://open.spotify.com/track/6c6gG7RCWf7aphY9tClCEr"
+    },
+    {
+      "album": {
+        "name": "Carnaval - EP",
+        "url": "https://open.spotify.com/album/4L2O1axvPT7pcyIegodN6A"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Carnaval - Edit",
+      "url": "https://open.spotify.com/track/0URKgKj0Bv3Y9WWowdTi6U"
     },
     {
       "album": {
@@ -3994,7 +4034,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 132922,
       "name": "Ela Joga na Hora",
       "url": "https://open.spotify.com/track/6hZGsChumRhWG24OEh698c"
@@ -5541,6 +5581,24 @@
     },
     {
       "album": {
+        "name": "Guard",
+        "url": "https://open.spotify.com/album/4hr7TmzZwN2WcrNDBnlAEC"
+      },
+      "artists": [
+        {
+          "name": "Willaris. K",
+          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237401,
+      "name": "Guard",
+      "url": "https://open.spotify.com/track/5yRmVMYalxdqNj5ef2EEkm"
+    },
+    {
+      "album": {
         "name": "Guitar Hero",
         "url": "https://open.spotify.com/album/1p9S3trhs5aFoyNHVKREgZ"
       },
@@ -6939,6 +6997,28 @@
     },
     {
       "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260997,
+      "name": "just stand there",
+      "url": "https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a"
+    },
+    {
+      "album": {
         "name": "mankai",
         "url": "https://open.spotify.com/album/5y8KaRiU3PvO5rUMH3c7rP"
       },
@@ -7484,7 +7564,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 123901,
       "name": "Limosina",
       "url": "https://open.spotify.com/track/4BfE914TITP5y8lcfdm9HD"
@@ -8240,6 +8320,28 @@
       "duration_ms": 393375,
       "name": "Micro Dose",
       "url": "https://open.spotify.com/track/4kNbzt8JmheXA0CBUTo5qe"
+    },
+    {
+      "album": {
+        "name": "Midnight Ritual",
+        "url": "https://open.spotify.com/album/3yiuYGTUmUcvML6bIAAbZg"
+      },
+      "artists": [
+        {
+          "name": "The Deepshakerz",
+          "url": "https://open.spotify.com/artist/22xFYRBuSniRzAYugJFjvY"
+        },
+        {
+          "name": "Xander Pratt",
+          "url": "https://open.spotify.com/artist/6dT0m4D4nVi64jocIZcwL0"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202258,
+      "name": "Midnight Ritual",
+      "url": "https://open.spotify.com/track/5E6xYcS1fouZPYANBDMKQU"
     },
     {
       "album": {
@@ -11338,6 +11440,32 @@
       "duration_ms": 215431,
       "name": "Slug",
       "url": "https://open.spotify.com/track/0pI7zATeng92EknYPfi2B2"
+    },
+    {
+      "album": {
+        "name": "Smalltown Boy (feat. Perfume Genius)",
+        "url": "https://open.spotify.com/album/6UMQHq7ZFWQmbTYsKqancW"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274920,
+      "name": "Smalltown Boy (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/32Wbkbc7qZQA1viqNboe0D"
     },
     {
       "album": {

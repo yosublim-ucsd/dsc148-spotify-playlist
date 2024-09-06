@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 43 likes - 102 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,22 +92,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 82 | [Play My Game](https://open.spotify.com/track/4rsVBR4WADCMrNRKk6pGwb) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:01 |
 | 83 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 |
 | 84 | [Spacebike](https://open.spotify.com/track/5ga7wZc4B0JuOnUGUiOrOk) | [j.flowers.mp3](https://open.spotify.com/artist/4jwygfSZd43Dd8vemguwH3) | [Spacebike](https://open.spotify.com/album/0sF3gZIDKvrGdutAfNuj8v) | 2:23 |
-| 85 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 |
-| 86 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
-| 87 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
-| 88 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
-| 89 | [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 |
-| 90 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
-| 91 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
-| 92 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
-| 93 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
-| 94 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
-| 95 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
-| 96 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
-| 97 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
-| 98 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
-| 99 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
-| 100 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
-| 101 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
+| 85 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 |
+| 86 | [Why Did We Say Forever](https://open.spotify.com/track/4Sr5GeXwEI5KmJn6FUteWY) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Why Did We Say Forever](https://open.spotify.com/album/5tpyqyX2NAwpuELhtkRN07) | 3:10 |
+| 87 | [The Wild](https://open.spotify.com/track/4408yboq8EzHz7IiAlEBzv) | [Kerri Watt](https://open.spotify.com/artist/6bPvOLNccTtmf23w6bngcS) | [The Wild](https://open.spotify.com/album/3w8ggvtpBeBFVzNeMPo2Xy) | 3:32 |
+| 88 | [Off This Train](https://open.spotify.com/track/1imrBvb6Ac6P6b76dBhjNv) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 1:59 |
+| 89 | [Only You](https://open.spotify.com/track/3YecLfVpyotU0ve4Ln9Uds) | [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Only You](https://open.spotify.com/album/5Uq7opunP83SDVxYMm5ivO) | 3:33 |
+| 90 | [Let It Be Me](https://open.spotify.com/track/3LuxBskB91L142zAYjGJgS) | [Freddie Elmberg](https://open.spotify.com/artist/2HAhqKaUVbYDq0rTlwo1md) | [Let It Be Me](https://open.spotify.com/album/2z39L94jrGseWNHQgUwY4g) | 3:58 |
+| 91 | [face it](https://open.spotify.com/track/2JFKhZApRjevePAHn8SKrR) | [Ruben Pol](https://open.spotify.com/artist/1eCiBMynCZBUlq0v5FeB2w) | [Infused Romance](https://open.spotify.com/album/2tLQcTuBFmEfuQZAsyB4Yj) | 3:00 |
+| 92 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 |
+| 93 | [Cry Them For You](https://open.spotify.com/track/26Hh4z8smlH6Y7LtYN025c) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Cry Them For You](https://open.spotify.com/album/0cdfFRnZYCSrJJPoJY9P8z) | 3:43 |
+| 94 | [Ordinary](https://open.spotify.com/track/3dyMYkb3IYg7q2PeE4VI87) | [Joe Waller](https://open.spotify.com/artist/6EArtsF80MWahDlAzo86ZS) | [Ordinary](https://open.spotify.com/album/4sJYgIunlnwpc2ZrKj1xju) | 3:00 |
+| 95 | [Bloom](https://open.spotify.com/track/1zbOjoRf9zOMNEBq5UkfKm) | [Someone Else's Rain](https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y) | [Bloom](https://open.spotify.com/album/32pIpSJ9rkj8AZpaeOyCOB) | 3:20 |
+| 96 | [Journey ft Brad Mair \- Original Mix](https://open.spotify.com/track/1MUzQWygvkn8raQPCuWR8I) | [Brad Mair](https://open.spotify.com/artist/4wE9wGzadw1jAgPXXSga8D), [Patrick Pizzorni](https://open.spotify.com/artist/4JfAjdEGkHPBREqEkeiEcF) | [Journey](https://open.spotify.com/album/6e7er3QFLp4TXSxrnYgqtR) | 5:00 |
+| 97 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 |
+| 98 | [Safety Net](https://open.spotify.com/track/2yTeagHV2X462W98YqMc4f) | [Ilona](https://open.spotify.com/artist/3hZb8S0Th3L3DlmMHZRNyM) | [Safety Net](https://open.spotify.com/album/03uCMCwmveI9lCeAhIEElX) | 4:38 |
+| 99 | [Scars](https://open.spotify.com/track/2SJv1I0qy3IGEERTcqRg2E) | [Bailey M](https://open.spotify.com/artist/1TIhisrXfEN9NqdalMWRn3) | [Scars](https://open.spotify.com/album/23hXENovDVDuaMyn3iDwFT) | 2:35 |
+| 100 | [Bring You Back To Life](https://open.spotify.com/track/41OUAgxqe5ZbmujCERvsVK) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:46 |
+| 101 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
+| 102 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbbRlQAAAADYp0QJdzJTFNymC7dHv4oP`
+Snapshot ID: `AbbXNAAAAABYPiH0O7coo13dAZ3w42N8`

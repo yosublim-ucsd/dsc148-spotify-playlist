@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Milton Nascimento, Esperanza Spalding
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Ezra Collective
 
-124 songs - 9 hr 10 min
+125 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Deep](https://open.spotify.com/track/7m81yXV1aGr6itme09Rx5k) | [Bryony Jarman\-Pinto](https://open.spotify.com/artist/4qGRPAtF4Dnuy1pZEH8Pgv) | [Below Dawn](https://open.spotify.com/album/6RU8zWSJ6H5QIzQiLRYJYw) | 4:10 | 2024-06-27 |  |
 | [Departure](https://open.spotify.com/track/4g7sbGRPB5h1oZ265SVz86) | [Martha Kato](https://open.spotify.com/artist/3NvIawjJlIxAqZlfCyodcY) | [Moonlit](https://open.spotify.com/album/7bbgoL1AjCJupyQZQPzlSy) | 10:58 | 2024-06-27 | 2024-07-19 |
 | [Dimitri](https://open.spotify.com/track/1a4uzwj1AaLhwWN8rUQxjg) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Love Heart Cheat Code](https://open.spotify.com/album/4JdePMYeuoe34rqQ1D19K0) | 4:28 | 2024-06-27 |  |
-| [Don't Remember Me](https://open.spotify.com/track/29HfUnrUl3JxOfEtVHI5FV) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Don't Remember Me](https://open.spotify.com/album/6JHab78zkxjegd93W4VYW6) | 3:33 | 2024-07-18 |  |
+| [Don't Remember Me](https://open.spotify.com/track/29HfUnrUl3JxOfEtVHI5FV) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Don't Remember Me](https://open.spotify.com/album/6JHab78zkxjegd93W4VYW6) | 3:33 | 2024-07-18 | 2024-09-06 |
 | [Drop](https://open.spotify.com/track/38oaHVHRigBAtRYjff1jmW) | [Quentin Angus](https://open.spotify.com/artist/48kGFsC1XcGRawye4S2Edt), [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX), [Moto Fukushima](https://open.spotify.com/artist/52Q3P0RtSosRmVUxWSe9dF), [Dusan Kranjc](https://open.spotify.com/artist/2KvtLYJby6dm6I3tyCCDL3) | [Dusan](https://open.spotify.com/album/58swlpZEcoOhRqXyc5ldHf) | 3:47 | 2024-07-25 |  |
 | [Dynamics \(Piano Play\-Along\)](https://open.spotify.com/track/081owSLclSGfb3ehGeqGiJ) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [Dynamics](https://open.spotify.com/album/5Rrca8XULMLFX69dhgL0eX) | 2:48 | 2024-06-27 |  |
 | [early](https://open.spotify.com/track/6e69KdNCu2QQ4wkWL1zWgY) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [nublues](https://open.spotify.com/album/25Dgs9rR8ETpGCwD0wUv0q) | 3:56 | 2024-06-27 |  |
@@ -109,6 +109,7 @@
 | [Season of Harvest](https://open.spotify.com/track/5fs89z1CSXE8gpgsw2FgjU) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [ウィーディー・ブライマー](https://open.spotify.com/artist/1H5VMlyi86K6m02awVdsa7) | [Season of Harvest](https://open.spotify.com/album/0YVmA9eRSljgbIj4kAjFXF) | 4:21 | 2024-08-08 |  |
 | [Silent Dancer](https://open.spotify.com/track/6QePiHLvjWrVITs8ddewDG) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8) | [Silent Jazz Case 5](https://open.spotify.com/album/2nUT1RnTEraQLqvEXaaJzN) | 4:10 | 2024-07-25 |  |
 | [Snowy Road](https://open.spotify.com/track/5NLkF1qzYNdabDOw83eha4) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE), [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Snowy Road](https://open.spotify.com/album/32jiuNbErLfzOYpvH0GkH8) | 4:52 | 2024-06-27 |  |
+| [Streets is Calling \(feat\. M.anifest & Moonchild Sanelly\) \- Single Edit](https://open.spotify.com/track/14SfLWyzXDzoDDsv4aq2eF) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [M.anifest](https://open.spotify.com/artist/1DHw3LmhwuCZUaHtMhMpGX), [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Streets Is Calling \(feat\. Moonchild Sanelly & M.anifest\)](https://open.spotify.com/album/01hBryfAxX4YavSYQAt1sL) | 2:32 | 2024-09-05 |  |
 | [Superstring \- Rework](https://open.spotify.com/track/4yCpoba6seyaAGwRQyVvdj) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [Mud And Citrus Mix Tape](https://open.spotify.com/album/4Aq96x9QJ6DN9e5UCsZvNU) | 2:42 | 2024-06-27 |  |
 | [T.H.E\. feat.JUDY.](https://open.spotify.com/track/0Y5wlmlSkc375C3vpCkFzh) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [JUDY.](https://open.spotify.com/artist/2xOqpYBe41hnQErih2JNkb) | [T.H.E\. feat.JUDY.](https://open.spotify.com/album/0nh30eJAa2ic96ORf5YeZK) | 4:45 | 2024-06-27 |  |
 | [The Librarian](https://open.spotify.com/track/3KDrIt9NLuDY9Y4euXv5ZQ) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [The Librarian](https://open.spotify.com/album/0731xZnxaod65PQ9ddjxUB) | 6:32 | 2024-06-27 |  |

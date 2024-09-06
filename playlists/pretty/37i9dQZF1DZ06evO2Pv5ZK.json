@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 106194,
+  "num_followers": 106213,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACv5UGnkE5yAESSl+b+4wUL",
+  "snapshot_id": "ZtejAAAAAADGQ59xlnzYJmRoLk8e0JSI",
   "tracks": [
     {
       "added_at": null,
@@ -715,22 +715,6 @@
       "duration_ms": 312826,
       "name": "Vangelis: Through the Night Mist",
       "url": "https://open.spotify.com/track/1krI0NrRwDykPwXnliC4mx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Peaceful Piano Moods",
-        "url": "https://open.spotify.com/album/58offraDl2HW0WWh4WCzUZ"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 331920,
-      "name": "Main Theme - From \"Chariots of Fire\"",
-      "url": "https://open.spotify.com/track/7pROUkMe7OJAQ9iGZqcik7"
     }
   ],
   "unique_name": "This Is Vangelis",

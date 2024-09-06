@@ -764,7 +764,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 153962,
       "name": "Beside Me",
       "url": "https://open.spotify.com/track/4kqNM2dyPSuQqcChPPgIXe"
@@ -852,6 +852,24 @@
       "duration_ms": 169468,
       "name": "Big Stepper Pt. 2",
       "url": "https://open.spotify.com/track/4HQxYIQangC0upgJ9psYgO"
+    },
+    {
+      "album": {
+        "name": "Blood of Jesus",
+        "url": "https://open.spotify.com/album/6GrVWY7Fdrgrot9cEg41KS"
+      },
+      "artists": [
+        {
+          "name": "Reon Rae",
+          "url": "https://open.spotify.com/artist/2uZRhmcvow9AsAe6ECGbp8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152737,
+      "name": "Blood of Jesus",
+      "url": "https://open.spotify.com/track/3ZcF9YVstzIGgpZvm1hUo3"
     },
     {
       "album": {
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 268925,
       "name": "God Is with Us",
       "url": "https://open.spotify.com/track/1HcpdLzAcySmIAPUUZ5m7L"
@@ -2676,7 +2694,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 159428,
       "name": "In You",
       "url": "https://open.spotify.com/track/6bsrCda8VgcBLtI5c3HCyn"
@@ -3612,7 +3630,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 154906,
       "name": "MIGHTY",
       "url": "https://open.spotify.com/track/1ByJhlIOspZVpKfPJoE5h5"
@@ -4129,6 +4147,28 @@
     },
     {
       "album": {
+        "name": "First",
+        "url": "https://open.spotify.com/album/4MquUNoaNXgXOPWAHutN2V"
+      },
+      "artists": [
+        {
+          "name": "Aydeji",
+          "url": "https://open.spotify.com/artist/02abeDILFY7L8Rt1N7NisI"
+        },
+        {
+          "name": "Jamie Grace",
+          "url": "https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199578,
+      "name": "Not Alone",
+      "url": "https://open.spotify.com/track/1AhlSnL6e6WP5gRBTZfru6"
+    },
+    {
+      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/7GRdLNNetjhHaz2dDdLfpz"
       },
@@ -4272,7 +4312,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 151836,
       "name": "Off My Feet",
       "url": "https://open.spotify.com/track/3HHautxyzcZIoW1ky10Sc0"
@@ -4433,6 +4473,28 @@
     },
     {
       "album": {
+        "name": "On Deck",
+        "url": "https://open.spotify.com/album/5UcNuD4dsMNnRh21JY6Qoy"
+      },
+      "artists": [
+        {
+          "name": "Kinsu",
+          "url": "https://open.spotify.com/artist/0ZH0SbRhX3D2vaRGvTU3Rh"
+        },
+        {
+          "name": "Monaze",
+          "url": "https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136060,
+      "name": "On Deck",
+      "url": "https://open.spotify.com/track/4xZmc0O4QIJPaSoQP0421o"
+    },
+    {
+      "album": {
         "name": "One Name (Jesus) [Live]",
         "url": "https://open.spotify.com/album/3uCGAbiokcQ8BaLgQCgyzK"
       },
@@ -4488,7 +4550,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 254232,
       "name": "ONE WAY",
       "url": "https://open.spotify.com/track/4AMrHYdNd5PrjNc9kP2dub"
@@ -4946,7 +5008,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 256000,
       "name": "Reckless Love",
       "url": "https://open.spotify.com/track/15zR00rFi1R66ycBetOC4t"
@@ -5012,6 +5074,28 @@
       "duration_ms": 165517,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/0JbnRJjLOuM5fCO1lK6Gc5"
+    },
+    {
+      "album": {
+        "name": "Rest",
+        "url": "https://open.spotify.com/album/16s4oOALDJDgy6Ak6huhE0"
+      },
+      "artists": [
+        {
+          "name": "Phrv",
+          "url": "https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171467,
+      "name": "Rest",
+      "url": "https://open.spotify.com/track/3j4Q4hJHROOxf6vdlB6EAh"
     },
     {
       "album": {

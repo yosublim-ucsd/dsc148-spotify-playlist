@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/5eWcGfUCrVFMoYskyfkEPE"
@@ -654,7 +654,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 196466,
       "name": "Armageddon",
       "url": "https://open.spotify.com/track/6i8MbzVn4nzyjUcSoVcz7B"
@@ -9910,7 +9910,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/2VdSktBqFfkW7y6q5Ik4Z4"
@@ -9964,7 +9964,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-05",
+      "date_removed": null,
       "duration_ms": 178880,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4sgMbwl9lXGyHcHmtFYGMm"
@@ -12810,7 +12810,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201800,
       "name": "\u50b7\u5fc3\u7684\u6642\u5019\u5225\u8aaa\u8a71",
       "url": "https://open.spotify.com/track/0XU1HkOQwgAmuvkiJwAMcp"
@@ -17442,6 +17442,24 @@
       "duration_ms": 252525,
       "name": "\u93e1\u4e2d\u93e1",
       "url": "https://open.spotify.com/track/4umaD9GJDZMihD9mal7vd1"
+    },
+    {
+      "album": {
+        "name": "\u947f",
+        "url": "https://open.spotify.com/album/1Uvqepz5R3QRuuq3OP3O5Q"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207707,
+      "name": "\u947f",
+      "url": "https://open.spotify.com/track/0qv58f7o5AvmdT3PnEKauX"
     },
     {
       "album": {

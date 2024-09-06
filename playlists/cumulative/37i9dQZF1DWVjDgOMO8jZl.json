@@ -2019,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "ok?",
+        "url": "https://open.spotify.com/album/6ez42IrMS6Y1TBbdLt3wBz"
+      },
+      "artists": [
+        {
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190684,
+      "name": "ok :0",
+      "url": "https://open.spotify.com/track/03sT1BVGtSRMk96kVtFTHy"
+    },
+    {
+      "album": {
         "name": "ok </3",
         "url": "https://open.spotify.com/album/4dXDtIFb2uEtHONOuehkhz"
       },
@@ -2436,6 +2454,24 @@
       "duration_ms": 189365,
       "name": "Quanto Ti Amo",
       "url": "https://open.spotify.com/track/1NhWxGIXtR2rEfxSvc5hXb"
+    },
+    {
+      "album": {
+        "name": "Quasi A Casa - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309447,
+      "name": "Quasi a casa",
+      "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
     },
     {
       "album": {

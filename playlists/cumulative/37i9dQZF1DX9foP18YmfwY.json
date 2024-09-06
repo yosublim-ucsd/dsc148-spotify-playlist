@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Colo de Deus",
+  "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Marcelo Rossi, Jo\u00e3o Gomes",
   "name": "M\u00fasica Cat\u00f3lica ",
   "tracks": [
     {
@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "Eu Te Levantarei",
+        "url": "https://open.spotify.com/album/42A1I5OJSFlNmx40vhwfU4"
+      },
+      "artists": [
+        {
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215324,
+      "name": "Eu Te Levantarei",
+      "url": "https://open.spotify.com/track/5VhNo3giwElyUv92ykqLsx"
+    },
+    {
+      "album": {
         "name": "Exaltado",
         "url": "https://open.spotify.com/album/6rBDRwqE7alteM5SMANcOO"
       },
@@ -1380,6 +1402,28 @@
       "duration_ms": 262232,
       "name": "Fa\u00e7a Um Milagre - Ao Vivo",
       "url": "https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV"
+    },
+    {
+      "album": {
+        "name": "Mensagens e Can\u00e7\u00f5es Que Transformam Vidas",
+        "url": "https://open.spotify.com/album/4At9QMUYCC8TnUX7GAVR47"
+      },
+      "artists": [
+        {
+          "name": "Eug\u00eanio Jorge",
+          "url": "https://open.spotify.com/artist/2e6J1k4BUtNA6vayi7eRFi"
+        },
+        {
+          "name": "Miss\u00e3o Mensagem Brasil",
+          "url": "https://open.spotify.com/artist/2MO2AqGqC5Q9Hsvm4ZJc7F"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268160,
+      "name": "Fa\u00e7o Novas Todas As Coisas",
+      "url": "https://open.spotify.com/track/1bkUT8naHIQHSEmburB3ni"
     },
     {
       "album": {
@@ -1504,7 +1548,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210261,
       "name": "Hino da Obra Social Frei Caetano de Messina",
       "url": "https://open.spotify.com/track/2XTL2T37VgV9zaMqVZPTjv"
@@ -2219,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Nada Mudou - Fam\u00edlia \u00c9 Tudo Igual",
+        "url": "https://open.spotify.com/album/40CmCwxSTH5gqm5HAmgJ1W"
+      },
+      "artists": [
+        {
+          "name": "Padre Alessandro Campos",
+          "url": "https://open.spotify.com/artist/6vB4DuOiTpMnYLiP3dUzjS"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203048,
+      "name": "Nada Mudou - Fam\u00edlia \u00c9 Tudo Igual, S\u00f3 Muda de Endere\u00e7o, Ao Vivo",
+      "url": "https://open.spotify.com/track/5p9m1CI0jDKKKdskKYwNi3"
+    },
+    {
+      "album": {
         "name": "Nada Te Perturbe",
         "url": "https://open.spotify.com/album/51XkQlDg5BCuXSOadU5j25"
       },
@@ -2466,7 +2528,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 228700,
       "name": "Obrigado M\u00e3e",
       "url": "https://open.spotify.com/track/19gGTZ3Yft1ZVMrRoHctg8"
@@ -2760,7 +2822,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 264891,
       "name": "Quero Ouvir Tua Voz",
       "url": "https://open.spotify.com/track/74uwms1hqk7HUMPYrtTrgO"

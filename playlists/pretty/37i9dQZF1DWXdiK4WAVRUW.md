@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > The most memorable country hits from the 2010s\. Cover: Luke Bryan
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,943 likes - 200 songs - 11 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 606,087 likes - 200 songs - 11 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

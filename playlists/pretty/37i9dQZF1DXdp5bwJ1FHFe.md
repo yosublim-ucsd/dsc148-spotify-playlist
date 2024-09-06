@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5bwJ1FHFe.md) - [plain]
 
 > Relaxing rain sounds for sleepy babies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,005 likes - 200 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,020 likes - 200 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

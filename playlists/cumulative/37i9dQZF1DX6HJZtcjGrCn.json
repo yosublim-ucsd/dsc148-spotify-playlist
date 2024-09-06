@@ -171,6 +171,24 @@
     },
     {
       "album": {
+        "name": "BAZAR PARA CASA",
+        "url": "https://open.spotify.com/album/2XsHr8UEGbAu9uzWdVOESS"
+      },
+      "artists": [
+        {
+          "name": "Hause Plants",
+          "url": "https://open.spotify.com/artist/7ciUlbAc461mRvHx3YmIYk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168124,
+      "name": "BAZAR PARA CASA",
+      "url": "https://open.spotify.com/track/0jxVhnDDxEVujTVPKxNphe"
+    },
+    {
+      "album": {
         "name": "Beaches",
         "url": "https://open.spotify.com/album/6ivfrPVGf3VU5uQ5SAHY66"
       },
@@ -348,7 +366,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 204111,
       "name": "Chasing Low Vibrations",
       "url": "https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB"
@@ -366,7 +384,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 207587,
       "name": "Cherry Blossom",
       "url": "https://open.spotify.com/track/3oDRri7iJCeKKNstpzbZqx"
@@ -590,6 +608,24 @@
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "album": {
+        "name": "ESTA SENSA\u00c7\u00c3O",
+        "url": "https://open.spotify.com/album/1um57RBofYomD9BF9jGslL"
+      },
+      "artists": [
+        {
+          "name": "Nuno Cabral",
+          "url": "https://open.spotify.com/artist/0fINFcQpW4fdYSTBY0e0gq"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143318,
+      "name": "ESTA SENSA\u00c7\u00c3O",
+      "url": "https://open.spotify.com/track/6tF8V6cyGqFLj3FCBzHQ3O"
     },
     {
       "album": {
@@ -963,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Ipanema",
+        "url": "https://open.spotify.com/album/4SNfmOyCoU7NfCM8hqeWUg"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Tiago",
+          "url": "https://open.spotify.com/artist/6hbVZwkvCZF0iuOVZuV9Ni"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158620,
+      "name": "Ipanema",
+      "url": "https://open.spotify.com/track/0eZHsI2e5GkndyCfEvsxrM"
+    },
+    {
+      "album": {
         "name": "Just a Dance",
         "url": "https://open.spotify.com/album/39ZiNIvTOozeE4EcV0Ax5e"
       },
@@ -1134,7 +1188,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213240,
       "name": "Long Dark Night",
       "url": "https://open.spotify.com/track/3geRAOC9ZYJQxA1f2RZrYC"
@@ -1416,6 +1470,24 @@
       "duration_ms": 183050,
       "name": "Oji \u00e9 Oji",
       "url": "https://open.spotify.com/track/0PzceIWCT1ybZTkrn67E4N"
+    },
+    {
+      "album": {
+        "name": "Os Bravos \u2013 II. RAIA",
+        "url": "https://open.spotify.com/album/4xiWbEZJGnNx2MVL1E3VS9"
+      },
+      "artists": [
+        {
+          "name": "Mocho Gris",
+          "url": "https://open.spotify.com/artist/6ZCivSkSKalzlPiD9bmrBD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247244,
+      "name": "Os Bravos \u2013 II. RAIA",
+      "url": "https://open.spotify.com/track/2xNr71RUJ0Q6o6rsN4fwfb"
     },
     {
       "album": {
@@ -1988,7 +2060,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 183473,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"

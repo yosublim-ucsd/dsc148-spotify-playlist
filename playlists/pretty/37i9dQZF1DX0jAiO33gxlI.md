@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: TOKIODK, Major RD, LeodoKick
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,110 likes - 75 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,101 likes - 75 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 59 | [2Beck](https://open.spotify.com/track/4UgDMb7xZg7VPJveWxRgGi) | [eutazz](https://open.spotify.com/artist/4tmo1mL6hixMti6eVchWxJ), [Empire Street](https://open.spotify.com/artist/0WVrXgDJPBufBXTo8i1Ydq) | [2Beck](https://open.spotify.com/album/1pmvXVfZAjKoSwzjBJ3LyC) | 2:20 |
 | 60 | [Porradão de Muay Thai](https://open.spotify.com/track/3eZ4Jh2Qv5oqu0ZmFrIQX1) | [Pecaos](https://open.spotify.com/artist/1P6YQ0gEs3NawlLhT7KtpG) | [Porradão de Muay Thai](https://open.spotify.com/album/2e0HMDX8z57T8pfgsTB85w) | 2:24 |
 | 61 | [Jóias do Bairro](https://open.spotify.com/track/3BXDvzA3ArtYUtlyy0tTIw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Jóias do Bairro](https://open.spotify.com/album/7A4v2dkqJ6ZClsj0VDp9mQ) | 2:51 |
-| 62 | [Pé Na Porta](https://open.spotify.com/track/15l2ECTnjxzEQ0dt3DcwIP) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 3:47 |
+| 62 | [Pé Na Porta](https://open.spotify.com/track/15l2ECTnjxzEQ0dt3DcwIP) | [Jota Ghetto](https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4), [Jamés Ventura](https://open.spotify.com/artist/40CHfCMucIRnSYydfshohB), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf) | [Asfáltico](https://open.spotify.com/album/6qW68sFJuM9nQqGGjcK1v1) | 3:47 |
 | 63 | [Serasa](https://open.spotify.com/track/4gjBZ1eQudynpSXtiJJrkE) | [Soul Jotta](https://open.spotify.com/artist/6voNKhHHfGjAZIozqsbta0), [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN), [Master Pe](https://open.spotify.com/artist/52f5qTIkNkUdfr4a8WUzsW) | [Serasa](https://open.spotify.com/album/0P2WAm0ZHURPr0IiwqpQaq) | 3:17 |
 | 64 | [No Estudio 11 Dias Nublados](https://open.spotify.com/track/0K90glBNwyYGrM4VBYCE5g) | [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Slim Beat](https://open.spotify.com/artist/0JidbbbZv5SFBEwuc4dREP), [Blessbls](https://open.spotify.com/artist/3ZgYOtWHGSmkJuq503UMtN) | [No Estudio 11 Dias Nublados](https://open.spotify.com/album/1LaP8AUyMNZxrjnQoN4EsP) | 3:05 |
 | 65 | [Até Ficarmos Altos](https://open.spotify.com/track/7rq0VQK5oxiiCcGqezD9kq) | [Ordem Natural](https://open.spotify.com/artist/40p1IdVbcMmTQZZIu6FVkZ) | [Até Ficarmos Altos](https://open.spotify.com/album/0cI6hBvrzI353uXUYipQTp) | 4:31 |

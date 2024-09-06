@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140112,
+  "num_followers": 140126,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Espetacular",
-        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcio Greyck",
-          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
-        }
-      ],
-      "duration_ms": 273488,
-      "name": "Espetacular",
-      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Eu Quero Tanto",
         "url": "https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 187647,
       "name": "Eu Quero Tanto",
       "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Espetacular",
+        "url": "https://open.spotify.com/album/777z3fxqoCVS4TcJ1Hl5fc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcio Greyck",
+          "url": "https://open.spotify.com/artist/2conBw3718AG6tQ6JATCE4"
+        }
+      ],
+      "duration_ms": 273488,
+      "name": "Espetacular",
+      "url": "https://open.spotify.com/track/5VF846XHLcwxSQ0tuV6UuZ"
     },
     {
       "added_at": "2024-09-02 13:39:50",

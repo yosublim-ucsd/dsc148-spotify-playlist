@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "AH ) AH )",
+        "url": "https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt"
+      },
+      "artists": [
+        {
+          "name": "Memento",
+          "url": "https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164209,
+      "name": "AH ) AH )",
+      "url": "https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg"
+    },
+    {
+      "album": {
         "name": "AKEREKOR\u00c8",
         "url": "https://open.spotify.com/album/4SzYPXiLmPTm9p2izNCzeV"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 153165,
       "name": "antartide",
       "url": "https://open.spotify.com/track/4bwNC0i2HVd8hOrjWklk1A"
@@ -865,6 +883,24 @@
     },
     {
       "album": {
+        "name": "Domenica",
+        "url": "https://open.spotify.com/album/6xb78BWMqDFmDntV0jcVP6"
+      },
+      "artists": [
+        {
+          "name": "Enula",
+          "url": "https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Domenica",
+      "url": "https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb"
+    },
+    {
+      "album": {
         "name": "Donna Fiammifero",
         "url": "https://open.spotify.com/album/4GhztJmrr7bwsoyz8NKuax"
       },
@@ -1064,7 +1100,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160698,
       "name": "foglieverdi",
       "url": "https://open.spotify.com/track/32xxdDRNQQr2TwcCNstjrF"
@@ -1289,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "HO SMESSO DI PIANGERE",
+        "url": "https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb"
+      },
+      "artists": [
+        {
+          "name": "PARIDE",
+          "url": "https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F"
+        },
+        {
+          "name": "Kr1",
+          "url": "https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192170,
+      "name": "HO SMESSO DI PIANGERE",
+      "url": "https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp"
+    },
+    {
+      "album": {
         "name": "hyperlacrime",
         "url": "https://open.spotify.com/album/05IIkXQiGK32Ja1MQGTU6S"
       },
@@ -1347,6 +1405,24 @@
     },
     {
       "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs"
+      },
+      "artists": [
+        {
+          "name": "Ditonellapiaga",
+          "url": "https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170333,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh"
+    },
+    {
+      "album": {
         "name": "Imperdonabile",
         "url": "https://open.spotify.com/album/4odVD47NOubjyeuLrV96Ff"
       },
@@ -1398,7 +1474,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 134880,
       "name": "IO X LEI",
       "url": "https://open.spotify.com/track/36f2RAAEUU6mfZkiY0je48"
@@ -1514,6 +1590,24 @@
       "duration_ms": 156407,
       "name": "Le Cose",
       "url": "https://open.spotify.com/track/6pYSUBIoiKGKGKNYVtPLLj"
+    },
+    {
+      "album": {
+        "name": "Leggera",
+        "url": "https://open.spotify.com/album/1oR8GfraxUU5MnZCrtJ8O9"
+      },
+      "artists": [
+        {
+          "name": "KIMONO",
+          "url": "https://open.spotify.com/artist/5uIBCnjr8sCPeOOhQFY3Xm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166071,
+      "name": "Leggera",
+      "url": "https://open.spotify.com/track/2U1jRNDyOLw4V5agzt1lpZ"
     },
     {
       "album": {
@@ -2069,6 +2163,24 @@
     },
     {
       "album": {
+        "name": "NO STRESS",
+        "url": "https://open.spotify.com/album/3DS6IS3XMxIpiLnuheq6nq"
+      },
+      "artists": [
+        {
+          "name": "MATILDE",
+          "url": "https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148777,
+      "name": "NO STRESS",
+      "url": "https://open.spotify.com/track/4RnH661Lvlf1nZg6jy92WO"
+    },
+    {
+      "album": {
         "name": "No Stress (feat. VillaBanks)",
         "url": "https://open.spotify.com/album/3Piq4K3vyu572kJjRlLtmU"
       },
@@ -2465,6 +2577,24 @@
     },
     {
       "album": {
+        "name": "Quasi A Casa - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309447,
+      "name": "Quasi a casa",
+      "url": "https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX"
+    },
+    {
+      "album": {
         "name": "quasi nuda",
         "url": "https://open.spotify.com/album/7zQ1TolEtgUbGMOAZpp1Vn"
       },
@@ -2523,6 +2653,24 @@
     },
     {
       "album": {
+        "name": "Ros\u00e9 Gold",
+        "url": "https://open.spotify.com/album/07xt0gQgokIELeYWINUTGI"
+      },
+      "artists": [
+        {
+          "name": "NIMSAY",
+          "url": "https://open.spotify.com/artist/5jicTWnmYwpBo4TNpw5yre"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169148,
+      "name": "Ros\u00e9 Gold",
+      "url": "https://open.spotify.com/track/7kXoxdK0EHw10Q3T3ol37N"
+    },
+    {
+      "album": {
         "name": "Roulette",
         "url": "https://open.spotify.com/album/6xSWwCb4pBor8WwaMQ9GWW"
       },
@@ -2538,6 +2686,24 @@
       "duration_ms": 170322,
       "name": "Roulette",
       "url": "https://open.spotify.com/track/6WCXJhQsP3ykIr1kOfO7dh"
+    },
+    {
+      "album": {
+        "name": "Sale",
+        "url": "https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul"
+      },
+      "artists": [
+        {
+          "name": "r\u00f6a",
+          "url": "https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "Sale",
+      "url": "https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp"
     },
     {
       "album": {
@@ -3044,7 +3210,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 199537,
       "name": "tutta vera",
       "url": "https://open.spotify.com/track/06I7vpjdfG0D7c9eOvC2CU"

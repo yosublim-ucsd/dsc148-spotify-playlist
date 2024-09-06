@@ -1820,7 +1820,7 @@
       ],
       "date_added": "2020-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 101650,
       "name": "Constellation",
       "url": "https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr"
@@ -9904,6 +9904,24 @@
       "duration_ms": 192000,
       "name": "utatane",
       "url": "https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8"
+    },
+    {
+      "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/56vHdvi4b7WEhDBbTY3eni"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/5x7jyjtMoj6nbOlcDX1yzo"
     },
     {
       "album": {

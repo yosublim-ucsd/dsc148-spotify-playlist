@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,680 likes - 117 songs - 6 hr 40 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,680 likes - 117 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Feel Your Love](https://open.spotify.com/track/4DnB00FZV87InpyIip2sN6) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Digital Youth](https://open.spotify.com/artist/1WQ3wjjb2E0bkwwnt2310s) | [Feel Your Love](https://open.spotify.com/album/7x2MzLbEtRrQZ8qfbfaeMR) | 4:06 |
 | 2 | [Leo \(Flicker\)](https://open.spotify.com/track/6Rv52AlUaniafnTHwtLmLr) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [George Gleeson](https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV), [STARSIGNS](https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Leo \(Flicker\)](https://open.spotify.com/album/160Tod59m8NhG1EvUU9U3t) | 4:03 |
-| 3 | [Wild One \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Wild One \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG) | 3:03 |
+| 3 | [Shapeshifter](https://open.spotify.com/track/7kOqzZoJ20ssyvx8LlKMbO) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL), [Lumi Jin](https://open.spotify.com/artist/2YpzKwWnFbUAJJzBvuA0R7) | [Shapeshifter](https://open.spotify.com/album/4I8VD4l96QtADrkwpuYgX0) | 2:56 |
 | 4 | [2 Many Lies](https://open.spotify.com/track/5MtkeJ3mnxiQnkQGrGuIpm) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Centre Court](https://open.spotify.com/artist/5CyxC6fwavhoRAf1n9n7wh) | [2 Many Lies / Your Love](https://open.spotify.com/album/1ZdN5DsyEMxOmt7Vpy8IiL) | 3:40 |
 | 5 | [Slow Down](https://open.spotify.com/track/6V5bzHJ2Azp5LjUurVI0pF) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [Luxtides](https://open.spotify.com/artist/22bKgyDEmDgPhvSBYklJBe) | [Slow Down](https://open.spotify.com/album/5XMsC7wGd38x4wmcHC6lEW) | 2:50 |
 | 6 | [Cheerleader](https://open.spotify.com/track/779mhz1mAry946r91qzR1r) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Cheerleader](https://open.spotify.com/album/0KdbNiljxzEMCwkVJS0wzI) | 3:57 |
@@ -126,4 +126,4 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 116 | [Real Love](https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg) | [yetep](https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Real Love](https://open.spotify.com/album/60IL8OhQtWIpEyDdn9kqUg) | 3:23 |
 | 117 | [Afterglows](https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [The Four Stages](https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg) | 5:00 |
 
-Snapshot ID: `AAAqC3mysxQtCZ4Q5Ox+Jm7Xve9UqSzF`
+Snapshot ID: `AAAqDpsdV7/QSPuVCxvRuJe00CEjEJ4L`

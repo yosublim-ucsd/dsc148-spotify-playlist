@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,954 songs - 4 day 9 hr 13 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,955 songs - 4 day 9 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -668,7 +668,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 658 | [Electric Feel](https://open.spotify.com/track/3FtYbEfBqAlGO46NUDQSAt) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 3:49 |
 | 659 | [Slangin'](https://open.spotify.com/track/1Hsutyd3nKQGFeXZLdfq4G) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Slangin'](https://open.spotify.com/album/1NqOs1KDkNvqrVU0VyjBGr) | 2:04 |
 | 660 | [MyGothBitchCameWithaglock](https://open.spotify.com/track/0rUYDEctGqoeLm9vnOiAX5) | [KAMAARA](https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0) | [Cowboy Cutie](https://open.spotify.com/album/3CB1tDD5XL93u8GGMevSr1) | 2:15 |
-| 661 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/4EvEzSi4r9MkLpsGyxxREO) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
+| 661 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 | 662 | [striptease](https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h) | 2:40 |
 | 663 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 |
 | 664 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 |
@@ -1962,5 +1962,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1952 | [365 PARTYGIRL EASYFUN](https://open.spotify.com/track/21cgnjk9unhXn3SBQAAaA9) | [vamp](https://open.spotify.com/artist/19pNKzmfJyEVRpDd179sNP) | [365 PARTYGIRL EASYFUN](https://open.spotify.com/album/52qrtveZ7LAWg0RO1J36A8) | 1:53 |
 | 1953 | [Control](https://open.spotify.com/track/4ERLdZgnMH9rHuvt5TjGoP) | [WEB](https://open.spotify.com/artist/2P64joyhsQaekrBR6LZRQ3) | [Control](https://open.spotify.com/album/1brLQuH5jrdwyCklF8y4XN) | 3:35 |
 | 1954 | [Break Stuff](https://open.spotify.com/track/5cZqsjVs6MevCnAkasbEOX) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Significant Other](https://open.spotify.com/album/3HCCUaRSjHSFOe4fqE0BiP) | 2:46 |
+| 1955 | [Bloody Sneakers \(Violet's Theme\)](https://open.spotify.com/track/5UNlr5NiYJhZi16TGLTIgi) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Neon White Soundtrack Part 2 "The Burn That Cures"](https://open.spotify.com/album/4ssvXCfePUn0EwwcUy10Pi) | 1:07 |
 
-Snapshot ID: `AAADSJ5twyMTXGE6HIDlyGbM70wS3tu9`
+Snapshot ID: `AAADS7iw1niGgj6t0lfIIocFqLmN3pfm`

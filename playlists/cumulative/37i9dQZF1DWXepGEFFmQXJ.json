@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Dylan Scott",
+  "description": "The cream of today's Country crop. Cover: Jessie Murph",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -896,7 +896,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 248439,
       "name": "Call It",
       "url": "https://open.spotify.com/track/01enz5CyIPdU0KKhyN1lid"
@@ -4440,7 +4440,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163422,
       "name": "Gone Country",
       "url": "https://open.spotify.com/track/3SRihFqg2uOqEtNdcH3d3t"
@@ -5386,7 +5386,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 189000,
       "name": "HOEDOWN",
       "url": "https://open.spotify.com/track/6pXJD7tzw9kBqyojKaB06U"
@@ -5556,6 +5556,24 @@
       "duration_ms": 190229,
       "name": "Homegrown Love",
       "url": "https://open.spotify.com/track/5f5YJPmTv7PiYgwN52btb5"
+    },
+    {
+      "album": {
+        "name": "Homewrecker",
+        "url": "https://open.spotify.com/album/2XDU3i198ll8mGU5zGpqgE"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195029,
+      "name": "Homewrecker",
+      "url": "https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh"
     },
     {
       "album": {
@@ -5740,6 +5758,28 @@
       "duration_ms": 195428,
       "name": "I Do (feat. Maddie & Tae)",
       "url": "https://open.spotify.com/track/5hmPSqHHEE6mHZofGHj6Pb"
+    },
+    {
+      "album": {
+        "name": "I Don't Know How To Say Goodbye (Bang Bang Boom Boom)",
+        "url": "https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7"
+      },
+      "artists": [
+        {
+          "name": "Dwight Yoakam",
+          "url": "https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206946,
+      "name": "I Don't Know How To Say Goodbye (Bang Bang Boom Boom)",
+      "url": "https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT"
     },
     {
       "album": {
@@ -6464,7 +6504,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 177209,
       "name": "Kick The Doors Down",
       "url": "https://open.spotify.com/track/2ZbQHHk3Sc7ksW0qR08avs"
@@ -6918,6 +6958,24 @@
       "duration_ms": 199706,
       "name": "Little By Little",
       "url": "https://open.spotify.com/track/77Zn8B0KVtj5yXHbw0gwq6"
+    },
+    {
+      "album": {
+        "name": "Little Lost",
+        "url": "https://open.spotify.com/album/02tG6IdaU5AJuz0vMKfXqB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wright",
+          "url": "https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170059,
+      "name": "Little Lost",
+      "url": "https://open.spotify.com/track/594MNbYHuLVSVb8wGqiUul"
     },
     {
       "album": {
@@ -7738,7 +7796,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 224693,
       "name": "Moonshines",
       "url": "https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5"
@@ -8330,6 +8388,28 @@
       "duration_ms": 206838,
       "name": "Nothing Like Me",
       "url": "https://open.spotify.com/track/5YlyQIOBHGbcd2QTf1bWkD"
+    },
+    {
+      "album": {
+        "name": "Now or Never (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/5qBLAcf1q3O8bvsyrweWNy"
+      },
+      "artists": [
+        {
+          "name": "Corey Kent",
+          "url": "https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174946,
+      "name": "Now or Never (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/6GvYbJ7A0iAnGYFReRMxSa"
     },
     {
       "album": {
@@ -8936,7 +9016,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 195122,
       "name": "Pour Me A Drink (Feat. Blake Shelton)",
       "url": "https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ"
@@ -9172,6 +9252,24 @@
       "duration_ms": 208677,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0sEdnshFRFL1sEC9EC074a"
+    },
+    {
+      "album": {
+        "name": "On The Back Of My Dreams",
+        "url": "https://open.spotify.com/album/58OONWKDrW7oJHfWUy68Vc"
+      },
+      "artists": [
+        {
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214818,
+      "name": "Real Real",
+      "url": "https://open.spotify.com/track/7E6VIMHlOBokbisOThuQ7J"
     },
     {
       "album": {
@@ -9688,7 +9786,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 178307,
       "name": "Sad Girl Summer",
       "url": "https://open.spotify.com/track/5KnhMcUwUatvRHzIXQEVOG"
@@ -9874,6 +9972,24 @@
       "duration_ms": 200346,
       "name": "Save Me The Trouble",
       "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
+    },
+    {
+      "album": {
+        "name": "See It for Myself",
+        "url": "https://open.spotify.com/album/0BKIy7DkY1oE0qRIW57fQD"
+      },
+      "artists": [
+        {
+          "name": "Zach John King",
+          "url": "https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189276,
+      "name": "See It for Myself",
+      "url": "https://open.spotify.com/track/4hYW7xnMoACt6RFst5AxKE"
     },
     {
       "album": {
@@ -10470,6 +10586,28 @@
       "duration_ms": 194441,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/6NKjPJS3dRoY8weRf3EnC3"
+    },
+    {
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200966,
+      "name": "Someone In This Room (feat. Bailey Zimmerman)",
+      "url": "https://open.spotify.com/track/3kvgQZmOgwjfVnuduPPDZG"
     },
     {
       "album": {

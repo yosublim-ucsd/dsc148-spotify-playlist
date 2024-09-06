@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 178 songs - 9 hr 29 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 179 songs - 9 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -186,5 +186,6 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 176 | [Ice \(feat\. Gunna & Lil Baby\)](https://open.spotify.com/track/6KCt9V6Lev0M04rFUj8ANC) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Delusions of Grandeur](https://open.spotify.com/album/2FDYcU1NTibzvrv4XDJofN) | 2:57 |
 | 177 | [Dont Wait Til Its Late](https://open.spotify.com/track/3cn8MxXWtMRZpeqYDQ0hsZ) | [Summr Worldwide](https://open.spotify.com/artist/43A3EKKOLJ8qaUoNSe1fG8) | [Dont Wait Til Its Late](https://open.spotify.com/album/6AFOjMI50XbFfdy2xfrNzf) | 2:03 |
 | 178 | [POTHEAD & STONER](https://open.spotify.com/track/7rh1Rw4Xm2cqBaHBcEkT5q) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Da Real Oso](https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1) | 2:12 |
+| 179 | [Sugar Water](https://open.spotify.com/track/3V3RTC6VfgbNSEH6fZLBtR) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Scarecrow](https://open.spotify.com/album/1YzRTeNdwXPnEf9D9mfmOQ) | 2:25 |
 
-Snapshot ID: `AAAc4kiwY+22HAT6d0Bp8vq7dE7Jtsyd`
+Snapshot ID: `AAAc48mC1hfCY1lF7jQWuoHzPBUxyJIC`

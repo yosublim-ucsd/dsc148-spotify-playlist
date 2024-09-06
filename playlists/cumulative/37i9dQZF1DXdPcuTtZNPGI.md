@@ -4,7 +4,7 @@
 
 > 多彩なボカロPの作品に生命を吹き込み、変幻自在なボーカルの表現力で世間を席巻中の新世代女性シンガー、Adoのオールタイム・ベスト。The essential tracks of Ado, all in one playlist.
 
-146 songs - 9 hr 45 min
+147 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [唱](https://open.spotify.com/track/5yYsdZus3N5OH5w3gdTlJS) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [残夢](https://open.spotify.com/album/1sud4up8kAIa8MZJFupUMx) | 3:12 | 2024-07-09 |  |
 | [唱 \- Jax Jones Remix](https://open.spotify.com/track/3k6aRyNiIahp3WJMeFIpOi) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [唱 \(Jax Jones Remix\)](https://open.spotify.com/album/6pzvBOpdiWP8kCyjFUcV90) | 2:34 | 2024-02-22 |  |
 | [唱 \- Jax Jones Remix](https://open.spotify.com/track/58xZuWXsN5bVVy1Cww6Pmt) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 2:34 | 2024-01-30 | 2024-04-19 |
+| [唱 \- TeddyLoid Remix](https://open.spotify.com/track/0By5ouDlxfawqv0CX8SPQB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [唱LP](https://open.spotify.com/album/4aXd5rEWxs2GToz0fbfS4K) | 3:48 | 2024-09-05 |  |
 | [夜のピエロ](https://open.spotify.com/track/4QNwppLvPA4t4Ce642CPe8) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 3:20 | 2024-02-22 |  |
 | [夜のピエロ \- TeddyLoid Remix](https://open.spotify.com/track/6OiZpa36iNzEmNiVszAkQv) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I) | [夜のピエロ \(TeddyLoid Remix\)](https://open.spotify.com/album/0isciWk8sCLPlQQpocBftA) | 3:29 | 2022-10-09 |  |
 | [夜明けと蛍](https://open.spotify.com/track/49rZSEjL1ZLjsAVCdnyKyD) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Adoの歌ってみたアルバム](https://open.spotify.com/album/4cnBUmiIGHBHozAVteqWXT) | 5:08 | 2024-02-22 |  |

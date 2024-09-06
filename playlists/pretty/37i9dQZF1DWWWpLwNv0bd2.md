@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpLwNv0bd2.md) - [plain]
 
 > Check out the Latest Romance Tracks.<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,949 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,989 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Water Packet \(From "Raayan"\)](https://open.spotify.com/track/1hHrBEkN0JIaeFPegy4Xak) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Shweta Mohan](https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9), [Gana Kadhar](https://open.spotify.com/artist/0T487EE91kx2O8oGPO8Krh) | [Water Packet \(From "Raayan"\)](https://open.spotify.com/album/7JFHHTttxtJtGG9S2lAfob) | 4:06 |
-| 2 | [Spark \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/0ZBKLzSSLZ88BunaWrcKPX) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vrusha Balu](https://open.spotify.com/artist/0GNSRY7lJdxsHKgQqiPI9u) | [Spark \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/052s1AgfIjPWb1qWHirQUk) | 4:10 |
+| 2 | [Spark \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/0ZBKLzSSLZ88BunaWrcKPX) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Vrusha Balu](https://open.spotify.com/artist/5jhSfBeqM0W5nyTHA3EUjT) | [Spark \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/052s1AgfIjPWb1qWHirQUk) | 4:10 |
 | 3 | [Paththavaikkum \(From "Devara Part 1"\)](https://open.spotify.com/track/5vUumh0QzTwWlla9hK1XJd) | [Deepthi Suresh](https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Vignesh Shivan](https://open.spotify.com/artist/1yzwPGlvrRLlhYkCRYde5z) | [Paththavaikkum \(From "Devara Part 1"\)](https://open.spotify.com/album/6kUf8i3f5S2XmwkYTPdBEB) | 3:42 |
 | 4 | [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/track/45INGwihwyL537U2JdGuzW) | [Thalapathy Vijay](https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Raja Bhavatharini](https://open.spotify.com/artist/6abqwiPNT4niDf1GcS8qWK) | [Chinna Chinna Kangal \(From "The Greatest Of All Time"\)](https://open.spotify.com/album/469IlT5XtPKdVyYYKxNzWK) | 4:29 |
 | 5 | [Railin Oligal \- From "Blue Star"](https://open.spotify.com/track/5Y7Y315vZkOZbesJ22jXkK) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Pradeep Kumar](https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6), [Shakthisree Gopalan](https://open.spotify.com/artist/7zAp0JbkavFg2rcMGvANtP) | [Railin Oligal \(From "Blue Star"\)](https://open.spotify.com/album/6SgtjBVtmhTI84jWMyQlFC) | 2:37 |

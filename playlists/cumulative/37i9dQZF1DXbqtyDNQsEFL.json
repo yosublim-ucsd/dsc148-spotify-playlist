@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/1fjiVka7H0Dydce3sPArtt?si=XQm6khbXRRmHNHbvBq41aQ>Tosin Bee</a>",
+  "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one! Cover:   <a href=https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau?si=D1GnpblmS6SUR0P3_eKi4w>Anendlessocean</a>",
   "name": "Be Lifted ",
   "tracks": [
     {
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 668280,
       "name": "Free - Live",
       "url": "https://open.spotify.com/track/4zInE6ScKS3cn62WSq8gxG"
@@ -5541,6 +5541,24 @@
     },
     {
       "album": {
+        "name": "P&A",
+        "url": "https://open.spotify.com/album/5S3nsAPACcO7HW1kIHK5va"
+      },
+      "artists": [
+        {
+          "name": "Anendlessocean",
+          "url": "https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161048,
+      "name": "P&A",
+      "url": "https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42"
+    },
+    {
+      "album": {
         "name": "Pariwo",
         "url": "https://open.spotify.com/album/0tMmM6g7bPyYIQtDrsm07C"
       },
@@ -6828,10 +6846,28 @@
       ],
       "date_added": "2023-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 306780,
       "name": "Way Maker",
       "url": "https://open.spotify.com/track/3VACsP3SHXxGbpvSEd5KkR"
+    },
+    {
+      "album": {
+        "name": "Way Maker (Live)",
+        "url": "https://open.spotify.com/album/5EbRkyqOEX6pXqypa5Eh65"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 500453,
+      "name": "Waymaker - Bonus Track, Live",
+      "url": "https://open.spotify.com/track/4WBGWowkttFkVlxULnCWKP"
     },
     {
       "album": {

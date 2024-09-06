@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > ค้นหาความลับของ PiXXiE เพลย์ลิสต์นี้! ฟังเสียงของภูติจิ๋ว และหาว่าเพลงไหนของ PiXXiE ที่มีความลับซ่อนอยู่!! พร้อมฟังเพลงอินเลิฟที่นี่
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,399 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,452 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

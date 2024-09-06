@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Barbara Pravi",
+  "description": "Le meilleur de la chanson fran\u00e7aise actuelle. Photo : Coline Rio",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -330,7 +330,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 235334,
       "name": "Ici commence la mer",
       "url": "https://open.spotify.com/track/0o76Ztq4JX29RoIuRgUsiI"
@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "Je suis l\u00e0",
+        "url": "https://open.spotify.com/album/70prraH3gvosWj2dIRhWgR"
+      },
+      "artists": [
+        {
+          "name": "Louis Chedid",
+          "url": "https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257200,
+      "name": "Je suis l\u00e0",
+      "url": "https://open.spotify.com/track/6O8BhlrvuHPJnGqUnolQN7"
+    },
+    {
+      "album": {
         "name": "Je voudrais tomber amoureux",
         "url": "https://open.spotify.com/album/31aSdVWYFsuB6G3cvsWRY0"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 261104,
       "name": "La nuit est entr\u00e9e en lui",
       "url": "https://open.spotify.com/track/1eA8fnNTsuYW4eYWlcNqxK"
@@ -562,6 +580,24 @@
       "duration_ms": 208226,
       "name": "La Rua Madureira",
       "url": "https://open.spotify.com/track/0JodGC4N6E7adLUi3nYf1I"
+    },
+    {
+      "album": {
+        "name": "La souterraine",
+        "url": "https://open.spotify.com/album/3EBaKSaQuFvdA3YaUzRwrv"
+      },
+      "artists": [
+        {
+          "name": "Emily Loizeau",
+          "url": "https://open.spotify.com/artist/7iz1puzdJivBhh6akJYp09"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269968,
+      "name": "La souterraine",
+      "url": "https://open.spotify.com/track/0Uaq9pJOib7ZfMD0x6Oo0o"
     },
     {
       "album": {
@@ -717,6 +753,24 @@
     },
     {
       "album": {
+        "name": "Les rois du d\u00e9sespoir",
+        "url": "https://open.spotify.com/album/7eCOVuXXXrZdxSLZeEAn8s"
+      },
+      "artists": [
+        {
+          "name": "Clara Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5resnspF60fUdkKmQHn8em"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168493,
+      "name": "Les rois du d\u00e9sespoir",
+      "url": "https://open.spotify.com/track/7KSWiI3gGion3Q8ufIGyDp"
+    },
+    {
+      "album": {
         "name": "Ma m\u00e8re",
         "url": "https://open.spotify.com/album/0MoVGzK68HgZ8vAT3jAEBW"
       },
@@ -840,7 +894,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 364880,
       "name": "Paris",
       "url": "https://open.spotify.com/track/6aBUJSbfXSj4lWbSRB3iyt"

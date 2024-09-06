@@ -1,12 +1,12 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh?si=EAyHup5XTMqqLIhp-bzUrQ>Freke Umoh</a>",
-  "num_followers": 32149,
+  "num_followers": 32162,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtGhBwAAAABCCx9yP4Yd769Iw1YAJc+I",
+  "snapshot_id": "ZtpGPAAAAADHjI6VZk5AKYoOa4mYRCAp",
   "tracks": [
     {
       "added_at": "2024-08-30 10:26:33",
@@ -85,6 +85,26 @@
       "url": "https://open.spotify.com/track/5suRrn5N4HNeRXOpBTdmZt"
     },
     {
+      "added_at": "2024-09-06 00:01:00",
+      "album": {
+        "name": "Courts",
+        "url": "https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5"
+      },
+      "artists": [
+        {
+          "name": "Linc Worship",
+          "url": "https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B"
+        },
+        {
+          "name": "Ashleigh Duggan",
+          "url": "https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI"
+        }
+      ],
+      "duration_ms": 436764,
+      "name": "Courts",
+      "url": "https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "Holy Forever",
@@ -115,22 +135,6 @@
       "duration_ms": 297693,
       "name": "Goodness Of God - Live",
       "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "Don't Fight Alone",
-        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 240097,
-      "name": "Don't Fight Alone",
-      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -173,20 +177,20 @@
       "url": "https://open.spotify.com/track/6CQMlgpbqtG19SwaxZdtBU"
     },
     {
-      "added_at": "2023-12-15 00:01:00",
+      "added_at": "2023-12-29 00:01:00",
       "album": {
-        "name": "B'Ola (Honour)",
-        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
+        "name": "Don't Fight Alone",
+        "url": "https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L"
       },
       "artists": [
         {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
         }
       ],
-      "duration_ms": 324703,
-      "name": "B'Ola - Honour",
-      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
+      "duration_ms": 240097,
+      "name": "Don't Fight Alone",
+      "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -217,24 +221,20 @@
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
     },
     {
-      "added_at": "2024-04-12 00:01:00",
+      "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "GOD IS GOOD",
-        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+        "name": "B'Ola (Honour)",
+        "url": "https://open.spotify.com/album/0VSxRD5vzaQ49htVfjNwNM"
       },
       "artists": [
         {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        },
-        {
-          "name": "Caleb Gordon",
-          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 207529,
-      "name": "GOD IS GOOD",
-      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
+      "duration_ms": 324703,
+      "name": "B'Ola - Honour",
+      "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -299,6 +299,26 @@
       "duration_ms": 175200,
       "name": "Yahweh",
       "url": "https://open.spotify.com/track/6ZcTz36h42wamrZbhkkEHs"
+    },
+    {
+      "added_at": "2024-04-12 00:01:00",
+      "album": {
+        "name": "GOD IS GOOD",
+        "url": "https://open.spotify.com/album/3HPIOCWtwZIaRsf3EnOdIC"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Caleb Gordon",
+          "url": "https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41"
+        }
+      ],
+      "duration_ms": 207529,
+      "name": "GOD IS GOOD",
+      "url": "https://open.spotify.com/track/2gmqnkY0jrfz3vnO4FVS4p"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -381,26 +401,6 @@
       "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
-      "added_at": "2023-12-29 00:01:00",
-      "album": {
-        "name": "This Is The Gospel",
-        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 305674,
-      "name": "This Is The Gospel",
-      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "You Are Great",
@@ -435,6 +435,26 @@
       "duration_ms": 183050,
       "name": "You Are Great",
       "url": "https://open.spotify.com/track/0JgTmcVrSqq4dbfmlRSixK"
+    },
+    {
+      "added_at": "2023-12-29 00:01:00",
+      "album": {
+        "name": "This Is The Gospel",
+        "url": "https://open.spotify.com/album/0cyL91vJpH6BgbY7zGwktn"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 305674,
+      "name": "This Is The Gospel",
+      "url": "https://open.spotify.com/track/1M3Y52bIexPAMJlcRju6zB"
     },
     {
       "added_at": "2023-12-15 00:01:00",
@@ -589,22 +609,6 @@
       "url": "https://open.spotify.com/track/4qEjiYIeD60K7dXcFYYkLS"
     },
     {
-      "added_at": "2024-03-17 10:49:46",
-      "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
-    },
-    {
       "added_at": "2024-06-28 00:01:00",
       "album": {
         "name": "E Dey Flow",
@@ -639,6 +643,22 @@
       "duration_ms": 156108,
       "name": "E Dey Flow",
       "url": "https://open.spotify.com/track/7BvQTLZXj9XDG9BZnGLZtO"
+    },
+    {
+      "added_at": "2024-03-17 10:49:46",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -711,22 +731,6 @@
     {
       "added_at": "2023-12-15 00:01:00",
       "album": {
-        "name": "Elevated",
-        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 234667,
-      "name": "Wonder",
-      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -739,6 +743,22 @@
       "duration_ms": 511207,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+    },
+    {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "Elevated",
+        "url": "https://open.spotify.com/album/0G4EjDz1aJ77Cry03hGIqg"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 234667,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/7lu3WaqWNpyipOU14owmub"
     },
     {
       "added_at": "2024-04-05 00:01:00",
@@ -881,26 +901,6 @@
       "url": "https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Ekwueme to the World Project",
-        "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
-      },
-      "artists": [
-        {
-          "name": "Prospa Ochimana",
-          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
-        },
-        {
-          "name": "Osinachi Nwachukwu",
-          "url": "https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F"
-        }
-      ],
-      "duration_ms": 417169,
-      "name": "Ekwueme",
-      "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
-    },
-    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "This God Is Too Good",
@@ -919,6 +919,26 @@
       "duration_ms": 271438,
       "name": "You Are God (feat. Chigozie Achugo)",
       "url": "https://open.spotify.com/track/78D1ZERxVW4XvelhO1jG4K"
+    },
+    {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Ekwueme to the World Project",
+        "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
+      },
+      "artists": [
+        {
+          "name": "Prospa Ochimana",
+          "url": "https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g"
+        },
+        {
+          "name": "Osinachi Nwachukwu",
+          "url": "https://open.spotify.com/artist/7DmYJaJIKvbtMy7WsUNb1F"
+        }
+      ],
+      "duration_ms": 417169,
+      "name": "Ekwueme",
+      "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
     },
     {
       "added_at": "2023-12-29 00:01:00",
@@ -951,26 +971,6 @@
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "Nara",
-        "url": "https://open.spotify.com/album/24dR45SETUfw44qynSI732"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Travis Greene",
-          "url": "https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe"
-        }
-      ],
-      "duration_ms": 296320,
-      "name": "Nara",
-      "url": "https://open.spotify.com/track/4cOdaT4uVp3xzVqF9l3Xx0"
     }
   ],
   "unique_name": "Testify",

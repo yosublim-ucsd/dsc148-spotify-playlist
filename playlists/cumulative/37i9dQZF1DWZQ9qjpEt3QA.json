@@ -535,6 +535,24 @@
     },
     {
       "album": {
+        "name": "Eksplorasi",
+        "url": "https://open.spotify.com/album/1LfGaqBK7M3X0n7TyzRycI"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181158,
+      "name": "Eksplorasi",
+      "url": "https://open.spotify.com/track/2WXmgTLLUbl13plXDLzSxQ"
+    },
+    {
+      "album": {
         "name": "Essential",
         "url": "https://open.spotify.com/album/6WdkSCs0MlShCNo8FQTNC0"
       },

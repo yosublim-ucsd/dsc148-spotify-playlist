@@ -217,6 +217,28 @@
     },
     {
       "album": {
+        "name": "BADA",
+        "url": "https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm"
+      },
+      "artists": [
+        {
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
+        },
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154555,
+      "name": "BADA",
+      "url": "https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es"
+    },
+    {
+      "album": {
         "name": "Dev Nagri Aur Main",
         "url": "https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6"
       },
@@ -984,7 +1006,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147337,
       "name": "Haath Toh Laga",
       "url": "https://open.spotify.com/track/04Vcyk4f096du3nWURpqE3"

@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️ \(Cover: Subsonic Eye\)
+> Noise distortion amongst the hazy clouds ☁️ \(Cover: Enola\)
 
-120 songs - 8 hr 33 min
+121 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Hujan](https://open.spotify.com/track/44fHQPZVM0UHcLEmFMQfDw) | [Marie Joe](https://open.spotify.com/artist/0wSlT3IFLD14xMCX7VbVCx) | [Hujan](https://open.spotify.com/album/4siflbZ24qkhsQaza9CdRz) | 3:46 | 2024-06-27 |  |
 | [hummingbird](https://open.spotify.com/track/6LhXMXpIFb1cxvhBmHa4kB) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [hummingbird](https://open.spotify.com/album/0SFZsFs5Z2duPK4j6zurEZ) | 3:38 | 2024-06-27 |  |
 | [i don’t wanna live with myself anymore](https://open.spotify.com/track/43DgPRRbirO09NCCRiJd7s) | [don't drown!](https://open.spotify.com/artist/4O39jkB3iGwG3PrCsWrAm2) | [i don’t wanna live with myself anymore](https://open.spotify.com/album/5yKshIdY9kfdrmaSjAXXR3) | 3:34 | 2024-06-27 |  |
-| [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 | 2024-08-30 |  |
+| [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 | 2024-08-30 | 2024-09-06 |
 | [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 | 2024-07-19 |  |
 | [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 |  |
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 |  |
@@ -58,6 +58,7 @@
 | [Kerat Timur 1](https://open.spotify.com/track/0vPTDcCeINEM6ziGmSavFI) | [Cigarettes Wedding](https://open.spotify.com/artist/4QGjxmeTxzV2mp5hfvCk5P), [Cholil Mahmud](https://open.spotify.com/artist/0xuJCV7Ce4Pp6eU4k5TAxQ) | [Kerat Timur 1](https://open.spotify.com/album/3YoWCTVGUOiOcqXTa4oaGd) | 3:52 | 2024-06-27 |  |
 | [Ketika Tenggelam \(Dan Kisah Kekalahan Lainnya\)](https://open.spotify.com/track/0OTpMmO1nqhNWSMDGo7Hx8) | [Nearcrush](https://open.spotify.com/artist/49gTNnP0nBneo2YuCOpcAT), [En Sunbath](https://open.spotify.com/artist/2Xm0wRbjkkvqBKCSby8GuT) | [Saturasi \- EP](https://open.spotify.com/album/2cwHtiakXpGZX90W1bizHi) | 4:14 | 2024-06-27 |  |
 | [Kota Lelah](https://open.spotify.com/track/4N4nalAYeIlr70eSbJDKvs) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Sonic Archives](https://open.spotify.com/album/4aJJcG9I4Cj4Q8KTCMzd9K) | 3:14 | 2024-06-27 |  |
+| [Lambda \(λ\)](https://open.spotify.com/track/1kUVmT99zwgXFAtnoLSbk9) | [Enola](https://open.spotify.com/artist/0RQlp5k4SaE2zbx7mGlU7r) | [Commit Death](https://open.spotify.com/album/1WcDZaLkfS0dJGN5r9PRec) | 7:40 | 2024-09-05 |  |
 | [Leave](https://open.spotify.com/track/6YENNctHxnfa4U2AXD8h8Q) | [Puremoon](https://open.spotify.com/artist/405acihhfj1w4x0uzlP6bF) | [Fade](https://open.spotify.com/album/3tBmyjfGvGRPPZV32BeGF7) | 4:01 | 2024-06-27 |  |
 | [Lily](https://open.spotify.com/track/66sSLulLtyGjwt33C4XE2n) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [Lily](https://open.spotify.com/album/1elWcJyr9tqhnpt8uZXUFR) | 4:27 | 2024-06-27 | 2024-08-09 |
 | [Lost](https://open.spotify.com/track/3Op63ZmpzYIpF92J3y5m9u) | [My Violainé Morning](https://open.spotify.com/artist/7fAZaqZKCfkyMnZpNLb2bR) | [Lost](https://open.spotify.com/album/5bQBMuWP3fq8UERgeq3oAB) | 6:25 | 2024-06-27 |  |

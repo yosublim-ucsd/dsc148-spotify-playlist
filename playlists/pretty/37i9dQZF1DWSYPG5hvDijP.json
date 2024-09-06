@@ -1,35 +1,15 @@
 {
   "description": "New Hip Hop from India.",
-  "num_followers": 7929,
+  "num_followers": 7950,
   "original_name": "Taaza hai bro!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtG+lQAAAABq3NgJh+UBbLiu4jHlOv0j",
+  "snapshot_id": "ZtmcCAAAAACAss3/AozQ/vcJDesT4dpZ",
   "tracks": [
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Big Dawgs",
-        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
-      },
-      "artists": [
-        {
-          "name": "Hanumankind",
-          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
-        },
-        {
-          "name": "Kalmi",
-          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Big Dawgs",
-      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "Attach",
         "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
@@ -53,103 +33,27 @@
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "MONOPOLY MOVES",
-        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
+        "name": "BADA",
+        "url": "https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm"
       },
       "artists": [
         {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+          "name": "Karma",
+          "url": "https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F"
         },
         {
-          "name": "Sikander Kahlon",
-          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
         }
       ],
-      "duration_ms": 214062,
-      "name": "CAN'T AFFORD",
-      "url": "https://open.spotify.com/track/25PPQ5o1SB6pLGVcSsfxiV"
+      "duration_ms": 154555,
+      "name": "BADA",
+      "url": "https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "On Air",
-        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
-      },
-      "artists": [
-        {
-          "name": "SNIPER",
-          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
-        },
-        {
-          "name": "Hakeem",
-          "url": "https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl"
-        }
-      ],
-      "duration_ms": 158052,
-      "name": "Hip Hawp",
-      "url": "https://open.spotify.com/track/4vOSb0R7owrxx1tkbtxKGy"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "God Bless You",
-        "url": "https://open.spotify.com/album/3ZDNJuCmV1mlUf3Z5dLvJ2"
-      },
-      "artists": [
-        {
-          "name": "Vijay Dk",
-          "url": "https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt"
-        }
-      ],
-      "duration_ms": 156245,
-      "name": "God Bless You",
-      "url": "https://open.spotify.com/track/2Q6ajrXPICNctahJ9jeiYn"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Do Shabd",
-        "url": "https://open.spotify.com/album/2m7kSEJFEpxh1jVntbEkwn"
-      },
-      "artists": [
-        {
-          "name": "Kidshot",
-          "url": "https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy"
-        },
-        {
-          "name": "KALAM INK",
-          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
-        }
-      ],
-      "duration_ms": 165483,
-      "name": "Do Shabd",
-      "url": "https://open.spotify.com/track/18peD3JZAcGFIwd07vvU7H"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "On Air",
-        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
-      },
-      "artists": [
-        {
-          "name": "SNIPER",
-          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
-        },
-        {
-          "name": "DX",
-          "url": "https://open.spotify.com/artist/0oB2KUrNDwdwbiu1Hw1hGe"
-        }
-      ],
-      "duration_ms": 172173,
-      "name": "Hustler",
-      "url": "https://open.spotify.com/track/6zadsUn6muFOc8NJXiw7Yz"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "SHAKTI",
         "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
@@ -160,12 +64,72 @@
           "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Naksha",
-      "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
+      "duration_ms": 211200,
+      "name": "Raat Ki Raani",
+      "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Channa Ve",
+        "url": "https://open.spotify.com/album/0VfXeutoN0UChbGzlfcLka"
+      },
+      "artists": [
+        {
+          "name": "Rahul Sathu",
+          "url": "https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3"
+        },
+        {
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+        }
+      ],
+      "duration_ms": 237332,
+      "name": "Channa Ve",
+      "url": "https://open.spotify.com/track/4ekflmlEIqeYEgZYx2p4xy"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/4UdfiePUjeOBeH0evnLYli"
+      },
+      "artists": [
+        {
+          "name": "Irfana",
+          "url": "https://open.spotify.com/artist/2yjjNifzaKhrRnHlOx2YH1"
+        },
+        {
+          "name": "Kalla Sha",
+          "url": "https://open.spotify.com/artist/0XLxt1lDZw8fxJdkmzRQor"
+        },
+        {
+          "name": "MC Couper",
+          "url": "https://open.spotify.com/artist/4AJoyMa0S1kgtcde6gtKBB"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/15oKcVMKKH2CI61ktObrLX"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Sorted",
+        "url": "https://open.spotify.com/album/6LXLjVmBaLnV6QpUGwmnMx"
+      },
+      "artists": [
+        {
+          "name": "Merwin D",
+          "url": "https://open.spotify.com/artist/1WZB2R0NEMSgjqP4AM2LkS"
+        }
+      ],
+      "duration_ms": 132721,
+      "name": "Sorted",
+      "url": "https://open.spotify.com/track/1dxZQvfiUMjbAQuFBvMqgn"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "MIXED FEELINGS",
         "url": "https://open.spotify.com/album/68eF34hzy5zePuzwqX5PIS"
@@ -185,7 +149,7 @@
       "url": "https://open.spotify.com/track/1C99ZFDmchpWnOXgRk9B2U"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -196,35 +160,107 @@
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         }
       ],
-      "duration_ms": 195107,
-      "name": "Caliente",
-      "url": "https://open.spotify.com/track/3jW6x7dyYFUr5LNfWC2TFU"
+      "duration_ms": 175169,
+      "name": "6 Am",
+      "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Kale Kaam",
-        "url": "https://open.spotify.com/album/5WTIkqjVDkumhsaOfiq3ei"
+        "name": "SHAKTI",
+        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
       },
       "artists": [
         {
-          "name": "Raw1",
-          "url": "https://open.spotify.com/artist/1DGmIR0NzrZs4gPGAW9CWc"
-        },
-        {
-          "name": "Ullumanati",
-          "url": "https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz"
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
         }
       ],
-      "duration_ms": 157222,
-      "name": "Kale Kaam",
-      "url": "https://open.spotify.com/track/17erB64iP3V1DRv3oDXqIt"
+      "duration_ms": 206400,
+      "name": "Naksha",
+      "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "2 AM in Mumbai",
-        "url": "https://open.spotify.com/album/1aUUzcLuMC1iNN1eDGaME7"
+        "name": "PRAISE",
+        "url": "https://open.spotify.com/album/5OFm3PvKUJuUo3cMLlJGHn"
+      },
+      "artists": [
+        {
+          "name": "Umer Anjum",
+          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
+        },
+        {
+          "name": "superdupersultan",
+          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
+        }
+      ],
+      "duration_ms": 164675,
+      "name": "PRAISE",
+      "url": "https://open.spotify.com/track/6NnUXWms5vhnhsipEJ4yEj"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Pitbull",
+        "url": "https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "thekidd.wav",
+          "url": "https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0"
+        }
+      ],
+      "duration_ms": 170869,
+      "name": "Pitbull",
+      "url": "https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 184213,
+      "name": "Hide It",
+      "url": "https://open.spotify.com/track/1YEqs3pLKemaxAd7Tyr5eP"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "MERI JAAN PEHLE NAACH",
+        "url": "https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV"
+      },
+      "artists": [
+        {
+          "name": "Yashraj",
+          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
+        },
+        {
+          "name": "PUNA",
+          "url": "https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo"
+        }
+      ],
+      "duration_ms": 241535,
+      "name": "GABBAR",
+      "url": "https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Middle Class",
+        "url": "https://open.spotify.com/album/0UBemPmcq8AwFiueDh0D8x"
       },
       "artists": [
         {
@@ -232,36 +268,36 @@
           "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
         },
         {
-          "name": "Zero Chill",
-          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
+          "name": "Adil",
+          "url": "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ"
         }
       ],
-      "duration_ms": 121791,
-      "name": "2 AM in Mumbai",
-      "url": "https://open.spotify.com/track/3lHbWEiu66JgYQuuHy8bqz"
+      "duration_ms": 169696,
+      "name": "Middle Class",
+      "url": "https://open.spotify.com/track/3jltDZk8ntO5p70Hyz9COC"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "On Air",
-        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
+        "name": "In The Building",
+        "url": "https://open.spotify.com/album/6oHPRRBPncB9BcIyVjRkWU"
       },
       "artists": [
         {
-          "name": "SNIPER",
-          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
+          "name": "YUNG SAMMY",
+          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
         },
         {
-          "name": "Aashmeen",
-          "url": "https://open.spotify.com/artist/3F9peZNbNLHGTXY4PqbD5D"
+          "name": "Bandzo3rd",
+          "url": "https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7"
         }
       ],
-      "duration_ms": 145531,
-      "name": "Surma",
-      "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
+      "duration_ms": 191255,
+      "name": "All In (feat. Bandzo3rd)",
+      "url": "https://open.spotify.com/track/0QE3NomrrrqmxQG75iXCaG"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "140",
         "url": "https://open.spotify.com/album/7Boz1nhfbNB8wrnrZqBcDQ"
@@ -285,119 +321,27 @@
       "url": "https://open.spotify.com/track/6YS34eGqpfABBaYIjnLFv5"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "OSHO",
-        "url": "https://open.spotify.com/album/3YhqyM5pvANHZ8P1h92pWr"
+        "name": "2 AM in Mumbai",
+        "url": "https://open.spotify.com/album/1aUUzcLuMC1iNN1eDGaME7"
       },
       "artists": [
         {
-          "name": "Harjas Harjaayi",
-          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
         },
         {
-          "name": "Trappy808",
-          "url": "https://open.spotify.com/artist/6iQEWZX9e3N00YF3P5lvVQ"
+          "name": "Zero Chill",
+          "url": "https://open.spotify.com/artist/2jQwPdXQ9R2yAi0eMZRQ1M"
         }
       ],
-      "duration_ms": 131918,
-      "name": "OSHO",
-      "url": "https://open.spotify.com/track/7qENyfBUfEEXNgjehd7lXf"
+      "duration_ms": 121791,
+      "name": "2 AM in Mumbai",
+      "url": "https://open.spotify.com/track/3lHbWEiu66JgYQuuHy8bqz"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "MERI JAAN PEHLE NAACH",
-        "url": "https://open.spotify.com/album/0EjqvUumscGjg4Y12yalkV"
-      },
-      "artists": [
-        {
-          "name": "Yashraj",
-          "url": "https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST"
-        },
-        {
-          "name": "PUNA",
-          "url": "https://open.spotify.com/artist/6xxZ5ygLggYl3EXuzDezvo"
-        }
-      ],
-      "duration_ms": 241535,
-      "name": "GABBAR",
-      "url": "https://open.spotify.com/track/1onRB8Y9I8coG52cFeq5oD"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Mafia Mentality",
-        "url": "https://open.spotify.com/album/0J6rMORGxjJ7IqwA8OF8cz"
-      },
-      "artists": [
-        {
-          "name": "Rocksun",
-          "url": "https://open.spotify.com/artist/5KZTtQzeBsUw8HtUSQFTmG"
-        }
-      ],
-      "duration_ms": 193418,
-      "name": "Mafia Mentality",
-      "url": "https://open.spotify.com/track/6uN1Q7zi64ItazbGHBYud9"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "In The Building",
-        "url": "https://open.spotify.com/album/6oHPRRBPncB9BcIyVjRkWU"
-      },
-      "artists": [
-        {
-          "name": "YUNG SAMMY",
-          "url": "https://open.spotify.com/artist/3N1efxORHI0hvpUGNr0QpW"
-        },
-        {
-          "name": "Bandzo3rd",
-          "url": "https://open.spotify.com/artist/1DnUEMDVBtdwVBPAok8Ws7"
-        }
-      ],
-      "duration_ms": 191255,
-      "name": "All In (feat. Bandzo3rd)",
-      "url": "https://open.spotify.com/track/0QE3NomrrrqmxQG75iXCaG"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Chalis",
-        "url": "https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw"
-      },
-      "artists": [
-        {
-          "name": "Emiway Bantai",
-          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
-        }
-      ],
-      "duration_ms": 184421,
-      "name": "Chalis",
-      "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "THE SHAMS",
-          "url": "https://open.spotify.com/artist/0Vepfi0XJ1hdBOu5WlMlXn"
-        }
-      ],
-      "duration_ms": 178143,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "Trapanese",
         "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
@@ -421,39 +365,7 @@
       "url": "https://open.spotify.com/track/2D23wYoZUdce0osrZr3Qq0"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "The World Is Mine",
-        "url": "https://open.spotify.com/album/6WU5JGTTE3gjq90FQd1d5i"
-      },
-      "artists": [
-        {
-          "name": "Mischief",
-          "url": "https://open.spotify.com/artist/1EDYfcvSE4udQAlVKjPY2q"
-        }
-      ],
-      "duration_ms": 282682,
-      "name": "The World Is Mine",
-      "url": "https://open.spotify.com/track/7hz8qG2Hs0Z5n3gjt1qTMG"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "5 Saal",
-        "url": "https://open.spotify.com/album/7GPyAb9Sa0FfYThfVYMMtM"
-      },
-      "artists": [
-        {
-          "name": "Blo V",
-          "url": "https://open.spotify.com/artist/1SzBRk8CjQHnDC6mRIthN2"
-        }
-      ],
-      "duration_ms": 286129,
-      "name": "5 Saal",
-      "url": "https://open.spotify.com/track/0Ef1Q0uyQ8dzZOo9q0IqJ4"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -464,108 +376,80 @@
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         }
       ],
-      "duration_ms": 175169,
-      "name": "6 Am",
-      "url": "https://open.spotify.com/track/2WbJHbbw9iWWbVPC4qt17t"
+      "duration_ms": 195107,
+      "name": "Caliente",
+      "url": "https://open.spotify.com/track/3jW6x7dyYFUr5LNfWC2TFU"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "IMMORALS",
-        "url": "https://open.spotify.com/album/0zvBLdhThhfuhZ6mhPldcL"
+        "name": "Dil Ki Baat",
+        "url": "https://open.spotify.com/album/38cbU2QyvQH46BFqvetgWt"
       },
       "artists": [
         {
-          "name": "Harjas Harjaayi",
-          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+          "name": "MC INSANE",
+          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
+        }
+      ],
+      "duration_ms": 195197,
+      "name": "Dil Ki Baat",
+      "url": "https://open.spotify.com/track/0iHqwLyfGiCWBi9518VVgm"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "RANI",
+        "url": "https://open.spotify.com/album/0fFLVK1B4ijITBAu3szlGw"
+      },
+      "artists": [
+        {
+          "name": "J Trix",
+          "url": "https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf"
         },
         {
-          "name": "XTACY",
-          "url": "https://open.spotify.com/artist/6YOZBKPwkJvn3lVxzkFIBP"
+          "name": "Ramoon",
+          "url": "https://open.spotify.com/artist/7C5TmL0BwtN0fKBDNkJFhj"
         }
       ],
-      "duration_ms": 166748,
-      "name": "IMMORALS",
-      "url": "https://open.spotify.com/track/08l2EihRm3z5I6cO39yM5D"
+      "duration_ms": 149120,
+      "name": "RANI",
+      "url": "https://open.spotify.com/track/6TRtJTocE3S9Miou3GSoCj"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "SHAKTI",
-        "url": "https://open.spotify.com/album/6Mwca6sXGKb25VkAc1e6X3"
+        "name": "Mafia Mentality",
+        "url": "https://open.spotify.com/album/0J6rMORGxjJ7IqwA8OF8cz"
       },
       "artists": [
         {
-          "name": "Seedhe Maut",
-          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+          "name": "Rocksun",
+          "url": "https://open.spotify.com/artist/5KZTtQzeBsUw8HtUSQFTmG"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Raat Ki Raani",
-      "url": "https://open.spotify.com/track/1alInstEk6TQMuPyjCgI4K"
+      "duration_ms": 193418,
+      "name": "Mafia Mentality",
+      "url": "https://open.spotify.com/track/6uN1Q7zi64ItazbGHBYud9"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Mumbai Rap",
-        "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
+        "name": "Chalis",
+        "url": "https://open.spotify.com/album/5Mp4zVYRkIbJ4AZyXB27Nw"
       },
       "artists": [
         {
-          "name": "MC Altaf",
-          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
-        },
-        {
-          "name": "DRJ Sohail",
-          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
         }
       ],
-      "duration_ms": 158823,
-      "name": "Mumbai Rap",
-      "url": "https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn"
+      "duration_ms": 184421,
+      "name": "Chalis",
+      "url": "https://open.spotify.com/track/3Y2QAPM1Vsw7yKKnVMsxhD"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Pitbull",
-        "url": "https://open.spotify.com/album/322Q4AdwCHgFfpFvKossNs"
-      },
-      "artists": [
-        {
-          "name": "MC SQUARE",
-          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
-        },
-        {
-          "name": "thekidd.wav",
-          "url": "https://open.spotify.com/artist/5LxqBfBqjhbVLjEL32oMj0"
-        }
-      ],
-      "duration_ms": 170869,
-      "name": "Pitbull",
-      "url": "https://open.spotify.com/track/3xJwshLcC50ZXeioGmIcdl"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "PRAISE",
-        "url": "https://open.spotify.com/album/5OFm3PvKUJuUo3cMLlJGHn"
-      },
-      "artists": [
-        {
-          "name": "Umer Anjum",
-          "url": "https://open.spotify.com/artist/1mpkZnWbtXXPB5QitvCnMV"
-        },
-        {
-          "name": "superdupersultan",
-          "url": "https://open.spotify.com/artist/04ENOEpTQgKEVWrvlHwdzN"
-        }
-      ],
-      "duration_ms": 164675,
-      "name": "PRAISE",
-      "url": "https://open.spotify.com/track/6NnUXWms5vhnhsipEJ4yEj"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/0chBFczOejfqe24XLkAVLj"
@@ -589,83 +473,87 @@
       "url": "https://open.spotify.com/track/2xjK6X8vX06yZK8DnYQ9V0"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Azaad Banda",
-        "url": "https://open.spotify.com/album/0hAnRefMvNQObmqsuM8xcf"
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
       },
       "artists": [
         {
-          "name": "Reemboo",
-          "url": "https://open.spotify.com/artist/2d38l4T8kHlAO51dKXcVXl"
-        }
-      ],
-      "duration_ms": 181082,
-      "name": "Azaad Banda",
-      "url": "https://open.spotify.com/track/7u6Fp4pM368gkLdb1PG65a"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Trapanese",
-        "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
-      },
-      "artists": [
-        {
-          "name": "Qaab",
-          "url": "https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6"
+          "name": "SNIPER",
+          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
         },
         {
-          "name": "DRV",
-          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+          "name": "DX",
+          "url": "https://open.spotify.com/artist/0oB2KUrNDwdwbiu1Hw1hGe"
         }
       ],
-      "duration_ms": 141473,
-      "name": "Mi Casa",
-      "url": "https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz"
+      "duration_ms": 172173,
+      "name": "Hustler",
+      "url": "https://open.spotify.com/track/6zadsUn6muFOc8NJXiw7Yz"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Nacho Re",
-        "url": "https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW"
+        "name": "Mumbai Rap",
+        "url": "https://open.spotify.com/album/0aGLkE9zu36Gv52wmL0DFT"
       },
       "artists": [
         {
-          "name": "Sickflip",
-          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+          "name": "MC Altaf",
+          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
         },
         {
-          "name": "Kaam Bhaari",
-          "url": "https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3"
-        },
-        {
-          "name": "Malishka",
-          "url": "https://open.spotify.com/artist/0C7UmcLQbwXiE9RSUmdo9W"
+          "name": "DRJ Sohail",
+          "url": "https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN"
         }
       ],
-      "duration_ms": 172444,
-      "name": "Nacho Re",
-      "url": "https://open.spotify.com/track/5QZi9mzhAz2VCttIgKDMBa"
+      "duration_ms": 158823,
+      "name": "Mumbai Rap",
+      "url": "https://open.spotify.com/track/6VokTxf7VkJdOzgZEjM2Gn"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Ammi",
-        "url": "https://open.spotify.com/album/74E1zrZIUKWux1b1I1KzQj"
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
       },
       "artists": [
         {
-          "name": "Young Galib",
-          "url": "https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o"
+          "name": "SNIPER",
+          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
+        },
+        {
+          "name": "Aashmeen",
+          "url": "https://open.spotify.com/artist/3F9peZNbNLHGTXY4PqbD5D"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Ammi",
-      "url": "https://open.spotify.com/track/6qaY6ME5JBuXDqrHNtUKTX"
+      "duration_ms": 145531,
+      "name": "Surma",
+      "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Scenario",
+        "url": "https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS"
+      },
+      "artists": [
+        {
+          "name": "Sammohit",
+          "url": "https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2"
+        },
+        {
+          "name": "Mahlan Wala 59",
+          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+        }
+      ],
+      "duration_ms": 136421,
+      "name": "Scenario",
+      "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "GLORY",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -674,150 +562,34 @@
         {
           "name": "Yo Yo Honey Singh",
           "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 184213,
-      "name": "Hide It",
-      "url": "https://open.spotify.com/track/1YEqs3pLKemaxAd7Tyr5eP"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "RANI",
-        "url": "https://open.spotify.com/album/0fFLVK1B4ijITBAu3szlGw"
-      },
-      "artists": [
-        {
-          "name": "J Trix",
-          "url": "https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf"
         },
         {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7C5TmL0BwtN0fKBDNkJFhj"
+          "name": "THE SHAMS",
+          "url": "https://open.spotify.com/artist/0Vepfi0XJ1hdBOu5WlMlXn"
         }
       ],
-      "duration_ms": 149120,
-      "name": "RANI",
-      "url": "https://open.spotify.com/track/6TRtJTocE3S9Miou3GSoCj"
+      "duration_ms": 178143,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/7r8DFPBOkohRGX6Taq93Kv"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "HOMIE LOG",
-        "url": "https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk"
+        "name": "The World Is Mine",
+        "url": "https://open.spotify.com/album/6WU5JGTTE3gjq90FQd1d5i"
       },
       "artists": [
         {
-          "name": "Thoratt",
-          "url": "https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW"
-        },
-        {
-          "name": "FlamboyBeatz",
-          "url": "https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca"
+          "name": "Mischief",
+          "url": "https://open.spotify.com/artist/1EDYfcvSE4udQAlVKjPY2q"
         }
       ],
-      "duration_ms": 200552,
-      "name": "HOMIE LOG",
-      "url": "https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW"
+      "duration_ms": 282682,
+      "name": "The World Is Mine",
+      "url": "https://open.spotify.com/track/7hz8qG2Hs0Z5n3gjt1qTMG"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Badal Jaa",
-        "url": "https://open.spotify.com/album/4xYn534iyCEJipM0o9gb17"
-      },
-      "artists": [
-        {
-          "name": "Taunk Bawa",
-          "url": "https://open.spotify.com/artist/4RDCcfc2Q9vapKebkD6I7y"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Badal Jaa",
-      "url": "https://open.spotify.com/track/571104i4e3hTgDykq2acAb"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Shiv",
-        "url": "https://open.spotify.com/album/4cVESTjOLf9f3Sbt2P3pxT"
-      },
-      "artists": [
-        {
-          "name": "Insane Muzik",
-          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
-        }
-      ],
-      "duration_ms": 200470,
-      "name": "Shiv",
-      "url": "https://open.spotify.com/track/0uF2pTFxWN1xCLQLVLy8xz"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "GT Durango",
-        "url": "https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ"
-      },
-      "artists": [
-        {
-          "name": "HARRY PB65",
-          "url": "https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE"
-        },
-        {
-          "name": "NZLDR",
-          "url": "https://open.spotify.com/artist/5d9c84QTpcT6vYy5PRbFq4"
-        }
-      ],
-      "duration_ms": 167671,
-      "name": "GT Durango",
-      "url": "https://open.spotify.com/track/34BoTyzEDehR8HcNaYkiEA"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Middle Class",
-        "url": "https://open.spotify.com/album/0UBemPmcq8AwFiueDh0D8x"
-      },
-      "artists": [
-        {
-          "name": "MC Altaf",
-          "url": "https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu"
-        },
-        {
-          "name": "Adil",
-          "url": "https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ"
-        }
-      ],
-      "duration_ms": 169696,
-      "name": "Middle Class",
-      "url": "https://open.spotify.com/track/3jltDZk8ntO5p70Hyz9COC"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Kaleshi Launde",
-        "url": "https://open.spotify.com/album/2mH4p2r7bxlgFyQjjbQfSi"
-      },
-      "artists": [
-        {
-          "name": "Dakait",
-          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
-        },
-        {
-          "name": "Aniket Raturi",
-          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
-        },
-        {
-          "name": "Sez on the Beat",
-          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
-        }
-      ],
-      "duration_ms": 185783,
-      "name": "Kaleshi Launde",
-      "url": "https://open.spotify.com/track/1I1pIaWzWBHuERmhKpHVey"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "Duty Free",
         "url": "https://open.spotify.com/album/0MWin9PsdFGitWQXMJkCO8"
@@ -841,59 +613,83 @@
       "url": "https://open.spotify.com/track/7wLi7EgMNh3iWL9higPYCV"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Bewafa",
-        "url": "https://open.spotify.com/album/1TCpBZI7iOioJSmo7DFuhk"
+        "name": "MONOPOLY MOVES",
+        "url": "https://open.spotify.com/album/5dkmnSddXf47ZX5IJ4WCtr"
       },
       "artists": [
         {
-          "name": "KHILLARI",
-          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
-        }
-      ],
-      "duration_ms": 146977,
-      "name": "Bewafa",
-      "url": "https://open.spotify.com/track/27sHbRIe50Ae1jfrKbJ4z3"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "Dil Ki Baat",
-        "url": "https://open.spotify.com/album/38cbU2QyvQH46BFqvetgWt"
-      },
-      "artists": [
-        {
-          "name": "MC INSANE",
-          "url": "https://open.spotify.com/artist/7vlghc3VSBc7oPg2a2FRSq"
-        }
-      ],
-      "duration_ms": 195197,
-      "name": "Dil Ki Baat",
-      "url": "https://open.spotify.com/track/0iHqwLyfGiCWBi9518VVgm"
-    },
-    {
-      "added_at": "2024-08-30 12:44:05",
-      "album": {
-        "name": "CALL GIRL",
-        "url": "https://open.spotify.com/album/5tHdgQiOVP1GVMEjPMZD1O"
-      },
-      "artists": [
-        {
-          "name": "Harjas Harjaayi",
-          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
         },
         {
-          "name": "ISHH",
-          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+          "name": "Sikander Kahlon",
+          "url": "https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN"
         }
       ],
-      "duration_ms": 127384,
-      "name": "CALL GIRL",
-      "url": "https://open.spotify.com/track/78CG2RCP6gNXGwIR0sfdiK"
+      "duration_ms": 214062,
+      "name": "CAN'T AFFORD",
+      "url": "https://open.spotify.com/track/25PPQ5o1SB6pLGVcSsfxiV"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Nacho Re",
+        "url": "https://open.spotify.com/album/5AbYRFnhbzaV5kx1Ew26SW"
+      },
+      "artists": [
+        {
+          "name": "Sickflip",
+          "url": "https://open.spotify.com/artist/4a5cFa2gISG9QtjELLgYcZ"
+        },
+        {
+          "name": "Kaam Bhaari",
+          "url": "https://open.spotify.com/artist/5bTYVMQ6vmt4Bm12hM59N3"
+        },
+        {
+          "name": "Malishka",
+          "url": "https://open.spotify.com/artist/0C7UmcLQbwXiE9RSUmdo9W"
+        }
+      ],
+      "duration_ms": 172444,
+      "name": "Nacho Re",
+      "url": "https://open.spotify.com/track/5QZi9mzhAz2VCttIgKDMBa"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Azaad Banda",
+        "url": "https://open.spotify.com/album/0hAnRefMvNQObmqsuM8xcf"
+      },
+      "artists": [
+        {
+          "name": "Reemboo",
+          "url": "https://open.spotify.com/artist/2d38l4T8kHlAO51dKXcVXl"
+        }
+      ],
+      "duration_ms": 181082,
+      "name": "Azaad Banda",
+      "url": "https://open.spotify.com/track/7u6Fp4pM368gkLdb1PG65a"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Badal Jaa",
+        "url": "https://open.spotify.com/album/4xYn534iyCEJipM0o9gb17"
+      },
+      "artists": [
+        {
+          "name": "Taunk Bawa",
+          "url": "https://open.spotify.com/artist/4RDCcfc2Q9vapKebkD6I7y"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Badal Jaa",
+      "url": "https://open.spotify.com/track/571104i4e3hTgDykq2acAb"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "Trapanese",
         "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
@@ -913,27 +709,159 @@
       "url": "https://open.spotify.com/track/3wvT9IGaukapXs0GKPQwKs"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+        "name": "Bewafa",
+        "url": "https://open.spotify.com/album/1TCpBZI7iOioJSmo7DFuhk"
       },
       "artists": [
         {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Yina Menez",
-          "url": "https://open.spotify.com/artist/54xi4V65IxIY05XzkrltAM"
+          "name": "KHILLARI",
+          "url": "https://open.spotify.com/artist/57i3gH8eXXsBYPHBre63v1"
         }
       ],
-      "duration_ms": 188245,
-      "name": "Malamaal",
-      "url": "https://open.spotify.com/track/3GPvDPNmVek5FSp8IsK5AC"
+      "duration_ms": 146977,
+      "name": "Bewafa",
+      "url": "https://open.spotify.com/track/27sHbRIe50Ae1jfrKbJ4z3"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "HOMIE LOG",
+        "url": "https://open.spotify.com/album/7AR85L29sUGlakbyuLP6Nk"
+      },
+      "artists": [
+        {
+          "name": "Thoratt",
+          "url": "https://open.spotify.com/artist/7tzOyhYENH5JN2loiiUhvW"
+        },
+        {
+          "name": "FlamboyBeatz",
+          "url": "https://open.spotify.com/artist/1nbhTxyeATtD6EPZR87bca"
+        }
+      ],
+      "duration_ms": 200552,
+      "name": "HOMIE LOG",
+      "url": "https://open.spotify.com/track/3YCQxZaUKfqDUjrtVClKtW"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Trapanese",
+        "url": "https://open.spotify.com/album/5jUVq3AfAxWDEUW1fa9NDu"
+      },
+      "artists": [
+        {
+          "name": "Qaab",
+          "url": "https://open.spotify.com/artist/3oyIUDxlFBUqyP05ck3Nx6"
+        },
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "duration_ms": 141473,
+      "name": "Mi Casa",
+      "url": "https://open.spotify.com/track/0yiXFE9ezKajK4RFQdDpvz"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Kaleshi Launde",
+        "url": "https://open.spotify.com/album/2mH4p2r7bxlgFyQjjbQfSi"
+      },
+      "artists": [
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Aniket Raturi",
+          "url": "https://open.spotify.com/artist/1jXFRp4614WZlih5QJ51RS"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "duration_ms": 185783,
+      "name": "Kaleshi Launde",
+      "url": "https://open.spotify.com/track/1I1pIaWzWBHuERmhKpHVey"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Kale Kaam",
+        "url": "https://open.spotify.com/album/5WTIkqjVDkumhsaOfiq3ei"
+      },
+      "artists": [
+        {
+          "name": "Raw1",
+          "url": "https://open.spotify.com/artist/1DGmIR0NzrZs4gPGAW9CWc"
+        },
+        {
+          "name": "Ullumanati",
+          "url": "https://open.spotify.com/artist/4lYNRgHw7avPnT7pK1mehz"
+        }
+      ],
+      "duration_ms": 157222,
+      "name": "Kale Kaam",
+      "url": "https://open.spotify.com/track/17erB64iP3V1DRv3oDXqIt"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "CALL GIRL",
+        "url": "https://open.spotify.com/album/5tHdgQiOVP1GVMEjPMZD1O"
+      },
+      "artists": [
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        },
+        {
+          "name": "ISHH",
+          "url": "https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8"
+        }
+      ],
+      "duration_ms": 127384,
+      "name": "CALL GIRL",
+      "url": "https://open.spotify.com/track/78CG2RCP6gNXGwIR0sfdiK"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Ammi",
+        "url": "https://open.spotify.com/album/74E1zrZIUKWux1b1I1KzQj"
+      },
+      "artists": [
+        {
+          "name": "Young Galib",
+          "url": "https://open.spotify.com/artist/7oSaiYIWj9u22z7afFZc5o"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Ammi",
+      "url": "https://open.spotify.com/track/6qaY6ME5JBuXDqrHNtUKTX"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Shiv",
+        "url": "https://open.spotify.com/album/4cVESTjOLf9f3Sbt2P3pxT"
+      },
+      "artists": [
+        {
+          "name": "Insane Muzik",
+          "url": "https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq"
+        }
+      ],
+      "duration_ms": 200470,
+      "name": "Shiv",
+      "url": "https://open.spotify.com/track/0uF2pTFxWN1xCLQLVLy8xz"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
       "album": {
         "name": "TATHYA",
         "url": "https://open.spotify.com/album/53VZRmMGUeB2o94pXtwMOc"
@@ -953,24 +881,104 @@
       "url": "https://open.spotify.com/track/0jBftnxpYmpxGFYSYGSbga"
     },
     {
-      "added_at": "2024-08-30 12:44:05",
+      "added_at": "2024-09-05 11:54:48",
       "album": {
-        "name": "Scenario",
-        "url": "https://open.spotify.com/album/3rmXU2uoFOFEvgxZYLS4bS"
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
       "artists": [
         {
-          "name": "Sammohit",
-          "url": "https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2"
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
         },
         {
-          "name": "Mahlan Wala 59",
-          "url": "https://open.spotify.com/artist/6AONermxpKHYKrOPPAI5gS"
+          "name": "Yina Menez",
+          "url": "https://open.spotify.com/artist/54xi4V65IxIY05XzkrltAM"
         }
       ],
-      "duration_ms": 136421,
-      "name": "Scenario",
-      "url": "https://open.spotify.com/track/4A7TPu84Nvaz9RwcHYG2Ol"
+      "duration_ms": 188245,
+      "name": "Malamaal",
+      "url": "https://open.spotify.com/track/3GPvDPNmVek5FSp8IsK5AC"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "GT Durango",
+        "url": "https://open.spotify.com/album/5p8h7hKE9FYlPQbXzbKrwZ"
+      },
+      "artists": [
+        {
+          "name": "HARRY PB65",
+          "url": "https://open.spotify.com/artist/5C7X8CsxBxF0thLdH4gYLE"
+        },
+        {
+          "name": "NZLDR",
+          "url": "https://open.spotify.com/artist/5d9c84QTpcT6vYy5PRbFq4"
+        }
+      ],
+      "duration_ms": 167671,
+      "name": "GT Durango",
+      "url": "https://open.spotify.com/track/34BoTyzEDehR8HcNaYkiEA"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Do Shabd",
+        "url": "https://open.spotify.com/album/2m7kSEJFEpxh1jVntbEkwn"
+      },
+      "artists": [
+        {
+          "name": "Kidshot",
+          "url": "https://open.spotify.com/artist/0vZEDTIhGPOIRL0KjqMWTy"
+        },
+        {
+          "name": "KALAM INK",
+          "url": "https://open.spotify.com/artist/6VbH1XK4t6KE5s3k85MTBd"
+        }
+      ],
+      "duration_ms": 165483,
+      "name": "Do Shabd",
+      "url": "https://open.spotify.com/track/18peD3JZAcGFIwd07vvU7H"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "Big Dawgs",
+        "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
+      },
+      "artists": [
+        {
+          "name": "Hanumankind",
+          "url": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+        },
+        {
+          "name": "Kalmi",
+          "url": "https://open.spotify.com/artist/6tYCSHLtTI54AQJFOMfU45"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Big Dawgs",
+      "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
+    },
+    {
+      "added_at": "2024-09-05 11:54:48",
+      "album": {
+        "name": "On Air",
+        "url": "https://open.spotify.com/album/1aCFPgZG9BUc1KTsE2UfWp"
+      },
+      "artists": [
+        {
+          "name": "SNIPER",
+          "url": "https://open.spotify.com/artist/7nNMzQprutDZ3D5ZxUHJbK"
+        },
+        {
+          "name": "Hakeem",
+          "url": "https://open.spotify.com/artist/5DEHzdtoptgfgV6iri6zgl"
+        }
+      ],
+      "duration_ms": 158052,
+      "name": "Hip Hawp",
+      "url": "https://open.spotify.com/track/4vOSb0R7owrxx1tkbtxKGy"
     }
   ],
   "unique_name": "Taaza hai bro!",

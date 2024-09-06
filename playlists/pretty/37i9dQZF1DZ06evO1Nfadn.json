@@ -1,12 +1,12 @@
 {
-  "description": "This Is Banda Maguey. Los temas esenciales, todos en una lista.",
-  "num_followers": 28160,
+  "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
+  "num_followers": 28181,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAABMH58pmoTlZD0esLKQpXGl",
+  "snapshot_id": "ZtejAAAAAACgpBMOjZYxL3oAMDFe50t7",
   "tracks": [
     {
       "added_at": null,
@@ -100,9 +100,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 181519,
-      "name": "Como La Luna",
-      "url": "https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr"
+      "duration_ms": 176889,
+      "name": "El Teterete",
+      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
     },
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 176889,
-      "name": "El Teterete",
-      "url": "https://open.spotify.com/track/5BJMTujpYBXfbzFnV5ptqL"
+      "duration_ms": 181519,
+      "name": "Como La Luna",
+      "url": "https://open.spotify.com/track/2wLlLduOwyxNUCR8AnLPJr"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tesoros de Coleccion",
-        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 170120,
-      "name": "Si la Ven por Ah\u00ed",
-      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
+        "name": "Tesoros de Coleccion",
+        "url": "https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
+      "duration_ms": 170120,
+      "name": "Si la Ven por Ah\u00ed",
+      "url": "https://open.spotify.com/track/4UtzBoFkJe8yFF10yPKW9C"
     },
     {
       "added_at": null,

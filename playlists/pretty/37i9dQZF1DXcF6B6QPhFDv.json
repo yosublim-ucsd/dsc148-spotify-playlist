@@ -1,13 +1,29 @@
 {
   "description": "rock never dies | feel it in your bones.  \ud83d\udcf8: Wunderhorse",
-  "num_followers": 4563953,
+  "num_followers": 4564084,
   "original_name": "MARROW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAADSF/UHB5AttTgZH+hNcXSP",
+  "snapshot_id": "ZtpA0QAAAAAcRj0/4LD5nmMFK9yHhbhq",
   "tracks": [
+    {
+      "added_at": "2024-09-05 23:37:53",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {

@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-545 songs - 22 hr 34 min
+546 songs - 22 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Cold Concrete](https://open.spotify.com/track/4BoN3OsPTcoSYxM0WHVJks) | [DJ FRIP a.k.a\. BeatLab](https://open.spotify.com/artist/5nkZFBzkGZpfRxnWFZGtk7) | [Cold Concrete](https://open.spotify.com/album/6v2LK3CCHzFmZKQea6UYPV) | 3:11 | 2022-03-03 | 2022-12-04 |
 | [Come Back to You](https://open.spotify.com/track/5cDFp0nCi0hgQFdsPwFJMU) | [Beats by Egomi](https://open.spotify.com/artist/4l2nSjx7H4PJmARVKXM36S) | [The Jaded Beat, Vol\. 2](https://open.spotify.com/album/1UMbNkcCv2CtzgKEPeiPPF) | 2:52 | 2020-01-14 | 2021-10-24 |
 | [Common'](https://open.spotify.com/track/04ahHGfST9G63DMFJb3ME8) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gustav Gustav](https://open.spotify.com/artist/1dyXIa7Eo7ZdJsHQnOjtH8) | [Berlin 64](https://open.spotify.com/album/1xcNibWL2YTMIMJksCSkTW) | 2:27 | 2019-08-31 | 2020-01-14 |
-| [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 | 2020-06-19 |  |
+| [Constellation](https://open.spotify.com/track/7CCGMuXZtGEN7GvZcKPrzr) | [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Constellation](https://open.spotify.com/album/4fWpzjHcfAJIU7Mbee9UVz) | 1:41 | 2020-06-19 | 2024-09-06 |
 | [Coquettish Definition](https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc), [Kazuhiko Maeda](https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ) | [Coquettish Definition](https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj) | 3:13 | 2024-07-04 |  |
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-07-04 |  |
 | [Cosmic Thoughts](https://open.spotify.com/track/4lSsjJQ7DPJkcnvLqiuRcs) | [Axian](https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6), [Alcynoos](https://open.spotify.com/artist/2rUcJCZNHIVPJ5iZUbnUkY) | [Cosmic Thoughts](https://open.spotify.com/album/0RIxRPbo7BrvTSfJlTFIXE) | 2:32 | 2019-05-26\* | 2019-06-15 |
@@ -513,6 +513,7 @@
 | [Undercurrent](https://open.spotify.com/track/7vg8AtIAyXzJK1fKKK8CZO) | [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Waywell](https://open.spotify.com/artist/00AJqMNUixOtYt9itiUDZj) | [Whitecaps](https://open.spotify.com/album/5wVxz4mhomoVmStrjnt4F0) | 2:07 | 2022-12-01 | 2024-04-19 |
 | [Up Above](https://open.spotify.com/track/3BqFQOk4Q6v3jyPb9QHMnI) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Up Above](https://open.spotify.com/album/5ZX23RGeCe2Flmss5Or3wG) | 2:34 | 2020-08-30 | 2021-10-29 |
 | [utatane](https://open.spotify.com/track/0tqoNuBVHZ0IG5B9rxeFi8) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [utatane](https://open.spotify.com/album/2OQ9WXPNJkksdtFqQhgqdl) | 3:12 | 2023-05-19 | 2023-11-03 |
+| [Utopia](https://open.spotify.com/track/5x7jyjtMoj6nbOlcDX1yzo) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [Utopia](https://open.spotify.com/album/56vHdvi4b7WEhDBbTY3eni) | 2:12 | 2024-09-06 |  |
 | [Verano](https://open.spotify.com/track/68eEbyrrYDI1SPbxfz84zw) | [Loop Schrauber](https://open.spotify.com/artist/03q0QEJ2aWKMa5NlOfQX32) | [Verano](https://open.spotify.com/album/7KpIEV7DObQhVHsvBgI3aX) | 1:50 | 2020-06-19 | 2021-10-29 |
 | [Viva la Vida](https://open.spotify.com/track/5evpVv0ztB0Fp9LM35bqZO) | [Savages](https://open.spotify.com/artist/4opwQe0g9rAbtbsAErAOdS) | [Life in the Wild Garden](https://open.spotify.com/album/7igj3j6IZ7YGUiHzbp7Rqb) | 1:35 | 2019-07-26 |  |
 | [Void](https://open.spotify.com/track/1tBS3K8IdJSF556lcdnMHj) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Void](https://open.spotify.com/album/5tWnUMtomZthQIgvjDLypc) | 1:25 | 2022-01-27 | 2022-07-28 |

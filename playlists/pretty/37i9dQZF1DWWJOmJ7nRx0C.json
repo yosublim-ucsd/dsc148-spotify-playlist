@@ -1,13 +1,29 @@
 {
   "description": "The rock songs you need to know. Turn it  \u2b06\ufe0f Cover: The Warning",
-  "num_followers": 932793,
+  "num_followers": 932768,
   "original_name": "VOLUME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAACWV3+w4anb3RqBrfLMJa8P",
+  "snapshot_id": "ZtpEbQAAAABvmNCd5H/v6Ls1XAJ7dX3U",
   "tracks": [
+    {
+      "added_at": "2024-09-05 23:53:17",
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {

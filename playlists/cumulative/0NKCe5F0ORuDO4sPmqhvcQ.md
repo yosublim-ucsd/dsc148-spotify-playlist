@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-629 songs - 1 day 11 hr 21 min
+630 songs - 1 day 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,6 +483,7 @@
 | [Seventh Heaven](https://open.spotify.com/track/7bHOJc5vJ7lflRDI7PeYuw) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Seventh Heaven](https://open.spotify.com/album/0GTJ8nMLARUakwU9OkSnl4) | 3:09 | 2022-11-19 | 2023-10-06 |
 | [Sever](https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw) | [bardz](https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk) | [The Allegory](https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4) | 3:01 | 2023-04-06 |  |
 | [Sexy Rave Boy](https://open.spotify.com/track/1m6iGcpFTtKTvsvukOL4Du) | [Miss Madeline](https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v) | [Sexy Rave Boy](https://open.spotify.com/album/3BH8U4Mht7RaoqeTY3GAyB) | 2:12 | 2022-07-13 | 2023-07-20 |
+| [Shapeshifter](https://open.spotify.com/track/7kOqzZoJ20ssyvx8LlKMbO) | [Lucky Yu](https://open.spotify.com/artist/7EVJloAqLSz0LiDi3308dL), [Lumi Jin](https://open.spotify.com/artist/2YpzKwWnFbUAJJzBvuA0R7) | [Shapeshifter](https://open.spotify.com/album/4I8VD4l96QtADrkwpuYgX0) | 2:56 | 2024-09-05 |  |
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-22 | 2023-06-23 |
 | [SHYPOP](https://open.spotify.com/track/7x3qP9JdpxFNLlg1WmUln1) | [ISOxo](https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [SHYPOP](https://open.spotify.com/album/3CeNB6QnidWmhzMdH0tyzG) | 3:28 | 2023-08-30 |  |
 | [Silent Water](https://open.spotify.com/track/7xV2E7ImOGtmunBMiCWdHM) | [Verdance](https://open.spotify.com/artist/5sjAHOtCFSgPvw8JoDX2Bi), [Sooski](https://open.spotify.com/artist/1GZJ0FyOSt0HTW5Zxxz78K) | [Unison](https://open.spotify.com/album/102nhWXRWFzwAKLqkVzMUX) | 4:18 | 2022-01-18 | 2022-02-05 |
@@ -619,7 +620,7 @@
 | [Wide Awake](https://open.spotify.com/track/0BJRJBpg3tnQ2KQRgjclec) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Mind Over Matter](https://open.spotify.com/album/7A6ctoMJhFjeQ0XBYDgTqX) | 3:15 | 2023-09-19 | 2023-10-06 |
 | [Wide Awake](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-29 | 2024-03-23 |
 | [Wide Awake \(feat\. Charlie Houston\) \- Devault Remix](https://open.spotify.com/track/0OXTIle1hA45EBBQJ0ktYG) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR), [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [Wide Awake \(Devault Remix\)](https://open.spotify.com/album/2qTLUHWEVu7AaNUpcrMkwr) | 4:33 | 2022-09-20 | 2023-10-06 |
-| [Wild One \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Wild One \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG) | 3:03 | 2024-08-06 |  |
+| [Wild One \- Jai Wolf Club Babu Remix](https://open.spotify.com/track/2PITIYqQKjiFMDDasXuYgd) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [Wild One \(Jai Wolf Club Babu Remix\)](https://open.spotify.com/album/32HMPGIwpx49uQr5dtt9KG) | 3:03 | 2024-08-06 | 2024-09-06 |
 | [Wish You Were Here](https://open.spotify.com/track/3E0vyXi0sg1Kegs7lGgjDc) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Wish You Were Here](https://open.spotify.com/album/3YlsIOcaWk0GUhmcb9RE6W) | 3:34 | 2023-11-04 | 2024-03-23 |
 | [With Or Without](https://open.spotify.com/track/00gAMKnttfhle0s8FYz7IM) | [Haywyre](https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k) | [With Or Without](https://open.spotify.com/album/4wGeavaJF8hxmfSIzdNywd) | 3:44 | 2024-03-30 | 2024-08-07 |
 | [With You](https://open.spotify.com/track/7xbO9ZKSXeos37wSnKPfSZ) | [QRTR](https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj), [artemis orion](https://open.spotify.com/artist/6xLeeQEqxKiq6mXCgvFKSg) | [infina ad nausea: the remixes \[miami rave pack\]](https://open.spotify.com/album/3AVo3rXPsQirTxXQKCHhmw) | 3:33 | 2022-04-18 |  |

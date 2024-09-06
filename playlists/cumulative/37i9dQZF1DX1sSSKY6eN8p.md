@@ -4,7 +4,7 @@
 
 > Music From "Monster Hunter Now"! 音楽で辿る「Monster Hunter Now」の世界! © 2023 Niantic\. Characters / Artwork/ Music © CAPCOM CO., LTD.
 
-63 songs - 2 hr 52 min
+64 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Coral Highlands: Small Monsters Abound](https://open.spotify.com/track/4KR1RTXcPMsaVtYlqDTeEG) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 2:06 | 2023-09-13 | 2024-04-19 |
 | [Dancer in the Coral Highlands](https://open.spotify.com/track/0zcszMVvCOU5bKJYYWWri0) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:17 | 2023-09-13 | 2024-04-19 |
 | [Dancer in the Coral Highlands : The Chase](https://open.spotify.com/track/5NBvYg24l3g2YfsJpgwR1w) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 1:45 | 2023-09-13 | 2024-04-19 |
+| [From Now!](https://open.spotify.com/track/0toZ2nIg2UPB7lnUBUC5cy) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [From Now!](https://open.spotify.com/album/0ZQ92Ej8z7S5K65dmOIoB9) | 2:55 | 2024-09-05 |  |
 | [Kamura's Song of Purification](https://open.spotify.com/track/1rSo2cFFBRiiQfL8ttbem5) | [Reo Uratani](https://open.spotify.com/artist/09RfEzNT81tvlqp2yvrZpA) | [MONSTER HUNTER RISE ORIGINAL SOUNDTRACK](https://open.spotify.com/album/0H4cXrYB3b8IDEFgTMNcAT) | 4:00 | 2023-09-13 | 2024-04-19 |
 | [Main Theme \- Stars At Our Backs](https://open.spotify.com/track/55j3FJUsQrDSECgJ2ogMev) | [TADAYOSHI MAKINO](https://open.spotify.com/artist/58RrZSfiTZiUgjNvWO7vCt) | [MONSTER HUNTER: WORLD ORIGINAL SOUNDTRACK](https://open.spotify.com/album/3QkEVIvIqgVfyHY0Lf8QRG) | 4:31 | 2023-09-13 | 2024-04-19 |
 | [Make It Out Alive](https://open.spotify.com/track/4WVJeRP6hjMMBkmWsV4TtF) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Make It Out Alive](https://open.spotify.com/album/6FRkntES0AkBOQu9AOHNeo) | 3:29 | 2023-09-13 |  |

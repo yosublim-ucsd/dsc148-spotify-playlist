@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-03",
-  "description": "New tunes from Ireland for your discovery. Cover: modernlove.",
+  "description": "New tunes from Ireland for your discovery. Cover: Bricknasty",
   "name": "A Breath of Fresh \u00c9ire",
   "tracks": [
     {
@@ -540,7 +540,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 174845,
       "name": "Boyfriend",
       "url": "https://open.spotify.com/track/7HQ1uP9ljzPXe6qgaOlFgc"
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 217354,
       "name": "bus (how i found joy in working with such kind eyes)",
       "url": "https://open.spotify.com/track/1j3BXo6lxVOnljN5P5JgSK"
@@ -740,7 +740,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 204381,
       "name": "Compliment Strike",
       "url": "https://open.spotify.com/track/37wsqKLHF0VeJpXH5V9BNV"
@@ -1562,7 +1562,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 221910,
       "name": "If This Isn't Love",
       "url": "https://open.spotify.com/track/5U6SrAMCXeHLH6YoLLWXgU"
@@ -1695,6 +1695,24 @@
     },
     {
       "album": {
+        "name": "It's Shaped You",
+        "url": "https://open.spotify.com/album/5mb0SOJTYjnveSqovBZJjB"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181013,
+      "name": "It's Shaped You",
+      "url": "https://open.spotify.com/track/3eImZvsLE6i54TDCMeXEpN"
+    },
+    {
+      "album": {
         "name": "Keep Up",
         "url": "https://open.spotify.com/album/4v4mgHdNHnGXZexZ48N788"
       },
@@ -1814,7 +1832,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187822,
       "name": "limerence",
       "url": "https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc"
@@ -1836,6 +1854,24 @@
       "duration_ms": 121840,
       "name": "little bird",
       "url": "https://open.spotify.com/track/2plfNLZWMndyls7Ts3CDab"
+    },
+    {
+      "album": {
+        "name": "Little White Chapel",
+        "url": "https://open.spotify.com/album/2K6ZIQk4tlIKQJOnKyrjY1"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243769,
+      "name": "Little White Chapel",
+      "url": "https://open.spotify.com/track/1j4Okp2EWef680zQg9SBvl"
     },
     {
       "album": {
@@ -2157,6 +2193,24 @@
     },
     {
       "album": {
+        "name": "mouthy",
+        "url": "https://open.spotify.com/album/1OMr8FjYQhhdt96kJhFVFd"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152694,
+      "name": "mouthy",
+      "url": "https://open.spotify.com/track/70aBphOfOhPka4WwhBvcQ4"
+    },
+    {
+      "album": {
         "name": "Music",
         "url": "https://open.spotify.com/album/15YyAiSJSwhmGJHFjYGLdU"
       },
@@ -2244,7 +2298,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 151456,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/5HGX1TpatpMpNH7X8Dnhjc"
@@ -2929,6 +2983,24 @@
     },
     {
       "album": {
+        "name": "Slump",
+        "url": "https://open.spotify.com/album/2uvlRxcm0CuLPUk7pd8HLL"
+      },
+      "artists": [
+        {
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127194,
+      "name": "Slump",
+      "url": "https://open.spotify.com/track/1WrlnvoJWr6ueaKt91GKOG"
+    },
+    {
+      "album": {
         "name": "Smoke & Mirrors",
         "url": "https://open.spotify.com/album/6jfwnYrApaynmrTVpiT1iq"
       },
@@ -2958,7 +3030,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 225265,
       "name": "Socks",
       "url": "https://open.spotify.com/track/69FRVk4lu4N60KiVvtTBb1"
@@ -2980,6 +3052,24 @@
       "duration_ms": 157605,
       "name": "SPEND SOME TIME",
       "url": "https://open.spotify.com/track/7k2hVVCfyQSX7LFquRFOjX"
+    },
+    {
+      "album": {
+        "name": "spring will come",
+        "url": "https://open.spotify.com/album/08gU4cgs5HdjAZvFINhRat"
+      },
+      "artists": [
+        {
+          "name": "Nessa McHugh",
+          "url": "https://open.spotify.com/artist/3ctqz5L44tn6Rx0kPHNct6"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "spring will come",
+      "url": "https://open.spotify.com/track/5E7N0nr63wL3A5lWwlMxHq"
     },
     {
       "album": {
@@ -3132,6 +3222,24 @@
       "duration_ms": 217761,
       "name": "Sundays Are Always Quiet",
       "url": "https://open.spotify.com/track/5ZRKBK7ZQ7QPoIXUHp1kp4"
+    },
+    {
+      "album": {
+        "name": "Supermum!",
+        "url": "https://open.spotify.com/album/04YstcjLsBBfbByvQBM78O"
+      },
+      "artists": [
+        {
+          "name": "Adore",
+          "url": "https://open.spotify.com/artist/4BwY0FjNdkoWef8kixy54M"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196700,
+      "name": "Supermum!",
+      "url": "https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG"
     },
     {
       "album": {
@@ -3536,6 +3644,28 @@
       "duration_ms": 180724,
       "name": "WE GOOD ?",
       "url": "https://open.spotify.com/track/7vqIJVpShC23VVNy1s4lJ4"
+    },
+    {
+      "album": {
+        "name": "WELL ENOUGH!",
+        "url": "https://open.spotify.com/album/5a2AjxUtgdtfWLhooKnF6q"
+      },
+      "artists": [
+        {
+          "name": "fiiVVVEE!",
+          "url": "https://open.spotify.com/artist/44yvXn4JmArldmKRaq6L6Q"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193970,
+      "name": "WELL ENOUGH!",
+      "url": "https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande in Italia \ud83d\udd25 Cover: Cosang",
+  "description": "La playlist urban pi\u00f9 grande in Italia \ud83d\udd25 Cover: Tony Boy",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 278802,
       "name": "1234 POSSE (feat. Faneto, Artie 5ive, Digital Astro, Niky Savage, Lito, Low-Red, Kid Yugi, RRARI DAL TACCO)",
       "url": "https://open.spotify.com/track/2zYzOaECWTf16Hdp4bc8Zu"
@@ -374,6 +374,36 @@
       "duration_ms": 122076,
       "name": "3SOME (feat. VillaBanks)",
       "url": "https://open.spotify.com/track/4wxkiwrHy5KhV5Ob1T8RHB"
+    },
+    {
+      "album": {
+        "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/1myCEAZlP8KQeTwNc3XVtb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        },
+        {
+          "name": "Sadturs",
+          "url": "https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU"
+        },
+        {
+          "name": "KIID",
+          "url": "https://open.spotify.com/artist/5oKFHzk5mSd5uJpod1D8aB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "64 BARRE IN FACCIA (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/1oBM9JTuD0wqfVQ8iuLjLQ"
     },
     {
       "album": {
@@ -696,7 +726,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147366,
       "name": "Al Limite (feat. Tony Boy)",
       "url": "https://open.spotify.com/track/20631sGIm2TRZ7LEVS1Wk5"
@@ -3605,6 +3635,28 @@
     },
     {
       "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195345,
+      "name": "Don't Cry No More (feat. Geolier)",
+      "url": "https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA"
+    },
+    {
+      "album": {
         "name": "L'AMORE",
         "url": "https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG"
       },
@@ -4442,7 +4494,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171678,
       "name": "First Day Out",
       "url": "https://open.spotify.com/track/3JXgSnBQCLWjnyx6XAF0R9"
@@ -4936,6 +4988,28 @@
       "duration_ms": 189287,
       "name": "Goal (feat. MadMan)",
       "url": "https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Kid Yugi",
+          "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206996,
+      "name": "Gotham (feat. Kid Yugi)",
+      "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"
     },
     {
       "album": {
@@ -7206,7 +7280,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188571,
       "name": "MAMACITA",
       "url": "https://open.spotify.com/track/3qxnil0JyAWGS3vWxJyXEi"
@@ -7254,6 +7328,24 @@
       "duration_ms": 231296,
       "name": "Mancanze Affettive (feat. Geolier)",
       "url": "https://open.spotify.com/track/3UWQoiOrlvHalgvyznur78"
+    },
+    {
+      "album": {
+        "name": "MANDANTE",
+        "url": "https://open.spotify.com/album/1UPiKW4EhmQNjP5XWSouhA"
+      },
+      "artists": [
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "MANDANTE",
+      "url": "https://open.spotify.com/track/3JeaSLuYbxFvjGqkS28kUn"
     },
     {
       "album": {
@@ -8097,6 +8189,36 @@
     },
     {
       "album": {
+        "name": "MYLOVE! (feat. Rose Villain, Ernia, SLF)",
+        "url": "https://open.spotify.com/album/3zpOgNyo7abKYBHnWOTC8g"
+      },
+      "artists": [
+        {
+          "name": "Sixpm",
+          "url": "https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx"
+        },
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        },
+        {
+          "name": "Ernia",
+          "url": "https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm"
+        },
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188130,
+      "name": "MYLOVE! (feat. Rose Villain, Ernia, SLF)",
+      "url": "https://open.spotify.com/track/2MkcmFyCYUkkEpx8lcrcJM"
+    },
+    {
+      "album": {
         "name": "N.47",
         "url": "https://open.spotify.com/album/6fUu9JsM3bqDrC6K9SFSlC"
       },
@@ -8320,7 +8442,7 @@
       ],
       "date_added": "2024-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147599,
       "name": "NO EX (feat. Paky)",
       "url": "https://open.spotify.com/track/3QPlXypNboN7q32K1IuQ9v"
@@ -8668,7 +8790,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 167999,
       "name": "Nun \u00e8 mai fernut",
       "url": "https://open.spotify.com/track/1mIs94EvwoD8zLCFQXrdHA"
@@ -9040,6 +9162,28 @@
       "duration_ms": 139714,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170328,
+      "name": "Paradise (feat. Tedua)",
+      "url": "https://open.spotify.com/track/3wQQPngZfwK3JP4hDf2KfU"
     },
     {
       "album": {
@@ -9882,6 +10026,28 @@
       "duration_ms": 160645,
       "name": "POLKA 3",
       "url": "https://open.spotify.com/track/2vAyFmd5LfkSCIHA8uuya1"
+    },
+    {
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
     },
     {
       "album": {
@@ -12916,7 +13082,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 189803,
       "name": "WIFEY (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
@@ -13018,7 +13184,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147199,
       "name": "ZITELLA",
       "url": "https://open.spotify.com/track/3cXaWGIX2oryZrOmBX7WB9"

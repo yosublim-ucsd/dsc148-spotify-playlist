@@ -577,6 +577,24 @@
     },
     {
       "album": {
+        "name": "100 GIGS",
+        "url": "https://open.spotify.com/album/5oT8PMXGWiPlhcl930fkII"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126356,
+      "name": "Circadian Rhythm",
+      "url": "https://open.spotify.com/track/1eroCliWpJrEu1V7VSObcO"
+    },
+    {
+      "album": {
         "name": "Heart Of The Heavenly Undeniable (HOTHU)",
         "url": "https://open.spotify.com/album/198JrQy13MkMT65kWGoo59"
       },
@@ -2816,7 +2834,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 187300,
       "name": "Ojuju",
       "url": "https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7"

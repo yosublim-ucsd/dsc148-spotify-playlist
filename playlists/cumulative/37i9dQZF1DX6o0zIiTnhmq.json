@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "Ganesh",
+        "url": "https://open.spotify.com/album/7Lz3EKOyxykUNf9Woixb8E"
+      },
+      "artists": [
+        {
+          "name": "Pandit Jasraj",
+          "url": "https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297692,
+      "name": "Beej Mantra",
+      "url": "https://open.spotify.com/track/3VNUYQmYbWMzOuaHN3wTJj"
+    },
+    {
+      "album": {
         "name": "Triveni: Durga, Lakshmi, Saraswati",
         "url": "https://open.spotify.com/album/5339WvUHRv9qRGG4G0pmQv"
       },
@@ -1279,6 +1297,32 @@
     },
     {
       "album": {
+        "name": "Om Maha Ganapataye Namaha - 108 Times",
+        "url": "https://open.spotify.com/album/4cywXI9R6vx64NvIByh9AE"
+      },
+      "artists": [
+        {
+          "name": "Arundhati Chowdhury",
+          "url": "https://open.spotify.com/artist/0PA4l7NRdQLiczQbDTfhZJ"
+        },
+        {
+          "name": "Hriddhi Chakraborty",
+          "url": "https://open.spotify.com/artist/4fDyg9wclrHKmjFNpse1gk"
+        },
+        {
+          "name": "Aviman Paul",
+          "url": "https://open.spotify.com/artist/6jrridHwDgmQ0Zd8Se8YQR"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1395200,
+      "name": "Om Maha Ganapataye Namaha - 108 Times",
+      "url": "https://open.spotify.com/track/601N1MaBovxBQCnPq0hF6H"
+    },
+    {
+      "album": {
         "name": "Yoga Music Collection \"Blissfull Mantras & Prayers\"",
         "url": "https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T"
       },
@@ -1638,7 +1682,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 774000,
       "name": "Rahu Mantra",
       "url": "https://open.spotify.com/track/25B8egbE1Q2ixRTnH5kVcB"
@@ -1656,7 +1700,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 176713,
       "name": "Ram Mantra",
       "url": "https://open.spotify.com/track/0IbaAc6gs5Cgyen3ukuKbv"

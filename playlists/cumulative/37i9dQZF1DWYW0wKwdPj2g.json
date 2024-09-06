@@ -1499,6 +1499,50 @@
     },
     {
       "album": {
+        "name": "Only You - Live",
+        "url": "https://open.spotify.com/album/45JvaXvxfvciQ8CA4HhNgG"
+      },
+      "artists": [
+        {
+          "name": "Dr TJ",
+          "url": "https://open.spotify.com/artist/1QtVmlYLcmOnMOQFZX0T7A"
+        },
+        {
+          "name": "IBKSings",
+          "url": "https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 570360,
+      "name": "Only You - Live",
+      "url": "https://open.spotify.com/track/5GaU7VE0s3s0swmNvfMDmt"
+    },
+    {
+      "album": {
+        "name": "Spirit Of Praise 10 (Live)",
+        "url": "https://open.spotify.com/album/2SgwP9PIXjtzEaGftxQQdv"
+      },
+      "artists": [
+        {
+          "name": "Spirit Of Praise",
+          "url": "https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa"
+        },
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 483948,
+      "name": "Otshepehile (Live)",
+      "url": "https://open.spotify.com/track/0KDDwVykcd6tqsIKBT7w9j"
+    },
+    {
+      "album": {
         "name": "Praise Medley (Live)",
         "url": "https://open.spotify.com/album/6YDEvsjgkutYte6aGDqKHJ"
       },
@@ -1916,6 +1960,28 @@
       "duration_ms": 396043,
       "name": "We Bless - Live",
       "url": "https://open.spotify.com/track/3XhrsoPWvEmVUlDecCPUuD"
+    },
+    {
+      "album": {
+        "name": "We Want More",
+        "url": "https://open.spotify.com/album/1AiXWLmThkIw2jF9e1RPWd"
+      },
+      "artists": [
+        {
+          "name": "Tony Richie",
+          "url": "https://open.spotify.com/artist/3rWOkbS2stonIeXCFKZ9wm"
+        },
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1023503,
+      "name": "We Want More",
+      "url": "https://open.spotify.com/track/5N9pjQ7A0Jb37wjAquMCYD"
     },
     {
       "album": {

@@ -5791,6 +5791,24 @@
     },
     {
       "album": {
+        "name": "INTO DEEP",
+        "url": "https://open.spotify.com/album/2ZXpS7xopeAG0okEqqtzpU"
+      },
+      "artists": [
+        {
+          "name": "NARISK",
+          "url": "https://open.spotify.com/artist/4maQ6S6tTUotbPZHaxvmxV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154074,
+      "name": "INTO DEEP",
+      "url": "https://open.spotify.com/track/1c6QKZ0z2TFQwQ7S5lzfjk"
+    },
+    {
+      "album": {
         "name": "IQ",
         "url": "https://open.spotify.com/album/0Yn3CPyencGnFUlj0VuMoF"
       },
@@ -7676,7 +7694,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 154520,
       "name": "Mifflin'",
       "url": "https://open.spotify.com/track/51J4SXEGP6b7EBVN9eVMxb"
@@ -8592,6 +8610,32 @@
       "duration_ms": 151646,
       "name": "naptime",
       "url": "https://open.spotify.com/track/0A3wdC4h8kdZRK7fqjdlJ5"
+    },
+    {
+      "album": {
+        "name": "Riverside Girl",
+        "url": "https://open.spotify.com/album/1ag6ULc7Pe4BAjGXGo7ji1"
+      },
+      "artists": [
+        {
+          "name": "DE DE MOUSE",
+          "url": "https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj"
+        },
+        {
+          "name": "Refeeld",
+          "url": "https://open.spotify.com/artist/04VwrPirvx6CXRzbEjofQP"
+        },
+        {
+          "name": "Lonely Girl",
+          "url": "https://open.spotify.com/artist/0oNkYl0JGIr9hFJHQlakdw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Naturally Lonely Girl",
+      "url": "https://open.spotify.com/track/187BDUUMtjvCDYufgZCopb"
     },
     {
       "album": {
@@ -12276,7 +12320,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 161000,
       "name": "SUNSHOWER",
       "url": "https://open.spotify.com/track/7pxmMC52tSut9LTW8LsqpC"

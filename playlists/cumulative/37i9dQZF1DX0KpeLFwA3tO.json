@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: The OBGMs",
+  "description": "The best new music from the wide world of punk. Cover: blink-182",
   "name": "All New Punk",
   "tracks": [
     {
@@ -2305,6 +2305,24 @@
     },
     {
       "album": {
+        "name": "Army",
+        "url": "https://open.spotify.com/album/1TSAkrsWaBByYUvbzM6Lo1"
+      },
+      "artists": [
+        {
+          "name": "LEW",
+          "url": "https://open.spotify.com/artist/74wwB8fuPfI5zliwuEy3IS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168605,
+      "name": "Army",
+      "url": "https://open.spotify.com/track/2iDHXVlRmTG5Yuo2Z6yYDT"
+    },
+    {
+      "album": {
         "name": "nulla.",
         "url": "https://open.spotify.com/album/2w0oUtRdOjhPPS30TcJi4X"
       },
@@ -2826,7 +2844,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 171120,
       "name": "bad habit",
       "url": "https://open.spotify.com/track/0NGriosAZzBZlRrdR0aHz7"
@@ -3212,7 +3230,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215908,
       "name": "believe the hype",
       "url": "https://open.spotify.com/track/4i5ImKbFYhoUCWp57AHgTD"
@@ -6244,7 +6262,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 238988,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/4PLoLTmD04MXXRQU9T8ar8"
@@ -6782,6 +6800,24 @@
       "duration_ms": 225550,
       "name": "Coca-Cobra",
       "url": "https://open.spotify.com/track/2NCEWkFbQzoSoX89j2TKzo"
+    },
+    {
+      "album": {
+        "name": "Cocaine Sunday",
+        "url": "https://open.spotify.com/album/47ioQMrDuY6bYVKbhSj0sP"
+      },
+      "artists": [
+        {
+          "name": "Chubby and the Gang",
+          "url": "https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181662,
+      "name": "Cocaine Sunday",
+      "url": "https://open.spotify.com/track/7El4JIUBD9tTihWjlFIKGo"
     },
     {
       "album": {
@@ -8244,7 +8280,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208604,
       "name": "DEAD AGAIN",
       "url": "https://open.spotify.com/track/1eDw0V97F5AR2E8BGCzIR0"
@@ -9355,6 +9391,24 @@
     },
     {
       "album": {
+        "name": "Do It Badly",
+        "url": "https://open.spotify.com/album/3uDNWh2JyT35weyuB7PYd9"
+      },
+      "artists": [
+        {
+          "name": "Thank",
+          "url": "https://open.spotify.com/artist/6ddEDDmrnWb8WDt1VEMhcC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192395,
+      "name": "Do It Badly",
+      "url": "https://open.spotify.com/track/7oNg2im6AdZ6N87dElHPj0"
+    },
+    {
+      "album": {
         "name": "Do It Faster",
         "url": "https://open.spotify.com/album/6jyBZs0lDqpuoeyFJ5LWhs"
       },
@@ -9410,6 +9464,24 @@
       "duration_ms": 170571,
       "name": "Do Or Die",
       "url": "https://open.spotify.com/track/49iTK9So8pHaCmVT9Pf1Q3"
+    },
+    {
+      "album": {
+        "name": "DOG HOUSE",
+        "url": "https://open.spotify.com/album/3rQtGY9swdqTHrRor7uosQ"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193933,
+      "name": "DOG HOUSE",
+      "url": "https://open.spotify.com/track/1lqhub0atP7FkT5JA2NFkP"
     },
     {
       "album": {
@@ -10190,7 +10262,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 211853,
       "name": "Earthling",
       "url": "https://open.spotify.com/track/5scSMxJz1jQfgJDPVGgZ8l"
@@ -10522,7 +10594,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 162182,
       "name": "Enmore",
       "url": "https://open.spotify.com/track/2EKuvzu6No8dBqJDXUS8b2"
@@ -15744,7 +15816,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 91730,
       "name": "i hate people",
       "url": "https://open.spotify.com/track/0WyPJNy0BvwOynaFgwxNZl"
@@ -16995,6 +17067,24 @@
     },
     {
       "album": {
+        "name": "Is It Better?",
+        "url": "https://open.spotify.com/album/0mxgKZZtziz6rHTZBJREz9"
+      },
+      "artists": [
+        {
+          "name": "Crows",
+          "url": "https://open.spotify.com/artist/5LFuHlM7fW3xnIyBsDrGfn"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234653,
+      "name": "Is It Better?",
+      "url": "https://open.spotify.com/track/435lBHmsgFWTNLZm1Pd9Qz"
+    },
+    {
+      "album": {
         "name": "Double Album",
         "url": "https://open.spotify.com/album/4mJ4PBk5yHl3xuyHkly85n"
       },
@@ -17370,7 +17460,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 238105,
       "name": "Jaw Locked",
       "url": "https://open.spotify.com/track/4O9ElEiw7JuYp8XILugzoX"
@@ -19810,7 +19900,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 159414,
       "name": "Love & Co",
       "url": "https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q"
@@ -22592,7 +22682,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172949,
       "name": "NO LOVE BUT FOR OUR OWN",
       "url": "https://open.spotify.com/track/5QQxKrrFJP9qBshsfUSFz8"
@@ -23238,7 +23328,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 134588,
       "name": "Number One Priority",
       "url": "https://open.spotify.com/track/3oz24Qjaq304RpvDBqOPy8"
@@ -24757,6 +24847,24 @@
     },
     {
       "album": {
+        "name": "PET WITH THE TISM",
+        "url": "https://open.spotify.com/album/6Al5pUbSlNO6YW6L2iYFcB"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163418,
+      "name": "PET WITH THE TISM",
+      "url": "https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a"
+    },
+    {
+      "album": {
         "name": "Petty Enemy",
         "url": "https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f"
       },
@@ -25256,7 +25364,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 179775,
       "name": "Power",
       "url": "https://open.spotify.com/track/0sg8OUgbxnOqBJ0ZFFTDxr"
@@ -25436,7 +25544,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
@@ -25538,7 +25646,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 205714,
       "name": "Prokrastination",
       "url": "https://open.spotify.com/track/08FduHtGjy4e0mnnljLb36"
@@ -26068,6 +26176,24 @@
       "duration_ms": 215360,
       "name": "Rat Race",
       "url": "https://open.spotify.com/track/4nfqM6p3jcMF8ZLq91kywq"
+    },
+    {
+      "album": {
+        "name": "Give An Inch",
+        "url": "https://open.spotify.com/album/0X6XH2OQMWjz8MrSk1bk29"
+      },
+      "artists": [
+        {
+          "name": "Laura Jane Grace",
+          "url": "https://open.spotify.com/artist/4yfPiAauSgUfyc4k4WtwM9"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143466,
+      "name": "RazorBlade Blues",
+      "url": "https://open.spotify.com/track/0u1MmSq9ZjRQZ6KDsXkj2R"
     },
     {
       "album": {
@@ -29130,7 +29256,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 167826,
       "name": "skin & bones",
       "url": "https://open.spotify.com/track/18ATc6FHfzupXJXTyrZ0So"
@@ -30224,7 +30350,7 @@
       ],
       "date_added": "2024-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 200215,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/7eBvIvbcUHJqra750YuQpg"
@@ -30772,7 +30898,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172478,
       "name": "Stupefied",
       "url": "https://open.spotify.com/track/1Z9sCohQaZWYB8XzPMYMlp"
@@ -31386,6 +31512,24 @@
       "duration_ms": 238972,
       "name": "Take Back Your Voice",
       "url": "https://open.spotify.com/track/7BLCCHWAOIhOawOYwCkuI0"
+    },
+    {
+      "album": {
+        "name": "ONE MORE TIME... PART-2",
+        "url": "https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219389,
+      "name": "TAKE ME IN",
+      "url": "https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP"
     },
     {
       "album": {
@@ -32472,7 +32616,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156173,
       "name": "The Fear",
       "url": "https://open.spotify.com/track/5WyC1bUUXB3kfZQGRcK5TP"
@@ -36322,7 +36466,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 127942,
       "name": "Where Did I Go?",
       "url": "https://open.spotify.com/track/1OWftpO1HUTtwcSCE7DqRg"

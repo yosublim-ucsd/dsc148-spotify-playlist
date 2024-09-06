@@ -2,9 +2,9 @@
 
 ### [Indie Italia](https://open.spotify.com/playlist/37i9dQZF1DX6PSDDh80gxI)
 
-> Il meglio dell’indie italiano! Cover: Vasco Brondi, ARIETE
+> Il meglio dell’indie italiano! Cover: dile
 
-78 songs - 3 hr 59 min
+80 songs - 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Baby](https://open.spotify.com/track/3KdVOtOTorrC4RBf97lEC6) | [Giuse The Lizia](https://open.spotify.com/artist/5RUZs42sw44u16SpQQvubK) | [Baby](https://open.spotify.com/album/6XWvYgchyQJlPF2l3LFG75) | 3:13 | 2024-06-27 |  |
 | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/track/7KHgdxfF2D4bEz4HIEMlwM) | [Willie Peyote](https://open.spotify.com/artist/00CsjN69YCczmdW0bDKaCC), [PUGNI](https://open.spotify.com/artist/1LfDpyJZOMLA5B6o140mqa), [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T) | [Bloody Mary \(feat\. PUGNI & Fudasca\)](https://open.spotify.com/album/7AP0omdqa2pImzJRVrYq1K) | 2:41 | 2024-07-04 |  |
 | [Cani](https://open.spotify.com/track/2KlPQBWknO39KnCns0GoKg) | [Tamango](https://open.spotify.com/artist/79JhRQjYrn1UA8GY3SWVwI) | [Cani](https://open.spotify.com/album/0pkNsZwZf0jqtTERh14y0C) | 3:34 | 2024-06-27 |  |
+| [Carnevale](https://open.spotify.com/track/3MMF2zfkCej8jAjWxS87tY) | [dile](https://open.spotify.com/artist/0dT9auvD1fYqJgta100xHK) | [Carnevale](https://open.spotify.com/album/2xlTIUyWTbi7LYa1PHqrit) | 2:36 | 2024-09-05 |  |
 | [Che colpa ne ho](https://open.spotify.com/track/1oEwa9Mo4Oxka9OSm6NxTO) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Lovebars](https://open.spotify.com/album/37uJcI0dW70M5Hbg1WearN) | 2:44 | 2024-06-27 |  |
 | [Colleghi borghesi](https://open.spotify.com/track/0m1hqYWkAfGvkfOWCRPOvL) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Colleghi borghesi](https://open.spotify.com/album/4v3Gt0SRVsGEPi4q0jJKib) | 2:30 | 2024-08-08 |  |
 | [Come no](https://open.spotify.com/track/10H2O7Rg5GdMjDXVcuxHXP) | [Fast Animals and Slow Kids](https://open.spotify.com/artist/2n92OcdDhE5g2CpDI1rjH6) | [Come no](https://open.spotify.com/album/2PjLX5cv86MOlpx7pI56gX) | 2:33 | 2024-06-27 |  |
@@ -46,7 +47,7 @@
 | [Los Angeles](https://open.spotify.com/track/1FAM18Z4mFvKwYxketR1OT) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Los Angeles](https://open.spotify.com/album/7GysRxTAg4WPtrOwzbGPJe) | 3:25 | 2024-08-01 |  |
 | [MALAVITA](https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [MALAVITA](https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE) | 2:46 | 2024-06-27 |  |
 | [Mambo](https://open.spotify.com/track/1Eslj0XCaVpzPbYBmaol7T) | [Tatum Rush](https://open.spotify.com/artist/47p2js8l70JjDWGS0a1hqr) | [Mambo](https://open.spotify.com/album/4Rf1gy3dHPSQNFhanMHtjp) | 4:05 | 2024-07-04 | 2024-08-16 |
-| [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 |  |
+| [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/track/0wRVfbqHnpNXgTLRLmmrJ9) | [Folcast](https://open.spotify.com/artist/1PWmqY7ed9o6dgpAYYWZmS), [Carlo Amleto](https://open.spotify.com/artist/0RoPAqbX6Dzbr81tQZB6E5) | [Manifesto Egoista \(feat\. Carlo Amleto\)](https://open.spotify.com/album/37TzRpbavzizY6wHoXwSBp) | 2:53 | 2024-07-25 | 2024-09-06 |
 | [Meccanismi \(con ARIETE\)](https://open.spotify.com/track/0OsDT1w0mIncDDnaCcM7EO) | [Vasco Brondi](https://open.spotify.com/artist/6SZXiHJt5lhwBQ4OVTGC6S), [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [Un segno di vita](https://open.spotify.com/album/4l3sjzLqWDUJfZegBkCPqm) | 3:20 | 2024-08-22 |  |
 | [MENTRE IL MONDO ESPLODE ༊࿔ \(con Marco Castello, Ele A\)](https://open.spotify.com/track/0GcTjbsHYkOGHBMafWucAd) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [Marco Castello](https://open.spotify.com/artist/0ErDKYNv448COBCNdnqYIm), [Ele A](https://open.spotify.com/artist/2p8QkcgkfvIcUTpudqcqRM) | [MĀYĀ](https://open.spotify.com/album/4ZiKOxhnDrMo4RlD5WHxKg) | 4:17 | 2024-06-27 |  |
 | [Mezzo secondo](https://open.spotify.com/track/7frFMgNLiLH2udrlWLbbfA) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Mezzo secondo](https://open.spotify.com/album/0X7Cr7xdDJigfJti8X0j49) | 3:26 | 2024-06-27 |  |
@@ -55,7 +56,7 @@
 | [Nightmares](https://open.spotify.com/track/6SiJ1o6148rcmF2BydC1LW) | [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Nightmares](https://open.spotify.com/album/4sSMvLcF71IS3RfB4yP0PN) | 3:21 | 2024-06-27 |  |
 | [Non ci penso](https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Panorama Olivia](https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t) | 2:40 | 2024-06-27 |  |
 | [notte vodka](https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN) | [centomilacarie](https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa) | [notte vodka](https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL) | 2:25 | 2024-06-27 | 2024-08-23 |
-| [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 |  |
+| [Occhi Blu](https://open.spotify.com/track/324rbmmKBqubCFX3PCY2xf) | [Angelica](https://open.spotify.com/artist/3aFnXkfp5Z2Ac9DLorgJ4S) | [Occhi Blu](https://open.spotify.com/album/5cdWqN1USAxqaenqenOs65) | 3:04 | 2024-06-27 | 2024-09-06 |
 | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/track/1NZsIGqB8N4BgRtBcRP1WT) | [Mameli](https://open.spotify.com/artist/3f4nC1CZ1OBwqgVy8zSwmu) | [OKAY OKAY \(S1 E2\)](https://open.spotify.com/album/52Nws4hSiY3CoOvkKdBARm) | 2:55 | 2024-06-27 | 2024-07-12 |
 | [OSSA ROTTE](https://open.spotify.com/track/185Ya9DGLbTlaoaost47gS) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [OSSA ROTTE](https://open.spotify.com/album/1BmGvg7lKEa0G5JEwQbBZ9) | 2:53 | 2024-06-27 |  |
 | [Penso Penso Penso](https://open.spotify.com/track/0Yx37LRuzSAWq3pfkWAh68) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [ROCCASECCA](https://open.spotify.com/album/3m5LwAf3fBdc9THwhe0rj7) | 2:37 | 2024-07-11 |  |
@@ -65,6 +66,7 @@
 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 | 2024-08-29 |  |
 | [PREFERIREI](https://open.spotify.com/track/4nysRMbEV59xna3xREH6i1) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [44.SUMMER](https://open.spotify.com/album/2V4SfyMweLXd05gFOmud76) | 3:22 | 2024-06-27 |  |
 | [Puoi](https://open.spotify.com/track/7woxXKezUmdjGuHtR75nCT) | [Fulminacci](https://open.spotify.com/artist/1QeqGmpgU5Yg74GNcjIIq3), [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Infinito +1](https://open.spotify.com/album/0n7dd40ERs4ucG5KarwZxM) | 2:46 | 2024-06-27 |  |
+| [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 | 2024-09-05 |  |
 | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/track/0RIfczN0zU09Jl1ZzsUS2Y) | [MACE](https://open.spotify.com/artist/7gjqZ8coFZimZDtdk04WP1), [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [RUGGINE ⚮ \(con chiello & Coez\)](https://open.spotify.com/album/5qmAywH16FCK4UjPk1pnVD) | 3:17 | 2024-06-27 |  |
 | [SALSEDINE](https://open.spotify.com/track/56QYGxN6SsLcSzcScamrCv) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [Gorbaciof](https://open.spotify.com/artist/2JK4RoZDzgsvY0bCEidDjF) | [SALSEDINE](https://open.spotify.com/album/7Ja1YAam0nHvWF6beAof7C) | 2:09 | 2024-06-27 | 2024-08-16 |
 | [Sesso e architettura](https://open.spotify.com/track/5nzQR6J5MGFe3eabdkZZL5) | [Colapesce](https://open.spotify.com/artist/2KX2VLr3Eu6sn6EtxzCtvf), [Dimartino](https://open.spotify.com/artist/1k3zqz5SgrYCE0wpcfJX3g) | [Lux Eterna Beach](https://open.spotify.com/album/6z4lt8x3kYu8W3vlOLVrGP) | 3:30 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > A sonic wonderland of mesmerizing tunes...
 
-387 songs - 1 day 0 hr 44 min
+388 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Encaix](https://open.spotify.com/track/7jkZx2Ye8l2zONmWv9RQw6) | [Renaldo & Clara](https://open.spotify.com/artist/29eGrPvxOuFDGOyOUi3RLq) | [La boca aigua](https://open.spotify.com/album/4O89ZOWZTSBnHErFVYGWPI) | 1:59 | 2024-01-03 | 2024-02-11 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-02-26 | 2024-04-19 |
 | [Enough](https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 5:22 | 2023-05-09 | 2023-06-15 |
+| [Estarán aparcando](https://open.spotify.com/track/724m1RAzF7MNZZqUItsxNA) | [Espanto](https://open.spotify.com/artist/4m2iq2WEoxSFvOZd130HIQ) | [Estarán aparcando](https://open.spotify.com/album/7slQ5xCSunBMC8XocKj3nQ) | 2:20 | 2024-09-05 |  |
 | [Estrés](https://open.spotify.com/track/3LuEubnZA02nAjYPZYOKMW) | [La Texana](https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB) | [Morro](https://open.spotify.com/album/2bGPirzXyUp4MrYozkRDeE) | 2:44 | 2023-03-16 | 2023-05-24 |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-23 | 2023-04-14 |
 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 | 2024-03-11 | 2024-03-23 |
@@ -201,7 +202,7 @@
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 | 2024-07-30 |
 | [Love from the Other Side](https://open.spotify.com/track/49uLH3xvQLd4I4pCQacGH8) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Love from the Other Side](https://open.spotify.com/album/7Fbph706oR8vaTPcYYvp9n) | 4:09 | 2024-05-03 | 2024-06-22 |
 | [Love in Constant Spectacle](https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3) | [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [Love in Constant Spectacle](https://open.spotify.com/album/7JQueQibvRMgQ6gHRpUOpd) | 4:17 | 2024-04-15 | 2024-06-01 |
-| [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 | 2024-06-26 |  |
+| [Love Potion](https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Love Potion](https://open.spotify.com/album/04LlcT4cTidlpzQc3rHxOH) | 2:46 | 2024-06-26 | 2024-09-06 |
 | [Love You Anyway](https://open.spotify.com/track/3vxvz0JoRDvnx2jG9oPljA) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:57 | 2024-08-21 |  |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-11 | 2024-07-30 |
 | [Luces \(Remix\)](https://open.spotify.com/track/6qR4XWoqRIZFmrnHwGlQW4) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Renato del Real](https://open.spotify.com/artist/5js8GdUIAckJjkMEur6dw6) | [Luces \(Remix\)](https://open.spotify.com/album/6rySQJGYP8imuRNPGg7UC2) | 3:19 | 2023-06-27 | 2023-11-14 |

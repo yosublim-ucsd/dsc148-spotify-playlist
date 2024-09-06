@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,391 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,394 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 103 | [Romantisme](https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ) | [Élégie](https://open.spotify.com/artist/2NPtkCfs31agTgNvldypV0) | [Romantisme](https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4) | 3:53 |
 | 104 | [J'pourrais pas vivre avec toi](https://open.spotify.com/track/7avXxd2QUIQvMdD5NKD1e7) | [Les Breastfeeders](https://open.spotify.com/artist/37x62KkbU6JaY7W8mHHw4i) | [Déjeuner sur l'herbe](https://open.spotify.com/album/7BiBdilBbtHb860TLdo6d4) | 3:12 |
 | 105 | [Bisous](https://open.spotify.com/track/1ceBIstPnCycyYsMpVwVUF) | [Douance](https://open.spotify.com/artist/1YLRMf5LBTYn5mAKmKkHUq) | [Monstre](https://open.spotify.com/album/5bCt5WDkmXofNiUcguDSu0) | 3:04 |
-| 106 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
-| 107 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
+| 106 | [un grand plat de riz](https://open.spotify.com/track/7cdfQb6ekMLykA2Av1xIZg) | [Témé Tan](https://open.spotify.com/artist/257G4gJ7XVp8Ec8TrjGyMW) | [Quand il est seul](https://open.spotify.com/album/7LnW6iz8kqZvVPhQw67ZxK) | 3:27 |
+| 107 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 108 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 109 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
 | 110 | [J'en raffole](https://open.spotify.com/track/3Gs8MG6EVQTfqTs1fw4A8d) | [Kelzk](https://open.spotify.com/artist/5KwQXiLnoAoMPNKsVfOxLz), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [J'en raffole](https://open.spotify.com/album/0v7UTiuZ76VyAJaAuCiYJa) | 3:45 |

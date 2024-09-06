@@ -6731,6 +6731,24 @@
     },
     {
       "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
         "name": "SZNZ: Spring",
         "url": "https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6"
       },
@@ -7986,6 +8004,24 @@
       "duration_ms": 248985,
       "name": "You Oughta Know",
       "url": "https://open.spotify.com/track/5XfmXD9W5jClWQ1QtiXHsz"
+    },
+    {
+      "album": {
+        "name": "\u00a73",
+        "url": "https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "\u00a73",
+      "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"
     }
   ],
   "url": "https://open.spotify.com/playlist/4hQEzUCJ0DCAgeDhWLUZhS"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOtfogi6YRI.md) - [plain]
 
 > Nieoczywiste aktualne brzmienia polskiego rapu\. Cover: Marceli Bober
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,651 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,654 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

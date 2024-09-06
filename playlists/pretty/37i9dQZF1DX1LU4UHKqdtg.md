@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1LU4UHKqdtg.md) - [plain]
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: ATEEZ + BE:FIRST
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,015 likes - 79 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,034 likes - 79 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

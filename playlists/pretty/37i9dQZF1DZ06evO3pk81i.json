@@ -1,12 +1,12 @@
 {
   "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 5863,
+  "num_followers": 5877,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAAA/pa921mB3776qux61mwWy",
+  "snapshot_id": "ZtejAAAAAAA2bTy43Hl/ZCZUcQV5TNIC",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo",
-        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
+        "name": "Ferragamo",
+        "url": "https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb"
       },
       "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Ven Conmigo",
-      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+      "duration_ms": 142880,
+      "name": "Ferragamo",
+      "url": "https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ferragamo",
-        "url": "https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb"
+        "name": "Ven Conmigo",
+        "url": "https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo"
       },
       "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        },
         {
           "name": "Los Primos del Este",
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 142880,
-      "name": "Ferragamo",
-      "url": "https://open.spotify.com/track/3IiUcK7YkrBIxAqzspIFUs"
+      "duration_ms": 202197,
+      "name": "Ven Conmigo",
+      "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Hande Yener",
+  "description": "T\u00fcrkiye'nin en b\u00fcy\u00fck pop listesi. Kapak: Soner Sar\u0131kabaday\u0131",
   "name": "T\u00fcrk\u00e7e Pop",
   "tracks": [
     {
@@ -38,6 +38,32 @@
       "duration_ms": 220500,
       "name": "Aferin Bana",
       "url": "https://open.spotify.com/track/1PTAhnedy6E7RUB6kAlxsE"
+    },
+    {
+      "album": {
+        "name": "An\u0131lara Dalar\u0131z",
+        "url": "https://open.spotify.com/album/4LXEyR5YIqDAhA1sB7y4QP"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        },
+        {
+          "name": "Kurtulu\u015f Ku\u015f",
+          "url": "https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq"
+        },
+        {
+          "name": "Ebru Ya\u015far",
+          "url": "https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150681,
+      "name": "An\u0131lara Dalar\u0131z",
+      "url": "https://open.spotify.com/track/0Rjq84ntnHd3olOXHPacVr"
     },
     {
       "album": {
@@ -698,7 +724,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 151888,
       "name": "Ho\u015funa Gidiyo",
       "url": "https://open.spotify.com/track/29IrCyfdn18grnSQ3ynguE"
@@ -774,7 +800,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 166772,
       "name": "Kafam \u0130yi Esiyor",
       "url": "https://open.spotify.com/track/4l6L2WoQ8wy4CGpzhimwpp"
@@ -840,6 +866,24 @@
       "duration_ms": 187930,
       "name": "Kar\u0131\u015ft\u0131r\u0131cam O Uykular\u0131n\u0131",
       "url": "https://open.spotify.com/track/7uUtowgQK3CVBN4BFvWRJp"
+    },
+    {
+      "album": {
+        "name": "Ka\u00e7ak G\u00f6\u00e7ek",
+        "url": "https://open.spotify.com/album/5ckK7xIaAG6ZYxxdS6Emi5"
+      },
+      "artists": [
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223125,
+      "name": "Ka\u00e7ak G\u00f6\u00e7ek",
+      "url": "https://open.spotify.com/track/4y0kg2hqDbEG04NevUqNPF"
     },
     {
       "album": {
@@ -1158,7 +1202,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 199081,
       "name": "Senden Hat\u0131ra",
       "url": "https://open.spotify.com/track/2i7XLrmbkbhIFbGwBMw2ec"
@@ -1304,6 +1348,28 @@
       "duration_ms": 145500,
       "name": "Uslanmaz",
       "url": "https://open.spotify.com/track/7BD5turxXQlcm72SCYkHQG"
+    },
+    {
+      "album": {
+        "name": "Yaban \u00c7i\u00e7e\u011fim",
+        "url": "https://open.spotify.com/album/3XlCLUB5N1pxPq7AgnGkCW"
+      },
+      "artists": [
+        {
+          "name": "Mavi Gri",
+          "url": "https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme"
+        },
+        {
+          "name": "Serkan T\u0131nmaz",
+          "url": "https://open.spotify.com/artist/4G9rX9BsjllB6a5s9uCiEC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163353,
+      "name": "Yaban \u00c7i\u00e7e\u011fim",
+      "url": "https://open.spotify.com/track/13R7NdClDXi78isqTa5rGz"
     },
     {
       "album": {

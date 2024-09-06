@@ -2,7 +2,7 @@
 
 ### [This Is El Potro De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0iB3OE)
 
-> This is El Potro De Sinaloa\. The essential tracks, all in one playlist.
+> This Is El Potro De Sinaloa\. Los temas esenciales, todos en una lista.
 
 98 songs - 6 hr 21 min
 
@@ -68,11 +68,11 @@
 | [Hombre Nuevo \(feat\. El Potro de Sinaloa\)](https://open.spotify.com/track/2djzhLXnVA9bcq010J5SXh) | [Tomas Hernandez](https://open.spotify.com/artist/1xYRTB4bJqGh639domz2BS), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Hombre Nuevo](https://open.spotify.com/album/7gmjWu4fTRRdcEFvUCesrA) | 3:08 | 2023-02-13 | 2024-06-21 |
 | [Julio Beltran \- En Vivo](https://open.spotify.com/track/3qoBcxY8TgV2Xmmqo5TxxP) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF) | [Pa' Destapar La Hielera \(En Vivo\)](https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH) | 3:23 | 2022-06-01 |  |
 | [La Cama de Piedra](https://open.spotify.com/track/2ecwjiEoyqrj8BsVUZAxaL) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:48 | 2022-06-01 |  |
-| [La Cama de Piedra \(En Vivo\)](https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Cama de Piedra \(En Vivo\)](https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf) | 3:20 | 2022-09-08 | 2023-12-14 |
+| [La Cama de Piedra \(En Vivo\)](https://open.spotify.com/track/1ptgCreLni4KWGJxPSlrAK) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Cama de Piedra \(En Vivo\)](https://open.spotify.com/album/6HA6a9Hwdh4eoOrpfP7vIf) | 3:20 | 2022-09-08 |  |
 | [La Captura Del Zar](https://open.spotify.com/track/4UzgvxcaLDMM6iujVVHb3m) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Los Mejores Corridos](https://open.spotify.com/album/5YWwvn9cfWBwpgbX1AC8SY) | 3:06 | 2022-06-15 |  |
 | [La Captura Del Zar \(En Vivo\)](https://open.spotify.com/track/09W3AqptHUREeMyfu7OihD) | [Grupo Principal](https://open.spotify.com/artist/4vOJ8YryffZVAR1NgPQPd1), [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [En Vivo](https://open.spotify.com/album/4ljrMwbwty2xHLrr7MoKV4) | 3:41 | 2022-12-16 | 2023-02-18 |
 | [La Carrucha](https://open.spotify.com/track/55mqlCzGFS1szEKuaxL8mI) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [Cargamento Del Diablo](https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF) | 3:30 | 2022-06-01 |  |
-| [La Chica Mas Hermosa](https://open.spotify.com/track/3sCnNdNzxXQPZ6la2klyL5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 3:24 | 2024-08-31 |  |
+| [La Chica Mas Hermosa](https://open.spotify.com/track/3sCnNdNzxXQPZ6la2klyL5) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Sinaloense](https://open.spotify.com/artist/2YJ9Y1IAQwEAHag5FABbLq) | [Dejame](https://open.spotify.com/album/1keRzmYxCAym4kPeyTiSYn) | 3:24 | 2024-08-31 | 2024-09-06 |
 | [La Clave 7 \- En Vivo](https://open.spotify.com/track/2Lre4ZEa0TEPR45lO42T0g) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:36 | 2022-06-01 |  |
 | [La Compra y Venta](https://open.spotify.com/track/5uPapq4kYFFP7V1oa5XW4P) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [El Comandante Fuentes](https://open.spotify.com/album/3Mq3ONbbA7ymMDXXrkDdhn) | 2:20 | 2022-06-01 |  |
 | [La Muerte de Julio Beltrán \- En Vivo](https://open.spotify.com/track/6QAcUKAd5DB9U2pstWuSiH) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN), [Banda Los Pioneros](https://open.spotify.com/artist/37ZuUPO4BOQP6EHO1thcni) | [En Vivo Con Banda](https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94) | 3:47 | 2022-06-01 |  |

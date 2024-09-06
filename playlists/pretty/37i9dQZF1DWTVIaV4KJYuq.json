@@ -1,6 +1,6 @@
 {
   "description": "All the classic songs you love\u2014covered. Cover: Brandi Carlile",
-  "num_followers": 688844,
+  "num_followers": 688932,
   "original_name": "Classic Covers",
   "owner": {
     "name": "Spotify",
@@ -1843,18 +1843,22 @@
     {
       "added_at": "2024-09-03 14:49:22",
       "album": {
-        "name": "Here Comes the Sun",
-        "url": "https://open.spotify.com/album/42TfoBfETVrKwCXZ9nBkTc"
+        "name": "It's Only Rock 'N' Roll (But I Like It)",
+        "url": "https://open.spotify.com/album/6g7AqmtgaMi9JCV7HbJNbS"
       },
       "artists": [
         {
-          "name": "Imaginary Future",
-          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        },
+        {
+          "name": "The War And Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
         }
       ],
-      "duration_ms": 141653,
-      "name": "Here Comes the Sun",
-      "url": "https://open.spotify.com/track/4h9DsTf9n0cizUc0x3ljHP"
+      "duration_ms": 322346,
+      "name": "It's Only Rock 'N' Roll (But I Like It)",
+      "url": "https://open.spotify.com/track/0aSiH0zALY5KFZNSvbJePh"
     }
   ],
   "unique_name": "Classic Covers",

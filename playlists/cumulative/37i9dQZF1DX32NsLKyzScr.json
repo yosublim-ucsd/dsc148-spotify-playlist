@@ -11375,7 +11375,7 @@
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 249560,
+      "duration_ms": 249573,
       "name": "Lately",
       "url": "https://open.spotify.com/track/6nqBOGRwYdwOOHTie3fx1K"
     },
@@ -13593,7 +13593,7 @@
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 236098,
+      "duration_ms": 236080,
       "name": "Music is Better",
       "url": "https://open.spotify.com/track/2OnSedqUAqhCLZhCR4gjMw"
     },
@@ -21702,6 +21702,10 @@
         {
           "name": "Lost Frequencies",
           "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bonn",
+          "url": "https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2"
         }
       ],
       "date_added": "2023-06-30",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Jaivas. The essential tracks, all in one playlist.",
-  "num_followers": 33396,
+  "description": "This Is Los Jaivas. Los temas esenciales, todos en una lista.",
+  "num_followers": 33399,
   "original_name": "This Is Los Jaivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtZRgAAAAACMzRnzN5JyAvYnyLxmPcsn",
+  "snapshot_id": "ZtejAAAAAAA6RBEs652peh8YwkCszcaQ",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Obras de Violeta Parra",
+        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
       },
       "artists": [
         {
@@ -332,9 +332,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 181573,
-      "name": "Huairuro",
-      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
+      "duration_ms": 306026,
+      "name": "Violeta Ausente",
+      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
     },
     {
       "added_at": null,
@@ -355,8 +355,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obras de Violeta Parra",
-        "url": "https://open.spotify.com/album/43qNP9glyw0BYdXMbMVgfD"
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 306026,
-      "name": "Violeta Ausente",
-      "url": "https://open.spotify.com/track/2QrqeZRrMHhj8POCWHDYyQ"
+      "duration_ms": 181573,
+      "name": "Huairuro",
+      "url": "https://open.spotify.com/track/3wbeSi0qMixFGzb1LSFYHg"
     },
     {
       "added_at": null,
@@ -387,18 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aconcagua",
-        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
       },
       "artists": [
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Illapu",
+          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Debajo de las Higueras",
-      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
+      "duration_ms": 304933,
+      "name": "La Centinela (Versi\u00f3n 1997)",
+      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
     },
     {
       "added_at": null,
@@ -419,22 +423,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+        "name": "Aconcagua",
+        "url": "https://open.spotify.com/album/2nesLZnLC7VtjNn9szbyDY"
       },
       "artists": [
         {
           "name": "Los Jaivas",
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Illapu",
-          "url": "https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx"
         }
       ],
-      "duration_ms": 304933,
-      "name": "La Centinela (Versi\u00f3n 1997)",
-      "url": "https://open.spotify.com/track/20S5GtOi4DT7suYJ3ifd3F"
+      "duration_ms": 209800,
+      "name": "Debajo de las Higueras",
+      "url": "https://open.spotify.com/track/2yXSCqW7fZURhD2Uo0sOrL"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Jaivas",
-        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 249186,
-      "name": "Un Mar de Gente",
-      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Canci\u00f3n del Sur",
         "url": "https://open.spotify.com/album/3557OjI79LJJ52kVeCxhgA"
       },
@@ -519,26 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 361533,
-      "name": "Indio Hermano (Versi\u00f3n 1996)",
-      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Jaivas",
         "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
@@ -548,9 +512,25 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 479186,
-      "name": "Guajira Cosmica",
-      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+      "duration_ms": 249186,
+      "name": "Un Mar de Gente",
+      "url": "https://open.spotify.com/track/5F2dixXnuqUAIdCspNUDPP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 302560,
+      "name": "Cholito Pantal\u00f3n Blanco",
+      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
     },
     {
       "added_at": null,
@@ -587,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trilog\u00eda el Rencuentro",
-        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+        "name": "Los Jaivas",
+        "url": "https://open.spotify.com/album/5P0ZhGdvzJK31MvCWMGajo"
       },
       "artists": [
         {
@@ -596,9 +576,45 @@
           "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
         }
       ],
-      "duration_ms": 302560,
-      "name": "Cholito Pantal\u00f3n Blanco",
-      "url": "https://open.spotify.com/track/3OjqJR8bOY1yNiBGt5iJaV"
+      "duration_ms": 479186,
+      "name": "Guajira Cosmica",
+      "url": "https://open.spotify.com/track/7vpRg1cVcWKN7MLyVvhCQf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trilog\u00eda el Rencuentro",
+        "url": "https://open.spotify.com/album/6RXkaLo3HuwhKdcnPaAAHV"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 361533,
+      "name": "Indio Hermano (Versi\u00f3n 1996)",
+      "url": "https://open.spotify.com/track/5L55AmtdsVfoik6jLkzkvV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arrebol",
+        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
+      },
+      "artists": [
+        {
+          "name": "Los Jaivas",
+          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
+        }
+      ],
+      "duration_ms": 192986,
+      "name": "Vamos por Ancho Camino",
+      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
       "duration_ms": 158640,
       "name": "Verguenza Ajena",
       "url": "https://open.spotify.com/track/6ljLiWQXbJjPElG0p6U1s4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrebol",
-        "url": "https://open.spotify.com/album/6lGNFZFMOkuF1x7drMMaGW"
-      },
-      "artists": [
-        {
-          "name": "Los Jaivas",
-          "url": "https://open.spotify.com/artist/750f5Yoi20mYBe2EoVqWiT"
-        }
-      ],
-      "duration_ms": 192986,
-      "name": "Vamos por Ancho Camino",
-      "url": "https://open.spotify.com/track/0E9a6gOCbNZJuI9ZeaF8F1"
     },
     {
       "added_at": null,

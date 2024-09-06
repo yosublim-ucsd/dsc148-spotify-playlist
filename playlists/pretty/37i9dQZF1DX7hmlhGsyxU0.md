@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,580 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,670 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,12 +59,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 49 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 |
 | 50 | [Drifter](https://open.spotify.com/track/0R7jFHY8XqC6eR8zG97F8P) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:37 |
 | 51 | [Gravegarden](https://open.spotify.com/track/49TkJGEsIbcSIIJUkXziAR) | [JustJosh](https://open.spotify.com/artist/1TbzLqFHKYsQ428ZTKqvx8) | [Serenity](https://open.spotify.com/album/5azwhbDYpWykwwAH6YZMOh) | 4:18 |
-| 52 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
-| 53 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
-| 54 | [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 |
-| 55 | [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 |
-| 56 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 |
-| 57 | [To the Moon and Back](https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [To the Moon and Back](https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P) | 4:30 |
+| 52 | [To the Moon and Back](https://open.spotify.com/track/09icwafvwR2gNJG2sdocIA) | [Aija Alsina](https://open.spotify.com/artist/6WKIDa04sU45Uys0wydkWA) | [To the Moon and Back](https://open.spotify.com/album/6qESYkfoIJvle5je10xY2P) | 4:30 |
+| 53 | [Living Rooms](https://open.spotify.com/track/6aLbzGqkGEM0BH9CNnqjhG) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/0QLTI6SySPkg2au68DdWpE) | 2:55 |
+| 54 | [Efterskalv](https://open.spotify.com/track/4C6KmjztYfUOdAiHixnlno) | [Vargkvint](https://open.spotify.com/artist/5NMemsa74w1oXETsZZkh1a) | [Efterskalv](https://open.spotify.com/album/5awzU6y9tgPQq4axj75TjS) | 3:49 |
+| 55 | [Low Sun](https://open.spotify.com/track/2WV63cJoapM6BNN22RvxZF) | [Cephas Azariah](https://open.spotify.com/artist/2QgmTlO54CWmrzQyXLbtRG), [Hristo Dunev](https://open.spotify.com/artist/4MLvUhJnm30eDAF8ZfC6UF) | [Low Sun](https://open.spotify.com/album/5nPnWhONfOxXGJ24qAaJwc) | 3:16 |
+| 56 | [Islands](https://open.spotify.com/track/4KSdwXraUt7fy4gjbnDC7G) | [Nsee](https://open.spotify.com/artist/6OXXdblCiAoJnv4kp1jpkm), [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Islands](https://open.spotify.com/album/4KxG2lk8yqgOaFiMEDGZVd) | 2:21 |
+| 57 | [Zerachiel](https://open.spotify.com/track/0APuGGovBTro3z0a3pdZUn) | [Igor Ferreira](https://open.spotify.com/artist/6w7RikrpXmwrnLc6udBXc1) | [Zerachiel](https://open.spotify.com/album/1qD1l9X0SPLyPhkjoE9C2R) | 3:11 |
 | 58 | [Innocence](https://open.spotify.com/track/2dvZ1uxrnoXblYwlZsqrZK) | [Takaaki Izumi](https://open.spotify.com/artist/240xN4Tp3Sbkj9XxinXV3p) | [Life](https://open.spotify.com/album/1WVRKTH7HF7Sk0WAvSpMry) | 2:43 |
 | 59 | [Calm Water](https://open.spotify.com/track/3VHj17DOjq1Yf89SCPK0Nj) | [Elise Bordeaux](https://open.spotify.com/artist/4LARDrja1IhwG5bE3512AW) | [Calm Water](https://open.spotify.com/album/3slPGMMjH6yTnbbJ0yYv8l) | 4:20 |
 | 60 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 |

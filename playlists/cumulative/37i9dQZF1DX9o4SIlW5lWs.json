@@ -1140,7 +1140,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 158570,
       "name": "COMO TE LLAMAS",
       "url": "https://open.spotify.com/track/1RMIuLirLVncPn4ljyOUv3"
@@ -4340,7 +4340,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 234422,
       "name": "Me Estoy Muriendo",
       "url": "https://open.spotify.com/track/2wgqb1CzjylxUSDHnaMSi1"
@@ -4800,7 +4800,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160500,
       "name": "Muero X dec\u00edrtelo",
       "url": "https://open.spotify.com/track/5YP2eun7Fp0W9vVe0VCoyM"
@@ -5235,6 +5235,28 @@
     },
     {
       "album": {
+        "name": "No me sale",
+        "url": "https://open.spotify.com/album/4u3sxsJQ69ExpQcsyY8GYB"
+      },
+      "artists": [
+        {
+          "name": "Campedrinos",
+          "url": "https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx"
+        },
+        {
+          "name": "Sele Vera y Pampas de Bariloche",
+          "url": "https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208506,
+      "name": "No me sale",
+      "url": "https://open.spotify.com/track/6tGbECLnN7puAijzjAflJx"
+    },
+    {
+      "album": {
         "name": "No Morir\u00e1 Jam\u00e1s",
         "url": "https://open.spotify.com/album/3GizObRqQ6XePIDYMJSyJO"
       },
@@ -5276,6 +5298,24 @@
       "duration_ms": 195586,
       "name": "No Podre Olvidarme",
       "url": "https://open.spotify.com/track/3tl8h7FZbALLLTGk5MPeHL"
+    },
+    {
+      "album": {
+        "name": "No Podr\u00e1s",
+        "url": "https://open.spotify.com/album/3ODr65vCT4oSyIIxz4CSpb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Sugo",
+          "url": "https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180507,
+      "name": "No Podr\u00e1s",
+      "url": "https://open.spotify.com/track/7KsMMuKRp7KBvtyvTAQapf"
     },
     {
       "album": {
@@ -5961,6 +6001,28 @@
     },
     {
       "album": {
+        "name": "Prometiste Amor",
+        "url": "https://open.spotify.com/album/1sWE0CF50f2TzggG9txtoJ"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135758,
+      "name": "Prometiste Amor",
+      "url": "https://open.spotify.com/track/444vRj4BYxrYalfAePwxRt"
+    },
+    {
+      "album": {
         "name": "Promet\u00ed",
         "url": "https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1"
       },
@@ -6378,7 +6440,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 245864,
       "name": "Se Enamor\u00f3 de Mi la Soledad",
       "url": "https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy"
@@ -8464,6 +8526,24 @@
       "duration_ms": 220575,
       "name": "Ya Sera Tarde",
       "url": "https://open.spotify.com/track/4fvEhNtBhn3wKumiosH34t"
+    },
+    {
+      "album": {
+        "name": "Ya Sup\u00e9rame",
+        "url": "https://open.spotify.com/album/2YXRDWKQNh0De3Vb2UpEKG"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cardozo",
+          "url": "https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157151,
+      "name": "Ya Sup\u00e9rame",
+      "url": "https://open.spotify.com/track/1KErOYjZ8nyzMaH8dk4MoN"
     },
     {
       "album": {

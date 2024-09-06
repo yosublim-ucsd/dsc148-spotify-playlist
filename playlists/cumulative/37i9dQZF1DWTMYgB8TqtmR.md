@@ -4,7 +4,7 @@
 
 > Hot Hits – största och bästa hitsen just nu!
 
-786 songs - 1 day 15 hr 33 min
+787 songs - 1 day 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-08-10 | 2023-08-25 |
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-09-21 | 2023-09-23 |
 | [Agora Hills](https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 4:25 | 2023-09-22 | 2023-09-29 |
+| [Aiko](https://open.spotify.com/track/3jEU1V6aIJR8cQWiKT8BNT) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Shiro](https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo) | [Aiko](https://open.spotify.com/album/4HXJUqCo77UmYUR4USxu3F) | 2:26 | 2024-09-05 |  |
 | [Air](https://open.spotify.com/track/7DBQIEXuFIXMWNAWyGsTTm) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Air](https://open.spotify.com/album/1RJ3zvMBc4NB9VSXEF1EUy) | 2:52 | 2023-04-27 | 2023-05-18 |
 | [Aktiv](https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG), [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [Spår av BLod](https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK) | 2:40 | 2023-11-09 | 2024-01-23 |
 | [Aktiverad](https://open.spotify.com/track/1fFPsFvak7nFZa354u7H1r) | [Alawee](https://open.spotify.com/artist/1eAyilKA1p82m0SkoEZ8dB) | [Aktiverad](https://open.spotify.com/album/62hMMhEg7v6zLLyaYzU9Ng) | 2:34 | 2022-09-29 | 2022-10-02 |
@@ -786,7 +787,7 @@
 | [you were there for me](https://open.spotify.com/track/0C3shWEOObGT5IxApC7Mkg) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [you were there for me](https://open.spotify.com/album/1UIQIGA87GXO6Or60s73cV) | 3:15 | 2022-09-01 | 2023-01-20 |
 | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [You're Hired \(feat\. Ayra Starr\)](https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe) | 2:59 | 2023-09-28 | 2023-10-27 |
 | [ZUTTLUKTEN](https://open.spotify.com/track/5DRJr5a0J0aEIejegQvd7F) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy), [Manny Flaco](https://open.spotify.com/artist/2vduakOON9BipyWkPSBo4S) | [ZUTTLUKTEN](https://open.spotify.com/album/5mDneCwYSabz7MTxMVnPhw) | 1:54 | 2022-08-16 | 2022-11-04 |
-| [Älskar & Hatar – Spotify Singles](https://open.spotify.com/track/5W2S0ISDrUGubkzo0Nja24) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Älskar & Hatar – Spotify Singles](https://open.spotify.com/album/7HkZ3MwdPOyXp6Hzvyh3ys) | 2:19 | 2024-07-04 |  |
+| [Älskar & Hatar – Spotify Singles](https://open.spotify.com/track/5W2S0ISDrUGubkzo0Nja24) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Pablo Paz](https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [Älskar & Hatar – Spotify Singles](https://open.spotify.com/album/7HkZ3MwdPOyXp6Hzvyh3ys) | 2:19 | 2024-07-04 | 2024-09-06 |
 | [Ålderdomshemmet](https://open.spotify.com/track/7wcl1N4Mn1VlBbQQmOlgiO) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Ålderdomshemmet](https://open.spotify.com/album/0HVvyd8hLIe5tdn5rH1bqX) | 3:03 | 2023-03-30 | 2023-09-01 |
 | [Återvändsgränd](https://open.spotify.com/track/2glvJpNPCnuhAKLq1lIdWz) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Så mycket bättre 2022 \- Tolkningarna](https://open.spotify.com/album/20TlyZgpi1xGo3C4ECtG7h) | 3:15 | 2023-01-19 | 2023-01-27 |
 | [Återvändsgränd](https://open.spotify.com/track/3y6qyXYv3C0BaYehuAQTLv) | [Daniela Rathana](https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui) | [Återvändsgränd](https://open.spotify.com/album/0HcXNRFN67R6c7uFKLSQxA) | 3:15 | 2022-11-24 | 2023-01-25 |

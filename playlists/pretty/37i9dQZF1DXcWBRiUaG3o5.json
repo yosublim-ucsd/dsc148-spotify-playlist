@@ -1,6 +1,6 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1241177,
+  "num_followers": 1241132,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Famous Men",
+        "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
+      },
+      "artists": [
+        {
+          "name": "Magnolian",
+          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
+        }
+      ],
+      "duration_ms": 250399,
+      "name": "The Bride & The Bachelor",
+      "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Barton Hollow",
         "url": "https://open.spotify.com/album/6yCzOeJHgOnJBP3K6IDPIV"
       },
@@ -1479,6 +1495,22 @@
     {
       "added_at": "2024-08-23 15:12:14",
       "album": {
+        "name": "Maybe This Christmas Vol 5: Songs for the Yule Log",
+        "url": "https://open.spotify.com/album/7IZ6efRavLKAXtZ1s882T5"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 236849,
+      "name": "God I Hope This Year Is Better Than The Last",
+      "url": "https://open.spotify.com/track/0xRO7EKgYKVB8zKIoiXMDD"
+    },
+    {
+      "added_at": "2024-08-23 15:12:14",
+      "album": {
         "name": "Stranger in the Alps (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1p16WxrdVBNIAAxbpZMWJR"
       },
@@ -1507,22 +1539,6 @@
       "duration_ms": 229133,
       "name": "symbol",
       "url": "https://open.spotify.com/track/7f3xVpWfp3FPursBSrIEMJ"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Famous Men",
-        "url": "https://open.spotify.com/album/6KGnCDspnm0AQe4uHymeg6"
-      },
-      "artists": [
-        {
-          "name": "Magnolian",
-          "url": "https://open.spotify.com/artist/0Uj91EMXf9p6ha6pGl7XIp"
-        }
-      ],
-      "duration_ms": 250399,
-      "name": "The Bride & The Bachelor",
-      "url": "https://open.spotify.com/track/3toFxCag8BngPPZYm3p9kY"
     },
     {
       "added_at": "2024-08-23 15:12:14",
@@ -1619,22 +1635,6 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/67yniWH9m9UjFwSA0CPeIk"
-    },
-    {
-      "added_at": "2024-08-23 15:12:14",
-      "album": {
-        "name": "Urban Driftwood",
-        "url": "https://open.spotify.com/album/233gqBTj1syIvhppH8NV7w"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Williams",
-          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
-        }
-      ],
-      "duration_ms": 230333,
-      "name": "Juvenescence",
-      "url": "https://open.spotify.com/track/73LVxUKfVeLqlQ9qqhTQ3h"
     }
   ],
   "unique_name": "Evening Acoustic",

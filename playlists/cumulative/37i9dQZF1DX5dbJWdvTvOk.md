@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-719 songs - 1 day 6 hr 36 min
+721 songs - 1 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,7 +128,7 @@
 | [Chiapas](https://open.spotify.com/track/6deSg4veAk0NwTNF9bNry8) | [Mario Cabrera](https://open.spotify.com/artist/2jxGXKxdhbWgtylGviMHZh) | [Chiapas](https://open.spotify.com/album/0mA1yo4p1ZO8t8mvQg63Gl) | 3:05 | 2022-07-15 | 2023-03-11 |
 | [Chiaro di Luna](https://open.spotify.com/track/5wMHOl6I3s50DgLuajsJZM) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Chiaro di Luna](https://open.spotify.com/album/3ZBm8Y0Xw3nqk3u8Q6cuvn) | 1:50 | 2023-04-21 | 2023-08-26 |
 | [Choro pra Acalmar](https://open.spotify.com/track/50e5GkpVaPnZw4JtLvBzyL) | [Eric Patelli](https://open.spotify.com/artist/1oZlAkNZzablLcx78NHA1c) | [Iguazu Falls](https://open.spotify.com/album/22IAlT7WhxkkMaNOxuM6V1) | 3:07 | 2022-07-15 | 2023-04-22 |
-| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 |  |
+| [Cinque Terre](https://open.spotify.com/track/7ado3ZHqkVhYmRbkzyF3NN) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [Cinque Terre](https://open.spotify.com/album/5c2CA3YBaZx6IrB0KT3YBT) | 2:24 | 2023-04-21 | 2024-09-06 |
 | [CLEVELAND, OH](https://open.spotify.com/track/7xAGtSGZCmzZ4gkJetmnoq) | [Brad Barr](https://open.spotify.com/artist/6FHxCoGlbKV6cvqO2AMaKv) | [THE WINTER MISSION](https://open.spotify.com/album/05dhqFgu0AVrq1qMjHhcfq) | 1:34 | 2023-04-21 | 2023-08-26 |
 | [Clouded Reflection](https://open.spotify.com/track/0BTLhUHKgEi7Jx8uRjTAii) | [Mia Pandosa](https://open.spotify.com/artist/1bLfERJJqbxHMdNMdDtpAL) | [Clouded Reflection](https://open.spotify.com/album/6KwQj931Z6T7Q6xg9Ldbge) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Coma Pedrosa](https://open.spotify.com/track/51cywj6ZBciJT6xKDm9wyV) | [Victor Alvida](https://open.spotify.com/artist/6Fw6K0ReXC3BS6IrmJU96R) | [Coma Pedrosa](https://open.spotify.com/album/0Eo35G5FqMSC4T1hKVnLw4) | 2:18 | 2022-07-15 | 2023-04-22 |
@@ -229,6 +229,7 @@
 | [Fallen Apples’ Scent](https://open.spotify.com/track/0kXnPmPo443VeP7XOi2Mai) | [Serilda Bell](https://open.spotify.com/artist/47Ak9ecFbwZj3g4uCLGS6G) | [Fallen Apples’ Scent](https://open.spotify.com/album/7y4unim8M3o09r7QjegH8p) | 2:32 | 2023-02-24 | 2023-04-22 |
 | [Falling For You](https://open.spotify.com/track/3Boy1B77i7P895663Fdl19) | [Joseph Cline](https://open.spotify.com/artist/4I9DN3aBJSdzI26IuzVl0h) | [Falling For You](https://open.spotify.com/album/4hYaErKM9hpfXWyCUf7INO) | 2:27 | 2023-04-21 | 2023-06-03 |
 | [Fantasie](https://open.spotify.com/track/4HGQtaThav55ugWtulzE5z) | [Esmeralda Avery](https://open.spotify.com/artist/2EjRdyNA6dC2NAxnP1R2z8) | [Fantasie](https://open.spotify.com/album/2h8pgJJhpUebg8tG3G1ij7) | 1:55 | 2023-06-02 | 2023-08-26 |
+| [Favored by Life](https://open.spotify.com/track/60TVmYILBDfjHfSgrkkf5Z) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Favored by Life](https://open.spotify.com/album/4bQK0W2lW6yDQQZbTKA7Tn) | 3:07 | 2024-09-03 |  |
 | [Fawns in Spring](https://open.spotify.com/track/2C3ykZW6V8CFVEbBrSa0gK) | [Celia Cloten](https://open.spotify.com/artist/43K8HrRsXFfNZqCjavPbsa) | [Fawns in Spring](https://open.spotify.com/album/4Oo8SDRLkxG7KkMxlSjsOr) | 2:39 | 2023-01-20 | 2023-04-22 |
 | [Feelings You Cannot Hide](https://open.spotify.com/track/42VvllM7hJNYnQMmJdy9g4) | [Alexia Mathieu](https://open.spotify.com/artist/3Dxk3Um3WNsIymPO9EnUTA) | [Feelings You Cannot Hide](https://open.spotify.com/album/3fZVXmAD4cATaZJ4HHnlX3) | 2:52 | 2023-04-21 |  |
 | [Felicitas](https://open.spotify.com/track/4ODPCP6txgH3tMcgJIXTEl) | [Jo Rochford](https://open.spotify.com/artist/38vDOZ8sFoBrhvvJJ8l1eq) | [Felicitas](https://open.spotify.com/album/5u3kzaxNDz6eiuXAZCb1TT) | 2:45 | 2024-02-23 |  |
@@ -553,7 +554,7 @@
 | [Seresta](https://open.spotify.com/track/5cTsLgmhCzeBmTO7jPVkfg) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Rain Forest](https://open.spotify.com/album/5VtmbXvAvcBOSc60XRa2Sr) | 2:46 | 2023-04-21 |  |
 | [Settignano](https://open.spotify.com/track/5b1OOTi5NXuFC06YZyuXK3) | [Amma Lerato](https://open.spotify.com/artist/0fc9IdmPLh7Gn3TwWpOBcL) | [Settignano](https://open.spotify.com/album/4v7IruhzOzzXcqIewFc5Nh) | 1:58 | 2023-04-21 | 2023-06-09 |
 | [Severance](https://open.spotify.com/track/3SvIZwX1Stka524urG0qsN) | [Freda Barton](https://open.spotify.com/artist/0fylCOnl5ssW7QWnuMYPun) | [Severance](https://open.spotify.com/album/08L90myPC5HtYTr6RvSMlC) | 2:26 | 2023-04-21 |  |
-| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
+| [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 | 2024-09-06 |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
 | [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
@@ -648,6 +649,7 @@
 | [This Time Tomorrow](https://open.spotify.com/track/4Eivcpu9MoHaEvYLJ9fV4k) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/3efIhVkzBPxJnYHVy2me9S) | 2:09 | 2023-04-21 | 2023-05-13 |
 | [This Time Tomorrow](https://open.spotify.com/track/5acLw8ejNDk15x0qr4ys9D) | [Evergreen Dream](https://open.spotify.com/artist/0imX3QCdp1ozlEiyXBtiFy) | [This Time Tomorrow](https://open.spotify.com/album/4oj20OCf2PsnZYOniBjacV) | 2:09 | 2023-04-21 | 2023-05-06 |
 | [Those Nights](https://open.spotify.com/track/0gbtMrWkK0yFYxrQ7cuMBe) | [Carla Rego](https://open.spotify.com/artist/17tCRxgmwJFhSMn62eBkfk) | [Those Nights](https://open.spotify.com/album/2Ofc2QMxVpVwPqGCIuWSHz) | 2:33 | 2023-03-31 | 2023-04-22 |
+| [Through Space And Time](https://open.spotify.com/track/7ntTUba89GDgmTiIDaF9FU) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Through Space And Time](https://open.spotify.com/album/43ZdDQgeDHozcQIuojFdBR) | 2:33 | 2024-09-03 |  |
 | [Through The Clouds](https://open.spotify.com/track/4iAdXL69NTrfKpBO8os3uZ) | [Benedict Wallfish](https://open.spotify.com/artist/0J9KRHzB7ZVu5zqVztzclJ) | [Learn to Fly](https://open.spotify.com/album/329j1EFas4BUDJaJLz0k5l) | 3:01 | 2022-07-15 | 2023-04-22 |
 | [ti manchi](https://open.spotify.com/track/0WATdTqiw0R4OqBhw8T8aR) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [ti manchi](https://open.spotify.com/album/1eeGzLVpAtr0SOS3g1bOA7) | 2:11 | 2023-04-21 | 2023-06-03 |
 | [Tiempo Diferente](https://open.spotify.com/track/2Ydby2f4z6soHFOJ5vwksZ) | [Francisca Fortinbras](https://open.spotify.com/artist/5fwKwRmjgEbAclDp30ssyD) | [Tiempo Diferente](https://open.spotify.com/album/7Hop5OQe2ynxNv0CoOUR9g) | 2:27 | 2022-07-15 | 2023-04-22 |

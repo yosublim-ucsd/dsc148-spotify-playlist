@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Vamos a empezar el Viernes con el pie derecho con música nueva, con Grupo Marca Registrada al frente! 🫡
 
-[Spotify](https://open.spotify.com/user/spotify) - 861,420 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 861,527 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

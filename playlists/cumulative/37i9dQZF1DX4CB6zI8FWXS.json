@@ -3503,6 +3503,28 @@
     },
     {
       "album": {
+        "name": "Goodbyes (Myrrh)",
+        "url": "https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210124,
+      "name": "Goodbyes (Myrrh)",
+      "url": "https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk"
+    },
+    {
+      "album": {
         "name": "Greatest Gift (Reimagined)",
         "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
       },
@@ -4874,7 +4896,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 237066,
       "name": "Keen",
       "url": "https://open.spotify.com/track/5FjgNCKyg3yYHHTMNQiMgl"
@@ -7872,7 +7894,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 219994,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/20taJ46r9l2wf3czHTgzLD"
@@ -8034,6 +8056,24 @@
       "duration_ms": 158529,
       "name": "Romance",
       "url": "https://open.spotify.com/track/75OqiU9QFLNeLTLvOCudWr"
+    },
+    {
+      "album": {
+        "name": "Chapter 22: NAKED",
+        "url": "https://open.spotify.com/album/1ftnFdq2bfUhNP5zP8pil6"
+      },
+      "artists": [
+        {
+          "name": "Shaynah",
+          "url": "https://open.spotify.com/artist/4U7FCOOzMmHazZNQ6eK7RG"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138264,
+      "name": "Round 'n Round",
+      "url": "https://open.spotify.com/track/6l00DjYvvJJAPm4RHtXUuU"
     },
     {
       "album": {
@@ -9780,7 +9820,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213384,
       "name": "the boy is mine (with Brandy, Monica)",
       "url": "https://open.spotify.com/track/52anJ914oylWdT3CytSMYF"
@@ -10456,6 +10496,24 @@
       "duration_ms": 153366,
       "name": "Unfinished House",
       "url": "https://open.spotify.com/track/076OMje4i6IaJ6n9fp1aGZ"
+    },
+    {
+      "album": {
+        "name": "O, Vol. 1",
+        "url": "https://open.spotify.com/album/0j8IT2sEyWFY5xs9xddy0P"
+      },
+      "artists": [
+        {
+          "name": "XIN LIU",
+          "url": "https://open.spotify.com/artist/3lxD7OESQHk5ESvrad8IGg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106786,
+      "name": "Unwind",
+      "url": "https://open.spotify.com/track/2HLl2c043z5IuocBA8na4Z"
     },
     {
       "album": {

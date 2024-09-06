@@ -4,7 +4,7 @@
 
 > The calming space of Japanese Ambient and Environmental music\. Kenichiro Isoda on cover.
 
-269 songs - 19 hr 58 min
+270 songs - 20 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Brilliant 2.0](https://open.spotify.com/track/59HdINjnHVrnyUPoPzfgzP) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Brilliant 2.0](https://open.spotify.com/album/2d0UpDlqEib3e93cQF4l7R) | 2:40 | 2023-04-21 |  |
 | [Brook](https://open.spotify.com/track/3QiwoxBNSq5Cpn0pgCCq2H) | [P3PPER](https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj), [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [잔물결 \(janmulgyeol\)](https://open.spotify.com/album/1jIKfpjeGejpLvmkQFId1i) | 3:14 | 2022-10-15 |  |
 | [Byakudan Rework](https://open.spotify.com/track/5f3MAWb9wPn5doAeeMhedd) | [Haruhisa Tanaka](https://open.spotify.com/artist/4ZTlbJ3KHGs7wuvdtouuIw) | [Byakudan Rework](https://open.spotify.com/album/7gKKb1hDCBX16LzNGjwt83) | 2:54 | 2022-01-07 | 2023-04-22 |
-| [CAHAYA](https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [CAHAYA](https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk) | 2:50 | 2024-07-26 |  |
+| [CAHAYA](https://open.spotify.com/track/2YBJlOWBi9Ktw4t6BNyroK) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [CAHAYA](https://open.spotify.com/album/3Klm6zTWoWWAxpG1HfKImk) | 2:50 | 2024-07-26 | 2024-09-06 |
 | [calling \(slowed + reverb\)](https://open.spotify.com/track/2B8HW5IGRVSDz1kUuANbSJ) | [widx.](https://open.spotify.com/artist/0coIXI6j3BgwYiTxbhu5Un) | [calling \(slowed + reverb\)](https://open.spotify.com/album/4vFKA0J6HRON1Bl3SMKppg) | 2:29 | 2023-09-22 |  |
 | [Candy Floss](https://open.spotify.com/track/2ZtH2scL0aDBizjDrqewIW) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [Commissions: 1977\-2000](https://open.spotify.com/album/7cJG9ELM7LsyAD5kQOmoMq) | 2:58 | 2022-12-30 | 2023-08-19 |
 | [Cassiopeia, 6 July 1982](https://open.spotify.com/track/2U05G9iflgUikBMpH76AIu) | [AOI](https://open.spotify.com/artist/3GI4ib0hz1mAxLVdrQldsZ) | [MDT001](https://open.spotify.com/album/57DgSN6ZCnVIsiUUOkIjji) | 3:31 | 2022-01-07 | 2022-07-29 |
@@ -96,7 +96,7 @@
 | [Hagoromo](https://open.spotify.com/track/1OAauBqF32EtJHTVsd12Zv) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 3:52 | 2022-12-30 | 2024-04-19 |
 | [HAGOROMO](https://open.spotify.com/track/57R46IG6M5tQ5xgQ30ZSOf) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/4eN1ho9NT7q1YlG5xDNYNM) | 3:52 | 2024-03-07 |  |
 | [Hana](https://open.spotify.com/track/3BEtkDxDmgwVVpTRbL89nX) | [Fumio Miyashita](https://open.spotify.com/artist/1x5s5AcJ440n1gmUU0Tvgr) | [Best of Fumio: Music for Sleep](https://open.spotify.com/album/3AgqBMLDoDZsrv1A7R3E5V) | 6:56 | 2022-12-30 |  |
-| [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 |  |
+| [harukanade / 春奏](https://open.spotify.com/track/4l4IkWuvZfqH9kxgzo1xSj) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [harukanade / 春奏](https://open.spotify.com/album/2T4FB4EAIxoDyAw8IVfxAj) | 3:56 | 2024-03-07 | 2024-09-06 |
 | [Her After Bath](https://open.spotify.com/track/65MUBBKx73ZZkDVTPaThnN) | [Weatherson](https://open.spotify.com/artist/3Yw7s4Nk9zXpmqgNvDZ1ky) | [Crossloads](https://open.spotify.com/album/2GRogOCyYN7C1UbXrZ1lO9) | 3:10 | 2022-02-22 |  |
 | [HereAfter](https://open.spotify.com/track/76ZzbHJqu3jahM8IhaEHkW) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [HereAfter](https://open.spotify.com/album/3eOpeSAgeHVoLGzXfxvtGu) | 6:03 | 2024-08-08 |  |
 | [Hicari](https://open.spotify.com/track/5LoCraezdIDtyxCRIQdNLi) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [Hicari](https://open.spotify.com/album/5N5zlunO6d2GMuQuUsEYCR) | 1:54 | 2022-05-27 |  |
@@ -150,6 +150,7 @@
 | [Moon](https://open.spotify.com/track/6rOc7kTPNL6SxSVugGlPoG) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Moon](https://open.spotify.com/album/45cho4OqwcoNEvhFbI6Tpt) | 2:43 | 2023-01-20 |  |
 | [Mousugu](https://open.spotify.com/track/7h0ifEkfBvKTEA4WgapMQ1) | [Genfukei](https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y) | [Mousugu](https://open.spotify.com/album/0QWp7B1kzqGqDAsDJOJaTe) | 3:12 | 2022-12-30 | 2023-08-19 |
 | [Moving layer](https://open.spotify.com/track/5C2bOknZW0dN7mhiNNB5Vx) | [Yutaka Hirose](https://open.spotify.com/artist/1FdNQlWcuAjkLTEx7xHf25) | [Nostalghia](https://open.spotify.com/album/5QRSaiLYVS5C6Y9fvMe7Nj) | 7:01 | 2022-12-30 |  |
+| [My Hollow](https://open.spotify.com/track/68RWlY6gBK3J1NFurEycvo) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [My Hollow](https://open.spotify.com/album/6ESXEEXvWLhOEjeUedlzAQ) | 4:08 | 2024-09-06 |  |
 | [New Van Dyke Parks](https://open.spotify.com/track/1qWjVkwBVhZzWEovby6QZa) | [ワールドスタンダード](https://open.spotify.com/artist/5RptDaZ5MAjH5IYykyt3DI) | [World Standard II \(2021 Remastered\)](https://open.spotify.com/album/5bfEOTKHIu0ECorUAIog9D) | 2:04 | 2023-03-03 | 2023-08-19 |
 | [Night](https://open.spotify.com/track/45Dxx50STJXoWCaDQkr6kx) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/59qt7thlZ8bYAd4B22QeZ1) | 3:36 | 2023-09-08 | 2024-04-19 |
 | [Night](https://open.spotify.com/track/6JDfoJ0rsSDLioxEHMedDI) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Night](https://open.spotify.com/album/0DqfekqRy3GaOSgmgWhOR8) | 3:36 | 2024-03-07 |  |

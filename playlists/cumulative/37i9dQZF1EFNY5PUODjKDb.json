@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "Jes\u00fas La Superestrella",
+        "url": "https://open.spotify.com/album/6ohDJqbCezpoKJ3heaBZIH"
+      },
+      "artists": [
+        {
+          "name": "G Martell Elenco",
+          "url": "https://open.spotify.com/artist/0R6kjpBiYEeon6IdtAGKrF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157409,
+      "name": "Hosana",
+      "url": "https://open.spotify.com/track/5ng62WHkDXY8MC1EXG1hGG"
+    },
+    {
+      "album": {
         "name": "Jesus Christ Superstar - Remastered 2005",
         "url": "https://open.spotify.com/album/07yuGQWbSrSzFij9ammAfR"
       },
@@ -5374,7 +5392,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 104306,
       "name": "Lloyd Webber: Married Man",
       "url": "https://open.spotify.com/track/3HfJ7iKIDeQxFaL5gC3Fyy"

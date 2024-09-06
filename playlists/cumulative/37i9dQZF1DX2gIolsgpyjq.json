@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-02-10",
-  "description": "The best new music by independent artists in the Nordics. Cover: Jhon Allan",
+  "description": "The best new music by independent artists in the Nordics. Cover: Sl\u00f8tface",
   "name": "Fresh Finds Nordics",
   "tracks": [
     {
@@ -259,6 +259,46 @@
     },
     {
       "album": {
+        "name": "Alfonzo",
+        "url": "https://open.spotify.com/album/5zbUIfi8KEJAtqCzDIZnGf"
+      },
+      "artists": [
+        {
+          "name": "ISSA",
+          "url": "https://open.spotify.com/artist/2JMWBjhHdG87GnynPAGBzG"
+        },
+        {
+          "name": "Your Planet Is Next",
+          "url": "https://open.spotify.com/artist/0kwsmj8T6jMokQr2YXcKiT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Alfonzo",
+      "url": "https://open.spotify.com/track/3rT3fWKXNBks3yhI6c70Z1"
+    },
+    {
+      "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/3ehC2FHtHXbVnwDTQJT7KD"
+      },
+      "artists": [
+        {
+          "name": "Jaakko Aukusti",
+          "url": "https://open.spotify.com/artist/2YTpOPQuz4J2CphaVIgSBj"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176400,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/0RjrVnxd3KnWHKLGj2ZNyO"
+    },
+    {
+      "album": {
         "name": "From HEL With Love",
         "url": "https://open.spotify.com/album/5EDrg0lAWiSoZ7SEcAH0wt"
       },
@@ -489,6 +529,24 @@
     },
     {
       "album": {
+        "name": "ATRE",
+        "url": "https://open.spotify.com/album/2cEZFwMR9k9V61TGJ4i7xC"
+      },
+      "artists": [
+        {
+          "name": "OKARO",
+          "url": "https://open.spotify.com/artist/768oWAbPZ3zDTuARKBThtC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178695,
+      "name": "ATRE",
+      "url": "https://open.spotify.com/track/1rHDk6xpaN8Yjb478b7s0I"
+    },
+    {
+      "album": {
         "name": "Babylon",
         "url": "https://open.spotify.com/album/6nDSrdXMDzutmKsDPCif4h"
       },
@@ -562,7 +620,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 160188,
       "name": "Bad Dope",
       "url": "https://open.spotify.com/track/0WHUpzFixlgSLJ9sXnRaUb"
@@ -1255,6 +1313,42 @@
     },
     {
       "album": {
+        "name": "Certain Death",
+        "url": "https://open.spotify.com/album/5DlIl8iuoAQSDk6zVXcBNe"
+      },
+      "artists": [
+        {
+          "name": "Clara Malby",
+          "url": "https://open.spotify.com/artist/5xeHlqLDzUkefkg2hqGiRH"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201126,
+      "name": "Certain Death",
+      "url": "https://open.spotify.com/track/41wkfkzZQ6FU8bTI2f8nH6"
+    },
+    {
+      "album": {
+        "name": "Chaos",
+        "url": "https://open.spotify.com/album/16hB0SDVHnDtThxvcVGi6A"
+      },
+      "artists": [
+        {
+          "name": "Markella",
+          "url": "https://open.spotify.com/artist/2RMXPfuWbGwHulRBAHGqbt"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Chaos",
+      "url": "https://open.spotify.com/track/52RqMbWDZmNEcj4ogyIDAn"
+    },
+    {
+      "album": {
         "name": "Child of the City",
         "url": "https://open.spotify.com/album/34bN53KpSsbPFjnGL8vppH"
       },
@@ -1266,7 +1360,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 201904,
       "name": "Child of the City",
       "url": "https://open.spotify.com/track/72lqf7BtvGFadFPWkvoz9C"
@@ -1324,6 +1418,24 @@
       "duration_ms": 222295,
       "name": "Closer",
       "url": "https://open.spotify.com/track/7twhrRwT0bqS6wqQpYYf3Y"
+    },
+    {
+      "album": {
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/37qEBYJEhwnBgG9fC8Omwz"
+      },
+      "artists": [
+        {
+          "name": "Genius Of Time",
+          "url": "https://open.spotify.com/artist/1PyOgBv0gb5p75Y6iS6uM2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280121,
+      "name": "Closer",
+      "url": "https://open.spotify.com/track/4Xl9qi7Z0KTU6aVWkNGETU"
     },
     {
       "album": {
@@ -1897,6 +2009,24 @@
     },
     {
       "album": {
+        "name": "Disfruta",
+        "url": "https://open.spotify.com/album/1rg4LLkhgKnezWpPGEF26g"
+      },
+      "artists": [
+        {
+          "name": "Bensimon",
+          "url": "https://open.spotify.com/artist/5Fa2BEPqb4wXahiEA4zxWv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Disfruta",
+      "url": "https://open.spotify.com/track/0I6hocfrrzusD6iaRewGzb"
+    },
+    {
+      "album": {
         "name": "Late 20's Love Affair",
         "url": "https://open.spotify.com/album/5IBr2x2IAMYWtJ1rBvJMgv"
       },
@@ -2400,7 +2530,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 193421,
       "name": "ENERGI",
       "url": "https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl"
@@ -2556,7 +2686,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 208687,
       "name": "Favourite",
       "url": "https://open.spotify.com/track/0hTum5GVwn7NSegzA4G9Mj"
@@ -3707,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5wm6RLQG7S7L8GuJrD3Mzs"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
+    },
+    {
+      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/2DZrZqI45PpoQ4bzQoj2Vf"
       },
@@ -3866,7 +4014,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 275586,
       "name": "I Just Needed You To Know",
       "url": "https://open.spotify.com/track/1LCovl7CSqDuKJRlFQEA5V"
@@ -3928,6 +4076,24 @@
       "duration_ms": 130000,
       "name": "I Miss My Adidas",
       "url": "https://open.spotify.com/track/6T7Nsxlm9Z75npoJRn3Lth"
+    },
+    {
+      "album": {
+        "name": "I Used To Be A Real Piece Of Shit",
+        "url": "https://open.spotify.com/album/4SpOELLHyGJCAvRJsMYvuT"
+      },
+      "artists": [
+        {
+          "name": "Sl\u00f8tface",
+          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118343,
+      "name": "I Used To Be A Real Piece Of Shit",
+      "url": "https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt"
     },
     {
       "album": {
@@ -4198,7 +4364,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 204714,
       "name": "In this moment",
       "url": "https://open.spotify.com/track/5LmJTN2EeGhuJ3krvKnwYd"
@@ -4314,7 +4480,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 182769,
       "name": "Is This Real Love",
       "url": "https://open.spotify.com/track/6NTukeIafDUeYPzJdcu7AM"
@@ -5862,7 +6028,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 210476,
       "name": "Not Alone",
       "url": "https://open.spotify.com/track/33wpyHU4LVqZXve6cRN5Ei"
@@ -6300,7 +6466,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 260000,
       "name": "Other Side",
       "url": "https://open.spotify.com/track/3WHI9kxRAJKjGcDRnQkWOQ"
@@ -6420,7 +6586,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 130041,
       "name": "pattern",
       "url": "https://open.spotify.com/track/3z7mJURng2kqpyUkCofoQt"
@@ -6586,6 +6752,24 @@
       "duration_ms": 143242,
       "name": "Please Be Careful",
       "url": "https://open.spotify.com/track/1QCRcAOltXgDMpMIzg6o78"
+    },
+    {
+      "album": {
+        "name": "Point Out The Crime",
+        "url": "https://open.spotify.com/album/1WiSFvWNaHNTd1AmYu3ES1"
+      },
+      "artists": [
+        {
+          "name": "CEVIL",
+          "url": "https://open.spotify.com/artist/0E2roCDpvKNhh4ym05PfhP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160054,
+      "name": "Point Out The Crime",
+      "url": "https://open.spotify.com/track/3eMQWAvCNS5ZUMrkTFdsv1"
     },
     {
       "album": {
@@ -7132,7 +7316,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 242449,
       "name": "Running Out",
       "url": "https://open.spotify.com/track/0nXxu9pnUsI8yt4Ud8xvMv"
@@ -7252,6 +7436,24 @@
       "duration_ms": 170000,
       "name": "senescence",
       "url": "https://open.spotify.com/track/28gAWZFt7KcMB9cE3doNG6"
+    },
+    {
+      "album": {
+        "name": "September Smiles",
+        "url": "https://open.spotify.com/album/7HLZKEUOIuHOFxkOy1eNMi"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236391,
+      "name": "September Smiles",
+      "url": "https://open.spotify.com/track/3fERHHJyud25vPeIx8ETFm"
     },
     {
       "album": {
@@ -7663,6 +7865,24 @@
     },
     {
       "album": {
+        "name": "Somewhere Else Than Here",
+        "url": "https://open.spotify.com/album/2OK9Kdcy6MkmPKte7CY5nV"
+      },
+      "artists": [
+        {
+          "name": "Jonsjooel",
+          "url": "https://open.spotify.com/artist/1ILOFjlM9mmizHFPtEjvQF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173920,
+      "name": "Somewhere Else Than Here",
+      "url": "https://open.spotify.com/track/100nbUWfWV6GABt0sGx6zx"
+    },
+    {
+      "album": {
         "name": "Sorry For Myself",
         "url": "https://open.spotify.com/album/0pQnaTYFQssWiOchwrxRr6"
       },
@@ -7941,6 +8161,24 @@
     },
     {
       "album": {
+        "name": "Substitutes",
+        "url": "https://open.spotify.com/album/2Dy1ozlSgiziytqZKfgWij"
+      },
+      "artists": [
+        {
+          "name": "DJ Carpenter",
+          "url": "https://open.spotify.com/artist/3HT9KuqyBAFyWgw4xMLPUi"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209900,
+      "name": "Substitutes",
+      "url": "https://open.spotify.com/track/50XIfH5abQ2grHdYPSBbNZ"
+    },
+    {
+      "album": {
         "name": "Sucker",
         "url": "https://open.spotify.com/album/4prePkK24oG7oI8k423sD5"
       },
@@ -8216,6 +8454,24 @@
       "duration_ms": 202023,
       "name": "That Feeling",
       "url": "https://open.spotify.com/track/3vTd2tLfGEbXzK1D7qVblY"
+    },
+    {
+      "album": {
+        "name": "The Lick",
+        "url": "https://open.spotify.com/album/5aQ1RJzxPBTdjx8igxivvN"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129738,
+      "name": "The Lick",
+      "url": "https://open.spotify.com/track/324j2Np2PLfN6lbI1NQpBb"
     },
     {
       "album": {
@@ -9160,7 +9416,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 192000,
       "name": "Who's The Rhythm",
       "url": "https://open.spotify.com/track/1DSA69trE1apAAd5dF1FSq"

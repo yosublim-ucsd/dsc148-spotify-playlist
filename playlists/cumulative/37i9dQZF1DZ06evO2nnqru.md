@@ -2,7 +2,7 @@
 
 ### [This Is Marca MP](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2nnqru)
 
-> This is Marca MP\. The essential tracks, all in one playlist.
+> This Is Marca MP\. Los temas esenciales, todos en una lista.
 
 106 songs - 5 hr 42 min
 

@@ -300,7 +300,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 295784,
       "name": "Asante Yesu",
       "url": "https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 295920,
       "name": "Ebenezer",
       "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
@@ -770,7 +770,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 225849,
       "name": "Hararat",
       "url": "https://open.spotify.com/track/6sNaQRTxAwmFzC0Pe3zyNF"
@@ -1020,7 +1020,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 113736,
       "name": "Kiriro Drill - Remix",
       "url": "https://open.spotify.com/track/7qeMkJOTE1yEgJjkuBHfUJ"
@@ -1524,7 +1524,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 290136,
       "name": "Mpango",
       "url": "https://open.spotify.com/track/2r9iEJtI80kGkLhKwqFhTJ"
@@ -1691,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "Nakupa Utukufu (feat. Zoe)",
+        "url": "https://open.spotify.com/album/6IrJsGlVLBtKcGquLif5v0"
+      },
+      "artists": [
+        {
+          "name": "Boss MOG",
+          "url": "https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie"
+        },
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/4FaAab5oHVuSLoIK1G2icg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "Nakupa Utukufu (feat. Zoe)",
+      "url": "https://open.spotify.com/track/7tnGzoqS9ITlwiQmlaTtgB"
+    },
+    {
+      "album": {
         "name": "Nami Nataka Nikuone",
         "url": "https://open.spotify.com/album/2AQ9kOCph0Gw9kfbFENbhq"
       },
@@ -1810,7 +1832,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 420597,
       "name": "Natamani Wamebarikiwa",
       "url": "https://open.spotify.com/track/2xJA3Bbn20xQYiWh1Cjj6E"
@@ -1998,7 +2020,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 430262,
       "name": "Nikumbuke Kama Wengine",
       "url": "https://open.spotify.com/track/1G5JSfbluki82jSjgrCsXF"
@@ -2700,7 +2722,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 264000,
       "name": "SIJAI KUWA MSOTO (Racing Thoughts)",
       "url": "https://open.spotify.com/track/4xoPWWvpF16ORhHSVtrn1U"
@@ -2780,6 +2802,24 @@
       "duration_ms": 152842,
       "name": "Sisi Ni Wale (feat. Freshow Band) - choir Version",
       "url": "https://open.spotify.com/track/6P9iYKJSKPJVFnBH1BAVWO"
+    },
+    {
+      "album": {
+        "name": "Sitalia Tena",
+        "url": "https://open.spotify.com/album/53Vx8y821d9Wrawn02xr7G"
+      },
+      "artists": [
+        {
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187193,
+      "name": "Sitalia Tena",
+      "url": "https://open.spotify.com/track/6jqIBx1x8iiaGliPsqXsJM"
     },
     {
       "album": {
@@ -3608,7 +3648,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 141061,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/7wGFgjK6ExstaxgaxMkUbq"
@@ -3662,7 +3702,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 414360,
       "name": "Yesu Karibu Kwangu",
       "url": "https://open.spotify.com/track/5km2sSfnNyYkAqo4QaGjdk"

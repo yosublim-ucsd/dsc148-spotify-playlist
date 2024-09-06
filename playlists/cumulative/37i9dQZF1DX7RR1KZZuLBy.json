@@ -971,6 +971,28 @@
     },
     {
       "album": {
+        "name": "Courts",
+        "url": "https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5"
+      },
+      "artists": [
+        {
+          "name": "Linc Worship",
+          "url": "https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B"
+        },
+        {
+          "name": "Ashleigh Duggan",
+          "url": "https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436764,
+      "name": "Courts",
+      "url": "https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0"
+    },
+    {
+      "album": {
         "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
         "url": "https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw"
       },
@@ -5846,7 +5868,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163169,
       "name": "Up + Up",
       "url": "https://open.spotify.com/track/4pyIuEQo27lFOEMBJagRAv"

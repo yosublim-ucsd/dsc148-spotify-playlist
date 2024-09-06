@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring Chance Peña
 
-[Spotify](https://open.spotify.com/user/spotify) - 352,355 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 352,352 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 40 | [sorry es que soy bipolarrr](https://open.spotify.com/track/33BselzygJVodjKKHVLpiH) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [sorry es que soy bipolarrr](https://open.spotify.com/album/3ll4hIoivK1wpONt3MDxg5) | 3:40 |
 | 41 | [emotional affair](https://open.spotify.com/track/7IILWCwr8Tgw6lXxjXriT2) | [Meg Smith](https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg) | [emotional affair](https://open.spotify.com/album/2OE6A20vXzzFh66WJ23Xmu) | 3:01 |
 | 42 | [and when you look at the stars](https://open.spotify.com/track/27vDk9u9ayaGS1S2mMW4eQ) | [Vian Izak](https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq), [I The Ai](https://open.spotify.com/artist/6VmRC70MH7DjZdbYGoNCCc) | [and when you look at the stars](https://open.spotify.com/album/1wq9Bn9K8RCYftBDDb2Wya) | 3:15 |
-| 43 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
+| 43 | [take your vibes and go](https://open.spotify.com/track/4qrP6yd1i6ZRP543jECwIg) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [take your vibes and go](https://open.spotify.com/album/5ZhVETUeqLAWy2YDmF6VPm) | 2:14 |
 | 44 | [HEART123](https://open.spotify.com/track/6SRDN6AyatafwXnJh6KI1n) | [Syzy](https://open.spotify.com/artist/4Uu7oYMJmwNxi1qTXaeRDL), [kmoe](https://open.spotify.com/artist/48wt14F9gzlkNDRdXyJTQz) | [The weight of the world](https://open.spotify.com/album/0DyQE2u4e8p9G6721QcdnW) | 5:01 |
 | 45 | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/track/6aA1acXyys7qbWxObLbwjj) | [OMNOM](https://open.spotify.com/artist/3PYRXP25JcbqhvNaJYcnWy), [XKYLAR](https://open.spotify.com/artist/0wel071ci7nqjnNT0ywKWq) | [By Myself \(feat\. XKYLAR\)](https://open.spotify.com/album/0Wyj5CPSohAec06LavTbTh) | 2:18 |
 | 46 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 |

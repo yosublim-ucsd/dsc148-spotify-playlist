@@ -1,12 +1,12 @@
 {
   "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
-  "num_followers": 813347,
+  "num_followers": 813363,
   "original_name": "K-Pop Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtV+kAAAAABNRa8vWRxwSykGXsKV9URf",
+  "snapshot_id": "Zto/wAAAAAA9D2XIL3VeV56G9NyVriF9",
   "tracks": [
     {
       "added_at": "2024-09-02 09:00:00",
@@ -25,20 +25,40 @@
       "url": "https://open.spotify.com/track/0GqHe3PHWp2t5Pxkn0lCqD"
     },
     {
-      "added_at": "2024-09-02 09:00:00",
+      "added_at": "2024-09-05 23:33:20",
       "album": {
-        "name": "Dreamy Resonance",
-        "url": "https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m"
+        "name": "Stand Out",
+        "url": "https://open.spotify.com/album/4ec8gp20EwMyersWF7Ewx5"
       },
       "artists": [
         {
-          "name": "OH MY GIRL",
-          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+          "name": "YUNGIN",
+          "url": "https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 194840,
-      "name": "Classified",
-      "url": "https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv"
+      "duration_ms": 172235,
+      "name": "Stand Out",
+      "url": "https://open.spotify.com/track/1jQbHZEM4Qoes0hAbMmAF9"
+    },
+    {
+      "added_at": "2024-09-05 23:33:20",
+      "album": {
+        "name": "TTYL",
+        "url": "https://open.spotify.com/album/3YTXG84SaFHqRP7zXRdCHg"
+      },
+      "artists": [
+        {
+          "name": "Loossemble",
+          "url": "https://open.spotify.com/artist/1kbVoxpFh1eDOXumLmVdKY"
+        }
+      ],
+      "duration_ms": 183786,
+      "name": "TTYL",
+      "url": "https://open.spotify.com/track/3AXryyinIY17WLddIcNjwT"
     },
     {
       "added_at": "2024-09-02 09:00:00",
@@ -55,6 +75,54 @@
       "duration_ms": 171293,
       "name": "Black Out",
       "url": "https://open.spotify.com/track/5xJWKlQO3wDUgoyNrmm4Bg"
+    },
+    {
+      "added_at": "2024-09-05 23:33:20",
+      "album": {
+        "name": "YOUNHA 7th Album 'GROWTH THEORY'",
+        "url": "https://open.spotify.com/album/7B2dOs6eNhgmIWsP3zHKpm"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Sun\ufb01sh",
+      "url": "https://open.spotify.com/track/1VQwQsaa6aUHg9gQP0llyU"
+    },
+    {
+      "added_at": "2024-09-02 09:00:00",
+      "album": {
+        "name": "Dreamy Resonance",
+        "url": "https://open.spotify.com/album/4XZFgEjQ4Un1TNHAtTC87m"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Classified",
+      "url": "https://open.spotify.com/track/3zNqNoFNpPoXYrYJzCedzv"
+    },
+    {
+      "added_at": "2024-09-05 23:33:20",
+      "album": {
+        "name": "GOOD ViBES",
+        "url": "https://open.spotify.com/album/25xwwXAZFucFkfAydzsdwE"
+      },
+      "artists": [
+        {
+          "name": "BANG YEDAM",
+          "url": "https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "O-HE",
+      "url": "https://open.spotify.com/track/7BQh3REaRapmTHSQh0LWkh"
     },
     {
       "added_at": "2024-09-02 09:00:00",
@@ -723,22 +791,6 @@
     {
       "added_at": "2024-09-02 09:00:00",
       "album": {
-        "name": "Open Always Wins",
-        "url": "https://open.spotify.com/album/5NZ1IEOLWVRYIhN8uRPyZs"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 142344,
-      "name": "Open Always Wins",
-      "url": "https://open.spotify.com/track/7lqkrW4NxWuC8nVW1qnh2k"
-    },
-    {
-      "added_at": "2024-09-02 09:00:00",
-      "album": {
         "name": "WITNESS",
         "url": "https://open.spotify.com/album/5Jx6O54pZxFGlMaeO25FWt"
       },
@@ -771,22 +823,6 @@
     {
       "added_at": "2024-09-02 09:00:00",
       "album": {
-        "name": "Balloon in Love",
-        "url": "https://open.spotify.com/album/2AxY2j1VRmHSoIooqtQ7p9"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Balloon in Love",
-      "url": "https://open.spotify.com/track/3x6unDluyCL4v5AeGrAVGA"
-    },
-    {
-      "added_at": "2024-09-02 09:00:00",
-      "album": {
         "name": "OST",
         "url": "https://open.spotify.com/album/2ZFE0nxTNIgX1jMCfT0L0W"
       },
@@ -803,38 +839,6 @@
       "duration_ms": 181000,
       "name": "OST ( Feat.CHANMINA )",
       "url": "https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV"
-    },
-    {
-      "added_at": "2024-09-02 09:00:00",
-      "album": {
-        "name": "McNasty",
-        "url": "https://open.spotify.com/album/0Yz3zZhK6e0B5zUTqM5hZV"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 192378,
-      "name": "McNasty",
-      "url": "https://open.spotify.com/track/0nMwj215nyfEOER5AJWLDF"
-    },
-    {
-      "added_at": "2024-09-02 09:00:00",
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/45r381iIEXYrZ3N8fw4mPS"
-      },
-      "artists": [
-        {
-          "name": "HA SUNG WOON",
-          "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
-        }
-      ],
-      "duration_ms": 179706,
-      "name": "Blessed",
-      "url": "https://open.spotify.com/track/1dx6WBxflzpIrFvkMPq388"
     },
     {
       "added_at": "2024-09-02 09:00:00",

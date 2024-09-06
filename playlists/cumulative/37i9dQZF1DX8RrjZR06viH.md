@@ -4,7 +4,7 @@
 
 > 🍂
 
-99 songs - 4 hr 58 min
+100 songs - 5 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,12 +60,13 @@
 | [Mamma sa det ordne se for snille piker](https://open.spotify.com/track/347ClSRvnHma5rSqUSL9R8) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [Mamma sa det ordne se for snille piker](https://open.spotify.com/album/280RBk4Y0wc3fxu0wrBbpF) | 3:25 | 2024-08-29 |  |
 | [Marilyn Monroe](https://open.spotify.com/track/0LTzekaSg1V34NHCDhITP2) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Marilyn Monroe](https://open.spotify.com/album/1yKRXICOj4bFCRK75e8DDw) | 2:54 | 2024-06-27 |  |
 | [Meri Jaan \- LePark Studio, Milan](https://open.spotify.com/track/1nkfNJaIe6XlSQwT1OS7pe) | [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN), [Omar Sheriff](https://open.spotify.com/artist/7bD3cjwHYADj9rsonLyx7U), [The Quick Style](https://open.spotify.com/artist/6vLa9prTXyHYhTSC8z7IKC), [Mo Ayn](https://open.spotify.com/artist/0WDI0f4hXiPrIrS4TUJDX7) | [DIASPORA DREAMS \(THE QUICK STYLE SELECTION\)](https://open.spotify.com/album/4CwJ4eyjJVNfoOT6dcs9pV) | 3:49 | 2024-06-27 |  |
+| [Min for en kveld](https://open.spotify.com/track/7aI28hcZEtBkP0IsX8uE3e) | [No\. 4](https://open.spotify.com/artist/24YjyPpqFQi1Oh7PQSBT3J) | [Min for en kveld](https://open.spotify.com/album/3wMlCNk871zgqen0FTWD2g) | 2:33 | 2024-09-05 |  |
 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 | 2024-06-27 |  |
 | [Moving On](https://open.spotify.com/track/0HUByUXgU8lWbjraKlp6eA) | [Hannah Storm](https://open.spotify.com/artist/5wUnpBAfC90M9OSMO7umpL) | [Moving On](https://open.spotify.com/album/6bDFH4AggFFKfMEcVP1Jym) | 2:47 | 2024-06-27 | 2024-08-30 |
 | [Nakna](https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1) | [Omar Rudberg](https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd), [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [Nakna](https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B) | 3:12 | 2024-06-27 | 2024-09-01 |
 | [Never Let Me Go](https://open.spotify.com/track/4eU6WBjr2RXhTJSmJ0r22c) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Never Let Me Go](https://open.spotify.com/album/5K91iGlsM7YxI6JIojSZzm) | 3:36 | 2024-06-27 | 2024-09-01 |
 | [Noen som forstår](https://open.spotify.com/track/0skJrhhZqWp7Q0Czpxxrlb) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL) | [KLIPP MEG I TI OG LIM MEG SAMMEN](https://open.spotify.com/album/2g0oZHtjgfF5VMQJXR2f2g) | 3:15 | 2024-06-27 |  |
-| [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 |  |
+| [Nostalgi](https://open.spotify.com/track/2KB8rqbA52HPAKBcutVp51) | [Kapteinen](https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9) | [Nostalgi](https://open.spotify.com/album/4DACSsBHMeZ8jKxcbZaA7w) | 2:37 | 2024-08-01 | 2024-09-06 |
 | [Nå har du meg](https://open.spotify.com/track/33coicso7oegceR6nB7Srl) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Nå har du meg](https://open.spotify.com/album/5MjN3dWFsEMB2HuyjaeXBy) | 3:41 | 2024-06-27 |  |
 | [ok](https://open.spotify.com/track/4R467GbyTVsRKQxArOWFVK) | [Synne Vo](https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9) | [ok](https://open.spotify.com/album/7Ce3hHKWUyEvmAp4Dam0ov) | 2:29 | 2024-06-27 |  |
 | [Om hundre år](https://open.spotify.com/track/0fQ46jJDD5pjok8iX7XuCX) | [Ulrikke](https://open.spotify.com/artist/5h9tiTx6BP5l5ZCrI7cUYh) | [Om hundre år](https://open.spotify.com/album/4Q7zV0oamgMerg3QsWhmJ9) | 2:35 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > Rap from the hoods of Dilli featuring KR$NA
 
-154 songs - 7 hr 55 min
+155 songs - 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Asal G](https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 3:41 | 2023-08-28 |  |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-10 | 2023-09-02 |
 | [BAD GUY \(DG\)](https://open.spotify.com/track/0dTZ4voGuikJX6kI0a9v7g) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [BAD GUY \(DG\)](https://open.spotify.com/album/5oFzkhlE24nHE0Ld54UTdL) | 1:51 | 2023-03-10 | 2024-07-19 |
+| [BADA](https://open.spotify.com/track/1wXboYx3lvl38SHBj532Es) | [Karma](https://open.spotify.com/artist/2RS1R0tueoL8EJXTSBAt2F), [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe) | [BADA](https://open.spotify.com/album/1lKabEz08F0w7UOmMsu8Wm) | 2:34 | 2024-09-05 |  |
 | [Balawala Bad Bois](https://open.spotify.com/track/2v692a5boFb35NymerzqRH) | [Dakait](https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7), [Sez on the Beat](https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe) | [Dev Nagri Aur Main](https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6) | 3:16 | 2023-10-11 | 2024-06-08 |
 | [Banjo](https://open.spotify.com/track/2tYTDrGUfyhDv9SZXyY8yG) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Banjo](https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt) | 2:18 | 2023-03-10 |  |
 | [Bas Ke Bahar](https://open.spotify.com/track/6p6HR5HKDBLqiT4jH4dMpu) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Bas Ke Bahar](https://open.spotify.com/album/4LuJ0yiuHkZyGo5RjbE6jW) | 3:09 | 2023-03-10 |  |
@@ -52,7 +53,7 @@
 | [Glitch](https://open.spotify.com/track/6AkmSJKHHyI07I1qLOVMVu) | [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui), [ISHH](https://open.spotify.com/artist/6QQsEqBC1lD3g2iMHIb8F8) | [Overthink](https://open.spotify.com/album/1SyRpT0v6h3OtAX6l4Gtpx) | 3:30 | 2023-03-10 |  |
 | [Goat Dekho](https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Goat Dekho](https://open.spotify.com/album/4IvljiJx9k9Vuog309ll8r) | 3:33 | 2023-03-10 | 2023-10-12 |
 | [GTA NCR](https://open.spotify.com/track/5SVmwl5avNHU3clEo86jE9) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO), [Wamp](https://open.spotify.com/artist/6zpUQnCceOC1hkBQWLrZKk) | [GTA NCR](https://open.spotify.com/album/5Cji4DtVI1prgnhDMGjxTE) | 2:41 | 2023-03-10 |  |
-| [Haath Toh Laga](https://open.spotify.com/track/04Vcyk4f096du3nWURpqE3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/76fVcAIaboYxvTj2xdceIw) | 2:27 | 2024-04-09 |  |
+| [Haath Toh Laga](https://open.spotify.com/track/04Vcyk4f096du3nWURpqE3) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/76fVcAIaboYxvTj2xdceIw) | 2:27 | 2024-04-09 | 2024-09-06 |
 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 | 2023-03-10 | 2024-04-19 |
 | [Haramzada](https://open.spotify.com/track/0OoiVEI8YENqBjW3KsBSXn) | [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Jai Veeru](https://open.spotify.com/album/2JJqakAGViUmTgkxNhQ4Xg) | 1:49 | 2024-07-19 |  |
 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 | 2023-03-10 |  |

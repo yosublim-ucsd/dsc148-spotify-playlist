@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Italy.",
-  "num_followers": 1077199,
+  "num_followers": 1077278,
   "original_name": "Top 50 - Italy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LmvIcAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "Lm0Z8AAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/19DHPlTC2gx1j4jrFzNbwL"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Take 5",
         "url": "https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "ICON",
         "url": "https://open.spotify.com/album/7wd0zT4UYy8sJwPt9lMqyJ"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/2Q4Z2js0C6DDUVc7GuLGdF"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Si Antes Te Hubiera Conocido",
         "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -117,7 +117,7 @@
       "url": "https://open.spotify.com/track/4ZRVI6xwgbjgW5SgJB468n"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "STORIE BREVI",
         "url": "https://open.spotify.com/album/6c4p2PNyp5Ek43s2IDX5Vh"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/5GZupy8zByqFmXvpwZ4JOC"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -161,23 +161,7 @@
       "url": "https://open.spotify.com/track/1IkzT4wzFJRbFOmKOSqTen"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Paprika",
-        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
-      },
-      "artists": [
-        {
-          "name": "Ghali",
-          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Paprika",
-      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "RADIO SAKURA",
         "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
@@ -197,7 +181,39 @@
       "url": "https://open.spotify.com/track/0lXVWzLwDnKB7Ro5p0AJPg"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Paprika",
+        "url": "https://open.spotify.com/album/2y3nSOKzHqCC6CDk4juId6"
+      },
+      "artists": [
+        {
+          "name": "Ghali",
+          "url": "https://open.spotify.com/artist/3egWSWp7Y4FyCKIyvXbw7L"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Paprika",
+      "url": "https://open.spotify.com/track/7kS2AVRk5Yj6BTj8PyJFfC"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Rossetto e caff\u00e8",
+        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
+      },
+      "artists": [
+        {
+          "name": "Sal Da Vinci",
+          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Rossetto e caff\u00e8",
+      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "DINASTIA",
         "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
@@ -217,23 +233,7 @@
       "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Rossetto e caff\u00e8",
-        "url": "https://open.spotify.com/album/0emUWUzKXXzwcJdStSQdIM"
-      },
-      "artists": [
-        {
-          "name": "Sal Da Vinci",
-          "url": "https://open.spotify.com/artist/7cdIY4mDfM1dbjgl7s2fGR"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Rossetto e caff\u00e8",
-      "url": "https://open.spotify.com/track/1nLGeFQuY7PFxrou3ezEvP"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Black Nirvana",
         "url": "https://open.spotify.com/album/0RG1VpmgkIuAN9UvBzuvGd"
@@ -249,27 +249,47 @@
       "url": "https://open.spotify.com/track/0kcXZMVoH1q923xLM9OKf6"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
-        "name": "Devastante",
-        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
       "artists": [
         {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+          "name": "Sillyelly",
+          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
         }
       ],
-      "duration_ms": 190122,
-      "name": "Devastante",
-      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
+      "duration_ms": 149091,
+      "name": "HELLO KITTY (feat. Sillyelly)",
+      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "BBE (feat. Lazza)",
+      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "HO VOGLIA DI TE",
         "url": "https://open.spotify.com/album/46WmEktGt3rjxtsOqXIWXj"
@@ -293,27 +313,7 @@
       "url": "https://open.spotify.com/track/3EJSUFQGUaTm4Km2Zri1Zp"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "BBE (feat. Lazza)",
-      "url": "https://open.spotify.com/track/4I2SWtTgB08SICbqN6983B"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "NEI LETTI DEGLI ALTRI",
         "url": "https://open.spotify.com/album/1yUw0JvcsGuc6uo0s7nGi8"
@@ -329,27 +329,51 @@
       "url": "https://open.spotify.com/track/7Isi6whc5DD6A5wH5nqyUw"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "Devastante",
+        "url": "https://open.spotify.com/album/4kcXg1nme5PmpGe9Jqjd8n"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
         },
         {
-          "name": "Sillyelly",
-          "url": "https://open.spotify.com/artist/1rWg0CyGoCsRYYtpj5NC5P"
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
         }
       ],
-      "duration_ms": 149091,
-      "name": "HELLO KITTY (feat. Sillyelly)",
-      "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
+      "duration_ms": 190122,
+      "name": "Devastante",
+      "url": "https://open.spotify.com/track/01XexSX2HDgVDxnnHEBblB"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
+      "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "EL COMIENZO",
         "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
@@ -369,7 +393,7 @@
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "SEXY SHOP",
         "url": "https://open.spotify.com/album/3Lf8T7QRFq98I0OELNBh4y"
@@ -389,7 +413,23 @@
       "url": "https://open.spotify.com/track/0GgIXlhkacCRh30t2Se92q"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "ICON",
+        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
+      },
+      "artists": [
+        {
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+        }
+      ],
+      "duration_ms": 147498,
+      "name": "MIU MIU",
+      "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Move",
         "url": "https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS"
@@ -421,47 +461,7 @@
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "MALAVITA",
-        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
-      },
-      "artists": [
-        {
-          "name": "Coma_Cose",
-          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
-        }
-      ],
-      "duration_ms": 166725,
-      "name": "MALAVITA",
-      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        },
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        },
-        {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "DOPO LE 4 (feat. Bresh & Tedua)",
-      "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Mezzo Rotto (feat. BigMama)",
         "url": "https://open.spotify.com/album/4g3qTNaYtKUPWKrdQunnSd"
@@ -481,7 +481,23 @@
       "url": "https://open.spotify.com/track/0cDq1fpfr9NNFNAKQXLLK7"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "MALAVITA",
+        "url": "https://open.spotify.com/album/0uPO1QkqyQi4aw1LcbMntE"
+      },
+      "artists": [
+        {
+          "name": "Coma_Cose",
+          "url": "https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us"
+        }
+      ],
+      "duration_ms": 166725,
+      "name": "MALAVITA",
+      "url": "https://open.spotify.com/track/49tdZnvKAnJP6Xb3PUucPD"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -505,39 +521,7 @@
       "url": "https://open.spotify.com/track/5oJVfPUHsD7A8bZtKVqgL2"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Il Tempo Cura",
-        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
-      },
-      "artists": [
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        }
-      ],
-      "duration_ms": 152904,
-      "name": "Il Tempo Cura",
-      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "ICON",
-        "url": "https://open.spotify.com/album/0zGirhBBoAjHz8t37u1IRW"
-      },
-      "artists": [
-        {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
-        }
-      ],
-      "duration_ms": 147498,
-      "name": "MIU MIU",
-      "url": "https://open.spotify.com/track/0ZjxK3xSqyFEDKMMnA7fyl"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "ALTROVE",
         "url": "https://open.spotify.com/album/2VHpXm9h05eiyteYReWkK8"
@@ -553,7 +537,39 @@
       "url": "https://open.spotify.com/track/1A1xTBtNnJ09JNINiLjdOK"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Il Tempo Cura",
+        "url": "https://open.spotify.com/album/16t4humL85l0QvihcPSYRN"
+      },
+      "artists": [
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        }
+      ],
+      "duration_ms": 152904,
+      "name": "Il Tempo Cura",
+      "url": "https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Vecchio stampo & West Coast",
+        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "duration_ms": 183889,
+      "name": "Vecchio stampo & West Coast",
+      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "La Divina Commedia (Deluxe)",
         "url": "https://open.spotify.com/album/21A98jXqZkeJNNv8fcFTaD"
@@ -573,23 +589,23 @@
       "url": "https://open.spotify.com/track/5LDmD4cFF0C8BCf3tVvyBW"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
-        "name": "Vecchio stampo & West Coast",
-        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+        "name": "Torcida",
+        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
       },
       "artists": [
         {
-          "name": "Frezza",
-          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
         }
       ],
-      "duration_ms": 183889,
-      "name": "Vecchio stampo & West Coast",
-      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
+      "duration_ms": 174628,
+      "name": "Torcida",
+      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Bad Boy (feat. Shiva, Capo Plaza)",
         "url": "https://open.spotify.com/album/5OSF6lRPctmMUhtpWSyJbd"
@@ -617,7 +633,7 @@
       "url": "https://open.spotify.com/track/2RtHstoMxzCZp3QaR5unjR"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "DIO LO SA",
         "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
@@ -637,23 +653,7 @@
       "url": "https://open.spotify.com/track/69VAE3LA7jn5rGAsdflMOS"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Torcida",
-        "url": "https://open.spotify.com/album/7bl7T20VOkLwcLSBHUcq9V"
-      },
-      "artists": [
-        {
-          "name": "Bresh",
-          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
-        }
-      ],
-      "duration_ms": 174628,
-      "name": "Torcida",
-      "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "BACIO DI GIUDA (feat. Mida & VillaBanks)",
         "url": "https://open.spotify.com/album/3z9ZS5Px2IrcsgagRYUqkt"
@@ -677,23 +677,7 @@
       "url": "https://open.spotify.com/track/3zp0YPZ5jA8XS9UPmA3O5j"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Popolari",
         "url": "https://open.spotify.com/album/3q0jSQN78hoqBtXB2JDaw5"
@@ -713,131 +697,23 @@
       "url": "https://open.spotify.com/track/1svXgJMHCJsQzy5pzBl9Nl"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
-        "name": "100 MESSAGGI",
-        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
       },
       "artists": [
         {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 244096,
-      "name": "100 MESSAGGI",
-      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "DINASTIA",
-        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        },
-        {
-          "name": "Club Dogo",
-          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
-        }
-      ],
-      "duration_ms": 203399,
-      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
-      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Sfera Ebbasta",
-        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
-      },
-      "artists": [
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Visiera A Becco",
-      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        }
-      ],
-      "duration_ms": 119217,
-      "name": "BIKINI (feat. Gu\u00e8)",
-      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "DIO LO SA",
-        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
-      },
-      "artists": [
-        {
-          "name": "Geolier",
-          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "RADIO SAKURA",
-        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
-      },
-      "artists": [
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        }
-      ],
-      "duration_ms": 225561,
-      "name": "CLICK BOOM!",
-      "url": "https://open.spotify.com/track/1HCwbTHBvC4XCIC417NB5k"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 210373,
-      "name": "BIRDS OF A FEATHER",
-      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "Baby Mama",
         "url": "https://open.spotify.com/album/3P40qeC2k4oGbF89ppRUJO"
@@ -853,51 +729,7 @@
       "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "VETRI NERI",
-        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
-      },
-      "artists": [
-        {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Capo Plaza",
-          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
-        }
-      ],
-      "duration_ms": 164776,
-      "name": "VETRI NERI",
-      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "DINASTIA",
-        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
-      },
-      "artists": [
-        {
-          "name": "Cosang",
-          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
-        },
-        {
-          "name": "LIBERATO",
-          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
-        }
-      ],
-      "duration_ms": 234230,
-      "name": "Sbagli e te ne vai (feat. LIBERATO)",
-      "url": "https://open.spotify.com/track/2IWIpzS9zuNIA29nwUE8jK"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "VERA BADDIE",
         "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
@@ -921,7 +753,115 @@
       "url": "https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "duration_ms": 119217,
+      "name": "BIKINI (feat. Gu\u00e8)",
+      "url": "https://open.spotify.com/track/1qexrlq05Ak4NCthyLOhbd"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "100 MESSAGGI",
+        "url": "https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 244096,
+      "name": "100 MESSAGGI",
+      "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "DIO LO SA",
+        "url": "https://open.spotify.com/album/1bdXMUERNI9dwREDryk6C7"
+      },
+      "artists": [
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        },
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "IO T\u2019O GIUR\u2019 (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/4z9xPVz2Sii4dhM7yhxOpj"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Club Dogo",
+          "url": "https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv"
+        }
+      ],
+      "duration_ms": 203399,
+      "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
+      "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "RADIO SAKURA",
+        "url": "https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo"
+      },
+      "artists": [
+        {
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
+        }
+      ],
+      "duration_ms": 225561,
+      "name": "CLICK BOOM!",
+      "url": "https://open.spotify.com/track/1HCwbTHBvC4XCIC417NB5k"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/1mpy3NJNqmNhzKNorb6pkl"
@@ -941,7 +881,83 @@
       "url": "https://open.spotify.com/track/3twPYZvOOoVjLx5BclA2mT"
     },
     {
-      "added_at": "2024-09-04 09:34:13",
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Sfera Ebbasta",
+        "url": "https://open.spotify.com/album/0jCjYC7ABAxCsSf0wqFbsc"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Visiera A Becco",
+      "url": "https://open.spotify.com/track/4ySxBjhmdnkeFUqhKxW3cY"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "VETRI NERI",
+        "url": "https://open.spotify.com/album/1vU1ePx8IOwsYRo5nh63nn"
+      },
+      "artists": [
+        {
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Capo Plaza",
+          "url": "https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n"
+        }
+      ],
+      "duration_ms": 164776,
+      "name": "VETRI NERI",
+      "url": "https://open.spotify.com/track/1K9qAxGT4cWUicf2OezSen"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
+      "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "duration_ms": 234230,
+      "name": "Sbagli e te ne vai (feat. LIBERATO)",
+      "url": "https://open.spotify.com/track/2IWIpzS9zuNIA29nwUE8jK"
+    },
+    {
+      "added_at": "2024-09-05 09:04:49",
       "album": {
         "name": "FERITE",
         "url": "https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz"
@@ -959,26 +975,6 @@
       "duration_ms": 151515,
       "name": "Soldi Arrotolati (feat. ANNA)",
       "url": "https://open.spotify.com/track/1zp4TEQ9zaNGXTjY6fsz1p"
-    },
-    {
-      "added_at": "2024-09-04 09:34:13",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     }
   ],
   "unique_name": "Top 50 - Italy",

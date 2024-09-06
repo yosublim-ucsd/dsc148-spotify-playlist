@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 139600,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/0LOfO55KZs4fW7UtyQJfRJ"
@@ -1014,7 +1014,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 218377,
       "name": "Brightest Blue",
       "url": "https://open.spotify.com/track/2e7bUVyj8XHkxQ3IKCyrMh"
@@ -1097,6 +1097,24 @@
     },
     {
       "album": {
+        "name": "Calm Lunar",
+        "url": "https://open.spotify.com/album/3isZtrMCSlbxhOpJnxPDgf"
+      },
+      "artists": [
+        {
+          "name": "Calil",
+          "url": "https://open.spotify.com/artist/0wZ9TiIXE76xXjZUUbVmN7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150250,
+      "name": "Calm Lunar",
+      "url": "https://open.spotify.com/track/6SUhLox7Th2ve68hiMwivd"
+    },
+    {
+      "album": {
         "name": "Calming Measures",
         "url": "https://open.spotify.com/album/1I4EAT9tMeRya2VeCdABH8"
       },
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 200000,
       "name": "Carnivoran",
       "url": "https://open.spotify.com/track/38lCT94Uyy4t7n7UcHJ4bA"
@@ -1601,6 +1619,24 @@
     },
     {
       "album": {
+        "name": "Designed",
+        "url": "https://open.spotify.com/album/4VvgNYp59dwTd4lvzRcQTW"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Designed",
+      "url": "https://open.spotify.com/track/3eLLRRVnTQ41O6f6Eb2aU0"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ"
       },
@@ -1738,7 +1774,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 202000,
       "name": "Dream Dust",
       "url": "https://open.spotify.com/track/6CgRz9Iave95cynHn7yVEA"
@@ -1846,7 +1882,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 166285,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6g11H9Qg8lcJwEIS39e6GN"
@@ -3286,7 +3322,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 169411,
       "name": "Immersion",
       "url": "https://open.spotify.com/track/3OSnZ592Due23ZwYwWOqyT"
@@ -3797,6 +3833,24 @@
     },
     {
       "album": {
+        "name": "Magnetic Reflections",
+        "url": "https://open.spotify.com/album/4Dz3P1ZJajvtDyHRgpkpD5"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159392,
+      "name": "Magnetic Reflections",
+      "url": "https://open.spotify.com/track/0PGuTGTxKymlVqzJ5pcOWx"
+    },
+    {
+      "album": {
         "name": "Mandala",
         "url": "https://open.spotify.com/album/4QCv678G6eTUG92CwBuwnA"
       },
@@ -3916,7 +3970,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213978,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/15SJMsBLp7GR8FH9WvamuG"
@@ -4442,6 +4496,24 @@
       "duration_ms": 166678,
       "name": "Next to Nothing",
       "url": "https://open.spotify.com/track/15BlDyzMK5LyPeHmjRhoAm"
+    },
+    {
+      "album": {
+        "name": "Nightfall",
+        "url": "https://open.spotify.com/album/6j6HoKkcGAKxgs8e1Uti3x"
+      },
+      "artists": [
+        {
+          "name": "Ceilidh",
+          "url": "https://open.spotify.com/artist/3c4jBYA9Q6SFvKxMBTACgg"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160588,
+      "name": "Nightfall",
+      "url": "https://open.spotify.com/track/2eYqdy2FDpIIDU6QyTHp4s"
     },
     {
       "album": {
@@ -6688,7 +6760,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 129263,
       "name": "This Now",
       "url": "https://open.spotify.com/track/6bcf6i4amFipG1r2ScmfHL"
@@ -6782,6 +6854,24 @@
       "duration_ms": 199663,
       "name": "Through The Self",
       "url": "https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl"
+    },
+    {
+      "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/7clzQhRpOnDDE7qLcmR9ER"
+      },
+      "artists": [
+        {
+          "name": "Los Sobriles",
+          "url": "https://open.spotify.com/artist/3JST5hIfjYPRqhKMJXqku2"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165750,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/5xHglc8A25dLzxUUsuU1XE"
     },
     {
       "album": {
@@ -7268,7 +7358,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 212307,
       "name": "Wave After Wave",
       "url": "https://open.spotify.com/track/3OUKRGnpsMenK14ZDdSHmk"
@@ -7430,7 +7520,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 169382,
       "name": "Wu Wei",
       "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"

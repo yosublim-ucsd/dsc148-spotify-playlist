@@ -825,6 +825,24 @@
     },
     {
       "album": {
+        "name": "Black Poppies",
+        "url": "https://open.spotify.com/album/5fCUtI8PdXP8uzxMLURH2n"
+      },
+      "artists": [
+        {
+          "name": "Underworld",
+          "url": "https://open.spotify.com/artist/1PXHzxRDiLnjqNrRn2Xbsa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172200,
+      "name": "Black Poppies",
+      "url": "https://open.spotify.com/track/3txBT43QunqzMHvsifpxrT"
+    },
+    {
+      "album": {
         "name": "Blackbox Life Recorder 21f",
         "url": "https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX"
       },
@@ -1918,6 +1936,28 @@
       "duration_ms": 194195,
       "name": "Eyes Closed - Piano Version",
       "url": "https://open.spotify.com/track/1C0Uqh9cRMLPw9WpZzL4Z1"
+    },
+    {
+      "album": {
+        "name": "Faded Corners (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/4dlNPTexE4Lh8wCcu6bHV8"
+      },
+      "artists": [
+        {
+          "name": "Cuushe",
+          "url": "https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282028,
+      "name": "Faded Corners - Salamanda Remix",
+      "url": "https://open.spotify.com/track/5uQtfKfU4IWkDaGL7lvvez"
     },
     {
       "album": {
@@ -3558,7 +3598,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 216524,
       "name": "Let Me Go",
       "url": "https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ"
@@ -4564,7 +4604,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 189880,
       "name": "Notes From A Wrist",
       "url": "https://open.spotify.com/track/7hhBtKyUAqWFu5rpLkyWVq"

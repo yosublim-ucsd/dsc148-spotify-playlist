@@ -2,7 +2,7 @@
 
 ### [This Is Brian Eno](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4C4Xm0)
 
-> This is Brian Eno\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Brian Eno\. The essential tracks, all in one playlist.
 
 168 songs - 13 hr 4 min
 
@@ -156,7 +156,7 @@
 | [These Small Noises](https://open.spotify.com/track/7kGKNGydrkDDo580fNWAaB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:22 | 2022-10-18 | 2022-11-05 |
 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 | 2022-05-29 | 2022-10-13 |
 | [Thursday Afternoon \- Edit](https://open.spotify.com/track/6iDZTMT9xdH84NS4N5L39x) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Eno: Soft Edges](https://open.spotify.com/album/79Y0yXjDGSMvMlALXmqUjk) | 3:40 | 2024-08-09 | 2024-08-30 |
-| [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 | 2023-11-10 | 2024-09-05 |
+| [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 | 2023-11-10 |  |
 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 | 2023-05-22 | 2024-09-04 |
 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 | 2023-01-17 | 2024-02-26 |
 | [Under \- From "Cool World"](https://open.spotify.com/track/5TlKBQIYCuGaCVfnXc2u0l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 5:19 | 2023-02-23 | 2023-03-10 |

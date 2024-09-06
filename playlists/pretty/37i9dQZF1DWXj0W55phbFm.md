@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,874 likes - 100 songs - 10 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,935 likes - 100 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 72 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 73 | [Response \- Live](https://open.spotify.com/track/6VDrgdsSZ5Z42KAko100a0) | [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [A Rift In Decorum: Live At The Village Vanguard](https://open.spotify.com/album/7JSvfznch1vfoMOJxd7zPb) | 5:37 |
 | 74 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 |
-| 75 | [Paul's Pal \- Rudy Van Gelder Edition/Digital Remaster/2006](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \(Remastered\)](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
+| 75 | [Paul's Pal \- Remastered 2006/Rudy Van Gelder Edition](https://open.spotify.com/track/36jo8mKf6z7Noc46obDOL3) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Off To The Races \- Remastered](https://open.spotify.com/album/37LKWNJ1xP9OlbKwjDYkZi) | 7:06 |
 | 76 | [Stockholm Sweetnin'](https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Swedish All Stars](https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG) | [With The Swedish All Stars Vol\. 1](https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv) | 5:20 |
 | 77 | [Dear Old Stockholm](https://open.spotify.com/track/0HvbCzWKX92WGotTTD1Pdb) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv) | [Simply Stated](https://open.spotify.com/album/4wEB2Jr7x5yEKf0Z1cySwK) | 10:00 |
 | 78 | [Trance Dance](https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO) | [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Goran Kajfes Subtropic Arkestra](https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7) | [The Reason Why Vol\. 3](https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4) | 8:53 |

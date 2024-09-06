@@ -1,12 +1,12 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 753245,
+  "num_followers": 753482,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs/nZAAAAADXf6lpLZHxQ1+jJY6j52M3",
+  "snapshot_id": "ZtmzPgAAAABoPSYeh+PjxGXFmW7sbim0",
   "tracks": [
     {
       "added_at": "2024-08-23 00:00:00",
@@ -201,6 +201,26 @@
       "url": "https://open.spotify.com/track/6jKBO4xSLlNIiXwRwd3eu1"
     },
     {
+      "added_at": "2024-09-05 13:33:50",
+      "album": {
+        "name": "Black Classical Music",
+        "url": "https://open.spotify.com/album/2A5yzYdLTVTLQaCp4CTKwG"
+      },
+      "artists": [
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        },
+        {
+          "name": "Shabaka Hutchings",
+          "url": "https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o"
+        }
+      ],
+      "duration_ms": 271826,
+      "name": "Raisins Under the Sun (feat. Shabaka Hutchings)",
+      "url": "https://open.spotify.com/track/6ToLDO9Mh5nV4UvAgIDo3W"
+    },
+    {
       "added_at": "2024-08-23 00:00:00",
       "album": {
         "name": "Marechi\u00e0",
@@ -219,26 +239,6 @@
       "duration_ms": 264929,
       "name": "Marechi\u00e0",
       "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Kolaba",
-        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
-      },
-      "artists": [
-        {
-          "name": "Afriquoi",
-          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
-        },
-        {
-          "name": "Kudaushe Matimba",
-          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
-        }
-      ],
-      "duration_ms": 238420,
-      "name": "Kudaushe",
-      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -483,18 +483,22 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+        "name": "Kolaba",
+        "url": "https://open.spotify.com/album/3VTLLiRXLrDxRqgOaA7yjW"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "Afriquoi",
+          "url": "https://open.spotify.com/artist/2WEEw0QrAOyeMHpeXnDqQT"
+        },
+        {
+          "name": "Kudaushe Matimba",
+          "url": "https://open.spotify.com/artist/0To9zwZ50qjiPoWKnESnKt"
         }
       ],
-      "duration_ms": 159443,
-      "name": "Pingpxng",
-      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
+      "duration_ms": 238420,
+      "name": "Kudaushe",
+      "url": "https://open.spotify.com/track/7hGidl99Umesys0O0CzXTS"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -567,18 +571,18 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Chan Chan",
-        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
       "artists": [
         {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 260320,
-      "name": "Chan Chan",
-      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+      "duration_ms": 159443,
+      "name": "Pingpxng",
+      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -603,6 +607,22 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
+        "name": "Chan Chan",
+        "url": "https://open.spotify.com/album/4i8oCrEGBTqhFW4rjTPkgp"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 260320,
+      "name": "Chan Chan",
+      "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
         "name": "Miniatures de auto rhythm",
         "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 143617,
       "name": "Faux savage",
       "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Alegr\u00eda (Yuksek Remix) - Single",
-        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
-      },
-      "artists": [
-        {
-          "name": "Elia y Elizabeth",
-          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
-        },
-        {
-          "name": "Yuksek",
-          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
-        }
-      ],
-      "duration_ms": 258235,
-      "name": "Alegr\u00eda - Yuksek Remix",
-      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -687,6 +687,26 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
+        "name": "Alegr\u00eda (Yuksek Remix) - Single",
+        "url": "https://open.spotify.com/album/5T0vgZNmcgETjc718nqnhH"
+      },
+      "artists": [
+        {
+          "name": "Elia y Elizabeth",
+          "url": "https://open.spotify.com/artist/6R6PqKFwzVPIePSH8BCKvf"
+        },
+        {
+          "name": "Yuksek",
+          "url": "https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf"
+        }
+      ],
+      "duration_ms": 258235,
+      "name": "Alegr\u00eda - Yuksek Remix",
+      "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
         "name": "Isaac Chambers & Dub Princess",
         "url": "https://open.spotify.com/album/56Wz4bSbtZnnB5bdYroHvW"
       },
@@ -703,6 +723,26 @@
       "duration_ms": 336000,
       "name": "Move On",
       "url": "https://open.spotify.com/track/26Prfvk9o5cwyLMCl5zQMS"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Dejate Llevar",
+        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
+      },
+      "artists": [
+        {
+          "name": "Nacho Maldonado",
+          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
+        },
+        {
+          "name": "Israel Arteaga",
+          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
+        }
+      ],
+      "duration_ms": 301723,
+      "name": "Dejate Llevar",
+      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -731,26 +771,6 @@
       "duration_ms": 199081,
       "name": "calor do momento",
       "url": "https://open.spotify.com/track/66nRZPGdQWXZhTSfvpIFDS"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Dejate Llevar",
-        "url": "https://open.spotify.com/album/4Drqq5fk908c6oGJcGJkKg"
-      },
-      "artists": [
-        {
-          "name": "Nacho Maldonado",
-          "url": "https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH"
-        },
-        {
-          "name": "Israel Arteaga",
-          "url": "https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP"
-        }
-      ],
-      "duration_ms": 301723,
-      "name": "Dejate Llevar",
-      "url": "https://open.spotify.com/track/7FDSyaGSN7CjMcd7jXWq9Z"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -807,22 +827,6 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Harvest",
-        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Sun Colored Eyes",
-      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
         "name": "Tipo Assim",
         "url": "https://open.spotify.com/album/5zFGvIyqWkyRFc5CarPG2w"
       },
@@ -847,6 +851,22 @@
       "duration_ms": 250995,
       "name": "Tipo Assim",
       "url": "https://open.spotify.com/track/48k6ryCJjV8K4CqFQoGFUu"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/7hIjNhXoPqyARBpaKpS3nk"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Sun Colored Eyes",
+      "url": "https://open.spotify.com/track/2Rlw1EslDSKSODPst1GhOY"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -885,26 +905,6 @@
       "url": "https://open.spotify.com/track/3grdgfHCm4mWVJliAitsE6"
     },
     {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
-      },
-      "artists": [
-        {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Fabiana Martone",
-          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
-        }
-      ],
-      "duration_ms": 244075,
-      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
-      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
-    },
-    {
       "added_at": "2024-08-29 03:13:40",
       "album": {
         "name": "Tlapaler\u00eda Don Chuy",
@@ -935,6 +935,26 @@
       "duration_ms": 588586,
       "name": "O Wina Tienge",
       "url": "https://open.spotify.com/track/4TJYd7m8EoVUrmWqkOIZoN"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+        "url": "https://open.spotify.com/album/7orjo51zaXJFjbpVy2qWjf"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Fabiana Martone",
+          "url": "https://open.spotify.com/artist/0HmuQ7f7dXY5W6wK4rA8j1"
+        }
+      ],
+      "duration_ms": 244075,
+      "name": "Danza Maril\u00f9 (feat. Fabiana Martone)",
+      "url": "https://open.spotify.com/track/6JZOZWEpu1hcTCz28rnQwJ"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -1227,22 +1247,6 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Cause & Effect",
-        "url": "https://open.spotify.com/album/0dITivzCKB2PwtQj9Txc0d"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 193772,
-      "name": "In Lust",
-      "url": "https://open.spotify.com/track/49xVYRohos3yfT19Vz1lM7"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
         "name": "Mistakes on Purpose (Ethiopiques 30)",
         "url": "https://open.spotify.com/album/5Vg9np3c5uQSZFwvFyDpoW"
       },
@@ -1275,6 +1279,22 @@
       "duration_ms": 170083,
       "name": "Don\u00b4t Give Up",
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Cause & Effect",
+        "url": "https://open.spotify.com/album/0dITivzCKB2PwtQj9Txc0d"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 193772,
+      "name": "In Lust",
+      "url": "https://open.spotify.com/track/49xVYRohos3yfT19Vz1lM7"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -1835,6 +1855,22 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
+        "name": "Jungle Fire",
+        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
+      },
+      "artists": [
+        {
+          "name": "Jungle Fire",
+          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "At\u00f3mico",
+      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
         "name": "Marvin",
         "url": "https://open.spotify.com/album/0JStflx0reeYHxiTIy0SQO"
       },
@@ -1851,22 +1887,6 @@
       "duration_ms": 235795,
       "name": "Porsche 944",
       "url": "https://open.spotify.com/track/6JSkc4vPxHuTqgSuJ2vMu9"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Jungle Fire",
-        "url": "https://open.spotify.com/album/2bproUHkH4ZckvOhxIYoT7"
-      },
-      "artists": [
-        {
-          "name": "Jungle Fire",
-          "url": "https://open.spotify.com/artist/4fN32efNcPfJXVJ151noby"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "At\u00f3mico",
-      "url": "https://open.spotify.com/track/704w7nDWknuIV05nSWoXEw"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -1923,22 +1943,6 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Le Fruit Disco",
-        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
-      },
-      "artists": [
-        {
-          "name": "Stuzzi",
-          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
-        }
-      ],
-      "duration_ms": 215080,
-      "name": "maracuya massage",
-      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
         "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
         "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
@@ -1967,6 +1971,22 @@
       "duration_ms": 198767,
       "name": "Blossom",
       "url": "https://open.spotify.com/track/68Ck9sVtvLBnyklKBhppty"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Le Fruit Disco",
+        "url": "https://open.spotify.com/album/5iykZjKOnsFRkXPJrPZblc"
+      },
+      "artists": [
+        {
+          "name": "Stuzzi",
+          "url": "https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr"
+        }
+      ],
+      "duration_ms": 215080,
+      "name": "maracuya massage",
+      "url": "https://open.spotify.com/track/6puPeC2EToXfnPOcVGhNTh"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -2047,22 +2067,6 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Lovin'",
-        "url": "https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb"
-      },
-      "artists": [
-        {
-          "name": "BALTHVS",
-          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
-        }
-      ],
-      "duration_ms": 121030,
-      "name": "Lovin'",
-      "url": "https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
         "name": "The Lost Carnival Tapes",
         "url": "https://open.spotify.com/album/6YYtb9SAjtb6dolcIyqxlB"
       },
@@ -2075,6 +2079,22 @@
       "duration_ms": 213250,
       "name": "puma",
       "url": "https://open.spotify.com/track/0vUkmgjokgPCqgJcODNMlZ"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Lovin'",
+        "url": "https://open.spotify.com/album/2agFe3zLex12Y3mSFiuOyb"
+      },
+      "artists": [
+        {
+          "name": "BALTHVS",
+          "url": "https://open.spotify.com/artist/2CtiNJi0zB35RHYXViVjKG"
+        }
+      ],
+      "duration_ms": 121030,
+      "name": "Lovin'",
+      "url": "https://open.spotify.com/track/72nY8T0GWF3bCTRjpE1kpi"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -2095,22 +2115,6 @@
     {
       "added_at": "2024-08-23 00:00:00",
       "album": {
-        "name": "Visceras",
-        "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
-      },
-      "artists": [
-        {
-          "name": "Weste",
-          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
-        }
-      ],
-      "duration_ms": 101066,
-      "name": "Baile Infinito",
-      "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
         "name": "Marzipan (Habibi Funk 023) [Bonus Edition]",
         "url": "https://open.spotify.com/album/6KzZvtfDldSPWptq61k3Sv"
       },
@@ -2123,6 +2127,22 @@
       "duration_ms": 171333,
       "name": "Souk el Ahad",
       "url": "https://open.spotify.com/track/4ykaaBQsxP1pnL57LU5syd"
+    },
+    {
+      "added_at": "2024-08-23 00:00:00",
+      "album": {
+        "name": "Visceras",
+        "url": "https://open.spotify.com/album/7gklIEvQSc5xeaSWVNlH3j"
+      },
+      "artists": [
+        {
+          "name": "Weste",
+          "url": "https://open.spotify.com/artist/5TlgMX2qZVaWy2JI12tK2q"
+        }
+      ],
+      "duration_ms": 101066,
+      "name": "Baile Infinito",
+      "url": "https://open.spotify.com/track/1k14lnPXq7oTS03YFcwjzq"
     },
     {
       "added_at": "2024-08-23 00:00:00",
@@ -2687,26 +2707,6 @@
       "duration_ms": 233939,
       "name": "Mami Chota",
       "url": "https://open.spotify.com/track/7gHO9902nXNaoU48h8twI3"
-    },
-    {
-      "added_at": "2024-08-23 00:00:00",
-      "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
     }
   ],
   "unique_name": "Global Groove",

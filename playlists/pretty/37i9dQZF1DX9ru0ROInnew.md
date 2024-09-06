@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,197 likes - 116 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,259 likes - 116 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 78 | [Hot Nigga](https://open.spotify.com/track/0sWJYzJtNgoR2zUShqT8Gy) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Hot Nigga](https://open.spotify.com/album/5ZhJHI0WF5YMB17klO9EAx) | 2:30 |
 | 79 | [Donde Estabas Tu](https://open.spotify.com/track/30QSKagzGltOrfiUTyxgge) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Yo Siempre Ando Con Los Oidos Fresh](https://open.spotify.com/album/1L05mwHVtfmhv3jEtOZlgZ) | 3:16 |
 | 80 | [No Le Bajé](https://open.spotify.com/track/2tBbqjDbpcoGUFG2ScdYha) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:45 |
-| 81 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
-| 82 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 81 | [Flow Cabron](https://open.spotify.com/track/6QB7eBG71AcW3PHfuMiEoH) | [Tali](https://open.spotify.com/artist/5W3QNsK8PQNTvI9Y9PDyhs), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Flow Cabron](https://open.spotify.com/album/1FtXYDP6jhW0TQv1fZ6MQK) | 3:46 |
+| 82 | [Sexto Sentido \(feat\. Bad Bunny\)](https://open.spotify.com/track/3iDPALl8BoUbuXZgy6EOWY) | [Gigolo Y La Exce](https://open.spotify.com/artist/7lCRuW6BSXGAsxuQV9lR0i), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Sexto Sentido](https://open.spotify.com/album/75Drq7ZmC1mNfOYflq6zsY) | 3:47 |
 | 83 | [Kobe En LA](https://open.spotify.com/track/4bmMAGg2sb9IWUgB0wTVov) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Kobe En LA](https://open.spotify.com/album/31op15nAweoWywt7aBkY4z) | 3:45 |
 | 84 | [Si Tu Novio Te Deja Sola](https://open.spotify.com/track/0RFFFGtPn6a58RHY3ccVYX) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Si Tu Novio Te Deja Sola](https://open.spotify.com/album/4gKs7N7J13JBxm7GYBLFEU) | 4:03 |
 | 85 | [Apreté el Botón](https://open.spotify.com/track/2uVEFmt1nLZyUSJXLdLGX2) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay) | [Los 90 Piketes](https://open.spotify.com/album/4hgF36twMz8C0XVvtMUuCx) | 3:29 |

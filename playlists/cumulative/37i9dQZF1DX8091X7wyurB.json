@@ -1189,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Courts",
+        "url": "https://open.spotify.com/album/7IyxZ6j0Hpw1dDyXruZBf5"
+      },
+      "artists": [
+        {
+          "name": "Linc Worship",
+          "url": "https://open.spotify.com/artist/2uJZo3q0ArXJ2R5YjpGh0B"
+        },
+        {
+          "name": "Ashleigh Duggan",
+          "url": "https://open.spotify.com/artist/2v85Z8OOV4n1w7PkG5uXXI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 436764,
+      "name": "Courts",
+      "url": "https://open.spotify.com/track/6SHjHB2CAjTu1OCfdqUoT0"
+    },
+    {
+      "album": {
         "name": "Covenant keeping God (Live at Worship House Church Limpopo, 2023) (feat. Mahazel)",
         "url": "https://open.spotify.com/album/1xYW4XrZ5EdxQFeWFPl8Fw"
       },
@@ -2038,6 +2060,32 @@
       "duration_ms": 315776,
       "name": "Forever It Is Done",
       "url": "https://open.spotify.com/track/5cavGaWguVUsTiOrWE7sgX"
+    },
+    {
+      "album": {
+        "name": "Forever It Is Done (African Fusion Version)",
+        "url": "https://open.spotify.com/album/1eQfxd5JVS5vmqcVIuuIos"
+      },
+      "artists": [
+        {
+          "name": "Onos Ariyo",
+          "url": "https://open.spotify.com/artist/1noMlHA8YKdaQBw7j7YUCC"
+        },
+        {
+          "name": "Kaydee Numbere",
+          "url": "https://open.spotify.com/artist/6KgXR7hwo14wRciu1TF0ZF"
+        },
+        {
+          "name": "Tobi Jeff Richards",
+          "url": "https://open.spotify.com/artist/4otRzds8kWRbAxtnJQHPTP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245269,
+      "name": "Forever It Is Done (African Fusion Version)",
+      "url": "https://open.spotify.com/track/3xRZolIZT2hhKHS2BV6mEq"
     },
     {
       "album": {
@@ -6550,7 +6598,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 621706,
       "name": "Take it All - Live",
       "url": "https://open.spotify.com/track/70k721hYulEd5Og7o8dAcE"
@@ -6892,7 +6940,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 230644,
       "name": "These Are The Days (feat. Blessing Offor)",
       "url": "https://open.spotify.com/track/52WA7y6ACfdHbzIii6M9iA"

@@ -1,15 +1,15 @@
 {
   "description": "Go hard or go home. Cover: Mozey",
-  "num_followers": 63037,
+  "num_followers": 63052,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtELgAAAAAARG5mGAk5ZSFnf3lSC/xqe",
+  "snapshot_id": "Zto38AAAAAAh0PGzMC9HXo0ItTP/OIkP",
   "tracks": [
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Slappuccino",
         "url": "https://open.spotify.com/album/14OvnNAtyRE8uQKBar8JzK"
@@ -25,27 +25,7 @@
       "url": "https://open.spotify.com/track/2AN5GEOr0gtyIGL0X2UXW3"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Ice Cold",
-        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
-      },
-      "artists": [
-        {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Jman",
-          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
-        }
-      ],
-      "duration_ms": 123428,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Liquor & Cigarettes (feat. ArrDee)",
         "url": "https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC"
@@ -69,7 +49,27 @@
       "url": "https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Big Bad Bass",
+        "url": "https://open.spotify.com/album/0fk3Q1dNW4b77q1v4T4Tjt"
+      },
+      "artists": [
+        {
+          "name": "J Bookey",
+          "url": "https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2"
+        },
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 253714,
+      "name": "Big Bad Bass",
+      "url": "https://open.spotify.com/track/0nIaLfe57M0pACn2aU2JXZ"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Nan Slapper",
         "url": "https://open.spotify.com/album/0w3qxx32q76Rmx5UK58bEH"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/3119sJaLXEShGT5e8frnMj"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Pray For Me",
         "url": "https://open.spotify.com/album/0F4aNngvvZbIX25XmojJEQ"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/1bDyUuOtKXNAF4WQV6ZH9k"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Elemental",
         "url": "https://open.spotify.com/album/44J6yWMGZ8gdPTF9VniGkb"
@@ -125,7 +125,7 @@
       "url": "https://open.spotify.com/track/2yx33cf8wV4gCCVip2vKMo"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Perfect Harmony (Phibes VIP)",
         "url": "https://open.spotify.com/album/6qcteM30PHXN8GWRywK1J6"
@@ -145,31 +145,27 @@
       "url": "https://open.spotify.com/track/2x9vrwrJTW0IeBQJrq9Pnx"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Move Your Body (Hedex Remix)",
-        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
+        "name": "Ice Cold",
+        "url": "https://open.spotify.com/album/0ReTigKkyunpydPXYvBfKV"
       },
       "artists": [
         {
-          "name": "\u00d6wnboss",
-          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
         },
         {
-          "name": "Sevek",
-          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
-        },
-        {
-          "name": "Hedex",
-          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+          "name": "Jman",
+          "url": "https://open.spotify.com/artist/4yBjkJ6MdQUxHdWBwTavEm"
         }
       ],
-      "duration_ms": 200239,
-      "name": "Move Your Body - Hedex Remix",
-      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+      "duration_ms": 123428,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1WvguFKnrnscdMG0JISkWX"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Buss Up",
         "url": "https://open.spotify.com/album/7G2znCeOHzdFKWIdMZrwem"
@@ -193,7 +189,7 @@
       "url": "https://open.spotify.com/track/5ALCtrhHBz3SzuG5UwUBFx"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Relapse EP",
         "url": "https://open.spotify.com/album/3wIQC4FvRJKmrURVUwEVEV"
@@ -209,7 +205,63 @@
       "url": "https://open.spotify.com/track/75djESsa5AqCcroqOkkxsv"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Move Your Body (Hedex Remix)",
+        "url": "https://open.spotify.com/album/09nJrAnPgQU8dLEBj1o1lo"
+      },
+      "artists": [
+        {
+          "name": "\u00d6wnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Sevek",
+          "url": "https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT"
+        },
+        {
+          "name": "Hedex",
+          "url": "https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t"
+        }
+      ],
+      "duration_ms": 200239,
+      "name": "Move Your Body - Hedex Remix",
+      "url": "https://open.spotify.com/track/6FgthnS6GYgLuELf7uRdDz"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Don't Stop",
+        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        }
+      ],
+      "duration_ms": 176914,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Bounce EP",
+        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
+      },
+      "artists": [
+        {
+          "name": "Sub Zero",
+          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
+        }
+      ],
+      "duration_ms": 181028,
+      "name": "Bounce",
+      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/6N2cAL092Va3dLV4wKWd6Y"
@@ -229,39 +281,7 @@
       "url": "https://open.spotify.com/track/4lI38Kj91ahnFG48FwVSrS"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Don't Stop",
-        "url": "https://open.spotify.com/album/0PPTQ6w442u34twxct76hc"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        }
-      ],
-      "duration_ms": 176914,
-      "name": "Don't Stop",
-      "url": "https://open.spotify.com/track/77Dn9E3WFNMzZGq7K1J6rR"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Bounce EP",
-        "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
-      },
-      "artists": [
-        {
-          "name": "Sub Zero",
-          "url": "https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR"
-        }
-      ],
-      "duration_ms": 181028,
-      "name": "Bounce",
-      "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "F*ck Jump Up (feat. B Live)",
         "url": "https://open.spotify.com/album/1MPpDGXMybp6qXjA41frqh"
@@ -281,23 +301,7 @@
       "url": "https://open.spotify.com/track/0XaKIs5sTAhmhUfwsqTKiB"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
-      },
-      "artists": [
-        {
-          "name": "Subsonic",
-          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
-        }
-      ],
-      "duration_ms": 201379,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/12FRM8NELjqrOSdfuXxrfC"
@@ -321,27 +325,23 @@
       "url": "https://open.spotify.com/track/4roXdtgxy29XQ8hSOaT8F7"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Run (Part 1)",
-        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
+        "name": "Last Time",
+        "url": "https://open.spotify.com/album/7KJtttL16IVKiP32hy8z3D"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Sofia",
-          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
+          "name": "Subsonic",
+          "url": "https://open.spotify.com/artist/4D6frglSGSAHoK7W5rp92j"
         }
       ],
-      "duration_ms": 135085,
-      "name": "Run (Part 1)",
-      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
+      "duration_ms": 201379,
+      "name": "Last Time",
+      "url": "https://open.spotify.com/track/2L1aZnDDgVANTgIKGCI5co"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "MHITR (Semi-Automatic) [feat. Eksman]",
         "url": "https://open.spotify.com/album/0mXlKN5XvrL9olOdYSrTio"
@@ -361,23 +361,27 @@
       "url": "https://open.spotify.com/track/11Gypesywvx4AnUeYxeLaY"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Chant",
-        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
+        "name": "Run (Part 1)",
+        "url": "https://open.spotify.com/album/1NqOxMj2QqMhgne014NwQs"
       },
       "artists": [
         {
-          "name": "1991",
-          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Sofia",
+          "url": "https://open.spotify.com/artist/2W9msU9MDgJo9BMgBdEqmb"
         }
       ],
-      "duration_ms": 224775,
-      "name": "Chant",
-      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+      "duration_ms": 135085,
+      "name": "Run (Part 1)",
+      "url": "https://open.spotify.com/track/4YWZse32ILPANRnB9EVyIm"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Satellite (SOTA Remix)",
         "url": "https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ"
@@ -401,7 +405,7 @@
       "url": "https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Dom Perignon",
         "url": "https://open.spotify.com/album/1cwFmD0eucJMbMi2OVuLMc"
@@ -421,7 +425,7 @@
       "url": "https://open.spotify.com/track/5LfR9b6ahXWoKc6Pq459je"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/5utKEyKtyUReHABwsSJtjV"
@@ -437,7 +441,23 @@
       "url": "https://open.spotify.com/track/29F8Xxbq2IVpb7GuyaCiiI"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Chant",
+        "url": "https://open.spotify.com/album/1W9a0pnDZti59LWh8e1Tiu"
+      },
+      "artists": [
+        {
+          "name": "1991",
+          "url": "https://open.spotify.com/artist/2IP71LH7CbwddhsEXBI0fy"
+        }
+      ],
+      "duration_ms": 224775,
+      "name": "Chant",
+      "url": "https://open.spotify.com/track/65SsbtgsqPYv1p4Rq93fC9"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Absolute",
         "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
@@ -461,7 +481,7 @@
       "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Waiting For You",
         "url": "https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte"
@@ -477,7 +497,23 @@
       "url": "https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM"
+      },
+      "artists": [
+        {
+          "name": "S.P.Y",
+          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
+        }
+      ],
+      "duration_ms": 266057,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Finesse Riddim",
         "url": "https://open.spotify.com/album/5tQmcRslhxZE5hAMZbKUT9"
@@ -509,23 +545,7 @@
       "url": "https://open.spotify.com/track/13Mgkz3Rk8t1XsMZ6JyIrG"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/5zwbiBQP3sm4kqV1I1ThVM"
-      },
-      "artists": [
-        {
-          "name": "S.P.Y",
-          "url": "https://open.spotify.com/artist/6aJAd8zM1s3Slw64KfsmaF"
-        }
-      ],
-      "duration_ms": 266057,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/4waq3ATMeZmOaHxHf9vLpp"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Light It Up",
         "url": "https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU"
@@ -541,7 +561,7 @@
       "url": "https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "IFTK (Vibe Chemistry Remix)",
         "url": "https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ"
@@ -565,7 +585,7 @@
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "No Warning (feat. Nathan Smoker)",
         "url": "https://open.spotify.com/album/6YTh78z5vISxdh0blsF6WM"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/5pDC2piYrsuSIeEqiciB7B"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Out & About",
         "url": "https://open.spotify.com/album/1OVIX9HjSovZ8Cmot4YrDR"
@@ -605,7 +625,7 @@
       "url": "https://open.spotify.com/track/7ugaJNi3rhiiK9zKLd6l4j"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Mosh Pit",
         "url": "https://open.spotify.com/album/6HmXSgT3vWune8Dy1yc66h"
@@ -625,7 +645,7 @@
       "url": "https://open.spotify.com/track/7ub3gsFkHrnkS38HOTyATJ"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/0L6dO6Mr6bqORUKsjtoeHs"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/7qrr39Qj9OhpT23JTnS0Wd"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "No Excuses (Hedex Remix)",
         "url": "https://open.spotify.com/album/1wzs9WivkaUqEQEAqLuNZ4"
@@ -669,7 +689,27 @@
       "url": "https://open.spotify.com/track/0asLTNDnmEXN6h8VMZmY21"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Release Me",
+        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        },
+        {
+          "name": "INDI",
+          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
+        }
+      ],
+      "duration_ms": 216551,
+      "name": "Release Me",
+      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Spartanz (Bou Remix)",
         "url": "https://open.spotify.com/album/4vQ8iFRMG9tg6IZyeZvaiI"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/3C7cOylp1OQNr6Bud2TKlC"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Hazmat / Deserted",
         "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
@@ -713,7 +753,7 @@
       "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Come Around",
         "url": "https://open.spotify.com/album/2B81YZsWzPSLdgzSR3gF8O"
@@ -733,27 +773,7 @@
       "url": "https://open.spotify.com/track/2EK2hR0X1XYrPnfLCgCIXl"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Release Me",
-        "url": "https://open.spotify.com/album/1LodhytJqWA9yYSaPAUdcb"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        },
-        {
-          "name": "INDI",
-          "url": "https://open.spotify.com/artist/6T2L2KzWTtlOO4DvTe2vo9"
-        }
-      ],
-      "duration_ms": 216551,
-      "name": "Release Me",
-      "url": "https://open.spotify.com/track/5hcbBprSX4taWpm6DVUuWi"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Playing With Fire (feat. Zac Pajak)",
         "url": "https://open.spotify.com/album/7bwSwhkCntzOANc3MVtv4K"
@@ -773,7 +793,7 @@
       "url": "https://open.spotify.com/track/1kosMJUV7U5Ci2BKPdbeJ4"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Sientelo - Sota & Circadian Remix",
         "url": "https://open.spotify.com/album/6ANG5taElvY28rBOx4GaQx"
@@ -801,7 +821,7 @@
       "url": "https://open.spotify.com/track/25Ct5BPQbhZiNEBe8cmXcm"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Bass",
         "url": "https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Phantasm",
         "url": "https://open.spotify.com/album/0MeCw3SMfshfeTF2OG85gx"
@@ -837,39 +857,7 @@
       "url": "https://open.spotify.com/track/7veVv9LcaAbt6DVeHVmjgY"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Behemoth",
-        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
-      },
-      "artists": [
-        {
-          "name": "Simula",
-          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Behemoth",
-      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Ghosting Your Love",
-        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 199728,
-      "name": "Ghosting Your Love",
-      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Take Me Up",
         "url": "https://open.spotify.com/album/3cF3ImX7T7nNT84XD2QJjt"
@@ -885,7 +873,39 @@
       "url": "https://open.spotify.com/track/0nkATAigYa0AvFFihj6cb1"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Ghosting Your Love",
+        "url": "https://open.spotify.com/album/0vGtSVO4QjFAOU0ojOYsJD"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 199728,
+      "name": "Ghosting Your Love",
+      "url": "https://open.spotify.com/track/08zuBTzQbwfmpLAfuEIV6R"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Behemoth",
+        "url": "https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio"
+      },
+      "artists": [
+        {
+          "name": "Simula",
+          "url": "https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Behemoth",
+      "url": "https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
@@ -905,7 +925,7 @@
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Tekkers Riddim",
         "url": "https://open.spotify.com/album/3BtA05Srx1Fz46MVvcHI1X"
@@ -933,7 +953,7 @@
       "url": "https://open.spotify.com/track/0qmQbxSIt10XDEw90Bqvhx"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Bomb Squad (Bou Remix)",
         "url": "https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk"
@@ -957,7 +977,7 @@
       "url": "https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Robocop",
         "url": "https://open.spotify.com/album/728fvPpHJCciPbvrLI5cCT"
@@ -981,7 +1001,7 @@
       "url": "https://open.spotify.com/track/4QY57ARj1tVdl4rufjwAdO"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Rampage Anthem VIP",
         "url": "https://open.spotify.com/album/69szID4oSWL2iSddE56ryG"
@@ -1021,7 +1041,7 @@
       "url": "https://open.spotify.com/track/0m9BpxJvsHlPTyQta201uF"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Nightmares",
         "url": "https://open.spotify.com/album/2lQ23jZfDgcb2s4v47W1NK"
@@ -1037,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6mzDDGA0c1eNIFRqMt6kB1"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "bailejungle",
         "url": "https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW"
@@ -1053,7 +1073,27 @@
       "url": "https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "OH SHIT",
+        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
+      },
+      "artists": [
+        {
+          "name": "Turno",
+          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
+        },
+        {
+          "name": "Dreps",
+          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "OH SHIT",
+      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Confliction",
         "url": "https://open.spotify.com/album/1WS53YDSSfOFyJPUQ1SR1E"
@@ -1077,7 +1117,7 @@
       "url": "https://open.spotify.com/track/1ExW4pjV1zROf5QveEk64S"
     },
     {
-      "added_at": "2024-08-30 00:00:00",
+      "added_at": "2024-09-05 23:00:00",
       "album": {
         "name": "Skillz",
         "url": "https://open.spotify.com/album/1RpdC3AIXrHGQURbvUqswf"
@@ -1107,42 +1147,6 @@
       "duration_ms": 204621,
       "name": "Skillz",
       "url": "https://open.spotify.com/track/03F1wRaMhskWtit3JAaxUg"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "Back To Normal",
-        "url": "https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 268939,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl"
-    },
-    {
-      "added_at": "2024-08-30 00:00:00",
-      "album": {
-        "name": "OH SHIT",
-        "url": "https://open.spotify.com/album/1lqPqWbQGmlyRffoU1twrv"
-      },
-      "artists": [
-        {
-          "name": "Turno",
-          "url": "https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes"
-        },
-        {
-          "name": "Dreps",
-          "url": "https://open.spotify.com/artist/0hBSt9EaV3JxjI2mjF0Nd2"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "OH SHIT",
-      "url": "https://open.spotify.com/track/60IGX6fpv4uZZDcTuJm0IS"
     }
   ],
   "unique_name": "Jump Up!",

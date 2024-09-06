@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Afrobeats' hottest singles. Cover: Bayanni & Ruger",
+  "description": "Afrobeats' hottest singles. Cover: Maleek Berry & Ruger",
   "name": "Gbedu",
   "tracks": [
     {
@@ -114,6 +114,36 @@
       "duration_ms": 124210,
       "name": "2am For Lekki",
       "url": "https://open.spotify.com/track/4JEUXVuNeR22Qwew8tFx9B"
+    },
+    {
+      "album": {
+        "name": "4x4 (feat.Tyler ICU)",
+        "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
+      },
+      "artists": [
+        {
+          "name": "The Therapist",
+          "url": "https://open.spotify.com/artist/3rp5xD3dLZnUe7QnXxYrm2"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Magicsticks",
+          "url": "https://open.spotify.com/artist/1IMS1L1ZXuNhPN9HtOdtbz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203893,
+      "name": "4x4 (feat.Tyler ICU)",
+      "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
     },
     {
       "album": {
@@ -1024,7 +1054,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 159965,
       "name": "bend you",
       "url": "https://open.spotify.com/track/6JEVeodVZrjrTZhc1RjMvi"
@@ -2818,7 +2848,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 134187,
       "name": "Fire on Me",
       "url": "https://open.spotify.com/track/2mJs0gLnOGASpyucQrroJa"
@@ -3412,6 +3442,24 @@
       "duration_ms": 186153,
       "name": "Holy Ghost",
       "url": "https://open.spotify.com/track/5vqLQ8nrejrMf591htfM5u"
+    },
+    {
+      "album": {
+        "name": "E.O.V (ESAMA OF VIBES)",
+        "url": "https://open.spotify.com/album/5r0ooDn6GV0lYtOJdvMQog"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179302,
+      "name": "Hot Stepper",
+      "url": "https://open.spotify.com/track/0BMOwfaleAhCJf1qABUCtd"
     },
     {
       "album": {
@@ -4208,6 +4256,28 @@
       "duration_ms": 153523,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/14nSbMQqRo1BxshIjprVDO"
+    },
+    {
+      "album": {
+        "name": "Lately (feat. Ruger)",
+        "url": "https://open.spotify.com/album/23rrPoEvZbtSJwrgZiyMyF"
+      },
+      "artists": [
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171764,
+      "name": "Lately (feat. Ruger)",
+      "url": "https://open.spotify.com/track/46FW3Liu7MUD6yrmhPXc5C"
     },
     {
       "album": {
@@ -5824,7 +5894,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 156550,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"

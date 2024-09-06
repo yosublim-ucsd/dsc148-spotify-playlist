@@ -5963,6 +5963,24 @@
     },
     {
       "album": {
+        "name": "Cooking Up Your Brain",
+        "url": "https://open.spotify.com/album/1iKdbLAU6o5AZwlTN8Omxk"
+      },
+      "artists": [
+        {
+          "name": "Chaos Project",
+          "url": "https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "Cooking Up Your Brain",
+      "url": "https://open.spotify.com/track/6a3KlgLFasWWsAsi96RovP"
+    },
+    {
+      "album": {
         "name": "Cosmic Conquest (Official Masters of Hardcore 2023 Anthem)",
         "url": "https://open.spotify.com/album/2mULZLc1KMZYc1NDWSEdcb"
       },

@@ -4,7 +4,7 @@
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: WUKONG
 
-1,305 songs - 2 day 17 hr 37 min
+1,306 songs - 2 day 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 | 2024-02-08 | 2024-04-12 |
 | [Never Be Lonely \- Cascada Remix](https://open.spotify.com/track/2OOCFcLq9vDnxbMvAMopi3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Cascada](https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp) | [Never Be Lonely \(Cascada Remix\)](https://open.spotify.com/album/0CNe6GLbpxRWKXYTK8bytw) | 2:06 | 2024-03-07 | 2024-04-12 |
 | [Never Enough](https://open.spotify.com/track/5vOnwVBDPKmaKAejHTTjQ9) | [RALYFF](https://open.spotify.com/artist/2O5kshWyTHGk7xv2FCxEbh), [Larza](https://open.spotify.com/artist/6R2p1HQ7vmhCyLEH9ilRKJ), [KILIAM](https://open.spotify.com/artist/4ZrxOfDOpKOTOzXVn7YGzx), [Recursive Recordings](https://open.spotify.com/artist/1eH6oJbpASBjGWl0TfHcBM) | [Never Enough](https://open.spotify.com/album/4dZyV3VqxSztvbrPhaxdig) | 3:30 | 2024-04-04 | 2024-05-10 |
+| [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 | 2024-08-29 |  |
 | [Never Let Me Go](https://open.spotify.com/track/7rSFf5LyMWCF2lMZJWhnOY) | [Brian Rian Rehan](https://open.spotify.com/artist/5CTKQxuMX0Vto97Ofqn2KN) | [Never Let Me Go](https://open.spotify.com/album/6BgmEI778jzHSmZy0ajIZY) | 3:14 | 2023-05-11 | 2023-06-16 |
 | [Never Let You Down](https://open.spotify.com/track/3HnGSgsJA5KkXAnVthERri) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Never Let You Down](https://open.spotify.com/album/6fQJLkZUzXXynBgMXKoA8n) | 3:13 | 2023-04-13 | 2023-05-19 |
 | [Never Run](https://open.spotify.com/track/4ToDfhzkXyghSRGD44n5qU) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [Never Run](https://open.spotify.com/album/4x4weVNRwq6Lxc3KAYozJB) | 2:39 | 2024-05-09 | 2024-06-14 |

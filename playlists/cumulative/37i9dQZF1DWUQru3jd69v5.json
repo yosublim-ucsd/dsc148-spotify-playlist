@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Cover: Frezza",
+  "description": "La nuova generazione del rap italiano. Cover: SPOOKYPBL",
   "name": "Raptopia",
   "tracks": [
     {
@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 131506,
       "name": "Baddie",
       "url": "https://open.spotify.com/track/7fxEg8vthyc4UP8o3rX8hc"
@@ -4269,6 +4269,24 @@
     },
     {
       "album": {
+        "name": "CAFF\u00c8 AMARO",
+        "url": "https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV"
+      },
+      "artists": [
+        {
+          "name": "RRARI DAL TACCO",
+          "url": "https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119850,
+      "name": "CAFF\u00c8 AMARO",
+      "url": "https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD"
+    },
+    {
+      "album": {
         "name": "CAGOUL E ASICS",
         "url": "https://open.spotify.com/album/6Wvlaq8oTOtFG1YwFggQ3K"
       },
@@ -4580,7 +4598,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 145749,
       "name": "Caronte",
       "url": "https://open.spotify.com/track/41X5gG92MkQ0gS0NvQsPrs"
@@ -11128,7 +11146,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 112500,
       "name": "Il Metodo Migliore (Tutorial 2)",
       "url": "https://open.spotify.com/track/44d6e7jKy2SZt5yy5k1Exh"
@@ -15150,7 +15168,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157741,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/1GJHorVM7DiuJuEHJzXyGW"
@@ -15744,6 +15762,24 @@
       "duration_ms": 134328,
       "name": "MODALIT\u00c0 AEREO",
       "url": "https://open.spotify.com/track/4R3A9f585qIiPLjquQ5YCR"
+    },
+    {
+      "album": {
+        "name": "MODEM",
+        "url": "https://open.spotify.com/album/4elFRFXim5I69DKqaTofzS"
+      },
+      "artists": [
+        {
+          "name": "Silnyya",
+          "url": "https://open.spotify.com/artist/0MTV1wG5r8M1hTexjolpA5"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138996,
+      "name": "MODEM",
+      "url": "https://open.spotify.com/track/0ol4jOFFh80BGkb6q4j0YL"
     },
     {
       "album": {
@@ -16382,6 +16418,28 @@
       "duration_ms": 153433,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/0RH6vkEKr67OKCnbqjR9p5"
+    },
+    {
+      "album": {
+        "name": "MY BOO",
+        "url": "https://open.spotify.com/album/58bUwhJzwrrs1aVuBgN0AT"
+      },
+      "artists": [
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143702,
+      "name": "MY BOO",
+      "url": "https://open.spotify.com/track/5KYsIT6wnW54LCJ1inu3Xm"
     },
     {
       "album": {
@@ -17706,7 +17764,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 127857,
       "name": "Oceano (feat. Nerissima Serpe)",
       "url": "https://open.spotify.com/track/6t2gXEBqVWbTQ08lC4KYEK"
@@ -18260,6 +18318,24 @@
       "duration_ms": 176848,
       "name": "Palafitte (feat. Don Pero)",
       "url": "https://open.spotify.com/track/3ndKSn3jPvTfrGHtt25iSI"
+    },
+    {
+      "album": {
+        "name": "PALETTE",
+        "url": "https://open.spotify.com/album/5HzTy1cbSrGNaZ1zBNCQ0M"
+      },
+      "artists": [
+        {
+          "name": "SPOOKYPBL",
+          "url": "https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121607,
+      "name": "PALETTE",
+      "url": "https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4"
     },
     {
       "album": {
@@ -20376,6 +20452,24 @@
       "duration_ms": 98707,
       "name": "QUATTERI #2",
       "url": "https://open.spotify.com/track/2mhjSMEAbReJIguSuAUP0Y"
+    },
+    {
+      "album": {
+        "name": "quattro a.m.",
+        "url": "https://open.spotify.com/album/31740pq14YjuCJG1DEuMWp"
+      },
+      "artists": [
+        {
+          "name": "Westcross",
+          "url": "https://open.spotify.com/artist/6CWIvN7FdCWsZZYcfmYPzk"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99600,
+      "name": "quattro a.m.",
+      "url": "https://open.spotify.com/track/17qEnEJcrb8fQOWlTP8tTs"
     },
     {
       "album": {
@@ -23896,7 +23990,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 147624,
       "name": "SWAG",
       "url": "https://open.spotify.com/track/1Z6hwXLWHe1vJMuFDy3qtS"
@@ -24384,7 +24478,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 128468,
       "name": "TENERE IL FOCUS",
       "url": "https://open.spotify.com/track/0kXWABECuoPRXsrmMcGhQ1"
@@ -25375,6 +25469,28 @@
     },
     {
       "album": {
+        "name": "tutte le mie notti",
+        "url": "https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u"
+      },
+      "artists": [
+        {
+          "name": "main",
+          "url": "https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz"
+        },
+        {
+          "name": "bless",
+          "url": "https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "tutte le mie notti",
+      "url": "https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY"
+    },
+    {
+      "album": {
         "name": "TUTTO PERFETTO",
         "url": "https://open.spotify.com/album/3F6ggobCxry9HTbiAtKO1W"
       },
@@ -25806,7 +25922,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 123000,
       "name": "VaLiGeTTa GiaLLa",
       "url": "https://open.spotify.com/track/2lECWjznGStq7RHLM2DvBs"
@@ -27328,7 +27444,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 96921,
       "name": "\u00e8 kiaro",
       "url": "https://open.spotify.com/track/1wJAfspWVd0uADU1OlTBSi"

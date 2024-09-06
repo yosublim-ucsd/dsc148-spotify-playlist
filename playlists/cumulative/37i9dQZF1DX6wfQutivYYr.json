@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rose Villain e Gu\u00e8 sulla cover della pi\u00f9 grande playlist in Italia! \ud83c\udfc6",
+  "description": "Capo Plaza sulla cover della pi\u00f9 grande playlist in Italia! \ud83c\udfc6",
   "name": "Hot Hits Italia",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 244096,
       "name": "100 MESSAGGI",
       "url": "https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O"
@@ -386,7 +386,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 203399,
       "name": "Cchi\u00f9 tiempo (feat. Club Dogo)",
       "url": "https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR"
@@ -884,7 +884,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 228378,
       "name": "L'ULTIMA POESIA (feat. Ultimo)",
       "url": "https://open.spotify.com/track/0vjcqQVb6nhk1A4lvW6ytN"
@@ -1121,6 +1121,28 @@
     },
     {
       "album": {
+        "name": "DINASTIA",
+        "url": "https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH"
+      },
+      "artists": [
+        {
+          "name": "Cosang",
+          "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220588,
+      "name": "Perdere \u2018a capa (feat. Geolier)",
+      "url": "https://open.spotify.com/track/4vd7gUuDg8Ks19SzZxzeHD"
+    },
+    {
+      "album": {
         "name": "RA TA TA",
         "url": "https://open.spotify.com/album/2ECNBxFFxeMlOC3obWaoNw"
       },
@@ -1136,6 +1158,24 @@
       "duration_ms": 152383,
       "name": "RA TA TA",
       "url": "https://open.spotify.com/track/4EGLoafrxloaEWTscMYARN"
+    },
+    {
+      "album": {
+        "name": "RAGNI",
+        "url": "https://open.spotify.com/album/2Pwn1hhncY4xdd7auQ5J4C"
+      },
+      "artists": [
+        {
+          "name": "Tananai",
+          "url": "https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210677,
+      "name": "RAGNI",
+      "url": "https://open.spotify.com/track/6gG5KFelSmKSUqXDDQg9sy"
     },
     {
       "album": {
@@ -1204,7 +1244,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 162684,
       "name": "ROSSOFUOCO",
       "url": "https://open.spotify.com/track/48I2h2HnPqS1CMSlz7bZ7E"
@@ -1353,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
+      "album": {
         "name": "Unheard",
         "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
       },
@@ -1462,6 +1520,24 @@
       "duration_ms": 156923,
       "name": "Vai!",
       "url": "https://open.spotify.com/track/02fHDy3xEetr1EX6qw3Cas"
+    },
+    {
+      "album": {
+        "name": "Vecchio stampo & West Coast",
+        "url": "https://open.spotify.com/album/7860DXMGoZnNuxOsi5Yifa"
+      },
+      "artists": [
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183889,
+      "name": "Vecchio stampo & West Coast",
+      "url": "https://open.spotify.com/track/0W61zMLHl8SKOXpwEnenRP"
     },
     {
       "album": {

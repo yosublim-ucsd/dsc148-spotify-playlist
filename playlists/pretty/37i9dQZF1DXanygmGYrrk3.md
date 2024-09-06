@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 
 > Tus canciones favoritas de Música Mexicana, all in one place! Cover: Eden Muñoz
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,802 likes - 200 songs - 10 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,925 likes - 200 songs - 10 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -202,8 +202,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXanygmGYrrk3.md) - [plain]
 | 192 | [Fíjate Que Si](https://open.spotify.com/track/3YwEMdP2zkOiIq074Vlvqc) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Me Hiciste un Borracho](https://open.spotify.com/album/2EzLgERGS5304LWZHuvlsK) | 3:24 |
 | 193 | [El Que Te Amó](https://open.spotify.com/track/0I1XttomGvSyEtz2xfXnnP) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [El Que Te Amó](https://open.spotify.com/album/1bewjVPHQlQimZhJ27cW0n) | 3:04 |
 | 194 | [Bonita](https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Bonita](https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu) | 3:21 |
-| 195 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 |
-| 196 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 |
+| 195 | [El Amor de Mi Vida](https://open.spotify.com/track/2xxq5LXFBFyawPChsOOWVu) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [El Amor de Mi Vida](https://open.spotify.com/album/4T4LzOrGQAAvs4CjQ4ZrXv) | 3:32 |
+| 196 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 |
 | 197 | [365](https://open.spotify.com/track/7GhBtaLThD3Sa0zLJdGRhQ) | [Los Reales Del Rio](https://open.spotify.com/artist/4kNePvgiofm21MEs9fL7Yc) | [365](https://open.spotify.com/album/6z1DSgDs9h0shDhQYJSA3e) | 3:08 |
 | 198 | [Malditas Ganas](https://open.spotify.com/track/4f01JUYii7cz7JUOHA5K14) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Malditas Ganas](https://open.spotify.com/album/50mD1xCehIRPF46xsSMYkm) | 2:36 |
 | 199 | [Cabecita Dura](https://open.spotify.com/track/5trTr4WglqHLMFKHm0yAYe) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [\#TBT Banda](https://open.spotify.com/album/2eVWZfHVRysZ4uVV03Jxif) | 2:55 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,409 likes - 150 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,515 likes - 150 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 87 | [exhale](https://open.spotify.com/track/5fuN7iE4fymbpYdegHyM6Y) | [Parelo](https://open.spotify.com/artist/5x2rKBeovdxVizxphumkD0) | [exhale](https://open.spotify.com/album/1vgT5wE3eAIUspBTq4RgK6) | 2:19 |
 | 88 | [fluffy](https://open.spotify.com/track/0DQlBPWiOqVc4vevZPSbsT) | [shawn pink](https://open.spotify.com/artist/2RcAWtULux9LPj37M9nXxI) | [fluffy](https://open.spotify.com/album/1QfEMseJ9uQmuA8ZFSgR50) | 2:05 |
 | 89 | [Heroic](https://open.spotify.com/track/1Mgfv6ihHH5ZjQkA2bagUg) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Heroic](https://open.spotify.com/album/0zkyDiJG7olarHq4ra9f8w) | 2:12 |
-| 90 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [shapes](https://open.spotify.com/artist/4BTgiaeE6KnrTaHsfEOPDC) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 |
+| 90 | [Forever Dream](https://open.spotify.com/track/4QGm25bHKjIKYNgzTgoqRw) | [Shapes](https://open.spotify.com/artist/4gBUA2UNwLWqKFee9VIsEc) | [Forever Dream](https://open.spotify.com/album/3QCs3UZfTnPiDSvINQ90U7) | 2:31 |
 | 91 | [A New Dawn](https://open.spotify.com/track/4BopBYqzp4NXkkpjlE1hrJ) | [Mel Atonin](https://open.spotify.com/artist/5cuSwXym2KzOlDwHui2v5g) | [A New Dawn](https://open.spotify.com/album/2dHb6EPDsaT6i3jUBnhGq9) | 2:36 |
 | 92 | [roamwave](https://open.spotify.com/track/5LaOfGGkGFUyUdULSwGzwc) | [ai sayuri](https://open.spotify.com/artist/5YohkWp4bq0IUw4c0StwjJ) | [roamwave](https://open.spotify.com/album/5IbovMKmZTv0ikkb3qmnSy) | 2:18 |
 | 93 | [exhale](https://open.spotify.com/track/57lhljt2lQn9x5hitpDjJ5) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [exhale](https://open.spotify.com/album/6zZLGaivwAi4f5i5DdZe3I) | 2:47 |

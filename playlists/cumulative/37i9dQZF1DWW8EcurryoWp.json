@@ -744,7 +744,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 234000,
       "name": "Lenny",
       "url": "https://open.spotify.com/track/1A3bEtK2wHeA3m0pANg42z"
@@ -824,7 +824,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213146,
       "name": "Melty Brains",
       "url": "https://open.spotify.com/track/7fMLJ0Dg5jH0s4gSIg98vm"
@@ -868,6 +868,24 @@
       "duration_ms": 197000,
       "name": "mercury",
       "url": "https://open.spotify.com/track/066GOqmEF3x8tIeQbv9Bgc"
+    },
+    {
+      "album": {
+        "name": "mouthy",
+        "url": "https://open.spotify.com/album/1OMr8FjYQhhdt96kJhFVFd"
+      },
+      "artists": [
+        {
+          "name": "Bricknasty",
+          "url": "https://open.spotify.com/artist/3BcbwxzJm5f0yppgo2Vatd"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152694,
+      "name": "mouthy",
+      "url": "https://open.spotify.com/track/70aBphOfOhPka4WwhBvcQ4"
     },
     {
       "album": {
@@ -1206,7 +1224,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 198848,
       "name": "Silhouette",
       "url": "https://open.spotify.com/track/5g2JVsaZlr5Vhe3wqbJQd7"
@@ -1228,6 +1246,24 @@
       "duration_ms": 262240,
       "name": "Sleeping with Ghosts",
       "url": "https://open.spotify.com/track/4hWhhqRAQ8R4sEEefmh0Qc"
+    },
+    {
+      "album": {
+        "name": "Slipping Through Your Hands",
+        "url": "https://open.spotify.com/album/1RAyTkmcMq0Cpabcwm7wFO"
+      },
+      "artists": [
+        {
+          "name": "The Devlins",
+          "url": "https://open.spotify.com/artist/2iEzHy2OpgKEdTiYXA0rJv"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246413,
+      "name": "Slipping Through Your Hands",
+      "url": "https://open.spotify.com/track/7BMuK1q7x7ERcGZ4iIeuDS"
     },
     {
       "album": {
@@ -1303,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Supermum!",
+        "url": "https://open.spotify.com/album/04YstcjLsBBfbByvQBM78O"
+      },
+      "artists": [
+        {
+          "name": "Adore",
+          "url": "https://open.spotify.com/artist/4BwY0FjNdkoWef8kixy54M"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196700,
+      "name": "Supermum!",
+      "url": "https://open.spotify.com/track/02CaCPaW8wzDT10YbkueCG"
+    },
+    {
+      "album": {
         "name": "switching tongues",
         "url": "https://open.spotify.com/album/28EXVEcrRvzNyp7BpLJ6S8"
       },
@@ -1318,7 +1372,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 149596,
       "name": "switching tongues",
       "url": "https://open.spotify.com/track/0oscvFSKOFlJSnRYOYmlZu"
@@ -1538,6 +1592,28 @@
       "duration_ms": 211328,
       "name": "Veins",
       "url": "https://open.spotify.com/track/5c31xDjXsYX1XE2Gm09fa9"
+    },
+    {
+      "album": {
+        "name": "WELL ENOUGH!",
+        "url": "https://open.spotify.com/album/5a2AjxUtgdtfWLhooKnF6q"
+      },
+      "artists": [
+        {
+          "name": "fiiVVVEE!",
+          "url": "https://open.spotify.com/artist/44yvXn4JmArldmKRaq6L6Q"
+        },
+        {
+          "name": "Joe Butler",
+          "url": "https://open.spotify.com/artist/2KSi09E9Ll6vK9aUcbusFw"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193970,
+      "name": "WELL ENOUGH!",
+      "url": "https://open.spotify.com/track/0v8itswFBG0nfiWvLQzjCW"
     },
     {
       "album": {

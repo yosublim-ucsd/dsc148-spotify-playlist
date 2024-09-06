@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 158400,
       "name": "396 Hz Open Mind",
       "url": "https://open.spotify.com/track/2IDuOFkmxNV2Udp8p8oEf7"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 172000,
       "name": "Aether Talk",
       "url": "https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6"
@@ -1748,7 +1748,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 202500,
       "name": "Dreamcatcher",
       "url": "https://open.spotify.com/track/136EmiIaoINHMMk3UBzi8o"
@@ -1838,7 +1838,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 197333,
       "name": "Dust",
       "url": "https://open.spotify.com/track/1cGhvEUDfYowSuhv4txj2G"
@@ -1878,6 +1878,24 @@
       "duration_ms": 160150,
       "name": "Eden",
       "url": "https://open.spotify.com/track/6CWQhbc0inw5cmmiKiAZEX"
+    },
+    {
+      "album": {
+        "name": "Eindeloos 528 Hz",
+        "url": "https://open.spotify.com/album/6lKMxnHTKYldZmQBgqIjN8"
+      },
+      "artists": [
+        {
+          "name": "Jasper van Dijk",
+          "url": "https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197855,
+      "name": "Eindeloos 528 Hz",
+      "url": "https://open.spotify.com/track/2kofSc5aL5EaoyTZpMAlR6"
     },
     {
       "album": {
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157415,
       "name": "It Will Be Okay",
       "url": "https://open.spotify.com/track/3CKJGu19FWZvnKQfpFwpmR"
@@ -3080,7 +3098,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 188704,
       "name": "Leading Light",
       "url": "https://open.spotify.com/track/5AL7XX3jWq8GfZLSRW0zC9"

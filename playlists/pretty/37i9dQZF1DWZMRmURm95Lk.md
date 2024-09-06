@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Mezzosangue in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,580 likes - 155 songs - 9 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,595 likes - 155 songs - 9 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,10 +139,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 129 | [Un giardino](https://open.spotify.com/track/3S0IMV2tmNNBUjVzhXkfgj) | [Carlo Corallo](https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt), [Funk Shui Project](https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E) | [Un giardino](https://open.spotify.com/album/6TC98w3RK2R4z96zhMb3KJ) | 3:58 |
 | 130 | [Ora Che La Musica Non C'è](https://open.spotify.com/track/57DGaQvgR6ofNcKursCDry) | [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q), [DJ Shocca](https://open.spotify.com/artist/10qaAJjsY1PMDwPnNwHKMz), [Ze in the Clouds](https://open.spotify.com/artist/5cflBaBT7fUwdCJZgi2ESf) | [Ora Che La Musica Non C'è](https://open.spotify.com/album/4jTFSdmiMbkzkaohBvHE49) | 4:22 |
 | 131 | [Int 'o rione](https://open.spotify.com/track/7qccCcKFPjPB6YfZtClnzQ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:26 |
-| 132 | [Il Supermercato delle dittature](https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV) | [DJ Myke](https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Il Supermercato delle dittature](https://open.spotify.com/album/3f0bQj6OB4xM9yCOW9a3C8) | 3:57 |
+| 132 | [Magma](https://open.spotify.com/track/16GaeA0WeGiSFcmgp0UE6D) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [Nuova Gaia](https://open.spotify.com/album/0v0BdeJpdpczjHiUqgSH5U) | 3:52 |
 | 133 | [Tutto Deve Cambiare](https://open.spotify.com/track/1YyxgxwPoPZuS98zd2p0Ew) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Dafa](https://open.spotify.com/artist/0XL3wakjeNxxacLlnGAqXv), [Inoki](https://open.spotify.com/artist/0nKxW51VOD6px2uMM4ehfF), [DJ Bront](https://open.spotify.com/artist/62vW0gU3UTCWeCaYWc1nhv) | [Young Veterans \- Terzo Occhio \- EP](https://open.spotify.com/album/1QqaaVKakZw3Wn23YCs8mo) | 3:01 |
-| 134 | [Magma](https://open.spotify.com/track/16GaeA0WeGiSFcmgp0UE6D) | [XVI Religion](https://open.spotify.com/artist/2MnHoKWg1ziqrnUe30wbaT) | [Nuova Gaia](https://open.spotify.com/album/0v0BdeJpdpczjHiUqgSH5U) | 3:52 |
-| 135 | [Milano Monster](https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Lexotan](https://open.spotify.com/artist/7cm5iwu932G8LwzcTM0afg) | [Milano Monster](https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20) | 3:05 |
+| 134 | [Milano Monster](https://open.spotify.com/track/1YeQkvyy0mnETxy1eQTEUe) | [Jangy Leeon](https://open.spotify.com/artist/1WTZw0SzZvDGPqO9uYkFx7), [Lexotan](https://open.spotify.com/artist/7cm5iwu932G8LwzcTM0afg) | [Milano Monster](https://open.spotify.com/album/2anO1UBugnkwHURnxQKt20) | 3:05 |
+| 135 | [Il Supermercato delle dittature](https://open.spotify.com/track/37tTbV5m09Nn5k6ucwIJmV) | [DJ Myke](https://open.spotify.com/artist/0agw9rAVju2v0Ot1OHYt7O), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [Il Supermercato delle dittature](https://open.spotify.com/album/3f0bQj6OB4xM9yCOW9a3C8) | 3:57 |
 | 136 | [MISERABILE](https://open.spotify.com/track/1U8UISHXkDT6lEXMpBOmSw) | [Macaboro](https://open.spotify.com/artist/7mtZP3UQaCaWhM2K8ubgF9) | [MISERABILE](https://open.spotify.com/album/3pw6wIkDLsG3a9BB0c4Zr1) | 2:31 |
 | 137 | [Chi more pe' mme](https://open.spotify.com/track/25flWdPdXnkAUnaAYiptsJ) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu) | [Chi more pe' mme](https://open.spotify.com/album/7sQY9G34DIq1rFaL4Du7ei) | 4:43 |
 | 138 | [Qgino](https://open.spotify.com/track/7Jn9Heg6GjVSabucO9CJLN) | [Louis Dee](https://open.spotify.com/artist/0cqKe5aIp6diwasKdXzJF6), [Big Joe](https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI), [Emis Killa](https://open.spotify.com/artist/1I1VtoDX2Tkvr43VfqY8Ms) | [PALIFORNIA](https://open.spotify.com/album/4mEKiX9VzmZJGpicUczrSA) | 2:35 |

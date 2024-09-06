@@ -4,7 +4,7 @@
 
 > Go hard or go home\. Cover: Mozey
 
-253 songs - 16 hr 55 min
+254 songs - 16 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [bailejungle](https://open.spotify.com/track/4wkeHElj4wfEb8WSUah3xz) | [Urbandawn](https://open.spotify.com/artist/4Kjl91bg9I6TuhrEC0NQgX) | [bailejungle](https://open.spotify.com/album/3AHlB9soIbmWf533WDG1eW) | 2:43 | 2024-08-30 |  |
 | [Bass](https://open.spotify.com/track/2UUqOLcktNsBYCwwgo47K5) | [CJDJ](https://open.spotify.com/artist/3yxPOdZ3ybZQETzvr7AcXS) | [Bass](https://open.spotify.com/album/3hVol43tkxVVOUc2yafClu) | 2:05 | 2024-01-12 |  |
 | [Behemoth](https://open.spotify.com/track/6ZVgnqRsYGRwSYrdmUGkF8) | [Simula](https://open.spotify.com/artist/2KCmoJZgpL6hNFdT4l9PTl) | [Behemoth](https://open.spotify.com/album/03I61jwYEx4Uymzs4iAZio) | 4:28 | 2024-03-22 |  |
+| [Big Bad Bass](https://open.spotify.com/track/0nIaLfe57M0pACn2aU2JXZ) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2), [Sub Zero](https://open.spotify.com/artist/3kMQ0Gx56mVysMT3fqyneR) | [Big Bad Bass](https://open.spotify.com/album/0fk3Q1dNW4b77q1v4T4Tjt) | 4:13 | 2024-09-05 |  |
 | [Big Drama](https://open.spotify.com/track/5a5wzLXJMaUhyje8NumilP) | [Inner Terrain](https://open.spotify.com/artist/4PuEXXOjaWHSXBhwciv7Qd), [Wreckless](https://open.spotify.com/artist/4zaGVlW2ju3YXrZTMdNCQE) | [Paradigm Shift](https://open.spotify.com/album/04ZnNjvV0uDjFVhGl5ykTD) | 4:52 | 2022-05-06 | 2022-07-19 |
 | [Bomb Squad \- A.M.C Forever Dub Version](https://open.spotify.com/track/0fP0UPEqSJ0Lv1fNm5KVAZ) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Bomb Squad](https://open.spotify.com/album/6Phf3s8ts2PKQUlHyCkjOW) | 4:45 | 2023-12-27 | 2024-01-12 |
 | [Bomb Squad \- Bou Remix](https://open.spotify.com/track/6jGU17l4TnPAB3I97tCdD3) | [Dominator](https://open.spotify.com/artist/4ma9HJkRMW53TV4aRQy6Mn), [Turno](https://open.spotify.com/artist/1TVDml0EOLsjUxBCFzqWes), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Bomb Squad \(Bou Remix\)](https://open.spotify.com/album/1WLCIFIAjIJ6klq4kHGuWk) | 4:48 | 2024-03-22 |  |
@@ -134,7 +135,7 @@
 | [Lift Off The Roof](https://open.spotify.com/track/3WP7uvv1HkbVny5fHdgH3Z) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/31BWS50pcum5FqJyTfqcYu) | 3:05 | 2022-08-12 | 2023-05-24 |
 | [Lift Off The Roof](https://open.spotify.com/track/7HcnRj6vM3fQ5xmn3AbJcq) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Lift Off The Roof](https://open.spotify.com/album/2eKZy0pAKmXxlNxyBXND7v) | 3:05 | 2022-05-06 | 2022-07-24 |
 | [Light It Up](https://open.spotify.com/track/6eWgNJspumvHtUmx8pQlFM) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Light It Up](https://open.spotify.com/album/5VR6J9N4EqZHOnzs6lvGgU) | 3:41 | 2024-01-12 |  |
-| [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 |  |
+| [Lightspeed](https://open.spotify.com/track/6uSlV69MsqwwLKcXy8GaXl) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Back To Normal](https://open.spotify.com/album/0yfDa2WdnPtxcckL5IQIe9) | 4:28 | 2022-05-06 | 2024-09-06 |
 | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/track/15BDY6GKFfk02WaoyytP9g) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Hedex](https://open.spotify.com/artist/22I9QWygJ2IfxR855VsA3t), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Liquor & Cigarettes \(feat\. ArrDee\)](https://open.spotify.com/album/7w1n03aRWJeZw1AVPDHpFC) | 3:09 | 2023-10-13 |  |
 | [Lively \(feat\. Jaykae & Blair Muir\) \- Alcemist Remix](https://open.spotify.com/track/3bDmXTnza1kblLGQrN5jvX) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT), [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0) | [Lively \(feat\. Jaykae & Blair Muir\) \[Alcemist Remix\]](https://open.spotify.com/album/6dn1fXm9vecpP4wc0Qmawi) | 3:54 | 2022-06-20 | 2023-12-27 |
 | [Lock off the Rave](https://open.spotify.com/track/6FPETQc9CdCmRME7HRwlgk) | [ORAM](https://open.spotify.com/artist/0KZlJiMx0Lyn8hl8d9gCBJ) | [Lock off the Rave](https://open.spotify.com/album/4QyCaxCa2RbF8sMCzkYz9R) | 4:30 | 2022-05-06 | 2022-07-25 |

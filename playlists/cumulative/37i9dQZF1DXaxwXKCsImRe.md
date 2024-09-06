@@ -2,9 +2,9 @@
 
 ### [RADAR BNLX](https://open.spotify.com/playlist/37i9dQZF1DXaxwXKCsImRe)
 
-> RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:11T0XSkxSB5KUPTe8P8BOl">Sylvie Kreusch</a> \(cover\), The Vices, Berre, The Indien & Roxy Dekker
+> RADAR = promoting exciting artists! RADAR BNLX: <a href="spotify:artist:6TSjJlhB2taxea58rCkMkj">The Vices</a> \(cover\), Sylvie Kreusch, Berre, The Indien & Roxy Dekker
 
-189 songs - 10 hr 0 min
+190 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Gaan We Weg?](https://open.spotify.com/track/02nm2yGw7BygWmRcbFhAlC) | [Roxy Dekker](https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Gaan We Weg?](https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas) | 2:21 | 2024-07-11 |  |
 | [get older](https://open.spotify.com/track/0Ry8KfNAJIuKQBskXsF0ee) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [not going anywhere](https://open.spotify.com/album/2JJWyPspAEHpWybdHPtFzi) | 2:57 | 2023-09-14 |  |
 | [Gisèle](https://open.spotify.com/track/6wqv1yeDe2wlPmQEM5ZCYb) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5), [Juicy Cola](https://open.spotify.com/artist/6u9m2Ocxutj8gv7UJdwiWJ) | [Emma Peters \(Remixed\)](https://open.spotify.com/album/5NHfnTwW8s72NU0Fa92jeP) | 3:16 | 2022-02-03 | 2022-03-19 |
+| [Gold](https://open.spotify.com/track/78TrDPsrrV0qWyqUmpj1Lm) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Gold](https://open.spotify.com/album/3zZDnfsDMmYZ20DsNGir3I) | 2:54 | 2024-09-05 |  |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/1S6dAn7JVM7f0TPabCjS3Y) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/2bfob7z1a7651fvK2kCf5a) | 4:23 | 2023-07-20 | 2023-07-26 |
 | [Gone \- Monks\. Remix](https://open.spotify.com/track/4XLXrYdFsGF7StgArAPEYX) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod), [Monks.](https://open.spotify.com/artist/6Xzfqilk615ZKGjEOwTdPK) | [Gone \(Monks\. Remix\)](https://open.spotify.com/album/3hhVdDALanDfdFL3dPn7ih) | 4:23 | 2023-07-20 | 2024-01-19 |
 | [Grow](https://open.spotify.com/track/2VkQOOtMhEkd2KF2AAGVKD) | [Jeangu Macrooy](https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr) | [Grow](https://open.spotify.com/album/7n1mEyOkjx2HUeW43vBRMH) | 2:59 | 2023-09-14 |  |
@@ -163,7 +164,7 @@
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-06-23 | 2024-01-19 |
 | [Souljack](https://open.spotify.com/track/0W3w9pPy0JvezOG96J2biy) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Souljack EP](https://open.spotify.com/album/4Wo7BhKv46vuyryLgrgJFK) | 3:44 | 2022-10-17 | 2023-09-15 |
 | [Spotlight](https://open.spotify.com/track/38PpCriX9SO5ueEoJeTbLN) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [Spotlight](https://open.spotify.com/album/7FmvaMUnvgCE77Sr47GoZV) | 2:39 | 2023-01-27 | 2023-09-15 |
-| [Strange Again](https://open.spotify.com/track/65SdiBtL7vyqw5HU1xfT0i) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/6gsiRBHrsMLSRmNrp0IjDN) | 2:55 | 2024-07-01 |  |
+| [Strange Again](https://open.spotify.com/track/65SdiBtL7vyqw5HU1xfT0i) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Unknown Affairs](https://open.spotify.com/album/6gsiRBHrsMLSRmNrp0IjDN) | 2:55 | 2024-07-01 | 2024-09-06 |
 | [Stranger](https://open.spotify.com/track/6HsP8AwuSVliAtYXr93br0) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [Jhn McFly](https://open.spotify.com/artist/7zznl279cpu0bbWfEjBq5c), [Marissa](https://open.spotify.com/artist/7lRC2ICJeiCyz2wSU6BVkH) | [Stranger](https://open.spotify.com/album/1SYD9U5ySpahn116MFUxby) | 2:08 | 2022-08-25 | 2023-09-15 |
 | [stubborn mind](https://open.spotify.com/track/7CCG7aIeTh3HRHfjz3SxQR) | [Kids With Buns](https://open.spotify.com/artist/1HF3WeoXOBYHlVkLn20lXz) | [out of place](https://open.spotify.com/album/3v5oBoElWXugqDj7gCd1eO) | 3:00 | 2023-10-20 |  |
 | [Stuck in the Sky](https://open.spotify.com/track/0PZdvrkdzVpIyVCL7KLR2r) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:14 | 2021-12-10 | 2022-08-26 |

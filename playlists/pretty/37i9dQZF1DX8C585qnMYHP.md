@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Misha Panfilov on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,668 likes - 99 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,725 likes - 99 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,13 +94,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 84 | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/track/3LlORu6FXlZUflmYujCFIk) | [Kmonvish Lawan](https://open.spotify.com/artist/1AuuBHlqk32vXrI5E3KAp9), [YEEET](https://open.spotify.com/artist/3c4oSlSmrIpIBNDhbWIU0P) | [DON'T! DON'T!! DON'T!!! \(feat\. YEEET\)](https://open.spotify.com/album/55u3E9KAJRaJxjarTSjQz9) | 3:16 |
 | 85 | [Weimar 22](https://open.spotify.com/track/45tyh3NtIfD37jlNOj6rGp) | [R.N.A\. Organism](https://open.spotify.com/artist/44Rhiu2k3Yp0a6Y8VpTfxu) | [R.N.A.O Meets P.O.P.O](https://open.spotify.com/album/6EGSbTzt0UvsSr1OZSR0nI) | 4:11 |
 | 86 | [ocean, sea, ocean.](https://open.spotify.com/track/23bA4F9fTGFCnGHwyLJAOO) | [YUSAKU ARAI](https://open.spotify.com/artist/18b1wB4Q8fdrAatkpCegf0) | [a two](https://open.spotify.com/album/1tsbblGgepVwBV7fXm8h4f) | 2:57 |
-| 87 | [Meta VI](https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:52 |
-| 88 | [Ritual](https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl) | [Frank Rodas](https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM) | [Ritual](https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91) | 9:08 |
+| 87 | [Ritual](https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl) | [Frank Rodas](https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM) | [Ritual](https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91) | 9:08 |
+| 88 | [Meta VI](https://open.spotify.com/track/5SpL9m07PFHdW7WoWzwbN0) | [Nikolaienko](https://open.spotify.com/artist/3fifybKFLHwKbEjATG02ig) | [Meta](https://open.spotify.com/album/5PCWhedTMnMndndZ0pw5bc) | 5:52 |
 | 89 | [Gate VIII](https://open.spotify.com/track/0Zzwh201mYmQCxHtDKSkI2) | [Ka Baird](https://open.spotify.com/artist/5IzFojkr5NLxvRExo2OnG6) | [Bearings: Soundtracks for the Bardos](https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE) | 4:00 |
 | 90 | [In the Merry Month of May](https://open.spotify.com/track/4bptC5RF2Gpevf1UNW4hQY) | [Tony Conrad](https://open.spotify.com/artist/4JZ6ZOxHDimksHWN4DFmoM), [Jennifer Walshe](https://open.spotify.com/artist/4bqcPXYD5ZNhyov5GNK43J) | [In The Merry Month Of May](https://open.spotify.com/album/0gPpPJZb17VAdPc22ZhKYi) | 7:49 |
-| 91 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
-| 92 | [Ines](https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A) | [Alena Spanger](https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF) | [Fire Escape](https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj) | 3:24 |
-| 93 | [Viking](https://open.spotify.com/track/48fcNhtI0PEDuQ7ReUhOaF) | [Geoffroy](https://open.spotify.com/artist/3fMYNaPQar24I1jSPnGT3E) | [Kiosque d'Orphée – Une épopée de l'autoproduction en France](https://open.spotify.com/album/1JEqgytHuhDlYCV0eElLLL) | 11:51 |
+| 91 | [Ines](https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A) | [Alena Spanger](https://open.spotify.com/artist/2LUmE2P3lFBAowx37RwoPF) | [Fire Escape](https://open.spotify.com/album/1flZOnKTST1jXn7sLXgSXj) | 3:24 |
+| 92 | [Viking](https://open.spotify.com/track/48fcNhtI0PEDuQ7ReUhOaF) | [Geoffroy](https://open.spotify.com/artist/3fMYNaPQar24I1jSPnGT3E) | [Kiosque d'Orphée – Une épopée de l'autoproduction en France](https://open.spotify.com/album/1JEqgytHuhDlYCV0eElLLL) | 11:51 |
+| 93 | [Unbound](https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl) | [Bizhiki](https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d) | [Unbound](https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ) | 3:35 |
 | 94 | [Cold Drinks](https://open.spotify.com/track/3YJL34GQVRvMVIkJzMfbQj) | [Atrás del Cosmos](https://open.spotify.com/artist/3ASNnZ14BUk9jBjVscHodl) | [Cold Drinks, Hot Dreams](https://open.spotify.com/album/6pmWgl5yp6f1Gnhb8tAYKb) | 10:28 |
 | 95 | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be) | [Low End Activist](https://open.spotify.com/artist/72oF97JtpHOAEYBMLzKKDg) | [Airdrop 04 \(Squeeze Yer Lemon\)](https://open.spotify.com/album/5WSxEXdCW5QSYIphB2nNMf) | 4:18 |
 | 96 | [affinity](https://open.spotify.com/track/0kocJBl35yL3ktcNI58J9X) | [Kool Music](https://open.spotify.com/artist/4MYZvp7sFATdqfMy3k0pUs) | [Trois Horses](https://open.spotify.com/album/05bmyDRJZb9BWCjdNGWhVm) | 3:24 |

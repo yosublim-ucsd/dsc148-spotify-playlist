@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7yrbW1sT98VZ2r7qMHy94q">ZEG P</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35 likes - 62 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 36 likes - 62 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 35 | [2014](https://open.spotify.com/track/7eIAX5Kkm0N3aQCAEa9QsV) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Vald](https://open.spotify.com/artist/3CnCGFxXbOA8bAK54jR8js) | [Horizon vertical](https://open.spotify.com/album/0mk2Znz1qdyhChMdX62pID) | 2:57 |
 | 36 | [C'est ça les z'hommes](https://open.spotify.com/track/3ScPY519jnogbOKNQPav3I) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Carré VIP](https://open.spotify.com/album/2tqPdi5mS2Ol41V81256zd) | 3:37 |
 | 37 | [Booboo](https://open.spotify.com/track/5yFqa6JldRyAPyDQiDPaTk) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Booboo](https://open.spotify.com/album/0NTh1ghyhk0qeyhbDPMGEf) | 2:42 |
-| 38 | [Viens dans mon 93](https://open.spotify.com/track/20b6XMR9nGmtzO8CJ89VIn) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Viens dans mon 93 \(Extrait du projet 93 Empire\)](https://open.spotify.com/album/60RTLxX87WtHyhVDkvjRyk) | 3:23 |
-| 39 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
+| 38 | [Essaie encore](https://open.spotify.com/track/792zA7PcYHPDtUoXnYrV5e) | [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Love Therapy](https://open.spotify.com/album/4prTPXxItELsSK93dOOjgZ) | 2:40 |
+| 39 | [Viens dans mon 93](https://open.spotify.com/track/20b6XMR9nGmtzO8CJ89VIn) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW), [Sofiane](https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z) | [Viens dans mon 93 \(Extrait du projet 93 Empire\)](https://open.spotify.com/album/60RTLxX87WtHyhVDkvjRyk) | 3:23 |
 | 40 | [M'en aller](https://open.spotify.com/track/7LlyQndi8Sebi4YRXz4nVc) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [En temps réel](https://open.spotify.com/album/1rs3ZOltQ78YblG2YMIvRI) | 2:46 |
 | 41 | [Vie de reusta](https://open.spotify.com/track/2eEkL0gd9Qv0bHwNwykNQH) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 2:25 |
 | 42 | [Terminer](https://open.spotify.com/track/6fHYEeB30chvQLqEpm89pR) | [Wejdene](https://open.spotify.com/artist/1SxuyHZnLUFyFHGzdGaxZk) | [W](https://open.spotify.com/album/6pVRTrjpqoLf1vZC21yJC5) | 3:03 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSRuHBxaaSpJ.md) - [plain]
 | 61 | [Nia](https://open.spotify.com/track/1YrBuuAi9sz27cdZxu5odj) | [Doria](https://open.spotify.com/artist/4ddqz1AzqYMRKYTslXO839) | [Petite fille](https://open.spotify.com/album/3DfRtkuxvmkj1PLg6ps9Se) | 3:47 |
 | 62 | [Par hasard](https://open.spotify.com/track/0u2AmL4idXpdOCOLAwiCd1) | [Rafal](https://open.spotify.com/artist/1po2usUvDtjw2UVI2bnV1h) | [Jukaï : Tome 1](https://open.spotify.com/album/5sqmCvklxhkUu63bGCPtT7) | 2:15 |
 
-Snapshot ID: `AbbRqQAAAAAIXs+9n/POGiJnXVRFyejw`
+Snapshot ID: `AbbXSAAAAAAVQ1g/doiMySVxpQRFIpoM`

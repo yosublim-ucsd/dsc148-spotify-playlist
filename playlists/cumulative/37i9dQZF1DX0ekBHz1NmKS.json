@@ -959,6 +959,24 @@
     },
     {
       "album": {
+        "name": "All Over Town",
+        "url": "https://open.spotify.com/album/321cYact51YEkdO42GqeVe"
+      },
+      "artists": [
+        {
+          "name": "Amanda Bergman",
+          "url": "https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227106,
+      "name": "All Over Town",
+      "url": "https://open.spotify.com/track/4fQaAVDoLg2QauZPMu2Lne"
+    },
+    {
+      "album": {
         "name": "Alla m\u00e5ste \u00e4lska mig",
         "url": "https://open.spotify.com/album/7DViMnpL50xK4xAUYmECH1"
       },
@@ -4719,6 +4737,24 @@
     },
     {
       "album": {
+        "name": "Del av dig - Radio Edit",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221418,
+      "name": "Del av dig - Radio Edit",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "album": {
         "name": "Poetiska f\u00f6rs\u00f6k",
         "url": "https://open.spotify.com/album/0DYbe7sRI3D12rwIMqlyGu"
       },
@@ -4752,6 +4788,24 @@
       "duration_ms": 256449,
       "name": "Den h\u00e4r g\u00e5ngen \u00e4r det p\u00e5 riktigt",
       "url": "https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W"
+    },
+    {
+      "album": {
+        "name": "Den jag kunde blivit - Den jag blev",
+        "url": "https://open.spotify.com/album/7uXYOA68E1WQSfBuVpvGQC"
+      },
+      "artists": [
+        {
+          "name": "Melissa Horn",
+          "url": "https://open.spotify.com/artist/0tOdy7SqogILIjzGU2hSr5"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177479,
+      "name": "Den jag kunde blivit - Den jag blev",
+      "url": "https://open.spotify.com/track/3bXeMeJmDSe8ZPGx2FWnH7"
     },
     {
       "album": {
@@ -5052,7 +5106,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 181442,
       "name": "Det \u00e4r n\u00e5got i luften",
       "url": "https://open.spotify.com/track/6H9ME4TXQ1OgVw3GgrC0JD"
@@ -6506,7 +6560,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 157041,
       "name": "Eddie",
       "url": "https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct"
@@ -6936,7 +6990,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163594,
       "name": "Endless Road",
       "url": "https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06"
@@ -11352,7 +11406,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 175792,
       "name": "HOW DOES IT FEEL",
       "url": "https://open.spotify.com/track/1fqDf3u95Cm5mIsKeS8Qhn"
@@ -11808,6 +11862,24 @@
       "duration_ms": 173584,
       "name": "H\u00f6gt \u00d6ver Taken",
       "url": "https://open.spotify.com/track/0T8S33cVdjRko7V4SFtCJt"
+    },
+    {
+      "album": {
+        "name": "H\u00f6r n\u00e5n mig",
+        "url": "https://open.spotify.com/album/2gIaeRBhsHjrWtm8aTyibU"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227250,
+      "name": "H\u00f6r n\u00e5n mig",
+      "url": "https://open.spotify.com/track/2V1G22JWj9SxlONKYjUMrG"
     },
     {
       "album": {
@@ -14461,6 +14533,24 @@
     },
     {
       "album": {
+        "name": "Hello Cowboy",
+        "url": "https://open.spotify.com/album/07xIxp1A0Lm6euiBdGTmf4"
+      },
+      "artists": [
+        {
+          "name": "Maja Francis",
+          "url": "https://open.spotify.com/artist/0RxWnw4aoWwxXsC2cdCj4c"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185258,
+      "name": "Leave a Little Love Behind",
+      "url": "https://open.spotify.com/track/4Nk8zZ9TEjBb4NHgPHNq6k"
+    },
+    {
+      "album": {
         "name": "Among Heads",
         "url": "https://open.spotify.com/album/1Jkh2XEpMKKDsrCVH94e9y"
       },
@@ -14490,7 +14580,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 234106,
       "name": "Leave the Light On",
       "url": "https://open.spotify.com/track/02VIYx4nxhe8wdmOx79eKu"
@@ -15611,6 +15701,24 @@
     },
     {
       "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/1hvd6IcbUFo4VV3tlRCUDF"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209866,
+      "name": "L\u00e4ngtan Bor I Mina Steg",
+      "url": "https://open.spotify.com/track/3IpklZ9RHOaCtchJDtnP5u"
+    },
+    {
+      "album": {
         "name": "L\u00e4tt",
         "url": "https://open.spotify.com/album/7nPeiml6nLN9Sm6l5DJ56t"
       },
@@ -16046,7 +16154,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 163505,
       "name": "Maniac",
       "url": "https://open.spotify.com/track/2rB2h2gK6jbnVHwRhxdUKi"
@@ -16260,7 +16368,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 165176,
       "name": "MATTER",
       "url": "https://open.spotify.com/track/47QalI5Og1vXqbBblXjnir"
@@ -18918,7 +19026,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 135208,
       "name": "One Time",
       "url": "https://open.spotify.com/track/7AbTRmWf15HOI9q6JTU1JM"
@@ -23040,6 +23148,24 @@
       "duration_ms": 143174,
       "name": "Sophie",
       "url": "https://open.spotify.com/track/156PB5oBdbdXSsJQS2yYzH"
+    },
+    {
+      "album": {
+        "name": "Sorgetornets spejare",
+        "url": "https://open.spotify.com/album/5d7FRhQCWZA2w7imnObJR3"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244653,
+      "name": "Sorgetornets spejare",
+      "url": "https://open.spotify.com/track/0HS4wNZ2TU8prdQWlx0XWC"
     },
     {
       "album": {
@@ -27804,6 +27930,24 @@
       "duration_ms": 323186,
       "name": "V\u00e4ntar p\u00e5 en solig dag",
       "url": "https://open.spotify.com/track/0rNfJBoTQWZvTyJoKz8QAT"
+    },
+    {
+      "album": {
+        "name": "V\u00e4rlden \u00e4r v\u00e5r",
+        "url": "https://open.spotify.com/album/0yX52C858pOUF1Ya32DKHk"
+      },
+      "artists": [
+        {
+          "name": "Reyn",
+          "url": "https://open.spotify.com/artist/0fyeRmbc7XdKio5Fm13LPB"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194285,
+      "name": "V\u00e4rlden \u00e4r v\u00e5r",
+      "url": "https://open.spotify.com/track/2rY652I4fSonQSRc5j88aQ"
     },
     {
       "album": {

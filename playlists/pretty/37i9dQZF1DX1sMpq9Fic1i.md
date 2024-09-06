@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sMpq9Fic1i.md) - [plain]
 
 > Music from "BLUELOCK" /アニメ「ブルーロック」の楽曲を1つのプレイリストで。©金城宗幸・ノ村優介・講談社／「ブルーロック」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,437 likes - 42 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,476 likes - 42 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

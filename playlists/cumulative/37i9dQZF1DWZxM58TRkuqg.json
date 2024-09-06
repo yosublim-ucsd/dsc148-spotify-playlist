@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: raissa anggiani",
+  "description": "Deretan musik Indonesia terpopuler saat ini. \nCover: Mahalini",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -190,7 +190,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 245086,
       "name": "Aku Takdirmu",
       "url": "https://open.spotify.com/track/7yDYXmJ8NAoYeVolXv9E5K"
@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Boleh Merindu",
+        "url": "https://open.spotify.com/album/16tWz380soVodMC5yN9la7"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248600,
+      "name": "Boleh Merindu",
+      "url": "https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC"
+    },
+    {
+      "album": {
         "name": "Buang - Buang Waktu",
         "url": "https://open.spotify.com/album/5jyZwljzuKZEKHprgTTmDv"
       },
@@ -584,7 +602,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 241236,
       "name": "Bukan Dengan Dia",
       "url": "https://open.spotify.com/track/03mQ3i9vPCEYO9KVi9qjHb"
@@ -1317,6 +1335,24 @@
     },
     {
       "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+    },
+    {
+      "album": {
         "name": "2324",
         "url": "https://open.spotify.com/album/58fyDVIXpIX8zMbNAh94xb"
       },
@@ -1350,6 +1386,28 @@
       "duration_ms": 224189,
       "name": "Hiduplah Sebelum Mati",
       "url": "https://open.spotify.com/track/2gdgiNTLNlNJO9qb9TBJbg"
+    },
+    {
+      "album": {
+        "name": "Genjrengan Iwan & Irfan - Aviary Live Session",
+        "url": "https://open.spotify.com/album/4y8oEMU1NlmOkwUoekWnA9"
+      },
+      "artists": [
+        {
+          "name": "Iwan Fals",
+          "url": "https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX"
+        },
+        {
+          "name": "Irfan Hakim",
+          "url": "https://open.spotify.com/artist/1VaXDs1rvFhDs71fmsKYHN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347037,
+      "name": "Hmmm - Aviary Live Session",
+      "url": "https://open.spotify.com/track/3BoRuGx4j8DsdwEXmbHmLS"
     },
     {
       "album": {
@@ -1476,7 +1534,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 215989,
       "name": "isi kepalaku",
       "url": "https://open.spotify.com/track/373ei1mlMWzYgS5QS6oXoZ"
@@ -2177,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Lost Stars - From \"Laura Movie\"",
+        "url": "https://open.spotify.com/album/7wB3zaQzNR5nXUynJqXLAL"
+      },
+      "artists": [
+        {
+          "name": "Nuca",
+          "url": "https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279442,
+      "name": "Lost Stars - From \"Laura Movie\"",
+      "url": "https://open.spotify.com/track/4KcG3ogn7rTXJzkErtyNKf"
+    },
+    {
+      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/3ueOQerHU7Qv1tuHmmDl3e"
       },
@@ -2192,6 +2268,24 @@
       "duration_ms": 192459,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/6YAGyRdsS4SZNlFGrpFjNr"
+    },
+    {
+      "album": {
+        "name": "LOVE ME LIKE YOU",
+        "url": "https://open.spotify.com/album/0kjnm700HNnAVp3S7TK2n8"
+      },
+      "artists": [
+        {
+          "name": "Rahmania Astrini",
+          "url": "https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182760,
+      "name": "LOVE ME LIKE YOU",
+      "url": "https://open.spotify.com/track/63EbNEB1rrRaDjNXK4jlJC"
     },
     {
       "album": {
@@ -2762,10 +2856,28 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 213007,
       "name": "Putus",
       "url": "https://open.spotify.com/track/1Z9mn9WZC1pOLrIK3hxdg3"
+    },
+    {
+      "album": {
+        "name": "Rahasia #2",
+        "url": "https://open.spotify.com/album/4boRdm48cMp4ojgdsULFxH"
+      },
+      "artists": [
+        {
+          "name": "RAN",
+          "url": "https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194943,
+      "name": "Rahasia #2",
+      "url": "https://open.spotify.com/track/6jQa4jKWIgwUX4EW2R8UND"
     },
     {
       "album": {
@@ -2906,10 +3018,28 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 235269,
       "name": "Sampai Mati Kan Ku Kejar",
       "url": "https://open.spotify.com/track/4TveE7nbH7XNSdlQEo123z"
+    },
+    {
+      "album": {
+        "name": "Sampai Menutup Mata",
+        "url": "https://open.spotify.com/album/3MY5j23bUAPJKChg5V47m9"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248666,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/5bY4g7cLyasuuhthJ7Mdlh"
     },
     {
       "album": {
@@ -3367,6 +3497,24 @@
     },
     {
       "album": {
+        "name": "Tak Ada Restu",
+        "url": "https://open.spotify.com/album/5TAlWpHFbOl280myoaBR8h"
+      },
+      "artists": [
+        {
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224020,
+      "name": "Tak Ada Restu",
+      "url": "https://open.spotify.com/track/3iA28Y6cjgin0CxnPszLmG"
+    },
+    {
+      "album": {
         "name": "Tak Berharap Lagi",
         "url": "https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs"
       },
@@ -3540,7 +3688,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-06",
       "duration_ms": 254125,
       "name": "Tangan-Tangan Ucap Perpisahan",
       "url": "https://open.spotify.com/track/0f9EWUsizQlZyBHR3Qdban"
@@ -3862,6 +4010,24 @@
       "duration_ms": 259019,
       "name": "Tuhan Yang Tahu",
       "url": "https://open.spotify.com/track/1695rzxy8HrOhjtvEZ3LjF"
+    },
+    {
+      "album": {
+        "name": "Tunggu Apa Lagi",
+        "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
+      },
+      "artists": [
+        {
+          "name": "Nyoman Paul",
+          "url": "https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219352,
+      "name": "Tunggu Apa Lagi",
+      "url": "https://open.spotify.com/track/4GUphFvzqaCHPDkS2VDn2I"
     },
     {
       "album": {

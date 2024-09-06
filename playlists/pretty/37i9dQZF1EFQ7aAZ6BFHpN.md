@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 335 likes - 148 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 148 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 72 | [Impromptu in Two Keys](https://open.spotify.com/track/1jvsvbfQfCwh6maXlLzsnV) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Public Domain](https://open.spotify.com/artist/4iFb0urZ0WBT8L4oWFeNvq), [Shai Wosner](https://open.spotify.com/artist/6gQUTKFY4X92FtgRfTqL2m) | [Impromptu](https://open.spotify.com/album/2UYasjewDpuyNVxO32ytnD) | 2:27 |
 | 73 | [Will You Remember Me?](https://open.spotify.com/track/08XnODSnsFbMmXZ5NDGddx) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Matthew Broderick](https://open.spotify.com/artist/67e4oTnYalF7cutrWJB7dG) | [Nice Work If You Can Get It \(Original Broadway Cast Recording\)](https://open.spotify.com/album/4cFwFSQpmvLr4UwmU3dXbw) | 2:55 |
 | 74 | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/track/74ZcW7JtXYb2qkG6o0VMdD) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [German Brass](https://open.spotify.com/artist/23OFuPJgFz1jGnHFW4WBiM) | [Porgy and Bess, Act I: Summertime \(Arr\. for Brass Ensemble\)](https://open.spotify.com/album/7urCvnR8XDmLV3o3wJofYF) | 3:25 |
-| 75 | [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 |
-| 76 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
+| 75 | [Rialto Ripples](https://open.spotify.com/track/1qIThzIpVP8GyTx8Y6lu5g) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [The Piano Rolls, Volume Two](https://open.spotify.com/album/5m3U1X9I0oltjme3PeFTlq) | 1:54 |
+| 76 | [Nothing But Love](https://open.spotify.com/track/5h4VW490aww3I7ikwmNipF) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [Brian Wilson Reimagines Gershwin](https://open.spotify.com/album/5V2xLFiybTKxScEAFEqPTW) | 3:24 |
 | 77 | [Niet Voor Mij Alleen](https://open.spotify.com/track/33T3wNvINj0gHMu18bgeJN) | [Kommil Foo](https://open.spotify.com/artist/68X7EQtVYHuUAYoFilK3wE) | [Wolf](https://open.spotify.com/album/3304CAyy9hPpSlCDS1UWA9) | 4:37 |
 | 78 | [Unidentified Piece for Banjo](https://open.spotify.com/track/7qwg41kYUkFQXhyl0jQ4b9) | [Béla Fleck](https://open.spotify.com/artist/2ka8z2lwkcp13fG8Wyv3xU) | [Rhapsody in Blue \(grass\)](https://open.spotify.com/album/5XeyyuXub22TpOXd3B1RzB) | 3:19 |
 | 79 | [Promenade \(Walking The Dog\)](https://open.spotify.com/track/50ixhMuQBDlZcXFbOMW6Yq) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Ella Fitzgerald Sings The George And Ira Gershwin Song Book](https://open.spotify.com/album/0R4cTfOy202dHa2x1bMnsw) | 2:32 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `AbbRlQAAAACdjabEbfSyhkEvrAdOhDcC`
+Snapshot ID: `AbbXNAAAAAD/2+k2A9jaoEWMvF60eInQ`

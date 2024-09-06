@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "BA DA BING",
+        "url": "https://open.spotify.com/album/5UxGQi98FToYbLqzjNDtpz"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131803,
+      "name": "BA DA BING",
+      "url": "https://open.spotify.com/track/0WAMFZu9JKJ4HN3dzzPUgI"
+    },
+    {
+      "album": {
         "name": "Bad",
         "url": "https://open.spotify.com/album/1ouBuaHg63LPYGXNjvWfiq"
       },
@@ -261,6 +279,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d9\u05db\u05dc, \u05e9\u05d9\u05d5\u05d5\u05d9 \u05de\u05e9\u05e7\u05dc \u05e1\u05d5\u05e4\u05d9, \u05d0\u05d1\u05d0",
+        "url": "https://open.spotify.com/album/0bPKwV5TqDWxjshMW5fhuP"
+      },
+      "artists": [
+        {
+          "name": "Lihi Toledano",
+          "url": "https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288260,
+      "name": "\u05d0\u05d1\u05d0",
+      "url": "https://open.spotify.com/track/37bJZ0107lcjV8zcfCzQ5g"
+    },
+    {
+      "album": {
         "name": "\u05d0\u05d4\u05d9\u05d4 \u05dc\u05da \u05d4\u05d9\u05e8\u05d7",
         "url": "https://open.spotify.com/album/0G3nqzymNWJxi2uVEkdMpT"
       },
@@ -392,6 +428,24 @@
       "duration_ms": 178276,
       "name": "\u05d0\u05d9\u05e8\u05d5\u05e0\u05d9\u05d4",
       "url": "https://open.spotify.com/track/2FKem4JxQdH0nhkqS2kkql"
+    },
+    {
+      "album": {
+        "name": "\u05d0\u05dc \u05ea\u05dc\u05db\u05d9",
+        "url": "https://open.spotify.com/album/2KtQV0fjUDkL61f90c3Ccl"
+      },
+      "artists": [
+        {
+          "name": "\u05e0\u05d9\u05e8 \u05db\u05e0\u05e2\u05df",
+          "url": "https://open.spotify.com/artist/0QiHQKrAfCCB0lVWnOxgLP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181733,
+      "name": "\u05d0\u05dc \u05ea\u05dc\u05db\u05d9",
+      "url": "https://open.spotify.com/track/3ZxJ11VOqtzbFPQJAGYCjC"
     },
     {
       "album": {
@@ -713,6 +767,46 @@
     },
     {
       "album": {
+        "name": "\u05d2\u05d1\u05d5\u05d4",
+        "url": "https://open.spotify.com/album/7C2HAll8Oqzh1Y5XSGUBhM"
+      },
+      "artists": [
+        {
+          "name": "Aviv Geffen",
+          "url": "https://open.spotify.com/artist/73ieysHN7XpJYEnEAYsO3K"
+        },
+        {
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/09zCxyq3puGUQUUYoVtqTm"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167710,
+      "name": "\u05d2\u05d1\u05d5\u05d4",
+      "url": "https://open.spotify.com/track/0sFoHzdmSwTJDM6pfUMoRb"
+    },
+    {
+      "album": {
+        "name": "\u05d2\u05d3\u05dc \u05e4\u05d4 \u05d3\u05d5\u05e8",
+        "url": "https://open.spotify.com/album/1FFQW7fxw1hOg9UDhgmYtc"
+      },
+      "artists": [
+        {
+          "name": "\u05e2\u05d9\u05d3\u05d5 \u05d1\u05d9",
+          "url": "https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186029,
+      "name": "\u05d2\u05d3\u05dc \u05e4\u05d4 \u05d3\u05d5\u05e8",
+      "url": "https://open.spotify.com/track/24u6yUc2ZMNxgmme53dbjQ"
+    },
+    {
+      "album": {
         "name": "\u05d2\u05d5\u05e0\u05d1 \u05dc\u05d9 \u05d0\u05d5\u05e9\u05e8",
         "url": "https://open.spotify.com/album/0Fh7bn1Gpk9Vh1MjQc0PqW"
       },
@@ -930,6 +1024,28 @@
       "duration_ms": 161600,
       "name": "\u05d4\u05db\u05dc \u05dc\u05d8\u05d5\u05d1\u05d4",
       "url": "https://open.spotify.com/track/0REMSQVoHQU9U1v5m657bx"
+    },
+    {
+      "album": {
+        "name": "\u05dc\u05d7\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256092,
+      "name": "\u05d4\u05dc\u05d5\u05da \u05d5\u05e9\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j"
     },
     {
       "album": {
@@ -1731,6 +1847,28 @@
     },
     {
       "album": {
+        "name": "\u05e0\u05d9\u05e1\u05e2 \u05e8\u05d7\u05d5\u05e7",
+        "url": "https://open.spotify.com/album/3Num1bNG3qwucBOlWXw1um"
+      },
+      "artists": [
+        {
+          "name": "Shiri Maimon",
+          "url": "https://open.spotify.com/artist/3giniJpo19Md4V5Plataq2"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "\u05e0\u05d9\u05e1\u05e2 \u05e8\u05d7\u05d5\u05e7",
+      "url": "https://open.spotify.com/track/6oeOKfiSiOf2kf5aSJdnQw"
+    },
+    {
+      "album": {
         "name": "\u05e0\u05e1",
         "url": "https://open.spotify.com/album/51FhEWNKJRRxTvNl3IWTlh"
       },
@@ -1953,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "\u05e4\u05ea\u05d0\u05d5\u05dd \u05db\u05dc \u05e9\u05d9\u05e8 \u05e2\u05d5\u05e9\u05d4 \u05dc\u05d1\u05db\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/5yXMH1dyNxpeZT7e0xdFZq"
+      },
+      "artists": [
+        {
+          "name": "Harel Skaat",
+          "url": "https://open.spotify.com/artist/3kZ7g7lW0eeBtoNxtw6zZY"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199000,
+      "name": "\u05e4\u05ea\u05d0\u05d5\u05dd \u05db\u05dc \u05e9\u05d9\u05e8 \u05e2\u05d5\u05e9\u05d4 \u05dc\u05d1\u05db\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5MsHNWgKAoiraDmqdxMOED"
+    },
+    {
+      "album": {
         "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
         "url": "https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs"
       },
@@ -1972,6 +2128,24 @@
       "duration_ms": 157177,
       "name": "\u05e6'\u05d5\u05e4 \u05e6'\u05d5\u05e4",
       "url": "https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T"
+    },
+    {
+      "album": {
+        "name": "\u05e6'\u05d9\u05e7 \u05e6'\u05e7",
+        "url": "https://open.spotify.com/album/6CPaapRNDzWiDB80rxJ2cn"
+      },
+      "artists": [
+        {
+          "name": "Static",
+          "url": "https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132380,
+      "name": "\u05e6'\u05d9\u05e7 \u05e6'\u05e7",
+      "url": "https://open.spotify.com/track/78FrkrO3KgizjXDObyFvzW"
     },
     {
       "album": {
@@ -2011,6 +2185,24 @@
     },
     {
       "album": {
+        "name": "\u05dc\u05d1\u05e0\u05ea \u05d1\u05df \u05d7\u05de\u05d5",
+        "url": "https://open.spotify.com/album/77EFk0zITinbwhsIjicwQ1"
+      },
+      "artists": [
+        {
+          "name": "Livnat Ben Hamou",
+          "url": "https://open.spotify.com/artist/7dDGoJ4nRld8RTcpHMuVAW"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199370,
+      "name": "\u05e7\u05d5\u05e4\u05e1\u05d0\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/7d9p0sK6NeGyJvl1w9VPRG"
+    },
+    {
+      "album": {
         "name": "\u05e8\u05d5\u05e7\u05d3\u05ea \u05d1\u05e9\u05e7\u05d9\u05e2\u05d4",
         "url": "https://open.spotify.com/album/2VgIKrfdFGjvQoIvfRzWJK"
       },
@@ -2044,6 +2236,24 @@
       "duration_ms": 173130,
       "name": "\u05e8\u05e2\u05d9\u05d3\u05ea \u05d0\u05d3\u05de\u05d4",
       "url": "https://open.spotify.com/track/3rV5bpPxR4J2zKwFEv2FaY"
+    },
+    {
+      "album": {
+        "name": "\u05e9\u05d9\u05d4\u05d9\u05d4 \u05dc\u05da \u05d8\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/0XWaaK1BCM8XALiyio8vQM"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184394,
+      "name": "\u05e9\u05d9\u05d4\u05d9\u05d4 \u05dc\u05da \u05d8\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/6Uk0HOyZ3MVw0Mg55Gvxj8"
     },
     {
       "album": {

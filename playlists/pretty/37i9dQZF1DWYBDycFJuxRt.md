@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/331479?utm\_source=spotify.com&utm\_medium=referral">連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: BUMP OF CHICKEN \*👉 <a href="https://spice.eplus.jp/articles/331675">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,389 likes - 90 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,390 likes - 90 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 30 | [＋1](https://open.spotify.com/track/2xsndC3jwFMDk45alOgKQU) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [カーテンコール](https://open.spotify.com/album/6ovVqQoICSyT4nry3TX3ru) | 4:01 |
 | 31 | [UNO](https://open.spotify.com/track/5WWqFzCfyRzT8lwIGhgEMI) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [UNO](https://open.spotify.com/album/3t1RF62X0MgE6BrVlOOPZU) | 3:03 |
 | 32 | [グッバイバイ feat\. BIG Naughty](https://open.spotify.com/track/618T09o5F8HEBZ9UoAMNny) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [グッバイバイ feat\. BIG Naughty](https://open.spotify.com/album/5kbwUDcv9fX8mIkZnQlPUD) | 3:19 |
-| 33 | [CUE :\)](https://open.spotify.com/track/4dbc3zkAP1RAPk84w6o6Cs) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [DJ YEN](https://open.spotify.com/artist/3PU8RwsWsS9uZmH1V2C4wn) | [CUE :\)](https://open.spotify.com/album/5vt7rKllGYhmP6fmlX4zNR) | 3:24 |
+| 33 | [CUE :\)](https://open.spotify.com/track/4dbc3zkAP1RAPk84w6o6Cs) | [FLEUR](https://open.spotify.com/artist/6WWEd7zMMyx6BKLnKukmeV), [DJ Yen](https://open.spotify.com/artist/5kRFqqvu4FOtaOevEfYH60) | [CUE :\)](https://open.spotify.com/album/5vt7rKllGYhmP6fmlX4zNR) | 3:24 |
 | 34 | [FLY](https://open.spotify.com/track/69TWjExg7jIsKppVduemkN) | [CHiLi GiRL](https://open.spotify.com/artist/1kY3BOyFg8uv9aEQjr6R95) | [CARAI](https://open.spotify.com/album/2iMnoiFCOn8mC8eRJtWPqR) | 2:59 |
 | 35 | [Atmosphere](https://open.spotify.com/track/5zedOynNXLH5aUHPM5zSv7) | [MONOEYES](https://open.spotify.com/artist/6E0nqUTrVRNwUGcbZxeDX9) | [The Unforgettables E.P.](https://open.spotify.com/album/0wfPZAnAc4hs0pIxXtS8pM) | 2:48 |
 | 36 | [Madness](https://open.spotify.com/track/6cfLuBTEVaYUXZJ6uyj7w7) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [Madness](https://open.spotify.com/album/0PBZHqTETqxvMXFBgWfoMW) | 3:15 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 89 | [OSAGARI](https://open.spotify.com/track/09lPRp9bzlfSTuXHhjoJr7) | [HINONABE](https://open.spotify.com/artist/5prUoGMqRokR10HEyR4LjD) | [ATARASHIIDAIJIDEUMENAYO.](https://open.spotify.com/album/0JKoqOZbTBU8c5KT1MaD44) | 2:55 |
 | 90 | [いまさら](https://open.spotify.com/track/7lYlCRSyK1IAgPyDRHS7tp) | [4円](https://open.spotify.com/artist/1to1kTKtkJFDanw6FGMrZW) | [いまさら](https://open.spotify.com/album/1fCQ5HfEJCXIjBitj7NtxI) | 4:39 |
 
-Snapshot ID: `ZtfuOQAAAAATkFHTLWk2LCf+/zvxPA/e`
+Snapshot ID: `ZtlexAAAAACOZjgmO7X460rrZqfi3Mol`
