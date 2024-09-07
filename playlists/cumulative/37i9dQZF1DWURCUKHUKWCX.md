@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-187 songs - 10 hr 23 min
+190 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Amor \- C.B\. Rework](https://open.spotify.com/track/7bUwtVVvPPdlW6Cghagfhn) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Daniel Isn’t Real \(Expanded Edition\)](https://open.spotify.com/album/7lew2WtSATnm25If8B9cAZ) | 4:10 | 2021-12-10 | 2023-03-15 |
 | [amour \(piano\)](https://open.spotify.com/track/2F0XzNxOXO6uzMyIYlC0EG) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [amour \(piano\)](https://open.spotify.com/album/4phqumUbfsuVx9ZWjne9TP) | 5:05 | 2022-07-08 |  |
 | [An Ending, a Beginning](https://open.spotify.com/track/2t6aXckrRWNnKb0ysc1vBc) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [Late Night Tales: Bonobo](https://open.spotify.com/album/75mOIzgjMsFLN5hyQlpsy8) | 2:08 | 2021-12-10 | 2023-01-04 |
+| [And I Alone](https://open.spotify.com/track/3cISlJElRfvRzINv5DOcVC) | [Snorri Hallgrímsson](https://open.spotify.com/artist/0cz823HlK1N6jNAIztyYHs) | [And I Alone](https://open.spotify.com/album/2Eyga05AJcKX51SOjUCUfV) | 2:55 | 2024-09-06 |  |
 | [Apartment Song \#5](https://open.spotify.com/track/0GG1KOVmUeZfipy9MB9m4e) | [Bruno Bavota](https://open.spotify.com/artist/22kkuXdiuYd7ISzXU5o7eH) | [Apartment Song \#5](https://open.spotify.com/album/3c5jf7GTivqPWw5bGLvtT5) | 3:11 | 2021-12-10 |  |
 | [As Wind Echoes Over Snow](https://open.spotify.com/track/31sFVhpsghiYz85q6pdxao) | [Jackson Love](https://open.spotify.com/artist/1UgWMZAdp3B83W5kgT6QEC) | [Winter Poetry](https://open.spotify.com/album/3UAMIANsQQemUfXOyTe5TU) | 3:41 | 2021-12-10 |  |
 | [Ascent \- Day 1](https://open.spotify.com/track/1Bdgn4nmMlADRQ6DPJh7UM) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Seven Days Walking \(Day 1\)](https://open.spotify.com/album/1m4GKm4lVNZdA4dHwcr8of) | 5:37 | 2021-12-10 | 2023-01-04 |
@@ -101,6 +102,7 @@
 | [Lunae](https://open.spotify.com/track/2c5hCxzQSRQR4XAiAEetEl) | [Jordain Wallace](https://open.spotify.com/artist/3DNVxNhoLQt9Q4HqzTPajS) | [To/Day](https://open.spotify.com/album/7cr80VXUNFKIVENIDuery7) | 3:40 | 2021-12-10 |  |
 | [Mamma](https://open.spotify.com/track/75HnNeRjD1HzKnpMRuoaKV) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Mamma](https://open.spotify.com/album/6o4CktR4yXJnpFqs9BDgpo) | 3:11 | 2023-03-03 |  |
 | [Mantra.](https://open.spotify.com/track/1k5XyTq6BeOu8Pv3ZL9Sh2) | [Erwin Deleux](https://open.spotify.com/artist/3CH0YOw0yK2qWURgB92DSk) | [Mantra.](https://open.spotify.com/album/4TbEVZrI3fvbjlQoVjnlAS) | 6:17 | 2021-12-10 | 2023-01-04 |
+| [Mazurek](https://open.spotify.com/track/64yYKXLXDlIPKknfoQ4k2H) | [Władysław Szpilman](https://open.spotify.com/artist/0lTe15Ofpyg39nXvLNAfcm), [Yulianna Avdeeva](https://open.spotify.com/artist/3eDciSEz4VLXT167KNKDHF) | [Szpilman: Mazurek](https://open.spotify.com/album/1X7ui7Ns2P2zwuRiInc4F1) | 2:23 | 2024-09-06 |  |
 | [Memory \- Harpa Sessions](https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM) | [Gabríel Ólafs](https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB) | [Harpa Sessions](https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk) | 2:46 | 2022-10-07 |  |
 | [Mercy Duet](https://open.spotify.com/track/2QSDy7lQFSywmy3dpntiIc) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices 2](https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5) | 4:26 | 2021-12-10 |  |
 | [Midnight](https://open.spotify.com/track/4XOeCy0ikuNcvKNxneetak) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Christmas Piano with Alexis](https://open.spotify.com/album/2YymiUCe4WEr0GBJ0aSLFx) | 3:03 | 2023-09-20 | 2024-04-19 |
@@ -190,6 +192,7 @@
 | [Vale](https://open.spotify.com/track/66rQOJEJDAxUUdOBxFE8FM) | [Rick Gallagher Project](https://open.spotify.com/artist/4muoYBXYYxGuhcZQlO9peY) | [Upright Sketches, Vol 2](https://open.spotify.com/album/5StgabD99z9jFfWMpBlOrY) | 2:20 | 2021-12-10 |  |
 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/49s3cG4RJNxpnTcptWjihX) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter \(Music For Theatre\)](https://open.spotify.com/album/4dCJnf1ZWcYOrqdfWEsmL9) | 3:09 | 2021-12-10 |  |
 | [Viola's Theme \- Music For Theatre](https://open.spotify.com/track/7AEf1Jc3htMKTWmFZOOGtR) | [Jacob Mühlrad](https://open.spotify.com/artist/0P9g1ss8CfLwU62fzm8Ldf), [Joel Lyssarides](https://open.spotify.com/artist/6OMYcSur3Y0DthpzbVkxAx) | [Tröstrapporter](https://open.spotify.com/album/4nxDnLtkNguSlaxTpzetdQ) | 3:09 | 2022-10-28 | 2024-04-19 |
+| [Water Variations and Theme: Variation II](https://open.spotify.com/track/26SHCfkRzsns4BVbpbr0Av) | [Oliver Davis](https://open.spotify.com/artist/3BRizPspINkIYljgzP1x6J), [Beth & Flo](https://open.spotify.com/artist/6vHrGcot7nJR1zRBBK2Io7) | [Oliver Davis: Blue](https://open.spotify.com/album/2GNj9tUmqEH2EK1vTmRM99) | 2:19 | 2024-09-06 |  |
 | [Wavering Heart](https://open.spotify.com/track/01Obe4SWMXoUKak13Uue71) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Wavering Heart](https://open.spotify.com/album/6Te7V9eLNY1300KEYrosRk) | 2:21 | 2021-12-10 | 2023-01-04 |
 | [When Orange is the Sky](https://open.spotify.com/track/17xaw9sDx8gyw1ZAOUb1Ns) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [When Orange is the Sky](https://open.spotify.com/album/2OCteDOA3yS9yKZqVjxpZv) | 1:39 | 2021-12-10 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-12-10 | 2023-01-04 |

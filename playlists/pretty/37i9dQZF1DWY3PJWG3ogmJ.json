@@ -1,6 +1,6 @@
 {
   "description": "Powerful and rhythmic  metal for maximum power during your workout.",
-  "num_followers": 665124,
+  "num_followers": 665225,
   "original_name": "Extreme Metal Workout",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-07-19 14:07:01",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2024-07-19 10:55:24",
@@ -269,6 +269,22 @@
       "url": "https://open.spotify.com/track/1BqzzWlA868p8J5VIbp50A"
     },
     {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "...And I Return To Nothingness - EP",
+        "url": "https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk"
+      },
+      "artists": [
+        {
+          "name": "Lorna Shore",
+          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
+        }
+      ],
+      "duration_ms": 343032,
+      "name": "Of the Abyss",
+      "url": "https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc"
+    },
+    {
       "added_at": "2024-07-19 10:55:24",
       "album": {
         "name": "CARNAL",
@@ -291,22 +307,6 @@
       "duration_ms": 263161,
       "name": "HOUSE ON SAND (feat. Eric V. of I Prevail)",
       "url": "https://open.spotify.com/track/6ZObKi7oiOXcFOPFzssJHH"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "...And I Return To Nothingness - EP",
-        "url": "https://open.spotify.com/album/0pt5jMdHTsMtlzpc4OMmAk"
-      },
-      "artists": [
-        {
-          "name": "Lorna Shore",
-          "url": "https://open.spotify.com/artist/6vXYoy8ouRVib302zxaxFF"
-        }
-      ],
-      "duration_ms": 343032,
-      "name": "Of the Abyss",
-      "url": "https://open.spotify.com/track/3wzAXBZ6mhuYEzf2IJAbDc"
     },
     {
       "added_at": "2024-07-19 10:55:24",
@@ -567,38 +567,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Keepers Of The Faith",
-        "url": "https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        }
-      ],
-      "duration_ms": 160973,
-      "name": "Return to Strength",
-      "url": "https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Hornet's Nest",
-        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 279811,
-      "name": "Hornet's Nest",
-      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Melancholy",
         "url": "https://open.spotify.com/album/5IgHVlikizQFBPieV1uk8v"
       },
@@ -619,18 +587,50 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Bleeding Sun",
-        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
+        "name": "Hornet's Nest",
+        "url": "https://open.spotify.com/album/3fqlPOjQ8mmYRV3ZtlkQEB"
       },
       "artists": [
         {
-          "name": "Chelsea Grin",
-          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
         }
       ],
-      "duration_ms": 219692,
-      "name": "Bleeding Sun",
-      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
+      "duration_ms": 279811,
+      "name": "Hornet's Nest",
+      "url": "https://open.spotify.com/track/12twP0oGdOTzmxLd0CoGs3"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Keepers Of The Faith",
+        "url": "https://open.spotify.com/album/6hu0pi5xOAgeHvXphLLc4W"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "duration_ms": 160973,
+      "name": "Return to Strength",
+      "url": "https://open.spotify.com/track/4dwkRSahcpLc1idfrxeuvk"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Spiritbox",
+        "url": "https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 337212,
+      "name": "The Beauty of Suffering",
+      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -649,20 +649,20 @@
       "url": "https://open.spotify.com/track/3y2p2XXpgw5QHxKmokQEHQ"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
+      "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Spiritbox",
-        "url": "https://open.spotify.com/album/158bnWWnX3VhlcoD4mcsK5"
+        "name": "Bleeding Sun",
+        "url": "https://open.spotify.com/album/7hkhFnClNPmRXL20KqdzSO"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Chelsea Grin",
+          "url": "https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b"
         }
       ],
-      "duration_ms": 337212,
-      "name": "The Beauty of Suffering",
-      "url": "https://open.spotify.com/track/0rnei6XtEFfLo5EzciKXXo"
+      "duration_ms": 219692,
+      "name": "Bleeding Sun",
+      "url": "https://open.spotify.com/track/6bsxDgpU5nlcHNZYtsfZG8"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -727,22 +727,6 @@
       "duration_ms": 189985,
       "name": "Lhhc",
       "url": "https://open.spotify.com/track/1EOlB3kMbJ9Idp8Q8zqXRC"
-    },
-    {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "CURE",
-        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 247573,
-      "name": "Slow Sour Bleed",
-      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -811,6 +795,38 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "The Battle of Yaldabaoth",
+        "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
+      },
+      "artists": [
+        {
+          "name": "Infant Annihilator",
+          "url": "https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR"
+        }
+      ],
+      "duration_ms": 166283,
+      "name": "Childchewer",
+      "url": "https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "CURE",
+        "url": "https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 247573,
+      "name": "Slow Sour Bleed",
+      "url": "https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Posthuman",
         "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 251560,
       "name": "Here Comes The Boom",
       "url": "https://open.spotify.com/track/7foMdEhJevqESQw39FQcuv"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "The Battle of Yaldabaoth",
-        "url": "https://open.spotify.com/album/3d4cxbyEmAYdr4feJ8O9ob"
-      },
-      "artists": [
-        {
-          "name": "Infant Annihilator",
-          "url": "https://open.spotify.com/artist/6eSSPyqys0J4j0kdi3hFrR"
-        }
-      ],
-      "duration_ms": 166283,
-      "name": "Childchewer",
-      "url": "https://open.spotify.com/track/18xvWGURVYg8hUIRHpowNr"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Posthuman",
-        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
-      },
-      "artists": [
-        {
-          "name": "Harms Way",
-          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
-        }
-      ],
-      "duration_ms": 192436,
-      "name": "Become a Machine",
-      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Bloodlust",
         "url": "https://open.spotify.com/album/6mbEfaoHDNBiXhlUQzzn4m"
       },
@@ -963,6 +947,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "In Darkness",
+        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+      },
+      "artists": [
+        {
+          "name": "Varials",
+          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+        }
+      ],
+      "duration_ms": 157653,
+      "name": "In Darkness",
+      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "The Legacy of Shi",
         "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
       },
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "In Darkness",
-        "url": "https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD"
+        "name": "Posthuman",
+        "url": "https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L"
       },
       "artists": [
         {
-          "name": "Varials",
-          "url": "https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l"
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
         }
       ],
-      "duration_ms": 157653,
-      "name": "In Darkness",
-      "url": "https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA"
+      "duration_ms": 192436,
+      "name": "Become a Machine",
+      "url": "https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1041,22 +1041,6 @@
       "url": "https://open.spotify.com/track/2lU7wi6V6RpYKYdelZqms6"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
-        "url": "https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy"
-      },
-      "artists": [
-        {
-          "name": "Nile",
-          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
-      "url": "https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "In The Court Of The Dragon",
@@ -1087,6 +1071,22 @@
       "duration_ms": 295560,
       "name": "Preachers of Death",
       "url": "https://open.spotify.com/track/2WQXTG8wjeMf9lkSJTmG0L"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
+        "url": "https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy"
+      },
+      "artists": [
+        {
+          "name": "Nile",
+          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
+      "url": "https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Brotherhood EP",
-        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
-      },
-      "artists": [
-        {
-          "name": "Fallbrawl",
-          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Brotherhood",
-      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Protector",
         "url": "https://open.spotify.com/album/3zp6F2teb7pJ4NrGJvzNcW"
       },
@@ -1339,34 +1323,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Obsidian",
-        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
+        "name": "Brotherhood EP",
+        "url": "https://open.spotify.com/album/1d4EDfDpWtAH1Roezf67Qy"
       },
       "artists": [
         {
-          "name": "Viscera",
-          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
+          "name": "Fallbrawl",
+          "url": "https://open.spotify.com/artist/18wR81FdOtaNaA5LW22GaP"
         }
       ],
-      "duration_ms": 291923,
-      "name": "Obsidian",
-      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Snowblood",
-        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
-      },
-      "artists": [
-        {
-          "name": "ERRA",
-          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
-        }
-      ],
-      "duration_ms": 253680,
-      "name": "Snowblood",
-      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
+      "duration_ms": 143493,
+      "name": "Brotherhood",
+      "url": "https://open.spotify.com/track/5RdFSehHENXr8HxAZLBbs0"
     },
     {
       "added_at": "2024-07-19 14:07:01",
@@ -1383,6 +1351,22 @@
       "duration_ms": 235380,
       "name": "Human",
       "url": "https://open.spotify.com/track/7tWeQHYHpodXBZrMnXGBQY"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Obsidian",
+        "url": "https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP"
+      },
+      "artists": [
+        {
+          "name": "Viscera",
+          "url": "https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd"
+        }
+      ],
+      "duration_ms": 291923,
+      "name": "Obsidian",
+      "url": "https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Snowblood",
+        "url": "https://open.spotify.com/album/393HU6oEXQybzous3p0NC5"
+      },
+      "artists": [
+        {
+          "name": "ERRA",
+          "url": "https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0"
+        }
+      ],
+      "duration_ms": 253680,
+      "name": "Snowblood",
+      "url": "https://open.spotify.com/track/5SIVBEbFY1e3L2ri0DWR4h"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/5VfJBSkFq6AGM4Q2tbxSMm"
       },
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Preservation Of Hate",
-        "url": "https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN"
-      },
-      "artists": [
-        {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "The Preservation Of Hate",
-      "url": "https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "Gamechanger",
         "url": "https://open.spotify.com/album/77KrgNntpYAq3DRYXgP3rT"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 228572,
       "name": "Seeds of Hate",
       "url": "https://open.spotify.com/track/2PXtvjte8DxJ9uwoSRn2aH"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Verminous",
-        "url": "https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd"
-      },
-      "artists": [
-        {
-          "name": "The Black Dahlia Murder",
-          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
-        }
-      ],
-      "duration_ms": 229808,
-      "name": "Verminous",
-      "url": "https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1579,18 +1547,18 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
+        "name": "Verminous",
+        "url": "https://open.spotify.com/album/1oETXGGo51UKqOW4huyJjd"
       },
       "artists": [
         {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+          "name": "The Black Dahlia Murder",
+          "url": "https://open.spotify.com/artist/4xTDPgk4jHCF0qui3dH6BS"
         }
       ],
-      "duration_ms": 249901,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
+      "duration_ms": 229808,
+      "name": "Verminous",
+      "url": "https://open.spotify.com/track/5L00SssgkYwcf0kpeTglvW"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1607,6 +1575,22 @@
       "duration_ms": 205669,
       "name": "Poverty of Self",
       "url": "https://open.spotify.com/track/4dEwT3lzsASXCiIrgFUpQu"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/1dci829PPCM5M3cj7OqU6X"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "duration_ms": 249901,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6II9b4hQFTqgtUXR7eYCt9"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1657,22 +1641,6 @@
       "url": "https://open.spotify.com/track/3yZ0K2vUPjd3L2KDevoPkD"
     },
     {
-      "added_at": "2024-07-19 14:07:01",
-      "album": {
-        "name": "Sacrament",
-        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
-      },
-      "artists": [
-        {
-          "name": "Lamb of God",
-          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Redneck",
-      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
-    },
-    {
       "added_at": "2023-01-18 15:54:17",
       "album": {
         "name": "Gaining Purpose Through Passionate Hatred",
@@ -1687,38 +1655,6 @@
       "duration_ms": 231497,
       "name": "Gaining Purpose",
       "url": "https://open.spotify.com/track/08mIaXVJgO4LJqBbmCQXlN"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "In Continuum",
-        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
-      },
-      "artists": [
-        {
-          "name": "Destinity",
-          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
-      },
-      "artists": [
-        {
-          "name": "Angelmaker",
-          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
-        }
-      ],
-      "duration_ms": 212480,
-      "name": "Exit Signs",
-      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1739,6 +1675,54 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "In Continuum",
+        "url": "https://open.spotify.com/album/4DpTzDNRbyJmwqIi0Cv4KW"
+      },
+      "artists": [
+        {
+          "name": "Destinity",
+          "url": "https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/55phx17AxbonvXWipSlHON"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "The Preservation Of Hate",
+        "url": "https://open.spotify.com/album/5uGmDOy7SqZ1hXGyns00YN"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "The Preservation Of Hate",
+      "url": "https://open.spotify.com/track/22ukl1QrvD95MlnSSw22QS"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/66iN9TtjLAA69g8hQBrUl7"
+      },
+      "artists": [
+        {
+          "name": "Angelmaker",
+          "url": "https://open.spotify.com/artist/1AdrYGYDz4oa9dvW2jfFrG"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Exit Signs",
+      "url": "https://open.spotify.com/track/7zMeL0azHXEDjBBKMejMSo"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Circle of Blood",
         "url": "https://open.spotify.com/album/07ixHVVwCh3xFvuqWo8LyE"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 153661,
       "name": "Chance",
       "url": "https://open.spotify.com/track/7KXQXLe2Ocz0bVvD6gjOqp"
+    },
+    {
+      "added_at": "2024-07-19 14:07:01",
+      "album": {
+        "name": "Sacrament",
+        "url": "https://open.spotify.com/album/1cikCss5SRQLrIAmpyHoVw"
+      },
+      "artists": [
+        {
+          "name": "Lamb of God",
+          "url": "https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Redneck",
+      "url": "https://open.spotify.com/track/04EtBLFIxbcVt9NdYgcrpF"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1807,26 +1807,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "The Outlaw",
-        "url": "https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ"
-      },
-      "artists": [
-        {
-          "name": "Wake up Frankie",
-          "url": "https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv"
-        },
-        {
-          "name": "Antti Wirman",
-          "url": "https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA"
-        }
-      ],
-      "duration_ms": 226956,
-      "name": "The Outlaw",
-      "url": "https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "All Hail The Void",
         "url": "https://open.spotify.com/album/1FCKSvjs10G7u4lVfpqauM"
       },
@@ -1843,18 +1823,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Habitual Decline",
-        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
+        "name": "The Outlaw",
+        "url": "https://open.spotify.com/album/61PjFKUEeTtJhWPlU3SnKQ"
       },
       "artists": [
         {
-          "name": "Like Moths To Flames",
-          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+          "name": "Wake up Frankie",
+          "url": "https://open.spotify.com/artist/0a3b8EtIuUttBtZ2mIhLuv"
+        },
+        {
+          "name": "Antti Wirman",
+          "url": "https://open.spotify.com/artist/2H08RJiVCpxloQiDKTgTMA"
         }
       ],
-      "duration_ms": 191548,
-      "name": "Habitual Decline",
-      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
+      "duration_ms": 226956,
+      "name": "The Outlaw",
+      "url": "https://open.spotify.com/track/5C2rlT1Tt9QztEI6dtsZT6"
     },
     {
       "added_at": "2023-01-18 15:54:17",
@@ -1907,6 +1891,22 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
+        "name": "Habitual Decline",
+        "url": "https://open.spotify.com/album/1wfNfKDEqHZNqnkxKh1zWE"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "duration_ms": 191548,
+      "name": "Habitual Decline",
+      "url": "https://open.spotify.com/track/43EgxfBHcJr15V5tHOdRSQ"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
         "name": "Peeling Wax (feat. Matt Honeycutt)",
         "url": "https://open.spotify.com/album/3XI1rSazMxST7wlUiYPgxD"
       },
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
-      },
-      "artists": [
-        {
-          "name": "Earth Caller",
-          "url": "https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW"
-        }
-      ],
-      "duration_ms": 178307,
-      "name": "I Am No Good",
-      "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
-    },
-    {
-      "added_at": "2023-01-18 15:54:17",
-      "album": {
         "name": "No Rest No Peace",
         "url": "https://open.spotify.com/album/073aO5vQNwfiauKtuOq0NZ"
       },
@@ -1975,18 +1959,34 @@
     {
       "added_at": "2023-01-18 15:54:17",
       "album": {
-        "name": "Sadness Rains",
-        "url": "https://open.spotify.com/album/0j6VPPJdHULwpv5ObOPbDW"
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/7HIqTShZ6AA8TbE20XJNdr"
       },
       "artists": [
         {
-          "name": "Violent Life Violent Death",
-          "url": "https://open.spotify.com/artist/1QkWQgDOLAGXZOd8FnD5sQ"
+          "name": "Earth Caller",
+          "url": "https://open.spotify.com/artist/0t3PBFciaPWM5uMksLH1AW"
         }
       ],
-      "duration_ms": 160500,
-      "name": "Sadness Rains",
-      "url": "https://open.spotify.com/track/1BkqHo0wVuIuJvcCnqbwqv"
+      "duration_ms": 178307,
+      "name": "I Am No Good",
+      "url": "https://open.spotify.com/track/7MtsR2dUH5AqeHgpzVyPDv"
+    },
+    {
+      "added_at": "2023-01-18 15:54:17",
+      "album": {
+        "name": "Army of Cops",
+        "url": "https://open.spotify.com/album/04tzfk0qraiatBfO3N5RwR"
+      },
+      "artists": [
+        {
+          "name": "Pig Destroyer",
+          "url": "https://open.spotify.com/artist/4raqfuxaWjPjrOQGb6zoa7"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Army of Cops",
+      "url": "https://open.spotify.com/track/0vIw2iqkDif52mbEtamoXB"
     }
   ],
   "unique_name": "Extreme Metal Workout",

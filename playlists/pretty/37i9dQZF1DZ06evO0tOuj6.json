@@ -1,12 +1,12 @@
 {
-  "description": "This is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 35922,
-  "original_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+  "description": "This Is Tokyo Ska Paradise Orchestra. Los temas esenciales, todos en una lista.",
+  "num_followers": 35926,
+  "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAATgLduBNQIGl13IlF+J5vZ",
+  "snapshot_id": "Ztj0gAAAAABM8uIh1DgIoufyvHABng6s",
   "tracks": [
     {
       "added_at": null,
@@ -155,6 +155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Paradise Has NO BORDER",
+        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Sakanakun",
+          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
+        }
+      ],
+      "duration_ms": 243026,
+      "name": "Paradise Has No Border",
+      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3iYqZjOvHf05btkIaihOUi"
       },
@@ -179,22 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise Has NO BORDER",
-        "url": "https://open.spotify.com/album/3rASmhW1SB849NFZzsHmIZ"
+        "name": "Chasing the Horizon",
+        "url": "https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX"
       },
       "artists": [
         {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+          "name": "MAN WITH A MISSION",
+          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
         },
         {
-          "name": "Sakanakun",
-          "url": "https://open.spotify.com/artist/4rfS2cN7FAWYGN4Fj1ALwR"
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 243026,
-      "name": "Paradise Has No Border",
-      "url": "https://open.spotify.com/track/0g2W5jMygHfV8HoN4qYTRp"
+      "duration_ms": 184893,
+      "name": "Freak It!",
+      "url": "https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0"
     },
     {
       "added_at": null,
@@ -215,26 +235,6 @@
       "duration_ms": 273766,
       "name": "\u9752\u3044\u6625\u306e\u30a8\u30c1\u30e5\u30fc\u30c9 - feat. \u9577\u5c4b\u6674\u5b50 (\u7dd1\u9ec4\u8272\u793e\u4f1a)",
       "url": "https://open.spotify.com/track/3bAobLtFa0QXOlo9KWYJpD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chasing the Horizon",
-        "url": "https://open.spotify.com/album/4y9CcT0uoNVxUhjq2ku0bX"
-      },
-      "artists": [
-        {
-          "name": "MAN WITH A MISSION",
-          "url": "https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ"
-        },
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 184893,
-      "name": "Freak It!",
-      "url": "https://open.spotify.com/track/0U9rOURjZlunqFlm5TWgX0"
     },
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
-        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Ozawa Kenji",
-          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
-        }
-      ],
-      "duration_ms": 233666,
-      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
-      "url": "https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30c4\u30d0\u30e1 (feat. \u30df\u30c9\u30ea\u30fc\u30ba & \u9577\u6ff1\u306d\u308b & \u6771\u4eac\u90fd\u7acb\u7247\u5009\u9ad8\u7b49\u5b66\u6821\u5439\u594f\u697d\u90e8)",
         "url": "https://open.spotify.com/album/3Wjb7fLV5CEZWjG9odwkCB"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 264379,
       "name": "\u30c4\u30d0\u30e1 - feat. \u30df\u30c9\u30ea\u30fc\u30ba & \u9577\u6ff1\u306d\u308b & \u6771\u4eac\u90fd\u7acb\u7247\u5009\u9ad8\u7b49\u5b66\u6821\u5439\u594f\u697d\u90e8",
       "url": "https://open.spotify.com/track/7JbneHNJCvLcBDkcXbddMK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Ozawa Kenji",
+          "url": "https://open.spotify.com/artist/7ovAoJY1WI5kUXRCa35C2I"
+        }
+      ],
+      "duration_ms": 233666,
+      "name": "\u3057\u3089\u3051\u3061\u307e\u3046\u305c",
+      "url": "https://open.spotify.com/track/1PohOiwOj3bXB0Xyx2ChGR"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamond In Your Heart",
-        "url": "https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 337186,
-      "name": "Diamond In Your Heart",
-      "url": "https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u30b5\u30dc\u30bf\u30fc\u30b8\u30e5 (VS. ALI)",
         "url": "https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GLORIOUS",
-        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 168919,
-      "name": "Glorious",
-      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD SKA SYMPHONY",
         "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 273280,
       "name": "\u6d41\u661f\u3068\u30d0\u30e9\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Diamond In Your Heart",
+        "url": "https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 337186,
+      "name": "Diamond In Your Heart",
+      "url": "https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GLORIOUS",
+        "url": "https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 168919,
+      "name": "Glorious",
+      "url": "https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
-        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 131893,
-      "name": "\u541b\u3068\u50d5",
-      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "GR8EST",
         "url": "https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 299040,
       "name": "\u7121\u8cac\u4efb\u30d2\u30fc\u30ed\u30fc jam with \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
       "url": "https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b9\u30ab\u30d1\u30e9\u767b\u5834",
+        "url": "https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 131893,
+      "name": "\u541b\u3068\u50d5",
+      "url": "https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb"
     },
     {
       "added_at": null,
@@ -949,6 +949,6 @@
       "url": "https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA"
     }
   ],
-  "unique_name": "This Is \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
+  "unique_name": "This Is Tokyo Ska Paradise Orchestra",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6"
 }

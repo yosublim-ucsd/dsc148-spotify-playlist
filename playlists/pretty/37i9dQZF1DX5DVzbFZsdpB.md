@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: I'm Wigging Out with Lucy and Kee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,425 likes - 7 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,423 likes - 7 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

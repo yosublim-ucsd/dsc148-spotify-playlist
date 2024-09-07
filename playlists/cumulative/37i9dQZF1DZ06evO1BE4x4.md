@@ -2,7 +2,7 @@
 
 ### [This Is Violent Soho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1BE4x4)
 
-> This is Violent Soho\. The essential tracks, all in one playlist.
+> This is Violent Soho\. Todos os maiores hits em uma só playlist.
 
 38 songs - 2 hr 19 min
 

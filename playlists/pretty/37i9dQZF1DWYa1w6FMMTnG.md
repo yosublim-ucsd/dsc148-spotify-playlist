@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 
 > Celebrate Halloween with frighteningly good songs from your Disney favorites like The Nightmare Before Christmas, The Haunted Mansion, Descendants, ZOMBIES and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,391 likes - 107 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 394,493 likes - 107 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa1w6FMMTnG.md) - [plain]
 | 12 | [My Year](https://open.spotify.com/track/77NgPW9Bt7QPU69YsYpiKV) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 3:29 |
 | 13 | [Arabian Nights \(2019\)](https://open.spotify.com/track/6ZxPYutGhjLTrcmvcshCa4) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Aladdin \- Original Motion Picture Soundtrack](https://open.spotify.com/album/4WGcPCflN9FNccSu7tE9iS) | 3:13 |
 | 14 | [Confession](https://open.spotify.com/track/4RaUe35V0kMLeGNtxzuKRz) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [A Haunting in Venice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70hJ7Bu9rmyEsHfiuvvBDw) | 8:14 |
-| 15 | [Rotten to the Core](https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:42 |
+| 15 | [Rotten to the Core](https://open.spotify.com/track/2bNxCVI4Fub8BAwr0CQDyd) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \- Original TV Movie Soundtrack](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:42 |
 | 16 | [Friends on the Other Side](https://open.spotify.com/track/14mNTV7rsvzkVfBmRepX1X) | [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY) | [The Princess and the Frog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CcL28OkH89kjgKpNZC8sW) | 3:34 |
 | 17 | [Mother Knows Best \- From "Tangled"/Soundtrack Version](https://open.spotify.com/track/1lOSxJNCLvWm2bYaTcTSmK) | [Donna Murphy](https://open.spotify.com/artist/5BuTOT6mPoNZ5EmaPheBI9) | [Tangled](https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE) | 3:10 |
 | 18 | [Cruella De Vil \- From "101 Dalmatians"](https://open.spotify.com/track/2t25Najd5Q3rmhuH5nX87m) | [Bill Lee](https://open.spotify.com/artist/1Vb1cXNxIUyb3Geb9cvSvL) | [Disney Villains: Simply Sinister Songs](https://open.spotify.com/album/6qjXTpiOOYojFQBvdrIO2O) | 4:45 |

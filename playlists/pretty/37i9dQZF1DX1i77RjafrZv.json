@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 318753,
+  "num_followers": 318770,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
+      },
+      "artists": [
+        {
+          "name": "Julien Clerc",
+          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+        }
+      ],
+      "duration_ms": 206866,
+      "name": "Ma pr\u00e9f\u00e9rence",
+      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
         "name": "La Maladie D'Amour",
         "url": "https://open.spotify.com/album/4Np1TTVFW72n9RjrJaQWqf"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/2flivK5ivlprHRE7YNcRrj"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Solune",
-        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
-      },
-      "artists": [
-        {
-          "name": "Slimane",
-          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "Viens on s\u2019aime",
-      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb"
+        "name": "Solune",
+        "url": "https://open.spotify.com/album/1aiz7KLiuWW32LuxQGsYm1"
       },
       "artists": [
         {
-          "name": "Julien Clerc",
-          "url": "https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs"
+          "name": "Slimane",
+          "url": "https://open.spotify.com/artist/4OV6uYSnHxSYkjDYuBVBUz"
         }
       ],
-      "duration_ms": 206866,
-      "name": "Ma pr\u00e9f\u00e9rence",
-      "url": "https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO"
+      "duration_ms": 201106,
+      "name": "Viens on s\u2019aime",
+      "url": "https://open.spotify.com/track/1KSFqVqZm5QQXr9FLsppSL"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Happy Birthday",
-        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
-      },
-      "artists": [
-        {
-          "name": "Eddy Mitchell",
-          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
-        }
-      ],
-      "duration_ms": 210093,
-      "name": "Couleur menthe \u00e0 l'eau",
-      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Les femmes id\u00e9ales",
         "url": "https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 280826,
       "name": "J'attends",
       "url": "https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Happy Birthday",
+        "url": "https://open.spotify.com/album/5YVoSO3cHnjC10DrXlX2AA"
+      },
+      "artists": [
+        {
+          "name": "Eddy Mitchell",
+          "url": "https://open.spotify.com/artist/4KBk9hwqFYtGS3DlZJiCsQ"
+        }
+      ],
+      "duration_ms": 210093,
+      "name": "Couleur menthe \u00e0 l'eau",
+      "url": "https://open.spotify.com/track/0PHjhFcDWWtZeQBWC12V4l"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -487,22 +487,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Love Me Please Love Me",
-        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
-      },
-      "artists": [
-        {
-          "name": "Michel Polnareff",
-          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
-        }
-      ],
-      "duration_ms": 260666,
-      "name": "Love Me, Please Love Me",
-      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Hommages",
         "url": "https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo"
       },
@@ -515,22 +499,6 @@
       "duration_ms": 249333,
       "name": "Comme d'habitude",
       "url": "https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Alors regarde",
-        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
-      },
-      "artists": [
-        {
-          "name": "Patrick Bruel",
-          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "J'te l'dis quand m\u00eame",
-      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -555,18 +523,50 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "N\u00b04",
-        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
+        "name": "Love Me Please Love Me",
+        "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
       "artists": [
         {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+          "name": "Michel Polnareff",
+          "url": "https://open.spotify.com/artist/7aKldvGENbL4bj8TCWHuhT"
         }
       ],
-      "duration_ms": 149240,
-      "name": "La javanaise",
-      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
+      "duration_ms": 260666,
+      "name": "Love Me, Please Love Me",
+      "url": "https://open.spotify.com/track/2edyuIOPsZrZLBwnsC1u80"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Alors regarde",
+        "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
+      },
+      "artists": [
+        {
+          "name": "Patrick Bruel",
+          "url": "https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg"
+        }
+      ],
+      "duration_ms": 219226,
+      "name": "J'te l'dis quand m\u00eame",
+      "url": "https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -587,18 +587,18 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+        "name": "N\u00b04",
+        "url": "https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO"
       },
       "artists": [
         {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
         }
       ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+      "duration_ms": 149240,
+      "name": "La javanaise",
+      "url": "https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -647,26 +647,6 @@
       "duration_ms": 226800,
       "name": "L'amour \u00e0 la machine",
       "url": "https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
-        "name": "Comic Strip",
-        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
-      },
-      "artists": [
-        {
-          "name": "Serge Gainsbourg",
-          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
-        },
-        {
-          "name": "Jane Birkin",
-          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "Je t'aime moi non plus",
-      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -739,18 +719,22 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Ch\u00e2telet les Halles",
-        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
+        "name": "Comic Strip",
+        "url": "https://open.spotify.com/album/0K7Rapnz35iffV4NNGWtPG"
       },
       "artists": [
         {
-          "name": "Florent Pagny",
-          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+          "name": "Serge Gainsbourg",
+          "url": "https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo"
+        },
+        {
+          "name": "Jane Birkin",
+          "url": "https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5"
         }
       ],
-      "duration_ms": 319493,
-      "name": "Et un jour une femme",
-      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
+      "duration_ms": 268600,
+      "name": "Je t'aime moi non plus",
+      "url": "https://open.spotify.com/track/5P0tWr5JZqDoi5wq2OalFH"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -767,6 +751,22 @@
       "duration_ms": 138520,
       "name": "Mon amour, mon ami",
       "url": "https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Ch\u00e2telet les Halles",
+        "url": "https://open.spotify.com/album/2l9EwdloXjCA7eece8OBpB"
+      },
+      "artists": [
+        {
+          "name": "Florent Pagny",
+          "url": "https://open.spotify.com/artist/0g7hZVprd3orBpMrSLWeJ9"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Et un jour une femme",
+      "url": "https://open.spotify.com/track/2Fo8TPJGFZZ7I9U2RGeZWu"
     },
     {
       "added_at": "2024-05-23 16:09:45",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-05-23 16:09:45",
       "album": {
-        "name": "Disque D'or",
-        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 192666,
-      "name": "Que reste-t-il de nos amours ?",
-      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
-    },
-    {
-      "added_at": "2024-05-23 16:09:45",
-      "album": {
         "name": "Best Of - Morceaux d\u2019amour",
         "url": "https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 220386,
       "name": "Toi mon amour",
       "url": "https://open.spotify.com/track/1moFtJmSZHc8CwSkvGJ7kg"
+    },
+    {
+      "added_at": "2024-05-23 16:09:45",
+      "album": {
+        "name": "Disque D'or",
+        "url": "https://open.spotify.com/album/2BgO56jZnE4xbfvlZOjK0L"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 192666,
+      "name": "Que reste-t-il de nos amours ?",
+      "url": "https://open.spotify.com/track/3WfBrLPAbt7G60r1n7BZ6L"
     },
     {
       "added_at": "2024-05-23 16:09:45",

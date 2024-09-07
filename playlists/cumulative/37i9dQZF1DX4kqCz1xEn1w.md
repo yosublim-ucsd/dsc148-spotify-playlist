@@ -4,7 +4,7 @@
 
 > Victory over death has been won today, forever!
 
-214 songs - 19 hr 56 min
+215 songs - 20 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Come Holy Spirit \- Live](https://open.spotify.com/track/5Yr4NGuFC4w93Sf5BqfX7s) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Frontiers](https://open.spotify.com/album/4dJizxCaLMzz4nWSju40mY) | 5:50 | 2021-04-04 |  |
 | [Come to Me](https://open.spotify.com/track/2O9x2l88iCRQ9ouWUsZxpK) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [The Loft Sessions](https://open.spotify.com/album/4j0qiJw946YRhJ9UpNcqaA) | 4:19 | 2022-04-02 | 2022-04-21 |
 | [Cornerstone](https://open.spotify.com/track/2FTOHMSicuYvDBQGebowNq) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [O Praise The Name \(Anástasis\)](https://open.spotify.com/album/7vAkV9olYZRGokeYOFZuKx) | 3:26 | 2021-04-04 | 2022-07-29 |
+| [Crown Him With Many Crowns](https://open.spotify.com/track/0h6plgwOJE1u4kcm7eh0hd) | [Nathan Drake](https://open.spotify.com/artist/6GqRs6YKqlKv8nlGAAnKwr) | [Crown Him With Many Crowns](https://open.spotify.com/album/1sMZWJzCiTL5NpONUbg6LU) | 4:14 | 2024-07-02 |  |
 | [Death Was Arrested](https://open.spotify.com/track/2HFi7awvXr2IPFX1j2D9IA) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested](https://open.spotify.com/album/6S0HZLGlyWy8mB8nhkKVn4) | 4:53 | 2021-04-04 | 2022-07-29 |
 | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/track/1rXQLRlZfNTj8uaxIsEZQi) | [North Point Worship](https://open.spotify.com/artist/1IGGfstLsypGtdI55tT3Z1), [Seth Condrey](https://open.spotify.com/artist/4DeiqSO9kyWDr1KuQTYMVg) | [Death Was Arrested \(feat\. Seth Condrey\)](https://open.spotify.com/album/4MkIi2td3gzbKS3fgNqvJr) | 4:55 | 2022-04-17 | 2024-04-19 |
 | [Diamonds \(Something Beautiful\)](https://open.spotify.com/track/5YYfRoURZob8PAsw0gzwjF) | [NP / NIGHTS](https://open.spotify.com/artist/0d2DE8EogxlmaEDA9LhMSL) | [Diamonds \(Something Beautiful\)](https://open.spotify.com/album/4NKrnSZo8kbQ7rpghQvOrA) | 3:47 | 2022-04-02 | 2022-05-21 |
@@ -139,7 +140,7 @@
 | [Messiah / You're Beautiful](https://open.spotify.com/track/0W5TB5VNs0J16suh3r67P1) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/52PYPu1gsuo3r27WDWTnb2) | 4:53 | 2022-04-02 | 2022-05-19 |
 | [Messiah / You're Beautiful](https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Cannons](https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC) | 4:53 | 2022-04-17 | 2024-04-19 |
 | [My Hope Is In the Blood](https://open.spotify.com/track/072hYkIfhA9yoptoe0o2tV) | [Philippa Hanna](https://open.spotify.com/artist/13Ir7pfxQ5ZkpCHaD2NoX2) | [Stained Glass Stories](https://open.spotify.com/album/63Ir1MRyzg4Ep6ckkWxly8) | 4:21 | 2024-03-20 |  |
-| [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-04-17 |  |
+| [My King and My Defender](https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U) | [Nate Gardiner](https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI) | [My King and My Defender](https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1) | 5:20 | 2022-04-17 | 2024-09-07 |
 | [My Savior Lives](https://open.spotify.com/track/1kpRzOH2Alb2BGvaxlyj36) | [New Life Worship](https://open.spotify.com/artist/0wCMw81dQdNPMRB4zadq5g) | [I Am Free: The Essential Collection](https://open.spotify.com/album/7K5DbKBZF5zSiqEMjj6ISD) | 4:49 | 2022-04-02 | 2022-04-21 |
 | [My Victory](https://open.spotify.com/track/3jk8YdCPkdXZRAoXBn1cKB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Salvation’s Tide Is Rising](https://open.spotify.com/album/0BXkvCb93t89mVfvWl2gop) | 4:28 | 2022-04-02 |  |
 | [No Longer Slaves \(Live\)](https://open.spotify.com/track/63SF10lPoWA71bDYYzxfUs) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Melissa Helser](https://open.spotify.com/artist/0cng44S55pPu1nDrtFFy7r), [Jonathan David Helser](https://open.spotify.com/artist/7vKyyJZVFb16NTWrUV1fGp) | [We Will Not Be Shaken \(Live\)](https://open.spotify.com/album/6Es2No0kYBzVAQlSmsEaZm) | 6:13 | 2021-04-04 | 2022-07-29 |

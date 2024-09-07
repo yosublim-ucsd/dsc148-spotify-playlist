@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-01",
-  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Fally Ipupa",
+  "description": "Du Congo, au monde. \ud83c\udf0d Photo: Tonton Pson",
   "name": "Biso Na Biso",
   "tracks": [
     {
@@ -4583,6 +4583,28 @@
     },
     {
       "album": {
+        "name": "Ma Baby Yo (Na Leli Yo)",
+        "url": "https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mg",
+          "url": "https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Ma Baby Yo (Na Leli Yo)",
+      "url": "https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq"
+    },
+    {
+      "album": {
         "name": "MA MONEY (feat. Jungeli, Harley & Mayorkun)",
         "url": "https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU"
       },
@@ -6214,7 +6236,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 178823,
       "name": "On my Way",
       "url": "https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl"
@@ -8638,6 +8660,24 @@
       "duration_ms": 203600,
       "name": "Yolele",
       "url": "https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P"
+    },
+    {
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/7tZWUTH0RLojsCaN8oYe7q"
+      },
+      "artists": [
+        {
+          "name": "Pson",
+          "url": "https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/7AuRpuu9DBGX6GeJl3vnQd"
     },
     {
       "album": {

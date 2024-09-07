@@ -150,7 +150,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 216472,
       "name": "Ara S\u0131cak",
       "url": "https://open.spotify.com/track/7tdqNYEPYjv2oSL3EKB8Vu"
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-25",
+      "date_removed": null,
       "duration_ms": 265000,
       "name": "Bal",
       "url": "https://open.spotify.com/track/0Dj36bCRSouqzx8wHwB9dR"
@@ -584,6 +584,28 @@
       "duration_ms": 169090,
       "name": "b\u00f6yle sevmek olmaz ki",
       "url": "https://open.spotify.com/track/5hbAlTCuLy02BYEOi4PP9w"
+    },
+    {
+      "album": {
+        "name": "Casanova - Sefo Remix",
+        "url": "https://open.spotify.com/album/5ZlDiqJEaX5r95hnAwwq9g"
+      },
+      "artists": [
+        {
+          "name": "Soolking",
+          "url": "https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds"
+        },
+        {
+          "name": "Sefo",
+          "url": "https://open.spotify.com/artist/1ITjgqpqMDJlqZGAK3mlPQ"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189090,
+      "name": "Casanova - Sefo Remix",
+      "url": "https://open.spotify.com/track/4kEk9tPt6fUxroVxT3V2ka"
     },
     {
       "album": {
@@ -1718,7 +1740,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 196920,
       "name": "Sevmek De\u011fil",
       "url": "https://open.spotify.com/track/682SkNDZsp9QvfqK7PM9FQ"
@@ -1940,7 +1962,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 138440,
       "name": "YANGIN",
       "url": "https://open.spotify.com/track/6HZLaC77dliSiengA0TUcd"
@@ -2276,7 +2298,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 132469,
       "name": "Zindan",
       "url": "https://open.spotify.com/track/1o4SP8i1ITqEe4oR4IWysq"

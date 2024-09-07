@@ -4,12 +4,12 @@
 
 > Estas son las grandes voces del Hip Hop\. Foto: Tres Coronas
 
-140 songs - 7 hr 35 min
+141 songs - 7 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Solas](https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI) | [Juan Sinatra](https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y), [Inti Sigma](https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0) | [A Solas](https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr) | 2:56 | 2024-02-23 |  |
-| [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-05-26 |  |
+| [Agradezco](https://open.spotify.com/track/0bzXvilLiJGEe0ACmeFi5Z) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Agradezco](https://open.spotify.com/album/1JQCufwGdnzm28qdVW2xxp) | 3:08 | 2023-05-26 | 2024-09-07 |
 | [Aguardiente](https://open.spotify.com/track/3ZAeqSO5szb2IDsAHqnYk6) | [Sr Pablo](https://open.spotify.com/artist/1xS8E28QGLkEoXlJdY94hq), [Thomas Parr](https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB) | [Aguardiente](https://open.spotify.com/album/0xooEKUlRZ4kgyBBfA9Ird) | 2:47 | 2023-10-13 | 2024-02-24 |
 | [Ahora Qué](https://open.spotify.com/track/5EFkC2D8cFCTyPPaCMJk6B) | [ZetaZeta](https://open.spotify.com/artist/5Njezu4xqAnJWdyzDf5gW7) | [Mirar Pa' Dentro](https://open.spotify.com/album/7zxtczgh8ys5vxrO6FpowQ) | 2:47 | 2023-07-14 |  |
 | [AIR](https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0) | [N\. Hardem](https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL) | [AIR](https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr) | 2:59 | 2024-02-23 |  |
@@ -56,6 +56,7 @@
 | [Hierba Mala](https://open.spotify.com/track/0O0EHS42NLO9beCdP0m2VJ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Laberinto ELC](https://open.spotify.com/artist/1Cd5Kq0yfp0WqfiryLu4bu) | [Hierba Mala](https://open.spotify.com/album/3OS70FhPdphV5p6ii238CE) | 3:54 | 2023-06-30 |  |
 | [Home Run](https://open.spotify.com/track/2G6mHbDVHHYYoPfnvTux8u) | [Robert Tiamo](https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu) | [Home Run](https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi) | 2:36 | 2023-09-08 |  |
 | [Horas Extras](https://open.spotify.com/track/5oFX4zn4CIDN0l2RCVuObT) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53), [DJ Dmoe](https://open.spotify.com/artist/0UO7aldjXU5OjHiYKXUwrK) | [Todos Tienen Que Comer](https://open.spotify.com/album/6vPnYHNVtdT9V76xUy3e2d) | 3:52 | 2023-05-26 |  |
+| [Iluminado](https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ) | [Frank Takuma](https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF) | [Micelio](https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV) | 2:49 | 2024-09-06 |  |
 | [ke será de mí](https://open.spotify.com/track/2Nbv8V7VtWUohwHmtFBJ9y) | [Jaze](https://open.spotify.com/artist/5HUVDs80ZZCRRB9grwWzZc) | [TOY LOKAZO](https://open.spotify.com/album/5Dqi0yKIDsT7Bds9F3VHIn) | 2:43 | 2023-08-04 | 2023-08-12 |
 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 | 2023-08-11 |  |
 | [La Escuela](https://open.spotify.com/track/1yNR6HRqPOABW8eusg0qAO) | [Tres Coronas](https://open.spotify.com/artist/5kROocD0ED0BYdVo7tJrSe), [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv) | [La Escuela](https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib) | 4:35 | 2023-11-10 |  |

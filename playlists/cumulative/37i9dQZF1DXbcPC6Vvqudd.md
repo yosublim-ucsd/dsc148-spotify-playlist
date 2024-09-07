@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-461 songs - 20 hr 38 min
+462 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Dublin Thunder](https://open.spotify.com/track/025BmVuqtXMCRUeOcJNE5c) | [Beautiful Plan](https://open.spotify.com/artist/4buWqHXcMl0BIfyK9COt4G) | [I Sleep to the Sound of Thunder](https://open.spotify.com/album/5vyfwkmvayrb7GNDP86Up9) | 3:24 | 2021-11-08 |  |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2021-11-08 |  |
 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 | 2021-11-08 |  |
+| [El Silencio Rainy Night Lullaby](https://open.spotify.com/track/2cB2awcmamidiHJonRT7Np) | [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [Vozterra](https://open.spotify.com/artist/1uvFGqJiEwPFy2v84uG5U9) | [Colombian Rainy Mist](https://open.spotify.com/album/3sCxpIVautkBQCxwAXyvr9) | 2:13 | 2024-07-12 |  |
 | [Electric Drops](https://open.spotify.com/track/3dHVp4tIryXs62JYtcINhc) | [Zinan](https://open.spotify.com/artist/53Ogdlq3YW29r02FV64tYH) | [Bedtime Thunder](https://open.spotify.com/album/07VjmhXeWj2hUMXPZlxQ9T) | 3:28 | 2021-11-08 | 2024-03-22 |
 | [En Sintonía](https://open.spotify.com/track/0JGDyzJ1lBIkvcTVSKYWsf) | [Radio Pluvialis](https://open.spotify.com/artist/55ZWeI199GqB3xiSig23pa) | [En Sintonía](https://open.spotify.com/album/3fnaCxg6msIv9Pmtv5haC3) | 2:40 | 2023-06-15 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2021-11-08 |  |
@@ -339,7 +340,7 @@
 | [Rumbling Sky](https://open.spotify.com/track/3WvMRwe0VySgRljtVvBtWY) | [Nue](https://open.spotify.com/artist/4zPX6V2gCI5nf46EQTpRr9) | [Rumbling Sky](https://open.spotify.com/album/1OHgb6ZIhjzLTO9j6FvBux) | 2:27 | 2021-11-08 |  |
 | [Rural Rain](https://open.spotify.com/track/5rqQCxXIbe5YwIdbV0rSUJ) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:58 | 2021-11-08 | 2023-06-16 |
 | [Rustling Rain](https://open.spotify.com/track/2Z0HeCU5MfKFgxqXmC4RkR) | [R 4 Rain](https://open.spotify.com/artist/78RCzQmpEq3y4F1bfZvtHr) | [Rainy Day Melodies](https://open.spotify.com/album/26tgedzPxkJyCdylqG0PZy) | 2:32 | 2024-03-21 |  |
-| [Sad Rain](https://open.spotify.com/track/0ENU1F5dgszVfAYobh464Y) | [Rain On Earth](https://open.spotify.com/artist/5OFrjMU1tJ0XGwLrR92giV) | [City Rain](https://open.spotify.com/album/7dwuG2r6iqsllTza6El9Hj) | 2:12 | 2024-03-21 |  |
+| [Sad Rain](https://open.spotify.com/track/0ENU1F5dgszVfAYobh464Y) | [Rain On Earth](https://open.spotify.com/artist/5OFrjMU1tJ0XGwLrR92giV) | [City Rain](https://open.spotify.com/album/7dwuG2r6iqsllTza6El9Hj) | 2:12 | 2024-03-21 | 2024-09-07 |
 | [Safe Rain](https://open.spotify.com/track/23ekbyCzQ5EchBKxWESCRt) | [AEON](https://open.spotify.com/artist/1TgJCAaMIcCTM980NCH5xk) | [Empty Rain](https://open.spotify.com/album/0DJngrcM7Tk4wU95QlTM1y) | 2:04 | 2021-11-08 |  |
 | [Santa Rosa](https://open.spotify.com/track/4WUknVj32CkjuRtNelRm8l) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Santa Rosa](https://open.spotify.com/album/6JFU8X93Atd9FCMO2Sy0yW) | 2:47 | 2023-02-13 |  |
 | [Scandinavian Forest Rain Sound](https://open.spotify.com/track/0U72R7eOGDPit3iw1Wg0mh) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Rain Sounds Vol\. 3](https://open.spotify.com/album/6PaBSB3g4H0XmRaZvTDqkE) | 2:37 | 2021-11-08 | 2024-03-22 |

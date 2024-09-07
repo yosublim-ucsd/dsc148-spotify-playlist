@@ -4,7 +4,7 @@
 
 > Fourth quarter, two minutes left .\. get locked in\. Cover:  Lamar Jackson and Patrick Mahomes
 
-674 songs - 1 day 10 hr 11 min
+675 songs - 1 day 10 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Forever](https://open.spotify.com/track/6HSqyfGnsHYw9MmIpa9zlZ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [More Than A Game](https://open.spotify.com/album/55UhXq8grzHPga0we8mEL3) | 5:57 | 2021-09-02 | 2023-03-03 |
 | [Forever](https://open.spotify.com/track/0oVxGuRMnawFgA8aduocfc) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Forever](https://open.spotify.com/album/2kznyvJ3wZGFCA1eYrjUC9) | 2:52 | 2021-09-02 | 2023-02-09 |
 | [FOREVER, PT\. 2 \(JEZEBEL\) \[feat\. Destroy Lonely\]](https://open.spotify.com/track/4UvPWXmqiExQdIIoxb7ZHD) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [FOREVER, PT\. 2 \(JEZEBEL\) \[feat\. Destroy Lonely\]](https://open.spotify.com/album/46dFusMk8XdHcmOf1M43if) | 2:46 | 2023-02-17 | 2023-02-22 |
+| [forward back](https://open.spotify.com/track/46eKpZPwKygAY2jAEKcqFC) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [forward back](https://open.spotify.com/album/274MW5GJam6hhnTJbT8Vtw) | 1:24 | 2024-09-06 |  |
 | [Fractions](https://open.spotify.com/track/28PeqNMnFfVQnXvXmyf88G) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Beam Me Up Scotty](https://open.spotify.com/album/2upw5IrzeqKApIQZyx5o6r) | 3:01 | 2021-09-02 | 2022-03-09 |
 | [Freak \(feat\. Quavo\)](https://open.spotify.com/track/4bMQRUKsiELewtb3tzdFQn) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Featuring Ty Dolla $ign](https://open.spotify.com/album/6M4Nu5UgX097dxeF2lm9P8) | 2:41 | 2021-09-02 | 2023-03-14 |
 | [FreakyT](https://open.spotify.com/track/4CCrZzRdeWYrWJ0DoN4XCa) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [I Can't Wait](https://open.spotify.com/album/2aWH1TBFvdbwGXXic7bqE7) | 2:14 | 2023-03-24 | 2023-03-29 |
@@ -242,7 +243,7 @@
 | [Gorgeous](https://open.spotify.com/track/0Ot6qzEWZqbwxKEtehS7Lp) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Gorgeous](https://open.spotify.com/album/65P0Z7ydZpETo9xb8r7Cui) | 3:05 | 2021-09-02 | 2023-03-03 |
 | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/track/7mEyNyiz1n32CX9lbgBpBq) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Gorgeous Remix \(feat\. City Girls\)](https://open.spotify.com/album/4vzW9xfVkh6dOKxuGI66pD) | 3:34 | 2023-07-31 | 2023-08-12 |
 | [Great](https://open.spotify.com/track/2Mr4XjFeOWi8Dxi4BwhRx1) | [Trip J](https://open.spotify.com/artist/33tX0Wud6tPk1fZjkPQBmh) | [SUDDENLY](https://open.spotify.com/album/7H9lvnhfqUXRUUB1MR2dor) | 2:20 | 2023-02-17 | 2023-03-03 |
-| [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-03-24 |  |
+| [Greatness](https://open.spotify.com/track/2eN0rxTtgxKkmVCNgizayr) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Greatness](https://open.spotify.com/album/4y4p9wI8BXL9sRKToCNA7p) | 3:05 | 2023-03-24 | 2024-09-07 |
 | [Green Haired Girl \(with TaTa, Jenn Carter & Dee Billz\)](https://open.spotify.com/track/3YlV219mDmYvp63MsDwHKt) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [Dee Billz](https://open.spotify.com/artist/2fBU7rOViK7ywwHCIYEa7h) | [Green Haired Girl](https://open.spotify.com/album/69KpTkx2PI84a51qPjZJiM) | 2:28 | 2024-08-31 |  |
 | [GTA \(feat\. 42 Dugg\)](https://open.spotify.com/track/7wAFfH245FJP77ZugGVISe) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [QUARANTINE PACK](https://open.spotify.com/album/5VOW9zYV8KoErvgrLYqKR2) | 2:30 | 2021-09-02 | 2023-02-18 |
 | [Gunninhimdown](https://open.spotify.com/track/6u4MzxtPp6XbIx90sWlVJi) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [VIRALITY](https://open.spotify.com/album/4cZQDPI9rDzPpqMMLyvj7B) | 1:48 | 2023-02-17 | 2023-02-22 |

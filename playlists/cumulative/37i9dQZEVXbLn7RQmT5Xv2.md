@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-892 songs - 2 day 3 hr 45 min
+893 songs - 2 day 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -691,7 +691,8 @@
 | [اغاني رمضان زمان بس جديدة](https://open.spotify.com/track/1dZjBusgO7H7eSNAw1Dw2E) | [Za3abeez](https://open.spotify.com/artist/1Ijdo0IlzClNQ6lF4EoNLE) | [اغاني رمضان زمان بس جديدة](https://open.spotify.com/album/10wFavCsDwboUAR9YYMFW6) | 9:35 | 2024-03-11 | 2024-03-13 |
 | [اغنية اقوى ميكس من وي](https://open.spotify.com/track/53NXe3kkRKLOHetbquwSxt) | [Telecom Egypt](https://open.spotify.com/artist/1dIzfeZM7R7E6Wl9MedD9v), [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوى ميكس من وي](https://open.spotify.com/album/4kETJFrrqFJn9VO5EkcTLB) | 3:10 | 2022-02-10 | 2022-09-25 |
 | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/track/69IfkCa5H3J1xRCQjKIaqt) | [Ahmed Mekky](https://open.spotify.com/artist/6Q0JYiqcSa28nT0KOQZtX6), [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [اغنية اقوي ميكس من وي \| مكي وويجز](https://open.spotify.com/album/5tV4NltIJVQSKVNXZeF3Hg) | 3:08 | 2022-02-03 | 2022-02-05 |
-| [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-03-08 |  |
+| [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/1cwkHxlxVAO5Gc8tLped5p) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/7DbCosGZge70muHeJ08QuB) | 5:42 | 2024-09-06 |  |
+| [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/track/2uq6KhwXlCogpNTmN1cq7x) | [Fares Sokar \- فارس سكر](https://open.spotify.com/artist/6mG5L5mJQIrHrZQZ0ZmpHh) | [اكشن جاي اتعارك \- عيني جت علي سنيورة](https://open.spotify.com/album/0thPfaJUCA1Pe3UPNo7wOl) | 5:42 | 2024-03-08 | 2024-09-07 |
 | [الباشا](https://open.spotify.com/track/1qh5fjEI0AwX2QikxLwZLi) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [الباشا](https://open.spotify.com/album/5f8WADVIGDIr3nrlVATVJl) | 2:44 | 2022-05-03 | 2022-05-05 |
 | [البخت](https://open.spotify.com/track/5CeSq5JBv2wCeIHZA0PLtT) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/2QYOx6iuRhBUDiLQ262eGw) | 3:26 | 2022-03-09 | 2022-04-03 |
 | [البخت](https://open.spotify.com/track/5kdlxZ5skOYY3VK8RlfEIZ) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [البخت](https://open.spotify.com/album/5EvIl5WEwCtuWwQY66s5O5) | 3:26 | 2022-02-27 |  |
@@ -823,8 +824,8 @@
 | [كان نفسي](https://open.spotify.com/track/7e2Fzu33SbX4ECAB1Y1QDI) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [جزيرة البطل](https://open.spotify.com/album/11HIxTQBH3GeszYzDaBqdG) | 4:13 | 2022-04-05 | 2022-07-29 |
 | [كدا كدا](https://open.spotify.com/track/61hVyNqkRxzDnvNc4OI53I) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [كدا كدا](https://open.spotify.com/album/1oHpj2IGj0cKxCeVgV8Ij9) | 4:15 | 2022-07-19 | 2022-07-21 |
 | [كده كده بايظه](https://open.spotify.com/track/6JIL1FI26WjTEnHZbOHXzZ) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB), [Aly Fathalla](https://open.spotify.com/artist/1U9pDbOQmuQ1vHzAF2Bmxp) | [كده كده بايظه](https://open.spotify.com/album/78eJSdtqKHJJdYKhPCm6Wn) | 3:09 | 2023-09-22 | 2023-12-18 |
-| [كل الحلوين ولا شغلوني](https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [كل الحلوين ولا شغلوني](https://open.spotify.com/album/7eaXyyUI7I65rAKmi9dAEH) | 4:08 | 2024-07-01 | 2024-09-02 |
-| [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-03-02 |  |
+| [كل الحلوين ولا شغلوني](https://open.spotify.com/track/4ZVWHKVY1HgRkoLkQFdDbR) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [كل الحلوين ولا شغلوني](https://open.spotify.com/album/7eaXyyUI7I65rAKmi9dAEH) | 4:08 | 2024-07-01 |  |
+| [كل وعد](https://open.spotify.com/track/53A95mGzwiRKw61TOI7VEW) | [Wael Jassar](https://open.spotify.com/artist/5HczG7gdd89oDKY0CUyPof) | [كل وعد](https://open.spotify.com/album/6UAXKC0N1xKuEh7otKcz3H) | 3:28 | 2024-03-02 | 2024-09-07 |
 | [كلام عينيه](https://open.spotify.com/track/6g95dK7o7vVh8ZCnDAseU5) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [نساى](https://open.spotify.com/album/1aCq7XjXXVc3WxPYYUrbeP) | 3:55 | 2023-09-26 | 2024-07-08 |
 | [كلمه قبل ما أموت](https://open.spotify.com/track/34Er1nEt74AVX8Rf4XNjME) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [كلمه قبل ما أموت](https://open.spotify.com/album/5WsEgRP7J49LpLJXWsUyZe) | 3:16 | 2023-03-26 | 2023-03-29 |
 | [كله بألف وش](https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [كله بألف وش](https://open.spotify.com/album/3LmFEyUvrTZcfGANGcEX2L) | 3:20 | 2023-09-03 | 2023-10-04 |

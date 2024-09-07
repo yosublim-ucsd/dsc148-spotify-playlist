@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "Black & Gold",
+        "url": "https://open.spotify.com/album/6xMSC3RY8Ty0BeXRxKTMXK"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243586,
+      "name": "Black & Gold",
+      "url": "https://open.spotify.com/track/1lfu1TB7puVtzZs6BZjB00"
+    },
+    {
+      "album": {
         "name": "Black Leaves",
         "url": "https://open.spotify.com/album/3du9lkIg7jG9xTufp11SM2"
       },
@@ -958,6 +976,24 @@
       "duration_ms": 224858,
       "name": "California",
       "url": "https://open.spotify.com/track/6pyzjYC9xlQDvE2kuCoo8J"
+    },
+    {
+      "album": {
+        "name": "California Loner / Runaway From You",
+        "url": "https://open.spotify.com/album/2fHvQ9rEjNbeNbVNDGLqhc"
+      },
+      "artists": [
+        {
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245765,
+      "name": "California Loner",
+      "url": "https://open.spotify.com/track/7x12Qi4L61CaprFITz5Ks9"
     },
     {
       "album": {
@@ -2055,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "Heavy in this World",
+        "url": "https://open.spotify.com/album/0kJiMjDiNafJTaeytZCft4"
+      },
+      "artists": [
+        {
+          "name": "Dirtwire",
+          "url": "https://open.spotify.com/artist/0hc2qwaU2xy7LUd0FRjcHK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177326,
+      "name": "Heavy in this World",
+      "url": "https://open.spotify.com/track/3CZjfZPHjtijEZcNFCFaUW"
+    },
+    {
+      "album": {
         "name": "Surface Sounds",
         "url": "https://open.spotify.com/album/1ZuNUNl8jvYmW4w1lR2CW3"
       },
@@ -2120,7 +2174,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 224586,
       "name": "Hold Of My Heart",
       "url": "https://open.spotify.com/track/3NcYD29MReKX1PN2CC7Bss"
@@ -3576,7 +3630,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 235781,
       "name": "On the Road (with G Love & Special Sauce and Cas Haley)",
       "url": "https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC"
@@ -6112,7 +6166,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 210327,
       "name": "You Got To Move",
       "url": "https://open.spotify.com/track/0mjJhRdgk2gOrITySip9Jo"

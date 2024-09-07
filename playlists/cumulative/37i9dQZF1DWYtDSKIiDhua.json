@@ -3872,6 +3872,10 @@
         {
           "name": "Haven",
           "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
         }
       ],
       "date_added": "2024-07-18",
@@ -17026,6 +17030,24 @@
       "duration_ms": 186173,
       "name": "You Right",
       "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "album": {
+        "name": "I'll look out for you",
+        "url": "https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126240,
+      "name": "you'll take it",
+      "url": "https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc"
     },
     {
       "album": {

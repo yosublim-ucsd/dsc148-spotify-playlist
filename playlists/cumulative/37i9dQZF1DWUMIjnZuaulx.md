@@ -4,7 +4,7 @@
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:47opbYEKDjXnRk9uLscp11">Yolanda Adams</a>
 
-579 songs - 2 day 1 hr 57 min
+580 songs - 2 day 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Grey Hair](https://open.spotify.com/track/2DV4aaQyV6QNQx8Iylvrsq) | [Da' T.R.U.T.H.](https://open.spotify.com/artist/2ISIE0MEDMdAF2LDMLrVD4), [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Emanuel](https://open.spotify.com/album/2DuS6uvoK6uVj2mriZiY3G) | 4:13 | 2023-01-27 | 2023-09-30 |
 | [Hallelujah](https://open.spotify.com/track/3EWjy5dS9CdNQl01P45yMl) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484) | [Hallelujah](https://open.spotify.com/album/6QoYrE7QkcSapO7JcRx8dz) | 5:47 | 2022-07-08 | 2022-10-22 |
 | [Hallelujah \(feat\. Dunsin Oyekan\) \- Live](https://open.spotify.com/track/3OwXa5v85UzgmQBieUscvu) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Hallelujah \(feat\. Dunsin Oyekan\) \[Live\]](https://open.spotify.com/album/0ebuJYKuAn6Of3jD5nC8CV) | 5:20 | 2023-10-13 | 2023-12-09 |
+| [Hand On Me](https://open.spotify.com/track/5hJa7DKaWDULhq3C4TbZG7) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Hand On Me](https://open.spotify.com/album/4plhaQtjp67Isr59V8Pf8w) | 4:20 | 2024-09-06 |  |
 | [Have It All](https://open.spotify.com/track/7oJ3d4BceZHyZjzyTMAqGc) | [Freddy Washington Jr.](https://open.spotify.com/artist/7kGuR5CJOPkQ1wt1TiVWNE), [Myron Butler & Levi](https://open.spotify.com/artist/5b4vy4GMu5dgRMOt9bHZpY) | [Have It All](https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX) | 3:56 | 2023-07-28 | 2023-09-16 |
 | [He Always Wins](https://open.spotify.com/track/1izX0ivQKZ1ZIafjXatk2t) | [Ray Bady](https://open.spotify.com/artist/6Dt8PIblzvjwue6gerXmAk), [Shekinah Glory Ministry](https://open.spotify.com/artist/50DI0MpQBOtBO0PFtKVQRx), [Jazmine Lynn Jones](https://open.spotify.com/artist/3cvHEyhv372nQPZfn6u1e2) | [He Always Wins](https://open.spotify.com/album/2F4DEZeeQvjfufgwrbhiXp) | 3:49 | 2022-06-03 | 2022-10-30 |
 | [He Came Through \(PMJ Trap Praise Break\)](https://open.spotify.com/track/5H3JXipTNglmYN6GczFHVj) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [I Got Away](https://open.spotify.com/album/4tmcDtMGL64zZSwIzWdVzf) | 5:47 | 2024-04-19 |  |
@@ -556,7 +557,7 @@
 | [Wonder \(feat\. Le'Andria Johnson\)](https://open.spotify.com/track/48NBwJuiWaieFw8R5W3odZ) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Le'Andria Johnson](https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 4:03 | 2022-02-18 | 2022-04-16 |
 | [Words](https://open.spotify.com/track/1EilCjxsF1Ln8E7tZUiDN7) | [Donald Lawrence](https://open.spotify.com/artist/40tzRHO6w4wROAdb6Sr21l) | [Words](https://open.spotify.com/album/4uMK82fB1ZxIjeMXNCBHDe) | 6:42 | 2024-07-27 |  |
 | [Work Together](https://open.spotify.com/track/62RFU3SmRioXtOLWx12pbN) | [VaShawn Mitchell](https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA) | [Work Together](https://open.spotify.com/album/4yQF1DNd0d3iBGiIBZ1ZGR) | 5:30 | 2023-06-23 | 2023-07-22 |
-| [Working for Me](https://open.spotify.com/track/0dPUeGCcQuTHh3UfcOEd9w) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Working for Me](https://open.spotify.com/album/2fdWNV0F4IDfreIwgMIC7W) | 4:35 | 2024-06-21 |  |
+| [Working for Me](https://open.spotify.com/track/0dPUeGCcQuTHh3UfcOEd9w) | [Tamela Mann](https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt) | [Working for Me](https://open.spotify.com/album/2fdWNV0F4IDfreIwgMIC7W) | 4:35 | 2024-06-21 | 2024-09-07 |
 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 | 2022-06-24 | 2023-04-29 |
 | [Worth It](https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Worth It](https://open.spotify.com/album/1dGFBtHnXUlxrtrZlVWTzt) | 4:59 | 2023-09-22 |  |
 | [Worth It](https://open.spotify.com/track/5gUupwXAfesFedvF7mwhS2) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Worth It](https://open.spotify.com/album/3hFAj3KVpjKJU56xHV1t8P) | 4:59 | 2023-12-15 | 2024-04-19 |

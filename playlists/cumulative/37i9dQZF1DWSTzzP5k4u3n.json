@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Aarre",
+        "url": "https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O"
+      },
+      "artists": [
+        {
+          "name": "Ultra Bra",
+          "url": "https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206089,
+      "name": "Aarre",
+      "url": "https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf"
+    },
+    {
+      "album": {
         "name": "Aina sinulle",
         "url": "https://open.spotify.com/album/5giDeA0EdcwVJGkuTg5ijH"
       },
@@ -2024,7 +2042,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 129989,
       "name": "Sixpack Of Instant Death",
       "url": "https://open.spotify.com/track/2SRuKGSfieIuYYKWPo4Y1c"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: PIETRUCHA/ZALEWSKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,314 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,350 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 32 | [Klucz żurawi \- z filmu „Wróbel”](https://open.spotify.com/track/1341dXbnBrTi3CfGUbMcsx) | [Piotr Rogucki](https://open.spotify.com/artist/6gG1FOW5CoylM7858JYboD) | [Klucz żurawi \- z filmu „Wróbel”](https://open.spotify.com/album/2XDRsZDDvhqbtBPeDwtGig) | 2:44 |
 | 33 | [MIEJSKIE NIEBO](https://open.spotify.com/track/1tL30TRxVJ4IHh2qQfG9Hl) | [FOMOTOK](https://open.spotify.com/artist/0CnSNWcT6hES7FDHk4alpL) | [LETNIE OPOWIEŚCI](https://open.spotify.com/album/08FD38wyvCbjAjKfH9tIVB) | 2:32 |
 | 34 | [CYK](https://open.spotify.com/track/1NEdkkt5xT8ybvUChJrzX6) | [Bogdan Kondracki](https://open.spotify.com/artist/5A3i0bsXUJf3menS0aSKq0) | [CYK](https://open.spotify.com/album/5rJ1bE5uqeZY30URY8i8f3) | 3:12 |
-| 35 | [POP](https://open.spotify.com/track/40J1urbVnIAOh3qLUq8agx) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [POP](https://open.spotify.com/album/4HtI0dCsvdQMkntdJytzui) | 2:34 |
+| 35 | [POP](https://open.spotify.com/track/40J1urbVnIAOh3qLUq8agx) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [POP](https://open.spotify.com/album/4HtI0dCsvdQMkntdJytzui) | 2:34 |
 | 36 | [Po zabawie](https://open.spotify.com/track/3rR2y5VHnLbnbATLIirCmK) | [Marek Niedzielski](https://open.spotify.com/artist/3FSYJjsEavVFpzluaiqYoY) | [Zabawa Mistrzów](https://open.spotify.com/album/3WPrIDuKUgpqSp49lqkJkN) | 2:53 |
 | 37 | [jesteś głupi](https://open.spotify.com/track/1AeL4E8mv5IGP16PlhmbTb) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf) | [jesteś głupi](https://open.spotify.com/album/4GTDDsP3d06obFoqZpM6nw) | 2:38 |
 | 38 | [Kryzys na wizji](https://open.spotify.com/track/0sOeNMosamFuoDjQkeCvf3) | [Komety](https://open.spotify.com/artist/2ESBtuNHbnfEqXZVGVJZTG) | [Ostatnie okrążenie](https://open.spotify.com/album/5hxeO2918SVqtT21zUE0TR) | 1:48 |

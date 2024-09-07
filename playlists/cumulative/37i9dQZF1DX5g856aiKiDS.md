@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-312 songs - 17 hr 32 min
+313 songs - 17 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [I See You](https://open.spotify.com/track/3ykkBOfFlZrIqgxn6aoLya) | [ODD\-CAT](https://open.spotify.com/artist/61jqDpCSDJeuItEQIgBxBe), [Kim Je Hun](https://open.spotify.com/artist/2yBQzC1P5kNQBFqpgHUIg0) | [I See You](https://open.spotify.com/album/4FwZ6ZCeZVo7wQ3abMjvH4) | 3:12 | 2022-04-21 | 2022-05-03 |
 | [I think I'm not your best](https://open.spotify.com/track/0xax3G23VmUo9VokhJqprZ) | [Kumira](https://open.spotify.com/artist/1Ntydb0DmiKZ4gs185CpoK), [LoomBoy](https://open.spotify.com/artist/7vBeITS8dKfZmMXNx1XyAV) | [I think I'm not your best](https://open.spotify.com/album/4P4ZcuenqNUBhZ3xp0pAdF) | 3:19 | 2022-04-12 | 2022-04-21 |
 | [I wanna go out](https://open.spotify.com/track/75C9zW7Liktu6ULymEuL2y) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [D\_iary Page.1](https://open.spotify.com/album/3AoJqQDfmPE3nfOHaKHVZU) | 4:05 | 2022-04-21 | 2022-06-29 |
-| [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 | 2022-04-12 |  |
+| [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 | 2022-04-12 | 2024-09-07 |
 | [I'm Fine](https://open.spotify.com/track/5u6CQi2rgD1EyiztQnrrwY) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 3:09 | 2022-04-21 |  |
 | [I'm In Love](https://open.spotify.com/track/5xv9DhjYckZoZwXifGrkQw) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I'm In Love](https://open.spotify.com/album/4BP1h4PNLuOIVaYF2azTgF) | 3:17 | 2022-04-12 | 2023-02-03 |
 | [I\`m In Love](https://open.spotify.com/track/349TY23ZYSFWwVvHJR4HCG) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [I\`m In Love](https://open.spotify.com/album/1684q63iyY2uGa5Pz201QN) | 3:17 | 2023-02-24 | 2024-04-19 |
@@ -288,6 +288,7 @@
 | [Wanna be my](https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Wanna be my](https://open.spotify.com/album/5m6JuppdsIQmydayDNDk4c) | 3:07 | 2024-03-21 | 2024-05-10 |
 | [We'll be alright](https://open.spotify.com/track/28b6eAJ9TMthHN7BWylfnM) | [OuiOui](https://open.spotify.com/artist/11BHuhJ2jEMPNJ3WpwZVT8) | [We'll be alright](https://open.spotify.com/album/6lExoei5xbBYsuFuZFEuSa) | 3:11 | 2022-04-12 | 2022-04-21 |
 | [Wednesday](https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq) | [Dailog](https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF) | [Wednesday](https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX) | 2:47 | 2022-05-03 | 2022-05-12 |
+| [What are we](https://open.spotify.com/track/3kF931wZKqtsoQa7v30FRX) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Love Next Door, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/6uMWN9NIKp7YetrOMnL30S) | 3:37 | 2024-09-06 |  |
 | [What are you thinking about?](https://open.spotify.com/track/1eimXRbiVMsqSvTLj8Tt41) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Someone's playlist \#2](https://open.spotify.com/album/2mvcfZb6tMU4iJheHHhdYM) | 3:35 | 2022-04-12 | 2022-04-21 |
 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 | 2024-03-21 |  |
 | [When I See You \(feat\. Jimmy Brown\)](https://open.spotify.com/track/1pqPzcxmGr25rZJvy74YjC) | [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [When I See You](https://open.spotify.com/album/4PnBBUqabvuyOQRQ1Fr54F) | 2:55 | 2022-05-03 | 2022-07-26 |

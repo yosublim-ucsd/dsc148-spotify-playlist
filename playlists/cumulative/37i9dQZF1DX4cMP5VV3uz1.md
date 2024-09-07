@@ -4,10 +4,11 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-283 songs - 16 hr 47 min
+284 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12 Gauge](https://open.spotify.com/track/4cgr1VYLPvQkcrLibsJpPJ) | [Voltage](https://open.spotify.com/artist/5Pexua3J92rqhQvEqTcRKP), [Yung Saber](https://open.spotify.com/artist/2e3qEeLCBtEqsbsgYDtrO0) | [12 Gauge](https://open.spotify.com/album/2xQliyvBsfRuwgViH6wYo3) | 3:20 | 2024-09-05 |  |
 | [450](https://open.spotify.com/track/1F0ww25lOcWtwTsco1vYWM) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38) | [Full Wack No Brakes](https://open.spotify.com/album/52tuSUlxOAQWoRs6AOvCFm) | 3:17 | 2022-09-30 | 2023-09-02 |
 | [A Little More \- Friendly Foe Remix](https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ) | [JUSTDEE](https://open.spotify.com/artist/0pTfWNL7Yap8OWlTlrtDcr), [Friendly Foe](https://open.spotify.com/artist/2l8vqVFmkHR0UBhLaObRk8) | [A Little More \(Friendly Foe Remix\)](https://open.spotify.com/album/7D2U6ueId2eLAYphbXEWuO) | 3:08 | 2024-07-02 |  |
 | [Absolute](https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9) | [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Local](https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2), [Fernquest](https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL) | [Absolute](https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9) | 3:04 | 2022-09-30 | 2024-02-23 |
@@ -246,7 +247,7 @@
 | [Stan Smith](https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai) | [Stan Smith](https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB) | 3:55 | 2022-09-30 | 2024-04-19 |
 | [Star 69 \- Shermanology Remix](https://open.spotify.com/track/1aolkrCy1LD4YBlS4gStSV) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Star 69 \(Shermanology Remix\)](https://open.spotify.com/album/0h9SrjcXezB7KkTDW4ZJpt) | 5:53 | 2023-07-27 | 2023-09-02 |
 | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [MoMo](https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ) | [Stars On The Roof \(feat\. MOMO\)](https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99) | 4:02 | 2023-01-25 | 2024-07-27 |
-| [Stop Talking](https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Stop Talking](https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz) | 3:46 | 2024-07-25 |  |
+| [Stop Talking](https://open.spotify.com/track/2Yhe2uqIz67SJB2x7DvrvE) | [Krakota](https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF) | [Stop Talking](https://open.spotify.com/album/0Bi9qorfqqaKlEBgjkfGKz) | 3:46 | 2024-07-25 | 2024-09-07 |
 | [STR8 SHELLIN](https://open.spotify.com/track/4iJ4bipmCeD2YyxxwVRzZj) | [AC MC](https://open.spotify.com/artist/4KjH1GComY1Qv7Qr7xsblC), [Genesis Elijah](https://open.spotify.com/artist/7ykM9gwcxoplthUOlrih06), [Duece](https://open.spotify.com/artist/5wKLXEkonQiYRa4lvat3By) | [STR8 SHELLIN](https://open.spotify.com/album/0jyVETFfg6Y9xhdlXwCCaa) | 3:26 | 2022-10-28 | 2023-01-26 |
 | [Streetside](https://open.spotify.com/track/48nIqwRQyLtqEcGzJWykLL) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/138qbOSq6Wy6ubheDW8HBK) | 3:39 | 2023-04-13 | 2023-07-28 |
 | [Streetside](https://open.spotify.com/track/4HcmKnUwCKsloslonqMzCN) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13) | [Streetside](https://open.spotify.com/album/0EOl5Udxu7CxJ5u3XbkRnN) | 3:39 | 2022-09-30 | 2023-05-19 |

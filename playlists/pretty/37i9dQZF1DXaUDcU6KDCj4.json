@@ -1,13 +1,241 @@
 {
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Tasha",
-  "num_followers": 804397,
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Ashe",
+  "num_followers": 804608,
   "original_name": "Fresh Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAACASi5cb0YMXACRWqgV6STB",
+  "snapshot_id": "Ztp+QAAAAACWlwcyof5rC7FwH6fCFj3D",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Little Bug",
+        "url": "https://open.spotify.com/album/6MzWuLcg9fAsHXEOcIDgY8"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 200397,
+      "name": "Little Bug",
+      "url": "https://open.spotify.com/track/2GAuyIDWQznZyRU3CGyDFy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Peace of Mind (Evening)",
+        "url": "https://open.spotify.com/album/2vpQDZltXoemtEN90itVg8"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 211853,
+      "name": "Peace of Mind (Evening)",
+      "url": "https://open.spotify.com/track/6ypqW6kawv0iJFyW1k1UQr"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Ashe",
+        "url": "https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "duration_ms": 261265,
+      "name": "Ashe",
+      "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Little bit",
+        "url": "https://open.spotify.com/album/384EOP7ZXUc7WuawttnJ4v"
+      },
+      "artists": [
+        {
+          "name": "Henrik",
+          "url": "https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC"
+        }
+      ],
+      "duration_ms": 138900,
+      "name": "Little bit",
+      "url": "https://open.spotify.com/track/4BhKnMFUOT1lQHdjTXs3pj"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Above the Clouds of Pompeii",
+        "url": "https://open.spotify.com/album/5dFQx8kMykeP970uW0zlNq"
+      },
+      "artists": [
+        {
+          "name": "Bear's Den",
+          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
+        },
+        {
+          "name": "Dermot Kennedy",
+          "url": "https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ"
+        }
+      ],
+      "duration_ms": 240497,
+      "name": "Above the Clouds of Pompeii",
+      "url": "https://open.spotify.com/track/4WFh8KiLmaCLu7QwFgTzA2"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "What Kind of Song",
+        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "What Kind of Song",
+      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Spotify OUTSIDE",
+        "url": "https://open.spotify.com/album/07MbrTFOyeeDRIiF365e8g"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 297547,
+      "name": "Come Down Soon (Spotify OUTSIDE Version) - Live from Pasadena",
+      "url": "https://open.spotify.com/track/059Yqzlm6TAAd1YI7hKYNW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Blood Moon",
+        "url": "https://open.spotify.com/album/3XZn7LwBfhfT2hScmEyIQ8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "duration_ms": 231755,
+      "name": "Blood Moon",
+      "url": "https://open.spotify.com/track/0wFLufImwS7svA8dglXKcp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "what we were",
+        "url": "https://open.spotify.com/album/79dGKv8oPSLVMBWayk8BeV"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "duration_ms": 221935,
+      "name": "what we were",
+      "url": "https://open.spotify.com/track/2RikltFcMnQiQSIxVyBgpT"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I Walk",
+        "url": "https://open.spotify.com/album/6q0bqFxDT60yWfMrodtaNs"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "duration_ms": 306173,
+      "name": "I Walk",
+      "url": "https://open.spotify.com/track/46ONmMQctmk94OljcgE5kP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Little White Chapel",
+        "url": "https://open.spotify.com/album/2K6ZIQk4tlIKQJOnKyrjY1"
+      },
+      "artists": [
+        {
+          "name": "Amble",
+          "url": "https://open.spotify.com/artist/5ZC7GPz5h9zkEfjZBUDNzI"
+        }
+      ],
+      "duration_ms": 243769,
+      "name": "Little White Chapel",
+      "url": "https://open.spotify.com/track/1j4Okp2EWef680zQg9SBvl"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Circumstances",
+        "url": "https://open.spotify.com/album/5chzFREvecdcRTgEdsgp3s"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 179450,
+      "name": "Circumstances",
+      "url": "https://open.spotify.com/track/6omVwNlvQKbQ8xu4bTJduN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Left on McKinney",
+        "url": "https://open.spotify.com/album/2ALcWB26JayXG3kCosC8F9"
+      },
+      "artists": [
+        {
+          "name": "Caleb Hearn",
+          "url": "https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj"
+        }
+      ],
+      "duration_ms": 176289,
+      "name": "Get There When I Get There",
+      "url": "https://open.spotify.com/track/3A8glnhkz52eDkT5e52xSm"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -2259,246 +2487,6 @@
       "duration_ms": 253400,
       "name": "I'm Someone New",
       "url": "https://open.spotify.com/track/7hG3voGIQnOEYRqcUQ5hbD"
-    },
-    {
-      "added_at": "2024-06-28 15:10:24",
-      "album": {
-        "name": "Cowboys Cry Too (with Noah Kahan)",
-        "url": "https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        },
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 230600,
-      "name": "Cowboys Cry Too (with Noah Kahan)",
-      "url": "https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Long Way Home",
-        "url": "https://open.spotify.com/album/23dhOqyLfO9IBocggQ7AeN"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 241906,
-      "name": "Long Way Home",
-      "url": "https://open.spotify.com/track/4WI20FxHM0ZqJCzxvUIrmy"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Real Good Love",
-        "url": "https://open.spotify.com/album/2CUpYizxYu2o1ULtbM61RF"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 172869,
-      "name": "Real Good Love",
-      "url": "https://open.spotify.com/track/13NS1isrYiasCdCt775RL3"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Never Arriving",
-        "url": "https://open.spotify.com/album/6V2hebqLjjuC88E4o7Zzef"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 131003,
-      "name": "Never Arriving",
-      "url": "https://open.spotify.com/track/0lxJSpSLiynTr9TvZrsfEj"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Solstice",
-        "url": "https://open.spotify.com/album/2B1TsRb3uycachEmnppqsZ"
-      },
-      "artists": [
-        {
-          "name": "Anna Graves",
-          "url": "https://open.spotify.com/artist/4j9vFTGkTHf54MjcZvedcT"
-        }
-      ],
-      "duration_ms": 159647,
-      "name": "Drugs & Bad Habits",
-      "url": "https://open.spotify.com/track/0xVH17EbVmgtuLPdWCQwZx"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Bloom (Eros)",
-        "url": "https://open.spotify.com/album/1JOUAT2pxeFsxrg0Tgecid"
-      },
-      "artists": [
-        {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Bloom (Eros)",
-      "url": "https://open.spotify.com/track/5LZTwTC3DQMEvkkEYdrUBW"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "June, Baby",
-        "url": "https://open.spotify.com/album/2L7bVjbn3vHUEh9gT4jato"
-      },
-      "artists": [
-        {
-          "name": "Daniel Nunnelee",
-          "url": "https://open.spotify.com/artist/0rNsySWLw0GRzrj2Kh6jBs"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 182565,
-      "name": "Pick and Choose",
-      "url": "https://open.spotify.com/track/4qpy5SAHylvWgEPQVV4Crn"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Credits",
-        "url": "https://open.spotify.com/album/4NLzhgvzYuWiArxlolzxLY"
-      },
-      "artists": [
-        {
-          "name": "Devan",
-          "url": "https://open.spotify.com/artist/5w2ZZrN4yX50qOLk9I8aI2"
-        },
-        {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        }
-      ],
-      "duration_ms": 187163,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/6jYRBA1wBIlQ0zoQmHFdOA"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Eagle Rock",
-        "url": "https://open.spotify.com/album/5WrdFRTKpXM3xQGQossL33"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        },
-        {
-          "name": "John Canada",
-          "url": "https://open.spotify.com/artist/4BFwCPazCgskaVOV5mfb8s"
-        }
-      ],
-      "duration_ms": 129975,
-      "name": "Eagle Rock",
-      "url": "https://open.spotify.com/track/4Mg5li7fZ5A6ajvjzbgUd3"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Our Way",
-        "url": "https://open.spotify.com/album/72qslYplIfk8cSXiz7X8K5"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 185552,
-      "name": "Our Way",
-      "url": "https://open.spotify.com/track/3KDo3wvYICgcGLapjSf1Oc"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Bubbly",
-        "url": "https://open.spotify.com/album/0XDwY94lozd2ppIqdomSr7"
-      },
-      "artists": [
-        {
-          "name": "Nolan Taylor",
-          "url": "https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo"
-        }
-      ],
-      "duration_ms": 223986,
-      "name": "Bubbly",
-      "url": "https://open.spotify.com/track/2VznDiwctxtzbl3LoIThMT"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Messy As A Magnolia",
-        "url": "https://open.spotify.com/album/1uLpqZUHvwY2kVXfGW0GMU"
-      },
-      "artists": [
-        {
-          "name": "American Aquarium",
-          "url": "https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT"
-        }
-      ],
-      "duration_ms": 227666,
-      "name": "Messy As A Magnolia",
-      "url": "https://open.spotify.com/track/7motw7Rvsg4tsLGfoAPQyf"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
-        "name": "Psalms of Yellow House",
-        "url": "https://open.spotify.com/album/6iCTigmwPuR3lOmbzWzYH0"
-      },
-      "artists": [
-        {
-          "name": "Yellow House",
-          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
-        }
-      ],
-      "duration_ms": 147874,
-      "name": "Don't Cry (It's Just Goodnight)",
-      "url": "https://open.spotify.com/track/1eEwPY6dleRKadBmUcZ9wX"
     }
   ],
   "unique_name": "Fresh Folk",

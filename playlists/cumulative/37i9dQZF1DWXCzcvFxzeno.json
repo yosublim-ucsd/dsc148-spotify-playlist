@@ -271,6 +271,28 @@
     },
     {
       "album": {
+        "name": "Because They Want Our Seat",
+        "url": "https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9"
+      },
+      "artists": [
+        {
+          "name": "Sara Landry",
+          "url": "https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK"
+        },
+        {
+          "name": "Nico Moreno",
+          "url": "https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231700,
+      "name": "Because They Want Our Seat",
+      "url": "https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6"
+    },
+    {
+      "album": {
         "name": "Bella Ciao (Hard Techno Remix)",
         "url": "https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF"
       },
@@ -540,7 +562,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 428586,
       "name": "Chaos Magicka",
       "url": "https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW"
@@ -766,6 +788,28 @@
       "duration_ms": 307215,
       "name": "Do You Like It Fast?",
       "url": "https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7"
+    },
+    {
+      "album": {
+        "name": "Do You Think About Me",
+        "url": "https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR"
+      },
+      "artists": [
+        {
+          "name": "Faustix",
+          "url": "https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd"
+        },
+        {
+          "name": "Rave Republic",
+          "url": "https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Do You Think About Me",
+      "url": "https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy"
     },
     {
       "album": {
@@ -2770,7 +2814,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 324365,
       "name": "The Future is Female",
       "url": "https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY"

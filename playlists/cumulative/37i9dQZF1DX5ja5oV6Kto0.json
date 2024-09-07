@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Boj",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: MAUIM\u00d8ON",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -490,7 +490,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 230467,
       "name": "Abundance",
       "url": "https://open.spotify.com/track/0ZfQ4Oh8K8jbzsojYXpDTv"
@@ -1411,6 +1411,28 @@
     },
     {
       "album": {
+        "name": "Bang!",
+        "url": "https://open.spotify.com/album/6Rjw6loSBCxD0Laj1WR6uh"
+      },
+      "artists": [
+        {
+          "name": "AYL\u00d8",
+          "url": "https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd"
+        },
+        {
+          "name": "Tim Lyre",
+          "url": "https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195200,
+      "name": "Bang!",
+      "url": "https://open.spotify.com/track/1nnOecYV4M4EXbZqa1UazG"
+    },
+    {
+      "album": {
         "name": "Banger",
         "url": "https://open.spotify.com/album/7qbMTYZNQiUFS3eZogAjDl"
       },
@@ -2010,7 +2032,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 164000,
       "name": "Born Again",
       "url": "https://open.spotify.com/track/6R0JLLZjzEEG8oSMKgInDz"
@@ -3368,7 +3390,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 153000,
       "name": "Crown Bounce",
       "url": "https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj"
@@ -4800,7 +4822,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 147390,
       "name": "Flower",
       "url": "https://open.spotify.com/track/3lNpitDKoysJbHThj9GoKM"
@@ -4840,7 +4862,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 155454,
       "name": "Folake",
       "url": "https://open.spotify.com/track/611y0fYELYaLtjiMKbxO4N"
@@ -5488,6 +5510,24 @@
       "duration_ms": 195000,
       "name": "Hard",
       "url": "https://open.spotify.com/track/7aQvOqPkqGbug8TnMz3jxo"
+    },
+    {
+      "album": {
+        "name": "Hardest Babe",
+        "url": "https://open.spotify.com/album/4ads4crCwlT9BU7Jvgfdoo"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126993,
+      "name": "Hardest Babe",
+      "url": "https://open.spotify.com/track/645fiSovmhWhotSv00WcHT"
     },
     {
       "album": {
@@ -7182,7 +7222,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 159791,
       "name": "Know Me Well",
       "url": "https://open.spotify.com/track/7KwPDwN7DOJdtM202zds6Y"
@@ -11297,6 +11337,24 @@
     },
     {
       "album": {
+        "name": "sadrec",
+        "url": "https://open.spotify.com/album/40FK14gkzVpRmjCtAueCnO"
+      },
+      "artists": [
+        {
+          "name": "July Drama",
+          "url": "https://open.spotify.com/artist/2Z9yQD2e1QO2OGLgTyuoug"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64347,
+      "name": "sadrec",
+      "url": "https://open.spotify.com/track/2mcfTTV7rIOLyAULI7Wbk0"
+    },
+    {
+      "album": {
         "name": "Saints Row",
         "url": "https://open.spotify.com/album/6kEjvHgwHodZdPhLBpQzxu"
       },
@@ -11448,6 +11506,46 @@
       "duration_ms": 145471,
       "name": "Saviour",
       "url": "https://open.spotify.com/track/5NaYtbE1183SMAa57dDH8w"
+    },
+    {
+      "album": {
+        "name": "Say Please",
+        "url": "https://open.spotify.com/album/5lQZd1mzyPBqpgEG8O789l"
+      },
+      "artists": [
+        {
+          "name": "Tomi Agape",
+          "url": "https://open.spotify.com/artist/3GCTrzNZwN4H4YnQJzsWrd"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167755,
+      "name": "Say Please",
+      "url": "https://open.spotify.com/track/5IRnCF3PPKFmIK641N6y40"
+    },
+    {
+      "album": {
+        "name": "SAYSHEDO",
+        "url": "https://open.spotify.com/album/6lR5MnvtmNMazttWd0OBzW"
+      },
+      "artists": [
+        {
+          "name": "MAUIM\u00d8ON",
+          "url": "https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b"
+        },
+        {
+          "name": "La So\u00fclchyld",
+          "url": "https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114315,
+      "name": "SAYSHEDO",
+      "url": "https://open.spotify.com/track/0Wh4nSocGrb1BZJiDvQlNq"
     },
     {
       "album": {
@@ -11832,7 +11930,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175505,
       "name": "Silly Nigga 2",
       "url": "https://open.spotify.com/track/5UnZUMR2DZ5h2bgYlP9zEw"
@@ -11886,7 +11984,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 190933,
       "name": "SINK OR SWIM",
       "url": "https://open.spotify.com/track/6fB5xCqHjkLGud3ZPyNbq4"
@@ -12396,6 +12494,28 @@
       "duration_ms": 118500,
       "name": "Spaces",
       "url": "https://open.spotify.com/track/39OoLE3Sme5QomMYe4PfoU"
+    },
+    {
+      "album": {
+        "name": "Shea Butter Boy II",
+        "url": "https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221264,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/111lORD99rTGIGgMVISJvj"
     },
     {
       "album": {
@@ -12968,7 +13088,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 148373,
       "name": "Swear, I Tried",
       "url": "https://open.spotify.com/track/4RGWcopCHddLdBw6bvznOn"
@@ -13250,7 +13370,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 169463,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh"
@@ -14644,7 +14764,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 158677,
       "name": "Whatchu Say ?",
       "url": "https://open.spotify.com/track/38Myszu0cRqEwZbzUWE80J"

@@ -4,7 +4,7 @@
 
 > Nieuwe indie, rock en alternative\. Cover: <a href="spotify:genre:0JQ5DAqbMKFOOxftoKZxod">RADAR</a>\-artiest The Vices
 
-118 songs - 6 hr 35 min
+119 songs - 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Beaches](https://open.spotify.com/track/1a19jsjG2DvbN1fVJonKUU) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 3:50 | 2024-08-30 |  |
 | [Better Than God](https://open.spotify.com/track/6PXg4maKBeSFlhiFPbGap2) | [RHEA](https://open.spotify.com/artist/3iTqZTjeziB8WtVJeIUrLD) | [Better Than God](https://open.spotify.com/album/50DXKDGoGawgW5QzLcXkZv) | 3:16 | 2024-09-05 |  |
 | [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-06-24 | 2024-09-06 |
+| [Boom Boom Back](https://open.spotify.com/track/6oMscBxiNQ9vYRqNuTXhg5) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [VIVA HINDS](https://open.spotify.com/album/7efwDP6vHtIPtQhLCrCWFz) | 3:24 | 2024-09-05 |  |
 | [Calling After Me](https://open.spotify.com/track/2WGcpz55A2vrvh6foEGCNL) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Calling After Me](https://open.spotify.com/album/0nwCSeTiLqsDU07k4MopnW) | 3:07 | 2024-06-24 | 2024-07-27 |
 | [Cat 5 \(Cyclone\)](https://open.spotify.com/track/4y1xuzfAT8uUvBBjn6N7wg) | [King Stingray](https://open.spotify.com/artist/3hA0yUEuLvjqvxtMlqznDb) | [Cat 5 \(Cyclone\)](https://open.spotify.com/album/78oKhBMFr6esRAKFwd0vH8) | 3:42 | 2024-08-27 |  |
 | [Claim To Fame](https://open.spotify.com/track/3tYsuxhfToTsjW9JkVTV2M) | [Ramkot](https://open.spotify.com/artist/6F93CFXfe0VbChYnV0EXi7) | [Claim To Fame](https://open.spotify.com/album/0aGdrW2ldqPgXanjk3jBsx) | 2:30 | 2024-07-26 |  |

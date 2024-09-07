@@ -4,7 +4,7 @@
 
 > New age music for balancing mind and body.
 
-798 songs - 1 day 15 hr 47 min
+802 songs - 1 day 15 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,6 +231,7 @@
 | [Enchanted Reality](https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [Enchanted Reality](https://open.spotify.com/album/4ftIiveF4srrzKtDnEohDU) | 2:31 | 2022-10-15 |  |
 | [Ending In Mist](https://open.spotify.com/track/1EARYCS97kPiVGEf0wMhQt) | [Atlentea](https://open.spotify.com/artist/6gvH5MuZx8Hr8tocFw6Uf4) | [Ending In Mist](https://open.spotify.com/album/6YPKQpMvioaOTpIyx5AZA3) | 3:04 | 2022-08-11 | 2022-12-15 |
 | [Endless Cosmos](https://open.spotify.com/track/37PNuXmxQzb7xQERMSoYdA) | [Hans Jacob](https://open.spotify.com/artist/6gT2Bu1wTc1uHC5NcJV0gQ) | [Endless Cosmos](https://open.spotify.com/album/3bz9e5yKivJ9Y4juq04T6S) | 2:50 | 2024-04-04 |  |
+| [Endlessly](https://open.spotify.com/track/3njM9rpLOm07HHfVpIFb7K) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Endlessly](https://open.spotify.com/album/7cpgjKwp4BRbDyJgOLZrOd) | 2:44 | 2024-09-06 |  |
 | [Enigma](https://open.spotify.com/track/11ZWAdHTLpYBe67e8kgjSm) | [Kristín Arnardóttir](https://open.spotify.com/artist/1ljI7e4AsCJF0KcOFXXLKY) | [Enigma](https://open.spotify.com/album/2kpaO3BvToV7XOFxf4DQeB) | 2:42 | 2024-04-04 | 2024-08-20 |
 | [Entering](https://open.spotify.com/track/3RAWbLYWWskUMQHJ12jJDA) | [Memoryan](https://open.spotify.com/artist/7qkMcHkUrGOE4FI4k12kVR) | [Entering](https://open.spotify.com/album/19hV2XAdZmVAU3xkSJ7ORo) | 3:00 | 2022-05-31 | 2022-10-04 |
 | [Entirely](https://open.spotify.com/track/252UulLr0Pnwb7adch2Vha) | [Gabby Laurent](https://open.spotify.com/artist/7cAeiCQXUfj7orfW6pkemk) | [Handwritten](https://open.spotify.com/album/0kL551QkBCd4F33sAnnXKj) | 3:12 | 2022-10-15 | 2023-08-11 |
@@ -276,17 +277,19 @@
 | [Floating](https://open.spotify.com/track/06m4j7MuQSWGfquM7qCH89) | [Szymon Kowalczyk](https://open.spotify.com/artist/5mg190A9WO4TqbhL6GDer0) | [Floating](https://open.spotify.com/album/2VlM9YQulwLBFXIwAwGnVk) | 3:28 | 2021-12-21 | 2023-01-21 |
 | [Floating senses](https://open.spotify.com/track/3QeAlxO6Q3mRAdM56l0C2Q) | [Chakrasapiens](https://open.spotify.com/artist/0ifeddor0BLT2TaPLlzhjg) | [Floating senses](https://open.spotify.com/album/10eWaFvXO1b1uWhqMbctJR) | 2:35 | 2022-10-03 | 2023-06-21 |
 | [Floating Wind](https://open.spotify.com/track/1inzyLRgGUH3lLnXDfCFVs) | [Blanka Elroy](https://open.spotify.com/artist/3jaJzj1iIcUSTcF5lfhPGN) | [Floating Wind](https://open.spotify.com/album/47PS3xvPtqTGj0kOpmTMiX) | 2:52 | 2022-12-14 | 2023-08-11 |
+| [Floating, Flying](https://open.spotify.com/track/30UGQxzuYRKOziYOLFbYUY) | [Michel LeBond](https://open.spotify.com/artist/49r28kFLIBUEgxnjLUvUwA) | [Floating, Flying](https://open.spotify.com/album/16qRN4iUK8DJVO9A9juBlV) | 3:36 | 2024-09-06 |  |
 | [Flor Espina](https://open.spotify.com/track/166sXNEu8LOKQeMmqWo7SA) | [Iridaceae Fields](https://open.spotify.com/artist/6pmTFeAL5pQmrE3jZ3HMW1) | [Flor Espina](https://open.spotify.com/album/6BOeH3ak5BXocqzHkDq9fL) | 2:35 | 2022-10-03 | 2024-07-27 |
 | [Flow State](https://open.spotify.com/track/3pUQApLLT0iAnxGbe1IC8q) | [Somaya Kudri](https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys) | [Flow State](https://open.spotify.com/album/2JgRSgWb6qxviNI3SN0B6W) | 2:37 | 2022-10-15 |  |
 | [Fly Among Clouds](https://open.spotify.com/track/6Kf6iSevn3QqANd6SHHHOk) | [Taylor Dawson](https://open.spotify.com/artist/7triIHgYSjbQ6ahcPBgicy) | [Stillness of Mind](https://open.spotify.com/album/479Isl9ZcoSHeZtKPB8bX4) | 3:18 | 2021-12-21 | 2023-08-11 |
 | [Following](https://open.spotify.com/track/61oaJ6eADhj3d59FwZXYPh) | [St/llar](https://open.spotify.com/artist/1gfLjawL26XCWfHI8lyi5B) | [Guiding Light](https://open.spotify.com/album/2A2B37rbYWXaHP7RqSBgHr) | 2:31 | 2022-11-25 |  |
 | [Fondo](https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO) | [Cthulhu Ramón](https://open.spotify.com/artist/74jJkqez2clBfaCi76V7CW) | [Fondo](https://open.spotify.com/album/7jLqHed1TjbDIlIicn8jt9) | 2:53 | 2022-11-25 | 2023-08-11 |
-| [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-06-20 |  |
+| [For A While](https://open.spotify.com/track/5Tjrn34j1dJWe3LUpul75B) | [Astrid Whitlock](https://open.spotify.com/artist/2CJRRtlFgGB0RXblglfayQ) | [For A While](https://open.spotify.com/album/7b9wbQZHYq0R0LU7R7Q9NV) | 3:12 | 2023-06-20 | 2024-09-07 |
 | [For These Reasons](https://open.spotify.com/track/0jBJMUnzVfdgvGudnNjTKw) | [Celestial Seekr](https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel) | [For These Reasons](https://open.spotify.com/album/1D0HXijd9Hzxs1gH3bHspk) | 2:48 | 2022-12-14 |  |
 | [Forever](https://open.spotify.com/track/1RnywZoKSwcg8HLHpTXtq4) | [Yeur](https://open.spotify.com/artist/0KZsfOO2SqsGvLOReSMeQK) | [Forever](https://open.spotify.com/album/4SdcYWDPxgnBsTw0wc6bPU) | 2:55 | 2022-10-25 |  |
 | [Forever After](https://open.spotify.com/track/0R2ei7TiPZZWqAqlXlbjQ9) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Forever After](https://open.spotify.com/album/737BhS9CjJXHKSz0PbtpVg) | 2:59 | 2022-07-28 | 2023-11-11 |
 | [Forgiving](https://open.spotify.com/track/6TZ4Pj1F41ooAWT8fOlDsn) | [Neidar](https://open.spotify.com/artist/7H5LahVbGPNKKR1YzHNdaP) | [Forgiving](https://open.spotify.com/album/1zitRKCAOONfvFkxD4pB0u) | 2:53 | 2024-06-10 |  |
 | [Forms](https://open.spotify.com/track/6MePLoqcI97WjWyx5Sq2JV) | [Zonara](https://open.spotify.com/artist/66vglaSm3akRPCCPcc86mm) | [Forms](https://open.spotify.com/album/3RxxsAszW6YwW9YdPvWn8z) | 2:40 | 2022-12-14 |  |
+| [From My Heart To Yours \- Radio Edit](https://open.spotify.com/track/5lAWULjnNqIuowkf0AQWtS) | [Liquid Mind](https://open.spotify.com/artist/2mvZFsiQR3yWcHAroduCTF) | [From My Heart To Yours Radio Edit](https://open.spotify.com/album/59ekHaLi0LWu3rzhBRlItQ) | 2:44 | 2024-09-06 |  |
 | [From the Other Side](https://open.spotify.com/track/4bx9Lbbsb2VnHkxwqd3NQ1) | [Dream Runner](https://open.spotify.com/artist/2YX3ZumDhRfswphqHPGL59) | [Mare Tranquilis](https://open.spotify.com/album/2cxjdTquzLLfbz8t0yDzfk) | 2:55 | 2021-12-21 | 2022-06-23 |
 | [Frozen Grasslands](https://open.spotify.com/track/2QN55dmp583TNohDVITyfz) | [Cora Zea](https://open.spotify.com/artist/2GW7BMmmFwI0cDvop6sOWg) | [Legend Of Zea](https://open.spotify.com/album/0aovJaJL5ehp9AtwcSJtce) | 2:38 | 2021-12-21 | 2022-07-29 |
 | [Furlong Shams](https://open.spotify.com/track/2dvD8sJcHubn9H7JBxxDH6) | [Bjorkman](https://open.spotify.com/artist/6N2wYh9RMSqQaeOzhJqPtN) | [Furlong Shams](https://open.spotify.com/album/4yPbijvz15Ht2cibCulqA7) | 3:14 | 2021-12-21 | 2022-10-04 |
@@ -655,6 +658,7 @@
 | [Sol River](https://open.spotify.com/track/3tWTB2s3i76kUkfLeAMV34) | [Moon Dreaming](https://open.spotify.com/artist/4nJRn0hxXlJXyP9heK1nj2) | [Sol River](https://open.spotify.com/album/6HPFUudF3hCQmzjq5l6ktU) | 3:53 | 2021-12-21 | 2022-10-04 |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-10 | 2022-06-01 |
 | [Solemn](https://open.spotify.com/track/7dpLnCTFu2Neq5wXJTb47o) | [Cody Wallter](https://open.spotify.com/artist/74gCXv8vhu5ZfQj76y6O7L) | [Solemn](https://open.spotify.com/album/2ZozrPjVO0J8SqwTi2XXDj) | 1:53 | 2021-12-21 | 2023-06-21 |
+| [Solituda](https://open.spotify.com/track/4WyBGcjHglkZUlOWi475cO) | [Deep Vibrations](https://open.spotify.com/artist/3qtgkLExW6jtJ0UeGTevy3) | [Solituda](https://open.spotify.com/album/4j8kTGtWEMFnPSm6RTfhPI) | 2:57 | 2024-09-06 |  |
 | [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-05-31 | 2023-01-04 |
 | [Solsten](https://open.spotify.com/track/5rDK66Zorl6x02BmupEFbM) | [Ganlas](https://open.spotify.com/artist/0AmPU5zuAi7slA529gGago) | [Solsten](https://open.spotify.com/album/49GVq2UFbm0PK962WsRcxB) | 3:32 | 2024-07-12 |  |
 | [Somber](https://open.spotify.com/track/1IaWSNyIJgS5I2wG7zmWJJ) | [Polarsken](https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH) | [Somber](https://open.spotify.com/album/07nrUzwmwDB4KM1ihnIy8X) | 4:13 | 2022-03-24 | 2022-11-26 |

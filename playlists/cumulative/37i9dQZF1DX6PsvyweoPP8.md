@@ -4,7 +4,7 @@
 
 > Muito trap feito especialmente para os momentos mais sexys e quentes\. \[Conteúdo Explícito\]
 
-242 songs - 11 hr 51 min
+243 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,6 +196,7 @@
 | [Proibidão Freestyle](https://open.spotify.com/track/5aXLowFBawbk0OqOfrvvmr) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [NGC Daddy](https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 2:46 | 2023-12-15 |  |
 | [Quando a noite cai](https://open.spotify.com/track/2goVwcY2cuJcNW2k4oOyse) | [Sinopoli](https://open.spotify.com/artist/6nwIPv4P6LtbGz9CNX0YqN), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558) | [Quando a noite cai](https://open.spotify.com/album/59fIICdsslRsNre2woI4DO) | 2:57 | 2024-04-12 | 2024-06-15 |
 | [Que Covardia](https://open.spotify.com/track/4MsMm1zNLzSnATK1l1NnjZ) | [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [AJ Wav](https://open.spotify.com/artist/7zVUKHKN1NSVZx7LMsG3B8), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Que Covardia](https://open.spotify.com/album/25aRYo4Sa4bdM0bTALSDj6) | 2:53 | 2024-05-24 |  |
+| [Quem Te Faz](https://open.spotify.com/track/5tg3wMBNJ52KeTwbUOYGIY) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Slaasty](https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1), [Bymd.wav](https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ) | [Quem Te Faz](https://open.spotify.com/album/0E1pYaXmv9mhh7RRWi2yY1) | 4:24 | 2024-09-06 |  |
 | [Relaxa](https://open.spotify.com/track/3mc1LoarFdYhBxHewaDzfN) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/7mwWu9YLbSBDzR88dMib8S) | 2:40 | 2022-07-08 | 2023-08-19 |
 | [Relaxa](https://open.spotify.com/track/6vVqy8Tn3l2yJqBgPU5g3D) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0), [Thiago Kelbert](https://open.spotify.com/artist/22kCWlXVaiBMYozPgHQhZM) | [Relaxa](https://open.spotify.com/album/726od9RXgGCfcR6KOHGIqz) | 2:40 | 2022-03-18 | 2022-07-29 |
 | [Rihanna](https://open.spotify.com/track/2OmSPqvPsPK5m5X6UByh5S) | [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP) | [Rihanna](https://open.spotify.com/album/6DoJq2RqQevgGMkpAFuPtw) | 2:39 | 2022-03-18 | 2024-06-15 |

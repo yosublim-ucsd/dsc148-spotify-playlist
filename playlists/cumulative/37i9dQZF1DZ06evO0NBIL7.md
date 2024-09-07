@@ -2,7 +2,7 @@
 
 ### [This Is Fangclub](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0NBIL7)
 
-> This is Fangclub\. The essential tracks, all in one playlist.
+> This is Fangclub。アーティストの代表曲をひとつのプレイリストに。
 
 37 songs - 2 hr 5 min
 

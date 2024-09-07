@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 
 > 最新最 HITO 的華語流行歌曲就在這立即收聽！Cover: 美秀集團 x 盧廣仲 \(Amazing Show x Crowd Lu\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 473,864 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 473,924 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqC43bGTcPc.md) - [plain]
 | 42 | [我喜歡你](https://open.spotify.com/track/6FpUCVpLvO0QXwsovSfWEa) | [芒果醬 Mango Jump](https://open.spotify.com/artist/1t1GIb4bb1lARAXwWEekUN) | [心跳保衛戰](https://open.spotify.com/album/7nGbf2KdoEMWtTKh3vViyK) | 3:27 |
 | 43 | [無垢](https://open.spotify.com/track/08VBl78Lgs7VIEzCL1Btyv) | [李浩瑋 Howard Lee](https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs) | [Fly Machine](https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV) | 3:29 |
 | 44 | [雪 Distance](https://open.spotify.com/track/0EpH84Gd5z9xDavnWowfaC) | [Capper](https://open.spotify.com/artist/0NWX8s7X9gtjad7sIB0uba), [羅言](https://open.spotify.com/artist/4ubrvBBuK8sxibCYU5JSUf) | [Uniconfication](https://open.spotify.com/album/7xlWrNZ5NHxhQz9hHFqgbv) | 2:45 |
-| 45 | [最后一页 \- Live](https://open.spotify.com/track/2v7cmOj2GzxM01yMEk4qhD) | [王赫野](https://open.spotify.com/artist/5vKiHjA85LuM37NgpA9cdO), [姚晓棠](https://open.spotify.com/artist/38tuZsH8q1PdrSybN2YeHh) | [最后一页 \(Live\)](https://open.spotify.com/album/7Ah1nVNWwadt7EGVITCPFA) | 4:35 |
+| 45 | [最后一页 \- Live](https://open.spotify.com/track/2v7cmOj2GzxM01yMEk4qhD) | [王赫野](https://open.spotify.com/artist/5vKiHjA85LuM37NgpA9cdO), [姚晓棠](https://open.spotify.com/artist/38tuZsH8q1PdrSybN2YeHh) | [最后一页 \- Live](https://open.spotify.com/album/7Ah1nVNWwadt7EGVITCPFA) | 4:35 |
 | 46 | [EEEASY](https://open.spotify.com/track/5P66jWpMGuRtTrJHz2pneh) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [艾志恒Asen](https://open.spotify.com/artist/6r2q02rEyw3DQXDXpNFwpp) | [EEEASY](https://open.spotify.com/album/5rlMaYhSPOoM0gGobykuzm) | 3:00 |
 | 47 | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/track/4Vamk9NnjiN4t5Ckgq1U7u) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [不簡單的我們 \(電視劇《小夫妻》插曲\)](https://open.spotify.com/album/31TtrxZgfHxpfOtEuVUt8X) | 4:27 |
 | 48 | [我不該哭 feat\. 告五人](https://open.spotify.com/track/1Px1DdlnMxUHKfTXZNaiBr) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy), [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我不該哭](https://open.spotify.com/album/6ukRpd0nZY8qsLijk0ROJR) | 4:44 |

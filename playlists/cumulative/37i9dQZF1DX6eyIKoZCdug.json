@@ -611,6 +611,32 @@
     },
     {
       "album": {
+        "name": "BADO",
+        "url": "https://open.spotify.com/album/1fDVNJlFOylIlxzbllqADM"
+      },
+      "artists": [
+        {
+          "name": "Shimza",
+          "url": "https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194395,
+      "name": "BADO",
+      "url": "https://open.spotify.com/track/54ThjvbWJnmRSKI7Jp82cA"
+    },
+    {
+      "album": {
         "name": "Bantu",
         "url": "https://open.spotify.com/album/2OC6ZfChujEkXlYFNcudU0"
       },
@@ -1196,6 +1222,40 @@
       "duration_ms": 446188,
       "name": "El Amal",
       "url": "https://open.spotify.com/track/19JGAJfYYlzBxRTYMLXjY1"
+    },
+    {
+      "album": {
+        "name": "Ematshwaleni",
+        "url": "https://open.spotify.com/album/1Qniank0pnbJha15aWiIbB"
+      },
+      "artists": [
+        {
+          "name": "Kususa",
+          "url": "https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ"
+        },
+        {
+          "name": "ANATII",
+          "url": "https://open.spotify.com/artist/6dX1EJC9XFlM8Ql1wGHC55"
+        },
+        {
+          "name": "MaWhoo",
+          "url": "https://open.spotify.com/artist/5kwZB1xNLgB3lln1JGS2B9"
+        },
+        {
+          "name": "Noxolo Ngema",
+          "url": "https://open.spotify.com/artist/4gR20Zh7XB48xnwxZnKGgb"
+        },
+        {
+          "name": "King Deetoy",
+          "url": "https://open.spotify.com/artist/4gk96iqLwnvHkmwZ4vbcEx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300778,
+      "name": "Ematshwaleni",
+      "url": "https://open.spotify.com/track/2ywtXblqZ2XNbbLTvCc1Cy"
     },
     {
       "album": {
@@ -1915,6 +1975,40 @@
     },
     {
       "album": {
+        "name": "Indlela (feat. Cnethemba Gonelo, Frank Mabeat & De Soul)",
+        "url": "https://open.spotify.com/album/3hD3OkWg5TK07Y3aOGWrAb"
+      },
+      "artists": [
+        {
+          "name": "Dj Moscow",
+          "url": "https://open.spotify.com/artist/34LasJ4MjhZQ8Qj000oRb3"
+        },
+        {
+          "name": "Brandon Dhludhlu",
+          "url": "https://open.spotify.com/artist/6PFKzJX6qfJFth8Uf6ZUEV"
+        },
+        {
+          "name": "Cnethemba Gonelo",
+          "url": "https://open.spotify.com/artist/7sLmMT6etbYy4ypf5pVxwg"
+        },
+        {
+          "name": "Frank Mabeat",
+          "url": "https://open.spotify.com/artist/6UMibn1aMdn9ZYFwgycomA"
+        },
+        {
+          "name": "De Soul",
+          "url": "https://open.spotify.com/artist/7MC6QpkwcMnPCBfyaF1vBW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328806,
+      "name": "Indlela (feat. Cnethemba Gonelo, Frank Mabeat & De Soul)",
+      "url": "https://open.spotify.com/track/38iC161zvj63Hdy6ENlMor"
+    },
+    {
+      "album": {
         "name": "Indoda no Sisi",
         "url": "https://open.spotify.com/album/2ifuzoDcKOVC2FUj7vKCNV"
       },
@@ -2626,6 +2720,32 @@
       "duration_ms": 449491,
       "name": "Mama (Da Capo's Touch)",
       "url": "https://open.spotify.com/track/6BLMoJcHmJiYfFRPKWOaEw"
+    },
+    {
+      "album": {
+        "name": "Mama Kosa",
+        "url": "https://open.spotify.com/album/0euT3TJjY3xLs8Q8EmQ1pz"
+      },
+      "artists": [
+        {
+          "name": "atsou",
+          "url": "https://open.spotify.com/artist/6TRgIFqqTDlwIULInhGKoD"
+        },
+        {
+          "name": "Da Capo",
+          "url": "https://open.spotify.com/artist/4YuviELTmYBvDR66ThrMy9"
+        },
+        {
+          "name": "Emmanuel Jal",
+          "url": "https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221595,
+      "name": "Mama Kosa",
+      "url": "https://open.spotify.com/track/605GMwOy2pPwTmR9usD1Pr"
     },
     {
       "album": {

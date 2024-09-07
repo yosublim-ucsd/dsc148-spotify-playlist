@@ -1171,6 +1171,36 @@
     },
     {
       "album": {
+        "name": "Alibi Pt. 2 - with Anitta, Pabllo Vittar & Yseult",
+        "url": "https://open.spotify.com/album/4BVxpsABEhOoeR6vmmrpxD"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176771,
+      "name": "Alibi Pt. 2 (with Anitta, Pabllo Vittar & Yseult)",
+      "url": "https://open.spotify.com/track/1oX1IJ6sHRiYpkwdbtfAiV"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/1DhvNti8w03vd00MYvmy7Q"
       },
@@ -24961,7 +24991,7 @@
     },
     {
       "album": {
-        "name": "Save My Soul",
+        "name": "Save My Soul (feat. AMANZI)",
         "url": "https://open.spotify.com/album/1gQZ0qp0b9itiBh7VnRW5z"
       },
       "artists": [
@@ -24978,7 +25008,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 153750,
-      "name": "Save My Soul",
+      "name": "Save My Soul (feat. AMANZI)",
       "url": "https://open.spotify.com/track/09SeFTIX9wjIPeDJokttb2"
     },
     {
@@ -31644,7 +31674,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 145730,
       "name": "Vent du Nord",
       "url": "https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM"

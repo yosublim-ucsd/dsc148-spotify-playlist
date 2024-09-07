@@ -4,7 +4,7 @@
 
 > Soothing instrumental music for sleepy babies.
 
-879 songs - 1 day 2 hr 25 min
+883 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Bitte Mama](https://open.spotify.com/track/1PNefrcvvs6O5KJR6QNSSK) | [Verna Fuller](https://open.spotify.com/artist/7yOLgQOK7gR1w8tnQp2Ubx) | [Das Freundliche Monster](https://open.spotify.com/album/167K8pRyBOUiDfZyv5Zwe8) | 1:04 | 2021-10-05 | 2022-11-19 |
 | [Björnen sover](https://open.spotify.com/track/2XYcp7kT5BxrhCEFykj3jA) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Björnen sover](https://open.spotify.com/album/3QRpb5nU9Y7EaMTWJlzCvz) | 1:28 | 2022-06-08 | 2023-06-03 |
 | [Blandt blomstene vil jeg være](https://open.spotify.com/track/6INWQk02ceQ0yyKnqaXCS8) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Blandt blomstene vil jeg være](https://open.spotify.com/album/0Cu1Fg6AmySgE2Xq4u7hfp) | 1:45 | 2021-10-05 | 2022-10-29 |
+| [Blanket of Stars](https://open.spotify.com/track/7eTR3qPyqup4gDQEFURGkE) | [Ondine Bell](https://open.spotify.com/artist/5fFRukegrqhl0LCYDjpQHq) | [Blanket of Stars](https://open.spotify.com/album/0F1sBRuBEbUI7nB5iyg2Hb) | 2:35 | 2024-09-06 |  |
 | [Blinking Blue Light](https://open.spotify.com/track/3IpXha0ThZETv3Xpf2e7Ef) | [Ryan Tulip](https://open.spotify.com/artist/5VtGjkjBPDzkyMHccU9125) | [Blinking Blue Light](https://open.spotify.com/album/3nILFt6z2y6l5bsJ2n2pfk) | 1:49 | 2021-10-05 | 2022-12-16 |
 | [Blissful Reverie](https://open.spotify.com/track/1NdUEVPr0YTCLEBLIbPXP6) | [Alex Dawa](https://open.spotify.com/artist/6btZeIxzYQSnzutRBcyUlV) | [Blissful Reverie](https://open.spotify.com/album/4iCzQCuhn1EkYKNkYe0n8H) | 2:41 | 2023-08-10 |  |
 | [Blue Rocking Horse](https://open.spotify.com/track/57myyBCgcvON9Ci55mtCIh) | [Little Sugar Piano](https://open.spotify.com/artist/1qUlqHISkBjUryDH3m69xw) | [Bedtime Lullabies](https://open.spotify.com/album/3mPWrs1vqXjRC02vNcjVrB) | 1:57 | 2021-10-05 | 2022-12-24 |
@@ -386,7 +387,7 @@
 | [Knackle Back](https://open.spotify.com/track/7kjnyXWlhQdlrtFX1a39K8) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Knackle Back](https://open.spotify.com/album/2wOW8e8QozWcb89PDhVlaw) | 1:42 | 2024-02-09 |  |
 | [Krakel Spektakel](https://open.spotify.com/track/1Cy2K9hiohAGDI8Ghb3qHL) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Krakel Spektakel](https://open.spotify.com/album/58QHz8J4TR4k352dRI2GKA) | 1:12 | 2022-07-27 | 2024-03-29 |
 | [La la la la long](https://open.spotify.com/track/4YnNR9CAsHjA4kJXXBgRQI) | [Wilford Ware](https://open.spotify.com/artist/5fWCtKlxGJegVWtTpHOgWv) | [La la la la long](https://open.spotify.com/album/07KU1zdxHxTzSuLrFMbVh8) | 1:06 | 2021-10-05 | 2024-03-29 |
-| [La ville](https://open.spotify.com/track/4m7IAUVq4oVD0IcWDJfVkf) | [João Belo](https://open.spotify.com/artist/08DLkt583Xdy8QmLZ6WSIz) | [La ville](https://open.spotify.com/album/2tXDXFFHDHdnW0Xfnjc5CT) | 1:48 | 2022-12-16 |  |
+| [La ville](https://open.spotify.com/track/4m7IAUVq4oVD0IcWDJfVkf) | [João Belo](https://open.spotify.com/artist/08DLkt583Xdy8QmLZ6WSIz) | [La ville](https://open.spotify.com/album/2tXDXFFHDHdnW0Xfnjc5CT) | 1:48 | 2022-12-16 | 2024-09-07 |
 | [Ladybird](https://open.spotify.com/track/29m9bqkYtMvxDEO6QQYLJ3) | [Bobbi Rafferty](https://open.spotify.com/artist/0m9pUjmNedBWPtNVf0ZVlt) | [Ladybird](https://open.spotify.com/album/4LTG85GVjf5C17cdMaWGsh) | 1:35 | 2022-02-10 | 2024-06-22 |
 | [Lapprika Papprika](https://open.spotify.com/track/3wlOhYX7myEnz3yyLZ0aWW) | [Sarah Bainscroft](https://open.spotify.com/artist/02wB0F6h57bxak35tylWeF) | [Hellsing songs](https://open.spotify.com/album/7vnuUxdMxJltquYqlcJLi7) | 1:12 | 2023-02-17 |  |
 | [Lassie’s Sleeping](https://open.spotify.com/track/57icDndw3YAfDrZKnuJjmD) | [Emma Moore](https://open.spotify.com/artist/79IbuSBovH7gT9twZJWBna) | [Lassie’s Sleeping](https://open.spotify.com/album/2DWRAS2ugcEenO52ppMLEH) | 1:46 | 2021-10-05 | 2023-01-27 |
@@ -436,6 +437,7 @@
 | [London Bridge \(Piano Version\)](https://open.spotify.com/track/53OUBSsdeNaLWBlJgsCmCf) | [John B\. Lund](https://open.spotify.com/artist/7aeRsfmuN284l1Hs1eyVbW) | [London Bridge](https://open.spotify.com/album/28rxlSckkCchLIKKBdBe2i) | 1:34 | 2021-10-05 |  |
 | [Longing For Summer](https://open.spotify.com/track/2BUAnpEmDU7zp1cbkcjm2K) | [Carly Tickner](https://open.spotify.com/artist/2v8qefTwhfVB7aNGdHpJFh) | [Longing For Summer](https://open.spotify.com/album/3gINKYOuguoZbjSZ69O0R3) | 1:18 | 2021-10-05 | 2022-10-29 |
 | [Lottie, My Friend](https://open.spotify.com/track/6bZSpPlfY3GUzhl4c6H1CG) | [Alice Greye](https://open.spotify.com/artist/4RdZNnJK1W6fJNOr9KrKpn) | [Lottie, My Friend](https://open.spotify.com/album/0nUfTXSW8LFlefjQALTeuJ) | 1:33 | 2023-08-10 |  |
+| [Love](https://open.spotify.com/track/1beRD6pbKW4rFT3kCNfvKo) | [Mollis](https://open.spotify.com/artist/1QT9mxEShl9BmYBUhnr1DG) | [Love](https://open.spotify.com/album/4c2xjxwhxMb92FfIUE9toB) | 2:43 | 2024-09-06 |  |
 | [Love At First Sight](https://open.spotify.com/track/0BM0YAIxjt9WsFysd8wHKr) | [Sharmaine Willis](https://open.spotify.com/artist/0GlF18fN3nM7fEtlYY02mM) | [Love At First Sight](https://open.spotify.com/album/2BqbR2IoPc3xymuOyO24KB) | 1:39 | 2022-11-18 |  |
 | [Loved One](https://open.spotify.com/track/0EnI9poj4crDirbCX7BgFi) | [Fiona O'Hara](https://open.spotify.com/artist/6ZE5y5Kck6E2HF7zypfg27) | [Loved One](https://open.spotify.com/album/0I8xnEXG1n8dSWyiJNk5IV) | 1:09 | 2022-04-20 | 2024-07-19 |
 | [Lucky As Can Be](https://open.spotify.com/track/0Cw53v0dDmtWV0V72G9ec6) | [Gus Holley](https://open.spotify.com/artist/3HY0QaaJZYvuIeZ6lmKzcM) | [Lucky As Can Be](https://open.spotify.com/album/4d43JX9UxcFpQtTZUzaBsw) | 1:48 | 2022-04-20 | 2024-04-17 |
@@ -446,6 +448,7 @@
 | [Lullaby Of Autumn](https://open.spotify.com/track/5VJxYA47q2UrtkqUcW3Dwg) | [Monroe Hershey](https://open.spotify.com/artist/3DKrRxq6WNjqIxwENVSepm) | [Lullaby Of Autumn](https://open.spotify.com/album/1kE4v6KJ5CmfmMQSlrfukA) | 1:20 | 2022-11-18 |  |
 | [Lullaby of Summerland](https://open.spotify.com/track/6dyJoGyNtgFDuyTO1yvwxV) | [Elia Mackay](https://open.spotify.com/artist/7gJz5WRoqBK267AG5fedNb) | [Lullaby of Summerland](https://open.spotify.com/album/5t6dnW1QTRTDd2NzkTEnLf) | 2:06 | 2022-06-08 | 2024-03-29 |
 | [Lykke](https://open.spotify.com/track/0giMCbKklJ1aDn6YjFrQmR) | [Erna Kristiansen](https://open.spotify.com/artist/5glqngXL4XhdN4Yi1jFkTp) | [Lykke](https://open.spotify.com/album/05dZD0nyuMayUpSxyav40H) | 1:50 | 2022-12-16 |  |
+| [Magic Bubbles](https://open.spotify.com/track/0o4q6LYLyRKgWUfMVD5RhZ) | [Goldinia](https://open.spotify.com/artist/0xPgrNXfmXYmmXg9zKS1zT) | [Magic Bubbles](https://open.spotify.com/album/3N2K9mFTe0fjd3k7OkTjwT) | 2:05 | 2024-09-06 |  |
 | [Main Theme \(From "Björnes Magasin"\) Piano Version](https://open.spotify.com/track/2AnYok5pkpKepDIkwVwfn7) | [Abie Anderson](https://open.spotify.com/artist/3o78La1Sg11Ola3Qk9hai0) | [Main Theme \(From Björnes Magasin\)](https://open.spotify.com/album/0K5lQvldUVSjuo9cB4LcKb) | 1:29 | 2022-10-28 | 2023-08-11 |
 | [Majas visa](https://open.spotify.com/track/4KJ38cmvLteA1mWURNVXbD) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [Majas visa](https://open.spotify.com/album/7MDXgNepfqxgjuz67cglgj) | 1:25 | 2022-10-07 | 2023-06-03 |
 | [Make A Wish](https://open.spotify.com/track/5TCkbh2eGCbp14pbv5ilkK) | [Nola Chauncey](https://open.spotify.com/artist/1GJBejOzMI7Bu94lKJQlth) | [Make A Wish](https://open.spotify.com/album/0uRNCqlnbwPl75hV4F4XyT) | 1:33 | 2022-09-02 |  |
@@ -541,6 +544,7 @@
 | [On a rainy day](https://open.spotify.com/track/4jgCNXV4ZoQcQc8yz1Kc0O) | [Paul Chevez](https://open.spotify.com/artist/40ZcdfHKTyisdGQOIHAmFJ) | [On a rainy day](https://open.spotify.com/album/2J1xpDIoo4yqc6QjZxiinS) | 1:27 | 2021-10-05 | 2023-04-09 |
 | [On My Chest](https://open.spotify.com/track/5ivcwAjEGrSiCIna2JISRC) | [Archie Brier](https://open.spotify.com/artist/5t49t4BTV7PlLZ5FbiQpES) | [On My Chest](https://open.spotify.com/album/5qKMZvBgtWWtRgTtZY5WbH) | 1:20 | 2022-05-12 | 2024-07-13 |
 | [On the Night You Were Born](https://open.spotify.com/track/3UdgbTMhsYFw6EfQ8alEP3) | [Colleen Kozak](https://open.spotify.com/artist/19yYfBfYNV2XUJvo8pfKvK) | [On the Night You Were Born](https://open.spotify.com/album/2t9UIgBagllTRvR8Yb5mjj) | 1:35 | 2021-10-05 | 2022-11-19 |
+| [On Vacation](https://open.spotify.com/track/2PrDoh7h6OUzle2ZNOTcfY) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [On Vacation](https://open.spotify.com/album/1X76rWrAs2WLPBn30NNKgz) | 1:11 | 2024-09-06 |  |
 | [Once Upon](https://open.spotify.com/track/2rfou3j13jIXEBvWoRRN60) | [Emilie Kirsstadt](https://open.spotify.com/artist/6l18YJDLUmzXwcG0P5iCrN) | [Once Upon](https://open.spotify.com/album/0nYLfxU39Hx9ArHkvZaklt) | 1:09 | 2023-04-07 |  |
 | [One Little Elephant](https://open.spotify.com/track/7BY2juS1phGDJV4Qspg5zE) | [Mila Westman](https://open.spotify.com/artist/1GGjTmD1eDeKr73r3VMiIJ) | [One Little Elephant](https://open.spotify.com/album/3U1Xww56QKp1FKW4ZfLccv) | 1:22 | 2023-06-15 |  |
 | [One More, Mommy!](https://open.spotify.com/track/1f7HZs5cKbpjbwIb51koAC) | [Gabriella Chiado](https://open.spotify.com/artist/5qEqJaMiZWbCFsnbDVRqOH) | [One More, Mommy!](https://open.spotify.com/album/2WREGOUQDi9sAf4iwzSn05) | 1:58 | 2023-10-20 |  |

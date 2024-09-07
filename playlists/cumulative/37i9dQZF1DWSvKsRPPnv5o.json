@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Holdin' it down for the westside. Cover: YG",
+  "description": "Holdin' it down for the westside. Cover: 310babii",
   "name": "Westside Story",
   "tracks": [
     {
@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 116635,
       "name": "chips n queso",
       "url": "https://open.spotify.com/track/3wcLgWc0YjIc76Cj7iEFUL"
@@ -6113,6 +6113,24 @@
     },
     {
       "album": {
+        "name": "forward back",
+        "url": "https://open.spotify.com/album/274MW5GJam6hhnTJbT8Vtw"
+      },
+      "artists": [
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84324,
+      "name": "forward back",
+      "url": "https://open.spotify.com/track/46eKpZPwKygAY2jAEKcqFC"
+    },
+    {
+      "album": {
         "name": "Foster",
         "url": "https://open.spotify.com/album/37NzzTlMGxMD0oqAm5cjjf"
       },
@@ -6380,7 +6398,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-27",
+      "date_removed": null,
       "duration_ms": 141844,
       "name": "Fuck It Up (feat. YG)",
       "url": "https://open.spotify.com/track/0nXgBBZFVdumUIaxszDm1p"
@@ -8973,6 +8991,32 @@
     },
     {
       "album": {
+        "name": "MONEYBAGZ",
+        "url": "https://open.spotify.com/album/4XTWRNiYJnoHIjD1i8GPVO"
+      },
+      "artists": [
+        {
+          "name": "Lil Pete",
+          "url": "https://open.spotify.com/artist/5ULJ18n8PZ9rJv5kYsZByV"
+        },
+        {
+          "name": "Moneybagz Lee",
+          "url": "https://open.spotify.com/artist/72MWN0mCqEK9MQ7txGuVRB"
+        },
+        {
+          "name": "Ballout PG",
+          "url": "https://open.spotify.com/artist/0ykrx17D3ut7ksDR9P2Rgp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155245,
+      "name": "Is There More (feat. Moneybagz Lee & Ballout PG)",
+      "url": "https://open.spotify.com/track/6XGEERJse8AVRQRijIO722"
+    },
+    {
+      "album": {
         "name": "Is What It Is",
         "url": "https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga"
       },
@@ -9950,7 +9994,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 199402,
       "name": "Lied On (feat. Rayven Justice)",
       "url": "https://open.spotify.com/track/2yd8fHKmjMzzjxO22kjzoD"
@@ -10106,6 +10150,24 @@
       "duration_ms": 154000,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/6k0uXMxdOgkz4w3fCKB2iX"
+    },
+    {
+      "album": {
+        "name": "Like Me",
+        "url": "https://open.spotify.com/album/0quqMz4CXvvsMZJZmAJwe6"
+      },
+      "artists": [
+        {
+          "name": "ppcocaine",
+          "url": "https://open.spotify.com/artist/2u1aL8XADqj0nJFHMKRjNw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135183,
+      "name": "Like Me",
+      "url": "https://open.spotify.com/track/0HFDl5sJAOPyyqKCiJ4Y5Q"
     },
     {
       "album": {
@@ -10300,7 +10362,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 123242,
       "name": "Link Wit Me",
       "url": "https://open.spotify.com/track/2EyuB5eASgdls49acEyx5J"
@@ -16282,7 +16344,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 160440,
       "name": "Stay Dangerous",
       "url": "https://open.spotify.com/track/2cfNwxZceBgCaiyYLsm8rS"

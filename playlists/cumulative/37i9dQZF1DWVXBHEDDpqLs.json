@@ -187,6 +187,32 @@
     },
     {
       "album": {
+        "name": "Acid Delirio (feat. Saturnino & Maria Chiara Argir\u00f2)",
+        "url": "https://open.spotify.com/album/2MwuQc7BgWapSaAjonKk9p"
+      },
+      "artists": [
+        {
+          "name": "Lorenzo Morresi",
+          "url": "https://open.spotify.com/artist/5KgrjZAqa9vYxxza7MDDW2"
+        },
+        {
+          "name": "Saturnino",
+          "url": "https://open.spotify.com/artist/1sKfOFTS7Ae9RLO2YbocVd"
+        },
+        {
+          "name": "Maria Chiara Argir\u00f2",
+          "url": "https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 356386,
+      "name": "Acid Delirio (feat. Saturnino & Maria Chiara Argir\u00f2)",
+      "url": "https://open.spotify.com/track/5Gx9F0qAj3yLnVNjwOdgKa"
+    },
+    {
+      "album": {
         "name": "Brujas EP",
         "url": "https://open.spotify.com/album/1Gby8YIACpxTKO6lV5Ilj9"
       },
@@ -206,6 +232,36 @@
       "duration_ms": 269437,
       "name": "Acuyuye",
       "url": "https://open.spotify.com/track/7x9Fzi3wwowHa4HJmeBpux"
+    },
+    {
+      "album": {
+        "name": "ADDY",
+        "url": "https://open.spotify.com/album/0D0Lse0MQYSqniC9es3wcA"
+      },
+      "artists": [
+        {
+          "name": "JIALING",
+          "url": "https://open.spotify.com/artist/6DeRQclhjr2FXuJZvkQr24"
+        },
+        {
+          "name": "Third Self",
+          "url": "https://open.spotify.com/artist/370kGb0x4Y8dqbTzpkwV69"
+        },
+        {
+          "name": "HONEY B",
+          "url": "https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W"
+        },
+        {
+          "name": "Rose Kourts",
+          "url": "https://open.spotify.com/artist/5Gsx1hlxBwCAFg2Iq6UOgg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298253,
+      "name": "ADDY",
+      "url": "https://open.spotify.com/track/3cdWtoaLOBrJwMNnI4NmJC"
     },
     {
       "album": {
@@ -268,6 +324,28 @@
       "duration_ms": 149231,
       "name": "Ain't Going Back",
       "url": "https://open.spotify.com/track/1Iot1CYAcasgCDUxndVt7D"
+    },
+    {
+      "album": {
+        "name": "Alfonzo",
+        "url": "https://open.spotify.com/album/5zbUIfi8KEJAtqCzDIZnGf"
+      },
+      "artists": [
+        {
+          "name": "ISSA",
+          "url": "https://open.spotify.com/artist/2JMWBjhHdG87GnynPAGBzG"
+        },
+        {
+          "name": "Your Planet Is Next",
+          "url": "https://open.spotify.com/artist/0kwsmj8T6jMokQr2YXcKiT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Alfonzo",
+      "url": "https://open.spotify.com/track/3rT3fWKXNBks3yhI6c70Z1"
     },
     {
       "album": {
@@ -971,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "Body Talk EP",
+        "url": "https://open.spotify.com/album/5nICzgWI2sgVY7yN4eal6V"
+      },
+      "artists": [
+        {
+          "name": "Nectax",
+          "url": "https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303408,
+      "name": "Body Talk",
+      "url": "https://open.spotify.com/track/18pRsZnQSEuDK2z0amOonv"
+    },
+    {
+      "album": {
         "name": "Bombtrack (Roska Remix)",
         "url": "https://open.spotify.com/album/3KLyOjPzGwvyMmx5s8tm8C"
       },
@@ -1346,7 +1442,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 388055,
       "name": "Carabiner - Ciel's Reoriented Dub",
       "url": "https://open.spotify.com/track/5qlfhIvFTYYodQkv7RJubK"
@@ -1878,7 +1974,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 255211,
       "name": "Earnest Binary",
       "url": "https://open.spotify.com/track/6gHz6YM6iSXIE5SMGTQfnf"
@@ -2046,7 +2142,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 267025,
       "name": "F*ck Me Up",
       "url": "https://open.spotify.com/track/3tNDcctgStetfyUZQsaAPp"
@@ -2700,7 +2796,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 267000,
       "name": "Good Time",
       "url": "https://open.spotify.com/track/1jm4IAFkPTpenVwLSURpIG"
@@ -3252,7 +3348,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 185238,
       "name": "I Feel Sexxx - 2024 Killa Edit",
       "url": "https://open.spotify.com/track/4Im4ed048ODKhC0QTKunIL"
@@ -4525,6 +4621,24 @@
     },
     {
       "album": {
+        "name": "One Fly Tune",
+        "url": "https://open.spotify.com/album/2sDnowjHkLEVSHC0kOXtlw"
+      },
+      "artists": [
+        {
+          "name": "Jonah Almost",
+          "url": "https://open.spotify.com/artist/3AsAGsWuplZx5dWXBzlyg1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159250,
+      "name": "One Fly Tune",
+      "url": "https://open.spotify.com/track/19XwRbjSXR6b4U7Eprgih3"
+    },
+    {
+      "album": {
         "name": "1:M",
         "url": "https://open.spotify.com/album/5i6vi1x6zXsRXjfd1IMA2n"
       },
@@ -4958,6 +5072,24 @@
       "duration_ms": 160783,
       "name": "Push",
       "url": "https://open.spotify.com/track/4SQ2tsNTbiAhK1Xvg9M3mQ"
+    },
+    {
+      "album": {
+        "name": "PUSH",
+        "url": "https://open.spotify.com/album/77K70caFbp8CNnwAb0VPxf"
+      },
+      "artists": [
+        {
+          "name": "Matisa",
+          "url": "https://open.spotify.com/artist/18YBSDKYgR6so2I94gqUQ9"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366922,
+      "name": "PUSH",
+      "url": "https://open.spotify.com/track/3G6i2nRaAWKcmzjQKL3ke4"
     },
     {
       "album": {
@@ -7046,7 +7178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 150644,
       "name": "Wyle Up",
       "url": "https://open.spotify.com/track/5KhuJU1rzOCbzdw7w8y02W"

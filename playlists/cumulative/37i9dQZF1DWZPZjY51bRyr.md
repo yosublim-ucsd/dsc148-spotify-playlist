@@ -4,7 +4,7 @@
 
 > Feel the warmth of the spa, treat your body and mind to a wellness experience.
 
-226 songs - 11 hr 47 min
+227 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Breeze out](https://open.spotify.com/track/015qmMDEE9A5pKrjTaG3nT) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Breeze out](https://open.spotify.com/album/4PnD3Gccu4KYOCC0qYsak0) | 3:11 | 2023-08-16 |  |
 | [BYND TME](https://open.spotify.com/track/1h3wacc0OmdTvQOply0ulc) | [Nico Via](https://open.spotify.com/artist/0Q0dFhAcaTlfzBowdB7Btt) | [BYND TME](https://open.spotify.com/album/7tosvh7CaTGdeEMwJ4COao) | 4:04 | 2023-03-10 | 2024-07-19 |
 | [Calm Cosmos](https://open.spotify.com/track/2lrjDsy5PFchhGWXgDkDMG) | [Franz Emerald](https://open.spotify.com/artist/5luV26BPXVy8eyjz3lnzKv) | [Calm Cosmos](https://open.spotify.com/album/7wUSmY0F0eoFd5pa644lvE) | 2:17 | 2023-10-26 |  |
-| [Captain Speaking](https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Captain Speaking](https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8) | 6:17 | 2023-07-27 | 2024-07-19 |
+| [Captain Speaking](https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Captain Speaking](https://open.spotify.com/album/6LxidQWnPX1XULUsNagGG8) | 6:17 | 2023-07-27 |  |
 | [Cestrum Nocturnum](https://open.spotify.com/track/6GeOp6CpYlSQEE3vYdCn9y) | [De Moi](https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK) | [Cestrum Nocturnum](https://open.spotify.com/album/3MTWyyJcXocHso45ooi1LZ) | 3:15 | 2023-02-17 |  |
 | [Chakra](https://open.spotify.com/track/0SfDJE8Q0RhjgriKxSEXSN) | [Maasoom](https://open.spotify.com/artist/7bFkM59zFpSSmQEmPIfIrg) | [Chakra](https://open.spotify.com/album/4qdm2nundmbGV2g9ppryGD) | 2:10 | 2023-09-25 |  |
 | [Circle of Life](https://open.spotify.com/track/5ZES0TpHFfczYU6OgoBYA4) | [Lovisa Gulli](https://open.spotify.com/artist/58n0GT0HiGmwsB3cyH6Bfl) | [Circle of Life](https://open.spotify.com/album/1nFutOjJZwK70snfXyPUhT) | 2:44 | 2023-02-17 |  |
@@ -64,7 +64,7 @@
 | [Clear Skies Ahead](https://open.spotify.com/track/4m1wouuJbxxmeONhfmeeoV) | [Syla Lo](https://open.spotify.com/artist/3zNfKSIPCXKHZqlo2HQQl2) | [Clear Skies Ahead](https://open.spotify.com/album/5rKVWByShf5lLqfFwDBsrg) | 2:36 | 2024-07-18 |  |
 | [Clear Thoughts](https://open.spotify.com/track/22q9XWXxyIDY1zdqgfsLkF) | [Enapay](https://open.spotify.com/artist/04aI3lUztHm7euSI9Lo6ug) | [Clear Thoughts](https://open.spotify.com/album/0EObGlJoKBfBr14MLHKtGn) | 3:00 | 2023-02-17 |  |
 | [Clearing Your Mind](https://open.spotify.com/track/0hadvoa1iZL28fFKLLp6as) | [Marolo Ocean](https://open.spotify.com/artist/1BiM1ohqvojfJWUzDwrFpQ) | [Green Haven](https://open.spotify.com/album/0ADw9zxE2cWSRk0HvkAZ2q) | 2:43 | 2023-02-17 |  |
-| [Clearings](https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Clearings](https://open.spotify.com/album/60o397RIevLIAx8f17RRss) | 2:40 | 2023-04-24 |  |
+| [Clearings](https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R) | [Bellezza Eterna](https://open.spotify.com/artist/3ekUIJNMmdW9bAYSKDzNNk) | [Clearings](https://open.spotify.com/album/60o397RIevLIAx8f17RRss) | 2:40 | 2023-04-24 | 2024-09-07 |
 | [Clouds](https://open.spotify.com/track/3KbFbF6hC4sC5LdaZM9egz) | [Full Presence](https://open.spotify.com/artist/2qzogTJMX1UvUPA39DYAgB) | [Clouds](https://open.spotify.com/album/3EEUysPDMUBXh4uhbS3jGh) | 2:14 | 2023-08-02 |  |
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-07-27 |  |
 | [Comfortable Ease](https://open.spotify.com/track/4bjaDDWTwOAEL7kFAnpy4R) | [Leigh Erin](https://open.spotify.com/artist/3Ee9xlGbXKadjo3ccCNfrg) | [Comfortable Ease](https://open.spotify.com/album/2C6fwWe4cy1meGy8m8nof0) | 1:56 | 2023-10-26 |  |
@@ -112,9 +112,9 @@
 | [Harmless 417 Hz](https://open.spotify.com/track/2bH8j0OZJMudcwpxqlmFyF) | [Inner Peace Champions](https://open.spotify.com/artist/5bSKwZCrNCkL4EWOkxvkHK) | [Harmless 417 Hz](https://open.spotify.com/album/1HYpP4M5rRaJPDBbhfDnuy) | 2:55 | 2024-07-18 |  |
 | [Harmonious Waves](https://open.spotify.com/track/4Z4KRvAEWbQ7uodFWnvptY) | [Torino Sky](https://open.spotify.com/artist/4qUuZzHZAeduYNqDbRGITd) | [Harmonious Waves](https://open.spotify.com/album/40UBjtYufZkwb3oVI11kM6) | 2:47 | 2023-07-10 |  |
 | [Harps of Refinement](https://open.spotify.com/track/7rmtLLMsb4zKZbs8m4TBFs) | [Beyond Observable](https://open.spotify.com/artist/1U6qKU6BSASFb54OOKP3bq) | [Harps of Refinement](https://open.spotify.com/album/24rrR09ppuyoNWgKwGRP4J) | 3:00 | 2024-07-18 |  |
-| [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2023-02-17 |  |
+| [Healing](https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk) | [Zion Llama](https://open.spotify.com/artist/3cpzUGjbTlToxJzxfWiW1u) | [Lunar](https://open.spotify.com/album/72VzXU9NtbdvWG8zcGR8O1) | 2:49 | 2023-02-17 | 2024-09-07 |
 | [Healing Serenade](https://open.spotify.com/track/3RVyOL4WiLVUAw5s0M1M2K) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:02 | 2023-08-02 |  |
-| [Healing Solfeggio 528 Hz](https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Healing Solfeggio 528 Hz](https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf) | 2:34 | 2023-12-15 | 2024-09-02 |
+| [Healing Solfeggio 528 Hz](https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI) | [Zoe Sutherland](https://open.spotify.com/artist/3u1Ksfmps8VxbPLL4a2EAb) | [Healing Solfeggio 528 Hz](https://open.spotify.com/album/0yqpMHlXKWc8CrP4Lh6INf) | 2:34 | 2023-12-15 |  |
 | [Healing Winds](https://open.spotify.com/track/4dMKw8w6WNByJ5nVWdVEb2) | [Eta Centauri](https://open.spotify.com/artist/3KadSziW0YI74KukJn9uwn) | [Healing Winds](https://open.spotify.com/album/3ii72HV58BygTMrrqVh4UJ) | 3:02 | 2024-07-18 |  |
 | [In Everness](https://open.spotify.com/track/7LnvQlr3FHWlmiCqDDbXOh) | [Pranayama Squad](https://open.spotify.com/artist/4Fn6NIKAqZ7P7kUG39RG7w) | [In Everness](https://open.spotify.com/album/3askarTMsTIOOiFy338QD0) | 3:25 | 2023-05-19 |  |
 | [Inner Universe](https://open.spotify.com/track/1XOc1T0peSL0F5UF6J5xJJ) | [Von Goo](https://open.spotify.com/artist/0ok7E7efNzcR8Bz1xDx8Zb) | [Inner Universe](https://open.spotify.com/album/79nhvpmbNmMMVjPiOkzs2G) | 3:30 | 2023-02-17 |  |
@@ -133,7 +133,7 @@
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2023-02-17 |  |
 | [Looking for the Self](https://open.spotify.com/track/284P9JZUDrh9YQjL78vR9g) | [faintface](https://open.spotify.com/artist/2dmaPf4Lroxldy8ktS9Jvs) | [Ascend](https://open.spotify.com/album/2g8yMFt1ZbttMXChvjKIDv) | 3:13 | 2023-02-17 |  |
 | [Lost In The Moment](https://open.spotify.com/track/1EQjRFsujGt5MXWcZ3e41d) | [Bansuri Tribe](https://open.spotify.com/artist/3lDjq6pzHn0pxLMw5gYgr0) | [Lost In The Moment](https://open.spotify.com/album/0XyDvrRxaVpme3G218gzJ5) | 3:32 | 2023-02-17 |  |
-| [low pass vision](https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW) | [Irma Leko](https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR) | [low pass vision](https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF) | 3:18 | 2023-12-15 | 2024-07-19 |
+| [low pass vision](https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW) | [Irma Leko](https://open.spotify.com/artist/1v2ot5AsADBuFjviWNgOZR) | [low pass vision](https://open.spotify.com/album/0cfy8Vn44l69WpPLF4SlJF) | 3:18 | 2023-12-15 |  |
 | [Lush](https://open.spotify.com/track/5SDlIDE7MvKEEfUwPvXrvN) | [Zoe Connelly](https://open.spotify.com/artist/1jrYQH3c0RnD9Gcq43NDIO) | [Lush](https://open.spotify.com/album/7magGCz2T7htZUF1uguOP2) | 2:16 | 2023-02-17 |  |
 | [L´unico Mondo](https://open.spotify.com/track/0GapXKIQZFt1bxbZ6m2QHN) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [L´unico Mondo](https://open.spotify.com/album/3OTgcKoceFHbQPoSXTMx6D) | 2:37 | 2024-07-18 |  |
 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 | 2023-02-17 |  |
@@ -143,6 +143,7 @@
 | [Mesmeric Quietude](https://open.spotify.com/track/2vrftkFrb4WUmq9o0S13s4) | [Wes Gold](https://open.spotify.com/artist/3uZ9l95kMSViN318zjUZlH) | [Mesmeric Quietude](https://open.spotify.com/album/0VTlAi6Lan3qg9SFccrXU9) | 2:29 | 2023-02-17 |  |
 | [Messiah Silica](https://open.spotify.com/track/00dKAndxIdVhbJv0f2IKi7) | [D/S/T/N/C/E](https://open.spotify.com/artist/6aOdz7c7KzcgQfsfDYETIT) | [Messiah Silica](https://open.spotify.com/album/7xAHXVwAJDpeXlckASpuI9) | 2:34 | 2023-10-16 |  |
 | [Mindful Morning](https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u) | [Yaminu](https://open.spotify.com/artist/5bTsHhnuBtER2fvtEjTsYG) | [Mindful Morning](https://open.spotify.com/album/0MdLoo2an3hSFefvqc84gW) | 3:05 | 2023-02-17 | 2023-08-17 |
+| [Miquella's Pond](https://open.spotify.com/track/3i43trjHW3NbxY3ICtHm8p) | [A Place Of Solace](https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF) | [Miquella's Pond](https://open.spotify.com/album/3xNGgYYAuqKTmEwDQbSfoA) | 3:01 | 2024-09-06 |  |
 | [Mirage](https://open.spotify.com/track/4GDND8Yo6fiuZyDLb3AZFc) | [Aasha](https://open.spotify.com/artist/3oZIhZPCUlo96KASIHluiC) | [Mirage](https://open.spotify.com/album/5r4Jy8mDacGJHNOpxmPYgx) | 2:18 | 2023-10-26 |  |
 | [Momentum](https://open.spotify.com/track/3lIdE6vUEyqbE5n2wp5Qbw) | [Gustavo Virtanen](https://open.spotify.com/artist/3nBxnqp6bJYMkpyzVR7dF4) | [Momentum](https://open.spotify.com/album/48dUIXdUTDj1p8gHhZRhtU) | 5:21 | 2024-08-02 |  |
 | [Nereal Beauty](https://open.spotify.com/track/1eNHSY3zqCHnBGok3b5hsG) | [Lola Fiennes](https://open.spotify.com/artist/2AxgpeDAr8BILZvsEO445F) | [Nereal Beauty](https://open.spotify.com/album/6jHxOlPcctkQrPcBjtEwwi) | 2:27 | 2023-05-19 |  |
@@ -158,9 +159,9 @@
 | [Perceive](https://open.spotify.com/track/6A3NVkdtex7xq4YBmC9TET) | [Julianne Pascal](https://open.spotify.com/artist/3WLA2XptpVp4ALuVFnnQeO) | [Perceive](https://open.spotify.com/album/5xC24lrQbOvO5Dq9WtB4qO) | 2:53 | 2023-05-19 |  |
 | [Perfect State Of Mind](https://open.spotify.com/track/6r0Y7BP8NlfVNrss5bByJJ) | [Pine River](https://open.spotify.com/artist/7HsoTMNjOjjMVQNVzmxCRN) | [Perfect State Of Mind](https://open.spotify.com/album/3BWdIyNrO18p22YN43Fh3b) | 2:35 | 2023-03-10 |  |
 | [Plenty](https://open.spotify.com/track/60tWghdZKTWx5UiOJvKCRZ) | [Mamá Valiente](https://open.spotify.com/artist/1QmJjqae7klTYMxMjL0hcV) | [Plenty](https://open.spotify.com/album/2vGMc1zVBTv6GZ8vIIh7fl) | 2:35 | 2024-08-02 |  |
-| [Polysomnography](https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Somniloquy](https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca) | 1:52 | 2023-12-15 |  |
+| [Polysomnography](https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO) | [Mentitoso](https://open.spotify.com/artist/6GOKThcohv3HZKEhYIrGTL) | [Somniloquy](https://open.spotify.com/album/6lOI8rbllxX6g7LMYmg3ca) | 1:52 | 2023-12-15 | 2024-09-07 |
 | [Pravāsa](https://open.spotify.com/track/18nVgxKk1SKcszU4j4TKcq) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tantra](https://open.spotify.com/album/4hnPgFlqzJylzUSAVkqwE1) | 2:57 | 2023-02-17 |  |
-| [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2023-02-17 |  |
+| [Prkahm Mindbeats](https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Prkahm Mindbeats](https://open.spotify.com/album/3s7Gqi15d2IzMh0it9eIci) | 3:15 | 2023-02-17 | 2024-09-07 |
 | [Pune](https://open.spotify.com/track/0RmW4i2Drbqe2i7rLzReL4) | [Arch](https://open.spotify.com/artist/3DeXMhW341Jkl4APFrFCmL) | [Pune](https://open.spotify.com/album/0jUYXqBJAa9peMbYsTP5wE) | 2:56 | 2024-07-18 |  |
 | [Pure And Calm](https://open.spotify.com/track/663LF9heB9sWluligQWpG8) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Pure And Calm](https://open.spotify.com/album/6Js79WFhXHyBSaPnM81l0j) | 2:45 | 2023-02-17 |  |
 | [Pyaar](https://open.spotify.com/track/3WEiy40dTlBu9OU4JkzzAt) | [Ashia Kashyap](https://open.spotify.com/artist/0ZsjZX7yAwB3UhNT9cWonV) | [Pyaar](https://open.spotify.com/album/6cDfieJqr3qa0bx7mTGL7C) | 2:19 | 2023-05-19 |  |

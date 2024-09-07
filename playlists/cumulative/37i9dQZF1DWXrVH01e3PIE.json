@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "1000mg",
+        "url": "https://open.spotify.com/album/0hytP3RZLub19AIeoiykuw"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140857,
+      "name": "1000mg",
+      "url": "https://open.spotify.com/track/2uohrCJ6tRjqn7Z7kJdkci"
+    },
+    {
+      "album": {
         "name": "Trapicheo: EL DON",
         "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
       },
@@ -1387,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "dos temitas m\u00e1s",
+        "url": "https://open.spotify.com/album/0agNPjhRnAgCDDf1D8zIuU"
+      },
+      "artists": [
+        {
+          "name": "Muerejoven",
+          "url": "https://open.spotify.com/artist/2yGXs7AlyNVetlMvwsFXGk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129511,
+      "name": "CORTA",
+      "url": "https://open.spotify.com/track/2qyB37OHC4RqoO6eq31uMN"
+    },
+    {
+      "album": {
         "name": "COSA SERIA",
         "url": "https://open.spotify.com/album/44AKZqUKbPvUuMR63wmPlb"
       },
@@ -2232,6 +2272,24 @@
       "duration_ms": 163468,
       "name": "eternidad",
       "url": "https://open.spotify.com/track/0WPkqQuAj8qox8Tmkxlv7o"
+    },
+    {
+      "album": {
+        "name": "Explicitas Tech",
+        "url": "https://open.spotify.com/album/4XoHKa6s9nE8ngM05CBJjX"
+      },
+      "artists": [
+        {
+          "name": "Chulimane",
+          "url": "https://open.spotify.com/artist/3oogb5aH7871QFPtE14bO6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152000,
+      "name": "Explicitas Tech",
+      "url": "https://open.spotify.com/track/5an9ASTiJjkdxdUQDZnR6i"
     },
     {
       "album": {
@@ -4701,6 +4759,28 @@
     },
     {
       "album": {
+        "name": "PADRE NUESTRO",
+        "url": "https://open.spotify.com/album/59EHYUAybQzI26zLUOx14h"
+      },
+      "artists": [
+        {
+          "name": "ACRU",
+          "url": "https://open.spotify.com/artist/0bYQe0JDIjxkSHQoXlfngl"
+        },
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220540,
+      "name": "PADRE NUESTRO",
+      "url": "https://open.spotify.com/track/5n5X1c4kkN4seBCw5jS8iM"
+    },
+    {
+      "album": {
         "name": "Paganini",
         "url": "https://open.spotify.com/album/0rfK5qF3MFG9iKgc4Laf6I"
       },
@@ -4738,6 +4818,28 @@
       "duration_ms": 171149,
       "name": "PANAM\u00c1",
       "url": "https://open.spotify.com/track/7fz7HrFRF4y8YEe0duWTDW"
+    },
+    {
+      "album": {
+        "name": "PARA QU\u00c9",
+        "url": "https://open.spotify.com/album/65HsNRmhYtMMVzVKK4N9Zu"
+      },
+      "artists": [
+        {
+          "name": "Tobi",
+          "url": "https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB"
+        },
+        {
+          "name": "Sixto Yegros",
+          "url": "https://open.spotify.com/artist/2mddrRrlMf3ykcKyh1jlSs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172333,
+      "name": "PARA QU\u00c9",
+      "url": "https://open.spotify.com/track/0ud02jQh78aBB8hHCsV5rp"
     },
     {
       "album": {

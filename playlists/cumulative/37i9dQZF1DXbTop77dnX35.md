@@ -4,7 +4,7 @@
 
 > New Music from Tion Wayne, Blaqjerzee, NLE Choppa, Bella Alubo and more
 
-739 songs - 1 day 12 hr 8 min
+741 songs - 1 day 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Casamigos](https://open.spotify.com/track/1aDO0i7xGfyPXxzfBoOE4c) | [Lonair](https://open.spotify.com/artist/0ZJXedhsvR55FN31vLkn06), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Casamigos](https://open.spotify.com/album/29UGpT7hVWlsYUtyTF7Rtm) | 3:07 | 2024-07-26 | 2024-08-02 |
 | [CHAKIDO](https://open.spotify.com/track/42UMrOmFMabE0zT2lSvtuF) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [CHAKIDO](https://open.spotify.com/album/3gNLWK0sQTu8CSiFh50sRm) | 4:01 | 2024-07-12 | 2024-07-19 |
 | [Champagne Boi](https://open.spotify.com/track/0cFx3LQOHY5dDIxGAFBdBq) | [6uff](https://open.spotify.com/artist/5SKsdtrrheAS3h6qCYZYzG) | [Menace to Society](https://open.spotify.com/album/4vsKGGUiavlDYGsJzggawj) | 2:49 | 2024-06-21 | 2024-06-28 |
+| [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz) | 2:36 | 2024-09-06 |  |
 | [CHARGIE](https://open.spotify.com/track/3vuLYJN5kwvmaPuY1qwMjd) | [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [theSylk](https://open.spotify.com/artist/2L2grh74IRlntoxALvCDiX), [Jake Cromwell](https://open.spotify.com/artist/3lghkRo1hFX4SQ21tmTybh) | [CHARGIE](https://open.spotify.com/album/4o1u5aOZs4JF26rpdpvGq5) | 2:43 | 2024-08-23 | 2024-08-30 |
 | [Childish Things](https://open.spotify.com/track/24LP0o1fyKcGphTmVAM1BX) | [Dessireé](https://open.spotify.com/artist/56oWbpiLZ9gyUqOStbymZV), [Gyedu\-Blay Ambolley](https://open.spotify.com/artist/3K7G8Czqv2acbaWlxFfjbj), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Childish Things](https://open.spotify.com/album/2Erd5FwOxshePLM7FbWujK) | 3:01 | 2024-07-12 | 2024-07-19 |
 | [Chills](https://open.spotify.com/track/6icdY6BaVRm98PSck8kfYi) | [Sheramang](https://open.spotify.com/artist/3SODeoSJfcKgWgIAinhTaa) | [Boy Sheramang](https://open.spotify.com/album/6NhJKsUu2LjkDZN6ogDZAN) | 3:00 | 2024-07-19 | 2024-07-27 |
@@ -483,6 +484,7 @@
 | [OOTW](https://open.spotify.com/track/39POBulxadsYQ7hQgni7Z4) | [Shae Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [OOTW](https://open.spotify.com/album/3dKsoVM86jYYP7AHEN3qDX) | 2:19 | 2024-06-14 | 2024-06-21 |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-30 | 2024-09-06 |
 | [Open It](https://open.spotify.com/track/1A6eFgxGbQKOya7BmY9OSP) | [Dj Yk Mule](https://open.spotify.com/artist/19y1EVW2x91oQjK7b8qC9u), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Open It](https://open.spotify.com/album/4mN01RxodSmqz1dc1sI9t1) | 2:24 | 2024-07-12 | 2024-07-19 |
+| [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-06 |  |
 | [Ordoryewu](https://open.spotify.com/track/28FHMWkKdYg0uFvFa6xDY6) | [Chisim](https://open.spotify.com/artist/0ZXxpFOyjQPBEDYj6BXPfL) | [Ordoryewu](https://open.spotify.com/album/1ooaPnvVvK0JKXlhivrIT6) | 2:32 | 2024-08-09 | 2024-08-17 |
 | [oSHA\-PIANO](https://open.spotify.com/track/7Ac8a2AhlTxlbmgj4SAEFk) | [oSHAMO](https://open.spotify.com/artist/6T8LsW0wEmWLi2IriLoQgA) | [oSHA\-PIANO](https://open.spotify.com/album/5Blk5rVGndIswfPVDBIMjr) | 2:55 | 2024-06-14 | 2024-06-21 |
 | [Oshimiri](https://open.spotify.com/track/7CX3rEmKtC54tx6sOuLicM) | [RAGEE](https://open.spotify.com/artist/0mjNWMrcydC0CNQWBwjDuu), [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Oshimiri](https://open.spotify.com/album/1POl3m0J5qgozQW5kTvhnP) | 2:36 | 2024-07-05 | 2024-07-12 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,578 songs - 3 day 10 hr 1 min
+1,579 songs - 3 day 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -440,7 +440,7 @@
 | [Fire Escapes](https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Fire Escapes](https://open.spotify.com/album/7kkPQtRxES08kc1r24BpjK) | 2:50 | 2023-11-23 | 2024-03-08 |
 | [First aid kit](https://open.spotify.com/track/2yFyfHHGesFqs39fATQzQA) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [ANDRA SIDAN ÄR NI KLARA](https://open.spotify.com/album/2uRRdTqrjo0LdSS5WIrB1M) | 3:16 | 2021-12-16 | 2022-03-11 |
 | [First Place](https://open.spotify.com/track/30OOcKVwvFSOEPOlPUPW8J) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [First Place](https://open.spotify.com/album/40NbNPVyrVG549WUMtVYhQ) | 3:13 | 2021-12-16 | 2022-01-04 |
-| [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 |  |
+| [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 | 2024-09-07 |
 | [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-05-30 | 2024-06-28 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 |  |
 | [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |
@@ -938,6 +938,7 @@
 | [Mullvadsbuljong](https://open.spotify.com/track/6bPYkRmqs2Ejl4NVwOAKjS) | [Vändplats Saknas](https://open.spotify.com/artist/6rdTKBkLf9gv4lgE6G9A0H) | [Mullvadsbuljong](https://open.spotify.com/album/6VMeJKBCofh5uXc1NZrWM8) | 3:18 | 2024-04-18 | 2024-04-21 |
 | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/track/6SNLVpwJXem00Ku9XizbPA) | [Felicia Takman](https://open.spotify.com/artist/3KdFzFHhUFCRdbllsQ1lZd) | [Musik Non Stop \- Spotify Singles](https://open.spotify.com/album/4rkc0m2fJ9RvXsgoIhYMV5) | 3:48 | 2022-05-12 | 2023-02-11 |
 | [Musiken i dur](https://open.spotify.com/track/3etnGyPFA9Rt2CfjRZ6czg) | [Akvarell](https://open.spotify.com/artist/2kQMxBR942zS9OYjRhH5CO) | [Musiken i dur](https://open.spotify.com/album/5jZw26m3vlWx2IaNJbN8iD) | 3:26 | 2024-03-21 | 2024-04-26 |
+| [My Ex Would've Left By Now](https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [My Ex Would've Left By Now](https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh) | 3:26 | 2024-09-05 |  |
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Hands In The Water](https://open.spotify.com/track/3pGJFOWqwUrxVt4Tzl8YVC) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [My Hands In The Water](https://open.spotify.com/album/1k9WtmIp5FQmQi5c1BRKYj) | 4:36 | 2024-05-23 | 2024-06-21 |
 | [My Love](https://open.spotify.com/track/72fMoh2AJMXDPEdSM26Tb9) | [Adrijana](https://open.spotify.com/artist/0bOSgUryDiUCvVbJUjM3y5) | [My Love](https://open.spotify.com/album/46QxSO9AdvIrXm2Dbu3PbB) | 2:45 | 2024-05-23 | 2024-06-21 |

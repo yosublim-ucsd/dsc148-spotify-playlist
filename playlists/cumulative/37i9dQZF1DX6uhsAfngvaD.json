@@ -4351,6 +4351,24 @@
     },
     {
       "album": {
+        "name": "my girl",
+        "url": "https://open.spotify.com/album/3Ue6flrmXLRAvieVSoXZxb"
+      },
+      "artists": [
+        {
+          "name": "two blinks, i love you",
+          "url": "https://open.spotify.com/artist/7M0eZqkYlAorKHENsgtgUO"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256090,
+      "name": "my girl",
+      "url": "https://open.spotify.com/track/5m53Xb1GL2xR6fPpqUqFA8"
+    },
+    {
+      "album": {
         "name": "Heaven Sent (Between Heavens B-Sides)",
         "url": "https://open.spotify.com/album/0JwZ4FPtbiw1NMzC0TxJ2I"
       },
@@ -6658,7 +6676,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 190148,
       "name": "the lonely girl",
       "url": "https://open.spotify.com/track/4uMKR0rtdKK1TwnLYNtNJf"

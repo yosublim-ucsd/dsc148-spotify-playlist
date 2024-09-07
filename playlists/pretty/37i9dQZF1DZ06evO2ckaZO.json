@@ -1,12 +1,12 @@
 {
-  "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 66848,
+  "description": "This Is Ice Spice. Los temas esenciales, todos en una lista.",
+  "num_followers": 66904,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAByQwUaopc/1O+gRmPk2bo0",
+  "snapshot_id": "Ztj0gAAAAACnqQcka9NL76rvSJYlEacJ",
   "tracks": [
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129636,
-      "name": "How High?",
-      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Clarity",
         "url": "https://open.spotify.com/album/5N6REUhO5E2MviBC6thktg"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 108169,
       "name": "No Clarity",
       "url": "https://open.spotify.com/track/0tnT8B415mZyOYETy2ulVv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129636,
+      "name": "How High?",
+      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
     },
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 111780,
-      "name": "Butterfly Ku",
-      "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoric",
         "url": "https://open.spotify.com/album/4Myiyj4LgdPiGZg2BzOtt5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 113424,
       "name": "Euphoric",
       "url": "https://open.spotify.com/track/7eVMSaoemrk7HiuZp33A3l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 111780,
+      "name": "Butterfly Ku",
+      "url": "https://open.spotify.com/track/7e8ps3VqglKLsjzwMfFuxJ"
     },
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 133714,
-      "name": "Actin A Smoochie",
-      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Be a Lady",
         "url": "https://open.spotify.com/album/2O2f6deLC6CypQx1yPowXy"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 81860,
       "name": "Be a Lady",
       "url": "https://open.spotify.com/track/4nQPTDWfelAXJN1VyXmksI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 133714,
+      "name": "Actin A Smoochie",
+      "url": "https://open.spotify.com/track/0QdB2tkxPG1qMgAMwv6mRP"
     },
     {
       "added_at": null,

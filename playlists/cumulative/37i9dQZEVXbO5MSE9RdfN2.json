@@ -6216,7 +6216,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 278000,
       "name": "It's Up (feat. Young Thug & 21 Savage)",
       "url": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
@@ -8557,6 +8557,24 @@
     },
     {
       "album": {
+        "name": "C4STL3",
+        "url": "https://open.spotify.com/album/4TQ0GUgul2iN9nFqweWw3h"
+      },
+      "artists": [
+        {
+          "name": "C4STL3",
+          "url": "https://open.spotify.com/artist/7nv2fxvisUmcKQH5CHBjQk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309021,
+      "name": "My System (C4STL3 edit)",
+      "url": "https://open.spotify.com/track/4wF8a8E84oCJ14XPNQt6sr"
+    },
+    {
+      "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
       },
@@ -8830,7 +8848,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 236906,
       "name": "No One Noticed",
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
@@ -11062,7 +11080,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 207168,
       "name": "Somedays",
       "url": "https://open.spotify.com/track/3wo3d0I5H8KjkwGvnz8WbB"

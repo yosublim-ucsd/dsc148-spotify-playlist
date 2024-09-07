@@ -2,7 +2,7 @@
 
 ### [La Hit Liste](https://open.spotify.com/playlist/37i9dQZF1DX7LjobXS2hzX)
 
-> Voici les hits du moment\. Photo: Chappell Roan
+> Voici les hits du moment\. Photo: Teddy Swims
 
 441 songs - 23 hr 6 min
 

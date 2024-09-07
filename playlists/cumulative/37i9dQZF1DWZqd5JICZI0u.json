@@ -510,7 +510,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 169000,
       "name": "Appreciation",
       "url": "https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo"
@@ -528,7 +528,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 185840,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/3jaCuiu5pvF2e7XnSi1NBw"
@@ -874,7 +874,7 @@
       ],
       "date_added": "2021-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 243515,
       "name": "Big Sky",
       "url": "https://open.spotify.com/track/1e6PKJmQ5fV0VHwD31GPQK"
@@ -928,7 +928,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 128727,
       "name": "Blua Aero",
       "url": "https://open.spotify.com/track/3ff3N25wTsj8T1mf2gMTQp"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 161862,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg"
@@ -2109,6 +2109,24 @@
     },
     {
       "album": {
+        "name": "Designed",
+        "url": "https://open.spotify.com/album/4VvgNYp59dwTd4lvzRcQTW"
+      },
+      "artists": [
+        {
+          "name": "different spaces",
+          "url": "https://open.spotify.com/artist/5TGuPLjK2IVw8eDuJ9oZ1K"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185720,
+      "name": "Designed",
+      "url": "https://open.spotify.com/track/3eLLRRVnTQ41O6f6Eb2aU0"
+    },
+    {
+      "album": {
         "name": "Desire",
         "url": "https://open.spotify.com/album/5aKMHMuWCuWH2AeiLElqzQ"
       },
@@ -2552,7 +2570,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 178823,
       "name": "Endless Nights",
       "url": "https://open.spotify.com/track/1khJhtT78fpUbjiZCH1rLV"
@@ -2649,6 +2667,24 @@
     },
     {
       "album": {
+        "name": "Essential",
+        "url": "https://open.spotify.com/album/4MCkVFGw7i7AEH00GzUoG1"
+      },
+      "artists": [
+        {
+          "name": "Fjord Filken",
+          "url": "https://open.spotify.com/artist/4s0CCQlGivl4RR7nxuIGXx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224430,
+      "name": "Essential",
+      "url": "https://open.spotify.com/track/0DhIsFMOr5IQOSg38IVNrn"
+    },
+    {
+      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/1k52LUN5DCwcsQB7tqlc48"
       },
@@ -2696,7 +2732,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 197105,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/19Veznfh8J7ZPLs9kgK1Kq"
@@ -3402,6 +3438,24 @@
       "duration_ms": 196281,
       "name": "Getting Sleepy",
       "url": "https://open.spotify.com/track/1NczYPlE8v1Zj6U9mXsicf"
+    },
+    {
+      "album": {
+        "name": "Glimmers",
+        "url": "https://open.spotify.com/album/1D7EvbJUm5VLWe6rBTfjQ1"
+      },
+      "artists": [
+        {
+          "name": "Carla Bonita",
+          "url": "https://open.spotify.com/artist/3FPzE6ZV1ERVx4iGZq1iWd"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152371,
+      "name": "Glimmers",
+      "url": "https://open.spotify.com/track/5ZkDXkRX0GyVx3xQPWsuUx"
     },
     {
       "album": {
@@ -4190,7 +4244,7 @@
       ],
       "date_added": "2021-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 161795,
       "name": "Insua",
       "url": "https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1"
@@ -4370,7 +4424,7 @@
       ],
       "date_added": "2021-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154481,
       "name": "Kustlijnen",
       "url": "https://open.spotify.com/track/6LT6ucr7adcngXzRlUdvgz"
@@ -4478,7 +4532,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 221000,
       "name": "Lasai",
       "url": "https://open.spotify.com/track/1vXPvFeZGpojHygGjSjQfH"
@@ -4784,7 +4838,7 @@
       ],
       "date_added": "2021-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 236258,
       "name": "Linea Degli Alberi",
       "url": "https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY"
@@ -5061,6 +5115,24 @@
     },
     {
       "album": {
+        "name": "Magnetic Reflections",
+        "url": "https://open.spotify.com/album/4Dz3P1ZJajvtDyHRgpkpD5"
+      },
+      "artists": [
+        {
+          "name": "The Endity",
+          "url": "https://open.spotify.com/artist/5byrQ0NUcEyy0c3U5xPBdm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159392,
+      "name": "Magnetic Reflections",
+      "url": "https://open.spotify.com/track/0PGuTGTxKymlVqzJ5pcOWx"
+    },
+    {
+      "album": {
         "name": "Magnificent",
         "url": "https://open.spotify.com/album/0k8r5eLoUcm31XnnwbvtfW"
       },
@@ -5252,7 +5324,7 @@
       ],
       "date_added": "2021-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 144782,
       "name": "Metric",
       "url": "https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta"
@@ -5504,7 +5576,7 @@
       ],
       "date_added": "2020-09-30",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 204705,
       "name": "Moments",
       "url": "https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx"
@@ -6462,7 +6534,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 222884,
       "name": "Panacea",
       "url": "https://open.spotify.com/track/09f1jQrl37fb3ZYoYBHVl9"
@@ -6606,7 +6678,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165450,
       "name": "Peaceful Sensations",
       "url": "https://open.spotify.com/track/1Lzv93xUuJMP28dDMVPOjm"
@@ -6912,7 +6984,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 184250,
       "name": "Procyon",
       "url": "https://open.spotify.com/track/0Gf6tK2Xkkiov3bsY3tTPK"
@@ -7524,7 +7596,7 @@
       ],
       "date_added": "2021-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 186500,
       "name": "Sajama",
       "url": "https://open.spotify.com/track/16lkqroAzQvli59vxKjvpF"
@@ -8550,7 +8622,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 185697,
       "name": "Stream Of Somnolence",
       "url": "https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh"
@@ -9260,6 +9332,24 @@
       "duration_ms": 192452,
       "name": "To Illuminate",
       "url": "https://open.spotify.com/track/4oEvUOPyQqMcvYgYHwnMn9"
+    },
+    {
+      "album": {
+        "name": "To Touch is To Heal",
+        "url": "https://open.spotify.com/album/4eoqfjloZWtzkSPrG9NSz6"
+      },
+      "artists": [
+        {
+          "name": "Clouds of Calm",
+          "url": "https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157800,
+      "name": "To Touch is To Heal",
+      "url": "https://open.spotify.com/track/2ATtWaaCWVZw4fajfi21Rk"
     },
     {
       "album": {

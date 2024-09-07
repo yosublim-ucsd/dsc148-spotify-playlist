@@ -4,7 +4,7 @@
 
 > Where Nashville, Memphis & the Shoals meet\. Cover: The War and Treaty
 
-95 songs - 5 hr 48 min
+97 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Sheldon Churchyard](https://open.spotify.com/track/5Ic08EW0Dn1v4s6FNzRIWZ) | [Larry Jon Wilson](https://open.spotify.com/artist/1BqH9nNwDO7dfvFjKSxr5X) | [Let Me Sing My Song to You](https://open.spotify.com/album/411qPiWonTI13X7t37XuLv) | 3:58 | 2021-02-17 |  |
 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 | 2021-02-17 |  |
 | [Simple Life](https://open.spotify.com/track/0dHodhXJPnhuHPIrF0i10b) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 4:43 | 2021-02-17 |  |
+| [Sober](https://open.spotify.com/track/79mK0g0E4VxwY8MroggugG) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [Sober](https://open.spotify.com/album/1RiA5Wa5zMTNkUhFhkEl51) | 4:57 | 2024-09-06 |  |
 | [Stealing A Kiss](https://open.spotify.com/track/5kdZiJ0KIPEyQ42xLj61Gt) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Stealing A Kiss](https://open.spotify.com/album/5i9nk8WvKRe0d78UaCba9u) | 4:55 | 2024-03-22 |  |
 | [Stockholm Syndrome](https://open.spotify.com/track/35PvBFZRh58hFbqWBwjBZn) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Singing for My Supper](https://open.spotify.com/album/777Mw0hAnTtnE7YiVtJvBw) | 3:14 | 2021-02-17 |  |
 | [Sun Come Ease Me In](https://open.spotify.com/track/0xGgtbsW3ynbaqR1eUczst) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 2:55 | 2021-02-17 |  |
@@ -90,6 +91,7 @@
 | [The Imperial](https://open.spotify.com/track/5YUTsQCvT98GEDRlrW49wN) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [The Imperial](https://open.spotify.com/album/0SxuM2CLMOkEQ30LEZYomf) | 5:23 | 2021-02-17 |  |
 | [The Love You Save \(May Be Your Own\)](https://open.spotify.com/track/49tqyhwvGuhjFklMq6BMBI) | [Joe Tex](https://open.spotify.com/artist/5TbXjzD8tYgMD5JU2g2F8q) | [Greatest Hits](https://open.spotify.com/album/25CUJO08rkvZV9rIIP4L4B) | 2:54 | 2021-02-17 |  |
 | [The Oil Rigs at Night](https://open.spotify.com/track/1vQqznhmZQyOInNEQCWvUE) | [The Delines](https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg) | [Colfax](https://open.spotify.com/album/5RpU6E3j6qxnqwpcVkFbsn) | 4:21 | 2021-02-17 |  |
+| [Think I'm In Love With You](https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Think I’m In Love With You](https://open.spotify.com/album/52lLryGmbfkDOayypXEhhR) | 3:42 | 2024-09-06 |  |
 | [This Old Heart of Mine](https://open.spotify.com/track/1oXYR4dnOflrGiDsrJTFvR) | [Bettye Swann](https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W) | [The Complete Atlantic Recordings](https://open.spotify.com/album/0dGOGeicMH03GiAzQiMluv) | 4:32 | 2021-02-17 |  |
 | [Two Cold Nights in Buffalo](https://open.spotify.com/track/3laocUVwRZd4sZu1c0tZ2W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [May Your Kindness Remain](https://open.spotify.com/album/1U8907wmzKNgvDEW3mk21S) | 3:28 | 2021-02-17 |  |
 | [Warm and Tender Love \- Single Version](https://open.spotify.com/track/0t2f3sMcWoqHDSRM4oj8hH) | [Percy Sledge](https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO) | [The Best of Percy Sledge](https://open.spotify.com/album/1Nyr1yLuCndptRRMZ0wmlP) | 3:21 | 2021-02-17 |  |

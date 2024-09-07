@@ -5367,6 +5367,24 @@
     },
     {
       "album": {
+        "name": "Kisses N Hugs",
+        "url": "https://open.spotify.com/album/5bnS8mBAhAXBMq7uJNtFXA"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "Kisses N Hugs",
+      "url": "https://open.spotify.com/track/2kFBimxQGS0oeOYNRdO4hc"
+    },
+    {
+      "album": {
         "name": "Kissing On Your Tattoos",
         "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
       },
@@ -7086,6 +7104,28 @@
       "duration_ms": 198293,
       "name": "No More Questions",
       "url": "https://open.spotify.com/track/3KqTdLH4cAm14Of7KDeJ2o"
+    },
+    {
+      "album": {
+        "name": "No One Else (feat. Jeremih)",
+        "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162240,
+      "name": "No One Else (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
     },
     {
       "album": {

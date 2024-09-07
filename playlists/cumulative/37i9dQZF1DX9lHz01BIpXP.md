@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DX9lHz01BIpXP)
 
-> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf?si=JVqQ1FRRSoCJNLbtkVT5Ng">Chesrae Megan</a>
+> Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=srH0KIj9S56jkngNQv15iw">Ziggy4x</a> & <a href="https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=OaebxEcDTHaSjCoznspvdA">Maglera Doe Boy</a> & <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=AGjj1meQRKuB8\_NsDR1lBg">Priddy Ugly</a>
 
-151 songs - 7 hr 50 min
+152 songs - 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Bons](https://open.spotify.com/track/27rWp1eK0aH82c8Uo9nJAB) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic), [Katinka Band](https://open.spotify.com/artist/4KQ5Y1mDvgEUSxKk5FT7pS) | [The Party Starter](https://open.spotify.com/album/1Rzyo8ixVvtCt3ygXclytD) | 3:06 | 2022-09-08 | 2022-12-09 |
 | [Breinsuiker \- Remix](https://open.spotify.com/track/20CX51tTFlht4gXK1loswW) | [Jitsvinger](https://open.spotify.com/artist/0Mn0ce5OUNmCtxfiT3TmZr), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Zomer '17](https://open.spotify.com/album/1CP6a9AvPbfDL4FiK49ViT) | 4:23 | 2022-09-08 | 2023-04-07 |
 | [Bring the Noise](https://open.spotify.com/track/6e3FJoRmqAQF76x4o3BYjn) | [BRU](https://open.spotify.com/artist/5BZSMHMX8U0s2uLdutE8Sv), [Isaac Mutant](https://open.spotify.com/artist/76VLsNwSomCEFiV6Va9PgX), [Baze](https://open.spotify.com/artist/0EWsAmk51sjDlGl7PsvqcH) | [Bru](https://open.spotify.com/album/6RirppwJmnR5e0PTghCull) | 4:26 | 2022-12-01 | 2023-02-24 |
-| [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 | 2023-09-15 |  |
+| [Broke](https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK) | [Demo Ricch](https://open.spotify.com/artist/48pSu0n4jTo1FRkZXZNBcY) | [Broke](https://open.spotify.com/album/39JjyQmeNvnbFwNkOHIBQw) | 3:08 | 2023-09-15 | 2024-09-07 |
 | [BUDDHA](https://open.spotify.com/track/5ksDwZZjgufO1Kh0uemyQa) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [3RNST8](https://open.spotify.com/artist/3tCIvzKmgfJ5bREhrV8QcA) | [BUDDHA](https://open.spotify.com/album/4cWHdccz65gTtAY4eXHu5N) | 2:50 | 2023-05-18 | 2023-06-03 |
 | [By Die See](https://open.spotify.com/track/0GJrUyW2Gi3OrCdbBMl9hI) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [By Die See](https://open.spotify.com/album/5Fspb1oAi4FQVr6csHTjz5) | 2:47 | 2022-11-03 | 2023-03-03 |
 | [Capeflets](https://open.spotify.com/track/1gcpYFHHLKDXefNHRqPOpg) | [Cream](https://open.spotify.com/artist/3juzOjpaVU73kK8WdtkGB4) | [Bruin Brood](https://open.spotify.com/album/3fFmIN3E1RFCel6vvmN2s5) | 2:11 | 2022-09-08 | 2023-08-18 |
@@ -64,6 +64,7 @@
 | [Hi Mitchell](https://open.spotify.com/track/0W1f1HfOqPyBQ5VLoc9lgL) | [C.M.T](https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P) | [Is Ekke Man](https://open.spotify.com/album/3JLW4br5PUjGqKJklfoHv7) | 1:59 | 2023-02-09 | 2023-03-25 |
 | [Hie Kom Ons](https://open.spotify.com/track/4FaGkf2iOOC1IYDzIpXajd) | [Benjamen](https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC) | [Hie Kom Ons](https://open.spotify.com/album/17hCR2MVlQyXZGL5YZu8Me) | 2:44 | 2024-01-05 |  |
 | [HONNE](https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3) | [AlwaysTheSuspect](https://open.spotify.com/artist/5yBaFbo6T3i5rmEFdfBy4i), [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO), [BakerGotTheKeys](https://open.spotify.com/artist/0Rk3Mqrzxt6xld45Uu9TQ3) | [HONNE](https://open.spotify.com/album/1mBn7ImZFwecjCCqSFGghX) | 2:58 | 2024-02-15 |  |
+| [Honne \- Remix](https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [Honne \- Remix](https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA) | 2:56 | 2024-09-06 |  |
 | [Hopeless](https://open.spotify.com/track/4pmnGONjm31Llig19zwpde) | [Marky Futurekid](https://open.spotify.com/artist/0VKwzWkYVBRwmyykRhCWFr) | [Hopeless](https://open.spotify.com/album/1Vpan89LcSJn14BVEq2DDD) | 3:03 | 2024-01-26 |  |
 | [Hou Jou Leka](https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK) | [Carbars Cel & Ponga](https://open.spotify.com/artist/6TXHKldyzmSTIOKTBf9kMU) | [Hou Jou Leka](https://open.spotify.com/album/4VSqBELCwNITeYYx2uPfx0) | 4:23 | 2022-09-08 | 2023-09-29 |
 | [Hou Jou Man Dop](https://open.spotify.com/track/77f9qpCn1u53KwSQYIO4zK) | [Ameen Harron](https://open.spotify.com/artist/4ZgCTMu7jGyxieADZA0Jam), [Irshaad Ally](https://open.spotify.com/artist/3oBGG9N0i0jS5rcvNZP80k), [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Hou Jou Man Dop](https://open.spotify.com/album/1jFkerCNl3QQ2FtYNQx0qr) | 3:49 | 2022-09-08 | 2023-03-31 |

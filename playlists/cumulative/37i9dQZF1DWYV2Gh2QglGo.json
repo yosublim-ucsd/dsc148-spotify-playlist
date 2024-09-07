@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 212168,
       "name": "Back At Your Door",
       "url": "https://open.spotify.com/track/4JL5loZbBLCyLsLPgjLmEb"
@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Golden Child",
+        "url": "https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217441,
+      "name": "Golden Child",
+      "url": "https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC"
+    },
+    {
+      "album": {
         "name": "Golden Rules",
         "url": "https://open.spotify.com/album/51KnCu9usIKL5K2RMDoAEY"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175288,
       "name": "High Life",
       "url": "https://open.spotify.com/track/1N3w24NO5PLKygjGmzljki"
@@ -1033,6 +1051,28 @@
     },
     {
       "album": {
+        "name": "Livin\u2019 My Life Like a Country Song",
+        "url": "https://open.spotify.com/album/3F4hp16a8LkqoJlHiXkCHL"
+      },
+      "artists": [
+        {
+          "name": "Theory of a Deadman",
+          "url": "https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ"
+        },
+        {
+          "name": "Cory Marks",
+          "url": "https://open.spotify.com/artist/17pJAHDfdLvGuUwl2DkEgv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199574,
+      "name": "Livin\u2019 My Life Like a Country Song",
+      "url": "https://open.spotify.com/track/5ZJloQU8VklwgNKAhZ0RRW"
+    },
+    {
+      "album": {
         "name": "Lonesome",
         "url": "https://open.spotify.com/album/2fWGkbYkFIxHIYHZqIvjvh"
       },
@@ -1052,6 +1092,24 @@
       "duration_ms": 230373,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/1LGO73QwShLdT3iCxKIRrP"
+    },
+    {
+      "album": {
+        "name": "Love Myself",
+        "url": "https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq"
+      },
+      "artists": [
+        {
+          "name": "Cameron Whitcomb",
+          "url": "https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188234,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4"
     },
     {
       "album": {
@@ -1814,7 +1872,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 164526,
       "name": "too hot to be sad",
       "url": "https://open.spotify.com/track/2ws0vS2K6Le9SdOX1n60es"
@@ -1908,7 +1966,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176962,
       "name": "What Shoulder",
       "url": "https://open.spotify.com/track/0rLnFoi6fOsdTaEPYk0OlX"
@@ -1988,6 +2046,24 @@
       "duration_ms": 182097,
       "name": "Who Knew",
       "url": "https://open.spotify.com/track/5Mr6sAj3FMX4nCxErLTv8p"
+    },
+    {
+      "album": {
+        "name": "W",
+        "url": "https://open.spotify.com/album/7MUqO5kWGjLn5qvrPQEgvo"
+      },
+      "artists": [
+        {
+          "name": "Allison Daniels",
+          "url": "https://open.spotify.com/artist/54OOcbHzemUIYga3Z351Kq"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180001,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/0zayeuhnu8XzvEFBQYBH3x"
     },
     {
       "album": {

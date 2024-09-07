@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVh9guDyUECQ.md) - [plain]
 
 > Lo nuevo del Trap, Rap y Reggaeton Cristiano\. <br/>Foto: Ana Pau,</a>  <a href="spotify:artist:1Cm5r6LqrFQDuA0F4KUIQz">Lizzy Parra,</a> y <a href="spotify:artist:5qzVmbbH3gdkxI0C0fZ1Us">DesXa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,430 likes - 85 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,457 likes - 85 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [La Bandera](https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [DesXa](https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us) | [Niños De Iglesia](https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh) | 3:30 |
+| 1 | [La Bandera](https://open.spotify.com/track/4TokDL5lQ2HZPv8D718orZ) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Ana Pau](https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg), [DesXa](https://open.spotify.com/artist/5qzVmbbH3gdkxI0C0fZ1Us) | [Niños De Iglesia](https://open.spotify.com/album/07nUnS3pfK554wgcxyERFh) | 3:30 |
 | 2 | [ALGORITMO](https://open.spotify.com/track/76XrMB2iE4Mgrixsb6JhGk) | [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [ALGORITMO](https://open.spotify.com/album/1xdW6wh8UZMX5Dg2IJo0hv) | 3:28 |
 | 3 | [LOVEO](https://open.spotify.com/track/0rBVM75Fqi5U6rCm2m5iTK) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LOVEO](https://open.spotify.com/album/00lZ4WPWOw5BdLJAPMtvrr) | 2:53 |
 | 4 | [Afrobocelli](https://open.spotify.com/track/3LEBmIOGQutE3mrGob7Ud3) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [ULLOΛ](https://open.spotify.com/artist/3z4gWkynJfhlRmpULOrNEt), [Frank Miami](https://open.spotify.com/artist/036v4kwZy1i0z79JX4or5K) | [Transition](https://open.spotify.com/album/61PUASiDNYYrePoCrDvGGX) | 3:38 |

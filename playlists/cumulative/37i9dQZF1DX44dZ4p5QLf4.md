@@ -2,7 +2,7 @@
 
 ### [Next Wave Soul](https://open.spotify.com/playlist/37i9dQZF1DX44dZ4p5QLf4)
 
-> A blend of new songs and artists in the soul space\. Cover: FKJ
+> A blend of new songs and artists in the soul space\. Cover: Joya Mooi
 
 447 songs - 1 day 2 hr 14 min
 

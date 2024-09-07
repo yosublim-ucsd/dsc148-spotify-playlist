@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Indira Paganotto
 
-165 songs - 13 hr 29 min
+167 songs - 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [alleswirdgut](https://open.spotify.com/track/2ucKoWiCS8eTk5IUwin4fq) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [GOODBYE SALÒ](https://open.spotify.com/album/4kiB2fjPSRxYhqfFA1dSV1) | 3:19 | 2024-08-05 |  |
 | [Aural Exciter \- Original Mix](https://open.spotify.com/track/5jk06siNYQ9lK5ba3qAC7B) | [Glenn Wilson](https://open.spotify.com/artist/1k0bnsqmUolxbTWG00U8Zb), [Mike Humphries](https://open.spotify.com/artist/1N1e7TFA0jcGad0NlnlMP1) | [Aural Exciter \- The Remixes](https://open.spotify.com/album/6RopaDNX28CL1wdag8gzmk) | 5:20 | 2024-08-13 |  |
 | [Bang Bang Bang](https://open.spotify.com/track/1vwCoX1Pi1pRd6ufweSSc7) | [SIKOTI](https://open.spotify.com/artist/7qWvKoQVe3UdZhG9clKb1y) | [Save Yourself](https://open.spotify.com/album/7z3b4hNGlm067JLa44sujv) | 5:08 | 2024-04-09 |  |
+| [Because They Want Our Seat](https://open.spotify.com/track/4zr7hfFkbtPBUc9c1CeJN6) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Nico Moreno](https://open.spotify.com/artist/6fjhNhp9IoeiZpEXq9AT2S) | [Because They Want Our Seat](https://open.spotify.com/album/1caYLb8S3J4A2IdGzxXRV9) | 3:51 | 2024-09-06 |  |
 | [Bella Ciao \- Hard Techno Remix](https://open.spotify.com/track/1EDnEdNHoNOhaTDBEowLDH) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Bella Ciao \(Hard Techno Remix\)](https://open.spotify.com/album/2wDigw0RKsIXLHrDK2hYaF) | 3:38 | 2024-05-31 |  |
 | [BLACK](https://open.spotify.com/track/4YGzPQSuENk8V14hs3W9xH) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [BLACK](https://open.spotify.com/album/2Z6O9GYTQtu1wivPY3kMBe) | 5:31 | 2024-04-09 |  |
 | [Bomb Drop Rhythm](https://open.spotify.com/track/6NfF1hLZKtjAiacXN3ZKTE) | [JVRM](https://open.spotify.com/artist/5jtReR2dGUE1x3kxkTyfu7) | [Bomb Drop Rhythm](https://open.spotify.com/album/1y8NI4TIhiI2vYGrzf20nT) | 6:19 | 2024-07-14 | 2024-07-22 |
@@ -34,7 +35,7 @@
 | [BYEBYE](https://open.spotify.com/track/4pm6fdwvqoUixkk6U0GoLg) | [Franky\-B](https://open.spotify.com/artist/24C1Z9RP71CzGmU1Dx3oTV) | [Verknipt ArenA](https://open.spotify.com/album/64hwlvWn7tYCQiMJEZaqap) | 5:00 | 2024-07-18 | 2024-07-22 |
 | [Calvin Klein](https://open.spotify.com/track/5C69PdWc5YoFWiZV1q9aBR) | [Andrew Cairns](https://open.spotify.com/artist/6DqZtx0QR4tIjt9sRN4kO1) | [Calvin Klein](https://open.spotify.com/album/57SHeyxA2ubPJFNExodhzB) | 7:42 | 2024-06-14 | 2024-06-17 |
 | [Can You Feel It](https://open.spotify.com/track/7wjdC6qnD3sBBJWVIF2tb2) | [OMAKS](https://open.spotify.com/artist/41GRjz5PGO2O66R6aHLVhm), [CHAST](https://open.spotify.com/artist/47MfeoK51R2miigq4AtnuB) | [Can You Feel It](https://open.spotify.com/album/57bbRzO01n3k5md318EFtK) | 4:06 | 2024-07-21 | 2024-08-06 |
-| [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 |  |
+| [Chaos Magicka](https://open.spotify.com/track/5I5urH7JO7rRAUI4JCodLW) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Chaos Magicka](https://open.spotify.com/album/0diP5S4t1ExwK7TWcD7Z4N) | 7:08 | 2024-04-09 | 2024-09-07 |
 | [Close Your Eyes](https://open.spotify.com/track/1Hll6B9gqsOFi2Bln02laD) | [Alignment](https://open.spotify.com/artist/4eFbq5PZgW7YbtA65PP4wS) | [Close Your Eyes EP](https://open.spotify.com/album/6hHi4OlpNnto3GNoLQyUG9) | 5:01 | 2024-04-09 |  |
 | [Cluster Bomb](https://open.spotify.com/track/2V5YHjI4Gp31F2yd625k6z) | [USH](https://open.spotify.com/artist/1soUF8xmV5ij7Zi5ykNGr6) | [Cluster Bomb](https://open.spotify.com/album/1IxOVmlQRhNlhxaFd7ePpw) | 6:34 | 2024-04-09 |  |
 | [Come With Me](https://open.spotify.com/track/0YAjsNY7yy3zbvX3HB2cP1) | [Lee Ann Roberts](https://open.spotify.com/artist/0vemAVjLY9Dbz229ZqRlT1) | [Come With Me EP](https://open.spotify.com/album/4DuL4YsE1cpJ8kS7pKJ4VJ) | 5:13 | 2024-04-09 | 2024-08-06 |
@@ -46,6 +47,7 @@
 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 | 2024-04-09 |  |
 | [Do My Thing](https://open.spotify.com/track/3834nOMPPsVt0EuCuRsvSf) | [Deepack](https://open.spotify.com/artist/5hnFqGY2kc233cXstqrGev) | [Do My Thing](https://open.spotify.com/album/2eGAHFGF6NUfeQblm1Txac) | 3:30 | 2024-07-14 | 2024-07-22 |
 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 | 2024-04-19 |  |
+| [Do You Think About Me](https://open.spotify.com/track/7KdJTAXdgMORxFhla6TPLy) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd), [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa) | [Do You Think About Me](https://open.spotify.com/album/1VU3tNO6ma7EwcyA85memR) | 2:24 | 2024-09-06 |  |
 | [Don’t Say A Word](https://open.spotify.com/track/0KhH0P4Gfs5h2wNB5gzPph) | [Kander](https://open.spotify.com/artist/3gSVZTpmVW2JKzngOCDXkd) | [R007](https://open.spotify.com/album/6VEgiBh9LDRQRIuznd8hcT) | 4:46 | 2024-04-09 | 2024-06-26 |
 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 | 2024-04-09 | 2024-07-15 |
 | [Eiskalt \- Short Mix](https://open.spotify.com/track/59K0LFhUnKtp5GsH76teI1) | [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC), [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU) | [Eiskalt \(Short Mix\)](https://open.spotify.com/album/4O2qkN2LQ9ayCb1n5exb6f) | 3:33 | 2024-04-09 |  |
@@ -145,7 +147,7 @@
 | [The Banger](https://open.spotify.com/track/3xyBlqKf2LguVQirOd7Fyl) | [Rudaki](https://open.spotify.com/artist/5XYNc9Y6UvVlJdDofYxi8i) | [The Banger](https://open.spotify.com/album/4laSdIMYC4ztEXLIr42k5g) | 5:00 | 2024-07-14 | 2024-07-22 |
 | [The Bass](https://open.spotify.com/track/12lZnyC84ht2jq7codKpZy) | [DV60](https://open.spotify.com/artist/09XRalTMeRYc99qLOBJNx9) | [II Anniversary Chapter 3](https://open.spotify.com/album/6YhNccXIWjGeN4faLGahKi) | 5:37 | 2024-04-09 | 2024-08-06 |
 | [The Big Bang](https://open.spotify.com/track/3eMp80mvXvOmvmaKRpTnVe) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [The Big Bang](https://open.spotify.com/album/7hIianSVljHEKAx80e81is) | 3:20 | 2024-06-14 |  |
-| [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2024-04-09 |  |
+| [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 | 2024-04-09 | 2024-09-07 |
 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 | 2024-04-09 |  |
 | [The Moment That Matters](https://open.spotify.com/track/6lAVsz9nWf7NXF7hMXa1gS) | [Diøn](https://open.spotify.com/artist/0ik3Ts4hzO7y7jpYU9K4Lr) | [The Moment That Matters](https://open.spotify.com/album/4rVV1wCzENUR6s0MHyxioo) | 6:00 | 2024-05-22 |  |
 | [The Show Never Ends](https://open.spotify.com/track/2zPMafxpOc4IGB79uZLjtD) | [Joey Risdon](https://open.spotify.com/artist/1TAVfsRR0xQIcI6OxpCten) | [D.U.R.V.A.0.0.1](https://open.spotify.com/album/0QY39P2s5FpjMZFlFMQYRs) | 6:18 | 2024-04-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,233 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,291 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 6 | [Stand By Me \(Drew Forever\)](https://open.spotify.com/track/4Ua8dhnL9mKAZ78etjdOHX) | [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL) | [Stand By Me \(Drew Forever\)](https://open.spotify.com/album/6AsVMB0zcOvHvGc3INNY44) | 3:14 |
 | 7 | [Starting All Over Again \- Acoustic Sessions](https://open.spotify.com/track/2FOMDrCQG2YVYbwBdqJ5M5) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Starting All Over Again \(Acoustic Sessions\)](https://open.spotify.com/album/6eDLJL9ucaRjCbjHKjMcVi) | 4:27 |
 | 8 | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se) | [J Boog](https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4), [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh), [Common Kings](https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Fire Up Di Roses \(with The Green, Common Kings & Fiji\)](https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e) | 3:56 |
-| 9 | [Funny Talk \(with Fiji\)](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
+| 9 | [Funny Talk](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
 | 10 | [In the Garden](https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ) | [Ike Kanakanui](https://open.spotify.com/artist/79gvzSsg8MyKN1uYGS0PtX) | [In the Garden](https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B) | 3:37 |
 | 11 | [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 |
 | 12 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |

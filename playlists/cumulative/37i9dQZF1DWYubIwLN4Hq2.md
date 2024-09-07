@@ -4,7 +4,7 @@
 
 > It's a Saturday night in the country, all the time!
 
-121 songs - 6 hr 26 min
+122 songs - 6 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Boots 'N All](https://open.spotify.com/track/60utjxPySCYZTh1gW7m8CW) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Nights Like This](https://open.spotify.com/album/7cGYemTtKlqYqR61wETgU4) | 2:45 | 2023-11-09 | 2024-04-19 |
 | [BOOTS 'N ALL](https://open.spotify.com/track/7IIs56XN5rfvzwMAXRIs7S) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [BOOTS 'N ALL](https://open.spotify.com/album/4jhWJqUF23X3eF1h7f0nrs) | 2:45 | 2023-08-31 | 2023-12-12 |
 | [But I Got A Beer In My Hand](https://open.spotify.com/track/3jhV8I9sIPXsjPs2ZOnSaf) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [But I Got A Beer In My Hand](https://open.spotify.com/album/2g95B2AWT2gDusBqYO7it3) | 2:56 | 2023-08-09 |  |
+| [Buzzin](https://open.spotify.com/track/1ypZC70MBzg7KGbfrLoUxy) | [LOCASH](https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ) | [Buzzin](https://open.spotify.com/album/6lX5ErdQxTzLzC8sgwJjcl) | 2:36 | 2024-09-06 |  |
 | [Chicken Fried](https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 3:58 | 2022-07-18 | 2024-04-19 |
 | [Chicken Fried](https://open.spotify.com/track/4dGJf1SER1T6ooX46vwzRB) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/0Im5nUhAuNDSYVjfPh7RyS) | 3:58 | 2023-11-09 |  |
 | [Come Turn Me On](https://open.spotify.com/track/0m4HsKM4YNI87n17gUTlqA) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Come Turn Me On](https://open.spotify.com/album/689dWYxrQTpOYexXbH2h6r) | 3:04 | 2022-07-18 |  |

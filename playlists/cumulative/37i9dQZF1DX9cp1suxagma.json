@@ -172,7 +172,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 213773,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/2SGqPctdqs0xkFexK0cAOC"
@@ -582,6 +582,24 @@
       "duration_ms": 231532,
       "name": "Besos En Guerra",
       "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+    },
+    {
+      "album": {
+        "name": "Bogot\u00e1",
+        "url": "https://open.spotify.com/album/5gizCs5NxTYby7QGIyEVYX"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195730,
+      "name": "Bogot\u00e1",
+      "url": "https://open.spotify.com/track/4r3fGHTOMaqZhQSpVo9VNV"
     },
     {
       "album": {
@@ -1096,6 +1114,24 @@
       "duration_ms": 243830,
       "name": "El Big Bang",
       "url": "https://open.spotify.com/track/61svvvUEUPodjZvXhXv74e"
+    },
+    {
+      "album": {
+        "name": "El Canto Del Olvido",
+        "url": "https://open.spotify.com/album/5T3G2Kr0ilp4lZ7TRrvFIH"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172920,
+      "name": "El Canto Del Olvido",
+      "url": "https://open.spotify.com/track/7LyyslBv0TWHIFpTO25tEe"
     },
     {
       "album": {
@@ -2620,7 +2656,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205082,
       "name": "No S\u00e9 Querer",
       "url": "https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2"

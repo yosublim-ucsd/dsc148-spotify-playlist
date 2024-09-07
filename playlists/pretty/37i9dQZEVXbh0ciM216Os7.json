@@ -6,10 +6,234 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADecfXUtCNzOfsoeSx8TzPc",
+  "snapshot_id": "AAAAAAAAAADcA0kTd0GB4egfkvD257hU",
   "tracks": [
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "THE FORCE",
+        "url": "https://open.spotify.com/album/03z08WQj2dgVnLNkobhcYi"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 185456,
+      "name": "Murdergram Deux",
+      "url": "https://open.spotify.com/track/2dzOpqgZlClKZ6UKuK0PKJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1v8Ie3k0d1R7A2PD9HyT9O"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "duration_ms": 260571,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3N06hHzI4NxFbQ1Stjf9tJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Hate Me If You Want",
+        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "duration_ms": 172855,
+      "name": "Hate Me If You Want",
+      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "We Will Rock You - Megan Thee Stallion Version",
+        "url": "https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 103658,
+      "name": "We Will Rock You - Megan Thee Stallion Version",
+      "url": "https://open.spotify.com/track/04EzyNDx8TPjFYYi0FWzDT"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wu-Tang Forever",
+        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "duration_ms": 228705,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/0eyp3Gf2Altoho3lljv7PJ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wu-Tang Forever",
+        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/5bNGoZDMjqkgJlVYJVqDln"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "BLAKAMERIKA Presents: LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/3lCxVVRYSAwQljR4Q4NUkA"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 274308,
+      "name": "LOVE HURTS (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4hv4ABZWFVafkJFbaLeJcR"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Perchance to Dream Concept Album",
+        "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
+      },
+      "artists": [
+        {
+          "name": "Perchance to Dream",
+          "url": "https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu"
+        },
+        {
+          "name": "Sarah Dooley",
+          "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
+        },
+        {
+          "name": "Travis Harmon",
+          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
+        },
+        {
+          "name": "Kate Ly Johnston",
+          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Will Riddle",
+          "url": "https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/1lKrSYxevq2gLfbHmfuxge"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Day Of... - Orchestral Version",
+        "url": "https://open.spotify.com/album/61w4NPHl4Mm1kltVMEOaNG"
+      },
+      "artists": [
+        {
+          "name": "Tuomas Holopainen",
+          "url": "https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI"
+        },
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 264253,
+      "name": "The Day Of... - Orchestral Version",
+      "url": "https://open.spotify.com/track/1ZdaepQmo9fhbUF4xBzDKA"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
@@ -33,27 +257,7 @@
       "url": "https://open.spotify.com/track/0fmDqeTBrZhWDgK6qBtiPu"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Day Of... - Orchestral Version",
-        "url": "https://open.spotify.com/album/61w4NPHl4Mm1kltVMEOaNG"
-      },
-      "artists": [
-        {
-          "name": "Tuomas Holopainen",
-          "url": "https://open.spotify.com/artist/4rpsPzapLwm5LJPZmmWhFI"
-        },
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 264253,
-      "name": "The Day Of... - Orchestral Version",
-      "url": "https://open.spotify.com/track/1ZdaepQmo9fhbUF4xBzDKA"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "3333",
         "url": "https://open.spotify.com/album/7GNUGyxAQb3SnalLasqx8D"
@@ -69,27 +273,7 @@
       "url": "https://open.spotify.com/track/51wZRATIHtYIfb0tMpp3e2"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "On Sum",
         "url": "https://open.spotify.com/album/6HC5tExu1GSZlYvODnIDYY"
@@ -113,7 +297,7 @@
       "url": "https://open.spotify.com/track/4VqhoxedyPnVv0lnNoP9q6"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Detonator [Feat. Rock D The Legend] - Call of Duty: Black Ops 6",
         "url": "https://open.spotify.com/album/2piAGlf00AZ1wCItv2KOaQ"
@@ -133,31 +317,7 @@
       "url": "https://open.spotify.com/track/5LqgsjpIR3uLj06hjlG3Wz"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "The Rhythm The Rebel",
-        "url": "https://open.spotify.com/album/7eJMOyviiUXDmfOvZogNET"
-      },
-      "artists": [
-        {
-          "name": "The Massholez",
-          "url": "https://open.spotify.com/artist/3juyI2GMuiHP0XDUWkzO7c"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        },
-        {
-          "name": "Anno Domini Beats",
-          "url": "https://open.spotify.com/artist/7zyB5bod57okoaZHfLw3BP"
-        }
-      ],
-      "duration_ms": 207141,
-      "name": "The Rhythm The Rebel",
-      "url": "https://open.spotify.com/track/2JtyvHe20gdFt4nbyh0iPj"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Light Years",
         "url": "https://open.spotify.com/album/0bf3519W3wgmPXssbEwfPk"
@@ -177,27 +337,7 @@
       "url": "https://open.spotify.com/track/7s62mYqs8RVpozHlLYijEn"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Young Bosses III",
-        "url": "https://open.spotify.com/album/33GfAiEcFTUcU4GBdCbJqM"
-      },
-      "artists": [
-        {
-          "name": "Grizzley",
-          "url": "https://open.spotify.com/artist/1ysgaOnjM1MbHEe5bKhDTU"
-        },
-        {
-          "name": "Ghostface Killah",
-          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        }
-      ],
-      "duration_ms": 175350,
-      "name": "Dopefiends",
-      "url": "https://open.spotify.com/track/55aLWCF40pVolpOkyt985D"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Quit Calling",
         "url": "https://open.spotify.com/album/7vzvlBOC8WhaaYSkizexmt"
@@ -213,31 +353,7 @@
       "url": "https://open.spotify.com/track/7xnK7x5vHaAS6EDnKoRR6e"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
-      },
-      "artists": [
-        {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "dark days - Tonic Walter Remix",
         "url": "https://open.spotify.com/album/4braDDCX6da12NdCoyuyt4"
@@ -261,7 +377,51 @@
       "url": "https://open.spotify.com/track/4VRiRoNOuLjtJfzKwO4anG"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Checkpoint (Violence)",
+        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        },
+        {
+          "name": "Amika Quartet",
+          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "Checkpoint (Violence)",
+      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
         "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
@@ -285,27 +445,7 @@
       "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Checkpoint (Violence)",
-        "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "Checkpoint (Violence)",
-      "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Better Me Than You",
         "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
@@ -325,7 +465,7 @@
       "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "A Ballet Through Mud",
         "url": "https://open.spotify.com/album/52JbblOmGbKWmQkJWMKe6Y"
@@ -349,43 +489,7 @@
       "url": "https://open.spotify.com/track/4pLQQTQJy76L6IbHi88RhA"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "High Rise (Clean)",
-        "url": "https://open.spotify.com/album/5Lk9M0wKNzIgz2pfN3uVJq"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Brown",
-          "url": "https://open.spotify.com/artist/7Dnu2NmddNymEI2LMZVH5v"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 202400,
-      "name": "High Rise (Clean)",
-      "url": "https://open.spotify.com/track/5YvHU5PlNJNZJsz3BYKDwX"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Rootbound",
-        "url": "https://open.spotify.com/album/05aedKqyr8w8bZG6MUcvPC"
-      },
-      "artists": [
-        {
-          "name": "Kveld",
-          "url": "https://open.spotify.com/artist/3ji6JgdovyG79SpMrZaEnL"
-        }
-      ],
-      "duration_ms": 182679,
-      "name": "Rootbound",
-      "url": "https://open.spotify.com/track/4YcJ8VAclXAizkYTco8b3I"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Never Going Back Again (Live at The Forum, Inglewood, CA, 10/21/82)",
         "url": "https://open.spotify.com/album/5lxEOZVIEEoOU65D8TJDzD"
@@ -401,7 +505,7 @@
       "url": "https://open.spotify.com/track/1vWW78pW5sCSEmRMsF29Ri"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Truckin' (Live at Cameron Indoor Stadium, Duke University, Durham, NC, 4/12/78)",
         "url": "https://open.spotify.com/album/3YXDTDlbnnIuqIJw0keWCr"
@@ -417,7 +521,7 @@
       "url": "https://open.spotify.com/track/5vRJRc05qCLpCkuyaBFiFA"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Tides (feat. August Burns Red)",
         "url": "https://open.spotify.com/album/56eDVpAOQGsBGn4p3uPQ2s"
@@ -437,7 +541,7 @@
       "url": "https://open.spotify.com/track/2Y34yKpYcws6mWUo7HFkIe"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Anna Clyne: SHORTHAND",
         "url": "https://open.spotify.com/album/0GK0lno6PYVdaUKsHyQxQz"
@@ -465,7 +569,7 @@
       "url": "https://open.spotify.com/track/7gwScmGhZkQVM861yteb2e"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Drifting (Alternate Version / November 20, 1970)",
         "url": "https://open.spotify.com/album/6pQU54mtNcKXRKXUJZX4Lw"
@@ -481,7 +585,7 @@
       "url": "https://open.spotify.com/track/4Hu4RvIvbgQQqNLDuSBk3I"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Garmonbozia",
         "url": "https://open.spotify.com/album/55fHYXYbh4M0TKLp3PLyuc"
@@ -497,7 +601,7 @@
       "url": "https://open.spotify.com/track/3lFLhPUOlNnUuI2EH953BI"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Mother & Gun",
         "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
@@ -521,7 +625,7 @@
       "url": "https://open.spotify.com/track/7B147kRLeLAnlpTnyqBkhe"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Wrong Thing (with Kash'd Out)",
         "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
@@ -541,7 +645,7 @@
       "url": "https://open.spotify.com/track/129t075CqNbOCpsCcwiwJg"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Glass: Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
         "url": "https://open.spotify.com/album/5E7FPFaByDMSe3YEVF8oL8"
@@ -573,23 +677,31 @@
       "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "American Idiot - 20th Anniversary - On Holiday",
-        "url": "https://open.spotify.com/album/39xuOUcTdYZpgKFBx7dibP"
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 503138,
-      "name": "Holiday/Blvd. of Broken Dreams - Demo",
-      "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
+      "duration_ms": 166400,
+      "name": "FRIED",
+      "url": "https://open.spotify.com/track/4Qay2jEWJYjXmJ8eNOGtaD"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
         "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
@@ -605,7 +717,7 @@
       "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
     },
     {
-      "added_at": "2024-08-30 04:00:00",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "The Embrace, Vol. 1",
         "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"

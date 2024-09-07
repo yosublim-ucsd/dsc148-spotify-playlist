@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "CASI",
+        "url": "https://open.spotify.com/album/72dPwaAdpVg6fDfUszTGmu"
+      },
+      "artists": [
+        {
+          "name": "Xico",
+          "url": "https://open.spotify.com/artist/0WIiW8BkOZHyMTGOAwCCi9"
+        },
+        {
+          "name": "RK wavy",
+          "url": "https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "CASI",
+      "url": "https://open.spotify.com/track/5TGn2VR9DmeD65Vs7M8AVE"
+    },
+    {
+      "album": {
         "name": "Catrinas y Mariachis",
         "url": "https://open.spotify.com/album/3Yr077dT1N9IKOBETkV0Dx"
       },
@@ -3446,7 +3468,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 259312,
       "name": "Dependiente",
       "url": "https://open.spotify.com/track/3dx81Srvs1e34kiIA9bWrD"
@@ -3918,7 +3940,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 169500,
       "name": "EL FOCO",
       "url": "https://open.spotify.com/track/0lpcvU39R3id2Gwj695DWQ"
@@ -5635,6 +5657,24 @@
     },
     {
       "album": {
+        "name": "Micelio",
+        "url": "https://open.spotify.com/album/3LXq0ObksIFa9YV6QkvzCV"
+      },
+      "artists": [
+        {
+          "name": "Frank Takuma",
+          "url": "https://open.spotify.com/artist/30IozP2GkHKFl6U59F86lF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169756,
+      "name": "Iluminado",
+      "url": "https://open.spotify.com/track/6H5ZBKu4vPBdnW9JFkncMQ"
+    },
+    {
+      "album": {
         "name": "Imaginando Voy",
         "url": "https://open.spotify.com/album/2LrxtY5hsCCZFKIq5VmNbh"
       },
@@ -5738,6 +5778,28 @@
       "duration_ms": 184000,
       "name": "Intento Tras Intento",
       "url": "https://open.spotify.com/track/7L5mJIafA9H5p7HCQdpPPN"
+    },
+    {
+      "album": {
+        "name": "It's Okey",
+        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
+      },
+      "artists": [
+        {
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "It's Okey",
+      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
     },
     {
       "album": {
@@ -8812,7 +8874,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 230313,
       "name": "M\u00fasica Primero",
       "url": "https://open.spotify.com/track/6W5g2tnzSC4g5dOnXnS12t"
@@ -8896,6 +8958,32 @@
       "duration_ms": 179154,
       "name": "Nada Pasa",
       "url": "https://open.spotify.com/track/3mougvJouQAgtsD3Bb0keM"
+    },
+    {
+      "album": {
+        "name": "NADA QUE TEMER",
+        "url": "https://open.spotify.com/album/667qy1XX2SH3pId8GwW0zJ"
+      },
+      "artists": [
+        {
+          "name": "MC Ari",
+          "url": "https://open.spotify.com/artist/4isXRQYJjFLguM6c4VoBtW"
+        },
+        {
+          "name": "El Arkeologo",
+          "url": "https://open.spotify.com/artist/6IB7haQdDZM6rdSssVRHre"
+        },
+        {
+          "name": "L'Xuasma",
+          "url": "https://open.spotify.com/artist/4lEh3rt391Jzx3edimVSBO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166829,
+      "name": "NADA QUE TEMER",
+      "url": "https://open.spotify.com/track/3nhfJrwpiU5MAjLhmfRuUg"
     },
     {
       "album": {
@@ -10928,7 +11016,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 172631,
       "name": "Puro So\u00f1ador",
       "url": "https://open.spotify.com/track/6n5qZ480oyxvNxsD0hNQLm"
@@ -11934,7 +12022,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 155500,
       "name": "SHININ' (PISPO)",
       "url": "https://open.spotify.com/track/13GchKfm2oLMK17m0FAkIJ"
@@ -12468,6 +12556,32 @@
       "duration_ms": 189486,
       "name": "Tasmania",
       "url": "https://open.spotify.com/track/3jWwj6JjV0eugSmGBBLCPL"
+    },
+    {
+      "album": {
+        "name": "Tatequieto",
+        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Tatequieto",
+      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
     },
     {
       "album": {

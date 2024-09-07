@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -1444,6 +1444,24 @@
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
+    },
+    {
+      "album": {
+        "name": "Disco",
+        "url": "https://open.spotify.com/album/46LE2xR4e92aVvo1QlUiS3"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152760,
+      "name": "Disco",
+      "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
     },
     {
       "album": {
@@ -5128,7 +5146,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-28",
+      "date_removed": null,
       "duration_ms": 99692,
       "name": "NEXT!",
       "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
@@ -5382,7 +5400,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 120240,
       "name": "O Melhor no Que Faz 3.0",
       "url": "https://open.spotify.com/track/6AYTqLO7dw1h212u5zqjPz"
@@ -5424,8 +5442,16 @@
           "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
         },
         {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+          "name": "DJIEGO",
+          "url": "https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo"
+        },
+        {
+          "name": "Maxximo Dj",
+          "url": "https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4"
+        },
+        {
+          "name": "Mc M4",
+          "url": "https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4"
         }
       ],
       "date_added": "2024-08-06",
@@ -6120,7 +6146,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 148244,
       "name": "RUN! (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/1ZNrPyeyKs8YleAwY4vpKj"
@@ -6710,7 +6736,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 122553,
       "name": "SOS",
       "url": "https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86"
@@ -6978,7 +7004,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -7740,7 +7766,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2VpCSXXc3c1tcnKECvmb55"
@@ -10686,7 +10712,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
@@ -10984,7 +11010,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 184000,
       "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
       "url": "https://open.spotify.com/track/6HqBnPp3mZCQYHJ9n9ACNk"
@@ -12777,6 +12803,24 @@
     },
     {
       "album": {
+        "name": "\u0421\u043e\u0432\u0440\u0438 \u043c\u043d\u0435",
+        "url": "https://open.spotify.com/album/4cNZaHGcGY8iA6EPL3SJiF"
+      },
+      "artists": [
+        {
+          "name": "T-Fest",
+          "url": "https://open.spotify.com/artist/01lZudgXsojt5TBHuygB8r"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170886,
+      "name": "\u0421\u043e\u0432\u0440\u0438 \u043c\u043d\u0435",
+      "url": "https://open.spotify.com/track/5f5gkWntWNTTxbbh1Hp8tu"
+    },
+    {
+      "album": {
         "name": "\u0421\u043f\u043e\u0439",
         "url": "https://open.spotify.com/album/0e1o7fUyITBNMcFzTICOhN"
       },
@@ -13628,7 +13672,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 157777,
       "name": "\u0446\u0435\u043b\u044b\u0439 \u043c\u0438\u0440",
       "url": "https://open.spotify.com/track/7oGCGQ1vKFgjAkrg1oa1wT"

@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 313350,
+  "num_followers": 313419,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Kaleidoscope Dream (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Adorn",
+      "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -283,38 +299,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Kaleidoscope Dream (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4Rvzx3X6hcDb7nty1IzVP4"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Adorn",
-      "url": "https://open.spotify.com/track/5hJFhO9dvhJoDvUZZ9iWSw"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "4275 (Bonus Version)",
-        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 217386,
-      "name": "You",
-      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Red Moon In Venus",
         "url": "https://open.spotify.com/album/5OZ44LaqZbpP3m9B3oT8br"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "4275 (Bonus Version)",
+        "url": "https://open.spotify.com/album/03AdJ15pTDdmxry6qkKwlO"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 217386,
+      "name": "You",
+      "url": "https://open.spotify.com/track/01jIO8SJFnpSiNLH1JaBZ5"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "While We Wait",
+        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 181140,
+      "name": "Feels",
+      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "The Bedroom Tour Playlist",
         "url": "https://open.spotify.com/album/6Rkm6kbTaw7ViHDUrhWa1u"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "While We Wait",
-        "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 181140,
-      "name": "Feels",
-      "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -559,22 +559,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Morning",
-        "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
+        "name": "How Many Drinks? (feat. Kendrick Lamar)",
+        "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
         },
         {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 253946,
-      "name": "Morning",
-      "url": "https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB"
+      "duration_ms": 270160,
+      "name": "How Many Drinks? (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -595,22 +595,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "How Many Drinks? (feat. Kendrick Lamar)",
-        "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
+        "name": "Morning",
+        "url": "https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em"
       },
       "artists": [
         {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         },
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 270160,
-      "name": "How Many Drinks? (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6"
+      "duration_ms": 253946,
+      "name": "Morning",
+      "url": "https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Trigga Reloaded",
+        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
+      },
+      "artists": [
+        {
+          "name": "Trey Songz",
+          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
+        }
+      ],
+      "duration_ms": 267840,
+      "name": "All We Do",
+      "url": "https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Might Be - Single",
         "url": "https://open.spotify.com/album/0fIsnhdTNKflr8zk7kQjz7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 197285,
       "name": "Sip",
       "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Trigga Reloaded",
-        "url": "https://open.spotify.com/album/3pKTKC0AAe3yTcXQLzvpSW"
-      },
-      "artists": [
-        {
-          "name": "Trey Songz",
-          "url": "https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH"
-        }
-      ],
-      "duration_ms": 267840,
-      "name": "All We Do",
-      "url": "https://open.spotify.com/track/2yZKtBfdFdvcfjtAbSIsRb"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -815,38 +815,6 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "All Have Fallen",
-        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
-      },
-      "artists": [
-        {
-          "name": "ELHAE",
-          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
-        }
-      ],
-      "duration_ms": 205640,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Back To Sleep",
-        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201647,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
         "name": "Ella Mai",
         "url": "https://open.spotify.com/album/67ErXRS9s9pVG8JmFbrdJ0"
       },
@@ -859,6 +827,22 @@
       "duration_ms": 155156,
       "name": "Run My Mouth",
       "url": "https://open.spotify.com/track/3gfIiIN9ZrFgfI9eZDI831"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "All Have Fallen",
+        "url": "https://open.spotify.com/album/0pibHu3Mf8uCw6EAtHxZI9"
+      },
+      "artists": [
+        {
+          "name": "ELHAE",
+          "url": "https://open.spotify.com/artist/6TrQLQR8tUluPbmdPy6jqY"
+        }
+      ],
+      "duration_ms": 205640,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/7KdRu0h7PQ0Ecfa37rUBzW"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -915,22 +899,18 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
-        "name": "Freaky with You (feat. Jacquees)",
-        "url": "https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u"
+        "name": "Back To Sleep",
+        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
       },
       "artists": [
         {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        },
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Freaky with You (feat. Jacquees)",
-      "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
+      "duration_ms": 201647,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -951,6 +931,26 @@
       "duration_ms": 169378,
       "name": "get me started (feat. syd)",
       "url": "https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
+        "name": "Freaky with You (feat. Jacquees)",
+        "url": "https://open.spotify.com/album/6EPo6xCnOmESCbY7Cdf50u"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        },
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 192600,
+      "name": "Freaky with You (feat. Jacquees)",
+      "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
     },
     {
       "added_at": "2024-09-02 12:32:28",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-09-02 12:32:28",
       "album": {
+        "name": "Drowning",
+        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Drowning",
+      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
+    },
+    {
+      "added_at": "2024-09-02 12:32:28",
+      "album": {
         "name": "Waiting for You",
         "url": "https://open.spotify.com/album/14md98nP3ELQss8GguD6dt"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 211470,
       "name": "Waiting for You",
       "url": "https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU"
-    },
-    {
-      "added_at": "2024-09-02 12:32:28",
-      "album": {
-        "name": "Drowning",
-        "url": "https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy"
-      },
-      "artists": [
-        {
-          "name": "Mario",
-          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
-        }
-      ],
-      "duration_ms": 218627,
-      "name": "Drowning",
-      "url": "https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU"
     },
     {
       "added_at": "2024-09-02 12:32:28",

@@ -93,6 +93,28 @@
     },
     {
       "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/4x0dpkxoEAYiqIKI3LAROt"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218507,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/2xwgWtJlylRCOJ9h9rCbIc"
+    },
+    {
+      "album": {
         "name": "500",
         "url": "https://open.spotify.com/album/5lrYnvJjQGGmu6GGLPHuvn"
       },
@@ -3315,6 +3337,24 @@
     },
     {
       "album": {
+        "name": "Cicero",
+        "url": "https://open.spotify.com/album/2jPHZliiuvUdQQLqaVTQpx"
+      },
+      "artists": [
+        {
+          "name": "Robert Nickson",
+          "url": "https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Cicero",
+      "url": "https://open.spotify.com/track/5rWTEexNPxNkDVvPiD9q6C"
+    },
+    {
+      "album": {
         "name": "Cielo",
         "url": "https://open.spotify.com/album/4QrrkplqMBiX8ZQ0u647In"
       },
@@ -6362,7 +6402,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167820,
       "name": "Flare",
       "url": "https://open.spotify.com/track/68DOmYOehBaPNCNHCWgyMK"
@@ -6528,6 +6568,28 @@
       "duration_ms": 219428,
       "name": "Follow The King - David Forbes Remix",
       "url": "https://open.spotify.com/track/7DmCO62KfX9VoYRXV8CwkF"
+    },
+    {
+      "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/4eSiwGNJjDddi2a7YjVYZ8"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Hardwell",
+          "url": "https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192890,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/3EQ70Nq9D03VLRblD2JlJZ"
     },
     {
       "album": {
@@ -6758,7 +6820,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 203382,
       "name": "Forever Gone",
       "url": "https://open.spotify.com/track/12ql9Gpl4AJf3F7HKyGIPE"
@@ -7857,6 +7919,24 @@
     },
     {
       "album": {
+        "name": "Handbrake",
+        "url": "https://open.spotify.com/album/6dYdr57mOVxzjzDreb0W4h"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164129,
+      "name": "Handbrake",
+      "url": "https://open.spotify.com/track/5lJKkE4D9KjKk5tS22tZvJ"
+    },
+    {
+      "album": {
         "name": "Happier Than Now",
         "url": "https://open.spotify.com/album/1pP24kJOK557G4cKyVSpfD"
       },
@@ -8004,6 +8084,50 @@
       "duration_ms": 279555,
       "name": "Hear Me Out",
       "url": "https://open.spotify.com/track/2zpIU1OroZ3mUzrnYqoLBa"
+    },
+    {
+      "album": {
+        "name": "Heart Of Love",
+        "url": "https://open.spotify.com/album/7uaxtTswGbKKBSDrmD0tn1"
+      },
+      "artists": [
+        {
+          "name": "Cubicore",
+          "url": "https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx"
+        },
+        {
+          "name": "Linnea Schossow",
+          "url": "https://open.spotify.com/artist/1TUCkGpyFIZj6BPEdW55VT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228750,
+      "name": "Heart Of Love",
+      "url": "https://open.spotify.com/track/4g6NSzgoPh7lJtART7u5Sz"
+    },
+    {
+      "album": {
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/1n6TLLi7XO8LJ7hbRk7dDj"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Richard Bedford",
+          "url": "https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208124,
+      "name": "Heart Of Stone",
+      "url": "https://open.spotify.com/track/7qt3LDpwGFYtkZyefJlwG6"
     },
     {
       "album": {
@@ -8194,7 +8318,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176077,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/0K2VANgf1sgRsgJA3W205u"
@@ -10656,7 +10780,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 219952,
       "name": "Lore",
       "url": "https://open.spotify.com/track/0fuH8PTEbfLh4NLZ2xUkJh"
@@ -12042,7 +12166,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 201290,
       "name": "Muchie",
       "url": "https://open.spotify.com/track/2tR8Y2fuzjLYmWWjKAgS6W"
@@ -14246,7 +14370,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 197057,
       "name": "Rabagast",
       "url": "https://open.spotify.com/track/4TtvwtNYXacy89l5p41NKK"
@@ -19778,6 +19902,28 @@
       "duration_ms": 193920,
       "name": "Vertical",
       "url": "https://open.spotify.com/track/2LUYnKiEahrK7kElBXXpVv"
+    },
+    {
+      "album": {
+        "name": "Vespera",
+        "url": "https://open.spotify.com/album/6TExN4CIc5UiiBkrMDl10p"
+      },
+      "artists": [
+        {
+          "name": "Protoculture",
+          "url": "https://open.spotify.com/artist/37kQjANSQM1tmkTwvB5M96"
+        },
+        {
+          "name": "Freak E Beatz",
+          "url": "https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238109,
+      "name": "Vespera",
+      "url": "https://open.spotify.com/track/5Y3NxSLtGdwBFzkiKVYbUT"
     },
     {
       "album": {

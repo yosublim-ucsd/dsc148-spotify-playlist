@@ -4,7 +4,7 @@
 
 > The best of Latin Trap\. Cover: Myke Towers
 
-411 songs - 23 hr 17 min
+412 songs - 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Las Jordan](https://open.spotify.com/track/3dTfFNVkfGUAAsWa3ne3Ig) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 4:03 | 2023-01-19 | 2023-05-20 |
 | [Las Leyendas Nunca Mueren \(feat\. Ñengo Flow\)](https://open.spotify.com/track/5EQdno4273dP9myMTtEiDN) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Las Leyendas Nunca Mueren \(feat\. Ñengo Flow\)](https://open.spotify.com/album/1x0fe3DjJoQKXQ9iGxU6wa) | 4:09 | 2022-03-18 | 2022-09-17 |
 | [Lately](https://open.spotify.com/track/4RhPikdazBZyoLEXWAEmSI) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Lately](https://open.spotify.com/album/3A3qusTOsK8Khd1xlTqjLR) | 3:04 | 2022-12-02 |  |
+| [Le Clique](https://open.spotify.com/track/4SMYrlflAeUMgxbuwxb0o0) | [JHAYCO](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy) | [Le Clique: Vida Rockstar \(X\)](https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG) | 4:43 | 2024-09-06 |  |
 | [Le Gusta la Calle](https://open.spotify.com/track/3LdLD6fTpGrUyy9Cn2OvQy) | [Marconi Impara](https://open.spotify.com/artist/3AP96neoRZgep3w7wvhubP), [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z) | [Le Gusta la Calle](https://open.spotify.com/album/2oJZlbgwppyLkQpUuNp249) | 3:16 | 2022-05-03 | 2022-06-29 |
 | [Leyenda](https://open.spotify.com/track/3BIOxohEjTEcRRg0VVlNI6) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 3:40 | 2022-05-03 |  |
 | [Liberty](https://open.spotify.com/track/2I09MRMQaIY8LyiOXmVY1t) | [Derek Santana](https://open.spotify.com/artist/5NX9cIWJ0YF8qUugwmiacs), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Liberty](https://open.spotify.com/album/1cRgGJpaJdRaDa6xl9srDU) | 3:38 | 2023-11-10 | 2023-12-30 |
@@ -252,7 +253,7 @@
 | [Luna Llena](https://open.spotify.com/track/09CDTYEf6OPwzSqFXhdt2j) | [Young Martino](https://open.spotify.com/artist/7Kh6SBEGtFtqjYo5bN0ACG), [Joyce Santana](https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX) | [Last Chance](https://open.spotify.com/album/4HU4G9Tf59At2kLSVdLueb) | 2:15 | 2022-05-03 | 2022-09-17 |
 | [Madrid](https://open.spotify.com/track/49Br4XqYMOBlwM2YRGPQYy) | [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Madrid](https://open.spotify.com/album/6fp9VIOrvejpy2WKofJmL3) | 2:57 | 2023-12-01 | 2024-03-19 |
 | [MALDITA QL](https://open.spotify.com/track/0fVDSMzzqEMfvat9hiI8JD) | [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [JulianoChieff](https://open.spotify.com/artist/1GiKprzvYnLD4hBNxaA50l) | [MALDITA QL](https://open.spotify.com/album/14Dbf2M0BAVY3O4oNqJXbt) | 3:43 | 2024-04-12 | 2024-05-04 |
-| [Mambo](https://open.spotify.com/track/3rCFiNG0DC3MjnYp4LBqL6) | [El Larra](https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx), [icekream](https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [SANTA CRUZ](https://open.spotify.com/album/4w7BEEnsH5Uw3zSA650xBG) | 2:33 | 2024-06-21 |  |
+| [Mambo](https://open.spotify.com/track/3rCFiNG0DC3MjnYp4LBqL6) | [El Larra](https://open.spotify.com/artist/7aLAtWfohbbcHoShGOc5zx), [icekream](https://open.spotify.com/artist/2gaIPiqlafTVwapOByHeVQ), [Cool & Dre](https://open.spotify.com/artist/2PsjBHyb950JI7BHXY10TD) | [SANTA CRUZ](https://open.spotify.com/album/4w7BEEnsH5Uw3zSA650xBG) | 2:33 | 2024-06-21 | 2024-09-07 |
 | [Mami Dijo](https://open.spotify.com/track/6miAVDdheid0YA8WTmzNQ6) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:13 | 2022-04-15 | 2022-05-04 |
 | [Manhattan](https://open.spotify.com/track/2YIkop8YguSz17oRABRXIp) | [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE) | [Manhattan](https://open.spotify.com/album/1Hg5PSA16edGh2KZXxMpjN) | 2:10 | 2024-02-09 |  |
 | [Mbappe](https://open.spotify.com/track/2lmWwBLVJ2P0HX491zkYws) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [SEN2 KBRN VOL\. 2](https://open.spotify.com/album/3lsdB3dY4odywNI42KV6D9) | 2:27 | 2022-11-21 | 2023-05-20 |

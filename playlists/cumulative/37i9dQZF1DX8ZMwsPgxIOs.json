@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "2084 (Space 92 Remix)",
+        "url": "https://open.spotify.com/album/38Ws4sERTEy1ACzu4CnLFA"
+      },
+      "artists": [
+        {
+          "name": "KAS:ST",
+          "url": "https://open.spotify.com/artist/7orlzf5LTqSnCzURkZFebN"
+        },
+        {
+          "name": "Space 92",
+          "url": "https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "2084 - Space 92 Remix",
+      "url": "https://open.spotify.com/track/75SedaGZfay5uZffxEzk7M"
+    },
+    {
+      "album": {
         "name": "30th Street",
         "url": "https://open.spotify.com/album/78aLK8BkDtY4ko5QtSTfiY"
       },
@@ -74,6 +96,28 @@
       "duration_ms": 494328,
       "name": "Acid Dip",
       "url": "https://open.spotify.com/track/73Wrhs4NIuSXrmY2I2BNFp"
+    },
+    {
+      "album": {
+        "name": "Addiction / Yapper",
+        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
     },
     {
       "album": {
@@ -1479,6 +1523,28 @@
     },
     {
       "album": {
+        "name": "Darkest Hour",
+        "url": "https://open.spotify.com/album/4fo7uqhq7jNyL2DtpSMTg1"
+      },
+      "artists": [
+        {
+          "name": "Spektre",
+          "url": "https://open.spotify.com/artist/2jop7P9uKGHVtQAv59lDxT"
+        },
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204955,
+      "name": "Darkest Hour",
+      "url": "https://open.spotify.com/track/1mN0hFdSPXQU9YJarxH03N"
+    },
+    {
+      "album": {
         "name": "Deep Down",
         "url": "https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT"
       },
@@ -2088,7 +2154,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 216592,
       "name": "Europatr\u00e4ume",
       "url": "https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2"
@@ -2470,7 +2536,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 184047,
       "name": "Formulate",
       "url": "https://open.spotify.com/track/5hIikVMKkHbcqWf5RssqfC"
@@ -2608,7 +2674,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208804,
       "name": "GENESIS",
       "url": "https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34"
@@ -3652,7 +3718,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 250147,
       "name": "Let's Begin",
       "url": "https://open.spotify.com/track/008Q1wg8oH594VO9XkolM8"
@@ -3736,6 +3802,32 @@
       "duration_ms": 235121,
       "name": "Life Window",
       "url": "https://open.spotify.com/track/2KM0Fxre2A4V97Yq8W0AQS"
+    },
+    {
+      "album": {
+        "name": "Lift Me Up (feat. Kyozo)",
+        "url": "https://open.spotify.com/album/62dbLJwnEArDhNjiCFgMxA"
+      },
+      "artists": [
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Kyozo",
+          "url": "https://open.spotify.com/artist/6RvOjSdkA47bpr5qejYm1v"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233203,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0IxBytxMiyOhfK8yvonEPp"
     },
     {
       "album": {
@@ -4695,6 +4787,28 @@
     },
     {
       "album": {
+        "name": "Nexus",
+        "url": "https://open.spotify.com/album/6EK73A8UpQoIi4IDhG1FFA"
+      },
+      "artists": [
+        {
+          "name": "Bart Skils",
+          "url": "https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT"
+        },
+        {
+          "name": "SUDO",
+          "url": "https://open.spotify.com/artist/4bcymNfS8BzQ8XiwkdqCDb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310375,
+      "name": "Nexus",
+      "url": "https://open.spotify.com/track/21E7Usmisa7ZAjeb2bYWvj"
+    },
+    {
+      "album": {
         "name": "Nitro",
         "url": "https://open.spotify.com/album/1Ulfcs34i5xWug4fiV0dtS"
       },
@@ -5160,7 +5274,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 282247,
       "name": "Perception",
       "url": "https://open.spotify.com/track/1ekuYNPiJXmXqb92TORiPX"
@@ -5638,6 +5752,24 @@
       "duration_ms": 272741,
       "name": "Restore My Soul - Remix",
       "url": "https://open.spotify.com/track/2Po3vOi0P5KxVmlR1vjzgf"
+    },
+    {
+      "album": {
+        "name": "Reverie / Forest Fire",
+        "url": "https://open.spotify.com/album/27QvQxz2lZfrKjqdS7qV3b"
+      },
+      "artists": [
+        {
+          "name": "Nicole Moudaber",
+          "url": "https://open.spotify.com/artist/7ixDtqtITfqx5lZQGh5gKe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360000,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1U1dYvTNiWKjDcFwVVfyb9"
     },
     {
       "album": {
@@ -6364,7 +6496,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193528,
       "name": "Spiritum",
       "url": "https://open.spotify.com/track/1Ck2WX9Gw7zIFlhc6kZRu9"
@@ -7398,7 +7530,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 240000,
       "name": "Universal Nation - Charlotte de Witte Rework - Edit",
       "url": "https://open.spotify.com/track/1NhCSHNxAyFb00yI1Am68e"
@@ -7654,6 +7786,24 @@
       "duration_ms": 148571,
       "name": "What I Do",
       "url": "https://open.spotify.com/track/5Xi4xwLls4A7J0NqOfkWID"
+    },
+    {
+      "album": {
+        "name": "What Would Gerry Do",
+        "url": "https://open.spotify.com/album/0dAsvt2RrjPUp4PVy8SsFz"
+      },
+      "artists": [
+        {
+          "name": "Juliet Fox",
+          "url": "https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145260,
+      "name": "What Would Gerry Do",
+      "url": "https://open.spotify.com/track/0AcAZoVPYbGf1oIEn8UDiG"
     },
     {
       "album": {

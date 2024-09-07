@@ -8144,7 +8144,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175350,
       "name": "Dopefiends",
       "url": "https://open.spotify.com/track/55aLWCF40pVolpOkyt985D"
@@ -9651,6 +9651,28 @@
     },
     {
       "album": {
+        "name": "Wu-Tang Forever",
+        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Ghostface Killah",
+          "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228705,
+      "name": "Faces",
+      "url": "https://open.spotify.com/track/0eyp3Gf2Altoho3lljv7PJ"
+    },
+    {
+      "album": {
         "name": "Facing The Sideways Rain",
         "url": "https://open.spotify.com/album/5HBMgTLkTcuqtbcdO9Oszx"
       },
@@ -9740,6 +9762,44 @@
       "duration_ms": 213333,
       "name": "Facts - ROOTS Remix",
       "url": "https://open.spotify.com/track/6KCEkVJpNBSMKJWsprhmNS"
+    },
+    {
+      "album": {
+        "name": "Perchance to Dream Concept Album",
+        "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
+      },
+      "artists": [
+        {
+          "name": "Perchance to Dream",
+          "url": "https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu"
+        },
+        {
+          "name": "Sarah Dooley",
+          "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
+        },
+        {
+          "name": "Travis Harmon",
+          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
+        },
+        {
+          "name": "Kate Ly Johnston",
+          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Will Riddle",
+          "url": "https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220800,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/1lKrSYxevq2gLfbHmfuxge"
     },
     {
       "album": {
@@ -10843,6 +10903,28 @@
     },
     {
       "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1v8Ie3k0d1R7A2PD9HyT9O"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "9th Wonder",
+          "url": "https://open.spotify.com/artist/4s8ZGMVf3OiPktSP4ulpqU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/3N06hHzI4NxFbQ1Stjf9tJ"
+    },
+    {
+      "album": {
         "name": "Forever To Me",
         "url": "https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK"
       },
@@ -11356,6 +11438,32 @@
       "duration_ms": 218347,
       "name": "Frequency Of Love",
       "url": "https://open.spotify.com/track/3w8oi6Xa3TJgdwmKmgZ32o"
+    },
+    {
+      "album": {
+        "name": "VULTURES 2",
+        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
+      },
+      "artists": [
+        {
+          "name": "\u00a5$",
+          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166400,
+      "name": "FRIED",
+      "url": "https://open.spotify.com/track/4Qay2jEWJYjXmJ8eNOGtaD"
     },
     {
       "album": {
@@ -12469,6 +12577,24 @@
     },
     {
       "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "album": {
         "name": "Goin' Fo'",
         "url": "https://open.spotify.com/album/6WI6ltI2MUfISp8bGSr3Yg"
       },
@@ -13026,6 +13152,24 @@
       "duration_ms": 361340,
       "name": "Harrison Ave",
       "url": "https://open.spotify.com/track/0q9loMHMdjPrOhHClKtZF3"
+    },
+    {
+      "album": {
+        "name": "Hate Me If You Want",
+        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
+      },
+      "artists": [
+        {
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172855,
+      "name": "Hate Me If You Want",
+      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
     },
     {
       "album": {
@@ -13658,7 +13802,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 202400,
       "name": "High Rise (Clean)",
       "url": "https://open.spotify.com/track/5YvHU5PlNJNZJsz3BYKDwX"
@@ -13860,7 +14004,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 503138,
       "name": "Holiday/Blvd. of Broken Dreams - Demo",
       "url": "https://open.spotify.com/track/1aPl4iPz2NN29R2y2RqLMh"
@@ -16741,6 +16885,28 @@
     },
     {
       "album": {
+        "name": "Wu-Tang Forever",
+        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
+      },
+      "artists": [
+        {
+          "name": "Flex Barker",
+          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226666,
+      "name": "Kings",
+      "url": "https://open.spotify.com/track/5bNGoZDMjqkgJlVYJVqDln"
+    },
+    {
+      "album": {
         "name": "Ol Dirty Kudda (Shoalin Lives)",
         "url": "https://open.spotify.com/album/0jkbWrF2PJVIMg6IhASgpu"
       },
@@ -18600,10 +18766,32 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 274308,
       "name": "LOVE HURTS (with Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/20oVyPvaVROUvQi0Z9vgWg"
+    },
+    {
+      "album": {
+        "name": "BLAKAMERIKA Presents: LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/3lCxVVRYSAwQljR4Q4NUkA"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274308,
+      "name": "LOVE HURTS (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4hv4ABZWFVafkJFbaLeJcR"
     },
     {
       "album": {
@@ -20570,6 +20758,28 @@
       "duration_ms": 89498,
       "name": "Murder Plot (The Caretaker\u2019s Theme)",
       "url": "https://open.spotify.com/track/4ZyJGLUK1FHjXUfAP3wgIS"
+    },
+    {
+      "album": {
+        "name": "THE FORCE",
+        "url": "https://open.spotify.com/album/03z08WQj2dgVnLNkobhcYi"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185456,
+      "name": "Murdergram Deux",
+      "url": "https://open.spotify.com/track/2dzOpqgZlClKZ6UKuK0PKJ"
     },
     {
       "album": {
@@ -26422,7 +26632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182679,
       "name": "Rootbound",
       "url": "https://open.spotify.com/track/4YcJ8VAclXAizkYTco8b3I"
@@ -31842,7 +32052,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 207141,
       "name": "The Rhythm The Rebel",
       "url": "https://open.spotify.com/track/2JtyvHe20gdFt4nbyh0iPj"
@@ -34185,6 +34395,24 @@
     },
     {
       "album": {
+        "name": "American Idiot - 20th Anniversary - Becoming Who We Are",
+        "url": "https://open.spotify.com/album/4kebtpWNmc8CLgOm7bFvGx"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299775,
+      "name": "Wake Me Up When September Ends - Demo",
+      "url": "https://open.spotify.com/track/5rqoSVrje10lIhdlX6W58b"
+    },
+    {
+      "album": {
         "name": "Tales from the Loop (Solo Piano Version)",
         "url": "https://open.spotify.com/album/3n4efY5eK4rqFgcnMeV9OO"
       },
@@ -34750,6 +34978,28 @@
       "duration_ms": 221226,
       "name": "We Should Get Married",
       "url": "https://open.spotify.com/track/2syH39iwALerO994Pod9dB"
+    },
+    {
+      "album": {
+        "name": "We Will Rock You - Megan Thee Stallion Version",
+        "url": "https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103658,
+      "name": "We Will Rock You - Megan Thee Stallion Version",
+      "url": "https://open.spotify.com/track/04EzyNDx8TPjFYYi0FWzDT"
     },
     {
       "album": {

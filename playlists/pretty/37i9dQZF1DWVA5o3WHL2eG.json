@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DAMONA",
-  "num_followers": 34494,
+  "num_followers": 34521,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
+        "name": "ICH GEH MIT MIR",
+        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
+      },
+      "artists": [
+        {
+          "name": "LORI",
+          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
+        }
+      ],
+      "duration_ms": 187155,
+      "name": "ICH GEH MIT MIR",
+      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
         "name": "T-Shirt",
         "url": "https://open.spotify.com/album/04G7zMgiTnEHbU7cXiDRva"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 195848,
       "name": "Augen Leuchten",
       "url": "https://open.spotify.com/track/0MPG4SFATpPCVC1C4rrgEH"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "ICH GEH MIT MIR",
-        "url": "https://open.spotify.com/album/5XVnX6GnATq2EgjfNlVjvb"
-      },
-      "artists": [
-        {
-          "name": "LORI",
-          "url": "https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x"
-        }
-      ],
-      "duration_ms": 187155,
-      "name": "ICH GEH MIT MIR",
-      "url": "https://open.spotify.com/track/21dfwDOI57dqW8LLqV5Ypk"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -255,6 +255,38 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
+        "name": "Zu viel / nicht genug",
+        "url": "https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 156441,
+      "name": "Zu viel / nicht genug",
+      "url": "https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "\u00c4rger",
+        "url": "https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO"
+      },
+      "artists": [
+        {
+          "name": "Zs\u00e1 Zs\u00e1",
+          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+        }
+      ],
+      "duration_ms": 103563,
+      "name": "\u00c4rger",
+      "url": "https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
         "name": "I Forget (I\u2019m So Young)",
         "url": "https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z"
       },
@@ -303,22 +335,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Zu viel / nicht genug",
-        "url": "https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 156441,
-      "name": "Zu viel / nicht genug",
-      "url": "https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "wetten dass",
         "url": "https://open.spotify.com/album/7MaWK4teWliJIZ35ykhCJq"
       },
@@ -351,18 +367,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "\u00c4rger",
-        "url": "https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO"
+        "name": "Liebe programmiert",
+        "url": "https://open.spotify.com/album/5z6OKBlejzEUrWnvs5QSuJ"
       },
       "artists": [
         {
-          "name": "Zs\u00e1 Zs\u00e1",
-          "url": "https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ"
+          "name": "MELLER",
+          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
         }
       ],
-      "duration_ms": 103563,
-      "name": "\u00c4rger",
-      "url": "https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK"
+      "duration_ms": 134366,
+      "name": "Liebe programmiert",
+      "url": "https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -383,22 +399,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Himmel (TW)",
-        "url": "https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm"
-      },
-      "artists": [
-        {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
-        }
-      ],
-      "duration_ms": 134257,
-      "name": "Himmel (TW)",
-      "url": "https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "r\u00fcckw\u00e4rts auf dem heimweg",
         "url": "https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB"
       },
@@ -411,6 +411,22 @@
       "duration_ms": 140528,
       "name": "heimweg",
       "url": "https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Himmel (TW)",
+        "url": "https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 134257,
+      "name": "Himmel (TW)",
+      "url": "https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -431,6 +447,22 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
+        "name": "was passiert wenn die stra\u00dfe kommt ?",
+        "url": "https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L"
+      },
+      "artists": [
+        {
+          "name": "AMBRA",
+          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "was passiert wenn die stra\u00dfe kommt ?",
+      "url": "https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
         "name": "Wieso eigentlich?",
         "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
       },
@@ -447,66 +479,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Lightspeed",
-        "url": "https://open.spotify.com/album/50d54rqpQUL9ehdRSVp29j"
+        "name": "Track Your Steps",
+        "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
       "artists": [
         {
-          "name": "Ebow",
-          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
+          "name": "Alyssa & Gia",
+          "url": "https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g"
         }
       ],
-      "duration_ms": 195754,
-      "name": "Lightspeed",
-      "url": "https://open.spotify.com/track/1mzmi01eh31P8zbCFi02E5"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Liebe programmiert",
-        "url": "https://open.spotify.com/album/5z6OKBlejzEUrWnvs5QSuJ"
-      },
-      "artists": [
-        {
-          "name": "MELLER",
-          "url": "https://open.spotify.com/artist/01bwyExSOpCwS4qqAtglB9"
-        }
-      ],
-      "duration_ms": 134366,
-      "name": "Liebe programmiert",
-      "url": "https://open.spotify.com/track/1EbXYNG3UegZ7KmQRTkvba"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Ich hoff du bist da",
-        "url": "https://open.spotify.com/album/3H2Z9AVO0nVfNkDqWKHkYM"
-      },
-      "artists": [
-        {
-          "name": "ENYA BOBAN",
-          "url": "https://open.spotify.com/artist/6coyoepdk8cngGloJADii6"
-        }
-      ],
-      "duration_ms": 118940,
-      "name": "Peinlich",
-      "url": "https://open.spotify.com/track/3RV9IOeFMcKqY4Xmd9019o"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "was passiert wenn die stra\u00dfe kommt ?",
-        "url": "https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L"
-      },
-      "artists": [
-        {
-          "name": "AMBRA",
-          "url": "https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "was passiert wenn die stra\u00dfe kommt ?",
-      "url": "https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm"
+      "duration_ms": 190635,
+      "name": "Track Your Steps",
+      "url": "https://open.spotify.com/track/0uojm86o10peXMlThzQOZG"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -543,38 +527,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Nothing (Demo)",
-        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
+        "name": "Lightspeed",
+        "url": "https://open.spotify.com/album/50d54rqpQUL9ehdRSVp29j"
       },
       "artists": [
         {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+          "name": "Ebow",
+          "url": "https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA"
         }
       ],
-      "duration_ms": 112054,
-      "name": "Nothing - Demo",
-      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Hot Maus Summer",
-        "url": "https://open.spotify.com/album/2pIjaSHNPU9DvCLX9R3bWq"
-      },
-      "artists": [
-        {
-          "name": "Gigolo Tears",
-          "url": "https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7"
-        },
-        {
-          "name": "Power Plush",
-          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
-        }
-      ],
-      "duration_ms": 193885,
-      "name": "Hot Maus Summer",
-      "url": "https://open.spotify.com/track/6Wga3bfIC8lNvodrpxQpGn"
+      "duration_ms": 195754,
+      "name": "Lightspeed",
+      "url": "https://open.spotify.com/track/1mzmi01eh31P8zbCFi02E5"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -591,38 +555,6 @@
       "duration_ms": 111750,
       "name": "lass mich gehen",
       "url": "https://open.spotify.com/track/4HowiKz4jKcJpj4FFYmAfk"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Kites",
-        "url": "https://open.spotify.com/album/7wbokC7j1X5AhhiS7N9xlJ"
-      },
-      "artists": [
-        {
-          "name": "CECI",
-          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
-        }
-      ],
-      "duration_ms": 185897,
-      "name": "Kites",
-      "url": "https://open.spotify.com/track/4ArosSU5FStMsKACEeUjsc"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Track Your Steps",
-        "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
-      },
-      "artists": [
-        {
-          "name": "Alyssa & Gia",
-          "url": "https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g"
-        }
-      ],
-      "duration_ms": 190635,
-      "name": "Track Your Steps",
-      "url": "https://open.spotify.com/track/0uojm86o10peXMlThzQOZG"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -659,6 +591,122 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
+        "name": "Ich hoff du bist da",
+        "url": "https://open.spotify.com/album/3H2Z9AVO0nVfNkDqWKHkYM"
+      },
+      "artists": [
+        {
+          "name": "ENYA BOBAN",
+          "url": "https://open.spotify.com/artist/6coyoepdk8cngGloJADii6"
+        }
+      ],
+      "duration_ms": 118940,
+      "name": "Peinlich",
+      "url": "https://open.spotify.com/track/3RV9IOeFMcKqY4Xmd9019o"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l"
+      },
+      "artists": [
+        {
+          "name": "Anna Ullrich",
+          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+        }
+      ],
+      "duration_ms": 343087,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Kites",
+        "url": "https://open.spotify.com/album/7wbokC7j1X5AhhiS7N9xlJ"
+      },
+      "artists": [
+        {
+          "name": "CECI",
+          "url": "https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG"
+        }
+      ],
+      "duration_ms": 185897,
+      "name": "Kites",
+      "url": "https://open.spotify.com/track/4ArosSU5FStMsKACEeUjsc"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "nicht f\u00fchlen",
+        "url": "https://open.spotify.com/album/4uSo3fCzikeVyzhEsmq4ZE"
+      },
+      "artists": [
+        {
+          "name": "NOEL",
+          "url": "https://open.spotify.com/artist/5EifIR90rk8SEJbyUTVsTE"
+        }
+      ],
+      "duration_ms": 181892,
+      "name": "nicht f\u00fchlen",
+      "url": "https://open.spotify.com/track/1mhKsnINQMLiiuR70sfgTR"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Hot Maus Summer",
+        "url": "https://open.spotify.com/album/2pIjaSHNPU9DvCLX9R3bWq"
+      },
+      "artists": [
+        {
+          "name": "Gigolo Tears",
+          "url": "https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7"
+        },
+        {
+          "name": "Power Plush",
+          "url": "https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn"
+        }
+      ],
+      "duration_ms": 193885,
+      "name": "Hot Maus Summer",
+      "url": "https://open.spotify.com/track/6Wga3bfIC8lNvodrpxQpGn"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Nothing (Demo)",
+        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 112054,
+      "name": "Nothing - Demo",
+      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Yoga Pose",
+        "url": "https://open.spotify.com/album/6nzDOF0DySy2Z2vJOWunMw"
+      },
+      "artists": [
+        {
+          "name": "FLOSS",
+          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
+        }
+      ],
+      "duration_ms": 142490,
+      "name": "Yoga Pose",
+      "url": "https://open.spotify.com/track/6QxSRBdrHEt3l93qm8XIxm"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
         "name": "morgengrau",
         "url": "https://open.spotify.com/album/6HHflBjjzpp0HBTUXcB5kS"
       },
@@ -691,18 +739,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "nicht f\u00fchlen",
-        "url": "https://open.spotify.com/album/4uSo3fCzikeVyzhEsmq4ZE"
+        "name": "KUNDALINI",
+        "url": "https://open.spotify.com/album/1CAHe8maf0Ki0BJWd3jXnL"
       },
       "artists": [
         {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/5EifIR90rk8SEJbyUTVsTE"
+          "name": "Bush.ida",
+          "url": "https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF"
         }
       ],
-      "duration_ms": 181892,
-      "name": "nicht f\u00fchlen",
-      "url": "https://open.spotify.com/track/1mhKsnINQMLiiuR70sfgTR"
+      "duration_ms": 157700,
+      "name": "KUNDALINI",
+      "url": "https://open.spotify.com/track/08gHmcjdsJdiSCRe9vNZHw"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -719,54 +767,6 @@
       "duration_ms": 156222,
       "name": "bloom",
       "url": "https://open.spotify.com/track/1e7ljT2FBvsNxUPH3t5IR2"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l"
-      },
-      "artists": [
-        {
-          "name": "Anna Ullrich",
-          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
-        }
-      ],
-      "duration_ms": 343087,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "Yoga Pose",
-        "url": "https://open.spotify.com/album/6nzDOF0DySy2Z2vJOWunMw"
-      },
-      "artists": [
-        {
-          "name": "FLOSS",
-          "url": "https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ"
-        }
-      ],
-      "duration_ms": 142490,
-      "name": "Yoga Pose",
-      "url": "https://open.spotify.com/track/6QxSRBdrHEt3l93qm8XIxm"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
-        "name": "KUNDALINI",
-        "url": "https://open.spotify.com/album/1CAHe8maf0Ki0BJWd3jXnL"
-      },
-      "artists": [
-        {
-          "name": "Bush.ida",
-          "url": "https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF"
-        }
-      ],
-      "duration_ms": 157700,
-      "name": "KUNDALINI",
-      "url": "https://open.spotify.com/track/08gHmcjdsJdiSCRe9vNZHw"
     },
     {
       "added_at": "2024-09-04 05:16:29",

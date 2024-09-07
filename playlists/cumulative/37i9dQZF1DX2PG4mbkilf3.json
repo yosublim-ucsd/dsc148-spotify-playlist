@@ -1940,7 +1940,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 138750,
       "name": "Besoin",
       "url": "https://open.spotify.com/track/5LiOvDRWNm9QAeIa9WuBT8"
@@ -2197,6 +2197,24 @@
     },
     {
       "album": {
+        "name": "Biking",
+        "url": "https://open.spotify.com/album/2NsIuJ6GalDZSyaRntN0ad"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170400,
+      "name": "Biking",
+      "url": "https://open.spotify.com/track/2LAhOlxPHwpsxKi74FXi7O"
+    },
+    {
+      "album": {
         "name": "Bitter",
         "url": "https://open.spotify.com/album/76WgHkdWwCDUkfeTABjGYp"
       },
@@ -2212,6 +2230,24 @@
       "duration_ms": 138157,
       "name": "Bitter",
       "url": "https://open.spotify.com/track/4pBA16KT5vSpGiML9JC6wK"
+    },
+    {
+      "album": {
+        "name": "Black Walnut",
+        "url": "https://open.spotify.com/album/6Y34wKV0BoqAMicwoMn8jM"
+      },
+      "artists": [
+        {
+          "name": "SHEBAD",
+          "url": "https://open.spotify.com/artist/7ihwoO3fIjCKsTPoEbl7VK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219000,
+      "name": "Black Walnut",
+      "url": "https://open.spotify.com/track/0sSGPca0P8DKAXO2e48Qmg"
     },
     {
       "album": {
@@ -4076,7 +4112,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 157201,
       "name": "DaLouIsBack",
       "url": "https://open.spotify.com/track/5jafVvuIwlLw0cOpqysPg8"
@@ -4526,6 +4562,28 @@
       "duration_ms": 161489,
       "name": "DND",
       "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
+    },
+    {
+      "album": {
+        "name": "DND",
+        "url": "https://open.spotify.com/album/6t2EK8ZgoEFRbBosBVQ4tt"
+      },
+      "artists": [
+        {
+          "name": "Zenesoul",
+          "url": "https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX"
+        },
+        {
+          "name": "Rudy Ray Kwaku",
+          "url": "https://open.spotify.com/artist/6celkcGUgLTrca3EwBdgZN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183400,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/6b7BnSlPpZQWXWRXhLwAVM"
     },
     {
       "album": {
@@ -8431,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/5g8acbr044Lsjpxl8WoJln"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/47EaD6xOmzvDyBsJxOcbXV"
+    },
+    {
+      "album": {
         "name": "i know you know",
         "url": "https://open.spotify.com/album/4k74ZuiE1LHukoVXgOztv1"
       },
@@ -11123,6 +11199,24 @@
     },
     {
       "album": {
+        "name": "Love pour toi",
+        "url": "https://open.spotify.com/album/4ed8rgdhz9Omd8YFN6ezBW"
+      },
+      "artists": [
+        {
+          "name": "Blynk",
+          "url": "https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151794,
+      "name": "Love pour toi",
+      "url": "https://open.spotify.com/track/3uW42r1lILVcS2DGBYxScN"
+    },
+    {
+      "album": {
         "name": "Love Song",
         "url": "https://open.spotify.com/album/6B9QdmqjgwAsm0dByATvBl"
       },
@@ -12589,6 +12683,24 @@
     },
     {
       "album": {
+        "name": "WHAT MORE CAN I SAY ?",
+        "url": "https://open.spotify.com/album/3tLEgAn3fEQuzEKibKYGl8"
+      },
+      "artists": [
+        {
+          "name": "Myles Lloyd",
+          "url": "https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "NEVER BE THE SAME",
+      "url": "https://open.spotify.com/track/6AGAoicuRIAkMsgjqcfY7Y"
+    },
+    {
+      "album": {
         "name": "Never Get Enough",
         "url": "https://open.spotify.com/album/4AtPTZNc6lEMelJJEsGvMD"
       },
@@ -13612,7 +13724,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
@@ -16699,6 +16811,24 @@
     },
     {
       "album": {
+        "name": "SKIN TO SKIN",
+        "url": "https://open.spotify.com/album/3zR3hbM1kMILJowBosWeap"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115555,
+      "name": "SKIN TO SKIN",
+      "url": "https://open.spotify.com/track/459nQ03mNSimFXfSVly62w"
+    },
+    {
+      "album": {
         "name": "SKINTIGHT",
         "url": "https://open.spotify.com/album/4A3edcDok5xs93z5rTy1qW"
       },
@@ -17162,6 +17292,24 @@
       "duration_ms": 155806,
       "name": "Some Company",
       "url": "https://open.spotify.com/track/20KwD5Igs6eJ8tzplRVTqv"
+    },
+    {
+      "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/2OpsQM5rD4xIajD2aXUioe"
+      },
+      "artists": [
+        {
+          "name": "Jerumi",
+          "url": "https://open.spotify.com/artist/6WfpGvfuZrnxpUKfHQxbZX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194851,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/7dEj8MNDvefKvMuS4w8fwl"
     },
     {
       "album": {
@@ -17888,7 +18036,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 134714,
       "name": "Still (feat. Charlotte Day Wilson)",
       "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
@@ -18864,7 +19012,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 166299,
       "name": "That Girl",
       "url": "https://open.spotify.com/track/5ZkVidLQ7NcDlPaemrTbtD"
@@ -19634,7 +19782,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 230560,
       "name": "Too Much",
       "url": "https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH"

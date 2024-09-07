@@ -4,7 +4,7 @@
 
 > tsubi club is back
 
-2,135 songs - 4 day 1 hr 17 min
+2,137 songs - 4 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,11 +128,13 @@
 | [American Terrorist](https://open.spotify.com/track/0CUkBj6wxcdUaB0K94frjT) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [American Terrorist](https://open.spotify.com/album/5eHaILhsj8cjHNb8PNOnMU) | 2:38 | 2023-07-28 | 2024-01-23 |
 | [AmiciXS](https://open.spotify.com/track/08y21SNgqqfoOiLEYBaSgf) | [20025xs](https://open.spotify.com/artist/4ImHh6fCpoaFQ1sOINe1Wd) | [AmiciXS](https://open.spotify.com/album/1JwHaHkUGVH5TR14jkwil0) | 2:52 | 2021-01-08 | 2021-02-10 |
 | [AmiciXS](https://open.spotify.com/track/1YsB6OLuQgqX2y8kPbQD0G) | [20025xs](https://open.spotify.com/artist/4ImHh6fCpoaFQ1sOINe1Wd) | [AmiciXS](https://open.spotify.com/album/05SGSY0xnF4ChsNxl1DPd7) | 2:56 | 2020-12-04 | 2021-01-08 |
+| [AMNESIA](https://open.spotify.com/track/6YkdntnOfV8pzUkPhIzz2w) | [heynat](https://open.spotify.com/artist/6DOHWRB8ilr8mOJN5DKOVl) | [AMNESIA](https://open.spotify.com/album/1QfmD8pxQPt9OwY2G08iVN) | 2:07 | 2024-09-06 |  |
 | [AmorFalso](https://open.spotify.com/track/7wG2Fv3w0MIgT9c3yVVyQ3) | [Conico](https://open.spotify.com/artist/585mUNJeJoLyRHXH0E7nX8) | [AmorFalso](https://open.spotify.com/album/3j2ZNwOfghWU8tpKD73pD5) | 2:01 | 2024-01-26 | 2024-03-16 |
 | [Amygdala](https://open.spotify.com/track/46hnqCPtSB5Hz6P3Hh642v) | [Ecco2k](https://open.spotify.com/artist/6hG0VsXXlD10l60TqiIHIX), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Amygdala](https://open.spotify.com/album/0mH4AehT1gftVuf8NBYIP6) | 2:10 | 2022-01-21 | 2022-04-29 |
 | [an0ther](https://open.spotify.com/track/4p1W4JGVHYUkDMjQqezAof) | [Young Finn](https://open.spotify.com/artist/1uV2xgEOx1BmW2j0oj1obY), [saturn](https://open.spotify.com/artist/42IAg1RgfyE8c66KZcSlSR) | [an0ther](https://open.spotify.com/album/3ssElHKsuv0YbQmwKia2Sb) | 2:07 | 2021-07-01 | 2021-09-16 |
 | [angel](https://open.spotify.com/track/35YjuzZevlQNidhmj2jKYu) | [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [aysi](https://open.spotify.com/artist/4vuJBJ1Hsn9bY73gyGo8FO) | [angel](https://open.spotify.com/album/04pv7EjiVxLz3hyGCBrTZt) | 2:19 | 2023-04-28 | 2023-09-23 |
 | [angel \(so bad\)](https://open.spotify.com/track/4vvIWQCVGcUxK1jJl0Q1pR) | [CMTEN](https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA) | [angel \(so bad\)](https://open.spotify.com/album/5CElCHppgWDsKWH4bNSOQV) | 2:52 | 2021-05-15 | 2021-12-20 |
+| [Angel Music](https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [MGNA Crrrta](https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye) | [Angel Music](https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X) | 2:07 | 2024-09-06 |  |
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2021-11-05 | 2022-01-13 |
 | [aNgEl taTToo](https://open.spotify.com/track/7uP0rQAhoZiMzaNIDBdz8d) | [Oh Boy](https://open.spotify.com/artist/16c98eujtJNYGvUWTraFTt), [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [aNgEl taTToo](https://open.spotify.com/album/17bqx3eI7999RsdJHmlbGc) | 3:09 | 2021-11-12 | 2022-03-05 |
 | [ANIMAL CRACKERS](https://open.spotify.com/track/03vZHI9H4wycwdkaTX90gp) | [Charles the Emperor](https://open.spotify.com/artist/58YJLS6T3tP5Bvi6UwefTX) | [ANIMAL CRACKERS](https://open.spotify.com/album/0pmOOCqSsT15NcpFA3ePhf) | 2:25 | 2021-02-26 | 2021-09-21 |

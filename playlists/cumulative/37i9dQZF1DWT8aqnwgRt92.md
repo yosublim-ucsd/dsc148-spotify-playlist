@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,517 songs - 3 day 22 hr 51 min
+1,519 songs - 3 day 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [1000年愛](https://open.spotify.com/track/1Lo6vGRaUV5ZIMgZk8xSFx) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [1000年愛](https://open.spotify.com/album/5nqpf4XFM9KhU8EYhW2I7n) | 5:18 | 2023-09-19 | 2023-09-21 |
 | [101 bells ring](https://open.spotify.com/track/1MKPkdxASJbPI77vJs4bIx) | [reche](https://open.spotify.com/artist/4sJCsXNYmUMeumUKVz4Abm) | [101 bells ring](https://open.spotify.com/album/4f5tOPurCI3HKGOBHbe0Yt) | 5:47 | 2023-10-03 | 2023-11-01 |
 | [1日は25時間。](https://open.spotify.com/track/2mWkRziSA8Mp9QOMC5OZmh) | [ツルシマアンナ](https://open.spotify.com/artist/66Tqv3DqPeLRlTDHzzNa63) | [1日は25時間。](https://open.spotify.com/album/42PDpS84WQde4z0TsXcm2X) | 3:55 | 2024-04-23 | 2024-05-10 |
-| [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 | 2024-07-16 |  |
+| [1番輝く星](https://open.spotify.com/track/57Blh4i8OlMoEhI92hvpfe) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」オープニングテーマ「1番輝く星」](https://open.spotify.com/album/4NlpTmxeT655v6nYI58crJ) | 3:52 | 2024-07-16 | 2024-09-07 |
 | [6を撫でる](https://open.spotify.com/track/5R2p1rjy9nzGx2Do6Vqulo) | [ももすももす](https://open.spotify.com/artist/09xFgYi2WMH18mnuipigzN) | [6を撫でる](https://open.spotify.com/album/0XwsUFo91VTzQDNc2WSIOw) | 3:00 | 2023-10-24 | 2023-11-17 |
 | [8th HEAVEN](https://open.spotify.com/track/3d45q7MTSFGPbYPwKJ7SFc) | [Shouta Aoi](https://open.spotify.com/artist/4Kg3vBPMPfnYrnZo2A4czS) | [8th HEAVEN](https://open.spotify.com/album/08zVfmvFnPEBCNqYGdLCKi) | 3:36 | 2023-10-19 | 2023-11-01 |
 | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/track/2HqmDb5HE9W9bh15VRZCHw) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [アイニー](https://open.spotify.com/artist/1PqSi9Rgp6H0LhdCefCyPi), [RED](https://open.spotify.com/artist/5bVJRJd9mUtOh6b1sxM9gb) | [A lonely night ～ひとりぼっちのGet Wild～](https://open.spotify.com/album/7Av4wZIVDisfPaIzarh3UC) | 3:59 | 2023-09-19 | 2023-10-25 |
@@ -480,6 +480,7 @@
 | [Megane\-Go\-Round](https://open.spotify.com/track/662l75p75lTA2Ah9Et4cMw) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [The Girl I Like Forgot Her Glasses Ending Theme "Megane\-Go\-Round"](https://open.spotify.com/album/12wi1uiKFu9CTxVJ8axs6m) | 3:35 | 2023-08-01 | 2023-10-04 |
 | [Megane\-Go\-Round \(TV Size ver.\)](https://open.spotify.com/track/2ujULpZIqhy51LfAlScicJ) | [マサヨシがめがねを忘れた\(小村くんと三重さんとオーイシマサヨシ\)](https://open.spotify.com/artist/7tH2hkmutwX0x90KlxwbTS) | [Megane\-Go\-Round "TV Size ver."](https://open.spotify.com/album/1Li5RK1m4HTSlZffbbzk66) | 1:29 | 2023-07-11 | 2023-08-02 |
 | [Melissa \- From CrosSing](https://open.spotify.com/track/3cPP2NYhfUYLibpFqqQB8x) | [土岐隼一](https://open.spotify.com/artist/0qDE2zIQMn6bSgEPUsWGsi) | [Melissa \- From CrosSing](https://open.spotify.com/album/5nCxbhDwEp0YiHEDV6COPe) | 4:17 | 2023-03-14 | 2023-04-09 |
+| [milky way](https://open.spotify.com/track/3lKpFtBHX0Q17ABO380mhv) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [We will](https://open.spotify.com/album/0r5oazd96lslNQTYaBXd2g) | 3:32 | 2024-09-06 |  |
 | [Miracle soup](https://open.spotify.com/track/3dCLJGqrhClFxNQ68o7B7A) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Miracle soup](https://open.spotify.com/album/3RB2BMUkv12GW4lL2Zb8hc) | 3:20 | 2024-06-25 | 2024-08-14 |
 | [mirAI wave!](https://open.spotify.com/track/7F91SZDGZADt6ZMElk2LsY) | [PathTLive](https://open.spotify.com/artist/5vKv9YNyQoWhxIhYFsRF8Y) | [mirAI wave!](https://open.spotify.com/album/3ZfXfeq7cDJoC83EpuLtYu) | 4:23 | 2023-04-04 | 2023-05-17 |
 | [Mirai=Teleport](https://open.spotify.com/track/0yNEe6VDJvBxEwzDCkfghN) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [Mirai=Teleport](https://open.spotify.com/album/41CiOjakS7smAEqxt8TTIo) | 3:13 | 2023-07-18 | 2023-09-29 |
@@ -905,6 +906,7 @@
 | [くらえ!テレパシー](https://open.spotify.com/track/7Jj6eiasbU7LVPXqZKBaNf) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [くらえ!テレパシー](https://open.spotify.com/album/5QPurrlpbc5HWphTwfCG4i) | 2:56 | 2023-01-05 | 2023-04-09 |
 | [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-01 | 2023-07-12 |
 | [ぐるぐるライブ](https://open.spotify.com/track/0W0oIMDkidj8ARTrj3uDnR) | [由崎司\(CV:鬼頭明里\)](https://open.spotify.com/artist/3DZPDkF2LcgJBefu3J1k6k) | [ぐるぐるライブ](https://open.spotify.com/album/4TE676dAlGVBYdvBfTLdkB) | 3:52 | 2023-07-11 | 2023-07-13 |
+| [こいのうた](https://open.spotify.com/track/0vZcAOkeoTQqBdL928g3KE) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [こいのうた（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/6hKvK1eBPSlpY4MOGPPrKd) | 3:57 | 2024-09-06 |  |
 | [ここにある約束](https://open.spotify.com/track/0APwmGFaMz1i7yJzB7RNJj) | [であいもん\(ayaho+曽我淳一\)](https://open.spotify.com/artist/5Fb3qOyeKFVcSsbxzPLkdK) | [TVアニメ「であいもん」エンディングテーマ ここにある約束](https://open.spotify.com/album/0gO3GOODkLfILLTQGuVgHQ) | 3:46 | 2022-05-28 | 2022-06-15 |
 | [この愛に敵うもんはない](https://open.spotify.com/track/3oaqQczgoSVRK8NPvNL6i4) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [この愛に敵うもんはない](https://open.spotify.com/album/5FCwuMphmpu2sJf1Ctom42) | 3:24 | 2024-01-22 | 2024-04-11 |
 | [さがしもの](https://open.spotify.com/track/3gTzLL8x9YZMxMRtpULVIb) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [さがしもの](https://open.spotify.com/album/1ITwEkadUYuEdYKnmZdVCt) | 4:49 | 2024-07-09 | 2024-07-31 |

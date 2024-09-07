@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best of electronic trap. Cover: Nikita the Wicked",
+  "description": "The best of electronic trap. Cover: Marshmello & Viperactive",
   "name": "Trap Mojito",
   "tracks": [
     {
@@ -370,10 +370,32 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 66875,
       "name": "ANXIETY KILLS",
       "url": "https://open.spotify.com/track/2DfGGA6VeU3PXCNmCUb7Yy"
+    },
+    {
+      "album": {
+        "name": "ANXIETY KILLS - Fabian Mazur Remix",
+        "url": "https://open.spotify.com/album/1yImKcAlYnSbfzJ3FCg8OT"
+      },
+      "artists": [
+        {
+          "name": "EVAN GIIA",
+          "url": "https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115721,
+      "name": "ANXIETY KILLS - Fabian Mazur Remix",
+      "url": "https://open.spotify.com/track/02iaaQqyRP1523Iq3kQQr0"
     },
     {
       "album": {
@@ -1394,6 +1416,24 @@
       "duration_ms": 161279,
       "name": "Casper",
       "url": "https://open.spotify.com/track/3EE7zRmVsiY5HHcK5fJ2H8"
+    },
+    {
+      "album": {
+        "name": "ALCHEMY",
+        "url": "https://open.spotify.com/album/2abmoczrvv7N1Px23lGWHQ"
+      },
+      "artists": [
+        {
+          "name": "EAZYBAKED",
+          "url": "https://open.spotify.com/artist/1ZbT8FIqEc0cktnu6mNlvv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141686,
+      "name": "Catalyst",
+      "url": "https://open.spotify.com/track/3CKQqdPsOP8uwmv2X4vBgi"
     },
     {
       "album": {
@@ -4434,7 +4474,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 180923,
       "name": "HOOLIGAN",
       "url": "https://open.spotify.com/track/3SR00E4UULH7jt6fRPjdPo"
@@ -4670,7 +4710,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 198857,
       "name": "I Spit Da Fire",
       "url": "https://open.spotify.com/track/0IbKmfU9sEPKJjhOtHk14z"
@@ -4878,6 +4918,28 @@
       "duration_ms": 289285,
       "name": "In tha Trap",
       "url": "https://open.spotify.com/track/1Dl1opgs5iNJdnUZx3n1aM"
+    },
+    {
+      "album": {
+        "name": "In The Cut",
+        "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Viperactive",
+          "url": "https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167516,
+      "name": "In The Cut",
+      "url": "https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO"
     },
     {
       "album": {
@@ -5262,6 +5324,28 @@
       "duration_ms": 198400,
       "name": "KARMA (With Jazz Cartier)",
       "url": "https://open.spotify.com/track/23JWyjMJe6snyIqlORwLyH"
+    },
+    {
+      "album": {
+        "name": "Keep It Moving",
+        "url": "https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160551,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft"
     },
     {
       "album": {
@@ -6486,6 +6570,24 @@
       "duration_ms": 178333,
       "name": "Mumbai Mode",
       "url": "https://open.spotify.com/track/2qmbvhG8hWX0FVN87sh3TW"
+    },
+    {
+      "album": {
+        "name": "My Demons",
+        "url": "https://open.spotify.com/album/6LtMVGgLL9hb3c7wlftFJQ"
+      },
+      "artists": [
+        {
+          "name": "KEPIK",
+          "url": "https://open.spotify.com/artist/43KdGzqdAQatWUdAFGS4Gn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "My Demons",
+      "url": "https://open.spotify.com/track/31Mn08SEsadcIXVqWPGsqO"
     },
     {
       "album": {
@@ -7760,7 +7862,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 140800,
       "name": "Rocket",
       "url": "https://open.spotify.com/track/6P1SudHQxqsLclgSE9Mpwn"
@@ -7880,6 +7982,32 @@
       "duration_ms": 139153,
       "name": "Run Around",
       "url": "https://open.spotify.com/track/1RXh1aAInzM41tTIMwLMxX"
+    },
+    {
+      "album": {
+        "name": "Run It Back",
+        "url": "https://open.spotify.com/album/2rvmsImes4RKOYt0NWCT7F"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "DJ Paul",
+          "url": "https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc"
+        },
+        {
+          "name": "Jason Leech",
+          "url": "https://open.spotify.com/artist/1RPNr9u1LyyIjFVrXdIq1G"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182127,
+      "name": "Run It Back",
+      "url": "https://open.spotify.com/track/0rUjkyIMlPpm9jgvzycy1Z"
     },
     {
       "album": {
@@ -10530,7 +10658,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 194142,
       "name": "WE RUN THIS",
       "url": "https://open.spotify.com/track/54wQjNf7HIae8K2I9KI58T"
@@ -10698,7 +10826,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 200063,
       "name": "WOW!",
       "url": "https://open.spotify.com/track/1wHzum4Guz5XfaGXd2t9QY"

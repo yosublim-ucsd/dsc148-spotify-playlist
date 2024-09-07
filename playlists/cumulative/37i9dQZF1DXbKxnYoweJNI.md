@@ -4,7 +4,7 @@
 
 > 獨立就是硬地自主，音樂就要展現風格，加起來就是痛快！Cover: 沒有才能 \(anti\-talent\)
 
-585 songs - 1 day 9 hr 55 min
+587 songs - 1 day 10 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -411,6 +411,7 @@
 | [暴力想念](https://open.spotify.com/track/2h5UcZkHrUh13yU4QZXdaO) | [金金](https://open.spotify.com/artist/3eYKZUsn6KNZCpjQqLC57p) | [暴力想念](https://open.spotify.com/album/40PA6LonjFOwyEzVBOgpAT) | 4:47 | 2024-07-11 | 2024-07-19 |
 | [曠野](https://open.spotify.com/track/1mgIhtxPptziAEEn8uHf5l) | [胡睿兒](https://open.spotify.com/artist/7LYboIxjKJjb49AewRWqAm) | [曠野](https://open.spotify.com/album/2ObhB2dIsZg3Vhkm5F7u3i) | 3:02 | 2024-06-27 | 2024-07-12 |
 | [最不該懷疑是你有勇氣](https://open.spotify.com/track/4DuRlGPcf2vhgE7GWQzEI9) | [Gentlewomen 仕女聲](https://open.spotify.com/artist/52e1MG1uIMuFxIVXqhoz2F) | [最不該懷疑是你有勇氣](https://open.spotify.com/album/4AGuQAkQRZbnmIV4ImTyb5) | 4:45 | 2024-07-25 | 2024-08-02 |
+| [最傷心的情歌](https://open.spotify.com/track/4mZvxGpFqbuMtemZoBRqSd) | [Namz528](https://open.spotify.com/artist/4ZAC7xRO5PxFI9NCEeODMI) | [最傷心的情歌](https://open.spotify.com/album/0bNgWW9DJMKEnXywM6jq5n) | 2:53 | 2024-09-05 |  |
 | [最像你的決定](https://open.spotify.com/track/4G7DyozFEttMYuhGdKse9m) | [YoungLee](https://open.spotify.com/artist/37SCZVt9ssGoiuzN972Vud) | [最像你的決定](https://open.spotify.com/album/7FFU8c4XZwp3kOB695sQiy) | 2:38 | 2024-08-01 | 2024-08-23 |
 | [最初的地方 Wishing I Came Back](https://open.spotify.com/track/6x3yayF8ZHIHEQHM7HYlzp) | [楊奇煜](https://open.spotify.com/artist/4mEiq1LqyqanaP13xovzEr) | [漫遊者 Keep Rolling](https://open.spotify.com/album/7cz9te2wmbQg5NaxQ2URZl) | 3:12 | 2024-07-11 | 2024-07-19 |
 | [最帅情歌](https://open.spotify.com/track/4KgAVHBkwUcSWaAHxrKkD2) | [寒冰Ice](https://open.spotify.com/artist/20tBfpj1303rEt1XBVcPth) | [最帅情歌](https://open.spotify.com/album/2V9DYNrbjSrEHH69Oy4Nvr) | 3:27 | 2024-08-15 |  |
@@ -582,6 +583,7 @@
 | [陷阱肥](https://open.spotify.com/track/0yJgTXw1IBAbAF2wASHYp3) | [Jupiter](https://open.spotify.com/artist/65rKNtb3K6N6hC3jA60719) | [陷阱肥](https://open.spotify.com/album/7JY6hdl4XWoHhq9h433Buo) | 3:21 | 2024-07-18 | 2024-07-27 |
 | [难道](https://open.spotify.com/track/7i5AvBRpqVYoIlhh8Z5gJE) | [Ben Hum](https://open.spotify.com/artist/4ATqdfAOYsKwaVVPEktade) | [难道](https://open.spotify.com/album/7816IMimLBMi8wg3iSnPx0) | 2:37 | 2024-08-15 | 2024-08-30 |
 | [雨城 \(Arr\. by Flowi\)](https://open.spotify.com/track/4t0egfWiiaQximBVdaBYH5) | [柯朋宇](https://open.spotify.com/artist/5vWQyCpjh2KpM8DWR7OiYP) | [雨城](https://open.spotify.com/album/6nJnLNUvq2wrfo9lR0SFRb) | 3:32 | 2024-06-27 | 2024-07-19 |
+| [面面相覷](https://open.spotify.com/track/5CSZ16QzIMfn5o1foOYry1) | [sodagreen](https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U) | [面面相覷](https://open.spotify.com/album/2arlptaoqAS4Bh8ROxSkWh) | 3:57 | 2024-09-05 |  |
 | [風輕輕仔吹](https://open.spotify.com/track/69iZZoey1y1ZRpFvJsbPpo) | [想破頭](https://open.spotify.com/artist/0oNhjq6xEeC2gPFie6bpbW) | [風輕輕仔吹](https://open.spotify.com/album/3UD2ySditNywU2ucF6pgKy) | 4:15 | 2024-06-27 |  |
 | [食腦蟲](https://open.spotify.com/track/4ad5jpOV3fAZapT2yjK3P8) | [李晉瑋](https://open.spotify.com/artist/5USwlHFW8l5fLMXELJrNbf) | [食腦蟲](https://open.spotify.com/album/4dsUYAlV411E3CPaUoTfYU) | 4:16 | 2024-08-01 | 2024-08-23 |
 | [養精絮銳](https://open.spotify.com/track/6KICM8jrIjStaKzXABKrMz) | [HSU林庭絮](https://open.spotify.com/artist/4QM3oaD94C17jtdO2ldhsX) | [養精絮銳](https://open.spotify.com/album/0hf7i52Db9F5vRHO2lTwSU) | 2:54 | 2024-07-18 | 2024-07-27 |

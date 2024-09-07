@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 148965,
       "name": "Abendrot",
       "url": "https://open.spotify.com/track/7dTK3hzPpd2cpwQ9QoW1ug"
@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 163000,
       "name": "After Dark Ram",
       "url": "https://open.spotify.com/track/08CEcXp5nqHcv4d72cGJW3"
@@ -646,7 +646,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 151554,
       "name": "Alterations",
       "url": "https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b"
@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168000,
       "name": "Anachronic",
       "url": "https://open.spotify.com/track/28BhahBC2qOpui6ryXoCev"
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 178519,
       "name": "Antonia",
       "url": "https://open.spotify.com/track/05yZZGyIAKNaTCkKEXqG0j"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 173558,
       "name": "At Day's End",
       "url": "https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T"
@@ -1402,7 +1402,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 222709,
       "name": "Beautiful World",
       "url": "https://open.spotify.com/track/3TWwXtNx8UQR0VbJ1ANKNa"
@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 190157,
       "name": "Beneath The Clouds",
       "url": "https://open.spotify.com/track/69JHzItxMyYakCOpqZhHUy"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182747,
       "name": "Consonance",
       "url": "https://open.spotify.com/track/6wumg3aZYgGbInRSN8S9g5"
@@ -2652,7 +2652,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 151673,
       "name": "Conversant",
       "url": "https://open.spotify.com/track/0G04ehzIE3QEkmvVK1Lxl8"
@@ -2796,7 +2796,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 202346,
       "name": "Dancing Thoughts",
       "url": "https://open.spotify.com/track/2UfRc5564aGiVmeefaeOAg"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 198500,
       "name": "Delta Sunrays",
       "url": "https://open.spotify.com/track/4u6WQWqIKKk3Rpo0EhcBTP"
@@ -3012,7 +3012,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 145613,
       "name": "Deseo",
       "url": "https://open.spotify.com/track/26hCpTBuCM2Irs5GW5kA9n"
@@ -3466,7 +3466,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 170892,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc"
@@ -3646,7 +3646,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 151232,
       "name": "Enchanted Reality",
       "url": "https://open.spotify.com/track/4ZxnrE8g0DKcRfZ2ct9rYv"
@@ -3704,6 +3704,24 @@
       "duration_ms": 216000,
       "name": "Endless Fragments of Time",
       "url": "https://open.spotify.com/track/1UFmSqbxVtP5pl9r8KdeY1"
+    },
+    {
+      "album": {
+        "name": "Endlessly",
+        "url": "https://open.spotify.com/album/7cpgjKwp4BRbDyJgOLZrOd"
+      },
+      "artists": [
+        {
+          "name": "Calmative",
+          "url": "https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164250,
+      "name": "Endlessly",
+      "url": "https://open.spotify.com/track/3njM9rpLOm07HHfVpIFb7K"
     },
     {
       "album": {
@@ -3970,7 +3988,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193374,
       "name": "Europa",
       "url": "https://open.spotify.com/track/5A3kw1qZP3UQwzfALXmVFd"
@@ -4060,7 +4078,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182400,
       "name": "Eystra",
       "url": "https://open.spotify.com/track/6rjdrkwluTKX4ZEvcsxCy6"
@@ -4492,7 +4510,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 173105,
       "name": "Fondo",
       "url": "https://open.spotify.com/track/3YsadWxIYFPZY3D4LmXqZO"
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176000,
       "name": "In another lifetime",
       "url": "https://open.spotify.com/track/6mzCWgCZ0Cg53ibaLopsrq"
@@ -5536,7 +5554,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 146364,
       "name": "Into the light",
       "url": "https://open.spotify.com/track/0Vjq9kVZr61LfZMcVYAbxS"
@@ -5644,7 +5662,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 146400,
       "name": "It's Ineffable",
       "url": "https://open.spotify.com/track/7Jgj8nFdfLaPnIN7rL1G7d"
@@ -5914,7 +5932,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182972,
       "name": "Kinship",
       "url": "https://open.spotify.com/track/0lZYIXIXkyzwyCWptYemZH"
@@ -6742,7 +6760,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 185706,
       "name": "Meet Me At Sundown",
       "url": "https://open.spotify.com/track/1kw7n9ACTz07NuIYqCm3F9"
@@ -7570,7 +7588,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 157261,
       "name": "Night Traveller",
       "url": "https://open.spotify.com/track/0VwLK1YNGY2UDzv5GeiJWB"
@@ -7912,7 +7930,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165460,
       "name": "Oasis",
       "url": "https://open.spotify.com/track/5hLHdaVfTFZcF6liWtfw1P"
@@ -8236,7 +8254,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 181061,
       "name": "Pathway",
       "url": "https://open.spotify.com/track/7dbha6Yw3WdhyMCeCiPW0v"
@@ -8308,7 +8326,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 173961,
       "name": "Peaceful Movement",
       "url": "https://open.spotify.com/track/6OQzGwdsy5ny1HRsNzkUth"
@@ -8938,7 +8956,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 158308,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/33Gd870hCA6BtxcUsux3II"
@@ -9010,7 +9028,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193138,
       "name": "Relieve",
       "url": "https://open.spotify.com/track/5KzZLb3KFjGrQZW6WH8Cyc"
@@ -9388,7 +9406,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 164874,
       "name": "Sami Lok",
       "url": "https://open.spotify.com/track/6ad8ExozmvLsI8sOZgUqFe"
@@ -9424,7 +9442,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218000,
       "name": "Sant",
       "url": "https://open.spotify.com/track/6Y8v8sSvSEGSZi5tkW5Nhw"
@@ -9953,6 +9971,24 @@
     },
     {
       "album": {
+        "name": "Shore of Sentiments",
+        "url": "https://open.spotify.com/album/1mDjbi3MswtTugEHcdfLLN"
+      },
+      "artists": [
+        {
+          "name": "Turtle Man.",
+          "url": "https://open.spotify.com/artist/5Gib53WHQDHw7pCPbpH6Pb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189473,
+      "name": "Shore of Sentiments",
+      "url": "https://open.spotify.com/track/1tgMPhl79N2QCW7Ntcq8Vu"
+    },
+    {
+      "album": {
         "name": "Sidereal",
         "url": "https://open.spotify.com/album/2Tz4In6IQJxvribOsDEnVN"
       },
@@ -10216,7 +10252,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 151837,
       "name": "Soft Ardour",
       "url": "https://open.spotify.com/track/1iL1vDGQ1OAf8wW5lqzXMa"
@@ -10882,7 +10918,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167586,
       "name": "Supine",
       "url": "https://open.spotify.com/track/6xNDVglPOwn9YXDyCt33lS"
@@ -11566,7 +11602,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168000,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/0eoulivlbUiUsqDfj4axvM"
@@ -11728,7 +11764,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188671,
       "name": "Unclouded",
       "url": "https://open.spotify.com/track/2NqwxOKlF2jtWvAnmWDIpu"
@@ -12394,7 +12430,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 199811,
       "name": "With Every Breath I Breathe",
       "url": "https://open.spotify.com/track/7bpnfbTaoPGzCdvyRAEW0E"
@@ -12502,7 +12538,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 179763,
       "name": "Ygeia",
       "url": "https://open.spotify.com/track/7ioQve0LIq1qfNp3rkvj4N"

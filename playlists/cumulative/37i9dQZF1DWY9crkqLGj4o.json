@@ -444,7 +444,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 295360,
       "name": "Autor da Vida",
       "url": "https://open.spotify.com/track/0G59rX2uOta2lX83SfB8Rk"
@@ -548,11 +548,15 @@
         {
           "name": "Diante do Trono",
           "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
         }
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-18",
+      "date_removed": null,
       "duration_ms": 437386,
       "name": "Can\u00e7\u00e3o do Apocalipse - Ao Vivo",
       "url": "https://open.spotify.com/track/0DHpr7eLBrRZvlXa4sNwhd"
@@ -646,7 +650,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 382014,
       "name": "Com Muito Louvor",
       "url": "https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF"
@@ -758,7 +762,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 259181,
       "name": "Deixar a L\u00e1grima Rolar",
       "url": "https://open.spotify.com/track/0MYOLA6eOwPBO5KjXSpEhz"
@@ -852,7 +856,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 370172,
       "name": "Deus do Secreto",
       "url": "https://open.spotify.com/track/6NO0Up4grjlWcprtv4H4dN"
@@ -946,7 +950,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 215666,
       "name": "Deus Vai Fazer (feat. Damaris Brand\u00e3o)",
       "url": "https://open.spotify.com/track/49WwqXcIb0BjvWaJ7XD8jp"
@@ -964,7 +968,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 271209,
       "name": "Deus \u00e9 Deus",
       "url": "https://open.spotify.com/track/2zIUZPKNlGrnlxagZmKTFd"
@@ -1044,7 +1048,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 518880,
       "name": "Ele Vem - Ao Vivo",
       "url": "https://open.spotify.com/track/1kD9Gx0BpKPwfz0F32iMOt"
@@ -1458,7 +1462,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 324013,
       "name": "Faz Um Milagre Em Mim (Como Zaqueu, Eu Quero Subir) - Ao Vivo",
       "url": "https://open.spotify.com/track/7AA38Hs4o0EHdCiogPAuw3"
@@ -1476,7 +1480,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 245734,
       "name": "Fa\u00e7a Morada",
       "url": "https://open.spotify.com/track/5Mpth7qg5nxiv3JR0dt7cL"
@@ -1788,7 +1792,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 429332,
       "name": "Liberta-Me de Mim",
       "url": "https://open.spotify.com/track/6TuE408iM4JvCXtGSBg1JA"
@@ -1918,7 +1922,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 216320,
       "name": "Me Ajude A Melhorar",
       "url": "https://open.spotify.com/track/63ZKT26bj7ni15pl3MGMpU"
@@ -1939,12 +1943,12 @@
         },
         {
           "name": "Priscilla Alcantara",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+          "url": "https://open.spotify.com/artist/63W02eshTwySpJjkeiMDEA"
         }
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 274840,
       "name": "Me Deixe Aqui (feat. Priscilla Alcantara)",
       "url": "https://open.spotify.com/track/1IJ7mFrvgw24F3rRS9NAHl"
@@ -1962,7 +1966,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 465885,
       "name": "Me Leva Pra Casa",
       "url": "https://open.spotify.com/track/4VLK4ZO7czrzMHvtGPkN8T"
@@ -2002,6 +2006,28 @@
       "duration_ms": 287826,
       "name": "Meu Barquinho",
       "url": "https://open.spotify.com/track/6uyh29cLTff8ei3LGHicJt"
+    },
+    {
+      "album": {
+        "name": "Meu Mestre - Ao Vivo",
+        "url": "https://open.spotify.com/album/1CfuJQp4qFRKK4p9ojHQ35"
+      },
+      "artists": [
+        {
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
+        },
+        {
+          "name": "Isabela Agustinho",
+          "url": "https://open.spotify.com/artist/3JX73Mj715yHnSXe6DOwSt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286680,
+      "name": "Meu Mestre - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Znhv9B3Vq3KiNr09L7YrU"
     },
     {
       "album": {
@@ -2074,7 +2100,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 231637,
       "name": "Minha Vez",
       "url": "https://open.spotify.com/track/7BXpln48PXgHVg6vaEZCvw"
@@ -2136,7 +2162,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 390386,
       "name": "Ningu\u00e9m Explica Deus (feat. Gabriela Rocha) - Ao Vivo",
       "url": "https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK"
@@ -2572,7 +2598,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 291317,
       "name": "Pintor do Mundo",
       "url": "https://open.spotify.com/track/2XVksgx3w1hjH0LJ03csLL"
@@ -2684,7 +2710,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 919733,
       "name": "Preciso de Ti - Ao Vivo",
       "url": "https://open.spotify.com/track/57WRcTAI6bJ64A0IzdF4r6"
@@ -2800,7 +2826,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 471733,
       "name": "Que Se Abram os C\u00e9us - Ao Vivo",
       "url": "https://open.spotify.com/track/6uIv3xIpgKduBWy350T5ty"
@@ -2844,7 +2870,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 360187,
       "name": "Quero Conhecer Jesus",
       "url": "https://open.spotify.com/track/7vbGO3jX627bSq7rgTeWfJ"
@@ -2884,7 +2910,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 297726,
       "name": "Raridade",
       "url": "https://open.spotify.com/track/3Gam4UbOwnwQQQKuItui39"
@@ -2928,7 +2954,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 343051,
       "name": "Ressuscita-me",
       "url": "https://open.spotify.com/track/7b07ZOEHDdp6jJbstnf0iB"
@@ -3163,6 +3189,24 @@
     },
     {
       "album": {
+        "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+        "url": "https://open.spotify.com/album/1IH6cCtqXmo2VpltNlyo91"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 605638,
+      "name": "S\u00f3 Tu \u00c9s Santo + Medley - Tour Adore - Ao Vivo",
+      "url": "https://open.spotify.com/track/67pYV75Yicc0y41kWuseNZ"
+    },
+    {
+      "album": {
         "name": "Toque no Altar (Ao Vivo)",
         "url": "https://open.spotify.com/album/4z8nrTvi5M7jhEKmxhWhc5"
       },
@@ -3210,7 +3254,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 436613,
       "name": "Teu Santo Nome - Ao Vivo",
       "url": "https://open.spotify.com/track/0CP4vevAzKaN0M5SXEGMXh"
@@ -3272,7 +3316,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 220066,
       "name": "Tu \u00c9s Santo",
       "url": "https://open.spotify.com/track/1NaSnyNxuyzp7Cu0ejxcjx"
@@ -3348,7 +3392,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 370520,
       "name": "Um novo Vencedor",
       "url": "https://open.spotify.com/track/5HKjGzpALqUicGjD0vzS1G"
@@ -3420,7 +3464,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 354150,
       "name": "Vitorioso \u00c9s - Ao Vivo",
       "url": "https://open.spotify.com/track/0wFSztnpnNA6dEL5tsOPZb"

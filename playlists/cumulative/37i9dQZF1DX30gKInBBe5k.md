@@ -4,7 +4,7 @@
 
 > a hardcore home for slowcore fans.
 
-135 songs - 12 hr 15 min
+136 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Absent Friend](https://open.spotify.com/track/6CqmencKN0UsB67DzZAP8f) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 8:20 | 2021-06-25 |  |
 | [Atmosphere](https://open.spotify.com/track/1S6rJx88kWeVGFVnak4BwU) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [When I See the Sun](https://open.spotify.com/album/3jXbDGCO6Epu1NYsRS9mDt) | 4:57 | 2021-06-25 | 2024-04-19 |
 | [Atmosphere](https://open.spotify.com/track/548iWzPhzdvVYUTvdupSOf) | [Codeine](https://open.spotify.com/artist/60CBjmRpwr02JwAd3Ho25U) | [When I See the Sun](https://open.spotify.com/album/1bMj9nHN1zouoGBbSF9GZP) | 4:57 | 2021-06-25 |  |
+| [Autoluminescent](https://open.spotify.com/track/3Sl2z4TkK0lYJiMB7kXnz6) | [Midwife](https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa) | [No Depression In Heaven](https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn) | 4:41 | 2024-09-06 |  |
 | [Bedside Table](https://open.spotify.com/track/36OyhDiWgD0UrbhVobVJX1) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ) | 4:44 | 2021-06-25 | 2024-04-19 |
 | [Bedside Table](https://open.spotify.com/track/7EdM33TRHCYTfjsYqtagKp) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:44 | 2021-06-25 |  |
 | [Black Fly](https://open.spotify.com/track/3AXcnekPeKzjol7iQlM0Xx) | [Circuit des Yeux](https://open.spotify.com/artist/7ASMj5TvVCYDILcfTockhI) | [Reaching For Indigo](https://open.spotify.com/album/1GBJUdudjxW6w96CkPd6Kg) | 7:26 | 2021-06-25 |  |

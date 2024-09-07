@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 306008,
+  "num_followers": 306033,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -131,26 +131,18 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
       "artists": [
         {
-          "name": "Slash",
-          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
-        },
-        {
-          "name": "Myles Kennedy",
-          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
-        },
-        {
-          "name": "Myles Kennedy And The Conspirators",
-          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 396968,
-      "name": "Sweet Child O' Mine (feat. Myles Kennedy and The Conspirators) - Live at Spotify, London",
-      "url": "https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk"
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -171,18 +163,26 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "Slash",
+          "url": "https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE"
+        },
+        {
+          "name": "Myles Kennedy",
+          "url": "https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR"
+        },
+        {
+          "name": "Myles Kennedy And The Conspirators",
+          "url": "https://open.spotify.com/artist/1J0FSEQhWSMHcYqaapIjY6"
         }
       ],
-      "duration_ms": 151666,
-      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
+      "duration_ms": 396968,
+      "name": "Sweet Child O' Mine (feat. Myles Kennedy and The Conspirators) - Live at Spotify, London",
+      "url": "https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -303,22 +303,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Live From Soho",
-        "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
-      },
-      "artists": [
-        {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
-        }
-      ],
-      "duration_ms": 290266,
-      "name": "How to Save a Life - Live in NYC - 2009",
-      "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Ac\u00fastico (Ao Vivo)",
         "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 128106,
       "name": "O Coro Vai Come - Ao Vivo",
       "url": "https://open.spotify.com/track/3QoydK0LFOpK0JnfIpCffR"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Live From Soho",
+        "url": "https://open.spotify.com/album/0abkVfZF9JpWbHA1Cm2Jgq"
+      },
+      "artists": [
+        {
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+        }
+      ],
+      "duration_ms": 290266,
+      "name": "How to Save a Life - Live in NYC - 2009",
+      "url": "https://open.spotify.com/track/3OPVsn0Dk3s8vWhXxnK35p"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -579,18 +579,18 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
+        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 169440,
-      "name": "Feel It Still - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
+      "duration_ms": 141136,
+      "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
+      "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -611,18 +611,18 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Chegou Quem Faltava - Volume 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5ayvfXBDzwD15sOazeejGT"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83"
       },
       "artists": [
         {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 141136,
-      "name": "Dias de Luta, Dias de Gl\u00f3ria - Ao Vivo - Chegou Quem Faltava",
-      "url": "https://open.spotify.com/track/6QsNSUfywJxc5RelHUnf38"
+      "duration_ms": 169440,
+      "name": "Feel It Still - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5Xh97PTcc1LxMF8sc8Xhis"
     },
     {
       "added_at": "2024-06-07 17:34:56",

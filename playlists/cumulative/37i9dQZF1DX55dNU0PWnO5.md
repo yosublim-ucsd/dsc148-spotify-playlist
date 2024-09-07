@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-414 songs - 1 day 1 hr 2 min
+415 songs - 1 day 1 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [Count Yer Pace \(feat\. Kemani Anderson\)](https://open.spotify.com/track/2T0hcwsOrlt2lFiWoY0mpT) | [Werkha](https://open.spotify.com/artist/5Mxf4advIPTDdAYqbJZBS0), [Kemani Anderson](https://open.spotify.com/artist/1Ab3viBuyjYajaG82vcMID) | [All Werk Is Play](https://open.spotify.com/album/6B90X6Q8k7gL9EIwuRCgW6) | 4:36 | 2022-04-29 |  |
 | [Crescent](https://open.spotify.com/track/58zFkROMyeq4o1OMIQQgsL) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Métropole Part II](https://open.spotify.com/album/5tjtkMg20jEuzuJrT27gBj) | 3:14 | 2021-01-29 | 2021-12-22 |
 | [CRNGGLS.MMBL](https://open.spotify.com/track/1SKjqHcwSnSEPZDKXxDtLa) | [Unc D](https://open.spotify.com/artist/4nYyzsmTazjKFqRPQCuBCO), [Thin Thicket](https://open.spotify.com/artist/40Wb8U0vUhR1a7UQXCJ9Ng), [Damon the Soulful Samurai](https://open.spotify.com/artist/6B7G3EEuNog0pIB4IYqXtp), [Nicholas Frank](https://open.spotify.com/artist/1lvvQNtbJDnA6VYOps1VAH), [Zach Connolly](https://open.spotify.com/artist/3YZtQ3UMdy3J93vmfZcrFO) | [CRNGGLS.MMBL](https://open.spotify.com/album/5MhXEMFIHl9n9so6jTQr17) | 2:16 | 2023-04-14 | 2023-05-13 |
-| [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 | 2023-09-29 |  |
+| [Crumbs](https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Between Planets](https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ) | 1:33 | 2023-09-29 | 2024-09-07 |
 | [Cryogen](https://open.spotify.com/track/0UwQljCILorlIvAh4KqOzd) | [daniel hayn](https://open.spotify.com/artist/2E54rBy4UeaSYijZiWlNpO), [Israel Strom](https://open.spotify.com/artist/07Z6BmMLQSWERbqmg4T8XL), [Noah Denton](https://open.spotify.com/artist/1iUSzGy9vQvadA63lPMbhd), [Jonathan Berroa](https://open.spotify.com/artist/034NSOjlm8ldyogY85O7v0), [Anatole Muster](https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK), [Noah Wise](https://open.spotify.com/artist/556NfVDwwLw5tXinjmloMb), [Jean\-loup Siaut](https://open.spotify.com/artist/7kQ6pzESf0Nv5XELxoHyjn) | [Cryogen](https://open.spotify.com/album/7HCgZIwVVZn7AQvslT5Wq9) | 3:22 | 2022-03-25 | 2023-08-19 |
 | [Crystal Clouds](https://open.spotify.com/track/32Iny8TkYR3Anz4jmc4qK8) | [Jonny Tobin](https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO) | [Together](https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr) | 4:09 | 2022-01-14 |  |
 | [CYPReSSES](https://open.spotify.com/track/17vwQOObhFSyQ4oGSqlisH) | [LADAISLE](https://open.spotify.com/artist/1ccn3ILGtQ8vZIN0ZAWM1r) | [CYPReSSES](https://open.spotify.com/album/2ieCq7tU69L7NkfCRKa3jC) | 3:18 | 2021-04-02 | 2022-07-29 |
@@ -399,6 +399,7 @@
 | [Wagwan](https://open.spotify.com/track/41XUlWocWmBbRMZ7N92rBA) | [SKYGAZE](https://open.spotify.com/artist/6HvCwGnC0m5LcMGWVpKBK4) | [Astral Trip](https://open.spotify.com/album/1g61faHNMeM3RQYsnWii9e) | 4:57 | 2022-05-16 |  |
 | [Watarase \- Henrik Schwarz Version](https://open.spotify.com/track/4JHtMHW1hT1KODX4wRqAfQ) | [Fumio Itabashi](https://open.spotify.com/artist/6HwoRQ2rOHAVerOPnLu2nQ), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R), [Kuniyuki Takahashi](https://open.spotify.com/artist/53JsFUDYcN2jw6v1nF7Z82) | [Watarase](https://open.spotify.com/album/4NXJDWKX8NbIWW3DaAnIt7) | 6:49 | 2021-03-19 |  |
 | [We Don't Need No Roads](https://open.spotify.com/track/2sc6ZZznzgg2h1NnY8fYbJ) | [FKAjazz](https://open.spotify.com/artist/6a9Z8FfjrfedFsKkB8HYIr) | [We Don't Need No Roads](https://open.spotify.com/album/7uSZRFLQ992jsB8ukJSPYm) | 4:18 | 2023-01-20 | 2023-06-03 |
+| [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 | 2024-09-06 |  |
 | [When We Could Dance Together \- Sampology Remix](https://open.spotify.com/track/73qpF707HUM9MSe4PtUhGp) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Peaks \(Remixed\)](https://open.spotify.com/album/5pYrtC0MRa8XVNQX6UlbOr) | 5:10 | 2022-07-29 |  |
 | [When We Gather](https://open.spotify.com/track/2DgrhZQkh0EOEFoDpr4mxh) | [Elobrian Sunrise](https://open.spotify.com/artist/4heg5G7NjZx0xy6L381mpb) | [Secret Garden](https://open.spotify.com/album/0HIrO4TCdHW7h9vt7RstFk) | 5:33 | 2021-01-29 | 2022-03-16 |
 | [Which One?](https://open.spotify.com/track/5DOyHN6ip5RiT2b3JExyPd) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Which One?](https://open.spotify.com/album/5mtCCA7D5prmY55RrWVUtt) | 2:45 | 2023-07-21 |  |

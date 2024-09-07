@@ -45,6 +45,24 @@
     },
     {
       "album": {
+        "name": "Aconteceu em Gerib\u00e1",
+        "url": "https://open.spotify.com/album/2ibzWbdC1sspjBkgUREIeR"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278528,
+      "name": "Aconteceu em Gerib\u00e1",
+      "url": "https://open.spotify.com/track/32gkbhRVA46rnmZWsSDSdf"
+    },
+    {
+      "album": {
         "name": "Aeroporto",
         "url": "https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq"
       },

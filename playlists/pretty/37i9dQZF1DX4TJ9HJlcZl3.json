@@ -1,13 +1,29 @@
 {
   "description": "Still yachting. Cover: Yacht Rock Revue",
-  "num_followers": 15619,
+  "num_followers": 15628,
   "original_name": "Yacht Rock Revival",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zn41QAAAAABdoth6Tzb5cc8DoVdh9kga",
+  "snapshot_id": "Ztp+QAAAAACz6pkOB/fDdC9YHoKyD+QY",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Escape Artist (Disc 1)",
+        "url": "https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO"
+      },
+      "artists": [
+        {
+          "name": "Yacht Rock Revue",
+          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
+        }
+      ],
+      "duration_ms": 255893,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 170749,
       "name": "Like No Tomorrow",
       "url": "https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Tropical Illusion / Passengers",
-        "url": "https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy"
-      },
-      "artists": [
-        {
-          "name": "Yacht Rock Revue",
-          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
-        }
-      ],
-      "duration_ms": 227282,
-      "name": "Tropical Illusion",
-      "url": "https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6"
     },
     {
       "added_at": "2024-05-03 04:01:00",

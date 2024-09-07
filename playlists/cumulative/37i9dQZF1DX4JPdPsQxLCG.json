@@ -3091,6 +3091,24 @@
     },
     {
       "album": {
+        "name": "HOW?!",
+        "url": "https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e"
+      },
+      "artists": [
+        {
+          "name": "Reu",
+          "url": "https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153306,
+      "name": "HOW?!",
+      "url": "https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK"
+    },
+    {
+      "album": {
         "name": "I Am A Wild Party (Live)",
         "url": "https://open.spotify.com/album/5AJqtKejk5hkMOoWS5lqz1"
       },
@@ -4590,6 +4608,24 @@
       "duration_ms": 229906,
       "name": "No Time",
       "url": "https://open.spotify.com/track/29HbvYjzl95cYA4wGIhFCd"
+    },
+    {
+      "album": {
+        "name": "Northern Attitude",
+        "url": "https://open.spotify.com/album/6DSEPejAMWGNfTyVAp4nA4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267256,
+      "name": "Northern Attitude",
+      "url": "https://open.spotify.com/track/5hAFKx1IMhvx73JA6MSkIP"
     },
     {
       "album": {
@@ -6528,7 +6564,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167462,
       "name": "Stevie Nicks",
       "url": "https://open.spotify.com/track/15oZEfoDRFS7AzO2aeRpHk"
@@ -6662,7 +6698,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242410,
       "name": "Summer 2000 Baby",
       "url": "https://open.spotify.com/track/6x83tnP3E6Oga5ULleHjt9"

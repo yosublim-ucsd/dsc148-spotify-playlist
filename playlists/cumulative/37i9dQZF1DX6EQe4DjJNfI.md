@@ -4,7 +4,7 @@
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Melly
 
-234 songs - 11 hr 59 min
+235 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [A Nossa Brisa](https://open.spotify.com/track/4Gj5XLeuNou9qVrPhPbvUy) | [Concê](https://open.spotify.com/artist/2XAAXX1lPag133UUSPwXBE) | [Lunar](https://open.spotify.com/album/2ogvDeyLlnIXfnMFTUhCuf) | 1:55 | 2022-12-01 | 2024-07-19 |
 | [A Sós](https://open.spotify.com/track/321ZO0hduSgQ0VR8uljst3) | [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Gaab](https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut), [FRESH](https://open.spotify.com/artist/2BGHRFhBAgK5Dyp2g7PCGh) | [A Sós](https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ) | 2:44 | 2023-07-14 | 2024-02-24 |
 | [Abstinência](https://open.spotify.com/track/04Zcj7MnHdpx5LVNa6qFQs) | [Laví](https://open.spotify.com/artist/3yHeTTNgCEOPgYMvgFpDfC), [Ceejay](https://open.spotify.com/artist/153LZ8U45hIJBW9o1yu7sG), [Khris](https://open.spotify.com/artist/1783PRZnKuh7NekyeKy624) | [Abstinência](https://open.spotify.com/album/0tGnNmRjiCEXAX6toKmFVO) | 2:48 | 2023-07-21 |  |
+| [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 | 2024-09-06 |  |
 | [AMSTERDÃ](https://open.spotify.com/track/5yv1WZnGg25Xp2X5e78Cce) | [Nay](https://open.spotify.com/artist/14O6fkCHntWGqGGibsFpXl) | [AMSTERDÃ](https://open.spotify.com/album/2UCga76KqUyQombwCGGQbN) | 2:28 | 2023-11-10 | 2023-12-10 |
 | [Aos Céus](https://open.spotify.com/track/5dVGO5yaLhJbkEsnMJkvqL) | [Guhhl](https://open.spotify.com/artist/5i1l8M9mY6ICtOVb3JeG1G), [miguelisaneko](https://open.spotify.com/artist/5jTQuRW0DsoMIvTFzR4Mzs) | [Aos Céus](https://open.spotify.com/album/1acdSqlcfpIeOGUiLHefiy) | 2:17 | 2023-01-13 | 2023-01-21 |
 | [Aperta Start](https://open.spotify.com/track/6ByLwg9h4FEHbk1TdDAIdM) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp), [JOK3R](https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq) | [Aperta Start](https://open.spotify.com/album/70KB2kysyDwhfToulSQ5gs) | 2:57 | 2022-11-18 | 2023-04-09 |
@@ -53,7 +54,7 @@
 | [Codinome Exagerado](https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Codinome Exagerado](https://open.spotify.com/album/0d8FtFqVUeUvxMZjJl4peh) | 3:09 | 2024-04-05 |  |
 | [Coisas Simples](https://open.spotify.com/track/4pvK5AbNctlQKAy2Fdvsmp) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [Coisas Simples](https://open.spotify.com/album/1ISojEpGOfxYmhLdALJR6s) | 2:37 | 2023-07-28 |  |
 | [Colchão no Chão](https://open.spotify.com/track/4CggXaIT68pFfn84NYNs3Z) | [Jun Alcan](https://open.spotify.com/artist/7CPlbqxyWd17sV44Morx3V) | [Colchão no Chão](https://open.spotify.com/album/4IeW0GhVCXNDU6tP0NUs6h) | 2:04 | 2024-07-19 | 2024-08-17 |
-| [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 | 2022-11-18 |  |
+| [Conexão](https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy), [Cibelle Aguiar](https://open.spotify.com/artist/3H3sS2mT49ihOlKR4EiEpu) | [Conexão](https://open.spotify.com/album/2rN91P7qGJ70V5cFO3Hl43) | 2:36 | 2022-11-18 | 2024-09-07 |
 | [Conexão](https://open.spotify.com/track/1la5HZeUjpcHZc9nvYt0QH) | [Grazi Oliveira](https://open.spotify.com/artist/7aHcRf4trMihr35Lx1nfbk), [Voraz](https://open.spotify.com/artist/54emVun9PakI9opV4aT5Jb) | [Conexão](https://open.spotify.com/album/3khkTdG4n8XBMDws8buxvH) | 3:05 | 2022-12-01 | 2022-12-03 |
 | [Contraponto](https://open.spotify.com/track/02Uf0sZHNFPxcOZ8pF3EJW) | [DJ Leonardo Rafael](https://open.spotify.com/artist/1H3ly1FV1jdgQTutTBX1tf), [Vanessa Macedo](https://open.spotify.com/artist/5G82Is68b0KHxvFBZSsd0r) | [Contraponto](https://open.spotify.com/album/2tY2W6wy7KGNk2vDfn2732) | 2:47 | 2022-11-18 | 2023-01-14 |
 | [Coração de Fogo](https://open.spotify.com/track/5PTljxsqsyMwwEBIm083rj) | [Truh](https://open.spotify.com/artist/7htWEHwEK1hZFkDeTkdOHQ), [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Coração de Fogo](https://open.spotify.com/album/2kOawmhLWEE2XifSM9boX2) | 2:16 | 2023-04-07 | 2023-05-20 |

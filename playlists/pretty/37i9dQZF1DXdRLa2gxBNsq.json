@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106656,
+  "num_followers": 106685,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -803,26 +803,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "No Sabemos Perder",
-        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
+        "name": "Confrontaci\u00f3n",
+        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
       },
       "artists": [
         {
-          "name": "Kaos Urbano",
-          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
-        },
-        {
-          "name": "Rotten XIII",
-          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
-        },
-        {
-          "name": "Dinamita",
-          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
+          "name": "Soziedad Alkoholika",
+          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
         }
       ],
-      "duration_ms": 240800,
-      "name": "No Sabemos Perder",
-      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
+      "duration_ms": 195049,
+      "name": "Enemigo a las Puertas",
+      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -863,34 +855,26 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Confrontaci\u00f3n",
-        "url": "https://open.spotify.com/album/1wWBq7tWLplVKsSCIVTtkp"
+        "name": "No Sabemos Perder",
+        "url": "https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz"
       },
       "artists": [
         {
-          "name": "Soziedad Alkoholika",
-          "url": "https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3"
-        }
-      ],
-      "duration_ms": 195049,
-      "name": "Enemigo a las Puertas",
-      "url": "https://open.spotify.com/track/4Ek4wT7LeCVgAskl466yd8"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
-      },
-      "artists": [
+          "name": "Kaos Urbano",
+          "url": "https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4"
+        },
         {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+          "name": "Rotten XIII",
+          "url": "https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF"
+        },
+        {
+          "name": "Dinamita",
+          "url": "https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x"
         }
       ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
+      "duration_ms": 240800,
+      "name": "No Sabemos Perder",
+      "url": "https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -915,18 +899,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "No es la primera vez que pasa",
-        "url": "https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU"
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
       },
       "artists": [
         {
-          "name": "mis amigas fuman todas",
-          "url": "https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me"
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
         }
       ],
-      "duration_ms": 127500,
-      "name": "No es la primera vez que pasa",
-      "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 155533,
       "name": "Txus",
       "url": "https://open.spotify.com/track/2PsfVFoxML7Cqa5E66GKO8"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "No es la primera vez que pasa",
+        "url": "https://open.spotify.com/album/6V0HmOz23W95AM8BDhRpsU"
+      },
+      "artists": [
+        {
+          "name": "mis amigas fuman todas",
+          "url": "https://open.spotify.com/artist/7KdIqg2BmTqrSTJm19a8me"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "No es la primera vez que pasa",
+      "url": "https://open.spotify.com/track/4IEUNHdJ55wvFkpfRpIdbs"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "A Bocajarro + Sopla Sopla",
-        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
-      },
-      "artists": [
-        {
-          "name": "Tijuana in blue",
-          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
-        }
-      ],
-      "duration_ms": 289367,
-      "name": "Maki Navaja, El \u00daltimo Chorisso",
-      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Pura dinamita",
         "url": "https://open.spotify.com/album/40FbSqsn2UaGp9n58PPZs9"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 236888,
       "name": "Pura dinamita",
       "url": "https://open.spotify.com/track/4HTiRTeezS06D5LkLrNkKC"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "A Bocajarro + Sopla Sopla",
+        "url": "https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r"
+      },
+      "artists": [
+        {
+          "name": "Tijuana in blue",
+          "url": "https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4"
+        }
+      ],
+      "duration_ms": 289367,
+      "name": "Maki Navaja, El \u00daltimo Chorisso",
+      "url": "https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Arder\u00e1n",
-        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
-      },
-      "artists": [
-        {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        }
-      ],
-      "duration_ms": 182335,
-      "name": "Arder\u00e1n",
-      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Generaci\u00f3n Enferma",
         "url": "https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 175058,
       "name": "No tengo solucion para ese problema",
       "url": "https://open.spotify.com/track/42ySJfPHlWx0jKRDyttptR"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Arder\u00e1n",
+        "url": "https://open.spotify.com/album/2pxQN0Uj57ZfwsqIB02okC"
+      },
+      "artists": [
+        {
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        }
+      ],
+      "duration_ms": 182335,
+      "name": "Arder\u00e1n",
+      "url": "https://open.spotify.com/track/1osGlQ2CrQeIvlEaIUOjzO"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1419,18 +1419,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Nada que me haga resurgir",
-        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
+        "name": "En los M\u00e1rgenes",
+        "url": "https://open.spotify.com/album/5iLVmcfJsSCKHfbJQ49YwM"
       },
       "artists": [
         {
-          "name": "A Cuchillo",
-          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
+          "name": "\u00daltimo Rekurso",
+          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
+        },
+        {
+          "name": "Bestia Parda",
+          "url": "https://open.spotify.com/artist/1CgnghupyXlLJolwnG5wIM"
         }
       ],
-      "duration_ms": 187200,
-      "name": "Nada que me haga resurgir",
-      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
+      "duration_ms": 141783,
+      "name": "Bajo el Cielo Negro",
+      "url": "https://open.spotify.com/track/3BdWDjwdQFl8Fga7ZeekQF"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1451,22 +1455,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "En los M\u00e1rgenes",
-        "url": "https://open.spotify.com/album/5iLVmcfJsSCKHfbJQ49YwM"
+        "name": "Nada que me haga resurgir",
+        "url": "https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI"
       },
       "artists": [
         {
-          "name": "\u00daltimo Rekurso",
-          "url": "https://open.spotify.com/artist/2Pu5Hl4ueNZTwSfAoOwmU9"
-        },
-        {
-          "name": "Bestia Parda",
-          "url": "https://open.spotify.com/artist/1CgnghupyXlLJolwnG5wIM"
+          "name": "A Cuchillo",
+          "url": "https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ"
         }
       ],
-      "duration_ms": 141783,
-      "name": "Bajo el Cielo Negro",
-      "url": "https://open.spotify.com/track/3BdWDjwdQFl8Fga7ZeekQF"
+      "duration_ms": 187200,
+      "name": "Nada que me haga resurgir",
+      "url": "https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1503,8 +1503,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Basura",
-        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7xyExasxLlGYVceDILxbEG"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
         }
       ],
-      "duration_ms": 170453,
-      "name": "Basura",
-      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+      "duration_ms": 198533,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/23ChPzzuCbM0NrxBjLJcS9"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7xyExasxLlGYVceDILxbEG"
+        "name": "Basura",
+        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/23ChPzzuCbM0NrxBjLJcS9"
+      "duration_ms": 170453,
+      "name": "Basura",
+      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
     },
     {
       "added_at": "2024-08-29 22:00:00",

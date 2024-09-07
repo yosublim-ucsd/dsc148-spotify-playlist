@@ -2,7 +2,7 @@
 
 ### [Latin Pop Today](https://open.spotify.com/playlist/37i9dQZF1DX1QnNyJOBQBv)
 
-> Pop on the rise you should know, featuring Sebastian Yatra.
+> Pop on the rise you should know, featuring Ana Mena & Emilia.
 
 542 songs - 1 day 3 hr 56 min
 

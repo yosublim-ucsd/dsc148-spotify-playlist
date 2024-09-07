@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: <a href="spotify:artist:2f0ffZ1gPxazVKo0TossWj">Natalia Nykiel</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,552 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,590 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 11 | [Materiał na żonę](https://open.spotify.com/track/07xSkypf6gceRgjnY1kZGu) | [MODELKI](https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE), [Vłodarski](https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0) | [Materiał na żonę](https://open.spotify.com/album/62rBBeCOYCOIRyN4u2uAh3) | 1:56 |
 | 12 | [Jestem](https://open.spotify.com/track/1POsHOctjuSpNU6uFTOqjq) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Jestem](https://open.spotify.com/album/5r0CDkFob3OnZ07m4b4Qqc) | 2:18 |
 | 13 | [Wiśta wio! \(pianinkowe\)](https://open.spotify.com/track/5H7YyqeaNo4DkPdO758ZIC) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Pianinkowe Kaprysy](https://open.spotify.com/album/2w3g6S6aYCpDWbn9YJytgM) | 4:45 |
-| 14 | [POP](https://open.spotify.com/track/40J1urbVnIAOh3qLUq8agx) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8) | [POP](https://open.spotify.com/album/4HtI0dCsvdQMkntdJytzui) | 2:34 |
+| 14 | [POP](https://open.spotify.com/track/40J1urbVnIAOh3qLUq8agx) | [Dominika Płonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [ciiicho](https://open.spotify.com/artist/0rQ5OCXcg33fZtgN6hv76Z), [Dawid Płonka](https://open.spotify.com/artist/6P8H6nSX040u58IuahsdvF) | [POP](https://open.spotify.com/album/4HtI0dCsvdQMkntdJytzui) | 2:34 |
 | 15 | [Nad Morze](https://open.spotify.com/track/27CrwOUz78ejDV5CkEzuRG) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Nad Morze](https://open.spotify.com/album/6vLQyZsVUjc7CGaj14TO4h) | 2:20 |
 | 16 | [NIE DAŁOBY NIC](https://open.spotify.com/track/3flBw4Ro5F6h093FoHFEHR) | [Sara Kordowska](https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P) | [NIE DAŁOBY NIC](https://open.spotify.com/album/1VsNqqr93aam4f6uHqHO7F) | 3:20 |
 | 17 | [JA SIĘ CHYBA ZAKOCHAŁAM](https://open.spotify.com/track/33Ui7IlIv8gpmxzbFP5lcl) | [Cyrko](https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL) | [JA SIĘ CHYBA ZAKOCHAŁAM](https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp) | 2:31 |

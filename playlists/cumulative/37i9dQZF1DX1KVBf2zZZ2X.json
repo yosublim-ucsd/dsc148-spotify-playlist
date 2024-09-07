@@ -1067,6 +1067,24 @@
     },
     {
       "album": {
+        "name": "Forelsket (Forest)",
+        "url": "https://open.spotify.com/album/0UVFZXy1YjkkbfvIUwlRrK"
+      },
+      "artists": [
+        {
+          "name": "Orvalis",
+          "url": "https://open.spotify.com/artist/0PEVq7ryAUqJhVdgfiBSXz"
+        }
+      ],
+      "date_added": "2024-09-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Forelsket (Forest)",
+      "url": "https://open.spotify.com/track/0zFOeiohiKokdL3k4wka7J"
+    },
+    {
+      "album": {
         "name": "Forest Dreams (432 Hz)",
         "url": "https://open.spotify.com/album/7B50BUzP7oYe4I4guHZonZ"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 174500,
       "name": "Forest Dreams (432 Hz)",
       "url": "https://open.spotify.com/track/1eLXhJf2bLfeghNsz7FpxV"
@@ -2860,7 +2878,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-21",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 265000,
       "name": "Winter Lake",
       "url": "https://open.spotify.com/track/4Mt9I6V6rXSPrQIiKfrqi6"

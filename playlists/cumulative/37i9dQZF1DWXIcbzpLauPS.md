@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: thrown
 
-994 songs - 2 day 13 hr 39 min
+995 songs - 2 day 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Bullets in My Teeth](https://open.spotify.com/track/5bZGe4dOdN52F1DgkeC9I9) | [Drag Me Out](https://open.spotify.com/artist/2dg4ezhcEZKGGNJkCqbvHB) | [Bullets in My Teeth](https://open.spotify.com/album/3NJhDpBpUGeDvuPru8Vou2) | 4:55 | 2022-07-13 | 2022-07-23 |
 | [Burden](https://open.spotify.com/track/0W2pvsskj1e50sC2KL9Gge) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Burden](https://open.spotify.com/album/2fs6Z7LmQT1hd81hM8YlZx) | 4:05 | 2024-06-04 |  |
 | [Burden Pt\. 2 \(feat\. Ben Duerr\)](https://open.spotify.com/track/1yOIXuOyRGaKIFVDxdeBBx) | [FRCTRD](https://open.spotify.com/artist/7z9n8Q0icbgvXqx1RWoGrd), [Ben Duerr](https://open.spotify.com/artist/7a1cpOUMFElbFHwLsArfEp) | [Somehow // Somewhere](https://open.spotify.com/album/1WPvBepmgRMfPwpqLggBjH) | 3:55 | 2021-12-17 | 2022-01-15 |
-| [Burial Season](https://open.spotify.com/track/6nCXEWuVVQEV7HsJw42w2P) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Burial Season](https://open.spotify.com/album/74TAGFxDG7NRr4lZBNkud0) | 3:42 | 2024-08-12 |  |
+| [Burial Season](https://open.spotify.com/track/6nCXEWuVVQEV7HsJw42w2P) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Burial Season](https://open.spotify.com/album/74TAGFxDG7NRr4lZBNkud0) | 3:42 | 2024-08-12 | 2024-09-07 |
 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 | 2021-12-17 | 2022-01-22 |
 | [Buried In Thorns](https://open.spotify.com/track/0wqUOfb0HekBuIJAmQ3EcU) | [Convictions](https://open.spotify.com/artist/0PNbGkwlV3farYnmoojYAY) | [Buried In Thorns](https://open.spotify.com/album/1WOpoJ8OkF1MdOSnyhdzOW) | 3:26 | 2024-07-12 | 2024-08-08 |
 | [Burn](https://open.spotify.com/track/3PK7lPF9uv1deSDkTuemZO) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Burn](https://open.spotify.com/album/2eTDWs3EX9OGigTDTNIEjJ) | 3:15 | 2024-05-10 | 2024-07-13 |
@@ -212,7 +212,7 @@
 | [Crossed](https://open.spotify.com/track/0YyA97knsEX1T0j1dMVfPC) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Crossed](https://open.spotify.com/album/1UMgA7ETQAijzHYDsTDi1X) | 3:00 | 2021-12-17 | 2022-03-18 |
 | [Cryogenesis](https://open.spotify.com/track/1V0oIGML0KMNw9NM7EbiNu) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ), [Lochie Keogh](https://open.spotify.com/artist/2PIGfJ2w0GNCiqKvWkCdaC) | [Cryogenesis](https://open.spotify.com/album/5m9Fq0GSp4fSvypPBtxA2U) | 4:27 | 2022-07-13 | 2022-07-16 |
 | [Crystal Prison](https://open.spotify.com/track/62Bx1A1qyruvGgdL2oyxNK) | [Defamed](https://open.spotify.com/artist/5Yu9Nd4YF69bAfAaoqIg5r) | [Crystal Prison](https://open.spotify.com/album/34CWrX8ir3athSVoL6tyvq) | 4:15 | 2022-07-13 | 2022-07-23 |
-| [CTRL](https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [CTRL](https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3) | 2:43 | 2024-07-12 | 2024-08-26 |
+| [CTRL](https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [CTRL](https://open.spotify.com/album/3ygJ8CQHYRGGD6hkESVgi3) | 2:43 | 2024-07-12 |  |
 | [Cure](https://open.spotify.com/track/5zV1FnszuSKBo7EdUEQx3G) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Cure](https://open.spotify.com/album/6Ab9ahxlOgEur1mr1EpZH0) | 3:45 | 2024-02-09 | 2024-03-28 |
 | [Curse](https://open.spotify.com/track/65VHUZPZKgaG4SJVRkBPzn) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Curse](https://open.spotify.com/album/29w7d7KKgGkgQ4qmu56SQe) | 3:00 | 2024-04-12 |  |
 | [Cursed](https://open.spotify.com/track/35AnnRbyLg8Kpx90pV4XWI) | [Distant](https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ) | [Cursed](https://open.spotify.com/album/26qjo1q0NJ4y6lPnK9LGpI) | 4:09 | 2022-07-13 | 2022-07-23 |
@@ -341,7 +341,7 @@
 | [Fade](https://open.spotify.com/track/1V4inJk5yBs6RnpRk9R7ba) | [Cane Hill](https://open.spotify.com/artist/0DZKzOGHDqGaf1N2pmsBRZ) | [Fade](https://open.spotify.com/album/7cFNlL6pXQpLXRn09MvdsI) | 2:51 | 2024-08-12 |  |
 | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/track/5l4DU5tgUtLqFSxir6y0dp) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Faded Out \(feat\. Within Temptation\)](https://open.spotify.com/album/0i4ilwdkroLzNxb3SD0SjW) | 3:05 | 2022-05-20 | 2023-02-18 |
 | [Fail Me](https://open.spotify.com/track/3upMhQ1k7fqbptA2eKqE1V) | [Thousand Thoughts](https://open.spotify.com/artist/27BickAUDQz5wziY0VOA2S), [Cyan Kicks](https://open.spotify.com/artist/6nA097TpH4DgdzRYFXAXry) | [Fail Me](https://open.spotify.com/album/6DQlvYwVg564TonxkvAEzl) | 2:59 | 2021-12-17 | 2022-01-22 |
-| [Failstate](https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Failstate](https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT) | 3:02 | 2024-08-12 |  |
+| [Failstate](https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8) | [Gravemind](https://open.spotify.com/artist/2GaM9ww6p0aBZ8omjfINAH), [Mick Gordon](https://open.spotify.com/artist/13ab1LgQZ3tQOhkDRRYB8Y) | [Failstate](https://open.spotify.com/album/6FrjXIoevSDuqDYvuxvGkT) | 3:02 | 2024-08-12 | 2024-09-07 |
 | [Fake](https://open.spotify.com/track/3mRzGcJEALdNzIAtB6zNGC) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Fake](https://open.spotify.com/album/1ZpQ90fibmw05I0xYADvAL) | 3:35 | 2022-07-13 | 2022-07-23 |
 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 | 2023-07-28 | 2024-06-11 |
 | [Falling Out](https://open.spotify.com/track/2TUYYkcaeJnvrMhuPCChPd) | [Secrets](https://open.spotify.com/artist/1TRVqozKc5Qk1cjwRdWBSl) | [Falling Out](https://open.spotify.com/album/223iUCGmxUNpQK2F8gK4qt) | 3:53 | 2022-04-15 | 2022-06-11 |
@@ -745,6 +745,7 @@
 | [Samsara](https://open.spotify.com/track/75hUTjvvI6X6CQJ0HvmmX8) | [Elyne](https://open.spotify.com/artist/2ldJ3WucPLlQJBtoNnl3Dk) | [Samsara](https://open.spotify.com/album/1aJPBAfywf1Vsi5vkvSMMV) | 3:44 | 2021-12-17 | 2022-02-18 |
 | [Sapiens](https://open.spotify.com/track/5EgV8FKEaHyIItt0swNjhO) | [ASHEN](https://open.spotify.com/artist/0ussJndMOAWWfaUtXSttFU) | [Sapiens](https://open.spotify.com/album/2DuGroRwamTPVVIWZxJNWz) | 3:43 | 2021-12-17 | 2022-02-18 |
 | [Satanic Panic](https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh) | [Impending Doom](https://open.spotify.com/artist/0sxW2BJTemkPy8tDeO1s0t) | [Satanic Panic](https://open.spotify.com/album/23AQtVK3O0inRP1rBAuwcG) | 3:19 | 2022-07-13 | 2022-07-23 |
+| [Sayonara](https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk) | [Enemy Inside](https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy) | [Sayonara](https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA) | 2:44 | 2024-08-30 |  |
 | [Scars](https://open.spotify.com/track/2vBwejT7xi8pDeGYxmY8vi) | [Arrival Of Autumn](https://open.spotify.com/artist/6OLm78czd7Y80yrzwAb7FK) | [Scars](https://open.spotify.com/album/4JpyEPmtqUY38STlkVZrFM) | 3:31 | 2023-03-10 | 2023-05-06 |
 | [Scars On A Soul](https://open.spotify.com/track/7zuuCnA5KwE12ij3up8i4P) | [Boundaries](https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I) | [Scars On A Soul](https://open.spotify.com/album/5DMaqfH3GHcqcxbeTQaYRH) | 2:48 | 2024-03-27 | 2024-06-11 |
 | [Scorched Earth](https://open.spotify.com/track/2HeZ83vUcp2nQqvSlsWMC8) | [Gutrectomy](https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD), [Filth](https://open.spotify.com/artist/4v3LXseeTJyL6GVDS2N8oY) | [Scorched Earth](https://open.spotify.com/album/7FTmfJvqaXMAQMVafKDsrt) | 3:50 | 2022-07-13 | 2022-07-22 |

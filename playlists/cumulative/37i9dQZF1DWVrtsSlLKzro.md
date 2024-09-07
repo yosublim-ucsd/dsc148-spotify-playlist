@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-349 songs - 20 hr 44 min
+351 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Affliction \(Tiësto & Zaxx, feat\. Olivera\)](https://open.spotify.com/track/3p7KP0WUSpQf5r2xtkws1F) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Zaxx](https://open.spotify.com/artist/1VF81Q4Usmpf2fgjEV3HPJ), [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [Ninjawerks \(Vol.1\)](https://open.spotify.com/album/2ndLlrpXSt6w43yBnFuelU) | 5:31 | 2021-12-03 | 2022-05-07 |
 | [Afraid of Love](https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg) | [Afraid of Love](https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF) | 2:31 | 2022-03-25 | 2023-06-10 |
 | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/track/6DiogHhtwkVgUHUDUJVuXV) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Calle Lehmann](https://open.spotify.com/artist/2QeNM65b7IWvK4Ofcqz8cm) | [After You \(feat\. Calle Lehmann\)](https://open.spotify.com/album/1RDosPV9LVUjxUxpzyXHB6) | 3:44 | 2021-12-03 |  |
+| [All Falls Down](https://open.spotify.com/track/41BcwBcn1NrL2cJk69pYA8) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [All Falls Down](https://open.spotify.com/album/3LLqzHqmnu04kBA5y4Umhy) | 3:18 | 2024-09-06 |  |
 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 | 2023-06-16 |  |
 | [All Over Again](https://open.spotify.com/track/4r5mEn6TJkBQiGQ2maYmAc) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd) | [All Over Again](https://open.spotify.com/album/5u9TttJhMf103obJNBYlnP) | 3:21 | 2021-12-03 | 2023-06-10 |
 | [All We Have Is Now](https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ) | [Just Her](https://open.spotify.com/artist/6SI2JOqTJwLVX63w28PxoL) | [All We Have Is Now / Stay The Same](https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny) | 4:12 | 2021-12-03 | 2022-02-12 |
@@ -309,6 +310,7 @@
 | [The Trouble with Us](https://open.spotify.com/track/47OJzoslrchHSbjAeR4Srv) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2MrsSz89mk5XCcRF3gccLG) | 3:43 | 2022-05-06 | 2022-10-03 |
 | [The Trouble with Us](https://open.spotify.com/track/6zsoP81Lhi2XfAb0k1ZULN) | [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [Happiness, Guaranteed](https://open.spotify.com/album/2CqFgdXnnF8nmsiP9qDuhX) | 3:43 | 2022-07-15 | 2023-06-10 |
 | [The Way You Had Me](https://open.spotify.com/track/0FYWktQGzoRXziTRhx25zS) | [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [The Way You Had Me](https://open.spotify.com/album/1hqh886eKNsGirbCiY6zri) | 3:10 | 2023-08-28 |  |
+| [Think That You Should Know](https://open.spotify.com/track/3xtGtIKWBcxrqxZD6YbB9I) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Think That You Should Know](https://open.spotify.com/album/1xAPTsCJ6nmuNiP7vVemlr) | 2:54 | 2024-09-06 |  |
 | [To Last](https://open.spotify.com/track/10aCY2jJFNYGf9qpiN2LZy) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [To Last](https://open.spotify.com/album/00RMnS3psKLla6O7sYp8mB) | 2:56 | 2022-11-11 | 2024-04-19 |
 | [Treading Water](https://open.spotify.com/track/4b7pT27gKEESHwnffFMDUp) | [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Treading Water](https://open.spotify.com/album/20ZPAqgm26vHBDt3S6oRLu) | 3:37 | 2022-08-12 |  |
 | [Trust Issues](https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Adam Pearce](https://open.spotify.com/artist/0AhdWP01wLAKxDfhsKMEKf), [Zack Gray](https://open.spotify.com/artist/4ts4KzTqLDytonufwGpl9l) | [Trust Issues](https://open.spotify.com/album/1l3DW3iuvlS7uxxhxjAWoF) | 3:02 | 2022-03-04 |  |

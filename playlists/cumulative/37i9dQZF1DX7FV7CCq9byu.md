@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-238 songs - 12 hr 3 min
+239 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [LIFETIMES](https://open.spotify.com/track/0K8sKuo6xLHZgySZmmw2rV) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [LIFETIMES](https://open.spotify.com/album/6UEGp3MQnsKoK9rwKcKBUo) | 3:12 | 2024-08-09 |  |
 | [Lips](https://open.spotify.com/track/12vs8cG1lkt4Eq53nLK2GV) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [Lips](https://open.spotify.com/album/4pAwod3owXQHQIBQwMM5a9) | 2:15 | 2024-06-27 | 2024-08-09 |
 | [Listen To Your Heart](https://open.spotify.com/track/7e3mQDMCil8G4EQMwWuiHp) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Mangoo](https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3), [Derek Cate](https://open.spotify.com/artist/6obanUFiN0hVgGy3Nng7FQ), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [Listen To Your Heart](https://open.spotify.com/album/5HwUADTE6Lw4BPIGMeJ5DS) | 2:48 | 2024-07-11 | 2024-09-06 |
+| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-05 |  |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-27 | 2024-08-09 |
 | [Look Who's Laughing Now](https://open.spotify.com/track/5iBSvGT3waImHIGW1eEeH7) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Look Who's Laughing Now](https://open.spotify.com/album/3O3FXwwOlzxhWbETL8sfe3) | 2:54 | 2024-06-27 | 2024-08-16 |
 | [Lost](https://open.spotify.com/track/2gPlXEZuNmKwbS6GGcfsJ9) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Lind](https://open.spotify.com/artist/6ZQBXGkfsnDOQjTnb2lGMI) | [Lost](https://open.spotify.com/album/7oxGGHmcPDXDWxnRnnoQCv) | 2:17 | 2024-07-25 | 2024-09-06 |

@@ -7421,6 +7421,28 @@
     },
     {
       "album": {
+        "name": "Parshawan Naar Da (From \"Sucha Soorma\")",
+        "url": "https://open.spotify.com/album/4aJXFeb1uBpjiM3SS5GUD1"
+      },
+      "artists": [
+        {
+          "name": "Babbu Maan",
+          "url": "https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es"
+        },
+        {
+          "name": "Alamgir Khan",
+          "url": "https://open.spotify.com/artist/0cczE6c7kfFCBQt96AV4Nt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186374,
+      "name": "Parshawan Naar Da (From \"Sucha Soorma\")",
+      "url": "https://open.spotify.com/track/34FbOiAkJr9R9cbKaQW2do"
+    },
+    {
+      "album": {
         "name": "Y Hate ?",
         "url": "https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ"
       },
@@ -9342,7 +9364,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 147500,
       "name": "Time Hai Ni",
       "url": "https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3"

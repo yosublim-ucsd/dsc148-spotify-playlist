@@ -2,7 +2,7 @@
 
 ### [Banger](https://open.spotify.com/playlist/37i9dQZF1DX5wB72P2sVsT)
 
-> Robin Schulz au top des bangers dance/electro du moment !
+> Timmy Trumpet au top des bangers dance/electro du moment !
 
 183 songs - 8 hr 23 min
 

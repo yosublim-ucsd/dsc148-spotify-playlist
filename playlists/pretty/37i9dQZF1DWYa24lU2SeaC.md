@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 
 > Chantez sur tous vos titres Disney préférés tels que La Reine des neiges, Encanto: la fantastique famille Madrigal, Wish: Asha et la bonne étoile, Vaiana: la légende du bout du monde, Tarzan, Aladdin, Élémentaire, Mulan, Le Roi lion et bien d'autres encore!
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,482 likes - 90 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,520 likes - 90 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYa24lU2SeaC.md) - [plain]
 | 87 | [This Is Me \- From "Camp Rock"](https://open.spotify.com/track/1570rO6Ld2CQtylj79nZuI) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [Your Favorite Songs from 100 Disney Channel Original Movies](https://open.spotify.com/album/5gmYqZjyX50yWhiT31hUxJ) | 3:07 |
 | 88 | [Je te cherche](https://open.spotify.com/track/61UKFFulJ7bwozNc9YC9Mv) | [Charlotte Hervieux](https://open.spotify.com/artist/2JpbgGjzeOmHt3igN0Mjyj), [Prisca Demarez](https://open.spotify.com/artist/1ZNeSXTk2u7tVWmUpZPI2r) | [La Reine des Neiges 2 \(Bande Originale Française du Film/Deluxe Edition\)](https://open.spotify.com/album/4TjH6kPf6mpsrvVALdPFwT) | 4:21 |
 | 89 | [Heigh\-Ho! \- De "Blanche Neige et les Septs Nains"/Bande Originale Française du Film](https://open.spotify.com/track/2rKmPMazCwiNGAR7RU3vFz) | [Jean\-Claude Donda](https://open.spotify.com/artist/5BhhCbGvQl1PRQQHtFRZbR), [Gérard Rinaldi](https://open.spotify.com/artist/1MBUiD2DMxcJFyooGAgbwY), [Michel Mella](https://open.spotify.com/artist/35fkmjrcGuYbA7sKavl0Kr), [Bernard Alane](https://open.spotify.com/artist/6erIniMquTM6dIgiYbIeeZ), [Jean\-Loup Horwitz](https://open.spotify.com/artist/1CNb9sd2SXhnEq29QRHBkE) | [Blanche Neige et les Septs Nains](https://open.spotify.com/album/0zxZvGCjP1MnLIDiyblWR0) | 2:46 |
-| 90 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 |
+| 90 | [If Only](https://open.spotify.com/track/1mRBJdpIgc3jZH8C3cN2WV) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \- Original TV Movie Soundtrack](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 3:49 |
 
 Snapshot ID: `Zlnu2QAAAABn5ckN2Ja+pNJr3i34R9+m`

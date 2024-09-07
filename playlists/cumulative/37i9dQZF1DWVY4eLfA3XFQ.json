@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "Addiction / Yapper",
+        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
+    },
+    {
+      "album": {
         "name": "Addiction",
         "url": "https://open.spotify.com/album/1qHMGF3yqe6mlrV8HhGZnE"
       },
@@ -3028,7 +3050,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 120930,
       "name": "Bidi Bam",
       "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
@@ -3174,7 +3196,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 219375,
       "name": "Billz",
       "url": "https://open.spotify.com/track/1nZJzm6DEMydw6sAgdtK54"
@@ -5213,6 +5235,24 @@
     },
     {
       "album": {
+        "name": "Carnaval - EP",
+        "url": "https://open.spotify.com/album/4L2O1axvPT7pcyIegodN6A"
+      },
+      "artists": [
+        {
+          "name": "Mel\u00e9",
+          "url": "https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Carnaval - Edit",
+      "url": "https://open.spotify.com/track/0URKgKj0Bv3Y9WWowdTi6U"
+    },
+    {
+      "album": {
         "name": "Carnaval de Paris",
         "url": "https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3"
       },
@@ -6983,6 +7023,24 @@
     },
     {
       "album": {
+        "name": "Dat Drip",
+        "url": "https://open.spotify.com/album/0O8NEwXcEISgHS8inDqWKp"
+      },
+      "artists": [
+        {
+          "name": "DEM2",
+          "url": "https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231802,
+      "name": "Dat Drip",
+      "url": "https://open.spotify.com/track/1Ib8CVpUEKuqfnIB9T5gt8"
+    },
+    {
+      "album": {
         "name": "Deceiver (VIP)",
         "url": "https://open.spotify.com/album/0ZoupfyYTGUYKWTaZ8rymq"
       },
@@ -7020,6 +7078,24 @@
       "duration_ms": 154293,
       "name": "Deep In Your Heart",
       "url": "https://open.spotify.com/track/4aWzNzb2VXhqQw491l9yB1"
+    },
+    {
+      "album": {
+        "name": "Deep Inside",
+        "url": "https://open.spotify.com/album/2DbjarFHBuwTKFS7uZFH8O"
+      },
+      "artists": [
+        {
+          "name": "Blank Sense",
+          "url": "https://open.spotify.com/artist/1mNaFNd040ikmEIjqfuYpw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "Deep Inside",
+      "url": "https://open.spotify.com/track/4MAxbsOLvmCs8R44gqD8lV"
     },
     {
       "album": {
@@ -7646,7 +7722,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 206250,
       "name": "Do It Like This",
       "url": "https://open.spotify.com/track/5BdUzqEtecxcPOhLholdqb"
@@ -7974,6 +8050,24 @@
       "duration_ms": 210000,
       "name": "Don't Forget My Love - John Summit Remix",
       "url": "https://open.spotify.com/track/55PAYYJuYlKsW4DEcaBpC3"
+    },
+    {
+      "album": {
+        "name": "Don't Know (What)",
+        "url": "https://open.spotify.com/album/7t5ey15Jy62l6bhVEnrg0N"
+      },
+      "artists": [
+        {
+          "name": "Sharam",
+          "url": "https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199603,
+      "name": "Don't Know (What)",
+      "url": "https://open.spotify.com/track/7gbt2lraiddkd9qUNpmorf"
     },
     {
       "album": {
@@ -9884,7 +9978,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 199133,
       "name": "Fan\u00e1tico",
       "url": "https://open.spotify.com/track/0zjlFMd5NRR1XrOwP2ZTtQ"
@@ -10766,6 +10860,24 @@
       "duration_ms": 142851,
       "name": "Fired Up (feat. Dope Earth Alien)",
       "url": "https://open.spotify.com/track/2mousixdXA889XtIUb2Qfh"
+    },
+    {
+      "album": {
+        "name": "FIREFLY",
+        "url": "https://open.spotify.com/album/2bpXWzFpGneqtKeVt1Gy2b"
+      },
+      "artists": [
+        {
+          "name": "BOABOA",
+          "url": "https://open.spotify.com/artist/4mKUe5fXczBct2trum2q1o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177261,
+      "name": "FIREFLY",
+      "url": "https://open.spotify.com/track/0H8dcNDVkHUEfQq0EvmMzR"
     },
     {
       "album": {
@@ -13659,6 +13771,28 @@
     },
     {
       "album": {
+        "name": "Horny",
+        "url": "https://open.spotify.com/album/06r7GDrgzhhO0uP6q0Fx9N"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        },
+        {
+          "name": "TOBEHONEST",
+          "url": "https://open.spotify.com/artist/5aE4f6qwsXT5hACySkxJQo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182812,
+      "name": "Horny",
+      "url": "https://open.spotify.com/track/04GYAnoZJajIurWLcjTMIF"
+    },
+    {
+      "album": {
         "name": "Hot Flash",
         "url": "https://open.spotify.com/album/5rNbnnFAtfIMzodXgCoFMX"
       },
@@ -14174,7 +14308,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 200000,
       "name": "Hypnotic",
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
@@ -14670,6 +14804,28 @@
       "duration_ms": 247858,
       "name": "I Wanna",
       "url": "https://open.spotify.com/track/0XNJP02GwM5Bz3Kj7joskF"
+    },
+    {
+      "album": {
+        "name": "I Wanna Be U",
+        "url": "https://open.spotify.com/album/5DDLVW7ulqWjEI2biaX9PQ"
+      },
+      "artists": [
+        {
+          "name": "Tita Lau",
+          "url": "https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h"
+        },
+        {
+          "name": "Chocolate Puma",
+          "url": "https://open.spotify.com/artist/5Aw0IGM5JS3FuTgtRsDWGA"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "I Wanna Be U",
+      "url": "https://open.spotify.com/track/1WW6raNvbxQ3zqScGHr7Ym"
     },
     {
       "album": {
@@ -23699,6 +23855,28 @@
     },
     {
       "album": {
+        "name": "Pegao",
+        "url": "https://open.spotify.com/album/6y1Fi9CczyD0QDxMKyMwGB"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218813,
+      "name": "Pegao",
+      "url": "https://open.spotify.com/track/0LmYyhrISLyWmZKyoNUs02"
+    },
+    {
+      "album": {
         "name": "Peligrosa",
         "url": "https://open.spotify.com/album/2K5Q5i0Wj9WyCBSNixb7xg"
       },
@@ -26840,7 +27018,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 155156,
       "name": "Selecta",
       "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
@@ -26928,7 +27106,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 143255,
       "name": "SET ME FREE",
       "url": "https://open.spotify.com/track/7d77ZXhiCR2zwedZrfJZCD"
@@ -27330,6 +27508,28 @@
       "duration_ms": 148058,
       "name": "Shake, Shake - Flex UK Edit",
       "url": "https://open.spotify.com/track/492rGry8q5ZkotUPVbX5rU"
+    },
+    {
+      "album": {
+        "name": "Shapeshifter",
+        "url": "https://open.spotify.com/album/4eckRviJJ9evFNBgxpOApM"
+      },
+      "artists": [
+        {
+          "name": "Kyle Watson",
+          "url": "https://open.spotify.com/artist/7LJSAfWhO7jhjnewy6pKyZ"
+        },
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190232,
+      "name": "Shapeshifter",
+      "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
     },
     {
       "album": {
@@ -28304,7 +28504,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 180000,
       "name": "So Different",
       "url": "https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc"
@@ -30826,7 +31026,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177724,
       "name": "The Empty Spaces",
       "url": "https://open.spotify.com/track/7DYuawZFCKbnEwU79ALZRu"
@@ -31820,7 +32020,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 197648,
       "name": "This Is Test",
       "url": "https://open.spotify.com/track/66JPCXqRUYNtanxZwujO8Z"
@@ -35227,6 +35427,28 @@
     },
     {
       "album": {
+        "name": "Work",
+        "url": "https://open.spotify.com/album/6H4Gtf6Cqa5b9tIuRfPJ46"
+      },
+      "artists": [
+        {
+          "name": "Sven Fields",
+          "url": "https://open.spotify.com/artist/6fE47lKKAEbIrbim4FQGS2"
+        },
+        {
+          "name": "Kapuchon",
+          "url": "https://open.spotify.com/artist/1x8zJjYRYiDgXA8J4uopMt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154903,
+      "name": "Work",
+      "url": "https://open.spotify.com/track/4YiJqjUolSijPyCoWqwftq"
+    },
+    {
+      "album": {
         "name": "Work (Maxinne Remix)",
         "url": "https://open.spotify.com/album/0mCEeXDKCStSf4torjH9Ra"
       },
@@ -35720,7 +35942,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 235680,
       "name": "You Know It",
       "url": "https://open.spotify.com/track/64Kw68jjKqqYK5hQrCkrVT"

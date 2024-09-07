@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "A Time For Every Season",
+        "url": "https://open.spotify.com/album/7FBvmyfAq6g2guJQZ8FaGD"
+      },
+      "artists": [
+        {
+          "name": "Shelton & Williams",
+          "url": "https://open.spotify.com/artist/6g99fMay1W8UAmpcLtMINe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197706,
+      "name": "Baby I Just Do",
+      "url": "https://open.spotify.com/track/56ktHoJih7TlM2VO9ZL67J"
+    },
+    {
+      "album": {
         "name": "Back with a Lonesome Sound",
         "url": "https://open.spotify.com/album/2pCKHKFTmBm4NenqDPhBHV"
       },
@@ -1297,6 +1315,42 @@
     },
     {
       "album": {
+        "name": "Here I Go",
+        "url": "https://open.spotify.com/album/7xM7bWmPwFjCRkZGaPRHgl"
+      },
+      "artists": [
+        {
+          "name": "Yonder Mountain String Band",
+          "url": "https://open.spotify.com/artist/1ReHC2jB2DGoPbMYhzuFuO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314760,
+      "name": "Here I Go",
+      "url": "https://open.spotify.com/track/2pVAW2Q1me86zD9IQqAMfp"
+    },
+    {
+      "album": {
+        "name": "Hey Mama",
+        "url": "https://open.spotify.com/album/6jbjeX1ZiZnfrzid52Mnfx"
+      },
+      "artists": [
+        {
+          "name": "Mountain Grass Unit",
+          "url": "https://open.spotify.com/artist/0FWlJ725NEZpxqxjZG3yGl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265862,
+      "name": "Hey Mama",
+      "url": "https://open.spotify.com/track/6HriPzZvnKWnC1OiNGCASp"
+    },
+    {
+      "album": {
         "name": "Weary Ramblers",
         "url": "https://open.spotify.com/album/5vH9LVfYyyEv1mZyB4zU1A"
       },
@@ -1446,6 +1500,32 @@
       "duration_ms": 252520,
       "name": "Hubbardville Store",
       "url": "https://open.spotify.com/track/4KHYxOzUmq7YbfV2dq0dFM"
+    },
+    {
+      "album": {
+        "name": "Hummingbird (feat. Allison de Groot & Tatiana Hargreaves)",
+        "url": "https://open.spotify.com/album/5RQXF0BYzEgrxtXmbSuhP5"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Williams",
+          "url": "https://open.spotify.com/artist/4j8CsPzssbM8TCjSvgnmSs"
+        },
+        {
+          "name": "Allison De Groot",
+          "url": "https://open.spotify.com/artist/0LVLU0MXmJ1GfWczl4i2MY"
+        },
+        {
+          "name": "Tatiana Hargreaves",
+          "url": "https://open.spotify.com/artist/63Xd2NZV9SzwjChcdH5QsK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351173,
+      "name": "Hummingbird (feat. Allison de Groot & Tatiana Hargreaves)",
+      "url": "https://open.spotify.com/track/7rGxSnSvzHLtsyM7wfqTYV"
     },
     {
       "album": {
@@ -1695,6 +1775,28 @@
     },
     {
       "album": {
+        "name": "If You Dare",
+        "url": "https://open.spotify.com/album/0mZRkrbHALccpsZJ3fNxQD"
+      },
+      "artists": [
+        {
+          "name": "Brenna MacMillan",
+          "url": "https://open.spotify.com/artist/4AFECWlZxQj0hZXvKdOi3x"
+        },
+        {
+          "name": "Peter Rowan",
+          "url": "https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187533,
+      "name": "If You Dare",
+      "url": "https://open.spotify.com/track/5y5itGivdrqVfe0RoZi4rM"
+    },
+    {
+      "album": {
         "name": "Ijams",
         "url": "https://open.spotify.com/album/0yathcyg0W8Zm4UpSeFpp3"
       },
@@ -1898,6 +2000,24 @@
       "duration_ms": 175835,
       "name": "Keepers of the Flame",
       "url": "https://open.spotify.com/track/3juh17WUSc9M17xaqDrR6g"
+    },
+    {
+      "album": {
+        "name": "Sweet Critters",
+        "url": "https://open.spotify.com/album/5WqBz1TAV3T2xH9rApLMqP"
+      },
+      "artists": [
+        {
+          "name": "Caleb Caudle",
+          "url": "https://open.spotify.com/artist/2FZLOlw11Ta6hcSK6a7FPU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152586,
+      "name": "Kentucky When You Called",
+      "url": "https://open.spotify.com/track/7j2dXq1QzmQcU9gnioN78o"
     },
     {
       "album": {
@@ -2289,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "Out of Control Raging Fire",
+        "url": "https://open.spotify.com/album/3E0GQO4BhDTrvNlHM7C83i"
+      },
+      "artists": [
+        {
+          "name": "Greg Blake",
+          "url": "https://open.spotify.com/artist/4f2gzMqgQ6EWMt5Zl29igY"
+        },
+        {
+          "name": "Amanda Cook",
+          "url": "https://open.spotify.com/artist/6BoGPE6HncyAwa1Ka8uQVn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214598,
+      "name": "Out of Control Raging Fire",
+      "url": "https://open.spotify.com/track/6FMmdFTRAW45fJR8sWtQOw"
+    },
+    {
+      "album": {
         "name": "Outrun The Rain",
         "url": "https://open.spotify.com/album/71QwOCif4gMjnlZeJLybdP"
       },
@@ -2614,6 +2756,46 @@
       "duration_ms": 177313,
       "name": "Rain And Snow",
       "url": "https://open.spotify.com/track/5iJoRMKPmYcbgaSTT2M5hE"
+    },
+    {
+      "album": {
+        "name": "Ramblin' kind",
+        "url": "https://open.spotify.com/album/4SY5F9R9SeclKf1nCMO8s9"
+      },
+      "artists": [
+        {
+          "name": "Zachary Lucky",
+          "url": "https://open.spotify.com/artist/6iOhLVSyUQsVyW3rk8TI6E"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207386,
+      "name": "Ramblin' kind",
+      "url": "https://open.spotify.com/track/1VvffbIbMD23glYdfadEYo"
+    },
+    {
+      "album": {
+        "name": "Clayton Nile Young Live AF Session - Live AF Version",
+        "url": "https://open.spotify.com/album/5oOt5kqd9waKLHbnJKQmZT"
+      },
+      "artists": [
+        {
+          "name": "Clayton Nile Young",
+          "url": "https://open.spotify.com/artist/1Pjj9uWZiJXloNcHIJzsNm"
+        },
+        {
+          "name": "Western AF",
+          "url": "https://open.spotify.com/artist/38BGLBLY0VY8en79K3ecmK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185932,
+      "name": "Richest Man Alive - Live AF Version",
+      "url": "https://open.spotify.com/track/62ZjiB03JIgFizq44VF5j6"
     },
     {
       "album": {
@@ -3123,6 +3305,32 @@
     },
     {
       "album": {
+        "name": "The Log Train",
+        "url": "https://open.spotify.com/album/3jscRlUzKI0xPfdKZBpAre"
+      },
+      "artists": [
+        {
+          "name": "Lonesome Ace Stringband",
+          "url": "https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb"
+        },
+        {
+          "name": "John Showman",
+          "url": "https://open.spotify.com/artist/7LcJJJFnWyr4LrudLL3fpN"
+        },
+        {
+          "name": "Chris Coole",
+          "url": "https://open.spotify.com/artist/6FrFN8PoG2qUy8apsYeN8o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202102,
+      "name": "The Log Train",
+      "url": "https://open.spotify.com/track/5m7UEuDepc6fILBeoBJ6Dx"
+    },
+    {
+      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/36cT6S2JKQLQWYRMXAe0SS"
       },
@@ -3319,6 +3527,24 @@
     },
     {
       "album": {
+        "name": "Too Much of Everything",
+        "url": "https://open.spotify.com/album/6Y6RL7uf3p7foep0bsKcY3"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118016,
+      "name": "Too Much of Everything",
+      "url": "https://open.spotify.com/track/3CfFlJPW2VwFyDN6C6SnBK"
+    },
+    {
+      "album": {
         "name": "Traveling the Highway Home (feat. Margo Price)",
         "url": "https://open.spotify.com/album/0T7i4x8bUEmANVUCmjfTz1"
       },
@@ -3486,6 +3712,24 @@
       "duration_ms": 263996,
       "name": "Wake Me Up - The Bluegrass Rendition",
       "url": "https://open.spotify.com/track/71W7aqLRQQmrqnGA7U5mzB"
+    },
+    {
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/6rmY0t5TkTCJ6MqjN4Sc12"
+      },
+      "artists": [
+        {
+          "name": "Shadowgrass",
+          "url": "https://open.spotify.com/artist/5LimIIqX8EYXRrMvLFIiTE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383146,
+      "name": "Walls",
+      "url": "https://open.spotify.com/track/0qebJlwvkPNyAxYR52zNgs"
     },
     {
       "album": {

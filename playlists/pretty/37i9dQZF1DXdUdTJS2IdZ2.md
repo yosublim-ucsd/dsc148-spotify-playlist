@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 
 > Rising stars and new releases from sunny Singapore\. Cover: Linying
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,799 likes - 102 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,800 likes - 102 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdUdTJS2IdZ2.md) - [plain]
 | 78 | [微光（新传媒电视剧《浴水重生》插曲）](https://open.spotify.com/track/4TS6e9h090H294fDvWAeha) | [洪俊扬](https://open.spotify.com/artist/7atd5jTK3iQqr5BYj4QYuA) | [新传媒电视剧《浴水重生》原声带](https://open.spotify.com/album/1ANpixwZeHmvCppxe38355) | 4:01 |
 | 79 | [只要你能快樂](https://open.spotify.com/track/5mw77lp6lmQ4vHRQGOFAxy) | [Elton 李泓伸](https://open.spotify.com/artist/4SQbIlbyr4vBmwpvwKaN90) | [只要你能快樂](https://open.spotify.com/album/1BkiyX9Y9HE3QEIbRz3S95) | 4:50 |
 | 80 | [Come, Go](https://open.spotify.com/track/7yk1RYhaIwMKVaFAvmB8pg) | [Syaz Smooth](https://open.spotify.com/artist/6MAt8BwjOqX3HIWEmCyaKJ) | [Come, Go](https://open.spotify.com/album/6a34khhy9lVZFK13JqQOvQ) | 2:38 |
-| 81 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 |
+| 81 | [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 |
 | 82 | [pictures from afar](https://open.spotify.com/track/0NojykDZchtz64eBxeltjg) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [coming home](https://open.spotify.com/album/7yIK6hMVN9eJrb4hS2ANOE) | 4:00 |
 | 83 | [LEPASKAN SEMUA](https://open.spotify.com/track/1ePH4JxiKYmr672yXKdzmF) | [PFTD](https://open.spotify.com/artist/4xZatoZbYuRbqR08h7eZnj), [ZIJI.Q](https://open.spotify.com/artist/3uGHyMbh2qnedhpLnOZhf0), [Tish Errda](https://open.spotify.com/artist/4WnVvYBKHRliSEu7uGORsG) | [LEPASKAN SEMUA](https://open.spotify.com/album/1vykZHMirur7v4VItDlzF0) | 3:13 |
 | 84 | [沒有必要的續集](https://open.spotify.com/track/6kuQCa0qvG8BINevRljcVf) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [沒有必要的續集](https://open.spotify.com/album/23CSd9leHg1gW94Mdue70w) | 3:49 |

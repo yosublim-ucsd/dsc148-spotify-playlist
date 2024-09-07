@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-03",
-  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Tiago PZK en portada.",
+  "description": "Una selecci\u00f3n de temas de amor y desamor, con mucho feeling. Nsqk en portada.",
   "name": "sentimiento.",
   "tracks": [
     {
@@ -306,6 +306,24 @@
       "duration_ms": 192000,
       "name": "Arte",
       "url": "https://open.spotify.com/track/4rAqN1N4r2tn6ixEgJP7Q7"
+    },
+    {
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 107971,
+      "name": "A\u00fan Te Pienso",
+      "url": "https://open.spotify.com/track/2ht8k7XHbCGCogdvesVwX1"
     },
     {
       "album": {
@@ -915,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Dej\u00e9 de Amarte",
+        "url": "https://open.spotify.com/album/1ozcTQkwntJtQlB6ZWJobm"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188871,
+      "name": "Dej\u00e9 de Amarte",
+      "url": "https://open.spotify.com/track/4keqsGMfZx9nDqljpXzpvv"
+    },
+    {
+      "album": {
         "name": "DM",
         "url": "https://open.spotify.com/album/4GR94M7zemJWFWyxnzsJSy"
       },
@@ -1090,6 +1126,24 @@
       "duration_ms": 215000,
       "name": "EN EL GHETTO #3 (Par de cosas)",
       "url": "https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3"
+    },
+    {
+      "album": {
+        "name": "en la cara",
+        "url": "https://open.spotify.com/album/7sxTayioFWNwuZlNPwGzGS"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wald",
+          "url": "https://open.spotify.com/artist/2NprLCmdQotBBAaeXrjSU0"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "en la cara",
+      "url": "https://open.spotify.com/track/0Xn0NaJ2eqT7yWChjfy2E6"
     },
     {
       "album": {
@@ -1538,7 +1592,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205200,
       "name": "Ladrones de Estrellas",
       "url": "https://open.spotify.com/track/5NqtAYtvukTpz4om6tQ5Zg"
@@ -1798,7 +1852,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 163608,
       "name": "Me Doli\u00f3",
       "url": "https://open.spotify.com/track/2htHYthk6QEhaaV7Vwjj1S"
@@ -1968,7 +2022,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 187666,
       "name": "Nadie m\u00e1s",
       "url": "https://open.spotify.com/track/6HkbUFn3tdjubNlDacokMx"
@@ -2270,6 +2324,24 @@
       "duration_ms": 136062,
       "name": "No Sabe Igual",
       "url": "https://open.spotify.com/track/6EOtXcUQza8Ct4R2gyLWFl"
+    },
+    {
+      "album": {
+        "name": "No S\u00e9 Vivir",
+        "url": "https://open.spotify.com/album/0GQRz6sHCovNmPzSTaVk4b"
+      },
+      "artists": [
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233013,
+      "name": "No S\u00e9 Vivir",
+      "url": "https://open.spotify.com/track/2rnFoegWzTSybWCaT1aozl"
     },
     {
       "album": {
@@ -2970,7 +3042,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 163826,
       "name": "Qu\u00e9date",
       "url": "https://open.spotify.com/track/2gj59R9nZqQ5QeKSiYWBs6"
@@ -3123,6 +3195,28 @@
     },
     {
       "album": {
+        "name": "Sentimientos de un G",
+        "url": "https://open.spotify.com/album/34Fvqmca38su0GqmGL5lEG"
+      },
+      "artists": [
+        {
+          "name": "Sleezy O",
+          "url": "https://open.spotify.com/artist/4lKCm9X9aPxuejrckz6b4n"
+        },
+        {
+          "name": "Dj Gran canal",
+          "url": "https://open.spotify.com/artist/45jYedxqJUiLu7e4a1HLve"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207032,
+      "name": "Sentimientos de un G",
+      "url": "https://open.spotify.com/track/3QjY5dC01rBa4zHfbGJbGZ"
+    },
+    {
+      "album": {
         "name": "Ser\u00eda Un Placer Remix",
         "url": "https://open.spotify.com/album/2XiFZMIjMpoclohZs0mpnQ"
       },
@@ -3262,7 +3356,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 240680,
       "name": "SUFICIENTEPUNTOWAV",
       "url": "https://open.spotify.com/track/2mTWugtOne1S8OuPVGvFXb"

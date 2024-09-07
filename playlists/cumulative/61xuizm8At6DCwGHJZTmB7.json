@@ -549,6 +549,32 @@
     },
     {
       "album": {
+        "name": "GOD IS HERE - Live",
+        "url": "https://open.spotify.com/album/156tJn0RZUHmLsfDyOm1cj"
+      },
+      "artists": [
+        {
+          "name": "Legacy Nashville",
+          "url": "https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje"
+        },
+        {
+          "name": "Renn Anderson",
+          "url": "https://open.spotify.com/artist/4plIC4vR4potmWk90UtcyM"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360406,
+      "name": "Always Been Faithful - Live",
+      "url": "https://open.spotify.com/track/2ZDmZz0cXKlQ4eajVBiwSv"
+    },
+    {
+      "album": {
         "name": "Always On The Way",
         "url": "https://open.spotify.com/album/4tjBnY43ovO1RRSrZUpcVW"
       },
@@ -2963,6 +2989,28 @@
     },
     {
       "album": {
+        "name": "GOD IS HERE - Live",
+        "url": "https://open.spotify.com/album/156tJn0RZUHmLsfDyOm1cj"
+      },
+      "artists": [
+        {
+          "name": "Legacy Nashville",
+          "url": "https://open.spotify.com/artist/0z4zqQUZicpUdBmnLRvFje"
+        },
+        {
+          "name": "Nicole Duckworth",
+          "url": "https://open.spotify.com/artist/26bNXlsIGNJJ0JvCJQBrtL"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408554,
+      "name": "Glorify Your Name - Live",
+      "url": "https://open.spotify.com/track/2fkOV0ULO7rGyUPTk2w7jM"
+    },
+    {
+      "album": {
         "name": "Worthy Of Your Name (Live)",
         "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
       },
@@ -5019,6 +5067,28 @@
     },
     {
       "album": {
+        "name": "Oh How Worthy (Live)",
+        "url": "https://open.spotify.com/album/3SimJVri4arEFQqEAbZdmx"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504514,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/1WHBWjHUi6Nkyw2PZr6qOV"
+    },
+    {
+      "album": {
         "name": "Holy Roar",
         "url": "https://open.spotify.com/album/2MsjmtZb4JVzmQ2kmS6dVq"
       },
@@ -5596,6 +5666,28 @@
       "duration_ms": 270386,
       "name": "Less Of Me & More Of You",
       "url": "https://open.spotify.com/track/7CQTxwRg8kKPA66FuqiOAN"
+    },
+    {
+      "album": {
+        "name": "Let Him Work",
+        "url": "https://open.spotify.com/album/06VxvUyrYKlpQav35oLido"
+      },
+      "artists": [
+        {
+          "name": "Faith Worship Arts",
+          "url": "https://open.spotify.com/artist/7lMdRbr3ZYJ98Kyhf3r2ex"
+        },
+        {
+          "name": "John Dreher",
+          "url": "https://open.spotify.com/artist/2xPTT6nveKcSqdSdHLsDtM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251266,
+      "name": "Let Him Work",
+      "url": "https://open.spotify.com/track/4jXeUvelXdDHBaK7NfdcNg"
     },
     {
       "album": {
@@ -7336,6 +7428,24 @@
       "duration_ms": 252669,
       "name": "Praise You Anywhere - Live",
       "url": "https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX"
+    },
+    {
+      "album": {
+        "name": "Without You & Pray You Never Leave",
+        "url": "https://open.spotify.com/album/6wwnMCgf9B8Y3DxqKONZsi"
+      },
+      "artists": [
+        {
+          "name": "Aodh\u00e1n King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240333,
+      "name": "Pray You Never Leave",
+      "url": "https://open.spotify.com/track/2VfuplNtg5McYruOmm90QM"
     },
     {
       "album": {
@@ -9908,7 +10018,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 379602,
       "name": "We Invite Your Fire - Live",
       "url": "https://open.spotify.com/track/1DI92SQfyiB2YDp1aZA12n"

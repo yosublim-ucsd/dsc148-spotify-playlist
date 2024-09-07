@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: TOKIODK, Major RD, LeodoKick",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Mago de Tarso, Xand Avi\u00e3o",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -112,6 +112,36 @@
       "duration_ms": 150610,
       "name": "212",
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
+    },
+    {
+      "album": {
+        "name": "24H",
+        "url": "https://open.spotify.com/album/7fnZ4YB1QEMfItUuQVLGCt"
+      },
+      "artists": [
+        {
+          "name": "Xis",
+          "url": "https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1"
+        },
+        {
+          "name": "Jota Ghetto",
+          "url": "https://open.spotify.com/artist/37HzB0soiShqHGooeDTEQ4"
+        },
+        {
+          "name": "DJ KL Jay",
+          "url": "https://open.spotify.com/artist/2Et154w5eRQcTdRj3399BF"
+        },
+        {
+          "name": "Exkal",
+          "url": "https://open.spotify.com/artist/33UPA64bSitd7TrPtspjJm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231106,
+      "name": "24H",
+      "url": "https://open.spotify.com/track/2eBK8HwKPwlEuzBt4I6Mua"
     },
     {
       "album": {
@@ -4354,7 +4384,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 126071,
       "name": "DESMISTIFICAR",
       "url": "https://open.spotify.com/track/2hvP3KHqGFEzPeySCZ4g2X"
@@ -6094,6 +6124,36 @@
       "duration_ms": 101333,
       "name": "Fed Tracks #15: Introdu\u00e7\u00e3o Racional",
       "url": "https://open.spotify.com/track/4TXjlwoBmTku8K3Qj9bbPH"
+    },
+    {
+      "album": {
+        "name": "Feito pra Voar",
+        "url": "https://open.spotify.com/album/1f21dFwHjSBBddRAqoQmRl"
+      },
+      "artists": [
+        {
+          "name": "Mago de Tarso",
+          "url": "https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        },
+        {
+          "name": "WR No Beat",
+          "url": "https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs"
+        },
+        {
+          "name": "Prodbythb",
+          "url": "https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137130,
+      "name": "Feito pra Voar",
+      "url": "https://open.spotify.com/track/3QdLjFAZXYLTyZ202ltwdL"
     },
     {
       "album": {
@@ -9912,7 +9972,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 150857,
       "name": "MJ DA SHOPEE",
       "url": "https://open.spotify.com/track/7FzfQt9l9vHFwUlUn1r6d3"
@@ -15642,7 +15702,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 206869,
       "name": "Show Lotado",
       "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
@@ -16866,7 +16926,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154513,
       "name": "Tinky Winky",
       "url": "https://open.spotify.com/track/3wua0ArgugXXWhURSFfJtI"
@@ -17648,6 +17708,40 @@
       "duration_ms": 140959,
       "name": "Vers\u00e3o Brasileira",
       "url": "https://open.spotify.com/track/6eiE8aADzURp3fqxIRfAth"
+    },
+    {
+      "album": {
+        "name": "Viatura",
+        "url": "https://open.spotify.com/album/4ItNxfMRIQgcfwfTnklXA3"
+      },
+      "artists": [
+        {
+          "name": "Freitera",
+          "url": "https://open.spotify.com/artist/65nnKJaJx9MgbknLvQ6QHW"
+        },
+        {
+          "name": "GF Gahiji",
+          "url": "https://open.spotify.com/artist/3hOtF6DHkFYMUyamsJHJoP"
+        },
+        {
+          "name": "Rap Plus Size",
+          "url": "https://open.spotify.com/artist/2vZnrW5COAICtdeiVjARkp"
+        },
+        {
+          "name": "Sara Donato",
+          "url": "https://open.spotify.com/artist/4oL2YA7tv13BFRNQBmy02K"
+        },
+        {
+          "name": "Jupi77er",
+          "url": "https://open.spotify.com/artist/1rId78y1KO9ldEyBYr2heR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313407,
+      "name": "Viatura",
+      "url": "https://open.spotify.com/track/0OuUehVYv5TXzpKeSViw6J"
     },
     {
       "album": {

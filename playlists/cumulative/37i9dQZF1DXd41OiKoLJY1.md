@@ -4,7 +4,7 @@
 
 > Fresh releases from your future favorite artists\. Cover: Shantel Cyline Artwork: Isu Kim
 
-2,697 songs - 6 day 14 hr 16 min
+2,699 songs - 6 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [BLACK CROW](https://open.spotify.com/track/1P3E61xZ9cGE7vNL6Rsb0D) | [KID KOYO!](https://open.spotify.com/artist/7tUsOoK9pz4qPLKkOH9Mvz) | [BLACK CROW](https://open.spotify.com/album/7GOHsrWvEMZa6dS9qgGUlo) | 1:49 | 2023-11-09 | 2024-01-19 |
 | [Black Label](https://open.spotify.com/track/3o9by4TboJYeSwg75FLXv9) | [ROY](https://open.spotify.com/artist/3cDkmoxn1k3IP3KVOJmIQh) | [Black Label](https://open.spotify.com/album/7ufYIIrFFoCAUaOWwAuGeQ) | 4:03 | 2024-06-20 | 2024-07-27 |
 | [Blacked Out!](https://open.spotify.com/track/4Hv3dxwmMo6Ticy22hDAW3) | [KONSTANT](https://open.spotify.com/artist/2bkT5O6LfxfaPq829lVdZH) | [Blacked Out!](https://open.spotify.com/album/02tcprC9h8MJU4dhHHs2cU) | 2:47 | 2024-02-29 | 2024-03-29 |
+| [Blick Em](https://open.spotify.com/track/5vZLf1tYS4cEW9TVH8kq6T) | [FRNC$](https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K) | [Blick Em](https://open.spotify.com/album/67Kf1T6NQgc6VjBOn56Rzn) | 2:40 | 2024-09-05 |  |
 | [Blindfold](https://open.spotify.com/track/7GAwyhXA5FbEcWQYXr2AYD) | [Bernard Guinto](https://open.spotify.com/artist/2ceOIcsF6cFvdAweuSucFm) | [Blindfold](https://open.spotify.com/album/4242yBaBQqM0IiqDsA6QcF) | 3:12 | 2024-04-04 | 2024-05-24 |
 | [BLISS](https://open.spotify.com/track/1aYAk65nrna8OPfdemP2Xd) | [Coldboyz](https://open.spotify.com/artist/4y76BrUXorWbYlnPNJuwrW) | [BLISS](https://open.spotify.com/album/6dcwJk2G0YJRtpCg7DeztI) | 4:35 | 2022-05-05 | 2022-07-22 |
 | [Bliss](https://open.spotify.com/track/2ee160Zq8leWme75mCcNYq) | [Stan Tan](https://open.spotify.com/artist/4duhsBPQoYg4a0uvyKvBhH) | [Bliss](https://open.spotify.com/album/36CUKocPdzUDQPwUir0riL) | 3:00 | 2023-03-16 | 2023-03-31 |
@@ -2608,6 +2609,7 @@
 | [We Should've Walked But We Ran](https://open.spotify.com/track/3bcaxHusFgkxfDXxhWb4lc) | [UJU](https://open.spotify.com/artist/2rc8Sz5mhQYrNg9xkoYlMI) | [We Should've Walked But We Ran](https://open.spotify.com/album/3ZNBUMaJmn4butHAE0XFl4) | 4:14 | 2022-09-08 | 2022-11-25 |
 | [We Up!](https://open.spotify.com/track/1M0wDYYBvPdBzOpJOE3NFm) | [felhony](https://open.spotify.com/artist/3E5iZBzhKO8WXDZzdTxE0m), [Kyx](https://open.spotify.com/artist/5odIdUwo9MYSgXfCezeCkw) | [Wake Up](https://open.spotify.com/album/1tTItsT5lEVE1uHLpzlWha) | 3:28 | 2024-05-09 | 2024-06-14 |
 | [we were getting pretty blurry](https://open.spotify.com/track/519FD1iPWgc792wfiNHfeE) | [ApMontyy](https://open.spotify.com/artist/4Fme6fUX56OGZvgE55ph5E) | [we were getting pretty blurry](https://open.spotify.com/album/4aYNqcUcdaIIFoX6NT8xp2) | 2:42 | 2023-09-28 | 2023-10-13 |
+| [we'll do it again](https://open.spotify.com/track/6SMCmilL30WtWgK9suTq4X) | [Shan Capri](https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr) | [we'll do it again](https://open.spotify.com/album/5wjtLonQHVRWzQFlGvMZ5j) | 3:03 | 2024-09-05 |  |
 | [We'll Make It](https://open.spotify.com/track/5BQkDSq0Ede8OXMiDFbAPW) | [Ruuu](https://open.spotify.com/artist/0h8CTim59fwR1EVwYl5TbX) | [PLASMA](https://open.spotify.com/album/6Y29nbRz6o8Pl1wgaYZYUG) | 3:30 | 2023-06-01 | 2023-06-23 |
 | [Weep Year](https://open.spotify.com/track/1I0oP269CujEUnBA4NMEOg) | [Brad Louisee](https://open.spotify.com/artist/1aWmfjamyyqLlGg0h9EX8K) | [Weep Year](https://open.spotify.com/album/57hbf1pPnC6VxmYys68vD1) | 2:40 | 2024-05-23 | 2024-06-21 |
 | [Welcome](https://open.spotify.com/track/6VzfvM4PUX4MAbqX9UYXBk) | [Saint Klutch](https://open.spotify.com/artist/4O5M5erNF5cqbhGJmsuDDj) | [Welcome](https://open.spotify.com/album/1ddVz6ywCVmMR1oO9uj9Lc) | 2:47 | 2023-06-29 | 2023-07-21 |

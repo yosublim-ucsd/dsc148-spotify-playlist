@@ -4,7 +4,7 @@
 
 > 
 
-533 songs - 1 day 3 hr 25 min
+534 songs - 1 day 3 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Apart](https://open.spotify.com/track/04T6le39W5Z6lTTDSfWgt9) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Apart](https://open.spotify.com/album/6sgFdQF6T4xjyNGrdSOOWX) | 3:11 | 2022-04-15 | 2022-07-13 |
 | [Approval \- Ethan James Remix](https://open.spotify.com/track/2wuj9orAHvlZRlNp2bv87k) | [Maff Boothroyd](https://open.spotify.com/artist/1WybMQkeEskWKx4iwiLqb2), [Ethan James](https://open.spotify.com/artist/5qkqZBIInFV7BJoZFlMNMW) | [Approval \(Ethan James Remix\)](https://open.spotify.com/album/4xFH2b3VkFlk8S2TjNYaAK) | 3:32 | 2022-06-20 | 2022-07-22 |
 | [Around](https://open.spotify.com/track/6NMWO6rsZIvHadBzveLkQr) | [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Manny](https://open.spotify.com/artist/3kphE8CogR6Xe1KYkwQn79) | [Around](https://open.spotify.com/album/5JT9HdNjykpc9Q3sq8q1WQ) | 3:02 | 2022-04-15 | 2022-06-26 |
+| [As The Beat Goes Onnn](https://open.spotify.com/track/5lzRFLsYxeAyRiO7r6H1qm) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [As The Beat Goes Onnn](https://open.spotify.com/album/0VvJHxPuQ1PvnOU3iXbjN6) | 2:39 | 2024-08-29 |  |
 | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \- Edit](https://open.spotify.com/track/5dlwxxHd9RNBPP3PwlLZgB) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Elisabeth Troy](https://open.spotify.com/artist/2PWJP6HKlECQurewX1uGuT) | [Ascending Into The Clouds \(feat\. Elisabeth Troy\) \[Edit\]](https://open.spotify.com/album/6RkAmdnqMxodcx6t6dKg5K) | 3:28 | 2023-09-08 | 2024-01-13 |
 | [Aside](https://open.spotify.com/track/5J7A8bZU1GaZpbZrAkAq4r) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [Aside](https://open.spotify.com/album/7JTUNTKBI02GVezHsE43lz) | 3:06 | 2022-04-15 | 2022-07-25 |
 | [Asking](https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking](https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ) | 3:11 | 2023-09-08 |  |
@@ -131,7 +132,7 @@
 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 | 2023-10-06 | 2024-07-20 |
 | [Duffles](https://open.spotify.com/track/1onxwBZxnwONLP81Yll3xj) | [Hitty](https://open.spotify.com/artist/5ihFvuv44N5h6eYxLyftBi) | [Duffles](https://open.spotify.com/album/4UGAmFNoTM9MTafvLUxDNz) | 3:22 | 2022-04-15 | 2022-07-17 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2024-02-23 | 2024-07-20 |
-| [Ecstasy](https://open.spotify.com/track/3RJYyVfKWNtvZojZwxIsle) | [Marvin Humes](https://open.spotify.com/artist/5S4Aw94BUuvnKBKOUmsUBn) | [Ecstasy](https://open.spotify.com/album/6rhk5WR27n92prG3t3IVGz) | 2:38 | 2024-07-19 |  |
+| [Ecstasy](https://open.spotify.com/track/3RJYyVfKWNtvZojZwxIsle) | [Marvin Humes](https://open.spotify.com/artist/5S4Aw94BUuvnKBKOUmsUBn) | [Ecstasy](https://open.spotify.com/album/6rhk5WR27n92prG3t3IVGz) | 2:38 | 2024-07-19 | 2024-09-07 |
 | [Edge of Seventeen](https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB) | [Wuki](https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q) | [Edge of Seventeen](https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef) | 2:44 | 2022-12-31 | 2023-09-22 |
 | [Elevated](https://open.spotify.com/track/0qZ2NBUmGIaHzvUAfH43A0) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Elevated](https://open.spotify.com/album/6a3wDTIPiYQwXGkNAAye04) | 3:13 | 2022-08-22 | 2024-01-27 |
 | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/track/3AtvfGdTKFyhh8wtIB05r9) | [blk.](https://open.spotify.com/artist/1oLPIdUjd6rJY1llzFcVw0), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Enter The Dragon \(Are You Up?\)](https://open.spotify.com/album/1JfBbmKOcrQa4LmEb6iU0A) | 3:00 | 2023-09-08 | 2024-01-13 |

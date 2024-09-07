@@ -113,6 +113,32 @@
     },
     {
       "album": {
+        "name": "ADRENALINE",
+        "url": "https://open.spotify.com/album/4yowgzfnrRmA8yvkuqfPHh"
+      },
+      "artists": [
+        {
+          "name": "MikeMillzOn'em",
+          "url": "https://open.spotify.com/artist/0KxeVhcuq9PzbLgeOeVelN"
+        },
+        {
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
+        },
+        {
+          "name": "Yartti",
+          "url": "https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "ADRENALINE",
+      "url": "https://open.spotify.com/track/4Oj4eDrQ1eDlWpkLIcEoG2"
+    },
+    {
+      "album": {
         "name": "Agoro",
         "url": "https://open.spotify.com/album/02tQEc4LhQ8O18IIx5p3Yr"
       },
@@ -893,6 +919,24 @@
     },
     {
       "album": {
+        "name": "iDENTIFY",
+        "url": "https://open.spotify.com/album/6CHgG3KcZzmxljX8kN0dLq"
+      },
+      "artists": [
+        {
+          "name": "95ANTNY",
+          "url": "https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "iDENTIFY",
+      "url": "https://open.spotify.com/track/4UD9UEti2WwQ89ACAA7lB0"
+    },
+    {
+      "album": {
         "name": "JADED (TO THE GAME)",
         "url": "https://open.spotify.com/album/6T9OSmFVLMUDvjS1b8hYX1"
       },
@@ -1156,6 +1200,28 @@
       "duration_ms": 180706,
       "name": "Menko Me Hemaa",
       "url": "https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU"
+    },
+    {
+      "album": {
+        "name": "Monsta Alta",
+        "url": "https://open.spotify.com/album/1QyTeg2mHlSK0XLMtMveJb"
+      },
+      "artists": [
+        {
+          "name": "T'neeya",
+          "url": "https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL"
+        },
+        {
+          "name": "Trapp king",
+          "url": "https://open.spotify.com/artist/3n1WCNSs8qTvDTa2WCoyRW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224201,
+      "name": "Monsta Alta",
+      "url": "https://open.spotify.com/track/5zkgUfmNAGU92kQXya07xJ"
     },
     {
       "album": {
@@ -1772,7 +1838,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 171685,
       "name": "Shameless",
       "url": "https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo"
@@ -1815,6 +1881,50 @@
     },
     {
       "album": {
+        "name": "SOTEY",
+        "url": "https://open.spotify.com/album/2XEkQE2Ig42tW6TwMXXQcL"
+      },
+      "artists": [
+        {
+          "name": "Kirani Ayat",
+          "url": "https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9"
+        },
+        {
+          "name": "Bapi Joss",
+          "url": "https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160694,
+      "name": "SOTEY",
+      "url": "https://open.spotify.com/track/5IDpAYNMGX4z6VBspb6Rvk"
+    },
+    {
+      "album": {
+        "name": "Shea Butter Boy II",
+        "url": "https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8"
+      },
+      "artists": [
+        {
+          "name": "Yung Dada",
+          "url": "https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221264,
+      "name": "Spaceships",
+      "url": "https://open.spotify.com/track/111lORD99rTGIGgMVISJvj"
+    },
+    {
+      "album": {
         "name": "Special Ting",
         "url": "https://open.spotify.com/album/2pHulfIkZVxByik17VzIiZ"
       },
@@ -1852,6 +1962,24 @@
       "duration_ms": 188573,
       "name": "Spell",
       "url": "https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp"
+    },
+    {
+      "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/3msMmhEXtXVXfoUruwLyCH"
+      },
+      "artists": [
+        {
+          "name": "Auds",
+          "url": "https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/0OaUj6SrBMzDZX6zxSx7M0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Freshest Pakistani discoveries\. Cover \- Indiedanish
 
-875 songs - 1 day 23 hr 14 min
+877 songs - 1 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -564,6 +564,7 @@
 | [Never Again](https://open.spotify.com/track/7tCgLB7jT4nYkWuDhCuN4y) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF) | [Never Again](https://open.spotify.com/album/6v1ZozpcZ2eDXVTRbc7sRw) | 2:39 | 2024-05-09 | 2024-06-05 |
 | [New Start](https://open.spotify.com/track/7i10KNgwMSJZmkldAL5wGE) | [Saad Khan](https://open.spotify.com/artist/3M0uh0LP6Fwut5XODH9Rj9) | [New Start](https://open.spotify.com/album/2If8KZFS1F2Wz90dGoAVUx) | 2:42 | 2022-08-27 | 2023-01-11 |
 | [Nindiya](https://open.spotify.com/track/0w91cT24Jw6pYWXyu9JCZA) | [SEHER](https://open.spotify.com/artist/4rox3jnGsnm3UIjESqMUCK), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK) | [Nindiya](https://open.spotify.com/album/30ISXOD20fSD20i5HSX17t) | 3:29 | 2024-06-04 | 2024-09-06 |
+| [Nishaani](https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Nishaani](https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2) | 3:07 | 2024-09-05 |  |
 | [No Competition](https://open.spotify.com/track/1pYof6cMSxtOleS3Y52fER) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR) | [No Competition](https://open.spotify.com/album/5ySztINYSJUUCKiEyuTSy9) | 4:53 | 2022-08-27 | 2022-09-24 |
 | [NO COMPROMISE](https://open.spotify.com/track/4gAXMF6e9bIhaftYiwESh7) | [Kh44ki](https://open.spotify.com/artist/0kIqArPHBqFq0pf69pVd4x), [Shehroz](https://open.spotify.com/artist/3TqqstbDuFqLxPwFcLutOE) | [NO COMPROMISE](https://open.spotify.com/album/38orATJMm4YHp3NIZQMbNV) | 2:28 | 2023-05-19 | 2023-08-01 |
 | [No Feelings](https://open.spotify.com/track/5xJ5WJJWfagun4KriEUkm7) | [Mic Droppers](https://open.spotify.com/artist/7DJSrBAJ5FEuajULZzWXkp), [Zohaib Hassan](https://open.spotify.com/artist/03b0DzzggBt55tGsL47X28), [Syed Eisa](https://open.spotify.com/artist/3qH8f5NVMDFiYs34U4nztC) | [No Feelings](https://open.spotify.com/album/7MrZQD7ho6AWLwGcxjVoUw) | 2:22 | 2024-06-04 | 2024-08-13 |
@@ -817,6 +818,7 @@
 | [trip](https://open.spotify.com/track/2olQX0UV5H3kNfoPt6F9Be) | [malick](https://open.spotify.com/artist/7hzVFWeRNmBU02uD1oTJZU), [Huzaifa Yasir](https://open.spotify.com/artist/4nlBaZiahNKLu2E7SygCHi), [SMK](https://open.spotify.com/artist/19DFB1rgWVgsJ2gUB4s5x6) | [trip](https://open.spotify.com/album/0Cy0JoLCGWCquashxPpl4c) | 2:03 | 2023-05-05 | 2023-08-19 |
 | [Tripping over !](https://open.spotify.com/track/7sZiVoiQCOsdzdmcJ0tIAx) | [Alemam Elghandour](https://open.spotify.com/artist/3HAn0ZaBosAui4f1jggyLi) | [Tripping over !](https://open.spotify.com/album/5ahcCIHWreuEXL9qI6zm1w) | 3:12 | 2022-08-27 | 2022-09-24 |
 | [Tu](https://open.spotify.com/track/5PgZaif3EmEqdbRaDr7KqM) | [Nirmal Roy](https://open.spotify.com/artist/29Nyne5MB3F1sTTPq0TQEs), [Hussain Ajani](https://open.spotify.com/artist/4TZi2SKhuNXEyRa7sOLa9H) | [Tu](https://open.spotify.com/album/7n0w5chHATTvNFJlcg8xgz) | 3:04 | 2024-01-19 | 2024-03-20 |
+| [Tu Aja](https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm) | [Masood Bukhari](https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m), [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Tu Aja](https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey) | 2:15 | 2024-09-05 |  |
 | [Tu hai kahan](https://open.spotify.com/track/3zSSCPpLZ5Oc8nelhhGjKz) | [AUR](https://open.spotify.com/artist/2cjQTf2J5yCaNY8qHpW855) | [Tu hai kahan](https://open.spotify.com/album/73vfz6Szer7i3GFIesix6l) | 4:23 | 2023-10-20 | 2024-09-06 |
 | [Tu Hi Chahiye](https://open.spotify.com/track/6C1W0Up60qjlhQkRoPKwuD) | [Modeltown](https://open.spotify.com/artist/0gPKIqZttcFeQEySpoueyn), [Nida Hussain](https://open.spotify.com/artist/292KGixvv4JEPHUmOhiByf) | [Tu Hi Chahiye](https://open.spotify.com/album/33wye7dbbETrtQuJYWR2H0) | 4:43 | 2022-11-30 | 2023-01-11 |
 | [Tu Jo Mili](https://open.spotify.com/track/2CzMjXps1DcuifmkOw2H4V) | [Zouqan](https://open.spotify.com/artist/2IMwndXSonTHhlmMYpAlh6) | [Tu Jo Mili](https://open.spotify.com/album/5tw71mKrPAgUfnpQwbqzqc) | 4:12 | 2023-10-12 | 2023-12-09 |

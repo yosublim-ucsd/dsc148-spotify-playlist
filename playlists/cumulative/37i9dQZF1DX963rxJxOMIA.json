@@ -715,6 +715,28 @@
     },
     {
       "album": {
+        "name": "CASI ALGO",
+        "url": "https://open.spotify.com/album/11lPiY2966BfVys4X6MHP9"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163979,
+      "name": "CASI ALGO",
+      "url": "https://open.spotify.com/track/6tuLAQURf4P97dD750iTaJ"
+    },
+    {
+      "album": {
         "name": "Track 1",
         "url": "https://open.spotify.com/album/6kQCfXiPcvde29I9rMkw8S"
       },
@@ -3411,6 +3433,24 @@
     },
     {
       "album": {
+        "name": "Moncler",
+        "url": "https://open.spotify.com/album/7lXj38lKlh1BHqZbvdUMDv"
+      },
+      "artists": [
+        {
+          "name": "Andy Rivera",
+          "url": "https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "MONCLER",
+      "url": "https://open.spotify.com/track/2cP7R6au4fqxubJAVLMPQ1"
+    },
+    {
+      "album": {
         "name": "Monumento (Remix)",
         "url": "https://open.spotify.com/album/5aCvN6v9puvOs2aPzWDx9D"
       },
@@ -3742,7 +3782,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188571,
       "name": "OJOS AZULES",
       "url": "https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do"
@@ -3786,7 +3826,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208386,
       "name": "Origami",
       "url": "https://open.spotify.com/track/7ymaMMugaNMOTTcsAxxwmL"

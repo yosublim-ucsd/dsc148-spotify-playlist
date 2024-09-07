@@ -178,7 +178,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 145714,
       "name": "Afternoon Melodies",
       "url": "https://open.spotify.com/track/0AHsGKATdtJnM80dcOCRmk"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 179191,
       "name": "Dawn Dusk Divinity",
       "url": "https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm"
@@ -928,6 +928,24 @@
       "duration_ms": 180000,
       "name": "Dharma",
       "url": "https://open.spotify.com/track/79Ou2nfpXBr7ReJIa0Q6hO"
+    },
+    {
+      "album": {
+        "name": "Dhyanam",
+        "url": "https://open.spotify.com/album/0caESEX7FNF7710Cpfon45"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173240,
+      "name": "Dhyanam",
+      "url": "https://open.spotify.com/track/63mjOve2pn9H2jBD6JjBJC"
     },
     {
       "album": {
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193918,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x"
@@ -1284,7 +1302,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 187598,
       "name": "Fields of Passion",
       "url": "https://open.spotify.com/track/19127XxgyW1KnXqnYv2YRO"
@@ -2155,6 +2173,24 @@
     },
     {
       "album": {
+        "name": "Miquella's Pond",
+        "url": "https://open.spotify.com/album/3xNGgYYAuqKTmEwDQbSfoA"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "Miquella's Pond",
+      "url": "https://open.spotify.com/track/3i43trjHW3NbxY3ICtHm8p"
+    },
+    {
+      "album": {
         "name": "Modes",
         "url": "https://open.spotify.com/album/6QlqNtdagoBoD6pU3MYKmn"
       },
@@ -2418,7 +2454,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242428,
       "name": "Neela",
       "url": "https://open.spotify.com/track/6DgWjbrZFA4uTWJgTH3Q3p"
@@ -3253,6 +3289,24 @@
     },
     {
       "album": {
+        "name": "Silver Light",
+        "url": "https://open.spotify.com/album/21cXTBVNIWxY9aFyv0H2vG"
+      },
+      "artists": [
+        {
+          "name": "Meson Winds",
+          "url": "https://open.spotify.com/artist/7hSvvdm6NWFrkDzIGUx8o1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176144,
+      "name": "Silver Light",
+      "url": "https://open.spotify.com/track/3V0v9dJyCGZQd2eJDQyQNU"
+    },
+    {
+      "album": {
         "name": "Sleep Veteran",
         "url": "https://open.spotify.com/album/3iNNWjVT04TcL97DA2uGtT"
       },
@@ -3408,7 +3462,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 131986,
       "name": "Sour Apples",
       "url": "https://open.spotify.com/track/3qG1l6M84HyKTtibgiOeAc"
@@ -3714,7 +3768,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242426,
       "name": "The Poetry of Self",
       "url": "https://open.spotify.com/track/5Jlpmn29w2hROmGNrcyxJc"
@@ -4298,7 +4352,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 189374,
       "name": "\u661f\u661f\u4e4b\u706b\u53ef\u4ee5\u71ce\u539f - Where there is life, there is hope",
       "url": "https://open.spotify.com/track/6gfL880RuRTk3toqkVxjGO"

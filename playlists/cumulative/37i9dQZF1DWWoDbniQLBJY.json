@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Aqu\u00ed viven las guitarras ac\u00fasticas. Cover: Maria Becerra",
+  "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: ELENA ROSE",
   "name": "Ac\u00fasticas",
   "tracks": [
     {
@@ -2233,7 +2233,7 @@
     },
     {
       "album": {
-        "name": "Me Haces Muy Bien (Ac\u00fastico)",
+        "name": "Me Haces Muy Bien - Ac\u00fastico",
         "url": "https://open.spotify.com/album/6AprbucUx2tyYsEFAn0gWP"
       },
       "artists": [
@@ -2243,7 +2243,7 @@
         },
         {
           "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+          "url": "https://open.spotify.com/artist/30nITczErPVyfkYEWmpGQT"
         }
       ],
       "date_added": "2021-12-16",
@@ -2252,6 +2252,24 @@
       "duration_ms": 205177,
       "name": "Me Haces Muy Bien - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6jjMRgscg8yawMvoBNPfA5"
+    },
+    {
+      "album": {
+        "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
+        "url": "https://open.spotify.com/album/6Iaa1mYdP9tS5MV57FTypD"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194866,
+      "name": "Me Lo Merezco - Versi\u00f3n Ac\u00fastica - En Las Nubes",
+      "url": "https://open.spotify.com/track/78rWBQXG8hhRVknCTIo8j6"
     },
     {
       "album": {
@@ -2982,7 +3000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 201000,
       "name": "plan (ac\u00fastico)",
       "url": "https://open.spotify.com/track/0Quiw6mpXblCJnLUyAhh8a"

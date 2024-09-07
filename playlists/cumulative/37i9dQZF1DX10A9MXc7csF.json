@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The new school of M\u00fasica Mexicana. Cover: Drian",
+  "description": "The new school of M\u00fasica Mexicana. Cover: Octavio Cuadras",
   "name": "M\u00fasica Mexicana Rising",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 211208,
       "name": "11: 11",
       "url": "https://open.spotify.com/track/58iqJkgLGdfiDkadJqGYny"
+    },
+    {
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/62YRVYO19Rv4ryKoqgMYtp"
+      },
+      "artists": [
+        {
+          "name": "Daren",
+          "url": "https://open.spotify.com/artist/6DaJwc5ofkN35XEEKDPNfP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156461,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/0sCxXDFSEENe0l1EPNnu22"
     },
     {
       "album": {
@@ -804,6 +822,24 @@
       "duration_ms": 147445,
       "name": "Al Mirar Su Rostro",
       "url": "https://open.spotify.com/track/3cJFPzd2Crf1LKNL60Ms2C"
+    },
+    {
+      "album": {
+        "name": "Al Tiro",
+        "url": "https://open.spotify.com/album/6lOrgBhEYpZXstTPdyIMah"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Al Tiro",
+      "url": "https://open.spotify.com/track/0dDZGu9Gs0ZsG8PdZ6JtES"
     },
     {
       "album": {
@@ -1942,6 +1978,28 @@
       "duration_ms": 207671,
       "name": "Bien High",
       "url": "https://open.spotify.com/track/1vuaoGdmz8yVNcucQ5Rq2q"
+    },
+    {
+      "album": {
+        "name": "Bien Jalisco",
+        "url": "https://open.spotify.com/album/59zAiGlbPrQa2yRn5MjAez"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "2DEEP",
+          "url": "https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144589,
+      "name": "Bien Jalisco",
+      "url": "https://open.spotify.com/track/3cx3lX2AJpmoH6KWy9CfHH"
     },
     {
       "album": {
@@ -3770,6 +3828,28 @@
       "duration_ms": 171625,
       "name": "Dejen Les Cuento",
       "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
+    },
+    {
+      "album": {
+        "name": "CORRIDOS FELICES - DELUXE",
+        "url": "https://open.spotify.com/album/6aUFW1CXXtZfeZJ6hTZhPo"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130146,
+      "name": "Deluxe",
+      "url": "https://open.spotify.com/track/25gBI72Y98PLAjMYHEZzsE"
     },
     {
       "album": {
@@ -6619,6 +6699,24 @@
     },
     {
       "album": {
+        "name": "EXOTIC",
+        "url": "https://open.spotify.com/album/2F94sukiapjjTdBc4hWaKY"
+      },
+      "artists": [
+        {
+          "name": "Bryan Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7FctMSq2t2zyod20njlcjP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127747,
+      "name": "EXOTIC",
+      "url": "https://open.spotify.com/track/4lxPSHM8iNVceiun4T1EQv"
+    },
+    {
+      "album": {
         "name": "Exotic\u00f3n",
         "url": "https://open.spotify.com/album/4OAeL8hNuiVPRE1lrMPQjS"
       },
@@ -6768,7 +6866,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167061,
       "name": "Ferrero Chocolate",
       "url": "https://open.spotify.com/track/6AtgcU7xtBKvROVGLMv9mI"
@@ -8338,7 +8436,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 239651,
       "name": "La Dama",
       "url": "https://open.spotify.com/track/2grTnUtUV7MmzTsmhDxRWy"
@@ -8520,7 +8618,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 174875,
       "name": "LA MARUCHAN",
       "url": "https://open.spotify.com/track/2lofbPM2k0fVgaCrmVz4c1"
@@ -9078,7 +9176,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 195029,
       "name": "Les Di Ventaja",
       "url": "https://open.spotify.com/track/0Hf8sW6muVvs2ZAp4D0lAv"
@@ -10900,7 +10998,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 150000,
       "name": "MINIMI",
       "url": "https://open.spotify.com/track/758S4LdiMkRdauciXJI1v7"
@@ -11459,6 +11557,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9xico Lindo",
+        "url": "https://open.spotify.com/album/0Q5MqpALir3dBjdg1RbsTz"
+      },
+      "artists": [
+        {
+          "name": "La Cuadrilla Oficial",
+          "url": "https://open.spotify.com/artist/7dGKr4Wpnd2RP4Tas8aGfI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203839,
+      "name": "M\u00e9xico Lindo",
+      "url": "https://open.spotify.com/track/0qkx3lMuYomsEVhfsw4H5c"
+    },
+    {
+      "album": {
         "name": "M\u00fasica Y Vino",
         "url": "https://open.spotify.com/album/55rYBHLzuVROq5YYR37kAa"
       },
@@ -11731,6 +11847,24 @@
     },
     {
       "album": {
+        "name": "Ni Rico Ni Pobre",
+        "url": "https://open.spotify.com/album/6x7hjWrdghsVrCrokz2K0i"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168346,
+      "name": "Ni Rico Ni Pobre",
+      "url": "https://open.spotify.com/track/3IDcMROcCh8VCaUoIt7u8K"
+    },
+    {
+      "album": {
         "name": "Reflejo Nuevo, Vol. 2",
         "url": "https://open.spotify.com/album/281j39YlQK9FqIwWihq82o"
       },
@@ -12000,6 +12134,28 @@
       "duration_ms": 150250,
       "name": "No Pienso Perdonarte",
       "url": "https://open.spotify.com/track/05GnkIRQEoOzODaGfPj8dO"
+    },
+    {
+      "album": {
+        "name": "NO PIERDO LA VIDA",
+        "url": "https://open.spotify.com/album/7DueGhsMj4VYSbe1jgQ4H2"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168546,
+      "name": "NO PIERDO LA VIDA",
+      "url": "https://open.spotify.com/track/44zZM2dn9AcOUt5XKUMNJ3"
     },
     {
       "album": {
@@ -12677,6 +12833,24 @@
     },
     {
       "album": {
+        "name": "PARY",
+        "url": "https://open.spotify.com/album/2A2nUmF7VufHsPY6uEiCLh"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156374,
+      "name": "PA CONTAR",
+      "url": "https://open.spotify.com/track/1sISe1Ec8t61ZjtRC9vC8F"
+    },
+    {
+      "album": {
         "name": "Pa' No Sentir",
         "url": "https://open.spotify.com/album/0rgzvqKl0UHlmc5Rx3r68D"
       },
@@ -12902,7 +13076,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 148500,
       "name": "Peligro - En Vivo",
       "url": "https://open.spotify.com/track/0f9eynQdyOEsFoNlLOVK4O"
@@ -13432,7 +13606,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165179,
       "name": "Porte Inigualable - En Vivo",
       "url": "https://open.spotify.com/track/21VNuLtEtNQixWNYOZSF9R"
@@ -13936,7 +14110,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 244842,
       "name": "Que Ya No Vas A Estar",
       "url": "https://open.spotify.com/track/14MA5Zg3ntekVy3gxWZSTg"
@@ -16918,7 +17092,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 146426,
       "name": "TU MI FAVORITA",
       "url": "https://open.spotify.com/track/0St4NJkBNdIrf1uj4b0wB0"
@@ -17140,6 +17314,24 @@
       "duration_ms": 189283,
       "name": "Un D\u00eda Llegar\u00e1 La Muerte",
       "url": "https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5"
+    },
+    {
+      "album": {
+        "name": "MEMORIAS",
+        "url": "https://open.spotify.com/album/0eRHa55sMmGpWTDXfLZgPf"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215250,
+      "name": "Un Inmigrante",
+      "url": "https://open.spotify.com/track/607cPRztqRtxABpHZwJYDB"
     },
     {
       "album": {

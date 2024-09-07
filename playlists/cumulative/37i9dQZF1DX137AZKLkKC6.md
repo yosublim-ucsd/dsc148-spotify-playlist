@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Foto: Luis Alfonso
 
-260 songs - 13 hr 24 min
+262 songs - 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,9 +97,10 @@
 | [Ellas Así Son](https://open.spotify.com/track/7tg8QC49iqo6swPF6kXmWN) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Ellas Así Son](https://open.spotify.com/album/0J9nQoFFEZlrvAjNnwsGOP) | 3:35 | 2022-11-04 | 2023-03-04 |
 | [En Este Amor](https://open.spotify.com/track/4f5oH6SMKbWnsxjznuuYAJ) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [En Este Amor](https://open.spotify.com/album/6o4we0I9BrHtDb9fUXt97y) | 2:46 | 2023-02-17 | 2023-04-04 |
 | [En Mis Zapatos](https://open.spotify.com/track/0qyuualuo4GnERGgnBlxr3) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Pa' Olvidar](https://open.spotify.com/album/3N7u4XnJEIkr0Os15iYdj0) | 2:45 | 2023-07-28 | 2023-09-16 |
+| [Enamorao’](https://open.spotify.com/track/3VPKklonK4rqpVxjlpHumH) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Enamorao’](https://open.spotify.com/album/36llizlCtI6z5D0QSYfVFp) | 2:38 | 2024-09-06 |  |
 | [Entre Botellas](https://open.spotify.com/track/5cwSbUPG0HoiaAyuGV5tgS) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Entre Botellas](https://open.spotify.com/album/2H0L8qCkkKasqEVdVEbhKs) | 3:28 | 2023-07-28 |  |
 | [ERES](https://open.spotify.com/track/6EYyCZ5gsRb1xNdyXYtEJF) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip) | [ERES](https://open.spotify.com/album/5dKSoVrPfoyvr9UaxnJMPu) | 3:21 | 2023-11-10 | 2024-01-26 |
-| [Es muy tarde](https://open.spotify.com/track/2VhYTJXBKmjtRvoROAw4GY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Es muy tarde](https://open.spotify.com/album/2QOYM1YVuVkKPqHhHaDxRX) | 3:19 | 2024-07-19 |  |
+| [Es muy tarde](https://open.spotify.com/track/2VhYTJXBKmjtRvoROAw4GY) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Es muy tarde](https://open.spotify.com/album/2QOYM1YVuVkKPqHhHaDxRX) | 3:19 | 2024-07-19 | 2024-09-07 |
 | [Ese Fui Yo](https://open.spotify.com/track/5PK6gIPq56QfTF9DIhWEgR) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF) | [Ese Fui Yo](https://open.spotify.com/album/5SXlCA89GryMFvCtSG9Eom) | 2:42 | 2023-02-24 | 2023-04-01 |
 | [Esta Noche](https://open.spotify.com/track/3n4DLwgE37rcLYmrzFAPGI) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Esta Noche](https://open.spotify.com/album/0ivu9BBPUy5YLLeOLKAHUb) | 3:12 | 2023-01-27 | 2023-02-25 |
 | [Extraño a Mi Padre](https://open.spotify.com/track/6ePC137n6OD39Tu75rdhDB) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Yohan Usuga](https://open.spotify.com/artist/5XZHGnpHe7zHUjbZSlgIhJ) | [Extraño a Mi Padre](https://open.spotify.com/album/7t9xSKrJywjFjMKcaygJhl) | 2:52 | 2024-04-26 | 2024-06-22 |
@@ -120,6 +121,7 @@
 | [LA DURANGO](https://open.spotify.com/track/1uxiaf3DUS4vpOqNGu4MzL) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [LA DURANGO](https://open.spotify.com/album/649Wq7pYGkMZWUYXpaj2tQ) | 4:22 | 2024-05-10 | 2024-07-06 |
 | [La Interesada](https://open.spotify.com/track/2yJqNAtTReCz7JAs5eCRXu) | [Lucas Arnau](https://open.spotify.com/artist/5vLOlJcOKe9DfBC5LeLpSs), [Pasabordo](https://open.spotify.com/artist/6tYuW96NhiYI3sAxEDsqK4) | [La Interesada](https://open.spotify.com/album/0e6DoOVWobtACCRavXpCkF) | 2:38 | 2023-04-28 | 2023-05-13 |
 | [La lista de mis Ex](https://open.spotify.com/track/32zdk3scjEMNdIciy8IvQE) | [Camilo Baena](https://open.spotify.com/artist/1ZaFqYadyVXsabvWnMITxB) | [La lista de mis Ex](https://open.spotify.com/album/7xJ396zdd4du0sFpGSXh1v) | 2:39 | 2023-01-27 | 2023-02-14 |
+| [La Llamada](https://open.spotify.com/track/4vwSnkU49dha68do07dNXp) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [La Llamada](https://open.spotify.com/album/487bGMoPKzTxVMQua6O10T) | 2:55 | 2024-09-06 |  |
 | [La Peor](https://open.spotify.com/track/7ug5WK1GBbyaoUsV5Fi3Rj) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Peor](https://open.spotify.com/album/2wQN91Z2EyMWawFD1HIzGs) | 3:30 | 2022-08-12 | 2023-01-14 |
 | [La Perdí](https://open.spotify.com/track/1KGM6EITxeU7UulAYCxF7L) | [Alzate](https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu) | [La Perdí](https://open.spotify.com/album/18RSFe7GgCnKtnZKwiAUwO) | 2:50 | 2023-01-13 | 2023-02-18 |
 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 | 2022-08-26 | 2022-09-17 |

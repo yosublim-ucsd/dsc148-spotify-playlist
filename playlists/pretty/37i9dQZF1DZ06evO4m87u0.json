@@ -1,12 +1,12 @@
 {
   "description": "This is The Black Keys. The essential tracks, all in one playlist.",
-  "num_followers": 286575,
+  "num_followers": 286616,
   "original_name": "This Is The Black Keys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAA8+2BI6BQhSsu/zDInlwl5",
+  "snapshot_id": "Ztj0gAAAAAA7eOHDS7nlu+NyeTtqkMZX",
   "tracks": [
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+      "duration_ms": 128893,
+      "name": "Heavy Soul",
+      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 128893,
-      "name": "Heavy Soul",
-      "url": "https://open.spotify.com/track/5GZq8P4Iy2smHngL07Pcuo"
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 224480,
-      "name": "Sinister Kid",
-      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
+      "duration_ms": 250706,
+      "name": "Psychotic Girl",
+      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
@@ -420,57 +420,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Psychotic Girl",
-      "url": "https://open.spotify.com/track/2mFnxVS2wZpqntPzZB17O1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chulahoma",
-        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Meet Me in the City",
-      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 213226,
-      "name": "10 Lovers",
-      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ohio Players",
-        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 224044,
-      "name": "This Is Nowhere",
-      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+      "duration_ms": 224480,
+      "name": "Sinister Kid",
+      "url": "https://open.spotify.com/track/78krcD2vFUXJ3Y0XXeiHWH"
     },
     {
       "added_at": null,
@@ -491,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+        "name": "Chulahoma",
+        "url": "https://open.spotify.com/album/6jJKeu4hPomUuMOM6iGVzQ"
       },
       "artists": [
         {
@@ -500,25 +452,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 181306,
-      "name": "The Breaks",
-      "url": "https://open.spotify.com/track/3pyTeNilPDFq10Ce60WROE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 222960,
-      "name": "Turn Blue",
-      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+      "duration_ms": 218466,
+      "name": "Meet Me in the City",
+      "url": "https://open.spotify.com/track/0vblqF5R4FyCAVBasjLGdu"
     },
     {
       "added_at": null,
@@ -532,9 +468,41 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 202354,
-      "name": "Only Love Matters",
-      "url": "https://open.spotify.com/track/1SA1S31wud6Qoq8rxkqbSt"
+      "duration_ms": 224044,
+      "name": "This Is Nowhere",
+      "url": "https://open.spotify.com/track/7aQx06Jx3iA9pRdixCUADJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 213226,
+      "name": "10 Lovers",
+      "url": "https://open.spotify.com/track/5HPnumlogzZtpLEaORZjz1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "The Breaks",
+      "url": "https://open.spotify.com/track/3pyTeNilPDFq10Ce60WROE"
     },
     {
       "added_at": null,
@@ -555,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Ohio Players",
+        "url": "https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI"
       },
       "artists": [
         {
@@ -564,9 +532,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 160543,
-      "name": "Eagle Birds",
-      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
+      "duration_ms": 202354,
+      "name": "Only Love Matters",
+      "url": "https://open.spotify.com/track/1SA1S31wud6Qoq8rxkqbSt"
     },
     {
       "added_at": null,
@@ -580,9 +548,25 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 268120,
-      "name": "In Time",
-      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
+      "duration_ms": 222960,
+      "name": "Turn Blue",
+      "url": "https://open.spotify.com/track/1pwWrPxonLIE12WWu9NzgU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160543,
+      "name": "Eagle Birds",
+      "url": "https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA"
     },
     {
       "added_at": null,
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"Let's Rock\"",
-        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
       },
       "artists": [
         {
@@ -632,57 +616,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 160501,
-      "name": "Sit Around And Miss You",
-      "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thickfreakness",
-        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 228373,
-      "name": "Thickfreakness",
-      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 269306,
-      "name": "Ten Cent Pistol",
-      "url": "https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Attack & Release",
-        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 190320,
-      "name": "Strange Times",
-      "url": "https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn"
+      "duration_ms": 268120,
+      "name": "In Time",
+      "url": "https://open.spotify.com/track/39e1gl7VaxuCev5ga7bvNq"
     },
     {
       "added_at": null,
@@ -703,8 +639,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dropout Boogie",
-        "url": "https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk"
+        "name": "Thickfreakness",
+        "url": "https://open.spotify.com/album/0GJH6shkenNdqkpGdsY8aa"
       },
       "artists": [
         {
@@ -712,15 +648,15 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 228533,
-      "name": "It Ain't Over",
-      "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
+      "duration_ms": 228373,
+      "name": "Thickfreakness",
+      "url": "https://open.spotify.com/track/4m6uJViB1sb3OXErHUkkWk"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+        "name": "Attack & Release",
+        "url": "https://open.spotify.com/album/1YHS3Fw8THvsKVVQ1znAqi"
       },
       "artists": [
         {
@@ -728,9 +664,41 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 300611,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
+      "duration_ms": 190320,
+      "name": "Strange Times",
+      "url": "https://open.spotify.com/track/0dpNxKXHazvWga4MN6z2rn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 269306,
+      "name": "Ten Cent Pistol",
+      "url": "https://open.spotify.com/track/2qoLCpTRYv6h8Vx94hxkvl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"Let's Rock\"",
+        "url": "https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 160501,
+      "name": "Sit Around And Miss You",
+      "url": "https://open.spotify.com/track/4yBxXm4dDL00YGdO5G9ubK"
     },
     {
       "added_at": null,
@@ -747,6 +715,22 @@
       "duration_ms": 257532,
       "name": "No Lovin\u2019",
       "url": "https://open.spotify.com/track/6ET7xDSbmaRGJrx1FQlJpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brothers (Deluxe Remastered Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 300611,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/65PE3GVXjkiQOTM7V7NbfY"
     },
     {
       "added_at": null,
@@ -776,9 +760,25 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 211200,
-      "name": "For the Love of Money",
-      "url": "https://open.spotify.com/track/5jH6P7e6RUGZnFGTeq3pUe"
+      "duration_ms": 228533,
+      "name": "It Ain't Over",
+      "url": "https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Delta Kream",
+        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 248511,
+      "name": "Poor Boy a Long Way From Home",
+      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Delta Kream",
-        "url": "https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki"
+        "name": "Rubber Factory",
+        "url": "https://open.spotify.com/album/1rlGDm1KQJfDyT5v1U8Xk5"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 248511,
-      "name": "Poor Boy a Long Way From Home",
-      "url": "https://open.spotify.com/track/3YZFMK3zwAGbCMZQGWY47J"
+      "duration_ms": 179133,
+      "name": "10 A.M. Automatic",
+      "url": "https://open.spotify.com/track/4HIx4KL2XRilgBf6WzfLqI"
     }
   ],
   "unique_name": "This Is The Black Keys",

@@ -1,12 +1,12 @@
 {
-  "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 6299,
+  "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 6304,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAB0sZGePVTP4lOLCLelWtp2",
+  "snapshot_id": "Ztj0gAAAAADzoPuxw63Cj+Lpg9kiKVHm",
   "tracks": [
     {
       "added_at": null,
@@ -323,26 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trap The Fato Deluxe",
-        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
-      },
-      "artists": [
-        {
-          "name": "Derek",
-          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 209245,
-      "name": "\u00d3PIO",
-      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cria de Caxias",
         "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 127866,
       "name": "cria de caxias",
       "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trap The Fato Deluxe",
+        "url": "https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t"
+      },
+      "artists": [
+        {
+          "name": "Derek",
+          "url": "https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 209245,
+      "name": "\u00d3PIO",
+      "url": "https://open.spotify.com/track/59XgYFAlA8GyjOAaNQF29E"
     },
     {
       "added_at": null,

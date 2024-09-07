@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: Fred again..",
-  "num_followers": 378905,
+  "num_followers": 378995,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztm5nAAAAADzY9cz7SMnRFw2LEh3D/YU",
+  "snapshot_id": "Ztp+fAAAAADd3ljvuvqs+d7xNYbUFwX/",
   "tracks": [
     {
       "added_at": "2024-09-05 14:01:00",
@@ -119,6 +119,26 @@
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "added_at": "2024-09-06 04:01:00",
+      "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
       "added_at": "2024-09-05 14:01:00",
@@ -387,6 +407,26 @@
     {
       "added_at": "2024-09-05 14:01:00",
       "album": {
+        "name": "Or What",
+        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "added_at": "2024-09-05 14:01:00",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/2V2pp5n3md9mMwJJts7g3j"
       },
@@ -435,6 +475,26 @@
       "duration_ms": 197775,
       "name": "Troubled Waters",
       "url": "https://open.spotify.com/track/3xohRHSBI2i0HolJPlN85v"
+    },
+    {
+      "added_at": "2024-09-05 14:01:00",
+      "album": {
+        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
     },
     {
       "added_at": "2024-09-05 14:01:00",
@@ -871,17 +931,25 @@
     {
       "added_at": "2024-09-05 14:01:00",
       "album": {
-        "name": "Wet Dreams",
+        "name": "Wet Dreams (feat. Coop & G)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
       "artists": [
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
         }
       ],
       "duration_ms": 159090,
-      "name": "Wet Dreams",
+      "name": "Wet Dreams (feat. Coop & G)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
@@ -1063,6 +1131,30 @@
       "duration_ms": 201702,
       "name": "Not This Time",
       "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
+    },
+    {
+      "added_at": "2024-09-05 14:01:00",
+      "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3kQCRSSeuB3WLD9Exo43XH"
+      },
+      "artists": [
+        {
+          "name": "Ted Park",
+          "url": "https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT"
+        },
+        {
+          "name": "Trinidad Cardona",
+          "url": "https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o"
+        },
+        {
+          "name": "Mike Gao",
+          "url": "https://open.spotify.com/artist/62C0sbk0QOvluqtTjpYTtL"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/0kNry3hVNGpup0UuKIDJne"
     },
     {
       "added_at": "2024-09-05 14:01:00",

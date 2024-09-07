@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Ajna",
+        "url": "https://open.spotify.com/album/0jlaSTdXuHGEx4wfJtjb4J"
+      },
+      "artists": [
+        {
+          "name": "Hollow Graham",
+          "url": "https://open.spotify.com/artist/4yeImZMSwYrOxDHujAsfWz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "Ajna",
+      "url": "https://open.spotify.com/track/60wsl84GfiI0vbMXe1oPeJ"
+    },
+    {
+      "album": {
         "name": "Massima Calma",
         "url": "https://open.spotify.com/album/35Ual1h57LWz1JcJBtwJ27"
       },
@@ -996,7 +1014,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 137249,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/7l1XV19coB7tAqnpuU3oHf"
@@ -1050,7 +1068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 166736,
       "name": "Forest Fantasy (in a Rainy Forest)",
       "url": "https://open.spotify.com/track/3xwNCWTgJQ5mEPgG73F4NU"
@@ -1446,7 +1464,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167427,
       "name": "Linked (Nature)",
       "url": "https://open.spotify.com/track/3NTKS56LNU3cQolVcI3yTx"
@@ -1813,6 +1831,24 @@
     },
     {
       "album": {
+        "name": "Quiet Times",
+        "url": "https://open.spotify.com/album/67iYR0oPfvpKrh43DkgcFf"
+      },
+      "artists": [
+        {
+          "name": "Zen Anani",
+          "url": "https://open.spotify.com/artist/5urqRIieWuxva363YmJoU2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131858,
+      "name": "Quiet Times",
+      "url": "https://open.spotify.com/track/6AVTXGRYp1EjemAzrOzQLl"
+    },
+    {
+      "album": {
         "name": "Infinite",
         "url": "https://open.spotify.com/album/50DJ6XR4dN48VOyFkn1QP1"
       },
@@ -1878,7 +1914,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154000,
       "name": "Rain Song",
       "url": "https://open.spotify.com/track/1SEvWvVTTJZ3adH7QYv5hB"
@@ -1986,7 +2022,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208888,
       "name": "Recalibrated Mind",
       "url": "https://open.spotify.com/track/4VmbFJJGKSKxWkO1L6z0Ca"
@@ -2004,7 +2040,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218250,
       "name": "Remote Escape (in the Rain)",
       "url": "https://open.spotify.com/track/44oJ4rwFKjyzfiHMVdlS3W"
@@ -2134,6 +2170,24 @@
       "duration_ms": 218500,
       "name": "Sidus Imbrem Pluvia",
       "url": "https://open.spotify.com/track/6PtE2MAmHS93rB9UhXkg0x"
+    },
+    {
+      "album": {
+        "name": "Silent Currents",
+        "url": "https://open.spotify.com/album/50G7DHNEqt0FSopFBoHyeq"
+      },
+      "artists": [
+        {
+          "name": "Delayed Dreams",
+          "url": "https://open.spotify.com/artist/67psE9BkYf2rCpo8zZHQmZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187500,
+      "name": "Silent Currents",
+      "url": "https://open.spotify.com/track/7H1X28zSz7QeinZLNOzMac"
     },
     {
       "album": {

@@ -199,6 +199,28 @@
     },
     {
       "album": {
+        "name": "Mozart: Eine Kleine Nachtmusik",
+        "url": "https://open.spotify.com/album/4XtXDGPvBn9DMDWuqZ0uX9"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "City Of London Sinfonia;Andrew Watkinson",
+          "url": "https://open.spotify.com/artist/6oZbiWRHBTHhp9lfILtfGc"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325693,
+      "name": "Eine kleine Nachtmusik K. 525: Romanze",
+      "url": "https://open.spotify.com/track/3vWrAdF7h3LN4skYdJydQD"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Sonatas K.310, K.311 & K.533/494",
         "url": "https://open.spotify.com/album/37qHlAzBNRI9UahnOI9lvr"
       },
@@ -1346,7 +1368,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 363973,
       "name": "Serenade No. 13 in G Major, K. 525, \"Eine kleine Nachtmusik\": II. Romance",
       "url": "https://open.spotify.com/track/6u3UVuVTsLY3K1phDc3RH6"

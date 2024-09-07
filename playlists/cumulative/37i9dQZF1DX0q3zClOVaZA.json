@@ -1169,6 +1169,28 @@
     },
     {
       "album": {
+        "name": "One and Only - PIKA PIKA Remix",
+        "url": "https://open.spotify.com/album/2ZoxLRc9WtPBjYmlEeqsCm"
+      },
+      "artists": [
+        {
+          "name": "ENHYPEN",
+          "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+        },
+        {
+          "name": "Won Jong Lee",
+          "url": "https://open.spotify.com/artist/0VNPOgaslwkZTwcnmoFrFT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "One and Only - PIKA PIKA Remix",
+      "url": "https://open.spotify.com/track/45N7MSKZFAeYTdGxzUai69"
+    },
+    {
+      "album": {
         "name": "DARK MOON SPECIAL ALBUM <MEMORABILIA>",
         "url": "https://open.spotify.com/album/0OhJwEzXbK9Km6GQSPdmPU"
       },

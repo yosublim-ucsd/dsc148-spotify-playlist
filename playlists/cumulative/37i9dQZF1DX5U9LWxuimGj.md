@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Ela Taubert
 
-180 songs - 9 hr 54 min
+181 songs - 9 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Ring of Fire](https://open.spotify.com/track/0s62CMcYQzqro7kFKCVIAd) | [The Mexican Standoff](https://open.spotify.com/artist/5FFjAQNzQf5Nnyl0eG2Rts) | [Country from another Country](https://open.spotify.com/album/2MyLrd6esHFxMjP1FdtC7W) | 3:42 | 2021-12-10 | 2024-04-10 |
 | [Se Me Olvidó](https://open.spotify.com/track/7paFC3FEu1WtPVP4Do6VZN) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AYAYAY!](https://open.spotify.com/album/4In6hAxpuu07JqkzY8cjtg) | 2:39 | 2021-12-10 | 2024-04-10 |
 | [Se Va A Arrepentir](https://open.spotify.com/track/3tV7TCBFRB4dZ03gYwZ7Ax) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Atemporal](https://open.spotify.com/album/69opE4juUkLG8qTWNKB6Cv) | 3:18 | 2021-12-10 |  |
+| [solo un nombre](https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [solo un nombre](https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz) | 2:48 | 2024-09-06 |  |
 | [Somebody Else's Whiskey](https://open.spotify.com/track/5duD8BLFr2MEvl7IN4g2Li) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Frank Ray](https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ) | 3:53 | 2023-09-29 | 2024-04-10 |
 | [Somebody Else's Whiskey](https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:54 | 2023-07-07 | 2023-11-05 |
 | [Someone Just Like You](https://open.spotify.com/track/3QrLq2W0y6hWgr2cgiCTRF) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP), [Aria Fenix](https://open.spotify.com/artist/2037mdH5NiUF4UrZRBh5vb) | [Someone Just Like You](https://open.spotify.com/album/74omuBW8hpg3xNNW4wy5xX) | 2:34 | 2022-12-16 | 2024-04-10 |

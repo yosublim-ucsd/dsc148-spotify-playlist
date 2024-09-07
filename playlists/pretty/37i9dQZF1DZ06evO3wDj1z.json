@@ -1,12 +1,12 @@
 {
-  "description": "This is Sergio Vega \"El Shaka\". The essential tracks, all in one playlist.",
-  "num_followers": 99736,
+  "description": "This Is Sergio Vega \"El Shaka\". Los temas esenciales, todos en una lista.",
+  "num_followers": 99781,
   "original_name": "This Is Sergio Vega \"El Shaka\"",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAABTRz/nOFGkYw9Bc8AybPIj",
+  "snapshot_id": "Ztj0gAAAAAD2icQOm/GcRMCQ01avOcRb",
   "tracks": [
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Puros Corridos Y Rancheras",
-        "url": "https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd"
-      },
-      "artists": [
-        {
-          "name": "Sergio Vega \"El Shaka\"",
-          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "Plaza Nueva",
-      "url": "https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plaza Nueva",
         "url": "https://open.spotify.com/album/1p3NVsYWDAYQAPfXEIpHk7"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 218120,
       "name": "Arcoiris",
       "url": "https://open.spotify.com/track/2turqKp8C1j8kSg6EKU6x5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Puros Corridos Y Rancheras",
+        "url": "https://open.spotify.com/album/2aiwlEGVGSWyYF8HwooOpd"
+      },
+      "artists": [
+        {
+          "name": "Sergio Vega \"El Shaka\"",
+          "url": "https://open.spotify.com/artist/5YNi3BopLa4XtYRtzML80L"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "Plaza Nueva",
+      "url": "https://open.spotify.com/track/4MXM9jLq0ut2QXg1NPZRAm"
     },
     {
       "added_at": null,

@@ -9741,6 +9741,24 @@
     },
     {
       "album": {
+        "name": "P.A.R.T.Y.",
+        "url": "https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172702,
+      "name": "P.A.R.T.Y.",
+      "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
+    },
+    {
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -10806,6 +10824,24 @@
       "duration_ms": 186666,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo"
+    },
+    {
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "album": {

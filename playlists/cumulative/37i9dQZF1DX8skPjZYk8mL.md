@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,050 songs - 1 day 7 hr 15 min
+1,052 songs - 1 day 7 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,6 +132,7 @@
 | [Blue Eyes](https://open.spotify.com/track/1OfwkOgzfXGTEXgzqUmgs0) | [Fiona Kwinn](https://open.spotify.com/artist/6XbGfIFgEv0UY8G7PMpqTH) | [Blue Eyes](https://open.spotify.com/album/3pLT5NbVIPt430AqAUSzrm) | 1:15 | 2023-05-12 |  |
 | [Blåsippan](https://open.spotify.com/track/3Jq8PjvkWvznKg1VQM0xmR) | [Richard Moore](https://open.spotify.com/artist/7LZONuTYEizh7Bv5NgCTNA) | [Blåsippan](https://open.spotify.com/album/2f8hU3lrEKAhLuLxeYBU74) | 2:17 | 2022-09-02 | 2023-06-03 |
 | [Boattrip with Mum and Dad](https://open.spotify.com/track/6oXlbel2qf1SWlkWiVFBZu) | [Celeste Saga](https://open.spotify.com/artist/4XkTQ4dMrzHbsBJMEfAyDI) | [Boattrip with Mum and Dad](https://open.spotify.com/album/573EWoRYMPR2NvIptRbfls) | 1:25 | 2023-12-08 |  |
+| [Bob the Bumblebee](https://open.spotify.com/track/6j96TPyPRMvRveLVrISLU8) | [Cat McCune](https://open.spotify.com/artist/1Kz4zzy0Py3DqCqV9wAuM4) | [Bob the Bumblebee](https://open.spotify.com/album/3PEth0T1Awn85x6wUBuVSO) | 1:49 | 2024-09-06 |  |
 | [Bonne nuit mon prince](https://open.spotify.com/track/5W03XGSGZLULtu0UykT4iv) | [Gabriele Valois](https://open.spotify.com/artist/5iLuRSlCuDAt7iaA7gkTv5) | [Bonne nuit mon prince](https://open.spotify.com/album/09f5AoxyFNYxiB5RvhL8MU) | 2:03 | 2023-04-07 |  |
 | [Brahms Lullaby](https://open.spotify.com/track/2VZF8Q8GoTGQPSOZikEAZl) | [Lia Phillips](https://open.spotify.com/artist/4j0ENajb8xeVIbhZinVXOU) | [Brahms Lullaby](https://open.spotify.com/album/3cKluVpLsSxkWxbttLN7uD) | 1:46 | 2021-11-08 | 2023-08-11 |
 | [Brahms Lullaby](https://open.spotify.com/track/7ikUx1ac0iqOSvjvROKX8L) | [Mino Lawrence](https://open.spotify.com/artist/7HHsz4iMR3pWHCusoe8Yyb) | [My Guitar Lullabies](https://open.spotify.com/album/2SY1QZEXNnESmB8KeRgvN8) | 2:04 | 2023-08-10 |  |
@@ -215,7 +216,7 @@
 | [Didn't Leave Nobody but the Baby](https://open.spotify.com/track/4Xk05CiaJyLvWc7GtTUQCv) | [Joana Watts](https://open.spotify.com/artist/1Hd2JLOIkYcfgaeRQjfxQW) | [Didn't Leave Nobody but the Baby](https://open.spotify.com/album/5dyehg0WjxqP8ZYayF1tV1) | 2:04 | 2021-11-08 | 2024-04-05 |
 | [Ding dong](https://open.spotify.com/track/2DdKFbeCVD0A0sZwvyVKaB) | [Kim Low](https://open.spotify.com/artist/1TpRygqPUvLFJOOMaQtmMX) | [Ding dong](https://open.spotify.com/album/4ye6LrwqAqulqbfwVQpLPp) | 1:25 | 2021-11-08 | 2023-06-23 |
 | [Dinosaur Bob](https://open.spotify.com/track/5InBJ8eibgtmv1N09ngDhr) | [Dave Zavier](https://open.spotify.com/artist/5eHdr3iDhoa3RwHXlmO8gT) | [Dinosaur Bob](https://open.spotify.com/album/04PLoT0cxdH5slFAVwvsKO) | 1:32 | 2021-11-08 | 2022-09-24 |
-| [Discovering The World](https://open.spotify.com/track/07x1wRDHfUcXBrzodCFyjb) | [Cameron Vigano](https://open.spotify.com/artist/4SIF6IBEyjMq1JBkUJjAYq) | [Discovering The World](https://open.spotify.com/album/3m0vuBLNlMLqKYQAJqRwim) | 1:40 | 2023-02-17 |  |
+| [Discovering The World](https://open.spotify.com/track/07x1wRDHfUcXBrzodCFyjb) | [Cameron Vigano](https://open.spotify.com/artist/4SIF6IBEyjMq1JBkUJjAYq) | [Discovering The World](https://open.spotify.com/album/3m0vuBLNlMLqKYQAJqRwim) | 1:40 | 2023-02-17 | 2024-09-07 |
 | [Don't Grow Up Too Soon](https://open.spotify.com/track/1Y2GR3ytnyBeMUGl53yF5g) | [Melody McKinsey](https://open.spotify.com/artist/2AZSk3cuYwMLXv3okcGBxx) | [Don't Grow Up Too Soon](https://open.spotify.com/album/2wDOy7gi6i20n0uv4o8ksl) | 2:41 | 2022-06-30 | 2023-04-09 |
 | [Donnie The Dino](https://open.spotify.com/track/0YsOXsvS44rwX2A29yGbU1) | [Beatrice Beaulieu](https://open.spotify.com/artist/5dRCdXi7qGfFhdWRyhQuuh) | [Donnie The Dino](https://open.spotify.com/album/4EdOgktOVMSgt9Zo8P02Td) | 2:51 | 2021-11-08 | 2022-10-29 |
 | [Don’t Be Afraid](https://open.spotify.com/track/4e2Nt0Vn5yV1RC7jTEyHNQ) | [Winslow Winchester](https://open.spotify.com/artist/1r4Sgia0s6wqck1PKaNmuH) | [Don’t Be Afraid](https://open.spotify.com/album/3dYDDxkFInOqFf2uCWWKaY) | 1:20 | 2022-06-07 | 2023-08-11 |
@@ -581,6 +582,7 @@
 | [Music Box Lullaby](https://open.spotify.com/track/5HbV5B2J1KUMz12alitSOs) | [Etne Skiöld](https://open.spotify.com/artist/2hBTCIkNqbHQYTDIhxDfJD) | [Music Box Lullaby](https://open.spotify.com/album/37hUsmquAJn11X32hNKQ0N) | 1:25 | 2024-03-01 |  |
 | [My Baby Brother](https://open.spotify.com/track/4kxQ0u5PU8OFSpOXv4JpEC) | [Nataliya Fowler](https://open.spotify.com/artist/1tiCCBYfrrB1loQSAZ42lU) | [My Baby Brother](https://open.spotify.com/album/7kS49Ln0lmwL9Ytozwpv67) | 2:02 | 2021-11-08 | 2022-10-29 |
 | [My Best Friend](https://open.spotify.com/track/2XPpJmMdDKwLaDn5FihlSa) | [Big Marsh](https://open.spotify.com/artist/4d2MCwL7Etc9TuxNALb5IF) | [My Best Friend](https://open.spotify.com/album/0ZKhjitpfir1zFKDZJPYZ6) | 1:36 | 2024-08-09 |  |
+| [My Best Friend](https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd) | [Lina Karo](https://open.spotify.com/artist/3uhp9VrAedCv6oMnkaXBtL) | [My Best Friend](https://open.spotify.com/album/3h9fNJ3vgd2T7tuUpyVUIh) | 1:45 | 2024-09-06 |  |
 | [My Best Friend Bob](https://open.spotify.com/track/6GU8lcVUnQQh9Tumb2uIeR) | [Dodie Little](https://open.spotify.com/artist/6sE8hcdC14rNNo1NXuQ8sy) | [My Best Friend Bob](https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q) | 1:52 | 2021-11-08 | 2023-01-06 |
 | [My Bestest Friend](https://open.spotify.com/track/6zLXJhHRDaPg1BylRNo4l6) | [Jay Orsini](https://open.spotify.com/artist/2jIhq7p0P8ulIWQRiw0UD3) | [My Bestest Friend](https://open.spotify.com/album/4PvFRhUfhKe1q9uXEDxKLi) | 1:37 | 2022-06-30 | 2023-06-16 |
 | [My Birthday Cake](https://open.spotify.com/track/71O4GN11EssqUWbZkSjA1K) | [Gillian Trawick](https://open.spotify.com/artist/3wyQKFZZSzW4t6Gj6CGMHt) | [My Birthday Cake](https://open.spotify.com/album/1DEZfVb85NQsGvGeShrEhj) | 1:27 | 2021-11-08 | 2022-10-29 |
@@ -688,7 +690,7 @@
 | [Que Linda Manita](https://open.spotify.com/track/3hkWnZsvoijkchr5KMxTXG) | [CIRQUS](https://open.spotify.com/artist/3mw587K0yMF8GAG1RgY3kA) | [Que Linda Manita](https://open.spotify.com/album/0d6Uw4qOFr4CXufEReGGwc) | 1:54 | 2022-09-23 | 2023-01-27 |
 | [Quiet Night](https://open.spotify.com/track/5LYbJfH5SvlAxAgQKrv2wu) | [Zuriñe Ilaria](https://open.spotify.com/artist/3nuIaWShg2iLdwSq2cSqGx) | [Baby Lullabies](https://open.spotify.com/album/0h1oogrKRSjdKbigLoQFwj) | 1:52 | 2023-08-10 |  |
 | [Quiet Raindrops](https://open.spotify.com/track/74jmhJrLxKmQPElZ5JuPAW) | [Sarah Schiller](https://open.spotify.com/artist/5Kk7ZNS9w8EaDLa7XUFH4v) | [Quiet Raindrops](https://open.spotify.com/album/6ubXUgE89yHymtc2eXC7kq) | 3:18 | 2021-11-08 | 2022-10-08 |
-| [Rabbit Bestie](https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3) | [Buster Dyson](https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq) | [Rabbit Bestie](https://open.spotify.com/album/3wQNV1Kzkftuyvg6NKf24x) | 1:15 | 2022-12-16 |  |
+| [Rabbit Bestie](https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3) | [Buster Dyson](https://open.spotify.com/artist/5yGyDhblsaGzCxMmExIXrq) | [Rabbit Bestie](https://open.spotify.com/album/3wQNV1Kzkftuyvg6NKf24x) | 1:15 | 2022-12-16 | 2024-09-07 |
 | [Rain On The Roof](https://open.spotify.com/track/4B8RHheYV6ZglY4JN4BBO0) | [Mamiko Amano](https://open.spotify.com/artist/0enAr4QKvIM9RwSI075C58) | [Tenderness](https://open.spotify.com/album/59m1u1lvpLt392J2EqP6sF) | 1:17 | 2022-08-11 | 2024-04-05 |
 | [Rain Rain Go Away](https://open.spotify.com/track/57AUEUQCRQv0iPcdsgHbBc) | [Oisin O'Sullivan](https://open.spotify.com/artist/4MaXIrmMXS5LVpdeBc3acF) | [Rain Rain Go Away](https://open.spotify.com/album/4bIhZxgNBfK2U2phwBdtoy) | 1:45 | 2021-11-08 | 2022-10-29 |
 | [Rain Rain, Go Away](https://open.spotify.com/track/3W2uPHkZrhRBoPvVEzxZtC) | [Isa Kaur](https://open.spotify.com/artist/54MoTKvnw2dYd7SmXCVU5m) | [Rain Rain, Go Away](https://open.spotify.com/album/5F5pfOSlPWb1YC8yHjQ6Ab) | 1:08 | 2023-11-17 |  |
@@ -894,7 +896,7 @@
 | [The Magic Boat Ride](https://open.spotify.com/track/4rPGjWNP1zmUlBWdi86CK1) | [Dore Mi](https://open.spotify.com/artist/4njrMBDibPhATgAffWWFZM) | [Peaceful Nights](https://open.spotify.com/album/6WWTVD1vO6Zk22iqVKmOAR) | 1:59 | 2023-06-02 |  |
 | [The Moon and Me](https://open.spotify.com/track/28PZHFYICfuG2LvyfTH3NB) | [Naéli Gosally](https://open.spotify.com/artist/3USC0JkWo1du1xVV3AuVyh) | [The Moon and Me](https://open.spotify.com/album/1yi1eGXZv5lVIfSoq6a5lu) | 1:34 | 2023-08-10 |  |
 | [The Moon And The Stars](https://open.spotify.com/track/1OTGgmMvL0VXOLL1dcVTpB) | [Marlene Soeren](https://open.spotify.com/artist/7lhwZYEpTqsoU0I1mFg1iv) | [The Moon And The Stars](https://open.spotify.com/album/0ddGfC2I7XpPLpCimirktG) | 1:55 | 2024-06-28 |  |
-| [The Moon And The Stars](https://open.spotify.com/track/2FROaOKmXqqJfcgSpy7Gu2) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Moon And The Stars](https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE) | 2:19 | 2023-03-17 |  |
+| [The Moon And The Stars](https://open.spotify.com/track/2FROaOKmXqqJfcgSpy7Gu2) | [Paul Ellier](https://open.spotify.com/artist/2ffr4kDekHfqOgMV0fhlSu) | [The Moon And The Stars](https://open.spotify.com/album/3oQCI4enDfQDmauf0QaudE) | 2:19 | 2023-03-17 | 2024-09-07 |
 | [The Moon Looks Like A Cake](https://open.spotify.com/track/2plQn19ZnV5cquaAPu3NZc) | [Denise Boyette](https://open.spotify.com/artist/7Ic0m7rS8gwZQSDiOmLJxc) | [The Moon Looks Like A Cake](https://open.spotify.com/album/4bsuR68E2sJNY6fvFOVQzN) | 1:43 | 2022-06-07 | 2024-05-04 |
 | [The More We Get Together](https://open.spotify.com/track/1NFGCM05E8UmXCYlYxGZ1x) | [Leslie Cyzner](https://open.spotify.com/artist/2hA7X1UG3Vb95EUylqcf3N) | [Mary Had a Little Lamb](https://open.spotify.com/album/4LF5iraotVnbVyZ4N30qfv) | 1:21 | 2021-11-08 | 2023-01-06 |
 | [The Mulberry Bush](https://open.spotify.com/track/6yE3oqujPvKKVuwqdoALlh) | [Diedrik Tapp](https://open.spotify.com/artist/5ywa1JkkLaskTEXYfo9c5n) | [The Mulberry Bush](https://open.spotify.com/album/1j7soGWdaZ2b3xAHgX03yp) | 2:09 | 2023-03-17 | 2024-04-05 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-14",
-  "description": "too scared to not look away. cover: the front room ",
+  "description": "too scared to not look away. cover: the front room\n",
   "name": "my life is an A24 horror movie",
   "tracks": [
     {
@@ -220,6 +220,24 @@
       "duration_ms": 174933,
       "name": "Bored In The House",
       "url": "https://open.spotify.com/track/5OxveXfvga2t0se21d96Ow"
+    },
+    {
+      "album": {
+        "name": "The Front Room (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XFbGK2bQGeUZhQrSaQCRT"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Zarvos",
+          "url": "https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201600,
+      "name": "Child Of God",
+      "url": "https://open.spotify.com/track/6hB6aSJgVj8ZmiLUH6IeuC"
     },
     {
       "album": {

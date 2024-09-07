@@ -953,6 +953,28 @@
     },
     {
       "album": {
+        "name": "Por Causa Dele / Est\u00e1 Tudo Bem (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iDFYkgU28o1Ja8OebIcbi"
+      },
+      "artists": [
+        {
+          "name": "Kellen Byanca",
+          "url": "https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI"
+        },
+        {
+          "name": "Todah Network",
+          "url": "https://open.spotify.com/artist/5lBlzQkM3nt3oMeSLFruR3"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444435,
+      "name": "Por Causa Dele / Est\u00e1 Tudo Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5ULBbb84hWBUygbh4Yg53a"
+    },
+    {
+      "album": {
         "name": "Pra Que Eu Fosse Livre",
         "url": "https://open.spotify.com/album/4Rb1l85qRASxpjtSZztiKJ"
       },
@@ -1156,7 +1178,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 215750,
       "name": "Sinal de Amor",
       "url": "https://open.spotify.com/track/7uyS7PnbHR4QLyKdn3j5tE"

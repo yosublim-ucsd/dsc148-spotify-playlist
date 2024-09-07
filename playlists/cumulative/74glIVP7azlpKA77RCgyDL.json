@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-16",
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Gojira.",
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Spiritbox.",
   "name": "Best New Songs Right Now",
   "tracks": [
     {
@@ -78,6 +78,28 @@
       "duration_ms": 184356,
       "name": "24 Thorns (feat. Kane Gelaznik)",
       "url": "https://open.spotify.com/track/1X2Jxm71xUnqWOXEfOPBFB"
+    },
+    {
+      "album": {
+        "name": "Killing of a Sacred Deer",
+        "url": "https://open.spotify.com/album/0GmcJfefLMz7y1juV1jXCB"
+      },
+      "artists": [
+        {
+          "name": "Killing of a Sacred Deer",
+          "url": "https://open.spotify.com/artist/3oCnbyLX60bL7JryfJlgKX"
+        },
+        {
+          "name": "Cauldron",
+          "url": "https://open.spotify.com/artist/0NFF2BJlMNVyOTY02bGbZP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189565,
+      "name": "25.4mm from Death",
+      "url": "https://open.spotify.com/track/0vJYr0EIPlrkBrSvckWcz0"
     },
     {
       "album": {
@@ -3170,6 +3192,24 @@
       "duration_ms": 150205,
       "name": "Disposal",
       "url": "https://open.spotify.com/track/0EO2VSzN4uYo1xnp5qYkLL"
+    },
+    {
+      "album": {
+        "name": "Disputatious Malignancy",
+        "url": "https://open.spotify.com/album/18Wc9Znqp9Q6fm9nPfGmd6"
+      },
+      "artists": [
+        {
+          "name": "Undeath",
+          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173413,
+      "name": "Disputatious Malignancy",
+      "url": "https://open.spotify.com/track/2JwCI7buFePo9kVh41tJYa"
     },
     {
       "album": {
@@ -7987,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "No Mercy, No Remorse",
+        "url": "https://open.spotify.com/album/4yCPhsLVlRQ1HVA0dH3uXm"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168214,
+      "name": "No Mercy, No Remorse",
+      "url": "https://open.spotify.com/track/7fVuehJJQ7tccou7HcNtCD"
+    },
+    {
+      "album": {
         "name": "Marathon",
         "url": "https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4"
       },
@@ -10771,6 +10829,24 @@
     },
     {
       "album": {
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
+    },
+    {
+      "album": {
         "name": "Someone's Daughter",
         "url": "https://open.spotify.com/album/43QTCpdlaIKgAVnCmaA0hh"
       },
@@ -11946,6 +12022,24 @@
       "duration_ms": 203586,
       "name": "The Dying Song (Time To Sing)",
       "url": "https://open.spotify.com/track/5Lqk8Z6MnfIyeTchmMaPEG"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -13184,6 +13278,24 @@
       "duration_ms": 221841,
       "name": "Undertow (feat. King Woman)",
       "url": "https://open.spotify.com/track/60LTPp9VKjj6aE4oje3lWJ"
+    },
+    {
+      "album": {
+        "name": "Undying Spectral Resonance",
+        "url": "https://open.spotify.com/album/0RQqE9wkRw44ElgsW6iWwu"
+      },
+      "artists": [
+        {
+          "name": "Mammoth Grinder",
+          "url": "https://open.spotify.com/artist/7pIDCJJU7yAb4CIlaj9h3f"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176271,
+      "name": "Undying Spectral Resonance",
+      "url": "https://open.spotify.com/track/0k9wViO84GZyZbVDl46DeB"
     },
     {
       "album": {

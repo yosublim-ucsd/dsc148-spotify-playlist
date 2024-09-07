@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 170000,
       "name": "Back Then",
       "url": "https://open.spotify.com/track/5nlpPjxnAz3m8vSYdaBbRS"
@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 140961,
       "name": "CVNTY",
       "url": "https://open.spotify.com/track/6Z9DLcPnRFLupsw5WJ5sLw"
@@ -1214,7 +1214,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 187956,
       "name": "Do Dat Baby",
       "url": "https://open.spotify.com/track/75DcS0cmvDFFWni1ah7UGE"
@@ -3375,6 +3375,24 @@
     },
     {
       "album": {
+        "name": "Moodboard",
+        "url": "https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132493,
+      "name": "Moodboard",
+      "url": "https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u"
+    },
+    {
+      "album": {
         "name": "Club Shy (extended)",
         "url": "https://open.spotify.com/album/1ojjeSCH0gg7T5StxFJx7g"
       },
@@ -3547,6 +3565,24 @@
     },
     {
       "album": {
+        "name": "Never let",
+        "url": "https://open.spotify.com/album/2UJbbLQvLSrksziSOvn3D3"
+      },
+      "artists": [
+        {
+          "name": "BULLYACHE",
+          "url": "https://open.spotify.com/artist/1U6RHOlK1jvJP055zKxbSo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166500,
+      "name": "Never let",
+      "url": "https://open.spotify.com/track/3AiaZKDSSrrWwW6Fm9gyuf"
+    },
+    {
+      "album": {
         "name": "Neverland",
         "url": "https://open.spotify.com/album/1z8kbd29vvgGVkjaxss02U"
       },
@@ -3566,6 +3602,24 @@
       "duration_ms": 201230,
       "name": "Neverland",
       "url": "https://open.spotify.com/track/3NwKONlygiXJU6G2u6b7iq"
+    },
+    {
+      "album": {
+        "name": "Next Bitch",
+        "url": "https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123555,
+      "name": "Next Bitch",
+      "url": "https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU"
     },
     {
       "album": {
@@ -3700,7 +3754,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 201529,
       "name": "Oh The Glamour",
       "url": "https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt"
@@ -3902,6 +3956,28 @@
       "duration_ms": 163348,
       "name": "Prada",
       "url": "https://open.spotify.com/track/7I8UTLiBA1ptFm04WulwhH"
+    },
+    {
+      "album": {
+        "name": "So Dramatic",
+        "url": "https://open.spotify.com/album/3AptlscWlH1LNL9P5qP7gp"
+      },
+      "artists": [
+        {
+          "name": "Miss Madeline",
+          "url": "https://open.spotify.com/artist/697XzB9DackcbNfKz4Ry7v"
+        },
+        {
+          "name": "CLIP",
+          "url": "https://open.spotify.com/artist/3gkLLAZaxTaJhHnUaxQzCl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "PRETTY GIRL PARTY",
+      "url": "https://open.spotify.com/track/05pY7oV9FTyS2gCGdUR32Z"
     },
     {
       "album": {

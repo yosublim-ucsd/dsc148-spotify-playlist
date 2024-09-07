@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 150494,
+  "num_followers": 150513,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -111,22 +111,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
-        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 139360,
-      "name": "Figa De Guin\u00e9",
-      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Sambista Perfeito",
         "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 292906,
       "name": "Meu Lugar",
       "url": "https://open.spotify.com/track/52NFgCjGw7oZKIBABYKLPG"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -207,22 +207,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "A Voz Do Samba",
-        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "N\u00e3o Deixe O Samba Morrer",
-      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "No Pagode",
         "url": "https://open.spotify.com/album/2uBX8Y56Tud8On8rnShgZV"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 222354,
       "name": "Conto De Areia",
       "url": "https://open.spotify.com/track/3dEfGt5Ml97FQBeHngn4YA"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "A Voz Do Samba",
+        "url": "https://open.spotify.com/album/7aCf9unsgNV0kLoiqzhLL4"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "N\u00e3o Deixe O Samba Morrer",
+      "url": "https://open.spotify.com/track/5iq4NDi4fznJJRLL1rXNE4"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Alerta Geral",
-        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
-      },
-      "artists": [
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 245160,
-      "name": "Sufoco",
-      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Peda\u00e7os",
         "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 238200,
       "name": "T\u00f4 Voltando",
       "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Alerta Geral",
+        "url": "https://open.spotify.com/album/5dsmCu5KWvJj0elthC8Gra"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 245160,
+      "name": "Sufoco",
+      "url": "https://open.spotify.com/track/3WaSohmE1Ahd3viZ7nfen2"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "Kavita 1",
         "url": "https://open.spotify.com/album/7hqmVqRcjVRqcEfoAQjqoO"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 392813,
       "name": "Z\u00e9 Do Caro\u00e7o",
       "url": "https://open.spotify.com/track/1x8uLFuwVbLxcvVerQtuWq"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Baterista: Wilson Das Neves",
-        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
+        "name": "Fazendo As Pazes Com o Swing",
+        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
       },
       "artists": [
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Orquestra Imperial",
+          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
         }
       ],
-      "duration_ms": 134533,
-      "name": "Balan\u00e7o Zona Sul",
-      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
+      "duration_ms": 190880,
+      "name": "Pode Ser",
+      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Fazendo As Pazes Com o Swing",
-        "url": "https://open.spotify.com/album/1jcmsXAXW84DQu89H0EO0C"
+        "name": "Baterista: Wilson Das Neves",
+        "url": "https://open.spotify.com/album/7LC9GOB8XtVE5p2IVMi2oZ"
       },
       "artists": [
         {
-          "name": "Orquestra Imperial",
-          "url": "https://open.spotify.com/artist/6OxyzWx49kzuz73kHCz457"
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 190880,
-      "name": "Pode Ser",
-      "url": "https://open.spotify.com/track/5jxMSv48POGEIvOoMjkrqP"
+      "duration_ms": 134533,
+      "name": "Balan\u00e7o Zona Sul",
+      "url": "https://open.spotify.com/track/3IcF9Ix8invTlg7kdsDfcv"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
-    },
-    {
-      "added_at": "2024-07-19 03:01:00",
-      "album": {
         "name": "At\u00e9 Depois do Fim",
         "url": "https://open.spotify.com/album/6NNBd6rbQFlqBbIReMBUHr"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
       },
       "artists": [
         {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1103,6 +1087,22 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+    },
+    {
+      "added_at": "2024-07-19 03:01:00",
+      "album": {
         "name": "Dia De Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH"
       },
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Macieira",
-        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
+        "name": "Samba Djanira (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2p9rpcvacUrFxMJ7bUgUgK"
       },
       "artists": [
         {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
         }
       ],
-      "duration_ms": 203680,
-      "name": "Macieira",
-      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
+      "duration_ms": 210223,
+      "name": "A Carta - Ao Vivo",
+      "url": "https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz"
     },
     {
       "added_at": "2024-07-19 03:01:00",
@@ -1171,18 +1171,18 @@
     {
       "added_at": "2024-07-19 03:01:00",
       "album": {
-        "name": "Samba Djanira (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2p9rpcvacUrFxMJ7bUgUgK"
+        "name": "Macieira",
+        "url": "https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ"
       },
       "artists": [
         {
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
         }
       ],
-      "duration_ms": 210223,
-      "name": "A Carta - Ao Vivo",
-      "url": "https://open.spotify.com/track/5SBtvHWDye0wHQZzyIp9jz"
+      "duration_ms": 203680,
+      "name": "Macieira",
+      "url": "https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX"
     },
     {
       "added_at": "2024-07-19 03:01:00",

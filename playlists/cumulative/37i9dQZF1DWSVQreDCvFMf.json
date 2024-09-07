@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: TJ Monterde",
+  "description": "Mga bago at lumilitaw sa mundo ng OPM. Cover: Maki",
   "name": "OPM Rising",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 245600,
       "name": "'Di Bale Na Lang",
       "url": "https://open.spotify.com/track/3pSEi2X7aUdBwLlx8iffjX"
@@ -38,6 +38,24 @@
       "duration_ms": 275999,
       "name": "'Di Na Posible",
       "url": "https://open.spotify.com/track/5dVLtXuGXzaFBoAiwE6YZU"
+    },
+    {
+      "album": {
+        "name": "1999",
+        "url": "https://open.spotify.com/album/2CvhO76IfFWsRXyMjDoqj4"
+      },
+      "artists": [
+        {
+          "name": "JOSH CULLEN",
+          "url": "https://open.spotify.com/artist/3xn2W0ziGURPYJj372a6jQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213428,
+      "name": "1999",
+      "url": "https://open.spotify.com/track/2VPFmPbdgKbU2FJ2caXMC5"
     },
     {
       "album": {
@@ -113,6 +131,24 @@
     },
     {
       "album": {
+        "name": "ARAW-ARAW",
+        "url": "https://open.spotify.com/album/4Xde2IrigkqgoXjYlJw6CE"
+      },
+      "artists": [
+        {
+          "name": "Yamada",
+          "url": "https://open.spotify.com/artist/6TvBl6ilNrLLzaF6t60pOI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166113,
+      "name": "ARAW-ARAW",
+      "url": "https://open.spotify.com/track/0D4R1fDFh1DRzchL31XlDt"
+    },
+    {
+      "album": {
         "name": "Atin Ang Walang Hanggan",
         "url": "https://open.spotify.com/album/73Xv8DhknPr6TCBtPSBcPe"
       },
@@ -160,7 +196,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 297066,
       "name": "Awitin Mo, Isasayaw Ko",
       "url": "https://open.spotify.com/track/5BWvcOgDDQdGEkxKpsojNc"
@@ -797,6 +833,32 @@
     },
     {
       "album": {
+        "name": "I hope you're doing well",
+        "url": "https://open.spotify.com/album/4zwOMvKkBEqE4vZZ22yx8m"
+      },
+      "artists": [
+        {
+          "name": "Doughbaby",
+          "url": "https://open.spotify.com/artist/2R7aG4RRGoFpgMAf8Iuz4T"
+        },
+        {
+          "name": "Lois",
+          "url": "https://open.spotify.com/artist/4MyPYzhADI4RiGagihAxYV"
+        },
+        {
+          "name": "Rees Gonzales",
+          "url": "https://open.spotify.com/artist/7CRciD57UzAgDaHo8CfJWd"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211750,
+      "name": "I hope you're doing well",
+      "url": "https://open.spotify.com/track/6RxfdQPBpHHrPokap0mzzq"
+    },
+    {
+      "album": {
         "name": "I'll Be Somebody You Want",
         "url": "https://open.spotify.com/album/5J0PdxyEV1WClHdHpm2PEV"
       },
@@ -880,7 +942,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 235161,
       "name": "Janice",
       "url": "https://open.spotify.com/track/0BewsYUbEIKdJmdap9oI7V"
@@ -1686,7 +1748,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 192642,
       "name": "OTW",
       "url": "https://open.spotify.com/track/0mGAvPp4Vlmvl0nyLTxa5B"
@@ -1751,6 +1813,24 @@
     },
     {
       "album": {
+        "name": "Apat Na Buwan",
+        "url": "https://open.spotify.com/album/7zKcc6B3ZqbMG117tsGMk3"
+      },
+      "artists": [
+        {
+          "name": "Janine",
+          "url": "https://open.spotify.com/artist/09Xydf4dlkr29dH99DmsvQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229205,
+      "name": "Palihim",
+      "url": "https://open.spotify.com/track/7d3lqYm2DtCg7zdulTfBQ8"
+    },
+    {
+      "album": {
         "name": "Panaginip Ko",
         "url": "https://open.spotify.com/album/1yULhjvIedMHjzbgGpSGQD"
       },
@@ -1802,6 +1882,24 @@
       "duration_ms": 240000,
       "name": "PAPALAYO",
       "url": "https://open.spotify.com/track/6HAH7oCNx5jSYCxXEmmZVz"
+    },
+    {
+      "album": {
+        "name": "Paraya",
+        "url": "https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX"
+      },
+      "artists": [
+        {
+          "name": "December Avenue",
+          "url": "https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252857,
+      "name": "Paraya",
+      "url": "https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA"
     },
     {
       "album": {
@@ -2098,7 +2196,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208000,
       "name": "Sandali",
       "url": "https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO"
@@ -2464,7 +2562,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 230649,
       "name": "This Na Malambing",
       "url": "https://open.spotify.com/track/5ZIyDMWHtEjIS9YkmUY5zz"
@@ -2500,7 +2598,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 326666,
       "name": "Tibok",
       "url": "https://open.spotify.com/track/2Dhdu4YB3y5U3RiIcCJduv"
@@ -2612,10 +2710,28 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168544,
       "name": "When I'm Gone",
       "url": "https://open.spotify.com/track/7HtYsjAAc4KRKSr6L5rZTS"
+    },
+    {
+      "album": {
+        "name": "Wish I Could",
+        "url": "https://open.spotify.com/album/7yaMxJccotaM04cWk4e8p2"
+      },
+      "artists": [
+        {
+          "name": "MYMP",
+          "url": "https://open.spotify.com/artist/5elcNQkZ6FCZA3grSOMngY"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317015,
+      "name": "Wish I Could",
+      "url": "https://open.spotify.com/track/0w6kfxne7qn6nfOj7DhBQF"
     },
     {
       "album": {

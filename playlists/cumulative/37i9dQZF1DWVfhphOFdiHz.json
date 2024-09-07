@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Bops and LGBTQIA+ artists only. Cover: Maren Morris",
+  "description": "Bops and LGBTQIA+ artists only. Cover: Jordan Suaste",
   "name": "GLOW US & Canada",
   "tracks": [
     {
@@ -301,6 +301,24 @@
     },
     {
       "album": {
+        "name": "Barracuda",
+        "url": "https://open.spotify.com/album/4V9Y6iZCIUF51df8mKBrhH"
+      },
+      "artists": [
+        {
+          "name": "FIGHTMASTER",
+          "url": "https://open.spotify.com/artist/3ejIpQTvOb6XjUhX96RrMw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256087,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/1yAVqfMY1tya2dh1LTsHG9"
+    },
+    {
+      "album": {
         "name": "Think I'm Gonna Die",
         "url": "https://open.spotify.com/album/7FHCXvrXoDLfYZMn1LP9BG"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177194,
       "name": "Breaking Up With Jesus",
       "url": "https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 206913,
       "name": "BRICK X BRICK",
       "url": "https://open.spotify.com/track/4y2tQsedp2jy7pCVf9uLab"
@@ -630,6 +648,42 @@
       "duration_ms": 232796,
       "name": "Casual",
       "url": "https://open.spotify.com/track/4cEVbTyE1o7ZcgKU3wK8gH"
+    },
+    {
+      "album": {
+        "name": "Casual Drug Use",
+        "url": "https://open.spotify.com/album/6Zix2cAzCUIJrlTRbPAsJe"
+      },
+      "artists": [
+        {
+          "name": "Katie Gavin",
+          "url": "https://open.spotify.com/artist/0DpJl9MRib7qywJOoYqEZg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191601,
+      "name": "Casual Drug Use",
+      "url": "https://open.spotify.com/track/1PrvJfraAbqeqXjXOHUazh"
+    },
+    {
+      "album": {
+        "name": "maybe i already am",
+        "url": "https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Suaste",
+          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190800,
+      "name": "charlie",
+      "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
     },
     {
       "album": {
@@ -908,7 +962,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154396,
       "name": "Dysphoria Hoodie",
       "url": "https://open.spotify.com/track/4nchByjtPvq3iPYrgijp17"
@@ -1099,6 +1153,28 @@
     },
     {
       "album": {
+        "name": "Forget",
+        "url": "https://open.spotify.com/album/12QxUZ4a228qP0WgLqXXh0"
+      },
+      "artists": [
+        {
+          "name": "Fashion Club",
+          "url": "https://open.spotify.com/artist/6IOqRJfqL3IKF8VkJzA3a3"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206735,
+      "name": "Forget",
+      "url": "https://open.spotify.com/track/27PEw6KABDhal42pkvHhc0"
+    },
+    {
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/3NLfyLsd28UzhllOrsPhlv"
       },
@@ -1226,7 +1302,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177810,
       "name": "GIRLS GIRLS GIRLS",
       "url": "https://open.spotify.com/track/0LMry7J6N4fouJrOkpDjXy"
@@ -1605,6 +1681,24 @@
     },
     {
       "album": {
+        "name": "I'm Not Alone",
+        "url": "https://open.spotify.com/album/7JoWwQpUV2moBx52rhNLri"
+      },
+      "artists": [
+        {
+          "name": "Sophia Stel",
+          "url": "https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343980,
+      "name": "I'm Not Alone",
+      "url": "https://open.spotify.com/track/1HP7tKTAfMVyfratNpc6be"
+    },
+    {
+      "album": {
         "name": "I'm Really Pretty",
         "url": "https://open.spotify.com/album/6q62muJ2St1NCzwR4B5M02"
       },
@@ -1652,7 +1746,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 145414,
       "name": "Idolize",
       "url": "https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ"
@@ -1750,7 +1844,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 114626,
       "name": "IT IS WHAT IT IS",
       "url": "https://open.spotify.com/track/54rkDSLIa8TbUi7yZOoD33"
@@ -1768,7 +1862,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 191693,
       "name": "It Wasn't Love",
       "url": "https://open.spotify.com/track/3MUiNiT2ORtzpIxD9b5UC2"
@@ -2481,6 +2575,24 @@
     },
     {
       "album": {
+        "name": "Sip",
+        "url": "https://open.spotify.com/album/50XzWO5A3W9Kk6hMR24kh6"
+      },
+      "artists": [
+        {
+          "name": "Hansom \u0112li",
+          "url": "https://open.spotify.com/artist/6NwI5CAoRbYCTWCiCiQ7Dh"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221746,
+      "name": "ORANGE",
+      "url": "https://open.spotify.com/track/6KCHDmrYnJoxjBjtfmURSy"
+    },
+    {
+      "album": {
         "name": "Parallel",
         "url": "https://open.spotify.com/album/3NLfyLsd28UzhllOrsPhlv"
       },
@@ -3188,7 +3300,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182265,
       "name": "Stuntin",
       "url": "https://open.spotify.com/track/7yhBhI7yNA7hb4Vi0ROsQA"
@@ -3503,6 +3615,28 @@
     },
     {
       "album": {
+        "name": "tiny purse, tiny top",
+        "url": "https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        },
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126766,
+      "name": "tiny purse, tiny top",
+      "url": "https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq"
+    },
+    {
+      "album": {
         "name": "i used to be funny.",
         "url": "https://open.spotify.com/album/7da2islBlr2IUA2dJeLyg9"
       },
@@ -3558,6 +3692,24 @@
       "duration_ms": 153141,
       "name": "True Love",
       "url": "https://open.spotify.com/track/2cfLC8bOBaD5NpPIJkA5GL"
+    },
+    {
+      "album": {
+        "name": "u-haul",
+        "url": "https://open.spotify.com/album/2A7t413liTBl6nxw54L8mA"
+      },
+      "artists": [
+        {
+          "name": "audalei",
+          "url": "https://open.spotify.com/artist/5kVRPeQHKUoQ7ooGlewyXP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153409,
+      "name": "u-haul",
+      "url": "https://open.spotify.com/track/5VZW1sKSI7EJ5iwKefVZoR"
     },
     {
       "album": {
@@ -3634,6 +3786,28 @@
       "duration_ms": 192127,
       "name": "Vampire Empire",
       "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/4kPTj6wYQUYtgBOZb1E6Pg"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192017,
+      "name": "Video (feat. Ravyn Lenae)",
+      "url": "https://open.spotify.com/track/4uGNs1g1IUxBbfPao2nPoH"
     },
     {
       "album": {
@@ -3800,7 +3974,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 251076,
       "name": "You Could Hate Me",
       "url": "https://open.spotify.com/track/1rMyVctsW3yl5RZSabhbIv"

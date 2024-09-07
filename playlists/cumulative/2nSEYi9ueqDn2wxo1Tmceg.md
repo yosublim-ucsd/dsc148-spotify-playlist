@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ">Joe Goddard</a>
 
-1,052 songs - 3 day 0 hr 15 min
+1,053 songs - 3 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-05-15 | 2024-06-13 |
 | [Closer](https://open.spotify.com/track/0pDssdjxNAmSmG2HtSBNOV) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Closer](https://open.spotify.com/album/7BvDqcyGlPX14IH7L9dbNr) | 3:46 | 2022-10-03 | 2022-10-13 |
 | [Closer](https://open.spotify.com/track/2fmyHaJBaPrT6cf1igqLgJ) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Anywhere But Here](https://open.spotify.com/album/18w7oi2HN7XeQD2CMNCFHV) | 3:46 | 2022-10-12 | 2022-12-01 |
+| [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 | 2024-09-06 |  |
 | [Cloudy](https://open.spotify.com/track/3McNxe4ofvYZ9uR84Cph58) | [Blue Bendy](https://open.spotify.com/artist/7Fv9bX6Oy7AhbhKXh5dgIG) | [Cloudy](https://open.spotify.com/album/1cmYpshLS9j5ctqvq2z5HE) | 6:20 | 2023-04-05 | 2023-05-11 |
 | [Clues Not to Read](https://open.spotify.com/track/3lfC4A8X3cMyoHtj2FZazP) | [Fievel Is Glauque](https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ) | [Clues Not to Read](https://open.spotify.com/album/3HKkf7w1vah6ikxOsfzGFr) | 4:27 | 2022-11-30 | 2023-01-26 |
 | [Cold](https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Cold](https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo) | 4:42 | 2022-06-08 | 2022-06-30 |

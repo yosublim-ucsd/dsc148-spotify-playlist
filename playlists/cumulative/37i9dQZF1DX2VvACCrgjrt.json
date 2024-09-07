@@ -632,7 +632,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 123241,
       "name": "Anytime",
       "url": "https://open.spotify.com/track/23whPg6ma3qTOfKwgtvsv4"
@@ -918,7 +918,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 155774,
       "name": "Back Around",
       "url": "https://open.spotify.com/track/1qBHrESbnwFaTy0xzFADOx"
@@ -2070,7 +2070,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 196212,
       "name": "Body Move",
       "url": "https://open.spotify.com/track/5WKh6blmxRjvYaqrVyKauk"
@@ -2641,6 +2641,28 @@
     },
     {
       "album": {
+        "name": "Broke",
+        "url": "https://open.spotify.com/album/5VI7gSQ2bussOvm9vxVapg"
+      },
+      "artists": [
+        {
+          "name": "Dillon Nathaniel",
+          "url": "https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j"
+        },
+        {
+          "name": "AK RENNY",
+          "url": "https://open.spotify.com/artist/7J0b2c5hn6vsok7dPwtQMX"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156850,
+      "name": "Broke",
+      "url": "https://open.spotify.com/track/3MPZQ2WMnCYKWTbTrChc7l"
+    },
+    {
+      "album": {
         "name": "BUBBLEGUM",
         "url": "https://open.spotify.com/album/0Wi614PbxDMUurzK8xJDwe"
       },
@@ -3082,7 +3104,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 195000,
       "name": "CASH",
       "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
@@ -3518,6 +3540,28 @@
       "duration_ms": 243870,
       "name": "Conflict",
       "url": "https://open.spotify.com/track/0UzGLQkMItEJc1NW3vrwTK"
+    },
+    {
+      "album": {
+        "name": "Consume It",
+        "url": "https://open.spotify.com/album/5QkNAL0C8a1dnnAzAZCx07"
+      },
+      "artists": [
+        {
+          "name": "Where It's ATT",
+          "url": "https://open.spotify.com/artist/6sMtJ7VjiMiflyZCnTxEcD"
+        },
+        {
+          "name": "Veste",
+          "url": "https://open.spotify.com/artist/0J3bkc9cinplW5YbSjTo5O"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183979,
+      "name": "Consume It",
+      "url": "https://open.spotify.com/track/3il0x7oS13YAfsmSWx6saa"
     },
     {
       "album": {
@@ -5245,6 +5289,24 @@
     },
     {
       "album": {
+        "name": "Feel (Real Love)",
+        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161503,
+      "name": "Feel (Real Love)",
+      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
+    },
+    {
+      "album": {
         "name": "Feeling Naughty",
         "url": "https://open.spotify.com/album/1Eozvs60IkKnm4cRIHHtsw"
       },
@@ -5924,7 +5986,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 210400,
       "name": "Full Speed (feat. Aviella)",
       "url": "https://open.spotify.com/track/5pIJ99J4vVntZgDPFZYBtw"
@@ -8427,6 +8489,24 @@
     },
     {
       "album": {
+        "name": "Kick Back",
+        "url": "https://open.spotify.com/album/1XoH6YumavGj8NIFaiqJET"
+      },
+      "artists": [
+        {
+          "name": "FETISH",
+          "url": "https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137497,
+      "name": "Kick Back",
+      "url": "https://open.spotify.com/track/4UbHtOlsHWyFn60uCNM825"
+    },
+    {
+      "album": {
         "name": "CONTROVERSIA by Alok Vol. 008",
         "url": "https://open.spotify.com/album/38RZAmM8SqgL5gyhWacYFK"
       },
@@ -10755,6 +10835,32 @@
     },
     {
       "album": {
+        "name": "No Promises",
+        "url": "https://open.spotify.com/album/3OcA0AvSNGLnvwLVHGA7Ei"
+      },
+      "artists": [
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        },
+        {
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
+        },
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195121,
+      "name": "No Promises",
+      "url": "https://open.spotify.com/track/7EzqeyQOsH2RjpwTnxtYCj"
+    },
+    {
+      "album": {
         "name": "NO RULES",
         "url": "https://open.spotify.com/album/55SOheZmaTFPTrqCm3xhti"
       },
@@ -11961,6 +12067,28 @@
     },
     {
       "album": {
+        "name": "PLUR",
+        "url": "https://open.spotify.com/album/0lrxUw8DTNDMKgD3TM5xO3"
+      },
+      "artists": [
+        {
+          "name": "Scorsi",
+          "url": "https://open.spotify.com/artist/0LQKGvxOXZHDCxuite9zcT"
+        },
+        {
+          "name": "Navarro",
+          "url": "https://open.spotify.com/artist/1w5Rf7xG2u644JDolm4hdU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "PLUR",
+      "url": "https://open.spotify.com/track/5HN8RiGIt5km1HqmLBVcZi"
+    },
+    {
+      "album": {
         "name": "POISON",
         "url": "https://open.spotify.com/album/6ZgYXqEkw3yPv1qNTemAjd"
       },
@@ -11972,7 +12100,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176349,
       "name": "POISON",
       "url": "https://open.spotify.com/track/2oBcLwlLUey5cqIXIFnCgq"
@@ -14793,6 +14921,24 @@
     },
     {
       "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/7CB5j9HbY8awG0PhcjLmAy"
+      },
+      "artists": [
+        {
+          "name": "Ekonovah",
+          "url": "https://open.spotify.com/artist/18HNzDVt4zxoq7Ejsxbp1x"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203760,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/48TrMJXONxegs0i8wB9zOo"
+    },
+    {
+      "album": {
         "name": "Taking My Time",
         "url": "https://open.spotify.com/album/1NYbd0nyDLdW0siikDGgzS"
       },
@@ -16630,7 +16776,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 150639,
       "name": "What She Said",
       "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"

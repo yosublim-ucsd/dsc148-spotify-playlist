@@ -1,6 +1,6 @@
 {
   "description": "For the pain, tears and heartbreak.",
-  "num_followers": 27522,
+  "num_followers": 27546,
   "original_name": "End in Tears ",
   "owner": {
     "name": "Spotify",
@@ -879,30 +879,6 @@
     {
       "added_at": "2024-09-05 12:48:56",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
-      },
-      "artists": [
-        {
-          "name": "Libianca",
-          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Chl\u00f6e",
-          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-        }
-      ],
-      "duration_ms": 221242,
-      "name": "Mistaken",
-      "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-09-05 12:48:56",
-      "album": {
         "name": "EX BOYFRIEND",
         "url": "https://open.spotify.com/album/1OVZQ2AGHb6fQM0CFAviQq"
       },
@@ -915,6 +891,26 @@
       "duration_ms": 134546,
       "name": "EX BOYFRIEND",
       "url": "https://open.spotify.com/track/3pcITc6cPAvj5JtOnXiB1X"
+    },
+    {
+      "added_at": "2024-09-05 12:48:56",
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/0yHslhvyRmnhOCUIYzNE5i"
+      },
+      "artists": [
+        {
+          "name": "Troniq Music",
+          "url": "https://open.spotify.com/artist/21s2eqp56FkfHrrXpSTixv"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 187300,
+      "name": "Ojuju",
+      "url": "https://open.spotify.com/track/5FNrbC6EKv4HXqz5MOPZm7"
     }
   ],
   "unique_name": "End in Tears ",

@@ -1,12 +1,12 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Marcin",
-  "num_followers": 146639,
+  "num_followers": 146684,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZsgJQAAAAAAPonot7fCFJ2GV04/NaSTU",
+  "snapshot_id": "Ztp+QAAAAABYBUEIeSXzaHMSAzqq/W2e",
   "tracks": [
     {
       "added_at": "2024-06-07 04:00:00",
@@ -27,6 +27,30 @@
       "duration_ms": 198160,
       "name": "Classical Dragon (feat. Tim Henson)",
       "url": "https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Cool 7",
+        "url": "https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy"
+      },
+      "artists": [
+        {
+          "name": "Sungazer",
+          "url": "https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF"
+        },
+        {
+          "name": "Joshua de la Victoria",
+          "url": "https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e"
+        },
+        {
+          "name": "Jared Yee",
+          "url": "https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Cool 7",
+      "url": "https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -163,22 +187,6 @@
       "duration_ms": 520625,
       "name": "Karnevel!",
       "url": "https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv"
-    },
-    {
-      "added_at": "2024-02-07 14:48:34",
-      "album": {
-        "name": "Our Requiem",
-        "url": "https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Timmons",
-          "url": "https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Our Requiem - Single Version",
-      "url": "https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7"
     },
     {
       "added_at": "2024-02-07 14:48:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PKX5dyBKeq.md) - [plain]
 
 > The Best of Hip\-Hop, Rap and Drill from the UK\. Cover: Pa Salieu
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,389,584 likes - 83 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,389,710 likes - 83 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

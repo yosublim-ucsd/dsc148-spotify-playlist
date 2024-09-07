@@ -2205,6 +2205,24 @@
     },
     {
       "album": {
+        "name": "Kiss Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR"
+      },
+      "artists": [
+        {
+          "name": "Amber Leigh Irish",
+          "url": "https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135250,
+      "name": "Kiss Me - Acoustic",
+      "url": "https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH"
+    },
+    {
+      "album": {
         "name": "L-O-V-E (Acoustic)",
         "url": "https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET"
       },
@@ -2722,6 +2740,24 @@
       "duration_ms": 219172,
       "name": "Mr Brightside - Acoustic",
       "url": "https://open.spotify.com/track/5RO37qUgxkXi6OgzuFBgFu"
+    },
+    {
+      "album": {
+        "name": "My Girl - Acoustic",
+        "url": "https://open.spotify.com/album/5OuYjVW8PepEzH5qzz7xMt"
+      },
+      "artists": [
+        {
+          "name": "The Canyon Run",
+          "url": "https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148622,
+      "name": "My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/529g1MsXGKd0vw7YtG4igP"
     },
     {
       "album": {
@@ -3682,7 +3718,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 189623,
       "name": "The Scientist - Candlelight Version",
       "url": "https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG"

@@ -1,12 +1,12 @@
 {
   "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 388012,
+  "num_followers": 388033,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAA2TaoXc/BJ6PJ1xwFLh4ot",
+  "snapshot_id": "Ztj0gAAAAACwyqXGOL9j+Vas0VLMza6y",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rise (Redux)",
-        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
-      },
-      "artists": [
-        {
-          "name": "The Word Alive",
-          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
-        },
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Rise (Redux)",
-      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "REMIX RUMBLE (Steve Aoki Remix)",
         "url": "https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5"
       },
@@ -1003,18 +983,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Aurora, the Witch Between Worlds",
-        "url": "https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j"
+        "name": "Rise (Redux)",
+        "url": "https://open.spotify.com/album/0TtYq1Ni9PBoyxCAkqxuVC"
       },
       "artists": [
+        {
+          "name": "The Word Alive",
+          "url": "https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk"
+        },
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 204607,
-      "name": "Aurora, the Witch Between Worlds",
-      "url": "https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3"
+      "duration_ms": 194919,
+      "name": "Rise (Redux)",
+      "url": "https://open.spotify.com/track/069KZZROmbuGFuZ0B0Qc7A"
     },
     {
       "added_at": null,
@@ -1031,6 +1015,22 @@
       "duration_ms": 241157,
       "name": "Aphelios, the Weapon of the Faithful",
       "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Aurora, the Witch Between Worlds",
+        "url": "https://open.spotify.com/album/2Cm34CjKMF3N25ag6M728j"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 204607,
+      "name": "Aurora, the Witch Between Worlds",
+      "url": "https://open.spotify.com/track/6ilIDnxRnLam92QARefoc3"
     },
     {
       "added_at": null,
@@ -1183,22 +1183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 218274,
-      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
-      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Set It Off",
         "url": "https://open.spotify.com/album/1dvFlkLfxQ9NsmZ61FUO4W"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 150906,
       "name": "Set It Off",
       "url": "https://open.spotify.com/track/6qONYDmRz1s7Msz0yVDHMB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 218274,
+      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
+      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
     },
     {
       "added_at": null,

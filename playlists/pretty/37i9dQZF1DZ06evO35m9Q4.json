@@ -1,12 +1,12 @@
 {
-  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 154614,
+  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 154658,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAAs9pcTxV5MQCxGf+8TK69R",
+  "snapshot_id": "Ztj0gAAAAADJrRG2izaklptSN73ei7Ck",
   "tracks": [
     {
       "added_at": null,
@@ -519,18 +519,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+        "name": "Born Under A Bad Sign - Remastered 2024",
+        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
       },
       "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
+      "duration_ms": 490006,
+      "name": "Born Under A Bad Sign - Remastered 2024",
+      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
     },
     {
       "added_at": null,
@@ -551,22 +555,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born Under A Bad Sign - Remastered 2024",
-        "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
       },
       "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
         {
           "name": "Stevie Ray Vaughan",
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 490006,
-      "name": "Born Under A Bad Sign - Remastered 2024",
-      "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,

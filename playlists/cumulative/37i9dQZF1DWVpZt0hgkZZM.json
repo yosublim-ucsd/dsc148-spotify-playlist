@@ -1257,6 +1257,24 @@
     },
     {
       "album": {
+        "name": "Costa Alegre",
+        "url": "https://open.spotify.com/album/6nkQ2IWo8ftFhbionv8sdo"
+      },
+      "artists": [
+        {
+          "name": "V\u00edctor Salamanca",
+          "url": "https://open.spotify.com/artist/5MMzd4zFRwCc1gyTaWPhiI"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163108,
+      "name": "El Escorpi\u00f3n",
+      "url": "https://open.spotify.com/track/5CKWokUI2JIgROo61Rhh4Q"
+    },
+    {
+      "album": {
         "name": "Orqu\u00eddea de Plata",
         "url": "https://open.spotify.com/album/22gSxHcz1T3gscMlBYOWzn"
       },
@@ -3854,7 +3872,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 214226,
       "name": "Te Est\u00e1n Matando los A\u00f1os",
       "url": "https://open.spotify.com/track/6ofpm7g9hRfIDuP2VDY4u5"

@@ -45,6 +45,28 @@
     },
     {
       "album": {
+        "name": "1000mg",
+        "url": "https://open.spotify.com/album/0hytP3RZLub19AIeoiykuw"
+      },
+      "artists": [
+        {
+          "name": "Asan",
+          "url": "https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140857,
+      "name": "1000mg",
+      "url": "https://open.spotify.com/track/2uohrCJ6tRjqn7Z7kJdkci"
+    },
+    {
+      "album": {
         "name": "Trapicheo: EL DON",
         "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
       },
@@ -900,7 +922,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 181241,
       "name": "AP",
       "url": "https://open.spotify.com/track/17A03LcYFHCv33vZrzhwYy"
@@ -1199,6 +1221,36 @@
     },
     {
       "album": {
+        "name": "Bentley",
+        "url": "https://open.spotify.com/album/2ckdAH0yjemNnvuqsE3MEa"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        },
+        {
+          "name": "Gittobeatz",
+          "url": "https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Bentley",
+      "url": "https://open.spotify.com/track/2oVpXTAmiotbE8akm04LwE"
+    },
+    {
+      "album": {
         "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
         "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
       },
@@ -1324,6 +1376,32 @@
       "duration_ms": 191052,
       "name": "Big Booty",
       "url": "https://open.spotify.com/track/5nBHB9JZjBS087RSDgIEon"
+    },
+    {
+      "album": {
+        "name": "Billy",
+        "url": "https://open.spotify.com/album/0Mi214cvLYVDElQUnOpsMz"
+      },
+      "artists": [
+        {
+          "name": "Rome LMN",
+          "url": "https://open.spotify.com/artist/0Q2SdTYqioFqrQTbawYHAS"
+        },
+        {
+          "name": "Joyce Santana",
+          "url": "https://open.spotify.com/artist/4zOhMWD0LoBe2nP7s9cHhX"
+        },
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168200,
+      "name": "Billy",
+      "url": "https://open.spotify.com/track/44jLJBWWJJ6YKDGuieuxHh"
     },
     {
       "album": {
@@ -1880,7 +1958,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165306,
       "name": "CLAP",
       "url": "https://open.spotify.com/track/0WF17ZUQCLX2eIgq99bIUe"
@@ -3910,7 +3988,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 118857,
       "name": "HACERME RICO",
       "url": "https://open.spotify.com/track/6VETiiOB9y6rmV9eNkEsLY"
@@ -4890,7 +4968,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167996,
       "name": "LA JOYA DE ESTA ERA",
       "url": "https://open.spotify.com/track/6uPpIqBNBayeWrMmVcVb5Z"
@@ -5094,6 +5172,28 @@
       "duration_ms": 251473,
       "name": "Lambo - Remix",
       "url": "https://open.spotify.com/track/6TcRhfejpeeSSGlh433wcD"
+    },
+    {
+      "album": {
+        "name": "Las Con Chip",
+        "url": "https://open.spotify.com/album/7y6bxf55COSRqkhWfSfjiK"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130539,
+      "name": "Las Con Chip",
+      "url": "https://open.spotify.com/track/4WIwt6LW3tttk26O1ayrX6"
     },
     {
       "album": {
@@ -6722,6 +6822,32 @@
       "duration_ms": 150422,
       "name": "No Creyeron",
       "url": "https://open.spotify.com/track/3Xm0AKAm6rF6c8PAyt9dv0"
+    },
+    {
+      "album": {
+        "name": "Le Clique: Vida Rockstar (X)",
+        "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
+      },
+      "artists": [
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244293,
+      "name": "No Entiendo",
+      "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
     },
     {
       "album": {
@@ -9726,7 +9852,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 199555,
       "name": "Tu Silencio",
       "url": "https://open.spotify.com/track/2aiktOcpNFfbHewJfu4pnf"

@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-469 songs - 1 day 3 hr 11 min
+470 songs - 1 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Dive](https://open.spotify.com/track/51ChrwmUPDJvedPQnIU8Ls) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 3:58 | 2023-02-23 | 2023-04-26 |
 | [Divide](https://open.spotify.com/track/0PbCOBEUjlnvBCe5uCdLlw) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder](https://open.spotify.com/album/0YlJpX1XiE8ghnRJCU0Dwv) | 3:23 | 2023-02-23 | 2023-06-20 |
 | [Divide](https://open.spotify.com/track/56gDMsPfzD6UNG318InjIU) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Sonder \(2023\)](https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2) | 3:23 | 2023-06-06 | 2024-04-19 |
-| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 |  |
+| [Dog in the Park](https://open.spotify.com/track/7aIt9y0iirchcmXvHOrjBs) | [Elephant](https://open.spotify.com/artist/2cwRR7JVxhEre6f0DNRyvW) | [Dog in the Park](https://open.spotify.com/album/6jdS8PKHxrOCoB15wv2QYD) | 3:00 | 2023-08-29 | 2024-09-07 |
 | [Don't Break the Heart](https://open.spotify.com/track/4tS2pyUXiaTjHK7vCBomyF) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Evering Road \- Special Edition](https://open.spotify.com/album/6dfAua5R07Ex8evOwz5sUU) | 3:49 | 2024-03-21 |  |
 | [Don't Know Why](https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:06 | 2023-02-23 | 2024-04-13 |
 | [Don't Like Him On You](https://open.spotify.com/track/4TOP8xLFxbAwQSy5oU1HpS) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [Don't Like Him On You](https://open.spotify.com/album/2AogRugkmAgA0gyDeSivWe) | 2:41 | 2023-08-17 | 2024-03-27 |
@@ -118,6 +118,7 @@
 | [Elephants](https://open.spotify.com/track/0y33xGEGrnMTuHoK8ExbtI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [De Zwarte Lijst](https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK) | 3:30 | 2023-02-23 | 2023-04-26 |
 | [Ella](https://open.spotify.com/track/5RzwjmsN0rQ1yUZcQyvnbV) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/1v4Sce3MaJwQ8bmcHIE4nG) | 3:42 | 2023-09-07 | 2024-03-23 |
 | [Ella](https://open.spotify.com/track/6K6zBaUTbDyLSAVhGSDEl3) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/3Ks48SHWdrZ8wx8ddHetd6) | 3:42 | 2023-04-25 | 2023-10-07 |
+| [Embrace](https://open.spotify.com/track/2mnuH6wQXWl2x50JcRmHlz) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/6kcr08oAUCpEyGmaNC3zeC) | 2:45 | 2024-08-29 |  |
 | [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 | 2024-03-11 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-04-26 |
 | [Even If It’s Lonely](https://open.spotify.com/track/0Uauh4xXNy0WnApqZN3jK6) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Even If It’s Lonely](https://open.spotify.com/album/3ZDtwBVvtZnYPmUinHUrF3) | 4:05 | 2024-04-11 |  |

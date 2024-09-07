@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "A-What",
+        "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
+      },
+      "artists": [
+        {
+          "name": "RELYCT",
+          "url": "https://open.spotify.com/artist/1yvmxpLuFjOlHiplr01Hon"
+        },
+        {
+          "name": "ARKEA",
+          "url": "https://open.spotify.com/artist/598ZvY8cFQtXgFPBSUm28x"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "A-What",
+      "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
+    },
+    {
+      "album": {
         "name": "ADRENALIN",
         "url": "https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw"
       },
@@ -2517,6 +2539,24 @@
     },
     {
       "album": {
+        "name": "BRUXO FANTASMA",
+        "url": "https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88850,
+      "name": "BRUXO FANTASMA",
+      "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
+    },
+    {
+      "album": {
         "name": "BULLET",
         "url": "https://open.spotify.com/album/39yIaoiNiN0VIbQsP8Vqei"
       },
@@ -3478,7 +3518,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 114421,
       "name": "DEFEATED",
       "url": "https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1"
@@ -3748,7 +3788,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 136651,
       "name": "Devil Eyes",
       "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
@@ -4468,6 +4508,28 @@
       "duration_ms": 174915,
       "name": "ECHO OF TERROR",
       "url": "https://open.spotify.com/track/6CN5O0edKbnXUJCNDIjZJy"
+    },
+    {
+      "album": {
+        "name": "EI DO SENSACIO!",
+        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
+      },
+      "artists": [
+        {
+          "name": "princce",
+          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
+        },
+        {
+          "name": "FR3ST",
+          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101089,
+      "name": "EI DO SENSACIO!",
+      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
     },
     {
       "album": {
@@ -9106,7 +9168,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 159842,
       "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
       "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
@@ -9664,8 +9726,16 @@
           "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
         },
         {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+          "name": "DJIEGO",
+          "url": "https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo"
+        },
+        {
+          "name": "Maxximo Dj",
+          "url": "https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4"
+        },
+        {
+          "name": "Mc M4",
+          "url": "https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4"
         }
       ],
       "date_added": "2024-08-09",
@@ -13328,7 +13398,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 149106,
       "name": "THE AUTOTREM 1.0",
       "url": "https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ"
@@ -14280,6 +14350,28 @@
       "duration_ms": 182783,
       "name": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
       "url": "https://open.spotify.com/track/3qV8bXiqsR35JEMOy0tpJv"
+    },
+    {
+      "album": {
+        "name": "VAPO DO VAPO",
+        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
+      },
+      "artists": [
+        {
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 68442,
+      "name": "VAPO DO VAPO",
+      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
       "album": {

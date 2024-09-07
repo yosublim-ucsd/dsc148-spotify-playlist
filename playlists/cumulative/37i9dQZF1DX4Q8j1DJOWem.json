@@ -1181,6 +1181,28 @@
     },
     {
       "album": {
+        "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e44\u0e2d\u0e1d\u0e19",
+        "url": "https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS"
+      },
+      "artists": [
+        {
+          "name": "Miteennn",
+          "url": "https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3"
+        },
+        {
+          "name": "ZENTYARB",
+          "url": "https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e44\u0e2d\u0e1d\u0e19",
+      "url": "https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB"
+    },
+    {
+      "album": {
         "name": "\u0e01\u0e32\u0e25\u0e04\u0e23\u0e31\u0e49\u0e07\u0e2b\u0e19\u0e36\u0e48\u0e07\u0e19\u0e32\u0e19\u0e21\u0e32\u0e41\u0e25\u0e49\u0e27",
         "url": "https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu"
       },
@@ -1452,7 +1474,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 213220,
       "name": "\u0e04\u0e19\u0e43\u0e01\u0e25\u0e49\u0e17\u0e35\u0e48\u0e04\u0e34\u0e14\u0e44\u0e01\u0e25 (Far Too Close)",
       "url": "https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT"

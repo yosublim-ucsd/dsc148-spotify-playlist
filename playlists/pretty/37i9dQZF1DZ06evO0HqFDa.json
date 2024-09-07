@@ -1,12 +1,12 @@
 {
-  "description": "This is Ramin Djawadi. The essential tracks, all in one playlist.",
-  "num_followers": 48205,
+  "description": "This Is Ramin Djawadi. Los temas esenciales, todos en una lista.",
+  "num_followers": 48214,
   "original_name": "This Is Ramin Djawadi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAACR3x2CHM0QVgcA6khZ56Eu",
+  "snapshot_id": "Ztj0gAAAAACNQg8M839ddXMBtH7JaJjA",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones - Music From The HBO Series",
-        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
-      },
-      "artists": [
-        {
-          "name": "Ramin Djawadi",
-          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
-        }
-      ],
-      "duration_ms": 155866,
-      "name": "Kill Them All",
-      "url": "https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Game of Thrones (Music from the HBO\u00ae Series - Season 6)",
         "url": "https://open.spotify.com/album/7bBlW6L9r3ICFkbf2WRDXL"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 209808,
       "name": "The Winds of Winter",
       "url": "https://open.spotify.com/track/0wXNnmvuTP0jPMpAXakSs8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Game Of Thrones - Music From The HBO Series",
+        "url": "https://open.spotify.com/album/5P9JZJW0itEaDK5RfWiSuZ"
+      },
+      "artists": [
+        {
+          "name": "Ramin Djawadi",
+          "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
+        }
+      ],
+      "duration_ms": 155866,
+      "name": "Kill Them All",
+      "url": "https://open.spotify.com/track/4m3Irk2mc25kcmJC2uqGlL"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westworld: Season 1 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
+        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 101461,
-      "name": "Main Title Theme - Westworld",
-      "url": "https://open.spotify.com/track/2sw8teIvVMRZKKYD5p795f"
+      "duration_ms": 119660,
+      "name": "A Knight of the Seven Kingdoms",
+      "url": "https://open.spotify.com/track/0uURGp4Fsf5hMn2vMORmah"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Game Of Thrones: Season 8 (Music from the HBO Series)",
-        "url": "https://open.spotify.com/album/3AOeatEAPjy1CKtdkaXaDq"
+        "name": "Westworld: Season 1 (Music from the HBO Series)",
+        "url": "https://open.spotify.com/album/43pttVYo7IjBvive3uebVF"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8"
         }
       ],
-      "duration_ms": 119660,
-      "name": "A Knight of the Seven Kingdoms",
-      "url": "https://open.spotify.com/track/0uURGp4Fsf5hMn2vMORmah"
+      "duration_ms": 101461,
+      "name": "Main Title Theme - Westworld",
+      "url": "https://open.spotify.com/track/2sw8teIvVMRZKKYD5p795f"
     },
     {
       "added_at": null,

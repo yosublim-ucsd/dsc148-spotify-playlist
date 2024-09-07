@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover new Punjabi artists! Cover: Param Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,177 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,186 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,18 +15,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 5 | [Hopeless](https://open.spotify.com/track/4yCYeHPFF0dmQNEUqKX1Gn) | [Yadi](https://open.spotify.com/artist/0goPTDjr7U8QQNFubP2Iwz), [Uptown Slick](https://open.spotify.com/artist/4wYL5YgQIWCzlFJ6CpWb0s) | [Hopeless](https://open.spotify.com/album/6cXygxE2Y07GN4uAW4loGs) | 2:39 |
 | 6 | [Diwana Tera](https://open.spotify.com/track/6J5NFk9xM7J5DwRPfkFTmX) | [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b) | [Diwana Tera](https://open.spotify.com/album/0syHU62MrNvxtb1rF4aRaD) | 3:33 |
 | 7 | [Ik Munda](https://open.spotify.com/track/3RF8VftPBBh7uW4cSqg8z7) | [Simmi Virk](https://open.spotify.com/artist/7dgHHyujaW1YGhycujHnj7), [Bugzy](https://open.spotify.com/artist/4bRpEJ8GG67U3heboTulwI), [Parneet Kaur](https://open.spotify.com/artist/4YA4V26BvUcoNEIkOv3BSd) | [Ik Munda](https://open.spotify.com/album/1q2EEduKcYjkKTMUik6XJd) | 3:31 |
-| 8 | [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 |
-| 9 | [Muqabala \(Original\)](https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF) | [Muqabala \(Original\)](https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm) | 2:51 |
-| 10 | [Att](https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN) | [Venom](https://open.spotify.com/artist/5lZ9zdkK3hlyU2m2WyoPDZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Att](https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw) | 2:45 |
-| 11 | [I AM Done](https://open.spotify.com/track/5RWQ7vMGl48OAazZh4m0SZ) | [Mani Lubana](https://open.spotify.com/artist/4pGzfGs3Rtndzl8F8qHHnn) | [I AM Done](https://open.spotify.com/album/30XNFAUP3dhjhqBhRwU10F) | 3:23 |
-| 12 | [Maruti](https://open.spotify.com/track/5cK0q9bP6DMS3WdYYd19iX) | [Azal](https://open.spotify.com/artist/78pPuZK6cYjVjooXDqdtl6), [Jinxy](https://open.spotify.com/artist/70kUQdkJwB4hlE6wi4St3x) | [Maruti](https://open.spotify.com/album/4REQxfyDQEOShdnEHqSWcY) | 2:15 |
-| 13 | [Kurte Pajame](https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Kurte Pajame](https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc) | 3:10 |
-| 14 | [Town](https://open.spotify.com/track/1OrOIX7DXmrrOpBDbSLOVl) | [Baaz Sidhu](https://open.spotify.com/artist/5Spq7kP7dUZmxp78mIcQmg) | [Town](https://open.spotify.com/album/6spYrcWcehDD6YBZESTaPW) | 2:45 |
-| 15 | [Memories](https://open.spotify.com/track/54ADSaOtLUZtES2IvDAm0u) | [Roshan Prince](https://open.spotify.com/artist/43Tz67xdL3Y2OjpPuMrzld), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi), [Gagan Deep](https://open.spotify.com/artist/3GnvsfUK9sLJJ8TcK2MMMZ) | [Memories](https://open.spotify.com/album/6t1YnsTiZ6lKkEftch3UUa) | 2:59 |
-| 16 | [Everyday](https://open.spotify.com/track/14vkIURua4zQpM11RG43A1) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Everyday](https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK) | 1:54 |
-| 17 | [Catalyst](https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6) | [Catalyst](https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB) | 3:01 |
-| 18 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
-| 19 | [One Side](https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [One Side](https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1) | 2:49 |
+| 8 | [Yaar Tera Ni](https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG), [DPON DASH](https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst) | [Yaar Tera Ni](https://open.spotify.com/album/4gOQgBtSEGCHRZCajXLTZM) | 2:17 |
+| 9 | [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 |
+| 10 | [Muqabala \(Original\)](https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF) | [Muqabala \(Original\)](https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm) | 2:51 |
+| 11 | [Att](https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN) | [Venom](https://open.spotify.com/artist/5lZ9zdkK3hlyU2m2WyoPDZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Att](https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw) | 2:45 |
+| 12 | [I AM Done](https://open.spotify.com/track/5RWQ7vMGl48OAazZh4m0SZ) | [Mani Lubana](https://open.spotify.com/artist/4pGzfGs3Rtndzl8F8qHHnn) | [I AM Done](https://open.spotify.com/album/30XNFAUP3dhjhqBhRwU10F) | 3:23 |
+| 13 | [Maruti](https://open.spotify.com/track/5cK0q9bP6DMS3WdYYd19iX) | [Azal](https://open.spotify.com/artist/78pPuZK6cYjVjooXDqdtl6), [Jinxy](https://open.spotify.com/artist/70kUQdkJwB4hlE6wi4St3x) | [Maruti](https://open.spotify.com/album/4REQxfyDQEOShdnEHqSWcY) | 2:15 |
+| 14 | [Kurte Pajame](https://open.spotify.com/track/2165X2nvb7NcHA7zPupEjt) | [Preet Sidhu](https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz) | [Kurte Pajame](https://open.spotify.com/album/6jX8cMKwqG9HXOtxi6pwDc) | 3:10 |
+| 15 | [Town](https://open.spotify.com/track/1OrOIX7DXmrrOpBDbSLOVl) | [Baaz Sidhu](https://open.spotify.com/artist/5Spq7kP7dUZmxp78mIcQmg) | [Town](https://open.spotify.com/album/6spYrcWcehDD6YBZESTaPW) | 2:45 |
+| 16 | [Memories](https://open.spotify.com/track/54ADSaOtLUZtES2IvDAm0u) | [Roshan Prince](https://open.spotify.com/artist/43Tz67xdL3Y2OjpPuMrzld), [The Masterz](https://open.spotify.com/artist/3oEjX8d25D1kQPUzGIgeQi), [Gagan Deep](https://open.spotify.com/artist/3GnvsfUK9sLJJ8TcK2MMMZ) | [Memories](https://open.spotify.com/album/6t1YnsTiZ6lKkEftch3UUa) | 2:59 |
+| 17 | [Everyday](https://open.spotify.com/track/14vkIURua4zQpM11RG43A1) | [Shahat Gill](https://open.spotify.com/artist/7JYrslpC4w9YRhzwFDZSZV), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Everyday](https://open.spotify.com/album/3amPlcoQ8ZifGXfq016JYK) | 1:54 |
+| 18 | [Catalyst](https://open.spotify.com/track/2xeg4WcbQCLKC0LiEd2web) | [SAHIL CHEEMA](https://open.spotify.com/artist/386AhN34S4IHWkG8mGM1g6) | [Catalyst](https://open.spotify.com/album/0JmCZGVOuHcDueYD27gDbB) | 3:01 |
+| 19 | [Akhiyan](https://open.spotify.com/track/6Bfd1hyQ5AOqiBHlA3AAck) | [Harkirat Sangha](https://open.spotify.com/artist/1fhomnuqkIYFeXNoJB5DjT), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [MERCURY](https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW) | 2:34 |
 | 20 | [900TASK](https://open.spotify.com/track/0J6Y7x3emmC5EL8yB2ST8E) | [JASKARAN](https://open.spotify.com/artist/4AzMhFHYDgw1CZ9SIg885K), [dox](https://open.spotify.com/artist/7sIGEYfllS5VN2Fj0QCtX4), [Karigar](https://open.spotify.com/artist/6BSvdM5bDjeGF7dAaprE5k) | [900TASK](https://open.spotify.com/album/4Bzqv6N0EBpQcycY7PtPyq) | 3:36 |
 | 21 | [New Moon](https://open.spotify.com/track/3sFUxSznTr0Nhvx6Mz4D8s) | [Uday Bath](https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX) | [New Moon](https://open.spotify.com/album/6WScQSs1sHzEVUcM3MRmVZ) | 2:09 |
 | 22 | [Munda Hot](https://open.spotify.com/track/4Yjj5jvHi4uxtVuaY1zA1N) | [Ravonlyy](https://open.spotify.com/artist/4jxAIkgeW8CZnkMIOrAX9h) | [Munda Hot](https://open.spotify.com/album/52bA3D2RbWLwPetelaMBgT) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Makeup](https://open.spotify.com/track/6BcO4yobIcPtMZfmSVA0Mi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Jeet Gill](https://open.spotify.com/artist/5IhKG4KW7qxkYRmNv6adl2) | [Makeup](https://open.spotify.com/album/6njfoEOxQA7TWhk4v7Oi7D) | 2:52 |
 | 50 | [Don't Care Zafar Brar](https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos) | [Zafar Brar](https://open.spotify.com/artist/5LinFD2B7eycr2rGuR93nY) | [Don't Care Zafar Brar](https://open.spotify.com/album/5atV7orCSrhPWAyw3uG3MT) | 2:31 |
 
-Snapshot ID: `Ztf8NwAAAAD3q+xt7rjNNFffMA1BOCLh`
+Snapshot ID: `Ztp8RQAAAAC8LINiSv7LTqZc4EgYlzsL`

@@ -2441,6 +2441,28 @@
     },
     {
       "album": {
+        "name": "Las Con Chip",
+        "url": "https://open.spotify.com/album/7y6bxf55COSRqkhWfSfjiK"
+      },
+      "artists": [
+        {
+          "name": "Young Piri",
+          "url": "https://open.spotify.com/artist/4TaMzYlwqHNvfJ8OJLlDzv"
+        },
+        {
+          "name": "Valdi",
+          "url": "https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130539,
+      "name": "Las Con Chip",
+      "url": "https://open.spotify.com/track/4WIwt6LW3tttk26O1ayrX6"
+    },
+    {
+      "album": {
         "name": "Las manos que rezan",
         "url": "https://open.spotify.com/album/1PjUMepqUJ8DhLNUd6uG7i"
       },
@@ -4242,6 +4264,28 @@
       "duration_ms": 183333,
       "name": "Seguimo Joseando",
       "url": "https://open.spotify.com/track/6YSh5DU0imcpCUrQzCINiq"
+    },
+    {
+      "album": {
+        "name": "Self Esteem",
+        "url": "https://open.spotify.com/album/5JAsCqlO3fQJyJ2oHZWFq1"
+      },
+      "artists": [
+        {
+          "name": "Lil Snow",
+          "url": "https://open.spotify.com/artist/6yYRLzRO7whe1IjNtvEQOV"
+        },
+        {
+          "name": "Yvlian",
+          "url": "https://open.spotify.com/artist/35yxkCL0iT6v7LuCz58F1m"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127075,
+      "name": "Self Esteem",
+      "url": "https://open.spotify.com/track/0FbkSDNKB2taxGSmaYedox"
     },
     {
       "album": {

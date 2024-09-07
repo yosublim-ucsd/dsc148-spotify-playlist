@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,830 likes - 117 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,831 likes - 117 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 50 | [短痛不如長痛](https://open.spotify.com/track/3s0loXJDPcnVrJPNsEDBqG) | [Rachel Liang](https://open.spotify.com/artist/4rdSHzO4enUlVxdQeHPGTp) | [短痛不如長痛](https://open.spotify.com/album/5KCbbJMmt5bNZpYaGec3B9) | 4:03 |
 | 51 | [各自安好](https://open.spotify.com/track/6rauywWxeziJyCMApoAQga) | [Marcus Lee](https://open.spotify.com/artist/18G699wFEzXLGHsgsDZyYj), [何美 Homei](https://open.spotify.com/artist/5QixSnzERRtf6ZQOFrtazj) | [各自安好](https://open.spotify.com/album/6i3Jno5F9EF342DDBVuDQY) | 3:47 |
 | 52 | [一起浪費時光的安全感](https://open.spotify.com/track/5yS3QUbj5ukfTVETtGmyGJ) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [一起浪費時光的安全感](https://open.spotify.com/album/1ekFKiOOaXT1za6Ef7HYJS) | 3:28 |
-| 53 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯 0yao](https://open.spotify.com/artist/05e4BqKJOEBQLkyUHvBnZi) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
+| 53 | [寂寞宇宙](https://open.spotify.com/track/5vx2la1UpjiPF9up0mH8gD) | [黃麟堯 0yao](https://open.spotify.com/artist/5KosNYlC1QcKLSlmcclX5E) | [寂寞宇宙](https://open.spotify.com/album/1QWVx3ih7vaXRKfhyflij8) | 3:49 |
 | 54 | [愛你但說不出口](https://open.spotify.com/track/5CCV2xxYnI7b1wFkP1gElh) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [愛你但說不出口](https://open.spotify.com/album/4pFJjjZj3N3MV20Em5DX3a) | 2:59 |
 | 55 | [就當我們從來沒有愛過](https://open.spotify.com/track/1M3FTkgXk7RQ9sX5Eh49JG) | [賴慈泓](https://open.spotify.com/artist/3t0zjFDl69EzHp3SGQya9l) | [就當我們從來沒有愛過](https://open.spotify.com/album/07otyZ8fQMvZ5vZCHbu5mz) | 2:57 |
 | 56 | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/track/14snAqF5iYj3sxIYurWJqx) | [陳建瑋](https://open.spotify.com/artist/6efddg2D2BhHmcYoV4pTqS), [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [成見 \(feat\. 艾怡良\)](https://open.spotify.com/album/39nGdvUtKAVHdJZdjsY0EC) | 4:48 |

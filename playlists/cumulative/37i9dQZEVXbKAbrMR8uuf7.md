@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-1,550 songs - 3 day 10 hr 6 min
+1,551 songs - 3 day 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,6 +658,7 @@
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-07-21 | 2023-03-19 |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-03-30 | 2023-10-06 |
 | [La Botella](https://open.spotify.com/track/5zkZazxkRze7ub2fT8Xv8u) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [FINAL \(Vol.2\)](https://open.spotify.com/album/5LHd4piJoHcz4CXhjsFKxx) | 3:06 | 2024-03-31 | 2024-04-07 |
+| [La Caja de Pandora](https://open.spotify.com/track/2iDZnPVCIKU8vzllooT6Ui) | [Bimbo el Oso Mañoso](https://open.spotify.com/artist/2P5WbTImnPSJQV4ZbQuQZ3) | [La Caja de Pandora](https://open.spotify.com/album/0uZrDylgoRkGht7mPi2ukd) | 3:02 | 2024-09-06 |  |
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2021-04-19 | 2024-08-18 |
 | [La Canción Feliz Del Disco](https://open.spotify.com/track/3vP62cjz1b4QvUS5vSyEVY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 2:53 | 2024-01-20 | 2024-02-05 |
 | [LA COMBI VERSACE \(feat\. Tokischa\)](https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:41 | 2022-03-20 | 2022-05-03 |
@@ -1058,7 +1059,7 @@
 | [PIDE](https://open.spotify.com/track/2tAwNLAIBtgXdzQOtVq6mL) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [RaiNao](https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:27 | 2023-08-30 | 2023-09-03 |
 | [Pikete](https://open.spotify.com/track/50QqjYyqOapIo9CG7aBvKw) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Pikete](https://open.spotify.com/album/2cmERLzPC9l87fy9sTzedd) | 2:33 | 2021-05-30 | 2021-06-04 |
 | [PIKY](https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu), [Leo RD](https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk) | [PIKY](https://open.spotify.com/album/0t5bMVKuAIiqToDa5bz6li) | 1:58 | 2024-06-16 |  |
-| [Pila De Nota](https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [JeycitoLM](https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4) | [Pila De Nota](https://open.spotify.com/album/3pFagynWQQx2iuemq6tjMm) | 2:18 | 2024-06-09 |  |
+| [Pila De Nota](https://open.spotify.com/track/0F2FwMpxWS4RHPybwjeYwG) | [Bigoblin](https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq), [JeycitoLM](https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4) | [Pila De Nota](https://open.spotify.com/album/3pFagynWQQx2iuemq6tjMm) | 2:18 | 2024-06-09 | 2024-09-07 |
 | [PILE VAINA](https://open.spotify.com/track/1YDHVT5ySsLdlkWuabNNms) | [Tommy el Playboy](https://open.spotify.com/artist/5IemcEOPxaE1cFBgkmUaQ4) | [PILE VAINA](https://open.spotify.com/album/3h6OgbAivYTp7A3G38dwWT) | 2:19 | 2023-08-12 | 2023-08-19 |
 | [Pilita \- Remix](https://open.spotify.com/track/5PhhGBTDaUKpND2VoAt1rm) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Dj Nanow](https://open.spotify.com/artist/3VX5T2YsDtpXkLseGJxXiz), [Paola Houghton](https://open.spotify.com/artist/0flWB3vtKFc8AQ3AzOtVZb) | [Pilita \(Remix\)](https://open.spotify.com/album/6LE1dRMhLEBqpPFt3XCSYO) | 3:06 | 2024-01-14 | 2024-01-20 |
 | [Pilita RD](https://open.spotify.com/track/0EzSjlEoTZvwwxkSpN6vB5) | [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv) | [De Todo Un Poco](https://open.spotify.com/album/43WIdWYTUdeQWozhLoXORt) | 2:58 | 2024-05-24 | 2024-05-26 |

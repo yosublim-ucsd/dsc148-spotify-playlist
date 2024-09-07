@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: Jenna Raine",
-  "num_followers": 929666,
+  "num_followers": 929869,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAABB65HBHHkQ3blgk0lp8aXp",
+  "snapshot_id": "Ztp+QAAAAACy8EDdWBv7PCbqQ3gPTq8m",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -71,6 +71,22 @@
       "duration_ms": 195196,
       "name": "Hate That I Still Love You",
       "url": "https://open.spotify.com/track/5rDJBWv1Seb92dYFa5QECY"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Think I Wanna See You Again",
+        "url": "https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 148541,
+      "name": "Think I Wanna See You Again",
+      "url": "https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -139,18 +155,34 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Moments Like This",
-        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
+        "name": "Running Out Of Time",
+        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
       },
       "artists": [
         {
-          "name": "Marc Scibilia",
-          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
         }
       ],
-      "duration_ms": 164387,
-      "name": "Moments Like This",
-      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
+      "duration_ms": 214986,
+      "name": "Running Out Of Time",
+      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Follow You",
+        "url": "https://open.spotify.com/album/5WV73fHbT3Wc9dTl17Xzq1"
+      },
+      "artists": [
+        {
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
+        }
+      ],
+      "duration_ms": 175562,
+      "name": "Follow You",
+      "url": "https://open.spotify.com/track/4aoM7nMiTlGTO6yJ1WUqfB"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -247,6 +279,22 @@
       "duration_ms": 207213,
       "name": "Caves",
       "url": "https://open.spotify.com/track/6dtaAuJD7vqsNQqyOKlyLV"
+    },
+    {
+      "added_at": "2024-08-30 04:00:00",
+      "album": {
+        "name": "Moments Like This",
+        "url": "https://open.spotify.com/album/6ppT0hCGvX2yRy3VfgX6Eq"
+      },
+      "artists": [
+        {
+          "name": "Marc Scibilia",
+          "url": "https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77"
+        }
+      ],
+      "duration_ms": 164387,
+      "name": "Moments Like This",
+      "url": "https://open.spotify.com/track/24i3pLDLo8YxJiIbV5ZInp"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -359,22 +407,6 @@
       "duration_ms": 261088,
       "name": "Mountain Mama",
       "url": "https://open.spotify.com/track/0b2WuZiNNt7JXKKW3XRIjV"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Running Out Of Time",
-        "url": "https://open.spotify.com/album/4c24YVXh460XLcuAcro3Z0"
-      },
-      "artists": [
-        {
-          "name": "Ashe",
-          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
-        }
-      ],
-      "duration_ms": 214986,
-      "name": "Running Out Of Time",
-      "url": "https://open.spotify.com/track/3H5cGzWfaWla53nt7Craeh"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -751,22 +783,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Klonopin",
         "url": "https://open.spotify.com/album/1Dtuh9lt1CozWmuCS1iF5r"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 167690,
       "name": "Pretty Little Devil",
       "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-08-30 04:00:00",

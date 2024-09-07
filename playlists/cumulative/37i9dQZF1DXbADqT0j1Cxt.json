@@ -2813,6 +2813,24 @@
     },
     {
       "album": {
+        "name": "Fairytales Land",
+        "url": "https://open.spotify.com/album/2FpiDvq1DknNezeTyi37uO"
+      },
+      "artists": [
+        {
+          "name": "Fab Greenwich",
+          "url": "https://open.spotify.com/artist/35OzUznezj2Y175Y1fekEg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89874,
+      "name": "Fairytales Land",
+      "url": "https://open.spotify.com/track/2Xlio7XTJ68wIbaAgctKJF"
+    },
+    {
+      "album": {
         "name": "Fais de beaux re\u0302ves",
         "url": "https://open.spotify.com/album/2vPvxkQOJmKYxRNtMDrwq9"
       },
@@ -8991,6 +9009,24 @@
     },
     {
       "album": {
+        "name": "Someone\u2019s Waiting for You",
+        "url": "https://open.spotify.com/album/4SY1GrOoAAUwOcSNusaQsp"
+      },
+      "artists": [
+        {
+          "name": "Sloan Sandford",
+          "url": "https://open.spotify.com/artist/1hvX04I5h74auPq2xmHvGr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147801,
+      "name": "Someone\u2019s Waiting for You",
+      "url": "https://open.spotify.com/track/35NZ6FgB6tXzDf1ykUbtSA"
+    },
+    {
+      "album": {
         "name": "Sometimes I Lie Awake",
         "url": "https://open.spotify.com/album/1nBYCLfEE7SAbAzLh4SL95"
       },
@@ -11072,7 +11108,7 @@
       ],
       "date_added": "2021-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 92250,
       "name": "Vamos a contar ovejitas",
       "url": "https://open.spotify.com/track/6UXZ2Fzza4SeItUopvNdCI"

@@ -1,6 +1,6 @@
 {
   "description": "cristal multiplicando amor aqui!",
-  "num_followers": 56311,
+  "num_followers": 56333,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -787,30 +787,6 @@
     {
       "added_at": "2024-08-23 03:01:00",
       "album": {
-        "name": "Verdinha Criminosa",
-        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
-      },
-      "artists": [
-        {
-          "name": "MC KTRINE",
-          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
-        },
-        {
-          "name": "Hug\u00e3o",
-          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
-        },
-        {
-          "name": "EHXIS",
-          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
-        }
-      ],
-      "duration_ms": 159516,
-      "name": "Verdinha Criminosa",
-      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
-    },
-    {
-      "added_at": "2024-08-23 03:01:00",
-      "album": {
         "name": "Baby Hair",
         "url": "https://open.spotify.com/album/6Hk41Rh3IMBcdhOwneSaQo"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 153393,
       "name": "Baby Hair",
       "url": "https://open.spotify.com/track/6tgveJsfKptFd0mvJG9Iv6"
+    },
+    {
+      "added_at": "2024-08-23 03:01:00",
+      "album": {
+        "name": "Verdinha Criminosa",
+        "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "Hug\u00e3o",
+          "url": "https://open.spotify.com/artist/4wFNtMpRn2TEzEXZG60iXY"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "duration_ms": 159516,
+      "name": "Verdinha Criminosa",
+      "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
     },
     {
       "added_at": "2024-08-23 03:01:00",

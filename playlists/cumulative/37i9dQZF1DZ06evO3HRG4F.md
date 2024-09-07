@@ -2,7 +2,7 @@
 
 ### [This Is Charlie Monttana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3HRG4F)
 
-> This is Charlie Monttana\. Todos os maiores hits em uma só playlist.
+> This is Charlie Monttana\. The essential tracks, all in one playlist.
 
 66 songs - 4 hr 28 min
 

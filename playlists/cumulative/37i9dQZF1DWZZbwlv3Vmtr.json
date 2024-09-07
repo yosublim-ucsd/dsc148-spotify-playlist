@@ -8754,7 +8754,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 133468,
       "name": "MELT YOURSELF DOWN",
       "url": "https://open.spotify.com/track/7gZsCJTQQfqBMraiyvazHn"
@@ -12033,6 +12033,24 @@
     },
     {
       "album": {
+        "name": "Rebooting",
+        "url": "https://open.spotify.com/album/3tirHKwLLN9ZlijKxuewBL"
+      },
+      "artists": [
+        {
+          "name": "Joe Arrow",
+          "url": "https://open.spotify.com/artist/0FoHpBCk3IjQFbEJyB9Spa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "Rebooting",
+      "url": "https://open.spotify.com/track/11llCoQWwKVjuu6wJFQqmH"
+    },
+    {
+      "album": {
         "name": "Redefine",
         "url": "https://open.spotify.com/album/3I2ZTGS4Pqk6xPvN3MrN6Y"
       },
@@ -14482,7 +14500,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 157500,
       "name": "String Lights",
       "url": "https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF"
@@ -16004,7 +16022,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 156750,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/78p0h77b4Yx4DCkidWXlGV"

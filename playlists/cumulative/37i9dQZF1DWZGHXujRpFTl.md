@@ -4,7 +4,7 @@
 
 > too scared to not look away\. cover: the front room
 
-54 songs - 3 hr 36 min
+55 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ava](https://open.spotify.com/track/4ODKQNq4VcCK7dwz0AU1uO) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Ex Machina \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/73JQnkZK21PuqE4qF3TLJE) | 2:22 | 2023-10-12 |  |
 | [Body Drop](https://open.spotify.com/track/6SaZzBIOyHgYxRBaUl0XAg) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [Bodies Bodies Bodies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3oZOpZBHaiJFwxaZJ98hCD) | 3:09 | 2023-10-12 |  |
 | [Bored In The House](https://open.spotify.com/track/5OxveXfvga2t0se21d96Ow) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Curtis Roach](https://open.spotify.com/artist/38KfCZGlEjHIJDKDwH132d) | [Bored In The House](https://open.spotify.com/album/3DcbbT6kdxVOhiYnsWG06A) | 2:54 | 2023-10-12 |  |
+| [Child Of God](https://open.spotify.com/track/6hB6aSJgVj8ZmiLUH6IeuC) | [Marcelo Zarvos](https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR) | [The Front Room \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2XFbGK2bQGeUZhQrSaQCRT) | 3:21 | 2024-09-06 |  |
 | [Claw Machine](https://open.spotify.com/track/0pUlPdW6iTBWLgMHCp1yvc) | [Sloppy Jane](https://open.spotify.com/artist/0Vll0SNLozOGHbfHbjY4pv), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Claw Machine](https://open.spotify.com/album/0OSVJBh1GMnRjzyPUCTdDP) | 3:47 | 2024-09-04 |  |
 | [Daddy AF](https://open.spotify.com/track/5Pj9iXYfe607U62YwSF5rC) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Daddy AF](https://open.spotify.com/album/3GWdoCGEZLjrsofidLFwgV) | 2:31 | 2023-10-12 |  |
 | [Ducks In A Row](https://open.spotify.com/track/2y01FyWDT6qL1wbSZdGNtg) | [Lucianblomkamp](https://open.spotify.com/artist/1SG4PrT6nLKmqDJ7SfKRJV), [IJALE](https://open.spotify.com/artist/0z2CwWat2P7ABje9hBHfoo) | [Where In The World Is LUCIANBLOMKAMP?](https://open.spotify.com/album/4SF5O79oN7Sd23RsWdmLar) | 3:06 | 2023-10-12 |  |

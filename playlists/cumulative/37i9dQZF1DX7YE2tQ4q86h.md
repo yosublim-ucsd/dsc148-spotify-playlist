@@ -2,9 +2,9 @@
 
 ### [OBSESSED](https://open.spotify.com/playlist/37i9dQZF1DX7YE2tQ4q86h)
 
-> It's a main pop girl emergency 🆘  Cover: Anitta & Victoria
+> It's a main pop girl emergency 🆘  Cover: Paris Hilton
 
-1,043 songs - 2 day 4 hr 20 min
+1,045 songs - 2 day 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -553,6 +553,7 @@
 | [Last Resort](https://open.spotify.com/track/07wivlC2H97wjBNswKZPhy) | [Metteson](https://open.spotify.com/artist/6I6dO1Ytvcv32R1uzP5oZD) | [Last Resort](https://open.spotify.com/album/0jNyhEzqg91y2CpcR3Hw1q) | 2:51 | 2024-01-26 | 2024-02-24 |
 | [Lavender](https://open.spotify.com/track/3Sa7PJ7ohCAEnAzLccmmfj) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Lavender](https://open.spotify.com/album/45ZJzB6Cxl4liNOyfcejQ5) | 3:03 | 2024-02-16 | 2024-02-28 |
 | [lay all your love on me](https://open.spotify.com/track/3wrWJ4cpGWSL2JZieVXhdR) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [lay all your love on me](https://open.spotify.com/album/1yP0udrcDvWX6xizCtWgJH) | 2:58 | 2022-06-03 | 2024-04-13 |
+| [Legacy](https://open.spotify.com/track/3MyRbuDH6A8lrGaejNaFGF) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:18 | 2024-09-06 |  |
 | [Legs \(Keep Dancing\)](https://open.spotify.com/track/4iOVmWFd2HgtWa9yPxvCai) | [Vanessa Williams](https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW) | [Legs \(Keep Dancing\)](https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc) | 3:07 | 2024-04-26 | 2024-07-06 |
 | [Lesbionic](https://open.spotify.com/track/2sRhsxAYfgSJiee7YCBAdi) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6JNdH5ONfL6EgcHpEZpz4M) | 2:41 | 2022-09-09 | 2022-10-29 |
 | [Lesbionic](https://open.spotify.com/track/35Kejpttob4ICouzMYjZg1) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Lesbionic](https://open.spotify.com/album/6SnfGH3zgu3MILSTpPMHhu) | 2:41 | 2022-07-01 | 2022-10-09 |
@@ -679,6 +680,7 @@
 | [New Moon](https://open.spotify.com/track/3EVAefu8mmvsEEIrodOntQ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [New Moon](https://open.spotify.com/album/6Py9Dv51tZJmEdL2rFF9yt) | 3:14 | 2022-04-15 | 2022-06-25 |
 | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/track/22PTmk4mzAVi92WiQPAcFp) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [New To You \(with Normani, Tinashe, & Offset\)](https://open.spotify.com/album/6EfbY42O3BlghXBwGDAnW9) | 5:02 | 2022-07-29 | 2022-09-24 |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 |  |
+| [Next Bitch](https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU) | [Brooke Candy](https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m) | [Next Bitch](https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4) | 2:03 | 2024-09-06 |  |
 | [Nice](https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Nice](https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m) | 2:27 | 2024-03-08 | 2024-04-27 |
 | [Nice Ride](https://open.spotify.com/track/5hfp6O7kXxRn9tIKlg2J28) | [Rina Whorgan](https://open.spotify.com/artist/3Xi3Ik1aqjKMRpbmbqPc0Q) | [Nice Ride](https://open.spotify.com/album/6m5NIyereKL3HvyGKnvdwq) | 3:01 | 2023-11-10 | 2023-12-23 |
 | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/track/0Tv1YRY8Lm8OFcn6dJCF0e) | [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [NICE TO MEET YA \(feat\. Flyana Boss\)](https://open.spotify.com/album/7xWp3QwYJ2myisipllWCVa) | 3:03 | 2024-07-12 | 2024-08-31 |

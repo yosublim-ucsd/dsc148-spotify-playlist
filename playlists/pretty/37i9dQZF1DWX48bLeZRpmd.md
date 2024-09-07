@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,953 likes - 57 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,971 likes - 57 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 7 | [世界中たったひとつ](https://open.spotify.com/track/7D0qr2nyUkyNLpRTh8nhbP) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の未来 EP](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:46 |
 | 8 | [わたしのヒーロー](https://open.spotify.com/track/5C0bi7yIo1SX5VMNJfghnz) | [上杉らいは\(CV:高森奈津美\)](https://open.spotify.com/artist/4XByshJlL07n4oYVtD5Ijo) | [五等分の未来 EP](https://open.spotify.com/album/0j6ka0h0dgJooy1yHS8RLO) | 3:35 |
 | 9 | [五等分の軌跡](https://open.spotify.com/track/7f4RcSAKgYobFpXZEFGvzJ) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 4:09 |
-| 10 | [\#3 映画【五等分の花嫁】松岡禎丞×竹達彩奈「ニ乃のグイグイ感は真似できない！」](https://open.spotify.com/episode/4kMtuvHWDpKCEZU5im9Jeh) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 33:18 |
+| 10 | [\#3 映画【五等分の花嫁】松岡禎丞×竹達彩奈「ニ乃のグイグイ感は真似できない！」](https://open.spotify.com/episode/4kMtuvHWDpKCEZU5im9Jeh) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 33:18 |
 | 11 | [五等分の花嫁\~ありがとうの花\~](https://open.spotify.com/track/2npYfY6lHstJut9RHHzEQD) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 3:31 |
-| 12 | [\#2 映画【五等分の花嫁】伊藤美来×佐倉綾音×水瀬いのり「風太郎のことどう思う？」](https://open.spotify.com/episode/4sHJHzVquyDqL48I92TKxi) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 36:31 |
+| 12 | [\#2 映画【五等分の花嫁】伊藤美来×佐倉綾音×水瀬いのり「風太郎のことどう思う？」](https://open.spotify.com/episode/4sHJHzVquyDqL48I92TKxi) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 36:31 |
 | 13 | [君の笑顔見たいから](https://open.spotify.com/track/5fLTbqoI4bCk3IjbjWE54U) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 4:02 |
 | 14 | [五等分の気持ち](https://open.spotify.com/track/4T0CHrYyqrRY4dOIyuYg4b) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の気持ち](https://open.spotify.com/album/63hKE3ngVp5tVAaj2LqvNz) | 3:42 |
-| 15 | [\#1 映画【五等分の花嫁】伊藤美来×佐倉綾音「ゼミ中に決まりました！＆三玖が良かった～！」](https://open.spotify.com/episode/1QfvyFbq5faE2XjYhFG0pS) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【きみの色】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 30:55 |
+| 15 | [\#1 映画【五等分の花嫁】伊藤美来×佐倉綾音「ゼミ中に決まりました！＆三玖が良かった～！」](https://open.spotify.com/episode/1QfvyFbq5faE2XjYhFG0pS) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/show/6K5xIlszMAmrbveCk035T9) | [Spotify ANIZONE \- アニゾーン 【小市民シリーズ】](https://open.spotify.com/album/6K5xIlszMAmrbveCk035T9) | 30:55 |
 | 16 | [五等分](https://open.spotify.com/track/0GbldhmNR0sqo0lq72lh1l) | [中村巴奈重](https://open.spotify.com/artist/5sZXVQ3vO42HNFVph7W4H9) | [映画「五等分の花嫁」 オリジナル・サウンドトラック](https://open.spotify.com/album/5F2sSVV1saRB3feDpAnpEk) | 2:27 |
 | 17 | [Sign](https://open.spotify.com/track/3pUeCDzHNM0yHN0FoPEadN) | [内田彩](https://open.spotify.com/artist/0M6zW75xJfkFNrxxawEdLz) | [Ephemera](https://open.spotify.com/album/4sZTfQPwOERRFZJ75QZgsO) | 3:53 |
 | 18 | [ごぶんのいち](https://open.spotify.com/track/0Zj8Yt8bzFajzsOTYLFcZh) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の気持ち](https://open.spotify.com/album/63hKE3ngVp5tVAaj2LqvNz) | 4:50 |

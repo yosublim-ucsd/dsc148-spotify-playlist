@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "Color, humor y narrativas contempor\u00e1neas que recorren toda Latinoam\u00e9rica. The Mexican Standoff en portada.",
+  "description": "Color, humor y narrativas contempor\u00e1neas que recorren toda Latinoam\u00e9rica. Caloncho en portada.",
   "name": "Folclor N\u00f3mada",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 473536,
       "name": "Aguanieve",
       "url": "https://open.spotify.com/track/0UxWsiffUoloR5OwAtNwjw"
+    },
+    {
+      "album": {
+        "name": "Al Tiro",
+        "url": "https://open.spotify.com/album/6lOrgBhEYpZXstTPdyIMah"
+      },
+      "artists": [
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245306,
+      "name": "Al Tiro",
+      "url": "https://open.spotify.com/track/0dDZGu9Gs0ZsG8PdZ6JtES"
     },
     {
       "album": {
@@ -1172,7 +1190,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 328773,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/43iNZgahOKELvSYR0G6Yj4"
@@ -1554,7 +1572,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 338687,
       "name": "La Pieza",
       "url": "https://open.spotify.com/track/1QKNOXDI74W6gmDc3T4ujw"
@@ -2154,6 +2172,24 @@
       "duration_ms": 208224,
       "name": "Piensa en M\u00ed",
       "url": "https://open.spotify.com/track/1KfCdHD9zFCzcjYYhy6dwy"
+    },
+    {
+      "album": {
+        "name": "Tofu",
+        "url": "https://open.spotify.com/album/4fbMnFRM48zpSJeSiCRn0n"
+      },
+      "artists": [
+        {
+          "name": "Caloncho",
+          "url": "https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164866,
+      "name": "Popango",
+      "url": "https://open.spotify.com/track/79bZNuOM8V5W8n2DaTpUXf"
     },
     {
       "album": {

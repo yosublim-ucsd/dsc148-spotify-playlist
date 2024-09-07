@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 488668,
+  "num_followers": 488650,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAC46M4cMi1QXHtbT5gY6ZlN",
+  "snapshot_id": "Ztj0gAAAAADw1DG13E58l6PrTz+W1q/6",
   "tracks": [
     {
       "added_at": null,
@@ -651,30 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Panther",
-        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        },
-        {
-          "name": "James Galway",
-          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
-        },
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 159715,
-      "name": "Pink Panther",
-      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VS. (Other People\u2019s Heartache, Pt. III)",
         "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
@@ -699,38 +675,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "High Times For Low Lives",
-        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
+        "name": "Pink Panther",
+        "url": "https://open.spotify.com/album/3LqJO6tvTMpEfXKciCTcSV"
       },
       "artists": [
         {
-          "name": "The Griswolds",
-          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        },
+        {
+          "name": "James Galway",
+          "url": "https://open.spotify.com/artist/774mHr909NkDVeyyXQBQfZ"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 192106,
-      "name": "YDLM",
-      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 225190,
-      "name": "Coconut Oil",
-      "url": "https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM"
+      "duration_ms": 159715,
+      "name": "Pink Panther",
+      "url": "https://open.spotify.com/track/0dFShT2MD9OMNyQBUCeJCV"
     },
     {
       "added_at": null,
@@ -755,6 +719,42 @@
       "duration_ms": 468590,
       "name": "Stairway To Heaven",
       "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 225190,
+      "name": "Coconut Oil",
+      "url": "https://open.spotify.com/track/6E44nO0qqQqfmXOhQPp0MM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "High Times For Low Lives",
+        "url": "https://open.spotify.com/album/6FXaCbvuAQfgD1YysB7w2f"
+      },
+      "artists": [
+        {
+          "name": "The Griswolds",
+          "url": "https://open.spotify.com/artist/3nUbzTTtP2w4HqvT5y5vkV"
+        },
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 192106,
+      "name": "YDLM",
+      "url": "https://open.spotify.com/track/5UUQUFsYJyfF6YwqTnquuA"
     },
     {
       "added_at": null,

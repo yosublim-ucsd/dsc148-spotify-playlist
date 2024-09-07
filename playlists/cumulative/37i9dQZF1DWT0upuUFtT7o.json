@@ -14733,6 +14733,24 @@
     },
     {
       "album": {
+        "name": "Follow Your Captain",
+        "url": "https://open.spotify.com/album/5xXj2BZ9wWkJv8SzTHRG1u"
+      },
+      "artists": [
+        {
+          "name": "fantasy of a broken heart",
+          "url": "https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254000,
+      "name": "Follow Your Captain",
+      "url": "https://open.spotify.com/track/2osES61bEzDAHFczATHyDS"
+    },
+    {
+      "album": {
         "name": "the wildflower woman",
         "url": "https://open.spotify.com/album/2UNKNKGbqxBqeGfgVZS3Gm"
       },

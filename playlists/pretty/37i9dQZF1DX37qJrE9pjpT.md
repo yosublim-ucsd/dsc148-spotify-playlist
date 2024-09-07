@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37qJrE9pjpT.md) - [plain]
 
 > The hottest rap anthems from Tanzania all in one playlist\. Cover: Young Lunya
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,351 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,356 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Bachela](https://open.spotify.com/track/3P0h3icGbxwgsdH3FIbPs4) | [Nay Wa Mitego](https://open.spotify.com/artist/3P97oGJM0vr8VZEz1HX1aq) | [Bachela](https://open.spotify.com/album/5FAm31IKryLF4D7F7ZyYlO) | 3:49 |
 | 2 | [Everyday \(Energy\)](https://open.spotify.com/track/5DoeazOk3xqe01MWGbXd5a) | [Conboi Cannabino](https://open.spotify.com/artist/10D7HPh6me5e5O1JmwHRsh), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Everyday \(Energy\)](https://open.spotify.com/album/4XDefqXCDJVKEg9iq5Thxm) | 3:16 |
-| 3 | [Glory](https://open.spotify.com/track/71l944iHhGOsZctedw8t4a) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/5LEjFMfFZMUHqxJYye0xKp) | [Glory](https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8) | 2:54 |
+| 3 | [Glory](https://open.spotify.com/track/71l944iHhGOsZctedw8t4a) | [Fid Q](https://open.spotify.com/artist/3C6NG0KFmmZlKkeg4DxDHK), [Gifted](https://open.spotify.com/artist/0XrX0AFNhaz5uWuzV9tdIH) | [Glory](https://open.spotify.com/album/7GTHmMI3oRIuz3VDv6ekp8) | 2:54 |
 | 4 | [Judiana](https://open.spotify.com/track/69X34vwjV04eyt08K0mOdX) | [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Judiana](https://open.spotify.com/album/3sJGaYAqbxQ6HYyFgletds) | 3:10 |
 | 5 | [Hii Hapa](https://open.spotify.com/track/6OdlGVgbF5r7ZGEnZg42pb) | [Weusi](https://open.spotify.com/artist/7eECTa41N0fSqdhZbIxcGK) | [Hii Hapa](https://open.spotify.com/album/61JiVZe3Ati0R8qVux7XOo) | 4:18 |
 | 6 | [Jimmy to London](https://open.spotify.com/track/5MCOGR0s14nqzGNusvmRWu) | [Bank Budha](https://open.spotify.com/artist/073OZYfKOK3OAGCcnfX82O), [Blinded Beats](https://open.spotify.com/artist/1YfhhXl6NSRLnXeHXgPiS7) | [Jimmy to London](https://open.spotify.com/album/043dxh8Sr8fC7s955ytwZ5) | 2:48 |

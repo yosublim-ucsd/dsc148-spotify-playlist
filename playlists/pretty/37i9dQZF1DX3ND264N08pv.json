@@ -1,6 +1,6 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 75287,
+  "num_followers": 75323,
   "original_name": "Hardcore Rage 2024",
   "owner": {
     "name": "Spotify",
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Fade To Black",
-        "url": "https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        },
-        {
-          "name": "Dr. Peacock",
-          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
-        }
-      ],
-      "duration_ms": 226937,
-      "name": "Fade To Black",
-      "url": "https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "Hardcore Life",
         "url": "https://open.spotify.com/album/4XMlZ6SusR7WeZX0O9aP6w"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 165176,
       "name": "Hardcore Life",
       "url": "https://open.spotify.com/track/4nXsqlZrNtDdjUNFiM358T"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Fade To Black",
+        "url": "https://open.spotify.com/album/0EUYMtj5bwFoOHwdHwv8IT"
+      },
+      "artists": [
+        {
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        },
+        {
+          "name": "Dr. Peacock",
+          "url": "https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3"
+        }
+      ],
+      "duration_ms": 226937,
+      "name": "Fade To Black",
+      "url": "https://open.spotify.com/track/2SYurUBnKRFobADxclh1RA"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -619,8 +619,8 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "The Deadly Fist",
-        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
+        "name": "Overdosis",
+        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
       },
       "artists": [
         {
@@ -628,13 +628,13 @@
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "Deadly Guns",
-          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
+          "name": "MC Robs",
+          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
         }
       ],
-      "duration_ms": 194710,
-      "name": "The Deadly Fist",
-      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
+      "duration_ms": 220000,
+      "name": "Overdosis",
+      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Overdosis",
-        "url": "https://open.spotify.com/album/3LYrflZG7Q6zEP41JVercl"
+        "name": "The Deadly Fist",
+        "url": "https://open.spotify.com/album/3iF9oI3j8t3pgX2tVd6QuP"
       },
       "artists": [
         {
@@ -792,13 +792,13 @@
           "url": "https://open.spotify.com/artist/4sQNUQjOYj9rV2sdfJ8laS"
         },
         {
-          "name": "MC Robs",
-          "url": "https://open.spotify.com/artist/4uKen0MeTvWMQgWLYJcfJ8"
+          "name": "Deadly Guns",
+          "url": "https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Overdosis",
-      "url": "https://open.spotify.com/track/6SA6ttzni94LLVM3Jm5J14"
+      "duration_ms": 194710,
+      "name": "The Deadly Fist",
+      "url": "https://open.spotify.com/track/7pANE2n751S0dmh0WJeC87"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -887,8 +887,8 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Deep In The Underground",
-        "url": "https://open.spotify.com/album/0LynK8y3LDFTTl5yVKWJBf"
+        "name": "HYPER",
+        "url": "https://open.spotify.com/album/5nONZdOuEns5bTt2y6Mbcg"
       },
       "artists": [
         {
@@ -896,13 +896,17 @@
           "url": "https://open.spotify.com/artist/5yirHkilaq4YSjO9BY6oy3"
         },
         {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+          "name": "BOMBSQUAD",
+          "url": "https://open.spotify.com/artist/7fyZZzdEhPZmZWrqrYS0tl"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Deep In The Underground",
-      "url": "https://open.spotify.com/track/4m8YFY4i24ndKnPxpbyNSh"
+      "duration_ms": 206285,
+      "name": "HYPER",
+      "url": "https://open.spotify.com/track/4GbecipoI4oyDE148vjkde"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -923,26 +927,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Schijt Aan!",
-        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Act of Rage",
-          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "Schijt Aan!",
-      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/6cZWKvXdA4z02iC42gBWns"
       },
@@ -959,6 +943,26 @@
       "duration_ms": 188000,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/2H0eRy9vmts59596rouqUy"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Schijt Aan!",
+        "url": "https://open.spotify.com/album/08oCcqdz4Sc71YMsVm0iSY"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Act of Rage",
+          "url": "https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "Schijt Aan!",
+      "url": "https://open.spotify.com/track/4Asfp6WVN4uPlygA9iCEsr"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1003,6 +1007,22 @@
       "duration_ms": 196571,
       "name": "Coco's Revenge - Mind Compressor Remix",
       "url": "https://open.spotify.com/track/1Ef9OrhjeHgcTAO5jSoF8K"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Stress",
+        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
+      },
+      "artists": [
+        {
+          "name": "Noxiouz",
+          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
+        }
+      ],
+      "duration_ms": 147789,
+      "name": "Stress",
+      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1059,22 +1079,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Stress",
-        "url": "https://open.spotify.com/album/6Gr317KEInb9krkZg7ASJI"
-      },
-      "artists": [
-        {
-          "name": "Noxiouz",
-          "url": "https://open.spotify.com/artist/3a898qKIO2UeKsWMKH7R38"
-        }
-      ],
-      "duration_ms": 147789,
-      "name": "Stress",
-      "url": "https://open.spotify.com/track/0Wv6K1VHhz6gWrbUqbutpN"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "Swallow It",
         "url": "https://open.spotify.com/album/5H5rbvZh68gtoN0dgTV76M"
       },
@@ -1111,22 +1115,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "CocoNUTS",
-        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        }
-      ],
-      "duration_ms": 202880,
-      "name": "CocoNUTS",
-      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "Ignition",
         "url": "https://open.spotify.com/album/7hgjqyhtZzO4wExR9dfM4U"
       },
@@ -1143,6 +1131,26 @@
       "duration_ms": 237714,
       "name": "Ignition",
       "url": "https://open.spotify.com/track/7dKBsM3Tp2dXPybxvCes9P"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Make It Blow",
+        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Unresolved",
+          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
+        }
+      ],
+      "duration_ms": 175500,
+      "name": "Make It Blow",
+      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1219,6 +1227,22 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
+        "name": "CocoNUTS",
+        "url": "https://open.spotify.com/album/5MrH86o5jPC8aWik7A4xMu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 202880,
+      "name": "CocoNUTS",
+      "url": "https://open.spotify.com/track/78TGLakuq5ucaHG4SVeVck"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/1q5IWgHlrOuGIaoRYokll7"
       },
@@ -1231,26 +1255,6 @@
       "duration_ms": 202678,
       "name": "Wake Up Now",
       "url": "https://open.spotify.com/track/6yY0KTwtGv0F8xmKLsRXsk"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
-        "name": "Make It Blow",
-        "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Unresolved",
-          "url": "https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Make It Blow",
-      "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1295,26 +1299,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Hide Away",
-        "url": "https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs"
-      },
-      "artists": [
-        {
-          "name": "Invaderz",
-          "url": "https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD"
-        },
-        {
-          "name": "Opgekonkerd",
-          "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Hide Away",
-      "url": "https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1331,6 +1315,26 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Hide Away",
+        "url": "https://open.spotify.com/album/32hVSE1AzVACORPkW4CWBs"
+      },
+      "artists": [
+        {
+          "name": "Invaderz",
+          "url": "https://open.spotify.com/artist/1eKL2T8Hy0bjjjLWlxGQrD"
+        },
+        {
+          "name": "Opgekonkerd",
+          "url": "https://open.spotify.com/artist/4wCyv0VP2QBapdMQvXrCFN"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Hide Away",
+      "url": "https://open.spotify.com/track/1X0BVI7ISwMYualJLRpEob"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1375,22 +1379,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 234846,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "I'm A Raver",
         "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
       },
@@ -1403,6 +1391,22 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 234846,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1487,6 +1491,26 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
+        "name": "Uit M'n Naad!",
+        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        },
+        {
+          "name": "Spitnoise",
+          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
+        }
+      ],
+      "duration_ms": 202800,
+      "name": "Uit M'n Naad!",
+      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
         "name": "The Ultimate Killing Machine",
         "url": "https://open.spotify.com/album/4Go2MGwW5SXqoJCzYgmW23"
       },
@@ -1523,26 +1547,6 @@
       "duration_ms": 217411,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
-        "name": "Uit M'n Naad!",
-        "url": "https://open.spotify.com/album/5HvNhHwer4tmPe5xGqUzUx"
-      },
-      "artists": [
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
-        },
-        {
-          "name": "Spitnoise",
-          "url": "https://open.spotify.com/artist/29kB8Ku9QQNmrl3yZw6Xxl"
-        }
-      ],
-      "duration_ms": 202800,
-      "name": "Uit M'n Naad!",
-      "url": "https://open.spotify.com/track/5H1uRBGwXBuDnBYpK27ztt"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1603,6 +1607,22 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
+        "name": "Shadows in the Dark",
+        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
+      },
+      "artists": [
+        {
+          "name": "Re-Fuzz",
+          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
+        }
+      ],
+      "duration_ms": 288398,
+      "name": "Shadows in the Dark",
+      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
         "name": "I Need You",
         "url": "https://open.spotify.com/album/78r6uveupLLOKxFECcEtQC"
       },
@@ -1623,22 +1643,6 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Shadows in the Dark",
-        "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
-      },
-      "artists": [
-        {
-          "name": "Re-Fuzz",
-          "url": "https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs"
-        }
-      ],
-      "duration_ms": 288398,
-      "name": "Shadows in the Dark",
-      "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
         "name": "THE 4TH DIMENSION",
         "url": "https://open.spotify.com/album/3S0H9fBa0BlcZnjCQQEte8"
       },
@@ -1651,22 +1655,6 @@
       "duration_ms": 203052,
       "name": "Oldschool The School",
       "url": "https://open.spotify.com/track/3og4g4ASh85aYNRTHzX0gO"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
-        "name": "The Protest",
-        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
-      },
-      "artists": [
-        {
-          "name": "Neophyte",
-          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
-        }
-      ],
-      "duration_ms": 191779,
-      "name": "The Protest",
-      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1711,6 +1699,22 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
+        "name": "The Protest",
+        "url": "https://open.spotify.com/album/536OPRnnwY5JfGXiGW6cy5"
+      },
+      "artists": [
+        {
+          "name": "Neophyte",
+          "url": "https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p"
+        }
+      ],
+      "duration_ms": 191779,
+      "name": "The Protest",
+      "url": "https://open.spotify.com/track/1pd0GNHdkIyVxQybxNS46W"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1747,6 +1751,22 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
+        "name": "Mysteries of Creation",
+        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
+      },
+      "artists": [
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        }
+      ],
+      "duration_ms": 197379,
+      "name": "Mysteries of Creation",
+      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
+    },
+    {
+      "added_at": "2024-08-30 12:22:00",
+      "album": {
         "name": "Adrenaline (Never Surrender Remix)",
         "url": "https://open.spotify.com/album/6P4DBRI39lfKRvfXMqBrh9"
       },
@@ -1763,22 +1783,6 @@
       "duration_ms": 167996,
       "name": "Adrenaline - Never Surrender Remix",
       "url": "https://open.spotify.com/track/03pFdMTSGSDtCKlzUfD0Q5"
-    },
-    {
-      "added_at": "2024-08-30 12:22:00",
-      "album": {
-        "name": "Mysteries of Creation",
-        "url": "https://open.spotify.com/album/0GBa0Z1qbfRGpQrNxcXpna"
-      },
-      "artists": [
-        {
-          "name": "Furyan",
-          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
-        }
-      ],
-      "duration_ms": 197379,
-      "name": "Mysteries of Creation",
-      "url": "https://open.spotify.com/track/2fW70pWLS91PeHFp6BvsEk"
     },
     {
       "added_at": "2024-08-30 12:22:00",
@@ -1871,26 +1875,22 @@
     {
       "added_at": "2024-08-30 12:22:00",
       "album": {
-        "name": "Slaves To The Darkness",
-        "url": "https://open.spotify.com/album/15ikzZsJ2RLrmhC6Co9mB3"
+        "name": "Made it to Thunderdome",
+        "url": "https://open.spotify.com/album/51RFeHthhnta86KQO92uyY"
       },
       "artists": [
         {
-          "name": "Audiofreq",
-          "url": "https://open.spotify.com/artist/0hHKtZEXHNsXfgrNgU7Zkl"
+          "name": "Nightshift",
+          "url": "https://open.spotify.com/artist/1fzWsgu7ndnyTBtBYOmzxe"
         },
         {
-          "name": "E-Life",
-          "url": "https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2"
-        },
-        {
-          "name": "Lin was here",
-          "url": "https://open.spotify.com/artist/6a2eeGEALfPlsr7bZQo9wf"
+          "name": "Da Mouth of Madness",
+          "url": "https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv"
         }
       ],
-      "duration_ms": 198315,
-      "name": "Slaves To The Darkness",
-      "url": "https://open.spotify.com/track/3aPsBE6I6l8eWZB3LN0AdG"
+      "duration_ms": 227294,
+      "name": "Made it to Thunderdome",
+      "url": "https://open.spotify.com/track/0Cxe1F9JEK4iFjX54aauZe"
     }
   ],
   "unique_name": "Hardcore Rage 2024",

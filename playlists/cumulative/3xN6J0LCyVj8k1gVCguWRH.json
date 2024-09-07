@@ -3765,6 +3765,24 @@
     },
     {
       "album": {
+        "name": "andaluza",
+        "url": "https://open.spotify.com/album/6wNkLwDnWiMgQeEszUM6jS"
+      },
+      "artists": [
+        {
+          "name": "Manu B",
+          "url": "https://open.spotify.com/artist/4dZOItBAgZcwOWU5ste4s5"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "andaluza",
+      "url": "https://open.spotify.com/track/13JwKGz5SRIahEsDPqGyNX"
+    },
+    {
+      "album": {
         "name": "Ando Sola",
         "url": "https://open.spotify.com/album/29GVWbVQEICyv9UtQmoyMv"
       },
@@ -4026,6 +4044,24 @@
       "duration_ms": 294066,
       "name": "Another Star",
       "url": "https://open.spotify.com/track/31B3aXOVem4hH2bO45VkXl"
+    },
+    {
+      "album": {
+        "name": "Another Try!",
+        "url": "https://open.spotify.com/album/7uCWGkYj0RLP2p66MQ59R8"
+      },
+      "artists": [
+        {
+          "name": "Cayla Casler",
+          "url": "https://open.spotify.com/artist/1JOzM2PSSxpD3MXKoaqiFZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171498,
+      "name": "Another Try!",
+      "url": "https://open.spotify.com/track/3HHUG30u4zmSBnMw5WyvC9"
     },
     {
       "album": {
@@ -4621,6 +4657,24 @@
     },
     {
       "album": {
+        "name": "Asoleando",
+        "url": "https://open.spotify.com/album/5ecl9Zp7iggInU07RcINbS"
+      },
+      "artists": [
+        {
+          "name": "tet\u00e9",
+          "url": "https://open.spotify.com/artist/3CYhcizMHA30W2o6nn39Xf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176410,
+      "name": "Asoleando",
+      "url": "https://open.spotify.com/track/5Cpxg1Rd8QVgh61UGBP8wo"
+    },
+    {
+      "album": {
         "name": "Astral Visions",
         "url": "https://open.spotify.com/album/23bvFre16SyA9sX8mXx3Nc"
       },
@@ -4798,7 +4852,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205106,
       "name": "AURORA (feat. Crush)",
       "url": "https://open.spotify.com/track/40tciWf8SD8zLL8lRsHNjx"
@@ -7942,7 +7996,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 261975,
       "name": "Blue Eyed Stranger",
       "url": "https://open.spotify.com/track/3HnvrzNbS0kTx6db8n7sE2"
@@ -12150,7 +12204,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 214173,
       "name": "City Lights",
       "url": "https://open.spotify.com/track/7jtSqiLIKjsHqotWGSij32"
@@ -19337,6 +19391,24 @@
     },
     {
       "album": {
+        "name": "Enemy",
+        "url": "https://open.spotify.com/album/6G0USt5pi82ucaU3XUdoVd"
+      },
+      "artists": [
+        {
+          "name": "SaoulMusic",
+          "url": "https://open.spotify.com/artist/3tVzOHHxDW2bpTpKB7vVcf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125714,
+      "name": "Enemy",
+      "url": "https://open.spotify.com/track/3z47d8HGSDjVhVDffdmxjF"
+    },
+    {
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/4jVrecBuz9XG9SeNHadsgr"
       },
@@ -19500,7 +19572,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 180035,
       "name": "Entre T\u00fa Y Yo",
       "url": "https://open.spotify.com/track/0XWJQK35mDFM59UAoulFfz"
@@ -20666,6 +20738,24 @@
       "duration_ms": 230500,
       "name": "Familiar Friend",
       "url": "https://open.spotify.com/track/7kMThpIu48L8aXjTmGfpzb"
+    },
+    {
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/6wdgS4Kf0SeJYj94dGnHfC"
+      },
+      "artists": [
+        {
+          "name": "ERLY",
+          "url": "https://open.spotify.com/artist/2z7Bw7TpA0GEbtU3dJRK6I"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174983,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/2QKRw7FCHQlf5BnyzfqP7Z"
     },
     {
       "album": {
@@ -23426,6 +23516,24 @@
       "duration_ms": 166440,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/3fbTDuocnHvdpir8W9F9mT"
+    },
+    {
+      "album": {
+        "name": "Freedom (Hope)",
+        "url": "https://open.spotify.com/album/6kiDZVPiKsDm0LOQmoDLsv"
+      },
+      "artists": [
+        {
+          "name": "Julius Bachmann",
+          "url": "https://open.spotify.com/artist/62N3GkopP5Z4RZrDu3Oscb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196080,
+      "name": "Freedom (Hope)",
+      "url": "https://open.spotify.com/track/6HXkJ0TBtLeBrFvDbEOnAD"
     },
     {
       "album": {
@@ -27186,7 +27294,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 203096,
       "name": "Haunted By Your Eyes",
       "url": "https://open.spotify.com/track/3oJvK5MgZ7XaldnsXRv5a2"
@@ -30633,6 +30741,24 @@
     },
     {
       "album": {
+        "name": "Survivor",
+        "url": "https://open.spotify.com/album/0fkp4oHJJTbcewmxjAGXNO"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Williams",
+          "url": "https://open.spotify.com/artist/75L9s8KVrhCNtBUkZFnDFW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160806,
+      "name": "I See You",
+      "url": "https://open.spotify.com/track/2bgkDbFt2uRYv5z7PvK6iY"
+    },
+    {
+      "album": {
         "name": "I Should Just Shut Up",
         "url": "https://open.spotify.com/album/3GT9ExaMu88YC2pL81fRU2"
       },
@@ -32218,6 +32344,32 @@
       "duration_ms": 239860,
       "name": "In My Dreams",
       "url": "https://open.spotify.com/track/10pblZYCHnup5M0zM2snrg"
+    },
+    {
+      "album": {
+        "name": "In My Mind - MTG Version",
+        "url": "https://open.spotify.com/album/7CroeLoNDgHxveZLoOTIY8"
+      },
+      "artists": [
+        {
+          "name": "BRUSA FUNK",
+          "url": "https://open.spotify.com/artist/7IPrZUWtDis3EyfaiBrsv8"
+        },
+        {
+          "name": "Kiara",
+          "url": "https://open.spotify.com/artist/0G1m31QkEn4Ro6Wn7WXKAo"
+        },
+        {
+          "name": "Dj Pett",
+          "url": "https://open.spotify.com/artist/2Op28qo04FKSoRzEpOFXtw"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92307,
+      "name": "In My Mind - MTG Version",
+      "url": "https://open.spotify.com/track/5PqQytdOfwMgTNaW0PYmGS"
     },
     {
       "album": {
@@ -37657,6 +37809,24 @@
     },
     {
       "album": {
+        "name": "lmlml",
+        "url": "https://open.spotify.com/album/5BzOOCqmzErU1wMFtXMPl5"
+      },
+      "artists": [
+        {
+          "name": "Sanja Ost",
+          "url": "https://open.spotify.com/artist/2sY91sdrpjwRCl4omRqVXq"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193555,
+      "name": "lmlml",
+      "url": "https://open.spotify.com/track/6R0rcW1iqCCjLUDLSzYHtO"
+    },
+    {
+      "album": {
         "name": "LNNS",
         "url": "https://open.spotify.com/album/3R8p50QtQb7AVFOvJka17s"
       },
@@ -42930,7 +43100,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 181128,
       "name": "Motel 907",
       "url": "https://open.spotify.com/track/2oXpjjVFBH3BkTAt3vyS3V"
@@ -43990,7 +44160,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 130000,
       "name": "My Type",
       "url": "https://open.spotify.com/track/1jrGYEJhRqQuugrjUNcNuV"
@@ -46952,7 +47122,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 247124,
       "name": "Oliver / Aberson: Let It Burn",
       "url": "https://open.spotify.com/track/7bZYq0Z2Av38SYDWo12tsB"
@@ -53459,6 +53629,24 @@
     },
     {
       "album": {
+        "name": "Roads and railways",
+        "url": "https://open.spotify.com/album/1ClLGmmc8B5xyBdZ0h0GUb"
+      },
+      "artists": [
+        {
+          "name": "Matilda Schyborger",
+          "url": "https://open.spotify.com/artist/66d1qcpRRIIlHCWk3Ry8Mk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201680,
+      "name": "Roads and railways",
+      "url": "https://open.spotify.com/track/1bCe2GK7aMyKpF7tVY9NuW"
+    },
+    {
+      "album": {
         "name": "Robbing Me Blind",
         "url": "https://open.spotify.com/album/1CIA6xkvCU9s28kZFBepJV"
       },
@@ -58730,7 +58918,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 116827,
       "name": "Split",
       "url": "https://open.spotify.com/track/2zZZkPENB1UpWvAyS36nNi"
@@ -62428,6 +62616,24 @@
       "duration_ms": 250813,
       "name": "Tape Deck",
       "url": "https://open.spotify.com/track/21Q9DEpXi3xM3UPgVmxiyc"
+    },
+    {
+      "album": {
+        "name": "TASTE",
+        "url": "https://open.spotify.com/album/0YJXablqMdZ6FRdxwZAbk6"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "TASTE",
+      "url": "https://open.spotify.com/track/1Pp4ViPEN3SkM4gBW7ZTfF"
     },
     {
       "album": {
@@ -66872,7 +67078,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 202666,
       "name": "Turn Back Time",
       "url": "https://open.spotify.com/track/2XUIkIILwkuanYhmnGHCiT"
@@ -71992,7 +72198,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 200489,
       "name": "With a Heart Preparing for Goodbye",
       "url": "https://open.spotify.com/track/6mtHXOIiiyIVASRzYq3Acf"

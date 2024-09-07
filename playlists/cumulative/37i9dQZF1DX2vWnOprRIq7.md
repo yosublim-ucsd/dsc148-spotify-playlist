@@ -2,9 +2,9 @@
 
 ### [NEÓN](https://open.spotify.com/playlist/37i9dQZF1DX2vWnOprRIq7)
 
-> El lado electrónico del indie latino, featuring Javiera Mena.
+> El lado electrónico del indie latino, featuring Vita Set.
 
-262 songs - 15 hr 57 min
+263 songs - 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Lineas del Cielo](https://open.spotify.com/track/462HCRcBrPdgOULlkefcmK) | [Alfonsina](https://open.spotify.com/artist/2PiVgpD2ynESIozDDEEh8k), [MaisonMusic](https://open.spotify.com/artist/4sVdc8xEu0jQAB77aq1Cd9) | [Lineas del Cielo](https://open.spotify.com/album/5ho7ZrIlccfeO2hXnVmYmc) | 2:40 | 2023-07-21 |  |
 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 | 2023-03-17 | 2023-10-07 |
 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 | 2023-07-28 | 2023-10-07 |
+| [LOS AMANTES DIFERENTES](https://open.spotify.com/track/3jqoACT04nMZowIFsjw5VP) | [Vita Set](https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy) | [LOS AMANTES DIFERENTES](https://open.spotify.com/album/3d9wTAy036vvOmZPUH8qF9) | 3:47 | 2024-09-06 |  |
 | [Luminosidad \- Remix](https://open.spotify.com/track/6tru6R1Ubz11tHFIjdk4rs) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G), [Mecánico](https://open.spotify.com/artist/2oUsBhAi9Mac4BjHxt55ct) | [Como Bailan los Demás \(Lado B\)](https://open.spotify.com/album/3h1RcDzHM2L9dNb4MiI8Yk) | 3:28 | 2024-04-12 |  |
 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 | 2023-03-17 | 2023-10-07 |
 | [Lunes Por La Madrugada](https://open.spotify.com/track/7pEdDV1Izn1DgGhgTmhMM5) | [Ibiza Pareo](https://open.spotify.com/artist/4JZdNNzzAhW7Ag2Vl1bZrw) | [Por Si Acaso Se Acaba El Mundo](https://open.spotify.com/album/4I1OiCznYVs09RpmTSIUm8) | 3:03 | 2023-11-24 |  |
@@ -227,7 +228,7 @@
 | [Ser Anti](https://open.spotify.com/track/3LVjzOOubm6PAxYFvrv8Bq) | [Amanda Pujó](https://open.spotify.com/artist/54vFZr8ppOc3Gq2LrcboZC) | [Ser Anti](https://open.spotify.com/album/2yBuVuh9FdIe1JbG1K1G6v) | 3:44 | 2023-04-07 | 2024-06-08 |
 | [SHEESH](https://open.spotify.com/track/6kAMgHOOsuCoHemVEeeRFn) | [CA7RIEL & Paco Amoroso](https://open.spotify.com/artist/6I8TDGeUmmLom8auKPzMdX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [BAÑO MARÍA](https://open.spotify.com/album/1XX2taUAddEZQX4QinYxX2) | 2:16 | 2024-04-19 |  |
 | [Si Sólo](https://open.spotify.com/track/0t1gN6EvLyXtTOk5dJKLhG) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si Sólo](https://open.spotify.com/album/6cwhL0djF5vWChWPEsJzNY) | 3:42 | 2024-03-15 | 2024-04-19 |
-| [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 | 2023-05-26 |  |
+| [Si Sólo](https://open.spotify.com/track/1LXJPTOrPyOukkgiAj6U4K) | [Caro Conzonno](https://open.spotify.com/artist/2PXTOT1phiDNp3yQJcPaeC) | [Si sólo](https://open.spotify.com/album/7IJgiR4o8PFOW8udQhD4fV) | 3:42 | 2023-05-26 | 2024-09-07 |
 | [Siempre Es Igual](https://open.spotify.com/track/5540xPMsRNUBNg3yUEfbrv) | [Ambos dos](https://open.spotify.com/artist/5NuHV0om1dRyMk96aEpALz), [Lux Raptor](https://open.spotify.com/artist/0oUGOkc2ZxTtAZH1jLysAq) | [Siempre Es Igual](https://open.spotify.com/album/6fsYus0FgpIpAThWwk32oT) | 3:29 | 2023-04-07 | 2023-06-11 |
 | [SIN TITULOS \(feat\. Ill Quentin\)](https://open.spotify.com/track/3482mjPy9pVBrZYLdepECc) | [Juan Lopez](https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT), [ill quentin](https://open.spotify.com/artist/26TC05Yq727xEWV77nRinH) | [NO MAS PROMESAS](https://open.spotify.com/album/3I5Io6jrsxPFYAQAghhoFw) | 2:53 | 2023-03-17 | 2024-03-16 |
 | [Solos](https://open.spotify.com/track/4OrRyEaGBZub38KX2tf7dR) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [ELETÉ](https://open.spotify.com/artist/1WCFSXLGsuWdA4UyYYumFs), [Margarita Quebrada](https://open.spotify.com/artist/5aPDMwix2ydu77sgQ89SUi) | [Solos](https://open.spotify.com/album/2hV78YdCzBXgjMeF9eniwQ) | 4:12 | 2023-03-17 | 2023-07-29 |

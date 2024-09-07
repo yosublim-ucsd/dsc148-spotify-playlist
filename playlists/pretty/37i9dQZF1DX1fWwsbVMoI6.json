@@ -1,6 +1,6 @@
 {
   "description": "A ponerse a tono con los mejores cumbiones. Foto: La \u00danica Tropical",
-  "num_followers": 117788,
+  "num_followers": 117811,
   "original_name": "Cumbias de Oro",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "Necesito un Amor",
-        "url": "https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 211480,
-      "name": "Necesito un Amor",
-      "url": "https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "Por Qu\u00e9 Te Fuiste",
         "url": "https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 185505,
       "name": "Por Qu\u00e9 Te Fuiste",
       "url": "https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
+        "name": "Necesito un Amor",
+        "url": "https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 211480,
+      "name": "Necesito un Amor",
+      "url": "https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX"
     },
     {
       "added_at": "2024-08-27 20:46:03",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
-        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Castro",
-          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
-        }
-      ],
-      "duration_ms": 178626,
-      "name": "Con Tinta Roja",
-      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "Angelito",
         "url": "https://open.spotify.com/album/3aks591GvDGxcQMjVxtCQa"
       },
@@ -455,22 +439,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "A Llorar a Otra Parte",
-        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
-      },
-      "artists": [
-        {
-          "name": "Hnos Yaipen",
-          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
-        }
-      ],
-      "duration_ms": 233813,
-      "name": "L\u00e1rgate",
-      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "No S\u00e9",
         "url": "https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq"
       },
@@ -487,6 +455,22 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
+        "name": "20 A\u00f1os de Amor: Canciones y Recuerdos",
+        "url": "https://open.spotify.com/album/1b9ukF4mqdJmqGw2kBViRf"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Castro",
+          "url": "https://open.spotify.com/artist/73bp01vqoNhqJr3sirTzIc"
+        }
+      ],
+      "duration_ms": 178626,
+      "name": "Con Tinta Roja",
+      "url": "https://open.spotify.com/track/1jVRnGpiEm7GDycDsandp3"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
         "name": "Mejor Que Nunca...Sola Hay Una...!",
         "url": "https://open.spotify.com/album/3LCqM5Qtqi4sVHAQjmaTlF"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 243533,
       "name": "Voy a Buscarme un Amor",
       "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
+        "name": "A Llorar a Otra Parte",
+        "url": "https://open.spotify.com/album/5DxZS2tAHjOf0c3CB5s5lc"
+      },
+      "artists": [
+        {
+          "name": "Hnos Yaipen",
+          "url": "https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg"
+        }
+      ],
+      "duration_ms": 233813,
+      "name": "L\u00e1rgate",
+      "url": "https://open.spotify.com/track/77Dw5g050GN208e1Bk11AR"
     },
     {
       "added_at": "2024-08-27 20:46:03",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-08-27 20:46:03",
       "album": {
-        "name": "Sonido 2000 de Tarapoto",
-        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
-      },
-      "artists": [
-        {
-          "name": "Sonido 2000",
-          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
-        }
-      ],
-      "duration_ms": 195696,
-      "name": "Mi Carin\u0303ito",
-      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
-    },
-    {
-      "added_at": "2024-08-27 20:46:03",
-      "album": {
         "name": "Vol. 1",
         "url": "https://open.spotify.com/album/4ZlcH7Y4ueshsoLyXQ663d"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 224313,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/4OeH2AOHW84cdsrK4PFbfG"
+    },
+    {
+      "added_at": "2024-08-27 20:46:03",
+      "album": {
+        "name": "Sonido 2000 de Tarapoto",
+        "url": "https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka"
+      },
+      "artists": [
+        {
+          "name": "Sonido 2000",
+          "url": "https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR"
+        }
+      ],
+      "duration_ms": 195696,
+      "name": "Mi Carin\u0303ito",
+      "url": "https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw"
     },
     {
       "added_at": "2024-08-27 20:46:03",

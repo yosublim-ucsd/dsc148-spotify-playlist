@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde\. 🌍 Photo: Tonton Fally Ipupa
+> Du Congo, au monde\. 🌍 Photo: Tonton Pson
 
-435 songs - 1 day 1 hr 53 min
+437 songs - 1 day 1 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [LV](https://open.spotify.com/track/2uDFdzVQ7QFEPoagFlMxRB) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [LV](https://open.spotify.com/album/4qtJhVIXtYsOmRYDlcnFOi) | 2:20 | 2024-05-31 | 2024-07-27 |
 | [LÉLÉ](https://open.spotify.com/track/0GXrYFdjPgVYxxnERdqGj5) | [ALBI X](https://open.spotify.com/artist/4RbGljqjA1uq3D5Og5AE56) | [LÉLÉ](https://open.spotify.com/album/4aHWhpQsSAa9NAgg8ldI4D) | 3:09 | 2022-06-30 | 2022-11-19 |
 | [L’Afrique en avant](https://open.spotify.com/track/0P0O7KW55TY9Fz6bRRtdr5) | [Barka](https://open.spotify.com/artist/4GOGeatIVTAn3GVsK3yKdc) | [L’Afrique en avant](https://open.spotify.com/album/0cQj38ecACSGaI669TLY1W) | 3:31 | 2023-04-28 | 2023-09-02 |
+| [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:45 | 2024-09-06 |  |
 | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/track/1oVFlv6k2wkHsh681OFHW1) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Harley](https://open.spotify.com/artist/1w8f71fNCVvZtiz4DLd7N5), [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [MA MONEY \(feat\. Jungeli, Harley & Mayorkun\)](https://open.spotify.com/album/5VoinLQ42gOo5as81JDfOU) | 3:01 | 2024-05-10 |  |
 | [Maboko Milayi](https://open.spotify.com/track/3oa2Af68PY4x3tvNaqhptZ) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Awilo Longomba](https://open.spotify.com/artist/0WDUZIWwoxCyAfT7NFFSFT) | [Maboko Milayi](https://open.spotify.com/album/5BwHaXF0mtcqxBjSHyIwvw) | 4:04 | 2023-01-06 | 2023-11-11 |
 | [Made in Congo](https://open.spotify.com/track/7soc4QPUnlZYfMgisPe6Cg) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Made in Congo](https://open.spotify.com/album/4beChSKY6Kus1FUWc5Iazj) | 2:14 | 2023-12-01 | 2024-01-27 |
@@ -313,7 +314,7 @@
 | [Okay Okay](https://open.spotify.com/track/1lTRxUk02o0pSya1bIQJyM) | [Nix'xon](https://open.spotify.com/artist/67yFHJug9JLxD9OkRmm4DS) | [Okay Okay](https://open.spotify.com/album/4CHd2zP6zTBKzDSPq2yDez) | 2:13 | 2022-07-29 | 2023-02-11 |
 | [Olandi](https://open.spotify.com/track/5n2wtoHsSbah40D22SrHc5) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Olandi](https://open.spotify.com/album/7v6OQO2tJ2RgYlVb9uzPVX) | 4:40 | 2022-06-30 | 2023-04-22 |
 | [On dit quoi](https://open.spotify.com/track/3zt5Q6HRZOeLVVOPpOWnkJ) | [Kaysha](https://open.spotify.com/artist/2DBaDAcrh5sf17yR1qbnsy) | [Coupé Décalé Zone \(Sushiraw\)](https://open.spotify.com/album/1Vc4xc4Gfc1RAK33LFMJlQ) | 6:01 | 2022-06-30 |  |
-| [On my Way](https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [On my Way](https://open.spotify.com/album/3pr75VCJPrN91NvPndyS3g) | 2:58 | 2024-03-22 |  |
+| [On my Way](https://open.spotify.com/track/55s7Mjxi5K1wKoXZpQIkDl) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [On my Way](https://open.spotify.com/album/3pr75VCJPrN91NvPndyS3g) | 2:58 | 2024-03-22 | 2024-09-07 |
 | [One Leg \(Kiki Ewing\)](https://open.spotify.com/track/0UsRg4DH2peJJe01aL7Dza) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [One Leg \(Kiki Ewing\)](https://open.spotify.com/album/35LxfEK4UZIrJgoW12Toro) | 3:08 | 2023-06-09 | 2023-11-18 |
 | [Otéma obé](https://open.spotify.com/track/5C5mKEkNRTSxfUiyq5xg1I) | [Afara Tsena](https://open.spotify.com/artist/6DBlaKCGO6sSnjDopf2bwP) | [Otéma obé](https://open.spotify.com/album/4RA5Ck6BDqLedaWSAbWBC9) | 4:40 | 2023-12-22 | 2024-05-18 |
 | [Oulala](https://open.spotify.com/track/2IWhvuzDDeTSbX5K3Ex7zB) | [Odrey](https://open.spotify.com/artist/4uMgvCxdUFjIOy4Nl1wKMj) | [Oulala](https://open.spotify.com/album/79UH7RYzNA2b9v0Xp2MTLt) | 2:30 | 2023-03-10 | 2023-07-01 |
@@ -430,6 +431,7 @@
 | [Yo Pe \- Remix](https://open.spotify.com/track/16hivbAazfd7Li5o5WFguM) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yo Pe \(Remix\)](https://open.spotify.com/album/7jwHAuki1wn7hb23CVhNYV) | 4:32 | 2022-07-15 | 2024-04-19 |
 | [Yoka Ndulé](https://open.spotify.com/track/1ZdJBKCthpJRygkyXfK6OE) | [Kabuya](https://open.spotify.com/artist/7vtu3MQdffH966vXmUolGy) | [Yoka Ndulé](https://open.spotify.com/album/7vf9lrWbpi14omOpc9rlsh) | 3:04 | 2022-06-30 | 2022-12-31 |
 | [Yolele](https://open.spotify.com/track/4pkk2GgNZIWhqQpz39439P) | [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Emotion \(Real World Gold\)](https://open.spotify.com/album/7CHL3hxXPT9sTnQv3hZe39) | 3:23 | 2022-06-30 | 2023-08-27 |
+| [Zaza](https://open.spotify.com/track/7AuRpuu9DBGX6GeJl3vnQd) | [Pson](https://open.spotify.com/artist/1Fxk1V3Q9mWXoUKX1LnEAt) | [Zaza](https://open.spotify.com/album/7tZWUTH0RLojsCaN8oYe7q) | 2:41 | 2024-09-06 |  |
 | [Zaïre](https://open.spotify.com/track/5BPFqMBU5oZr3LM6Vq8XTA) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Zaïre](https://open.spotify.com/album/5JaqWswOjsCJsfMOMYwtFu) | 3:35 | 2022-09-02 | 2022-12-17 |
 | [Zigida](https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k) | [Light Music Villa Nova](https://open.spotify.com/artist/0MP7DZOrBSfEEhLHz1dG2r), [Fabregas le Métis Noir](https://open.spotify.com/artist/49ip7SoDZFm62AzVHPci6X) | [Cursus, Vol\. 2](https://open.spotify.com/album/7JyPd01Qu6N2dvj6PTYfSe) | 3:36 | 2022-06-30 | 2023-08-26 |
 | [À TON AISE](https://open.spotify.com/track/0Y4qN0tOi83VXdtN5DRcQv) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À TON AISE](https://open.spotify.com/album/5ydq8wIjsD1T07sfn9d6rw) | 1:24 | 2024-07-05 |  |

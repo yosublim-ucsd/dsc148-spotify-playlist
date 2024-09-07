@@ -1,13 +1,29 @@
 {
-  "description": "too scared to not look away. cover: the front room ",
-  "num_followers": 9341,
+  "description": "too scared to not look away. cover: the front room\n",
+  "num_followers": 9343,
   "original_name": "my life is an A24 horror movie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtfbQAAAAAAmPNoXxGvePLj+tNdIad84",
+  "snapshot_id": "Ztp+QAAAAAASblCC9YWBOcMiGoqxUff7",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Front Room (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2XFbGK2bQGeUZhQrSaQCRT"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Zarvos",
+          "url": "https://open.spotify.com/artist/0qDZ7wym9Vg843lDKkzmoR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Child Of God",
+      "url": "https://open.spotify.com/track/6hB6aSJgVj8ZmiLUH6IeuC"
+    },
     {
       "added_at": "2023-10-12 19:46:46",
       "album": {

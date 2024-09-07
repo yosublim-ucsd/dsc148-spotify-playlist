@@ -645,6 +645,28 @@
     },
     {
       "album": {
+        "name": "American Wedding",
+        "url": "https://open.spotify.com/album/3U4smvytNhwiHJjR9Iutd5"
+      },
+      "artists": [
+        {
+          "name": "yioku",
+          "url": "https://open.spotify.com/artist/6f0oqF2oYVcPi2otJQMSIi"
+        },
+        {
+          "name": "jsthebg",
+          "url": "https://open.spotify.com/artist/5ONZgilB1BdnWtMfDITKSD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 299886,
+      "name": "American Wedding",
+      "url": "https://open.spotify.com/track/37JUfPyulxkZ2pd6KPmghm"
+    },
+    {
+      "album": {
         "name": "farukerem",
         "url": "https://open.spotify.com/album/6cTsySRC5kITqwGEFVjBup"
       },
@@ -866,7 +888,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 115906,
       "name": "AURA",
       "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
@@ -2750,7 +2772,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 250453,
       "name": "COMMENT FAIRE UN TUBE",
       "url": "https://open.spotify.com/track/076rt3TGExWFNtw4Rt0h9l"
@@ -4478,7 +4500,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 246909,
       "name": "flex fm (freddit)",
       "url": "https://open.spotify.com/track/7qpZh0yIXeZzXZk3mE6Fj9"
@@ -4994,6 +5016,24 @@
       "duration_ms": 119558,
       "name": "Girls",
       "url": "https://open.spotify.com/track/3Hxv2EYJcBjiN96yJi6djY"
+    },
+    {
+      "album": {
+        "name": "GIVE ME",
+        "url": "https://open.spotify.com/album/2x1nVDNty79eWCROArU01q"
+      },
+      "artists": [
+        {
+          "name": "masami",
+          "url": "https://open.spotify.com/artist/0k2F2X6ekOrnsWQt0OP7ko"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165062,
+      "name": "GIVE ME",
+      "url": "https://open.spotify.com/track/78caY2380YY6y4EYW5xx1m"
     },
     {
       "album": {
@@ -5597,6 +5637,24 @@
     },
     {
       "album": {
+        "name": "Here To Stay",
+        "url": "https://open.spotify.com/album/6Qun7KN1zgB4W2tCMv8mBx"
+      },
+      "artists": [
+        {
+          "name": "Christophe Verholle",
+          "url": "https://open.spotify.com/artist/5cqOALIWK5xoaqHXwikfis"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191920,
+      "name": "Here To Stay",
+      "url": "https://open.spotify.com/track/47nDxKt2bTRH1CtU8fgKnu"
+    },
+    {
+      "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/287QQ922OsJYh8aFNGdJG5"
       },
@@ -5608,7 +5666,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 163412,
       "name": "Here's The Thing",
       "url": "https://open.spotify.com/track/4J4pysp2EFNhYibI8tIg0D"
@@ -6266,7 +6324,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 184560,
       "name": "I'd Rather Pretend",
       "url": "https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB"
@@ -8520,7 +8578,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 192182,
       "name": "Malya",
       "url": "https://open.spotify.com/track/5XRSmVzOdT0dd3mMEWFnQC"
@@ -11510,7 +11568,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 69360,
       "name": "Se Paciente Funk",
       "url": "https://open.spotify.com/track/2f0ICQHa6q8hr5HjeFmDJO"

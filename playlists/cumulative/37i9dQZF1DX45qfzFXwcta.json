@@ -345,6 +345,24 @@
     },
     {
       "album": {
+        "name": "Bombenleger",
+        "url": "https://open.spotify.com/album/2i5CxKkbIjMgQGJejbcRCh"
+      },
+      "artists": [
+        {
+          "name": "Snares",
+          "url": "https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134911,
+      "name": "Bombenleger",
+      "url": "https://open.spotify.com/track/5XiCpHVAEzVSgH7iDwR4UQ"
+    },
+    {
+      "album": {
         "name": "Word...Life (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5"
       },
@@ -2432,6 +2450,24 @@
       "duration_ms": 187666,
       "name": "The Come up (Instrumental)",
       "url": "https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU"
+    },
+    {
+      "album": {
+        "name": "The Knob Factor",
+        "url": "https://open.spotify.com/album/4plbUmY3l08JzOpMNjTzK8"
+      },
+      "artists": [
+        {
+          "name": "Dusty Decks",
+          "url": "https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157333,
+      "name": "The Knob Factor",
+      "url": "https://open.spotify.com/track/6fjD5lMXUuFpkTTR4f8uz3"
     },
     {
       "album": {

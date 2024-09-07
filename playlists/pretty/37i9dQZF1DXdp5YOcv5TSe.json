@@ -1,6 +1,6 @@
 {
   "description": "The official G2 Esports playlist. Cover: G2 CS2",
-  "num_followers": 73899,
+  "num_followers": 73947,
   "original_name": "G2 Esports",
   "owner": {
     "name": "Spotify",
@@ -135,26 +135,6 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
-        "name": "TESTING",
-        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Skepta",
-          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
-        }
-      ],
-      "duration_ms": 205040,
-      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
-      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
         "name": "Somebody (2024)",
         "url": "https://open.spotify.com/album/5eKQYtDqVmrHPZoKHG1LlH"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 153518,
       "name": "Somebody (2024)",
       "url": "https://open.spotify.com/track/0agQ9vIV7NP4dntGKLcCXO"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
+        "name": "TESTING",
+        "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "duration_ms": 205040,
+      "name": "Praise The Lord (Da Shine) (feat. Skepta)",
+      "url": "https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z"
     },
     {
       "added_at": "2024-08-01 22:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2024-08-01 22:00:00",
       "album": {
+        "name": "i am > i was (Deluxe)",
+        "url": "https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 235232,
+      "name": "out for the night - part 2",
+      "url": "https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx"
+    },
+    {
+      "added_at": "2024-08-01 22:00:00",
+      "album": {
         "name": "Goat Season (Part Two)",
         "url": "https://open.spotify.com/album/3x6AkGZq0tRhHige9EWdPH"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 177103,
       "name": "Cataleya",
       "url": "https://open.spotify.com/track/5ORMtD5Pxq21oxTfWkZ2Fe"
-    },
-    {
-      "added_at": "2024-08-01 22:00:00",
-      "album": {
-        "name": "i am > i was (Deluxe)",
-        "url": "https://open.spotify.com/album/6guJZpZ52v4MrJKIH7tASl"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 235232,
-      "name": "out for the night - part 2",
-      "url": "https://open.spotify.com/track/4B8vU5oDXVxO5OkLAI4aLx"
     },
     {
       "added_at": "2024-08-01 22:00:00",

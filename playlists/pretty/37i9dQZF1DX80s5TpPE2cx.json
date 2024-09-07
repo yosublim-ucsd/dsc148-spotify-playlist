@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined Nigeria's Alt\u00e9 era. Cover: Amaarae",
-  "num_followers": 11706,
+  "num_followers": 11711,
   "original_name": "Alt\u00e9 Classics ",
   "owner": {
     "name": "Spotify",
@@ -239,6 +239,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 195668,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "No Days Off",
-        "url": "https://open.spotify.com/album/4xyQuZ8oTJ7ZhdiWBwtVnS"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 195668,
-      "name": "No Days Off",
-      "url": "https://open.spotify.com/track/3zlSLyucr1QS2XPfRnPdcy"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -375,38 +375,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
-      },
-      "artists": [
-        {
-          "name": "Nonso Amadi",
-          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
-        }
-      ],
-      "duration_ms": 190104,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
-        "name": "Reckless & Sweet",
-        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
-      },
-      "artists": [
-        {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
-        }
-      ],
-      "duration_ms": 159680,
-      "name": "Reckless & Sweet",
-      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "Where Dem Dey",
         "url": "https://open.spotify.com/album/2wR1umN5UBv0lE9NGvbJ6d"
       },
@@ -427,6 +395,22 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
+        "name": "Reckless & Sweet",
+        "url": "https://open.spotify.com/album/61txqqf1NJIql5AnkSNdNz"
+      },
+      "artists": [
+        {
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+        }
+      ],
+      "duration_ms": 159680,
+      "name": "Reckless & Sweet",
+      "url": "https://open.spotify.com/track/0YF4MF77Kw8CMkZkfDFtlj"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
         "name": "I Don\u2019t Like You",
         "url": "https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 151983,
       "name": "I Don't Like You",
       "url": "https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/2fnclztAsDqRkHYH5RXKp0"
+      },
+      "artists": [
+        {
+          "name": "Nonso Amadi",
+          "url": "https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV"
+        }
+      ],
+      "duration_ms": 190104,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/39wqPXxc7NMh8QvcMhMbYt"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Maame Water",
-        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
-      },
-      "artists": [
-        {
-          "name": "Juma Mufasa",
-          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
-        }
-      ],
-      "duration_ms": 179915,
-      "name": "Maame Water",
-      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "First Signs Of Me",
         "url": "https://open.spotify.com/album/2vIJ06C2k4jqCL4jT5ckfo"
       },
@@ -707,6 +691,26 @@
       "duration_ms": 229653,
       "name": "Breathing",
       "url": "https://open.spotify.com/track/70Vi4xM9hhWhby2TH2IsGg"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "LEANING",
+        "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
+      },
+      "artists": [
+        {
+          "name": "Joeyturks",
+          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
+        },
+        {
+          "name": "boistory",
+          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
+        }
+      ],
+      "duration_ms": 153846,
+      "name": "LEANING",
+      "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -739,22 +743,18 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "LEANING",
-        "url": "https://open.spotify.com/album/1JKwY9rq8E5f5eARL2JQXO"
+        "name": "Maame Water",
+        "url": "https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS"
       },
       "artists": [
         {
-          "name": "Joeyturks",
-          "url": "https://open.spotify.com/artist/6MGNEVLKS1wNO16bYvHwvL"
-        },
-        {
-          "name": "boistory",
-          "url": "https://open.spotify.com/artist/1SCzhjMwBRzC25O01ybQtc"
+          "name": "Juma Mufasa",
+          "url": "https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs"
         }
       ],
-      "duration_ms": 153846,
-      "name": "LEANING",
-      "url": "https://open.spotify.com/track/0WGjqLXOGnMWXG1fI40k6q"
+      "duration_ms": 179915,
+      "name": "Maame Water",
+      "url": "https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -803,30 +803,18 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "La Meme Tape",
-        "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
+        "name": "Passionfruit Summers",
+        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
       },
       "artists": [
         {
-          "name": "La M\u00eame Gang",
-          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
-        },
-        {
-          "name": "Nxwrth",
-          "url": "https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS"
-        },
-        {
-          "name": "DarkoVibes",
-          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
-        },
-        {
-          "name": "KiddBlack",
-          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
+          "name": "Amaarae",
+          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
         }
       ],
-      "duration_ms": 201115,
-      "name": "Godzilla",
-      "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
+      "duration_ms": 195000,
+      "name": "Catching a Wav",
+      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -851,18 +839,30 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Passionfruit Summers",
-        "url": "https://open.spotify.com/album/3baroqzwcg8SdAZYTg96Rt"
+        "name": "La Meme Tape",
+        "url": "https://open.spotify.com/album/1Z1jf4jHbpESMcYcAZkzdT"
       },
       "artists": [
         {
-          "name": "Amaarae",
-          "url": "https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS"
+          "name": "La M\u00eame Gang",
+          "url": "https://open.spotify.com/artist/6VmgrXYlQLQ13VxiksWSp6"
+        },
+        {
+          "name": "Nxwrth",
+          "url": "https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS"
+        },
+        {
+          "name": "DarkoVibes",
+          "url": "https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8"
+        },
+        {
+          "name": "KiddBlack",
+          "url": "https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Catching a Wav",
-      "url": "https://open.spotify.com/track/0sukMKZuyisx7MW4zESKRF"
+      "duration_ms": 201115,
+      "name": "Godzilla",
+      "url": "https://open.spotify.com/track/1SFIUpNbKHb6IxDv63OB75"
     },
     {
       "added_at": "2024-06-24 06:54:45",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-06-24 06:54:45",
       "album": {
-        "name": "Lifesize Teddy",
-        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
-      },
-      "artists": [
-        {
-          "name": "Lifesize Teddy",
-          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
-        }
-      ],
-      "duration_ms": 196603,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
-    },
-    {
-      "added_at": "2024-06-24 06:54:45",
-      "album": {
         "name": "WINNY",
         "url": "https://open.spotify.com/album/4MeI2R28SeauCi3fhQmcG5"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 197500,
       "name": "Operation",
       "url": "https://open.spotify.com/track/3OQdtUt44IXKDeU1NDUy6e"
+    },
+    {
+      "added_at": "2024-06-24 06:54:45",
+      "album": {
+        "name": "Lifesize Teddy",
+        "url": "https://open.spotify.com/album/2mr8Ja1rmL58whZTfBBPDe"
+      },
+      "artists": [
+        {
+          "name": "Lifesize Teddy",
+          "url": "https://open.spotify.com/artist/7qQNbbOL2eYZYxSGtcDvcR"
+        }
+      ],
+      "duration_ms": 196603,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/3Wktkex2T795J38B7Gtf0Y"
     },
     {
       "added_at": "2024-06-24 06:54:45",

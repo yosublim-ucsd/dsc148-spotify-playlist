@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:6caPJFLv1wesmM7gwK1ACy">Boris Brejcha</a>'s favorite tracks\. Updated regularly\. Curated by Boris Brejcha\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-258 songs - 1 day 1 hr 23 min
+259 songs - 1 day 1 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Rescue Me \- DJ Island Remix](https://open.spotify.com/track/0eRaC5PKJ4BEYI1L1m6Tfg) | [Groove Armada](https://open.spotify.com/artist/67tgMwUfnmqzYsNAtnP6YJ), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Rescue Me](https://open.spotify.com/album/1VO0UZdtY2nPzF47zYzcmU) | 5:44 | 2023-02-17 | 2024-01-27 |
 | [Retroworld](https://open.spotify.com/track/1ZXG5VB314386cqUk2MIru) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Retroworld EP](https://open.spotify.com/album/5UHJ8nskMFmTyCxVhwJEu9) | 5:55 | 2023-06-23 | 2024-01-27 |
 | [Revolt \- Extended Mix](https://open.spotify.com/track/5UAjSVD66PU0VJVDjf0wzj) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 6:29 | 2022-09-16 | 2023-05-20 |
+| [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 | 2024-09-06 |  |
 | [Scream Excess](https://open.spotify.com/track/0QIGP0fLELX6cf9LbO80T7) | [Humantronic](https://open.spotify.com/artist/76hRRAuRxt9Ic0ljjHHoLQ) | [Extraterrestrial Intelligence](https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR) | 6:44 | 2024-07-26 |  |
 | [Sentio](https://open.spotify.com/track/2M1b6XYvu63jK7JYNg9hHm) | [Nick Schwenderling](https://open.spotify.com/artist/2mOiGq7ipaUIYqUJSLj3X6) | [Sentio](https://open.spotify.com/album/5RTxWbp8cl9sBXZBQrBAPi) | 4:17 | 2023-05-02 | 2024-06-11 |
 | [SEX](https://open.spotify.com/track/72BS1ZITFhGIuc2sglMwYs) | [Britta Arnold](https://open.spotify.com/artist/7JpBTUqubY86KynSJr28RN), [Tatyana](https://open.spotify.com/artist/6x14uYJLkzbmHhwewSkmz2) | [SEX](https://open.spotify.com/album/3MvKaCc5pZCi7PrNt1S2Zd) | 5:04 | 2022-09-16 | 2024-06-29 |
@@ -218,7 +219,7 @@
 | [Soopertrack](https://open.spotify.com/track/0tZFL2LU8XSThRttMJif6Q) | [Extrawelt](https://open.spotify.com/artist/3VRvi42U8SsiT4YKP5LNCB) | [Extra Welt Hits](https://open.spotify.com/album/3XKvUkeeuxTcKAKBrzR4lE) | 8:02 | 2022-09-16 | 2024-01-27 |
 | [Sorry](https://open.spotify.com/track/7LTf0dNnCeXKiAPvmAdQcV) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q) | [A.I.](https://open.spotify.com/album/5vNsdIBpV5iNqe8lp2SYoy) | 6:26 | 2024-07-26 |  |
 | [Sounds Of The Riff](https://open.spotify.com/track/3vcgv2BSEg2OFAtwg0dZGf) | [Moritz Sachse](https://open.spotify.com/artist/2yPFNVTKTqKeIn3leJpeq3), [NEPØ](https://open.spotify.com/artist/4C4Kdk8ScpbmRRLkM7MIrK) | [Sounds Of The Riff](https://open.spotify.com/album/6uFfxiKt07cOABrOS4HkKI) | 6:29 | 2024-03-22 |  |
-| [Space X \- Bobby Flava Remix](https://open.spotify.com/track/26hHmmAWMPIVlVglfvotiS) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Bobby Flava](https://open.spotify.com/artist/29aImfkgSWV98BbiGlr1p6) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 4:01 | 2024-07-05 |  |
+| [Space X \- Bobby Flava Remix](https://open.spotify.com/track/26hHmmAWMPIVlVglfvotiS) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Bobby Flava](https://open.spotify.com/artist/29aImfkgSWV98BbiGlr1p6) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 4:01 | 2024-07-05 | 2024-09-07 |
 | [Space X \- Edit](https://open.spotify.com/track/7y2fFvQyCuEqhGbLaAEAIN) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Space X \(Edit\)](https://open.spotify.com/album/0isHRGzyIFvSKDeSdlem8j) | 3:36 | 2023-06-23 | 2023-10-21 |
 | [Space X \- Moritz Hofbauer Remix](https://open.spotify.com/track/2sSmDApYtBmwz8DHQTPbJg) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:31 | 2024-06-28 |  |
 | [Space X \- Piet Kämpfer Remix](https://open.spotify.com/track/3O5B3UgS7ahxNQQ2sGQ2L3) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Piet Kämpfer](https://open.spotify.com/artist/3V66VR6CiPl3zveio71Q9v) | [Space X Remixes](https://open.spotify.com/album/5Ot6YhSxroVnlszZrgx9Q1) | 5:07 | 2024-06-28 | 2024-07-06 |

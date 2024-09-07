@@ -169,6 +169,28 @@
     },
     {
       "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/2RA1Rhf3CoR879zzotyfVC"
+      },
+      "artists": [
+        {
+          "name": "Touching Faces",
+          "url": "https://open.spotify.com/artist/6s4XymgHwuFwiu1k7y42YE"
+        },
+        {
+          "name": "Moise",
+          "url": "https://open.spotify.com/artist/1QMWPzIxcd1bLmuOyM6XM1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194758,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5sG6Na4IfNQ3uF5dzNRMF0"
+    },
+    {
+      "album": {
         "name": "Ain 't Perfect",
         "url": "https://open.spotify.com/album/0CDZoOQoQQks7dC0Z14AIL"
       },
@@ -1102,6 +1124,24 @@
       "duration_ms": 136695,
       "name": "Begin",
       "url": "https://open.spotify.com/track/7lQIPQFI9UFqUEfB0L44MU"
+    },
+    {
+      "album": {
+        "name": "Bel Air",
+        "url": "https://open.spotify.com/album/4WZZlR4Bv2GF4VFwK1XZff"
+      },
+      "artists": [
+        {
+          "name": "s m s n",
+          "url": "https://open.spotify.com/artist/7fU0fsPj1ovHWHWghGl65T"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164487,
+      "name": "Bel Air",
+      "url": "https://open.spotify.com/track/228I6cPI71qalWnmpgJGWN"
     },
     {
       "album": {
@@ -2446,6 +2486,24 @@
       "duration_ms": 164634,
       "name": "Dandelion",
       "url": "https://open.spotify.com/track/4etTd7SN547LRWuf0yMLjU"
+    },
+    {
+      "album": {
+        "name": "Dangereux",
+        "url": "https://open.spotify.com/album/3Sbieb1Xjj0Xrzoa0OqA9K"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164959,
+      "name": "Dangereux",
+      "url": "https://open.spotify.com/track/7zhVOlaOWpnqDHMZBvGHhR"
     },
     {
       "album": {
@@ -6291,6 +6349,28 @@
     },
     {
       "album": {
+        "name": "K",
+        "url": "https://open.spotify.com/album/6rehIa1Us5xG74I59fhGzX"
+      },
+      "artists": [
+        {
+          "name": "Modern Culture",
+          "url": "https://open.spotify.com/artist/0Z7fLEbrUz9oFSh6sQTDAp"
+        },
+        {
+          "name": "Brenda",
+          "url": "https://open.spotify.com/artist/2N7wwvscWyr5WhyRBxFSR0"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172180,
+      "name": "K",
+      "url": "https://open.spotify.com/track/63HucpUMzNa50M6FThuiu0"
+    },
+    {
+      "album": {
         "name": "Keep Falling",
         "url": "https://open.spotify.com/album/0BzE6x4cv9JyZdAcVVN8Y1"
       },
@@ -8829,6 +8909,28 @@
     },
     {
       "album": {
+        "name": "People",
+        "url": "https://open.spotify.com/album/3lf14njrNN05cr5fpjun0U"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/0ZDuPS4kDmfm2c1o907fbZ"
+        },
+        {
+          "name": "Emilian Lewis",
+          "url": "https://open.spotify.com/artist/1DEFhYXVaisWLnCSLMhqqr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "People",
+      "url": "https://open.spotify.com/track/6mnlvIQ0MVon3rAiSBHns1"
+    },
+    {
+      "album": {
         "name": "Music Is My Best Friend",
         "url": "https://open.spotify.com/album/32QOMbVCKKaKkFiEmX4laq"
       },
@@ -9090,6 +9192,24 @@
       "duration_ms": 157500,
       "name": "Rather Be",
       "url": "https://open.spotify.com/track/2MU8oxytitanfBLhZwfAFY"
+    },
+    {
+      "album": {
+        "name": "Raymo",
+        "url": "https://open.spotify.com/album/6FkoOVfW8ZlnQMbPfcS1qK"
+      },
+      "artists": [
+        {
+          "name": "MXV",
+          "url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197557,
+      "name": "Raymo",
+      "url": "https://open.spotify.com/track/7zpxgaoaixzogb59CJy3EV"
     },
     {
       "album": {
@@ -9398,6 +9518,24 @@
       "duration_ms": 127200,
       "name": "Rockstars",
       "url": "https://open.spotify.com/track/6uNH63cQYv2wfRo9iTaGQS"
+    },
+    {
+      "album": {
+        "name": "Rooftop Lounge",
+        "url": "https://open.spotify.com/album/69uKTWv2ajWqEtTNOczTn2"
+      },
+      "artists": [
+        {
+          "name": "Tim Olsson",
+          "url": "https://open.spotify.com/artist/3efoFjvdNKj8La91WgFA1j"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Rooftop Lounge",
+      "url": "https://open.spotify.com/track/6TlbLDl5DqyqIUPfZlAsNL"
     },
     {
       "album": {
@@ -10006,6 +10144,24 @@
       "duration_ms": 178235,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/0rMuFOja3DhVSuXQeae25C"
+    },
+    {
+      "album": {
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/07cVWejQSepWaa8bL1c7hM"
+      },
+      "artists": [
+        {
+          "name": "Jelen",
+          "url": "https://open.spotify.com/artist/0OkJaMHmOycCjKUHObnGtT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167796,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/0AuhmtIh2NH5L4LoeGK9Fj"
     },
     {
       "album": {
@@ -11284,6 +11440,24 @@
       "duration_ms": 153846,
       "name": "The Stars We Lost",
       "url": "https://open.spotify.com/track/6KwVp2YhIsadVhHHeAdqEg"
+    },
+    {
+      "album": {
+        "name": "The Time Is Now",
+        "url": "https://open.spotify.com/album/6e2Wloe85dA5yonzkGi5cH"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "The Time Is Now",
+      "url": "https://open.spotify.com/track/7CImbCFyj3mMlwXxXxd8wB"
     },
     {
       "album": {

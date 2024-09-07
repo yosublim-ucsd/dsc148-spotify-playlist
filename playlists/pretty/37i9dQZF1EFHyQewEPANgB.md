@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1t4poam1A1i9RT8MUOhfh2">Earlly Mac</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61 likes - 88 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62 likes - 88 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 56 | [Trappin](https://open.spotify.com/track/0D0ap45OVaFkgPNpNzjpAT) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Cousin Trap](https://open.spotify.com/album/2Y6OJpKusANPXAfZ21e8cT) | 2:22 |
 | 57 | [MearlGo 3](https://open.spotify.com/track/5Ss48r1cxSA1zvFD3NkA30) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [MearlGo](https://open.spotify.com/album/4NoA3oDeOfBlouFiQhNO9y) | 2:35 |
 | 58 | [All Gold Gang Bangin' \(Full\)](https://open.spotify.com/track/2at9mrjeQrRSr1e3Dsz3EO) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 4:32 |
-| 59 | [Mover](https://open.spotify.com/track/0WjqTmAgLFOiea9gtPKjqa) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 5:02 |
-| 60 | [No Rest for The Wicked](https://open.spotify.com/track/50KKDKxn0eJ8gCBbPs92uh) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:14 |
+| 59 | [No Rest for The Wicked](https://open.spotify.com/track/50KKDKxn0eJ8gCBbPs92uh) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 2:14 |
+| 60 | [Mover](https://open.spotify.com/track/0WjqTmAgLFOiea9gtPKjqa) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 5:02 |
 | 61 | [Vacancy \(feat\. T3\)](https://open.spotify.com/track/2Vu4eqKn3PnJqs5uo3N57q) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ), [T3](https://open.spotify.com/artist/3UD8eKuUv97BAcp28iYoSH) | [God Knows](https://open.spotify.com/album/72vJnqE5HYdzczuOyQ9acd) | 3:28 |
 | 62 | [Move the Bag](https://open.spotify.com/track/1xoNASesBcSOAKSpRtgOAn) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [BIG MF](https://open.spotify.com/album/3ZwSucN8fSlXfRExpPP81b) | 2:38 |
 | 63 | [Something Crazy \(feat\. Sebastian Mikael\)](https://open.spotify.com/track/7ivfNdjYZPVRlhhzui8sOe) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [Something Crazy \(feat\. Sebastian Mikael\) \- Single](https://open.spotify.com/album/0zeYjjYj9nC9joyfXdGjtn) | 4:03 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHyQewEPANgB.md) - [plain]
 | 87 | [W.H.E.W\. \(Fat Al & The Silk Drawers\)](https://open.spotify.com/track/5ZxIVf6rWtKuBnYMe6smcH) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:21 |
 | 88 | [W.H.E.W\. \(SouthWest Kesha Mission\)](https://open.spotify.com/track/2nXQCxv2VSlHZ1ELHpOnLo) | [Earlly Mac](https://open.spotify.com/artist/7MnzlETJZuQb3EcK8mugEQ) | [W.H.E.W.](https://open.spotify.com/album/5HOZdRUmU9xas3SRjQx5wE) | 1:27 |
 
-Snapshot ID: `AbbXPgAAAABn4gaMO8EjH9jTn3bS4Sum`
+Snapshot ID: `Abbc3gAAAACx43Q3gt3tK5eKPwGmlsTv`

@@ -881,6 +881,24 @@
     },
     {
       "album": {
+        "name": "Escape Artist (Disc 1)",
+        "url": "https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO"
+      },
+      "artists": [
+        {
+          "name": "Yacht Rock Revue",
+          "url": "https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255893,
+      "name": "Make You Miss Me",
+      "url": "https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D"
+    },
+    {
+      "album": {
         "name": "Loneliness Confetti",
         "url": "https://open.spotify.com/album/0Cinqm0u7kj6hQc1CIFjxu"
       },
@@ -1900,7 +1918,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 227282,
       "name": "Tropical Illusion",
       "url": "https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6"

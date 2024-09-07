@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> make it pop! cover: Dolores Forever
+> make it pop! cover: Mercer Henderson
 
-1,118 songs - 2 day 7 hr 34 min
+1,120 songs - 2 day 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [CRUSH \(with ASTN & Bren Joy\)](https://open.spotify.com/track/1IMkI7PMzU2Cq6qnGePJ2D) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [CRUSH \(with ASTN & Bren Joy\)](https://open.spotify.com/album/6Cp5ZUPE4toXKNPsJO5z6p) | 3:19 | 2024-07-19 |  |
 | [Cry \(let it out\)](https://open.spotify.com/track/5DbArXOkqbbxmrdkf6On9l) | [FRENSHIP](https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH) | [Cry \(let it out\)](https://open.spotify.com/album/03YaY85RTJO8YfR5IhZ5S5) | 2:36 | 2022-08-26 | 2022-09-17 |
 | [CRYBABY](https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ) | [Alex Coles](https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b) | [CRYBABY](https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6) | 2:56 | 2024-04-19 | 2024-06-01 |
-| [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 | 2024-07-12 |  |
+| [Crystal Ball](https://open.spotify.com/track/5nr1Ndcw55fBJ002iTUJVJ) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Crystal Ball](https://open.spotify.com/album/19smqXXtyEGibAtZX7clTy) | 2:53 | 2024-07-12 | 2024-09-07 |
 | [CTFO](https://open.spotify.com/track/61ziMfZxM3yJ5LlfTwCjoz) | [Sleeping Lion](https://open.spotify.com/artist/4sBiA3ARQSDSGUqI2mbWgf) | [CTFO](https://open.spotify.com/album/0dyGXZOW0gV11BA2EYflV4) | 3:23 | 2022-08-05 | 2022-09-03 |
 | [Cure](https://open.spotify.com/track/1H2HqAQw4sDHQiZQDvsAYd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Last Birthday](https://open.spotify.com/album/5DMf0Psld4AE5tkI05lCpt) | 2:28 | 2021-10-29 | 2022-02-26 |
 | [cut my hair](https://open.spotify.com/track/3PY9Ox9fKPqZJCzPjUQ0I6) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [cut my hair](https://open.spotify.com/album/09rSEws6lx6NhDxNhZJxQ1) | 2:56 | 2022-11-25 | 2023-03-11 |
@@ -304,6 +304,7 @@
 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-05-03 | 2024-06-29 |
+| [everything but you](https://open.spotify.com/track/4U4m8333fohDh60ZCzesrN) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [everything but you](https://open.spotify.com/album/3GBpUVoecA1RTPDzb7zMOF) | 2:57 | 2024-09-06 |  |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 | 2024-02-10 |
 | [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 | 2024-07-16 |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
@@ -604,6 +605,7 @@
 | [Live On](https://open.spotify.com/track/6307yOQg0mupzSlNcCX0LA) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/2rIJP88CPNzBrvHW06R3Ve) | 2:32 | 2023-02-10 | 2023-02-25 |
 | [Living It Up](https://open.spotify.com/track/5xj1VcAPmfKQwxPVOPdV11) | [Alt Bloom](https://open.spotify.com/artist/6JxQbC46LapcvanSk4J3OP) | [Summer Craft](https://open.spotify.com/album/6YaLyPqp8iu5PTekRYruiB) | 2:47 | 2022-08-26 | 2022-09-17 |
 | [Living Life Right](https://open.spotify.com/track/76rPAsb8KANsYYyAw8Vnyq) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Crazy Life](https://open.spotify.com/album/73j3szStTnau2muNhow0Vz) | 3:12 | 2022-10-28 | 2023-03-04 |
+| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-06 |  |
 | [Locked Up](https://open.spotify.com/track/56v5S5qrGG1iLXm5czpNi3) | [Alan Fiore](https://open.spotify.com/artist/7n0LV0swUfy2RXrZByeNxI) | [Locked Up](https://open.spotify.com/album/2wcfh11TebGKOCSSkCYr4O) | 2:20 | 2022-08-05 | 2022-09-17 |
 | [London Is Lonely \- Edit](https://open.spotify.com/track/06Tr79i53ihD4KUKYIyyjq) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [London Is Lonely](https://open.spotify.com/album/7tD8r8V7O1wl4ULxmDZExG) | 3:27 | 2022-02-04 | 2022-03-12 |
 | [Lone Ranger](https://open.spotify.com/track/3vm5pW421nDDw7lPIe2xYq) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Lone Ranger](https://open.spotify.com/album/7lLEHCXp6ZKZYb95RPOtxL) | 2:47 | 2024-06-28 | 2024-08-03 |
@@ -703,7 +705,7 @@
 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 | 2022-08-17 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-02-04 | 2022-07-16 |
 | [No Longer Bound](https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [California Cowboy](https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp) | 3:00 | 2023-07-28 | 2023-09-30 |
-| [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-02 |  |
+| [No Strings Attached](https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [No Strings Attached](https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi) | 2:59 | 2024-08-02 | 2024-09-07 |
 | [No Ties](https://open.spotify.com/track/3c55CwwJyauL7tUHMoVyn7) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened? \(Deluxe\)](https://open.spotify.com/album/1yVrwIy3icKDiyMDBLbJDr) | 2:30 | 2022-08-19 | 2022-09-17 |
 | [NO WAY!](https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [NO WAY!](https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC) | 2:27 | 2021-10-29 | 2022-01-08 |
 | [Nobody \(feat\. dodie\)](https://open.spotify.com/track/3HSIgdZZJGHBV3F3kradtG) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k), [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Nobody \(feat\. dodie\)](https://open.spotify.com/album/14izII4z3jQPUPx2pmZsMM) | 3:26 | 2023-02-24 | 2023-07-01 |

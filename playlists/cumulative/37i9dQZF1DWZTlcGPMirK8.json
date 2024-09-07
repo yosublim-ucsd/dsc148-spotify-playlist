@@ -497,6 +497,24 @@
     },
     {
       "album": {
+        "name": "Better in Blak",
+        "url": "https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187640,
+      "name": "Clumsy Love",
+      "url": "https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp"
+    },
+    {
+      "album": {
         "name": "Walking Under Stars",
         "url": "https://open.spotify.com/album/7Lp5k5j4kHtTT8zOpJkfUN"
       },
@@ -580,7 +598,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 234866,
       "name": "Do You Remember",
       "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"

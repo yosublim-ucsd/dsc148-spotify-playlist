@@ -4,7 +4,7 @@
 
 > Groovy sounds from around the world.
 
-730 songs - 2 day 4 hr 14 min
+731 songs - 2 day 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,6 +334,7 @@
 | [Jungle Music](https://open.spotify.com/track/4Fz7kqfYvb6T4YUxTexdLs) | [Kelenkye Band](https://open.spotify.com/artist/1AIamdH9sipGz8h6gp0Fmq) | [Various Bilongo](https://open.spotify.com/album/1WnorRo4yM6FtWdFq2enSt) | 5:36 | 2021-10-06 |  |
 | [Just Cool](https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Just Cool](https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ) | 3:40 | 2023-05-24 |  |
 | [Justaju](https://open.spotify.com/track/1z4f6ddISQvCdRNahbyD1t) | [ZOH](https://open.spotify.com/artist/1T5V8R7QKMhQImEdKNDyFU) | [Justaju](https://open.spotify.com/album/3IGsqaTwSwGEKNYClDJwep) | 2:56 | 2022-02-25 | 2022-04-21 |
+| [Jäjtä´äky](https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2) | [kujipy](https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs) | [Jäjtä´äky](https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo) | 7:28 | 2024-09-06 |  |
 | [Ka Fwo Bit \- Patchworks Remix](https://open.spotify.com/track/2v06FOgGYlTnestcu4Wjkd) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue), [Patchworks](https://open.spotify.com/artist/5Qq1R0T5ZL6U0H8zerwFdo) | [Poul Wélélé](https://open.spotify.com/album/5Cf5uBke8KeMbyxotR07ri) | 4:09 | 2021-10-06 | 2022-07-22 |
 | [Kabhi](https://open.spotify.com/track/3etwqEJFys1FJhzVKvenHw) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Piya Malik](https://open.spotify.com/artist/3WjeCzWHSOzMZI2vWXgFZU) | [Kabhi](https://open.spotify.com/album/6gEiZwKKFyQim4GQ7fVJdb) | 2:34 | 2023-01-07 | 2024-06-28 |
 | [Kamakumba](https://open.spotify.com/track/4a1fZPAqIORgRyd1cQCyqQ) | [Mop Mop](https://open.spotify.com/artist/4pgjEpAP1k4epnwZWmbHTf) | [Isle Of Magic](https://open.spotify.com/album/0KrjFs17bxZYT5oNK1Wxj6) | 4:06 | 2022-04-12 |  |
@@ -574,7 +575,7 @@
 | [Siakwaa / Nana Agyei \- Medley](https://open.spotify.com/track/510hOuZSl4wqLLDARSddjn) | [The Polyversal Souls](https://open.spotify.com/artist/6ucByLJIHHN6HfdMyZylyi), [Sir Frank Karikari](https://open.spotify.com/artist/7ooUPeumSe2dVxkPYD9xmS) | [Siakwaa / Nana Agyei \(Medley\) \(feat\. Sir Frank Karikari\)](https://open.spotify.com/album/7vpecaht2VUeB04vCxL62E) | 4:17 | 2021-10-06 | 2022-07-23 |
 | [Sigo Llorando](https://open.spotify.com/track/0e0kgcPlS4dbyVJOEAVym9) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Sigo Llorando](https://open.spotify.com/album/2bBnsF6DHMnWzRhlQ8Jz0X) | 3:24 | 2021-10-06 | 2022-07-05 |
 | [Silence is Golden](https://open.spotify.com/track/72pAdCNhYcGaKndmsJBbyz) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Resonate](https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs) | 5:43 | 2021-10-06 |  |
-| [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 |  |
+| [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 | 2024-09-07 |
 | [Simé Love](https://open.spotify.com/track/5c4HBB6vA5UqhWk4Of7NBO) | [Dowdelin](https://open.spotify.com/artist/1ogaqCgdEnTy7M5jO0tMue) | [Simé Love](https://open.spotify.com/album/4SPzMNobGVtQ7PWxJcIg2I) | 3:30 | 2021-10-06 | 2024-06-27 |
 | [Sin Cleopatra](https://open.spotify.com/track/0WlXIfNiJsjoHMOAaLdIfm) | [Indianizer](https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp) | [Nadir](https://open.spotify.com/album/33DHhoyznooKJxCel0INHU) | 5:21 | 2022-02-09 | 2022-05-13 |
 | [Sky High](https://open.spotify.com/track/0nxsB1Yg2nTscclsyNhy3M) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Chaos Theories](https://open.spotify.com/album/6DfCiu85VKpjBTBGuTD6mA) | 4:21 | 2021-10-06 | 2024-04-19 |

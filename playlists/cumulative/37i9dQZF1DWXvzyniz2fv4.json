@@ -549,6 +549,32 @@
     },
     {
       "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179354,
+      "name": "brilho no olho",
+      "url": "https://open.spotify.com/track/42SdhSUXMOuhV6sDylxIXg"
+    },
+    {
+      "album": {
         "name": "Cabulosa",
         "url": "https://open.spotify.com/album/5qk2dEtHizbt6x4rxZJR4J"
       },
@@ -2372,7 +2398,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 161022,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/7BCBv9I6K5QbYiuYy9Vz5n"
@@ -4144,7 +4170,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 147692,
       "name": "Sua Boca",
       "url": "https://open.spotify.com/track/6uQBN4yMHx5RylUXXrEnfg"
@@ -4324,7 +4350,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 145953,
       "name": "Tudo Come\u00e7ou",
       "url": "https://open.spotify.com/track/3YxDUy8pxY8vs7mZcn0TK1"

@@ -1,8 +1,30 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG?si=ujjJuO6pS66aEH6wk3AgTQ\">Keenan Meyer</a>",
+  "description": "Journey through the exciting and innovative sounds of South African Jazz. Cover: <a href=\"https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG?si=ujjJuO6pS66aEH6wk3AgTQ\">Ndabo Zulu</a>",
   "name": "Jazz NXT",
   "tracks": [
+    {
+      "album": {
+        "name": "Reawakening",
+        "url": "https://open.spotify.com/album/6kXVFaMcxjNoB9X11MhxOb"
+      },
+      "artists": [
+        {
+          "name": "Keenan Meyer",
+          "url": "https://open.spotify.com/artist/0JZcAWFy9viaXUHqu08nFG"
+        },
+        {
+          "name": "Muneyi",
+          "url": "https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 449112,
+      "name": "A Fallist's Prayer",
+      "url": "https://open.spotify.com/track/5ezGQd7f7t9FgSdGobmIEw"
+    },
     {
       "album": {
         "name": "Two Sides,One Mirror",
@@ -683,6 +705,28 @@
     },
     {
       "album": {
+        "name": "Come Home (feat. Filah Lah Lah)",
+        "url": "https://open.spotify.com/album/4aotwHazC1DeazuX3hmLIW"
+      },
+      "artists": [
+        {
+          "name": "Ndabo Zulu",
+          "url": "https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33"
+        },
+        {
+          "name": "Filah Lah Lah",
+          "url": "https://open.spotify.com/artist/0xACKjkY8pqrot7s6da1Sw"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366048,
+      "name": "Come Home (feat. Filah Lah Lah)",
+      "url": "https://open.spotify.com/track/6vMe5lYrd4xHK10r2kJCto"
+    },
+    {
+      "album": {
         "name": "Exiled",
         "url": "https://open.spotify.com/album/4fqKeqCJYOY7v3yKmuiau0"
       },
@@ -1332,7 +1376,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205280,
       "name": "Heart Like A Wheel (Radio Edit)",
       "url": "https://open.spotify.com/track/65VznwzRGUWgyTCjitI9M7"
@@ -1676,7 +1720,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 309416,
       "name": "Inkhatazo",
       "url": "https://open.spotify.com/track/3coK5yd6TJncroyAWMk3Qt"
@@ -1796,7 +1840,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 480000,
       "name": "Intlungu Nentlupheko",
       "url": "https://open.spotify.com/track/46IEMoR4xnawTn2mIGBPxz"
@@ -2191,6 +2235,44 @@
     },
     {
       "album": {
+        "name": "Light Cycle / Vang Gou Die Strandloper - Live",
+        "url": "https://open.spotify.com/album/3tVoyRG5DZwoJ7i0mDROCr"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        },
+        {
+          "name": "Kyle Shepherd",
+          "url": "https://open.spotify.com/artist/5qnR032jCYhmChV9WTt7bf"
+        },
+        {
+          "name": "Shane Cooper",
+          "url": "https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ"
+        },
+        {
+          "name": "Jonno Sweetman",
+          "url": "https://open.spotify.com/artist/0l8peTQLmGJYNRyeecRFhW"
+        },
+        {
+          "name": "Andreas Tschopp",
+          "url": "https://open.spotify.com/artist/7jG1a4U2gfpRRx85QwoiYF"
+        },
+        {
+          "name": "Marc Stucki",
+          "url": "https://open.spotify.com/artist/308i8WRYChjLk9ALZP4W8H"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 556000,
+      "name": "Light Cycle / Vang Gou Die Strandloper - Live",
+      "url": "https://open.spotify.com/track/6i6zDNV7uXaJ8Xx6MAZgh0"
+    },
+    {
+      "album": {
         "name": "Batsumi",
         "url": "https://open.spotify.com/album/5uYPQOxhKyzMboAmxqdhcZ"
       },
@@ -2256,7 +2338,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 288226,
       "name": "Mabaphile",
       "url": "https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR"
@@ -2692,6 +2774,24 @@
       "duration_ms": 1029850,
       "name": "Nandi's Suite (1st Mov)",
       "url": "https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx"
+    },
+    {
+      "album": {
+        "name": "Ndinethemba Uzobuya",
+        "url": "https://open.spotify.com/album/1mKcLEqEcDIyRhJC8sqDa2"
+      },
+      "artists": [
+        {
+          "name": "Ncesh Nonxishi",
+          "url": "https://open.spotify.com/artist/3cvkD2gq2z8dCSiVagagZP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445413,
+      "name": "Ndinethemba Uzobuya",
+      "url": "https://open.spotify.com/track/4tbsIcC72CzATUKdRqkK3u"
     },
     {
       "album": {

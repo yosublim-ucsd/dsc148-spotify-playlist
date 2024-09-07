@@ -4,7 +4,7 @@
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Rhonda Vincent
 
-286 songs - 18 hr 34 min
+287 songs - 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Brain Damage](https://open.spotify.com/track/2dcZFrC8XkdxhVxmb8p2kO) | [The Austin Lounge Lizards](https://open.spotify.com/artist/4O4nf1pPdZh0crQObAC8um) | [Lizard Vision](https://open.spotify.com/album/39wW3gZkVGupQpLXw2ogs9) | 2:31 | 2021-08-20 | 2023-04-15 |
 | [Break on Through \(To the Other Side\)](https://open.spotify.com/track/0hjjRLRLsepUhGLQaLDvGb) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw), [Iron Horse](https://open.spotify.com/artist/1v3CnxHAtLMfZW8v5dGj7t) | [Break on Through \(To the Other Side\)](https://open.spotify.com/album/6hRj4yRNbXucoVjuSQwSFT) | 3:35 | 2024-06-13 |  |
 | [Callin' Baton Rouge](https://open.spotify.com/track/0EoZG0iXT9gLkQGlwReFbM) | [New Grass Revival](https://open.spotify.com/artist/4H2wzhX55UWQ9POEPok5j5) | [Best Of New Grass Revival](https://open.spotify.com/album/0LnekmRkX0aKwAZ33cg387) | 2:40 | 2023-03-03 |  |
-| [Can't Find My Way Home](https://open.spotify.com/track/4xdDEEwhHySDL7KOjxe01T) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Can't Find My Way Home](https://open.spotify.com/album/05vQAuF4CXNNXkuJNRQseN) | 3:32 | 2022-02-18 |  |
+| [Can't Feel My Face \- The Very Best Yet Version](https://open.spotify.com/track/5NM7wEj9onAnCEQ65X8AMH) | [The Hillbilly Moonshiners Bluegrass Band](https://open.spotify.com/artist/6BcK7PtPC4B4buhH0wsLua) | [The Very Best Yet \(The Very Best Yet Version\)](https://open.spotify.com/album/2BgbVFW7nmYTDWuhqNMuAq) | 3:38 | 2024-09-06 |  |
+| [Can't Find My Way Home](https://open.spotify.com/track/4xdDEEwhHySDL7KOjxe01T) | [Malingo](https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk) | [Can't Find My Way Home](https://open.spotify.com/album/05vQAuF4CXNNXkuJNRQseN) | 3:32 | 2022-02-18 | 2024-09-07 |
 | [Can't Let Go](https://open.spotify.com/track/0cX8s93aHEK74Yq6aHOLPv) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Can't Let Go](https://open.spotify.com/album/1Iowxh8dz1yZAmhsIBj3Wr) | 3:05 | 2023-07-14 |  |
 | [Centuries](https://open.spotify.com/track/42zrLbtRnhMwVN6T43fRRp) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [Pickin' on the Hits of 2015](https://open.spotify.com/album/3gi2gORW66TUEFYq2X0LK3) | 3:57 | 2021-08-20 | 2023-05-14 |
 | [Clocks](https://open.spotify.com/track/3oVRuQY34aspcdgEWbL0lD) | [Pickin' On Series](https://open.spotify.com/artist/6AEIKVwB27miPI3uJxM4Dw) | [The Fantastic Pickin' on Series Bluegrass Sampler, Vol\. 2](https://open.spotify.com/album/2ZfxUmkKvMQ6qHdBmA2sOx) | 7:35 | 2021-08-20 | 2024-01-20 |

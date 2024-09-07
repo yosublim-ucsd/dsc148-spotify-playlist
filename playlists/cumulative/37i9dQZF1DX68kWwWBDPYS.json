@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "puros morrxs haciendo m\u00fasica chida. Petite Amie en portada.",
+  "description": "puros morrxs haciendo m\u00fasica chida. Boca Paila en portada.",
   "name": "indie fresco",
   "tracks": [
     {
@@ -342,7 +342,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 220613,
       "name": "Ajedrez",
       "url": "https://open.spotify.com/track/6Mj7L5Lc1sVlO0YYPJl89F"
@@ -426,6 +426,24 @@
       "duration_ms": 147853,
       "name": "Algo De Verdad",
       "url": "https://open.spotify.com/track/1v7TEaSKfwkfJmmpAPhqF5"
+    },
+    {
+      "album": {
+        "name": "ALGOD\u00d3N",
+        "url": "https://open.spotify.com/album/4BqvEdydPFInom915At5za"
+      },
+      "artists": [
+        {
+          "name": "Boca Paila",
+          "url": "https://open.spotify.com/artist/6SuLt6BrVQ6ue1C0qRbhX6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151449,
+      "name": "ALGOD\u00d3N",
+      "url": "https://open.spotify.com/track/5ChrHxifzFvm7Xw8W7Cdnm"
     },
     {
       "album": {
@@ -687,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Cambio De Ciudad",
+        "url": "https://open.spotify.com/album/6qqOIFEmbzafSPWO86FK0y"
+      },
+      "artists": [
+        {
+          "name": "valeria d\u00e1vila",
+          "url": "https://open.spotify.com/artist/2CoZrPsp90NW3x0jvWKmbj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171000,
+      "name": "Cambio De Ciudad",
+      "url": "https://open.spotify.com/track/39rB0FtKibYVi5Lo9kD177"
+    },
+    {
+      "album": {
         "name": "CARDIO",
         "url": "https://open.spotify.com/album/07yFwMDQW8uDu48chfn9mq"
       },
@@ -760,6 +796,24 @@
       "duration_ms": 203000,
       "name": "Check",
       "url": "https://open.spotify.com/track/3x7tIdDP7YpTj3Vm8dNc6G"
+    },
+    {
+      "album": {
+        "name": "Chiquitita Bum Bum",
+        "url": "https://open.spotify.com/album/4rqC4KvIS1cCI91eOj66y6"
+      },
+      "artists": [
+        {
+          "name": "Andie Gago",
+          "url": "https://open.spotify.com/artist/2R5LEUDIhf0yxB5hQtXacJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167721,
+      "name": "Chiquitita Bum Bum",
+      "url": "https://open.spotify.com/track/4buTrqA3oTwn7z34fKw0DO"
     },
     {
       "album": {
@@ -1198,7 +1252,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 169226,
       "name": "D\u00eda Uno",
       "url": "https://open.spotify.com/track/5r0DmaRCDDBlUHB3ekQOH6"
@@ -1386,6 +1440,32 @@
       "duration_ms": 218093,
       "name": "Estrellas",
       "url": "https://open.spotify.com/track/50hcLx8GL7THXWxew0EHgb"
+    },
+    {
+      "album": {
+        "name": "Eterno",
+        "url": "https://open.spotify.com/album/0KJmtBDeNZoBJuaOHZA0b3"
+      },
+      "artists": [
+        {
+          "name": "Los Eclipses",
+          "url": "https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY"
+        },
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        },
+        {
+          "name": "Dan Solo",
+          "url": "https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268909,
+      "name": "Eterno",
+      "url": "https://open.spotify.com/track/5XcDT7Lae6b5Q73qHBUtNQ"
     },
     {
       "album": {
@@ -1628,7 +1708,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 131253,
       "name": "Idiota",
       "url": "https://open.spotify.com/track/0obiVvoMb80sR2oWDtJLOD"
@@ -1948,7 +2028,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 186598,
       "name": "los \u00e1ngeles cantan",
       "url": "https://open.spotify.com/track/5epwMXy0ChnEP139GCS0RF"
@@ -2346,7 +2426,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205200,
       "name": "No te vayas",
       "url": "https://open.spotify.com/track/4BeuEYAmkJHx14QvWiJ5x0"
@@ -2408,6 +2488,28 @@
       "duration_ms": 217615,
       "name": "Para Ti",
       "url": "https://open.spotify.com/track/2B9fz9WW4XRg1ExCZnfuAI"
+    },
+    {
+      "album": {
+        "name": "Pausa",
+        "url": "https://open.spotify.com/album/4j1zcBZbsfmuHeyUA5BxJN"
+      },
+      "artists": [
+        {
+          "name": "Manu Beker",
+          "url": "https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH"
+        },
+        {
+          "name": "ANASOF",
+          "url": "https://open.spotify.com/artist/3f8A9SF4KU1QISytS4jxDm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Pausa",
+      "url": "https://open.spotify.com/track/3LqB7Pppg3lZwwo7IoBh5Q"
     },
     {
       "album": {
@@ -2662,6 +2764,24 @@
       "duration_ms": 178096,
       "name": "Red Pill",
       "url": "https://open.spotify.com/track/6b5OFBqSktYZftqw33jkAH"
+    },
+    {
+      "album": {
+        "name": "Rendezvous",
+        "url": "https://open.spotify.com/album/3xVDIy9xlQUg8VrB6yl0M9"
+      },
+      "artists": [
+        {
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141428,
+      "name": "Rendezvous",
+      "url": "https://open.spotify.com/track/3TKXgblkumvEQOgscTjxnc"
     },
     {
       "album": {
@@ -3152,7 +3272,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 153986,
       "name": "Terapia",
       "url": "https://open.spotify.com/track/1dvcR2fcM4rIsk3i5T6RQR"
@@ -3232,6 +3352,28 @@
       "duration_ms": 170016,
       "name": "Tormento",
       "url": "https://open.spotify.com/track/7luTItMWT5N84eLmo9une9"
+    },
+    {
+      "album": {
+        "name": "TR\u00caS",
+        "url": "https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc"
+      },
+      "artists": [
+        {
+          "name": "Let\u00f3n P\u00e9",
+          "url": "https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO"
+        },
+        {
+          "name": "Giorgio Siladi",
+          "url": "https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180286,
+      "name": "TR\u00caS",
+      "url": "https://open.spotify.com/track/2xjwVhT91obFavd67VOo80"
     },
     {
       "album": {
@@ -3318,7 +3460,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242666,
       "name": "Un d\u00eda nos vamos a morir",
       "url": "https://open.spotify.com/track/6mL6h0E5bxPdWcfe91fI8y"

@@ -1354,7 +1354,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 270981,
       "name": "Eu N\u00e3o Desisto",
       "url": "https://open.spotify.com/track/5uGArnuiyPbbMZXO3scXMM"
@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 271191,
       "name": "Eu Tenho uma Promessa",
       "url": "https://open.spotify.com/track/1QeiFzV3c26r6k9g6s5iFY"
@@ -2863,6 +2863,24 @@
     },
     {
       "album": {
+        "name": "Passar pela Moenda - Ao Vivo",
+        "url": "https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc"
+      },
+      "artists": [
+        {
+          "name": "Shirley Carvalhaes",
+          "url": "https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321728,
+      "name": "Passar pela Moenda - Ao Vivo",
+      "url": "https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT"
+    },
+    {
+      "album": {
         "name": "Passeio na Tempestade (Ao Vivo)",
         "url": "https://open.spotify.com/album/565Cc2sAwnRsWvr7JISvUE"
       },
@@ -3100,7 +3118,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 423916,
       "name": "P\u00e1gina Virada - Ao Vivo",
       "url": "https://open.spotify.com/track/4XPbG1ZX2j45hGVDO3QCUD"
@@ -4282,6 +4300,32 @@
       "duration_ms": 411793,
       "name": "Yeshua - Ao Vivo",
       "url": "https://open.spotify.com/track/3SR5II0SNtNsQAsiQMs75w"
+    },
+    {
+      "album": {
+        "name": "Momento Solene - Vol 1 - Ao Vivo",
+        "url": "https://open.spotify.com/album/2lJ8G5FVkvDpKCd2Xi5OTD"
+      },
+      "artists": [
+        {
+          "name": "Momento Solene",
+          "url": "https://open.spotify.com/artist/54zL5JenxhZlJS9kHdSlwu"
+        },
+        {
+          "name": "Hananiel Eduardo",
+          "url": "https://open.spotify.com/artist/6jcaFu5t6OajYlT3inEMkM"
+        },
+        {
+          "name": "Juliana Kontopp",
+          "url": "https://open.spotify.com/artist/4wI3Jgf2m5qf5Zb76UzP0J"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 510489,
+      "name": "\u00c1guas Purificadoras - Ao Vivo",
+      "url": "https://open.spotify.com/track/1MFs9xeuKZlp74cV7OmeSu"
     },
     {
       "album": {

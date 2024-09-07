@@ -1,6 +1,6 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 710843,
+  "num_followers": 710919,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
@@ -519,8 +519,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
       },
       "artists": [
         {
@@ -528,13 +528,13 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 198332,
-      "name": "Sobredosis (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
+      "duration_ms": 225000,
+      "name": "Odio (feat. Drake)",
+      "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Dobletazo",
-        "url": "https://open.spotify.com/album/67Zn5cir0VxgoZX8X4XbMt"
-      },
-      "artists": [
-        {
-          "name": "Luis Vargas",
-          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
-        }
-      ],
-      "duration_ms": 273800,
-      "name": "Esa Mujer",
-      "url": "https://open.spotify.com/track/1RhQsb9KzlmaZ2dCPcefa7"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "The First (Remastered)",
         "url": "https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 263693,
       "name": "Me Puedo Matar - Remastered",
       "url": "https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Dobletazo",
+        "url": "https://open.spotify.com/album/67Zn5cir0VxgoZX8X4XbMt"
+      },
+      "artists": [
+        {
+          "name": "Luis Vargas",
+          "url": "https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Esa Mujer",
+      "url": "https://open.spotify.com/track/1RhQsb9KzlmaZ2dCPcefa7"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 250920,
+      "name": "Burbujas de Amor",
+      "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Tony Bachata Presents: Los Grandes Exitos de Bachata",
         "url": "https://open.spotify.com/album/1vRP8U5f0PLm1fQYMVOVDj"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 301920,
       "name": "Siento Que Te Quiero",
       "url": "https://open.spotify.com/track/14tdzjrC0rHExDaosbJlfJ"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "Bachata Rosa",
-      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/5yzUVRAmpuAWyqQDoayDWT"
       },
@@ -1343,22 +1327,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Los 12 Exitos De Kiko Rodriguez",
-        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
-      },
-      "artists": [
-        {
-          "name": "Kiko Rodriguez",
-          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
-        }
-      ],
-      "duration_ms": 252557,
-      "name": "Hoy Te Vi Pasar",
-      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "La Soga Soundtrack",
         "url": "https://open.spotify.com/album/6jCjkECgYPGYLM38iLdloA"
       },
@@ -1371,6 +1339,38 @@
       "duration_ms": 219866,
       "name": "El profesor",
       "url": "https://open.spotify.com/track/4rJ54g9mwgfEqJSp9Yjufd"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Los 12 Exitos De Kiko Rodriguez",
+        "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
+      },
+      "artists": [
+        {
+          "name": "Kiko Rodriguez",
+          "url": "https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV"
+        }
+      ],
+      "duration_ms": 252557,
+      "name": "Hoy Te Vi Pasar",
+      "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 250920,
-      "name": "Burbujas de Amor",
-      "url": "https://open.spotify.com/track/4JvxxMnFK1zGtDb8rr5RmE"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "El Duque de la Bachata",
         "url": "https://open.spotify.com/album/7hsUJxtjtkKwS1HksZ4dCi"
       },
@@ -1423,22 +1407,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Mas Bachata",
-        "url": "https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Cuando El Amor Se Va",
-      "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Linea Clasica Bachata Pura Vol. 1",
         "url": "https://open.spotify.com/album/5FSAux1ZgvZsGSR9nX1zRO"
       },
@@ -1451,6 +1419,38 @@
       "duration_ms": 177600,
       "name": "Pena Por Ti",
       "url": "https://open.spotify.com/track/7lNGtKmnHaxotSKonqiSVl"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "Bachata Rosa",
+      "url": "https://open.spotify.com/track/3javh8nJiJ0OhZacdejqSR"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Mas Bachata",
+        "url": "https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Cuando El Amor Se Va",
+      "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1535,8 +1535,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
       "artists": [
         {
@@ -1544,29 +1544,13 @@
           "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Odio (feat. Drake)",
-      "url": "https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "We Broke The Rules",
-        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
-      },
-      "artists": [
-        {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
-        }
-      ],
-      "duration_ms": 348826,
-      "name": "Ense\u00f1ame a Olvidar",
-      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
+      "duration_ms": 198332,
+      "name": "Sobredosis (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1583,6 +1567,22 @@
       "duration_ms": 239026,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "We Broke The Rules",
+        "url": "https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd"
+      },
+      "artists": [
+        {
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+        }
+      ],
+      "duration_ms": 348826,
+      "name": "Ense\u00f1ame a Olvidar",
+      "url": "https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM"
     },
     {
       "added_at": "2024-06-04 19:13:44",

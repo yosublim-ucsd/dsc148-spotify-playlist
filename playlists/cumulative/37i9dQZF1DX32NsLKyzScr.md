@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,137 songs - 2 day 13 hr 41 min
+1,138 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -652,7 +652,7 @@
 | [No Fun](https://open.spotify.com/track/2yYb6Ru1cwcDUBS4txRYQL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [No Fun](https://open.spotify.com/album/4iBP2MeLgpL50cizIVqgki) | 2:10 | 2022-01-04 | 2022-05-07 |
 | [No Good](https://open.spotify.com/track/0oS1yir1qJvwCsFPdaBiqN) | [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [No Good](https://open.spotify.com/album/1G0rWIYGn6jpGeMkQcDb4X) | 2:21 | 2022-09-16 | 2023-08-21 |
 | [No Illusions](https://open.spotify.com/track/1f3CqEw0F1134cqpfP8l4c) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [No Illusions](https://open.spotify.com/album/3KNiB2o9uMUsOGCnn8zzUI) | 2:59 | 2022-04-15 | 2022-07-26 |
-| [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-12 |  |
+| [No Matter What](https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [No Matter What](https://open.spotify.com/album/2HU1NhkfNZHOq1MSQJtnrO) | 3:22 | 2024-07-12 | 2024-09-07 |
 | [No Regrets \- Stadiumx Remix](https://open.spotify.com/track/66WBGs8bPw8q93EG4h1s4p) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [No Regrets \(Stadiumx Remix\)](https://open.spotify.com/album/05lostOSOgm4r0Es9PMIS0) | 3:09 | 2021-03-11 | 2021-07-24 |
 | [No Time](https://open.spotify.com/track/6L4ZHLACL2Fla9qT56ef8P) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Time](https://open.spotify.com/album/4WgsMPY3IfJt6w0BC3VkSI) | 2:36 | 2022-05-06 | 2023-05-02 |
 | [No! \- TCTS Remix](https://open.spotify.com/track/6ohw29K9rIEYRUMFfTELeX) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [No! \(TCTS Remix\)](https://open.spotify.com/album/18IITNp2thY6FcQVnQyzOT) | 3:20 | 2021-03-11 | 2021-09-11 |
@@ -1008,6 +1008,7 @@
 | [The World We Left Behind \(feat\. KARRA\)](https://open.spotify.com/track/1tpJ6wdE1jOg8aThxas4oR) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [The World We Left Behind \(feat\. KARRA\)](https://open.spotify.com/album/1FwicSx5OGhuVx68A6oH2s) | 3:17 | 2021-01-23 | 2021-08-07 |
 | [Therapy](https://open.spotify.com/track/0AlHwHvgbjkRKDaTI6YDHD) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E) | [Duality](https://open.spotify.com/album/6AlOjPdNpM41lMVSjjsrUM) | 3:40 | 2020-09-21\* | 2021-01-23 |
 | [These Words](https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [These Words](https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq) | 2:16 | 2024-04-19 |  |
+| [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 | 2024-09-06 |  |
 | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Think Of Me \(feat\. SOUNDR\)](https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O) | 3:52 | 2022-03-11 | 2022-05-17 |
 | [This Ain't Real](https://open.spotify.com/track/4mzlrsSOjP7HwPgkeAP8Mh) | [MENTIS](https://open.spotify.com/artist/5wl0tYW6IrhE0f7uj9S6C3) | [This Ain't Real](https://open.spotify.com/album/0FQaYrRMEl63jQsjfxeU2D) | 2:45 | 2022-07-08 | 2022-07-29 |
 | [This Is Our Legacy](https://open.spotify.com/track/32aKImKoiukzUxnWENXJXb) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [This Is Our Legacy](https://open.spotify.com/album/4Ce0abdgk79C6cH8frg7Eq) | 2:39 | 2021-08-07 | 2021-10-23 |

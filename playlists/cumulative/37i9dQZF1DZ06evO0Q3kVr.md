@@ -2,7 +2,7 @@
 
 ### [This Is Banda Bostik](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q3kVr)
 
-> This is Banda Bostik\. Track\-track unggulan, semuanya dalam satu playlist.
+> This is Banda Bostik\. The essential tracks, all in one playlist.
 
 63 songs - 4 hr 41 min
 

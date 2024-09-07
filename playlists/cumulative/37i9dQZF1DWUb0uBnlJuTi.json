@@ -1232,7 +1232,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 224813,
       "name": "Cincy Kid",
       "url": "https://open.spotify.com/track/5dEYKPx9UaRZsmeYGVNPmU"
@@ -7570,6 +7570,24 @@
       "duration_ms": 191217,
       "name": "That Thang",
       "url": "https://open.spotify.com/track/602QHytqd7LKE2xwKG1KWI"
+    },
+    {
+      "album": {
+        "name": "THAT'S ALRIGHT",
+        "url": "https://open.spotify.com/album/1lePRTzq5rKtJf6Mfoog16"
+      },
+      "artists": [
+        {
+          "name": "Skinny Hightower",
+          "url": "https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "THAT'S ALRIGHT",
+      "url": "https://open.spotify.com/track/3LzvaRYXRH2ayVehdVrUDZ"
     },
     {
       "album": {

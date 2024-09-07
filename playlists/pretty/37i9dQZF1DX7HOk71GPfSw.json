@@ -1,29 +1,13 @@
 {
   "description": "tsubi club is back",
-  "num_followers": 462590,
+  "num_followers": 462627,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtOD9QAAAACIk2gOFLgU9/59rMBwHIcS",
+  "snapshot_id": "ZttW7wAAAADN72g02OVkhb7GXUMIiuMt",
   "tracks": [
-    {
-      "added_at": "2024-08-23 04:49:18",
-      "album": {
-        "name": "Caustic",
-        "url": "https://open.spotify.com/album/4IC9bgthgbTqjuciZf1QTi"
-      },
-      "artists": [
-        {
-          "name": "The Hellp",
-          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Caustic",
-      "url": "https://open.spotify.com/track/4psWH7HF7omu2KbAusNeQt"
-    },
     {
       "added_at": "2024-08-03 15:58:38",
       "album": {
@@ -69,6 +53,42 @@
       "url": "https://open.spotify.com/track/2kJU9c7wKfwE2wdGE7D2As"
     },
     {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Caustic",
+        "url": "https://open.spotify.com/album/4IC9bgthgbTqjuciZf1QTi"
+      },
+      "artists": [
+        {
+          "name": "The Hellp",
+          "url": "https://open.spotify.com/artist/5DslL3PUa3BcRlCCEP64A4"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Caustic",
+      "url": "https://open.spotify.com/track/4psWH7HF7omu2KbAusNeQt"
+    },
+    {
+      "added_at": "2024-09-06 19:24:31",
+      "album": {
+        "name": "Angel Music",
+        "url": "https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "duration_ms": 127634,
+      "name": "Angel Music",
+      "url": "https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa"
+    },
+    {
       "added_at": "2024-08-16 17:58:00",
       "album": {
         "name": "Shake It Like A (feat. Danny Brown)",
@@ -105,22 +125,6 @@
       "url": "https://open.spotify.com/track/1Odw5XWelziILeKluwcWbJ"
     },
     {
-      "added_at": "2024-08-23 04:49:18",
-      "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/2VeJ1I0f6jCGGrFZMWcaCA"
-      },
-      "artists": [
-        {
-          "name": "LoveLeo",
-          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
-        }
-      ],
-      "duration_ms": 179812,
-      "name": "Breakfast",
-      "url": "https://open.spotify.com/track/1JMXeAXC275pyY2hYafYdQ"
-    },
-    {
       "added_at": "2024-08-31 20:58:29",
       "album": {
         "name": "Naive",
@@ -139,6 +143,22 @@
       "duration_ms": 177103,
       "name": "Naive",
       "url": "https://open.spotify.com/track/79czPfl52BLZvhZ89JzauG"
+    },
+    {
+      "added_at": "2024-08-23 04:49:18",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/2VeJ1I0f6jCGGrFZMWcaCA"
+      },
+      "artists": [
+        {
+          "name": "LoveLeo",
+          "url": "https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6"
+        }
+      ],
+      "duration_ms": 179812,
+      "name": "Breakfast",
+      "url": "https://open.spotify.com/track/1JMXeAXC275pyY2hYafYdQ"
     },
     {
       "added_at": "2024-08-16 17:58:00",
@@ -239,6 +259,22 @@
       "duration_ms": 168071,
       "name": "ODDS",
       "url": "https://open.spotify.com/track/7cpTlJpt1WCe8Gj8wjFSoW"
+    },
+    {
+      "added_at": "2024-09-06 19:24:31",
+      "album": {
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/1QfmD8pxQPt9OwY2G08iVN"
+      },
+      "artists": [
+        {
+          "name": "heynat",
+          "url": "https://open.spotify.com/artist/6DOHWRB8ilr8mOJN5DKOVl"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6YkdntnOfV8pzUkPhIzz2w"
     },
     {
       "added_at": "2024-08-23 04:49:18",

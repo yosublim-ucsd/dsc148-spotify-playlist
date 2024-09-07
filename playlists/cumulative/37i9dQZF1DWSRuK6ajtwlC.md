@@ -2,9 +2,9 @@
 
 ### [Norteño Sax](https://open.spotify.com/playlist/37i9dQZF1DWSRuK6ajtwlC)
 
-> A levantar polvadera con lo mejor de la música de sax\. Los Primos del Este en portada.
+> A levantar polvadera con lo mejor de la música de sax\. La Fiera de Ojinaga en portada.
 
-177 songs - 9 hr 7 min
+179 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Con la Botella en la Cabeza](https://open.spotify.com/track/4CCLKyWShnb8LkJ8D76zK3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Con la Botella en la Cabeza](https://open.spotify.com/album/6v9IPxqwcIQcdxhaxhcQA3) | 4:18 | 2023-03-06 | 2023-04-15 |
 | [Contigo Sí](https://open.spotify.com/track/33cIhDF0Hd4KWL5Y8GjJ5m) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/0orwS1kaxssiFbR1kFdpBk) | 2:40 | 2024-01-12 |  |
 | [Contigo Sí](https://open.spotify.com/track/6JHTxDUpbZrhEMROHFFV6a) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Saxy](https://open.spotify.com/album/5Xwc9hOidf3NsxTtY046d4) | 2:40 | 2024-03-01 | 2024-04-19 |
+| [Contigo Ya Chingué](https://open.spotify.com/track/5fCuUD0ZwL0aSqSUj9X7lE) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Josi Cuen](https://open.spotify.com/artist/5nhpUbjd9KtuE0vi67czgY) | [Contigo Ya Chingué](https://open.spotify.com/album/38vlVKOuHd9MWOrgZ6FM8I) | 2:14 | 2024-09-06 |  |
 | [Corazón Frio](https://open.spotify.com/track/1Kq49fOMiPc8wBDAfByqTB) | [DISTINTO NORTE](https://open.spotify.com/artist/54Ip38xHxjz2EJOksZx31L), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3), [Erick MA](https://open.spotify.com/artist/45zsBiOz69xAwYL3T6Gl1L) | [Corazón Frio](https://open.spotify.com/album/1zkiwuKEuZo6EOJcLFBQOR) | 3:34 | 2024-04-19 | 2024-08-03 |
 | [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-05-17 | 2024-08-03 |
 | [Corazón Jodido](https://open.spotify.com/track/22RHmkbByjdDFGX31OC3Al) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Corazón Jodido](https://open.spotify.com/album/2hiF7rho0MmUdmhq7MvgqE) | 2:43 | 2024-03-01 |  |
@@ -67,6 +68,7 @@
 | [En Automático](https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT) | [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p), [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0) | [En Automático](https://open.spotify.com/album/1ZQqsASquT4yZ6mXzWs3af) | 2:30 | 2024-06-28 |  |
 | [En Silencio](https://open.spotify.com/track/24oTgyPewWFMYR43wHQ0Ef) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0yqvCREwt1onIiLGPdXSea) | 3:10 | 2024-04-19 |  |
 | [En Silencio](https://open.spotify.com/track/3DR6MSiWnmppbRWWrGsarE) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Underground](https://open.spotify.com/album/0webdnEw8ZfPGn4gQpN1g0) | 3:10 | 2023-03-06 | 2024-04-19 |
+| [En Todos Los Idiomas](https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [En Todos Los Idiomas](https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te) | 2:55 | 2024-09-06 |  |
 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 | 2023-03-06 |  |
 | [Eres Lo Que Más Quiero](https://open.spotify.com/track/4k7TCyjEL6EptSwliHZuVl) | [Los Salvajes De Chihuahua](https://open.spotify.com/artist/0ojHNY2fTOePP1kpdr1TMC) | [Cómo Olvidarte](https://open.spotify.com/album/3AxFzPRp6AhUL4ApT73urk) | 3:20 | 2023-03-06 | 2023-07-29 |
 | [Escondidos](https://open.spotify.com/track/5rvDEOniEstwbFvn2yCfL2) | [La Descendencia De Rio Grande](https://open.spotify.com/artist/2XI6IohN7oiFjDjuItEtAd) | [Los de la DC](https://open.spotify.com/album/1PRVah5XRGSaWLZyqlXruE) | 3:29 | 2023-03-06 | 2023-09-30 |

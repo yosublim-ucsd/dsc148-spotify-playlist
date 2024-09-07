@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-147 songs - 11 hr 11 min
+148 songs - 11 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Circus Song](https://open.spotify.com/track/0rMZ3nVMzQQGfgtPVgCBlU) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [50 for 50](https://open.spotify.com/album/0u3IA8w2593g2hDgItae3F) | 2:46 | 2021-05-04 |  |
 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 | 2024-06-07 |  |
 | [Concrete](https://open.spotify.com/track/6yAnVsBfrw3mf40jBZiQX7) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Power Station](https://open.spotify.com/album/5SBfou3NNkuYL0LeU004xy) | 4:54 | 2022-10-11 |  |
+| [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 | 2024-09-06 |  |
 | [Crispy](https://open.spotify.com/track/2vk1jBINwK3jVquZ9RW84W) | [Prashant Aswani](https://open.spotify.com/artist/6SU64uhdQiF86cThcWLXy2) | [Visions](https://open.spotify.com/album/2sYv87uNv8EKyo3x5MFiIp) | 4:18 | 2021-05-04 |  |
 | [Dark Matter](https://open.spotify.com/track/3rjBROIs1VgeUPcAq6ALn2) | [Steve Vai](https://open.spotify.com/artist/32Jb1X3wSmmoHj2epZReZA) | [Modern Primitive](https://open.spotify.com/album/1QBwEou5SRg4nD9Ngd2loU) | 3:53 | 2021-05-04 |  |
 | [Dawn](https://open.spotify.com/track/6EYv1dAeBn93vg8djCiSrN) | [Joe Basilio](https://open.spotify.com/artist/7cgk7HhXl6qYMnVBCLqagN) | [Excelsis](https://open.spotify.com/album/1GGypapOEB2efPiNWKncKs) | 4:26 | 2021-05-04 |  |
@@ -92,7 +93,7 @@
 | [Nine](https://open.spotify.com/track/5ZIv4cnwGDSood9MUrRspi) | [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK), [NovaGina](https://open.spotify.com/artist/7poUfOG4cz2W8jkseRpZ5B) | [Away With Words, Part 2](https://open.spotify.com/album/3Vcibwodl0VUwchdgofmwN) | 3:17 | 2023-04-07 |  |
 | [Nu Som](https://open.spotify.com/track/2F5ojPnjFZd7a3g5HJroXv) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Nu Som](https://open.spotify.com/album/4DfgGHHHDVWQN2VTUbf5BJ) | 5:28 | 2021-05-04 |  |
 | [Nu Som](https://open.spotify.com/track/2monwhL9bsFNaobXHhrLDa) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP), [Jeff Lorber Fusion](https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1) | [Eleven](https://open.spotify.com/album/36d8L5jU3W6tbkCh59eS82) | 5:28 | 2021-05-04 | 2024-04-19 |
-| [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 | 2024-02-07 |  |
+| [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 | 2024-02-07 | 2024-09-07 |
 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 | 2024-05-17 |  |
 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 | 2024-07-26 |  |
 | [Planetary Lockdown](https://open.spotify.com/track/3cAEGkFwSdX1bBQsI3efgv) | [Bumblefoot](https://open.spotify.com/artist/1KGFAcP7ovMYuoQuloDhOj) | [Planetary Lockdown](https://open.spotify.com/album/4zV7IgwIYGcWyWsdRytXW8) | 5:16 | 2022-10-11 |  |

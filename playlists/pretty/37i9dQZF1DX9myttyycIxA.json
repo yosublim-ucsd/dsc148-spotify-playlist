@@ -1,13 +1,29 @@
 {
   "description": "Underground indie rock gems. Cover: GIFT",
-  "num_followers": 296848,
+  "num_followers": 296854,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAABSSUmGYM44GRaEmJsXDprt",
+  "snapshot_id": "Ztp+QAAAAABB6FvEnqv7bcsdeimYRXTr",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Not This Time",
+        "url": "https://open.spotify.com/album/5EW8gVkac63mqb7X8qwqJe"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 201702,
+      "name": "Not This Time",
+      "url": "https://open.spotify.com/track/325Y0u0dmETOSwgdM4fLAj"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -57,6 +73,22 @@
       "url": "https://open.spotify.com/track/3iVCKpWyKO17f7FLpTle5e"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/5wm6RLQG7S7L8GuJrD3Mzs"
+      },
+      "artists": [
+        {
+          "name": "Girl Scout",
+          "url": "https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7nPwhOarrHj4VICEw9t805"
+    },
+    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "Low Low",
@@ -71,6 +103,22 @@
       "duration_ms": 197919,
       "name": "Flagstaff",
       "url": "https://open.spotify.com/track/4dcX9kPAfmQih6XOA0iQis"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Ragdoll",
+        "url": "https://open.spotify.com/album/0U9glfapzd3zAnxK1YAyJw"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 183066,
+      "name": "Ragdoll",
+      "url": "https://open.spotify.com/track/5WEpZu4ftwwRa70GObI5tF"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -105,6 +153,22 @@
       "url": "https://open.spotify.com/track/73WUUh7anm2SS0pNHIZEd3"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wish I Was In Bed",
+        "url": "https://open.spotify.com/album/0FTJ60RoxdCndutBG1bN5A"
+      },
+      "artists": [
+        {
+          "name": "Kylie V",
+          "url": "https://open.spotify.com/artist/59tF1lYaJIOSw9JvWXsRAI"
+        }
+      ],
+      "duration_ms": 190307,
+      "name": "Wish I Was In Bed",
+      "url": "https://open.spotify.com/track/1rRX7pIQwG9bBKl3sWeuPJ"
+    },
+    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "REAL",
@@ -119,6 +183,22 @@
       "duration_ms": 203339,
       "name": "REAL",
       "url": "https://open.spotify.com/track/7eorbMGNa05rVo2v6d7SQD"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/3NJoPEc0JX29kOOneAhpKJ"
+      },
+      "artists": [
+        {
+          "name": "knitting",
+          "url": "https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj"
+        }
+      ],
+      "duration_ms": 193106,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/47awv4QA2E9FaH0ZBMZHoh"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -231,22 +311,6 @@
       "duration_ms": 206386,
       "name": "Word",
       "url": "https://open.spotify.com/track/2tEngkFRAH5dyYAe8iWCS7"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Some Kind of Angel / Split Lip",
-        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 274838,
-      "name": "Some Kind of Angel",
-      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -423,6 +487,22 @@
       "duration_ms": 154910,
       "name": "I'VE BEEN EVIL",
       "url": "https://open.spotify.com/track/60cyilVfq8s2pkA2jv82Fq"
+    },
+    {
+      "added_at": "2024-08-02 04:00:00",
+      "album": {
+        "name": "Some Kind of Angel / Split Lip",
+        "url": "https://open.spotify.com/album/0fwNIDQweUkRYQZf4CsuMw"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "duration_ms": 274838,
+      "name": "Some Kind of Angel",
+      "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -793,22 +873,6 @@
       "url": "https://open.spotify.com/track/37pAUJak4foKdSH28OMKTq"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Blue Raspberry (Deluxe)",
-        "url": "https://open.spotify.com/album/0fVXraFe5B7rZLnGjTVZWy"
-      },
-      "artists": [
-        {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
-        }
-      ],
-      "duration_ms": 185945,
-      "name": "Naperville",
-      "url": "https://open.spotify.com/track/1E8qpjOGRufOeZqJGSAKMQ"
-    },
-    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Honeycrash",
@@ -939,22 +1003,6 @@
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
-        "name": "Madeline",
-        "url": "https://open.spotify.com/album/0GSV4bhUShntYdtI7AflFU"
-      },
-      "artists": [
-        {
-          "name": "Georgia Gets By",
-          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
-        }
-      ],
-      "duration_ms": 223071,
-      "name": "Madeline",
-      "url": "https://open.spotify.com/track/6yLHf0uepl3TKVmOWYR4h9"
-    },
-    {
-      "added_at": "2024-06-28 04:00:00",
-      "album": {
         "name": "Affinity",
         "url": "https://open.spotify.com/album/2WD7ociXjnjpwYSLQgee2A"
       },
@@ -1047,22 +1095,6 @@
       "duration_ms": 166041,
       "name": "I'm Tired of This Place but There's Nowhere Left to Go",
       "url": "https://open.spotify.com/track/6O4M7m4IJm2dl3M4iKqxaR"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "circles",
-        "url": "https://open.spotify.com/album/76GON9LRMBf8TbNBMjVy0z"
-      },
-      "artists": [
-        {
-          "name": "anvii",
-          "url": "https://open.spotify.com/artist/1YgLJNdUly3ovPX5AV1REZ"
-        }
-      ],
-      "duration_ms": 237241,
-      "name": "circles",
-      "url": "https://open.spotify.com/track/6EgsTFt06FEbGG631Wu6VB"
     },
     {
       "added_at": "2024-06-14 04:00:00",
@@ -1353,22 +1385,6 @@
       "url": "https://open.spotify.com/track/2FsPY6AAXMDqU9EsN8Gs0t"
     },
     {
-      "added_at": "2024-05-03 18:52:29",
-      "album": {
-        "name": "Conversation Starter",
-        "url": "https://open.spotify.com/album/0RAUOFUaAMhzRgtMcoUGEC"
-      },
-      "artists": [
-        {
-          "name": "Odie Leigh",
-          "url": "https://open.spotify.com/artist/7AgbNZPRrvTpWjVbbPoUmU"
-        }
-      ],
-      "duration_ms": 169939,
-      "name": "Conversation Starter",
-      "url": "https://open.spotify.com/track/17KBwzyuzwyGbPath94zzX"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Popped Heart",
@@ -1495,26 +1511,6 @@
       "duration_ms": 292000,
       "name": "Baggage",
       "url": "https://open.spotify.com/track/6sENeBQkymXyZDmwSXUVFS"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "it's ok 2 lie 2 me",
-        "url": "https://open.spotify.com/album/6hnFX2RgeQWxofinGAFEnO"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        },
-        {
-          "name": "Nyxy Nyx",
-          "url": "https://open.spotify.com/artist/2GOjeRp6LwND6l2w5Ou1JG"
-        }
-      ],
-      "duration_ms": 208109,
-      "name": "it's ok 2 lie 2 me",
-      "url": "https://open.spotify.com/track/1Q8uOB3a7AzKGgb2Q3BbAB"
     },
     {
       "added_at": "2024-03-15 04:00:00",

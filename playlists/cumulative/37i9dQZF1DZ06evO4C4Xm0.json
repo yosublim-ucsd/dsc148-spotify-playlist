@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "This is Brian Eno. The essential tracks, all in one playlist.",
+  "description": "This is Brian Eno. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is Brian Eno",
   "tracks": [
     {
@@ -2360,7 +2360,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-10",
+      "date_removed": null,
       "duration_ms": 108840,
       "name": "Small Craft on a Milk Sea",
       "url": "https://open.spotify.com/track/09nETPAU44dKMW14v2Ikzi"
@@ -3028,7 +3028,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 166440,
       "name": "Top Boy Theme",
       "url": "https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa"

@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Brando
 
-1,151 songs - 2 day 13 hr 41 min
+1,152 songs - 2 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1079,6 +1079,7 @@
 | [Vulnerability](https://open.spotify.com/track/3yznQfWr6iE6mNgQ4HJCkt) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Vulnerability](https://open.spotify.com/album/5iLIMtmPbmcPDVqUcdbv0m) | 3:45 | 2022-09-29 | 2022-12-09 |
 | [Vulnerable](https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Vulnerable](https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr) | 3:19 | 2023-03-09 | 2023-03-31 |
 | [Vulnerable](https://open.spotify.com/track/2j0onIleyJfU4qNy5BmNy6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 3:19 | 2023-03-30 | 2023-06-28 |
+| [Vuthelani](https://open.spotify.com/track/6KkFJQ5SgUAzDbNLXEta8i) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Benchek](https://open.spotify.com/artist/4Vz3qdRA5YT0oCrYDG0SmI), [Bukeka](https://open.spotify.com/artist/3pHdLWNBGYLGZLMB8cuFOV) | [Vuthelani](https://open.spotify.com/album/7aAxJfmOvuOCSCDzh7e3BH) | 4:07 | 2024-09-06 |  |
 | [Wait For Me \(feat\. Goody Grace & Ant Clemons\)](https://open.spotify.com/track/5yTxd9MTDw2kuvc2U3aqN7) | [Takis](https://open.spotify.com/artist/2UP3E5PuFYs6mRpeuXJUq4), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30), [Ant Clemons](https://open.spotify.com/artist/028lPW2NdWHdSPCkRkcyhd) | [Season 1: Welcome Home](https://open.spotify.com/album/0oNEklwYgT45OsnLIsKM1I) | 2:40 | 2022-06-09 | 2023-03-31 |
 | [Wait For The Weekend](https://open.spotify.com/track/4S7AzX8uR3p3LtiCOfiZW5) | [Autograf](https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20) | [Wait For The Weekend](https://open.spotify.com/album/7eYa7kpITnF8HozsDrRv7I) | 2:38 | 2024-03-28 |  |
 | [Wait No More](https://open.spotify.com/track/0ibtwb15E873ttruqHpRx7) | [Matt Guy](https://open.spotify.com/artist/09eFtzPTf7Rbkb1z7n7S5B) | [Wait No More](https://open.spotify.com/album/65PlfajZvErTQAxoHVSrAq) | 3:32 | 2024-01-12 | 2024-01-19 |

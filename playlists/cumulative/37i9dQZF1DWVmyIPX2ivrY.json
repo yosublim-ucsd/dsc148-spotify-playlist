@@ -529,6 +529,28 @@
     },
     {
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/5e6JUumt6nbvzPrpZxb8vP"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 52186,
+      "name": "Kinderszenen, Op. 15: IV. Bittendes Kind",
+      "url": "https://open.spotify.com/track/3MV9u27GAg3GZAvpeeBYGx"
+    },
+    {
+      "album": {
         "name": "Schumann: Kinderszenen, Op. 15: Tr\u00e4umerei (Arr. Lewin for Guitar)",
         "url": "https://open.spotify.com/album/3dtyRuctasvglDB28bijNg"
       },
@@ -1180,6 +1202,32 @@
       "duration_ms": 132666,
       "name": "Waltz No. 19 in A minor, Op. posth.",
       "url": "https://open.spotify.com/track/71MpmxCJ1TW05c7Fvv1SfI"
+    },
+    {
+      "album": {
+        "name": "Franck and Strauss: Violin Sonatas",
+        "url": "https://open.spotify.com/album/2TKEPLdYNZZ3nwzRwTVbbp"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "James Ehnes",
+          "url": "https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8"
+        },
+        {
+          "name": "Andrew Armstrong",
+          "url": "https://open.spotify.com/artist/11IpUdUFMdu2Ne6At8LmKm"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262880,
+      "name": "Wiegenlied, AV 41",
+      "url": "https://open.spotify.com/track/3yHuTG74ULlUmLcl8JSlFU"
     },
     {
       "album": {

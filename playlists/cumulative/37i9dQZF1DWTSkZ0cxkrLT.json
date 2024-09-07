@@ -1117,6 +1117,28 @@
     },
     {
       "album": {
+        "name": "Flaca",
+        "url": "https://open.spotify.com/album/69ooyiugiCWS2jheDxBfYs"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        },
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226858,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/45t73UFILXwTbO7fvEIAUw"
+    },
+    {
+      "album": {
         "name": "Dios Los Cr\u00eda",
         "url": "https://open.spotify.com/album/1K9AuVjYM9zMHR3wrLJuRK"
       },
@@ -1516,6 +1538,28 @@
       "duration_ms": 260523,
       "name": "La Luna de Neuqu\u00e9n",
       "url": "https://open.spotify.com/track/6ZznUaja8PfIbU7UPUJrj4"
+    },
+    {
+      "album": {
+        "name": "La Noche",
+        "url": "https://open.spotify.com/album/59vWJcg7aOsdUgc4ERhNxn"
+      },
+      "artists": [
+        {
+          "name": "Fernando Milagros",
+          "url": "https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN"
+        },
+        {
+          "name": "Lisandro Aristimu\u00f1o",
+          "url": "https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237078,
+      "name": "La Noche",
+      "url": "https://open.spotify.com/track/1zL89efsx8wRCIja5CB9tr"
     },
     {
       "album": {
@@ -2342,7 +2386,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 202132,
       "name": "P\u00e9talo de sal",
       "url": "https://open.spotify.com/track/4v60Go3RguqbsNxZbag2mK"
@@ -3152,7 +3196,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 198000,
       "name": "ya no hay dudas - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/1uJiKlVBweWo8Kd77eiRRH"

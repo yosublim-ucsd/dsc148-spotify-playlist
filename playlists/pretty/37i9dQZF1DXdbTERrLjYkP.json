@@ -1,13 +1,77 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Talia Rae",
-  "num_followers": 97803,
+  "description": "Discover the next wave of talent writing their own songs. Cover: SOFIA ISELLA",
+  "num_followers": 97824,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAACa4RET8LtZ1VTlx8ePv+IZ",
+  "snapshot_id": "Ztp+QAAAAAB435PdLL8XWjQz6vHuV+U5",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I Can Be Your Mother",
+        "url": "https://open.spotify.com/album/0BRlexMfgtY7v5ggJP6F4C"
+      },
+      "artists": [
+        {
+          "name": "SOFIA ISELLA",
+          "url": "https://open.spotify.com/artist/40Aif8AfzbNGA2s52ESEE2"
+        }
+      ],
+      "duration_ms": 278388,
+      "name": "I Can Be Your Mother",
+      "url": "https://open.spotify.com/track/4Ugn4h2XTJuRmJ92SLw4GP"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "maybe i already am",
+        "url": "https://open.spotify.com/album/3Pf6dUwqtNfPsFOn3Ua5bz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Suaste",
+          "url": "https://open.spotify.com/artist/20soF34gXIwDGHOk90gla0"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "charlie",
+      "url": "https://open.spotify.com/track/1vrNgkZq9ot6Wf5KChXUBO"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Think I Wanna See You Again",
+        "url": "https://open.spotify.com/album/1KljxjTkgDYuPxqZejmnay"
+      },
+      "artists": [
+        {
+          "name": "Grace Enger",
+          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
+        }
+      ],
+      "duration_ms": 148541,
+      "name": "Think I Wanna See You Again",
+      "url": "https://open.spotify.com/track/72uh3fbNvqqdOu6UDcsbkO"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Crossing More Than City Lines",
+        "url": "https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "duration_ms": 199336,
+      "name": "London Too",
+      "url": "https://open.spotify.com/track/5VEEDisGMhuae3Ck8vpYHX"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -23,6 +87,22 @@
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Molly, I\u2019m Coming Around",
+        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Molly, I'm Coming Around",
+      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -267,22 +347,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "A Tree Falls",
-        "url": "https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 193187,
-      "name": "A Tree Falls",
-      "url": "https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "VCR Home Video",
         "url": "https://open.spotify.com/album/7qBk7vFJkG2K73yGruM5Ow"
       },
@@ -407,22 +471,6 @@
       "duration_ms": 237421,
       "name": "look what you did",
       "url": "https://open.spotify.com/track/1lqC1iUuA9xROuLPdR87Mt"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "It's No Fun",
-        "url": "https://open.spotify.com/album/6qDA7zAfwhlinzTUzuxaK5"
-      },
-      "artists": [
-        {
-          "name": "Grace Enger",
-          "url": "https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf"
-        }
-      ],
-      "duration_ms": 163747,
-      "name": "It's No Fun",
-      "url": "https://open.spotify.com/track/5AwztQuXdndXJPNNwrF00X"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -879,22 +927,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "I Just Killed a Spider",
-        "url": "https://open.spotify.com/album/6lAXiMRbz2Qqa2gRax6y39"
-      },
-      "artists": [
-        {
-          "name": "Cordelia",
-          "url": "https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4"
-        }
-      ],
-      "duration_ms": 149101,
-      "name": "I Just Killed a Spider",
-      "url": "https://open.spotify.com/track/2v08UMPVyUwg5NmCNEQpMY"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Penthouse",
         "url": "https://open.spotify.com/album/5XjFDl6uxHa69kd2fW40hr"
       },
@@ -907,22 +939,6 @@
       "duration_ms": 218800,
       "name": "Penthouse",
       "url": "https://open.spotify.com/track/1LtNEYgneVIjcl9Kcu231Q"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/4dwTJ4XFbs63wrqKBnoaJB"
-      },
-      "artists": [
-        {
-          "name": "Rowan Drake",
-          "url": "https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC"
-        }
-      ],
-      "duration_ms": 190771,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/6j2HmPazSCDegWfHiodg3a"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1003,22 +1019,6 @@
       "duration_ms": 160487,
       "name": "Sorry to Little Me",
       "url": "https://open.spotify.com/track/19NJ2T6wxC1QYzil3NEPeo"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Lost In My Mind",
-        "url": "https://open.spotify.com/album/37a8Z4kDhORiqjw2sPor5U"
-      },
-      "artists": [
-        {
-          "name": "Rachel Levin",
-          "url": "https://open.spotify.com/artist/28T94RgMwxfQtJGhueHmrH"
-        }
-      ],
-      "duration_ms": 152362,
-      "name": "Lost In My Mind",
-      "url": "https://open.spotify.com/track/7xMdKBU5idnAWxH9A5RC2h"
     },
     {
       "added_at": "2024-08-30 04:00:00",

@@ -4,7 +4,7 @@
 
 > สุดในรุ่น! กับศิลปิน RADAR 2024 มารู้จักพวกเขาให้มากขึ้นที่นี่เลย! ปก: BUS
 
-197 songs - 12 hr 23 min
+198 songs - 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [กลัวฝน \- End.](https://open.spotify.com/track/3xga8upmhb7WQf8F2f24Sh) | [YourMOOD](https://open.spotify.com/artist/5YcdFv3OumeTW8cVW788gT) | [กลัวฝน \(End.\)](https://open.spotify.com/album/3rjpdGJzEw5yfsUIy7qxmM) | 3:31 | 2022-09-15 | 2024-03-29 |
 | [กลัวฝันดี](https://open.spotify.com/track/6dJ87ZODacjSBUkayDNZgg) | [SLAPKISS](https://open.spotify.com/artist/6GBIcdZ5aBhhsd7Y6c3O3g) | [กลัวฝันดี](https://open.spotify.com/album/24fT89spi1h2icDiEne5UO) | 3:49 | 2023-07-07 | 2024-02-19 |
 | [กลางใจไกลจัง](https://open.spotify.com/track/5PKwTBCeHagBke9WP4F6X9) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3) | [กลางใจไกลจัง](https://open.spotify.com/album/7j4BfqLpnYhARG7K4JVPNW) | 3:23 | 2024-03-28 |  |
+| [กลิ่นไอฝน](https://open.spotify.com/track/5zww7lAbXlB9BDS7EY7jhB) | [Miteennn](https://open.spotify.com/artist/17BqlKtHAQ6D6CnRKmpyG3), [ZENTYARB](https://open.spotify.com/artist/4Wv4SEO2ZQAOBl4yJcjdxi) | [กลิ่นไอฝน](https://open.spotify.com/album/0y3fI7uqVbqc7EkWBpTsxS) | 4:06 | 2024-09-06 |  |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/266THkHmSpdcVHJTE6KJJ3) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/6PViTFyMkQgDAor1aGpiZu) | 3:41 | 2022-10-12 | 2024-03-29 |
 | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/track/5AukYCDfrtIPvlqG6ZsFR9) | [Anatomy Rabbit](https://open.spotify.com/artist/73M9RjjrrKjXnf6Is6hNdg) | [กาลครั้งหนึ่งนานมาแล้ว](https://open.spotify.com/album/3iaCbQ38BeeaqKFLrGXeuE) | 3:41 | 2022-09-15 | 2022-10-14 |
 | [ก็ดีอยู่แล้ว](https://open.spotify.com/track/1Zi6GCB54TY6ZZnmpnVzte) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [ก็ดีอยู่แล้ว](https://open.spotify.com/album/0goxQZJSyQWmsD46XCX2sy) | 4:11 | 2023-06-22 | 2023-08-26 |
@@ -84,7 +85,7 @@
 | [คนข้าง ๆ](https://open.spotify.com/track/74bHsRVcV8VWPb8iYP8XNe) | [GUYGEEGEE](https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj), [SPRITE](https://open.spotify.com/artist/0sfCNfNJnqVgcPHcO9htcy) | [คนข้าง ๆ](https://open.spotify.com/album/4fYWhMamVJtKj6zg5NLS9A) | 2:55 | 2023-03-20 | 2023-04-14 |
 | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/track/1sJXbMJRe7kK9ysf7w29T9) | [sarah salola](https://open.spotify.com/artist/70ircOPIxsddNpd8Vgq23E) | [คนที่รู้สึกไปแล้ว](https://open.spotify.com/album/1cLKpaFcJGgmDSfgXmnyOu) | 3:35 | 2024-03-28 | 2024-04-06 |
 | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/track/21KoXyILr1IdLA0tak64Uw) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [คนหรือไมโครเวฟ \(microwave\)](https://open.spotify.com/album/1xQzfgbjfqnnZ2xWss9NvZ) | 3:27 | 2022-09-15 | 2024-03-29 |
-| [คนใกล้ที่คิดไกล \(Far Too Close\)](https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [คนใกล้ที่คิดไกล \(Far Too Close\) \- Single](https://open.spotify.com/album/4KfMHVdYnhm5rAeLjaO1Oj) | 3:33 | 2024-03-28 |  |
+| [คนใกล้ที่คิดไกล \(Far Too Close\)](https://open.spotify.com/track/7cPbDYvleayRU4zcGp82mT) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [คนใกล้ที่คิดไกล \(Far Too Close\) \- Single](https://open.spotify.com/album/4KfMHVdYnhm5rAeLjaO1Oj) | 3:33 | 2024-03-28 | 2024-09-07 |
 | [คนไกล](https://open.spotify.com/track/63VOJDNJ3a5dve74kzWVcF) | [Patrickananda](https://open.spotify.com/artist/4gjXKx2a7GaIYwSDCBveJx) | [คนไกล](https://open.spotify.com/album/1Xe1DZBK5eVnfAhtK4RBbO) | 3:32 | 2022-09-15 | 2024-03-29 |
 | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/track/52hkekPSYxc3O3GYbviwsN) | [AYLA's](https://open.spotify.com/artist/2XiaPu2j4nBMhF8pIlt6Bk) | [ความน่าจะเป็นเท่ากับสูญ \(0%\)](https://open.spotify.com/album/2vB5FWxZARoIV2eNOiIggD) | 4:06 | 2023-04-13 | 2023-05-13 |
 | [คิดถึง](https://open.spotify.com/track/3RbIohUryKaJXeLrfrBhE3) | [QLER](https://open.spotify.com/artist/1P3bwZsaq5vobeBAmrsAFk) | [คิดถึง](https://open.spotify.com/album/2RSg1hfBnFxLUzj08vsvlg) | 4:00 | 2022-09-15 | 2023-04-14 |

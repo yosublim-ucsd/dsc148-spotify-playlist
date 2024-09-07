@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,114 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,133 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 4 | [Follow Me \- Club Mix](https://open.spotify.com/track/547iG5F16pTdim4XlMlGEU) | [Aly\-Us](https://open.spotify.com/artist/4MnBfIdylI5EASiTCsNA7r) | [Follow Me](https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O) | 6:24 |
 | 5 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 6 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
-| 7 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
-| 8 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
-| 9 | [So Deep, So Good \- Ndako Gboya Mix](https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax) | [M & M](https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7) | [So Deep, So Good](https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG) | 7:36 |
+| 7 | [So Deep, So Good \- Ndako Gboya Mix](https://open.spotify.com/track/5gfCRpLTpke9OLVTpWgbax) | [M & M](https://open.spotify.com/artist/2daw3QtgXj8ObljHjSr5s7) | [So Deep, So Good](https://open.spotify.com/album/2xonk5dLrJacZPzlNlAmHG) | 7:36 |
+| 8 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
+| 9 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
 | 10 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |
 | 11 | [Break Night \- The Mardi Gras Mix](https://open.spotify.com/track/18BSfCDcxdUMJ6Q0e78Ra1) | [The Mole People](https://open.spotify.com/artist/0Q2uG3App7RQkfBSt7f2lt) | [Break Night](https://open.spotify.com/album/6aMCKm4Nm9iBCc6TspYBva) | 13:00 |
 | 12 | [Equinox \- Henrik Schwarz Remix](https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl) | [Code 718](https://open.spotify.com/artist/4kSrRAfjG8flVU9ITYpVkW), [Henrik Schwarz](https://open.spotify.com/artist/1ooAqaFu4Ac3BO2HpL4V2R) | [Equinox](https://open.spotify.com/album/33ohUpcVhPSPoxlUUCE2Jb) | 6:08 |

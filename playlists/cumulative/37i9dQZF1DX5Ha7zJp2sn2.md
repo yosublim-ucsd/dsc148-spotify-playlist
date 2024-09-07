@@ -2,9 +2,9 @@
 
 ### [Folk Itinerante](https://open.spotify.com/playlist/37i9dQZF1DX5Ha7zJp2sn2)
 
-> El sonido de la nueva canción latinoamericana\. Foto: Jaison Neutra
+> El sonido de la nueva canción latinoamericana\. Foto: San Pedro Bonfim
 
-94 songs - 5 hr 29 min
+95 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Avisarás](https://open.spotify.com/track/2J6HbyxY6CENgWplG3LfrJ) | [Lucio Feuillet](https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Avisarás](https://open.spotify.com/album/5cswaSE9pnLtoUbKJ4SXLj) | 4:17 | 2023-11-17 |  |
 | [Añoranza Del Amor](https://open.spotify.com/track/1auJ2tnUfJ0ML5Kv5vWMeC) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Añoranza Del Amor](https://open.spotify.com/album/16XbyQNgGpgeIL36kLTbR4) | 2:58 | 2023-09-29 |  |
 | [Bolero de Despedida](https://open.spotify.com/track/6RSuMqxJqUteA7WZeXPNNI) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Bolero de Despedida](https://open.spotify.com/album/3HdDrjwA4g2YM9vjxgKGEi) | 2:20 | 2023-09-29 |  |
-| [Branco e preto](https://open.spotify.com/track/7AaNlAwODzp9NRMayuIRGF) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp) | [Branco e preto](https://open.spotify.com/album/02v2k5QyewDkJ4awHF9wWV) | 2:59 | 2023-09-29 |  |
+| [Branco e preto](https://open.spotify.com/track/7AaNlAwODzp9NRMayuIRGF) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Curandeira](https://open.spotify.com/artist/3Y84vOHb9IAJvpOhT2ixLp) | [Branco e preto](https://open.spotify.com/album/02v2k5QyewDkJ4awHF9wWV) | 2:59 | 2023-09-29 | 2024-09-07 |
 | [Brújula](https://open.spotify.com/track/3NcZFZYHwtvabsALQW5RWv) | [Laura Pérez](https://open.spotify.com/artist/6qkgKoO4G9KfVQZAUs3Q58) | [Brújula](https://open.spotify.com/album/7rIIkQ0FySrrsXpDGW7DVr) | 3:10 | 2023-09-29 | 2024-08-17 |
 | [Burofax](https://open.spotify.com/track/7JFFgKyuhhfjaKSu2z3KAG) | [Boston Rex](https://open.spotify.com/artist/5uRttLwwF3eIA0j1uw5PLM), [Mattia Medina](https://open.spotify.com/artist/1SJA1NL8JwupZw7JPgVmqR) | [Burofax](https://open.spotify.com/album/0KmsYSPBpzt0ec1yARq27M) | 3:11 | 2023-11-17 |  |
 | [Canción de Amor](https://open.spotify.com/track/3H8ZKu3GK8zonRkeSkt5hZ) | [Las Áñez](https://open.spotify.com/artist/1j2LXEgnuKC1ghy9ioDxl9) | [Paralelas](https://open.spotify.com/album/0MuNavvFDWXSngWCiWMzAH) | 3:52 | 2023-09-29 |  |
@@ -24,6 +24,7 @@
 | [Castigo](https://open.spotify.com/track/5b6Zwd1HXYQDF271fOafdY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Mar Abierto](https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE) | 4:36 | 2023-11-17 | 2024-04-19 |
 | [Como el Río](https://open.spotify.com/track/2E5hbTch0i7I2PKCJyseuc) | [Katie James](https://open.spotify.com/artist/22CvgjvwICkeXjcYWLykD3), [Victoria Sur](https://open.spotify.com/artist/4woBlhdgnf74gmnKU7dZF0) | [Como el Río](https://open.spotify.com/album/7uJK8mEmU7bbdi1AwkOmyi) | 3:23 | 2024-08-16 |  |
 | [Con la vida al centro](https://open.spotify.com/track/0TCDtpmn2uLtQzrLZikIKR) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Con la vida al centro](https://open.spotify.com/album/1OROJufh2WokWE8aMzNlDm) | 2:52 | 2024-08-16 |  |
+| [Corazón de guagua](https://open.spotify.com/track/7jmuiJQoAi1u7wlCqZg1tY) | [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Corazón de guagua](https://open.spotify.com/album/2PkDUZ3RDfvafQp9FdWffT) | 3:11 | 2024-09-06 |  |
 | [Corazón Negro](https://open.spotify.com/track/40MCJ7vMPvmENFf7yDBtmi) | [Aida Bossa](https://open.spotify.com/artist/67pueAIehGjbKbuwPQ0Lyv) | [Corazón Negro](https://open.spotify.com/album/6jSPaMf0h8xKnp4kgRQnhU) | 2:46 | 2023-09-29 | 2023-11-18 |
 | [Cuando Termina](https://open.spotify.com/track/4pClaCFk2f6sef70gUnjTf) | [Chago](https://open.spotify.com/artist/5aQK13za62lrxQASWuHMbG), [JKEscorcia](https://open.spotify.com/artist/4vofRTVBI4bh7P0HQGddgm), [Ignacio Arocena](https://open.spotify.com/artist/0TbWYLui7d7rhkKbjg94r9) | [Cuando Termina](https://open.spotify.com/album/2ENHryqtffGJE4LEl4WWVs) | 3:05 | 2023-09-29 |  |
 | [Cuchara Chueca \- Versión Acústica](https://open.spotify.com/track/5I2jYe4kKf3EVnkwBGkUgS) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Cuchara Chueca \(Versión Acústica\)](https://open.spotify.com/album/0xJhuSSREAPgkUFGnkFqFs) | 2:52 | 2023-09-29 | 2024-08-17 |

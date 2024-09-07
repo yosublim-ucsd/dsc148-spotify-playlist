@@ -1,6 +1,6 @@
 {
   "description": "Nur tote Fische schwimmen mit dem Strom. Cover: Yu",
-  "num_followers": 113498,
+  "num_followers": 113520,
   "original_name": "Gegen den Strom",
   "owner": {
     "name": "Spotify",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Stures dummes Herz",
-        "url": "https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi"
-      },
-      "artists": [
-        {
-          "name": "TR\u00c4NEN",
-          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
-        }
-      ],
-      "duration_ms": 176566,
-      "name": "Stures dummes Herz",
-      "url": "https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Rumba",
         "url": "https://open.spotify.com/album/4fSjPl611azYLbPgIfHD4f"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 236632,
       "name": "Rumba",
       "url": "https://open.spotify.com/track/53c422MkQ07JBRO2DsHYFf"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Stures dummes Herz",
+        "url": "https://open.spotify.com/album/7iTZebDTdiXQC4uluRWoxi"
+      },
+      "artists": [
+        {
+          "name": "TR\u00c4NEN",
+          "url": "https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD"
+        }
+      ],
+      "duration_ms": 176566,
+      "name": "Stures dummes Herz",
+      "url": "https://open.spotify.com/track/2Jw8Ij0rDWuUDKvkktFzrO"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Lied vom donnernden Leben",
-        "url": "https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B"
-      },
-      "artists": [
-        {
-          "name": "Betterov",
-          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
-        }
-      ],
-      "duration_ms": 166393,
-      "name": "Lied vom donnernden Leben",
-      "url": "https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Orpheum (Live)",
         "url": "https://open.spotify.com/album/70leZm9lR2a4sa7H3eP3qo"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 261000,
       "name": "Van Noten - Live",
       "url": "https://open.spotify.com/track/1BcilPuV8RJ3mtGvTUC1Xv"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Lied vom donnernden Leben",
+        "url": "https://open.spotify.com/album/65UtkkQeSJ3SK2gDnWpc8B"
+      },
+      "artists": [
+        {
+          "name": "Betterov",
+          "url": "https://open.spotify.com/artist/2LTDsDjf02umXildBzlrKZ"
+        }
+      ],
+      "duration_ms": 166393,
+      "name": "Lied vom donnernden Leben",
+      "url": "https://open.spotify.com/track/3tjMED46XQfYPDrL4gQ3mP"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Das Fest",
-        "url": "https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI"
-      },
-      "artists": [
-        {
-          "name": "Oehl",
-          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
-        }
-      ],
-      "duration_ms": 164562,
-      "name": "Das Fest",
-      "url": "https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Muttertag",
         "url": "https://open.spotify.com/album/6gNgUadu6BYTDHjuBx6GWN"
       },
@@ -831,18 +815,34 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Santorin",
-        "url": "https://open.spotify.com/album/1MTXqKBpMDmbXCsWPnT6Bm"
+        "name": "Das Fest",
+        "url": "https://open.spotify.com/album/6wsAw2KnjH439LE0oLd0YI"
       },
       "artists": [
         {
-          "name": "Roy Bianco & Die Abbrunzati Boys",
-          "url": "https://open.spotify.com/artist/3mWQ5gAWWhoPDNHyAEC5Hz"
+          "name": "Oehl",
+          "url": "https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp"
         }
       ],
-      "duration_ms": 224414,
-      "name": "Santorin",
-      "url": "https://open.spotify.com/track/0LjYNuvubOTSr6g0LW8vYG"
+      "duration_ms": 164562,
+      "name": "Das Fest",
+      "url": "https://open.spotify.com/track/15ttYbkCS4LGeBYEBKpdJe"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "K\u00f6nig Der Welt",
+        "url": "https://open.spotify.com/album/6iP34lE8L8EDx6JGgHPMB6"
+      },
+      "artists": [
+        {
+          "name": "Traumatin",
+          "url": "https://open.spotify.com/artist/7a3E1IT2qaGIq6M4cW2NtV"
+        }
+      ],
+      "duration_ms": 208825,
+      "name": "K\u00f6nig Der Welt",
+      "url": "https://open.spotify.com/track/2vwZiGY4uxvSpJoCeYVjnw"
     }
   ],
   "unique_name": "Gegen den Strom",

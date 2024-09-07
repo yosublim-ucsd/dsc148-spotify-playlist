@@ -4,7 +4,7 @@
 
 > Timeless, unforgettable melodies from the movies.
 
-166 songs - 9 hr 38 min
+167 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 | 2021-07-16 |  |
 | [Lara Says Goodbye to Yuri \(Lara's Theme\)](https://open.spotify.com/track/6Wbdw29buv54log2qKrbfC) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT) | [Doctor Zhivago \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1x0wDUT6vBoqe8GPRwB1nj) | 1:28 | 2024-08-09 |  |
 | [Lily's Theme](https://open.spotify.com/track/3Ra4rkq1ExwPXwrPQeHBWg) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Harry Potter and the Deathly Hallows, Pt\. 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1tkE7mAFHRLwrySs5mQzeN) | 2:28 | 2022-07-19 |  |
-| [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \(The Complete Score\)](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 | 2021-07-16 |  |
+| [Logos / The Matrix Main Title](https://open.spotify.com/track/1FwhTB4R0lOWII5tc6cl9P) | [Don Davis](https://open.spotify.com/artist/3eCpCUtYdBCM1twAb4mk8I) | [The Matrix \- The Complete Score](https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb) | 0:53 | 2021-07-16 |  |
 | [Love Theme \- From "Romeo and Juliet"](https://open.spotify.com/track/1CDczwnTf6RJ076lukYNpP) | [Maurice Jarre](https://open.spotify.com/artist/6iyQYs37mRXLW04Z9NOnNT), [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Royal Philharmonic Orchestra;Tolga Kashif](https://open.spotify.com/artist/1gf0HHWM6iOcJNgTlNXEz7) | [Greatest Film Classics](https://open.spotify.com/album/3rhfzgrQQWg1XPAlMDfvq1) | 3:06 | 2021-07-16 |  |
 | [Lux Aeterna](https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Requiem for a Dream / OST](https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W) | 3:54 | 2023-03-14 |  |
 | [Main Theme \- From “Around the World in 80 Days”](https://open.spotify.com/track/66oe1ned7Q32P7CqpyUqGA) | [The City of Prague Philharmonic Orchestra](https://open.spotify.com/artist/2oQJQUIpJFFnfKvHJA0xBu) | [100 Greatest Film Themes](https://open.spotify.com/album/68gPP55PhaQtueM4CRtkpY) | 3:24 | 2024-08-16 |  |
@@ -89,6 +89,7 @@
 | [Main Title / Apollo 13 / James Horner \- From "Apollo 13" Soundtrack](https://open.spotify.com/track/2w3cVCQbsUgwuXXno4O3fv) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [Apollo 13 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/43sLEeZVRDCTtghz19tRi1) | 2:29 | 2024-08-09 |  |
 | [Main Title And First Victim](https://open.spotify.com/track/1g10rYqM3jJQsWRnXCFcx7) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Jaws \(The Collector's Edition Soundtrack\)](https://open.spotify.com/album/6qUytVWmtw4xh2tjCv39GE) | 3:26 | 2024-08-09 |  |
 | [Main Titles](https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Blade Runner \(Music From The Original Soundtrack\)](https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW) | 3:42 | 2024-08-09 |  |
+| [Main Titles \- From "Beetlejuice" Soundtrack](https://open.spotify.com/track/64ByydKWf67CJfIoPc8uLJ) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9) | 2:28 | 2024-09-06 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/17oLsEzzlGFlrBKViCzmGc) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [1996](https://open.spotify.com/album/6NUYObCeRmbNTQjBlLQxXb) | 4:46 | 2021-07-16 |  |
 | [Merry Christmas Mr\. Lawrence](https://open.spotify.com/track/5VuwAhMCz9EMg3RHL1KUEr) | [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA), [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Everton Nelson](https://open.spotify.com/artist/3uirG8XMhBhvbdb9adqYMf) | [1996](https://open.spotify.com/album/39iOsfOrW1UpE3dbdFPl0F) | 4:46 | 2022-07-20 | 2024-04-19 |
 | [Merry Christmas Mr\. Lawrence \- Ryuichi Sakamoto](https://open.spotify.com/track/0yjzNp15L3zkiihocemz35) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Wallpaper Mach 1.5\-Limitless Luxury](https://open.spotify.com/album/3ASxXAfRqgPYhFJm3Bzx7K) | 4:45 | 2022-07-20 | 2022-11-14 |

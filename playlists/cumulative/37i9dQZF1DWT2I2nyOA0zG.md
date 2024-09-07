@@ -4,7 +4,7 @@
 
 > Cool vibes from the African continent.
 
-330 songs - 18 hr 55 min
+331 songs - 18 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 | 2022-10-14 |
 | [Gimme Love](https://open.spotify.com/track/09fsj6ZZGs6mSeeuWFM788) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Soul Tropical](https://open.spotify.com/album/0G8qxLCQc0ZVAR1RKOYhDm) | 3:52 | 2023-03-03 | 2023-03-18 |
 | [Gimme Love](https://open.spotify.com/track/7JWHJ6QRppXwwVpKs2iTYD) | [David Walters](https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7), [K.O.G](https://open.spotify.com/artist/6n5BdjorrfFAe3OVqHHfUi) | [Gimme Love](https://open.spotify.com/album/1cylbIhsALcS2cPOzCDvSb) | 3:52 | 2023-01-19 | 2023-03-06 |
-| [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 |  |
+| [Give Me Love](https://open.spotify.com/track/63GLHZWNbGyg0e4n07aIqA) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [TOP BOY](https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq) | 3:46 | 2023-02-16 | 2024-09-07 |
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0D9Bnm77CkYlzpZijEKFuy) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:51 | 2022-07-07 | 2022-12-02 |
 | [Glory \(feat\. Ladysmith Black Mambazo\)](https://open.spotify.com/track/0z8uQ7o34HDoRU02Cz26d1) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:51 | 2022-07-07 | 2022-07-29 |
 | [Good Friends](https://open.spotify.com/track/2VWHk5P5qr9Yk9u81FzgRY) | [Jus](https://open.spotify.com/artist/2WKwwGJ7L0RN5xNV3ljhkq), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Steve Gatitu](https://open.spotify.com/artist/7phrFWqQM63ViskGKrBuJY) | [Good Friends](https://open.spotify.com/album/3hBry3ZRsfpL3v8eQ7KYPx) | 3:45 | 2022-03-31 | 2022-06-10 |
@@ -166,6 +166,7 @@
 | [Let Me Be Great \[Feat\. Angélique Kidjo\]](https://open.spotify.com/track/7sXjwoCydLIZlJ1WpIyh9J) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [As Above, So Below](https://open.spotify.com/album/3QBYDADSp9ca7yNWL4hGzu) | 3:54 | 2022-09-09 | 2023-02-17 |
 | [Let Me Go \(Acoustic\)](https://open.spotify.com/track/64EdpHc7nTMEYbA3Woarpq) | [Fena Gitu](https://open.spotify.com/artist/5uWJrA5m2FRzq2FnZAmL1W) | [Let Me Go \(Acoustic\)](https://open.spotify.com/album/2OMdg93floiPduHW9SkCIZ) | 3:06 | 2024-01-25 | 2024-05-10 |
 | [Let Them Know](https://open.spotify.com/track/6FLxB7ot3KZwjr0Zew8L7p) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Let Them Know](https://open.spotify.com/album/5FCaxpcmBFkumiu6MpkD73) | 3:24 | 2023-04-20 | 2023-07-29 |
+| [Lets Dance](https://open.spotify.com/track/2Z2p1Znqos094TNvjHQqIS) | [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo), [OSKIDO](https://open.spotify.com/artist/6PL23hz7B60eFrQ9pxVO9R), [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw), [X\-wise](https://open.spotify.com/artist/7LJ9Zi6YhJc6hn1YdRvEyn) | [Lets Dance](https://open.spotify.com/album/7z0AkhtKqqU9W1GxCdGa8U) | 3:05 | 2024-09-06 |  |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2021-10-11 | 2024-02-16 |
 | [Logba Logba](https://open.spotify.com/track/0UYyNBBFrseB1Nb690QKHM) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/6Q6g0MpdxlSxmMVoJyjnRo) | 3:02 | 2023-12-22 | 2024-01-26 |
 | [Logba Logba](https://open.spotify.com/track/2FOtCZz3B6OM4BogE6mavN) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [TBH \(To Be Honest\)](https://open.spotify.com/album/3ok45X5OZt6s9PkZljnT5r) | 3:02 | 2022-06-03 | 2024-01-24 |

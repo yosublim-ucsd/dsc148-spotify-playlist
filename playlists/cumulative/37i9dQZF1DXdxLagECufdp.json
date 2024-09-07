@@ -259,6 +259,24 @@
     },
     {
       "album": {
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482721,
+      "name": "Baltipsy",
+      "url": "https://open.spotify.com/track/45l4BUBoBoBurB6QFq3xtl"
+    },
+    {
+      "album": {
         "name": "Shuffle Mode",
         "url": "https://open.spotify.com/album/31jElAvFoFj8suV5NQJkE7"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2021-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218546,
       "name": "Pa' Bailar (Siempre Quiero Mas)",
       "url": "https://open.spotify.com/track/701VW4sjPM6NNyvgQiAUDX"

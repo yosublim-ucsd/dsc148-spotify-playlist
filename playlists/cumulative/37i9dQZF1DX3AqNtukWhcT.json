@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 243350,
       "name": "Amplector",
       "url": "https://open.spotify.com/track/3rL6i7GokWtuOwZQ3bWcV9"
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 143390,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/1JC25MxOFnF1YyV4TpLr6q"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168005,
       "name": "Emersion",
       "url": "https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK"
@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 148041,
       "name": "Nagnallar",
       "url": "https://open.spotify.com/track/0KvcCmSBIRFBfpvG8qXDtE"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 197333,
       "name": "Rising Ochre",
       "url": "https://open.spotify.com/track/4saKM7jBELMIlLqMfIwPDN"
@@ -2552,6 +2552,24 @@
       "duration_ms": 173847,
       "name": "Savitri",
       "url": "https://open.spotify.com/track/5vjexs7Iu9LZksyyLAQ1JF"
+    },
+    {
+      "album": {
+        "name": "Searching for Peace",
+        "url": "https://open.spotify.com/album/65ydsi47kJYpMJn6DrRVtp"
+      },
+      "artists": [
+        {
+          "name": "Mohimbra",
+          "url": "https://open.spotify.com/artist/79wtlzo4TgrC8pTPzHhHfF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199875,
+      "name": "Searching for Peace",
+      "url": "https://open.spotify.com/track/4WLAeLXFIHruJmILpl3HCw"
     },
     {
       "album": {
@@ -3178,7 +3196,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188715,
       "name": "The Rising",
       "url": "https://open.spotify.com/track/0a8yGgIIXWDzCL0pc5WYiY"
@@ -3268,7 +3286,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154864,
       "name": "Time Therapy",
       "url": "https://open.spotify.com/track/31YOZL7hOmlmXQpC6lZbxz"

@@ -154,7 +154,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 232000,
       "name": "A",
       "url": "https://open.spotify.com/track/1kHETSWzScobcs0K5JsVc0"
@@ -1553,6 +1553,28 @@
     },
     {
       "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/6nfzwVlb6qBc4I1XeDKNH1"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        },
+        {
+          "name": "Tune Your Mind",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145500,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/5MC9eD8alc4LwxAmhrOfF9"
+    },
+    {
+      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/5iLDha92KKM95952dxPALA"
       },
@@ -2116,7 +2138,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 244919,
       "name": "Corn",
       "url": "https://open.spotify.com/track/7jH6HaPyBRL2SH1AvzVe6h"
@@ -6265,6 +6287,40 @@
     },
     {
       "album": {
+        "name": "Oblivion",
+        "url": "https://open.spotify.com/album/2VptApEOFNZMB4AsVI7FpG"
+      },
+      "artists": [
+        {
+          "name": "Claudio Monteverdi",
+          "url": "https://open.spotify.com/artist/5iAhVgz6P8Nylxijb0C65v"
+        },
+        {
+          "name": "Jakub J\u00f3zef Orli\u0144ski",
+          "url": "https://open.spotify.com/artist/5YLKYYoMNiA0VoOsSeA0Yy"
+        },
+        {
+          "name": "Aleksander Debicz",
+          "url": "https://open.spotify.com/artist/0HZYW7kTNPn8JRCmHv6fad"
+        },
+        {
+          "name": "Wojciech Gumi\u0144ski",
+          "url": "https://open.spotify.com/artist/0gswF2QqBq63YrIHeEJ7P1"
+        },
+        {
+          "name": "Marcin U\u0142anowski",
+          "url": "https://open.spotify.com/artist/0SH8Jx2gqEEnN1S361Qie7"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248026,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/6VTh0hlGRed1J2rkEA6xxf"
+    },
+    {
+      "album": {
         "name": "Ocelli",
         "url": "https://open.spotify.com/album/6CvdHAnQpejzBSLOqQWKa6"
       },
@@ -8866,7 +8922,7 @@
       ],
       "date_added": "2021-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 252000,
       "name": "The Swimmer",
       "url": "https://open.spotify.com/track/6NtpDQounqLQOrZsXo9oHt"
@@ -9044,6 +9100,24 @@
       "duration_ms": 218538,
       "name": "Think Of Home - Kelly Moran Rework",
       "url": "https://open.spotify.com/track/6H8tvKj4JkpYAiDhUaZjd6"
+    },
+    {
+      "album": {
+        "name": "Andante Piano Sessions: Ron Adelaar",
+        "url": "https://open.spotify.com/album/0mDNfViUmq4XuNkJvBIHub"
+      },
+      "artists": [
+        {
+          "name": "Ron Adelaar",
+          "url": "https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126705,
+      "name": "Thrive - Andante Piano Sessions",
+      "url": "https://open.spotify.com/track/2OIDLNlOGgYXZVkM4Pim0M"
     },
     {
       "album": {

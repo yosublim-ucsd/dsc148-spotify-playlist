@@ -2,7 +2,7 @@
 
 ### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is Black Eyed Peas\. The essential tracks, all in one playlist.
+> This Is Black Eyed Peas\. Los temas esenciales, todos en una lista.
 
 76 songs - 5 hr 6 min
 
@@ -16,7 +16,7 @@
 | [Be Nice](https://open.spotify.com/track/04vIsaXxLIaRke6MQwxTxI) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/0P4CwZG0hbF4FWdNYE5mxF) | 3:48 | 2023-07-28 | 2024-01-04 |
 | [Be Nice](https://open.spotify.com/track/3lKF2lBLLkxSrxsLHOdqCD) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Be Nice](https://open.spotify.com/album/1Wa0EtY5loqLQdUHIPJpHX) | 3:48 | 2024-02-01 |  |
 | [Bebot](https://open.spotify.com/track/4nZwaKTdxczLpUHfLVAozA) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 3:30 | 2023-07-28 |  |
-| [BIG LOVE](https://open.spotify.com/track/6eNeTj9NecqgP1VEqInpKg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:35 | 2023-07-28 |  |
+| [BIG LOVE](https://open.spotify.com/track/6eNeTj9NecqgP1VEqInpKg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:35 | 2023-07-28 | 2024-09-07 |
 | [Boom Boom Guetta \- David Guetta's Electro Hop Remix](https://open.spotify.com/track/4jpQfNAq0qrCVMsswFbES4) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [I Gotta Feeling \(International Version\)](https://open.spotify.com/album/3AZ8syx3I7qwH8yCSZXhou) | 4:01 | 2023-11-10 | 2024-02-21 |
 | [Boom Boom Pow](https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \- Deluxe Version](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:11 | 2023-07-28 |  |
 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 | 2023-07-28 |  |
@@ -28,7 +28,7 @@
 | [DOPENESS \(feat\. CL\)](https://open.spotify.com/track/1LYuXxdooUiWRNMPEPleqX) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:38 | 2024-05-11 | 2024-07-24 |
 | [DOUBLE D'Z](https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [J\. Rey Soul](https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:20 | 2023-07-28 | 2024-07-13 |
 | [Dum Diddly](https://open.spotify.com/track/5WYt8YhgFh1siHIqepXBzf) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Dante Santiago](https://open.spotify.com/artist/5NONZdQyvKmJzBev1e3JW6) | [Monkey Business](https://open.spotify.com/album/6VsJamdhvYKcnpwHAKULI0) | 4:19 | 2024-05-19 | 2024-07-13 |
-| [DURO HARD](https://open.spotify.com/track/1dqAW18r3tHyy4Ou7PjB9e) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:25 | 2023-07-28 | 2024-09-06 |
+| [DURO HARD](https://open.spotify.com/track/1dqAW18r3tHyy4Ou7PjB9e) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:25 | 2023-07-28 |  |
 | [El Teke Teke](https://open.spotify.com/track/13N3Nd6nQMe5yDgo9wzUuV) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [El Teke Teke](https://open.spotify.com/album/2E4AdaVSSNpAcyV8jb9oao) | 2:57 | 2023-07-28 |  |
 | [eXplosion](https://open.spotify.com/track/6UkSkUIBJZaAiuAbflLa9j) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [eXplosion](https://open.spotify.com/album/2oeDPXbXqgrYYXAJj9Iz3X) | 4:00 | 2023-07-28 |  |
 | [FEEL THE BEAT](https://open.spotify.com/track/0pGC7cwCOakpvCFYiawNhM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:57 | 2023-07-28 |  |

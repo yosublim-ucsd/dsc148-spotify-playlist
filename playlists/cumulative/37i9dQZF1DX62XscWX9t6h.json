@@ -1002,7 +1002,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 306453,
       "name": "Fant\u00f4me",
       "url": "https://open.spotify.com/track/0ZnswvbOB3b5i4N5so9dad"
@@ -1448,6 +1448,24 @@
       "duration_ms": 276800,
       "name": "Junchuch",
       "url": "https://open.spotify.com/track/0NURA4GHHo6vi4hGtgo62O"
+    },
+    {
+      "album": {
+        "name": "kamaapy\u00eb",
+        "url": "https://open.spotify.com/album/4rVuRc9Re8SOPuOR1rMFph"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459493,
+      "name": "kamaapy\u00eb",
+      "url": "https://open.spotify.com/track/47RY33H89Tiq36dTmyKLLT"
     },
     {
       "album": {

@@ -4649,6 +4649,40 @@
     },
     {
       "album": {
+        "name": "Quem Te Faz",
+        "url": "https://open.spotify.com/album/0E1pYaXmv9mhh7RRWi2yY1"
+      },
+      "artists": [
+        {
+          "name": "Nilo",
+          "url": "https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "G.A",
+          "url": "https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE"
+        },
+        {
+          "name": "Slaasty",
+          "url": "https://open.spotify.com/artist/5f1o3wuKLKC2X4qz3P18f1"
+        },
+        {
+          "name": "Bymd.wav",
+          "url": "https://open.spotify.com/artist/4K3iXWSuVZXIt6ij1Hw0wZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264827,
+      "name": "Quem Te Faz",
+      "url": "https://open.spotify.com/track/5tg3wMBNJ52KeTwbUOYGIY"
+    },
+    {
+      "album": {
         "name": "Relaxa",
         "url": "https://open.spotify.com/album/7mwWu9YLbSBDzR88dMib8S"
       },

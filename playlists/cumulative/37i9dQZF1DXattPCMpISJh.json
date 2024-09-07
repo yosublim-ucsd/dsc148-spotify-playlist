@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-06",
-  "description": "A new take on a classic sound. Cover: Idina Menzel",
+  "description": "A new take on a classic sound. Cover: Billy Porter",
   "name": "Nu-Disco",
   "tracks": [
     {
@@ -214,6 +214,24 @@
       "duration_ms": 217299,
       "name": "Another Day Gone",
       "url": "https://open.spotify.com/track/1JZDE8ZhpxlWYy1r09vjDe"
+    },
+    {
+      "album": {
+        "name": "Diva Of The People",
+        "url": "https://open.spotify.com/album/3YtYblPnkxihBxr4hjDjhk"
+      },
+      "artists": [
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270920,
+      "name": "Back On The Market",
+      "url": "https://open.spotify.com/track/101VG9VldAUT9IBb5HmZkK"
     },
     {
       "album": {
@@ -1385,6 +1403,28 @@
     },
     {
       "album": {
+        "name": "Don't Lose The Magic (Emmaculate Remix)",
+        "url": "https://open.spotify.com/album/1z56YMP1A1eyW8pawt1vVu"
+      },
+      "artists": [
+        {
+          "name": "Shawn Christopher",
+          "url": "https://open.spotify.com/artist/3TONYCzAeoUCwR3i1nAQwB"
+        },
+        {
+          "name": "Emmaculate",
+          "url": "https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228000,
+      "name": "Don't Lose The Magic - Emmaculate Mix",
+      "url": "https://open.spotify.com/track/5gGJsYp7tB5i2DtOj7JZVj"
+    },
+    {
+      "album": {
         "name": "Don't Mess With My Man",
         "url": "https://open.spotify.com/album/1tVpuOjXKACzHnClTC3Uqs"
       },
@@ -1400,7 +1440,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168333,
       "name": "Don't Mess With My Man - Sgt Slick Remix",
       "url": "https://open.spotify.com/track/6U4ek0i45P6tT8NMJYJM3G"
@@ -3773,6 +3813,24 @@
     },
     {
       "album": {
+        "name": "Black Mona Lisa, Vol. 2: The Cookout Sessions",
+        "url": "https://open.spotify.com/album/0ZIp0cXxUtDsc7FBWFqGSV"
+      },
+      "artists": [
+        {
+          "name": "Billy Porter",
+          "url": "https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304488,
+      "name": "Not Today",
+      "url": "https://open.spotify.com/track/1D7yD0chLEPc1Q73YV1hFt"
+    },
+    {
+      "album": {
         "name": "Nowhere To Run",
         "url": "https://open.spotify.com/album/3xUlxGYaVSszKGre0kj1Il"
       },
@@ -3900,7 +3958,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 209026,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/64Esl8jMGgdq66evUBKeJ2"

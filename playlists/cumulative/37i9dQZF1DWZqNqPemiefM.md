@@ -4,7 +4,7 @@
 
 > 上質なアンビエントとオルタナティブミュージック / The artisanal ambient and alternative sounds make you float in the air.
 
-648 songs - 2 day 2 hr 31 min
+649 songs - 2 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Corridors of Time](https://open.spotify.com/track/1kl6jzl9h38pjzALrPYvq3) | [Yasunori Mitsuda](https://open.spotify.com/artist/7cGkvEcOOYVtNdfkf3s1tK) | [CHRONO TRIGGER Original Soundtrack【DS Edition】](https://open.spotify.com/album/2kOD9QzcUkeT57RJkNvQpH) | 3:03 | 2024-02-08 | 2024-04-19 |
 | [Country Living\(flute\)](https://open.spotify.com/track/4kMLA8TNe4zjL9VPkpY9su) | [SUBLIMINAL CALM](https://open.spotify.com/artist/0uc6sbUAp570r1iYr2ckTv) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:21 | 2022-03-30 | 2022-07-02 |
 | [craftsman](https://open.spotify.com/track/0SSSXaBAxQaJV6RwXVggo0) | [Katsuhiro Chiba](https://open.spotify.com/artist/6U77Tsq69Bwi4ua36Y6NKx) | [Kicoel](https://open.spotify.com/album/1UBcGGIwDAuDmFdNBRHlT3) | 4:55 | 2022-04-07 | 2022-05-21 |
-| [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 | 2024-06-15 |  |
+| [Crystal Dub](https://open.spotify.com/track/0fTb6kDRyOe2dMK8HlexfB) | [Hiroshi Fujiwara](https://open.spotify.com/artist/4NcTvzzh5TFLTHy8MENzjt) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:32 | 2024-06-15 | 2024-09-07 |
 | [Crystallize](https://open.spotify.com/track/0BT1eNctDQczcqHOlxVIfX) | [The Rainstick Orchestra](https://open.spotify.com/artist/6p7qoUSAQxyA4R3HLFjyKK) | [The Shape Of The Cloud](https://open.spotify.com/album/0uOsWKvD5Iy0Mdq1mXXpHr) | 5:10 | 2022-03-31 | 2022-07-13 |
 | [Current](https://open.spotify.com/track/0IQgx5XfusWLwDAtKq6LRO) | [IX/ON](https://open.spotify.com/artist/2kqBhRSwJAm8F84VJwMiud) | [Wanderer](https://open.spotify.com/album/5xX8bHgRtiIeV97SNXtBCC) | 3:44 | 2022-03-31 | 2022-07-19 |
 | [Curtain Call](https://open.spotify.com/track/3CRbyVLEgfJHQsqmOmdGnv) | [kita kouhei](https://open.spotify.com/artist/3AFL0gBNnoNa2wb55tImS5), [takayama naoko](https://open.spotify.com/artist/1RtPxS3LU1mjAvSZDgnEJL) | [Knit Cap Theater "Fudarakutokaiki" Original Soundtrack](https://open.spotify.com/album/3a3WQWsj9JpQxmh3Y4rEM0) | 4:55 | 2023-01-05 | 2023-04-21 |
@@ -176,6 +176,7 @@
 | [Everything Valley](https://open.spotify.com/track/5uVkQzrRTFQ4FGWKBrj12Y) | [Buffalo Daughter](https://open.spotify.com/artist/66UBlnqgUCqDlalQXK8Nby) | [We Are the Times](https://open.spotify.com/album/2Bigb84w1W99VEpp7PxPda) | 5:57 | 2024-02-08 | 2024-04-19 |
 | [Evocations 2](https://open.spotify.com/track/6kndOSeWrt1cRNZzMgtJCF) | [尾島由郎](https://open.spotify.com/artist/5GekbhuyDcYViZ0BhZc9Iw) | [コレクシオン・デ・シェノン II](https://open.spotify.com/album/2sIk82nBIC7srhgZ6VIbZg) | 7:11 | 2022-03-30 | 2022-07-17 |
 | [f.o.o.3.](https://open.spotify.com/track/46wUZnVDkGtqPUJoFkHKDw) | [Team TENbient](https://open.spotify.com/artist/4jBPIW39WXjI8qA13u0lAt) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 9:00 | 2022-03-31 | 2022-04-20 |
+| [Faded Corners \- aus Reprise](https://open.spotify.com/track/3oIMgGY3hWqZl6I2DlhoLW) | [Cuushe](https://open.spotify.com/artist/5mzIOU6Wu4mBabXE3OqhR5), [aus](https://open.spotify.com/artist/2JHQIdLnjfyobZpDbVGdKV) | [Faded Corners \(aus Reprise\)](https://open.spotify.com/album/1zfCHf4nYBk1ILESV5jqVk) | 5:04 | 2024-09-06 |  |
 | [Fanfare](https://open.spotify.com/track/6zEkQ585AkgQP6F9nIuAio) | [Woo](https://open.spotify.com/artist/5KqOWuKJPySBjp3mGVBWFR) | [Awaawaa](https://open.spotify.com/album/0AC2qGNY9HR5BlC61Yikqq) | 0:45 | 2022-04-28 | 2022-06-19 |
 | [Faraway](https://open.spotify.com/track/5XyL1qKqfFWX27nA4YwkRI) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [Faraway](https://open.spotify.com/album/40BOmaowFYSnkc3WlecoHD) | 2:30 | 2022-03-31 | 2022-07-27 |
 | [FEET](https://open.spotify.com/track/2XBXn7yluQZ6bFReesUjrt) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 6:13 | 2022-04-07 | 2024-02-09 |

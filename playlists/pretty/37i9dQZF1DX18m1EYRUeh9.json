@@ -1,29 +1,13 @@
 {
   "description": "Smooth indie jazz joints from around the globe. Cover: Thee Marloes",
-  "num_followers": 75641,
+  "num_followers": 75795,
   "original_name": "Rarities",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zs36/wAAAAD9XkQXrmZDpe8EOeOPhPxf",
+  "snapshot_id": "ZttI/wAAAACDAj+ohpi2xYN4jXfL3JuA",
   "tracks": [
-    {
-      "added_at": "2024-08-16 15:18:34",
-      "album": {
-        "name": "As Above So Below",
-        "url": "https://open.spotify.com/album/1YABglrz86yYnpHCoRZlfG"
-      },
-      "artists": [
-        {
-          "name": "Fievel Is Glauque",
-          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
-        }
-      ],
-      "duration_ms": 226340,
-      "name": "As Above So Below",
-      "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
-    },
     {
       "added_at": "2024-07-26 04:00:00",
       "album": {
@@ -43,6 +27,22 @@
     {
       "added_at": "2024-08-16 15:18:34",
       "album": {
+        "name": "As Above So Below",
+        "url": "https://open.spotify.com/album/1YABglrz86yYnpHCoRZlfG"
+      },
+      "artists": [
+        {
+          "name": "Fievel Is Glauque",
+          "url": "https://open.spotify.com/artist/0aCjVhVSBUMVwo7WRrdLiJ"
+        }
+      ],
+      "duration_ms": 226340,
+      "name": "As Above So Below",
+      "url": "https://open.spotify.com/track/7eZyA1tOwt7hRQiiIF8mUC"
+    },
+    {
+      "added_at": "2024-08-16 15:18:34",
+      "album": {
         "name": "Beetlebugs",
         "url": "https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG"
       },
@@ -55,6 +55,26 @@
       "duration_ms": 222413,
       "name": "Beetlebugs",
       "url": "https://open.spotify.com/track/3nBBFysco3704yXmEhntVl"
+    },
+    {
+      "added_at": "2024-09-06 18:25:03",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/7xZ0TzVuaXXGyPDye04gCX"
+      },
+      "artists": [
+        {
+          "name": "John Roseboro",
+          "url": "https://open.spotify.com/artist/0OTbmw4nbgWHiTyqhmz72s"
+        },
+        {
+          "name": "Mei Semones",
+          "url": "https://open.spotify.com/artist/3Cp20KSVlMlFuOdqiqHFGR"
+        }
+      ],
+      "duration_ms": 238659,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/5HjZ3j73t4eieR8D5cYBdB"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -95,6 +115,22 @@
       "duration_ms": 208741,
       "name": "One Last Dance",
       "url": "https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d"
+    },
+    {
+      "added_at": "2024-09-06 18:25:03",
+      "album": {
+        "name": "Cathy",
+        "url": "https://open.spotify.com/album/5R13wrMaZvdYsLP6OHVepn"
+      },
+      "artists": [
+        {
+          "name": "MICHELLE",
+          "url": "https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp"
+        }
+      ],
+      "duration_ms": 206060,
+      "name": "Cathy",
+      "url": "https://open.spotify.com/track/37SmqFHvOOaRghaM6r4uIM"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -145,32 +181,52 @@
       "url": "https://open.spotify.com/track/5r4SYNrmYccS12HT9psaxc"
     },
     {
-      "added_at": "2024-07-26 04:00:00",
+      "added_at": "2024-09-06 18:25:03",
       "album": {
-        "name": "Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra",
-        "url": "https://open.spotify.com/album/6R5LUMUWQfeWcRGewFAxBA"
+        "name": "Endlessness",
+        "url": "https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE"
       },
       "artists": [
         {
-          "name": "Red Hot Org",
-          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
-        },
-        {
-          "name": "Laraaji",
-          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        },
-        {
-          "name": "Sun Ra",
-          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
         }
       ],
-      "duration_ms": 335186,
-      "name": "Daddy's Gonna Tell You No Lie",
-      "url": "https://open.spotify.com/track/25w1nwtRPI5ozR13AH7E5O"
+      "duration_ms": 247538,
+      "name": "Continuum 3",
+      "url": "https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr"
+    },
+    {
+      "added_at": "2024-06-19 17:02:14",
+      "album": {
+        "name": "something will happen",
+        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "something will happen",
+      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
+    },
+    {
+      "added_at": "2024-03-15 00:21:41",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
+      },
+      "artists": [
+        {
+          "name": "Galdive",
+          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
+        }
+      ],
+      "duration_ms": 233095,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -189,6 +245,22 @@
       "url": "https://open.spotify.com/track/3yNBnPv3JbGxGvTiIhndvx"
     },
     {
+      "added_at": "2024-09-06 18:25:03",
+      "album": {
+        "name": "Oh My God - That's So Me",
+        "url": "https://open.spotify.com/album/3Pumb6shTeFPOskFWHClay"
+      },
+      "artists": [
+        {
+          "name": "Okay Kaya",
+          "url": "https://open.spotify.com/artist/7d64ZVOXg02y73HB5UMqkb"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "The Wannabe",
+      "url": "https://open.spotify.com/track/2rWPq0boMTydPsl8zFqafM"
+    },
+    {
       "added_at": "2024-08-27 16:12:47",
       "album": {
         "name": "Someone Asked Me How I've Been",
@@ -203,22 +275,6 @@
       "duration_ms": 250000,
       "name": "Someone Asked Me How I've Been",
       "url": "https://open.spotify.com/track/1uNXgrIfJCIBmGim8PaeKg"
-    },
-    {
-      "added_at": "2024-06-19 17:02:14",
-      "album": {
-        "name": "something will happen",
-        "url": "https://open.spotify.com/album/68OpuwNvN1Yw8eeDHJsnhC"
-      },
-      "artists": [
-        {
-          "name": "berlioz",
-          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "something will happen",
-      "url": "https://open.spotify.com/track/0T3aN5baN9c90j11pzoDPW"
     },
     {
       "added_at": "2024-08-16 15:18:34",
@@ -245,6 +301,22 @@
       "url": "https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq"
     },
     {
+      "added_at": "2024-09-06 18:25:03",
+      "album": {
+        "name": "Friends",
+        "url": "https://open.spotify.com/album/5VJXm5gzAYC6ngBBHo9uhS"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 213258,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB"
+    },
+    {
       "added_at": "2024-07-05 16:30:02",
       "album": {
         "name": "Suddenly",
@@ -259,22 +331,6 @@
       "duration_ms": 284862,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/1lDS95xiG8ln73gdOlNjfU"
-    },
-    {
-      "added_at": "2024-03-15 00:21:41",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/3eJB8U877SaJwI4ywBBKH5"
-      },
-      "artists": [
-        {
-          "name": "Galdive",
-          "url": "https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT"
-        }
-      ],
-      "duration_ms": 233095,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/0ePc8Rih4qNgRXvhLHIgx4"
     },
     {
       "added_at": "2024-06-19 17:02:14",
@@ -339,6 +395,34 @@
       "duration_ms": 234182,
       "name": "Euphoric Avenue",
       "url": "https://open.spotify.com/track/0GQOHvIPdVWrvnII8p6OBG"
+    },
+    {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Outer Spaceways Incorporated - Kronos Quartet & Friends Meet Sun Ra",
+        "url": "https://open.spotify.com/album/6R5LUMUWQfeWcRGewFAxBA"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Org",
+          "url": "https://open.spotify.com/artist/7ydpneBAwLegNysaViOxHA"
+        },
+        {
+          "name": "Laraaji",
+          "url": "https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        },
+        {
+          "name": "Sun Ra",
+          "url": "https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX"
+        }
+      ],
+      "duration_ms": 335186,
+      "name": "Daddy's Gonna Tell You No Lie",
+      "url": "https://open.spotify.com/track/25w1nwtRPI5ozR13AH7E5O"
     },
     {
       "added_at": "2024-01-12 00:22:54",
@@ -939,22 +1023,6 @@
       "duration_ms": 221409,
       "name": "Patience",
       "url": "https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih"
-    },
-    {
-      "added_at": "2024-01-12 00:22:54",
-      "album": {
-        "name": "Feel The Same",
-        "url": "https://open.spotify.com/album/0Ll3RDvbKJ7ijiZC6m2fi8"
-      },
-      "artists": [
-        {
-          "name": "Jelani Blackman",
-          "url": "https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo"
-        }
-      ],
-      "duration_ms": 197282,
-      "name": "Feel The Same",
-      "url": "https://open.spotify.com/track/4j6pXSqfkzcI3jXUAA7B7B"
     },
     {
       "added_at": "2024-01-12 00:22:54",

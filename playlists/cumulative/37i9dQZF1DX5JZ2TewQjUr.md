@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: Yokin
 
-1,151 songs - 2 day 17 hr 13 min
+1,152 songs - 2 day 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -770,6 +770,7 @@
 | [You will die tomorrow](https://open.spotify.com/track/7xSVVKC4HWzLYTukHDIv0A) | [東涌事發](https://open.spotify.com/artist/6ClTWrZnl5uWikZC82fhAT) | [You will die tomorrow](https://open.spotify.com/album/7eb9SfkLYjWUNBy0ZnEdbe) | 4:41 | 2023-12-21 | 2024-02-02 |
 | [You'll Never Know](https://open.spotify.com/track/7ENDlCsI5teuC6MLXsbRo1) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know](https://open.spotify.com/album/6B3rJyoegOOnDPjnighssL) | 4:29 | 2023-07-06 | 2023-11-03 |
 | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/track/7kTAJ5Oyd6ODvld30mhNfE) | [LydiaBaoBao](https://open.spotify.com/artist/5QoLHyzyXRtu0qGqRJqaTT) | [You'll Never Know \(When I Was Younger\)](https://open.spotify.com/album/5sLRWgvA5iFxFjqmmrn5AG) | 4:34 | 2023-08-03 | 2023-11-03 |
+| [you'll take it](https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [I'll look out for you](https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r) | 2:06 | 2024-09-05 |  |
 | [You, Me, Dance](https://open.spotify.com/track/5WpJG1jatsWZZHildSbGSW) | [Almond Milk](https://open.spotify.com/artist/6VlsbGW0ge24jpMuRka5eN) | [Almond Milk](https://open.spotify.com/album/2wOqA3RVKIFxeZc8WpMlef) | 3:05 | 2023-12-21 | 2024-05-10 |
 | [Youngsta](https://open.spotify.com/track/4582n3nbK1d05mn6rH4dah) | [Novel Friday](https://open.spotify.com/artist/2c2dutthGptIGoIlB6Nh68), [TXMIYAMA](https://open.spotify.com/artist/725OKiwmqplFRll4H7WHkw) | [Youngsta](https://open.spotify.com/album/6gDyqO7fZP8MbFhAKP9vyk) | 3:12 | 2023-11-23 | 2024-02-02 |
 | [Your Eyes](https://open.spotify.com/track/4goXqBKlrjVDFdABSEYItt) | [Yulie](https://open.spotify.com/artist/7yH3sjveHQuOWB8eZRKk3k), [Blue Bone](https://open.spotify.com/artist/5hW5sCvcnV65dARCSETrkC) | [Your Eyes](https://open.spotify.com/album/5yolu7ryMRLvq8ZG0fpou7) | 3:04 | 2022-07-28 | 2022-11-04 |

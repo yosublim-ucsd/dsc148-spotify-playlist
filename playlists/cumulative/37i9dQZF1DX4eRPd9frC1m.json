@@ -1667,6 +1667,28 @@
     },
     {
       "album": {
+        "name": "BRULURE",
+        "url": "https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF"
+      },
+      "artists": [
+        {
+          "name": "HOL!",
+          "url": "https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB"
+        },
+        {
+          "name": "Automhate",
+          "url": "https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247814,
+      "name": "DESPAIR",
+      "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
+    },
+    {
+      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
       },
@@ -6832,7 +6854,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176200,
       "name": "Steps On You (Peep My Style)",
       "url": "https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8"

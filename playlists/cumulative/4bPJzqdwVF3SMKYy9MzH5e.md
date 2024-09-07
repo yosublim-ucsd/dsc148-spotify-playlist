@@ -4,7 +4,7 @@
 
 > 
 
-1,966 songs - 4 day 9 hr 56 min
+1,967 songs - 4 day 9 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1115,6 +1115,7 @@
 | [Million Dollar Houses \(The Painter\)](https://open.spotify.com/track/0iWCpaSaiIZVPSqjZ9YB5L) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 4:01 | 2021-12-30 |  |
 | [Minerva](https://open.spotify.com/track/1gzWd0ILFaCoHUfQSkCIvl) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Deftones](https://open.spotify.com/album/6252G7bGCVijXlqAjtjeDP) | 4:17 | 2022-02-18 |  |
 | [Minus Blindfold](https://open.spotify.com/track/5zFalOg043nNnRYtU7TS1T) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Adrenaline](https://open.spotify.com/album/30YN03R4Bjl8Qwz8wPRoXG) | 4:04 | 2022-04-03 |  |
+| [Mirage](https://open.spotify.com/track/1w327AHTCoChRIkJUprAnV) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [A Collection of Fleeting Moments and Daydreams](https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof) | 0:57 | 2024-09-06 |  |
 | [Miss Camaraderie](https://open.spotify.com/track/5mEkLflNw2BilpJvJ0W7UC) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 5:09 | 2021-08-05 |  |
 | [Miss The Rage](https://open.spotify.com/track/3JCWS5rqUVZ04M73lDHd8u) | [shya](https://open.spotify.com/artist/4pED9bj1zFjI6tpBV3ilLe) | [Patreon](https://open.spotify.com/album/1QYmMkiOPTN9CcCs6kLvKk) | 2:34 | 2022-08-08 |  |
 | [Mister Glassman](https://open.spotify.com/track/4OstQRfGKat6SWR7FB1zvd) | [Scotty Sire](https://open.spotify.com/artist/24vm5FBjvLpwUiVNcYc8qy) | [Mister Glassman](https://open.spotify.com/album/4gyHikZn318K504xmub8Dl) | 3:41 | 2021-08-05 |  |

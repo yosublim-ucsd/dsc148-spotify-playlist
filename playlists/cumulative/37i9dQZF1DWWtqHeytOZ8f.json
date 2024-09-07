@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 122538,
       "name": "Cierra",
       "url": "https://open.spotify.com/track/7GyEcMfyfwhygUG5GclHT9"
@@ -5710,6 +5710,24 @@
       "duration_ms": 352388,
       "name": "Light Splitting",
       "url": "https://open.spotify.com/track/79pANsjQF3ax9aVXwz4enH"
+    },
+    {
+      "album": {
+        "name": "Like a Glacier Waiting for the Summer",
+        "url": "https://open.spotify.com/album/1upyh5DmPzcRycLOZMdl4P"
+      },
+      "artists": [
+        {
+          "name": "Carlos Metta",
+          "url": "https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593975,
+      "name": "Like a Glacier Waiting for the Summer",
+      "url": "https://open.spotify.com/track/0Q7WpjZChzlK6isNOjmS37"
     },
     {
       "album": {

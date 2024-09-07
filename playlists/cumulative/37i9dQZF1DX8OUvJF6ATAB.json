@@ -2791,6 +2791,24 @@
     },
     {
       "album": {
+        "name": "Like a Glacier Waiting for the Summer",
+        "url": "https://open.spotify.com/album/1upyh5DmPzcRycLOZMdl4P"
+      },
+      "artists": [
+        {
+          "name": "Carlos Metta",
+          "url": "https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 593975,
+      "name": "Like a Glacier Waiting for the Summer",
+      "url": "https://open.spotify.com/track/0Q7WpjZChzlK6isNOjmS37"
+    },
+    {
+      "album": {
         "name": "Ambient 4: On Land (Remastered 2004)",
         "url": "https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh"
       },
@@ -4326,7 +4344,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 374679,
       "name": "Rise",
       "url": "https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd"

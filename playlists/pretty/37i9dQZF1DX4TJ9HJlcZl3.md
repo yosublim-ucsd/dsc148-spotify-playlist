@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 
 > Still yachting\. Cover: Yacht Rock Revue
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,619 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,628 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Like No Tomorrow](https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF) | [Like No Tomorrow](https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA) | 2:50 |
-| 2 | [Tropical Illusion](https://open.spotify.com/track/0ox6C5vyLLOY7o6tkv04X6) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Tropical Illusion / Passengers](https://open.spotify.com/album/5heyrwO90ALCOD40rQOKAy) | 3:47 |
+| 1 | [Make You Miss Me](https://open.spotify.com/track/61Jrb9FdLpobG6DFc8qC5D) | [Yacht Rock Revue](https://open.spotify.com/artist/5vJbbFDnRQql9BtSgR9vZH) | [Escape Artist \(Disc 1\)](https://open.spotify.com/album/5FCeJuDM50xcMMot22SsTO) | 4:15 |
+| 2 | [Like No Tomorrow](https://open.spotify.com/track/2ErFtY4W7nLrg3iInKUGhK) | [David Blazer](https://open.spotify.com/artist/6fI10k7bFVFS76bHXdBof6), [Sam Padrul](https://open.spotify.com/artist/6G6wGudDVkxMg6SaCF0bdF) | [Like No Tomorrow](https://open.spotify.com/album/1y6gGiq5QNDj1r8fPPVAnA) | 2:50 |
 | 3 | [Way Back](https://open.spotify.com/track/4uSf06Z9BYP2v85OcCaGho) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Way Back](https://open.spotify.com/album/7BEQqff2dgbMVD9eIiLBJu) | 3:39 |
 | 4 | [Guy I Used To Be](https://open.spotify.com/track/4dmNWxKKw0Me0uzgE7WIGT) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Guy I Used To Be](https://open.spotify.com/album/4clPOxIV3bm5XheafZ24b7) | 3:47 |
 | 5 | [Cheeky](https://open.spotify.com/track/5L3KNSPWZmL9DLyP1pdXBT) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [Cheeky](https://open.spotify.com/album/25CyID8DgntGUEhcfK4kUk) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TJ9HJlcZl3.md) - [plain]
 | 49 | [Trick To Happy](https://open.spotify.com/track/4lrkAUjZqFCofSF4QplDYd) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Sad Hunk](https://open.spotify.com/album/0vWNWn7PcEotOycEtBC7br) | 3:24 |
 | 50 | [15th Floor](https://open.spotify.com/track/14NAPaeP9jPGkWXso4J23B) | [PREP](https://open.spotify.com/artist/31SBgHxc8eqZUk9MdveH42) | [15th Floor](https://open.spotify.com/album/3jOCHftuZiA1w54yvVHP8h) | 4:30 |
 
-Snapshot ID: `Zn41QAAAAABdoth6Tzb5cc8DoVdh9kga`
+Snapshot ID: `Ztp+QAAAAACz6pkOB/fDdC9YHoKyD+QY`

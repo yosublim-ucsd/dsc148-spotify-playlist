@@ -3323,6 +3323,24 @@
     },
     {
       "album": {
+        "name": "Hand On Me",
+        "url": "https://open.spotify.com/album/4plhaQtjp67Isr59V8Pf8w"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260271,
+      "name": "Hand On Me",
+      "url": "https://open.spotify.com/track/5hJa7DKaWDULhq3C4TbZG7"
+    },
+    {
+      "album": {
         "name": "Have It All",
         "url": "https://open.spotify.com/album/3Ljtstx1pBzEEpcw3gI5SX"
       },
@@ -11348,7 +11366,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 275100,
       "name": "Working for Me",
       "url": "https://open.spotify.com/track/0dPUeGCcQuTHh3UfcOEd9w"

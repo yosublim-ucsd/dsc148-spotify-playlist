@@ -4,7 +4,7 @@
 
 > Linkin Park au top des nouveautés de la semaine !
 
-1,584 songs - 3 day 11 hr 11 min
+1,586 songs - 3 day 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -851,6 +851,7 @@
 | [Lithonia](https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Lithonia](https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3) | 2:59 | 2024-07-04 | 2024-07-12 |
 | [Little Foot Big Foot](https://open.spotify.com/track/6rW3mLtDPEzJ00X3ubG6Mv) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/4Ji5PWAFzyDcrN0wRukYZb) | 3:46 | 2024-05-16 | 2024-05-24 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-05-24 |
+| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-05 |  |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-22 | 2024-08-30 |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-15 | 2024-08-23 |
 | [Lonely with Our Love](https://open.spotify.com/track/3r62SofIEN6oRBL9964egb) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Lonely with Our Love](https://open.spotify.com/album/6pqseUHCpd1LOVWURaEH9X) | 3:28 | 2024-05-16 | 2024-05-24 |
@@ -1064,6 +1065,7 @@
 | [Only You](https://open.spotify.com/track/4iLNgiHAPx3Pb7vVOnKJFa) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [Only You](https://open.spotify.com/album/7eLoZ5wSgMeeAdjhfZunI9) | 3:07 | 2024-08-22 | 2024-08-30 |
 | [Open Hearts](https://open.spotify.com/track/0vGaq6yLFIWQTVT1IStvdn) | [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn) | [Open Hearts](https://open.spotify.com/album/06XMKyyqiQfvBze41Yi8pv) | 3:37 | 2024-08-29 | 2024-09-06 |
 | [Options](https://open.spotify.com/track/5C07ATVVL5hBHa8dFI6PZK) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Options](https://open.spotify.com/album/3g52ecmSv3EZsMHyy8MsBW) | 2:48 | 2024-07-18 | 2024-07-27 |
+| [Or What](https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Or What](https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2) | 3:19 | 2024-09-05 |  |
 | [orange tree](https://open.spotify.com/track/0pZIv8h9n7aN7PDVIWhC0l) | [Emma Bale](https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV) | [3.2](https://open.spotify.com/album/0WKm0yeZhfEbxxPa1FfJbI) | 3:17 | 2024-06-20 | 2024-06-28 |
 | [Orange\-coloured day](https://open.spotify.com/track/3jXy5FvEftfAWa6Bk5ukAy) | [Liana Flores](https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u) | [Orange\-coloured day](https://open.spotify.com/album/5LSivLzjAl3bOSECr27PHj) | 2:48 | 2024-06-06 | 2024-06-14 |
 | [OSS](https://open.spotify.com/track/2SqCHOU4FaW1TrEgEa50nT) | [Osirus Jack](https://open.spotify.com/artist/3p6dh3Zn4fVXJatMy3Xqzq) | [TSAR NOIR](https://open.spotify.com/album/01OLJ0Y72dthIE2YqygQcS) | 2:39 | 2024-05-23 | 2024-06-01 |
@@ -1495,7 +1497,7 @@
 | [Vanilla](https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL), [Ramos.](https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB) | [Vanilla](https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL) | 3:07 | 2024-08-29 | 2024-09-06 |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-06-20 | 2024-06-28 |
 | [VAULT](https://open.spotify.com/track/60myU58GYSWacSlXHsf6XM) | [Raplume](https://open.spotify.com/artist/2ci4Or1nFI30YCiRS2YXV8), [JYEUHAIR](https://open.spotify.com/artist/7sr2KPOcmuTHm9GsbuRXKn) | [VAULT](https://open.spotify.com/album/3SOS3CUQsXwc7kX31AH1xh) | 2:09 | 2024-08-22 | 2024-08-30 |
-| [Vent du Nord](https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Vent du Nord](https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks) | 2:25 | 2024-09-05 |  |
+| [Vent du Nord](https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Vent du Nord](https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks) | 2:25 | 2024-09-05 | 2024-09-07 |
 | [Very Bad Trip](https://open.spotify.com/track/7tXHLmzFH6rADej0aZRmPu) | [Lord Esperanza](https://open.spotify.com/artist/7CPznx8a1emLVLeCHGuJeN) | [Very Bad Trip](https://open.spotify.com/album/6pq9OhOvQuDwUzQva73v0t) | 2:11 | 2024-05-30 | 2024-06-07 |
 | [VHS](https://open.spotify.com/track/18L4W0H4hNw3KODrldn1iS) | [Akira & le Sabbat](https://open.spotify.com/artist/1beqcw5P0wds8IzLuuAxZp) | [Poudrière](https://open.spotify.com/album/0fPpc3P9BOMJNdrQXYeArA) | 2:43 | 2024-04-25 | 2024-05-03 |
 | [Vice Versa](https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Vice Versa](https://open.spotify.com/album/2ZfAmFvyu1Gi03AscYCdUH) | 2:46 | 2024-08-29 | 2024-09-06 |
@@ -1530,7 +1532,7 @@
 | [We Will Rock You \- Megan Thee Stallion Version](https://open.spotify.com/track/03NOVazYlKC9MReaZiBlyS) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [We Will Rock You \- Megan Thee Stallion Version](https://open.spotify.com/album/37G9lvayot5zbiEr0Ooa8e) | 1:43 | 2024-09-05 |  |
 | [Website](https://open.spotify.com/track/1fOv8yQOvPXHM9hg7Y0HkR) | [Coyote Jo Bastard](https://open.spotify.com/artist/3nDLTOGw0WwwddP3tq5561) | [Website](https://open.spotify.com/album/0LunXY7FySxQRaRUlUMWv5) | 2:22 | 2024-08-29 | 2024-09-06 |
 | [Weird Fishes / Arpeggi](https://open.spotify.com/track/6PQOjKBQ5CsyXDONa6x8GP) | [Arthur Teboul](https://open.spotify.com/artist/2Nx3N8Sumn7MX5kVyDT9Y6), [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R) | [Weird Fishes / Arpeggi](https://open.spotify.com/album/6CIEyBKGfJQ9QQtsXBr8H5) | 3:59 | 2024-07-11 | 2024-07-19 |
-| [Wet Dreams](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Wet Dreams](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 | 2024-09-05 |  |
+| [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G](https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG) | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 | 2024-09-05 |  |
 | [What A Woman](https://open.spotify.com/track/2x0IElokcAprEpWdxOEeZS) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [What A Woman](https://open.spotify.com/album/3ttdvoQZaJHrSaLfj3uSsY) | 2:21 | 2024-05-02 | 2024-05-10 |
 | [What Do You Believe In?](https://open.spotify.com/track/2j5YYik2gA3Z7FgH3NiybN) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [What Do You Believe In?](https://open.spotify.com/album/63c9Ujs0fkzuFi6OkDG7cP) | 3:10 | 2024-05-23 | 2024-06-01 |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-08 | 2024-08-16 |

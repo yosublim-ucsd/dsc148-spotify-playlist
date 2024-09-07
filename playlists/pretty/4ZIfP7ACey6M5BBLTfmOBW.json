@@ -1,15 +1,55 @@
 {
   "description": "All the freshest hip-hop heaters in one list! Cover: Central Cee.",
-  "num_followers": 29456,
+  "num_followers": 29455,
   "original_name": "Fresh Hip Hop",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAf9bZLFAAD+4BGGIZ7lAto2qFVsb/+",
+  "snapshot_id": "AAAgGdp7b26X0xey+0H1xC/ifbM0LgXa",
   "tracks": [
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Ruby Rosary (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/130Z8iBbfUEI98zWWObsQB"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 256786,
+      "name": "Ruby Rosary (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/1lloYB6uHOTDmheiWsq4DL"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Moi",
+        "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 174533,
+      "name": "Moi",
+      "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Tailor Swif",
         "url": "https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg"
@@ -25,7 +65,7 @@
       "url": "https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "DAYS BEFORE RODEO",
         "url": "https://open.spotify.com/album/0XwVkzDyxfDSiWzBtVKn0K"
@@ -45,7 +85,39 @@
       "url": "https://open.spotify.com/track/3QYCCpfbnQ52NOUIVWVF2w"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Can't Hold Me Down",
+        "url": "https://open.spotify.com/album/0p8DBORvuoUyEa2GrUFLff"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Doodles",
+          "url": "https://open.spotify.com/artist/6U0aWTZ4llc1ICfyFPtIzd"
+        },
+        {
+          "name": "Kyle Richh",
+          "url": "https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU"
+        }
+      ],
+      "duration_ms": 197626,
+      "name": "Can't Hold Me Down",
+      "url": "https://open.spotify.com/track/59UWPiUEQPd0jVVzikHyoV"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "LET YA HAIR DOWN (feat. Drezus)",
         "url": "https://open.spotify.com/album/5HMduZONOJCywSqtWRqT0R"
@@ -65,7 +137,31 @@
       "url": "https://open.spotify.com/track/5J6TeC1lAeFviV6SjN05qG"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Wet Dreams (feat. Coop & G)",
+        "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
+        }
+      ],
+      "duration_ms": 159090,
+      "name": "Wet Dreams (feat. Coop & G)",
+      "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Bolide Noir",
         "url": "https://open.spotify.com/album/6ujcbx6rGcYFkLw6epuWHW"
@@ -81,7 +177,7 @@
       "url": "https://open.spotify.com/track/3rxRWyJrdt6QoWxtFBDiPp"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Nostalgia (feat. Gray Hawken)",
         "url": "https://open.spotify.com/album/7Mj5Jdqk2l15XkJqloDpsS"
@@ -101,23 +197,23 @@
       "url": "https://open.spotify.com/track/2G07BuQr57cyd92Xu74VFS"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
-        "name": "METHOD ACTING",
-        "url": "https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj"
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx"
       },
       "artists": [
         {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
         }
       ],
-      "duration_ms": 136733,
-      "name": "METHOD ACTING",
-      "url": "https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF"
+      "duration_ms": 109745,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "HIGHJACK",
         "url": "https://open.spotify.com/album/5glJE1IDthPVklvDyEVqfL"
@@ -137,7 +233,7 @@
       "url": "https://open.spotify.com/track/57L5EYzCfHS7Jd58rV33lW"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Sugar Honey Iced Tea",
         "url": "https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp"
@@ -153,7 +249,75 @@
       "url": "https://open.spotify.com/track/1KhUaRnlArqC9MxvUfk8Tb"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Moodboard",
+        "url": "https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 132493,
+      "name": "Moodboard",
+      "url": "https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Pelle",
+        "url": "https://open.spotify.com/album/0Zk8ZLakeh1lSnn34KwL6x"
+      },
+      "artists": [
+        {
+          "name": "DD Osama",
+          "url": "https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM"
+        }
+      ],
+      "duration_ms": 120004,
+      "name": "Pelle",
+      "url": "https://open.spotify.com/track/5rqd2P9yFlCRLcmKVoGEWt"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "METHOD ACTING",
+        "url": "https://open.spotify.com/album/49O9fESC2mlA6Ek8K66Uzj"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 136733,
+      "name": "METHOD ACTING",
+      "url": "https://open.spotify.com/track/5st2rxJDpyUS3IPtn1lxXF"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "No One Else (feat. Jeremih)",
+        "url": "https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM"
+      },
+      "artists": [
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 162240,
+      "name": "No One Else (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Attach",
         "url": "https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV"
@@ -177,7 +341,7 @@
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Trickin'",
         "url": "https://open.spotify.com/album/3GCFhMFbc1ctgLQvuKQOVm"
@@ -193,7 +357,39 @@
       "url": "https://open.spotify.com/track/6a8k1o1QFfYp9VW63wY4MF"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "The Sky Is Recording Me: 100 Years Later, Vol. 1",
+        "url": "https://open.spotify.com/album/1dsPdpA7z3yi6po3NVLqNu"
+      },
+      "artists": [
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        }
+      ],
+      "duration_ms": 213670,
+      "name": "AT MINES",
+      "url": "https://open.spotify.com/track/5JUCZa9TG7IPdyh5ZWeuZd"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "Comatose",
+        "url": "https://open.spotify.com/album/5zQOHCZjMhgwfKWtSjVT0M"
+      },
+      "artists": [
+        {
+          "name": "Resentvul",
+          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
+        }
+      ],
+      "duration_ms": 90647,
+      "name": "Comatose",
+      "url": "https://open.spotify.com/track/4W6orj6Dwn2k5puHmfqPzS"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "fashion week",
         "url": "https://open.spotify.com/album/4N1uNjUTrrfwLYlgd804tl"
@@ -213,7 +409,7 @@
       "url": "https://open.spotify.com/track/6YF8SV5mBToMRg5EUEBfjk"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Da Real Oso",
         "url": "https://open.spotify.com/album/5lGbFVxiM28gqCOdhpGBQ1"
@@ -229,7 +425,7 @@
       "url": "https://open.spotify.com/track/4QtMByklJArplbYMOaJVI6"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Not In The Store",
         "url": "https://open.spotify.com/album/4RgJLThZL96x5lhDt5VYPZ"
@@ -253,7 +449,7 @@
       "url": "https://open.spotify.com/track/0Yucu5issPtc4Et5eHDBRS"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "HOOD POET",
         "url": "https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW"
@@ -273,7 +469,7 @@
       "url": "https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "NO DOGS ALLOWED",
         "url": "https://open.spotify.com/album/6r5gr5fWJpmrBx1WZp4FrC"
@@ -289,7 +485,7 @@
       "url": "https://open.spotify.com/track/3Ejg3n0wYfnC0fDjeVLm3S"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Kapital G",
         "url": "https://open.spotify.com/album/1tHrdQAmbqVz22INQZlegy"
@@ -305,7 +501,7 @@
       "url": "https://open.spotify.com/track/0Hap8KQNy7akQllpZxYWno"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Glue",
         "url": "https://open.spotify.com/album/4SLobK9FvbKa5OtW4qLr3Q"
@@ -321,7 +517,23 @@
       "url": "https://open.spotify.com/track/6PEqJY7YoICdN1lI7y2bwd"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
+      "album": {
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/66rjBHk0kAuOTRBHQXrAdm"
+      },
+      "artists": [
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 116756,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/0PP39XfSB33WC8MUFGlF6c"
+    },
+    {
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Own Lane",
         "url": "https://open.spotify.com/album/2BnHWc2Qd2bCRfBHASeZUv"
@@ -337,7 +549,7 @@
       "url": "https://open.spotify.com/track/5J0JMQtHObPqSy04UHuX8d"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "A Step Up",
         "url": "https://open.spotify.com/album/7ElMYGsEQE8Tob8xfQjQ6R"
@@ -353,7 +565,7 @@
       "url": "https://open.spotify.com/track/4gPU4zAhNBcwuszTQqyucg"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "BREAK THE SILENCE",
         "url": "https://open.spotify.com/album/3uDTD95Lj5iienAFLDC9WO"
@@ -369,7 +581,7 @@
       "url": "https://open.spotify.com/track/7lvE7aBdYiAGxs063yTooz"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "If I Was President",
         "url": "https://open.spotify.com/album/76WK1kfEroOSnApruiFyoR"
@@ -393,7 +605,7 @@
       "url": "https://open.spotify.com/track/54uah4IGZFa1I0k14k0VjF"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Get In There (feat. GloRilla)",
         "url": "https://open.spotify.com/album/6Z8DsLCV7X0oTOWUo7Yi9p"
@@ -413,7 +625,7 @@
       "url": "https://open.spotify.com/track/5wNzNajnMU0xv3JZZrLzNv"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Special (feat. Skilla Baby & Flo Milli)",
         "url": "https://open.spotify.com/album/4dmYcRXZCVL4W98DoRTbJe"
@@ -437,7 +649,7 @@
       "url": "https://open.spotify.com/track/74gkzK2S4ZcTM7ufYO2Qzr"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "8 Ball",
         "url": "https://open.spotify.com/album/3xSd2uU22lVKxtqJmVqmNG"
@@ -453,7 +665,7 @@
       "url": "https://open.spotify.com/track/4W4Vg8NsdbI0Bl9CZo0Uf4"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "luvmethesame",
         "url": "https://open.spotify.com/album/3Y00GedT1CELb7a3UCQqab"
@@ -469,7 +681,7 @@
       "url": "https://open.spotify.com/track/1qKyLFwBYri2AFsEwdhtVX"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Love Me (feat. Vontee the Singer)",
         "url": "https://open.spotify.com/album/1OcHaJwbwMwd9naHD0GoYq"
@@ -489,7 +701,7 @@
       "url": "https://open.spotify.com/track/4zOQXDDhhFvb0J6CYyqver"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "gen z luv",
         "url": "https://open.spotify.com/album/2zabsrUFQymnLIv1j4CQhI"
@@ -505,7 +717,7 @@
       "url": "https://open.spotify.com/track/13hJUmR1UpCUzyHjotiImK"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "John Wayne (feat. Metro Boomin)",
         "url": "https://open.spotify.com/album/4iJfINkNSOSt9sGoJ3FPNx"
@@ -525,7 +737,7 @@
       "url": "https://open.spotify.com/track/4mfaQcqYhlv0X9xF2bDWxG"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "100 Bands (feat. bambi)",
         "url": "https://open.spotify.com/album/2VaneFgs1XxIJcwjoqAPV9"
@@ -545,7 +757,7 @@
       "url": "https://open.spotify.com/track/4FKkPC89ZNH1DNdXrBquhF"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "We Uh Shoot (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/3rtExYEkOktf9WQfCDhODh"
@@ -565,7 +777,7 @@
       "url": "https://open.spotify.com/track/6UTLdGOkbRPJzlU2nPvZlH"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Ghost Girl",
         "url": "https://open.spotify.com/album/5tVFiHcxOwsXIIZSfw2IEk"
@@ -581,7 +793,7 @@
       "url": "https://open.spotify.com/track/3Vlnx0zaLZeE9c0sICoPGN"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Ray Wop",
         "url": "https://open.spotify.com/album/6ScHujaAPkA56DUqTQVWDD"
@@ -597,7 +809,7 @@
       "url": "https://open.spotify.com/track/2HY9pQpLmRSa03JtM1n2we"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Lagos 2 Vegas",
         "url": "https://open.spotify.com/album/3pEhjim9cIerL9CPVaAwlK"
@@ -613,7 +825,7 @@
       "url": "https://open.spotify.com/track/7hx0tEGdoAL9KG8k7SRcLT"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "No IG",
         "url": "https://open.spotify.com/album/1vs8Vr4VsqFYw4Xu7xYTua"
@@ -629,7 +841,7 @@
       "url": "https://open.spotify.com/track/50ZpkS36DgbEj8qkL3JHG5"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Hold Me Down",
         "url": "https://open.spotify.com/album/2ZtB2MwrBeH3tkHFQq6lnX"
@@ -645,7 +857,7 @@
       "url": "https://open.spotify.com/track/4xFSchyxIzNeNc2d3dWE4i"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Straight, No Chase",
         "url": "https://open.spotify.com/album/1E3bAnOZmyf5Myw22u6330"
@@ -669,7 +881,7 @@
       "url": "https://open.spotify.com/track/1k5KzXU18wUu77gVeogfY2"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "GIRLS",
         "url": "https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC"
@@ -685,7 +897,7 @@
       "url": "https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "DEVIL'S CLUB (feat. Rezcoast Grizz)",
         "url": "https://open.spotify.com/album/34XzavBwRGN0OqpKKH9voX"
@@ -705,7 +917,7 @@
       "url": "https://open.spotify.com/track/6zWhzgVJZfoF1Bjo4JxgEF"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
@@ -721,7 +933,7 @@
       "url": "https://open.spotify.com/track/4JfpJrrGNXRj2yXm1fYV23"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "copy my drip",
         "url": "https://open.spotify.com/album/65RYCA2Ve7EKew5hk3qiU6"
@@ -737,7 +949,7 @@
       "url": "https://open.spotify.com/track/7bHIWlVy5WLS6RMRfwO0nv"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Screamin",
         "url": "https://open.spotify.com/album/4u9r3h7tQ5cTzGKk2DMhBn"
@@ -753,7 +965,7 @@
       "url": "https://open.spotify.com/track/1oKpIfzkVoS0j927ARkYCG"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Geek",
         "url": "https://open.spotify.com/album/15Gao0gftur4ZQWlDyIKSL"
@@ -769,7 +981,7 @@
       "url": "https://open.spotify.com/track/3sIKgS05lsszua6zt0rgf2"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Went Hollywood For A Year",
         "url": "https://open.spotify.com/album/5IxhwWNAh6EFXZO5xWZT8K"
@@ -785,7 +997,7 @@
       "url": "https://open.spotify.com/track/6jTMRe8mJjZUrpECpUs3cT"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Big Mama",
         "url": "https://open.spotify.com/album/48QEe8MSJns89FcFSzSfky"
@@ -801,7 +1013,7 @@
       "url": "https://open.spotify.com/track/5NVOE8wRgmgNGTJNys871J"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/4whU0MmQd975FpxZrti027"
@@ -817,7 +1029,7 @@
       "url": "https://open.spotify.com/track/06a0YRzTF0vLTVnSxrkgfs"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Tryin' to Play Me",
         "url": "https://open.spotify.com/album/6zDqz2lliTI1j18F6fBLrZ"
@@ -833,7 +1045,7 @@
       "url": "https://open.spotify.com/track/1CFYvRq6i4O0i5FvziWt57"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "POS",
         "url": "https://open.spotify.com/album/623ScMbAhkNmOvAUxpZzOT"
@@ -849,7 +1061,7 @@
       "url": "https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "The Last One",
         "url": "https://open.spotify.com/album/26PpclJsqvQlP50d5XcLWp"
@@ -869,7 +1081,7 @@
       "url": "https://open.spotify.com/track/3r743128YSBlOb38PhO4pV"
     },
     {
-      "added_at": "2024-09-03 14:05:42",
+      "added_at": "2024-09-06 13:47:55",
       "album": {
         "name": "Fun",
         "url": "https://open.spotify.com/album/2bj3i9pQ0ZkmI1mGSwskt4"
@@ -883,190 +1095,6 @@
       "duration_ms": 134240,
       "name": "Fun",
       "url": "https://open.spotify.com/track/3aaS6yVkS9JPZMu4aXNxnx"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "Ketamine Dreams",
-        "url": "https://open.spotify.com/album/1eCYrFXF1eQPu8AFe2A2yu"
-      },
-      "artists": [
-        {
-          "name": "Resentvul",
-          "url": "https://open.spotify.com/artist/6ogEi25sdXxNuKmzXB75nH"
-        }
-      ],
-      "duration_ms": 96000,
-      "name": "Ketamine Dreams",
-      "url": "https://open.spotify.com/track/6gCRFjMKi0JPQj4A8YJkfT"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "SUPERLATIVE",
-        "url": "https://open.spotify.com/album/3362l61rUrP7O1eK83GFBg"
-      },
-      "artists": [
-        {
-          "name": "Kid Culture",
-          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
-        }
-      ],
-      "duration_ms": 145631,
-      "name": "KIDEPT",
-      "url": "https://open.spotify.com/track/3lO2GuIbEdW0YdSZX0wXIo"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "No Time (feat. SadBoi) [Extended]",
-        "url": "https://open.spotify.com/album/7ikMBbBakjjHKp3ETNd64E"
-      },
-      "artists": [
-        {
-          "name": "Interplanetary Criminal",
-          "url": "https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI"
-        },
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "No Time (feat. SadBoi)",
-      "url": "https://open.spotify.com/track/6CFtKlUG02HhCEySHm2yuj"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "Teeth (Interlude)",
-        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 142716,
-      "name": "Teeth (Interlude)",
-      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "Have Her",
-        "url": "https://open.spotify.com/album/5WxgA8Keibxzjvo85Z2fWN"
-      },
-      "artists": [
-        {
-          "name": "Swavy",
-          "url": "https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I"
-        }
-      ],
-      "duration_ms": 169918,
-      "name": "Have Her",
-      "url": "https://open.spotify.com/track/5nilJ4BHbGwuawFBy11z6Q"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "Suki Suki",
-        "url": "https://open.spotify.com/album/0PboUdl2xp7PebjNhLTITI"
-      },
-      "artists": [
-        {
-          "name": "Sukihana",
-          "url": "https://open.spotify.com/artist/3EJmmU8C3pk268dP7IbOt7"
-        }
-      ],
-      "duration_ms": 128207,
-      "name": "Suki Suki",
-      "url": "https://open.spotify.com/track/5Kfn1mWqzS1lDsZEzfVH3p"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "CALL DROP",
-        "url": "https://open.spotify.com/album/1Q20iRbA3GYItaEax9KLuW"
-      },
-      "artists": [
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "CALL DROP",
-      "url": "https://open.spotify.com/track/5nkgKRjX0GSsKctFjFm8N7"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "HERE WE GO! (from the Netflix film \"Beverly Hills Cop: Axel F\")",
-        "url": "https://open.spotify.com/album/0g097m0P0zZhYnImicon1n"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 192862,
-      "name": "HERE WE GO! - from the Netflix film \"Beverly Hills Cop: Axel F\"",
-      "url": "https://open.spotify.com/track/4xntqnsHQA93Ai8Jcyx31j"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "Fuck Then Dub Her (feat. Lil Mabu)",
-        "url": "https://open.spotify.com/album/3UhF76O6AGUVnAlktwlXBo"
-      },
-      "artists": [
-        {
-          "name": "B-Lovee",
-          "url": "https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y"
-        },
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 152478,
-      "name": "Fuck Then Dub Her (feat. Lil Mabu)",
-      "url": "https://open.spotify.com/track/2Zt56VjHNT4257K0OLm34t"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "WHO AM I",
-        "url": "https://open.spotify.com/album/3lscD3431rsquJaUgnUAU3"
-      },
-      "artists": [
-        {
-          "name": "BERWYN",
-          "url": "https://open.spotify.com/artist/5zatdvej2AxogC5pbu2msR"
-        }
-      ],
-      "duration_ms": 168600,
-      "name": "WHO AM I",
-      "url": "https://open.spotify.com/track/45QAHW16P5rMhuMnITapGu"
-    },
-    {
-      "added_at": "2024-09-03 14:05:42",
-      "album": {
-        "name": "How Many",
-        "url": "https://open.spotify.com/album/4IylGJ09nibqVHqRGzxSIN"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 123558,
-      "name": "How Many",
-      "url": "https://open.spotify.com/track/7r4eIeyVaErbZlXHDXaQeb"
     }
   ],
   "unique_name": "Fresh Hip Hop",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: Mori Calliope
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,048 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,339 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [KWBR Kuwabara](https://open.spotify.com/track/0GrQH6Lx3x2V81njLGLVBb) | [Answer to Remember](https://open.spotify.com/artist/0AmjQ7AztgqsgxwtNV7GL9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Answer to Remember II](https://open.spotify.com/album/1RV1qtvVjJZzqK2W52QKEy) | 5:38 |
 | 75 | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/track/5QSMYpWm1klasdBZYQCox7) | [JYOCHO](https://open.spotify.com/artist/6VIUbb5oBJPnm2gcYMFBUR) | [Strong Body and Rich Future of Macho Minimal Fairy](https://open.spotify.com/album/4PcS8cnvWSb02xrUIX7tWz) | 2:30 |
 
-Snapshot ID: `ZtnHcAAAAAB/Iktsg1OaDoIhB2vv6hyk`
+Snapshot ID: `Ztp4lgAAAAA+wp4MbrwJmnqC2+8adibO`

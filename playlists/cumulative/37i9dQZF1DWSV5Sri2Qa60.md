@@ -2,9 +2,9 @@
 
 ### [Hot New Bands](https://open.spotify.com/playlist/37i9dQZF1DWSV5Sri2Qa60)
 
-> Where your new favourite bands are discovered\. Cover: Balancing Act
+> Where your new favourite bands are discovered\. Cover: Hank
 
-77 songs - 4 hr 29 min
+80 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,14 +17,14 @@
 | [Brain Freeze](https://open.spotify.com/track/57E8bTfIbarOcrs95hNYI7) | [Everyone Says Hi](https://open.spotify.com/artist/4sGoAzUUT1W6GuzLVEbuBa) | [Brain Freeze](https://open.spotify.com/album/6RiDmI2bffYe65lrZutsau) | 4:16 | 2024-06-14 |  |
 | [Breathe](https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [Breathe](https://open.spotify.com/album/1D0slQiKPmlWdQJI6cYW1D) | 3:23 | 2024-06-14 |  |
 | [Carnival](https://open.spotify.com/track/1byfGV9rZiQ6JUWusNlFSm) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Carnival](https://open.spotify.com/album/6hoc9hWzAKyCzOL1TYkkgd) | 3:38 | 2024-07-12 |  |
-| [CEASE.](https://open.spotify.com/track/1B472gBXtRLSnYW91YJzvB) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [CEASE.](https://open.spotify.com/album/22MeZuh7uiFhLz4JNj6L9f) | 3:40 | 2024-06-14 |  |
+| [CEASE.](https://open.spotify.com/track/1B472gBXtRLSnYW91YJzvB) | [HONESTY](https://open.spotify.com/artist/0IHlkUZPVWLz5yUbz8H5Bv) | [CEASE.](https://open.spotify.com/album/22MeZuh7uiFhLz4JNj6L9f) | 3:40 | 2024-06-14 | 2024-09-07 |
 | [Charlie's Comet](https://open.spotify.com/track/2Y7Z6kTzPQFwStThi451lf) | [Mandrake Handshake](https://open.spotify.com/artist/3tW2ocpP6a9HqZoWgn45kn) | [Charlie's Comet](https://open.spotify.com/album/5Rfey08LMXUVIPlXr3r6HH) | 4:02 | 2024-07-26 |  |
 | [Cherish Me](https://open.spotify.com/track/2H9nygQI4OK0jsIlLkdhLS) | [bathhat](https://open.spotify.com/artist/2xNyA9koSMPLamMdcYvzfh) | [Cherish Me](https://open.spotify.com/album/1Kyh8FeOkcNHLPxxPnKTQx) | 2:52 | 2024-07-12 |  |
 | [Chill For The Summer](https://open.spotify.com/track/0sdzs2foIVxCmfMIJZsNhd) | [Sick Love](https://open.spotify.com/artist/08WUbbIzHJ003HDxCRdpaB) | [Champagne](https://open.spotify.com/album/20hO0Er1v4yvq8sTFhRccf) | 4:00 | 2024-06-14 |  |
 | [Circle](https://open.spotify.com/track/6zv4AFZJgnhBbIXUENWhxb) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Circle](https://open.spotify.com/album/0WuRI7IJvCdH4LcsDHTQCb) | 3:25 | 2024-06-14 | 2024-07-27 |
 | [Close Call](https://open.spotify.com/track/5qwCtK5w9yoc19ZvlWw4zY) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Close Call](https://open.spotify.com/album/2TL6nCxuLh7aW6bVUtKr50) | 2:43 | 2024-06-14 |  |
 | [colour photo](https://open.spotify.com/track/3lSarTYqSK7A9bnNwz1P61) | [Afflecks Palace](https://open.spotify.com/artist/4IPPxhNko81s8pZsgyYhYW) | [colour photo](https://open.spotify.com/album/68q75hsPYIehvIar3lI9E0) | 2:53 | 2024-07-12 |  |
-| [Constantly](https://open.spotify.com/track/5aS0lhnoreY5qphG7C90am) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Constantly](https://open.spotify.com/album/2QmEscO87UBIOXNH1wiQyX) | 3:52 | 2024-07-12 |  |
+| [Constantly](https://open.spotify.com/track/5aS0lhnoreY5qphG7C90am) | [Eades](https://open.spotify.com/artist/6GVy4NToodaTHYxlO6xuXX) | [Constantly](https://open.spotify.com/album/2QmEscO87UBIOXNH1wiQyX) | 3:52 | 2024-07-12 | 2024-09-07 |
 | [Davey Says](https://open.spotify.com/track/0taAI29AhzNRcrnWhGPMwZ) | [King Hannah](https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6) | [Davey Says](https://open.spotify.com/album/6vQVPgqVMU51qDxJnAm3dC) | 2:47 | 2024-06-14 |  |
 | [Dead Plants](https://open.spotify.com/track/3Q8WLratqyNqJxsJPyHLIC) | [better joy](https://open.spotify.com/artist/4ERGM46KkPIw35YncC6PGL) | [Dead Plants](https://open.spotify.com/album/0ieQOpcO7YmOpVpvV6WHDl) | 3:32 | 2024-06-14 | 2024-07-27 |
 | [dinny greet](https://open.spotify.com/track/3W2BGT9fKhRKLAgbxhJ3P0) | [rEDOLENT](https://open.spotify.com/artist/19rA63hvJkczptt2FWeneT) | [dinny greet](https://open.spotify.com/album/4OTEThnooBoMB4l8BqWhto) | 3:44 | 2024-06-14 |  |
@@ -59,7 +59,7 @@
 | [Like Best Friends](https://open.spotify.com/track/0g95vn2Szj5apK4CIOcyAZ) | [Dirty Nice](https://open.spotify.com/artist/4MGA6AM4iZ2HYc6b77og9g) | [Like Best Friends / Fine For Now](https://open.spotify.com/album/469c6WV6LEt6AjZv4QqYxG) | 3:09 | 2024-06-14 |  |
 | [Mown In Circles](https://open.spotify.com/track/4g7YnATFgEFKmRxqnlQqtL) | [LICE](https://open.spotify.com/artist/4JC8PfKoENbnkxLB2k3ZGo) | [Mown In Circles](https://open.spotify.com/album/6G7iPqdN75EsnBjIWdrSW0) | 2:35 | 2024-07-12 | 2024-08-17 |
 | [Nineteen](https://open.spotify.com/track/7kHjARp3Q3XDIeC8XGSrPx) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Nineteen](https://open.spotify.com/album/4ES63njGp43adDMGUluERR) | 1:53 | 2024-06-14 | 2024-08-17 |
-| [Oar](https://open.spotify.com/track/5siVDeXRKTbNH2x64jmAjD) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Oar](https://open.spotify.com/album/30GQIVpFXmNtlb9JuzlRwn) | 2:53 | 2024-06-14 |  |
+| [Oar](https://open.spotify.com/track/5siVDeXRKTbNH2x64jmAjD) | [Ain't](https://open.spotify.com/artist/0TTADMS1RLOmf7qACoMewD) | [Oar](https://open.spotify.com/album/30GQIVpFXmNtlb9JuzlRwn) | 2:53 | 2024-06-14 | 2024-09-07 |
 | [Ode To Clio](https://open.spotify.com/track/6gJaZclCQVvDdHl4m5reGj) | [Man/Woman/Chainsaw](https://open.spotify.com/artist/0KheksMhWogVV4frHAihPJ) | [Ode To Clio](https://open.spotify.com/album/7vNo8NiWR3gco9DhEYg4sP) | 3:17 | 2024-07-26 |  |
 | [Piano Hands](https://open.spotify.com/track/5qXO90zyTU5Ch5aI9j0uzf) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Piano Hands](https://open.spotify.com/album/3gJhe78jiRJjbPgRW4z1Nk) | 3:38 | 2024-06-14 |  |
 | [Pop Star](https://open.spotify.com/track/3MDcELZE4lvnm8LX3jDYfu) | [Lime Garden](https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o) | [Pop Star](https://open.spotify.com/album/5JMP8vLXhXUL8XZze8YH84) | 2:54 | 2024-06-14 | 2024-07-27 |
@@ -79,11 +79,14 @@
 | [teeth](https://open.spotify.com/track/5RVajwoNIYW0zPt8PqS71y) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [this old house](https://open.spotify.com/album/1QWJ3ijFhCMroSOOAR61Qf) | 5:04 | 2024-06-14 |  |
 | [The Man](https://open.spotify.com/track/6yUy4C7Gn0Geg7YEB8qRzj) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [The Man](https://open.spotify.com/album/1PiAdNZtIBipn9FGJ4GjZB) | 3:14 | 2024-08-16 |  |
 | [The Painting of the Bay](https://open.spotify.com/track/4ycRADJsEIYuhH4JUcs9jf) | [W\. H\. Lung](https://open.spotify.com/artist/6Xx57uhlmBUkH1DOxqTWZM) | [The Painting of the Bay](https://open.spotify.com/album/3h85DpIWAVUkFTq14XTBPA) | 3:20 | 2024-08-16 |  |
+| [The Recogniser](https://open.spotify.com/track/417nPuKG03pek6PIuZGtae) | [Terra Twin](https://open.spotify.com/artist/1APkoiZBXf5B3YqPruHouT) | [The Recogniser](https://open.spotify.com/album/4XuEfBwoekw0M0WR5WA2Fs) | 3:26 | 2024-09-06 |  |
+| [The Well](https://open.spotify.com/track/08qJtrazqaGVnGfNxjAY2e) | [Rubber Oh](https://open.spotify.com/artist/2NaWYydDrHok1ewkoZ0qTL) | [The Well](https://open.spotify.com/album/1WFuZXzMVEZhWbpianejLD) | 4:43 | 2024-09-06 |  |
 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 | 2024-06-14 | 2024-07-13 |
 | [Total Communication Breakdown](https://open.spotify.com/track/41Qzu4y8sJTYX8ZkIGM2mC) | [China Bears](https://open.spotify.com/artist/3ygItx4xOyxkoaAZD9sc19) | [Total Communication Breakdown](https://open.spotify.com/album/4tcLCnES9yNLzOrT4RmwdF) | 3:56 | 2024-06-14 | 2024-07-13 |
 | [Trying](https://open.spotify.com/track/6W5THMvSEH6WMj2vwqWZTz) | [Saloon Dion](https://open.spotify.com/artist/5jyDRjrVTg2M6uHOQF5MhU) | [Trying](https://open.spotify.com/album/6BZuOzwSbvmWQFU6FXO1YL) | 3:33 | 2024-08-16 |  |
 | [TV Car Chase](https://open.spotify.com/track/5uyfpJr8GauOTQh3F3hsON) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [TV Car Chase](https://open.spotify.com/album/60qSBnX3GYDRVgeuzN66Pn) | 4:44 | 2024-07-12 | 2024-08-17 |
 | [Under The Table](https://open.spotify.com/track/351TRYuSxdSyiStrTtq97p) | [Balancing Act](https://open.spotify.com/artist/6ZHfuZhV3q15jxpOY8S1m6) | [Under The Table](https://open.spotify.com/album/3VQZlED22fi0QsJwVj3WfW) | 2:59 | 2024-08-16 |  |
 | [Unreal](https://open.spotify.com/track/1TsuSjYjmJpfk6vQ8Ul1Eh) | [Cardinals](https://open.spotify.com/artist/0qmHQLCyJrgGFtqLDSRHJ4) | [Unreal](https://open.spotify.com/album/2LRXY4nFzm45nyViByPHkW) | 3:03 | 2024-06-14 | 2024-07-13 |
+| [Wearing Faces](https://open.spotify.com/track/1VBuq23g66KF7AWQwDxlfg) | [Human Interest](https://open.spotify.com/artist/7whqwnuFmUxP5ZdBzyFsKc) | [Smile While You're Losing](https://open.spotify.com/album/33I0BwTfQ5VM5UZr1ob7XZ) | 3:22 | 2024-09-06 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

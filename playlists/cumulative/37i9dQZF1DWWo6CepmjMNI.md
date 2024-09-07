@@ -2,15 +2,15 @@
 
 ### [อินดี้ เทสดี Indie Tasty](https://open.spotify.com/playlist/37i9dQZF1DWWo6CepmjMNI)
 
-> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: SOBBOY
+> เพลงอินดี้ใหม่และดีที่เราอยากแนะนำให้คุณฟัง\. ศิลปิน: MAMIO
 
-90 songs - 6 hr 31 min
+93 songs - 6 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [0](https://open.spotify.com/track/0r2bwvtnNhPqfvowmoNLEX) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X), [HARTBEAT](https://open.spotify.com/artist/3rrcZ4qOsOshvqlSIlK36q) | [0](https://open.spotify.com/album/4V03QskDroW8KDabI6kLYS) | 3:52 | 2024-06-21 | 2024-08-10 |
 | [1](https://open.spotify.com/track/7C0iw6P8SwYz8FJrN7SGaj) | [lnwza0072535](https://open.spotify.com/artist/0Ksnd5mm5rWFvWbptJFCFx) | [1](https://open.spotify.com/album/0o0qppFXlAQbE7PhAT5syJ) | 4:00 | 2024-08-02 | 2024-08-24 |
-| [Don’t You Go feat.Gong Thepvipat](https://open.spotify.com/track/0lNpn1MG96EgHjs5tDlFnR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM), [Gong Thepvipat](https://open.spotify.com/artist/745jmibDjv02om1m5ln0oC) | [Don’t You Go](https://open.spotify.com/album/2vZwyxOHn75WzVPqux1mhB) | 3:23 | 2024-06-21 |  |
+| [Don’t You Go feat.Gong Thepvipat](https://open.spotify.com/track/0lNpn1MG96EgHjs5tDlFnR) | [Imhavingabadday.](https://open.spotify.com/artist/4ACnqbQTbfsHBV5XPVFjdM), [Gong Thepvipat](https://open.spotify.com/artist/745jmibDjv02om1m5ln0oC) | [Don’t You Go](https://open.spotify.com/album/2vZwyxOHn75WzVPqux1mhB) | 3:23 | 2024-06-21 | 2024-09-07 |
 | [Drowning Leaf](https://open.spotify.com/track/76dipWHfhzdJ0EH8WYVImp) | [Flowers For Daryl](https://open.spotify.com/artist/7juHNCQiSAGwJNbvDch2FM) | [Drowning Leaf](https://open.spotify.com/album/6CYGKwZEdDX2o4j3VwJmMR) | 4:49 | 2024-06-28 | 2024-07-06 |
 | [How Are U?](https://open.spotify.com/track/31d7yUJB75GOVgMDDiqoIt) | [Eleven](https://open.spotify.com/artist/2CdDqxKkNoPOVaipDo9rBN), [Varis](https://open.spotify.com/artist/53DTvTbpR2jK1KUrR13431) | [Don't Wanna Lose "U"](https://open.spotify.com/album/1avLfjuM8CQMIhGogDksw3) | 4:43 | 2024-06-21 |  |
 | [Jinna](https://open.spotify.com/track/4sTpyVCItKsKf9yduwZMIF) | [PLASUI PLASUI](https://open.spotify.com/artist/5sL9SQbnub24DHQ2gITtEX) | [Jinna](https://open.spotify.com/album/1tjZtHV3wJuaeMgMouIkQ2) | 4:18 | 2024-06-28 | 2024-08-03 |
@@ -41,6 +41,7 @@
 | [ถ้าเธอต้องไป](https://open.spotify.com/track/0sfYqbTSE8OWu8ZzcLHlKF) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ถ้าเธอต้องไป](https://open.spotify.com/album/6Eg48wAsh9LdmHDoZvbebA) | 4:11 | 2024-06-21 | 2024-07-20 |
 | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/track/2xGoojl0EEQW0dvrJNUtQi) | [FRONGNTC](https://open.spotify.com/artist/473j8XAhQml9Te4xvm2q3j) | [ถ้าเราจากกันด้วยดี](https://open.spotify.com/album/5lennoMOBZbKonOdVZQoWd) | 2:59 | 2024-08-23 |  |
 | [ถ้าไม่อยากให้ฉันเสียใจ \(Gone\)](https://open.spotify.com/track/72lDaQUobAhzEcOXR4dHdL) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [When you cry, I cry](https://open.spotify.com/album/5XhRRYSmXmx6oEHgJM72vk) | 4:39 | 2024-07-05 | 2024-07-27 |
+| [ทางหนีไป](https://open.spotify.com/track/5tB7mKJL5Jvgny7c8NNa2u) | [Rosette](https://open.spotify.com/artist/6SEpVjvHFU9KqfS9p0Cvnc) | [ทางหนีไป](https://open.spotify.com/album/332m7zrV4LtO0nv4XXlNsS) | 5:26 | 2024-09-06 |  |
 | [ทุกครั้งที่สบตา](https://open.spotify.com/track/1gihnuYvGbRVgxrRmwgAey) | [BitterSweet](https://open.spotify.com/artist/01rltm3r7dWeRlV79wmaWG) | [ทุกครั้งที่สบตา](https://open.spotify.com/album/2yhWcMFw7i2KlVNVQu25ua) | 4:04 | 2024-06-21 |  |
 | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/track/1IF3bh0aBRWlDnmRl5j0QQ) | [SYDNEYS](https://open.spotify.com/artist/68cA9ofNRTwVfctRHR67q8) | [นั่นแหละคือทั้งหมดที่ฉันมี](https://open.spotify.com/album/0HVjrqXzvmAziz7OCo5HlZ) | 3:35 | 2024-06-21 |  |
 | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/track/4jYiT4XFeQVeiiIsiAHPVj) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [บุหรี่ซองเดิมมวนสุดท้าย](https://open.spotify.com/album/69GsOaMLAnbrJLAXzRcXGT) | 4:38 | 2024-08-09 |  |
@@ -52,6 +53,7 @@
 | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/track/6wELNCuVcZVRHs2PfvGaxq) | [ROUSE](https://open.spotify.com/artist/42wCcg6q3NRhi0vQQ7JvNB) | [ภาพวันโหดร้าย \(Why?\)](https://open.spotify.com/album/7Cdw5PP56ZeW8vbIh4AuT1) | 5:28 | 2024-06-21 |  |
 | [ภาพแทนใจ](https://open.spotify.com/track/5GU4qd4u4JisdNvm91z4ID) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [ภาพแทนใจ](https://open.spotify.com/album/2gxVX0out0vHNbQmrjwy2w) | 4:31 | 2024-06-21 | 2024-08-10 |
 | [มอบดอกไม้ \(one date\)](https://open.spotify.com/track/1J4aLl39aBpfsR8M7p0VFx) | [PAKBUNG](https://open.spotify.com/artist/5GREsJHsL3GncdQgtfHLJq) | [มอบดอกไม้ \(one date\)](https://open.spotify.com/album/5B0qar4CUdf5ASjXlYDgjP) | 3:16 | 2024-07-19 | 2024-08-03 |
+| [มายา \(Maya\)](https://open.spotify.com/track/1Cem1uvGhTYu3JB9uaaFi2) | [MAMIO](https://open.spotify.com/artist/3QZuZCQ3xF6bfUUD8or3vU) | [มายา \(Maya\)](https://open.spotify.com/album/4hfbSH6ZwMdvx6ZmGcj8ZV) | 3:27 | 2024-09-06 |  |
 | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/track/1J3iDnjS2TFCfWYVSh7F18) | [TWODAYS](https://open.spotify.com/artist/7ao1NtUJbfKxbjDztE0nFQ) | [ยังคงอยู่ \(Stay\)](https://open.spotify.com/album/68HaaheRhVVNkDilm5qE7A) | 4:56 | 2024-06-21 |  |
 | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/track/5jJt7NSLkYSB2g4j5bqf2P) | [Planfor?](https://open.spotify.com/artist/4QT8ZUEK4FXBFOgNOLvxoQ) | [ยินดีที่ได้จาก\(ลา\)](https://open.spotify.com/album/5ejjRhYbOurcyaGkstwjC0) | 4:56 | 2024-06-28 | 2024-07-06 |
 | [ยิ้มเธอ\(Still\)](https://open.spotify.com/track/19C1zQ4ChUqYzA17q7kexu) | [RAINCOVTS](https://open.spotify.com/artist/0Tf3BzzpgucxvgYn2nvD94) | [ยิ้มเธอ\(Still\)](https://open.spotify.com/album/0CH79nEW5Cq2epIlOyrShj) | 3:49 | 2024-06-21 | 2024-08-31 |
@@ -59,6 +61,7 @@
 | [รู้ได้ไงว่าไม่คิดถึง \(nostalgia\)](https://open.spotify.com/track/2acaYxjO80y9TfRTqytenB) | [WORRX](https://open.spotify.com/artist/50VGLmwFlxj5vehNFmMc9l), [Pumpkins At Alaska](https://open.spotify.com/artist/0t8SCeZxq3k0MrqlvBdyJv) | [from time to time](https://open.spotify.com/album/0QF3MC2PVQg0BeBKZS0Hzn) | 4:28 | 2024-06-21 |  |
 | [ลมฝน \(By Your Side\)](https://open.spotify.com/track/1oNSDOwAjJUxFLQy2z5OcH) | [KEEPBOYS](https://open.spotify.com/artist/3ewGk2veXsWFB4d5x5KXLx) | [ลมฝน \(By Your Side\)](https://open.spotify.com/album/5E2cMAXwpBCYRMGaAWBVIV) | 4:39 | 2024-06-28 | 2024-08-24 |
 | [ลมหนาว \(Winter wind\)](https://open.spotify.com/track/3vETn8UpNq9P3JSjqYYjvF) | [aDawn](https://open.spotify.com/artist/37qCVJmPjeXQlqO1bY5wEb) | [ลมหนาว \(Winter wind\)](https://open.spotify.com/album/6knmtnkVOzLgqtAiWDciN4) | 5:12 | 2024-06-21 |  |
+| [วันวานยังหวานอยู่](https://open.spotify.com/track/2d78c1cdCYSZx8jdh3sAuH) | [nearbychair](https://open.spotify.com/artist/52THB7FifPvAgjfk4JOqdG) | [วันวานยังหวานอยู่](https://open.spotify.com/album/1LHO0EMowXhPkRj5H6q9aq) | 5:10 | 2024-09-06 |  |
 | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/track/54Up0c46YsjdsS0xYfdIjZ) | [Banana Jogging](https://open.spotify.com/artist/2Y1efsJI1aQw1subyVEW8W) | [ว่างเปล่า \(Me On The Road\)](https://open.spotify.com/album/0a5GBgOBrke7E4NNVlxbqb) | 3:48 | 2024-08-02 | 2024-08-10 |
 | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/track/2lNN1td6q6EBa05iof1zFl) | [tAH AND FRIENDS](https://open.spotify.com/artist/13jk6hRIJYbm1jzcPlFIp2) | [สักวันจะกลายเป็นฝน \(It will rain\)](https://open.spotify.com/album/6R9NfMpZdUfTQZnQn60UWS) | 4:20 | 2024-06-21 |  |
 | [หนี \(run again\)](https://open.spotify.com/track/13GHCppwVLxFsNZKu0bcjh) | [Story and Feel.](https://open.spotify.com/artist/3LhfrnpxivRln0UZrwptBe) | [หนี \(run again\)](https://open.spotify.com/album/1EwGe8ID4l7iEG95HPwCCG) | 4:44 | 2024-06-21 |  |
@@ -78,7 +81,7 @@
 | [เมื่อมันสายไป](https://open.spotify.com/track/3SAoSkEcPRmtgCtTxyTHPe) | [Dumb.Rong](https://open.spotify.com/artist/7wI6vCvzp0run9phNqu4ua) | [เมื่อมันสายไป](https://open.spotify.com/album/0JQW5yBGPcS8PGcv7viPmd) | 4:56 | 2024-06-21 | 2024-07-27 |
 | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/track/1gyxasKOAUpWJYiL7hp9UQ) | [pOd](https://open.spotify.com/artist/3ZEGtVa1KqQuV0KfZJYnyQ), [Tuey Mary James](https://open.spotify.com/artist/7jgKL0O8B5dWb4sVDHINnb) | [เรื่องราวกับใครคนหนึ่ง\(Erstwhile\)](https://open.spotify.com/album/7Ecml94MuK1wscTGhB0vbT) | 4:26 | 2024-07-26 |  |
 | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/track/2x8jP9zxcEtNKcZD8g5LnC) | [LAILIN](https://open.spotify.com/artist/28MWIedKniSIpOAit8n8kh) | [เรื่องเล่าของนายพระจันทร์ \| Luna](https://open.spotify.com/album/4wLs167rEMpxVaIHp16TCm) | 5:22 | 2024-06-21 |  |
-| [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 |  |
+| [เลิกกันมั้ย](https://open.spotify.com/track/4KQjNIhqDF4Gq3mr0bz5n0) | [Driver Boy](https://open.spotify.com/artist/1JM6CtpAcTwOYTYlya2wKi) | [เลิกกันมั้ย](https://open.spotify.com/album/4gAgb61C6W03LgiPQ9pkcu) | 5:02 | 2024-06-21 | 2024-09-07 |
 | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/track/4Miqyv9ecik7CkUjoCQSj7) | [vavava](https://open.spotify.com/artist/6506cUJ2eosNoizZbvDRFu) | [แกเคยสัญญาว่าจะมาด้วยกันใหม่](https://open.spotify.com/album/4F6w0JDPOzEBmsZfZDhshe) | 7:24 | 2024-06-21 |  |
 | [แค่เพียงบังเอิญ](https://open.spotify.com/track/1yojnSiavtYx6byEbWOMsX) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [แค่เพียงบังเอิญ \(Nostalgia\)](https://open.spotify.com/album/54U3Bnqm294T63Lt6SZ3P8) | 4:28 | 2024-06-21 |  |
 | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/track/6xUpgdaBkxFot3bhoT1BiW) | [Snowman Listen](https://open.spotify.com/artist/31jtvjImeB55ztAELOvu0y) | [แตกสลายเพราะความทรงจำ](https://open.spotify.com/album/1dy7TvVvfVdcVrzFY2e2Ad) | 4:09 | 2024-06-21 |  |
@@ -95,7 +98,7 @@
 | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/track/4XTL8HO23v0GJL4GH2zhpa) | [Romancerr](https://open.spotify.com/artist/5koh7W7IuiYkpgUt3Zz19X) | [ให้เธอเป็นแกนซีกโลกใต้ที่เอียงเข้าหาดวงอาทิตย์](https://open.spotify.com/album/6KInBVDs388QnNiFrcj97Y) | 3:42 | 2024-06-21 |  |
 | [ให้เราลาจากกัน](https://open.spotify.com/track/7iTEtdRrFCy2FczyQ5HRK0) | [CURS](https://open.spotify.com/artist/6Io9kkkF2CDodp2FoQmGtV) | [ให้เราลาจากกัน \(Leave\)](https://open.spotify.com/album/7DIhrVbrxIlKZb6fMtbDWF) | 4:09 | 2024-06-21 |  |
 | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/track/4le5G5RlMj1YWygXTinvRx) | [mute.](https://open.spotify.com/artist/1jRRNPiXJyFPwlr6VZsFoQ) | [ได้รึเปล่า? \(Crush\)](https://open.spotify.com/album/3zZ4G3SpnWIfl3MxG85km0) | 3:48 | 2024-06-21 |  |
-| [ไม่อยากให้ใครรู้](https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ไม่อยากให้ใครรู้](https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC) | 3:02 | 2024-08-23 |  |
+| [ไม่อยากให้ใครรู้](https://open.spotify.com/track/2kldTgMUVzMVGctA5VjNle) | [242](https://open.spotify.com/artist/4tlQuNFUioZJLAdhCtCRkA) | [ไม่อยากให้ใครรู้](https://open.spotify.com/album/1BC5GiuLLAZ1TkbfNiHWeC) | 3:02 | 2024-08-23 | 2024-09-07 |
 | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/track/3qBz1hhoPZeow1fkyYf96Z) | [Famoso](https://open.spotify.com/artist/2Cs0wwloLkC20bTIiVFDxy) | [ไม่เคยเลือนหาย \(Bygone days\)](https://open.spotify.com/album/60K7zt5spofDT1JaJotwa0) | 5:18 | 2024-06-21 |  |
 | [ไม่เหมือนก่อน](https://open.spotify.com/track/3Abjyw5bTmfsi80k5ZO3T3) | [lostbeans](https://open.spotify.com/artist/0PBEayF5HRtXCfElequ6Ld) | [ไม่เหมือนก่อน](https://open.spotify.com/album/6bJ6JFCFWzwt1FGZEJSZQD) | 4:14 | 2024-08-23 |  |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 
 > Le meilleur de la chanson française actuelle\. Photo : Coline Rio
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,763 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,787 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIykNHRogOx.md) - [plain]
 | 36 | [À l'évidence](https://open.spotify.com/track/159HSchugulB4yPCx1SaI1) | [Clou](https://open.spotify.com/artist/7DPzuksj4fnGIb4F9dVswN) | [À l'évidence](https://open.spotify.com/album/2AYSNL50EMcJssFacKZdZn) | 2:45 |
 | 37 | [La Romance](https://open.spotify.com/track/0ls9BOrEHJUOPftepjSuN8) | [Ronnie](https://open.spotify.com/artist/6a8uf5LXFZ22BzKMpU9YFz) | [La Romance](https://open.spotify.com/album/16QXt3XzV9u3atxLK2sWSK) | 3:16 |
 | 38 | [Sémaphore](https://open.spotify.com/track/0DJsJJ34nrznOTyI6Qvmko) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Sémaphore](https://open.spotify.com/album/3qjdU74qTtATmlXFV0B9PY) | 2:44 |
-| 39 | [Le temps qui passe sans moi](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 |
+| 39 | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/track/4d4QtDnYE7wwiAHQcYDylg) | [Dominique A](https://open.spotify.com/artist/6IoS9ojtxKCL1tW5VL1buI) | [Le temps qui passe sans moi \- Version symphonique](https://open.spotify.com/album/4tlu9XTFmBkk10T2ZoLa1E) | 3:56 |
 | 40 | [Seabed Eden \- French version](https://open.spotify.com/track/4kUoNrICwfuSDCCUO8vAuJ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Seabed Eden \(French version\)](https://open.spotify.com/album/4EOmYxyUv2s6xdglxXdv0Z) | 4:04 |
 | 41 | [Hauteurs](https://open.spotify.com/track/02r4REGMZ3JPjKL43w5pe0) | [Blondino](https://open.spotify.com/artist/4FtBAD2tZ7yl3Dap7L34d8) | [Hauteurs](https://open.spotify.com/album/2a09u0udJDsrcjkSMhGndq) | 3:20 |
 | 42 | [Tu parles trop](https://open.spotify.com/track/1uzdxvQmlPJDOqxgHKL9IR) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Rêver](https://open.spotify.com/album/5I3TWGhKoXOMmHodyMH2YV) | 2:49 |

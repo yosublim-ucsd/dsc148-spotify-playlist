@@ -952,7 +952,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 373821,
       "name": "Funk 55",
       "url": "https://open.spotify.com/track/5CD3ImPPdCW8QFQkjo5TXt"
@@ -1193,6 +1193,32 @@
     },
     {
       "album": {
+        "name": "Numbers Didn't Lie",
+        "url": "https://open.spotify.com/album/02041eZmy9EtIJAyc0wcFf"
+      },
+      "artists": [
+        {
+          "name": "Nkulee501",
+          "url": "https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75"
+        },
+        {
+          "name": "Skroef 28",
+          "url": "https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F"
+        },
+        {
+          "name": "Amukelani M",
+          "url": "https://open.spotify.com/artist/6acpaT0NzgAvsLOB4dmaZV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399363,
+      "name": "Guitar Man (feat. Amukelani M)",
+      "url": "https://open.spotify.com/track/6FRLrkIn0LYUX7whLWVyoA"
+    },
+    {
+      "album": {
         "name": "GUPTA",
         "url": "https://open.spotify.com/album/5O4ZXfp5cjeK0ClZzjRT3X"
       },
@@ -1318,6 +1344,36 @@
       "duration_ms": 385714,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud"
+    },
+    {
+      "album": {
+        "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
+        "url": "https://open.spotify.com/album/6nGmHmof2Zhm9WL36saQN9"
+      },
+      "artists": [
+        {
+          "name": "EeQue",
+          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
+        },
+        {
+          "name": "Sfarzo Rtee",
+          "url": "https://open.spotify.com/artist/2kzWkuJM5Na5hINP7akcJj"
+        },
+        {
+          "name": "Wonder Flawz",
+          "url": "https://open.spotify.com/artist/4MD1QDssyQYOuz7oGuQ702"
+        },
+        {
+          "name": "Khalil Harrison",
+          "url": "https://open.spotify.com/artist/2zq3Zm57y4TxZRbMZ05CGp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 382334,
+      "name": "Hanyane Fela (feat. Wonder Flawz & Khalil Harrison)",
+      "url": "https://open.spotify.com/track/1yoomI2efiMQCmAHr2LjWx"
     },
     {
       "album": {
@@ -3162,7 +3218,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 279871,
       "name": "QOBA - DJ Cleo Remix",
       "url": "https://open.spotify.com/track/5rMDM8kmuB6awQdLIN3VsN"
@@ -3490,10 +3546,44 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 375530,
       "name": "Shuffle",
       "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
+    },
+    {
+      "album": {
+        "name": "Sihamba Sonke",
+        "url": "https://open.spotify.com/album/4ghwUAsbM38i8zcDRiflmX"
+      },
+      "artists": [
+        {
+          "name": "Kammu Dee",
+          "url": "https://open.spotify.com/artist/4RZQX1vkRjewMYodn5wZ9F"
+        },
+        {
+          "name": "Thabza Tee",
+          "url": "https://open.spotify.com/artist/5JyEgson2YVsJT0fNGroWn"
+        },
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Felo Le Tee",
+          "url": "https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV"
+        },
+        {
+          "name": "Rhythm Tee",
+          "url": "https://open.spotify.com/artist/3JCdOs3M7ygPSMQAqFZUfE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 416653,
+      "name": "Sihamba Sonke",
+      "url": "https://open.spotify.com/track/79lSg4HBwmulMQmKieeCU6"
     },
     {
       "album": {

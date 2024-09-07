@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ\">Run Into Waves</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL?si=1E2_gp6ZSxKg1sJ9d9Nhdg\">Ruff Majik</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -185,6 +185,24 @@
     },
     {
       "album": {
+        "name": "Adrenalien",
+        "url": "https://open.spotify.com/album/2q1PhrnKgBP10Rvx2CdPjh"
+      },
+      "artists": [
+        {
+          "name": "veervol",
+          "url": "https://open.spotify.com/artist/6S9Gj59mCaPhVk0LzhCaaE"
+        }
+      ],
+      "date_added": "2024-08-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252500,
+      "name": "Adrenalien",
+      "url": "https://open.spotify.com/track/6HvUCWnri9a7LKSJ7wNJ3W"
+    },
+    {
+      "album": {
         "name": "Rewind",
         "url": "https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 216626,
       "name": "Alone At Last",
       "url": "https://open.spotify.com/track/0RAg0cxBDe3QyVs3omhabP"
@@ -1180,7 +1198,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 161813,
       "name": "Burn Out",
       "url": "https://open.spotify.com/track/4wqprYlbbIwIucBMEJHwSY"
@@ -3686,7 +3704,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177713,
       "name": "Hoop (In Die Donker)",
       "url": "https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8"
@@ -8183,6 +8201,24 @@
     },
     {
       "album": {
+        "name": "The Wire",
+        "url": "https://open.spotify.com/album/1lsx1zOJrWs99uiwruqQtM"
+      },
+      "artists": [
+        {
+          "name": "Run Into Waves",
+          "url": "https://open.spotify.com/artist/0vZl5tPNanGs7dSf95swcJ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167553,
+      "name": "The Wire",
+      "url": "https://open.spotify.com/track/6Di0vZd85nU8V9K2e7fHd9"
+    },
+    {
+      "album": {
         "name": "There She Goes",
         "url": "https://open.spotify.com/album/0kH45YipMAXdwmvqAmo71u"
       },
@@ -8758,7 +8794,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 179426,
       "name": "VRY WIL ONS WEES",
       "url": "https://open.spotify.com/track/1QQVztQfIgz8Yfp8sttEtY"
@@ -8834,6 +8870,24 @@
       "duration_ms": 238586,
       "name": "Wasted Time",
       "url": "https://open.spotify.com/track/7EE7O5tuOKrlnhALLnkrW7"
+    },
+    {
+      "album": {
+        "name": "Wasted Youth",
+        "url": "https://open.spotify.com/album/7imWELlUcoALiDL1L67PcV"
+      },
+      "artists": [
+        {
+          "name": "Ruff Majik",
+          "url": "https://open.spotify.com/artist/0XFfgHElyw0xANJDuQrHyL"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247553,
+      "name": "Wasted Youth",
+      "url": "https://open.spotify.com/track/0XD9UC6nzrScLTJ6tfQWAi"
     },
     {
       "album": {
@@ -9138,6 +9192,24 @@
       "duration_ms": 193542,
       "name": "Woman of My Own Damn Mind",
       "url": "https://open.spotify.com/track/6F6gMyGT1L3uCEgaIIT8Nl"
+    },
+    {
+      "album": {
+        "name": "Worcesteriet",
+        "url": "https://open.spotify.com/album/6juO9wYjrRmVO0tBKiJubm"
+      },
+      "artists": [
+        {
+          "name": "Elle E",
+          "url": "https://open.spotify.com/artist/1nDFaBV4uU4q5ytMeIoj1C"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192934,
+      "name": "Worcesteriet",
+      "url": "https://open.spotify.com/track/02s2vgdbIASu8gJagFycWu"
     },
     {
       "album": {

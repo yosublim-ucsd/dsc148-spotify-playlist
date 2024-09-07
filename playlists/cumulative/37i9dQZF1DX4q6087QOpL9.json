@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205167,
       "name": "Dangerous Vibes - Emmaculate Remix Edit",
       "url": "https://open.spotify.com/track/1zdXjvO3NQkz0fljwj3i5W"
@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 435520,
       "name": "Games We Play",
       "url": "https://open.spotify.com/track/3UNEEwqVInIFTCZBS46EfC"
@@ -2524,7 +2524,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 526800,
       "name": "Holiday - Kenny Dope Main Pass",
       "url": "https://open.spotify.com/track/5sNqQYKPuIUvipXRKWzOc8"
@@ -4884,6 +4884,32 @@
       "duration_ms": 285617,
       "name": "Soul Sounds - Mixed",
       "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
+    },
+    {
+      "album": {
+        "name": "Soul Ties - Demarkus Lewis Remix",
+        "url": "https://open.spotify.com/album/25kLciH2tdD08gGU81Pm9Z"
+      },
+      "artists": [
+        {
+          "name": "Raw Underground",
+          "url": "https://open.spotify.com/artist/3ythKjPqgCKhy9g73pwPwn"
+        },
+        {
+          "name": "Igor Gonya",
+          "url": "https://open.spotify.com/artist/4jvUMlX58g9OskhINvHwgF"
+        },
+        {
+          "name": "Demarkus Lewis",
+          "url": "https://open.spotify.com/artist/68fzfWiT3Mlyy93zT2mnyl"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236153,
+      "name": "Soul Ties - Demarkus Lewis Remix",
+      "url": "https://open.spotify.com/track/0Xv29YlXT4ffiz6vqFS5de"
     },
     {
       "album": {

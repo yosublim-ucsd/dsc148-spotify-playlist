@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 
 > very mindful, very demuuuuure ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,261,400 likes - 90 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,261,434 likes - 90 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4KeocBrdbJg.md) - [plain]
 | 28 | [Girl, so confusing featuring lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Girl, so confusing featuring lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 |
 | 29 | [Мой мармеладный \(Я не права\)](https://open.spotify.com/track/1Hg0KhBCuME4PgsTYMBK9y) | [Katya Lel](https://open.spotify.com/artist/3NguMMTDTItRbe2E2PZrJ2) | [Джага\-джага](https://open.spotify.com/album/5bqf6dvtEfpmc9IqM2wSLz) | 3:43 |
 | 30 | [MONTAGEM VOZES PROFUNDAS \- Ultra Slowed](https://open.spotify.com/track/3o3dIYuLIZfAO2kXP3eXrN) | [DJ MAXZZ](https://open.spotify.com/artist/3rX0drWPVa50yFG3HqzX0T), [DJ JL3 DA ZN](https://open.spotify.com/artist/68J0b3Hj9aurxWUiy9FUMu), [DJ CD 011](https://open.spotify.com/artist/33wh7J44m0CrsAFj2LuRk2) | [MONTAGEM VOZES PROFUNDAS \(Remixes\)](https://open.spotify.com/album/7AjQV13ch86ps6TKjBsuFS) | 2:24 |
-| 31 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [Dj Fenix](https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
+| 31 | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ) | [DJ BRYAN 7](https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m), [DJIEGO](https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo), [Maxximo Dj](https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4), [Mc M4](https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4) | [O Melhor no Que Faz 3.0 \[Slowed\]](https://open.spotify.com/album/1Wr2LyF0JSHHPv9nGXgFTN) | 2:24 |
 | 32 | [Mi Kryptonita](https://open.spotify.com/track/1UL2Sn9KX8StSDOp8ZEAOC) | [Doble ONE Flow Letal](https://open.spotify.com/artist/25OaNybC8G6g5KkAmthQtX) | [Talento de Vida](https://open.spotify.com/album/6qxrH0TOwnCuxvj4pvmImH) | 3:08 |
 | 33 | [Burning Love](https://open.spotify.com/track/7zMUCLm1TN9o9JlLISztxO) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis \(Fool\)](https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN) | 2:50 |
 | 34 | [Move](https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Orso](https://open.spotify.com/artist/2yyaNPcdxZcn4iutCcLMaC), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT) | [Move](https://open.spotify.com/album/4M8ThNHbNjda2cPwL8XZHS) | 2:57 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: Wegh
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,381,305 likes - 49 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,381,242 likes - 49 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 8 | [Arama Bir Daha](https://open.spotify.com/track/61atU9vDAWG3le4fUAcvXw) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Arama Bir Daha](https://open.spotify.com/album/6Ozc5ZulzkKbUGOv6X0wVa) | 2:26 |
 | 9 | [ESC\*BAR](https://open.spotify.com/track/6kWF1fWqA2ZuWn70TQvtmQ) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [ESC\*BAR](https://open.spotify.com/album/2tTgc2Nt5VOExrRYybuZuI) | 2:16 |
 | 10 | [DOMDOM](https://open.spotify.com/track/2gSRr7OuGdZ960VndIDgGS) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66) | [DOMDOM](https://open.spotify.com/album/7qBK1pzSfq9fEXvQmVdT0X) | 2:13 |
-| 11 | [Yerli Plaka](https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Yerli Plaka](https://open.spotify.com/album/2CNgbUAIwEufx0nM0P6wxk) | 2:48 |
+| 11 | [Yerli Plaka](https://open.spotify.com/track/1kI1NiHbVZVmYJA78k0IAy) | [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2), [Berk Erdemanar](https://open.spotify.com/artist/6JDTOIram8oMZVaF3GZPyw) | [Yerli Plaka](https://open.spotify.com/album/2CNgbUAIwEufx0nM0P6wxk) | 2:48 |
 | 12 | [Değişmene Rağmen](https://open.spotify.com/track/4myGkZkVBRhBgD43CJxKTp) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Değişmene Rağmen](https://open.spotify.com/album/3hWHNYRxeve7LZzwW4i3dz) | 3:05 |
 | 13 | [Bu Dünyada](https://open.spotify.com/track/3XCT2hlGuBT14XHx6zhybv) | [Sansar Salvo](https://open.spotify.com/artist/6hxb4rGrYXtrAZbUK7uzt9) | [Sergi \- EP](https://open.spotify.com/album/7zO8Ogy2NJBERCOehm8Bfe) | 2:26 |
 | 14 | [Müşkül](https://open.spotify.com/track/6OZoesRPfDRImpsKSH3jJP) | [Allame](https://open.spotify.com/artist/25FdziPY37yQIRXSk7ZUmS) | [Müşkül](https://open.spotify.com/album/0HYzOGKPaiMSVvwesU9tkz) | 1:50 |

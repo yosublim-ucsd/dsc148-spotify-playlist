@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex rhythms and virtuosic playing\. Cover: Chick Corea
 
-167 songs - 16 hr 7 min
+168 songs - 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chromazone](https://open.spotify.com/track/6UefAshHsqPdJPhvA8FG2D) | [Mike Stern](https://open.spotify.com/artist/3zX0EMvB00JzxnRi5EIICP) | [Time In Place](https://open.spotify.com/album/0DmJ9xfIHt78fhUhceavmS) | 7:42 | 2021-02-12 |  |
 | [close tail](https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA) | [POLYPLUS](https://open.spotify.com/artist/1Ck2bU2m099okvufR8pSOa), [カワイヒデヒロ](https://open.spotify.com/artist/5Omh9eZovZzTmHfnzlmMJM) | [close tail](https://open.spotify.com/album/2dAVyJIPNLM1MOS1XIuDSA) | 4:49 | 2022-04-29 |  |
 | [Coffee Break Is Over](https://open.spotify.com/track/6K3g2CecVzfknsgj4V1NxH) | [Dirty Loops](https://open.spotify.com/artist/5Apl0wL4OwNUDYkx69rMDQ) | [Phoenix](https://open.spotify.com/album/1jZLSW3sm0wWumdXgHtLMG) | 3:09 | 2021-02-12 |  |
+| [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 | 2024-09-06 |  |
 | [Core](https://open.spotify.com/track/2KAoF7tEfOercmf6kwvK6k) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Borderline](https://open.spotify.com/album/2757IqIKvgQcKtAxzY3LKM) | 3:29 | 2021-02-12 |  |
 | [Dahaga](https://open.spotify.com/track/0KbqA51Q4NcxY1zym7VvuE) | [Erwin Gutawa](https://open.spotify.com/artist/0WlOmBhUcwcMtzJd0GLwWN) | [Dahaga](https://open.spotify.com/album/50qzgwXtfVQE1ZrqjRszsD) | 4:49 | 2022-05-20 |  |
 | [Decoration \- Alternative Version](https://open.spotify.com/track/2fQiesYvRRvU26T9yskrQd) | [Varre Vartiainen](https://open.spotify.com/artist/2XhdWDg4TZrfKrGb3dg3QG) | [Almost Standards \(Doctoral Edition\)](https://open.spotify.com/album/1ptiBUZkgEzYmt3nElJbdb) | 6:34 | 2022-04-29 |  |
@@ -53,7 +54,7 @@
 | [Escher Sketch \(A Tale Of Two Rhythms\)](https://open.spotify.com/track/3TnEDH8VmiTsOcH20sxJ48) | [Michael Brecker](https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj) | [Now You See It ..\. \(Now You Don't\)](https://open.spotify.com/album/77yk9CqoyDTF9Tm8KcvMwo) | 5:26 | 2021-02-12 |  |
 | [Eternal Child](https://open.spotify.com/track/2MO9ARadiVqtM8TQ3dAAtC) | [Chick Corea Elektric Band](https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq), [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Eric Marienthal](https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Eye Of The Beholder](https://open.spotify.com/album/2gKaD7JZOgSNvTHHf7mrBG) | 4:51 | 2023-08-14 |  |
 | [Even Song](https://open.spotify.com/track/32gXohJoHWMrYnU9oj8GVU) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Jackets XL](https://open.spotify.com/album/3OeeKfK9hNDe57rF9FVI7u) | 8:23 | 2021-02-12 | 2024-04-19 |
-| [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 |  |
+| [Even Song](https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi) | [Yellowjackets](https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq), [WDR Big Band](https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu) | [Even Song](https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP) | 8:23 | 2021-02-12 | 2024-09-07 |
 | [Face First](https://open.spotify.com/track/2iuf8q0JzFh6oJdFYXsx1v) | [Tribal Tech](https://open.spotify.com/artist/4OmMxTxYbR4ZDSvw4H0RAz) | [Face First](https://open.spotify.com/album/2IEMGFWKMDb7AgPz6pIATf) | 7:04 | 2021-02-12 |  |
 | [Far And Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/track/7hUfeFl3SpwWli75e0VA1j) | [Benjamin Croft](https://open.spotify.com/artist/6DrVJByeJgHqJ7A3SsBnFE), [Frank Gambale](https://open.spotify.com/artist/61qjWk6PBpwXqSk4gmRuAC) | [Far and Distant Things \(feat\. Frank Gambale\)](https://open.spotify.com/album/39Opdt7XBmjgKFfbdlH8De) | 6:13 | 2021-08-06 | 2022-07-29 |
 | [Fire](https://open.spotify.com/track/3On2Z61FnTpoqwNwljhAqE) | [Alina Bzhezhinska](https://open.spotify.com/artist/4ziDIu5XdfA2rQpEAvs0BN), [HipHarpCollective](https://open.spotify.com/artist/22qVoqkMA3F9iviFEx4W5e) | [Reflections](https://open.spotify.com/album/7vm57UmS0tpc8zaAV0rSUR) | 7:10 | 2022-09-02 | 2024-04-19 |

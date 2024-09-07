@@ -1,6 +1,6 @@
 {
   "description": "Les plus grands tubes de vari\u00e9t\u00e9 fran\u00e7aise d'hier et d'aujourd'hui. Photo : C\u00e9line Dion",
-  "num_followers": 479912,
+  "num_followers": 479936,
   "original_name": "Culture Tubes",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
+        "name": "Sainte-Victoire",
+        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 194493,
+      "name": "La grenade",
+      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
         "name": "Debout les yeux ouverts",
         "url": "https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H"
       },
@@ -347,18 +363,18 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Sainte-Victoire",
-        "url": "https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy"
+        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
+        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Michel Berger",
+          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
         }
       ],
-      "duration_ms": 194493,
-      "name": "La grenade",
-      "url": "https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD"
+      "duration_ms": 282813,
+      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
+      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -395,22 +411,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Beaus\u00e9jour (Remasteris\u00e9 en 2002)",
-        "url": "https://open.spotify.com/album/0Y4vMNL3oLTxyWBBmIm0cA"
-      },
-      "artists": [
-        {
-          "name": "Michel Berger",
-          "url": "https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4"
-        }
-      ],
-      "duration_ms": 282813,
-      "name": "La groupie du pianiste - Remasteris\u00e9 en 2002",
-      "url": "https://open.spotify.com/track/496eQC5FPo3dmfNRXPcmps"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Rose des vents",
         "url": "https://open.spotify.com/album/7lYTg8CjV1DgyK3kY5LZTM"
       },
@@ -423,6 +423,38 @@
       "duration_ms": 182040,
       "name": "Si j'avais su",
       "url": "https://open.spotify.com/track/5POonRM9sjr0cFbXPIyN8Q"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "C'est d\u00e9j\u00e0 \u00e7a",
+        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+      },
+      "artists": [
+        {
+          "name": "Alain Souchon",
+          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+        }
+      ],
+      "duration_ms": 324906,
+      "name": "Foule sentimentale",
+      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "La vraie vie (Deluxe)",
+        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
+      },
+      "artists": [
+        {
+          "name": "Bigflo & Oli",
+          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Dommage",
+      "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -447,34 +479,34 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "La vraie vie (Deluxe)",
-        "url": "https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM"
+        "name": "Samedi soir sur la terre (Remastered)",
+        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
       },
       "artists": [
         {
-          "name": "Bigflo & Oli",
-          "url": "https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs"
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
         }
       ],
-      "duration_ms": 238146,
-      "name": "Dommage",
-      "url": "https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK"
+      "duration_ms": 278253,
+      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
+      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "C'est d\u00e9j\u00e0 \u00e7a",
-        "url": "https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5"
+        "name": "Repenti",
+        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
       },
       "artists": [
         {
-          "name": "Alain Souchon",
-          "url": "https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x"
+          "name": "Renan Luce",
+          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
         }
       ],
-      "duration_ms": 324906,
-      "name": "Foule sentimentale",
-      "url": "https://open.spotify.com/track/2W4ZxAHZAXOf6r65pCskGR"
+      "duration_ms": 197306,
+      "name": "La lettre",
+      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -499,22 +531,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Repenti",
-        "url": "https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q"
-      },
-      "artists": [
-        {
-          "name": "Renan Luce",
-          "url": "https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "La lettre",
-      "url": "https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Claudio Cap\u00e9o (Version deluxe)",
         "url": "https://open.spotify.com/album/4Og72Rk9pjJ1OULtNaBcA1"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 206373,
       "name": "Un homme debout",
       "url": "https://open.spotify.com/track/0OgXPbATscAIQscpu4QffP"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "Samedi soir sur la terre (Remastered)",
-        "url": "https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 278253,
-      "name": "Je t'aimais, je t'aime, je t'aimerai - Remastered",
-      "url": "https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Toi + Moi",
-        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
-      },
-      "artists": [
-        {
-          "name": "Gr\u00e9goire",
-          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
-        }
-      ],
-      "duration_ms": 182800,
-      "name": "Toi + Moi",
-      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "Kendji",
         "url": "https://open.spotify.com/album/1iddjUYhfMpjTVY5SQZxKm"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 167373,
       "name": "Andalouse",
       "url": "https://open.spotify.com/track/0fqlz0L5w16uQrELsFxTp0"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Toi + Moi",
+        "url": "https://open.spotify.com/album/32VFugqdmRt8N8csnrlnZc"
+      },
+      "artists": [
+        {
+          "name": "Gr\u00e9goire",
+          "url": "https://open.spotify.com/artist/1WycOcJCIRAH5xyzHXtp1E"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Toi + Moi",
+      "url": "https://open.spotify.com/track/1cl6UxttwMTjJXsdyMDUde"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -651,38 +651,6 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
-        "name": "Pour Un Flirt - Vol.1",
-        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
-      },
-      "artists": [
-        {
-          "name": "Michel Delpech",
-          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
-        }
-      ],
-      "duration_ms": 206160,
-      "name": "Pour un flirt",
-      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "M & J",
-        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Paradis",
-          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Joe le taxi",
-      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
         "name": "MESDAMES deluxe",
         "url": "https://open.spotify.com/album/6lZU65hX50fImkVKlSUdLh"
       },
@@ -719,6 +687,38 @@
       "duration_ms": 223333,
       "name": "Face \u00e0 la mer",
       "url": "https://open.spotify.com/track/4nz1v2ghmGRo3RTZKxaC3P"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "Pour Un Flirt - Vol.1",
+        "url": "https://open.spotify.com/album/4rjlNg6YeoR9JqMaWhFi71"
+      },
+      "artists": [
+        {
+          "name": "Michel Delpech",
+          "url": "https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p"
+        }
+      ],
+      "duration_ms": 206160,
+      "name": "Pour un flirt",
+      "url": "https://open.spotify.com/track/0RDUfBXGq7lhBAqlyu0UAy"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
+        "name": "M & J",
+        "url": "https://open.spotify.com/album/3ptx9VPjMyOjQzrNsvjLIc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Paradis",
+          "url": "https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Joe le taxi",
+      "url": "https://open.spotify.com/track/7nZCg1jgmXIjSBRifWkmaJ"
     },
     {
       "added_at": "2024-07-25 10:27:51",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-07-25 10:27:51",
       "album": {
+        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
+        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
+      },
+      "artists": [
+        {
+          "name": "France Gall",
+          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
+        }
+      ],
+      "duration_ms": 274626,
+      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
+      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
+    },
+    {
+      "added_at": "2024-07-25 10:27:51",
+      "album": {
         "name": "Alors regarde",
         "url": "https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 236840,
       "name": "D\u00e9jeuner en paix",
       "url": "https://open.spotify.com/track/6DFzpa0eHyEkvQ2oeewmA2"
-    },
-    {
-      "added_at": "2024-07-25 10:27:51",
-      "album": {
-        "name": "Tout pour la musique (Remasteris\u00e9 en 2004)",
-        "url": "https://open.spotify.com/album/0IePUOxaLDrCmaB6r7JyVl"
-      },
-      "artists": [
-        {
-          "name": "France Gall",
-          "url": "https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I"
-        }
-      ],
-      "duration_ms": 274626,
-      "name": "R\u00e9siste - Remasteris\u00e9 en 2004",
-      "url": "https://open.spotify.com/track/51BbACodhBnd9lBs2TI0YT"
     }
   ],
   "unique_name": "Culture Tubes",

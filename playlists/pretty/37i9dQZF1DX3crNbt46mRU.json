@@ -1,12 +1,12 @@
 {
-  "description": "This week's top new releases. ",
-  "num_followers": 40697,
+  "description": "This week's top new releases. Cover: Linkin Park",
+  "num_followers": 40742,
   "original_name": "New Music Friday Switzerland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztop4AAAAAAL6ro6jas9/AhRi8P3P5qr",
+  "snapshot_id": "ZtrMRAAAAACxly7lzaGDZxlTTNy+rves",
   "tracks": [
     {
       "added_at": "2024-09-05 22:00:00",
@@ -40,25 +40,9 @@
           "url": "https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca"
         }
       ],
-      "duration_ms": 206996,
+      "duration_ms": 207346,
       "name": "Gotham (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/2ceJa7d62wQ3eRBK589ALG"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Vent du Nord",
-        "url": "https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 145730,
-      "name": "Vent du Nord",
-      "url": "https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -583,7 +567,7 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Oh Man",
+        "name": "Oh man",
         "url": "https://open.spotify.com/album/3gRNqRNSkIghbTuwrpijif"
       },
       "artists": [
@@ -601,7 +585,7 @@
         }
       ],
       "duration_ms": 143804,
-      "name": "Oh Man",
+      "name": "Oh man",
       "url": "https://open.spotify.com/track/54idR8y69xUnLlRbsquSzk"
     },
     {
@@ -1267,7 +1251,7 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Save My Soul",
+        "name": "Save My Soul (feat. AMANZI)",
         "url": "https://open.spotify.com/album/1gQZ0qp0b9itiBh7VnRW5z"
       },
       "artists": [
@@ -1281,7 +1265,7 @@
         }
       ],
       "duration_ms": 153750,
-      "name": "Save My Soul",
+      "name": "Save My Soul (feat. AMANZI)",
       "url": "https://open.spotify.com/track/09SeFTIX9wjIPeDJokttb2"
     },
     {
@@ -1483,6 +1467,26 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Tu Loca",
         "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
       },
@@ -1495,6 +1499,30 @@
       "duration_ms": 190928,
       "name": "Tu Loca",
       "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "If I Fall - Music from the Motion Picture Transformers One",
+        "url": "https://open.spotify.com/album/1uEUKZdEGnqIXnLU3hJnjA"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "ARE WE DREAMING",
+          "url": "https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa"
+        }
+      ],
+      "duration_ms": 337506,
+      "name": "If I Fall - Music from the Motion Picture Transformers One",
+      "url": "https://open.spotify.com/track/3HkDOgyxSnO8XklAq8m0rX"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1779,6 +1807,26 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Or What",
+        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Wei\u00dfe Fahne",
         "url": "https://open.spotify.com/album/3F9qOuRMbZZ1a9Exg1T4eJ"
       },
@@ -1835,17 +1883,25 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Wet Dreams",
+        "name": "Wet Dreams (feat. Coop & G)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
       "artists": [
         {
           "name": "Flo Milli",
           "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
         }
       ],
       "duration_ms": 159090,
-      "name": "Wet Dreams",
+      "name": "Wet Dreams (feat. Coop & G)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
@@ -2067,6 +2123,26 @@
       "duration_ms": 200043,
       "name": "Catch The Rain",
       "url": "https://open.spotify.com/track/6kkiSenLxDFmqhPlwhxbjA"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 184311,
+      "name": "Ten (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/20orAdOtod5Zr2fJppGnyO"
     }
   ],
   "unique_name": "New Music Friday Switzerland",

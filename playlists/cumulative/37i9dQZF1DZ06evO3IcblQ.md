@@ -2,7 +2,7 @@
 
 ### [This Is Pennywise](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3IcblQ)
 
-> This is Pennywise。アーティストの代表曲をひとつのプレイリストに。
+> This is Pennywise\. The essential tracks, all in one playlist.
 
 58 songs - 2 hr 45 min
 

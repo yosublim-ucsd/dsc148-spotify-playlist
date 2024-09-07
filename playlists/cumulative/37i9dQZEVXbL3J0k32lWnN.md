@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,672 songs - 3 day 14 hr 53 min
+1,673 songs - 3 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -544,7 +544,7 @@
 | [Fuld Dominans](https://open.spotify.com/track/4EMHfX4rQ8kueS1buqtHsk) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Ancient Aliens](https://open.spotify.com/album/28IluAyMTOOBzrMs8NKTUl) | 5:28 | 2023-09-18 | 2023-09-20 |
 | [Følelser \(feat\. Jamaika\)](https://open.spotify.com/track/3nDcLRg4XZW1ubYHqS7gGX) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Jamaika](https://open.spotify.com/artist/7EJcUkbBsR4kN822bEa0ZS) | [En dag giver alt nok mening… \(DELUXE\)](https://open.spotify.com/album/6qqSR3o1AoomobbN249cNM) | 2:29 | 2024-02-17 | 2024-03-03 |
 | [føler mig selv 100](https://open.spotify.com/track/7iuM7vnvSjX9qqcuFtij1T) | [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [føler mig selv 100](https://open.spotify.com/album/14mdiNcBOtukgLcOgNMdzF) | 3:27 | 2021-03-29 | 2023-04-26 |
-| [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/2c94vIXsZfItT8dQqxpmv3) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Allerhelst Vil Vi Elskes](https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP) | 2:50 | 2024-04-13 |  |
+| [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/2c94vIXsZfItT8dQqxpmv3) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Allerhelst Vil Vi Elskes](https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP) | 2:50 | 2024-04-13 | 2024-09-07 |
 | [Føles Godt \(feat\. Mekdes\)](https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc) | [URO](https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD), [Mekdes](https://open.spotify.com/artist/2wQCkBACRNTFCSLPfUikBx) | [Føles Godt](https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX) | 2:50 | 2023-04-21 | 2024-04-14 |
 | [Første Dag](https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL) | [Benjamin Hav](https://open.spotify.com/artist/67pwWZtcg7U2P2keoeC9jW), [Ella Augusta](https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz) | [Første Dag](https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo) | 3:13 | 2023-10-27 | 2024-08-30 |
 | [Gamle Vaner](https://open.spotify.com/track/1cSuZS4kWkpDRCXpMLDfsp) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Held & Lykke Med At Komme Hjem](https://open.spotify.com/album/1M9CVnOQmkBAImk3021VzQ) | 1:40 | 2021-05-30 | 2021-05-31 |
@@ -1250,6 +1250,7 @@
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-09 | 2023-10-15 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-05 | 2023-01-22 |
 | [Rich Spirit](https://open.spotify.com/track/6kYGOFNUMxpab09L5Ukoke) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:22 | 2022-05-14 | 2022-05-22 |
+| [Rick Ross](https://open.spotify.com/track/1X7wdE9Cm82Vi4sMPqDane) | [Medina](https://open.spotify.com/artist/7c7ZeiPKWHf2E1rsf1P4VF) | [Velkommen Til Medina](https://open.spotify.com/album/3flSwxGfLdPtCnnVWaSyK0) | 2:58 | 2024-09-06 |  |
 | [Rider](https://open.spotify.com/track/1NoOCa8IRCEG3hCYLuzwMi) | [Trey & Zay](https://open.spotify.com/artist/1pSnX1wadmFf0PtC1uRhoL), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Rider](https://open.spotify.com/album/4KPEUgcr7SLXtrbp0ZsDYw) | 2:23 | 2021-04-11 | 2021-04-15 |
 | [Rim Tim Tagi Dim](https://open.spotify.com/track/5TswDbxMnxptgFTf6ZxvXQ) | [Baby Lasagna](https://open.spotify.com/artist/1ncWEkB4AQh1rxC8ObpBoH) | [Rim Tim Tagi Dim](https://open.spotify.com/album/2avxqhpSlNfsj5yPw32L7t) | 2:59 | 2024-05-13 | 2024-05-15 |
 | [River](https://open.spotify.com/track/04CqLjewJiSAqM210vZAmT) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz) | 2:42 | 2023-03-11 | 2023-03-19 |

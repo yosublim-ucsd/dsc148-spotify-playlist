@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Padre Marcelo Rossi, Jo\u00e3o Gomes",
-  "num_followers": 331721,
+  "num_followers": 331839,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -67,6 +67,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "Pelas M\u00e3os de Maria",
+        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
+      },
+      "artists": [
+        {
+          "name": "Fernando Vinhote",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 199344,
+      "name": "Pelas M\u00e3os de Maria",
+      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
         "url": "https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 225487,
       "name": "Deus Est\u00e1 Aqui (Noites Trai\u00e7oeiras)",
       "url": "https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "Pelas M\u00e3os de Maria",
-        "url": "https://open.spotify.com/album/7tyb14cxj5xoVbkbKt50Bm"
-      },
-      "artists": [
-        {
-          "name": "Fernando Vinhote",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        }
-      ],
-      "duration_ms": 199344,
-      "name": "Pelas M\u00e3os de Maria",
-      "url": "https://open.spotify.com/track/7M0jLL3I6qaIKt1KLSPJyK"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "Estou Orando por Voc\u00ea",
         "url": "https://open.spotify.com/album/2bIjtELrPfHk4fYxUsZTYa"
       },
@@ -307,22 +327,6 @@
       "duration_ms": 337168,
       "name": "Estou Orando por Voc\u00ea",
       "url": "https://open.spotify.com/track/2DY9psTzveYgzNcq2E77Mx"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "N\u00e3o Vou Desistir",
-        "url": "https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 267195,
-      "name": "N\u00e3o Vou Desisitir",
-      "url": "https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -363,22 +367,18 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+        "name": "N\u00e3o Vou Desistir",
+        "url": "https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0"
       },
       "artists": [
         {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
         }
       ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+      "duration_ms": 267195,
+      "name": "N\u00e3o Vou Desisitir",
+      "url": "https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "N\u00e3o Vou Desistir",
+        "url": "https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf"
+      },
+      "artists": [
+        {
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Muito Mais pra Mim",
+      "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "Serei Tudo",
         "url": "https://open.spotify.com/album/2QnBj9TkGghi0M8ls9g2ms"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 264566,
       "name": "Serei Tudo",
       "url": "https://open.spotify.com/track/7yUwb2VL5m2fhlZBCK0dOh"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "N\u00e3o Vou Desistir",
-        "url": "https://open.spotify.com/album/4wSxDhTezDWQ1kEGmy5zrf"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 334000,
-      "name": "Muito Mais pra Mim",
-      "url": "https://open.spotify.com/track/3QnxAvMEX7d2clCxJPH2pc"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
+        "name": "Deus V\u00ea",
+        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
+      },
+      "artists": [
+        {
+          "name": "Evandro Jos\u00e9",
+          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
+        }
+      ],
+      "duration_ms": 249940,
+      "name": "Deus V\u00ea",
+      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
-        "name": "Deus V\u00ea",
-        "url": "https://open.spotify.com/album/1wTfC5xOPtGz4XTwaltG6Q"
-      },
-      "artists": [
-        {
-          "name": "Evandro Jos\u00e9",
-          "url": "https://open.spotify.com/artist/16cPeOjEVbYqL3mmMA6m46"
-        }
-      ],
-      "duration_ms": 249940,
-      "name": "Deus V\u00ea",
-      "url": "https://open.spotify.com/track/0eLoQIt14xSZqu9dfW7OWx"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
-      },
-      "artists": [
-        {
-          "name": "Padre Rodrigo Natal",
-          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
-        }
-      ],
-      "duration_ms": 281739,
-      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
-      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "Ressonhar",
         "url": "https://open.spotify.com/album/05qREvyWU41VVPYRFHsOi4"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 290125,
       "name": "Oceano de Miseric\u00f3rdia",
       "url": "https://open.spotify.com/track/0FaimqANp3Y0gG7Kvf34Qj"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+        "url": "https://open.spotify.com/album/75LxVcoWjfJ0kSuTBMZA8F"
+      },
+      "artists": [
+        {
+          "name": "Padre Rodrigo Natal",
+          "url": "https://open.spotify.com/artist/0GLzzNhSoCbwsXOCADMo07"
+        }
+      ],
+      "duration_ms": 281739,
+      "name": "Maria Porta do C\u00e9u (Maria Passa na Frente)",
+      "url": "https://open.spotify.com/track/4lwl2jjSyJi29f781kSKzW"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -851,26 +851,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Pequeno Rei",
-        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
+        "name": "Em Tua Presen\u00e7a",
+        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
       },
       "artists": [
         {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+          "name": "Octavia de Assis",
+          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
         },
         {
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        },
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 293210,
-      "name": "Emanuel, Eu Te Adoro",
-      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
+      "duration_ms": 300000,
+      "name": "Em Tua Presen\u00e7a",
+      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -911,26 +907,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Em Tua Presen\u00e7a",
-        "url": "https://open.spotify.com/album/0bCz6dSqYOM6yNEV9DhQvK"
-      },
-      "artists": [
-        {
-          "name": "Octavia de Assis",
-          "url": "https://open.spotify.com/artist/1SBcO6ThKkKHIa0eEcX9km"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Em Tua Presen\u00e7a",
-      "url": "https://open.spotify.com/track/4ZOkEg8QoFFZqKrfwSkgNJ"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
         "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 384059,
       "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Pequeno Rei",
+        "url": "https://open.spotify.com/album/4CBQ1tVkMSfdRxNcezkYBz"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        },
+        {
+          "name": "Davidson Silva",
+          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
+        },
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 293210,
+      "name": "Emanuel, Eu Te Adoro",
+      "url": "https://open.spotify.com/track/2RWixlFlwnlMHtzaJn727X"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
-        "url": "https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k"
-      },
-      "artists": [
-        {
-          "name": "Padre Marcelo Rossi",
-          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 284430,
-      "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
-      "url": "https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "Dias Melhores Vir\u00e3o",
         "url": "https://open.spotify.com/album/2iQCM13h3O2KOlyoLQxl2O"
       },
@@ -1051,6 +1031,22 @@
       "duration_ms": 261853,
       "name": "Dias Melhores Vir\u00e3o",
       "url": "https://open.spotify.com/track/7t0v5FlY2xsSbLsjLuORkA"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Iluminada H\u00f3stia e P\u00e3o de Miseric\u00f3rdia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1zHHUvobTFG8tGcGf0EVTS"
+      },
+      "artists": [
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 213500,
+      "name": "Iluminada H\u00f3stia - Ao Vivo",
+      "url": "https://open.spotify.com/track/05sIKKIc67wLaafJw95ePa"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -1099,18 +1095,22 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Iluminada H\u00f3stia e P\u00e3o de Miseric\u00f3rdia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1zHHUvobTFG8tGcGf0EVTS"
+        "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
+        "url": "https://open.spotify.com/album/7KR81hHAFjA5SpC2JjVP4k"
       },
       "artists": [
         {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+          "name": "Padre Marcelo Rossi",
+          "url": "https://open.spotify.com/artist/0BLa22ZCJcTxW78hoNlFA9"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
         }
       ],
-      "duration_ms": 213500,
-      "name": "Iluminada H\u00f3stia - Ao Vivo",
-      "url": "https://open.spotify.com/track/05sIKKIc67wLaafJw95ePa"
+      "duration_ms": 284430,
+      "name": "Maria Passa \u00e0 Frente (feat. Gusttavo Lima)",
+      "url": "https://open.spotify.com/track/1iLunZvT65nyHSRNPNii8H"
     },
     {
       "added_at": "2024-09-06 03:01:00",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2024-09-06 03:01:00",
       "album": {
-        "name": "Servo por Amor",
-        "url": "https://open.spotify.com/album/6dvUhJyW2xoxhl2lWm9zhG"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Banda Dominus",
-          "url": "https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV"
-        }
-      ],
-      "duration_ms": 195230,
-      "name": "Servo por Amor",
-      "url": "https://open.spotify.com/track/10kzewzYJdNpBUvWhSHl1Q"
-    },
-    {
-      "added_at": "2024-09-06 03:01:00",
-      "album": {
         "name": "Gba Stage, Vol. 22",
         "url": "https://open.spotify.com/album/3FcOE2vRgd1RP3fgdAGldu"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 276490,
       "name": "P\u00e3o dos Anjos",
       "url": "https://open.spotify.com/track/2mRPXSMTiy7JDa8QjmMHzG"
+    },
+    {
+      "added_at": "2024-09-06 03:01:00",
+      "album": {
+        "name": "Servo por Amor",
+        "url": "https://open.spotify.com/album/6dvUhJyW2xoxhl2lWm9zhG"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Banda Dominus",
+          "url": "https://open.spotify.com/artist/0GvnpLPsbWtDOqpA7BeJaV"
+        }
+      ],
+      "duration_ms": 195230,
+      "name": "Servo por Amor",
+      "url": "https://open.spotify.com/track/10kzewzYJdNpBUvWhSHl1Q"
     }
   ],
   "unique_name": "M\u00fasica Cat\u00f3lica ",

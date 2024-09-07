@@ -2397,6 +2397,24 @@
     },
     {
       "album": {
+        "name": "AMNESIA",
+        "url": "https://open.spotify.com/album/1QfmD8pxQPt9OwY2G08iVN"
+      },
+      "artists": [
+        {
+          "name": "heynat",
+          "url": "https://open.spotify.com/artist/6DOHWRB8ilr8mOJN5DKOVl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127500,
+      "name": "AMNESIA",
+      "url": "https://open.spotify.com/track/6YkdntnOfV8pzUkPhIzz2w"
+    },
+    {
+      "album": {
         "name": "AmorFalso",
         "url": "https://open.spotify.com/album/3j2ZNwOfghWU8tpKD73pD5"
       },
@@ -2496,6 +2514,28 @@
       "duration_ms": 172106,
       "name": "angel (so bad)",
       "url": "https://open.spotify.com/track/4vvIWQCVGcUxK1jJl0Q1pR"
+    },
+    {
+      "album": {
+        "name": "Angel Music",
+        "url": "https://open.spotify.com/album/45fRDsRB4DDyOmSOGU2x3X"
+      },
+      "artists": [
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        },
+        {
+          "name": "MGNA Crrrta",
+          "url": "https://open.spotify.com/artist/1pNs3qwMBJ0q4lyASth9Ye"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127634,
+      "name": "Angel Music",
+      "url": "https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa"
     },
     {
       "album": {

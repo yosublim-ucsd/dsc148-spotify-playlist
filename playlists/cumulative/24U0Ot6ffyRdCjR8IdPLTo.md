@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-299 songs - 16 hr 37 min
+301 songs - 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Counting Flowers](https://open.spotify.com/track/7f6tmZhAL2D9CTLfSyWDHC) | [EVER](https://open.spotify.com/artist/7f3i7KtcsMEyZO6jWYFPmI) | [Counting Flowers](https://open.spotify.com/album/4epLEyQe5d3AnmZmzESmdK) | 3:08 | 2021-12-06 | 2023-08-16 |
 | [Cry](https://open.spotify.com/track/0Qr61NXlyAeQaADO5xn3rI) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:16 | 2023-08-28 | 2023-12-05 |
 | [Darker Place](https://open.spotify.com/track/5fUzMvyRsUklP0Pdmsh9Mz) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Darker Place](https://open.spotify.com/album/1kyPhLSGgMempOXgJEc9s5) | 2:48 | 2021-12-06 | 2023-08-16 |
-| [Defense of Love](https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love](https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB) | 2:25 | 2024-08-16 |  |
+| [Defense of Love](https://open.spotify.com/track/66O4XqsqRzp6l1hweNpcmQ) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love](https://open.spotify.com/album/7bMja76Ql0NpyYGmS0MPUB) | 2:25 | 2024-08-16 | 2024-09-07 |
+| [Defense of Love \- Acoustic](https://open.spotify.com/track/1NxJKfnHThLdKBEEyI6Z6k) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [Defense of Love \- Acoustic](https://open.spotify.com/album/3a6yUJgGmALj2mjt7dvRzh) | 2:26 | 2024-09-06 |  |
 | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/track/0HEzuLLojblUOaUSdmJ9gl) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:45 | 2023-08-28 |  |
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2023-08-15 |  |
 | [Different](https://open.spotify.com/track/0vJBL4Dx9aVFsHSqdApU3H) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Different](https://open.spotify.com/album/1ual1IVLCoseGtHPoTpE5D) | 3:13 | 2023-08-15 | 2023-08-29 |
@@ -89,6 +90,7 @@
 | [Fantasy](https://open.spotify.com/track/4rAYSa93NeffeWcCgKMhGJ) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Fantasy](https://open.spotify.com/album/5jIrySgqcujIymK4NxYoWU) | 4:58 | 2023-08-28 | 2024-06-15 |
 | [Feel Better](https://open.spotify.com/track/1AvD21gCNCSxF0Qxzj2Su6) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Feel Better](https://open.spotify.com/album/0tUFOGJeITsBtvbIJZHhDn) | 3:49 | 2024-08-23 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2023-08-15 | 2023-08-29 |
+| [feels like i'm changing](https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05) | [Keni Titus](https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj) | [juliet](https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh) | 2:49 | 2024-09-06 |  |
 | [Field Guide for the Night Sky](https://open.spotify.com/track/4pEJJLiImZ3FVS7kn6uUHO) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Field Guide for the Night Sky](https://open.spotify.com/album/23HLEZx1iwZEr7StbTAbsZ) | 2:34 | 2021-12-06 | 2023-08-16 |
 | [First Love Song](https://open.spotify.com/track/3vCVIcXgMwj5PdpSFgoVxa) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [First Love Song](https://open.spotify.com/album/2ygtFwFxHv24w6GWITZkkX) | 2:44 | 2023-08-28 | 2024-01-20 |
 | [Florida](https://open.spotify.com/track/34pOJWcmlxBUDkHaoqG1K2) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Florida](https://open.spotify.com/album/3tUZTMKsWtJZbs55y1tnm7) | 2:27 | 2023-08-28 | 2024-06-15 |

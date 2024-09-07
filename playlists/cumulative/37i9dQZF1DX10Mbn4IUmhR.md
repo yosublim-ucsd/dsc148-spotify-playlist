@@ -4,7 +4,7 @@
 
 > The joy of Global and SA Pop\. Cover: <a href="https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA">Sabrina Carpenter</a>
 
-128 songs - 6 hr 25 min
+130 songs - 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Dancing Alone](https://open.spotify.com/track/6jI4jwiI8SYW5wc8U6VD4u) | [Tannah](https://open.spotify.com/artist/270Y3Rs9z9a0Ut9xBwpzC8) | [Dancing Alone](https://open.spotify.com/album/2yKzcsmcXuiarCQCIls9Cw) | 2:59 | 2024-08-09 | 2024-08-16 |
 | [Delight](https://open.spotify.com/track/3GS2240j6d9HtUPx4U53lt) | [Anacy](https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0) | [Delight](https://open.spotify.com/album/36oCf3aHSt25YSHGSfLxFZ) | 3:41 | 2024-07-04 | 2024-07-12 |
 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 | 2024-08-29 |  |
-| [Drive](https://open.spotify.com/track/1YeLCUj0x3IGikFcYdSRfD) | [Ian Holmes](https://open.spotify.com/artist/6qyKhLiST9fLQnRMf8MWFE) | [Drive](https://open.spotify.com/album/4Ph369TU5EESjXPfaj9B8g) | 3:14 | 2024-08-02 |  |
+| [Drive](https://open.spotify.com/track/1YeLCUj0x3IGikFcYdSRfD) | [Ian Holmes](https://open.spotify.com/artist/6qyKhLiST9fLQnRMf8MWFE) | [Drive](https://open.spotify.com/album/4Ph369TU5EESjXPfaj9B8g) | 3:14 | 2024-08-02 | 2024-09-07 |
 | [Drops In My Eyes](https://open.spotify.com/track/0B2017TXS8xiqgzf5btAO5) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Drops In My Eyes](https://open.spotify.com/album/14GeS3Gm8nMQzUYQbUvBLt) | 3:16 | 2024-08-29 |  |
 | [dust](https://open.spotify.com/track/2BYSGpfdV2TKp3YlZqShv3) | [Sulene](https://open.spotify.com/artist/3H0Mdkhat3ZJFgKxLHEymg), [JOON](https://open.spotify.com/artist/5velmxw0WUhaJm9PeeXpWE) | [JOUSKA](https://open.spotify.com/album/6RoW89q8zle1uWxLdJ1oFQ) | 2:11 | 2024-08-29 |  |
 | [Emotions](https://open.spotify.com/track/3yao4TW2iXsnVuamiie54q) | [Ananya](https://open.spotify.com/artist/2Q32KkhT2YnVgCpAvrnhen) | [Emotions](https://open.spotify.com/album/7GdksUc0zywEeh2IXG2EL3) | 2:44 | 2024-08-23 |  |
@@ -50,6 +50,7 @@
 | [Feelings](https://open.spotify.com/track/4bHZTWujvLTAeQRNjvp1DA) | [Iaco](https://open.spotify.com/artist/3D3ELPXX1yx64WfmZLB8Bg), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [Liam Burger](https://open.spotify.com/artist/3JsjTWQhgrDRI1HPAG1lbZ) | [Feelings](https://open.spotify.com/album/6fOQIwSV5BSjjtrliXEmHo) | 2:22 | 2024-06-27 | 2024-07-12 |
 | [feelslikeimfallinginlove](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-11 | 2024-07-19 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-06-27 |  |
+| [Found Our Way](https://open.spotify.com/track/74nKlOcMkFvXPEz7VPFmeu) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Found Our Way](https://open.spotify.com/album/2JCdBDNMNbS7lAmK9HvXdR) | 2:42 | 2024-09-06 |  |
 | [GIRLS](https://open.spotify.com/track/7z3PblAN3dH1JMewiRydkZ) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [GIRLS](https://open.spotify.com/album/17R63Sb8OrPikc2R4mlpdC) | 2:32 | 2024-07-11 | 2024-08-03 |
 | [Give Me Everything](https://open.spotify.com/track/0dOpKW6fWTbtaLhEgU4z0d) | [SaxbyTwins](https://open.spotify.com/artist/4gKoJlqp9vHQYvXF41yrNJ) | [Give Me Everything](https://open.spotify.com/album/5IDiQ1qqaYBjVxtjEJNawa) | 2:56 | 2024-07-18 | 2024-08-10 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-11 |  |
@@ -92,6 +93,7 @@
 | [Nonsense](https://open.spotify.com/track/6dgUya35uo964z7GZXM07g) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 2:43 | 2024-06-27 | 2024-07-12 |
 | [Okay](https://open.spotify.com/track/2clElTsD1qOztIwI9CuJvu) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86), [CHXRL](https://open.spotify.com/artist/53YDsmOqu4zlV0VQbNUUNZ) | [Okay](https://open.spotify.com/album/610w4Vno3IlTsWrTgSgMDu) | 3:13 | 2024-06-27 | 2024-08-03 |
 | [Open](https://open.spotify.com/track/0BCj86Eh1kflADgQYD09eA) | [Hannah Ray](https://open.spotify.com/artist/4Ae5WVwvqj9QtX7NVr6GHg), [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88), [Mars Baby](https://open.spotify.com/artist/05GmksAMb6rILtaA7JBuri) | [Open](https://open.spotify.com/album/1V9lS8kDEkCc17h8uXL33f) | 3:59 | 2024-06-27 | 2024-07-27 |
+| [Over You \- with kidprod](https://open.spotify.com/track/5EaiFDJtBnLQOnseRadv3y) | [Helena Bowiee](https://open.spotify.com/artist/7hOo6y89ZTGJFpgknBgvPY), [kidprod](https://open.spotify.com/artist/1qWerMLMHQqUo3KzT1py3R) | [Over You \- with kidprod](https://open.spotify.com/album/1tDUKKQVX0n7aYfuKNr2uS) | 2:57 | 2024-09-06 |  |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-27 |  |
 | [Postman](https://open.spotify.com/track/4ZF0783seUnzAi0lzG5Cez) | [BINX](https://open.spotify.com/artist/1m6WCZzMnbe46bBTvbERQ0) | [Postman](https://open.spotify.com/album/3I1eI0jAjk0yARnFxFv9fn) | 3:12 | 2024-08-15 |  |
 | [Resting Sad Face](https://open.spotify.com/track/3rJZb5rwpzn83Y2GEBc5mg) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [Resting Sad Face](https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO) | 2:09 | 2024-08-23 |  |
@@ -104,7 +106,7 @@
 | [Shhh](https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Shhh](https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf) | 2:23 | 2024-08-15 |  |
 | [Shirt](https://open.spotify.com/track/7Gejbl2DoylzXdpw2zbmOF) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Shirt](https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB) | 2:47 | 2024-07-11 | 2024-07-19 |
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-07-11 |  |
-| [smile!](https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [smile!](https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt) | 2:41 | 2024-08-15 |  |
+| [smile!](https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [smile!](https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt) | 2:41 | 2024-08-15 | 2024-09-07 |
 | [Someone I Don't Know](https://open.spotify.com/track/0Qwge4aLLfVN32oVA4sVhD) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Someone I Don't Know](https://open.spotify.com/album/02BG7BjzYAN6Q8gB0rrt7H) | 2:47 | 2024-07-25 | 2024-08-24 |
 | [Stargazing](https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Stargazing](https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj) | 2:52 | 2024-07-11 |  |
 | [Stay](https://open.spotify.com/track/4HYHtmNSYYRslP6FKiKsFJ) | [MAEZTRO](https://open.spotify.com/artist/4SXPlxI5H5fY9JaVAjFqc1), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [Stay](https://open.spotify.com/album/22uHDP1dLfvNi73JQ0n8IX) | 2:47 | 2024-08-23 |  |

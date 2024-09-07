@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "No Depression In Heaven",
+        "url": "https://open.spotify.com/album/5MLdgEFXND3EClVF1he9nn"
+      },
+      "artists": [
+        {
+          "name": "Midwife",
+          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281200,
+      "name": "Autoluminescent",
+      "url": "https://open.spotify.com/track/3Sl2z4TkK0lYJiMB7kXnz6"
+    },
+    {
+      "album": {
         "name": "WhatFunLifeWas",
         "url": "https://open.spotify.com/album/5K6XN9nSX1yuECZwIYg7FQ"
       },

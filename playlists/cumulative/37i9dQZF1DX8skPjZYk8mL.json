@@ -2237,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Bob the Bumblebee",
+        "url": "https://open.spotify.com/album/3PEth0T1Awn85x6wUBuVSO"
+      },
+      "artists": [
+        {
+          "name": "Cat McCune",
+          "url": "https://open.spotify.com/artist/1Kz4zzy0Py3DqCqV9wAuM4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109539,
+      "name": "Bob the Bumblebee",
+      "url": "https://open.spotify.com/track/6j96TPyPRMvRveLVrISLU8"
+    },
+    {
+      "album": {
         "name": "Bonne nuit mon prince",
         "url": "https://open.spotify.com/album/09f5AoxyFNYxiB5RvhL8MU"
       },
@@ -3742,7 +3760,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 100128,
       "name": "Discovering The World",
       "url": "https://open.spotify.com/track/07x1wRDHfUcXBrzodCFyjb"
@@ -10319,6 +10337,24 @@
     },
     {
       "album": {
+        "name": "My Best Friend",
+        "url": "https://open.spotify.com/album/3h9fNJ3vgd2T7tuUpyVUIh"
+      },
+      "artists": [
+        {
+          "name": "Lina Karo",
+          "url": "https://open.spotify.com/artist/3uhp9VrAedCv6oMnkaXBtL"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105954,
+      "name": "My Best Friend",
+      "url": "https://open.spotify.com/track/3jOUUhZ9la9yNijKxdXJwd"
+    },
+    {
+      "album": {
         "name": "My Best Friend Bob",
         "url": "https://open.spotify.com/album/0omMrAr8zSXzokTTBqyM4Q"
       },
@@ -12256,7 +12292,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 75135,
       "name": "Rabbit Bestie",
       "url": "https://open.spotify.com/track/7zdGiflXDbXR5qR1HWVnl3"
@@ -15964,7 +16000,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 139229,
       "name": "The Moon And The Stars",
       "url": "https://open.spotify.com/track/2FROaOKmXqqJfcgSpy7Gu2"

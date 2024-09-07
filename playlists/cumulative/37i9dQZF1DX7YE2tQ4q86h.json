@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Anitta & Victoria",
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Paris Hilton",
   "name": "OBSESSED",
   "tracks": [
     {
@@ -10403,6 +10403,24 @@
     },
     {
       "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/3MyRbuDH6A8lrGaejNaFGF"
+    },
+    {
+      "album": {
         "name": "Legs (Keep Dancing)",
         "url": "https://open.spotify.com/album/7pgYs9PShCZbJdIUDmoQvc"
       },
@@ -12848,6 +12866,24 @@
       "duration_ms": 179789,
       "name": "New Woman (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
+    },
+    {
+      "album": {
+        "name": "Next Bitch",
+        "url": "https://open.spotify.com/album/47z5Oj1ND52QDudcIViyG4"
+      },
+      "artists": [
+        {
+          "name": "Brooke Candy",
+          "url": "https://open.spotify.com/artist/3amwMyDd1uxTBoUZlazZ9m"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123555,
+      "name": "Next Bitch",
+      "url": "https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>.
 
-371 songs - 20 hr 18 min
+372 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [dashstar\* \- Yellow Claw Trap Edit](https://open.spotify.com/track/0fQlqbTeuXiUZnkmqTurOc) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [dashstar\* \(Yellow Claw Trap Edit\)](https://open.spotify.com/album/2WGGdPokwClK08HMWXgh62) | 2:32 | 2023-01-06 |  |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2022-07-27 |
 | [DDOKBOKKI](https://open.spotify.com/track/0yT0Ok6LxqSLEzM7UMWEsQ) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU) | [DDOKBOKKI](https://open.spotify.com/album/2T48nb1L3se9K1QZIPJNWq) | 2:35 | 2021-11-19 | 2022-01-08 |
+| [DESPAIR](https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB), [Automhate](https://open.spotify.com/artist/6bWRCpJ69GQnmrL7gE4WHf) | [BRULURE](https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF) | 4:07 | 2024-09-06 |  |
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-12-21 |
 | [DESTINY](https://open.spotify.com/track/1l6S19J9rd6Vxw3EdolpXP) | [NAZAAR](https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h), [LOUIEJAYXX](https://open.spotify.com/artist/4FjUttOJfudEcivKBA6fLl) | [DESTINY](https://open.spotify.com/album/4LbmONCOWPjSLnyBB20vjE) | 4:09 | 2023-08-18 | 2023-09-10 |
 | [Dies Irae feat\. Black Prez](https://open.spotify.com/track/5nafRIDshs3RwVO0sxxgac) | [Apashe](https://open.spotify.com/artist/1fd3fmwlhrDl2U5wbbPQYN), [Black Prez](https://open.spotify.com/artist/3kGJGwSmyImKKigpSkKnTz) | [Requiem](https://open.spotify.com/album/1cNI5bMJk11DV8PglRAd3R) | 5:09 | 2022-07-22 | 2024-05-25 |
@@ -312,7 +313,7 @@
 | [Stallions](https://open.spotify.com/track/7Mgpc7PoSvWV73jhfpmxoE) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Stallions](https://open.spotify.com/album/0I3fZYjDRb5g7VulqKfm1f) | 3:55 | 2021-11-19 | 2022-01-08 |
 | [Status Quo](https://open.spotify.com/track/20nE4m2wJ7a44ZTaorpn5z) | [Wavedash](https://open.spotify.com/artist/1SlTeYo2NYg93bGqlQYkwE), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Status Quo](https://open.spotify.com/album/019JaqKPZQvBVL2KcmZjIB) | 2:56 | 2021-11-19 | 2022-10-21 |
 | [Steamroller](https://open.spotify.com/track/6nJydgohLfCuoPr9BbrUMy) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V), [Inja](https://open.spotify.com/artist/4jl7rqDfdaWDHD0RdP7ndM) | [Steamroller](https://open.spotify.com/album/2CcC9vuinUNRbWTQp0pS0y) | 4:09 | 2024-08-23 |  |
-| [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 |  |
+| [Steps On You \(Peep My Style\)](https://open.spotify.com/track/4vk250sguUOlV3O6bPJix8) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [Steps On You \(Peep My Style\)](https://open.spotify.com/album/28MHnDXOPNYdf3tcuvJJqt) | 2:56 | 2024-05-31 | 2024-09-07 |
 | [STEREOPLEIN \- Yellow Claw Remix](https://open.spotify.com/track/00Dk3QJ4P8EfNxgZRa4eQZ) | [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [MX2](https://open.spotify.com/artist/7dZxYHTZtPPrExuIkf6IvJ), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [STEREOPLEIN \(Yellow Claw Remix\)](https://open.spotify.com/album/5Ef276bu8Pt9ZWeJT4nNS1) | 3:05 | 2021-11-19 | 2022-01-08 |
 | [STFU](https://open.spotify.com/track/0v1nobrUSVLIXrYaI4zwkw) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [STFU](https://open.spotify.com/album/1nlVk6AHkm9WdF0BZ9iGuB) | 2:36 | 2023-09-22 |  |
 | [STFU](https://open.spotify.com/track/6wb3aDPGNaXdshGBzpOAGA) | [G\-Buck](https://open.spotify.com/artist/4Oxbc00K1336zJYgpR01Aw), [Sam King](https://open.spotify.com/artist/6i1nxY8TkMEEI1saLfn1lL) | [STFU](https://open.spotify.com/album/1nCOqWGL5YHttCIQURnmmY) | 3:00 | 2021-11-19 | 2022-07-26 |

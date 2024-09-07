@@ -1,6 +1,6 @@
 {
   "description": "The R&B and good vibe tracks for your current mood. Cover: RINI",
-  "num_followers": 133043,
+  "num_followers": 133066,
   "original_name": "mood.",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
       "duration_ms": 184000,
       "name": "Different Cities",
       "url": "https://open.spotify.com/track/18fcLoyTylM1MDyOc7s5av"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "I'll look out for you",
+        "url": "https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 126240,
+      "name": "you'll take it",
+      "url": "https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc"
     },
     {
       "added_at": "2024-09-05 16:00:00",
@@ -942,6 +958,10 @@
         {
           "name": "Haven",
           "url": "https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F"
+        },
+        {
+          "name": "WILD",
+          "url": "https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO"
         }
       ],
       "duration_ms": 156831,

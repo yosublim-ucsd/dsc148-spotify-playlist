@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: La Banda del 5
 
-159 songs - 11 hr 18 min
+160 songs - 11 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,10 +132,11 @@
 | [Quiero Que Seas Mi Estrella](https://open.spotify.com/track/6V5PmiX4malndCwTohPXgS) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Por el Mundo Entero](https://open.spotify.com/album/7BJTzb8pFpOSG6JpvWTCrU) | 5:00 | 2022-10-21 | 2022-11-13 |
 | [Qué Necesidad](https://open.spotify.com/track/0ro1pFg1YLjyuFlYfEOsPL) | [Natalia Curvelo](https://open.spotify.com/artist/6RB9VgLciQKqdvLt2ZiMYX) | [Qué Necesidad](https://open.spotify.com/album/6vqaJHsOrJ99j9nrxuZZaw) | 3:41 | 2023-02-13 | 2023-06-17 |
 | [Regálame una Noche](https://open.spotify.com/track/7nuhIriqmo87iVEfVkc58T) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:56 | 2022-09-02 |  |
-| [Reina Hermosa](https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Reina Hermosa](https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI) | 4:04 | 2024-01-26 |  |
+| [Reina Hermosa](https://open.spotify.com/track/0OCtBJjDwWmqqhtUSioB5M) | [Peter Manjarrés](https://open.spotify.com/artist/5p1D7KgsRRcS9gpQyRARrL), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Reina Hermosa](https://open.spotify.com/album/7b4rPawLztzUbdWs6A4PRI) | 4:04 | 2024-01-26 | 2024-09-07 |
 | [Señora](https://open.spotify.com/track/5tY5SZELFkC8VTlHAp9HPx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Los 50 vallenatos más recordados, dedicados, vendidos y sonados](https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA) | 3:58 | 2024-01-26 |  |
 | [Señora](https://open.spotify.com/track/1aWlzqhPWYcmMK5H9lgpP6) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [Muy Nuestro](https://open.spotify.com/album/11vSLzBjLYwRX1tjqTDsQQ) | 3:58 | 2022-09-02 | 2024-04-19 |
 | [Señora](https://open.spotify.com/track/2UlmLofQp0IWtvw45wIzbx) | [Otto Serge](https://open.spotify.com/artist/5CSek6ot4XS2AWiw1NFTiF), [Rafael Ricardo](https://open.spotify.com/artist/2Aq0u75FM7QuhP4vUqsFVe) | [The Essential Guide To Vallenato](https://open.spotify.com/album/6Llc4RLGwaC9pDmDo4m92L) | 4:00 | 2022-10-21 | 2022-11-14 |
+| [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 | 2024-09-06 |  |
 | [Si Supiera](https://open.spotify.com/track/5zsUI37tt2zmCGwyfpn4V3) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [Viral](https://open.spotify.com/album/06O9e9nCgidW852Pu0nvb2) | 3:29 | 2022-09-02 | 2023-04-06 |
 | [Sigo Siendo el Papá](https://open.spotify.com/track/7byzvi04FBDvcELhvqnhbV) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Esto Es Vida](https://open.spotify.com/album/2R0WTS8JS1aSyXxosBh4Se) | 3:30 | 2022-09-02 |  |
 | [Sin Medir Distancia](https://open.spotify.com/track/5KhaD3Pa9YWCMdSa40OIMY) | [Diomedes Diaz](https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG) | [Orgullosa](https://open.spotify.com/album/4pMUHG6enf3RagNzHuCryB) | 5:01 | 2022-10-21 | 2022-11-13 |

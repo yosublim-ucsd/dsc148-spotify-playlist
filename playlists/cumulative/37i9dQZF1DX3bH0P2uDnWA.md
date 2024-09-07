@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-387 songs - 21 hr 54 min
+388 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Evil](https://open.spotify.com/track/29DlkdM6lBrxTl1NkbTphy) | [The Vaude Villainz](https://open.spotify.com/artist/6oep99RRsuJSNN1Hw5g3sR) | [Voodoo Swing](https://open.spotify.com/album/3KX6WYtBTm0826dMFTplPE) | 3:40 | 2022-10-12 | 2022-11-08 |
 | [Extra Fries](https://open.spotify.com/track/556y7EL1trkqGtevzn8684) | [The Fly Guy Five](https://open.spotify.com/artist/7D5flI7hB9nzew9W2KnKm8) | [Merry\-Go\-Round\-And\-Round](https://open.spotify.com/album/3yXw16nAl3qa0f4egmHdXd) | 2:00 | 2022-09-02 |  |
 | [Fallen World](https://open.spotify.com/track/43JHup1dQxUg6csXXFXXqH) | [Riff Kitten](https://open.spotify.com/artist/2dWWUgJS0zdhV2Bu4WGF6a), [Kumiho](https://open.spotify.com/artist/4t0HSuBBnJfGBkQe4cAaCm) | [Fallen World](https://open.spotify.com/album/16zC5JX98ONcA99BQYDNgG) | 3:48 | 2020-10-30 | 2024-01-20 |
+| [Favela Swing](https://open.spotify.com/track/1IDLuqGUTQIWpyxM9jorQV) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Favela Swing](https://open.spotify.com/album/5myow9120QXJPUUp0M4Ttl) | 2:39 | 2024-09-06 |  |
 | [Feel so Happy \- Bbop Future Swing Remix](https://open.spotify.com/track/7adN8Av6zDGZN3CXmzuSYQ) | [Szigeti Juli](https://open.spotify.com/artist/3u8tUhDhqNoF6jRPEFnKNF), [Bbop](https://open.spotify.com/artist/2lCZNuPKVZbPkvAxpGnsII) | [Feel so Happy \(Bbop Future Swing Remix\)](https://open.spotify.com/album/29QeRv4KV3EJsIEaed2nx2) | 2:41 | 2023-09-22 |  |
 | [Feels a Little Strange](https://open.spotify.com/track/4pxZcUXm76mDNZhhjxcNau) | [Madam Misfit](https://open.spotify.com/artist/42rQYQExEIwKEsPwkREvIM) | [Roaring Halloween \(Electro Swing 1\)](https://open.spotify.com/album/3YMODnnzf1E98gGRxuB7tn) | 2:58 | 2022-10-12 | 2023-11-07 |
 | [Fever](https://open.spotify.com/track/0NypPbYGParnlEFdriJzHq) | [Dutty Moonshine Big Band](https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W), [Crash Party](https://open.spotify.com/artist/7l8PUcu0rjjEFSDppWolQz) | [Fever](https://open.spotify.com/album/4xoZXHKNhxrlM68yWELAU0) | 3:03 | 2020-10-30 | 2022-05-14 |
@@ -205,7 +206,7 @@
 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 | 2020-10-30 | 2024-04-19 |
 | [Married Man](https://open.spotify.com/track/6jGYrW5pzaqyAHJAifMGjl) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Married Man](https://open.spotify.com/album/4sWwMJbfAhpq2o5raC8XHH) | 3:29 | 2020-10-30 | 2022-07-19 |
 | [Marvelous](https://open.spotify.com/track/7eIE7x9SoeeMf3VeAaScDK) | [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s) | [Marvelous](https://open.spotify.com/album/0dyXevf8h8XP5lGZ6cTDG9) | 2:53 | 2023-05-26 |  |
-| [Marvelous \- Wolfgang Lohr Future Swing Remix](https://open.spotify.com/track/2KByLKAsBdItG2WIQrmJA2) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Marvelous \(Wolfgang Lohr Future Swing Remix\)](https://open.spotify.com/album/1Bt1rdw4QtDWM8TXFzYeY7) | 2:47 | 2023-08-18 |  |
+| [Marvelous \- Wolfgang Lohr Future Swing Remix](https://open.spotify.com/track/2KByLKAsBdItG2WIQrmJA2) | [LVDS](https://open.spotify.com/artist/1bchORmrFrz4QUD9JhVm8s), [Glenn Gatsby](https://open.spotify.com/artist/2i1i4w0EZ19SIJzPhAEp4i), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Marvelous \(Wolfgang Lohr Future Swing Remix\)](https://open.spotify.com/album/1Bt1rdw4QtDWM8TXFzYeY7) | 2:47 | 2023-08-18 | 2024-09-07 |
 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 | 2021-04-09 |  |
 | [Midnight](https://open.spotify.com/track/0eljrNBtD2vQgNHdTAgE2s) | [Caravan Palace](https://open.spotify.com/artist/37J1PlAkhRK7yrZUtqaUpQ) | [<\|º\_º\|>](https://open.spotify.com/album/4DrZfbV5FB2Hwzpq6rwArp) | 3:25 | 2022-10-12 | 2023-11-07 |
 | [Midnight](https://open.spotify.com/track/6TT9QrhtNpgWdrFGfjfV02) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B) | [Remote](https://open.spotify.com/album/1Zo58diAaOKimtYyzny5LH) | 3:43 | 2022-10-12 | 2023-11-07 |

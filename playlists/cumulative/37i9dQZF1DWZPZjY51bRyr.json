@@ -880,7 +880,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 377250,
       "name": "Captain Speaking",
       "url": "https://open.spotify.com/track/6nWU4ka90Da1aQsH9lDbgM"
@@ -1024,7 +1024,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 160750,
       "name": "Clearings",
       "url": "https://open.spotify.com/track/0rEzgoo72W1UXsrwtZr36R"
@@ -1888,7 +1888,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 169105,
       "name": "Healing",
       "url": "https://open.spotify.com/track/3S6xG02IfUIGy1iaG5iRuk"
@@ -1924,7 +1924,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Healing Solfeggio 528 Hz",
       "url": "https://open.spotify.com/track/1rttTie5nGvG5aSlrXegQI"
@@ -2266,7 +2266,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 198641,
       "name": "low pass vision",
       "url": "https://open.spotify.com/track/03lJ5CU7yvsbZF5JkIzUPW"
@@ -2432,6 +2432,24 @@
       "duration_ms": 185624,
       "name": "Mindful Morning",
       "url": "https://open.spotify.com/track/64bGDaN3r5lhm4diRthu3u"
+    },
+    {
+      "album": {
+        "name": "Miquella's Pond",
+        "url": "https://open.spotify.com/album/3xNGgYYAuqKTmEwDQbSfoA"
+      },
+      "artists": [
+        {
+          "name": "A Place Of Solace",
+          "url": "https://open.spotify.com/artist/5cfE9JeRgAvl4pj2PY60hF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181132,
+      "name": "Miquella's Pond",
+      "url": "https://open.spotify.com/track/3i43trjHW3NbxY3ICtHm8p"
     },
     {
       "album": {
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 112999,
       "name": "Polysomnography",
       "url": "https://open.spotify.com/track/5NaSWdfYdfsGy0a386RdaO"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 195428,
       "name": "Prkahm Mindbeats",
       "url": "https://open.spotify.com/track/3Th5MNEqf4f41KT6lEui1h"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Fontaines D.C.",
+  "description": "Explore all things indie rock right now. Featuring music from MJ Lenderman",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 262653,
       "name": "Chicken",
       "url": "https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8"
@@ -9159,6 +9159,24 @@
     },
     {
       "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/5ZQ4dmoWks6hzaz5vFbXmJ"
+      },
+      "artists": [
+        {
+          "name": "Lunar Vacation",
+          "url": "https://open.spotify.com/artist/7EEefVBNBS3ckwouEl62oB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287226,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/4cakGDwEb3ZTUQRB66xesd"
+    },
+    {
+      "album": {
         "name": "Favorite Sin",
         "url": "https://open.spotify.com/album/0RvCi9rbTyjerfZMmv5lJK"
       },
@@ -10719,6 +10737,24 @@
     },
     {
       "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/4hsNAPEzpwXvXM8IzpEtmm"
+      },
+      "artists": [
+        {
+          "name": "Future Islands",
+          "url": "https://open.spotify.com/artist/1WvvwcQx0tj6NdDhZZ2zZz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196400,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/0aGJkwtYb5DAJjpIAZ8lmZ"
+    },
+    {
+      "album": {
         "name": "Gloom",
         "url": "https://open.spotify.com/album/4cAwTMcwIYn36iVG2Uz2oz"
       },
@@ -12042,7 +12078,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 121162,
       "name": "Hotel Toothbrush",
       "url": "https://open.spotify.com/track/1MagY2liSWTngL3oEJ9TE0"
@@ -12792,6 +12828,24 @@
       "duration_ms": 188680,
       "name": "I Think My Mind Has Made Its Mind Up",
       "url": "https://open.spotify.com/track/2oal7Q9v9hFQXFZbaiGNsy"
+    },
+    {
+      "album": {
+        "name": "I Walk",
+        "url": "https://open.spotify.com/album/6q0bqFxDT60yWfMrodtaNs"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306173,
+      "name": "I Walk",
+      "url": "https://open.spotify.com/track/46ONmMQctmk94OljcgE5kP"
     },
     {
       "album": {
@@ -15756,7 +15810,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 270927,
       "name": "Lost Ones",
       "url": "https://open.spotify.com/track/1eTqpWYQf5w5osZizi2I5b"
@@ -16100,6 +16154,24 @@
       "duration_ms": 187160,
       "name": "Macaroon",
       "url": "https://open.spotify.com/track/4htHe9CbVRTYlzjdM09rE7"
+    },
+    {
+      "album": {
+        "name": "Made Out Of Memory",
+        "url": "https://open.spotify.com/album/1329EWe2YqVTTfdNLxVKKy"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214694,
+      "name": "Made Out Of Memory",
+      "url": "https://open.spotify.com/track/3MtYosUywchE5YIdNdg0vB"
     },
     {
       "album": {
@@ -22428,7 +22500,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 230253,
       "name": "Sick",
       "url": "https://open.spotify.com/track/4QL7eo4hZ7ZTk4mcbPZG4N"
@@ -23294,7 +23366,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177857,
       "name": "Something Cool",
       "url": "https://open.spotify.com/track/1NrZz7qJPeqwKPlyVLdAkQ"
@@ -24101,6 +24173,28 @@
     },
     {
       "album": {
+        "name": "VIVA HINDS",
+        "url": "https://open.spotify.com/album/4ondVT64jP4uRyuxP8gxLU"
+      },
+      "artists": [
+        {
+          "name": "Hinds",
+          "url": "https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz"
+        },
+        {
+          "name": "Grian Chatten",
+          "url": "https://open.spotify.com/artist/6XyAI3jtlsss5mJjAAJXzE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206563,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/2ysmyfV4hwLGsHjowCN3GU"
+    },
+    {
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/1jO18Vw412aDlvPgKn91eS"
       },
@@ -24600,7 +24694,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242870,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/24dCUervPkm3G8qqv50CWv"
@@ -25654,7 +25748,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 184900,
       "name": "The L",
       "url": "https://open.spotify.com/track/5puvpMBkEqqj1CacF1kxkS"
@@ -26308,6 +26402,24 @@
       "duration_ms": 200869,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/7aJxfa4BHhXR9mfexEbLEc"
+    },
+    {
+      "album": {
+        "name": "PRATTS & PAIN",
+        "url": "https://open.spotify.com/album/7IoPY9MnsHUoG5Emfp3R6q"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212133,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/6WqZzEA3Q24gnhQxHYX3Dg"
     },
     {
       "album": {
@@ -29380,6 +29492,24 @@
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"
+    },
+    {
+      "album": {
+        "name": "Wristwatch",
+        "url": "https://open.spotify.com/album/5lpIqexNhzFxvwyhzTIeTF"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222453,
+      "name": "Wristwatch",
+      "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
     },
     {
       "album": {

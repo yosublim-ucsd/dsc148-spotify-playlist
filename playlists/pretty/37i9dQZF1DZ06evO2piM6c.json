@@ -1,12 +1,12 @@
 {
   "description": "This is Sade. The essential tracks, all in one playlist.",
-  "num_followers": 395767,
+  "num_followers": 395886,
   "original_name": "This Is Sade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtejAAAAAAAEdTpkIivU4UBls94Meooi",
+  "snapshot_id": "Ztj0gAAAAADz1mUb7GrddX6h+9pM3Efo",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 321600,
-      "name": "Keep Looking",
-      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
+      "duration_ms": 241666,
+      "name": "Clean Heart",
+      "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Clean Heart",
-      "url": "https://open.spotify.com/track/10TTcq5sPRxx1hq2lQ04CI"
+      "duration_ms": 321600,
+      "name": "Keep Looking",
+      "url": "https://open.spotify.com/track/0Q97fST0xHWAEahe28rMrb"
     },
     {
       "added_at": null,

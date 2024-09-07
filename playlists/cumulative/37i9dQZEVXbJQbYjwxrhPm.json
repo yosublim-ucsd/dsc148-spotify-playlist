@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 219545,
       "name": "1 \u043c\u0438\u043b\u0438\u043e\u043d",
       "url": "https://open.spotify.com/track/7fmP2URec1aLre8J5ce5Gp"
@@ -142,6 +142,24 @@
       "duration_ms": 295471,
       "name": "BACK TO ME",
       "url": "https://open.spotify.com/track/1icgLGTpX2fQXKRe4D7w2b"
+    },
+    {
+      "album": {
+        "name": "= - Tour Edition",
+        "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Bad Habits",
+      "url": "https://open.spotify.com/track/6ex1Pz3pntgy4NPtxHXN2V"
     },
     {
       "album": {
@@ -786,7 +804,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177977,
       "name": "DJALEBIBEBI",
       "url": "https://open.spotify.com/track/3lj4Jt7n9k6wlsgTz6ruyV"
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/2esZG2XFtuoWWA9AfDvSxy"
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 129557,
       "name": "Ghost in My Mind",
       "url": "https://open.spotify.com/track/6OxeB3RNo9oirUYejCQmOf"
@@ -1460,7 +1478,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e"
@@ -1576,7 +1594,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 78492,
       "name": "Interlude : Showtime",
       "url": "https://open.spotify.com/track/45zLrK0668WQ5JFMyiYmCS"
@@ -2571,6 +2589,24 @@
     },
     {
       "album": {
+        "name": "= - Tour Edition",
+        "url": "https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207853,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0"
+    },
+    {
+      "album": {
         "name": "Shmekeria",
         "url": "https://open.spotify.com/album/5VnEl1gYx14hGrh8jyWj8T"
       },
@@ -3477,6 +3513,32 @@
     },
     {
       "album": {
+        "name": "\u0411\u0430\u0448\u043c\u0430\u0439\u0441\u0442\u043e\u0440\u0441\u043a\u0430",
+        "url": "https://open.spotify.com/album/3TSTVv5u0S4wGktlHdQNEO"
+      },
+      "artists": [
+        {
+          "name": "Billy Hlapeto",
+          "url": "https://open.spotify.com/artist/0dz4rGLXin0gvKYqFh7iyI"
+        },
+        {
+          "name": "Lexus",
+          "url": "https://open.spotify.com/artist/7L0jOBGO246iJcBr8uWfXs"
+        },
+        {
+          "name": "Dim4ou",
+          "url": "https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187333,
+      "name": "\u0411\u0430\u0448\u043c\u0430\u0439\u0441\u0442\u043e\u0440\u0441\u043a\u0430",
+      "url": "https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG"
+    },
+    {
+      "album": {
         "name": "\u0411\u043e\u043c, \u0411\u043e\u043c",
         "url": "https://open.spotify.com/album/7cekQBr7MUbxcUVcb1UTwa"
       },
@@ -3730,7 +3792,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 189473,
       "name": "\u0418\u0433\u0440\u0430\u0439",
       "url": "https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT"
@@ -3828,7 +3890,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 192130,
       "name": "\u041b\u043e\u0448 \u0438\u043b\u0438 \u0434\u043e\u0431\u044a\u0440",
       "url": "https://open.spotify.com/track/2CLzpljGsOPW7GyWyPRRP9"
@@ -4094,7 +4156,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 240937,
       "name": "\u041e\u0442 \u043a\u0435\u0444 \u0434\u0430 \u0443\u043c\u0438\u0440\u0430\u043c",
       "url": "https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA"

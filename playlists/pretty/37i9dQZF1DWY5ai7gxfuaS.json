@@ -1,6 +1,6 @@
 {
   "description": "The future of metal is here.",
-  "num_followers": 294913,
+  "num_followers": 294992,
   "original_name": "Alternative Metal",
   "owner": {
     "name": "Spotify",
@@ -327,26 +327,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "FAIRY PHONK",
-        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
-        },
-        {
-          "name": "ZAND",
-          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
-        }
-      ],
-      "duration_ms": 125454,
-      "name": "KILL ALL PREDATORS",
-      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "DOMINATION",
         "url": "https://open.spotify.com/album/2jTIMYQcx87QLi8eBFmIob"
       },
@@ -367,6 +347,26 @@
       "duration_ms": 168800,
       "name": "DOMINATION",
       "url": "https://open.spotify.com/track/3Co9QY7WBNKoS44Nsk93r6"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "FAIRY PHONK",
+        "url": "https://open.spotify.com/album/305PTplSb0MkTkVEOgV6Kj"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        },
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "duration_ms": 125454,
+      "name": "KILL ALL PREDATORS",
+      "url": "https://open.spotify.com/track/0mH0iiNINYULYFwszeqWnW"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Hide in Shade",
-        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
-      },
-      "artists": [
-        {
-          "name": "Zeal & Ardor",
-          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Hide in Shade",
-      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "VAMPIR",
         "url": "https://open.spotify.com/album/0ZjZyPw9pHhOahynV7tSaW"
       },
@@ -467,22 +451,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "HIGHER POWER",
-        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
-      },
-      "artists": [
-        {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
-        }
-      ],
-      "duration_ms": 163413,
-      "name": "HIGHER POWER",
-      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Drown",
         "url": "https://open.spotify.com/album/12Sjx8c63V2PHvbgX6f7Ge"
       },
@@ -499,6 +467,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Hide in Shade",
+        "url": "https://open.spotify.com/album/7wdLmNajoqvqSyl2GxvcOY"
+      },
+      "artists": [
+        {
+          "name": "Zeal & Ardor",
+          "url": "https://open.spotify.com/artist/6yCjbLFZ9qAnWfsy9ujm5Y"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Hide in Shade",
+      "url": "https://open.spotify.com/track/2w9JZiLSFfvTNs3liiWLg3"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Monochrome",
         "url": "https://open.spotify.com/album/6IoOqdEHdwLgfUONXeYvoI"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 237354,
       "name": "Monochrome",
       "url": "https://open.spotify.com/track/2Rw6wkd0q3LXx5xsdjLs1P"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "HIGHER POWER",
+        "url": "https://open.spotify.com/album/6WTTG3Lz51QlbpyY9AeYDJ"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 163413,
+      "name": "HIGHER POWER",
+      "url": "https://open.spotify.com/track/7DgbryJIzvkjsXKhteGrKz"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -671,18 +671,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Reckoning",
-        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
+        "name": "As They Bloom",
+        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
       },
       "artists": [
         {
-          "name": "Icon For Hire",
-          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 208360,
-      "name": "Gatekeepers",
-      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
+      "duration_ms": 237259,
+      "name": "As They Bloom",
+      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -703,18 +703,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "As They Bloom",
-        "url": "https://open.spotify.com/album/0SjpmCExNNFTd4zHxXuMFJ"
+        "name": "The Reckoning",
+        "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
       "artists": [
         {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+          "name": "Icon For Hire",
+          "url": "https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7"
         }
       ],
-      "duration_ms": 237259,
-      "name": "As They Bloom",
-      "url": "https://open.spotify.com/track/2VXox441YYAPS1srSR7mGI"
+      "duration_ms": 208360,
+      "name": "Gatekeepers",
+      "url": "https://open.spotify.com/track/63pBzNTtzByif59lsK3dou"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "In Limbo",
+        "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
+      },
+      "artists": [
+        {
+          "name": "Revnoir",
+          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
+        }
+      ],
+      "duration_ms": 276480,
+      "name": "In Limbo",
+      "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/0IyXHRcQxesZtc09HdKCyv"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 161860,
       "name": "Welcome To Hell (feat. Emmure)",
       "url": "https://open.spotify.com/track/3B8UX8YFfS7ck4BOI7Hc7U"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "In Limbo",
-        "url": "https://open.spotify.com/album/4tNRCmCPj37qUhIeoTlzUv"
-      },
-      "artists": [
-        {
-          "name": "Revnoir",
-          "url": "https://open.spotify.com/artist/6Jnxg5O26hXfwfbRSMzVuB"
-        }
-      ],
-      "duration_ms": 276480,
-      "name": "In Limbo",
-      "url": "https://open.spotify.com/track/47PYHSLF6jGxUxDXoUFs2v"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Mitsuko",
+        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
+      },
+      "artists": [
+        {
+          "name": "Lake Malice",
+          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
+        }
+      ],
+      "duration_ms": 129078,
+      "name": "Mitsuko",
+      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "ANTAGONIST RETURNS",
         "url": "https://open.spotify.com/album/1Y1gza8GXGUTuwYgZK0EWb"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 235000,
       "name": "Russian Doll",
       "url": "https://open.spotify.com/track/5KY4Km7rllwWovNNU8hhPt"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Mitsuko",
-        "url": "https://open.spotify.com/album/4FRKJAQ4jL39BOV1ju8GKO"
-      },
-      "artists": [
-        {
-          "name": "Lake Malice",
-          "url": "https://open.spotify.com/artist/4zoN3D2RviWzWeHvkT3wWO"
-        }
-      ],
-      "duration_ms": 129078,
-      "name": "Mitsuko",
-      "url": "https://open.spotify.com/track/1oIEBoljXDbbaEciwMVzfx"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/2K6lSKr0ZfEUU0mrJuwcGQ"
+      },
+      "artists": [
+        {
+          "name": "AILSHA",
+          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
+        }
+      ],
+      "duration_ms": 192637,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/7281czVHZ4ETc5yz4AYf09"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Oportunista",
         "url": "https://open.spotify.com/album/0bcLhYRcisUhImKFtAxxEh"
       },
@@ -1043,38 +1059,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Faking It",
-        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
-      },
-      "artists": [
-        {
-          "name": "Svalbard",
-          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
-        }
-      ],
-      "duration_ms": 328015,
-      "name": "Faking It",
-      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "MEOW",
-        "url": "https://open.spotify.com/album/2K6lSKr0ZfEUU0mrJuwcGQ"
-      },
-      "artists": [
-        {
-          "name": "AILSHA",
-          "url": "https://open.spotify.com/artist/3OL5LLdKpy2xb9P1lepdgH"
-        }
-      ],
-      "duration_ms": 192637,
-      "name": "MEOW",
-      "url": "https://open.spotify.com/track/7281czVHZ4ETc5yz4AYf09"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Camel Dancefloor",
         "url": "https://open.spotify.com/album/2kIuH8eEDlpUQhYVt5pvMn"
       },
@@ -1091,6 +1075,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Faking It",
+        "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
+      },
+      "artists": [
+        {
+          "name": "Svalbard",
+          "url": "https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA"
+        }
+      ],
+      "duration_ms": 328015,
+      "name": "Faking It",
+      "url": "https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Soul Revolution",
         "url": "https://open.spotify.com/album/4JNGZre3bq4Fgmy0zUkOel"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 214775,
       "name": "Soul Revolution",
       "url": "https://open.spotify.com/track/3OMaAVh09E6AgvevhWybRP"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
-      },
-      "artists": [
-        {
-          "name": "Crippled Black Phoenix",
-          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
-        }
-      ],
-      "duration_ms": 491180,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1147,6 +1131,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/3HcXn4sSYlHrNcMfEgP9qJ"
+      },
+      "artists": [
+        {
+          "name": "Crippled Black Phoenix",
+          "url": "https://open.spotify.com/artist/6WEyPcf9ezhNLm1xOBjbwH"
+        }
+      ],
+      "duration_ms": 491180,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/5GbEVRKvHeBEE8PARaRQOJ"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Pyroclasts",
         "url": "https://open.spotify.com/album/7qBdr5VAmWMSJ7dij0mV3f"
       },
@@ -1159,26 +1159,6 @@
       "duration_ms": 656933,
       "name": "Frost (C)",
       "url": "https://open.spotify.com/track/24jWKZE0j30z3LlnzArFf2"
-    },
-    {
-      "added_at": "2024-07-19 13:56:32",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1aia6LRXEcNJKbGUMBfVgE"
-      },
-      "artists": [
-        {
-          "name": "Ice Sealed Eyes",
-          "url": "https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7"
-        },
-        {
-          "name": "FreeHowling",
-          "url": "https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG"
-        }
-      ],
-      "duration_ms": 228583,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1229,6 +1209,46 @@
       "url": "https://open.spotify.com/track/2vbixTLaxeZetGfoKx3Yl1"
     },
     {
+      "added_at": "2024-07-19 13:56:32",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1aia6LRXEcNJKbGUMBfVgE"
+      },
+      "artists": [
+        {
+          "name": "Ice Sealed Eyes",
+          "url": "https://open.spotify.com/artist/0eVDo1w1SoyNP0xswwFYi7"
+        },
+        {
+          "name": "FreeHowling",
+          "url": "https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG"
+        }
+      ],
+      "duration_ms": 228583,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1H2zKaQx4lFhfNtbYATw4k"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Don't Wait",
+        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
+      },
+      "artists": [
+        {
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
+        },
+        {
+          "name": "MUPP",
+          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+        }
+      ],
+      "duration_ms": 128371,
+      "name": "Don't Wait",
+      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+    },
+    {
       "added_at": "2024-07-19 10:51:43",
       "album": {
         "name": "On Circles",
@@ -1263,22 +1283,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Don't Wait",
-        "url": "https://open.spotify.com/album/6kw0XsjkS9XYTmNtxrb9eO"
+        "name": "Telescope",
+        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
       },
       "artists": [
         {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        },
-        {
-          "name": "MUPP",
-          "url": "https://open.spotify.com/artist/7B9Gg9epjQzfNGdxijFczG"
+          "name": "Tallah",
+          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
         }
       ],
-      "duration_ms": 128371,
-      "name": "Don't Wait",
-      "url": "https://open.spotify.com/track/4oOCcO06KEM6a8gEEBOh8x"
+      "duration_ms": 249979,
+      "name": "Telescope",
+      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1299,18 +1315,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Telescope",
-        "url": "https://open.spotify.com/album/5G4YhsTHSNpLSAutMvL80X"
+        "name": "Touch the Corpse",
+        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
       },
       "artists": [
         {
-          "name": "Tallah",
-          "url": "https://open.spotify.com/artist/6Idb4IHX4Mf8IlB6sXcsdf"
+          "name": "Irving Force",
+          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
         }
       ],
-      "duration_ms": 249979,
-      "name": "Telescope",
-      "url": "https://open.spotify.com/track/0EY7Er3cOHyLZplxeODrcs"
+      "duration_ms": 166948,
+      "name": "Touch the Corpse",
+      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1327,22 +1343,6 @@
       "duration_ms": 280549,
       "name": "Alone I Burn - Radio Edit",
       "url": "https://open.spotify.com/track/5GvOnHHJz0BUnlExQdPnAE"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Touch the Corpse",
-        "url": "https://open.spotify.com/album/2HTzM4EE1C2wMcY770FWWW"
-      },
-      "artists": [
-        {
-          "name": "Irving Force",
-          "url": "https://open.spotify.com/artist/1Hse4lep7I9RUgQ3Ro1NgX"
-        }
-      ],
-      "duration_ms": 166948,
-      "name": "Touch the Corpse",
-      "url": "https://open.spotify.com/track/29ZSMUsptm2ZiJkSx4uVrZ"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
+        "name": "The Product Of My Love",
+        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+      },
+      "artists": [
+        {
+          "name": "Druidess",
+          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "The Sniffing Accountant",
+      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/7gjF3Ii5c3cfMKGf0rJaG9"
       },
@@ -1383,18 +1399,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "The Product Of My Love",
-        "url": "https://open.spotify.com/album/6F1PKEajvGPPN3GYB38X5Y"
+        "name": "Demon Supreme",
+        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
       },
       "artists": [
         {
-          "name": "Druidess",
-          "url": "https://open.spotify.com/artist/6N29twfYpFP41MiqaJuCDW"
+          "name": "Lordi",
+          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
         }
       ],
-      "duration_ms": 228000,
-      "name": "The Sniffing Accountant",
-      "url": "https://open.spotify.com/track/4wisoTEwG61mZm6VhUxDcp"
+      "duration_ms": 211759,
+      "name": "Demon Supreme",
+      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1415,22 +1431,6 @@
       "duration_ms": 148426,
       "name": "Sun Up To Sun Down - Remix",
       "url": "https://open.spotify.com/track/0kGKVrrZtRsOAWhP1AXnuD"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "Demon Supreme",
-        "url": "https://open.spotify.com/album/4SltzsJwiJVafqeZmXGiiB"
-      },
-      "artists": [
-        {
-          "name": "Lordi",
-          "url": "https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh"
-        }
-      ],
-      "duration_ms": 211759,
-      "name": "Demon Supreme",
-      "url": "https://open.spotify.com/track/4gA4TtxgtVdx1lXirn3QdC"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "What's The Holy (Nobel) Today?",
-        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
-      },
-      "artists": [
-        {
-          "name": "Voice of Baceprot",
-          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
-        }
-      ],
-      "duration_ms": 226712,
-      "name": "What's The Holy (Nobel) Today?",
-      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Dr\u00fdsill",
         "url": "https://open.spotify.com/album/0iKkEZpsHWqoF1O5ESG2fE"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 532351,
       "name": "Dr\u00fdsill",
       "url": "https://open.spotify.com/track/5pYsByOqa325t7t46xudFx"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "What's The Holy (Nobel) Today?",
+        "url": "https://open.spotify.com/album/6YSOp0BzAFGLlHOnOOXLzK"
+      },
+      "artists": [
+        {
+          "name": "Voice of Baceprot",
+          "url": "https://open.spotify.com/artist/32rI2a65NqHEnTAewmPNEC"
+        }
+      ],
+      "duration_ms": 226712,
+      "name": "What's The Holy (Nobel) Today?",
+      "url": "https://open.spotify.com/track/6TqbmZBcbKSUhFzy7ouAZq"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1531,6 +1531,22 @@
       "duration_ms": 297381,
       "name": "Bleed Like You - Merzbow Version",
       "url": "https://open.spotify.com/track/5U6uLO5dwhUVZILVKHznu2"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "When the Cold Truth Has Worn Its Miserable Welcome Out",
+        "url": "https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg"
+      },
+      "artists": [
+        {
+          "name": "En Minor",
+          "url": "https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL"
+        }
+      ],
+      "duration_ms": 322125,
+      "name": "On the Floor",
+      "url": "https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1567,22 +1583,6 @@
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
-        "name": "When the Cold Truth Has Worn Its Miserable Welcome Out",
-        "url": "https://open.spotify.com/album/1HS3egJso4pCQiyKvVeerg"
-      },
-      "artists": [
-        {
-          "name": "En Minor",
-          "url": "https://open.spotify.com/artist/0U3Yu6Px35eYLuP5RkFVdL"
-        }
-      ],
-      "duration_ms": 322125,
-      "name": "On the Floor",
-      "url": "https://open.spotify.com/track/2gB0lJPGN3L1ueezkd559u"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "open water",
-        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
-      },
-      "artists": [
-        {
-          "name": "rouri404",
-          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
-        }
-      ],
-      "duration_ms": 126912,
-      "name": "open water",
-      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
-    },
-    {
-      "added_at": "2024-07-19 10:51:43",
-      "album": {
         "name": "Nowhere Now Here",
         "url": "https://open.spotify.com/album/4SnsgTwNCmqJMOiuj4hxH3"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2024-07-19 10:51:43",
       "album": {
-        "name": "Spiritual Architecture",
-        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+        "name": "open water",
+        "url": "https://open.spotify.com/album/1zmVVYStJqZZWxcsjfb9uT"
       },
       "artists": [
         {
-          "name": "Ashbringer",
-          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+          "name": "rouri404",
+          "url": "https://open.spotify.com/artist/6lQsMKSDG7XdirlE6YImHa"
         }
       ],
-      "duration_ms": 562515,
-      "name": "Spiritual Architecture",
-      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
+      "duration_ms": 126912,
+      "name": "open water",
+      "url": "https://open.spotify.com/track/592JTl3UlQvZyBd2329Sgf"
     },
     {
       "added_at": "2024-07-19 10:51:43",
@@ -1699,6 +1683,22 @@
       "duration_ms": 235214,
       "name": "Breaks",
       "url": "https://open.spotify.com/track/23nUxEzx3pCaxLPBB9MwPE"
+    },
+    {
+      "added_at": "2024-07-19 10:51:43",
+      "album": {
+        "name": "Spiritual Architecture",
+        "url": "https://open.spotify.com/album/3ZnxyzqpDXxW3xAyCuyvRf"
+      },
+      "artists": [
+        {
+          "name": "Ashbringer",
+          "url": "https://open.spotify.com/artist/697R3cOlkWzOAkXztLzeg2"
+        }
+      ],
+      "duration_ms": 562515,
+      "name": "Spiritual Architecture",
+      "url": "https://open.spotify.com/track/14Bif9nrgAFWI8X73sE7cY"
     },
     {
       "added_at": "2024-07-19 10:51:43",

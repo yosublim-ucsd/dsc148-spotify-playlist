@@ -2139,6 +2139,24 @@
     },
     {
       "album": {
+        "name": "Feel (Real Love)",
+        "url": "https://open.spotify.com/album/6hZzA8GiTJLtiN873lqUwt"
+      },
+      "artists": [
+        {
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161503,
+      "name": "Feel (Real Love)",
+      "url": "https://open.spotify.com/track/4PLv9pEMN70ZV3WJEgUsKI"
+    },
+    {
+      "album": {
         "name": "Feel The Sun (feat. Conor McLoughlin)",
         "url": "https://open.spotify.com/album/3oDTaFDokKXBrEo3cMFSWv"
       },
@@ -3940,6 +3958,28 @@
       "duration_ms": 251511,
       "name": "Make Up Your Mind (feat. Jaden Michaels) - VIP Mix",
       "url": "https://open.spotify.com/track/5FNGDkVvtmSFpk3oE0JUF5"
+    },
+    {
+      "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/4lNn3es3NqNZOPCt0bf0Fs"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "22Bullets",
+          "url": "https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/3AIsQI5RFVxzP3zWtWQsHr"
     },
     {
       "album": {

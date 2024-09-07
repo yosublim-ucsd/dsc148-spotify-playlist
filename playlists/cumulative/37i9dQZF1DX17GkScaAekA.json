@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "In A Landscape",
+        "url": "https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251642,
+      "name": "And Some Will Fall - Edit",
+      "url": "https://open.spotify.com/track/3zhI27rwuBWsh1LX4a1UF9"
+    },
+    {
+      "album": {
         "name": "Schubert: Classical Creations",
         "url": "https://open.spotify.com/album/1Dqu9JiEM8yLcjxY3CY5Xm"
       },
@@ -1056,6 +1074,28 @@
       "duration_ms": 170006,
       "name": "Keyboard Sonata in D Minor, K. 32",
       "url": "https://open.spotify.com/track/43zfoYckReFhQkf9g3Plvn"
+    },
+    {
+      "album": {
+        "name": "Profesi\u00f3n",
+        "url": "https://open.spotify.com/album/0dyXdhgy1xBPqk97JzFz8J"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Barrios Mangor\u00e9",
+          "url": "https://open.spotify.com/artist/5cOuSl6E1SSG9oPcOYRZQR"
+        },
+        {
+          "name": "Sean Shibe",
+          "url": "https://open.spotify.com/artist/4EFuBkf11kth7fbFXIpre5"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119160,
+      "name": "La catedral: I. Preludio (Saudade)",
+      "url": "https://open.spotify.com/track/1N1zNKs5kVMIAzDDt6Thwc"
     },
     {
       "album": {
@@ -2366,6 +2406,36 @@
       "duration_ms": 137212,
       "name": "Symphony Number 5, Allegro (Arr. Piano)",
       "url": "https://open.spotify.com/track/2DHdtlFEAIBdzqfGO4O9MI"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Variations on a Rococo Theme for Cello and Orchestra, Op. 33: Variation III. Andante sostenuto",
+        "url": "https://open.spotify.com/album/10g3hSCoHfatEOyo7yH6YH"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Edgar Moreau",
+          "url": "https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0"
+        },
+        {
+          "name": "Michael Sanderling",
+          "url": "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Tchaikovsky: Variations on a Rococo Theme for Cello and Orchestra, Op. 33: Variation III. Andante sostenuto",
+      "url": "https://open.spotify.com/track/4mkKp4L3q9u84NSAGqSGMt"
     },
     {
       "album": {

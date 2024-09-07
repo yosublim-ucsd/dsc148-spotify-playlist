@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:44tJHJzGo1h7XbBTepJwb0\">Ke'Erron</a>",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now. Cover:  <a href=\"spotify:artist:0wczmL4iUleqcy10Ek5Eyh\">JWLKRS Worship</a>",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -1992,6 +1992,24 @@
     {
       "album": {
         "name": "Build an Altar (Live)",
+        "url": "https://open.spotify.com/album/0dFJw4kqxUEMByQ76JPeAy"
+      },
+      "artists": [
+        {
+          "name": "Vertical Worship",
+          "url": "https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303449,
+      "name": "Build an Altar (Live)",
+      "url": "https://open.spotify.com/track/6WAuc401nzSQn4p8JlB0Td"
+    },
+    {
+      "album": {
+        "name": "Build an Altar (Live)",
         "url": "https://open.spotify.com/album/2b7AGgeYM5r5j19AuaHFUI"
       },
       "artists": [
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 303449,
       "name": "Build an Altar (Live)",
       "url": "https://open.spotify.com/track/3qFQ8jCfC9YchuakCswQda"
@@ -2291,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Christ The Perfect Sacrifice",
+        "url": "https://open.spotify.com/album/5j2UEbZfPwB2ROH3NecREG"
+      },
+      "artists": [
+        {
+          "name": "Selah",
+          "url": "https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297493,
+      "name": "Christ The Perfect Sacrifice",
+      "url": "https://open.spotify.com/track/2j7DfUnigXg0Gg4culnOxx"
+    },
+    {
+      "album": {
         "name": "City of God",
         "url": "https://open.spotify.com/album/6lmCotcDwtqlZskmdwBBau"
       },
@@ -2514,7 +2550,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 217495,
       "name": "Come Unto Jesus",
       "url": "https://open.spotify.com/track/1NCTwLSSviZZdaYPD4sM66"
@@ -2784,7 +2820,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 341200,
       "name": "Day For Singing - Live",
       "url": "https://open.spotify.com/track/1YXCgMrPlgmdSeaP2WT1jQ"
@@ -3344,7 +3380,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 223722,
       "name": "Feels To Be Free",
       "url": "https://open.spotify.com/track/4a5nav3DaelqdoyE0MZmRN"
@@ -4296,7 +4332,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 258130,
       "name": "Hands Of The Healer",
       "url": "https://open.spotify.com/track/1JQsy5MkGA400fSEumjxWN"
@@ -4574,6 +4610,28 @@
       "duration_ms": 249799,
       "name": "Help Us See Christ",
       "url": "https://open.spotify.com/track/02nIEKXN3xOrJr0I2ObiJn"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/0NclZ5R0omscBYFXn5QoyW"
+      },
+      "artists": [
+        {
+          "name": "JWLKRS Worship",
+          "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339109,
+      "name": "Here I Am (feat. Ashley Hess)",
+      "url": "https://open.spotify.com/track/3fXb7uR4CDGALrfKMkdIy3"
     },
     {
       "album": {
@@ -5968,7 +6026,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 298878,
       "name": "In The Name of Jesus (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/4O2mQtteYmGU173GcZjn6C"
@@ -6072,6 +6130,28 @@
       "duration_ms": 268909,
       "name": "Indescribable - Live",
       "url": "https://open.spotify.com/track/3qUe5K2RfxLKU8M94bwNqQ"
+    },
+    {
+      "album": {
+        "name": "Oh How Worthy (Live)",
+        "url": "https://open.spotify.com/album/3SimJVri4arEFQqEAbZdmx"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504514,
+      "name": "Inhabit - Live",
+      "url": "https://open.spotify.com/track/1WHBWjHUi6Nkyw2PZr6qOV"
     },
     {
       "album": {
@@ -9108,7 +9188,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 305120,
       "name": "Outnumbered - Live",
       "url": "https://open.spotify.com/track/2Dt3MmWoQKytfShbkCjIYw"
@@ -11341,6 +11421,24 @@
     },
     {
       "album": {
+        "name": "The Blood Of Jesus - Live",
+        "url": "https://open.spotify.com/album/6GXOSSBgf8U7TXnlvPZUwR"
+      },
+      "artists": [
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340624,
+      "name": "The Blood Of Jesus - Live",
+      "url": "https://open.spotify.com/track/4IBee17YDcWnLviAheYZIN"
+    },
+    {
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -12044,6 +12142,24 @@
       "duration_ms": 632000,
       "name": "There Is More (Patmos) - Live",
       "url": "https://open.spotify.com/track/1vcABnQFyo1egkdCFeJPlC"
+    },
+    {
+      "album": {
+        "name": "Family Nights, Vol. 2: Day For Singing - Live",
+        "url": "https://open.spotify.com/album/75ElVjeppeJFT2d4FHloew"
+      },
+      "artists": [
+        {
+          "name": "Mission House",
+          "url": "https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361500,
+      "name": "There Is Only One Name - Live",
+      "url": "https://open.spotify.com/track/3shaMTWCCgZicNa7zq2wfB"
     },
     {
       "album": {

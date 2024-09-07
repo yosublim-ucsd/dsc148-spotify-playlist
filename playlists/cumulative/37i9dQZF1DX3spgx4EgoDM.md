@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-328 songs - 20 hr 25 min
+329 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,8 @@
 | [Motines del Tigre](https://open.spotify.com/track/4cmCLvdwEveJvuqHSJJEMI) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Motines del Tigre](https://open.spotify.com/album/0ki41yGycf5fljXPjKT14s) | 2:20 | 2024-01-18 | 2024-07-27 |
 | [Muchachita](https://open.spotify.com/track/7rmT7CeqEFft8Os5chlRFW) | [VI\-EM](https://open.spotify.com/artist/44hJXrVhoyA1fV1dn4wdHC), [Bonny Lovy](https://open.spotify.com/artist/2oM7LqPaoCUcHHHnsTtgn1) | [Muchachita](https://open.spotify.com/album/2nTJmiRskbuFjqqehqyUuU) | 2:43 | 2022-07-05 | 2022-07-29 |
 | [Muchachita Consentida](https://open.spotify.com/track/0g2BQnxQiAgetPk4gMKLsm) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Muchachita Consentida \(Baile Total\)](https://open.spotify.com/album/03cU4oIfDKNsqMkrfbu418) | 3:33 | 2022-07-05 | 2022-07-29 |
-| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2022-07-05 |  |
+| [Mujer Que Mal Me Pagas](https://open.spotify.com/track/3AkjGkz4mT0fvOLMSUlCyV) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Mujer Que Mal Me Pagas](https://open.spotify.com/album/3OScm1nKAb2EMUKI1n8Bj6) | 3:38 | 2022-07-05 | 2024-09-07 |
+| [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2024-08-15 |  |
 | [Márchate ahora](https://open.spotify.com/track/3voxukrHBXctzxdSbCycey) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Sin mirar Atrás](https://open.spotify.com/album/4XhxlkhkuQFRIOJCVN2Mpi) | 3:54 | 2022-07-05 |  |
 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 | 2022-07-05 |  |
 | [Nadie Como Tú](https://open.spotify.com/track/7kWbSoOh7bs3ZkahpomJl8) | [Los Extraños](https://open.spotify.com/artist/4o42b77fvOMfJGnDVo8aWK) | [Los Extranos](https://open.spotify.com/album/2h77JnCvPzKX5Oovrb93tr) | 3:43 | 2022-07-05 | 2024-09-03 |

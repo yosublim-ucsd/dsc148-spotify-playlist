@@ -1,12 +1,12 @@
 {
   "description": "Jazzy blips and blops",
-  "num_followers": 574662,
+  "num_followers": 574698,
   "original_name": "Jazztronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAAFjQ87saKvfVPQc0RlOKFw",
+  "snapshot_id": "Ztp+QAAAAAAVqn2/K49FYTxqcuIwea0H",
   "tracks": [
     {
       "added_at": "2024-08-30 04:00:00",
@@ -31,6 +31,22 @@
       "duration_ms": 215100,
       "name": "NASCIMENTO",
       "url": "https://open.spotify.com/track/1wBy8fYNbGi2Wbt2lVOEES"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "ELECTRIC RIDER",
+        "url": "https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp"
+      },
+      "artists": [
+        {
+          "name": "\u99ac\u5834\u667a\u7ae0",
+          "url": "https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "WHAT IS ??",
+      "url": "https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT"
     },
     {
       "added_at": "2024-05-24 04:00:00",
@@ -511,22 +527,6 @@
       "duration_ms": 308160,
       "name": "Kairos (Kefi)",
       "url": "https://open.spotify.com/track/1BIuzWaarv9MXcHsJHXJ0I"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Between Planets",
-        "url": "https://open.spotify.com/album/1HXAyDt5jwwKPyi0tlH5WQ"
-      },
-      "artists": [
-        {
-          "name": "Elusive",
-          "url": "https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI"
-        }
-      ],
-      "duration_ms": 93648,
-      "name": "Crumbs",
-      "url": "https://open.spotify.com/track/7fsFSCGoDfOfBE5gco8NAM"
     },
     {
       "added_at": "2023-11-24 05:00:00",

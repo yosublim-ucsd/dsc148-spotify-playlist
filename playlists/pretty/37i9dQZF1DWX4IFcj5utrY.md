@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv?si=YK0nFpmcT7GzizH1e7bNwQ">Sio</a>, <a href="https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp?si=u34RXozVQma2PT7UApMHqA">Kid Fonque</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,132 likes - 59 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,137 likes - 55 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 53 | [Think Twice](https://open.spotify.com/track/5Pkpb4N9wLNpPnsQMQ5Wqh) | [!Sooks](https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI), [Ed\-Ward](https://open.spotify.com/artist/0KOXMkKRGGmQlle8xYvFLQ) | [4 The Floor](https://open.spotify.com/album/20rihG99JT6P30hUW9RM8I) | 5:02 |
 | 54 | [Seven Up](https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc) | [Lelowhatsgood](https://open.spotify.com/artist/3G1GDW2fFw536QyuZODfch), [Dee Traits](https://open.spotify.com/artist/78WiGrXy247kAziQ7GATKv) | [Seven Up](https://open.spotify.com/album/6nWRHiyClMb8iVeCR01gBu) | 5:52 |
 | 55 | [Pieces](https://open.spotify.com/track/15ZvZhkA572y7OoSgGzvqu) | [Tebza De SouL](https://open.spotify.com/artist/32vL21CG5wHt2GTj0flFyG) | [Pieces](https://open.spotify.com/album/1jhBxTHC12iy5qZ3z9Cg0m) | 6:05 |
-| 56 | [Mbali](https://open.spotify.com/track/0pwSE8755YcJXjlYrgUI5y) | [Blanka Mazimela](https://open.spotify.com/artist/5FgjaJZKmTjnJyfvE3UU2C), [MBAL'YESIZWE](https://open.spotify.com/artist/4IXntJvtyYdc7zVsggGoPU) | [Mbali](https://open.spotify.com/album/6AVg8bUVh4LZsI7H2tV3e4) | 7:16 |
-| 57 | [Around Here](https://open.spotify.com/track/78yX0DM4KLeRu0MzUwBD6X) | [Young DLC](https://open.spotify.com/artist/5vqYJ7hYVSMY2cZ7YADsAn) | [Around Here](https://open.spotify.com/album/2FpQ8wc5LlwAmSW7RyTu64) | 3:48 |
-| 58 | [Darli \(feat\. KAYMOR, Aymor SA, Magistics SA & Msongi\)](https://open.spotify.com/track/4NXKijcaXy3NmvQNOAwmyZ) | [JL SA](https://open.spotify.com/artist/1HhlP6BPW4L4zcggfOZstL), [KAYMOR](https://open.spotify.com/artist/2Z5moPWhn0kEREWxFMFkkZ), [Aymor SA](https://open.spotify.com/artist/2sNNTm7gKUshESpxjxAHZd), [Magistics SA](https://open.spotify.com/artist/39SJY7Bb3WhTFX0H1FbGMO), [Msongi](https://open.spotify.com/artist/5EVpgXduYKQyggrs93bPby) | [Hamba Nathi](https://open.spotify.com/album/10kJBZaNNKrl8G8W5vVq6V) | 7:42 |
-| 59 | [iThemba](https://open.spotify.com/track/4Zb3pc30RA1QtXezj5heEr) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Mpho.Wav](https://open.spotify.com/artist/4l8MDydHy2RGwcGscG0uCB) | [Sekusile](https://open.spotify.com/album/17EktvwMYBNNcXL4rXVai7) | 6:18 |
 
-Snapshot ID: `Zto38AAAAADfCM9wUXFcQCAXxT9m0+a4`
+Snapshot ID: `ZtqaRwAAAABSBsszasHx5gHjf1bsnVDi`

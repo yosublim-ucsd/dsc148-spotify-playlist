@@ -6343,6 +6343,28 @@
     },
     {
       "album": {
+        "name": "Look No Further",
+        "url": "https://open.spotify.com/album/4ca09UYlQAYRe38zsmUdpb"
+      },
+      "artists": [
+        {
+          "name": "Madison Mars",
+          "url": "https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42"
+        },
+        {
+          "name": "Grace Luisa",
+          "url": "https://open.spotify.com/artist/4TsDR2lgk4Nd9Zt5kw2gtD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Look No Further",
+      "url": "https://open.spotify.com/track/3Clcf6ZB3C1bnntfoNipWU"
+    },
+    {
+      "album": {
         "name": "Losing",
         "url": "https://open.spotify.com/album/0DBKauq7473ZXa49DN6Mad"
       },
@@ -6990,7 +7012,7 @@
       },
       "artists": [
         {
-          "name": "NEYVO",
+          "name": "Neyvo",
           "url": "https://open.spotify.com/artist/2hoNqBOIPGztCNSNZEwMQE"
         }
       ],

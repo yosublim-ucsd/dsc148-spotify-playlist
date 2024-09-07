@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-324 songs - 20 hr 31 min
+325 songs - 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bring Down The Wall](https://open.spotify.com/track/790G9Ym8dqZfqHacKrIqWX) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Bring Down The Wall](https://open.spotify.com/album/31i3mDrSNXHijWB3QWXB0p) | 3:25 | 2021-12-17 |  |
 | [Brother](https://open.spotify.com/track/12KxulDULE8bgL0IczZfQn) | [Daniel Pearson](https://open.spotify.com/artist/0yll2u1E5eqktJyKri1PNm) | [Brother](https://open.spotify.com/album/4L9RUOvHJsacUj5qIHr5Uh) | 2:59 | 2021-12-17 |  |
 | [California](https://open.spotify.com/track/0SZuZRybxPKuZ5H6CsSPX3) | [The Delta Saints](https://open.spotify.com/artist/5vCQg5Rpc7l4cPDRuR7Hdz) | [California](https://open.spotify.com/album/5AjIhyOMwxScWaqst3DbrU) | 3:42 | 2021-12-17 | 2023-12-02 |
-| [Call It A Day](https://open.spotify.com/track/5Wj3LM6AppledVJpn9mihn) | [Leon Creek](https://open.spotify.com/artist/1y4kcaSxQkyNAHI9NfzRXz) | [Far From Broken](https://open.spotify.com/album/0PwBCZoWiwIwKsXEaSFntx) | 3:43 | 2021-12-17 |  |
+| [Call It A Day](https://open.spotify.com/track/5Wj3LM6AppledVJpn9mihn) | [Leon Creek](https://open.spotify.com/artist/1y4kcaSxQkyNAHI9NfzRXz) | [Far From Broken](https://open.spotify.com/album/0PwBCZoWiwIwKsXEaSFntx) | 3:43 | 2021-12-17 | 2024-09-07 |
 | [Call It What It Is](https://open.spotify.com/track/5RTeMqtMcVCOukwgiNg11H) | [Ben Harper And The Innocent Criminals](https://open.spotify.com/artist/7sJ9LR0mCMgFlzJ6Y9xP64) | [Call It What It Is](https://open.spotify.com/album/57oXPv7yhDbk5TQjspArGP) | 3:47 | 2021-12-17 | 2023-12-02 |
 | [Can't Take No More](https://open.spotify.com/track/40ytn62ocVWKqwktVNo9Fs) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Can't Take No More](https://open.spotify.com/album/3ukHMBQUuVEbX3Nrphqdf8) | 3:45 | 2021-12-17 |  |
 | [Chains](https://open.spotify.com/track/4uGtVXkE0VG4rNmSEaFnde) | [Rose Cousins](https://open.spotify.com/artist/3DIk8KcmVKTr4uGw3AuCtJ) | [Natural Conclusion](https://open.spotify.com/album/6gig8cKPfwtSWOSSbZxGS2) | 3:14 | 2023-05-26 | 2024-04-19 |
@@ -200,6 +200,7 @@
 | [Nashville Money](https://open.spotify.com/track/36XYWC37Rai5NjYNP8OHfD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/3ZUO4WvP0zVHg0vdchYGTr) | 3:33 | 2023-01-13 |  |
 | [Native Son](https://open.spotify.com/track/2Oj2Z5hy2eJ9NTXLSBWEHG) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [Native Sons](https://open.spotify.com/album/2AH53pDM2S1jAggLLAueAM) | 3:10 | 2021-12-17 | 2022-03-12 |
 | [Need To Know Basis](https://open.spotify.com/track/03medhiG64fBChIiDBTNPK) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Need To Know Basis](https://open.spotify.com/album/1OIHlXoGI7Ybv44vuI8oP3) | 1:59 | 2022-07-22 |  |
+| [Never Too Late \- with Ben Harper](https://open.spotify.com/track/56ykKB10SCoKEBF3vRREw0) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Never Too Late \- with Ben Harper](https://open.spotify.com/album/0wfpeRu6eb3yOBRG0jXHBr) | 3:26 | 2024-09-06 |  |
 | [No Good](https://open.spotify.com/track/5Xx8krVxg1pRy6CXieB7FS) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc), [Vinyl on HBO](https://open.spotify.com/artist/52yUzlU6QBN8NxqTXOWCnW) | [No Good](https://open.spotify.com/album/4ZBpf04mlizWkXuh9X4e02) | 3:54 | 2021-12-17 |  |
 | [Number One](https://open.spotify.com/track/4Azj4bueh878ufsertTQDb) | [The Sideshow Tragedy](https://open.spotify.com/artist/3orDENaFfgt5gcLk24QHSS) | [Capital](https://open.spotify.com/album/38jGVyF1w8OvHapB9eOaap) | 3:11 | 2021-12-17 |  |
 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 | 2021-12-17 |  |

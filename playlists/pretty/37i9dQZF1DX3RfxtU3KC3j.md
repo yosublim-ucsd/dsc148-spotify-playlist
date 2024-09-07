@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 
 > Gitar ve davulu konuşturanlar\. Kapak: Yaşlı Amca
 
-[Spotify](https://open.spotify.com/user/spotify) - 530,824 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,905 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RfxtU3KC3j.md) - [plain]
 | 39 | [DELİ](https://open.spotify.com/track/6MNo14JU8satRzrCXPLoop) | [Rafat Hasanlı](https://open.spotify.com/artist/4BaSMoTobauZ9yQZw4VG4c) | [DELİ](https://open.spotify.com/album/5FmLvFuIv8OFbFAXhb0Rxv) | 2:22 |
 | 40 | [Her Şey Sen Kokuyor](https://open.spotify.com/track/61unso6Bp7Hny7oHiYZA3S) | [Pinhani](https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P) | [Her Şey Sen Kokuyor](https://open.spotify.com/album/1cmfRNK0K1cnTeLEfNClBC) | 4:19 |
 | 41 | [Sen ya da Hiç](https://open.spotify.com/track/633Y6jn9RSYF8ivr9QDIYH) | [Madrigal](https://open.spotify.com/artist/2aZlYOswKNlrwqpuTsckKd) | [Sen ya da Hiç](https://open.spotify.com/album/35wvdvhXZQoEc9J6OIg3oy) | 3:07 |
-| 42 | [Neden Olmasın?](https://open.spotify.com/track/7bQs0QDP7Su8mI35XPBUVW) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [Melih Gül](https://open.spotify.com/artist/1yfIOQl4yhNujeGfGGfM4f) | [Neden Olmasın?](https://open.spotify.com/album/18TnQsJzhrdXHNzOCaSYAR) | 3:54 |
+| 42 | [Neden Olmasın?](https://open.spotify.com/track/7bQs0QDP7Su8mI35XPBUVW) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO), [melih](https://open.spotify.com/artist/7v5y2DtJeWGa5dl6y1ntp1) | [Neden Olmasın?](https://open.spotify.com/album/18TnQsJzhrdXHNzOCaSYAR) | 3:54 |
 | 43 | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/track/7uXEUM3n77NF237Tftuimm) | [Mavi Gri](https://open.spotify.com/artist/4otJVkrLLqDF8OxFJOigme), [Ahmet Hatipoğlu](https://open.spotify.com/artist/2sOq4hJZRAybcz8AvKjDK4) | [Gülüşünde Bi' Şeyler Saklı](https://open.spotify.com/album/04a9Z16kXcdSeFJKaCsEho) | 2:38 |
 | 44 | [Başkası Mı Var](https://open.spotify.com/track/3x5J0yx9hB223pzEV6GayS) | [Skapova](https://open.spotify.com/artist/5Ip3Eje7dzsa2I38I1izYO) | [Başkası Mı Var](https://open.spotify.com/album/7vUAzjqCNo0XFUVLgvdPMX) | 3:45 |
 | 45 | [Ah Ben Öleyim Yollarına](https://open.spotify.com/track/1xVLRgRdoMxcYAYSuBhaIw) | [Zaaf](https://open.spotify.com/artist/50duVkVqOy98xlSpzJ865B) | [Ah Ben Öleyim Yollarına](https://open.spotify.com/album/0fD4x0ZSjaF8Ddhu9rFkMs) | 2:31 |

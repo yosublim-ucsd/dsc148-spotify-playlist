@@ -1,13 +1,37 @@
 {
   "description": "DIAMANTE",
-  "num_followers": 301894,
+  "num_followers": 302021,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztop4AAAAAB6Q8+u5VRIPCUOsocp4kf2",
+  "snapshot_id": "ZttazAAAAAAQ9bwNoDzmomtkDkEv1/iI",
   "tracks": [
+    {
+      "added_at": "2024-09-06 19:41:00",
+      "album": {
+        "name": "Tanzania (Rampa Remix)",
+        "url": "https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP"
+      },
+      "artists": [
+        {
+          "name": "Uncle Waffles",
+          "url": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ"
+        },
+        {
+          "name": "Rampa",
+          "url": "https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8"
+        },
+        {
+          "name": "Keinemusik",
+          "url": "https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j"
+        }
+      ],
+      "duration_ms": 235699,
+      "name": "Tanzania - Rampa Remix",
+      "url": "https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh"
+    },
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {

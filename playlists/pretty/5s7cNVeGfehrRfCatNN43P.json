@@ -1,264 +1,180 @@
 {
   "description": "Song Of The Week at the top. Standouts go to <a href=\"https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy\">Big Hit Energy</a> and <a href=\"https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv\">2022% Solid Pop Music</a>. More: <a href=\"http://popjustice.com\">Popjustice.com</a>.",
-  "num_followers": 10809,
+  "num_followers": 10811,
   "original_name": "New Music Friday: The Popjustice Edit",
   "owner": {
     "name": "Popjustice",
     "url": "https://open.spotify.com/user/popjustice"
   },
-  "snapshot_id": "AAAK5IlDOSGvjUGafvsfS9IZuXphk/Gm",
+  "snapshot_id": "AAAK5jFxE0wlCbaxv/Jjxc9UpY4VPaWW",
   "tracks": [
     {
-      "added_at": "2024-08-30 14:28:08",
+      "added_at": "2024-09-06 10:39:54",
       "album": {
-        "name": "Nasty",
-        "url": "https://open.spotify.com/album/5hZdkqHIgR3kdeTFFlZ7Dj"
+        "name": "BOY",
+        "url": "https://open.spotify.com/album/4QeC0vQhMooQYZMiJizbpi"
       },
       "artists": [
         {
-          "name": "Leah Kate",
-          "url": "https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r"
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
         }
       ],
-      "duration_ms": 156529,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/29FBmRrebixRofs0flcm4O"
+      "duration_ms": 151666,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/07OqVLTu7tXELtgFX1jQvZ"
     },
     {
-      "added_at": "2024-08-30 14:28:08",
+      "added_at": "2024-09-06 10:39:54",
       "album": {
-        "name": "The Sky is Blue",
-        "url": "https://open.spotify.com/album/2PGkJ5hUGcqI6VWs4YOkdW"
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
       "artists": [
         {
-          "name": "Annie",
-          "url": "https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L"
-        }
-      ],
-      "duration_ms": 225791,
-      "name": "The Sky is Blue",
-      "url": "https://open.spotify.com/track/3biSRkkErjPZIe0eBhiHga"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Girl Next Door (with Charley)",
-        "url": "https://open.spotify.com/album/4PS6VywjW9atGJIUDmh3jx"
-      },
-      "artists": [
-        {
-          "name": "Oliver Cronin",
-          "url": "https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Charley",
-          "url": "https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2"
-        }
-      ],
-      "duration_ms": 159318,
-      "name": "Girl Next Door (with Charley)",
-      "url": "https://open.spotify.com/track/4aRFUjAr2SurdXgDLLQ73u"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "GET UP BITCH! shake ya ass (with Anitta)",
-        "url": "https://open.spotify.com/album/4FgihUumJ9tM4f5wNUiUeV"
-      },
-      "artists": [
-        {
-          "name": "Victoria",
-          "url": "https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl"
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
         },
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 213333,
-      "name": "GET UP BITCH! shake ya ass (with Anitta)",
-      "url": "https://open.spotify.com/track/5sa4fcGgP4dsC6jeRffUSF"
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
-      "added_at": "2024-08-30 14:28:08",
+      "added_at": "2024-09-06 10:39:54",
       "album": {
-        "name": "Stop The Music",
-        "url": "https://open.spotify.com/album/5R8RvzbSUivYuk0fn8UPAZ"
+        "name": "Songs my friends might wanna dance to",
+        "url": "https://open.spotify.com/album/7cVOHtmGfN45izQ0y8ChEI"
       },
       "artists": [
         {
-          "name": "Peking Duk",
-          "url": "https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY"
+          "name": "Margaret Berger",
+          "url": "https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "I can`t make you love me",
+      "url": "https://open.spotify.com/track/2i2SrAq9CVlwmKH4nbKP2P"
+    },
+    {
+      "added_at": "2024-09-06 10:39:54",
+      "album": {
+        "name": "Infinite Icon",
+        "url": "https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx"
+      },
+      "artists": [
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
         },
         {
-          "name": "FEYI",
-          "url": "https://open.spotify.com/artist/2E41RSTUOR7CBYbfzXYI2t"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 151686,
-      "name": "Stop The Music",
-      "url": "https://open.spotify.com/track/3d5fazL1PWN7gwPmaPaf9Z"
+      "duration_ms": 175666,
+      "name": "BBA (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf"
     },
     {
-      "added_at": "2024-08-30 14:28:08",
+      "added_at": "2024-09-06 10:39:54",
       "album": {
-        "name": "Galina",
-        "url": "https://open.spotify.com/album/0KYNpXFnKd9FTtHUOlx6tx"
+        "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
       },
       "artists": [
         {
-          "name": "Allie X",
-          "url": "https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32"
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
         },
         {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 270448,
-      "name": "Galina",
-      "url": "https://open.spotify.com/track/41ZNfWxvTOgPZBukjhIjCe"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Another Lovesong",
-        "url": "https://open.spotify.com/album/5fphkf2DFgsEbtOx4sBCnL"
-      },
-      "artists": [
-        {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
-        }
-      ],
-      "duration_ms": 157614,
-      "name": "Another Lovesong",
-      "url": "https://open.spotify.com/track/7ElcwcWng7HG0mM4S0CKfV"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "2018",
-        "url": "https://open.spotify.com/album/6adhvOA1OkiN4QmxpD4Zcx"
-      },
-      "artists": [
-        {
-          "name": "TAAHLIAH",
-          "url": "https://open.spotify.com/artist/2pGARcnqDa3WoicxemVeqU"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "2018",
-      "url": "https://open.spotify.com/track/6S9sqqVGCau6PzteziaEIn"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "PAWZ",
-        "url": "https://open.spotify.com/album/13pKsRvNU67T96ERJH8vxm"
-      },
-      "artists": [
-        {
-          "name": "Bree Runway",
-          "url": "https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w"
-        }
-      ],
-      "duration_ms": 121951,
-      "name": "PAWZ",
-      "url": "https://open.spotify.com/track/7HgIsm8Oq9akUEUaLNBYHM"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Exhilarate (feat. Bibi Bourelly)",
-        "url": "https://open.spotify.com/album/5hjzYMk2CESQYfZo4a7fGL"
-      },
-      "artists": [
-        {
-          "name": "SOPHIE",
-          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
         },
         {
-          "name": "Bibi Bourelly",
-          "url": "https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7"
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
-      "duration_ms": 263122,
-      "name": "Exhilarate (feat. Bibi Bourelly)",
-      "url": "https://open.spotify.com/track/4JNOcgdDYesDZXCJgErW8N"
+      "duration_ms": 115533,
+      "name": "Paint The Town Blue (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
     },
     {
-      "added_at": "2024-08-30 14:28:08",
+      "added_at": "2024-09-06 10:39:54",
       "album": {
-        "name": "Late To The Party (feat. Declan McKenna)",
-        "url": "https://open.spotify.com/album/08YMpMJXbaxpIEqM946JoY"
+        "name": "DISTANCE",
+        "url": "https://open.spotify.com/album/0rOJHUxoUU6EdCjI2gkube"
       },
       "artists": [
         {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+          "name": "Kaeto",
+          "url": "https://open.spotify.com/artist/49haq8aaaDI1pXbY1XcQaK"
+        }
+      ],
+      "duration_ms": 211705,
+      "name": "DISTANCE",
+      "url": "https://open.spotify.com/track/62pL71pOrLHUoZ2ak7biKM"
+    },
+    {
+      "added_at": "2024-09-06 10:39:54",
+      "album": {
+        "name": "Mrs Dior",
+        "url": "https://open.spotify.com/album/7kypXLN1ED1BzGwvhaXN2D"
+      },
+      "artists": [
+        {
+          "name": "Sad Night Dynamite",
+          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
+        }
+      ],
+      "duration_ms": 192469,
+      "name": "Mrs Dior",
+      "url": "https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E"
+    },
+    {
+      "added_at": "2024-09-06 10:39:54",
+      "album": {
+        "name": "Somebody Else But Me",
+        "url": "https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "duration_ms": 210497,
+      "name": "Somebody Else But Me",
+      "url": "https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY"
+    },
+    {
+      "added_at": "2024-09-06 10:39:54",
+      "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/6j7BnRFKkIoj3bHZukWG7j"
+      },
+      "artists": [
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
         },
         {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+          "name": "Richello",
+          "url": "https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Late To The Party (feat. Declan McKenna)",
-      "url": "https://open.spotify.com/track/2zDfRGw37HXKFlJHZ7Oqy0"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Javelin",
-        "url": "https://open.spotify.com/album/7zkzhALo7c3k0WAgoMXq4V"
-      },
-      "artists": [
-        {
-          "name": "Rizzle Kicks",
-          "url": "https://open.spotify.com/artist/2ajhZ7EA6Dec0kaWiKCApF"
-        }
-      ],
-      "duration_ms": 189573,
-      "name": "Javelin",
-      "url": "https://open.spotify.com/track/1vlnBRlM6A4e270nzNQklS"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Talkie Talkie",
-        "url": "https://open.spotify.com/album/0277ls6sMug6oLmLGmM8q6"
-      },
-      "artists": [
-        {
-          "name": "Los Bitchos",
-          "url": "https://open.spotify.com/artist/07b9qW7pabKGO29JPWXn9m"
-        }
-      ],
-      "duration_ms": 182933,
-      "name": "Talkie Talkie, Charlie Charlie",
-      "url": "https://open.spotify.com/track/5rZCmL3GEG95x2BwVw2oTp"
-    },
-    {
-      "added_at": "2024-08-30 14:28:08",
-      "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 211313,
-      "name": "No Gravity (feat. Bava)",
-      "url": "https://open.spotify.com/track/6r4ual3l2rTXnxp6T8WM1g"
+      "duration_ms": 137019,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/6pkp8MTmqjavdVFWLr3XrI"
     }
   ],
   "unique_name": "New Music Friday: The Popjustice Edit",

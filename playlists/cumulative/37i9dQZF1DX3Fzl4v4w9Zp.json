@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Keep your finger on the pulse of Americana. Cover: Gillian Welch and David Rawlings",
+  "description": "Keep your finger on the pulse of Americana. Cover: The Heavy Heavy",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -3595,6 +3595,24 @@
     },
     {
       "album": {
+        "name": "Feel",
+        "url": "https://open.spotify.com/album/0kUek2LpxSfcLOe7Y57jCF"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213893,
+      "name": "Feel",
+      "url": "https://open.spotify.com/track/1hxqdrWciEV8yGA02mgj7W"
+    },
+    {
+      "album": {
         "name": "Feel Like Going Home",
         "url": "https://open.spotify.com/album/2DzbUMDWMSPbE7vJN2Ud1S"
       },
@@ -5112,6 +5130,28 @@
       "duration_ms": 227466,
       "name": "Hey Driver (feat. The War and Treaty)",
       "url": "https://open.spotify.com/track/4pCbJC43j3gSqG6Fen6upD"
+    },
+    {
+      "album": {
+        "name": "Roll It Out",
+        "url": "https://open.spotify.com/album/2burgS0VwDljnD5ZuSP6Rj"
+      },
+      "artists": [
+        {
+          "name": "The Deslondes",
+          "url": "https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1"
+        },
+        {
+          "name": "Riley Downing",
+          "url": "https://open.spotify.com/artist/1CUUaD4QTSHjEfrLohLaW6"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244373,
+      "name": "Hold On Liza",
+      "url": "https://open.spotify.com/track/1jTVWIe39u61LG05ZZb2rm"
     },
     {
       "album": {
@@ -8654,7 +8694,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165237,
       "name": "Piranhanana",
       "url": "https://open.spotify.com/track/10iJAaFvMXMNtnYmMQs7g0"
@@ -8780,7 +8820,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 269693,
       "name": "Portland Avenue",
       "url": "https://open.spotify.com/track/1x3dRgPewBVLmPzklKXJHh"
@@ -9884,7 +9924,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 206336,
       "name": "Since You've Been Gone",
       "url": "https://open.spotify.com/track/1oNa7B5qiFbiMbWIiyl5Bi"
@@ -10603,6 +10643,24 @@
     },
     {
       "album": {
+        "name": "Sunset Drive",
+        "url": "https://open.spotify.com/album/1S62o8tLH56HMycUQeUxk7"
+      },
+      "artists": [
+        {
+          "name": "Denitia",
+          "url": "https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202758,
+      "name": "Sunset Drive",
+      "url": "https://open.spotify.com/track/6ymEMVdD3IIpFdbJ1uhMiZ"
+    },
+    {
+      "album": {
         "name": "Surfboard",
         "url": "https://open.spotify.com/album/77NueVTYdHXbx8bmZ5EoIf"
       },
@@ -10788,6 +10846,24 @@
       "duration_ms": 166248,
       "name": "Talkin' to Myself",
       "url": "https://open.spotify.com/track/4K20Uwh83Jf6i8RXBrLCpD"
+    },
+    {
+      "album": {
+        "name": "Something Is Working Up Above My Head",
+        "url": "https://open.spotify.com/album/05eCc4XHbGhZ8jhVbQYnoX"
+      },
+      "artists": [
+        {
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189277,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/20k4xjW04YB2MnvlPGgsya"
     },
     {
       "album": {
@@ -12310,7 +12386,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 226680,
       "name": "What Now",
       "url": "https://open.spotify.com/track/1g8becOwXRFEkYukY94L99"

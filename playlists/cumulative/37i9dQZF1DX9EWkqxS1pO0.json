@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 126896,
       "name": "DURMA",
       "url": "https://open.spotify.com/track/4NJGNIZXwTI9DAT6iwxcgR"
@@ -737,6 +737,24 @@
     },
     {
       "album": {
+        "name": "Gitmem Gerek",
+        "url": "https://open.spotify.com/album/1GlwklstEmxnpyObVnKngZ"
+      },
+      "artists": [
+        {
+          "name": "ARAS \u0130dol",
+          "url": "https://open.spotify.com/artist/4S55arVgMLWyaabu95NKIx"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Gitmem Gerek",
+      "url": "https://open.spotify.com/track/1zEw0uSFAI80ayq89nwTA4"
+    },
+    {
+      "album": {
         "name": "Gitti\u011finden Beri",
         "url": "https://open.spotify.com/album/76tZW6wowp0N0dAYUBxUG7"
       },
@@ -918,6 +936,24 @@
       "duration_ms": 201662,
       "name": "\u0130stila",
       "url": "https://open.spotify.com/track/55RMTZJaCJpUl4lT8JmJX7"
+    },
+    {
+      "album": {
+        "name": "Kalbim Vazge\u00e7er mi?",
+        "url": "https://open.spotify.com/album/7gPUDvmlP1T8ZKxYylVgHA"
+      },
+      "artists": [
+        {
+          "name": "P\u0131nar \u00c7ubuk\u00e7u",
+          "url": "https://open.spotify.com/artist/0KrM666qwols9GarWiIMCD"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178439,
+      "name": "Kalbim Vazge\u00e7er mi?",
+      "url": "https://open.spotify.com/track/008H1sk94IpxHMBCKmFmGI"
     },
     {
       "album": {
@@ -1286,7 +1322,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 207000,
       "name": "Sen De Duysan",
       "url": "https://open.spotify.com/track/2AjxQZgvrh0URRqVlDv4SE"
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 148148,
       "name": "Yar\u0131n\u0131m\u0131z Yokmu\u015f Gibi",
       "url": "https://open.spotify.com/track/599bwrbqRY3VazJJ943iNV"
@@ -1996,7 +2032,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 147259,
       "name": "\u00d6mr\u00fcm Sende G\u00fczelim",
       "url": "https://open.spotify.com/track/6qtCAWl1dWjg0AonkGffXI"

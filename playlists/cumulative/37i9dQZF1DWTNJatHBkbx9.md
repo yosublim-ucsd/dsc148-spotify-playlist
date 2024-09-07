@@ -4,7 +4,7 @@
 
 > From the alternative scene in Ghana\. Cover: Øbed
 
-107 songs - 5 hr 9 min
+113 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A POET's BOOK](https://open.spotify.com/track/4E38NnL7k4ttirYrJ7Hxve) | [Jayadi](https://open.spotify.com/artist/4mfk4OCq0FQMYKEJsFjdAl) | [A POET's BOOK](https://open.spotify.com/album/631de2gJdyYojP3aixNqyq) | 2:04 | 2024-05-10 |  |
 | [Abyss](https://open.spotify.com/track/1c3Uvil5DpA6FfFPIi4914) | [Ess thee Legend](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA) | [Abyss](https://open.spotify.com/album/3SVQB6dIQvEaXe53CbZ1QQ) | 2:53 | 2024-05-10 |  |
 | [ACT A FOOL](https://open.spotify.com/track/7DR5U9CtjI9CTFXSAmD0Am) | [ALL MY COUSINS](https://open.spotify.com/artist/0sFj0XrhYtB62oLzheZ8Bm) | [ACT A FOOL](https://open.spotify.com/album/6wag0cQoAza8BuLTLkfPbI) | 2:35 | 2024-05-10 |  |
+| [ADRENALINE](https://open.spotify.com/track/4Oj4eDrQ1eDlWpkLIcEoG2) | [MikeMillzOn'em](https://open.spotify.com/artist/0KxeVhcuq9PzbLgeOeVelN), [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs), [Yartti](https://open.spotify.com/artist/0LIv7IHdHv0BDOmwSJvHa1) | [ADRENALINE](https://open.spotify.com/album/4yowgzfnrRmA8yvkuqfPHh) | 2:39 | 2024-09-06 |  |
 | [Agoro](https://open.spotify.com/track/5JemrWFhAJqMgVp2nli7ly) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Marince Omario](https://open.spotify.com/artist/3yqJ0i7h5llZuEgkcrgu7M) | [Agoro](https://open.spotify.com/album/02tQEc4LhQ8O18IIx5p3Yr) | 2:12 | 2024-07-05 |  |
 | [Angels in Tibet](https://open.spotify.com/track/23uUytja1B1mUOOIoygf6u) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:22 | 2024-05-10 |  |
 | [Aquamarie Luvs Ecstasy](https://open.spotify.com/track/0xIy8FcIz088Ec4dxslUtm) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 4:38 | 2024-05-10 | 2024-07-12 |
@@ -52,6 +53,7 @@
 | [Hello](https://open.spotify.com/track/15GZYiGVvGfR2FpIQQ4TPX) | [Lali X Lola](https://open.spotify.com/artist/6gQVhg7g1AS2jkNYLjdqb0) | [Hello](https://open.spotify.com/album/42x6GlAegX4dxYKB0R4ALK) | 3:09 | 2024-05-10 | 2024-05-17 |
 | [Here I Stand](https://open.spotify.com/track/6p5SGpqNHHX9r2RcSpGax4) | [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Here I Stand](https://open.spotify.com/album/0SMjKGc2Hq9NpmmZK3aqaR) | 3:08 | 2024-05-10 | 2024-05-24 |
 | [How Dare You](https://open.spotify.com/track/3zx16CX0uPhOxNvpYq6d64) | [Herman Suede](https://open.spotify.com/artist/795E5FXQUgbjuPBxk6igGm) | [How Dare You](https://open.spotify.com/album/5r1Xarkef6UT6W3jcT2h1t) | 2:27 | 2024-05-10 |  |
+| [iDENTIFY](https://open.spotify.com/track/4UD9UEti2WwQ89ACAA7lB0) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [iDENTIFY](https://open.spotify.com/album/6CHgG3KcZzmxljX8kN0dLq) | 2:22 | 2024-09-06 |  |
 | [JADED \(TO THE GAME\)](https://open.spotify.com/track/5dDGxh8NGe19NF1JlWnkVe) | [Oshunda](https://open.spotify.com/artist/3EcVhJ5cGXTuufus6nko8C) | [JADED \(TO THE GAME\)](https://open.spotify.com/album/6T9OSmFVLMUDvjS1b8hYX1) | 2:35 | 2024-05-17 | 2024-07-12 |
 | [Jolie](https://open.spotify.com/track/2BqNhy0Fc6VZk6TfQu5DDY) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Jolie](https://open.spotify.com/album/181bermR5Tqlsp90dHgvdP) | 2:45 | 2024-05-10 | 2024-05-17 |
 | [Just Breathe](https://open.spotify.com/track/4TScWOVUA0ae8vN4OynnPJ) | [Robin\-Huws](https://open.spotify.com/artist/1RcO4pGVPhNqj44hJL8bjA) | [Just Breathe](https://open.spotify.com/album/32dEuOayJMbdk4EbGWsPcs) | 3:15 | 2024-05-31 |  |
@@ -65,6 +67,7 @@
 | [Maame Water](https://open.spotify.com/track/63jrtMT19fAZsOfEz0sdAU) | [Juma Mufasa](https://open.spotify.com/artist/1qqHchzlrR4QtN0HW0sDIs) | [Maame Water](https://open.spotify.com/album/1g5iCtBlXt5J7DtdDb6iCS) | 2:59 | 2024-05-10 |  |
 | [Mango](https://open.spotify.com/track/4nQwVeAVqJOvb87LRblkzq) | [Aka Kelzz](https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb), [Ria Boss](https://open.spotify.com/artist/4RVL6ckos0QWCCz9dTFb5q) | [Mango](https://open.spotify.com/album/3uWMI4berrdyIKLjqMlip4) | 2:12 | 2024-05-10 | 2024-05-18 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-05-10 |  |
+| [Monsta Alta](https://open.spotify.com/track/5zkgUfmNAGU92kQXya07xJ) | [T'neeya](https://open.spotify.com/artist/39r1XfRA5kvyYjPYKzqBGL), [Trapp king](https://open.spotify.com/artist/3n1WCNSs8qTvDTa2WCoyRW) | [Monsta Alta](https://open.spotify.com/album/1QyTeg2mHlSK0XLMtMveJb) | 3:44 | 2024-09-06 |  |
 | [My Ones](https://open.spotify.com/track/1KLUIuk9LJKbZRJ37VXOEG) | [Kwxd](https://open.spotify.com/artist/6KZdCl4t1H7ljuC3v5eYxM) | [My Ones](https://open.spotify.com/album/0y8QIkp9MCg8cTgWFTEhIC) | 2:42 | 2024-08-16 |  |
 | [Nana](https://open.spotify.com/track/1OLldKrvp07y4UdpnCKcOO) | [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [AratheJay](https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN) | [4 DA PAIN](https://open.spotify.com/album/0TM6jciackri09qoY3SV9s) | 2:53 | 2024-08-02 |  |
 | [Necessary](https://open.spotify.com/track/4klNblGgC6vn5CSzDLW3H4) | [BiQo](https://open.spotify.com/artist/7ANB4Bn0ymGL0meB4VhR6y) | [Necessary](https://open.spotify.com/album/4BiNLm1Du56fIj23cAU6x1) | 2:07 | 2024-08-25 |  |
@@ -94,11 +97,14 @@
 | [Rhythms and Blues](https://open.spotify.com/track/0a3rLv5MLUxKJjSWPsYYIy) | [Lord Paper](https://open.spotify.com/artist/0PYZYiwCRGI69v56iyfzgb) | [Rhythms and Blues](https://open.spotify.com/album/5gQtma9p0VO3ZShVsT9tj3) | 2:12 | 2024-05-17 | 2024-06-01 |
 | [SELFISH.](https://open.spotify.com/track/4S6r7dVPgs36suKmecDxHp) | [Lesléy](https://open.spotify.com/artist/1LBzlrdp7raJkjb34IG7m2) | [SWEET AFROSEXY SUMMERS.](https://open.spotify.com/album/5EAyTaAbaZDTFJCBcsobgf) | 2:48 | 2024-06-14 | 2024-07-12 |
 | [Sexy Depression](https://open.spotify.com/track/4rxRHC2KKFuW5pdpwHrQlu) | [Susan Augustt](https://open.spotify.com/artist/1vx6qCxNhUH57xPZrBddo5) | [Sexy Depression](https://open.spotify.com/album/7dReE7L2OUuf0mhyNZyg9l) | 2:56 | 2024-05-10 | 2024-06-01 |
-| [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 | 2024-05-10 |  |
+| [Shameless](https://open.spotify.com/track/32CXAexi7NfqCVwqcv1EQo) | [Marvin Brooks](https://open.spotify.com/artist/2sAw6jGqa4He0kki8mXmU6) | [Shameless](https://open.spotify.com/album/22NoaGH5zH69UEbKcKIoUT) | 2:51 | 2024-05-10 | 2024-09-07 |
 | [Silver Lining](https://open.spotify.com/track/4mRI3XA0lzqmdrI7SFawFs) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM) | [Silver Lining](https://open.spotify.com/album/6Ow2LB1hUicQBaQ3mgkgJm) | 2:53 | 2024-05-31 |  |
 | [Soft Vibez \- Acoustic](https://open.spotify.com/track/6K5qsa0Jy4kre321ya2kaz) | [Mishasha](https://open.spotify.com/artist/2X8BDJoWGo3VkrzPy2fN7W) | [Soft Vibez \(Acoustic\)](https://open.spotify.com/album/6NWc7JXrrOaxQevjWNGUAd) | 4:21 | 2024-05-24 | 2024-08-31 |
+| [SOTEY](https://open.spotify.com/track/5IDpAYNMGX4z6VBspb6Rvk) | [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH) | [SOTEY](https://open.spotify.com/album/2XEkQE2Ig42tW6TwMXXQcL) | 2:40 | 2024-09-06 |  |
+| [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 | 2024-09-06 |  |
 | [Special Ting](https://open.spotify.com/track/0ffu2K1gzPsyQGxUwy0OPZ) | [Harma Boy](https://open.spotify.com/artist/0dBu3FtAi8txcbF1dc5Z0e) | [Special Ting](https://open.spotify.com/album/2pHulfIkZVxByik17VzIiZ) | 2:01 | 2024-05-10 | 2024-06-01 |
 | [Spell](https://open.spotify.com/track/6NWiVGfM7MmJkx2R5KJNgp) | [Y'akoto](https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [Pt\. 4: The Witch](https://open.spotify.com/album/5qGuOhiI8XabqApbSPGMPF) | 3:08 | 2024-07-12 |  |
+| [Stay](https://open.spotify.com/track/0OaUj6SrBMzDZX6zxSx7M0) | [Auds](https://open.spotify.com/artist/1aFw1fZWs3zT6r74Kimn2d) | [Stay](https://open.spotify.com/album/3msMmhEXtXVXfoUruwLyCH) | 3:12 | 2024-09-06 |  |
 | [sugar rush](https://open.spotify.com/track/3oYL2QHieHXI99OrqvLCoG) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9), [Merlyn Wood](https://open.spotify.com/artist/5AqnZL03z5cuZJMPVTRj9Y), [Ansah Live](https://open.spotify.com/artist/0hbJqr0rLt4pCA9iDLJfup) | [AIR PISCINE](https://open.spotify.com/album/3ayLyO1LSESbWvbvacY5KD) | 2:40 | 2024-07-26 |  |
 | [SUJIE](https://open.spotify.com/track/2KeaUOYGjNZ6AbLeMqfkBy) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/1hMNAF39jSTg1I26hgGz6T) | 1:55 | 2024-05-10 |  |
 | [sundays](https://open.spotify.com/track/1eV2Rt6YeyNUVdTLQpX6IZ) | [Øbed](https://open.spotify.com/artist/401y2oVJbv5VrskZIMGZm9) | [sundays](https://open.spotify.com/album/1Qgw1P1tA1b4RIeZZrMLHP) | 2:54 | 2024-06-14 |  |

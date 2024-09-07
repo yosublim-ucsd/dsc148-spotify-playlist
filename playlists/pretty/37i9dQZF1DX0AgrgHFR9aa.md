@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 
 > Les plus belles plumes rap français du moment\. Photo : BEN plg
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,774 likes - 40 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,803 likes - 40 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0AgrgHFR9aa.md) - [plain]
 | 17 | [Ledger \(feat\. PLK\)](https://open.spotify.com/track/01EyucDcdBiixZdeGkmXmz) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [VENI VIDI VICI](https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN) | 2:29 |
 | 18 | [La vérité](https://open.spotify.com/track/6Xi05MZvsGTf8DIWRKAkkX) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [La vérité](https://open.spotify.com/album/37HItjP0niHY1s2WTBZL9S) | 4:47 |
 | 19 | [Le plan B](https://open.spotify.com/track/2fLtZwOTINAaYP6bJefpUX) | [ISHA](https://open.spotify.com/artist/0dSh0CIa0HPd9kJmJSmGQo), [Limsa d'Aulnay](https://open.spotify.com/artist/7l6m2BySHwnjJuw22SXwh5) | [Bitume Caviar \(Vol.1\)](https://open.spotify.com/album/3Fr9OWBaK5i1nZh0BT38jN) | 2:41 |
-| 20 | [UNIVERS SONS](https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV) | [Deemax](https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt) | [À MA PLACE](https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5) | 3:42 |
+| 20 | [UNIVERS SONS](https://open.spotify.com/track/51snU4dNsRwzDE2R2T4NIV) | [Deemax](https://open.spotify.com/artist/3mnPgDAZ5fsnyeq6EMpGGt) | [À MA PLACE \- Version Complète](https://open.spotify.com/album/5yMmEs0xyfSN6AqgFPxEl5) | 3:42 |
 | 21 | [Plaine des Asphodèles](https://open.spotify.com/track/4feZ8pmKWjttSJnq2hYxjc) | [Primero](https://open.spotify.com/artist/1badJ5qBBvLuJ6qRqkRtR7) | [Plaine des Asphodèles](https://open.spotify.com/album/4KgrJ6VLq2xYsY7OF3wTRB) | 2:36 |
 | 22 | [pardon](https://open.spotify.com/track/76KHkoyMPy4wBPzIPVKtqN) | [Wallace Cleaver](https://open.spotify.com/artist/49qUD3ZuoOWEXwLgDwa3Eg) | [merci](https://open.spotify.com/album/011E6jHkQZ1A9MVHtYLy3b) | 2:55 |
 | 23 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |

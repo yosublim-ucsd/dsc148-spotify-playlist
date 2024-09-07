@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-157 songs - 7 hr 42 min
+159 songs - 7 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Beach Cruizer](https://open.spotify.com/track/7oXoDdKmi5HInxlcAkBHGr) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Fatbike Ride](https://open.spotify.com/album/5R5IB0LdQ6XnXymZpoB2y3) | 2:08 | 2022-07-22 |  |
 | [Big Apple](https://open.spotify.com/track/0v5swa6eOj8DIV7AhFwPUF) | [Saiko](https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni), [dustluv](https://open.spotify.com/artist/6hXRfx6rOvekCXcx7kJ8kj) | [Big Apple](https://open.spotify.com/album/7GuLbFG0oiqJwZaKmKBLv5) | 2:17 | 2022-07-22 |  |
 | [blue lines](https://open.spotify.com/track/1jrhlv8aZdzs2qYVDa0l82) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t) | [Placemaker](https://open.spotify.com/album/1SXZh1pLNYyfiAmld7JjJ8) | 2:15 | 2024-02-09 | 2024-02-23 |
+| [Bombenleger](https://open.spotify.com/track/5XiCpHVAEzVSgH7iDwR4UQ) | [Snares](https://open.spotify.com/artist/7h46uhEJEFdbvHJj4Kmz1D) | [Bombenleger](https://open.spotify.com/album/2i5CxKkbIjMgQGJejbcRCh) | 2:14 | 2024-09-06 |  |
 | [Born 2 Live \- Instrumental](https://open.spotify.com/track/3rlNahb3xsXq83bBPT6bee) | [O.C.](https://open.spotify.com/artist/5XI6qfoZSiEYtmItjfEX1Q) | [Word...Life \(Deluxe Edition\)](https://open.spotify.com/album/3UwGJNvu2bAzjxx25GlqA5) | 4:30 | 2022-07-22 |  |
 | [Caminos](https://open.spotify.com/track/6908A1nEezSYjpplzdfs2z) | [Rio Nilo](https://open.spotify.com/artist/4iS1CcjF3gNKPHrvNIoPLn) | [Caminos](https://open.spotify.com/album/1pe8XllgZslSzHlK4QgA3n) | 2:18 | 2022-07-22 | 2023-10-03 |
 | [Candy](https://open.spotify.com/track/4kEG7GfptFvhKG6WF4CsdR) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [Candy](https://open.spotify.com/album/4pPtVCFv3qzdC8kV1izQHB) | 2:02 | 2024-02-22 |  |
@@ -137,6 +138,7 @@
 | [Teekup](https://open.spotify.com/track/5YMXPKKjCo20suhXxBAhzh) | [The Jazzual Suspects](https://open.spotify.com/artist/7KH5fBS44kdTebdgzspYtJ) | [Teekup](https://open.spotify.com/album/5UKLOWUIr7WXBmKHuq10yb) | 3:00 | 2024-02-09 | 2024-02-23 |
 | [tenacity](https://open.spotify.com/track/4fyqvmE6wtNToLltodcUdk) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [tenacity](https://open.spotify.com/album/2ESfWemYIppncsc9JhFKqx) | 2:00 | 2023-06-21 |  |
 | [The Come up \(Instrumental\)](https://open.spotify.com/track/54AYyM0mxzfC7exwSSr3UU) | [AZ](https://open.spotify.com/artist/7HqrSDuI9lHuH1CDismTFg), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [Greatest Beats \(Instrumentals\)](https://open.spotify.com/album/66JOOuwoKp7ACuHidfD5Nx) | 3:07 | 2022-07-22 |  |
+| [The Knob Factor](https://open.spotify.com/track/6fjD5lMXUuFpkTTR4f8uz3) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [The Knob Factor](https://open.spotify.com/album/4plbUmY3l08JzOpMNjTzK8) | 2:37 | 2024-09-06 |  |
 | [The Light \- Instrumental Version](https://open.spotify.com/track/6RQdGCiHnoWPpTAfI97hUR) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Dat's That Shit! \(An Exclusive Collection of Rare Instrumentals from the Dat Vault\)](https://open.spotify.com/album/5gBjsO4i4OjLKWvwezXdIo) | 3:11 | 2022-07-22 |  |
 | [The Næckbræker](https://open.spotify.com/track/4U0RGb92eZ4VEJtdBmfRXN) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [To live & Die in U.A.](https://open.spotify.com/album/4ukakuZYnXtg5b8MDAn21O) | 3:10 | 2023-05-18 |  |
 | [The Séance \- Instrumental](https://open.spotify.com/track/2JqOJbANu4zJE149XDrdgk) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [The Séance \(Instrumental\)](https://open.spotify.com/album/4BC0OA44H4xddFtIEuCv0R) | 2:47 | 2022-07-22 |  |

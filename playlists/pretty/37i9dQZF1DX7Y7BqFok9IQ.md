@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,431 likes - 150 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,506 likes - 150 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Better The Devil You Know](https://open.spotify.com/track/2Nh6N7gFO5KpfQGVvducRY) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Better The Devil You Know](https://open.spotify.com/album/4EcrRDG5UDFHicNrke1DJ8) | 4:41 |
 | 2 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
-| 3 | [Long Way Down](https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Long Way Down](https://open.spotify.com/album/7g2BjgygWUGgHFp5LwGyHS) | 3:51 |
-| 4 | [Blow Wind Blow](https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Blow Wind Blow](https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs) | 3:28 |
+| 3 | [Looking for a Fight](https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [The Southern](https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE) | 3:23 |
+| 4 | [Long Way Down](https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V) | [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p) | [Long Way Down](https://open.spotify.com/album/7g2BjgygWUGgHFp5LwGyHS) | 3:51 |
 | 5 | [Tastes Like Heaven](https://open.spotify.com/track/7rWzGacuXlFQrtxxBKwWM7) | [Beware Of Darkness](https://open.spotify.com/artist/4DGNqGOtNY9niSpCKwINyU) | [Tastes Like Heaven](https://open.spotify.com/album/53Rg8ZnwNUA2iuwjLpyGS6) | 3:20 |
 | 6 | [Stand Up](https://open.spotify.com/track/24GtJcOJHupzE0zXfsqaTj) | [Brave Rival](https://open.spotify.com/artist/2tjh5W0sRxYe5Vr6EUh5go), [Will Wilde](https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ) | [Stand Up](https://open.spotify.com/album/2iQPYApeM3GraUn8UZzJwB) | 3:32 |
 | 7 | [Stronger](https://open.spotify.com/track/2gAxL2K1oGqFVZANHsfAkP) | [AK & The Red Kites](https://open.spotify.com/artist/2EXwo4zlnJz7u1o1wBhiHM) | [Proverbial Storm](https://open.spotify.com/album/6dZOYVVpuX85auwFnikAAB) | 2:27 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 149 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 150 | [Light Up The Sky](https://open.spotify.com/track/4EwICCST3U0KB6DwrK1L8Y) | [Apollo Junction](https://open.spotify.com/artist/0AzjiMoCvzOmUCPX7944dZ) | [Light Up The Sky](https://open.spotify.com/album/2STOuaYMyZWYtJIxCHm2lO) | 3:24 |
 
-Snapshot ID: `Zr7OwAAAAAAQgyqStha+j/8v2hKmAf1X`
+Snapshot ID: `Ztp+QAAAAABbaDsSpRjAbYVYzL5mfsMH`

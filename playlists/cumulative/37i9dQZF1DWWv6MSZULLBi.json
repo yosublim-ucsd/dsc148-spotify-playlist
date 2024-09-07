@@ -1079,6 +1079,42 @@
     },
     {
       "album": {
+        "name": "Ashe",
+        "url": "https://open.spotify.com/album/3OokDJn75iFhsvGmfOALoY"
+      },
+      "artists": [
+        {
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261265,
+      "name": "Ashe",
+      "url": "https://open.spotify.com/track/1NYGXD18EU7QlNuD0sdx9l"
+    },
+    {
+      "album": {
+        "name": "Audience of One",
+        "url": "https://open.spotify.com/album/7mbzYiuy6W2oquB6HbasxJ"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cornfield",
+          "url": "https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235989,
+      "name": "Audience of One",
+      "url": "https://open.spotify.com/track/6hbMsSfvZND7EZeTrJitit"
+    },
+    {
+      "album": {
         "name": "Ba Ba Song",
         "url": "https://open.spotify.com/album/3p2eePj2vNHZLn8s1WVgJ2"
       },
@@ -2713,6 +2749,24 @@
     },
     {
       "album": {
+        "name": "come on, baby! be a good girl for the camera",
+        "url": "https://open.spotify.com/album/3oj0PDzNlOtVEWy1Rrkzo7"
+      },
+      "artists": [
+        {
+          "name": "Ada Lea",
+          "url": "https://open.spotify.com/artist/3sE8O47mEFWR6pL0rwnAHy"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249575,
+      "name": "come on, baby! be a good girl for the camera",
+      "url": "https://open.spotify.com/track/0RpRs9ZjlxczDGJfEF5eh1"
+    },
+    {
+      "album": {
         "name": "Comeback",
         "url": "https://open.spotify.com/album/7mThlkMaVrBly1Yb93TrxF"
       },
@@ -3266,7 +3320,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 146500,
       "name": "Daydream",
       "url": "https://open.spotify.com/track/32pXMjwyuQaau2jgf6BTua"
@@ -4370,7 +4424,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 194800,
       "name": "Evening Dream",
       "url": "https://open.spotify.com/track/66Y0XuOxcBoVUFkBZY8Iuv"
@@ -4780,7 +4834,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 204830,
       "name": "Fabrics",
       "url": "https://open.spotify.com/track/3KsDwXekJyZFds3u6IyyGE"
@@ -4946,6 +5000,24 @@
       "duration_ms": 135288,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/6oSkiBsy0ruE8uhdBLybNB"
+    },
+    {
+      "album": {
+        "name": "Fast One",
+        "url": "https://open.spotify.com/album/5j1U2904RTgJ2fxMFhxAGj"
+      },
+      "artists": [
+        {
+          "name": "Madisyn Gifford",
+          "url": "https://open.spotify.com/artist/1cNquoaU6Fzw8gbQTxBZ85"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172956,
+      "name": "Fast One",
+      "url": "https://open.spotify.com/track/6pj2C7ARwZT14JZlQBmYCY"
     },
     {
       "album": {
@@ -5614,6 +5686,24 @@
       "duration_ms": 197850,
       "name": "Friends Are Miracles",
       "url": "https://open.spotify.com/track/0q2HapDSEvu9paa4xtabf4"
+    },
+    {
+      "album": {
+        "name": "From Nowhere",
+        "url": "https://open.spotify.com/album/09mXUKFhJsl02Sqe5Vj1ZT"
+      },
+      "artists": [
+        {
+          "name": "Mo Kenney",
+          "url": "https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187040,
+      "name": "From Nowhere",
+      "url": "https://open.spotify.com/track/4p6uQOS4QsvyfZ1AgkGWvL"
     },
     {
       "album": {
@@ -7413,6 +7503,24 @@
     },
     {
       "album": {
+        "name": "I Walk",
+        "url": "https://open.spotify.com/album/6q0bqFxDT60yWfMrodtaNs"
+      },
+      "artists": [
+        {
+          "name": "Mount Eerie",
+          "url": "https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306173,
+      "name": "I Walk",
+      "url": "https://open.spotify.com/track/46ONmMQctmk94OljcgE5kP"
+    },
+    {
+      "album": {
         "name": "I Wanna Die in LA",
         "url": "https://open.spotify.com/album/5py1gViELB5XEa45BQTZ15"
       },
@@ -8200,6 +8308,24 @@
       "duration_ms": 186748,
       "name": "Joint Account",
       "url": "https://open.spotify.com/track/7MpiFzyjot6mHge9PZKlmm"
+    },
+    {
+      "album": {
+        "name": "Julia, East Coast",
+        "url": "https://open.spotify.com/album/6VmUsbgyoxoz1yOsqNLUgp"
+      },
+      "artists": [
+        {
+          "name": "Willa Owen",
+          "url": "https://open.spotify.com/artist/4530YXk5QycIMohu512pcC"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Julia, East Coast",
+      "url": "https://open.spotify.com/track/0kkYVRYnDbL0VE4etDz9UX"
     },
     {
       "album": {
@@ -10440,7 +10566,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 171960,
       "name": "Never Better",
       "url": "https://open.spotify.com/track/1pxgpwMbiIEMISagk9tLcV"
@@ -11292,7 +11418,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 190866,
       "name": "One Less Question",
       "url": "https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij"
@@ -11772,6 +11898,24 @@
       "duration_ms": 260509,
       "name": "Patterns",
       "url": "https://open.spotify.com/track/43wwn1EmqxcMOWYSd0Gk2Z"
+    },
+    {
+      "album": {
+        "name": "Peace of Mind (Evening)",
+        "url": "https://open.spotify.com/album/2vpQDZltXoemtEN90itVg8"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211853,
+      "name": "Peace of Mind (Evening)",
+      "url": "https://open.spotify.com/track/6ypqW6kawv0iJFyW1k1UQr"
     },
     {
       "album": {
@@ -12418,7 +12562,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 248465,
       "name": "resin",
       "url": "https://open.spotify.com/track/2GgcHVrvUikrFoBKRH6LcR"
@@ -13352,7 +13496,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 253733,
       "name": "Smoke On the Highway",
       "url": "https://open.spotify.com/track/6QfundULpaM2BSV7tcxBsL"
@@ -13832,7 +13976,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 305306,
       "name": "Southern Star",
       "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
@@ -16348,7 +16492,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 232373,
       "name": "Weighing Down",
       "url": "https://open.spotify.com/track/4KeNmjneXtB3PRPyBtB8nM"
@@ -16656,6 +16800,24 @@
       "duration_ms": 222367,
       "name": "What in the World",
       "url": "https://open.spotify.com/track/6Bt8N0YVzHZsQYqKIGwmEv"
+    },
+    {
+      "album": {
+        "name": "What Kind of Song",
+        "url": "https://open.spotify.com/album/04sJSfEqpFqch13wF5iqF4"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243133,
+      "name": "What Kind of Song",
+      "url": "https://open.spotify.com/track/3wpcAvvcAfzGxtHbC8GYsl"
     },
     {
       "album": {

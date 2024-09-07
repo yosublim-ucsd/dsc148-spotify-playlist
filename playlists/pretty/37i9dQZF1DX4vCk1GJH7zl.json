@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140126,
+  "num_followers": 140137,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Planet Zero",
-        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
-      },
-      "artists": [
-        {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
-        }
-      ],
-      "duration_ms": 248454,
-      "name": "A Symptom Of Being Human",
-      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Arquivo II 1991 - 2000",
         "url": "https://open.spotify.com/album/00NPVQ0890CmxIQcw61Rd6"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 257333,
       "name": "Aonde Quer Que Eu V\u00e1",
       "url": "https://open.spotify.com/track/0NFVg74sSsdU1gNc9xfpIO"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Planet Zero",
+        "url": "https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 248454,
+      "name": "A Symptom Of Being Human",
+      "url": "https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "But Here We Are",
-        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
       },
       "artists": [
         {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
         }
       ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "But Here We Are",
+        "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Legendary",
         "url": "https://open.spotify.com/album/4Qp0INJYYCPCOnUpOREZnb"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 245467,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/0NJKX45ZZnGWyDcEnoH7C5"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Pouso",
+        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
+      },
+      "artists": [
+        {
+          "name": "Zimbra",
+          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
+        }
+      ],
+      "duration_ms": 207145,
+      "name": "Eu Vi Tudo",
+      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2UF8ePNIpJAQiU6V7E1zRS"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 165428,
       "name": "Desejo Hostil",
       "url": "https://open.spotify.com/track/54MHgaSeIjTsTCBL6RVmTI"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 149646,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -427,90 +427,18 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Nada Sei (Apneia)",
-        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
       },
       "artists": [
         {
-          "name": "Paula Toller",
-          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
         }
       ],
-      "duration_ms": 229785,
-      "name": "Nada Sei - Apneia, Ao Vivo",
-      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "S\u00f3 n\u00f3s 2",
-        "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        },
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 218589,
-      "name": "S\u00f3 n\u00f3s 2",
-      "url": "https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "De Volta Ao Novo - Volume 1",
-        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "N-U-M-A-B-O-A",
-      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Pouso",
-        "url": "https://open.spotify.com/album/4N15xqOQMEsZFLMZ5r0dBy"
-      },
-      "artists": [
-        {
-          "name": "Zimbra",
-          "url": "https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg"
-        }
-      ],
-      "duration_ms": 207145,
-      "name": "Eu Vi Tudo",
-      "url": "https://open.spotify.com/track/6HSeZkMOD0wS2keT3Lg888"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Sonora",
-        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 213714,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -535,18 +463,74 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Sonora",
+        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "S\u00f3 n\u00f3s 2",
+        "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        },
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 218589,
+      "name": "S\u00f3 n\u00f3s 2",
+      "url": "https://open.spotify.com/track/5jzsJ2u56u12yENrxCRqSJ"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Nada Sei (Apneia)",
+        "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
+      },
+      "artists": [
+        {
+          "name": "Paula Toller",
+          "url": "https://open.spotify.com/artist/5BQveHScm6btG6jfbxwyfs"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 229785,
+      "name": "Nada Sei - Apneia, Ao Vivo",
+      "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -571,22 +555,38 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "On My Own (Live in Brazil)",
-        "url": "https://open.spotify.com/album/0enNwM1573EU28QawJJdJ2"
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
       },
       "artists": [
         {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        },
-        {
-          "name": "NX Zero",
-          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
         }
       ],
-      "duration_ms": 198250,
-      "name": "On My Own (Live In Brazil)",
-      "url": "https://open.spotify.com/track/1tFELGPptFjocrjTaRAqmM"
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "O Amor Liberta",
+        "url": "https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd"
+      },
+      "artists": [
+        {
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+        },
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 192634,
+      "name": "Come\u00e7a Tudo Outra Vez",
+      "url": "https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "O Amor Liberta",
-        "url": "https://open.spotify.com/album/0CHraoZMsUgNZazkXjSvwd"
-      },
-      "artists": [
-        {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
-        },
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 192634,
-      "name": "Come\u00e7a Tudo Outra Vez",
-      "url": "https://open.spotify.com/track/6fX0CLC0UcITuLpi2kl8T5"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Amor Em V\u00e3o",
         "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 211254,
       "name": "Amor Em V\u00e3o",
       "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "On My Own (Live in Brazil)",
+        "url": "https://open.spotify.com/album/0enNwM1573EU28QawJJdJ2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        },
+        {
+          "name": "NX Zero",
+          "url": "https://open.spotify.com/artist/1A3dFCPF68vh5lyxzBqLUH"
+        }
+      ],
+      "duration_ms": 198250,
+      "name": "On My Own (Live In Brazil)",
+      "url": "https://open.spotify.com/track/1tFELGPptFjocrjTaRAqmM"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Dragon",
+        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+      },
+      "artists": [
+        {
+          "name": "flora cash",
+          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+        }
+      ],
+      "duration_ms": 185684,
+      "name": "Dragon",
+      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Acoustic - Live At Opera de Arame",
         "url": "https://open.spotify.com/album/1Ei09raJ2GMEuC01MpnNbO"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Dragon",
-        "url": "https://open.spotify.com/album/42UhCrnOFpM7IekWMorsV1"
+        "name": "I Can't Live Without Your Love",
+        "url": "https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B"
       },
       "artists": [
         {
-          "name": "flora cash",
-          "url": "https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd"
+          "name": "Dan Torres",
+          "url": "https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd"
         }
       ],
-      "duration_ms": 185684,
-      "name": "Dragon",
-      "url": "https://open.spotify.com/track/2MGoRGsL1Q4kUL5ggkFOlC"
+      "duration_ms": 214608,
+      "name": "I Can't Live Without Your Love",
+      "url": "https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -751,22 +767,6 @@
       "duration_ms": 219759,
       "name": "Marvin - Microfonado",
       "url": "https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "I Can't Live Without Your Love",
-        "url": "https://open.spotify.com/album/2Dony1m2zhoMSDmmdrqj9B"
-      },
-      "artists": [
-        {
-          "name": "Dan Torres",
-          "url": "https://open.spotify.com/artist/0iS20B6yWWj6zaNXdry2fd"
-        }
-      ],
-      "duration_ms": 214608,
-      "name": "I Can't Live Without Your Love",
-      "url": "https://open.spotify.com/track/4GSUkiAbkz7ydnAHuWBGig"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "3 Eternidades",
-        "url": "https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        }
-      ],
-      "duration_ms": 154781,
-      "name": "3 Eternidades",
-      "url": "https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "4AM",
         "url": "https://open.spotify.com/album/23Suwv1qRqeO75u1QUVIGX"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 177397,
       "name": "4AM",
       "url": "https://open.spotify.com/track/4VfrfzD3LTqhsnUbw6SYWy"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "3 Eternidades",
+        "url": "https://open.spotify.com/album/49EWSDhQgSemVZtc8s4V1h"
+      },
+      "artists": [
+        {
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        }
+      ],
+      "duration_ms": 154781,
+      "name": "3 Eternidades",
+      "url": "https://open.spotify.com/track/4nxhDCMbxA4IGZcg2fxJbA"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Alquimia",
+        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
+      },
+      "artists": [
+        {
+          "name": "Dnaipes",
+          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
+        }
+      ],
+      "duration_ms": 226624,
+      "name": "Alquimia",
+      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Rotorquestra de Liquidificafu",
         "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 207500,
       "name": "Eu",
       "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Alquimia",
-        "url": "https://open.spotify.com/album/1Lta0vnybMxH2473GXUPIt"
-      },
-      "artists": [
-        {
-          "name": "Dnaipes",
-          "url": "https://open.spotify.com/artist/5M2uhgdUkJclA49HogSCae"
-        }
-      ],
-      "duration_ms": 226624,
-      "name": "Alquimia",
-      "url": "https://open.spotify.com/track/4NmZEzKC42IGwAZAyFoid1"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Jovem Senhor",
-        "url": "https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh"
-      },
-      "artists": [
-        {
-          "name": "Banda de UM",
-          "url": "https://open.spotify.com/artist/1144o8ABGaronlide0iQeq"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Ir Embora",
-      "url": "https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Vida Real",
         "url": "https://open.spotify.com/album/7pfiQUMW4GxfeLDaIZPKcE"
       },
@@ -1019,22 +1003,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
-      },
-      "artists": [
-        {
-          "name": "Blitz",
-          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
-        }
-      ],
-      "duration_ms": 216860,
-      "name": "Estive com Stevie",
-      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Outro Mundo, Outro Lugar",
         "url": "https://open.spotify.com/album/3AgoiJrNp2FvpBca5Vw0Hl"
       },
@@ -1047,6 +1015,38 @@
       "duration_ms": 226186,
       "name": "Outro Mundo, Outro Lugar",
       "url": "https://open.spotify.com/track/3GJLage5Or93NKfZAsqISf"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Jovem Senhor",
+        "url": "https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh"
+      },
+      "artists": [
+        {
+          "name": "Banda de UM",
+          "url": "https://open.spotify.com/artist/1144o8ABGaronlide0iQeq"
+        }
+      ],
+      "duration_ms": 202250,
+      "name": "Ir Embora",
+      "url": "https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2g26BC7k5JvYrsKMIZjogr"
+      },
+      "artists": [
+        {
+          "name": "Blitz",
+          "url": "https://open.spotify.com/artist/1POsQml4E21Ku75BirHFMQ"
+        }
+      ],
+      "duration_ms": 216860,
+      "name": "Estive com Stevie",
+      "url": "https://open.spotify.com/track/0gBsFURSrkTWWrIaZnYo9D"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Power Trio",
+        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
+      },
+      "artists": [
+        {
+          "name": "Humberto Gessinger",
+          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
+        }
+      ],
+      "duration_ms": 243504,
+      "name": "No Delta dos Rios",
+      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Sweet Virginia / Across the Universe",
         "url": "https://open.spotify.com/album/5Tp6LVqSOfc5BBV0GjQYn6"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 273089,
       "name": "Sweet Virginia",
       "url": "https://open.spotify.com/track/3S088c3IBFwMRuVBX8NFhT"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Power Trio",
-        "url": "https://open.spotify.com/album/4my2f5Jg1MTotcaknswcxR"
-      },
-      "artists": [
-        {
-          "name": "Humberto Gessinger",
-          "url": "https://open.spotify.com/artist/4A4HpNHrbu2nzPyIGFTaJ5"
-        }
-      ],
-      "duration_ms": 243504,
-      "name": "No Delta dos Rios",
-      "url": "https://open.spotify.com/track/7ifgiwIrIWAlckZPXSL2m2"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Acustico Dr. Sin 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
-      },
-      "artists": [
-        {
-          "name": "Dr. Sin",
-          "url": "https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D"
-        }
-      ],
-      "duration_ms": 274866,
-      "name": "Wake Me Up - Ao Vivo",
-      "url": "https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Polaroid Sonora",
         "url": "https://open.spotify.com/album/5TwD7OmBjWZRhiyODTvEwb"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Mais um Trabalhador",
-        "url": "https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d"
+        "name": "Acustico Dr. Sin 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/64pzulPMXejjXaT7OnDlXm"
       },
       "artists": [
         {
-          "name": "B\u00c1RBARA SILVA",
-          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
+          "name": "Dr. Sin",
+          "url": "https://open.spotify.com/artist/4YtYp2wFYIgdNsLWo6rM3D"
         }
       ],
-      "duration_ms": 199680,
-      "name": "Mais um Trabalhador",
-      "url": "https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ"
+      "duration_ms": 274866,
+      "name": "Wake Me Up - Ao Vivo",
+      "url": "https://open.spotify.com/track/2iY03xBQP66ShlxLe6h70V"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1203,6 +1187,22 @@
       "duration_ms": 266726,
       "name": "Vamos Fingir",
       "url": "https://open.spotify.com/track/6jiJdUBGnuy2YvsxIEXCaw"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Mais um Trabalhador",
+        "url": "https://open.spotify.com/album/6YV5T7aupc4j63nw1e3r8d"
+      },
+      "artists": [
+        {
+          "name": "B\u00c1RBARA SILVA",
+          "url": "https://open.spotify.com/artist/2wtqSDlZaxdRlek9nNF5XV"
+        }
+      ],
+      "duration_ms": 199680,
+      "name": "Mais um Trabalhador",
+      "url": "https://open.spotify.com/track/3OPgYlZ4aCCH3VLtzEoNtZ"
     },
     {
       "added_at": "2024-09-02 13:39:50",

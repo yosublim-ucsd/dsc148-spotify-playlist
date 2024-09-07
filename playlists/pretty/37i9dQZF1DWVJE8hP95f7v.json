@@ -1,6 +1,6 @@
 {
   "description": "Um apanhado do soul brasileiro para animar e dan\u00e7ar. Foto: Hyldon",
-  "num_followers": 152413,
+  "num_followers": 152416,
   "original_name": "Soul Brasil",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "ZtE17AAAAAA+A2N9XPUY30tXv6ZBEf7S",
   "tracks": [
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Aconteceu em Gerib\u00e1",
+        "url": "https://open.spotify.com/album/2ibzWbdC1sspjBkgUREIeR"
+      },
+      "artists": [
+        {
+          "name": "Hyldon",
+          "url": "https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY"
+        }
+      ],
+      "duration_ms": 278528,
+      "name": "Aconteceu em Gerib\u00e1",
+      "url": "https://open.spotify.com/track/32gkbhRVA46rnmZWsSDSdf"
+    },
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {

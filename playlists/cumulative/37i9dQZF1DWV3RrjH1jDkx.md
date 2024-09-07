@@ -4,7 +4,7 @@
 
 > Endelig fredag og masse ny musikk! 🎵
 
-2,046 songs - 4 day 9 hr 13 min
+2,049 songs - 4 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [Birds of Different Feathers \- Demo](https://open.spotify.com/track/2TQtPgyWEQWXq0tvTVhHIk) | [Louien](https://open.spotify.com/artist/3ZwQaquUgrZdqoWDtVUUMY) | [Every Dream I Ever Had \- Deluxe Version](https://open.spotify.com/album/2FdMzsq7drehPgraiLnvmT) | 2:40 | 2024-08-15 | 2024-08-23 |
 | [Birken](https://open.spotify.com/track/481nGipeRBS6wgMO6sMnfI) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Dio Mudara](https://open.spotify.com/artist/44dtVuy3JdjkJ0PqVh4nKy), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [Birken](https://open.spotify.com/album/6QtYBxelHBopL9DwsJYX9v) | 3:08 | 2024-04-26 | 2024-05-03 |
 | [Bite](https://open.spotify.com/track/3Rr1hUbn2bNVCGw4jLGoxg) | [Nossán](https://open.spotify.com/artist/56oCqjZTfwPSfbjrsolBGT) | [Bite](https://open.spotify.com/album/6s5YhUflC4eptXYG16vdQs) | 1:55 | 2024-06-07 | 2024-06-14 |
+| [Bite Me](https://open.spotify.com/track/1evLBpTrozHxW57WuzzmFZ) | [Lille Venn](https://open.spotify.com/artist/0ngIT2fGYCJycKARJKYiTw) | [Bite Me](https://open.spotify.com/album/1Q8bvefXY8mpmapL5Wjlu8) | 3:22 | 2024-09-06 |  |
 | [Biting My Tongue](https://open.spotify.com/track/3yUuElWQqnDLhxfb3gy1Fm) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [The Golden Years](https://open.spotify.com/album/4RYoxrJMKyyIMAdDxO1Io3) | 3:33 | 2024-07-26 | 2024-08-02 |
 | [bitter](https://open.spotify.com/track/7C9NEInmh4vXcDEmTR1RvZ) | [REYA](https://open.spotify.com/artist/5UZpstjG63lGYQLT8qXPyE) | [bitter](https://open.spotify.com/album/5Vhf26MRIVaOkiJRYL0xEb) | 2:06 | 2024-07-04 | 2024-07-12 |
 | [Bizarre](https://open.spotify.com/track/2Ynkav42rjASZktnr7ovf0) | [GiddyGang](https://open.spotify.com/artist/5hgceJkuyoeET8VNinxe4Q), [Vuyo](https://open.spotify.com/artist/6pWOGQubsgAiEZmzioIyDi), [Mushiva](https://open.spotify.com/artist/1UZdWsxck1zX4PzXrnr9ic), [Ivan Ave](https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS) | [All The Way / Bizarre](https://open.spotify.com/album/2hhP1KXUIcu5zt6wEDSi9R) | 3:11 | 2024-05-09 | 2024-05-17 |
@@ -948,6 +949,7 @@
 | [IBIZA](https://open.spotify.com/track/4POdzwp6hDWk0OMH2gNE6v) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [IBIZA](https://open.spotify.com/album/38wRFv5x1KqPeYXQlSHU8W) | 2:32 | 2024-06-27 | 2024-07-05 |
 | [ICONIC](https://open.spotify.com/track/1XtPkwEPrZkUt4vVOtHK3i) | [Raaban](https://open.spotify.com/artist/4cSYNpczcvTUpnPMFDLsIc), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [ICONIC](https://open.spotify.com/album/6dQD5jxlJiDSp6yWM4NRt9) | 2:29 | 2024-08-01 | 2024-08-09 |
 | [Idé](https://open.spotify.com/track/2NGBRftNPIlMCiofRwrulO) | [Amalie Holt Kleive](https://open.spotify.com/artist/5rXqPFxBFYOvDt08MhU0UZ) | [Idé](https://open.spotify.com/album/15HLhaqnxxvW70pJ6TU1B2) | 3:16 | 2024-09-05 |  |
+| [If I Fall \- Music from the Motion Picture Transformers One](https://open.spotify.com/track/3HkDOgyxSnO8XklAq8m0rX) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [If I Fall \- Music from the Motion Picture Transformers One](https://open.spotify.com/album/1uEUKZdEGnqIXnLU3hJnjA) | 5:37 | 2024-09-06 |  |
 | [If You Were My Girl](https://open.spotify.com/track/4PaVGOFq4LULy8arMFWDGU) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [If You Were My Girl](https://open.spotify.com/album/43wlF18ahRAesAEW0SIslv) | 3:07 | 2024-08-01 | 2024-08-09 |
 | [Igjen](https://open.spotify.com/track/611aBmgo9aG7XZug9EA49Q) | [Erik Arnøy](https://open.spotify.com/artist/4uWsPnCznLYYOn6bRQfIZh) | [Igjen](https://open.spotify.com/album/7cYN8OiNiuau81yn7P68kQ) | 3:01 | 2024-08-01 | 2024-08-09 |
 | [Ikke enkelt](https://open.spotify.com/track/0lfjmDtXCgdBVWnrjypWp3) | [Moillrock](https://open.spotify.com/artist/444fH5AiqWJ5fCEec28VkD), [Runar Terje Foslund](https://open.spotify.com/artist/4ynEaaRvspV4YRTqYEhrZT) | [Ikke enkelt](https://open.spotify.com/album/0M5IEdk3KGIJhmEASD42xT) | 3:38 | 2024-05-16 | 2024-05-24 |
@@ -1106,6 +1108,7 @@
 | [Litt av et liv](https://open.spotify.com/track/7wJFjKYPX1WnRRHo4Bp4NN) | [Kari Bremnes](https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd) | [Litt av et liv](https://open.spotify.com/album/08i0LdhG6T4Sr32lh6vxvl) | 4:40 | 2024-08-22 | 2024-08-30 |
 | [Living Proof](https://open.spotify.com/track/3vkoTOfHvOGyVSK4PNpebV) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Living Proof](https://open.spotify.com/album/033ib5SQJwXO1IXLPUXfuA) | 3:39 | 2024-05-16 | 2024-05-24 |
 | [Lobster Telephone \- Edit](https://open.spotify.com/track/6vrsFaISBLBKzQGZmqDnxK) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Lobster Telephone \(Edit\)](https://open.spotify.com/album/5SmaAe7mkfMRyfjw1emgZp) | 3:34 | 2024-05-16 | 2024-05-24 |
+| [Lock Me Up](https://open.spotify.com/track/3H3pGg2qLJOzd1KZEhIQa2) | [Mercer Henderson](https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L) | [Not Really Strangers](https://open.spotify.com/album/3DF6m6nrAO8D1MClEQE9gj) | 3:38 | 2024-09-06 |  |
 | [Lonely Days](https://open.spotify.com/track/1FUHBdTDSFmHvZ7ReZpmI6) | [Safri Duo](https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl), [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Lonely Days](https://open.spotify.com/album/3t4J5uFJHqUubUkx8zTjf1) | 2:33 | 2024-06-27 | 2024-07-05 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-22 | 2024-08-30 |
 | [Lonely is the Muse](https://open.spotify.com/track/6m3uTDJZzWymLsXOzlY6TD) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Lonely is the Muse](https://open.spotify.com/album/7pmdgUBwR0tLeE4OQtNdNj) | 4:01 | 2024-08-15 | 2024-08-23 |

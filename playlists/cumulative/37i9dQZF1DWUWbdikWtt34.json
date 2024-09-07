@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Dendang Dangdut teratas. Cover: Maulana Ardiansyah",
+  "description": "Dendang Dangdut teratas. Cover: Wandra Restusiyan, Projector Band",
   "name": "Dangdut Top",
   "tracks": [
     {
@@ -182,7 +182,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 287579,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1J6ws7eOvY1GKzTdd3rrau"
@@ -1357,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Jatuh Bangun",
+        "url": "https://open.spotify.com/album/2pcm5hzGChyqTYah12auu4"
+      },
+      "artists": [
+        {
+          "name": "SMAN 1 Jampangkulon (Gitsara)",
+          "url": "https://open.spotify.com/artist/1pS59gd0VO1Qw2NjNDYrXe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Jatuh Bangun",
+      "url": "https://open.spotify.com/track/5WGytp59Sk5j7Pzh3ejBjN"
+    },
+    {
+      "album": {
         "name": "Karena Cinta",
         "url": "https://open.spotify.com/album/7jcUXWfAU8Epw4051E8PZC"
       },
@@ -1556,7 +1574,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 301580,
       "name": "Konco Mesra",
       "url": "https://open.spotify.com/track/2ey0HK2pXI9y5cIW5NqFLj"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 229436,
       "name": "Lagi Syantik",
       "url": "https://open.spotify.com/track/2whJ6VW0y0EGhp1XYElDCp"
@@ -1852,7 +1870,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 305213,
       "name": "Mendung Tanpo Udan",
       "url": "https://open.spotify.com/track/0Z54rUZ81Vn0qphFR3jXUb"
@@ -2170,7 +2188,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 318482,
       "name": "Ojo Dibandingke",
       "url": "https://open.spotify.com/track/2BIQGFkSLWl0SPRxaPR48Z"
@@ -2235,6 +2253,28 @@
     },
     {
       "album": {
+        "name": "Orang Yang Salah",
+        "url": "https://open.spotify.com/album/0zi9EK30OsfcYzJXtwSg24"
+      },
+      "artists": [
+        {
+          "name": "Baby Shima",
+          "url": "https://open.spotify.com/artist/2zAfKhQim4rgBtphxttaLX"
+        },
+        {
+          "name": "Luvia band",
+          "url": "https://open.spotify.com/artist/68LnYWYS7UQ67awNV3RO6a"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207404,
+      "name": "Orang Yang Salah",
+      "url": "https://open.spotify.com/track/1CFljHV9T8Igz39KmoHF8I"
+    },
+    {
+      "album": {
         "name": "Pamer Bojo",
         "url": "https://open.spotify.com/album/7BJWsDmLqH8bWqIlzrqCxn"
       },
@@ -2246,7 +2286,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 294474,
       "name": "Pamer Bojo",
       "url": "https://open.spotify.com/track/6YbECT4fvOJE1CdvisQURa"
@@ -2398,7 +2438,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 300000,
       "name": "Perlahan",
       "url": "https://open.spotify.com/track/01TdkJ0lorIzBsdks8X1Tb"
@@ -2460,6 +2500,24 @@
       "duration_ms": 365969,
       "name": "Ramadhan Yang Ku Rindu",
       "url": "https://open.spotify.com/track/6Acip5VSeERRwTiNOW503T"
+    },
+    {
+      "album": {
+        "name": "Ramen",
+        "url": "https://open.spotify.com/album/7MBvNm0cweksWQyzABH4DG"
+      },
+      "artists": [
+        {
+          "name": "Intan",
+          "url": "https://open.spotify.com/artist/0xPWIqF0p6hk2WNYuiZUdB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276923,
+      "name": "Ramen",
+      "url": "https://open.spotify.com/track/2cxQOpwTHeZp9HfJvSLi11"
     },
     {
       "album": {
@@ -2680,7 +2738,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 311008,
       "name": "Satru",
       "url": "https://open.spotify.com/track/0kiLz3NcF1LMbn97OCTlgJ"
@@ -2698,7 +2756,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 229184,
       "name": "Satu Hati Sampai Mati",
       "url": "https://open.spotify.com/track/5L51wafs3f9Kd9rWSSoK3k"
@@ -2936,6 +2994,28 @@
       "duration_ms": 356757,
       "name": "Simpati Cinta",
       "url": "https://open.spotify.com/track/5e2GK1AWsrqqmQd0bZE3lP"
+    },
+    {
+      "album": {
+        "name": "Sinar Pelangi",
+        "url": "https://open.spotify.com/album/6P94jF7Fw16uVZXxw4G14o"
+      },
+      "artists": [
+        {
+          "name": "Wandra Restusiyan",
+          "url": "https://open.spotify.com/artist/0Kfx3xYTsVxoa0RqiaXrJP"
+        },
+        {
+          "name": "Projector Band",
+          "url": "https://open.spotify.com/artist/7iMjAugk2BtmWvhG5cI40L"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250639,
+      "name": "Sinar Pelangi",
+      "url": "https://open.spotify.com/track/668dgOwLrtua1DLaITJsYb"
     },
     {
       "album": {
@@ -3454,7 +3534,7 @@
       ],
       "date_added": "2021-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 247328,
       "name": "Wes Tatas",
       "url": "https://open.spotify.com/track/7rOAImf8ZV913bfYAFIZR8"

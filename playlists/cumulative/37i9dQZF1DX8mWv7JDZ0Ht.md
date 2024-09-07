@@ -2,7 +2,7 @@
 
 ### [Pop Leve](https://open.spotify.com/playlist/37i9dQZF1DX8mWv7JDZ0Ht)
 
-> Novidades do pop nacional pra te deixar mais leve! Foto: Clara Valverde
+> Novidades do pop nacional pra te deixar mais leve! Foto: Gabriel Froede, Joyce Alane
 
 686 songs - 1 day 10 hr 4 min
 

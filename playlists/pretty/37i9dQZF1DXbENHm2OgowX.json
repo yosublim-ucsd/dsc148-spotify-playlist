@@ -1,6 +1,6 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 218883,
+  "num_followers": 219108,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
@@ -387,22 +387,6 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Songs About Leaving",
-        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
-      },
-      "artists": [
-        {
-          "name": "Carissa's Wierd",
-          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
-        }
-      ],
-      "duration_ms": 286160,
-      "name": "They'll Only Miss You When You Leave",
-      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 213426,
       "name": "Warmth of You",
       "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Songs About Leaving",
+        "url": "https://open.spotify.com/album/0DUYAw29meoZyNTJIbXKkf"
+      },
+      "artists": [
+        {
+          "name": "Carissa's Wierd",
+          "url": "https://open.spotify.com/artist/5VnYwYnG7QmpzQtxyubIwh"
+        }
+      ],
+      "duration_ms": 286160,
+      "name": "They'll Only Miss You When You Leave",
+      "url": "https://open.spotify.com/track/3FmLbfanuf7XgtBypPWWcS"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -499,22 +499,18 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Alter",
-        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Lustmord",
-          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
-        },
-        {
-          "name": "Karin Park",
-          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 566208,
-      "name": "Entwined",
-      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -535,6 +531,26 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
+        "name": "Alter",
+        "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
+      },
+      "artists": [
+        {
+          "name": "Lustmord",
+          "url": "https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7"
+        },
+        {
+          "name": "Karin Park",
+          "url": "https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr"
+        }
+      ],
+      "duration_ms": 566208,
+      "name": "Entwined",
+      "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Earthbound Transmissions",
-        "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
+        "name": "where is life?",
+        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
       },
       "artists": [
         {
-          "name": "Scanner",
-          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
+          "name": "Sibewest",
+          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
         }
       ],
-      "duration_ms": 308000,
-      "name": "River Whispering Run",
-      "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
+      "duration_ms": 127384,
+      "name": "where is life?",
+      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -751,34 +751,18 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "where is life?",
-        "url": "https://open.spotify.com/album/54IOvcFUcG9W1pDDVQlFWP"
+        "name": "Earthbound Transmissions",
+        "url": "https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h"
       },
       "artists": [
         {
-          "name": "Sibewest",
-          "url": "https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs"
+          "name": "Scanner",
+          "url": "https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji"
         }
       ],
-      "duration_ms": 127384,
-      "name": "where is life?",
-      "url": "https://open.spotify.com/track/21dYy9mhm4vt8Mo3OfbClg"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Dreams of a Wake",
-        "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
-      },
-      "artists": [
-        {
-          "name": "thin air",
-          "url": "https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL"
-        }
-      ],
-      "duration_ms": 283986,
-      "name": "Chlorine Gargoyle",
-      "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
+      "duration_ms": 308000,
+      "name": "River Whispering Run",
+      "url": "https://open.spotify.com/track/7A5ldrheWtMQn2SJulc8dI"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -799,6 +783,22 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
+        "name": "Dreams of a Wake",
+        "url": "https://open.spotify.com/album/5suvbQk4ehNtmw4dKFXeIi"
+      },
+      "artists": [
+        {
+          "name": "thin air",
+          "url": "https://open.spotify.com/artist/65OVOH6e3BNhnFJX3qramL"
+        }
+      ],
+      "duration_ms": 283986,
+      "name": "Chlorine Gargoyle",
+      "url": "https://open.spotify.com/track/3QOuzsquI4xuxKDLIwhqmo"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
         "name": "skies",
         "url": "https://open.spotify.com/album/2QzZwOgirEOqTT3m1Lv6Gw"
       },
@@ -815,30 +815,6 @@
       "duration_ms": 129998,
       "name": "skies",
       "url": "https://open.spotify.com/track/6gBLPHyuFvXlNZA0QrvAdI"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "haunted (remixes)",
-        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
-      },
-      "artists": [
-        {
-          "name": "MADEBYGODES",
-          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
-        },
-        {
-          "name": "Sedogy Bedam",
-          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
-        },
-        {
-          "name": "weareflorence",
-          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
-        }
-      ],
-      "duration_ms": 153984,
-      "name": "haunted - + slowed version",
-      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -867,6 +843,30 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
+        "name": "haunted (remixes)",
+        "url": "https://open.spotify.com/album/7x8aZZv6uPClwBoRy3hTmX"
+      },
+      "artists": [
+        {
+          "name": "MADEBYGODES",
+          "url": "https://open.spotify.com/artist/4OXlZUkQMXImUKcUGuukhc"
+        },
+        {
+          "name": "Sedogy Bedam",
+          "url": "https://open.spotify.com/artist/198xMLATWaPlxnxW6dzgWt"
+        },
+        {
+          "name": "weareflorence",
+          "url": "https://open.spotify.com/artist/5VpCk450Ks61RKAA9OFyyi"
+        }
+      ],
+      "duration_ms": 153984,
+      "name": "haunted - + slowed version",
+      "url": "https://open.spotify.com/track/41kZoTblXlap0lNHaQA3Qw"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
         "name": "...Is Doomed",
         "url": "https://open.spotify.com/album/0ZqUMApKpofig9rLkK1fJP"
       },
@@ -879,6 +879,22 @@
       "duration_ms": 505249,
       "name": "If I Let Him In",
       "url": "https://open.spotify.com/track/6kpzNYqt7X3r3aMXDyZgHe"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 417142,
+      "name": "Polaroid",
+      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -943,22 +959,6 @@
       "duration_ms": 645000,
       "name": "Dry Retch - 2021 Remaster",
       "url": "https://open.spotify.com/track/6unZyubxwrlThrvlfMw1Ot"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
-      },
-      "artists": [
-        {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
-        }
-      ],
-      "duration_ms": 417142,
-      "name": "Polaroid",
-      "url": "https://open.spotify.com/track/0ViKD5cWI2NaPeTMhKp9EO"
     },
     {
       "added_at": "2024-08-29 11:43:18",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
+        "name": "Murken Hollow",
+        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+      },
+      "artists": [
+        {
+          "name": "Dead Melodies",
+          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+        }
+      ],
+      "duration_ms": 363284,
+      "name": "All That's Left Behind",
+      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
+    },
+    {
+      "added_at": "2024-08-29 11:43:18",
+      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -1107,34 +1123,18 @@
     {
       "added_at": "2024-08-29 11:43:18",
       "album": {
-        "name": "Murken Hollow",
-        "url": "https://open.spotify.com/album/695X5Psh92bFf5ytDQn44q"
+        "name": "Kaiten",
+        "url": "https://open.spotify.com/album/2witCrY38mr4JAfMSDKkty"
       },
       "artists": [
         {
-          "name": "Dead Melodies",
-          "url": "https://open.spotify.com/artist/34dfHqxGTjPV0tY4sHfHxu"
+          "name": "Genfukei",
+          "url": "https://open.spotify.com/artist/4e2us7hvY13KNElojgrW0Y"
         }
       ],
-      "duration_ms": 363284,
-      "name": "All That's Left Behind",
-      "url": "https://open.spotify.com/track/2A03Wj3IOAvZgxHnXoixZI"
-    },
-    {
-      "added_at": "2024-08-29 11:43:18",
-      "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/4VDue6QekQ9iZZpMTLS7ZX"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 237847,
-      "name": "Part",
-      "url": "https://open.spotify.com/track/03cSAXCu8hzINJuF6D0YBA"
+      "duration_ms": 168327,
+      "name": "Kaiten",
+      "url": "https://open.spotify.com/track/6JQoJ1mnw5nK9zR6UP8umm"
     },
     {
       "added_at": "2024-08-29 11:43:18",

@@ -1,12 +1,12 @@
 {
   "description": "Les hits zouk du moment. Photo : DJ Kawest",
-  "num_followers": 68785,
+  "num_followers": 68834,
   "original_name": "Zouk Station",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztop4AAAAADFeC5T14/PYY93OG+VMbrk",
+  "snapshot_id": "ZtrNqAAAAABN0GWQHk+Hkeg52De4p+l/",
   "tracks": [
     {
       "added_at": "2024-09-05 22:00:00",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J"
     },
     {
+      "added_at": "2024-09-06 09:38:48",
+      "album": {
+        "name": "J'me pr\u00e9f\u00e8re",
+        "url": "https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx"
+      },
+      "artists": [
+        {
+          "name": "Kany",
+          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
+        }
+      ],
+      "duration_ms": 175603,
+      "name": "J'me pr\u00e9f\u00e8re",
+      "url": "https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1"
+    },
+    {
       "added_at": "2024-09-05 22:00:00",
       "album": {
         "name": "CALAPA",
@@ -175,22 +191,6 @@
       "duration_ms": 151395,
       "name": "CALAPA",
       "url": "https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "J'me pr\u00e9f\u00e8re",
-        "url": "https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx"
-      },
-      "artists": [
-        {
-          "name": "Kany",
-          "url": "https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF"
-        }
-      ],
-      "duration_ms": 175603,
-      "name": "J'me pr\u00e9f\u00e8re",
-      "url": "https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1"
     },
     {
-      "added_at": "2024-09-05 22:00:00",
+      "added_at": "2024-09-06 09:38:48",
       "album": {
         "name": "Patch\u00e9 Pata",
         "url": "https://open.spotify.com/album/52Vqc4Gt6W0W0ymKeaOftd"

@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 174807,
       "name": "A New Life",
       "url": "https://open.spotify.com/track/6rZuVZc47SHsS6uIbTtgN8"
@@ -382,7 +382,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 86158,
       "name": "Alter Witz",
       "url": "https://open.spotify.com/track/4FO8ygXmPAxWeU8xX0JiVT"
@@ -960,7 +960,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 116883,
       "name": "bread & wine",
       "url": "https://open.spotify.com/track/53ycakt4shH4wnZveJnagh"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 192000,
       "name": "Coast Line",
       "url": "https://open.spotify.com/track/5k1E56NzUXs2ikHijAmPtS"
@@ -3316,7 +3316,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 101340,
       "name": "Hawaii",
       "url": "https://open.spotify.com/track/0tPEPFRjRO9C5dyZX1jurl"
@@ -4346,7 +4346,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 111103,
       "name": "last summer",
       "url": "https://open.spotify.com/track/4FjKXaAOnpf72mCwlalB6V"
@@ -6087,6 +6087,32 @@
     },
     {
       "album": {
+        "name": "Nowadayz",
+        "url": "https://open.spotify.com/album/1CRi9bXg6x1c5e5qxRX5b1"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": ".Eehou",
+          "url": "https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0"
+        },
+        {
+          "name": "T.Check",
+          "url": "https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124337,
+      "name": "Nowadayz",
+      "url": "https://open.spotify.com/track/4HvdrpohNELdW4PJbh617a"
+    },
+    {
+      "album": {
         "name": "flavors",
         "url": "https://open.spotify.com/album/37KIKJXw7K7YQP4LE8CbTd"
       },
@@ -6940,7 +6966,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 150624,
       "name": "redstarts anthem",
       "url": "https://open.spotify.com/track/3SaPKXrGjouLEhpLteWeOu"
@@ -8267,6 +8293,28 @@
     },
     {
       "album": {
+        "name": "Sundance",
+        "url": "https://open.spotify.com/album/5tzEGQEodiqOjSe0HEpAaC"
+      },
+      "artists": [
+        {
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/2yJaItXbZgD9yjdtFfUNgO"
+    },
+    {
+      "album": {
         "name": "sunday am",
         "url": "https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8"
       },
@@ -8282,6 +8330,24 @@
       "duration_ms": 118513,
       "name": "sunday am",
       "url": "https://open.spotify.com/track/1gr9Risxpt6BfHdu5VxtAx"
+    },
+    {
+      "album": {
+        "name": "SUNDAY SUN",
+        "url": "https://open.spotify.com/album/1SX0d2TR62aUzWVGEGGiXk"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136041,
+      "name": "SUNDAY SUN",
+      "url": "https://open.spotify.com/track/4qOYZ6B8I1uXM8lP3jztCq"
     },
     {
       "album": {

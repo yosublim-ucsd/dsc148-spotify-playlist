@@ -4,11 +4,11 @@
 
 > Get ready for a full\-body workout
 
-59 songs - 3 hr 9 min
+60 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [28 Kille \(From "Laavaan Phere"\)](https://open.spotify.com/track/5nDOoFYrDIfmbvvN7J3gd1) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [28 Kille \(From "Laavaan Phere"\)](https://open.spotify.com/album/4XVQdkkOMjKXDXyYa2boUg) | 3:26 | 2023-06-22 |  |
+| [28 Kille \(From "Laavaan Phere"\)](https://open.spotify.com/track/5nDOoFYrDIfmbvvN7J3gd1) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp), [Gurmeet Singh](https://open.spotify.com/artist/5aL0URFqLCRbrB3cewGLgF) | [28 Kille \(From "Laavaan Phere"\)](https://open.spotify.com/album/4XVQdkkOMjKXDXyYa2boUg) | 3:26 | 2023-06-22 | 2024-09-07 |
 | [3 Fire](https://open.spotify.com/track/28qsIUPPL4UBmdAjQRuSbQ) | [Sharry Mann](https://open.spotify.com/artist/5azWSYXVoLKYKHlR5zNJ7i), [Mista Baaz](https://open.spotify.com/artist/4WfXu0xIHhthU5Jb5x3hRq) | [3 Fire](https://open.spotify.com/album/2x1gPa6wBmi7lisi6f0GDE) | 3:48 | 2023-06-22 |  |
 | [Aitvaar](https://open.spotify.com/track/1oTyX0QcxOmnJlilzhfak1) | [Jaz Dhami](https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr) | [Pieces of Me](https://open.spotify.com/album/0raSkW1e3ld2c63hzvpchY) | 2:52 | 2023-06-22 |  |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2023-11-18 |  |
@@ -26,6 +26,7 @@
 | [Closer](https://open.spotify.com/track/6QokRHAKP1SZ36LVIoJYL8) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Closer](https://open.spotify.com/album/6XBjf2BnKke0TOXmNGgNLw) | 4:07 | 2024-04-05 |  |
 | [Closer](https://open.spotify.com/track/5HxFnwZFcfwKo4fHW7n6Ry) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Tedi Pagg](https://open.spotify.com/artist/6tWHWFyjq1e6xsPDsOxhca), [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m) | [Closer](https://open.spotify.com/album/1HBumg2coiPeeEM2Gr3Naz) | 4:07 | 2023-06-22 | 2024-04-19 |
 | [Credit Card](https://open.spotify.com/track/1TJLM1A1zKZLQKdxrpmNUx) | [G\. Sidhu](https://open.spotify.com/artist/1cqZQSRjE8Bl0PABOkVU9c), [J\-Statik](https://open.spotify.com/artist/3qBOp2bo17mSbJS5Q3KxE2) | [Credit Card](https://open.spotify.com/album/1jM7Gl4l91pD3rlmmq1j3j) | 2:33 | 2023-06-22 |  |
+| [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-06 |  |
 | [G.O.A.T.](https://open.spotify.com/track/46QbY78ha62aiu6gBgC7lS) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [G.O.A.T.](https://open.spotify.com/album/0wkGNaTXbbxaD9QjvxlNGE) | 3:43 | 2023-06-22 |  |
 | [Gulabi Pagg](https://open.spotify.com/track/35CTzZi7rJLBHvfVZZBrVr) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR) | [Roar](https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa) | 2:50 | 2023-06-22 |  |
 | [Hauli Hauli \(From "De De Pyaar De"\)](https://open.spotify.com/track/60XrRbNjDMAGUZ2xLkU9W3) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Hauli Hauli \(From "De De Pyaar De"\)](https://open.spotify.com/album/7BaHZuSZetmYHSt6anOMQg) | 3:29 | 2023-06-22 |  |

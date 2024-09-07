@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-249 songs - 12 hr 52 min
+251 songs - 12 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Just the Way You Are \- Acoustic](https://open.spotify.com/track/6gTiRT3y1IM6hViup2a2zv) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Just the Way You Are \(Acoustic\)](https://open.spotify.com/album/2eKuycoVymgIY5ZOnYS0nW) | 3:26 | 2022-07-15 | 2022-09-10 |
 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 | 2020-04-27 |  |
 | [Kid](https://open.spotify.com/track/5OxjeimztVQLHaykllrWsF) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [Kid](https://open.spotify.com/album/5I30hAPHeyTJHhdtLiY5dK) | 3:31 | 2022-09-23 | 2023-01-04 |
+| [Kiss Me \- Acoustic](https://open.spotify.com/track/6HdffpL3hV8rY8Z4OkQbMH) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Kiss Me \(Acoustic\)](https://open.spotify.com/album/7LKx9ZvhM5rhoGh6UMjrrR) | 2:15 | 2024-09-06 |  |
 | [L\-O\-V\-E \- Acoustic](https://open.spotify.com/track/7y3BUNpjfXA2QHu2Ze7Ua4) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [L\-O\-V\-E \(Acoustic\)](https://open.spotify.com/album/6d70Le6UzZLbSxN51AXxET) | 2:45 | 2022-04-10 | 2024-07-27 |
 | [Landslide \- Acoustic](https://open.spotify.com/track/2nQkeT1jUvlpL7bTfHQ3kt) | [Jonah Baker](https://open.spotify.com/artist/6cpVjPOo5Ozn28hUfYBXqm), [Reid Zingale](https://open.spotify.com/artist/1ZjNNCAZ7gtZIVmLiCvKoq) | [Landslide \(Acoustic\)](https://open.spotify.com/album/6T983j5MMR8IYWzKHWyDaU) | 3:24 | 2023-12-15 |  |
 | [Last Request \(Recorded at Bush Studios\) \- Live; Acoustic](https://open.spotify.com/track/35H5pzqUFrwU1A3iUxP1XQ) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Live Sessions](https://open.spotify.com/album/1oCZj5R2pLKiHyTH7QUkGa) | 3:13 | 2019-10-13 |  |
@@ -154,6 +155,7 @@
 | [Miss You Like Crazy \- Acoustic](https://open.spotify.com/track/3L1mJ12mVnNOT6zgTL0VvX) | [Mateo Oxley](https://open.spotify.com/artist/1BJ81QRILzVFcTt8fmqN9r) | [Miss You Like Crazy \(Acoustic\)](https://open.spotify.com/album/4hlspzDOaEXqoD3KVql8oK) | 3:23 | 2022-05-14 | 2022-07-03 |
 | [Mr Blue Sky \- Acoustic](https://open.spotify.com/track/2HUQikp6TKzN4lOAaXjqAe) | [Adam Christopher](https://open.spotify.com/artist/22QkuOmdRnasuuVgUjhrVw) | [Mr Blue Sky \(Acoustic\)](https://open.spotify.com/album/0qemjRVIImUJxiEvOo8mfZ) | 3:01 | 2019-10-13 |  |
 | [Mr Brightside \- Acoustic](https://open.spotify.com/track/5RO37qUgxkXi6OgzuFBgFu) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A) | [Mr Brightside \(Acoustic\)](https://open.spotify.com/album/5YwjHP3v74JIE4WZslG9hV) | 3:39 | 2020-03-16 |  |
+| [My Girl \- Acoustic](https://open.spotify.com/track/529g1MsXGKd0vw7YtG4igP) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [My Girl \- Acoustic](https://open.spotify.com/album/5OuYjVW8PepEzH5qzz7xMt) | 2:28 | 2024-09-06 |  |
 | [My Girl \- Acoustic](https://open.spotify.com/track/3IrZMd0p8R1MQab6pVpZnt) | [Tiffany Alvord](https://open.spotify.com/artist/2wNlZ2Vp23Sbv1DHgizbCb) | [My Girl \(Acoustic\)](https://open.spotify.com/album/7uSfzlPMIh8ZE26jYMS8OY) | 3:00 | 2021-08-05 |  |
 | [Need You Now \- Acoustic](https://open.spotify.com/track/5whjxzYUc8eXlfrvlh9Y9B) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Need You Now \(Acoustic\)](https://open.spotify.com/album/13LpVxAm6NZ3uaCYgPwi2M) | 3:23 | 2019-10-13 |  |
 | [Never Gonna Give You Up \- Acoustic](https://open.spotify.com/track/7MrkWGDb53qC758GCK3LxA) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [Never Gonna Give You Up \(Acoustic\)](https://open.spotify.com/album/68ebJe0gJxguPDSy2pt4YZ) | 2:23 | 2023-05-06 |  |
@@ -205,7 +207,7 @@
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/5ZprRG6q2boxa5Ypa3u6Hp) | [Grace George](https://open.spotify.com/artist/5twhJoJJtAOsHl6KQjji8Z) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/2MfAsqckmrxIssTdeReizP) | 3:31 | 2023-01-13 | 2023-03-18 |
 | [Teenage Dirtbag \- Acoustic](https://open.spotify.com/track/6g2Fiqf2HGj1oag2wbeWCI) | [Mysha Didi](https://open.spotify.com/artist/69XUUcGUrO85U9pCZGcWgI) | [Teenage Dirtbag \(Acoustic\)](https://open.spotify.com/album/26FVlm5oL62SgHxc0MZmcE) | 3:26 | 2021-12-12 | 2022-06-18 |
 | [The Best \- Acoustic](https://open.spotify.com/track/7MkQ4oVMEsF3boi4hsajDG) | [Bailey Rushlow](https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw) | [The Best \(Acoustic\)](https://open.spotify.com/album/0zydjTR0i385HRexojYc5s) | 3:38 | 2020-08-08 | 2024-03-04 |
-| [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 |  |
+| [The Scientist \- Candlelight Version](https://open.spotify.com/track/5SMv8eDDtNWK3syFauHGOG) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [The Scientist \(Candlelight Version\)](https://open.spotify.com/album/35c4uhnGB3BBuTcYfe5Djf) | 3:09 | 2024-06-21 | 2024-09-07 |
 | [The Way You Make Me Feel \- Acoustic](https://open.spotify.com/track/4TOYSDT4aaSoQKbxshBYbI) | [Matt Johnson](https://open.spotify.com/artist/7HXBbxW6YwU8lvgBew2p2A), [John Adams](https://open.spotify.com/artist/4LaimQU44rsz2kMWQmY6Bi) | [The Way You Make Me Feel \(Acoustic\)](https://open.spotify.com/album/34pciOFOyl4rI1SIc1F0gw) | 2:37 | 2024-05-10 |  |
 | [There She Goes \- Acoustic](https://open.spotify.com/track/3nDEkIX8lfi4rg62XaDM0O) | [Laurence O’Brien](https://open.spotify.com/artist/71rzE2Y74EDwYYSf1J8osl) | [There She Goes \(Acoustic\)](https://open.spotify.com/album/5rNQUran1E5UllSg6uqI4Y) | 2:54 | 2021-10-01 | 2022-07-16 |
 | [Thinking of You \- Acoustic](https://open.spotify.com/track/6tbmtGWZH2guWw6sbePI7i) | [Franklyn Jay](https://open.spotify.com/artist/6x84plwzEZTisIcJUFiNcr) | [Thinking of You \(Acoustic\)](https://open.spotify.com/album/1sTKlckv9fzXJxFfeB2bfm) | 3:09 | 2024-02-09 |  |

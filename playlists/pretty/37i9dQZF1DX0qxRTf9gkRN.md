@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,969 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,995 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 28 | [The Gettin' to It](https://open.spotify.com/track/6CutRO1Zkms8w2EWhT3GpU) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Hit the Floor](https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO) | 2:43 |
 | 29 | [Legs](https://open.spotify.com/track/38OY4h3riA0EKflHu0FJAS) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:44 |
 | 30 | [Get a Feeling](https://open.spotify.com/track/1RKsUsOxE4GIJ4jA19y2tY) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/2lHYHGF4qrvsKmaq3rgMNO) | 2:36 |
-| 31 | [Nothing For Nothing](https://open.spotify.com/track/2o7Rst2xy4ZHXUkZpyMWyB) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:08 |
+| 31 | [Nothing for Nothing](https://open.spotify.com/track/2o7Rst2xy4ZHXUkZpyMWyB) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:08 |
 | 32 | [M.O.O.D\. For Otis](https://open.spotify.com/track/0j5HoJILgFNFhGeERIfpTQ) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [New Awakening](https://open.spotify.com/album/3Pd9iBmTeeDXBjdlCQ73gg) | 3:19 |
 | 33 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 34 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 |

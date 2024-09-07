@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-600 songs - 1 day 6 hr 31 min
+601 songs - 1 day 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Easy On Me](https://open.spotify.com/track/3oxM8G1Bb0WWR4XTkJKndT) | [Inkoolu](https://open.spotify.com/artist/6kJB0MyF34MKnohZ96E0LY) | [Calm Piano Covers \(Volume 3\)](https://open.spotify.com/album/1snNEn4IXOOgkKkWNoKvca) | 3:11 | 2022-07-27 | 2022-10-29 |
 | [Englishman In New York](https://open.spotify.com/track/6cyZyGwH2dzEeq53YJykwh) | [Luis Diseminado](https://open.spotify.com/artist/7HxrZhLg59A2fZKgDWbebz) | [Englishman In New York](https://open.spotify.com/album/2CFMdtVFQ0arLMxNArKE2k) | 2:58 | 2023-03-17 | 2023-06-16 |
 | [Enjoy the Silence](https://open.spotify.com/track/1BABFMj4wusVDpIkpWjDgB) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Enjoy the Silence](https://open.spotify.com/album/1YLsqNlmQJjhfXTECIUyku) | 2:42 | 2023-04-14 |  |
+| [Espresso](https://open.spotify.com/track/6IrXpR6VybCIatiUBfD8Jd) | [Falk Tyler](https://open.spotify.com/artist/13mwoUnL4dMAlzHXEtTCSu) | [Espresso](https://open.spotify.com/album/7tcFWmY3xY7yXX2BUTgl7Z) | 3:45 | 2024-09-06 |  |
 | [Eternal Flame](https://open.spotify.com/track/4zXb3bG1AiIrXEL1UtqcsB) | [Korina Bedoya](https://open.spotify.com/artist/4NGAeafqorkBEwYlBZHnpt) | [Eternal Flame](https://open.spotify.com/album/5O2ViaBo8ZNNkYx3GnxxXY) | 3:10 | 2022-09-30 |  |
 | [Everglow](https://open.spotify.com/track/0vu0tbVqCICerh2HG2LKJG) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Everglow](https://open.spotify.com/album/7hA5tFUhR00OnXN5OU7YM9) | 3:13 | 2022-01-21 |  |
 | [Everglow](https://open.spotify.com/track/1q1boAVz5fOwzkWYV8IzUA) | [Valentina Canta](https://open.spotify.com/artist/3W9CjATjROYf2TXKRV7Ddk) | [Everglow](https://open.spotify.com/album/0VCxQ1inAd7BZlpXwj1x5W) | 2:38 | 2023-01-20 | 2023-04-14 |
@@ -234,7 +235,7 @@
 | [Hold Me Closer](https://open.spotify.com/track/4H0DZdsY2oT23dnD5RYyYP) | [Brandon Taylor Smith](https://open.spotify.com/artist/0CkM1sLkP3yQW8I7ja51am) | [Hold Me Closer](https://open.spotify.com/album/0E4psFtna3BQ3W7CVtKSKr) | 2:27 | 2022-12-16 | 2023-04-29 |
 | [Hold Me Closer](https://open.spotify.com/track/5P0j2h3b7nDXO3FkEqJift) | [Macey Clark](https://open.spotify.com/artist/0n5zpFOM2xi6mg5pxjfdSV) | [Hold Me Closer](https://open.spotify.com/album/2SrfBzKsI9JmhZ6YPLWAh6) | 3:01 | 2022-12-02 |  |
 | [Hold my hand](https://open.spotify.com/track/5UI1e8uQ6PYubk3n3PHtpS) | [Susan Suarez](https://open.spotify.com/artist/7zXgNwttTYAgW38YUb2eon) | [Hold my hand](https://open.spotify.com/album/2ksR2QZgzIhoaqf8KHMi9V) | 2:35 | 2022-10-28 |  |
-| [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-20 |  |
+| [Hold On, We're Going Home](https://open.spotify.com/track/6TBSODbeijsxgmcAfF0d1V) | [Bart Cohen](https://open.spotify.com/artist/0QBLDqfkyZjtQJPlLeLvQh) | [Hold On, We're Going Home](https://open.spotify.com/album/7w4Jjt5zSnfyfTIotOHatv) | 2:36 | 2023-01-20 | 2024-09-07 |
 | [Holy](https://open.spotify.com/track/39iUn2KhFa7aKiI0mJrrv5) | [Jade Crowley](https://open.spotify.com/artist/5TrocNkTBQ5FOssBB0BXfB) | [Holy](https://open.spotify.com/album/5Zrfscw6w38zpd0AYGfW27) | 2:41 | 2022-01-21 |  |
 | [Home](https://open.spotify.com/track/4SvH7Mx1ZDUOCMDghA3gGO) | [Nathan R\. Edwards](https://open.spotify.com/artist/6ijvIyn9QW7jSZ5tYVG7oD) | [Home](https://open.spotify.com/album/1v4R7rQf9gReJr1FaR4q0O) | 2:49 | 2023-10-06 |  |
 | [Hot Stuff](https://open.spotify.com/track/7LPicH0obO6vabRfbMorYf) | [Center of Jupiter](https://open.spotify.com/artist/7GGAxUda8W9WenqGq5do6x) | [Smells Like Teen Spirit](https://open.spotify.com/album/47A6gfz2DtzXSV0HpHQUiY) | 3:30 | 2023-05-12 |  |
@@ -267,7 +268,7 @@
 | [I'm So Excited](https://open.spotify.com/track/7gHFnR21egTmmq4roYJzpk) | [Sebastian Hart](https://open.spotify.com/artist/2bfs0PuQgUN1peYHx6onKk) | [I'm So Excited](https://open.spotify.com/album/16L8DnFO9c4BFggDDv3b2o) | 3:15 | 2024-08-30 |  |
 | [I'm Still Standing](https://open.spotify.com/track/1vEgjW5aCr4lW2MjTTIlqp) | [George Jacomel](https://open.spotify.com/artist/44bWSBuHUEo6M84U8E0i6q) | [I'm Still Standing](https://open.spotify.com/album/6SqqOHhWVlXi0nP2DUA3rq) | 3:08 | 2024-02-09 |  |
 | [I'm Yours](https://open.spotify.com/track/2OW93KcFnwdMBvfdDs2ZU1) | [Mary Lou Stephens](https://open.spotify.com/artist/5NkQxYTi4qXxNUqH2GJkPH) | [I'm Yours](https://open.spotify.com/album/0dmMyKWLPKzNgnC0DlEJQq) | 2:43 | 2022-01-21 |  |
-| [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-16 |  |
+| [If I Ain't Got You](https://open.spotify.com/track/55qulwZF586SHaW888nGtG) | [Melvin Gale](https://open.spotify.com/artist/3l1WfSrcchINNxR1OygC8z) | [If I Ain't Got You](https://open.spotify.com/album/2F7HJ03TFStnoa7e92Al95) | 3:48 | 2022-12-16 | 2024-09-07 |
 | [If I Could Turn Back Time](https://open.spotify.com/track/6wAN3QGz77L0TBLCUJMmhB) | [Mbese Mahl](https://open.spotify.com/artist/2SMRwhxnKgm8uKApv22Def) | [If I Could Turn Back Time](https://open.spotify.com/album/6xfjQQhqAkiWdX1XECE7Ra) | 2:15 | 2023-05-12 | 2023-06-09 |
 | [If I Never Knew You](https://open.spotify.com/track/7KjwgAyH10OnTHJODNtnns) | [Floritatura](https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc) | [If I Never Knew You](https://open.spotify.com/album/4l9AMQB6NZ2XLC6i5TyEe5) | 3:10 | 2023-02-24 | 2024-06-21 |
 | [If I Were a Boy](https://open.spotify.com/track/4pMKcvx8DwfjkXuLU8s4xo) | [Harris Barron](https://open.spotify.com/artist/5huDA9okV0PC7Yr6Zy5F2W) | [If I Were a Boy](https://open.spotify.com/album/0H5MFLw8sD2ljwEbWey6CP) | 2:53 | 2023-06-15 |  |

@@ -4,7 +4,7 @@
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Maija Vilkkumaa.
 
-140 songs - 8 hr 20 min
+141 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [1998](https://open.spotify.com/track/2BB6iQg6uxPCaNrTkMz777) | [Mylly](https://open.spotify.com/artist/5yQnFFxqVqCMi0JbgrhdvC), [Konsta](https://open.spotify.com/artist/2vfPaHlnoe63Ow00NrsqCH) | [MYLLYTYS](https://open.spotify.com/album/5eYyn7wmKMAahrFtQU2sCk) | 2:20 | 2024-07-02 |  |
 | [Aamuruuhkassa](https://open.spotify.com/track/6Jhiof5DHTaG0kG9zhHkUq) | [Vælimaa](https://open.spotify.com/artist/0NUlf45nkBfDbHm7cdDZNE) | [Uimahuoneessa \- ep](https://open.spotify.com/album/7ttn7rrUVsJgf1t9PLx7Uq) | 3:58 | 2024-07-02 | 2024-08-09 |
 | [Aamuyöstä](https://open.spotify.com/track/7cj1waMGZZW0g6YLAsfK6Z) | [Taikakaulin](https://open.spotify.com/artist/0J2ttsr9ibSjGcHVMc13PI) | [Aamuyöstä](https://open.spotify.com/album/3R326I6csnhw3veMlgpu4v) | 3:42 | 2024-07-02 | 2024-08-09 |
+| [Aarre](https://open.spotify.com/track/5B0k9KlvIo4r2x1kXJbWhf) | [Ultra Bra](https://open.spotify.com/artist/627dKDcsgfO25s2ScC4sgQ) | [Aarre](https://open.spotify.com/album/2HgCKeiV59lUrCQvVt9a1O) | 3:26 | 2024-09-06 |  |
 | [Aina sinulle](https://open.spotify.com/track/3OxJGAR04RUV1krR1usKTW) | [Aki Louhela](https://open.spotify.com/artist/4Rr5V3xQAQbhOw7WIfEvYK) | [Aina sinulle](https://open.spotify.com/album/5giDeA0EdcwVJGkuTg5ijH) | 3:46 | 2024-07-02 | 2024-09-06 |
 | [Aioin jättää sut tänään](https://open.spotify.com/track/3J2NZnUgELrDQLVfYAfJhy) | [Jonna Tervomaa](https://open.spotify.com/artist/2oyp9901wXE4E3MLXlwznV) | [SUPERAURINKO](https://open.spotify.com/album/03fwmDxA6Q154BX2GwJU7A) | 3:50 | 2024-08-29 |  |
 | [All In](https://open.spotify.com/track/71mG6R3cq45v4cHpOqZ063) | [Saga Olsson](https://open.spotify.com/artist/1HCzCxx9PSWC6fTLZcm4Ek) | [All In](https://open.spotify.com/album/1Pem1eoKD6pTZA7BJ2G6mQ) | 4:06 | 2024-08-22 |  |
@@ -118,7 +119,7 @@
 | [She's a Rebel](https://open.spotify.com/track/6KH3URvRfE5Pe675iv4nKi) | [Rolf Gustavson](https://open.spotify.com/artist/3GldaCfi7odS3rjvRfwvAq), [Gustview](https://open.spotify.com/artist/2rU2sk8i93UYbn3NKi2MJD) | [She's a Rebel](https://open.spotify.com/album/3Y7ouvfieKx7fYdGG8sMMx) | 2:01 | 2024-07-02 | 2024-07-12 |
 | [Sinussa on meri](https://open.spotify.com/track/5R1lLYpBdrOgJh8vrbincI) | [Esa Eloranta](https://open.spotify.com/artist/7DebIQncqcKWGJHP0Gtiee) | [Sinussa on meri](https://open.spotify.com/album/6tO9ULw0zmaoBmEbFuBzkz) | 3:52 | 2024-09-05 |  |
 | [Sinä](https://open.spotify.com/track/62bhrZckrr6MK2HGceUD8Y) | [Usva](https://open.spotify.com/artist/5vHO5LImPD4YrB3yYJWPRo) | [Sinä](https://open.spotify.com/album/1jq5CEyeI6ogb3ZUx9Ufdh) | 2:40 | 2024-07-02 | 2024-08-23 |
-| [Sixpack Of Instant Death](https://open.spotify.com/track/2SRuKGSfieIuYYKWPo4Y1c) | [Kaksipäinen Koira](https://open.spotify.com/artist/3MwDYIlGuaAPgb4Ihd7T19) | [Paholaisen temppeli](https://open.spotify.com/album/2bAzbo0byo3PaU9PyAcT7H) | 2:09 | 2024-07-02 |  |
+| [Sixpack Of Instant Death](https://open.spotify.com/track/2SRuKGSfieIuYYKWPo4Y1c) | [Kaksipäinen Koira](https://open.spotify.com/artist/3MwDYIlGuaAPgb4Ihd7T19) | [Paholaisen temppeli](https://open.spotify.com/album/2bAzbo0byo3PaU9PyAcT7H) | 2:09 | 2024-07-02 | 2024-09-07 |
 | [Skorpionin käytävä](https://open.spotify.com/track/7KJ82tKpECjS9YC1Votnhk) | [Sysi & Savi](https://open.spotify.com/artist/6L8mmASe6E7N29roKdU8MV) | [Skorpionin käytävä](https://open.spotify.com/album/1TfWmD7pUIJEI5hPH2c50I) | 4:04 | 2024-07-02 | 2024-07-05 |
 | [Sorvari](https://open.spotify.com/track/5zn4BIqhy3dpDZX5jS7k53) | [Nelosolut](https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF) | [Sorvari](https://open.spotify.com/album/3hBcpmfIgsMaQC5rksjadQ) | 3:41 | 2024-09-05 |  |
 | [SOS](https://open.spotify.com/track/6clMHx4aA0aoW5Sy1zASFy) | [Upotus](https://open.spotify.com/artist/3qcQS6lXIQJJlbNqzPNyWC), [Tapani](https://open.spotify.com/artist/6rTBfROF1wharmEtJvnEss) | [SOS](https://open.spotify.com/album/55oB0Bc2H8yLGK357ARn8h) | 3:45 | 2024-07-18 |  |

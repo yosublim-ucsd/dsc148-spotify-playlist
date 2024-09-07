@@ -1,13 +1,45 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Ruthie Foster",
-  "num_followers": 448581,
+  "num_followers": 448626,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAAC79rfcqMz2Tb+DHpdoYIJ+",
+  "snapshot_id": "ZtqDQAAAAABGTE01pP2Xo/VatDkfDw9O",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Found A Friend In You",
+        "url": "https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw"
+      },
+      "artists": [
+        {
+          "name": "Southern Avenue",
+          "url": "https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ"
+        }
+      ],
+      "duration_ms": 160826,
+      "name": "Found A Friend In You",
+      "url": "https://open.spotify.com/track/1WXAspzwAg4loOothMAxis"
+    },
+    {
+      "added_at": "2024-09-06 04:21:20",
+      "album": {
+        "name": "Make A Change",
+        "url": "https://open.spotify.com/album/5KjCh92XJuZpku1ENE7tJx"
+      },
+      "artists": [
+        {
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
+        }
+      ],
+      "duration_ms": 214653,
+      "name": "Make A Change",
+      "url": "https://open.spotify.com/track/3ZJ66cVNa8us49CLYnFBCS"
+    },
     {
       "added_at": "2024-08-23 04:00:00",
       "album": {
@@ -23,6 +55,22 @@
       "duration_ms": 250765,
       "name": "Mileage",
       "url": "https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6d7z9jAupJyzUcqU9y7JL6"
+      },
+      "artists": [
+        {
+          "name": "Jovin Webb",
+          "url": "https://open.spotify.com/artist/7tPs43oKJNTRvGr6IQ8N9k"
+        }
+      ],
+      "duration_ms": 278457,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/42AVlAgBlEWwotdT0XAYU6"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -43,6 +91,22 @@
       "duration_ms": 146520,
       "name": "Burn It Down",
       "url": "https://open.spotify.com/track/3We5tUcKQ3CW6r8K9kvwxG"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Flash-A-Magic",
+        "url": "https://open.spotify.com/album/1gPMejW0HDebAGUxXqM8Vq"
+      },
+      "artists": [
+        {
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+        }
+      ],
+      "duration_ms": 163026,
+      "name": "Everywhere You Go There You Are",
+      "url": "https://open.spotify.com/track/1GFbtNQ3OFeHA00PJNphPb"
     },
     {
       "added_at": "2024-08-23 04:00:00",
@@ -95,22 +159,6 @@
       "duration_ms": 288600,
       "name": "Let It Burn",
       "url": "https://open.spotify.com/track/4kVg423IrwssKhqQF8p97a"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Flash-A-Magic",
-        "url": "https://open.spotify.com/album/21SDAsPqwgYGKerUlgjpNB"
-      },
-      "artists": [
-        {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
-        }
-      ],
-      "duration_ms": 197645,
-      "name": "Flash-A-Magic",
-      "url": "https://open.spotify.com/track/7ornB0tNXeHMuVscygsTOB"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -543,22 +591,6 @@
       "duration_ms": 205026,
       "name": "Mood Swings",
       "url": "https://open.spotify.com/track/5MzyxdlccVyf2tVqF0Rzfb"
-    },
-    {
-      "added_at": "2024-02-02 05:01:00",
-      "album": {
-        "name": "Things Is 'Bout Comin' My Way",
-        "url": "https://open.spotify.com/album/2xmpiYdM4H5iCW54Pw0f00"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 279697,
-      "name": "Things Is 'Bout Comin' My Way",
-      "url": "https://open.spotify.com/track/0hankmoITw2Ujkm2YUvqRs"
     },
     {
       "added_at": "2024-01-12 05:01:00",
@@ -1419,22 +1451,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nightflyer",
-        "url": "https://open.spotify.com/album/0eINi61xfEo3l5Eeztkrzx"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/2Y6JBUc0T7EW2VAA1p9acN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "So Far Gone",
         "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 223961,
       "name": "So Far Gone",
       "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Good To You",
-        "url": "https://open.spotify.com/album/7FEsIzWGhL3x83QHxIHC15"
-      },
-      "artists": [
-        {
-          "name": "Jonny P",
-          "url": "https://open.spotify.com/artist/3UtTKOuKlWMQPSCyIvCDl6"
-        }
-      ],
-      "duration_ms": 158855,
-      "name": "Good To You",
-      "url": "https://open.spotify.com/track/7t7VTdIZS01AfR2w2SHb17"
     },
     {
       "added_at": "2023-10-06 04:00:00",

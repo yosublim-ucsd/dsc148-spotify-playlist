@@ -127,6 +127,36 @@
     },
     {
       "album": {
+        "name": "Atonement OST",
+        "url": "https://open.spotify.com/album/08LLwEtgyMST8wRsKaZiLZ"
+      },
+      "artists": [
+        {
+          "name": "Dario Marianelli",
+          "url": "https://open.spotify.com/artist/0s1ec6aPpRZ4DCj15w1EFg"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        },
+        {
+          "name": "Benjamin Wallfisch",
+          "url": "https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318693,
+      "name": "Atonement",
+      "url": "https://open.spotify.com/track/4c0g65FyaEeKRX6C0hfjhr"
+    },
+    {
+      "album": {
         "name": "Bach: Goldberg Variations, BWV 988",
         "url": "https://open.spotify.com/album/1n5pafTMiQNC1CxWBA37Qb"
       },
@@ -366,6 +396,28 @@
           "url": "https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc"
         }
       ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186754,
+      "name": "Emma And Mr. Knightley (A Kiss Before They Wed)",
+      "url": "https://open.spotify.com/track/1XJJf7MfAGe6Fg80BV9Ngn"
+    },
+    {
+      "album": {
+        "name": "EMMA. (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2QwIcZ1a1FuDUw8i0u1dGS"
+      },
+      "artists": [
+        {
+          "name": "Isobel Waller-Bridge",
+          "url": "https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ"
+        },
+        {
+          "name": "David Schweitzer",
+          "url": "https://open.spotify.com/artist/1DUWnPlE7T4m8zBUYK6GIc"
+        }
+      ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -580,6 +632,24 @@
       "duration_ms": 199467,
       "name": "ICARUS",
       "url": "https://open.spotify.com/track/7aTuZWl7qYNYBAHDOurXOx"
+    },
+    {
+      "album": {
+        "name": "Persuasion (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/4ZIW3ma2l44g1HhiyxNagv"
+      },
+      "artists": [
+        {
+          "name": "Stuart Earl",
+          "url": "https://open.spotify.com/artist/54T53xiM58rmjU9dbA2Lu8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99116,
+      "name": "Into The Sea",
+      "url": "https://open.spotify.com/track/6gywoZQXz6atqEGt7hponB"
     },
     {
       "album": {
@@ -1200,6 +1270,24 @@
       "duration_ms": 248346,
       "name": "String Quartet No. 12 in F Major, Op. 96 'The American': III. Molto vivace",
       "url": "https://open.spotify.com/track/4zdQ0Tx3rbYaBmgG22fYUH"
+    },
+    {
+      "album": {
+        "name": "90\u00b0",
+        "url": "https://open.spotify.com/album/5BdwWsSLn83jsvA001jhA9"
+      },
+      "artists": [
+        {
+          "name": "Tony Ann",
+          "url": "https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218631,
+      "name": "TAURUS \u201cThe Tenacious\u201d",
+      "url": "https://open.spotify.com/track/2NV9i08M1svidk4zvL9hz8"
     },
     {
       "album": {

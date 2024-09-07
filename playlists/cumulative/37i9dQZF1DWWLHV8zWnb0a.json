@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "The Crow Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n"
+      },
+      "artists": [
+        {
+          "name": "My Life With The Thrill Kill Kult",
+          "url": "https://open.spotify.com/artist/7FfAD7EYZbQ7aHPy9ujduD"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "After the Flesh",
+      "url": "https://open.spotify.com/track/2GGFfHz2laYuGNDtqJRvAK"
+    },
+    {
+      "album": {
         "name": "OK Computer",
         "url": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
       },
@@ -182,6 +200,24 @@
       "duration_ms": 240640,
       "name": "All Mine",
       "url": "https://open.spotify.com/track/785Qya5mtMUwBQtuypVqrx"
+    },
+    {
+      "album": {
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+      },
+      "artists": [
+        {
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334186,
+      "name": "Anarchy",
+      "url": "https://open.spotify.com/track/0VC1EpCNjQRGWtxabI7fK6"
     },
     {
       "album": {
@@ -726,7 +762,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218333,
       "name": "Cars - Remix",
       "url": "https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78"
@@ -942,7 +978,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 252853,
       "name": "Demanufacture",
       "url": "https://open.spotify.com/track/2f7IhxfM0yLSqGOPyzlYvi"
@@ -2318,7 +2354,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208266,
       "name": "Lovesong - Remastered",
       "url": "https://open.spotify.com/track/1y6XHeNN5DSX5PYy7gT0qL"
@@ -2444,7 +2480,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242400,
       "name": "Metal Heart",
       "url": "https://open.spotify.com/track/4JeMpERu0LS3QhNoNG0cvZ"

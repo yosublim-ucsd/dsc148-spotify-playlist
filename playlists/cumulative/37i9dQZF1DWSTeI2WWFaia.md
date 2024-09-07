@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Conway The Machine
 
-681 songs - 1 day 12 hr 25 min
+682 songs - 1 day 12 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -471,6 +471,7 @@
 | [Power Steering](https://open.spotify.com/track/1uT59swjpPqahDlbdOMoGb) | [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [The Course of the Inevitable 2](https://open.spotify.com/album/0nVduuZY4WnGnXXyZptmnf) | 3:40 | 2022-07-15 | 2022-07-30 |
 | [Practice](https://open.spotify.com/track/3OGPEtMcV1OjnRXrAHQZqq) | [KingTrey](https://open.spotify.com/artist/5dMrRJRJsvS36Mp8u2i7kv), [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Practice](https://open.spotify.com/album/0hhskdGh4roxJZtn9ZPl54) | 2:06 | 2024-08-23 | 2024-08-31 |
 | [Pravda](https://open.spotify.com/track/5z32oXMF5FgR8jFy7aOkAq) | [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp), [Mach\-Hommy](https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [Tha God Fahim](https://open.spotify.com/artist/0qLTeI81hEhEK1PK3WOf77), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Pravda](https://open.spotify.com/album/42w0ZyrhB52x32OJkJXfH1) | 5:59 | 2021-09-03 | 2022-07-06 |
+| [Press Reset](https://open.spotify.com/track/6ExMMvfgv4ulR0TPSWhZ5u) | [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc), [DJ.Fresh](https://open.spotify.com/artist/35cJT1IMCFHLeKiPcSpequ) | [The Tonite Show The Sequel](https://open.spotify.com/album/4ttvR5dL7lhBi7QDbWYK90) | 2:26 | 2024-08-30 |  |
 | [PROUD OF ME\. \(feat\. Fridayy\)](https://open.spotify.com/track/3aKtmuC5ihp2DWCjqBboY3) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Road to CASABLANCO.](https://open.spotify.com/album/6xwrN7rxXUYGogRCLlYhvv) | 4:42 | 2023-05-05 | 2023-08-14 |
 | [Psycho Groupie Cocaine Crazy](https://open.spotify.com/track/2An3RrsbZ2liZUbHDwblTo) | [Jarren Benton](https://open.spotify.com/artist/5YI7PJwny5JsO7djczHwhP) | [Psycho Groupie Cocaine Crazy](https://open.spotify.com/album/2EONGxzl7kYkhPffDE8gVk) | 2:44 | 2021-09-03 | 2022-02-15 |
 | [Punch Bowl \(with Clipse & Nigo\)](https://open.spotify.com/track/1NxZp8uYShqpkxcyaaLUKs) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [Clipse](https://open.spotify.com/artist/2J257euzcjnDLipsyJH3F2), [Nigo](https://open.spotify.com/artist/2rAnv6brcXaglLZBB4XXEn) | [I Know NIGO!](https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS) | 3:01 | 2022-03-25 | 2022-05-31 |
@@ -629,7 +630,7 @@
 | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/track/6s9qov2o5dUVUVut2jB45K) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [THE\_EVIL\_THAT\_MEN\_DO](https://open.spotify.com/album/7rOfgB0eZeRCPOSu00cuzN) | 2:53 | 2022-05-13 | 2022-10-01 |
 | [Theme For The People](https://open.spotify.com/track/08dXaiP8qdpvQqGKv5rUqE) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Bobby Tarantino III](https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h) | 1:56 | 2021-09-03 | 2023-03-28 |
 | [Three Cuts \(feat\. Maino\)](https://open.spotify.com/track/35qdXRGCZj9isoXmae1gUy) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Maino](https://open.spotify.com/artist/20apXQGKM00jJTvYfyKwlb) | [The Fraud Department](https://open.spotify.com/album/0gF7hWwicWPC4dm9VrXAmK) | 2:35 | 2021-09-03 | 2022-07-13 |
-| [Three Little Pigs](https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:11 | 2024-03-22 |  |
+| [Three Little Pigs](https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:11 | 2024-03-22 | 2024-09-07 |
 | [THROUGH 2 U](https://open.spotify.com/track/5FLpZcyK0v3SFkIZZ8YPQP) | [Bktherula](https://open.spotify.com/artist/6OjtkJDlAZzlzAydEn78cK), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [THROUGH 2 U](https://open.spotify.com/album/6QoH3WybTsxVHKcXC8vsUv) | 2:41 | 2022-07-15 | 2022-10-08 |
 | [THS](https://open.spotify.com/track/4lm1TTjljEGIDefhl7FfyW) | [Jon Hope](https://open.spotify.com/artist/5oGS8Bs7cYYAFFlgwWtyrC), [Israel Wusu](https://open.spotify.com/artist/7v9HwZnQWL9zfACSgDqz3f) | [THS](https://open.spotify.com/album/6qNcXdRXXJ6vAUr0J9MwDY) | 2:45 | 2022-03-25 | 2022-04-20 |
 | [Time Crisis](https://open.spotify.com/track/14mwus7gOtHaktHg07f2Ef) | [A$AP ANT](https://open.spotify.com/artist/45m1IiS45uD1HcPlYkNWKj) | [Time Crisis](https://open.spotify.com/album/6KS44Ir8jT67nqQ10Q16ps) | 2:06 | 2022-03-11 | 2022-04-14 |

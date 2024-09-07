@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Lamb Of God on top of today's best Metal playlist.",
+  "description": "Gojira on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -544,7 +544,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 510013,
       "name": "Am\u00e9thyste",
       "url": "https://open.spotify.com/track/5i7bzDgRehQfktqxu7xHqV"
@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208399,
       "name": "Angel Eyes",
       "url": "https://open.spotify.com/track/1l2AhmjfTTmo5lxTej3XcJ"
@@ -2002,6 +2002,28 @@
       "duration_ms": 283957,
       "name": "Cellar Door",
       "url": "https://open.spotify.com/track/2GWtLHhqPjvZt1aWiBDsTU"
+    },
+    {
+      "album": {
+        "name": "The Death Card",
+        "url": "https://open.spotify.com/album/2fcTgvULqmDLlE5nX0GJ5S"
+      },
+      "artists": [
+        {
+          "name": "Fame on Fire",
+          "url": "https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP"
+        },
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194445,
+      "name": "Chains (The Tower)",
+      "url": "https://open.spotify.com/track/158lKbSQmYwxDU9rQpN11R"
     },
     {
       "album": {
@@ -10304,6 +10326,24 @@
       "duration_ms": 206640,
       "name": "So Called Life",
       "url": "https://open.spotify.com/track/1QTQ3VNzabl4yF5GJE6hhK"
+    },
+    {
+      "album": {
+        "name": "Soft Spine",
+        "url": "https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "Soft Spine",
+      "url": "https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG"
     },
     {
       "album": {

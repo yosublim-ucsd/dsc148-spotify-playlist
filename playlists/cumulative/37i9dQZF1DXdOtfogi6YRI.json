@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Marceli Bober",
+  "description": "Nieoczywiste aktualne brzmienia polskiego rapu. Cover: Ananas, AZ-YL",
   "name": "alt rap",
   "tracks": [
     {
@@ -366,7 +366,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 114871,
       "name": "ba\u0142agan",
       "url": "https://open.spotify.com/track/1QTJIMmymINGtNW0pSupl0"
@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208888,
       "name": "COZY",
       "url": "https://open.spotify.com/track/5MF5Q3KaG36LaWyUZxbZiz"
@@ -1119,6 +1119,28 @@
     },
     {
       "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/01YLbkyu6EzBY73huwiEms"
+      },
+      "artists": [
+        {
+          "name": "Gverilla",
+          "url": "https://open.spotify.com/artist/4Ub4q8OJR6JCKZbxpXvW2U"
+        },
+        {
+          "name": "Symer",
+          "url": "https://open.spotify.com/artist/6G5nxzFqdqx0Rb3g7dK4Yf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235793,
+      "name": "FOMO",
+      "url": "https://open.spotify.com/track/6MtenXXonNKhclAv961YUl"
+    },
+    {
+      "album": {
         "name": "Fuagra",
         "url": "https://open.spotify.com/album/5DKuDjuM7B1jONlYwb15G4"
       },
@@ -1152,10 +1174,44 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 207586,
       "name": "FUCK KORDEN FUCK HOLAK",
       "url": "https://open.spotify.com/track/4m42XUYdTlXE3VvTkG5aAd"
+    },
+    {
+      "album": {
+        "name": "GDY NAS NIE MA",
+        "url": "https://open.spotify.com/album/3Kt0JEFza6qQ0FchGkPi6C"
+      },
+      "artists": [
+        {
+          "name": "Marekoyyot",
+          "url": "https://open.spotify.com/artist/2PWcFSafBgdOPZ9irOik0I"
+        },
+        {
+          "name": "Bisz",
+          "url": "https://open.spotify.com/artist/4PpHZwqxdYMMnLkYJ83vUJ"
+        },
+        {
+          "name": "UNDER TWIST",
+          "url": "https://open.spotify.com/artist/4k2e22CPUyv0ZAp4wZyYS6"
+        },
+        {
+          "name": "ADZ",
+          "url": "https://open.spotify.com/artist/3f5gO11gbpxXDddvWESMuk"
+        },
+        {
+          "name": "Foxs",
+          "url": "https://open.spotify.com/artist/6aS2ZULNkENJhZ4MzqGWMj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225522,
+      "name": "GDY NAS NIE MA",
+      "url": "https://open.spotify.com/track/0uZLHsKDIHcTCf6axyQixA"
     },
     {
       "album": {
@@ -1308,7 +1364,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 170704,
       "name": "HAWK",
       "url": "https://open.spotify.com/track/2HwCGU6t0x8rMmlOVlwV6w"
@@ -1356,6 +1412,28 @@
       "duration_ms": 181383,
       "name": "HIP HOP",
       "url": "https://open.spotify.com/track/1Qpr06AZ9f5dBABLboy39j"
+    },
+    {
+      "album": {
+        "name": "Id\u0119 w g\u00f3r\u0119",
+        "url": "https://open.spotify.com/album/37CJoG6XOvnCG2Q5qPK4O4"
+      },
+      "artists": [
+        {
+          "name": "Koza",
+          "url": "https://open.spotify.com/artist/676EUx4pvYBfmPHdgRsNQi"
+        },
+        {
+          "name": "Jonasz",
+          "url": "https://open.spotify.com/artist/4DYA6MILEcKAf5MdFu44Wl"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Id\u0119 w g\u00f3r\u0119",
+      "url": "https://open.spotify.com/track/3FE8P8O7wQffuTiFE5P460"
     },
     {
       "album": {
@@ -1785,6 +1863,32 @@
     },
     {
       "album": {
+        "name": "Little T",
+        "url": "https://open.spotify.com/album/2jeIuZlYMr8csuBX109Hx3"
+      },
+      "artists": [
+        {
+          "name": "Eskaubei",
+          "url": "https://open.spotify.com/artist/0aRV7rMPCkGjy1Yo3ImyML"
+        },
+        {
+          "name": "Tomek Nowak Quartet",
+          "url": "https://open.spotify.com/artist/51977Tx62qlznpZzYkM2In"
+        },
+        {
+          "name": "Mr. Krime",
+          "url": "https://open.spotify.com/artist/7wSyzPYLvjyVB7HCl3e2Kj"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 414266,
+      "name": "Little T",
+      "url": "https://open.spotify.com/track/3CP07GCmZgjM9JqfMv42VH"
+    },
+    {
+      "album": {
         "name": "Location",
         "url": "https://open.spotify.com/album/2gcn8DaDw53YnwCdUYzDfF"
       },
@@ -1983,6 +2087,32 @@
     },
     {
       "album": {
+        "name": "Na z\u0142o\u015b\u0107",
+        "url": "https://open.spotify.com/album/7Du9j3Ja2QJHHTK3ZSoNl1"
+      },
+      "artists": [
+        {
+          "name": "Ananas",
+          "url": "https://open.spotify.com/artist/73wP9wl0sqJnAyabkcg95b"
+        },
+        {
+          "name": "AZ-YL",
+          "url": "https://open.spotify.com/artist/3QnXWCrjJLdxs8UbRr5qNb"
+        },
+        {
+          "name": "Chaos Beats",
+          "url": "https://open.spotify.com/artist/395LlGZbu3xkSyBC3LjhQb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "Na z\u0142o\u015b\u0107",
+      "url": "https://open.spotify.com/track/1K6IYiMvXaH3RWMSBoW0A8"
+    },
+    {
+      "album": {
         "name": "Napraw mnie",
         "url": "https://open.spotify.com/album/54GsKSqetYJTfYeOLNsSRJ"
       },
@@ -2020,7 +2150,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 138460,
       "name": "Nie mam czasu",
       "url": "https://open.spotify.com/track/1AdMVLsBmQdpLpDc78PlI3"
@@ -2549,6 +2679,24 @@
     },
     {
       "album": {
+        "name": "Reset",
+        "url": "https://open.spotify.com/album/3RESOrhgeEBNjtGla5htuF"
+      },
+      "artists": [
+        {
+          "name": "DAW!D",
+          "url": "https://open.spotify.com/artist/7rZGnHET5LuUGJqOOfnhne"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175395,
+      "name": "Reset",
+      "url": "https://open.spotify.com/track/4geeetUpB5S2g7AzrRU911"
+    },
+    {
+      "album": {
         "name": "Jasny Obraz Ciemnych Czas\u00f3w",
         "url": "https://open.spotify.com/album/4WowdtJBbEbVEJOaywqtSh"
       },
@@ -2612,7 +2760,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175909,
       "name": "Sam ze sob\u0105",
       "url": "https://open.spotify.com/track/1y6zMYYH9pKS4BMaCSW1MZ"
@@ -2863,6 +3011,36 @@
     },
     {
       "album": {
+        "name": "STEVIE WONDER",
+        "url": "https://open.spotify.com/album/7GA2jvcVP1DF2S5KQt39JT"
+      },
+      "artists": [
+        {
+          "name": "Odys",
+          "url": "https://open.spotify.com/artist/6AatL3YtstbqZymDDoxLYm"
+        },
+        {
+          "name": "Gruby Mielzky",
+          "url": "https://open.spotify.com/artist/6f3oixxZSgRKOW2CSqOFqM"
+        },
+        {
+          "name": "Pers",
+          "url": "https://open.spotify.com/artist/6C3KMofGcxnVUqmg8jPgp4"
+        },
+        {
+          "name": "OLGIA",
+          "url": "https://open.spotify.com/artist/4NElRxOf1Ev12v4wZ5kivF"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "STEVIE WONDER",
+      "url": "https://open.spotify.com/track/53gHqjhQnZPjvDjTa7VPDc"
+    },
+    {
+      "album": {
         "name": "FALA MIXTAPE vol. 3",
         "url": "https://open.spotify.com/album/5NyVbn4kxfRLBUum2loW9h"
       },
@@ -2982,7 +3160,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 178790,
       "name": "Tak\u017ce ten",
       "url": "https://open.spotify.com/track/5Wq75k4EV86NlxEgH6pQHW"

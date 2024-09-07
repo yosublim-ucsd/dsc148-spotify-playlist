@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "1 L\u00cdDER NECESITA 1 L\u00cdDER",
+        "url": "https://open.spotify.com/album/0a6ebzyc1r6adgJtaPrDje"
+      },
+      "artists": [
+        {
+          "name": "ODDLIQUOR",
+          "url": "https://open.spotify.com/artist/1rmlkMXVf5f6ilIVhjow34"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202149,
+      "name": "1 L\u00cdDER NECESITA 1 L\u00cdDER",
+      "url": "https://open.spotify.com/track/00JOjGtanKpK3VBpJ93WVU"
+    },
+    {
+      "album": {
         "name": "24 7",
         "url": "https://open.spotify.com/album/5NbqLYm2jinvXThQz4QQm8"
       },
@@ -196,10 +214,6 @@
         {
           "name": "Maria Rod\u00e9s",
           "url": "https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf"
-        },
-        {
-          "name": "BRONQUIO",
-          "url": "https://open.spotify.com/artist/5ChiL2aAGunqF9P4m3giP1"
         }
       ],
       "date_added": "2024-07-25",
@@ -208,6 +222,24 @@
       "duration_ms": 184666,
       "name": "Amargura (Cover para Movistar Plus+)",
       "url": "https://open.spotify.com/track/2FFsZuWAHErJD6Chl5cye8"
+    },
+    {
+      "album": {
+        "name": "Amor A\u00e9reo",
+        "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164133,
+      "name": "Amor A\u00e9reo",
+      "url": "https://open.spotify.com/track/3CJCwQOn3C4pPwuU5DcVux"
     },
     {
       "album": {
@@ -473,7 +505,7 @@
     },
     {
       "album": {
-        "name": "Chico Bueno (Feat. BRONQUIO)",
+        "name": "Chico Bueno",
         "url": "https://open.spotify.com/album/3fKEevUtThfO4c1R8gh1so"
       },
       "artists": [
@@ -490,7 +522,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 178532,
-      "name": "Chico Bueno (Feat. BRONQUIO)",
+      "name": "Chico Bueno",
       "url": "https://open.spotify.com/track/16iyniG7adFrbPGJTZ5Fkk"
     },
     {
@@ -826,7 +858,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 202429,
       "name": "Drama en el Sonorama",
       "url": "https://open.spotify.com/track/4tDilCqVje9Wdx9a9USlPS"
@@ -1662,7 +1694,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 240853,
       "name": "Lirio",
       "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"
@@ -2304,7 +2336,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188000,
       "name": "NUNCA ES TARDE",
       "url": "https://open.spotify.com/track/2xh2NMeCkSwQjIK4al3aCG"
@@ -2990,7 +3022,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 192975,
       "name": "Toda La Vida",
       "url": "https://open.spotify.com/track/1Nu14PfbnnRZmLDtx2lR63"

@@ -1,12 +1,12 @@
 {
   "description": "Gli astri nascenti del pop italiano \ud83d\udd2e Cover: STE, Shablo",
-  "num_followers": 8735,
+  "num_followers": 8736,
   "original_name": "Caleido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoqHAAAAAAbf6S0fC9KR7YdrGJVzovE",
+  "snapshot_id": "ZtrfVgAAAAC99FituT6fnrdPvPanDv2E",
   "tracks": [
     {
       "added_at": "2024-09-05 22:01:00",
@@ -43,6 +43,26 @@
       "duration_ms": 173842,
       "name": "Menomale che c'\u00e8 il mare",
       "url": "https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Lose Control",
+        "url": "https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        },
+        {
+          "name": "Shablo",
+          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
+        }
+      ],
+      "duration_ms": 260927,
+      "name": "Lose Control",
+      "url": "https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -139,26 +159,6 @@
       "duration_ms": 188571,
       "name": "Domenica",
       "url": "https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Lose Control",
-        "url": "https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91"
-      },
-      "artists": [
-        {
-          "name": "STE",
-          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
-        },
-        {
-          "name": "Shablo",
-          "url": "https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy"
-        }
-      ],
-      "duration_ms": 260927,
-      "name": "Lose Control",
-      "url": "https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9"
     },
     {
       "added_at": "2024-09-05 22:01:00",

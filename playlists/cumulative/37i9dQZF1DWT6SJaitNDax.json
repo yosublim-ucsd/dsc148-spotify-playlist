@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Afro sounds crossing borders. Cover: <a href=\"spotify:artist:75VKfyoBlkmrJFDqo1o2VY\">Fireboy DML</a>",
+  "description": "Afro sounds crossing borders. Cover: <a href=\"spotify:artist:687cZJR45JO7jhk1LHIbgq\">Tems</a>",
   "name": "Big Mood",
   "tracks": [
     {
@@ -5260,7 +5260,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 198349,
       "name": "iseoluwa",
       "url": "https://open.spotify.com/track/36GYWNzc0MwGSSmXZLP6bX"
@@ -7317,6 +7317,24 @@
     },
     {
       "album": {
+        "name": "E.O.V (ESAMA OF VIBES)",
+        "url": "https://open.spotify.com/album/5r0ooDn6GV0lYtOJdvMQog"
+      },
+      "artists": [
+        {
+          "name": "Blaq Jerzee",
+          "url": "https://open.spotify.com/artist/4on7a4BKixLl1rSlEcaY8Y"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151676,
+      "name": "Need U",
+      "url": "https://open.spotify.com/track/764nAiSWVgFtU7OlTDEcrf"
+    },
+    {
+      "album": {
         "name": "Never Forget",
         "url": "https://open.spotify.com/album/1TGT83DEhv2ovTITDUQA2q"
       },
@@ -8132,6 +8150,28 @@
       "duration_ms": 179062,
       "name": "Omo Boy",
       "url": "https://open.spotify.com/track/7kWEdNbzvcrcwwVlTfvNZR"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
     },
     {
       "album": {
@@ -12094,7 +12134,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182008,
       "name": "wanted (feat. Naomi Sharon)",
       "url": "https://open.spotify.com/track/5Teihsj5GGSvEKCEcJANV7"

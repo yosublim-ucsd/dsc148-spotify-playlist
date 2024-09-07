@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 
 ### [Casi El Paraíso](https://open.spotify.com/playlist/37i9dQZF1DX7MuRzJ3KiMb)
 
-> Fortis Fortuna Adiuvat🍷¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
+> Fortis Fortuna Adiuvat🍷 ¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
 
 [Spotify](https://open.spotify.com/user/spotify) - 92,337 likes - 13 songs - 1 hr 2 min
 
@@ -22,4 +22,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MuRzJ3KiMb.md) - [plain]
 | 12 | [Money](https://open.spotify.com/track/63mGulQEUtSI8jEvVxCr8e) | [CHAMIE](https://open.spotify.com/artist/6HpygFITY8vj179Zn1JTb1) | [Money](https://open.spotify.com/album/0yuiugUiG3sCOMJG7CmGal) | 2:37 |
 | 13 | [Maledetta primavera \- 2021 Remaster](https://open.spotify.com/track/12xYwI2fztwjKRa9UcOgNz) | [Loretta Goggi](https://open.spotify.com/artist/0r310cYIlI5aMcuDTChNlO) | [Il mio prossimo amore \(2021 Remaster\)](https://open.spotify.com/album/0i5CzgqHHy4KWkaN1xR35n) | 4:12 |
 
-Snapshot ID: `ZtXidgAAAADhQLXwXAeBLt3rvnIxSKK8`
+Snapshot ID: `ZttfKwAAAADq0mKjIYYlWYmxOsXTdVmY`

@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-295 songs - 1 day 1 hr 5 min
+296 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/14jmLovqc2rOc2KDqwd8Yw) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/10QCudlJoZPHcoPBDTc1mA) | 7:00 | 2022-07-12 | 2023-05-24 |
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
-| [Paayaliya](https://open.spotify.com/track/1PnLIY2hOt9lGfqpFvoAUt) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Outsky](https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg) | [Paayaliya](https://open.spotify.com/album/3s5f1LXoiICTgZ8hMzmua7) | 2:48 | 2024-06-24 |  |
+| [Paayaliya](https://open.spotify.com/track/1PnLIY2hOt9lGfqpFvoAUt) | [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Outsky](https://open.spotify.com/artist/6RXWOzECN3KD4QSr4V7dmg) | [Paayaliya](https://open.spotify.com/album/3s5f1LXoiICTgZ8hMzmua7) | 2:48 | 2024-06-24 | 2024-09-07 |
 | [Palkan](https://open.spotify.com/track/0MDAOV2BTp0VJeJZooxgEQ) | [Advaita](https://open.spotify.com/artist/4FMduZvsMYM69TKN3i0YRp) | [Palkan](https://open.spotify.com/album/3pVG7G0VGKKl1xLtskYnyd) | 6:01 | 2023-08-23 |  |
 | [Parcchain \(Counting Days\)](https://open.spotify.com/track/06VwLKV6JqJ0PxXdhKJb6g) | [Tarish Prakash](https://open.spotify.com/artist/7x2ombGZwIYN2Ye7sm3Lzi), [Tanu Srivastava](https://open.spotify.com/artist/59pI7RRCMOsPFhthUuv0k8), [Vastvik Roy](https://open.spotify.com/artist/2EZIUlymZWjLB8As3QBoET) | [Parcchain \(Counting Days\)](https://open.spotify.com/album/2grJHFAs9qGkg3ZDTOg9RD) | 2:46 | 2023-10-16 | 2023-12-02 |
 | [Payaliya](https://open.spotify.com/track/01PrstkiG8yl6Za84sYkmA) | [Vijay Ganesan](https://open.spotify.com/artist/5j0FEHM0QFwUTpLhFxFLbI), [Ramya MB](https://open.spotify.com/artist/6TxossJrr0qFTIhiPtaMcw) | [Payaliya](https://open.spotify.com/album/2pZbrfjNSECl6oTaYC8eZ3) | 4:10 | 2023-12-15 | 2024-04-06 |
@@ -250,6 +250,7 @@
 | [Ratiya](https://open.spotify.com/track/6FPylA81QCbV7wxCZidFqs) | [Apratim Tripathi](https://open.spotify.com/artist/05T6fQJ1Zn4EtE8Jcn1RlY), [Rishav Tushar](https://open.spotify.com/artist/3SFMwegvRhEllDcmoe2GTl) | [Ratiya](https://open.spotify.com/album/7pQTz2ppS7KvmcZlAwOC3y) | 3:13 | 2023-03-15 | 2023-05-19 |
 | [Ratiya](https://open.spotify.com/track/1NxUTUf4rQqtnux7QA9hoc) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Shreya Jain](https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD), [Vaibhav Pani](https://open.spotify.com/artist/6FedIS4fevWR5JdQQvviFB) | [Ratiya](https://open.spotify.com/album/0xzWmdxI68bqPem3BL3nHQ) | 2:45 | 2023-07-28 |  |
 | [Ret Bhari](https://open.spotify.com/track/5vWcAAeT5OaAQqaBDB9IV9) | [Iman Chakraborty](https://open.spotify.com/artist/7gjiYwM6O5sNuYBaCdpCXA) | [Ret Bhari](https://open.spotify.com/album/48dyY2SbO1kwSeV5r1KFEy) | 4:38 | 2022-05-17 | 2022-12-10 |
+| [Rut Saawan Ki](https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB) | [Rut Saawan Ki](https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6) | 4:49 | 2024-09-06 |  |
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 | 2023-06-03 |
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 | 2023-07-14 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-14 |  |

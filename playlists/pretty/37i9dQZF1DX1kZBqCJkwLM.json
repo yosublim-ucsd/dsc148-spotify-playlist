@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: LISA & ROSAL\u00cdA",
-  "num_followers": 85505,
+  "num_followers": 85498,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 192765,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "Cold Blooded",
         "url": "https://open.spotify.com/album/4CTDrZw6m0dTJX17OCEbfZ"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 150053,
       "name": "Cold Blooded",
       "url": "https://open.spotify.com/track/34JfHOd0fcefm4FSPSrIhF"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/5jI79QM3CJiSELceqwVe78"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 192765,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/4Vhvlhomv8fTp2e6I4XTpe"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -567,26 +567,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "damn Right Pt. 2",
         "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 253202,
       "name": "Stars In The Sky (feat. Jhen\u00e9 Aiko)",
       "url": "https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
+      },
+      "artists": [
+        {
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Jokes On Me",
-        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
-      },
-      "artists": [
-        {
-          "name": "AUDREY NUNA",
-          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "Jokes On Me",
-      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "LUCID",
         "url": "https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C"
       },
@@ -711,22 +695,6 @@
       "duration_ms": 218108,
       "name": "LUCID",
       "url": "https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
-        "name": "Killing Me",
-        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Killing Me",
-      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -763,8 +731,24 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "damn Right",
-        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
+        "name": "Jokes On Me",
+        "url": "https://open.spotify.com/album/6fPSHoFjViSZSnxwsYC8Yl"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
         }
       ],
-      "duration_ms": 164605,
-      "name": "damn Right",
-      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+      "duration_ms": 157466,
+      "name": "Jokes On Me",
+      "url": "https://open.spotify.com/track/0TjUJXqUH9CPfoC30y4fWx"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -799,18 +783,18 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+        "name": "Killing Me",
+        "url": "https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/73tdwqQJWnBdf1jyUeMwyu"
         }
       ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+      "duration_ms": 164053,
+      "name": "Killing Me",
+      "url": "https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -915,6 +899,22 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
+        "name": "damn Right",
+        "url": "https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B"
+      },
+      "artists": [
+        {
+          "name": "AUDREY NUNA",
+          "url": "https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb"
+        }
+      ],
+      "duration_ms": 164605,
+      "name": "damn Right",
+      "url": "https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
         "name": "Our Time is Blue",
         "url": "https://open.spotify.com/album/6y85v8s3kgIelDBcYroJgE"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Bad Girls Behave",
-        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
-      },
-      "artists": [
-        {
-          "name": "Karencici",
-          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
-        }
-      ],
-      "duration_ms": 170007,
-      "name": "Bad Girls Behave",
-      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "Can you (Galcher Lustwerk Remix)",
         "url": "https://open.spotify.com/album/3afqWbI8qEdTB2CBDiKAAD"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "NOT RN!",
-        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
+        "name": "Bad Girls Behave",
+        "url": "https://open.spotify.com/album/4NCyhZpzN5gAvuuVnDpRTT"
       },
       "artists": [
         {
-          "name": "Lara Andallo",
-          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
+          "name": "Karencici",
+          "url": "https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK"
         }
       ],
-      "duration_ms": 160600,
-      "name": "NOT RN!",
-      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
+      "duration_ms": 170007,
+      "name": "Bad Girls Behave",
+      "url": "https://open.spotify.com/track/0xPwQnlwiZM1StSik1g4a4"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
         "name": "That XX - Spotify Singles",
         "url": "https://open.spotify.com/album/4jFrmvzBjQc9lnTeaIr8Qo"
       },
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
+        "name": "NOT RN!",
+        "url": "https://open.spotify.com/album/2UWNrYj81L7B8XcQLByOm3"
       },
       "artists": [
         {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+          "name": "Lara Andallo",
+          "url": "https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx"
         }
       ],
-      "duration_ms": 207946,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+      "duration_ms": 160600,
+      "name": "NOT RN!",
+      "url": "https://open.spotify.com/track/4x3wN3dxBnVyyb1dGhLqKT"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "GORGEOUS",
-        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
-      },
-      "artists": [
-        {
-          "name": "BODUR",
-          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
-        }
-      ],
-      "duration_ms": 149973,
-      "name": "GORGEOUS",
-      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "Chatter",
         "url": "https://open.spotify.com/album/0ke6IZ0jAiFuZuOT7Jwr8u"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "Oops! Ur Single Now",
-        "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
+        "name": "GORGEOUS",
+        "url": "https://open.spotify.com/album/7Fd8aPc4CzZVTKEn8ughdc"
       },
       "artists": [
         {
-          "name": "Rhea Raj",
-          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+          "name": "BODUR",
+          "url": "https://open.spotify.com/artist/3HFE3MznHoHRI5kwxeW1GU"
         }
       ],
-      "duration_ms": 122600,
-      "name": "Oops! Ur Single Now",
-      "url": "https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS"
+      "duration_ms": 149973,
+      "name": "GORGEOUS",
+      "url": "https://open.spotify.com/track/1Pqc2ziy5pDMfZqLiQsOek"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -1347,6 +1331,22 @@
       "duration_ms": 178000,
       "name": "Raspberry Tongue",
       "url": "https://open.spotify.com/track/7dtUx6UNMsD6PQ8LhyUOXO"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
+        "name": "Oops! Ur Single Now",
+        "url": "https://open.spotify.com/album/1UXUSIB2VlwmeCdkQncGtC"
+      },
+      "artists": [
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "duration_ms": 122600,
+      "name": "Oops! Ur Single Now",
+      "url": "https://open.spotify.com/track/5RBGrAXylxMWJhCEGWb4AS"
     },
     {
       "added_at": "2024-08-16 16:46:35",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2024-08-16 16:46:35",
       "album": {
-        "name": "EAT / DIRT",
-        "url": "https://open.spotify.com/album/5sSHtc1O80DaV60NDKPnYu"
-      },
-      "artists": [
-        {
-          "name": "Zoe Ko",
-          "url": "https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ"
-        }
-      ],
-      "duration_ms": 137500,
-      "name": "EAT",
-      "url": "https://open.spotify.com/track/3CRDDASiC4gwTYUOOdnMxt"
-    },
-    {
-      "added_at": "2024-08-16 16:46:35",
-      "album": {
         "name": "RIP To My Feelings",
         "url": "https://open.spotify.com/album/5jqqcOyvjES1yHArXDJINR"
       },
@@ -1535,6 +1519,30 @@
       "duration_ms": 204267,
       "name": "RIP To My Feelings",
       "url": "https://open.spotify.com/track/6O006yehRUETdQvxfCAVl9"
+    },
+    {
+      "added_at": "2024-08-16 16:46:35",
+      "album": {
+        "name": "Ija (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Mavins",
+          "url": "https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790"
+        },
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 190822,
+      "name": "Ija - TOKiMONSTA Remix",
+      "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
     }
   ],
   "unique_name": "Dope AF",

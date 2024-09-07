@@ -2,7 +2,7 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Dilaw
+> Mga nangunguna sa mundo ng OPM\. <br/>Cover: TJ Monterde x KZ Tandingan
 
 193 songs - 11 hr 50 min
 

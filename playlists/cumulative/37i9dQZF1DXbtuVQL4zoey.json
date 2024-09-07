@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 144000,
       "name": "Alone Again",
       "url": "https://open.spotify.com/track/1I5LzwQzflf3ZoNuIwLnBq"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 186453,
       "name": "Amore",
       "url": "https://open.spotify.com/track/0uKr4tURNiLyOKFqsmKNx0"
@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "caipirinha",
+        "url": "https://open.spotify.com/album/2GPcK7d5WY90GuKHxPLzCc"
+      },
+      "artists": [
+        {
+          "name": "lilibu",
+          "url": "https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127676,
+      "name": "caipirinha",
+      "url": "https://open.spotify.com/track/6fToXhmvySs7v9pjKkOyZm"
+    },
+    {
+      "album": {
         "name": "Calamares",
         "url": "https://open.spotify.com/album/6pvCDWEhZglbwq58Q8RyGE"
       },
@@ -2146,6 +2164,32 @@
       "duration_ms": 127619,
       "name": "cicada",
       "url": "https://open.spotify.com/track/2oUg0uJXtNDownLGl6ElWk"
+    },
+    {
+      "album": {
+        "name": "Cinnamon Tree",
+        "url": "https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx"
+      },
+      "artists": [
+        {
+          "name": "MrAnthony",
+          "url": "https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx"
+        },
+        {
+          "name": "Dani Catal\u00e1",
+          "url": "https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i"
+        },
+        {
+          "name": "Porcel",
+          "url": "https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116893,
+      "name": "Cinnamon Tree",
+      "url": "https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf"
     },
     {
       "album": {
@@ -2540,6 +2584,24 @@
       "duration_ms": 175135,
       "name": "contour",
       "url": "https://open.spotify.com/track/2Pb6ZuEm6FEfcGlqhHuqPN"
+    },
+    {
+      "album": {
+        "name": "cool",
+        "url": "https://open.spotify.com/album/3ZUjSRnjQzsj2DISatW12o"
+      },
+      "artists": [
+        {
+          "name": "Napolicity",
+          "url": "https://open.spotify.com/artist/6qZ0vZZfdOormGhYSJtt5q"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132420,
+      "name": "cool",
+      "url": "https://open.spotify.com/track/6zE0AMn0vV8R0Fd8byunjn"
     },
     {
       "album": {
@@ -3542,7 +3604,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 156533,
       "name": "Feeling Good",
       "url": "https://open.spotify.com/track/5woq04bPb5fZ4bB8wfOkuC"
@@ -4668,7 +4730,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 111000,
       "name": "How About This",
       "url": "https://open.spotify.com/track/29i0fM2WgShkB2lnb6GnBv"
@@ -5971,6 +6033,28 @@
     },
     {
       "album": {
+        "name": "Margarita Sunday",
+        "url": "https://open.spotify.com/album/6JeyZy1Zx75UvGh8vMwP5h"
+      },
+      "artists": [
+        {
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        },
+        {
+          "name": "Hendy",
+          "url": "https://open.spotify.com/artist/6McvQxkxDcQzLzRdDDhbMd"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129757,
+      "name": "Margarita Sunday",
+      "url": "https://open.spotify.com/track/4jE4mFZJLYp717pc8EKj80"
+    },
+    {
+      "album": {
         "name": "Matal\u00ed",
         "url": "https://open.spotify.com/album/0AYDa7YRH3Zh4jSzKgClEV"
       },
@@ -7152,7 +7236,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 158181,
       "name": "Parallels",
       "url": "https://open.spotify.com/track/6Puzyr6rxBYIjlKG5GTifj"
@@ -7294,7 +7378,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 127500,
       "name": "Pier Watching",
       "url": "https://open.spotify.com/track/4UWxY5jyHw8Ou5Ui5xvUr0"
@@ -7571,6 +7655,28 @@
     },
     {
       "album": {
+        "name": "Praia Gaivotas",
+        "url": "https://open.spotify.com/album/0VfQXzZgVGpojcjpLC7shH"
+      },
+      "artists": [
+        {
+          "name": "Vincent Rayn",
+          "url": "https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG"
+        },
+        {
+          "name": "caens",
+          "url": "https://open.spotify.com/artist/39sVKctQJ28PsdlyzbVWgP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138835,
+      "name": "Praia Gaivotas",
+      "url": "https://open.spotify.com/track/7GO1GdFmK6a4irAZLatsyt"
+    },
+    {
+      "album": {
         "name": "Pueblo",
         "url": "https://open.spotify.com/album/59e6mmSqB6wtHkPyGf4CrJ"
       },
@@ -7590,6 +7696,24 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
+    },
+    {
+      "album": {
+        "name": "Puerto De Los Nueves",
+        "url": "https://open.spotify.com/album/2AMs9m3FKB1IKGJ3WmfJPE"
+      },
+      "artists": [
+        {
+          "name": "Pool Outside",
+          "url": "https://open.spotify.com/artist/4HGyzkp4NUNdqna3xUIF9F"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144166,
+      "name": "Puerto De Los Nueves",
+      "url": "https://open.spotify.com/track/6NRBSfXCgZGCHL3M9FTAI9"
     },
     {
       "album": {
@@ -7622,7 +7746,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 138957,
       "name": "Purrfect",
       "url": "https://open.spotify.com/track/06FHrzf7psD6ow7W4SH5Ks"
@@ -9385,6 +9509,28 @@
     },
     {
       "album": {
+        "name": "Sundance",
+        "url": "https://open.spotify.com/album/5tzEGQEodiqOjSe0HEpAaC"
+      },
+      "artists": [
+        {
+          "name": "Axian",
+          "url": "https://open.spotify.com/artist/3sdeNhCYLAMuRVsJPMNYO6"
+        },
+        {
+          "name": "Jam'addict",
+          "url": "https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122790,
+      "name": "Sundance",
+      "url": "https://open.spotify.com/track/2yJaItXbZgD9yjdtFfUNgO"
+    },
+    {
+      "album": {
         "name": "sunday am",
         "url": "https://open.spotify.com/album/2HAaftOkwFzPXYuBeifJU8"
       },
@@ -9418,6 +9564,24 @@
       "duration_ms": 169473,
       "name": "Sunday Mornings",
       "url": "https://open.spotify.com/track/7sigACWgeejkcI9Q41FCue"
+    },
+    {
+      "album": {
+        "name": "SUNDAY SUN",
+        "url": "https://open.spotify.com/album/1SX0d2TR62aUzWVGEGGiXk"
+      },
+      "artists": [
+        {
+          "name": "May-Flowa",
+          "url": "https://open.spotify.com/artist/3nYAsFmuTO2M6A9Gpb8CCr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136041,
+      "name": "SUNDAY SUN",
+      "url": "https://open.spotify.com/track/4qOYZ6B8I1uXM8lP3jztCq"
     },
     {
       "album": {

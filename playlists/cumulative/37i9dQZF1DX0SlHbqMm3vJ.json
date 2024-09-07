@@ -2605,6 +2605,24 @@
     },
     {
       "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/4umlxMAT72AjjRpsb0D5p5"
+      },
+      "artists": [
+        {
+          "name": "Tolani",
+          "url": "https://open.spotify.com/artist/6ILYtYSwIa2Aygcqr8PTds"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/5QQjJDCm7zlNZ4DwzHRzHv"
+    },
+    {
+      "album": {
         "name": "Cubana",
         "url": "https://open.spotify.com/album/4rj8Ry8Xot9qjfakmTJvLX"
       },
@@ -5332,7 +5350,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218055,
       "name": "IFA",
       "url": "https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ"
@@ -6324,7 +6342,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177692,
       "name": "KOKO",
       "url": "https://open.spotify.com/track/3ZwcOu974vlPmNQkDUNwMO"
@@ -8680,6 +8698,28 @@
       "duration_ms": 153675,
       "name": "Omo Eko",
       "url": "https://open.spotify.com/track/7pN5oIZyVEEk8tFtxE7yBV"
+    },
+    {
+      "album": {
+        "name": "Welcome To The Pack",
+        "url": "https://open.spotify.com/album/4oF2ZFUWmjZsD1wmAJVnln"
+      },
+      "artists": [
+        {
+          "name": "Alpha P",
+          "url": "https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl"
+        },
+        {
+          "name": "Kemuel",
+          "url": "https://open.spotify.com/artist/0ixmjHuzMTxPyps7w28tnH"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141030,
+      "name": "OMW",
+      "url": "https://open.spotify.com/track/2OAO4w8g6RvJn8LUACoHzJ"
     },
     {
       "album": {

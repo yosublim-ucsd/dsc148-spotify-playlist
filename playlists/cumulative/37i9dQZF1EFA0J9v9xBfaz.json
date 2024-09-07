@@ -1899,6 +1899,28 @@
     },
     {
       "album": {
+        "name": "Alex G\u00e1rgolas Presenta: Las G\u00e1rgolas,Vol.4",
+        "url": "https://open.spotify.com/album/5pB29lSqQXirGEdMfJhtWH"
+      },
+      "artists": [
+        {
+          "name": "Alex Gargolas",
+          "url": "https://open.spotify.com/artist/7awyvLSthqOcL5A3hnR1pf"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221413,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/0qFCBX8p5cgbLjJk90xy49"
+    },
+    {
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/5GePbEJD29vrg2Fi2TeSuN"
       },
@@ -1910,7 +1932,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 164651,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/46PJdzPGEb06XT7BCYPyHI"

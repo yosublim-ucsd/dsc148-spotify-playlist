@@ -176,7 +176,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 109921,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 151674,
       "name": "Facetime",
       "url": "https://open.spotify.com/track/2q4cLqUTbjtvlXIcaa85TA"
@@ -1726,7 +1726,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 239250,
       "name": "Grip Tight",
       "url": "https://open.spotify.com/track/79oMfwG1PoLKOXmFkvKI4Z"
@@ -2994,6 +2994,32 @@
       "duration_ms": 174306,
       "name": "PERSIAN RUGS",
       "url": "https://open.spotify.com/track/7e6GS3IZB1RNf75EjrfUeA"
+    },
+    {
+      "album": {
+        "name": "THJ Radio Vol. 1",
+        "url": "https://open.spotify.com/album/11ZhB00zBhxQkxJOHJ4Q2a"
+      },
+      "artists": [
+        {
+          "name": "Ye Ali",
+          "url": "https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH"
+        },
+        {
+          "name": "Tone Stith",
+          "url": "https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44"
+        },
+        {
+          "name": "Rayven Tyler",
+          "url": "https://open.spotify.com/artist/0lZfnMJMLQOWO5JcpFD9Df"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234344,
+      "name": "Press Play",
+      "url": "https://open.spotify.com/track/69iVQDeBAbe6yLdImsutaG"
     },
     {
       "album": {

@@ -1,15 +1,31 @@
 {
   "description": "The best tracks in downtempo &amp; chill, curated by Anjuna. Perfect for studying, meditating &amp; relaxing. ",
-  "num_followers": 42217,
+  "num_followers": 42222,
   "original_name": "Chill with Anjuna",
   "owner": {
     "name": "Anjunadeep",
     "url": "https://open.spotify.com/user/anjunadeep"
   },
-  "snapshot_id": "AAAKP2IFcRoaQUH/BKeNbcT5kNb3Ap0Y",
+  "snapshot_id": "AAAKQ0NJn9UWk71bgQmz21/771S2Jz05",
   "tracks": [
     {
-      "added_at": "2024-09-02 09:10:02",
+      "added_at": "2024-09-06 14:34:33",
+      "album": {
+        "name": "Opals [Strings]",
+        "url": "https://open.spotify.com/album/0rQAG1x8En0pK6ibB57C5h"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "Opals [Strings]",
+      "url": "https://open.spotify.com/track/3sXfYyVPU8qUk6s0ptba63"
+    },
+    {
+      "added_at": "2024-09-06 14:34:42",
       "album": {
         "name": "Contours",
         "url": "https://open.spotify.com/album/7AgmO49GIQuCO5C2pKsmXm"
@@ -25,23 +41,7 @@
       "url": "https://open.spotify.com/track/3Ve1THBjsyIZ9JJ2sE1RQq"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
-      "album": {
-        "name": "Satisfied [Strings]",
-        "url": "https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 177764,
-      "name": "Satisfied [Strings]",
-      "url": "https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH"
-    },
-    {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Kintsugi",
         "url": "https://open.spotify.com/album/66k1sZw4tEWuHnDUeNSGvk"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/3HZdQS6zV60urA6XVKpUYW"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
+      "album": {
+        "name": "ten days",
+        "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 220656,
+      "name": "i saw you",
+      "url": "https://open.spotify.com/track/3DzWFxyzsAVblVNndiU9CW"
+    },
+    {
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Come Together (Nox Vahn & Marsh Revisit)",
         "url": "https://open.spotify.com/album/6m0mLramcaMID73jvYf0Lx"
@@ -77,7 +93,23 @@
       "url": "https://open.spotify.com/track/1a9ShyDtSg8KqVdfa4Kyd0"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
+      "album": {
+        "name": "Satisfied [Strings]",
+        "url": "https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 177764,
+      "name": "Satisfied [Strings]",
+      "url": "https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH"
+    },
+    {
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Remember Me",
         "url": "https://open.spotify.com/album/4KJhQTZgKYxewsxHoKy6Mj"
@@ -93,7 +125,7 @@
       "url": "https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Sleep Is Sacrament",
         "url": "https://open.spotify.com/album/7ySRbBRPt31mah1cwD29g0"
@@ -109,7 +141,7 @@
       "url": "https://open.spotify.com/track/6wdiugsx4HdCiNvEQXh41Y"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj"
@@ -125,7 +157,7 @@
       "url": "https://open.spotify.com/track/27DozBowhDYuHNExnzbipt"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "sleep",
         "url": "https://open.spotify.com/album/6doyLgotIno6g2yYVU5fJd"
@@ -141,7 +173,7 @@
       "url": "https://open.spotify.com/track/4KP3pOw2ozsL6hrCef7ajT"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Bloom EP",
         "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
@@ -157,7 +189,7 @@
       "url": "https://open.spotify.com/track/6dB4atu4vMdEc4ZsaxRAY4"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Peaceful Avenues",
         "url": "https://open.spotify.com/album/2tSLZZXtD1PDRuRTNNKnst"
@@ -177,7 +209,7 @@
       "url": "https://open.spotify.com/track/2ucQtiO5cCdbGJGiRfYC3H"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Memory Morning",
         "url": "https://open.spotify.com/album/2LsEbodgqI6P1q7QEVe3P7"
@@ -193,7 +225,7 @@
       "url": "https://open.spotify.com/track/49MMPosiIrORwUtdrG1eiQ"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -209,7 +241,7 @@
       "url": "https://open.spotify.com/track/3uVbMPqILJGZO1ZrlcKRuv"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Bloom EP",
         "url": "https://open.spotify.com/album/0KuOmIMUvSvjresvIA4mrq"
@@ -225,7 +257,7 @@
       "url": "https://open.spotify.com/track/1m0TjF8lqIRfkasVGuiQyU"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Love In Our Hands (Omfeel Remix)",
         "url": "https://open.spotify.com/album/02qpWAHaCW4bcK6TEOgxt6"
@@ -245,7 +277,7 @@
       "url": "https://open.spotify.com/track/13J8zbaMzeLyQ2o0duJ4dh"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -261,7 +293,7 @@
       "url": "https://open.spotify.com/track/1Pff8X1sJF7Lh0gi4LV70B"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Fugue In Twilight",
         "url": "https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM"
@@ -277,7 +309,7 @@
       "url": "https://open.spotify.com/track/1aOuKqVx4Myq3Ql4MqW1xK"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Put You Back Together",
         "url": "https://open.spotify.com/album/2iE2GaYIZCGqCcJdMBFv3v"
@@ -297,7 +329,7 @@
       "url": "https://open.spotify.com/track/4wRgSUpELGyDeKnaG3sFUW"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Ogou (Pran Ka Mwen) [Turtle Revisit]",
         "url": "https://open.spotify.com/album/7HbnyY0UkqOzyOpgrmcf9Q"
@@ -321,7 +353,7 @@
       "url": "https://open.spotify.com/track/48R6sOFn31bOM199xIXWQv"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Love In Our Hands",
         "url": "https://open.spotify.com/album/4XSVK3udgsRyaOeBLBUXEv"
@@ -337,7 +369,7 @@
       "url": "https://open.spotify.com/track/54X03H0dMvwn2FlWWsj3nM"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "J\u014dhatsu (\u84b8\u767a)",
         "url": "https://open.spotify.com/album/4jVf3DHrIPgkWowFjkdwMV"
@@ -353,7 +385,7 @@
       "url": "https://open.spotify.com/track/6ScA5iBXkvbu5i8grkh7rO"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -369,7 +401,7 @@
       "url": "https://open.spotify.com/track/7M8rxHUoLI7k10qurZ5GyA"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Closer To You",
         "url": "https://open.spotify.com/album/3eTNzXkrhDwgL8IPDOa1Ax"
@@ -389,7 +421,7 @@
       "url": "https://open.spotify.com/track/2CdyYYqIUW6mhIFQK8r9Hs"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "I Can Hear the Birds",
         "url": "https://open.spotify.com/album/5e2c7ge98FEC2RaAAq0wV1"
@@ -405,7 +437,7 @@
       "url": "https://open.spotify.com/track/0hRCdpKyqN25UFexMue0Pp"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Reflections 07",
         "url": "https://open.spotify.com/album/1hwOuBjlXZhaEifsDfG14V"
@@ -421,7 +453,7 @@
       "url": "https://open.spotify.com/track/7alJ5Zy3imEzCCzwv9hEtq"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Erased Dreams",
         "url": "https://open.spotify.com/album/6Q67qjhJcBsMPWS3PXF8kv"
@@ -437,7 +469,7 @@
       "url": "https://open.spotify.com/track/0IZ9KgBNgV0AUw9jStNkvj"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Beautiful World Field Notes: Unplugged",
         "url": "https://open.spotify.com/album/5W85KtB6tOmqxVJEUD8z8M"
@@ -453,7 +485,7 @@
       "url": "https://open.spotify.com/track/3Q6Cvq1CCuReYxcjz2M5yi"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Fading Anxieties",
         "url": "https://open.spotify.com/album/29aXvfgMqYrsHIFS9f8UkJ"
@@ -469,7 +501,7 @@
       "url": "https://open.spotify.com/track/16RXlxwUqG5853XArw0Byx"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Warmth",
         "url": "https://open.spotify.com/album/5tLrwK3TcK1SMqhVAThVEp"
@@ -485,7 +517,7 @@
       "url": "https://open.spotify.com/track/6tbkjEH6uEajWZjrLzd3CK"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Holding Me Back (The Kite String Tangle's Stripped Back Version)",
         "url": "https://open.spotify.com/album/10C4tAgChwZLtQ04Fd5nja"
@@ -505,7 +537,7 @@
       "url": "https://open.spotify.com/track/1uAqwBlyVpdusW9Y4drUex"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Reflections 09",
         "url": "https://open.spotify.com/album/7pAHMZWxe6SEZVnXIuhPR5"
@@ -521,7 +553,7 @@
       "url": "https://open.spotify.com/track/2uy39vRSVXKvYzEwJfbCRu"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "The Sounds Inside Of Me When I Think Of You EP",
         "url": "https://open.spotify.com/album/3oajHb9mhmBvgqXvvhj5Bc"
@@ -537,7 +569,7 @@
       "url": "https://open.spotify.com/track/4VOVyIBfnrSQ2OZyISkn4g"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Fugue In Twilight (Instrumentals)",
         "url": "https://open.spotify.com/album/1hVTt0waA9eZa1yFcNS0Jt"
@@ -553,7 +585,7 @@
       "url": "https://open.spotify.com/track/3GVLVaWkjpogFy7ZyjzXiI"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Through The Mirror Glass",
         "url": "https://open.spotify.com/album/46rNTPpQNcoElCWGS4uZuY"
@@ -569,7 +601,7 @@
       "url": "https://open.spotify.com/track/3vUqBuU7k1Ev75Rpb80daj"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Mono No Aware",
         "url": "https://open.spotify.com/album/70hyp5k7zuvuI52UZvWBKx"
@@ -585,7 +617,7 @@
       "url": "https://open.spotify.com/track/7J8NbJZXIbR3JLOUk5BITV"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "YOU.ME.NOW",
         "url": "https://open.spotify.com/album/32ozStC7KbED7L5ez5en1n"
@@ -605,7 +637,7 @@
       "url": "https://open.spotify.com/track/2Lel47yBru9Io5TjTeF17I"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/16sfP3nI7hNlUppaYv4dtC"
@@ -625,7 +657,7 @@
       "url": "https://open.spotify.com/track/2CZOLVdbBc4NDwhCVMRSzh"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "Second Chance",
         "url": "https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS"
@@ -645,7 +677,7 @@
       "url": "https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud"
     },
     {
-      "added_at": "2024-08-23 15:38:47",
+      "added_at": "2024-09-06 14:34:33",
       "album": {
         "name": "A Long Way From Home (The Remixes)",
         "url": "https://open.spotify.com/album/6Dbaxc0Q0lPJbImolzTz9Q"
@@ -675,46 +707,6 @@
       "duration_ms": 265756,
       "name": "A Long Way From Home - Jody Wisternoff & James Grant Remix",
       "url": "https://open.spotify.com/track/7fOFW4D1eSvYL2qdeHUyuh"
-    },
-    {
-      "added_at": "2024-08-23 15:38:47",
-      "album": {
-        "name": "Your Love's Not Wasted",
-        "url": "https://open.spotify.com/album/6a92sVEH9NRJWTpLbJfO9L"
-      },
-      "artists": [
-        {
-          "name": "Jako Diaz",
-          "url": "https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz"
-        },
-        {
-          "name": "Jakke",
-          "url": "https://open.spotify.com/artist/4J2F2H9mhFcaXDs64WCMxQ"
-        }
-      ],
-      "duration_ms": 240018,
-      "name": "Your Love's Not Wasted",
-      "url": "https://open.spotify.com/track/1at0ZV2iOErop550JQLyZR"
-    },
-    {
-      "added_at": "2024-08-23 15:38:47",
-      "album": {
-        "name": "Don't Say (Talee's Pool Party Mix)",
-        "url": "https://open.spotify.com/album/0VkyvhRve3iOjjIChODhAi"
-      },
-      "artists": [
-        {
-          "name": "Croquet Club",
-          "url": "https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6"
-        },
-        {
-          "name": "Talee",
-          "url": "https://open.spotify.com/artist/7pf6HNkcy55zaCdFFOugju"
-        }
-      ],
-      "duration_ms": 265762,
-      "name": "Don't Say - Talee's Pool Party Mix",
-      "url": "https://open.spotify.com/track/5BjwwUEhzvWGAS43Uz7hwo"
     }
   ],
   "unique_name": "Chill with Anjuna",

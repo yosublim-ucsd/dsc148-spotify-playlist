@@ -4,11 +4,11 @@
 
 > Get moving on the dancefloor with some big room beats! Cover: Armin van Buuren &amp; David Guetta
 
-137 songs - 7 hr 10 min
+138 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 |  |
+| [42](https://open.spotify.com/track/5PIhpG2ax06QpBLRqlYQql) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [42](https://open.spotify.com/album/1q93Q9Xc7WIcJLNBgOIPBQ) | 2:55 | 2023-12-08 | 2024-09-07 |
 | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/track/2kJU9c7wKfwE2wdGE7D2As) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Omega Sapien](https://open.spotify.com/artist/46KQM3HJyONaKRTbcfNPlU), [Mega Mongoliad](https://open.spotify.com/artist/6xHMrHVijOcbhaRLAMnCLT), [Lee Suho](https://open.spotify.com/artist/6lu1at7eKmZ4y0hpMbwppj) | [<3 Korean Girls \(feat\. Mega Mongoliad\)](https://open.spotify.com/album/6Mh6eyIWpuby06tcszkj5X) | 2:44 | 2024-08-23 |  |
 | [AEIOU](https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [AEIOU](https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc) | 3:15 | 2023-12-08 | 2024-02-03 |
 | [Ain't Nobody](https://open.spotify.com/track/4bfHVv3l0nyvJU12zIDhtm) | [Hard Lights](https://open.spotify.com/artist/3tLvKk2N4IGhT3aZceW2Hy), [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b) | [Ain't Nobody](https://open.spotify.com/album/0vNmfGvW3m5cN8TIDA5XKI) | 2:09 | 2023-12-08 | 2023-12-16 |
@@ -31,6 +31,7 @@
 | [Disco en Egypte](https://open.spotify.com/track/1KIZY1WtXrL5Hf8aoPy1PG) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Disco en Egypte](https://open.spotify.com/album/2pWoLCL2ATNgxXONtIzyAx) | 3:46 | 2023-12-08 | 2024-02-10 |
 | [DISKO](https://open.spotify.com/track/2bDLItAgVcVRlzL2vZQFPV) | [Upsilone](https://open.spotify.com/artist/7795o3nUrbz3kl6KOqHEDA), [MNDR](https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe) | [DISKO](https://open.spotify.com/album/1SPK5NPMkyprQOYP8kazgs) | 2:45 | 2024-03-01 | 2024-04-27 |
 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 | 2023-12-08 | 2024-03-02 |
+| [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-06 |  |
 | [Dreams](https://open.spotify.com/track/3ju6CTcNuNlr2VzyQkiOZ7) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Dreams](https://open.spotify.com/album/25osRktzaln9czfz3iEyNa) | 2:53 | 2023-12-08 | 2024-02-17 |
 | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/track/6Ea2oEzysv4UECGNxL1IEW) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Eat Your Man \(with Nelly Furtado\)](https://open.spotify.com/album/6UC9oEbksP0m0Sfl1sgVEQ) | 3:17 | 2023-12-08 | 2024-04-20 |
 | [Eating Heartache \(feat\. spill tab\)](https://open.spotify.com/track/6av2VhdqgE87rHJVaqtOfS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Stop Thinking Start Feeling](https://open.spotify.com/album/1m3JuJHtgpkuoMFtxCpoSS) | 2:42 | 2024-05-24 |  |

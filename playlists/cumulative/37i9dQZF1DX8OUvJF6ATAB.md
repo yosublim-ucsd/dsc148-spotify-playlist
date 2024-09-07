@@ -4,7 +4,7 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-337 songs - 1 day 5 hr 28 min
+338 songs - 1 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [Landlocked](https://open.spotify.com/track/23QUBd5ZfFw0fI3UepHHx1) | [Capitol K](https://open.spotify.com/artist/2Nrvi6wKKZ0iAaxaBPDBzj) | [Goatherder](https://open.spotify.com/album/3kay810nPv6SykhqhrUCeI) | 3:59 | 2021-10-06 |  |
 | [Licidana](https://open.spotify.com/track/5UP4NXyJJkTz7oyOx2CUii) | [Apparat](https://open.spotify.com/artist/40Ojab0UtVQFjA76qXr8Ot) | [Soundtracks: Capri\-Revolution](https://open.spotify.com/album/1BEMFHKm50nmtjgvDNgQeJ) | 3:15 | 2021-10-06 | 2022-07-28 |
 | [Life At The End Of The World](https://open.spotify.com/track/1ZVV1Ti8cm9uJ3kBG1edND) | [Ki Oni](https://open.spotify.com/artist/26BdaSNzPM8yZZ8Baq9yH2) | [Life At The End Of The World](https://open.spotify.com/album/2VMjw9XNqRYgx3Not9RVf5) | 14:38 | 2021-10-06 | 2022-07-28 |
+| [Like a Glacier Waiting for the Summer](https://open.spotify.com/track/0Q7WpjZChzlK6isNOjmS37) | [Carlos Metta](https://open.spotify.com/artist/5igkVL3BEbBPfvcDXFgJgB) | [Like a Glacier Waiting for the Summer](https://open.spotify.com/album/1upyh5DmPzcRycLOZMdl4P) | 9:53 | 2024-09-06 |  |
 | [Lizard Point \- Remastered 2004](https://open.spotify.com/track/3an5DoMqoNpJEQwfA48A4c) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 4: On Land \(Remastered 2004\)](https://open.spotify.com/album/6siM9Wpdrdlt5xQYohETIh) | 4:34 | 2024-01-03 |  |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-03-11 |  |
 | [Love Birds, Night Birds, Devil\-Birds](https://open.spotify.com/track/0z4uaqGpA3APE8dqvuUZ3l) | [Kelly Moran](https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy) | [Origin EP](https://open.spotify.com/album/6n7fakB3pKRvA7fqpSDvNk) | 4:26 | 2021-10-06 | 2022-07-20 |
@@ -239,7 +240,7 @@
 | [Return Forever](https://open.spotify.com/track/3S2TaFyKQ03FAoBE75ikkK) | [Innere Tueren](https://open.spotify.com/artist/7mVDs9l7aRtmHrnE4T768y) | [Return Forever](https://open.spotify.com/album/01zA9wGdao7OUKN9Ce2lyT) | 4:41 | 2021-10-06 | 2024-06-19 |
 | [Reverse Culture Music](https://open.spotify.com/track/1H5F2CscHZSaiLMzZWWDSh) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/3TkzTDlRwpaEgXzLK7MsL3) | 6:09 | 2021-10-06 | 2022-07-29 |
 | [Reverse Culture Music](https://open.spotify.com/track/31Wl8j2L7CUPXjyQ4QCFfK) | [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO) | [Nonlin](https://open.spotify.com/album/1HG66ZvnAjtbKyWoXvBLTn) | 6:09 | 2021-10-06 | 2024-04-19 |
-| [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 | 2022-09-27 |  |
+| [Rise](https://open.spotify.com/track/71DKAvZJ4eDrFdtqGfxALd) | [Edgar Mondragón](https://open.spotify.com/artist/5I0dT5ftsahh9CXCvwWS0D) | [Inner Rage](https://open.spotify.com/album/3k7kOAsZhqLlIO0pouLde8) | 6:14 | 2022-09-27 | 2024-09-07 |
 | [Roaming](https://open.spotify.com/track/5q8EX29mKKA3epupwlxR64) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Roaming](https://open.spotify.com/album/6Ks5xAWcNa0hEfhdGriVI9) | 4:50 | 2021-10-06 | 2024-05-13 |
 | [Rooftop](https://open.spotify.com/track/3iwhnEIa8SILkNd1j2PWG3) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/7gLMFIEGokaYtPBKRCYSjG) | 4:45 | 2021-10-06 | 2024-02-26 |
 | [Rooftop](https://open.spotify.com/track/5NNOsJUUr9FMAjbR0OrW2z) | [Tujiko Noriko](https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l) | [Kuro \(OST\)](https://open.spotify.com/album/19T8jn8CL3WTkwT71g9Hmg) | 4:45 | 2021-10-06 | 2022-07-27 |

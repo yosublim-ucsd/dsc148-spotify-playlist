@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-15",
-  "description": "n\u00fc-metal revival is happening here and now with DREGG.",
+  "description": "n\u00fc-metal revival is happening here and now with Linkin Park.",
   "name": "new n\u00fc",
   "tracks": [
     {
@@ -686,6 +686,24 @@
       "duration_ms": 227066,
       "name": "Delusion",
       "url": "https://open.spotify.com/track/77ULrGUHNgSAobFyxObL11"
+    },
+    {
+      "album": {
+        "name": "DESERT RAP",
+        "url": "https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192676,
+      "name": "DESERT RAP",
+      "url": "https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan"
     },
     {
       "album": {
@@ -1754,7 +1772,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 269786,
       "name": "Modern Error",
       "url": "https://open.spotify.com/track/3VHTWAPeU9RNnCCCeJRipL"
@@ -2717,6 +2735,24 @@
     },
     {
       "album": {
+        "name": "Confessions Of The Fallen (Deluxe)",
+        "url": "https://open.spotify.com/album/3HVtNvI8sdXbQ8yltLVAYo"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191561,
+      "name": "Take",
+      "url": "https://open.spotify.com/track/1xUhwqW7W6uEi1oGCCfYv7"
+    },
+    {
+      "album": {
         "name": "Takers",
         "url": "https://open.spotify.com/album/5HoeNbrXoL39PA4RHQxo5j"
       },
@@ -2768,6 +2804,24 @@
       "duration_ms": 260665,
       "name": "Terrorwave",
       "url": "https://open.spotify.com/track/4SuU44gp3mL6ws3zZ82n9i"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {
@@ -2912,7 +2966,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 186369,
       "name": "Troubled",
       "url": "https://open.spotify.com/track/4YHUgFw8vYSTxooGSjUklu"
@@ -3042,7 +3096,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 209044,
       "name": "Underdog",
       "url": "https://open.spotify.com/track/1efrwSkCF1Vm5aJD4Rcar6"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167306,
       "name": "A Song for the Rain",
       "url": "https://open.spotify.com/track/5MRoGBJFdaDmlEpUGJhyZK"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 176773,
       "name": "All Candy",
       "url": "https://open.spotify.com/track/5JbG05V0dUyHK6aDEmqsPA"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 234000,
       "name": "Alpha Howl",
       "url": "https://open.spotify.com/track/1IAOYhIuzz1O9dJqd2AtFu"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 322844,
       "name": "Amnesty/Silver",
       "url": "https://open.spotify.com/track/4OsvkGo2tfuPywkdz3W3xK"
@@ -178,10 +178,28 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 257386,
       "name": "Becoming Human",
       "url": "https://open.spotify.com/track/1l4dlmvEmLKgEgpezRrgxH"
+    },
+    {
+      "album": {
+        "name": "The Long Goodbye",
+        "url": "https://open.spotify.com/album/04qrGX5HIteDnpUN2JaISK"
+      },
+      "artists": [
+        {
+          "name": "Galahad",
+          "url": "https://open.spotify.com/artist/2IYfNXFeQLyNhYaU1I0ZiI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 379853,
+      "name": "Behind the Veil of a Smile",
+      "url": "https://open.spotify.com/track/38j95SnduEqEJ12BqISkSk"
     },
     {
       "album": {
@@ -266,6 +284,36 @@
       "duration_ms": 261999,
       "name": "Break It All",
       "url": "https://open.spotify.com/track/1SdxRh3a4qUs3HJcJvsHjr"
+    },
+    {
+      "album": {
+        "name": "Bringing It Down to the Bass",
+        "url": "https://open.spotify.com/album/6C1mIWAOf4vlhWExDH6Zir"
+      },
+      "artists": [
+        {
+          "name": "Tony Levin",
+          "url": "https://open.spotify.com/artist/4UjlFZPd9pYcyGhwdcrXvH"
+        },
+        {
+          "name": "Dominic Miller",
+          "url": "https://open.spotify.com/artist/32AFNkich94JXfGvIFqpkL"
+        },
+        {
+          "name": "Manu Katch\u00e9",
+          "url": "https://open.spotify.com/artist/4HVFb71ZSXO6nRMk2pdPsy"
+        },
+        {
+          "name": "Alex Foster",
+          "url": "https://open.spotify.com/artist/1FOmilcr94cgU8VTgZ02RV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334160,
+      "name": "Bringing It Down to the Bass",
+      "url": "https://open.spotify.com/track/03wJyKd87QKIz3q2KnPIjm"
     },
     {
       "album": {
@@ -431,6 +479,24 @@
     },
     {
       "album": {
+        "name": "Betrayal",
+        "url": "https://open.spotify.com/album/7A38TRTOl2kXKhssMDzXr7"
+      },
+      "artists": [
+        {
+          "name": "Pure Reason Revolution",
+          "url": "https://open.spotify.com/artist/0DauHVRiE8SpGWxW0YINj3"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275966,
+      "name": "Dig Till You Die",
+      "url": "https://open.spotify.com/track/635tnKoiWnhhd5lEMSyJjN"
+    },
+    {
+      "album": {
         "name": "Do Angels Sing Like Rain?",
         "url": "https://open.spotify.com/album/4srkbHQAppZckPsJdnfcuL"
       },
@@ -540,7 +606,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 232933,
       "name": "EMINENT SLEAZE",
       "url": "https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ"
@@ -576,7 +642,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 292560,
       "name": "Eyes",
       "url": "https://open.spotify.com/track/2Aynxq3QreZhoS58B7WU27"
@@ -706,6 +772,24 @@
       "duration_ms": 221080,
       "name": "Fountainhead",
       "url": "https://open.spotify.com/track/6keB6agTeQshuQUVQYeLgL"
+    },
+    {
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/5OaH8LibquPKILvehfV0gH"
+      },
+      "artists": [
+        {
+          "name": "Storm Deva",
+          "url": "https://open.spotify.com/artist/123FxVi00P6AN2cks8FBfE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275004,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1s2nolY8iX6hkKd4TFhb5b"
     },
     {
       "album": {
@@ -961,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "In the Autumn",
+        "url": "https://open.spotify.com/album/5tst6xmSkZY2uy4U5iCE3Z"
+      },
+      "artists": [
+        {
+          "name": "Beardfish",
+          "url": "https://open.spotify.com/artist/5g8zU3hIMirIT8gwhV6Hlz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358204,
+      "name": "In the Autumn",
+      "url": "https://open.spotify.com/track/7mhL2OW7uA1I4iuiPlyaw3"
+    },
+    {
+      "album": {
         "name": "Deloused in the Comatorium",
         "url": "https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89"
       },
@@ -1109,6 +1211,24 @@
     },
     {
       "album": {
+        "name": "Love Is the Light",
+        "url": "https://open.spotify.com/album/2sYp33SSbXgdEGmyboXVWO"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 371440,
+      "name": "Love Is the Light",
+      "url": "https://open.spotify.com/track/46lxaVFH4hZpiemf6Rx1qd"
+    },
+    {
+      "album": {
         "name": "Machines and Men",
         "url": "https://open.spotify.com/album/55CrAJlqsxryfW0wiscp4v"
       },
@@ -1199,6 +1319,42 @@
     },
     {
       "album": {
+        "name": "The Line Pt. II",
+        "url": "https://open.spotify.com/album/4v5x0OgLt9684JCTumvWP3"
+      },
+      "artists": [
+        {
+          "name": "Haunt the Woods",
+          "url": "https://open.spotify.com/artist/1W51oEWvt0RZGpUrHMYmnU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283066,
+      "name": "Now Is Our Time",
+      "url": "https://open.spotify.com/track/3JxB8ryA0KT2Z2EBz5aCic"
+    },
+    {
+      "album": {
+        "name": "The Likes of Us",
+        "url": "https://open.spotify.com/album/3zjmvbCAxUJ4iXKDLvp9hK"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327506,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3pcl2gNKJrTFip2TiQXjWd"
+    },
+    {
+      "album": {
         "name": "Oceans Of Time",
         "url": "https://open.spotify.com/album/7HAAFpp4vxMDZuVrax7sje"
       },
@@ -1271,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "One for Sorrow",
+        "url": "https://open.spotify.com/album/0aGFhzgwXwISvmeYDk7PDj"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394433,
+      "name": "One for Sorrow",
+      "url": "https://open.spotify.com/track/0K8cizxiEav4hLMxBThTt4"
+    },
+    {
+      "album": {
         "name": "Phototroph",
         "url": "https://open.spotify.com/album/2qfghxH803q4OFSszIDEt3"
       },
@@ -1282,7 +1456,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 244000,
       "name": "Phototroph",
       "url": "https://open.spotify.com/track/3VenV3gVJnX9EKPXKrl4Lh"
@@ -1322,6 +1496,24 @@
       "duration_ms": 243461,
       "name": "Portrait",
       "url": "https://open.spotify.com/track/61OLiZOlb72LJCfl5zVMcG"
+    },
+    {
+      "album": {
+        "name": "PowerNerd",
+        "url": "https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY"
+      },
+      "artists": [
+        {
+          "name": "Devin Townsend",
+          "url": "https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208431,
+      "name": "PowerNerd",
+      "url": "https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV"
     },
     {
       "album": {
@@ -1516,7 +1708,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 319114,
       "name": "Rise, Naianasha (Cut The Cord)",
       "url": "https://open.spotify.com/track/1wjRnRqstnMDmO3CbOL6AL"
@@ -1552,7 +1744,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 397981,
       "name": "Roulette Dares (The Haunt Of) - Unfinished Original Recordings Of De-Loused In The Comatorium",
       "url": "https://open.spotify.com/track/72n2oDjYMs6kK9jKIIkY5k"
@@ -1974,7 +2166,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 418807,
       "name": "The Great Pretender",
       "url": "https://open.spotify.com/track/1M0efSydvXC2nvnuom88OB"
@@ -2183,6 +2375,24 @@
     },
     {
       "album": {
+        "name": "Void",
+        "url": "https://open.spotify.com/album/6oLjcbgkrpJjZmPeJwOkZc"
+      },
+      "artists": [
+        {
+          "name": "Coma Rossi",
+          "url": "https://open.spotify.com/artist/5IxE24msVbzRsG6cDxg7KA"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 531840,
+      "name": "This Red Sky",
+      "url": "https://open.spotify.com/track/5UzbnYlSq3H4XsC9KUqpV8"
+    },
+    {
+      "album": {
         "name": "The Unheavenly Creatures",
         "url": "https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm"
       },
@@ -2194,7 +2404,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 253600,
       "name": "Unheavenly Creatures",
       "url": "https://open.spotify.com/track/3cExGgQKsI12aa7Fs3FoId"
@@ -2216,6 +2426,28 @@
       "duration_ms": 244866,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX"
+    },
+    {
+      "album": {
+        "name": "Pattern Of Rebirth",
+        "url": "https://open.spotify.com/album/74lRZTMzPU5XHk6CNEyGF9"
+      },
+      "artists": [
+        {
+          "name": "Earthside",
+          "url": "https://open.spotify.com/artist/6mRDRKsNautYuxybddnvgg"
+        },
+        {
+          "name": "Keturah",
+          "url": "https://open.spotify.com/artist/7rGrW6Gs43zOpEmPAFl3jp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 524655,
+      "name": "We Who Lament",
+      "url": "https://open.spotify.com/track/1QOh6wDKZqUXISc3UKLtEP"
     },
     {
       "album": {

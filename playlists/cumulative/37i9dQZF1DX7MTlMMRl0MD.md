@@ -4,7 +4,7 @@
 
 > Tu lista favorita de Bachata ❤️ Cover: NATTI NATASHA
 
-385 songs - 23 hr 29 min
+386 songs - 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,12 +364,13 @@
 | [Tres Veces](https://open.spotify.com/track/5pttj3qDA5F4YRHiwNDxAO) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4), [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Tres Veces](https://open.spotify.com/album/4uzfousUQ1sZZltZU9kH5q) | 3:32 | 2024-05-17 |  |
 | [Tu Eres Ajena \- Bachata](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 | 2022-03-04 | 2024-01-13 |
 | [TU FEO](https://open.spotify.com/track/38jBAtOoRaMtQdhRvrGD39) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [BRILLAR](https://open.spotify.com/album/4Ks3FX1TliFM3R8hBIhlTy) | 2:56 | 2024-09-03 |  |
+| [Tu Loca](https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Tu Loca](https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP) | 3:10 | 2024-09-06 |  |
 | [Tu Me Matas](https://open.spotify.com/track/3suz9KxSek6PgrXVfoIGQd) | [Chavi Leons](https://open.spotify.com/artist/2NpvOJUmcKkw4BEVsVbUcx) | [Pilot](https://open.spotify.com/album/3iGoLRveNIQ2I4ibGbzXi4) | 2:59 | 2022-03-04 | 2022-09-03 |
 | [Tu Mundo Cambió](https://open.spotify.com/track/7uLilAXh1jxhp95YXiVPGH) | [Milly Quezada](https://open.spotify.com/artist/3tuushgEVJSXAkxR4ZxOhJ) | [Tu Mundo Cambió](https://open.spotify.com/album/5lbljIidNTk0Z4CpMdxR8D) | 3:25 | 2022-09-09 | 2023-04-30 |
 | [Tu Tienes Tu Vida](https://open.spotify.com/track/16tcEwwSVhMr4nENsq0Qe4) | [Judy Santos](https://open.spotify.com/artist/1seU2dut8PjGSZbgrPl7by) | [Tu Tienes Tu Vida](https://open.spotify.com/album/786RkvYJnMkMm9yLHgObfr) | 3:28 | 2022-03-25 | 2022-09-03 |
 | [Tu Veneno](https://open.spotify.com/track/42jedyDXAZydzL3OrslfUp) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [Con El Corazón Abierto](https://open.spotify.com/album/0K9TfhxcGsjOBOLrf2C4Wj) | 3:40 | 2022-03-04 | 2022-09-03 |
 | [Tu Y Yo](https://open.spotify.com/track/5xVLmPSxDOMCrSJdhomxUQ) | [Esme](https://open.spotify.com/artist/51hTX3T6GC1KV9OUeadLs9) | [Game over \(Bachata’s Most Wanted\)](https://open.spotify.com/album/3hZ9IfqBn0Vi2tDfv2Bs6h) | 3:21 | 2023-04-14 | 2023-05-11 |
-| [Tu y yo](https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Tu y yo](https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX) | 3:07 | 2024-03-15 |  |
+| [Tu y yo](https://open.spotify.com/track/3eEYCiLVmGwwBCoDtLYnYQ) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Tu y yo](https://open.spotify.com/album/5zSGNPJXzrBxMKwsmTixOX) | 3:07 | 2024-03-15 | 2024-09-07 |
 | [Tú y Yo](https://open.spotify.com/track/1zEYHf3IwnsTl5CihyAbcQ) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Love Is Back](https://open.spotify.com/album/3eXHJa6USSY7U3jYFBXamf) | 3:30 | 2022-09-09 | 2023-01-29 |
 | [Un Cigarro](https://open.spotify.com/track/0uxC2t9CLv0vwnmJo5bEEB) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Un Cigarro](https://open.spotify.com/album/1NKKhRimH5g5lx2OvugEP9) | 2:54 | 2023-08-24 | 2024-04-06 |
 | [Un Millón de Lunas](https://open.spotify.com/track/34pO51jqhxDyzGcvJbPj8i) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [bellodrama](https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb) | 3:01 | 2023-03-24 | 2024-01-13 |

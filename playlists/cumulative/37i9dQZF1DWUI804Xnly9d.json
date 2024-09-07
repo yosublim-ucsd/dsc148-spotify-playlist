@@ -1991,6 +1991,24 @@
     },
     {
       "album": {
+        "name": "Faasle",
+        "url": "https://open.spotify.com/album/0dWoK0z5NaabRTzQK6KzZ8"
+      },
+      "artists": [
+        {
+          "name": "Peferd Da Costa",
+          "url": "https://open.spotify.com/artist/00ubzRw4KemETUjdvwKqJp"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230772,
+      "name": "Faasle",
+      "url": "https://open.spotify.com/track/26tmWlMjd3Li1WDJSm9IuJ"
+    },
+    {
+      "album": {
         "name": "Faisle (Acoustic)",
         "url": "https://open.spotify.com/album/0Gs4hEWrjOPRvaIpvbR4Wa"
       },
@@ -4700,7 +4718,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 238800,
       "name": "Manzoor Hai (Acoustic)",
       "url": "https://open.spotify.com/track/3d5g0GTGnb3BjHz5zzLJic"
@@ -7896,7 +7914,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 110217,
-      "name": "Yaara Tere Bin - Reprise",
+      "name": "Yaara Tere Bin - Reprise [From \"Call Me Bae\"]",
       "url": "https://open.spotify.com/track/72taAwEdg17pI7CHl19jyg"
     },
     {

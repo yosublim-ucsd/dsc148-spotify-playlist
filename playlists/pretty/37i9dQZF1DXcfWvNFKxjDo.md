@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Alesso, David Guetta, Madison Love
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,361 likes - 69 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,416 likes - 69 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 12 | [Melody Of The World](https://open.spotify.com/track/5f2MGMo8ARWb6WojaODeAY) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Loic D](https://open.spotify.com/artist/1rzEOTdzDy4d1WwepFnxF9), [Ronald\-V](https://open.spotify.com/artist/5n7CS2a8sZMC8RomunpUzq) | [Melody Of The World](https://open.spotify.com/album/6KjUwVz5BQll1u26SwgytO) | 2:31 |
 | 13 | [In The Cut](https://open.spotify.com/track/4VaQSqvF2vX7vqv8f8HLRO) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [In The Cut](https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM) | 2:47 |
 | 14 | [Thick Of It All](https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Thick Of It All](https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx) | 3:19 |
-| 15 | [Save My Soul](https://open.spotify.com/track/09SeFTIX9wjIPeDJokttb2) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Save My Soul](https://open.spotify.com/album/1gQZ0qp0b9itiBh7VnRW5z) | 2:33 |
+| 15 | [Save My Soul \(feat\. AMANZI\)](https://open.spotify.com/track/09SeFTIX9wjIPeDJokttb2) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [AMANZI](https://open.spotify.com/artist/2JntGPQDmz3Lm0m3C7OEm4) | [Save My Soul \(feat\. AMANZI\)](https://open.spotify.com/album/1gQZ0qp0b9itiBh7VnRW5z) | 2:33 |
 | 16 | [Nur für Dich](https://open.spotify.com/track/6G20s423cn9kfigYkYUBpD) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u) | [Nur für Dich](https://open.spotify.com/album/7yFqG8R7m3cGRDRghqn80D) | 3:00 |
 | 17 | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/track/0GaelwSoQDKjwoE16jxwNo) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Don't Stop \(I Wanna Know\)](https://open.spotify.com/album/0CjeKexsHa6yFv7X43qJ4d) | 2:39 |
 | 18 | [I Like to Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/track/7uJuYDboY3fmKBmG80K4YH) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Still Loud](https://open.spotify.com/artist/27u3mPTdeIukpaZcXivJOx), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [I Like to Move It \(Muévelo\) \[with Daddy Yankee\]](https://open.spotify.com/album/3j8g9iuYJWzXfk6dLkkaeS) | 2:28 |

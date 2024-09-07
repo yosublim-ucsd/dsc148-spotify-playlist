@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 bedroom apartment",
+        "url": "https://open.spotify.com/album/1q2JU1IUtYKVUdixop622F"
+      },
+      "artists": [
+        {
+          "name": "under.tone",
+          "url": "https://open.spotify.com/artist/19rXpZkWhLrMTxEdqpOICe"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187220,
+      "name": "2 bedroom apartment",
+      "url": "https://open.spotify.com/track/2cWwN9vgnh6TSFDoEf8nWX"
+    },
+    {
+      "album": {
         "name": "42k",
         "url": "https://open.spotify.com/album/4oPQ8FvuinCo1fDvy3zlC1"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2024-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 195978,
       "name": "All Good Things Come Again",
       "url": "https://open.spotify.com/track/6NimrXAWhoIER3JbPAFOJE"
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "Bandicoot",
+        "url": "https://open.spotify.com/album/5JNhBaqbW3uAFlIN38nVmo"
+      },
+      "artists": [
+        {
+          "name": "Hula Hoops",
+          "url": "https://open.spotify.com/artist/5QmlQ9G1MllDh6ilEC2p1Y"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166956,
+      "name": "Bandicoot",
+      "url": "https://open.spotify.com/track/4ymvStMWa68d2OWYY7SDqT"
+    },
+    {
+      "album": {
         "name": "They Don't Tell",
         "url": "https://open.spotify.com/album/5kq3QA1lkg3J8TypQyEaQS"
       },
@@ -322,7 +358,7 @@
       ],
       "date_added": "2024-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 216125,
       "name": "Believe in Each Other",
       "url": "https://open.spotify.com/track/2dFyfb4nOxIXnLjDOKkMon"
@@ -502,7 +538,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 174857,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/0whoBMh85W6OGcp9SXvpeH"
@@ -740,7 +776,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 310714,
       "name": "Crepuscular",
       "url": "https://open.spotify.com/track/5mFUHYZXlZhiSdqKmscDcU"
@@ -1737,6 +1773,24 @@
     },
     {
       "album": {
+        "name": "Hotel Spa",
+        "url": "https://open.spotify.com/album/4i5oT2V1WLxjGRPMRGqdup"
+      },
+      "artists": [
+        {
+          "name": "Stenkil",
+          "url": "https://open.spotify.com/artist/0ZatGtzzVJiSlOiZkVU2ln"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211525,
+      "name": "Hotel Spa",
+      "url": "https://open.spotify.com/track/3OxryT8OZ763fRZmiT3eJK"
+    },
+    {
+      "album": {
         "name": "Cygnus A",
         "url": "https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV"
       },
@@ -1878,7 +1932,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 149550,
       "name": "Imagination",
       "url": "https://open.spotify.com/track/4uRf2Tj4d0DXLuekQDBwwU"
@@ -1936,6 +1990,24 @@
       "duration_ms": 238959,
       "name": "Interstellar Travel",
       "url": "https://open.spotify.com/track/5PFtFvNKX72dq2iWjXpMfi"
+    },
+    {
+      "album": {
+        "name": "Joy is Calling",
+        "url": "https://open.spotify.com/album/3q23qNBTaeL8nwedXmfxaX"
+      },
+      "artists": [
+        {
+          "name": "Tyler Greyson",
+          "url": "https://open.spotify.com/artist/6oqXcmdNWohuzozZgdcS9o"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Joy is Calling",
+      "url": "https://open.spotify.com/track/1FL9CWkABnCIg8mJZql50r"
     },
     {
       "album": {
@@ -2022,7 +2094,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 171578,
       "name": "Kayser",
       "url": "https://open.spotify.com/track/2RIrQ7XZPKUwa9AprTsWQu"
@@ -2317,6 +2389,24 @@
     },
     {
       "album": {
+        "name": "Lucky Key",
+        "url": "https://open.spotify.com/album/7tjoltr81W2lBqJxvYn1aP"
+      },
+      "artists": [
+        {
+          "name": "Asha Lin",
+          "url": "https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190305,
+      "name": "Lucky Key",
+      "url": "https://open.spotify.com/track/0IlTlX4M4OhXno2ri9OgVR"
+    },
+    {
+      "album": {
         "name": "Lueur",
         "url": "https://open.spotify.com/album/27YE95xO8qTIj9L2ACmnzt"
       },
@@ -2382,7 +2472,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193200,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/1awvT0baqmByEbazQVzm3W"
@@ -2454,7 +2544,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 139595,
       "name": "Maui",
       "url": "https://open.spotify.com/track/6BUbZorl2FQwfGYDx5tVrO"
@@ -2710,7 +2800,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 130714,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/2gyrqp1I4VStPYZccdMmlP"
@@ -2876,6 +2966,24 @@
       "duration_ms": 126000,
       "name": "Palermo",
       "url": "https://open.spotify.com/track/5xirNPqdlDTACSnS9qhDnu"
+    },
+    {
+      "album": {
+        "name": "Panorama View",
+        "url": "https://open.spotify.com/album/67ltP2yFDwGRxrFZsezUXq"
+      },
+      "artists": [
+        {
+          "name": "Faux Facet",
+          "url": "https://open.spotify.com/artist/7tG7d82cOk5x0WkNAL2TZk"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151888,
+      "name": "Panorama View",
+      "url": "https://open.spotify.com/track/5yKpNBmv4xyVdiOGudNgLD"
     },
     {
       "album": {
@@ -3146,7 +3254,7 @@
       ],
       "date_added": "2021-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 226593,
       "name": "Rhodes Night",
       "url": "https://open.spotify.com/track/42UrWODXMY270D6mVLdGnT"
@@ -3675,6 +3783,24 @@
     },
     {
       "album": {
+        "name": "Stay up all night",
+        "url": "https://open.spotify.com/album/13G00SB9DjU4SWnjCAN8PB"
+      },
+      "artists": [
+        {
+          "name": "Sunset-buff",
+          "url": "https://open.spotify.com/artist/4vwwK0iaZVthftLEr8As6W"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125472,
+      "name": "Stay up all night",
+      "url": "https://open.spotify.com/track/0a8auZkTOntPzSmPsR4nAe"
+    },
+    {
+      "album": {
         "name": "Storm Trap",
         "url": "https://open.spotify.com/album/55fwoBizWuDHDLeKYGOk4n"
       },
@@ -3711,6 +3837,24 @@
     },
     {
       "album": {
+        "name": "Studio Floor",
+        "url": "https://open.spotify.com/album/3etwrZZI9dsNg9nZe4dEvJ"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146454,
+      "name": "Studio Floor",
+      "url": "https://open.spotify.com/track/3gts9Ik78hcSSUX5CXACJH"
+    },
+    {
+      "album": {
         "name": "Sumatra",
         "url": "https://open.spotify.com/album/0Md5pzmo4V44Qdep0yXlT2"
       },
@@ -3740,7 +3884,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 144666,
       "name": "Summer",
       "url": "https://open.spotify.com/track/538q0pEm7xSOIaLCitaN5L"
@@ -3924,6 +4068,24 @@
       "duration_ms": 139797,
       "name": "Takamagahara",
       "url": "https://open.spotify.com/track/1ZwyC2Nz4XZVngLbIiBEGR"
+    },
+    {
+      "album": {
+        "name": "The Color Purple",
+        "url": "https://open.spotify.com/album/4gsVXc1dbLRU7gYBBu3Rtb"
+      },
+      "artists": [
+        {
+          "name": "Yasumaru",
+          "url": "https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185882,
+      "name": "The Color Purple",
+      "url": "https://open.spotify.com/track/3EYwDHzMZ9nCVEshryuuuF"
     },
     {
       "album": {
@@ -4140,6 +4302,24 @@
       "duration_ms": 178744,
       "name": "Valencia Morning",
       "url": "https://open.spotify.com/track/2mziKTawLRhhnMbyQSQeRv"
+    },
+    {
+      "album": {
+        "name": "Verde",
+        "url": "https://open.spotify.com/album/1oFOarfw2TGcE9dWupoHv8"
+      },
+      "artists": [
+        {
+          "name": "Half Tone",
+          "url": "https://open.spotify.com/artist/2AQalBCbiCK7zUReGcIzA8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165762,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/3Ppmjc0JvqsYdu2G7e7P8e"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Porque no to' e' Dembow en RD loco\. Portada: Myke Towers, NTG
 
-509 songs - 1 day 1 hr 20 min
+510 songs - 1 day 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,6 +259,7 @@
 | [Lismar: Bzrp Music Sessions, Vol\. 60](https://open.spotify.com/track/3lXq1YajbXv1UI1MoXW8JB) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Lismar: Bzrp Music Sessions, Vol\. 60](https://open.spotify.com/album/2F27wEZD9UkLCllAk1Duh8) | 2:51 | 2024-05-24 | 2024-07-06 |
 | [Literatura](https://open.spotify.com/track/7s6WDeU0hubQva4QoMkRfc) | [Kiubbah Malon](https://open.spotify.com/artist/0R4YpXgtQs80wg9EA2Z3pg), [Nico Clinico](https://open.spotify.com/artist/1mj4H8QF1OeBuMGHxGOcQv) | [Literatura](https://open.spotify.com/album/3UIEzvol2vqAdjCg45zXd3) | 3:33 | 2023-07-14 | 2024-02-10 |
 | [Live, Vol\. 1](https://open.spotify.com/track/5bxEXOaf4biN720159ryJz) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [Live, Vol\. 1](https://open.spotify.com/album/7EuHieQfQhIYWezHe8KsZx) | 5:59 | 2022-04-14 | 2023-01-06 |
+| [Llame Pa Verte](https://open.spotify.com/track/4Zipd2pVN1WBYo5rro5jOl) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Big Chriss & Draco Deville](https://open.spotify.com/artist/3rrSOB6ancdUvZbo5rDgUV) | [El Brujo](https://open.spotify.com/album/3URlV6ZNGUSqwbPUFD6a5G) | 2:58 | 2024-09-06 |  |
 | [Llego El Control](https://open.spotify.com/track/7Bb6ALvmGdlZLxjjxtaM1x) | [Bulova](https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0) | [Llego El Control](https://open.spotify.com/album/6gxafJAF317uiPtetd2NnU) | 4:05 | 2024-05-03 | 2024-05-17 |
 | [LO MIO AL DIA](https://open.spotify.com/track/6sG1Gj2ObZwL0pZWUNgUOD) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt), [Mr Sonic](https://open.spotify.com/artist/5WJpA3sTvsjYnBjYLS97Wm), [Nelly Nelz](https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su) | [LO MIO AL DIA](https://open.spotify.com/album/52VdSQTHL7Vpg0iDcckKE2) | 2:47 | 2024-04-25 | 2024-05-11 |
 | [Lo Prende Sola](https://open.spotify.com/track/5O7eUbzeG5BYrFrInNZmP3) | [Drako "El Principe"](https://open.spotify.com/artist/68QwnaecWq3LnMelBdJqDT) | [Lo Prende Sola](https://open.spotify.com/album/60UU7AxCv6A4diEBK5FYRT) | 1:40 | 2024-01-12 | 2024-02-02 |
@@ -484,7 +485,7 @@
 | [Un Chin](https://open.spotify.com/track/0QFoUwvgLa81F9yFZh6ZWI) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9) | [Un Chin](https://open.spotify.com/album/4G0utAp4MeAOWrgJPkMXrz) | 2:25 | 2023-01-06 | 2024-06-22 |
 | [Un Dato](https://open.spotify.com/track/7Ms17wvMbuIgyBYpJFYWAx) | [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Findy RD](https://open.spotify.com/artist/2CnGNUq5lcAhNvdeb2HtWI), [Rey Henrii](https://open.spotify.com/artist/2YPwU6sI8opMU7rlpaUSlF) | [Un Dato](https://open.spotify.com/album/2xYQ5KDoq1Dctuy4d7mzre) | 2:42 | 2024-07-19 | 2024-08-03 |
 | [Un Dañao](https://open.spotify.com/track/7rqcbCQBQkGOPqNc8lgYmx) | [Donaty](https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji) | [Un Dañao](https://open.spotify.com/album/4Zy3Jv16sEBgt0kYtzuJ0I) | 3:30 | 2024-02-23 | 2024-04-06 |
-| [Un Hombre Asi](https://open.spotify.com/track/0n8RNWWFE1LgnXVGtBqUSv) | [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Un Hombre Asi](https://open.spotify.com/album/7KFDh6N9f8vm6G4U4OUV7z) | 2:55 | 2024-08-30 |  |
+| [Un Hombre Asi](https://open.spotify.com/track/0n8RNWWFE1LgnXVGtBqUSv) | [La Mas Doll](https://open.spotify.com/artist/0PPgD3dY7wrxsMe021mByK) | [Un Hombre Asi](https://open.spotify.com/album/7KFDh6N9f8vm6G4U4OUV7z) | 2:55 | 2024-08-30 | 2024-09-07 |
 | [Un Juego](https://open.spotify.com/track/4mauf02LoGZh18Y7pRulBA) | [Jv01](https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU), [NandoX](https://open.spotify.com/artist/4StQZdXheghLOk0pIpvGqk), [Terror Squad](https://open.spotify.com/artist/2BvzbqWWwLN11XGBYgDZzx) | [Un Juego](https://open.spotify.com/album/7LamJk6wbKBbf5PpljIuim) | 2:49 | 2024-08-30 |  |
 | [Un Muerto](https://open.spotify.com/track/17fd8SI7SDvB8SeJDJy0kG) | [Mandrake El Malocorita](https://open.spotify.com/artist/7z4uW6xL36waxCZxj5MpN0) | [Un Muerto](https://open.spotify.com/album/7BZCtffHQLknCy7TU0QJK0) | 4:34 | 2024-07-26 | 2024-08-10 |
 | [Un Poco De Amor](https://open.spotify.com/track/1JiiG7NrwtVLzdSKqGC9fb) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Un Poco De Amor](https://open.spotify.com/album/6awvZolH9XPQ67f8UgAzik) | 3:00 | 2023-04-28 | 2023-07-15 |

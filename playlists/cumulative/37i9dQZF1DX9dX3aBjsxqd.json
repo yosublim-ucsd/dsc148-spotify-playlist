@@ -5,6 +5,36 @@
   "tracks": [
     {
       "album": {
+        "name": "Schumann: No. 12, Abendlied (Arr. Rot for Cello and Orchestra) from 12 Klavierst\u00fccke f\u00fcr kleine und gro\u00dfe Kinder, Op. 85",
+        "url": "https://open.spotify.com/album/3lw6BZm6JCDGZmgyhEogiK"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Kian Soltani",
+          "url": "https://open.spotify.com/artist/6TPa1gvIk1h4Iv1zJ2WUYQ"
+        },
+        {
+          "name": "Camerata Salzburg",
+          "url": "https://open.spotify.com/artist/2YVKCFWKG6JdDHKYvbEljE"
+        },
+        {
+          "name": "Gregory Ahss",
+          "url": "https://open.spotify.com/artist/0Hk9W1OFV5tV5idw3IdyhP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188480,
+      "name": "12 Klavierst\u00fccke f\u00fcr kleine und gro\u00dfe Kinder, Op. 85: No. 12, Abendlied (Arr. Rot for Cello and Orchestra)",
+      "url": "https://open.spotify.com/track/1C9JF1WWaFTPHx6RUyXyQD"
+    },
+    {
+      "album": {
         "name": "4 Sketches, Op. 15: III. Dreaming",
         "url": "https://open.spotify.com/album/6jI28NErHd2gxJNb0uzJW2"
       },
@@ -2894,6 +2924,58 @@
       "duration_ms": 384920,
       "name": "Suite in D Minor, Op. 16b, R. 211: IV. Romance",
       "url": "https://open.spotify.com/track/7A17IhyRC5OzhwKqhBvRF3"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: Complete Cello Suites",
+        "url": "https://open.spotify.com/album/7G7uMmAHmB4qhgOpDzLtF9"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Jean-Guihen Queyras",
+          "url": "https://open.spotify.com/artist/2vXeB7c78tU2l7Mad2sjx8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216080,
+      "name": "Suite No. 2 in D Minor BWV 1008.: I. Pr\u00e9lude",
+      "url": "https://open.spotify.com/track/62exW4Hm0vSut3yEvn6Cww"
+    },
+    {
+      "album": {
+        "name": "Tchaikovsky: Variations on a Rococo Theme for Cello and Orchestra, Op. 33: Variation III. Andante sostenuto",
+        "url": "https://open.spotify.com/album/10g3hSCoHfatEOyo7yH6YH"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Edgar Moreau",
+          "url": "https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0"
+        },
+        {
+          "name": "Michael Sanderling",
+          "url": "https://open.spotify.com/artist/1kLhJK7xiowRJJwf28NKhZ"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240466,
+      "name": "Tchaikovsky: Variations on a Rococo Theme for Cello and Orchestra, Op. 33: Variation III. Andante sostenuto",
+      "url": "https://open.spotify.com/track/4mkKp4L3q9u84NSAGqSGMt"
     },
     {
       "album": {

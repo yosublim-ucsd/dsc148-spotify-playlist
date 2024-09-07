@@ -1,12 +1,12 @@
 {
   "description": "selects from music we've been listening to @ Moving Castle. Manila Killa's album, Dusk drops July 21st!",
-  "num_followers": 20680,
+  "num_followers": 20679,
   "original_name": "Moving Castle Monthly",
   "owner": {
     "name": "Moving Castle",
     "url": "https://open.spotify.com/user/moving-castle"
   },
-  "snapshot_id": "AAAqDpsdV7/QSPuVCxvRuJe00CEjEJ4L",
+  "snapshot_id": "AAAqJnO2TNTvhYYD59vkqwPNc4s2y/Bv",
   "tracks": [
     {
       "added_at": "2024-08-06 19:32:19",
@@ -29,10 +29,26 @@
       "url": "https://open.spotify.com/track/4DnB00FZV87InpyIip2sN6"
     },
     {
-      "added_at": "2024-07-05 16:23:47",
+      "added_at": "2024-08-22 23:49:38",
       "album": {
-        "name": "Leo (Flicker)",
-        "url": "https://open.spotify.com/album/160Tod59m8NhG1EvUU9U3t"
+        "name": "The Four Stages",
+        "url": "https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 300996,
+      "name": "Afterglows",
+      "url": "https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82"
+    },
+    {
+      "added_at": "2024-09-06 14:22:57",
+      "album": {
+        "name": "FIRE SIGNS",
+        "url": "https://open.spotify.com/album/4dq7yzhWqzXfJDVVKfUW34"
       },
       "artists": [
         {
@@ -44,21 +60,21 @@
           "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
         },
         {
-          "name": "George Gleeson",
-          "url": "https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV"
-        },
-        {
-          "name": "STARSIGNS",
-          "url": "https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ"
+          "name": "Z3LLA",
+          "url": "https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02"
         },
         {
           "name": "MYRNE",
           "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        },
+        {
+          "name": "STARSIGNS",
+          "url": "https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ"
         }
       ],
-      "duration_ms": 243708,
-      "name": "Leo (Flicker)",
-      "url": "https://open.spotify.com/track/6Rv52AlUaniafnTHwtLmLr"
+      "duration_ms": 216888,
+      "name": "Aries Mean Something 2 U",
+      "url": "https://open.spotify.com/track/3TjRsLqcoVBaQyhVb8gHVl"
     },
     {
       "added_at": "2024-09-05 23:13:02",
@@ -121,6 +137,38 @@
       "url": "https://open.spotify.com/track/6V5bzHJ2Azp5LjUurVI0pF"
     },
     {
+      "added_at": "2024-07-05 16:23:47",
+      "album": {
+        "name": "Leo (Flicker)",
+        "url": "https://open.spotify.com/album/160Tod59m8NhG1EvUU9U3t"
+      },
+      "artists": [
+        {
+          "name": "yetep",
+          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "George Gleeson",
+          "url": "https://open.spotify.com/artist/0mEFVuC5KrUvXFpSB2JctV"
+        },
+        {
+          "name": "STARSIGNS",
+          "url": "https://open.spotify.com/artist/4i6h8ZEK64FovE2EQCjMMZ"
+        },
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 243708,
+      "name": "Leo (Flicker)",
+      "url": "https://open.spotify.com/track/6Rv52AlUaniafnTHwtLmLr"
+    },
+    {
       "added_at": "2024-03-22 02:27:57",
       "album": {
         "name": "Cheerleader",
@@ -135,6 +183,22 @@
       "duration_ms": 237567,
       "name": "Cheerleader",
       "url": "https://open.spotify.com/track/779mhz1mAry946r91qzR1r"
+    },
+    {
+      "added_at": "2024-09-06 16:26:02",
+      "album": {
+        "name": "eye2eye",
+        "url": "https://open.spotify.com/album/5cdNLvhFw398LMAmuL4uyg"
+      },
+      "artists": [
+        {
+          "name": "Tsu Nami",
+          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "eye2eye",
+      "url": "https://open.spotify.com/track/4MvAYkzdJjzZnmmgTBXeai"
     },
     {
       "added_at": "2024-02-01 17:47:45",
@@ -505,22 +569,6 @@
       "url": "https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx"
     },
     {
-      "added_at": "2023-10-05 04:06:23",
-      "album": {
-        "name": "Running (in my mind)",
-        "url": "https://open.spotify.com/album/5voibYsjdA4piZu58wTbkC"
-      },
-      "artists": [
-        {
-          "name": "Klo",
-          "url": "https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq"
-        }
-      ],
-      "duration_ms": 183307,
-      "name": "Running (in my mind)",
-      "url": "https://open.spotify.com/track/5gqb9NkwpxZtm8Zxi6BBLX"
-    },
-    {
       "added_at": "2023-10-06 14:55:50",
       "album": {
         "name": "Pour It Out",
@@ -559,22 +607,6 @@
       "duration_ms": 223908,
       "name": "Coup De Gr\u00e2ce",
       "url": "https://open.spotify.com/track/49taD9wqpnNwqy3dNab8m7"
-    },
-    {
-      "added_at": "2023-08-23 14:10:24",
-      "album": {
-        "name": "Am I Human?",
-        "url": "https://open.spotify.com/album/2wagkL8o47G71cciBICnsI"
-      },
-      "artists": [
-        {
-          "name": "LIA LIA",
-          "url": "https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR"
-        }
-      ],
-      "duration_ms": 152829,
-      "name": "Am I Human?",
-      "url": "https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL"
     },
     {
       "added_at": "2023-07-20 01:12:32",
@@ -845,22 +877,6 @@
       "url": "https://open.spotify.com/track/6zynDuNBoBD7AITlS2htjj"
     },
     {
-      "added_at": "2023-01-29 16:36:49",
-      "album": {
-        "name": "Still Friends",
-        "url": "https://open.spotify.com/album/6vZSPshiv7uf91yIq6hDg7"
-      },
-      "artists": [
-        {
-          "name": "Nightly Gatherings",
-          "url": "https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI"
-        }
-      ],
-      "duration_ms": 202923,
-      "name": "Still Friends",
-      "url": "https://open.spotify.com/track/2xurXrmbeXZKOiND6YA5cs"
-    },
-    {
       "added_at": "2023-01-11 20:20:38",
       "album": {
         "name": "Everyday, Everyday (Live Edit)",
@@ -903,30 +919,6 @@
       "duration_ms": 191823,
       "name": "Best Part About You - camoufly Remix",
       "url": "https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn"
-    },
-    {
-      "added_at": "2023-01-20 21:53:01",
-      "album": {
-        "name": "Deepend",
-        "url": "https://open.spotify.com/album/6lCXl4mrPMEsl89i74Uqmi"
-      },
-      "artists": [
-        {
-          "name": "Blookah",
-          "url": "https://open.spotify.com/artist/3ekno9ZGX4ccxPQbAbMfeR"
-        },
-        {
-          "name": "ALIGN",
-          "url": "https://open.spotify.com/artist/4Yn4eqGITgZVZnOuRQNE2I"
-        },
-        {
-          "name": "Lydell",
-          "url": "https://open.spotify.com/artist/39NS4e6MwwxYioDlGMLdD2"
-        }
-      ],
-      "duration_ms": 206315,
-      "name": "Deepend",
-      "url": "https://open.spotify.com/track/2mqaosDXabZq2tf7bhPnjK"
     },
     {
       "added_at": "2022-12-12 21:23:35",
@@ -1123,26 +1115,6 @@
       "duration_ms": 175292,
       "name": "Dusk",
       "url": "https://open.spotify.com/track/7rK7bQV2giqvHymQDyI5hY"
-    },
-    {
-      "added_at": "2022-03-17 04:03:21",
-      "album": {
-        "name": "Dark Places",
-        "url": "https://open.spotify.com/album/28DuCb1V8dZDjQ8x18qczf"
-      },
-      "artists": [
-        {
-          "name": "Manila Killa",
-          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
-        },
-        {
-          "name": "Kwesi",
-          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
-        }
-      ],
-      "duration_ms": 235012,
-      "name": "Dark Places",
-      "url": "https://open.spotify.com/track/3EPyTBUgWMA2Ib2vT6XHIt"
     },
     {
       "added_at": "2022-06-24 17:31:06",
@@ -1397,6 +1369,26 @@
       "url": "https://open.spotify.com/track/5Szns47BWnc5R4JlFUp37i"
     },
     {
+      "added_at": "2022-03-17 04:03:21",
+      "album": {
+        "name": "Dark Places",
+        "url": "https://open.spotify.com/album/28DuCb1V8dZDjQ8x18qczf"
+      },
+      "artists": [
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        },
+        {
+          "name": "Kwesi",
+          "url": "https://open.spotify.com/artist/320LkiSxenwJtoxQ9SZ1eV"
+        }
+      ],
+      "duration_ms": 235012,
+      "name": "Dark Places",
+      "url": "https://open.spotify.com/track/3EPyTBUgWMA2Ib2vT6XHIt"
+    },
+    {
       "added_at": "2023-07-20 01:07:38",
       "album": {
         "name": "Forgotten Feels",
@@ -1411,22 +1403,6 @@
       "duration_ms": 231867,
       "name": "Forgotten Feels",
       "url": "https://open.spotify.com/track/4LJUeryiW0zXSN20PEnfvE"
-    },
-    {
-      "added_at": "2023-04-06 21:40:03",
-      "album": {
-        "name": "The Allegory",
-        "url": "https://open.spotify.com/album/06hNmVsWLyxiGMgriOz8l4"
-      },
-      "artists": [
-        {
-          "name": "bardz",
-          "url": "https://open.spotify.com/artist/0grj6SCmh4vGKf6r7pbOTk"
-        }
-      ],
-      "duration_ms": 181469,
-      "name": "Sever",
-      "url": "https://open.spotify.com/track/4U5lpQaRmPRYOgisXSivUw"
     },
     {
       "added_at": "2023-06-09 19:32:24",
@@ -1495,26 +1471,6 @@
       "duration_ms": 178868,
       "name": "So Tired",
       "url": "https://open.spotify.com/track/3bRDdINgciG9K03HrSA1uB"
-    },
-    {
-      "added_at": "2023-07-20 01:17:53",
-      "album": {
-        "name": "Out Loud",
-        "url": "https://open.spotify.com/album/7spOlqAzvR0Qy9fXy6UYXM"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        },
-        {
-          "name": "Zhuli",
-          "url": "https://open.spotify.com/artist/2p2y1z8eTbirxLN7z032sz"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "Out Loud",
-      "url": "https://open.spotify.com/track/49U21MjHXlWGrXnnDvf19I"
     },
     {
       "added_at": "2023-07-20 01:18:24",
@@ -1701,42 +1657,6 @@
       "url": "https://open.spotify.com/track/3jhHrxY2eyV4zciR8WfzIc"
     },
     {
-      "added_at": "2023-09-25 15:23:10",
-      "album": {
-        "name": "Closer To You / Make Yourself At Home",
-        "url": "https://open.spotify.com/album/6g2yAFcr82CEv9ONmcfntZ"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Closer To You",
-      "url": "https://open.spotify.com/track/64UCdNSBP51U28Uduj1KiI"
-    },
-    {
-      "added_at": "2023-09-29 15:22:32",
-      "album": {
-        "name": "WAR",
-        "url": "https://open.spotify.com/album/7vtYc3w0egjBboxXiKArmD"
-      },
-      "artists": [
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
-        }
-      ],
-      "duration_ms": 157265,
-      "name": "WAR",
-      "url": "https://open.spotify.com/track/4lb8Lp96diNynBi5yri1dC"
-    },
-    {
       "added_at": "2023-10-18 00:48:38",
       "album": {
         "name": "Ripple (feat. grandpa julie)",
@@ -1853,22 +1773,6 @@
       "url": "https://open.spotify.com/track/6JbeNVHHrvRGY9BjB8hmkR"
     },
     {
-      "added_at": "2024-02-20 00:49:48",
-      "album": {
-        "name": "Talk To Me",
-        "url": "https://open.spotify.com/album/57ikyQgMgUUyDQde2uz861"
-      },
-      "artists": [
-        {
-          "name": "Tsu Nami",
-          "url": "https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu"
-        }
-      ],
-      "duration_ms": 212519,
-      "name": "Talk To Me",
-      "url": "https://open.spotify.com/track/35Us9HQPF88aiWQkR3sG3G"
-    },
-    {
       "added_at": "2024-03-01 19:24:49",
       "album": {
         "name": "Another Night (with Fi Sullivan)",
@@ -1887,26 +1791,6 @@
       "duration_ms": 151373,
       "name": "Another Night (with Fi Sullivan)",
       "url": "https://open.spotify.com/track/3mSM5Tm2eDOQOwALWS9OxD"
-    },
-    {
-      "added_at": "2024-03-22 21:39:04",
-      "album": {
-        "name": "Reflections EP",
-        "url": "https://open.spotify.com/album/4EomYX70Kjrvf2tUH2L9zR"
-      },
-      "artists": [
-        {
-          "name": "Eyezic",
-          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
-        },
-        {
-          "name": "Goodknight.",
-          "url": "https://open.spotify.com/artist/2OpbISbq4KfXhSvaDQrUdM"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Walls",
-      "url": "https://open.spotify.com/track/2jIpk8hOXu0jJsEcAfFx5w"
     },
     {
       "added_at": "2024-04-24 01:39:40",
@@ -1953,46 +1837,6 @@
       "url": "https://open.spotify.com/track/0w2InymNC1tOdBOOYfGd63"
     },
     {
-      "added_at": "2024-04-26 18:02:05",
-      "album": {
-        "name": "Heaven (feat. Marlene)",
-        "url": "https://open.spotify.com/album/2nHfdDZe6Kt8ovaDij2i4K"
-      },
-      "artists": [
-        {
-          "name": "CHROMEBODIES",
-          "url": "https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI"
-        },
-        {
-          "name": "Marlene",
-          "url": "https://open.spotify.com/artist/0pAV5GaO9ak8wk1NnF37Cl"
-        }
-      ],
-      "duration_ms": 155200,
-      "name": "Heaven (feat. Marlene)",
-      "url": "https://open.spotify.com/track/0JpPjzoVsd8Zi4yiowKQK6"
-    },
-    {
-      "added_at": "2024-05-12 00:26:20",
-      "album": {
-        "name": "Cyberlink 2XL",
-        "url": "https://open.spotify.com/album/3D0rK92K21C2tCirId7pT0"
-      },
-      "artists": [
-        {
-          "name": "Panteros666",
-          "url": "https://open.spotify.com/artist/7DYEJjAIWCn1DNttRqVomt"
-        },
-        {
-          "name": "Zoee",
-          "url": "https://open.spotify.com/artist/4ah1FGJr1ISh6DUmYFivSo"
-        }
-      ],
-      "duration_ms": 175474,
-      "name": "Cyberlink 2XL",
-      "url": "https://open.spotify.com/track/3zm1AL45YbT0aP5aKxqlfK"
-    },
-    {
       "added_at": "2024-05-12 00:26:47",
       "album": {
         "name": "USE ME",
@@ -2023,26 +1867,6 @@
       "duration_ms": 140625,
       "name": "Without",
       "url": "https://open.spotify.com/track/6cfxLLMqy1bvqY9kq7ov72"
-    },
-    {
-      "added_at": "2024-06-02 17:54:11",
-      "album": {
-        "name": "Whisper",
-        "url": "https://open.spotify.com/album/6tPDyOvDtyeliclGUL6dV9"
-      },
-      "artists": [
-        {
-          "name": "yetep",
-          "url": "https://open.spotify.com/artist/20lmiQy576CSBPz0VJHmnC"
-        },
-        {
-          "name": "Britt Lari",
-          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Whisper",
-      "url": "https://open.spotify.com/track/1PB6iX4kAw1t13ozPVF9vo"
     },
     {
       "added_at": "2024-06-28 18:57:33",
@@ -2105,26 +1929,6 @@
       "url": "https://open.spotify.com/track/2mixDh13NCxrtYP84Yi9Cg"
     },
     {
-      "added_at": "2024-07-15 16:51:16",
-      "album": {
-        "name": "Fault Line",
-        "url": "https://open.spotify.com/album/0xA0H8KLaNwH9QXmVY9kUI"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "Marlhy",
-          "url": "https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA"
-        }
-      ],
-      "duration_ms": 229714,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/6sEWxmrt8l3bucB9evYgMW"
-    },
-    {
       "added_at": "2024-07-15 16:52:13",
       "album": {
         "name": "Can You Hear Me Dreaming?",
@@ -2143,26 +1947,6 @@
       "duration_ms": 164451,
       "name": "One More Night - feat. Flume",
       "url": "https://open.spotify.com/track/4tAms1KMqptEzmO59cULhS"
-    },
-    {
-      "added_at": "2024-07-15 16:52:24",
-      "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/0J9qs4ytoY8jvOuf4E2lp5"
-      },
-      "artists": [
-        {
-          "name": "Memphis LK",
-          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
-        },
-        {
-          "name": "Willaris. K",
-          "url": "https://open.spotify.com/artist/6ZHeg2Op5ZkNppXbNLSglj"
-        }
-      ],
-      "duration_ms": 174519,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/6OVWzb8z0HCUscjq9wb1Yo"
     },
     {
       "added_at": "2024-07-17 17:09:59",
@@ -2185,26 +1969,6 @@
       "url": "https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8"
     },
     {
-      "added_at": "2024-07-30 01:19:39",
-      "album": {
-        "name": "PARTY",
-        "url": "https://open.spotify.com/album/0sJoDFsVQN657EwQCXCChE"
-      },
-      "artists": [
-        {
-          "name": "Darby",
-          "url": "https://open.spotify.com/artist/6rErJmMCoNHUX0Z99uBB8m"
-        },
-        {
-          "name": "OOTORO",
-          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
-        }
-      ],
-      "duration_ms": 128695,
-      "name": "PARTY",
-      "url": "https://open.spotify.com/track/7JjY69WrRWHtY09Wn9V1tv"
-    },
-    {
       "added_at": "2024-08-22 23:49:18",
       "album": {
         "name": "Real Love",
@@ -2225,20 +1989,28 @@
       "url": "https://open.spotify.com/track/0RQX90WYC9NUHQbbPxrWSg"
     },
     {
-      "added_at": "2024-08-22 23:49:38",
+      "added_at": "2024-09-06 16:25:49",
       "album": {
-        "name": "The Four Stages",
-        "url": "https://open.spotify.com/album/6mUWbDKMXnkdqdrljEXEtg"
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
       },
       "artists": [
         {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
         }
       ],
-      "duration_ms": 300996,
-      "name": "Afterglows",
-      "url": "https://open.spotify.com/track/5XxBFoqrB2CPwit13EMJ82"
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     }
   ],
   "unique_name": "Moving Castle Monthly",

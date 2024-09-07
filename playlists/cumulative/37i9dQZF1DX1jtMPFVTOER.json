@@ -4279,6 +4279,24 @@
     },
     {
       "album": {
+        "name": "Fortune Favours",
+        "url": "https://open.spotify.com/album/42tkSmDBJrBuu4mLJrAxPN"
+      },
+      "artists": [
+        {
+          "name": "Natalie Duncan",
+          "url": "https://open.spotify.com/artist/65eubtDer52NpLfG8p1Ehr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251147,
+      "name": "Fortune Favours",
+      "url": "https://open.spotify.com/track/3FmPKrtE33jTn8O2aT9AmP"
+    },
+    {
+      "album": {
         "name": "Foundation",
         "url": "https://open.spotify.com/album/3zqkp1d0PB7giHI9sxnFNl"
       },
@@ -11204,7 +11222,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 266776,
       "name": "The Chase (Strings Attached)",
       "url": "https://open.spotify.com/track/52f2ccR0PPgZPRcoRbDK1K"

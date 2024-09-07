@@ -11441,6 +11441,28 @@
     },
     {
       "album": {
+        "name": "Nishaani",
+        "url": "https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2"
+      },
+      "artists": [
+        {
+          "name": "Aqdas Asif",
+          "url": "https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR"
+        },
+        {
+          "name": "danish roomi",
+          "url": "https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187846,
+      "name": "Nishaani",
+      "url": "https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU"
+    },
+    {
+      "album": {
         "name": "No Competition",
         "url": "https://open.spotify.com/album/5ySztINYSJUUCKiEyuTSy9"
       },
@@ -16656,6 +16678,32 @@
       "duration_ms": 184348,
       "name": "Tu",
       "url": "https://open.spotify.com/track/5PgZaif3EmEqdbRaDr7KqM"
+    },
+    {
+      "album": {
+        "name": "Tu Aja",
+        "url": "https://open.spotify.com/album/3WGkm1QIs7yvNv8xVcZ4Ey"
+      },
+      "artists": [
+        {
+          "name": "Masood Bukhari",
+          "url": "https://open.spotify.com/artist/0Wktv02lmO5dcK4RI7bZIK"
+        },
+        {
+          "name": "Zaphixx",
+          "url": "https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m"
+        },
+        {
+          "name": "Muhammad Ali",
+          "url": "https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135323,
+      "name": "Tu Aja",
+      "url": "https://open.spotify.com/track/21H0pA5BplgAi32C6wLaDm"
     },
     {
       "album": {

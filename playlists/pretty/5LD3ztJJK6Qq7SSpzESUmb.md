@@ -4,29 +4,29 @@ pretty - [cumulative](/playlists/cumulative/5LD3ztJJK6Qq7SSpzESUmb.md) - [plain]
 
 > The hottest new songs rocking Kerrang!'s world, updated every Friday!
 
-[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,231 likes - 20 songs - 1 hr 9 min
+[Kerrang!](https://open.spotify.com/user/kerrangmagazine) - 6,238 likes - 20 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chewing Gum](https://open.spotify.com/track/32Bndp39GNYH6KVVDUWU12) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/4UzpXaGSJJtn6NuyfDHBVq) | 3:20 |
-| 2 | [ALL IN MY HEAD](https://open.spotify.com/track/7EapAReosYwfwAZbFYJysV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ALL IN MY HEAD / NO FUN](https://open.spotify.com/album/3bL8GdAgDbtbd6U9iIjS7T) | 2:42 |
-| 3 | [Straight To Heart](https://open.spotify.com/track/7GdF52qhqJGoNNmPl8Lx2A) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Straight To Heart](https://open.spotify.com/album/5IJXDexBNnOWpwOczOKYQe) | 2:54 |
-| 4 | [The Void](https://open.spotify.com/track/4OahsVvnCZad6ivwLhl2E3) | [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [The Void](https://open.spotify.com/album/2dMt1ndjlITJ38EiILWlNb) | 2:51 |
-| 5 | [Radiance](https://open.spotify.com/track/2FMNCmWngbfBYBoUSeeKM4) | [Seven Hours After Violet](https://open.spotify.com/artist/55VwLwkPAOGFgYdU3QwE8Z) | [Radiance](https://open.spotify.com/album/7uEqTi7T7zyRxdhsLCoqp9) | 3:34 |
-| 6 | [In The Bible](https://open.spotify.com/track/6TFA1oVhpY6gRpKFmjRsUS) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [In The Bible](https://open.spotify.com/album/5Y9At5yDBSu7hN67QZinkh) | 3:08 |
-| 7 | [It’s not my fault \(it’s yours\)](https://open.spotify.com/track/4crVaiFCJJjgDl4E4E6PmW) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [It’s not my fault \(it’s yours\)](https://open.spotify.com/album/2S0Plxh3vskGQBiwMkhNnL) | 3:00 |
-| 8 | [Silver Cloud](https://open.spotify.com/track/5AiTSPFGkyasoocwYhdBW2) | [State Champs](https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr) | [Silver Cloud](https://open.spotify.com/album/2RHGK1UjQVqM10Qn06Rnww) | 3:08 |
-| 9 | [Not My Problem](https://open.spotify.com/track/1G2i3IJqLZSpZdlCbLhi6D) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Not My Problem](https://open.spotify.com/album/40jJDZN04BPrRoJcMf3dCv) | 3:25 |
-| 10 | [Serenity](https://open.spotify.com/track/1xLE6B5cXy3mTobUzntBQM) | [Vended](https://open.spotify.com/artist/17pZeX1Vy9hugVufmKFbCQ) | [Serenity](https://open.spotify.com/album/6jbtH3B1S1Gae3EALfxiY2) | 4:38 |
-| 11 | [Napalm](https://open.spotify.com/track/5aYrqHtWy7UJljAVq3LFwv) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B), [Joey Valence & Brae](https://open.spotify.com/artist/1q4618qKswelCGLoanFKQh) | [Napalm](https://open.spotify.com/album/2vwB6SbE20uH2iaDpFb4Rc) | 3:24 |
-| 12 | [PowerNerd](https://open.spotify.com/track/4iZk14JjaPO94fDVShNgdV) | [Devin Townsend](https://open.spotify.com/artist/6uejjWIOshliv2Ho0OJAQN) | [PowerNerd](https://open.spotify.com/album/6G9gnBnXUAK6s87aNa7NMY) | 3:28 |
-| 13 | [Babylon](https://open.spotify.com/track/08a4bFctE95DLCqCAFezR9) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Babylon](https://open.spotify.com/album/3OkzPyOooJP45KQ4DQKASB) | 3:33 |
-| 14 | [Manifesto](https://open.spotify.com/track/2W7slhQNiou012nFuDlgvs) | [Uncured](https://open.spotify.com/artist/6YicvYF7Qo1FxNt903gAMh) | [Manifesto](https://open.spotify.com/album/7iRG7BSv4slsYwn1WdoNYf) | 3:56 |
-| 15 | [Just Wait](https://open.spotify.com/track/0V32hCfcMaKnD9M2dEqrUu) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Gelatinous Man](https://open.spotify.com/album/5tgtsCwTYoffBARqhQtjzy) | 5:23 |
-| 16 | [Fastlanes](https://open.spotify.com/track/1poFJkIqGVP0Buji1znuKU) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Fastlanes](https://open.spotify.com/album/68C3fZTaYCvSPjA4bfDty4) | 4:20 |
-| 17 | [Wretched Trajectory](https://open.spotify.com/track/607oeYyNz1K55WF6foHzus) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [Wretched Trajectory](https://open.spotify.com/album/7aYIOsUThy6iYQ0XtJkd3Y) | 2:46 |
-| 18 | [Stygian Abattoir](https://open.spotify.com/track/74WZXnNbPiksWZDTLuPP8N) | [Glacial Tomb](https://open.spotify.com/artist/49q7wu3eIwZR1kjAHdCHOI) | [Stygian Abattoir](https://open.spotify.com/album/0i6LyHka2lFUkKza2RCF7e) | 3:48 |
-| 19 | [Trendsetter](https://open.spotify.com/track/3bwPJiJcWMeJhRJn13LtGV) | [Saint Blonde](https://open.spotify.com/artist/0nLQlvzkknOFtgjAzBCcqq) | [Trendsetter](https://open.spotify.com/album/3ES3domiP3LedzK2MEUHtY) | 2:43 |
-| 20 | [your band sucks anyway](https://open.spotify.com/track/60BDHnfDDD9smEDWAuQ7vj) | [downcast](https://open.spotify.com/artist/1LAZFjhdVWpuV15E7OyrGf) | [your band sucks anyway](https://open.spotify.com/album/0uu0JaY1jg9R1qoXaMprrM) | 3:23 |
+| 1 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
+| 2 | [Where Does The Light Get In?](https://open.spotify.com/track/58eF1vpClUyeL5SfXN6N1x) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [Where Does The Light Get In?](https://open.spotify.com/album/5iN0xqyvImRpLehFSWZhbx) | 3:08 |
+| 3 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
+| 4 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 |
+| 5 | [Unt](https://open.spotify.com/track/29imMC10brxoyCCZHM7CeR) | [Pinhead Gunpowder](https://open.spotify.com/artist/3FV6RFbfc6do1nCakWsNBx) | [Unt](https://open.spotify.com/album/2LRfdlyBtyD2E9fwxnYdA0) | 3:00 |
+| 6 | [PET WITH THE TISM](https://open.spotify.com/track/5GE7wioPyLqTYSTl8VhO1a) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [PET WITH THE TISM](https://open.spotify.com/album/6Al5pUbSlNO6YW6L2iYFcB) | 2:43 |
+| 7 | [Everyday](https://open.spotify.com/track/49kxit58Qqk55p9gq0WBt7) | [Mouth Culture](https://open.spotify.com/artist/4Fc4GqcYwYnTePiW3nggrd) | [Everyday](https://open.spotify.com/album/5KEUzJG5MKoO9jUutCiB2s) | 4:19 |
+| 8 | [Cocaine Sunday](https://open.spotify.com/track/7El4JIUBD9tTihWjlFIKGo) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Cocaine Sunday](https://open.spotify.com/album/47ioQMrDuY6bYVKbhSj0sP) | 3:01 |
+| 9 | [Disputatious Malignancy](https://open.spotify.com/track/2JwCI7buFePo9kVh41tJYa) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Disputatious Malignancy](https://open.spotify.com/album/18Wc9Znqp9Q6fm9nPfGmd6) | 2:53 |
+| 10 | [Metal On Metal](https://open.spotify.com/track/2lm5D5eCvZPfgnPRKjSOf1) | [Fuming Mouth](https://open.spotify.com/artist/2I7atnUFOmvMyGPuesD7cB) | [Metal On Metal](https://open.spotify.com/album/4vBdy2tpkZ38dkatP2un4G) | 2:38 |
+| 11 | [Waging War Against God](https://open.spotify.com/track/1DgjkRkiSozHVBvMfb6VGt) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [Waging War Against God](https://open.spotify.com/album/3RYaU51PVjq1M7qLhsHpQX) | 5:43 |
+| 12 | [Horizon Of Spikes](https://open.spotify.com/track/1VNm5rSLXOGBXKP5i2A09O) | [NECKBREAKKER](https://open.spotify.com/artist/4bEKeZm7yf8aOqam6RI4cJ) | [Horizon Of Spikes](https://open.spotify.com/album/5KUno95fDG555aIRIt7mC7) | 3:56 |
+| 13 | [Fork\-Tongued Messiah](https://open.spotify.com/track/6RhM7MyL025ytDqa80JLot) | [Hellripper](https://open.spotify.com/artist/6FfZaHz07OsknWNdtdan5R) | [Fork\-Tongued Messiah / Punk Rock Classic](https://open.spotify.com/album/1nQOwtgbZZw2qYcAW0Nbjx) | 2:10 |
+| 14 | [Still Sickness](https://open.spotify.com/track/2ZnTLUHchoB4NCKl1sY64K) | [Hidden Mothers](https://open.spotify.com/artist/4ngzSYix3OAL3ph7OjDXzn) | [Still Sickness](https://open.spotify.com/album/6J3Wbt9tz90adM5nALLzVP) | 6:00 |
+| 15 | [Hal Ashby](https://open.spotify.com/track/3KutrW5yHciWy8G7d250BP) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Hal Ashby](https://open.spotify.com/album/1POPLkadaqRnEJQLkQnXVq) | 2:55 |
+| 16 | [Hungry Waters](https://open.spotify.com/track/1FHdnwhNpWbLXVNU5P4oDc) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [Hungry Waters](https://open.spotify.com/album/1GJDu1mFe6vMERKPHTzUmF) | 5:22 |
+| 17 | [Paranoia](https://open.spotify.com/track/2kCsL44pG53Kwa0AHEIRKt) | [Polar](https://open.spotify.com/artist/6eby39yemH7FjGVwJID1Tw), [Cage Fight](https://open.spotify.com/artist/35GpJabAKuETXnWsWQbTjr), [Rachel Aspe](https://open.spotify.com/artist/7f6FT3BiLsxfEQ8BRQy0bv) | [Paranoia](https://open.spotify.com/album/2JqrywSZHvX7dXwG5jzx1G) | 3:16 |
+| 18 | [Mugen Train](https://open.spotify.com/track/4HDsM8KEjAnLyUqPK6yj2E) | [Native James](https://open.spotify.com/artist/3hppZYnoNkwmo2pXbRNeF3) | [Rebirth](https://open.spotify.com/album/6Df5mvn5BCe7n0OvNEp3Om) | 2:43 |
+| 19 | [Concrete Closure](https://open.spotify.com/track/5BD2YGwmnM49nNcbQgIs3I) | [Rain City Drive](https://open.spotify.com/artist/4rMxZovfLSDjEL9eI2pKo7) | [Concrete Closure](https://open.spotify.com/album/7KSFRWJ1IBb4W6p5iMX6Py) | 3:25 |
+| 20 | [IN VAIN](https://open.spotify.com/track/1B78Bb64r8yaWoEv4m2AK7) | [InRetrospect](https://open.spotify.com/artist/7IRGSEZoEl2M7KljJVxJuT) | [AGGRO \- THE MIXTAPE](https://open.spotify.com/album/3N8FvdkfuXQ0J2QQfn6koU) | 3:43 |
 
-Snapshot ID: `AAAMZN6F8h+uiIHDWgDcDxVNXo8F9BLQ`
+Snapshot ID: `AAAMZ+Kvh9Pk6BbDt2yfTQtyJDXtM2mp`

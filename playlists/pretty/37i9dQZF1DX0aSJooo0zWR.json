@@ -1,13 +1,37 @@
 {
   "description": "Electrified jazz, complex rhythms and virtuosic playing. Cover: Chick Corea",
-  "num_followers": 202601,
+  "num_followers": 202623,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtclagAAAACPZLWEZZsp1svNzrA5rDFp",
+  "snapshot_id": "Ztp+QAAAAABnlPo0ijkOokjYWB11Ia+x",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Cool 7",
+        "url": "https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy"
+      },
+      "artists": [
+        {
+          "name": "Sungazer",
+          "url": "https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF"
+        },
+        {
+          "name": "Joshua de la Victoria",
+          "url": "https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e"
+        },
+        {
+          "name": "Jared Yee",
+          "url": "https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "Cool 7",
+      "url": "https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT"
+    },
     {
       "added_at": "2024-05-31 04:00:00",
       "album": {
@@ -1343,26 +1367,6 @@
       "duration_ms": 234624,
       "name": "Leimert Day",
       "url": "https://open.spotify.com/track/4HrR8RwNBqEUC45kYHKKaL"
-    },
-    {
-      "added_at": "2023-08-14 15:11:22",
-      "album": {
-        "name": "Even Song",
-        "url": "https://open.spotify.com/album/1M43rju5xutOMHXO2jj6BP"
-      },
-      "artists": [
-        {
-          "name": "Yellowjackets",
-          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
-        },
-        {
-          "name": "WDR Big Band",
-          "url": "https://open.spotify.com/artist/5oldzkZrHypxJpr1ri05Fu"
-        }
-      ],
-      "duration_ms": 503213,
-      "name": "Even Song",
-      "url": "https://open.spotify.com/track/54nbMd4MHkfhCxJ425ANJi"
     },
     {
       "added_at": "2023-08-14 15:11:22",

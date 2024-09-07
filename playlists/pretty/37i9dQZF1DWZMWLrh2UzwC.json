@@ -1,12 +1,12 @@
 {
   "description": "The best newly released songs of the week.",
-  "num_followers": 61595,
+  "num_followers": 61608,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoqNQAAAAA+slGimxZy6tZytWQavnnD",
+  "snapshot_id": "ZtqWuwAAAAAso0Dvnp+hzfd4ipzh0EeS",
   "tracks": [
     {
       "added_at": "2024-09-05 16:00:00",
@@ -55,6 +55,26 @@
       "duration_ms": 198498,
       "name": "Ego",
       "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+    },
+    {
+      "added_at": "2024-09-06 05:34:47",
+      "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
     },
     {
       "added_at": "2024-09-05 16:00:00",
@@ -239,6 +259,22 @@
     {
       "added_at": "2024-09-05 16:00:00",
       "album": {
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
+      },
+      "artists": [
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        }
+      ],
+      "duration_ms": 195946,
+      "name": "Pineapple Slice",
+      "url": "https://open.spotify.com/track/13U2hhhgeN57hffBCuaUcw"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
         "name": "Band Aid",
         "url": "https://open.spotify.com/album/4X4EwXwRephm7JyukTWByX"
       },
@@ -251,6 +287,22 @@
       "duration_ms": 165587,
       "name": "Melt Down",
       "url": "https://open.spotify.com/track/0T6J3Ipbe06lm7p3grH2bg"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "abouTZU",
+        "url": "https://open.spotify.com/album/0Xj4fXPKV0h6KhGQbUkDvy"
+      },
+      "artists": [
+        {
+          "name": "TZUYU",
+          "url": "https://open.spotify.com/artist/1arCVYXeStgCY2UazBNBLK"
+        }
+      ],
+      "duration_ms": 198320,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/2Ti4DCTo6Ag7QvaYex8A8B"
     },
     {
       "added_at": "2024-09-05 16:00:00",
@@ -347,6 +399,26 @@
       "duration_ms": 222037,
       "name": "SOS",
       "url": "https://open.spotify.com/track/3IHIu01ZZHirsy7f0AtoPn"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "Pothum",
+        "url": "https://open.spotify.com/album/0iSpOJJDnxBx22iVDcdPMy"
+      },
+      "artists": [
+        {
+          "name": "Hashmitha",
+          "url": "https://open.spotify.com/artist/1h4waCZPQFgRwXrFtCXo8M"
+        },
+        {
+          "name": "Sheezay",
+          "url": "https://open.spotify.com/artist/59ZFcw0jfy0Z4rcF1DXKBF"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Pothum",
+      "url": "https://open.spotify.com/track/0wOqPJwyhdMBkTk9vNCz9T"
     },
     {
       "added_at": "2024-09-05 16:00:00",
@@ -639,6 +711,22 @@
     {
       "added_at": "2024-09-05 16:00:00",
       "album": {
+        "name": "Always Been You",
+        "url": "https://open.spotify.com/album/3X8vX3dM1FmuX5ZPy0ZveM"
+      },
+      "artists": [
+        {
+          "name": "HENRY",
+          "url": "https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt"
+        }
+      ],
+      "duration_ms": 182576,
+      "name": "Always Been You",
+      "url": "https://open.spotify.com/track/4SRahZ48Vzii7XVGbInzCS"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
         "name": "O, Vol. 1",
         "url": "https://open.spotify.com/album/0j8IT2sEyWFY5xs9xddy0P"
       },
@@ -667,6 +755,22 @@
       "duration_ms": 244000,
       "name": "dead to you",
       "url": "https://open.spotify.com/track/4vPfg76mn1LEZ2TGALkSyM"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "Hourglass",
+        "url": "https://open.spotify.com/album/1lLWbQQW6buN3RMuTyqce6"
+      },
+      "artists": [
+        {
+          "name": "Gen1es",
+          "url": "https://open.spotify.com/artist/27yhKgatOFk8Lpv5qIM1BB"
+        }
+      ],
+      "duration_ms": 169520,
+      "name": "Dot Dot Dot",
+      "url": "https://open.spotify.com/track/1qPN4Ghsr2waEJE1VlLOmq"
     },
     {
       "added_at": "2024-09-05 16:00:00",
@@ -1455,6 +1559,38 @@
     {
       "added_at": "2024-09-05 16:00:00",
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/5TLTBK7AZVvOkv8FvAn7le"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/5LlUJ3HHI2dS0xowdMDXC5"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "HOUSE OF TRICKY : WATCH OUT",
+        "url": "https://open.spotify.com/album/5i39B9fUkXSofBtiWABi93"
+      },
+      "artists": [
+        {
+          "name": "xikers",
+          "url": "https://open.spotify.com/artist/6QHP8St0MzfNDqjKpwtMht"
+        }
+      ],
+      "duration_ms": 196586,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/2rCTcCqBGfTFnFHYCJEsPA"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
         "name": "Bokurano Story",
         "url": "https://open.spotify.com/album/1s2n23u9woyJ2RhQPvTTvt"
       },
@@ -1775,6 +1911,22 @@
       "duration_ms": 244000,
       "name": "The Way You Do (I Do)",
       "url": "https://open.spotify.com/track/2MU5ox7kvHqYMSXjYMNeHU"
+    },
+    {
+      "added_at": "2024-09-05 16:00:00",
+      "album": {
+        "name": "I'll look out for you",
+        "url": "https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r"
+      },
+      "artists": [
+        {
+          "name": "donny daydream",
+          "url": "https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS"
+        }
+      ],
+      "duration_ms": 126240,
+      "name": "you'll take it",
+      "url": "https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc"
     },
     {
       "added_at": "2024-09-05 16:00:00",

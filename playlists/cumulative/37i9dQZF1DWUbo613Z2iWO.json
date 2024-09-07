@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Dayo Bello",
+  "description": "R&B of the moment by the artists of the future. Cover: Nippa",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -5165,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "F.N.F.",
+        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
+      },
+      "artists": [
+        {
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129029,
+      "name": "F.N.F.",
+      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
+    },
+    {
+      "album": {
         "name": "Face Down",
         "url": "https://open.spotify.com/album/4HHcIQeI1O1QouiYCzROZN"
       },
@@ -7170,7 +7188,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 209491,
       "name": "Greenroom",
       "url": "https://open.spotify.com/track/2u1jeYToTwnu7XvvmioPdI"
@@ -10856,7 +10874,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 242183,
       "name": "Matter To You",
       "url": "https://open.spotify.com/track/2EqbyvCXCrpYLGbjXjuC2x"
@@ -11234,7 +11252,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 163653,
       "name": "Most Wanted",
       "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
@@ -11286,7 +11304,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 249301,
       "name": "Moviestar (feat. Col3trane)",
       "url": "https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA"
@@ -11424,7 +11442,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 127802,
       "name": "My Man",
       "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
@@ -14940,7 +14958,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 221564,
       "name": "Send Your Loving (feat. Tayc) [Remix]",
       "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
@@ -15813,6 +15831,24 @@
     },
     {
       "album": {
+        "name": "Starsigns",
+        "url": "https://open.spotify.com/album/2DmZp1CRU6YQkmkJdMDKHW"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183260,
+      "name": "Starsigns",
+      "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
+    },
+    {
+      "album": {
         "name": "Stealin' Love",
         "url": "https://open.spotify.com/album/75gTyTvJm2apvHEc4hOt4S"
       },
@@ -16452,7 +16488,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 187642,
       "name": "Sweat (Island File)",
       "url": "https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT"
@@ -16532,7 +16568,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 251326,
       "name": "Sweetness (feat. Leon Thomas)",
       "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
@@ -16778,7 +16814,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188852,
       "name": "Teach Me",
       "url": "https://open.spotify.com/track/4tXKv7Jpel1tgz8HUWwsGD"
@@ -17246,6 +17282,24 @@
       "duration_ms": 208000,
       "name": "Thinkin' Bout You",
       "url": "https://open.spotify.com/track/5ZQ8Pkf6CI0hHNVJYmKB3A"
+    },
+    {
+      "album": {
+        "name": "THIRST",
+        "url": "https://open.spotify.com/album/6yVfVz55zj2PdBxWkWHXYp"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145964,
+      "name": "THIRST",
+      "url": "https://open.spotify.com/track/7d5FHMxgFBCATaIWUjpv08"
     },
     {
       "album": {
@@ -17807,6 +17861,28 @@
     },
     {
       "album": {
+        "name": "WHAT A NIGHT TO BE IN LOVE",
+        "url": "https://open.spotify.com/album/00kgUArBYwVlcbE8HP5aO0"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
+    },
+    {
+      "album": {
         "name": "U & I",
         "url": "https://open.spotify.com/album/3ypZDA00UD5VEhPqwxTL2F"
       },
@@ -18174,6 +18250,24 @@
       "duration_ms": 197493,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3"
+    },
+    {
+      "album": {
+        "name": "Gap Year!",
+        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146341,
+      "name": "Want 2",
+      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
     },
     {
       "album": {

@@ -447,6 +447,28 @@
     },
     {
       "album": {
+        "name": "Filho Volta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN"
+      },
+      "artists": [
+        {
+          "name": "Elaine Martins",
+          "url": "https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8"
+        },
+        {
+          "name": "Jairo Bonfim",
+          "url": "https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260062,
+      "name": "Filho Volta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg"
+    },
+    {
+      "album": {
         "name": "Firme nas Promessas (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3khWXT7zps8cnnZeOWdqpB"
       },

@@ -1,6 +1,6 @@
 {
   "description": "Remember Cinco de Mayo is not the Mexican Independence day, but here are some feel-good tunes for your cinco de drinko. \u00a1Salud!",
-  "num_followers": 40587,
+  "num_followers": 40585,
   "original_name": "Cinco de Mayo",
   "owner": {
     "name": "Spotify",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-05-03 19:55:27",
       "album": {
+        "name": "M\u00e1s Caro, que ayer",
+        "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 137788,
+      "name": "Otra Borrachera",
+      "url": "https://open.spotify.com/track/1NfeLk7GEZLSss2zs6Yrif"
+    },
+    {
+      "added_at": "2024-05-03 19:55:27",
+      "album": {
         "name": "Monterrey",
         "url": "https://open.spotify.com/album/5e62RmU6dB91wQA6TWrIyL"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 164800,
       "name": "Monterrey",
       "url": "https://open.spotify.com/track/6y6xATSjOC2EpMTJh51R4v"
-    },
-    {
-      "added_at": "2024-05-03 19:55:27",
-      "album": {
-        "name": "M\u00e1s Caro, que ayer",
-        "url": "https://open.spotify.com/album/2aSJfcD9lSOTRFrQaXOqFd"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 137788,
-      "name": "Otra Borrachera",
-      "url": "https://open.spotify.com/track/1NfeLk7GEZLSss2zs6Yrif"
     },
     {
       "added_at": "2024-05-03 19:55:27",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the south. Cover: Young Thug",
+  "description": "The hottest out the south. Cover: Rich Homie Quan (R.I.P.)",
   "name": "No Cap",
   "tracks": [
     {
@@ -536,6 +536,24 @@
       "duration_ms": 202367,
       "name": "40 Mo' Reasons",
       "url": "https://open.spotify.com/track/61siK7W8gG1ixD974Ethya"
+    },
+    {
+      "album": {
+        "name": "4AM",
+        "url": "https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109745,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF"
     },
     {
       "album": {
@@ -2958,7 +2976,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175225,
       "name": "Big Risk",
       "url": "https://open.spotify.com/track/7Cvqbl3ll3VJ98MEiVRxGO"
@@ -4300,7 +4318,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 175476,
       "name": "Bulletproof (feat. 21 Lil Harold)",
       "url": "https://open.spotify.com/track/6qZiO1eqaj3qcHfzEC5NJR"
@@ -4681,6 +4699,28 @@
     },
     {
       "album": {
+        "name": "Now That We're Here...",
+        "url": "https://open.spotify.com/album/3YWPb972EbrlfWrykJcYZE"
+      },
+      "artists": [
+        {
+          "name": "Legend Yae",
+          "url": "https://open.spotify.com/artist/41JFOCSk00m4hv4RigJViZ"
+        },
+        {
+          "name": "Trap Dickey",
+          "url": "https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216503,
+      "name": "Carolina Business (feat. Trap Dickey)",
+      "url": "https://open.spotify.com/track/4YGRscmDizfW9wzJWxJwJx"
+    },
+    {
+      "album": {
         "name": "Carolina to New York",
         "url": "https://open.spotify.com/album/5VrLosdMJFpyF2UArexsQu"
       },
@@ -4925,6 +4965,28 @@
     },
     {
       "album": {
+        "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+        "url": "https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz"
+      },
+      "artists": [
+        {
+          "name": "Toosii",
+          "url": "https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156097,
+      "name": "Champs \u00c9lys\u00e9es (feat. Gunna)",
+      "url": "https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec"
+    },
+    {
+      "album": {
         "name": "Chanel Bag (feat. JT)",
         "url": "https://open.spotify.com/album/2wJwaumR3Y8PCM01JgJqSj"
       },
@@ -5082,6 +5144,24 @@
       "duration_ms": 170666,
       "name": "Chedda Cheese (feat. Babyface Ray)",
       "url": "https://open.spotify.com/track/05a0oCC4u0uIwtHf2xgYGM"
+    },
+    {
+      "album": {
+        "name": "Chicken Phone",
+        "url": "https://open.spotify.com/album/7pjE8p3XUEcxrHL81CtAmT"
+      },
+      "artists": [
+        {
+          "name": "Wizz Havinn",
+          "url": "https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Chicken Phone",
+      "url": "https://open.spotify.com/track/6bKbrUz6ngAo6g1P6bPkCw"
     },
     {
       "album": {
@@ -5948,7 +6028,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 136506,
       "name": "CR@SH (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/1KmmViIziBGJQa728cXkzh"
@@ -6390,7 +6470,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 139259,
       "name": "DEATH ROLL",
       "url": "https://open.spotify.com/track/4p3sIGdKAgRqrTvu3IpGnl"
@@ -7381,6 +7461,24 @@
     },
     {
       "album": {
+        "name": "LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/6BQgHrnJsXjBiuD1Q8zrmv"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161127,
+      "name": "DOUBT IT",
+      "url": "https://open.spotify.com/track/4F7fTVEe93Rm7oUz4ULabI"
+    },
+    {
+      "album": {
         "name": "Doves",
         "url": "https://open.spotify.com/album/4DlnZNLw1HqckLprf9a9hW"
       },
@@ -7638,7 +7736,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 192013,
       "name": "EASY DUB (feat. BabyDrill)",
       "url": "https://open.spotify.com/track/6oTva60E0yp2cvFAybLFmS"
@@ -8630,7 +8728,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 181500,
       "name": "First 48 (feat. Key Glock)",
       "url": "https://open.spotify.com/track/73aThC0dgBpmSWLGLgAwaZ"
@@ -9832,6 +9930,24 @@
       "duration_ms": 143703,
       "name": "Gang Nem (feat. EST Gee)",
       "url": "https://open.spotify.com/track/6t4OP550372zgiAof928AR"
+    },
+    {
+      "album": {
+        "name": "Red Ranger",
+        "url": "https://open.spotify.com/album/1fpRbHRPabCzwxyDed2YvE"
+      },
+      "artists": [
+        {
+          "name": "RRoxket",
+          "url": "https://open.spotify.com/artist/4Pu14kX4BlhnDHP7DRmmGS"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174525,
+      "name": "Ganger",
+      "url": "https://open.spotify.com/track/2FCRKH6ZzGw5Ql98E0L0By"
     },
     {
       "album": {
@@ -12727,6 +12843,24 @@
     },
     {
       "album": {
+        "name": "I Swear To God",
+        "url": "https://open.spotify.com/album/3doVdTV39FSjG27oYcUKg0"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156166,
+      "name": "I Swear To God",
+      "url": "https://open.spotify.com/track/4EFja5sjO1ORjJ6tU0L1tT"
+    },
+    {
+      "album": {
         "name": "EL TORO 2",
         "url": "https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs"
       },
@@ -12884,7 +13018,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 218200,
       "name": "ICE AGE (FEAT. TRAVIS SCOTT)",
       "url": "https://open.spotify.com/track/4nhcjelU9PidsBzUkazfZs"
@@ -12982,6 +13116,24 @@
       "duration_ms": 196888,
       "name": "If You Still Wit Me (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/4EvFzNPsp8iyiEO9LDHopv"
+    },
+    {
+      "album": {
+        "name": "Ight",
+        "url": "https://open.spotify.com/album/0DqobH6BA6zFxdC0FLrbb1"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136190,
+      "name": "Ight",
+      "url": "https://open.spotify.com/track/4QvJwWlSXYXiDhjAh97KnK"
     },
     {
       "album": {
@@ -14108,7 +14260,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 135254,
       "name": "Keep It Gangsta",
       "url": "https://open.spotify.com/track/4YeYNpm9FIOfPWuxEjltIr"
@@ -14297,6 +14449,24 @@
     },
     {
       "album": {
+        "name": "Kisses N Hugs",
+        "url": "https://open.spotify.com/album/5bnS8mBAhAXBMq7uJNtFXA"
+      },
+      "artists": [
+        {
+          "name": "Finesse2tymes",
+          "url": "https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115973,
+      "name": "Kisses N Hugs",
+      "url": "https://open.spotify.com/track/2kFBimxQGS0oeOYNRdO4hc"
+    },
+    {
+      "album": {
         "name": "Kissing On Your Tattoos",
         "url": "https://open.spotify.com/album/4WnGoXv9inlFuNT75MScMN"
       },
@@ -14458,6 +14628,24 @@
       "duration_ms": 144827,
       "name": "La La",
       "url": "https://open.spotify.com/track/0Rr9sn5uXwBMTgccdDXsbZ"
+    },
+    {
+      "album": {
+        "name": "Laced max",
+        "url": "https://open.spotify.com/album/6XB8A3WaWIZAK7XHWeJLvH"
+      },
+      "artists": [
+        {
+          "name": "LAZER DIM 700",
+          "url": "https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90005,
+      "name": "Laced max",
+      "url": "https://open.spotify.com/track/2zZYe0VgBUAamZ9zTxzE4l"
     },
     {
       "album": {
@@ -16266,7 +16454,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 272772,
       "name": "Mamacita (feat. Rich Homie Quan & Young Thug)",
       "url": "https://open.spotify.com/track/0uFz9q2SvuKyWB6Ur1YCfI"
@@ -17431,6 +17619,24 @@
     },
     {
       "album": {
+        "name": "My Town",
+        "url": "https://open.spotify.com/album/1LuwwqUfbBJgLpxai9HL07"
+      },
+      "artists": [
+        {
+          "name": "BAK Jay",
+          "url": "https://open.spotify.com/artist/7L2tttKztwzcNqrKUiEbZR"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133093,
+      "name": "My Town",
+      "url": "https://open.spotify.com/track/5w01S5kO0adzlpGEO6ttuH"
+    },
+    {
+      "album": {
         "name": "Emotional Gangsta",
         "url": "https://open.spotify.com/album/09wAIQk3bRrbBlNQZXBv2C"
       },
@@ -17715,6 +17921,28 @@
     },
     {
       "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+    },
+    {
+      "album": {
         "name": "Never Fail (with Benny The Butcher)",
         "url": "https://open.spotify.com/album/4U7gKEk4Q7fdNPTdhobpRq"
       },
@@ -17839,6 +18067,46 @@
     },
     {
       "album": {
+        "name": "New Chanel",
+        "url": "https://open.spotify.com/album/26SxC7Gv2w8TjSqAHOCNaY"
+      },
+      "artists": [
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        },
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116845,
+      "name": "New Chanel",
+      "url": "https://open.spotify.com/track/3BxYFf2gpC85DBfsdqKAUn"
+    },
+    {
+      "album": {
+        "name": "HARDSTONE PSYCHO",
+        "url": "https://open.spotify.com/album/0Kzb3u6kMnOJOZXYFSk33F"
+      },
+      "artists": [
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217333,
+      "name": "NEW DROP",
+      "url": "https://open.spotify.com/track/2c7z5oRcPBbqRaBY2mLWcf"
+    },
+    {
+      "album": {
         "name": "Fresh Out The Trenches",
         "url": "https://open.spotify.com/album/6BqhVDaCOylpg7UJduEmJ5"
       },
@@ -17876,7 +18144,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 135040,
       "name": "New Glock",
       "url": "https://open.spotify.com/track/23gp4lVsn5fjc0RCHubwAs"
@@ -19739,6 +20007,28 @@
     },
     {
       "album": {
+        "name": "Or What",
+        "url": "https://open.spotify.com/album/0O5WgUe2bObIlk6R0nwOs2"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "41",
+          "url": "https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199165,
+      "name": "Or What",
+      "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "album": {
         "name": "WE STILL DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP"
       },
@@ -20884,7 +21174,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 132570,
       "name": "POTHEAD & STONER",
       "url": "https://open.spotify.com/track/7rh1Rw4Xm2cqBaHBcEkT5q"
@@ -24118,7 +24408,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 274207,
       "name": "Sloppy Toppy (feat. Migos & Peewee Longway)",
       "url": "https://open.spotify.com/track/1OLABkcTvWfXE2xs5Yb2Ex"
@@ -24811,6 +25101,24 @@
     },
     {
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/1j5C5r6K6SnIpSOFx6UuwR"
+      },
+      "artists": [
+        {
+          "name": "BiC Fizzle",
+          "url": "https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101071,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/4pYpRak6mhj0MHy8nMdcgz"
+    },
+    {
+      "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
@@ -25008,7 +25316,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 167000,
       "name": "Stickin And Movin",
       "url": "https://open.spotify.com/track/0LFytFdnyYnyjKQjFhz2XJ"
@@ -25354,7 +25662,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 161543,
       "name": "Suicide Doors (feat. Cordae)",
       "url": "https://open.spotify.com/track/07ABUEnAPy0Hhc1XUMNMru"
@@ -26836,7 +27144,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 252636,
       "name": "THRILL (with Ken Carson)",
       "url": "https://open.spotify.com/track/3FMKkmAXsCrJM9ZDIbQejN"
@@ -28402,7 +28710,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 111177,
       "name": "VS",
       "url": "https://open.spotify.com/track/0HrbrLnFXLn2n5efpuwACS"
@@ -29004,6 +29312,32 @@
       "duration_ms": 136980,
       "name": "Wet",
       "url": "https://open.spotify.com/track/4RCwUGboTNqqrY2tgy37nF"
+    },
+    {
+      "album": {
+        "name": "Wet Dreams (feat. Coop & G)",
+        "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
+      },
+      "artists": [
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        },
+        {
+          "name": "coop",
+          "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
+        },
+        {
+          "name": "G",
+          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159090,
+      "name": "Wet Dreams (feat. Coop & G)",
+      "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
       "album": {
@@ -30362,7 +30696,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 172934,
       "name": "YOSHIMITSU",
       "url": "https://open.spotify.com/track/5X5Aw2yaaCXncoiQh3gWRc"

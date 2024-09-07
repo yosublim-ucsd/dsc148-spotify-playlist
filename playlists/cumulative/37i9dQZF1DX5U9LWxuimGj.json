@@ -2585,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "solo un nombre",
+        "url": "https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168661,
+      "name": "solo un nombre",
+      "url": "https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY"
+    },
+    {
+      "album": {
         "name": "Frank Ray",
         "url": "https://open.spotify.com/album/1tzDc0NmO80BmQwfHhTBsJ"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO's </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,295 likes - 56 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,303 likes - 56 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 11 | [Mexe\-Te Mais um Pouco](https://open.spotify.com/track/38Ksw6hzWZv4em5X7jafIz) | [Ágata](https://open.spotify.com/artist/4hjRolqjkmfAWhjkUPFJiI) | [Amor Latino](https://open.spotify.com/album/6dqYjdYYkVepPQkNIyzHIz) | 4:13 |
 | 12 | [Interdimensional Travel](https://open.spotify.com/track/1nbtPH23R9REJ1F49rMcAE) | [Reenie](https://open.spotify.com/artist/5oXU4dhezXJIQdFDuUlkKj) | [Space Cadet EP](https://open.spotify.com/album/1ovslYWn33SQIlnsSpmRFr) | 3:32 |
 | 13 | [Warm In The Dark \(Release\)](https://open.spotify.com/track/4fZZPjyKBB8ZSrBKaffAOx) | [Barbie Bertisch](https://open.spotify.com/artist/2UPK9HwanL6StUUNYLlUMx) | [Prelude](https://open.spotify.com/album/2Bmm8QUbWvqya2JhtBT63J) | 6:06 |
-| 14 | [1+1=11 \- Beatless Mix](https://open.spotify.com/track/1iiePEKGQPcNXZoXCXWaea) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 5:11 |
+| 14 | [1+1=11 \- Koreless' Beatless Mix](https://open.spotify.com/track/1iiePEKGQPcNXZoXCXWaea) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [1+1=11](https://open.spotify.com/album/4jLAzkokPOXLjGMLaLhryc) | 5:11 |
 | 15 | [Sanctified](https://open.spotify.com/track/7yfTdQEunYdHMpblXJAMdt) | [System Olympia](https://open.spotify.com/artist/2qtARFvBzCjOuGbXFAF0iX), [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Sanctified](https://open.spotify.com/album/2yugxS4V6T8pWFkpsTw8CU) | 4:16 |
 | 16 | [Dance II](https://open.spotify.com/track/5iPyzbAvw84pJBJsFu05P4) | [Discovery Zone](https://open.spotify.com/artist/4Q3A7ukbHFR5xThu9hZDZt) | [Remote Control](https://open.spotify.com/album/3ikMmpjQ8lDqeDPwChZTSM) | 4:31 |
 | 17 | [House Of Virgo \- Chris Cruse Spotlight Mix](https://open.spotify.com/track/0im5fnHgYRXBglQaKDopGH) | [Kim Anh](https://open.spotify.com/artist/3CbmT7nMALRWJrYYyKLz6z), [Chris Cruse](https://open.spotify.com/artist/5Ka6PfnSJxJ2H4fmSCaY8B) | [After Dark Remixed](https://open.spotify.com/album/59F9XfPJbHWcecc4jc53rw) | 5:37 |

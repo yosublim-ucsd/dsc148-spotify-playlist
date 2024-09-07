@@ -4,7 +4,7 @@
 
 > The R&B and good vibe tracks for your current mood\. Cover: RINI
 
-874 songs - 1 day 23 hr 13 min
+875 songs - 1 day 23 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,7 +202,7 @@
 | [Dream](https://open.spotify.com/track/37gousVr7Tfh7798ae6eac) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Dream](https://open.spotify.com/album/79y56tQjNRUextz6CReVXg) | 3:30 | 2024-08-08 |  |
 | [Drown](https://open.spotify.com/track/5qxOeTyWa0JAst5fqdrqgu) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Drown](https://open.spotify.com/album/5PpH5XpQ59g6CB399oKkVA) | 4:20 | 2024-02-22 | 2024-03-08 |
 | [Dyin’ To Know](https://open.spotify.com/track/2pOz4brROgNTWvb33sigQk) | [Aaron Bunac](https://open.spotify.com/artist/1MPSyVOJbRJmJsc4SsRNhI) | [Dyin’ To Know](https://open.spotify.com/album/5yoPD3c3dHCIJH7QZ1JdpO) | 3:00 | 2024-07-11 | 2024-08-16 |
-| [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 |  |
+| [Easy](https://open.spotify.com/track/7DJdAivvw89IDyflbj7K4p) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Easy](https://open.spotify.com/album/2dbaRmTq1d4oQniJn2hW16) | 2:36 | 2024-07-18 |  |
 | [easy on me](https://open.spotify.com/track/0i4dOFMCie6lHFgZ7xsSCS) | [Marae](https://open.spotify.com/artist/6jHCdKqgmFG0Ta7RG8GilI) | [easy on me](https://open.spotify.com/album/4jZmQ4S3AATkH6jWhp1o8P) | 2:36 | 2024-06-20 | 2024-06-28 |
 | [eclipse](https://open.spotify.com/track/5kIFISvEMsYUjexV8WyDYF) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:50 | 2024-03-15 | 2024-04-19 |
 | [ECSTASY](https://open.spotify.com/track/0a5nzIXplliER47moyN6Wh) | [kasper](https://open.spotify.com/artist/4kwRGpvKw9YsV0DTRZQKyH) | [ECSTASY](https://open.spotify.com/album/4mLel6Ahh3jU8tDhIS01FT) | 2:56 | 2023-06-22 | 2023-07-08 |
@@ -874,6 +874,7 @@
 | [You Don't Know Me](https://open.spotify.com/track/6zX2iF3aZC26DEtISIcmwh) | [Almira Zaky](https://open.spotify.com/artist/62aXcFkYSHe0Kai0CImGyy) | [You Don't Know Me](https://open.spotify.com/album/5GPeTPlGNbf3CcHdg7PAoU) | 2:28 | 2023-02-23 | 2023-03-18 |
 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 | 2022-06-16 | 2022-06-24 |
 | [You Right](https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:06 | 2022-06-08 | 2022-09-23 |
+| [you'll take it](https://open.spotify.com/track/3nOymPXDH86yh3Wupsr9gc) | [donny daydream](https://open.spotify.com/artist/1cN7t71QLFV6b0Fs3PlkPS) | [I'll look out for you](https://open.spotify.com/album/7pwnW4RDep7qxE1paDdZ4r) | 2:06 | 2024-09-05 |  |
 | [You're Almost There](https://open.spotify.com/track/4EH3tlC7Ns1ahBtnPAXmP9) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [You're Almost There](https://open.spotify.com/album/7vA1tbXdEHvPftDO7jEsKj) | 3:06 | 2022-06-08 | 2022-11-18 |
 | [YOUR LAST](https://open.spotify.com/track/5J5BSFpK1zrGBvWGmeg6OH) | [voquote](https://open.spotify.com/artist/7e4RwZzwd7DW2HCb0N0CcR), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [YOUR LAST](https://open.spotify.com/album/3YQlQEJ6srCNM7xQF9Im4q) | 2:57 | 2024-07-11 | 2024-07-19 |
 | [Your Sadness](https://open.spotify.com/track/7jAwJRWO4SLmu7JGFmhl07) | [Jeong Jia](https://open.spotify.com/artist/2dbUmZGHQxbgINmaqNxzz3) | [Your Sadness](https://open.spotify.com/album/0whU1PMy78jJL1uaO7cGx5) | 3:20 | 2022-11-17 | 2023-02-10 |

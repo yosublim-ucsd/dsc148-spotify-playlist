@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik... Mille p\u00e5 forsiden \ud83c\udf3e",
-  "num_followers": 45219,
+  "num_followers": 45225,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Til Solen Er Sort",
+        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+      },
+      "artists": [
+        {
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+        }
+      ],
+      "duration_ms": 224175,
+      "name": "Til Solen Er Sort",
+      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Sytten",
         "url": "https://open.spotify.com/album/0GI9UH21kp6Gp2dEwrll0J"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Til Solen Er Sort",
-        "url": "https://open.spotify.com/album/3ILCWJ6wNKBI0WVvaL4Bwz"
+        "name": "Bad Day",
+        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
       },
       "artists": [
         {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
+          "name": "ORA",
+          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
         }
       ],
-      "duration_ms": 224175,
-      "name": "Til Solen Er Sort",
-      "url": "https://open.spotify.com/track/0h35J8A4GHIlQXcxVAEmF5"
+      "duration_ms": 171456,
+      "name": "Bad Day",
+      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -343,6 +359,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Gi' Mig Lige",
         "url": "https://open.spotify.com/album/1RbqPsFleMMtKhkvwufqjA"
       },
@@ -359,18 +391,34 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Jaloux",
-        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+        "name": "Mig Og Min Mund",
+        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+          "name": "APHACA",
+          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
         }
       ],
-      "duration_ms": 157000,
-      "name": "Jaloux",
-      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
+      "duration_ms": 159539,
+      "name": "Mig Og Min Mund",
+      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Dem, Vi Plejede At V\u00e6re",
+        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 338436,
+      "name": "Dem, Vi Plejede At V\u00e6re",
+      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -395,38 +443,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Bad Day",
-        "url": "https://open.spotify.com/album/4dVUFrXHHJ7bcm1QmYh1y3"
-      },
-      "artists": [
-        {
-          "name": "ORA",
-          "url": "https://open.spotify.com/artist/0OwTvInKzIsGDpf2WAKBkA"
-        }
-      ],
-      "duration_ms": 171456,
-      "name": "Bad Day",
-      "url": "https://open.spotify.com/track/0EbOVRTu9uma6G3ZjWH44B"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Dem, Vi Plejede At V\u00e6re",
-        "url": "https://open.spotify.com/album/0IeENk7W2iwxHWhln55wvm"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 338436,
-      "name": "Dem, Vi Plejede At V\u00e6re",
-      "url": "https://open.spotify.com/track/2MtiQSpFfpbJZOfF5hYnRx"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Under Din Sne",
         "url": "https://open.spotify.com/album/5ay6w69e8LM9fjLAzTxFsZ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 264335,
       "name": "Under Din Sne",
       "url": "https://open.spotify.com/track/1D9P6P6yR4LB3Cq0ozn8ZE"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Mig Og Min Mund",
-        "url": "https://open.spotify.com/album/08AZxKNYc8cCbqYpBDqi3Q"
-      },
-      "artists": [
-        {
-          "name": "APHACA",
-          "url": "https://open.spotify.com/artist/5Ppbc55kNdjvxP8Tw2P8S9"
-        }
-      ],
-      "duration_ms": 159539,
-      "name": "Mig Og Min Mund",
-      "url": "https://open.spotify.com/track/6zJFMDkfoTGtCW9mUZurqn"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -475,6 +475,38 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "I storsl\u00e5et kinddans, med livet som indsats",
+        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 171384,
+      "name": "Mand P\u00e5 En Nat",
+      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Jaloux",
+        "url": "https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 157000,
+      "name": "Jaloux",
+      "url": "https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Det er din k\u00e6rlighed",
         "url": "https://open.spotify.com/album/3kIwdqhUXRi9zERlfSGmG0"
       },
@@ -491,34 +523,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+        "name": "Coast II Coast (feat. USSEL)",
+        "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
       },
       "artists": [
         {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "I storsl\u00e5et kinddans, med livet som indsats",
-        "url": "https://open.spotify.com/album/4kCIEEooRWkYSiZhn7EECg"
-      },
-      "artists": [
+          "name": "Rune Rask",
+          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
+        },
         {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 171384,
-      "name": "Mand P\u00e5 En Nat",
-      "url": "https://open.spotify.com/track/003Ljf2u0rLc63T1jSTa0L"
+      "duration_ms": 128616,
+      "name": "Coast II Coast (feat. USSEL)",
+      "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -559,22 +579,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Det\u00b4 kun vigtigt, hvad det er",
         "url": "https://open.spotify.com/album/4zmqsyAvhA629rPAozixXS"
       },
@@ -587,6 +591,22 @@
       "duration_ms": 199930,
       "name": "Det\u00b4 kun vigtigt, hvad det er",
       "url": "https://open.spotify.com/track/1J9fp6cP3L42PqQrp81gi2"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -659,22 +679,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Liber",
-        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 220125,
-      "name": "En Fremmed",
-      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "The Game",
         "url": "https://open.spotify.com/album/7fguP8EMcSuGjet7VIwBMr"
       },
@@ -691,18 +695,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "1000 H\u00e6nder",
-        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
+        "name": "Liber",
+        "url": "https://open.spotify.com/album/6rJxbCvszcQZrx4P7Q27Rj"
       },
       "artists": [
         {
-          "name": "Elsked",
-          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 185760,
-      "name": "1000 H\u00e6nder",
-      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
+      "duration_ms": 220125,
+      "name": "En Fremmed",
+      "url": "https://open.spotify.com/track/66TnIRXFDETjxQnE0l4KKD"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -739,38 +743,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Coast II Coast (feat. USSEL)",
-        "url": "https://open.spotify.com/album/1tLKNTlOQhdGg9CnzznpwE"
+        "name": "1000 H\u00e6nder",
+        "url": "https://open.spotify.com/album/7jKVBenHoh5NFs7TCum46z"
       },
       "artists": [
         {
-          "name": "Rune Rask",
-          "url": "https://open.spotify.com/artist/3zuy1LOMq0y8aHZn4Ogax0"
-        },
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "Elsked",
+          "url": "https://open.spotify.com/artist/1nrf4XbO46RDXE4iuJYKzJ"
         }
       ],
-      "duration_ms": 128616,
-      "name": "Coast II Coast (feat. USSEL)",
-      "url": "https://open.spotify.com/track/0HKBq5BnA2JOiLy85H0JxL"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Dear Space",
-        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
-      },
-      "artists": [
-        {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
-        }
-      ],
-      "duration_ms": 202243,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+      "duration_ms": 185760,
+      "name": "1000 H\u00e6nder",
+      "url": "https://open.spotify.com/track/26cx3JVqR0zBa2WWsqUl6c"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Dear Space",
+        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
+      },
+      "artists": [
+        {
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+        }
+      ],
+      "duration_ms": 202243,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
         "url": "https://open.spotify.com/album/1RpzwZgl2SKr1h5fvTbV50"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 191673,
       "name": "H\u00f8jhus (Hvor G\u00e5r Vi Hen)",
       "url": "https://open.spotify.com/track/2yGQDtB1DuJqFGrLKh6yrF"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Infinity Action",
-        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
-      },
-      "artists": [
-        {
-          "name": "The Minds Of 99",
-          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
-        }
-      ],
-      "duration_ms": 243306,
-      "name": "Brev Fra En Forr\u00e6der",
-      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -859,18 +843,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "K\u00e6rligheden Vinder",
-        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
+        "name": "Infinity Action",
+        "url": "https://open.spotify.com/album/6GLTwo1oKgINl5zKMPuBWM"
       },
       "artists": [
         {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
+          "name": "The Minds Of 99",
+          "url": "https://open.spotify.com/artist/6GTwMrB4u3hwcUyc9sU1UL"
         }
       ],
-      "duration_ms": 212589,
-      "name": "K\u00e6rligheden Vinder",
-      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
+      "duration_ms": 243306,
+      "name": "Brev Fra En Forr\u00e6der",
+      "url": "https://open.spotify.com/track/0SDWa22lSLNpGnr5bF3f2z"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -891,50 +875,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Din Sang",
-        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
+        "name": "K\u00e6rligheden Vinder",
+        "url": "https://open.spotify.com/album/0lUs9h00R4XAeT2c4Gtjjt"
       },
       "artists": [
         {
-          "name": "PIND",
-          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
+          "name": "Kind mod Kind",
+          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
         }
       ],
-      "duration_ms": 176528,
-      "name": "Din Sang",
-      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Butterfly Street",
-        "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
-      },
-      "artists": [
-        {
-          "name": "LILLI",
-          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
-        }
-      ],
-      "duration_ms": 166895,
-      "name": "Butterfly Street",
-      "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Dopa min",
-        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
-      },
-      "artists": [
-        {
-          "name": "Bette",
-          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
-        }
-      ],
-      "duration_ms": 161911,
-      "name": "Dopa min",
-      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
+      "duration_ms": 212589,
+      "name": "K\u00e6rligheden Vinder",
+      "url": "https://open.spotify.com/track/277dNnpdaPceOiB6lVP8qF"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -951,6 +903,58 @@
       "duration_ms": 236624,
       "name": "Se Mig",
       "url": "https://open.spotify.com/track/3CRPUerlCUYbY8yzOelA7R"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Din Sang",
+        "url": "https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD"
+      },
+      "artists": [
+        {
+          "name": "PIND",
+          "url": "https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Din Sang",
+      "url": "https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Sunshine In Atalaya",
+        "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
+      },
+      "artists": [
+        {
+          "name": "Visti's Vinyl Collective",
+          "url": "https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl"
+        },
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "duration_ms": 262071,
+      "name": "Sunshine In Atalaya",
+      "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Dopa min",
+        "url": "https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b"
+      },
+      "artists": [
+        {
+          "name": "Bette",
+          "url": "https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27"
+        }
+      ],
+      "duration_ms": 161911,
+      "name": "Dopa min",
+      "url": "https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -991,22 +995,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Sunshine In Atalaya",
-        "url": "https://open.spotify.com/album/7i2joJdXELNzwEi1dNmkC9"
+        "name": "Butterfly Street",
+        "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
       },
       "artists": [
         {
-          "name": "Visti's Vinyl Collective",
-          "url": "https://open.spotify.com/artist/6WL26DCfDfQdOeZFWtVDBl"
-        },
-        {
-          "name": "Emma Sehested H\u00f8eg",
-          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+          "name": "LILLI",
+          "url": "https://open.spotify.com/artist/4QXIOyqIXDfC6gGWfFkous"
         }
       ],
-      "duration_ms": 262071,
-      "name": "Sunshine In Atalaya",
-      "url": "https://open.spotify.com/track/10OBHEnPXKI3Bym1Fwmpe3"
+      "duration_ms": 166895,
+      "name": "Butterfly Street",
+      "url": "https://open.spotify.com/track/5G86JqNPfvJ3Fm2z2OltUZ"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1023,6 +1023,54 @@
       "duration_ms": 188408,
       "name": "ENDORFINER",
       "url": "https://open.spotify.com/track/2HvqyWJEzmr51bWogSVIb2"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Sol Gennem Regn",
+        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Sol Gennem Regn",
+      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Puff",
+        "url": "https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E"
+      },
+      "artists": [
+        {
+          "name": "Dopha",
+          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
+        }
+      ],
+      "duration_ms": 199578,
+      "name": "Puff",
+      "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "dagdr\u00f8mmer (akustisk version)",
+        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+      },
+      "artists": [
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "duration_ms": 162573,
+      "name": "l\u00e6s mig (akustisk version)",
+      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1059,34 +1107,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "dagdr\u00f8mmer (akustisk version)",
-        "url": "https://open.spotify.com/album/7f6dsDteuo24cgM9vK5RSh"
+        "name": "DIE FOR ME (JEG VIL IKKE VIDE DU FINDES)",
+        "url": "https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4"
       },
       "artists": [
         {
-          "name": "Mille",
-          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 162573,
-      "name": "l\u00e6s mig (akustisk version)",
-      "url": "https://open.spotify.com/track/3rY5dgQAki617xDHkqjEux"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Puff",
-        "url": "https://open.spotify.com/album/7Jn6iY8Vr6OsJ4AkqYd88E"
-      },
-      "artists": [
-        {
-          "name": "Dopha",
-          "url": "https://open.spotify.com/artist/7KNTK1VIkAqbjrFWGhYSwn"
-        }
-      ],
-      "duration_ms": 199578,
-      "name": "Puff",
-      "url": "https://open.spotify.com/track/3s3jW8NmP4eLUz32sGxCPa"
+      "duration_ms": 166104,
+      "name": "DIE FOR ME",
+      "url": "https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1107,66 +1139,38 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "DIE FOR ME (JEG VIL IKKE VIDE DU FINDES)",
-        "url": "https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4"
+        "name": "7\"",
+        "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
       "artists": [
         {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+          "name": "FABR\u00c4K",
+          "url": "https://open.spotify.com/artist/1EhjKyONmOvWHQuGANLcU8"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 166104,
-      "name": "DIE FOR ME",
-      "url": "https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP"
+      "duration_ms": 171000,
+      "name": "AUTOSTRADA",
+      "url": "https://open.spotify.com/track/0USF4aKnHq5vhyv2EY6Ts7"
     },
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "B\u00e6nkevarmer",
-        "url": "https://open.spotify.com/album/1XHFbdl2xxkl4cyAVyCqsd"
+        "name": "Uhh Yeah",
+        "url": "https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "FRAADS",
+          "url": "https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH"
         }
       ],
-      "duration_ms": 205238,
-      "name": "B\u00e6nkevarmer",
-      "url": "https://open.spotify.com/track/5rfWrweJSSVvC4Mg7opz8I"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "En s\u00f8d lille \u00e9n",
-        "url": "https://open.spotify.com/album/2TJgZqKPl7zCYZNwM5Ca1A"
-      },
-      "artists": [
-        {
-          "name": "Marcus.wav",
-          "url": "https://open.spotify.com/artist/2IwoU1JvxmNCdD1i69FmKr"
-        }
-      ],
-      "duration_ms": 171188,
-      "name": "Jeg ved det godt",
-      "url": "https://open.spotify.com/track/48Y0NLXdCU0FgHhqBohkSL"
+      "duration_ms": 173032,
+      "name": "Uhh Yeah",
+      "url": "https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K"
     }
   ],
   "unique_name": "ung kniv ",

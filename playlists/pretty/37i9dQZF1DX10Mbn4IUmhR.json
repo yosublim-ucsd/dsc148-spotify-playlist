@@ -1,12 +1,12 @@
 {
   "description": "The joy of Global and SA Pop. Cover: <a href=\"https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B?si=RfXZXoR0RzSOx4C5S1N8GA\">Sabrina Carpenter</a> ",
-  "num_followers": 2186,
+  "num_followers": 2193,
   "original_name": "POP JOY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtDvYAAAAADHOnIh7OFmaHRFUVO7K32v",
+  "snapshot_id": "ZtrAOAAAAABhyNDAeEpbDenM5ug+S1Ae",
   "tracks": [
     {
       "added_at": "2024-08-23 08:24:52",
@@ -23,22 +23,6 @@
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/1d7Ptw3qYcfpdLNL5REhtJ"
-    },
-    {
-      "added_at": "2024-08-23 08:24:52",
-      "album": {
-        "name": "Resting Sad Face",
-        "url": "https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO"
-      },
-      "artists": [
-        {
-          "name": "TIMMS",
-          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
-        }
-      ],
-      "duration_ms": 129158,
-      "name": "Resting Sad Face",
-      "url": "https://open.spotify.com/track/3rJZb5rwpzn83Y2GEBc5mg"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -413,6 +397,22 @@
       "url": "https://open.spotify.com/track/4ZF0783seUnzAi0lzG5Cez"
     },
     {
+      "added_at": "2024-08-23 08:24:52",
+      "album": {
+        "name": "Resting Sad Face",
+        "url": "https://open.spotify.com/album/6GkZjWmvOZhU8YcBG2tfPO"
+      },
+      "artists": [
+        {
+          "name": "TIMMS",
+          "url": "https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz"
+        }
+      ],
+      "duration_ms": 129158,
+      "name": "Resting Sad Face",
+      "url": "https://open.spotify.com/track/3rJZb5rwpzn83Y2GEBc5mg"
+    },
+    {
       "added_at": "2024-06-27 23:00:00",
       "album": {
         "name": "Move Your Way",
@@ -493,20 +493,20 @@
       "url": "https://open.spotify.com/track/3ObCyTvRHOuj3YTopNOEGW"
     },
     {
-      "added_at": "2024-08-15 22:00:00",
+      "added_at": "2024-09-06 08:41:28",
       "album": {
-        "name": "smile!",
-        "url": "https://open.spotify.com/album/2by1UAXBBav2CnDB0L7dQt"
+        "name": "Found Our Way",
+        "url": "https://open.spotify.com/album/2JCdBDNMNbS7lAmK9HvXdR"
       },
       "artists": [
         {
-          "name": "Cosmic Way",
-          "url": "https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1"
+          "name": "Mi Casa",
+          "url": "https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0"
         }
       ],
-      "duration_ms": 161684,
-      "name": "smile!",
-      "url": "https://open.spotify.com/track/4Kj6k4UL9ZONI4N3kVOueV"
+      "duration_ms": 162526,
+      "name": "Found Our Way",
+      "url": "https://open.spotify.com/track/74nKlOcMkFvXPEz7VPFmeu"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -575,6 +575,26 @@
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "added_at": "2024-09-06 08:41:28",
+      "album": {
+        "name": "Over You - with kidprod",
+        "url": "https://open.spotify.com/album/1tDUKKQVX0n7aYfuKNr2uS"
+      },
+      "artists": [
+        {
+          "name": "Helena Bowiee",
+          "url": "https://open.spotify.com/artist/7hOo6y89ZTGJFpgknBgvPY"
+        },
+        {
+          "name": "kidprod",
+          "url": "https://open.spotify.com/artist/1qWerMLMHQqUo3KzT1py3R"
+        }
+      ],
+      "duration_ms": 177235,
+      "name": "Over You - with kidprod",
+      "url": "https://open.spotify.com/track/5EaiFDJtBnLQOnseRadv3y"
     },
     {
       "added_at": "2024-06-27 23:00:00",
@@ -691,22 +711,6 @@
       "duration_ms": 172533,
       "name": "Stargazing",
       "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
-    },
-    {
-      "added_at": "2024-08-02 04:00:00",
-      "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/4Ph369TU5EESjXPfaj9B8g"
-      },
-      "artists": [
-        {
-          "name": "Ian Holmes",
-          "url": "https://open.spotify.com/artist/6qyKhLiST9fLQnRMf8MWFE"
-        }
-      ],
-      "duration_ms": 194951,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/1YeLCUj0x3IGikFcYdSRfD"
     },
     {
       "added_at": "2024-07-11 22:00:00",

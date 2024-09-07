@@ -1,12 +1,12 @@
 {
-  "description": "Summer motion en good vibes. Cover: Idaly, Ronnie Flex & Kaya Imani",
-  "num_followers": 326719,
+  "description": "Summer motion en good vibes. Cover: Dopebwoy",
+  "num_followers": 326798,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtotlwAAAADd0HvYE1YXIPl1Q7HQz4WE",
+  "snapshot_id": "ZtsEFwAAAACyXvPqciLkCqO+1VimLaKn",
   "tracks": [
     {
       "added_at": "2024-09-05 22:15:24",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-09-05 22:15:24",
       "album": {
-        "name": "Vent du Nord",
-        "url": "https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 145730,
-      "name": "Vent du Nord",
-      "url": "https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM"
-    },
-    {
-      "added_at": "2024-09-05 22:15:24",
-      "album": {
         "name": "Topless",
         "url": "https://open.spotify.com/album/5tPZ94MZUXLQKSF4m7AfQr"
       },
@@ -109,7 +93,7 @@
         },
         {
           "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/1IwfNeww1PWZVOM3yg6o10"
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
         }
       ],
       "duration_ms": 155643,
@@ -119,30 +103,22 @@
     {
       "added_at": "2024-09-05 22:15:24",
       "album": {
-        "name": "Ow Wat Lekker Zeg",
-        "url": "https://open.spotify.com/album/7D4uqOqGuBdm7gjLS6D32M"
+        "name": "Superster",
+        "url": "https://open.spotify.com/album/4BFhVJyo8DqDh9vDQM1oY5"
       },
       "artists": [
         {
-          "name": "Mensa",
-          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
-        },
-        {
-          "name": "SRNO",
-          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
+          "name": "Frsh",
+          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
         },
         {
           "name": "Young Ellens",
           "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
-        },
-        {
-          "name": "Anthony Kruijver",
-          "url": "https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Ow Wat Lekker Zeg",
-      "url": "https://open.spotify.com/track/2fdhIByUYRVcYOuTRu8U6N"
+      "duration_ms": 116129,
+      "name": "Superster",
+      "url": "https://open.spotify.com/track/48WY4FtOfNAHD4ren2zTCY"
     },
     {
       "added_at": "2024-09-05 22:15:24",
@@ -235,22 +211,30 @@
     {
       "added_at": "2024-09-05 22:15:24",
       "album": {
-        "name": "Superster",
-        "url": "https://open.spotify.com/album/4BFhVJyo8DqDh9vDQM1oY5"
+        "name": "Ow Wat Lekker Zeg",
+        "url": "https://open.spotify.com/album/7D4uqOqGuBdm7gjLS6D32M"
       },
       "artists": [
         {
-          "name": "Frsh",
-          "url": "https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN"
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        },
+        {
+          "name": "SRNO",
+          "url": "https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q"
         },
         {
           "name": "Young Ellens",
           "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Anthony Kruijver",
+          "url": "https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn"
         }
       ],
-      "duration_ms": 116129,
-      "name": "Superster",
-      "url": "https://open.spotify.com/track/48WY4FtOfNAHD4ren2zTCY"
+      "duration_ms": 157500,
+      "name": "Ow Wat Lekker Zeg",
+      "url": "https://open.spotify.com/track/2fdhIByUYRVcYOuTRu8U6N"
     },
     {
       "added_at": "2024-09-05 22:15:24",

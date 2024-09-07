@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 
 > Modern southern rock swagger served neat\. Cover: Bones Owens
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,707 likes - 81 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,726 likes - 81 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GqyyDpXu1q.md) - [plain]
 | 68 | [Takes Me Back](https://open.spotify.com/track/1e1sdcCwbJBYuNqFZs3R29) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Takes Me Back](https://open.spotify.com/album/7zkdUduq8wRQwyXusmx8HE) | 3:51 |
 | 69 | [Hot Rod Pipe Dream](https://open.spotify.com/track/6yv6AU2WtV7nH4GqgcXQIg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Hot Rod Pipe Dream](https://open.spotify.com/album/2haMU8vcx0Cv0lfeMjM951) | 3:45 |
 | 70 | [Next Week](https://open.spotify.com/track/0r54Tm572IfsTmt0qXpJQO) | [Sterling Elza](https://open.spotify.com/artist/4KKiX98Tb5MRPiPnTmPgP0) | [Simpler Days](https://open.spotify.com/album/1RNkTsTneXFwzZkiAKRnnN) | 2:53 |
-| 71 | [INSIGNIFICANT OTHER feat\. Lance Vanley & Sam Canty](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Lance Vanley](https://open.spotify.com/artist/1WmI9NFp01PHRwNp5Z4K5A), [Sam Canty](https://open.spotify.com/artist/7H8CEzmUyWOH1y07gtNNSd) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
+| 71 | [INSIGNIFICANT OTHER feat\. Sam Canty and Lance Vanley](https://open.spotify.com/track/2AbJn4gIMxEXrLg4jEbWac) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79), [Sam Canty](https://open.spotify.com/artist/7H8CEzmUyWOH1y07gtNNSd), [Lance Vanley](https://open.spotify.com/artist/1WmI9NFp01PHRwNp5Z4K5A) | [INSIGNIFICANT OTHER](https://open.spotify.com/album/1Ox3g5LLKMPhk0yqOPfv7Y) | 3:27 |
 | 72 | [Bluephoria](https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bluephoria](https://open.spotify.com/album/3RCxW8FbgIGchtUHFirzLB) | 4:32 |
 | 73 | [Don’t Know](https://open.spotify.com/track/0Al5LOGpVIq3VqFWSrAB4f) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Don’t Know](https://open.spotify.com/album/6DrqweXlKtnjyz6POV5UXX) | 2:52 |
 | 74 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |

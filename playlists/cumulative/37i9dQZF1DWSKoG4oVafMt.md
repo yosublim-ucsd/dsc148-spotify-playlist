@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Kulwinder Billa & Shivani Parihar
 
-909 songs - 2 day 1 hr 16 min
+910 songs - 2 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Chahat](https://open.spotify.com/track/71drxG2r37vAin3subT9ry) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [Chahat](https://open.spotify.com/album/0GLu2qhwJbgRIsAh2RzCAG) | 3:48 | 2022-01-28 | 2022-04-06 |
 | [Chak Mera Dil](https://open.spotify.com/track/71onVbMjqnn7k8NCFq7O98) | [Kabir](https://open.spotify.com/artist/6xB458m3PTcThjtZgXcNws), [Snipr](https://open.spotify.com/artist/5FBBHL5ycaBTQZNUjQnOtu) | [Chak Mera Dil](https://open.spotify.com/album/2Y2XrLlsxHYPCfchuHD8T2) | 2:35 | 2022-09-01 | 2022-09-09 |
 | [Chal Mere Naal](https://open.spotify.com/track/0ZFRNQH89jplIbSyeLb221) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Chal Mere Naal](https://open.spotify.com/album/0BTBJbD3vbPcOGzVaU8yVn) | 3:39 | 2022-04-21 | 2022-04-29 |
+| [Challa](https://open.spotify.com/track/34g7rnGAwjsPurAIiD3pjO) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Challa](https://open.spotify.com/album/0L1VoO79E4M0IiJbbIOc27) | 2:58 | 2024-09-06 |  |
 | [Challa](https://open.spotify.com/track/4vJ2p3DlOrxcnXv9e8rwLA) | [Harpi Gill](https://open.spotify.com/artist/2IAVxMMu1NjwNSLZ7YrXWu) | [Diamond Jatti](https://open.spotify.com/album/0U2GowEyLxUrHMuan0S4nG) | 2:31 | 2022-02-03 | 2022-02-12 |
 | [Challa](https://open.spotify.com/track/148aTrqgZEQg90n61CaAnH) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3) | [Challa](https://open.spotify.com/album/0NEs1XpHKrUBPwbiCgi6xF) | 3:38 | 2022-03-29 | 2022-04-06 |
 | [Challa \(feat\. Azaan Dil\)](https://open.spotify.com/track/2QN0B0vANRpoQdUgAM874H) | [Prabh Rai](https://open.spotify.com/artist/6BNvL3e1zBIf1YWCOVgFwb), [Azaan Dil](https://open.spotify.com/artist/3WU7z2n5UlHDkWkqQ61u6Q) | [Challa \(feat\. Azaan Dil\)](https://open.spotify.com/album/49U5ghoyFbBJ0ao5r1via2) | 2:40 | 2022-04-28 | 2022-05-11 |
@@ -302,7 +303,7 @@
 | [Ik Kudi](https://open.spotify.com/track/4dpIFUAr0byE6N4oalHTFa) | [Gippy Grewal](https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8) | [Ik Kudi](https://open.spotify.com/album/6SQaMW7xiLvL8PmGdWZIwv) | 3:24 | 2022-12-08 | 2023-02-04 |
 | [Ik Mili Mainu Apsraa](https://open.spotify.com/track/39chWL7FFnxleLCBUXquv4) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Ik Mili Mainu Apsraa](https://open.spotify.com/album/6UBOEZZXK11zsgwekmcMKa) | 4:02 | 2022-01-15 | 2022-02-01 |
 | [Ik Tera Pyar](https://open.spotify.com/track/41Osutq1zRAUAZWNFijQ4w) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [The Turbo](https://open.spotify.com/artist/2ckbykf30IHmCz6ZF9InDs), [Prince 810](https://open.spotify.com/artist/5L9ygnSgy5W0Is4m8iRTM1) | [Jadugarriya](https://open.spotify.com/album/5b09lfsnRBglWbzFFHVwuO) | 2:52 | 2024-02-06 | 2024-03-09 |
-| [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 | 2023-12-11 |  |
+| [Ik Tu Goriye](https://open.spotify.com/track/155WbOc8SuCW9ZyIh4rFI4) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Ik Tu Goriye](https://open.spotify.com/album/003fTrJAdHyNsxNLh22vsy) | 4:00 | 2023-12-11 | 2024-09-07 |
 | [Ikk Number](https://open.spotify.com/track/3IIfZy5KjNupxhlZfoPfOw) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C) | [Ikk Number](https://open.spotify.com/album/2zzVGCWpet59talzUugOaA) | 3:02 | 2023-11-07 |  |
 | [Ikk Taara Tuta \- From "P.R."](https://open.spotify.com/track/0XpQ26NbTXPyqCRRCoZ9Zp) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf), [Sabir Ali](https://open.spotify.com/artist/3tZ8wQquxUwLnS4yr7czym) | [Ikk Taara Tuta \(From "P.R."\)](https://open.spotify.com/album/3CiJDlIoqFmzcT4yaU1aTZ) | 8:29 | 2022-06-01 | 2022-07-06 |
 | [Ikko Jehe](https://open.spotify.com/track/0uG6SxCSZUgrzb5yNo2g1e) | [Sajjan Adeeb](https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON), [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Ikko Jehe](https://open.spotify.com/album/4QpYtJtoSMKRCHAWHMS9eF) | 3:11 | 2024-03-08 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa. Fuerza Regida en portada.",
+  "description": "Bienvenidx a la trampa mexa. Yng Lvcas y Codiciado en portada.",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -2180,7 +2180,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 225231,
       "name": "Enamorado",
       "url": "https://open.spotify.com/track/2IdUAUcoL8cFx1NQ2HjOzx"
@@ -3975,6 +3975,32 @@
     },
     {
       "album": {
+        "name": "Mexican trapping",
+        "url": "https://open.spotify.com/album/3j4ZBW3xQJCvpsecu3uUxM"
+      },
+      "artists": [
+        {
+          "name": "Dari Pain",
+          "url": "https://open.spotify.com/artist/3wYEEVsD1Am4grVL853QAR"
+        },
+        {
+          "name": "FLVCKKA",
+          "url": "https://open.spotify.com/artist/12fZoiFXBSs7aVMxGKQgBN"
+        },
+        {
+          "name": "Jrkv",
+          "url": "https://open.spotify.com/artist/6gtPHrlXI20tdloiCVrsMn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Mexican trapping",
+      "url": "https://open.spotify.com/track/0zBk1eQpZxYiJGVmjCuknS"
+    },
+    {
+      "album": {
         "name": "Mi Cabeza",
         "url": "https://open.spotify.com/album/2JpDPQjUAFrV7BsDQAO3HE"
       },
@@ -4072,6 +4098,28 @@
       "duration_ms": 183512,
       "name": "Mill\u00f3n",
       "url": "https://open.spotify.com/track/64WAtGEW18TZJypuDepkxe"
+    },
+    {
+      "album": {
+        "name": "Mimimi",
+        "url": "https://open.spotify.com/album/0MOXg9oBtugZseTVRFe0K0"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179778,
+      "name": "Mimimi",
+      "url": "https://open.spotify.com/track/2w5KcI3DWJDtDIYjkbgm3I"
     },
     {
       "album": {
@@ -5220,7 +5268,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 130000,
       "name": "PRIME",
       "url": "https://open.spotify.com/track/40B5xLuQP0FLWQ8po13oM0"

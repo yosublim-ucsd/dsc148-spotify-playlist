@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-716 songs - 1 day 11 hr 52 min
+718 songs - 1 day 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -478,6 +478,7 @@
 | [Overdrive \- Wave Wave VIP Mix](https://open.spotify.com/track/38zyXjO1GzRmtahMkzUMZQ) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9) | [Overdrive \(Wave Wave VIP Mix\)](https://open.spotify.com/album/1fvjeN99HxmXVkEaARXF0Y) | 2:45 | 2023-12-08 |  |
 | [Owner Of A Lonely Heart \(farfetch'd Edit\)](https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil), [farfetch'd](https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G) | [Owner Of A Lonely Heart \(farfetch'd Edit\)](https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK) | 2:32 | 2023-11-24 |  |
 | [Oxygen](https://open.spotify.com/track/4DQ5w8QsWZLECiNMV3k61j) | [Will Taylor \(UK\)](https://open.spotify.com/artist/53PVBEKRk4Fvq8w8cLydLX) | [Oxygen](https://open.spotify.com/album/3eZNKRsur7kKjYWUcCsG2x) | 3:07 | 2023-12-08 |  |
+| [P.A.R.T.Y.](https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt) | [P.A.R.T.Y.](https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD) | 2:52 | 2024-09-06 |  |
 | [Pa Lante](https://open.spotify.com/track/4BbgaqfPNjhW2gy6dSpsKG) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Ryan Arnold](https://open.spotify.com/artist/2DiJzuvmindWKRL3uBD9o7), [El Chuape](https://open.spotify.com/artist/0cXz4Jkhb32ehDe3No7oF9) | [Pa Lante](https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC) | 2:10 | 2023-02-17 | 2023-12-23 |
 | [Pa Pa Pa](https://open.spotify.com/track/7pKxbxMk9gL7hYgbeilMel) | [DEM2](https://open.spotify.com/artist/0Nbk5J4OjFoABAovNbuEzB), [Milan](https://open.spotify.com/artist/6AGhCcuaYOQ7mGBdBk6a8A) | [Pa Pa Pa](https://open.spotify.com/album/23GBINjhxufU2DtbWATeXW) | 3:27 | 2023-09-15 | 2023-12-14 |
 | [Padam Padam \- Jax Jones Remix](https://open.spotify.com/track/5HSbqwNpsP7XeQyrGIO8M2) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Padam Padam \(Jax Jones Remix\)](https://open.spotify.com/album/56MZdg3g5dvDMwC5GsxbQQ) | 3:24 | 2023-07-14 | 2023-12-14 |
@@ -528,6 +529,7 @@
 | [Reflection](https://open.spotify.com/track/2ClTrd8Yob4FclId0VyjiV) | [Havoc & Lawn](https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv) | [Reflection EP](https://open.spotify.com/album/41D6tuzkfG6LEGtrqCeVst) | 3:10 | 2023-04-03 | 2023-05-02 |
 | [Relax, Bro](https://open.spotify.com/track/61NyJsjaUxm4sbLMgc39LQ) | [C\-Ro](https://open.spotify.com/artist/6PAunVzpRKDn5xbMgkV1gh), [Don Bnnr](https://open.spotify.com/artist/0YD4K8mKJ4zeOnOpH8qdT5) | [Relax, Bro](https://open.spotify.com/album/1thhuz7aclGrDJNCsBRe7j) | 2:02 | 2024-01-19 |  |
 | [Remedy](https://open.spotify.com/track/5RK9lBKtsUbt1eLpwhdTBo) | [Voltech](https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o), [Helvig](https://open.spotify.com/artist/7EUlVK6q2GzNPHzqmnmDOS), [Sydney Jo Jackson](https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn) | [Remedy](https://open.spotify.com/album/2Qpv0vlQbBZYxWwcHQx9SB) | 3:06 | 2024-02-05 |  |
+| [Renegade Master](https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [Renegade Master](https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe) | 2:50 | 2024-09-06 |  |
 | [Rhythm Of The House](https://open.spotify.com/track/1HdE5rgE6uELjZdBavnVea) | [Manuals](https://open.spotify.com/artist/5bvEoXzMCyh9cuwQu0Tvvo), [MagiK](https://open.spotify.com/artist/4lHCGfS7hfmctzOHRZ4TZh) | [Rhythm Of The House](https://open.spotify.com/album/1tcZs1bmF6XEYGQOTYSRGG) | 3:01 | 2023-08-25 | 2023-09-26 |
 | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz](https://open.spotify.com/track/6C8xhn5SiPe7kDBM3rjawX) | [Vessbroz](https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt) | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz](https://open.spotify.com/album/5Lr5BH4c3ilG5JJ562zsRW) | 2:48 | 2023-06-08 | 2023-12-14 |
 | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz \(Hyper Techno Mix\)](https://open.spotify.com/track/3hqAbVDWMR62ylTI5LNQ98) | [Vessbroz](https://open.spotify.com/artist/7cfwpLTCScF6nchUyuwWUt) | [Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz \(Hyper Techno Mix\)](https://open.spotify.com/album/1gTdJfxsDeH1ipPmvvKXV5) | 2:06 | 2023-12-22 |  |

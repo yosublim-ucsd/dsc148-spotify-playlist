@@ -2,7 +2,7 @@
 
 ### [Casi El Paraíso](https://open.spotify.com/playlist/37i9dQZF1DX7MuRzJ3KiMb)
 
-> Fortis Fortuna Adiuvat🍷¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
+> Fortis Fortuna Adiuvat🍷 ¡Disfruta del soundtrack de la película y nos vemos en el cine el 12 de Septiembre!
 
 197 songs - 11 hr 13 min
 

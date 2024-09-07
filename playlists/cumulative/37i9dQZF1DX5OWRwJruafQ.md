@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-481 songs - 22 hr 57 min
+482 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -348,6 +348,7 @@
 | [Paggan Tedian](https://open.spotify.com/track/0cXqks1tHUuyKNixfXUT8T) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Paggan Tedian](https://open.spotify.com/album/2sgi0bfdSTCC9A1vbsr45D) | 3:02 | 2024-08-19 |  |
 | [Pakke Yaar](https://open.spotify.com/track/1Ia9jiEAJcdAqTXBnCyeB3) | [Sukh Sidhu](https://open.spotify.com/artist/3g4GfgwWnsUUutc7vcHG6H), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Pakke Yaar](https://open.spotify.com/album/75jpMbSEXL84IfGYBNTJ9e) | 2:15 | 2024-08-13 |  |
 | [Panj Satt](https://open.spotify.com/track/6eqb8wEXFn5Xnk0myqmgHY) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Sukh Lotey](https://open.spotify.com/artist/36HuUPCABTgaY4e8rgzSNG) | [Panj Satt](https://open.spotify.com/album/5YVd0ufS3Mla3KvQ7O4Xau) | 3:09 | 2023-09-26 | 2024-08-15 |
+| [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/track/34FbOiAkJr9R9cbKaQW2do) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Alamgir Khan](https://open.spotify.com/artist/0cczE6c7kfFCBQt96AV4Nt) | [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/album/4aJXFeb1uBpjiM3SS5GUD1) | 3:06 | 2024-09-06 |  |
 | [Patiala Flow](https://open.spotify.com/track/4bwM0uV1LvFtNtTL78ZgHR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Y Hate ?](https://open.spotify.com/album/7N0yvorIcp7TXTvhKSK1uQ) | 2:33 | 2024-02-15 |  |
 | [Peg](https://open.spotify.com/track/1BzaLzFeLkorzxblbTfzS0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Saroor](https://open.spotify.com/album/6Zh0nr6poc2VNhZDwNSptG) | 3:16 | 2023-06-29 |  |
 | [Pehli Vaari](https://open.spotify.com/track/6TCiIez3DSy7ZwpBQ4RWrw) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX) | [Supremacy](https://open.spotify.com/album/4isvJOYqf8qa24FykMvycD) | 3:18 | 2023-03-29 | 2023-04-15 |
@@ -433,7 +434,7 @@
 | [The Jatts](https://open.spotify.com/track/1MjEoamhGYge7UU3L6iunw) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/2D6zdA2au6SvqCkIUkXbWb) | 2:41 | 2024-04-19 |  |
 | [The Jatts](https://open.spotify.com/track/6OBlaBatU62ohkau4G9vLr) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [The Jatts](https://open.spotify.com/album/64n0oSlEC8c7bgzFjuWqFv) | 2:41 | 2024-01-17 | 2024-04-19 |
 | [The Remains](https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:47 | 2023-09-22 | 2023-10-07 |
-| [Time Hai Ni](https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Time Hai Ni](https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2) | 2:27 | 2024-08-13 |  |
+| [Time Hai Ni](https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Time Hai Ni](https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2) | 2:27 | 2024-08-13 | 2024-09-07 |
 | [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 | 2023-09-12 |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 | 2023-12-16 |

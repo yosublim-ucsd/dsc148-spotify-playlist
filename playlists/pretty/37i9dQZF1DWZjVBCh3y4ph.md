@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 
 > Les hits zouk du moment\. Photo : DJ Kawest
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,785 likes - 40 songs - 2 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,834 likes - 40 songs - 2 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 6 | [Succomber](https://open.spotify.com/track/6e0mrjKeAMZQoaEz5W7z0z) | [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC), [Magical Nrick](https://open.spotify.com/artist/57C1xJXu10Mi0X3toUb8Ig) | [Succomber](https://open.spotify.com/album/1UXhTaV1jujtX4kbwyEbMs) | 4:07 |
 | 7 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 |
 | 8 | [Hypé](https://open.spotify.com/track/0jlEtXM0sxuoSmO0adcZ3J) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Hypé](https://open.spotify.com/album/4sLU8ldibaLzZcCfbqMzU6) | 2:37 |
-| 9 | [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 |
-| 10 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 |
+| 9 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 |
+| 10 | [CALAPA](https://open.spotify.com/track/04RY19wQZBihs8GHeqdfm1) | [Says'z](https://open.spotify.com/artist/2vCOfKQ7WFyWmuHbTz7OgG) | [CALAPA](https://open.spotify.com/album/5PPdlRbH30MJuuorifzerT) | 2:31 |
 | 11 | [Cadence](https://open.spotify.com/track/7daLLAjcnSMOuBxj90I4Xj) | [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl), [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM) | [Cadence](https://open.spotify.com/album/7tCKwfGFApI7wehGLwNsX4) | 3:07 |
 | 12 | [Jusqu'au bout du monde](https://open.spotify.com/track/5OCjtxa5T8soJUDbWNpFQV) | [MARVIN](https://open.spotify.com/artist/2TltjHpjaHa8yep3KpIIWq), [LÉA CHURROS](https://open.spotify.com/artist/1wroQVdy6a6jempVrScxJC) | [Jusqu'au bout du monde](https://open.spotify.com/album/3tsXYeNP7p45Nf9DCHWMLc) | 3:33 |
 | 13 | [POUR TOI](https://open.spotify.com/track/37vFjnnKrdm07M4sjEWyyr) | [Barth](https://open.spotify.com/artist/3EOmhPYfT8BhZEy3Vdfhno) | [POUR TOI](https://open.spotify.com/album/1yCFNhAeny1C006YsfPuQu) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjVBCh3y4ph.md) - [plain]
 | 39 | [Elle a dit oui](https://open.spotify.com/track/2ze27cIt328xJ4GmbduLWD) | [Dasha](https://open.spotify.com/artist/4Sax4M4m7npP5miYc4T8vd) | [Elle a dit oui](https://open.spotify.com/album/7JHfYRMqgopUq7VA9qiRX7) | 3:52 |
 | 40 | [Falling in love](https://open.spotify.com/track/4m7ePEyngbSrbIlS2M10hb) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [Elji](https://open.spotify.com/artist/6RwdeEwhjswv5OxNK5Dq0s) | [Falling in love](https://open.spotify.com/album/0WY7AA39ZJhXcFyOdnZufk) | 3:22 |
 
-Snapshot ID: `Ztop4AAAAADFeC5T14/PYY93OG+VMbrk`
+Snapshot ID: `ZtrNqAAAAABN0GWQHk+Hkeg52De4p+l/`

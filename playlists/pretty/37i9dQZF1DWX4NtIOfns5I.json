@@ -1,13 +1,77 @@
 {
-  "description": "where folk flowers bloom \ud83c\udf43 cover: Paris Paloma",
-  "num_followers": 114636,
+  "description": "where folk flowers bloom \ud83c\udf43 cover: Amy Allen",
+  "num_followers": 114783,
   "original_name": "juniper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtcOCQAAAACePgYGq2Z1zZtWVPRcYPUU",
+  "snapshot_id": "Ztp+QAAAAACsk10tJ477IIL/91uP3FUX",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "2008",
+        "url": "https://open.spotify.com/album/5KC7HD8Zt9kF088rA3SLl4"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 153637,
+      "name": "2008",
+      "url": "https://open.spotify.com/track/6P9k0dC9CP1g4ZlSzQn90M"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Molly, I\u2019m Coming Around",
+        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
+      },
+      "artists": [
+        {
+          "name": "Annika Bennett",
+          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
+        }
+      ],
+      "duration_ms": 161519,
+      "name": "Molly, I'm Coming Around",
+      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "amy allen",
+        "url": "https://open.spotify.com/album/2ZMnjyTPQdQAgVBoSZlrXb"
+      },
+      "artists": [
+        {
+          "name": "Amy Allen",
+          "url": "https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x"
+        }
+      ],
+      "duration_ms": 164065,
+      "name": "reason to forgive",
+      "url": "https://open.spotify.com/track/37WikNaTXg1WdspSS5oHkI"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Masterpiece (2023 Remaster)",
+        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "duration_ms": 155938,
+      "name": "Velvet Ring - 2023 Remaster",
+      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
+    },
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
@@ -61,38 +125,6 @@
       "url": "https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp"
     },
     {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Masterpiece (2023 Remaster)",
-        "url": "https://open.spotify.com/album/3dtiO2Vs4YZQOFCOCDgtxL"
-      },
-      "artists": [
-        {
-          "name": "Big Thief",
-          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
-        }
-      ],
-      "duration_ms": 155938,
-      "name": "Velvet Ring - 2023 Remaster",
-      "url": "https://open.spotify.com/track/3oBNQdDbNrs8wQbcZ3BXwP"
-    },
-    {
-      "added_at": "2024-09-03 13:24:25",
-      "album": {
-        "name": "Fruit For Flies",
-        "url": "https://open.spotify.com/album/09XjI8xRCkYwwQouWsarak"
-      },
-      "artists": [
-        {
-          "name": "The Army, The Navy",
-          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
-        }
-      ],
-      "duration_ms": 169016,
-      "name": "Persimmon",
-      "url": "https://open.spotify.com/track/5k4k6yqihuv3mcgXzDISKQ"
-    },
-    {
       "added_at": "2024-08-09 04:00:00",
       "album": {
         "name": "Shawn",
@@ -139,6 +171,22 @@
       "duration_ms": 211978,
       "name": "Sailor Song",
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "juliet",
+        "url": "https://open.spotify.com/album/3bO8aWJrQzvUZE4kaAvaWh"
+      },
+      "artists": [
+        {
+          "name": "Keni Titus",
+          "url": "https://open.spotify.com/artist/3TCkIp7RQLM4MzP5q9iyzj"
+        }
+      ],
+      "duration_ms": 169840,
+      "name": "feels like i'm changing",
+      "url": "https://open.spotify.com/track/61urfuiBZq0LfgfdZxFb05"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -257,22 +305,6 @@
       "url": "https://open.spotify.com/track/2ADlSEarDUKjsnuMMPgnak"
     },
     {
-      "added_at": "2024-08-01 04:00:00",
-      "album": {
-        "name": "folklore",
-        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261922,
-      "name": "august",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
-    },
-    {
       "added_at": "2024-08-26 14:30:05",
       "album": {
         "name": "Dreamer",
@@ -383,6 +415,22 @@
       "duration_ms": 298864,
       "name": "Never, No Not Once",
       "url": "https://open.spotify.com/track/0L3RnOmyfM0MrrzNbmWZ25"
+    },
+    {
+      "added_at": "2024-09-03 13:24:25",
+      "album": {
+        "name": "Fruit For Flies",
+        "url": "https://open.spotify.com/album/09XjI8xRCkYwwQouWsarak"
+      },
+      "artists": [
+        {
+          "name": "The Army, The Navy",
+          "url": "https://open.spotify.com/artist/4MAnvDgzeM6bAVUVUbUeFI"
+        }
+      ],
+      "duration_ms": 169016,
+      "name": "Persimmon",
+      "url": "https://open.spotify.com/track/5k4k6yqihuv3mcgXzDISKQ"
     },
     {
       "added_at": "2024-07-19 04:00:00",
@@ -497,22 +545,6 @@
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Haunt Me",
-        "url": "https://open.spotify.com/album/2o5SW9AVHK02aGpjrpJSec"
-      },
-      "artists": [
-        {
-          "name": "Ezra Glatt",
-          "url": "https://open.spotify.com/artist/1q5vdeaANN9uxk1na1WXek"
-        }
-      ],
-      "duration_ms": 97839,
-      "name": "Haunt Me",
-      "url": "https://open.spotify.com/track/6CaXh3j2dY8c1fMgxPcTkF"
-    },
-    {
       "added_at": "2024-07-12 04:00:00",
       "album": {
         "name": "call my name",
@@ -559,22 +591,6 @@
       "duration_ms": 270934,
       "name": "the warmth",
       "url": "https://open.spotify.com/track/1xoSXJSDif51wZ2USZusbe"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "i might say something stupid",
-        "url": "https://open.spotify.com/album/0yvFjxPgRhW3prA2IFYEon"
-      },
-      "artists": [
-        {
-          "name": "LOVELOVELOVE",
-          "url": "https://open.spotify.com/artist/71AkKjNLAa2eGpswzxbdM6"
-        }
-      ],
-      "duration_ms": 145185,
-      "name": "i might say something stupid",
-      "url": "https://open.spotify.com/track/34fnaIGoQq0j9iflnSEoaL"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -783,22 +799,6 @@
       "duration_ms": 206464,
       "name": "Electric Lizard",
       "url": "https://open.spotify.com/track/2vctZ5ZX7cRMFGjcZzwWcK"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Irish Goodbye",
-        "url": "https://open.spotify.com/album/0YdG7xCYQSk8nvVQi0MgQG"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 139413,
-      "name": "Irish Goodbye",
-      "url": "https://open.spotify.com/track/7ERPDzFA20PGO1KEyXAM0K"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 192923,
       "name": "Deer Trails",
       "url": "https://open.spotify.com/track/3RxaSwZCpxIGPkYFDRGavH"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 191413,
-      "name": "Cardinal",
-      "url": "https://open.spotify.com/track/2rLq6QIfooAKsF8UZuoLsS"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1199,22 +1167,6 @@
       "duration_ms": 185975,
       "name": "The Favorite",
       "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Stick Season (Forever)",
-        "url": "https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 268353,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm"
     },
     {
       "added_at": "2024-07-12 04:00:00",

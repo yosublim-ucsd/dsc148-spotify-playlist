@@ -304,7 +304,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 236124,
       "name": "Alcyone",
       "url": "https://open.spotify.com/track/26DkvMBCB3RouU5R8psVXY"
@@ -430,7 +430,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-20",
+      "date_removed": null,
       "duration_ms": 142004,
       "name": "Annalkande",
       "url": "https://open.spotify.com/track/04tTNqaqZ9hmF8fVm2MgxQ"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 146966,
       "name": "Another Galaxy",
       "url": "https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W"
@@ -1424,7 +1424,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 193636,
       "name": "Collide",
       "url": "https://open.spotify.com/track/2QrdvFIYMJtrAOXYaQi4vZ"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 144166,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/7dE78NM9rSNYkRWkj66QNT"
@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 155777,
       "name": "C\u00edes",
       "url": "https://open.spotify.com/track/1JuU4qEEZgSZbXotwMRpQF"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 168000,
       "name": "Emotions",
       "url": "https://open.spotify.com/track/796V9eHMoj2rmZnVuxWly8"
@@ -2210,7 +2210,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-10",
+      "date_removed": null,
       "duration_ms": 226250,
       "name": "Enlightened",
       "url": "https://open.spotify.com/track/2eOzs9ioq2suHpRsZgY0IF"
@@ -2354,7 +2354,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 124814,
       "name": "Ethereal Sleep",
       "url": "https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5"
@@ -2718,7 +2718,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 125715,
       "name": "friendship",
       "url": "https://open.spotify.com/track/46FHTWfIlwJmV1hz30FgAx"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 144025,
       "name": "Gratitude Frequency",
       "url": "https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO"
@@ -3006,7 +3006,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 163361,
       "name": "Hati",
       "url": "https://open.spotify.com/track/6R3OaZqWKiDIhTR5mvUazQ"
@@ -3175,6 +3175,24 @@
     },
     {
       "album": {
+        "name": "Iben",
+        "url": "https://open.spotify.com/album/0JyIJFoBnPGfaFeFot2lKh"
+      },
+      "artists": [
+        {
+          "name": "Alceaa",
+          "url": "https://open.spotify.com/artist/71JgVn3axQPk95UOrfq7vo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205432,
+      "name": "Iben",
+      "url": "https://open.spotify.com/track/7MyHojMyX1FVBbpXbtbOlE"
+    },
+    {
+      "album": {
         "name": "Idyllical",
         "url": "https://open.spotify.com/album/3JcxvzCmYNp0ts3MmQcgS9"
       },
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-30",
+      "date_removed": null,
       "duration_ms": 127614,
       "name": "Inner Nebula",
       "url": "https://open.spotify.com/track/46qoXJqr0QHFTHftO02FNT"
@@ -3604,7 +3622,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-23",
+      "date_removed": null,
       "duration_ms": 180500,
       "name": "Kadunud Taevasse",
       "url": "https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU"
@@ -3820,7 +3838,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-12",
+      "date_removed": null,
       "duration_ms": 176000,
       "name": "Life Seeds",
       "url": "https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin"
@@ -4616,7 +4634,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 187200,
       "name": "Oasis of Stillness",
       "url": "https://open.spotify.com/track/1CPN7WGamNNxLhZTJVlW89"
@@ -5466,7 +5484,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 124241,
       "name": "Sedang Tidur",
       "url": "https://open.spotify.com/track/3xLHdlKxeLiEqWy7BdYYze"
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 139643,
       "name": "Serene Clarity",
       "url": "https://open.spotify.com/track/0eZzQlr30pDYx9us8zfVx5"
@@ -5628,7 +5646,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 177875,
       "name": "Shapes of Solitude",
       "url": "https://open.spotify.com/track/679ajBE0hA1KXeV4ksYifn"
@@ -5970,7 +5988,7 @@
       ],
       "date_added": "2022-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-04",
+      "date_removed": null,
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"
@@ -6402,7 +6420,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 190777,
       "name": "Tillsammans",
       "url": "https://open.spotify.com/track/3JsmfKDKcKjuQXxyTynOl5"

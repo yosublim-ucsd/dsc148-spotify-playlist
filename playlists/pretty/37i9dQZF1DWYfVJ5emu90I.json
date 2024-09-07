@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 19367,
+  "num_followers": 19370,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
+        "name": "Swervin",
+        "url": "https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9"
+      },
+      "artists": [
+        {
+          "name": "Bonbero",
+          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
+        }
+      ],
+      "duration_ms": 171799,
+      "name": "Swervin",
+      "url": "https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt"
+    },
+    {
+      "added_at": "2024-09-04 06:02:26",
+      "album": {
         "name": "NEW REAL",
         "url": "https://open.spotify.com/album/5yXjW5J8B1OhqbOVFWQHdt"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 195375,
       "name": "NEW REAL",
       "url": "https://open.spotify.com/track/5ttpHK1EfoHGkz9c7ggnT5"
-    },
-    {
-      "added_at": "2024-09-04 06:02:26",
-      "album": {
-        "name": "Swervin",
-        "url": "https://open.spotify.com/album/3lnRrmdoFss71XpNS5j6d9"
-      },
-      "artists": [
-        {
-          "name": "Bonbero",
-          "url": "https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM"
-        }
-      ],
-      "duration_ms": 171799,
-      "name": "Swervin",
-      "url": "https://open.spotify.com/track/1qveERsaCbg1nvPfvnPsyt"
     },
     {
       "added_at": "2024-09-04 06:02:26",
@@ -663,18 +663,30 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
-        "name": "busy",
-        "url": "https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I"
+        "name": "\u3076\u3063\u751f\u304d\u8fd4\u3059",
+        "url": "https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV"
       },
       "artists": [
         {
-          "name": "BIM",
-          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
+          "name": "\u591c\u732b\u65cf",
+          "url": "https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ"
+        },
+        {
+          "name": "XakiMichele",
+          "url": "https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl"
+        },
+        {
+          "name": "tip jam",
+          "url": "https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe"
+        },
+        {
+          "name": "Tade Dust",
+          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
         }
       ],
-      "duration_ms": 145928,
-      "name": "KASSARAINA",
-      "url": "https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO"
+      "duration_ms": 169500,
+      "name": "\u3076\u3063\u751f\u304d\u8fd4\u3059",
+      "url": "https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS"
     },
     {
       "added_at": "2024-09-04 06:02:26",
@@ -703,30 +715,18 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
-        "name": "\u3076\u3063\u751f\u304d\u8fd4\u3059",
-        "url": "https://open.spotify.com/album/3K1EI1TiKSHcTCEHKiv4RV"
+        "name": "busy",
+        "url": "https://open.spotify.com/album/2Ot6hGHgIvzuoKRE1CEp0I"
       },
       "artists": [
         {
-          "name": "\u591c\u732b\u65cf",
-          "url": "https://open.spotify.com/artist/0cXfVqFUDlUCSKJ7e1wfYJ"
-        },
-        {
-          "name": "XakiMichele",
-          "url": "https://open.spotify.com/artist/0besGoEYPqYySQsScpUqVl"
-        },
-        {
-          "name": "tip jam",
-          "url": "https://open.spotify.com/artist/2ZEpXsofiBwEhDv21FAqEe"
-        },
-        {
-          "name": "Tade Dust",
-          "url": "https://open.spotify.com/artist/5IECecf5uGto7A00WNAkD9"
+          "name": "BIM",
+          "url": "https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG"
         }
       ],
-      "duration_ms": 169500,
-      "name": "\u3076\u3063\u751f\u304d\u8fd4\u3059",
-      "url": "https://open.spotify.com/track/0AGcDWKAaClin5VepgC5NS"
+      "duration_ms": 145928,
+      "name": "KASSARAINA",
+      "url": "https://open.spotify.com/track/0qksS781ZwciYDbiCt0WjO"
     },
     {
       "added_at": "2024-09-04 06:02:26",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
+        "name": "Gotta go",
+        "url": "https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8\u00d8",
+          "url": "https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl"
+        },
+        {
+          "name": "Jinmenusagi",
+          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+        }
+      ],
+      "duration_ms": 157168,
+      "name": "Gotta go",
+      "url": "https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt"
+    },
+    {
+      "added_at": "2024-09-04 06:02:26",
+      "album": {
         "name": "Villains feat. edhiii boi, Novel Core",
         "url": "https://open.spotify.com/album/6pXnLmJflQeP30lfRI8l4m"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 197746,
       "name": "Villains feat. edhiii boi, Novel Core",
       "url": "https://open.spotify.com/track/3V6nT2ZCLxT5pvOsaFQxez"
-    },
-    {
-      "added_at": "2024-09-04 06:02:26",
-      "album": {
-        "name": "Gotta go",
-        "url": "https://open.spotify.com/album/3kyZM8PgjFDdOADYeT1aGJ"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8\u00d8",
-          "url": "https://open.spotify.com/artist/1Z11WA68F90uo1fCYA16Yl"
-        },
-        {
-          "name": "Jinmenusagi",
-          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
-        }
-      ],
-      "duration_ms": 157168,
-      "name": "Gotta go",
-      "url": "https://open.spotify.com/track/4dvAGWWCRj44F1vk6ohEQt"
     },
     {
       "added_at": "2024-09-04 06:02:26",
@@ -927,22 +927,22 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
-        "name": "MIYAKO",
-        "url": "https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn"
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q"
       },
       "artists": [
         {
-          "name": "Jinmenusagi",
-          "url": "https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE"
+          "name": "Hideyoshi",
+          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
         },
         {
-          "name": "DIOR",
-          "url": "https://open.spotify.com/artist/47qicPj8hHGA7L1kg5bO4u"
+          "name": "Benjazzy",
+          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
         }
       ],
-      "duration_ms": 148973,
-      "name": "MIYAKO",
-      "url": "https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut"
+      "duration_ms": 205628,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
     },
     {
       "added_at": "2024-09-04 06:02:26",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-09-04 06:02:26",
       "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/4vecEKI94F7T7mldPgdq6q"
-      },
-      "artists": [
-        {
-          "name": "Hideyoshi",
-          "url": "https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7"
-        },
-        {
-          "name": "Benjazzy",
-          "url": "https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb"
-        }
-      ],
-      "duration_ms": 205628,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/0IWdo0wOFJ8eZkWVyvO0k2"
-    },
-    {
-      "added_at": "2024-09-04 06:02:26",
-      "album": {
         "name": "BRAIN RUSH",
         "url": "https://open.spotify.com/album/7mL8jpozxu6trsgcNC76jW"
       },
@@ -1023,6 +1003,38 @@
       "duration_ms": 207463,
       "name": "FEEL THE RAIN",
       "url": "https://open.spotify.com/track/6ZB93YnsCgJjfxQ6cCwVhS"
+    },
+    {
+      "added_at": "2024-09-04 06:02:26",
+      "album": {
+        "name": "Best Way 2 Die",
+        "url": "https://open.spotify.com/album/0IPHOMKradmfeCU67d5pSZ"
+      },
+      "artists": [
+        {
+          "name": "DJ CHARI",
+          "url": "https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p"
+        },
+        {
+          "name": "DJ TATSUKI",
+          "url": "https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5"
+        },
+        {
+          "name": "Jin Dogg",
+          "url": "https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK"
+        },
+        {
+          "name": "LEX",
+          "url": "https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF"
+        },
+        {
+          "name": "YOUNGBONG",
+          "url": "https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1"
+        }
+      ],
+      "duration_ms": 214602,
+      "name": "Best Way 2 Die",
+      "url": "https://open.spotify.com/track/1ZLqz5HjWXvx5Tjq8z8DZB"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

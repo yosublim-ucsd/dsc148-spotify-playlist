@@ -4,7 +4,7 @@
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-246 songs - 14 hr 55 min
+247 songs - 14 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [Negão Negra](https://open.spotify.com/track/21C2FVAKx5JqWT6ta3rEIF) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Renegado](https://open.spotify.com/artist/1ZiH9dJVo1p8NrvJd7SL7f) | [Negão Negra](https://open.spotify.com/album/7zAaQDWDo7ygq9vqoojQQc) | 3:06 | 2022-02-04 | 2022-07-19 |
 | [Nem um Pio](https://open.spotify.com/track/16F0NsbQaN13csQqlRuv8A) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Joander Cruz](https://open.spotify.com/artist/2SR3AdtfMykYGLzSlRmhKg) | [Nem Um Pio](https://open.spotify.com/album/0ZkaQjyRSEEtIFYoWRSOPE) | 3:27 | 2022-03-22 | 2022-06-21 |
 | [No Stress](https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3) | [Lamparina](https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z) | [ZAM ZAM](https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6) | 3:32 | 2022-02-04 |  |
-| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 |  |
+| [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 | 2022-07-04 | 2024-09-07 |
 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 | 2022-11-09 |  |
 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 | 2022-02-04 | 2022-07-29 |
 | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/track/07PlqC9FOWlcU3hRH71mcN) | [Brother Charlie](https://open.spotify.com/artist/0MWuoNor5gFicQlufcYvae), [Bom Gosto](https://open.spotify.com/artist/4SaxUo7mfdHBowU0llwxFd) | [Nóis Dois Coladin \(feat\. Bom Gosto\)](https://open.spotify.com/album/0OzhhZBHBNCkjnjh2lkIqC) | 3:08 | 2022-02-04 | 2022-07-25 |
@@ -221,6 +221,7 @@
 | [SIGNOS](https://open.spotify.com/track/7FKxm21YtCTJpDYSFdcpwH) | [HODARI](https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67) | [SIGNOS](https://open.spotify.com/album/6pkIJadkp2QVwqNGqwF7u4) | 3:03 | 2022-03-22 | 2022-07-26 |
 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 | 2022-02-04 |  |
 | [Soprou](https://open.spotify.com/track/3XOeVijHjhP33Avx55BEgK) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Cinco](https://open.spotify.com/album/6DqXBagxY611pulprabgLw) | 5:02 | 2022-02-04 |  |
+| [Sos](https://open.spotify.com/track/0EwkDFJhV8AyA8GxZQlSaE) | [João Bragança](https://open.spotify.com/artist/5rPBZBLffKhkIY4o0dGOry) | [Fim,](https://open.spotify.com/album/13FYpAYfMYHbOtIl4D3Nah) | 3:19 | 2024-08-23 |  |
 | [Soul Black \#1 \- Penso Toda Hora](https://open.spotify.com/track/7j325IJcvLqi1yjfVC3lNq) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Soul Black \#1 \- Penso Toda Hora](https://open.spotify.com/album/7e71qiZA51XeKtVcltqP6n) | 2:43 | 2022-03-14 | 2022-07-24 |
 | [Sublime](https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [A Pele do Futuro](https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco) | 4:43 | 2022-03-22 | 2024-08-23 |
 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 | 2022-02-04 |  |

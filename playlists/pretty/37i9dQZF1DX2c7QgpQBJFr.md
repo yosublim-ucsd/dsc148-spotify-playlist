@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > Gli astri nascenti del pop italiano 🔮 Cover: STE, Shablo
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,735 likes - 60 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,736 likes - 60 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ILY](https://open.spotify.com/track/4Q9iyOwqC84ubSLLLU5iNh) | [Ditonellapiaga](https://open.spotify.com/artist/7HtzacrJpksCiS6qHypb8l) | [ILY](https://open.spotify.com/album/1162FKlfeImaKaOiQVgvMs) | 2:50 |
 | 2 | [Menomale che c'è il mare](https://open.spotify.com/track/5pYy054Wcuj9CFdDIxZSVU) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Gira, il mondo gira](https://open.spotify.com/album/5PdqPLG4hUzuLAWUDFaZap) | 2:53 |
-| 3 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 |
-| 4 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
-| 5 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 |
-| 6 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 |
-| 7 | [Disordine](https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Disordine](https://open.spotify.com/album/4o1Cd9vI7ldENywT64aEIz) | 2:58 |
-| 8 | [Domenica](https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Domenica](https://open.spotify.com/album/6xb78BWMqDFmDntV0jcVP6) | 3:08 |
-| 9 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
+| 3 | [Lose Control](https://open.spotify.com/track/2fwXfj7GBR93VZzSkbsBz9) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy) | [Lose Control](https://open.spotify.com/album/02yYEogWL6PjEAsraWFj91) | 4:20 |
+| 4 | [Piramidi](https://open.spotify.com/track/3sxc1l4kbAdHRQQeOC7PQj) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Piramidi](https://open.spotify.com/album/0rUoe7hmJhdMutnxyM8Q8X) | 3:12 |
+| 5 | [Quasi a casa](https://open.spotify.com/track/5kzB90XlmjURvXJXLDwtjX) | [Coca Puma](https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc) | [Quasi A Casa \- Original Motion Picture Soundtrack](https://open.spotify.com/album/2lgLRSgU1jxeZVBIyGpGi5) | 5:09 |
+| 6 | [Sale](https://open.spotify.com/track/7wB5UV6fjJQ8c1MCZvDZUp) | [röa](https://open.spotify.com/artist/7AbFFBAlwG0g0poTyTc8ER) | [Sale](https://open.spotify.com/album/3ZhujgOVWlxkPbxQal8Eul) | 2:28 |
+| 7 | [AH \) AH \)](https://open.spotify.com/track/7D9m1E6i0uidnxxBRZtcKg) | [Memento](https://open.spotify.com/artist/0aLqxZ1Hht4j1C66IZ57oR) | [AH \) AH \)](https://open.spotify.com/album/50uqyqDEauW3Efn9tNU2bt) | 2:44 |
+| 8 | [Disordine](https://open.spotify.com/track/3fiSGrRKR0nAhAnLhDvyPR) | [gIANMARIA](https://open.spotify.com/artist/3lxINiPO2Mtk6VqtUSd5t1) | [Disordine](https://open.spotify.com/album/4o1Cd9vI7ldENywT64aEIz) | 2:58 |
+| 9 | [Domenica](https://open.spotify.com/track/2IaXi5bRMIyrYfEC5uMovb) | [Enula](https://open.spotify.com/artist/31NYlMTjh7MnQW9TPHL8pR) | [Domenica](https://open.spotify.com/album/6xb78BWMqDFmDntV0jcVP6) | 3:08 |
 | 10 | [NON SI SENTE](https://open.spotify.com/track/7bfDgo8dpXlknY1oY6qrEE) | [Goza](https://open.spotify.com/artist/2kAd5sdqOUhnVjITFJE630) | [NON SI SENTE](https://open.spotify.com/album/3QvauRgBRj2n803UBuOEGq) | 2:52 |
 | 11 | [NO STRESS](https://open.spotify.com/track/4RnH661Lvlf1nZg6jy92WO) | [MATILDE](https://open.spotify.com/artist/3fefLfPrUjeLE1EVbVCdtJ) | [NO STRESS](https://open.spotify.com/album/3DS6IS3XMxIpiLnuheq6nq) | 2:28 |
 | 12 | [HO SMESSO DI PIANGERE](https://open.spotify.com/track/5hqWKyWU0J5DGhAgvNMMTp) | [PARIDE](https://open.spotify.com/artist/738jSDDsbX4Ge4Xa1lSN9F), [Kr1](https://open.spotify.com/artist/4vsRoPHf54OF5D85j8jKej) | [HO SMESSO DI PIANGERE](https://open.spotify.com/album/3BCIfL4HaWt6NwuYce1RSb) | 3:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 59 | [Amore fai presto!](https://open.spotify.com/track/0MFwAbakcyf587x7evQW9i) | [marzo](https://open.spotify.com/artist/20LOUqAbkWCYwND5CarWCR) | [Amore fai presto!](https://open.spotify.com/album/3pETZo1uiS3FmziALnV9ei) | 2:47 |
 | 60 | [Una come te](https://open.spotify.com/track/1lSMWsYGwTa17qJzvCqB3C) | [Teseghella](https://open.spotify.com/artist/7iJcABhFmM1ZgpG24dHK7D) | [Una come te](https://open.spotify.com/album/2WBl8ncquaQ5OrnnMkbvUK) | 2:42 |
 
-Snapshot ID: `ZtoqHAAAAAAbf6S0fC9KR7YdrGJVzovE`
+Snapshot ID: `ZtrfVgAAAAC99FituT6fnrdPvPanDv2E`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,546 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,567 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 14 | [Alles Voor Je Doen](https://open.spotify.com/track/3JDZS5jO6LdVjm8OSDSbaj) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Alles Voor Je Doen](https://open.spotify.com/album/4jktsTmLRgsMDn2DvCn4wZ) | 2:42 |
 | 15 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [Luna](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
 | 16 | [Vermomd Entree](https://open.spotify.com/track/51e5V3nePEUAY1DEThZg42) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Vermomd Entree](https://open.spotify.com/album/5LnXf4Aq2EqvFcTHTxu83y) | 2:51 |
-| 17 | [Heel Misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
+| 17 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
 | 18 | [Alsof ik jou ben](https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Alsof ik jou ben](https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6) | 3:05 |
 | 19 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 |
 | 20 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 |
 | 21 | [Even Tussen Ons](https://open.spotify.com/track/7isWCoenO2e3HudiE4nq0g) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Even Tussen Ons](https://open.spotify.com/album/3PfvwKwsNzN7p4PxC5xaNJ) | 2:34 |
-| 22 | [De Tijd Leert](https://open.spotify.com/track/74OjEBp07dz5BRT3JuzeJk) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Rigt Perez De Groot](https://open.spotify.com/artist/6cecTr6tcSNrtOZt6D4RBU) | [De Tijd Leert](https://open.spotify.com/album/4hyW9xPpBTqTQFuWK1ZQAE) | 2:59 |
+| 22 | [De Tijd Leert](https://open.spotify.com/track/74OjEBp07dz5BRT3JuzeJk) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Rigt](https://open.spotify.com/artist/1m8rUNNjpB8dvKUUxY4uw2) | [De Tijd Leert](https://open.spotify.com/album/4hyW9xPpBTqTQFuWK1ZQAE) | 2:59 |
 | 23 | [Onder Invloed](https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Onder Invloed](https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq) | 2:44 |
 | 24 | [Wonen In Het Westen](https://open.spotify.com/track/0tMLH7zuBzXuZpMaGf6AEb) | [geosy](https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5) | [Wonen In Het Westen](https://open.spotify.com/album/6liHWTI5hfZRhpg1FXTOxr) | 3:03 |
 | 25 | [Romeo \(feat\. Gers Pardoel\)](https://open.spotify.com/track/1Yfr7NXWvF2mqHuakPcQ4l) | [Ian Thomas](https://open.spotify.com/artist/0z4w0e7EPjD6Mxi1jPPIiu), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN) | [Romeo \(feat\. Gers Pardoel\)](https://open.spotify.com/album/4ARhW7Kx0VJzosH7dHQAy7) | 2:16 |

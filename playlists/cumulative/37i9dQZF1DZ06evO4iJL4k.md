@@ -4,7 +4,7 @@
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-87 songs - 5 hr 54 min
+88 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Dentro de Você / A Libertina \- Ao Vivo](https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 2:28 | 2023-12-19 |  |
 | [Desenho](https://open.spotify.com/track/0kYVyrvBGm9PhHmOnLjrDG) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Desenho](https://open.spotify.com/album/404WYMX0T42RBpdx3HuN3q) | 3:45 | 2024-03-15 | 2024-05-20 |
 | [Deus Perdoa](https://open.spotify.com/track/4tuFNhM69UakXdPg4RrNvp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Deus Perdoa](https://open.spotify.com/album/0qruvxQou6I8A0fmUiMsFv) | 2:17 | 2023-09-21 |  |
-| [Distante](https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Distante](https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7) | 2:52 | 2024-03-09 |  |
+| [Distante](https://open.spotify.com/track/3oR2ZPo9Y6Loo0Lr0Ur6CJ) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/29BE8XW1c7IjLGXh1fvBoO) | 2:52 | 2024-09-07 |  |
+| [Distante](https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Distante](https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7) | 2:52 | 2024-03-09 | 2024-09-07 |
 | [Dutumob](https://open.spotify.com/track/048DxjBJekj6Ipk7OxtkF5) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:54 | 2024-04-26 |  |
 | [Dutumob](https://open.spotify.com/track/57qFXE8nd2rJN2HUHOhkZ3) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 3:54 | 2023-09-21 | 2024-04-26 |
 | [Estilo Livre](https://open.spotify.com/track/0tWUelr0BaZW5m3cpClPRL) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Daniel Shadow](https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:16 | 2023-12-13 | 2023-12-17 |

@@ -296,7 +296,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 517177,
       "name": "Advertencia",
       "url": "https://open.spotify.com/track/2BuAonkolCAAwvhimP6Il0"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 154838,
       "name": "Anubis",
       "url": "https://open.spotify.com/track/70hcdvzzV9oDPnGEzkgqVw"
@@ -2609,6 +2609,28 @@
     },
     {
       "album": {
+        "name": "Edad media",
+        "url": "https://open.spotify.com/album/3Sp4IY5jqLvmfPW5W5E7nC"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        },
+        {
+          "name": "Trafikante de Almas",
+          "url": "https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197934,
+      "name": "Edad media",
+      "url": "https://open.spotify.com/track/4MAcdiljJGgdhmMeRFQxi3"
+    },
+    {
+      "album": {
         "name": "EFECTO DOMIN\u00d3",
         "url": "https://open.spotify.com/album/3JJ6MDk8nBSkTGUthfh3ZI"
       },
@@ -3625,6 +3647,24 @@
     },
     {
       "album": {
+        "name": "Inmunes",
+        "url": "https://open.spotify.com/album/6Vl5bOOXjpp6mAFV5uNgrU"
+      },
+      "artists": [
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194831,
+      "name": "Inmunes",
+      "url": "https://open.spotify.com/track/0E2yWzaUT7zoVuZ9QruWao"
+    },
+    {
+      "album": {
         "name": "Intraterreno",
         "url": "https://open.spotify.com/album/5ozLNE6qkjZGJ5Inf54tX5"
       },
@@ -3640,6 +3680,28 @@
       "duration_ms": 234428,
       "name": "Intraterreno",
       "url": "https://open.spotify.com/track/5bcrz9x6c3NfiZlvQNlzzW"
+    },
+    {
+      "album": {
+        "name": "It's Okey",
+        "url": "https://open.spotify.com/album/7yVIAI3xrAKRAVqBzLaie9"
+      },
+      "artists": [
+        {
+          "name": "VIEF",
+          "url": "https://open.spotify.com/artist/7vsIogMvyeyiquvpwCONUH"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "It's Okey",
+      "url": "https://open.spotify.com/track/36rM8dZ3wc7PS9rrLzmHWn"
     },
     {
       "album": {
@@ -4541,6 +4603,28 @@
     },
     {
       "album": {
+        "name": "Mexicolombia",
+        "url": "https://open.spotify.com/album/0UQOrskVoQwlbmrYfNDEEG"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Lleno de Maldad",
+      "url": "https://open.spotify.com/track/5eOxg0vpX6nOWiVQ2Xh3Co"
+    },
+    {
+      "album": {
         "name": "OSCURO \u00c9XTASIS",
         "url": "https://open.spotify.com/album/0fYhjxeRFdXp6s8R9hUXKt"
       },
@@ -5192,7 +5276,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 203103,
       "name": "Menos es m\u00e1s",
       "url": "https://open.spotify.com/track/6lN6r8T62aXB44nJ2FwAU7"
@@ -5274,7 +5358,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 211500,
       "name": "Mi Don",
       "url": "https://open.spotify.com/track/38uh4OLnMhp99FluHPDPzs"
@@ -6654,7 +6738,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205591,
       "name": "Price Tag",
       "url": "https://open.spotify.com/track/4AdBmJLnjJU8P8Zdmebgzq"
@@ -6892,7 +6976,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 289649,
       "name": "Rap da Rap quita",
       "url": "https://open.spotify.com/track/5rMRO8SZphAj2UtabeJqHj"
@@ -7843,6 +7927,28 @@
     },
     {
       "album": {
+        "name": "Tajazar\u00e1o'",
+        "url": "https://open.spotify.com/album/2sx4fiq5qPDPV90WXJIv78"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        },
+        {
+          "name": "Alexis Play",
+          "url": "https://open.spotify.com/artist/2XRVqqdNOt779uXNFA1Fhv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Tajazar\u00e1o'",
+      "url": "https://open.spotify.com/track/4UeJeSlp9HpecQDhucNjEN"
+    },
+    {
+      "album": {
         "name": "Tantas Veces",
         "url": "https://open.spotify.com/album/0CYK2EbQOcDwGopjlqcPRM"
       },
@@ -7874,6 +7980,32 @@
       "duration_ms": 149408,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/2qwioaV8uut5qa1R09Bjrj"
+    },
+    {
+      "album": {
+        "name": "Tatequieto",
+        "url": "https://open.spotify.com/album/5LjOnnWR9iD8wyWwZSZJI0"
+      },
+      "artists": [
+        {
+          "name": "Juan Sinatra",
+          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Ily Wonder",
+          "url": "https://open.spotify.com/artist/25DD0Rmi6vCjhnuWL3C0FI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152210,
+      "name": "Tatequieto",
+      "url": "https://open.spotify.com/track/5ZOqDC4hB0Ce1WGbuqmoiA"
     },
     {
       "album": {

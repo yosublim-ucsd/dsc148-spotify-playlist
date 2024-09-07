@@ -2,7 +2,7 @@
 
 ### [This Is Sister Rosetta Tharpe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1gxbKi)
 
-> This Is Sister Rosetta Tharpe\. Los temas esenciales, todos en una lista.
+> This is Sister Rosetta Tharpe\. Todos os maiores hits em uma só playlist.
 
 125 songs - 6 hr 15 min
 

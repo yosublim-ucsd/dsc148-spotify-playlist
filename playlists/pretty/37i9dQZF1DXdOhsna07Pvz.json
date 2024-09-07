@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 78809,
+  "num_followers": 78860,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -11,8 +11,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Sete Desejos",
-        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
+        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
+        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
       },
       "artists": [
         {
@@ -20,9 +20,25 @@
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 268760,
-      "name": "La Belle De Jour",
-      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
+      "duration_ms": 288160,
+      "name": "Anuncia\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "A volta de Secos & Molhados",
+        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
+      },
+      "artists": [
+        {
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "Sangue latino",
+      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -67,22 +83,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "A volta de Secos & Molhados",
-        "url": "https://open.spotify.com/album/4rNGFFaXZ7l0Vg6QrcHcUi"
-      },
-      "artists": [
-        {
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -115,8 +115,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "20 Grandes Sucessos De Alceu Valen\u00e7a",
-        "url": "https://open.spotify.com/album/5zSPeLOror6UiYeodh4Bs9"
+        "name": "Sete Desejos",
+        "url": "https://open.spotify.com/album/5fN3QZFYtSrgDRlAvjILBD"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
         }
       ],
-      "duration_ms": 288160,
-      "name": "Anuncia\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/661Ns9G25zHdih4qVshBO7"
+      "duration_ms": 268760,
+      "name": "La Belle De Jour",
+      "url": "https://open.spotify.com/track/7CdDIvw3jvjNaIs5m3mM4A"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Canto Das Tr\u00eas Ra\u00e7as",
-        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
-      },
-      "artists": [
-        {
-          "name": "Clara Nunes",
-          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "Canto Das Tr\u00eas Ra\u00e7as",
-      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Brazilian Compilation Series, Vol. 2",
         "url": "https://open.spotify.com/album/4XBYRpTCJiwgBPbtjMFP1o"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 300000,
       "name": "Esperar Pra Ver",
       "url": "https://open.spotify.com/track/7baNYnxas4NlQXcoj6kSmp"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Canto Das Tr\u00eas Ra\u00e7as",
+        "url": "https://open.spotify.com/album/32VNQlyGmFb0otQdOr43Rx"
+      },
+      "artists": [
+        {
+          "name": "Clara Nunes",
+          "url": "https://open.spotify.com/artist/6UKz2oYWzE0ZBnciztCown"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "Canto Das Tr\u00eas Ra\u00e7as",
+      "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Brasil Pandeiro",
-      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
+      "duration_ms": 397493,
+      "name": "Preta Pretinha",
+      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ"
         }
       ],
-      "duration_ms": 397493,
-      "name": "Preta Pretinha",
-      "url": "https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u"
+      "duration_ms": 235106,
+      "name": "Brasil Pandeiro",
+      "url": "https://open.spotify.com/track/2Er0f1mhO0g1rov9Cdi5Wk"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -895,8 +895,8 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "Focus On...500 Years Of Brazil",
+        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
       },
       "artists": [
         {
@@ -904,9 +904,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+      "duration_ms": 168400,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 204093,
+      "name": "Agora s\u00f3 falta voc\u00ea",
+      "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Robson Jorge e Lincoln Olivetti",
         "url": "https://open.spotify.com/album/23YsJH4l99KmP9OLXIwsaM"
       },
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 204093,
-      "name": "Agora s\u00f3 falta voc\u00ea",
-      "url": "https://open.spotify.com/track/3impd3fNYkpLlklzuOfyVZ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Emilio Santiago (Remastered)",
         "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
       },
@@ -1015,6 +1015,38 @@
       "duration_ms": 173506,
       "name": "Bananeira (Remastered)",
       "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Pad\u00ea",
+        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
+      },
+      "artists": [
+        {
+          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
+          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
+        }
+      ],
+      "duration_ms": 185280,
+      "name": "S\u00e3o Jorge",
+      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+      },
+      "artists": [
+        {
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1035,38 +1067,6 @@
       "duration_ms": 152680,
       "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
       "url": "https://open.spotify.com/track/5G5uIDkQytLq7yOacUcjJ9"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Focus On...500 Years Of Brazil",
-        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
-      },
-      "artists": [
-        {
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "duration_ms": 168400,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Pad\u00ea",
-        "url": "https://open.spotify.com/album/3Az2EXCM5W1w14o4ev0uCU"
-      },
-      "artists": [
-        {
-          "name": "Ju\u00e7ara Mar\u00e7al e Kiko Dinucci",
-          "url": "https://open.spotify.com/artist/40w3aT7hSPv2aQVAQXT68m"
-        }
-      ],
-      "duration_ms": 185280,
-      "name": "S\u00e3o Jorge",
-      "url": "https://open.spotify.com/track/0nLPISz2oEPcB9LE4b8bIM"
     },
     {
       "added_at": "2022-09-22 18:13:04",

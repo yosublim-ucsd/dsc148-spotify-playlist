@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1512898,
+  "num_followers": 1512914,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
-      },
-      "artists": [
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
-        }
-      ],
-      "duration_ms": 207861,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N",
         "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 245538,
       "name": "relic\u00e1rio",
       "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/3OJQMJrea38izof7pJ1eDU"
+      },
+      "artists": [
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+        }
+      ],
+      "duration_ms": 207861,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/5UincK3sRYDDvmoSHVGuoY"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Zeeba - Reset",
+        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 214741,
+      "name": "Tudo Que Importa (Acoustic)",
+      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Ac\u00fastico Na Casa Do Lago (Ac\u00fastico / Ao Vivo)",
         "url": "https://open.spotify.com/album/1ctYS1uopnfJFU3LPYEo60"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 193116,
       "name": "Sem Jeito Ao Vivo - Ac\u00fastico / Ao Vivo",
       "url": "https://open.spotify.com/track/271DlfuaXEJfsvowRuzYuj"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Zeeba - Reset",
-        "url": "https://open.spotify.com/album/0WiqJSBvRvmto6ugbqtOO0"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 214741,
-      "name": "Tudo Que Importa (Acoustic)",
-      "url": "https://open.spotify.com/track/4UY8yqnvG44KTcFSia0cEa"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -467,8 +467,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
+        "name": "Amei Te Ver",
+        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 192933,
-      "name": "Coisa Linda - Ao Vivo",
-      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
+      "duration_ms": 254096,
+      "name": "Amei Te Ver - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -567,8 +567,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Amei Te Ver",
-        "url": "https://open.spotify.com/album/3jxnoPOwV9Dc0PRzhz442o"
+        "name": "Ac\u00fastico MTV Tiago Iorc (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3Tf4vmSc5PYcpmwZUSLEJV"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
         }
       ],
-      "duration_ms": 254096,
-      "name": "Amei Te Ver - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0bX2gnECXZJ5nt7rcIZMVM"
+      "duration_ms": 192933,
+      "name": "Coisa Linda - Ao Vivo",
+      "url": "https://open.spotify.com/track/28zoeQs3irocvhOBZAc81h"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Terra do Nunca (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
-      },
-      "artists": [
-        {
-          "name": "Dilsinho",
-          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
-        }
-      ],
-      "duration_ms": 205408,
-      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Terra do Nunca (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5srHRGI7y6NKTPzvhkKfgj"
+      },
+      "artists": [
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        }
+      ],
+      "duration_ms": 205408,
+      "name": "P\u00e9ssimo Neg\u00f3cio (Ao Vivo) - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wBTOYiJy9Fa1JeTtrZIBQ"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Casa de Praia 2 (ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 175086,
+      "name": "Pijama - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Capim-Cidreira (Infus\u00e3o)",
         "url": "https://open.spotify.com/album/0SxtvIuXfAQ4odtxNReDV5"
       },
@@ -939,18 +955,18 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Casa de Praia 2 (ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2z154TdNIotc1bnI7j0pOt"
+        "name": "Aluga-se",
+        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "B\u00e1rbara Dias",
+          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
         }
       ],
-      "duration_ms": 175086,
-      "name": "Pijama - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6G4A6r849GG4bvuVS8R5Xh"
+      "duration_ms": 125955,
+      "name": "Aluga-se",
+      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -967,22 +983,6 @@
       "duration_ms": 254878,
       "name": "Espera a Primavera - Ac\u00fastico",
       "url": "https://open.spotify.com/track/6TEVJx9cg9qmGCiydXR4oS"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Aluga-se",
-        "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Dias",
-          "url": "https://open.spotify.com/artist/4qQrDEahpv67oAkkD6Zx1J"
-        }
-      ],
-      "duration_ms": 125955,
-      "name": "Aluga-se",
-      "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Sutileza",
-        "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Gibin",
-          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sutileza",
-      "url": "https://open.spotify.com/track/2oMR14X1A6nvvpzWBD7Qdq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "GUPE - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K"
       },
@@ -1283,6 +1263,26 @@
       "duration_ms": 222582,
       "name": "beira - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Sutileza",
+        "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sutileza",
+      "url": "https://open.spotify.com/track/2oMR14X1A6nvvpzWBD7Qdq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cheiro do Mato (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
-      },
-      "artists": [
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 322736,
-      "name": "Amor e F\u00e9 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "M\u00fasica Popular Cai\u00e7ara (Ao Vivo)",
         "url": "https://open.spotify.com/album/3T1n2CfGfA9W5uGhAa7YrU"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 196347,
       "name": "C\u00e9u Azul (Ao Vivo)",
       "url": "https://open.spotify.com/track/3XDUFBYZy50XMaTXUZtRXA"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cheiro do Mato (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4wRvyoU54SubOhGWL2n9Rp"
+      },
+      "artists": [
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
+        }
+      ],
+      "duration_ms": 322736,
+      "name": "Amor e F\u00e9 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5ra6CI0pEzqjxPEZeBz0d7"
     },
     {
       "added_at": "2024-08-02 18:37:00",

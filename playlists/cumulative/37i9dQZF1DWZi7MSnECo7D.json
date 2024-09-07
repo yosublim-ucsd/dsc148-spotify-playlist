@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205325,
       "name": "2 metros de saudade",
       "url": "https://open.spotify.com/track/6iRvhbw58qALPMFitdO0oa"
@@ -1418,7 +1418,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 130800,
       "name": "Barco a Vela",
       "url": "https://open.spotify.com/track/6ew3HycnoXbqHjFiVAn2Y6"
@@ -1866,7 +1866,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188502,
       "name": "Caboclo",
       "url": "https://open.spotify.com/track/37gSNmtiShAkTLd1u11CYr"
@@ -4165,6 +4165,24 @@
     },
     {
       "album": {
+        "name": "Estrago Que Me Faz",
+        "url": "https://open.spotify.com/album/1SdswqVjoayoc82ayIfYa3"
+      },
+      "artists": [
+        {
+          "name": "Submerso",
+          "url": "https://open.spotify.com/artist/785QQNx8Y5ELrD9pG5iKSU"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189106,
+      "name": "Estrago Que Me Faz",
+      "url": "https://open.spotify.com/track/68dYqn4aJC5NbVZN2OPjXX"
+    },
+    {
+      "album": {
         "name": "est\u00e1tica",
         "url": "https://open.spotify.com/album/79QVW4KXE9wwQ37ApRi9F1"
       },
@@ -4180,6 +4198,32 @@
       "duration_ms": 180035,
       "name": "est\u00e1tica",
       "url": "https://open.spotify.com/track/4J3sacZksbTwNF4323eKcD"
+    },
+    {
+      "album": {
+        "name": "Belo Lo-Fi",
+        "url": "https://open.spotify.com/album/618fcdV5wdotV2DNbak9vs"
+      },
+      "artists": [
+        {
+          "name": "Lencinho",
+          "url": "https://open.spotify.com/artist/7t3dRtwHynAFUeZRjj6cHV"
+        },
+        {
+          "name": "Vitor Brauer",
+          "url": "https://open.spotify.com/artist/0LgGTp6dIjvLJ8Lx750VY8"
+        },
+        {
+          "name": "Tom Gangue",
+          "url": "https://open.spotify.com/artist/6f6b1wIw4bu4pd2mN3qMK2"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301491,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/5LLTSKqMVbygdQzOnPCK1s"
     },
     {
       "album": {
@@ -4872,7 +4916,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208000,
       "name": "Fragment",
       "url": "https://open.spotify.com/track/5PRGK7zhCN7bUDpItC6NQt"
@@ -6643,6 +6687,28 @@
     },
     {
       "album": {
+        "name": "mesmo v\u00edcio",
+        "url": "https://open.spotify.com/album/3osMI69VZFHiuueK955irZ"
+      },
+      "artists": [
+        {
+          "name": "Playmoboys",
+          "url": "https://open.spotify.com/artist/0s8qjO7TpmquR2AvmtjTzw"
+        },
+        {
+          "name": "Oh! I Kill",
+          "url": "https://open.spotify.com/artist/0oc4L7WmNWpJmFtKT0RkbI"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228339,
+      "name": "mesmo v\u00edcio",
+      "url": "https://open.spotify.com/track/5jNV9fNCgvnBrsXN7Crw1U"
+    },
+    {
+      "album": {
         "name": "Mete Dance",
         "url": "https://open.spotify.com/album/2QesnpT4w22aWEup9ian9w"
       },
@@ -6760,7 +6826,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 254000,
       "name": "Miguel em Tempos de Viol\u00eancia",
       "url": "https://open.spotify.com/track/7DkxdsFpPDyWKB5PEzSyB2"
@@ -7514,6 +7580,32 @@
       "duration_ms": 165818,
       "name": "Noite Passada",
       "url": "https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J"
+    },
+    {
+      "album": {
+        "name": "Noite Triste",
+        "url": "https://open.spotify.com/album/3DvXO8ZopkOrKSkGvMCBaC"
+      },
+      "artists": [
+        {
+          "name": "Jup do Bairro",
+          "url": "https://open.spotify.com/artist/0gfL54JIv5ufwbMZC61ZGf"
+        },
+        {
+          "name": "Noporn",
+          "url": "https://open.spotify.com/artist/7h8xz8JZYUH9d2rDBnlyPQ"
+        },
+        {
+          "name": "Lucas Freire (BR)",
+          "url": "https://open.spotify.com/artist/0HyNpB7IqrQpA77celiKEx"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316341,
+      "name": "Noite Triste",
+      "url": "https://open.spotify.com/track/609U5mIXvOuACvc2lqZybK"
     },
     {
       "album": {
@@ -8558,10 +8650,32 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 292835,
       "name": "Pax, Patz, Paz",
       "url": "https://open.spotify.com/track/3KgFZWHQIHZv8c8TC0WJHf"
+    },
+    {
+      "album": {
+        "name": "Peito Largo",
+        "url": "https://open.spotify.com/album/6OCrcz7FSQl8e1rYofvdzb"
+      },
+      "artists": [
+        {
+          "name": "Os Amanticidas",
+          "url": "https://open.spotify.com/artist/6DnHZK8a57dRS2D5qewfex"
+        },
+        {
+          "name": "renanrenan",
+          "url": "https://open.spotify.com/artist/6ifMpdLfWyznB383KijFAh"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287492,
+      "name": "Peito Largo",
+      "url": "https://open.spotify.com/track/4OChU5uJjbglMoDfpXl0oM"
     },
     {
       "album": {
@@ -9634,7 +9748,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 231277,
       "name": "Real Grandeza",
       "url": "https://open.spotify.com/track/1fUVnPN18b4AxpZjAv20XQ"
@@ -12583,6 +12697,28 @@
     },
     {
       "album": {
+        "name": "Virar Mar",
+        "url": "https://open.spotify.com/album/3180u4eGQJhnTyaV8m6td7"
+      },
+      "artists": [
+        {
+          "name": "Victor de Albuquerque",
+          "url": "https://open.spotify.com/artist/5HJapWQnaATkzrc8UGlKgD"
+        },
+        {
+          "name": "Qumma",
+          "url": "https://open.spotify.com/artist/4FzMoW9tx9zfyW91EbHrkv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Virar Mar",
+      "url": "https://open.spotify.com/track/2beiGm7po252mtu3xy9fw5"
+    },
+    {
+      "album": {
         "name": "Vitor Kley Baixa Renda",
         "url": "https://open.spotify.com/album/4hrVXNwuFqVHdEGO2QPxit"
       },
@@ -12994,7 +13130,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 232941,
       "name": "Window(!!!)",
       "url": "https://open.spotify.com/track/7zfhgQcS449HM7xet0XATt"

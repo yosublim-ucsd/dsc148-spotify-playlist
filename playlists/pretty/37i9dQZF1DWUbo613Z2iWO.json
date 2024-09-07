@@ -1,28 +1,28 @@
 {
-  "description": "R&B of the moment by the artists of the future. Cover: Dayo Bello",
-  "num_followers": 52035,
+  "description": "R&B of the moment by the artists of the future. Cover: Nippa",
+  "num_followers": 52046,
   "original_name": "R&B Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFSLgAAAABZXzPwP5457hJTfCVgUWlO",
+  "snapshot_id": "Ztp+QAAAAAAvJR9ct/Hp+uXEw4WWrDmt",
   "tracks": [
     {
-      "added_at": "2024-08-30 05:01:34",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "A Penny For Your Thoughts",
-        "url": "https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa"
+        "name": "F.N.F.",
+        "url": "https://open.spotify.com/album/7gzqH0PKc53laMxTX3UxpR"
       },
       "artists": [
         {
-          "name": "Dayo Bello",
-          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+          "name": "Nippa",
+          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
         }
       ],
-      "duration_ms": 167000,
-      "name": "By My Side",
-      "url": "https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x"
+      "duration_ms": 129029,
+      "name": "F.N.F.",
+      "url": "https://open.spotify.com/track/62U8RzKdwxhEKfJc9t0NYg"
     },
     {
       "added_at": "2024-08-23 05:24:21",
@@ -41,20 +41,20 @@
       "url": "https://open.spotify.com/track/4S54f2Nkw5F44UA2ib54CA"
     },
     {
-      "added_at": "2024-08-23 05:24:21",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Light Work",
-        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+        "name": "Gap Year!",
+        "url": "https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy"
       },
       "artists": [
         {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
         }
       ],
-      "duration_ms": 217304,
-      "name": "Light Work",
-      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+      "duration_ms": 146341,
+      "name": "Want 2",
+      "url": "https://open.spotify.com/track/6yWain3Q65m9WJzq48q24f"
     },
     {
       "added_at": "2024-08-23 05:24:21",
@@ -89,6 +89,42 @@
       "url": "https://open.spotify.com/track/1Mh7Uz0WVLijDhpo5xe4eb"
     },
     {
+      "added_at": "2024-08-30 05:01:34",
+      "album": {
+        "name": "MISS INDEPENDENT",
+        "url": "https://open.spotify.com/album/6qmjgdgyFKmZvfxCBqrmS7"
+      },
+      "artists": [
+        {
+          "name": "SAHXL",
+          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
+        },
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 168740,
+      "name": "MISS INDEPENDENT (feat. Chikoruss)",
+      "url": "https://open.spotify.com/track/1gON0XMBtaNn7H3Wwyc9jC"
+    },
+    {
+      "added_at": "2024-08-16 04:00:00",
+      "album": {
+        "name": "Your Ecstasy",
+        "url": "https://open.spotify.com/album/3rvVKbEF5GQWdjA4RfEshs"
+      },
+      "artists": [
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "duration_ms": 228261,
+      "name": "Your Ecstasy",
+      "url": "https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT"
+    },
+    {
       "added_at": "2024-08-23 05:24:21",
       "album": {
         "name": "All Summer",
@@ -107,6 +143,58 @@
       "duration_ms": 109921,
       "name": "All Summer",
       "url": "https://open.spotify.com/track/1qZJ4afvHbsSg0d0ENqLHv"
+    },
+    {
+      "added_at": "2024-08-30 05:01:34",
+      "album": {
+        "name": "A Penny For Your Thoughts",
+        "url": "https://open.spotify.com/album/50zY5ri5A6vUw5fBfueZqa"
+      },
+      "artists": [
+        {
+          "name": "Dayo Bello",
+          "url": "https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/1n3huRLAByO21gV7e0dU5x"
+    },
+    {
+      "added_at": "2024-08-23 05:24:21",
+      "album": {
+        "name": "Light Work",
+        "url": "https://open.spotify.com/album/6FNasJ0jCCBUinHhm00oOe"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 217304,
+      "name": "Light Work",
+      "url": "https://open.spotify.com/track/2N9pTSlybRM6XIqOvSfkM1"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "WHAT A NIGHT TO BE IN LOVE",
+        "url": "https://open.spotify.com/album/00kgUArBYwVlcbE8HP5aO0"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -145,40 +233,20 @@
       "url": "https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G"
     },
     {
-      "added_at": "2024-08-30 05:01:34",
+      "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "MISS INDEPENDENT",
-        "url": "https://open.spotify.com/album/6qmjgdgyFKmZvfxCBqrmS7"
+        "name": "THIRST",
+        "url": "https://open.spotify.com/album/6yVfVz55zj2PdBxWkWHXYp"
       },
       "artists": [
         {
-          "name": "SAHXL",
-          "url": "https://open.spotify.com/artist/4vPtTSgLvrvLnk1mYnTI7h"
-        },
-        {
-          "name": "Chikoruss",
-          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
         }
       ],
-      "duration_ms": 168740,
-      "name": "MISS INDEPENDENT (feat. Chikoruss)",
-      "url": "https://open.spotify.com/track/1gON0XMBtaNn7H3Wwyc9jC"
-    },
-    {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "Your Ecstasy",
-        "url": "https://open.spotify.com/album/3rvVKbEF5GQWdjA4RfEshs"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 228261,
-      "name": "Your Ecstasy",
-      "url": "https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT"
+      "duration_ms": 145964,
+      "name": "THIRST",
+      "url": "https://open.spotify.com/track/7d5FHMxgFBCATaIWUjpv08"
     },
     {
       "added_at": "2024-08-30 05:01:34",
@@ -253,22 +321,6 @@
       "url": "https://open.spotify.com/track/31DeTEQ3Y8G0I7DmwqLusq"
     },
     {
-      "added_at": "2024-08-23 05:24:21",
-      "album": {
-        "name": "25!",
-        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
-      },
-      "artists": [
-        {
-          "name": "Hamzaa",
-          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Things Change",
-      "url": "https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur"
-    },
-    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "FOREVER",
@@ -283,6 +335,22 @@
       "duration_ms": 269055,
       "name": "FOREVER",
       "url": "https://open.spotify.com/track/7gqM91bnZpu2hmylITqpFU"
+    },
+    {
+      "added_at": "2024-08-23 05:24:21",
+      "album": {
+        "name": "25!",
+        "url": "https://open.spotify.com/album/5LUwpHUf8ba46od1ru404A"
+      },
+      "artists": [
+        {
+          "name": "Hamzaa",
+          "url": "https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Things Change",
+      "url": "https://open.spotify.com/track/5iV1Ob5cBDcxiZROELgeur"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -331,6 +399,22 @@
       "duration_ms": 174388,
       "name": "Press On Me",
       "url": "https://open.spotify.com/track/1sUqXRbX4USlqa5zUGPV8J"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Starsigns",
+        "url": "https://open.spotify.com/album/2DmZp1CRU6YQkmkJdMDKHW"
+      },
+      "artists": [
+        {
+          "name": "Mnelia",
+          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
+        }
+      ],
+      "duration_ms": 183260,
+      "name": "Starsigns",
+      "url": "https://open.spotify.com/track/5XpihZZP0WbwGMCoN4CePo"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -415,22 +499,6 @@
       "duration_ms": 245757,
       "name": "I'd Love To See You Again",
       "url": "https://open.spotify.com/track/30yHq5FDnjU9n3VJSEWbQZ"
-    },
-    {
-      "added_at": "2024-08-23 05:25:47",
-      "album": {
-        "name": "Island Files",
-        "url": "https://open.spotify.com/album/32oWDz4GWZLF0P5jSDJoLW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Reifer",
-          "url": "https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp"
-        }
-      ],
-      "duration_ms": 187642,
-      "name": "Sweat (Island File)",
-      "url": "https://open.spotify.com/track/5Da5oMlJgqXvgTN1tcihZT"
     },
     {
       "added_at": "2024-08-16 04:00:00",
@@ -917,22 +985,6 @@
       "url": "https://open.spotify.com/track/1n39WFTUtJSoluEsuVuEJk"
     },
     {
-      "added_at": "2024-07-26 09:02:54",
-      "album": {
-        "name": "Most Wanted",
-        "url": "https://open.spotify.com/album/4dMG65PpEgLhnAKMGbi2ge"
-      },
-      "artists": [
-        {
-          "name": "Aqyila",
-          "url": "https://open.spotify.com/artist/4cXLEhsZ1W4T6qBiDYVih4"
-        }
-      ],
-      "duration_ms": 163653,
-      "name": "Most Wanted",
-      "url": "https://open.spotify.com/track/3ol70ZGonP9HTEQSKhZYcY"
-    },
-    {
       "added_at": "2024-07-19 14:52:03",
       "album": {
         "name": "It's Complicated",
@@ -997,30 +1049,6 @@
       "url": "https://open.spotify.com/track/15nLf4ZUYQQpP0oYSzwiWA"
     },
     {
-      "added_at": "2024-08-09 04:00:00",
-      "album": {
-        "name": "Moviestar (feat. Col3trane)",
-        "url": "https://open.spotify.com/album/4u3A6VN0zZRwBzjvF2MWwk"
-      },
-      "artists": [
-        {
-          "name": "Santino Le Saint",
-          "url": "https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6"
-        },
-        {
-          "name": "Nippa",
-          "url": "https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq"
-        },
-        {
-          "name": "Col3trane",
-          "url": "https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc"
-        }
-      ],
-      "duration_ms": 249301,
-      "name": "Moviestar (feat. Col3trane)",
-      "url": "https://open.spotify.com/track/5saMdClnsVoDlEwST3qhOA"
-    },
-    {
       "added_at": "2024-08-02 15:40:50",
       "album": {
         "name": "Angry",
@@ -1035,22 +1063,6 @@
       "duration_ms": 186743,
       "name": "Angry",
       "url": "https://open.spotify.com/track/6ydHnDa06Ubj127GIeCfNo"
-    },
-    {
-      "added_at": "2024-07-26 09:02:54",
-      "album": {
-        "name": "Matter To You",
-        "url": "https://open.spotify.com/album/2Plw36aPXHnzI2lJMywdUt"
-      },
-      "artists": [
-        {
-          "name": "RINI",
-          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
-        }
-      ],
-      "duration_ms": 242183,
-      "name": "Matter To You",
-      "url": "https://open.spotify.com/track/2EqbyvCXCrpYLGbjXjuC2x"
     },
     {
       "added_at": "2024-07-19 14:52:03",
@@ -1693,26 +1705,6 @@
       "url": "https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk"
     },
     {
-      "added_at": "2024-06-07 12:03:07",
-      "album": {
-        "name": "Sweetness (feat. Leon Thomas)",
-        "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 251326,
-      "name": "Sweetness (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/0YEN61J5AvIRxRalXKQqBM"
-    },
-    {
       "added_at": "2024-05-31 07:31:18",
       "album": {
         "name": "Electric Honey",
@@ -1815,22 +1807,6 @@
       "duration_ms": 211574,
       "name": "Money",
       "url": "https://open.spotify.com/track/5Kz3bfVcSB3MyZ9Po0vlH6"
-    },
-    {
-      "added_at": "2024-06-07 12:03:07",
-      "album": {
-        "name": "My Man",
-        "url": "https://open.spotify.com/album/6WVs3cfYvBdZVRYqZjfNmg"
-      },
-      "artists": [
-        {
-          "name": "Mnelia",
-          "url": "https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec"
-        }
-      ],
-      "duration_ms": 127802,
-      "name": "My Man",
-      "url": "https://open.spotify.com/track/4tK0GeX97WbX4jgf1EIGOL"
     },
     {
       "added_at": "2024-06-07 12:03:07",
@@ -2059,46 +2035,6 @@
       "duration_ms": 150706,
       "name": "All In",
       "url": "https://open.spotify.com/track/0BrDLkPp6BpWJinhCxqyDK"
-    },
-    {
-      "added_at": "2024-03-29 07:17:40",
-      "album": {
-        "name": "Send Your Loving (feat. Tayc) [Remix]",
-        "url": "https://open.spotify.com/album/3vkhzUiGeh7QxV7i1SUnI4"
-      },
-      "artists": [
-        {
-          "name": "Ama Louise",
-          "url": "https://open.spotify.com/artist/4Yzt77yPpz5hJkBwBPTQ73"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 221564,
-      "name": "Send Your Loving (feat. Tayc) [Remix]",
-      "url": "https://open.spotify.com/track/4PSmIpWMQnUpOsWfM2APIy"
-    },
-    {
-      "added_at": "2024-05-03 14:53:38",
-      "album": {
-        "name": "Teach Me",
-        "url": "https://open.spotify.com/album/205X5r4SgDOWyPyUj4k1zw"
-      },
-      "artists": [
-        {
-          "name": "Lily Massie",
-          "url": "https://open.spotify.com/artist/2kQ4RPZzQ5YVAcWNC162x9"
-        },
-        {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
-        }
-      ],
-      "duration_ms": 188852,
-      "name": "Teach Me",
-      "url": "https://open.spotify.com/track/4tXKv7Jpel1tgz8HUWwsGD"
     },
     {
       "added_at": "2024-05-03 14:53:38",
@@ -2335,22 +2271,6 @@
       "duration_ms": 162625,
       "name": "Love Is",
       "url": "https://open.spotify.com/track/5N1JIOm3fDwEb06XVNb4GD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Greenroom",
-        "url": "https://open.spotify.com/album/75lCAYIEKESlpnv2lHMNb7"
-      },
-      "artists": [
-        {
-          "name": "Larrenwong",
-          "url": "https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz"
-        }
-      ],
-      "duration_ms": 209491,
-      "name": "Greenroom",
-      "url": "https://open.spotify.com/track/2u1jeYToTwnu7XvvmioPdI"
     },
     {
       "added_at": "2024-02-09 18:38:40",

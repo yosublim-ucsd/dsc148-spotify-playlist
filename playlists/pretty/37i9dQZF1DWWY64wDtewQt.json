@@ -1,12 +1,12 @@
 {
   "description": "the beat of your drift",
-  "num_followers": 8856119,
+  "num_followers": 8861153,
   "original_name": "phonk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtHVIQAAAAACD0oEdPdbOdSZoYtivjBo",
+  "snapshot_id": "ZtseYwAAAACLfU5k0/qCgzuu2OGJiFfi",
   "tracks": [
     {
       "added_at": "2024-03-29 15:57:27",
@@ -81,20 +81,20 @@
       "url": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
     },
     {
-      "added_at": "2024-03-22 16:01:00",
+      "added_at": "2024-07-05 13:50:01",
       "album": {
-        "name": "CUTE DEPRESSED",
-        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
       },
       "artists": [
         {
-          "name": "Dyan Dxddy",
-          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
+          "name": "Ogryzek",
+          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
         }
       ],
-      "duration_ms": 96946,
-      "name": "CUTE DEPRESSED",
-      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
+      "duration_ms": 149522,
+      "name": "GLORY",
+      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
     },
     {
       "added_at": "2024-02-09 15:25:18",
@@ -133,20 +133,20 @@
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
     },
     {
-      "added_at": "2024-07-05 13:50:01",
+      "added_at": "2024-03-22 16:01:00",
       "album": {
-        "name": "GLORY",
-        "url": "https://open.spotify.com/album/3tSeUNn7yOQPEex7jwS9Bf"
+        "name": "CUTE DEPRESSED",
+        "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
       "artists": [
         {
-          "name": "Ogryzek",
-          "url": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+          "name": "Dyan Dxddy",
+          "url": "https://open.spotify.com/artist/12Swjg82MNiUOfl1GB3XFx"
         }
       ],
-      "duration_ms": 149522,
-      "name": "GLORY",
-      "url": "https://open.spotify.com/track/2YZ7CJV3Q1OGh7ZL9PYWcP"
+      "duration_ms": 96946,
+      "name": "CUTE DEPRESSED",
+      "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
     },
     {
       "added_at": "2023-12-08 15:15:57",
@@ -781,6 +781,22 @@
       "url": "https://open.spotify.com/track/0dQZTgDVjsQfrp7VCTQqYm"
     },
     {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "BRUXO FANTASMA",
+        "url": "https://open.spotify.com/album/09xRsRc7pX399wCGElOfMT"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "duration_ms": 88850,
+      "name": "BRUXO FANTASMA",
+      "url": "https://open.spotify.com/track/0KCRlnAviErdAu6JcjKZJs"
+    },
+    {
       "added_at": "2024-05-10 15:00:06",
       "album": {
         "name": "KRUSH BANDICOOT",
@@ -885,6 +901,26 @@
       "url": "https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh"
     },
     {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "A-What",
+        "url": "https://open.spotify.com/album/0FNQKStah5NuLZu0Npw17w"
+      },
+      "artists": [
+        {
+          "name": "RELYCT",
+          "url": "https://open.spotify.com/artist/1yvmxpLuFjOlHiplr01Hon"
+        },
+        {
+          "name": "ARKEA",
+          "url": "https://open.spotify.com/artist/598ZvY8cFQtXgFPBSUm28x"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "A-What",
+      "url": "https://open.spotify.com/track/7GqWUQv53sNEC7mudubpaq"
+    },
+    {
       "added_at": "2022-05-20 10:12:52",
       "album": {
         "name": "MIDNIGHT",
@@ -957,6 +993,26 @@
       "url": "https://open.spotify.com/track/5hL2t5WyC9bibNDVkhVvDx"
     },
     {
+      "added_at": "2024-09-06 15:23:15",
+      "album": {
+        "name": "EI DO SENSACIO!",
+        "url": "https://open.spotify.com/album/0wphyOHE1uP8vQiseGmZFN"
+      },
+      "artists": [
+        {
+          "name": "princce",
+          "url": "https://open.spotify.com/artist/0oGN0s7dqyWbR41yMsNs0R"
+        },
+        {
+          "name": "FR3ST",
+          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
+        }
+      ],
+      "duration_ms": 101089,
+      "name": "EI DO SENSACIO!",
+      "url": "https://open.spotify.com/track/7lujohaF0wFVB2tzR2FsHm"
+    },
+    {
       "added_at": "2024-08-09 12:00:00",
       "album": {
         "name": "O Melhor no Que Faz 3.0 [Slowed]",
@@ -968,33 +1024,21 @@
           "url": "https://open.spotify.com/artist/19P1EvDdYzg1ICEyiAEk4m"
         },
         {
-          "name": "Dj Fenix",
-          "url": "https://open.spotify.com/artist/2i1LrKFvlDNbvZi0wd5bhS"
+          "name": "DJIEGO",
+          "url": "https://open.spotify.com/artist/3gWChAhwZwxx3klekQgGHo"
+        },
+        {
+          "name": "Maxximo Dj",
+          "url": "https://open.spotify.com/artist/3WiC8IVeyo5OQ9RCDbwNQ4"
+        },
+        {
+          "name": "Mc M4",
+          "url": "https://open.spotify.com/artist/1Z7oSc1PMSULPIoKwUlyb4"
         }
       ],
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
-    },
-    {
-      "added_at": "2022-10-14 08:20:18",
-      "album": {
-        "name": "DEMONS IN MY SOUL",
-        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
-      },
-      "artists": [
-        {
-          "name": "SCXR SOUL",
-          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
-        },
-        {
-          "name": "Sx1nxwy",
-          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
-        }
-      ],
-      "duration_ms": 120593,
-      "name": "DEMONS IN MY SOUL",
-      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2024-07-12 15:05:31",
@@ -1087,6 +1131,26 @@
       "duration_ms": 78710,
       "name": "Turu R9 - Slowed",
       "url": "https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1"
+    },
+    {
+      "added_at": "2022-10-14 08:20:18",
+      "album": {
+        "name": "DEMONS IN MY SOUL",
+        "url": "https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7"
+      },
+      "artists": [
+        {
+          "name": "SCXR SOUL",
+          "url": "https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC"
+        },
+        {
+          "name": "Sx1nxwy",
+          "url": "https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T"
+        }
+      ],
+      "duration_ms": 120593,
+      "name": "DEMONS IN MY SOUL",
+      "url": "https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO"
     },
     {
       "added_at": "2023-07-21 09:05:00",
@@ -1197,26 +1261,6 @@
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
     },
     {
-      "added_at": "2024-07-26 15:15:20",
-      "album": {
-        "name": "DEFEATED",
-        "url": "https://open.spotify.com/album/3Mmr5m6RNsLhIqN81xDEP6"
-      },
-      "artists": [
-        {
-          "name": "MAXPVNK",
-          "url": "https://open.spotify.com/artist/4dHkDmvdWDXoycp4Caui8D"
-        },
-        {
-          "name": "DJ RITMO DIVINO",
-          "url": "https://open.spotify.com/artist/6GvahNk3SvKrC48sA1V15o"
-        }
-      ],
-      "duration_ms": 114421,
-      "name": "DEFEATED",
-      "url": "https://open.spotify.com/track/1LmPBj4I34kQZLDtL67VY1"
-    },
-    {
       "added_at": "2022-05-13 04:02:00",
       "album": {
         "name": "Override",
@@ -1231,6 +1275,38 @@
       "duration_ms": 114624,
       "name": "Override",
       "url": "https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f"
+    },
+    {
+      "added_at": "2024-08-30 14:16:34",
+      "album": {
+        "name": "FUNK UNIVERSO",
+        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
+      },
+      "artists": [
+        {
+          "name": "Irokz",
+          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
+        }
+      ],
+      "duration_ms": 127500,
+      "name": "FUNK UNIVERSO",
+      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "AVOID ME",
+        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        }
+      ],
+      "duration_ms": 105789,
+      "name": "AVOID ME",
+      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
     },
     {
       "added_at": "2022-05-20 10:12:52",
@@ -1253,20 +1329,24 @@
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
+      "added_at": "2024-09-06 15:23:15",
       "album": {
-        "name": "AVOID ME",
-        "url": "https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ"
+        "name": "VAPO DO VAPO",
+        "url": "https://open.spotify.com/album/6J6AaGxrS64bfwV3zP24Tj"
       },
       "artists": [
         {
-          "name": "KUTE",
-          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+          "name": "DJ ANXVAR",
+          "url": "https://open.spotify.com/artist/3wQNcarvRuzhz2Fg1pVDxZ"
+        },
+        {
+          "name": "MC LONE",
+          "url": "https://open.spotify.com/artist/1nzIoHG5B7klgAPdwjqRDj"
         }
       ],
-      "duration_ms": 105789,
-      "name": "AVOID ME",
-      "url": "https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65"
+      "duration_ms": 68442,
+      "name": "VAPO DO VAPO",
+      "url": "https://open.spotify.com/track/1PXDJHodzKG2oBgWONv1By"
     },
     {
       "added_at": "2023-08-25 14:35:59",
@@ -1311,22 +1391,6 @@
       "duration_ms": 103360,
       "name": "Anatomy - Slowed",
       "url": "https://open.spotify.com/track/2MrfUdCXGt7YKakbNjJNb6"
-    },
-    {
-      "added_at": "2024-08-30 14:16:34",
-      "album": {
-        "name": "FUNK UNIVERSO",
-        "url": "https://open.spotify.com/album/1kmsUHDC0n611meNgzRkuw"
-      },
-      "artists": [
-        {
-          "name": "Irokz",
-          "url": "https://open.spotify.com/artist/2vKxv2oKVSEJZ1VmuLUOvY"
-        }
-      ],
-      "duration_ms": 127500,
-      "name": "FUNK UNIVERSO",
-      "url": "https://open.spotify.com/track/466x7CJlVwiFdNTLvIXwZl"
     },
     {
       "added_at": "2023-03-31 15:56:27",
@@ -1407,26 +1471,6 @@
       "duration_ms": 110624,
       "name": "Sea Of Problems",
       "url": "https://open.spotify.com/track/3VvcKToPY3diGRjERt8NvD"
-    },
-    {
-      "added_at": "2023-07-07 17:01:13",
-      "album": {
-        "name": "THE AUTOTREM 1.0",
-        "url": "https://open.spotify.com/album/3B6zpOLO07POn5FKcNwTKB"
-      },
-      "artists": [
-        {
-          "name": "DJ RICK 013",
-          "url": "https://open.spotify.com/artist/3Cd3LHNXuJd9NudRiH1IxS"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "THE AUTOTREM 1.0",
-      "url": "https://open.spotify.com/track/1cOOhtwpwDFIjsuZkp2KYJ"
     },
     {
       "added_at": "2023-09-29 15:36:46",
@@ -1721,22 +1765,6 @@
       "url": "https://open.spotify.com/track/4CRd36RVExznLuyj7SOQmz"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Devil Eyes",
-        "url": "https://open.spotify.com/album/42lC4GQuPUF9wdbdeaZDWl"
-      },
-      "artists": [
-        {
-          "name": "ZODIVK",
-          "url": "https://open.spotify.com/artist/6nTTVtUnmZWlPju0qzX7Or"
-        }
-      ],
-      "duration_ms": 136651,
-      "name": "Devil Eyes",
-      "url": "https://open.spotify.com/track/04cMUwER7r2VwqMCj4kYJ9"
-    },
-    {
       "added_at": "2024-08-16 14:23:00",
       "album": {
         "name": "Se Paciente Funk",
@@ -1839,26 +1867,6 @@
       "duration_ms": 144138,
       "name": "ASTRO",
       "url": "https://open.spotify.com/track/54sEjr0FU2YTPbEliJ1YPh"
-    },
-    {
-      "added_at": "2023-09-15 14:15:29",
-      "album": {
-        "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
-        "url": "https://open.spotify.com/album/367E0XjthTZ3hHVkN5ezJr"
-      },
-      "artists": [
-        {
-          "name": "FR3ST",
-          "url": "https://open.spotify.com/artist/2YXKTfoEjKVzCNI0J6rHbQ"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        }
-      ],
-      "duration_ms": 159842,
-      "name": "Mtg Ensurdec\u00eancia Estelar 1.0",
-      "url": "https://open.spotify.com/track/3tz2T3sjDeBffwnCZA3PGT"
     }
   ],
   "unique_name": "phonk",

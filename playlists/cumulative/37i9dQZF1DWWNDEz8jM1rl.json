@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-15",
-  "description": "\u00a1Vamos a bailar con Dios!   Nuestro invitado especial, <a href=\"spotify:artist:6slyJwua5e5GuhuP82sTHR\">Alex Campos</a> nos da su seleccion musical!",
+  "description": "\u00a1Vamos a bailar con Dios!",
   "name": "Fiesta Cristiana",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 209390,
       "name": "All About You (feat. Hollyn)",
       "url": "https://open.spotify.com/track/7dT5PnZbUQcwvdrSpS4FZV"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 228320,
       "name": "Del Salmo 23",
       "url": "https://open.spotify.com/track/0pu2dU13lq6MVr5MYECGRV"
@@ -768,7 +768,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 283733,
       "name": "En Tu Presencia",
       "url": "https://open.spotify.com/track/6Fi4UGo4PmFnO02FcdkW1I"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 325651,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/2FMEnOciWcyEmRDTOR5jac"
@@ -1036,7 +1036,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 718153,
       "name": "Hermoso Momento",
       "url": "https://open.spotify.com/track/6MbMLtk1m1lAz3nIfuy8WX"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 288800,
       "name": "Jesucristo Basta",
       "url": "https://open.spotify.com/track/6XgnLNskskRPjdfa3CyKGA"
@@ -1196,6 +1196,10 @@
         {
           "name": "Lizzy Parra",
           "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Ana Pau",
+          "url": "https://open.spotify.com/artist/3A3WUNVvqb3E7VfVQGxCcg"
         },
         {
           "name": "DesXa",
@@ -1352,7 +1356,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 269746,
       "name": "Los Muros Caer\u00e1n",
       "url": "https://open.spotify.com/track/3Lywk0gqbG3YoW4Mo3eNPW"
@@ -1600,7 +1604,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 189075,
       "name": "M\u00e1s De Ti - En Vivo",
       "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
@@ -1796,7 +1800,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 197121,
       "name": "Pentagrama",
       "url": "https://open.spotify.com/track/1DofNh9ulHsQkybB81XMPj"
@@ -2032,7 +2036,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 239026,
       "name": "Sana Nuestra Tierra",
       "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
@@ -2126,7 +2130,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 196843,
       "name": "Soy Soldado",
       "url": "https://open.spotify.com/track/43NlLkmUO6uW0034qTLvWl"
@@ -2368,7 +2372,7 @@
       ],
       "date_added": "2020-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-24",
+      "date_removed": null,
       "duration_ms": 224817,
       "name": "Yo Tierra, T\u00fa Semilla",
       "url": "https://open.spotify.com/track/5nMGlYgxdOYT4fPPfwEmYm"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/1qeAB2QeA049zZIJomTUxf?si=JVqQ1FRRSoCJNLbtkVT5Ng\">Chesrae Megan</a> ",
+  "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27?si=srH0KIj9S56jkngNQv15iw\">Ziggy4x</a> & <a href=\"https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L?si=OaebxEcDTHaSjCoznspvdA\">Maglera Doe Boy</a> & <a href=\"https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=AGjj1meQRKuB8_NsDR1lBg\">Priddy Ugly</a>",
   "name": "Afrikaanse Hip Hop",
   "tracks": [
     {
@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
@@ -1174,6 +1174,32 @@
       "duration_ms": 178437,
       "name": "HONNE",
       "url": "https://open.spotify.com/track/6mdEb9L5jN4pPEnwT0oMg3"
+    },
+    {
+      "album": {
+        "name": "Honne - Remix",
+        "url": "https://open.spotify.com/album/0YcPmVJnvp67cxK9aKDGYA"
+      },
+      "artists": [
+        {
+          "name": "Ziggy4x",
+          "url": "https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27"
+        },
+        {
+          "name": "Maglera Doe Boy",
+          "url": "https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L"
+        },
+        {
+          "name": "Priddy Ugly",
+          "url": "https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176684,
+      "name": "Honne - Remix",
+      "url": "https://open.spotify.com/track/78ikD92VYYPtaqdYvA214Q"
     },
     {
       "album": {

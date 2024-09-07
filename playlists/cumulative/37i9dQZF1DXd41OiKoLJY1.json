@@ -6723,6 +6723,24 @@
     },
     {
       "album": {
+        "name": "Blick Em",
+        "url": "https://open.spotify.com/album/67Kf1T6NQgc6VjBOn56Rzn"
+      },
+      "artists": [
+        {
+          "name": "FRNC$",
+          "url": "https://open.spotify.com/artist/3HV8wp2Ojvxp2hkUm0bZ1K"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Blick Em",
+      "url": "https://open.spotify.com/track/5vZLf1tYS4cEW9TVH8kq6T"
+    },
+    {
+      "album": {
         "name": "Blindfold",
         "url": "https://open.spotify.com/album/4242yBaBQqM0IiqDsA6QcF"
       },
@@ -50086,6 +50104,24 @@
       "duration_ms": 162000,
       "name": "we were getting pretty blurry",
       "url": "https://open.spotify.com/track/519FD1iPWgc792wfiNHfeE"
+    },
+    {
+      "album": {
+        "name": "we'll do it again",
+        "url": "https://open.spotify.com/album/5wjtLonQHVRWzQFlGvMZ5j"
+      },
+      "artists": [
+        {
+          "name": "Shan Capri",
+          "url": "https://open.spotify.com/artist/2v6cSFZEDYoO3C9dAODVjr"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183175,
+      "name": "we'll do it again",
+      "url": "https://open.spotify.com/track/6SMCmilL30WtWgK9suTq4X"
     },
     {
       "album": {

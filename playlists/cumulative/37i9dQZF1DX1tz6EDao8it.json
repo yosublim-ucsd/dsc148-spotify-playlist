@@ -1319,7 +1319,7 @@
     },
     {
       "album": {
-        "name": "The Matrix (The Complete Score)",
+        "name": "The Matrix - The Complete Score",
         "url": "https://open.spotify.com/album/6D2bGAKmIYtMQtL14c4vAb"
       },
       "artists": [
@@ -1588,6 +1588,24 @@
       "duration_ms": 222373,
       "name": "Main Titles",
       "url": "https://open.spotify.com/track/6baN5nSUIVTsUyugSuAj7U"
+    },
+    {
+      "album": {
+        "name": "Beetlejuice (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1iyLkKp8f8XZjOxDD2PEo9"
+      },
+      "artists": [
+        {
+          "name": "Danny Elfman",
+          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148426,
+      "name": "Main Titles - From \"Beetlejuice\" Soundtrack",
+      "url": "https://open.spotify.com/track/64ByydKWf67CJfIoPc8uLJ"
     },
     {
       "album": {

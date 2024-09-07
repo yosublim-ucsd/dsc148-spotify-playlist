@@ -4,7 +4,7 @@
 
 > Discover new Punjabi artists! Cover: Param Pannu
 
-80 songs - 3 hr 52 min
+81 songs - 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Muqabala](https://open.spotify.com/track/10LE4vS4t6omJmadQQeqOg) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF), [The Kidd](https://open.spotify.com/artist/7rs8gMmzWfpTdRodGfBq3w) | [Muqabala](https://open.spotify.com/album/5QFYUisazLdsrFLpILm3iL) | 2:30 | 2024-07-03 | 2024-09-05 |
 | [Muqabala \(Original\)](https://open.spotify.com/track/1xbINZWX2G5PXnYLQ3O6WO) | [The Ranjha](https://open.spotify.com/artist/23gh7bRgR4erlbpfArCjOF) | [Muqabala \(Original\)](https://open.spotify.com/album/7tDMY7h7sc9QOM5SpenJJm) | 2:51 | 2024-09-04 |  |
 | [New Moon](https://open.spotify.com/track/3sFUxSznTr0Nhvx6Mz4D8s) | [Uday Bath](https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX) | [New Moon](https://open.spotify.com/album/6WScQSs1sHzEVUcM3MRmVZ) | 2:09 | 2024-07-31 |  |
-| [One Side](https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [One Side](https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1) | 2:49 | 2024-07-23 |  |
+| [One Side](https://open.spotify.com/track/5VW6S70Y49aXLD80n4KJpo) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [One Side](https://open.spotify.com/album/5npAFG27HowT3zQb7DMtP1) | 2:49 | 2024-07-23 | 2024-09-07 |
 | [Paisa](https://open.spotify.com/track/49Enb7JmNLeNLq8k5YHp9S) | [Karma](https://open.spotify.com/artist/4sBNHDKJHXwpXVoMNRV3Ol) | [Paisa](https://open.spotify.com/album/7jLJcHGDgJxbkJtxN14gh9) | 2:08 | 2024-07-03 |  |
 | [Pasand](https://open.spotify.com/track/3s607yqwmhwVTSEEu8kU1S) | [HRJXT](https://open.spotify.com/artist/4s5P33ladNMi7gcBMHwp9a), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Pasand](https://open.spotify.com/album/6IbHnrRFkokRd6jrOoSTfk) | 2:12 | 2024-07-03 |  |
 | [Pyaar Jeha](https://open.spotify.com/track/4e02hXlLN8HXnLctxmpDNY) | [Jaby](https://open.spotify.com/artist/43EHJ772rdjyyT5jOXsPaQ) | [Pyaar Jeha](https://open.spotify.com/album/0I3SOKo41LBRK0HCyUUDRB) | 2:33 | 2024-07-16 |  |
@@ -87,6 +87,7 @@
 | [Venom](https://open.spotify.com/track/5As6ZOdkqBx22guNsTBquo) | [Amninder Bugga](https://open.spotify.com/artist/0RE6WCjLuveGFO35kHluZL), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [Venom](https://open.spotify.com/album/4Sly6dIWIWsz2e5RWsq9YM) | 2:22 | 2024-07-31 | 2024-09-05 |
 | [VOW](https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu) | [Kaash](https://open.spotify.com/artist/48PKxzIZa6Th3Mu4N5Ordh) | [VOW](https://open.spotify.com/album/0cUQNUKTIQLzb7IX9GaVhg) | 5:59 | 2024-09-04 |  |
 | [Wow](https://open.spotify.com/track/6hgtL4QNCjzgYkxw9zUbve) | [Afan](https://open.spotify.com/artist/72OJ8ZA4JdD24oy34DweOX) | [Highway Hits](https://open.spotify.com/album/3vbb7fzoQG7mSdyHhlaziq) | 2:19 | 2024-07-03 | 2024-07-11 |
+| [Yaar Tera Ni](https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG), [DPON DASH](https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst) | [Yaar Tera Ni](https://open.spotify.com/album/4gOQgBtSEGCHRZCajXLTZM) | 2:17 | 2024-09-06 |  |
 | [YOUTH WAVE](https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr) | [Lovenoor](https://open.spotify.com/artist/1PLbOK3g7lqOANtCK1y4tw), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [YOUTH WAVE](https://open.spotify.com/album/4G8QmbeLMFwNbhC7WY3aol) | 2:35 | 2024-07-03 |  |
 
 \*This playlist was first scraped on 2024-07-05. Prior content cannot be recovered.

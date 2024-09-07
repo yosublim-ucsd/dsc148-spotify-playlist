@@ -204,7 +204,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 249320,
       "name": "Assurance",
       "url": "https://open.spotify.com/track/3ZJblAM95vwSKA5IUloPJh"
@@ -1383,6 +1383,28 @@
     },
     {
       "album": {
+        "name": "Love Island",
+        "url": "https://open.spotify.com/album/7FArfeIM0lLe4auCAjsxUb"
+      },
+      "artists": [
+        {
+          "name": "BLAKBOYKAY",
+          "url": "https://open.spotify.com/artist/0bf9exCyt4DiZQ3vszlc0b"
+        },
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163944,
+      "name": "Love Island",
+      "url": "https://open.spotify.com/track/0WPrlyMjUD4jaVRfxZTnN2"
+    },
+    {
+      "album": {
         "name": "love nwantiti (ah ah ah) [feat. Joeboy & Kuami Eugene] [Remix]",
         "url": "https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl"
       },
@@ -1669,6 +1691,28 @@
     },
     {
       "album": {
+        "name": "Beyond a Guitarist [B.A.G]",
+        "url": "https://open.spotify.com/album/2vR2Ch3Al6Rd3U0vxv7z00"
+      },
+      "artists": [
+        {
+          "name": "Fiokee",
+          "url": "https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5"
+        },
+        {
+          "name": "Johnny Drille",
+          "url": "https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168533,
+      "name": "No Way - Remix",
+      "url": "https://open.spotify.com/track/2DioKnZNxHU1RoThrtFMCX"
+    },
+    {
+      "album": {
         "name": "Nobody",
         "url": "https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt"
       },
@@ -1936,7 +1980,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 133592,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/5IPbL3A6dxajsR5VAlNkuN"

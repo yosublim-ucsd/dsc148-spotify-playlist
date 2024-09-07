@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 
 > Instrumental guitar shreddery\. Cover: Marcin
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,639 likes - 100 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,684 likes - 100 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/track/77oGPqxT7yDZ5OCRmR863C) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4) | [Classical Dragon \(feat\. Tim Henson\)](https://open.spotify.com/album/2huGoR1ZiTK0VzYguLLVZg) | 3:18 |
-| 2 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 |
-| 3 | [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 |
-| 4 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 |
-| 5 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 |
-| 6 | [The Boy From Beckenham](https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [The Boy From Beckenham](https://open.spotify.com/album/66kcU4aFyNz43AK71YbRBT) | 3:14 |
-| 7 | [Heart\-Shaped Box](https://open.spotify.com/track/49ZqzWNFWJJpXUoDH0ZaC3) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [Heart\-Shaped Box](https://open.spotify.com/album/22PE6brFbO4xXEpbhj9kyp) | 3:39 |
-| 8 | [Man On The Silver Mountain](https://open.spotify.com/track/6QRr9OKjvnCGKub5ZFjvB7) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 4:19 |
-| 9 | [Karnevel!](https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Karnevel!](https://open.spotify.com/album/6ZI8RVYgxxSymcnQT4DqnH) | 8:40 |
-| 10 | [Our Requiem \- Single Version](https://open.spotify.com/track/46vBOvYc2WqQYa4WLoz4j7) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj) | [Our Requiem](https://open.spotify.com/album/16OEgHcyDIA6qMKwL9LkXJ) | 2:32 |
+| 2 | [Cool 7](https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT) | [Sungazer](https://open.spotify.com/artist/1uvnDqn7UvVy6orSq1E2YF), [Joshua de la Victoria](https://open.spotify.com/artist/3xSmWrrIL5QsKKP3Ryt88e), [Jared Yee](https://open.spotify.com/artist/0kSKqUOXr8cwasu26oRIK0) | [Cool 7](https://open.spotify.com/album/16JVqCnxydN8jOoybSm7Dy) | 4:31 |
+| 3 | [Paul Position](https://open.spotify.com/track/4feswYiBEeswnbvARZYes2) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [Paul Position](https://open.spotify.com/album/6FBuizIyg53wy5UT5DElGv) | 4:18 |
+| 4 | [Time After Time](https://open.spotify.com/track/2UmvWFtLg7iEefyhOqdhbD) | [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Can I Tell You Something?](https://open.spotify.com/album/7vjM1OqfUbiFxXWEfmtodA) | 5:38 |
+| 5 | [Out of the Void](https://open.spotify.com/track/3F8fZIypxQMVOOu7fZyN9A) | [Plini](https://open.spotify.com/artist/3Gs10XJ4S4OEFrMRqZJcic), [Kiko Loureiro](https://open.spotify.com/artist/5RmLUrjJz5bpP8dF4lYdyK) | [Out of the Void](https://open.spotify.com/album/62iUscBLSYMkO64WS7EIKS) | 3:53 |
+| 6 | [Child of Bliss](https://open.spotify.com/track/6Z4liSmJZe9cfeDbROdm25) | [Nick Johnston](https://open.spotify.com/artist/3d5yBCe5SBKkJnWvl9GB7r) | [Child of Bliss](https://open.spotify.com/album/7qJGXVWUhGsQZeTo48uVz9) | 6:12 |
+| 7 | [The Boy From Beckenham](https://open.spotify.com/track/2tYZOtgQxJF8sxR3kpeqyR) | [Andy Timmons](https://open.spotify.com/artist/1Yt0NXI2k1f0y884jJduBj), [Peter Frampton](https://open.spotify.com/artist/0543y7yrvny4KymoaneT4W) | [The Boy From Beckenham](https://open.spotify.com/album/66kcU4aFyNz43AK71YbRBT) | 3:14 |
+| 8 | [Heart\-Shaped Box](https://open.spotify.com/track/49ZqzWNFWJJpXUoDH0ZaC3) | [Marcin](https://open.spotify.com/artist/2F7PtF4lRVIufJd6Sjud71) | [Heart\-Shaped Box](https://open.spotify.com/album/22PE6brFbO4xXEpbhj9kyp) | 3:39 |
+| 9 | [Man On The Silver Mountain](https://open.spotify.com/track/6QRr9OKjvnCGKub5ZFjvB7) | [Paul Gilbert](https://open.spotify.com/artist/19sJfp2FK2evlsw46WVhPG) | [The Dio Album](https://open.spotify.com/album/6z8exOI6HX7AsMIDwN8OsC) | 4:19 |
+| 10 | [Karnevel!](https://open.spotify.com/track/0ntkYJFuL0xYBL9EzDclTv) | [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn) | [Karnevel!](https://open.spotify.com/album/6ZI8RVYgxxSymcnQT4DqnH) | 8:40 |
 | 11 | [Meteor Shower](https://open.spotify.com/track/7pC3d4gm2YoRqYgG0brbTT) | [The Fusion Syndicate](https://open.spotify.com/artist/3w0iUnjFFyPgi2QW8sXxm1), [Marty Friedman](https://open.spotify.com/artist/5czW6bitDSKbNBNDizRT9p), [Brian Auger](https://open.spotify.com/artist/304senzcXGpWqcpssNpmXJ) | [Meteor Shower](https://open.spotify.com/album/3909cpay4YHvWDe5NCymLk) | 3:36 |
 | 12 | [Zig Zag](https://open.spotify.com/track/4Sz7cjZ85xjcgrZ82WsbVW) | [Oz Noy](https://open.spotify.com/artist/0AM6acfaheGmY5egsH0shd), [Dennis Chambers](https://open.spotify.com/artist/5tdGXBxRVers4lWxUqRMzn), [Jimmy Haslip](https://open.spotify.com/artist/5ngGllFz8UMTMeazVphrPb) | [Triple Play](https://open.spotify.com/album/3dDU3PWrXlMHW5C9eJebpu) | 8:23 |
 | 13 | [Around The Galaxy](https://open.spotify.com/track/5jfki545vcq6g8nZOZt3pq) | [AFØNK](https://open.spotify.com/artist/4VB29du3XEqCOhcLzWi4LE), [Varra](https://open.spotify.com/artist/5ftlDLqup1wvAk1VTPIC6R), [Lorenzo Ceci](https://open.spotify.com/artist/7o8migpxnky7QOsNC81fCM) | [Around The Galaxy](https://open.spotify.com/album/6oWeyIBchMFd5LLN95sAV8) | 3:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lf3LZ6Czqu.md) - [plain]
 | 99 | [Tumescent](https://open.spotify.com/track/3YrsPyrXHkV5EZnSuyLpCN) | [Steve Lukather](https://open.spotify.com/artist/7vLNQciZsWdkYFCqY2osFM) | [All's Well That Ends Well](https://open.spotify.com/album/0MUOKjKpJOWr9PFwgt4OtN) | 4:02 |
 | 100 | [The Answer](https://open.spotify.com/track/1ez3IST5sbHJsHXhzefpDR) | [Richie Kotzen](https://open.spotify.com/artist/6nYo7m5cO64bANRvilwVBb) | [Slow](https://open.spotify.com/album/5F5w7O6boIDy3lKnrzxXNP) | 1:16 |
 
-Snapshot ID: `ZsgJQAAAAAAPonot7fCFJ2GV04/NaSTU`
+Snapshot ID: `Ztp+QAAAAABYBUEIeSXzaHMSAzqq/W2e`

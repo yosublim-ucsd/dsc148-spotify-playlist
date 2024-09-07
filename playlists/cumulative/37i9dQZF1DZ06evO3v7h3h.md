@@ -2,7 +2,7 @@
 
 ### [This Is Rashid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3v7h3h)
 
-> This Is Rashid\. Los temas esenciales, todos en una lista.
+> This is Rashid\. The essential tracks, all in one playlist.
 
 81 songs - 5 hr 36 min
 

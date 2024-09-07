@@ -4,12 +4,13 @@
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Hyldon
 
-98 songs - 5 hr 52 min
+99 songs - 5 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Lua e Eu](https://open.spotify.com/track/0hJuldyE2xuTjm24zApF3C) | [Michael Sullivan](https://open.spotify.com/artist/3lF1WfwVjShSiYwJqhuZBb), [Cassiano](https://open.spotify.com/artist/23E2hrdvZnKUYpNZRIxhjx) | [A Lua e Eu](https://open.spotify.com/album/7F27VBEpt1J7RrdK4L1kOK) | 3:45 | 2023-12-08 |  |
 | [A Vida Em Seus Metodos Diz Calma](https://open.spotify.com/track/6niY7onsGQgK2sgF9XrYir) | [Di Melo](https://open.spotify.com/artist/4KyZtyl55zzHoBJUp07Doe) | [Di Melo](https://open.spotify.com/album/2Uri1KkpSo6YOnjLC4ly7F) | 3:42 | 2023-12-08 |  |
+| [Aconteceu em Geribá](https://open.spotify.com/track/32gkbhRVA46rnmZWsSDSdf) | [Hyldon](https://open.spotify.com/artist/0ejC7uoHm9rW22mjbLpDgY) | [Aconteceu em Geribá](https://open.spotify.com/album/2ibzWbdC1sspjBkgUREIeR) | 4:38 | 2024-08-30 |  |
 | [Aeroporto](https://open.spotify.com/track/1GHgaj9wk3SjRwmwr1fReW) | [Doug O.](https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0) | [Aeroporto](https://open.spotify.com/album/5Iz6x9d8U6UNsM4T7wfQzq) | 3:29 | 2023-12-08 | 2024-03-30 |
 | [Alibaba](https://open.spotify.com/track/72xneD3pAJmEPJ6Jhbnsoh) | [Melanina Carioca](https://open.spotify.com/artist/1RVHk1teWy5ftUa7J4RiMj) | [Alibaba](https://open.spotify.com/album/1eu7tu748UiYLHVcM9SQoe) | 3:04 | 2023-12-08 |  |
 | [Amor Distante \- Rap Mix](https://open.spotify.com/track/6EVjdyR5MzER5Tbvo59AXy) | [Mano Brown](https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Boogie Naipe](https://open.spotify.com/album/6HsKHQGO3oineHD04cm17X) | 4:01 | 2023-12-08 |  |

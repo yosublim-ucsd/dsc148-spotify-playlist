@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Halsey
 
-2,344 songs - 5 day 5 hr 59 min
+2,345 songs - 5 day 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1479,6 +1479,7 @@
 | [No Bad Energy](https://open.spotify.com/track/4RuCu5EaKXY60YcOzdLZYt) | [Miraa May](https://open.spotify.com/artist/2fOvE1l01YyORhYzwoaLCM) | [No Bad Energy](https://open.spotify.com/album/2SIpildhIlKFKx0eULa3dN) | 3:13 | 2024-08-29 | 2024-09-06 |
 | [No Better Than Chance](https://open.spotify.com/track/5MzodeYdjEzCxTj9L3A12W) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [No Better Than Chance](https://open.spotify.com/album/5Ofxr1HjwLJLG0ruXiJGpu) | 3:36 | 2024-05-30 | 2024-06-21 |
 | [No Broke Boys](https://open.spotify.com/track/5yTYLJY7Atcew0MHm7bmjk) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Quantum Baby](https://open.spotify.com/album/6lCHEpHcYgC24XO87InJjZ) | 2:12 | 2024-08-15 | 2024-09-06 |
+| [No Face](https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [No Face](https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h) | 2:17 | 2024-09-06 |  |
 | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/track/3CfE1ZWtyJyi4GioBjwS7R) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete) | [No Future? Yeah Right \(feat\. Rou Reynolds\)](https://open.spotify.com/album/5axzKeJiGWgRV4OlFdSPHL) | 3:16 | 2022-09-15 | 2022-10-14 |
 | [NO INTENTION](https://open.spotify.com/track/771Tpqi1DLOrqwfiNV3Er9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI), [LEILAH](https://open.spotify.com/artist/4dHH0sPGUjJcRXffp9nr1e) | [NO INTENTION](https://open.spotify.com/album/6ZLNsoZyBz9SlYnTe1syri) | 4:07 | 2023-05-04 | 2023-05-26 |
 | [No Justice 4 Grenfell, No Peace](https://open.spotify.com/track/4xfeP9VdQivxdtcaUF1FLQ) | [Big Zuu](https://open.spotify.com/artist/3FyA6R41UYLDXfRRcaOhh5), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m) | [No Justice 4 Grenfell, No Peace](https://open.spotify.com/album/4Hw8t6mRiXBVssPD4AqtMO) | 2:13 | 2023-12-15 | 2024-01-19 |

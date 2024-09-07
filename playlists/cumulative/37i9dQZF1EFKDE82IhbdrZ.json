@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "my neighbours don't know.",
+        "url": "https://open.spotify.com/album/6ou5jov81dSypk2KJOLnCQ"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262977,
+      "name": "h2s - Bonus track",
+      "url": "https://open.spotify.com/track/7KFF8MzCpu1s8zTrHMt3Of"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 1.5)",
         "url": "https://open.spotify.com/album/3egFmnuKrjoMAlqCfdw7KH"
       },
@@ -4206,10 +4224,28 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 181806,
       "name": "Pleasure & Pain",
       "url": "https://open.spotify.com/track/41SrjhwnvyWLXQiHKR1T2g"
+    },
+    {
+      "album": {
+        "name": "old shit",
+        "url": "https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO"
+      },
+      "artists": [
+        {
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181806,
+      "name": "Pleasure & Pain",
+      "url": "https://open.spotify.com/track/4Dj7XEvak7XhSNGR6S0xSC"
     },
     {
       "album": {
@@ -4864,6 +4900,24 @@
     {
       "album": {
         "name": "old shit",
+        "url": "https://open.spotify.com/album/0Oveu0yUJQeQ6qgiFBEQMO"
+      },
+      "artists": [
+        {
+          "name": "GUNNAR",
+          "url": "https://open.spotify.com/artist/3o4OtMGLmvvLSx19ZjtuSn"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "Somewhere We Can Be Alone",
+      "url": "https://open.spotify.com/track/4JD8cPfPPjkyc8wAeHur1h"
+    },
+    {
+      "album": {
+        "name": "old shit",
         "url": "https://open.spotify.com/album/5cQYXYQya0oPKmhJr3LHl0"
       },
       "artists": [
@@ -4874,7 +4928,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182073,
       "name": "Somewhere We Can Be Alone",
       "url": "https://open.spotify.com/track/612HMpIFnryiPCFdtDZH4P"

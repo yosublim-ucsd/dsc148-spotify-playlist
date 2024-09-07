@@ -1,12 +1,12 @@
 {
   "description": "The best of modern blues rock. Cover: Joe Bonamassa",
-  "num_followers": 218431,
+  "num_followers": 218506,
   "original_name": "Modern Blues Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zr7OwAAAAAAQgyqStha+j/8v2hKmAf1X",
+  "snapshot_id": "Ztp+QAAAAABbaDsSpRjAbYVYzL5mfsMH",
   "tracks": [
     {
       "added_at": "2024-08-16 04:00:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/7fnus8BlkLMMreW0BA2Vu9"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "The Southern",
+        "url": "https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 203733,
+      "name": "Looking for a Fight",
+      "url": "https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv"
+    },
+    {
       "added_at": "2024-08-16 04:00:00",
       "album": {
         "name": "Long Way Down",
@@ -55,22 +71,6 @@
       "duration_ms": 231400,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Blow Wind Blow",
-        "url": "https://open.spotify.com/album/1rQr3i5EBvvfaDhSG4rnRs"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 208637,
-      "name": "Blow Wind Blow",
-      "url": "https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW"
     },
     {
       "added_at": "2024-07-05 04:00:00",

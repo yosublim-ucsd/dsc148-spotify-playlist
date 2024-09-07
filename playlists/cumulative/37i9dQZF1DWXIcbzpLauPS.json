@@ -2942,7 +2942,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 222355,
       "name": "Burial Season",
       "url": "https://open.spotify.com/track/6nCXEWuVVQEV7HsJw42w2P"
@@ -3856,7 +3856,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 163000,
       "name": "CTRL",
       "url": "https://open.spotify.com/track/4WNyYOoxDl97rKtmx7PAox"
@@ -6270,7 +6270,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 182434,
       "name": "Failstate",
       "url": "https://open.spotify.com/track/3azEr1hhru3U90cc8Y2aH8"
@@ -13848,6 +13848,24 @@
       "duration_ms": 199186,
       "name": "Satanic Panic",
       "url": "https://open.spotify.com/track/2VQGwuPW5yKa4CximuFlQh"
+    },
+    {
+      "album": {
+        "name": "Sayonara",
+        "url": "https://open.spotify.com/album/0M6v6jigZvNlLEEiqFxQpA"
+      },
+      "artists": [
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164254,
+      "name": "Sayonara",
+      "url": "https://open.spotify.com/track/4b7XlNxARNw1DB8qmkCdLk"
     },
     {
       "album": {

@@ -2091,6 +2091,24 @@
     },
     {
       "album": {
+        "name": "AM/PM",
+        "url": "https://open.spotify.com/album/44YOBuLwAxZxhJ6zVvCtWj"
+      },
+      "artists": [
+        {
+          "name": "Lil Fuub",
+          "url": "https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249243,
+      "name": "Carta Aberta",
+      "url": "https://open.spotify.com/track/7bYemOhOuShzPq4BAje0XI"
+    },
+    {
+      "album": {
         "name": "Trof\u00e9u",
         "url": "https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp"
       },
@@ -5962,7 +5980,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 195364,
       "name": "LARAR\u00c1",
       "url": "https://open.spotify.com/track/1e8HlCspDNf04JKn2Y1PkO"
@@ -6244,7 +6262,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 205262,
       "name": "Malabarista 2",
       "url": "https://open.spotify.com/track/4tXRX1CKsuRJo455T5snf0"
@@ -10407,6 +10425,32 @@
     },
     {
       "album": {
+        "name": "Sem Carona pra Jack",
+        "url": "https://open.spotify.com/album/7mDDtPUYMlUWLkS3YzLtaB"
+      },
+      "artists": [
+        {
+          "name": "Daniel Shadow",
+          "url": "https://open.spotify.com/artist/1LvjA6Ux3EPygir0HSTt2q"
+        },
+        {
+          "name": "Dalsin",
+          "url": "https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk"
+        },
+        {
+          "name": "Scarp",
+          "url": "https://open.spotify.com/artist/0OmdmG9Z8MKODtlhzA3bei"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Sem Carona pra Jack",
+      "url": "https://open.spotify.com/track/0C8zUJbEmFjUoKaDCjfT6g"
+    },
+    {
+      "album": {
         "name": "Sem Miseric\u00f3rdia",
         "url": "https://open.spotify.com/album/5PA2OeMnqM5m6RRKkULITp"
       },
@@ -10930,7 +10974,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 165517,
       "name": "SONHAR",
       "url": "https://open.spotify.com/track/1BGWVmKMGPOHgbcougU0o7"
@@ -11056,6 +11100,28 @@
       "duration_ms": 170000,
       "name": "Super Hip-Hop",
       "url": "https://open.spotify.com/track/7k4c5WdMwfp8zJAxcTOTeE"
+    },
+    {
+      "album": {
+        "name": "S\u00e2ndalo",
+        "url": "https://open.spotify.com/album/6YL2tioDLFXGUMlH2U38uB"
+      },
+      "artists": [
+        {
+          "name": "Igor Bidi",
+          "url": "https://open.spotify.com/artist/1oCAVVaWwRObYk7fDJFNwr"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221351,
+      "name": "S\u00e2ndalo",
+      "url": "https://open.spotify.com/track/4dyYdTAl9LtLxXM4ciJUZ0"
     },
     {
       "album": {

@@ -726,7 +726,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-07",
       "duration_ms": 208637,
       "name": "Blow Wind Blow",
       "url": "https://open.spotify.com/track/0offIBJWGuYFQ0vZ9tgFcW"
@@ -3002,6 +3002,24 @@
       "duration_ms": 231400,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/5hrBQajZ8DoBV4EZbFCN4V"
+    },
+    {
+      "album": {
+        "name": "The Southern",
+        "url": "https://open.spotify.com/album/1DmrY3LM2KUPgWOj5COQxE"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Looking for a Fight",
+      "url": "https://open.spotify.com/track/1gxaZZaM4pxrUNQ0Sx8bGv"
     },
     {
       "album": {

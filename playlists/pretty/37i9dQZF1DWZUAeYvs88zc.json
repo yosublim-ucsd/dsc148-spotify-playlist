@@ -1,12 +1,12 @@
 {
   "description": "For all of us dancing on our own.",
-  "num_followers": 600390,
+  "num_followers": 600352,
   "original_name": "Sad Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsi0NAAAAAD6NzZy5Z9RsXlw7lDSeai/",
+  "snapshot_id": "ZtsEkQAAAACKUD38MuyNDJcWIszY/KbP",
   "tracks": [
     {
       "added_at": "2024-08-23 16:09:24",
@@ -45,6 +45,38 @@
       "url": "https://open.spotify.com/track/1ItdTDx23yt7tIJOZv5iLQ"
     },
     {
+      "added_at": "2024-09-06 13:21:10",
+      "album": {
+        "name": "Songs my friends might wanna dance to",
+        "url": "https://open.spotify.com/album/7cVOHtmGfN45izQ0y8ChEI"
+      },
+      "artists": [
+        {
+          "name": "Margaret Berger",
+          "url": "https://open.spotify.com/artist/4J8wx45aOWsfkQsEt7mVV2"
+        }
+      ],
+      "duration_ms": 205840,
+      "name": "I can`t make you love me",
+      "url": "https://open.spotify.com/track/2i2SrAq9CVlwmKH4nbKP2P"
+    },
+    {
+      "added_at": "2024-08-23 16:09:24",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+    },
+    {
       "added_at": "2024-08-23 16:09:24",
       "album": {
         "name": "How Long (From \"Euphoria\" An HBO Original Series)",
@@ -75,6 +107,22 @@
       "duration_ms": 197746,
       "name": "Looking for Love",
       "url": "https://open.spotify.com/track/2mnpxgYxvU3cx8EQtY8cuU"
+    },
+    {
+      "added_at": "2024-09-06 13:33:05",
+      "album": {
+        "name": "Somebody Else But Me",
+        "url": "https://open.spotify.com/album/4a02x4jjFQOr9B9DxocEoH"
+      },
+      "artists": [
+        {
+          "name": "Francis On My Mind",
+          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
+        }
+      ],
+      "duration_ms": 210497,
+      "name": "Somebody Else But Me",
+      "url": "https://open.spotify.com/track/52sscicigpGQsQLp3iuKRY"
     },
     {
       "added_at": "2024-08-23 16:09:24",
@@ -399,22 +447,6 @@
     {
       "added_at": "2024-08-23 16:09:24",
       "album": {
-        "name": "Pretty Slowly",
-        "url": "https://open.spotify.com/album/6P8euK0BjgTqallJTGoJTX"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 261420,
-      "name": "Pretty Slowly",
-      "url": "https://open.spotify.com/track/1QxxBUAx42J8pIFYJJR880"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
         "name": "Love Me Not / Love Is Blind",
         "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
       },
@@ -599,22 +631,6 @@
     {
       "added_at": "2024-08-23 16:09:24",
       "album": {
-        "name": "Eras Of Us",
-        "url": "https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX"
-      },
-      "artists": [
-        {
-          "name": "FLETCHER",
-          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
-        }
-      ],
-      "duration_ms": 168668,
-      "name": "Eras Of Us",
-      "url": "https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
         "name": "Pang",
         "url": "https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
-      "added_at": "2024-08-23 16:09:24",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
       "added_at": "2024-08-23 16:09:24",

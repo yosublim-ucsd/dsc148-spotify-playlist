@@ -1,13 +1,33 @@
 {
-  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Barbel",
-  "num_followers": 119628,
+  "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Chicocurlyhead",
+  "num_followers": 119676,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtFDwAAAAADueQnSghwT43zIUoIMR27o",
+  "snapshot_id": "Ztp+QAAAAADMVbit+Z83tq7XI3x2ZbWS",
   "tracks": [
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "I'll Show You",
+        "url": "https://open.spotify.com/album/58nMzmrXTZTUHqadHUoq5m"
+      },
+      "artists": [
+        {
+          "name": "Chicocurlyhead",
+          "url": "https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1"
+        },
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "I'll Show You",
+      "url": "https://open.spotify.com/track/3YMpqqttldtinT0F9cAbjJ"
+    },
     {
       "added_at": "2024-06-28 04:00:00",
       "album": {
@@ -89,6 +109,26 @@
       "url": "https://open.spotify.com/track/4lFnfbRhGSpTm17XKGcXs6"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Si Te Parto",
+        "url": "https://open.spotify.com/album/1QJL2JSYWMxG87wFI3ydHm"
+      },
+      "artists": [
+        {
+          "name": "Rik",
+          "url": "https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh"
+        },
+        {
+          "name": "La Baby",
+          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
+        }
+      ],
+      "duration_ms": 137631,
+      "name": "Si Te Parto",
+      "url": "https://open.spotify.com/track/2z9eihSsKW03aUgcD683LZ"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "Orion",
@@ -107,26 +147,6 @@
       "duration_ms": 240964,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5pVJ3IlnpIorU44oXizzG5"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Cuando",
-        "url": "https://open.spotify.com/album/68TiuUpgtjXf4iMjypi0sq"
-      },
-      "artists": [
-        {
-          "name": "Predikador",
-          "url": "https://open.spotify.com/artist/2thPpoFosFJC33Yy4xIAWY"
-        },
-        {
-          "name": "El Roockie",
-          "url": "https://open.spotify.com/artist/3sc8HnadkPW5YaIGbCljw4"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "Cuando",
-      "url": "https://open.spotify.com/track/6bqEwYcDLJYMnTo7JmBWHe"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -155,6 +175,26 @@
       "duration_ms": 221100,
       "name": "La Ruta",
       "url": "https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "OBVIA TENTACI\u00d3N",
+        "url": "https://open.spotify.com/album/2l5h3BKMWmacn5gqinxYCk"
+      },
+      "artists": [
+        {
+          "name": "Ladele OTM",
+          "url": "https://open.spotify.com/artist/0ryLYxj89KsjwIZEwS0k8J"
+        },
+        {
+          "name": "Haquil",
+          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
+        }
+      ],
+      "duration_ms": 175679,
+      "name": "OBVIA TENTACI\u00d3N",
+      "url": "https://open.spotify.com/track/5h8A87rMJ3DqzFCQVwyeNQ"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -237,6 +277,30 @@
       "url": "https://open.spotify.com/track/71LrvCBBn4q500OuayF7OK"
     },
     {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Ojitos Cafe",
+        "url": "https://open.spotify.com/album/5X7Z8z6DXF127mbngPHljg"
+      },
+      "artists": [
+        {
+          "name": "El Dusty",
+          "url": "https://open.spotify.com/artist/746tySZWCr6nqgEjmQyKyB"
+        },
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Eiby",
+          "url": "https://open.spotify.com/artist/09hiuib0jApNPaf9sDXlSn"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Ojitos Cafe",
+      "url": "https://open.spotify.com/track/3pKUAIXQGfZC2dfWV9nXi2"
+    },
+    {
       "added_at": "2024-05-31 04:00:00",
       "album": {
         "name": "TITI",
@@ -271,26 +335,6 @@
       "duration_ms": 157767,
       "name": "Party En Mi Casa",
       "url": "https://open.spotify.com/track/5PEzhJIvmjFCFZcFZRze9S"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Vip",
-        "url": "https://open.spotify.com/album/28eakD0gKzXmiKLV1yrVkh"
-      },
-      "artists": [
-        {
-          "name": "DimeloYossi",
-          "url": "https://open.spotify.com/artist/5Hq36dh82zGGB2mTEMb652"
-        },
-        {
-          "name": "Kabliz",
-          "url": "https://open.spotify.com/artist/0wGBm2CPjVcX983nxL0iTy"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Vip",
-      "url": "https://open.spotify.com/track/1PlRznnNpnc78OjG52TtLL"
     },
     {
       "added_at": "2024-02-15 17:30:32",
@@ -367,22 +411,6 @@
       "duration_ms": 211983,
       "name": "Veneno",
       "url": "https://open.spotify.com/track/1ARzLQnVJwKNiHTULmi28n"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "No Son Traquetos",
-        "url": "https://open.spotify.com/album/3uKIEwqBL69WhCjsvblPRe"
-      },
-      "artists": [
-        {
-          "name": "EL BEWI",
-          "url": "https://open.spotify.com/artist/0TscbxeMzPiEDhB0NlmNuL"
-        }
-      ],
-      "duration_ms": 182674,
-      "name": "No Son Traquetos",
-      "url": "https://open.spotify.com/track/2LXMqzZKPiSaK4yTJMYt6r"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -907,34 +935,6 @@
       "duration_ms": 340480,
       "name": "Dragona Rmix",
       "url": "https://open.spotify.com/track/1nuf47FxdQrxekJJ8fVndJ"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "CASA VERDE",
-        "url": "https://open.spotify.com/album/0pRLWvPjTW5zZ2K8iDO4sj"
-      },
-      "artists": [
-        {
-          "name": "BARBEL",
-          "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
-        },
-        {
-          "name": "Haquil",
-          "url": "https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG"
-        },
-        {
-          "name": "Nerry Money",
-          "url": "https://open.spotify.com/artist/6g6DtbtyBi3Ir0mxiDlouJ"
-        },
-        {
-          "name": "Kevin Ice",
-          "url": "https://open.spotify.com/artist/5XQ0aNr3aINifZ93L4FUYI"
-        }
-      ],
-      "duration_ms": 246628,
-      "name": "CASA VERDE",
-      "url": "https://open.spotify.com/track/56Tqz9oHlrH2Okx282tlu7"
     },
     {
       "added_at": "2024-02-02 05:00:00",

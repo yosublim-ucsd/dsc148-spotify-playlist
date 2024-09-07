@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Buzzin",
+        "url": "https://open.spotify.com/album/6lX5ErdQxTzLzC8sgwJjcl"
+      },
+      "artists": [
+        {
+          "name": "LOCASH",
+          "url": "https://open.spotify.com/artist/5IcGbIAgdns0R5EJKHMjCQ"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156290,
+      "name": "Buzzin",
+      "url": "https://open.spotify.com/track/1ypZC70MBzg7KGbfrLoUxy"
+    },
+    {
+      "album": {
         "name": "The Foundation",
         "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
       },

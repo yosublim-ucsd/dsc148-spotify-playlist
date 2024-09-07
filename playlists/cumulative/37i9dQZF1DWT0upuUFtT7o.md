@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: SPIRIT OF THE BEEHIVE
 
-2,720 songs - 6 day 6 hr 11 min
+2,721 songs - 6 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -814,6 +814,7 @@
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-19 | 2023-05-18 |
 | [Flying](https://open.spotify.com/track/6vfECc8xeDQIJbZPywBtBW) | [Ginger Taylor](https://open.spotify.com/artist/5JcE9KsiwTxPmxLsfqKfT5) | [Arcadia](https://open.spotify.com/album/2ea4lMGCvPUPIYXMhxgKXg) | 3:32 | 2023-08-08 | 2023-09-14 |
 | [Follow the Cyborg](https://open.spotify.com/track/1HOWyFATPgYbCBMdKM1A66) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Follow the Cyborg](https://open.spotify.com/album/1OQ0lvy9RPGBRJH1i8DJes) | 4:45 | 2022-11-09 | 2022-12-01 |
+| [Follow Your Captain](https://open.spotify.com/track/2osES61bEzDAHFczATHyDS) | [fantasy of a broken heart](https://open.spotify.com/artist/7fgs0Ym1ukMZDgKjx8mbMe) | [Follow Your Captain](https://open.spotify.com/album/5xXj2BZ9wWkJv8SzTHRG1u) | 4:14 | 2024-09-06 |  |
 | [fool](https://open.spotify.com/track/75aUlS76iBZCO3O5OsDDV9) | [little luna](https://open.spotify.com/artist/5p6wO94xYpLb7bhXNQz4HU) | [the wildflower woman](https://open.spotify.com/album/2UNKNKGbqxBqeGfgVZS3Gm) | 3:03 | 2024-01-17 | 2024-02-15 |
 | [FOOL 4 U](https://open.spotify.com/track/350gfBgFmGRocTUld0ppMP) | [Matty](https://open.spotify.com/artist/7K1kHQsB2m87TMVcDbZAfW) | [FOOL 4 U](https://open.spotify.com/album/0129HIAFAn0iAdGTZ1BPyd) | 3:04 | 2024-05-22 | 2024-07-04 |
 | [Fool's Errand](https://open.spotify.com/track/4HIrdylHUvP42eJICaCLqf) | [Gelareh](https://open.spotify.com/artist/44ob07Vm9CJcHyzR5cyEfB) | [Fool's Errand](https://open.spotify.com/album/2rCxWq8RBopW23C0lNOSYc) | 3:19 | 2023-05-17 | 2023-06-15 |

@@ -4,7 +4,7 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-154 songs - 8 hr 58 min
+155 songs - 9 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Living Don't Cost a Lot](https://open.spotify.com/track/5FaouE0oUkLV2SQbDsBjGh) | [Johnny Dailey](https://open.spotify.com/artist/6bXNUXv0KrjvuDVs8skKc7) | [Love Every Minute](https://open.spotify.com/album/7Mkqjn18c0OK3lA3QnXsOE) | 3:10 | 2023-05-19 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2022-04-24 |  |
 | [Margaritaville](https://open.spotify.com/track/4EEjMyQub6tgFVshlM9j1M) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Changes In Latitudes, Changes In Attitudes](https://open.spotify.com/album/3JWlQzyse21gwhqu2D6UQD) | 4:10 | 2020-09-08 |  |
+| [MIA Down In MIA](https://open.spotify.com/track/05GQWrTY4ntMareQlgnGEB) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [MIA Down In MIA](https://open.spotify.com/album/47nvV9R8dSHmpX4oM9ILmC) | 3:29 | 2024-09-06 |  |
 | [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 | 2022-04-24 |  |
 | [Mimosas](https://open.spotify.com/track/4qK2dwwOMhM5glUsgk9BwJ) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/6v0nKIJz5dP5iZWGClu2JH) | 3:03 | 2023-11-03 | 2024-04-19 |
 | [Mozambique](https://open.spotify.com/track/4glXMXiiOlJP4ZJmMZ1Yvu) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Mozambique / University Of Bourbon Street](https://open.spotify.com/album/1FOgVvIp41RW2dOkdm9Dwj) | 3:16 | 2023-11-03 |  |
