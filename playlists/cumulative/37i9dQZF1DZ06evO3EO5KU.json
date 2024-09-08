@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-02",
-  "description": "This Is Los Plebes del Rancho de Ariel Camacho. Los temas esenciales, todos en una lista.",
+  "description": "This is Los Plebes del Rancho de Ariel Camacho. The essential tracks, all in one playlist.",
   "name": "This Is Los Plebes del Rancho de Ariel Camacho",
   "tracks": [
     {
@@ -170,6 +170,28 @@
       "duration_ms": 191637,
       "name": "Ah\u00ed Est\u00e1 El Detalle",
       "url": "https://open.spotify.com/track/1EHCom65D7A8cGBiuMNqhw"
+    },
+    {
+      "album": {
+        "name": "Algo Bien",
+        "url": "https://open.spotify.com/album/1aVzxKZtuM9hOV0NR2CWqt"
+      },
+      "artists": [
+        {
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
+        },
+        {
+          "name": "Tony Aguirre",
+          "url": "https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174853,
+      "name": "Algo Bien",
+      "url": "https://open.spotify.com/track/30rJOT2ceu7Fz3RnRWAukU"
     },
     {
       "album": {
@@ -1136,7 +1158,7 @@
       ],
       "date_added": "2024-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 131471,
       "name": "Ma\u00f1anitas A Mi Madre",
       "url": "https://open.spotify.com/track/6R5e0QiFWqgeMBPVmm9op0"

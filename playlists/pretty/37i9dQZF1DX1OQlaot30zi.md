@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di  Sixpm, Ernia, Shiva, Artie 5ive e tanti altri! 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,211 likes - 87 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,225 likes - 87 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 20 | [4X4](https://open.spotify.com/track/54j9WqGM5qQQAaO58tTsB6) | [Philip](https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ), [Skinny Flex](https://open.spotify.com/artist/4FhC69hLxEcpLUaC08ityW) | [4X4](https://open.spotify.com/album/391J3aAlf22fuHzHSoRokv) | 3:00 |
 | 21 | [Autostrada](https://open.spotify.com/track/3kQ1IyFY6LEjjoLCl9rInQ) | [Solø](https://open.spotify.com/artist/1R0q1GO6iqTMPSh0aek1gp), [DOXX](https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr), [Nisba](https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa) | [Autostrada](https://open.spotify.com/album/1FR1jG3pZLbcG1FaDn5cHz) | 3:11 |
 | 22 | [Cchiù tiempo \(feat\. Club Dogo\)](https://open.spotify.com/track/7H7NBg9NjyEy2eV8nQ22TR) | [Cosang](https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu), [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv) | [DINASTIA](https://open.spotify.com/album/6AJDbheXx2Y9zvBba38EoH) | 3:23 |
-| 23 | [Guardami dentro](https://open.spotify.com/track/0jXVfC0vUMKhX2jRueeUUD) | [Turke](https://open.spotify.com/artist/2KykPLbyztREu3Q5SvtXSn), [S\-N](https://open.spotify.com/artist/5UrcD7yQAOu19e6rc46HoG) | [Guardami dentro](https://open.spotify.com/album/5TkNSvqkjqI54MeOGURcxc) | 3:15 |
+| 23 | [Guardami dentro](https://open.spotify.com/track/0jXVfC0vUMKhX2jRueeUUD) | [Turke](https://open.spotify.com/artist/2KykPLbyztREu3Q5SvtXSn), [S\-N](https://open.spotify.com/artist/5UFq9C1WRGEbrKvKZ4rYbZ) | [Guardami dentro](https://open.spotify.com/album/5TkNSvqkjqI54MeOGURcxc) | 3:15 |
 | 24 | [Temari](https://open.spotify.com/track/0Au5T2BazDKzoHIzRMiB8v) | [Meri](https://open.spotify.com/artist/0wMC49AIBN8CVYTEbnBqup), [Psycho](https://open.spotify.com/artist/553cCRABrOOflXVdzZopWY) | [Temari](https://open.spotify.com/album/7rAHurZrbtPlnxQQS2xIUA) | 2:27 |
 | 25 | [tutte le mie notti](https://open.spotify.com/track/4VfUYdqzEyN7B90jPEAmJY) | [main](https://open.spotify.com/artist/1c7qYAfX0Rwg1woBsqpCzz), [bless](https://open.spotify.com/artist/51omrX2a1LfghTD6LIAPkN) | [tutte le mie notti](https://open.spotify.com/album/1kTreH9Rqi48aRpAa4sC4u) | 2:56 |
 | 26 | [PUSHER](https://open.spotify.com/track/4AOwvkpzgaUri9J58eAixp) | [Testo](https://open.spotify.com/artist/4P2Fu9IJyHEhW7jHrCtsEE) | [PUSHER](https://open.spotify.com/album/4Wp8KMqU3oo3DudKmltQxq) | 2:30 |

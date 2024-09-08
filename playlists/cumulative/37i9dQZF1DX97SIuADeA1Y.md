@@ -4,7 +4,7 @@
 
 > slap house on repeat.
 
-282 songs - 12 hr 13 min
+283 songs - 12 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 | 2022-01-21 |  |
 | [Barking](https://open.spotify.com/track/2rlnXj1REcPnuX0zsjTsLY) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [WISEKIDS](https://open.spotify.com/artist/6OXzciYkZCsfLnechSnFR2) | [Barking](https://open.spotify.com/album/5DS8dJack2dJ939t7xjaeT) | 2:19 | 2022-01-17 | 2023-04-01 |
 | [Bassdrum](https://open.spotify.com/track/2zQDDt8pjlLJdNFPslJ0RQ) | [Nora & Chris](https://open.spotify.com/artist/0YFn3NxI5ooU7IhGvRB5Yg) | [Bassdrum](https://open.spotify.com/album/1KXnZAv96J0lcSZY9WyG47) | 2:36 | 2022-01-21 | 2022-07-26 |
+| [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 | 2024-09-06 |  |
 | [Be Alright](https://open.spotify.com/track/0JOK49ejPRXTw6KPjzN1QZ) | [Kilian K](https://open.spotify.com/artist/04sHHRws8Q7apGxRnUnjQs), [Jannis Block](https://open.spotify.com/artist/79nzgEOWF4wA968BixPPz8), [Relu](https://open.spotify.com/artist/29IRRauSRbZKp5JE1YYTfo) | [Be Alright](https://open.spotify.com/album/4VW86TwZ3b0WJp3aQKonEt) | 2:23 | 2022-03-25 | 2022-04-21 |
 | [Beating Broken Heart](https://open.spotify.com/track/2kqMZ9mWxK52aAk1wZFwCn) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [Jon Paul](https://open.spotify.com/artist/7KxTSiCDnkZfTVKEWzONc9), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Beating Broken Heart](https://open.spotify.com/album/7AzJReocWDkxQaEAAyQ2Cl) | 2:19 | 2022-05-26 | 2022-10-02 |
 | [Bed of Roses](https://open.spotify.com/track/2SX6Sw4tr0Ol8MpV2a5nvv) | [Fabian Farell](https://open.spotify.com/artist/4IOhVReVZmK8yRqFgcxDvY), [John Bandit](https://open.spotify.com/artist/7nTXL1UxFj53iOSCTeNCAz) | [Bed of Roses](https://open.spotify.com/album/5jFpf5bzpwKSXhDPZ1l13k) | 2:08 | 2022-03-25 | 2022-04-17 |
@@ -108,7 +109,7 @@
 | [Goodbye](https://open.spotify.com/track/4crczEC1PpoD8TsDsmoWNI) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Goodbye](https://open.spotify.com/album/2wUKHXscUlHKW0tEVVYqRs) | 2:24 | 2022-01-17 | 2023-02-18 |
 | [Halo](https://open.spotify.com/track/2kfZCiSWhAYKdxD7o7WLoa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Halo](https://open.spotify.com/album/6fN9aKsrArw37XP4Wdiiw6) | 2:36 | 2022-09-30 |  |
 | [Heartbreaker](https://open.spotify.com/track/07PSGQ8vwLkuvxkWX6QVxY) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Heartbreaker](https://open.spotify.com/album/0jgwDmblXtB5r6AwB7R1eF) | 2:30 | 2022-01-17 | 2022-02-02 |
-| [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 | 2022-01-21 |  |
+| [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/track/3V1eIzRyGQpFyt4EAUeZzl) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Robert Falcon](https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk), [Sofia Quinn](https://open.spotify.com/artist/7aa9NIJCeJoYtpUL56UH6Q) | [Heaven \(feat\. Sofia Quinn\)](https://open.spotify.com/album/1mpwmzS71USpO99PFvwIGg) | 2:51 | 2022-01-21 | 2024-09-08 |
 | [High Like This](https://open.spotify.com/track/38XcmJDV2pjjVcCvdpMpA2) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [FR!ES](https://open.spotify.com/artist/6s9IlZhrBJqv3ZCSNzP2Gs) | [High Like This](https://open.spotify.com/album/6TiMCmTJh5ADHupJLR1cRV) | 2:49 | 2022-01-17 | 2022-07-03 |
 | [Honeymoon](https://open.spotify.com/track/3WXjjUvstMuTJ10MekZF74) | [EQRIC](https://open.spotify.com/artist/1Yj7SsIEP9k7SsE1HcMBrq), [ISAEV](https://open.spotify.com/artist/7iUsVLMlakNkftEkbBNBBh) | [Honeymoon](https://open.spotify.com/album/58ArLG1Ic0rG5B9lh0WDNe) | 2:24 | 2022-02-18 | 2022-03-04 |
 | [Hope](https://open.spotify.com/track/3rM2w9Mq79FFz6gj6w94A1) | [Eastblock Bitches](https://open.spotify.com/artist/5ujBuZtDUrPORHkAyQJTjP), [OBS](https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko) | [Hope](https://open.spotify.com/album/0fsR7Xf4FkBW9qRTn9AxiK) | 2:20 | 2022-03-25 | 2022-04-21 |

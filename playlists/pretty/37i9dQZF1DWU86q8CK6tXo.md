@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,171 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,177 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 7 | [YAHWEH](https://open.spotify.com/track/2X8by6m44p9dpivzyzB14p) | [Anike](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0), [Porsha Love](https://open.spotify.com/artist/09TMRjnEN1r9vDFa4XmbbG) | [Anike](https://open.spotify.com/album/6PzZRVqEuFrt2U6f5j4yEf) | 2:49 |
 | 8 | [I Love You, I'm Sorry](https://open.spotify.com/track/51rfRCiUSvxXlCSCfIztBy) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 2:37 |
 | 9 | [Sailor Song](https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Sailor Song](https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit) | 3:31 |
-| 10 | [Set Me Free](https://open.spotify.com/track/3qhLNrxBl4j21NDuyl3oW3) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Am Rachel Platten](https://open.spotify.com/album/4xf67BuXkTlZrKecqMkIGe) | 3:36 |
+| 10 | [I Don't Really Care \(Set Me Free\)](https://open.spotify.com/track/3qhLNrxBl4j21NDuyl3oW3) | [Rachel Platten](https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq) | [I Am Rachel Platten](https://open.spotify.com/album/4xf67BuXkTlZrKecqMkIGe) | 3:36 |
 | 11 | [Diet Pepsi](https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [Diet Pepsi](https://open.spotify.com/album/0XA403JTounqFh2owquBXu) | 2:49 |
 | 12 | [No One Noticed](https://open.spotify.com/track/40QmyP1PmvFYjs8CzYsXA7) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [If Only + No One Noticed](https://open.spotify.com/album/6hfbOuLgpGhXRDQJiExTmF) | 3:56 |
 | 13 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 37 | [No Volveré](https://open.spotify.com/track/5fbdwmA3mVyuu8lMM7FlEu) | [Leanys](https://open.spotify.com/artist/0e1Zih19iuVEnhZPOuqL9V) | [Nova](https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN) | 3:28 |
 | 38 | [heavy](https://open.spotify.com/track/18d0w2K7oWeAu4oUkyCgu6) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [heavy](https://open.spotify.com/album/7Fk3bnVOENvP7GfQeuNLZ5) | 3:30 |
 | 39 | [Baby Dragon](https://open.spotify.com/track/1IiGlnA7K558hYKMQBov7B) | [Mona Yim](https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv) | [Baby Dragon](https://open.spotify.com/album/4ygfkIvjDsQizHqBr9NzHY) | 3:27 |
-| 40 | [how to let go](https://open.spotify.com/track/4uRFvPPT97e8Xq5hwuiqf7) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [how to let go](https://open.spotify.com/album/6KFqbpKkrtqjSYCNvTBb8N) | 3:23 |
-| 41 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |
+| 40 | [Calling Dreams \(feat\. Flyana Boss\)](https://open.spotify.com/track/1thdb2b3h04HS0n3du72uN) | [Ebonie Smith](https://open.spotify.com/artist/3N2TVDR39zCIpfsg73ZzJS), [On Imagination](https://open.spotify.com/artist/7FB5WHVSU9Flq5TTbV11Fs), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [On Imagination](https://open.spotify.com/album/1hcghxF9FXgIE7zeQ3C9Ev) | 1:17 |
+| 41 | [how to let go](https://open.spotify.com/track/4uRFvPPT97e8Xq5hwuiqf7) | [Kylie Odetta](https://open.spotify.com/artist/2meUQKRm9yos5hbsWl9TRq) | [how to let go](https://open.spotify.com/album/6KFqbpKkrtqjSYCNvTBb8N) | 3:23 |
 | 42 | [Stronger Than You Know](https://open.spotify.com/track/3I16kAch3NaddHKq3Z9CcO) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Echo](https://open.spotify.com/album/0T8JaGsEsukQVp9oo2Md9Y) | 2:17 |
 | 43 | [Can't You See](https://open.spotify.com/track/2qOOIfzwvUkKNAXS3fIptP) | [Low the Great](https://open.spotify.com/artist/1M3n2lIeQHcETTVPYS6Ccb), [CUZZOS](https://open.spotify.com/artist/0TY3Wab2Z1kmp5jZoxdPjZ) | [Can't You See](https://open.spotify.com/album/0NSfYdKMZgMfWAKx54ukEB) | 3:15 |
 

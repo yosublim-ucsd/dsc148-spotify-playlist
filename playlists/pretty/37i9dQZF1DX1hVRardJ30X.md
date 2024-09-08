@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Grupo Frontera & Gabito Ballesteros, JHAYCO , NATTI NATASHA, Nicky Jam, Calle 24 and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,545 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,595 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 40 | [TRÊS](https://open.spotify.com/track/2xjwVhT91obFavd67VOo80) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO), [Giorgio Siladi](https://open.spotify.com/artist/70yXUWs47Ej8wyiChPutgj) | [TRÊS](https://open.spotify.com/album/0KumR96axybpkdPFmLpAsc) | 3:00 |
 | 41 | [Femenine \(feat\. Urias\) \- Maffalda Remix](https://open.spotify.com/track/1qn0gTkX9foLwawl2OQGKT) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Maffalda](https://open.spotify.com/artist/3Y6LyX8cnJuJLpehsijwEC) | [Femenine \(feat\. Urias\) \- Maffalda Remix](https://open.spotify.com/album/1E4nN7Jz9XuVmQlPfarTfe) | 2:54 |
 | 42 | [Pikito](https://open.spotify.com/track/3aMYvhmBYhBw5nDxY7PZpc) | [La Gabi](https://open.spotify.com/artist/3WsE5ectfizV81CnVMkbbi) | [Pikito](https://open.spotify.com/album/4B3JLflLxaqQ68mzpLrL5I) | 2:31 |
-| 43 | [PDM](https://open.spotify.com/track/3yk1nkXeZ1dvQdrX44K0Pt) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [MOCHIMA](https://open.spotify.com/album/7vPu3m68gpdSv9w7TS2KuA) | 2:48 |
+| 43 | [PDM](https://open.spotify.com/track/3yk1nkXeZ1dvQdrX44K0Pt) | [LOS MENOR3S](https://open.spotify.com/artist/4FkBhfL2GQLkwBwV6qNhOQ) | [MOCHIMA](https://open.spotify.com/album/7vPu3m68gpdSv9w7TS2KuA) | 2:45 |
 | 44 | [Cuando Yo Te Vi](https://open.spotify.com/track/0wQC0lus3OSTREF4G1X4od) | [Nosoytriste :c](https://open.spotify.com/artist/6V2X7afrGbSy85HDjfHdJX), [Nico Salas](https://open.spotify.com/artist/4JoeqMyMO3SFmxwYk3Iclr) | [Cuando Yo Te Vi](https://open.spotify.com/album/70VMaQ8c5czg0pl7TheybU) | 2:27 |
 | 45 | [Juan Diego](https://open.spotify.com/track/04ZMPbN9S5Rm5kiOLOMos7) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Mismo Loco](https://open.spotify.com/album/1J8M5qIcl72dyB5JiLd2dS) | 4:17 |
 | 46 | [dos al medio](https://open.spotify.com/track/7fV4LQWjs5Re0XZIuuxGHm) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [dos al medio](https://open.spotify.com/album/0wHAoAI0vSvUBlDGEnkl4K) | 3:49 |
 | 47 | [Green Lights \(La Luz\)](https://open.spotify.com/track/57MAFQ4tFh7vYefz5hyofN) | [Michaela Jaé](https://open.spotify.com/artist/1XtZq3vSEgghxZS9aqITv5) | [Green Lights \(La Luz\)](https://open.spotify.com/album/06mGkV3wuFPcfvUM2MvBhQ) | 3:24 |
 | 48 | [Fanático](https://open.spotify.com/track/23BRl9qKZM168QtRM8eFAX) | [Abril](https://open.spotify.com/artist/0wZ9WDL6cOLiD45dj8eHo1) | [Fanático](https://open.spotify.com/album/357dtsybsVAkSwkwOtlO6U) | 2:13 |
-| 49 | [Tranquila](https://open.spotify.com/track/0Okq4LEBbpCyahdSvVAb0h) | [Aylin](https://open.spotify.com/artist/5AjybryLHK4tUbnPzTf1Gr) | [Tranquila](https://open.spotify.com/album/5G1ZXUJo94azmIdU8JhkyS) | 2:12 |
+| 49 | [Tranquila](https://open.spotify.com/track/0Okq4LEBbpCyahdSvVAb0h) | [Aylin](https://open.spotify.com/artist/5AjybryLHK4tUbnPzTf1Gr) | [Tranquila](https://open.spotify.com/album/5G1ZXUJo94azmIdU8JhkyS) | 2:24 |
 | 50 | [Amor Criminal](https://open.spotify.com/track/70VKe2la96bP5mCcR3C7q7) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Amor Criminal](https://open.spotify.com/album/2oUIW9LzryBrnFVu6VsA14) | 2:26 |
 
 Snapshot ID: `Ztp+QAAAAABlfHTbPlY6HLV7HBiYAwFm`

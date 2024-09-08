@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Dum Chica en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,555 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,562 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MT1Ubz4wvO.md) - [plain]
 | 22 | [Quemar](https://open.spotify.com/track/41GmAHfhdlKSKsW8do6KZX) | [New Wave Kill](https://open.spotify.com/artist/59fCxPVa9fMT7J9JdbflyG) | [Quemar](https://open.spotify.com/album/2gHrh1K4dEKN7g9DFdTSGT) | 3:07 |
 | 23 | [Little Things](https://open.spotify.com/track/6haFRw4AVmF8bsXVfahi2P) | [No Stories](https://open.spotify.com/artist/0mbkM3QZtS7hm3M1peCnPc) | [Little Things](https://open.spotify.com/album/41IudbXV8RZDUxyqif0PAA) | 3:46 |
 | 24 | [Baracunatana \- En Vivo](https://open.spotify.com/track/77WSWNeN1hyzTHebTy8kxH) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Más Allá De El Dorado \- En Vivo](https://open.spotify.com/album/7azkGbZ35XnVM1PYhmw9LS) | 3:27 |
-| 25 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
+| 25 | [Calavera](https://open.spotify.com/track/051m0yMunQHD5Zxc1P1FvZ) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04), [Manuel Moretti](https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk) | [Calavera](https://open.spotify.com/album/6pRRRIq4SoYqXZZTBCF5xV) | 3:37 |
 | 26 | [Ya me fui](https://open.spotify.com/track/6mMSv0UE5AEvHD9DadkI26) | [OkMark](https://open.spotify.com/artist/6y996plgJcSEgDNFgdntj1), [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Ya me fui](https://open.spotify.com/album/5K9ojktYA69iDD0v83AEBA) | 3:09 |
 | 27 | [Vámonos a Guadalajara](https://open.spotify.com/track/3LUWj2rLMGQ7GRmIlKhkwq) | [Azul de Viena](https://open.spotify.com/artist/2Ie8P8WAdI3FMvEuWS52pQ) | [Vámonos a Guadalajara](https://open.spotify.com/album/51V7x3RZJ4XWUfA3m2hiCu) | 2:54 |
 | 28 | [\_CYBERCITY](https://open.spotify.com/track/4koKm7ZYNNKa7tT6g1Ionv) | [Instincktt](https://open.spotify.com/artist/1bn5p3aILJ2eL5LKuwDGBf) | [\_CYBERCITY](https://open.spotify.com/album/5DpmfPZErcFOydhMudPCQ0) | 4:01 |

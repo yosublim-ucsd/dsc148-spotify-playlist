@@ -1,13 +1,33 @@
 {
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 154658,
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
+  "num_followers": 154690,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAADJrRG2izaklptSN73ei7Ck",
+  "snapshot_id": "ZtpGAAAAAAA4t+qCMWVt8RdbrjyUJJhX",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Texas Flood - Remastered 2024",
+        "url": "https://open.spotify.com/album/7aZJyyT4SnGYlreZDTlYsW"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 1201488,
+      "name": "Texas Flood - Remastered 2024",
+      "url": "https://open.spotify.com/track/1UJTPt48XBuPpk35yHdK3Y"
+    },
     {
       "added_at": null,
       "album": {
@@ -399,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 198666,
+      "name": "Love Me Darlin'",
+      "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Solos, Sessions & Encores",
         "url": "https://open.spotify.com/album/34moluVsUish03HIUdzSze"
       },
@@ -415,22 +451,6 @@
       "duration_ms": 179826,
       "name": "Pipeline",
       "url": "https://open.spotify.com/track/38woaO9J9HFdlL5qBdAm68"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Love Me Darlin'",
-      "url": "https://open.spotify.com/track/1sjUHvDjIh4pCjAVwvbB4D"
     },
     {
       "added_at": null,
@@ -499,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In Session",
-        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        },
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 359266,
-      "name": "Pride And Joy",
-      "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Born Under A Bad Sign - Remastered 2024",
         "url": "https://open.spotify.com/album/54XP7RjHT5DNMbuikQ6PWm"
       },
@@ -535,6 +535,26 @@
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/6vJboOIXrS84uGnwkK3u7o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 359266,
+      "name": "Pride And Joy",
+      "url": "https://open.spotify.com/track/5LNkpie03tsGvZgFxc2R0P"
     },
     {
       "added_at": null,

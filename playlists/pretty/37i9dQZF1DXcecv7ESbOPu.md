@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,286 likes - 111 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 215,331 likes - 111 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 38 | [I mina armar](https://open.spotify.com/track/75gZKsfo18ifT3NmAOwFOh) | [Stjärnfamiljen](https://open.spotify.com/artist/2r4Pb3a2tCSI6KNA0juZaz), [Rymdpojken](https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17) | [I mina armar](https://open.spotify.com/album/4ROTWkloGXBZy2KmpC5mIQ) | 3:23 |
 | 39 | [VHS RAVE](https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [VHS RAVE](https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX) | 3:11 |
 | 40 | [Distance](https://open.spotify.com/track/6pkp8MTmqjavdVFWLr3XrI) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Richello](https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6) | [Distance](https://open.spotify.com/album/6j7BnRFKkIoj3bHZukWG7j) | 2:17 |
-| 41 | [Back Together](https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn), [TANTAN](https://open.spotify.com/artist/22WLKBeI4ofh8PKKiqVwJr) | [Back Together](https://open.spotify.com/album/4qXezjJFYWj356titZIkzc) | 2:30 |
+| 41 | [Back Together](https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn), [TANTAN](https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi), [Alma](https://open.spotify.com/artist/5uZbVKq45nBJMTqDAmhXia) | [Back Together](https://open.spotify.com/album/4qXezjJFYWj356titZIkzc) | 2:30 |
 | 42 | [My Ex Would've Left By Now](https://open.spotify.com/track/3xXiTsAs1QvekEsnrvnynf) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [My Ex Would've Left By Now](https://open.spotify.com/album/5FZs5tmpZ9ai0YQBMtiBXh) | 3:26 |
 | 43 | [Amor Criminal](https://open.spotify.com/track/70VKe2la96bP5mCcR3C7q7) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Amor Criminal](https://open.spotify.com/album/2oUIW9LzryBrnFVu6VsA14) | 2:26 |
 | 44 | [The Lick](https://open.spotify.com/track/324j2Np2PLfN6lbI1NQpBb) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [The Lick](https://open.spotify.com/album/5aQ1RJzxPBTdjx8igxivvN) | 2:09 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 48 | [Be Shan](https://open.spotify.com/track/3m9nvhUxZjotCDm5emQ85N) | [BIJI](https://open.spotify.com/artist/2spZzA9c41ahb6OIXkYJgy) | [Be Shan](https://open.spotify.com/album/77l5eleoJ7SAZ3zd6GsP43) | 3:39 |
 | 49 | [The Heat](https://open.spotify.com/track/48dpaw8uNJOaOQqh4tuk7p) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [The Heat](https://open.spotify.com/album/5yz98zU9Q0jqwaBP1ppMI4) | 2:30 |
 | 50 | [I AM](https://open.spotify.com/track/3SP86A20TPRFJnOksCgke7) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [I AM](https://open.spotify.com/album/16PMPA18bWzRcard7KzueH) | 2:41 |
-| 51 | [Del av dig \- Radio Edit](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig \- Radio Edit](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 |
+| 51 | [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 |
 | 52 | [Lagt kort ligger](https://open.spotify.com/track/4f0EwvoGMtj1IQZ4bwTLWF) | [Benny Anderssons Orkester](https://open.spotify.com/artist/5KcJSAFLAEtpCkK5EI0KLS), [Helen Sjöholm](https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx) | [Lagt kort ligger](https://open.spotify.com/album/5TEnh1yxwpajxln13n15Qd) | 3:01 |
 | 53 | [Vara Vi](https://open.spotify.com/track/5pG80Oi7qBEq6mkgIRc2V4) | [Kåren](https://open.spotify.com/artist/2mDX5SCZQKUZvvMCwqst3r) | [Vara Vi](https://open.spotify.com/album/4ZlMLWj0XuHhAQ09MyYzrI) | 3:30 |
 | 54 | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/track/1syRhE7HRKfMu24bgBIRPT) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [I Don't Know How To Say Goodbye \(Bang Bang Boom Boom\)](https://open.spotify.com/album/4qeMOx94PKBKg5J1XGTvF7) | 3:26 |

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAG1PN/orN46HJSODk257Qn",
+  "snapshot_id": "AAAAAAAAAACSn7D1jH4ep9vJ57+Q91wy",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "The Rest Of The Best - Vol. 2",
-        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "Communication - Polar Session '01",
-      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
         "url": "https://open.spotify.com/album/3GdrCN0UEBdlvSmD730Wm5"
       },
@@ -55,22 +39,6 @@
       "duration_ms": 250133,
       "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
       "url": "https://open.spotify.com/track/0PXBZRk6FrXzzxJfAkmHhd"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
-        "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Fading Like A Rose (Original +2 bpm)",
-      "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -103,22 +71,6 @@
       "duration_ms": 218160,
       "name": "Cherry - Alt. Version",
       "url": "https://open.spotify.com/track/3vohVefnFQ0vsQRt3K9PxM"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -179,6 +131,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "The Rest Of The Best - Vol. 2",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
         "url": "https://open.spotify.com/album/7iPyXregflstnu85dXNEMZ"
       },
@@ -199,22 +167,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Parasite - acoustic",
-        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
       },
       "artists": [
         {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Parasite - acoustic",
-      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -283,6 +247,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Parasite - acoustic",
+        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Parasite - acoustic",
+      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
+        "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Fading Like A Rose (Original +2 bpm)",
+      "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -379,6 +379,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Becoming the Bull",
+        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
+      },
+      "artists": [
+        {
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+        }
+      ],
+      "duration_ms": 238363,
+      "name": "Becoming the Bull - Reimagined",
+      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
       },
@@ -399,18 +415,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Becoming the Bull",
-        "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
+        "name": "Mind Games - The Evolution Documentary",
+        "url": "https://open.spotify.com/album/2MrE4HnQdR9ns3eQFMnhP5"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "John Lennon",
+          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
         }
       ],
-      "duration_ms": 238363,
-      "name": "Becoming the Bull - Reimagined",
-      "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
+      "duration_ms": 201713,
+      "name": "I'm The Greatest - Evolution Documentary",
+      "url": "https://open.spotify.com/track/7qOS3huAuOUOXjWRe8ENIi"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -539,22 +555,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Yes - Mind Games Meditation Mix",
-        "url": "https://open.spotify.com/album/6aRKumCaAorGCDtliAuQ14"
-      },
-      "artists": [
-        {
-          "name": "John Lennon",
-          "url": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-        }
-      ],
-      "duration_ms": 363189,
-      "name": "Yes - Mind Games Meditation Mix",
-      "url": "https://open.spotify.com/track/4V3GpjOf7OqVUOzS62ffmy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"
       },
@@ -583,70 +583,6 @@
       "duration_ms": 195560,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/5D7QfKHK1w7jkman29CNnr"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Other Landscapes, Vol. 1",
-        "url": "https://open.spotify.com/album/3mRM87d7RHlFrF27fWhAtD"
-      },
-      "artists": [
-        {
-          "name": "BVSMV",
-          "url": "https://open.spotify.com/artist/7HWcg7goTzFVUBMnzDCYdF"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Kaleidoscope Eyes",
-      "url": "https://open.spotify.com/track/0KyOqeVAPYVKcryHhqrGPU"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Call The Devil",
-        "url": "https://open.spotify.com/album/6a9tn0up9UcqpqEn49X49o"
-      },
-      "artists": [
-        {
-          "name": "Mushroomhead",
-          "url": "https://open.spotify.com/artist/18absyD7lQaXUDBXnyzU8M"
-        }
-      ],
-      "duration_ms": 280560,
-      "name": "Eye To Eye",
-      "url": "https://open.spotify.com/track/7EPpqsbDMJjHf6IL0l9g3D"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "50th Anniversary Live - Second Night",
-        "url": "https://open.spotify.com/album/3ZFAS293XPGNfuXcKzdhtO"
-      },
-      "artists": [
-        {
-          "name": "Blue \u00d6yster Cult",
-          "url": "https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2"
-        }
-      ],
-      "duration_ms": 290431,
-      "name": "Burnin' For You - Live",
-      "url": "https://open.spotify.com/track/5zAdE8QwyFuFExIFNOhPQR"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "VSQ Performs the Hits of 2024",
-        "url": "https://open.spotify.com/album/5og9lzNTh4Ak19jLp81Bnk"
-      },
-      "artists": [
-        {
-          "name": "Vitamin String Quartet",
-          "url": "https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz"
-        }
-      ],
-      "duration_ms": 216213,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/7BmSSHBfpq4LsyBURC5rL3"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

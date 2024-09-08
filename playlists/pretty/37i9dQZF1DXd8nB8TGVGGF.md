@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,140 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,204 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 17 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 |
 | 18 | [Frosty \- Single Version](https://open.spotify.com/track/4uaMKjr8pj92Z0PYwSeN5b) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Truckin' With Albert Collins](https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj) | 3:05 |
 | 19 | [Goin' Down Slow](https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 4:49 |
-| 20 | [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 |
-| 21 | [Outside Woman Blues](https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:24 |
+| 20 | [Outside Woman Blues](https://open.spotify.com/track/5BSN3UcARskPfzxA6YhJCM) | [Cream](https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw) | [Disraeli Gears](https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY) | 2:24 |
+| 21 | [Black Cat Moan](https://open.spotify.com/track/6fagHyNeLIDG58qt0GQ8l2) | [Beck, Bogert, Appice](https://open.spotify.com/artist/5IjFZHS2iHNl5pMwLzDySP) | [Beck, Bogert, Appice](https://open.spotify.com/album/6FJqfog8O3e8gypdDlsCvz) | 3:46 |
 | 22 | [Voodoo Chile Blues](https://open.spotify.com/track/2z34AUAlDL5ZVjZpCNqwD1) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 8:48 |
 | 23 | [Can't Wait to See My Baby's Face](https://open.spotify.com/track/6NvzGdklM7t1anBJicWR8Q) | [Buster Benton](https://open.spotify.com/artist/3eBGrFX7u2Py7eiwvwosc4) | [Blues & Trouble \(Blues Reference 1983\-1985\)](https://open.spotify.com/album/2k2MADUj4Fd3mhJWQbQoqt) | 4:58 |
 | 24 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 82 | [Hard Luck Blues](https://open.spotify.com/track/75SPHJFXqvEWhUg4a9GrlJ) | [Tommy Tucker](https://open.spotify.com/artist/3Hu7yAx1kVULnXjSznYZRf) | [Hi\-Heel Sneakers](https://open.spotify.com/album/3i7uEh9Ahiknj8bQGOSBJe) | 3:44 |
 | 83 | [You Put the Heart on Me](https://open.spotify.com/track/68qLyoQEO4ub6Gq9SoUaZM) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI), [Pinetop Perkins](https://open.spotify.com/artist/6h3s7UekUkRHes73EG5N55) | [Chicago Blues Session Volume 12](https://open.spotify.com/album/3aIsNJmW34RBXNoYOTKyOE) | 2:40 |
 | 84 | [I'm Worried](https://open.spotify.com/track/7IuiCifsATBLv4PQHHsP5T) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Blues Jam In Chicago \- Volume 1](https://open.spotify.com/album/3t81Ka8mPF6NUUj0MUL43H) | 3:46 |
-| 85 | [Don’t Want Nobody Else](https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [On The Waterfront](https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ) | 2:24 |
+| 85 | [Someday Baby](https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X), [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 3:02 |
 | 86 | [The Purple Puppy](https://open.spotify.com/track/6ULPuvWEQYXPPzdfGzq90k) | [Lightnin' Hopkins](https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE) | [Talkin' Some Sense](https://open.spotify.com/album/4AHgFBOENvVS8v9xvvqddA) | 3:28 |
 | 87 | [Goin' to Chicago](https://open.spotify.com/track/2qthiyAT4MJjYuM1q5Qqo1) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Blues Ain't Nothin' \(Recorded in France 1971\-1973\)](https://open.spotify.com/album/3KTnRBMogesNlMGkx4Axb1) | 4:17 |
-| 88 | [Someday Baby](https://open.spotify.com/track/5vTyYoCaZ36Blzv92w2vtC) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X), [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 3:02 |
+| 88 | [Don’t Want Nobody Else](https://open.spotify.com/track/1QfqNHg7jHpbf6sE9YDNud) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [On The Waterfront](https://open.spotify.com/album/1hxZ6gTtb5P91mZLwD3QvQ) | 2:24 |
 | 89 | [The Letter](https://open.spotify.com/track/4cCSqQBd2b6Uu0ErT4zXvd) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [The Complete Blue Horizon Sessions](https://open.spotify.com/album/4gcdawHFamYzxAplmMgeur) | 4:26 |
 | 90 | [Billy Boy's Jump](https://open.spotify.com/track/1FdYBTTaSGYMaz1zf42kzJ) | [Billy Boy Arnold](https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o) | [Goin' To Chicago](https://open.spotify.com/album/4p5MlG351OaQac8CRZsF3K) | 2:31 |
 | 91 | [So Unkind \- 1999 RemasterStereo](https://open.spotify.com/track/72I1RvU2o1Yt8agkT95ePZ) | [Love Sculpture](https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq) | [Blues Helping](https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB) | 2:57 |

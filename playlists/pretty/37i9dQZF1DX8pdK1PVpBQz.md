@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. <br/>Cover: Don West
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,140 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,145 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 29 | [Golden](https://open.spotify.com/track/07G5tvQwGol3XuRzL78VXp) | [Mac The Knife](https://open.spotify.com/artist/3EH6Un3g3K7KwvfOVygIMb) | [Golden](https://open.spotify.com/album/1e4NlOAKP1BVVDfrVDFq6J) | 3:36 |
 | 30 | [Gasoline](https://open.spotify.com/track/4kx56XMYqeztccIqO75O7i) | [Lotte Gallagher](https://open.spotify.com/artist/2JxsTclANm7fsrgko9AUgx) | [Gasoline](https://open.spotify.com/album/7jtn4rjqaSORdOQtxJcWud) | 4:05 |
 | 31 | [money!](https://open.spotify.com/track/5TMe1z5xSYiHx8UbPt7OMn) | [Charli Lucas](https://open.spotify.com/artist/2uBSEsTRvk0bDhOD0ZCUWx) | [money!](https://open.spotify.com/album/6Uww2b9MjkQPye3NRfJueW) | 2:30 |
-| 32 | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/track/0mbzecMlsHZIJrwOlxE8Nt) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t), [Mo'Ju](https://open.spotify.com/artist/2nrS28wu4Z5zjJGcDQT2pt) | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/album/0bhVDIpXvjTGSg5S0PkaoL) | 2:38 |
+| 32 | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/track/0mbzecMlsHZIJrwOlxE8Nt) | [PA777IENCE](https://open.spotify.com/artist/2uUBytPvcqMfHrmqmNwM5t), [Mo’Ju](https://open.spotify.com/artist/08kSC3EyOASw4LU1BmBG6g) | [WDUC? \(feat\. Mo'Ju\)](https://open.spotify.com/album/0bhVDIpXvjTGSg5S0PkaoL) | 2:38 |
 | 33 | [Alone in the Dark](https://open.spotify.com/track/6ACoOMAlEwliECFRTCsTvr) | [Buttercats](https://open.spotify.com/artist/5uIXMYal5c0Yv0sG9DeK2Z) | [Alone in the Dark](https://open.spotify.com/album/4l7xgeq26WRqCk3CoSWHhG) | 3:43 |
 | 34 | [poison](https://open.spotify.com/track/708OIcF8K7xaT8Pj7XqSml) | [tiffi](https://open.spotify.com/artist/4bQCZKbtYa0W0hzA7JrpC4) | [poison](https://open.spotify.com/album/1obOKGKtYzlDjO4hyO6LHn) | 2:05 |
 | 35 | [all you ever wanted](https://open.spotify.com/track/3e5Naa5Me3ayj6zdalxgh4) | [DIVEBAR YOUTH](https://open.spotify.com/artist/3KtqczwOaFO6xJUEZ0UvYT) | [all you ever wanted](https://open.spotify.com/album/0x3ctIe3xyiAUYoJbUY1db) | 3:42 |

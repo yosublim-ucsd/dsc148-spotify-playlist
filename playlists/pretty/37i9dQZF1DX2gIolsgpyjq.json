@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: Sl\u00f8tface",
-  "num_followers": 22324,
+  "num_followers": 22328,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoppAAAAABE7qhtecwbGCgL2SwdoY4t",
+  "snapshot_id": "ZtxlMgAAAACtcGFuRXoPhPVweqwwV9Iy",
   "tracks": [
     {
       "added_at": "2024-09-05 21:59:00",
@@ -39,6 +39,22 @@
       "duration_ms": 209900,
       "name": "Substitutes",
       "url": "https://open.spotify.com/track/50XIfH5abQ2grHdYPSBbNZ"
+    },
+    {
+      "added_at": "2024-09-07 14:37:38",
+      "album": {
+        "name": "Salted Caramel",
+        "url": "https://open.spotify.com/album/7F2umeDOswPV2JebNP9DPm"
+      },
+      "artists": [
+        {
+          "name": "Regina Amado",
+          "url": "https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5"
+        }
+      ],
+      "duration_ms": 181087,
+      "name": "Salted Caramel",
+      "url": "https://open.spotify.com/track/5QhjELiM4ctMXX3tpipYoA"
     },
     {
       "added_at": "2024-09-05 21:59:00",

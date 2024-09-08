@@ -6906,7 +6906,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 182800,
       "name": "Hypnotic Cycle",
       "url": "https://open.spotify.com/track/3waqzZPc7fwEx3JKB5gqqZ"
@@ -12434,6 +12434,24 @@
       "duration_ms": 182959,
       "name": "Shook",
       "url": "https://open.spotify.com/track/3EZqBIdUYKPUJ4nL35vufg"
+    },
+    {
+      "album": {
+        "name": "Show Me",
+        "url": "https://open.spotify.com/album/3nJo6xciOneTirb3NF98d5"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145333,
+      "name": "Show Me",
+      "url": "https://open.spotify.com/track/18fkKMZ9OA0NBBRSOOVWNj"
     },
     {
       "album": {

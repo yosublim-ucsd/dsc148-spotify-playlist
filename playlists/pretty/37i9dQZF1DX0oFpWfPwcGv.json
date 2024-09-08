@@ -1,15 +1,127 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 64448,
+  "num_followers": 64475,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zow+xQAAAAAlmN62B9LAfEqc7GGy/wqH",
+  "snapshot_id": "Ztx5GQAAAADs14o2OL/Do+OXxKz8to+r",
   "tracks": [
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Dance Collection",
+        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
+      },
+      "artists": [
+        {
+          "name": "Donna Summer",
+          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
+        }
+      ],
+      "duration_ms": 1067333,
+      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
+      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Love Sensation",
+        "url": "https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr"
+      },
+      "artists": [
+        {
+          "name": "Loleatta Holloway",
+          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
+        }
+      ],
+      "duration_ms": 394533,
+      "name": "Love Sensation - A Tom Moulton Mix",
+      "url": "https://open.spotify.com/track/14usFmu6ZuP3i5VBFMMSp5"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "All The Great Hits",
+        "url": "https://open.spotify.com/album/4JsSOfR8Jp41NFjNaLZ7zU"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 474226,
+      "name": "Love Hangover - 12\" Version",
+      "url": "https://open.spotify.com/track/4NnTT5Bk4iddbZct0jz00I"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Take The Heat Off Me",
+        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 242240,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Relight My Fire (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 406213,
+      "name": "Relight My Fire - 12\" Disco Remix",
+      "url": "https://open.spotify.com/track/4cTSigQmLfTKYmJUd6rlrv"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 266826,
+      "name": "Thinking of You - 1995 Remaster",
+      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
@@ -33,103 +145,7 @@
       "url": "https://open.spotify.com/track/4nWrCsWZzxiXX8FYHbydzl"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Love Sensation",
-        "url": "https://open.spotify.com/album/4eK7j8ZSR9AGn3mR8WGqtr"
-      },
-      "artists": [
-        {
-          "name": "Loleatta Holloway",
-          "url": "https://open.spotify.com/artist/3m5hegxlB80Z2zQb1893pc"
-        }
-      ],
-      "duration_ms": 394533,
-      "name": "Love Sensation - A Tom Moulton Mix",
-      "url": "https://open.spotify.com/track/14usFmu6ZuP3i5VBFMMSp5"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Can't Get Enough Of Your Love, Babe",
-      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "All The Great Hits",
-        "url": "https://open.spotify.com/album/4JsSOfR8Jp41NFjNaLZ7zU"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 474226,
-      "name": "Love Hangover - 12\" Version",
-      "url": "https://open.spotify.com/track/4NnTT5Bk4iddbZct0jz00I"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Take The Heat Off Me",
-        "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 242240,
-      "name": "Sunny",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Relight My Fire (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 406213,
-      "name": "Relight My Fire - 12\" Disco Remix",
-      "url": "https://open.spotify.com/track/4cTSigQmLfTKYmJUd6rlrv"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 266826,
-      "name": "Thinking of You - 1995 Remaster",
-      "url": "https://open.spotify.com/track/7mimnm2QlSzW3J38FRMETP"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Ring My Bell",
         "url": "https://open.spotify.com/album/5G7Hry7SFLrdsvPu12EUyV"
@@ -145,23 +161,7 @@
       "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Off the Wall",
-        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "Workin' Day and Night",
-      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Going Up",
         "url": "https://open.spotify.com/album/0TGYRrYo4CbhYX6ktuv75f"
@@ -177,7 +177,23 @@
       "url": "https://open.spotify.com/track/6lYY2HktYKpV1pUamfRlU1"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "Workin' Day and Night",
+      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Rhapsody In White (Reissue)",
         "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
@@ -193,7 +209,7 @@
       "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "King Of The World",
         "url": "https://open.spotify.com/album/5CtsuslrRP5CNsmuZQ8UIr"
@@ -209,7 +225,7 @@
       "url": "https://open.spotify.com/track/2HnfVsBDEesQJPcXSyB7L2"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Turn This Mutha Out",
         "url": "https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I"
@@ -225,7 +241,7 @@
       "url": "https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Xanadu",
         "url": "https://open.spotify.com/album/0dWzFLXRM8F1IsEYdKopAa"
@@ -245,7 +261,7 @@
       "url": "https://open.spotify.com/track/4zdspHPxpExPiU8RolxBUH"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Boss (Expanded Edition)",
         "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
@@ -261,7 +277,7 @@
       "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
@@ -277,7 +293,7 @@
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "I Love The Nightlife",
         "url": "https://open.spotify.com/album/6e42g4IxKHPNT6VsRMkP4v"
@@ -293,7 +309,7 @@
       "url": "https://open.spotify.com/track/6c0G8K6G2LlIfJTsRLJjfs"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
@@ -309,7 +325,7 @@
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Triumph (Expanded Version)",
         "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Love Is The Message",
         "url": "https://open.spotify.com/album/6x6beV2H3fTTL2ovxA3iVQ"
@@ -345,7 +361,7 @@
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Odyssey (Expanded Edition)",
         "url": "https://open.spotify.com/album/1uXAM1SMOvZqP198Xnfda6"
@@ -361,23 +377,7 @@
       "url": "https://open.spotify.com/track/1jR4bgFyL3ut5ExAKDDNEZ"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "The Boss",
-      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
@@ -393,7 +393,23 @@
       "url": "https://open.spotify.com/track/4rVxIA2PfuPaFsVH5AOqIm"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 241333,
+      "name": "The Boss",
+      "url": "https://open.spotify.com/track/5kfQK1Vb1mKSwzVn32Tarj"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Music Speaks Louder Than Words",
         "url": "https://open.spotify.com/album/1t3ooTkXczb3rVAvEwu2Et"
@@ -409,7 +425,7 @@
       "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Outline",
         "url": "https://open.spotify.com/album/71NzsQgmjQ5rIm33Hpjv2V"
@@ -425,7 +441,7 @@
       "url": "https://open.spotify.com/track/4lteGaLzU5veJOe6wnOvz4"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Take Me to the Bridge / Jumpin' (Get Hot, Hit the Spot)",
         "url": "https://open.spotify.com/album/3lXdkMownWe2ZcAw4DB5Hx"
@@ -441,7 +457,7 @@
       "url": "https://open.spotify.com/track/4swOfLpGpRXhJaJjYjBuIH"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Best Of Cheryl Lynn: Got To Be Real",
         "url": "https://open.spotify.com/album/4iHg9LCYV1ajkqyFjl3sXy"
@@ -461,7 +477,7 @@
       "url": "https://open.spotify.com/track/2zgVJFC1zMX552Ein72J81"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Never Gonna Let You Go (Expanded Edition)",
         "url": "https://open.spotify.com/album/7vlYGZ9hnsuC57PUiqy0WC"
@@ -477,23 +493,7 @@
       "url": "https://open.spotify.com/track/00Zum0eGUHgcE5l8MoNuUG"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Come to Me",
-        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
-      },
-      "artists": [
-        {
-          "name": "France Joli",
-          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
-        }
-      ],
-      "duration_ms": 590986,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Dance, Dance, Dance: The Best of Chic",
         "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
@@ -509,7 +509,23 @@
       "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Come to Me",
+        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
+      },
+      "artists": [
+        {
+          "name": "France Joli",
+          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
+        }
+      ],
+      "duration_ms": 590986,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Step II",
         "url": "https://open.spotify.com/album/6y64gP67AegGu2rspM2GHo"
@@ -525,7 +541,7 @@
       "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Instant Replay (Expanded Edition)",
         "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
@@ -541,7 +557,7 @@
       "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Keep On Jumpin'",
         "url": "https://open.spotify.com/album/5gQh0forPeR556hKjhEdXW"
@@ -557,7 +573,7 @@
       "url": "https://open.spotify.com/track/6J9rBgsm9USju9PkLf2exF"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Stand on the Word",
         "url": "https://open.spotify.com/album/6326gB2TfeUk41ywKkoo6M"
@@ -573,7 +589,7 @@
       "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
@@ -589,7 +605,7 @@
       "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Deep Grooves",
         "url": "https://open.spotify.com/album/4YmLFWoRJ18TSlw7ROIPIf"
@@ -609,7 +625,7 @@
       "url": "https://open.spotify.com/track/3rwrt4Ks6N6EWIfjfIfLAP"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "I'm Caught Up (In a One Night Love Affair)",
         "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
@@ -625,7 +641,7 @@
       "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Break Out (1983 Version - Expanded Edition)",
         "url": "https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM"
@@ -641,7 +657,7 @@
       "url": "https://open.spotify.com/track/0FCyuLdiv6YXC8YvbYkDM3"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Norma Jean",
         "url": "https://open.spotify.com/album/7Bo2lPXUL79QoKPzbFT1TZ"
@@ -657,7 +673,7 @@
       "url": "https://open.spotify.com/track/59n20ABic3nU1hqy2tDauE"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
@@ -677,7 +693,7 @@
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Bad Girls (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6"
@@ -693,7 +709,7 @@
       "url": "https://open.spotify.com/track/0qWZZsiCMibvawWrBOAyhD"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
@@ -709,7 +725,7 @@
       "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
@@ -725,7 +741,7 @@
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Don't You Want My Love",
         "url": "https://open.spotify.com/album/3wbkiu4RK9zumoN2ibzd5h"
@@ -741,7 +757,7 @@
       "url": "https://open.spotify.com/track/4ti2wje1ckDWltwP45ea9U"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Changing Of The Gard",
         "url": "https://open.spotify.com/album/4EGsIOg5ESHveA9g6InSto"
@@ -757,23 +773,7 @@
       "url": "https://open.spotify.com/track/0OmXNiWR8VZCsx2GfwpvCO"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Dance Collection",
-        "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
-      },
-      "artists": [
-        {
-          "name": "Donna Summer",
-          "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
-        }
-      ],
-      "duration_ms": 1067333,
-      "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
-      "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Love, Luther",
         "url": "https://open.spotify.com/album/6jef6FlX6dgn07Ofvd1gVu"
@@ -789,7 +789,7 @@
       "url": "https://open.spotify.com/track/7tHT1v3DPsPCJV8U6DQOtQ"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Take A Bite",
         "url": "https://open.spotify.com/album/2pjdKFcOiyGDDAxlEyRJIK"
@@ -805,7 +805,7 @@
       "url": "https://open.spotify.com/track/5rCCIwczKGRjGMlbZiODHX"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Go West",
         "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
@@ -821,87 +821,7 @@
       "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
-      },
-      "artists": [
-        {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
-        }
-      ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Essential Jean Carn - The PIR Years",
-        "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
-      },
-      "artists": [
-        {
-          "name": "Jean Carn",
-          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
-        }
-      ],
-      "duration_ms": 389373,
-      "name": "Was That All It Was - 12\" Version",
-      "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Club Columbia",
-        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
-      },
-      "artists": [
-        {
-          "name": "Jackie Moore",
-          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
-        }
-      ],
-      "duration_ms": 433093,
-      "name": "This Time Baby - Special 12\" Version",
-      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Essential Johnny Mathis",
-        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Donna Summer (Re-Mastered & Expanded)",
         "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
@@ -917,23 +837,87 @@
       "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
       "artists": [
         {
-          "name": "Stephanie Mills",
-          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
         }
       ],
-      "duration_ms": 244733,
-      "name": "Put Your Body In It",
-      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Essential Jean Carn - The PIR Years",
+        "url": "https://open.spotify.com/album/0yVvx6X4drgYTeWfAK8xdN"
+      },
+      "artists": [
+        {
+          "name": "Jean Carn",
+          "url": "https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1"
+        }
+      ],
+      "duration_ms": 389373,
+      "name": "Was That All It Was - 12\" Version",
+      "url": "https://open.spotify.com/track/1WHY9kgaOaJdv0hjiiw4pk"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Club Columbia",
+        "url": "https://open.spotify.com/album/6g7JRPx6SdrEDLQS2fQcsI"
+      },
+      "artists": [
+        {
+          "name": "Jackie Moore",
+          "url": "https://open.spotify.com/artist/1EialtL6J5R7O0exgdgQ1w"
+        }
+      ],
+      "duration_ms": 433093,
+      "name": "This Time Baby - Special 12\" Version",
+      "url": "https://open.spotify.com/track/1Ywkbr13F7cOzwHs8QKknI"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Crooklyn Volume II",
         "url": "https://open.spotify.com/album/0D6AKEKQLa5VR5akhUjV0l"
@@ -949,7 +933,23 @@
       "url": "https://open.spotify.com/track/0ofK8UNWOtCFbbizCe8hta"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/4YAxIAMUnzqt0Oq5FRe2W5"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Mills",
+          "url": "https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g"
+        }
+      ],
+      "duration_ms": 244733,
+      "name": "Put Your Body In It",
+      "url": "https://open.spotify.com/track/7aRMjcQaRv4pvIQGu1DYVh"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Twelve Inch Classics from the 70s, Vol. 2",
         "url": "https://open.spotify.com/album/0G6pHS6CdJEUAPzE4RmkMa"
@@ -965,7 +965,7 @@
       "url": "https://open.spotify.com/track/5kEbQwj3CHP9Bqn5gejdmd"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Kid Creole - Ze August Darnell Sessions (Remastered 2018)",
         "url": "https://open.spotify.com/album/06HUHbkpeBZfsVhLpZxUfJ"
@@ -981,7 +981,7 @@
       "url": "https://open.spotify.com/track/3Rnj5AkLsMjZ7LCkptJHx2"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Philadelphia International Records: The Tom Moulton Remixes",
         "url": "https://open.spotify.com/album/25R1Y9bt82lbSwZemUBJ1A"
@@ -1001,7 +1001,7 @@
       "url": "https://open.spotify.com/track/6kTRD53rZvscOShCDotKVy"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "More, More, More",
         "url": "https://open.spotify.com/album/4xQKeiJzX2EmCXt5XdGiTN"
@@ -1017,7 +1017,7 @@
       "url": "https://open.spotify.com/track/0DFb31DLTYkgkNDJSqlPDH"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
@@ -1037,7 +1037,7 @@
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Full Moon",
         "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
@@ -1053,7 +1053,7 @@
       "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Club Epic - A Collection Of Classic Dance Mixes: Volume 4",
         "url": "https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW"
@@ -1069,7 +1069,7 @@
       "url": "https://open.spotify.com/track/4ejEDBcfJgMXyBd9hooIp8"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Best of Candi Staton",
         "url": "https://open.spotify.com/album/3cb3mTuLI8rwHFxLozs8fg"
@@ -1085,7 +1085,7 @@
       "url": "https://open.spotify.com/track/4YPsI3caCo9mOsqI3tc6hv"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Jean Carn",
         "url": "https://open.spotify.com/album/4gsuDhx9sgXP5tqKFolPIj"
@@ -1101,23 +1101,7 @@
       "url": "https://open.spotify.com/track/3Z7zgWmObUJD9mh4ZX1uBL"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Music Man",
-        "url": "https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8"
-      },
-      "artists": [
-        {
-          "name": "Revanche",
-          "url": "https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9"
-        }
-      ],
-      "duration_ms": 519546,
-      "name": "1979 It's Dancing Time (Full Length Album Mix)",
-      "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Reddy",
         "url": "https://open.spotify.com/album/7fX7vwOqp6YRQ3ZQcJR3xI"
@@ -1133,7 +1117,23 @@
       "url": "https://open.spotify.com/track/1tUNwvT6XuZU8I3yOPwkNm"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
+        "name": "Music Man",
+        "url": "https://open.spotify.com/album/2uo8Z48H5MLZEok6e01JQ8"
+      },
+      "artists": [
+        {
+          "name": "Revanche",
+          "url": "https://open.spotify.com/artist/2JhFT8njG4DcTuLQAo0Bi9"
+        }
+      ],
+      "duration_ms": 519546,
+      "name": "1979 It's Dancing Time (Full Length Album Mix)",
+      "url": "https://open.spotify.com/track/4HeTM95uOsZgfZkj0WKJ3P"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Northern Soul Keep the Faith",
         "url": "https://open.spotify.com/album/5y658PIi7zfsQGgWXgKj2B"
@@ -1149,7 +1149,7 @@
       "url": "https://open.spotify.com/track/3hGTJe3xGgJKTR39eg6pIN"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "20 Greatest Hits",
         "url": "https://open.spotify.com/album/1FjPiiZ0qeq7GZ0nnuvHpH"
@@ -1165,7 +1165,7 @@
       "url": "https://open.spotify.com/track/4YG1dGmuVc3akaUEKknn5x"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
@@ -1181,7 +1181,7 @@
       "url": "https://open.spotify.com/track/3oLeHyYhacSx9LTy7jQiTZ"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Way We Were: The Best Of Gladys Knight & The Pips",
         "url": "https://open.spotify.com/album/1KedFSRT6J8cWV4cCG06kE"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/0htlkpMiT2nAUwpBxo64LL"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Let Yourself Go: The \u201970s Albums, Vol. 2: 1974-1977 (The Final Sessions)",
         "url": "https://open.spotify.com/album/7dY1xL0GNNxj2Qu6mePWvG"
@@ -1213,7 +1213,7 @@
       "url": "https://open.spotify.com/track/5niTFUJECbNZ0I2iLpot75"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "The Best of Doris Jones \"No Way Out\"",
         "url": "https://open.spotify.com/album/1zEOxgQDjnzXNVuXO2IlXh"
@@ -1229,7 +1229,7 @@
       "url": "https://open.spotify.com/track/5giBASxVW4R1BFzGtWNEun"
     },
     {
-      "added_at": "2024-02-12 15:00:21",
+      "added_at": "2024-09-07 16:02:33",
       "album": {
         "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
         "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"

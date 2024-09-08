@@ -1,12 +1,12 @@
 {
   "description": "This Is La Fiera de Ojinaga. Los temas esenciales, todos en una lista.",
-  "num_followers": 45768,
+  "num_followers": 45791,
   "original_name": "This Is La Fiera de Ojinaga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAAAPUaOcMZ66870xiwj2bDw+",
+  "snapshot_id": "ZtpGAAAAAABpAipfVgdA1p98QDM8B2cx",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
       "duration_ms": 181984,
       "name": "Chelas y Besos",
       "url": "https://open.spotify.com/track/5qh3nDMUpZr1v3IHcBjePI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Todos Los Idiomas",
+        "url": "https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 175311,
+      "name": "En Todos Los Idiomas",
+      "url": "https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w"
     },
     {
       "added_at": null,
@@ -95,22 +111,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jalas o No Jalas (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/7CwFeQuVgWTxhn3ufnuNX5"
       },
@@ -123,6 +123,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/1UvgNeeoqaa7f1vCgTnM0P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": null,
@@ -655,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calientita",
-        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Calientita",
-      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Retro & Hits",
         "url": "https://open.spotify.com/album/3ofMeo9ODqJDAnqKBHsScj"
       },
@@ -683,6 +683,22 @@
       "duration_ms": 207182,
       "name": "Olvidarte \u00bfC\u00f3mo?",
       "url": "https://open.spotify.com/track/6qoLoLaw4zC48XERFdTBgN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calientita",
+        "url": "https://open.spotify.com/album/5kyoEFoQ2MKSNMCNl0GZw9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Calientita",
+      "url": "https://open.spotify.com/track/0vM0UcnVHS3JQMTaKyU5bG"
     },
     {
       "added_at": null,
@@ -739,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Luna de Miel",
-        "url": "https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 162314,
-      "name": "La Luna de Miel",
-      "url": "https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Bonito Me Quieres",
         "url": "https://open.spotify.com/album/6zviFXbBpDM7SezgnN08I4"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 174840,
       "name": "Qu\u00e9 Bonito Me Quieres",
       "url": "https://open.spotify.com/track/2HBov0hd0kPxzMVYMjchUD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Luna de Miel",
+        "url": "https://open.spotify.com/album/3XFkmdFswCXR8jw6inTShg"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 162314,
+      "name": "La Luna de Miel",
+      "url": "https://open.spotify.com/track/2JQ4kacSA0S9bAkEzejRpH"
     },
     {
       "added_at": null,
@@ -787,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Contados",
-        "url": "https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 200626,
-      "name": "Besos Contados",
-      "url": "https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Empezar Desde Cero",
         "url": "https://open.spotify.com/album/7t24vofkODpX7BrOSkW7kh"
       },
@@ -815,6 +815,22 @@
       "duration_ms": 164364,
       "name": "Ya No",
       "url": "https://open.spotify.com/track/2PHHXrlTLD7NAK66ExrZjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Contados",
+        "url": "https://open.spotify.com/album/42Nd5nywb9uEVZ3JiXgCwu"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 200626,
+      "name": "Besos Contados",
+      "url": "https://open.spotify.com/track/310tDyxuIecgZJ9BsD9JZN"
     },
     {
       "added_at": null,

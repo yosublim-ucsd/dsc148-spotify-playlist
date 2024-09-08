@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Douaa Lahyaoui en première position de la playlist numéro 1 au Maroc.
+> GIMS, DYSTINCT en première position de la playlist numéro 1 au Maroc.
 
 317 songs - 17 hr 2 min
 

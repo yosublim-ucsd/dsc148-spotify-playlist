@@ -1767,6 +1767,32 @@
     },
     {
       "album": {
+        "name": "Back Together",
+        "url": "https://open.spotify.com/album/4qXezjJFYWj356titZIkzc"
+      },
+      "artists": [
+        {
+          "name": "Zikai",
+          "url": "https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn"
+        },
+        {
+          "name": "TANTAN",
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        },
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/5uZbVKq45nBJMTqDAmhXia"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150247,
+      "name": "Back Together",
+      "url": "https://open.spotify.com/track/7cmQtbfWsvsWBEdethfYz6"
+    },
+    {
+      "album": {
         "name": "Bad One",
         "url": "https://open.spotify.com/album/5TLnEbj28pHxKrIJvdCx3b"
       },
@@ -4246,7 +4272,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 206124,
       "name": "Crash",
       "url": "https://open.spotify.com/track/4gJdZtzkAx877Q3T6zdt4T"
@@ -4737,7 +4763,7 @@
     },
     {
       "album": {
-        "name": "Del av dig - Radio Edit",
+        "name": "Del av dig",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
       "artists": [
@@ -4750,7 +4776,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 221418,
-      "name": "Del av dig - Radio Edit",
+      "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
@@ -8136,7 +8162,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 195414,
       "name": "Flamma",
       "url": "https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ"
@@ -16627,6 +16653,24 @@
     },
     {
       "album": {
+        "name": "Midnight Shining",
+        "url": "https://open.spotify.com/album/3fCh7BiO2OHPrZvjhVGvNP"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212105,
+      "name": "Midnight Shining",
+      "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
+    },
+    {
+      "album": {
         "name": "Midsommar",
         "url": "https://open.spotify.com/album/15uIg1ZX7dYcg8uRE7BD2q"
       },
@@ -20930,7 +20974,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 180740,
       "name": "R\u00f6k & Discoljus",
       "url": "https://open.spotify.com/track/6IqCU9bdDRfEPHSBM1nE45"
@@ -22630,6 +22674,24 @@
       "duration_ms": 160095,
       "name": "Solen g\u00e5r aldrig ner",
       "url": "https://open.spotify.com/track/7sWi4kUiI1o0dmp72tfZpS"
+    },
+    {
+      "album": {
+        "name": "Solen i den v\u00e4nstra",
+        "url": "https://open.spotify.com/album/7Jxzxuupn1Jil8QYQknm5Q"
+      },
+      "artists": [
+        {
+          "name": "Th\u00e5str\u00f6m",
+          "url": "https://open.spotify.com/artist/2PBhJmRqee1QAyQU2kBu1H"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293083,
+      "name": "Solen i den v\u00e4nstra",
+      "url": "https://open.spotify.com/track/0TvDOiUmwRKnaXEXosumeI"
     },
     {
       "album": {

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHpR486dzm3.md) - [plain]
 
 > Suomi\-indien tuoreimpia helmiä\. Kannessa Rosita Luu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,775 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,778 likes - 80 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg), [Antti Hermaja](https://open.spotify.com/artist/1Yv8BKa64B1WoHNKNM1ps7), [Merita Berg](https://open.spotify.com/artist/5n4CO2wjvZ60BVA0nBAEn9), [Virtalähde Mastering](https://open.spotify.com/artist/2uiOFW1YGfGNf8D8PYZlM3), [Olli Puolakka](https://open.spotify.com/artist/3omRQVtuSJNS5U9UQlkm8j), [Jenni Kinnunen](https://open.spotify.com/artist/60s17Hbp1QzZ2awA2QD0e8), [Antti Vuorenmaa](https://open.spotify.com/artist/6EbdYqp9YBqA4LpGETsV4j), [Karoliina Laukola](https://open.spotify.com/artist/56wkpiQpkWf5vTTqwTpH9r) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
+| 1 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
 | 2 | [onnellinen](https://open.spotify.com/track/1iR8pMrtxB2FufBN69L2zC) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [onnellinen & heinäkuu](https://open.spotify.com/album/5R2Nuzq754IZHOipNt9Iek) | 3:17 |
 | 3 | [Alive](https://open.spotify.com/track/0RjrVnxd3KnWHKLGj2ZNyO) | [Jaakko Aukusti](https://open.spotify.com/artist/2YTpOPQuz4J2CphaVIgSBj) | [Alive](https://open.spotify.com/album/3ehC2FHtHXbVnwDTQJT7KD) | 2:56 |
 | 4 | [Forgiveness](https://open.spotify.com/track/4kzVwlkEigZPvgnKhcl6YR) | [STINAKO](https://open.spotify.com/artist/32RRepyiKkxXaddxguld5s) | [Body](https://open.spotify.com/album/31iixkCCxseX3aTtTpbM8e) | 3:18 |

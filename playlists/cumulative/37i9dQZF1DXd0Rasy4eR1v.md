@@ -4,7 +4,7 @@
 
 > Freshest Pakistani discoveries\. Cover \- Indiedanish
 
-877 songs - 1 day 23 hr 19 min
+878 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Kala Jadu](https://open.spotify.com/track/3dwobO4hZ0Bpmc012yY60M) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD), [Fardeen Ali](https://open.spotify.com/artist/7cR54ruZ0aWSM2fguGiENt) | [Kala Jadu](https://open.spotify.com/album/6zwpJu9oBpaWQgxDzOpGnm) | 4:01 | 2023-02-13 | 2023-03-22 |
 | [Kala Kala](https://open.spotify.com/track/0307XvQ2d5a2SFGvWAdowQ) | [Lagan](https://open.spotify.com/artist/5cY8AKU5bAW50yvt8cOhbx), [Sami Khan](https://open.spotify.com/artist/18rH0m8pqkWYtOBhcFyd7t) | [Kala Kala](https://open.spotify.com/album/43Em7B6oZuhf1n5SbN2bos) | 3:36 | 2023-05-05 | 2023-05-20 |
 | [Kali Gaddi](https://open.spotify.com/track/59nm2HaT1RgElS9NIIhpJm) | [Fakkira Boys](https://open.spotify.com/artist/4s0E2BpWtrHijs48Cx7C47) | [Kali Gaddi](https://open.spotify.com/album/5mOnfCPuiAIxU04hBvICLm) | 3:02 | 2022-11-17 | 2023-01-26 |
+| [Kamli](https://open.spotify.com/track/5wgaY24bpil186z4skJsWI) | [Ahsan Samraa](https://open.spotify.com/artist/60AyZ7poR9Mj27ZtDEhqVV), [Beatsbykanwar](https://open.spotify.com/artist/4NtATyMmXfykvzWyKtEOZH) | [Kamli](https://open.spotify.com/album/7whqshrWRpD89eKzJx8dnU) | 2:36 | 2024-09-05 |  |
 | [KAMLI](https://open.spotify.com/track/7eVgndAA88uKaZE88o8Qz9) | [PDNY](https://open.spotify.com/artist/2nggEHrLwzTQfv5gliPZQd), [HYDR](https://open.spotify.com/artist/40CEytkVli5Le5CFOYnONw), [YDV](https://open.spotify.com/artist/4ZyEDjgPrbX47OOgGg6Rqk) | [KAMLI](https://open.spotify.com/album/5wlUShEZGY4Nj0xXl9OyF3) | 2:21 | 2024-07-01 | 2024-09-06 |
 | [Karachi](https://open.spotify.com/track/1KerYpaUlm5q5GUk32u8Sq) | [Hamza Jahangir](https://open.spotify.com/artist/6JIeeCINgVPeCxowfoOBmo), [FT.WA](https://open.spotify.com/artist/0DmCpdhdRdQCsF2s9lDYu6) | [404](https://open.spotify.com/album/4n5ugreKqLzeyCFsLt3mPU) | 3:05 | 2023-01-10 | 2023-03-22 |
 | [KATANA](https://open.spotify.com/track/7dTd1KSQWanvcTL0zJ3V24) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Raffey Anwar](https://open.spotify.com/artist/7rEwKApsZMo8cXVxAndmvD) | [KATANA](https://open.spotify.com/album/2sEmLxqTGNueeogVErU5s2) | 1:59 | 2023-11-17 | 2023-12-09 |

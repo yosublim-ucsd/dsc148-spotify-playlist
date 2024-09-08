@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. Pj Sin Suela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,282 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,274 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 17 | [Eterno](https://open.spotify.com/track/5XcDT7Lae6b5Q73qHBUtNQ) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Eterno](https://open.spotify.com/album/0KJmtBDeNZoBJuaOHZA0b3) | 4:28 |
 | 18 | [Rendezvous](https://open.spotify.com/track/3TKXgblkumvEQOgscTjxnc) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Rendezvous](https://open.spotify.com/album/3xVDIy9xlQUg8VrB6yl0M9) | 2:21 |
 | 19 | [ACLÁRATE](https://open.spotify.com/track/12EZnXoQuxMns3ANHhlMIZ) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [ACLÁRATE](https://open.spotify.com/album/5kO97Ekq0JdOap2PzxIxCM) | 2:45 |
-| 20 | [Sísifo](https://open.spotify.com/track/1Mo8fI9MI7sjH8mh1F66Ce) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Sísifo](https://open.spotify.com/album/3x4uimfNRNoyKAgaJoN4Dh) | 3:32 |
+| 20 | [Sísifo](https://open.spotify.com/track/1Mo8fI9MI7sjH8mh1F66Ce) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [Sísifo](https://open.spotify.com/album/3x4uimfNRNoyKAgaJoN4Dh) | 3:27 |
 | 21 | [Corazón de guagua](https://open.spotify.com/track/7jmuiJQoAi1u7wlCqZg1tY) | [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Corazón de guagua](https://open.spotify.com/album/2PkDUZ3RDfvafQp9FdWffT) | 3:11 |
 | 22 | [Tu bebotear](https://open.spotify.com/track/22PI7NQyW6aKD95tMcq7dh) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu bebotear](https://open.spotify.com/album/0yRUV14AG8Fkwnk1DPUzqM) | 2:59 |
 | 23 | [La necesidad](https://open.spotify.com/track/44WLHJiplocenJd3cIXbIY) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv), [Malena Zavala](https://open.spotify.com/artist/6SVGcUwNBOZMwiZqpCwykX) | [La Necesidad](https://open.spotify.com/album/3XiQTXQpM4ceL6W9aVoJBH) | 4:12 |

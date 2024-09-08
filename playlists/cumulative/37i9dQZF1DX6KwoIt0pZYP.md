@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-968 songs - 2 day 5 hr 0 min
+969 songs - 2 day 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Clock](https://open.spotify.com/track/0RJ59EcNNKCfsg0mXRcKtc) | [DEUL](https://open.spotify.com/artist/2YmGeFB53OtlKStZWg05Hd), [SOMA](https://open.spotify.com/artist/2YZhod6BAbnBKh2nPdUejY) | [Film](https://open.spotify.com/album/7FHOCYZcgQ8JioiKTbAIQW) | 3:17 | 2022-03-29 | 2022-04-20 |
 | [cloud 11](https://open.spotify.com/track/6sPUQOYM3gPHt6V6tUOGPD) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [cloud 11](https://open.spotify.com/album/77XSyzmCy40q7rNihXkGU7) | 2:33 | 2024-08-30 |  |
 | [CLOUDS](https://open.spotify.com/track/43HB7iatxULhCqqIu7ouQT) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [CLOUDS](https://open.spotify.com/album/20oky0BNN8ohXkjRUL216l) | 2:58 | 2022-01-28 | 2022-07-26 |
+| [Coconut](https://open.spotify.com/track/0LhqjgKRBaJx5qsEN4rBMh) | [kiki wera](https://open.spotify.com/artist/6eASDw4CfEHesj5HQCzBp6) | [Coconut](https://open.spotify.com/album/6B9Sppt3rDjFx8iWcKJD3x) | 2:39 | 2024-09-07 |  |
 | [COLD LOVE](https://open.spotify.com/track/4lyJXFhjQ6D0XMMAddhzZP) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [COLD LOVE](https://open.spotify.com/album/3aOrMwQ4CXnSROnZlIZqbB) | 3:35 | 2022-01-28 | 2022-04-19 |
 | [Cold Rain](https://open.spotify.com/track/5I8G7QzIyIyjP49a3f6jJp) | [Raine Cloud](https://open.spotify.com/artist/27mYHlSWaXDfsqNHgSQZhS) | [Cold Rain](https://open.spotify.com/album/1OTzEYnHyxSdrFeDmHuUQf) | 2:50 | 2024-03-08 | 2024-04-13 |
 | [cold these days](https://open.spotify.com/track/63iD8vONVMBVvxR02dSzoE) | [lewloh](https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX) | [michigan/missinghim](https://open.spotify.com/album/3CUpup4zXABeyEfMZNDfA8) | 2:39 | 2022-01-28 | 2022-07-26 |
@@ -621,7 +622,7 @@
 | [Old News \(Killing Me Softly\)](https://open.spotify.com/track/0ccpZnh7XcFvb9iCAfsFP4) | [SATINA](https://open.spotify.com/artist/2XyAeS3sKheHLul4sxHzt0) | [Old News \(Killing Me Softly\)](https://open.spotify.com/album/4Vx66vf6tXpyIqxQZp6KVV) | 2:46 | 2023-03-02 | 2023-03-10 |
 | [on & on](https://open.spotify.com/track/2z60665qOaXrUcFIVIB9yj) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [on & on](https://open.spotify.com/album/2fInwWeb0bggsmMeUSAYbv) | 2:48 | 2022-03-29 | 2022-07-05 |
 | [On My Own](https://open.spotify.com/track/4tOBkwkWLVdcpS8KznVcSx) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [On My Own](https://open.spotify.com/album/6P50AXn39btHpVuVymeVHc) | 2:39 | 2023-03-18 | 2023-03-25 |
-| [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-31 |  |
+| [One Bad Day](https://open.spotify.com/track/2ak4PK6BeHw8btWrVmOdYz) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [One Bad Day](https://open.spotify.com/album/0itJP1SdhOO3NKe9vxqj0s) | 3:54 | 2024-05-31 | 2024-09-08 |
 | [One Day](https://open.spotify.com/track/4RhEjSVKHscmSh3TPRv8Kp) | [Agatha Pricilla](https://open.spotify.com/artist/5j6EloCQDnZmMP3k6pATOd) | [One Day](https://open.spotify.com/album/3wV7od4cEPh3sofqyW8g0G) | 3:29 | 2023-02-19 | 2023-02-24 |
 | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/track/1ebn8pmLr7RDAzrBaIpsw8) | [Thomas Ng](https://open.spotify.com/artist/2ZeeJPDvqzQ7c8iG3rRsyc), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [One Last Dance \(feat\. Milky Day\)](https://open.spotify.com/album/4vXSnmAf2LYQgslL8vgeBQ) | 2:53 | 2022-01-28 | 2023-07-22 |
 | [only in my dreams](https://open.spotify.com/track/7q1Nj5yVFAMgAo5zxfEpS8) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [only in my dreams](https://open.spotify.com/album/7EADAHIIQMWrBkH9lYx7Uj) | 3:59 | 2022-01-28 | 2022-07-28 |

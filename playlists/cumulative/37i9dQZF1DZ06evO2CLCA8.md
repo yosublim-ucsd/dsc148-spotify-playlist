@@ -2,7 +2,7 @@
 
 ### [This Is Tom Petty and the Heartbreakers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2CLCA8)
 
-> This is Tom Petty and the Heartbreakers\. Todos os maiores hits em uma só playlist.
+> This Is Tom Petty and the Heartbreakers\. Los temas esenciales, todos en una lista.
 
 105 songs - 6 hr 40 min
 

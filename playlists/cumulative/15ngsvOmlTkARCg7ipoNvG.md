@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,797 songs - 1 day 13 hr 2 min
+1,798 songs - 1 day 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Always Here For You](https://open.spotify.com/track/4eQ3gRifHBDymHGID1qGOO) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Present Wonder](https://open.spotify.com/album/0qj0AxpVjxgfoJVEt7szG8) | 1:08 | 2024-02-09 | 2024-02-13 |
 | [Always Here For You \- Remastered](https://open.spotify.com/track/4KPn8hLzUxFSwExKZYxSsV) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Present Wonder Again \(Remastered\)](https://open.spotify.com/album/2RAj8sUD69AG5yfDD3qHJm) | 1:08 | 2024-02-09 | 2024-02-13 |
 | [Always My Home](https://open.spotify.com/track/7pjOYX1cvbXbUN7bbX2fxa) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:40 | 2022-01-20 |  |
+| [Always Present](https://open.spotify.com/track/4ydf2zP7AIvE4ja5iEadO0) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Always Present](https://open.spotify.com/album/2NzP1jdZB6JQ0EojF44Wnv) | 1:00 | 2024-09-07 |  |
 | [Always Yours](https://open.spotify.com/track/59hRluBCiq1LincJpIfhFq) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Echoes](https://open.spotify.com/album/10VMBZPmdJ9Q6otUSugzTp) | 1:39 | 2022-01-12 | 2024-01-30 |
 | [Amber Glow](https://open.spotify.com/track/38hLgo0rxdDwwD5WV9v5Pb) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:14 | 2022-01-12 |  |
 | [Amber Glow \- Cello Version](https://open.spotify.com/track/6zHmriRgXCFqXgW3tjk3ro) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:06 | 2024-02-09 | 2024-02-13 |

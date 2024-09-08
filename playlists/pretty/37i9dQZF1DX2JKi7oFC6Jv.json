@@ -1,6 +1,6 @@
 {
   "description": "The best in UK Funky. Cover: Roska",
-  "num_followers": 104466,
+  "num_followers": 104467,
   "original_name": "UK Funky",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-18 17:57:45",
       "album": {
+        "name": "Gabryelle (Refix)",
+        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
+      },
+      "artists": [
+        {
+          "name": "D-Malice",
+          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
+        }
+      ],
+      "duration_ms": 291500,
+      "name": "Gabryelle (Refix)",
+      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
+    },
+    {
+      "added_at": "2024-07-18 17:57:45",
+      "album": {
         "name": "Bayeke (Prace Remix)",
         "url": "https://open.spotify.com/album/6nLaRTMNGiPyhszXePW6NP"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 354244,
       "name": "Bayeke - Prace Remix",
       "url": "https://open.spotify.com/track/3K648LEPGPtfd0CSC36wkx"
-    },
-    {
-      "added_at": "2024-07-18 17:57:45",
-      "album": {
-        "name": "Gabryelle (Refix)",
-        "url": "https://open.spotify.com/album/3FMYlqSKfihyze2nDho7sO"
-      },
-      "artists": [
-        {
-          "name": "D-Malice",
-          "url": "https://open.spotify.com/artist/1KeTaqYMcbzM55p0D9JymT"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Gabryelle (Refix)",
-      "url": "https://open.spotify.com/track/2W0yd6yqi5idPpErkIMWxh"
     },
     {
       "added_at": "2024-07-18 17:57:45",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-18 17:57:45",
       "album": {
-        "name": "Fuller / Hurricane Riddim",
-        "url": "https://open.spotify.com/album/5KE1MO9AlHyop9nBp81sqo"
+        "name": "Seiji 1",
+        "url": "https://open.spotify.com/album/4Ln7xUPsqJ2JsI0uaiyGm6"
       },
       "artists": [
         {
-          "name": "FunkyStepz",
-          "url": "https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb"
+          "name": "Seiji",
+          "url": "https://open.spotify.com/artist/6XwHEDOkZpFRqtZDXLYHlK"
         }
       ],
-      "duration_ms": 285460,
-      "name": "Fuller",
-      "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"
+      "duration_ms": 258746,
+      "name": "Elevator",
+      "url": "https://open.spotify.com/track/2BNztHs4pufXHi2YY6s0mn"
     }
   ],
   "unique_name": "UK Funky",

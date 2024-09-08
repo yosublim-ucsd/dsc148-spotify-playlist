@@ -636,7 +636,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 156843,
       "name": "AVANGARD",
       "url": "https://open.spotify.com/track/3cTgvsTJZA5qwSZ3F8sKDz"
@@ -1458,7 +1458,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 152760,
       "name": "Disco",
       "url": "https://open.spotify.com/track/2Lumsra3kuU61wXkEKzKaK"
@@ -2334,7 +2334,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 226706,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo"
@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 155333,
       "name": "GDE PAPA?",
       "url": "https://open.spotify.com/track/4LEpcwjcixnLUNQYMTbrHX"
@@ -2910,7 +2910,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 137205,
       "name": "Hamster Criminal",
       "url": "https://open.spotify.com/track/3NxMVBOFn4ikh5YWIXL3Dw"
@@ -5456,7 +5456,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 144000,
       "name": "O Melhor no Que Faz 3.0 [Slowed]",
       "url": "https://open.spotify.com/track/1H5PVxswRh4KpLoW5o78VJ"
@@ -6736,7 +6736,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 122553,
       "name": "SOS",
       "url": "https://open.spotify.com/track/5te7CQBdUAT6fUUwAGLc86"
@@ -7732,7 +7732,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
@@ -7766,7 +7766,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2VpCSXXc3c1tcnKECvmb55"
@@ -7978,7 +7978,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -10712,7 +10712,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 237508,
       "name": "\u041a\u043e\u0448\u043a\u0430",
       "url": "https://open.spotify.com/track/13vscAQgMt58wgaoSH5Gpr"
@@ -11424,7 +11424,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-26",
+      "date_removed": null,
       "duration_ms": 142588,
       "name": "\u041d\u0435 \u043e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/3HVFj6El60qIwRDADa22Yx"
@@ -11996,6 +11996,24 @@
       "duration_ms": 149565,
       "name": "\u043f\u0430\u0434\u0430\u044e",
       "url": "https://open.spotify.com/track/1wyAddDtDJiLoVF2K20DvZ"
+    },
+    {
+      "album": {
+        "name": "\u043f\u0430\u0434\u0448\u0438\u0439 \u0430\u043d\u0433\u0435\u043b",
+        "url": "https://open.spotify.com/album/0GjhQDe2N6NaKQwLlNBmW3"
+      },
+      "artists": [
+        {
+          "name": "fallen777angel",
+          "url": "https://open.spotify.com/artist/5ByAEWetNZ95GufzBSOkc3"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110589,
+      "name": "\u043f\u0430\u0434\u0448\u0438\u0439 \u0430\u043d\u0433\u0435\u043b",
+      "url": "https://open.spotify.com/track/3crmtfhHNBj5OMcyDcVIa5"
     },
     {
       "album": {
@@ -13828,6 +13846,24 @@
       "duration_ms": 97750,
       "name": "\u0427\u0423\u0412\u0410\u0423\u0410",
       "url": "https://open.spotify.com/track/0SeqgjSLoWAXoozFRAfatK"
+    },
+    {
+      "album": {
+        "name": "FIMOZ COUNTER MUSIC",
+        "url": "https://open.spotify.com/album/0XQr6Kbq4RIW1Qsz41AXUM"
+      },
+      "artists": [
+        {
+          "name": "KAMZ0NER",
+          "url": "https://open.spotify.com/artist/25Byb1TzNVrgcnpa8XlxLH"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97750,
+      "name": "\u0427\u0423\u0412\u0410\u0423\u0410",
+      "url": "https://open.spotify.com/track/1ZhZkD5WD5nFmQoDLrpwgH"
     },
     {
       "album": {

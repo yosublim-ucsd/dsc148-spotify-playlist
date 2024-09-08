@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Central Cee & RAYE, A$AP Rocky, Megan Thee Stallion and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,959 likes - 49 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,114 likes - 49 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 24 | [Chrome](https://open.spotify.com/track/4zh2G1zGXAZUYs5X4FKSRA) | [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [Chrome](https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe) | 3:10 |
 | 25 | [Super Mario](https://open.spotify.com/track/6o6URvJir7O3TnTNCoHa3v) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Antt Beatz](https://open.spotify.com/artist/3HySPBanVbKZsn6bOZSZl8) | [Super Mario](https://open.spotify.com/album/1OufXSCK5kGhOAhHbPEbOy) | 2:31 |
 | 26 | [Runnit Back](https://open.spotify.com/track/3bsRYAhhM86a3egINAKALh) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [THE FORCE](https://open.spotify.com/album/27LiHmMNnXEDUOBUXPqndi) | 2:46 |
-| 27 | [Mud \(with Kalan.Frfr, Bun B, UnoTheActivist\)](https://open.spotify.com/track/4Ki31w31mvbM6cc4Y4MgG7) | [Carrots](https://open.spotify.com/artist/4O3zKgW7ohAiT2J46VxnO2), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Mud](https://open.spotify.com/album/3tpK49I5mRjYMZY2vk6H7n) | 4:31 |
+| 27 | [Mud \(with Kalan.Frfr, Bun B, UnoTheActivist\)](https://open.spotify.com/track/4Ki31w31mvbM6cc4Y4MgG7) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Mud](https://open.spotify.com/album/3tpK49I5mRjYMZY2vk6H7n) | 4:31 |
 | 28 | [French Tips](https://open.spotify.com/track/54LTO0W8Ph8X5ARly68Dka) | [Wacotron](https://open.spotify.com/artist/4CAL0nDGvLhUfQEpwSLnUz) | [French Tips](https://open.spotify.com/album/3Rm2HeZpdz52d7DUdrj1Dz) | 1:56 |
 | 29 | [Chicken Phone](https://open.spotify.com/track/6bKbrUz6ngAo6g1P6bPkCw) | [Wizz Havinn](https://open.spotify.com/artist/1Tj47hT6psqExO7fbAcXyE) | [Chicken Phone](https://open.spotify.com/album/7pjE8p3XUEcxrHL81CtAmT) | 1:48 |
 | 30 | [Free Dem Ones](https://open.spotify.com/track/7gh15cs3CH3dgUrnMvAN8Y) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt) | [The Streets Calling My Name](https://open.spotify.com/album/1oqK23RP4WGKRWwvZn2idu) | 2:09 |

@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ad\u00e8le Castillon",
-  "num_followers": 41696,
+  "num_followers": 41708,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Vanilla",
+        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+      },
+      "artists": [
+        {
+          "name": "VEN1",
+          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
+        },
+        {
+          "name": "Ramos.",
+          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+        }
+      ],
+      "duration_ms": 187810,
+      "name": "Vanilla",
+      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
       },
@@ -419,22 +439,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Vanilla",
-        "url": "https://open.spotify.com/album/7CEAbEtewQUsHHRbGsuIvL"
+        "name": "La pluie",
+        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
       },
       "artists": [
         {
-          "name": "VEN1",
-          "url": "https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL"
-        },
-        {
-          "name": "Ramos.",
-          "url": "https://open.spotify.com/artist/5xfBWklmIwTOoijr3nMgHB"
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
         }
       ],
-      "duration_ms": 187810,
-      "name": "Vanilla",
-      "url": "https://open.spotify.com/track/71vWRlfHefIMtoDnUPtXcf"
+      "duration_ms": 161375,
+      "name": "La pluie",
+      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -451,22 +467,6 @@
       "duration_ms": 183203,
       "name": "Un peu d'amour",
       "url": "https://open.spotify.com/track/2S8Mp8yS3W4tDlxpj0sCbY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "La pluie",
-        "url": "https://open.spotify.com/album/13N4j77R6XsNHGwwtl6npd"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 161375,
-      "name": "La pluie",
-      "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -555,6 +555,30 @@
       "duration_ms": 177000,
       "name": "Si seulement...",
       "url": "https://open.spotify.com/track/26h53EWKImRbyo9vO6FB59"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -651,6 +675,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Briller",
+        "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
+      },
+      "artists": [
+        {
+          "name": "Jungeli",
+          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Briller",
+      "url": "https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "A la bien mix party - 10 ans apr\u00e8s",
         "url": "https://open.spotify.com/album/1LWkPHi9tZSJ0qhJxPGlQx"
       },
@@ -671,18 +711,62 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Briller",
-        "url": "https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS"
+        "name": "Sous le soleil",
+        "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "13 Organis\u00e9",
+          "url": "https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp"
+        },
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Sat",
+          "url": "https://open.spotify.com/artist/3c8I79WjXzJzWacsiZlAxT"
+        },
+        {
+          "name": "Fahar",
+          "url": "https://open.spotify.com/artist/4hpTPFhq6Ok3wGhFqa7pGy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Le Rat Luciano",
+          "url": "https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv"
+        },
+        {
+          "name": "Menzo",
+          "url": "https://open.spotify.com/artist/0QnbAn4YLO3az9wPgCimsW"
+        },
+        {
+          "name": "Don Choa",
+          "url": "https://open.spotify.com/artist/3nRUvKHrGi4lrRF01yTzod"
+        },
+        {
+          "name": "As",
+          "url": "https://open.spotify.com/artist/7r35uLFg5fJcsLe60AdWhK"
+        },
+        {
+          "name": "Vincenzo",
+          "url": "https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Briller",
-      "url": "https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy"
+      "duration_ms": 480160,
+      "name": "Sous le soleil",
+      "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -719,6 +803,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "IDENTIT\u00c9",
+        "url": "https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X"
+      },
+      "artists": [
+        {
+          "name": "Merveille",
+          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "Dans ma t\u00eate",
+      "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/3wytoILhB40hHwR1PFSL94"
       },
@@ -735,22 +835,6 @@
       "duration_ms": 188000,
       "name": "OT",
       "url": "https://open.spotify.com/track/76rRiFvribZwYZZplhYnWv"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "IDENTIT\u00c9",
-        "url": "https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X"
-      },
-      "artists": [
-        {
-          "name": "Merveille",
-          "url": "https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "Dans ma t\u00eate",
-      "url": "https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -811,6 +895,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
+      },
+      "artists": [
+        {
+          "name": "Souldia",
+          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
+        }
+      ],
+      "duration_ms": 192346,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/33CQFVIhZgyZYSuwxB2so9"
       },
@@ -831,62 +931,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Nouvelle vie",
-        "url": "https://open.spotify.com/album/5KQCORt6AmV9VcZYYfTWVL"
-      },
-      "artists": [
-        {
-          "name": "Souldia",
-          "url": "https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1"
-        }
-      ],
-      "duration_ms": 192346,
-      "name": "Nouvelle vie",
-      "url": "https://open.spotify.com/track/4nXsx2uiPr0fOYRLa6xB52"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "J'ai l'impression",
-        "url": "https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 167563,
-      "name": "J'ai l'impression",
-      "url": "https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "20 Benz",
-        "url": "https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE"
-      },
-      "artists": [
-        {
-          "name": "Lost",
-          "url": "https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b"
-        },
-        {
-          "name": "Kekra",
-          "url": "https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS"
-        },
-        {
-          "name": "FREAKEY!",
-          "url": "https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY"
-        }
-      ],
-      "duration_ms": 202197,
-      "name": "20 Benz",
-      "url": "https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Compl\u00e9mentaires",
         "url": "https://open.spotify.com/album/5D06Ps9NI6YjURP8W81xde"
       },
@@ -903,18 +947,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Gamins des sables",
-        "url": "https://open.spotify.com/album/7i6lctPeWsgOFi2YecT4tG"
+        "name": "J'ai l'impression",
+        "url": "https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9my Frerot",
-          "url": "https://open.spotify.com/artist/4lhtlpMg6j1absrQvXYlRK"
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
         }
       ],
-      "duration_ms": 179279,
-      "name": "Gamins des sables",
-      "url": "https://open.spotify.com/track/0dzdbXvbbHNTiPkaNPgZLf"
+      "duration_ms": 167563,
+      "name": "J'ai l'impression",
+      "url": "https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

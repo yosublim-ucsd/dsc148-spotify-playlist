@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
+    },
+    {
+      "album": {
         "name": "Den var aldrig jag",
         "url": "https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4"
       },
@@ -432,7 +450,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 191250,
       "name": "Det \u00c4r Nog K\u00e4rlek \u00c4nd\u00e5",
       "url": "https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l"

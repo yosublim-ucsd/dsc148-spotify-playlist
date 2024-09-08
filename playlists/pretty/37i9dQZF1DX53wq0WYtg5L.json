@@ -1,6 +1,6 @@
 {
   "description": "Celebremos el orgullo mexicano con estas alegres canciones.",
-  "num_followers": 550900,
+  "num_followers": 550971,
   "original_name": "\u00a1Viva M\u00e9xico!",
   "owner": {
     "name": "Spotify",
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 179000,
-      "name": "El son de la negra",
-      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
+      "duration_ms": 176906,
+      "name": "Guadalajara",
+      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
         }
       ],
-      "duration_ms": 176906,
-      "name": "Guadalajara",
-      "url": "https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx"
+      "duration_ms": 179000,
+      "name": "El son de la negra",
+      "url": "https://open.spotify.com/track/4WppqUEIiLL4kyo406nnJN"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
-        }
-      ],
-      "duration_ms": 163346,
-      "name": "La Charreada",
-      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Puro Mariachi",
         "url": "https://open.spotify.com/album/5Ykbep1heciycsMRg2QlJ3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 137586,
       "name": "El Son De Los Aguacates",
       "url": "https://open.spotify.com/track/6UHL4c4BU9omcCeugZxclD"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 163346,
+      "name": "La Charreada",
+      "url": "https://open.spotify.com/track/7BZr4iXCUXHLvIOcu2PvYv"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -799,22 +799,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 490753,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 178386,
       "name": "Juan Colorado",
       "url": "https://open.spotify.com/track/2qqdRSEgnCaxg3gXnCQGJC"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 490753,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "La Cancion Mexicana, Vol. I",
-        "url": "https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS"
+        "name": "Polkas Mexicanas",
+        "url": "https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb"
       },
       "artists": [
         {
-          "name": "Mar\u00eda de Lourdes",
-          "url": "https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R"
+          "name": "Mariachi M\u00e9xico de Pepe Villa",
+          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
         }
       ],
-      "duration_ms": 166373,
-      "name": "Cancion Mexicana",
-      "url": "https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5"
+      "duration_ms": 181560,
+      "name": "La Marcha De Zacatecas",
+      "url": "https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -891,6 +891,38 @@
       "duration_ms": 162423,
       "name": "El Toro Serrano",
       "url": "https://open.spotify.com/track/5oyHCXNrSTALlOyu03v6WB"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Mariachi",
+        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Arriba Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
+        }
+      ],
+      "duration_ms": 176386,
+      "name": "El Caporal de Chihuahua",
+      "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "La Cancion Mexicana, Vol. I",
+        "url": "https://open.spotify.com/album/5jMc3Jzu9tUzJken0caYyS"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda de Lourdes",
+          "url": "https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R"
+        }
+      ],
+      "duration_ms": 166373,
+      "name": "Cancion Mexicana",
+      "url": "https://open.spotify.com/track/0vCKgfSk9GmKGkfWrr0io5"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -927,22 +959,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Mariachi",
-        "url": "https://open.spotify.com/album/0s0sjgCn8JRkEYObt8YA93"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Arriba Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1QTNMV42e1fk8xoHv0bfpy"
-        }
-      ],
-      "duration_ms": 176386,
-      "name": "El Caporal de Chihuahua",
-      "url": "https://open.spotify.com/track/2XPWSMlqGUf0WlA4esS5GD"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu"
       },
@@ -955,6 +971,22 @@
       "duration_ms": 124333,
       "name": "Las Alazanas",
       "url": "https://open.spotify.com/track/7Gk2XiFsPv7w4kGY4VU5qI"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Pepe Aguilar Interpreta A Joan Sebastian",
+        "url": "https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 151603,
+      "name": "La Mulita Prieta",
+      "url": "https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -979,18 +1011,18 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Pepe Aguilar Interpreta A Joan Sebastian",
-        "url": "https://open.spotify.com/album/3tIHIHQhkjShT31Br8nreb"
+        "name": "Mexico Gran Colecci\u00f3n Ranchera - Mariachi Silvestre Vargas",
+        "url": "https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf"
       },
       "artists": [
         {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+          "name": "Mariachi Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
         }
       ],
-      "duration_ms": 151603,
-      "name": "La Mulita Prieta",
-      "url": "https://open.spotify.com/track/2dCICTepTYf3CgfITnxQ4f"
+      "duration_ms": 188533,
+      "name": "Pelea de gallos",
+      "url": "https://open.spotify.com/track/0groWFwp9diQBCepI52eC7"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -1059,22 +1091,6 @@
       "duration_ms": 166400,
       "name": "La espiga (Arr. R. Jonas)",
       "url": "https://open.spotify.com/track/40LeyzfJWpC9564x1SmiyX"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera - Mariachi Silvestre Vargas",
-        "url": "https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Silvestre Vargas",
-          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
-        }
-      ],
-      "duration_ms": 188533,
-      "name": "Pelea de gallos",
-      "url": "https://open.spotify.com/track/0groWFwp9diQBCepI52eC7"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -1207,6 +1223,22 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
+        "name": "Mexico Gran Colecci\u00f3n Ranchera - Mariachi Silvestre Vargas",
+        "url": "https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Silvestre Vargas",
+          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "El mariachi",
+      "url": "https://open.spotify.com/track/6lBalxphK1ccXVwlxYng9H"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
         "name": "Estampas De Mexico: Traditional Music From Mexico",
         "url": "https://open.spotify.com/album/0NkD1XnjciR3tFRVXvlzVa"
       },
@@ -1243,22 +1275,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Mexico Gran Colecci\u00f3n Ranchera - Mariachi Silvestre Vargas",
-        "url": "https://open.spotify.com/album/0EdehzXJzRiKpZ2QCSrkgf"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Silvestre Vargas",
-          "url": "https://open.spotify.com/artist/16RPDOVQlVowqfNnRuRlRG"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "El mariachi",
-      "url": "https://open.spotify.com/track/6lBalxphK1ccXVwlxYng9H"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Polkas Mexicanas",
         "url": "https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb"
       },
@@ -1268,9 +1284,9 @@
           "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
         }
       ],
-      "duration_ms": 181560,
-      "name": "La Marcha De Zacatecas",
-      "url": "https://open.spotify.com/track/1yNvdltBhsqVc6LwK33SCn"
+      "duration_ms": 160760,
+      "name": "Jesusita En Chihuahua",
+      "url": "https://open.spotify.com/track/4AbGDNKKAIfhf53JmclIMr"
     },
     {
       "added_at": "2024-07-11 15:45:34",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Estampas De Mexico: Traditional Music From Mexico",
-        "url": "https://open.spotify.com/album/0NkD1XnjciR3tFRVXvlzVa"
-      },
-      "artists": [
-        {
-          "name": "Estampas De Mexico",
-          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "El Herradero",
-      "url": "https://open.spotify.com/track/6qNRMQLZdXNxrHQChExTSx"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mexico: 20 Best Mariachi and Folk Songs",
         "url": "https://open.spotify.com/album/4EfsZRb9EGyKIAPrGHOeKT"
       },
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-11 15:45:34",
       "album": {
-        "name": "Polkas Mexicanas",
-        "url": "https://open.spotify.com/album/2mUqMvwE655JirAbrd3sTb"
-      },
-      "artists": [
-        {
-          "name": "Mariachi M\u00e9xico de Pepe Villa",
-          "url": "https://open.spotify.com/artist/2pTMHhbToqVd0nXzEiwaRz"
-        }
-      ],
-      "duration_ms": 160760,
-      "name": "Jesusita En Chihuahua",
-      "url": "https://open.spotify.com/track/4AbGDNKKAIfhf53JmclIMr"
-    },
-    {
-      "added_at": "2024-07-11 15:45:34",
-      "album": {
         "name": "Mexico",
         "url": "https://open.spotify.com/album/42OkbulDj2TluRpFiSpzZu"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 114466,
       "name": "La Adelita",
       "url": "https://open.spotify.com/track/7zjzbXZYUnWbtbs6FEOJjS"
+    },
+    {
+      "added_at": "2024-07-11 15:45:34",
+      "album": {
+        "name": "Estampas De Mexico: Traditional Music From Mexico",
+        "url": "https://open.spotify.com/album/0NkD1XnjciR3tFRVXvlzVa"
+      },
+      "artists": [
+        {
+          "name": "Estampas De Mexico",
+          "url": "https://open.spotify.com/artist/3lkD5FY5TNDAToUDSPds3m"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "El Herradero",
+      "url": "https://open.spotify.com/track/6qNRMQLZdXNxrHQChExTSx"
     },
     {
       "added_at": "2024-07-11 15:45:34",

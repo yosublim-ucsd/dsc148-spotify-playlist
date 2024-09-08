@@ -2,7 +2,7 @@
 
 ### [This Is Labrinth](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1hiJc4)
 
-> This Is Labrinth\. Los temas esenciales, todos en una lista.
+> This is Labrinth\. The essential tracks, all in one playlist.
 
 62 songs - 3 hr 8 min
 

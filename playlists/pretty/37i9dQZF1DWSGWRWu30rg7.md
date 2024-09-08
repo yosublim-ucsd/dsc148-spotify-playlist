@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,615 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,617 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 7 | [siksa rasa](https://open.spotify.com/track/5bOrEGxZ1TIb8NEgmoDdg1) | [Pleasure Seekers](https://open.spotify.com/artist/1eE3PS8ohFsNQzShO8laok), [Nufi Wardhana](https://open.spotify.com/artist/3YdzNrFH7OvDkC81yyG5ai) | [Faint Footprints](https://open.spotify.com/album/4mQckYcfWJdptJPbErPMtj) | 3:23 |
 | 8 | [Dance](https://open.spotify.com/track/6w9zAFpc4YrcE6ZvMnH0BR) | [Elifas Sonaru](https://open.spotify.com/artist/5NNaYjFuD5gL80fHnCIUFf) | [Dance](https://open.spotify.com/album/4z5ldDUwxGLm9xIsDYT8OF) | 3:06 |
 | 9 | [Hajumari](https://open.spotify.com/track/3R2CuKLSMC9zvGabkGHyL1) | [AMBARILA](https://open.spotify.com/artist/4bz5OZTEtiOvaBN1oI0Efc) | [Hajumari](https://open.spotify.com/album/6Uyy7j95j6qePSChw8rr62) | 3:11 |
-| 10 | [Takkan Terganti](https://open.spotify.com/track/1x17K4dZSWfhkor0Rfxqex) | [Sutter](https://open.spotify.com/artist/7B3LVUmAtTzCxgCYaMWcAY), [Andro Amanusa](https://open.spotify.com/artist/4yGU5sbXwD7M2PF9aQjtzU) | [Takkan Terganti](https://open.spotify.com/album/2AQuWsgpW5pjlgCIDC6wed) | 3:29 |
+| 10 | [Takkan Terganti](https://open.spotify.com/track/1x17K4dZSWfhkor0Rfxqex) | [Sutter](https://open.spotify.com/artist/7B3LVUmAtTzCxgCYaMWcAY) | [Takkan Terganti](https://open.spotify.com/album/2AQuWsgpW5pjlgCIDC6wed) | 3:29 |
 | 11 | [Misteri Ego](https://open.spotify.com/track/6KtW7Hl98Ja8ndbGILhCdp) | [Fayrush](https://open.spotify.com/artist/0Xl6IouqYTtmpK7joHn1BB) | [Misteri Ego](https://open.spotify.com/album/18HrhqNq0HZmnA5jzdVKWR) | 3:34 |
 | 12 | [Seluruh Rasa Kita Pelihara](https://open.spotify.com/track/0JzMSopWZ1KqFsXMDNRMDg) | [Mariani Oelong](https://open.spotify.com/artist/6vVEB5LyxuoIoWNSESZqGa) | [Seluruh Rasa Kita Pelihara](https://open.spotify.com/album/1p24esYHcPIc5zIz5KBXqt) | 3:24 |
 | 13 | [The Thought of Loving You](https://open.spotify.com/track/00MMUtIfZ5B5tXMLVNpdxs) | [Rifki Soeria](https://open.spotify.com/artist/7q7HlgYoLu79LeU09QnsHT) | [The Thought of Loving You](https://open.spotify.com/album/2rMeBN1SnUjK3G9vv9aZtf) | 3:17 |

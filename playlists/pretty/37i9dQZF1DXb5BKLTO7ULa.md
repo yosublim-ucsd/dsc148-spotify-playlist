@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kris Kross Amsterdam, Antoon & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,094 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,134 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 70 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 |
 | 71 | [Leef Met Me](https://open.spotify.com/track/7ocqHpl8DoEQF0ULIRVMHz) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Binnenwereld](https://open.spotify.com/album/66byD57IQrYQNFzC8pDPNw) | 2:41 |
 | 72 | [Sober](https://open.spotify.com/track/2OepRSJfxiCTBcki47gtcj) | [Norah Hendriks](https://open.spotify.com/artist/6hxi3TzUBLGeBT1GCGA3sT) | [Sober](https://open.spotify.com/album/7s0QdE8NXpay5C9x0xQZhL) | 3:42 |
-| 73 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:45 |
+| 73 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 |
 | 74 | [Trap Sexion](https://open.spotify.com/track/5jkDEEx8mR4XANJT1z424d) | [KIMONO](https://open.spotify.com/artist/1nSGi0gYeO1v0gWXRaGk1F), [Jacin Trill](https://open.spotify.com/artist/4hKoG9QvxsFDLIntc6tZ0g) | [Na Regen Komt Neonlicht](https://open.spotify.com/album/3K1AyS4L9QDKwQsqqLFTCo) | 2:01 |
 | 75 | [Ow Wat Lekker Zeg](https://open.spotify.com/track/2fdhIByUYRVcYOuTRu8U6N) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Anthony Kruijver](https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn) | [Ow Wat Lekker Zeg](https://open.spotify.com/album/7D4uqOqGuBdm7gjLS6D32M) | 2:37 |
 | 76 | [Spaceships](https://open.spotify.com/track/111lORD99rTGIGgMVISJvj) | [Yung Dada](https://open.spotify.com/artist/69G9yOls2tiws5DaLkXZnJ), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Shea Butter Boy II](https://open.spotify.com/album/7cuPn33ybJhRdstcPfStI8) | 3:41 |

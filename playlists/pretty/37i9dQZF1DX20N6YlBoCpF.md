@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B?si=McTC3gSMRnGNNeZh\-5JOxg">Lianie May</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,785 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,799 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sing Kanarie](https://open.spotify.com/track/6GDohRLGL0hcI4iAFxYzhH) | [Lianie May](https://open.spotify.com/artist/4twrMtMv4MY0x42vuaar9B) | [Sing Kanarie](https://open.spotify.com/album/1t3dzM4wX5IPj9y22p52sU) | 3:04 |
 | 2 | [Carina](https://open.spotify.com/track/6g8kgX8WWiExbvUJqGpz1X) | [Danny Smoke](https://open.spotify.com/artist/2w5KXwbkeiYOaxT3Wq9iwj) | [Carina](https://open.spotify.com/album/6ptuyFJvXUQAtZV8GTf3qS) | 3:16 |
-| 3 | [Ek en Jy \- Acoustic](https://open.spotify.com/track/1My7577sLouA3hffg2rjPl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Margot](https://open.spotify.com/artist/4uTftDN27CjQIW6E9YYC3o) | [Ek en Jy \- Acoustic](https://open.spotify.com/album/2IHuIRrK84ExPoNBeZbzC5) | 2:43 |
+| 3 | [Ek en Jy \- Acoustic](https://open.spotify.com/track/1My7577sLouA3hffg2rjPl) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Margot](https://open.spotify.com/artist/3mNS0vt7TNS7yL6wfaksKf) | [Ek en Jy \- Acoustic](https://open.spotify.com/album/2IHuIRrK84ExPoNBeZbzC5) | 2:43 |
 | 4 | [Tenk Vol Diesel Liefling](https://open.spotify.com/track/0J1uf7jZ3voWGlSeOTvV9h) | [Gerhard Steyn](https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t) | [Tenk Vol Diesel Liefling](https://open.spotify.com/album/5tw5fHWnCjxNzAjrxkyofh) | 3:18 |
 | 5 | [Spook](https://open.spotify.com/track/2hYNiTBXQhI0LCfAW8i9CO) | [Shakira Peach](https://open.spotify.com/artist/3FYg4uUY2Mtunx0NldiDWG) | [Spook](https://open.spotify.com/album/3WOFr8y6LmftDTkUpjwHtk) | 3:28 |
 | 6 | [Amper Daar](https://open.spotify.com/track/1NSfpqhCaUrGKSrKhPGImB) | [Leo Sonskyn](https://open.spotify.com/artist/6g37J3RjRVJ0jmthvqkOKu) | [Amper Daar](https://open.spotify.com/album/3QOwJNtqRlHf4pGZwwwexf) | 3:13 |

@@ -1,6 +1,6 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 165080,
+  "num_followers": 165120,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
@@ -411,7 +411,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Moonstruck (Original Motion Picture Soundtrack)",
+        "name": "Moonstruck - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
       "artists": [
@@ -935,6 +935,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Britell",
+          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "Don't Look Up - Main Title Suite - Bonus Track",
+      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Chico & Rita",
         "url": "https://open.spotify.com/album/75jbEORN0z55vVY3ZGgpkB"
       },
@@ -955,22 +971,6 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Don't Look Up (Soundtrack from the Netflix Film)",
-        "url": "https://open.spotify.com/album/6HCz7HiX96XF6tm7sACnM7"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Britell",
-          "url": "https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "Don't Look Up - Main Title Suite - Bonus Track",
-      "url": "https://open.spotify.com/track/0u8Nd4NK5ymYz7V3LxT3SP"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
         "name": "Babylon (Music from the Motion Picture)",
         "url": "https://open.spotify.com/album/0jCuKxy96iDfx9JtXKRyXe"
       },
@@ -987,7 +987,7 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
-        "name": "Moonstruck (Original Motion Picture Soundtrack)",
+        "name": "Moonstruck - Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/4KbmToWReLF9I4mdY2SPYN"
       },
       "artists": [
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
+        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
+      },
+      "artists": [
+        {
+          "name": "Vince Giordano And The Nighthawks",
+          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Everybody Loves My Baby",
+      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Boardwalk Empire Volume 2: Music From The HBO Original Series",
-        "url": "https://open.spotify.com/album/3JJWq72cwsYuhFxzfztqlP"
-      },
-      "artists": [
-        {
-          "name": "Vince Giordano And The Nighthawks",
-          "url": "https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Everybody Loves My Baby",
-      "url": "https://open.spotify.com/track/2NpdxuGinBCNmnYUivUxlc"
     },
     {
       "added_at": "2024-06-14 07:09:21",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-06-14 07:09:21",
       "album": {
+        "name": "Last Tango in Paris (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO"
+      },
+      "artists": [
+        {
+          "name": "Gato Barbieri",
+          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
+        }
+      ],
+      "duration_ms": 204266,
+      "name": "Last Tango in Paris, Pt. 1",
+      "url": "https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3"
+    },
+    {
+      "added_at": "2024-06-14 07:09:21",
+      "album": {
         "name": "The Talented Mr. Ripley - Music from The Motion Picture",
         "url": "https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 192506,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/4b09yzTo7CS5Kp9HpsnQvE"
-    },
-    {
-      "added_at": "2024-06-14 07:09:21",
-      "album": {
-        "name": "Last Tango in Paris (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO"
-      },
-      "artists": [
-        {
-          "name": "Gato Barbieri",
-          "url": "https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm"
-        }
-      ],
-      "duration_ms": 204266,
-      "name": "Last Tango in Paris, Pt. 1",
-      "url": "https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3"
     },
     {
       "added_at": "2024-06-14 07:09:21",

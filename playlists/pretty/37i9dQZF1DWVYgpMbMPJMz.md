@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now\. Cover:  <a href="spotify:artist:0wczmL4iUleqcy10Ek5Eyh">JWLKRS Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 989,380 likes - 99 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 989,457 likes - 99 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 39 | [All Because of Mercy \(Live at The Ryman\)](https://open.spotify.com/track/6JMjhP5hH2RxOSKl6GR4DV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [All Because of Mercy \(Live at The Ryman\)](https://open.spotify.com/album/53VJA2PxhBoNXZ3vKDivtO) | 3:56 |
 | 40 | [Even At My Worst \(You Love Me\) \(feat\. Vanessa Marquez\)](https://open.spotify.com/track/6YLeYYpBzcWBbqPwHqItkg) | [Harvest Worship](https://open.spotify.com/artist/5PdCcthDCLVddaLPWVKSPU), [Vanessa Marquez](https://open.spotify.com/artist/1sHeeklNkT43hN0gcuunOB) | [Even At My Worst \(You Love Me\) \(feat\. Vanessa Marquez\)](https://open.spotify.com/album/42PXDpkzPDENI5liaSgfVy) | 5:05 |
 | 41 | [Thank You So Much Jesus](https://open.spotify.com/track/4isb96lpcN6o7wJSnx4uHT) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Paul Klein](https://open.spotify.com/artist/26xOBpJWygkOHPDsvLlbtb) | [Thank You So Much Jesus](https://open.spotify.com/album/1yZ4Dt7Cpkc0f1jdud6ppH) | 4:09 |
-| 42 | [The Middle \- Live](https://open.spotify.com/track/0WDGD8LSl9peE4cMrYn54i) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [The Middle \(Live\)](https://open.spotify.com/album/0E6e7mcCjykO6LkQ2mJfqf) | 4:11 |
+| 42 | [The Middle \- Live](https://open.spotify.com/track/0WDGD8LSl9peE4cMrYn54i) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [The Middle \- Live](https://open.spotify.com/album/0E6e7mcCjykO6LkQ2mJfqf) | 4:11 |
 | 43 | [At The Altar](https://open.spotify.com/track/2QmFBXdMGeXlsE0AV8j5qA) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [At The Altar](https://open.spotify.com/album/7pFy4KDfxHjmobTrYCC6Zm) | 7:12 |
 | 44 | [Love Of God](https://open.spotify.com/track/2fk1ecKbLniOcWMCWLW9e9) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God](https://open.spotify.com/album/2mV1x3XQGoVD9SfGsHHJFD) | 5:24 |
 | 45 | [Bless The Lord](https://open.spotify.com/track/3E11GLIEZ6EVipo4iicyXO) | [Mack Brock](https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj) | [Bless The Lord](https://open.spotify.com/album/5RiIEZcWk9PN68CWuk1pvU) | 3:16 |

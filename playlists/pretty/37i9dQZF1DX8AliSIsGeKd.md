@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Dirty Doering
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,824 likes - 90 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,997 likes - 90 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 3 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 |
 | 4 | [Red](https://open.spotify.com/track/7tPnROivV5HhWJgg1e4a52) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Red](https://open.spotify.com/album/0E9Qg0Z3t4hADu3Pk1AGLw) | 3:46 |
 | 5 | [Entertain Us](https://open.spotify.com/track/1cOMGFQ6hMy0Eo97k6elcz) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Entertain Us](https://open.spotify.com/album/1mdnKroiqVM3icONIuw6xR) | 5:58 |
-| 6 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
+| 6 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 7 | [LOLA](https://open.spotify.com/track/4iakaMA0WXnJF0HYTkJcQv) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [LOLA](https://open.spotify.com/album/3Z522Z8anS4z8bNsLOEq1T) | 3:08 |
 | 8 | [Phoenix](https://open.spotify.com/track/18uUBbcLm3UyVxo043XJy7) | [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O) | [Phoenix](https://open.spotify.com/album/0ZLtxICq4zUBuIyQ9h7j6B) | 6:00 |
 | 9 | [Closer \(feat\. Biishop\)](https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Closer \(feat\. Biishop\)](https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs) | 6:04 |

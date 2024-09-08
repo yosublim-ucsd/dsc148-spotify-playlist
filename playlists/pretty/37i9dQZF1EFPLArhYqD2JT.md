@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340 likes - 383 songs - 19 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,341 likes - 383 songs - 19 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,8 +205,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 195 | [At Peace with the World](https://open.spotify.com/track/08096wQLKWx2mBLnOiIaEl) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Al Jolson \- Fifty Favourites](https://open.spotify.com/album/6X7HFKksqXYzOWiFOVGIa8) | 2:36 |
 | 196 | [I'm Beginning to Miss You](https://open.spotify.com/track/0y0Lui7kpPCkmvDYYaqEpV) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [John Rarig](https://open.spotify.com/artist/6LmrPGHE2WTMLYYToK3O6p) | [The Complete Columbia Singles, Volume 2 \(1948\-49\)](https://open.spotify.com/album/0dAu2jAFwP7GpPO5xfQpMW) | 3:06 |
 | 197 | [A Serenade To An Old\-Fashioned Girl](https://open.spotify.com/track/6FNd0AA6VEp0KwRwqtjzI7) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Blue Skies](https://open.spotify.com/album/1eP8vLIPbvSKy08tT5jTHy) | 3:07 |
-| 198 | [Someone Else May Be There While I'm Gone](https://open.spotify.com/track/3SVmXhdhywarSkAw3mmRD0) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Al Jolson \- Fifty Favourites](https://open.spotify.com/album/6X7HFKksqXYzOWiFOVGIa8) | 2:41 |
-| 199 | [When The Man Is Dead And Gone](https://open.spotify.com/track/0etUUubnhfuJggNEegCeDZ) | [Al Bowlly with Jimmy Mesene \('The Radio Stars With Two Guitars'\)](https://open.spotify.com/artist/6UaWcPXzNy9YMabEP1ETxa) | [The Al Bowlly Story](https://open.spotify.com/album/47hhYNghGCEsZ0ACXaFUEQ) | 2:57 |
+| 198 | [When The Man Is Dead And Gone](https://open.spotify.com/track/0etUUubnhfuJggNEegCeDZ) | [Al Bowlly with Jimmy Mesene \('The Radio Stars With Two Guitars'\)](https://open.spotify.com/artist/6UaWcPXzNy9YMabEP1ETxa) | [The Al Bowlly Story](https://open.spotify.com/album/47hhYNghGCEsZ0ACXaFUEQ) | 2:57 |
+| 199 | [Someone Else May Be There While I'm Gone](https://open.spotify.com/track/3SVmXhdhywarSkAw3mmRD0) | [Al Jolson](https://open.spotify.com/artist/197mLk2Z62k4tvGxDL1pOa) | [Al Jolson \- Fifty Favourites](https://open.spotify.com/album/6X7HFKksqXYzOWiFOVGIa8) | 2:41 |
 | 200 | [\(Running Around In Circles\) Getting Nowhere](https://open.spotify.com/track/64WfdISCBia99jibVcXyYg) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [Blue Skies](https://open.spotify.com/album/1eP8vLIPbvSKy08tT5jTHy) | 2:41 |
 | 201 | [I'm Playing with Fire](https://open.spotify.com/track/6scyne9fG59Kv31zUe64j2) | [Rudy Vallee](https://open.spotify.com/artist/1HQEVO4UcNxifjZU4KfyXP) | [Presenting Rudy Vallee](https://open.spotify.com/album/2BWyfhpVb1mgUR0hZVVPbM) | 3:33 |
 | 202 | [None But The Lonely Heart](https://open.spotify.com/track/1HeMl9MP5HRVu2lskhCBYz) | [The Melachrino Strings](https://open.spotify.com/artist/5fnwdAW8zdrfObIwZyeFaH) | [50 Melodies You Have Loved, The Symphony Of Strings](https://open.spotify.com/album/6dTaFuouZIVMgFjLzn2wNX) | 2:16 |
@@ -352,8 +352,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 342 | [Montmartre](https://open.spotify.com/track/25ASZbbGuIKBwqo5OTZjKF) | [Jack Corbin](https://open.spotify.com/artist/2FPCxNPoRlkKYKx2KUOMjs) | [Chip Deffaa's an Irving Berlin Travelogue](https://open.spotify.com/album/7jgewflbxoFZMjvWu5VQxr) | 2:54 |
 | 343 | [You're A Sucker For A Dame](https://open.spotify.com/track/1TmhREwS0VUnYhQPpyQGYN) | [Guy Haines](https://open.spotify.com/artist/6DeAuFRcRuteZ0ql78kzPk) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:35 |
 | 344 | [Outside Of Loving You \- I Like You](https://open.spotify.com/track/5CtzvLhO9pe877zjcMENej) | [Emily Loesser](https://open.spotify.com/artist/37hEcl0R9PVPfTxbsYrV53) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 3:43 |
-| 345 | [I Love to Quarrel with You](https://open.spotify.com/track/0yxQzat8Hvc4dKnFydxhGM) | [Joris De Graaf](https://open.spotify.com/artist/74hKeFZjAULbjEtRs4xsa7), [Samantha Cunha](https://open.spotify.com/artist/208ANASVZ8sR4GDiZTjqC4) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:25 |
-| 346 | [I Never Knew](https://open.spotify.com/track/34D0OTRM9nll0ieaIBC1go) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 2:46 |
+| 345 | [I Never Knew](https://open.spotify.com/track/34D0OTRM9nll0ieaIBC1go) | [Rilla of Green Gables Original Cast](https://open.spotify.com/artist/2V0GahkLcP8uB8xTnNHCgG) | [Rilla of Green Gables \(Original Cast Recording\)](https://open.spotify.com/album/6C0590Zb8lHATSXrSOTWUb) | 2:46 |
+| 346 | [I Love to Quarrel with You](https://open.spotify.com/track/0yxQzat8Hvc4dKnFydxhGM) | [Joris De Graaf](https://open.spotify.com/artist/74hKeFZjAULbjEtRs4xsa7), [Samantha Cunha](https://open.spotify.com/artist/208ANASVZ8sR4GDiZTjqC4) | [Chip Deffaa's Irving Berlin Rediscovered: Rare Songs of Love and Longing](https://open.spotify.com/album/5xUxnlf2ajJrp3bnGSzyXG) | 2:25 |
 | 347 | [While the Band Played an American Rag](https://open.spotify.com/track/3vWCeSH4GnnLL5Timdz4oU) | [Alec Deland](https://open.spotify.com/artist/1atjbI8nPMrnfNzjmBOf3s) | [Chip Deffaa's Irving Berlin Ragtime Rarities](https://open.spotify.com/album/5EEm4YvkC2TQpqk5RJeJ8W) | 1:59 |
 | 348 | [Two Cheers Instead Of Three](https://open.spotify.com/track/1VPpQ3JPswpx9lyYypCpNk) | [Walter Willison](https://open.spotify.com/artist/21Ahii1HXBx19BHjkZ3fRp) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:22 |
 | 349 | [You're Fun To Be With](https://open.spotify.com/track/5x9uxo9ErLNr5beF3ms9uv) | [Davis Gaines](https://open.spotify.com/artist/6kZS07gYQ9mSAUP38G5yFE) | [Unsung Irving Berlin](https://open.spotify.com/album/0Iu1evk65brZBcjXXiZpTK) | 2:12 |
@@ -392,4 +392,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPLArhYqD2JT.md) - [plain]
 | 382 | [They Call It Dancing](https://open.spotify.com/track/4YWHE8SDILJWqjn4F6XyJk) | [Charles Franklin](https://open.spotify.com/artist/6d9SBgm6DqjiYAqWI8Xtdl) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 1:29 |
 | 383 | [They Always Follow Me Around](https://open.spotify.com/track/26DUrnMBUJ6DQGdhzMgNxa) | [Jon Peterson](https://open.spotify.com/artist/7JFvWX08SxV1pJ4c1owVGy) | [Chip Deffaa's Rare and Unrecorded Irving Berlin Songs](https://open.spotify.com/album/5F3wvUEv5FCIyKks4MJAex) | 2:27 |
 
-Snapshot ID: `Abbc3gAAAABUwxkjAz3YyJ6sw8rTgpGJ`
+Snapshot ID: `AbbifgAAAABYfguSBtKaqutPRol/3D5J`

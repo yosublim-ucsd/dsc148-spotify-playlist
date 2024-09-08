@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "Off the Juice (Deluxe)",
+        "url": "https://open.spotify.com/album/1KaaqC2PnSygiw7cKz72mK"
+      },
+      "artists": [
+        {
+          "name": "Tony Loya",
+          "url": "https://open.spotify.com/artist/6n4UZ6Nju0cFj8VSoYCN6L"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186575,
+      "name": "Soy el Mejor - Deluxe",
+      "url": "https://open.spotify.com/track/3KolJYFk80M5gl5TWYoEd1"
+    },
+    {
+      "album": {
         "name": "Da\u00f1ado (Deluxe)",
         "url": "https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW"
       },

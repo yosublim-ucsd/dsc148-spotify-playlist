@@ -1,12 +1,12 @@
 {
-  "description": "This is Ryan Adams. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Ryan Adams. The essential tracks, all in one playlist.",
   "num_followers": 43540,
   "original_name": "This Is Ryan Adams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAABDInVuEGDksD0XfJEH/7b/",
+  "snapshot_id": "ZtpGAAAAAADKig3oFnvvo06ooJdTev1U",
   "tracks": [
     {
       "added_at": null,
@@ -55,6 +55,22 @@
       "duration_ms": 218527,
       "name": "The Man In Me - Live from Bristol, UK. 2023.",
       "url": "https://open.spotify.com/track/4aSrRsfy7Da0ToUZkfg9Gq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "London Calling (Live from London, UK. 2023)",
+        "url": "https://open.spotify.com/album/4ofCLLMFuWdkd9OxmaKFkV"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 256683,
+      "name": "London Calling - Live from London, UK. 2023",
+      "url": "https://open.spotify.com/track/0y7Zb8fAua487G50WZiH5C"
     },
     {
       "added_at": null,
@@ -331,22 +347,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
-        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 219870,
-      "name": "Wasted Years - Live from Glasgow",
-      "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -359,6 +359,22 @@
       "duration_ms": 185000,
       "name": "Answering Bell",
       "url": "https://open.spotify.com/track/0LXfdDKFrHSlRmOXJnhBar"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wasted Years (Live from Glasgow, UK. 2023)",
+        "url": "https://open.spotify.com/album/0PX31G0WgUrt181q5X0QYs"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 219870,
+      "name": "Wasted Years - Live from Glasgow",
+      "url": "https://open.spotify.com/track/1ETjsf2uAXbAApPQxhpJ5g"
     },
     {
       "added_at": null,
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
-        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 194164,
-      "name": "The Tracks of my Tears - Live from Newcastle, UK. 2023",
-      "url": "https://open.spotify.com/track/5EAoqZo78ggyMnPV5YO4rc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 226693,
       "name": "New York, New York",
       "url": "https://open.spotify.com/track/4snBTILMGyRKErKygwoDkE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
+        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 232656,
+      "name": "Moon River - Live from Newcastle, UK. 2023",
+      "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
-        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 232656,
-      "name": "Moon River - Live from Newcastle, UK. 2023",
-      "url": "https://open.spotify.com/track/4zkZuF7ObN0XHH0hAeaxpe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/7rIwXFX7SXc8FVBMUnRIvJ"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 301013,
       "name": "La Cienega Just Smiled",
       "url": "https://open.spotify.com/track/7M5muIJFufE3FaF1b6F8ho"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Tracks Of My Tears (Live from Newcastle, UK. 2023)",
+        "url": "https://open.spotify.com/album/6djRnrDSO52pJrSK2DC5Ov"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "The Tracks of my Tears - Live from Newcastle, UK. 2023",
+      "url": "https://open.spotify.com/track/5EAoqZo78ggyMnPV5YO4rc"
     },
     {
       "added_at": null,
@@ -523,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 171666,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Battle",
         "url": "https://open.spotify.com/album/333avvdsp2cuhEWyhlrLVS"
       },
@@ -543,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock N Roll",
-        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 238333,
-      "name": "So Alive",
-      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love Is Hell",
         "url": "https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2"
       },
@@ -603,6 +603,22 @@
       "duration_ms": 233653,
       "name": "This House Is Not For Sale",
       "url": "https://open.spotify.com/track/67ftTHCuUcUt5DlNO3dUQR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock N Roll",
+        "url": "https://open.spotify.com/album/3wPNe9aWZjMVr1UULcPuSX"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 238333,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/1VczhujvY0bkcf7jE2RbFE"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wanna Dance with Somebody (Live from Saskatoon, SK. 2023)",
-        "url": "https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct"
-      },
-      "artists": [
-        {
-          "name": "Ryan Adams",
-          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
-        }
-      ],
-      "duration_ms": 184369,
-      "name": "I Wanna Dance With Somebody (Who Loves Me) - Live from Saskatoon, SK. 2023",
-      "url": "https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc"
       },
@@ -715,6 +715,22 @@
       "duration_ms": 218400,
       "name": "The Rescue Blues",
       "url": "https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
     },
     {
       "added_at": null,
@@ -735,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/6WCWxMMBOvsAQl1SLUTMup"
+        "name": "I Wanna Dance with Somebody (Live from Saskatoon, SK. 2023)",
+        "url": "https://open.spotify.com/album/5UsxUBtseunAP05fd2ASct"
       },
       "artists": [
         {
@@ -744,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
         }
       ],
-      "duration_ms": 164466,
-      "name": "Style",
-      "url": "https://open.spotify.com/track/5awiVmsHfpUjg8P6Kh2iGP"
+      "duration_ms": 184369,
+      "name": "I Wanna Dance With Somebody (Who Loves Me) - Live from Saskatoon, SK. 2023",
+      "url": "https://open.spotify.com/track/5K7CW05pUejGciRqWwzGv7"
     },
     {
       "added_at": null,

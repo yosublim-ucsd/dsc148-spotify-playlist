@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Real Boston Richey
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,205,478 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,205,538 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Global Spinning \(feat\. BabyDrill\)](https://open.spotify.com/track/6ViNOWs6pBf1kvwplclX6K) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Big Swerv](https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4) | 2:48 |
 | 2 | [Survival Of The Fittest \(feat\. Future\)](https://open.spotify.com/track/2sdK4Bpasg8Ti0MTpCUFFd) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:55 |
 | 3 | [Boogieman](https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd) | [EBK Jaaybo](https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX) | [Boogieman](https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh) | 2:11 |
-| 4 | [SHHHH](https://open.spotify.com/track/0cIoiQRGAxt5NnfCO6Muiz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 1:59 |
+| 4 | [Olé Olé](https://open.spotify.com/track/4flACQjRqzX5Q4Hdil5ehP) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 2:22 |
 | 5 | [Help Me](https://open.spotify.com/track/487JCvAXVblflZyDJn3fSp) | [Real Boston Richey](https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi) | [Help Me](https://open.spotify.com/album/01JuX8fEX5ACudymzCB3O3) | 3:01 |
 | 6 | [Hit Stick](https://open.spotify.com/track/0tBESQdomKNyQQQk32nfA4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hit Stick](https://open.spotify.com/album/2Ke0SlOOJmQ8zvs7tOjEZN) | 3:13 |
 | 7 | [Bougie Hoes](https://open.spotify.com/track/74x94J6rUL6ZavNH0CIkyk) | [YFG FATSO](https://open.spotify.com/artist/33YsWRCg88zGFdA0xjxeLO) | [A Reaper's Ceremony](https://open.spotify.com/album/5zU9ruLdGdOm3Iip94ItGw) | 2:48 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 24 | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/track/0YebffGPds68lEWzM8qruN) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [Detroit \(feat\. 42 Dugg\)](https://open.spotify.com/album/6JcBaqDbyPZWj4IeKLzk8v) | 2:30 |
 | 25 | [MALIBU \- WITH TEE GRIZZLEY & G HERBO](https://open.spotify.com/track/72P14Y3mB5PUSEHAnBDIQ4) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [JUST RE'D UP 3](https://open.spotify.com/album/2qkZWTL0e6lDon20SCiP69) | 3:13 |
 | 26 | [Tweakers \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/track/296Xh4TLu5TKtTZH5kw3c3) | [Doodie Lo](https://open.spotify.com/artist/5YlfEcVGygV1M3jH9GxkU7), [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [Tweakers \(feat\. Rob49 & Skilla Baby\)](https://open.spotify.com/album/3qhSnRyepf8dr7KGpAmHpg) | 2:18 |
-| 27 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
-| 28 | [Olé Olé](https://open.spotify.com/track/4flACQjRqzX5Q4Hdil5ehP) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 2:22 |
+| 27 | [SHHHH](https://open.spotify.com/track/0cIoiQRGAxt5NnfCO6Muiz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [More Than A Shooter](https://open.spotify.com/album/4NoSTI3rVH4ylcf8v45eVn) | 1:59 |
+| 28 | [Swear to God \(feat\. Future\)](https://open.spotify.com/track/0N3A0tvQ3ppZerKA8Gsztp) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Swear to God \(feat\. Future\)](https://open.spotify.com/album/5j8aNVtgdhzP7azN05Z9h5) | 3:00 |
 | 29 | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/track/6ZnOfn9ylrTmC8d3p6FFXy) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [How I Grew Up \(feat\. Polo G\)](https://open.spotify.com/album/1wW9PQfzz7Q5GO9oLhA67k) | 3:02 |
 | 30 | [WE GONE SLIDE](https://open.spotify.com/track/2cRQFYzZRcYhTncbtljVgf) | [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE) | [Still King](https://open.spotify.com/album/4ixnEoLRXXdTiZjJ1Brz9x) | 2:27 |
 | 31 | [Hope You Know](https://open.spotify.com/track/2Ge2ZhznMuO22wIQ9Z5Wql) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Hope You Know](https://open.spotify.com/album/1Od4A4Vif26G3twKbIGJp2) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Left Right](https://open.spotify.com/track/0r0KV3E7CjM0F5gH6Ku9Hf) | [Big Boogie](https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Left Right](https://open.spotify.com/album/59eyN6yBBk1oxIf7gH6WHx) | 3:16 |
 | 100 | [Shampoo](https://open.spotify.com/track/2yrEBYkFqRcT65jRXnIICU) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Shampoo](https://open.spotify.com/album/6kvguegn7g69twj0Cg0OQ7) | 2:11 |
 
-Snapshot ID: `Ztp+QAAAAAAN31JQ5JYTS/eVx8vSh0CP`
+Snapshot ID: `ZtyavgAAAAC4+UvPlfARoyn3jBms+gkc`

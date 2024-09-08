@@ -1,6 +1,6 @@
 {
   "description": "Top flight Caribbean influenced bangers made in Uganda ",
-  "num_followers": 1230,
+  "num_followers": 1232,
   "original_name": "Kidandali Parte",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
+        "name": "Bango",
+        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
+      },
+      "artists": [
+        {
+          "name": "Rickman Manrick",
+          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
+        }
+      ],
+      "duration_ms": 208195,
+      "name": "Bango",
+      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
         "name": "Star Gal",
         "url": "https://open.spotify.com/album/09xaNHKwYwZGVu3NLopjiJ"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 206471,
       "name": "Emergency",
       "url": "https://open.spotify.com/track/5F80kygqI0nMAOqNz84qMY"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bango",
-        "url": "https://open.spotify.com/album/5EjUo2S5eo60HUQul3taSR"
-      },
-      "artists": [
-        {
-          "name": "Rickman Manrick",
-          "url": "https://open.spotify.com/artist/1T7mHyA2vGvrR8AAYPLXqM"
-        }
-      ],
-      "duration_ms": 208195,
-      "name": "Bango",
-      "url": "https://open.spotify.com/track/6s8wCWivqjQfaCD0fMEtnf"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -483,26 +483,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Hot Like Dat",
-        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
-      },
-      "artists": [
-        {
-          "name": "Beenie Gunter",
-          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
-        },
-        {
-          "name": "Rosa Ree",
-          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
-        }
-      ],
-      "duration_ms": 166736,
-      "name": "Hot Like Dat",
-      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "The One",
         "url": "https://open.spotify.com/album/6WQ6d7T4i5fbHSH80SxnEU"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 208000,
       "name": "The One",
       "url": "https://open.spotify.com/track/3o6NaD2LtlNBB3X4sJZIld"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Hot Like Dat",
+        "url": "https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj"
+      },
+      "artists": [
+        {
+          "name": "Beenie Gunter",
+          "url": "https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE"
+        },
+        {
+          "name": "Rosa Ree",
+          "url": "https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc"
+        }
+      ],
+      "duration_ms": 166736,
+      "name": "Hot Like Dat",
+      "url": "https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -695,26 +695,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Stupid",
-        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
-      },
-      "artists": [
-        {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Fik Fameica",
-          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
-        }
-      ],
-      "duration_ms": 217338,
-      "name": "Stupid",
-      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Marijuana",
         "url": "https://open.spotify.com/album/4Digf6fW7I9SjMeyB9VHdg"
       },
@@ -739,18 +719,22 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Welcome",
-        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+        "name": "Stupid",
+        "url": "https://open.spotify.com/album/0dNQmVpyFpFjazSiMwyvpW"
       },
       "artists": [
         {
-          "name": "Ivanka",
-          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Fik Fameica",
+          "url": "https://open.spotify.com/artist/4pTCPk9pqZ06ggZvk7F4Z5"
         }
       ],
-      "duration_ms": 193959,
-      "name": "Welcome",
-      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
+      "duration_ms": 217338,
+      "name": "Stupid",
+      "url": "https://open.spotify.com/track/2GQFN64gmx6tGYW5y3VLFA"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -771,6 +755,22 @@
       "duration_ms": 178834,
       "name": "Bwonjagala",
       "url": "https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/7mEKmY87y2j2jkeRcspMwU"
+      },
+      "artists": [
+        {
+          "name": "Ivanka",
+          "url": "https://open.spotify.com/artist/3nOh50a4XESuCczvFIjsVy"
+        }
+      ],
+      "duration_ms": 193959,
+      "name": "Welcome",
+      "url": "https://open.spotify.com/track/64i9EECIIkiccTlc0SJVDO"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "My Woman",
-        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
-      },
-      "artists": [
-        {
-          "name": "Vian Music",
-          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
-        }
-      ],
-      "duration_ms": 193541,
-      "name": "My Woman",
-      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
         "name": "Bikole",
         "url": "https://open.spotify.com/album/18zHLNTQCuz0UfCnVndtlw"
       },
@@ -839,6 +823,46 @@
       "duration_ms": 184400,
       "name": "Bikole",
       "url": "https://open.spotify.com/track/3iE5GT16HzXgZLlyVz9NKn"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "My Woman",
+        "url": "https://open.spotify.com/album/5is3qhNCcJMaAY60deK5io"
+      },
+      "artists": [
+        {
+          "name": "Vian Music",
+          "url": "https://open.spotify.com/artist/4ypzQUeTPb3HIRRriCEGmm"
+        }
+      ],
+      "duration_ms": 193541,
+      "name": "My Woman",
+      "url": "https://open.spotify.com/track/2blpLXK920nbgZZSs3Kjlx"
+    },
+    {
+      "added_at": "2024-03-01 12:07:08",
+      "album": {
+        "name": "Nkwatewa",
+        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+      },
+      "artists": [
+        {
+          "name": "selecta jef",
+          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
+        },
+        {
+          "name": "Daddy Andre",
+          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
+        },
+        {
+          "name": "Bebe Cool",
+          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+        }
+      ],
+      "duration_ms": 181890,
+      "name": "Nkwatewa",
+      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -883,26 +907,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Nkwatewa",
-        "url": "https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe"
+        "name": "Offline",
+        "url": "https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL"
       },
       "artists": [
         {
-          "name": "selecta jef",
-          "url": "https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv"
-        },
-        {
-          "name": "Daddy Andre",
-          "url": "https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo"
-        },
-        {
-          "name": "Bebe Cool",
-          "url": "https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81"
+          "name": "Riff",
+          "url": "https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh"
         }
       ],
-      "duration_ms": 181890,
-      "name": "Nkwatewa",
-      "url": "https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg"
+      "duration_ms": 163369,
+      "name": "Offline",
+      "url": "https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI"
     },
     {
       "added_at": "2024-03-01 12:07:08",
@@ -927,38 +943,18 @@
     {
       "added_at": "2024-03-01 12:07:08",
       "album": {
-        "name": "Offline",
-        "url": "https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL"
+        "name": "Nsudiya",
+        "url": "https://open.spotify.com/album/6Yi9cEkIT7Nuskrip7ozGV"
       },
       "artists": [
         {
-          "name": "Riff",
-          "url": "https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh"
+          "name": "Aroma Music",
+          "url": "https://open.spotify.com/artist/7sQ73ctV0zhIB3tBq54co2"
         }
       ],
-      "duration_ms": 163369,
-      "name": "Offline",
-      "url": "https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI"
-    },
-    {
-      "added_at": "2024-03-01 12:07:08",
-      "album": {
-        "name": "Bakuwe",
-        "url": "https://open.spotify.com/album/5ySumQoHct1DszBg12EFRZ"
-      },
-      "artists": [
-        {
-          "name": "Guvnor Ace",
-          "url": "https://open.spotify.com/artist/0vkkEiI8LvZdJkcK0OgIQ9"
-        },
-        {
-          "name": "Jose Chameleone",
-          "url": "https://open.spotify.com/artist/6nTXL0DkmSqjvcKjn6hCUz"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bakuwe",
-      "url": "https://open.spotify.com/track/6i2v4YK3dDfuxbkuqL8hst"
+      "duration_ms": 165429,
+      "name": "Nsudiya",
+      "url": "https://open.spotify.com/track/3mvoKv50cFaPnO47kett6D"
     }
   ],
   "unique_name": "Kidandali Parte",

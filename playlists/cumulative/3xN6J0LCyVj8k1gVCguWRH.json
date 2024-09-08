@@ -12483,6 +12483,24 @@
     },
     {
       "album": {
+        "name": "Cloud",
+        "url": "https://open.spotify.com/album/7FTsfkzQMd5oxzwz6KxNzc"
+      },
+      "artists": [
+        {
+          "name": "C22M5N",
+          "url": "https://open.spotify.com/artist/6J2vqufvoZOp4zLeeCed8i"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177962,
+      "name": "Cloud",
+      "url": "https://open.spotify.com/track/11YqTLG8xSt14rng7maZNj"
+    },
+    {
+      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2nReVASJSJeVGf18GNbrM0"
       },
@@ -13776,7 +13794,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 174598,
       "name": "Cosa de Locos",
       "url": "https://open.spotify.com/track/2dfvv1iA4NL6Ref6EtfzMF"
@@ -16576,7 +16594,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 160916,
       "name": "Disco Knights",
       "url": "https://open.spotify.com/track/0JxaM0cOq7NNIZQ0Ccs9Mg"
@@ -16986,6 +17004,24 @@
       "duration_ms": 217304,
       "name": "Do You Know What I Mean",
       "url": "https://open.spotify.com/track/25ESdAEdfA6fPM222g1Rxg"
+    },
+    {
+      "album": {
+        "name": "Do You Still Need Me",
+        "url": "https://open.spotify.com/album/1LWjlADn0hZq25HpauruAI"
+      },
+      "artists": [
+        {
+          "name": "Marty O'Neill",
+          "url": "https://open.spotify.com/artist/3tIkLvNAAQfZdJwbDASQsz"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232947,
+      "name": "Do You Still Need Me",
+      "url": "https://open.spotify.com/track/3BK9LjyD588ftoH6i3OTn4"
     },
     {
       "album": {
@@ -24826,7 +24862,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-01",
+      "date_removed": null,
       "duration_ms": 241258,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/2pXm9s13qHTryW2rrQB6du"
@@ -25546,7 +25582,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 264261,
       "name": "Gone",
       "url": "https://open.spotify.com/track/6GzMx8TZaHSyvIFt2cW8ki"
@@ -27532,7 +27568,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 189229,
       "name": "Heart of Summer",
       "url": "https://open.spotify.com/track/2Wjq2cglhnwyOMKO0edAvC"
@@ -30702,6 +30738,24 @@
       "duration_ms": 132972,
       "name": "i really don't know",
       "url": "https://open.spotify.com/track/4K8cZewtJoQVK7TQ9FWN9l"
+    },
+    {
+      "album": {
+        "name": "I Really Like It",
+        "url": "https://open.spotify.com/album/2ufKyygogIYpdIYn2vg6i4"
+      },
+      "artists": [
+        {
+          "name": "Channing Armour",
+          "url": "https://open.spotify.com/artist/5LtquIruwgS2aRP2xQPABK"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228734,
+      "name": "I Really Like It",
+      "url": "https://open.spotify.com/track/0ElIiUCasVJL3bc38WkSny"
     },
     {
       "album": {
@@ -38084,7 +38138,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 217865,
       "name": "Long Way Down",
       "url": "https://open.spotify.com/track/3lkXTNsllynrDiCC4mvvFR"
@@ -45259,6 +45313,24 @@
     },
     {
       "album": {
+        "name": "No Contact",
+        "url": "https://open.spotify.com/album/5ujZ7d10TY5nwJmVw6cBSZ"
+      },
+      "artists": [
+        {
+          "name": "Bruklin",
+          "url": "https://open.spotify.com/artist/4fjAtF6VmMxQHxKI5C3HPO"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171272,
+      "name": "No Contact",
+      "url": "https://open.spotify.com/track/7M4kKZNFtLmAwZHoeqWznK"
+    },
+    {
+      "album": {
         "name": "Another Level",
         "url": "https://open.spotify.com/album/2zGZLQiFl9UubtrVmtIkbi"
       },
@@ -46888,6 +46960,28 @@
       "duration_ms": 183092,
       "name": "Oh My",
       "url": "https://open.spotify.com/track/6DaBr6zT7hlxNchzYVgPds"
+    },
+    {
+      "album": {
+        "name": "OH SONG",
+        "url": "https://open.spotify.com/album/02qlks2ZXU9sJVm0JogqSa"
+      },
+      "artists": [
+        {
+          "name": "JayPop",
+          "url": "https://open.spotify.com/artist/1JGJcC2ZneNPhrpH5TxNQi"
+        },
+        {
+          "name": "Shawn \"Q\" Mitchell",
+          "url": "https://open.spotify.com/artist/4PY4z7vJsA89N9CcBj8MB5"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236564,
+      "name": "OH SONG",
+      "url": "https://open.spotify.com/track/6vyv51BlltTggtGdBdhTpI"
     },
     {
       "album": {
@@ -55984,7 +56078,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 194800,
       "name": "Sexy In The Air",
       "url": "https://open.spotify.com/track/3wluV5HGCW1Dq1CYsjIdLu"
@@ -62677,6 +62771,24 @@
     },
     {
       "album": {
+        "name": "Te llame",
+        "url": "https://open.spotify.com/album/3UpCn5VRWtwwWeM53wP5NR"
+      },
+      "artists": [
+        {
+          "name": "J.Abel",
+          "url": "https://open.spotify.com/artist/3X8slEHF7s9oBLoaZvcAOP"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154209,
+      "name": "Te llame",
+      "url": "https://open.spotify.com/track/4HKIskp2EGVQlWwxSfN6K3"
+    },
+    {
+      "album": {
         "name": "Te Odio. Te Amo.",
         "url": "https://open.spotify.com/album/4r410t9vgZ6qgpTbQLf3RZ"
       },
@@ -67879,6 +67991,24 @@
     },
     {
       "album": {
+        "name": "unrequited love",
+        "url": "https://open.spotify.com/album/1o0hPm1R3zr0HoS1IuF2jM"
+      },
+      "artists": [
+        {
+          "name": "Jalen Porch\u00e1",
+          "url": "https://open.spotify.com/artist/50YeLCyzFEgy0DsqXzIssn"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111775,
+      "name": "unrequited love",
+      "url": "https://open.spotify.com/track/7saZGol648iJi3wvKev41R"
+    },
+    {
+      "album": {
         "name": "West",
         "url": "https://open.spotify.com/album/3bA55G1u1MJfdWDKW2hf8K"
       },
@@ -71691,6 +71821,32 @@
     },
     {
       "album": {
+        "name": "BRUSA FUNK, VOL.02",
+        "url": "https://open.spotify.com/album/1loqble54Cgoo9MYdrLIBW"
+      },
+      "artists": [
+        {
+          "name": "BRUSA FUNK",
+          "url": "https://open.spotify.com/artist/7IPrZUWtDis3EyfaiBrsv8"
+        },
+        {
+          "name": "Cabra Guaran\u00e1",
+          "url": "https://open.spotify.com/artist/5hk1NvdVy731IowVMs5x5D"
+        },
+        {
+          "name": "Riko Viana",
+          "url": "https://open.spotify.com/artist/5ZLJi4zyqFbgmR1CNbdmEc"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163278,
+      "name": "Who - MTG Funk Version",
+      "url": "https://open.spotify.com/track/0qyTn3MkcN7a6y6skLpFnP"
+    },
+    {
+      "album": {
         "name": "Who Am I Really Fooling Anyway",
         "url": "https://open.spotify.com/album/0A0kiY3JBZNkvxDzEXPIcD"
       },
@@ -73790,7 +73946,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 173596,
       "name": "You Won",
       "url": "https://open.spotify.com/track/6g7X6IcVWLEE3M3P2D9Hzn"

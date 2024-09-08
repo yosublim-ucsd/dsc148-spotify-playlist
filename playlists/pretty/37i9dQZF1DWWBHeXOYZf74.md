@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,122 likes - 102 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,115 likes - 102 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 17 | [Come Find Me](https://open.spotify.com/track/4q7HKyfR8A5aY0rxtvTCTY) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Come Find Me](https://open.spotify.com/album/7AMoVdlSRTUCLVNWliACTB) | 3:56 |
 | 18 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 |
 | 19 | [In The End](https://open.spotify.com/track/2uTqPpiBfdI4LatYsbKfY8) | [Prof\. Stranger](https://open.spotify.com/artist/10oCYNVAWe1XK0Ui8sgzgp) | [In The End](https://open.spotify.com/album/4zaM38yi3WIcmbGMRtI1G1) | 3:42 |
-| 20 | [Air Lock \- Air Tight Mix](https://open.spotify.com/track/4Yjawubg0T0QofzzGOaAg4) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Air Lock \(Air Tight Mix\)](https://open.spotify.com/album/4yIOZMT2PMMjxeGtTrsv46) | 4:48 |
+| 20 | [Air Lock \- Air Tight Mix](https://open.spotify.com/track/4Yjawubg0T0QofzzGOaAg4) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Air Lock \- Air Tight Mix](https://open.spotify.com/album/4yIOZMT2PMMjxeGtTrsv46) | 4:48 |
 | 21 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 |
 | 22 | [Internet Star](https://open.spotify.com/track/2LpyVY2jIGC8QV8TNUSHt1) | [googly eyes](https://open.spotify.com/artist/70csuBTxncKYE9FcIA0CXa) | [Internet Star](https://open.spotify.com/album/6pdC35KSTDQi2E9KgTTVd0) | 1:58 |
 | 23 | [Old Life](https://open.spotify.com/track/1BCWmRqByLwKXQkf28aqWf) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Old Life](https://open.spotify.com/album/5ysYg2ph45lyD4OEpDLW6p) | 3:00 |

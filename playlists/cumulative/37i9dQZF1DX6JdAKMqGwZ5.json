@@ -1303,6 +1303,32 @@
     },
     {
       "album": {
+        "name": "FOR\u00c7A",
+        "url": "https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe"
+      },
+      "artists": [
+        {
+          "name": "Bik\u00f4k\u00f4",
+          "url": "https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV"
+        },
+        {
+          "name": "Irenegarry",
+          "url": "https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB"
+        },
+        {
+          "name": "AMORE",
+          "url": "https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194704,
+      "name": "FOR\u00c7A",
+      "url": "https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7"
+    },
+    {
+      "album": {
         "name": "Frente al Latido",
         "url": "https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn"
       },
@@ -1694,7 +1720,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 240853,
       "name": "Lirio",
       "url": "https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw"

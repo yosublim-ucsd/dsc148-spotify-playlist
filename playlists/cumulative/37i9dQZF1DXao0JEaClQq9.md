@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Nala Sinephro
 
-622 songs - 1 day 14 hr 51 min
+623 songs - 1 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,7 @@
 | [Ossature](https://open.spotify.com/track/6wKBs0H45e7YZqXxgYizqv) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Ossature](https://open.spotify.com/album/67pHzx4hDdALeMnatGIowU) | 3:45 | 2021-10-08 | 2022-04-23 |
 | [p i x e l a t e d](https://open.spotify.com/track/1vJcfFEpGBI1l2LNWnTUPJ) | [Luna Shadows](https://open.spotify.com/artist/55SUpsj027epu8yi663EKZ) | [Digital Pacific](https://open.spotify.com/album/6kVa8HTm59PW9Kk60RM7hc) | 0:58 | 2021-06-03 | 2022-07-22 |
 | [Paloma](https://open.spotify.com/track/74rvVpcia4jfUDBafy0WEt) | [Angélica Garcia](https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG) | [Gemelo](https://open.spotify.com/album/16hyi0FtwSiv2Kojazr71m) | 3:31 | 2024-08-02 |  |
-| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 |  |
+| [Paprika](https://open.spotify.com/track/3zyqphgXvgHe436IMKeey3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:40 | 2022-06-03 | 2024-09-08 |
 | [Paradise Circus](https://open.spotify.com/track/2BndJYJQ17UcEeUFJP5JmY) | [Massive Attack](https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X) | [Heligoland](https://open.spotify.com/album/1F8y2bg9V9nRoy8zuxo3Jt) | 4:57 | 2021-06-03 |  |
 | [Party's Over](https://open.spotify.com/track/2GpJftoEXefvW1pdRH7iNh) | [Half Waif](https://open.spotify.com/artist/28mCmWkgrWHZ4fm5c3OcIj) | [Party's Over](https://open.spotify.com/album/6f0ynebrefkTEiM8S4akrs) | 3:23 | 2021-06-03 | 2022-07-24 |
 | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/track/35UpVtlZ5nbxH2nw0of9ST) | [Caroline Loveglow](https://open.spotify.com/artist/3j0n7TWGvwhPBMBWPbuasr), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Patience Etc..\. \(George Clanton Remix\)](https://open.spotify.com/album/47vZuuUWplGpIYvBZGUj4s) | 4:18 | 2021-08-27 | 2022-04-22 |
@@ -431,6 +431,7 @@
 | [Physical](https://open.spotify.com/track/4QZ2EpH1iPBHGmpU2YEF2z) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Come Down](https://open.spotify.com/album/0VXF6JEUzl27XNBTNPtOMV) | 4:33 | 2021-07-19 | 2022-05-20 |
 | [Pixel Affection](https://open.spotify.com/track/2SSRl4W3RcjD3VBINiZ5lZ) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Serotonin II](https://open.spotify.com/album/65dSTesHJdw1ZhWfHNsKZ9) | 3:39 | 2021-06-03 | 2022-07-15 |
 | [Playground Love](https://open.spotify.com/track/052z2UsE2wPrHsBJ9tly0g) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ), [Gordon Tracks](https://open.spotify.com/artist/4DWl8U58uYeeTtlvbrLEY6) | [The Virgin Suicides \(Original Motion Picture Score\)](https://open.spotify.com/album/2E1q8eohZZ1BUQ7Bq5WUIY) | 3:31 | 2022-04-22 |  |
+| [pleaser](https://open.spotify.com/track/5ldacn9iR3yFtYLrj5N3un) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Cacophony](https://open.spotify.com/album/6iotK7DPiIqhu707ysxYpH) | 4:48 | 2024-08-30 |  |
 | [Poison Arrow](https://open.spotify.com/track/2RWZiDpnwmXjiH0NPW1d3O) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Poison Arrow](https://open.spotify.com/album/2WWzSHKxSZ31NERBFALxVB) | 4:20 | 2021-06-03 | 2022-07-26 |
 | [Polly](https://open.spotify.com/track/6LQOd5wz3RmBFFZxdhSfLT) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [græ](https://open.spotify.com/album/35CHoLB0GEwYlOomriifC6) | 3:38 | 2021-06-03 | 2022-07-25 |
 | [Pool](https://open.spotify.com/track/5d1AGB455kWMjmtOQLx7Pg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/3mreobGzuqYw5lVcUaAlG2) | 4:29 | 2021-06-03 | 2022-07-29 |

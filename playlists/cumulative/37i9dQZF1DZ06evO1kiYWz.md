@@ -2,7 +2,7 @@
 
 ### [This Is Campo De Almas.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz)
 
-> This is Campo De Almas.\. The essential tracks, all in one playlist.
+> This Is Campo De Almas.\. Los temas esenciales, todos en una lista.
 
 60 songs - 3 hr 49 min
 

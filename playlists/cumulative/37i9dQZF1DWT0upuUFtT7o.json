@@ -18951,6 +18951,24 @@
     },
     {
       "album": {
+        "name": "Junebug / HighPraise",
+        "url": "https://open.spotify.com/album/3cNHnziPRxQQy3Aq3ERna6"
+      },
+      "artists": [
+        {
+          "name": "Deloyd Elze",
+          "url": "https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "HighPraise",
+      "url": "https://open.spotify.com/track/5w7tORHp5YxqhTtWV8UglU"
+    },
+    {
+      "album": {
         "name": "Hijack",
         "url": "https://open.spotify.com/album/4r4QKcKsLNE6cbvJjhSDoU"
       },

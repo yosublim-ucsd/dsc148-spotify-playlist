@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,227 songs - 6 day 17 hr 21 min
+4,228 songs - 6 day 17 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,6 +554,7 @@
 | [Cadim](https://open.spotify.com/track/0Xl2rD95ZarvEhelqn5vtw) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Toti Cisneros](https://open.spotify.com/artist/2RzBTtaoFmXDvt5vP8lPYf), [Lock](https://open.spotify.com/artist/0gpKex5pDrVpQ6YGOrOb6A) | [Cadim](https://open.spotify.com/album/2JVvNxrzOWxH7LcecqZbCJ) | 2:24 | 2024-02-29 |  |
 | [Café](https://open.spotify.com/track/3fWo9d74IMcJzeyIwb4gst) | [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG), [Spencer Hunt](https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S) | [Café](https://open.spotify.com/album/1N4HRS8q3qk2H4l29Yc5ma) | 1:36 | 2023-11-13 | 2023-12-02 |
 | [Calabi](https://open.spotify.com/track/4aCqylC1TaJGfA91L9c5rx) | [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Calabi](https://open.spotify.com/album/2sLThJkAuvJmmKZIQvBuvM) | 2:14 | 2020-10-23 | 2021-05-21 |
+| [Calafate](https://open.spotify.com/track/6j8wCbTxcupulGNPLkqTsE) | [Civin](https://open.spotify.com/artist/05PE7U7GPUq687RB2ZJdFW) | [Calafate](https://open.spotify.com/album/6hZjD4GnH6TbRUglyMWWCv) | 1:39 | 2024-09-02 |  |
 | [Cali](https://open.spotify.com/track/5ttp6yAYegjRkpS05LpM6F) | [Elior](https://open.spotify.com/artist/0tquhVod10o2zf1ht2aVoz) | [Cali](https://open.spotify.com/album/1ov583nsfLjZZ5MOlZmhPL) | 2:30 | 2021-06-19 | 2021-07-16 |
 | [Cali Soul](https://open.spotify.com/track/4bsZnHuuv8OdjOodr2QVDh) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Nokiaa](https://open.spotify.com/artist/0ikgHu560bYMZOOXFQnRLN), [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9) | [Cali Soul](https://open.spotify.com/album/0OLnu4JsEuoQ9dcnbXrQI1) | 2:07 | 2021-07-10 | 2021-08-20 |
 | [Calibrate](https://open.spotify.com/track/0LhquHcGTJrjNB4IbYg7Or) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Calibrate](https://open.spotify.com/album/4NiL5OBI2edynMCXLYRTGR) | 2:20 | 2020-05-30 | 2020-08-07 |
@@ -802,7 +803,7 @@
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-10-01 | 2022-07-08 |
 | [Crimea](https://open.spotify.com/track/5VwXSBEgJMp4cd5TeWGeK9) | [Boora](https://open.spotify.com/artist/1xkhstLVWw3eDL1pRMN0Z7) | [Crimea](https://open.spotify.com/album/5o4CyEZXkntl65XCR6PimT) | 2:46 | 2020-07-11 | 2020-09-11 |
 | [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
-| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 |  |
+| [Crooked Mirror of the Soul](https://open.spotify.com/track/6rx7YJo2x8GxKowxkvH8Qe) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [Crooked Mirror of the Soul](https://open.spotify.com/album/10bXkjlaEHrIEhuDRiDAle) | 1:51 | 2024-01-26 | 2024-09-08 |
 | [Crossing](https://open.spotify.com/track/7u9kOrf7JEHe2wwUPhPabi) | [drkmnd](https://open.spotify.com/artist/1j1zhORHvaQ7DAIKpuK42C) | [Crossing](https://open.spotify.com/album/3HhTOt70nt48DzGChnJZuY) | 1:50 | 2019-05-28 | 2019-09-17 |
 | [Cruisin](https://open.spotify.com/track/5mvrMYNZvxj7GPcS66XemB) | [Oilix](https://open.spotify.com/artist/5hXOmfSG0AUYWd2ipat82x) | [Cruisin](https://open.spotify.com/album/01DGzYPUkJ7cN7ek3GlGEV) | 2:51 | 2021-05-21 | 2021-09-22 |
 | [Cruisin'](https://open.spotify.com/track/6bJdh8j8HbZV0WPu5FGAgb) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an), [lorleaf](https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y) | [Cruisin'](https://open.spotify.com/album/2tFq1aPNX5mo7zSKBfYs2p) | 2:06 | 2021-10-08 | 2023-02-24 |

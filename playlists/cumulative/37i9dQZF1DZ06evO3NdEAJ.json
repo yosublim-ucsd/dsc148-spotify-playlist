@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "En Todos Los Idiomas",
+        "url": "https://open.spotify.com/album/2jmC9JDvco8CsmnhhcM6Te"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175311,
+      "name": "En Todos Los Idiomas",
+      "url": "https://open.spotify.com/track/5x9zu8G7OXfvUVuQ6W1K0w"
+    },
+    {
+      "album": {
         "name": "Globo Desinflado",
         "url": "https://open.spotify.com/album/1TIhRK5WrbC3BjbmiQubPA"
       },

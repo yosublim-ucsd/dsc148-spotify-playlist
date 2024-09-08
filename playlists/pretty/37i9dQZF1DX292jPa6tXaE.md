@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover new Punjabi artists! Cover: Param Pannu
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,186 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,198 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Keep It Hundo](https://open.spotify.com/track/2DdHsOXcs49IRdIMU6rwaq) | [Param Pannu](https://open.spotify.com/artist/7oM10RkgjEOA2dP6mEXfse) | [Keep It Hundo](https://open.spotify.com/album/0hfg65x4fdR1khGEwrZF9d) | 1:54 |
-| 2 | [Ishq Mareez](https://open.spotify.com/track/33O5Bj6BBRjSLdhySP75u2) | [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7) | [Ishq Mareez](https://open.spotify.com/album/7zxdng2WO3XfAawo5JXnpn) | 2:20 |
+| 2 | [Ishq Mareez](https://open.spotify.com/track/33O5Bj6BBRjSLdhySP75u2) | [Mann Music](https://open.spotify.com/artist/7Itevk2MnbkjY8KqHyNhI7), [Ammy Amnat](https://open.spotify.com/artist/38wsN0WRzPKKC4DqEC5UMw) | [Ishq Mareez](https://open.spotify.com/album/7zxdng2WO3XfAawo5JXnpn) | 2:20 |
 | 3 | [Bandana](https://open.spotify.com/track/4Tx8bpMOSikMMrpXAdEbxo) | [Jujhar](https://open.spotify.com/artist/5LJ2jcTSVpzhlQfZN4vco6) | [Bandana](https://open.spotify.com/album/0dcnzIxSYZuNI81AKVOogV) | 2:26 |
 | 4 | [Miss Me?](https://open.spotify.com/track/4Q1JtqEb1S0cmRItv4z5pK) | [Sahij Hothi](https://open.spotify.com/artist/7sgsLlXW0EuH981GfOS1Ri), [Garry on the Track](https://open.spotify.com/artist/43twEeStPpK0Q0sir8xoRw), [Deep Varn](https://open.spotify.com/artist/5y9NFdyMuph2diUhtvboh0) | [Miss Me?](https://open.spotify.com/album/5sqBZyEwQSY4N6e7tmX4yI) | 4:11 |
 | 5 | [Hopeless](https://open.spotify.com/track/4yCYeHPFF0dmQNEUqKX1Gn) | [Yadi](https://open.spotify.com/artist/0goPTDjr7U8QQNFubP2Iwz), [Uptown Slick](https://open.spotify.com/artist/4wYL5YgQIWCzlFJ6CpWb0s) | [Hopeless](https://open.spotify.com/album/6cXygxE2Y07GN4uAW4loGs) | 2:39 |

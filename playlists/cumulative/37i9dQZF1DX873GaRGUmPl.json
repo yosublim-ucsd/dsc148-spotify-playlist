@@ -1079,6 +1079,24 @@
     },
     {
       "album": {
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/6xNFuLOko8gjxi5kUAyGyM"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        }
+      ],
+      "date_added": "2022-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176693,
+      "name": "Come Down",
+      "url": "https://open.spotify.com/track/6h5IlvRJ2ZNPloCOdzUmyW"
+    },
+    {
+      "album": {
         "name": "Come For Me",
         "url": "https://open.spotify.com/album/0qqSJYvt8rtJlF1GMkRhKc"
       },
@@ -5300,7 +5318,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 309346,
       "name": "The Wolves",
       "url": "https://open.spotify.com/track/2zKoA5gp5Xaw3mrp45XIrR"

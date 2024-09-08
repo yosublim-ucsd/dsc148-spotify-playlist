@@ -925,6 +925,28 @@
     },
     {
       "album": {
+        "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8\u201918",
+        "url": "https://open.spotify.com/album/6UtksUKDvgPLVlhoQbbVTw"
+      },
+      "artists": [
+        {
+          "name": "\u5897\u5ca1\u5f18 (\u30b8\u30e3\u30e0\u304a\u3058\u3055\u3093)",
+          "url": "https://open.spotify.com/artist/5JJqzE4zHvt6D7LDD0HMbh"
+        },
+        {
+          "name": "\u4f50\u4e45\u9593\u30ec\u30a4 (\u30d0\u30bf\u30b3\u3055\u3093)",
+          "url": "https://open.spotify.com/artist/2MiyJpd92keovja5ptjDNt"
+        }
+      ],
+      "date_added": "2024-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138533,
+      "name": "\u751f\u304d\u3066\u308b\u30d1\u30f3\u3092\u3064\u304f\u308d\u3046 \uff5e Brand New ver.",
+      "url": "https://open.spotify.com/track/582MHViAtZy7kzB9zaegFx"
+    },
+    {
+      "album": {
         "name": "\u305d\u308c\u3044\u3051\uff01\u30a2\u30f3\u30d1\u30f3\u30de\u30f3 \u30d9\u30b9\u30c8\u30d2\u30c3\u30c8'14",
         "url": "https://open.spotify.com/album/6EVeFh2PA9ysUf0JWeQL92"
       },
@@ -936,7 +958,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 138573,
       "name": "\u751f\u304d\u3066\u308b\u30d1\u30f3\u3092\u3064\u304f\u308d\u3046 \uff5eBrand New ver.",
       "url": "https://open.spotify.com/track/2QmuiZyfFn2hC8uUFIFIPQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwmD5Q7Gxah.md) - [plain]
 
 > rex orange county <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,984 likes - 114 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,155,208 likes - 114 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

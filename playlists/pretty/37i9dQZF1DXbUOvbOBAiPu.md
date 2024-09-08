@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > Nieuw deze week \- Nouveautés de la semaine\. Cover: Fred again...
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,931 likes - 89 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,935 likes - 89 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 15 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
 | 16 | [Laredo](https://open.spotify.com/track/2dOFhIxKh4REr6WdUkeZnb) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Laredo](https://open.spotify.com/album/5JtinpKHCtawRnc4CWq2JR) | 3:16 |
 | 17 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 |
-| 18 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:45 |
+| 18 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 |
 | 19 | [Protocol \(feat\. Jonna Fraser\)](https://open.spotify.com/track/75KIgiMpV1mqoydOo3NnC8) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Protocol \(feat\. Jonna Fraser\)](https://open.spotify.com/album/7AzaaUOcxOLRoxBXhJSyrD) | 3:08 |
 | 20 | [Mon combat](https://open.spotify.com/track/0unEc74CeSqCxdJaw18qWR) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [47°](https://open.spotify.com/album/2rFjMsCyfI1YOprPPSclbZ) | 2:33 |
 | 21 | [Goodbyes \(Myrrh\)](https://open.spotify.com/track/3ElesDZUMxUJejxvl6IeEk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Goodbyes \(Myrrh\)](https://open.spotify.com/album/5NCOoYKQ1R5VOG4I9yX1tD) | 3:30 |

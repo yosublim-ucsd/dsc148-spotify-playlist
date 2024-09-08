@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: DAMONA
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,521 likes - 49 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,542 likes - 49 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 11 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 |
 | 12 | [Boyfriend](https://open.spotify.com/track/19PyeLis1yiy48lDeGK4rq) | [Florentina](https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo) | [Boyfriend](https://open.spotify.com/album/6y1jmBlZVNPyT7eS39R3Ra) | 2:25 |
 | 13 | [HIGHS & LOWS](https://open.spotify.com/track/3nGn1uKrIl1vi8DYTZ07Qx) | [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [HIGHS & LOWS](https://open.spotify.com/album/0etPnBzlb3slRaTPz2aWal) | 2:50 |
-| 14 | [Tequila \(feat\. Wa22ermann & NEAL\)](https://open.spotify.com/track/3zrClTVvyHK3TOUVFAR9hh) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [NEAL](https://open.spotify.com/artist/0t9wsK8mdUR0jArU0YhArq) | [Tequila \(feat\. Wa22ermann & NEAL\)](https://open.spotify.com/album/3fGS9T1tT75e4zfT9R8arP) | 2:54 |
-| 15 | [Zu viel / nicht genug](https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Zu viel / nicht genug](https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2) | 2:36 |
+| 14 | [Zu viel / nicht genug](https://open.spotify.com/track/6ASKJH0Uam97httStG9YA5) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Zu viel / nicht genug](https://open.spotify.com/album/1s6GBzqf70afPLxYl0Leh2) | 2:36 |
+| 15 | [Tequila \(feat\. Wa22ermann & NEAL\)](https://open.spotify.com/track/3zrClTVvyHK3TOUVFAR9hh) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR), [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [NEAL](https://open.spotify.com/artist/0t9wsK8mdUR0jArU0YhArq) | [Tequila \(feat\. Wa22ermann & NEAL\)](https://open.spotify.com/album/3fGS9T1tT75e4zfT9R8arP) | 2:54 |
 | 16 | [Ärger](https://open.spotify.com/track/2ZpNVf05uVzubaPX6Sd2VK) | [Zsá Zsá](https://open.spotify.com/artist/2tV5iP4TyDyLFU9WmfXMLZ) | [Ärger](https://open.spotify.com/album/0MJuSV0gjcCU5Cel4SziGO) | 1:43 |
 | 17 | [I Forget \(I’m So Young\)](https://open.spotify.com/track/64Arxcm1BKaKaXhq8aWoCy) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [I Forget \(I’m So Young\)](https://open.spotify.com/album/3gsfSprEh8MiW0ir872S1Z) | 4:19 |
 | 18 | [Seit du da bist](https://open.spotify.com/track/5wmfysWg1eu2QHs0NsGENm) | [SIMONA](https://open.spotify.com/artist/5IrNK8jRtmwCN4JLMJMSY5) | [Seit du da bist](https://open.spotify.com/album/1VLsVttSDPHQqQ5wtEeHIs) | 2:54 |
@@ -35,18 +35,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 25 | [Himmel \(TW\)](https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i) | [Marisabelle](https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH) | [Himmel \(TW\)](https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm) | 2:14 |
 | 26 | [Ich trage Samt](https://open.spotify.com/track/5PXzqB5i6nroTtLJLy9dTr) | [piya](https://open.spotify.com/artist/0cEl0cfqLbO7XsDrzJXrzh) | [Ich trage Samt](https://open.spotify.com/album/5wHD5ao5biGk9MuBuSVl8p) | 2:42 |
 | 27 | [was passiert wenn die straße kommt ?](https://open.spotify.com/track/5QZkDOuMsNpRzxzCNLQPQm) | [AMBRA](https://open.spotify.com/artist/2Kbc5Ozhq7bADysLnZrfh5) | [was passiert wenn die straße kommt ?](https://open.spotify.com/album/1tPeUs7NBElneokQ4kAc6L) | 3:20 |
-| 28 | [Wieso eigentlich?](https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Wieso eigentlich?](https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt) | 2:43 |
-| 29 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 |
-| 30 | [Biness](https://open.spotify.com/track/6ifugRp33eSgxc3eT47Cwm) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [Biness](https://open.spotify.com/album/65Gs0E8CfiCX3XLg6QjWBm) | 2:40 |
-| 31 | [Königin der Nacht](https://open.spotify.com/track/5Qdk51JYdDmYjersO6Ca6W) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Königin der Nacht](https://open.spotify.com/album/761qv2sk2eD7QUq7zZcviQ) | 2:04 |
-| 32 | [Lightspeed](https://open.spotify.com/track/1mzmi01eh31P8zbCFi02E5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lightspeed](https://open.spotify.com/album/50d54rqpQUL9ehdRSVp29j) | 3:15 |
-| 33 | [lass mich gehen](https://open.spotify.com/track/4HowiKz4jKcJpj4FFYmAfk) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [lass mich gehen](https://open.spotify.com/album/2uecOzul9b1cfdBw5w59At) | 1:51 |
+| 28 | [Biness](https://open.spotify.com/track/6ifugRp33eSgxc3eT47Cwm) | [CALLI](https://open.spotify.com/artist/1Z8ZD7IOnNaWxt7PMaLiJA) | [Biness](https://open.spotify.com/album/65Gs0E8CfiCX3XLg6QjWBm) | 2:40 |
+| 29 | [Wieso eigentlich?](https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Wieso eigentlich?](https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt) | 2:43 |
+| 30 | [Königin der Nacht](https://open.spotify.com/track/5Qdk51JYdDmYjersO6Ca6W) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Königin der Nacht](https://open.spotify.com/album/761qv2sk2eD7QUq7zZcviQ) | 2:04 |
+| 31 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 |
+| 32 | [lass mich gehen](https://open.spotify.com/track/4HowiKz4jKcJpj4FFYmAfk) | [Mariybu](https://open.spotify.com/artist/3R1Ha6KqmyhC2vUrmEocEG) | [lass mich gehen](https://open.spotify.com/album/2uecOzul9b1cfdBw5w59At) | 1:51 |
+| 33 | [Lightspeed](https://open.spotify.com/track/1mzmi01eh31P8zbCFi02E5) | [Ebow](https://open.spotify.com/artist/0A6JvVRIH3NZRto4r1OUrA) | [Lightspeed](https://open.spotify.com/album/50d54rqpQUL9ehdRSVp29j) | 3:15 |
 | 34 | [Vakuum Freestyle](https://open.spotify.com/track/7J4HbQ3K3v8AyUtHJtwufY) | [AYCA](https://open.spotify.com/artist/1TTuqb5JjZomJNoG2nyjYr) | [Vakuum Freestyle](https://open.spotify.com/album/2UMncxjDEnkUW3LOvLJqYc) | 1:53 |
 | 35 | [C:K:C](https://open.spotify.com/track/0EYSzxTPgTIDErmid8Jatk) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [C:K:C](https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd) | 3:04 |
 | 36 | [Peinlich](https://open.spotify.com/track/3RV9IOeFMcKqY4Xmd9019o) | [ENYA BOBAN](https://open.spotify.com/artist/6coyoepdk8cngGloJADii6) | [Ich hoff du bist da](https://open.spotify.com/album/3H2Z9AVO0nVfNkDqWKHkYM) | 1:58 |
-| 37 | [Tunnel](https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Tunnel](https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l) | 5:43 |
-| 38 | [Kites](https://open.spotify.com/track/4ArosSU5FStMsKACEeUjsc) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Kites](https://open.spotify.com/album/7wbokC7j1X5AhhiS7N9xlJ) | 3:05 |
-| 39 | [nicht fühlen](https://open.spotify.com/track/1mhKsnINQMLiiuR70sfgTR) | [NOEL](https://open.spotify.com/artist/5EifIR90rk8SEJbyUTVsTE) | [nicht fühlen](https://open.spotify.com/album/4uSo3fCzikeVyzhEsmq4ZE) | 3:01 |
+| 37 | [nicht fühlen](https://open.spotify.com/track/1mhKsnINQMLiiuR70sfgTR) | [NOEL](https://open.spotify.com/artist/5EifIR90rk8SEJbyUTVsTE) | [nicht fühlen](https://open.spotify.com/album/4uSo3fCzikeVyzhEsmq4ZE) | 3:01 |
+| 38 | [Tunnel](https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu) | [Anna Ullrich](https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN) | [Tunnel](https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l) | 5:43 |
+| 39 | [Kites](https://open.spotify.com/track/4ArosSU5FStMsKACEeUjsc) | [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [Kites](https://open.spotify.com/album/7wbokC7j1X5AhhiS7N9xlJ) | 3:05 |
 | 40 | [Hot Maus Summer](https://open.spotify.com/track/6Wga3bfIC8lNvodrpxQpGn) | [Gigolo Tears](https://open.spotify.com/artist/59pdIy4nTA2X9oRaA17vk7), [Power Plush](https://open.spotify.com/artist/5oFIcDSdVrn8T3Ldes4Ebn) | [Hot Maus Summer](https://open.spotify.com/album/2pIjaSHNPU9DvCLX9R3bWq) | 3:13 |
 | 41 | [Nothing \- Demo](https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Nothing \(Demo\)](https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC) | 1:52 |
 | 42 | [Yoga Pose](https://open.spotify.com/track/6QxSRBdrHEt3l93qm8XIxm) | [FLOSS](https://open.spotify.com/artist/6J9jA7iSuf9a6Apk8sKqhJ) | [Yoga Pose](https://open.spotify.com/album/6nzDOF0DySy2Z2vJOWunMw) | 2:22 |

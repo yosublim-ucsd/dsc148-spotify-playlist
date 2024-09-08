@@ -4,7 +4,7 @@
 
 > 
 
-1,691 songs - 3 day 18 hr 57 min
+1,694 songs - 3 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [GOING CRAZY](https://open.spotify.com/track/2Q7ErMZjrFyMglE4sObwIR) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ) | [GOING CRAZY](https://open.spotify.com/album/5XjpgdajRiz83iWog79das) | 2:58 | 2023-03-31 |  |
 | [Going Crazy](https://open.spotify.com/track/5wHHcwOYj2kq6C28WZ3L38) | [Jeypieh](https://open.spotify.com/artist/2H7yqsjikGoB9AlYYxT5rM) | [Going Crazy](https://open.spotify.com/album/24ByJ5BYvezkgFvSSpeOS0) | 2:53 | 2024-01-12 |  |
 | [Going Down](https://open.spotify.com/track/5RnBQx1orRr1Hx1N7IlU4P) | [THE3](https://open.spotify.com/artist/4UVcF4a3Wt0NsL0GLiaYht), [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Going Down](https://open.spotify.com/album/3FMx4o0YiyIWAxXZpgwDMg) | 2:32 | 2023-06-17 |  |
+| [Going Under](https://open.spotify.com/track/4yryIvRSVK41pRW8M4p8Yc) | [Dvastate](https://open.spotify.com/artist/1xMkzNWui7gg9TrYMto6VN), [Daniel Brooke](https://open.spotify.com/artist/5CPFsBS5qmG2TqWfVWnguA) | [Going Under](https://open.spotify.com/album/6qtYf8Tb3lReHjvXZPVVtb) | 2:43 | 2024-09-08 |  |
 | [Going Under](https://open.spotify.com/track/02fzVxpngTAz66SEyJpSlQ) | [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym), [Colin Hennerz](https://open.spotify.com/artist/4amVINhTSY1Dp0LFDJa1uF) | [Going Under](https://open.spotify.com/album/5aCbOGoVslQ5G4SDGHn7KG) | 3:29 | 2023-05-12 |  |
 | [GOMORRA](https://open.spotify.com/track/164DZDtFV75bRwTA7yiiY6) | [Kronos](https://open.spotify.com/artist/2B3mYtzGes0f92Yfn4mVQD), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [GOMORRA](https://open.spotify.com/album/1PG3JqVmJoMhUAGyuGd7zK) | 2:39 | 2024-08-25 |  |
 | [GONNA GO INSANE](https://open.spotify.com/track/3h9oX6vlIJZc7nW0BcJJ7Q) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [GONNA GO INSANE](https://open.spotify.com/album/37XKFLN2pTxHVllNG8G0CV) | 2:15 | 2024-04-26 |  |
@@ -741,6 +742,7 @@
 | [I Wanna Live](https://open.spotify.com/track/57jMN6YemUojabtxDUm9JI) | [Odium](https://open.spotify.com/artist/6J2T1atTrazMhACALYdA5Q) | [I Wanna Live](https://open.spotify.com/album/2uC5gLWEn11uheW0003mHm) | 2:25 | 2024-04-09 |  |
 | [I Was On Pills](https://open.spotify.com/track/0LDbDL0J1FzUJHTpuXRPSj) | [Tharken](https://open.spotify.com/artist/5gJDqtHi8s0SnyfOztGlTB) | [Hardcore Top 100 \- 2022](https://open.spotify.com/album/4Ersy0iDqv2ZCknpTlWaWB) | 3:27 | 2022-08-23 |  |
 | [I'm A Raver](https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [I'm A Raver](https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu) | 3:25 | 2023-01-29 |  |
+| [I'm flying](https://open.spotify.com/track/5tKMQbr0oTbHkoMjcxhjux) | [The Dark Horror](https://open.spotify.com/artist/3e7LfI39pUL22PeGn1mlFa), [Guizcore](https://open.spotify.com/artist/3Qg431RgaQNEOJVJY4vSaL) | [Heavy Energy](https://open.spotify.com/album/5BFasmiQB7KcSrvYAo9Y2s) | 3:06 | 2024-09-07 |  |
 | [I'm Good \(Blue\) \- Nightcore Version Mix](https://open.spotify.com/track/3o7TvmIufDcRQOJp3L3lA3) | [Nightcore Nation](https://open.spotify.com/artist/53v1ftxe2rTpIm8bluID7J), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5), [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz) | [NIGHTCORE SPRING 2023](https://open.spotify.com/album/6eWvgpF5JS3jKRUwFxsQ6A) | 2:09 | 2023-03-18 |  |
 | [I'm So Fly](https://open.spotify.com/track/3Dj204MXaXS4Z1FUVhZMhc) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO) | [Rave](https://open.spotify.com/album/5QVRiuBgvwZNf8n8TjTBMe) | 2:30 | 2024-03-14 |  |
 | [I'm the Boss](https://open.spotify.com/track/4eBn7rFnA9D82yxjFbvPga) | [Mr\. Bassmeister](https://open.spotify.com/artist/5aT7fqsgVA5IKJHtkfpPDw) | [I'm the Boss](https://open.spotify.com/album/0K0RE6aZcj0TQuzgJhXAiJ) | 3:45 | 2022-04-19 |  |
@@ -941,6 +943,7 @@
 | [MAGiC4LG1RL M3GA S7R1KE!](https://open.spotify.com/track/00Ovapmq4yb4WU2hMA8aw4) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [MAGiC4LG1RL M3GA S7R1KE!](https://open.spotify.com/album/5jPM5VwcGQmCK9uA5VuqmL) | 2:21 | 2022-08-14 |  |
 | [Magnetism](https://open.spotify.com/track/2MI3pBdP5NBQUUH791wWWk) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO), [Act of Rage](https://open.spotify.com/artist/5eHs2hHfUzGizdnrLjc3CW), [Nolz](https://open.spotify.com/artist/6kudMw2A0xOBJHpW8VNaDA) | [Magnetism](https://open.spotify.com/album/35crPsrfykbZJQWYqQOFQo) | 3:55 | 2023-01-16 |  |
 | [Maholova](https://open.spotify.com/track/2cr50PUBx3L45UHOfaT3h1) | [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Maholova](https://open.spotify.com/album/6bybEnO5LPYb2z9o97NFJj) | 2:20 | 2023-03-06 |  |
+| [Make A Move](https://open.spotify.com/track/4YZbhg5xO4SNFXB08ly0p2) | [Remzcore](https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp), [Levenkhan](https://open.spotify.com/artist/0ceEjm8IKMdK5BjMmnGMrd) | [Make A Move](https://open.spotify.com/album/4Qz1bnZeyvFcI5OuO3s6fy) | 2:06 | 2024-09-07 |  |
 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 | 2024-06-17 |  |
 | [Make Me Lose Control \- Radio Edit](https://open.spotify.com/track/3sJwfcZLzL7iwq9o5RjInB) | [BPM BUNNY](https://open.spotify.com/artist/6HnXeGWhLv6Q3XCvdVpary) | [Make Me Lose Control \(Radio Edit\)](https://open.spotify.com/album/5ORu5ixQtkXHiewXaPQ8ct) | 3:36 | 2023-05-11 |  |
 | [Make Up Your World](https://open.spotify.com/track/64Wv7WBg5wYHsYI1eDZg8n) | [t+pazolite](https://open.spotify.com/artist/4Y345wfGiorcB2NXcsJxOt), [Srav3R](https://open.spotify.com/artist/5doDHBkL33VHZXcqAuQBj0), [Ci\-chan](https://open.spotify.com/artist/1byJdYf1Madc1HfOACHT5I), [Rapbit](https://open.spotify.com/artist/7qtLoCkVxJO9Kykqnpngi1) | [Make Up Your World](https://open.spotify.com/album/0QS6TpDlj3gv2auHoAOgEN) | 3:16 | 2023-05-12 |  |

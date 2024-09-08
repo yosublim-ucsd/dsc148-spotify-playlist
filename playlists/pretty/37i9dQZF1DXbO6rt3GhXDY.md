@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\. Cover: The Marías
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,600 likes - 119 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,868 likes - 119 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

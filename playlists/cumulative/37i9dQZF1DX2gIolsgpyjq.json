@@ -7381,6 +7381,24 @@
     },
     {
       "album": {
+        "name": "Salted Caramel",
+        "url": "https://open.spotify.com/album/7F2umeDOswPV2JebNP9DPm"
+      },
+      "artists": [
+        {
+          "name": "Regina Amado",
+          "url": "https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181087,
+      "name": "Salted Caramel",
+      "url": "https://open.spotify.com/track/5QhjELiM4ctMXX3tpipYoA"
+    },
+    {
+      "album": {
         "name": "Prince",
         "url": "https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56crgoe4TG3.md) - [plain]
 
 > A mix of folk and bluegrass covers of pop, rock, hip\-hop, folk, and indie songs\. Cover: Rhonda Vincent
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,870 likes - 114 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,890 likes - 114 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

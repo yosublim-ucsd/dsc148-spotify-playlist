@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Big One, Emanero, Valentino Merlo
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,115 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,180 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 28 | [Búscala Ya](https://open.spotify.com/track/54GMMQWXESmcyWSgTAUGqi) | [Grupo Controversia](https://open.spotify.com/artist/2HaFbAOPIHQbvFbxho9Zgh), [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [Búscala Ya](https://open.spotify.com/album/0kHIS5LwnlW1SZX5ZAJq6f) | 4:48 |
 | 29 | [Vas a Quedarte](https://open.spotify.com/track/28bM5XgXSQncRu2xzyBNPz) | [You Salsa](https://open.spotify.com/artist/4kYoLs6okVQkRPGtrzMgcU) | [Vas a Quedarte](https://open.spotify.com/album/0paDpZWhNmiu7wYi7px5OL) | 4:38 |
 | 30 | [Ya Es Muy Tarde](https://open.spotify.com/track/4YVc3Gxs0yKoeQfIOEEuna) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX) | [Ya Es Muy Tarde](https://open.spotify.com/album/3xrXUM2gGhKovEmcLboygb) | 4:03 |
-| 31 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
+| 31 | [Si No Me Falla el Corazón](https://open.spotify.com/track/5zjW146BLKHSo1O2wCYyd6) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ), [Juank Padilla](https://open.spotify.com/artist/4YQ8Twq8BoIP8YzIk1xSc4) | [Canta Vallenato Homenaje a los Compositores, Vol\. 3](https://open.spotify.com/album/2GFmrxZqNM6vuprSv6JWSw) | 6:02 |
 | 32 | [Ojos De Café / NENA!](https://open.spotify.com/track/53uaufyu2kNHi0xUERLeJQ) | [La Deskarga](https://open.spotify.com/artist/3Pohtvl5MO8eQpaZVOrhUS), [BALTA](https://open.spotify.com/artist/0fK15xltvfnzQHY9dde4qZ) | [Ojos De Café / NENA!](https://open.spotify.com/album/4tzsNxVI2LHozcpglQCsD0) | 4:12 |
 | 33 | [El Pum Pum](https://open.spotify.com/track/5znA34Z647LrKS9yIggmyF) | [Systema Solar](https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx) | [El Pum Pum](https://open.spotify.com/album/6JW7CyuNiHBa5WMaVCp21G) | 3:34 |
 | 34 | [La Influencer](https://open.spotify.com/track/5VaBRGSLboMWFWB3EpVwFk) | [HeyBroders](https://open.spotify.com/artist/6gapwMNVkCxUrQLEzUD6GH), [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [La Influencer](https://open.spotify.com/album/1xb3McMtZSh0JQMUNp1fIl) | 3:17 |

@@ -9843,6 +9843,32 @@
     },
     {
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0ZiYtKj54YR43bBOFfoHyn"
+      },
+      "artists": [
+        {
+          "name": "RandLover",
+          "url": "https://open.spotify.com/artist/69yyvSx8EpEzizZgyIe4Jd"
+        },
+        {
+          "name": "Catching Sunrises",
+          "url": "https://open.spotify.com/artist/1ZRHglRvKYNVcLjp1YAsSz"
+        },
+        {
+          "name": "Solven",
+          "url": "https://open.spotify.com/artist/5pVJy0HEoSMAUOppxBJXZd"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129600,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/1wFrqd5w0lASQuH8BapeQr"
+    },
+    {
+      "album": {
         "name": "Hope",
         "url": "https://open.spotify.com/album/2Mle4tLWdBtenSNHQKCUrE"
       },
@@ -10745,6 +10771,32 @@
     },
     {
       "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/7xeBZ3kF5CABeNXcZ2gZFO"
+      },
+      "artists": [
+        {
+          "name": "Harddope",
+          "url": "https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E"
+        },
+        {
+          "name": "LexMorris",
+          "url": "https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a"
+        },
+        {
+          "name": "Eleanor Blue",
+          "url": "https://open.spotify.com/artist/4CPbf60fZcdgvAeAeh9rlh"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123130,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/4u56qONxl1x6zApPw0KP2s"
+    },
+    {
+      "album": {
         "name": "Summer Pain",
         "url": "https://open.spotify.com/album/01Vf7sFHjKL17iazqTI1iX"
       },
@@ -11370,7 +11422,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 129677,
       "name": "The Monster - Chill Mix",
       "url": "https://open.spotify.com/track/5LzcPcdm29VZXAfFP9Aniu"

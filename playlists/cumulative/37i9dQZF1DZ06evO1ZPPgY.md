@@ -2,7 +2,7 @@
 
 ### [This Is Barry White](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1ZPPgY)
 
-> This is Barry White\. Τα πιο αγαπημένα κομμάτια, σε μία playlist.
+> This Is Barry White\. Los temas esenciales, todos en una lista.
 
 93 songs - 7 hr 40 min
 

@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha
 
-1,379 songs - 4 day 16 hr 50 min
+1,379 songs - 4 day 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Amigo](https://open.spotify.com/track/532UG1qwlcvjZdy5btQCgH) | [Jessé Lucas](https://open.spotify.com/artist/4uosL2rdfOhq51LXq004XL), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Amigo](https://open.spotify.com/album/0DrUGdxc2o2Fg7r4tdfFac) | 3:14 | 2023-07-21 | 2023-07-29 |
 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/4tPC604MgYNGTKpQA7ZhKr) | [Mateus Pereira](https://open.spotify.com/artist/0GpfolGZSMXdxZrXZEhkXO), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/5OAoVa5ynsNQMyWic5UMst) | 3:56 | 2023-09-01 | 2023-09-09 |
 | [Amor](https://open.spotify.com/track/6eB2GVvJ1bm3eJGxNALUYV) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF) | [É Muito Além do Trap](https://open.spotify.com/album/0RPd1wiTPAcphQ456H0itw) | 2:16 | 2023-11-03 | 2023-11-25 |
-| [Amor de Deus](https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Amor de Deus](https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL) | 2:24 | 2024-09-06 |  |
+| [Amor de Deus](https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Amor de Deus](https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL) | 4:05 | 2024-09-06 |  |
 | [Amor de Deus](https://open.spotify.com/track/1mwMkxAJgejJLyj8bCw8gF) | [Fruto Sagrado](https://open.spotify.com/artist/0tuvLFT4ZHTJ17rrBP0K5K) | [Amor de Deus](https://open.spotify.com/album/25vPkphoNAFgmtmxXL7PEg) | 4:14 | 2024-08-23 | 2024-08-31 |
 | [Amor de Deus](https://open.spotify.com/track/2PSV2OX4z6cuDbh90cy4z3) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Amor de Deus](https://open.spotify.com/album/5I2JV3wQEFOlxhVaf1hCxw) | 2:58 | 2023-09-15 | 2023-09-26 |
 | [Amor De Muitos Se Esfriou \- Acústico](https://open.spotify.com/track/1WvIGT4hUmTrR9imW9mKdY) | [José Wellington](https://open.spotify.com/artist/2egKsN5dCWCpAp9He9BLUt) | [Devoções \- Acústico](https://open.spotify.com/album/3BUEFntp7g72sg6wzYCuPn) | 8:00 | 2024-09-06 |  |
@@ -1248,7 +1248,7 @@
 | [Tua Igreja \- Ao Vivo](https://open.spotify.com/track/3NQgeYS64MnxI1ziVqyfMc) | [Altomonte](https://open.spotify.com/artist/0og3M3KKOkuzyw2L6PH6tu), [Victor Valente](https://open.spotify.com/artist/0bvD77fzjmlT6znB31jexq) | [Tua Igreja \(Ao Vivo\)](https://open.spotify.com/album/24tn09igctm86LcPq2zimp) | 6:53 | 2024-07-19 | 2024-08-10 |
 | [Tua Mão Está Sobre Mim \- Ao Vivo](https://open.spotify.com/track/5cTkv3P2hUg5Bv1OY9jTCF) | [Nazareno Central Music](https://open.spotify.com/artist/3gXotllnfcMmLC7e3OL7ae), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Tua Mão Está Sobre Mim \(Ao Vivo\)](https://open.spotify.com/album/393f84redJv6wrMIWR5vuu) | 9:22 | 2023-09-01 | 2023-09-09 |
 | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/track/7gejGDUDpKcXHlYztF40J4) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Tua Palavra \(Ao Vivo\)](https://open.spotify.com/album/41Syb7Ldbj3NbqulQYjps0) | 3:40 | 2023-11-03 | 2023-11-25 |
-| [Tua Presença](https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG) | [Tutuzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN) | [Tua Presença](https://open.spotify.com/album/2SHFa2ACXDqWly4CI2he13) | 1:58 | 2024-09-06 |  |
+| [Tua Presença](https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG) | [Tutuzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN) | [Tua Presença](https://open.spotify.com/album/2SHFa2ACXDqWly4CI2he13) | 1:57 | 2024-09-06 |  |
 | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/track/6z5qIFmSaW3LX8oYq0Ixjw) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/6R8NTbSxAwvlIuGx1WIZtt) | 4:37 | 2024-08-30 | 2024-09-07 |
 | [Tua Presença Cura](https://open.spotify.com/track/7LeXtTG0qPssv4VE99dL7T) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Jessica Dias](https://open.spotify.com/artist/6nCdSWwlMM1cUfAWrHrnvD) | [Tua Presença Cura](https://open.spotify.com/album/1Re9NZapRsB8IP1OR1sKJN) | 6:22 | 2023-09-08 | 2023-09-16 |
 | [Tua Presença Vale Mais \- Ao Vivo](https://open.spotify.com/track/5U8Sjfj3cnnilKUmfLy38F) | [Carol Barros](https://open.spotify.com/artist/1JEbXL9NPkO6OCqXuHZ1HF), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Tua Presença Vale Mais \(Ao Vivo\)](https://open.spotify.com/album/5DXQQ2sbtEBbYUnIlBf5uy) | 8:22 | 2023-11-03 | 2023-11-25 |

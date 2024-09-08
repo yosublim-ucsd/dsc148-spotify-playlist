@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 
 > Du Congo, au monde\. 🌍 Photo: Tonton Pson
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,729 likes - 65 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,785 likes - 65 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d57cbyhqPM.md) - [plain]
 | 4 | [Makila : Wablé](https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Makila : Wablé](https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap) | 3:45 |
 | 5 | [J'achète](https://open.spotify.com/track/2vPUyt8WDdJVifjQmgziYZ) | [BOLEMVN](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [47°](https://open.spotify.com/album/0bMeW5OugN9kzP1ncWbwDg) | 2:54 |
 | 6 | [207](https://open.spotify.com/track/6EgqrmhXNRv4v5tLdiDvde) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV), [René Soso Pembe](https://open.spotify.com/artist/4VbRAkOhCxEkuNK4EeVFIM) | [207](https://open.spotify.com/album/5ZGzNUDy8PA9qIa3bYrHMG) | 8:30 |
-| 7 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:45 |
+| 7 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 |
 | 8 | [Steuplai](https://open.spotify.com/track/1HXVAAkcLMWEO8Pmu3esuX) | [SevMokonzi](https://open.spotify.com/artist/0FXwUzwyrYyGJkYwAnpYp8) | [Steuplai](https://open.spotify.com/album/5qPvBDYIar68GyBJapxQoD) | 1:06 |
 | 9 | [Briller](https://open.spotify.com/track/08vI6Y72g0Zkd6SeezUKHy) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7) | [Briller](https://open.spotify.com/album/3FgRHkmNzBFV66oTNOiTvS) | 3:11 |
 | 10 | [Taxi](https://open.spotify.com/track/7khwo2BvzzHgXHIqIcM8xa) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Taxi](https://open.spotify.com/album/6gygGJ48ID1OVEsaGodiR8) | 3:40 |

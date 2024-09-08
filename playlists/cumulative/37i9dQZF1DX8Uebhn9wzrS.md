@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,051 songs - 3 day 6 hr 10 min
+2,052 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -775,6 +775,7 @@
 | [Hauga](https://open.spotify.com/track/4Zt4YhDZ0SoMIR8lzXZw7I) | [J Mariou](https://open.spotify.com/artist/0EtOuwnEN1iBz6miiq5NfW) | [Hauga](https://open.spotify.com/album/08Hy3qIJEDIvUDw1oaoT7g) | 2:01 | 2023-04-03 |  |
 | [Hazel Eyes](https://open.spotify.com/track/18te6JAwwL6xrKnVgYgXvA) | [Loomington](https://open.spotify.com/artist/3ROJ8HN1XE4TIV86RgP4OA) | [Hazel Eyes](https://open.spotify.com/album/3Fses3uRSqH6ODu45oPCwH) | 2:22 | 2023-11-24 |  |
 | [Hazel Eyes](https://open.spotify.com/track/07MevDm9VaIB6YQHYFzwNC) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [Hazel Eyes](https://open.spotify.com/album/5Eci6z9F5mwHlGc3jayNSy) | 2:26 | 2023-04-20 | 2023-10-27 |
+| [Hazy](https://open.spotify.com/track/40frhLpVMThTogyowcdNtb) | [Sihu](https://open.spotify.com/artist/0IDfPC86tctwQaHkc9tVfX) | [Hazy](https://open.spotify.com/album/7cKu4mdSXXN5f4LRBI2i9G) | 2:20 | 2024-09-06 |  |
 | [Hazy Dayz](https://open.spotify.com/track/2AAW9xzkyeq8knWFVHFMEt) | [Zzidann](https://open.spotify.com/artist/4sbsjeSLhPcDyR40KguUbg) | [Hazy Dayz](https://open.spotify.com/album/3A5JcDGMIHAlLRphj3OgMv) | 2:40 | 2023-08-17 | 2023-10-27 |
 | [Hazy Gecko](https://open.spotify.com/track/6V1GgtdF8APrdzxbAUiRZA) | [Guzimi](https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA), [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Hazy Gecko](https://open.spotify.com/album/0hqkdW7XU9SBfCqdnmGRHo) | 2:10 | 2022-05-13 | 2022-11-12 |
 | [head in the clouds](https://open.spotify.com/track/0GdZ6vlb3nC8t5B5MP6TqP) | [drewbee](https://open.spotify.com/artist/0bRyibPzrRlfTwKe7oUXzR) | [head in the clouds](https://open.spotify.com/album/341MeGEteHymZVwmd0xspK) | 2:14 | 2024-03-08 |  |
@@ -824,7 +825,7 @@
 | [Hopes n' Lusts](https://open.spotify.com/track/2qi8vHk6pTOB5mbOPd8TlS) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Hopes n' Lusts](https://open.spotify.com/album/5sUncHibQvenjtPS22mKDP) | 2:12 | 2022-07-01 | 2024-05-14 |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
-| [hoshposh](https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [hoshposh](https://open.spotify.com/album/24ZMHHisfGGaRsz4S7KEwp) | 2:40 | 2023-09-08 | 2024-08-01 |
+| [hoshposh](https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [hoshposh](https://open.spotify.com/album/24ZMHHisfGGaRsz4S7KEwp) | 2:40 | 2023-09-08 |  |
 | [House Hunt](https://open.spotify.com/track/2xeMahcwKZi1fJXRptPO9F) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [House Hunt](https://open.spotify.com/album/0J4ndocZCA0qIR1WA24h05) | 2:17 | 2022-04-15 | 2022-09-09 |
 | [How Fun](https://open.spotify.com/track/5DxCODzWTtx0p8Vn9B290A) | [Mirroz](https://open.spotify.com/artist/6LzgXMophnKO23QxigjsiP) | [How Fun](https://open.spotify.com/album/5Yrlia3kFNIcqZE27iaN1b) | 2:11 | 2022-04-15 | 2022-04-22 |
 | [How's That?](https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN) | [Tally Tilly](https://open.spotify.com/artist/2anhg6PY9gbMbyjPNjFyCE) | [Listen Up](https://open.spotify.com/album/4wdbmP7WMxxnfbGVvvABmZ) | 2:41 | 2022-04-15 | 2022-12-17 |
@@ -1069,7 +1070,7 @@
 | [mackintosh's](https://open.spotify.com/track/0KCYNbModuo8QE8MEVJd5k) | [Rosemary beats](https://open.spotify.com/artist/1W56U3ujxXcEVxnavW4vJ8) | [mackintosh's](https://open.spotify.com/album/3VSfmuvkLk5mnzU3ba9sTU) | 2:47 | 2022-12-09 | 2023-03-09 |
 | [made sense](https://open.spotify.com/track/1yWjyWbRqihZH5JABtkfcy) | [AUIIRA](https://open.spotify.com/artist/3qmmaE4hDMkylgYQC5VrKU) | [made sense](https://open.spotify.com/album/1oCcIComeA7TzX4oyler84) | 2:54 | 2024-02-02 |  |
 | [Madness](https://open.spotify.com/track/50A9vaLZvirlEPWi7BXGni) | [DLJ](https://open.spotify.com/artist/3chQixmxhv9UmwQc8aBApA), [Bastien Brison](https://open.spotify.com/artist/7iuqKzG95voUC4pEkNSSLa), [Nathan Kay](https://open.spotify.com/artist/0nnry0bfORXrg0du8Ml10f) | [Madness](https://open.spotify.com/album/75Stpm1OoeOz9uBYorBBam) | 2:45 | 2022-05-27 | 2022-11-12 |
-| [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 |  |
+| [Magical Nights](https://open.spotify.com/track/4u9KVdiNeuYUbWYhKhmVkZ) | [bed beats](https://open.spotify.com/artist/3m8gcL5rdhabhNQkfPOEwe) | [Magical Nights](https://open.spotify.com/album/4UfnGnuxonAuI8uLa1qafg) | 1:38 | 2022-11-11 | 2024-09-08 |
 | [Main Source](https://open.spotify.com/track/7dBkguRkblf2E86giR5AXF) | [Mindscape](https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6) | [Main Source](https://open.spotify.com/album/10KFkzmGKNHigqLdtf78FE) | 2:25 | 2022-04-15 | 2022-08-19 |
 | [Makes me smile](https://open.spotify.com/track/2zrVLM8J5exaoXrrKmRQWy) | [Jerrick Lamar](https://open.spotify.com/artist/2xhhQBn6RvsBDYNwON3bN5) | [You Can´t See](https://open.spotify.com/album/6jTus5QZtP1MjvsChDmtBJ) | 1:38 | 2022-04-15 | 2023-08-18 |
 | [Makin’ Headlines](https://open.spotify.com/track/7fXRjZ8E2EjErGJTiz2U8E) | [Trippy Park](https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC) | [The Daily News](https://open.spotify.com/album/5bfuQMLLbJoryVcNEbplt5) | 1:16 | 2022-04-22 | 2022-07-01 |
@@ -1440,7 +1441,7 @@
 | [pássaro](https://open.spotify.com/track/2M7EWn8Wer8ERj8LWWr73l) | [Linearwave](https://open.spotify.com/artist/2wIeBTEs0AsPb74kYdEcNk), [evän](https://open.spotify.com/artist/2VNtLWlwWghbNHvtPcM69G) | [pássaro](https://open.spotify.com/album/6EvrdQnoT8sEAmCfN8elzk) | 1:46 | 2022-07-29 | 2022-08-19 |
 | [Radiotravel](https://open.spotify.com/track/39whRf3d7uFeO7DxEVLM0W) | [stockcosmos](https://open.spotify.com/artist/7n38ifmZ65xQpC6pTcnhDE) | [Radiotravel](https://open.spotify.com/album/50fdifiTlkBgWudCuZRdzA) | 2:25 | 2023-11-17 |  |
 | [Radish Style](https://open.spotify.com/track/07B5jrUOKWraSjvL0Dzm4H) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [bugzug](https://open.spotify.com/artist/51RjceiwmeWYUP3NSTzRNH) | [Radish Style](https://open.spotify.com/album/51QxaDPh0rDqpBIiqD5AzF) | 2:14 | 2022-12-02 | 2023-09-16 |
-| [raft](https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [raft](https://open.spotify.com/album/3RkwB73fuQQPtX2r6ccjB5) | 2:18 | 2024-05-23 |  |
+| [raft](https://open.spotify.com/track/4vBLwo8KRVOnq0J3tnJZaL) | [red cap](https://open.spotify.com/artist/0pZUsjtpT2z9F0GMqOk9QO) | [raft](https://open.spotify.com/album/3RkwB73fuQQPtX2r6ccjB5) | 2:18 | 2024-05-23 | 2024-09-08 |
 | [Rain Is Coming](https://open.spotify.com/track/1CW0PI7ZckvnXHAeAypn5O) | [Oysterz](https://open.spotify.com/artist/0VzxjGtQNEMzEZJV0NNpQq) | [Rain Is Coming](https://open.spotify.com/album/68uy9QCsmh1NGn95lgGXKe) | 1:51 | 2023-10-27 | 2024-08-15 |
 | [rain on us](https://open.spotify.com/track/479kmYiQl2QL7SVeRAS3TO) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu) | [rain on us](https://open.spotify.com/album/3quSGC6EbfpwVqZiXaR0kQ) | 2:27 | 2022-05-13 | 2022-11-12 |
 | [Rainclouds Still Remember](https://open.spotify.com/track/2RAYJawqivodlRe2C6emmK) | [Miso Colt](https://open.spotify.com/artist/0bsWKSbs38UWgIjPBaz5x4) | [Rainclouds Still Remember](https://open.spotify.com/album/19d7nSFHyMulZzgTEwhlIH) | 2:55 | 2023-03-24 |  |

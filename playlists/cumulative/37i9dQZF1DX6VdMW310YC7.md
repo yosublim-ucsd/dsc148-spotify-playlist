@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,672 songs - 4 day 18 hr 39 min
+1,673 songs - 4 day 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -413,7 +413,7 @@
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/10oKSzRcwbZsog2uq2gb4b) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/1VvswDkZLX5hUgFW7F79GI) | 4:00 | 2022-03-14 | 2022-12-01 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-07-01 | 2023-03-21 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-03-10 | 2024-04-19 |
-| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 |  |
+| [Essentialism.](https://open.spotify.com/track/7iThMzqB2eOpz0Kr7Qm9CR) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi), [Oliver River](https://open.spotify.com/artist/38xDMgRyJXkmnsp3Q4Q9wv) | [Essentialism.](https://open.spotify.com/album/2zrzjdsakuj5Kg82K8kIaQ) | 3:20 | 2024-08-16 | 2024-09-08 |
 | [Eternity](https://open.spotify.com/track/1fhcMMxjn3Gvin19Akf3Ig) | [Joachim Pastor](https://open.spotify.com/artist/6eNOjuJSfKkAvbiGW90AkZ) | [Eternity](https://open.spotify.com/album/4lJ51mNG9ZXfGyLzLSKwy6) | 6:20 | 2020-05-18 | 2020-07-03 |
 | [Europa](https://open.spotify.com/track/51CvOyizoH3LXHwrrFsptd) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Europa](https://open.spotify.com/album/06Oe9TTnOXbL4JTrqUCPvq) | 4:05 | 2022-02-11 | 2022-11-17 |
 | [Everlasting Evening \(feat\. Sea Oleena\)](https://open.spotify.com/track/4TaK6SAjHie2VGkiKzdZAc) | [Guilty Ghosts](https://open.spotify.com/artist/3pT9wrKIib4JGbSA4AOagZ), [Sea Oleena](https://open.spotify.com/artist/4WnK1atCqqiU7DRaOChhKP) | [Veils](https://open.spotify.com/album/75syGotaUKVhfDbqZ0cxT6) | 7:15 | 2020-05-18 | 2020-07-03 |
@@ -577,6 +577,7 @@
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-05-20 | 2022-12-29 |
 | [Glossy1s](https://open.spotify.com/track/3zS3IoZ1KZwmEpqv1Twskx) | [LAN Party](https://open.spotify.com/artist/36wyiTjdoqXLqKzPi1aWho) | [Glossy1s](https://open.spotify.com/album/3HqeCYKjmUdNNrQRdRvnbT) | 2:51 | 2020-07-18 | 2020-10-09 |
 | [Glow](https://open.spotify.com/track/4gG09Ofs0fLVBmFFeJXBEM) | [Attom](https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o) | [Big Beat Ignition Miami 2015](https://open.spotify.com/album/2MfAVFInryk5YQcaaJov8c) | 4:00 | 2020-05-18 | 2020-07-03 |
+| [glow](https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Duskus](https://open.spotify.com/artist/59MDSNIYoOY0WRYuodzJPD), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 7:33 | 2024-09-06 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2020-05-18 | 2020-10-09 |
 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2022-01-21 | 2022-02-12 |
 | [go back in time](https://open.spotify.com/track/2UaGJbzWWAwak3TJD4HmaN) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [album1](https://open.spotify.com/album/09lJhufJEYwygdKq3vUa8t) | 4:21 | 2020-05-18 | 2020-10-09 |

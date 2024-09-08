@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: Sløtface
 
-522 songs - 1 day 3 hr 34 min
+523 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -400,6 +400,7 @@
 | [Sacred Scars](https://open.spotify.com/track/0LOb3tEOaMW9Pu6HeQ9bLO) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Sacred Scars](https://open.spotify.com/album/2fW3hwCm8ziEPXasvTvIC8) | 3:11 | 2024-03-07 | 2024-04-26 |
 | [Sage](https://open.spotify.com/track/7f4mbgKFT9UWnPAtdGp8gc) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Sage](https://open.spotify.com/album/2ADozOTc5xtC3XGGyGt4aR) | 2:46 | 2024-07-25 |  |
 | [Sally/Hungry Eyes](https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ) | [June Vide](https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1) | [Sally/Hungry Eyes](https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ) | 3:27 | 2024-06-27 | 2024-08-30 |
+| [Salted Caramel](https://open.spotify.com/track/5QhjELiM4ctMXX3tpipYoA) | [Regina Amado](https://open.spotify.com/artist/3zx7AylvM0dSHwRa3xF7H5) | [Salted Caramel](https://open.spotify.com/album/7F2umeDOswPV2JebNP9DPm) | 3:01 | 2024-09-07 |  |
 | [San Pedro](https://open.spotify.com/track/524WvaZzJFA2TqnJR3sQ1d) | [Jelly Crystal](https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP) | [Prince](https://open.spotify.com/album/5vpeRKXOGIsrW0GNVKW63A) | 3:28 | 2024-02-08 | 2024-03-08 |
 | [Sand Castles \- TMI Tammi Remix](https://open.spotify.com/track/0Zfim47YsmdgqxTXcf6Y6w) | [GRETA](https://open.spotify.com/artist/6qcpBIlSWMhas6waVUKCbK), [TMI Tammi](https://open.spotify.com/artist/4S9F9lnFpjsqvCMiBpvsNu) | [Sand Castles \(TMI Tammi Remix\)](https://open.spotify.com/album/6PmdHy3dE0H1NbBmKDPaAK) | 2:21 | 2024-02-22 | 2024-03-22 |
 | [senescence](https://open.spotify.com/track/28gAWZFt7KcMB9cE3doNG6) | [antonvstheworld](https://open.spotify.com/artist/1aps7lhpf0DksNpvaQgrQW) | [senescence](https://open.spotify.com/album/56WNwaJLphM3vXR4rsxGYa) | 2:50 | 2024-02-22 | 2024-03-29 |

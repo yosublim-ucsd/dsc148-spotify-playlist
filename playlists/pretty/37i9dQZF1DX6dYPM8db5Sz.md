@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v?si=wBqRig7eQiGfN35dPviv7g">December Streets</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,013 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,016 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 45 | [Nectarines](https://open.spotify.com/track/6jziuXsD78INluNGcWaQr4) | [Werner Bekker](https://open.spotify.com/artist/1mbI2Vrn5ZIHEH1PzTrA4K) | [Love the Texture, Hate the Taste](https://open.spotify.com/album/0yi9fsU4FqykS6JN7VRjVU) | 4:37 |
 | 46 | [Love Is Blind](https://open.spotify.com/track/6qTZBMCIXE4M8IBt1NxlBy) | [Jordan Haj](https://open.spotify.com/artist/6bMec0OIzHrZznCkkLMwFH), [Emma Smetana](https://open.spotify.com/artist/5RGGFXcOLCDafyqIErUkYk) | [Love Is Blind](https://open.spotify.com/album/4miflfwJKqr9EJ3RjfkcRi) | 3:44 |
 | 47 | [I See the World](https://open.spotify.com/track/6df5JX0hccxo2cpazqg2oK) | [Wynand Fourie](https://open.spotify.com/artist/19hkIFswoQWtNKSWQO43NN) | [I See the World](https://open.spotify.com/album/3byhhNXrAwqtGyPOPOY2Tz) | 2:30 |
-| 48 | [whos gonna talk me outta my mind??](https://open.spotify.com/track/4scFevAlibVBXC66b1yf9R) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [whos gonna talk me outta my mind??](https://open.spotify.com/album/19LMdvfBQP6A9ATYAfr9qN) | 2:00 |
+| 48 | [WGTMOMM??](https://open.spotify.com/track/4scFevAlibVBXC66b1yf9R) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [WGTMOMM??](https://open.spotify.com/album/19LMdvfBQP6A9ATYAfr9qN) | 2:00 |
 | 49 | [Juna](https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Charm](https://open.spotify.com/album/1KNUCVXgIxKUGiuEB8eG0i) | 3:15 |
 | 50 | [Love The Way You Love](https://open.spotify.com/track/556c8oARPcgftAtxRE2Wz9) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Love The Way You Love/Lover's Vow](https://open.spotify.com/album/5u0g02zU7BM4MclrO8H6Vv) | 2:56 |
 | 51 | [I Got The Gold](https://open.spotify.com/track/6MjYaqLYvnuGUqog6v60T3) | [Nomzi Kumalo](https://open.spotify.com/artist/62wlee1GtY7GKUntGYpN9U) | [I Got The Gold](https://open.spotify.com/album/0SqxmTg4DtsaPnUPA6KMLO) | 3:29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,097 likes - 47 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,165 likes - 47 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 2 | [Brasa Viva \- Acústico](https://open.spotify.com/track/2UYUMRoznutrBafIZTPIkF) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Único \- Acústico](https://open.spotify.com/album/5iNU3aaRozD6WDEd9uQ195) | 6:52 |
 | 3 | [O Rei Está Voltando](https://open.spotify.com/track/0Ln8p63QTH4ABJxbsvHLrJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [O Rei Está Voltando](https://open.spotify.com/album/1z8EFCBbbdwEopRwzxcXxA) | 3:47 |
 | 4 | [Abraça\-me \- Ao Vivo](https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Abraça\-me \- Ao Vivo](https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE) | 10:52 |
-| 5 | [Amor de Deus](https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Amor de Deus](https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL) | 2:24 |
+| 5 | [Amor de Deus](https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP) | [2metro](https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV) | [Amor de Deus](https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL) | 4:05 |
 | 6 | [Tua Graça Não Tem Fim](https://open.spotify.com/track/4NploqwzNqq39KCLcLiUvo) | [Veronica Sacer](https://open.spotify.com/artist/37K2Wi4VOPlOHHZTRRCb7v), [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Tua Graça Não Tem Fim](https://open.spotify.com/album/104x0SRnV762iF5TeKUKDN) | 3:36 |
 | 7 | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc) | 5:21 |
 | 8 | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn) | 6:08 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 24 | [Sangue e Água](https://open.spotify.com/track/6xNhwlLB6Zjgs2RjN7lUsK) | [Hugo Santos](https://open.spotify.com/artist/7Jtov6LgLwkFhRW3lpE3lb) | [Sangue e Água](https://open.spotify.com/album/6yB21vVtASDBh3wuc1pbf8) | 4:57 |
 | 25 | [Vem Em Mim Morar](https://open.spotify.com/track/0FvCMQbxsrvOBOGMKb4s8T) | [Brenda Danese](https://open.spotify.com/artist/1z5wjo6tdolaXhYZsT9T5r) | [Vem Em Mim Morar](https://open.spotify.com/album/0Ix0T67t2Vq5xsKrz33peG) | 4:53 |
 | 26 | [Amor De Muitos Se Esfriou \- Acústico](https://open.spotify.com/track/1WvIGT4hUmTrR9imW9mKdY) | [José Wellington](https://open.spotify.com/artist/2egKsN5dCWCpAp9He9BLUt) | [Devoções \- Acústico](https://open.spotify.com/album/3BUEFntp7g72sg6wzYCuPn) | 8:00 |
-| 27 | [Tua Presença](https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG) | [Tutuzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN) | [Tua Presença](https://open.spotify.com/album/2SHFa2ACXDqWly4CI2he13) | 1:58 |
+| 27 | [Tua Presença](https://open.spotify.com/track/5GjIlSfPlNKBmMZr9mdZWG) | [Tutuzin](https://open.spotify.com/artist/3SaccMFDUNE7d14h7MoWDN) | [Tua Presença](https://open.spotify.com/album/2SHFa2ACXDqWly4CI2he13) | 1:57 |
 | 28 | [Por Onde Eu For](https://open.spotify.com/track/1OoAPYYzUgIt1kJUeh1B0v) | [Ministério F4ces](https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS) | [Por Onde Eu For](https://open.spotify.com/album/5eE0LvWjIoKYM6bycmdOFL) | 3:38 |
 | 29 | [Curado a Seco \- Ao Vivo](https://open.spotify.com/track/7bGswSxkrDS2ZWSbC7lya7) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Curado a Seco \- Ao Vivo](https://open.spotify.com/album/4OemZ165dPIMKMT92G1Qng) | 5:07 |
 | 30 | [Salmos 113](https://open.spotify.com/track/3R4li8HreiKbZC4ztcySQ8) | [MC Jamil](https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc) | [Salmos 113](https://open.spotify.com/album/3bzmo48p1wOToGkgh7mFKl) | 2:11 |

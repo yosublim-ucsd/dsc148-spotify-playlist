@@ -4679,6 +4679,32 @@
     },
     {
       "album": {
+        "name": "Maria Bonita",
+        "url": "https://open.spotify.com/album/1qmpjQ3PC0cCslRyVsQQS9"
+      },
+      "artists": [
+        {
+          "name": "Don Hadji",
+          "url": "https://open.spotify.com/artist/51K9FXuYEehpePo8NAQBSi"
+        },
+        {
+          "name": "Fashion Piva",
+          "url": "https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157808,
+      "name": "Maria Bonita",
+      "url": "https://open.spotify.com/track/40eU3hvkbKMnadojsxXJd9"
+    },
+    {
+      "album": {
         "name": "Marra De Bandido",
         "url": "https://open.spotify.com/album/5khNAvlB0vRr4N07Ylkcf7"
       },

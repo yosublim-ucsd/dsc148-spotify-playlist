@@ -1,6 +1,6 @@
 {
   "description": "Canciones directas y banderas al viento. Foto: La 25.",
-  "num_followers": 176045,
+  "num_followers": 176113,
   "original_name": "Rock Barrial",
   "owner": {
     "name": "Spotify",
@@ -116,8 +116,8 @@
           "url": "https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04"
         },
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+          "name": "Manuel Moretti",
+          "url": "https://open.spotify.com/artist/2OHC8FLow0MAt62MoMRzZk"
         }
       ],
       "duration_ms": 217557,
@@ -943,18 +943,18 @@
     {
       "added_at": "2024-08-29 19:55:53",
       "album": {
-        "name": "Siempre Original",
-        "url": "https://open.spotify.com/album/0WbNHKbPfRhV2OFbHzbOLR"
+        "name": "Sigue Pegando",
+        "url": "https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT"
       },
       "artists": [
         {
-          "name": "El Bordo",
-          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 221593,
-      "name": "Siempre Original",
-      "url": "https://open.spotify.com/track/2MMZSjxnqveB0is7N6JU4h"
+      "duration_ms": 340893,
+      "name": "Lo Artesanal - Remix",
+      "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
     },
     {
       "added_at": "2024-08-29 19:55:53",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-08-29 19:55:53",
       "album": {
-        "name": "Sigue Pegando",
-        "url": "https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT"
+        "name": "Siempre Original",
+        "url": "https://open.spotify.com/album/0WbNHKbPfRhV2OFbHzbOLR"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "El Bordo",
+          "url": "https://open.spotify.com/artist/6U5QPaU2JpWfzInyd2g9zg"
         }
       ],
-      "duration_ms": 340893,
-      "name": "Lo Artesanal - Remix",
-      "url": "https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX"
+      "duration_ms": 221593,
+      "name": "Siempre Original",
+      "url": "https://open.spotify.com/track/2MMZSjxnqveB0is7N6JU4h"
     },
     {
       "added_at": "2024-08-29 19:55:53",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-08-29 19:55:53",
       "album": {
-        "name": "Gardeliando",
-        "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
-      },
-      "artists": [
-        {
-          "name": "Los Gardelitos",
-          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
-        }
-      ],
-      "duration_ms": 357586,
-      "name": "Amor de Contramano",
-      "url": "https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ"
-    },
-    {
-      "added_at": "2024-08-29 19:55:53",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 289654,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/3pMo77B4r1NwwIK78lO4xf"
+    },
+    {
+      "added_at": "2024-08-29 19:55:53",
+      "album": {
+        "name": "Gardeliando",
+        "url": "https://open.spotify.com/album/2YVadYqrEQR7iHn45PVyZy"
+      },
+      "artists": [
+        {
+          "name": "Los Gardelitos",
+          "url": "https://open.spotify.com/artist/1WXAndtMSMymA6qMXyvoXV"
+        }
+      ],
+      "duration_ms": 357586,
+      "name": "Amor de Contramano",
+      "url": "https://open.spotify.com/track/6E0FHmH4N7d5EMmtty1EmQ"
     },
     {
       "added_at": "2024-08-29 19:55:53",

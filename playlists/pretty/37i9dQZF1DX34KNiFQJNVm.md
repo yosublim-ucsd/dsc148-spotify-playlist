@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Luan Pereira com Ana Castela, PEDRO SAMPAIO com Luisa Sonza  e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,933,372 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,933,916 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 15 | [Beijo Bom \- Ao Vivo](https://open.spotify.com/track/5jLbIbWW07IAWBN65ah8T8) | [Jonas Esticado](https://open.spotify.com/artist/22jNvLBrXGKr4CcV2tw8Ag) | [Na Essência \- Ao Vivo](https://open.spotify.com/album/09fWv6Vgp4CFfRkt4Veaxf) | 2:46 |
 | 16 | [Leva A Saudade](https://open.spotify.com/track/7jx4LL3anDMOfXcsJ0qqQQ) | [Bruno Cesar e Rodrigo](https://open.spotify.com/artist/1LKDfxZdebmgWG4qSR7hO9), [Bruno Rosa](https://open.spotify.com/artist/0SPHfj49UeOgHKwSYcn8xZ) | [Seja Bem\-Vindo Bruno Rosa](https://open.spotify.com/album/6b4EAeRe4L1kXVtJpvT1Nl) | 2:44 |
 | 17 | [Medley DON vol\. 2](https://open.spotify.com/track/4CCFNstGCqSqJ00jb8AF7B) | [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL) | [Medley DON vol\. 2](https://open.spotify.com/album/7AxmsEYblP1iBZ3B4PZyrI) | 2:12 |
-| 18 | [Sem Topete](https://open.spotify.com/track/2Rr2mkxwAGZJFq0wlcEpGP) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6) | [Sem Topete](https://open.spotify.com/album/1RlhyoOvKU2SGMMRa0llrb) | 2:55 |
+| 18 | [Sem Topete](https://open.spotify.com/track/2Rr2mkxwAGZJFq0wlcEpGP) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Fepache](https://open.spotify.com/artist/5dLqjc2m428QbostsKrUYW) | [Sem Topete](https://open.spotify.com/album/1RlhyoOvKU2SGMMRa0llrb) | 2:55 |
 | 19 | [Afrodite](https://open.spotify.com/track/3DAlIobCDPVvUkyDZv5oVp) | [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Afrodite](https://open.spotify.com/album/1WckKAD1PVdVcLmdN6XLJT) | 3:21 |
 | 20 | [Linha De Frente](https://open.spotify.com/track/0iqFx9USkmzVKY4IbtYbVn) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01) | [Linha De Frente](https://open.spotify.com/album/1V9S7FNSWhky8UMt9igozG) | 2:57 |
 | 21 | [Eixo](https://open.spotify.com/track/2fH8Zn4ljEYC1Wgpa4ZgVk) | [Sued Nunes](https://open.spotify.com/artist/3CFyVJRAmjkptSfvwMljQi) | [Eixo](https://open.spotify.com/album/1MCyjR0XFu2yZiBWgQqm9Z) | 2:32 |

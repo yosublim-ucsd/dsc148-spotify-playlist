@@ -1,12 +1,12 @@
 {
   "description": "This Is MYA. Los temas esenciales, todos en una lista.",
-  "num_followers": 40860,
+  "num_followers": 40877,
   "original_name": "This Is MYA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAABD0YEGNxjCiospan5NJwyi",
+  "snapshot_id": "ZtpGAAAAAABUxVz8Re4T/U5xs69getsA",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lado Triste (Remix)",
+        "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
+      },
+      "artists": [
+        {
+          "name": "Migrantes",
+          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
+        },
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Nico Valdi",
+          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
+        }
+      ],
+      "duration_ms": 167038,
+      "name": "Lado Triste - Remix",
+      "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL PROCESO",
         "url": "https://open.spotify.com/album/0btfCnFxFTTJ9xgs6j4bLr"
       },
@@ -343,34 +371,6 @@
       "duration_ms": 253496,
       "name": "Entre La Tierra y El Cielo",
       "url": "https://open.spotify.com/track/2zYZTTgHI1f2BmlZQXy1ff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lado Triste (Remix)",
-        "url": "https://open.spotify.com/album/75sX87O97X5BFJ4uvnlUhN"
-      },
-      "artists": [
-        {
-          "name": "Migrantes",
-          "url": "https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
-        },
-        {
-          "name": "MYA",
-          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
-        },
-        {
-          "name": "Nico Valdi",
-          "url": "https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4"
-        }
-      ],
-      "duration_ms": 167038,
-      "name": "Lado Triste - Remix",
-      "url": "https://open.spotify.com/track/7gNClxHxDnazoQvgFhLMKr"
     },
     {
       "added_at": null,

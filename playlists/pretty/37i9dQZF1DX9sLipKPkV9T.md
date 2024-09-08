@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 
 > כל הפופ היפה והמרגש של ישראל\. קאבר: סטטיק
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,716 likes - 76 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,726 likes - 76 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sLipKPkV9T.md) - [plain]
 | 10 | [גדל פה דור](https://open.spotify.com/track/24u6yUc2ZMNxgmme53dbjQ) | [עידו בי](https://open.spotify.com/artist/1obWO7PfWL5n6oyqB984OQ) | [גדל פה דור](https://open.spotify.com/album/1FFQW7fxw1hOg9UDhgmYtc) | 3:06 |
 | 11 | [On My Mind](https://open.spotify.com/track/4X6XWqlx1BA8vd4YKQvQol) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [On My Mind](https://open.spotify.com/album/3BlK4IApUM1DGluMPaq5rN) | 3:03 |
 | 12 | [קופסאות](https://open.spotify.com/track/7d9p0sK6NeGyJvl1w9VPRG) | [Livnat Ben Hamou](https://open.spotify.com/artist/7dDGoJ4nRld8RTcpHMuVAW) | [לבנת בן חמו](https://open.spotify.com/album/77EFk0zITinbwhsIjicwQ1) | 3:19 |
-| 13 | [טיפה בלב ים](https://open.spotify.com/track/4X6Gr8yKuSRyKVEDIe7w5N) | [Nofar Salman](https://open.spotify.com/artist/3E6brPWNbeukI8w10ugzOx) | [טיפה בלב ים](https://open.spotify.com/album/47OvmR24EM6cEJtcCTJUKR) | 3:26 |
+| 13 | [טיפה בלב ים](https://open.spotify.com/track/4X6Gr8yKuSRyKVEDIe7w5N) | [נופר סלמאן](https://open.spotify.com/artist/3E6brPWNbeukI8w10ugzOx) | [טיפה בלב ים](https://open.spotify.com/album/47OvmR24EM6cEJtcCTJUKR) | 3:26 |
 | 14 | [אבא](https://open.spotify.com/track/37bJZ0107lcjV8zcfCzQ5g) | [Lihi Toledano](https://open.spotify.com/artist/1zFuOvKD7y6cnjH5RJ0Prx) | [מיכל, שיווי משקל סופי, אבא](https://open.spotify.com/album/0bPKwV5TqDWxjshMW5fhuP) | 4:48 |
 | 15 | [עטלף](https://open.spotify.com/track/196lkHGqjAKd2gwAGGt9XG) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [עטלף](https://open.spotify.com/album/4POElxlEJHnOJ1sL0aiNTV) | 2:19 |
 | 16 | [פתאום כל שיר עושה לבכות](https://open.spotify.com/track/5MsHNWgKAoiraDmqdxMOED) | [Harel Skaat](https://open.spotify.com/artist/3kZ7g7lW0eeBtoNxtw6zZY) | [פתאום כל שיר עושה לבכות](https://open.spotify.com/album/5yXMH1dyNxpeZT7e0xdFZq) | 3:19 |

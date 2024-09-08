@@ -4,7 +4,7 @@
 
 > Descubre los temas emergentes del mundo indie\. Foto: Baiuca, CARLANGAS.
 
-178 songs - 9 hr 17 min
+179 songs - 9 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Famara \(feat\. Depedro\)](https://open.spotify.com/track/2wHFTBV2T1E1DxwiK8VEXR) | [Ale Acosta](https://open.spotify.com/artist/1tqvdpL1WYZ7js010M2AJx), [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [El Porvenir](https://open.spotify.com/album/04cRfqeLcuDtNQYOy1rVBH) | 3:52 | 2024-06-27 |  |
 | [Fantasmas](https://open.spotify.com/track/61omU5umRHHE0v20jAYD1L) | [Marinita Precaria](https://open.spotify.com/artist/4HJBGcOqWcIOay7q6eeXOR) | [Fantasmas](https://open.spotify.com/album/2tRtfSdmb2jAUmjcAf3l59) | 3:44 | 2024-07-18 | 2024-08-02 |
 | [FIESTA DE FIN DE CURSO](https://open.spotify.com/track/4jBqVfhNywjjY4PoVtE5WF) | [Zeta](https://open.spotify.com/artist/2nzbpxddzaZ6KsugPB9UUw) | [FIESTA DE FIN DE CURSO](https://open.spotify.com/album/1PvjturGX6w6S8COMudcIE) | 2:37 | 2024-08-29 | 2024-09-06 |
+| [FORÇA](https://open.spotify.com/track/3qEV8xqxiGeQUNNM1wA4S7) | [Bikôkô](https://open.spotify.com/artist/5KV0DvKYHe4WwjaJghyIzV), [Irenegarry](https://open.spotify.com/artist/5grzJI0lXUO8L4yMw6BwEB), [AMORE](https://open.spotify.com/artist/2JfbhY0uEDLi1d89RzdU9S) | [FORÇA](https://open.spotify.com/album/2fsqUeGDraiYTG8TPgIJqe) | 3:14 | 2024-09-05 |  |
 | [Frente al Latido](https://open.spotify.com/track/14Cw2iFrUslMi9sGpdjLTp) | [Valira](https://open.spotify.com/artist/7xzBMbJO4ooYoW2mJxX09u), [Gabriel De La Rosa](https://open.spotify.com/artist/6ax61YDjkDzWEr0Wdls9uX), [Shinova](https://open.spotify.com/artist/6rRTrEHzGSDqhmFJQrNFMO) | [Frente al Latido](https://open.spotify.com/album/3EH5Vvu3RU8yGf0uVBt9Vn) | 3:37 | 2024-06-27 | 2024-08-04 |
 | [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 | 2024-06-27 | 2024-08-16 |
 | [GUAYA GUAYA](https://open.spotify.com/track/5vksHe2CEG5tOrLSSNug5U) | [Blackpanda](https://open.spotify.com/artist/7LrXIUbc5YUI3SjEaAh3ma) | [GUAYA GUAYA](https://open.spotify.com/album/1tpgr92aJbeazAyMziemfe) | 2:28 | 2024-06-27 | 2024-07-24 |
@@ -95,7 +96,7 @@
 | [La Toscana](https://open.spotify.com/track/39kOGcaNQZm9Ig1FDngq9c) | [Veintiuno](https://open.spotify.com/artist/2k60o7SVpOKmzpuTEAG3L8) | [La Toscana](https://open.spotify.com/album/1LKtA0XNFWT7W6ksG5R9GR) | 3:20 | 2024-06-27 | 2024-08-16 |
 | [La Vida Cañón](https://open.spotify.com/track/6ou443eT6aXOCxcX9Jrnee) | [Alcalá Norte](https://open.spotify.com/artist/7raVfIwIqNjj5OGBbBQNDR) | [Alcalá Norte](https://open.spotify.com/album/7C2RrxAFNTX0qklJnrHXTj) | 2:32 | 2024-06-27 |  |
 | [LAS 12](https://open.spotify.com/track/1dXGCiV6HBjCqsp7lzioJi) | [Morreo](https://open.spotify.com/artist/3Xp3bobA8pIQerBzo8jW8d) | [LAS 12](https://open.spotify.com/album/6F4y3KOBfxEA2Zs6N5Ztbl) | 2:27 | 2024-06-27 |  |
-| [Lirio](https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Lirio](https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90) | 4:00 | 2024-06-27 |  |
+| [Lirio](https://open.spotify.com/track/6zwZKkCRHb6dKUr0wL4UWw) | [Maestro Espada](https://open.spotify.com/artist/1nlawfs0lTdtL6cVPGvQLu) | [Lirio](https://open.spotify.com/album/5cQw2HSuKKW43knh2PvS90) | 4:00 | 2024-06-27 | 2024-09-08 |
 | [Lo Contrario](https://open.spotify.com/track/13MoMVQoTxw3EKZnCsvrvs) | [GOMZ](https://open.spotify.com/artist/7BLezVBmCyG6aFk101o7vA), [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [Lo Contrario](https://open.spotify.com/album/4j7ez1oEHKlQZzIFspVQI8) | 3:10 | 2024-07-25 | 2024-08-30 |
 | [Lo mejor](https://open.spotify.com/track/3gmjylKlL1X7F9bbxhgdSr) | [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Lo mejor](https://open.spotify.com/album/5QF1Z0ciM5WetxxMHNEWCG) | 1:57 | 2024-06-27 |  |
 | [Lo Que Hay Dentro de Mí](https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB) | [Malmö 040](https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP) | [Lo Que Hay Dentro de Mí](https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX) | 3:10 | 2024-06-27 |  |

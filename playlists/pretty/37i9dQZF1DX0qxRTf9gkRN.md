@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 
 > The best and finest 00s Funk\. Cover: Prince
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,995 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,047 likes - 70 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 28 | [The Gettin' to It](https://open.spotify.com/track/6CutRO1Zkms8w2EWhT3GpU) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Hit the Floor](https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO) | 2:43 |
 | 29 | [Legs](https://open.spotify.com/track/38OY4h3riA0EKflHu0FJAS) | [Darondo](https://open.spotify.com/artist/4JfFdF9Row7UXtdsKtT6tc) | [Let My People Go](https://open.spotify.com/album/3nD9Oab8M4sCLNmqmwSOdA) | 3:44 |
 | 30 | [Get a Feeling](https://open.spotify.com/track/1RKsUsOxE4GIJ4jA19y2tY) | [Kings Go Forth](https://open.spotify.com/artist/2TtCm6pJEbuTVt7dTEaPEB) | [The Outsiders Are Back](https://open.spotify.com/album/2lHYHGF4qrvsKmaq3rgMNO) | 2:36 |
-| 31 | [Nothing for Nothing](https://open.spotify.com/track/2o7Rst2xy4ZHXUkZpyMWyB) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:08 |
+| 31 | [Nothing for Nothing](https://open.spotify.com/track/2o7Rst2xy4ZHXUkZpyMWyB) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:05 |
 | 32 | [M.O.O.D\. For Otis](https://open.spotify.com/track/0j5HoJILgFNFhGeERIfpTQ) | [DJ Mitsu The Beats](https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS) | [New Awakening](https://open.spotify.com/album/3Pd9iBmTeeDXBjdlCQ73gg) | 3:19 |
 | 33 | [Pushin On](https://open.spotify.com/track/2JySddvtTr1Cxsb6kteTrH) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin On](https://open.spotify.com/album/0KPkVfp35nc2BrsHEwdEh3) | 3:19 |
 | 34 | [C.R.E.A.M.](https://open.spotify.com/track/4bJ7tMJqfYmkKgCYzaaG4B) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Enter The 37th Chamber](https://open.spotify.com/album/7ylTeGpMy2RbFDMGSnYjX5) | 2:54 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0qxRTf9gkRN.md) - [plain]
 | 62 | [Pick Up On Your Line](https://open.spotify.com/track/2dM7ASP6qqUlDvAKnQSEgr) | [Jurassik Funk](https://open.spotify.com/artist/3btloSh9XNNgniuk85Z6x0) | [Jurassik Funk](https://open.spotify.com/album/0EKOrxgDltNB2OjrPPAQy8) | 4:46 |
 | 63 | [You Don't Need a Dance](https://open.spotify.com/track/4lt4FjtxsaVN6o5VqiEVQJ) | [Breakestra](https://open.spotify.com/artist/0Jq39W2ruHAA8hGsheXIYG) | [Hit the Floor](https://open.spotify.com/album/5LB6qc1BVvnigKvBeUIoqO) | 4:15 |
 | 64 | [I Got Cash](https://open.spotify.com/track/6T64Jcpgs8qZSi028uHDc5) | [Brooklyn Funk Essentials](https://open.spotify.com/artist/4r4tRC1EUpfUCLjwQXP5EA), [Everton Sylvester](https://open.spotify.com/artist/05ofX903niCRx9W8ptmDO5) | [Make 'em Like It](https://open.spotify.com/album/5Sw1KEXuebMrtLS93ASSnr) | 4:51 |
-| 65 | [Hold Fast](https://open.spotify.com/track/27adVOST2JyOcKGraInAzx) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:32 |
+| 65 | [Hold Fast](https://open.spotify.com/track/27adVOST2JyOcKGraInAzx) | [Gizelle Smith](https://open.spotify.com/artist/76xP5lEB0Xexpb7oNnAdAp), [The Mighty Mocambos](https://open.spotify.com/artist/04x6p6zQH45PoTDGmumiDv) | [This Is Gizelle Smith & The Mighty Mocambos](https://open.spotify.com/album/1Q58mbATOc5ChmSQIBO2tw) | 3:29 |
 | 66 | [Who's Gonna Take the Weight](https://open.spotify.com/track/3VdkcoeVKiWydgnLeZ8BYQ) | [The Haggis Horns](https://open.spotify.com/artist/5teuZRCtxzfuYW98XOwtxu) | [Got to Lose Your Way](https://open.spotify.com/album/5Xpbog4TVo7l5MC5kaSsCD) | 5:47 |
 | 67 | [Am I Your Woman? featuring Ria Currie](https://open.spotify.com/track/6NYN6qc0daOZdbPtQ2LUIV) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44), [Ria Currie](https://open.spotify.com/artist/5MtcVLWEb8v7SSrzpjiVsZ) | [Four Flights Up](https://open.spotify.com/album/2iCCjBP8D7IPuAf0PW2wqy) | 3:12 |
 | 68 | [Say It Again \(featuring CeCe Rogers\)](https://open.spotify.com/track/7fg0osIMedI7iVBZzKeuOk) | [Jestofunk](https://open.spotify.com/artist/6mbMvxJiHaK9mNPyKSPGjA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Love in a Black Dimension](https://open.spotify.com/album/2rzTSC28wxea3ZfcndE6lc) | 5:45 |

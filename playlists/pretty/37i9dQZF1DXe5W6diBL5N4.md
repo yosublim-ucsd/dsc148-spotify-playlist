@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: QWER\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 234,687 likes - 548 songs - 1 day 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 234,830 likes - 548 songs - 1 day 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 17 | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/track/6lbTh61oYgmZZ6Hhl2jB9l) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [KWACA](https://open.spotify.com/artist/5Te248l4eDRueq73dqHFuF) | [Miles Away \(Feat\. GIRIBOY, KWACA\)](https://open.spotify.com/album/5AGq9Wwo1iDdBHPObjIuYY) | 2:35 |
 | 18 | [Dancing On The Road](https://open.spotify.com/track/2YXMvGNgU6rl0wlSRpJdPx) | [KINO](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [Dancing On The Road](https://open.spotify.com/album/0xUxDsfloAVKffEBgt5ppG) | 2:25 |
 | 19 | [Start Me Up](https://open.spotify.com/track/0sJczHGDpFN2lB0Y6zXVAr) | [Mar Vista](https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Start Me Up](https://open.spotify.com/album/3xdMt37biYMPjCxHkFWaRc) | 3:15 |
-| 20 | [Team Veteran](https://open.spotify.com/track/5xhtezdYBp7opJNnptHQ1N) | [Chang Kiha](https://open.spotify.com/artist/2kppzekGp379T3M56GYd7d) | [I, THE EXECUTIONER \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GIjGdO5P9BBjsrk59TaNp) | 1:36 |
+| 20 | [Team Veteran](https://open.spotify.com/track/5xhtezdYBp7opJNnptHQ1N) | [bongjeingan](https://open.spotify.com/artist/3zyq3DzSd4aue9Q7s1qMVu) | [I, THE EXECUTIONER \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5GIjGdO5P9BBjsrk59TaNp) | 1:36 |
 | 21 | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/track/37VvbzX6M33crYC1cp9Mbk) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK), [Moonsoo Kim](https://open.spotify.com/artist/2ylkZLnqiOeta3QWY8zgJr) | [Flight Log \(Feat\. Moonsoo Kim\)](https://open.spotify.com/album/63hibZ5d4d0vR8vBSnmoDt) | 3:38 |
 | 22 | [Good Day](https://open.spotify.com/track/4mO8KpFhoX4k4dvNcwtU1z) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [\[Chapter M Project\] 5th Chapter 'Good Day'](https://open.spotify.com/album/433Ut3GqannzgprsK5YL0i) | 2:57 |
 | 23 | [Trance](https://open.spotify.com/track/3co6jOMLX0rCzpX99ZssYz) | [MILLENNIUM](https://open.spotify.com/artist/3ZXWVNwHCtup0A0nSf48nU) | [zi존](https://open.spotify.com/album/3wsRJqht0xvHFmkUj9v21p) | 2:48 |

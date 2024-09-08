@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,831 likes - 117 songs - 7 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,834 likes - 117 songs - 7 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 92 | [劇場](https://open.spotify.com/track/3Kx9tcfhu4XpihDq1nXI4Y) | [Tangsugar](https://open.spotify.com/artist/2dGyrs1m6sCvEZYhyIcWMt) | [劇場](https://open.spotify.com/album/4KKaCN2iwUnqzHbwNlwtUv) | 4:17 |
 | 93 | [你的計畫裡沒有我](https://open.spotify.com/track/7HOJQpG9gFPhIFSEiu5tFK) | [鄒序](https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0), [守夜人](https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9) | [你的計畫裡沒有我](https://open.spotify.com/album/7FVASE4IdTdxYZeROJK2kD) | 3:23 |
 | 94 | [環遊世界在五坪小套房書桌上](https://open.spotify.com/track/3xSkvnAts8ufLwsAaCImmD) | [楊宜蓉Wooly](https://open.spotify.com/artist/4yhGqaSsVlCIYDs7jb7F6a) | [環遊世界在五坪小套房書桌上](https://open.spotify.com/album/5HIDVyCRhNgxnckmGNIDvF) | 2:39 |
-| 95 | [我愛，我在](https://open.spotify.com/track/1FOlkJjkBJkK8yZoAomBIJ) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [《彈一場完美戀愛》戲劇原聲帶, 第一樂章](https://open.spotify.com/album/2D2UBhjrupxty3MmOXvNkH) | 4:02 |
+| 95 | [我愛，我在 I Believe](https://open.spotify.com/track/1FOlkJjkBJkK8yZoAomBIJ) | [Xiao Yu](https://open.spotify.com/artist/7In8YZ3XHuwSNUTEyIO0HA) | [《彈一場完美戀愛》戲劇原聲帶, 第一樂章](https://open.spotify.com/album/2D2UBhjrupxty3MmOXvNkH) | 4:02 |
 | 96 | [Surfin' the Light](https://open.spotify.com/track/3AJGM1G1TeoRdWvvuPWafS) | [羊駝小姐](https://open.spotify.com/artist/4BjR5qTMbBGGAmN7r1ysaA), [RPG](https://open.spotify.com/artist/4h50ekU1ax70sX6deaIli9) | [Surfin' the Light](https://open.spotify.com/album/5ehx3mC7HwOt9llD7Cz4y1) | 3:45 |
 | 97 | [醒不来](https://open.spotify.com/track/0SM4o1qnpS097cjFaExfK5) | [melonboii](https://open.spotify.com/artist/1TZwWvsRd9vRm8zIwvLlWH) | [醒不来](https://open.spotify.com/album/4g5e6N4X42gHZ3wkZXI8t0) | 2:55 |
 | 98 | [痴了情犯了错](https://open.spotify.com/track/6OwdFPX6m7Ao6eJrX2cgdU) | [向思思](https://open.spotify.com/artist/7jlM8w6yhqvHOYZ7y32CNX) | [痴了情犯了错](https://open.spotify.com/album/1TqryVFF1EzdxyhxqQdKqt) | 3:15 |

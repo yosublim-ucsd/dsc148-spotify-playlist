@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-378 songs - 21 hr 55 min
+379 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bésame mucho \(Kiss Me a Lot\)](https://open.spotify.com/track/0Vgsuj9b5MdKup4zwaQZIQ) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame Mucho](https://open.spotify.com/album/64vqYa85KJSWGw3sbtcxbG) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-21 | 2024-04-19 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-09 | 2024-08-14 |
+| [Cada loco con su tema](https://open.spotify.com/track/7I7lHL6STTIkB9S1m85OSy) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cada loco con su tema](https://open.spotify.com/album/4p2IAhhVyU3XT0u2tEudMq) | 3:40 | 2024-09-06 |  |
 | [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 | 2022-04-07 |  |
 | [Cafecito](https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Cafecito](https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT) | 3:34 | 2021-12-09 | 2024-05-14 |
 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 | 2021-12-09 |  |
@@ -104,7 +105,7 @@
 | [Con Tu Nombre](https://open.spotify.com/track/6wOL40wRi9vL9USijYZRPW) | [Raquel Sofía](https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4) | [Con Tu Nombre](https://open.spotify.com/album/7FwzaDZxVaRoCvCs09OBQU) | 4:06 | 2024-03-14 |  |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-12-09 |  |
 | [Corazón Amargo](https://open.spotify.com/track/2JazgzpNBZj0d7bANPnX6W) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Corazón Amargo](https://open.spotify.com/album/5RWkXdB3ezOthhANfmy2xh) | 3:07 | 2021-12-09 |  |
-| [Corazón de alcachofa](https://open.spotify.com/track/1ZAMZml4Id7gl52Bo6Trch) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Corazón de alcachofa](https://open.spotify.com/album/2GAqYzi3RC1O8ayRILGAmY) | 3:14 | 2021-12-09 |  |
+| [Corazón de alcachofa](https://open.spotify.com/track/1ZAMZml4Id7gl52Bo6Trch) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Corazón de alcachofa](https://open.spotify.com/album/2GAqYzi3RC1O8ayRILGAmY) | 3:14 | 2021-12-09 | 2024-09-08 |
 | [Corazón Gitano](https://open.spotify.com/track/0lOABKEHFsQ5dYvFZO6ssG) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo) | [Corazón Gitano](https://open.spotify.com/album/6G6kXacmfhK2QoD3FL9QYx) | 3:41 | 2021-12-09 |  |
 | [costas de coral](https://open.spotify.com/track/258tAJYRrYUtcEgfHXNRAt) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [costas de coral](https://open.spotify.com/album/3hQmxck36h07jfn8UEQLps) | 3:08 | 2022-12-30 |  |
 | [Crazy Love](https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5) | [Irene Diaz](https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF) | [I Love You Madly EP](https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu) | 3:46 | 2021-12-09 | 2024-05-14 |

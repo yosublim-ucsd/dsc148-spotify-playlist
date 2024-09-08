@@ -2512,7 +2512,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 236133,
       "name": "New Person, Old Place (New Feelings Version)",
       "url": "https://open.spotify.com/track/6G5C3uAzRh5CPDBoXhMAhP"
@@ -2570,6 +2570,24 @@
       "duration_ms": 195880,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/3FFQCX7cQcpYDbneCu36NF"
+    },
+    {
+      "album": {
+        "name": "Oh Mama Won't You Write Me",
+        "url": "https://open.spotify.com/album/2DJxAEeSLkLJexjmdPDpja"
+      },
+      "artists": [
+        {
+          "name": "Oliver Hazard",
+          "url": "https://open.spotify.com/artist/3F4iXxXxe7iazo3Jnwucng"
+        }
+      ],
+      "date_added": "2024-08-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181186,
+      "name": "Oh Mama Won't You Write Me",
+      "url": "https://open.spotify.com/track/0Q7g49HqCHs3Se4F1lo4Cg"
     },
     {
       "album": {

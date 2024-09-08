@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > Det bedste nye pop! <a href="spotify:artist:6idjJt47PjFydVRrAlNw4C">Anthon Edwards</a> er oppe og flyve men helt rolig 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,866 likes - 120 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,864 likes - 120 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

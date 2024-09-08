@@ -1,6 +1,6 @@
 {
   "description": "Timeless Pakistani hits, all in one place. Cover - Junaid Jamshed",
-  "num_followers": 53334,
+  "num_followers": 53366,
   "original_name": "All Time Pakistani Hits",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
+        "name": "Jind Jan Sohniyie",
+        "url": "https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        }
+      ],
+      "duration_ms": 335400,
+      "name": "Mehndi",
+      "url": "https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
         "name": "Parastish",
         "url": "https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 343146,
       "name": "Ankhon Ke Saagar",
       "url": "https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
-        "name": "Jind Jan Sohniyie",
-        "url": "https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        }
-      ],
-      "duration_ms": 335400,
-      "name": "Mehndi",
-      "url": "https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Daur- E- Junoon",
-        "url": "https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny"
-      },
-      "artists": [
-        {
-          "name": "Junoon",
-          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
-        }
-      ],
-      "duration_ms": 288733,
-      "name": "Gharaj Baras",
-      "url": "https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Tabeer",
         "url": "https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 276558,
       "name": "Khaireyan De Naal",
       "url": "https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Daur- E- Junoon",
+        "url": "https://open.spotify.com/album/7c04CbNojtqIw81Mw3f7Ny"
+      },
+      "artists": [
+        {
+          "name": "Junoon",
+          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
+        }
+      ],
+      "duration_ms": 288733,
+      "name": "Gharaj Baras",
+      "url": "https://open.spotify.com/track/1YGfqXj3SSPzWRqJCorYMX"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
-      },
-      "artists": [
-        {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
-        }
-      ],
-      "duration_ms": 378613,
-      "name": "Teri Yaad",
-      "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
-    },
-    {
-      "added_at": "2024-06-06 13:15:46",
-      "album": {
         "name": "Ishq",
         "url": "https://open.spotify.com/album/1HECWEoUv3vVkst0v6BoWc"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 275240,
       "name": "Azadi (Jinnah)",
       "url": "https://open.spotify.com/track/4YFm2ARJ9QTzvNQ25bTZjs"
+    },
+    {
+      "added_at": "2024-06-06 13:15:46",
+      "album": {
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+      },
+      "artists": [
+        {
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+        }
+      ],
+      "duration_ms": 378613,
+      "name": "Teri Yaad",
+      "url": "https://open.spotify.com/track/5R1mYWLSQ896Pfqa4iMCKH"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Aadat",
-        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
+        "name": "Deewar",
+        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
       },
       "artists": [
         {
-          "name": "Jal -The Band",
-          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
+          "name": "Junoon",
+          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
         }
       ],
-      "duration_ms": 258093,
-      "name": "Ik Din Aye Ga",
-      "url": "https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7"
+      "duration_ms": 170613,
+      "name": "Pappu Yaar",
+      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -951,18 +951,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Deewar",
-        "url": "https://open.spotify.com/album/3xacHPm5pZVNYR6DIT3kNE"
+        "name": "Aadat",
+        "url": "https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5"
       },
       "artists": [
         {
-          "name": "Junoon",
-          "url": "https://open.spotify.com/artist/6nyfDdTwCLGrbCFikT8PTK"
+          "name": "Jal -The Band",
+          "url": "https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8"
         }
       ],
-      "duration_ms": 170613,
-      "name": "Pappu Yaar",
-      "url": "https://open.spotify.com/track/1nwJqXuGRkqWNCArdF3gMC"
+      "duration_ms": 258093,
+      "name": "Ik Din Aye Ga",
+      "url": "https://open.spotify.com/track/3wUreem0PICuBnFN8nfvz7"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Huqa Pani",
-        "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
+        "name": "Pyaas",
+        "url": "https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW"
       },
       "artists": [
         {
-          "name": "Ali Zafar",
-          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
+          "name": "Jal",
+          "url": "https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU"
         }
       ],
-      "duration_ms": 283480,
-      "name": "Huqa Pani",
-      "url": "https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL"
+      "duration_ms": 279000,
+      "name": "Ik Arzu",
+      "url": "https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M"
     },
     {
       "added_at": "2024-06-06 13:15:46",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-06-06 13:15:46",
       "album": {
-        "name": "Pyaas",
-        "url": "https://open.spotify.com/album/6tR4OP2sLkYlUgdaz1y9bW"
+        "name": "Huqa Pani",
+        "url": "https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb"
       },
       "artists": [
         {
-          "name": "Jal",
-          "url": "https://open.spotify.com/artist/2f50lwdTtShldrc5JrA5fU"
+          "name": "Ali Zafar",
+          "url": "https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ"
         }
       ],
-      "duration_ms": 279000,
-      "name": "Ik Arzu",
-      "url": "https://open.spotify.com/track/4cndbON398hOOnGgqJwj4M"
+      "duration_ms": 283480,
+      "name": "Huqa Pani",
+      "url": "https://open.spotify.com/track/0PV0bP3cqsQdXajY3f8pUL"
     },
     {
       "added_at": "2024-06-06 13:15:46",

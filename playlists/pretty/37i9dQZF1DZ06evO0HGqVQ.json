@@ -1,12 +1,12 @@
 {
   "description": "This Is Los inquietos del vallenato. Los temas esenciales, todos en una lista.",
-  "num_followers": 27752,
+  "num_followers": 27760,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAAD506GiMEJvSxBA3lh60uoM",
+  "snapshot_id": "ZtpGAAAAAAA9V7roydruuXpe1Hh0Lu5O",
   "tracks": [
     {
       "added_at": null,
@@ -475,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dile",
-        "url": "https://open.spotify.com/album/143SIavj9rMMqlN8FQEn8b"
+        "name": "Eternamente",
+        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
       },
       "artists": [
         {
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 213834,
-      "name": "Dile",
-      "url": "https://open.spotify.com/track/47VC5BRjUYrQkd8JaWr021"
+      "duration_ms": 251000,
+      "name": "Piel A Piel",
+      "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eternamente",
-        "url": "https://open.spotify.com/album/0xsLFXW6C2juv4RIGc57Xi"
+        "name": "Dile",
+        "url": "https://open.spotify.com/album/143SIavj9rMMqlN8FQEn8b"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 251000,
-      "name": "Piel A Piel",
-      "url": "https://open.spotify.com/track/6IytGzzeSCfbX1pqGYeVPz"
+      "duration_ms": 213834,
+      "name": "Dile",
+      "url": "https://open.spotify.com/track/47VC5BRjUYrQkd8JaWr021"
     },
     {
       "added_at": null,

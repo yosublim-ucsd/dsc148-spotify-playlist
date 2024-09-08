@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,323 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,341 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 85 | [Soft Spine](https://open.spotify.com/track/3t5GlWUzGSt2lPuiSEPBFG) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Soft Spine](https://open.spotify.com/album/54Upk1Q8DmVaMR2MrOvoiR) | 3:03 |
 | 86 | [Combo](https://open.spotify.com/track/0W0STGeR1lBHBbDgdB0uie) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING : Epilogue \- The 1st Mini Album](https://open.spotify.com/album/12H3XVm97o4FhhWhtRnBWY) | 3:39 |
 | 87 | [UMPA](https://open.spotify.com/track/470IhQSaAri29VEf2BZq7s) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Baggy$$](https://open.spotify.com/album/0cX9ldzQG2UYMHo6ILXXYk) | 2:32 |
-| 88 | [Mud \(with Kalan.Frfr, Bun B, UnoTheActivist\)](https://open.spotify.com/track/4Ki31w31mvbM6cc4Y4MgG7) | [Carrots](https://open.spotify.com/artist/4O3zKgW7ohAiT2J46VxnO2), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Mud](https://open.spotify.com/album/3tpK49I5mRjYMZY2vk6H7n) | 4:31 |
+| 88 | [Mud \(with Kalan.Frfr, Bun B, UnoTheActivist\)](https://open.spotify.com/track/4Ki31w31mvbM6cc4Y4MgG7) | [Anwar Carrots](https://open.spotify.com/artist/1iaMvqXg0uIA3dVMMMiIvS), [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO), [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Mud](https://open.spotify.com/album/3tpK49I5mRjYMZY2vk6H7n) | 4:31 |
 | 89 | [Closer to God](https://open.spotify.com/track/5zHzofWXEpq1KiYIqTv7s2) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [WOOF.](https://open.spotify.com/album/5zuQQIzkoyry8lZrmW4744) | 3:46 |
 | 90 | [Golden Child](https://open.spotify.com/track/0DoAoxKQmd4sKnY1p2EAyC) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Golden Child](https://open.spotify.com/album/1Dd74K8QIBvDUb1QdHwYtu) | 3:37 |
 | 91 | [Silverado](https://open.spotify.com/track/3jg6EdKCc9s3ibqwqle4Mu) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Silverado](https://open.spotify.com/album/1ZLZhINbxz10rwLfAUoiwN) | 3:06 |

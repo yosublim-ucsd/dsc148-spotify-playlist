@@ -2,7 +2,7 @@
 
 ### [This Is Elliott Smith](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1u2tEI)
 
-> This is Elliott Smith\. Todos os maiores hits em uma só playlist.
+> This Is Elliott Smith\. Los temas esenciales, todos en una lista.
 
 126 songs - 6 hr 46 min
 

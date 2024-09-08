@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 175842,
       "name": "42",
       "url": "https://open.spotify.com/track/1xHHbz3YLEbqAuQFkM9Zcg"
@@ -1058,6 +1058,32 @@
       "duration_ms": 172293,
       "name": "911",
       "url": "https://open.spotify.com/track/2chIkORxBLpPVgruGiMY8k"
+    },
+    {
+      "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
     },
     {
       "album": {
@@ -3160,7 +3186,7 @@
       ],
       "date_added": "2024-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-31",
+      "date_removed": null,
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -4690,6 +4716,24 @@
       "duration_ms": 220632,
       "name": "Big Meech",
       "url": "https://open.spotify.com/track/66OTw5q1Ut9KqdFgzMRrhp"
+    },
+    {
+      "album": {
+        "name": "BIGLAF",
+        "url": "https://open.spotify.com/album/1TDKG6UHfzhfH2JKdqkBCg"
+      },
+      "artists": [
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96023,
+      "name": "BIGLAF",
+      "url": "https://open.spotify.com/track/5irK6xxnLIgC0KVzqII4O8"
     },
     {
       "album": {
@@ -8260,7 +8304,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 198946,
       "name": "CORDILL\u00c8RE",
       "url": "https://open.spotify.com/track/2rVrFAV4XPF0gonpDwvFQI"
@@ -21006,7 +21050,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 161311,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/0ksYW1iavv5SwGshxjpLvK"
@@ -26964,7 +27008,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 201750,
       "name": "Parler tout bas",
       "url": "https://open.spotify.com/track/4ZBslg1i1eHVOMhZZoX5fx"
@@ -29180,7 +29224,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 149508,
       "name": "Racks - Booska Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/0FOSpvSUvyglu3sox8JJp9"
@@ -32551,6 +32595,68 @@
     },
     {
       "album": {
+        "name": "Sous le soleil",
+        "url": "https://open.spotify.com/album/1Q3iOExyyGqxZz8Hs0UKAe"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        },
+        {
+          "name": "13 Organis\u00e9",
+          "url": "https://open.spotify.com/artist/19u3RGWKsjmbg9eI6zAiNp"
+        },
+        {
+          "name": "L'Alg\u00e9rino",
+          "url": "https://open.spotify.com/artist/7kyIBL1EYouLqC8vw7IOui"
+        },
+        {
+          "name": "Sat",
+          "url": "https://open.spotify.com/artist/3c8I79WjXzJzWacsiZlAxT"
+        },
+        {
+          "name": "Fahar",
+          "url": "https://open.spotify.com/artist/4hpTPFhq6Ok3wGhFqa7pGy"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "Le Rat Luciano",
+          "url": "https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv"
+        },
+        {
+          "name": "Menzo",
+          "url": "https://open.spotify.com/artist/0QnbAn4YLO3az9wPgCimsW"
+        },
+        {
+          "name": "Don Choa",
+          "url": "https://open.spotify.com/artist/3nRUvKHrGi4lrRF01yTzod"
+        },
+        {
+          "name": "As",
+          "url": "https://open.spotify.com/artist/7r35uLFg5fJcsLe60AdWhK"
+        },
+        {
+          "name": "Vincenzo",
+          "url": "https://open.spotify.com/artist/0qip4dhB68FjSC0Y2S86RP"
+        },
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 480160,
+      "name": "Sous le soleil",
+      "url": "https://open.spotify.com/track/5lBaUzRFuCMtwZW522uQ7c"
+    },
+    {
+      "album": {
         "name": "Aimons-Nous Vivants",
         "url": "https://open.spotify.com/album/74LPtYrPaz5EWAONfcWwby"
       },
@@ -33524,7 +33630,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 221000,
       "name": "T.I.A - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1CBcqxqfrImhinNsC08sej"
@@ -33636,7 +33742,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 157279,
       "name": "Taste",
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
@@ -34317,6 +34423,24 @@
     },
     {
       "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
+    },
+    {
+      "album": {
         "name": "The Fool",
         "url": "https://open.spotify.com/album/7arCig498ft2Kc7pJJFHxw"
       },
@@ -34466,7 +34590,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -34488,7 +34612,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"

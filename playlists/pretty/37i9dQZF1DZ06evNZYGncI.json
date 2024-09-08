@@ -1,12 +1,12 @@
 {
   "description": "This is Slipknot. The essential tracks, all in one playlist.",
-  "num_followers": 984027,
+  "num_followers": 984195,
   "original_name": "This Is Slipknot",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztj0gAAAAABI6zHzA5w911ENRg13viSf",
+  "snapshot_id": "ZtpGAAAAAAAABGPb448fAvi54IhZ5god",
   "tracks": [
     {
       "added_at": null,
@@ -711,22 +711,6 @@
       "duration_ms": 284760,
       "name": "All Hope Is Gone",
       "url": "https://open.spotify.com/track/431a6o9W8aYTQWNGmdgDm0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bone Church",
-        "url": "https://open.spotify.com/album/3YfWgkwUS52CmKJeOpBACz"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 327240,
-      "name": "Bone Church",
-      "url": "https://open.spotify.com/track/36sAFU68abNDrMOJI5QYZi"
     },
     {
       "added_at": null,

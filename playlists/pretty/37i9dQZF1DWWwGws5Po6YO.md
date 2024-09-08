@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Nala Sinephro
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,350 likes - 100 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,397 likes - 100 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,24 +89,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 79 | [Firmamento](https://open.spotify.com/track/0KHQIxbitvGI5Hm8AKEtZa) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 13:55 |
 | 80 | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/track/6PhHN00V3tyyngdq3304GU) | [AF13](https://open.spotify.com/artist/76j3sOQJRcbEwdyvAxTl3E), [Greg Leisz](https://open.spotify.com/artist/5OslOE4iegsG2uqyOZJ2OU), [Ghost Marrow](https://open.spotify.com/artist/6ECt44VpzEYOIy4EjfeLNl), [Suzanne Ciani](https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr) | [Snow Ritual \(feat\. Ghost Marrow & Suzanne Ciani\)](https://open.spotify.com/album/0Qj318iUtQEpmd2ip47IGt) | 7:45 |
 | 81 | [Sleep Cycle](https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 9:17 |
-| 82 | [In a Falling Shadow](https://open.spotify.com/track/3LTZg6CSuvQiRiDjg9GYgV) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Unlocking Rituals](https://open.spotify.com/album/6cJ02bcD0uf7QUn4c35hEQ) | 4:45 |
-| 83 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
+| 82 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
+| 83 | [In a Falling Shadow](https://open.spotify.com/track/3LTZg6CSuvQiRiDjg9GYgV) | [Laura Cannell](https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq) | [Unlocking Rituals](https://open.spotify.com/album/6cJ02bcD0uf7QUn4c35hEQ) | 4:45 |
 | 84 | [Garden](https://open.spotify.com/track/1tN2BgjAGlIjM3KLV1bS9M) | [MELÉN](https://open.spotify.com/artist/4JyfNm7VfMwqu4HId6a2sX) | [Garden](https://open.spotify.com/album/5W2aiFIeMvEJx7zJpwRFbJ) | 3:12 |
 | 85 | [The Light That's Left](https://open.spotify.com/track/4ZHartv9VTHpoiouvJBnTk) | [Cheryl B\. Engelhardt](https://open.spotify.com/artist/2IG41RF72NqonaFf0XL8p9) | [The Light That's Left](https://open.spotify.com/album/3NtOQRJTmdeYpehXVp6IfB) | 3:18 |
 | 86 | [Dark green](https://open.spotify.com/track/1T9URTwhBOEiQM5atg0jbz) | [Dita Redrum](https://open.spotify.com/artist/0uSrH9aWp8RsO5aZSzZHap) | [When This World Sleeps](https://open.spotify.com/album/10ejf7X34wj0usEtGA65cQ) | 3:14 |
-| 87 | [Lazuli](https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 7:14 |
-| 88 | [Winter into Spring](https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Arboretum](https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw) | 3:38 |
+| 87 | [Winter into Spring](https://open.spotify.com/track/4nX8pNCxlonlqxbNNtsibE) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Arboretum](https://open.spotify.com/album/4U6CyXgC3ktaJMSbAaloJw) | 3:38 |
+| 88 | [Lazuli](https://open.spotify.com/track/3szBS8kp9pGEcCWAzD0hI4) | [Lucy Railton](https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Subaerial](https://open.spotify.com/album/3rCc5K1LiTTrlWN3YxFwaM) | 7:14 |
 | 89 | [Ceò](https://open.spotify.com/track/37AC3XJ0LZzyQRgT8tBMYv) | [Claire M Singer](https://open.spotify.com/artist/19vNq14qOd4uJFqXvSNTfo) | [Trian](https://open.spotify.com/album/1HXxTz5eJWOkvmAl9jVnsS) | 5:39 |
 | 90 | [Depths Emerging](https://open.spotify.com/track/2DSMSR9CVyoI45cYwbCMMX) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [Midnight Dancing](https://open.spotify.com/album/5K5XHxnHKJCJmEQizLQqyq) | 5:44 |
 | 91 | [Adventures](https://open.spotify.com/track/3Sjlw0hiLr40wY4OTPQ8aQ) | [Aasma](https://open.spotify.com/artist/7AyyDhDFJbQUqmbyswOXbv) | [Ocean](https://open.spotify.com/album/7tO4B8txFxMa6AkydiSS9X) | 2:38 |
-| 92 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
+| 92 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
 | 93 | [As We Record the Disappearing Ice](https://open.spotify.com/track/4FvIsyrj9p7E6Op57FPSEl) | [Alice in Freefall](https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX) | [Desert Ballads](https://open.spotify.com/album/6QdXEypKfnmiWTJKAUnXSG) | 2:54 |
-| 94 | [Spectacle Of Ritual](https://open.spotify.com/track/62SMTFdXWQ4g8UMcgk0WLz) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Sacrificial Code](https://open.spotify.com/album/3uZXkg8c5Ibsvuz1ZSpeSD) | 10:53 |
+| 94 | [Mary, You Were Wrong](https://open.spotify.com/track/7cAjwU15bF9O81UjiC1HpH) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [Mary, You Were Wrong](https://open.spotify.com/album/1QumBx2mlFuTfFu8zR2sM7) | 4:58 |
 | 95 | [Space 1](https://open.spotify.com/track/1WGvKEkU8c3uvqmZpUt5ZL) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Space 1.8](https://open.spotify.com/album/5Svfamp6qQ2IfLVNVICpVm) | 4:08 |
 | 96 | [Aralkum](https://open.spotify.com/track/5WTL2dxPPRTdKZrrFOvHiD) | [Galya Bisengalieva](https://open.spotify.com/artist/5XT7fo7ijBPZAWWzXDEaRh) | [Aralkum](https://open.spotify.com/album/64qo09yNVqquWNVde0MA0v) | 6:39 |
-| 97 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
-| 98 | [SOTRS](https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 9:30 |
-| 99 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 |
-| 100 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
+| 97 | [SOTRS](https://open.spotify.com/track/3AFGqSmaHEOYZlNVqAjPo7) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Patterns Of Consciousness](https://open.spotify.com/album/4fKVh0mSM2hkQnEFpivPjm) | 9:30 |
+| 98 | [Stratus](https://open.spotify.com/track/7G0celL82dCIDYjUxdPyoG) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/5T9rGi62i1O7wRu3c2f3q4) | 3:04 |
+| 99 | [My People Have Deep Roots](https://open.spotify.com/track/5taMzHf1NWTcjLxGAn3DhX) | [Arushi Jain](https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ) | [My People Have Deep Roots](https://open.spotify.com/album/4zkFQ6mn79zECO6tQh3I5d) | 4:00 |
+| 100 | [We Wave From Our Boats](https://open.spotify.com/track/0udjSw7JY1kClm50cqndkN) | [Mary Lattimore](https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw) | [We Wave From Our Boats](https://open.spotify.com/album/2b88GjZr8IKcCHBQTv5zyj) | 3:50 |
 
 Snapshot ID: `ZroYSAAAAACuKNhdmgVxLmAcur8dtVwb`

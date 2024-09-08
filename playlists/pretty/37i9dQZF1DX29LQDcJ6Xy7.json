@@ -1,6 +1,6 @@
 {
   "description": "A collection of Industrial Metal - fresh and old tunes. Cover: Fear Factory",
-  "num_followers": 333725,
+  "num_followers": 333816,
   "original_name": "Industrial Metal",
   "owner": {
     "name": "Spotify",
@@ -191,18 +191,18 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+        "name": "Symbols",
+        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "KMFDM",
+          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+      "duration_ms": 367933,
+      "name": "Megalomaniac",
+      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Symbols",
-        "url": "https://open.spotify.com/album/6g99frcxtUThvTjTwo9LfC"
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
       "artists": [
         {
-          "name": "KMFDM",
-          "url": "https://open.spotify.com/artist/3V4IvzRQYP5mzuVtkcHgVa"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 367933,
-      "name": "Megalomaniac",
-      "url": "https://open.spotify.com/track/1d3iQh4fTm5D6iRtgrZPZ9"
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Demanufacture (Special Edition)",
-        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 237360,
-      "name": "Replica",
-      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Die H\u00f6lle muss warten",
         "url": "https://open.spotify.com/album/3nFP3Y3TpCLQZyUYGHhzIp"
       },
@@ -367,6 +351,22 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
+        "name": "Darkest Days",
+        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+      },
+      "artists": [
+        {
+          "name": "Stabbing Westward",
+          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Save Yourself",
+      "url": "https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Darkest Days",
-        "url": "https://open.spotify.com/album/2zbX9auxAGYaWoMEvB2uAg"
+        "name": "Demanufacture (Special Edition)",
+        "url": "https://open.spotify.com/album/6GPHWrMQG5Ns8O3aQKMro2"
       },
       "artists": [
         {
-          "name": "Stabbing Westward",
-          "url": "https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Save Yourself",
-      "url": "https://open.spotify.com/track/13ZS2V2RsGWguOYYvIqDN5"
+      "duration_ms": 237360,
+      "name": "Replica",
+      "url": "https://open.spotify.com/track/5YeQoMo5py82YmqXMTjM5S"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
+        "name": "Anima Inferna",
+        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
+      },
+      "artists": [
+        {
+          "name": "Gothminister",
+          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
         "name": "DISCO4 :: PART II",
         "url": "https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 314720,
       "name": "ISN\u2019T EVERYONE",
       "url": "https://open.spotify.com/track/7Kx1m2vb4QPgHKVKvpvrFv"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
-        "name": "Anima Inferna",
-        "url": "https://open.spotify.com/album/3bu7vMto2xe6ZYLcDJVTLS"
-      },
-      "artists": [
-        {
-          "name": "Gothminister",
-          "url": "https://open.spotify.com/artist/2S3xwpueZpPVUDTTv7Wefx"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/5SSgOEhCl3C20ioDkt96fr"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Supernaut",
-        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
-      },
-      "artists": [
-        {
-          "name": "1000 Homo DJs",
-          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
-        }
-      ],
-      "duration_ms": 402706,
-      "name": "Supernaut",
-      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "A World Lit Only by Fire",
         "url": "https://open.spotify.com/album/1UbMFz1E6gcjrIvqohXoBk"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 266000,
       "name": "Shut Me Down",
       "url": "https://open.spotify.com/track/3LxT4mhYd4JkagpE43Nv9m"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Supernaut",
+        "url": "https://open.spotify.com/album/59or2rVv97PQ4dS45ohNlQ"
+      },
+      "artists": [
+        {
+          "name": "1000 Homo DJs",
+          "url": "https://open.spotify.com/artist/62G7ybeJSN91TgfsWsdDOb"
+        }
+      ],
+      "duration_ms": 402706,
+      "name": "Supernaut",
+      "url": "https://open.spotify.com/track/1LkYAkYzqq7TbJTGfx3ixY"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "MDFMK",
-        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
-      },
-      "artists": [
-        {
-          "name": "MDFMK",
-          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
-        }
-      ],
-      "duration_ms": 255133,
-      "name": "Torpedoes",
-      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Echogenetic",
         "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 348000,
       "name": "Deadened",
       "url": "https://open.spotify.com/track/2Vlfc5hZxy1XY6XtsOF0aD"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "MDFMK",
+        "url": "https://open.spotify.com/album/6kqX8YYU2vBjbzfGc03ya1"
+      },
+      "artists": [
+        {
+          "name": "MDFMK",
+          "url": "https://open.spotify.com/artist/42rBYWqiCzxYUFQM0iKWwM"
+        }
+      ],
+      "duration_ms": 255133,
+      "name": "Torpedoes",
+      "url": "https://open.spotify.com/track/40Nz6mf4yuDeOW0sscIS63"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Echogenetic",
-        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
-      },
-      "artists": [
-        {
-          "name": "Front Line Assembly",
-          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "Killing Grounds",
-      "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Don't Question Me",
         "url": "https://open.spotify.com/album/2XKsZtY379vsVCRi5lNxzq"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 201184,
       "name": "Don't Question Me",
       "url": "https://open.spotify.com/track/07wrYgD0lODxw5G39OQjce"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Echogenetic",
+        "url": "https://open.spotify.com/album/0f45KbfktTH1dpYgApp979"
+      },
+      "artists": [
+        {
+          "name": "Front Line Assembly",
+          "url": "https://open.spotify.com/artist/5QYAExYvxixCVwX70SRf7F"
+        }
+      ],
+      "duration_ms": 358520,
+      "name": "Killing Grounds",
+      "url": "https://open.spotify.com/track/0HCxCQXakzMJfjcek0Qn7E"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Sieben",
-        "url": "https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ"
-      },
-      "artists": [
-        {
-          "name": "Schwarzer Engel",
-          "url": "https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk"
-        }
-      ],
-      "duration_ms": 250933,
-      "name": "Endzeit",
-      "url": "https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Prototype 6:17",
         "url": "https://open.spotify.com/album/0AzQ3DznOByMMtnZSt9PvM"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 208470,
       "name": "Prototype",
       "url": "https://open.spotify.com/track/7k2SHJ8HKjjW3sZcDj2eAz"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Sieben",
+        "url": "https://open.spotify.com/album/3nnX9wWAHFLYun9ylDAhUJ"
+      },
+      "artists": [
+        {
+          "name": "Schwarzer Engel",
+          "url": "https://open.spotify.com/artist/15g7I4KWNHNSPdcCtm6dpk"
+        }
+      ],
+      "duration_ms": 250933,
+      "name": "Endzeit",
+      "url": "https://open.spotify.com/track/3YwmrqN6NMxPL5HyjojEOi"
     },
     {
       "added_at": "2024-07-05 16:33:33",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2024-07-05 16:33:33",
       "album": {
-        "name": "Burn Everything",
-        "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
-      },
-      "artists": [
-        {
-          "name": "Ludovico Technique",
-          "url": "https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1"
-        }
-      ],
-      "duration_ms": 263581,
-      "name": "Burn Everything",
-      "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
-    },
-    {
-      "added_at": "2024-07-05 16:33:33",
-      "album": {
         "name": "Universe",
         "url": "https://open.spotify.com/album/09IpPA2qwJeHgXj7l9P6gR"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 243026,
       "name": "Universe",
       "url": "https://open.spotify.com/track/4J2aPhC2ODvSURePYP5DqE"
+    },
+    {
+      "added_at": "2024-07-05 16:33:33",
+      "album": {
+        "name": "Burn Everything",
+        "url": "https://open.spotify.com/album/3YVOIopHaBdAnj3dBe97od"
+      },
+      "artists": [
+        {
+          "name": "Ludovico Technique",
+          "url": "https://open.spotify.com/artist/1QLq3DjHn8KdTfUig43wP1"
+        }
+      ],
+      "duration_ms": 263581,
+      "name": "Burn Everything",
+      "url": "https://open.spotify.com/track/3TnHNsSdOYdqQdXyivAmuH"
     }
   ],
   "unique_name": "Industrial Metal",

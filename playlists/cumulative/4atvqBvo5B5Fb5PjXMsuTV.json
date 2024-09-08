@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 22:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5540,6 +5540,24 @@
       "duration_ms": 231250,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0DCUrM5omLum9e4UXCKhEM"
+    },
+    {
+      "album": {
+        "name": "Burst My Bubble",
+        "url": "https://open.spotify.com/album/4xgLmLH8ZLceQPA6Wx3xYK"
+      },
+      "artists": [
+        {
+          "name": "Bao The Whale",
+          "url": "https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200571,
+      "name": "Burst My Bubble",
+      "url": "https://open.spotify.com/track/4ZRNfe85ac4F6mYLfZdjOP"
     },
     {
       "album": {
@@ -17973,6 +17991,28 @@
     },
     {
       "album": {
+        "name": "Identities",
+        "url": "https://open.spotify.com/album/6Ws06aKAmgZ5yNW2cQtYVY"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "WUNDER RiKU",
+          "url": "https://open.spotify.com/artist/0HG6vVTU6aGNO0F3Bug23k"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171200,
+      "name": "Identities",
+      "url": "https://open.spotify.com/track/2ZeKGpg1o2lzyMdmsuNgqi"
+    },
+    {
+      "album": {
         "name": "idiot",
         "url": "https://open.spotify.com/album/63IOT3ku8ix5AiypBT4wo7"
       },
@@ -18312,6 +18352,28 @@
       "duration_ms": 227999,
       "name": "ily2 (Maral remix)",
       "url": "https://open.spotify.com/track/5Mmqr69BaY8f6A2BplcuRT"
+    },
+    {
+      "album": {
+        "name": "Im Talking Now, Can You Stfu? :D",
+        "url": "https://open.spotify.com/album/2VNSHREeG6nyNhfkk0dUwR"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "date_added": "2024-09-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Im Talking Now, Can You Stfu? :D",
+      "url": "https://open.spotify.com/track/3MoX0podAnvmoXqBQwS6bz"
     },
     {
       "album": {
@@ -23194,7 +23256,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 192469,
       "name": "Mrs Dior",
       "url": "https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E"
@@ -30644,7 +30706,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 142560,
       "name": "Shmoke (feat. A$AP Ferg & Armani Caesar)",
       "url": "https://open.spotify.com/track/2AqKCCM6M4XbABHPOwJnB5"
@@ -40534,7 +40596,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 118878,
       "name": "ZOMBIE",
       "url": "https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ"

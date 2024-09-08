@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Cover: SPIRIT OF THE BEEHIVE
 
-2,721 songs - 6 day 6 hr 15 min
+2,722 songs - 6 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1047,6 +1047,7 @@
 | [Higha](https://open.spotify.com/track/6IhORoouo7WrDy1l2UZweD) | [Tonyony](https://open.spotify.com/artist/0luieUAA6uRRnz8lRywtRa) | [Higha](https://open.spotify.com/album/4rJoaLWLQmYzT5VE2Uv6Cw) | 2:48 | 2023-10-25 | 2023-11-30 |
 | [higher](https://open.spotify.com/track/5Ul1WuGiBYApuiMnjStTD7) | [Alexa Cirri](https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr) | [higher](https://open.spotify.com/album/1AMiHtdinShRbRVq7MCJcf) | 2:16 | 2022-05-19 | 2022-06-09 |
 | [Higher Frequency](https://open.spotify.com/track/4Sz0SPIAxsBfkkpqr3YwaJ) | [Bliss Samsa](https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6) | [Higher Frequency](https://open.spotify.com/album/29vz3ZKqjaJz4zdUPwgGNg) | 4:04 | 2023-09-06 | 2023-10-26 |
+| [HighPraise](https://open.spotify.com/track/5w7tORHp5YxqhTtWV8UglU) | [Deloyd Elze](https://open.spotify.com/artist/74ERN7iYMRTDYfWz2BspQo) | [Junebug / HighPraise](https://open.spotify.com/album/3cNHnziPRxQQy3Aq3ERna6) | 2:50 | 2024-09-07 |  |
 | [Hijack](https://open.spotify.com/track/5JbZSGWI66lp3x2A6ELwAG) | [Annie Jets](https://open.spotify.com/artist/3VaQM1wZd9Dhq1jdcQosWI) | [Hijack](https://open.spotify.com/album/4r4QKcKsLNE6cbvJjhSDoU) | 3:50 | 2024-06-12 | 2024-07-11 |
 | [HMS Beagle](https://open.spotify.com/track/6SujS4hQ3349ucsxkF3Xy4) | [between mermaids and me](https://open.spotify.com/artist/2ogVDxyXdvk7Mz4UI3FUlp) | [Reality Cravings](https://open.spotify.com/album/46O1LcXjcsDXLuaSBDQul8) | 4:04 | 2022-11-09 | 2022-12-01 |
 | [Hold Him](https://open.spotify.com/track/05PrnPGWceL8GlsdfkXeH3) | [Jesse Mac Cormack](https://open.spotify.com/artist/2H8M8TXbgq7ZF676K4Zm2C) | [Hold Him](https://open.spotify.com/album/4DU0NqdcK5B0nWrrxYj4Ss) | 3:55 | 2024-01-24 | 2024-03-07 |

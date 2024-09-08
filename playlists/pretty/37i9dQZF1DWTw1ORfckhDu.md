@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,580 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,606 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 2 | [On / Off](https://open.spotify.com/track/6jRJ1RAvdNxC1TG03VRFVg) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [YUNO](https://open.spotify.com/album/5tC2VozpKDfbpOzO8Ybipj) | 2:15 |
 | 3 | [Ärsyttävä](https://open.spotify.com/track/6Wi8ubwyHMnwjCJxTmoEfJ) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Ärsyttävä](https://open.spotify.com/album/06oUPbFhbOhSePYf6paXqX) | 2:38 |
 | 4 | [Vielki kentil](https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Vielki kentil](https://open.spotify.com/album/3R18RGuJLRLmLHpqdqS5Iq) | 3:02 |
-| 5 | [Jorma](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [Jorma](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 |
+| 5 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 |
 | 6 | [Up](https://open.spotify.com/track/2ESCQGR2fFf3OScucQ6mci) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Mushkila](https://open.spotify.com/album/763qzlJigg3lsHzP6Knuy3) | 2:36 |
 | 7 | [Vippipöytä huudeilla \(feat\. JV\)](https://open.spotify.com/track/152IZJyxREI8WFSSaWpQHZ) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [JV](https://open.spotify.com/artist/4X4k68di2P4I0tbSsLgnp3) | [ATOG](https://open.spotify.com/album/61ROchLRecuGLKRhNVJiQk) | 2:44 |
 | 8 | [Ikuinen elokuu](https://open.spotify.com/track/5L1Zw17VPvmxuWa8PppvbY) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Ikuinen elokuu](https://open.spotify.com/album/1HomvM6Akkl0H1uQBulmTZ) | 3:54 |

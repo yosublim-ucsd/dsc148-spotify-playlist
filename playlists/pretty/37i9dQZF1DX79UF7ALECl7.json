@@ -1,6 +1,6 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 121844,
+  "num_followers": 121840,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
+        "name": "RDV",
+        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
+      },
+      "artists": [
+        {
+          "name": "Teuteu",
+          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
+        }
+      ],
+      "duration_ms": 159705,
+      "name": "RDV",
+      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
         "name": "Another Place",
         "url": "https://open.spotify.com/album/6YvKLZvsYRrByFzav0tlii"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 147879,
       "name": "Another Place",
       "url": "https://open.spotify.com/track/1eLHMmz57mVUI3ntLjO0yW"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
-        "name": "RDV",
-        "url": "https://open.spotify.com/album/2WjEkuvVo6z3puQTGET9H7"
-      },
-      "artists": [
-        {
-          "name": "Teuteu",
-          "url": "https://open.spotify.com/artist/5PXIEgHdDSE1cLCLJ6H9C9"
-        }
-      ],
-      "duration_ms": 159705,
-      "name": "RDV",
-      "url": "https://open.spotify.com/track/3oIy7vraINdyE19cGdi1xX"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
         "name": "Storm in a Teacup",
         "url": "https://open.spotify.com/album/7I0uNZXs5RK3FGDUefK2S0"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 293764,
       "name": "A Piece of Mind",
       "url": "https://open.spotify.com/track/5Dj11QzfbzBmzlhTXB4zIL"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -539,18 +539,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Socorro & J\u00fcpiter",
-        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
+        "name": "Shallow Breathing",
+        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
       },
       "artists": [
         {
-          "name": "Felipe Gordon",
-          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        },
+        {
+          "name": "Makk Mikkael",
+          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
         }
       ],
-      "duration_ms": 415527,
-      "name": "Socorro & J\u00fcpiter",
-      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
+      "duration_ms": 163298,
+      "name": "Shallow Breathing",
+      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -571,22 +575,18 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Shallow Breathing",
-        "url": "https://open.spotify.com/album/3LW5ZXeG9mkNmVEoEVPee1"
+        "name": "Socorro & J\u00fcpiter",
+        "url": "https://open.spotify.com/album/67qEFDPztO2MNCmuDtwp84"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        },
-        {
-          "name": "Makk Mikkael",
-          "url": "https://open.spotify.com/artist/6L9Z6BUMctKFJPqfTdrpDs"
+          "name": "Felipe Gordon",
+          "url": "https://open.spotify.com/artist/7rQKvsWUOJgXmInx2JuaXj"
         }
       ],
-      "duration_ms": 163298,
-      "name": "Shallow Breathing",
-      "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
+      "duration_ms": 415527,
+      "name": "Socorro & J\u00fcpiter",
+      "url": "https://open.spotify.com/track/4RNDmizeTDGJVqbX4nKSM1"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Petricor",
-        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 204427,
-      "name": "Petricor",
-      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
         "name": "Fleur d'Hiver",
         "url": "https://open.spotify.com/album/4sBW2Pcr7KlMa28FxpAf6e"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 231500,
       "name": "Fleur d'Hiver",
       "url": "https://open.spotify.com/track/6vr5tDOUOTgtRHWCLrTEtX"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
+        "name": "Petricor",
+        "url": "https://open.spotify.com/album/0IVYH4XuCGwV5Xdw6oL1nG"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 204427,
+      "name": "Petricor",
+      "url": "https://open.spotify.com/track/5d4DtQUmvFYubKmOhL0p7m"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Love All",
-        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
-      },
-      "artists": [
-        {
-          "name": "Hanna",
-          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
-        }
-      ],
-      "duration_ms": 474166,
-      "name": "The Forgiven",
-      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
         "name": "Back In Time",
         "url": "https://open.spotify.com/album/5XaWwPKMwZmfzgmpHD82IZ"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
+        "name": "Love All",
+        "url": "https://open.spotify.com/album/2bB5YYEjB0oifCLVfw9m4U"
+      },
+      "artists": [
+        {
+          "name": "Hanna",
+          "url": "https://open.spotify.com/artist/52HDbHT6Lg8gHBR2V8Ed2t"
+        }
+      ],
+      "duration_ms": 474166,
+      "name": "The Forgiven",
+      "url": "https://open.spotify.com/track/78fOcEcQQLJ5n8par9KDkt"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
         "name": "Cherry Skies",
         "url": "https://open.spotify.com/album/5yytMHzOYkzesn2dON2tCe"
       },
@@ -743,6 +743,30 @@
       "duration_ms": 210000,
       "name": "Cherry Skies",
       "url": "https://open.spotify.com/track/2taL7WpjrPMzwn65gVfxqP"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
+        "name": "Air And Darkness (Gobi Desert Collective Remix)",
+        "url": "https://open.spotify.com/album/6FXDseZzOiuquap9iAg2BV"
+      },
+      "artists": [
+        {
+          "name": "Will Vance",
+          "url": "https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4"
+        },
+        {
+          "name": "Tiago Dima",
+          "url": "https://open.spotify.com/artist/5Nkb9Q6AhCgMihr0d9elr2"
+        },
+        {
+          "name": "Gobi Desert Collective",
+          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+        }
+      ],
+      "duration_ms": 220649,
+      "name": "Air And Darkness - Gobi Desert Collective Remix",
+      "url": "https://open.spotify.com/track/3zim3Fk2HBcD42cokAnbsO"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -775,26 +799,6 @@
       "duration_ms": 245202,
       "name": "Gaia - Radio Edit",
       "url": "https://open.spotify.com/track/4ZbY3tViWurTa5JmaitOxX"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
-      },
-      "artists": [
-        {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
-        }
-      ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -835,26 +839,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Air And Darkness (Gobi Desert Collective Remix)",
-        "url": "https://open.spotify.com/album/6FXDseZzOiuquap9iAg2BV"
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
       "artists": [
         {
-          "name": "Will Vance",
-          "url": "https://open.spotify.com/artist/0v21AnGRs4ESeZQTc8VWL4"
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
         },
         {
-          "name": "Tiago Dima",
-          "url": "https://open.spotify.com/artist/5Nkb9Q6AhCgMihr0d9elr2"
-        },
-        {
-          "name": "Gobi Desert Collective",
-          "url": "https://open.spotify.com/artist/2w0J6UmL0Unhj5yqE7rlfp"
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
         }
       ],
-      "duration_ms": 220649,
-      "name": "Air And Darkness - Gobi Desert Collective Remix",
-      "url": "https://open.spotify.com/track/3zim3Fk2HBcD42cokAnbsO"
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
-        "name": "Ritmo Freak",
-        "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
-      },
-      "artists": [
-        {
-          "name": "Zopelar",
-          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
-        },
-        {
-          "name": "Manuel Darquart",
-          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
-        }
-      ],
-      "duration_ms": 297838,
-      "name": "Moonlight",
-      "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -959,6 +939,42 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
+        "name": "Ritmo Freak",
+        "url": "https://open.spotify.com/album/4rtwVUHOGc0T2jgXwe7b1R"
+      },
+      "artists": [
+        {
+          "name": "Zopelar",
+          "url": "https://open.spotify.com/artist/0Qr2iLEeyLhd9rLHH1piYb"
+        },
+        {
+          "name": "Manuel Darquart",
+          "url": "https://open.spotify.com/artist/0mumYdYeqKkr99t3iDEHGS"
+        }
+      ],
+      "duration_ms": 297838,
+      "name": "Moonlight",
+      "url": "https://open.spotify.com/track/5tNVWBaMSqFXPT6K4AtaKx"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 182407,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
         "name": "Too Many Questions (Remix)",
         "url": "https://open.spotify.com/album/7k3U9b32T6jfEvb7FhdjpH"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 293529,
       "name": "Too Many Questions - Soble Remix",
       "url": "https://open.spotify.com/track/1su02HA4IZMCLuLa8VhFYV"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
-        "name": "Falling",
-        "url": "https://open.spotify.com/album/2WqkuyYDmZuiRDe9Y9MgfL"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 182407,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0s2ca6bYZBcJYIkD69p50I"
     },
     {
       "added_at": "2024-08-30 12:23:20",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-08-30 12:23:20",
       "album": {
+        "name": "9",
+        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
+      },
+      "artists": [
+        {
+          "name": "Apparel Wax",
+          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
+        }
+      ],
+      "duration_ms": 284205,
+      "name": "009A1",
+      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
+    },
+    {
+      "added_at": "2024-08-30 12:23:20",
+      "album": {
         "name": "The Universe Is Magic",
         "url": "https://open.spotify.com/album/4wP6VlBoVqWkb6ZIM5Xv6K"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 330379,
       "name": "Love Is The Key",
       "url": "https://open.spotify.com/track/0I5PC3HmM8CP0LmnPyF94B"
-    },
-    {
-      "added_at": "2024-08-30 12:23:20",
-      "album": {
-        "name": "9",
-        "url": "https://open.spotify.com/album/1QAF4JyZ1mqNnuyS0IW9r7"
-      },
-      "artists": [
-        {
-          "name": "Apparel Wax",
-          "url": "https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io"
-        }
-      ],
-      "duration_ms": 284205,
-      "name": "009A1",
-      "url": "https://open.spotify.com/track/6D4hzvjgUZKVOEvH6kGXGd"
     },
     {
       "added_at": "2024-08-30 12:23:20",

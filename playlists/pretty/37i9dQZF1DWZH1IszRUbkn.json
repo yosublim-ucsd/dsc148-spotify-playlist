@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 819,
+  "num_followers": 826,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Las 4 Estaciones, vol. 11",
-        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 50651,
-      "name": "Osos de Paseo",
-      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Vacaciones \u00a1Tope guay!",
         "url": "https://open.spotify.com/album/2PC53ZjpOAO0xxEXujwEcb"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 235773,
       "name": "Mi mam\u00e1",
       "url": "https://open.spotify.com/track/15x7aovQl85p8PsG2DR7hW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Las 4 Estaciones, vol. 11",
+        "url": "https://open.spotify.com/album/1cnYXeqwMikaACiCdX8tI2"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 50651,
+      "name": "Osos de Paseo",
+      "url": "https://open.spotify.com/track/38PxUA2fm5aUcEtsy71qex"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -823,22 +823,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La fiesta de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
-      },
-      "artists": [
-        {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
-        }
-      ],
-      "duration_ms": 72489,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "\u00a1Fantastico!",
         "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 209253,
       "name": "Vacaciones tope guay",
       "url": "https://open.spotify.com/track/4tOdiwIqwF9wSp2hM4KnST"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "La fiesta de cumplea\u00f1os",
+        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+      },
+      "artists": [
+        {
+          "name": "Trepsi",
+          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+        }
+      ],
+      "duration_ms": 72489,
+      "name": "Las ma\u00f1anitas",
+      "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -903,18 +903,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La fiesta de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+        "name": "Canciones De La Granja 2",
+        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Daniela",
+          "url": "https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82"
+        },
+        {
+          "name": "Los Pollitos",
+          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
         }
       ],
-      "duration_ms": 97044,
-      "name": "Cocinar",
-      "url": "https://open.spotify.com/track/3dwP741BSojLKWENmU5hHb"
+      "duration_ms": 181840,
+      "name": "Susanita",
+      "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -935,22 +939,22 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Canciones De La Granja 2",
-        "url": "https://open.spotify.com/album/1yErkJCd2xxtfT8Corxk60"
+        "name": "Por T\u00ed Y Para T\u00ed",
+        "url": "https://open.spotify.com/album/5lY38DKcpTaEsO0s3yzML8"
       },
       "artists": [
         {
-          "name": "Daniela",
-          "url": "https://open.spotify.com/artist/5Dlgh9n67713fZdBNXjX82"
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
         },
         {
-          "name": "Los Pollitos",
-          "url": "https://open.spotify.com/artist/4iVOyYeNMkk6oInxcFmSGb"
+          "name": "Arturo Cabrera",
+          "url": "https://open.spotify.com/artist/2tnkqXDQ6S1FosAwwS0do1"
         }
       ],
-      "duration_ms": 181840,
-      "name": "Susanita",
-      "url": "https://open.spotify.com/track/4itDsTzwhI73m91UoQKICM"
+      "duration_ms": 222577,
+      "name": "Ki Ki K\u00ed - Co Co C\u00f3 (Arturo Cabrera Remix)",
+      "url": "https://open.spotify.com/track/4retjOENUHtaD9bmnNrIIP"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

@@ -4,7 +4,7 @@
 
 > Aktuell musik med etablerade och intressanta artister.
 
-174 songs - 9 hr 54 min
+175 songs - 9 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,10 +27,11 @@
 | [COWBOY](https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP) | [Erika Jonsson](https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx) | [COWBOY](https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t) | 3:23 | 2024-08-29 |  |
 | [D enkla livet](https://open.spotify.com/track/1Ffx3AgCw0vEYBDn9eEd0e) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [D enkla livet](https://open.spotify.com/album/47TXTOoOZnIUFV9WqSKkO0) | 3:28 | 2024-06-27 | 2024-08-09 |
 | [Dekadens](https://open.spotify.com/track/2APlxlSAGJ3KfhWzPbaiBI) | [Lustans Lakejer](https://open.spotify.com/artist/3oB3e3MPyQBX5NttDmNUNN) | [Dekadens](https://open.spotify.com/album/1cn8W6KWoiDuEnb2TYCyIJ) | 3:27 | 2024-06-27 | 2024-08-23 |
+| [Del av dig](https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb) | [Gustaf Norén](https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf) | [Del av dig](https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh) | 3:41 | 2024-09-06 |  |
 | [Den var aldrig jag](https://open.spotify.com/track/3LdjyOCA3Xj5hS4q5y3Pdu) | [Shirley Clamp](https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7) | [Den var aldrig jag](https://open.spotify.com/album/5eJLPau2afg63p9rCHVQL4) | 4:04 | 2024-06-27 | 2024-08-09 |
 | [Det blir inte bättre](https://open.spotify.com/track/6LT4cWGVZPPvXCPIc6Esmi) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn), [Vapendragarna](https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G) | [Det blir inte bättre](https://open.spotify.com/album/1GRP0pIQbFixMkTNnlsNLC) | 3:15 | 2024-06-27 | 2024-08-23 |
 | [Det löser sig med blåbärspaj \- Från "Svenska revyn"](https://open.spotify.com/track/73ZSckcVhaQndTcLpeQEvm) | [Henrik Dorsin](https://open.spotify.com/artist/26ELugcMgfqnLLFQHlhrSd), [Per “Putte” Ekdahls orkester](https://open.spotify.com/artist/4OFi5n5FmjB8GhTTaAdjMg) | [Det löser sig med blåbärspaj \(Från "Svenska revyn"\)](https://open.spotify.com/album/3LguV8haPBBtIQmzdhG9ws) | 4:57 | 2024-08-15 |  |
-| [Det Är Nog Kärlek Ändå](https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l) | [Jimmy Nordstrand](https://open.spotify.com/artist/2luFZL6C83ib0rPuLYdpdX) | [Det Är Nog Kärlek Ändå](https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4) | 3:11 | 2024-08-15 |  |
+| [Det Är Nog Kärlek Ändå](https://open.spotify.com/track/5gI30X0kenwXKCYywp7k3l) | [Jimmy Nordstrand](https://open.spotify.com/artist/2luFZL6C83ib0rPuLYdpdX) | [Det Är Nog Kärlek Ändå](https://open.spotify.com/album/2geXaBfZiPoLcnV8WxMDQ4) | 3:11 | 2024-08-15 | 2024-09-08 |
 | [Dispose of Me](https://open.spotify.com/track/5tffEKZUyEbyThW6FH9VFS) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Dispose of Me](https://open.spotify.com/album/00gOh6il0z2KBhwqWSu3iX) | 3:37 | 2024-06-27 | 2024-08-09 |
 | [DNA](https://open.spotify.com/track/7K0wD27Wui57iJGEVoKCkF) | [Timo Räisänen](https://open.spotify.com/artist/3Z6WVJzHQ12kzNjhzDkIYP), [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl), [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [DNA](https://open.spotify.com/album/5Eia9IVqXdnCdYlH4bYIqy) | 3:10 | 2024-06-27 | 2024-08-16 |
 | [Doftade Dior](https://open.spotify.com/track/0S00zJNQYnZKBN9tSBOrsG) | [Max Niclasson](https://open.spotify.com/artist/3YFWkjFDCNVwkwcbaZuzhQ) | [Doftade Dior](https://open.spotify.com/album/54mXPlUvmsoz3XgcpJFUxA) | 3:55 | 2024-06-27 | 2024-08-23 |

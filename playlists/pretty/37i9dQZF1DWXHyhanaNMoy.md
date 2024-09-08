@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 
 > Summer motion en good vibes\. Cover: Dopebwoy
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,798 likes - 79 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,834 likes - 79 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHyhanaNMoy.md) - [plain]
 | 5 | [Superster](https://open.spotify.com/track/48WY4FtOfNAHD4ren2zTCY) | [Frsh](https://open.spotify.com/artist/19CxlXaWOlZh2pqZrJlHxN), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub) | [Superster](https://open.spotify.com/album/4BFhVJyo8DqDh9vDQM1oY5) | 1:56 |
 | 6 | [PGS](https://open.spotify.com/track/0QfxzAZP55JCJGDFEuYFnj) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [PGS](https://open.spotify.com/album/18OFFjK1s1rudggD1m1Na3) | 2:31 |
 | 7 | [Bruk Up](https://open.spotify.com/track/6HtI4ZekFzDre5JW0nJo1H) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Limitlezz](https://open.spotify.com/artist/4ufyMlueg4tz0JcKNQFHCz), [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Hayvee](https://open.spotify.com/artist/4q2VTTo7isKeFWMgunj5mt) | [Bruk Up](https://open.spotify.com/album/1Tv3WOIFZ3GwMjokd3TQhW) | 2:45 |
-| 8 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:45 |
+| 8 | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/track/66hNFY4mmspK2YKxHaXreq) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV) | [Ma Baby Yo \(Na Leli Yo\)](https://open.spotify.com/album/5yHZHhL6TPgbbeGzSRw35L) | 2:44 |
 | 9 | [After Six](https://open.spotify.com/track/0QvcF7ded1Fcbs0lk4jDR4) | [Broederliefde](https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN), [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [After Six](https://open.spotify.com/album/6NbSaBqFVpRIygXYMSMG8t) | 2:45 |
 | 10 | [Ow Wat Lekker Zeg](https://open.spotify.com/track/2fdhIByUYRVcYOuTRu8U6N) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Young Ellens](https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub), [Anthony Kruijver](https://open.spotify.com/artist/30AN6Y4C5ucThY58PfZAjn) | [Ow Wat Lekker Zeg](https://open.spotify.com/album/7D4uqOqGuBdm7gjLS6D32M) | 2:37 |
 | 11 | [Bati Sanka \(feat\. Saaff, Kempi & Tyrell\)](https://open.spotify.com/track/5VPGAximLdBE9CaZdmY8bG) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Saaff](https://open.spotify.com/artist/5N0oMOcqrh2ycDSKCo3raQ), [Kempi](https://open.spotify.com/artist/0FWWBkIJD4tvlDzB4O8XT7), [Tyrell](https://open.spotify.com/artist/17f7FSs8hywo3qdcH8ukek) | [Bati Sanka \(feat\. Saaff, Kempi & Tyrell\)](https://open.spotify.com/album/6q19LKx8Z9uIHlqZ2StsQg) | 2:07 |

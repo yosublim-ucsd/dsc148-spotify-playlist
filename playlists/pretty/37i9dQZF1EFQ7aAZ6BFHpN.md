@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 337 likes - 148 songs - 11 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 338 likes - 148 songs - 11 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -151,10 +151,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 141 | [Our Little Kitchenette](https://open.spotify.com/track/0AQlJlTXS8S812djx0LRJt) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Rebecca Luker](https://open.spotify.com/artist/5KXbASGgemRL6AkTtwH1if), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 3:22 |
 | 142 | [Sumartid](https://open.spotify.com/track/7n69jT21lZMfG0n4AcSebs) | [Gerd Michaelsen](https://open.spotify.com/artist/03Xqh5fw9mUwbR28LAQNNr) | [Stille Ballade](https://open.spotify.com/album/0hc2dN14KACxyXx2hQImjs) | 4:28 |
 | 143 | [A Corner of Heaven with You](https://open.spotify.com/track/224N7d1XLDBbBgOZ6QmyBv) | [Earl Okin](https://open.spotify.com/artist/5NVqliGdTXQoIfOTTzAKxk) | [Songs from a Basement](https://open.spotify.com/album/4quNKedgvcKb3yepHw9OgS) | 3:54 |
-| 144 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 |
-| 145 | [Just Supposing](https://open.spotify.com/track/6xiBjih1c1K1OI7juHhqNO) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W), [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 2:51 |
+| 144 | [Just Supposing](https://open.spotify.com/track/6xiBjih1c1K1OI7juHhqNO) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [B.G\. DeSylva](https://open.spotify.com/artist/6gUmNDRe7Llb3VzbskeuxU), [Philip Chaffin](https://open.spotify.com/artist/4Y52j2FlUUCfcOa5WuX31W), [Sara Jean Ford](https://open.spotify.com/artist/623OjNkhQw1xarNCQZqiO3) | [Sweet Little Devil: World Premiere Recording](https://open.spotify.com/album/3OTTawPGr9Gk4wxT1vk6x3) | 2:51 |
+| 145 | [You Started It](https://open.spotify.com/track/4eNA2fvVW2rZQiU4whUHoo) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Frederick Hodges](https://open.spotify.com/artist/7Ag8IpdEfkvkjbKhytoiFv) | [Do It Again: Frederick Hodges Plays the Music of George Gershwin](https://open.spotify.com/album/3nvK08h8vItkdLdlrYwGdt) | 4:37 |
 | 146 | [The Life Of A Rose](https://open.spotify.com/track/1Aufh3lEEZWJx1z5iqcDm7) | [前田祐希](https://open.spotify.com/artist/4Po73izFwEqVrjRVnnH8ks), [柴野さつき](https://open.spotify.com/artist/38BUVTxULHjh8JxpJCBwJu) | [JAZZ AGE GERSHWIN SONG BOOK Ⅱ](https://open.spotify.com/album/68JFr9RwdwhnC07ECuRN7b) | 2:18 |
 | 147 | [Mary, Queen Of Scots](https://open.spotify.com/track/5CSSuStXPBgDlh9zpWiVI6) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [Primrose](https://open.spotify.com/album/3vzbMJ8Ft5sE4y8pzNv782) | 3:40 |
 | 148 | [If God Want to Kill Me](https://open.spotify.com/track/7FA747HPTXCToNteipCCab) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4) | [George Gershwin's Complete Porgy and Bess \(Hd Remastered\)](https://open.spotify.com/album/1cCswl4XmfcFPvuExNOapI) | 2:05 |
 
-Snapshot ID: `Abbc3gAAAAB4LO1WSceKVQYH0X1TYuee`
+Snapshot ID: `AbbifgAAAAADJxugxzvhvBn7cSjHchaO`

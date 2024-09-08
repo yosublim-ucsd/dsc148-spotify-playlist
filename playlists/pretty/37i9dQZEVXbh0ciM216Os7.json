@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADcA0kTd0GB4egfkvD257hU",
+  "snapshot_id": "AAAAAAAAAAAXGA/jKMLRVIcA0Lg2qTp4",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -67,6 +67,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "BLAKAMERIKA Presents: LOVE LASTS FOREVER",
+        "url": "https://open.spotify.com/album/3lCxVVRYSAwQljR4Q4NUkA"
+      },
+      "artists": [
+        {
+          "name": "Destroy Lonely",
+          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 274308,
+      "name": "LOVE HURTS (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/4hv4ABZWFVafkJFbaLeJcR"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Hate Me If You Want",
         "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
       },
@@ -103,38 +123,34 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "C,XOXO - Magic City Edition",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+        "name": "GOD LIKE",
+        "url": "https://open.spotify.com/album/1JujdVSpGWGZdgLOxrPGnn"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        }
-      ],
-      "duration_ms": 216471,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Wu-Tang Forever",
-        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
-      },
-      "artists": [
+          "name": "Natethoven",
+          "url": "https://open.spotify.com/artist/1Jsx15C8czIFyjj1Af3zgg"
+        },
         {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+          "name": "Dj Goadman",
+          "url": "https://open.spotify.com/artist/6NPwUjy7W8MUmuKIHFEX73"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
+        },
+        {
+          "name": "Papoose",
+          "url": "https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG"
         }
       ],
-      "duration_ms": 228705,
-      "name": "Faces",
-      "url": "https://open.spotify.com/track/0eyp3Gf2Altoho3lljv7PJ"
+      "duration_ms": 205312,
+      "name": "GOD LIKE",
+      "url": "https://open.spotify.com/track/6K1hdecjtwrb8APaaHwZkD"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -155,26 +171,6 @@
       "duration_ms": 226666,
       "name": "Kings",
       "url": "https://open.spotify.com/track/5bNGoZDMjqkgJlVYJVqDln"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "BLAKAMERIKA Presents: LOVE LASTS FOREVER",
-        "url": "https://open.spotify.com/album/3lCxVVRYSAwQljR4Q4NUkA"
-      },
-      "artists": [
-        {
-          "name": "Destroy Lonely",
-          "url": "https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 274308,
-      "name": "LOVE HURTS (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/4hv4ABZWFVafkJFbaLeJcR"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -211,6 +207,22 @@
       "duration_ms": 220800,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/1lKrSYxevq2gLfbHmfuxge"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -403,6 +415,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 151274,
+      "name": "Something (feat. Syd)",
+      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Checkpoint (Violence)",
         "url": "https://open.spotify.com/album/01mPcb9CDbcdM5J91AcKMe"
       },
@@ -443,26 +475,6 @@
       "duration_ms": 187795,
       "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
       "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/5k6ugioZRgd4ixRgtgORhs"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 151274,
-      "name": "Something (feat. Syd)",
-      "url": "https://open.spotify.com/track/3K6ydbKCBXLG0dFq6771kb"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -603,30 +615,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Mother & Gun",
-        "url": "https://open.spotify.com/album/0HezElJpeoef1ZPUEUn9S0"
-      },
-      "artists": [
-        {
-          "name": "38 Spesh",
-          "url": "https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Ti-Lar Bee",
-          "url": "https://open.spotify.com/artist/1cMcZRsQILT1SMFYOJpOKG"
-        }
-      ],
-      "duration_ms": 156450,
-      "name": "Speshal Methods (feat. Ti-Lar Bee)",
-      "url": "https://open.spotify.com/track/7B147kRLeLAnlpTnyqBkhe"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Wrong Thing (with Kash'd Out)",
         "url": "https://open.spotify.com/album/0WSqUBxNebDF9ZzHygt3wT"
       },
@@ -675,66 +663,6 @@
       "duration_ms": 203256,
       "name": "Freezing (Arr. D'Angelo for Voice, Piano, Guitar and Bass)",
       "url": "https://open.spotify.com/track/6xx5ilZQtqQlg13FaUgMTI"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "VULTURES 2",
-        "url": "https://open.spotify.com/album/5RV2TNyjylqWJNxQyHBTeJ"
-      },
-      "artists": [
-        {
-          "name": "\u00a5$",
-          "url": "https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FRIED",
-      "url": "https://open.spotify.com/track/4Qay2jEWJYjXmJ8eNOGtaD"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "ORQU\u00cdDEAS PARTE 2 - Deluxe",
-        "url": "https://open.spotify.com/album/1quQQFsx3AcBBotzj9UXfS"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 232804,
-      "name": "Young Rich & In Love - KAYTRANADA Remix",
-      "url": "https://open.spotify.com/track/10fjbhUqc1fWBt5H42BZCQ"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "The Embrace, Vol. 1",
-        "url": "https://open.spotify.com/album/2H0HAgQ3kSplCUvca5Hvkb"
-      },
-      "artists": [
-        {
-          "name": "Noah Halpern",
-          "url": "https://open.spotify.com/artist/4nOk7W3A282Jh3bVeLZxSm"
-        },
-        {
-          "name": "Micah Thomas",
-          "url": "https://open.spotify.com/artist/1ocNmvgQknyDwriWQq3OrO"
-        }
-      ],
-      "duration_ms": 223862,
-      "name": "Lost in Your Eyes (Solo Piano)",
-      "url": "https://open.spotify.com/track/6hqXMeSe9Ecjvcj5Jj6gZe"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -2,7 +2,7 @@
 
 ### [This Is Perdidos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU)
 
-> This is Perdidos De Sinaloa\. Todos os maiores hits em uma só playlist.
+> This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
 120 songs - 6 hr 47 min
 

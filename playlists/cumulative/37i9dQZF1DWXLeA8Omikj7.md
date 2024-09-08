@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-978 songs - 2 day 22 hr 13 min
+979 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Connected \- Original Mix](https://open.spotify.com/track/0moaUKScPf9pFxgd3ThIKK) | [Melosense](https://open.spotify.com/artist/0mGQfVACilxbziAemzyhq9) | [Connected](https://open.spotify.com/album/4kYYZMZ3ytcqSVLq4ZN40A) | 5:25 | 2019-05-26\* | 2019-06-19 |
 | [Constelación](https://open.spotify.com/track/4sqP2Dq2ATZg255culXEQU) | [Plato](https://open.spotify.com/artist/4mvTxzyBjXb0ml6xxlhfDQ), [Sonambient](https://open.spotify.com/artist/6kWBanEb3KNwDZ0ubLY4Yn) | [Controforma pt.2](https://open.spotify.com/album/0QCEj9tNwFC4BLSFbWui90) | 4:48 | 2023-04-28 | 2024-07-27 |
 | [Contain \(In Key\)](https://open.spotify.com/track/7741k8FIhIzCt1gTA0F42J) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy), [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Chilly Gonzales](https://open.spotify.com/artist/0qudezVgvl4Chd9BgNFB83) | [Contain \(In Key\)](https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo) | 8:08 | 2022-03-04 | 2022-04-21 |
+| [Continuum 3](https://open.spotify.com/track/0AXfx8KBcjY3TlrHmApvNr) | [Nala Sinephro](https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO) | [Endlessness](https://open.spotify.com/album/51CQQ3tQLRZlZJZ5jcpoGE) | 4:07 | 2024-09-06 |  |
 | [Cool Air](https://open.spotify.com/track/3JNaX9HIye0QI4cnWhLHDY) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac), [Allie Donelly](https://open.spotify.com/artist/5XZGB0O2VrWW8PkulhNjcC) | [Cool Air](https://open.spotify.com/album/69R2lqNZBrVmn4iRCnpAHq) | 4:30 | 2021-05-03 | 2022-11-23 |
 | [cop some Z's](https://open.spotify.com/track/4TU9UCR6tSzSaGvM81XCEc) | [lowkolos](https://open.spotify.com/artist/0mfESW5VTWINXdcfO9z9cN), [Yank](https://open.spotify.com/artist/4aMDYZYhG3yZXMpXcup9P3) | [HAXIM](https://open.spotify.com/album/54fWXaPiW7whO9d63nzZSg) | 5:49 | 2020-08-26 | 2020-10-22 |
 | [Cornerstones](https://open.spotify.com/track/75ZrgQgtBOMbYreeYRTT0r) | [PrototypeRaptor](https://open.spotify.com/artist/1OpE6RVs0OBi3NtYklybgW) | [Cornerstones](https://open.spotify.com/album/5U4wom5gySSkmf6KYXvLts) | 3:52 | 2019-05-26\* | 2020-08-26 |
@@ -520,7 +521,7 @@
 | [Memory Arc](https://open.spotify.com/track/74EnBZX68SMjd6rTylcpPe) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Persona](https://open.spotify.com/album/4ciNhQuziH6TtbRbDaHicN) | 2:13 | 2019-06-19\* | 2022-04-19 |
 | [memphis](https://open.spotify.com/track/1gr3wnx384k5kcQAs2S1FA) | [Remy Van Kesteren](https://open.spotify.com/artist/5x183GdNFhX9FETwGNpOZE) | [memphis](https://open.spotify.com/album/2EGO4ULEQ7dq6tW0G1fbYQ) | 3:14 | 2022-03-11 |  |
 | [Mercy Falls](https://open.spotify.com/track/6oSxm8jKgVbrlKo4Ktd1qr) | [CharlestheFirst](https://open.spotify.com/artist/2FTj5ijy8lP59d2V9dHR6I) | [The Reach EP](https://open.spotify.com/album/2HVGlBI4fH2y5pDBZ6WhZf) | 3:13 | 2019-06-19\* | 2020-08-26 |
-| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 |  |
+| [Merlins Head \- Aparde Remix](https://open.spotify.com/track/6P34heTQ18iaF6sKWCa8TW) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Juno \(Remixes\)](https://open.spotify.com/album/6cJZO8hsPb3cnTHO2L0Y8C) | 4:39 | 2021-10-22 | 2024-09-08 |
 | [Metro](https://open.spotify.com/track/2c6JKsE4PPXOtlD5ehbVIS) | [The EMBR](https://open.spotify.com/artist/5td7Gb5zym0uodrde5koHp) | [Metro](https://open.spotify.com/album/0GV6XG6ygQkjF1JuDdpazQ) | 2:32 | 2019-06-19\* | 2020-08-26 |
 | [Midnite](https://open.spotify.com/track/6hhq4YSYbt8ajR3j3mVcHv) | [Unoriginals](https://open.spotify.com/artist/6LUOePAzkWw3iTrAzfiP1d) | [Midnite](https://open.spotify.com/album/4kxI7zTFmwZcfbLfZ1KgJV) | 3:03 | 2019-06-19\* | 2020-08-26 |
 | [Miniature](https://open.spotify.com/track/2Tt3QTJW4mFiJ8kB97U0pU) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Miniature](https://open.spotify.com/album/4B17VWg6cInzyyzyDl1WV4) | 3:05 | 2019-07-25 | 2022-04-20 |

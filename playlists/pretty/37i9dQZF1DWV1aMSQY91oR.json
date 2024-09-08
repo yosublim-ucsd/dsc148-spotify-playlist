@@ -1,6 +1,6 @@
 {
   "description": "The latest hip-hop, refreshed weekly. Cover: A$AP Rocky & J. Cole",
-  "num_followers": 9942,
+  "num_followers": 9947,
   "original_name": "New Hip-Hop",
   "owner": {
     "name": "Spotify",
@@ -182,6 +182,10 @@
         {
           "name": "MELODOWNZ",
           "url": "https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H"
+        },
+        {
+          "name": "Hyan",
+          "url": "https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU"
         }
       ],
       "duration_ms": 160000,

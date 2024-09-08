@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Viva o rock nacional! Ouça o melhor do rock brasileiro\. Foto: Zimbra
 
-[Spotify](https://open.spotify.com/user/spotify) - 498,579 likes - 80 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 498,562 likes - 80 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 15 | [Não te quero mais \(Marte\)](https://open.spotify.com/track/2F7JJHOoEX23uSpyClSoH3) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [Não te quero mais \(Marte\)](https://open.spotify.com/album/6A1jGleeIH2RtjqU1k3hGX) | 3:22 |
 | 16 | [Mais uma vez](https://open.spotify.com/track/79VJmKsxklamRPSDusWmms) | [Detonautas Roque Clube](https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9) | [Detonautas Acústico \(Deluxe\)](https://open.spotify.com/album/0mHk0k9Nh9hKhrVB9trJQa) | 3:50 |
 | 17 | [SÍNDROME](https://open.spotify.com/track/7zokcBQvRtGAAEpCBPuWgp) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [SÍNDROME](https://open.spotify.com/album/6JT8tYN9ARTzeSkHyLbe8y) | 3:03 |
-| 18 | [Paga Pra Ver \- Álbum De Peito Aberto](https://open.spotify.com/track/1kQNlfkwvn4inbbcaO6ttq) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Paga Pra Ver \- Álbum De Peito Aberto](https://open.spotify.com/album/5ph3QWd7UkCPj5yQ1SaOtl) | 2:11 |
+| 18 | [Paga Pra Ver \(Álbum De Peito Aberto\)](https://open.spotify.com/track/1kQNlfkwvn4inbbcaO6ttq) | [Txéllo](https://open.spotify.com/artist/4VS0ojdhDJZt9DDTyjZDKU) | [Paga Pra Ver \- Álbum De Peito Aberto](https://open.spotify.com/album/5ph3QWd7UkCPj5yQ1SaOtl) | 2:11 |
 | 19 | [Teu Sangue](https://open.spotify.com/track/2Qh8h9ulpgaoBpKslweA75) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Hecto](https://open.spotify.com/artist/0HVR1Glif6i2NiU9OzYCJ9) | [Teu Sangue](https://open.spotify.com/album/5Z1N7u5zetgCctRkRqwSPW) | 3:16 |
 | 20 | [Me Odeie](https://open.spotify.com/track/19tvvbb1Y5yRgsdPwmzZjG) | [Reação Em Cadeia](https://open.spotify.com/artist/4pANXhF65AgL4mE9PybDJJ) | [Me Odeie](https://open.spotify.com/album/6mdnqJZWtDLD6XzCeBmhvH) | 3:15 |
 | 21 | [Casa em Chamas](https://open.spotify.com/track/7tDN8rGr36XbwKdiQrwstq) | [Bratislava](https://open.spotify.com/artist/3I8XI4F1zuQYD6JwRmbLbY) | [Casa em Chamas](https://open.spotify.com/album/7BOKJpTRHKgNfxZ22tWuTg) | 4:11 |

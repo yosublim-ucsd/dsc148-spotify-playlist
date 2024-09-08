@@ -1,13 +1,69 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 07 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 22:02 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALDBjRg33h6zYc4LwKtHeIAuS/rrZ0",
+  "snapshot_id": "AAALElNj/nUDpQb5EUdlPBGPRmAj6E53",
   "tracks": [
+    {
+      "added_at": "2024-09-07 10:02:43",
+      "album": {
+        "name": "Identities",
+        "url": "https://open.spotify.com/album/6Ws06aKAmgZ5yNW2cQtYVY"
+      },
+      "artists": [
+        {
+          "name": "HalaCG",
+          "url": "https://open.spotify.com/artist/0Tbadays3Z2K3BxmvjL34J"
+        },
+        {
+          "name": "WUNDER RiKU",
+          "url": "https://open.spotify.com/artist/0HG6vVTU6aGNO0F3Bug23k"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Identities",
+      "url": "https://open.spotify.com/track/2ZeKGpg1o2lzyMdmsuNgqi"
+    },
+    {
+      "added_at": "2024-09-07 22:02:50",
+      "album": {
+        "name": "Burst My Bubble",
+        "url": "https://open.spotify.com/album/4xgLmLH8ZLceQPA6Wx3xYK"
+      },
+      "artists": [
+        {
+          "name": "Bao The Whale",
+          "url": "https://open.spotify.com/artist/2TERX3Wyzpip8d9uw07qYZ"
+        }
+      ],
+      "duration_ms": 200571,
+      "name": "Burst My Bubble",
+      "url": "https://open.spotify.com/track/4ZRNfe85ac4F6mYLfZdjOP"
+    },
+    {
+      "added_at": "2024-09-07 04:02:46",
+      "album": {
+        "name": "Im Talking Now, Can You Stfu? :D",
+        "url": "https://open.spotify.com/album/2VNSHREeG6nyNhfkk0dUwR"
+      },
+      "artists": [
+        {
+          "name": "Acidgvrl",
+          "url": "https://open.spotify.com/artist/2t8HUWYrP4w6hQmhVVX80f"
+        },
+        {
+          "name": "Y\u00fbmi",
+          "url": "https://open.spotify.com/artist/3m8rTxRDybQjzmsC0DU1ni"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "Im Talking Now, Can You Stfu? :D",
+      "url": "https://open.spotify.com/track/3MoX0podAnvmoXqBQwS6bz"
+    },
     {
       "added_at": "2024-09-06 16:02:43",
       "album": {
@@ -871,62 +927,6 @@
       "duration_ms": 110222,
       "name": "Job Application",
       "url": "https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae"
-    },
-    {
-      "added_at": "2024-09-06 04:03:32",
-      "album": {
-        "name": "ZOMBIE",
-        "url": "https://open.spotify.com/album/6FJ3tswJyG8KFyKcILyy99"
-      },
-      "artists": [
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 118878,
-      "name": "ZOMBIE",
-      "url": "https://open.spotify.com/track/5xBX9Wx8eU9ZBHzKyBVWQZ"
-    },
-    {
-      "added_at": "2024-09-06 04:03:32",
-      "album": {
-        "name": "Mrs Dior",
-        "url": "https://open.spotify.com/album/7kypXLN1ED1BzGwvhaXN2D"
-      },
-      "artists": [
-        {
-          "name": "Sad Night Dynamite",
-          "url": "https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7"
-        }
-      ],
-      "duration_ms": 192469,
-      "name": "Mrs Dior",
-      "url": "https://open.spotify.com/track/2rtUDwDS4didOMYoCqPJ1E"
-    },
-    {
-      "added_at": "2024-09-06 10:02:59",
-      "album": {
-        "name": "Shmoke (feat. A$AP Ferg & Armani Caesar)",
-        "url": "https://open.spotify.com/album/5TSO7S6SKIyZPDSubLApMd"
-      },
-      "artists": [
-        {
-          "name": "Powers Pleasant",
-          "url": "https://open.spotify.com/artist/0fYw4bch7qTxBZLS3rSVMj"
-        },
-        {
-          "name": "A$AP Ferg",
-          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
-        },
-        {
-          "name": "Armani Caesar",
-          "url": "https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Shmoke (feat. A$AP Ferg & Armani Caesar)",
-      "url": "https://open.spotify.com/track/2AqKCCM6M4XbABHPOwJnB5"
     }
   ],
   "unique_name": "New Singles Now",

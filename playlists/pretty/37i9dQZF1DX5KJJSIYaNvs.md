@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 
 > Listen to women at full volume\. Cover \- Shreya Ghoshal
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,445 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,460 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KJJSIYaNvs.md) - [plain]
 | 21 | [Mummy Ji \- From "Vedaa"](https://open.spotify.com/track/4SPgouFDiL8ekkaqL9hhrb) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Prajakta Shukre](https://open.spotify.com/artist/025mNMOyhsDIKHAVTHp9xB), [Himani Kapoor](https://open.spotify.com/artist/6G2dxtT1uVQuzErBZsw7Ur) | [Mummy Ji \- From "Vedaa"](https://open.spotify.com/album/0Zxpq4d4E9OpowH7jmzqcl) | 3:22 |
 | 22 | [ZID](https://open.spotify.com/track/036DrB9LguQLZUnxKcjctQ) | [Sukriti Kakar](https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM), [Prakriti Kakar](https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86), [Bharatt\-Saurabh](https://open.spotify.com/artist/2BNj9F2NMmWTRpO3S3C0dK) | [ZID](https://open.spotify.com/album/1Yi80QjxTA9KfqqZtbmyxo) | 3:24 |
 | 23 | [Party Fever](https://open.spotify.com/track/2tbzVCoQSiQZ8oEmtdN6hF) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Agni](https://open.spotify.com/artist/3PPwUrqoLq5PbPq5p1onrZ), [Aditya Dev](https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs) | [Party Fever](https://open.spotify.com/album/2qVdGp8BiMtpnPYSAaJGZ8) | 3:00 |
-| 24 | [Aaja Oye](https://open.spotify.com/track/5QbETxQqCPbXdtpnhTz01i) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Ulajh \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ZaDeJrwMgfJExajojAuwC) | 2:37 |
+| 24 | [Aaja Oye \- From "Ulajh"](https://open.spotify.com/track/5QbETxQqCPbXdtpnhTz01i) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9) | [Ulajh \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3ZaDeJrwMgfJExajojAuwC) | 2:37 |
 | 25 | [Rabb Warga \- Neeti Mohan Version](https://open.spotify.com/track/2s5qPuDXoeVzKsPOmD9vXd) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Bad Newz](https://open.spotify.com/album/6bqZS60eLo3NhEQDtuUGaW) | 2:51 |
 | 26 | [Keh Bhi Do Na](https://open.spotify.com/track/3rBLnjB91z4KDGqIFIG3lB) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Dil Se](https://open.spotify.com/album/241jm308Fldzh7BFcNJWzS) | 3:07 |
 | 27 | [O Re Dariya](https://open.spotify.com/track/0P3jnA2UvdKSkbnDBQBVw9) | [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3), [Ram Sampath](https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx), [JUNO](https://open.spotify.com/artist/0uwbmn6SWX4kujbrDTnjaj) | [Tribhuvan Mishra CA Topper \- Vol\. 1 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2sGjm8VQz1qPiaYdJRc7m0) | 3:30 |

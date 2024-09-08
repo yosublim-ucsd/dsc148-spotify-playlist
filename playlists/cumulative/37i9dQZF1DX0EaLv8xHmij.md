@@ -4,7 +4,7 @@
 
 > O grime e o drill feitos no Brasil, naquele pique: tracksuit, camisa de time e flow embaçado\. Foto: Kyan, Mc Binn, Jovem MK, Dalsin, Mu540
 
-328 songs - 15 hr 9 min
+329 songs - 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Mambo](https://open.spotify.com/track/6pEUOh2nY8FtgNqY7snNpE) | [Bob do Contra](https://open.spotify.com/artist/4DITWCDQL8b3VZTBYpNDR9) | [Mambo](https://open.spotify.com/album/0I4gVqSyz877vvYtfOPv41) | 2:18 | 2023-10-13 | 2023-11-11 |
 | [Mandamentos](https://open.spotify.com/track/3908Zr5sUTzlvgY37QY5TU) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq) | [Mandamentos](https://open.spotify.com/album/48jIDwzs6XhGCKOA0HeCmy) | 2:55 | 2022-03-18 |  |
 | [Mantendo a Gestão](https://open.spotify.com/track/3fE7EV4xJIwbokMOgAwpOv) | [MC Murilo ZS](https://open.spotify.com/artist/4cZt4IBdd98Z4D0HcRGppp), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [Mantendo a Gestão](https://open.spotify.com/album/4dRnNuLOp1cpSNq5ybZ9wx) | 1:36 | 2024-06-21 | 2024-08-10 |
+| [Maria Bonita](https://open.spotify.com/track/40eU3hvkbKMnadojsxXJd9) | [Don Hadji](https://open.spotify.com/artist/51K9FXuYEehpePo8NAQBSi), [Fashion Piva](https://open.spotify.com/artist/4BvRiHSL8MkEyohJoY7lyk), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Maria Bonita](https://open.spotify.com/album/1qmpjQ3PC0cCslRyVsQQS9) | 2:37 | 2024-09-07 |  |
 | [Marra De Bandido](https://open.spotify.com/track/5Jrl9gHAQqZ1NczxHn2IA2) | [Fella Rap](https://open.spotify.com/artist/0qdqMdbxiKiRrQ84Z8RRhB), [Brasil Grime Show](https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT), [diniBoy](https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU), [Aguiar](https://open.spotify.com/artist/2V5XSRMcoCZTHAoN7ShqmS), [Crow](https://open.spotify.com/artist/44pAmp33rQVeeIcgkHt3bS) | [Marra De Bandido](https://open.spotify.com/album/5khNAvlB0vRr4N07Ylkcf7) | 3:21 | 2023-07-28 | 2023-12-23 |
 | [Marroquino](https://open.spotify.com/track/3rZwIt7kOsepeSbEmkUlbi) | [Wander$](https://open.spotify.com/artist/0INAug9yOHJOrxfxZx5Dv7), [Scooby](https://open.spotify.com/artist/5hPR4hVEcnsIv4A2OAhNAd), [8gutta](https://open.spotify.com/artist/00FppYW0qruQRmMpy21jAJ) | [Marroquino](https://open.spotify.com/album/0CSb2tFG8INHOY7O7OnFeB) | 2:24 | 2023-07-21 | 2023-09-23 |
 | [Matemática](https://open.spotify.com/track/1xRxdXBGDY5O89pKp40i0L) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 2:14 | 2022-04-29 | 2023-06-03 |

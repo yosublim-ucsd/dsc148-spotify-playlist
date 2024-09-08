@@ -1,6 +1,6 @@
 {
   "description": "\u00c4ntligen fredag och ny musik! Happy New Music Friday!",
-  "num_followers": 215286,
+  "num_followers": 215331,
   "original_name": "New Music Friday Sweden",
   "owner": {
     "name": "Spotify",
@@ -761,7 +761,11 @@
         },
         {
           "name": "TANTAN",
-          "url": "https://open.spotify.com/artist/22WLKBeI4ofh8PKKiqVwJr"
+          "url": "https://open.spotify.com/artist/1cievhIWm14RMdJPC57gYi"
+        },
+        {
+          "name": "Alma",
+          "url": "https://open.spotify.com/artist/5uZbVKq45nBJMTqDAmhXia"
         }
       ],
       "duration_ms": 150247,
@@ -927,7 +931,7 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Del av dig - Radio Edit",
+        "name": "Del av dig",
         "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
       },
       "artists": [
@@ -937,7 +941,7 @@
         }
       ],
       "duration_ms": 221418,
-      "name": "Del av dig - Radio Edit",
+      "name": "Del av dig",
       "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {

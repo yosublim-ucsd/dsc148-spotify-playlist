@@ -511,6 +511,24 @@
     },
     {
       "album": {
+        "name": "KARA 4th Album [Full Bloom] (4)",
+        "url": "https://open.spotify.com/album/0W2QlrSKNnvpXZl3LgFNhv"
+      },
+      "artists": [
+        {
+          "name": "KARA",
+          "url": "https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186044,
+      "name": "Damaged Lady",
+      "url": "https://open.spotify.com/track/1X1Z8YnSOYkgzWBEYGoF2M"
+    },
+    {
+      "album": {
         "name": "Girl's Day Love Second Album",
         "url": "https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me"
       },
@@ -2108,7 +2126,7 @@
       ],
       "date_added": "2021-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-08",
       "duration_ms": 209104,
       "name": "Rough",
       "url": "https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL"

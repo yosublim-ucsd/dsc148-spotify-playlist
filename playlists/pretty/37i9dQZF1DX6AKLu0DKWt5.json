@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6398,
+  "num_followers": 6399,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
+        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
+        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+      },
+      "artists": [
+        {
+          "name": "Robbie Robertson",
+          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+        }
+      ],
+      "duration_ms": 171425,
+      "name": "Osage Oil Boom",
+      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
         "name": "ANATOMIE D'UNE CHUTE (Musique Originale)",
         "url": "https://open.spotify.com/album/1NB0OhXSZpxJDKZJq5tw8o"
       },
@@ -451,18 +467,18 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Killers of the Flower Moon (Soundtrack from the Apple Original Film)",
-        "url": "https://open.spotify.com/album/43MjCtL4DwTxc1DhXK9Kpp"
+        "name": "Past Lives (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
       },
       "artists": [
         {
-          "name": "Robbie Robertson",
-          "url": "https://open.spotify.com/artist/5R6GD31ZP8YPGIlt73Madf"
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
         }
       ],
-      "duration_ms": 171425,
-      "name": "Osage Oil Boom",
-      "url": "https://open.spotify.com/track/5CT03vQttU9NE2jEwT3rEY"
+      "duration_ms": 217648,
+      "name": "Quiet Eyes",
+      "url": "https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG"
     },
     {
       "added_at": "2023-12-19 16:37:32",
@@ -483,22 +499,6 @@
       "duration_ms": 69626,
       "name": "Confirming Hal's Story",
       "url": "https://open.spotify.com/track/1HDs5K0y7hXzoVs6Gm8Udg"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
-        "name": "Past Lives (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2JwAMKpwk4IolH2KhF6nPn"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 217648,
-      "name": "Quiet Eyes",
-      "url": "https://open.spotify.com/track/2r1pq34i8ddPXyxvfqDBCG"
     },
     {
       "added_at": "2023-12-19 16:37:32",

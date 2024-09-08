@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Viikon parhaat uutuusbiisit samassa paketissa\. Kannessa Ultra Bra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,471 likes - 116 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,485 likes - 116 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 10 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 |
 | 11 | [Vielki kentil](https://open.spotify.com/track/3vXmC0auELL4TiSdcEeLcC) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4) | [Vielki kentil](https://open.spotify.com/album/3R18RGuJLRLmLHpqdqS5Iq) | 3:02 |
 | 12 | [Valentine](https://open.spotify.com/track/2wtFX3sqT1n2vqNXomQuPz) | [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Valentine](https://open.spotify.com/album/0KSyqpwyyp2hl3CEFbY0sg) | 2:46 |
-| 13 | [Jorma](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [Jorma](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 |
+| 13 | [JORMA](https://open.spotify.com/track/27E5yfWXypHK18dcwEB0cV) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4) | [JORMA](https://open.spotify.com/album/4c0HtgvUZ3Agx3AoLDP5bx) | 2:33 |
 | 14 | [Hollywood Heels](https://open.spotify.com/track/5LkXsmoqz2aRlmCOQfw3g6) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hollywood Heels](https://open.spotify.com/album/5RPhWyuRDMzQX4o17H56a9) | 3:17 |
 | 15 | [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 |
 | 16 | [Vippipöytä huudeilla \(feat\. JV\)](https://open.spotify.com/track/152IZJyxREI8WFSSaWpQHZ) | [Eevil Stöö](https://open.spotify.com/artist/0hD2uZfgcwrRRMcPYQ45pf), [JV](https://open.spotify.com/artist/4X4k68di2P4I0tbSsLgnp3) | [ATOG](https://open.spotify.com/album/61ROchLRecuGLKRhNVJiQk) | 2:44 |
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 | 23 | [GODSPEED](https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [C,XOXO \- Magic City Edition](https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm) | 3:36 |
 | 24 | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/track/288AqC7SebjSQh5SGa6diI) | [Uniikki](https://open.spotify.com/artist/1Q0Vv9aJFSOCFFHsH3seWX), [Finanssiveli](https://open.spotify.com/artist/1lQle7p1O9Km6lVr98cNsf) | [Finanssiveli \(feat\. Finanssiveli\)](https://open.spotify.com/album/7G6ZryN0DX8o4Ua8cdjpKJ) | 2:45 |
 | 25 | [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 |
-| 26 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg), [Antti Hermaja](https://open.spotify.com/artist/1Yv8BKa64B1WoHNKNM1ps7), [Merita Berg](https://open.spotify.com/artist/5n4CO2wjvZ60BVA0nBAEn9), [Virtalähde Mastering](https://open.spotify.com/artist/2uiOFW1YGfGNf8D8PYZlM3), [Olli Puolakka](https://open.spotify.com/artist/3omRQVtuSJNS5U9UQlkm8j), [Jenni Kinnunen](https://open.spotify.com/artist/60s17Hbp1QzZ2awA2QD0e8), [Antti Vuorenmaa](https://open.spotify.com/artist/6EbdYqp9YBqA4LpGETsV4j), [Karoliina Laukola](https://open.spotify.com/artist/56wkpiQpkWf5vTTqwTpH9r) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
+| 26 | [Leipäkivet](https://open.spotify.com/track/2oUtWlK9rnTXMbM5meb0ah) | [Rosita Luu](https://open.spotify.com/artist/36Vdx8JtR9dT3MSbYX4apg) | [Yöeläin](https://open.spotify.com/album/13q8FAhJ2aczJl3UYMnVgI) | 4:23 |
 | 27 | [Young Again](https://open.spotify.com/track/1jc8a5v2ewbx7jAj8nTfHs) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [Young Again](https://open.spotify.com/album/5kVE6Fu72iprhv4sDL26ym) | 3:16 |
 | 28 | [Michael, the Knight](https://open.spotify.com/track/4pZNDJqmNB68cFlTE3VCrz) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Michael, the Knight](https://open.spotify.com/album/54RkiHxYAKpisnJnAtBr25) | 3:30 |
 | 29 | [FADED \(JADED\)](https://open.spotify.com/track/1vw6rqMtm8gX227OlWpmjh) | [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic), [Amero](https://open.spotify.com/artist/6y98wK2RN9CyNuuN1l2icf), [B3nte](https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl) | [FADED \(JADED\)](https://open.spotify.com/album/1jo8upeinM4iVBm8kORiLk) | 2:23 |
