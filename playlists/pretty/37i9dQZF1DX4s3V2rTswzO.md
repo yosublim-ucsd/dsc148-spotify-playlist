@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Set the scene for romance with beautiful classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,429 likes - 51 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,467 likes - 51 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 23 | [Clarinet Concerto in A Major, K\. 622/II\. Adagio](https://open.spotify.com/track/5AjGHyx54NLmriCjj71qiR) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Martin Fröst](https://open.spotify.com/artist/3HmzM7c3S5iM1jBG3gl0FF), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no) | [Clarinet Concerto in A Major, K\. 622/II\. Adagio](https://open.spotify.com/album/68VoCUnYwGfSk5U60Jf7cF) | 6:51 |
 | 24 | [Sechs Klavierstücke, Op\. 118: II\. Intermezzo in A Major](https://open.spotify.com/track/1Oo7XEqkrwifJn17aA0ocF) | [Johannes Brahms](https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq), [Arcadi Volodos](https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg) | [Volodos Plays Brahms](https://open.spotify.com/album/1zWSdYsAlF38LhpcMEthzO) | 6:18 |
 | 25 | [Sarabande](https://open.spotify.com/track/2iHfxxA58scvsi5P0L1B4i) | [Robert de Visée](https://open.spotify.com/artist/4br5HVmW3Xed5Zvffl0RSU), [Toby Carr](https://open.spotify.com/artist/5zNhfoSYfBlwIffqIExoB3) | [Sarabande](https://open.spotify.com/album/7pTnWPUbgVoojmLt3mwZRR) | 2:12 |
-| 26 | [Beau soir, L\. 6 \(Arranged for Violin and Piano by Jascha Heifetz\)](https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom) | [Voice of the Violin](https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6) | 2:27 |
+| 26 | [Beau soir, L\. 6 \(Arranged for Violin and Piano by Jascha Heifetz\)](https://open.spotify.com/track/1DsqYVJjTCfYmxOnlDPQPr) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Joshua Bell](https://open.spotify.com/artist/3Ka1nDpDzxDveEqUPzIeom), [Frederic Chiu](https://open.spotify.com/artist/1ZCJrRwwHakm5xUvVWZC9Z) | [Voice of the Violin](https://open.spotify.com/album/1BXO57T2KEgCS6ca9tlmZ6) | 2:27 |
 | 27 | [Suite in B\-Flat Major, HWV 434: IV\. Menuet](https://open.spotify.com/track/6jZj45D2jdR6fMEb58TlSc) | [George Frideric Handel](https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Motherland](https://open.spotify.com/album/1QlwdrB0YycnoWOH1JqCqh) | 3:50 |
 | 28 | [Pavane pour une infante défunte, M\. 19](https://open.spotify.com/track/7MjEk3ha3TdVVfeYryOIAq) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Alexandre Tharaud](https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG) | [Ravel: Intégrale de l'œuvre pour piano](https://open.spotify.com/album/1PGV2mCrXJKpNl7onDJ6Yx) | 5:42 |
 | 29 | [Rêverie, L\. 68: Rêverie](https://open.spotify.com/track/3YJrnXT1UNpRgnc7lcgXSF) | [Claude Debussy](https://open.spotify.com/artist/1Uff91EOsvd99rtAupatMP), [Jean\-Yves Thibaudet](https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6) | [Debussy: Complete Works for Solo Piano, Vol.1](https://open.spotify.com/album/0cfusqtz8FdhjN03BUAS0l) | 4:17 |

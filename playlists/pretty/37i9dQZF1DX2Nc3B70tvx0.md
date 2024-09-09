@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best of right now\. Cover: Beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,073,283 likes - 132 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,073,246 likes - 132 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 284682,
+  "num_followers": 284709,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
@@ -151,18 +151,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Un Sentimiento",
-        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
       "artists": [
         {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
         }
       ],
-      "duration_ms": 203933,
-      "name": "El Bomb\u00f3n",
-      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -247,18 +247,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+        "name": "Un Sentimiento",
+        "url": "https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
         }
       ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 203933,
+      "name": "El Bomb\u00f3n",
+      "url": "https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "La 2da del Boxeador",
         "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
       },
@@ -623,38 +639,6 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "El polaco - Vuelve te lo pido",
-        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
-      },
-      "artists": [
-        {
-          "name": "El Polaco",
-          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
-        }
-      ],
-      "duration_ms": 133866,
-      "name": "En este mundo",
-      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
         "name": "Vas a Querer Regresar",
         "url": "https://open.spotify.com/album/1QIgsaiZmZ5cBfkMdc0yW9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
+        "name": "El polaco - Vuelve te lo pido",
+        "url": "https://open.spotify.com/album/37q8WdUhkdZPPrkmw6o5xS"
+      },
+      "artists": [
+        {
+          "name": "El Polaco",
+          "url": "https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc"
+        }
+      ],
+      "duration_ms": 133866,
+      "name": "En este mundo",
+      "url": "https://open.spotify.com/track/7gamXMgGmNsr83XdKMPbc9"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -831,6 +831,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
+        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 249219,
+      "name": "Andrea",
+      "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
         "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 152666,
       "name": "Como Te Lo Digo",
       "url": "https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
-        "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 249219,
-      "name": "Andrea",
-      "url": "https://open.spotify.com/track/3FgtgesYFasosYF5cQmpzi"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
+        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
+        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+      },
+      "artists": [
+        {
+          "name": "La Champions Liga",
+          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+        }
+      ],
+      "duration_ms": 129973,
+      "name": "Dime si eres feliz",
+      "url": "https://open.spotify.com/track/5VNipMioOFUAdeUEfC5hkb"
+    },
+    {
+      "added_at": "2024-06-14 13:34:36",
+      "album": {
         "name": "C\u00f3mo le Gusta",
         "url": "https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd"
       },
@@ -1175,18 +1191,22 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "20 a\u00f1os de cumbia - Los mejores exitos de 1990 - 2010",
-        "url": "https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU"
+        "name": "Un sue\u00f1o hecho realidad",
+        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
       },
       "artists": [
         {
-          "name": "La Champions Liga",
-          "url": "https://open.spotify.com/artist/4osqF39bEPXPsJfVUXeCh3"
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        },
+        {
+          "name": "Gladys La Bomba Tucumana",
+          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
         }
       ],
-      "duration_ms": 129973,
-      "name": "Dime si eres feliz",
-      "url": "https://open.spotify.com/track/5VNipMioOFUAdeUEfC5hkb"
+      "duration_ms": 186706,
+      "name": "La pollera amarilla",
+      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1223,38 +1243,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Un sue\u00f1o hecho realidad",
-        "url": "https://open.spotify.com/album/1WqZFzVlJnqmKXjB6P78rj"
+        "name": "Pasi\u00f3n Cuartetera",
+        "url": "https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs"
       },
       "artists": [
         {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        },
-        {
-          "name": "Gladys La Bomba Tucumana",
-          "url": "https://open.spotify.com/artist/42ORNrkBeJaJfE8nFHZ6TJ"
+          "name": "Walter Olmos",
+          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
         }
       ],
-      "duration_ms": 186706,
-      "name": "La pollera amarilla",
-      "url": "https://open.spotify.com/track/5kXRgYki3KbZFanPhJBvbl"
-    },
-    {
-      "added_at": "2024-06-14 13:34:36",
-      "album": {
-        "name": "Que Ves",
-        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 243456,
-      "name": "Que Ves",
-      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
+      "duration_ms": 242266,
+      "name": "Por Lo Que Yo Te Quiero",
+      "url": "https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV"
     },
     {
       "added_at": "2024-06-14 13:34:36",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2024-06-14 13:34:36",
       "album": {
-        "name": "Pasi\u00f3n Cuartetera",
-        "url": "https://open.spotify.com/album/5XExEXYKY3ON16D9HStCRs"
+        "name": "Que Ves",
+        "url": "https://open.spotify.com/album/7Jak5Qw5IKpjAPKuQXCEjg"
       },
       "artists": [
         {
-          "name": "Walter Olmos",
-          "url": "https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 242266,
-      "name": "Por Lo Que Yo Te Quiero",
-      "url": "https://open.spotify.com/track/5fI4LBI23D3JkgRCePYvPV"
+      "duration_ms": 243456,
+      "name": "Que Ves",
+      "url": "https://open.spotify.com/track/4aLUsiY86kVcHl6pKa3KjR"
     },
     {
       "added_at": "2024-06-14 13:34:36",

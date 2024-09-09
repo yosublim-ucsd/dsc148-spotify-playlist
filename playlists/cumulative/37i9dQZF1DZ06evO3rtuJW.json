@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-29",
-  "description": "This is G Herbo. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is G Herbo. The essential tracks, all in one playlist.",
   "name": "This Is G Herbo",
   "tracks": [
     {
@@ -923,6 +923,28 @@
     },
     {
       "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168299,
+      "name": "Global Spinning (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/6ViNOWs6pBf1kvwplclX6K"
+    },
+    {
+      "album": {
         "name": "Hall of Fame",
         "url": "https://open.spotify.com/album/7KSf6p0G0mZd7j60etVTwT"
       },
@@ -1058,7 +1080,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 159000,
       "name": "Hood Cycle (Bonus)",
       "url": "https://open.spotify.com/track/5vaJVMWz7VHcGjYcfdwXvb"
@@ -1150,6 +1172,24 @@
       "duration_ms": 233736,
       "name": "In the A (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/0ltgsHBUPGRnFn8P4fNrTh"
+    },
+    {
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176981,
+      "name": "Influence",
+      "url": "https://open.spotify.com/track/72nXS4EZQbF7TW9omZNro7"
     },
     {
       "album": {
@@ -1584,7 +1624,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 207081,
       "name": "No Pics (feat. Chief Keef)",
       "url": "https://open.spotify.com/track/7JXj4trCV0qc9cdKMY46et"
@@ -2248,7 +2288,7 @@
       ],
       "date_added": "2024-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 158238,
       "name": "Shoot",
       "url": "https://open.spotify.com/track/1A8NNjRd8WLUirNesl9jYW"
@@ -2314,6 +2354,24 @@
       "duration_ms": 138718,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/4XR8LZWfJkrXJOS8zaC5DA"
+    },
+    {
+      "album": {
+        "name": "Big Swerv",
+        "url": "https://open.spotify.com/album/0E2aK1mNCG2c0AfMaRs3a4"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144034,
+      "name": "Splat",
+      "url": "https://open.spotify.com/track/6gDEcdPBV7aB5S5KFouT6x"
     },
     {
       "album": {

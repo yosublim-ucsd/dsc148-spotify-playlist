@@ -1,12 +1,12 @@
 {
-  "description": "This is Shania Twain. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 244593,
+  "description": "This is Shania Twain. The essential tracks, all in one playlist.",
+  "num_followers": 244618,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAADgHLKXkKnDoeIay4GvSJ+m",
+  "snapshot_id": "ZtuXgAAAAABN4YSv11FwCw31+1h2zIIf",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Stanotte in Poi (From This Moment On)",
-        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
+        "name": "Tuskegee (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
       },
       "artists": [
         {
-          "name": "Andrea Bocelli",
-          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 237240,
-      "name": "Da Stanotte in Poi (From This Moment On)",
-      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
+      "duration_ms": 259739,
+      "name": "Endless Love",
+      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
     },
     {
       "added_at": null,
@@ -379,22 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tuskegee (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z"
+        "name": "Da Stanotte in Poi (From This Moment On)",
+        "url": "https://open.spotify.com/album/4gQwBDAQJ1xY3CDhdQuND4"
       },
       "artists": [
         {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+          "name": "Andrea Bocelli",
+          "url": "https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo"
         },
         {
           "name": "Shania Twain",
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 259739,
-      "name": "Endless Love",
-      "url": "https://open.spotify.com/track/1MwJMB0GyO9gY7GwfqcXYq"
+      "duration_ms": 237240,
+      "name": "Da Stanotte in Poi (From This Moment On)",
+      "url": "https://open.spotify.com/track/0Vx5TgS1ezxuCOI968BtdD"
     },
     {
       "added_at": null,

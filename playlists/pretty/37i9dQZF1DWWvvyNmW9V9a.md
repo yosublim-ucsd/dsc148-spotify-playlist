@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > RIP Edward and Bella, you would have loved Louis and Olivia
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,158,617 likes - 94 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,158,361 likes - 94 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

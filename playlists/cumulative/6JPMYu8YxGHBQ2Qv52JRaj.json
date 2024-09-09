@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "AGEN WIDA",
+        "url": "https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7"
+      },
+      "artists": [
+        {
+          "name": "JOYRYDE",
+          "url": "https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0"
+        },
+        {
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199047,
+      "name": "AGEN WIDA",
+      "url": "https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG"
+    },
+    {
+      "album": {
         "name": "All I Need",
         "url": "https://open.spotify.com/album/7gFjOqD0zIUxyYksPPCj32"
       },
@@ -224,6 +246,24 @@
       "duration_ms": 188571,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0mrdtRdrp9W05nKuE2qFO6"
+    },
+    {
+      "album": {
+        "name": "All On You",
+        "url": "https://open.spotify.com/album/24H5xEni5Hca01c5wbwBPB"
+      },
+      "artists": [
+        {
+          "name": "LOOPERS",
+          "url": "https://open.spotify.com/artist/0Aemly9h57T2sLKpkNq409"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133110,
+      "name": "All On You",
+      "url": "https://open.spotify.com/track/02dYg8kB8UQqidBwIWbADS"
     },
     {
       "album": {
@@ -576,7 +616,7 @@
       ],
       "date_added": "2022-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 247619,
       "name": "Bass Rock",
       "url": "https://open.spotify.com/track/1vnckvQ8CQZhBvGHERGbpp"
@@ -930,7 +970,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 184370,
       "name": "Butterfly Effect",
       "url": "https://open.spotify.com/track/7jIwGaXqpW3baYVQoXPcrg"
@@ -1364,7 +1404,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 227050,
       "name": "Dat Vibe Pt. 2",
       "url": "https://open.spotify.com/track/0HT6fy0Y6FIG5Gg8mE7Cni"
@@ -1656,7 +1696,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 234579,
       "name": "Dogs in the House",
       "url": "https://open.spotify.com/track/3RJ1ryj4OolsZrinYZVUsp"
@@ -1946,7 +1986,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 187998,
       "name": "Everybody",
       "url": "https://open.spotify.com/track/2PK4GASncyY4yInMaQokCv"
@@ -2026,6 +2066,28 @@
       "duration_ms": 163636,
       "name": "Familia",
       "url": "https://open.spotify.com/track/0dipXHiCMwh09laeECYCQB"
+    },
+    {
+      "album": {
+        "name": "Fangs",
+        "url": "https://open.spotify.com/album/26lIHDVYbt3eYsAinD0c2o"
+      },
+      "artists": [
+        {
+          "name": "Ghastly",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+        },
+        {
+          "name": "ALRT",
+          "url": "https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "Fangs",
+      "url": "https://open.spotify.com/track/6fIMWdcH6sZth7HAdAKXzg"
     },
     {
       "album": {
@@ -2109,6 +2171,24 @@
     },
     {
       "album": {
+        "name": "Flip It",
+        "url": "https://open.spotify.com/album/3GZMgj2vcfUdk91ugRDxSk"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153281,
+      "name": "Flip It",
+      "url": "https://open.spotify.com/track/0ToFXrDPJ4JwRYT8rI3Zt4"
+    },
+    {
+      "album": {
         "name": "FLO",
         "url": "https://open.spotify.com/album/0aTX9HPTBTj9GtkUoGLABp"
       },
@@ -2120,7 +2200,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 228479,
       "name": "FLO",
       "url": "https://open.spotify.com/track/3k55gtF0um03mUWJa6DAa9"
@@ -2540,7 +2620,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 270967,
       "name": "Godspell",
       "url": "https://open.spotify.com/track/0DCFw6EL8ogVYGlAHetO9k"
@@ -2886,7 +2966,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 291840,
       "name": "House",
       "url": "https://open.spotify.com/track/6VtTAaCabxUZMJppOZHs72"
@@ -2974,6 +3054,24 @@
       "duration_ms": 157142,
       "name": "I Can Feel It",
       "url": "https://open.spotify.com/track/6ir9l3y1H3RDZE60YOeVDc"
+    },
+    {
+      "album": {
+        "name": "I Can't",
+        "url": "https://open.spotify.com/album/0GXVptQQ4Fnl8mbD0G0mq9"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183809,
+      "name": "I Can't",
+      "url": "https://open.spotify.com/track/2LaT6S4HaiWAqNd4yQ4MAg"
     },
     {
       "album": {
@@ -3068,7 +3166,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 216960,
       "name": "If I'm Wrong",
       "url": "https://open.spotify.com/track/4gG39gZ9S1oH6vfGvxLnPI"
@@ -3174,6 +3272,24 @@
       "duration_ms": 193159,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/59pJM2rkgW47uV5kpyVvvw"
+    },
+    {
+      "album": {
+        "name": "Infinite",
+        "url": "https://open.spotify.com/album/1Sm6KUWtB2ThzdSbyaP0Sr"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233482,
+      "name": "Infinite",
+      "url": "https://open.spotify.com/track/7Llqq3e3Hf4ICVJNBi2muE"
     },
     {
       "album": {
@@ -4015,6 +4131,28 @@
     },
     {
       "album": {
+        "name": "Blanc Sur Noir Vol. 2",
+        "url": "https://open.spotify.com/album/7dKPft55xuBRMihH9dEnqw"
+      },
+      "artists": [
+        {
+          "name": "Siberian Express",
+          "url": "https://open.spotify.com/artist/45fLfFzIAKudNKuSeD2y2c"
+        },
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205719,
+      "name": "Move to the Sound",
+      "url": "https://open.spotify.com/track/6s4ZAW6PCcMzyELxKRzLR4"
+    },
+    {
+      "album": {
         "name": "Move With Tha",
         "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
       },
@@ -4120,10 +4258,36 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 222439,
       "name": "My Money",
       "url": "https://open.spotify.com/track/1mXQfBrd0xGkERvTahNjbM"
+    },
+    {
+      "album": {
+        "name": "My Place",
+        "url": "https://open.spotify.com/album/3nFnn8bXSKKmvhlZfnrbxp"
+      },
+      "artists": [
+        {
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
+        },
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "Reece",
+          "url": "https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256661,
+      "name": "My Place",
+      "url": "https://open.spotify.com/track/4kZrwBAUpHlK2QAsiVyOFt"
     },
     {
       "album": {
@@ -4540,7 +4704,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 217500,
       "name": "On The Block",
       "url": "https://open.spotify.com/track/6QOJCMdkHdpaNiVmzv0sPT"
@@ -4984,7 +5148,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 233147,
       "name": "Pray For Me - My Nu Leng Remix",
       "url": "https://open.spotify.com/track/3LST2cGjMUp8gFigA0f25r"
@@ -5278,7 +5442,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 238110,
       "name": "Rotate",
       "url": "https://open.spotify.com/track/1xpBxE9fYN4J9GEpuJsvwH"
@@ -5372,7 +5536,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 157500,
       "name": "Runnin'",
       "url": "https://open.spotify.com/track/6QvlcnwSsTz9F0ZyPQskyP"
@@ -5434,7 +5598,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 196810,
       "name": "S.W.A.G",
       "url": "https://open.spotify.com/track/73CxE3rBWrVsEZeg8VwGi5"
@@ -6211,6 +6375,24 @@
     },
     {
       "album": {
+        "name": "The RED Tape (Deluxe)",
+        "url": "https://open.spotify.com/album/04Q6XWn2Zbiu6g7Pr10f5V"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192147,
+      "name": "They Call Me",
+      "url": "https://open.spotify.com/track/78OghQo2gd5XxKHS5ahfcx"
+    },
+    {
+      "album": {
         "name": "This New System",
         "url": "https://open.spotify.com/album/1Ly8wSfugqBYT8X1mgWtGK"
       },
@@ -6674,7 +6856,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 276190,
       "name": "Utopia (Born Dirty Remix)",
       "url": "https://open.spotify.com/track/5QGQH9TlNc7pvJ7NfgHx2D"

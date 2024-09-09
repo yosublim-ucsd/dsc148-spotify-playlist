@@ -586,7 +586,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 287586,
       "name": "58",
       "url": "https://open.spotify.com/track/47hrwb3PwrrZOp9UqaZgcZ"
@@ -9026,7 +9026,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 158796,
       "name": "EN BLUSA",
       "url": "https://open.spotify.com/track/173Nv2ynszhKfmKwHef0Eo"
@@ -9584,7 +9584,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 162058,
       "name": "ESTE",
       "url": "https://open.spotify.com/track/0GfWTZZOc7co6oVqyQ556l"
@@ -19560,7 +19560,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 244293,
       "name": "No Entiendo",
       "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
@@ -21538,7 +21538,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/0WdPVwDY2QU9941QsRJXhZ"
@@ -22836,7 +22836,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 254493,
       "name": "Porsche Carrera",
       "url": "https://open.spotify.com/track/1lPWHfrvpun8ZnxrWp3HH8"
@@ -23242,7 +23242,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 235133,
       "name": "Propuesta Indecente",
       "url": "https://open.spotify.com/track/5PycBIeabfvX3n9ILG7Vrv"
@@ -29266,6 +29266,24 @@
       "duration_ms": 243716,
       "name": "Tit\u00ed Me Pregunt\u00f3",
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "album": {
+        "name": "To No Morimo",
+        "url": "https://open.spotify.com/album/0lnz8NzGJfIs2s0TIRJrEA"
+      },
+      "artists": [
+        {
+          "name": "Donaty",
+          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144004,
+      "name": "To No Morimo",
+      "url": "https://open.spotify.com/track/0WjYqtGGmGoPEVGk5kFqu8"
     },
     {
       "album": {

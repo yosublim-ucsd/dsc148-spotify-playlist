@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: "<a href=https://open.spotify.com/artist/4WN1JAeUnvBiLteTeFSwUa?si=NX6XK91qTCiwIn6fh8Xx\_Q>Spirit of Praise</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,542 likes - 100 songs - 8 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,599 likes - 100 songs - 8 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 36 | [Worship streams](https://open.spotify.com/track/4ZfHPqmWIqVMzvdxBqnwnT) | [Anthony Kani](https://open.spotify.com/artist/7q7gcqRoGAPXojRY9EFJAO) | [Worship streams](https://open.spotify.com/album/5LobY9YyC1XqK4YbVptxWI) | 27:39 |
 | 37 | [Not Alone](https://open.spotify.com/track/1AhlSnL6e6WP5gRBTZfru6) | [Aydeji](https://open.spotify.com/artist/02abeDILFY7L8Rt1N7NisI), [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [First](https://open.spotify.com/album/4MquUNoaNXgXOPWAHutN2V) | 3:19 |
 | 38 | [When We Praise \- Live](https://open.spotify.com/track/0ywYHxQ0Yq7ILuK0bxj9uW) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [When We Praise \- Live](https://open.spotify.com/album/2FtpYQeSNgU8BA4MhgvkdZ) | 5:44 |
-| 39 | [NO WORRIES \- Speed\-up\-Version](https://open.spotify.com/track/4zRU4RelTO97KD2CyPvSlr) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1) | [NO WORRIES \- Speed\-up\-Version](https://open.spotify.com/album/0k2hWb16obFI6sXKkLra7B) | 2:12 |
+| 39 | [NO WORRIES \- Speed\-up\-Version](https://open.spotify.com/track/4zRU4RelTO97KD2CyPvSlr) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [NO WORRIES \- Speed\-up\-Version](https://open.spotify.com/album/0k2hWb16obFI6sXKkLra7B) | 2:12 |
 | 40 | [Kondima Na Ngai](https://open.spotify.com/track/6R7CPqQZaiWVIBCK527K9j) | [Pst Jeremie Safari](https://open.spotify.com/artist/1uCN4qjVUjBFof4Fl6eoE1), [L'or Mbongo](https://open.spotify.com/artist/3OoWwAxgFtcYYGeXoYIaqZ) | [Kondima Na Ngai](https://open.spotify.com/album/5baO0vsj4kB3dBV32WG46t) | 4:41 |
 | 41 | [All Powerful](https://open.spotify.com/track/1vFnF5JUCk8mewoBBFZbRd) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [All Powerful](https://open.spotify.com/album/61SB0EMga26aA1xQ737kMm) | 3:14 |
 | 42 | [Only You](https://open.spotify.com/track/743tVlYuuZt3BHRXbXI1Tu) | [Victor Olayeni](https://open.spotify.com/artist/0TRdYFzxaxrp8DCiBp4UiR) | [Only You](https://open.spotify.com/album/4P3L4k8PmtaDleTnDpA1CE) | 4:15 |

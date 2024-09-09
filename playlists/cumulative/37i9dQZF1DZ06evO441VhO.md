@@ -2,7 +2,7 @@
 
 ### [This Is zebrahead](https://open.spotify.com/playlist/37i9dQZF1DZ06evO441VhO)
 
-> This is zebrahead\. The essential tracks, all in one playlist.
+> This Is zebrahead\. Todas as faixas essenciais numa única playlist.
 
 85 songs - 4 hr 32 min
 

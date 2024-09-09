@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Linkin Park au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,362 likes - 87 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,375 likes - 87 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 57 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
 | 58 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 |
 | 59 | [Landslide](https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY) | [Karina Savage](https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr), [Glades](https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm) | [Landslide](https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD) | 2:54 |
-| 60 | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G](https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG) | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 60 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 61 | [STEPHANIE](https://open.spotify.com/track/5Zm1TKa31eMdnC2ao7Xhw7) | [La Hasba22](https://open.spotify.com/artist/4lb9cT2fdVU8h1YDoBPy1o), [Nono La Grinta](https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [75022 +](https://open.spotify.com/album/6iCdC9FUWKWN0TgBA6jG11) | 3:50 |
 | 62 | [Fi Fun](https://open.spotify.com/track/6G6ClWuc24KdwsMEKJAwOO) | [Jahyanai](https://open.spotify.com/artist/09FXva53dWku8Gu5N73rR8), [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY) | [Fi Fun](https://open.spotify.com/album/5NIa1wSj7qTAZeU6ykRNRi) | 1:45 |
 | 63 | [Tereketena](https://open.spotify.com/track/4wWuoMqY62woc2jxlGhBcy) | [Nilusi](https://open.spotify.com/artist/4rxpqnO7FmykFDtCe5YIhf) | [Tereketena](https://open.spotify.com/album/7xkE5qfuYbFbQmQByBd03V) | 2:17 |

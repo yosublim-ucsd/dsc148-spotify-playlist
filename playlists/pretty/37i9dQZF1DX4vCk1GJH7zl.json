@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Ananda, Lou Garcia",
-  "num_followers": 140170,
+  "num_followers": 140194,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -175,22 +175,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
-      },
-      "artists": [
-        {
-          "name": "Os Paralamas Do Sucesso",
-          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Lanterna Dos Afogados",
-      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Vendaval",
         "url": "https://open.spotify.com/album/50RosNb33uXibjhV94GjpN"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 229786,
       "name": "The Glass",
       "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/0EGbtOpzEv1YmH1AjdlIUm"
+      },
+      "artists": [
+        {
+          "name": "Os Paralamas Do Sucesso",
+          "url": "https://open.spotify.com/artist/7EM9m7HOXxVgP9oEpDDv70"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Lanterna Dos Afogados",
+      "url": "https://open.spotify.com/track/3uezVXXzZZUCjqPRC9JA6u"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -411,6 +411,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "De Volta Ao Novo - Volume 1",
+        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 186280,
+      "name": "N-U-M-A-B-O-A",
+      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Rosa",
         "url": "https://open.spotify.com/album/6DV3tGb5DBxry07vXqQAng"
       },
@@ -447,54 +463,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Nada",
-        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
-      },
-      "artists": [
-        {
-          "name": "CORA",
-          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
-        }
-      ],
-      "duration_ms": 149646,
-      "name": "Nada",
-      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "De Volta Ao Novo - Volume 1",
-        "url": "https://open.spotify.com/album/1aVg4WwzPENRZ46K9cgYcC"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "N-U-M-A-B-O-A",
-      "url": "https://open.spotify.com/track/2x9dBaNLNfny3dZ0lFcwwd"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Sonora",
-        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        }
-      ],
-      "duration_ms": 213714,
-      "name": "S\u00f3 Eu Sei",
-      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "S\u00f3 n\u00f3s 2",
         "url": "https://open.spotify.com/album/5dyKUb7rCo92aGGYnVGyiH"
       },
@@ -515,6 +483,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Nada",
+        "url": "https://open.spotify.com/album/4CTlgj93xReJTFDS6LbrYY"
+      },
+      "artists": [
+        {
+          "name": "CORA",
+          "url": "https://open.spotify.com/artist/2qy3VPlMGKCe25BNET0vdp"
+        }
+      ],
+      "duration_ms": 149646,
+      "name": "Nada",
+      "url": "https://open.spotify.com/track/5olnDT8PNL0QLA0Zes4pbm"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Nada Sei (Apneia)",
         "url": "https://open.spotify.com/album/0X1QuDiAcgHOZ4zNDQ1AaO"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 229785,
       "name": "Nada Sei - Apneia, Ao Vivo",
       "url": "https://open.spotify.com/track/3x8QrTuZCTbEJI0NrWEye2"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Sonora",
+        "url": "https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        }
+      ],
+      "duration_ms": 213714,
+      "name": "S\u00f3 Eu Sei",
+      "url": "https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -615,26 +615,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Amor Em V\u00e3o",
-        "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
-      },
-      "artists": [
-        {
-          "name": "Capital Inicial",
-          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
-        },
-        {
-          "name": "Samuel Rosa",
-          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
-        }
-      ],
-      "duration_ms": 211254,
-      "name": "Amor Em V\u00e3o",
-      "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "On My Own (Live in Brazil)",
         "url": "https://open.spotify.com/album/0enNwM1573EU28QawJJdJ2"
       },
@@ -699,6 +679,26 @@
       "duration_ms": 177458,
       "name": "A Cidade Sumiu",
       "url": "https://open.spotify.com/track/1fZVuPBnXO7DeQyiyqB7nQ"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Amor Em V\u00e3o",
+        "url": "https://open.spotify.com/album/4LlYjI3enukiq7vCAHRY65"
+      },
+      "artists": [
+        {
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
+        },
+        {
+          "name": "Samuel Rosa",
+          "url": "https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa"
+        }
+      ],
+      "duration_ms": 211254,
+      "name": "Amor Em V\u00e3o",
+      "url": "https://open.spotify.com/track/3VwcqHviDaCwvMNtFnfLUv"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -915,26 +915,6 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Rotorquestra de Liquidificafu",
-        "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
-      },
-      "artists": [
-        {
-          "name": "Pato Fu",
-          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
-        },
-        {
-          "name": "Orquestra Ouro Preto",
-          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
-        }
-      ],
-      "duration_ms": 207500,
-      "name": "Eu",
-      "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
         "name": "Pra Voc\u00ea Guardei o Amor",
         "url": "https://open.spotify.com/album/4aOptqsyZ2qudQGtdPucdQ"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Hoje eu n\u00e3o vim falar de Amor",
-        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+        "name": "Rotorquestra de Liquidificafu",
+        "url": "https://open.spotify.com/album/6RENFX4W1yO5Jb6R6fwRIa"
       },
       "artists": [
         {
-          "name": "Hotelo",
-          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+          "name": "Pato Fu",
+          "url": "https://open.spotify.com/artist/4NSbUIfUAkaedUIm8eJ631"
+        },
+        {
+          "name": "Orquestra Ouro Preto",
+          "url": "https://open.spotify.com/artist/2GXvjD5DHFtLk1vOMZ3JMt"
         }
       ],
-      "duration_ms": 228920,
-      "name": "Hoje eu n\u00e3o vim falar de Amor",
-      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
+      "duration_ms": 207500,
+      "name": "Eu",
+      "url": "https://open.spotify.com/track/6IZNBwp5vv2GlDuMxhmq5D"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -983,6 +967,22 @@
       "duration_ms": 210169,
       "name": "Quanto Tempo Demora Um M\u00eas",
       "url": "https://open.spotify.com/track/64kByFEamIW6sVECquQlRm"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
+        "name": "Hoje eu n\u00e3o vim falar de Amor",
+        "url": "https://open.spotify.com/album/4oc0QwQpt6HcT0TAArIwH7"
+      },
+      "artists": [
+        {
+          "name": "Hotelo",
+          "url": "https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH"
+        }
+      ],
+      "duration_ms": 228920,
+      "name": "Hoje eu n\u00e3o vim falar de Amor",
+      "url": "https://open.spotify.com/track/6anYWyiQuRfLFrVWP5Gc8R"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
+        "name": "Eu Quero Tanto",
+        "url": "https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA"
+      },
+      "artists": [
+        {
+          "name": "Cogumelo Plut\u00e3o",
+          "url": "https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee"
+        }
+      ],
+      "duration_ms": 187647,
+      "name": "Eu Quero Tanto",
+      "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
+    },
+    {
+      "added_at": "2024-09-02 13:39:50",
+      "album": {
         "name": "Jovem Senhor",
         "url": "https://open.spotify.com/album/4oDCz3Cm91wAPkqLnOemQh"
       },
@@ -1047,26 +1063,6 @@
       "duration_ms": 202250,
       "name": "Ir Embora",
       "url": "https://open.spotify.com/track/3rzfDmDuPJ8AJhB3K4QAkK"
-    },
-    {
-      "added_at": "2024-09-02 13:39:50",
-      "album": {
-        "name": "Invis\u00edvel",
-        "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
-      },
-      "artists": [
-        {
-          "name": "Raphael Ota",
-          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
-        },
-        {
-          "name": "De Maria",
-          "url": "https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn"
-        }
-      ],
-      "duration_ms": 212297,
-      "name": "Invis\u00edvel",
-      "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
     },
     {
       "added_at": "2024-09-02 13:39:50",
@@ -1087,18 +1083,22 @@
     {
       "added_at": "2024-09-02 13:39:50",
       "album": {
-        "name": "Eu Quero Tanto",
-        "url": "https://open.spotify.com/album/3g9SmqvLP3GeoHUIFTcWOA"
+        "name": "Invis\u00edvel",
+        "url": "https://open.spotify.com/album/6GaYXQzj5ZGE20joaIDMhf"
       },
       "artists": [
         {
-          "name": "Cogumelo Plut\u00e3o",
-          "url": "https://open.spotify.com/artist/4qjNCru4YbPvA6FOUDi1ee"
+          "name": "Raphael Ota",
+          "url": "https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q"
+        },
+        {
+          "name": "De Maria",
+          "url": "https://open.spotify.com/artist/0svtu3vOORPQEMmxV37rJn"
         }
       ],
-      "duration_ms": 187647,
-      "name": "Eu Quero Tanto",
-      "url": "https://open.spotify.com/track/7y10XfBIaOWkWX5ksbBpuV"
+      "duration_ms": 212297,
+      "name": "Invis\u00edvel",
+      "url": "https://open.spotify.com/track/46ZGTz7ctcjBEMxxC2KzIm"
     },
     {
       "added_at": "2024-09-02 13:39:50",

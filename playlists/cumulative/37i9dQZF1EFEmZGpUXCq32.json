@@ -1677,6 +1677,24 @@
     },
     {
       "album": {
+        "name": "The Alexander Technique",
+        "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245945,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/75FQnbNzIeX9QAl21BEnKI"
+    },
+    {
+      "album": {
         "name": "Art of Love",
         "url": "https://open.spotify.com/album/7GmZgoldBKNdXMNqq0llGh"
       },

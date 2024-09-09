@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 
 > From slack\-key masters to songwriting royals, Native Hawaiians have been behind the isles' most memorable music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,349 likes - 66 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,388 likes - 66 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0N3eAirRjZ.md) - [plain]
 | 9 | [Funny Talk](https://open.spotify.com/track/2uwBFfhuVSgDVc7IWj2qe6) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA), [Fiji](https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ) | [Funny Talk](https://open.spotify.com/album/4YvX9t3HLTFnomTnOj5QOa) | 2:57 |
 | 10 | [In the Garden](https://open.spotify.com/track/2hMPlCT4F3nCyzuyo9rbjQ) | [Ike Kanakanui](https://open.spotify.com/artist/79gvzSsg8MyKN1uYGS0PtX) | [In the Garden](https://open.spotify.com/album/2IBgRUNWmDr2a7iY39BI2B) | 3:37 |
 | 11 | [Masese](https://open.spotify.com/track/6hs4GGBUTETtNC41YAdKQJ) | [Kapena](https://open.spotify.com/artist/5ApzCoihjAuHAfGVoVqv61) | [Destinations](https://open.spotify.com/album/6ZoPZ5dkmEhZSuWgIT2NIV) | 3:34 |
-| 12 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
+| 12 | [Grateful](https://open.spotify.com/track/5xDPMfQN0WRA4Mj1nW6lNP) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Justin Kawika Young](https://open.spotify.com/artist/6m80cBIPEzugHGelICSLY7) | [Grateful](https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q) | 3:40 |
 | 13 | [Travelin' Soldier](https://open.spotify.com/track/0hWkRKNdOjpHYmvbvSY9Nv) | [Maoli](https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA) | [Travelin' Soldier](https://open.spotify.com/album/2Np0YVg1kIaB5Ljyvv9yj1) | 5:32 |
 | 14 | [Round n Round \(feat\. Pepper & Kaleo Wassman\)](https://open.spotify.com/track/3KksVkdOTp4Gb7At5uXLeX) | [Vana Liya](https://open.spotify.com/artist/12GfQaPLWcOztNYsVL5wIV), [Kaleo Wassman](https://open.spotify.com/artist/2v9vuieSJyhpLpXNafGYqc), [Pepper](https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT) | [Round n Round](https://open.spotify.com/album/4A8MJ9St5BebDStA4brBXZ) | 4:56 |
 | 15 | [Lover Tonight](https://open.spotify.com/track/3TQm7m9rIQI7C5A5p78aG2) | [The Green](https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh) | [Summertime EP](https://open.spotify.com/album/1gGlsw6KLGCvC3lMaNMWW9) | 4:09 |

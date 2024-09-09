@@ -2,7 +2,7 @@
 
 ### [This Is All Time Low](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ow6ru)
 
-> This Is All Time Low\. Los temas esenciales, todos en una lista.
+> This is All Time Low\. The essential tracks, all in one playlist.
 
 80 songs - 4 hr 23 min
 

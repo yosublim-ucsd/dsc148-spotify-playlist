@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 71601,
+  "num_followers": 71622,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAADy3oExuMeow3UFwZWwKc66",
+  "snapshot_id": "ZtuXgAAAAABMcU5RWBJ0X/vieXWCgGsc",
   "tracks": [
     {
       "added_at": null,
@@ -439,6 +439,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Whiskey On Whiskey",
+        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 168525,
+      "name": "Colorado (feat. HARDY)",
+      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 161352,
+      "name": "HAPPY HOUR (feat. Knox)",
+      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -467,26 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 161352,
-      "name": "HAPPY HOUR (feat. Knox)",
-      "url": "https://open.spotify.com/track/6WxuJ0miXSbI56DbuxQODG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
       },
@@ -511,26 +531,6 @@
       "duration_ms": 189153,
       "name": "Goin\u2019 Nowhere (feat. HARDY, Morgan Wallen & Chris Shiflett)",
       "url": "https://open.spotify.com/track/7G66MHMKZFlajn5iNiH8Uc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Whiskey On Whiskey",
-        "url": "https://open.spotify.com/album/1cb4T5ulohQQrgRiDkVPnO"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 168525,
-      "name": "Colorado (feat. HARDY)",
-      "url": "https://open.spotify.com/track/3ill9VgMqx02I8REhoXbLL"
     },
     {
       "added_at": null,
@@ -683,7 +683,7 @@
     {
       "added_at": null,
       "album": {
-        "name": "Body Language (Deluxe)",
+        "name": "Body Language - Deluxe",
         "url": "https://open.spotify.com/album/6ObNVnYp53VJNtIcdo03WJ"
       },
       "artists": [
@@ -935,26 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Some Things Never Change (feat. HARDY)",
-      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Joe,",
         "url": "https://open.spotify.com/album/5S9KGKorBFNaLxpviyydiI"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 192367,
       "name": "zombieland (feat. HARDY)",
       "url": "https://open.spotify.com/track/5hTz0E9uieW4dl6YF34yMy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Some Things Never Change (feat. HARDY)",
+      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
     },
     {
       "added_at": null,

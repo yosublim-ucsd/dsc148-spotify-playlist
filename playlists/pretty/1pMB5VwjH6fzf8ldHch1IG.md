@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 > Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,408 likes - 67 songs - 3 hr 35 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,409 likes - 67 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 18 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 |
 | 19 | [Come Down Soon \(Spotify OUTSIDE Version\) \- Live from Pasadena](https://open.spotify.com/track/059Yqzlm6TAAd1YI7hKYNW) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify OUTSIDE](https://open.spotify.com/album/07MbrTFOyeeDRIiF365e8g) | 4:57 |
 | 20 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 |
-| 21 | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G](https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG) | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 21 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 22 | [4AM](https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [4AM](https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx) | 1:49 |
 | 23 | [Damn Good Country Song](https://open.spotify.com/track/7xXtjD7xcsp7HHl8T7Vy38) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Black Bandana](https://open.spotify.com/album/2uHstVyPjR0mwRKlRnD2Gp) | 2:28 |
 | 24 | [Moodboard](https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [Moodboard](https://open.spotify.com/album/2e2Y4XowuTP4qR48PBvHZA) | 2:12 |

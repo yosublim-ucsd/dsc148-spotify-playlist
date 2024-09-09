@@ -3754,7 +3754,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 131506,
       "name": "Blooming",
       "url": "https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq"
@@ -15474,7 +15474,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 160985,
       "name": "hoshposh",
       "url": "https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH"
@@ -28733,6 +28733,28 @@
     },
     {
       "album": {
+        "name": "Satin Soul",
+        "url": "https://open.spotify.com/album/7v6SSUmG30r1AkvgOZiky9"
+      },
+      "artists": [
+        {
+          "name": "Ghostnaut",
+          "url": "https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3"
+        },
+        {
+          "name": "Lunath",
+          "url": "https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Satin Soul",
+      "url": "https://open.spotify.com/track/2ArzG3wZ8AtiTyAZ4ErUyV"
+    },
+    {
+      "album": {
         "name": "Saturn Eyes",
         "url": "https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS"
       },
@@ -34200,7 +34222,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 151565,
       "name": "The Next Stop Is",
       "url": "https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5"

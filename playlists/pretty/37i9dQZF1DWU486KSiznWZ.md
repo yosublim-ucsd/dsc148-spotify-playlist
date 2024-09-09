@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > اسمعوا افضل الاغاني الخليجية\. الغلاف: عبدالمجيد عبدالله
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,742 likes - 40 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,801 likes - 40 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

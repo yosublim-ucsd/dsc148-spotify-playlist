@@ -1,12 +1,12 @@
 {
-  "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 40502,
+  "description": "This Is New Found Glory. Los temas esenciales, todos en una lista.",
+  "num_followers": 40506,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAAFriDWAKUEJRz2MXfgEJWi",
+  "snapshot_id": "ZtuXgAAAAACVnWsExPlMjsTlZlF3YygX",
   "tracks": [
     {
       "added_at": null,
@@ -463,22 +463,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From The Screen To Your Stereo, Pt. II",
-        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 162360,
-      "name": "Stay (I Missed You)",
-      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 204972,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/7zV1lZsCJZRh26TwAAz8uP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From The Screen To Your Stereo, Pt. II",
+        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "Stay (I Missed You)",
+      "url": "https://open.spotify.com/track/14jDhyykJv5yVu84baSjkJ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 168333,
-      "name": "Better Off Dead",
-      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo 3",
         "url": "https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 178810,
       "name": "Accidentally in Love",
       "url": "https://open.spotify.com/track/6dF8V3HeiLd8X2I2BkxhUV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Better Off Dead",
+      "url": "https://open.spotify.com/track/3D2ZhGxvaweSrZkFqoNblC"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Without A Fight",
-        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 134933,
-      "name": "Truck Stop Blues",
-      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 150480,
       "name": "I Don't Want To Miss A Thing",
       "url": "https://open.spotify.com/track/29LXlpqEptO2obuA2FC4HU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Without A Fight",
+        "url": "https://open.spotify.com/album/5O2AXzJUf1lhZYHEwVBROO"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 134933,
+      "name": "Truck Stop Blues",
+      "url": "https://open.spotify.com/track/4ZUNEal4s2COjmnPCE9kpW"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Makes Me Sick",
-        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
-      },
-      "artists": [
-        {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
-        }
-      ],
-      "duration_ms": 203869,
-      "name": "Party On Apocalypse",
-      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "From The Screen To Your Stereo",
         "url": "https://open.spotify.com/album/6gLB4AXdU7VI21xsdRwhLl"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174040,
       "name": "(Everything I Do) I Do It For You",
       "url": "https://open.spotify.com/track/4ajRNEcPZ9IUY6uiCj7rpv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Makes Me Sick",
+        "url": "https://open.spotify.com/album/2z9SJZVRMlOKDBtvQXwmhk"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 203869,
+      "name": "Party On Apocalypse",
+      "url": "https://open.spotify.com/track/1lpNUHTrkICQO9vnEpH8g5"
     },
     {
       "added_at": null,

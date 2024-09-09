@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
-  "num_followers": 267377,
+  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
+  "num_followers": 267421,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAD+WapsNN6v/t/rjDP2h9Zd",
+  "snapshot_id": "ZtuXgAAAAABCnkoJ+ZIO9diczM7RU8+B",
   "tracks": [
     {
       "added_at": null,
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 230237,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
+      "duration_ms": 267116,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i"
     },
     {
       "added_at": null,
@@ -384,9 +384,9 @@
           "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
         }
       ],
-      "duration_ms": 267116,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5HwyIGJ82WAAC49zsFoI8i"
+      "duration_ms": 230237,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/0o4Z9Am4OOwRVHml4RyqZW"
     },
     {
       "added_at": null,

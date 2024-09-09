@@ -2,9 +2,9 @@
 
 ### [New Singles Now](https://open.spotify.com/playlist/4atvqBvo5B5Fb5PjXMsuTV)
 
-> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Sep 22:02 UTC.
+> Latest popular single releases\. Sorted by release date &amp; popularity\. Updated 08 Sep 16:03 UTC.
 
-2,152 songs - 4 day 23 hr 21 min
+2,153 songs - 4 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -912,6 +912,7 @@
 | [I Hope It Hurts](https://open.spotify.com/track/3MGrDQiB3KrfPELCzOJlE2) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [I Hope It Hurts](https://open.spotify.com/album/1SNCkRMxIeVz7XRZLcqYpF) | 4:09 | 2024-08-23 | 2024-08-29 |
 | [I I I](https://open.spotify.com/track/0p5JKxO0pVynWVcWm3lMiP) | [宝鐘マリン](https://open.spotify.com/artist/5XaBNKQo65yYcjNA8wQPOk), [Kobo Kanaeru](https://open.spotify.com/artist/6AjW1aE0OlIoRGdnwbHgP2) | [I I I](https://open.spotify.com/album/6khDJU0RLPOsxLWNk8HJQs) | 3:05 | 2024-05-04 | 2024-05-08 |
 | [I Just Want](https://open.spotify.com/track/6Zo5Q403BUCar4b506IM5v) | [Adamn Killa](https://open.spotify.com/artist/2AwAtRmbmsuIr40rJFIWlv), [AM/WAS](https://open.spotify.com/artist/5Ifye6me2p1m5dOmmIqAeT) | [I Just Want](https://open.spotify.com/album/0Y6RBu93r6DsszXGpFoB7r) | 3:00 | 2024-08-02 | 2024-08-04 |
+| [I Kno](https://open.spotify.com/track/5oEBejfrKg0ROmYsxwcaEh) | [Drippin So Pretty](https://open.spotify.com/artist/06zDPcTSPMsBIJX2X7TI3s) | [I Kno](https://open.spotify.com/album/7Ky3s5Hf8v0kWaN0nUhNfU) | 2:15 | 2024-09-08 |  |
 | [I Live..\. AGAIN!](https://open.spotify.com/track/4ACegTfOaHN9NhLlu9jF0P) | [Dragoncorpse](https://open.spotify.com/artist/4Y7HtUv3QeFqe2OTUgRpwe), [Nick Miller](https://open.spotify.com/artist/3beCPmLvGcyD3IajLG9xkd), [First Fragment](https://open.spotify.com/artist/51NIL49MVTWeXEC8LoVrQ0) | [I Live..\. AGAIN!](https://open.spotify.com/album/7kBAaHbuovC6PIJpVRdcns) | 3:56 | 2024-06-11 | 2024-06-13 |
 | [i Loved Him \(feat\. NO:EL\)](https://open.spotify.com/track/2z4OltE3sBCd481f3nkp3F) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Recall](https://open.spotify.com/album/2QY0bsnTk7ghEFwQ50XtMS) | 3:00 | 2024-08-12 | 2024-08-15 |
 | [I Promise Myself](https://open.spotify.com/track/1KpTsNZkmxtwHDWzEA44pJ) | [SIAMES](https://open.spotify.com/artist/68NOjWuVYBRXzYwhel3jAl) | [I Promise Myself](https://open.spotify.com/album/0IjvjbxNYJrur1krGu0LWp) | 2:58 | 2024-08-09 | 2024-08-14 |
@@ -997,7 +998,7 @@
 | [jitensha](https://open.spotify.com/track/64sfr8PQy80PnVKPxxTA0W) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [jitensha](https://open.spotify.com/album/4cn9imdCfizZ6Kp8RXOYEe) | 6:26 | 2024-05-22 | 2024-05-24 |
 | [JJ](https://open.spotify.com/track/4BIlZxblkkzACZlp9fVWqx) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [JJ](https://open.spotify.com/album/3z9oyjyM2uGQeEgaxo0V9s) | 4:05 | 2024-06-18 | 2024-06-20 |
 | [JO\-DEKI](https://open.spotify.com/track/1fu67FayCYkKtlxBgXE74w) | [POLKADOT STINGRAY](https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev) | [JO\-DEKI](https://open.spotify.com/album/1kNoIaapMgPL7ztHDAQ7ru) | 3:25 | 2024-07-31 | 2024-08-03 |
-| [Job Application](https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Job Application](https://open.spotify.com/album/2ASRrpD3VUJqSmyBJGBKmq) | 1:50 | 2024-09-06 |  |
+| [Job Application](https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [Job Application](https://open.spotify.com/album/2ASRrpD3VUJqSmyBJGBKmq) | 1:50 | 2024-09-06 | 2024-09-09 |
 | [Joker](https://open.spotify.com/track/3HyD8c5C8C7P5TgmNfc8YK) | [Porches](https://open.spotify.com/artist/2JzhQYGos3RqV7MT5fWeek) | [Joker](https://open.spotify.com/album/3C5hemEZFqLPsfbiW1tm70) | 2:20 | 2024-05-14 | 2024-05-16 |
 | [Joker Lips](https://open.spotify.com/track/6tYgLXfFUhNDe6QHZmsJzX) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Joker Lips](https://open.spotify.com/album/5J3znEDi6fLt9hRSVF8Ukc) | 3:01 | 2024-07-29 | 2024-08-01 |
 | [Joy of Missing Out](https://open.spotify.com/track/4px2IKHQM1iCsryBZv0naR) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [Joy of Missing Out](https://open.spotify.com/album/3cjn75z7esRmLnsQQ5HtJ4) | 3:11 | 2024-08-30 | 2024-09-05 |
@@ -2034,7 +2035,7 @@
 | [WESTE WEISS](https://open.spotify.com/track/5ES30yO770SMD6QSyPxIio) | [TANO77](https://open.spotify.com/artist/6Gp1AegbZ89bXSSkWUV0UA) | [WESTE WEISS](https://open.spotify.com/album/47p8Kis5vZ5Nt3PKcI9CmV) | 2:25 | 2024-08-09 | 2024-08-11 |
 | [WET DREAM](https://open.spotify.com/track/2pTid5WZTf6PajZUaWlwyJ) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7) | [LUBE // WET DREAM](https://open.spotify.com/album/3393nwx0uNyCzPEgvSBXJy) | 2:59 | 2024-05-31 | 2024-06-05 |
 | [wet dreams](https://open.spotify.com/track/05EXzecgWqEuk5ph43jRq9) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [wet dreams](https://open.spotify.com/album/5uUohHpz2B17vxYBVZ9omT) | 1:39 | 2024-07-10 | 2024-07-12 |
-| [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G](https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG) | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 | 2024-09-06 |  |
+| [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 | 2024-09-06 |  |
 | [What a Day](https://open.spotify.com/track/5jDqkwSr9E0HWUasKwxFyh) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [What a Day](https://open.spotify.com/album/1ugtQU3rTTss14ky8S4TVU) | 3:18 | 2024-08-01 | 2024-08-03 |
 | [what do you want from me?](https://open.spotify.com/track/14pcgxHEt0jB4bUU1JqMej) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [what do you want from me?](https://open.spotify.com/album/6dnpMvHn0bCj5ucu3QIhRG) | 2:57 | 2024-08-09 | 2024-08-13 |
 | [What Girls Do](https://open.spotify.com/track/7D3xPNBJRaGB7XBFYF1By4) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Girls Do](https://open.spotify.com/album/6JMfi3fZWlTORb7RK9odSj) | 2:16 | 2024-06-28 | 2024-07-03 |

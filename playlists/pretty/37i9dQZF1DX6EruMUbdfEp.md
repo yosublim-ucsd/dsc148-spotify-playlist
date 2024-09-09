@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 
 > Enjoy music from "FULLMETAL ALCHEMIST BROTHERHOOD"! / 音楽で辿る、2009年放送開始のアニメ「鋼の錬金術師 FULLMETAL ALCHEMIST」の世界。<a href="https://open.spotify.com/playlist/37i9dQZF1DWZoGbayjhEGv?si=476b380d14f24147">鋼の錬金術師</a>\(2003年放送開始\)はこちら\(C\)荒川弘／鋼の錬金術師製作委員会 ©Hiromu Arakawa/FA Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,071 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,120 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EruMUbdfEp.md) - [plain]
 | 26 | [風に抱かれて](https://open.spotify.com/track/0fan0PoGef5WQPmn8buRY5) | [Alphonse Elric \(CV:Rie Kugimiya\)](https://open.spotify.com/artist/6Ef76xkexgGXlHTGrYIakA) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:02 |
 | 27 | [空風](https://open.spotify.com/track/2Ke5FuwU0tF0ZgLtoeCShe) | [Lan Fan \(CV:Nana Mizuki\)](https://open.spotify.com/artist/6Yv18aNTgVikc1wOY2XQwU) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 5:00 |
 | 28 | [Bonne nuit](https://open.spotify.com/track/1G5mRVI5Glere2gXBXMUdr) | [Riza Hawkeye \(CV:Fumiko Orikasa\)](https://open.spotify.com/artist/2LhcWBx8zrPmKfSyDH4yNp) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 3:39 |
-| 29 | [命\~MEI\~](https://open.spotify.com/track/36y7eLCwKI1dlEiNaMgOP4) | [Roy Mustang \(CV:Shinichiro Miki\)](https://open.spotify.com/artist/4YJ87lYZW8VmendkBWO6rZ) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 3:22 |
+| 29 | [命～MEI～](https://open.spotify.com/track/36y7eLCwKI1dlEiNaMgOP4) | [Roy Mustang \(CV:Shinichiro Miki\)](https://open.spotify.com/artist/4YJ87lYZW8VmendkBWO6rZ) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 3:22 |
 | 30 | [Restore steppin'](https://open.spotify.com/track/1w5U9qWuijzS3i2Gyht2hb) | [Alphonse Elric \(CV:Rie Kugimiya\)](https://open.spotify.com/artist/6Ef76xkexgGXlHTGrYIakA), [Edward Elric \(CV:Romi Park\)](https://open.spotify.com/artist/2buz90uVib8YvBaA1Ew8Wt) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:06 |
 | 31 | [そっと、そっと](https://open.spotify.com/track/7mpHcM74tMUKQx2nGhzjMP) | [Lan Fan \(CV:Nana Mizuki\)](https://open.spotify.com/artist/6Yv18aNTgVikc1wOY2XQwU) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 3:44 |
 | 32 | [空を仰げば](https://open.spotify.com/track/6GJhawyIwPE8FkyuDI5Wdf) | [Winry Rockbell \(CV:Megumi Takamoto\)](https://open.spotify.com/artist/5A67I4O5hr14w5vq98sZp7) | [Theme of Fullmetal Alchemist by THE ALCHEMISTS](https://open.spotify.com/album/0VsDCJrgCozrpVX2D0gKLh) | 4:20 |

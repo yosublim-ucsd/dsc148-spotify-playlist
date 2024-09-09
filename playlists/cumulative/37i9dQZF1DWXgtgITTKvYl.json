@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "All Connected",
+        "url": "https://open.spotify.com/album/4x1JU4RdcDd1GLyrXXUoid"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 543173,
+      "name": "All Connected",
+      "url": "https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3"
+    },
+    {
+      "album": {
         "name": "All of a Sudden, You're Gone",
         "url": "https://open.spotify.com/album/5VbUia8LpeD0U3kayUNBT4"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 470666,
       "name": "Blood Moon",
       "url": "https://open.spotify.com/track/2Hf617oOAOOweOpLdsnGmr"
@@ -364,7 +382,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 407999,
       "name": "Broken",
       "url": "https://open.spotify.com/track/6b5xAENeyuvpA3gRwuKAQs"
@@ -472,7 +490,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 273921,
       "name": "Demons",
       "url": "https://open.spotify.com/track/5s51DrOIrHf7k8EtoqNUgN"
@@ -682,6 +700,24 @@
       "duration_ms": 325160,
       "name": "Fantastic Corps",
       "url": "https://open.spotify.com/track/7oYcf6HhEAIkUT0sqITjo7"
+    },
+    {
+      "album": {
+        "name": "Festina Lente",
+        "url": "https://open.spotify.com/album/6aL7jzlucXGRg7t6Z5tri5"
+      },
+      "artists": [
+        {
+          "name": "Imaginaerium",
+          "url": "https://open.spotify.com/artist/36lGqY0ctI5w9Zgxh4weom"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148538,
+      "name": "Festina Lente",
+      "url": "https://open.spotify.com/track/3ckZjrL87FcyRv1gsPWL2Q"
     },
     {
       "album": {
@@ -919,6 +955,32 @@
     },
     {
       "album": {
+        "name": "I Talk To The Wind",
+        "url": "https://open.spotify.com/album/32Dmd5WSFBbyd2yGOcfMxa"
+      },
+      "artists": [
+        {
+          "name": "Mel Collins",
+          "url": "https://open.spotify.com/artist/755kx2UtALChVHizVymkVb"
+        },
+        {
+          "name": "Django Jakszyk",
+          "url": "https://open.spotify.com/artist/12GTImu7XXkoD4iz8LWfAQ"
+        },
+        {
+          "name": "Jakko M. Jakszyk",
+          "url": "https://open.spotify.com/artist/0y7YMwALNf8gEfFTbs065M"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376975,
+      "name": "I Talk To The Wind",
+      "url": "https://open.spotify.com/track/7ahJ1pBRnBjXeOQAf0Xtwc"
+    },
+    {
+      "album": {
         "name": "If You Deserve It, You Deserve It",
         "url": "https://open.spotify.com/album/4TTGDY1fmeNNzDtzDcETzJ"
       },
@@ -1038,7 +1100,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 561226,
       "name": "In Procession",
       "url": "https://open.spotify.com/track/5FViPAjuOcT5IWiPW12iB2"
@@ -1132,7 +1194,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 320680,
       "name": "Keeping People as Pets",
       "url": "https://open.spotify.com/track/2Bs1pRSZh0imh8my3EczOC"
@@ -1150,7 +1212,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 246026,
       "name": "KING GHOST",
       "url": "https://open.spotify.com/track/0ZAvLVvtW8kOxMh0ZtSw9r"
@@ -1193,6 +1255,42 @@
     },
     {
       "album": {
+        "name": "Light Up",
+        "url": "https://open.spotify.com/album/1muN33vvq2WzfRTzJWBSuX"
+      },
+      "artists": [
+        {
+          "name": "Solstice",
+          "url": "https://open.spotify.com/artist/2mx2duTkutpohmKJ8XgdUt"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339320,
+      "name": "Light Up",
+      "url": "https://open.spotify.com/track/3Sy3j3h2TlNEXyEEWBUqUd"
+    },
+    {
+      "album": {
+        "name": "Like a Sunken Ship",
+        "url": "https://open.spotify.com/album/6YUOHmRM9RlwTqpsfbCZ1W"
+      },
+      "artists": [
+        {
+          "name": "Leprous",
+          "url": "https://open.spotify.com/artist/4lgrzShsg2FLA89UM2fdO5"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244470,
+      "name": "Like a Sunken Ship",
+      "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
+    },
+    {
+      "album": {
         "name": "Lonely City",
         "url": "https://open.spotify.com/album/2NKJKVeHiAehVJv1JBQZ7Z"
       },
@@ -1208,6 +1306,24 @@
       "duration_ms": 299802,
       "name": "Lonely City",
       "url": "https://open.spotify.com/track/3K2xMzzdy0xInRejjFa1zp"
+    },
+    {
+      "album": {
+        "name": "Space",
+        "url": "https://open.spotify.com/album/35qTVuxGMe5WGxQOiKVWdn"
+      },
+      "artists": [
+        {
+          "name": "Hawklords",
+          "url": "https://open.spotify.com/artist/0N8rhjytnqVsz7IWQ9pJ3Q"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430500,
+      "name": "Lost In Space",
+      "url": "https://open.spotify.com/track/0UHadqfTu8zVReXjLZDo7s"
     },
     {
       "album": {
@@ -1589,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Return Of The Ellington",
+        "url": "https://open.spotify.com/album/0Bm3jXwKOJZkawHIwsm34N"
+      },
+      "artists": [
+        {
+          "name": "Rosalie Cunningham",
+          "url": "https://open.spotify.com/artist/2DvBNcZ05NC2AOuQa7oyqH"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269546,
+      "name": "Return Of The Ellington",
+      "url": "https://open.spotify.com/track/5lkokZ1j4iAdjI2a244LCj"
+    },
+    {
+      "album": {
         "name": "Revel in Time",
         "url": "https://open.spotify.com/album/4F4zzCVXkFuDiH9pnf88Jk"
       },
@@ -1805,6 +1939,24 @@
     },
     {
       "album": {
+        "name": "Scissorgames",
+        "url": "https://open.spotify.com/album/6u0FWnutWcGPGKIxkUN602"
+      },
+      "artists": [
+        {
+          "name": "Ghost Of The Machine",
+          "url": "https://open.spotify.com/artist/2DsxxAS4AKhD0JKyqPuXhV"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1043597,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/365QftlsJom5yjCPY20Mco"
+    },
+    {
+      "album": {
         "name": "Eldur",
         "url": "https://open.spotify.com/album/0P703q8UCvSzqECNm6zXqJ"
       },
@@ -1859,6 +2011,28 @@
     },
     {
       "album": {
+        "name": "True",
+        "url": "https://open.spotify.com/album/3ON1es6pWr8pBYYRoMJa9R"
+      },
+      "artists": [
+        {
+          "name": "Jon Anderson",
+          "url": "https://open.spotify.com/artist/2iptQ8hQmUa7kZocEBHt7u"
+        },
+        {
+          "name": "The Band Geeks",
+          "url": "https://open.spotify.com/artist/5rSLeWi6nL5nfMNFa1vReS"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257861,
+      "name": "Shine On",
+      "url": "https://open.spotify.com/track/3DZ0YXVKAI2bJ6w5vlOQ3h"
+    },
+    {
+      "album": {
         "name": "Shiram",
         "url": "https://open.spotify.com/album/1eAKIlk3VDOEUF59MkQQz1"
       },
@@ -1906,7 +2080,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 205205,
       "name": "Shoulders",
       "url": "https://open.spotify.com/track/4o7yTUS7EFgYOcFDyN8U27"
@@ -1986,7 +2160,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 258800,
       "name": "Spectre At The Feast",
       "url": "https://open.spotify.com/track/0w12uUjKKiSYhR1gKXpnHp"
@@ -2184,7 +2358,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 235739,
       "name": "The Grey",
       "url": "https://open.spotify.com/track/2WLsXSExqgXLgh2ZKDahu9"
@@ -2202,7 +2376,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 329950,
       "name": "The Heart's Whisper",
       "url": "https://open.spotify.com/track/0gBLuIMjh4NGICdhq23XKc"
@@ -2393,6 +2567,24 @@
     },
     {
       "album": {
+        "name": "Tightrope",
+        "url": "https://open.spotify.com/album/710dhYTLq50hAYZN1Kavab"
+      },
+      "artists": [
+        {
+          "name": "Tiles",
+          "url": "https://open.spotify.com/artist/6yMiXmPJYL5192HSsKVNNb"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235784,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/56X96FF5Z4GkA269Gn7wGD"
+    },
+    {
+      "album": {
         "name": "The Unheavenly Creatures",
         "url": "https://open.spotify.com/album/42S0lDJT9wHKCVaMGgqKdm"
       },
@@ -2422,7 +2614,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 244866,
       "name": "Unravel",
       "url": "https://open.spotify.com/track/0unnpj2MpDXOz55oupWYUX"
@@ -2538,6 +2730,24 @@
       "duration_ms": 278652,
       "name": "Zeus in Chains",
       "url": "https://open.spotify.com/track/65eO1v5FQKMXWJMD4BLti5"
+    },
+    {
+      "album": {
+        "name": "\u00a73",
+        "url": "https://open.spotify.com/album/2iuWDE716ZKi7EB6cRpTGt"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310066,
+      "name": "\u00a73",
+      "url": "https://open.spotify.com/track/72U6mVliG329C2zGWxDNte"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWXgtgITTKvYl"

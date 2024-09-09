@@ -4,7 +4,7 @@
 
 > As you lay yourself to sleep, or take some time to rest, may you have peace, and be still, relaxing to these calming songs of faith.
 
-187 songs - 12 hr 57 min
+188 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [I Could Sing Of Your Love Forever](https://open.spotify.com/track/00I5GhfySvAAkfBf4mcapg) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/622dM9HGzrpibDW8zGAIIh) | 2:41 | 2024-06-23 |  |
 | [I Don't Have Much \- Acoustic](https://open.spotify.com/track/3GhH76hVaJTOVGSBR683Vi) | [Mission House](https://open.spotify.com/artist/1kfAQBrI7qZInqadGFtW8C), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [I Don't Have Much \(Acoustic\)](https://open.spotify.com/album/1NWhJAP7xaX57Vu8LXIn3m) | 4:19 | 2024-07-26 |  |
 | [I See You](https://open.spotify.com/track/4TK6reOnF7h4My580fx47A) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [I See You](https://open.spotify.com/album/6ei0YKLSRcI7tcsF80aVZI) | 3:18 | 2021-10-31 | 2023-01-24 |
+| [I Surrender All](https://open.spotify.com/track/7iDNE7y4h38VHNUGmbXODa) | [Chad Graham](https://open.spotify.com/artist/4Pxdl89t4lmaURMT1Yakep), [Fallon Graham](https://open.spotify.com/artist/5j3s0l1jY44TmPB6jwKvOg) | [I Surrender All](https://open.spotify.com/album/2EPz6MwlWzAYR7qYViQiE4) | 3:37 | 2024-07-26 |  |
 | [I Will Sing](https://open.spotify.com/track/1hp6XGO7kEyHhswy8ivk5y) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [I Will Sing](https://open.spotify.com/album/190lL6QopbCPkkch1Y1cl8) | 4:14 | 2023-02-07 | 2024-07-27 |
 | [If I Had Stayed](https://open.spotify.com/track/5wWQWPXrFhGcs1qCZtSA8D) | [Gatton](https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE) | [If I Had Stayed](https://open.spotify.com/album/6LyuOSTe7Igm3efNqvOn4J) | 2:11 | 2021-10-31 | 2024-04-19 |
 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 | 2021-10-31 |  |
@@ -122,7 +123,7 @@
 | [Overflow](https://open.spotify.com/track/732o97x5cTUkBSGTMkn00R) | [Madison Hamm](https://open.spotify.com/artist/2rhQrZikDlpjv7XQr6rlqT) | [Overflow](https://open.spotify.com/album/4XiTbwVZZDjQJOPYUPu4zz) | 3:25 | 2024-07-26 |  |
 | [Peace \- Acoustic](https://open.spotify.com/track/3MCsTv1aRe3rE7PDso4ses) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Peace](https://open.spotify.com/album/4dTADOo6eZ7MztRDwgqHMz) | 5:07 | 2021-10-31 | 2024-07-27 |
 | [Peace Be Still](https://open.spotify.com/track/4epvekncJds5DpsOOjBT9B) | [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Peace Be Still](https://open.spotify.com/album/5NB3XmeK1ICymTWKPEWnSt) | 5:20 | 2021-10-31 | 2024-04-19 |
-| [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 | 2024-07-26 |  |
+| [Perfect Peace](https://open.spotify.com/track/07bnH9ucRiSiSQsIhqE52B) | [Ealle](https://open.spotify.com/artist/6JtxhjUJpk5f3RShUHxWU5), [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Shirlvin Desir](https://open.spotify.com/artist/4Hbu64CrdG7DMOmKl57S0Y) | [Perfect Peace](https://open.spotify.com/album/2Ft65MibXY2DrNy3aTxbCX) | 3:13 | 2024-07-26 | 2024-09-09 |
 | [Perfect Peace](https://open.spotify.com/track/4UQEeqgbZ2JZGRREiTbKcZ) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD) | [Perfect Peace](https://open.spotify.com/album/1u9VgFbs81jjmsVRMxADlv) | 4:20 | 2023-02-07 | 2024-06-23 |
 | [Poor In Spirit \- Live](https://open.spotify.com/track/1r481zZyjH3m3bDvHu9jCH) | [Eliza King](https://open.spotify.com/artist/3b3oceAq7kCrQBmrsWOtMa), [Brett Shaw](https://open.spotify.com/artist/0cPXxP2NntqpqKvXqRjbfP) | [The Pressing In: Piano Sessions](https://open.spotify.com/album/3qwA60ZIxRxpd7RZ3xNSD3) | 4:49 | 2024-07-26 |  |
 | [Praise](https://open.spotify.com/track/7pG1MzJgF91mS2PNAZ4LXd) | [Megan Tibbits](https://open.spotify.com/artist/3J84729yu2ddpUVNcbqeWQ) | [Praise](https://open.spotify.com/album/5jQqrndG6bMYnzNoeb6hZs) | 4:38 | 2024-07-26 |  |

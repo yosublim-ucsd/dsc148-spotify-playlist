@@ -1,13 +1,29 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 16:03 UTC.",
   "num_followers": 85,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAALElNj/nUDpQb5EUdlPBGPRmAj6E53",
+  "snapshot_id": "AAALFDIowv+Y01wvH+bnToaJt+HR8whx",
   "tracks": [
+    {
+      "added_at": "2024-09-08 16:03:01",
+      "album": {
+        "name": "I Kno",
+        "url": "https://open.spotify.com/album/7Ky3s5Hf8v0kWaN0nUhNfU"
+      },
+      "artists": [
+        {
+          "name": "Drippin So Pretty",
+          "url": "https://open.spotify.com/artist/06zDPcTSPMsBIJX2X7TI3s"
+        }
+      ],
+      "duration_ms": 135551,
+      "name": "I Kno",
+      "url": "https://open.spotify.com/track/5oEBejfrKg0ROmYsxwcaEh"
+    },
     {
       "added_at": "2024-09-07 10:02:43",
       "album": {
@@ -331,7 +347,7 @@
     {
       "added_at": "2024-09-06 04:03:32",
       "album": {
-        "name": "Wet Dreams (feat. Coop & G)",
+        "name": "Wet Dreams (feat. coop & gg)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
       "artists": [
@@ -344,12 +360,12 @@
           "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
         },
         {
-          "name": "G",
-          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
+          "name": "G G",
+          "url": "https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj"
         }
       ],
       "duration_ms": 159090,
-      "name": "Wet Dreams (feat. Coop & G)",
+      "name": "Wet Dreams (feat. coop & gg)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {
@@ -911,22 +927,6 @@
       "duration_ms": 218960,
       "name": "Starbvxkz",
       "url": "https://open.spotify.com/track/4L6w0sBdFKGGiwGLZ5Whb6"
-    },
-    {
-      "added_at": "2024-09-06 04:03:32",
-      "album": {
-        "name": "Job Application",
-        "url": "https://open.spotify.com/album/2ASRrpD3VUJqSmyBJGBKmq"
-      },
-      "artists": [
-        {
-          "name": "Chase Icon",
-          "url": "https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ"
-        }
-      ],
-      "duration_ms": 110222,
-      "name": "Job Application",
-      "url": "https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae"
     }
   ],
   "unique_name": "New Singles Now",

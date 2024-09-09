@@ -1,15 +1,35 @@
 {
   "description": "Your daily update of the most viral tracks right now - Chile.",
-  "num_followers": 70690,
+  "num_followers": 70689,
   "original_name": "Viral 50 - Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Lm+/SAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LnEQyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "SOBRE UNA NUBE DE ALGOD\u00d3N",
         "url": "https://open.spotify.com/album/1VNSqvOeEGB0QKNoI3PNBb"
@@ -33,43 +53,7 @@
       "url": "https://open.spotify.com/track/60d2c47Oz2Wf2h0GnU2m9d"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Los Chamantos de Mi Chile",
         "url": "https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0"
@@ -85,7 +69,7 @@
       "url": "https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "El Amor en 48 Compases",
         "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
@@ -101,23 +85,39 @@
       "url": "https://open.spotify.com/track/0HIFkKeys4hC9bosmZShQ9"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Diet Pepsi",
-        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
       "artists": [
         {
-          "name": "Addison Rae",
-          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 169697,
-      "name": "Diet Pepsi",
-      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Chile Tipico Vol.3 Camino De Luna",
+        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
+      },
+      "artists": [
+        {
+          "name": "Silvia Infantas Y Los Condores",
+          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
+        }
+      ],
+      "duration_ms": 127613,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "YKWGTS",
         "url": "https://open.spotify.com/album/19eKTFbnC5aiE3FPSu1ISn"
@@ -145,23 +145,23 @@
       "url": "https://open.spotify.com/track/6ggOz96WfD8NSPBko8fnJA"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Chile Tipico Vol.3 Camino De Luna",
-        "url": "https://open.spotify.com/album/2uVyfByDwEX7ZVhgrVP6iS"
+        "name": "Diet Pepsi",
+        "url": "https://open.spotify.com/album/0XA403JTounqFh2owquBXu"
       },
       "artists": [
         {
-          "name": "Silvia Infantas Y Los Condores",
-          "url": "https://open.spotify.com/artist/3oQPBzzI6xbjuC0TFQA5QD"
+          "name": "Addison Rae",
+          "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 127613,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
+      "duration_ms": 169697,
+      "name": "Diet Pepsi",
+      "url": "https://open.spotify.com/track/6MzofobZt2dm0Kf1hTThFz"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "El Traje del PSG",
         "url": "https://open.spotify.com/album/7si1GXgwYOKGt9y4F0VK90"
@@ -177,7 +177,7 @@
       "url": "https://open.spotify.com/track/0aKBAAr9c9blu9ArZ3TGiT"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "La Vida en Versos",
         "url": "https://open.spotify.com/album/5DQh3ygGWESHLVG1Ooco9T"
@@ -193,7 +193,7 @@
       "url": "https://open.spotify.com/track/3hNkXDhrnQ9EEDylGEPrw8"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "M\u00e1s Risa Menos Pena <3",
         "url": "https://open.spotify.com/album/1O1iaFKaiJK7CYw4ECRjd9"
@@ -213,7 +213,7 @@
       "url": "https://open.spotify.com/track/6C8J7tzAowu429wel8oxTE"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "misteriosa (xulinho)",
         "url": "https://open.spotify.com/album/0o1Zk7vF0olUTbPDj6AXV1"
@@ -253,7 +253,23 @@
       "url": "https://open.spotify.com/track/7BHPQrmBvbFpXWS1rIsraK"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
+      },
+      "artists": [
+        {
+          "name": "KATSEYE",
+          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Soltera - W Sound 01",
         "url": "https://open.spotify.com/album/5UQC6N5rRND3GZKzysRdA4"
@@ -277,23 +293,7 @@
       "url": "https://open.spotify.com/track/13BDiikG6y5o5cQTK0HpW6"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/1hjqg3TuQ2YqooaPhxHwdv"
-      },
-      "artists": [
-        {
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "duration_ms": 129882,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6aJn7Cst74cj4lNIiPRgav"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "El Pu\u00f1etazo",
         "url": "https://open.spotify.com/album/7LK3qSmEwXJLYragpEdqt7"
@@ -309,43 +309,7 @@
       "url": "https://open.spotify.com/track/0QvOKVBumpc6z1I3xCTV6F"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Hoy",
-        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
-      },
-      "artists": [
-        {
-          "name": "Valentino Merlo",
-          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
-        },
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        }
-      ],
-      "duration_ms": 198495,
-      "name": "Hoy",
-      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "I'll Take You There Choir",
-          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
-      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "2 Peine",
         "url": "https://open.spotify.com/album/0FqjTX6ROxnzkSgNQBLSfs"
@@ -365,63 +329,27 @@
       "url": "https://open.spotify.com/track/30wqSNwxGMXVidA53Nhkfe"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "ATP",
-        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+        "name": "Hoy",
+        "url": "https://open.spotify.com/album/4ENi7P1IV01E2jzbHZeKxn"
       },
       "artists": [
         {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+          "name": "Valentino Merlo",
+          "url": "https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6"
         },
         {
-          "name": "Easykid",
-          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
         }
       ],
-      "duration_ms": 181200,
-      "name": "BOBOMENSOTONTO",
-      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+      "duration_ms": 198495,
+      "name": "Hoy",
+      "url": "https://open.spotify.com/track/0SoBfYjQHvL6cuWHtPUYnq"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "CIEGO SORDO MUDO",
-        "url": "https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos"
-      },
-      "artists": [
-        {
-          "name": "Bryartz",
-          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 196477,
-      "name": "CIEGO SORDO MUDO",
-      "url": "https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Alerce",
-          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
-        }
-      ],
-      "duration_ms": 113400,
-      "name": "El Costillar",
-      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Persona 3 Reload Original Soundtrack",
         "url": "https://open.spotify.com/album/20Bf2RVERC5Bc2eo3vyvJv"
@@ -449,7 +377,111 @@
       "url": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alerce",
+          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+        }
+      ],
+      "duration_ms": 113400,
+      "name": "El Costillar",
+      "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "CIEGO SORDO MUDO",
+        "url": "https://open.spotify.com/album/1HEIs7pw9riPY4i1qhvBos"
+      },
+      "artists": [
+        {
+          "name": "Bryartz",
+          "url": "https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 196477,
+      "name": "CIEGO SORDO MUDO",
+      "url": "https://open.spotify.com/track/2q7lduBHmZ3HeqkUKZEM7h"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 110053,
+      "name": "Te Miro la Cara y Me Da Sed",
+      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "ATP",
+        "url": "https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        },
+        {
+          "name": "Easykid",
+          "url": "https://open.spotify.com/artist/4xEDJHMQ8PN1U2pEldwI6O"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "BOBOMENSOTONTO",
+      "url": "https://open.spotify.com/track/7yjSJCFHonG9hz1A8WHHbn"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
+        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "duration_ms": 140013,
+      "name": "Ay Cari\u00f1o",
+      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "CHIKA MALA",
         "url": "https://open.spotify.com/album/0GQ4CF6ceTtkXZJlo1IHYc"
@@ -473,87 +505,7 @@
       "url": "https://open.spotify.com/track/2SuosMcETUjDfBRobLLTQm"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Amor Fugaz",
-        "url": "https://open.spotify.com/album/6T6sWcNxPL2ddJDZeH8g9Q"
-      },
-      "artists": [
-        {
-          "name": "Amigo de Artistas",
-          "url": "https://open.spotify.com/artist/7j6lJVKmCFlcXtfMDf57gP"
-        },
-        {
-          "name": "godie.",
-          "url": "https://open.spotify.com/artist/5VWqDJQziNeUjSkOCzweGH"
-        },
-        {
-          "name": "V.I.C",
-          "url": "https://open.spotify.com/artist/74CA7WjisOioFzIoREi20s"
-        }
-      ],
-      "duration_ms": 184074,
-      "name": "Amor Fugaz",
-      "url": "https://open.spotify.com/track/21KvzJjEbMwaS6FYYGstkN"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Dejame Pensar",
-        "url": "https://open.spotify.com/album/30bmiI6GyWePgpb6BMZxGL"
-      },
-      "artists": [
-        {
-          "name": "ognikoo",
-          "url": "https://open.spotify.com/artist/39nfMrhILWZVp2SNBlaj1l"
-        },
-        {
-          "name": "ilyLain",
-          "url": "https://open.spotify.com/artist/5rBkeQVlo6s4f9Bl98jSow"
-        },
-        {
-          "name": "Ignaaa",
-          "url": "https://open.spotify.com/artist/3K5dWVq7M9eOLZxGCIqmHx"
-        }
-      ],
-      "duration_ms": 247562,
-      "name": "Dejame Pensar",
-      "url": "https://open.spotify.com/track/7angXGmzfNd1X1GnGmCEv9"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Tattoo (Spanish Version)",
-        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
-      },
-      "artists": [
-        {
-          "name": "Kevz",
-          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
-        }
-      ],
-      "duration_ms": 152957,
-      "name": "Tattoo - Spanish Version",
-      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "30 Cuecas",
         "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
@@ -569,7 +521,7 @@
       "url": "https://open.spotify.com/track/4Dc9LfT50zarvSzaO1ES4Y"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Samba de Raiz - Ao Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/025CDSYsJnhxdS5o3BDvk9"
@@ -585,7 +537,71 @@
       "url": "https://open.spotify.com/track/1IXlKFVhuqqz4JACzcxNBm"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Los Mismos de Siempre",
+        "url": "https://open.spotify.com/album/3dn5i3dOicnSOb6ryOTt22"
+      },
+      "artists": [
+        {
+          "name": "Los Mismos de Siempre",
+          "url": "https://open.spotify.com/artist/0QlyCyYljfcdWtBNemiXXV"
+        }
+      ],
+      "duration_ms": 121084,
+      "name": "Mi Cueca Chilena",
+      "url": "https://open.spotify.com/track/3FmgudfIL8jtAOa7X1c51w"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
+        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Alerce",
+          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+        }
+      ],
+      "duration_ms": 76066,
+      "name": "La Mazamorra",
+      "url": "https://open.spotify.com/track/5u7FyEcNDbWN2VB9lMi1pd"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Tattoo (Spanish Version)",
+        "url": "https://open.spotify.com/album/5Sxoet3bM8FJeRK2J1us86"
+      },
+      "artists": [
+        {
+          "name": "Kevz",
+          "url": "https://open.spotify.com/artist/1bACqFgiKE47Y61x3I8wdg"
+        }
+      ],
+      "duration_ms": 152957,
+      "name": "Tattoo - Spanish Version",
+      "url": "https://open.spotify.com/track/6gP0cvDaIOwiCdaOd1bmcW"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Amiga Ya Mat\u00f3",
         "url": "https://open.spotify.com/album/3vdeLAOCdRgLEYXaoAxpwh"
@@ -601,23 +617,39 @@
       "url": "https://open.spotify.com/track/0UONsSefbs5YP6iluxq8Dq"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
       },
       "artists": [
         {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
         }
       ],
-      "duration_ms": 110053,
-      "name": "Te Miro la Cara y Me Da Sed",
-      "url": "https://open.spotify.com/track/11fJouJwR4m6A48CC40qHi"
+      "duration_ms": 131586,
+      "name": "El Sol y la Luna",
+      "url": "https://open.spotify.com/track/1ftGNTvnmH7KRRDUtASTej"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Su Majestad La Cueca - Volumen 2",
+        "url": "https://open.spotify.com/album/7Eo5UjozwNVXP6V0tJhTgz"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Graneros",
+          "url": "https://open.spotify.com/artist/5OloSHg3TjTOocxybYkw37"
+        }
+      ],
+      "duration_ms": 102122,
+      "name": "Viva Chile, Viva Chile",
+      "url": "https://open.spotify.com/track/4qYkYELTxSmwsFkeVSDsei"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -637,55 +669,23 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
-        "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
+        "name": "Con todo el sabor del puerto",
+        "url": "https://open.spotify.com/album/71em5dA8e6y5phje5xUeSI"
       },
       "artists": [
         {
-          "name": "Conjunto Alerce",
-          "url": "https://open.spotify.com/artist/2pqwxwD3MCX4dM9OSdVoWb"
+          "name": "Silvanita y Los del Quincho",
+          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
         }
       ],
-      "duration_ms": 76066,
-      "name": "La Mazamorra",
-      "url": "https://open.spotify.com/track/5u7FyEcNDbWN2VB9lMi1pd"
+      "duration_ms": 141141,
+      "name": "Felon\u00eda de Amor",
+      "url": "https://open.spotify.com/track/6bjCUAIaa6m8POK66eaK6c"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Los Mismos de Siempre",
-        "url": "https://open.spotify.com/album/3dn5i3dOicnSOb6ryOTt22"
-      },
-      "artists": [
-        {
-          "name": "Los Mismos de Siempre",
-          "url": "https://open.spotify.com/artist/0QlyCyYljfcdWtBNemiXXV"
-        }
-      ],
-      "duration_ms": 121084,
-      "name": "Mi Cueca Chilena",
-      "url": "https://open.spotify.com/track/3FmgudfIL8jtAOa7X1c51w"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Las Mejores Cuecas Con Maihuen de los Angeles",
-        "url": "https://open.spotify.com/album/5ZPsIKHvrhsNl9KTDNsUBP"
-      },
-      "artists": [
-        {
-          "name": "Maihuen de los Angeles",
-          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
-        }
-      ],
-      "duration_ms": 140013,
-      "name": "Ay Cari\u00f1o",
-      "url": "https://open.spotify.com/track/05GZJN3FA5uHicXdJGpj7i"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Hasta Aqu\u00ed Llegu\u00e9",
         "url": "https://open.spotify.com/album/7hYoXVqpRhN9ATvO8Kf3w5"
@@ -705,7 +705,7 @@
       "url": "https://open.spotify.com/track/08pbRBstuvH7ArRxeb8fwT"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Folklore en Mi Escuela. Danzas y Cantos de Am\u00e9rica, Vol. 1",
         "url": "https://open.spotify.com/album/0u9kzGk1hFTp5ITUQye2ww"
@@ -721,23 +721,71 @@
       "url": "https://open.spotify.com/track/0Jljgxg8hz5Fd1fggqSACU"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Si Antes Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
+        "name": "Chief Boot Knocka",
+        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
       },
       "artists": [
         {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          "name": "Sir Mix-A-Lot",
+          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
         }
       ],
-      "duration_ms": 195824,
-      "name": "Si Antes Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+      "duration_ms": 240293,
+      "name": "Nasty Dog",
+      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "duration_ms": 163282,
+      "name": "La Consentida",
+      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
+      "album": {
+        "name": "Chile en mi Escuela",
+        "url": "https://open.spotify.com/album/6a8FYP5NBJGZFALuurxgyh"
+      },
+      "artists": [
+        {
+          "name": "La Banda De Fiesta",
+          "url": "https://open.spotify.com/artist/5VvOtLu8lBn1V71nsWFgxp"
+        }
+      ],
+      "duration_ms": 203120,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/7iKRhtTI1Caq67NaMNdi0b"
+    },
+    {
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Guess featuring Billie Eilish",
         "url": "https://open.spotify.com/album/3ThlxfLSy4bfKzxWqmC7VN"
@@ -757,39 +805,39 @@
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Chief Boot Knocka",
-        "url": "https://open.spotify.com/album/129ZZNyaPOWi5OsZEyQKIP"
+        "name": "Isla de Pascua",
+        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
       },
       "artists": [
         {
-          "name": "Sir Mix-A-Lot",
-          "url": "https://open.spotify.com/artist/3TQ9JTBI2n2hfo7aRONEYV"
+          "name": "Rapanui Hinariru",
+          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
         }
       ],
-      "duration_ms": 240293,
-      "name": "Nasty Dog",
-      "url": "https://open.spotify.com/track/3ZP1AbM0rurWtqQIhTVcln"
+      "duration_ms": 154489,
+      "name": "Uru Te Hami",
+      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Su Majestad La Cueca - Volumen 2",
-        "url": "https://open.spotify.com/album/7Eo5UjozwNVXP6V0tJhTgz"
+        "name": "Si Antes Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS"
       },
       "artists": [
         {
-          "name": "Conjunto Graneros",
-          "url": "https://open.spotify.com/artist/5OloSHg3TjTOocxybYkw37"
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
         }
       ],
-      "duration_ms": 102122,
-      "name": "Viva Chile, Viva Chile",
-      "url": "https://open.spotify.com/track/4qYkYELTxSmwsFkeVSDsei"
+      "duration_ms": 195824,
+      "name": "Si Antes Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "444",
         "url": "https://open.spotify.com/album/5wKKETPKCZbiIxfBTPfz16"
@@ -809,55 +857,7 @@
       "url": "https://open.spotify.com/track/1o4xkdBe0RjSf2u6VXi4OI"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "El Amor en 48 Compases",
-        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
-      },
-      "artists": [
-        {
-          "name": "Entremares",
-          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
-        }
-      ],
-      "duration_ms": 131586,
-      "name": "El Sol y la Luna",
-      "url": "https://open.spotify.com/track/1ftGNTvnmH7KRRDUtASTej"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "Con todo el sabor del puerto",
-        "url": "https://open.spotify.com/album/71em5dA8e6y5phje5xUeSI"
-      },
-      "artists": [
-        {
-          "name": "Silvanita y Los del Quincho",
-          "url": "https://open.spotify.com/artist/2EHb5YBuTpyV4leGdhdfXA"
-        }
-      ],
-      "duration_ms": 141141,
-      "name": "Felon\u00eda de Amor",
-      "url": "https://open.spotify.com/track/6bjCUAIaa6m8POK66eaK6c"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
         "name": "Sailor Song",
         "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
@@ -873,56 +873,36 @@
       "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Isla de Pascua",
-        "url": "https://open.spotify.com/album/72wNEvYXR6J4mnAYtzH7xe"
+        "name": "El Ritmo de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/05AGaZAGzaTtCjbfHEmCSz"
       },
       "artists": [
         {
-          "name": "Rapanui Hinariru",
-          "url": "https://open.spotify.com/artist/2A6oWfpVSVpC13ejJBEqgs"
+          "name": "Medialuna de Amores",
+          "url": "https://open.spotify.com/artist/4Mn6wG1rphD2xDDUnGI6rw"
         }
       ],
-      "duration_ms": 154489,
-      "name": "Uru Te Hami",
-      "url": "https://open.spotify.com/track/607g9792OBarGHbrH4UHDr"
+      "duration_ms": 143418,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/56iv7MN0cSDgHF9lliUDPj"
     },
     {
-      "added_at": "2024-09-07 13:46:39",
+      "added_at": "2024-09-08 13:22:41",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
         }
       ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
-    },
-    {
-      "added_at": "2024-09-07 13:46:39",
-      "album": {
-        "name": "30 Cuecas",
-        "url": "https://open.spotify.com/album/6p2coYM4I9zqnkSvpfa1lK"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Campos",
-          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
-        }
-      ],
-      "duration_ms": 163282,
-      "name": "La Consentida",
-      "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
+      "duration_ms": 146854,
+      "name": "Si Tu Me Amaras",
+      "url": "https://open.spotify.com/track/10u4VWraLZ11bJ0uFMp9Lk"
     }
   ],
   "unique_name": "Viral 50 - Chile",

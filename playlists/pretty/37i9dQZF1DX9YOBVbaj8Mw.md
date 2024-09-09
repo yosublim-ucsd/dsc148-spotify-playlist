@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj wygranych i nominowanych do nagród Fryderyk w kategorii muzyka rozrywkowa i jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,466 likes - 90 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,468 likes - 90 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,12 +25,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 15 | [kawałek dla Marcina P.](https://open.spotify.com/track/7uX71wnAiyEKVkjikwn6Cp) | [WaluśKraksaKryzys](https://open.spotify.com/artist/4kOWvyAkvmkCrIHwW3bODd) | [+ piekło + niebo +](https://open.spotify.com/album/0vRXC5k20GgSWbTWumsRFO) | 3:51 |
 | 16 | [Od nowa](https://open.spotify.com/track/2hoQy05lPYcCySUSipQkoU) | [Kwiat Jabłoni](https://open.spotify.com/artist/53l3yjX8ITilPIlCRsVKEB) | [Pokaz slajdów](https://open.spotify.com/album/2TrMmgKeamryklPOFKV8Xr) | 3:49 |
 | 17 | [Soundtrack](https://open.spotify.com/track/5bKltagkEhBFsVsv7arzPR) | [Paulina Przybysz](https://open.spotify.com/artist/2kwgxgJT8XYGfHjWDp2API) | [Wracając](https://open.spotify.com/album/4cPdaFlz0WZLlyfZzzi0ZB) | 3:18 |
-| 18 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
+| 18 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 |
 | 19 | [Strange Love](https://open.spotify.com/track/57yG1qk6snp79Whw9lMK03) | [EABS](https://open.spotify.com/artist/5YkOoDfxepfrbbyuimbo8c), [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp) | [In Search of a Better Tomorrow](https://open.spotify.com/album/2WXKp7LdHW5LDYYuziTXtS) | 5:44 |
-| 20 | [Czekam Na Znak](https://open.spotify.com/track/3c1r9SVeKBlhCNVybpLZb4) | [IGNACY](https://open.spotify.com/artist/4ccurDUZ48cXNrcrLsA9ub) | [Central Park](https://open.spotify.com/album/0gUKAbUK0UwJsERX22e9rx) | 3:16 |
+| 20 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
 | 21 | [Calm Down](https://open.spotify.com/track/7myxGhUzbxWAPIUykBBCWH) | [Katarzyna Groniec](https://open.spotify.com/artist/4k8QgTeCBwedPSM2zOFkda) | [Konstelacje](https://open.spotify.com/album/2T0oABCOJfIuDc3CicdOGr) | 3:47 |
-| 22 | [W domach z betonu nie ma wolnej miłości](https://open.spotify.com/track/6C48u4T4hntL2LMEIo8fbh) | [Martyna Jakubowicz](https://open.spotify.com/artist/7E1cYTM1165LXxLhY82iV0) | [Polska nostalgia 60+ Cz\. 4](https://open.spotify.com/album/4qsfOticmzQEfDRED5nsx4) | 4:25 |
-| 23 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
+| 22 | [Mopsik klopsik](https://open.spotify.com/track/0BSbPBL0LQV13I29OguSwy) | [Śpiewające Brzdące](https://open.spotify.com/artist/4oWxhgGK1UEaC2uwPmagSH) | [Lisek i przyjaciele](https://open.spotify.com/album/1CBmYXANQgCGqz9qYKEHa5) | 2:13 |
+| 23 | [Złoto](https://open.spotify.com/track/2YAhcArj5MkVeLIC4K4UFb) | [Mrozu](https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX) | [Złote Bloki](https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR) | 3:11 |
 | 24 | [Ostatnia taka zima](https://open.spotify.com/track/5RrqO7f46CZaoe2N0J4jz4) | [Zima Stulecia](https://open.spotify.com/artist/6zipCNbD8O4KIXfKhCaEsK) | [Minus 30°C](https://open.spotify.com/album/5fkmehd41xw4Aop984INzI) | 3:39 |
 | 25 | [Devil In You](https://open.spotify.com/track/4YrSOC41YPRrQq0cuxTJgu) | [John Porter](https://open.spotify.com/artist/23h87JEy6Tyl9Yy7jzNdAt), [Agata Karczewska](https://open.spotify.com/artist/3F59TScUxGWsl0aG7Vmqx2) | [On The Wrong Planet](https://open.spotify.com/album/0qKDzYpw0Bvo9MkpXTptNF) | 5:03 |
 | 26 | [Francoise Hardy](https://open.spotify.com/track/5E4eQoE3wAaVIgSiY06nrl) | [Lordofon](https://open.spotify.com/artist/7G3hAQixY7DIAGTgA2GU99) | [Passé](https://open.spotify.com/album/7d4xqOm6ECKeFJMh9bMP1M) | 3:08 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YOBVbaj8Mw.md) - [plain]
 | 86 | [Falling Up](https://open.spotify.com/track/2ZFOwLuqCZmzC2khHhRQc3) | [Horntet](https://open.spotify.com/artist/2miwAQ8PY05NnvIEZa4TQz), [Bartłomiej Leśniak](https://open.spotify.com/artist/6elU49AsLleDexXyQnOeAW), [Robert Wypasek](https://open.spotify.com/artist/3azzTqUgUR97rCoPjwq8lA), [Szymon Ziółkowski](https://open.spotify.com/artist/3XYwgUP8jS69oxkfxRuIfg), [Mikolaj Sikora](https://open.spotify.com/artist/1HfykGEcWFCtMQgVkBFKVh), [Piotr Przewoźniak](https://open.spotify.com/artist/4ungdngpcfCsXiIHS7enTF) | [Horntet](https://open.spotify.com/album/0i4KNRV2Uu7wn8UH8UeYLN) | 9:23 |
 | 87 | [Toksyczny myśliciel / Toxic thinker](https://open.spotify.com/track/1XiDMJtKPIUF1ymKhVlQKg) | [Władysław Komendarek](https://open.spotify.com/artist/5AsOXs9X5NwLxaApulRvV6), [Krzysztof Komendarek\-Tymendorf](https://open.spotify.com/artist/4n27D11U5l7SCihU7ymVts) | [AtomoGenus](https://open.spotify.com/album/3luSKB2QW6RRtE6mqVk0kS) | 6:19 |
 | 88 | [a Story of Perception](https://open.spotify.com/track/7Lf7GfnDGC3RWWYvQ6a18h) | [Irka Zapolska Quartet](https://open.spotify.com/artist/54xNZbyRTTQh0HNR8uw8lu) | [perception of preception](https://open.spotify.com/album/7FP9VDLmGKbG7u6K3KbOZq) | 14:10 |
-| 89 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
-| 90 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
+| 89 | [After Shave](https://open.spotify.com/track/5PXn4erENPJyodInOq5DxL) | [Piotr Szlempo](https://open.spotify.com/artist/29ZBuoAY2TTDdllsoYM7Z6) | [Polish Pentagon](https://open.spotify.com/album/61oJyuLnvStiq63HKDhvwv) | 4:46 |
+| 90 | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/track/2A8o2MlcGAHv9WXLAHS5oW) | [Krzysztof Meyer](https://open.spotify.com/artist/5KoCTssL8oD764UuBJ1lgT), [Manuel Fernandez](https://open.spotify.com/artist/2FvVWcbU9hDY3sfKYiNMBA) | [Krzysztof Meyer: Sonata No.4, Op.22: IV\. Interludio II](https://open.spotify.com/album/4rQ3CX7a45SmohD8136O0m) | 3:58 |
 
 Snapshot ID: `ZgE7OQAAAADt1nonr8MgMSbXNCBEKblz`

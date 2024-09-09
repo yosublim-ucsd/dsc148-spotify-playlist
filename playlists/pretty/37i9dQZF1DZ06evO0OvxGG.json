@@ -1,12 +1,12 @@
 {
-  "description": "This is Slipmami. The essential tracks, all in one playlist.",
+  "description": "This is Slipmami. Todos os maiores hits em uma s\u00f3 playlist.",
   "num_followers": 6305,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAAdWboJ96MsMmoWyOx66a+1",
+  "snapshot_id": "ZtuXgAAAAAB8a+sOXYUisfnNH2chx4DP",
   "tracks": [
     {
       "added_at": null,
@@ -127,26 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cria de Caxias",
-        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
-      },
-      "artists": [
-        {
-          "name": "POCAH",
-          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 127866,
-      "name": "cria de caxias",
-      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "8KG",
         "url": "https://open.spotify.com/album/6wJy7soOIrPeUVYXEgyc0c"
       },
@@ -195,6 +175,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Malvadeza",
+        "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Malvadeza",
+      "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Malvatrem",
         "url": "https://open.spotify.com/album/2mbITErP7QEMdxp8mZz2Eh"
       },
@@ -219,26 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Malvadeza",
-        "url": "https://open.spotify.com/album/0eQEgHKRqdWJp4Kf6PtjAy"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Malvadeza",
-      "url": "https://open.spotify.com/track/1bYDvVrCAWzQnw5orQ9qgB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "geada",
         "url": "https://open.spotify.com/album/4U87UWtYMsHOYHe7s0jLX5"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 154761,
       "name": "geada",
       "url": "https://open.spotify.com/track/6OJpeTE1wIBHBP9149QOcO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cria de Caxias",
+        "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
+      },
+      "artists": [
+        {
+          "name": "POCAH",
+          "url": "https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 127866,
+      "name": "cria de caxias",
+      "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
     },
     {
       "added_at": null,

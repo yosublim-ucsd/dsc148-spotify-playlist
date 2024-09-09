@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Riley Green & Ella Langley, Corey Kent, Danielle Bradbery, Jon Pardi and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,346 likes - 49 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,611 likes - 49 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 20 | [See It for Myself](https://open.spotify.com/track/4hYW7xnMoACt6RFst5AxKE) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [See It for Myself](https://open.spotify.com/album/0BKIy7DkY1oE0qRIW57fQD) | 3:09 |
 | 21 | [King Of Dallas](https://open.spotify.com/track/7fEngwKjaWimFt1emLQOsM) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [King Of Dallas](https://open.spotify.com/album/6DwCQT3lkg2nC2GoviRawm) | 2:42 |
 | 22 | [X's](https://open.spotify.com/track/5xX1cE1sGQvatWXHuJx89y) | [Maddox Batson](https://open.spotify.com/artist/6vJSPd6G272bUvUAisTCvd) | [X's](https://open.spotify.com/album/2w4eXBPu4U5h31KBBnuprx) | 2:19 |
-| 23 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:08 |
+| 23 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:09 |
 | 24 | [Homewrecker](https://open.spotify.com/track/52BzAP9o0G7daDBlXrNiIh) | [Willow Avalon](https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR) | [Homewrecker](https://open.spotify.com/album/2XDU3i198ll8mGU5zGpqgE) | 3:15 |
 | 25 | [Sauce On Tap](https://open.spotify.com/track/2cysivCqQYAXRM9beBDiBD) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Sauce On Tap](https://open.spotify.com/album/7zK9COpTIC9UOe7B9Bl162) | 2:00 |
 | 26 | [He Was You](https://open.spotify.com/track/6sNytn6CRfUd1mxSgS1AHN) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Was You](https://open.spotify.com/album/7EXSeFwdLAzMUmfHHVmP9f) | 2:26 |

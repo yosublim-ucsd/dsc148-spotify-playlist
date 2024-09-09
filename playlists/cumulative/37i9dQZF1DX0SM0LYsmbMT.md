@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,228 songs - 6 day 17 hr 22 min
+4,229 songs - 6 day 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1160,7 +1160,7 @@
 | [Farewell](https://open.spotify.com/track/6IWyXH6vjPdhQFp8YxNU5V) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Farewell](https://open.spotify.com/album/2iUFmp0fO0Mkc9jEsWIfi9) | 2:16 | 2023-12-01 | 2024-01-05 |
 | [Farewell Sunsets](https://open.spotify.com/track/3evPT3wO15y3WgYutAQKvd) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Farewell Sunsets](https://open.spotify.com/album/1l4MExe6D96agzJTUfqsM0) | 2:30 | 2023-10-05 | 2023-11-14 |
 | [Farewell to Shaman](https://open.spotify.com/track/0nevZ2Ezq589BnYF5YXdjq) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Farewell to Shaman](https://open.spotify.com/album/3pNrtCNDNq8MYTp0ZI05MX) | 2:08 | 2021-07-09 | 2021-11-25 |
-| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 |  |
+| [Farlands](https://open.spotify.com/track/5q3OHXJX1lX5wNJmrm93GD) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Farlands](https://open.spotify.com/album/7wr0LYZiFh5SQ86PzRIHIP) | 1:33 | 2024-02-08 | 2024-09-09 |
 | [Fave Thing](https://open.spotify.com/track/6VCeEqyExn5hfV1dBsGDIm) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Fave Thing](https://open.spotify.com/album/0ecADXvGhKIWjKDwX37Aox) | 3:04 | 2019-11-01 | 2020-04-24 |
 | [Faye \- Village Live](https://open.spotify.com/track/7A2Fpl8gfayOmCJSH0xFhm) | [Aver](https://open.spotify.com/artist/0lBiVIJxGVqGyNkfjGuZKi), [Move 78](https://open.spotify.com/artist/3gmX5TSkgW4iu2dm71QzWr) | [Faye \(Village Live\)](https://open.spotify.com/album/1oxUImMwKhuPjGptt81tEO) | 4:10 | 2020-12-11 | 2021-02-01 |
 | [Fearless](https://open.spotify.com/track/1zkW0E6gPOXkl0UNvMK4vB) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Fearless](https://open.spotify.com/album/2AhlDroDgazTUk6WTXhhtz) | 2:49 | 2022-09-22 | 2023-03-10 |
@@ -3057,6 +3057,7 @@
 | [Rêverie](https://open.spotify.com/track/3EbfPT2xetHLEj2MX2PFhe) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Rêverie](https://open.spotify.com/album/1YSpV0Wn15qeg75YS1JXlZ) | 3:27 | 2021-03-19 | 2021-08-01 |
 | [Río Ocho](https://open.spotify.com/track/1cpPta2P0aGxUn6F6Up96n) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Río Ocho](https://open.spotify.com/album/3bdzsVb0iRXvXbjlH78Dd5) | 2:16 | 2021-08-20 | 2022-01-21 |
 | [s p r i n g t i m e](https://open.spotify.com/track/4ndz02NXzmZAujnADOx7cF) | [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF) | [Tranquility 2021](https://open.spotify.com/album/3o1YGge37Rf6BnwTg9MMBK) | 3:03 | 2021-05-07 | 2022-03-18 |
+| [Sabai](https://open.spotify.com/track/44qql1ujljCnblwDQ6cI77) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [marsquake](https://open.spotify.com/artist/7JHsA8iL2mnUsAteuzehsb) | [Sabai](https://open.spotify.com/album/13l7e8BFiDueEXir67SEeD) | 2:00 | 2024-09-02 |  |
 | [Sabe](https://open.spotify.com/track/3BR4sRMLrnttgAhGjLdezx) | [Devaloop](https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sabe](https://open.spotify.com/album/4KQ5QcUMhcegaISgN6bgH6) | 2:16 | 2021-12-09 | 2021-12-30 |
 | [Sacred Lotus](https://open.spotify.com/track/6xlZiFWIMORW2lwvwwatHV) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sacred Lotus](https://open.spotify.com/album/13xGg6sWM7YUTaMw5ileHd) | 2:30 | 2021-05-21 | 2021-08-06 |
 | [Sad Emoji](https://open.spotify.com/track/1biA4kEJ8M2tPrWfwy9uID) | [Katashi Kaitō](https://open.spotify.com/artist/7BDqewjn6oL3ryvHv78Wkx) | [Sad Emoji](https://open.spotify.com/album/6wJVzVhr5oSNfqzkTDCRez) | 2:15 | 2021-06-19 | 2021-12-17 |

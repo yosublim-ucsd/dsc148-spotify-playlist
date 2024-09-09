@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "International Villager",
+        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Gippy Grewal",
+          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256000,
+      "name": "Angreji Beat",
+      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
+    },
+    {
+      "album": {
         "name": "Asal Mein",
         "url": "https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK"
       },
@@ -898,7 +920,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-29",
+      "date_removed": null,
       "duration_ms": 239161,
       "name": "Dil Tod Ke",
       "url": "https://open.spotify.com/track/71OoohX1NBG4ez6eijgaWE"
@@ -1120,7 +1142,7 @@
       ],
       "date_added": "2023-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 170769,
       "name": "Genda Phool (feat. Payal Dev)",
       "url": "https://open.spotify.com/track/0gzu5mm36VJH2Zqu8sQPTf"
@@ -2410,7 +2432,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 261757,
       "name": "Teri Aankhon Mein",
       "url": "https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1"

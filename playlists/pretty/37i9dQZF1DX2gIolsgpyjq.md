@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Sløtface
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,328 likes - 104 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,335 likes - 104 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

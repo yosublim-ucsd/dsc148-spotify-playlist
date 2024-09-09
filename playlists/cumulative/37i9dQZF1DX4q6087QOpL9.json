@@ -465,6 +465,28 @@
     },
     {
       "album": {
+        "name": "Beautifull",
+        "url": "https://open.spotify.com/album/4JnFpyALSYA6Tlfbwl4uUP"
+      },
+      "artists": [
+        {
+          "name": "Devon Miles",
+          "url": "https://open.spotify.com/artist/4PdjujFNWfXyeCHGo2Uhv3"
+        },
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2024-08-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370000,
+      "name": "Beautifull - Kerri Chandler Vocal Mix",
+      "url": "https://open.spotify.com/track/0emR0YB9BPQpkcto54KKfR"
+    },
+    {
+      "album": {
         "name": "Believe In A Brighter Day (feat. P.Y. Anderson) [Micky More & Andy Tee Remix]",
         "url": "https://open.spotify.com/album/6Fcw8dfdH2Nzte7ij0hMUC"
       },
@@ -3760,7 +3782,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 380020,
       "name": "Love Come Down - Main Mix",
       "url": "https://open.spotify.com/track/0InOMJTU5586iFsGEC4VAg"

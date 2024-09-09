@@ -1,12 +1,12 @@
 {
   "description": "De mooiste en nieuwste liedjes van het moment. Cover: Racoon",
-  "num_followers": 472733,
+  "num_followers": 472658,
   "original_name": "Blijf Luisteren!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztop4AAAAACGTRTJXFpBkkubPjJUw9Di",
+  "snapshot_id": "Zt4eYAAAAABjMT9Vpf2omn4moqZ/X8i3",
   "tracks": [
     {
       "added_at": "2024-09-05 22:00:00",
@@ -101,6 +101,22 @@
       "url": "https://open.spotify.com/track/4fZ07aBMo69QTEKo4OC4Dz"
     },
     {
+      "added_at": "2024-09-08 22:00:00",
+      "album": {
+        "name": "Wonderful World",
+        "url": "https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 279146,
+      "name": "Wonderful World",
+      "url": "https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5"
+    },
+    {
       "added_at": "2024-09-05 22:00:00",
       "album": {
         "name": "Love Is Alive",
@@ -151,18 +167,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "You Still Got Me",
-        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
       },
       "artists": [
         {
-          "name": "Beth Hart",
-          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 260458,
-      "name": "You Still Got Me - Edit",
-      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+      "duration_ms": 201533,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -371,22 +387,6 @@
       "duration_ms": 192278,
       "name": "Queen of my Castle",
       "url": "https://open.spotify.com/track/5xvL8aAtHOj0R7Fpz4eAVS"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/0xBVvz5KOwJtgrc9sFpnwQ"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 201533,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/0JjecOzaIzBTfIY35QGmgw"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "You Still Got Me",
+        "url": "https://open.spotify.com/album/3VJps2m5A4Hv5ueNuH5pQi"
+      },
+      "artists": [
+        {
+          "name": "Beth Hart",
+          "url": "https://open.spotify.com/artist/30TrHDLNCKQVTYWOn9QqOC"
+        }
+      ],
+      "duration_ms": 260458,
+      "name": "You Still Got Me - Edit",
+      "url": "https://open.spotify.com/track/6nPnDZM7foqw3EH4pUAKVw"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "How to Say I Love You",
         "url": "https://open.spotify.com/album/3xPPfPfqh4gTeQJCxWeK7s"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 200640,
       "name": "How Many Nights",
       "url": "https://open.spotify.com/track/565PkWWdrqFITixrqoNSRi"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "OKAY",
-        "url": "https://open.spotify.com/album/493kf8veQgFOYoI2w6MrUQ"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 170797,
-      "name": "OKAY",
-      "url": "https://open.spotify.com/track/6TR5u5u7ZynQwdrnlE0QHq"
     },
     {
       "added_at": "2024-09-05 22:00:00",

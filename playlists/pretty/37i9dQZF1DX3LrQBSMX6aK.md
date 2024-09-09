@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 
 > Classical compositions from Ravi Shankar and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,666 likes - 51 songs - 12 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,682 likes - 51 songs - 12 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LrQBSMX6aK.md) - [plain]
 | 39 | [Raag Mishra Shirvranjani Taal Deepchandi](https://open.spotify.com/track/1pvvfWnFF3va8LrjbUDx8S) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Aashish Khan](https://open.spotify.com/artist/5p8OENeK8MwGxxyAN3Dtbq), [Swapan Chaudhuri](https://open.spotify.com/artist/7wRuaMUZKArrp2sQCaC2LT) | [Jugalbandi II](https://open.spotify.com/album/5shZ28NNUrgvj8bsSuAo40) | 21:49 |
 | 40 | [Raga Nata Bhairav \- Remastered](https://open.spotify.com/track/6zkhbkKJ6DFABNlXvLXAjU) | [Ravi Shankar](https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0) | [The Ravi Shankar Collection: A Morning Raga / An Evening Raga \(Remastered\)](https://open.spotify.com/album/4IvghF2Vq1j3nncz3GDkHx) | 23:18 |
 | 41 | [Raga Kalavati \- Khayal](https://open.spotify.com/track/5jc5Dn3oIigJIOHKFGBRde) | [Parveen Sultana](https://open.spotify.com/artist/6icHDJ25LIt9b8hyW6Zm6e) | [Le Chant \- Khayal](https://open.spotify.com/album/4u4qaZ6CcnBKfpsmEdfugX) | 14:56 |
-| 42 | [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 15:31 |
+| 42 | [Raga Kamod \- Madhalaya Deepchandi Taal](https://open.spotify.com/track/1lNbSKhPB1vD1MfM8SwpFY) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Rajan Mishra](https://open.spotify.com/artist/5ctgUVR3rh12mXvFckKVp9), [Sajan Mishra](https://open.spotify.com/artist/4s03GMsBoEBO7LnPhawd9p) | [Ahead of Time](https://open.spotify.com/album/3laPhQ11JQ7pU2gmn2WGt5) | 15:31 |
 | 43 | [Dhun in Raga Mishra Pilu](https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS), [Rajiv Chaurasia](https://open.spotify.com/artist/2EqW2WtNgugbWtlMqyphd3), [Nandu Kamat](https://open.spotify.com/artist/0gfpwV8BF3XiMtbWgH1AKO) | [Raga Darbari Kannada & Dhun in Rag Mishra Pilu](https://open.spotify.com/album/2tIWCH1Sx2Lxk6C8Rk1qS9) | 15:09 |
 | 44 | [Talam: Mahalakshmi Tala \- 9 1/2 Beats \- Pancha Nadai Pallavi \(Ragam Tanam Pallavi\)](https://open.spotify.com/track/5b7IIUpOXAEemY8vs2vBlE) | [L\. Shankar](https://open.spotify.com/artist/5X75aYCKG5hS5yONW4IPRr), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [T.H\. Vinayakram](https://open.spotify.com/artist/6kF3zpdpcHSckhA72oPCGd), [Caroline](https://open.spotify.com/artist/3BgtwcBb7TUHnvTZEs64C8) | [Pancha Nadai Pallavi](https://open.spotify.com/album/4PIGHrAEFWv6RG5ywsX96p) | 31:15 |
 | 45 | [Raga Jaijaiwanti](https://open.spotify.com/track/1aK6pe3rJ01koTZoSu96Mr) | [Ajoy Chakrabarty](https://open.spotify.com/artist/6Xg6qVSMnpyFFBf8mtuUrR) | [Swar Samrat](https://open.spotify.com/album/08VXTicjbQ0Y7E0V2WKaC4) | 27:13 |

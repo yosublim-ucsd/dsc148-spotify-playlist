@@ -1,12 +1,12 @@
 {
   "description": "This Is Valent\u00edn Elizalde. Los temas esenciales, todos en una lista.",
-  "num_followers": 428851,
+  "num_followers": 428914,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAABXZEcC2IG8SpGLcvwE5iv2",
+  "snapshot_id": "ZtuXgAAAAAB1K9MUlZFlUZzycesoQC9N",
   "tracks": [
     {
       "added_at": null,
@@ -507,22 +507,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Aunque Te Enamores",
-      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 169600,
       "name": "Ni Dada La Quiero",
       "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Aunque Te Enamores",
+      "url": "https://open.spotify.com/track/0F6ajDDUlAepkLFIyBLS0W"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Las Bandas Rom\u00e1nticas",
-        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 186960,
-      "name": "Vete Con \u00c9l",
-      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Mejor Colecci\u00f3n De Corridos",
         "url": "https://open.spotify.com/album/7lk2j5XmLBaWJw40K6lTtZ"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 157280,
       "name": "La Tambora Va A Sonar",
       "url": "https://open.spotify.com/track/2VeCQKwNIqeEBIu4abOKKO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Las Bandas Rom\u00e1nticas",
+        "url": "https://open.spotify.com/album/0msllXlEH4Ndpv2NFcSCBd"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 186960,
+      "name": "Vete Con \u00c9l",
+      "url": "https://open.spotify.com/track/11GMhNq5s4B2FTPzi0ahZL"
     },
     {
       "added_at": null,

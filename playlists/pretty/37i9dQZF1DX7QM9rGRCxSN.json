@@ -1,6 +1,6 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Petit Amie en portada.",
-  "num_followers": 32041,
+  "num_followers": 32053,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Almost Reach the Sun",
         "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
       },
@@ -411,6 +427,22 @@
       "duration_ms": 182745,
       "name": "Hazy Youth",
       "url": "https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "violeta",
+        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
+      },
+      "artists": [
+        {
+          "name": "te vi en un planetario",
+          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
+        }
+      ],
+      "duration_ms": 165557,
+      "name": "violeta",
+      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -447,38 +479,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "violeta",
-        "url": "https://open.spotify.com/album/5W3qIQqIHXeWUXMyQhIveI"
-      },
-      "artists": [
-        {
-          "name": "te vi en un planetario",
-          "url": "https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm"
-        }
-      ],
-      "duration_ms": 165557,
-      "name": "violeta",
-      "url": "https://open.spotify.com/track/1v0kFBmouOBzmOiNQfwswb"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Amor de Furgoneta",
         "url": "https://open.spotify.com/album/3Cs0GE7gaKWqfKYKoVH7jy"
       },
@@ -507,6 +507,22 @@
       "duration_ms": 276415,
       "name": "\u00bfTe Puedo Echar un Fonazo? - Bonus Track",
       "url": "https://open.spotify.com/track/5SDscXDQ46wRKehloMbi4a"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 550600,
+      "name": "La Caja Del Diablo",
+      "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -559,38 +575,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu"
-      },
-      "artists": [
-        {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
-        }
-      ],
-      "duration_ms": 550600,
-      "name": "La Caja Del Diablo",
-      "url": "https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Cielos Desconocidos",
-        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 328040,
-      "name": "Hasta Que el Tiempo No Nos Separe",
-      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Ubicaci\u00f3n en Tiempo Real",
         "url": "https://open.spotify.com/album/7AGuimab1m9FAFkS6sekRp"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 178275,
       "name": "vampiro",
       "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Cielos Desconocidos",
+        "url": "https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt"
+      },
+      "artists": [
+        {
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
+        }
+      ],
+      "duration_ms": 328040,
+      "name": "Hasta Que el Tiempo No Nos Separe",
+      "url": "https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
-        "name": "D'arcy",
-        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
-      },
-      "artists": [
-        {
-          "name": "No Somos Marineros",
-          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
-        }
-      ],
-      "duration_ms": 395146,
-      "name": "D'arcy",
-      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/4OAE4XgmFZfiqBmu4UbYDG"
       },
@@ -775,6 +759,22 @@
     {
       "added_at": "2024-06-28 06:00:00",
       "album": {
+        "name": "D'arcy",
+        "url": "https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu"
+      },
+      "artists": [
+        {
+          "name": "No Somos Marineros",
+          "url": "https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP"
+        }
+      ],
+      "duration_ms": 395146,
+      "name": "D'arcy",
+      "url": "https://open.spotify.com/track/6YyPd58tmsmHbkT1eHf2in"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
         "name": "Osa Polar",
         "url": "https://open.spotify.com/album/6t05m4JxBdRonMD5T1hYys"
       },
@@ -787,22 +787,6 @@
       "duration_ms": 282169,
       "name": "Osa Polar",
       "url": "https://open.spotify.com/track/1h9pmGilzK1WAIMDbhSsCG"
-    },
-    {
-      "added_at": "2024-06-28 06:00:00",
-      "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp"
-      },
-      "artists": [
-        {
-          "name": "Lorelle Meets The Obsolete",
-          "url": "https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP"
-        }
-      ],
-      "duration_ms": 381868,
-      "name": "The Sound of all Things",
-      "url": "https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM"
     },
     {
       "added_at": "2024-06-28 06:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 262955,
       "name": "Estrella Fugaz",
       "url": "https://open.spotify.com/track/3ksdl0YWfOTHAReDo9lkYa"
+    },
+    {
+      "added_at": "2024-06-28 06:00:00",
+      "album": {
+        "name": "Como Rei Ayanami",
+        "url": "https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW"
+      },
+      "artists": [
+        {
+          "name": "Dan Dan Dero",
+          "url": "https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR"
+        }
+      ],
+      "duration_ms": 177354,
+      "name": "Como Rei Ayanami",
+      "url": "https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,139 songs - 2 day 13 hr 47 min
+1,140 songs - 2 day 13 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [BLACK MAGIC](https://open.spotify.com/track/0MAmBZVV9a6bdeiBPZXSW9) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [BLACK MAGIC](https://open.spotify.com/album/7wFHTmHUtg2OL02ADttmT9) | 4:05 | 2022-05-06 | 2022-07-24 |
 | [Black Magic](https://open.spotify.com/track/7zx1i0jGcFwMBurajgKlO7) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT) | [Black Magic](https://open.spotify.com/album/5AK6JW4lDEomh8p9LdTSV3) | 2:54 | 2021-03-11 | 2021-09-18 |
 | [Blame Myself](https://open.spotify.com/track/1suqXPrYygZ7BYiSfaVZE4) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Fallen Embers](https://open.spotify.com/album/4YomxhmDglPvD93W3T6l1V) | 3:50 | 2021-07-17 | 2021-10-23 |
+| [Body Type](https://open.spotify.com/track/7iD8SlzwQB6zOVEA4wm3oN) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Body Type](https://open.spotify.com/album/6pteqWmVaX9tkjvzUbdmvG) | 2:12 | 2024-09-06 |  |
 | [Bodywork](https://open.spotify.com/track/7anFS4WuqBD7UubZeA0woc) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Bodywork](https://open.spotify.com/album/3wl7IySRabAz80FHq01yKC) | 2:39 | 2020-09-21\* | 2021-02-20 |
 | [Bong](https://open.spotify.com/track/29Y1EuVknd2d5OjfWgZdHb) | [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6) | [Bong](https://open.spotify.com/album/36sKeb49f5glOTF4ySs9ly) | 6:02 | 2020-09-21\* | 2020-12-18 |
 | [Bongo Cha Cha Cha](https://open.spotify.com/track/7J4zszAZxAyowZp7gNUIUI) | [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Bongo Cha Cha Cha](https://open.spotify.com/album/0goSLvh4vqvDLQHmee3Bk1) | 1:53 | 2021-06-05 | 2022-03-12 |
@@ -728,7 +729,7 @@
 | [Pictures Of You](https://open.spotify.com/track/1D5ifTPFnQWDnSxSAfc1hc) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Pictures Of You](https://open.spotify.com/album/0D73jRe3U7onYOiX6jpYJO) | 2:55 | 2024-02-09 | 2024-08-03 |
 | [Piece Of Me \(with LOVA\)](https://open.spotify.com/track/5mlNLzIdl6Ae2a4YRphSI4) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Piece Of Me \(with LOVA\)](https://open.spotify.com/album/3L5V3sfPdsd1SoSWzcW5Xb) | 3:22 | 2021-09-18 | 2022-03-12 |
 | [Pieces](https://open.spotify.com/track/1RN6ECX6SLW9216rxg3DYG) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Pieces](https://open.spotify.com/album/7heNpsmRYF99QCmdiIYdsY) | 3:00 | 2021-02-27 | 2021-09-18 |
-| [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-12 |  |
+| [PLACE IN MY MIND \(feat\. shy martin\)](https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Life of a Wallflower , Vol\. 2](https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T) | 2:46 | 2024-07-12 | 2024-09-09 |
 | [places to be](https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [places to be](https://open.spotify.com/album/0M0iJGLagLtI4LlooOiiNZ) | 3:46 | 2024-07-12 |  |
 | [Player Of Games](https://open.spotify.com/track/1aL6wkVeoR41DqDpVN7Gl2) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Player Of Games](https://open.spotify.com/album/1WdV2sVtRWpiaPAxyvq51r) | 4:05 | 2021-12-03 | 2022-03-12 |
 | [Poison](https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU) | [SNBRN](https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI), [BIJOU](https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA), [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Poison](https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT) | 3:24 | 2021-03-26 | 2021-09-18 |

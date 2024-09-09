@@ -1,12 +1,12 @@
 {
   "description": "This is Movements. The essential tracks, all in one playlist.",
-  "num_followers": 7298,
+  "num_followers": 7302,
   "original_name": "This Is Movements",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAAyzJJBEAmu/BwyaldZ4r2N",
+  "snapshot_id": "ZtuXgAAAAAAQDOJrMIEFC3cJoJa8+UoG",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 227840,
-      "name": "Deadly Dull",
-      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
+      "duration_ms": 284626,
+      "name": "Suffer Through",
+      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
     },
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
         }
       ],
-      "duration_ms": 284626,
-      "name": "Suffer Through",
-      "url": "https://open.spotify.com/track/3tNScF4XZyN4vVwuvgxOlR"
+      "duration_ms": 227840,
+      "name": "Deadly Dull",
+      "url": "https://open.spotify.com/track/4qod43EImMolOovemD03is"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,052 songs - 3 day 6 hr 13 min
+2,053 songs - 3 day 6 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [Bliss](https://open.spotify.com/track/6IpHohsQdyLeujYXbyqhk9) | [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj), [SōNE](https://open.spotify.com/artist/0vyQIO5WNw4aGfAaf9yUXi) | [Bliss](https://open.spotify.com/album/6PowpprpOOEx7TPQKXEgF7) | 2:02 | 2022-04-15 | 2022-10-14 |
 | [Bloom](https://open.spotify.com/track/1D2tsPNJJ99p7suTnZowyZ) | [Lotus Beats](https://open.spotify.com/artist/667RkTKDzJP6Hi3viSrkWI) | [Bloom](https://open.spotify.com/album/0tXIIM7OPMIuMFB8MeqrrM) | 1:50 | 2022-08-12 | 2022-12-03 |
 | [Bloom](https://open.spotify.com/track/4rGs4GdBN8gs7OOTV7qMHc) | [Yours Truly, CC](https://open.spotify.com/artist/2dNEISrL4uUVlqVFrZRzTL) | [Bloom](https://open.spotify.com/album/7nV8JqhjlGGnmOOgI2Z31l) | 2:30 | 2022-07-01 | 2022-11-26 |
-| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 | 2024-07-15 |
+| [Blooming](https://open.spotify.com/track/1fee1QMI4VgfzelXaXaHgq) | [This Is Moving](https://open.spotify.com/artist/5LlX4nJXBL8hsxzMaot1iC) | [Blooming](https://open.spotify.com/album/1K0zCRnqgr9RTkBIP97P50) | 2:11 | 2023-02-06 |  |
 | [Blossom](https://open.spotify.com/track/3HSulWqe4jfbXxfGzC0toF) | [Esoterak](https://open.spotify.com/artist/1GCwB469xHamTI5nnHjD8F) | [Blossom](https://open.spotify.com/album/78JlQLKwFrVgJ386stGMnP) | 2:00 | 2022-04-15 | 2022-04-22 |
 | [Blue and Yellow](https://open.spotify.com/track/0wcWZTGYcsExq65e7Yexf1) | [Scarabeetz](https://open.spotify.com/artist/5Jh56uhWBGydHRgEwCMjqr) | [Blue and Yellow](https://open.spotify.com/album/17J7VL0I0YDggyq0QRaMzU) | 2:16 | 2022-09-09 | 2022-12-24 |
 | [blue bird](https://open.spotify.com/track/6qCw0yjnCxxASxV87RMudj) | [Slipp](https://open.spotify.com/artist/6bmyHY2oYF7LNsOCLdZH7e), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [blue bird](https://open.spotify.com/album/1BR01bzVheG3dH7IGvo7lA) | 2:14 | 2023-09-22 |  |
@@ -825,7 +825,7 @@
 | [Hopes n' Lusts](https://open.spotify.com/track/2qi8vHk6pTOB5mbOPd8TlS) | [Wezley Wiz](https://open.spotify.com/artist/6oGyihO2387JNURS8U5Olg) | [Hopes n' Lusts](https://open.spotify.com/album/5sUncHibQvenjtPS22mKDP) | 2:12 | 2022-07-01 | 2024-05-14 |
 | [horizon](https://open.spotify.com/track/6Cg95Z9BbsoylM4DKPF0qu) | [Lunar Lullaby & yorukaze](https://open.spotify.com/artist/1QmonBwobeYEIi48xYr8AD) | [horizon](https://open.spotify.com/album/4pKK2fHHHVfNH9cWcMn4Cz) | 1:36 | 2023-10-27 |  |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
-| [hoshposh](https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [hoshposh](https://open.spotify.com/album/24ZMHHisfGGaRsz4S7KEwp) | 2:40 | 2023-09-08 |  |
+| [hoshposh](https://open.spotify.com/track/3p2Q8exvW0nEV9wvhpW9MH) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [Miramare](https://open.spotify.com/artist/1GobnwKx4ZG8tvfqJxOMXg) | [hoshposh](https://open.spotify.com/album/24ZMHHisfGGaRsz4S7KEwp) | 2:40 | 2023-09-08 | 2024-09-09 |
 | [House Hunt](https://open.spotify.com/track/2xeMahcwKZi1fJXRptPO9F) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [House Hunt](https://open.spotify.com/album/0J4ndocZCA0qIR1WA24h05) | 2:17 | 2022-04-15 | 2022-09-09 |
 | [How Fun](https://open.spotify.com/track/5DxCODzWTtx0p8Vn9B290A) | [Mirroz](https://open.spotify.com/artist/6LzgXMophnKO23QxigjsiP) | [How Fun](https://open.spotify.com/album/5Yrlia3kFNIcqZE27iaN1b) | 2:11 | 2022-04-15 | 2022-04-22 |
 | [How's That?](https://open.spotify.com/track/4R06qnWPSfljUqt4n6mzQN) | [Tally Tilly](https://open.spotify.com/artist/2anhg6PY9gbMbyjPNjFyCE) | [Listen Up](https://open.spotify.com/album/4wdbmP7WMxxnfbGVvvABmZ) | 2:41 | 2022-04-15 | 2022-12-17 |
@@ -1530,6 +1530,7 @@
 | [sandwhich beach](https://open.spotify.com/track/76tl9K8j78xxjG3lKQwvWD) | [Grace Belly](https://open.spotify.com/artist/2RDpfx1SklZiHjaIsaZ3QW) | [sandwhich beach](https://open.spotify.com/album/5NaWuiShyhJ8wCblqktp6z) | 2:00 | 2023-11-17 |  |
 | [Sandy Feels](https://open.spotify.com/track/4gBuDTT5zCALOr2zJJFTaA) | [Stan Morgley](https://open.spotify.com/artist/0eH6vvgXNKhsU7d862ZArZ) | [Sandy Feels](https://open.spotify.com/album/6xBm6nNdFvYwnO6DXSoowt) | 2:18 | 2022-07-08 |  |
 | [Santino](https://open.spotify.com/track/5QKDIzfyW02WRcA3Ag9kDe) | [Oops 123](https://open.spotify.com/artist/617zYYWCbL7eE07lP9O8rH) | [Santino](https://open.spotify.com/album/5HYlvWpJTGR9s4LobjeleM) | 3:11 | 2022-04-15 | 2022-09-02 |
+| [Satin Soul](https://open.spotify.com/track/2ArzG3wZ8AtiTyAZ4ErUyV) | [Ghostnaut](https://open.spotify.com/artist/2RBJhPBOr8mI5evwaL4HR3), [Lunath](https://open.spotify.com/artist/773SnwBYAvo9JlHuulUvMu) | [Satin Soul](https://open.spotify.com/album/7v6SSUmG30r1AkvgOZiky9) | 2:34 | 2024-09-06 |  |
 | [Saturn Eyes](https://open.spotify.com/track/0PfODaB3CjyqGeUue5Zysv) | [Ana Luiz](https://open.spotify.com/artist/4Eo9c1kGd6MmTWiNsRUrTl) | [Saturn Eyes](https://open.spotify.com/album/29hkNPWZgrDg0cviTMVpkS) | 1:55 | 2022-04-15 | 2022-09-02 |
 | [saveme.](https://open.spotify.com/track/1WydprqiHcF4Xl7IdQoOzt) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [saveme.](https://open.spotify.com/album/1n1L0umSUyAcAUaJJlXDpx) | 1:51 | 2024-08-30 |  |
 | [say less](https://open.spotify.com/track/3HNhlu2qgQ4cLMmxjhbhsM) | [Purple Yard](https://open.spotify.com/artist/2MzcjX0qbx7Q41aerLazxm) | [say less](https://open.spotify.com/album/5XPaQ0ULoeWDvQsMmIxrvt) | 2:01 | 2023-04-11 |  |
@@ -1818,7 +1819,7 @@
 | [The Last Page](https://open.spotify.com/track/2ryUgsdWh1CTwhQ0HgUHBS) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [The Last Page](https://open.spotify.com/album/3IDCL10NjQ8ZU4DVl8nz4S) | 2:20 | 2023-12-08 |  |
 | [The Neighborhood](https://open.spotify.com/track/1fRCaeLqrS0hlbuyrmJyNz) | [Gold School](https://open.spotify.com/artist/0ARPS52ahhI1jndIYVtsnH) | [Playground](https://open.spotify.com/album/5BIlSn25cEkCaw2FRNwCFT) | 1:32 | 2022-04-15 | 2022-06-10 |
 | [the neighborhood](https://open.spotify.com/track/6nZIx6Ck3oNPR1L5FblIY0) | [ninetytwo.](https://open.spotify.com/artist/1Yzx8FiVWsNloEWaBpXk7V) | [the neighborhood](https://open.spotify.com/album/4fvFegKW9QME1hmJVigINz) | 2:09 | 2023-09-29 |  |
-| [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2022-11-25 |  |
+| [The Next Stop Is](https://open.spotify.com/track/476oazZv3c5b3I8vwJAGZ5) | [Sugar Coast](https://open.spotify.com/artist/77PPAf37R11s5IiWFGYP3m) | [The Next Stop Is](https://open.spotify.com/album/0EFrr0p72DDQyWqxbnH26m) | 2:31 | 2022-11-25 | 2024-09-09 |
 | [The Night Cruise](https://open.spotify.com/track/2464RLkS0S92lfmGQasZU7) | [My Lucid Dreams](https://open.spotify.com/artist/6BDAZG6yXqOjqStTnJ9D4b) | [The Night Cruise](https://open.spotify.com/album/44gBUyhILIO0PSsSmeHBGo) | 2:17 | 2023-07-13 | 2024-09-07 |
 | [The sea that forgot the past](https://open.spotify.com/track/1mViogHkkvCrautHVmmkAI) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha), [edgarddd](https://open.spotify.com/artist/5hhz5oUTkVnBxC3YpYm5Ve) | [Exit](https://open.spotify.com/album/6qgtK04UoX18RtSLnKHz5D) | 1:37 | 2022-04-15 | 2022-11-12 |
 | [The Smokeroom Band](https://open.spotify.com/track/21Wl7gBjfJuhNHe66c3LOu) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 3:27 | 2022-04-15 | 2022-06-25 |

@@ -4,7 +4,7 @@
 
 > Epic tunes for the open road.
 
-468 songs - 1 day 5 hr 55 min
+469 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [HOW?!](https://open.spotify.com/track/0qA3Wf6XZnPyRb8hwTLXZK) | [Reu](https://open.spotify.com/artist/2ksghJMZXmtumSG2Whgk1a) | [HOW?!](https://open.spotify.com/album/7ie4b1iR1xqoTSmsfHRv6e) | 2:33 | 2024-09-06 |  |
 | [I Am A Wild Party \- Live](https://open.spotify.com/track/7wXgWUpMhPyUEBR8heuwxb) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [I Am A Wild Party \(Live\)](https://open.spotify.com/album/5AJqtKejk5hkMOoWS5lqz1) | 4:25 | 2022-05-02 | 2022-07-29 |
 | [I Don't Know \- EP Version](https://open.spotify.com/track/4A4DPAyhXSTzehnBstdAnt) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Five Easy Pieces](https://open.spotify.com/album/7nTSvte842Pv7j5x5pyyqr) | 3:10 | 2023-05-18 | 2024-08-10 |
-| [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-04-19 |  |
+| [I Fall in Love Too Easily](https://open.spotify.com/track/5PIhu07aIrL1Z8sQBB7tNJ) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [I Fall in Love Too Easily](https://open.spotify.com/album/6luCkMIM8Rouwu5HvExXgK) | 3:40 | 2024-04-19 | 2024-09-09 |
 | [I Go Blind](https://open.spotify.com/track/4kCkM03LZT86vCOdoTlFe5) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [54.40](https://open.spotify.com/album/3VGp455Jdig99Vojxy2H5H) | 2:46 | 2022-05-02 | 2022-07-29 |
 | [I Got You](https://open.spotify.com/track/6UAylEdfsCYdAFAgmuco1f) | [Devon Cole](https://open.spotify.com/artist/1VFt2HpmFG8Ufq6SDCoZe4) | [I Got You](https://open.spotify.com/album/34CONaTo9bPYz6w8Ur1OCF) | 2:48 | 2024-05-10 |  |
 | [I Guess I Just Feel Like](https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:46 | 2022-09-10 | 2022-09-15 |
@@ -291,6 +291,7 @@
 | [Paint It Black](https://open.spotify.com/track/7ybIcMrSGMNBlZk0FLkvls) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [How Far Shallow Takes You](https://open.spotify.com/album/1K79PLVBw5N5tDcIygMYeW) | 3:16 | 2022-05-02 | 2023-05-19 |
 | [Patio Lanterns](https://open.spotify.com/track/4kVGbzriXY198lnNeh3nAv) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Shakin' Like A Human Being](https://open.spotify.com/album/2Gw4mynDQDMO0VBZgJZBjJ) | 3:28 | 2022-05-02 | 2022-07-29 |
 | [Patio Lanterns](https://open.spotify.com/track/1SJuRZDhTXWyPSpfLbP1rq) | [Kim Mitchell](https://open.spotify.com/artist/5P6mPJKEwpIgjFIIFZhEma) | [Greatest Hits](https://open.spotify.com/album/389Mp072OWvLvv2nx7RWuw) | 3:58 | 2022-09-10 | 2022-09-15 |
+| [Peace of Mind \(Evening\)](https://open.spotify.com/track/6ypqW6kawv0iJFyW1k1UQr) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Peace of Mind \(Evening\)](https://open.spotify.com/album/2vpQDZltXoemtEN90itVg8) | 3:31 | 2024-09-06 |  |
 | [Picturing Love](https://open.spotify.com/track/4IuJtm9P6dXgmR6PpQfaNo) | [July Talk](https://open.spotify.com/artist/3EaMbsBlExxNxLvTJcZvDq) | [Touch](https://open.spotify.com/album/5W33XMFTkmUBeY9rIGlSKc) | 3:35 | 2022-05-02 | 2022-07-24 |
 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 | 2022-05-02 | 2024-04-19 |
 | [Plea from a Cat Named Virtute](https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reconstruction Site](https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N) | 3:49 | 2022-05-02 | 2022-11-13 |

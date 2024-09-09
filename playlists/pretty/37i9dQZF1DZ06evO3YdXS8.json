@@ -1,12 +1,12 @@
 {
   "description": "This Is Selena. Los temas esenciales, todos en una lista.",
-  "num_followers": 622158,
+  "num_followers": 622200,
   "original_name": "This Is Selena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAABM8vB1LI8lfZPet6NchITG",
+  "snapshot_id": "ZtuXgAAAAACUUMXAXHnj6nwpg7+TdZmn",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Entre A Mi Mundo",
-        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 214346,
-      "name": "Que Cre\u00edas",
-      "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Mejores Canciones: 17 Super Exitos",
         "url": "https://open.spotify.com/album/6GW6cczPmDKNBf7zE9vu95"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 144826,
       "name": "Besitos",
       "url": "https://open.spotify.com/track/7AbqXy9RdTfrKkk5FdJSa5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Entre A Mi Mundo",
+        "url": "https://open.spotify.com/album/02fBX9fLFfOG2v33oZo73z"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 214346,
+      "name": "Que Cre\u00edas",
+      "url": "https://open.spotify.com/track/2db2QrUOQsVawxaQmgcmeG"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 247040,
-      "name": "Enamorada De Ti",
-      "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como Te Quiero Yo A Ti (Regional Mexican Version)",
         "url": "https://open.spotify.com/album/3248Ap0ShuOzNBxBncwh4H"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 189200,
       "name": "Como Te Quiero Yo A Ti - Regional Mexican Version",
       "url": "https://open.spotify.com/track/2EBr0cv71zs5Fkov7bBP5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 247040,
+      "name": "Enamorada De Ti",
+      "url": "https://open.spotify.com/track/7bnlKGXoDYlc6PXeb9KcQ8"
     },
     {
       "added_at": null,
@@ -727,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Live Selena",
+        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 413986,
+      "name": "La Carcacha/Besitos - Live",
+      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ven Conmigo - Selena 20 Years Of Music",
         "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
       },
@@ -759,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Selena",
-        "url": "https://open.spotify.com/album/6rB0AIlPFH1GXEHtA7d7Ck"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 413986,
-      "name": "La Carcacha/Besitos - Live",
-      "url": "https://open.spotify.com/track/6UONjmhxEjAAy74wFh6fuN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MOONCHILD MIXES",
         "url": "https://open.spotify.com/album/71Om9aLEMuwpmB0POX3amC"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ven Conmigo - Selena 20 Years Of Music",
-        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "No Quiero Saber - 1990 Version",
-      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Primeros \u00c9xitos",
         "url": "https://open.spotify.com/album/1j1baA236Z6dGkrXKAIAYU"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 217826,
       "name": "Dulce Amor",
       "url": "https://open.spotify.com/track/20GXVF6YKr4AUP3B0m3g8v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ven Conmigo - Selena 20 Years Of Music",
+        "url": "https://open.spotify.com/album/0xjlVSiqnAxeQHGfk5i2PG"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "No Quiero Saber - 1990 Version",
+      "url": "https://open.spotify.com/track/4FSNKKZnUCgYmiiBnBbVG7"
     }
   ],
   "unique_name": "This Is Selena",

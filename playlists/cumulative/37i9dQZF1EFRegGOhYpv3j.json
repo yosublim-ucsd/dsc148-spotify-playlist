@@ -833,6 +833,24 @@
     },
     {
       "album": {
+        "name": "Danielle",
+        "url": "https://open.spotify.com/album/5FVRKekEp0D2cUH0hK59zV"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158295,
+      "name": "That's Why (You Love Me)",
+      "url": "https://open.spotify.com/track/6X92IuYTb2HX56BvpKn1xj"
+    },
+    {
+      "album": {
         "name": "Proof Of Life",
         "url": "https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o"
       },

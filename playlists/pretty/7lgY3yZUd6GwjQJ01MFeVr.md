@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 
 > Today's top country music! Featuring: <a href="https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2?si=hGObFgbfQnOQ75\_EbuOhDg"> Zach Bryan</a>, Bailey Zimmerman, Cody Johnson, Dan + Shay,  Cole Swindell, Kenny Chesney &amp; many more.
 
-[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,037 likes - 98 songs - 5 hr 20 min
+[Topsify Canada](https://open.spotify.com/user/playlistmecanada) - 35,036 likes - 98 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,6 +105,6 @@ pretty - [cumulative](/playlists/cumulative/7lgY3yZUd6GwjQJ01MFeVr.md) - [plain]
 | 95 | [He's The One](https://open.spotify.com/track/2UpfodsBum0ZsQEo10FWXb) | [Savannah Jade](https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5) | [He's The One](https://open.spotify.com/album/5oaGk1fr7NQxfHEMccMFFT) | 3:13 |
 | 96 | [Two Blue Chairs & You](https://open.spotify.com/track/2RfkKGdFYORwUy7gOFUSRI) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Two Blue Chairs & You](https://open.spotify.com/album/5TWk0jAcmvB9vsZPYUbJ7j) | 2:48 |
 | 97 | [Some Things Just Stick](https://open.spotify.com/track/0u2dsFLhpu0KpCJnA9cxT1) | [Austin Snell](https://open.spotify.com/artist/6Hd5hSFd33CfhMqtG3fjtx) | [Still Bleeding](https://open.spotify.com/album/3XguviXP2FCg5aMSEcuZbG) | 3:06 |
-| 98 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:08 |
+| 98 | [Love Myself](https://open.spotify.com/track/0A5smlSd60fsk4CDCxICd4) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Love Myself](https://open.spotify.com/album/2VjFqY2ckzWlwpx9OqdzLq) | 3:09 |
 
 Snapshot ID: `AAAaRgGUj5zCREsHG+ZSbuTSR/RbRpoD`

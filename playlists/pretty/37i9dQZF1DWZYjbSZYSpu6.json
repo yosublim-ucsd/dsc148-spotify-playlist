@@ -1,6 +1,6 @@
 {
   "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: TAEYEON, Sam Smith(\ud0dc\uc5f0, \uc0d8 \uc2a4\ubbf8\uc2a4))",
-  "num_followers": 386560,
+  "num_followers": 386561,
   "original_name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "owner": {
     "name": "Spotify",
@@ -307,6 +307,26 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
+        "name": "Modern Times \u2013 Epilogue",
+        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "Jang Yi-jeong",
+          "url": "https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F"
+        }
+      ],
+      "duration_ms": 217129,
+      "name": "Friday (feat.Jang Yi-jeong)",
+      "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
+    },
+    {
+      "added_at": "2024-08-30 09:10:59",
+      "album": {
         "name": "JONGHYUN The Collection \"Story Op.2\"",
         "url": "https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o"
       },
@@ -387,26 +407,6 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
-        "name": "Modern Times \u2013 Epilogue",
-        "url": "https://open.spotify.com/album/56MqewtCUq5bplrqEYTVL0"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "Jang Yi-jeong",
-          "url": "https://open.spotify.com/artist/7nLakaHt1koh5mP4OIVM0F"
-        }
-      ],
-      "duration_ms": 217129,
-      "name": "Friday (feat.Jang Yi-jeong)",
-      "url": "https://open.spotify.com/track/0GsRx0gPft6RmijIwMsKmG"
-    },
-    {
-      "added_at": "2024-08-30 09:10:59",
-      "album": {
         "name": "Lovey Dovey",
         "url": "https://open.spotify.com/album/3TqLzwIwkkIqAoSISGip4k"
       },
@@ -447,26 +447,6 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
-        "name": "The Moon (Feat. TAEIL of NCT)",
-        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
-      },
-      "artists": [
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
-        },
-        {
-          "name": "TAEIL",
-          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
-        }
-      ],
-      "duration_ms": 162365,
-      "name": "The Moon (Feat. TAEIL of NCT)",
-      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
-    },
-    {
-      "added_at": "2024-08-30 09:10:59",
-      "album": {
         "name": "THIS NIGHT",
         "url": "https://open.spotify.com/album/4XPkeXge5bJLJsGCpJ1nVi"
       },
@@ -491,6 +471,26 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
+        "name": "The Moon (Feat. TAEIL of NCT)",
+        "url": "https://open.spotify.com/album/6NfkVXBrjpR9JG69VOg52G"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "TAEIL",
+          "url": "https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq"
+        }
+      ],
+      "duration_ms": 162365,
+      "name": "The Moon (Feat. TAEIL of NCT)",
+      "url": "https://open.spotify.com/track/6Qfhu8fcLSY8Tw7syG8hdK"
+    },
+    {
+      "added_at": "2024-08-30 09:10:59",
+      "album": {
         "name": "Layin' Low (feat. Jooyoung)",
         "url": "https://open.spotify.com/album/6wPJh6aQa1SoplBJcDPlZW"
       },
@@ -507,6 +507,26 @@
       "duration_ms": 188146,
       "name": "Layin' Low (feat. Jooyoung)",
       "url": "https://open.spotify.com/track/1B2vkECYhw0XEcyOexAq6e"
+    },
+    {
+      "added_at": "2024-08-30 09:10:59",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        }
+      ],
+      "duration_ms": 189920,
+      "name": "Troll (Feat. DEAN)",
+      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
     },
     {
       "added_at": "2024-08-30 09:10:59",
@@ -587,26 +607,6 @@
       "duration_ms": 220693,
       "name": "Ghosting (Prod. CODE KUNST)",
       "url": "https://open.spotify.com/track/6r1Jwbd0UwCpuLzPG4y9Ub"
-    },
-    {
-      "added_at": "2024-08-30 09:10:59",
-      "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        }
-      ],
-      "duration_ms": 189920,
-      "name": "Troll (Feat. DEAN)",
-      "url": "https://open.spotify.com/track/64P4md3mdMM8Dog2aThmzj"
     },
     {
       "added_at": "2024-08-30 09:10:59",
@@ -955,26 +955,6 @@
     {
       "added_at": "2024-08-30 09:10:59",
       "album": {
-        "name": "My Lips Like Warm Coffee (The Last 10 Years X JOY, BIG Naughty)",
-        "url": "https://open.spotify.com/album/3pes9BtLBfQ3lZXPm3Mec9"
-      },
-      "artists": [
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 201346,
-      "name": "My Lips Like Warm Coffee",
-      "url": "https://open.spotify.com/track/1ysKEAoMk6zMn4fGSsk2x3"
-    },
-    {
-      "added_at": "2024-08-30 09:10:59",
-      "album": {
         "name": "Lee Seung Chul 35th Anniversary Album Special 'My Love'",
         "url": "https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 227000,
       "name": "My Love (Duet Ver.)",
       "url": "https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1"
+    },
+    {
+      "added_at": "2024-08-30 09:10:59",
+      "album": {
+        "name": "My Lips Like Warm Coffee (The Last 10 Years X JOY, BIG Naughty)",
+        "url": "https://open.spotify.com/album/3pes9BtLBfQ3lZXPm3Mec9"
+      },
+      "artists": [
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 201346,
+      "name": "My Lips Like Warm Coffee",
+      "url": "https://open.spotify.com/track/1ysKEAoMk6zMn4fGSsk2x3"
     },
     {
       "added_at": "2024-08-30 09:10:59",

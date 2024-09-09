@@ -551,6 +551,24 @@
     },
     {
       "album": {
+        "name": "die with a smile",
+        "url": "https://open.spotify.com/album/127y78qXF7Wntjv9HjP1MA"
+      },
+      "artists": [
+        {
+          "name": "euhlr",
+          "url": "https://open.spotify.com/artist/7hMFnTqIUL7qZ8P0mG9MFk"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245455,
+      "name": "die with a smile",
+      "url": "https://open.spotify.com/track/1yXChjFxlhmoNFHFFR9sU2"
+    },
+    {
+      "album": {
         "name": "Wish Me Luck",
         "url": "https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt"
       },
@@ -2484,6 +2502,28 @@
       "duration_ms": 262210,
       "name": "SUPERFINE",
       "url": "https://open.spotify.com/track/7BBdodDRaP6waS34503kCd"
+    },
+    {
+      "album": {
+        "name": "Swing (From \"Marvel's Spider-Man 2\")",
+        "url": "https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U"
+      },
+      "artists": [
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Benji.",
+          "url": "https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184346,
+      "name": "Swing - From \"Marvel's Spider-Man 2\"",
+      "url": "https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3"
     },
     {
       "album": {

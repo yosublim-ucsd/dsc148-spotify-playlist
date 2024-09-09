@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-734 songs - 2 day 0 hr 4 min
+735 songs - 2 day 0 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -597,6 +597,7 @@
 | [Strong](https://open.spotify.com/track/0d7IFDkLXrG2WhQkPYw3Ju) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 6:18 | 2022-04-21 |  |
 | [Submerge FM](https://open.spotify.com/track/7n5e6Snjp8tbqwzAPoYjXn) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [With A Hammer](https://open.spotify.com/album/2VYo0PSqdxVTMI0ydKUtoL) | 3:25 | 2023-04-19 | 2023-04-22 |
 | [Summer Knights](https://open.spotify.com/track/2NDXdxZjbm5EbbEEDSKXQV) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [1999](https://open.spotify.com/album/5ra51AaWF3iVebyhlZ1aqq) | 1:56 | 2022-05-13 |  |
+| [Summer Water](https://open.spotify.com/track/7tJfLTXPAMupVClgG4HrYN) | [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [The Golden Morning Breaks](https://open.spotify.com/album/1p3Yw1LPlnabOnywMjsFvD) | 3:41 | 2024-09-08 |  |
 | [Sun Girl](https://open.spotify.com/track/4CFHldOcqUuepVyObZXfSb) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 5:52 | 2024-03-22 |  |
 | [Sunday Morning](https://open.spotify.com/track/2SKWqNWAi5n4ed9C6z3jCU) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Golden Age](https://open.spotify.com/album/1wvJf32qDHmwku12nfzVGN) | 4:39 | 2023-04-24 |  |
 | [Sunday Morning](https://open.spotify.com/track/11607FzqoipskTsXrwEHnJ) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 2:55 | 2022-10-22 | 2023-04-03 |

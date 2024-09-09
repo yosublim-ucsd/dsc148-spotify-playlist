@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > من غير ما اتغدا نازل من عل المخدة معايا معجزة فلتة ايوا انا احمد سانتا
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,602 likes - 40 songs - 1 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,721 likes - 40 songs - 1 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

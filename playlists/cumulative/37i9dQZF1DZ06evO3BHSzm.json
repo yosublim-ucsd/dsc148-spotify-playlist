@@ -1061,7 +1061,7 @@
     },
     {
       "album": {
-        "name": "Quadrophenia (Super Deluxe Edition)",
+        "name": "Quadrophenia - Super Deluxe Edition",
         "url": "https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK"
       },
       "artists": [
@@ -1072,7 +1072,7 @@
       ],
       "date_added": "2022-12-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-06",
+      "date_removed": null,
       "duration_ms": 223453,
       "name": "Is It In My Head?",
       "url": "https://open.spotify.com/track/5XSKoePK44z8EbM736fY57"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 268933,
       "name": "The Dirty Jobs",
       "url": "https://open.spotify.com/track/164fXVq2STSUorItsuHg6o"
@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 310933,
       "name": "The Punk And The Godfather",
       "url": "https://open.spotify.com/track/2O1tCUkthqO7SWpXdDnp2T"
@@ -1702,7 +1702,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 310933,
       "name": "The Punk And The Godfather",
       "url": "https://open.spotify.com/track/5A9Vm1hHyzgKCMxfa1as3j"

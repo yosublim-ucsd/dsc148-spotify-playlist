@@ -1,6 +1,6 @@
 {
   "description": "soundtrack those long, dark days with warm indie favourites",
-  "num_followers": 20688,
+  "num_followers": 20685,
   "original_name": "midwinter",
   "owner": {
     "name": "Spotify",
@@ -823,26 +823,6 @@
     {
       "added_at": "2024-09-05 18:04:07",
       "album": {
-        "name": "snowfall (Sped Up)",
-        "url": "https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 110580,
-      "name": "snowfall (Sped Up)",
-      "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
-    },
-    {
-      "added_at": "2024-09-05 18:04:07",
-      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
       },
@@ -859,6 +839,26 @@
       "duration_ms": 304106,
       "name": "evermore (feat. Bon Iver)",
       "url": "https://open.spotify.com/track/0AaV4MJrgmLV3XhoiWXjjb"
+    },
+    {
+      "added_at": "2024-09-05 18:04:07",
+      "album": {
+        "name": "snowfall (Sped Up)",
+        "url": "https://open.spotify.com/album/5zcMc4yNr5oWoF67bNpX6g"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 110580,
+      "name": "snowfall (Sped Up)",
+      "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
     },
     {
       "added_at": "2024-09-05 18:04:07",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-05 18:04:07",
       "album": {
-        "name": "Ruined",
-        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Ruined",
-      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
-    },
-    {
-      "added_at": "2024-09-05 18:04:07",
-      "album": {
         "name": "Doesn't Matter",
         "url": "https://open.spotify.com/album/25JTMiXU4RhSWbcRDr5uLV"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 203685,
       "name": "Doesn't Matter",
       "url": "https://open.spotify.com/track/0NVxFntUSEYwPn27lX2J7r"
+    },
+    {
+      "added_at": "2024-09-05 18:04:07",
+      "album": {
+        "name": "Ruined",
+        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
     },
     {
       "added_at": "2024-09-05 18:04:07",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2024-09-05 18:04:07",
       "album": {
-        "name": "Quiet Talkers",
-        "url": "https://open.spotify.com/album/4qz1y6JRpFcSXMwAttnpzs"
+        "name": "Make Peace with That",
+        "url": "https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe"
       },
       "artists": [
         {
-          "name": "Ken Yates",
-          "url": "https://open.spotify.com/artist/3DjvcvDRZn3IbA68kD5Gvi"
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
         }
       ],
-      "duration_ms": 230508,
-      "name": "Grey County Blues",
-      "url": "https://open.spotify.com/track/6CAZcxmUbPGe6ghbFTQutj"
+      "duration_ms": 186838,
+      "name": "Tupperware",
+      "url": "https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N"
     }
   ],
   "unique_name": "midwinter",

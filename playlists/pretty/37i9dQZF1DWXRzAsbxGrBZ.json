@@ -1,6 +1,6 @@
 {
   "description": "Deep House speaks to the soul. Get revived with some of the best Deep House South Africa has to offer.",
-  "num_followers": 65157,
+  "num_followers": 65270,
   "original_name": "Deep House Session",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "4 The Wolves",
+        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
+      },
+      "artists": [
+        {
+          "name": "!Sooks",
+          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
+        }
+      ],
+      "duration_ms": 521682,
+      "name": "Eyesolation",
+      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "Bruno & The Birds",
         "url": "https://open.spotify.com/album/5ssOVy0sVJdr9CZGYFJFQD"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 397627,
       "name": "How ?",
       "url": "https://open.spotify.com/track/3uafTF3JxwQOJVQAg4FJw0"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "4 The Wolves",
-        "url": "https://open.spotify.com/album/2L7bxv0WicWk3VD9UxzggR"
-      },
-      "artists": [
-        {
-          "name": "!Sooks",
-          "url": "https://open.spotify.com/artist/4JbbqXJHtza12SQPxlzuVI"
-        }
-      ],
-      "duration_ms": 521682,
-      "name": "Eyesolation",
-      "url": "https://open.spotify.com/track/0JF4uuEeEaAQYTVZ9jv2Zg"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "Recall",
+        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
+      },
+      "artists": [
+        {
+          "name": "Hypaphonik",
+          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
+        }
+      ],
+      "duration_ms": 373448,
+      "name": "Recall",
+      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "Unprepared",
         "url": "https://open.spotify.com/album/7uEWijv34tZQflxMh21Yg3"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 405447,
       "name": "Unprepared",
       "url": "https://open.spotify.com/track/6ONHhlt6ru9nmImeDs0w8e"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Recall",
-        "url": "https://open.spotify.com/album/3G41bOHHVO3TNKuPB4taRF"
-      },
-      "artists": [
-        {
-          "name": "Hypaphonik",
-          "url": "https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io"
-        }
-      ],
-      "duration_ms": 373448,
-      "name": "Recall",
-      "url": "https://open.spotify.com/track/5yYCfhhRrFspj5bVebdI2F"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -519,26 +519,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "So Long",
-        "url": "https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Aquatone",
-          "url": "https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R"
-        }
-      ],
-      "duration_ms": 384124,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Little Me (Kaidi Tatham Remix)",
         "url": "https://open.spotify.com/album/489jv3BJzxkag2dR1O1Q3U"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 332773,
       "name": "Little Me - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/78AwNzWZP0Jwpuqb5M82yx"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "So Long",
+        "url": "https://open.spotify.com/album/62iaygApaNNVrYyU7Xck2R"
+      },
+      "artists": [
+        {
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
+        },
+        {
+          "name": "Aquatone",
+          "url": "https://open.spotify.com/artist/657ZCz2bARTZsq9YXVjh3R"
+        }
+      ],
+      "duration_ms": 384124,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/2gP68X8AomYum6NvnbH4sW"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -655,22 +655,22 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "From Blak With Love",
-        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
+        "name": "Lost In Me",
+        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
       },
       "artists": [
         {
-          "name": "C-Blak",
-          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+          "name": "Dwson",
+          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
         },
         {
-          "name": "Kuthathu",
-          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
+          "name": "Keziah Tehillah",
+          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
         }
       ],
-      "duration_ms": 403998,
-      "name": "Never Break Me (feat. Kuthathu)",
-      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
+      "duration_ms": 387236,
+      "name": "Lost In Me",
+      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
     },
     {
       "added_at": "2024-08-02 00:28:01",
@@ -711,6 +711,26 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
+        "name": "From Blak With Love",
+        "url": "https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X"
+      },
+      "artists": [
+        {
+          "name": "C-Blak",
+          "url": "https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5"
+        },
+        {
+          "name": "Kuthathu",
+          "url": "https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh"
+        }
+      ],
+      "duration_ms": 403998,
+      "name": "Never Break Me (feat. Kuthathu)",
+      "url": "https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
         "name": "The Whole Thing",
         "url": "https://open.spotify.com/album/7qoxtXsuuOr65DwxQUmrx1"
       },
@@ -735,42 +755,6 @@
     {
       "added_at": "2024-08-02 00:28:01",
       "album": {
-        "name": "Lost In Me",
-        "url": "https://open.spotify.com/album/6sLrYhhn36oY5uKZcO5ieH"
-      },
-      "artists": [
-        {
-          "name": "Dwson",
-          "url": "https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR"
-        },
-        {
-          "name": "Keziah Tehillah",
-          "url": "https://open.spotify.com/artist/09QnPnM1GzQG4UyW99hcjo"
-        }
-      ],
-      "duration_ms": 387236,
-      "name": "Lost In Me",
-      "url": "https://open.spotify.com/track/7pD5b0xno9fGw1Z7yyfFP6"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
-        "name": "Emulate",
-        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
-      },
-      "artists": [
-        {
-          "name": "Jason Scoble",
-          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
-        }
-      ],
-      "duration_ms": 469614,
-      "name": "Emulate - Original Mix",
-      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
-    },
-    {
-      "added_at": "2024-08-02 00:28:01",
-      "album": {
         "name": "Lomthwalo",
         "url": "https://open.spotify.com/album/6NfgZHqgFLRvpldvd4yb1a"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 366206,
       "name": "Lo'Mthwalo - Original Mix",
       "url": "https://open.spotify.com/track/5IauhNkADIYqdMsaiMBrz9"
+    },
+    {
+      "added_at": "2024-08-02 00:28:01",
+      "album": {
+        "name": "Emulate",
+        "url": "https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js"
+      },
+      "artists": [
+        {
+          "name": "Jason Scoble",
+          "url": "https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg"
+        }
+      ],
+      "duration_ms": 469614,
+      "name": "Emulate - Original Mix",
+      "url": "https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk"
     },
     {
       "added_at": "2024-08-02 00:28:01",

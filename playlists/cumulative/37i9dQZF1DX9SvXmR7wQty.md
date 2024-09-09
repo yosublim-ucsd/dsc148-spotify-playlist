@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Adèle Castillon
 
-2,785 songs - 6 day 4 hr 8 min
+2,786 songs - 6 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Barrières](https://open.spotify.com/track/3C4wnKdUcRx0grFcZtuB0K) | [Fifo](https://open.spotify.com/artist/5OFfXZvVHDQ76SarIJtG0a), [Youppi](https://open.spotify.com/artist/4HXhayOs3iuWCczTsLQOIX), [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU) | [Barrières](https://open.spotify.com/album/2qgaxwFqAEolIIln26xxTF) | 3:25 | 2022-10-21 | 2022-11-05 |
 | [Battleship](https://open.spotify.com/track/2RgRCdL6UgBkPUFabrM36G) | [David Jalbert](https://open.spotify.com/artist/73hJgSbsD0XvlYzI1ZmVpa) | [Le doigt d'honneur Tome II](https://open.spotify.com/album/18YetqWoWPzenG5RtA5pt0) | 3:17 | 2022-03-18 | 2022-03-26 |
 | [Bavard](https://open.spotify.com/track/6R3tleNvmMHJyHCDU5fxET) | [Rémy](https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr) | [Renaissance](https://open.spotify.com/album/2zMexOBKvZIyu0LGwwZZu0) | 3:37 | 2022-01-21 | 2022-02-05 |
+| [Bazar](https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [Bazar](https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW) | 2:46 | 2024-09-06 |  |
 | [BBM](https://open.spotify.com/track/7dMVHcxpbKHHLESDNvHtlf) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [BBM](https://open.spotify.com/album/5KUSAHvsFggDzuRk4uzvyZ) | 2:59 | 2023-05-19 | 2023-07-08 |
 | [Beau \(feat\. Julien Doré\)](https://open.spotify.com/track/7xZrirKz1fymGxGVPtRRRk) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI), [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [Miroirs](https://open.spotify.com/album/5y08xFNtrldDoRVDAH30Uu) | 2:56 | 2023-11-24 | 2024-01-20 |
 | [Beau beam](https://open.spotify.com/track/6ua2eIv3IxLvuxPqYn9dFV) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Applaudissez, bande de chameaux](https://open.spotify.com/album/5iY1ENGgSyP7THcv1Zmgsl) | 3:05 | 2022-03-18 | 2022-04-02 |
@@ -1088,7 +1089,7 @@
 | [J'ai besoin d'un break](https://open.spotify.com/track/4IEsA1Zp1TGIyKFDW1rIYC) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [J'ai besoin d'un break](https://open.spotify.com/album/73PEyPC6tcnPYevHvRitrX) | 3:08 | 2023-03-31 | 2023-05-04 |
 | [J'ai brisé ma voix](https://open.spotify.com/track/21FjZvnrn7OnCBBHuIeVha) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [J'ai brisé ma voix](https://open.spotify.com/album/5sGXWNkTxInx5v23wVHnFG) | 3:30 | 2024-08-30 | 2024-09-07 |
 | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/track/0P2JU5kn6PpMV3iMoYFLzJ) | [Larynx](https://open.spotify.com/artist/3xNTgfmlR42FlHCAnFkUac) | [J'ai dessiné un cœur dans la neige](https://open.spotify.com/album/5Ezp3SweJKbdqdZ7jn0zXM) | 1:46 | 2021-12-31 | 2022-01-22 |
-| [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 |  |
+| [J'ai l'impression](https://open.spotify.com/track/5OS1SdcRNkcMdlfolW2clz) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [J'ai l'impression](https://open.spotify.com/album/1vzYm7DbAf7yKQgaPkXXCO) | 2:47 | 2024-08-09 | 2024-09-09 |
 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 | 2024-03-15 | 2024-05-03 |
 | [J'ai mon blick](https://open.spotify.com/track/59DFpv1yqfIb32uz8swkqL) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [J'ai mon blick](https://open.spotify.com/album/4fdDkt3jpOBjEqpKEMt150) | 3:32 | 2022-05-20 | 2022-06-04 |
 | [J'ai pas l'time](https://open.spotify.com/track/7oXiWuQPvywjQgKwoVrDY4) | [Rymz](https://open.spotify.com/artist/3dN1EUAKOFCUBPFXRUdqKu) | [J'ai pas l'time](https://open.spotify.com/album/2Ox36Sou25gwtw8wvA6SUN) | 3:50 | 2022-04-29 | 2022-05-14 |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,582 songs - 3 day 10 hr 15 min
+1,583 songs - 3 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -384,7 +384,7 @@
 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 | 2023-05-19 | 2023-10-20 |
 | [Endless Road](https://open.spotify.com/track/2oKuxUV6Q5XdHuc3fYpG06) | [NSH](https://open.spotify.com/artist/13FBdMZnPKuU6QYIgagrcS) | [Endless Road](https://open.spotify.com/album/5QrjeIezUD823aU34vqMmv) | 2:43 | 2024-06-27 | 2024-09-06 |
 | [ENERGI](https://open.spotify.com/track/0N5khQ2R2C9r6zUWj5Rgwl) | [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [ENERGI](https://open.spotify.com/album/670PVkgGQoiAqGdlT9O39j) | 3:13 | 2024-05-23 | 2024-06-21 |
-| [Enkelt](https://open.spotify.com/track/6LBEdvGsRnyXYSGraaaqLG) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Enkelt](https://open.spotify.com/album/6tFRtumq3UMaFUG15PWPUv) | 2:39 | 2024-08-08 |  |
+| [Enkelt](https://open.spotify.com/track/6LBEdvGsRnyXYSGraaaqLG) | [Emma Liambi](https://open.spotify.com/artist/79ni0gLHGqim5iM0lzKMLI) | [Enkelt](https://open.spotify.com/album/6tFRtumq3UMaFUG15PWPUv) | 2:39 | 2024-08-08 | 2024-09-09 |
 | [Ensam](https://open.spotify.com/track/045fEItPCP4cEElam3hpcb) | [Petrus](https://open.spotify.com/artist/7dwuMzeQJDOTWf0GN6IQHG) | [Ensam](https://open.spotify.com/album/06s9itJ8oHEe9YZMLJm3id) | 3:02 | 2024-02-02 | 2024-03-29 |
 | [ENSAM \(feat\. estraden\)](https://open.spotify.com/track/7EN8ZT8lGdXH58ulXwW94R) | [LOAM](https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P), [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [ENSAM \(feat\. estraden\)](https://open.spotify.com/album/3YA5YC5q8EbR4fiHlPiOQ5) | 3:09 | 2022-10-27 | 2023-10-06 |
 | [Ensam kvar](https://open.spotify.com/track/2XNG3Hi08UTJzh9AnkiNqV) | [Tim Lidman](https://open.spotify.com/artist/5xkOv6R7zAoKN69OE2MKQq) | [Ensam kvar](https://open.spotify.com/album/1FTyC9ZSyz4eR1YxturydK) | 2:21 | 2024-01-18 | 2024-02-23 |
@@ -700,6 +700,7 @@
 | [Ingen reklam tack](https://open.spotify.com/track/7cNfQb7pMKKRQygje3oerX) | [Ninjaneers](https://open.spotify.com/artist/1NcntxsDrvr9p5PyqP5LwW), [Magnus Rytterstam](https://open.spotify.com/artist/27HfAM9HQFIzt33cg0ilcf) | [Ingen reklam tack](https://open.spotify.com/album/1IsTiCFLSJIdYNGe6bbr4k) | 2:24 | 2024-08-08 |  |
 | [Ingen sorg utan kärlek](https://open.spotify.com/track/6Z1JPK51S9kPWM3K1NF0zI) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Ingen sorg utan kärlek](https://open.spotify.com/album/2auZZDcYwsver6xSCrQRtX) | 3:07 | 2023-11-30 | 2024-03-08 |
 | [Ingen, bara du](https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv) | [VIOL](https://open.spotify.com/artist/5mf2lROvATwH6apu0AZBmt) | [Ingen, bara du](https://open.spotify.com/album/7ycajtCnklHybUFzHJvPYA) | 2:46 | 2024-06-13 | 2024-08-16 |
+| [Ingenting](https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS) | [Nardn](https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp) | [Ingenting](https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr) | 3:08 | 2024-09-05 |  |
 | [Ingenting](https://open.spotify.com/track/3t6K2juWZJbEEWWXM8YMjL) | [Sara Zacharias](https://open.spotify.com/artist/5oLdTp4J7RJtC43nBnP9Hg) | [Ingenting](https://open.spotify.com/album/3DqUAzuwPpxBZDEwiL10aw) | 2:47 | 2024-05-02 | 2024-06-01 |
 | [Inget Lyckligt Slut](https://open.spotify.com/track/4EBbpAV9bKR4Foux4Z7JgS) | [Aron Milton](https://open.spotify.com/artist/3SYEMg6Y8f6aK5TFM4ENam) | [Inget Lyckligt Slut](https://open.spotify.com/album/0bZEnULFwN0Qbqiydexcbs) | 2:24 | 2024-08-08 |  |
 | [Innerst Inne](https://open.spotify.com/track/3NiibjPSAaQgCaEw62HTgl) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW), [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Innerst Inne](https://open.spotify.com/album/4mHCK5SAkgmrcUY6RTYQbU) | 2:35 | 2024-06-27 |  |

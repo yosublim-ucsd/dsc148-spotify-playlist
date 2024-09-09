@@ -1,6 +1,6 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1717450,
+  "num_followers": 1717476,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
@@ -275,6 +275,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Dandelion Wine",
+      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Music From The Motion Picture Once",
         "url": "https://open.spotify.com/album/4BUG3kfPOB6DWVKKDY2icE"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 244133,
       "name": "Falling Slowly",
       "url": "https://open.spotify.com/track/6EIVLz5xM1xE29r0OmIkWt"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Dandelion Wine",
-      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Pacific",
-        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
-      },
-      "artists": [
-        {
-          "name": "Roo Panes",
-          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
-        }
-      ],
-      "duration_ms": 368493,
-      "name": "There's A Place",
-      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Don't Let Me Down",
         "url": "https://open.spotify.com/album/1mwgnCkCGVwPbp6CpFAqIp"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 180419,
       "name": "Don't Let Me Down",
       "url": "https://open.spotify.com/track/6oqlWkAUCqBXjvorIRSm54"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Pacific",
+        "url": "https://open.spotify.com/album/3zjU4Uu8DvEBpnsHbLDvyQ"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "duration_ms": 368493,
+      "name": "There's A Place",
+      "url": "https://open.spotify.com/track/1dNDxVM1HDpdKgon58QvtU"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
         "name": "Live from Spotify Studios",
         "url": "https://open.spotify.com/album/2jTuIdO2IX2TlMyt1dyZxh"
       },
@@ -815,38 +831,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Venus (Acoustic)",
-        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
-      },
-      "artists": [
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 175120,
-      "name": "Sweet Love of Mine (Acoustic)",
-      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9"
-      },
-      "artists": [
-        {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/2fSIF8CJhoc9CJhF9vJDXp"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Colony of Bees",
         "url": "https://open.spotify.com/album/22ydepp9MkmGOVOG89v9DU"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 186000,
       "name": "White Fawn",
       "url": "https://open.spotify.com/track/5fvLVlM1doZORDxGVBZlkD"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Venus (Acoustic)",
+        "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
+      },
+      "artists": [
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 175120,
+      "name": "Sweet Love of Mine (Acoustic)",
+      "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1199,18 +1199,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Sail on the Water",
-        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
       },
       "artists": [
         {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
         }
       ],
-      "duration_ms": 261141,
-      "name": "Sail on the Water",
-      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
+      "duration_ms": 230773,
+      "name": "I Like to Be With Me When I'm With You",
+      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3WequSBxJjxLL24Nvf3u0i"
+        "name": "Sail on the Water",
+        "url": "https://open.spotify.com/album/0RiF9qA2En4shWcPAC5Pz5"
       },
       "artists": [
         {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
         }
       ],
-      "duration_ms": 230773,
-      "name": "I Like to Be With Me When I'm With You",
-      "url": "https://open.spotify.com/track/6RRx0mcTHHop6jC8PY6oaB"
+      "duration_ms": 261141,
+      "name": "Sail on the Water",
+      "url": "https://open.spotify.com/track/7gYiZXvvD8H6f0lEvLUQHD"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Reckless Lover (Acoustic)",
-        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
-      },
-      "artists": [
-        {
-          "name": "Handsome Ghost",
-          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
-        }
-      ],
-      "duration_ms": 240579,
-      "name": "Reckless Lover - Acoustic",
-      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Pushin' Against A Stone",
         "url": "https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 212573,
       "name": "Somebody To Love",
       "url": "https://open.spotify.com/track/5n0zsZHAP1lUwc9cGuwxhr"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Reckless Lover (Acoustic)",
+        "url": "https://open.spotify.com/album/20cMOMSw2TBjDcY1QYJmqX"
+      },
+      "artists": [
+        {
+          "name": "Handsome Ghost",
+          "url": "https://open.spotify.com/artist/3IaqL9bsZtYJkqNLiovVho"
+        }
+      ],
+      "duration_ms": 240579,
+      "name": "Reckless Lover - Acoustic",
+      "url": "https://open.spotify.com/track/3cmcy7BwekXhIzysIdhLng"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "One Step Away",
-        "url": "https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ"
-      },
-      "artists": [
-        {
-          "name": "Tom Francis",
-          "url": "https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH"
-        }
-      ],
-      "duration_ms": 258000,
-      "name": "Upon These Stones",
-      "url": "https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Roll",
         "url": "https://open.spotify.com/album/3zaxYdzgmoxxps2lC8sfOH"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 205625,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0nXQJBEDzMLVaMOvtXGYSX"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "One Step Away",
+        "url": "https://open.spotify.com/album/18XbMZCbZZU5FdLEUXRliJ"
+      },
+      "artists": [
+        {
+          "name": "Tom Francis",
+          "url": "https://open.spotify.com/artist/5aPyEsPhCyp84LyZ4e3lzH"
+        }
+      ],
+      "duration_ms": 258000,
+      "name": "Upon These Stones",
+      "url": "https://open.spotify.com/track/6IRAHTNBYOOAGtgH8R6uvu"
     },
     {
       "added_at": "2024-07-05 22:35:53",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-07-05 22:35:53",
       "album": {
-        "name": "Everything's Fine",
-        "url": "https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ"
-      },
-      "artists": [
-        {
-          "name": "Jamie Drake",
-          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Everything's Fine",
-      "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
-    },
-    {
-      "added_at": "2024-07-05 22:35:53",
-      "album": {
         "name": "Marry Me",
         "url": "https://open.spotify.com/album/67fjSg28o9BaGW2WxJ2ndD"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 181279,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/2xierqeEyEkSJL9WKInBR5"
+    },
+    {
+      "added_at": "2024-07-05 22:35:53",
+      "album": {
+        "name": "Everything's Fine",
+        "url": "https://open.spotify.com/album/3OZkBeZ9S4LDYvmn3jQ9kZ"
+      },
+      "artists": [
+        {
+          "name": "Jamie Drake",
+          "url": "https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Everything's Fine",
+      "url": "https://open.spotify.com/track/6SRzKq8y1qHT2aSKphQ03C"
     },
     {
       "added_at": "2024-07-05 22:35:53",

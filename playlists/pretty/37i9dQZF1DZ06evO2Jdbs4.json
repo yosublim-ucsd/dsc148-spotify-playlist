@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 27438,
+  "num_followers": 27445,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAC5nZcNN74aVJMty9nNjorH",
+  "snapshot_id": "ZtuXgAAAAACibWZnN1+qH09A0QsRvEp4",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Un Golpe De Suerte",
+      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cu-Cu-Cu Cumbia!",
         "url": "https://open.spotify.com/album/7lvrww6BQ2UadzpdQBoEVH"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 228306,
       "name": "Otra Como T\u00fa",
       "url": "https://open.spotify.com/track/055pJYboqVEcECyQQnANFY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Un Golpe De Suerte",
-      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
     },
     {
       "added_at": null,
@@ -715,22 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si No Te Hubiera Conocido",
-        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 194021,
-      "name": "Si No Te Hubiera Conocido",
-      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bobby",
         "url": "https://open.spotify.com/album/6om6MJErxB1lRwPK6VxChD"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 189933,
       "name": "Se Me Olvid\u00f3 Otra Vez",
       "url": "https://open.spotify.com/track/54xyPaG8wToKbFkjGMFKMm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si No Te Hubiera Conocido",
+        "url": "https://open.spotify.com/album/6cxGEtFscvOD8xNYIMncQY"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 194021,
+      "name": "Si No Te Hubiera Conocido",
+      "url": "https://open.spotify.com/track/2XCYJ9eUSpPPNhgaGpKYP5"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 2",
-        "url": "https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        },
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 181448,
-      "name": "Ya No Te Amo",
-      "url": "https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Se Muri\u00f3 de Amor",
         "url": "https://open.spotify.com/album/4KGkWwBSQh4i4uT8HWt4vd"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 218767,
       "name": "Se Muri\u00f3 de Amor",
       "url": "https://open.spotify.com/track/1f5N7QP1ZNz5sw0ZD34YwD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 Aniversario Con Invitados a Otro Nivel, Vol. 2",
+        "url": "https://open.spotify.com/album/68RRgoiTtixqmXpCgrCGFU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        },
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 181448,
+      "name": "Ya No Te Amo",
+      "url": "https://open.spotify.com/track/691UfJ3B3IVa4Hsj3DVfvM"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 184360,
-      "name": "Las Movidas",
-      "url": "https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Camino",
         "url": "https://open.spotify.com/album/77tJHDyUdGZcPjez0lvqQJ"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 217199,
       "name": "Vuelta En U (feat. Bobby Pulido)",
       "url": "https://open.spotify.com/track/2xW2DGL2h5q3DImxQMAW3C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "S\u00f3lo Hits (20 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/4QJdlvI2J7NwkoDPzidFbp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "Las Movidas",
+      "url": "https://open.spotify.com/track/6wOz26q5SbBru05Ur5hEr7"
     }
   ],
   "unique_name": "This Is Bobby Pulido",

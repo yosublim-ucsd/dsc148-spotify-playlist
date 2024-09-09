@@ -1,6 +1,6 @@
 {
   "description": "Le canzoni d'amore italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 177960,
+  "num_followers": 177969,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
-      },
-      "artists": [
-        {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "Le luci della citt\u00e0",
-      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Io Non So Parlar D'Amore",
         "url": "https://open.spotify.com/album/5fv7zCf5fRBzmVqnrJ0UJO"
       },
@@ -175,22 +159,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "AHIA!",
-        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
-      },
-      "artists": [
-        {
-          "name": "Pinguini Tattici Nucleari",
-          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
-        }
-      ],
-      "duration_ms": 214926,
-      "name": "Scrivile Scemo",
-      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Gemelli",
         "url": "https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9"
       },
@@ -203,6 +171,38 @@
       "duration_ms": 172200,
       "name": "Superclassico",
       "url": "https://open.spotify.com/track/6Ahg1hncxUdK0ICqU03BCu"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "Le luci della citt\u00e0",
+      "url": "https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "AHIA!",
+        "url": "https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa"
+      },
+      "artists": [
+        {
+          "name": "Pinguini Tattici Nucleari",
+          "url": "https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS"
+        }
+      ],
+      "duration_ms": 214926,
+      "name": "Scrivile Scemo",
+      "url": "https://open.spotify.com/track/71r3UlkV7sWvUYjas5paqi"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -263,18 +263,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Faccio un casino",
-        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
+        "name": "Colpa Delle Favole",
+        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
       "artists": [
         {
-          "name": "Coez",
-          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
         }
       ],
-      "duration_ms": 193624,
-      "name": "Faccio un casino",
-      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
+      "duration_ms": 240738,
+      "name": "Rondini Al Guinzaglio",
+      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -291,22 +291,6 @@
       "duration_ms": 192040,
       "name": "La tua canzone",
       "url": "https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Colpa Delle Favole",
-        "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
-      },
-      "artists": [
-        {
-          "name": "Ultimo",
-          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
-        }
-      ],
-      "duration_ms": 240738,
-      "name": "Rondini Al Guinzaglio",
-      "url": "https://open.spotify.com/track/1jhHPnmgZepKU8qX4VhRZ0"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -395,8 +379,8 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "\u00c8 sempre bello",
-        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+        "name": "Faccio un casino",
+        "url": "https://open.spotify.com/album/3aKazjcDl544T21siS8lDp"
       },
       "artists": [
         {
@@ -404,9 +388,9 @@
           "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
         }
       ],
-      "duration_ms": 203872,
-      "name": "\u00c8 sempre bello",
-      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
+      "duration_ms": 193624,
+      "name": "Faccio un casino",
+      "url": "https://open.spotify.com/track/6qNXkVk19OYLu4CoqjDfZ0"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -475,6 +459,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "\u00c8 sempre bello",
+        "url": "https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "duration_ms": 203872,
+      "name": "\u00c8 sempre bello",
+      "url": "https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "LOVE",
         "url": "https://open.spotify.com/album/5ckYRyGJLuChNaIuXUWwcN"
       },
@@ -523,18 +523,18 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "L'Imboscata",
-        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+        "name": "Le cose che non ho",
+        "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
       },
       "artists": [
         {
-          "name": "Franco Battiato",
-          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+          "name": "Marco Mengoni",
+          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
         }
       ],
-      "duration_ms": 243333,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+      "duration_ms": 169520,
+      "name": "Ti ho voluto bene veramente",
+      "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
+        "name": "L'Imboscata",
+        "url": "https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv"
+      },
+      "artists": [
+        {
+          "name": "Franco Battiato",
+          "url": "https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ"
+        }
+      ],
+      "duration_ms": 243333,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
         "name": "Fabio Concato",
         "url": "https://open.spotify.com/album/745henjeFTHTYiBy7P3Vra"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 233666,
       "name": "Fiore Di Maggio",
       "url": "https://open.spotify.com/track/2pWzPQ2lhuEE2sb3aPKMHX"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
-        "name": "Le cose che non ho",
-        "url": "https://open.spotify.com/album/6471E1sHbiORDuwJkNL3JG"
-      },
-      "artists": [
-        {
-          "name": "Marco Mengoni",
-          "url": "https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5"
-        }
-      ],
-      "duration_ms": 169520,
-      "name": "Ti ho voluto bene veramente",
-      "url": "https://open.spotify.com/track/3z5eL4hQXaBWxSWZUTwI4e"
     },
     {
       "added_at": "2024-06-25 13:56:23",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-25 13:56:23",
       "album": {
-        "name": "Mainstream (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
-      },
-      "artists": [
-        {
-          "name": "Calcutta ",
-          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
-        }
-      ],
-      "duration_ms": 228480,
-      "name": "Del verde",
-      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
-    },
-    {
-      "added_at": "2024-06-25 13:56:23",
-      "album": {
         "name": "Alla Mia Et\u00e0",
         "url": "https://open.spotify.com/album/3N4MScsa0qCfg0ffZVl7wj"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 228600,
       "name": "Il Regalo Pi\u00f9 Grande",
       "url": "https://open.spotify.com/track/35eRQZmxwjgn7mQrsmtA4f"
+    },
+    {
+      "added_at": "2024-06-25 13:56:23",
+      "album": {
+        "name": "Mainstream (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k"
+      },
+      "artists": [
+        {
+          "name": "Calcutta ",
+          "url": "https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r"
+        }
+      ],
+      "duration_ms": 228480,
+      "name": "Del verde",
+      "url": "https://open.spotify.com/track/5jT6gl92pmDlKy9689oZSX"
     },
     {
       "added_at": "2024-06-25 13:56:23",

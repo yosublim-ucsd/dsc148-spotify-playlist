@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc78A1OIheFs.md) - [plain]
 
 > Discover the best in new music from Aotearoa\. Cover: Marlin's Dreaming
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,552 likes - 142 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,551 likes - 142 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

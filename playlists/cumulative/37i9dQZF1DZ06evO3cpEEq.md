@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is Felicity Urquhart\. The essential tracks, all in one playlist.
+> This is: Felicity Urquhart\. Alle wichtigen Tracks in einer Playlist.
 
 97 songs - 5 hr 57 min
 
@@ -56,7 +56,7 @@
 | [Live a Little](https://open.spotify.com/track/3R4XNh7AuaiC3rCZ5z7E1h) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:34 | 2023-06-26 | 2024-09-07 |
 | [Lonely Girl](https://open.spotify.com/track/54stbe8ngYu7gvx0ApTKjs) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:42 | 2024-05-17 | 2024-08-14 |
 | [Mr Catfish](https://open.spotify.com/track/4eYIiaQ8i5veUbYa1LVZuq) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-08-19 |  |
-| [My Life](https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-07-22 | 2024-09-08 |
+| [My Life](https://open.spotify.com/track/6sT3IWrMqInRfsJjRndV5d) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 3:22 | 2023-07-22 |  |
 | [Never Too Late](https://open.spotify.com/track/4OpC3368bjLs30zFWmzfKl) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:52 | 2023-12-26 |  |
 | [New Harmony](https://open.spotify.com/track/22duJOJn8Bc3o2K8x6pfv3) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:13 | 2023-06-17 |  |
 | [New Shadow](https://open.spotify.com/track/2izhZBC5r1yn0HhNE5gAYn) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 3:24 | 2023-07-10 | 2023-12-21 |
@@ -74,7 +74,7 @@
 | [Slow It Down](https://open.spotify.com/track/3pPGtVlnHeBupAomDBE4AY) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Karl Broadie](https://open.spotify.com/artist/1LkgfPxaEtpFvKDWSmGqj8) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:16 | 2023-07-27 | 2024-03-11 |
 | [So Go On](https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 | 2024-07-04 |
 | [Softer Side](https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:32 | 2023-11-10 |  |
-| [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 | 2024-09-07 |
+| [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 |  |
 | [Spare Parts](https://open.spotify.com/track/7bVkZG3zltN9bYyFmjcJqu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:15 | 2023-06-17 |  |
 | [Speck of Dust](https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:40 | 2023-06-25 | 2024-08-07 |
 | [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 | 2024-08-26 |

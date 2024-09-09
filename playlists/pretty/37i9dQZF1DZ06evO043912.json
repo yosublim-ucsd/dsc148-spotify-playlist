@@ -1,12 +1,12 @@
 {
   "description": "This is King Sunny Ade. The essential tracks, all in one playlist.",
-  "num_followers": 5727,
+  "num_followers": 5729,
   "original_name": "This Is King Sunny Ade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAADWdWBTYpzOVfzWuwiQWJJ/",
+  "snapshot_id": "ZtuXgAAAAACSPiNjZE+sxBcatAm++VdZ",
   "tracks": [
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 236771,
-      "name": "Eni Jesu We",
-      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+      "duration_ms": 189236,
+      "name": "O-wo-wo Obele",
+      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
         }
       ],
-      "duration_ms": 189236,
-      "name": "O-wo-wo Obele",
-      "url": "https://open.spotify.com/track/4Y7CtpNNuugzTUnvhJnALS"
+      "duration_ms": 156914,
+      "name": "Kajo jijo olomo",
+      "url": "https://open.spotify.com/track/6v1Pd3anyDPKXjkZj1Bu0z"
     },
     {
       "added_at": null,
@@ -735,54 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Juju Music",
-        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 428800,
-      "name": "Ja Funmi",
-      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Check \"E\"",
-        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 156914,
-      "name": "Kajo jijo olomo",
-      "url": "https://open.spotify.com/track/6v1Pd3anyDPKXjkZj1Bu0z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best of the Classic Years",
-        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
-      },
-      "artists": [
-        {
-          "name": "King Sunny Ade",
-          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
-        }
-      ],
-      "duration_ms": 326640,
-      "name": "Bombibele Horojo",
-      "url": "https://open.spotify.com/track/6fRfIdYNbG9sK8t3IUXVLn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Synchro System (THEMBA's Herd Mix)",
         "url": "https://open.spotify.com/album/3TOKdWOHRvx0YgBin9w8H6"
       },
@@ -803,6 +755,54 @@
       "duration_ms": 212256,
       "name": "Synchro System (THEMBA's Herd Mix)",
       "url": "https://open.spotify.com/track/04xSgQhyNYILbEhEVmJn9F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Check \"E\"",
+        "url": "https://open.spotify.com/album/1Lnu3WlDhPOpz6IWdXmBUh"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 236771,
+      "name": "Eni Jesu We",
+      "url": "https://open.spotify.com/track/2lp9ksKCyKpl8EIrcWTQhx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best of the Classic Years",
+        "url": "https://open.spotify.com/album/6Y5SoiYENbNuTBc6mTUKG9"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 326640,
+      "name": "Bombibele Horojo",
+      "url": "https://open.spotify.com/track/6fRfIdYNbG9sK8t3IUXVLn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Juju Music",
+        "url": "https://open.spotify.com/album/4BsMW0J2DUx9R9fP5TAEYs"
+      },
+      "artists": [
+        {
+          "name": "King Sunny Ade",
+          "url": "https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1"
+        }
+      ],
+      "duration_ms": 428800,
+      "name": "Ja Funmi",
+      "url": "https://open.spotify.com/track/7LLyEy0GVYBpziR5O06ZZv"
     }
   ],
   "unique_name": "This Is King Sunny Ade",

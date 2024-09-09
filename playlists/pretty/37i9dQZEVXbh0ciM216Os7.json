@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAXGA/jKMLRVIcA0Lg2qTp4",
+  "snapshot_id": "AAAAAAAAAADkbygFrusZE5EX7y9N2YiT",
   "tracks": [
     {
       "added_at": "2024-09-06 04:00:00",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Hate Me If You Want",
-        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
-      },
-      "artists": [
-        {
-          "name": "ALEXSUCKS",
-          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
-        }
-      ],
-      "duration_ms": 172855,
-      "name": "Hate Me If You Want",
-      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "We Will Rock You - Megan Thee Stallion Version",
         "url": "https://open.spotify.com/album/6Xvc7hfdkm17ExD9CtpBrO"
       },
@@ -123,54 +107,58 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "GOD LIKE",
-        "url": "https://open.spotify.com/album/1JujdVSpGWGZdgLOxrPGnn"
+        "name": "Galactic Chronic",
+        "url": "https://open.spotify.com/album/61yX5RpsbrqrovFIdmNSnW"
       },
       "artists": [
         {
-          "name": "Natethoven",
-          "url": "https://open.spotify.com/artist/1Jsx15C8czIFyjj1Af3zgg"
-        },
-        {
-          "name": "Dj Goadman",
-          "url": "https://open.spotify.com/artist/6NPwUjy7W8MUmuKIHFEX73"
-        },
-        {
-          "name": "Rakim",
-          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
+          "name": "Caspa Clark",
+          "url": "https://open.spotify.com/artist/0Ox3FqXrE6J3mdEgVHKCO7"
         },
         {
           "name": "Ghostface Killah",
           "url": "https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe"
-        },
-        {
-          "name": "Papoose",
-          "url": "https://open.spotify.com/artist/0mbgkaYR8KNUb5s3s1yYHG"
         }
       ],
-      "duration_ms": 205312,
-      "name": "GOD LIKE",
-      "url": "https://open.spotify.com/track/6K1hdecjtwrb8APaaHwZkD"
+      "duration_ms": 228101,
+      "name": "Galactic Chronic",
+      "url": "https://open.spotify.com/track/4IxY27jMaIGi0rif2nZkXQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Wu-Tang Forever",
-        "url": "https://open.spotify.com/album/73VRb5J5Rr9jW4a8I5S0Q7"
+        "name": "C,XOXO - Magic City Edition",
+        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
       },
       "artists": [
         {
-          "name": "Flex Barker",
-          "url": "https://open.spotify.com/artist/0soJGBGxYdD3dFuwSQGbXP"
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        }
+      ],
+      "duration_ms": 216471,
+      "name": "GODSPEED",
+      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Pride of A Man",
+        "url": "https://open.spotify.com/album/0BXqzO4UStlEXYNWKGKOwY"
+      },
+      "artists": [
+        {
+          "name": "ANKHLEJOHN",
+          "url": "https://open.spotify.com/artist/5C4Ykpj8uV3LkRANA6rF9M"
         },
         {
           "name": "Inspectah Deck",
           "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
         }
       ],
-      "duration_ms": 226666,
-      "name": "Kings",
-      "url": "https://open.spotify.com/track/5bNGoZDMjqkgJlVYJVqDln"
+      "duration_ms": 147692,
+      "name": "Reigny Dayz",
+      "url": "https://open.spotify.com/track/2cHHI7Aa7Njz5GK9jxft5v"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -211,18 +199,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "C,XOXO - Magic City Edition",
-        "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"
+        "name": "Hate Me If You Want",
+        "url": "https://open.spotify.com/album/39f9oe5PhctbaWFx5Yoksg"
       },
       "artists": [
         {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          "name": "ALEXSUCKS",
+          "url": "https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i"
         }
       ],
-      "duration_ms": 216471,
-      "name": "GODSPEED",
-      "url": "https://open.spotify.com/track/1HA5rqn1k4YQnJ9XxsnApd"
+      "duration_ms": 172855,
+      "name": "Hate Me If You Want",
+      "url": "https://open.spotify.com/track/3Vr8RhymMCZl2fGMZ59Rif"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -367,6 +355,30 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+      },
+      "artists": [
+        {
+          "name": "Boney James",
+          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
+      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "dark days - Tonic Walter Remix",
         "url": "https://open.spotify.com/album/4braDDCX6da12NdCoyuyt4"
       },
@@ -391,26 +403,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-        "url": "https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0"
+        "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
+        "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
       },
       "artists": [
         {
-          "name": "Boney James",
-          "url": "https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS"
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         },
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Repiet",
+          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
         },
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
         }
       ],
-      "duration_ms": 266866,
-      "name": "Butterfly [Feat. Cory Henry and Marcus Miller]",
-      "url": "https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd"
+      "duration_ms": 187795,
+      "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
+      "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -451,30 +463,6 @@
       "duration_ms": 236186,
       "name": "Checkpoint (Violence)",
       "url": "https://open.spotify.com/track/2NmBaYuBlwQrFxga3zbU2t"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
-        "url": "https://open.spotify.com/album/71xN7OTDbVHy9EKTb6PyUx"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "Repiet",
-          "url": "https://open.spotify.com/artist/5fDx43KRyr21vME3lLxmxY"
-        },
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 187795,
-      "name": "One Cry (feat. Rosa Linn) - Repiet Remix",
-      "url": "https://open.spotify.com/track/1MrqRM5t09A10v2nq0B8Jl"
     },
     {
       "added_at": "2024-09-06 04:00:00",

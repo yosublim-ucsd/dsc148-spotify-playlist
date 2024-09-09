@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Austria.
 
-806 songs - 1 day 15 hr 19 min
+807 songs - 1 day 15 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [high, high, high](https://open.spotify.com/track/4zezDZW6gxas6tCLcYjaT8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [high, high, high](https://open.spotify.com/album/00trTBqMdRTwVaw1HmYuT6) | 2:55 | 2024-02-22 | 2024-02-24 |
 | [Himmel Leer](https://open.spotify.com/track/1iZy5e1JQcMCICG1flsRNl) | [SANTOS](https://open.spotify.com/artist/4hK7sEnm0se5bqoI3Yb5o1), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Himmel Leer](https://open.spotify.com/album/0uxNKoR5OgxbwKJH97LxyK) | 3:02 | 2024-04-26 | 2024-04-28 |
 | [HIND'S HALL](https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [HIND'S HALL](https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB) | 2:48 | 2024-05-28 | 2024-06-05 |
-| [Hm Hm hm](https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [VENIN](https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz) | 2:11 | 2024-09-07 |  |
+| [Hm Hm hm](https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5) | [Youka](https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6) | [VENIN](https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz) | 2:11 | 2024-09-07 | 2024-09-09 |
 | [Hol mich raus](https://open.spotify.com/track/4Jeh3P4s8f07t14uuf877F) | [Lewinray](https://open.spotify.com/artist/7mc5W2bz15fAIfTzC1TbpZ) | [Hol mich raus](https://open.spotify.com/album/1xchpVewedigkIbgN9iA8G) | 2:20 | 2024-03-26 | 2024-04-10 |
 | [Hollow](https://open.spotify.com/track/6lvDhgHLeC9wBOOVKGCfJi) | [Dons](https://open.spotify.com/artist/3DjJiiOy3bJ9JFn81mxbWS) | [Hollow](https://open.spotify.com/album/0voSkEDsdL2nmPZiX3toXG) | 2:51 | 2024-05-13 | 2024-05-21 |
 | [Home](https://open.spotify.com/track/68mOSKT4uBkKddEAhlMO61) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Home](https://open.spotify.com/album/140NIeh2n6kSX9BHAsvlwy) | 2:37 | 2024-02-06 | 2024-02-08 |
@@ -601,6 +601,7 @@
 | [Randali](https://open.spotify.com/track/7x76MsHLcWQ4rLlHVkT7yw) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Randali](https://open.spotify.com/album/1NSEKARvPRzT2tSG1DZrmi) | 2:23 | 2024-07-16 | 2024-07-24 |
 | [Rasenschach](https://open.spotify.com/track/16hNeZ78WOpMzZrK3AKDxc) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Rasenschach](https://open.spotify.com/album/1R9wTJVdwXeItPICT8w2Ks) | 2:24 | 2024-07-13 | 2024-07-15 |
 | [Rasenschach](https://open.spotify.com/track/2p7k0RHPeNU8H7CSRWwIgp) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Rasenschach](https://open.spotify.com/album/17PIYVAjbb7QAhEYtUpu17) | 2:24 | 2024-07-09 | 2024-07-14 |
+| [Rasenschach](https://open.spotify.com/track/5F6SWgvyg6PYxmeAHhoXxJ) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [ICKE](https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8) | 2:24 | 2024-09-08 |  |
 | [Rasenschach](https://open.spotify.com/track/7jFcvN0U0ZZIXgfyEDYkcj) | [Filow](https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv) | [Rasenschach](https://open.spotify.com/album/0eyNmAznsO2cBF9hM17niE) | 2:24 | 2024-07-14 | 2024-08-28 |
 | [Ratata](https://open.spotify.com/track/3uN27f0O5xfPmEtw1JoroP) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [Ratata](https://open.spotify.com/album/1PGUc5o85RbeXfvvgfhYIU) | 2:28 | 2024-04-16 | 2024-04-30 |
 | [RATATATA](https://open.spotify.com/track/14WYmNQWvR2TTWoRp8t9Ml) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq), [Electric Callboy](https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc) | [RATATATA](https://open.spotify.com/album/4DccXktGbSRsgUoBvH8EN7) | 3:36 | 2024-06-12 | 2024-07-10 |

@@ -6227,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246786,
+      "name": "Wild Is Her Favorite Color",
+      "url": "https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC"
+    },
+    {
+      "album": {
         "name": "Wild Is Her Favorite Color",
         "url": "https://open.spotify.com/album/4IHQZBoW3LnJ62LsGvx4FT"
       },
@@ -6238,7 +6256,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 246786,
       "name": "Wild Is Her Favorite Color",
       "url": "https://open.spotify.com/track/7JATKNLC6c83UohqPyunhp"

@@ -6,10 +6,10 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACSn7D1jH4ep9vJ57+Q91wy",
+  "snapshot_id": "AAAAAAAAAADbkW2NV7JWzV9KOB/JD8GL",
   "tracks": [
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Belaya Polosa",
         "url": "https://open.spotify.com/album/60B6wBzA7SFksiyiNqlYhn"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/3ag2DJeXtr55wbwyXz17YH"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
-        "url": "https://open.spotify.com/album/3GdrCN0UEBdlvSmD730Wm5"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 250133,
-      "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
-      "url": "https://open.spotify.com/track/0PXBZRk6FrXzzxJfAkmHhd"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "The Emptiness Machine",
         "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
+        "url": "https://open.spotify.com/album/3GdrCN0UEBdlvSmD730Wm5"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 250133,
+      "name": "Undone - The Sweater Song - Third Practice - February 17, 1992",
+      "url": "https://open.spotify.com/track/0PXBZRk6FrXzzxJfAkmHhd"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Cherry - Alt. Version",
         "url": "https://open.spotify.com/album/1vwWAZZMABUkMNZIz0dccM"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/3vohVefnFQ0vsQRt3K9PxM"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Cielo de Amor",
         "url": "https://open.spotify.com/album/1CoUowBSIyWqtutcndZCnY"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/4QPmDnHLVNWRTGJSAX79DP"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Signs And Wonders",
         "url": "https://open.spotify.com/album/0KbECwliQ7YW1jSS1wG9K3"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/7kYReScqRScFCa6PxRizJb"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Infection",
         "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "The Rest Of The Best - Vol. 2",
         "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
@@ -145,27 +145,7 @@
       "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-        "url": "https://open.spotify.com/album/7iPyXregflstnu85dXNEMZ"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        },
-        {
-          "name": "The Band",
-          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
-        }
-      ],
-      "duration_ms": 328466,
-      "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
-      "url": "https://open.spotify.com/track/0hOWvv5WzJSZPmx1ofqTAd"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "I Wrote Your Name (Upon My Heart)",
         "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
@@ -181,111 +161,7 @@
       "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "50 Pistas De M\u00fasica Relajante Para El Sue\u00f1o Y La Atenci\u00f3n Plena",
-        "url": "https://open.spotify.com/album/6s8laUKRDOBioIILrSqpOT"
-      },
-      "artists": [
-        {
-          "name": "CANCIONES DE CUNA",
-          "url": "https://open.spotify.com/artist/0Jc8fJzaMqC5bb0hWhH9Xb"
-        },
-        {
-          "name": "Meditaci\u00f3n",
-          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
-        },
-        {
-          "name": "M\u00fasica a Relajarse",
-          "url": "https://open.spotify.com/artist/3Sc9GQ6vPuXwXM5D5NYrv0"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "La Sinfon\u00eda del Sue\u00f1o de la Soledad",
-      "url": "https://open.spotify.com/track/65PBCZweYrssRof7NyJZrb"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
-      },
-      "artists": [
-        {
-          "name": "Yellowcard",
-          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        },
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        }
-      ],
-      "duration_ms": 141519,
-      "name": "A Whole New World",
-      "url": "https://open.spotify.com/track/3qY20OIOEiBOzIi3ajP6l0"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Can We Fix Our Nation's Broken Heart",
-        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 278366,
-      "name": "Can We Fix Our Nation's Broken Heart",
-      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Parasite - acoustic",
-        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Parasite - acoustic",
-      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "A Whole New Sound",
-        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
-      },
-      "artists": [
-        {
-          "name": "Mayday Parade",
-          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 166219,
-      "name": "Remember Me",
-      "url": "https://open.spotify.com/track/0sT6wg8BajkRdS8gZgxQFk"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Never Going Home Tonight (feat. Madison Love)",
         "url": "https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX"
@@ -309,7 +185,131 @@
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+        "url": "https://open.spotify.com/album/7iPyXregflstnu85dXNEMZ"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        },
+        {
+          "name": "The Band",
+          "url": "https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA"
+        }
+      ],
+      "duration_ms": 328466,
+      "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
+      "url": "https://open.spotify.com/track/0hOWvv5WzJSZPmx1ofqTAd"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "50 Pistas De M\u00fasica Relajante Para El Sue\u00f1o Y La Atenci\u00f3n Plena",
+        "url": "https://open.spotify.com/album/6s8laUKRDOBioIILrSqpOT"
+      },
+      "artists": [
+        {
+          "name": "CANCIONES DE CUNA",
+          "url": "https://open.spotify.com/artist/0Jc8fJzaMqC5bb0hWhH9Xb"
+        },
+        {
+          "name": "Meditaci\u00f3n",
+          "url": "https://open.spotify.com/artist/1CXnoUdfelMmk8FPXwPtb7"
+        },
+        {
+          "name": "M\u00fasica a Relajarse",
+          "url": "https://open.spotify.com/artist/3Sc9GQ6vPuXwXM5D5NYrv0"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "La Sinfon\u00eda del Sue\u00f1o de la Soledad",
+      "url": "https://open.spotify.com/track/65PBCZweYrssRof7NyJZrb"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Can We Fix Our Nation's Broken Heart",
+        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 278366,
+      "name": "Can We Fix Our Nation's Broken Heart",
+      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        },
+        {
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        }
+      ],
+      "duration_ms": 141519,
+      "name": "A Whole New World",
+      "url": "https://open.spotify.com/track/3qY20OIOEiBOzIi3ajP6l0"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Parasite - acoustic",
+        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Parasite - acoustic",
+      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "A Whole New Sound",
+        "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
+      },
+      "artists": [
+        {
+          "name": "Mayday Parade",
+          "url": "https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy"
+        },
+        {
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+        }
+      ],
+      "duration_ms": 166219,
+      "name": "Remember Me",
+      "url": "https://open.spotify.com/track/0sT6wg8BajkRdS8gZgxQFk"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
         "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
@@ -325,7 +325,7 @@
       "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Ashes of the Wake - 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/7CwtVHoJ9cl6YEQjsSeEca"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/187dygTSk4sPf7H44F9dzN"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Definitely Maybe - 30th Anniversary",
         "url": "https://open.spotify.com/album/4J0amttxitKO3C2qCab3YA"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4DKcLZMapJwbOtLLz3Obcw"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Thrasher (Live at The Boarding House) - from Archives. Vol III",
         "url": "https://open.spotify.com/album/48xhkUBZZF04g3Y2gdb3RH"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/1VtqdiYfKqYq2lvDPvrycp"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Becoming the Bull",
         "url": "https://open.spotify.com/album/3KWOfHORWTMYpRGnESMFPb"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/6XoxNa6G8rsbj2W2lxBAFZ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "She Don't Love Me Now",
         "url": "https://open.spotify.com/album/0UfnBL4bOIXKPsBGxeJNtn"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/74srY0SjUrZMyjIB6sPQ4R"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Mind Games - The Evolution Documentary",
         "url": "https://open.spotify.com/album/2MrE4HnQdR9ns3eQFMnhP5"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/7qOS3huAuOUOXjWRe8ENIi"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Tchaikovsky: The Seasons, Op. 37a: VI. June. Barcarolle",
         "url": "https://open.spotify.com/album/1n1EFvyLZ1j5H7D2qMTXDA"
@@ -449,7 +449,7 @@
       "url": "https://open.spotify.com/track/5PJv9lOarcROmaA9hDmdnJ"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Itachi Uchiha",
         "url": "https://open.spotify.com/album/2hkAWkvL6wlprimlT0Aa5V"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5sGcH2dBRuvJ233ghSBYUr"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Run To You - SUMD4ZE Edit",
         "url": "https://open.spotify.com/album/5j3MWUbMQI5jRgIgx6r7g4"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/7GdqjqLKrf4yWO2EoDtU2T"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Ambiente de spa",
         "url": "https://open.spotify.com/album/1qjJiJulwERbuFAxpxZgSy"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/5RwyzE2NF9mq2FW65nTj3N"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Endtime Signals",
         "url": "https://open.spotify.com/album/23iJlCpjOvLgha8xkOkJBI"
@@ -521,7 +521,7 @@
       "url": "https://open.spotify.com/track/1rOerKPbC72KGilyMlBFrn"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Human Clay - Deluxe Edition",
         "url": "https://open.spotify.com/album/0COtuvphKnKh3lYWJEheML"
@@ -537,7 +537,7 @@
       "url": "https://open.spotify.com/track/4jxhl6bhajNa92S9363ETG"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "No Tomorrow",
         "url": "https://open.spotify.com/album/6nmJnknaiCSIRODXFa4htZ"
@@ -553,7 +553,7 @@
       "url": "https://open.spotify.com/track/25ZT2d4YmjQApcfWLXD1Eg"
     },
     {
-      "added_at": "2024-09-06 04:00:00",
+      "added_at": "2024-09-06 03:00:00",
       "album": {
         "name": "Oxygen",
         "url": "https://open.spotify.com/album/4HzDlHyWBDBBz4nvtCHxtJ"

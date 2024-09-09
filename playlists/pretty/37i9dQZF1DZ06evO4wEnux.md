@@ -34,6 +34,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wEnux.md) - [plain]
 | 24 | [Mine for Me](https://open.spotify.com/track/34ibYVScp6xv9YmBvI4r99) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:00 |
 | 25 | [Nothing to No One](https://open.spotify.com/track/4yTOBKjpXlbZ1VfiFmRD3W) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9), [Bryde](https://open.spotify.com/artist/0N8tTwUhQQD75uLOyqhfVU) | [Sum of All Your Parts](https://open.spotify.com/album/6yjT3AybiPKnRbwgaPMsV2) | 4:44 |
 | 26 | [First Born](https://open.spotify.com/track/4KFP54wZ8L6y4X2RjB3W0m) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [First Born](https://open.spotify.com/album/7yVWgWtRl7CrJsihQ3fi66) | 3:14 |
-| 27 | [Dust](https://open.spotify.com/track/1GJOD1hL174nX6mdaLXeSs) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 2:38 |
+| 27 | [Lights](https://open.spotify.com/track/3Hw9NcN6S0zMt7B9IwY7z7) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [I Am an Island](https://open.spotify.com/album/2kzFBi9sWI8FJYBKP2PK4O) | 3:08 |
 
-Snapshot ID: `ZtpGAAAAAADVNUriqUEdW4hmdOnuAYQ0`
+Snapshot ID: `ZtuXgAAAAACIK6RwhPJG+UkCW/Sd5MjA`

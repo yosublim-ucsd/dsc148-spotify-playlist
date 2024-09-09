@@ -1,12 +1,12 @@
 {
   "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 268370,
+  "num_followers": 268538,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAD6+4NdEQbog/dKKLTxy9Pj",
+  "snapshot_id": "ZtuXgAAAAACUyNOrj1h6MKARg8Z29I+L",
   "tracks": [
     {
       "added_at": null,
@@ -1315,6 +1315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vivaz",
+        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 190241,
+      "name": "Nova Sorte",
+      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dentro de Voc\u00ea",
         "url": "https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH"
       },
@@ -1331,22 +1347,6 @@
       "duration_ms": 235102,
       "name": "Dentro de Voc\u00ea",
       "url": "https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vivaz",
-        "url": "https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 190241,
-      "name": "Nova Sorte",
-      "url": "https://open.spotify.com/track/12TzgWqlNFtPXO4hwCusiV"
     },
     {
       "added_at": null,

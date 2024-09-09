@@ -1,6 +1,6 @@
 {
   "description": "Los temas legendarios de la escena de rap nacional: Control Machete en portada.",
-  "num_followers": 243778,
+  "num_followers": 243862,
   "original_name": "Hip-Hop Mexicano: Cl\u00e1sicos",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Vol. 4",
-        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 183093,
-      "name": "Vato Sencillo",
-      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -183,6 +167,38 @@
       "duration_ms": 255693,
       "name": "Tres Delinquentes - Radio Version",
       "url": "https://open.spotify.com/track/1dstLlsgEFPsaiccsUz2SP"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Vol. 4",
+        "url": "https://open.spotify.com/album/7LP8ofOXYH2AGzc8ZCt0Oe"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Vato Sencillo",
+      "url": "https://open.spotify.com/track/1QkDbaPjLHycyBsJzOHexj"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Dance And Dense Denso",
+        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 256386,
+      "name": "Hit Me",
+      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -219,22 +235,6 @@
       "duration_ms": 209146,
       "name": "Ma\u00f1anero",
       "url": "https://open.spotify.com/track/5CFTbLlcyy5ITkMXgE9qLZ"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Dance And Dense Denso",
-        "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
-      },
-      "artists": [
-        {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
-        }
-      ],
-      "duration_ms": 256386,
-      "name": "Hit Me",
-      "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -287,22 +287,6 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Vol. II",
-        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "El Arte del Enga\u00f1o",
-      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
         "name": "Deja V\u00fa",
         "url": "https://open.spotify.com/album/63uHR4lGboIMTdWnTRToHd"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 233626,
       "name": "El Pais De Las Maravillas",
       "url": "https://open.spotify.com/track/6Dh60wEtGzPSMUYFgMh5O2"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "Vol. II",
+        "url": "https://open.spotify.com/album/01UJJt3Aregqk8jZMDPB5x"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 262746,
+      "name": "El Arte del Enga\u00f1o",
+      "url": "https://open.spotify.com/track/0sQdIxWPpjCFLLUfOXhR0V"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -399,18 +399,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "La Plaga (Digitally Remastered Remix)",
-        "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
+        "name": "Volumen Prohibido",
+        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
       },
       "artists": [
         {
-          "name": "Tha Mexakinz",
-          "url": "https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 227000,
-      "name": "La Plaga (Digitally Remastered Remix)",
-      "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
+      "duration_ms": 223066,
+      "name": "Hey Si Me Ven",
+      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -431,18 +431,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "Volumen Prohibido",
-        "url": "https://open.spotify.com/album/1s6Kp6CZX6bvDSfXHxhrMW"
+        "name": "La Plaga (Digitally Remastered Remix)",
+        "url": "https://open.spotify.com/album/38NnPJUlEj4ciQ1kdZ3ND7"
       },
       "artists": [
         {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+          "name": "Tha Mexakinz",
+          "url": "https://open.spotify.com/artist/6oDlyUPSZb2qkvuqN3hGyN"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Hey Si Me Ven",
-      "url": "https://open.spotify.com/track/1dndIoArEd9c27oqi4Wqmd"
+      "duration_ms": 227000,
+      "name": "La Plaga (Digitally Remastered Remix)",
+      "url": "https://open.spotify.com/track/6U6UoE9LfZjeM6esvEdgCP"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-07-12 18:14:48",
       "album": {
-        "name": "La Ultima y Me Voy",
-        "url": "https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS"
+        "name": "Cartel De Santa",
+        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
       },
       "artists": [
         {
-          "name": "Mc Luka",
-          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
         }
       ],
-      "duration_ms": 231106,
-      "name": "La Vida Es un Rap",
-      "url": "https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn"
+      "duration_ms": 221586,
+      "name": "La Pelotona",
+      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -575,6 +575,22 @@
       "duration_ms": 235280,
       "name": "Raza Es Raza",
       "url": "https://open.spotify.com/track/4EQpN8UHm1RwMyK7tcGCuB"
+    },
+    {
+      "added_at": "2024-07-12 18:14:48",
+      "album": {
+        "name": "La Ultima y Me Voy",
+        "url": "https://open.spotify.com/album/3C3O4Zo7rb5Q1bLf196SpS"
+      },
+      "artists": [
+        {
+          "name": "Mc Luka",
+          "url": "https://open.spotify.com/artist/2HpeQd3eecBJ1cPR7SLcrP"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "La Vida Es un Rap",
+      "url": "https://open.spotify.com/track/7ueZmBESmN9d2UHLVTVwxn"
     },
     {
       "added_at": "2024-07-12 18:14:48",
@@ -639,22 +655,6 @@
       "duration_ms": 304346,
       "name": "El Dia De Mi Suerte",
       "url": "https://open.spotify.com/track/5nmGglu5npDUccqjWSPi0o"
-    },
-    {
-      "added_at": "2024-07-12 18:14:48",
-      "album": {
-        "name": "Cartel De Santa",
-        "url": "https://open.spotify.com/album/54AKlknAxFRfXDXtwiAhRa"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 221586,
-      "name": "La Pelotona",
-      "url": "https://open.spotify.com/track/3msi3GShzgiIAuCrbx2XNj"
     },
     {
       "added_at": "2024-07-12 18:14:48",

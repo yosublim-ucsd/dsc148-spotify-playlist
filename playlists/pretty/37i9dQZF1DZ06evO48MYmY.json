@@ -1,12 +1,12 @@
 {
   "description": "This is Simon & Garfunkel. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 334820,
+  "num_followers": 334865,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAABM7yjdK7aGTkR99xMQYYzq",
+  "snapshot_id": "ZtuXgAAAAAAYW5YNvDLuVYuTKg9GeyXC",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Friends",
-        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Blues Run the Game - Studio Outtake - 1965",
-      "url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr"
+      "duration_ms": 137480,
+      "name": "A Hazy Shade of Winter",
+      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
     },
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Old Friends",
+        "url": "https://open.spotify.com/album/3m1Gr5BQXhKZKf2yV7h2nl"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 137480,
-      "name": "A Hazy Shade of Winter",
-      "url": "https://open.spotify.com/track/2GB8OypbvrvCee61FKx5dp"
+      "duration_ms": 171293,
+      "name": "Blues Run the Game - Studio Outtake - 1965",
+      "url": "https://open.spotify.com/track/6tMRhn8hTFJm2A87tmjJPr"
     },
     {
       "added_at": null,

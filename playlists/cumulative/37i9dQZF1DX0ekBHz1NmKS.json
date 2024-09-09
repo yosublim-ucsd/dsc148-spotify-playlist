@@ -7052,7 +7052,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 159226,
       "name": "Enkelt",
       "url": "https://open.spotify.com/track/6LBEdvGsRnyXYSGraaaqLG"
@@ -12950,6 +12950,24 @@
       "duration_ms": 166689,
       "name": "Ingen, bara du",
       "url": "https://open.spotify.com/track/0GxJrcTLGKYm7LLpMf3ifv"
+    },
+    {
+      "album": {
+        "name": "Ingenting",
+        "url": "https://open.spotify.com/album/1c6w3smUTkjQ1m3KJEbdxr"
+      },
+      "artists": [
+        {
+          "name": "Nardn",
+          "url": "https://open.spotify.com/artist/0G8ErRr1bYNudAR1otxbvp"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188400,
+      "name": "Ingenting",
+      "url": "https://open.spotify.com/track/0s9EtdTE9sOz9jfaDP9nSS"
     },
     {
       "album": {

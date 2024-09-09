@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 649746,
+  "num_followers": 649876,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Blur: The Best Of",
+        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 259385,
+      "name": "Girls & Boys",
+      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Just Enough Education To Perform",
         "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
       },
@@ -187,22 +203,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Blur: The Best Of",
-        "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 259385,
-      "name": "Girls & Boys",
-      "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "International Velvet",
         "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
       },
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Get Ready",
-        "url": "https://open.spotify.com/album/4HFohweHxrMPrLjW2wkBdn"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 410026,
-      "name": "Crystal",
-      "url": "https://open.spotify.com/track/7JvTheiFwSaMFXFEbHnStK"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -263,86 +247,6 @@
       "duration_ms": 232333,
       "name": "She Bangs the Drums - Remastered 2009",
       "url": "https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "This Is My Truth Tell Me Yours",
-        "url": "https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW"
-      },
-      "artists": [
-        {
-          "name": "Manic Street Preachers",
-          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "You Stole the Sun from My Heart",
-      "url": "https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "All Change",
-        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
-      },
-      "artists": [
-        {
-          "name": "Cast",
-          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
-        }
-      ],
-      "duration_ms": 217293,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "Coming Up (Remastered)",
-        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
-      },
-      "artists": [
-        {
-          "name": "Suede",
-          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "Beautiful Ones (Remastered)",
-      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "International Velvet",
-        "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
-      },
-      "artists": [
-        {
-          "name": "Catatonia",
-          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
-        }
-      ],
-      "duration_ms": 251266,
-      "name": "Mulder and Scully",
-      "url": "https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 492946,
-      "name": "I Am the Resurrection - Remastered 2009",
-      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -363,6 +267,54 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Get Ready",
+        "url": "https://open.spotify.com/album/4HFohweHxrMPrLjW2wkBdn"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 410026,
+      "name": "Crystal",
+      "url": "https://open.spotify.com/track/7JvTheiFwSaMFXFEbHnStK"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "This Is My Truth Tell Me Yours",
+        "url": "https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW"
+      },
+      "artists": [
+        {
+          "name": "Manic Street Preachers",
+          "url": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "You Stole the Sun from My Heart",
+      "url": "https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "International Velvet",
+        "url": "https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a"
+      },
+      "artists": [
+        {
+          "name": "Catatonia",
+          "url": "https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv"
+        }
+      ],
+      "duration_ms": 251266,
+      "name": "Mulder and Scully",
+      "url": "https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Jollification",
         "url": "https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26"
       },
@@ -375,6 +327,54 @@
       "duration_ms": 259666,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Coming Up (Remastered)",
+        "url": "https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv"
+      },
+      "artists": [
+        {
+          "name": "Suede",
+          "url": "https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS"
+        }
+      ],
+      "duration_ms": 230866,
+      "name": "Beautiful Ones (Remastered)",
+      "url": "https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 492946,
+      "name": "I Am the Resurrection - Remastered 2009",
+      "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "All Change",
+        "url": "https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5"
+      },
+      "artists": [
+        {
+          "name": "Cast",
+          "url": "https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "The Good Will Out",
-        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
-      },
-      "artists": [
-        {
-          "name": "Embrace",
-          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
-        }
-      ],
-      "duration_ms": 366266,
-      "name": "All You Good Good People",
-      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Pills 'N' Thrills And Bellyaches (Collector's Edition)",
         "url": "https://open.spotify.com/album/2Qo9lJydzuAmcBUjGOvrMQ"
       },
@@ -539,6 +523,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        }
+      ],
+      "duration_ms": 422600,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Songs For The Front Row - The Best Of Ocean Colour Scene",
         "url": "https://open.spotify.com/album/11UaUnzpCWmm1ARcZtEtFG"
       },
@@ -555,18 +555,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "The Good Will Out",
+        "url": "https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK"
       },
       "artists": [
         {
-          "name": "Primal Scream",
-          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+          "name": "Embrace",
+          "url": "https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7"
         }
       ],
-      "duration_ms": 422600,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+      "duration_ms": 366266,
+      "name": "All You Good Good People",
+      "url": "https://open.spotify.com/track/72TPbqNS18yOlXa5USPSSo"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -763,6 +763,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "In It For The Money",
+        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
+      },
+      "artists": [
+        {
+          "name": "Supergrass",
+          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
+        }
+      ],
+      "duration_ms": 192960,
+      "name": "Richard III",
+      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "Brimful of Asha",
         "url": "https://open.spotify.com/album/3zImpd2BehQCHbnTiIJlZB"
       },
@@ -795,6 +811,22 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
         "name": "This Is How It Feels",
         "url": "https://open.spotify.com/album/3ucH3ja1FUFk9sNwp4DP54"
       },
@@ -823,38 +855,6 @@
       "duration_ms": 271106,
       "name": "Wide Open Space",
       "url": "https://open.spotify.com/track/6qDcBy0eHAJW3xoezLs9Ik"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "In It For The Money",
-        "url": "https://open.spotify.com/album/67qnhGyaN6Z0PYJMEePzjW"
-      },
-      "artists": [
-        {
-          "name": "Supergrass",
-          "url": "https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU"
-        }
-      ],
-      "duration_ms": 192960,
-      "name": "Richard III",
-      "url": "https://open.spotify.com/track/3p0rnbnQc8WPJjcMyUsglj"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/500FEaUzn8lN9zWFyZG5C2"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/4SE81CrzH0qPA8KHqM9Syz"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Urban Hymns",
-        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
-      },
-      "artists": [
-        {
-          "name": "The Verve",
-          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
-        }
-      ],
-      "duration_ms": 305066,
-      "name": "The Drugs Don't Work",
-      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Different Class / Deluxe Edition",
         "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 273733,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Urban Hymns",
+        "url": "https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g"
+      },
+      "artists": [
+        {
+          "name": "The Verve",
+          "url": "https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "The Drugs Don't Work",
+      "url": "https://open.spotify.com/track/2KArbNRAnfGcnZ1gSYhVy5"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "James: The Best Of",
-        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
-      },
-      "artists": [
-        {
-          "name": "James",
-          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
-        }
-      ],
-      "duration_ms": 156866,
-      "name": "Laid",
-      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "The Best Of Ash (Remastered Version)",
         "url": "https://open.spotify.com/album/5BFwMp5Uzs15Zasy5YOqib"
       },
@@ -1019,18 +1003,42 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+        "name": "James: The Best Of",
+        "url": "https://open.spotify.com/album/0ce2oLBbMhAL3TFcsZZHpb"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "James",
+          "url": "https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+      "duration_ms": 156866,
+      "name": "Laid",
+      "url": "https://open.spotify.com/track/3PJqVKBvamWgzODoRwqZGm"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/5MieoQokjgz4vqjyGgeVFZ"
+      },
+      "artists": [
+        {
+          "name": "Primal Scream",
+          "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
+        },
+        {
+          "name": "George Drakoulias",
+          "url": "https://open.spotify.com/artist/7gypIdzrRa5Qn38DR8ounG"
+        },
+        {
+          "name": "David Bianco",
+          "url": "https://open.spotify.com/artist/6ups229w24QPVgpwi1Hha6"
+        }
+      ],
+      "duration_ms": 215986,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2C1LBnSUybZIGRJUkSK2GC"
     },
     {
       "added_at": "2024-03-18 22:10:08",

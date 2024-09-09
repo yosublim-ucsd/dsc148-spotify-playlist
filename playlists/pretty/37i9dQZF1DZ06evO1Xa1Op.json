@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ali Farka Tour\u00e9. Los temas esenciales, todos en una lista.",
-  "num_followers": 20435,
+  "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
+  "num_followers": 20438,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAACwTAA9vVRNwaaCrLoGBIF1",
+  "snapshot_id": "ZtuXgAAAAAAGDW4K8LsxMxd3jppasXcQ",
   "tracks": [
     {
       "added_at": null,
@@ -472,9 +472,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 321440,
-      "name": "Penda Yoro",
-      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
+      "duration_ms": 256853,
+      "name": "Yer Bounda Fara",
+      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
     },
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 256853,
-      "name": "Yer Bounda Fara",
-      "url": "https://open.spotify.com/track/56diuxLa7MlePUpjTBRswc"
+      "duration_ms": 321440,
+      "name": "Penda Yoro",
+      "url": "https://open.spotify.com/track/3r8tadrcfrmhmzZBrn78iz"
     },
     {
       "added_at": null,

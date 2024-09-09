@@ -4,12 +4,13 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: אלון עדר
 
-102 songs - 6 hr 13 min
+103 songs - 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5/4](https://open.spotify.com/track/2FZuS4D8xTOsM7bCLy4a1z) | [Sheygets](https://open.spotify.com/artist/2cPjbkjCnAz8t7tZMPDah8) | [עוד משקאות חריפים](https://open.spotify.com/album/3RI19QNV4o6KenqcqmApIK) | 3:45 | 2024-07-12 |  |
 | [A Thousand Times](https://open.spotify.com/track/3lJnPyMLhZ2javY7UZl36K) | [Russo](https://open.spotify.com/artist/0ECpBE2RTJep1cVxNFulEA), [Roni Bar Hadas](https://open.spotify.com/artist/5OZeMBvHIGYKnOg3WfBQ44) | [A Thousand Times](https://open.spotify.com/album/0KoAvYIp3jyn8XrFnxCqaF) | 2:56 | 2024-06-27 |  |
+| [All The Way](https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM) | [Kutiman](https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e), [Dekel](https://open.spotify.com/artist/4WUjnhS0CHDhjdm9ei8pj7), [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj), [Lala Tamar](https://open.spotify.com/artist/10f7DRewxOc63etYN3tevr), [ALIZA](https://open.spotify.com/artist/1DhQpHcfmYxhIKtKfxTYMX) | [All The Way](https://open.spotify.com/album/67g4rxomqOhlcelsPVfT4g) | 4:19 | 2024-09-05 |  |
 | [Another Life](https://open.spotify.com/track/5ehKFubjMlzscWxQOZXU1Y) | [Metropolin](https://open.spotify.com/artist/2CH9N0ISuyCkZ2q3XEY2V0), [Daniella Tourgeman](https://open.spotify.com/artist/7qp55YAqM5IcqzSpmoi3O7) | [Another Life](https://open.spotify.com/album/5q3coMph1VFaQTZliJZJIA) | 3:32 | 2024-06-27 | 2024-07-27 |
 | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/track/3qZ8kllBS6LoyAW2QtBaJQ) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [AYAYAY \(feat\. Dillom\)](https://open.spotify.com/album/5fnP4WvBKSWYeSVbmtKefP) | 2:59 | 2024-07-18 |  |
 | [Carry me home](https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog) | [Roni Alter](https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN) | [Water on Water](https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P) | 5:08 | 2024-07-25 |  |
@@ -61,7 +62,7 @@
 | [זנב לאריות](https://open.spotify.com/track/65XRdzcboylqk9YbfOHjbu) | [Haze'evot](https://open.spotify.com/artist/4p3CuBU6qQdQgIqec3hooj) | [זנב לאריות](https://open.spotify.com/album/63puPTqi1TeyCgpurPx7v7) | 3:23 | 2024-07-18 | 2024-07-27 |
 | [חברה שלי \- Havera Sheli](https://open.spotify.com/track/05DpO0iqMUbE7O02BaVp5l) | [Riff Cohen](https://open.spotify.com/artist/3yKO4z2CeXv9sxD1zSw0Sg) | [חור בלב](https://open.spotify.com/album/5ArcoQTg4d5o1e1Dgd0ZzX) | 3:56 | 2024-06-27 | 2024-07-19 |
 | [חלליות \- Bonus Track](https://open.spotify.com/track/519zGBHfcoMPuzbhvBQJAR) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [Live 2022](https://open.spotify.com/album/1WQbQYkE63mbSsle6i3wWP) | 4:32 | 2024-06-27 |  |
-| [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 | 2024-08-01 |  |
+| [ילדות נשכחת](https://open.spotify.com/track/6oe1xEZ2KzbUyPf8DsO5S5) | [Yehudit Ravitz](https://open.spotify.com/artist/5gf4XgAoGBJgguBo9sbyzj) | [ילדות נשכחת](https://open.spotify.com/album/5H6W27ABHcNIlEEveTJmHK) | 3:23 | 2024-08-01 | 2024-09-09 |
 | [ילדים של אלוהים](https://open.spotify.com/track/6mIHCPHmVVRqc7CHcTvZew) | [Karolina](https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB), [VuVuVu](https://open.spotify.com/artist/72m7rhXzVCeMEPdSSoERwP) | [ילדים של אלוהים](https://open.spotify.com/album/2gOS8PDQ1IK4qdVVjLMTUz) | 3:49 | 2024-07-18 |  |
 | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/track/116GDev72vb3hj162mjDGX) | [Jenny Penkin](https://open.spotify.com/artist/30BQvdG9vRDDXZtEEyELke) | [כיסופים \(שיר הנושא מתוך הסרט\)](https://open.spotify.com/album/03bftBUfd3xjJSIJ9tlMaR) | 2:54 | 2024-07-18 | 2024-08-15 |
 | [כישוף](https://open.spotify.com/track/2ujR5NQ1zx65qwCbobw8br) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [כישוף](https://open.spotify.com/album/2AYNaul3xaYy6bh4aVaXHE) | 3:23 | 2024-06-27 | 2024-07-27 |

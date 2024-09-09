@@ -1,12 +1,12 @@
 {
   "description": "This is th\u1ee7y. The essential tracks, all in one playlist.",
-  "num_followers": 10283,
+  "num_followers": 10292,
   "original_name": "This Is th\u1ee7y",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAACylRi9nVQK8cjksi+LLmSX",
+  "snapshot_id": "ZtuXgAAAAAB0+Tbs+OOY2fMB/3pfpur1",
   "tracks": [
     {
       "added_at": null,
@@ -135,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        },
-        {
-          "name": "Lil Kev",
-          "url": "https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -171,6 +151,26 @@
       "duration_ms": 167312,
       "name": "chances",
       "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/2RBCjQ1pAiQSSW9YdFAkqs"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        },
+        {
+          "name": "Lil Kev",
+          "url": "https://open.spotify.com/artist/05U8xYmKMe2z0IjNlI2qG6"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/5DyBTivjORrpNhJkJj2Ao5"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "obsessed",
-      "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this",
         "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 192000,
       "name": "figured u out",
       "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 185263,
+      "name": "obsessed",
+      "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
     },
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "trippin'",
+      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 197557,
       "name": "trust (feat. RINI)",
       "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "trippin'",
-      "url": "https://open.spotify.com/track/61paqDrRJe8h4c5ypysurz"
     },
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "girls like me don't cry",
         "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
@@ -363,18 +379,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+        "name": "WHAT A NIGHT TO BE IN LOVE",
+        "url": "https://open.spotify.com/album/00kgUArBYwVlcbE8HP5aO0"
       },
       "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        },
         {
           "name": "th\u1ee7y",
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 188000,
-      "name": "in my head",
-      "url": "https://open.spotify.com/track/4hD9dJBxYL7OUh6QgxBkM6"
+      "duration_ms": 133440,
+      "name": "Two Truths And A Lie",
+      "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
     },
     {
       "added_at": null,
@@ -395,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Slide",
-        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
+        "name": "i hope u see this",
+        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
       },
       "artists": [
         {
@@ -404,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 221440,
-      "name": "Slide",
-      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
+      "duration_ms": 144396,
+      "name": "in my bag",
+      "url": "https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF"
     },
     {
       "added_at": null,
@@ -427,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "i hope u see this",
-        "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+        "name": "Slide",
+        "url": "https://open.spotify.com/album/5OWku4zuFZbcCLckaunlXc"
       },
       "artists": [
         {
@@ -436,9 +456,9 @@
           "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 144396,
-      "name": "in my bag",
-      "url": "https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF"
+      "duration_ms": 221440,
+      "name": "Slide",
+      "url": "https://open.spotify.com/track/1nOfGMBJATb0Cbu1Xpv3ie"
     },
     {
       "added_at": null,
@@ -475,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAT A NIGHT TO BE IN LOVE",
-        "url": "https://open.spotify.com/album/00kgUArBYwVlcbE8HP5aO0"
-      },
-      "artists": [
-        {
-          "name": "ASTN",
-          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
-        },
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 133440,
-      "name": "Two Truths And A Lie",
-      "url": "https://open.spotify.com/track/1eB0OW7eTtcLt3uqYiSc3C"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "i hope u see this (deluxe)",
         "url": "https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y"
       },
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "don't miss me too much",
-        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "day dream",
         "url": "https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 210909,
       "name": "day dream",
       "url": "https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "don't miss me too much",
+        "url": "https://open.spotify.com/album/54pN5CVMrX7ObvJSlOMQD1"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/5HU3xRxRyKLW2Fs5nJdN4e"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 174242,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Next to You",
         "url": "https://open.spotify.com/album/0m6yQDokL3mfrVXsObA8Sw"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 204528,
       "name": "Next to You",
       "url": "https://open.spotify.com/track/1GVe6q4SdRvrQ8zN9nC0LE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2t1eIuTTN8mxkOXxjRBasL"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 174242,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1YQJzh01rPQ4fiAuEtxXuW"
     },
     {
       "added_at": null,
@@ -783,22 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ain't No One",
-        "url": "https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 173844,
-      "name": "Ain't No One",
-      "url": "https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hands on Me",
         "url": "https://open.spotify.com/album/0wP22H6E7VHv5pfWGTIZws"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 188734,
       "name": "Hands on Me",
       "url": "https://open.spotify.com/track/77b7Cukvthg7FV7vhOlev1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ain't No One",
+        "url": "https://open.spotify.com/album/4JuqNqYxtImRT4zhsFZbF9"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 173844,
+      "name": "Ain't No One",
+      "url": "https://open.spotify.com/track/5LgYy64uprlaC3fb8ysnte"
     },
     {
       "added_at": null,

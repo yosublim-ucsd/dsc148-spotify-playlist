@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 22:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 16:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -17361,6 +17361,24 @@
     },
     {
       "album": {
+        "name": "I Kno",
+        "url": "https://open.spotify.com/album/7Ky3s5Hf8v0kWaN0nUhNfU"
+      },
+      "artists": [
+        {
+          "name": "Drippin So Pretty",
+          "url": "https://open.spotify.com/artist/06zDPcTSPMsBIJX2X7TI3s"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135551,
+      "name": "I Kno",
+      "url": "https://open.spotify.com/track/5oEBejfrKg0ROmYsxwcaEh"
+    },
+    {
+      "album": {
         "name": "I Live... AGAIN!",
         "url": "https://open.spotify.com/album/7kBAaHbuovC6PIJpVRdcns"
       },
@@ -19030,7 +19048,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 110222,
       "name": "Job Application",
       "url": "https://open.spotify.com/track/7Fj59i8igCD0s1dLRSe3ae"
@@ -38953,7 +38971,7 @@
     },
     {
       "album": {
-        "name": "Wet Dreams (feat. Coop & G)",
+        "name": "Wet Dreams (feat. coop & gg)",
         "url": "https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO"
       },
       "artists": [
@@ -38966,15 +38984,15 @@
           "url": "https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv"
         },
         {
-          "name": "G",
-          "url": "https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG"
+          "name": "G G",
+          "url": "https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj"
         }
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 159090,
-      "name": "Wet Dreams (feat. Coop & G)",
+      "name": "Wet Dreams (feat. coop & gg)",
       "url": "https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC"
     },
     {

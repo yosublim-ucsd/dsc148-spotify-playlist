@@ -4,7 +4,7 @@
 
 > Uptempo instrumental hip hop beats.
 
-951 songs - 1 day 12 hr 55 min
+953 songs - 1 day 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 |  |
 | [barista](https://open.spotify.com/track/0wAlWdKvZ4WS4NJ5veqcOU) | [Emotional thistle](https://open.spotify.com/artist/308rengQaTapxWBn0scsQk) | [barista](https://open.spotify.com/album/5lBIty29ReEAnUdxWzcelj) | 2:42 | 2022-12-09 | 2024-02-02 |
 | [Beach & Berries](https://open.spotify.com/track/10zYErxZB71gJnKk5iaQD9) | [Kantboll](https://open.spotify.com/artist/0bKRZMzwgUflqx6PP7Glfn) | [Beach & Berries](https://open.spotify.com/album/4q6YuYWtSiwaLvEZid6GzQ) | 2:04 | 2022-04-15 | 2022-07-08 |
+| [Beat Crusher](https://open.spotify.com/track/3zCQK3MbJfryLGpDZdPO9i) | [Nishimura Blaze](https://open.spotify.com/artist/0UkVabqymwYoKqA9FtrTYa) | [Beat Crusher](https://open.spotify.com/album/7GSXF4jI5bIMgELjbkKiFK) | 2:10 | 2024-09-06 |  |
 | [beatheart](https://open.spotify.com/track/64q8ufbBeVKpIOdQOX3oDb) | [its\-ya\-boi](https://open.spotify.com/artist/1FbBiHKRJo32d7cDKVXkqK) | [beatheart](https://open.spotify.com/album/7Hw3BQdIFLbN0cosNLEHu9) | 2:32 | 2022-11-11 |  |
 | [BeatStop](https://open.spotify.com/track/6wC0qvBQ705DXdclZTWaec) | [Freckle & Pete](https://open.spotify.com/artist/63NEeSfDLOqSJB1detrXx3) | [BeatStop](https://open.spotify.com/album/0ZC94kziQDtZsIc9mD39Il) | 1:56 | 2022-04-15 | 2022-04-22 |
 | [bedroom beat](https://open.spotify.com/track/1NEapFjv6l7VKX57BGNcxa) | [zakori](https://open.spotify.com/artist/1yw7x5O6btobGfIvuNiXms) | [bedroom beat](https://open.spotify.com/album/6xcqp2zuKI7ki9pcjyBpSY) | 1:54 | 2022-04-15 | 2022-05-20 |
@@ -333,6 +334,7 @@
 | [Hong Kong Minute](https://open.spotify.com/track/3M0fRULm8Js8oHwiO9Cjod) | [Metic](https://open.spotify.com/artist/6w72979Ja5ip1mFNzTa2iY) | [Hong Kong Minute](https://open.spotify.com/album/3DLhD7vymFXPYWscCRM7yW) | 2:17 | 2022-04-15 | 2022-12-10 |
 | [Horizon Butterfly](https://open.spotify.com/track/0vdB56ot3Tp0xHxnU7kyCy) | [DGHTR](https://open.spotify.com/artist/7bWbTJbtBrYJp1xtRjDLeL) | [HoriZon Butterfly](https://open.spotify.com/album/1eMCCzTeBEiYL5cInuxSmp) | 2:00 | 2022-10-14 |  |
 | [Horizon mind](https://open.spotify.com/track/0KxU1WQidDDjwDbTm0YW4b) | [Jolly Jordan](https://open.spotify.com/artist/4lpUkhOmmsVncY2vxf2UuZ) | [Horizon mind](https://open.spotify.com/album/4DPxwX7Ixo2SMiIQdUSXwE) | 3:16 | 2022-04-15 |  |
+| [hot mess](https://open.spotify.com/track/4qhLmcwhWxD17aWb2eN8sz) | [giannis wang](https://open.spotify.com/artist/7gCQx2yCLDrGPTMa7fAY8y) | [hot mess](https://open.spotify.com/album/0hUjYYtYqpbVZgIG6vRmEZ) | 2:05 | 2024-09-06 |  |
 | [hot sauce expert](https://open.spotify.com/track/6Y9htoJ4aK8doMsrfSjfZk) | [Govii](https://open.spotify.com/artist/2rVT5Vmfp9tvqtvAQU0r4f) | [hot sauce expert](https://open.spotify.com/album/6ENsgfts4fxKpxve4szGlD) | 2:03 | 2024-01-12 |  |
 | [Hot Stones](https://open.spotify.com/track/13LZg3VSWy7YWnaBOhPmMo) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/13hvjH0sRnYLVJRAUC1z2z) | 1:45 | 2022-11-11 | 2022-11-25 |
 | [Hot Stones](https://open.spotify.com/track/16rYkrvniJ5h40ajA5bKpI) | [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio), [Nofeels](https://open.spotify.com/artist/3Qn4P4XWpnaL8MfK237Mjl) | [Hot Stones](https://open.spotify.com/album/3dG4Xh1b0BIgLUkRfefhJ1) | 1:45 | 2022-12-09 | 2024-04-19 |
@@ -424,7 +426,7 @@
 | [Let It Love](https://open.spotify.com/track/4PThACYdVkpvTevBsLQh4X) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG), [Japanolofi Records](https://open.spotify.com/artist/3hpBOomrnPaXG3xfma7CUM) | [Let It Love](https://open.spotify.com/album/7uFQKLLBDOj3C4SzaDZJMt) | 2:24 | 2022-11-25 |  |
 | [Lets meet soon](https://open.spotify.com/track/29rrd6Sg1lAmLzflVCrejq) | [RINZ.](https://open.spotify.com/artist/1qc48l4N7tBU8sMOuIAa82), [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL) | [Lets meet soon](https://open.spotify.com/album/0NTIuafaplcYS4BsuTXSFs) | 2:12 | 2022-05-13 | 2023-10-20 |
 | [Let’s Talk](https://open.spotify.com/track/3PDYzBV9MDoceVJT05doMe) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [Jackson Heights](https://open.spotify.com/album/0jwgd46SErxE9SXsRWzpf6) | 3:25 | 2023-09-22 |  |
-| [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 |  |
+| [Lights](https://open.spotify.com/track/2Ybz4zJuj5pBKmWeLjbGdE) | [Lou Vega](https://open.spotify.com/artist/2MOWSerVsZJGoIS0EOSel4) | [Lights](https://open.spotify.com/album/7jVcGM3AMu2z9yRs6TEO0R) | 2:34 | 2023-07-19 | 2024-09-09 |
 | [Lightzone](https://open.spotify.com/track/6RWd8uKY4Fp7IfVpJjjOgp) | [Ble0](https://open.spotify.com/artist/6WmPnJPGUdHOZAmDIY9GIo) | [Lightzone](https://open.spotify.com/album/4NKxtQjQiUir9MJMIkdPJi) | 2:21 | 2022-04-15 | 2022-05-20 |
 | [Like Water](https://open.spotify.com/track/5vLmed5xWfDEiwAbkBPOQG) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Like Water](https://open.spotify.com/album/2eJNHf8JiIcGStoofUu82q) | 2:05 | 2022-04-15 | 2022-08-12 |
 | [Limitless 8](https://open.spotify.com/track/5Nym2K9ThXcsp3P1y8bD1N) | [Supereffective](https://open.spotify.com/artist/4ZeIehjJBLHHCy2SJu51p6) | [Limitless 8](https://open.spotify.com/album/38jOR4uZk78GnorFhtSBbH) | 2:37 | 2023-12-15 |  |
@@ -772,7 +774,7 @@
 | [Stream of Consciousness](https://open.spotify.com/track/5zCwGSdX2et9QL5bvCNEp3) | [Lightover](https://open.spotify.com/artist/3YArYgoxRyJPcpSLjKJeX3) | [Stream of Consciousness](https://open.spotify.com/album/4dKDzOF6I8IMZqKFEInpcn) | 2:32 | 2022-06-10 | 2022-07-08 |
 | [Street Of Gold](https://open.spotify.com/track/5z0o7Ep4MktEA00g804pC3) | [ShinE](https://open.spotify.com/artist/100EZpJ3gfxPHtKnIBnSHH) | [Street Of Gold](https://open.spotify.com/album/3kzQO9LsVqE2qcSRcOw1LH) | 3:03 | 2022-04-15 | 2022-05-20 |
 | [Streets](https://open.spotify.com/track/7s5AKPdIFRAKhwNdTdsAcH) | [Adbeel](https://open.spotify.com/artist/7i5bDhrZDrpdLX9XHGjkbj), [Agx12](https://open.spotify.com/artist/49UL7yljFCnRKP4ZDVY6q5) | [Streets](https://open.spotify.com/album/6eAlAb0BGG1DxKvBhFW7SG) | 2:00 | 2023-04-03 | 2023-11-24 |
-| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 |  |
+| [String Lights](https://open.spotify.com/track/7jFZuxwCwaVmzAHaOfjKkF) | [Dimension 09](https://open.spotify.com/artist/6iuTugq19D6JIxJWQwLlr0) | [Charms](https://open.spotify.com/album/12wz2J41ZvWQrIdDOeoJrg) | 2:37 | 2022-06-10 | 2024-09-09 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-04-15 | 2022-07-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-04-15 | 2023-10-13 |
 | [Subliminal](https://open.spotify.com/track/3VLSJ5VvSBGVXoC5cQo0Fg) | [FOCUS inc.](https://open.spotify.com/artist/5KhJljlbtsSaGGbRwYVp2n) | [Subliminal](https://open.spotify.com/album/56EXm35Vqwysafnh14WaNT) | 2:14 | 2022-04-15 |  |

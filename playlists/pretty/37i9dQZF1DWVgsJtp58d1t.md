@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 ### [This Is Frequency](https://open.spotify.com/playlist/37i9dQZF1DWVgsJtp58d1t)
 
-> New music from Black artists every Friday\. Cover: <a href="spotify:artist:2EMAnMvWE2eb56ToJVfCWs">Bryson Tiller</a>
+> New music from Black artists every Friday\. Cover: <a href="spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg">Kendrick Lamar</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,026,248 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,026,305 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 99 | [act iv: fckin u again \(18+\)](https://open.spotify.com/track/1NuOeIi5ChqiUZpbbLK8tr) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [act iv: fckin u again \(18+\)](https://open.spotify.com/album/6xarfJH1hiASL8Vs6KhtQK) | 3:15 |
 | 100 | [I hate your face](https://open.spotify.com/track/4plObcsK0lBzi91Xew0lur) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [I hate your face](https://open.spotify.com/album/29pZPrymjXwbz4pKupUbi7) | 2:18 |
 
-Snapshot ID: `Zty7lgAAAAAqtObHCr1UEcDHxrUkjll4`
+Snapshot ID: `Zt3ThQAAAAA1kZv1I0JnyY/410Zo/w9d`

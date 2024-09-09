@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/65nBq6bgZmJvMvlnrFxyud">Rory Adams</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-33 songs - 1 hr 45 min
+34 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Groupie](https://open.spotify.com/track/1ORwrvXGsLGVqabn0minCr) | [Cate](https://open.spotify.com/artist/7D25zMq1tDmT0nfh6ieYph) | [Groupie](https://open.spotify.com/album/6iylZzYLNtnmYDLXkKWSUQ) | 3:08 | 2024-06-13 |  |
 | [How Do You Know](https://open.spotify.com/track/1QiGePKveZjlbyZEcdYyF8) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Victory](https://open.spotify.com/album/4T0KHJNt0mCuAyXSXfhQc3) | 4:00 | 2024-06-13 |  |
 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 | 2024-06-13 |  |
-| [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-07-05 |  |
+| [LA](https://open.spotify.com/track/0NZ95zuvvves6AI83A9W0S) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [LA](https://open.spotify.com/album/2Lvt5Kiz9CPM0vcHDCvduH) | 3:20 | 2024-07-05 | 2024-09-09 |
+| [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 | 2024-09-08 |  |
 | [Look At Me Now](https://open.spotify.com/track/7lPb9P7WJ0PX4DcJxFQjqn) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [It's Your Bed Babe, It's Your Funeral](https://open.spotify.com/album/1sbCW0I7rP05Zyru3gSyiH) | 3:09 | 2024-06-13 |  |
 | [Mad At You](https://open.spotify.com/track/4mLMiTNQEYs4K1S9ZPkBxA) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Mad At You](https://open.spotify.com/album/4kEWnZJmyrbhnAvRGvVyrK) | 3:28 | 2024-06-13 |  |
 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 | 2024-06-13 |  |

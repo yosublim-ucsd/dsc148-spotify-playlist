@@ -1,6 +1,6 @@
 {
   "description": "Updated every Friday with the very best classical new releases. Cover: Max Richter.",
-  "num_followers": 710557,
+  "num_followers": 710610,
   "original_name": "Classical New Releases",
   "owner": {
     "name": "Spotify",
@@ -664,12 +664,12 @@
       },
       "artists": [
         {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        },
-        {
           "name": "Tune Your Mind",
           "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
       "duration_ms": 145500,

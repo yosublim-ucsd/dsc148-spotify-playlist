@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena, Emilia",
-  "num_followers": 965439,
+  "num_followers": 965398,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -167,18 +167,18 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
-        "name": "La_Playlist.mpeg",
-        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
+        "name": "UWAIE",
+        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
       },
       "artists": [
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
         }
       ],
-      "duration_ms": 149571,
-      "name": "La_Playlist.mpeg",
-      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
+      "duration_ms": 172427,
+      "name": "UWAIE",
+      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
     },
     {
       "added_at": "2024-09-02 10:06:43",
@@ -203,22 +203,18 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
-        "name": "GOTTI A",
-        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
+        "name": "La_Playlist.mpeg",
+        "url": "https://open.spotify.com/album/4hrs3KFCvbn6OWadD2qio4"
       },
       "artists": [
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
         }
       ],
-      "duration_ms": 167315,
-      "name": "De Vuelta",
-      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
+      "duration_ms": 149571,
+      "name": "La_Playlist.mpeg",
+      "url": "https://open.spotify.com/track/0Cs2ANiGsCOQLKnCrNJ6hA"
     },
     {
       "added_at": "2024-09-02 10:06:43",
@@ -239,18 +235,22 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
-        "name": "UWAIE",
-        "url": "https://open.spotify.com/album/5H7sO778w4hgr2v2600ajN"
+        "name": "GOTTI A",
+        "url": "https://open.spotify.com/album/3s6jmSUxBLRxzKdevnFmJS"
       },
       "artists": [
         {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 172427,
-      "name": "UWAIE",
-      "url": "https://open.spotify.com/track/5QjmUqgpPQgXgg4606DqZF"
+      "duration_ms": 167315,
+      "name": "De Vuelta",
+      "url": "https://open.spotify.com/track/5eAYNG0ul2CutxVSzY61lz"
     },
     {
       "added_at": "2024-09-02 10:06:43",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
-        "name": "Tienes Que Saber",
-        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Naiara",
-          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
-        }
-      ],
-      "duration_ms": 180563,
-      "name": "Tienes Que Saber",
-      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
-    },
-    {
-      "added_at": "2024-09-02 10:06:43",
-      "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/5uMSlAYTRCqjqGP32e30pC"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 164599,
       "name": "Cupido",
       "url": "https://open.spotify.com/track/6h3U07z62eGIuyOprHwzgZ"
+    },
+    {
+      "added_at": "2024-09-02 10:06:43",
+      "album": {
+        "name": "Tienes Que Saber",
+        "url": "https://open.spotify.com/album/5J1PllZ3mFwWYDm7xp8vo5"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Naiara",
+          "url": "https://open.spotify.com/artist/1VGOLh7hwVeKj2kqTkDAz6"
+        }
+      ],
+      "duration_ms": 180563,
+      "name": "Tienes Que Saber",
+      "url": "https://open.spotify.com/track/2Y9xXXMWqETUfonJjXP25k"
     },
     {
       "added_at": "2024-09-02 10:06:43",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
-        "name": "Lo he intentado",
-        "url": "https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0"
-      },
-      "artists": [
-        {
-          "name": "Marina Reche",
-          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
-        }
-      ],
-      "duration_ms": 187503,
-      "name": "Lo he intentado",
-      "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
-    },
-    {
-      "added_at": "2024-09-02 10:06:43",
-      "album": {
         "name": "Puede K Nos Liemos",
         "url": "https://open.spotify.com/album/04gBRmcV12Qo94MZmQR6hX"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 156103,
       "name": "Puede K Nos Liemos",
       "url": "https://open.spotify.com/track/6SwuaIsG5cXhP8HD985c1d"
+    },
+    {
+      "added_at": "2024-09-02 10:06:43",
+      "album": {
+        "name": "Lo he intentado",
+        "url": "https://open.spotify.com/album/7a8m6wJ1ggpaIadtBkeaX0"
+      },
+      "artists": [
+        {
+          "name": "Marina Reche",
+          "url": "https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw"
+        }
+      ],
+      "duration_ms": 187503,
+      "name": "Lo he intentado",
+      "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
     },
     {
       "added_at": "2024-09-02 10:06:43",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-09-02 10:06:43",
       "album": {
+        "name": "ENS\u00c9\u00d1AME (feat. Rozal\u00e9n)",
+        "url": "https://open.spotify.com/album/1vj2abSeieEaoKQCTAYcgQ"
+      },
+      "artists": [
+        {
+          "name": "Nil Moliner",
+          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+        }
+      ],
+      "duration_ms": 191755,
+      "name": "ENS\u00c9\u00d1AME (feat. Rozal\u00e9n)",
+      "url": "https://open.spotify.com/track/0sfPsrIe2DKbOVnOUBP0eD"
+    },
+    {
+      "added_at": "2024-09-02 10:06:43",
+      "album": {
         "name": "to lo ke",
         "url": "https://open.spotify.com/album/5lMTXM5AoxKNTAS084MQb0"
       },
@@ -831,26 +851,6 @@
       "duration_ms": 166400,
       "name": "Mi + 1",
       "url": "https://open.spotify.com/track/7vr6sOiAkiDVteYSmg5FNU"
-    },
-    {
-      "added_at": "2024-09-02 10:06:43",
-      "album": {
-        "name": "ENS\u00c9\u00d1AME (feat. Rozal\u00e9n)",
-        "url": "https://open.spotify.com/album/1vj2abSeieEaoKQCTAYcgQ"
-      },
-      "artists": [
-        {
-          "name": "Nil Moliner",
-          "url": "https://open.spotify.com/artist/6X8uzem5Dbl4l2so4CeexD"
-        },
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 191755,
-      "name": "ENS\u00c9\u00d1AME (feat. Rozal\u00e9n)",
-      "url": "https://open.spotify.com/track/0sfPsrIe2DKbOVnOUBP0eD"
     },
     {
       "added_at": "2024-09-02 10:06:43",

@@ -1,6 +1,6 @@
 {
   "description": "The hottest Anime hits of the 20s. 2020\u5e74\u4ee3\u306e\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u7279\u96c6\uff01Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>\n",
-  "num_followers": 67269,
+  "num_followers": 67440,
   "original_name": "Anime Hits 20's",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
+        "name": "Abyss - from Kaiju No. 8",
+        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 123293,
+      "name": "Abyss - from Kaiju No. 8",
+      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
+    },
+    {
+      "added_at": "2024-08-19 13:00:00",
+      "album": {
         "name": "\u5922\u5e7b",
         "url": "https://open.spotify.com/album/77YX7r0H57cuZKyveTjoqQ"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 241156,
       "name": "\u5922\u5e7b",
       "url": "https://open.spotify.com/track/2otdcgLtoowuQzlU0Cx827"
-    },
-    {
-      "added_at": "2024-08-19 13:00:00",
-      "album": {
-        "name": "Abyss - from Kaiju No. 8",
-        "url": "https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 123293,
-      "name": "Abyss - from Kaiju No. 8",
-      "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
     },
     {
       "added_at": "2024-08-19 13:00:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
-        "name": "\u76f8\u601d\u76f8\u611b",
-        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
-      },
-      "artists": [
-        {
-          "name": "aiko",
-          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
-        }
-      ],
-      "duration_ms": 260903,
-      "name": "\u76f8\u601d\u76f8\u611b",
-      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
-    },
-    {
-      "added_at": "2024-08-19 13:00:00",
-      "album": {
         "name": "\u30e1\u30d5\u30a3\u30b9\u30c8",
         "url": "https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
-        "name": "\u659c\u967d",
-        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
+        "name": "\u76f8\u601d\u76f8\u611b",
+        "url": "https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl"
       },
       "artists": [
         {
-          "name": "\u30e8\u30eb\u30b7\u30ab",
-          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
         }
       ],
-      "duration_ms": 200186,
-      "name": "\u659c\u967d",
-      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
+      "duration_ms": 260903,
+      "name": "\u76f8\u601d\u76f8\u611b",
+      "url": "https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi"
     },
     {
       "added_at": "2024-08-19 13:00:00",
@@ -595,18 +579,18 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
-        "name": "\u52c7\u8005",
-        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+        "name": "\u659c\u967d",
+        "url": "https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
         }
       ],
-      "duration_ms": 194164,
-      "name": "\u52c7\u8005",
-      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
+      "duration_ms": 200186,
+      "name": "\u659c\u967d",
+      "url": "https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet"
     },
     {
       "added_at": "2024-08-19 13:00:00",
@@ -663,22 +647,6 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
-        "name": "\u3072\u3068\u308a\u3054\u3064",
-        "url": "https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA"
-      },
-      "artists": [
-        {
-          "name": "\u30cf\u30c1\u30ef\u30ec(CV:\u7530\u4e2d \u8aa0\u4eba)",
-          "url": "https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe"
-        }
-      ],
-      "duration_ms": 90943,
-      "name": "\u3072\u3068\u308a\u3054\u3064",
-      "url": "https://open.spotify.com/track/0lEH5AatlbJJlELJglP0kP"
-    },
-    {
-      "added_at": "2024-08-19 13:00:00",
-      "album": {
         "name": "ALL TIME ROCK 'N' ROLL",
         "url": "https://open.spotify.com/album/3VrugUafcZPJ3meXXLVnU9"
       },
@@ -695,6 +663,38 @@
       "duration_ms": 254640,
       "name": "DADDY ! DADDY ! DO !",
       "url": "https://open.spotify.com/track/4xeWELPxBZKhhCrUr84jmp"
+    },
+    {
+      "added_at": "2024-08-19 13:00:00",
+      "album": {
+        "name": "\u3072\u3068\u308a\u3054\u3064",
+        "url": "https://open.spotify.com/album/1fL5U7EPRjkoXdz8zqEYTA"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30c1\u30ef\u30ec(CV:\u7530\u4e2d \u8aa0\u4eba)",
+          "url": "https://open.spotify.com/artist/61S5GoFsxHt9ZGOM55oVWe"
+        }
+      ],
+      "duration_ms": 90943,
+      "name": "\u3072\u3068\u308a\u3054\u3064",
+      "url": "https://open.spotify.com/track/0lEH5AatlbJJlELJglP0kP"
+    },
+    {
+      "added_at": "2024-08-19 13:00:00",
+      "album": {
+        "name": "\u52c7\u8005",
+        "url": "https://open.spotify.com/album/6L7pjBfP49dh1WYDmHngOO"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194164,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/4LjIQmt1t6NjpM0tpttzjo"
     },
     {
       "added_at": "2024-08-19 13:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-08-19 13:00:00",
       "album": {
-        "name": "\u795d\u798f",
-        "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "\u795d\u798f",
-      "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
-    },
-    {
-      "added_at": "2024-08-19 13:00:00",
-      "album": {
         "name": "\u6b21\u56de\u4e88\u544a",
         "url": "https://open.spotify.com/album/4cQOQ6V8xNB6pKPEYCvvg3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 223866,
       "name": "\u904b\u547d",
       "url": "https://open.spotify.com/track/3qyqpWcRKyundtraHd65hq"
+    },
+    {
+      "added_at": "2024-08-19 13:00:00",
+      "album": {
+        "name": "\u795d\u798f",
+        "url": "https://open.spotify.com/album/7KS8ZZpgraGBazVoSeX6O4"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "\u795d\u798f",
+      "url": "https://open.spotify.com/track/7ajpbW6tBpqUI9foCtwlLw"
     },
     {
       "added_at": "2024-08-19 13:00:00",

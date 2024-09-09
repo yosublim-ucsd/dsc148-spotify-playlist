@@ -4,7 +4,7 @@
 
 > 1978年に「勝手にシンドバッド」でデビュー。1980年代から2010年代までの4年代でそれぞれチャート1位を記録する国民的バンド=サザンオールスターズのオールタイム・ベスト。
 
-106 songs - 7 hr 52 min
+107 songs - 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/track/5FY5XusUqcNTG3xeD9Rr1P) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [クリスマス・ラブ\(涙のあとには白い雪が降る\)](https://open.spotify.com/album/50GrjjFDrBCATfkkW503GH) | 5:54 | 2023-09-18 |  |
 | [サラ・ジェーン](https://open.spotify.com/track/3nfOmSlBmEgxNAQD1vTqLT) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [綺麗](https://open.spotify.com/album/1gVEwEIl52G3MbGM4TJMMN) | 4:04 | 2023-09-18 |  |
 | [シュラバ★ラ★バンバ SHULABA\-LA\-BAMBA](https://open.spotify.com/track/55vjKvDgczpngRvZYZTFTe) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [シュラバ★ラ★バンバ SHULABA\-LA\-BAMBA](https://open.spotify.com/album/5lIt4NA3A4zViCzmamPaOR) | 5:02 | 2023-09-18 |  |
+| [ジャンヌ・ダルクによろしく](https://open.spotify.com/track/6Ml2pFUdOxfmLmKMbJM9Ou) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ジャンヌ・ダルクによろしく](https://open.spotify.com/album/4Nf7lVjQa2vi4Ad18oqiD4) | 3:49 | 2024-09-08 |  |
 | [タバコ・ロードにセクシーばあちゃん](https://open.spotify.com/track/6RUj7jiQoih6jZcl7lNwgJ) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [タイニイ・バブルス](https://open.spotify.com/album/4fxa2gVYQCAbtcJ5AmDbFL) | 3:35 | 2023-09-18 |  |
 | [チャコの海岸物語](https://open.spotify.com/track/6Vw9JLbwhgGsaJiChK8N28) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [チャコの海岸物語](https://open.spotify.com/album/2KLK0YxO36tup4ItRwyMWF) | 3:36 | 2023-09-18 |  |
 | [ピースとハイライト](https://open.spotify.com/track/6zOuo4SQK5i50W7IqM3xFW) | [サザンオールスターズ](https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael) | [ピースとハイライト](https://open.spotify.com/album/50jUxZCQFjT0p0PV5jqdCH) | 4:33 | 2023-09-18 |  |

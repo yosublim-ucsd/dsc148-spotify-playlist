@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > DIAMANTE
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,150 likes - 296 songs - 21 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,265 likes - 296 songs - 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
+| 1 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 2 | [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 |
 | 3 | [Back On 74 \- Rework](https://open.spotify.com/track/7x6NXL0GWhUZBtE3aIKukT) | [Betical](https://open.spotify.com/artist/3vbonbiHY9CmCYrWgp9j5z), [Arper](https://open.spotify.com/artist/2ZC47mH6pyBoIJgBfx6Rmq) | [Back On 74 \- Rework](https://open.spotify.com/album/5EN57EnOfeu9KPeTFBXr2W) | 5:40 |
 | 4 | [Sweet Dreams \- Radio Edit](https://open.spotify.com/track/1L0Gt8Sz5Bj8uJZTStqgAz) | [Marasi](https://open.spotify.com/artist/0Dcekxlb2bwUGn3neC6J4J), [Eran Hersh](https://open.spotify.com/artist/5cqctR1IEdc11lN3KEmoGW) | [Sweet Dreams \- Radio Edit](https://open.spotify.com/album/21i4fZf94rBpUh8Bma97vd) | 2:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 
 > Our streets, our way\. Listen to music from The Chi, now streaming on Paramount+ with Showtime.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,691 likes - 319 songs - 18 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,716 likes - 319 songs - 18 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V8Fm8gtZNH.md) - [plain]
 | 44 | [Back to Me](https://open.spotify.com/track/4s41fhUIeatzAYlstRCxNd) | [Will Jordan](https://open.spotify.com/artist/3Is3ehDoBlnTKQtCHdEvpd) | [Back to Me](https://open.spotify.com/album/5MvFSIVZ2U5H6TbpsFFrWm) | 3:44 |
 | 45 | [Who Got The Vibe](https://open.spotify.com/track/56SvnAx8dGDAnhVnSMvWXX) | [Z\. Rich](https://open.spotify.com/artist/5OTBCTqjCzTVlc5UJO7K8Z) | [Who Got The Vibe](https://open.spotify.com/album/3SghB4OyaCDgrgpHIIBToI) | 2:38 |
 | 46 | [Body and Soul](https://open.spotify.com/track/69aOeHaVpr4dxUWBW6F4Rb) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Jazz Ballads Classics](https://open.spotify.com/album/4OcFF1pGg0qK5xBIJXgQmP) | 5:42 |
-| 47 | [Truth Tastes Good](https://open.spotify.com/track/7yPa4TS1M07r56E5Tyf432) | [Michaela](https://open.spotify.com/artist/6mtpKSObzegD6IITOBDcmW) | [Free Mickey Part 2](https://open.spotify.com/album/56sGIX9HXr2Zxjc3h7G3Ph) | 1:09 |
+| 47 | [Truth Tastes Good](https://open.spotify.com/track/7yPa4TS1M07r56E5Tyf432) | [Mickey Shiloh](https://open.spotify.com/artist/2ZI5SpSI3z4jWeaFXr0WlC) | [Free Mickey Part 2](https://open.spotify.com/album/56sGIX9HXr2Zxjc3h7G3Ph) | 1:09 |
 | 48 | [Supply & Demand](https://open.spotify.com/track/1sgEUNQyIgtWBYaQX9y0mD) | [Alonda Rich](https://open.spotify.com/artist/7jRa28pxwziRbZYA63V0Mf) | [Supply & Demand](https://open.spotify.com/album/5XWCUIuZP7GUHrshtuzrKa) | 2:54 |
 | 49 | [No Interviews](https://open.spotify.com/track/1tXDziDamT0we73CTDsgsv) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 2:59 |
 | 50 | [Better Man](https://open.spotify.com/track/5yxtW1RhVybMDiFgHGGOiz) | [MoDre](https://open.spotify.com/artist/0KJuvEXiLRZ8H2Gz1CqKtw), [Freewill](https://open.spotify.com/artist/3bBpgrS9jtGE8dVNBjXgO8) | [Better Man](https://open.spotify.com/album/493S5NPtA5AT2rXlAGADvB) | 3:42 |

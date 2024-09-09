@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Linkin Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,743 likes - 115 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,747 likes - 115 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 98 | [Weiße Fahne](https://open.spotify.com/track/25Eac9nYs0Lhg2gf74wvPs) | [BRUNKE](https://open.spotify.com/artist/5wkIrkK9SrKKa1Ki64wIXy) | [Weiße Fahne](https://open.spotify.com/album/3F9qOuRMbZZ1a9Exg1T4eJ) | 2:47 |
 | 99 | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/track/5zr6snM3WQRoYC0QfnD9n7) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [No One Else \(feat\. Jeremih\)](https://open.spotify.com/album/68eKgnFOq19PENZkcJ5grM) | 2:42 |
 | 100 | [Yin & Yang](https://open.spotify.com/track/4t56PQclhI7MicQwBP3c7T) | [Momo Chahine](https://open.spotify.com/artist/0qWh37EfLCSZDzri7wpi9n), [DELA](https://open.spotify.com/artist/6o5FwtmyRmdaUqFnfmZ9l8) | [Yin & Yang](https://open.spotify.com/album/79U3sN1M7Vmj7KAMB6pdp4) | 2:16 |
-| 101 | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G](https://open.spotify.com/artist/1B20YHzoIZhKoSaENYvKHG) | [Wet Dreams \(feat\. Coop & G\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
+| 101 | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/track/20LfID5lY83tDZAHZqpFtC) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [coop](https://open.spotify.com/artist/39Fgy3DGHvOP32RcQ8U4bv), [G G](https://open.spotify.com/artist/6hepB9skRNYPl9CkOpwKGj) | [Wet Dreams \(feat\. coop & gg\)](https://open.spotify.com/album/65NAjD3jks0YWWLVkl2VnO) | 2:39 |
 | 102 | [Hollywood Heels](https://open.spotify.com/track/5LkXsmoqz2aRlmCOQfw3g6) | [Samu Haber](https://open.spotify.com/artist/211cqZyaBD7Wk7fAcLjsDB) | [Hollywood Heels](https://open.spotify.com/album/5RPhWyuRDMzQX4o17H56a9) | 3:17 |
 | 103 | [Mondlicht](https://open.spotify.com/track/6Y8I0EChdGc7SOfL7yUy43) | [ANNA YUNA](https://open.spotify.com/artist/69NHshm7qWQWGOURezT9b5) | [Mondlicht](https://open.spotify.com/album/0YCSfDr5wwILrPBsSOCVBv) | 3:03 |
 | 104 | [Mein erstes Wort](https://open.spotify.com/track/33u1ubaBuGKA1peS8uewcb) | [Adel Tawil](https://open.spotify.com/artist/3rZBkgoRHG8M9jQL0QPNMi) | [Mein erstes Wort](https://open.spotify.com/album/0OCqpjxlULDN6k6HGGPDa6) | 3:05 |

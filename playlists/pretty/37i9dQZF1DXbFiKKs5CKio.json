@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 61068,
+  "num_followers": 61088,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,30 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "MOVA - Algumas Verdades, Outras Mentiras",
-        "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
+        "name": "curva escura",
+        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
       },
       "artists": [
         {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
         },
         {
-          "name": "prx",
-          "url": "https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe"
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+        },
+        {
+          "name": "Cupertino",
+          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
+        },
+        {
+          "name": "Leo Guima",
+          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
         }
       ],
-      "duration_ms": 176285,
-      "name": "E EU?",
-      "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
+      "duration_ms": 220000,
+      "name": "curva escura",
+      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -199,30 +207,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "curva escura",
-        "url": "https://open.spotify.com/album/55xaBZTjZbgcC66xoK3s3m"
+        "name": "MOVA - Algumas Verdades, Outras Mentiras",
+        "url": "https://open.spotify.com/album/4NmvL6cPHaqDfHTzo9fIX3"
       },
       "artists": [
         {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
         },
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
-        },
-        {
-          "name": "Cupertino",
-          "url": "https://open.spotify.com/artist/5olhfQdhVAQny8TB3eZrwD"
-        },
-        {
-          "name": "Leo Guima",
-          "url": "https://open.spotify.com/artist/4i6YMhe65eKTuSFRKq0X1d"
+          "name": "prx",
+          "url": "https://open.spotify.com/artist/3UfPWEQhL5zLMF6LQoSuFe"
         }
       ],
-      "duration_ms": 220000,
-      "name": "curva escura",
-      "url": "https://open.spotify.com/track/41q6MCZsyUh9WZqWn4TtXp"
+      "duration_ms": 176285,
+      "name": "E EU?",
+      "url": "https://open.spotify.com/track/1GqQ1T7yMUYZgwguy7fwvi"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -487,42 +487,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Na Mi\u00fada",
-        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
-      },
-      "artists": [
-        {
-          "name": "Augusta Barna",
-          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
-        }
-      ],
-      "duration_ms": 164131,
-      "name": "Romance Fora de Hora",
-      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "P\u00e2nico",
-        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
-      },
-      "artists": [
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        }
-      ],
-      "duration_ms": 183005,
-      "name": "P\u00e2nico",
-      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Hip Hop Machine #18",
         "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
       },
@@ -547,6 +511,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Na Mi\u00fada",
+        "url": "https://open.spotify.com/album/7Cs7J2fEvx1p6plGf8kPI0"
+      },
+      "artists": [
+        {
+          "name": "Augusta Barna",
+          "url": "https://open.spotify.com/artist/1nCqVLF06AcC2U5Tq2RkRk"
+        }
+      ],
+      "duration_ms": 164131,
+      "name": "Romance Fora de Hora",
+      "url": "https://open.spotify.com/track/6NwQEnJSLRco5x6UPUPVEr"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Aurora",
         "url": "https://open.spotify.com/album/7lyl9H9Dz6pSqZ7do5UNOL"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 151578,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/1IurzB42M5kCAuk0Otp36V"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "P\u00e2nico",
+        "url": "https://open.spotify.com/album/2PuVe8oGQB0VagYiO68qg5"
+      },
+      "artists": [
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "duration_ms": 183005,
+      "name": "P\u00e2nico",
+      "url": "https://open.spotify.com/track/6XqlM74zaJcniZAFLPDUYx"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "VIVER \u00c9 SENTIR",
+        "url": "https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RTICE",
+          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
+        }
+      ],
+      "duration_ms": 261000,
+      "name": "SEM SER AMOR",
+      "url": "https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Segredos",
         "url": "https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 171176,
       "name": "Segredos",
       "url": "https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "VIVER \u00c9 SENTIR",
-        "url": "https://open.spotify.com/album/21yuQI5C9jyoyN9yf1NLQb"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RTICE",
-          "url": "https://open.spotify.com/artist/2c2gVTypL8PGnZH3q7vukm"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "SEM SER AMOR",
-      "url": "https://open.spotify.com/track/5EcPkD6RBNf4H6H02rcnIr"
     },
     {
       "added_at": "2024-08-30 03:01:00",

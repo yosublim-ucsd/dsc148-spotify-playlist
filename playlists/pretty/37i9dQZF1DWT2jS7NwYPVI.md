@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2jS7NwYPVI.md) - [plain]
 
 > your cheat sheet for all that's on the rise in rock/alt \| Cover: Fat Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 449,282 likes - 146 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,289 likes - 146 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

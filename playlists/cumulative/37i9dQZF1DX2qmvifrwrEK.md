@@ -4,7 +4,7 @@
 
 > Soothing familiar womb sounds to make your baby go to sleep quicker and sleep for longer.
 
-275 songs - 14 hr 10 min
+276 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Deep Womb Sound](https://open.spotify.com/track/6OKPjn35j7r9pZxCA9QTi8) | [Anatomic Recordings](https://open.spotify.com/artist/4hDzYmxCHPI1RmP5I3LQPB) | [Womb And Heartbeat](https://open.spotify.com/album/5sqbllbs5UIfLD0uJXwRcL) | 3:24 | 2022-11-18 |  |
 | [Deep Womb Sounds](https://open.spotify.com/track/7Aa7fi2GeKJTTBP8rq8oZw) | [ASMR Doze](https://open.spotify.com/artist/2LQxmUm6LgVqKlTWuiFp2D) | [Womb Sound Recordings](https://open.spotify.com/album/3lnlZtL0fHAVshNfwtn23L) | 2:52 | 2022-11-18 |  |
 | [Developing Cells](https://open.spotify.com/track/1aELBzF3IeUxyYPn7mgVs8) | [1ST SND](https://open.spotify.com/artist/3nokdvjSAzN9ty9gDOspUl) | [Developing Cells](https://open.spotify.com/album/5bcufQMsl8gryzgMoTOtSk) | 2:43 | 2023-03-30 | 2023-07-06 |
-| [Developmental Senses \- Noise](https://open.spotify.com/track/2W2KgweG01KneOCT2bbToo) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Auditory Womb Sounds](https://open.spotify.com/album/3YTHMTmSF7NN8PqkHLgo1o) | 3:08 | 2023-05-04 | 2024-08-08 |
+| [Developmental Senses \- Noise](https://open.spotify.com/track/2W2KgweG01KneOCT2bbToo) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Auditory Womb Sounds](https://open.spotify.com/album/3YTHMTmSF7NN8PqkHLgo1o) | 3:08 | 2023-05-04 |  |
 | [Dreaming with Mommy](https://open.spotify.com/track/1cSXY2nn2w7LvPAwrhWts3) | [Baby Memories](https://open.spotify.com/artist/1Tcr58kDfgSdnI3PCCDAP4) | [Dreaming with Mommy](https://open.spotify.com/album/6oieoMKfvSZmLx4othcWFm) | 4:08 | 2024-05-06 |  |
 | [Faint Heartbeat Womb Sound](https://open.spotify.com/track/5V7Rf5A4sAvbMkc31E8pKU) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Wombs Sounds for Calming Children](https://open.spotify.com/album/6zmyeLBwiYKq1TjALiPzWN) | 2:46 | 2022-11-18 | 2023-07-06 |
 | [Fall Asleep To The Heartbeat](https://open.spotify.com/track/5XjDwuoI9RkorpWrrAOJor) | [Bewegtes](https://open.spotify.com/artist/1PPezRWISDkSzw4EPlDcDg) | [Fall Asleep To The Heartbeat](https://open.spotify.com/album/2jYy6qDxSKuK5KVMHVEu72) | 3:21 | 2023-02-24 |  |
@@ -87,6 +87,7 @@
 | [Floating Womb Noise](https://open.spotify.com/track/2m97bV8MRkFwzQE3WWsY0y) | [Creme dé la noise](https://open.spotify.com/artist/6qyneDRaESFsTKfw3J6DFL) | [Peaceful Womb Noise](https://open.spotify.com/album/4as4UOYr7vYAQfxR7gw4LY) | 3:01 | 2023-02-24 |  |
 | [Gentle Baby Sleep](https://open.spotify.com/track/2znZqOHmkq5QTRBiFUByXZ) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Deep Sleep Womb Sounds](https://open.spotify.com/album/6RkLprgZNkiKXfXEIdAXr7) | 3:27 | 2022-11-18 | 2023-06-17 |
 | [Gentle Womb Lullabies](https://open.spotify.com/track/5Wh61BSj5Mw1OdYqkT7otr) | [Sleep Sound Library](https://open.spotify.com/artist/2HUwcmtXI5ee5Zo3nnThlV) | [Womb's Calming Cadence](https://open.spotify.com/album/6pGOwQbAuO9OAhN4YOxyV0) | 3:21 | 2023-06-16 |  |
+| [Gentle Womb Sleep](https://open.spotify.com/track/747fFnFFvqytuicLiNJVVK) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Gentle Womb Sleep](https://open.spotify.com/album/6ibMs03WYsjqcGFSAtFNmw) | 3:06 | 2024-08-26 |  |
 | [Heart & Womb Sounds](https://open.spotify.com/track/7Fdt6IndvqMg9vWsbX3zwz) | [Gamma Ism](https://open.spotify.com/artist/13WXoLsp6BS82T8AWnnRHi) | [Heart & Womb Sounds](https://open.spotify.com/album/5NNwqhamqLOO9JLRNgnsER) | 3:07 | 2023-02-24 | 2023-08-15 |
 | [Heart Beat for Baby Sleep](https://open.spotify.com/track/7iEjQUfi0h9HZYALtL5wFL) | [ZNoize](https://open.spotify.com/artist/2WHtWqbEUv3kRTBhTdeLIG) | [Heart Beat for Baby Sleep](https://open.spotify.com/album/2fApVT0HEMNSimD3givi7L) | 3:11 | 2023-09-11 |  |
 | [Heartbeat and Ambient Noise for Baby Sleep](https://open.spotify.com/track/7HTreephk9OP0zdQy078eb) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Wombs Sounds for Baby Sleep \(with Heartbeats\)](https://open.spotify.com/album/2mqMGoA5RNNFt19WGNCc33) | 3:08 | 2022-08-26 | 2023-08-15 |
@@ -199,7 +200,7 @@
 | [Soothing Pulse](https://open.spotify.com/track/0zHrX0TVE5xFaVGfpRDn3d) | [Inlet Noise](https://open.spotify.com/artist/5dWOqC79FiRtKwb0FEQAvf) | [Wombs Sounds for Calming Children](https://open.spotify.com/album/6zmyeLBwiYKq1TjALiPzWN) | 3:28 | 2022-11-18 | 2023-06-17 |
 | [Soothing Sounds of Mommy's Womb](https://open.spotify.com/track/2mJRegYICqtlwSQrQvW6S5) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [Soothing Sounds of Mommy's Womb](https://open.spotify.com/album/5eS2JLQWRxfJBmVOUjortr) | 2:50 | 2023-12-04 |  |
 | [Soothing Winds](https://open.spotify.com/track/5jl5OBuYOx3nsBjvib78va) | [Womb Ambience](https://open.spotify.com/artist/4SEvE8t0gVPALiWdWA19cC) | [Fall Asleep Fast to Womb Sounds](https://open.spotify.com/album/4BhBU6N0qa1S23MTSfbt7e) | 2:26 | 2023-02-24 | 2023-08-15 |
-| [Soothing Womb Noise](https://open.spotify.com/track/321AorYAl0fe0DOftcrACC) | [Nature's Gift](https://open.spotify.com/artist/2Kes5OWThWcHgSCetl1WXU) | [Deep Sleep Baby Womb Sound](https://open.spotify.com/album/0q2b9vrPrrBUeA07jc5Zlc) | 3:05 | 2022-11-18 |  |
+| [Soothing Womb Noise](https://open.spotify.com/track/321AorYAl0fe0DOftcrACC) | [Nature's Gift](https://open.spotify.com/artist/2Kes5OWThWcHgSCetl1WXU) | [Deep Sleep Baby Womb Sound](https://open.spotify.com/album/0q2b9vrPrrBUeA07jc5Zlc) | 3:05 | 2022-11-18 | 2024-09-09 |
 | [Soothing Womb Noise](https://open.spotify.com/track/2k4IyNU1YGb3c1T5x3SMXl) | [Ruído Do Sono](https://open.spotify.com/artist/19tB8JnMQZZ7mk3nsFYVGe) | [Soothing Womb Noise](https://open.spotify.com/album/5T1JyjtAsrn9foG5Z5w0fT) | 3:07 | 2023-01-20 |  |
 | [Soulful Pulse \- Noise](https://open.spotify.com/track/6tZgRoC75cU1CVnBY2UB3c) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Auditory Womb Sounds](https://open.spotify.com/album/3YTHMTmSF7NN8PqkHLgo1o) | 2:46 | 2023-05-04 | 2023-08-15 |
 | [Sounds for Infants](https://open.spotify.com/track/7lb5eArPFdBsubr5rdtahJ) | [Sommeil Instantané](https://open.spotify.com/artist/5OrsZgQff75sSxmYTVmAx4) | [Womb Sound for Newborns](https://open.spotify.com/album/7bg2tCAAO0R81NGQoxWbbZ) | 3:34 | 2023-07-05 |  |
@@ -242,7 +243,7 @@
 | [Womb Sound & 2 Hz Delta Binaural Beat](https://open.spotify.com/track/6Fvc48pzBLXa2kCiwcBuzL) | [Naturalis](https://open.spotify.com/artist/0YpEae2jdApqtfni7YBjEB) | [Womb Sounds & Binaural Beats for Baby Sleep](https://open.spotify.com/album/4bfg38JTo4E2k6vsKIBEOL) | 3:09 | 2022-11-18 | 2023-06-17 |
 | [Womb Sound Ambience](https://open.spotify.com/track/6QTRcR2qHW5woNKd7mJA4b) | [Linata Ebow](https://open.spotify.com/artist/11gO4yNtiNZ8xajSwSjjWw) | [Restful Womb Noise](https://open.spotify.com/album/3bd2O5ugRJkYOBCA4SpKze) | 3:18 | 2023-02-24 |  |
 | [Womb Sound Brown Noise and Heartbeat](https://open.spotify.com/track/5Klj2WZRAonPeOQxfsRZJk) | [Dozy Sounds](https://open.spotify.com/artist/6GjywyZ0Qtsu0f95gL5CDG) | [Sleep Sounds for Babies \(Womb Sounds\)](https://open.spotify.com/album/4hjI9hPlJGHboZkoxzuFH0) | 2:46 | 2022-08-26 |  |
-| [Womb Sound for Deep Sleep](https://open.spotify.com/track/5aag803UieOVlKIjzMRjak) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [Womb Sound for Deep Sleep](https://open.spotify.com/album/7r6aUzwraPmpNOsXm28QX0) | 3:27 | 2023-09-11 |  |
+| [Womb Sound for Deep Sleep](https://open.spotify.com/track/5aag803UieOVlKIjzMRjak) | [Scientists of Noise](https://open.spotify.com/artist/14XJ27kUY0HXLJFApJBHRA) | [Womb Sound for Deep Sleep](https://open.spotify.com/album/7r6aUzwraPmpNOsXm28QX0) | 3:27 | 2023-09-11 | 2024-09-09 |
 | [Womb Sound for Newborns](https://open.spotify.com/track/6V1KkZl6dAU0iqpXROpqU0) | [Sommeil Instantané](https://open.spotify.com/artist/5OrsZgQff75sSxmYTVmAx4) | [Womb Sound for Newborns](https://open.spotify.com/album/7bg2tCAAO0R81NGQoxWbbZ) | 3:02 | 2023-07-05 |  |
 | [Womb Sound For Sleeping Babies](https://open.spotify.com/track/2Ib32CRWyQl2H2XqS8rMWI) | [Fabrique Noise](https://open.spotify.com/artist/2ldc1mlbRMXPMUiyyttiZG) | [Womb Sound For Sleeping Babies](https://open.spotify.com/album/0hUAcAHA9XCckCk9fSvTNm) | 3:16 | 2023-03-30 |  |
 | [Womb sound from Ultrasound](https://open.spotify.com/track/5aRR2LN5uAFaFNXuSVxoqh) | [Natural Samples](https://open.spotify.com/artist/47MfVCrL7T19D2H9T7C2Rs) | [Brown Noise Womb Sound](https://open.spotify.com/album/0zaAwBviK7vQRjrpr1JE9G) | 3:15 | 2022-11-18 | 2024-05-16 |

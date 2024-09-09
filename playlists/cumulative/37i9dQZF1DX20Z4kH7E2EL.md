@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-384 songs - 1 day 8 hr 55 min
+385 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Hope Song](https://open.spotify.com/track/15LuFB9WFKnpq9EebeKZIn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Hope Song](https://open.spotify.com/album/3RgNnPGMNQLis1bbHBcDXw) | 5:39 | 2023-04-14 | 2023-08-19 |
 | [Horizon \- Extended Mix](https://open.spotify.com/track/3X6cmwGMYsTN3MBZ7pspi7) | [James iD](https://open.spotify.com/artist/71DeYbYuvsHDJJYwIBfMBS) | [Horizon](https://open.spotify.com/album/4oBK5MWLq48KZWar6wXfmf) | 5:26 | 2024-01-26 | 2024-06-01 |
 | [Hot Hot](https://open.spotify.com/track/6qdClrMJKkYPNhWFvI38RF) | [Asquith](https://open.spotify.com/artist/43fmnXKQExCZ0KyHTKwkXv) | [Never Alone](https://open.spotify.com/album/7h7TJjv0MbF7Tb2tvu9r8N) | 5:44 | 2023-03-10 | 2023-08-05 |
-| [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 | 2024-02-13 |  |
+| [Hot Night](https://open.spotify.com/track/5xcmBLG9VO1ILZtUjNP4q8) | [Durante](https://open.spotify.com/artist/1BqIPGrEhdjdLFpUzce2dh), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Hot Night](https://open.spotify.com/album/1TsV2l0AtV32o8nQCjsnlv) | 3:58 | 2024-02-13 | 2024-09-09 |
 | [Hours](https://open.spotify.com/track/38v0lk7Ghia2mPZU8Qhv7q) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu) | [Immersed Elements 07](https://open.spotify.com/album/7EehEfudsjkebuZW5pANS5) | 3:37 | 2023-12-01 | 2024-01-21 |
 | [Hours](https://open.spotify.com/track/7HVrblhM5xKEx5BO4ONClM) | [Motives](https://open.spotify.com/artist/59622hInIYCDA9zHmfxxBu) | [Immersed Elements 07](https://open.spotify.com/album/2vVABpMPsW6fkXUkzm46jJ) | 3:37 | 2023-12-08 | 2024-03-02 |
 | [House is Raw](https://open.spotify.com/track/4S28P05csvq3s4xfgMd6ku) | [moumou](https://open.spotify.com/artist/4RBbykIRBnOyDLojLfuRko) | [House is Raw](https://open.spotify.com/album/3KCZbOOqjx2Qoa7Srcj0E0) | 2:52 | 2024-03-22 |  |
@@ -374,6 +374,7 @@
 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \- Jay Robinson Remix](https://open.spotify.com/track/4Ymha30DEUTtZONJXjQefq) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN), [Jay Robinson](https://open.spotify.com/artist/1Jputnig8fuCuihen6n28Z) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\) \[Jay Robinson Remix\]](https://open.spotify.com/album/7vc2FGFgPcqC6WHXCU86lK) | 3:40 | 2023-01-12 | 2023-06-03 |
 | [Want U \- Extended](https://open.spotify.com/track/47oPT0022xvFqb2eTNy7Uc) | [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Want U](https://open.spotify.com/album/336xKil8LL5FWBEHFdDXG4) | 3:32 | 2024-02-13 | 2024-05-25 |
 | [Want You In My Soul](https://open.spotify.com/track/125ABiFu87TxipoWAMK8LR) | [Lovebirds](https://open.spotify.com/artist/4UW65n6QZ8YmanLPuUXVui), [Stee Downes](https://open.spotify.com/artist/1REIcVUKiv1NcVivFm1ufJ) | [Want You In My Soul](https://open.spotify.com/album/2s4lZOcIMe1MN2X9w1qeML) | 8:17 | 2023-06-22 | 2023-11-25 |
+| [WASSER](https://open.spotify.com/track/3uGlGRBQ6zRYfgyzs89iZ8) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [WASSER](https://open.spotify.com/album/1lMtMvoGVXWUAu1zFlvN9q) | 5:18 | 2024-09-09 |  |
 | [Waterfalls](https://open.spotify.com/track/4yT7E7tzc3h3W0M2Stwwpf) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:53 | 2023-01-12 | 2024-08-10 |
 | [We Are \(우리는\)](https://open.spotify.com/track/1UFD14oaGxtXOLnuD89OEv) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Continua](https://open.spotify.com/album/2G4zc0zmKtlTHoiSyfMkYG) | 3:46 | 2023-01-27 | 2023-05-27 |
 | [We Are \(우리는\)](https://open.spotify.com/track/2qqi3LuHfexQIrd2rKCmga) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT), [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Condition](https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV) | 3:46 | 2023-01-12 | 2023-02-02 |

@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/7LqoKNNpnPoNr9UUkB15cb"
+      },
+      "artists": [
+        {
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147629,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/5kdUm7nOGQs006nNNFxnAL"
+    },
+    {
+      "album": {
         "name": "C:K:C",
         "url": "https://open.spotify.com/album/7chcPzPRIeFfAwi3Y2Vaxd"
       },
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 182408,
       "name": "Snooze",
       "url": "https://open.spotify.com/track/5aC4WmADiTLODiVefda591"

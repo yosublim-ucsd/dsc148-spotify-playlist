@@ -1,6 +1,6 @@
 {
   "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: DAY6) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 238667,
+  "num_followers": 238648,
   "original_name": "Cool K'IDs Rock",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 163886,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
         "name": "ITAEWON CLASS (Original Television Soundtrack) Pt.2",
         "url": "https://open.spotify.com/album/7KDMHe0BgyhOmk4Oz6g293"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 202440,
       "name": "\uc2dc\uc791",
       "url": "https://open.spotify.com/track/5TeDIQrpwWtLWaFfzLH0hh"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "light",
-        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
-      },
-      "artists": [
-        {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "duration_ms": 225949,
-      "name": "light",
-      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "minisode 3: TOMORROW",
-        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 163886,
-      "name": "Miracle",
-      "url": "https://open.spotify.com/track/3FAmnX3nUGsue2TcNEnq0t"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 158733,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/2sZEjTi51vnlwpmIAKdwgX"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "light",
+        "url": "https://open.spotify.com/album/1eSyRapMqJE70YPpjuzbvP"
+      },
+      "artists": [
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        }
+      ],
+      "duration_ms": 225949,
+      "name": "light",
+      "url": "https://open.spotify.com/track/4i2T7Nm4Q72sNnSlGADSm6"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 224968,
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Lovely Runner, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 218042,
       "name": "Star",
       "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 224968,
+      "name": "Back To Me",
+      "url": "https://open.spotify.com/track/20Ahyv93KKjMuDHAVy2yjr"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -587,22 +587,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "The Name Chapter: FREEFALL",
-        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
-      },
-      "artists": [
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        }
-      ],
-      "duration_ms": 200543,
-      "name": "Growing Pain",
-      "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "RED",
         "url": "https://open.spotify.com/album/4QQ9UhFje37E89YX9WWBwl"
       },
@@ -619,18 +603,34 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "ASTERUM : The Shape of Things to Come",
-        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
+        "name": "The Day",
+        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
       },
       "artists": [
         {
-          "name": "PLAVE",
-          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
+          "name": "DAY6",
+          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
         }
       ],
-      "duration_ms": 223026,
-      "name": "The 6th Summer",
-      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
+      "duration_ms": 229293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "The Name Chapter: FREEFALL",
+        "url": "https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "duration_ms": 200543,
+      "name": "Growing Pain",
+      "url": "https://open.spotify.com/track/7r8aFgJzUbqpApUNmzV5yY"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -651,18 +651,18 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "The Day",
-        "url": "https://open.spotify.com/album/2lkb7TDxz1y1nAAsVkCZ4u"
+        "name": "ASTERUM : The Shape of Things to Come",
+        "url": "https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF"
       },
       "artists": [
         {
-          "name": "DAY6",
-          "url": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc"
+          "name": "PLAVE",
+          "url": "https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG"
         }
       ],
-      "duration_ms": 229293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/13z3GfR6WzmLUDxBHO3amM"
+      "duration_ms": 223026,
+      "name": "The 6th Summer",
+      "url": "https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -715,6 +715,22 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 237576,
+      "name": "She's In The Rain",
+      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
         "name": "Fragile",
         "url": "https://open.spotify.com/album/58QwKbqqxvic4OsBubpZ6h"
       },
@@ -735,50 +751,22 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+        "name": "UNSTABLE MINDSET",
+        "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
       },
       "artists": [
         {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 194866,
-      "name": "Wi Ing Wi Ing",
-      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/1OWmGjBN7jiZK6OCgyxGTV"
-      },
-      "artists": [
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        },
         {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
         }
       ],
-      "duration_ms": 237576,
-      "name": "She's In The Rain",
-      "url": "https://open.spotify.com/track/5Xp6Bx4Fy8LGoTX8xzBi00"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "Moodswings in This Order",
-        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 170800,
-      "name": "Scaredy Cat",
-      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
+      "duration_ms": 221133,
+      "name": "WINTER FLOWER(Feat.RM)",
+      "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -799,22 +787,34 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "UNSTABLE MINDSET",
-        "url": "https://open.spotify.com/album/7tY3mqjeJaMr6RFJYnjI2s"
+        "name": "Moodswings in This Order",
+        "url": "https://open.spotify.com/album/2hPHncbZRuWiCBauEUJxyA"
       },
       "artists": [
         {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        },
-        {
-          "name": "RM",
-          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 221133,
-      "name": "WINTER FLOWER(Feat.RM)",
-      "url": "https://open.spotify.com/track/4Eefey3uN90Abhbr47zKmC"
+      "duration_ms": 170800,
+      "name": "Scaredy Cat",
+      "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "20",
+        "url": "https://open.spotify.com/album/6bzkEKKOMT3I3jaIrUtEaO"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 194866,
+      "name": "Wi Ing Wi Ing",
+      "url": "https://open.spotify.com/track/66UcQu5LBo2A7AC0A5r0lI"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -847,6 +847,22 @@
       "duration_ms": 205213,
       "name": "Episode",
       "url": "https://open.spotify.com/track/3ImDzyDVlxu6qjxT49vlX0"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "DUAL",
+        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
+      },
+      "artists": [
+        {
+          "name": "The Rose",
+          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
+        }
+      ],
+      "duration_ms": 235175,
+      "name": "You're Beautiful",
+      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -899,38 +915,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "DPR ARCHIVES",
-        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 114380,
-      "name": "zombie pop",
-      "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "DUAL",
-        "url": "https://open.spotify.com/album/6ICDcaM2LlaMND4DDVe4so"
-      },
-      "artists": [
-        {
-          "name": "The Rose",
-          "url": "https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW"
-        }
-      ],
-      "duration_ms": 235175,
-      "name": "You're Beautiful",
-      "url": "https://open.spotify.com/track/6DHPaizkhWLCUxDgrYZI0f"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Black Eye",
         "url": "https://open.spotify.com/album/1ZRX9IY1e6mxmyyyQsRVb9"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 160280,
       "name": "Black Eye",
       "url": "https://open.spotify.com/track/0aW2wxU16UTuwohjldJ5v0"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "DPR ARCHIVES",
+        "url": "https://open.spotify.com/album/1qpS7W0whJPG7b8PlhSgGw"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 114380,
+      "name": "zombie pop",
+      "url": "https://open.spotify.com/track/5zhMMVw097YOSvT0oDGgDV"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "Traffic light",
-        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
-      },
-      "artists": [
-        {
-          "name": "Lee Mujin",
-          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
-        }
-      ],
-      "duration_ms": 231586,
-      "name": "Traffic light",
-      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'",
         "url": "https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 300786,
       "name": "Event Horizon",
       "url": "https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "Traffic light",
+        "url": "https://open.spotify.com/album/4lHGpxL8peLQSZRgl1Lssm"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 231586,
+      "name": "Traffic light",
+      "url": "https://open.spotify.com/track/03qu1u4hDyepQQi2lNxCka"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Doll",
+      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
         "name": "HATE XX",
         "url": "https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 181013,
       "name": "Hate Rodrigo (Feat. YUQI)",
       "url": "https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/0mC9MXPddkzggVsOXh5gd3"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Doll",
-      "url": "https://open.spotify.com/track/4C7PyWUlTLUUgVZQVboCma"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "The Book of Us : Gluon - Nothing can tear us apart",
-        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
-      },
-      "artists": [
-        {
-          "name": "DAY6 (Even of Day)",
-          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
-        }
-      ],
-      "duration_ms": 257752,
-      "name": "Where the sea sleeps",
-      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Golden Hour - SM STATION : NCT LAB",
         "url": "https://open.spotify.com/album/1oPIuYqBhdPDGfoEYt8MrR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 199621,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/14sD1EmQ20kSJY3P0M82MY"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "The Book of Us : Gluon - Nothing can tear us apart",
+        "url": "https://open.spotify.com/album/56gHPBARXATKcgK97NCvKq"
+      },
+      "artists": [
+        {
+          "name": "DAY6 (Even of Day)",
+          "url": "https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd"
+        }
+      ],
+      "duration_ms": 257752,
+      "name": "Where the sea sleeps",
+      "url": "https://open.spotify.com/track/6zJRgVg9A2EzkZRRzLx3eB"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
+        "name": "Troubleshooting",
+        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "duration_ms": 212774,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
         "name": "5.3 (Gradation)",
         "url": "https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG"
       },
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "Troubleshooting",
-        "url": "https://open.spotify.com/album/26ogXm7X0kUSidtoaQVBei"
-      },
-      "artists": [
-        {
-          "name": "Xdinary Heroes",
-          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
-        }
-      ],
-      "duration_ms": 212774,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/5t8TV1U5vmKL5UIQo5pNtN"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Lips (Feat. GISELLE)",
         "url": "https://open.spotify.com/album/7Bsrjk9Ct4lGx3jcxGcRIk"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 182693,
       "name": "Lips (Feat. GISELLE)",
       "url": "https://open.spotify.com/track/7aGZLiPMaMKupY4fwzDBb2"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "better (with you)",
+        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "better (with you)",
+      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1387,22 +1403,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "better (with you)",
-        "url": "https://open.spotify.com/album/4Z5JK8GrGgp8JYSxxjUYAn"
-      },
-      "artists": [
-        {
-          "name": "Crying City",
-          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "better (with you)",
-      "url": "https://open.spotify.com/track/7xzeekIeM7lFruBSfK6iIm"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Expectation - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/5toDKS5XF6fxrI4OgQjHYZ"
       },
@@ -1435,38 +1435,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "Lonely Stars",
-        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
-      },
-      "artists": [
-        {
-          "name": "SEUNGKWAN",
-          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
-        }
-      ],
-      "duration_ms": 246120,
-      "name": "Lonely Stars (Korean Ver.)",
-      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "Livelock",
         "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
       },
@@ -1479,6 +1447,22 @@
       "duration_ms": 200920,
       "name": "PLUTO",
       "url": "https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "Lonely Stars",
+        "url": "https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP"
+      },
+      "artists": [
+        {
+          "name": "SEUNGKWAN",
+          "url": "https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6"
+        }
+      ],
+      "duration_ms": 246120,
+      "name": "Lonely Stars (Korean Ver.)",
+      "url": "https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1499,22 +1483,6 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "\ub098\ubb34",
-        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 232558,
-      "name": "\ub098\ubb34",
-      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
-    },
-    {
-      "added_at": "2024-09-02 09:13:19",
-      "album": {
         "name": "[VillainS]",
         "url": "https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7"
       },
@@ -1531,18 +1499,34 @@
     {
       "added_at": "2024-09-02 09:13:19",
       "album": {
-        "name": "Once in a BLUE MOON",
-        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
       },
       "artists": [
         {
-          "name": "N.Flying",
-          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
         }
       ],
-      "duration_ms": 215093,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "\ub098\ubb34",
+        "url": "https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 232558,
+      "name": "\ub098\ubb34",
+      "url": "https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ"
     },
     {
       "added_at": "2024-09-02 09:13:19",
@@ -1559,6 +1543,22 @@
       "duration_ms": 215250,
       "name": "dried flower",
       "url": "https://open.spotify.com/track/00lg2EJeEw5SQbqtLWrGOz"
+    },
+    {
+      "added_at": "2024-09-02 09:13:19",
+      "album": {
+        "name": "Once in a BLUE MOON",
+        "url": "https://open.spotify.com/album/2dGSPxLjF87UHncjk75Px4"
+      },
+      "artists": [
+        {
+          "name": "N.Flying",
+          "url": "https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/77WBsNSTTDrp7rkZEsbAcv"
     },
     {
       "added_at": "2024-09-02 09:13:19",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Brian Fuller, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,367 likes - 139 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,409 likes - 139 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

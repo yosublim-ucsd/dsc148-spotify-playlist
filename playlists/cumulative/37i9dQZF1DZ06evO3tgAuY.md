@@ -2,7 +2,7 @@
 
 ### [This Is Alex Favela](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3tgAuY)
 
-> This is Alex Favela\. The essential tracks, all in one playlist.
+> This Is Alex Favela\. Los temas esenciales, todos en una lista.
 
 58 songs - 2 hr 40 min
 

@@ -6326,7 +6326,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 131764,
       "name": "Hm Hm hm",
       "url": "https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5"
@@ -12092,6 +12092,24 @@
       "duration_ms": 144894,
       "name": "Rasenschach",
       "url": "https://open.spotify.com/track/2p7k0RHPeNU8H7CSRWwIgp"
+    },
+    {
+      "album": {
+        "name": "ICKE",
+        "url": "https://open.spotify.com/album/7mKmT11hQapyQq7hWZscy8"
+      },
+      "artists": [
+        {
+          "name": "Filow",
+          "url": "https://open.spotify.com/artist/0BRUlYcw8Rr4MGHe8kRgTv"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144894,
+      "name": "Rasenschach",
+      "url": "https://open.spotify.com/track/5F6SWgvyg6PYxmeAHhoXxJ"
     },
     {
       "album": {

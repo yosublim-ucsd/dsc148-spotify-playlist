@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34l1tsrbKtmGYuTEef0YFl">D'Mile</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-151 songs - 9 hr 21 min
+153 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Concentrate](https://open.spotify.com/track/2RxbUs1UfebXymMwrAKZVB) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Painted](https://open.spotify.com/album/0sxfu0XUwHOtnKiZgkTQwk) | 3:36 | 2024-06-11 |  |
 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 | 2024-06-11 |  |
 | [Credit \(feat\. Sevyn Streeter\)](https://open.spotify.com/track/6GDMLZoykMpZ4JqQoyoZpQ) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Free TC](https://open.spotify.com/album/325oe5W5EgQVcuzNwBBnmt) | 6:11 | 2024-06-11 |  |
+| [die with a smile](https://open.spotify.com/track/1yXChjFxlhmoNFHFFR9sU2) | [euhlr](https://open.spotify.com/artist/7hMFnTqIUL7qZ8P0mG9MFk) | [die with a smile](https://open.spotify.com/album/127y78qXF7Wntjv9HjP1MA) | 4:05 | 2024-09-08 |  |
 | [Dim My Light \(feat\. 6LACK\)](https://open.spotify.com/track/129mBjUSbfKo0BdK13aJjY) | [Scribz Riley](https://open.spotify.com/artist/6UJ1HBEJnAZ1aVPlJZPf61), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Wish Me Luck](https://open.spotify.com/album/57UGysEyFzO6F6PQLYKRjt) | 2:39 | 2024-06-11 |  |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2024-06-11 |  |
 | [Disrespectful \(feat\. Mila J\)](https://open.spotify.com/track/4eQec76xYzMWafPfJEDELl) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [Trigga \(Deluxe\)](https://open.spotify.com/album/0kEgU7XiRXcJ7TptKepwxC) | 3:56 | 2024-06-11 |  |
@@ -133,6 +134,7 @@
 | [Stop \(Askin' Me 4Shyt\)](https://open.spotify.com/track/3ZrfIcsDKTBZzCwlE59yiS) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 2:51 | 2024-06-11 |  |
 | [Sunday Morning](https://open.spotify.com/track/7qzcdcS65oCivPNXxvOT1o) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 3:12 | 2024-06-11 |  |
 | [SUPERFINE](https://open.spotify.com/track/7BBdodDRaP6waS34503kCd) | [India Shawn](https://open.spotify.com/artist/7g0SC4F149FUX5rKFuSpqL) | [BEFORE WE GO](https://open.spotify.com/album/5xf4AOythWohRnXhjmSF2P) | 4:22 | 2024-06-11 |  |
+| [Swing \- From "Marvel's Spider\-Man 2"](https://open.spotify.com/track/3VaUx4drij8PSdSoz1JLz3) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Benji.](https://open.spotify.com/artist/2Y4AFMyyarPFVfz9o2CRo2) | [Swing \(From "Marvel's Spider\-Man 2"\)](https://open.spotify.com/album/6TLVVF2wznR6RYKnmVEH0U) | 3:04 | 2024-09-08 |  |
 | [The 1st Lady](https://open.spotify.com/track/6Jb3ulaGgpHEfNGCGLuGWq) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [The Rebirth](https://open.spotify.com/album/1dmRT4o84KJpQlbaJF7vhY) | 2:44 | 2024-06-11 |  |
 | [The Beginning](https://open.spotify.com/track/46BEdbS8fN3xTRxGtiLiZ6) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/0nmCwOAFeqD69X1MWwKTS6) | 2:14 | 2024-06-11 | 2024-08-10 |
 | [The Beginning](https://open.spotify.com/track/5BK6zXTrbgPKkBGv5rGOy7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [It Was Divine](https://open.spotify.com/album/4mjAzygOSH5k1toK9bir85) | 2:14 | 2024-08-09 |  |

@@ -2013,7 +2013,7 @@
     },
     {
       "album": {
-        "name": "Haydn: Cello Concertos (Remastered)",
+        "name": "Haydn: Cello Concertos - Remastered",
         "url": "https://open.spotify.com/album/7M3Q7tG8qbEjk91laYhHIA"
       },
       "artists": [
@@ -2026,12 +2026,12 @@
           "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
         },
         {
-          "name": "Jos\u00e9-Luis Garcia",
-          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
-        },
-        {
           "name": "English Chamber Orchestra",
           "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        },
+        {
+          "name": "Jos\u00e9-Luis Garcia",
+          "url": "https://open.spotify.com/artist/3cQxD3FIUmh3VTeXAcAaoS"
         }
       ],
       "date_added": "2022-10-20",

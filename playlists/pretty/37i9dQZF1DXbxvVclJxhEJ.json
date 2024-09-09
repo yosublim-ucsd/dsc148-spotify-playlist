@@ -1,6 +1,6 @@
 {
   "description": "Iconic women from the history of the Blues. Cover: Bessie Smith",
-  "num_followers": 54867,
+  "num_followers": 54924,
   "original_name": "Queens of the Blues",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Early One Mornin\u2019 Blues (Live)",
+        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 254106,
+      "name": "Early One Mornin\u2019 Blues - Live",
+      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "What It Takes: The Chess Years (Expanded Edition)",
         "url": "https://open.spotify.com/album/5cqkfEOV7du3ynBO7EENMp"
       },
@@ -523,38 +539,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Complete Recordings, Vol. 3",
-        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
-      },
-      "artists": [
-        {
-          "name": "Bessie Smith",
-          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
-        }
-      ],
-      "duration_ms": 168626,
-      "name": "I Used to Be Your Sweet Mama",
-      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
-        "name": "Early One Mornin\u2019 Blues (Live)",
-        "url": "https://open.spotify.com/album/5sQqi3Ce7MkX1h6gj2pVWz"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 254106,
-      "name": "Early One Mornin\u2019 Blues - Live",
-      "url": "https://open.spotify.com/track/0hWwUHWSJs0JAboIatACFX"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Detroit Is My Home",
         "url": "https://open.spotify.com/album/712DNUvzw8lnful0KQ8cfk"
       },
@@ -571,22 +555,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
-        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
-      },
-      "artists": [
-        {
-          "name": "Lucille Bogan",
-          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
-        }
-      ],
-      "duration_ms": 177333,
-      "name": "B.D. Woman's Blues",
-      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "The Essential Billie Holiday",
         "url": "https://open.spotify.com/album/43CdmtAd6dQuMvBdHJ8F6x"
       },
@@ -599,6 +567,38 @@
       "duration_ms": 157960,
       "name": "Billie's Blues - Take 1",
       "url": "https://open.spotify.com/track/0ba6zT47oQ4ELmAxIN2YJ3"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Complete Recordings, Vol. 3",
+        "url": "https://open.spotify.com/album/7x1eFt9zjyqvhscJu8CcjY"
+      },
+      "artists": [
+        {
+          "name": "Bessie Smith",
+          "url": "https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "I Used to Be Your Sweet Mama",
+      "url": "https://open.spotify.com/track/7EXLOCF4QW35UJrHeyEgIX"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Shave 'Em Dry: The Best Of Lucille Bogan",
+        "url": "https://open.spotify.com/album/6lt3PCrLIoE3ozSlq9QuMw"
+      },
+      "artists": [
+        {
+          "name": "Lucille Bogan",
+          "url": "https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf"
+        }
+      ],
+      "duration_ms": 177333,
+      "name": "B.D. Woman's Blues",
+      "url": "https://open.spotify.com/track/4xDfDNIn7RW19nZJQsTcp3"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "The Blues Mama",
-        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
-      },
-      "artists": [
-        {
-          "name": "Lil Green",
-          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
-        }
-      ],
-      "duration_ms": 204225,
-      "name": "Romance in the Dark",
-      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Female Crazy Blues (Classic Mood Experience)",
         "url": "https://open.spotify.com/album/0qxCmVoI0KEnpT4dLazSeL"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 156373,
       "name": "Rock Me - Remastered",
       "url": "https://open.spotify.com/track/7kjSEttzgU84VTgh6zI9s0"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "The Blues Mama",
+        "url": "https://open.spotify.com/album/6XBPbT1jHLKJpvkfAW4cuZ"
+      },
+      "artists": [
+        {
+          "name": "Lil Green",
+          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
+        }
+      ],
+      "duration_ms": 204225,
+      "name": "Romance in the Dark",
+      "url": "https://open.spotify.com/track/0o99WPCOktWokBuqRDjf0p"
     },
     {
       "added_at": "2024-06-02 16:39:20",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
+        "name": "Fujiyama Mama",
+        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
+      },
+      "artists": [
+        {
+          "name": "Annisteen Allen",
+          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
+        }
+      ],
+      "duration_ms": 171693,
+      "name": "The Bluest Blues",
+      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
         "name": "Classics by Lucky Millinder Orchestra",
         "url": "https://open.spotify.com/album/2N9wYYSikvi6QIyNopvzaq"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Fujiyama Mama",
-        "url": "https://open.spotify.com/album/7FTc1eu8VZfYfKSybTquyA"
-      },
-      "artists": [
-        {
-          "name": "Annisteen Allen",
-          "url": "https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4"
-        }
-      ],
-      "duration_ms": 171693,
-      "name": "The Bluest Blues",
-      "url": "https://open.spotify.com/track/7LZa39RPiKZSTxBKq7sbDo"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Powerhouse Gospel",
         "url": "https://open.spotify.com/album/2tT0KrE7bqEef6GnIeVfuZ"
       },
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-02 16:39:20",
       "album": {
-        "name": "Greens Got The Blues",
-        "url": "https://open.spotify.com/album/2diKzQSsr0bXlYkTHd5xs1"
-      },
-      "artists": [
-        {
-          "name": "Lil Green",
-          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
-        }
-      ],
-      "duration_ms": 171355,
-      "name": "Country Boy Blues",
-      "url": "https://open.spotify.com/track/3YE2VUPc7NGwa0wcerSgQb"
-    },
-    {
-      "added_at": "2024-06-02 16:39:20",
-      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/7kQT1nRcllHNvEZzyG5VpR"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 197840,
       "name": "A Jealous Woman Like Me - Original Mix",
       "url": "https://open.spotify.com/track/1x6sFohaqzbHLEALTaas1L"
+    },
+    {
+      "added_at": "2024-06-02 16:39:20",
+      "album": {
+        "name": "Greens Got The Blues",
+        "url": "https://open.spotify.com/album/2diKzQSsr0bXlYkTHd5xs1"
+      },
+      "artists": [
+        {
+          "name": "Lil Green",
+          "url": "https://open.spotify.com/artist/54n9JL6NVGHuhXqU2DSbMS"
+        }
+      ],
+      "duration_ms": 171355,
+      "name": "Country Boy Blues",
+      "url": "https://open.spotify.com/track/3YE2VUPc7NGwa0wcerSgQb"
     },
     {
       "added_at": "2024-06-02 16:39:20",

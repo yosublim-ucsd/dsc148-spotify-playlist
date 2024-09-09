@@ -2,7 +2,7 @@
 
 ### [This Is Ali Farka Touré](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xa1Op)
 
-> This Is Ali Farka Touré\. Los temas esenciales, todos en una lista.
+> This is Ali Farka Touré\. The essential tracks, all in one playlist.
 
 106 songs - 8 hr 53 min
 

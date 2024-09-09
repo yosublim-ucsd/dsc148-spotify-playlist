@@ -1,6 +1,6 @@
 {
   "description": "Queeeima pared\u00e3o! Pra forrozeiro sofrer dan\u00e7ando e dan\u00e7ar sofrendo, bora.",
-  "num_followers": 252008,
+  "num_followers": 252034,
   "original_name": "Bora arrochar",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Me Usa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
-      },
-      "artists": [
-        {
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        },
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 166451,
-      "name": "Me Usa - Ao Vivo",
-      "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Cora\u00e7\u00e3o Cachorro",
         "url": "https://open.spotify.com/album/22MXULSCWHEYSofgElYc8d"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 150802,
       "name": "Cora\u00e7\u00e3o Cachorro",
       "url": "https://open.spotify.com/track/2RGIuYTsyyHoOCqW0krvNE"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Me Usa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ojZbzLsAtBkFhRXdGslYl"
+      },
+      "artists": [
+        {
+          "name": "Mariana Fagundes",
+          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
+        },
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 166451,
+      "name": "Me Usa - Ao Vivo",
+      "url": "https://open.spotify.com/track/6a382HNK01vxXOucIrXMZ3"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -139,6 +139,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Piseiro 2020 Ao Vivo",
+        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 166837,
+      "name": "Recairei - Ao Vivo",
+      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Piseiro Sofr\u00eancia",
         "url": "https://open.spotify.com/album/2R2HWZn66G6ReXgB9Zs4wl"
       },
@@ -175,6 +191,26 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Nem V\u00e1",
+        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fernandes",
+          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
+        },
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159639,
+      "name": "Nem V\u00e1",
+      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Investe Em Mim",
         "url": "https://open.spotify.com/album/7HkadvWYCa91hUKnBqBFJu"
       },
@@ -203,42 +239,6 @@
       "duration_ms": 167683,
       "name": "Let\u00edcia",
       "url": "https://open.spotify.com/track/1Qzse4pBfaUXY6wWOqYoRH"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Nem V\u00e1",
-        "url": "https://open.spotify.com/album/0YMnm4LL80lNTx4webeAS9"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        },
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159639,
-      "name": "Nem V\u00e1",
-      "url": "https://open.spotify.com/track/3MM4J90BLKgagDOMSt5wKM"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Piseiro 2020 Ao Vivo",
-        "url": "https://open.spotify.com/album/1xpVDIfB11DKa1P2YJDdJP"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 166837,
-      "name": "Recairei - Ao Vivo",
-      "url": "https://open.spotify.com/track/2JTir3y1VuJQmexiTCMcTP"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -339,6 +339,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Agora Eu Pego Mesmo",
+        "url": "https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Cabe\u00e7a Voando",
+      "url": "https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Cena de Amor",
         "url": "https://open.spotify.com/album/7x46uFO4ntA1LfbJt2VP3Y"
       },
@@ -395,58 +411,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Filho do Mato",
-        "url": "https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r"
-      },
-      "artists": [
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 172571,
-      "name": "Filho do Mato",
-      "url": "https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Agora Eu Pego Mesmo",
-        "url": "https://open.spotify.com/album/7dIuql1amYWijiQsIMps1l"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Cabe\u00e7a Voando",
-      "url": "https://open.spotify.com/track/6wDzwmywQ2X8O0FN1IQGol"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Se Joga no Passinho",
-        "url": "https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t"
-      },
-      "artists": [
-        {
-          "name": "Brisa Star",
-          "url": "https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk"
-        },
-        {
-          "name": "Thiago Jhonathan (TJ)",
-          "url": "https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Se Joga no Passinho",
-      "url": "https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "O Pai Das Crian\u00e7as (Part. 1)",
         "url": "https://open.spotify.com/album/7Dv7PY99nacoKmLbNdVzJu"
       },
@@ -475,6 +439,62 @@
       "duration_ms": 184746,
       "name": "Romance Desapegado",
       "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Conquistas - EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        },
+        {
+          "name": "Xand Avi\u00e3o",
+          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+        }
+      ],
+      "duration_ms": 182976,
+      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
+      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Filho do Mato",
+        "url": "https://open.spotify.com/album/0Tut6XvdTp7sMHDNWo9G2r"
+      },
+      "artists": [
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 172571,
+      "name": "Filho do Mato",
+      "url": "https://open.spotify.com/track/6cvFwzez8ZbEWPTs5A0vAm"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Se Joga no Passinho",
+        "url": "https://open.spotify.com/album/53gP1xGYGu9DHjiJB4Jo7t"
+      },
+      "artists": [
+        {
+          "name": "Brisa Star",
+          "url": "https://open.spotify.com/artist/7fKfVo62Yx50GtTdIgeBqk"
+        },
+        {
+          "name": "Thiago Jhonathan (TJ)",
+          "url": "https://open.spotify.com/artist/0cZ0hBu2JZFT99wDzEfS89"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Se Joga no Passinho",
+      "url": "https://open.spotify.com/track/41pFFOnh1glVNIlrWOpBjb"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -519,6 +539,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Batom de Ouro",
+        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
+      },
+      "artists": [
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Eu Acho Que N\u00e3o",
+      "url": "https://open.spotify.com/track/5uaK6bYrpEqRkJjERzAXfT"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Tanto Faz (Ao Vivo)",
         "url": "https://open.spotify.com/album/6wikeTuyirSNGsZH1ZaEN1"
       },
@@ -555,26 +591,6 @@
       "duration_ms": 194090,
       "name": "N\u00e3o Manda \u00c1udio",
       "url": "https://open.spotify.com/track/78qabjuI3mGUaREZk5hiEt"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Conquistas - EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2ox3dMDK8hSZ1kkIJRbslu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
-        }
-      ],
-      "duration_ms": 182976,
-      "name": "Basta Voc\u00ea Me Ligar - Ao Vivo",
-      "url": "https://open.spotify.com/track/3AV1KI22k1jGMz792lDrj1"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -751,22 +767,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Batom de Ouro",
-        "url": "https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu"
-      },
-      "artists": [
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 169586,
-      "name": "Eu Acho Que N\u00e3o",
-      "url": "https://open.spotify.com/track/5uaK6bYrpEqRkJjERzAXfT"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Cora\u00e7\u00e3o Piriguete",
+        "url": "https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB"
+      },
+      "artists": [
+        {
+          "name": "Kevi Jonny",
+          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
+        }
+      ],
+      "duration_ms": 168281,
+      "name": "Cora\u00e7\u00e3o Piriguete",
+      "url": "https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "A Um Beijo (Ao Vivo)",
         "url": "https://open.spotify.com/album/57DH7MBymmvWBf5yBMKeSd"
       },
@@ -947,22 +963,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Cora\u00e7\u00e3o Piriguete",
-        "url": "https://open.spotify.com/album/6v7Ll1eWtwehruVABhOfMB"
-      },
-      "artists": [
-        {
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "duration_ms": 168281,
-      "name": "Cora\u00e7\u00e3o Piriguete",
-      "url": "https://open.spotify.com/track/7ooqiuouDji1x9gvnGUTo1"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Vem Me Amar",
         "url": "https://open.spotify.com/album/2NWNzo6YT0Z5FXQaFhTRuB"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 155717,
       "name": "Vem Me Amar",
       "url": "https://open.spotify.com/track/0UavwCicOnQwMuh67yaxM3"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Adivinha A\u00ed",
+        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "duration_ms": 156315,
+      "name": "Adivinha A\u00ed",
+      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -995,38 +1011,6 @@
       "duration_ms": 177280,
       "name": "Ent\u00e3o Vem C\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/1FIaoiLn0E5ilfE5T0P9xx"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Diniz",
-          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
-        }
-      ],
-      "duration_ms": 169088,
-      "name": "Paraquedas - Live",
-      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Adivinha A\u00ed",
-        "url": "https://open.spotify.com/album/4ZOltnZGREqjx7I1FSf1Xj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Vaqueiro",
-          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
-        }
-      ],
-      "duration_ms": 156315,
-      "name": "Adivinha A\u00ed",
-      "url": "https://open.spotify.com/track/36VuUsoIGq395mwQFhhXfY"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1063,38 +1047,18 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
-        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
+        "name": "Gabriel Diniz Na Ilha (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6byjd01Gc7WfKauc1zJfWp"
       },
       "artists": [
         {
-          "name": "Avine Vinny",
-          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
-        },
-        {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Gabriel Diniz",
+          "url": "https://open.spotify.com/artist/3WQ1s2QFvL6crxBvrVhwzj"
         }
       ],
-      "duration_ms": 151805,
-      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
-      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Edilene",
-        "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
-      },
-      "artists": [
-        {
-          "name": "Tayrone",
-          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Edilene",
-      "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
+      "duration_ms": 169088,
+      "name": "Paraquedas - Live",
+      "url": "https://open.spotify.com/track/208IlWWWgzeaNe53aHeoKO"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1115,6 +1079,26 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Vazou um \u00c1udio (Ao Vivo No Casa Filtr)",
+        "url": "https://open.spotify.com/album/2oiBNvChBI8N5246RUSLsP"
+      },
+      "artists": [
+        {
+          "name": "Avine Vinny",
+          "url": "https://open.spotify.com/artist/4KDxYlnGZEiS60pAnfZf4W"
+        },
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        }
+      ],
+      "duration_ms": 151805,
+      "name": "Vazou um \u00c1udio - Ao Vivo No Casa Filtr",
+      "url": "https://open.spotify.com/track/59wOSyrOPTS1NmNHED6hbI"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Monta Logo Vai",
         "url": "https://open.spotify.com/album/1FkqeFDUcGPhjKKkC9CWnT"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 141048,
       "name": "Monta Logo Vai",
       "url": "https://open.spotify.com/track/6Fy2jcYzVfej3EfElB3XVK"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Edilene",
+        "url": "https://open.spotify.com/album/6WOKAQp9jXSSpICGAoEyPN"
+      },
+      "artists": [
+        {
+          "name": "Tayrone",
+          "url": "https://open.spotify.com/artist/2T1se5h5FRkw7ZfR7yxdlm"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Edilene",
+      "url": "https://open.spotify.com/track/7xEvzxbqAxFYDC5OzF51aQ"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Status",
-        "url": "https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Os Bar\u00f5es Da Pisadinha",
-          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
-        }
-      ],
-      "duration_ms": 151817,
-      "name": "Status",
-      "url": "https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Isca",
         "url": "https://open.spotify.com/album/67yOV9EyBXfw1kH5xi8zrv"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 162967,
       "name": "Isca",
       "url": "https://open.spotify.com/track/5zdIuIo9uQ2E8ly4rypcRi"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Status",
+        "url": "https://open.spotify.com/album/7Akci0vFaGZq89dVxEl07F"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Os Bar\u00f5es Da Pisadinha",
+          "url": "https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5"
+        }
+      ],
+      "duration_ms": 151817,
+      "name": "Status",
+      "url": "https://open.spotify.com/track/3dE99KYI09Vu4EkTTyi6sQ"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1359,22 +1359,6 @@
       "duration_ms": 165198,
       "name": "Voc\u00ea N\u00e3o Entende Nada - Spotify Singles",
       "url": "https://open.spotify.com/track/1cybtRrPQaec3kSihCYL55"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Retr\u00f4 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0jR2WWbLRPJ30QhB2uGs9b"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        }
-      ],
-      "duration_ms": 169687,
-      "name": "Se Quer Saber - Ao Vivo",
-      "url": "https://open.spotify.com/track/4y4Xx3472fggyagdjTSq1k"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "Retr\u00f4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0jR2WWbLRPJ30QhB2uGs9b"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        }
+      ],
+      "duration_ms": 169687,
+      "name": "Se Quer Saber - Ao Vivo",
+      "url": "https://open.spotify.com/track/4y4Xx3472fggyagdjTSq1k"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Arrombado",
         "url": "https://open.spotify.com/album/2RdtAGp6rEomxV09t3JNGf"
       },
@@ -1487,26 +1487,6 @@
       "duration_ms": 130384,
       "name": "Arrombado",
       "url": "https://open.spotify.com/track/1rPUvbv6OU3b50uiwKCKLr"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Piseiro, Churrasco & Pared\u00e3o",
-        "url": "https://open.spotify.com/album/1Ic1iEkQ2udppQAjB8Ovoy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        },
-        {
-          "name": "Victor Meira",
-          "url": "https://open.spotify.com/artist/0MjRKm8DW3DqXxCAcR13FC"
-        }
-      ],
-      "duration_ms": 149845,
-      "name": "Ela Bate O Bumbum No Pared\u00e3o",
-      "url": "https://open.spotify.com/track/46zyhUMlFS8RS9q9wAv1DO"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1543,26 +1523,6 @@
       "duration_ms": 176347,
       "name": "O Pedreiro e a Cinderela",
       "url": "https://open.spotify.com/track/4yLzKvat3yF2kceREsBJyD"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Cavaleiros Inesquec\u00edvel (Ao Vivo em Natal/RN)",
-        "url": "https://open.spotify.com/album/2frt7dymwzO4Xxi6Sax9d8"
-      },
-      "artists": [
-        {
-          "name": "Cavaleiros do Forr\u00f3",
-          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
-        },
-        {
-          "name": "Ra\u00ed Saia Rodada",
-          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
-        }
-      ],
-      "duration_ms": 168186,
-      "name": "Na Madrugada Voc\u00ea Volta - Ao Vivo",
-      "url": "https://open.spotify.com/track/5N50khwtctS9mdLK0uvVJB"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1615,6 +1575,82 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
+        "name": "SIM, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5o6lPm02Mij9Mx6yjC9GNv"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        },
+        {
+          "name": "Dad\u00e1 Bolad\u00e3o",
+          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
+        }
+      ],
+      "duration_ms": 147033,
+      "name": "Pared\u00e3o Espanca - Ao Vivo",
+      "url": "https://open.spotify.com/track/111OVupOu3eEnfR3ebrdXK"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Cavaleiros Inesquec\u00edvel (Ao Vivo em Natal/RN)",
+        "url": "https://open.spotify.com/album/2frt7dymwzO4Xxi6Sax9d8"
+      },
+      "artists": [
+        {
+          "name": "Cavaleiros do Forr\u00f3",
+          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
+        },
+        {
+          "name": "Ra\u00ed Saia Rodada",
+          "url": "https://open.spotify.com/artist/0NiaKn55OzJswiYevvlKfz"
+        }
+      ],
+      "duration_ms": 168186,
+      "name": "Na Madrugada Voc\u00ea Volta - Ao Vivo",
+      "url": "https://open.spotify.com/track/5N50khwtctS9mdLK0uvVJB"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Galera do Interior",
+        "url": "https://open.spotify.com/album/4l8lO3NVtTl199UYdaGwDk"
+      },
+      "artists": [
+        {
+          "name": "Luan Estilizado",
+          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+        }
+      ],
+      "duration_ms": 150513,
+      "name": "Galera do Interior",
+      "url": "https://open.spotify.com/track/5xKFBjIEeEzvrAvWDgaEeA"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Piseiro, Churrasco & Pared\u00e3o",
+        "url": "https://open.spotify.com/album/1Ic1iEkQ2udppQAjB8Ovoy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Victor Meira",
+          "url": "https://open.spotify.com/artist/0MjRKm8DW3DqXxCAcR13FC"
+        }
+      ],
+      "duration_ms": 149845,
+      "name": "Ela Bate O Bumbum No Pared\u00e3o",
+      "url": "https://open.spotify.com/track/46zyhUMlFS8RS9q9wAv1DO"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
         "name": "Tudo Ok (Pisadinha)",
         "url": "https://open.spotify.com/album/74ryxpXKloq0oKvlLrnt6Y"
       },
@@ -1635,18 +1671,54 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Galera do Interior",
-        "url": "https://open.spotify.com/album/4l8lO3NVtTl199UYdaGwDk"
+        "name": "Solinho Descarado",
+        "url": "https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE"
       },
       "artists": [
         {
-          "name": "Luan Estilizado",
-          "url": "https://open.spotify.com/artist/1tGLEVy901arulIovZtdLc"
+          "name": "Pedrinho Pega\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc"
         }
       ],
-      "duration_ms": 150513,
-      "name": "Galera do Interior",
-      "url": "https://open.spotify.com/track/5xKFBjIEeEzvrAvWDgaEeA"
+      "duration_ms": 114562,
+      "name": "Solinho Descarado",
+      "url": "https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Voltar Atr\u00e1s (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6V0dXeGGozjuwVXSpIZVgi"
+      },
+      "artists": [
+        {
+          "name": "Tico",
+          "url": "https://open.spotify.com/artist/5hebGYlrm4mQdILPO5XA8o"
+        },
+        {
+          "name": "Dorgival Dantas",
+          "url": "https://open.spotify.com/artist/3J4WurF5XyCy2ToWeCof5Y"
+        }
+      ],
+      "duration_ms": 174176,
+      "name": "Voltar Atr\u00e1s - Ao Vivo",
+      "url": "https://open.spotify.com/track/4VkIaYvfmdOMY4xeFGB6hy"
+    },
+    {
+      "added_at": "2024-07-08 18:11:31",
+      "album": {
+        "name": "Al\u00f4 @",
+        "url": "https://open.spotify.com/album/6JsnblEneXG3RPNIMteagm"
+      },
+      "artists": [
+        {
+          "name": "Weliton O Gordinho",
+          "url": "https://open.spotify.com/artist/6nGLbk2FTxxQnyy1EeKwFP"
+        }
+      ],
+      "duration_ms": 177214,
+      "name": "Al\u00f4 @",
+      "url": "https://open.spotify.com/track/0qjCRnaKCaTcOfQ6TWaYt5"
     },
     {
       "added_at": "2024-07-08 18:11:31",
@@ -1707,78 +1779,6 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "SIM, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5o6lPm02Mij9Mx6yjC9GNv"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        },
-        {
-          "name": "Dad\u00e1 Bolad\u00e3o",
-          "url": "https://open.spotify.com/artist/36SRwzRkX5zW3ABjJrevqX"
-        }
-      ],
-      "duration_ms": 147033,
-      "name": "Pared\u00e3o Espanca - Ao Vivo",
-      "url": "https://open.spotify.com/track/111OVupOu3eEnfR3ebrdXK"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Voltar Atr\u00e1s (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6V0dXeGGozjuwVXSpIZVgi"
-      },
-      "artists": [
-        {
-          "name": "Tico",
-          "url": "https://open.spotify.com/artist/5hebGYlrm4mQdILPO5XA8o"
-        },
-        {
-          "name": "Dorgival Dantas",
-          "url": "https://open.spotify.com/artist/3J4WurF5XyCy2ToWeCof5Y"
-        }
-      ],
-      "duration_ms": 174176,
-      "name": "Voltar Atr\u00e1s - Ao Vivo",
-      "url": "https://open.spotify.com/track/4VkIaYvfmdOMY4xeFGB6hy"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Solinho Descarado",
-        "url": "https://open.spotify.com/album/5GC3ChRFuMkVaxAsXS1QeE"
-      },
-      "artists": [
-        {
-          "name": "Pedrinho Pega\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/1gIUJHUm50CJDBoM6IEDWc"
-        }
-      ],
-      "duration_ms": 114562,
-      "name": "Solinho Descarado",
-      "url": "https://open.spotify.com/track/1HrO8PCLTC6YWnSvePsKit"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
-        "name": "Al\u00f4 @",
-        "url": "https://open.spotify.com/album/6JsnblEneXG3RPNIMteagm"
-      },
-      "artists": [
-        {
-          "name": "Weliton O Gordinho",
-          "url": "https://open.spotify.com/artist/6nGLbk2FTxxQnyy1EeKwFP"
-        }
-      ],
-      "duration_ms": 177214,
-      "name": "Al\u00f4 @",
-      "url": "https://open.spotify.com/track/0qjCRnaKCaTcOfQ6TWaYt5"
-    },
-    {
-      "added_at": "2024-07-08 18:11:31",
-      "album": {
         "name": "Lovezinho Oculto",
         "url": "https://open.spotify.com/album/7c5Na47JFn0FhHsmtBqXT5"
       },
@@ -1815,22 +1815,18 @@
     {
       "added_at": "2024-07-08 18:11:31",
       "album": {
-        "name": "Amando por 2 e Bebendo por 10 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3FN0HVUNWwN1sdjieH1Ffo"
+        "name": "O Trator Chegou",
+        "url": "https://open.spotify.com/album/7LFeYdOTeUVrihpmpiehjw"
       },
       "artists": [
         {
-          "name": "Cavaleiros do Forr\u00f3",
-          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
-        },
-        {
-          "name": "Xand Avi\u00e3o",
-          "url": "https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616"
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
         }
       ],
-      "duration_ms": 175088,
-      "name": "Amando por 2 e Bebendo por 10 - Ao Vivo",
-      "url": "https://open.spotify.com/track/18P0nUq9ZcFC9DIN4syWug"
+      "duration_ms": 142008,
+      "name": "Deixa Eu te Chamar de Meu Amor",
+      "url": "https://open.spotify.com/track/35eYxu0ugoHtbKjwxrFdwA"
     }
   ],
   "unique_name": "Bora arrochar",

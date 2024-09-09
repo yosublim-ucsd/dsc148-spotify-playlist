@@ -412,7 +412,7 @@
       ],
       "date_added": "2023-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 274601,
       "name": "La Calle de las Sirenas",
       "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
@@ -562,6 +562,32 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
+    },
+    {
+      "album": {
+        "name": "Lo Sientes T\u00fa?",
+        "url": "https://open.spotify.com/album/36Flbad50gwniOiAgA97ff"
+      },
+      "artists": [
+        {
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        },
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181169,
+      "name": "Lo Sientes T\u00fa?",
+      "url": "https://open.spotify.com/track/7xX6nwgmvLgKtWTKwDrI2c"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
-  "description": "This is Harold Budd. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 5234,
+  "description": "This is Harold Budd. The essential tracks, all in one playlist.",
+  "num_followers": 5236,
   "original_name": "This Is Harold Budd",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAACzM1ttwYjM71sPpKPmDXdN",
+  "snapshot_id": "ZtuXgAAAAAArEOz20tUpvncV5pWiRdRc",
   "tracks": [
     {
       "added_at": null,
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 133200,
-      "name": "Bloody And Blunt",
-      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
+      "duration_ms": 257866,
+      "name": "She Will Destroy You",
+      "url": "https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs"
     },
     {
       "added_at": null,
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 257866,
-      "name": "She Will Destroy You",
-      "url": "https://open.spotify.com/track/2cWc4NJ2WYAZllS4VWFcHs"
+      "duration_ms": 133200,
+      "name": "Bloody And Blunt",
+      "url": "https://open.spotify.com/track/1uHFzwXv5h4O8pFbo6LFhB"
     },
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 118720,
-      "name": "Porcelain Ginger - 2013 Remaster",
-      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
+      "duration_ms": 458400,
+      "name": "Little Heart - 2013 Remaster",
+      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl"
         }
       ],
-      "duration_ms": 458400,
-      "name": "Little Heart - 2013 Remaster",
-      "url": "https://open.spotify.com/track/3QdEJzVqLqIIRsUSSF3m0C"
+      "duration_ms": 118720,
+      "name": "Porcelain Ginger - 2013 Remaster",
+      "url": "https://open.spotify.com/track/53Oi0rmfznPDkGEsmcUaWj"
     },
     {
       "added_at": null,

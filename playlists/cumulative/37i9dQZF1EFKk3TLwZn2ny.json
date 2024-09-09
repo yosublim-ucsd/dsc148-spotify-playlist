@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "SCENARIOS",
+        "url": "https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO"
+      },
+      "artists": [
+        {
+          "name": "Izabel",
+          "url": "https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "keep",
+      "url": "https://open.spotify.com/track/32StLeJhdl9xlRK1lDwc6Y"
+    },
+    {
+      "album": {
         "name": "Chilombo",
         "url": "https://open.spotify.com/album/5jlE1zlhT3mEWw0mRpN920"
       },

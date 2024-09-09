@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i3hvzHpcQV.md) - [plain]
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Raayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 878,211 likes - 54 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 878,585 likes - 54 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

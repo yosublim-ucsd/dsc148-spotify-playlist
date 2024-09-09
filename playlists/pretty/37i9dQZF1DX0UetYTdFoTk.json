@@ -1,6 +1,6 @@
 {
   "description": "To all the 7abieb out there. Cover: AL SHAMI.",
-  "num_followers": 180922,
+  "num_followers": 181031,
   "original_name": "Arabic Love Songs",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "El Bint El Awiye",
-        "url": "https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 214327,
-      "name": "El Bint El Awiye",
-      "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "\u0642\u0635\u0629 \u062d\u0628",
         "url": "https://open.spotify.com/album/2gHjRyeFIB4rji4JuChbGX"
       },
@@ -335,18 +319,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+        "name": "El Bint El Awiye",
+        "url": "https://open.spotify.com/album/6TQquIuw9t7upY6tYfFtGF"
       },
       "artists": [
         {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
         }
       ],
-      "duration_ms": 221379,
-      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
-      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
+      "duration_ms": 214327,
+      "name": "El Bint El Awiye",
+      "url": "https://open.spotify.com/track/1l3S4j9ksQMh2tKIta1bfw"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -419,6 +403,22 @@
       "duration_ms": 231197,
       "name": "Btwhasheni",
       "url": "https://open.spotify.com/track/1Cm3f5zjPhCrR0VqodoJhK"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+        "url": "https://open.spotify.com/album/5ZzAowICKjKwUrWMz8nxPd"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 221379,
+      "name": "\u0644\u062d\u0638\u0629 \u0628\u0639\u0627\u062f\u0643",
+      "url": "https://open.spotify.com/track/7bsE3mQpFJPdIFXLmlJxRt"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -551,22 +551,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Elyanna 2",
-        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 139288,
-      "name": "Ala Bali",
-      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "3Einy Shayfa Feky",
         "url": "https://open.spotify.com/album/6z3aFsAQZuErSIJYqnn0HW"
       },
@@ -619,6 +603,22 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
+        "name": "Elyanna 2",
+        "url": "https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 139288,
+      "name": "Ala Bali",
+      "url": "https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
         "name": "Aam Yes2alou",
         "url": "https://open.spotify.com/album/3gpZeTfb6sfhSHu1KDTLtq"
       },
@@ -667,38 +667,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Nancy 10",
-        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Hayat",
-      "url": "https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
-        "name": "Malek Ya Tara",
-        "url": "https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Nour",
-          "url": "https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix"
-        }
-      ],
-      "duration_ms": 195299,
-      "name": "Malek Ya Tara",
-      "url": "https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "Haydi Habibit Albi",
         "url": "https://open.spotify.com/album/4WGeGLGs0o0Uc9fnrlREfZ"
       },
@@ -731,6 +699,22 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
+        "name": "Nancy 10",
+        "url": "https://open.spotify.com/album/3uqaoNAn5imRyAztEcb6Bb"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 190333,
+      "name": "Hayat",
+      "url": "https://open.spotify.com/track/2EF4omjpEV9D01GNfokbyh"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
         "name": "Byeb\u2019a Nas",
         "url": "https://open.spotify.com/album/75Kg82i925AgtrYJTqJyJU"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 247459,
       "name": "Addaysh Bhebak",
       "url": "https://open.spotify.com/track/4YPTEQmyafBQpEqPlnmBsX"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "Malek Ya Tara",
+        "url": "https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Nour",
+          "url": "https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix"
+        }
+      ],
+      "duration_ms": 195299,
+      "name": "Malek Ya Tara",
+      "url": "https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Shee",
-        "url": "https://open.spotify.com/album/2SZdvrxMgfl0LrhozVW0RX"
+        "name": "Ya Rohy",
+        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
       },
       "artists": [
         {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+          "name": "Ahmed Batshan",
+          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
         }
       ],
-      "duration_ms": 156577,
-      "name": "Shee",
-      "url": "https://open.spotify.com/track/0oRNK10JeRv431CLgTanNQ"
+      "duration_ms": 241368,
+      "name": "Ya Rohy",
+      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -827,18 +827,18 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Ya Rohy",
-        "url": "https://open.spotify.com/album/53PEln9zCTdxZRcY7NWLGI"
+        "name": "Shee",
+        "url": "https://open.spotify.com/album/2SZdvrxMgfl0LrhozVW0RX"
       },
       "artists": [
         {
-          "name": "Ahmed Batshan",
-          "url": "https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz"
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
         }
       ],
-      "duration_ms": 241368,
-      "name": "Ya Rohy",
-      "url": "https://open.spotify.com/track/4BB1FjjbiKaPK6iTx1mkaq"
+      "duration_ms": 156577,
+      "name": "Shee",
+      "url": "https://open.spotify.com/track/0oRNK10JeRv431CLgTanNQ"
     },
     {
       "added_at": "2024-03-01 14:02:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Mabtekbareesh",
-        "url": "https://open.spotify.com/album/0VV8qhOsOeB5R20tiW1tmj"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Mabtekbareesh",
-      "url": "https://open.spotify.com/track/0Dh2iqqzTe807aO4yV2A9l"
-    },
-    {
-      "added_at": "2024-03-01 14:02:53",
-      "album": {
         "name": "\u0645\u0627 \u0639\u0631\u0641\u062a\u0643",
         "url": "https://open.spotify.com/album/4rUz9KqZFlohSdai1fLvu7"
       },
@@ -971,18 +955,34 @@
     {
       "added_at": "2024-03-01 14:02:53",
       "album": {
-        "name": "Ma Bzon",
-        "url": "https://open.spotify.com/album/3tPtKMySR5CybTn4faIcGM"
+        "name": "Mabtekbareesh",
+        "url": "https://open.spotify.com/album/0VV8qhOsOeB5R20tiW1tmj"
       },
       "artists": [
         {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
         }
       ],
-      "duration_ms": 251769,
-      "name": "Ma Bzon",
-      "url": "https://open.spotify.com/track/7A1l0IlP9h7ZaE1NVp1Ags"
+      "duration_ms": 244000,
+      "name": "Mabtekbareesh",
+      "url": "https://open.spotify.com/track/0Dh2iqqzTe807aO4yV2A9l"
+    },
+    {
+      "added_at": "2024-03-01 14:02:53",
+      "album": {
+        "name": "Khaleeki",
+        "url": "https://open.spotify.com/album/5q1pW37eb9Pf7iuayk4Gcr"
+      },
+      "artists": [
+        {
+          "name": "Molham",
+          "url": "https://open.spotify.com/artist/0QQoEM8PaO0N5y1frRGKom"
+        }
+      ],
+      "duration_ms": 144137,
+      "name": "Khaleeki",
+      "url": "https://open.spotify.com/track/03rXpc8P0yMF6X3GShm40h"
     }
   ],
   "unique_name": "Arabic Love Songs",

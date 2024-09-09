@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Misha Panfilov on cover. Artwork by Thami Nabil",
-  "num_followers": 170864,
+  "num_followers": 170939,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/5O0NtSxrPa8nNCMrPqyxrQ"
     },
     {
-      "added_at": "2024-05-08 03:43:46",
+      "added_at": "2024-08-14 16:44:33",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+        "name": "NONAGE",
+        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
       },
       "artists": [
         {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+          "name": "LI YILEI",
+          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
         }
       ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+      "duration_ms": 145344,
+      "name": "O O O O",
+      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -289,20 +289,20 @@
       "url": "https://open.spotify.com/track/4LbdywjC7BKbYwPV0WAVfH"
     },
     {
-      "added_at": "2024-08-14 16:44:33",
+      "added_at": "2024-05-08 03:43:46",
       "album": {
-        "name": "NONAGE",
-        "url": "https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ"
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
       "artists": [
         {
-          "name": "LI YILEI",
-          "url": "https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp"
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
         }
       ],
-      "duration_ms": 145344,
-      "name": "O O O O",
-      "url": "https://open.spotify.com/track/1QmsT9YmuXrE0371eYFmiw"
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Taste The Air (Julia Holter Mix)",
-        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
-      },
-      "artists": [
-        {
-          "name": "Emma Anderson",
-          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
-        },
-        {
-          "name": "Julia Holter",
-          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
-        }
-      ],
-      "duration_ms": 203031,
-      "name": "Taste The Air - Julia Holter Mix",
-      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
-    },
-    {
-      "added_at": "2024-08-07 03:33:24",
-      "album": {
         "name": "Muerte a Televisa",
         "url": "https://open.spotify.com/album/4FMyQOyT9UY4Y2JojH6LdC"
       },
@@ -417,52 +397,24 @@
       "url": "https://open.spotify.com/track/02rA2IHdDVFHVeSERPAbTT"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "All good?",
-        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+        "name": "Taste The Air (Julia Holter Mix)",
+        "url": "https://open.spotify.com/album/0W9ZcPtttitGOYLGVu17kc"
       },
       "artists": [
         {
-          "name": "Nonkeen",
-          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
-        }
-      ],
-      "duration_ms": 466420,
-      "name": "that love",
-      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
-      },
-      "artists": [
+          "name": "Emma Anderson",
+          "url": "https://open.spotify.com/artist/3o2G6CrR8dJYHf69yoC8hL"
+        },
         {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+          "name": "Julia Holter",
+          "url": "https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E"
         }
       ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
-    },
-    {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Cockpit",
-        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
-      },
-      "artists": [
-        {
-          "name": "Sex Week",
-          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Cockpit",
-      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
+      "duration_ms": 203031,
+      "name": "Taste The Air - Julia Holter Mix",
+      "url": "https://open.spotify.com/track/0cJwZNBbQwxzzrnWqqWbRU"
     },
     {
       "added_at": "2024-08-21 04:00:00",
@@ -481,40 +433,72 @@
       "url": "https://open.spotify.com/track/7Bu5gRBLy1JjPdbvAfa5w6"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Bird",
-        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+        "name": "Cockpit",
+        "url": "https://open.spotify.com/album/0gkzzfLU4VvSrpakV6IM8i"
       },
       "artists": [
         {
-          "name": "Hey Lu",
-          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+          "name": "Sex Week",
+          "url": "https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r"
         }
       ],
-      "duration_ms": 178496,
-      "name": "Bird",
-      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
+      "duration_ms": 256799,
+      "name": "Cockpit",
+      "url": "https://open.spotify.com/track/2sDNl24Qmjani2isK1xm5R"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Dr\u00efpsody",
-        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
       },
       "artists": [
         {
-          "name": "WTRGRL",
-          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
-        },
-        {
-          "name": "Holly Waxwing",
-          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
         }
       ],
-      "duration_ms": 212949,
-      "name": "Drip Coda",
-      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Hailu Remixes",
+        "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
+      },
+      "artists": [
+        {
+          "name": "COLA REN",
+          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+        },
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Riot on the Hush - K-LONE Remix",
+      "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "All good?",
+        "url": "https://open.spotify.com/album/0t6tusoh1iWAYXmI4ER144"
+      },
+      "artists": [
+        {
+          "name": "Nonkeen",
+          "url": "https://open.spotify.com/artist/4164ldqgBP6uc3FuA1gA4b"
+        }
+      ],
+      "duration_ms": 466420,
+      "name": "that love",
+      "url": "https://open.spotify.com/track/4QqtiaLzHXB1PAIgZVbBWo"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -541,24 +525,40 @@
       "url": "https://open.spotify.com/track/5ZKItiErHMCGPXKc7PqI9Y"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
+      "added_at": "2024-08-07 03:33:24",
       "album": {
-        "name": "Hailu Remixes",
-        "url": "https://open.spotify.com/album/6YAuHoiIzJlPk7V2HMNtdJ"
+        "name": "Dr\u00efpsody",
+        "url": "https://open.spotify.com/album/7LSo4s0mUDNSmHUrI0Batf"
       },
       "artists": [
         {
-          "name": "COLA REN",
-          "url": "https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs"
+          "name": "WTRGRL",
+          "url": "https://open.spotify.com/artist/35uYLkqn6CkvexolH6j9O9"
         },
         {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+          "name": "Holly Waxwing",
+          "url": "https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Riot on the Hush - K-LONE Remix",
-      "url": "https://open.spotify.com/track/4nSAzW4tCwfL5SZhwfeb6A"
+      "duration_ms": 212949,
+      "name": "Drip Coda",
+      "url": "https://open.spotify.com/track/7Bs1LvXNJsTuwNPkXfFq56"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Bird",
+        "url": "https://open.spotify.com/album/72dw1Ozom9l6V7t76FBYAI"
+      },
+      "artists": [
+        {
+          "name": "Hey Lu",
+          "url": "https://open.spotify.com/artist/1cEFbjnZBo3n1CrsGQHVuE"
+        }
+      ],
+      "duration_ms": 178496,
+      "name": "Bird",
+      "url": "https://open.spotify.com/track/74ljaJiF5MqA703WWqLIYX"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/2hB0WBIk6FFqqqbW6lyw15"
     },
     {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Endless Path of Memory",
+        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
+      },
+      "artists": [
+        {
+          "name": "NEXCYIA",
+          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
+        }
+      ],
+      "duration_ms": 287746,
+      "name": "Bury it Deep Inside Yourself",
+      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
+    },
+    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Inaudible",
@@ -835,22 +851,6 @@
       "duration_ms": 173515,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/66xNqJZaoYfBHYbI2iV3ob"
-    },
-    {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Endless Path of Memory",
-        "url": "https://open.spotify.com/album/06SMLc0USCxMg0EZm8ZwVu"
-      },
-      "artists": [
-        {
-          "name": "NEXCYIA",
-          "url": "https://open.spotify.com/artist/40wAy6PBtoaw0dJB0JtkNZ"
-        }
-      ],
-      "duration_ms": 287746,
-      "name": "Bury it Deep Inside Yourself",
-      "url": "https://open.spotify.com/track/6qZmqWAs0sbLKOpcV4i2fR"
     },
     {
       "added_at": "2024-07-17 04:00:00",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/7EMUufH1L5NBPj1OoPSIg5"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Elixa",
-        "url": "https://open.spotify.com/album/5K1wTcRwBr2t9PMm1clF7K"
-      },
-      "artists": [
-        {
-          "name": "Th Blisks",
-          "url": "https://open.spotify.com/artist/2uiBUFM6ifJQVNkmSGtrPR"
-        }
-      ],
-      "duration_ms": 273373,
-      "name": "Do You Bless It?",
-      "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "betrayal",
@@ -949,20 +933,20 @@
       "url": "https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL"
     },
     {
-      "added_at": "2024-08-07 03:33:24",
+      "added_at": "2024-07-17 04:00:00",
       "album": {
-        "name": "Stems of Water",
-        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+        "name": "Elixa",
+        "url": "https://open.spotify.com/album/5K1wTcRwBr2t9PMm1clF7K"
       },
       "artists": [
         {
-          "name": "Isik Kural",
-          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+          "name": "Th Blisks",
+          "url": "https://open.spotify.com/artist/2uiBUFM6ifJQVNkmSGtrPR"
         }
       ],
-      "duration_ms": 175000,
-      "name": "Stems of Water",
-      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+      "duration_ms": 273373,
+      "name": "Do You Bless It?",
+      "url": "https://open.spotify.com/track/4o8Y3yuawVuSKu7VQAMy64"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -989,6 +973,22 @@
       "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
     },
     {
+      "added_at": "2024-08-07 03:33:24",
+      "album": {
+        "name": "Stems of Water",
+        "url": "https://open.spotify.com/album/2q5w59SvB8kqwZkxtV0NE4"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Stems of Water",
+      "url": "https://open.spotify.com/track/3HN6n1NYH7SiEllGshhlzb"
+    },
+    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Northern Classic",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/1qcL2aoIbuIKsBiR3nXHe0"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Pillars",
-        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
-      },
-      "artists": [
-        {
-          "name": "Sorza",
-          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
-        }
-      ],
-      "duration_ms": 234312,
-      "name": "I'm here",
-      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Nightshade",
@@ -1035,6 +1019,22 @@
       "duration_ms": 235853,
       "name": "Voulez Vous",
       "url": "https://open.spotify.com/track/4g2eE7ImWc6Yv9lwYdj3Ij"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Pillars",
+        "url": "https://open.spotify.com/album/1rUgzGPf4njtmLhKWbJ53v"
+      },
+      "artists": [
+        {
+          "name": "Sorza",
+          "url": "https://open.spotify.com/artist/0uzZejtu06gZYMtDUoSt9D"
+        }
+      ],
+      "duration_ms": 234312,
+      "name": "I'm here",
+      "url": "https://open.spotify.com/track/7jgKM7kkr5V1vD000hAelA"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1125,22 +1125,6 @@
       "url": "https://open.spotify.com/track/1KFEWFokv2egtzT3vzc7ct"
     },
     {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Truest",
-        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
-      },
-      "artists": [
-        {
-          "name": "Anysia Kym",
-          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hesitations\u2026 (Intro)",
-      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
-    },
-    {
       "added_at": "2024-07-17 04:00:00",
       "album": {
         "name": "Summertime",
@@ -1155,6 +1139,22 @@
       "duration_ms": 132096,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/65TjeQLUS1Jdl2jrrFgqte"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Truest",
+        "url": "https://open.spotify.com/album/1wANarMlS8xKdwUxm4WwrI"
+      },
+      "artists": [
+        {
+          "name": "Anysia Kym",
+          "url": "https://open.spotify.com/artist/03546gvcoicKs6C10YdXvk"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Hesitations\u2026 (Intro)",
+      "url": "https://open.spotify.com/track/0sNiWTqzD6LwYnLa9SGuac"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1237,22 +1237,6 @@
       "url": "https://open.spotify.com/track/2ojrTSSrh4MZR7wG7iyZVK"
     },
     {
-      "added_at": "2024-06-19 06:00:00",
-      "album": {
-        "name": "Lucha Libre",
-        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
-      },
-      "artists": [
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        }
-      ],
-      "duration_ms": 281374,
-      "name": "And There Is Us",
-      "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "Misterio Lounge 3000",
@@ -1267,6 +1251,22 @@
       "duration_ms": 223098,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/52gzLw5jwmb0UPhsjbL1Xb"
+    },
+    {
+      "added_at": "2024-06-19 06:00:00",
+      "album": {
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "duration_ms": 281374,
+      "name": "And There Is Us",
+      "url": "https://open.spotify.com/track/3EWIfsVaZAx5tT0IO7qAAu"
     },
     {
       "added_at": "2024-08-07 03:33:24",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
-        "name": "Heroine",
-        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
-      },
-      "artists": [
-        {
-          "name": "House on the Strand",
-          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
-        }
-      ],
-      "duration_ms": 327804,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
         "name": "Famous Mammals",
         "url": "https://open.spotify.com/album/58MaSPTHyIPoo6ePjpSX12"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 105600,
       "name": "Psychological Housekeeping",
       "url": "https://open.spotify.com/track/1yJRRJgVFgN3nYtYas5Rfo"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
+        "name": "Heroine",
+        "url": "https://open.spotify.com/album/3e7ratn5mY9I6wCDUalVx9"
+      },
+      "artists": [
+        {
+          "name": "House on the Strand",
+          "url": "https://open.spotify.com/artist/1XelH5HqoOc2TcRaJT2E23"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/0pHiRnZ4yHBA2xYAiC5OTP"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2024-08-21 04:00:00",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
+      },
+      "artists": [
+        {
+          "name": "Frank Rodas",
+          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
+        }
+      ],
+      "duration_ms": 548586,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
+    },
+    {
+      "added_at": "2024-08-21 04:00:00",
+      "album": {
         "name": "Bearings: Soundtracks for the Bardos",
         "url": "https://open.spotify.com/album/1qDLRV6CagogjyTHxSnwxE"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 204120,
       "name": "Ines",
       "url": "https://open.spotify.com/track/0qPsJY0N1RC15TMGVG2U6A"
-    },
-    {
-      "added_at": "2024-08-21 04:00:00",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/4tJVnASLagfFLSjODYXf91"
-      },
-      "artists": [
-        {
-          "name": "Frank Rodas",
-          "url": "https://open.spotify.com/artist/7kgRxGeBAFr0625ouDFXgM"
-        }
-      ],
-      "duration_ms": 548586,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/5JW8BNjd9PuNxAmuEdYzvl"
     },
     {
       "added_at": "2024-08-14 14:21:25",
@@ -1625,22 +1625,6 @@
       "url": "https://open.spotify.com/track/3QloqA8jZIy0pQ2kZF88Be"
     },
     {
-      "added_at": "2024-07-17 04:00:00",
-      "album": {
-        "name": "Unbound",
-        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
-      },
-      "artists": [
-        {
-          "name": "Bizhiki",
-          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
-        }
-      ],
-      "duration_ms": 215586,
-      "name": "Unbound",
-      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
-    },
-    {
       "added_at": "2024-08-21 04:00:00",
       "album": {
         "name": "5GTOUR",
@@ -1655,6 +1639,22 @@
       "duration_ms": 222580,
       "name": "Manc TK 2",
       "url": "https://open.spotify.com/track/1Nx8LcwltH9lXigsGE7ttb"
+    },
+    {
+      "added_at": "2024-07-17 04:00:00",
+      "album": {
+        "name": "Unbound",
+        "url": "https://open.spotify.com/album/37iOTiZWx84gYnBOTsl4IQ"
+      },
+      "artists": [
+        {
+          "name": "Bizhiki",
+          "url": "https://open.spotify.com/artist/7HkpufNaf4f69MkyBhUJ5d"
+        }
+      ],
+      "duration_ms": 215586,
+      "name": "Unbound",
+      "url": "https://open.spotify.com/track/2Kbxtd7hkjzUYrIO4p2WPl"
     },
     {
       "added_at": "2024-08-21 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is AC/DC. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 2154769,
+  "num_followers": 2154921,
   "original_name": "This Is AC/DC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAADY1hS/lL4Y1r093tc7BB9G",
+  "snapshot_id": "ZtuXgAAAAADaYzePQdsW8Uyiy16zI79L",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerage",
-        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 285040,
-      "name": "Sin City",
-      "url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ballbreaker",
         "url": "https://open.spotify.com/album/1zXYNAA57WJ33GgZJHchhX"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 271000,
       "name": "Hard as a Rock",
       "url": "https://open.spotify.com/track/1gij27s31tFKcTHa8f1u4g"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Powerage",
+        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Sin City",
+      "url": "https://open.spotify.com/track/3UQQ7g6J8fiMB7oldQzBoq"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 254120,
-      "name": "Hell Ain't a Bad Place to Be",
-      "url": "https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blow Up Your Video",
         "url": "https://open.spotify.com/album/5jfgUmvXCar7Qf5lidVkqI"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 230400,
       "name": "Heatseeker",
       "url": "https://open.spotify.com/track/0h3A3hdDq762DzIOKUoF21"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 254120,
+      "name": "Hell Ain't a Bad Place to Be",
+      "url": "https://open.spotify.com/track/79KUOd1p6yNjh2Jkr9IQHk"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let There Be Rock",
-        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POWER UP",
         "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 222253,
       "name": "Witch's Spell",
       "url": "https://open.spotify.com/track/06hy0gi5aLXcWRjnj9fgoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let There Be Rock",
+        "url": "https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/0L0x35hQnmCLtHeSGQlEZj"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock or Bust",
-        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 204373,
-      "name": "Rock the Blues Away",
-      "url": "https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "POWER UP",
         "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 212226,
       "name": "Through The Mists Of Time",
       "url": "https://open.spotify.com/track/3FR2w9O5i9q3unY3gyjq6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rock or Bust",
+        "url": "https://open.spotify.com/album/6OwvO40ahugJE5PH4TjqTg"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 204373,
+      "name": "Rock the Blues Away",
+      "url": "https://open.spotify.com/track/5xGHeN58fFOcORW0pRZznn"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Powerage",
-        "url": "https://open.spotify.com/album/4iMaHsHqTg3rwOtRa5wEbm"
+        "name": "POWER UP",
+        "url": "https://open.spotify.com/album/3bTNxJYk2bwdWBMtrjBxb0"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 305586,
-      "name": "Gone Shootin'",
-      "url": "https://open.spotify.com/track/69MwNXryg6NT1lV7buN7U7"
+      "duration_ms": 217466,
+      "name": "Realize",
+      "url": "https://open.spotify.com/track/4JDjZ2AzlHnde5uUy0TveV"
     }
   ],
   "unique_name": "This Is AC/DC",

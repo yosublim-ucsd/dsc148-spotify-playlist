@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-18",
-  "description": "This is The Beach Boys. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
   "name": "This Is The Beach Boys",
   "tracks": [
     {
@@ -1256,7 +1256,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 31296,
       "name": "I'm The Pied Piper - A Cappella Section",
       "url": "https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT"
@@ -2182,7 +2182,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 193399,
       "name": "Wouldn\u2019t It Be Nice",
       "url": "https://open.spotify.com/track/4gySZmwNJcFvVUR0SaELUK"

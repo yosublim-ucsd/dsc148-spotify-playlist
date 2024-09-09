@@ -4,7 +4,7 @@
 
 > Iconic instrumentals from the history of Blues.
 
-115 songs - 7 hr 26 min
+116 songs - 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Extra Jimmies](https://open.spotify.com/track/7JpvSoMnhgh2UTSkD9ZVpR) | [The Fabulous Thunderbirds](https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT) | [What's The Word?](https://open.spotify.com/album/2OZq6JmBN0B5gUnw8bG4nD) | 2:38 | 2022-05-25 |  |
 | [Frankie And Johnny Boogie](https://open.spotify.com/track/4Vmcs564gpHY3umYGc5ICN) | [Memphis Slim](https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ) | [All Kinds Of Blues](https://open.spotify.com/album/6SGFgR8zDW0lPM9sOrkujW) | 4:06 | 2022-05-25 |  |
 | [Gaslighter's Ball](https://open.spotify.com/track/5TwyKJ0p0JiKJzjsuG2dxg) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [Joanna Connor](https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB) | [Gaslighter's Ball](https://open.spotify.com/album/3USbNYufFAKCtxQSjwClPo) | 3:10 | 2023-01-27 |  |
+| [Gnawty](https://open.spotify.com/track/3cix5qmNnl5WoGsBdlE3hS) | [The Bluetonics](https://open.spotify.com/artist/3nBX9z9NzfzxHfOkyU6226) | [50/50](https://open.spotify.com/album/2aHYJESQdcLZPQDhAuYeRv) | 2:44 | 2024-05-29 |  |
 | [Gotta Move](https://open.spotify.com/track/0lre3EEoygX3PQ0Qi7dDbD) | [Alexis Korner](https://open.spotify.com/artist/385tW2q0gMaQTkswc9lMSe) | [R&B From The Marquee](https://open.spotify.com/album/2Uv8U2JwRRbeqBfk8OS4Na) | 2:31 | 2023-08-23 |  |
 | [Gotta Move](https://open.spotify.com/track/7CBgw5vnA4TWHmtWyoy6ll) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [R&B from the Marquee / At the Cavern \(Remastered\)](https://open.spotify.com/album/435zTVZqyNJba4YteDro9M) | 2:30 | 2022-11-24 | 2024-04-19 |
 | [Guitar Shuffle](https://open.spotify.com/track/7LrcdVXy2SAa9VP3B3fs9N) | [Big Bill Broonzy](https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu) | [The Southern Blues Vol.4](https://open.spotify.com/album/4apehfV2CL3eyearMCibIf) | 3:27 | 2024-05-29 |  |
@@ -60,7 +61,7 @@
 | [Hide Away](https://open.spotify.com/track/2bV2rAslNR4CjjG8CuEQhZ) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [Texas Sensation](https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA) | 2:37 | 2022-05-25 |  |
 | [Homesick's Shuffle](https://open.spotify.com/track/3eIZeCBB7xQc4ZfKDVsNih) | [Homesick James](https://open.spotify.com/artist/4XlRNWTeM8KRfRrvxXSsgP) | [Blues On The South Side](https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC) | 4:14 | 2022-05-25 |  |
 | [Hot and Heavy](https://open.spotify.com/track/5l9DRliLvlg8NO4x8jDBZq) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Theresa Fungus Amung Us](https://open.spotify.com/album/30dPV2N4mJh7tEAqVcZwlY) | 1:56 | 2022-05-25 | 2023-08-24 |
-| [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-25 |  |
+| [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 | 2022-05-25 | 2024-09-09 |
 | [If You're Not Mine](https://open.spotify.com/track/4cPfagXa1RWHPx6rZcIdgS) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:23 | 2023-03-17 |  |
 | [Jam On A Monday Morning](https://open.spotify.com/track/6UQMeYLE04t3PJY2OYYhA4) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [A Man And The Blues](https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ) | 2:52 | 2022-05-25 |  |
 | [Jigsaw Puzzle Blues](https://open.spotify.com/track/2ukRDdimXaalohB9F4bAXb) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [English Rose](https://open.spotify.com/album/6UQyg4DOgAGfKnjSciPKBe) | 1:34 | 2022-05-25 | 2022-07-28 |

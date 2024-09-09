@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > den bedste danske rap lige nu 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,900 likes - 94 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,913 likes - 94 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

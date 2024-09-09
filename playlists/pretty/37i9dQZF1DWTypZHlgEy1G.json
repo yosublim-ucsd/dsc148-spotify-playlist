@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : \u00c9dith Piaf",
-  "num_followers": 536600,
+  "num_followers": 536623,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Le p\u00e9nitencier",
         "url": "https://open.spotify.com/album/6BIYQZuFPkhbkCl2PHPcj6"
       },
@@ -171,22 +187,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Joe Dassin \u00c9ternel...",
         "url": "https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 269320,
       "name": "L'\u00e9t\u00e9 indien",
       "url": "https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -235,22 +251,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
-        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
-      },
-      "artists": [
-        {
-          "name": "Charles Trenet",
-          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
-        }
-      ],
-      "duration_ms": 201626,
-      "name": "La mer - Remasteris\u00e9 en 2017",
-      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
         "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 180746,
       "name": "Les amoureux des bancs publics",
       "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "1943 - 1948 (Remasteris\u00e9 en 2017)",
+        "url": "https://open.spotify.com/album/2vo9j3dgK07xfGodOH11gZ"
+      },
+      "artists": [
+        {
+          "name": "Charles Trenet",
+          "url": "https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "La mer - Remasteris\u00e9 en 2017",
+      "url": "https://open.spotify.com/track/1n29R9nsoyeFbUuvmnmw1y"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -303,6 +319,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "La vie en rose",
+      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Salade de fruits + 29 succ\u00e8s de Bourvil (Chanson fran\u00e7aise)",
         "url": "https://open.spotify.com/album/25mVw0jBpfwJWrvnGYpwo7"
       },
@@ -315,22 +347,6 @@
       "duration_ms": 195280,
       "name": "Salade de fruits",
       "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -423,6 +439,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "20 Chansons D'or",
+        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+      },
+      "artists": [
+        {
+          "name": "Mike Brant",
+          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+        }
+      ],
+      "duration_ms": 200933,
+      "name": "Qui saura",
+      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les Plus Belles Chansons De Claude Fran\u00e7ois",
         "url": "https://open.spotify.com/album/6ee87DJAkjCghFeSVSCnx5"
       },
@@ -443,18 +475,18 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "20 Chansons D'or",
-        "url": "https://open.spotify.com/album/6noK3tB0B6nRxFc4tFcF8h"
+        "name": "Yves Montand Gold",
+        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
       },
       "artists": [
         {
-          "name": "Mike Brant",
-          "url": "https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV"
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Qui saura",
-      "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
+      "duration_ms": 163040,
+      "name": "\u00c0 bicyclette",
+      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -475,8 +507,8 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
+        "name": "Edith Piaf - The Best Of",
+        "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
       },
       "artists": [
         {
@@ -484,25 +516,9 @@
           "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 186973,
-      "name": "La vie en rose",
-      "url": "https://open.spotify.com/track/4FmiciU3ZmfgABlbCSXcWw"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Yves Montand Gold",
-        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "\u00c0 bicyclette",
-      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
+      "duration_ms": 162226,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Edith Piaf - The Best Of",
-        "url": "https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 162226,
-      "name": "Paris",
-      "url": "https://open.spotify.com/track/2ALK3U3XsDzz85bynK1hnt"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Du Caf' Conc' au Music Hall",
         "url": "https://open.spotify.com/album/0HDHNxKK6IUuF1QLnGYYHe"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 205133,
       "name": "Tout va tr\u00e8s bien madame la marquise",
       "url": "https://open.spotify.com/track/3CbCvxfRVk0Ba0Z761Ys12"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Fleur De Paris",
-        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
-      },
-      "artists": [
-        {
-          "name": "Maurice Chevalier",
-          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Paris sera toujours Paris",
-      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -695,6 +679,22 @@
       "duration_ms": 159746,
       "name": "Et maintenant (Version 1966) - Remasteris\u00e9 en 2011",
       "url": "https://open.spotify.com/track/5z3LJpwfI91bj3ogU8l0sk"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Fleur De Paris",
+        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Paris sera toujours Paris",
+      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 210186,
       "name": "La maladie d'amour",
       "url": "https://open.spotify.com/track/7jEU2PWW32lv8DIfDdNtap"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Avec Le Temps - Les Chansons D'Amour",
-        "url": "https://open.spotify.com/album/641Qma5hnSs1OqudP24cfD"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Ferr\u00e9",
-          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
-        }
-      ],
-      "duration_ms": 266906,
-      "name": "Avec le temps",
-      "url": "https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Platinum Charles Aznavour",
         "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 140826,
       "name": "Hier encore",
       "url": "https://open.spotify.com/track/0DXyFek0JfbNE34s2u2bDD"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Avec Le Temps - Les Chansons D'Amour",
+        "url": "https://open.spotify.com/album/641Qma5hnSs1OqudP24cfD"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Ferr\u00e9",
+          "url": "https://open.spotify.com/artist/6NB0vY1HQgkUpCBsm5eAvo"
+        }
+      ],
+      "duration_ms": 266906,
+      "name": "Avec le temps",
+      "url": "https://open.spotify.com/track/4zr0ivSuOhX7qwk0r3uk5E"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Santiano",
-        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
-      },
-      "artists": [
-        {
-          "name": "Hugues Aufray",
-          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "C\u00e9line",
-      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Les 50 plus belles chansons",
         "url": "https://open.spotify.com/album/1RjaSfFBL6CkpHO7XW9A7D"
       },
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Santiano",
+        "url": "https://open.spotify.com/album/3MgwUwjuUgVEaT628l3kJB"
+      },
+      "artists": [
+        {
+          "name": "Hugues Aufray",
+          "url": "https://open.spotify.com/artist/6TOGbRYHQizlf3adIyugol"
+        }
+      ],
+      "duration_ms": 188466,
+      "name": "C\u00e9line",
+      "url": "https://open.spotify.com/track/1dhwnKg62ljkHarJ883N7Z"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Les mots bleus",
         "url": "https://open.spotify.com/album/46kTt80CYge3BA2IWx4WRh"
       },
@@ -1179,6 +1179,22 @@
       "duration_ms": 250240,
       "name": "Les Mots Bleus",
       "url": "https://open.spotify.com/track/0iKhilpfx902LV9jUU5x30"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 245533,
+      "name": "La boh\u00e8me",
+      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 245533,
-      "name": "La boh\u00e8me",
-      "url": "https://open.spotify.com/track/1e9qVfNKLsWJZVjEYAzQyK"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/4d9l1TbzJDhwKylJLwJixn"
       },
@@ -1291,22 +1291,6 @@
       "duration_ms": 251666,
       "name": "Ne Me Quitte Pas",
       "url": "https://open.spotify.com/track/0B2mpfbg0an33QEYfKGChy"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/1WX0vEaonro2LWQHVX1G1a"
-      },
-      "artists": [
-        {
-          "name": "Guy B\u00e9art",
-          "url": "https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "L'eau vive",
-      "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1327,6 +1311,22 @@
     {
       "added_at": "2024-07-25 13:22:22",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/1WX0vEaonro2LWQHVX1G1a"
+      },
+      "artists": [
+        {
+          "name": "Guy B\u00e9art",
+          "url": "https://open.spotify.com/artist/4DfwtuOinoPWTCOLETBkq7"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "L'eau vive",
+      "url": "https://open.spotify.com/track/5qGg8QnOSG1zik86m5Pi7S"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
         "name": "Succ\u00e8s Et Confidences",
         "url": "https://open.spotify.com/album/0sGNevmIelEj081PXYL1Xt"
       },
@@ -1339,6 +1339,22 @@
       "duration_ms": 127333,
       "name": "Le tourbillon",
       "url": "https://open.spotify.com/track/0SfpHtKHFHryAbKwU6viHm"
+    },
+    {
+      "added_at": "2024-07-25 13:22:22",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Que C'est Triste Venise",
+      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     },
     {
       "added_at": "2024-07-25 13:22:22",
@@ -1371,22 +1387,6 @@
       "duration_ms": 175613,
       "name": "Parlez moi d'amour",
       "url": "https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc"
-    },
-    {
-      "added_at": "2024-07-25 13:22:22",
-      "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Que C'est Triste Venise",
-      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     }
   ],
   "unique_name": "Standards de la Chanson Fran\u00e7aise",

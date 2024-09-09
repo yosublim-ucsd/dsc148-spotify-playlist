@@ -1,12 +1,12 @@
 {
-  "description": "This is League of Legends. The essential tracks, all in one playlist.",
-  "num_followers": 388028,
+  "description": "This is: League of Legends. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 388039,
   "original_name": "This Is League of Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAB0pyC3yJEumk3SWO4mrtE6",
+  "snapshot_id": "ZtuXgAAAAAAwWSj4xDz0r4U5d26haill",
   "tracks": [
     {
       "added_at": null,
@@ -609,7 +609,7 @@
         },
         {
           "name": "Gizzle",
-          "url": "https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq"
+          "url": "https://open.spotify.com/artist/3IZkE54DC1Pk1dbsU0J0Pk"
         },
         {
           "name": "Bren Joy",
@@ -1007,6 +1007,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Aphelios, the Weapon of the Faithful",
+        "url": "https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 241157,
+      "name": "Aphelios, the Weapon of the Faithful",
+      "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "REMIX RUMBLE (Steve Aoki Remix)",
         "url": "https://open.spotify.com/album/1Dk05oKAHWIFyN5kIWlTQ5"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 217807,
       "name": "REMIX RUMBLE",
       "url": "https://open.spotify.com/track/1AG7YrtmqKDQTe3wpBXKhp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aphelios, the Weapon of the Faithful",
-        "url": "https://open.spotify.com/album/0ytK0unUhIq7RnkKlu6Nab"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        }
-      ],
-      "duration_ms": 241157,
-      "name": "Aphelios, the Weapon of the Faithful",
-      "url": "https://open.spotify.com/track/6xsUmPtqZVrTlnSzq4IaEP"
     },
     {
       "added_at": null,
@@ -1105,7 +1105,7 @@
       "artists": [
         {
           "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+          "url": "https://open.spotify.com/artist/50SsG9FB3n7d3fEClXjINT"
         },
         {
           "name": "Arcane",
@@ -1171,6 +1171,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
+      },
+      "artists": [
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 218274,
+      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
+      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Music of League of Legends: Season 5 (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/0AaYIwH5G6w82B8iKOWCCb"
       },
@@ -1183,26 +1199,6 @@
       "duration_ms": 153205,
       "name": "Kindred, the Eternal Hunters (From League of Legends: Season 5)",
       "url": "https://open.spotify.com/track/7ki1GOGTzJGJAvxv6LndoR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Volibear, the Relentless Storm",
-        "url": "https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z"
-      },
-      "artists": [
-        {
-          "name": "League of Legends",
-          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-        },
-        {
-          "name": "Einar Selvik",
-          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "Volibear, the Relentless Storm",
-      "url": "https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by"
     },
     {
       "added_at": null,
@@ -1231,18 +1227,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Music of League of Legends: Season 9 (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3cYnSSnBe1akJwxv64PHOg"
+        "name": "Volibear, the Relentless Storm",
+        "url": "https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z"
       },
       "artists": [
         {
           "name": "League of Legends",
           "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "Einar Selvik",
+          "url": "https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5"
         }
       ],
-      "duration_ms": 218274,
-      "name": "Pantheon, the Unbreakable Spear (From League of Legends: Season 9)",
-      "url": "https://open.spotify.com/track/2WuZNdPwSKkGCTKapd3GhG"
+      "duration_ms": 198400,
+      "name": "Volibear, the Relentless Storm",
+      "url": "https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by"
     },
     {
       "added_at": null,

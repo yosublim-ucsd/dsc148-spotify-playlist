@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
@@ -1138,7 +1138,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -7996,7 +7996,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 162106,
       "name": "Faint",
       "url": "https://open.spotify.com/track/4Yf5bqU3NK4kNOypcrLYwU"
@@ -12646,7 +12646,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -13414,7 +13414,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 177600,
       "name": "KICKIN\u2019 DOORS",
       "url": "https://open.spotify.com/track/0Fdlt45ZC5yioKm90ERE86"
@@ -16770,7 +16770,7 @@
       ],
       "date_added": "2024-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 159000,
       "name": "MONA LISA",
       "url": "https://open.spotify.com/track/7ohN6rdDFsiuXFONB2ooA8"
@@ -18050,7 +18050,7 @@
       ],
       "date_added": "2024-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 183266,
       "name": "Nechte vlajky vl\u00e1t - Radio Edit",
       "url": "https://open.spotify.com/track/6TCtOAmBYHrWbmgk7OjmLU"
@@ -19058,7 +19058,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -19852,7 +19852,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 159000,
       "name": "OK",
       "url": "https://open.spotify.com/track/3PFhO7ahhY7IX1cBo0KcO7"
@@ -24514,7 +24514,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 190173,
       "name": "Sm\u011bj se te\u010f",
       "url": "https://open.spotify.com/track/6jRFRjOhfwoZTfnEo6gr6g"
@@ -24884,7 +24884,7 @@
       ],
       "date_added": "2024-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 172945,
       "name": "space",
       "url": "https://open.spotify.com/track/1mEfToy1yYaTkCOmCp2VH8"
@@ -25928,7 +25928,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 256720,
       "name": "Svaz \u010desk\u00fdch boh\u00e9m\u016f",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -30038,7 +30038,7 @@
       ],
       "date_added": "2024-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-08",
+      "date_removed": null,
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -30838,6 +30838,24 @@
       "duration_ms": 205352,
       "name": "Zachr\u00e1\u0148 moju du\u0161u",
       "url": "https://open.spotify.com/track/2Sn77SmatEM9xT0bWDhQho"
+    },
+    {
+      "album": {
+        "name": "Den",
+        "url": "https://open.spotify.com/album/1eGZdhoffHRvcuHe7zDxt8"
+      },
+      "artists": [
+        {
+          "name": "Michal Hruza",
+          "url": "https://open.spotify.com/artist/45cn3uxPoAJziGsZHckNeF"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217426,
+      "name": "Zakazane uvolneni",
+      "url": "https://open.spotify.com/track/7wpbqcl0cxxGN8WNYz64Wr"
     },
     {
       "album": {

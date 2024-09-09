@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 13 hr 52 min
+186 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Rhumbop](https://open.spotify.com/track/57fuO8tpebdrqp6W4yvMnn) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [La chanson de Duke](https://open.spotify.com/album/4pB2XrkdIbhDBkIoApn5pk) | 2:12 | 2022-09-08 |  |
 | [Rhythm Pum Te Dum, Pt\. 1 \- Chorus](https://open.spotify.com/track/5VJSgpKSJyFXX2AGLI45nL) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [A Drum Is a Woman](https://open.spotify.com/album/1L06BMH0kRrUQX93Vv3xck) | 2:56 | 2022-09-08 |  |
 | [Rock Skippin'](https://open.spotify.com/track/1Q5UwFeo1DwCz2GelI5U6L) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr) | [Concierto \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/7N3ZysMrLSuJAtPPCjCba0) | 6:10 | 2022-09-08 |  |
-| [Satin Doll \(Bossa Version\)](https://open.spotify.com/track/4OBJYZH6LOphWj6HAY9xNl) | [Maria Augusta](https://open.spotify.com/artist/5nfHJzpqgnoQKC4tlczmDN) | [Relaxing Bossa Lounge 2](https://open.spotify.com/album/3kdFfd43mViwrYO6G1y04X) | 2:11 | 2022-09-08 |  |
+| [Satin Doll](https://open.spotify.com/track/02E4skBHp6ZyoEDgXHcQgu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Jazz Profile: Duke Ellington](https://open.spotify.com/album/0mYLoXVGdPxS2j3rrvpLl3) | 2:59 | 2024-09-08 |  |
+| [Satin Doll \(Bossa Version\)](https://open.spotify.com/track/4OBJYZH6LOphWj6HAY9xNl) | [Maria Augusta](https://open.spotify.com/artist/5nfHJzpqgnoQKC4tlczmDN) | [Relaxing Bossa Lounge 2](https://open.spotify.com/album/3kdFfd43mViwrYO6G1y04X) | 2:11 | 2022-09-08 | 2024-09-09 |
 | [Smada](https://open.spotify.com/track/7Dmlki6DmsfeSADhrcNsI8) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Blues In Orbit](https://open.spotify.com/album/5nifIOxB4n4XLxgJDqGJUG) | 2:36 | 2022-09-08 |  |
 | [Snibor](https://open.spotify.com/track/2F0rgoXIb1xx7tTWZBS3Cu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 4:19 | 2022-09-08 |  |
 | [Something To Live For](https://open.spotify.com/track/6vztWp5jzOaYM9HaCaZWvO) | [Carmen McRae](https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj) | [By Special Request](https://open.spotify.com/album/5mRJwyqRM2bhb6VxiESoK0) | 3:11 | 2023-05-18 |  |

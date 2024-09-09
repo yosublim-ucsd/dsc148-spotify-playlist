@@ -1,12 +1,12 @@
 {
-  "description": "This is Los Primos del Este. The essential tracks, all in one playlist.",
-  "num_followers": 5904,
+  "description": "This Is Los Primos del Este. Los temas esenciales, todos en una lista.",
+  "num_followers": 5916,
   "original_name": "This Is Los Primos del Este",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAABZIFUhflUD0gjrZA5oj5xW",
+  "snapshot_id": "ZtuXgAAAAACocl+4SXRXup7CFmqmi56B",
   "tracks": [
     {
       "added_at": null,
@@ -651,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Viene Diciembre",
+        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 186394,
+      "name": "Viene Diciembre",
+      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -671,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Viene Diciembre",
-        "url": "https://open.spotify.com/album/1Zz5n6oK5aZeppY5Xbj0ha"
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
       },
       "artists": [
         {
@@ -680,9 +696,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 186394,
-      "name": "Viene Diciembre",
-      "url": "https://open.spotify.com/track/0MI3ecobuZBu2u2jwTuNCJ"
+      "duration_ms": 176359,
+      "name": "Solita Bailando",
+      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,
@@ -699,22 +715,6 @@
       "duration_ms": 145471,
       "name": "Voy por Ti",
       "url": "https://open.spotify.com/track/3I1tNfqL3WPcgplnk42zTs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 176359,
-      "name": "Solita Bailando",
-      "url": "https://open.spotify.com/track/5heDv0socwkLa4lAiNar0H"
     },
     {
       "added_at": null,
@@ -759,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 200250,
-      "name": "Yaki",
-      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ferragamo",
         "url": "https://open.spotify.com/album/43PMWOGzoTvgIMwpgObIbb"
       },
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Acceso",
-        "url": "https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ"
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/3pOMb8OH5tIUzodFNw09fw"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 254827,
-      "name": "Acceso",
-      "url": "https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB"
+      "duration_ms": 200250,
+      "name": "Yaki",
+      "url": "https://open.spotify.com/track/3oeo3KicNbMxNhQ48lSOad"
     },
     {
       "added_at": null,
@@ -823,6 +807,38 @@
       "duration_ms": 202197,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Acceso",
+        "url": "https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 254827,
+      "name": "Acceso",
+      "url": "https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 152630,
+      "name": "El Momento",
+      "url": "https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia"
     },
     {
       "added_at": null,
@@ -852,9 +868,9 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         }
       ],
-      "duration_ms": 152630,
-      "name": "El Momento",
-      "url": "https://open.spotify.com/track/7JMpf7Q4ROsTPCzMjHFDia"
+      "duration_ms": 146685,
+      "name": "De Fiesta",
+      "url": "https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN"
     },
     {
       "added_at": null,
@@ -875,22 +891,6 @@
       "duration_ms": 201901,
       "name": "Toxicuh",
       "url": "https://open.spotify.com/track/1PV85zmIhRwnW1oC0zNFDs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 146685,
-      "name": "De Fiesta",
-      "url": "https://open.spotify.com/track/6gJ9U41dEMVu8EaWNvJrlN"
     }
   ],
   "unique_name": "This Is Los Primos del Este",

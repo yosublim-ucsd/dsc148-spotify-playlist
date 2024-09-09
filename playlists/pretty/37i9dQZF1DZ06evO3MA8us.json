@@ -1,12 +1,12 @@
 {
-  "description": "This is Passion. The essential tracks, all in one playlist.",
-  "num_followers": 33755,
+  "description": "This Is Passion. Los temas esenciales, todos en una lista.",
+  "num_followers": 33756,
   "original_name": "This Is Passion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAByVL4nFzYMruF+H3WyA5wP",
+  "snapshot_id": "ZtuXgAAAAAAdzpncgh/dSfEAzqLMR6jq",
   "tracks": [
     {
       "added_at": null,
@@ -1043,8 +1043,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Worthy Of Your Name (Live)",
-        "url": "https://open.spotify.com/album/3rUt1I70rJMfDWpbLwi7sK"
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
       "artists": [
         {
@@ -1052,13 +1052,13 @@
           "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
         },
         {
-          "name": "Sean Curran",
-          "url": "https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c"
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
         }
       ],
-      "duration_ms": 420826,
-      "name": "Worthy Of Your Name - Live",
-      "url": "https://open.spotify.com/track/1hQEZ8Bm6cXO1mZ7fXZqkU"
+      "duration_ms": 258872,
+      "name": "Bendizei ao Senhor",
+      "url": "https://open.spotify.com/track/5R7O5g2NRfj4IcnRToWeb4"
     }
   ],
   "unique_name": "This Is Passion",

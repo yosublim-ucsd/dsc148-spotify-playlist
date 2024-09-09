@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Don Toliver
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,070,998 likes - 110 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,071,263 likes - 110 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

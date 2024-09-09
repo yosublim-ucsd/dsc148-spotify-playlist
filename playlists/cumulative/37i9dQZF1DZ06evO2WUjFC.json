@@ -245,6 +245,24 @@
     },
     {
       "album": {
+        "name": "amorlove",
+        "url": "https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Felix",
+          "url": "https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "cruel mujer",
+      "url": "https://open.spotify.com/track/1QO6U7ER10mwMOWDW6lvvi"
+    },
+    {
+      "album": {
         "name": "No Te Awuites Solo Son Unos Dop3kidz$",
         "url": "https://open.spotify.com/album/4Mmh5kRGsbQPyRBC5B4GHH"
       },
@@ -500,7 +518,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 286032,
       "name": "El Caballero (Live)",
       "url": "https://open.spotify.com/track/5NW8DCHsFtv1BeV03FTAgT"
@@ -536,7 +554,7 @@
       ],
       "date_added": "2024-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-04",
+      "date_removed": null,
       "duration_ms": 294742,
       "name": "El Lunar (Live)",
       "url": "https://open.spotify.com/track/1fNRW0SWOuknGBp2y6cQhs"
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 194626,
       "name": "SALUDOS A MI VIEJ\u00d3N",
       "url": "https://open.spotify.com/track/4knDhZzmW9BGEZ9WkbUuYR"

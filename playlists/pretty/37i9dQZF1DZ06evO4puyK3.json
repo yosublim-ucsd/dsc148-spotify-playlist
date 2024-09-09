@@ -1,12 +1,12 @@
 {
-  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
-  "num_followers": 160916,
+  "description": "This is Gloria Groove. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 160933,
   "original_name": "This Is Gloria Groove",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAACHTROZExLlsHsNv1GPpEeF",
+  "snapshot_id": "ZtuXgAAAAACAXO7C4X1Lgmjv8vaM9mAN",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arrasta",
+        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Leo Santana",
+          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Arrasta",
+      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FUTURO FLUXO",
         "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 183206,
       "name": "AO SOM DO TUIM",
       "url": "https://open.spotify.com/track/4hpT0bP4YI71vGQN51ikMz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Arrasta",
-        "url": "https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Leo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Arrasta",
-      "url": "https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beijo De Judas",
-        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
-      },
-      "artists": [
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 187311,
-      "name": "Rol\u00ea",
-      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "S\u00f3 o Amor",
         "url": "https://open.spotify.com/album/2gZUcyRw3gKqRGuFdY2deZ"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 178105,
       "name": "S\u00f3 o Amor",
       "url": "https://open.spotify.com/track/3lXeWqRVz2NctBJL5kW00Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beijo De Judas",
+        "url": "https://open.spotify.com/album/1xX3pKCNf3ZQ1gmaXKu0Zd"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 187311,
+      "name": "Rol\u00ea",
+      "url": "https://open.spotify.com/track/0qgqALtsDFdyTdXXNHyw5q"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NOITE DE CA\u00c7A",
-        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 158571,
-      "name": "NOITE DE CA\u00c7A",
-      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meu Anjo",
         "url": "https://open.spotify.com/album/64RCamPMW0E89XEV81ExhZ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 249187,
       "name": "Meu Anjo",
       "url": "https://open.spotify.com/track/55hdt9atyabpR1isrVW0H7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NOITE DE CA\u00c7A",
+        "url": "https://open.spotify.com/album/4BpC89Hz3YwISnrcYBfWbH"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 158571,
+      "name": "NOITE DE CA\u00c7A",
+      "url": "https://open.spotify.com/track/3vNEwUDgq46FPGk7xVhwTx"
     },
     {
       "added_at": null,

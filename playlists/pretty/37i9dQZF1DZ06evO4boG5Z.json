@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 28036,
+  "num_followers": 28041,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtpGAAAAAAAIM2V6wHFlDdGxqKYG3MAZ",
+  "snapshot_id": "ZtuXgAAAAADA6sR0nR2M3s81WVAKY2n+",
   "tracks": [
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 153466,
-      "name": "The Story Of My Life",
-      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
+      "duration_ms": 126893,
+      "name": "Vulcan Ears",
+      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 126893,
-      "name": "Vulcan Ears",
-      "url": "https://open.spotify.com/track/5N3LmVCqLneS7NkmDwozXZ"
+      "duration_ms": 153466,
+      "name": "The Story Of My Life",
+      "url": "https://open.spotify.com/track/1Vt1I7Y29T6ObxjE55VDf4"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Monkeys",
-        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 165240,
-      "name": "Trendy Winds",
-      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 119946,
       "name": "Autopilot Mode",
       "url": "https://open.spotify.com/track/14ct5CdYOAHOeLqFRCWyCk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Monkeys",
+        "url": "https://open.spotify.com/album/3J7l2zrhkK3OxqxPpLcYxE"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 165240,
+      "name": "Trendy Winds",
+      "url": "https://open.spotify.com/track/6kwi6M2MlASB67LlmIcPrP"
     },
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 166093,
+      "name": "For Yesterday",
+      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home From Home",
-        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Greener Grass",
-      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "True Brew",
         "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Home From Home",
+        "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Greener Grass",
+      "url": "https://open.spotify.com/track/4m2IM9lmxgXWOyKeWsACkU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 166093,
-      "name": "For Yesterday",
-      "url": "https://open.spotify.com/track/4jowQJcMByoFpLgW9E12mU"
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
     },
     {
       "added_at": null,

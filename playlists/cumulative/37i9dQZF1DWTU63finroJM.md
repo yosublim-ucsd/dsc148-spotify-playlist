@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: The Warning.
 
-1,620 songs - 3 day 16 hr 23 min
+1,621 songs - 3 day 16 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -611,6 +611,7 @@
 | [I Don't Like You](https://open.spotify.com/track/5zIsO3PnxBHJiqrj0SXSRw) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [I Don’t Like You](https://open.spotify.com/album/4iXhsJijt5SxkXknZJHP8t) | 2:31 | 2023-05-04 | 2023-11-18 |
 | [i don't lose sleep anymore](https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [i don't lose sleep anymore](https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq) | 3:15 | 2023-09-01 | 2023-12-16 |
 | [I Feel It](https://open.spotify.com/track/5jcq5jDLVBajTY7bYTiiLx) | [Hannes](https://open.spotify.com/artist/5bWgLmSpWnixX3inugtAVY) | [When the City Sleeps](https://open.spotify.com/album/7LlmJ1aH2FGj9nEh0xPIF2) | 3:36 | 2022-06-29 | 2022-08-02 |
+| [I Hate The Sun](https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [I Hate The Sun](https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx) | 3:22 | 2024-09-06 |  |
 | [i hate u](https://open.spotify.com/track/1SMS6ig5qiNbjYfm3du2rM) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [i hate u](https://open.spotify.com/album/34CBGNvwe29SICNBKEXhzI) | 2:49 | 2022-06-03 | 2023-05-09 |
 | [I Know](https://open.spotify.com/track/6Pf224HDEoj3VJYJHLXVcT) | [Jean Seizure](https://open.spotify.com/artist/2XI2CpdL1MtHXIt0rxa7mS) | [I Know](https://open.spotify.com/album/7KgqCgEl6eqy7to8gAvDij) | 2:58 | 2022-03-24 | 2023-04-18 |
 | [I Love You](https://open.spotify.com/track/0eVBnUk6ds8A1ZkQHHxMZp) | [Showmaîn](https://open.spotify.com/artist/3Z0hrO5NvALfcVK5hk79CJ), [斑恩Ben](https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ) | [I Love You](https://open.spotify.com/album/2S8MJgR4qyqqnEyN1Bd36L) | 2:38 | 2024-05-10 | 2024-05-18 |
@@ -1231,7 +1232,7 @@
 | [Sukoon](https://open.spotify.com/track/1WXLlS4NR1Fzg44gF54ESK) | [gini](https://open.spotify.com/artist/2sjFmfxifbUo2A25xuQOp0) | [Sukoon](https://open.spotify.com/album/47WoZdif6vZZqDdgWCG4A1) | 3:06 | 2024-07-26 |  |
 | [summer crush](https://open.spotify.com/track/0GUxRbOBtelFeczRQkxV8H) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [summer crush](https://open.spotify.com/album/3n3lD5n17i22aNgorZgeLM) | 2:56 | 2024-08-16 |  |
 | [Summer Night](https://open.spotify.com/track/7k7wieI5FG61ZARVV5OT7z) | [Xuân Nghi](https://open.spotify.com/artist/09TbfG9329V26zqpb7IQT5) | [Summer Night](https://open.spotify.com/album/5Cskl93giLfcuwEJzKlvFw) | 2:51 | 2022-02-10 | 2022-08-02 |
-| [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 | 2024-08-16 |  |
+| [Summer Night Rock](https://open.spotify.com/track/4kH5ecTAKSjyK3hKBKpZiP) | [OJ Reambillo](https://open.spotify.com/artist/7zS274KksKzIjjLd6fpAu4) | [Summer Night Rock](https://open.spotify.com/album/667ABOBs4DiQmG5FHMRhZu) | 2:32 | 2024-08-16 | 2024-09-09 |
 | [Super Ball](https://open.spotify.com/track/6CBqqocRx76YtdMvGqD2HZ) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Two Moon](https://open.spotify.com/album/4nyNnOXb8GtIei89Y88HWa) | 3:23 | 2023-12-07 | 2024-04-19 |
 | [Supernova](https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF) | [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Supernova](https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR) | 3:10 | 2023-05-08 | 2024-01-13 |
 | [Sweat](https://open.spotify.com/track/3wdbGER9TIbNeCXfOD2CTr) | [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N) | [Sweat](https://open.spotify.com/album/5vBlJU3wNcLv9Pobuzk988) | 2:00 | 2024-05-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Dirty Doering
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,997 likes - 90 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,181 likes - 90 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 3 | [Save My Soul](https://open.spotify.com/track/0FAlTV2xvP1WgfKCXQ8o53) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Save My Soul](https://open.spotify.com/album/13jwc3YVFFMgTzotfBv674) | 3:04 |
 | 4 | [Red](https://open.spotify.com/track/7tPnROivV5HhWJgg1e4a52) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Red](https://open.spotify.com/album/0E9Qg0Z3t4hADu3Pk1AGLw) | 3:46 |
 | 5 | [Entertain Us](https://open.spotify.com/track/1cOMGFQ6hMy0Eo97k6elcz) | [Mano Le Tough](https://open.spotify.com/artist/04KmByEP6icXVY0PvJaMMp), [Perel](https://open.spotify.com/artist/5cmqnZNaNDqgcsTOkQUmqB) | [Entertain Us](https://open.spotify.com/album/1mdnKroiqVM3icONIuw6xR) | 5:58 |
-| 6 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Tony Duardo](https://open.spotify.com/artist/6qF0eiWwQF073J1MuVFs5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
+| 6 | [Tanzania \- Rampa Remix](https://open.spotify.com/track/0S4v8Xpbv2qCeYzhVnhULh) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Tanzania \(Rampa Remix\)](https://open.spotify.com/album/17X1yha8lkmFmVBuBTIoUP) | 3:55 |
 | 7 | [LOLA](https://open.spotify.com/track/4iakaMA0WXnJF0HYTkJcQv) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [LOLA](https://open.spotify.com/album/3Z522Z8anS4z8bNsLOEq1T) | 3:08 |
 | 8 | [Phoenix](https://open.spotify.com/track/18uUBbcLm3UyVxo043XJy7) | [Nothing But Love](https://open.spotify.com/artist/1N4SUC9nnMp0hpkFVzIm5O) | [Phoenix](https://open.spotify.com/album/0ZLtxICq4zUBuIyQ9h7j6B) | 6:00 |
 | 9 | [Closer \(feat\. Biishop\)](https://open.spotify.com/track/3pScJqnbEt2M4UwwgxhgaS) | [Von Boch](https://open.spotify.com/artist/7cR62TCmcorAdyny40NsP0), [Biishop](https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF) | [Closer \(feat\. Biishop\)](https://open.spotify.com/album/1LnoDz0b3v2PsfvEBBXYrs) | 6:04 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 52 | [The Hum](https://open.spotify.com/track/1XuMCdBmSjryBmeuv4oJMM) | [Senses Of Mind](https://open.spotify.com/artist/16b4eMQQn3vaRpMvSOIXHC) | [No Tomorrow, Pt\. I](https://open.spotify.com/album/6FCrfHHO3AEULE8bocoucA) | 4:20 |
 | 53 | [I Got It For You](https://open.spotify.com/track/301oJIHAvyWrm7G6iVQdgM) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [I Got It For You](https://open.spotify.com/album/48OqGn9GnSmXUTcg5EXzi5) | 3:34 |
 | 54 | [All I Want \- Jacob Groening Remix](https://open.spotify.com/track/1m2SNvN5KCLGDazRgg8qDI) | [PAAX \(Tulum\)](https://open.spotify.com/artist/44f1ZKVW8Zh13oCOGGTiFd), [Jacob Groening](https://open.spotify.com/artist/4Mlxc3DHm3Qr5XTaEXHT6f) | [All I Want \- Jacob Groening Remix](https://open.spotify.com/album/2L89lp4wxUkT8gI2TkcvWk) | 5:44 |
-| 55 | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA), [Weston Loney](https://open.spotify.com/artist/2anBrRkmgVsliBqN2S9sRt) | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E) | 5:03 |
+| 55 | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/track/5hn6Px9PrUng5RGZEVFVlb) | [Klangphonics](https://open.spotify.com/artist/0UoXOPQo2BAZ3pSfkt5XZA) | [Nighttime Feeling \(Weekend Love\)](https://open.spotify.com/album/3q61TPn9Xi9X055hoNHZ1E) | 5:03 |
 | 56 | [My Focus Is You](https://open.spotify.com/track/7KsKTN00VKMnWyi6vtiOKe) | [Denis Bravo](https://open.spotify.com/artist/2Bg8nAES4HGifHi8ONfMLy) | [My Focus Is You](https://open.spotify.com/album/3b1xrmSLEafQCFmdmE485p) | 4:18 |
 | 57 | [Duality](https://open.spotify.com/track/0eID6IRWqbTK2kGRzNjiKJ) | [Peer Kusiv](https://open.spotify.com/artist/0yTV2etph4xN8PXPLPeEG5), [Rauschhaus](https://open.spotify.com/artist/5Mxbf9xF3V5bIL5l0xHdzM) | [Duality](https://open.spotify.com/album/37srMdahD77GtgI8EX1n8H) | 5:21 |
 | 58 | [Come Too Far \- Monkey Safari Remix](https://open.spotify.com/track/6wpSSGQovsGLupulf82e3c) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Paul Brenning](https://open.spotify.com/artist/4LJbPEKdCcfzE1x0GhUnL6), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [TWINSOUL \(Deluxe\)](https://open.spotify.com/album/0Lsx1gUIn5IY4d6nTF5xEs) | 3:36 |

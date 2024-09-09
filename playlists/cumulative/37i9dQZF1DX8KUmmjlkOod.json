@@ -139,6 +139,24 @@
     },
     {
       "album": {
+        "name": "Lo Mejor de Vilma Palma",
+        "url": "https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi"
+      },
+      "artists": [
+        {
+          "name": "Vilma Palma e Vampiros",
+          "url": "https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq"
+        }
+      ],
+      "date_added": "2024-06-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306000,
+      "name": "Auto rojo",
+      "url": "https://open.spotify.com/track/0TGi4ML897zq1qDcAheMIY"
+    },
+    {
+      "album": {
         "name": "La Paciencia De La Ara\u00f1a",
         "url": "https://open.spotify.com/album/7urCdolaxQ3YUQlI8Bhj41"
       },
@@ -204,7 +222,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 349506,
       "name": "Bye bye",
       "url": "https://open.spotify.com/track/2mBpqtoVKLzgccfvqUVFpO"
@@ -296,7 +314,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 284413,
-      "name": "Coraz\u00f3n - Remasterized 2001",
+      "name": "Coraz\u00f3n - Remastered 2001",
       "url": "https://open.spotify.com/track/6SyQSl0pIpARrRDSvet4sN"
     },
     {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\. Cover: <a href="spotify:artist:47opbYEKDjXnRk9uLscp11">Yolanda Adams</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,257 likes - 100 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,337 likes - 100 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

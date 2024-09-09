@@ -2970,7 +2970,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 184074,
       "name": "Amor Fugaz",
       "url": "https://open.spotify.com/track/21KvzJjEbMwaS6FYYGstkN"
@@ -10526,7 +10526,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 247562,
       "name": "Dejame Pensar",
       "url": "https://open.spotify.com/track/7angXGmzfNd1X1GnGmCEv9"
@@ -13755,6 +13755,24 @@
     },
     {
       "album": {
+        "name": "El Ritmo de Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/05AGaZAGzaTtCjbfHEmCSz"
+      },
+      "artists": [
+        {
+          "name": "Medialuna de Amores",
+          "url": "https://open.spotify.com/artist/4Mn6wG1rphD2xDDUnGI6rw"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143418,
+      "name": "Eres Tu",
+      "url": "https://open.spotify.com/track/56iv7MN0cSDgHF9lliUDPj"
+    },
+    {
+      "album": {
         "name": "Esa Mujercita: JereKlein",
         "url": "https://open.spotify.com/album/2a5wRXxKjXWK4T8VWsuwQe"
       },
@@ -14836,7 +14854,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-09",
       "duration_ms": 214214,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
@@ -21332,7 +21350,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 203120,
       "name": "La Tirana",
       "url": "https://open.spotify.com/track/7iKRhtTI1Caq67NaMNdi0b"
@@ -37178,6 +37196,24 @@
       "duration_ms": 191573,
       "name": "Si Te La Encuentras Por Ah\u00ed",
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "album": {
+        "name": "El Amor en 48 Compases",
+        "url": "https://open.spotify.com/album/3kQGuwvT1Hdy508DLXGVsQ"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2024-09-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146854,
+      "name": "Si Tu Me Amaras",
+      "url": "https://open.spotify.com/track/10u4VWraLZ11bJ0uFMp9Lk"
     },
     {
       "album": {

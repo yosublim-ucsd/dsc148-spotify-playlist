@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-235 songs - 13 hr 12 min
+236 songs - 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [For Her \(feat\. Kim Dae Hyeok\)](https://open.spotify.com/track/1JeyvQnYfR7otuxrWKkhEC) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [Kim Dae Hyeok 김대혁](https://open.spotify.com/artist/5Idmwqf7qWP3IBo3ayAgmG) | [For Her](https://open.spotify.com/album/1nSHlzM1eHfjBKzYn5jC3R) | 3:03 | 2022-05-11 | 2022-07-27 |
 | [Fresh](https://open.spotify.com/track/3D9f7Y6sFAAhlujvs3lDc2) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Fresh](https://open.spotify.com/album/5Yr1LYAYT20wcjiKNYttDs) | 2:58 | 2022-07-04 | 2024-01-31 |
 | [FRIEND THE END](https://open.spotify.com/track/1TN8defSgxLPMwtzN7gUbb) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Love.zip](https://open.spotify.com/album/7w8ZawyWoLyuDr4XRJSsnX) | 3:08 | 2024-03-08 |  |
+| [Friends to lovers](https://open.spotify.com/track/3HZED9hRRo6OwCiFHPtiS4) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [Friends to lovers](https://open.spotify.com/album/6LyqBkl3PbTOKWcflwXOli) | 4:01 | 2024-09-02 |  |
 | [Friendzone \(feat\. BIG Naughty\)](https://open.spotify.com/track/2rX3swM25DhNwg7mTjnzbG) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Friendzone](https://open.spotify.com/album/4WLwRi2w6XzOnCQfupjl2Q) | 3:42 | 2022-11-03 | 2022-11-23 |
 | [From The Heart](https://open.spotify.com/track/0qdxUN4EevIeK1KuKT0JWa) | [UmYull](https://open.spotify.com/artist/1tzfeTq8ILjds06XDsB7S8) | [From The Heart](https://open.spotify.com/album/5lBFCPfdF95rRFLWMbrs3N) | 3:32 | 2022-06-20 | 2022-06-25 |
 | [Full of You](https://open.spotify.com/track/0VSh0IcBr84KLQiSqTwpDH) | [HAE YOON \(Cherry Bullet\)](https://open.spotify.com/artist/0ceAcBBCbrST7xKlPzcg6h) | [The King's Affection OST Part.6](https://open.spotify.com/album/1KVynTSbGiMYJCZFAsU80U) | 3:16 | 2022-05-11 | 2022-12-25 |
@@ -98,7 +99,7 @@
 | [I wonder](https://open.spotify.com/track/0P0VXGVjj3TNoXMyWWSsuK) | [Hello Fox](https://open.spotify.com/artist/5F7gjj7mqSIPMv7hbaAQVd) | [I wonder](https://open.spotify.com/album/4S7Cchlit8FEWzt0a0qrDe) | 2:57 | 2022-07-04 | 2022-07-29 |
 | [I'II be your star](https://open.spotify.com/track/0l9LpCsYufB1e5PJSvOXbU) | [So Soo Bin](https://open.spotify.com/artist/5ghNwcHNesKq0Q3zfK39ic) | [A\-TEEN Part\. 2](https://open.spotify.com/album/0vRTiHetZUMy6HGswfv73J) | 3:24 | 2024-03-08 |  |
 | [I'm busy](https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [I'm busy](https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K) | 3:21 | 2022-05-11 | 2022-06-30 |
-| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 |  |
+| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 | 2024-09-09 |
 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 | 2022-05-11 | 2022-07-21 |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-11 | 2024-03-09 |
 | [INFJ \(Feat\. B.I, BANG YEDAM\)](https://open.spotify.com/track/77GfQKz4WzULTEoLL286cT) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X) | [Dingo X BIG Naughty](https://open.spotify.com/album/1bksL87asiBGZYwVyGR3kp) | 3:29 | 2024-01-08 | 2024-03-09 |

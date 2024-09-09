@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92182,
+  "num_followers": 92181,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "About A Woman",
+        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 210891,
+      "name": "Somethin' 'Bout A Woman",
+      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
         "url": "https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 194760,
       "name": "Afloat",
       "url": "https://open.spotify.com/track/3qBYQW80LWrls8EuM6DEK0"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "About A Woman",
-        "url": "https://open.spotify.com/album/6tDerbhPTlX8pa0hyRStZG"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 210891,
-      "name": "Somethin' 'Bout A Woman",
-      "url": "https://open.spotify.com/track/4ehCVk8StZrXolPSeFs5Ss"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Sally/Hungry Eyes",
-        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
-      },
-      "artists": [
-        {
-          "name": "June Vide",
-          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
-        }
-      ],
-      "duration_ms": 207300,
-      "name": "Sally/Hungry Eyes",
-      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Living Comes With Dying",
         "url": "https://open.spotify.com/album/4tLhCnqjK4XknQq1kpkDpb"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 288155,
       "name": "Fri till slut - Spotify Singles",
       "url": "https://open.spotify.com/track/0LqMjug9C2LLSxsLfco0tg"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Sally/Hungry Eyes",
+        "url": "https://open.spotify.com/album/4s7h1Ew5dA1ofYiSQ2XPFQ"
+      },
+      "artists": [
+        {
+          "name": "June Vide",
+          "url": "https://open.spotify.com/artist/20armtjDqM2eubNGx6P6p1"
+        }
+      ],
+      "duration_ms": 207300,
+      "name": "Sally/Hungry Eyes",
+      "url": "https://open.spotify.com/track/2eyNZz8rxzDg2SScNaO4NQ"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -911,22 +895,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "\u00c4nglarna",
-        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
-      },
-      "artists": [
-        {
-          "name": "Jonas Lundqvist",
-          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
-        }
-      ],
-      "duration_ms": 220333,
-      "name": "\u00c4nglarna",
-      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "You",
         "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
       },
@@ -939,6 +907,38 @@
       "duration_ms": 224402,
       "name": "You",
       "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "\u00c4nglarna",
+        "url": "https://open.spotify.com/album/0l0GsGyhoZn8yCgmXOVbhR"
+      },
+      "artists": [
+        {
+          "name": "Jonas Lundqvist",
+          "url": "https://open.spotify.com/artist/5zGcn4MRRQ6nB88eyh9TX7"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "\u00c4nglarna",
+      "url": "https://open.spotify.com/track/7qCwaoYuUaHx31b6HbpEI5"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
+      },
+      "artists": [
+        {
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+        }
+      ],
+      "duration_ms": 206626,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Ingen s\u00e5 n\u00e4ra inp\u00e5",
         "url": "https://open.spotify.com/album/2rNpEKVQCXNsbIFqMqNzcP"
       },
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
+        "name": "COWBOY",
+        "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
       },
       "artists": [
         {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
+          "name": "Erika Jonsson",
+          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
         }
       ],
-      "duration_ms": 206626,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
+      "duration_ms": 203381,
+      "name": "COWBOY",
+      "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1115,18 +1131,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "COWBOY",
-        "url": "https://open.spotify.com/album/62OWWogIf1n6gAqTnFus1t"
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
       },
       "artists": [
         {
-          "name": "Erika Jonsson",
-          "url": "https://open.spotify.com/artist/3hmxqVdRQUfpPNDpV5VqLx"
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
         }
       ],
-      "duration_ms": 203381,
-      "name": "COWBOY",
-      "url": "https://open.spotify.com/track/2ojU5QV9f6fU0dn1dZ46PP"
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1143,22 +1159,6 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
-      },
-      "artists": [
-        {
-          "name": "The Boppers",
-          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "En k\u00e4rlek sj\u00e4lv",
+        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
+      },
+      "artists": [
+        {
+          "name": "Henning",
+          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
+        }
+      ],
+      "duration_ms": 237706,
+      "name": "En k\u00e4rlek sj\u00e4lv",
+      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "En bruten fj\u00e4der",
         "url": "https://open.spotify.com/album/7oMPbICTtq9EBUNC4m0Ojj"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 245986,
       "name": "En bruten fj\u00e4der",
       "url": "https://open.spotify.com/track/4zFNhMW1uLHqc2cHM2kfQH"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "En k\u00e4rlek sj\u00e4lv",
-        "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
-      },
-      "artists": [
-        {
-          "name": "Henning",
-          "url": "https://open.spotify.com/artist/16kHhnNjrKvtN546nBTWxn"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "En k\u00e4rlek sj\u00e4lv",
-      "url": "https://open.spotify.com/track/3aWcZVk42PEGi5bOzU8dBJ"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "I Had Some Help",
         "url": "https://open.spotify.com/album/0R3ZYHphV3n1PZTc7GKYSo"
       },
@@ -1319,42 +1299,6 @@
       "duration_ms": 176776,
       "name": "I Had Some Help",
       "url": "https://open.spotify.com/track/1exJmqcLsoq5h7RHDRzljm"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "John Denver",
-        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
-      },
-      "artists": [
-        {
-          "name": "A Choir of Ghosts",
-          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
-        },
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "John Denver",
-      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Sommarens famn",
-        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 174631,
-      "name": "Sommarens famn",
-      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1379,6 +1323,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Sommarens famn",
+        "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
+      },
+      "artists": [
+        {
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
+        }
+      ],
+      "duration_ms": 174631,
+      "name": "Sommarens famn",
+      "url": "https://open.spotify.com/track/5xLNxhh0HZ1KrV0fV4A27u"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Tillbaka i Brunnsvik",
         "url": "https://open.spotify.com/album/6OWlwPVDf8HUyi9upjrDdc"
       },
@@ -1391,6 +1351,62 @@
       "duration_ms": 286200,
       "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
       "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "John Denver",
+        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
+      },
+      "artists": [
+        {
+          "name": "A Choir of Ghosts",
+          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
+        },
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "John Denver",
+      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1427,22 +1443,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Lily Of The Valley",
-        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
-      },
-      "artists": [
-        {
-          "name": "Elin Lanto",
-          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
-        }
-      ],
-      "duration_ms": 189583,
-      "name": "Lily Of The Valley",
-      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Not With You",
         "url": "https://open.spotify.com/album/6C87WyxHXIgupIrGXlY1JJ"
       },
@@ -1455,6 +1455,22 @@
       "duration_ms": 208153,
       "name": "Not With You",
       "url": "https://open.spotify.com/track/5TVRqKHORb3AhjwaLxOqct"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Lily Of The Valley",
+        "url": "https://open.spotify.com/album/7ivEAEyQvcQPzaRGKMbYcY"
+      },
+      "artists": [
+        {
+          "name": "Elin Lanto",
+          "url": "https://open.spotify.com/artist/4sAGoiErI2rWziF96i4eNT"
+        }
+      ],
+      "duration_ms": 189583,
+      "name": "Lily Of The Valley",
+      "url": "https://open.spotify.com/track/39xdvtTXTiWnkkLlJOfqTn"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1475,22 +1491,6 @@
       "duration_ms": 309166,
       "name": "Draw Me Closer 2.0",
       "url": "https://open.spotify.com/track/3bGe284cdgFwa0nMOJ9uQA"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
       "added_at": "2024-09-06 03:00:00",

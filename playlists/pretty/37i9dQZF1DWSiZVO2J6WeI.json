@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 781320,
+  "num_followers": 781445,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "Ztp+QAAAAAC7+caF6qgJ9xF8hjpp6VuN",
   "tracks": [
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Enhance",
-        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
-      },
-      "artists": [
-        {
-          "name": "E\u00f4ne",
-          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
-        }
-      ],
-      "duration_ms": 172732,
-      "name": "Enhance",
-      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
-    },
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 165600,
       "name": "Blissful Breeze",
       "url": "https://open.spotify.com/track/5mEstebX16SCW56WWnEluW"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Enhance",
+        "url": "https://open.spotify.com/album/5OrGR2SQ7hmJeqH5thqCay"
+      },
+      "artists": [
+        {
+          "name": "E\u00f4ne",
+          "url": "https://open.spotify.com/artist/4kZXfTjEmv2pM1m4B5H1I7"
+        }
+      ],
+      "duration_ms": 172732,
+      "name": "Enhance",
+      "url": "https://open.spotify.com/track/6qEnfDbUi83vhDsQ0Fbft1"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Oscillations",
-        "url": "https://open.spotify.com/album/4LfxsshJgvo3qXvUJnSMkU"
-      },
-      "artists": [
-        {
-          "name": "Montbretia",
-          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
-        }
-      ],
-      "duration_ms": 151833,
-      "name": "Oscillations",
-      "url": "https://open.spotify.com/track/3eRCugWpn7FesB0qD5H0FY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Proceso Cerebral",
         "url": "https://open.spotify.com/album/0fs5BVmWalmaTH0WOqeM80"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 181333,
       "name": "Proceso Cerebral",
       "url": "https://open.spotify.com/track/1SPcou7w5nN2U9mYSd4Qdr"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Oscillations",
+        "url": "https://open.spotify.com/album/4LfxsshJgvo3qXvUJnSMkU"
+      },
+      "artists": [
+        {
+          "name": "Montbretia",
+          "url": "https://open.spotify.com/artist/7A9r37hE6RLqltWm7fgZOA"
+        }
+      ],
+      "duration_ms": 151833,
+      "name": "Oscillations",
+      "url": "https://open.spotify.com/track/3eRCugWpn7FesB0qD5H0FY"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Solar Plexus 528 Hz",
-        "url": "https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i"
-      },
-      "artists": [
-        {
-          "name": "Stardust Waves",
-          "url": "https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Solar Plexus 528 Hz",
-      "url": "https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Nights Shining",
         "url": "https://open.spotify.com/album/3qlmZd1suoqPjmJ8P2lUcV"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 198500,
       "name": "Nights Shining",
       "url": "https://open.spotify.com/track/4ntDp0FMEDnTxGF6GlLYiO"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Solar Plexus 528 Hz",
+        "url": "https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i"
+      },
+      "artists": [
+        {
+          "name": "Stardust Waves",
+          "url": "https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Solar Plexus 528 Hz",
+      "url": "https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Wu Wei",
-        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
-      },
-      "artists": [
-        {
-          "name": "De Moi",
-          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
-        }
-      ],
-      "duration_ms": 169382,
-      "name": "Wu Wei",
-      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Skymning",
         "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 154550,
       "name": "Skymning",
       "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Wu Wei",
+        "url": "https://open.spotify.com/album/1YhweHJQeMMAza8FLEtZLW"
+      },
+      "artists": [
+        {
+          "name": "De Moi",
+          "url": "https://open.spotify.com/artist/1DCmbXFQ1MufTW5IZG3etK"
+        }
+      ],
+      "duration_ms": 169382,
+      "name": "Wu Wei",
+      "url": "https://open.spotify.com/track/6EOpjNGn34eXLJASVcUksY"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Natural Aura",
-        "url": "https://open.spotify.com/album/0dkM1RjmZRlMDXCweCa8B0"
-      },
-      "artists": [
-        {
-          "name": "New Dawns",
-          "url": "https://open.spotify.com/artist/5hrLalNIieWvBxqxbj855p"
-        }
-      ],
-      "duration_ms": 142853,
-      "name": "Natural Aura",
-      "url": "https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Violet Waves",
         "url": "https://open.spotify.com/album/6S1gk43rkkEXxGg2SnRcHe"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 206500,
       "name": "Ortu Lunae",
       "url": "https://open.spotify.com/track/5mOfWZHRYAKAjzjZXC1LpD"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Natural Aura",
+        "url": "https://open.spotify.com/album/0dkM1RjmZRlMDXCweCa8B0"
+      },
+      "artists": [
+        {
+          "name": "New Dawns",
+          "url": "https://open.spotify.com/artist/5hrLalNIieWvBxqxbj855p"
+        }
+      ],
+      "duration_ms": 142853,
+      "name": "Natural Aura",
+      "url": "https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Sv\u00e4var Fritt",
-        "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
-      },
-      "artists": [
-        {
-          "name": "Dr\u00f6mlandskap",
-          "url": "https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe"
-        }
-      ],
-      "duration_ms": 184018,
-      "name": "Sv\u00e4var Fritt",
-      "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Clarity Frequency",
         "url": "https://open.spotify.com/album/3ycZzgIgovCY0ToGeEPAcq"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 152318,
       "name": "Eternal Frequencies",
       "url": "https://open.spotify.com/track/283vPj5Pzt9VE8FkU4CvcG"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Sv\u00e4var Fritt",
+        "url": "https://open.spotify.com/album/66t57sgwrX5Nz1gAtsvIfu"
+      },
+      "artists": [
+        {
+          "name": "Dr\u00f6mlandskap",
+          "url": "https://open.spotify.com/artist/02S4ky4seZriPGxQ2JWQqe"
+        }
+      ],
+      "duration_ms": 184018,
+      "name": "Sv\u00e4var Fritt",
+      "url": "https://open.spotify.com/track/659cjc6eOg0WCNDaQR4M2v"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Lunar",
-        "url": "https://open.spotify.com/album/2ojZqGU6hHCdc1WEmx4bX0"
-      },
-      "artists": [
-        {
-          "name": "Waves Of Wonder",
-          "url": "https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Lunar",
-      "url": "https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Djupet",
         "url": "https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 159250,
       "name": "Stargaze",
       "url": "https://open.spotify.com/track/4lMmoawRGvO419cZgRP9mV"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Lunar",
+        "url": "https://open.spotify.com/album/2ojZqGU6hHCdc1WEmx4bX0"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Wonder",
+          "url": "https://open.spotify.com/artist/57lCW38CVKbL9zWSy7Ewpn"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Lunar",
+      "url": "https://open.spotify.com/track/2ipmQj07vBI3KoVdQbo8YQ"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Light for all",
-        "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
-      },
-      "artists": [
-        {
-          "name": "Hello Artemisia!",
-          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
-        }
-      ],
-      "duration_ms": 178148,
-      "name": "Light for all",
-      "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Soulful Solitude",
         "url": "https://open.spotify.com/album/6TVn9amY9rhwaPYKisSE1V"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 156000,
       "name": "Soulful Solitude",
       "url": "https://open.spotify.com/track/7jQjXE5ZsOpzeY8lhP8oQA"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Light for all",
+        "url": "https://open.spotify.com/album/2sEotHpaJFB3BhhRjHZmBX"
+      },
+      "artists": [
+        {
+          "name": "Hello Artemisia!",
+          "url": "https://open.spotify.com/artist/5A05k3XjnB2j83Vw8Iigx3"
+        }
+      ],
+      "duration_ms": 178148,
+      "name": "Light for all",
+      "url": "https://open.spotify.com/track/0FRYGxLKBj6O8Fi0oKI3vB"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1995,26 +1995,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Falling Leaves",
-        "url": "https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4"
-      },
-      "artists": [
-        {
-          "name": "Relax Yourself",
-          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
-        },
-        {
-          "name": "Sizmara",
-          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
-        }
-      ],
-      "duration_ms": 139501,
-      "name": "Falling Leaves",
-      "url": "https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Cosmic Vibe",
         "url": "https://open.spotify.com/album/4Iaf26Hy7tPOA8lop1mSHY"
       },
@@ -2063,22 +2043,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Red Mind",
-        "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
-      },
-      "artists": [
-        {
-          "name": "Selma Key",
-          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
-        }
-      ],
-      "duration_ms": 180577,
-      "name": "Red Mind",
-      "url": "https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "432 Hz Calm",
         "url": "https://open.spotify.com/album/3YOE3QpeQ1OrOxn1G1rqZp"
       },
@@ -2095,6 +2059,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Falling Leaves",
+        "url": "https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4"
+      },
+      "artists": [
+        {
+          "name": "Relax Yourself",
+          "url": "https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY"
+        },
+        {
+          "name": "Sizmara",
+          "url": "https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX"
+        }
+      ],
+      "duration_ms": 139501,
+      "name": "Falling Leaves",
+      "url": "https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Way of Being",
         "url": "https://open.spotify.com/album/3GGYUMMWxWpIFXEcKWkBhI"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 172800,
       "name": "Way of Being",
       "url": "https://open.spotify.com/track/7IeCOta1aZHt2GL81JpKsI"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Red Mind",
+        "url": "https://open.spotify.com/album/7gton8cQc8A19dy3C2oaIT"
+      },
+      "artists": [
+        {
+          "name": "Selma Key",
+          "url": "https://open.spotify.com/artist/3TiO9o6VESefaIb0yJBjYa"
+        }
+      ],
+      "duration_ms": 180577,
+      "name": "Red Mind",
+      "url": "https://open.spotify.com/track/1WhFXIOfYDaLiAKrBO9hmX"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Ich W\u00fcnsche",
+        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
+      },
+      "artists": [
+        {
+          "name": "Nils Schreiber",
+          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
+        }
+      ],
+      "duration_ms": 179727,
+      "name": "Unendlich",
+      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Scarr",
         "url": "https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D"
       },
@@ -2175,34 +2191,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "In Dreams",
-        "url": "https://open.spotify.com/album/03N395vFQrSeex8iFMShkg"
+        "name": "Gratitude Frequency",
+        "url": "https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl"
       },
       "artists": [
         {
-          "name": "Matt Tondut",
-          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
         }
       ],
-      "duration_ms": 142019,
-      "name": "In Dreams",
-      "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Ich W\u00fcnsche",
-        "url": "https://open.spotify.com/album/4L4851N3uUVpCOXVRQHTTA"
-      },
-      "artists": [
-        {
-          "name": "Nils Schreiber",
-          "url": "https://open.spotify.com/artist/5zHYiEFPo9FOLO2tRvXNxl"
-        }
-      ],
-      "duration_ms": 179727,
-      "name": "Unendlich",
-      "url": "https://open.spotify.com/track/6CVWIpKdoNRKj3mxJjkQ2V"
+      "duration_ms": 144025,
+      "name": "Gratitude Frequency",
+      "url": "https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2223,18 +2223,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Gratitude Frequency",
-        "url": "https://open.spotify.com/album/4zGMCjX93ABo5zAxf8qbFl"
+        "name": "In Dreams",
+        "url": "https://open.spotify.com/album/03N395vFQrSeex8iFMShkg"
       },
       "artists": [
         {
-          "name": "unvrsl frqncy",
-          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+          "name": "Matt Tondut",
+          "url": "https://open.spotify.com/artist/1dscULdwo1wKG8QtoNgDZX"
         }
       ],
-      "duration_ms": 144025,
-      "name": "Gratitude Frequency",
-      "url": "https://open.spotify.com/track/1oyb1oP98qZm1xnoPg11CO"
+      "duration_ms": 142019,
+      "name": "In Dreams",
+      "url": "https://open.spotify.com/track/7am6G6bZs7DZSKhqpNmE0T"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Calm Response",
-        "url": "https://open.spotify.com/album/1teleIrViggSGuZkV8FiJV"
-      },
-      "artists": [
-        {
-          "name": "Devi Rubio",
-          "url": "https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Calm Response",
-      "url": "https://open.spotify.com/track/4WQ0NZptiVrvRoBXatoBPX"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Life Seeds",
         "url": "https://open.spotify.com/album/31BeE7Bs2FHd1m1rOrFMMh"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 176000,
       "name": "Life Seeds",
       "url": "https://open.spotify.com/track/6S7YeyRDlBdG41lo5ZAvin"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Calm Response",
+        "url": "https://open.spotify.com/album/1teleIrViggSGuZkV8FiJV"
+      },
+      "artists": [
+        {
+          "name": "Devi Rubio",
+          "url": "https://open.spotify.com/artist/2EdSpaErGLHPup1znOQLUG"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Calm Response",
+      "url": "https://open.spotify.com/track/4WQ0NZptiVrvRoBXatoBPX"
     },
     {
       "added_at": "2024-09-06 04:00:00",

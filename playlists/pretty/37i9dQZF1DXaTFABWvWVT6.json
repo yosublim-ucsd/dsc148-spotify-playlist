@@ -1,6 +1,6 @@
 {
   "description": "Bring the festival vibes to wherever you are with these dance bangers. ",
-  "num_followers": 71938,
+  "num_followers": 71950,
   "original_name": "The Dance Tent",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-09 13:36:44",
       "album": {
+        "name": "Little Man (Proud Of You)",
+        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 120902,
+      "name": "Little Man (Proud Of You)",
+      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
+    },
+    {
+      "added_at": "2024-08-09 13:36:44",
+      "album": {
         "name": "shine",
         "url": "https://open.spotify.com/album/1oblVh0UrovPi0BT5Mje3E"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 144304,
       "name": "shine",
       "url": "https://open.spotify.com/track/002mQ6kXOWDP2i5IZcwDVc"
-    },
-    {
-      "added_at": "2024-08-09 13:36:44",
-      "album": {
-        "name": "Little Man (Proud Of You)",
-        "url": "https://open.spotify.com/album/4B9MXp0goo3b3n2p3VeGUU"
-      },
-      "artists": [
-        {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
-        }
-      ],
-      "duration_ms": 120902,
-      "name": "Little Man (Proud Of You)",
-      "url": "https://open.spotify.com/track/7f3S9OhJPB9IrQgn4JXx3O"
     },
     {
       "added_at": "2024-08-09 13:36:44",

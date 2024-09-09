@@ -1,6 +1,6 @@
 {
   "description": "l\u00e5tarna som inte g\u00e5r att f\u00e5 nog av. ",
-  "num_followers": 59192,
+  "num_followers": 59186,
   "original_name": "p\u00e5 repeat",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Right?",
-        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
-      },
-      "artists": [
-        {
-          "name": "Ellen Krauss",
-          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
-        }
-      ],
-      "duration_ms": 176396,
-      "name": "Right?",
-      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "When she holds me",
         "url": "https://open.spotify.com/album/0bZ5ZKnXCHLoxgm5Y4lSrt"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 243440,
       "name": "When she holds me",
       "url": "https://open.spotify.com/track/4L4TXo5OwpTQlIPly2xES1"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Right?",
+        "url": "https://open.spotify.com/album/4jSF49BrBnMJHw60Aoowmw"
+      },
+      "artists": [
+        {
+          "name": "Ellen Krauss",
+          "url": "https://open.spotify.com/artist/1hY6WSJRQy3FPTnmprOBVh"
+        }
+      ],
+      "duration_ms": 176396,
+      "name": "Right?",
+      "url": "https://open.spotify.com/track/0rlQX2kAXfahhZdju8woGk"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "luminary rainbows",
-        "url": "https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr"
-      },
-      "artists": [
-        {
-          "name": "ionnalee",
-          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
-        }
-      ],
-      "duration_ms": 292408,
-      "name": "luminary rainbows",
-      "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Idioti",
         "url": "https://open.spotify.com/album/4unkmKhapPDaF8PPnBb6Oe"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 193327,
       "name": "Idioti",
       "url": "https://open.spotify.com/track/1Prntlz7zWyqTgouopKeGk"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "luminary rainbows",
+        "url": "https://open.spotify.com/album/4wEukq8iM8Bsj3db4gYxhr"
+      },
+      "artists": [
+        {
+          "name": "ionnalee",
+          "url": "https://open.spotify.com/artist/7x3Y6pFeDGLJjv1V5uToHv"
+        }
+      ],
+      "duration_ms": 292408,
+      "name": "luminary rainbows",
+      "url": "https://open.spotify.com/track/3ekQzz3KHdp043leCnwRdX"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Klyschor",
-        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
-      },
-      "artists": [
-        {
-          "name": "Nadja Evelina",
-          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
-        }
-      ],
-      "duration_ms": 153186,
-      "name": "Klyschor",
-      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Ordna sig",
         "url": "https://open.spotify.com/album/6nX94IWKw5BwI7eitPb5aP"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 151072,
       "name": "Ordna sig",
       "url": "https://open.spotify.com/track/7uFizp3Ub3xTv4qSxNTTGO"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Klyschor",
+        "url": "https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd"
+      },
+      "artists": [
+        {
+          "name": "Nadja Evelina",
+          "url": "https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC"
+        }
+      ],
+      "duration_ms": 153186,
+      "name": "Klyschor",
+      "url": "https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "En F\u00f6rsta Dans",
+        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
+      },
+      "artists": [
+        {
+          "name": "UPPENBARA",
+          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "En F\u00f6rsta Dans",
+      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Aff\u00e4ren (feat. Dolce)",
         "url": "https://open.spotify.com/album/2DzRKFO1sfulETwH4tE3bE"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 225333,
       "name": "Aff\u00e4ren (feat. Dolce)",
       "url": "https://open.spotify.com/track/5i4FRfsZvjO8idogUXQFWx"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "En F\u00f6rsta Dans",
-        "url": "https://open.spotify.com/album/5uizL4oF1rIIaQoqFC683R"
-      },
-      "artists": [
-        {
-          "name": "UPPENBARA",
-          "url": "https://open.spotify.com/artist/43blp0I6QmWnZmDW7yW9E7"
-        }
-      ],
-      "duration_ms": 130285,
-      "name": "En F\u00f6rsta Dans",
-      "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -751,6 +751,38 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "Havet",
+        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
+      },
+      "artists": [
+        {
+          "name": "Marcus Berggren",
+          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Havet",
+      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Vilken del av oss gick fel?",
+        "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "duration_ms": 178560,
+      "name": "Katterna",
+      "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "22 (feat. Nadja Evelina)",
         "url": "https://open.spotify.com/album/2fqcOlGoHnGTLOpRE1vjak"
       },
@@ -803,34 +835,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Vilken del av oss gick fel?",
-        "url": "https://open.spotify.com/album/7MI6vd647X46blgIjyhhsa"
+        "name": "Finish Line",
+        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
       },
       "artists": [
         {
-          "name": "Korsv\u00e4gen",
-          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+          "name": "Tingsek",
+          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
         }
       ],
-      "duration_ms": 178560,
-      "name": "Katterna",
-      "url": "https://open.spotify.com/track/1T0lqhFOdpEQntdarVGU24"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Havet",
-        "url": "https://open.spotify.com/album/1rDqkxdQn7dvBHGxQ0ysVo"
-      },
-      "artists": [
-        {
-          "name": "Marcus Berggren",
-          "url": "https://open.spotify.com/artist/55QSEvnXelKZ8cCjQfcYFv"
-        }
-      ],
-      "duration_ms": 262976,
-      "name": "Havet",
-      "url": "https://open.spotify.com/track/5Ox0UV66nhYoaRKmBqTYbD"
+      "duration_ms": 206626,
+      "name": "Finish Line",
+      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -851,38 +867,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Finish Line",
-        "url": "https://open.spotify.com/album/5xShuuJOSs4zD700DPTRh0"
-      },
-      "artists": [
-        {
-          "name": "Tingsek",
-          "url": "https://open.spotify.com/artist/7ld5C8ya3nwAnCTHG923VE"
-        }
-      ],
-      "duration_ms": 206626,
-      "name": "Finish Line",
-      "url": "https://open.spotify.com/track/5lU6xoJhNJCdckDU57wxod"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "I'm Coming Home",
-        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
-      },
-      "artists": [
-        {
-          "name": "Nina Nesbitt",
-          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "I'm Coming Home",
-      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Sandy Karlo",
         "url": "https://open.spotify.com/album/5E7azXTKV0H4jWRXyG4aMZ"
       },
@@ -895,22 +879,6 @@
       "duration_ms": 304000,
       "name": "Summer",
       "url": "https://open.spotify.com/track/0tEhECI70FisYPPYoa8JXL"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
-        "name": "Above Love",
-        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
-      },
-      "artists": [
-        {
-          "name": "Say Lou Lou",
-          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Above Love",
-      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -931,6 +899,38 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
+        "name": "I'm Coming Home",
+        "url": "https://open.spotify.com/album/6r9fKa9NKfZtwbXTVdf3Es"
+      },
+      "artists": [
+        {
+          "name": "Nina Nesbitt",
+          "url": "https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "I'm Coming Home",
+      "url": "https://open.spotify.com/track/16gL4P1H5psxy9Zvg5kkDT"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Above Love",
+        "url": "https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj"
+      },
+      "artists": [
+        {
+          "name": "Say Lou Lou",
+          "url": "https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Above Love",
+      "url": "https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
         "name": "Days Like These",
         "url": "https://open.spotify.com/album/41QlBp7EDWQbqVJTRFItpD"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7"
-      },
-      "artists": [
-        {
-          "name": "N\u00e1poles",
-          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
-        }
-      ],
-      "duration_ms": 195451,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Sjuk i Huvudet \u2013 Paul Gascoigne",
         "url": "https://open.spotify.com/album/1cBXxeObgl62kfqZOH8oDq"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 270250,
       "name": "Sjuk i Huvudet",
       "url": "https://open.spotify.com/track/74mqrObPeUlI7eOO1ZM9UE"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/1RoQIKvC40xS3gWMDtcPp7"
+      },
+      "artists": [
+        {
+          "name": "N\u00e1poles",
+          "url": "https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1"
+        }
+      ],
+      "duration_ms": 195451,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/59RgXziyTx99zd6pBRzSEr"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Imagine Paradise",
-        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
-      },
-      "artists": [
-        {
-          "name": "Kleerup",
-          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
-        }
-      ],
-      "duration_ms": 237655,
-      "name": "Imagine Paradise",
-      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Trouble in Paradise",
         "url": "https://open.spotify.com/album/3k2wn8fQ47FSKZVLibgFiY"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "STILL",
-        "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
+        "name": "Imagine Paradise",
+        "url": "https://open.spotify.com/album/58vBq0ClQQ9mvouhUoBw2b"
       },
       "artists": [
         {
-          "name": "REX WARREN",
-          "url": "https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU"
+          "name": "Kleerup",
+          "url": "https://open.spotify.com/artist/2YL0l5fnyHE9FEf1bwFGCc"
         }
       ],
-      "duration_ms": 122758,
-      "name": "STILL",
-      "url": "https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq"
+      "duration_ms": 237655,
+      "name": "Imagine Paradise",
+      "url": "https://open.spotify.com/track/0TXoLkIqtEqb9mPv3ReBEX"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1191,6 +1175,22 @@
       "duration_ms": 161474,
       "name": "Love Myself",
       "url": "https://open.spotify.com/track/6aKgsDfYyCS7LtkCPNelBg"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "STILL",
+        "url": "https://open.spotify.com/album/3T0BYTGn6qxqWJvZ5sodL3"
+      },
+      "artists": [
+        {
+          "name": "REX WARREN",
+          "url": "https://open.spotify.com/artist/4Iahk5PjiGCjwxg7kSNWjU"
+        }
+      ],
+      "duration_ms": 122758,
+      "name": "STILL",
+      "url": "https://open.spotify.com/track/6wZRlFQJZ4gnV96844cfhq"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
-      },
-      "artists": [
-        {
-          "name": "Orph\u00e9e Noah",
-          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
-        }
-      ],
-      "duration_ms": 188643,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "Utan Dig (oh nej)",
         "url": "https://open.spotify.com/album/4IuvDIuuhzpP2Vaa6sn7lv"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 157031,
       "name": "Utan Dig (oh nej)",
       "url": "https://open.spotify.com/track/7prmKt30TMo28aiaMSPsbe"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/2k3xxJO6AKW6xfIsfu4kGH"
+      },
+      "artists": [
+        {
+          "name": "Orph\u00e9e Noah",
+          "url": "https://open.spotify.com/artist/1rDh7YkRICrNYqN3livXq3"
+        }
+      ],
+      "duration_ms": 188643,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/354lfV6oHEL9nVFfJXoWog"
     },
     {
       "added_at": "2024-08-29 22:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-08-29 22:00:00",
       "album": {
-        "name": "Diabla",
-        "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
-      },
-      "artists": [
-        {
-          "name": "Zoe Lobos",
-          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "Diabla",
-      "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
-    },
-    {
-      "added_at": "2024-08-29 22:00:00",
-      "album": {
         "name": "GALAXER",
         "url": "https://open.spotify.com/album/2gsf8X6S3JdlUeYzIAJDZI"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 189546,
       "name": "GALAXER",
       "url": "https://open.spotify.com/track/3j0U59EWvIZQ35Kaomvysz"
+    },
+    {
+      "added_at": "2024-08-29 22:00:00",
+      "album": {
+        "name": "Diabla",
+        "url": "https://open.spotify.com/album/4BUh2zPQLBmXid1WIGx1YP"
+      },
+      "artists": [
+        {
+          "name": "Zoe Lobos",
+          "url": "https://open.spotify.com/artist/75EGjJY7wrAOSa4aJ8dReA"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "Diabla",
+      "url": "https://open.spotify.com/track/2q4wXd7mYsZeCtDwQInAjJ"
     },
     {
       "added_at": "2024-08-29 22:00:00",
