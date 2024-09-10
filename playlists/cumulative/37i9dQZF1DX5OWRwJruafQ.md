@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-482 songs - 23 hr 0 min
+483 songs - 23 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,7 +255,7 @@
 | [Kheti](https://open.spotify.com/track/1hMyjH2oMJFxvSCCrPZZJu) | [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p) | [Kheti](https://open.spotify.com/album/3e3Q7c1GmicU3kxmU9WWg8) | 2:15 | 2023-06-09 | 2023-07-13 |
 | [Kheti](https://open.spotify.com/track/3S4WHSIvTMIAdMscTjby9u) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [40k](https://open.spotify.com/artist/6nAMu7pGqdwUSsGMZPUvSk) | [Kheti](https://open.spotify.com/album/3udGZCTud3gLtuJJna2GaE) | 1:49 | 2024-05-28 | 2024-06-04 |
 | [Khoobia](https://open.spotify.com/track/7vdLeF0hqThuFH8dxgUhrc) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [L.B.E](https://open.spotify.com/album/3SdX0ZgW8NqfTir2YEo05E) | 2:29 | 2024-04-26 |  |
-| [Khush Hunde](https://open.spotify.com/track/7JmRnVC7CubViucGxiOBUh) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Khush Hunde](https://open.spotify.com/album/0Cdo8f8vMWAK7VRJHNvb6c) | 2:13 | 2024-08-09 |  |
+| [Khush Hunde](https://open.spotify.com/track/7JmRnVC7CubViucGxiOBUh) | [Lakhi Ghuman](https://open.spotify.com/artist/2PCivTfTiXqggCr9Folam6), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Master Mind](https://open.spotify.com/artist/2YeNjkqQUEPNtoEryZYbdz) | [Khush Hunde](https://open.spotify.com/album/0Cdo8f8vMWAK7VRJHNvb6c) | 2:13 | 2024-08-09 | 2024-09-10 |
 | [Khutti](https://open.spotify.com/track/3Jd1yxcUQLdfBJcsxFtYzj) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Khutti](https://open.spotify.com/album/0ISqysl9naGSplhk71vv4Z) | 2:12 | 2024-04-11 |  |
 | [Killa](https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Killa](https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp) | 3:37 | 2024-08-20 |  |
 | [KILLSHOT](https://open.spotify.com/track/0kkipac2zXY3DO7UcajsAg) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [KILLSHOT](https://open.spotify.com/album/51xLM3es2JQBxvbeRcKDEs) | 2:37 | 2023-12-11 | 2024-02-16 |
@@ -436,6 +436,7 @@
 | [The Remains](https://open.spotify.com/track/3TCUE8qX8FCLORzzvl3So4) | [Bhalwaan](https://open.spotify.com/artist/0B6Y4zlto5DbCaU6eNLvXi), [Signature By SB](https://open.spotify.com/artist/5uhcvmuj3X2tr8ooCLrUAx) | [The Blueprint](https://open.spotify.com/album/72dsaX2bPjbD1UuwSteXUx) | 2:47 | 2023-09-22 | 2023-10-07 |
 | [Time Hai Ni](https://open.spotify.com/track/5m4bVH5m49dLHDSwKerrH3) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Time Hai Ni](https://open.spotify.com/album/3xBNlLn7s1NtEolKwcepC2) | 2:27 | 2024-08-13 | 2024-09-07 |
 | [Tinted Windows](https://open.spotify.com/track/6KLca4Dxyf5ArZoyqgmwhr) | [Jimmy Wraich](https://open.spotify.com/artist/0ov4rQDHNfsZkRxsIZ6kzL), [Crispy Dondada](https://open.spotify.com/artist/03kKbaYoK0KB2xv7Q1FRKv), [Romeoz](https://open.spotify.com/artist/0YaSt6aMB7uVjmA52IwYPX) | [Tinted Windows](https://open.spotify.com/album/0gnxxwuDgP2gvVSXbSgY57) | 3:12 | 2023-08-22 | 2023-09-12 |
+| [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 | 2024-09-09 |  |
 | [Top Flame](https://open.spotify.com/track/3u6jK5KR1ijBCUs4CLzV9c) | [JERRY](https://open.spotify.com/artist/1mUl05hT77FrwVFW51wOlr) | [Top Flame](https://open.spotify.com/album/2DcComXPapapQcGrNSuPkt) | 2:44 | 2023-09-20 |  |
 | [Toy](https://open.spotify.com/track/14pPJbEMx6JZU8RItbY1Vq) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON) | [Toy](https://open.spotify.com/album/4VrAmKqAphRMoDcYno8V25) | 3:04 | 2023-03-29 | 2023-12-16 |
 | [True Flex](https://open.spotify.com/track/142EYw6fdw4RPKuNSuvYvc) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [True Flex](https://open.spotify.com/album/0ZuI6fA71OYPGfk6aQaAxS) | 3:07 | 2024-05-10 | 2024-05-17 |

@@ -1,12 +1,12 @@
 {
   "description": "Il top dello street rap italiano \ud83d\udd25 Cover: Rondodasosa",
-  "num_followers": 898453,
+  "num_followers": 898554,
   "original_name": "Street Culto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtoqHAAAAACoBZLQurrIQRX4qVEgxL4r",
+  "snapshot_id": "Zt7n0QAAAACTNZpXHa5wtW/2FmQYuhwn",
   "tracks": [
     {
       "added_at": "2024-09-05 22:01:00",
@@ -20,9 +20,29 @@
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         }
       ],
-      "duration_ms": 200311,
-      "name": "6 AM",
-      "url": "https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu"
+      "duration_ms": 187178,
+      "name": "Milano Angels",
+      "url": "https://open.spotify.com/track/5kQwHYmtLVJaBwh6NqD4JW"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "40 GRADI",
+        "url": "https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        }
+      ],
+      "duration_ms": 162406,
+      "name": "40 GRADI",
+      "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -43,26 +63,22 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "AVVOCATO (feat. Simba La Rue)",
-        "url": "https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp"
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
       },
       "artists": [
         {
-          "name": "MadPrince",
-          "url": "https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI"
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
         },
         {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
-        },
-        {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+          "name": "Niky Savage",
+          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
         }
       ],
-      "duration_ms": 139200,
-      "name": "AVVOCATO (feat. Simba La Rue)",
-      "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
+      "duration_ms": 144210,
+      "name": "TT LE GIRLZ (feat. Niky Savage)",
+      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -78,6 +94,14 @@
         {
           "name": "Marracash",
           "url": "https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
         }
       ],
       "duration_ms": 235999,
@@ -135,6 +159,46 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
+        "name": "AVVOCATO (feat. Simba La Rue)",
+        "url": "https://open.spotify.com/album/1gA7NrXfOvJY7nXtfqaWqp"
+      },
+      "artists": [
+        {
+          "name": "MadPrince",
+          "url": "https://open.spotify.com/artist/3fkjitJsxIKSHzyjqwg4MI"
+        },
+        {
+          "name": "FT Kings",
+          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+        },
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "AVVOCATO (feat. Simba La Rue)",
+      "url": "https://open.spotify.com/track/37xYXWS5oXyu5YEpH4Gy1r"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 200311,
+      "name": "6 AM",
+      "url": "https://open.spotify.com/track/42F6iAgPGmDRgPcCIdEghu"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
         "name": "EL PIBE DE ORO",
         "url": "https://open.spotify.com/album/78Ziu5LJzQEHNrjgW9t1D4"
       },
@@ -151,22 +215,6 @@
       "duration_ms": 155493,
       "name": "EL PIBE DE ORO",
       "url": "https://open.spotify.com/track/2bkz0YDgPTNOto5OhskjbS"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 187178,
-      "name": "Milano Angels",
-      "url": "https://open.spotify.com/track/5kQwHYmtLVJaBwh6NqD4JW"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -275,46 +323,38 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "40 GRADI",
-        "url": "https://open.spotify.com/album/7JoGm6i50TeHIoME3AX0St"
+        "name": "Contigo",
+        "url": "https://open.spotify.com/album/78xTjDRmktseI106DiEoIG"
       },
       "artists": [
         {
-          "name": "Simba La Rue",
-          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
-        },
-        {
-          "name": "FT Kings",
-          "url": "https://open.spotify.com/artist/2iRUfXetAwNoxIN42BQ5hq"
+          "name": "Kassimi",
+          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
         }
       ],
-      "duration_ms": 162406,
-      "name": "40 GRADI",
-      "url": "https://open.spotify.com/track/0eDdGDkyAl3XTE8bv4nRR1"
+      "duration_ms": 140986,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw"
     },
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+        "name": "ECO",
+        "url": "https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91"
       },
       "artists": [
         {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+          "name": "Suspect CB",
+          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
         },
         {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
-        },
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Ex\u2227",
+          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
         }
       ],
-      "duration_ms": 196434,
-      "name": "ABC (feat. Tony Boy & thasup)",
-      "url": "https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k"
+      "duration_ms": 89164,
+      "name": "Cassetta di Sicurezza",
+      "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -359,22 +399,6 @@
     {
       "added_at": "2024-09-05 22:01:00",
       "album": {
-        "name": "Contigo",
-        "url": "https://open.spotify.com/album/78xTjDRmktseI106DiEoIG"
-      },
-      "artists": [
-        {
-          "name": "Kassimi",
-          "url": "https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd"
-        }
-      ],
-      "duration_ms": 140986,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/7zVIU5TaujwfECKvPeISRw"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
         "name": "Leanin'",
         "url": "https://open.spotify.com/album/1ebja9z4FBEivqqCYEqega"
       },
@@ -387,26 +411,6 @@
       "duration_ms": 146285,
       "name": "Leanin'",
       "url": "https://open.spotify.com/track/2oQeSFEOYr7JEWhOx9uPHH"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "VERA BADDIE",
-        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
-      },
-      "artists": [
-        {
-          "name": "ANNA",
-          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
-        },
-        {
-          "name": "Niky Savage",
-          "url": "https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg"
-        }
-      ],
-      "duration_ms": 144210,
-      "name": "TT LE GIRLZ (feat. Niky Savage)",
-      "url": "https://open.spotify.com/track/7sj9VfVtmcEZBDbRAsVXWY"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -442,11 +446,43 @@
         {
           "name": "Cosang",
           "url": "https://open.spotify.com/artist/2WBEFXMgZrMWQzZvxXmpGu"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Nt\u00f2",
+          "url": "https://open.spotify.com/artist/6yGn8XOk9ZS6vUFf10sP96"
         }
       ],
       "duration_ms": 154074,
       "name": "Carne e ossa",
       "url": "https://open.spotify.com/track/51MHkF1fo45LhKjtVPiEY0"
+    },
+    {
+      "added_at": "2024-09-05 22:01:00",
+      "album": {
+        "name": "VERA BADDIE",
+        "url": "https://open.spotify.com/album/4KakTQXezMez5owYFuGAF2"
+      },
+      "artists": [
+        {
+          "name": "ANNA",
+          "url": "https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
+        },
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        }
+      ],
+      "duration_ms": 196434,
+      "name": "ABC (feat. Tony Boy & thasup)",
+      "url": "https://open.spotify.com/track/3TI7sMXWt5lu89VGCa7q1k"
     },
     {
       "added_at": "2024-09-05 22:01:00",
@@ -1011,26 +1047,6 @@
       "duration_ms": 189803,
       "name": "WIFEY (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/1me6JiCLFU4Cr2Mlh19uJl"
-    },
-    {
-      "added_at": "2024-09-05 22:01:00",
-      "album": {
-        "name": "ECO",
-        "url": "https://open.spotify.com/album/4Bs0C9219lQmNxLi9nLY91"
-      },
-      "artists": [
-        {
-          "name": "Suspect CB",
-          "url": "https://open.spotify.com/artist/25qHQgRHUtHRnSZBzhixOz"
-        },
-        {
-          "name": "Ex\u2227",
-          "url": "https://open.spotify.com/artist/3qif25LstGEGZsuUO6FsPJ"
-        }
-      ],
-      "duration_ms": 89164,
-      "name": "Cassetta di Sicurezza",
-      "url": "https://open.spotify.com/track/7zGptf2U9zBeAhoePwol3v"
     },
     {
       "added_at": "2024-09-05 22:01:00",

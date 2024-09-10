@@ -1,12 +1,12 @@
 {
   "description": "This Is Panter B\u00e9lico. Los temas esenciales, todos en una lista.",
-  "num_followers": 65172,
+  "num_followers": 65242,
   "original_name": "This Is Panter B\u00e9lico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAADm3hlsMRrw83Oiv7T+hh/Z",
+  "snapshot_id": "ZtzpAAAAAABzo59xFccc4aor5XyzjaCG",
   "tracks": [
     {
       "added_at": null,
@@ -523,26 +523,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Tostada CH",
-        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
+        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
+        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
       },
       "artists": [
-        {
-          "name": "Roberto Tapia",
-          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
-        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         }
       ],
-      "duration_ms": 243562,
-      "name": "La Tostada CH",
-      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
+      "duration_ms": 205901,
+      "name": "El Due\u00f1o Del Palenque (En Vivo)",
+      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
     },
     {
       "added_at": null,
@@ -579,22 +575,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Amanecida En Vivo Desde \"El Carrizal\"",
-        "url": "https://open.spotify.com/album/2kNkRSLKWyQFoc2BXrfCgR"
+        "name": "La Tostada CH",
+        "url": "https://open.spotify.com/album/5cQiVRRkP09f3tjzoW3LuM"
       },
       "artists": [
+        {
+          "name": "Roberto Tapia",
+          "url": "https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0"
+        },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         },
         {
-          "name": "Los Alegres Del Barranco",
-          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
         }
       ],
-      "duration_ms": 205901,
-      "name": "El Due\u00f1o Del Palenque (En Vivo)",
-      "url": "https://open.spotify.com/track/2qi4fMw9JfMQGbiFi92EfU"
+      "duration_ms": 243562,
+      "name": "La Tostada CH",
+      "url": "https://open.spotify.com/track/2ouaHnPg00LU0RShMlibs7"
     },
     {
       "added_at": null,
@@ -927,22 +927,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-        "url": "https://open.spotify.com/album/61EXPkgwfysplYrG10cgUK"
+        "name": "Los Demonios (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
       },
       "artists": [
         {
-          "name": "Mario \"El Cachorro\" Delgado",
-          "url": "https://open.spotify.com/artist/2C6aTaybjOqqtdTxKx8xTX"
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
         },
         {
           "name": "Panter B\u00e9lico",
           "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 496138,
-      "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
-      "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"
+      "duration_ms": 242227,
+      "name": "Los Demonios (En Vivo)",
+      "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
     }
   ],
   "unique_name": "This Is Panter B\u00e9lico",

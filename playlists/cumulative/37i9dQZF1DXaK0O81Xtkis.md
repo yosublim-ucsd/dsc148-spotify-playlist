@@ -4,7 +4,7 @@
 
 > make it pop! cover: Mercer Henderson
 
-1,120 songs - 2 day 7 hr 40 min
+1,121 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,6 +561,7 @@
 | [Killing Me](https://open.spotify.com/track/1E9OxtPYXVqFGKm8Q4eeVY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Killing Me](https://open.spotify.com/album/4cj0lhzyzTnshmDz6SFbHm) | 2:55 | 2022-09-02 | 2022-09-13 |
 | [Killing Me](https://open.spotify.com/track/7nvwVMGojdHqrSRCaxMFv9) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [NOTED...EP](https://open.spotify.com/album/6AMjHESQyOiW52JfQC8PEm) | 2:55 | 2022-09-09 | 2022-12-03 |
 | [Kind Of Love](https://open.spotify.com/track/4gBrsChuCwPofDjaF4O16S) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [to whoever wants to hear](https://open.spotify.com/album/6O3hKc6RYsOsDWsfvh40uA) | 2:16 | 2023-09-01 | 2024-01-05 |
+| [KINDA NERVOUS](https://open.spotify.com/track/2KMtIr4ct0FxKeui6w7OEY) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [KINDA NERVOUS](https://open.spotify.com/album/6yb0Z75bxHVQPka25GxUHT) | 2:55 | 2024-09-09 |  |
 | [Kismet](https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:03 | 2023-09-15 | 2024-01-05 |
 | [Kiss](https://open.spotify.com/track/5lMrt5KYxHSwaOjTtJosLY) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Kiss](https://open.spotify.com/album/0Bg6ZeJaMHyGOALyRFbcyF) | 3:01 | 2024-03-01 | 2024-04-27 |
 | [Kiss Me](https://open.spotify.com/track/1Xq9ilOLiknCaGYtSsvFrH) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Songs of Sonder](https://open.spotify.com/album/3meoZUwEJiy7nyrDsv2HHJ) | 3:49 | 2022-09-02 | 2022-10-11 |
@@ -921,7 +922,7 @@
 | [Stressed Out](https://open.spotify.com/track/13NsokXoQWXEggE6c4yLd7) | [Calabasas](https://open.spotify.com/artist/1hTxTWi0qO9VGuG9elXEcZ) | [Stressed Out](https://open.spotify.com/album/7nyspUQuLKsHDmz49P9Y50) | 2:38 | 2024-03-01 | 2024-03-30 |
 | [stupid i miss u](https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [stupid i miss u](https://open.spotify.com/album/0DGQGsxX73rGXQtpq52PuA) | 2:20 | 2022-09-30 | 2023-02-18 |
 | [Stupid Song](https://open.spotify.com/track/109p6uZX2HZOaPGUGdzwYI) | [Hot Chelle Rae](https://open.spotify.com/artist/6jTnHxhb6cDCaCu4rdvsQ0) | [Stupid Song](https://open.spotify.com/album/3XFQ1yrmUFcqWodP3MTfMf) | 3:19 | 2022-03-04 | 2022-04-29 |
-| [SUCKS TO BE YOU](https://open.spotify.com/track/2SxOhyynYiT50CVnycBbpz) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [SUCKS TO BE YOU](https://open.spotify.com/album/7LUrppJjWs913S0gJjQGIp) | 2:14 | 2024-08-02 |  |
+| [SUCKS TO BE YOU](https://open.spotify.com/track/2SxOhyynYiT50CVnycBbpz) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [SUCKS TO BE YOU](https://open.spotify.com/album/7LUrppJjWs913S0gJjQGIp) | 2:14 | 2024-08-02 | 2024-09-10 |
 | [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 | 2024-02-09 | 2024-03-30 |
 | [summer after senior year](https://open.spotify.com/track/4xjpWPuhcc42tsSDKaUrOY) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [summer after senior year](https://open.spotify.com/album/2LAokuNY7aRexlSjRADGju) | 2:25 | 2024-01-05 | 2024-03-30 |
 | [Summer Secret](https://open.spotify.com/track/1yfGTVORIA88GIrlFMU0NP) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Summer Secret](https://open.spotify.com/album/3NCCbCcz7x2hQPgE5CkPmX) | 2:43 | 2024-06-21 | 2024-08-17 |

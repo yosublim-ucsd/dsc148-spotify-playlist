@@ -1,6 +1,6 @@
 {
   "description": "ble det en hvit sommer?",
-  "num_followers": 111607,
+  "num_followers": 111618,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
@@ -983,8 +983,8 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Alt du vil ha",
-        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
+        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
+        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
       },
       "artists": [
         {
@@ -992,9 +992,25 @@
           "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 180826,
-      "name": "Alt du vil ha",
-      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
+      "duration_ms": 266293,
+      "name": "Fjellrypa",
+      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+    },
+    {
+      "added_at": "2024-08-15 22:00:00",
+      "album": {
+        "name": "Kj\u00f8rer Som En Bestemor",
+        "url": "https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c"
+      },
+      "artists": [
+        {
+          "name": "Ole Hartz",
+          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+        }
+      ],
+      "duration_ms": 191142,
+      "name": "Kj\u00f8rer Som En Bestemor",
+      "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1015,22 +1031,6 @@
       "duration_ms": 173986,
       "name": "\u00c4r det k\u00e4rlek du beh\u00f6ver - N!NE EPA Bass Boosted Remix",
       "url": "https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj"
-    },
-    {
-      "added_at": "2024-08-15 22:00:00",
-      "album": {
-        "name": "Kj\u00f8rer Som En Bestemor",
-        "url": "https://open.spotify.com/album/61FHg6nwPlTc84cQaGhL8c"
-      },
-      "artists": [
-        {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
-        }
-      ],
-      "duration_ms": 191142,
-      "name": "Kj\u00f8rer Som En Bestemor",
-      "url": "https://open.spotify.com/track/1V9wDqSJ9GuOKQSx2lOV00"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "S\u00e5nn e livet - Live 10 \u00e5r",
-        "url": "https://open.spotify.com/album/5ddmdS7xuwOgpsD8FiJHB6"
+        "name": "Alt du vil ha",
+        "url": "https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6"
         }
       ],
-      "duration_ms": 266293,
-      "name": "Fjellrypa",
-      "url": "https://open.spotify.com/track/6QuPjdfyg00PzmuyHu3NHd"
+      "duration_ms": 180826,
+      "name": "Alt du vil ha",
+      "url": "https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB"
     },
     {
       "added_at": "2024-08-15 22:00:00",
@@ -1231,18 +1231,22 @@
     {
       "added_at": "2024-08-15 22:00:00",
       "album": {
-        "name": "Der Jeg H\u00f8rer Te (Bygda)",
-        "url": "https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3"
+        "name": "Norge rundt med Staysman",
+        "url": "https://open.spotify.com/album/6sqoMds60LzzOc39td4hA3"
       },
       "artists": [
         {
-          "name": "Ole Hartz",
-          "url": "https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI"
+          "name": "Staysman",
+          "url": "https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj"
+        },
+        {
+          "name": "rOlfFa",
+          "url": "https://open.spotify.com/artist/4Rdh0AevBwePcuPgt8fNeM"
         }
       ],
-      "duration_ms": 137106,
-      "name": "Der Jeg H\u00f8rer Te (Bygda)",
-      "url": "https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX"
+      "duration_ms": 154951,
+      "name": "Partyjoik",
+      "url": "https://open.spotify.com/track/180k05Dn11ylHDEkIzvssR"
     },
     {
       "added_at": "2024-08-15 22:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: Babasha",
+  "description": "Cele mai de succes 50 de hituri \u00een Rom\u00e2nia. Cover: YNY Sebi, Bogdan DLP",
   "name": "Hot Hits Rom\u00e2nia",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 210789,
       "name": "BANI DIN MARF\u0102",
       "url": "https://open.spotify.com/track/3kpOIK1WElOt142PogQr8b"
@@ -382,6 +382,32 @@
       "duration_ms": 171162,
       "name": "CONTACT FATAL 3",
       "url": "https://open.spotify.com/track/2QpMq4mT7gVriPNQMp0oL7"
+    },
+    {
+      "album": {
+        "name": "COSTA",
+        "url": "https://open.spotify.com/album/59j8mLRuInvXhvPzjuTTqy"
+      },
+      "artists": [
+        {
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Oscar",
+          "url": "https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F"
+        },
+        {
+          "name": "Ian",
+          "url": "https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "COSTA",
+      "url": "https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR"
     },
     {
       "album": {
@@ -1011,6 +1037,28 @@
     },
     {
       "album": {
+        "name": "Neva Play (feat. RM of BTS)",
+        "url": "https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "RM",
+          "url": "https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157173,
+      "name": "Neva Play (feat. RM of BTS)",
+      "url": "https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q"
+    },
+    {
+      "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
       },
@@ -1272,7 +1320,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 134519,
       "name": "SUNETE 2",
       "url": "https://open.spotify.com/track/2vypqMNbxNn7jVrscNxrFZ"
@@ -1312,10 +1360,28 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 149169,
       "name": "TELEKOM",
       "url": "https://open.spotify.com/track/0r5Yn0ncQ8p2HRzq0mHJjT"
+    },
+    {
+      "album": {
+        "name": "The Emptiness Machine",
+        "url": "https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190427,
+      "name": "The Emptiness Machine",
+      "url": "https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A"
     },
     {
       "album": {

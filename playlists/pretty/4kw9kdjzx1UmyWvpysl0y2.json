@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125824,
+  "num_followers": 125815,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAS8x0oCw6PUoRqoXV1WsqXJ24wWdH8",
+  "snapshot_id": "AAAS9dBBiEFGdTGAEBjaTdTX80Icn8lZ",
   "tracks": [
+    {
+      "added_at": "2024-09-09 15:48:51",
+      "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "SpaceYeti",
+          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13"
+    },
     {
       "added_at": "2024-09-06 13:42:13",
       "album": {
@@ -1151,30 +1171,6 @@
       "duration_ms": 195500,
       "name": "Two Lakes",
       "url": "https://open.spotify.com/track/2J1e9NFZFpBzgxST74uZdi"
-    },
-    {
-      "added_at": "2024-06-17 15:11:17",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/4GK69DAIe79SoNuOkSCElS"
-      },
-      "artists": [
-        {
-          "name": "Whales",
-          "url": "https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR"
-        },
-        {
-          "name": "David Feldman",
-          "url": "https://open.spotify.com/artist/53WoIbwTPs856mU10SR5D4"
-        },
-        {
-          "name": "imallryt",
-          "url": "https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD"
-        }
-      ],
-      "duration_ms": 148100,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/2G0nmOKGQds2EJjjIsu91J"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

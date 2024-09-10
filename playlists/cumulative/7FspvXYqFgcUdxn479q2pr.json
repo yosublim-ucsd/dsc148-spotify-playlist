@@ -215,6 +215,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R"
+      },
+      "artists": [
+        {
+          "name": "Carneyval",
+          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
+    },
+    {
+      "album": {
         "name": "AI Fantasy",
         "url": "https://open.spotify.com/album/7lruKU4dqG2Hm92Mj8MoX5"
       },

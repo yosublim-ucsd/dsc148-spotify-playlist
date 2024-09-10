@@ -1,6 +1,6 @@
 {
   "description": "V\u00e5ra spellisteredakt\u00f6rers urval av otroliga l\u00e5tar fr\u00e5n 2023 som du kanske r\u00e5kat missa? Enjoy! #SpotifyWrapped",
-  "num_followers": 877,
+  "num_followers": 876,
   "original_name": "2023: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "M\u00f6rdare",
-        "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
-      },
-      "artists": [
-        {
-          "name": "Rami",
-          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
-        }
-      ],
-      "duration_ms": 169565,
-      "name": "M\u00f6rdare",
-      "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "1x1",
         "url": "https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 204217,
       "name": "1x1",
       "url": "https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "M\u00f6rdare",
+        "url": "https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW"
+      },
+      "artists": [
+        {
+          "name": "Rami",
+          "url": "https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "M\u00f6rdare",
+      "url": "https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Chop It",
-        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
-      },
-      "artists": [
-        {
-          "name": "Whammyboy",
-          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
-        }
-      ],
-      "duration_ms": 178407,
-      "name": "Chop It",
-      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "Fight Back Time",
         "url": "https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 197079,
       "name": "Fight Back Time",
       "url": "https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Chop It",
+        "url": "https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0"
+      },
+      "artists": [
+        {
+          "name": "Whammyboy",
+          "url": "https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj"
+        }
+      ],
+      "duration_ms": 178407,
+      "name": "Chop It",
+      "url": "https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw"
     },
     {
       "added_at": "2023-11-29 12:17:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-11-29 12:17:00",
       "album": {
-        "name": "Flicker",
-        "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
-      },
-      "artists": [
-        {
-          "name": "Glimji",
-          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
-        }
-      ],
-      "duration_ms": 186231,
-      "name": "Flicker",
-      "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
-    },
-    {
-      "added_at": "2023-11-29 12:17:00",
-      "album": {
         "name": "If The Car Crashed",
         "url": "https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 203506,
       "name": "If The Car Crashed",
       "url": "https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh"
+    },
+    {
+      "added_at": "2023-11-29 12:17:00",
+      "album": {
+        "name": "Flicker",
+        "url": "https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        }
+      ],
+      "duration_ms": 186231,
+      "name": "Flicker",
+      "url": "https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G"
     },
     {
       "added_at": "2023-11-29 12:17:00",

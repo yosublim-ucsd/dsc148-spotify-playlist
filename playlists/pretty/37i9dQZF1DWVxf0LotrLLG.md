@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del 2024\. Hit shuffle for a mixed listening experience\. Cover: Lenny Tavárez
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,161 likes - 509 songs - 1 day 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,158 likes - 509 songs - 1 day 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

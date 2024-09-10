@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nyoman Paul
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,013 likes - 39 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,008 likes - 39 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

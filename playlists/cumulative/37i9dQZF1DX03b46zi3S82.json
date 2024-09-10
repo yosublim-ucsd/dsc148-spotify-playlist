@@ -3067,6 +3067,24 @@
     },
     {
       "album": {
+        "name": "La Vie Est Un R\u00eave",
+        "url": "https://open.spotify.com/album/7DYxURozysSGXLCrxnp6ht"
+      },
+      "artists": [
+        {
+          "name": "M\u00edrabilis",
+          "url": "https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144525,
+      "name": "La Vie Est Un R\u00eave",
+      "url": "https://open.spotify.com/track/0BOiThUDNdqjVwtDrdXdC4"
+    },
+    {
+      "album": {
         "name": "Laredo",
         "url": "https://open.spotify.com/album/1bQGsaI0TyfTeZrg8JW3dq"
       },

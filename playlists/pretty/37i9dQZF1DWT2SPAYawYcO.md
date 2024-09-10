@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Fred again..
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,058 likes - 82 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,075 likes - 82 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 34 | [Madonna](https://open.spotify.com/track/0cmFvQp6vy6TuwcGGdACZ6) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Hole Erth](https://open.spotify.com/album/0rGj6027LrBwC5filFlrVe) | 2:52 |
 | 35 | [GFC](https://open.spotify.com/track/4qgd5zXsWVL4RBJAO7NDtn) | [STIFF RICHARDS](https://open.spotify.com/artist/0tDaLHgoNT53Kr4OQ6XG7J) | [GFC](https://open.spotify.com/album/32yuMpMMAo3jgIhRDYAu73) | 2:09 |
 | 36 | [BBA \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/2is7SQVl0417fY8Cw56Jkf) | [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Infinite Icon](https://open.spotify.com/album/1nfalq2GeQblyDqn9wYzWx) | 2:55 |
-| 37 | [Asskin Fore More](https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Asskin For More](https://open.spotify.com/album/2AeoJ9iRsZmaXapSXvvpVw) | 3:52 |
+| 37 | [Asskin For More](https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Asskin For More](https://open.spotify.com/album/2AeoJ9iRsZmaXapSXvvpVw) | 3:52 |
 | 38 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 |
 | 39 | [Hollow](https://open.spotify.com/track/7KuC4GpD1tiyaXQcTAk01z) | [Betty Taylor](https://open.spotify.com/artist/6pzWnWXu7YVg5tXrOru8KY) | [Hollow](https://open.spotify.com/album/4qmjNRyaVlTiOOW197MTGC) | 3:25 |
 | 40 | [ATTENTION](https://open.spotify.com/track/3qWp3Z45VYV6griIWvwpme) | [Seann Jefferson](https://open.spotify.com/artist/2fIVnGgJl8DOt3tnOAQ2dv), [Kristina Dawn](https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d) | [ATTENTION](https://open.spotify.com/album/70TZtOhLmjiKugma9KaZDi) | 2:37 |

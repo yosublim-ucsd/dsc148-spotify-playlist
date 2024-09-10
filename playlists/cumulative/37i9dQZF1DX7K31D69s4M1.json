@@ -9867,6 +9867,24 @@
     },
     {
       "album": {
+        "name": "Ha\u00f1isklo",
+        "url": "https://open.spotify.com/album/7DAWUadpIooSwAI7brpRig"
+      },
+      "artists": [
+        {
+          "name": "Xaverius Love",
+          "url": "https://open.spotify.com/artist/614WSOcC6h559Do1UR6k97"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113734,
+      "name": "Ha\u00f1isklo",
+      "url": "https://open.spotify.com/track/3d9x7Fk8VJU4YWxcuBHnut"
+    },
+    {
+      "album": {
         "name": "Heading West",
         "url": "https://open.spotify.com/album/5JvZw6XCzqzELAYzeBRCIp"
       },
@@ -12010,6 +12028,24 @@
       "duration_ms": 143627,
       "name": "Innocentia",
       "url": "https://open.spotify.com/track/6GjrXRTZgW63US1KEi7Xe6"
+    },
+    {
+      "album": {
+        "name": "Inside A Dream",
+        "url": "https://open.spotify.com/album/4fBcXrjPHQBdmeYLJELc0l"
+      },
+      "artists": [
+        {
+          "name": "Thiago Izan",
+          "url": "https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145952,
+      "name": "Inside A Dream",
+      "url": "https://open.spotify.com/track/0zq6pkcCyyzmzOz6EF6EY2"
     },
     {
       "album": {
@@ -17058,7 +17094,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 132570,
       "name": "Murasaki No Yume",
       "url": "https://open.spotify.com/track/5hiuOPmW0LBilvTFParX3V"
@@ -17472,7 +17508,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 161117,
       "name": "Nebula",
       "url": "https://open.spotify.com/track/5qta8Dii3ZWGxZDA6LZmYb"
@@ -26414,7 +26450,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 132517,
       "name": "The Parchment Moon",
       "url": "https://open.spotify.com/track/7J3lkfbNJGpJQZOq4xZv4t"
@@ -26616,6 +26652,24 @@
       "duration_ms": 148941,
       "name": "The round",
       "url": "https://open.spotify.com/track/6YD98m2CsK814hbBVQz9yS"
+    },
+    {
+      "album": {
+        "name": "The Secrets of Mystery Room",
+        "url": "https://open.spotify.com/album/1hEJVDs3qZ8afd8xjEjFft"
+      },
+      "artists": [
+        {
+          "name": "Pederosa Calafiori",
+          "url": "https://open.spotify.com/artist/7rSGVYwxF7D59f76uaLaFq"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157176,
+      "name": "The Secrets of Mystery Room",
+      "url": "https://open.spotify.com/track/2wcpj4bLieMw83D7pKOgr5"
     },
     {
       "album": {
@@ -27642,7 +27696,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 132827,
       "name": "Transitions",
       "url": "https://open.spotify.com/track/1RyR3YAoP3QmncfqslvRzh"
@@ -30076,6 +30130,24 @@
       "duration_ms": 125347,
       "name": "Who I Was",
       "url": "https://open.spotify.com/track/0oVnmc2zYZuFxYHs21Q5Me"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/0rq71CI9AGEyYWStUb0ghm"
+      },
+      "artists": [
+        {
+          "name": "Tristaan Wilkes",
+          "url": "https://open.spotify.com/artist/4awKyidTqtd5z49BGOLvck"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154333,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/6rSzHq1ChavaUVo2KyEssj"
     },
     {
       "album": {

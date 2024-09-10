@@ -399,6 +399,24 @@
     },
     {
       "album": {
+        "name": "Mambru",
+        "url": "https://open.spotify.com/album/3SWj3MZg3uvW11OzIhjovx"
+      },
+      "artists": [
+        {
+          "name": "Mambru",
+          "url": "https://open.spotify.com/artist/3RjEsHMavgMDeD0sOUe7PQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239773,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/1niAzdlTFjZn9rGTqSTVDZ"
+    },
+    {
+      "album": {
         "name": "166",
         "url": "https://open.spotify.com/album/6apkynw8DBUza2600Wm70t"
       },
@@ -2176,7 +2194,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 167779,
       "name": "Cara De Bellaquita",
       "url": "https://open.spotify.com/track/4MoEwLx6UBkr3wAQkZRo32"
@@ -3970,7 +3988,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 205213,
       "name": "En septiembre fuiste mia",
       "url": "https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI"
@@ -4752,7 +4770,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 223186,
       "name": "Flores Amarillas",
       "url": "https://open.spotify.com/track/5wBBoVjoounI5e36oI8oZe"
@@ -7292,7 +7310,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -7408,7 +7426,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-02",
+      "date_removed": null,
       "duration_ms": 172125,
       "name": "Me Lo Merezco",
       "url": "https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88"
@@ -10701,6 +10719,24 @@
     },
     {
       "album": {
+        "name": "Lateralus",
+        "url": "https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T"
+      },
+      "artists": [
+        {
+          "name": "TOOL",
+          "url": "https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 403533,
+      "name": "Schism",
+      "url": "https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc"
+    },
+    {
+      "album": {
         "name": "Se Paciente Funk",
         "url": "https://open.spotify.com/album/3Ar02fcnzPDg1xvy05pWff"
       },
@@ -12922,6 +12958,24 @@
       "duration_ms": 243898,
       "name": "Una Foto Remix (feat. Emilia)",
       "url": "https://open.spotify.com/track/1kqH58eGh2ZTOHwqBIB2tM"
+    },
+    {
+      "album": {
+        "name": "Mambru",
+        "url": "https://open.spotify.com/album/3SWj3MZg3uvW11OzIhjovx"
+      },
+      "artists": [
+        {
+          "name": "Mambru",
+          "url": "https://open.spotify.com/artist/3RjEsHMavgMDeD0sOUe7PQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261266,
+      "name": "Una Mirada",
+      "url": "https://open.spotify.com/track/7fKdDgBP8xP9XKPy4Ul9J2"
     },
     {
       "album": {

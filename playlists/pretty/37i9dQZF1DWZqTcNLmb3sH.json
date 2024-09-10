@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover :  Max\n",
-  "num_followers": 59080,
+  "num_followers": 59103,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtmaVwAAAABf2Te3X6AvbEFjvhqdEzpz",
+  "snapshot_id": "Zt78lQAAAADof4Mq9Vb+XlxnBNVlnHI+",
   "tracks": [
     {
       "added_at": "2024-09-02 12:05:23",
@@ -37,6 +37,50 @@
       "url": "https://open.spotify.com/track/7Kott5DI3YR7CTAZhv4iyM"
     },
     {
+      "added_at": "2024-09-09 06:20:35",
+      "album": {
+        "name": "Ronny Title Track (From \"Ronny - The Ruler\")",
+        "url": "https://open.spotify.com/album/4wfGA79OC8XLFmRARb36kl"
+      },
+      "artists": [
+        {
+          "name": "Sachin Basrur",
+          "url": "https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG"
+        },
+        {
+          "name": "Prithvi Bhat",
+          "url": "https://open.spotify.com/artist/7t6xWHMqK83XaT6Nf8xmHY"
+        }
+      ],
+      "duration_ms": 250208,
+      "name": "Ronny Title Track (From \"Ronny - The Ruler\")",
+      "url": "https://open.spotify.com/track/6XOSYQtwPP1Hu9RgS9Fz6e"
+    },
+    {
+      "added_at": "2024-09-09 13:48:05",
+      "album": {
+        "name": "Bappa Bappa Moreya (From \"Interval\")",
+        "url": "https://open.spotify.com/album/7JcjxcWbcZQ0ONKugPopmm"
+      },
+      "artists": [
+        {
+          "name": "Chandan Shetty",
+          "url": "https://open.spotify.com/artist/7pUgn0UC6tjjs1GnKRjhDh"
+        },
+        {
+          "name": "Vikas Vasishta",
+          "url": "https://open.spotify.com/artist/6IcmFfiYYoL5jTHo5xplm4"
+        },
+        {
+          "name": "Vijay Eshwar",
+          "url": "https://open.spotify.com/artist/6c2Mv4SRDP0ftR8VuleaLP"
+        }
+      ],
+      "duration_ms": 211774,
+      "name": "Bappa Bappa Moreya (From \"Interval\")",
+      "url": "https://open.spotify.com/track/5vToOYgPudINKlSc6lshqu"
+    },
+    {
       "added_at": "2024-09-03 08:54:38",
       "album": {
         "name": "Jeeva Neene (From \"Martin\") (Kannada)",
@@ -63,6 +107,30 @@
       "duration_ms": 235906,
       "name": "Jeeva Neene (From \"Martin\") (Kannada)",
       "url": "https://open.spotify.com/track/34BFlmApswmeZ6lncVun3z"
+    },
+    {
+      "added_at": "2024-09-09 06:19:58",
+      "album": {
+        "name": "Your's Sincerely RAAM Theme Music (From \"Your's Sincerely RAAM\")",
+        "url": "https://open.spotify.com/album/2d8dew9MwlN8tvrCBwafuO"
+      },
+      "artists": [
+        {
+          "name": "Ramesh Aravind",
+          "url": "https://open.spotify.com/artist/4KxgRf1jSOykgPTZ8PWnIY"
+        },
+        {
+          "name": "Ganesh",
+          "url": "https://open.spotify.com/artist/1lpAD2Qk6jE2f8RZpShBzU"
+        },
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "Your's Sincerely RAAM Theme Music (From \"Your's Sincerely RAAM\")",
+      "url": "https://open.spotify.com/track/0RbqZJ1Z85iIzSRj4uyFIn"
     },
     {
       "added_at": "2024-08-16 09:50:08",
@@ -107,6 +175,34 @@
       "duration_ms": 299400,
       "name": "Taare Nihaare (From \"Ibbani Tabbida Ileyali\")",
       "url": "https://open.spotify.com/track/5djXSCWcbFURXWGlOylJHK"
+    },
+    {
+      "added_at": "2024-09-09 06:17:39",
+      "album": {
+        "name": "Hesare Irada Bandha Namadhu - From \"Orange Marriage\"",
+        "url": "https://open.spotify.com/album/7EmFwRK8OgI2JjhdILhNhW"
+      },
+      "artists": [
+        {
+          "name": "jaskaran singh",
+          "url": "https://open.spotify.com/artist/3RZvZ0XrbbFtSESYLjxHI1"
+        },
+        {
+          "name": "Venkatesh P Marakamdini",
+          "url": "https://open.spotify.com/artist/3MFwjndcuDclnGzLKpfxKT"
+        },
+        {
+          "name": "Vinayak",
+          "url": "https://open.spotify.com/artist/2pACPxyRzWlnT4AGAv5DfN"
+        },
+        {
+          "name": "Nazeeb Billu",
+          "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        }
+      ],
+      "duration_ms": 214500,
+      "name": "Hesare Irada Bandha Namadhu - From \"Orange Marriage\"",
+      "url": "https://open.spotify.com/track/5q1Wr4SZowKXPQSMighi8v"
     },
     {
       "added_at": "2024-09-04 09:00:04",
@@ -1747,30 +1843,6 @@
       "duration_ms": 202723,
       "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/6GhDA8IutWpZO4HBpgQ3Z2"
-    },
-    {
-      "added_at": "2024-07-05 14:40:12",
-      "album": {
-        "name": "Havamaanave (From \"Ronny - The Ruler\")",
-        "url": "https://open.spotify.com/album/3O1gkqr0PlUYi1UmrQKazo"
-      },
-      "artists": [
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        },
-        {
-          "name": "Hamsika Iyer",
-          "url": "https://open.spotify.com/artist/35jsUTwBj5cW9GuNB7Xp61"
-        },
-        {
-          "name": "Kadri Mani Kanth",
-          "url": "https://open.spotify.com/artist/61LUri2kq5bRBRV2nquWhP"
-        }
-      ],
-      "duration_ms": 218058,
-      "name": "Havamaanave (From \"Ronny - The Ruler\")",
-      "url": "https://open.spotify.com/track/6LS1uzz0NlP9hWaJ4kHDZQ"
     }
   ],
   "unique_name": "Latest Kannada",

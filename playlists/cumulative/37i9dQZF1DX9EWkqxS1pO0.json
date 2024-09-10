@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Geri D\u00f6n",
+        "url": "https://open.spotify.com/album/4BQGAzfwDbrVW4O54xKhhG"
+      },
+      "artists": [
+        {
+          "name": "Ayberk Serin",
+          "url": "https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164930,
+      "name": "Geri D\u00f6n",
+      "url": "https://open.spotify.com/track/51RNqadonzyl4efQSMKaaG"
+    },
+    {
+      "album": {
         "name": "Gitme",
         "url": "https://open.spotify.com/album/7fOyzC83TBSOGpTHU61R5J"
       },
@@ -1423,6 +1441,24 @@
     },
     {
       "album": {
+        "name": "Sevmi\u015fsin Gibi",
+        "url": "https://open.spotify.com/album/7dkMzxKMKcuvGVkTbhOXWW"
+      },
+      "artists": [
+        {
+          "name": "Berkay Akman",
+          "url": "https://open.spotify.com/artist/7Fi8SvzJZ6iFOyWvoS7DK1"
+        }
+      ],
+      "date_added": "2024-09-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185200,
+      "name": "Sevmi\u015fsin Gibi",
+      "url": "https://open.spotify.com/track/4tEXZEWitoIMQJZAiBxbrk"
+    },
+    {
+      "album": {
         "name": "Sil Numaram\u0131",
         "url": "https://open.spotify.com/album/2HEq9rAXOx2W6aUcu1dElM"
       },
@@ -1780,7 +1816,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 155520,
       "name": "Yar\u0131m Kald\u0131m",
       "url": "https://open.spotify.com/track/0FQ4tIQYqMcGK68vEwHyvM"
@@ -1816,7 +1852,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 148148,
       "name": "Yar\u0131n\u0131m\u0131z Yokmu\u015f Gibi",
       "url": "https://open.spotify.com/track/599bwrbqRY3VazJJ943iNV"

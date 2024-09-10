@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: BOYNEXTDOOR",
+  "description": "Future K-Pop hits! Cover: NCT WISH",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -5594,6 +5594,24 @@
       "duration_ms": 220573,
       "name": "Dun Dun Dance",
       "url": "https://open.spotify.com/track/1TJUl8dh8AaKyDt91Kz87n"
+    },
+    {
+      "album": {
+        "name": "Dunk Shot",
+        "url": "https://open.spotify.com/album/4mC1EE9p4dHGws7cxoTZk4"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Dunk Shot",
+      "url": "https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t"
     },
     {
       "album": {
@@ -12099,6 +12117,24 @@
     },
     {
       "album": {
+        "name": "MEOW",
+        "url": "https://open.spotify.com/album/7mtt73Ch1hIRXT5qScF4s5"
+      },
+      "artists": [
+        {
+          "name": "MEOVV",
+          "url": "https://open.spotify.com/artist/08hHTBHlv0WRXWlyrsb6Kv"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172073,
+      "name": "MEOW",
+      "url": "https://open.spotify.com/track/72gPDy1zVt95zVNali0IhK"
+    },
+    {
+      "album": {
         "name": "Midas Touch",
         "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
       },
@@ -13768,7 +13804,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 181000,
       "name": "OST ( Feat.CHANMINA )",
       "url": "https://open.spotify.com/track/5i2qsnB4cF2j7KdxjhTbzV"
@@ -21262,7 +21298,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 198500,
       "name": "You",
       "url": "https://open.spotify.com/track/6MfWIdV9e9vu3V34L225B5"

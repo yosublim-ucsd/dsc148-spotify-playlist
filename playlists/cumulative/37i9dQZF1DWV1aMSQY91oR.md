@@ -4,7 +4,7 @@
 
 > The latest hip\-hop, refreshed weekly\. Cover: A$AP Rocky & J\. Cole
 
-2,667 songs - 5 day 8 hr 55 min
+2,668 songs - 5 day 8 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -741,7 +741,8 @@
 | [Facts](https://open.spotify.com/track/1llBn9ZpLIMToXyX3EHwTY) | [J Neat](https://open.spotify.com/artist/1sxzn6d0We1Q0RKxPE2BCu) | [Facts](https://open.spotify.com/album/25hriAa0ZI03DtMDypySRv) | 2:22 | 2023-10-20 | 2023-10-28 |
 | [Facts](https://open.spotify.com/track/2wdXG86Ikdyau12PPOgvAb) | [Roney](https://open.spotify.com/artist/2nGZqSJU7K5mkZCjxSlu5J), [King Benz](https://open.spotify.com/artist/7rt1yOeiqSCRRPJwmxHRK4) | [Facts](https://open.spotify.com/album/6eIYvJJYTQxcJZzCYz5z6K) | 3:30 | 2023-08-11 | 2023-08-19 |
 | [Fake Can't Stay \- ft.JAE5](https://open.spotify.com/track/409pX3u1zVMQr5GG8LUmJ3) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p) | [Beyond Rea5onable Doubt](https://open.spotify.com/album/2zrRASXuB791xdPFFGWtTV) | 3:23 | 2024-08-23 |  |
-| [Fall Back feat\. Lil Tjay](https://open.spotify.com/track/5VwpXEckHv05lphILMBFqh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back feat\. Lil Tjay](https://open.spotify.com/album/66MDLkI4A47bbbh2FSsj8W) | 2:40 | 2024-09-06 |  |
+| [Fall Back \(feat\. Lil Tjay\)](https://open.spotify.com/track/08e2POFDvniujTDRdk8yGL) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back](https://open.spotify.com/album/2PdNRh1Hyewc23wjgvzgao) | 2:40 | 2024-09-09 |  |
+| [Fall Back feat\. Lil Tjay](https://open.spotify.com/track/5VwpXEckHv05lphILMBFqh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back feat\. Lil Tjay](https://open.spotify.com/album/66MDLkI4A47bbbh2FSsj8W) | 2:40 | 2024-09-06 | 2024-09-10 |
 | [Fall Back feat\. NAV](https://open.spotify.com/track/6j2zmsqdQgWO6SSwpephqY) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Fall Back feat\. NAV](https://open.spotify.com/album/5p1MgdarytYpfTDfC1NxMy) | 2:40 | 2024-08-16 | 2024-09-07 |
 | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/track/3w7AzChjtAtjLvVQll2Mjf) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Fallback Queen \(feat\. Vory\)](https://open.spotify.com/album/2qYeK1QWdV9oMmYSzWzy6v) | 3:20 | 2023-08-04 | 2023-08-12 |
 | [Fallen Angel \(Freestyle\)](https://open.spotify.com/track/3CZdE15TmzacnzqcEn2nwG) | [Ashton](https://open.spotify.com/artist/5o6VVK6MYis7rpuHp6xs6A) | [Playboy Sent You Too](https://open.spotify.com/album/5iuBGIw3zOOV4wbJKgrtuA) | 2:35 | 2023-09-08 | 2023-09-16 |

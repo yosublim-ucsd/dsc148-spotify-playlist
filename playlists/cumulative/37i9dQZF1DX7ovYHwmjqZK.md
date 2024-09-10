@@ -4,7 +4,7 @@
 
 > Bossa Nova e MPB como acompanhamento / Bossa y música brasileña para todo momento.
 
-152 songs - 9 hr 2 min
+153 songs - 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Quinze Pras Sete na Vila](https://open.spotify.com/track/5Da8D5lZy27M8BCPyZsaJj) | [Clube Do Balanço](https://open.spotify.com/artist/1mG5Uzuz3aAujqVdNUMTmO) | [Balanço na Quebrada](https://open.spotify.com/album/3aE7O0WQoaLqzranUowU3r) | 3:44 | 2022-10-14 | 2024-04-19 |
 | [Rio](https://open.spotify.com/track/68g7b2qXw6eV2xr9B2OUWm) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl), [Roberto Menescal](https://open.spotify.com/artist/2r1d0isPFggU8QaBzvAWmG) | [Rio](https://open.spotify.com/album/72Y5wfmlHjDmDcAKXOWXta) | 4:07 | 2021-11-26 |  |
 | [Rosa Morena](https://open.spotify.com/track/2675EULE58FJDcOiEbyy2P) | [Duo Flamingo](https://open.spotify.com/artist/3xftE3TBKAyci29tDwa8S3) | [Rosa Morena EP](https://open.spotify.com/album/5ZIv0QTRlBeSnMJ6mVyEMm) | 4:06 | 2021-11-26 |  |
+| [Salomé](https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD) | [Matheus Fonseca](https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss) | [Salomé](https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K) | 3:56 | 2024-09-09 |  |
 | [Samba da rosa](https://open.spotify.com/track/7qAyUR61yrl6XV31iAJWlp) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/5jUhMOLnof9gojepRuXc0o) | 2:50 | 2022-10-14 | 2023-07-08 |
 | [Samba de la rosa](https://open.spotify.com/track/05EhwPCpHvYCOrRnUpGyXW) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Samba de la rosa](https://open.spotify.com/album/4HPZx1e4aEifXZj7XjuWts) | 2:50 | 2021-11-26 | 2023-01-07 |
 | [Samba de la rosa](https://open.spotify.com/track/2wZFPBHHRynIfNdixVfKbX) | [Maria Escobar](https://open.spotify.com/artist/4JdJVpIZYYuvGYIJ0cGvkL), [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y) | [Fuerza Extraña](https://open.spotify.com/album/1WgYW5Ni9JxHyNoQcLvRoa) | 2:50 | 2021-11-26 | 2022-12-25 |
@@ -156,7 +157,7 @@
 | [Você](https://open.spotify.com/track/1d3qDMU9yAjC5rnmWysKT8) | [Lucas Sousa Bossa](https://open.spotify.com/artist/0IqYi6pLXMPRYTCLAis6xZ) | [Você](https://open.spotify.com/album/4XmYp5cXvq202uUzz118L5) | 3:33 | 2021-11-26 |  |
 | [Você E Eu](https://open.spotify.com/track/4XsuAqkLStEB5qgiAG3Zgo) | [Bossa Avenida](https://open.spotify.com/artist/5xrWkIVKlaN0xson8wkoWJ) | [Você E Eu](https://open.spotify.com/album/5tGRo4uM3dFYUXusmu9yBe) | 2:59 | 2021-11-26 |  |
 | [Você Não](https://open.spotify.com/track/43PSdmRfZUuMkoOEtPZr3A) | [Jana Andrade](https://open.spotify.com/artist/110kMQksFS986W3yIbKozG), [Pedro Palma](https://open.spotify.com/artist/7Ehj2f0461yhsL8l6g3YPI) | [Você Não](https://open.spotify.com/album/1drJjZmRDV0U8IiDsS6h1v) | 2:55 | 2024-09-01 |  |
-| [Zum Zum](https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Zum Zum](https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ) | 2:59 | 2021-11-26 |  |
+| [Zum Zum](https://open.spotify.com/track/25nxYKQHAh7ehFIsc4kloY) | [Daniela Soledade](https://open.spotify.com/artist/1uFhayw4wNDAA8kTsl5ACl) | [Zum Zum](https://open.spotify.com/album/4n0PDXCUXzTzv6z2NaimtJ) | 2:59 | 2021-11-26 | 2024-09-10 |
 | [É Preciso Dizer Adeus](https://open.spotify.com/track/2yMWSLsGb0jcRsUNmWheKX) | [Edu Lobo](https://open.spotify.com/artist/6u5P4S3NSj4EDNegDlOevO), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Edu & Tom, Tom & Edu](https://open.spotify.com/album/5ttzMNvNxUiCtKlKiCnQLm) | 4:17 | 2021-11-26 |  |
 | [Índia \- Tarde de Sol](https://open.spotify.com/track/4WJdUncyLVGd2I4lyuAYB0) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [Salsa & The City](https://open.spotify.com/album/5x02IvX7PjTtJLSFDnzxhC) | 3:08 | 2022-10-14 | 2022-11-13 |
 | [Índia \- Tarde de Sol](https://open.spotify.com/track/78wqr91hQ7oX3H5FEOE6zF) | [Last Aliens in Rio](https://open.spotify.com/artist/6mlVweP8wRCjPz47REmRD8) | [Índia](https://open.spotify.com/album/0jKrhKSGwTc4ZJ1cBvtRpI) | 3:08 | 2021-11-26 | 2024-04-19 |

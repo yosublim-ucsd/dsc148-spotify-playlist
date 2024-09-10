@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover\- Neha Kakkar & Shekhar Ravjiani
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,905 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,948 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 16 | [Losing Myself \(feat\. Gunna\)](https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:58 |
 | 17 | [Milenge Hum Nahi](https://open.spotify.com/track/213ylixMhUkUEQaTJnT6fc) | [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Milenge Hum Nahi](https://open.spotify.com/album/46WiNmrfHH0Xu1uKG83s0K) | 3:29 |
 | 18 | [Shamaan De Vele](https://open.spotify.com/track/5SQzNdM0LfPWZiMEfRsItB) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Leo Grewal](https://open.spotify.com/artist/2fQMiJ1MvUHYPfJsKAhIIr) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 2:51 |
-| 19 | [Sweet Flower \(feat\. Syra\)](https://open.spotify.com/track/3uyf8yCzPXZ9IXTjlxLGKf) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Syra](https://open.spotify.com/artist/4QrpItsl2noO7FDQIQbL7M) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:56 |
+| 19 | [Sweet Flower \(feat\. Syra\)](https://open.spotify.com/track/3uyf8yCzPXZ9IXTjlxLGKf) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Syra](https://open.spotify.com/artist/2084XyyxS0j6Yt7u5KpbAa) | [The Brownprint](https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo) | 2:56 |
 | 20 | [Aqda](https://open.spotify.com/track/0R1Y0bivX5ASIh4Tiyl65w) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Aqda](https://open.spotify.com/album/78hWb6l21eCElnYPcFT6UQ) | 3:13 |
 | 21 | [Lo Aayi Baarishein](https://open.spotify.com/track/5xkNOFtqybVpHQj3Av8Cu8) | [Piyush Mehroliyaa](https://open.spotify.com/artist/5Gzv3tQFyqdp6x8OM9TMk8), [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Sangita Singhh](https://open.spotify.com/artist/7F65kq27jBxkr7tLZo4Lzd) | [Lo Aayi Baarishein](https://open.spotify.com/album/2R3vIlC4Qf0KjkHMmVGIkj) | 3:33 |
 | 22 | [Payal](https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Paradox](https://open.spotify.com/artist/3fWcIRZlzhMl2YNACMvHui) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:46 |

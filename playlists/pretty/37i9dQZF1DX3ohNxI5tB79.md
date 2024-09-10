@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 
 > Start your morning right with this collection of funky, soulful, jazzy tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,527 likes - 80 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,585 likes - 80 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
-| 2 | [Calm Waters](https://open.spotify.com/track/4C2PiEuyuMVrJvPhV1yl7q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Calm Waters](https://open.spotify.com/album/49du69iKacbpouSotoaiCQ) | 4:55 |
-| 3 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 |
-| 4 | [Fire](https://open.spotify.com/track/2VddkC2rG6mCucf0nFJWWR) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fire / Black Moon Rising](https://open.spotify.com/album/46gE7e1EGux8hwbSu87F4W) | 4:06 |
-| 5 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 |
-| 6 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 |
-| 7 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
-| 8 | [Bat \(For You\)](https://open.spotify.com/track/2vC2SmmDqsXEIK6JL29siK) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [ElectroSoul](https://open.spotify.com/album/7asruEMSmzaLp7FPOJEs32) | 2:49 |
+| 1 | [Calm Waters](https://open.spotify.com/track/4C2PiEuyuMVrJvPhV1yl7q) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD) | [Calm Waters](https://open.spotify.com/album/49du69iKacbpouSotoaiCQ) | 4:55 |
+| 2 | [Take Me Higher](https://open.spotify.com/track/4ORp5huJChm7E6QZpA1482) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [Take Me Higher](https://open.spotify.com/album/3rJ1uoo2TS4CqPE49XOzeT) | 4:04 |
+| 3 | [Fire](https://open.spotify.com/track/2VddkC2rG6mCucf0nFJWWR) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Fire / Black Moon Rising](https://open.spotify.com/album/46gE7e1EGux8hwbSu87F4W) | 4:06 |
+| 4 | [Come Home \(feat\. André 3000\)](https://open.spotify.com/track/6RpunyUP44SDweJPDScLSF) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 4:26 |
+| 5 | [Yes I Do](https://open.spotify.com/track/6oTbxrszNWRsLdwFkGeHy6) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B IV](https://open.spotify.com/album/6PPhLgXiq4nEiZ8x2ZB3xV) | 5:10 |
+| 6 | [Reverence](https://open.spotify.com/track/5HsDGaUBBBWBCpIjpHuB2T) | [Re:um](https://open.spotify.com/artist/6gLleDsNwfehG7vWuK2zQe) | [Reverence](https://open.spotify.com/album/6l1B36T3ydZoaEdxtNrw5m) | 2:19 |
+| 7 | [Bat \(For You\)](https://open.spotify.com/track/2vC2SmmDqsXEIK6JL29siK) | [MMYYKK](https://open.spotify.com/artist/1tCMk7g0K58M82X2kNxlGT) | [ElectroSoul](https://open.spotify.com/album/7asruEMSmzaLp7FPOJEs32) | 2:49 |
+| 8 | [When I'm in Your Arms](https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 5:35 |
 | 9 | [Miss Universe](https://open.spotify.com/track/2CPpN4N2VPOzNsahwsopZj) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [UPRISE](https://open.spotify.com/album/4GjHhGjiJZTlctbH6DKp0E) | 4:15 |
 | 10 | [I Feel Alright](https://open.spotify.com/track/1OCanjTF96osCOy1nmFCRx) | [Shane Sato](https://open.spotify.com/artist/7A4XdB4WDsaYZzOySUSwhj), [Oli\-J](https://open.spotify.com/artist/3HKiNdpPyhLNbBuRLS0tuj), [Glen Turner II](https://open.spotify.com/artist/2omhR1o2b473XYUIWA0m4s), [Coastal](https://open.spotify.com/artist/54Eehq7Ls4ZXE8pdTTPClj) | [I Feel Alright](https://open.spotify.com/album/7sNv0KlEAlfQ0TYVeE0Do2) | 2:25 |
 | 11 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ohNxI5tB79.md) - [plain]
 | 79 | [Whisper My Name](https://open.spotify.com/track/1qc5dn8Ou7plbR0SxH1pzD) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Whisper My Name](https://open.spotify.com/album/6ELf7lXd7luKkRCDjZ9wzg) | 4:00 |
 | 80 | [Everybody Love](https://open.spotify.com/track/6iVl0KVT87kMRqYxAMstSN) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8), [Posdnuos](https://open.spotify.com/artist/4OydvmAsJa7r6W8Q0xwkI7) | [Black Radio III](https://open.spotify.com/album/54TcbHrolA5VaPXZNKx4du) | 5:03 |
 
-Snapshot ID: `ZqyJrQAAAABxRw6zGzY129hGEQj7EsDk`
+Snapshot ID: `Zt7f8QAAAABVQs3FoOTm4zBlSAdBcnDF`

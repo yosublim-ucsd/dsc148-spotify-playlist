@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/35JMHmpi0nT9626f9RW8f6">Mariah Carey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,029 likes - 249 songs - 17 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,031 likes - 249 songs - 17 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -146,9 +146,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 136 | [After Tonight](https://open.spotify.com/track/5nxuah08yYECil4UZuEE8N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow](https://open.spotify.com/album/1iSTXHBhLc9ImaqyvVZGft) | 4:14 |
 | 137 | [Ribbon](https://open.spotify.com/track/11NxKfNMz21t1HnvWsqwNv) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 4:21 |
 | 138 | [And You Don't Remember](https://open.spotify.com/track/6kfyeOWjfBgfSlq1dgWq0N) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Emotions](https://open.spotify.com/album/0SHpIbyBLUugMXsl3yNkUz) | 4:25 |
-| 139 | [Make It Look Good](https://open.spotify.com/track/4fSYqaMeEg15MpFYZCUYN0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \- Deluxe](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:23 |
+| 139 | [Never Too Far](https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:21 |
 | 140 | [I've Been Thinking About You](https://open.spotify.com/track/0mL8kPWWoXYEwOmSQvx6t7) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/5Mr8FpZP1DaLDxjbMD7GcR) | 4:45 |
-| 141 | [Never Too Far](https://open.spotify.com/track/2H2H7L4u7yDT2cIIzfIp4c) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Glitter](https://open.spotify.com/album/2hHFZLYnwsYOOxTCrlNvg0) | 4:21 |
+| 141 | [Make It Look Good](https://open.spotify.com/track/4fSYqaMeEg15MpFYZCUYN0) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Me\. I Am Mariah…The Elusive Chanteuse \- Deluxe](https://open.spotify.com/album/47voGlgRLcSe9VVO4K4IQa) | 3:23 |
 | 142 | [Inseparable](https://open.spotify.com/track/3SnzhocraXbgk8dYkIHaBS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Memoirs of an imperfect Angel](https://open.spotify.com/album/2OLFvAidCY5f7tJYslvSuk) | 3:33 |
 | 143 | [All In Your Mind](https://open.spotify.com/track/1pbue6khgOfJVEZ1zoFTXL) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Mariah Carey](https://open.spotify.com/album/5SwNGsGw1I8H361DKiYnnn) | 4:43 |
 | 144 | [One Child](https://open.spotify.com/track/2sfLtYTdNnGZc1rZoIkRyY) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas II You](https://open.spotify.com/album/4q88opkbXkvvL0iIvbs0pv) | 4:25 |
@@ -243,8 +243,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 233 | [Make You Happy](https://open.spotify.com/track/5vroKLJVVcmaMZc2Ef1Ei4) | [Trey Lorenz](https://open.spotify.com/artist/23kP8xlQifcAV4nd84iHbW) | [Men In Black The Album](https://open.spotify.com/album/5g2UDPmM7d8itXNojbWF6k) | 4:06 |
 | 234 | [Honey \- Another Taste of Honey David Morales Remix](https://open.spotify.com/track/4Bzba6q2itit9sMts2H9c4) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly: 25th Anniversary Expanded Edition](https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379) | 7:55 |
 | 235 | [Help Me Find a Way to Your Heart](https://open.spotify.com/track/0gBAeU53xAsc3KYQEnd4PU) | [Daryl Hall](https://open.spotify.com/artist/5jit9WjiAxxvdA0onOHBLd) | [Soul Alone](https://open.spotify.com/album/11QAdOX1e4jLTyqFTchSBr) | 4:48 |
-| 236 | [Honey \(feat\. Da Brat & JD\) \- So So Def Radio Mix](https://open.spotify.com/track/27P1JegJjatmmiGcoqCL0D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [JD](https://open.spotify.com/artist/3z7yKqJJRHP9hoCvCuFO4X) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 3:59 |
-| 237 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 236 | [There For Me](https://open.spotify.com/track/3mASdjEd8tR3D2oSvPJouk) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Rainbow: 25th Anniversary Expanded Edition](https://open.spotify.com/album/6yitEMT7G4qfIcV3jWXP8I) | 4:14 |
+| 237 | [Honey \(feat\. Da Brat & JD\) \- So So Def Radio Mix](https://open.spotify.com/track/27P1JegJjatmmiGcoqCL0D) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [JD](https://open.spotify.com/artist/3z7yKqJJRHP9hoCvCuFO4X) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 3:59 |
 | 238 | [Honey \- Def Club Mix](https://open.spotify.com/track/7KYUMnOtA07ZC99xpMhVIE) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 6:18 |
 | 239 | [Don't Go Looking for Love \(feat\. Blaque Ivory\)](https://open.spotify.com/track/5FxR2GoCKjFt5COFRqaBIh) | [Blaque](https://open.spotify.com/artist/1nSRa2YjjFWJLHGKM07oGQ), [Blaque Ivory](https://open.spotify.com/artist/0yXe7p9gCK8nDcuHXFvdc8) | [Blaque](https://open.spotify.com/album/4M3ZR714EWG904OX0XXQbp) | 4:01 |
 | 240 | [Honey \- Smooth Version with Intro](https://open.spotify.com/track/0F9lHbQf1belQE8OUloAw5) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Honey EP](https://open.spotify.com/album/6Ae7Vj251EDHIGEwEYsdEH) | 5:06 |
@@ -258,4 +258,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFGspGB3vH6ej.md) - [plain]
 | 248 | [Herói](https://open.spotify.com/track/1kEV3SaWpYpYtGQPka4ilY) | [Márcio José](https://open.spotify.com/artist/4C3DIE332Fqn9pc3gjBEFg), [Soraya Moraes](https://open.spotify.com/artist/0IPQAIkLxcVSsxlTPPn3Bp) | [Uma Voz, Um Coração](https://open.spotify.com/album/26fyRBEH5saQYYnZQKzxaI) | 4:25 |
 | 249 | [Mariah Carey Medley](https://open.spotify.com/track/0JYjfBRgqDSwNLLFKLVEpw) | [A Cappella Academy](https://open.spotify.com/artist/3EnayRL2KAEkcW9vfKCkOV), [Zenith](https://open.spotify.com/artist/4T9ZZbboogPwvKmRlCd2Un) | [A Cappella Academy 2022](https://open.spotify.com/album/3PAxAlpfqf2lirM172b1q6) | 4:10 |
 
-Snapshot ID: `AbboFAAAAABgbdz4hHaRrW2seeOwaW6R`
+Snapshot ID: `AbbttAAAAADkLaK1gHBjt1KOASsMD8VR`

@@ -279,6 +279,28 @@
     },
     {
       "album": {
+        "name": "DSP",
+        "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        },
+        {
+          "name": "GD 47",
+          "url": "https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "8-FIGGAAH! (feat. GD47)",
+      "url": "https://open.spotify.com/track/2WNFPHqgE3iFcsnIOJ2IWw"
+    },
+    {
+      "album": {
         "name": "His Story",
         "url": "https://open.spotify.com/album/22gTBNDI7rNbqFNu46IoBU"
       },
@@ -610,7 +632,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 143529,
       "name": "Barks",
       "url": "https://open.spotify.com/track/5AcWXb7VURDdZeSLa75d71"
@@ -1080,6 +1102,24 @@
       "duration_ms": 216000,
       "name": "Compulsory",
       "url": "https://open.spotify.com/track/326eZ9C7qpDj6NSsEiKvoW"
+    },
+    {
+      "album": {
+        "name": "DSP",
+        "url": "https://open.spotify.com/album/1K7j7CMe82qIGH1OfxuGel"
+      },
+      "artists": [
+        {
+          "name": "Prabh Deep",
+          "url": "https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Daang, V1",
+      "url": "https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7"
     },
     {
       "album": {

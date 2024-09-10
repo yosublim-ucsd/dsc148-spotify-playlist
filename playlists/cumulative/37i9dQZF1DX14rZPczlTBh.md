@@ -4,7 +4,7 @@
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-139 songs - 7 hr 52 min
+140 songs - 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bellam Sridevi](https://open.spotify.com/track/2FTTWwH9X6k04dsLjTwSI6) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3FgJTey3USHIBID0Dq1Tai) | 4:04 | 2021-06-24 | 2022-07-29 |
 | [Bellam Sridevi](https://open.spotify.com/track/7y8F8jWMytNa55pFUBJKA0) | [Sai Charan](https://open.spotify.com/artist/32rgf5uvf7GtEPjrHyJ6uU) | [Supreme](https://open.spotify.com/album/10UPi9tXKODp4KUs1uOOru) | 4:05 | 2021-06-24 | 2024-08-24 |
 | [Bhaagamathie Theme Song](https://open.spotify.com/track/70aOLJxqeaGqSAM2QcyHr5) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Sony](https://open.spotify.com/artist/3wVWtO2KjJMENL80IwjcEs), [Sahiti](https://open.spotify.com/artist/12AnVzIjhLoJtjglsBYofG), [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD), [Ramya Behara](https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv) | [Bhaagamathie](https://open.spotify.com/album/1iOVh05WQ772aumAWjNknn) | 4:48 | 2024-08-23 |  |
+| [Bhaga Bhaga](https://open.spotify.com/track/3KpBJtSOZdWTNk48O2b4m9) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \- Original Motion Picture Soundtrack](https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q) | 2:55 | 2024-09-09 |  |
 | [Bheemla Back On Duty](https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vaishnavi kovvuri](https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i), [Pratyusha pallapothu](https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC), [Rachitha Rayaprolu](https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx), [Parnika Manya](https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Bheemla Nayak](https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V) | 4:02 | 2024-08-23 |  |
 | [Blockbuster](https://open.spotify.com/track/37S2kL71k5LOmGxzJ7JLzE) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB), [Simha](https://open.spotify.com/artist/0tluFVpifIuT5slS3M1yTi), [Sri Krishna](https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C), [Deepu](https://open.spotify.com/artist/29umRgJCe6MeepDOqSaiRb) | [Sarrainodu](https://open.spotify.com/album/4wwqWlnn6LF8CplJfZcHF8) | 5:04 | 2021-06-24 | 2024-08-24 |
 | [Bombhaat](https://open.spotify.com/track/0VcO1SA3oUKl1qHSUc6LxQ) | [Rahul Sipligunj, Ramya Behara](https://open.spotify.com/artist/1FU5zchVyOx3ShCCLu9wb2) | [LIE](https://open.spotify.com/album/5qpZDTqwLtGVwWlSz8TcHV) | 4:03 | 2021-06-24 | 2024-08-24 |

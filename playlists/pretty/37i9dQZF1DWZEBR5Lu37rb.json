@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 71712,
+  "num_followers": 71809,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Umuthi",
-        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
-      },
-      "artists": [
-        {
-          "name": "Blaq Diamond",
-          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
-        }
-      ],
-      "duration_ms": 249795,
-      "name": "Ibhanoyi",
-      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Buyelekhaya",
         "url": "https://open.spotify.com/album/45R6SFqOW3G7OREgneLaZ1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 277760,
       "name": "Nomvula",
       "url": "https://open.spotify.com/track/3ZxyJpVtUVsiSwsY5W1U1L"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Umuthi",
+        "url": "https://open.spotify.com/album/2bjC0ex3FhejL6cuaLToJU"
+      },
+      "artists": [
+        {
+          "name": "Blaq Diamond",
+          "url": "https://open.spotify.com/artist/7hdf9DSpgCpqVh03Ql1LKe"
+        }
+      ],
+      "duration_ms": 249795,
+      "name": "Ibhanoyi",
+      "url": "https://open.spotify.com/track/1UooO4lFHhFaKX8Jgz9xNI"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -767,26 +767,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Once Upon a Time",
-        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Eminado (feat. Don Jazzy)",
-      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Broken Lipstick",
         "url": "https://open.spotify.com/album/2X0MNKHlGm5L6UAaaTsabH"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 269733,
       "name": "If Love Is A Crime",
       "url": "https://open.spotify.com/track/1imfHroOMdTqspOIGnVtOs"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Once Upon a Time",
+        "url": "https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Eminado (feat. Don Jazzy)",
+      "url": "https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "The Soil",
-        "url": "https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ"
-      },
-      "artists": [
-        {
-          "name": "The Soil",
-          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Iinkomo",
-      "url": "https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Sunday Blues",
         "url": "https://open.spotify.com/album/47lwfbRB4zO2oJVLXo1zKq"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 225382,
       "name": "Sunday Blues",
       "url": "https://open.spotify.com/track/4zWRI4TEkznVoLrwpJFNX6"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "The Soil",
+        "url": "https://open.spotify.com/album/40xc4y4rX3qsQ6ebJV4DpJ"
+      },
+      "artists": [
+        {
+          "name": "The Soil",
+          "url": "https://open.spotify.com/artist/3UhCf5Cu963oXz9DseciIU"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Iinkomo",
+      "url": "https://open.spotify.com/track/43mkIV9mXkNupF5PtZ7kI4"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 187285,
-      "name": "Angela",
-      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Imali",
         "url": "https://open.spotify.com/album/7z67WvNh1LJMAZHvR6T1vy"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 198905,
       "name": "Ubuhle Bakho",
       "url": "https://open.spotify.com/track/4mkfmHDntAJNnfZG033D6O"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/7CgmZV26MGzBDifUie9PjE"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 187285,
+      "name": "Angela",
+      "url": "https://open.spotify.com/track/7HNCjHpGLQ0GO4Ea6DPdPq"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
+        "name": "Ntumba",
+        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
+      },
+      "artists": [
+        {
+          "name": "Ringo Madlingozi",
+          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
+        }
+      ],
+      "duration_ms": 265506,
+      "name": "Ndiyagodola",
+      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
         "name": "Sweet Sensation",
         "url": "https://open.spotify.com/album/5rvGWT1H7j1qDjTQsLetPM"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 210651,
       "name": "Sweet Sensation",
       "url": "https://open.spotify.com/track/0XSE0EfkNkGtb6Bbhd0ae4"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "Ntumba",
-        "url": "https://open.spotify.com/album/1FGSoB2oF3I3RlyCtsuIpR"
-      },
-      "artists": [
-        {
-          "name": "Ringo Madlingozi",
-          "url": "https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ"
-        }
-      ],
-      "duration_ms": 265506,
-      "name": "Ndiyagodola",
-      "url": "https://open.spotify.com/track/5PIYT6wbHYd1z4wUOavkUH"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Wetin",
-        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
-      },
-      "artists": [
-        {
-          "name": "Yarden",
-          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
-        }
-      ],
-      "duration_ms": 78946,
-      "name": "Wetin",
-      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Nomvula",
         "url": "https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "Wetin",
+        "url": "https://open.spotify.com/album/1tjrFRf90MQuWg9Vgv6Iwb"
+      },
+      "artists": [
+        {
+          "name": "Yarden",
+          "url": "https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd"
+        }
+      ],
+      "duration_ms": 78946,
+      "name": "Wetin",
+      "url": "https://open.spotify.com/track/3yu5otkADG1ldufrPxABoo"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Expressions",
-        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
       },
       "artists": [
         {
-          "name": "Styl-Plus",
-          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
         }
       ],
-      "duration_ms": 320012,
-      "name": "Olufunmi",
-      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
+      "duration_ms": 180618,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
+        "name": "Expressions",
+        "url": "https://open.spotify.com/album/01SktV4RyLV8DXEefe5YUB"
       },
       "artists": [
         {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+          "name": "Styl-Plus",
+          "url": "https://open.spotify.com/artist/3WzoYG00RDcrAD5ZPAUmPy"
         }
       ],
-      "duration_ms": 180618,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
+      "duration_ms": 320012,
+      "name": "Olufunmi",
+      "url": "https://open.spotify.com/track/0AOcD9HShrW6Svt3GZYEVE"
     },
     {
       "added_at": "2024-05-22 11:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "D'banj Essentials",
-        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
-      },
-      "artists": [
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        }
-      ],
-      "duration_ms": 256840,
-      "name": "Fall in Love",
-      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
-    },
-    {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
         "name": "Barua ya Dunia",
         "url": "https://open.spotify.com/album/7fLPbISe7JY8c0O0huAL0Z"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 254986,
       "name": "Kookoo",
       "url": "https://open.spotify.com/track/5T5BqyMPNjS6t7booTFulF"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "D'banj Essentials",
+        "url": "https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L"
+      },
+      "artists": [
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        }
+      ],
+      "duration_ms": 256840,
+      "name": "Fall in Love",
+      "url": "https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1"
     },
     {
       "added_at": "2024-05-22 11:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Kanye West. Los temas esenciales, todos en una lista.",
-  "num_followers": 1320258,
+  "description": "This is Kanye West. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 1320673,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAAAoEZqITfcrtqvccDLWtYr1",
+  "snapshot_id": "ZtzpAAAAAAC63jN9u9AFA34c0CRZRq0S",
   "tracks": [
     {
       "added_at": null,
@@ -772,7 +772,7 @@
       "added_at": null,
       "album": {
         "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
       "artists": [
         {
@@ -782,11 +782,19 @@
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        },
+        {
+          "name": "The-Dream",
+          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
         }
       ],
-      "duration_ms": 140746,
-      "name": "Gotta Have It",
-      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
+      "duration_ms": 272506,
+      "name": "No Church In The Wild",
+      "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
     },
     {
       "added_at": null,
@@ -848,7 +856,7 @@
       "added_at": null,
       "album": {
         "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+        "url": "https://open.spotify.com/album/7mCeLbChyegbRwwKK5shJs"
       },
       "artists": [
         {
@@ -858,19 +866,11 @@
         {
           "name": "Kanye West",
           "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        },
-        {
-          "name": "The-Dream",
-          "url": "https://open.spotify.com/artist/1W3FSF1BLpY3hlVIgvenLz"
         }
       ],
-      "duration_ms": 272506,
-      "name": "No Church In The Wild",
-      "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi"
+      "duration_ms": 140746,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/6JFLZH9vCzgqnUToBdiHQb"
     },
     {
       "added_at": null,

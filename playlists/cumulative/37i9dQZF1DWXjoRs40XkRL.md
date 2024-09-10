@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-296 songs - 1 day 1 hr 10 min
+297 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Aakhiyaan Laagi](https://open.spotify.com/track/3SeyoWxJ18DVuoHRkj2Zgc) | [DEW](https://open.spotify.com/artist/3kTz6jnByrB7YKt0sEQC8s), [Sanchari Nag](https://open.spotify.com/artist/3Vdi9hu61GlWNIvJH51AmE) | [Aakhiyaan Laagi](https://open.spotify.com/album/4blxL5lxD7ihKqoFqT9k0A) | 3:05 | 2024-03-15 |  |
 | [Aan Milo Sajna](https://open.spotify.com/track/3IIqpaAs6d5ZFSW8NExVN8) | [Rishabh Srivastava](https://open.spotify.com/artist/4heuryKQnH5KRfVWO6Rmjl) | [Aan Milo Sajna](https://open.spotify.com/album/2cj2Ig40zfQualDkWWI4Vj) | 3:37 | 2024-08-18 |  |
 | [Aaye Hain Samjhane Log](https://open.spotify.com/track/1Wn4zfB2f3E2fM9fEFvzcH) | [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P) | [Aaye Hain Samjhane Log \- Single](https://open.spotify.com/album/7xrGnhOnRu2wdzcndieCaO) | 4:47 | 2022-05-17 |  |
-| [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 |  |
+| [Aaye Na Balam](https://open.spotify.com/track/7lVPuhH2BjjDEVzBZBPJaL) | [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj), [Vaishnavi](https://open.spotify.com/artist/5cOsPxjOTOovRWboflO8CZ) | [Aaye Na Balam](https://open.spotify.com/album/00oSm4ubHzQkPJMRuobGky) | 3:00 | 2024-03-06 | 2024-09-10 |
 | [Ab Mori Chhaad De](https://open.spotify.com/track/07Ssi0muLx96jEPFDqTNPf) | [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ), [Pratibha Singh Baghel](https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Ab Mori Chhaad De](https://open.spotify.com/album/5pf1eQ4E1YMSJvVLBecgVx) | 4:17 | 2022-12-13 | 2023-06-03 |
 | [Adaaein](https://open.spotify.com/track/4He5EVmJ89k2BelkpXJlLl) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/7aU4BE6L1rM9cbvBdfKaDt) | 4:09 | 2024-02-19 | 2024-04-19 |
 | [Adaaein](https://open.spotify.com/track/5DrVb38NSe9h0R1aNbNaDO) | [Aakash Aman](https://open.spotify.com/artist/0QO3f7rvsqC3tw1KnHu8oK) | [Adaaein](https://open.spotify.com/album/2nsN1K7V7l2QrxsLcwzAty) | 4:09 | 2023-07-21 | 2024-07-01 |
@@ -254,6 +254,7 @@
 | [Rutho Na](https://open.spotify.com/track/7qELZM6FhIlVAXDY95fwCv) | [Aditya Anand](https://open.spotify.com/artist/6hc1L9rHE2P8j5pIss5sQz), [Priyani Vani Panditt](https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8) | [Rutho Na](https://open.spotify.com/album/4RXQdMCTlB5HEw589BzYHy) | 3:20 | 2023-03-03 | 2023-06-03 |
 | [Saanware](https://open.spotify.com/track/2RLpjKjWsT52aZ6VejuI1A) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Aditi Paul](https://open.spotify.com/artist/0Es0q6Ck6CyyDjrWBqWkRc) | [Saanware](https://open.spotify.com/album/0hToTtwlTo3fbYCd1aE95L) | 3:48 | 2022-05-17 | 2023-07-14 |
 | [Saanware Aijaiyo](https://open.spotify.com/track/2uDeh0ImYtWkYSPjrX77gb) | [Kavita Seth](https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Saanware Aijaiyo](https://open.spotify.com/album/5k7KeArB1J9JPCRC12Xz7j) | 3:54 | 2023-09-14 |  |
+| [Saavan Aayo Re](https://open.spotify.com/track/5JAeLLOKYJDRv8cmXMgrOb) | [Rashid Khan](https://open.spotify.com/artist/1cw8NspBF8JctQm5rpn3pv), [Sucheta Bhattacharjee](https://open.spotify.com/artist/5BCIB70Lj3ShanUt22DT9R) | [Saavan Aayo Re](https://open.spotify.com/album/5DTghGia9uBeNIe1VTPwK7) | 5:32 | 2024-09-09 |  |
 | [Sagariya](https://open.spotify.com/track/092NFcCnJaSbcZQd76IGSf) | [Bombay Bandook](https://open.spotify.com/artist/3VkYRrfqoEIhBfcHTvdYGs) | [Sagariya](https://open.spotify.com/album/1hDVhG2pylmO3ef4y15jD0) | 6:52 | 2022-05-17 | 2023-08-02 |
 | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/track/3JMz4MfpBq6OOv5kfltzgL) | [Avanti Patel](https://open.spotify.com/artist/4LPRI62WeBuYjw3MA4GTqf), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Saiyaan Bina \(feat\. Anshuman Sharma\)](https://open.spotify.com/album/5rrQPgEyjaB3CN527qAs9r) | 4:28 | 2022-05-17 | 2024-02-15 |
 | [Saiyaan Hatto Jaao](https://open.spotify.com/track/647uP7tkpOUIdaDNz0YX1Q) | [Sanjay Leela Bhansali](https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp), [Barnali Chattopadhyay](https://open.spotify.com/artist/0PuNZqpWjKq5qMLueUM2UF), [A M Turaz](https://open.spotify.com/artist/1j9brIgutvsw3yb2jwYYNK) | [Heeramandi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6b2vHhEysVp1gXn7WMrBFy) | 5:13 | 2024-05-16 |  |

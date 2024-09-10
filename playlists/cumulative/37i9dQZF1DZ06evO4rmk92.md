@@ -2,7 +2,7 @@
 
 ### [This Is Nat King Cole](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rmk92)
 
-> This is Nat King Cole\. The essential tracks, all in one playlist.
+> This Is Nat King Cole\. Los temas esenciales, todos en una lista.
 
 125 songs - 6 hr 0 min
 
@@ -98,7 +98,7 @@
 | [The Girl From Ipanema](https://open.spotify.com/track/3niaqXwt6bSu5HCXJpaee7) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Ultimate Nat King Cole](https://open.spotify.com/album/2IFGaozoXFA3m9IUH2Hcc4) | 2:54 | 2024-06-30 |  |
 | [The Late, Late Show](https://open.spotify.com/track/5tFvnHL61U4gcIU8fv4fHA) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Welcome To The Club](https://open.spotify.com/album/2fXsEEfRc7t3Q7nvriXlD3) | 2:32 | 2024-06-16 | 2024-07-23 |
 | [The Man I Love](https://open.spotify.com/track/15uAiXSILEHdx7IOOYEe0b) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7), [Buddy Rich](https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs) | [Compact Jazz: Lester Young & The Piano Giants](https://open.spotify.com/album/1X7g9mkghiabrWlZBUgCi4) | 4:48 | 2024-06-13 | 2024-07-23 |
-| [The More I See You](https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:25 | 2024-06-13 | 2024-07-21 |
+| [The More I See You](https://open.spotify.com/track/64VKSHhJmNdA5sC46RSKTp) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:25 | 2024-06-13 |  |
 | [The Party's Over](https://open.spotify.com/track/0iJ84lhFqdMr0D6YwGY2ow) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Just One Of Those Things](https://open.spotify.com/album/0wYaQk0w9V8wD5rYgAGLek) | 2:44 | 2024-07-06 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/63tbczwYZv3Mctr064eQR4) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Very Thought Of You \(Expanded Edition\)](https://open.spotify.com/album/485m39lSkx5THJKZCeM5fB) | 3:48 | 2024-06-14 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/6k8VkbcU1CrMM2jbWfRF6O) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 3:38 | 2024-06-24 | 2024-07-22 |
@@ -117,7 +117,7 @@
 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 | 2024-06-13 |  |
 | [Vaya Con Dios](https://open.spotify.com/track/0ggtO3SSAU99McOhJgyRqa) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [More Cole Español](https://open.spotify.com/album/2MNgRvW32ijISrmFNiCxRr) | 2:29 | 2024-06-20 | 2024-07-03 |
 | [Walkin' My Baby Back Home](https://open.spotify.com/track/26LH7Z7NgqszsBSCvsDjjS) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole's 8 Top Pops](https://open.spotify.com/album/1yP0VKloRyuwhzchRWZlaC) | 2:38 | 2024-09-02 |  |
-| [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 | 2024-06-13 |  |
+| [Walkin' My Baby Back Home](https://open.spotify.com/track/4HI45rr7RtHDxuR1sy63x9) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Still Unforgettable \(Expanded Edition\)](https://open.spotify.com/album/5DoaC07Tzl170xtqz0f2oU) | 2:59 | 2024-06-13 | 2024-09-10 |
 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/0LrkGhiOu55op9d3U8R9W1) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:07 | 2024-06-30 | 2024-07-30 |
 | [Walkin' My Baby Back Home \- Live at the Blue Note Chicago](https://open.spotify.com/track/48M0EALJS5d85svX0Mhp7o) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Walkin' My Baby Back \(Live at the Blue Note Chicago\)](https://open.spotify.com/album/71RgdD0PmYghTnTjmVj0OL) | 2:07 | 2024-06-13 | 2024-06-30 |
 | [What Does It Take? \- Live at the Blue Note Chicago](https://open.spotify.com/track/1pk8u7sU6pxO92NZMljYEe) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Live At The Blue Note Chicago](https://open.spotify.com/album/2V1zyQVnrgnvxSngoARNcS) | 2:34 | 2024-06-13 | 2024-07-24 |

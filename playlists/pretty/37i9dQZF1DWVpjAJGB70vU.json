@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 1913795,
+  "num_followers": 1914235,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -1699,18 +1699,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "It Matters to Me",
-        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+        "name": "Whatcha Gonna Do With A Cowboy",
+        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
       },
       "artists": [
         {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Chris LeDoux",
+          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
+        },
+        {
+          "name": "Garth Brooks",
+          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
         }
       ],
-      "duration_ms": 197666,
-      "name": "It Matters to Me",
-      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+      "duration_ms": 155000,
+      "name": "Whatcha Gonna Do With A Cowboy",
+      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1731,6 +1735,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "It Matters to Me",
+        "url": "https://open.spotify.com/album/6Ki8tNYdetzeYqijkDlmds"
+      },
+      "artists": [
+        {
+          "name": "Faith Hill",
+          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+        }
+      ],
+      "duration_ms": 197666,
+      "name": "It Matters to Me",
+      "url": "https://open.spotify.com/track/3rXdABev6vQtBCElztIl7m"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6"
       },
@@ -1743,26 +1763,6 @@
       "duration_ms": 223973,
       "name": "One Way Ticket (Because I Can)",
       "url": "https://open.spotify.com/track/0meAc2H0tC5tOTd6MDe0cI"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Whatcha Gonna Do With A Cowboy",
-        "url": "https://open.spotify.com/album/6He4j8heX7l96p8y2FMjbz"
-      },
-      "artists": [
-        {
-          "name": "Chris LeDoux",
-          "url": "https://open.spotify.com/artist/4K3DSWzghkGUcQOEZG9gpo"
-        },
-        {
-          "name": "Garth Brooks",
-          "url": "https://open.spotify.com/artist/4BclNkZtAUq1YrYNzye3N7"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Whatcha Gonna Do With A Cowboy",
-      "url": "https://open.spotify.com/track/6UBvhlms1M16oUYZkEfqpy"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1975,18 +1975,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Michael Peterson",
-        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
+        "name": "Something In Red",
+        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
       },
       "artists": [
         {
-          "name": "Michael Peterson",
-          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
+          "name": "Lorrie Morgan",
+          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
         }
       ],
-      "duration_ms": 182306,
-      "name": "Drink, Swear, Steal & Lie",
-      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+      "duration_ms": 176040,
+      "name": "Except for Monday",
+      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Michael Peterson",
+        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
+      },
+      "artists": [
+        {
+          "name": "Michael Peterson",
+          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Drink, Swear, Steal & Lie",
+      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Ten Thousand Angels",
         "url": "https://open.spotify.com/album/52a0Dg2pHH0RbwwVFYcl7F"
       },
@@ -2019,22 +2035,6 @@
       "duration_ms": 191800,
       "name": "Guys Do It All the Time",
       "url": "https://open.spotify.com/track/0uZRJmWi1TH3wrAN7hAbyF"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Something In Red",
-        "url": "https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq"
-      },
-      "artists": [
-        {
-          "name": "Lorrie Morgan",
-          "url": "https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Except for Monday",
-      "url": "https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm"
     },
     {
       "added_at": "2024-09-06 04:00:00",

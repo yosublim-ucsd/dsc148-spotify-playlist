@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,440 songs - 2 day 6 hr 15 min
+1,441 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Distance](https://open.spotify.com/track/7uQuR9ix1B7X8rFuTzOv29) | [Last Memories](https://open.spotify.com/artist/3UHYSVL2r6kB0niINk2097) | [Distance](https://open.spotify.com/album/1AfMrUInGVyCcKrGV0dC5k) | 2:43 | 2022-01-27 | 2022-05-27 |
 | [Distant Stars](https://open.spotify.com/track/1a5lJhsf5g5FAumPtuFycB) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Digestif](https://open.spotify.com/album/6XAIRCFzU3leT8kQZuQtdA) | 2:00 | 2022-11-11 | 2022-11-26 |
 | [Distant Stars](https://open.spotify.com/track/5eF05n2gqGMhPPaylRsrrU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Distant Stars](https://open.spotify.com/album/0oHLMLJCT9ojmIs0EZW7RL) | 2:00 | 2022-05-13 | 2022-11-20 |
-| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 |  |
+| [Divine steps](https://open.spotify.com/track/7lMPIr6Ug0bzLfJOp2QDxV) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Divine steps](https://open.spotify.com/album/0TwgmFEoGyl5rsa2ADcRhc) | 1:46 | 2022-09-16 | 2024-09-10 |
 | [Do It Again](https://open.spotify.com/track/0jLLFyVz52mRyhHxZztxf0) | [halfpastseven](https://open.spotify.com/artist/7IA63FK0TU9WZO5bPZS2hk), [Jake Milliner](https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS) | [Do It Again](https://open.spotify.com/album/3ofJPttUwGpEpwkcPypb8D) | 2:07 | 2023-09-22 | 2023-11-08 |
 | [Don Done](https://open.spotify.com/track/5SSLk1InW5lcBEDTI3QrXq) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/7y2xNEreSbAMfw5wTxnB5W) | 2:11 | 2023-01-13 | 2023-02-16 |
 | [Don Done](https://open.spotify.com/track/66uJyJoHQjheshWqgUTahM) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Adrian Planitz](https://open.spotify.com/artist/2FibutZAPesy9g1MoOvlHa), [Gabb.](https://open.spotify.com/artist/5CaP1iRqgYmjt1t9WSFHYG) | [Don Done](https://open.spotify.com/album/6XdpwOQ8jpf9L88jLQbfWN) | 2:11 | 2023-02-13 | 2023-10-13 |
@@ -885,6 +885,7 @@
 | [Nostalgia](https://open.spotify.com/track/21huKjQlBFcumcRIwhFWG1) | [Teau](https://open.spotify.com/artist/6arVgorLsaKvsc3UfABGID), [Rebiere](https://open.spotify.com/artist/1ViB3xhPayBSAhOoXBlE7Y), [himood](https://open.spotify.com/artist/5aMnmWZJalu86v3QPyITpD) | [Nostalgia](https://open.spotify.com/album/4HFk3XAwn2CwQb0i8Dw3xg) | 2:25 | 2022-11-25 | 2023-09-29 |
 | [Not Like This](https://open.spotify.com/track/7HY7caGt2kKJAtu756UcB8) | [Prince Enigma](https://open.spotify.com/artist/25Koobl2J39h8hlZzsT30t) | [Not Like This](https://open.spotify.com/album/7eWBzYLHIvD6Tj1JeG8NUX) | 2:43 | 2023-09-22 | 2024-07-07 |
 | [November Jam](https://open.spotify.com/track/7FQwK58IK5vKwEyLuZcsfo) | [Bauke Top](https://open.spotify.com/artist/5uE2MwBtAkezKgHl2QwJYX) | [222](https://open.spotify.com/album/4QeTykuNbVZk6q2CdVlIAN) | 1:58 | 2022-03-18 |  |
+| [Now](https://open.spotify.com/track/4VixPNMZMDJ9qV0KUUuxBf) | [Touristique](https://open.spotify.com/artist/11rQUKWqk3opiirceuJVV2) | [Now](https://open.spotify.com/album/3mSLe7fzKHHVpGxfy4Z4oG) | 2:07 | 2024-09-06 |  |
 | [Now or Never](https://open.spotify.com/track/3KOdSAFAouynkqzRd5cNtT) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Now or Never](https://open.spotify.com/album/7jJicDiVXaWohB828hThv0) | 2:18 | 2022-11-25 | 2023-09-29 |
 | [Nyc By Train](https://open.spotify.com/track/2vYIBePZCOFnuxMzLY4AtH) | [Florence Ada](https://open.spotify.com/artist/55eWRokjrhKoE28jaHJYw7) | [Nyc By Train](https://open.spotify.com/album/7pg5sER2qu1dN9trJaizv3) | 1:32 | 2023-09-22 |  |
 | [Oakman](https://open.spotify.com/track/7H61nTj0INqY1oXS4OMd6f) | [Stacy Bridge](https://open.spotify.com/artist/0l9jUDI4PJdVxQGNof28SD) | [Oakman](https://open.spotify.com/album/0jBIlySAdTWJ96emamDarx) | 2:31 | 2022-01-27 | 2022-04-22 |

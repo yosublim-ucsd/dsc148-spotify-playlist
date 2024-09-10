@@ -1,15 +1,35 @@
 {
   "description": "As heard on the FYP",
-  "num_followers": 37385,
+  "num_followers": 37432,
   "original_name": "Internet Famous",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtrceQAAAAC0JCGhGcey2Pi4o1dt1ofW",
+  "snapshot_id": "Zt6/GAAAAAD90o+87goKhTv9kboTsddI",
   "tracks": [
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
+      "album": {
+        "name": "Die With A Smile",
+        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        }
+      ],
+      "duration_ms": 251667,
+      "name": "Die With A Smile",
+      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
+    },
+    {
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Awolowo",
         "url": "https://open.spotify.com/album/457mm5YPmIQgoVWCZci0z3"
@@ -45,7 +65,7 @@
       "url": "https://open.spotify.com/track/5apzdgGSRLNeBjSFse45i9"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Favourite Girl (with Rema)",
         "url": "https://open.spotify.com/album/4TFhO9eXlG7Xb4RzSz5tOU"
@@ -65,7 +85,7 @@
       "url": "https://open.spotify.com/track/2irQkcW7o3v0tZoGZrtUsO"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/5iiMzAIVHHl66JYTuS1ei0"
@@ -85,7 +105,7 @@
       "url": "https://open.spotify.com/track/0lYs23NNkgF1bhfWmjojO3"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "KEHLANI",
         "url": "https://open.spotify.com/album/4e9It5Geutbt6LBEqFmHSz"
@@ -101,7 +121,7 @@
       "url": "https://open.spotify.com/track/0izPpjfwsu2DuzWGqsABkT"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Big Dawgs",
         "url": "https://open.spotify.com/album/6Yw4204wbgmpsGTzjXBhYD"
@@ -121,7 +141,7 @@
       "url": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Nyash Na Nyash (Remix) [feat. Young Jonn]",
         "url": "https://open.spotify.com/album/1Rj31LivlulhX1VXlMwMWE"
@@ -141,7 +161,7 @@
       "url": "https://open.spotify.com/track/2jktscfZKJsDs2ELhEXg4R"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Espresso",
         "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
@@ -157,7 +177,23 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 09:25:44",
+      "album": {
+        "name": "THE FIRST TIME (DELUXE VERSION)",
+        "url": "https://open.spotify.com/album/30H0cGghxhBJ93v4h28XEt"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 171243,
+      "name": "BABY I'M BACK",
+      "url": "https://open.spotify.com/track/5kDgJffgJ0lYHTSiaXFWNw"
+    },
+    {
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -177,7 +213,7 @@
       "url": "https://open.spotify.com/track/1qxKva4IzWde7m2jLpZvDU"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "MEGAN",
         "url": "https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8"
@@ -197,7 +233,7 @@
       "url": "https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "BRAT",
         "url": "https://open.spotify.com/album/2lIZef4lzdvZkiiCzvPKj7"
@@ -213,7 +249,7 @@
       "url": "https://open.spotify.com/track/19RybK6XDbAVpcdxSbZL1o"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Gen-Z Arewa",
         "url": "https://open.spotify.com/album/3qz5yYzCzLyPMPiiS3PR2D"
@@ -233,7 +269,23 @@
       "url": "https://open.spotify.com/track/1IWBeLzkyQ8ijoAD8BjIiU"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Malaika",
+      "url": "https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9"
+    },
+    {
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "4x4 (feat.Tyler ICU)",
         "url": "https://open.spotify.com/album/2yvTYlxrd5JG1gOddqHDAc"
@@ -261,7 +313,7 @@
       "url": "https://open.spotify.com/track/49NvGBWwEs9u6ILQd2snYd"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "TGIF",
         "url": "https://open.spotify.com/album/3VY29d0cCe38jPSYvAiI0D"
@@ -277,7 +329,7 @@
       "url": "https://open.spotify.com/track/2hKYtHbwYOSjvYQhVdUpdQ"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Lomo Lomo",
         "url": "https://open.spotify.com/album/4MTFOFZPAkcVKhnk76J6EK"
@@ -297,7 +349,7 @@
       "url": "https://open.spotify.com/track/12jJRu9yInIX7oTxoXtM0S"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -313,7 +365,23 @@
       "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 09:25:44",
+      "album": {
+        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
+        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
+      },
+      "artists": [
+        {
+          "name": "I'll Take You There Choir",
+          "url": "https://open.spotify.com/artist/2ABREU7iSvhEV9Ktoj30ne"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Like a Prayer - Choir Version From \u201cDeadpool & Wolverine\u201d",
+      "url": "https://open.spotify.com/track/492ceDtqmafb6QD1Xfhpmo"
+    },
+    {
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -329,7 +397,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "PINACOLADA",
         "url": "https://open.spotify.com/album/1pAYhCfEJa2Nz6zF409RvE"
@@ -353,7 +421,7 @@
       "url": "https://open.spotify.com/track/1kqBTGpxaC5kGz3rPlr1TF"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -373,7 +441,7 @@
       "url": "https://open.spotify.com/track/3raxjPdY70b4a9ks1Bd0mz"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Something Something - Remix",
         "url": "https://open.spotify.com/album/6jPutLhafLfSu78EZkqfZs"
@@ -393,7 +461,7 @@
       "url": "https://open.spotify.com/track/74sqFS4eNKJnHAldLufGt3"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Take Me",
         "url": "https://open.spotify.com/album/0o8DHoxt1tkA2lugrdnViD"
@@ -413,7 +481,7 @@
       "url": "https://open.spotify.com/track/6aFyUn6Z9YujYwOI7QsWLZ"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Lungu Boy",
         "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
@@ -429,7 +497,7 @@
       "url": "https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "This Is How We Celebrate",
         "url": "https://open.spotify.com/album/6JyVkQOLJISGhnaIkHMbB5"
@@ -453,7 +521,7 @@
       "url": "https://open.spotify.com/track/0NjnHSiy9He3Y0jKQCSA8P"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Zormizor (Asabone)",
         "url": "https://open.spotify.com/album/3NCiYh93re3lE8GTehUYWz"
@@ -469,7 +537,7 @@
       "url": "https://open.spotify.com/track/6pO6mg2XVv3IW7LyyMc5Sj"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -485,7 +553,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -501,7 +569,7 @@
       "url": "https://open.spotify.com/track/31kxPC3ZB9AYwCLyHaqEVX"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "One Call",
         "url": "https://open.spotify.com/album/4jrDs3Kg7zJlgQnIZrZP8a"
@@ -525,7 +593,7 @@
       "url": "https://open.spotify.com/track/3qSk5TP4A8gQIsb8iNVwnx"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Wahala",
         "url": "https://open.spotify.com/album/7s33yfAOWEmFFhMoD98MRK"
@@ -549,7 +617,7 @@
       "url": "https://open.spotify.com/track/58J6sUOut4BA4WHJ8FYmNm"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "My Dealer (Remix)",
         "url": "https://open.spotify.com/album/6SmlSpxgf52VpjjlCRxZZX"
@@ -569,7 +637,7 @@
       "url": "https://open.spotify.com/track/5wKKqwuoee1M9jhFcRpS1D"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Ogechi",
         "url": "https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg"
@@ -593,7 +661,7 @@
       "url": "https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Yo Bunny",
         "url": "https://open.spotify.com/album/4uRk8WbxccxtdvbzLkjZN2"
@@ -613,27 +681,7 @@
       "url": "https://open.spotify.com/track/6914nrqNob8EcW3qyEhihe"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
-      "album": {
-        "name": "Die With A Smile",
-        "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile",
-      "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Moi",
         "url": "https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw"
@@ -653,23 +701,7 @@
       "url": "https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
-      "album": {
-        "name": "Franco Faux",
-        "url": "https://open.spotify.com/album/4IYqodds5NOcV9gLuZEM0c"
-      },
-      "artists": [
-        {
-          "name": "Tresor Online",
-          "url": "https://open.spotify.com/artist/1hEJdtqsrl3gauld2QWt15"
-        }
-      ],
-      "duration_ms": 200735,
-      "name": "Franco Faux",
-      "url": "https://open.spotify.com/track/62TLAaqPgZaIPT0d4thD7W"
-    },
-    {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "SLUT ME OUT 2",
         "url": "https://open.spotify.com/album/5BEgYBYUzfvGoU1uLHvGRA"
@@ -685,7 +717,7 @@
       "url": "https://open.spotify.com/track/22yRHdYBLZMi7xnvBioqkP"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Tshwala Bam (feat. S.N.E)",
         "url": "https://open.spotify.com/album/1ZyNY4zHrl8MMzZ5li2Pm2"
@@ -713,7 +745,7 @@
       "url": "https://open.spotify.com/track/6cyXHTix4NQ069gKJEYv41"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "A Bar Song (Tipsy)",
         "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "THOUGHT YOU WERE THE ONE",
         "url": "https://open.spotify.com/album/6bJOZvEgdW3ck7W2Z1d8vm"
@@ -745,7 +777,7 @@
       "url": "https://open.spotify.com/track/7liEa3mZZwh9auF98KYITv"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Born in the Wild",
         "url": "https://open.spotify.com/album/1FGGv0vvSTerGQ91Mkvf9p"
@@ -761,7 +793,7 @@
       "url": "https://open.spotify.com/track/0D6XSXGNj5CTGQQzKQKQQ2"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
@@ -777,7 +809,7 @@
       "url": "https://open.spotify.com/track/0Q1bMs3xLQiDEeaneehdxv"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "BAND4BAND (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/4AzPr5SUpNF553eC1d3aRy"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/7iabz12vAuVQYyekFIWJxD"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Not Like Us",
         "url": "https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Ire",
         "url": "https://open.spotify.com/album/2u0id5mkeqJGx4JdBUAjSt"
@@ -833,7 +865,7 @@
       "url": "https://open.spotify.com/track/3AU9600L5WQNMndEfz0ZQW"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Short Skirt (Fine Girls)",
         "url": "https://open.spotify.com/album/0cEAm1fUmZp2wkeofSOdTq"
@@ -849,7 +881,7 @@
       "url": "https://open.spotify.com/track/6UiQVXLAXT4ZJYeXBGnran"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Akuko N'egwu Original Vol.1",
         "url": "https://open.spotify.com/album/6VzoCVgO5TJ2abzeDnbGWs"
@@ -865,7 +897,7 @@
       "url": "https://open.spotify.com/track/6PImXg1PaRBpFVdCAnSdUS"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Nyash na Nyash",
         "url": "https://open.spotify.com/album/3bmGDXZLAKssoFVvluuiSJ"
@@ -881,7 +913,7 @@
       "url": "https://open.spotify.com/track/0tobbc6AascAPbYFk5d2v3"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "KOJO (feat. Mulest Vankay, Treble Deep & Thebelebe)",
         "url": "https://open.spotify.com/album/76ETXqEGmVmUG7YRVT42Z2"
@@ -913,7 +945,7 @@
       "url": "https://open.spotify.com/track/0cAXNAzgwlvDKI1ohw8vGW"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Dealer",
         "url": "https://open.spotify.com/album/3RShBBcnQmqfmBJgmfz3or"
@@ -933,7 +965,7 @@
       "url": "https://open.spotify.com/track/5Wxkvvb6pLky16pwq4gBI3"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -949,7 +981,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Suns Out",
         "url": "https://open.spotify.com/album/7t2XVkWXu069lM8qaGghXy"
@@ -965,7 +997,7 @@
       "url": "https://open.spotify.com/track/6qb9tjy50uyJwHyB6yb7QW"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "HEHEHE",
         "url": "https://open.spotify.com/album/5BF5mPFuH0K7iY7J4QgSg5"
@@ -981,7 +1013,7 @@
       "url": "https://open.spotify.com/track/4DzMHMREYvyb3L5JrE0YAt"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Ogechi (feat. Davido) - Remix",
         "url": "https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4"
@@ -1009,7 +1041,7 @@
       "url": "https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Wave",
         "url": "https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR"
@@ -1029,7 +1061,7 @@
       "url": "https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
@@ -1053,7 +1085,7 @@
       "url": "https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Ikigai / \u751f\u304d\u7532\u6590, Vol. 1",
         "url": "https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI"
@@ -1069,7 +1101,7 @@
       "url": "https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Whatever She Wants",
         "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
@@ -1085,7 +1117,7 @@
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Lose Control",
         "url": "https://open.spotify.com/album/5QMiub2LonMqxB7dhtbPlX"
@@ -1101,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Sunday At Zuri's",
         "url": "https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69"
@@ -1117,7 +1149,7 @@
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "So Mi So",
         "url": "https://open.spotify.com/album/3CFZlHqQYt2gEKKc3PcP2Z"
@@ -1133,7 +1165,7 @@
       "url": "https://open.spotify.com/track/2KG2MggKHSVTKR8nLJX8DV"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "MILLION DOLLAR BABY",
         "url": "https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54"
@@ -1149,35 +1181,7 @@
       "url": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
-      "album": {
-        "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-        "url": "https://open.spotify.com/album/4lZSgj4cw3cmEvw0KQXNnY"
-      },
-      "artists": [
-        {
-          "name": "TitoM",
-          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
-        },
-        {
-          "name": "Yuppe",
-          "url": "https://open.spotify.com/artist/0M6k4Kgi5NiIDnafSKSLE0"
-        },
-        {
-          "name": "S.N.E",
-          "url": "https://open.spotify.com/artist/16RKP7aw26uSkNpadpEgaF"
-        },
-        {
-          "name": "EeQue",
-          "url": "https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft"
-        }
-      ],
-      "duration_ms": 390000,
-      "name": "Tshwala Bam (feat. S.N.E, EeQue)",
-      "url": "https://open.spotify.com/track/54seQV7MCcppBrznALCdlT"
-    },
-    {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Left Right",
         "url": "https://open.spotify.com/album/4hCOpkmIWNH1bxMeRxfjfK"
@@ -1193,7 +1197,7 @@
       "url": "https://open.spotify.com/track/73YOLxia81uwDIy7g1TClf"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Nasty Girl Remix (feat. Chl\u00f6e)",
         "url": "https://open.spotify.com/album/01vkpXLusTE96RgYguEoXE"
@@ -1213,7 +1217,7 @@
       "url": "https://open.spotify.com/track/7bs9SS4w8QKffIimEqatSP"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Life of the Party",
         "url": "https://open.spotify.com/album/54WQMWMNFT7hNF5ksvU1iR"
@@ -1229,7 +1233,7 @@
       "url": "https://open.spotify.com/track/2GuOhFHd7qBWeLAvfIfGsS"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Before The Feast",
         "url": "https://open.spotify.com/album/3ShLyszujn5P1Jb5yihyNI"
@@ -1249,7 +1253,7 @@
       "url": "https://open.spotify.com/track/34ywCJhKleJmZ3YthwBL4u"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "HEIS",
         "url": "https://open.spotify.com/album/2DDaN7Pgx9uDPd8IbWWW9H"
@@ -1265,7 +1269,7 @@
       "url": "https://open.spotify.com/track/7ySC0IjVS1PMEdsZOvsUK2"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/1CTk9dG2nyaUovNIQfBzqb"
@@ -1281,23 +1285,7 @@
       "url": "https://open.spotify.com/track/2d93r7U06Wx7uJfU2q9Nza"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
-      "album": {
-        "name": "Small Money",
-        "url": "https://open.spotify.com/album/3wxXvsPsPxi0ZDrbPGmiB4"
-      },
-      "artists": [
-        {
-          "name": "Nasboi",
-          "url": "https://open.spotify.com/artist/2uFxJXYNWECbpiNTpdBDXb"
-        }
-      ],
-      "duration_ms": 145500,
-      "name": "Small Money",
-      "url": "https://open.spotify.com/track/5jYCb3QsnXxS2Qh5HzwT7J"
-    },
-    {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "BACK OUTSIDE (feat. Latto)",
         "url": "https://open.spotify.com/album/1NUu71LKvnQJHfrMvrYfap"
@@ -1317,7 +1305,7 @@
       "url": "https://open.spotify.com/track/5zHqXGQkZ1BSGePTAg6xSF"
     },
     {
-      "added_at": "2024-09-06 10:42:01",
+      "added_at": "2024-09-09 08:47:43",
       "album": {
         "name": "Looking for God",
         "url": "https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ"

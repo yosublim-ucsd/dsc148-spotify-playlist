@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> DIAMANTE
+> crue!
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,265 likes - 296 songs - 21 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,396 likes - 296 songs - 21 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -305,4 +305,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 295 | [People](https://open.spotify.com/track/5Z7K4nCutR02UrKIDjY35k) | [MLiR](https://open.spotify.com/artist/1deVrxjIl8NdenVpoSUiKi) | [Swedish Lo\-Life EP](https://open.spotify.com/album/1tJnTAZH3tCdoniVCB4nPD) | 6:07 |
 | 296 | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/track/3BLqGwshCSzSLNZ2N9mGvy) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj), [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k) | [Lovely Day \- Austin Millz Remix](https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1) | 2:45 |
 
-Snapshot ID: `ZtxqMQAAAACiVYxIR/tLfDdzWGsI0aHq`
+Snapshot ID: `Zt7EtQAAAADrGQCiNU7h/QAP6X5sRe0G`

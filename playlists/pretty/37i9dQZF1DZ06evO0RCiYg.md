@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 
 ### [This Is Black Eyed Peas](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RCiYg)
 
-> This is Black Eyed Peas\. The essential tracks, all in one playlist.
+> This Is Black Eyed Peas\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,169 likes - 51 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,274 likes - 51 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,6 +58,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RCiYg.md) - [plain]
 | 48 | [Someday](https://open.spotify.com/track/0iO9nE6zE8Oqcl8eXjxCJ7) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [The Beginning](https://open.spotify.com/album/3IpexNXiKbezuY526S4Jvy) | 4:33 |
 | 49 | [NO MAÑANA](https://open.spotify.com/track/1clKJlcPmm4BY9TkXKQxso) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [TRANSLATION](https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc) | 3:41 |
 | 50 | [Boom Boom Pow \- Radio Edit](https://open.spotify.com/track/19o5hmeKzaX5PauBO3lTHh) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [NOW That's What I Call Music 31 \(20 track Dell Bundle\)](https://open.spotify.com/album/70DTiFYxkFuou42yT6cSK2) | 3:36 |
-| 51 | [BIG LOVE](https://open.spotify.com/track/6eNeTj9NecqgP1VEqInpKg) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [MASTERS OF THE SUN VOL\. 1](https://open.spotify.com/album/7er6jjv5446zSiCIo6E9Pr) | 4:35 |
+| 51 | [What It Is](https://open.spotify.com/track/04kCHvYGff879MKxH6BYP8) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Behind The Front](https://open.spotify.com/album/4nxUuXwV9awZCltuoXhCSt) | 4:45 |
 
-Snapshot ID: `ZtuXgAAAAAB44e/CEWRTF+dqed5ICA2o`
+Snapshot ID: `ZtzpAAAAAAAY6NVRbAZifiXvsVw+k6HE`

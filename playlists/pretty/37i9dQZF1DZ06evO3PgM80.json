@@ -1,12 +1,12 @@
 {
   "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19498,
+  "num_followers": 19506,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAACqKHfbKNyh+WxpcEns9AL4",
+  "snapshot_id": "ZtzpAAAAAACua6FjB6jZG8+4gGxulnWT",
   "tracks": [
     {
       "added_at": null,
@@ -847,26 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luz da Luz",
-        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
-      },
-      "artists": [
-        {
-          "name": "Lagoinha Music",
-          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
-        },
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 637600,
-      "name": "Manto de Cristo",
-      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Testemunho",
         "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 281414,
       "name": "Lindo Jesus",
       "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Luz da Luz",
+        "url": "https://open.spotify.com/album/45v1bM63jvlyprxBdnsMMf"
+      },
+      "artists": [
+        {
+          "name": "Lagoinha Music",
+          "url": "https://open.spotify.com/artist/2zU9KvRIyqKppyGRam4lhG"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 637600,
+      "name": "Manto de Cristo",
+      "url": "https://open.spotify.com/track/2bMHtSO06SG7qiyDJXfQPC"
     },
     {
       "added_at": null,

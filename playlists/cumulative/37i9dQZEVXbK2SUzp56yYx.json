@@ -643,6 +643,24 @@
     },
     {
       "album": {
+        "name": "penis music, vol. 1",
+        "url": "https://open.spotify.com/album/5biBSRw2XAOyv9YTaUoPkD"
+      },
+      "artists": [
+        {
+          "name": "dj trippie flameboy",
+          "url": "https://open.spotify.com/artist/6ZCCg68X6ipm9D5VbvWK7k"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111642,
+      "name": "b0lit :(",
+      "url": "https://open.spotify.com/track/0LJRXWJ3x3Oby02RbRl3f6"
+    },
+    {
+      "album": {
         "name": "Bad Feeling (Oompa Loompa)",
         "url": "https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296"
       },
@@ -3086,6 +3104,24 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/504V1vhYyHGHusNhEKvOV5"
+    },
+    {
+      "album": {
+        "name": "Royal Bastards",
+        "url": "https://open.spotify.com/album/2PuUE6oBxsZFMtojQkWFPs"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86557,
+      "name": "Her loss",
+      "url": "https://open.spotify.com/track/785GgCAABPnVr3qaGTbhFU"
     },
     {
       "album": {
@@ -6146,7 +6182,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 148244,
       "name": "RUN! (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/1ZNrPyeyKs8YleAwY4vpKj"
@@ -7026,7 +7062,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -7794,7 +7830,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 238000,
       "name": "We Both Reached For The Gun",
       "url": "https://open.spotify.com/track/2L7E2IsUbGiGqT9aSehkID"
@@ -8040,7 +8076,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 170887,
       "name": "Who",
       "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
@@ -9727,6 +9763,24 @@
     },
     {
       "album": {
+        "name": "\u041e\u0410\u041e \u00ab\u0411\u041b\u0418\u0417\u041a\u0418\u0415\u00bb",
+        "url": "https://open.spotify.com/album/6sngSlm8ZQW7SJwJc0H1Tw"
+      },
+      "artists": [
+        {
+          "name": "Icegergert",
+          "url": "https://open.spotify.com/artist/4z3TiM4dsnvWDRcnqf3l0r"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188448,
+      "name": "\u0413\u0440\u0430\u0431\u0438\u0442\u0435\u043b\u044c 78",
+      "url": "https://open.spotify.com/track/06FMXRY2xu8PIbMRuRnges"
+    },
+    {
+      "album": {
         "name": "\u0413\u0440\u043e\u0431\u043e\u0432\u0449\u0438\u043a\u0438",
         "url": "https://open.spotify.com/album/7ALqgyugtp8ukDVTZqgfLH"
       },
@@ -10952,7 +11006,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 97033,
       "name": "\u043b\u044e\u0431\u0438 \u043c\u0435\u043d\u044f, \u0430\u043b\u0438\u043d\u0430",
       "url": "https://open.spotify.com/track/2w0VyjxphvyEPY9qYIFstk"
@@ -11098,7 +11152,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 184000,
       "name": "\u041c\u0430\u043c\u0430 \u0443\u0434\u0430\u043b\u0438\u043b\u0430 \u0440\u043e\u0431\u043b\u043e\u043a\u0441",
       "url": "https://open.spotify.com/track/6HqBnPp3mZCQYHJ9n9ACNk"
@@ -11152,7 +11206,7 @@
       ],
       "date_added": "2024-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-08",
+      "date_removed": null,
       "duration_ms": 166301,
       "name": "\u041c\u043d\u044f \u0432\u0441\u0442\u0430\u0432\u043b\u044f\u0435\u0442 \u0434\u044b\u043c",
       "url": "https://open.spotify.com/track/1FF4PyIzXMAB4xakYryYvq"
@@ -11512,7 +11566,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 142588,
       "name": "\u041d\u0435 \u043e\u0442\u043f\u0443\u0441\u043a\u0430\u0439",
       "url": "https://open.spotify.com/track/3HVFj6El60qIwRDADa22Yx"
@@ -12418,7 +12472,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 151512,
       "name": "\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u0438\u0439 \u0434\u0435\u043d\u044c \u043b\u0435\u0442\u0430",
       "url": "https://open.spotify.com/track/3gpMB2PEjfnEtgxgmd2wUB"

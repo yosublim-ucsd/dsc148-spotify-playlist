@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 168779,
       "name": "Double",
       "url": "https://open.spotify.com/track/5aYcdAo0OCkV9lxQFFWaVg"
@@ -2966,6 +2966,24 @@
       "duration_ms": 113720,
       "name": "HEHEHE",
       "url": "https://open.spotify.com/track/5oUDNEJSEjsVT7LeWya4Gv"
+    },
+    {
+      "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "hell and back",
+      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
     },
     {
       "album": {

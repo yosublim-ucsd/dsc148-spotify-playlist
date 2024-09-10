@@ -23,6 +23,28 @@
     },
     {
       "album": {
+        "name": "Aankhon Mein Doob Jaane Ko",
+        "url": "https://open.spotify.com/album/4KS5SO1IEyFxR0ThvDuEL9"
+      },
+      "artists": [
+        {
+          "name": "THE 9TEEN",
+          "url": "https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB"
+        },
+        {
+          "name": "Sandesh Shandilya",
+          "url": "https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125400,
+      "name": "Aankhon Mein Doob Jaane Ko",
+      "url": "https://open.spotify.com/track/1ouPVtxlolKZGedxSTrgD5"
+    },
+    {
+      "album": {
         "name": "Barfi! (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4"
       },

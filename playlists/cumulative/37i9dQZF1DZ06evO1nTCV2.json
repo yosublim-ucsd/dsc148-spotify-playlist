@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 200480,
       "name": "Don't You (Forget About Me) - Live from Glasgow",
       "url": "https://open.spotify.com/track/6h3BP0ajpt6uvb4vlUpu0g"
@@ -1388,6 +1388,24 @@
       "duration_ms": 133280,
       "name": "Friday Night Nyc",
       "url": "https://open.spotify.com/track/2fmEQHrYxbQ3emKLL32zsE"
+    },
+    {
+      "album": {
+        "name": "Big Colors",
+        "url": "https://open.spotify.com/album/7IKoFG0yRzDmqalNLJpw6y"
+      },
+      "artists": [
+        {
+          "name": "Ryan Adams",
+          "url": "https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213946,
+      "name": "Fuck The Rain",
+      "url": "https://open.spotify.com/track/08O1D1vlxPG0NStXrWkWsS"
     },
     {
       "album": {

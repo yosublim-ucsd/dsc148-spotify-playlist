@@ -1,12 +1,12 @@
 {
   "description": "This is \u9b3c\u982d\u660e\u91cc. The essential tracks, all in one playlist.",
-  "num_followers": 2219,
+  "num_followers": 2220,
   "original_name": "This Is \u9b3c\u982d\u660e\u91cc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAAB1WN/IU8TTxhoKr5d4q8gy",
+  "snapshot_id": "ZtzpAAAAAACV+nmvgOnKSDi91dixjjL5",
   "tracks": [
     {
       "added_at": null,
@@ -91,22 +91,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u602a\u7269 - from CrosSing",
-        "url": "https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0"
-      },
-      "artists": [
-        {
-          "name": "Akari Kito",
-          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "\u602a\u7269 - from CrosSing",
-      "url": "https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dear Doze Days",
         "url": "https://open.spotify.com/album/674QP8fOfl3LYuwsMHlmtr"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 261306,
       "name": "Dear Doze Days",
       "url": "https://open.spotify.com/track/5yBKXF9lRmyispie9cWrrB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u602a\u7269 - from CrosSing",
+        "url": "https://open.spotify.com/album/0fkkLbnAsSRDAzDCD9Nhv0"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "\u602a\u7269 - from CrosSing",
+      "url": "https://open.spotify.com/track/18uWFZy8dcor2WGr4aqNvD"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desire Again",
-        "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
+        "name": "Blue Velvet - from CrosSing",
+        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 240493,
-      "name": "Desire Again",
-      "url": "https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD"
+      "duration_ms": 234653,
+      "name": "Blue Velvet - from CrosSing",
+      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Velvet - from CrosSing",
-        "url": "https://open.spotify.com/album/58X47nwu53SoTojJgRY7Mh"
+        "name": "Desire Again",
+        "url": "https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 234653,
-      "name": "Blue Velvet - from CrosSing",
-      "url": "https://open.spotify.com/track/2CawGX7RDtyQApBC5cbp5Z"
+      "duration_ms": 240493,
+      "name": "Desire Again",
+      "url": "https://open.spotify.com/track/54a0azbxaptJ2rHofB7OzD"
     },
     {
       "added_at": null,
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 308786,
-      "name": "Esquisse",
-      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
+      "duration_ms": 253040,
+      "name": "illminate",
+      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
     },
     {
       "added_at": null,
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 253040,
-      "name": "illminate",
-      "url": "https://open.spotify.com/track/349R0irYWJmHAMGUp4dGe9"
+      "duration_ms": 308786,
+      "name": "Esquisse",
+      "url": "https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P"
     },
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 258252,
-      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
+      "duration_ms": 293733,
+      "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
         }
       ],
-      "duration_ms": 293733,
-      "name": "\u30ad\u30df\u306e\u3068\u306a\u308a\u3067 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
-      "url": "https://open.spotify.com/track/1NmGeXILbZ0MWQPH3bJHr8"
+      "duration_ms": 258252,
+      "name": "23\u6642\u306e\u6625\u96f7\u5c11\u5973 Live at \u540d\u53e4\u5c4b\u5e02\u516c\u4f1a\u5802 2020/10/3",
+      "url": "https://open.spotify.com/track/6UlS8qU6OyXMHI7LkiwyhR"
     },
     {
       "added_at": null,

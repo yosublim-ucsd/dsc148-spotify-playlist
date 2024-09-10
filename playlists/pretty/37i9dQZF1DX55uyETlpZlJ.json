@@ -1,13 +1,33 @@
 {
   "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Vasu Dixit, Manuality, Joel Sakkari",
-  "num_followers": 23459,
+  "num_followers": 23460,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtbOOQAAAADPqyqv24ZDNgMbO2/jJIah",
+  "snapshot_id": "Zt6SswAAAABfp/0WNxkTBgFf7OuUSLJr",
   "tracks": [
+    {
+      "added_at": "2024-09-09 06:16:19",
+      "album": {
+        "name": "Manasaagide",
+        "url": "https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        },
+        {
+          "name": "Abhishek Bangera",
+          "url": "https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D"
+        }
+      ],
+      "duration_ms": 158115,
+      "name": "Manasaagide",
+      "url": "https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly"
+    },
     {
       "added_at": "2024-07-29 07:04:31",
       "album": {

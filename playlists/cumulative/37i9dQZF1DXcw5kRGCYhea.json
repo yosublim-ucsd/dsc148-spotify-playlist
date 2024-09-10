@@ -143,6 +143,28 @@
     },
     {
       "album": {
+        "name": "Babor",
+        "url": "https://open.spotify.com/album/4CuuDI4ALaMs0mLrcq6yBN"
+      },
+      "artists": [
+        {
+          "name": "Bilal Assarguini",
+          "url": "https://open.spotify.com/artist/2taSKJRDLOVQg0g0RnFDVH"
+        },
+        {
+          "name": "Young Zow",
+          "url": "https://open.spotify.com/artist/611YTFfRumLInacgKOuvI4"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Babor",
+      "url": "https://open.spotify.com/track/6iiJhNVjfd2nVX63x1f9Hd"
+    },
+    {
+      "album": {
         "name": "BL\u00c9DARD (Deluxe)",
         "url": "https://open.spotify.com/album/2l7QacmzidqEGvYq0lu4v9"
       },
@@ -354,7 +376,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 173606,
       "name": "Chaos",
       "url": "https://open.spotify.com/track/1tGPnfGbtkaQdLORVehNYI"
@@ -947,6 +969,24 @@
     },
     {
       "album": {
+        "name": "VENIN",
+        "url": "https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz"
+      },
+      "artists": [
+        {
+          "name": "Youka",
+          "url": "https://open.spotify.com/artist/5dDL6ReckbbD5JBnZdobv6"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Hm Hm hm",
+      "url": "https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5"
+    },
+    {
+      "album": {
         "name": "Hyati",
         "url": "https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN"
       },
@@ -1245,6 +1285,28 @@
     },
     {
       "album": {
+        "name": "Liyam",
+        "url": "https://open.spotify.com/album/2qGyN2bfDgJKVeExwx5k5y"
+      },
+      "artists": [
+        {
+          "name": "Hedi L'artiste",
+          "url": "https://open.spotify.com/artist/6byKOC4qCUM1PrEx7szALu"
+        },
+        {
+          "name": "DAK",
+          "url": "https://open.spotify.com/artist/0ijMujujEFjjkBPJcCtI9u"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207229,
+      "name": "Liyam",
+      "url": "https://open.spotify.com/track/4X65va9u0NHvsjbjMs6E4R"
+    },
+    {
+      "album": {
         "name": "LOCO",
         "url": "https://open.spotify.com/album/3oR3u9aONQNmyyn8SqSA5N"
       },
@@ -1260,7 +1322,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 161354,
       "name": "LOCO",
       "url": "https://open.spotify.com/track/1WVesbZHbBbFBEbrnk1Nnb"
@@ -1972,7 +2034,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
@@ -2060,7 +2122,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 184253,
       "name": "RAZONES (feat. Morad)",
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"
@@ -2104,6 +2166,24 @@
       "duration_ms": 161280,
       "name": "S7aba",
       "url": "https://open.spotify.com/track/1ilM1fLpgTmrErtPrWjCP0"
+    },
+    {
+      "album": {
+        "name": "SABAR",
+        "url": "https://open.spotify.com/album/54uyuXLVqME5DDfYb8vbZP"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215840,
+      "name": "SABAR",
+      "url": "https://open.spotify.com/track/7j5y0T4cRmYLdr8kZNR56W"
     },
     {
       "album": {
@@ -2196,6 +2276,28 @@
       "duration_ms": 180378,
       "name": "Si Si",
       "url": "https://open.spotify.com/track/5iFu4sGrA7CqC6TYXn8sKc"
+    },
+    {
+      "album": {
+        "name": "Chasing the Sun",
+        "url": "https://open.spotify.com/album/43CC7F87GAGCmWNualTDVQ"
+      },
+      "artists": [
+        {
+          "name": "Mahdi Machfar",
+          "url": "https://open.spotify.com/artist/3SqIybpY2gc8uqKNo4ypNT"
+        },
+        {
+          "name": "Kaso",
+          "url": "https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187777,
+      "name": "Snini",
+      "url": "https://open.spotify.com/track/6LZ5tMifzUHeG56gaTgOOi"
     },
     {
       "album": {
@@ -2592,7 +2694,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 156444,
       "name": "Wsalni MSG",
       "url": "https://open.spotify.com/track/5REou7BKcQgFUOe6tTUXBD"

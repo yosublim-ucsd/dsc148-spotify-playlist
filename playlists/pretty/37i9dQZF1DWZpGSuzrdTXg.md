@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 
 > Lekker rustig aan doen op zondag met deze zachte popliedjes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,317 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,321 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 |
-| 2 | [Fine Wine](https://open.spotify.com/track/03e2n55ONBBrcpj0O6117x) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Silent River](https://open.spotify.com/album/7HMMwFIxoBiCCOzuMrk85L) | 3:23 |
-| 3 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 |
-| 4 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
-| 5 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
-| 6 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 |
-| 7 | [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 |
+| 1 | [Please Slow Down](https://open.spotify.com/track/3oL8uIUXlo0D8CDvS3mlXR) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Please Slow Down](https://open.spotify.com/album/48VHjICRdvDvlHZIKWEnMP) | 2:43 |
+| 2 | [Stay cool](https://open.spotify.com/track/5mH3NdJZnMfoFUSk2LgdGL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Stay cool](https://open.spotify.com/album/6HFTF5zdUuSQr2EvaTnqJo) | 3:27 |
+| 3 | [Fine Wine](https://open.spotify.com/track/03e2n55ONBBrcpj0O6117x) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [Silent River](https://open.spotify.com/album/7HMMwFIxoBiCCOzuMrk85L) | 3:23 |
+| 4 | [Emma Stone](https://open.spotify.com/track/1GuIxLw79Xe9aqyLTqBS5V) | [Armen Paul](https://open.spotify.com/artist/1CwqAnNZyIYqC7SWpTUpwk) | [Emma Stone](https://open.spotify.com/album/5tjRVV6AbAKvhZGskSmVKx) | 2:36 |
+| 5 | [Trauma Queen](https://open.spotify.com/track/6mwsas6R2huXOPWsSHwwdd) | [Will Knox](https://open.spotify.com/artist/2e0OOXFJ610jkry76XceeS) | [Trauma Queen](https://open.spotify.com/album/36UVYZUlxVJeff1qb61BMn) | 3:37 |
+| 6 | [Slow \- live from the van](https://open.spotify.com/track/5MYVjYsBYWWyMzGP628maz) | [Scott & Young](https://open.spotify.com/artist/72r3ZCpFAFMj7ISnPfcTPU) | [Slow \(live from the van\)](https://open.spotify.com/album/7h7SwY5wjq13e42mKsr1x6) | 2:52 |
+| 7 | [Promise](https://open.spotify.com/track/1pzUJC95ApZrPchMgTmeS2) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Promise](https://open.spotify.com/album/2mmC1rWiWGZvcOQ2iJVXo0) | 4:19 |
 | 8 | [Best Day Of My Life](https://open.spotify.com/track/45tIEhTXA50v2MQ4yazpxF) | [Sofia Dragt](https://open.spotify.com/artist/6SbjUvOLEYreFr16Gvn8kv) | [Best Day of My Life](https://open.spotify.com/album/6dEsYPAyaDPGSFj4gmJuHL) | 3:44 |
 | 9 | [U&I](https://open.spotify.com/track/05NozMI1lUuXSdZrnXW1wi) | [Isaac Roux](https://open.spotify.com/artist/7tPhoEe9VD1m37VqUiC6hA) | [U&I](https://open.spotify.com/album/38ke3Rhd86DdDcdnXYNqHB) | 2:33 |
 | 10 | [the night we met](https://open.spotify.com/track/6Gwbza1h3SmUhtt6mffsGm) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [the night we met](https://open.spotify.com/album/2jM0k484jzyT9xx1AayJkk) | 2:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZpGSuzrdTXg.md) - [plain]
 | 99 | [Lost at Last](https://open.spotify.com/track/0eTFVx9jWhazZHeg4ehfvb) | [Judy Blank](https://open.spotify.com/artist/2Kqa4BYcpEq4KXX9fYmRpH) | [Saddies](https://open.spotify.com/album/5NCEMX3HctmQsLOyskl3SK) | 2:39 |
 | 100 | [Back](https://open.spotify.com/track/2tJ0GB8yDrGSHahyBHjDrB) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Blackbird \(Deluxe\)](https://open.spotify.com/album/6UzCkpGRJ4ojKeYUGKfyEc) | 3:38 |
 
-Snapshot ID: `Ztop4AAAAAD4AEHb1ykDtD/bxs5m/mn0`
+Snapshot ID: `Zt7eEwAAAABSPRMg6arKw1oWrRFsKAv+`

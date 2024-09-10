@@ -1,6 +1,6 @@
 {
   "description": "D\u00f2ng ch\u1ea3y rap Vi\u1ec7t lu\u00f4n cu\u1ed3n cu\u1ed9n. \u1ea2nh b\u00eca: RPT MCK",
-  "num_followers": 96489,
+  "num_followers": 96510,
   "original_name": "Hip-hop Vi\u1ec7t",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
-      },
-      "artists": [
-        {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
-        }
-      ],
-      "duration_ms": 167970,
-      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
-      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
-    },
-    {
-      "added_at": "2024-08-29 13:19:08",
-      "album": {
         "name": "\u0110i V\u1ec1 Nh\u00e0",
         "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 200000,
       "name": "\u0110i V\u1ec1 Nh\u00e0",
       "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
+    },
+    {
+      "added_at": "2024-08-29 13:19:08",
+      "album": {
+        "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+        "url": "https://open.spotify.com/album/2aAbN7CoNfmQaeCAXnPMFf"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 167970,
+      "name": "Anh Ch\u1ec9 Mu\u1ed1n",
+      "url": "https://open.spotify.com/track/2n00rcPaXcWfFB9irOKOmh"
     },
     {
       "added_at": "2024-08-29 13:19:08",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
+        "name": "N\u00f3i D\u1ed1i",
+        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+      },
+      "artists": [
+        {
+          "name": "Ronboogz",
+          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+        }
+      ],
+      "duration_ms": 206139,
+      "name": "N\u00f3i D\u1ed1i",
+      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+    },
+    {
+      "added_at": "2024-08-29 13:19:08",
+      "album": {
         "name": "n\u1ebfu l\u00fac \u0111\u00f3",
         "url": "https://open.spotify.com/album/0OThHPtV2ovPxWwh8ublMV"
       },
@@ -619,26 +635,6 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "N\u1ea5u \u0103n cho em",
-        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
-      },
-      "artists": [
-        {
-          "name": "\u0110en",
-          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
-        },
-        {
-          "name": "PiaLinh",
-          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
-        }
-      ],
-      "duration_ms": 241340,
-      "name": "N\u1ea5u \u0103n cho em",
-      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
-    },
-    {
-      "added_at": "2024-08-29 13:19:08",
-      "album": {
         "name": "Ai C\u0169ng Ph\u1ea3i B\u1eaft \u0110\u1ea7u T\u1eeb \u0110\u00e2u \u0110\u00f3",
         "url": "https://open.spotify.com/album/3Im5W6U3uL6A5fzahEG05u"
       },
@@ -659,34 +655,42 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "N\u00f3i D\u1ed1i",
-        "url": "https://open.spotify.com/album/17D8iFrwHgvOXDpaLgHjyP"
+        "name": "N\u1ea5u \u0103n cho em",
+        "url": "https://open.spotify.com/album/60IOXhvNwkVcXPs25OKv5t"
       },
       "artists": [
         {
-          "name": "Ronboogz",
-          "url": "https://open.spotify.com/artist/0dBcEvEklr1jx4uZuhFX5e"
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        },
+        {
+          "name": "PiaLinh",
+          "url": "https://open.spotify.com/artist/5Xn0cJrrcslCWCzPXNTy54"
         }
       ],
-      "duration_ms": 206139,
-      "name": "N\u00f3i D\u1ed1i",
-      "url": "https://open.spotify.com/track/3ET3xHCLMGd57u06A9RjJ0"
+      "duration_ms": 241340,
+      "name": "N\u1ea5u \u0103n cho em",
+      "url": "https://open.spotify.com/track/7td8DTWoGC9u9db37mGHX6"
     },
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+        "name": "Em B\u00e9",
+        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
       },
       "artists": [
         {
-          "name": "tlinh",
-          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
+          "name": "AMEE",
+          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
+        },
+        {
+          "name": "Karik",
+          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
         }
       ],
-      "duration_ms": 170500,
-      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
-      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
+      "duration_ms": 192000,
+      "name": "Em B\u00e9",
+      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
     },
     {
       "added_at": "2024-08-29 13:19:08",
@@ -795,22 +799,18 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "Em B\u00e9",
-        "url": "https://open.spotify.com/album/4h6b472LS8MBZuNZzKQQDN"
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
       },
       "artists": [
         {
-          "name": "AMEE",
-          "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-        },
-        {
-          "name": "Karik",
-          "url": "https://open.spotify.com/artist/2Bwp23pD4UVsSkchHDZw4F"
+          "name": "tlinh",
+          "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Em B\u00e9",
-      "url": "https://open.spotify.com/track/4RZJObXQzsKQLd25LBjBG8"
+      "duration_ms": 170500,
+      "name": "th\u1ebf gi\u1edbi th\u1ea7n ti\u00ean",
+      "url": "https://open.spotify.com/track/2cJyuhqcXvd6ccvAn8NXsL"
     },
     {
       "added_at": "2024-08-29 13:19:08",
@@ -871,18 +871,26 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "\u00e1i",
-        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
+        "name": "MEDICINE",
+        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
       },
       "artists": [
+        {
+          "name": "Coldzy",
+          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
+        },
+        {
+          "name": "Minsicko",
+          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
+        },
         {
           "name": "tlinh",
           "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 133784,
-      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
-      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
+      "duration_ms": 260073,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
     },
     {
       "added_at": "2024-08-29 13:19:08",
@@ -907,26 +915,18 @@
     {
       "added_at": "2024-08-29 13:19:08",
       "album": {
-        "name": "MEDICINE",
-        "url": "https://open.spotify.com/album/6QOYGkZuyXSpEZubRkR0oI"
+        "name": "\u00e1i",
+        "url": "https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6"
       },
       "artists": [
-        {
-          "name": "Coldzy",
-          "url": "https://open.spotify.com/artist/401ikVSob52311M6Fwnunt"
-        },
-        {
-          "name": "Minsicko",
-          "url": "https://open.spotify.com/artist/33J4sIJ9vp7KgdKpxXm6z6"
-        },
         {
           "name": "tlinh",
           "url": "https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR"
         }
       ],
-      "duration_ms": 260073,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/6sIWcLjuMvOcxAfMOx1kbB"
+      "duration_ms": 133784,
+      "name": "t\u00ecnh y\u00eau c\u00f3 ngh\u0129a l\u00e0 g\u00ec?",
+      "url": "https://open.spotify.com/track/1Vla7vXcM0zimotYpresDT"
     },
     {
       "added_at": "2024-08-29 13:19:08",

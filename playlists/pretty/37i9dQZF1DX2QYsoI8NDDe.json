@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la M\u00fasica Mexicana. Cover: Adriana Rios",
-  "num_followers": 488647,
+  "num_followers": 488683,
   "original_name": "Women of M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
@@ -1311,18 +1311,18 @@
     {
       "added_at": "2024-09-06 04:30:55",
       "album": {
-        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+        "name": "A Veces",
+        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
       },
       "artists": [
         {
-          "name": "Priscila y Sus Balas De Plata",
-          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 529000,
-      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
-      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
+      "duration_ms": 158653,
+      "name": "A Veces",
+      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
     },
     {
       "added_at": "2024-09-06 04:30:55",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-06 04:30:55",
       "album": {
-        "name": "A Veces",
-        "url": "https://open.spotify.com/album/1zTWVEo0ilHDPymUVxA7ZC"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 158653,
-      "name": "A Veces",
-      "url": "https://open.spotify.com/track/4kbOL7UQmIsdlFPIIHHCkt"
-    },
-    {
-      "added_at": "2024-09-06 04:30:55",
-      "album": {
         "name": "La Bruja",
         "url": "https://open.spotify.com/album/5Z4EYnTJp3voZ3WJfGC4qN"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 225429,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/1xEegNpwiCLVredTcyJ4sj"
+    },
+    {
+      "added_at": "2024-09-06 04:30:55",
+      "album": {
+        "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+        "url": "https://open.spotify.com/album/3ZABi0k9MypplQrI3Nhjge"
+      },
+      "artists": [
+        {
+          "name": "Priscila y Sus Balas De Plata",
+          "url": "https://open.spotify.com/artist/3MEjijy8H9yxGhXhJGhbVO"
+        }
+      ],
+      "duration_ms": 529000,
+      "name": "Popurr\u00ed 30 aniversario (Soy Feliz Como Una Lombriz, No Se Si Es Amor, Para\u00edso Terrenal, Ahora Que Estuviste Lejos, Sobrevivir\u00e9)",
+      "url": "https://open.spotify.com/track/2ZhXMT6srfdYRpjmppVlKA"
     },
     {
       "added_at": "2024-09-06 04:30:55",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-09-06 04:30:55",
       "album": {
+        "name": "Tengo Mal Gusto",
+        "url": "https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "duration_ms": 148578,
+      "name": "Tengo Mal Gusto",
+      "url": "https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY"
+    },
+    {
+      "added_at": "2024-09-06 04:30:55",
+      "album": {
         "name": "Fumar Beber",
         "url": "https://open.spotify.com/album/7t8IxeseGdriSRYY9lCUlw"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 194531,
       "name": "Fumar Beber",
       "url": "https://open.spotify.com/track/7iWyYpsMYA8VUuJqeRn9B3"
-    },
-    {
-      "added_at": "2024-09-06 04:30:55",
-      "album": {
-        "name": "Tengo Mal Gusto",
-        "url": "https://open.spotify.com/album/3yug8VemCVhdreUliqZLdK"
-      },
-      "artists": [
-        {
-          "name": "Lupita Infante",
-          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
-        }
-      ],
-      "duration_ms": 148578,
-      "name": "Tengo Mal Gusto",
-      "url": "https://open.spotify.com/track/0KSDEL5lOswphHavdBTczY"
     },
     {
       "added_at": "2024-09-06 04:30:55",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-09-06 04:30:55",
       "album": {
-        "name": "Anitta \"Fresita\"",
-        "url": "https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5"
-      },
-      "artists": [
-        {
-          "name": "Designo Celestial",
-          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Anitta \"Fresita\"",
-      "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
-    },
-    {
-      "added_at": "2024-09-06 04:30:55",
-      "album": {
         "name": "Miro La Luna",
         "url": "https://open.spotify.com/album/54wwbqUyOybBoAbTiNFKo9"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 126365,
       "name": "Miro La Luna",
       "url": "https://open.spotify.com/track/0RsVM5ATSvbtpB0naldCXp"
+    },
+    {
+      "added_at": "2024-09-06 04:30:55",
+      "album": {
+        "name": "Anitta \"Fresita\"",
+        "url": "https://open.spotify.com/album/3JhEthd5rwcNeLO903tPH5"
+      },
+      "artists": [
+        {
+          "name": "Designo Celestial",
+          "url": "https://open.spotify.com/artist/7ApLnBw5BDaqVN1gYM9pAb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Anitta \"Fresita\"",
+      "url": "https://open.spotify.com/track/2WX1remNuBAAqQCYwzxhbC"
     },
     {
       "added_at": "2024-09-06 04:30:55",
@@ -1723,18 +1723,18 @@
     {
       "added_at": "2024-09-06 04:30:55",
       "album": {
-        "name": "No Gracias",
-        "url": "https://open.spotify.com/album/4e1LQVKvL4ZXhU9buBQuXI"
+        "name": "En Mil Cosas (En Vivo)",
+        "url": "https://open.spotify.com/album/3ubgBWnTXQHbo9pGYvqyaL"
       },
       "artists": [
         {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+          "name": "Lili Zetina",
+          "url": "https://open.spotify.com/artist/1At8hpss4elY0GBg2qP31j"
         }
       ],
-      "duration_ms": 170804,
-      "name": "No Gracias",
-      "url": "https://open.spotify.com/track/7wFQBSmm08y2kVkqtoWO9m"
+      "duration_ms": 194034,
+      "name": "En Mil Cosas - En Vivo",
+      "url": "https://open.spotify.com/track/048c1vHlRPl2mD86C4fx3m"
     }
   ],
   "unique_name": "Women of M\u00fasica Mexicana",

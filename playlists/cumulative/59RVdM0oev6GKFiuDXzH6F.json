@@ -165,6 +165,28 @@
     },
     {
       "album": {
+        "name": "Addiction / Yapper",
+        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211653,
+      "name": "Addiction",
+      "url": "https://open.spotify.com/track/7eJFz62eqPdmSooYHZWsip"
+    },
+    {
+      "album": {
         "name": "No Guest List",
         "url": "https://open.spotify.com/album/7cprE3sKPwvLtjsWGLBDYr"
       },
@@ -14583,6 +14605,32 @@
     },
     {
       "album": {
+        "name": "Work Tomorrow",
+        "url": "https://open.spotify.com/album/7ACkLnKSoWzXCCM5EwRpgP"
+      },
+      "artists": [
+        {
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
+        },
+        {
+          "name": "Dark Heart",
+          "url": "https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy"
+        },
+        {
+          "name": "David LeSal",
+          "url": "https://open.spotify.com/artist/1KB7YVSkBmXdNoOJEMkDAa"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Work Tomorrow",
+      "url": "https://open.spotify.com/track/5QaDPXmJsjNfTy9ISwSbAQ"
+    },
+    {
+      "album": {
         "name": "Wrong or Right (The Riddle) [Revelation Remix]",
         "url": "https://open.spotify.com/album/1nkvxZnYm7VzhmJGS7OqL9"
       },
@@ -14624,6 +14672,28 @@
       "duration_ms": 144927,
       "name": "Xanadu (Lizzy Wang Remix)",
       "url": "https://open.spotify.com/track/4iOont4lQXZEE9GqlBGpER"
+    },
+    {
+      "album": {
+        "name": "Addiction / Yapper",
+        "url": "https://open.spotify.com/album/47qmD30x0oZye9bBYAHKkr"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Oscar L",
+          "url": "https://open.spotify.com/artist/28KSeoYQphCQ5cGa0cuUCm"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189375,
+      "name": "Yapper",
+      "url": "https://open.spotify.com/track/1aFtQBA3Gxn7he9sFxSCG1"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "This is Madonna. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This Is Madonna. Los temas esenciales, todos en una lista.",
   "name": "This Is Madonna",
   "tracks": [
     {
@@ -498,7 +498,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Frozen On Fire",
       "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
@@ -1434,7 +1434,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 84560,
       "name": "Your Little Body's Slowly Breaking Down",
       "url": "https://open.spotify.com/track/1qzb4SRSRvgp9xIgd6A135"

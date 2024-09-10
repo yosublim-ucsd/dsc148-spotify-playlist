@@ -11632,7 +11632,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 240008,
       "name": "Chasing My Chances",
       "url": "https://open.spotify.com/track/34JCtRyz3QRjofHVAp54o0"
@@ -25358,7 +25358,7 @@
       ],
       "date_added": "2024-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 188697,
       "name": "GO LOW",
       "url": "https://open.spotify.com/track/5bWDW1HqFTlVHqh53GoSj0"
@@ -35307,6 +35307,46 @@
     },
     {
       "album": {
+        "name": "La Verdad",
+        "url": "https://open.spotify.com/album/7gHr8oPo0WCYFREtrbaTVb"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181311,
+      "name": "La Verdad",
+      "url": "https://open.spotify.com/track/6oQ2uRDCGtbd4czC7NGTk6"
+    },
+    {
+      "album": {
+        "name": "La Vuelta",
+        "url": "https://open.spotify.com/album/4rRikAN8vEcBqcZayfzHFt"
+      },
+      "artists": [
+        {
+          "name": "Angel Bleu",
+          "url": "https://open.spotify.com/artist/4SiL7PKZJKkh1DU5rSTAMO"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153988,
+      "name": "La Vuelta",
+      "url": "https://open.spotify.com/track/4rQXUQZeXEQUsiAK55mPmY"
+    },
+    {
+      "album": {
         "name": "Artificial Odyssey",
         "url": "https://open.spotify.com/album/0CwAF3BC2gOuFcyqX2cF6y"
       },
@@ -36112,7 +36152,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 239174,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/75dLv9wqT5MRdTdggxmqua"
@@ -47362,7 +47402,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 192000,
       "name": "On Me",
       "url": "https://open.spotify.com/track/5fRid8MplOppeiexBcfCXv"
@@ -58803,6 +58843,24 @@
     },
     {
       "album": {
+        "name": "so\u00f1ando",
+        "url": "https://open.spotify.com/album/7dZ2I6bnLN3xB4FO4HpdL3"
+      },
+      "artists": [
+        {
+          "name": "Venom Ruiz",
+          "url": "https://open.spotify.com/artist/0EiKA8qji4OtJ1cbpTTuha"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186827,
+      "name": "so\u00f1ando",
+      "url": "https://open.spotify.com/track/6zb4smws75A57UXuUDYuRi"
+    },
+    {
+      "album": {
         "name": "Does Not Exist",
         "url": "https://open.spotify.com/album/13ZII4JeJBUTFUbxwZxXyu"
       },
@@ -68263,6 +68321,28 @@
     },
     {
       "album": {
+        "name": "Vacaciones",
+        "url": "https://open.spotify.com/album/2SQhQ4qNo98FE96o3arcpY"
+      },
+      "artists": [
+        {
+          "name": "Raulexx",
+          "url": "https://open.spotify.com/artist/64BZtjSkM1Zxk34J66Eauq"
+        },
+        {
+          "name": "Guadarrama",
+          "url": "https://open.spotify.com/artist/4vdN1SJG5Ukz0buEIkfCJH"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168979,
+      "name": "Vacaciones",
+      "url": "https://open.spotify.com/track/0EqdubEdrEW6kx86tOd5vc"
+    },
+    {
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/4MZhvsafxwJVvpqrpnZQlv"
       },
@@ -68680,7 +68760,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 241813,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/16uTVvOkmvf53FHzxipdyH"

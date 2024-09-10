@@ -4,7 +4,7 @@
 
 > You're the paracetamol to my headache ❤️
 
-607 songs - 1 day 5 hr 56 min
+608 songs - 1 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Forever Sweet](https://open.spotify.com/track/4lXRwrXdvUa6CWIpId9Vaq) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Madam Dearest Pt\. 1](https://open.spotify.com/album/7K8oP8pRg0FdTRfUkN0e8q) | 3:03 | 2024-06-14 | 2024-07-27 |
 | [Friday](https://open.spotify.com/track/2PSzHKPwhLFVU6UJkcOfAF) | [Dami Oniru](https://open.spotify.com/artist/0WwZMQoxKjgOOicFhd08yx) | [Matter of Time](https://open.spotify.com/album/0sVpDSPL1inRRowIw7YI6g) | 3:31 | 2022-11-04 | 2023-01-14 |
 | [Fruit](https://open.spotify.com/track/6UqAmZi1jlmmFtiDVRQ1Dy) | [Masterkraft](https://open.spotify.com/artist/0lEUtJddtvvDlxtEmF9j0m), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [Fruit](https://open.spotify.com/album/7kip8gYzZEfC4zHZxBmKSa) | 2:58 | 2023-12-01 | 2024-02-03 |
+| [Fuji Vibe](https://open.spotify.com/track/2WHM3orrvvqziSkG0xp8sy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 5:22 | 2024-09-09 |  |
 | [Gallardo](https://open.spotify.com/track/41rQak3rbAQnJrz502N1kH) | [DO7](https://open.spotify.com/artist/0jpeRga3plWpnClZBMVzvL), [Dayonthetrack](https://open.spotify.com/artist/7vsaQwuPAG2PSWPVitnXrc) | [Gallardo](https://open.spotify.com/album/2QdFHfszhmWcPFQsLC2dVt) | 2:30 | 2024-06-28 | 2024-07-01 |
 | [Game Over](https://open.spotify.com/track/7ERJJ8c4gxANECZgSBAdBm) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Game Over](https://open.spotify.com/album/5O0jQrdJ5K8wo1feyiZy88) | 2:22 | 2023-08-03 | 2023-09-15 |
 | [Gangsta Love Letter](https://open.spotify.com/track/2Q41UXE6Q7hyR4asg7rYwh) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:52 | 2024-07-26 |  |
@@ -251,7 +252,7 @@
 | [I'm Late](https://open.spotify.com/track/1CKF1IRTQ6IpguGRWVuYJ7) | [Loyz](https://open.spotify.com/artist/0talF2YGN6GCxULc9faVSq) | [I'm Late](https://open.spotify.com/album/0uaRB2AQwTbVW5cLaKCZOs) | 2:33 | 2024-01-26 | 2024-02-03 |
 | [I'm Sorry](https://open.spotify.com/track/3wFPcby1G24MrJdfY18rqi) | [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of), [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Festival of the Sun](https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD) | 3:17 | 2022-08-25 | 2022-10-14 |
 | [IF](https://open.spotify.com/track/798mrR0yhiegkpy3GSHiei) | [Boy Ocean](https://open.spotify.com/artist/6bv6Z9B9k9ZpSEXhy5XBym), [Alpha P](https://open.spotify.com/artist/3dUPwMGYAsymFv80wkqEKl) | [IF](https://open.spotify.com/album/7vP71zjAIkT1TxIQPtWYVh) | 2:17 | 2022-11-04 | 2022-12-03 |
-| [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 |  |
+| [If I Be You](https://open.spotify.com/track/6hzPMSoUJxMJkNkTCHaDni) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [If I Be You](https://open.spotify.com/album/3kevAJqIQ59F9EzYNTI43E) | 2:16 | 2024-04-26 | 2024-09-10 |
 | [If You Leave](https://open.spotify.com/track/2eknBYpfzA4Mp5zWHMGac5) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Love Is Not Enough, Vol\. 2](https://open.spotify.com/album/4Z8XKYQDIVxQx6s2LTqDiG) | 2:29 | 2022-10-21 | 2023-02-24 |
 | [IFA](https://open.spotify.com/track/5rTEJjvwnJPYWjwWPaqIMZ) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [IFA](https://open.spotify.com/album/2zyp6JRyH0lZK7NgY0uZol) | 3:38 | 2024-08-25 | 2024-09-07 |
 | [Ijo \(Laba Laba\)](https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [Ijo \(Laba Laba\)](https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH) | 3:06 | 2022-07-07 | 2023-01-20 |

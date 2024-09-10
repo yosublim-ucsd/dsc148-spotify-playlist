@@ -4061,6 +4061,28 @@
     },
     {
       "album": {
+        "name": "Manasaagide",
+        "url": "https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO"
+      },
+      "artists": [
+        {
+          "name": "Ashwamedha Karthik",
+          "url": "https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2"
+        },
+        {
+          "name": "Abhishek Bangera",
+          "url": "https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158115,
+      "name": "Manasaagide",
+      "url": "https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly"
+    },
+    {
+      "album": {
         "name": "Manasare",
         "url": "https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1"
       },

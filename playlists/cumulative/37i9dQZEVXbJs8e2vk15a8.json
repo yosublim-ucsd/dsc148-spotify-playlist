@@ -4744,6 +4744,24 @@
     {
       "album": {
         "name": "Cuanto Quiero Que Me Quieras",
+        "url": "https://open.spotify.com/album/24IDQKU9KabNPJENJApSsJ"
+      },
+      "artists": [
+        {
+          "name": "A los 4 Vientos",
+          "url": "https://open.spotify.com/artist/4mawQ0P4WNPzCoktK0zuBD"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139598,
+      "name": "Bajo el Sombrero",
+      "url": "https://open.spotify.com/track/60yZFPAYb0nKr7SDDQohF7"
+    },
+    {
+      "album": {
+        "name": "Cuanto Quiero Que Me Quieras",
         "url": "https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ"
       },
       "artists": [
@@ -14854,7 +14872,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 214214,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
@@ -20632,7 +20650,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 163282,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/1lm6LUpH5muKFa2voR3Hyf"
@@ -43996,7 +44014,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 102122,
       "name": "Viva Chile, Viva Chile",
       "url": "https://open.spotify.com/track/4qYkYELTxSmwsFkeVSDsei"

@@ -4,7 +4,7 @@
 
 > Champion Sound\. Winners' Anthems
 
-703 songs - 1 day 19 hr 53 min
+704 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -388,6 +388,7 @@
 | [Madan \- Exotic Disco Mix](https://open.spotify.com/track/2N7qZKGc5RHfgmonaKDVsh) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Balearic Beats](https://open.spotify.com/album/6dXLbFa1JTcovu4qSPI8UR) | 7:38 | 2023-12-04 | 2024-01-13 |
 | [Magents \(Khululu\)](https://open.spotify.com/track/6lQTHlyhOsQ0FSSWRNepce) | [Mr JazziQ](https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Jay Music](https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi) | [Magents \(Khululu\)](https://open.spotify.com/album/4CqntmDXUQkYkfJYroFAs0) | 7:00 | 2024-06-12 | 2024-07-02 |
 | [Makila : Wablé](https://open.spotify.com/track/1YQNuvUhIjaYbNi7FV2SVN) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Makila : Wablé](https://open.spotify.com/album/1RCo2Oha1mmxXBebMYwAap) | 3:45 | 2024-03-08 | 2024-06-11 |
+| [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 | 2024-09-09 |  |
 | [Mama Said Knock You Out](https://open.spotify.com/track/6C7ZgThn6Yan5MTZdAEEFw) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Mama Said Knock You Out](https://open.spotify.com/album/7p7kcsrdoJ8DKQIMouujcb) | 4:49 | 2024-03-08 | 2024-06-11 |
 | [Maman matchôtchô](https://open.spotify.com/track/4K0NpIa9A1vXLg4ZJYUfqo) | [Peroo](https://open.spotify.com/artist/5zWvgu0NI3AhsBmkHQ7Cv4), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj) | [Maman matchôtchô](https://open.spotify.com/album/4c93TYyTUld4cSQuXJEnFV) | 3:36 | 2024-02-12 | 2024-03-09 |
 | [Mame Bamba](https://open.spotify.com/track/078jilHPrMLpjs8PPQoXSA) | [Youssou N'Dour](https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY) | [The Guide \(Wommat\)](https://open.spotify.com/album/4K2xwEC31lTt6sFfC4tYoM) | 4:56 | 2022-11-29 | 2023-07-12 |
@@ -661,7 +662,7 @@
 | [Water](https://open.spotify.com/track/4WzfrBu4t3LVv1BSKWugbW) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/6cWVXZCgpDJhvFOqB6o0DP) | 3:20 | 2023-12-04 | 2024-01-13 |
 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 | 2023-10-27 | 2024-07-02 |
 | [Water \- Remix](https://open.spotify.com/track/4CljUDO1I5hpKjwSNK6RWY) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Water \(Remix\)](https://open.spotify.com/album/7DWPd7wOj9g0N5krVFil0Z) | 3:20 | 2024-02-23 | 2024-03-15 |
-| [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-07-01 |  |
+| [Wave](https://open.spotify.com/track/780BUxpCmW9vOVYZsqdLLE) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wave](https://open.spotify.com/album/65dLAih8fOf5UUkplKRvdR) | 3:25 | 2024-07-01 | 2024-09-10 |
 | [Wavin' Flag](https://open.spotify.com/track/0zREtnLmVnt8KUJZZbSdla) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour](https://open.spotify.com/album/4KJCTmDLyr3AYJAN8dBaKo) | 3:40 | 2024-07-01 | 2024-08-01 |
 | [Wavin' Flag \- Coca\-Cola® Celebration Mix](https://open.spotify.com/track/4nOygULhEuDO5ZBRNPFaso) | [K'NAAN](https://open.spotify.com/artist/7pGyQZx9thVa8GxMBeXscB) | [Troubadour \(Champion Edition \- Asian Version\)](https://open.spotify.com/album/5NeG7Rk7ZUGVgvIRxPOmJ3) | 3:32 | 2023-09-07 | 2023-11-19 |
 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/1lCRw5FEZ1gPDNPzy1K4zW) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(2011 Remaster\)](https://open.spotify.com/album/7tB40pGzj6Tg0HePj2jWZt) | 2:59 | 2024-07-01 | 2024-08-01 |

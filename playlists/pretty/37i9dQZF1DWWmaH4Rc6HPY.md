@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 
 > ¡Rock para cantar en todos lados! Love Of Lesbian y Zahara en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,968 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,978 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmaH4Rc6HPY.md) - [plain]
 | 41 | [Quisiera Ser Como Tú](https://open.spotify.com/track/5Ik9AlzPoV7NPUnOczG58f) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia) | [Alta Fidelidad](https://open.spotify.com/album/7bhy6RPPMvCNgn2XAYRWbJ) | 3:50 |
 | 42 | [Rompehielos](https://open.spotify.com/track/0bRhN9bnExMCBF3ktxH2nN) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Rompehielos](https://open.spotify.com/album/13HcAi6ldlKksKEFPCrsf3) | 3:00 |
 | 43 | [Dame Love \- Remix](https://open.spotify.com/track/4osMQOkwTX79FUbNJpGxCD) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [7 Secretos](https://open.spotify.com/album/1DHS9kMaklrQAiiOxUAzmO) | 3:11 |
-| 44 | [Rey Ahogado](https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Rey Ahogado](https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ) | 4:05 |
-| 45 | [Que Somos \- Remix](https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Que Somos \(Remix\)](https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ) | 3:05 |
+| 44 | [Que Somos \- Remix](https://open.spotify.com/track/57gyk5Nu81GRzC55glFN95) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Que Somos \(Remix\)](https://open.spotify.com/album/6VOLzbfFo0ZvTtywKLRqDZ) | 3:05 |
+| 45 | [Rey Ahogado](https://open.spotify.com/track/5WQIiQ0Nitqwdh9i7gIIOB) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw), [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Rey Ahogado](https://open.spotify.com/album/5KHUN8igWIO1NCCJug8gNJ) | 4:05 |
 | 46 | [Elemento Noches De Salón \- Noches De Salón](https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Elemento Noches De Salón](https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR) | 3:43 |
 | 47 | [El Pasadiscos](https://open.spotify.com/track/31s0p9OAXYb2K7rXjcKJqZ) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [El Pasadiscos](https://open.spotify.com/album/0XJWpTC7paTTz3V6KQbQTW) | 4:30 |
 | 48 | [Clichés](https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc) | 3:18 |

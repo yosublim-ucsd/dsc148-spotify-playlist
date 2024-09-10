@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 
 > Våra spellisteredaktörers urval av otroliga låtar från 2023 som du kanske råkat missa? Enjoy! \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 877 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 876 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 40 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 |
 | 41 | [DROPPING SEEDS](https://open.spotify.com/track/6tUO8COj2Q4vZpo4K9dMiL) | [Carly Gibert](https://open.spotify.com/artist/3dBpGX6fuWAYxWhDspbVbQ) | [DROPPING SEEDS](https://open.spotify.com/album/2gJXkxmM0PLh6lgHlMvFPU) | 2:34 |
 | 42 | [Down](https://open.spotify.com/track/1GaJZbQKcDKJZ4o5JrRlFw) | [Simon Russell](https://open.spotify.com/artist/7AdC6XqOdLU2UoF66FYClz) | [Art By You](https://open.spotify.com/album/0m6ojmveTN9yM8NkAsiuAe) | 3:36 |
-| 43 | [Mördare](https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Mördare](https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW) | 2:49 |
-| 44 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
+| 43 | [1x1](https://open.spotify.com/track/3sL923OLO2SfZWwz6Eu59M) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Ravenna Golden](https://open.spotify.com/artist/27Od4Wz93nItXglC5t5GuC) | [1x1](https://open.spotify.com/album/6JTEvvAjCkAMPlFuuTMIbv) | 3:24 |
+| 44 | [Mördare](https://open.spotify.com/track/5QQjRDmhxjCMZC7VtqTTag) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR) | [Mördare](https://open.spotify.com/album/1K4iKMXv7ZQbKyeloEqeZW) | 2:49 |
 | 45 | [SMOKE](https://open.spotify.com/track/1umcOUij8xFTmqcmKr0L8w) | [Sval](https://open.spotify.com/artist/3pEGp6I1uBPalwgcku2CS0) | [SMOKE](https://open.spotify.com/album/4hV4TruwxWYAK4otQFEYA6) | 3:24 |
 | 46 | [Heaven](https://open.spotify.com/track/4wJ6GzWqWebaKHXrKot0ju) | [Dusky](https://open.spotify.com/artist/5gqoUf9vKKv96b1c0GBKwu) | [Heaven EP](https://open.spotify.com/album/4qs2ZCcVu7eeKc82fqFsEr) | 3:20 |
 | 47 | [Tänk om vi dör!](https://open.spotify.com/track/4e4Ai0V6ckatATwPETAYhw) | [Hemliga Klubben](https://open.spotify.com/artist/2PlHciJMEDaarjew8FmTsf) | [Tänk om vi dör!](https://open.spotify.com/album/1ypXzb3f5Tcmpc2kXi1nup) | 2:57 |
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9PCwCLovaMJ.md) - [plain]
 | 66 | [Work For Free](https://open.spotify.com/track/1UHLpmEsT3YPNnS7HW5Uap) | [Lover's Skit](https://open.spotify.com/artist/6NacK2pS3t12iQPaNzsadu) | [Work For Free](https://open.spotify.com/album/0UyHAJrwsR8Ywj2toxAG4w) | 2:42 |
 | 67 | [lonely](https://open.spotify.com/track/35H2s0aUWIb9pjsMJq5Xv8) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [lonely](https://open.spotify.com/album/11LcikjPNOCWmyqwUOXhsE) | 2:16 |
 | 68 | [Gia](https://open.spotify.com/track/469s8Ekt5RF3IB3uKWSmGO) | [JÁNA](https://open.spotify.com/artist/4Ny2ysC72ccnLmUgauWy7F) | [Gia](https://open.spotify.com/album/0GAxKrrUvlzxKURCSF9Xfn) | 4:05 |
-| 69 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
-| 70 | [Fight Back Time](https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY) | 3:17 |
+| 69 | [Fight Back Time](https://open.spotify.com/track/2pC6V7ZQyNMFGh8yfrKrgi) | [Sløtface](https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh), [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Fight Back Time](https://open.spotify.com/album/5eXFIcEh62sNR9C3MyJYHY) | 3:17 |
+| 70 | [Chop It](https://open.spotify.com/track/40GKAxsKv5kH8JyfYP2EOw) | [Whammyboy](https://open.spotify.com/artist/2agmDswc3FnDFbL0Ey9SKj) | [Chop It](https://open.spotify.com/album/6Lkdwdn7UFhS90L3FOuOW0) | 2:58 |
 | 71 | [Lilla liv](https://open.spotify.com/track/2Hhpu6sLP4AcnJTWFNbxFn) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1) | [Lilla liv](https://open.spotify.com/album/5ouJgHAjwsUqxIrNZAO7lJ) | 3:15 |
 | 72 | [October](https://open.spotify.com/track/6kMLYgSC8PW4B0pv9PpsQ1) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [blanket](https://open.spotify.com/album/5XTSqh2cKQ6jkbqHChbK0m) | 3:00 |
 | 73 | [Who](https://open.spotify.com/track/6TC6pNUHWaGYhliOtrRlzI) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR) | [Who](https://open.spotify.com/album/1MUUv8h8NmQlVlj7eZzsOd) | 3:27 |
 | 74 | [Tennis](https://open.spotify.com/track/5HjMrOB5mWB8F8Uh3wu58E) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/1sTbqsjJft5XrgnGRN2Y05) | 2:19 |
 | 75 | [forget me](https://open.spotify.com/track/6K3HbXrmO6WIv0uRZe5SfS) | [Orion Sisters](https://open.spotify.com/artist/1FjsO3rN6iI9liiSXMVb7u) | [forget me](https://open.spotify.com/album/54Vx2zv8ukijrui8BCWh3i) | 2:55 |
-| 76 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
-| 77 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
+| 76 | [If The Car Crashed](https://open.spotify.com/track/2zsthaGOn1HFt19XbB7kuh) | [Beforefrances](https://open.spotify.com/artist/0Sx1GmPY18HuO1ZrzyCnVj) | [If The Car Crashed](https://open.spotify.com/album/5cyLCldH7vZb9z5YYDq8Rz) | 3:23 |
+| 77 | [Flicker](https://open.spotify.com/track/147QfD9wJR5ztI6SpfBj1G) | [Glimji](https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc) | [Flicker](https://open.spotify.com/album/2FEono1vla7gHmopKAAmjC) | 3:06 |
 | 78 | [2 MARTINIS ON THE GO](https://open.spotify.com/track/39ErQKxX5vWCjzIQvAtTZM) | [Albin Myers](https://open.spotify.com/artist/6F3EsjY0PgMI4SXkQWXF3y), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [2 MARTINIS ON THE GO](https://open.spotify.com/album/0Bi4rmdRjCNYPQ85hHeRdG) | 1:49 |
 | 79 | [the kick is good](https://open.spotify.com/track/1WBT7cIY72ebsB9o0neu7r) | [MOR](https://open.spotify.com/artist/4VLZWJV6x7gfDSasogv3sb) | [the kick is good](https://open.spotify.com/album/7MtRauhe7CW1b1dj0tbcF7) | 3:43 |
 | 80 | [Nekad på klubben](https://open.spotify.com/track/1GD0U35f73Qk3rfLx0wRo8) | [Kvarteret](https://open.spotify.com/artist/6xBSrouGcMUDnoibs8MnlE) | [Nekad på klubben](https://open.spotify.com/album/1raUpMAzD2pUxLPeUk7Jvj) | 3:23 |

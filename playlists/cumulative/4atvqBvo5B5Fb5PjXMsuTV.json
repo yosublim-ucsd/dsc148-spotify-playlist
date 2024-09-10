@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 08 Sep 16:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 10 Sep 22:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -1916,7 +1916,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 205381,
       "name": "Angel",
       "url": "https://open.spotify.com/track/6bdsftOLGFx2Rb52Iot2Ql"
@@ -2174,7 +2174,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/238SwKe4AlSzqa7lg1oHUz"
@@ -3850,7 +3850,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 71067,
       "name": "BEYOND US",
       "url": "https://open.spotify.com/track/0a0xOf6HiihJobrCVwojpT"
@@ -5500,7 +5500,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 193090,
       "name": "Burn My Mirror",
       "url": "https://open.spotify.com/track/6E11HSUXTXAPyihBt3i0Ut"
@@ -7578,7 +7578,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 271813,
       "name": "Cool 7",
       "url": "https://open.spotify.com/track/5wM3ZqRnMstOy7I9UJlduT"
@@ -7626,7 +7626,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 179200,
       "name": "COSTA",
       "url": "https://open.spotify.com/track/0X3m5JIdxBaVTMnSz34pOR"
@@ -7710,6 +7710,28 @@
       "duration_ms": 141881,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/20xn8IlovaFXr2fb1gH5n7"
+    },
+    {
+      "album": {
+        "name": "CRAZY (David Guetta Remix)",
+        "url": "https://open.spotify.com/album/0hXnUVrrEXKKGUNGfqpdlA"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174927,
+      "name": "CRAZY (David Guetta Remix)",
+      "url": "https://open.spotify.com/track/3aNNxSj1e0pgaUUxV2GFoD"
     },
     {
       "album": {
@@ -10391,6 +10413,24 @@
     },
     {
       "album": {
+        "name": "Dunk Shot",
+        "url": "https://open.spotify.com/album/4mC1EE9p4dHGws7cxoTZk4"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179426,
+      "name": "Dunk Shot",
+      "url": "https://open.spotify.com/track/5FotCNJEeRjXwLGsbtyS9t"
+    },
+    {
+      "album": {
         "name": "Dust",
         "url": "https://open.spotify.com/album/6Z0Ql9KvDQjMUOniIx0R5S"
       },
@@ -10482,6 +10522,24 @@
       "duration_ms": 182381,
       "name": "Easy, Lee",
       "url": "https://open.spotify.com/track/1Bl4fX4phSMmAmwNT0n5kw"
+    },
+    {
+      "album": {
+        "name": "Eating the Egg Whole",
+        "url": "https://open.spotify.com/album/5Sm25qUtXR4zqC6bUmp3Dv"
+      },
+      "artists": [
+        {
+          "name": "Wild Pink",
+          "url": "https://open.spotify.com/artist/2BS3fywRW33o5GygfzZaOZ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "Eating The Egg Whole",
+      "url": "https://open.spotify.com/track/55V5dEBnZY8SRRldZxzWO1"
     },
     {
       "album": {
@@ -12816,7 +12874,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 84324,
       "name": "forward back",
       "url": "https://open.spotify.com/track/46eKpZPwKygAY2jAEKcqFC"
@@ -14424,7 +14482,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 261388,
       "name": "Gold",
       "url": "https://open.spotify.com/track/4Udt202Q85XdUjGcn1kSQw"
@@ -14770,6 +14828,24 @@
       "duration_ms": 484786,
       "name": "Greyhound",
       "url": "https://open.spotify.com/track/07OpLW10NtPOn9uAa2W6HW"
+    },
+    {
+      "album": {
+        "name": "GROUND",
+        "url": "https://open.spotify.com/album/304sD5GRJ025c7Gvnq7H2M"
+      },
+      "artists": [
+        {
+          "name": "K\u00c1RYYN",
+          "url": "https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239927,
+      "name": "GROUND",
+      "url": "https://open.spotify.com/track/13HeO6xsEnBMigkLuYblMF"
     },
     {
       "album": {
@@ -15144,6 +15220,24 @@
       "duration_ms": 142921,
       "name": "Hanging from the Ceiling",
       "url": "https://open.spotify.com/track/66DDx6xdVC0SqHFCardl5a"
+    },
+    {
+      "album": {
+        "name": "Happiness",
+        "url": "https://open.spotify.com/album/5AqOksgvvZTnsVGumH5glK"
+      },
+      "artists": [
+        {
+          "name": "frederic",
+          "url": "https://open.spotify.com/artist/3srPc1Mytv5GmTWqsQuoXW"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Happiness",
+      "url": "https://open.spotify.com/track/335hUB7Xnb6bTl9ODlGq9b"
     },
     {
       "album": {
@@ -17456,7 +17550,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 156166,
       "name": "I Swear To God",
       "url": "https://open.spotify.com/track/4EFja5sjO1ORjJ6tU0L1tT"
@@ -18563,6 +18657,28 @@
     },
     {
       "album": {
+        "name": "In My Dreams",
+        "url": "https://open.spotify.com/album/5XSd8ZVFkVv0VsCznOA6Ia"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290625,
+      "name": "In My Dreams",
+      "url": "https://open.spotify.com/track/0cs3wJc2hHHGHw13ZTYf5j"
+    },
+    {
+      "album": {
         "name": "In The Cut",
         "url": "https://open.spotify.com/album/6UvvBB9erje8tde7ssRJjM"
       },
@@ -18738,6 +18854,28 @@
       "duration_ms": 169613,
       "name": "INSTANT TRANSFER",
       "url": "https://open.spotify.com/track/1duL1mw9wWk0Dj0WfvQQD2"
+    },
+    {
+      "album": {
+        "name": "Open \u266deta v6.4",
+        "url": "https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        },
+        {
+          "name": "Yoon Do Hyun",
+          "url": "https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177250,
+      "name": "iNSTEAD!",
+      "url": "https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc"
     },
     {
       "album": {
@@ -22411,6 +22549,24 @@
     },
     {
       "album": {
+        "name": "Metamorphosis",
+        "url": "https://open.spotify.com/album/3wlXdkFn2Sx8XKZJxhsKdH"
+      },
+      "artists": [
+        {
+          "name": "La Reezy",
+          "url": "https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220987,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/7dZ6blFv8nY9zBCzusS8uA"
+    },
+    {
+      "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/6Ae0axgHydUkFfR4IIs8Up"
       },
@@ -22908,7 +23064,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 132493,
       "name": "Moodboard",
       "url": "https://open.spotify.com/track/6fpqzhSCpzGQthHJGA3j6u"
@@ -23982,7 +24138,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 142714,
       "name": "Never Come Back",
       "url": "https://open.spotify.com/track/26rKyTQhCCBojRnx8znqFr"
@@ -24236,7 +24392,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 123555,
       "name": "Next Bitch",
       "url": "https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU"
@@ -26435,6 +26591,24 @@
     },
     {
       "album": {
+        "name": "TO YOU",
+        "url": "https://open.spotify.com/album/1OoEDym00UHnEmG9yusoQX"
+      },
+      "artists": [
+        {
+          "name": "Park Eunbin",
+          "url": "https://open.spotify.com/artist/1ANiPe6RWnAKnfwORN5vxP"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198226,
+      "name": "Paper airplane",
+      "url": "https://open.spotify.com/track/6LF299a2OpvBzzSm9QgOLb"
+    },
+    {
+      "album": {
         "name": "Paper Cup",
         "url": "https://open.spotify.com/album/0NQmRiFIkoGduRJ8Prnggn"
       },
@@ -27878,6 +28052,24 @@
       "duration_ms": 224826,
       "name": "Psycho Killer",
       "url": "https://open.spotify.com/track/0jeKnrCAOZRMf7w9hdVHUe"
+    },
+    {
+      "album": {
+        "name": "Psychosis",
+        "url": "https://open.spotify.com/album/5Vm2NqjVAu13ibeQFEyteI"
+      },
+      "artists": [
+        {
+          "name": "Wretched Tongues",
+          "url": "https://open.spotify.com/artist/4x0FG84m1lKUYZf343WSVH"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191357,
+      "name": "Psychosis",
+      "url": "https://open.spotify.com/track/5jCeoGow3GxLRMDUnZlwtq"
     },
     {
       "album": {
@@ -32634,7 +32826,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 218960,
       "name": "Starbvxkz",
       "url": "https://open.spotify.com/track/4L6w0sBdFKGGiwGLZ5Whb6"
@@ -33650,7 +33842,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 151614,
       "name": "Super Mario",
       "url": "https://open.spotify.com/track/6o6URvJir7O3TnTNCoHa3v"
@@ -34599,6 +34791,28 @@
     },
     {
       "album": {
+        "name": "Terminal",
+        "url": "https://open.spotify.com/album/4BtoDXCj6ktolMeu3Okxma"
+      },
+      "artists": [
+        {
+          "name": "Skybreak",
+          "url": "https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3"
+        },
+        {
+          "name": "SpaceYeti",
+          "url": "https://open.spotify.com/artist/2XrKdnLdRFf3yNB7DcnRrQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Terminal",
+      "url": "https://open.spotify.com/track/5UiBPe2tMACirmcdSpjP13"
+    },
+    {
+      "album": {
         "name": "Tethers",
         "url": "https://open.spotify.com/album/4vckSGeDKaDyJxSJu5lSX4"
       },
@@ -35150,6 +35364,24 @@
       "duration_ms": 225224,
       "name": "The Future Is A Foreign Land",
       "url": "https://open.spotify.com/track/1OQxJiHrr5HAmTaqAhn39c"
+    },
+    {
+      "album": {
+        "name": "The Future Is So Yesterday",
+        "url": "https://open.spotify.com/album/6ysRgObDXuddsy3I6AQqWD"
+      },
+      "artists": [
+        {
+          "name": "Inanimate Insanity",
+          "url": "https://open.spotify.com/artist/1Is3qz6wgG4z3sAPzHxKm5"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111129,
+      "name": "The Future Is So Yesterday",
+      "url": "https://open.spotify.com/track/34eIF9jY1e9Scd6Pa35WfL"
     },
     {
       "album": {
@@ -35883,6 +36115,24 @@
     },
     {
       "album": {
+        "name": "The Waitress of St Louis'",
+        "url": "https://open.spotify.com/album/4urkioyWXc36qvDwu19u1Q"
+      },
+      "artists": [
+        {
+          "name": "Field Music",
+          "url": "https://open.spotify.com/artist/5P1tdwsQdI6z9MXXfmYRDS"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191758,
+      "name": "The Waitress of St Louis'",
+      "url": "https://open.spotify.com/track/4gq0rUqmnsPlMX1LHb3v0l"
+    },
+    {
+      "album": {
         "name": "The Will of Eli",
         "url": "https://open.spotify.com/album/0M495Q9UaW2CCTIv42Ms34"
       },
@@ -36146,6 +36396,24 @@
       "duration_ms": 212000,
       "name": "This Is Life",
       "url": "https://open.spotify.com/track/79EYgUv9JojcgVVEJXdPbI"
+    },
+    {
+      "album": {
+        "name": "This Is My Guitar",
+        "url": "https://open.spotify.com/album/5Q9S1tdheUX0p93zgggVQZ"
+      },
+      "artists": [
+        {
+          "name": "Christopher Owens",
+          "url": "https://open.spotify.com/artist/0ukgSx1gUt5rUihbNh46qy"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259211,
+      "name": "This Is My Guitar",
+      "url": "https://open.spotify.com/track/0JDPKiERDI4fZgIiEmkM21"
     },
     {
       "album": {
@@ -38505,6 +38773,28 @@
     },
     {
       "album": {
+        "name": "Wavy Navy University",
+        "url": "https://open.spotify.com/album/4MNyohrffBggOjMf5xRHVa"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120541,
+      "name": "Wavy Navy University",
+      "url": "https://open.spotify.com/track/3U5eiVoVoTMIA0VGOLon45"
+    },
+    {
+      "album": {
         "name": "way i luv",
         "url": "https://open.spotify.com/album/1V13EjtcTrzHbi8fZwExJi"
       },
@@ -39270,6 +39560,28 @@
       "duration_ms": 151080,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/5kmv9qvrOgxlOY0ottSalh"
+    },
+    {
+      "album": {
+        "name": "Whippit In My Body",
+        "url": "https://open.spotify.com/album/1yP46ZcAkFFYRSjnHMTCDF"
+      },
+      "artists": [
+        {
+          "name": "Lil Tim",
+          "url": "https://open.spotify.com/artist/1gRzrQ5rC506eSMw7cLpk7"
+        },
+        {
+          "name": "BabyKrank",
+          "url": "https://open.spotify.com/artist/25Pg1lUEuBDBDu9v4ZSGER"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93720,
+      "name": "Whippit In My Body",
+      "url": "https://open.spotify.com/track/5hIekwBgqqCEOQQStMCaDo"
     },
     {
       "album": {
@@ -40748,7 +41060,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 230599,
       "name": "\u01af\u1edaC ANH TAN N\u00c1T CON TIM",
       "url": "https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8"
@@ -40900,7 +41212,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 114683,
       "name": "\u0417\u0432\u0451\u0437\u0434\u044b",
       "url": "https://open.spotify.com/track/6oMhmrzRcxrgLoLug0NxvM"

@@ -4,7 +4,7 @@
 
 > Sommeren går på held: <a href="spotify:artist:6idjJt47PjFydVRrAlNw4C">Hans Philip</a> to the rescue ❤️‍🔥 <a href="spotify:track:12RzHH3ZiYmBP6ehh33L20">Du og jeg</a> ❤️‍🔥
 
-1,951 songs - 4 day 4 hr 11 min
+1,952 songs - 4 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Broke Someone](https://open.spotify.com/track/5NNlroTj7IqcPjTAArldwi) | [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Broke Someone](https://open.spotify.com/album/3vaBxsZ0n0BsaioBee4Sr5) | 1:59 | 2024-06-13 | 2024-06-21 |
 | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/track/0l3raueiJ78IsmZGwo6CRm) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [BROTHER STONE \(FEAT\. KODAK BLACK\)](https://open.spotify.com/album/0LWTY98ijfILoFHupcQJKE) | 3:22 | 2024-06-13 | 2024-06-21 |
 | [Bryder Mine Grænser](https://open.spotify.com/track/3zLcf3HpuM2IaXzvEQZMDW) | [Nella](https://open.spotify.com/artist/4DvWaQm4FBP8ykYbOOZflA), [MARQ](https://open.spotify.com/artist/2dpKYHK6LFPhs2FxwIuFB9) | [Bryder Mine Grænser](https://open.spotify.com/album/6E7peOoV90VukniR3MT8Ai) | 2:38 | 2024-06-20 | 2024-06-28 |
+| [brænder i mig \(sjæl i flammer\)](https://open.spotify.com/track/3cVUTTdz9iLpL5eLMqPged) | [evigblå](https://open.spotify.com/artist/4zUjJUUYB3w7TXCvWKrVGk) | [brænder i mig \(sjæl i flammer\)](https://open.spotify.com/album/4KE9nWV99Bjq061dqah7lH) | 3:11 | 2024-09-09 |  |
 | [Brænder Ud](https://open.spotify.com/track/444PXk9mKTa5JCNsgJPrNn) | [Gejst](https://open.spotify.com/artist/5aYWNs1bORooRHDSeuZ1IP) | [Brænder Ud](https://open.spotify.com/album/31q2r95fxuMI3kLBxAp1ft) | 2:57 | 2024-06-06 | 2024-06-14 |
 | [Build That Love](https://open.spotify.com/track/6Ek7bGJ4NTBo2OFDsYjL6Z) | [Cæcilie Norby](https://open.spotify.com/artist/6XFVoO2x9F6P1FxZy1PG4H) | [Build That Love](https://open.spotify.com/album/5vdzm6P6y81PCOvJg3D3ON) | 3:57 | 2024-08-16 | 2024-08-23 |
 | [Bullet](https://open.spotify.com/track/46H0GSu3BRBk746HIHH3l1) | [This Is Not America](https://open.spotify.com/artist/2VlxJZZG5aPHnlPzbtNflE) | [Bullet](https://open.spotify.com/album/1lfX9T7i39mnNhyxeYo0XV) | 3:33 | 2024-05-02 | 2024-05-10 |

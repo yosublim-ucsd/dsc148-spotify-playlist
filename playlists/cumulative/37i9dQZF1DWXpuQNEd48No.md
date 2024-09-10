@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC Square x Harjas Harjaai
 
-276 songs - 14 hr 24 min
+277 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Bawli](https://open.spotify.com/track/3cp5VdEzmk4DmLOs7LOTpT) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bawli](https://open.spotify.com/album/5bIAiDpCAnHxZ6N2EN8mTQ) | 1:58 | 2023-09-13 |  |
 | [Beat Pe Haley](https://open.spotify.com/track/1zKCjvOntyHye2uo9yStm7) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [SPOILER](https://open.spotify.com/artist/0sUr4Ao1sdL4xjebJJHQoY) | [Beat Pe Haley](https://open.spotify.com/album/0rYNzF3IEoaJZpsmWIDwUW) | 2:34 | 2023-12-22 |  |
 | [Been](https://open.spotify.com/track/4hs1cApFZPa3OeVgwqt0eG) | [Kaka WRLD](https://open.spotify.com/artist/3U9BgfNjBB0CXWhrXdtdbv), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Renuka Panwar](https://open.spotify.com/artist/2wDTo0nO2ZKJN7VUeGmuyg), [Pranjal Dahiya](https://open.spotify.com/artist/5TF8wtgrYplT0tJFjoV9Me) | [Been](https://open.spotify.com/album/4YGwBcyeLlawZd9QYg21Xg) | 3:04 | 2023-04-28 |  |
-| [Bhadak](https://open.spotify.com/track/6upU8Uzp33gRSOdQC7K2ao) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Bhadak](https://open.spotify.com/album/1tAAmlcRcHGKhnhJWobLSh) | 3:04 | 2024-07-03 |  |
+| [Bhadak](https://open.spotify.com/track/6upU8Uzp33gRSOdQC7K2ao) | [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH), [BAD Junkie](https://open.spotify.com/artist/67PszvnwyV2SVgLAaVqOER) | [Bhadak](https://open.spotify.com/album/1tAAmlcRcHGKhnhJWobLSh) | 3:04 | 2024-07-03 | 2024-09-10 |
 | [Bhaichara](https://open.spotify.com/track/6mCL0woLlGJZV52QQLbHhz) | [Sangam Vigyaanik](https://open.spotify.com/artist/6QCNlu5DCtRhOTxGovAols), [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp) | [Bhaichara](https://open.spotify.com/album/7reaLezW7CdO3r3Pl6f6Gb) | 3:26 | 2024-01-05 |  |
 | [Black life](https://open.spotify.com/track/74PN0yUa0pL2uedZJ15tGm) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Black life](https://open.spotify.com/album/2HJKafEE448WWI7E129xpv) | 3:05 | 2023-03-28 | 2023-06-17 |
 | [Bliss \- From "Jimmy"](https://open.spotify.com/track/4tDDf9R7ceyXlNezo0fudB) | [RP Singh](https://open.spotify.com/artist/7pxBiDULrPympl9ppIewtZ), [Dada Sadhu](https://open.spotify.com/artist/3P3buIpCGVMGlPrKKgurVy) | [Bliss \(From "Jimmy"\)](https://open.spotify.com/album/6sy7CsO6mRH7Elj7Gwu5hh) | 2:33 | 2024-01-13 | 2024-03-30 |
@@ -203,6 +203,7 @@
 | [No Worries](https://open.spotify.com/track/6r1TU60kDywJuu3EPrwHLe) | [Pulkit Arora](https://open.spotify.com/artist/2z0yNxAp5m9eZDHARjHwhQ) | [No Worries](https://open.spotify.com/album/5McT7ublWKojSCLew2Eh2C) | 2:52 | 2023-04-18 | 2023-06-11 |
 | [Nonstop](https://open.spotify.com/track/0nmWdTvhu6nduoTl7BB7p5) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE) | [7 Down 8 Up](https://open.spotify.com/album/2TFMQknbNORttU4HjgsIXn) | 2:32 | 2024-06-13 | 2024-07-04 |
 | [Not Afraid](https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Not Afraid](https://open.spotify.com/album/3suDToPPHBihogvFsRuTcR) | 3:02 | 2023-12-14 | 2024-05-06 |
+| [Number Plate](https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG) | [Sahil Dhull](https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8), [Shine](https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM) | [Number Plate](https://open.spotify.com/album/3najCBsi5OB1mwg3pTVfm5) | 2:57 | 2024-09-09 |  |
 | [OG](https://open.spotify.com/track/23ON0lC7ppFxmWTazcIbU6) | [Sammy Dulat](https://open.spotify.com/artist/5yEWvgoNRZReerWDujkDMw) | [OG](https://open.spotify.com/album/2O8jwQ7KdrM6uucbRVBAde) | 2:48 | 2024-03-06 | 2024-03-09 |
 | [OG Choro](https://open.spotify.com/track/4quZp6YfYpGF11kW9F0CJS) | [Nit\-C](https://open.spotify.com/artist/5d78ROCXcoKyqE99MOaYl3) | [OG Choro](https://open.spotify.com/album/6GEnpXLuQQmGVlr2dmJJij) | 2:11 | 2024-06-13 |  |
 | [OG'S](https://open.spotify.com/track/590sD11WvgSeUZkFx7qdO1) | [Its Aghori](https://open.spotify.com/artist/3z4OZpcpWVOxzPuGeuEWgr), [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE) | [OG'S](https://open.spotify.com/album/3PhM1OGdST90yeJpGzng2f) | 3:28 | 2024-07-03 | 2024-07-09 |

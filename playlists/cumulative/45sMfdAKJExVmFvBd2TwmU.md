@@ -4,11 +4,12 @@
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023, 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood son
 
-164 songs - 12 hr 28 min
+165 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/4nydCE0L7G13XLKPzvLlNs) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3Bq5ez5mocOfymcQM1WVGV) | 0:00 | 2022-05-10 | 2023-03-30 |
+| [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/track/1ouPVtxlolKZGedxSTrgD5) | [THE 9TEEN](https://open.spotify.com/artist/4vLv0CXSxGB1PJijrfokwB), [Sandesh Shandilya](https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5) | [Aankhon Mein Doob Jaane Ko](https://open.spotify.com/album/4KS5SO1IEyFxR0ThvDuEL9) | 2:05 | 2024-09-09 |  |
 | [Aashiyan](https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Nikhil Paul George](https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ) | [Barfi! \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4) | 3:56 | 2022-05-10 |  |
 | [Abhi Mujh Mein Kahin](https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO) | [Ajay\-Atul](https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2) | [Agneepath \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j) | 6:04 | 2022-03-17 |  |
 | [Ae Dil Hai Mushkil Title Track](https://open.spotify.com/track/1UWacd8x8tPPwmrPB1MoBI) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 4:29 | 2021-09-16 |  |

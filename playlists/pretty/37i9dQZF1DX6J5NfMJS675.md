@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,511,965 likes - 90 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,512,369 likes - 90 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pulverturm \- ANNA Rework](https://open.spotify.com/track/4NN7PBVKclppjgszynZ9K1) | [Niels Van Gogh](https://open.spotify.com/artist/6L8Co7Voup4dISwbSl3owl), [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om) | [Pulverturm \(ANNA Rework\)](https://open.spotify.com/album/4jh1gyFiHu0u7noPxQyzcE) | 3:56 |
 | 2 | [Chaos \- Rave Mix](https://open.spotify.com/track/7eHwRfpOMuDaNSDXJjzL04) | [Teenage Mutants](https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA) | [Chaos](https://open.spotify.com/album/3n5tnuCnn0pRpwIc1E3GEs) | 4:00 |
-| 3 | [Ghost Kiss](https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Ghost Kiss](https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW) | 3:53 |
-| 4 | [Takata](https://open.spotify.com/track/5Tvlqx7h4uLLRkr5EILrnt) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Takata](https://open.spotify.com/album/6NmFYBL9WxmwsGcWHkheJj) | 3:31 |
+| 3 | [Takata](https://open.spotify.com/track/5Tvlqx7h4uLLRkr5EILrnt) | [The Rocketman](https://open.spotify.com/artist/6ArtT03Hv9H55Y3EVa7d2V) | [Takata](https://open.spotify.com/album/6NmFYBL9WxmwsGcWHkheJj) | 3:31 |
+| 4 | [Ghost Kiss](https://open.spotify.com/track/25czN86DWwXmhOS0BmkwRR) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu) | [Ghost Kiss](https://open.spotify.com/album/5hkkowvZvsjSG6KAEgDeiW) | 3:53 |
 | 5 | [ENERGY](https://open.spotify.com/track/4EMEqHr2OoobVApJlz4sV2) | [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [THIS IS NOT AN ALBUM](https://open.spotify.com/album/6MdQHR6deZ4QIzEdnWOCJt) | 6:17 |
 | 6 | [ORION](https://open.spotify.com/track/5EhsdUx1N4JTcokotQT71c) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd) | [ORION](https://open.spotify.com/album/2PYilagLkHCFnVRKgXs39A) | 3:21 |
 | 7 | [Roar](https://open.spotify.com/track/1FubT3w22RMHC3vreAL7cH) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Roar](https://open.spotify.com/album/0BPXNEhv63ppBbjcR47Xyp) | 5:55 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 89 | [Catch The Light](https://open.spotify.com/track/205tYWo8M6qvK3Sop2a1LY) | [TASSERY](https://open.spotify.com/artist/4ezVmV5ppzmFl5ypOJiCCY) | [Walking Alone In The Dark](https://open.spotify.com/album/55QHJxqz6cW0GVLBPfackX) | 6:30 |
 | 90 | [Save Your Tears](https://open.spotify.com/track/7H4lZJ0sRyjMiCVvuRSZx6) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [Save Your Tears](https://open.spotify.com/album/2dW89RYRyyc9v8mXVDPRHQ) | 2:59 |
 
-Snapshot ID: `ZtWZ/wAAAAA4jeVNt/cAq6Wpdbdb3VFk`
+Snapshot ID: `Zt7TpgAAAACnrU53EIsfvDE+xV1LRDTR`

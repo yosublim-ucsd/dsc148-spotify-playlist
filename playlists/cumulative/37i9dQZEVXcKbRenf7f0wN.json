@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Forever Young",
+        "url": "https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257812,
+      "name": "A Victory of Love",
+      "url": "https://open.spotify.com/track/2Hf6NFGwSqZqFXp5at5J9h"
+    },
+    {
+      "album": {
         "name": "Hail To the Thief",
         "url": "https://open.spotify.com/album/5mzoI3VH0ZWk1pLFR6RoYy"
       },
@@ -1410,7 +1428,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-20",
+      "date_removed": null,
       "duration_ms": 207762,
       "name": "Animal Nitrate",
       "url": "https://open.spotify.com/track/2LvD3a2C0Jt0r0jW5bwOuU"
@@ -1752,7 +1770,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 467826,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/6hz6lrQtLcxOOjflnYjF9o"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 256973,
       "name": "Beso Negro",
       "url": "https://open.spotify.com/track/6My42aBi7Rg1v07YdM0WsS"
@@ -5135,6 +5153,24 @@
     },
     {
       "album": {
+        "name": "Vovin",
+        "url": "https://open.spotify.com/album/5cNojGbQQnjyuHkBkwesOs"
+      },
+      "artists": [
+        {
+          "name": "Therion",
+          "url": "https://open.spotify.com/artist/5c8Cw62ZYj9XO6iDLRDEsi"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530240,
+      "name": "Clavicula Nox",
+      "url": "https://open.spotify.com/track/73e9GwB16rjd2OTT1TiXCm"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina y Esp\u00edritu",
         "url": "https://open.spotify.com/album/2HYHSHyjYiInfqgPshmkLI"
       },
@@ -5722,7 +5758,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 268533,
       "name": "Cry For Love",
       "url": "https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot"
@@ -6583,6 +6619,24 @@
     },
     {
       "album": {
+        "name": "Deliverance",
+        "url": "https://open.spotify.com/album/0qCxwUOJJSowIzexnZeX4m"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 816720,
+      "name": "Deliverance",
+      "url": "https://open.spotify.com/track/4siXNiLG9VJR6Z2kP6fFjv"
+    },
+    {
+      "album": {
         "name": "Canten en Espanol",
         "url": "https://open.spotify.com/album/2HpUINC7m9OS5B5hpPi5OO"
       },
@@ -7354,7 +7408,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 357173,
       "name": "Do You Love Me?",
       "url": "https://open.spotify.com/track/4ZHENvl0Jvmda9mVqYM9JI"
@@ -7930,7 +7984,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Eaten",
       "url": "https://open.spotify.com/track/54cBqIDAX3dH5Ys1DKgDWR"
@@ -8420,7 +8474,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 432000,
       "name": "El Sue\u00f1o De La Gitana",
       "url": "https://open.spotify.com/track/1TPMt9f5xiS3PhEh3UvEtz"
@@ -8996,7 +9050,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 563893,
       "name": "Estranged",
       "url": "https://open.spotify.com/track/3s03nrUInN3NAVjQtmnS0O"
@@ -9320,7 +9374,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 169280,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4KWzmHFYCmZAasa0qXlwX0"
@@ -9360,6 +9414,24 @@
       "duration_ms": 578760,
       "name": "Falling Snow",
       "url": "https://open.spotify.com/track/73vyulFUPAla99D1wUtMQo"
+    },
+    {
+      "album": {
+        "name": "The Real Thing",
+        "url": "https://open.spotify.com/album/6LEP3L94jnkqjOxYJWPRP0"
+      },
+      "artists": [
+        {
+          "name": "Faith No More",
+          "url": "https://open.spotify.com/artist/6GbCJZrI318Ybm8mY36Of5"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313573,
+      "name": "Falling to Pieces",
+      "url": "https://open.spotify.com/track/20nb0Wl1yqoEERbUSILuG1"
     },
     {
       "album": {
@@ -9662,7 +9734,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 186240,
       "name": "Flesh Into Gear",
       "url": "https://open.spotify.com/track/3JwRNyUYy89ynTQoYefjhn"
@@ -9716,7 +9788,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 464453,
       "name": "Flying Whales",
       "url": "https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ"
@@ -10582,7 +10654,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-27",
+      "date_removed": null,
       "duration_ms": 238933,
       "name": "Goodbye Horses",
       "url": "https://open.spotify.com/track/7eIpz5oojZjLbJwGISfgvF"
@@ -11360,7 +11432,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 251480,
       "name": "Head On",
       "url": "https://open.spotify.com/track/7ovOXoXhWyJleZfOfsANyp"
@@ -15780,7 +15852,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 337240,
       "name": "M.E.",
       "url": "https://open.spotify.com/track/0YBA7eO8kqEzUoC6zAEutF"
@@ -16446,7 +16518,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 286813,
       "name": "Mejor No Hablar de Ciertas Cosas",
       "url": "https://open.spotify.com/track/0FHpUs8anxUWl3pMXMhmXj"
@@ -17625,6 +17697,24 @@
     },
     {
       "album": {
+        "name": "Savage (Songs from a Broken World)",
+        "url": "https://open.spotify.com/album/5nq1w3zUfLehOXUV1NG0Wt"
+      },
+      "artists": [
+        {
+          "name": "Gary Numan",
+          "url": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377611,
+      "name": "My Name Is Ruin",
+      "url": "https://open.spotify.com/track/5N9fzr0zQQyeLoTVDihNkj"
+    },
+    {
+      "album": {
         "name": "The Great Rock 'N' Roll Swindle",
         "url": "https://open.spotify.com/album/31saU8yDo1EVbvEBgScfOD"
       },
@@ -17748,7 +17838,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 322571,
       "name": "M\u00e9xico B\u00e1rbaro",
       "url": "https://open.spotify.com/track/5b7som9kQOiKJayR1XSDwc"
@@ -18144,7 +18234,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 257040,
       "name": "New Year's Day",
       "url": "https://open.spotify.com/track/2CwMxEXxMiLRrKPLjQLmne"
@@ -19230,7 +19320,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 397546,
       "name": "Orchard",
       "url": "https://open.spotify.com/track/3bZG5LMoqBiXDwSSi2p2VN"
@@ -20773,6 +20863,24 @@
     },
     {
       "album": {
+        "name": "Screaming For Vengeance",
+        "url": "https://open.spotify.com/album/0V7mTTzioHiYIjfM8ATZBI"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 430826,
+      "name": "Prisoner of Your Eyes",
+      "url": "https://open.spotify.com/track/2VLwPKY2gaBxGxwgmwRDUf"
+    },
+    {
+      "album": {
         "name": "Procuro Olvidarte / P\u00e1salo Bien",
         "url": "https://open.spotify.com/album/7qWKk1w1vFFHVsmSHFKiXJ"
       },
@@ -21682,7 +21790,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 301093,
       "name": "Rest My Chemistry",
       "url": "https://open.spotify.com/track/2O5UcpKolgLT8l8yAvEmID"
@@ -22604,7 +22712,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 278958,
       "name": "Scientific",
       "url": "https://open.spotify.com/track/5cc5QcW5EtFmFqIFGnttHV"
@@ -22770,6 +22878,24 @@
       "duration_ms": 132202,
       "name": "See You Dance",
       "url": "https://open.spotify.com/track/7GVtJDnN8nqs6MyRDLCj29"
+    },
+    {
+      "album": {
+        "name": "Ozzmosis (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5m8Fj0thHTE4CBGJTdF6s9"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 370426,
+      "name": "See You on the Other Side",
+      "url": "https://open.spotify.com/track/1Hs2MG2LBJaSPk7X0fzmfk"
     },
     {
       "album": {
@@ -22964,7 +23090,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 298466,
       "name": "Sexy Boy",
       "url": "https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd"
@@ -23807,6 +23933,24 @@
     },
     {
       "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235893,
+      "name": "Sleeping (In The Fire)",
+      "url": "https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR"
+    },
+    {
+      "album": {
         "name": "Merge",
         "url": "https://open.spotify.com/album/4Z9C6XYCFTzjrUXqWzA6dX"
       },
@@ -23962,7 +24106,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 209360,
       "name": "So In Love",
       "url": "https://open.spotify.com/track/1D2QnxvMOac95EG9C0KbsJ"
@@ -24347,6 +24491,24 @@
     },
     {
       "album": {
+        "name": "The Assassination of Julius Caesar (Five-Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/3YBhj9joFkRfFBzC5dtlYI"
+      },
+      "artists": [
+        {
+          "name": "Ulver",
+          "url": "https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220074,
+      "name": "Southern Gothic",
+      "url": "https://open.spotify.com/track/7xfUpj8CQHlDd88ulAGs7z"
+    },
+    {
+      "album": {
         "name": "Agotados de esperar el fin",
         "url": "https://open.spotify.com/album/32he74feHMqHYrG8lE7nou"
       },
@@ -24668,7 +24830,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 365720,
       "name": "State of Non-Return",
       "url": "https://open.spotify.com/track/4rweIylhC9uQ67gTrGCdez"
@@ -25964,7 +26126,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 219800,
       "name": "The American Way",
       "url": "https://open.spotify.com/track/1eyE2fyXSeVQihQCVn5xxp"
@@ -26574,7 +26736,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 197253,
       "name": "The Men",
       "url": "https://open.spotify.com/track/40JldHffC28y7iVr5wFjLv"
@@ -26718,7 +26880,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 299120,
       "name": "The Order Of Death - 2011 - Remaster",
       "url": "https://open.spotify.com/track/6LM5C6vEAwfAlaobFOURz7"
@@ -27168,7 +27330,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 230219,
       "name": "There's a Girl in the Corner",
       "url": "https://open.spotify.com/track/3e3wfDqtC7YPKsIAv5Lmuy"
@@ -28176,7 +28338,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 263927,
       "name": "Ulvinde",
       "url": "https://open.spotify.com/track/1OVCelrSJzzCRslwzJ1Gsd"
@@ -29934,7 +30096,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 323413,
       "name": "Wreath of Barbs (Album Mix)",
       "url": "https://open.spotify.com/track/6I2lZcI1Dm8VeUYsOASNxz"
@@ -30283,6 +30445,24 @@
     },
     {
       "album": {
+        "name": "Zehn (Best of)",
+        "url": "https://open.spotify.com/album/1Q3IrdQnwgMH7n4smS3s8j"
+      },
+      "artists": [
+        {
+          "name": "De/Vision",
+          "url": "https://open.spotify.com/artist/1bN9idF4rgIhaaKFpwgzoQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280933,
+      "name": "Your hands on my skin",
+      "url": "https://open.spotify.com/track/2QJ7e5QVz9eMQBRdm2wery"
+    },
+    {
+      "album": {
         "name": "Hollywood Goes Wild!",
         "url": "https://open.spotify.com/album/6CTMEhaa0ayx3ljTLBzTwk"
       },
@@ -30492,7 +30672,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-03",
+      "date_removed": null,
       "duration_ms": 348053,
       "name": "\u03a7 \u039e \u03a3 - 666",
       "url": "https://open.spotify.com/track/3P4Vcz7MhJngRf8WUAaoA0"

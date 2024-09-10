@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-02",
-  "description": "This Is Bear McCreary. Los temas esenciales, todos en una lista.",
+  "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
   "name": "This Is Bear McCreary",
   "tracks": [
     {
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 177613,
       "name": "The Day Will Come",
       "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"

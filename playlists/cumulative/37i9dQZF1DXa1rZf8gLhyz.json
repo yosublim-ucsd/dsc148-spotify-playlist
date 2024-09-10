@@ -1859,6 +1859,24 @@
     },
     {
       "album": {
+        "name": "Days with you",
+        "url": "https://open.spotify.com/album/0zpM3ncGniRqeyevBOivpp"
+      },
+      "artists": [
+        {
+          "name": "Cole Peers trio",
+          "url": "https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161500,
+      "name": "Days with you",
+      "url": "https://open.spotify.com/track/0HHUZbkghNwoRBXF7JeZ95"
+    },
+    {
+      "album": {
         "name": "Dear Marie",
         "url": "https://open.spotify.com/album/5pdCXbyqyQfUGnIrrX7fjM"
       },
@@ -5092,7 +5110,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 147000,
       "name": "Last Summer",
       "url": "https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX"

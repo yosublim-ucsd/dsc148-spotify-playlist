@@ -6714,7 +6714,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-06",
+      "date_removed": null,
       "duration_ms": 183529,
       "name": "B\u00e1ba Sp\u00ed",
       "url": "https://open.spotify.com/track/0hh2l0oDAvVe3otCz7bnbG"
@@ -14818,7 +14818,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-09",
+      "date_removed": null,
       "duration_ms": 144057,
       "name": "Gerard",
       "url": "https://open.spotify.com/track/5Wq2dXRkrrBcXIVaU7cejY"
@@ -15250,6 +15250,24 @@
       "duration_ms": 143102,
       "name": "Give It To Me - Sped Up",
       "url": "https://open.spotify.com/track/5Vv8EsGGg7jROU6KdM9znW"
+    },
+    {
+      "album": {
+        "name": "GIVE ME",
+        "url": "https://open.spotify.com/album/2x1nVDNty79eWCROArU01q"
+      },
+      "artists": [
+        {
+          "name": "masami",
+          "url": "https://open.spotify.com/artist/0k2F2X6ekOrnsWQt0OP7ko"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165062,
+      "name": "GIVE ME",
+      "url": "https://open.spotify.com/track/78caY2380YY6y4EYW5xx1m"
     },
     {
       "album": {
@@ -21560,7 +21578,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
@@ -23022,6 +23040,32 @@
       "duration_ms": 134518,
       "name": "Life Of Diego",
       "url": "https://open.spotify.com/track/1kQzOvd0NqIQBLlDTN7ki9"
+    },
+    {
+      "album": {
+        "name": "Lifestyle",
+        "url": "https://open.spotify.com/album/4EZDdNda2DHRyqoDgTpS4l"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "Rich Homie Quan",
+          "url": "https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269693,
+      "name": "Lifestyle",
+      "url": "https://open.spotify.com/track/7DTlsMOQjGysXHpwwpHuPl"
     },
     {
       "album": {
@@ -24912,7 +24956,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 150485,
       "name": "Maradona (Tatara)",
       "url": "https://open.spotify.com/track/3P8siIOHzjtOA8oCglURzL"
@@ -31618,7 +31662,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 147120,
       "name": "PANNONIA",
       "url": "https://open.spotify.com/track/5v1qS9RS2g42zeXHevEdYn"
@@ -33120,7 +33164,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 167000,
       "name": "Pohoda",
       "url": "https://open.spotify.com/track/5tfa7hEqzKc7dsSVfYIM13"
@@ -37618,7 +37662,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 166000,
       "name": "Si Ai",
       "url": "https://open.spotify.com/track/27jIKs9ZEe4m19j3lx4E2b"
@@ -47518,7 +47562,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 182947,
       "name": "Zapinamy Pasy - KriZ Van Dee Remix",
       "url": "https://open.spotify.com/track/5h0PSV4tkeBr9HBOvJR5HU"

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 27828,
+  "num_followers": 27835,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,18 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Sudaka",
-        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
+        "name": "Xavier",
+        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
       },
       "artists": [
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        },
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+          "name": "Emmanuel Horvilleur",
+          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
         }
       ],
-      "duration_ms": 202808,
-      "name": "Sudaka",
-      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
+      "duration_ms": 222333,
+      "name": "1000 D\u00edas",
+      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -207,18 +203,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Xavier",
-        "url": "https://open.spotify.com/album/0cLfepUS1abhkviDy3UrQ4"
+        "name": "Sudaka",
+        "url": "https://open.spotify.com/album/1xjohRHpisw8Yy50sognpe"
       },
       "artists": [
         {
-          "name": "Emmanuel Horvilleur",
-          "url": "https://open.spotify.com/artist/3Pc0Gebx1aAAJlZh3zysmI"
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
         }
       ],
-      "duration_ms": 222333,
-      "name": "1000 D\u00edas",
-      "url": "https://open.spotify.com/track/3UaCBKxFiggeyp8Y25GxUm"
+      "duration_ms": 202808,
+      "name": "Sudaka",
+      "url": "https://open.spotify.com/track/6WTRtgrOpBim1hmNZh2WmA"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -975,8 +975,8 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+        "name": "Ya Lo Estoy Deseando",
+        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
       },
       "artists": [
         {
@@ -984,9 +984,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 190790,
-      "name": "Aceituna",
-      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
+      "duration_ms": 202591,
+      "name": "C\u00f3mo",
+      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
-      },
-      "artists": [
-        {
-          "name": "De La Rivera",
-          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
-        }
-      ],
-      "duration_ms": 210796,
-      "name": "Selva",
-      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Ac\u00e9rcame a Tu Piel",
         "url": "https://open.spotify.com/album/1C2qwptH5EQFTo8jwiDq4o"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 248832,
       "name": "Ac\u00e9rcame a Tu Piel",
       "url": "https://open.spotify.com/track/37iJ5FeoZwPSw5RadQWbwv"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
+      },
+      "artists": [
+        {
+          "name": "De La Rivera",
+          "url": "https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b"
+        }
+      ],
+      "duration_ms": 210796,
+      "name": "Selva",
+      "url": "https://open.spotify.com/track/6io5gRjR6wkb6nlEmi7rIr"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1127,8 +1127,8 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Ya Lo Estoy Deseando",
-        "url": "https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX"
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
       },
       "artists": [
         {
@@ -1136,9 +1136,9 @@
           "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
         }
       ],
-      "duration_ms": 202591,
-      "name": "C\u00f3mo",
-      "url": "https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje"
+      "duration_ms": 190790,
+      "name": "Aceituna",
+      "url": "https://open.spotify.com/track/4XoUJQXuI2HPlUUMcl2mDX"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Get Porn",
+        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
+      },
+      "artists": [
+        {
+          "name": "Free Anguila",
+          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
+        }
+      ],
+      "duration_ms": 343362,
+      "name": "Get Porn",
+      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "La Nave",
         "url": "https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 190373,
       "name": "Aire",
       "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Get Porn",
-        "url": "https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh"
-      },
-      "artists": [
-        {
-          "name": "Free Anguila",
-          "url": "https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN"
-        }
-      ],
-      "duration_ms": 343362,
-      "name": "Get Porn",
-      "url": "https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
+        "name": "Jose Molina in Session",
+        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
+      },
+      "artists": [
+        {
+          "name": "Jose Molina",
+          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
+        }
+      ],
+      "duration_ms": 466409,
+      "name": "No Me Lo Digas (In Session)",
+      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
         "name": "Polvo C\u00f3smico (Remix)",
         "url": "https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 207888,
       "name": "Polvo C\u00f3smico - Remix",
       "url": "https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
-        "name": "Jose Molina in Session",
-        "url": "https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM"
-      },
-      "artists": [
-        {
-          "name": "Jose Molina",
-          "url": "https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7"
-        }
-      ],
-      "duration_ms": 466409,
-      "name": "No Me Lo Digas (In Session)",
-      "url": "https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf"
     },
     {
       "added_at": "2024-08-26 13:43:56",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2024-08-26 13:43:56",
       "album": {
-        "name": "Impar",
-        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
-      },
-      "artists": [
-        {
-          "name": "Maleboux",
-          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Conexi\u00f3n",
-      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
-    },
-    {
-      "added_at": "2024-08-26 13:43:56",
-      "album": {
         "name": "Foulmouth",
         "url": "https://open.spotify.com/album/7ywQCYXKnCG4zxufG5bpAP"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 174273,
       "name": "Foulmouth",
       "url": "https://open.spotify.com/track/6NBHRERMIEJODoMX7AC8q5"
+    },
+    {
+      "added_at": "2024-08-26 13:43:56",
+      "album": {
+        "name": "Impar",
+        "url": "https://open.spotify.com/album/2OgzrpSgi8c6dfcLvaJQaf"
+      },
+      "artists": [
+        {
+          "name": "Maleboux",
+          "url": "https://open.spotify.com/artist/1mPrcNDZMNpWoy6Cio5inH"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Conexi\u00f3n",
+      "url": "https://open.spotify.com/track/3Q8XtLWm9c53nqFvp29WeI"
     },
     {
       "added_at": "2024-08-26 13:43:56",

@@ -4,7 +4,7 @@
 
 > rex orange county <3
 
-2,973 songs - 6 day 16 hr 44 min
+2,974 songs - 6 day 16 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,6 +347,7 @@
 | [Bottle Rocket](https://open.spotify.com/track/2UNaGqS3RPjvkBzTtIS94A) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Bottle Rocket](https://open.spotify.com/album/4QOAYNpThe6GyIfce6KMvM) | 3:25 | 2020-07-31 | 2020-11-11 |
 | [Bound To Be](https://open.spotify.com/track/2UEIBvImcmgwOJsw7UCesE) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Bound To Be](https://open.spotify.com/album/5lpFZntCTxHcHLAMqK7kwb) | 3:30 | 2023-03-06 | 2023-04-09 |
 | [bowie box](https://open.spotify.com/track/449aAnrkYHyFP3vD8B5Pho) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:56 | 2024-05-03 | 2024-05-11 |
+| [Boy](https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr) | [Book Of Love](https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo) | [Book Of Love](https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53) | 2:59 | 2024-09-09 |  |
 | [Boy Friday](https://open.spotify.com/track/62sxl0QtvpRNGLK32QwwGS) | [Rebounder](https://open.spotify.com/artist/2g2HWripkxzRZDZJ4KTBSB) | [Boy Friday](https://open.spotify.com/album/1DDXb9xrdDFeLmZgCizypO) | 3:03 | 2022-07-01 | 2022-09-15 |
 | [Boy In A Billion](https://open.spotify.com/track/6DMWwt5XEJKlWYhw2EK76h) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Boy In A Billion](https://open.spotify.com/album/4V32yx2U7pEJpTjcpaRRI0) | 3:27 | 2021-07-01 | 2021-08-14 |
 | [Boy With The Blues](https://open.spotify.com/track/60r07P2OrlvVAUR8p3RRHE) | [Delacey](https://open.spotify.com/artist/1thbOfXak53dM1Xabq3pmb) | [Boy With The Blues](https://open.spotify.com/album/3tKn8nZYwdJdocwmQhxT2T) | 2:55 | 2021-03-26 | 2021-06-05 |

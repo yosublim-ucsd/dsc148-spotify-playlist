@@ -783,6 +783,24 @@
     },
     {
       "album": {
+        "name": "SCENARIOS",
+        "url": "https://open.spotify.com/album/0Dr60skBwohGDoNlfU0CNO"
+      },
+      "artists": [
+        {
+          "name": "Izabel",
+          "url": "https://open.spotify.com/artist/7KspYjdFAriLg5zAVfFbgj"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113684,
+      "name": "take 7",
+      "url": "https://open.spotify.com/track/558aM4OwF8sZPqiJ5NULtR"
+    },
+    {
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3aBQjWHmGxYaNjvu1rfStq"
       },

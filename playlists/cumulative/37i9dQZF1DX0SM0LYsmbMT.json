@@ -13223,6 +13223,24 @@
     },
     {
       "album": {
+        "name": "Circle Reflections",
+        "url": "https://open.spotify.com/album/38jHxGmwuEa3Wvs2fWMj83"
+      },
+      "artists": [
+        {
+          "name": "Mindscape",
+          "url": "https://open.spotify.com/artist/53cpLThSPfsGFP7J1B3NL6"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Circle Reflections",
+      "url": "https://open.spotify.com/track/5FIxocSQFn74wY3rJHS7HC"
+    },
+    {
+      "album": {
         "name": "Circle22",
         "url": "https://open.spotify.com/album/0WtzkDSX3GRxQOU89Ym4Ml"
       },
@@ -35028,7 +35046,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 94545,
       "name": "It's Just",
       "url": "https://open.spotify.com/track/0QVnU496HifSee8R7YRHdj"
@@ -59604,7 +59622,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 118095,
       "name": "Renato",
       "url": "https://open.spotify.com/track/0S7QUkT5qMA3wXAge3xQxX"
@@ -68016,6 +68034,28 @@
       "duration_ms": 150646,
       "name": "Spring",
       "url": "https://open.spotify.com/track/2ETNAXWeEKrJeYK8Rrr5lr"
+    },
+    {
+      "album": {
+        "name": "Spring Ave.",
+        "url": "https://open.spotify.com/album/6TpLADVUUZ6piFKA4pfHn3"
+      },
+      "artists": [
+        {
+          "name": "flowless",
+          "url": "https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        }
+      ],
+      "date_added": "2024-09-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130369,
+      "name": "Spring Ave.",
+      "url": "https://open.spotify.com/track/1X2auMUBptlv7VAqvOvGc8"
     },
     {
       "album": {

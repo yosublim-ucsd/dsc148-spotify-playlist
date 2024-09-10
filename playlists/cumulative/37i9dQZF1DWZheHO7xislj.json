@@ -344,7 +344,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-31",
+      "date_removed": null,
       "duration_ms": 264920,
       "name": "After The Love Has Gone",
       "url": "https://open.spotify.com/track/0c3Xqt6MesEzKVGdoKandP"
@@ -626,6 +626,24 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
+    },
+    {
+      "album": {
+        "name": "Soul Queen",
+        "url": "https://open.spotify.com/album/3nIxtIMxYqCiD7ZDE0payb"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "date_added": "2024-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158733,
+      "name": "Baby, I Love You",
+      "url": "https://open.spotify.com/track/36v8IF4VJv37hDMasPxX6g"
     },
     {
       "album": {
@@ -3166,7 +3184,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 156653,
       "name": "I'd Rather Go Blind",
       "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
@@ -4750,7 +4768,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 194293,
       "name": "Lucky Man",
       "url": "https://open.spotify.com/track/5Q4Dgn6sHsGkcSspTlLD9m"
@@ -5002,7 +5020,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-01",
+      "date_removed": null,
       "duration_ms": 174440,
       "name": "My Guy",
       "url": "https://open.spotify.com/track/3WORyf3FVpYdVoHEgSEt1b"
@@ -5760,7 +5778,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 275400,
       "name": "Popsicle Toes",
       "url": "https://open.spotify.com/track/4QWVQr6iA4jDSzj5thJN72"
@@ -6500,7 +6518,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 243826,
       "name": "Spirit in the Dark",
       "url": "https://open.spotify.com/track/1wGvueGYFPUmQUtVglgcPt"
@@ -8060,7 +8078,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 170066,
       "name": "When a Man Loves a Woman",
       "url": "https://open.spotify.com/track/4B3YfOKezanjfJTAbn75a2"

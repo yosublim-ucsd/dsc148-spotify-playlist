@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-119 songs - 8 hr 52 min
+120 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7qOzD1nutzAbDqgFiiGCrI) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/2CTbmY5EwTtlZ2TqREEVEp) | 3:48 | 2024-03-29 |  |
 | [Capuchino Pecho Blanco](https://open.spotify.com/track/7xiptPlNZJNAtcbpOErKRp) | [Barrio Lindo](https://open.spotify.com/artist/6AHDMBhI1OTokvO5DkBB9p) | [A Guide to the Birdsong of South America](https://open.spotify.com/album/0DDsDqhH1cWmQ59cIWrxw3) | 3:48 | 2023-08-11 | 2024-04-19 |
 | [Caracol](https://open.spotify.com/track/3QJcapradiMKjvI0nKb2Vn) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/4msH94tkW6Iyxke84wmCoQ) | 4:08 | 2023-08-11 | 2024-04-19 |
+| [Caracol](https://open.spotify.com/track/6xwFHo1JqCygt44XjshESr) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD) | [Viajante](https://open.spotify.com/album/57QX9cwsgpXluNSKfytRvm) | 4:10 | 2024-07-19 |  |
 | [Carnabailito](https://open.spotify.com/track/0dm32LoQFdIwdS4GDj0tsK) | [Gaby Kerpel](https://open.spotify.com/artist/2cnT3zcI1uKvnT3n1JQnP4) | [CARNABAILITO](https://open.spotify.com/album/4QHsGumANBWVSTTMtK15HB) | 5:25 | 2024-01-05 |  |
 | [Carnabailito](https://open.spotify.com/track/2cVzbNbNXg0NlWyqefuYix) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Magnetismo](https://open.spotify.com/album/3gCfM35GYz3JC4nLcr9RyU) | 4:01 | 2024-03-29 |  |
 | [CARNAVALITO DEL DUENDE](https://open.spotify.com/track/6vZL8IkljDw2sR4aHSN25S) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [CARNAVALITO DEL DUENDE](https://open.spotify.com/album/7IHXgqU3PUInEcitPjQybZ) | 2:52 | 2023-08-11 |  |
@@ -47,7 +48,7 @@
 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 | 2024-03-29 |  |
 | [Corazón Amanecido](https://open.spotify.com/track/5HgZ1BSj5hdaPZwpiCaA02) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH) | [Cable Tierra](https://open.spotify.com/album/4ybRHQ8hoePE8js09qqB7R) | 3:12 | 2023-08-11 | 2024-04-19 |
 | [Corazón de Agua](https://open.spotify.com/track/0C7ZtlspnaFd4FVBjlygr6) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/5RkElYnP2R01LHMGlNtnu6) | 4:23 | 2023-08-11 | 2024-04-19 |
-| [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 | 2024-03-29 |  |
+| [Corazón de Agua](https://open.spotify.com/track/62JjP0mn8YkLSGue8sZUNy) | [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Micaela Chauque](https://open.spotify.com/artist/6kXy0aOhcZi7ee7NIQmKFX) | [Corazón de Agua](https://open.spotify.com/album/7aZodMe45EqItLJqRZbXst) | 4:23 | 2024-03-29 | 2024-09-10 |
 | [Creo](https://open.spotify.com/track/4BhbOEiG8TIh244Keuvg44) | [Eruca Sativa](https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6) | [Seremos Primavera](https://open.spotify.com/album/0tSMSwjfT12rseYGq7I3SB) | 3:53 | 2023-08-11 |  |
 | [Cuando](https://open.spotify.com/track/1b9TpQFJK0WA6V0Aap0kZT) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [SUELTA](https://open.spotify.com/album/4gya2mygWkDnmtzHDaWKlP) | 5:32 | 2023-08-11 | 2024-04-19 |
 | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/track/48pUSL891H5B5dGOFjhuiV) | [Soema Montenegro](https://open.spotify.com/artist/3k4DZyXoTNV3aU940gXJUO), [Tremor](https://open.spotify.com/artist/5Qkex9yQ5V5FiC4qzMLndD), [Ruido Selecto](https://open.spotify.com/artist/0KF0b0vIeTNPIzYSIAOAPu) | [Cuando Oigo Sonar la Caja \(Ruido Selecto Remix\)](https://open.spotify.com/album/3n3CKxAnNg216UAyDogzeQ) | 3:20 | 2023-08-11 |  |

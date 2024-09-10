@@ -1,6 +1,6 @@
 {
   "description": "de skarpeste nye knive i dansk musik... Mille p\u00e5 forsiden \ud83c\udf3e",
-  "num_followers": 45242,
+  "num_followers": 45245,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "SAMBA",
+        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
+      },
+      "artists": [
+        {
+          "name": "Dos Santos",
+          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
+        }
+      ],
+      "duration_ms": 215238,
+      "name": "Under Vand",
+      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "D\u00e9r (feat. Wads.png)",
         "url": "https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 200325,
       "name": "D\u00e9r (feat. Wads.png)",
       "url": "https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "SAMBA",
-        "url": "https://open.spotify.com/album/7kaIQ1ArZSy1fcrQytwJOt"
-      },
-      "artists": [
-        {
-          "name": "Dos Santos",
-          "url": "https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn"
-        }
-      ],
-      "duration_ms": 215238,
-      "name": "Under Vand",
-      "url": "https://open.spotify.com/track/4zDDBqX3XUojNgE8R1q6d6"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -727,18 +727,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "No One Else",
-        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
+        "name": "Dear Space",
+        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
       },
       "artists": [
         {
-          "name": "Elias R\u00f8nnenfelt",
-          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
+          "name": "ROYA",
+          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
         }
       ],
-      "duration_ms": 231072,
-      "name": "No One Else",
-      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
+      "duration_ms": 202243,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Dear Space",
-        "url": "https://open.spotify.com/album/587JvxALgoeXF1WQYsjAVp"
+        "name": "No One Else",
+        "url": "https://open.spotify.com/album/3gOeqVU5TZP7ZR54je7rZi"
       },
       "artists": [
         {
-          "name": "ROYA",
-          "url": "https://open.spotify.com/artist/6OxEmD1kV3B1OhVjqWO9Zh"
+          "name": "Elias R\u00f8nnenfelt",
+          "url": "https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS"
         }
       ],
-      "duration_ms": 202243,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5Zy4JPMVwISXB1amTXQCaH"
+      "duration_ms": 231072,
+      "name": "No One Else",
+      "url": "https://open.spotify.com/track/6vxLhzmneGOW6zRfxc2siq"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "F\u00f8lsom dreng",
+        "url": "https://open.spotify.com/album/0gOxMVZPRTfPAxrV5UXKWA"
+      },
+      "artists": [
+        {
+          "name": "Blaue Blume",
+          "url": "https://open.spotify.com/artist/2RMn57qMY0yhUiIYdtUXlh"
+        }
+      ],
+      "duration_ms": 198998,
+      "name": "F\u00f8lsom dreng",
+      "url": "https://open.spotify.com/track/7f8XR9iGp7CQzCfKNmtt7t"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Butterfly Street",
         "url": "https://open.spotify.com/album/16wE26QmYI0HVpOfqjxJR0"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Sol Gennem Regn",
-        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
-      },
-      "artists": [
-        {
-          "name": "UNG-SKAB",
-          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Sol Gennem Regn",
-      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "</3",
         "url": "https://open.spotify.com/album/5eLaGyEggzHmcTzRQyGkzq"
       },
@@ -1023,6 +1023,22 @@
       "duration_ms": 203218,
       "name": "Til Mit Hjerte Stopper (feat. Kundo)",
       "url": "https://open.spotify.com/track/5aZzTieCOHU3CfhLJ7FSyS"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Sol Gennem Regn",
+        "url": "https://open.spotify.com/album/1wnPzqdbhmYpeuZ5TZe385"
+      },
+      "artists": [
+        {
+          "name": "UNG-SKAB",
+          "url": "https://open.spotify.com/artist/7JfoyGGsFgGPfhgfPvpqk8"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Sol Gennem Regn",
+      "url": "https://open.spotify.com/track/17n1KmOAVGpXe8BnWKrAD4"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1107,6 +1123,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Lander Et Sted",
+        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+        }
+      ],
+      "duration_ms": 173508,
+      "name": "Lander Et Sted",
+      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "7\"",
         "url": "https://open.spotify.com/album/339UrGqZIVQUud5XLmUNz1"
       },
@@ -1127,50 +1159,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Lander Et Sted",
-        "url": "https://open.spotify.com/album/053hmh2lhKniUcNLL8NkKF"
+        "name": "DIE FOR ME (JEG VIL IKKE VIDE DU FINDES)",
+        "url": "https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4"
       },
       "artists": [
         {
-          "name": "LUCY",
-          "url": "https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw"
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
         }
       ],
-      "duration_ms": 173508,
-      "name": "Lander Et Sted",
-      "url": "https://open.spotify.com/track/1dO1mdz4CTpn2ep7kMYaqY"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Uhh Yeah",
-        "url": "https://open.spotify.com/album/3rvRRmYzTULJ694xxugyI3"
-      },
-      "artists": [
-        {
-          "name": "FRAADS",
-          "url": "https://open.spotify.com/artist/0qpVYqW8pjiACu0FasfPnH"
-        }
-      ],
-      "duration_ms": 173032,
-      "name": "Uhh Yeah",
-      "url": "https://open.spotify.com/track/2WG8EuarYi6f5V8XXTCX7K"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Ung & Smuk",
-        "url": "https://open.spotify.com/album/34l6ED81fuFFDNLy4jJWX3"
-      },
-      "artists": [
-        {
-          "name": "Kind mod Kind",
-          "url": "https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As"
-        }
-      ],
-      "duration_ms": 160974,
-      "name": "Ung & Smuk",
-      "url": "https://open.spotify.com/track/1TXZrOx2LgKZfHsxKyUSia"
+      "duration_ms": 166104,
+      "name": "DIE FOR ME",
+      "url": "https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP"
     }
   ],
   "unique_name": "ung kniv ",

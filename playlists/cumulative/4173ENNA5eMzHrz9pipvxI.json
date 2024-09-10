@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R"
+      },
+      "artists": [
+        {
+          "name": "Carneyval",
+          "url": "https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd"
+    },
+    {
+      "album": {
         "name": "Aftershock",
         "url": "https://open.spotify.com/album/0nYypyR95zK8VjucsAL6h7"
       },
@@ -3722,6 +3740,24 @@
       "duration_ms": 200000,
       "name": "Bulletproof",
       "url": "https://open.spotify.com/track/3HplmxBl2jdMwG7pKiwzUU"
+    },
+    {
+      "album": {
+        "name": "Bulletproof",
+        "url": "https://open.spotify.com/album/3pFB9jB2dvhtEmPppxWZkG"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144517,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/3xW6Kb3xpdfmmFVZo1It3g"
     },
     {
       "album": {
@@ -15123,6 +15159,28 @@
     },
     {
       "album": {
+        "name": "Kosmos",
+        "url": "https://open.spotify.com/album/0usMuGjQfwmGga0W9Udqw6"
+      },
+      "artists": [
+        {
+          "name": "DAMIANO",
+          "url": "https://open.spotify.com/artist/6YFtrkySuHfAKmrFG9KqfO"
+        },
+        {
+          "name": "Pad\u00e9",
+          "url": "https://open.spotify.com/artist/6blWAoncmeneII62o38gdj"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233709,
+      "name": "Kosmos",
+      "url": "https://open.spotify.com/track/3fewHPIXttoyGSA6Uhxege"
+    },
+    {
+      "album": {
         "name": "Krazy",
         "url": "https://open.spotify.com/album/7eaNkqLVeS1g9tkjPNF5sH"
       },
@@ -22267,6 +22325,24 @@
     },
     {
       "album": {
+        "name": "P.A.R.T.Y.",
+        "url": "https://open.spotify.com/album/7qtwTswVpzid6t8oF10fFD"
+      },
+      "artists": [
+        {
+          "name": "Pickle",
+          "url": "https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172702,
+      "name": "P.A.R.T.Y.",
+      "url": "https://open.spotify.com/track/1cwOkJRGAEdomzzaa6FQhr"
+    },
+    {
+      "album": {
         "name": "Pa Lante",
         "url": "https://open.spotify.com/album/7mlOAOjeHMpzQy2vZbkpiC"
       },
@@ -23864,6 +23940,24 @@
       "duration_ms": 200625,
       "name": "Remote Control",
       "url": "https://open.spotify.com/track/6bY2RDT9xWSfgODfa7Jdm9"
+    },
+    {
+      "album": {
+        "name": "Renegade Master",
+        "url": "https://open.spotify.com/album/7jed62ZXmaqO0C04QO6OYe"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170307,
+      "name": "Renegade Master",
+      "url": "https://open.spotify.com/track/3aM59S9lax0LomwFVCHF0L"
     },
     {
       "album": {
@@ -30418,6 +30512,28 @@
       "duration_ms": 245714,
       "name": "Vamo Que Vamo",
       "url": "https://open.spotify.com/track/4MezYLhoClZzEbL2wGAFq4"
+    },
+    {
+      "album": {
+        "name": "VHS RAVE",
+        "url": "https://open.spotify.com/album/6jBRSFPY0Kbg7V3Ey2uDYX"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191250,
+      "name": "VHS RAVE",
+      "url": "https://open.spotify.com/track/1zgs6QpTBuJ67TQvXMtp7L"
     },
     {
       "album": {

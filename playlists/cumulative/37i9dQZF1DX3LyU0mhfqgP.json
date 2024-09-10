@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Keelan Mak\n",
+  "description": "Listen to the hottest songs from LGBTQIA+ artists. Cover: Zamilska\n",
   "name": "GLOW",
   "tracks": [
+    {
+      "album": {
+        "name": "No Escuro,",
+        "url": "https://open.spotify.com/album/4TX968qKjmaLmCj7eWwySt"
+      },
+      "artists": [
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169845,
+      "name": "(N\u00e3o) Quero Me Apaixonar",
+      "url": "https://open.spotify.com/track/5lAOoRwx3D8NoTZN8pVlxh"
+    },
     {
       "album": {
         "name": "(WHAT DID YOU EXPECT FROM) SEX WITH A STRANGER",
@@ -56,6 +74,28 @@
       "duration_ms": 159724,
       "name": "+Dti",
       "url": "https://open.spotify.com/track/5h48alrvDH3PLQZPaOuAkq"
+    },
+    {
+      "album": {
+        "name": "1 para 1",
+        "url": "https://open.spotify.com/album/5GouS8Wv7Fg0OLmYOaNzUt"
+      },
+      "artists": [
+        {
+          "name": "Titica",
+          "url": "https://open.spotify.com/artist/2uOdrNlbkp8umXVeHU5F2s"
+        },
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203586,
+      "name": "1 para 1",
+      "url": "https://open.spotify.com/track/3MRfbBCwMXxGyx2ENxt23g"
     },
     {
       "album": {
@@ -602,7 +642,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 224849,
       "name": "Ahead Of Myself",
       "url": "https://open.spotify.com/track/3lLXdpgMrccLM5hRp8v9lD"
@@ -1410,6 +1450,24 @@
       "duration_ms": 213024,
       "name": "Anything But Me",
       "url": "https://open.spotify.com/track/32JZt8EmiioCGTU6UIXJ4E"
+    },
+    {
+      "album": {
+        "name": "VANILLA BOY",
+        "url": "https://open.spotify.com/album/206zVYtuYhyAV3JdVyVoPv"
+      },
+      "artists": [
+        {
+          "name": "Andrei Ursu",
+          "url": "https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Apari \u00een vise",
+      "url": "https://open.spotify.com/track/5JA2h10ZUi5vAEZViXJamz"
     },
     {
       "album": {
@@ -2416,7 +2474,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 215021,
       "name": "Berlin Nightmare (feat. Evita Manji)",
       "url": "https://open.spotify.com/track/4hvXHcUxwYGccmMOW1dhPy"
@@ -5315,6 +5373,32 @@
     },
     {
       "album": {
+        "name": "CAJU",
+        "url": "https://open.spotify.com/album/1HRONdLhKvok05NgMKtKpj"
+      },
+      "artists": [
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        },
+        {
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306281,
+      "name": "DEIXA ESTAR",
+      "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
+    },
+    {
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
       },
@@ -5902,6 +5986,24 @@
       "duration_ms": 147707,
       "name": "Drip Sweat (feat. Channel Tres)",
       "url": "https://open.spotify.com/track/4SG3t0x3Qk5YXEqAJ89xqT"
+    },
+    {
+      "album": {
+        "name": "Drops In My Eyes",
+        "url": "https://open.spotify.com/album/14GeS3Gm8nMQzUYQbUvBLt"
+      },
+      "artists": [
+        {
+          "name": "Cece Vee",
+          "url": "https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196046,
+      "name": "Drops In My Eyes",
+      "url": "https://open.spotify.com/track/0B2017TXS8xiqgzf5btAO5"
     },
     {
       "album": {
@@ -7979,6 +8081,24 @@
     },
     {
       "album": {
+        "name": "Girls Like You",
+        "url": "https://open.spotify.com/album/77XFLtELsCZfkDST1eQB1s"
+      },
+      "artists": [
+        {
+          "name": "Lisl",
+          "url": "https://open.spotify.com/artist/0QXKsLAV538XweY58uHBeL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218461,
+      "name": "Girls Like You",
+      "url": "https://open.spotify.com/track/138fmDmRZaO5nywfi1TyFi"
+    },
+    {
+      "album": {
         "name": "Girls Make Me Wanna Die",
         "url": "https://open.spotify.com/album/4AbVB4r06i6IFHPYdMrHvl"
       },
@@ -8522,7 +8642,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 204492,
       "name": "GUCCIYANKA",
       "url": "https://open.spotify.com/track/7Kcpk2RlS5NbBYXugy4P3c"
@@ -9484,6 +9604,24 @@
       "duration_ms": 220664,
       "name": "Higher (Ty Sunderland Remix)",
       "url": "https://open.spotify.com/track/3hJnH01oKI2NQKNp4x1ZrM"
+    },
+    {
+      "album": {
+        "name": "Hikikomori",
+        "url": "https://open.spotify.com/album/4ytOqAsRx90yR9LxF2zEHO"
+      },
+      "artists": [
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167642,
+      "name": "Hikikomori",
+      "url": "https://open.spotify.com/track/2dmT1A8ChsblOcPPyEHaGx"
     },
     {
       "album": {
@@ -11287,6 +11425,24 @@
     },
     {
       "album": {
+        "name": "Intergalactic Rodeo",
+        "url": "https://open.spotify.com/album/2qKuaimLlMEmd0lLYQBTAm"
+      },
+      "artists": [
+        {
+          "name": "ADONXS",
+          "url": "https://open.spotify.com/artist/2Wipb14FDfbuu8b8LWpiNM"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179492,
+      "name": "Intergalactic Rodeo",
+      "url": "https://open.spotify.com/track/3ebDLWmSHQq7ezSKOar5dR"
+    },
+    {
+      "album": {
         "name": "Into The Light",
         "url": "https://open.spotify.com/album/0Q8akDFyF0I2GAKfEm7Aza"
       },
@@ -12966,7 +13122,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 192013,
       "name": "Loser",
       "url": "https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS"
@@ -13869,6 +14025,24 @@
     },
     {
       "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "album": {
         "name": "Fim do Mundo",
         "url": "https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw"
       },
@@ -14102,6 +14276,28 @@
       "duration_ms": 159000,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/4ZyRYtZMC8poztvj0KpgFK"
+    },
+    {
+      "album": {
+        "name": "MITMITA",
+        "url": "https://open.spotify.com/album/5fQw0BeOLzMoXUn0HIoKRc"
+      },
+      "artists": [
+        {
+          "name": "LION",
+          "url": "https://open.spotify.com/artist/1kVSHZorgZ4gytRY5xBPUE"
+        },
+        {
+          "name": "Dope Saint Jude",
+          "url": "https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197560,
+      "name": "MITMITA",
+      "url": "https://open.spotify.com/track/6tyQ5jUFTk8kFRIVj5zwFb"
     },
     {
       "album": {
@@ -14876,7 +15072,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 215629,
       "name": "Nie ma szans",
       "url": "https://open.spotify.com/track/6ugIQaWAeUcgfiUJItQiCb"
@@ -15529,6 +15725,28 @@
     },
     {
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/0tGlLrFgTKh7foE3Zp9dVI"
+      },
+      "artists": [
+        {
+          "name": "Zamilska",
+          "url": "https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH"
+        },
+        {
+          "name": "huskie",
+          "url": "https://open.spotify.com/artist/7qAmqo6RdMhZmRWNSIK8kS"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213351,
+      "name": "Odyssey",
+      "url": "https://open.spotify.com/track/25YnWoOmRGDR2ozZtkTjJ2"
+    },
+    {
+      "album": {
         "name": "offline",
         "url": "https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX"
       },
@@ -15802,6 +16020,28 @@
       "duration_ms": 164451,
       "name": "One More Night",
       "url": "https://open.spotify.com/track/7h3SmdSMPWiqeMJdX1YKLO"
+    },
+    {
+      "album": {
+        "name": "One More Time (feat. Popstar)",
+        "url": "https://open.spotify.com/album/48C00vxVerIm0i3hbd4NkW"
+      },
+      "artists": [
+        {
+          "name": "SOPHIE",
+          "url": "https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu"
+        },
+        {
+          "name": "Popstar",
+          "url": "https://open.spotify.com/artist/5eyBd6IpSj8pNySFhx9vZy"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200843,
+      "name": "One More Time (feat. Popstar)",
+      "url": "https://open.spotify.com/track/4PhMG4S7fjl8kSQz2JrC30"
     },
     {
       "album": {
@@ -16243,6 +16483,28 @@
     },
     {
       "album": {
+        "name": "PEDRIN",
+        "url": "https://open.spotify.com/album/6mJ3kagqd9VovvNdzeXh3K"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "DJ TOPO",
+          "url": "https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127846,
+      "name": "PEDRIN",
+      "url": "https://open.spotify.com/track/4MOmJ4na1BcX1Qoy47cHYH"
+    },
+    {
+      "album": {
         "name": "After",
         "url": "https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R"
       },
@@ -16512,7 +16774,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 107337,
       "name": "Pink Cheetah Print Slip",
       "url": "https://open.spotify.com/track/2CSeGqjIIhvmkgcJDqkKzl"
@@ -16584,7 +16846,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 193600,
       "name": "Plastic People",
       "url": "https://open.spotify.com/track/0Y3rJvEOjqON6l68XrKK7D"
@@ -16790,6 +17052,24 @@
       "duration_ms": 295479,
       "name": "Point Me Toward The Real",
       "url": "https://open.spotify.com/track/3l0EWOuGylX8eNrXJVDRrs"
+    },
+    {
+      "album": {
+        "name": "Police Checks",
+        "url": "https://open.spotify.com/album/6jQwEyoj1b13sby1UOoWh6"
+      },
+      "artists": [
+        {
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242782,
+      "name": "Police Checks",
+      "url": "https://open.spotify.com/track/16WieaBx24jfcYE1Q9EYRY"
     },
     {
       "album": {
@@ -18658,7 +18938,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 149960,
       "name": "she calls me daddy",
       "url": "https://open.spotify.com/track/12ZuYk6Tx3BMQIaDW6fNHI"
@@ -20016,7 +20296,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 164726,
       "name": "Straight With Me",
       "url": "https://open.spotify.com/track/0z3WKX1McBTgXbfKBExMGB"
@@ -21342,7 +21622,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 236626,
       "name": "This Hell (feat. CHANMINA - Gyarupi Remix - Spotify Singles)",
       "url": "https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI"
@@ -22062,7 +22342,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 214033,
       "name": "TUDO",
       "url": "https://open.spotify.com/track/6iBMj762l27f5fH6E1PUHE"
@@ -22236,7 +22516,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 252500,
       "name": "T\u1eebng L\u00e0",
       "url": "https://open.spotify.com/track/2xOhv7XudrBDtkID1jwsFE"
@@ -22892,7 +23172,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 174500,
       "name": "We Invented Love",
       "url": "https://open.spotify.com/track/3ph60TsHPtgPYiu5wTTEp6"
@@ -24508,7 +24788,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 299800,
       "name": "\u30d7\u30e9\u30a4\u30d9\u30fc\u30c8\u30fb\u30b9\u30fc\u30d1\u30fc\u30b9\u30bf\u30fc",
       "url": "https://open.spotify.com/track/2aLn6ReK9CXMQzuF35Jkuc"

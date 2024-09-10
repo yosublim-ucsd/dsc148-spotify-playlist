@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOID196oGJfG.md) - [plain]
 | 24 | [New Trick](https://open.spotify.com/track/5goujnab2lLFg4mYfYRFE6) | [CXLOE](https://open.spotify.com/artist/6M25WWmNO7wK1DnKmd3z6R) | [New Trick](https://open.spotify.com/album/1tTmm9wofKTikenwiATM4j) | 3:13 |
 | 25 | [Pieces](https://open.spotify.com/track/4SVX7ZcbbSo7YJAUntxXhE) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Pieces](https://open.spotify.com/album/6HIbhplOzkVk3IN4kZj9S3) | 3:13 |
 | 26 | [Arizona](https://open.spotify.com/track/1mY2tkkszwkFccupfkOXe5) | [Charley](https://open.spotify.com/artist/7BL2IU83ZaHfvJTkIE90v2) | [Arizona](https://open.spotify.com/album/0t7Jb4Pk8yl7811JG5Khgg) | 2:57 |
-| 27 | [Rock Bottom](https://open.spotify.com/track/4dgEOMPfGPCVeyyF10Stwg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/7zYxJgC4lH4Cz5aOasUTV5) | 2:42 |
-| 28 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 |
+| 27 | [LA](https://open.spotify.com/track/5nRuGEeeqRQZ71fwIBLMxl) | [Haley Joelle](https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8) | [Crossing More Than City Lines](https://open.spotify.com/album/7KIPA6botKqAyQWwX8jeDb) | 3:20 |
+| 28 | [Rock Bottom](https://open.spotify.com/track/4dgEOMPfGPCVeyyF10Stwg) | [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Rock Bottom](https://open.spotify.com/album/7zYxJgC4lH4Cz5aOasUTV5) | 2:42 |
 | 29 | [Blue](https://open.spotify.com/track/5g4KThJ9rjQexAG2NtomKE) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/6Cg42RsUj2uTvThXnIHedJ) | 3:24 |
 | 30 | [Closure](https://open.spotify.com/track/7Efgr2kEQ7SCYo3BkLjdP9) | [Blake Proehl](https://open.spotify.com/artist/1RgYPu8VR3b5sXupFPGMAO) | [Closure](https://open.spotify.com/album/3M3DY5rEccxaGJVT4FLlYc) | 2:30 |
 | 31 | [Taylor For President](https://open.spotify.com/track/7czVP2qtvy65c14ear28QD) | [Jordana Bryant](https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2) | [Taylor For President](https://open.spotify.com/album/2rWXs8lKLXWT2AZT6Ph08E) | 2:12 |
 | 32 | [Unhappy](https://open.spotify.com/track/5u3j8OZnb4PP4B3gnTjuoO) | [GRAACE](https://open.spotify.com/artist/4nqqGSsclFchZXaiafOYyV) | [Self Preservation](https://open.spotify.com/album/4plpuG3ZuucaxXhIo2gobJ) | 3:08 |
 | 33 | [I Love It When You're Low](https://open.spotify.com/track/4SNXOFgK2f3TUkj4ZBt9T8) | [LORYN](https://open.spotify.com/artist/0ryyI8NGZJ4MLeRfwbkODZ) | [Less Is More](https://open.spotify.com/album/3OAGrLvtuYjT7Zy6V3EKkp) | 3:06 |
 
-Snapshot ID: `AbboFAAAAACN1I0SOp04rgnwUlTbUuLq`
+Snapshot ID: `AbbttAAAAABKZrq4TBAP8s885tSAWitM`

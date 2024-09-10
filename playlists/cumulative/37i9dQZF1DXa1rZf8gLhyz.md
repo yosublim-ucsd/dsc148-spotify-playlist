@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-587 songs - 1 day 5 hr 57 min
+588 songs - 1 day 6 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Day By Day](https://open.spotify.com/track/21rmrbV8sWD6G0DBErDASD) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [Day By Day](https://open.spotify.com/album/2TLjiBB9ln1kQpKIzGapDN) | 3:11 | 2023-04-27 |  |
 | [Day Dream](https://open.spotify.com/track/0cWJ8W7tdobRmx362SLh6t) | [Madison Wynn\-Riley](https://open.spotify.com/artist/6q2hpvfVQLJUC04n4pjnBa) | [Day Dream](https://open.spotify.com/album/1O1g0LpkzUi1REzd2A8FCw) | 2:23 | 2023-09-22 |  |
 | [Days of Wine and Roses](https://open.spotify.com/track/2QRUDqfSSNCY6MpTUxP7We) | [Esther Davis](https://open.spotify.com/artist/42VoGaT6ypUMD1ZzOVu6hz) | [Days of Wine and Roses](https://open.spotify.com/album/0ymqZlyx7gyoeyV0RiG2uL) | 2:24 | 2022-06-21 | 2023-08-25 |
+| [Days with you](https://open.spotify.com/track/0HHUZbkghNwoRBXF7JeZ95) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Days with you](https://open.spotify.com/album/0zpM3ncGniRqeyevBOivpp) | 2:41 | 2024-09-09 |  |
 | [Dear Marie](https://open.spotify.com/track/5FRNPaYCvTHiXZzlLom0Kn) | [Frank Keme](https://open.spotify.com/artist/05C8tAFDHOzinIBu7qExmR) | [Dear Marie](https://open.spotify.com/album/5pdCXbyqyQfUGnIrrX7fjM) | 2:24 | 2023-11-17 |  |
 | [Dear Old Stockholm](https://open.spotify.com/track/33aKJ1s1QC94WW868ygr3p) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Dear Old Stockholm](https://open.spotify.com/album/0OsqjFlBduMGeyZuh34U8b) | 2:40 | 2022-08-29 |  |
 | [Dedicated To You](https://open.spotify.com/track/47k5XrHgnwF7yMRUALGOyt) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Dedicated To You](https://open.spotify.com/album/1d7Uj2w97J6ctIoXXAWxnP) | 4:45 | 2022-03-16 |  |
@@ -290,7 +291,7 @@
 | [Lars](https://open.spotify.com/track/7MYDpvoJIRfIhqibITZytN) | [Karl\-Erik](https://open.spotify.com/artist/3zHaWg01z30TzjlWqSpeB4) | [Lars](https://open.spotify.com/album/3iLA94IhIKONzR0PfNP8Fo) | 2:38 | 2024-07-01 |  |
 | [Last Autumn](https://open.spotify.com/track/2BTP3xdGQ2WtZevZAGvvPV) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Last Autumn](https://open.spotify.com/album/3boHmHCziMNORiNfKvb6iD) | 2:49 | 2023-11-17 |  |
 | [Last Rounds](https://open.spotify.com/track/7C6IP9aWS01qVzYTewBlOQ) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Last Rounds](https://open.spotify.com/album/390DhLEXEDzFZbo8YlBg4J) | 3:44 | 2021-12-07 | 2024-06-28 |
-| [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
+| [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 | 2024-09-10 |
 | [Late Silence](https://open.spotify.com/track/5BLJfLNLFD7KsVMKeeCD9v) | [Joe Jørgensen](https://open.spotify.com/artist/0CkSmVYe54CjKJef33XTcy) | [Late Silence](https://open.spotify.com/album/3D8brxaURYvY6mGpKIkfyY) | 2:27 | 2023-11-17 |  |
 | [Later honey](https://open.spotify.com/track/0w4tcM6osjc6yykd0IqqYQ) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Later honey](https://open.spotify.com/album/3gCq5zExh1KnvrUhfxFrq5) | 3:17 | 2023-08-10 |  |
 | [Laura](https://open.spotify.com/track/5GeV5VHplD4jZ45hjkVKI8) | [Eli M\. Arnold](https://open.spotify.com/artist/6Ed2TW5VpcnNBgafMeK2aA) | [Laura](https://open.spotify.com/album/5CbJxOOZY2ecaVSDjSO8gb) | 2:33 | 2024-04-10 |  |

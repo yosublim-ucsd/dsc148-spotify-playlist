@@ -1,6 +1,6 @@
 {
   "description": "Latin songs you love like you've never heard before. Cover: Natanael Cano",
-  "num_followers": 5179,
+  "num_followers": 5180,
   "original_name": "Spotify Singles: Latin",
   "owner": {
     "name": "Spotify",
@@ -923,6 +923,22 @@
     {
       "added_at": "2024-01-30 23:00:20",
       "album": {
+        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
+      },
+      "artists": [
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 269061,
+      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
+      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
+    },
+    {
+      "added_at": "2024-01-30 23:00:20",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0EJbZds2bDpLvD6vmC7XHS"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 244840,
       "name": "Suburbia - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5Y34ia4fEDrQd1a3gczxX9"
-    },
-    {
-      "added_at": "2024-01-30 23:00:20",
-      "album": {
-        "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-        "url": "https://open.spotify.com/album/5MEnmfuf8n3FzAFbx7dty5"
-      },
-      "artists": [
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 269061,
-      "name": "Bab\u00e1 Alapal\u00e1 - Spotify Singles",
-      "url": "https://open.spotify.com/track/5aK5UO6xXwo0fADdAu2YSh"
     },
     {
       "added_at": "2024-01-30 23:00:20",

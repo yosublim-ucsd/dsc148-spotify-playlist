@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B hecho en español\. Sen Senra en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,906 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,917 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 25 | [CUANDO HACEMOS EL AMOR](https://open.spotify.com/track/3l0sygctfWjxXitgE3WciJ) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 3:34 |
 | 26 | [PARA AMARTE A TI](https://open.spotify.com/track/5ZMucBMCG8iq0KuEZHLwYy) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [PARA AMARTE A TI](https://open.spotify.com/album/1tEOuO5jMejA2FyFr4lSlT) | 3:35 |
 | 27 | [Dreams & Love](https://open.spotify.com/track/7ihJMM7b6SkK5CpRYlwDfN) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Dreams & Love](https://open.spotify.com/album/1ODH4lUzYBmobn9Nsj31PE) | 2:21 |
-| 28 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
-| 29 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
+| 28 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 |
+| 29 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
 | 30 | [Estoy Bien](https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Estoy Bien](https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE) | 2:48 |
 | 31 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 |
 | 32 | [Dime Si Tu](https://open.spotify.com/track/2hiEWGnFqLCJoZvXU9Ozmr) | [Jey F](https://open.spotify.com/artist/72JO7MqhlJuMCwkx4w8Afr), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Fullbrand Music](https://open.spotify.com/artist/3MIE1H4JzyKU3QHvpAHbfe) | [Dime Si Tu](https://open.spotify.com/album/2LkuDGwEPEfOlrU5cmBt43) | 3:16 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 63 | [Dicen Que Eres Arte](https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Dicen Que Eres Arte](https://open.spotify.com/album/3r6qB4Ao4PMzrhtgjhmryg) | 2:44 |
 | 64 | [radar](https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [radar](https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei) | 2:40 |
 | 65 | [ADIÓS AMOR](https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 2:39 |
-| 66 | [FYAH](https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [FYAH](https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M) | 3:22 |
-| 67 | [Helado De Vainilla](https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Helado De Vainilla](https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R) | 3:29 |
+| 66 | [Helado De Vainilla](https://open.spotify.com/track/6kQq7hY3uAW4hQiysJrR03) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Helado De Vainilla](https://open.spotify.com/album/2rvrhgSwAx5WMZAqeNoO5R) | 3:29 |
+| 67 | [FYAH](https://open.spotify.com/track/35CFwzAjjOyY1teh0NUwF5) | [Francely Abreuu](https://open.spotify.com/artist/5RLbaO6vu3wyo06gAMxAQh) | [FYAH](https://open.spotify.com/album/4vDEwIEtcEZsNWNQVcIR5M) | 3:22 |
 | 68 | [Carmesí](https://open.spotify.com/track/0gb9JwHmyqfpMDMt1kCcZF) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Carmesí](https://open.spotify.com/album/3gsuLWyOFkUwYRE9ykLEU9) | 2:45 |
 | 69 | [Puntos Claves](https://open.spotify.com/track/2qaUa6vPtYqUcD2woI0LON) | [Lautaro Lopez](https://open.spotify.com/artist/4nD4jJ7anYuvuMtM8Wrspz), [Federico Iván](https://open.spotify.com/artist/5kh1pBADKzJQ5f3J5M2MKh), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi) | [Puntos Claves](https://open.spotify.com/album/40iuoENRDnoVBkn14w2sUg) | 2:17 |
 | 70 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 74 | [Creo](https://open.spotify.com/track/6vFO2NwMrqQXAQyEbGiTq8) | [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [SANDRO](https://open.spotify.com/album/13iUVLEs0sIvCtG8ft4MiP) | 3:12 |
 | 75 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 |
 | 76 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 |
-| 77 | [LA PELÍCULA](https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [LA PELÍCULA](https://open.spotify.com/album/4kpXc2TtBaQZaRGxKH6lOu) | 2:43 |
-| 78 | [Masaryk](https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Corazones en Almíbar](https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK) | 3:48 |
+| 77 | [Masaryk](https://open.spotify.com/track/6aek9ZxmCBrlxamKTuu4aE) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Corazones en Almíbar](https://open.spotify.com/album/3OqIGVF9QZptoacYAp3JUK) | 3:48 |
+| 78 | [LA PELÍCULA](https://open.spotify.com/track/4R3OVN8aUfF4LTXyjohnQc) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs) | [LA PELÍCULA](https://open.spotify.com/album/4kpXc2TtBaQZaRGxKH6lOu) | 2:43 |
 | 79 | [Como Lo Creen](https://open.spotify.com/track/4jbIkxBnLDF8iek4qhBVTB) | [Dany Calvario](https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [PD: No Vuelvas](https://open.spotify.com/album/4GmJRWGdGt4IVhIIDML27M) | 2:27 |
 | 80 | [Frío](https://open.spotify.com/track/2fw6liEffYRav3ORECpqvQ) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Frío](https://open.spotify.com/album/251ubhwCkD47ljB7FLK9DN) | 2:25 |
 | 81 | [Musiquita Triste](https://open.spotify.com/track/4ATBwE4Eo7D2VvF3rW2btg) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Musiquita Triste](https://open.spotify.com/album/781oF04ZNRoOhOkQgauUIN) | 3:24 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 96 | [túnosabes](https://open.spotify.com/track/2HCMCGiII3WhwgYRJuzmID) | [Riosse](https://open.spotify.com/artist/2j5iC8hR6INKeqJ2D1Zjiv), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [túnosabes](https://open.spotify.com/album/4viWoRW9DeNIcfCaPD1pjq) | 3:02 |
 | 97 | [THICK](https://open.spotify.com/track/4b14BvhPrVDbbpICnw2P9L) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [THICK](https://open.spotify.com/album/7iFPYMnIrLl33MDiZwyb5o) | 2:19 |
 | 98 | [Te Hice Mal \(Remix\)](https://open.spotify.com/track/5GScJWskAOiLZz9upeOKaI) | [Lui5](https://open.spotify.com/artist/0gfBmg53uxgAVNEDB23X5n), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Te Hice Mal \(Remix\)](https://open.spotify.com/album/3QJN1KLfND8BJpBRHDPCDk) | 4:29 |
-| 99 | [Como Antes](https://open.spotify.com/track/6MAB4oCZtECXRj7vybPb40) | [Thega Diaz](https://open.spotify.com/artist/5IikrGLvqxeVqr1Sco72eG), [Lucah](https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw) | [Como Antes](https://open.spotify.com/album/6UPdsEVKadhjafllM5p2rc) | 3:00 |
-| 100 | [hiErve](https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [hiErve](https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI) | 2:30 |
+| 99 | [hiErve](https://open.spotify.com/track/6qEnwPIOzDOsMeJfxYmTwO) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [hiErve](https://open.spotify.com/album/0QF0ORnA9iD1vXxEg0RMGI) | 2:30 |
+| 100 | [Nadie Nos Entiende](https://open.spotify.com/track/1NBLwD8aj37OfbnkBZuwxc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee) | [Nadie Nos Entiende](https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms) | 3:37 |
 
 Snapshot ID: `ZtqaYAAAAABuBfg8xzf2xIVwfdjJkBbO`

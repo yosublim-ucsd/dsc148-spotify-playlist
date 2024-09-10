@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ad\u00e8le Castillon",
-  "num_followers": 41714,
+  "num_followers": 41711,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,30 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
+        },
+        {
+          "name": "Koba LaD",
+          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
+        }
+      ],
+      "duration_ms": 261021,
+      "name": "911",
+      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "MAMACITA",
         "url": "https://open.spotify.com/album/4ZhmFglWYBzjI1hxNsjUPN"
       },
@@ -471,30 +495,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/67f3PjH1D4jG9wNHaVi7vv"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        },
-        {
-          "name": "Koba LaD",
-          "url": "https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3"
-        }
-      ],
-      "duration_ms": 261021,
-      "name": "911",
-      "url": "https://open.spotify.com/track/567I1pGlfAQUfHTMHbH6qj"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Par nous-m\u00eames",
         "url": "https://open.spotify.com/album/2X5USMHX1pApuSt0JIRrjA"
       },
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Maylin",
-        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
-      },
-      "artists": [
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 174222,
-      "name": "Maylin",
-      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Si seulement...",
         "url": "https://open.spotify.com/album/2HCm7GfuJdM5wrhpkosFV2"
       },
@@ -563,22 +547,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Quitter",
-        "url": "https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf"
+        "name": "Maylin",
+        "url": "https://open.spotify.com/album/1HsirZCHLxa72qcUu5PWW0"
       },
       "artists": [
         {
-          "name": "Imen Es",
-          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
-        },
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
         }
       ],
-      "duration_ms": 135000,
-      "name": "Quitter",
-      "url": "https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u"
+      "duration_ms": 174222,
+      "name": "Maylin",
+      "url": "https://open.spotify.com/track/1xUafVKc4f8jZYX4SM0pMs"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -643,6 +623,26 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Quitter",
+        "url": "https://open.spotify.com/album/6AGfhoKxs2aYIiEG8H2YYf"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Quitter",
+      "url": "https://open.spotify.com/track/0WQgUaSYbrtMAXGcQaZu1u"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Chor\u00e9",
         "url": "https://open.spotify.com/album/2RRwrVWsZeNCTq6y3ORp20"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 180228,
       "name": "Chor\u00e9",
       "url": "https://open.spotify.com/track/2J6iYDncej8Z1vOiisz7zN"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "SHAKE",
-        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
-      },
-      "artists": [
-        {
-          "name": "Franglish",
-          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
-        }
-      ],
-      "duration_ms": 171281,
-      "name": "SHAKE",
-      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -695,6 +679,22 @@
       "duration_ms": 172498,
       "name": "Vroum Vroum",
       "url": "https://open.spotify.com/track/01WDr6maI3v16UgrFsR9y5"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "SHAKE",
+        "url": "https://open.spotify.com/album/7j1MZzsUfCGSXItWOy8X1x"
+      },
+      "artists": [
+        {
+          "name": "Franglish",
+          "url": "https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw"
+        }
+      ],
+      "duration_ms": 171281,
+      "name": "SHAKE",
+      "url": "https://open.spotify.com/track/5i0rsI0ih8V4pgY6J3MsHT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Honeymoon",
-        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
-      },
-      "artists": [
-        {
-          "name": "B.B. Jacques",
-          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
-        }
-      ],
-      "duration_ms": 161377,
-      "name": "Rayol",
-      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Bazar",
         "url": "https://open.spotify.com/album/1N9W4DaURi0lQYOM7DpsDW"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 166322,
       "name": "Bazar",
       "url": "https://open.spotify.com/track/4khrqV7xYJWCk0sesxhtwt"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/5LtjW9e7zu1KvIGQiuuDo0"
+      },
+      "artists": [
+        {
+          "name": "B.B. Jacques",
+          "url": "https://open.spotify.com/artist/3Op4g1wmQJxGTmeFSQ8z52"
+        }
+      ],
+      "duration_ms": 161377,
+      "name": "Rayol",
+      "url": "https://open.spotify.com/track/3If2Z0wH9FM1EBW2xQfEM2"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of hip-hop tracks from South Asia. Cover: Hanumankind",
+  "description": "Best of hip-hop tracks from South Asia. Cover:  Sidhu Moose Wala, Steel Banglez",
   "name": "Desi Hip Hop",
   "tracks": [
     {
@@ -202,7 +202,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-10",
+      "date_removed": null,
       "duration_ms": 169512,
       "name": "4.10",
       "url": "https://open.spotify.com/track/10jkTly01YHd0Jm2xUtFlB"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 123428,
       "name": "Dikkat",
       "url": "https://open.spotify.com/track/1kkijmgG1220rd4aQ78llZ"
@@ -2780,7 +2780,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 109714,
       "name": "Haramzada",
       "url": "https://open.spotify.com/track/0OoiVEI8YENqBjW3KsBSXn"
@@ -3220,7 +3220,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 155076,
       "name": "Joota Japani",
       "url": "https://open.spotify.com/track/7lzPCtx5j2JRFhbsGpbzQ7"
@@ -3286,7 +3286,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 332538,
       "name": "Kaanch Ke Ghar",
       "url": "https://open.spotify.com/track/4zIKxXLpYV6vCHgS1BTSkX"
@@ -3903,6 +3903,28 @@
     },
     {
       "album": {
+        "name": "The Brownprint",
+        "url": "https://open.spotify.com/album/39fvaMl4ECsHkplPilIpBo"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178424,
+      "name": "Losing Myself (feat. Gunna)",
+      "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
+    },
+    {
+      "album": {
         "name": "ghosts, and goodbyes",
         "url": "https://open.spotify.com/album/13HPCeCDTiQP4oljsHNygo"
       },
@@ -3966,6 +3988,28 @@
       "duration_ms": 250000,
       "name": "Maa Baap",
       "url": "https://open.spotify.com/track/5XyVceXJx8bnyeBeuQhMQ2"
+    },
+    {
+      "album": {
+        "name": "Maan Ja Chhori",
+        "url": "https://open.spotify.com/album/0uInM6EbRS3Y3Yp8SbiFYJ"
+      },
+      "artists": [
+        {
+          "name": "MC SQUARE",
+          "url": "https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF"
+        },
+        {
+          "name": "Harjas Harjaayi",
+          "url": "https://open.spotify.com/artist/3ioOEaiQ1Zw6RMCesOOWfZ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150638,
+      "name": "Maan Ja Chhori",
+      "url": "https://open.spotify.com/track/0mnYFf6BUw3AL2rXKaZ9yJ"
     },
     {
       "album": {
@@ -4226,7 +4270,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 234064,
       "name": "MASHINEY",
       "url": "https://open.spotify.com/track/7BVzMrrox1WtP4VKpeWOQB"
@@ -4278,6 +4322,24 @@
       "duration_ms": 297019,
       "name": "Me & You",
       "url": "https://open.spotify.com/track/5PlvEOKEO40fwk1qHXGuH0"
+    },
+    {
+      "album": {
+        "name": "GLORY",
+        "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199114,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF"
     },
     {
       "album": {
@@ -5156,7 +5218,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 164675,
       "name": "PRAISE",
       "url": "https://open.spotify.com/track/6NnUXWms5vhnhsipEJ4yEj"
@@ -5530,6 +5592,24 @@
       "duration_ms": 146000,
       "name": "Rozi",
       "url": "https://open.spotify.com/track/2MKceKWilgjYW6lgVYyAOr"
+    },
+    {
+      "album": {
+        "name": "Rubicon",
+        "url": "https://open.spotify.com/album/0ehKmlR1wM75ConoUCIDsD"
+      },
+      "artists": [
+        {
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Rubicon",
+      "url": "https://open.spotify.com/track/6EnDE5S4iX8HsURZtAOh6J"
     },
     {
       "album": {

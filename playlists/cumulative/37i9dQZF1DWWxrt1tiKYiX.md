@@ -4,7 +4,7 @@
 
 > Lovely, acoustic pop\. Cover: Taylor Swift
 
-262 songs - 14 hr 27 min
+263 songs - 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,8 +251,9 @@
 | [Train Wreck \- Acoustic](https://open.spotify.com/track/043T1ZzD0qHoesyfZhseGn) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Train Wreck \(Acoustic\)](https://open.spotify.com/album/6z6jD5mmTJ5Zr7HRA3C0WQ) | 3:29 | 2022-01-28 | 2023-04-29 |
 | [Trampoline \- Stripped](https://open.spotify.com/track/7HHSCN8qAcPBKqNolT5qBg) | [SHAED](https://open.spotify.com/artist/3KwmxIhSe9UTSEF37kwngR) | [Trampoline \(Stripped\)](https://open.spotify.com/album/6RPcqbYgcBZw5pSkPfnALB) | 3:38 | 2022-01-28 |  |
 | [Unfinished Business \(Acoustic\)](https://open.spotify.com/track/2VbO6uAFOFVaAuWGbntoQL) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG), [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Unfinished Business \(Acoustic\)](https://open.spotify.com/album/5ps2KtT1GWOD9PtJ34bpDV) | 3:28 | 2024-02-16 |  |
-| [vices](https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [roots](https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi) | 2:46 | 2023-12-08 |  |
+| [vices](https://open.spotify.com/track/762n155rz6x9e5UHjoxmVC) | [gavn!](https://open.spotify.com/artist/2pQzh5cuuqpDErGZNaOULd) | [roots](https://open.spotify.com/album/5TPV8JYLrkm15MVr7RhFdi) | 2:46 | 2023-12-08 | 2024-09-10 |
 | [Victoria's Secret \- Piano Stripped](https://open.spotify.com/track/50skDNkr45SubYkVWC4YOi) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [Victoria’s Secret \(Piano Stripped\)](https://open.spotify.com/album/7cKckU7FmpUFnt94PUibaU) | 2:55 | 2022-10-08 | 2023-04-15 |
+| [we can't be friends \(wait for your love\) \- acoustic \(live from jungle city studios\)](https://open.spotify.com/track/23itJEBZlued974YuPPLlq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [we can't be friends \(wait for your love\) \- acoustic \(live from jungle city studios\)](https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD) | 3:07 | 2024-09-09 |  |
 | [Weatherman](https://open.spotify.com/track/4yEkhMRfKJVYVgFmO1dLuj) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [Weatherman](https://open.spotify.com/album/6YZiUZWUDdRigGpPW4O4SB) | 2:55 | 2024-05-10 |  |
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/1atfZeWvJu5xxAUJ9Mj9Qs) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1AJ5uDWMN8DYbaIXAVxU7U) | 3:36 | 2022-01-28 | 2022-10-13 |
 | [When The Lights Go Out \- Piano Version](https://open.spotify.com/track/65qUxWlmERiGKra1tteQyB) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [When The Lights Go Out \(Piano\)](https://open.spotify.com/album/1wJymTwoSi9WFWkLwlc0P6) | 3:36 | 2022-10-08 | 2023-04-29 |

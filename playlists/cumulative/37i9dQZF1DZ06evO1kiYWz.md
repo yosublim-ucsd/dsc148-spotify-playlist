@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO1kiYWz.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO1kiYWz) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO1kiYWz)
 
-### [This Is Campo De Almas.](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz)
+### [Campo De Almas\. This Is‏](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1kiYWz)
 
-> This is Campo De Almas.\. The essential tracks, all in one playlist.
+> .Campo De Almas\. This is‏ הרצועות שחייבים להכיר, מרוכזות בפלייליסט אחד.
 
 60 songs - 3 hr 49 min
 

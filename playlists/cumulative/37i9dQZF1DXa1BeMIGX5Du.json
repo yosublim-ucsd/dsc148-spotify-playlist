@@ -1069,6 +1069,24 @@
     },
     {
       "album": {
+        "name": "The Second Act",
+        "url": "https://open.spotify.com/album/1iHEMKyzqipuRw2BPuB2NH"
+      },
+      "artists": [
+        {
+          "name": "Missy Higgins",
+          "url": "https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195308,
+      "name": "Craters",
+      "url": "https://open.spotify.com/track/5klX9QWBLDyUsvZeX3YcMC"
+    },
+    {
+      "album": {
         "name": "Tigers Blood",
         "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
       },
@@ -1809,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "Far From Home",
+        "url": "https://open.spotify.com/album/3S179cs84LzHAFo2nrMN2d"
+      },
+      "artists": [
+        {
+          "name": "Michael Dunstan",
+          "url": "https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260842,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/7qwCxms6SRuWvT6BMxkesm"
+    },
+    {
+      "album": {
         "name": "Headlong",
         "url": "https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ"
       },
@@ -2322,7 +2358,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 283464,
       "name": "Gummy Bamarra",
       "url": "https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow"
@@ -4402,7 +4438,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 267986,
       "name": "Sing You Over",
       "url": "https://open.spotify.com/track/2Y8AaP02pXtMQv2lEYVU5q"
@@ -4706,6 +4742,24 @@
       "duration_ms": 180157,
       "name": "Space Between",
       "url": "https://open.spotify.com/track/1yZmHipKOL0zDpkxzt8QHr"
+    },
+    {
+      "album": {
+        "name": "Spooky",
+        "url": "https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS"
+      },
+      "artists": [
+        {
+          "name": "soft star",
+          "url": "https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235802,
+      "name": "Spooky",
+      "url": "https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO"
     },
     {
       "album": {
@@ -5284,7 +5338,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 219316,
       "name": "The Second Act",
       "url": "https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa"

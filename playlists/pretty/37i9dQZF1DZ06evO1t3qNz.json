@@ -1,12 +1,12 @@
 {
-  "description": "This is Jessie Murph. The essential tracks, all in one playlist.",
-  "num_followers": 28878,
+  "description": "This Is Jessie Murph. Los temas esenciales, todos en una lista.",
+  "num_followers": 28913,
   "original_name": "This Is Jessie Murph",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAACjZ9mvO+67Aj2SkclZTC5o",
+  "snapshot_id": "ZtzpAAAAAACxpse7sJiBbSNv+38N6/4S",
   "tracks": [
     {
       "added_at": null,
@@ -211,70 +211,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look Who's Cryin' Now",
-        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 141724,
-      "name": "Look Who's Cryin' Now",
-      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "How Could You",
-      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Upgrade",
-        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 157662,
-      "name": "Upgrade",
-      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sobriety",
-        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 126361,
-      "name": "Sobriety",
-      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "That Ain't No Man That's The Devil",
         "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
       },
@@ -304,9 +240,89 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
+      "duration_ms": 187813,
+      "name": "How Could You",
+      "url": "https://open.spotify.com/track/7wB9sL81rFRGhRt6msZ9CV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Who's Cryin' Now",
+        "url": "https://open.spotify.com/album/539ihh7Uywx0dY2NFAJbID"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 141724,
+      "name": "Look Who's Cryin' Now",
+      "url": "https://open.spotify.com/track/6Q0j526ymBAvizdCHmoM9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Upgrade",
+        "url": "https://open.spotify.com/album/52ohvbnHKQp8iMybNwDd4e"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 157662,
+      "name": "Upgrade",
+      "url": "https://open.spotify.com/track/72jFoOulGip53D9qZWMvi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 125975,
+      "name": "Love Lies",
+      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
       "duration_ms": 127293,
       "name": "While You're At It",
       "url": "https://open.spotify.com/track/3SQJJ5wTW8y40TE0abStR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sobriety",
+        "url": "https://open.spotify.com/album/74Q7pNFVMRZRgLf256Uewk"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 126361,
+      "name": "Sobriety",
+      "url": "https://open.spotify.com/track/0UOb1XYYj9iByVnCgLazcX"
     },
     {
       "added_at": null,
@@ -323,6 +339,38 @@
       "duration_ms": 201310,
       "name": "When I'm Not Around",
       "url": "https://open.spotify.com/track/2NIYKZkwuDKylxcGja4fAe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "That Ain't No Man That's The Devil",
+        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 178472,
+      "name": "It Ain't Right",
+      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "drowning",
+        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
+      },
+      "artists": [
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        }
+      ],
+      "duration_ms": 164678,
+      "name": "If I Died Last Night",
+      "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
     },
     {
       "added_at": null,
@@ -356,41 +404,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 125975,
-      "name": "Love Lies",
-      "url": "https://open.spotify.com/track/3abIPNFqcG1QvNKtjduDxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "drowning",
-        "url": "https://open.spotify.com/album/4MG8Z8BcUsNQFgJjMxzTWN"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 164678,
-      "name": "If I Died Last Night",
-      "url": "https://open.spotify.com/track/4NpFdj4CHgVSoQ32yHVmNL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "That Ain't No Man That's The Devil",
-        "url": "https://open.spotify.com/album/4BnCr0behKaGscMMhpiHX7"
-      },
-      "artists": [
-        {
-          "name": "Jessie Murph",
-          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
-        }
-      ],
-      "duration_ms": 178472,
-      "name": "It Ain't Right",
-      "url": "https://open.spotify.com/track/70Iv0DGdoPCCjE6L2uTq28"
+      "duration_ms": 171635,
+      "name": "Gotta Hold",
+      "url": "https://open.spotify.com/track/7c03FKl3V9wffosgIEN2Co"
     },
     {
       "added_at": null,
@@ -420,9 +436,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 171635,
-      "name": "Gotta Hold",
-      "url": "https://open.spotify.com/track/7c03FKl3V9wffosgIEN2Co"
+      "duration_ms": 188990,
+      "name": "Bang Bang (The Ballad Of Amy Fisher)",
+      "url": "https://open.spotify.com/track/5D5heO1PsYu1ThDAXzWkpw"
     },
     {
       "added_at": null,
@@ -436,9 +452,9 @@
           "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
         }
       ],
-      "duration_ms": 188990,
-      "name": "Bang Bang (The Ballad Of Amy Fisher)",
-      "url": "https://open.spotify.com/track/5D5heO1PsYu1ThDAXzWkpw"
+      "duration_ms": 287209,
+      "name": "I Could Go Bad",
+      "url": "https://open.spotify.com/track/31zaw4YXW0jXMli1fftqEb"
     }
   ],
   "unique_name": "This Is Jessie Murph",

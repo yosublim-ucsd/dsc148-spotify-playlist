@@ -2,7 +2,7 @@
 
 ### [Tech House Operator](https://open.spotify.com/playlist/37i9dQZF1DWVY4eLfA3XFQ)
 
-> Tech house technicians, featuring Diplo, Mau P, and Gunna\.  50% techno, 50% house
+> Tech house technicians, featuring Matroda and Martin Ikin 👽👽 50% techno, 50% house
 
 1,744 songs - 4 day 1 hr 26 min
 

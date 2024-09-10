@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Andreas Habibi, Panos Kiamos",
-  "num_followers": 31262,
+  "num_followers": 31263,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
+        "name": "Lekes",
+        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
+      },
+      "artists": [
+        {
+          "name": "Anna Vissi",
+          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
+        }
+      ],
+      "duration_ms": 255430,
+      "name": "Lekes",
+      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
+    },
+    {
+      "added_at": "2024-08-22 21:00:00",
+      "album": {
         "name": "Alitheia",
         "url": "https://open.spotify.com/album/6zdvmUtelQ0yvWOu4sYoF2"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 172363,
       "name": "Alitheia",
       "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
-    },
-    {
-      "added_at": "2024-08-22 21:00:00",
-      "album": {
-        "name": "Lekes",
-        "url": "https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF"
-      },
-      "artists": [
-        {
-          "name": "Anna Vissi",
-          "url": "https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl"
-        }
-      ],
-      "duration_ms": 255430,
-      "name": "Lekes",
-      "url": "https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -535,22 +535,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Eimai Gunaika",
-        "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
+        "name": "Xilia Spirta",
+        "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
       },
       "artists": [
         {
-          "name": "Despina Vandi",
-          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
-        },
-        {
-          "name": "Teo Tzimas",
-          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
+          "name": "Antonis Remos",
+          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
         }
       ],
-      "duration_ms": 162777,
-      "name": "Eimai Gunaika",
-      "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
+      "duration_ms": 222537,
+      "name": "Xilia Spirta",
+      "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -571,18 +567,22 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Xilia Spirta",
-        "url": "https://open.spotify.com/album/6TdaBD325HwRRt5ULUJ4uC"
+        "name": "Eimai Gunaika",
+        "url": "https://open.spotify.com/album/6GrpUFuJGnoA2T9SQhENUu"
       },
       "artists": [
         {
-          "name": "Antonis Remos",
-          "url": "https://open.spotify.com/artist/6s26Q38Zqc4hY3xe7jrEBG"
+          "name": "Despina Vandi",
+          "url": "https://open.spotify.com/artist/4aJpTCLUTPTeXfn3c9r9F0"
+        },
+        {
+          "name": "Teo Tzimas",
+          "url": "https://open.spotify.com/artist/7CkEq9a4CwfkweA1tRgxgh"
         }
       ],
-      "duration_ms": 222537,
-      "name": "Xilia Spirta",
-      "url": "https://open.spotify.com/track/2oROjBec2WOa4vMIUfFgj6"
+      "duration_ms": 162777,
+      "name": "Eimai Gunaika",
+      "url": "https://open.spotify.com/track/0UUvTGK23QN4qBvypAziwQ"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -639,26 +639,18 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Ti Sou Kanei",
-        "url": "https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG"
+        "name": "Se Afisa Sto Htes - Eisai Treli",
+        "url": "https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ"
       },
       "artists": [
         {
-          "name": "Ivi Adamou",
-          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
-        },
-        {
-          "name": "Trannos",
-          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+          "name": "Nikos Vertis",
+          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
         }
       ],
-      "duration_ms": 199551,
-      "name": "Ti Sou Kanei",
-      "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
+      "duration_ms": 214218,
+      "name": "Se Afisa Sto Htes - Eisai Treli",
+      "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
     },
     {
       "added_at": "2024-08-22 21:00:00",
@@ -679,18 +671,26 @@
     {
       "added_at": "2024-08-22 21:00:00",
       "album": {
-        "name": "Se Afisa Sto Htes - Eisai Treli",
-        "url": "https://open.spotify.com/album/3ZlbDMYJQfj81FkgkgrzGZ"
+        "name": "Ti Sou Kanei",
+        "url": "https://open.spotify.com/album/3wqRO1i3W5Ai8Bb0SuYlcG"
       },
       "artists": [
         {
-          "name": "Nikos Vertis",
-          "url": "https://open.spotify.com/artist/6BOprAXvUTWZjImX2dFdEa"
+          "name": "Ivi Adamou",
+          "url": "https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw"
+        },
+        {
+          "name": "Trannos",
+          "url": "https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
         }
       ],
-      "duration_ms": 214218,
-      "name": "Se Afisa Sto Htes - Eisai Treli",
-      "url": "https://open.spotify.com/track/1XXJbbHeE70PtIiveJqUrV"
+      "duration_ms": 199551,
+      "name": "Ti Sou Kanei",
+      "url": "https://open.spotify.com/track/42xbZQ6iZlDtHjPfjdiINi"
     },
     {
       "added_at": "2024-08-22 21:00:00",

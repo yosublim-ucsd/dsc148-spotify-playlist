@@ -1,12 +1,12 @@
 {
   "description": "This is Elliott Smith. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 77314,
+  "num_followers": 77342,
   "original_name": "This Is Elliott Smith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAABj1KGOVRfzBayP3ZkJTFFG",
+  "snapshot_id": "ZtzpAAAAAAAdfXS3q2I0OiMO5g6Kql7M",
   "tracks": [
     {
       "added_at": null,
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 190573,
-      "name": "Coming Up Roses",
-      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
+      "duration_ms": 144800,
+      "name": "The White Lady Loves You More",
+      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
     },
     {
       "added_at": null,
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
         }
       ],
-      "duration_ms": 144800,
-      "name": "The White Lady Loves You More",
-      "url": "https://open.spotify.com/track/6qZOS137Ow5ehV9h3jvBsu"
+      "duration_ms": 190573,
+      "name": "Coming Up Roses",
+      "url": "https://open.spotify.com/track/4plICMPtZHZt9TRlvvoupx"
     },
     {
       "added_at": null,

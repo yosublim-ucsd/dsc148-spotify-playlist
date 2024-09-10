@@ -939,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Can't Afford Therapy",
+        "url": "https://open.spotify.com/album/0ZSD6U53FhsMV2N7tUyITc"
+      },
+      "artists": [
+        {
+          "name": "WILSN",
+          "url": "https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249656,
+      "name": "Can't Afford Therapy",
+      "url": "https://open.spotify.com/track/6urArILLJCAMySnR4RA92s"
+    },
+    {
+      "album": {
         "name": "Rapture",
         "url": "https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u"
       },
@@ -1966,7 +1984,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 254550,
       "name": "Futurity",
       "url": "https://open.spotify.com/track/5JTjqiwTbED3kRWmDc1f16"
@@ -1984,7 +2002,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 274693,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/5QuBsgbjQHpwfiV7aIwvQV"
@@ -2616,7 +2634,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "I'll Come Running Back (Mr Scruff Edit)",
       "url": "https://open.spotify.com/track/3ZfXSNjdRAegkuiz5JCNGj"
@@ -3378,7 +3396,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 221386,
       "name": "Love Buddies",
       "url": "https://open.spotify.com/track/5ILMeTJNgTldGWbbI0YQ4L"
@@ -3692,7 +3710,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 193573,
       "name": "Mercy Mercy Me (The Ecology)",
       "url": "https://open.spotify.com/track/3IDc87lrpEHWFBASmgTgFV"
@@ -4324,7 +4342,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 290840,
       "name": "On My Own",
       "url": "https://open.spotify.com/track/5HrVgmO1govSOrPUehW1VV"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 302653,
       "name": "One Day I'll Fly Away",
       "url": "https://open.spotify.com/track/0J8A1ZVyJcRZxFNvtp6jRh"
@@ -5345,6 +5363,28 @@
     },
     {
       "album": {
+        "name": "Tell Him",
+        "url": "https://open.spotify.com/album/1QuizmDDKmJctBcHL931aG"
+      },
+      "artists": [
+        {
+          "name": "Moonchild",
+          "url": "https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t"
+        },
+        {
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
+        }
+      ],
+      "date_added": "2024-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234386,
+      "name": "Tell Him",
+      "url": "https://open.spotify.com/track/3pSL8LoyWexY7vgq84baOA"
+    },
+    {
+      "album": {
         "name": "Tell Me Something",
         "url": "https://open.spotify.com/album/1JsGpmtHXXzpX12TVUQVC9"
       },
@@ -5642,7 +5682,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199480,
       "name": "Top of My Love",
       "url": "https://open.spotify.com/track/06OLc5fiVflTp05NSsXPDw"

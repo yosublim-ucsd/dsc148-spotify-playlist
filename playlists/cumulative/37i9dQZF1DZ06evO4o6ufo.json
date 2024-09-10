@@ -711,6 +711,28 @@
     },
     {
       "album": {
+        "name": "Los Demonios (En Vivo)",
+        "url": "https://open.spotify.com/album/7qzPlne2yGnopoGcf6OnId"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres Del Barranco",
+          "url": "https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242227,
+      "name": "Los Demonios (En Vivo)",
+      "url": "https://open.spotify.com/track/1UTl1hclRcbFrQxQbq4Ocy"
+    },
+    {
+      "album": {
         "name": "Me Quiero Casar",
         "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
@@ -806,7 +828,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 496138,
       "name": "Popurr\u00ed: La Muerte de Manuelon / El \u00c1rbol",
       "url": "https://open.spotify.com/track/6RShqonMgBX0XRPtG7O2Am"

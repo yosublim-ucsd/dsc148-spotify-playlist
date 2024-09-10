@@ -4,7 +4,7 @@
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-489 songs - 1 day 1 hr 52 min
+490 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Anogo](https://open.spotify.com/track/4TS6GJz8xn4suZRv3yHUnf) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Anogo](https://open.spotify.com/album/09SRcm2Hxpmf2N9zRFouhT) | 3:10 | 2023-03-01 |  |
 | [Anti Social](https://open.spotify.com/track/0UilWRSaAPqnwdUc9HJfxG) | [Nektunez](https://open.spotify.com/artist/4n7aqhk0RIdeWKkBxvhN72), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Anti Social \(feat\. Jeremih & Young Jonn\)](https://open.spotify.com/album/25C8gnQsB3VNJgr5ldcNf5) | 2:36 | 2023-09-07 | 2024-07-23 |
 | [Anybody](https://open.spotify.com/track/6BtXtwOOy9CfpdlClUscJv) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Anybody](https://open.spotify.com/album/0iiyqZDjLMi7qb9UwnTrwT) | 3:09 | 2021-12-16 | 2022-01-11 |
+| [Anywhere](https://open.spotify.com/track/3qSeBxnHuBGBOi89SFb6Tf) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [ChopLife SoundSystem](https://open.spotify.com/artist/6s93Sx8tUcsqIWtCJJzQMw), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Anywhere](https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ) | 2:26 | 2024-09-09 |  |
 | [Apart](https://open.spotify.com/track/54ddFMbGCrLfS7nJOE0xbO) | [Ricky Blaze](https://open.spotify.com/artist/5WFPVKybSiU6x8HBTACfpr), [Alexus Rose](https://open.spotify.com/artist/3bwrDV53J1QI93OHu3pClk), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Apart](https://open.spotify.com/album/58kFj4Po9Ml6IsaptlHM9K) | 3:23 | 2021-12-16 | 2022-05-17 |
 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 | 2023-04-10 |  |
 | [Asiwaju](https://open.spotify.com/track/6z5y2kdxF4XrEVRFVqdGVL) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [RU The World](https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN) | 3:36 | 2024-03-27 |  |
@@ -213,7 +214,7 @@
 | [Iskaba](https://open.spotify.com/track/1qNz5rynw3I9LU8uQRETsO) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Iskaba](https://open.spotify.com/album/246hi2vlh34PVxpM288Ekc) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [It's Plenty](https://open.spotify.com/track/5hVjoL3sHepZROri63wBxP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:36 | 2022-09-13 | 2023-03-22 |
 | [Jam \(feat\. Wizkid\)](https://open.spotify.com/track/6eHqU8ntHGzddACoxlfDX0) | [StarBoy](https://open.spotify.com/artist/6w2IGYYbcQENdjdjU2IFo4), [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [SoundMan Vol\. 1](https://open.spotify.com/album/5nhLODdncnkg3rVlzva3YY) | 3:18 | 2021-12-16 |  |
-| [Jealousy](https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jealousy](https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG) | 2:45 | 2023-12-01 |  |
+| [Jealousy](https://open.spotify.com/track/5aRxIGkVO0t7oWiwmxQ5WE) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Jealousy](https://open.spotify.com/album/4CbnSfZ10XhzFFG5Lzx0jG) | 2:45 | 2023-12-01 | 2024-09-10 |
 | [Jiggle](https://open.spotify.com/track/0F245o4yDaGy2leKy2l2Ae) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL), [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6), [Meeka](https://open.spotify.com/artist/3x1abDAAJYxgkeV9MRLlbn) | [Jiggle](https://open.spotify.com/album/51rfhvpTi6fhMYpkq3ci4o) | 2:12 | 2022-04-21 | 2023-04-07 |
 | [Joha](https://open.spotify.com/track/5UwxpuGHkwiojKDaPC5ZNu) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Mr\. Money With The Vibe](https://open.spotify.com/album/0lzPMIAYhhUSD2BPT0VQWI) | 2:28 | 2022-09-29 | 2023-02-10 |
 | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/track/4sOLtnLeIFwO4YUUSV5DM5) | [Maz](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [Layefa](https://open.spotify.com/artist/7MkQpNkd549FwPBbgkGyE8) | [Jolie Fille \(feat\. Layefa\)](https://open.spotify.com/album/2B7azjSRe8rJHfCBTJGzlV) | 3:14 | 2024-07-25 |  |

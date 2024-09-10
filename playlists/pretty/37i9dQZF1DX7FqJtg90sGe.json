@@ -1,12 +1,12 @@
 {
   "description": "Yo x Ti, Tu x Mi",
-  "num_followers": 76621,
+  "num_followers": 76654,
   "original_name": "Libra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZoywzgAAAADUtvE3E3vlcEERJ/FszZsx",
+  "snapshot_id": "Zt9BtgAAAACIHY3TJV2WJ2DgPCy1Zi+J",
   "tracks": [
     {
       "added_at": "2020-06-15 23:32:26",
@@ -153,20 +153,20 @@
       "url": "https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k"
     },
     {
-      "added_at": "2020-06-15 23:32:26",
+      "added_at": "2024-09-09 18:43:02",
       "album": {
-        "name": "Reyli En La Luna",
-        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+        "name": "Tu Mente En Papel",
+        "url": "https://open.spotify.com/album/0saxEp6OPNcQQv403JO4oi"
       },
       "artists": [
         {
-          "name": "Reyli Barba",
-          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
         }
       ],
-      "duration_ms": 242026,
-      "name": "Amor del Bueno",
-      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
+      "duration_ms": 231574,
+      "name": "Tu Mente En Papel",
+      "url": "https://open.spotify.com/track/6E3f1qJzNUcs4lN8Xna17Y"
     },
     {
       "added_at": "2020-06-15 23:32:26",
@@ -183,6 +183,22 @@
       "duration_ms": 199320,
       "name": "Adi\u00f3s Amor",
       "url": "https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y"
+    },
+    {
+      "added_at": "2020-06-15 23:32:26",
+      "album": {
+        "name": "Reyli En La Luna",
+        "url": "https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY"
+      },
+      "artists": [
+        {
+          "name": "Reyli Barba",
+          "url": "https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ"
+        }
+      ],
+      "duration_ms": 242026,
+      "name": "Amor del Bueno",
+      "url": "https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z"
     },
     {
       "added_at": "2020-06-15 23:32:26",
@@ -487,22 +503,6 @@
       "duration_ms": 250357,
       "name": "Personalmente",
       "url": "https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD"
-    },
-    {
-      "added_at": "2020-06-15 23:32:26",
-      "album": {
-        "name": "Yoshimi Battles the Pink Robots",
-        "url": "https://open.spotify.com/album/49LA20VMk65fQyEaIzYdvf"
-      },
-      "artists": [
-        {
-          "name": "The Flaming Lips",
-          "url": "https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB"
-        }
-      ],
-      "duration_ms": 213173,
-      "name": "Do You Realize??",
-      "url": "https://open.spotify.com/track/2DFRFqWNahKtFD112H2iEZ"
     }
   ],
   "unique_name": "Libra",

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Marshall",
-  "num_followers": 12769,
+  "num_followers": 12786,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtWnAQAAAACQyqK845BpoJFV1iqQZyMB",
+  "snapshot_id": "Zt6MtgAAAAD6xgaXKeBS+/sWTOvqHHZz",
   "tracks": [
     {
       "added_at": "2024-08-23 05:09:28",
@@ -23,26 +23,6 @@
       "duration_ms": 192676,
       "name": "Chechi",
       "url": "https://open.spotify.com/track/63mE4ZFWfb2mSJ4yWjMbIj"
-    },
-    {
-      "added_at": "2024-08-28 07:37:29",
-      "album": {
-        "name": "Podu Mike",
-        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
-      },
-      "artists": [
-        {
-          "name": "Killa K",
-          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
-        },
-        {
-          "name": "Yung Raja",
-          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Podu Mike",
-      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -93,6 +73,30 @@
       "url": "https://open.spotify.com/track/22nFjlgd1pbsUvIWo5pDQV"
     },
     {
+      "added_at": "2024-09-09 05:49:12",
+      "album": {
+        "name": "Vanna Nilavondru",
+        "url": "https://open.spotify.com/album/0KrqRoihopoLpDLWVSANBW"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Akshay Iyer",
+          "url": "https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "Vanna Nilavondru",
+      "url": "https://open.spotify.com/track/0I6dnjBM6mVGQ32zD2HD0S"
+    },
+    {
       "added_at": "2024-08-30 06:29:43",
       "album": {
         "name": "AM I LOSER",
@@ -115,6 +119,26 @@
       "duration_ms": 172500,
       "name": "AM I LOSER",
       "url": "https://open.spotify.com/track/59x5gdFfYDoYEPB3XCrgSJ"
+    },
+    {
+      "added_at": "2024-08-28 07:37:29",
+      "album": {
+        "name": "Podu Mike",
+        "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
+      },
+      "artists": [
+        {
+          "name": "Killa K",
+          "url": "https://open.spotify.com/artist/5azgDfqhzt3EezfJ36gDIf"
+        },
+        {
+          "name": "Yung Raja",
+          "url": "https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Podu Mike",
+      "url": "https://open.spotify.com/track/0wOiE642qD6UotxDqyKL8F"
     },
     {
       "added_at": "2024-08-26 23:46:43",
@@ -219,30 +243,6 @@
       "duration_ms": 287997,
       "name": "En kannadi",
       "url": "https://open.spotify.com/track/4GMGeCR4xu5gHs2DUIKO6p"
-    },
-    {
-      "added_at": "2024-04-01 05:43:45",
-      "album": {
-        "name": "THANIMAI",
-        "url": "https://open.spotify.com/album/5jv354Q4cSzzchqaf6w7e0"
-      },
-      "artists": [
-        {
-          "name": "KS Rajasundar",
-          "url": "https://open.spotify.com/artist/5Y8gKVEYQ3iybKGEfdXQnY"
-        },
-        {
-          "name": "KRN",
-          "url": "https://open.spotify.com/artist/4Cx0jVrb0BdGvKblfoilWq"
-        },
-        {
-          "name": "Srini Sena",
-          "url": "https://open.spotify.com/artist/0TtY3LMlpioYr0wXbJv5gc"
-        }
-      ],
-      "duration_ms": 223919,
-      "name": "THANIMAI",
-      "url": "https://open.spotify.com/track/2cbQSnKC35zh2WwIXsPZeS"
     },
     {
       "added_at": "2024-08-30 06:29:43",
@@ -763,22 +763,6 @@
       "duration_ms": 235200,
       "name": "Vaasam Pesum",
       "url": "https://open.spotify.com/track/41jUGjPRgG4ORDXOej6wJQ"
-    },
-    {
-      "added_at": "2024-03-08 06:09:46",
-      "album": {
-        "name": "Tha Pop (Deaffrogs Records)",
-        "url": "https://open.spotify.com/album/3ycrzrsKtsXmmkS91fUTND"
-      },
-      "artists": [
-        {
-          "name": "TNC",
-          "url": "https://open.spotify.com/artist/5q79L7eL1FmDlIMsBF2u12"
-        }
-      ],
-      "duration_ms": 202250,
-      "name": "Tha Pop - Deaffrogs Records",
-      "url": "https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8"
     },
     {
       "added_at": "2024-06-04 12:00:24",
@@ -1319,30 +1303,6 @@
       "duration_ms": 213409,
       "name": "Adiye",
       "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
-    },
-    {
-      "added_at": "2024-04-24 04:52:18",
-      "album": {
-        "name": "Malare",
-        "url": "https://open.spotify.com/album/3jT3LOUaPkSzj3s3h5p7nF"
-      },
-      "artists": [
-        {
-          "name": "Ramesh Ramamoorthy",
-          "url": "https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz"
-        },
-        {
-          "name": "Sikkil Gurucharan",
-          "url": "https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt"
-        },
-        {
-          "name": "Sanjeev Venkataramanan",
-          "url": "https://open.spotify.com/artist/4oXQTJFc30wSqRRJD1A3zV"
-        }
-      ],
-      "duration_ms": 140306,
-      "name": "Malare",
-      "url": "https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW"
     },
     {
       "added_at": "2024-03-08 06:09:46",

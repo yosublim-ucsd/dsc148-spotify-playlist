@@ -4689,6 +4689,36 @@
     },
     {
       "album": {
+        "name": "Cheese Burger (Feat. Deepflow, Minos, DJ \uc190)",
+        "url": "https://open.spotify.com/album/7z1kf4UH0jf08iYYCf1qQt"
+      },
+      "artists": [
+        {
+          "name": "NOAH1LUV",
+          "url": "https://open.spotify.com/artist/2tLQLO1aqUX2c45auUfxGo"
+        },
+        {
+          "name": "DEEPFLOW",
+          "url": "https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z"
+        },
+        {
+          "name": "MINOS",
+          "url": "https://open.spotify.com/artist/5TFyn81eoBFYh9sjhg4gfL"
+        },
+        {
+          "name": "DJ \uc190",
+          "url": "https://open.spotify.com/artist/6wxcGpoRvzuS8i3rS7R9H2"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228666,
+      "name": "Cheese Burger (Feat. Deepflow, Minos, DJ \uc190)",
+      "url": "https://open.spotify.com/track/1XOm3FldDqLy2rUAM1Hn5T"
+    },
+    {
+      "album": {
         "name": "Cherish",
         "url": "https://open.spotify.com/album/1N6TrmRxjorAX5XPqcvhR0"
       },

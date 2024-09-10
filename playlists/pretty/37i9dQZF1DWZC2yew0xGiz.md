@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZC2yew0xGiz.md) - [plain]
 
 > Songs from an iconic era of Black film and TV soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,080,802 likes - 55 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,080,852 likes - 55 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

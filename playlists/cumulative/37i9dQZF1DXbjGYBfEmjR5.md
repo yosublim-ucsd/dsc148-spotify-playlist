@@ -404,7 +404,7 @@
 | [So Sunny](https://open.spotify.com/track/16agwz0BRxMWoQIUHoZOcc) | [SUPERCAT64 ビンクス猫](https://open.spotify.com/artist/5dPQ7iBuveTqtdEM8wUQSQ) | [The Poolside EP](https://open.spotify.com/album/3J9HEss1HH6TdCY4jrf5IC) | 2:48 | 2023-07-18 |  |
 | [Sold Out](https://open.spotify.com/track/6mltbH5UE4wXSJOabNRFcq) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sold Out](https://open.spotify.com/album/1GWLUXZ0LoKqm3HbUvcSp8) | 4:05 | 2022-07-15 | 2022-08-25 |
 | [Something About You](https://open.spotify.com/track/4b83hkEnciD20byP3zcKYw) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Heat.wav](https://open.spotify.com/album/7jUDLIdMGhM0Z7Lf90ssgc) | 4:00 | 2022-04-12 | 2022-04-20 |
-| [Sometime's He's Pretty](https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ICE CREAM](https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF) | 2:41 | 2022-06-08 |  |
+| [Sometime's He's Pretty](https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ICE CREAM](https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF) | 2:41 | 2022-06-08 | 2024-09-10 |
 | [Sonic Boom](https://open.spotify.com/track/5HooTABpv8hlCKCzJ74LTo) | [ED.](https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM), [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Sonic Boom](https://open.spotify.com/album/0iWcaH2ElYZfTJTELwwYrL) | 3:39 | 2021-12-08 | 2022-07-26 |
 | [Soul](https://open.spotify.com/track/7LoZEGOrU0h8nY6YK4fywE) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [Soul](https://open.spotify.com/album/6DmxMwMs19UtWdxXwCnYr5) | 3:00 | 2021-12-08 | 2022-07-29 |
 | [SOULLL](https://open.spotify.com/track/3kEfPE27bw75A4IXlr7szx) | [Hatena](https://open.spotify.com/artist/6kqOKkVvkLj65MCut6Gyvi) | [EMAIL](https://open.spotify.com/album/6WDrx0SJVfuDoJrLwG9Hye) | 2:56 | 2021-12-08 | 2022-10-20 |
@@ -524,6 +524,6 @@
 | [バイ少女時代](https://open.spotify.com/track/3XfKumvamwW49nvWeOAYex) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Brayan Rojitas](https://open.spotify.com/artist/5sslm1HcMsBXOetapPkm7S) | [バイ少女時代](https://open.spotify.com/album/5ztplMUYXwzrs5hUEIu7Mn) | 4:19 | 2021-12-08 | 2022-07-16 |
 | [君Kimi \(You Came Along\)](https://open.spotify.com/track/4Kn3DV0YzPkzCNcjUlFRfa) | [Adrianwave](https://open.spotify.com/artist/062uQ72ll9bM17kdNwzFaw) | [TIMERIDER 1983](https://open.spotify.com/album/7MxdhXIE5rFdlrk6JaYzVK) | 4:20 | 2021-12-08 |  |
 | [泣かないで](https://open.spotify.com/track/156AIu6rmcyLpyWQ3slAZz) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [泣かないで](https://open.spotify.com/album/7xlbg2ythTaalHcpJbRIDp) | 3:12 | 2022-03-11 | 2022-04-21 |
-| [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 | 2021-12-08 | 2024-08-25 |
+| [違う](https://open.spotify.com/track/1JAHrP2bdKCn2zhoTNJOAG) | [Flammy](https://open.spotify.com/artist/4WP7QI3CaGCk42LIuYjbrz) | [違う](https://open.spotify.com/album/6dfCQbQriz8Hm965Od0u7S) | 2:33 | 2021-12-08 |  |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

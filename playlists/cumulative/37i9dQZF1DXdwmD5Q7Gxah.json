@@ -6323,6 +6323,24 @@
     },
     {
       "album": {
+        "name": "Book Of Love",
+        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
+      },
+      "artists": [
+        {
+          "name": "Book Of Love",
+          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179773,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
+    },
+    {
+      "album": {
         "name": "Boy Friday",
         "url": "https://open.spotify.com/album/1DDXb9xrdDFeLmZgCizypO"
       },

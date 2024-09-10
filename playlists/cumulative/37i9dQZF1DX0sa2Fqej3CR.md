@@ -4,7 +4,7 @@
 
 > 가장 소중한 내 편 \- 가족들을 생각하며 곡을 감상해보세요.
 
-324 songs - 18 hr 52 min
+326 songs - 19 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [Fast Forward](https://open.spotify.com/track/7jzOZuWgZ5gaMet9V5Ix1d) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [GAME PLAN](https://open.spotify.com/album/7xMXoWstClAzBIo5lOAASu) | 2:40 | 2023-08-16 | 2024-06-14 |
 | [Father](https://open.spotify.com/track/365znJ27Fb3faGsctmQYWR) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [IM HERO](https://open.spotify.com/album/5ITErfEiF1nEo8KTRgLv43) | 3:58 | 2024-08-29 |  |
 | [Father](https://open.spotify.com/track/4t7UcOfoXWpP6YhXkyGuuR) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh) | [No\. 18](https://open.spotify.com/album/7lLH8k87GF7OCXPytH8fNy) | 3:29 | 2024-08-29 |  |
+| [Father \(Feat\. Ra.D\)](https://open.spotify.com/track/4M9GqvIXtqPADntPncPTfv) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:17 | 2024-09-09 |  |
 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 | 2022-05-11 | 2023-09-07 |
 | [Feel My Rhythm](https://open.spotify.com/track/2oBMZYteeO8DyXV9gDx6Za) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Feel My Rhythm’](https://open.spotify.com/album/3HgoCO9wWuPcNhz8Ip4C46) | 3:30 | 2022-05-11 | 2023-02-01 |
 | [Fighting \(Feat\. Lee Young Ji\)](https://open.spotify.com/track/7eBpUuPnDTfbeP1P4P93CS) | [BSS](https://open.spotify.com/artist/1uAT5bTSp6dWbNmixIUP5t), [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq) | [BSS 1st Single Album 'SECOND WIND'](https://open.spotify.com/album/4dHtpne5cAAGgDYFNHu7jW) | 3:24 | 2023-02-15 | 2024-06-14 |
@@ -184,6 +185,7 @@
 | [MORE](https://open.spotify.com/track/4XKXphKH76W4zNpkgFS5o2) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy) | [MORE](https://open.spotify.com/album/5Sk4Inca1WZhP7VLuD7DOi) | 3:00 | 2022-07-04 | 2022-09-20 |
 | [Mother](https://open.spotify.com/track/3QfiySfGzrB9GzO9PiXkti) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ) | 3:53 | 2024-08-29 |  |
 | [Mother](https://open.spotify.com/track/0md3x2yZXAkXeK3Pw7Sgfh) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [Mother](https://open.spotify.com/album/43g68A9Q4Xltflzp3XwfLQ) | 2:56 | 2024-08-29 |  |
+| [Mother's Soulfood \(Feat\. Ra.D\)](https://open.spotify.com/track/1UVA0j0lkxiq8bqnVsYQZ1) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Ra.D](https://open.spotify.com/artist/6zPbaYJp7itQ8p0gPLqf2S) | [Last Days](https://open.spotify.com/album/68lIkpI3rmCFbjR0FKytTp) | 4:09 | 2024-09-09 |  |
 | [MR\. BAD \(Feat\. Woo\)](https://open.spotify.com/track/5KkAIk1aWPPIWIkSGnEmJg) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [MR\. BAD](https://open.spotify.com/album/71KOTVJkEhbXVLNdZGKe9a) | 3:05 | 2022-08-12 | 2022-12-20 |
 | [My Childhood Story](https://open.spotify.com/track/2RfKK8yPAQGOQjIVBW1h9o) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Stay As You Are](https://open.spotify.com/album/6DKfXf0BVP9R5BcOuD1mfo) | 4:44 | 2024-08-29 |  |
 | [My Heroes](https://open.spotify.com/track/76BNJil2zrNPs1O6NAKAAC) | [TAKUWA](https://open.spotify.com/artist/46gc3yx3R3HyZtpwV9s82V) | [My Heroes](https://open.spotify.com/album/1JPSVgdFZV9iFds7x0MDth) | 2:33 | 2024-08-29 |  |

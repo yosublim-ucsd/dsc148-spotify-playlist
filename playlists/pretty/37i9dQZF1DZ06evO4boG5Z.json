@@ -1,12 +1,12 @@
 {
   "description": "This is Millencolin. The essential tracks, all in one playlist.",
-  "num_followers": 28041,
+  "num_followers": 28045,
   "original_name": "This Is Millencolin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAADA6sR0nR2M3s81WVAKY2n+",
+  "snapshot_id": "ZtzpAAAAAACtWoEkKkLWwwxmPHAjxA99",
   "tracks": [
     {
       "added_at": null,
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 141706,
-      "name": "Leona",
-      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
+      "duration_ms": 121373,
+      "name": "Dance Craze",
+      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
     },
     {
       "added_at": null,
@@ -468,9 +468,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 121373,
-      "name": "Dance Craze",
-      "url": "https://open.spotify.com/track/2lgg5VzE1GUtmgxLz8r6u2"
+      "duration_ms": 141706,
+      "name": "Leona",
+      "url": "https://open.spotify.com/track/1meXK8bC29YKP011kHQml1"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Brew",
-        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
-      },
-      "artists": [
-        {
-          "name": "Millencolin",
-          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
-        }
-      ],
-      "duration_ms": 79533,
-      "name": "Silent Suicide",
-      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Home From Home",
         "url": "https://open.spotify.com/album/5qZ4njkalSapPWr89gnwSn"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Brew",
+        "url": "https://open.spotify.com/album/2PmQebTlWcuRxWnbiXxtno"
+      },
+      "artists": [
+        {
+          "name": "Millencolin",
+          "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
+        }
+      ],
+      "duration_ms": 79533,
+      "name": "Silent Suicide",
+      "url": "https://open.spotify.com/track/01e8hJ0WCiqM3m0y1F7Iqo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711"
       },
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 168808,
-      "name": "Yanny & Laurel",
-      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
+      "duration_ms": 181113,
+      "name": "Reach You",
+      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
     },
     {
       "added_at": null,
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX"
         }
       ],
-      "duration_ms": 181113,
-      "name": "Reach You",
-      "url": "https://open.spotify.com/track/22zTKGC2eewB8ziExjvE1C"
+      "duration_ms": 168808,
+      "name": "Yanny & Laurel",
+      "url": "https://open.spotify.com/track/6tvwrMTcpa6m6vOyvGLbTp"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
-  "num_followers": 27305,
+  "num_followers": 27312,
   "original_name": "This Is \u6c34\u6a39\u5948\u3005",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAABCllk1fQ/hWTOeBSyd4IEC",
+  "snapshot_id": "ZtzpAAAAAADqfh6Xx1yebsA/uCbP+HA7",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "SMASHING ANTHEMS",
-        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 316280,
-      "name": "Glorious Break",
-      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
+      "duration_ms": 221153,
+      "name": "ADRENALIZED",
+      "url": "https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ADRENALIZED",
-        "url": "https://open.spotify.com/album/3lyJjoXNBDHyk130hvSarp"
+        "name": "SMASHING ANTHEMS",
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 221153,
-      "name": "ADRENALIZED",
-      "url": "https://open.spotify.com/track/5mLefApR6VCHdhCNSXDBog"
+      "duration_ms": 316280,
+      "name": "Glorious Break",
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get up! Shout!",
-        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 257622,
-      "name": "Phase 21",
-      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 222560,
       "name": "PHANTOM MINDS",
       "url": "https://open.spotify.com/track/79gsfSEJXThxkYEKkEzfMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get up! Shout!",
+        "url": "https://open.spotify.com/album/19hS9MR9UT1HYEfjin62Kn"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 257622,
+      "name": "Phase 21",
+      "url": "https://open.spotify.com/track/791jqNUM4S72XV13eK4dXO"
     },
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sugar Doughnuts",
-        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
+        "name": "IMPACT EXCITER",
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 206567,
-      "name": "Sugar Doughnuts",
-      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
+      "duration_ms": 270866,
+      "name": "\u56da\u308f\u308c\u306eBabel",
+      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "IMPACT EXCITER",
-        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA"
+        "name": "Sugar Doughnuts",
+        "url": "https://open.spotify.com/album/1sNavFjkIPQAuHhIUTSm9O"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 270866,
-      "name": "\u56da\u308f\u308c\u306eBabel",
-      "url": "https://open.spotify.com/track/1low37x2FWfAv57ISuPKGO"
+      "duration_ms": 206567,
+      "name": "Sugar Doughnuts",
+      "url": "https://open.spotify.com/track/5Cv67fj74PhUgO26qRvBO5"
     },
     {
       "added_at": null,
@@ -675,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STARTING NOW!",
-        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+        "name": "WONDER QUEST EP",
+        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 306985,
-      "name": "\u604b\u60f3\u82b1\u706b",
-      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+      "duration_ms": 232333,
+      "name": "Hungry Hungry",
+      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
       "duration_ms": 295880,
       "name": "chronicle of sky",
       "url": "https://open.spotify.com/track/6xZfddSTo4XB1ybKbHPCJy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WONDER QUEST EP",
-        "url": "https://open.spotify.com/album/2zIv4qhpYHrk0zVGSAO2F3"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "Hungry Hungry",
-      "url": "https://open.spotify.com/track/790IujLc3cPD6Y85LnhjEr"
     },
     {
       "added_at": null,
@@ -755,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "STARTING NOW!",
+        "url": "https://open.spotify.com/album/1r4GnXzvpFSp4uQvPxhTBS"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 306985,
+      "name": "\u604b\u60f3\u82b1\u706b",
+      "url": "https://open.spotify.com/track/2icgoErLKapGsYsiVRZcYC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CANNONBALL RUNNING",
         "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8"
       },
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DELIGHTED REVIVER",
-        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
-      },
-      "artists": [
-        {
-          "name": "Nana Mizuki",
-          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
-        }
-      ],
-      "duration_ms": 212499,
-      "name": "\u5168\u529bDREAMER",
-      "url": "https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SECRET AMBITION",
         "url": "https://open.spotify.com/album/2M97BLXBpREKzRgChj527r"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 223266,
       "name": "Level Hi!",
       "url": "https://open.spotify.com/track/4TlPCcw4M9clVHqHSHYWP7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DELIGHTED REVIVER",
+        "url": "https://open.spotify.com/album/3lRVQZ0Gbzk6OqXFIhOkNO"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "duration_ms": 212499,
+      "name": "\u5168\u529bDREAMER",
+      "url": "https://open.spotify.com/track/1aIdOv8ouABjERE1nIrjKB"
     },
     {
       "added_at": null,

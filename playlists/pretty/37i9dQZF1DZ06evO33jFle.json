@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jenni Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 475855,
+  "description": "This is Jenni Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 475906,
   "original_name": "This Is Jenni Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAAABK3xgnRxW2C0niT2Sk0fG",
+  "snapshot_id": "ZtzpAAAAAAA3Sr/THGC9GLBFc2001EQP",
   "tracks": [
     {
       "added_at": null,
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Patr\u00f3n - La Victoria",
-        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
-      },
-      "artists": [
-        {
-          "name": "Tito \"El Bambino\"",
-          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
-        },
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "El Amor (feat. Jenni Rivera)",
-      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joyas Prestadas - Banda",
         "url": "https://open.spotify.com/album/2S1InqamaQuotpISCqos3W"
       },
@@ -751,6 +731,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Patr\u00f3n - La Victoria",
+        "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
+      },
+      "artists": [
+        {
+          "name": "Tito \"El Bambino\"",
+          "url": "https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "El Amor (feat. Jenni Rivera)",
+      "url": "https://open.spotify.com/track/22uCmfKNu7CQM8IFl1syI0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Simplemente la Mejor",
         "url": "https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu"
       },
@@ -783,6 +783,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joyas Prestadas - Pop",
+        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 309506,
+      "name": "Porque Me Gusta a Morir - Pop",
+      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Misi\u00f3n Cumplida",
         "url": "https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 210040,
       "name": "Pedacito de M\u00ed",
       "url": "https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joyas Prestadas - Pop",
-        "url": "https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 309506,
-      "name": "Porque Me Gusta a Morir - Pop",
-      "url": "https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy"
     },
     {
       "added_at": null,

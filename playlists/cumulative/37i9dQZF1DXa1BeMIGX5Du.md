@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-338 songs - 20 hr 54 min
+341 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Colours](https://open.spotify.com/track/1WeO1NDt17SfrRW1WhsRJ8) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Colours](https://open.spotify.com/album/36RQqB3irEHa5F3QbEgSfZ) | 3:59 | 2024-08-26 |  |
 | [Cowboys Cry](https://open.spotify.com/track/5gohUfSll3LUYTXfZcd7yP) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Me Again](https://open.spotify.com/album/6F8uiNvpfUdMTpPGPRCK6o) | 3:12 | 2024-05-16 |  |
 | [Crater on the Moon](https://open.spotify.com/track/4t6CSU0uY8Z6bi32Ml78Vg) | [Ok Moon](https://open.spotify.com/artist/2YT2DEtRTNmUZkR53QaU20) | [Crater on the Moon](https://open.spotify.com/album/5kpzNyJMTgqA6ygjJUx6xx) | 4:10 | 2022-03-25 | 2022-06-17 |
+| [Craters](https://open.spotify.com/track/5klX9QWBLDyUsvZeX3YcMC) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/1iHEMKyzqipuRw2BPuB2NH) | 3:15 | 2024-09-09 |  |
 | [Crimes of the Heart](https://open.spotify.com/track/0uchhk7il4rZl9qseuRS1F) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tigers Blood](https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6) | 3:04 | 2024-03-21 | 2024-06-19 |
 | [Cup Of Tea](https://open.spotify.com/track/5IWapfr63DOAJztiBxgV3p) | [Joel Leggett](https://open.spotify.com/artist/4cbhnqZt1UeqOirvsmzBMt) | [Cup Of Tea](https://open.spotify.com/album/7rb2Gp5cx10EZm4VdXH7uL) | 4:02 | 2024-03-21 |  |
 | [dark until september.](https://open.spotify.com/track/7n5LJO27QLW54MmCU8ok2e) | [will hyde](https://open.spotify.com/artist/3vNisYibo8wFyD4wxIbSbn) | [dark until september.](https://open.spotify.com/album/7B0QjSgkMYYWtfenh2Wz31) | 3:27 | 2022-03-25 | 2024-04-03 |
@@ -106,6 +107,7 @@
 | [Falling Down](https://open.spotify.com/track/68GFPHr5LtadnQ8wOtramJ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/4h7Qc4WQRLAuyuRxEEDFkg) | 3:45 | 2022-03-25 | 2022-07-29 |
 | [Falling Down](https://open.spotify.com/track/6kDgPwCzPe0r7xKuO0CccZ) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Falling Down](https://open.spotify.com/album/4Ikrs58fDcSWZfJFuEivNJ) | 3:45 | 2022-10-10 | 2022-11-13 |
 | [Falling in Love at a Coffee Shop](https://open.spotify.com/track/5MrgVJzR1du1gz8XWe4m28) | [Landon Pigg](https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS) | [Coffee Shop](https://open.spotify.com/album/3yaXu0H76jxRdBPVx1Zikk) | 4:30 | 2022-03-25 | 2024-05-17 |
+| [Far From Home](https://open.spotify.com/track/7qwCxms6SRuWvT6BMxkesm) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Far From Home](https://open.spotify.com/album/3S179cs84LzHAFo2nrMN2d) | 4:20 | 2024-09-09 |  |
 | [Far Too Good](https://open.spotify.com/track/1WUHeOPayLKPMG35uBJVUj) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2) | [Headlong](https://open.spotify.com/album/0wqLLyEsGv9Lf8ztk1NKNZ) | 3:39 | 2022-03-25 | 2024-02-17 |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-09-22 | 2024-02-17 |
 | [For All You Give](https://open.spotify.com/track/59GNu8e5TeFC8RsdkdXJsz) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [For All You Give](https://open.spotify.com/album/7CgedGQTmESdQxTg2FE3mR) | 3:11 | 2022-10-10 | 2022-11-13 |
@@ -133,7 +135,7 @@
 | [Good Fight](https://open.spotify.com/track/1VXbLiiSGBNmOPHYrkAiRw) | [Phoebe Go](https://open.spotify.com/artist/4WZlZAyyBNVwoG4Zrh1tfC) | [Marmalade](https://open.spotify.com/album/6xYR9GAWKVMhiR1iqhz2R8) | 3:43 | 2024-05-16 |  |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2024-02-16 |  |
 | [Grand Illusion](https://open.spotify.com/track/4ungm58VUft86geFgszTa6) | [Georgia Lines](https://open.spotify.com/artist/6mLG8h9CeWZ2QsuHIgka3c) | [The Rose Of Jericho](https://open.spotify.com/album/4j2eJNkZ3qiGdCW8wnO5Wu) | 4:26 | 2024-07-12 |  |
-| [Gummy Bamarra](https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Gummy Bamarra](https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B) | 4:43 | 2024-06-04 |  |
+| [Gummy Bamarra](https://open.spotify.com/track/3JvBNayk94KpTpHbS32jow) | [Jungaji](https://open.spotify.com/artist/22kfA8FEtj4hY3z5c0elVg) | [Gummy Bamarra](https://open.spotify.com/album/1YirWSzBWhbZTyb3CJfb4B) | 4:43 | 2024-06-04 | 2024-09-10 |
 | [Hands](https://open.spotify.com/track/7esb7bZv9LaaqYNcvGXcuq) | [Lilly Carron](https://open.spotify.com/artist/2cKfPWgeyf4nVe1VVRJ91K) | [Hands](https://open.spotify.com/album/6Y6vPRTT6n4uMIz3tC4vzp) | 2:51 | 2024-03-07 |  |
 | [Heaven](https://open.spotify.com/track/5T00EN4oZmDQx3hqVAC4Fx) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 3:44 | 2023-09-22 | 2024-05-24 |
 | [hold me, never let go](https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j) | [Rocco](https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq) | [Her Favorite Flowers](https://open.spotify.com/album/3ZtwVDikRanGqN17IGpWgh) | 3:13 | 2023-09-22 | 2024-04-19 |
@@ -245,7 +247,7 @@
 | [Shiva](https://open.spotify.com/track/42oPBjCm3xqOfevxJcjhdO) | [Julius Black](https://open.spotify.com/artist/7aZEcK7jSvrSoshGSgOYfj) | [Shiva](https://open.spotify.com/album/3Q8CPszxKBHYKSMNlv5wrf) | 3:02 | 2024-06-18 |  |
 | [Shiver](https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Shiver](https://open.spotify.com/album/5SfsIezjbXkthksXx3afyb) | 3:34 | 2024-07-12 | 2024-08-27 |
 | [Simply The Best](https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Simply The Best](https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7) | 2:53 | 2022-03-25 |  |
-| [Sing You Over](https://open.spotify.com/track/2Y8AaP02pXtMQv2lEYVU5q) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Til My Song Is Done](https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc) | 4:27 | 2024-04-18 |  |
+| [Sing You Over](https://open.spotify.com/track/2Y8AaP02pXtMQv2lEYVU5q) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Til My Song Is Done](https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc) | 4:27 | 2024-04-18 | 2024-09-10 |
 | [Siren](https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS) | [Andy Golledge](https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh) | [Young, Dumb & Wild](https://open.spotify.com/album/2EoVN0G04GgBVH1s1bXsPR) | 5:16 | 2024-04-18 |  |
 | [Slow Down](https://open.spotify.com/track/7g2trGGJHZA2nuoe4FECXI) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Slow Down/Brother Pt\. 2](https://open.spotify.com/album/6hKSCcjNNIPVJLdp0cNiVa) | 3:37 | 2024-03-07 | 2024-06-19 |
 | [Small Enough](https://open.spotify.com/track/6tdjd2bhX43k5svZfymkDR) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Small Enough](https://open.spotify.com/album/7lQGdUNm0dB2u5d1oD7Os9) | 3:32 | 2024-02-16 | 2024-05-17 |
@@ -262,6 +264,7 @@
 | [Soul Mate](https://open.spotify.com/track/4IOXp1xFiMh5FtSEGim4CO) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [our generation](https://open.spotify.com/album/5MEaV6TQEOzV4l3bhwySJx) | 3:57 | 2022-06-17 | 2024-04-05 |
 | [Southern Star](https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [Southern Star](https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24) | 5:05 | 2024-07-02 |  |
 | [Space Between](https://open.spotify.com/track/1yZmHipKOL0zDpkxzt8QHr) | [Jem Cassar\-Daley](https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j) | [Space Between](https://open.spotify.com/album/0cpqSAihqxZ22xf3WddL5M) | 3:00 | 2024-02-16 | 2024-07-02 |
+| [Spooky](https://open.spotify.com/track/6ocgYwn6Z0iw3OZkAPhJKO) | [soft star](https://open.spotify.com/artist/5EpWCM5quwzO5FPjkDxB8E) | [Spooky](https://open.spotify.com/album/6PDhjBmxVy7exXHUCwjnnS) | 3:55 | 2024-09-09 |  |
 | [State Lines](https://open.spotify.com/track/7CoMBpPTwQi2wPT0U0Nr9b) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Birthplace](https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p) | 3:28 | 2022-03-25 | 2024-04-19 |
 | [Stay](https://open.spotify.com/track/0Uon5NsSAkBDx69XYOaQ5P) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Stay](https://open.spotify.com/album/5wjbd3QuTtEVuNRlIY0o4Q) | 2:57 | 2022-03-25 | 2023-09-23 |
 | [Stay Awake](https://open.spotify.com/track/3Fcdwu4gMqd0eAlC9thpKo) | [Patrick James](https://open.spotify.com/artist/02rbtsxmzmlWKtEZ4DLZr8) | [Stay Awake](https://open.spotify.com/album/6Z8AubnDokmqjdzELuqg3t) | 1:59 | 2024-05-24 |  |
@@ -292,7 +295,7 @@
 | [The Place](https://open.spotify.com/track/7dSqkh6ga2uw7TlmSeeN9x) | [Jess Locke](https://open.spotify.com/artist/1Ck46b7PKDf9z3QwrWiUOf) | [The Place](https://open.spotify.com/album/1OJt8Hf9hpPIl9WC6X0rYy) | 3:51 | 2024-02-29 | 2024-05-17 |
 | [The Quiet Ways](https://open.spotify.com/track/104S55pJWLXdksSCy6ZHjW) | [Emily Barker](https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV) | [The Quiet Ways](https://open.spotify.com/album/6zaJ8cw3qgSGoBhcVX3iJm) | 3:19 | 2024-03-21 | 2024-04-19 |
 | [The Second Act](https://open.spotify.com/track/1TQt6A6Ox6HgD81k2CZZPJ) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/1ZcQMRWdtngrP9YuAayQcG) | 3:39 | 2024-04-04 | 2024-04-19 |
-| [The Second Act](https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs) | 3:39 | 2024-04-04 |  |
+| [The Second Act](https://open.spotify.com/track/5RcWnnP5TMszVvarhYaoqa) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [The Second Act](https://open.spotify.com/album/4hVQwE4HbQWok3dOz2CZVs) | 3:39 | 2024-04-04 | 2024-09-10 |
 | [The Sweet Sound of You](https://open.spotify.com/track/09uY5LeSXSPKKH4LxI7byG) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 4:57 | 2023-09-22 | 2024-04-19 |
 | [The Way](https://open.spotify.com/track/0kdBtdB2kw9088Wvmo5cbb) | [Sarah Blasko](https://open.spotify.com/artist/75jU2q0uEWzSIlqRJtedJV) | [The Way](https://open.spotify.com/album/1ThbqRQv0ltgxxI5Hsp7qm) | 3:41 | 2024-07-12 | 2024-08-27 |
 | [The Wedding Song](https://open.spotify.com/track/2mwY1C4oCxPFy2A3UQIcEu) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [The Wedding Song](https://open.spotify.com/album/1k0rqhjZ18zvF6dKMoVnjj) | 3:16 | 2024-02-16 | 2024-04-19 |

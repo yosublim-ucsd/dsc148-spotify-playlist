@@ -22891,6 +22891,28 @@
     },
     {
       "album": {
+        "name": "Po\u00e4ngplockarna",
+        "url": "https://open.spotify.com/album/3QoAhmzzFNCPRodFWTkaSQ"
+      },
+      "artists": [
+        {
+          "name": "Shacki",
+          "url": "https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131764,
+      "name": "Po\u00e4ngplockarna",
+      "url": "https://open.spotify.com/track/6e3OK7sF64zXh4H9mmreOc"
+    },
+    {
+      "album": {
         "name": "PRAPAPA",
         "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
       },

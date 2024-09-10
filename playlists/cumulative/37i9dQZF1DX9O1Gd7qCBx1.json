@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 244813,
       "name": "A Mi Me Mato\u0301 La Vida",
       "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
@@ -56,7 +56,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 131133,
       "name": "Angelitos negros",
       "url": "https://open.spotify.com/track/5hvKLjOgEc8SPTssFy45GJ"
@@ -82,7 +82,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-23",
+      "date_removed": null,
       "duration_ms": 240613,
       "name": "Antes Paso por la Gloria",
       "url": "https://open.spotify.com/track/6aEXuG2SnDuZLZiEJuW952"
@@ -194,10 +194,32 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 269133,
       "name": "Calaveras",
       "url": "https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D"
+    },
+    {
+      "album": {
+        "name": "La Marcha De La Vida (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4Ee1DMFFqEe8JO68XqNgz7"
+      },
+      "artists": [
+        {
+          "name": "Benny",
+          "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+        },
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269640,
+      "name": "Calaveras (with Lila Downs)",
+      "url": "https://open.spotify.com/track/3YpDNLFNIBJjoUFJHyGC65"
     },
     {
       "album": {
@@ -270,7 +292,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 260974,
       "name": "Calaveritas",
       "url": "https://open.spotify.com/track/1BmNqkmLmBqIU5ToPdbnnw"
@@ -306,7 +328,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 254480,
       "name": "Cempas\u00fachil",
       "url": "https://open.spotify.com/track/6i5K4Mxce8t9AT1RWxuiG5"
@@ -324,10 +346,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 240306,
       "name": "Cerquita de Dios",
       "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
+    },
+    {
+      "album": {
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+      },
+      "artists": [
+        {
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211866,
+      "name": "Cerro\u0301 Sus Ojitos Cleto",
+      "url": "https://open.spotify.com/track/0AZdulPK1zZU0kcEhf3HFF"
     },
     {
       "album": {
@@ -364,6 +404,24 @@
       "duration_ms": 370120,
       "name": "Colores",
       "url": "https://open.spotify.com/track/5dLoAn6kUOAlO6Aolf9rey"
+    },
+    {
+      "album": {
+        "name": "XEW La Voz de America Latina",
+        "url": "https://open.spotify.com/album/3AKsaYerOVLD95EDIHQwpJ"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183466,
+      "name": "Como te extra\u00f1o",
+      "url": "https://open.spotify.com/track/3I38Zs63YNsYX6NyTpoGQs"
     },
     {
       "album": {
@@ -440,7 +498,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/4yZf7RNatduXrgyQsOlyCB"
@@ -462,6 +520,32 @@
       "duration_ms": 166933,
       "name": "Cuatro Cirios",
       "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
+    },
+    {
+      "album": {
+        "name": "La flauta ind\u00edgena Mexicana, Grabaciones de campo",
+        "url": "https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV"
+      },
+      "artists": [
+        {
+          "name": "Fredi Rom\u00e1n Arias",
+          "url": "https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp"
+        },
+        {
+          "name": "Mart\u00edn Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN"
+        },
+        {
+          "name": "Maximino Esteban Maga\u00f1a",
+          "url": "https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133266,
+      "name": "Danza de la muerte - Chontal funeral music from Tucta, Tabasco",
+      "url": "https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W"
     },
     {
       "album": {
@@ -530,7 +614,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 238280,
       "name": "De\u0301cimas a La Muerte",
       "url": "https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5"
@@ -574,7 +658,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-24",
+      "date_removed": null,
       "duration_ms": 209706,
       "name": "Dimensi\u00f3n Astral",
       "url": "https://open.spotify.com/track/7FV7GdKvi1FFbP41PqI1y2"
@@ -628,7 +712,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 173560,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula",
       "url": "https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV"
@@ -646,7 +730,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 173549,
       "name": "Dr\u00e1cula, Cal\u00edgula, Tar\u00e1ntula - Co\u00e1gula Esp\u00e1tulo",
       "url": "https://open.spotify.com/track/5VgsXmsfGIBOqq0imAv4y1"
@@ -668,6 +752,24 @@
       "duration_ms": 212553,
       "name": "Dulce Muerte",
       "url": "https://open.spotify.com/track/2n2C5wLSiSERYrGURZLMNl"
+    },
+    {
+      "album": {
+        "name": "De Jolgorios y Velorios",
+        "url": "https://open.spotify.com/album/68iNCGhPq5hSPdfa6UMEHO"
+      },
+      "artists": [
+        {
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158346,
+      "name": "D\u00e9cimas a la Calaca",
+      "url": "https://open.spotify.com/track/66q3eL0U5UM3TK8rAwRoh1"
     },
     {
       "album": {
@@ -700,7 +802,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 237000,
       "name": "El corrido de Miguel Rivera - Inspirado en \"Coco\"",
       "url": "https://open.spotify.com/track/1WGdFps5A9Xi3bXNAIFUIp"
@@ -790,7 +892,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 262520,
       "name": "El Fantasma Enamorado",
       "url": "https://open.spotify.com/track/02VciW1DGSHEyxt61nMElb"
@@ -906,7 +1008,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-16",
+      "date_removed": null,
       "duration_ms": 268992,
       "name": "Espectro (En Vivo Desde Cuba)",
       "url": "https://open.spotify.com/track/46S0Ic3yTeYniFbB3Bh69Y"
@@ -960,10 +1062,28 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 245644,
       "name": "Gracias A La Vida - Remasterizado 1983",
       "url": "https://open.spotify.com/track/0lq5LDe4TgtZX3BQUwtYVD"
+    },
+    {
+      "album": {
+        "name": "XXXI Aniversario (Ranas) (Vol. 1)",
+        "url": "https://open.spotify.com/album/1pwbacPdUvkRAlibnLpGCD"
+      },
+      "artists": [
+        {
+          "name": "Victimas Del Doctor Cerebro",
+          "url": "https://open.spotify.com/artist/6Z112eJxKl1E3nAbYZBr7M"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241493,
+      "name": "Halloween",
+      "url": "https://open.spotify.com/track/7BREGQPY6ZABmdfqcNbgEZ"
     },
     {
       "album": {
@@ -996,7 +1116,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 236346,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5"
@@ -1022,6 +1142,28 @@
     {
       "album": {
         "name": "Veracruz Son y Huapango",
+        "url": "https://open.spotify.com/album/08d9NR28ycnO75PgxtbWIS"
+      },
+      "artists": [
+        {
+          "name": "Tlen Huicani",
+          "url": "https://open.spotify.com/artist/47dC2tIVeFjNtRXcCE53O8"
+        },
+        {
+          "name": "Lino Chavez",
+          "url": "https://open.spotify.com/artist/0mE18DYrJBKMJdDBSUc3Jn"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/3ppFwxtsBWHuqgodCKDnUp"
+    },
+    {
+      "album": {
+        "name": "Veracruz Son y Huapango",
         "url": "https://open.spotify.com/album/7nrQ2LRqb5N0fFtW4rrPJD"
       },
       "artists": [
@@ -1036,7 +1178,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 268000,
       "name": "La Bruja",
       "url": "https://open.spotify.com/track/4hM0H2SupXsTkcQnSchNz5"
@@ -1220,7 +1362,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-05",
+      "date_removed": null,
       "duration_ms": 217306,
       "name": "La huesuda",
       "url": "https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM"
@@ -1238,10 +1380,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 511333,
       "name": "La llorona",
       "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
+    },
+    {
+      "album": {
+        "name": "La Llorona",
+        "url": "https://open.spotify.com/album/1UdavcEuofRFCq2Mq2278f"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/45rQqSqb95p5lkZy13Tl1u"
     },
     {
       "album": {
@@ -1292,7 +1452,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-22",
+      "date_removed": null,
       "duration_ms": 380023,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/3b0vNndyamPVvdbVPgP7qB"
@@ -1310,7 +1470,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 380023,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6zbHGeoaJjwQXXZLEiOJGG"
@@ -1328,7 +1488,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-21",
+      "date_removed": null,
       "duration_ms": 490753,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
@@ -1346,7 +1506,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 490762,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om"
@@ -1400,7 +1560,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 157675,
       "name": "La Muerte",
       "url": "https://open.spotify.com/track/4t2qP9p4TLBEA0fcBCel2o"
@@ -1544,7 +1704,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-04",
+      "date_removed": null,
       "duration_ms": 184351,
       "name": "Los Esqueletos",
       "url": "https://open.spotify.com/track/2evbt2sweKafw1Xx6tUVq6"
@@ -1650,7 +1810,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 141493,
       "name": "Mis Muertos",
       "url": "https://open.spotify.com/track/4D96nwMFxCAHAg7xAokRdi"
@@ -1704,7 +1864,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-29",
+      "date_removed": null,
       "duration_ms": 394146,
       "name": "Morir en Paz",
       "url": "https://open.spotify.com/track/2R5tHhHmGxhbrvOpoDluqr"
@@ -1819,6 +1979,24 @@
     },
     {
       "album": {
+        "name": "Duelo De \u00c1ngeles",
+        "url": "https://open.spotify.com/album/5kjn1XUa1aGYwRqCWVEPog"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199306,
+      "name": "Muri\u00f3 La Flor",
+      "url": "https://open.spotify.com/track/200dRWmnkqi8SCfwgLXkII"
+    },
+    {
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -1830,7 +2008,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 202053,
       "name": "Muri\u00f3 La Flor",
       "url": "https://open.spotify.com/track/6PyXH8zknCSDFUMMpWlqmm"
@@ -1866,7 +2044,7 @@
       ],
       "date_added": "2023-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 175896,
       "name": "Nadie Es Eterno",
       "url": "https://open.spotify.com/track/4CpP8xMTH6vrlMkfCryXvM"
@@ -1920,7 +2098,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 276133,
       "name": "No Es Serio Este Cementerio",
       "url": "https://open.spotify.com/track/7a5MYTqTgUEzVJmbrejLtn"
@@ -2010,7 +2188,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 210760,
       "name": "Pasajeros",
       "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
@@ -2064,7 +2242,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 201247,
       "name": "Que Me Importa Morir",
       "url": "https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f"
@@ -2124,10 +2302,46 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 209400,
       "name": "Que Monstruos Son (feat. Keith Streng & Mary Huff)",
       "url": "https://open.spotify.com/track/45PmtkNbgCun4GPphHVzvi"
+    },
+    {
+      "album": {
+        "name": "Mondo Zombie Boogaloo",
+        "url": "https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI"
+      },
+      "artists": [
+        {
+          "name": "Los Straitjackets & Peter Zaremba",
+          "url": "https://open.spotify.com/artist/3OmGiesKmZONkGg44rBd4j"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209400,
+      "name": "Que Monstruos Son (feat. Keith Streng & Mary Huff)",
+      "url": "https://open.spotify.com/track/1FvzTVodb3DgycfFT9wqNJ"
+    },
+    {
+      "album": {
+        "name": "Chavela Vargas. Sus 40 Grandes Canciones",
+        "url": "https://open.spotify.com/album/0c4CIsqk0vOViJXGmrW9WP"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202359,
+      "name": "Que te vaya bonito",
+      "url": "https://open.spotify.com/track/1XsYSawDnMWDwQHiEeUzXe"
     },
     {
       "album": {
@@ -2142,7 +2356,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 204617,
       "name": "Que Te Vaya Bonito",
       "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
@@ -2178,7 +2392,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 165506,
       "name": "Recu\u00e9rdame",
       "url": "https://open.spotify.com/track/20ep3Lya1JrbshZfANTj8e"
@@ -2207,6 +2421,24 @@
     },
     {
       "album": {
+        "name": "Recu\u00e9rdame (De \"Coco\" / Versi\u00f3n de Carlos Rivera)",
+        "url": "https://open.spotify.com/album/55h1AB5A75ZYViYEpJleKz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163328,
+      "name": "Recu\u00e9rdame - De \"Coco\" / Versi\u00f3n de Carlos Rivera",
+      "url": "https://open.spotify.com/track/3KBtQE1nRncJf51JbOxYDE"
+    },
+    {
+      "album": {
         "name": "Cantando Con la Muerte",
         "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
       },
@@ -2222,6 +2454,24 @@
       "duration_ms": 156306,
       "name": "Refalosa del Adi\u00f3s (Refalosa) [Chile]",
       "url": "https://open.spotify.com/track/4vmhFQ2XbD5sOcVnxE3Aew"
+    },
+    {
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/02QQSaeRpqQrmNkJS6V4Xs"
+      },
+      "artists": [
+        {
+          "name": "Susana Harp",
+          "url": "https://open.spotify.com/artist/6w8n4eJyKefJUTK66Miloo"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 397440,
+      "name": "Rinc\u00f3n Brujo",
+      "url": "https://open.spotify.com/track/28h5wciGoXUmgMPEEc0VeW"
     },
     {
       "album": {
@@ -2290,10 +2540,28 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 232386,
       "name": "Si Te Mueres Ma\u00f1ana",
       "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
+    },
+    {
+      "album": {
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/4xwCcFkvSWgvJVE52xbpJh"
+      },
+      "artists": [
+        {
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
+        }
+      ],
+      "date_added": "2023-11-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/5eTGZFp34UWVN5IRTXTWor"
     },
     {
       "album": {
@@ -2369,7 +2637,7 @@
     },
     {
       "album": {
-        "name": "Desde La Cantina (Live At Nuevo Le\u00f3n M\u00e9xico/2009)",
+        "name": "Desde La Cantina - Live At Nuevo Le\u00f3n M\u00e9xico/2009",
         "url": "https://open.spotify.com/album/5516JjJfiO6IGxBuPjZIyy"
       },
       "artists": [
@@ -2438,7 +2706,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 207960,
       "name": "Trece Cielos (Con Cerveza Victoria)",
       "url": "https://open.spotify.com/track/5pERaeSVsez6b98PIIBsN2"
@@ -2456,14 +2724,14 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-26",
+      "date_removed": null,
       "duration_ms": 230600,
       "name": "Trist\u00edsimo Pante\u00f3n",
       "url": "https://open.spotify.com/track/6hd02N0fmG5pFYm5LukkT9"
     },
     {
       "album": {
-        "name": "Mon Laferte (Vol. 1)",
+        "name": "Mon Laferte - Vol. 1",
         "url": "https://open.spotify.com/album/5sG9v1V0gjNbQQiXkYKWe0"
       },
       "artists": [
@@ -2492,7 +2760,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 172643,
       "name": "Uy que miedo",
       "url": "https://open.spotify.com/track/1PsMejyv5k5cS24FNDuYy2"

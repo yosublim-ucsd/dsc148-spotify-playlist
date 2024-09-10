@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,478 likes - 275 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 293,539 likes - 275 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 93 | [Ascension](https://open.spotify.com/track/4v0zx9bnE0Y33QfVE9RPv3) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Season 2 \- Vol\. 2 \(Episodes 4\-6\) \[Original Soundtrack\]](https://open.spotify.com/album/1bn4dWCtQfJnsuuUTbJFvQ) | 4:48 |
 | 94 | [Bodies Main Title](https://open.spotify.com/track/3tERZdN36IebQcY1Nutz6N) | [Jon Opstad](https://open.spotify.com/artist/64FMaf8JHBUhmBLcvNJXzp) | [Bodies \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2f8zMjFjHos3kToO2DLsM2) | 1:08 |
 | 95 | [Soupe populaire](https://open.spotify.com/track/04KtwFcMWPbxUZ4eJaUkbb) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l) | [L'Abbé Pierre \- Une vie de combats \(Bande originale du film\)](https://open.spotify.com/album/00NSMSUTkezJ8nabuZ3nUN) | 2:26 |
-| 96 | [Les Souvenirs et les Émotions \- From "La Petite" Soundtrack](https://open.spotify.com/track/2duUkrkNExfMaKowd30udJ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Les Souvenirs et les Émotions \(From "La Petite" Soundtrack\)](https://open.spotify.com/album/7kdQQwyP3miRSVgu3kz0A5) | 1:43 |
+| 96 | [Les Souvenirs et les Émotions \- From "La Petite" Soundtrack](https://open.spotify.com/track/2duUkrkNExfMaKowd30udJ) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj) | [Les Souvenirs et les Émotions \- From "La Petite" Soundtrack](https://open.spotify.com/album/7kdQQwyP3miRSVgu3kz0A5) | 1:43 |
 | 97 | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/track/0vPpOw4JOAKB9QMivOAnQj) | [Martin Phipps](https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn) | [Holding Hands \(From "The Crown: Season Six Soundtrack"\)](https://open.spotify.com/album/1C9g1hrvjlKvwRSU9kUWxJ) | 3:32 |
 | 98 | [New York, 1969](https://open.spotify.com/track/5a4Vzq0zwl72Pjox7kFg2J) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Indiana Jones and the Dial of Destiny \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2oaBMWEc8mY8TsCfOREHfV) | 4:17 |
 | 99 | [Selling Montage](https://open.spotify.com/track/7y8zvpcVtc3VQXE2V0fyR6) | [Michael Dean Parsons](https://open.spotify.com/artist/0PtgERFoiSK8egVLiNkure) | [Pain Hustlers \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/03WFtOTe7GVyKgzTLxUDny) | 1:57 |

@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-231 songs - 12 hr 36 min
+232 songs - 12 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [My Own Summer](https://open.spotify.com/track/1RJQu4Pq5tZUJEJpo5zqOf) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei) | [Brass Against III](https://open.spotify.com/album/2n8KXe2C9BNPSDAOOe8RVV) | 3:36 | 2022-11-08 | 2024-04-19 |
 | [My Own Summer](https://open.spotify.com/track/1eyKn1c88LnydR6vsRdbVs) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [My Own Summer](https://open.spotify.com/album/1fMoIeLCqIDYNLd1zn4yKH) | 3:36 | 2022-04-08 | 2024-06-08 |
 | [My Own Summer](https://open.spotify.com/track/2XAn1jUbPqylVftkIBiIpY) | [Brass Against](https://open.spotify.com/artist/25uPlxGvXMDy9eUX7oeDei), [Sophia Urista](https://open.spotify.com/artist/0ZOIPu5gy4F5VFvJrRfvVP) | [Brass Against III](https://open.spotify.com/album/1qC10DV747Gmd9wlZGGkpB) | 3:37 | 2022-07-01 | 2023-05-06 |
-| [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-27 |  |
+| [Narc](https://open.spotify.com/track/7uZHeWnTkO9KfQpvOJytEj) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Narc](https://open.spotify.com/album/6BsqNNzQzCB9pHwZJiOwc1) | 2:45 | 2022-09-27 | 2024-09-10 |
 | [NERVOUS SYSTEM](https://open.spotify.com/track/1XwE6abXTCVCoG3Go3DteI) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [iRis.EXE](https://open.spotify.com/artist/2dSZ8lHlYiDFdbdvD0V6vi) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:20 | 2024-06-07 |  |
 | [New Way Out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [New Way Out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-08-21 |  |
 | [Nothing Left To Give](https://open.spotify.com/track/2YmHtW0dgJVgNepOQWJwCX) | [Kent Osborne](https://open.spotify.com/artist/7A15q1iSA5BitDh0WeK7ta) | [Nothing Left To Give](https://open.spotify.com/album/3s013StNx2IAhAJw710P9c) | 2:23 | 2023-08-18 |  |
@@ -239,5 +239,6 @@
 | [Zombie](https://open.spotify.com/track/10IbUW87Q8kTs3ySisuLVc) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/2OrzskCbMc8Bu5rbPXppJp) | 2:42 | 2022-04-08 |  |
 | [Zombie](https://open.spotify.com/track/1qoZPeWgIWC8RWbYRjUElS) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Zombie](https://open.spotify.com/album/4RvjNkmUeCfvPnyiEXcSCc) | 2:42 | 2023-09-22 | 2024-04-19 |
 | [¿ \(feat\. Halsey\)](https://open.spotify.com/track/6shny2UVkpaLc7jEKEoePa) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Music to listen to\~dance to\~blaze to\~pray to\~feed to\~sleep to\~talk to\~grind to\~trip to\~breathe to\~help to\~hurt to\~scroll to\~roll to\~love to\~hate to\~learn Too\~plot to\~play to\~be to\~feel to\~breed to\~sweat to\~dream to\~hide to\~live to\~die to\~GO TO](https://open.spotify.com/album/6yC6aLzX5knhWpKDidwxft) | 5:13 | 2022-04-08 |  |
+| [Я Так Устал / Ya Tak Ustal](https://open.spotify.com/track/3ag2DJeXtr55wbwyXz17YH) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Belaya Polosa](https://open.spotify.com/album/60B6wBzA7SFksiyiNqlYhn) | 5:00 | 2024-09-10 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

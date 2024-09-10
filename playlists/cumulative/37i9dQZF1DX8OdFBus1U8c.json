@@ -1015,6 +1015,28 @@
     },
     {
       "album": {
+        "name": "Vaazha - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx"
+      },
+      "artists": [
+        {
+          "name": "electronic kili",
+          "url": "https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX"
+        },
+        {
+          "name": "Vinayak Sasikumar",
+          "url": "https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270375,
+      "name": "Eyy Banane",
+      "url": "https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD"
+    },
+    {
+      "album": {
         "name": "Fish Rock",
         "url": "https://open.spotify.com/album/68lzkVQY5ajzptkUi2jMOv"
       },
@@ -1270,7 +1292,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 238077,
       "name": "Jayiche Theeru",
       "url": "https://open.spotify.com/track/58SrpU1MqNPdkersJ49mVu"
@@ -1846,6 +1868,28 @@
     {
       "album": {
         "name": "Legacy",
+        "url": "https://open.spotify.com/album/5WkNj0ut9KlpGrc1vor49m"
+      },
+      "artists": [
+        {
+          "name": "ThirumaLi",
+          "url": "https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ"
+        },
+        {
+          "name": "Jay Stellar",
+          "url": "https://open.spotify.com/artist/7xf80lxGAylsBqdiQP0mRk"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179999,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/1K9kBW3vwRLdUCmyopR6vz"
+    },
+    {
+      "album": {
+        "name": "Legacy",
         "url": "https://open.spotify.com/album/4YTYTGCVUhvTj5dErwAGbg"
       },
       "artists": [
@@ -2110,7 +2154,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 196153,
       "name": "Minni",
       "url": "https://open.spotify.com/track/306XOjGf2EDuTNv77HdPme"

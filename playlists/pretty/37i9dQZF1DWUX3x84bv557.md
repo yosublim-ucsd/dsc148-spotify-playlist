@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Maan
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,583 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,581 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,22 +13,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 3 | [La Pression](https://open.spotify.com/track/1JD59B3aSyEcI3yHYPZLIP) | [Claude](https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom) | [La Pression](https://open.spotify.com/album/1nkmjcR3wg4w4rbjoGbWiX) | 2:41 |
 | 4 | [Ik Zeg Niets](https://open.spotify.com/track/2gmXfe301S1Hpla35JYzBw) | [Acda en de Munnik](https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh) | [Ik Zeg Niets](https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM) | 3:07 |
 | 5 | [Ik Haat Hem Voor Jou](https://open.spotify.com/track/6vDxjNLrehdIkaHQ8nMkaF) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp), [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [Ik Haat Hem Voor Jou](https://open.spotify.com/album/3lkn7csEi16CayvYDrRRDz) | 2:34 |
-| 6 | [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 |
-| 7 | [Zeezout](https://open.spotify.com/track/6QEzaPJiKJLtENz1evc0n0) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Zeezout](https://open.spotify.com/album/0rLzcR7qalZG4AN6p39AK5) | 1:58 |
-| 8 | [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 |
-| 9 | [Wat Moet Ik Dan Anders Doen](https://open.spotify.com/track/0KIVZUfYnHCgxBZB9vTciX) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 3:12 |
-| 10 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 |
-| 11 | [Snooze](https://open.spotify.com/track/4Iwfv0IKKWo2tdxwmF4hdI) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Snooze](https://open.spotify.com/album/1ZlRUw1jzPOwXXdsuM2BdX) | 2:40 |
-| 12 | [Cosmo](https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Cosmo](https://open.spotify.com/album/7xl5IiIPrmWSLBk3NCO9zt) | 2:19 |
-| 13 | [Alweer </3](https://open.spotify.com/track/5X3ENotbEvDyVCJitLAFoc) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Alweer </3](https://open.spotify.com/album/7puAdpGf6d9zPumS6LypZh) | 2:17 |
-| 14 | [Alles Voor Je Doen](https://open.spotify.com/track/3JDZS5jO6LdVjm8OSDSbaj) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Alles Voor Je Doen](https://open.spotify.com/album/4jktsTmLRgsMDn2DvCn4wZ) | 2:42 |
-| 15 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [Luna](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
-| 16 | [Vermomd Entree](https://open.spotify.com/track/51e5V3nePEUAY1DEThZg42) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Vermomd Entree](https://open.spotify.com/album/5LnXf4Aq2EqvFcTHTxu83y) | 2:51 |
-| 17 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
-| 18 | [Alsof ik jou ben](https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Alsof ik jou ben](https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6) | 3:05 |
-| 19 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 |
-| 20 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 |
-| 21 | [Even Tussen Ons](https://open.spotify.com/track/7isWCoenO2e3HudiE4nq0g) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Even Tussen Ons](https://open.spotify.com/album/3PfvwKwsNzN7p4PxC5xaNJ) | 2:34 |
+| 6 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [Luna](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
+| 7 | [Winnaar Van De Tijd](https://open.spotify.com/track/7HZ1jlkGv2Y4qL975pHmfl) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Winnaar Van De Tijd](https://open.spotify.com/album/13D8OBwzsJyCycsdey7mf8) | 2:29 |
+| 8 | [Zeezout](https://open.spotify.com/track/6QEzaPJiKJLtENz1evc0n0) | [Stenfert](https://open.spotify.com/artist/7nfwBKWMnPY7FJZQwh1wq8) | [Zeezout](https://open.spotify.com/album/0rLzcR7qalZG4AN6p39AK5) | 1:58 |
+| 9 | [Leven Het Groots](https://open.spotify.com/track/3WaWlhDgXD8ljeO3dqQd3q) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc), [Kenny B](https://open.spotify.com/artist/2NX52zvQRp4AxVzhp2cMiP) | [Leven Het Groots](https://open.spotify.com/album/2a0OmGXhmN3U0GN8BKP6by) | 2:31 |
+| 10 | [Wat Moet Ik Dan Anders Doen](https://open.spotify.com/track/0KIVZUfYnHCgxBZB9vTciX) | [Miss Montreal](https://open.spotify.com/artist/06eTdzI1FA6c2cPQAeVHY2) | [Samen Één](https://open.spotify.com/album/0F2Oyz1BS2A5xTU7iCvzxf) | 3:12 |
+| 11 | [Even Tussen Ons](https://open.spotify.com/track/7isWCoenO2e3HudiE4nq0g) | [Nobu](https://open.spotify.com/artist/5yuxqGyvuCkRY8X53yVy5u) | [Even Tussen Ons](https://open.spotify.com/album/3PfvwKwsNzN7p4PxC5xaNJ) | 2:34 |
+| 12 | [Twee April](https://open.spotify.com/track/10rCGIyamWa3yexM04sbn4) | [jet van der steen](https://open.spotify.com/artist/60bPC311AlvVdIzqQZyeHo) | [Twee April](https://open.spotify.com/album/5cb4HDdBuwwVSE4Mkj6Ceh) | 2:25 |
+| 13 | [Snooze](https://open.spotify.com/track/4Iwfv0IKKWo2tdxwmF4hdI) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Snooze](https://open.spotify.com/album/1ZlRUw1jzPOwXXdsuM2BdX) | 2:40 |
+| 14 | [Cosmo](https://open.spotify.com/track/5afCDDxbZtG7iERMyuQVSa) | [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Cosmo](https://open.spotify.com/album/7xl5IiIPrmWSLBk3NCO9zt) | 2:19 |
+| 15 | [Alweer </3](https://open.spotify.com/track/5X3ENotbEvDyVCJitLAFoc) | [Joël Domingos](https://open.spotify.com/artist/5LzkF8ZUuxdSg8BCEwrosb) | [Alweer </3](https://open.spotify.com/album/7puAdpGf6d9zPumS6LypZh) | 2:17 |
+| 16 | [Alles Voor Je Doen](https://open.spotify.com/track/3JDZS5jO6LdVjm8OSDSbaj) | [FLEUR](https://open.spotify.com/artist/5jE7YqOC3yRqDh0QsOmTV0) | [Alles Voor Je Doen](https://open.spotify.com/album/4jktsTmLRgsMDn2DvCn4wZ) | 2:42 |
+| 17 | [Vermomd Entree](https://open.spotify.com/track/51e5V3nePEUAY1DEThZg42) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Vermomd Entree](https://open.spotify.com/album/5LnXf4Aq2EqvFcTHTxu83y) | 2:51 |
+| 18 | [Heel misschien](https://open.spotify.com/track/4I3c9zXY66K19n4OyYNaUa) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Heel Misschien](https://open.spotify.com/album/08Bgpk12R7S2xMIV5Ez2Pw) | 2:16 |
+| 19 | [Alsof ik jou ben](https://open.spotify.com/track/7kNaoL9H8xPtR0MaVCuZwD) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Alsof ik jou ben](https://open.spotify.com/album/1r9hyOpKtFTMD3PChabTk6) | 3:05 |
+| 20 | [Slaap Lekker](https://open.spotify.com/track/64EB0FN3fLIslczqsDjVx1) | [JASHA](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Slaap Lekker](https://open.spotify.com/album/58WAXCxWYLQgMybk6ZRQVJ) | 2:14 |
+| 21 | [Sowieso](https://open.spotify.com/track/020Ctks6NzM9htzWdFsI37) | [Carmell](https://open.spotify.com/artist/4N7rpMAZalTWO8swnp2Fse) | [Sowieso](https://open.spotify.com/album/6qHb1I8crdjoT1f3MlX25a) | 2:18 |
 | 22 | [De Tijd Leert](https://open.spotify.com/track/74OjEBp07dz5BRT3JuzeJk) | [Fresku](https://open.spotify.com/artist/5m1cLmgZIfEYPLejhLFR10), [Rigt](https://open.spotify.com/artist/1m8rUNNjpB8dvKUUxY4uw2) | [De Tijd Leert](https://open.spotify.com/album/4hyW9xPpBTqTQFuWK1ZQAE) | 2:59 |
 | 23 | [Onder Invloed](https://open.spotify.com/track/7ABMV7gt2YIQGBjkQ3IqZz) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [Onder Invloed](https://open.spotify.com/album/1wHyKHiPa0OIc2nCNr6Deq) | 2:44 |
 | 24 | [Wonen In Het Westen](https://open.spotify.com/track/0tMLH7zuBzXuZpMaGf6AEb) | [geosy](https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5) | [Wonen In Het Westen](https://open.spotify.com/album/6liHWTI5hfZRhpg1FXTOxr) | 3:03 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 69 | [Geen Manieren](https://open.spotify.com/track/2ja2I9NnS2ujZ4woWMgJI1) | [Faske](https://open.spotify.com/artist/0WCFYAsNdBO9LraOxLoHoG) | [Geen Manieren](https://open.spotify.com/album/5tKWwsmBHRwyd4BsOmRUry) | 3:11 |
 | 70 | [Schuil Maar Bij Mij](https://open.spotify.com/track/1eLUrmIBerTs30I6GcmGkU) | [Giorgio Sanches](https://open.spotify.com/artist/4czBYH5Cx0BFCXixmMsgyU) | [Schuil Maar Bij Mij](https://open.spotify.com/album/5751gUKj0HJ9ClWVeGLQQ7) | 3:02 |
 
-Snapshot ID: `ZtoxJQAAAAD3Zv0w7AdimhyscdHvZnOZ`
+Snapshot ID: `Zt7iQgAAAADUQEbVM651SdMP1FaoJRUm`

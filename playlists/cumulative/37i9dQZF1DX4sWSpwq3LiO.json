@@ -3521,6 +3521,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er",
+          "url": "https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136392,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz"
+    },
+    {
+      "album": {
         "name": "Belle Chose",
         "url": "https://open.spotify.com/album/7j9Fxq6fK1UyldqGnnY1TX"
       },
@@ -8847,6 +8865,24 @@
     },
     {
       "album": {
+        "name": "For Asher",
+        "url": "https://open.spotify.com/album/5yA2uWvERbCRbJj8xOK42m"
+      },
+      "artists": [
+        {
+          "name": "Glenn Natale",
+          "url": "https://open.spotify.com/artist/4z0Dltam2MLIOC06UvwVel"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193228,
+      "name": "For Asher",
+      "url": "https://open.spotify.com/track/3HJImjLAcnltzIkexQIsJR"
+    },
+    {
+      "album": {
         "name": "For Kate",
         "url": "https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S"
       },
@@ -10616,7 +10652,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 148906,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2HwCcCi8Up9NECNBRt0yTV"
@@ -22646,7 +22682,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 123500,
       "name": "Saying Things",
       "url": "https://open.spotify.com/track/2bjQvSk5T3A2dmnqqeRhzI"
@@ -23190,7 +23226,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 131786,
       "name": "Shizukana",
       "url": "https://open.spotify.com/track/63oFS9JTsvadCXUqwqA7p0"

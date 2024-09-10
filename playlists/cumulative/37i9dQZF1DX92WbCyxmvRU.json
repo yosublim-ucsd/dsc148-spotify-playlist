@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-20",
-  "description": "Spotify\u3067\u4eba\u6c17\u306e\u30bd\u30cb\u30c3\u30af\u30b7\u30ea\u30fc\u30ba\u697d\u66f2\u309250\u66f2\u53ce\u9332\u3057\u305f\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01/Official playlist of 50 popular Sonic series songs on Spotify! (C)SEGA\n",
+  "description": "Spotify\u3067\u4eba\u6c17\u306e\u30bd\u30cb\u30c3\u30af\u30b7\u30ea\u30fc\u30ba\u697d\u66f2\u3092\u53ce\u9332\u3057\u305f\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\uff01/Official playlist of popular Sonic series songs on Spotify!  (C)SEGA\n",
   "name": "SONIC THE HEDGEHOG",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 110453,
       "name": "A Ghost's Pumpkin Soup ...for Pumpkin Hill",
       "url": "https://open.spotify.com/track/3Ctr4Ptw4fpbMKEuL7Zawc"
+    },
+    {
+      "album": {
+        "name": "SONIC THE HEDGEHOG ORIGINAL SOUND TRACK (Vol. 2)",
+        "url": "https://open.spotify.com/album/5q5uMIAKn1sohGqwEdby1M"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242666,
+      "name": "All Hail Shadow -Theme of Shadow The Hedgehog-",
+      "url": "https://open.spotify.com/track/0PPNgQvlAsAKWnxCKCQw5V"
     },
     {
       "album": {
@@ -38,10 +56,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 167093,
       "name": "BACK 2 BACK - Digital Remakin' Track / WATER PALACE : ACT1",
       "url": "https://open.spotify.com/track/3OXajqfDgu7AeCo61BuyPb"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "FILMharmonic Orchestra, Prague",
+          "url": "https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223281,
+      "name": "Believe In Myself ~ It Doesn't Matter - Live",
+      "url": "https://open.spotify.com/track/7JmnqW9gUyj48BsSL3ub7N"
     },
     {
       "album": {
@@ -60,10 +96,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 204093,
       "name": "Blood Flow - Knuckles Mvt.",
       "url": "https://open.spotify.com/track/4Pk19GbyHoxR2egPYGcF5d"
+    },
+    {
+      "album": {
+        "name": "Sonic Frontiers Expansion Soundtrack Paths Revisited",
+        "url": "https://open.spotify.com/album/7wS54l0sbmZzzwEIcBgLtu"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204093,
+      "name": "Blood Flow - Knuckles Mvt.",
+      "url": "https://open.spotify.com/track/70x75HL9zdMuOArUYGxAHn"
     },
     {
       "album": {
@@ -82,6 +140,80 @@
       "duration_ms": 130496,
       "name": "Blossom Haze - Press Garden Zone Act 2",
       "url": "https://open.spotify.com/track/52bmjTUroBIfaQDT2zfYhe"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.2)",
+        "url": "https://open.spotify.com/album/0FJAQqlAUqF45cicXfuZpw"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "BOSS BATTLE : BIG ARM",
+      "url": "https://open.spotify.com/track/0RfDSypoKpld9DQdLAwiLF"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.1)",
+        "url": "https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Richard Jacques",
+          "url": "https://open.spotify.com/artist/66SWQBUB6cJGBegelsW2sd"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180373,
+      "name": "BOSS BATTLE : EGG DRAGOON",
+      "url": "https://open.spotify.com/track/3rQABxI7jxONlo7PVOFD0k"
+    },
+    {
+      "album": {
+        "name": "Sonic Frontiers Original Soundtrack Stillness & Motion",
+        "url": "https://open.spotify.com/album/52exAJ8OkzVCXKTJ2FrcYA"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249493,
+      "name": "Break Through It All",
+      "url": "https://open.spotify.com/track/0Oz6SCNjnsfEAWI3Y9Ix7f"
     },
     {
       "album": {
@@ -104,10 +236,72 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 249493,
       "name": "Break Through It All",
       "url": "https://open.spotify.com/track/26AjteogSJe3scJh7ycVHa"
+    },
+    {
+      "album": {
+        "name": "Chaos Island: Act1 (Trailer ver.) - SONIC X SHADOW GENERATIONS",
+        "url": "https://open.spotify.com/album/0F8YGeDnoflgRlspk8Mxyx"
+      },
+      "artists": [
+        {
+          "name": "R.B.U.",
+          "url": "https://open.spotify.com/artist/7KX0wiE5YURQ5weKL8Mmg9"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Chaos Island: Act1 (Trailer version) -SONIC X SHADOW GENERATIONS",
+      "url": "https://open.spotify.com/track/72sb8tauensDjbqB4ybJ9B"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.2)",
+        "url": "https://open.spotify.com/album/0FJAQqlAUqF45cicXfuZpw"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162480,
+      "name": "COLLECTION ROOM",
+      "url": "https://open.spotify.com/track/7eA3DSKKqBU2T47KdCfYra"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.1)",
+        "url": "https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150920,
+      "name": "CRISIS CITY : ACT1",
+      "url": "https://open.spotify.com/track/2GYZnnajaUzJU9S35is5ji"
     },
     {
       "album": {
@@ -144,10 +338,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 318306,
       "name": "Dreams of An Absolution -Theme of Silver The Hedgehog-",
       "url": "https://open.spotify.com/track/1WN9H0LcaRW4JIxE9NtIb8"
+    },
+    {
+      "album": {
+        "name": "SONIC THE HEDGEHOG ORIGINAL SOUND TRACK (Vol. 3)",
+        "url": "https://open.spotify.com/album/59xYCSUwx3Ez1GQ6VDhxi5"
+      },
+      "artists": [
+        {
+          "name": "LB (Remix Factory)",
+          "url": "https://open.spotify.com/artist/2aGljyTUjQyvjnZp4cUsyl"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318306,
+      "name": "Dreams of An Absolution -Theme of Silver The Hedgehog-",
+      "url": "https://open.spotify.com/track/2ly20SGAf0QnmxHxNSg5IG"
     },
     {
       "album": {
@@ -192,10 +404,36 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 249500,
       "name": "Endless Possibility - Live",
       "url": "https://open.spotify.com/track/3kIN5AsbAcuXGew147LtSZ"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "Tomoya Ohtani Band",
+          "url": "https://open.spotify.com/artist/5DnsbWztyW5DKX47cCINon"
+        },
+        {
+          "name": "Nathan Sharp",
+          "url": "https://open.spotify.com/artist/1X5diIf3QYBCTauZYgbzEi"
+        },
+        {
+          "name": "FILMharmonic Orchestra, Prague",
+          "url": "https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249500,
+      "name": "Endless Possibility - Live",
+      "url": "https://open.spotify.com/track/6zDCeXPbNqgK5oTpQ6OZfy"
     },
     {
       "album": {
@@ -210,7 +448,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 153213,
       "name": "ESCAPE FROM THE CITY - Cash Cash RMX",
       "url": "https://open.spotify.com/track/4XrcKkdjQVjdZKygv2Jemx"
@@ -232,10 +470,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 139920,
       "name": "Escape From The City ...for City Escape",
       "url": "https://open.spotify.com/track/5CZNuQZszsDSa0VX7kpFsV"
+    },
+    {
+      "album": {
+        "name": "SONIC ADVENTURE 2 Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5t2P5xYpjRQ5g58HQ3myn5"
+      },
+      "artists": [
+        {
+          "name": "Ted Poley",
+          "url": "https://open.spotify.com/artist/1uQyJRZqbvwsUqHgEuIEI9"
+        },
+        {
+          "name": "Tony Harnell",
+          "url": "https://open.spotify.com/artist/6alD2yMb2cpw8pQs4iR6DE"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139920,
+      "name": "Escape From The City ...for City Escape",
+      "url": "https://open.spotify.com/track/5nTgzOZGI5zfhUvhXPIrtg"
     },
     {
       "album": {
@@ -250,7 +510,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 117493,
       "name": "FIGHT THE KNIGHT",
       "url": "https://open.spotify.com/track/5OOponxNgH2K98iaoq7udz"
@@ -302,7 +562,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 413093,
       "name": "Fishing Vibes",
       "url": "https://open.spotify.com/track/5cGxnLaAfxAmF2ZvvAEUgF"
@@ -356,10 +616,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 177600,
       "name": "Flying Battery Zone Act 2",
       "url": "https://open.spotify.com/track/03PVy68nHjLz1eZfXsSWIS"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.2)",
+        "url": "https://open.spotify.com/album/0FJAQqlAUqF45cicXfuZpw"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255813,
+      "name": "GALLERY",
+      "url": "https://open.spotify.com/track/14zlIcp4muWaxxYkf6xIGp"
     },
     {
       "album": {
@@ -374,7 +656,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 108800,
       "name": "Hi-Spec Robo Go! - Hard Boiled Heavy Boss",
       "url": "https://open.spotify.com/track/7n8fYemWRJYLFFvCex8aoO"
@@ -396,10 +678,32 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 279866,
       "name": "His World -Theme of Sonic The Hedgehog-",
       "url": "https://open.spotify.com/track/4taauPrbJNPCJUK9RBu6h1"
+    },
+    {
+      "album": {
+        "name": "SONIC THE HEDGEHOG ORIGINAL SOUND TRACK (Vol. 1)",
+        "url": "https://open.spotify.com/album/1sahk6P4ZKBggkZXlay3qX"
+      },
+      "artists": [
+        {
+          "name": "Ali Tabatabaee",
+          "url": "https://open.spotify.com/artist/2GzDtAvFxH5TXQdU49DfBJ"
+        },
+        {
+          "name": "Matty Lewis",
+          "url": "https://open.spotify.com/artist/5s8Qq1F4Gg4s6H2Ez7xxAS"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279866,
+      "name": "His World -Theme of Sonic The Hedgehog-",
+      "url": "https://open.spotify.com/track/7heT8oGUnfvpRaXUFwHvCF"
     },
     {
       "album": {
@@ -432,10 +736,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 231386,
       "name": "I Am... All Of Me",
       "url": "https://open.spotify.com/track/4slBHMsULWSDtG2hspyTC8"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272010,
+      "name": "I Am... All Of Me - Live",
+      "url": "https://open.spotify.com/track/4PWOPM2yKchPQVCmKU8tPC"
     },
     {
       "album": {
@@ -480,10 +802,36 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 248346,
       "name": "I\u2019m Here",
       "url": "https://open.spotify.com/track/2HCtfxzcJ1Gsl8hSRFIPML"
+    },
+    {
+      "album": {
+        "name": "Sonic Frontiers Expansion Soundtrack Paths Revisited",
+        "url": "https://open.spotify.com/album/7wS54l0sbmZzzwEIcBgLtu"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247373,
+      "name": "I\u2019m Here - Revisited (feat. Kellin Quinn)",
+      "url": "https://open.spotify.com/track/68SKsdLA8I9tOGJV5qLuJj"
     },
     {
       "album": {
@@ -506,10 +854,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 247373,
       "name": "I\u2019m Here - Revisited (feat. Kellin Quinn)",
       "url": "https://open.spotify.com/track/7mKnxvsilVd4pZBIl7NXTD"
+    },
+    {
+      "album": {
+        "name": "Kingdom Valley: Act 1 (Trailer ver.) - SONIC X SHADOW GENERATIONS",
+        "url": "https://open.spotify.com/album/3lKmgNS4KqYcax7DQ5F7ob"
+      },
+      "artists": [
+        {
+          "name": "Audissi Studios",
+          "url": "https://open.spotify.com/artist/4HwBkW9qrBDcJDnHbuhv5b"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131294,
+      "name": "Kingdom Valley: Act 1 (Trailer ver.) - SONIC X SHADOW GENERATIONS",
+      "url": "https://open.spotify.com/track/5iyP6lo2442NR8hb2Juqxh"
     },
     {
       "album": {
@@ -542,10 +908,50 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 187800,
       "name": "Lights, Camera, Action! - Studiopolis Zone Act 1",
       "url": "https://open.spotify.com/track/3LnLHEcOK9OpnCgXf1hJo1"
+    },
+    {
+      "album": {
+        "name": "Sonic Mania Original Sound Track (Selected Edition)",
+        "url": "https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5"
+      },
+      "artists": [
+        {
+          "name": "Tee Lopes",
+          "url": "https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "Lights, Camera, Action! - Studiopolis Zone Act 1",
+      "url": "https://open.spotify.com/track/4aKkhZmKHRqW1mYKI0VTtC"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        },
+        {
+          "name": "FILMharmonic Orchestra, Prague",
+          "url": "https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290500,
+      "name": "Live & Learn - Live",
+      "url": "https://open.spotify.com/track/0qVOs1V7tgk0z0TZNzn8GN"
     },
     {
       "album": {
@@ -564,7 +970,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 290500,
       "name": "Live & Learn - Live",
       "url": "https://open.spotify.com/track/3pKvsK8fJozYG0jiul95U9"
@@ -582,7 +988,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 273226,
       "name": "Live & Learn ...Main Theme of \u201dSonic Adventure 2\u201d",
       "url": "https://open.spotify.com/track/4ApblBEIwIAoiQCRrkjl7O"
@@ -626,10 +1032,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 155600,
       "name": "Metallic Madness Zone Act 2",
       "url": "https://open.spotify.com/track/6PoeugZhD3kwzlatYi2u8L"
+    },
+    {
+      "album": {
+        "name": "SHADOW THE HEDGEHOG OFFICIAL SOUNDTRACK",
+        "url": "https://open.spotify.com/album/1MUpN5jsfpa4efTplCglqS"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280480,
+      "name": "Never Turn Back",
+      "url": "https://open.spotify.com/track/2uO2haZsS002Lb0QO0qJtk"
     },
     {
       "album": {
@@ -660,6 +1084,24 @@
     {
       "album": {
         "name": "SONIC ADVENTURE Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/72a2RLOxD8COLbiyTiwQIv"
+      },
+      "artists": [
+        {
+          "name": "Crush 40",
+          "url": "https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315240,
+      "name": "Open Your Heart - Main Theme of \u201dSonic Adventure\u201d -",
+      "url": "https://open.spotify.com/track/4Isdi65xWzIhrwdR9UBu3l"
+    },
+    {
+      "album": {
+        "name": "SONIC ADVENTURE Original Soundtrack (20th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6FMvRwvHLuQs371VRrliq4"
       },
       "artists": [
@@ -670,7 +1112,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 315240,
       "name": "Open Your Heart - Main Theme of \u201dSonic Adventure\u201d -",
       "url": "https://open.spotify.com/track/5KwYHfsnGr5RL0vpThWWyV"
@@ -706,7 +1148,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 144799,
       "name": "Prime Time - Studiopolis Zone Act 2",
       "url": "https://open.spotify.com/track/2OkELKfdgS45GPCy9Pebsf"
@@ -728,7 +1170,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 287073,
       "name": "Radical City : Living In The City",
       "url": "https://open.spotify.com/track/78ykw4sUjn7GnLn66mBWNn"
@@ -750,10 +1192,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 247666,
       "name": "Reach For The Stars - Opening Theme - Vocals by Jean Paul Makhlouf of Cash Cash",
       "url": "https://open.spotify.com/track/4uy1dklpaQh4OzudoNMgDB"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "Tomoya Ohtani Band",
+          "url": "https://open.spotify.com/artist/5DnsbWztyW5DKX47cCINon"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253000,
+      "name": "Reach For the Stars - Re-Colors",
+      "url": "https://open.spotify.com/track/6QI2yzTJiJMpAMZZYCIecI"
     },
     {
       "album": {
@@ -779,6 +1239,24 @@
     },
     {
       "album": {
+        "name": "SONIC ADVENTURE 2 Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5t2P5xYpjRQ5g58HQ3myn5"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150800,
+      "name": "Rhythm And Balance ...for White Jungle",
+      "url": "https://open.spotify.com/track/14hOU5fC7JZCMNFsG6676X"
+    },
+    {
+      "album": {
         "name": "Sonic Mania Original Sound Track (Selected Edition)",
         "url": "https://open.spotify.com/album/5GL6hqg5z1jg4lGRsacoL8"
       },
@@ -790,10 +1268,76 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 148257,
       "name": "Rogues Gallery - Mirage Saloon Zone Act 2",
       "url": "https://open.spotify.com/track/6oF8Hci3tInfRroAzXiVQV"
+    },
+    {
+      "album": {
+        "name": "SONIC WORLD ADVENTURE ORIGINAL SOUNDTRACK PLANETARY PIECES (Vol. 2)",
+        "url": "https://open.spotify.com/album/6SrjYTETePBx68ixw6GTOV"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235346,
+      "name": "Rooftop Run - Day",
+      "url": "https://open.spotify.com/track/1qPI1CJKMn1bEZTd9TKS5h"
+    },
+    {
+      "album": {
+        "name": "SONIC LOST WORLD ORIGINAL SOUNDTRACK WITHOUT BOUNDARIES (Vol. 1)",
+        "url": "https://open.spotify.com/album/5UMGyiE1OYJyL0HGdyqQ2e"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343826,
+      "name": "Sea Bottom Segue",
+      "url": "https://open.spotify.com/track/1zaFW8TQWb6IJppy4bjsWI"
+    },
+    {
+      "album": {
+        "name": "SONIC GENERATIONS OFFICIAL SOUNDTRACK (Vol.1)",
+        "url": "https://open.spotify.com/album/3hRk6enIHXokTVpaJVsWNn"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245720,
+      "name": "SEASIDE HILL : ACT2",
+      "url": "https://open.spotify.com/track/66OvZw9eqKnShcnyy0KSGc"
     },
     {
       "album": {
@@ -808,7 +1352,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 310240,
       "name": "Seven Rings In Hand",
       "url": "https://open.spotify.com/track/46PbwlbDNkyDJrLdtG54NZ"
@@ -844,10 +1388,46 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 95906,
       "name": "Sonic Heroes: Main Theme of Sonic Heroes",
       "url": "https://open.spotify.com/track/5cqKPQnDAGgAh6d9x0X7iD"
+    },
+    {
+      "album": {
+        "name": "Sonic 30th Anniversary Symphony",
+        "url": "https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw"
+      },
+      "artists": [
+        {
+          "name": "FILMharmonic Orchestra, Prague",
+          "url": "https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315156,
+      "name": "Sonic the Hedgehog Medley - Live",
+      "url": "https://open.spotify.com/track/3XY5GzQeIILUuubHmiNVnf"
+    },
+    {
+      "album": {
+        "name": "Space Colony Ark: Act1 (TeddyLoid x Jun Senoue Remix) [Trailer version] - SONIC X SHADOW GENERATIONS",
+        "url": "https://open.spotify.com/album/20qVvpfZzxCbD2LAmIhqKj"
+      },
+      "artists": [
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116250,
+      "name": "Space Colony Ark: Act1 (TeddyLoid x Jun Senoue Remix) [Trailer version] - SONIC X SHADOW GENERATIONS",
+      "url": "https://open.spotify.com/track/6mdRgyqHnSf85VFk2iwl6v"
     },
     {
       "album": {
@@ -866,10 +1446,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 211106,
       "name": "Space Trip Steps ...for Meteor Herd",
       "url": "https://open.spotify.com/track/5SYsbmDzuPCM8w9zuDoSZr"
+    },
+    {
+      "album": {
+        "name": "Sonic Superstars Original Soundtrack",
+        "url": "https://open.spotify.com/album/6FRooPXIKWual1wUZMhIAM"
+      },
+      "artists": [
+        {
+          "name": "Tee Lopes",
+          "url": "https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "Speed Jungle Zone Act1",
+      "url": "https://open.spotify.com/track/4iJwKhOy0K0Hr8JlPExn6O"
     },
     {
       "album": {
@@ -906,7 +1504,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 177600,
       "name": "Stardust Speedway Zone Act 1",
       "url": "https://open.spotify.com/track/05ouNQKtPfgH9Rdpxu2YQy"
@@ -928,7 +1526,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 175600,
       "name": "Stardust Speedway Zone Act 2",
       "url": "https://open.spotify.com/track/6RRnzCaSRVRaedcFnSDnud"
@@ -957,6 +1555,82 @@
     },
     {
       "album": {
+        "name": "SONIC ADVENTURE 2 Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5t2P5xYpjRQ5g58HQ3myn5"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Jun Senoue",
+          "url": "https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99666,
+      "name": "That's The Way I Like It ...for Metal Harbor",
+      "url": "https://open.spotify.com/track/4LxTVSvvHPkVl0FHT6PyYf"
+    },
+    {
+      "album": {
+        "name": "SONIC ADVENTURE Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/72a2RLOxD8COLbiyTiwQIv"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147600,
+      "name": "Theme of \u201dCHAO\u201d",
+      "url": "https://open.spotify.com/track/1bOSGRkz9wltA1BJHfdyiK"
+    },
+    {
+      "album": {
+        "name": "SONIC ADVENTURE 2 Original Soundtrack (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5t2P5xYpjRQ5g58HQ3myn5"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301786,
+      "name": "Throw It All Away ...Theme of \u201dShadow The Hedgehog\u201d",
+      "url": "https://open.spotify.com/track/7kT571iopNA76tuAN9hMSz"
+    },
+    {
+      "album": {
+        "name": "Sonic Riders Shooting Star Story Original Soundtrack \u201dZero Gravity Tracks\u201d",
+        "url": "https://open.spotify.com/album/63VizW8qeF6yKr2wN1zYyg"
+      },
+      "artists": [
+        {
+          "name": "Cashell",
+          "url": "https://open.spotify.com/artist/0XBFOX40zY3o9IKIooVZpF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "Un-gravitify",
+      "url": "https://open.spotify.com/track/4EmJSoEZaNcGemgytqWQ8v"
+    },
+    {
+      "album": {
         "name": "Sonic Frontiers Original Soundtrack Stillness & Motion",
         "url": "https://open.spotify.com/album/3rzNkB4JHEnWmuXC6G98IS"
       },
@@ -976,10 +1650,36 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 264880,
       "name": "Undefeatable",
       "url": "https://open.spotify.com/track/1JglKAR6tFxPURETdH1qLc"
+    },
+    {
+      "album": {
+        "name": "Sonic Frontiers Original Soundtrack Stillness & Motion",
+        "url": "https://open.spotify.com/album/52exAJ8OkzVCXKTJ2FrcYA"
+      },
+      "artists": [
+        {
+          "name": "SEGA SOUND TEAM",
+          "url": "https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6"
+        },
+        {
+          "name": "Tomoya Ohtani",
+          "url": "https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264880,
+      "name": "Undefeatable",
+      "url": "https://open.spotify.com/track/6EO56btPzDF3LUrfwlXi2j"
     },
     {
       "album": {
@@ -998,10 +1698,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 133600,
       "name": "Vs. Metal Sonic",
       "url": "https://open.spotify.com/track/4AEEOpx9toRzphx6d2MkBY"
+    },
+    {
+      "album": {
+        "name": "SONIC COLORS ORIGINAL SOUNDTRACKViViD SOUND \u00d7 HYBRiD COLORS (Vol.3)",
+        "url": "https://open.spotify.com/album/5lOaA1Wm1ShdiaKv3kLRKD"
+      },
+      "artists": [
+        {
+          "name": "Hideaki Kobayashi",
+          "url": "https://open.spotify.com/artist/442HIBGoB0dCPN1EkaVmm8"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220520,
+      "name": "vs. Nega-Wisp Armor - Phase 2",
+      "url": "https://open.spotify.com/track/6uO6EgOdg3R0dIKjFt5Hc2"
     },
     {
       "album": {

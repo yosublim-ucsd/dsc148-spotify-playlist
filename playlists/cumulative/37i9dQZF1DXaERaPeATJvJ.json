@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. #IndieLokaldiSpotify Cover: Float",
+  "description": "Nostalgia kancah musik Independen era 90an hingga 2000an. Cover: Zeke and the Popo",
   "name": "Memorindie",
   "tracks": [
     {
@@ -536,6 +536,24 @@
       "duration_ms": 244893,
       "name": "Buka",
       "url": "https://open.spotify.com/track/5ULbGJ2djrEH6h58E3K0gj"
+    },
+    {
+      "album": {
+        "name": "Space in the Headlines",
+        "url": "https://open.spotify.com/album/64asUZz3O4s8S7HK3Se1kW"
+      },
+      "artists": [
+        {
+          "name": "Zeke And The Popo",
+          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316840,
+      "name": "C Song",
+      "url": "https://open.spotify.com/track/1vLQT4DkAANoExYQVi80uQ"
     },
     {
       "album": {
@@ -1690,6 +1708,24 @@
       "duration_ms": 206125,
       "name": "Mesin Penenun Hujan",
       "url": "https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35"
+    },
+    {
+      "album": {
+        "name": "Space in the Headlines",
+        "url": "https://open.spotify.com/album/64asUZz3O4s8S7HK3Se1kW"
+      },
+      "artists": [
+        {
+          "name": "Zeke And The Popo",
+          "url": "https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220600,
+      "name": "Mighty Love",
+      "url": "https://open.spotify.com/track/4JvSk0QTgPWrZLki45fraa"
     },
     {
       "album": {

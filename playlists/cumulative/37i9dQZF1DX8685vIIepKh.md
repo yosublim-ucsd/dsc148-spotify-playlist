@@ -4,7 +4,7 @@
 
 > La playlist survitaminée !
 
-243 songs - 12 hr 46 min
+244 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Where Do I Go \- DJ Antoine & Mad Mark 2k24 Mix](https://open.spotify.com/track/0qDiKOEdW1Yc6tmYTIhzBv) | [DJ Antoine](https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl), [Mad Mark](https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ), [INFINITY](https://open.spotify.com/artist/5FRJL1Agthaj5R9gwbOPvw) | [Where Do I Go \(DJ Antoine & Mad Mark 2k24 Mix\)](https://open.spotify.com/album/3bSgdpBX0uV9OkEKysp8Ha) | 2:25 | 2024-08-29 |  |
 | [Whistle](https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Wild Ones](https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk) | 3:44 | 2023-07-27 | 2023-11-17 |
 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 | 2023-09-14 | 2024-01-11 |
+| [Yamore](https://open.spotify.com/track/480j122Gpi252OIfy4SNzm) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx), [Benja \(NL\)](https://open.spotify.com/artist/0CX4q2v1TeyeskG7GgAyxI), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB), [Cesária Evora](https://open.spotify.com/artist/0Nks3cFWU2a7rooAlFQYgn) | [Yamore](https://open.spotify.com/album/5wKcgs8bejansNdK6IJC0C) | 4:08 | 2024-09-09 |  |
 | [yes, and?](https://open.spotify.com/track/7gaA3wERFkFkgivjwbSvkG) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [yes, and?](https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb) | 3:34 | 2024-01-16 | 2024-04-09 |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/2B65GgIvpaodTEPWLxUzLz) | [Sound Of Legend](https://open.spotify.com/artist/3g9yyIlJ0sIunQWJLmIYhn) | [You Keep Me Hangin' On](https://open.spotify.com/album/2LQwEkWtjKtUacX1uaw0PF) | 2:42 | 2023-11-29 | 2024-03-30 |
 | [You Made Me Pray](https://open.spotify.com/track/0Xbn76gXJuD8vB5ZPEGG2k) | [Kimberose](https://open.spotify.com/artist/6CpNuq0rsIj6Il313E6lKL) | [You Made Me Pray](https://open.spotify.com/album/7dGoaSScaSFZDGjUsJdbi7) | 3:13 | 2023-12-20 | 2024-02-02 |

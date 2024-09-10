@@ -172,6 +172,28 @@
     {
       "album": {
         "name": "Abandoned",
+        "url": "https://open.spotify.com/album/2y0qEjpGKiveojMlzR4qFM"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 401920,
+      "name": "Abandoned (with Brandon Lake) - Live",
+      "url": "https://open.spotify.com/track/6Lvxs8NNFOS3MxpRkdbxBT"
+    },
+    {
+      "album": {
+        "name": "Abandoned",
         "url": "https://open.spotify.com/album/6AFESCtQyitd3sSg54lWzM"
       },
       "artists": [
@@ -186,7 +208,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 401920,
       "name": "Abandoned - Live",
       "url": "https://open.spotify.com/track/3lH3L5Qyz2xQHxAeq7BycZ"
@@ -244,7 +266,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 193207,
       "name": "Abide - Radio Version",
       "url": "https://open.spotify.com/track/4EzabOFNewxBmOUbVSg44o"
@@ -266,7 +288,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 400501,
       "name": "Agenda - Live At Sound Emporium",
       "url": "https://open.spotify.com/track/5XGd2fK0Zu9awD1ElMQUoz"
@@ -840,7 +862,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 452810,
       "name": "At Your Altar - Live",
       "url": "https://open.spotify.com/track/1pLHop5cU0LDbiWdPvtxBo"
@@ -898,7 +920,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 307392,
       "name": "Battleground",
       "url": "https://open.spotify.com/track/1OdBPNbVwsFqPOvBF8fPaw"
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 498426,
       "name": "Break Every Chain - Live",
       "url": "https://open.spotify.com/track/2cut7Izp9DLQ26dP8HQ1fE"
@@ -1540,7 +1562,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 589994,
       "name": "Christ Has Overcome - Live",
       "url": "https://open.spotify.com/track/4LwFQtVz2ZTuHBuCD67ky0"
@@ -1818,7 +1840,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 350160,
       "name": "Come To Me - Reimagined",
       "url": "https://open.spotify.com/track/6F7zEhWbXOcOeWhtKAV1Re"
@@ -1950,7 +1972,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 230206,
       "name": "Current / One Day At A Time - Medley",
       "url": "https://open.spotify.com/track/3Y9yvWKk9n80sPjxVk4maA"
@@ -2328,7 +2350,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 482415,
       "name": "Everything - Live",
       "url": "https://open.spotify.com/track/7tBaXgX5kv9dgnvDN9Fani"
@@ -2634,7 +2656,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 368000,
       "name": "Fight Like Heaven - Live",
       "url": "https://open.spotify.com/track/5T2VAEWGNEn9jTYWybdx98"
@@ -2714,7 +2736,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 382174,
       "name": "Firm Foundation (He Won\u2019t)",
       "url": "https://open.spotify.com/track/39Gs7AuV2vXLopvvIiBaP4"
@@ -3550,7 +3572,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 298461,
       "name": "Gratitude",
       "url": "https://open.spotify.com/track/5vtJhS8AHe0aazDqa7pHbZ"
@@ -3700,7 +3722,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 457906,
       "name": "He Is Lord - Live",
       "url": "https://open.spotify.com/track/5Cs4n0uOzg2vA23SCUK2I9"
@@ -3718,7 +3740,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 286586,
       "name": "He Lives",
       "url": "https://open.spotify.com/track/4nt2QalH8b0qqzDFiVMFLD"
@@ -3920,7 +3942,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 289480,
       "name": "His Mercy Is More",
       "url": "https://open.spotify.com/track/4N5DNWSCAitzzxhRQ5Cfxi"
@@ -4346,7 +4368,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 252585,
       "name": "House of God - Live",
       "url": "https://open.spotify.com/track/5C6LXBvnV0S9gnnq4VCAC4"
@@ -4620,17 +4642,17 @@
           "url": "https://open.spotify.com/artist/0wczmL4iUleqcy10Ek5Eyh"
         },
         {
-          "name": "Blake Wiggins",
-          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
-        },
-        {
           "name": "Ryan Ellis",
           "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        },
+        {
+          "name": "Blake Wiggins",
+          "url": "https://open.spotify.com/artist/5NW1jC5KUjGRgiiI9Yd8mV"
         }
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 232855,
       "name": "I Thank God",
       "url": "https://open.spotify.com/track/2ALhy6p03JCxOy8UD29E9F"
@@ -4818,7 +4840,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 430120,
       "name": "If I Could Have Anything",
       "url": "https://open.spotify.com/track/7sH8zeRLZk4ub2SfUxKEwO"
@@ -5162,7 +5184,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 335600,
       "name": "Jesus Christ Over Everything - Live",
       "url": "https://open.spotify.com/track/6hfULoWn9n0TGFQWDOWzkw"
@@ -5504,7 +5526,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 289580,
       "name": "Kingdom Is Coming - Live",
       "url": "https://open.spotify.com/track/2bE582D6srOGjJjP14sCyW"
@@ -5662,7 +5684,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 270386,
       "name": "Less Of Me & More Of You",
       "url": "https://open.spotify.com/track/7CQTxwRg8kKPA66FuqiOAN"
@@ -5702,7 +5724,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 240134,
       "name": "Let It Flow - Live",
       "url": "https://open.spotify.com/track/6EP33vME23wA0pX2ZeG7mH"
@@ -5742,7 +5764,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 239962,
       "name": "Let The People Sing - Live",
       "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
@@ -5786,7 +5808,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 522190,
       "name": "Live Again",
       "url": "https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI"
@@ -5878,7 +5900,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 203305,
       "name": "Living Water",
       "url": "https://open.spotify.com/track/27Hqo8iZOblEHQE8SoJYMs"
@@ -6250,7 +6272,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 316040,
       "name": "More of You",
       "url": "https://open.spotify.com/track/0OGx8ZX5ywCn6mAjxNEjA0"
@@ -6268,7 +6290,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 196653,
       "name": "More Than Enough",
       "url": "https://open.spotify.com/track/0Uoz45N2pYmBBSezCRT4In"
@@ -6552,7 +6574,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 368837,
       "name": "Not Even One",
       "url": "https://open.spotify.com/track/6T9up8pShHGQB8VPrjxhh7"
@@ -7062,7 +7084,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 436188,
       "name": "Only God - Live From Costa Mesa, CA, 2023",
       "url": "https://open.spotify.com/track/3aOEV0SCViQ61mrjIyzGP3"
@@ -7424,7 +7446,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 252669,
       "name": "Praise You Anywhere - Live",
       "url": "https://open.spotify.com/track/2GD9NVyL1EoQUA2MVW2HnX"
@@ -7856,7 +7878,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 200415,
       "name": "Rise My Soul, The Lord Is Risen",
       "url": "https://open.spotify.com/track/4Em8WBJZ7OA1v78ueipM1q"
@@ -8290,7 +8312,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 424386,
       "name": "So Will I (100 Billion X) - Live",
       "url": "https://open.spotify.com/track/1dnNDM04yKaJl0tQ34TUXd"
@@ -8684,7 +8706,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 645711,
       "name": "Surely (All Of My Days / Better Is One Day) - Live",
       "url": "https://open.spotify.com/track/4p3F1KOc08z1hdO1s1Gciq"
@@ -8828,7 +8850,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 268288,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
@@ -9114,7 +9136,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 332338,
       "name": "The Covering",
       "url": "https://open.spotify.com/track/3F9VoAnnGRGLppjrWJYdU9"
@@ -9176,7 +9198,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 595375,
       "name": "The Dove - Live",
       "url": "https://open.spotify.com/track/1JqknsSVOIKohynefod8qg"
@@ -9732,7 +9754,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 229919,
       "name": "Tidal Wave - Live",
       "url": "https://open.spotify.com/track/39Ua1naSBMxGoYGYX8vkHX"
@@ -9912,7 +9934,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 321485,
       "name": "Way Maker - Spontaneous / Live",
       "url": "https://open.spotify.com/track/2tgyvXJA7aYThK1C9HcZXf"
@@ -9966,7 +9988,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 412852,
       "name": "We Cry Kadosh - Live",
       "url": "https://open.spotify.com/track/27DqzNRYTYA7cv9scyDFcD"
@@ -10184,7 +10206,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 217651,
       "name": "What He's Done",
       "url": "https://open.spotify.com/track/4n0FgNAx3ApdTFXyvwujH6"
@@ -10504,7 +10526,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 415598,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/6Xe3RfCgLzYCtJDft54wFt"
@@ -10588,7 +10610,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 717000,
       "name": "Yeshua - Live",
       "url": "https://open.spotify.com/track/4lu2i1XcWo1zze2vealWlB"
@@ -10702,7 +10724,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 229384,
       "name": "You're The One - Live",
       "url": "https://open.spotify.com/track/6zwziTShaxRuc0O6KSfED2"
@@ -10768,7 +10790,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 237098,
       "name": "Your House",
       "url": "https://open.spotify.com/track/71eqpkZTyxRmZ1lPWHhFvD"
@@ -10804,7 +10826,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 306428,
       "name": "Your word (psalm 119)",
       "url": "https://open.spotify.com/track/5EjBZv52j8DY9bO3zKW6Au"

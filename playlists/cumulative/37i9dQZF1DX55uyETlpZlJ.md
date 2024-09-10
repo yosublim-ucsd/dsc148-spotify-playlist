@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Vasu Dixit, Manuality, Joel Sakkari
 
-385 songs - 20 hr 59 min
+386 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 | 2023-07-10 | 2024-02-20 |
 | [Mallige Hoova](https://open.spotify.com/track/5PURTIpVPE45Al5IV0QJOS) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Ashika Ranganath](https://open.spotify.com/artist/4wexsazM0emf4VDAxSwIdp) | [Mallige Hoova](https://open.spotify.com/album/7kkpWO8QqNZw7IAmgQfxVt) | 2:57 | 2022-09-09 | 2023-07-18 |
 | [Manadaalada Maatu](https://open.spotify.com/track/7d77j1xDRzw69uQkFlGEHY) | [Chetan Pavate](https://open.spotify.com/artist/602dWq27oMD6JKtFFrwEQp), [Nayan Meti](https://open.spotify.com/artist/6nwWvk6JlBmwe4jCnkimnd) | [Manadaalada Maatu](https://open.spotify.com/album/0LmYdvdjouZveQPz7pl8F3) | 3:08 | 2023-06-06 | 2024-01-12 |
+| [Manasaagide](https://open.spotify.com/track/1NxlwioChUCGmzMp3Fijly) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2), [Abhishek Bangera](https://open.spotify.com/artist/4ccgSLvOIE9nw2mOQJwg2D) | [Manasaagide](https://open.spotify.com/album/1k24bvHGsLRZnBYIbqLleO) | 2:38 | 2024-09-09 |  |
 | [Manasare](https://open.spotify.com/track/60aAnSSyv8rhIrWcKN8koO) | [Vishwajeet Deshpande](https://open.spotify.com/artist/6sSDUutJb0nbe2ikDJVM7U), [Harsha Abbigeri](https://open.spotify.com/artist/6VFxe1u8QcCAF5v7sQyQDr), [Amogh Malakannavar](https://open.spotify.com/artist/2ph9qktlhQK9jdfITK80V8) | [Manasare](https://open.spotify.com/album/6sy8h66IUpgLndkwXZROK1) | 2:46 | 2023-09-13 | 2024-08-13 |
 | [Manaseega Birukagidhe](https://open.spotify.com/track/7CAbO29cTqanGs20E0PTDn) | [Manasa Holla](https://open.spotify.com/artist/1y81jcpvokCJQXfGs8HWTL), [Praveen Prakash](https://open.spotify.com/artist/4UYvfZwAu9dM6AArdY9C6z), [Raghav Aio](https://open.spotify.com/artist/6eP56zC6A37cj4kwL64QDO) | [Manaseega Birukagidhe](https://open.spotify.com/album/2PwFQISQAug99Eh7fizHMX) | 3:59 | 2023-10-07 | 2024-04-05 |
 | [Manasindha](https://open.spotify.com/track/4Xx16ZaD0LW0svsyWx6c3x) | [John Kennady](https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W), [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Manasindha](https://open.spotify.com/album/68DAgMKTgAVuz6ODAaS93p) | 4:37 | 2023-05-02 | 2023-07-04 |

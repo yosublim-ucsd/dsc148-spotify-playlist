@@ -2905,6 +2905,24 @@
     },
     {
       "album": {
+        "name": "Mind Blowing",
+        "url": "https://open.spotify.com/album/0nGXPUr5zgqDjkk0hn5mfK"
+      },
+      "artists": [
+        {
+          "name": "Frank Guardiola",
+          "url": "https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227124,
+      "name": "Mind Blowing",
+      "url": "https://open.spotify.com/track/6akKHUQ9cC4OY7dKQSCrr2"
+    },
+    {
+      "album": {
         "name": "Mirror Images",
         "url": "https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg"
       },
@@ -3388,7 +3406,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 229857,
       "name": "Over Here",
       "url": "https://open.spotify.com/track/5XLasheriaLTs6momYfB9n"
@@ -3702,6 +3720,24 @@
       "duration_ms": 153439,
       "name": "See my point?",
       "url": "https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG"
+    },
+    {
+      "album": {
+        "name": "September Waltz",
+        "url": "https://open.spotify.com/album/2vnRJ1VuTzINTSqd4NaPGK"
+      },
+      "artists": [
+        {
+          "name": "Trio Rosa",
+          "url": "https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234706,
+      "name": "September Waltz",
+      "url": "https://open.spotify.com/track/3duqLrVlkcoxAyoSKGDKBB"
     },
     {
       "album": {
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 261777,
       "name": "Was It Me?",
       "url": "https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q"
@@ -5386,7 +5422,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 289945,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z"

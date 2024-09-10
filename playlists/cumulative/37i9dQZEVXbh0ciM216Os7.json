@@ -5719,6 +5719,52 @@
     },
     {
       "album": {
+        "name": "Perchance to Dream Concept Album",
+        "url": "https://open.spotify.com/album/2zza9WICtWr7Nsc1ifLOzS"
+      },
+      "artists": [
+        {
+          "name": "Perchance to Dream",
+          "url": "https://open.spotify.com/artist/0cDL6wpZxjT9D6BqZf3tZu"
+        },
+        {
+          "name": "Sarah Dooley",
+          "url": "https://open.spotify.com/artist/6k2vsVZ13ZW2HPISPeaA2N"
+        },
+        {
+          "name": "Travis Harmon",
+          "url": "https://open.spotify.com/artist/6C2LU9CBMNWzR5RQCUXnC3"
+        },
+        {
+          "name": "Kate Ly Johnston",
+          "url": "https://open.spotify.com/artist/0VwlgVQ5TsZUbDYgJlr25A"
+        },
+        {
+          "name": "ZEE MACHINE",
+          "url": "https://open.spotify.com/artist/3v7HInx1B5wGtG90l8OgLg"
+        },
+        {
+          "name": "Will Riddle",
+          "url": "https://open.spotify.com/artist/0QXJkqLgyJQKrtIx0rs4KI"
+        },
+        {
+          "name": "Dominique Star",
+          "url": "https://open.spotify.com/artist/7IhopSm97RkykmrVGMVXlJ"
+        },
+        {
+          "name": "Rhyne",
+          "url": "https://open.spotify.com/artist/4jv216sU7PweUAgU8hIRyb"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225600,
+      "name": "Climbing Up The Walls",
+      "url": "https://open.spotify.com/track/1AVOrknFCyfo5qbKLB5YzX"
+    },
+    {
+      "album": {
         "name": "Clockwork",
         "url": "https://open.spotify.com/album/1yF7u9oYr18P4XkwR1EbmU"
       },
@@ -9796,7 +9842,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 220800,
       "name": "Fake Plastic Trees",
       "url": "https://open.spotify.com/track/1lKrSYxevq2gLfbHmfuxge"
@@ -18829,7 +18875,7 @@
     },
     {
       "album": {
-        "name": "BLAKAMERIKA Presents: LOVE LASTS FOREVER",
+        "name": "LOVE LASTS FOREVER: PRESENTED BY BLAKAMERIKA",
         "url": "https://open.spotify.com/album/3lCxVVRYSAwQljR4Q4NUkA"
       },
       "artists": [

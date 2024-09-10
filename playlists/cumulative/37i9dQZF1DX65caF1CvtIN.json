@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY"
+      },
+      "artists": [
+        {
+          "name": "N\u00e9er",
+          "url": "https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136392,
+      "name": "Beginnings",
+      "url": "https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz"
+    },
+    {
+      "album": {
         "name": "believed",
         "url": "https://open.spotify.com/album/65TinZpS9iX0S4aOvXYUAl"
       },
@@ -2480,7 +2498,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 114888,
       "name": "Plus Profond",
       "url": "https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9"

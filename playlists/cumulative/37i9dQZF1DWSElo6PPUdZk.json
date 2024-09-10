@@ -89,6 +89,28 @@
     },
     {
       "album": {
+        "name": "AKH",
+        "url": "https://open.spotify.com/album/6B3afVYGezFl6PPl2qJXqB"
+      },
+      "artists": [
+        {
+          "name": "Jaswinder Brar",
+          "url": "https://open.spotify.com/artist/6r2i43KR94c0Q0fm7OyJEJ"
+        },
+        {
+          "name": "Sachin Ahuja",
+          "url": "https://open.spotify.com/artist/4QTKE90lhb8DlGKB9QqK3h"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215067,
+      "name": "AKH",
+      "url": "https://open.spotify.com/track/2XQK4hKhcSsloYMteu9RbZ"
+    },
+    {
+      "album": {
         "name": "All Of Me",
         "url": "https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3"
       },
@@ -147,7 +169,7 @@
         },
         {
           "name": "Shellee",
-          "url": "https://open.spotify.com/artist/24t83KaFZJjxJQIlGcUR0O"
+          "url": "https://open.spotify.com/artist/5DJ2ZMr3PC7eTtYAZLOP4n"
         }
       ],
       "date_added": "2024-09-03",
@@ -178,6 +200,28 @@
       "duration_ms": 199114,
       "name": "Badmashi",
       "url": "https://open.spotify.com/track/3KlknP4eEYwQBpROyQ8EbP"
+    },
+    {
+      "album": {
+        "name": "Badmashi",
+        "url": "https://open.spotify.com/album/7hRhubP59NtYPYTVqQM9uG"
+      },
+      "artists": [
+        {
+          "name": "Karam Brar",
+          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
+        },
+        {
+          "name": "KV Singh",
+          "url": "https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121000,
+      "name": "Badmashi",
+      "url": "https://open.spotify.com/track/17Y6SPjudPpRrZNcZCheeY"
     },
     {
       "album": {
@@ -1204,7 +1248,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 177600,
       "name": "Mexican",
       "url": "https://open.spotify.com/track/3aHev9iM03320UCUm6X7hv"
@@ -1878,7 +1922,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 145714,
       "name": "Throughout India",
       "url": "https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW"

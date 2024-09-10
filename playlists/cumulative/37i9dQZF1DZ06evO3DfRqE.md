@@ -2,7 +2,7 @@
 
 ### [This Is Jake Shimabukuro](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DfRqE)
 
-> This is Jake Shimabukuro\. En önemli parçalar, hepsi tek bir çalma listesinde.
+> This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
 65 songs - 3 hr 56 min
 

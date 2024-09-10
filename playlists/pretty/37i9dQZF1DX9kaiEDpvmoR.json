@@ -1,6 +1,6 @@
 {
   "description": "Aktuell musik med etablerade och intressanta artister. ",
-  "num_followers": 92181,
+  "num_followers": 92184,
   "original_name": "Aktuellt",
   "owner": {
     "name": "Spotify",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Shawn",
-        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 164700,
-      "name": "Isn\u2019t That Enough",
-      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Regnbl\u00f6ta skor",
         "url": "https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Shawn",
+        "url": "https://open.spotify.com/album/1Gjj4lJko9J5Xh3VDWziyE"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 164700,
+      "name": "Isn\u2019t That Enough",
+      "url": "https://open.spotify.com/track/4fbxssdJB51UuMQiYQFxiI"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Private Blizzard",
+        "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
         "url": "https://open.spotify.com/album/5bAk5VXaU75Cy3J1TlTjw2"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 183374,
       "name": "K\u00e4nns s\u00e5 l\u00e4ngesen",
       "url": "https://open.spotify.com/track/0PNPkWzkRVAEdXDpP1Efkc"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Private Blizzard",
-        "url": "https://open.spotify.com/album/2QjELGScW9xUk3I2eu7nze"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/5t8pzRyclrYbL62ebIj0n3"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Hoppas du m\u00e5r bra",
-        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
-      },
-      "artists": [
-        {
-          "name": "Klara Almstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
-        }
-      ],
-      "duration_ms": 196560,
-      "name": "Hoppas du m\u00e5r bra",
-      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -755,6 +739,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Hoppas du m\u00e5r bra",
+        "url": "https://open.spotify.com/album/3gSVVZjJ5EwrkqReBk6ff4"
+      },
+      "artists": [
+        {
+          "name": "Klara Almstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2xUZsZaMqJSqpxIoTJl9D3"
+        }
+      ],
+      "duration_ms": 196560,
+      "name": "Hoppas du m\u00e5r bra",
+      "url": "https://open.spotify.com/track/7FUXC8AnXYjpQrBHX5wqlA"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Helpless",
         "url": "https://open.spotify.com/album/0sAWYyPG2zohCKd4SxSVd1"
       },
@@ -767,26 +767,6 @@
       "duration_ms": 210568,
       "name": "Helpless",
       "url": "https://open.spotify.com/track/2mEbAMdx3LqPUYaK1IPecn"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Viker inte ner mig \u00e4n",
-        "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
-      },
-      "artists": [
-        {
-          "name": "Tomas Ledin",
-          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
-        },
-        {
-          "name": "Vapendragarna",
-          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
-        }
-      ],
-      "duration_ms": 227400,
-      "name": "Viker inte ner mig \u00e4n",
-      "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -823,6 +803,26 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Viker inte ner mig \u00e4n",
+        "url": "https://open.spotify.com/album/2mFPWvGbmGbPErZLI1qAl2"
+      },
+      "artists": [
+        {
+          "name": "Tomas Ledin",
+          "url": "https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn"
+        },
+        {
+          "name": "Vapendragarna",
+          "url": "https://open.spotify.com/artist/2oLvIYXFghwfx85ywFoR2G"
+        }
+      ],
+      "duration_ms": 227400,
+      "name": "Viker inte ner mig \u00e4n",
+      "url": "https://open.spotify.com/track/1PIDqdVm2Or0tep3zHbkBz"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "I'm Not Dead Yet",
         "url": "https://open.spotify.com/album/0w1LDFIYZGBrvgAGHXiwbM"
       },
@@ -835,6 +835,22 @@
       "duration_ms": 199760,
       "name": "If You Lose Her, You're A Loser",
       "url": "https://open.spotify.com/track/1saALmRZoydumb6RaXpZnh"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
+      },
+      "artists": [
+        {
+          "name": "Sofi Bonde",
+          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
+        }
+      ],
+      "duration_ms": 224402,
+      "name": "You",
+      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -859,22 +875,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Roll On Buddy",
-        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
-      },
-      "artists": [
-        {
-          "name": "Eric Bibb",
-          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
-        }
-      ],
-      "duration_ms": 203106,
-      "name": "Roll On Buddy",
-      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Innan tystnaden tar vid",
         "url": "https://open.spotify.com/album/7IJJWqgkGGQSK3VdOH69wI"
       },
@@ -895,34 +895,18 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/76TbBcDjb01oZbMENx4ck9"
+        "name": "Roll On Buddy",
+        "url": "https://open.spotify.com/album/5q8eoZLXqpgwXIYZG3yWVM"
       },
       "artists": [
         {
-          "name": "Sofi Bonde",
-          "url": "https://open.spotify.com/artist/5bj7t0m3RGAPVDNG7EaOj6"
+          "name": "Eric Bibb",
+          "url": "https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1"
         }
       ],
-      "duration_ms": 224402,
-      "name": "You",
-      "url": "https://open.spotify.com/track/6evUjvTtpiHp2k734L6CKX"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
-      },
-      "artists": [
-        {
-          "name": "Noak Hellsing",
-          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
-        }
-      ],
-      "duration_ms": 157240,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+      "duration_ms": 203106,
+      "name": "Roll On Buddy",
+      "url": "https://open.spotify.com/track/716inKAgvoukiftOCG4l6l"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -943,6 +927,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/0WllqZUSAvlWsgorqEeNtO"
+      },
+      "artists": [
+        {
+          "name": "Noak Hellsing",
+          "url": "https://open.spotify.com/artist/47WlUGFrUj1hDhjzX1l6nc"
+        }
+      ],
+      "duration_ms": 157240,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/32j1YuaC7HP0ukGGimVI3n"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Midsommardansen",
         "url": "https://open.spotify.com/album/1UNEdDLIdVQY5YGfuTWq4W"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 124601,
       "name": "Midsommardansen",
       "url": "https://open.spotify.com/track/4F3aW9AjSA4mt3nQB1NTKt"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Weak Point",
+        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
+      },
+      "artists": [
+        {
+          "name": "Hannes Aitman",
+          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
+        }
+      ],
+      "duration_ms": 285520,
+      "name": "Weak Point",
+      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -987,22 +1003,6 @@
       "duration_ms": 130285,
       "name": "En F\u00f6rsta Dans",
       "url": "https://open.spotify.com/track/2M0mCS649bGFR0Y9tPpCer"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Weak Point",
-        "url": "https://open.spotify.com/album/1tLbj0WqyOa2zhZMP4wN2Y"
-      },
-      "artists": [
-        {
-          "name": "Hannes Aitman",
-          "url": "https://open.spotify.com/artist/1c4LDWC8eotoBU95E0YJef"
-        }
-      ],
-      "duration_ms": 285520,
-      "name": "Weak Point",
-      "url": "https://open.spotify.com/track/75HLPctDDaXOBjfp7mK6eh"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "The Way",
-        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
-      },
-      "artists": [
-        {
-          "name": "The Boppers",
-          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
-        }
-      ],
-      "duration_ms": 238406,
-      "name": "The Way",
-      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Pl\u00e5ster",
         "url": "https://open.spotify.com/album/5PBEWiYcbOfV052V7k4L8y"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 299861,
       "name": "Pl\u00e5ster",
       "url": "https://open.spotify.com/track/7mWeGv6VVIP13nyaTL4XvI"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "The Way",
+        "url": "https://open.spotify.com/album/2N1OuSrkbm0uvI5dwtUCdM"
+      },
+      "artists": [
+        {
+          "name": "The Boppers",
+          "url": "https://open.spotify.com/artist/1vLVhyvTemQZ6bd5oY1Fql"
+        }
+      ],
+      "duration_ms": 238406,
+      "name": "The Way",
+      "url": "https://open.spotify.com/track/1l2UjEWrKrdpqhbKMBcNVU"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
+      },
+      "artists": [
+        {
+          "name": "Kevin Walker",
+          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
+        }
+      ],
+      "duration_ms": 181428,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "En k\u00e4rlek sj\u00e4lv",
         "url": "https://open.spotify.com/album/3slWxcdFpFKp2Z7EFtuUum"
       },
@@ -1255,22 +1271,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/5SOLje4rpsYE9O5bhNx8cM"
-      },
-      "artists": [
-        {
-          "name": "Kevin Walker",
-          "url": "https://open.spotify.com/artist/3ZmFADbNrWQvkouwpbCCeT"
-        }
-      ],
-      "duration_ms": 181428,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/0kNrU9T11w6fcaFGzQgQiL"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Peaceful Easy Feeling",
         "url": "https://open.spotify.com/album/2uxvMTMKp8jS3icJPSqIhL"
       },
@@ -1283,6 +1283,22 @@
       "duration_ms": 171038,
       "name": "Peaceful Easy Feeling",
       "url": "https://open.spotify.com/track/2G48AXcYCzTPM7WMCoAKJy"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Del av dig",
+        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
+      },
+      "artists": [
+        {
+          "name": "Gustaf Nor\u00e9n",
+          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
+        }
+      ],
+      "duration_ms": 221418,
+      "name": "Del av dig",
+      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -1323,6 +1339,46 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "John Denver",
+        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
+      },
+      "artists": [
+        {
+          "name": "A Choir of Ghosts",
+          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
+        },
+        {
+          "name": "Lina Cooper",
+          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
+        }
+      ],
+      "duration_ms": 187333,
+      "name": "John Denver",
+      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "I Will See You",
+        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
+      },
+      "artists": [
+        {
+          "name": "Doug Seegers",
+          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
+        },
+        {
+          "name": "Eva Eastwood",
+          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
+        }
+      ],
+      "duration_ms": 272000,
+      "name": "I Will See You",
+      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Sommarens famn",
         "url": "https://open.spotify.com/album/7ssgVuGc19hQ6nDgQQNi9f"
       },
@@ -1351,62 +1407,6 @@
       "duration_ms": 286200,
       "name": "En v\u00e4rld v\u00e4rd att \u00e4lska",
       "url": "https://open.spotify.com/track/14mvAyboIxOzI5UMeGqoJK"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "I Will See You",
-        "url": "https://open.spotify.com/album/1OnU4nZKqwyvRQzvewu7sc"
-      },
-      "artists": [
-        {
-          "name": "Doug Seegers",
-          "url": "https://open.spotify.com/artist/2WO6GcXH1rWwzge9wOnuxm"
-        },
-        {
-          "name": "Eva Eastwood",
-          "url": "https://open.spotify.com/artist/0Oab0T0VwxapaYLWgHFWhH"
-        }
-      ],
-      "duration_ms": 272000,
-      "name": "I Will See You",
-      "url": "https://open.spotify.com/track/6qmXfmVuBXJw9iZML0k6cr"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "John Denver",
-        "url": "https://open.spotify.com/album/3pltBUwOjquyV9i6IUt9uG"
-      },
-      "artists": [
-        {
-          "name": "A Choir of Ghosts",
-          "url": "https://open.spotify.com/artist/2spgv5QYbYsLypU8NmjZ4L"
-        },
-        {
-          "name": "Lina Cooper",
-          "url": "https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH"
-        }
-      ],
-      "duration_ms": 187333,
-      "name": "John Denver",
-      "url": "https://open.spotify.com/track/3HOC5uwF0MNosxfhsaY8pG"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Del av dig",
-        "url": "https://open.spotify.com/album/1XYWuLePZJFak970ii4pqh"
-      },
-      "artists": [
-        {
-          "name": "Gustaf Nor\u00e9n",
-          "url": "https://open.spotify.com/artist/1zR67M6RSKhUxeHfjZ1TWf"
-        }
-      ],
-      "duration_ms": 221418,
-      "name": "Del av dig",
-      "url": "https://open.spotify.com/track/3E19KKWWG37jr09vU8VDlb"
     },
     {
       "added_at": "2024-09-06 03:00:00",

@@ -3372,7 +3372,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 140306,
       "name": "Malare",
       "url": "https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW"
@@ -5986,7 +5986,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 202250,
       "name": "Tha Pop - Deaffrogs Records",
       "url": "https://open.spotify.com/track/1U0idFt6d537Z3OFC0gdk8"
@@ -6158,7 +6158,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 223919,
       "name": "THANIMAI",
       "url": "https://open.spotify.com/track/2cbQSnKC35zh2WwIXsPZeS"
@@ -7124,6 +7124,32 @@
       "duration_ms": 121874,
       "name": "Valithathey",
       "url": "https://open.spotify.com/track/3sKdK2a0Arlv0KC0BEorQl"
+    },
+    {
+      "album": {
+        "name": "Vanna Nilavondru",
+        "url": "https://open.spotify.com/album/0KrqRoihopoLpDLWVSANBW"
+      },
+      "artists": [
+        {
+          "name": "Nikhil Iyer",
+          "url": "https://open.spotify.com/artist/0CqiR40fzUCsCK5Llk6Bek"
+        },
+        {
+          "name": "Shravan Sridhar",
+          "url": "https://open.spotify.com/artist/0TMLPi3f3qrkHV8y7Ccvec"
+        },
+        {
+          "name": "Akshay Iyer",
+          "url": "https://open.spotify.com/artist/5tuD0Os3aeTtglvnUd8HOL"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221354,
+      "name": "Vanna Nilavondru",
+      "url": "https://open.spotify.com/track/0I6dnjBM6mVGQ32zD2HD0S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Mexico.
 
-2,212 songs - 4 day 22 hr 58 min
+2,213 songs - 4 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [141 \- Versión Banda](https://open.spotify.com/track/3IFYbBUCjCelWt5asaYasY) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [141 \(Versión Banda\)](https://open.spotify.com/album/7gPxrPpfY3nTUElL9sRA2z) | 2:55 | 2022-11-15 | 2022-11-21 |
 | [16,437 Días](https://open.spotify.com/track/2cYT3MmAIk2x6RC6soJjyA) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [La Metamorfosis](https://open.spotify.com/album/7cvvYt07HdpHNKQEUEIgZg) | 3:17 | 2023-01-17 | 2023-01-25 |
 | [2 Pa 2](https://open.spotify.com/track/6fpbFcJ92PmGPwPL3SgIDs) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8), [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ) | [2 Pa 2](https://open.spotify.com/album/0LKAvwu5l8qjdnpOYJis1s) | 2:45 | 2024-03-19 | 2024-05-08 |
+| [2 Peine](https://open.spotify.com/track/30wqSNwxGMXVidA53Nhkfe) | [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5), [Big Cvyu](https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg) | [2 Peine](https://open.spotify.com/album/0FqjTX6ROxnzkSgNQBLSfs) | 2:44 | 2024-09-09 |  |
 | [23](https://open.spotify.com/track/03I0v50PLHMxgP5CjzCwt3) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [23](https://open.spotify.com/album/7c4Q9TaHo8VHacdzpGw2JI) | 3:07 | 2023-03-24 | 2023-04-02 |
 | [24/7](https://open.spotify.com/track/1ZpuuKGjzo8x5NQwBZLrRj) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [24/7](https://open.spotify.com/album/3C9AaBc0H8DfTUHUWYS3tI) | 2:52 | 2024-08-13 | 2024-08-25 |
 | [24/7](https://open.spotify.com/track/5bDQgS4LTc1B2V0dj5Svli) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Bella Nostalgia](https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK) | 2:52 | 2024-08-24 | 2024-09-01 |
@@ -186,7 +187,7 @@
 | [Azul](https://open.spotify.com/track/3a5W4nmrBbVRjG021nr7TT) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Azul](https://open.spotify.com/album/2FMtltWwGmupZfrxlrBqgf) | 2:43 | 2022-03-01 | 2022-03-07 |
 | [Azótame](https://open.spotify.com/track/5X6RUH7eLa8YrgnWnPijXg) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Gitana](https://open.spotify.com/artist/7a3wVpLMG9QlXRJBlZvg6B), [Dj Kiire](https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu) | [Poeta Callejero](https://open.spotify.com/album/2sTSCaVwAZ0mviMAYXsnw7) | 2:38 | 2023-11-21 | 2024-01-02 |
 | [AÚN TE PIENSO](https://open.spotify.com/track/2IENEaqLqm4fma7TRkC0Yf) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS) | [AÚN TE PIENSO](https://open.spotify.com/album/6LB6gb6StyYE4o3tYcpfWW) | 1:47 | 2023-10-22 | 2023-10-28 |
-| [Aún Te Pienso](https://open.spotify.com/track/2ht8k7XHbCGCogdvesVwX1) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 1:47 | 2024-09-06 |  |
+| [Aún Te Pienso](https://open.spotify.com/track/2ht8k7XHbCGCogdvesVwX1) | [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [ATP](https://open.spotify.com/album/63YUyakTLOBCWBab1oEtxe) | 1:47 | 2024-09-06 | 2024-09-10 |
 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 | 2023-12-12 | 2023-12-20 |
 | [B de Bellako](https://open.spotify.com/track/2SqUfIOD0VDJirHTVIdn4F) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [B de Bellako](https://open.spotify.com/album/0ANa1gS3FD0Kmz85rAsJMB) | 3:08 | 2024-01-02 | 2024-02-14 |
 | [B de Bellako \- Remix](https://open.spotify.com/track/21cBIFpuYb5IEOm1BltCk3) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Yeyo](https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [B de Bellako \(Remix\)](https://open.spotify.com/album/3H3teYMly8Jvd2jVKsd1R3) | 3:17 | 2024-06-04 | 2024-06-13 |

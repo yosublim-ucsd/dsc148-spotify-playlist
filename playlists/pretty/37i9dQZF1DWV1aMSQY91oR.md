@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The latest hip\-hop, refreshed weekly\. Cover: A$AP Rocky & J\. Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,963 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,979 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 5 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 |
 | 6 | [Piece By Piece](https://open.spotify.com/track/34Eq9XKbBktHSP17Yft9Xf) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Princess Anne High School Fabulous Marching Cavaliers](https://open.spotify.com/artist/5gFwLXV3kxr7yckCFOCzLP) | [Piece By Piece](https://open.spotify.com/album/3RNrlAvXWiF75OZgBqpbQc) | 2:53 |
 | 7 | [Safari](https://open.spotify.com/track/5fV9i1hWdDc4s2ZIlXwO4U) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy) | [Safari](https://open.spotify.com/album/5sQakLdez1abFowsplhLBq) | 2:30 |
-| 8 | [Fall Back feat\. Lil Tjay](https://open.spotify.com/track/5VwpXEckHv05lphILMBFqh) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back feat\. Lil Tjay](https://open.spotify.com/album/66MDLkI4A47bbbh2FSsj8W) | 2:40 |
+| 8 | [Fall Back \(feat\. Lil Tjay\)](https://open.spotify.com/track/08e2POFDvniujTDRdk8yGL) | [Lithe](https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Fall Back](https://open.spotify.com/album/2PdNRh1Hyewc23wjgvzgao) | 2:40 |
 | 9 | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/track/1ZrzdArzDJj71mCOFa2qmV) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [U Kno What To Do \(UKWTD\)](https://open.spotify.com/album/2MBtDCT8SgVFw5VHU8lWX7) | 2:38 |
 | 10 | [MELLOW CALM & CHILL](https://open.spotify.com/track/74AQtgxo3NLWoV9ukri8LU) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Hyan](https://open.spotify.com/artist/6vuDNxdLvvXkOoAL9rZJBU) | [MELLOW CALM & CHILL](https://open.spotify.com/album/2MwVj2j9jFYmUk2MN14BRe) | 2:40 |
 | 11 | [Let Me See Something \(with Dusty Locane\)](https://open.spotify.com/track/3DMgyp1pF4Ztq1KuN3fUPM) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [Let Me See Something](https://open.spotify.com/album/165F8d6HOTQbnENTrvtTdo) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 49 | [The Ticket \(with That Mexican OT\)](https://open.spotify.com/track/2S2YF4VAJtT1i9xNMjPwHn) | [Tre Loaded](https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3), [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA) | [The Ticket \(with That Mexican OT\)](https://open.spotify.com/album/1lHMrRwnFzcs8rINCecvea) | 2:40 |
 | 50 | [Bad Kids \(feat\. GloRilla\)](https://open.spotify.com/track/0ZiBuLalszaqnmfQ7XrfZn) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [HOOD POET](https://open.spotify.com/album/4Pl5cYTxBkbhMXxFZxuZLW) | 2:36 |
 
-Snapshot ID: `ZtszWQAAAACElno3k6cFc/VOIVEXKYAV`
+Snapshot ID: `Zt854QAAAACN3ZHB+lbe6tbrwuR+4Gdy`

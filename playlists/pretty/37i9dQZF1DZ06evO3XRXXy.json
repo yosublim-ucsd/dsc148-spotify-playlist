@@ -1,12 +1,12 @@
 {
-  "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 137450,
+  "description": "This Is Kenny G. Los temas esenciales, todos en una lista.",
+  "num_followers": 137476,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAACCCCaZ0DiE5Pk2QrDi7wEL",
+  "snapshot_id": "ZtzpAAAAAAARDoms2J9TNLo0KfDSqjS9",
   "tracks": [
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 228600,
-      "name": "Bossa Antigua",
-      "url": "https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk"
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
     },
     {
       "added_at": null,
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+      "duration_ms": 228600,
+      "name": "Bossa Antigua",
+      "url": "https://open.spotify.com/track/1q4S6jIILSpd6Ws7wP35fk"
     }
   ],
   "unique_name": "This Is Kenny G",

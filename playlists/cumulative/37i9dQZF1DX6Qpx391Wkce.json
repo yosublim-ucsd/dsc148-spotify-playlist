@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Acid Phase (Original Mix)",
+        "url": "https://open.spotify.com/album/3Xdyj5UiW9gxqjfDwpDjbX"
+      },
+      "artists": [
+        {
+          "name": "A*S*Y*S",
+          "url": "https://open.spotify.com/artist/4xfA60YoR4UbBxuOn9WXJq"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Acid Phase - Original Mix",
+      "url": "https://open.spotify.com/track/07UwtfPjdgSZdvClSvTxbp"
+    },
+    {
+      "album": {
         "name": "After Seven Years EP",
         "url": "https://open.spotify.com/album/6IChVG8EpPGKtoigW1Nfbb"
       },
@@ -352,7 +370,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 238000,
       "name": "Bang To The Beat",
       "url": "https://open.spotify.com/track/1SBPXr8glBJwn1jv3VxebT"
@@ -468,7 +486,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 355543,
       "name": "Blood Music",
       "url": "https://open.spotify.com/track/5FuhOQDKvTCraAA2ET0kKI"
@@ -1194,7 +1212,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 434005,
       "name": "Crazy People - Victor Ruiz Remix",
       "url": "https://open.spotify.com/track/3amcv0aAbe57YRevwUxjVw"
@@ -1856,7 +1874,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 433784,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/6wYx2zSdvKj2x9ieIshWnh"
@@ -1878,6 +1896,24 @@
       "duration_ms": 211764,
       "name": "Flashback 98",
       "url": "https://open.spotify.com/track/2jfIBEjBw8aaWKXbouaMeV"
+    },
+    {
+      "album": {
+        "name": "Build To Destroy",
+        "url": "https://open.spotify.com/album/5iNXFwLKCNtVV29uOzn5Q1"
+      },
+      "artists": [
+        {
+          "name": "Metodi Hristov",
+          "url": "https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271555,
+      "name": "Flatline",
+      "url": "https://open.spotify.com/track/6eNfky40mYhIGKmNp8n0hC"
     },
     {
       "album": {
@@ -1994,7 +2030,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 311641,
       "name": "Futura - Original Mix",
       "url": "https://open.spotify.com/track/2xD94O9S0QbJWkItq6BPeK"
@@ -2078,7 +2114,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 179671,
       "name": "Gimme The Word",
       "url": "https://open.spotify.com/track/11uG66DBgeXl3P6vqm4wYC"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 322000,
       "name": "Grooveride",
       "url": "https://open.spotify.com/track/3dEyvKqS9FjZOIfqCE4irA"
@@ -3010,7 +3046,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 356554,
       "name": "L'Esperanza - Hardspace Mix",
       "url": "https://open.spotify.com/track/6xwiTbE15WhxHCt59YY0Ni"
@@ -3094,10 +3130,32 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 227293,
       "name": "Layer",
       "url": "https://open.spotify.com/track/01Cz1Q65JgWPP6ozK8E0GC"
+    },
+    {
+      "album": {
+        "name": "Le Meilleur Est \u00e0 Venir",
+        "url": "https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW"
+      },
+      "artists": [
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        },
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 378949,
+      "name": "Le Meilleur Est \u00e0 Venir",
+      "url": "https://open.spotify.com/track/16KHLdMoI351SMD459aTcF"
     },
     {
       "album": {
@@ -3554,7 +3612,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 400847,
       "name": "Lunatique - Tao Andra Remix",
       "url": "https://open.spotify.com/track/3cU6UgrA7kq1t8MesgmGSi"
@@ -3892,7 +3950,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 206000,
       "name": "Move Up",
       "url": "https://open.spotify.com/track/1EzWq5UB2jprlYyj1rgEtj"
@@ -4233,6 +4291,24 @@
     },
     {
       "album": {
+        "name": "On Off / Fast Forward",
+        "url": "https://open.spotify.com/album/4FfB3ih0ergiHNHpSxzJR9"
+      },
+      "artists": [
+        {
+          "name": "Cirez D",
+          "url": "https://open.spotify.com/artist/31f4Ougr0lpsDrxigwV3TB"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 547064,
+      "name": "On Off",
+      "url": "https://open.spotify.com/track/4scUsV40AYlpiXCb4s7UnN"
+    },
+    {
+      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/6kdnloLqMVkcClPrPZweWr"
       },
@@ -4248,6 +4324,24 @@
       "duration_ms": 305388,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/0mwI1pte7ogpA01wWfIR06"
+    },
+    {
+      "album": {
+        "name": "Le Meilleur Est \u00e0 Venir",
+        "url": "https://open.spotify.com/album/1cUm58C5g8lj5rznMp1WKW"
+      },
+      "artists": [
+        {
+          "name": "Gregor Tresher",
+          "url": "https://open.spotify.com/artist/3vy8oQAubj1IykJLLqvVFC"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305388,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/2ITYwxUxfQvl6BAGQPJTGk"
     },
     {
       "album": {
@@ -4964,6 +5058,24 @@
       "duration_ms": 409365,
       "name": "Reson8",
       "url": "https://open.spotify.com/track/2Mi7Ec0MTCCN4DeH9M3X3x"
+    },
+    {
+      "album": {
+        "name": "Awaken",
+        "url": "https://open.spotify.com/album/0exE1kTYRUCmUMifvbdj6S"
+      },
+      "artists": [
+        {
+          "name": "Wehbba",
+          "url": "https://open.spotify.com/artist/2UzAShzs3DO53bSZqvf8Ri"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 374890,
+      "name": "Revelation",
+      "url": "https://open.spotify.com/track/2CkF1KvoxAo4jZqRG2GFh2"
     },
     {
       "album": {
@@ -6132,7 +6244,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 272238,
       "name": "The Final Night",
       "url": "https://open.spotify.com/track/5WHDVvtmPb45jgkaPlgLzh"
@@ -6291,6 +6403,24 @@
     },
     {
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/3Ry8R9fGLJKQaicFYLCFlw"
+      },
+      "artists": [
+        {
+          "name": "AKKI (DE)",
+          "url": "https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241714,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/1JHOxqobi1iLAyYhnJq20q"
+    },
+    {
+      "album": {
         "name": "Bring Me Fire EP",
         "url": "https://open.spotify.com/album/6NKHZlMaaSlR8ToHZSGS4K"
       },
@@ -6439,6 +6569,28 @@
     },
     {
       "album": {
+        "name": "Tone",
+        "url": "https://open.spotify.com/album/0LtZDjzPr3skqVzDnY8SjY"
+      },
+      "artists": [
+        {
+          "name": "Alberto Ruiz",
+          "url": "https://open.spotify.com/artist/7cihMJoqTkaVG6BZqwImB8"
+        },
+        {
+          "name": "Chris Gioria",
+          "url": "https://open.spotify.com/artist/4dFIgttqHvrifFyVtgjGXR"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341111,
+      "name": "Tone",
+      "url": "https://open.spotify.com/track/1iET7ZhSsY51yzlojQSjJe"
+    },
+    {
+      "album": {
         "name": "Tonight EP",
         "url": "https://open.spotify.com/album/5NpM4yflQB8uDiymMbmgBv"
       },
@@ -6516,6 +6668,24 @@
       "duration_ms": 330777,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/5OiHKfBSVXR2R0wf166GO5"
+    },
+    {
+      "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/7a8IRndRKmX66OGWLyvxDZ"
+      },
+      "artists": [
+        {
+          "name": "Patrik Berg",
+          "url": "https://open.spotify.com/artist/13SB6LyYpsdN2QPEqpYS9l"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235488,
+      "name": "Undercover",
+      "url": "https://open.spotify.com/track/5xlWdKW50cCpLywd9y4fbq"
     },
     {
       "album": {
@@ -6944,6 +7114,24 @@
       "duration_ms": 361050,
       "name": "WILD ELECTRIC - Monika Kruse Remix",
       "url": "https://open.spotify.com/track/26zdcNGCsPllOiaKkPRjRk"
+    },
+    {
+      "album": {
+        "name": "You and Me",
+        "url": "https://open.spotify.com/album/7jZHrxPlWIyHGscFxT1Wfe"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243345,
+      "name": "You and Me",
+      "url": "https://open.spotify.com/track/1aR3XDuJI9P49QE7Krh4bV"
     },
     {
       "album": {

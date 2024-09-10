@@ -2905,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "El Doble",
+        "url": "https://open.spotify.com/album/6tcjrCQj5gp2Tae9WMcCkS"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198766,
+      "name": "El Doble",
+      "url": "https://open.spotify.com/track/7bo4UV0Jf987r03w3UMJFi"
+    },
+    {
+      "album": {
         "name": "La la Love You Bonus",
         "url": "https://open.spotify.com/album/5RpGs1cIVJHLtn88LEdXjb"
       },
@@ -2938,7 +2960,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 163578,
       "name": "EL FORASTERO",
       "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
@@ -4718,7 +4740,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
@@ -5222,6 +5244,24 @@
       "duration_ms": 187503,
       "name": "Lo he intentado",
       "url": "https://open.spotify.com/track/5keRPCEuoUfmM4sxMtPvNZ"
+    },
+    {
+      "album": {
+        "name": "Lo que fuimos",
+        "url": "https://open.spotify.com/album/36Sg2N2IzHooZ2dTDmYSA2"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167696,
+      "name": "Lo que fuimos",
+      "url": "https://open.spotify.com/track/3ET7xi7oTO3g6ixCGgYzse"
     },
     {
       "album": {
@@ -6726,6 +6766,24 @@
       "duration_ms": 160871,
       "name": "Ni la mitad",
       "url": "https://open.spotify.com/track/7ohvuOobZ8dA6lGLlPBp7Q"
+    },
+    {
+      "album": {
+        "name": "ni regalao",
+        "url": "https://open.spotify.com/album/4hlDcUzlW1igkBjKmt90Ln"
+      },
+      "artists": [
+        {
+          "name": "Paula Koops",
+          "url": "https://open.spotify.com/artist/3jDSE2qvShLf8DbYmseNW0"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138986,
+      "name": "ni regalao",
+      "url": "https://open.spotify.com/track/0ySzud3GsHz4U7HVQmbHVM"
     },
     {
       "album": {
@@ -8442,7 +8500,7 @@
       ],
       "date_added": "2024-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 213120,
       "name": "RUEDA",
       "url": "https://open.spotify.com/track/5oRbyHwMdgnCZhgqlubRiB"
@@ -9009,6 +9067,24 @@
     },
     {
       "album": {
+        "name": "solo un nombre",
+        "url": "https://open.spotify.com/album/4G9SYkkeCeO0jXTQxDOxFz"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168661,
+      "name": "solo un nombre",
+      "url": "https://open.spotify.com/track/4WOLdudWcyjYUuRYGYd8uY"
+    },
+    {
+      "album": {
         "name": "Soltera",
         "url": "https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee"
       },
@@ -9312,7 +9388,7 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 139546,
       "name": "TAMBI\u00c9N",
       "url": "https://open.spotify.com/track/39Pc4a04VgCtcc7m0XKi9M"
@@ -9918,6 +9994,24 @@
       "duration_ms": 240473,
       "name": "tu fan",
       "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+    },
+    {
+      "album": {
+        "name": "Tu Loca",
+        "url": "https://open.spotify.com/album/2azunHTrQxU6hJ4qPFDQoP"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190928,
+      "name": "Tu Loca",
+      "url": "https://open.spotify.com/track/3rNjg96AJMRTsRZ6GKRICw"
     },
     {
       "album": {

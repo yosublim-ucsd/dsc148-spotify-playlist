@@ -4,7 +4,7 @@
 
 > Drilling through Naij\. Cover: Psycho YP
 
-70 songs - 3 hr 10 min
+71 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [FOOLiSH \(Outstanding Dinner\)](https://open.spotify.com/track/0amlCeApqGc8p4MXFgWnes) | [DJ T1Z](https://open.spotify.com/artist/2z5YL3kKdwWilyR30IfpKW), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [PAY UP, DON'T BE FOOLiSH](https://open.spotify.com/album/5Oc83DmrIFYaqCfxObWMBp) | 2:25 | 2024-06-28 |  |
 | [Go German](https://open.spotify.com/track/1YpGByjEamqwgni31e3Ylu) | [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL) | [Go German](https://open.spotify.com/album/566SSg2JNZLMGCVu8euxNN) | 2:58 | 2024-06-28 |  |
 | [Go Home](https://open.spotify.com/track/0WREazGSegTBW0deOqpOTV) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Go Home](https://open.spotify.com/album/0nCaveQokllncgYPf3K9Qm) | 2:18 | 2024-06-28 |  |
-| [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 |  |
+| [Heaven](https://open.spotify.com/track/0kNyR0PXqgaKmtJV7Y9Zvp) | [Jumabee](https://open.spotify.com/artist/2tCzAP8SegAFwLqQrLOWxv), [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [Heaven](https://open.spotify.com/album/4agMiPmznVVvOWd3JhvAcb) | 2:30 | 2024-06-28 | 2024-09-10 |
 | [High As Fuck](https://open.spotify.com/track/4rCNAyarEBQagsU86tpwzg) | [Houseofnoregret](https://open.spotify.com/artist/3J6v498ZVQVUMSM7oIUH3H), [KINGICON](https://open.spotify.com/artist/0yT0vIdMNKPh8ONPYSsLTP), [B.I.G Pandah](https://open.spotify.com/artist/09HH6z5ApPKsV4ZIlIv0jZ), [4:44](https://open.spotify.com/artist/29WLPf8ADJ9wJgrLJ4MGrr) | [High As Fuck](https://open.spotify.com/album/6Zv8HT9bHWAd0OGbOocHC1) | 2:33 | 2024-06-28 |  |
 | [Homecoming](https://open.spotify.com/track/0nqRxAaO2AzoEQABbDh6n6) | [Highstarlavista](https://open.spotify.com/artist/2s5bPUY4vDNWYeaktbdh9V) | [The Prophecy](https://open.spotify.com/album/6RlIFWszpqQnDTiBW9ZmTQ) | 3:27 | 2024-06-28 |  |
 | [IFUNANYA](https://open.spotify.com/track/55BwTz7GYfkfDfyDWM1swO) | [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9), [SHAENA](https://open.spotify.com/artist/2CtwtJ0vQVRBSMFMxXrIXb) | [EBOBOBURST!](https://open.spotify.com/album/5TLCH5tVRpClObjnTKXfmz) | 2:41 | 2024-06-28 |  |
@@ -40,6 +40,7 @@
 | [Kalambolo \- Remix](https://open.spotify.com/track/2yne9y4tJOESXZJ4IHKTFr) | [EEZZ](https://open.spotify.com/artist/1Oq5k0FmnhtFz3cwLpmGea), [DanDizzy](https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK), [Moefasa](https://open.spotify.com/artist/6tQT0z3D3FhNlojteLj5Mj), [Geezyshore](https://open.spotify.com/artist/7yjMthvrGoCgkFKy69KNY9) | [Kalambolo \(Remix\)](https://open.spotify.com/album/62N4hfLDM2styn220eRTmB) | 3:15 | 2024-06-28 |  |
 | [Legacy](https://open.spotify.com/track/4zWE6JijStPqhELHKyvpyZ) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4) | [The Messenger](https://open.spotify.com/album/0hvJW7VOP4196IMePNLzZi) | 2:55 | 2024-06-28 |  |
 | [Lekki Epe](https://open.spotify.com/track/5VlSv8D8JRgfI520fkh546) | [MAXINO](https://open.spotify.com/artist/6LTAaKONuHKKWR8ljjIbCA), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Drillionaire](https://open.spotify.com/album/0fShBKWgKfk9uA3Xcjm0bm) | 3:53 | 2024-06-28 |  |
+| [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 | 2024-09-09 |  |
 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 | 2024-06-28 |  |
 | [My Bro](https://open.spotify.com/track/40PfZ3BA3B9DXqiOC7yUFh) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [BILLION DOLLAR DREAM \(Deluxe Version\)](https://open.spotify.com/album/17JDg6vlGbIPHoYT7Z0hPi) | 3:06 | 2024-06-28 |  |
 | [My Time](https://open.spotify.com/track/56IzMNcIHJnVvIR4DEMPqj) | [Chibuzor](https://open.spotify.com/artist/5q7Zr4GT2BW2aNSonvKOjd) | [My Time](https://open.spotify.com/album/31IkWfeidxB3KkzVDFHqM7) | 2:28 | 2024-08-25 |  |

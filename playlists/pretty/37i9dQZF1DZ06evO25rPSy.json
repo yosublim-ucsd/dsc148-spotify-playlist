@@ -1,12 +1,12 @@
 {
   "description": "This Is Pedro Su\u00e1rez-V\u00e9rtiz. Los temas esenciales, todos en una lista.",
-  "num_followers": 24031,
+  "num_followers": 24029,
   "original_name": "This Is Pedro Su\u00e1rez-V\u00e9rtiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAACEcQv4ynyShqiFlF3pXJiO",
+  "snapshot_id": "ZtzpAAAAAABWk0G+aGME91d3pqnwrJv4",
   "tracks": [
     {
       "added_at": null,
@@ -383,6 +383,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk Show",
+        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
+      },
+      "artists": [
+        {
+          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
+          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Recu\u00e9stame",
+      "url": "https://open.spotify.com/track/7nfSTmx7HF1aAklJuwA2vT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
         "url": "https://open.spotify.com/album/5WckkHkSVlDEpMdf0KtNr9"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 252133,
       "name": "Cuando Pienses en Volver (Versi\u00f3n Cumbia- Salsa)",
       "url": "https://open.spotify.com/track/2eeLReh5i1YWCkp5zUfQrW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk Show",
-        "url": "https://open.spotify.com/album/01nnzNP8wRSGdwmXne0a8N"
-      },
-      "artists": [
-        {
-          "name": "Pedro Su\u00e1rez-V\u00e9rtiz",
-          "url": "https://open.spotify.com/artist/3Azj8v21CQ76AVvjuNv5Vg"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Recu\u00e9stame",
-      "url": "https://open.spotify.com/track/7nfSTmx7HF1aAklJuwA2vT"
     },
     {
       "added_at": null,

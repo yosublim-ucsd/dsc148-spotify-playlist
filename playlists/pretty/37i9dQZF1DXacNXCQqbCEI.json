@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 353467,
+  "num_followers": 353487,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "ATO 3: Am\u00e9rica do Sol",
-        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
-      },
-      "artists": [
-        {
-          "name": "BaianaSystem",
-          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
-        },
-        {
-          "name": "Claudia Manzo",
-          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
-        }
-      ],
-      "duration_ms": 157746,
-      "name": "Pachamama",
-      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Efecto Manglar",
         "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 308213,
       "name": "Efecto Manglar",
       "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "ATO 3: Am\u00e9rica do Sol",
+        "url": "https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Claudia Manzo",
+          "url": "https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg"
+        }
+      ],
+      "duration_ms": 157746,
+      "name": "Pachamama",
+      "url": "https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Rumbo a Tierra",
+        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 212885,
+      "name": "Tumbamurallas",
+      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "La Que Es",
         "url": "https://open.spotify.com/album/1m14JbxGEi0s1vktDhdlwt"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 194531,
       "name": "La Que Es",
       "url": "https://open.spotify.com/track/3MO2Ym7qBnmNEAtjPwOxXE"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Rumbo a Tierra",
-        "url": "https://open.spotify.com/album/5EsARIbjmreegtR7EV86HK"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 212885,
-      "name": "Tumbamurallas",
-      "url": "https://open.spotify.com/track/6TOR7IAlgDmqOMag21WoC7"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+        "name": "El Corredor Del Jaguar",
+        "url": "https://open.spotify.com/album/0sCcFEv5EkAvB3gJ0aoOCs"
       },
       "artists": [
         {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+          "name": "Combo Chimbita",
+          "url": "https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey"
         }
       ],
-      "duration_ms": 179634,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
+      "duration_ms": 199799,
+      "name": "Frio Severo",
+      "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

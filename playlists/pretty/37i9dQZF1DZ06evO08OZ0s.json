@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAADF6Sp/ScJm0CYwfNMenmlm",
+  "snapshot_id": "ZtzpAAAAAACxoWEYTwJ0tCyL5PEg5r8S",
   "tracks": [
     {
       "added_at": null,
@@ -455,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Good",
-        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
-      },
-      "artists": [
-        {
-          "name": "The Him",
-          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
-        },
-        {
-          "name": "Deep Chills",
-          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 160645,
-      "name": "This Good",
-      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For Love",
         "url": "https://open.spotify.com/album/63tuZdj8UFflEROfuqibSM"
       },
@@ -499,6 +475,30 @@
       "duration_ms": 221427,
       "name": "For Love",
       "url": "https://open.spotify.com/track/5AuS594msbacnVERxzdk7J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Good",
+        "url": "https://open.spotify.com/album/7lVHFuNL5szMyi7zwQXj2z"
+      },
+      "artists": [
+        {
+          "name": "The Him",
+          "url": "https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7"
+        },
+        {
+          "name": "Deep Chills",
+          "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 160645,
+      "name": "This Good",
+      "url": "https://open.spotify.com/track/2coZ4IvrbUSno1VBFwOx2o"
     },
     {
       "added_at": null,
@@ -575,6 +575,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        },
+        {
+          "name": "YOU",
+          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
+        }
+      ],
+      "duration_ms": 205182,
+      "name": "Selfish (feat. Kelli-Leigh & YOU)",
+      "url": "https://open.spotify.com/track/1Mb4DktDtZNcg0d0OuQypw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Back",
         "url": "https://open.spotify.com/album/6X3fcKiSDnPgCW3S3MUx19"
       },
@@ -611,50 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wide Awake",
-        "url": "https://open.spotify.com/album/6ZdTjmwJ2yZt1UqpEh3cJY"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        },
-        {
-          "name": "YOU",
-          "url": "https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW"
-        }
-      ],
-      "duration_ms": 205182,
-      "name": "Selfish (feat. Kelli-Leigh & YOU)",
-      "url": "https://open.spotify.com/track/1Mb4DktDtZNcg0d0OuQypw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN"
-      },
-      "artists": [
-        {
-          "name": "Black Saint",
-          "url": "https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 173150,
-      "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 179012,
       "name": "Can U Handle It",
       "url": "https://open.spotify.com/track/0JcsxWMvZYbUhksIHScFB9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/4TzNJNykVE1YmFHFgPmthN"
+      },
+      "artists": [
+        {
+          "name": "Black Saint",
+          "url": "https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 173150,
+      "name": "Don't Wreck My Holiday (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/7zynoUKo9XjcsBXZzfyq9w"
     },
     {
       "added_at": null,
@@ -795,26 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/05Gj0OMhmz81M2XmpTwRQa"
-      },
-      "artists": [
-        {
-          "name": "Tom Ferry",
-          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
-        },
-        {
-          "name": "Kelli-Leigh",
-          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
-        }
-      ],
-      "duration_ms": 169112,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3Tj1nJmTllSxnuA47ojYXz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Get Lucky (With Kelli-Leigh)",
         "url": "https://open.spotify.com/album/32SBeISKsxzoVKD0a9iIPw"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 177925,
       "name": "Get Lucky (With Kelli-Leigh)",
       "url": "https://open.spotify.com/track/332h3KTAmeomFwC5oTop19"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/05Gj0OMhmz81M2XmpTwRQa"
+      },
+      "artists": [
+        {
+          "name": "Tom Ferry",
+          "url": "https://open.spotify.com/artist/7nLgDxwtRUTbagZKa9aaVA"
+        },
+        {
+          "name": "Kelli-Leigh",
+          "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
+        }
+      ],
+      "duration_ms": 169112,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3Tj1nJmTllSxnuA47ojYXz"
     },
     {
       "added_at": null,
@@ -947,22 +947,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Reason (feat. Kelli-Leigh)",
-        "url": "https://open.spotify.com/album/09sPV1rFNtlB6mM9ihPnxk"
+        "name": "Underneath the Tree",
+        "url": "https://open.spotify.com/album/4QR9NBs2MpQcJJizlzYHsi"
       },
       "artists": [
-        {
-          "name": "Halogen",
-          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
-        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 193748,
-      "name": "The Reason (feat. Kelli-Leigh)",
-      "url": "https://open.spotify.com/track/3YxhYfKcAHMrczJRUXCe5O"
+      "duration_ms": 199346,
+      "name": "Underneath the Tree",
+      "url": "https://open.spotify.com/track/5lDZ2wHKdOA2nz48gCiNkd"
     },
     {
       "added_at": null,
@@ -999,18 +995,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underneath the Tree",
-        "url": "https://open.spotify.com/album/4QR9NBs2MpQcJJizlzYHsi"
+        "name": "The Reason (feat. Kelli-Leigh)",
+        "url": "https://open.spotify.com/album/09sPV1rFNtlB6mM9ihPnxk"
       },
       "artists": [
+        {
+          "name": "Halogen",
+          "url": "https://open.spotify.com/artist/0Za5KjrhmN4OYMr04f3g1e"
+        },
         {
           "name": "Kelli-Leigh",
           "url": "https://open.spotify.com/artist/0m6f0nNS9GEq41eIJ288ff"
         }
       ],
-      "duration_ms": 199346,
-      "name": "Underneath the Tree",
-      "url": "https://open.spotify.com/track/5lDZ2wHKdOA2nz48gCiNkd"
+      "duration_ms": 193748,
+      "name": "The Reason (feat. Kelli-Leigh)",
+      "url": "https://open.spotify.com/track/3YxhYfKcAHMrczJRUXCe5O"
     },
     {
       "added_at": null,

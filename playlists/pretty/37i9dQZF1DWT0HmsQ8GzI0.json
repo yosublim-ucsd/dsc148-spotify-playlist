@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: Ivan & The Parazol",
-  "num_followers": 13586,
+  "num_followers": 13598,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -543,18 +543,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "H\u00e9jan\u00e1sz",
-        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
+        "name": "Holnapt\u00f3l",
+        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
       },
       "artists": [
         {
-          "name": "Aurevoir.",
-          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "Filo",
+          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
         }
       ],
-      "duration_ms": 188230,
-      "name": "H\u00e9jan\u00e1sz",
-      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
+      "duration_ms": 180000,
+      "name": "Holnapt\u00f3l",
+      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -575,22 +579,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Holnapt\u00f3l",
-        "url": "https://open.spotify.com/album/3SsL4cNOFjtFq0UZ9kalkE"
+        "name": "H\u00e9jan\u00e1sz",
+        "url": "https://open.spotify.com/album/3BxGAiRcjuzbGPR5jdgbxr"
       },
       "artists": [
         {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "Filo",
-          "url": "https://open.spotify.com/artist/2pWeXE1GbI1qweHZHZi4Ee"
+          "name": "Aurevoir.",
+          "url": "https://open.spotify.com/artist/51BZWZTWqI7GjrgHw3Wvuw"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Holnapt\u00f3l",
-      "url": "https://open.spotify.com/track/0e3U5Dd7IMcMAamZn4C9eK"
+      "duration_ms": 188230,
+      "name": "H\u00e9jan\u00e1sz",
+      "url": "https://open.spotify.com/track/1s1xGPOO6GbNoTTX4ih0bt"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Sehovaval\u00f3",
+        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
+      },
+      "artists": [
+        {
+          "name": "Moln\u00e1r Tam\u00e1s",
+          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
+        },
+        {
+          "name": "L\u00e1bas Viki",
+          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
+        }
+      ],
+      "duration_ms": 174529,
+      "name": "Sehovaval\u00f3",
+      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Zenekar (5 f\u0151re)",
         "url": "https://open.spotify.com/album/2R5j3oqN0v404WTG8w4toT"
       },
@@ -683,6 +703,22 @@
       "duration_ms": 197844,
       "name": "Zenekar - 5 f\u0151re",
       "url": "https://open.spotify.com/track/5MKvuUgVdEmRAXKKrtLWxy"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Soha",
+        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
+      },
+      "artists": [
+        {
+          "name": "\u0414eva",
+          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        }
+      ],
+      "duration_ms": 212432,
+      "name": "Soha",
+      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -707,22 +743,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Soha",
-        "url": "https://open.spotify.com/album/3qzLf9aMkiReKcMtCIlCLv"
-      },
-      "artists": [
-        {
-          "name": "\u0414eva",
-          "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
-        }
-      ],
-      "duration_ms": 212432,
-      "name": "Soha",
-      "url": "https://open.spotify.com/track/2DFL15UJXcZLHFreHzC7EP"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "M\u00c1SHOGY F\u00daJ",
         "url": "https://open.spotify.com/album/1arncekYqlfYkQDJXc11Je"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 142500,
       "name": "M\u00c1SHOGY F\u00daJ",
       "url": "https://open.spotify.com/track/3AtfBJxq2HLnFHAD6PjKbj"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Sehovaval\u00f3",
-        "url": "https://open.spotify.com/album/59MgYQgY8TPlQLIZ5UwZu4"
-      },
-      "artists": [
-        {
-          "name": "Moln\u00e1r Tam\u00e1s",
-          "url": "https://open.spotify.com/artist/50ktSO1tNyaOAn7mC2lOWm"
-        },
-        {
-          "name": "L\u00e1bas Viki",
-          "url": "https://open.spotify.com/artist/1FVZNAWNizA5FuYp5UvYOL"
-        }
-      ],
-      "duration_ms": 174529,
-      "name": "Sehovaval\u00f3",
-      "url": "https://open.spotify.com/track/40H2mLXeC2gxJuQPzpyWhT"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "SMACKedveltelek",
-        "url": "https://open.spotify.com/album/6xWovGuIbT7C0yzpNxBx7S"
-      },
-      "artists": [
-        {
-          "name": "L\u00f3ci J\u00e1tszik",
-          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
-        }
-      ],
-      "duration_ms": 133874,
-      "name": "SMACKedveltelek",
-      "url": "https://open.spotify.com/track/0yyDCyrYx6CSSZO4uC8UZU"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Szob\u00e1k felett",
         "url": "https://open.spotify.com/album/5LiXOFGCIm4rXVEclWrsmB"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 232293,
       "name": "Alb\u00e9rlet",
       "url": "https://open.spotify.com/track/0LxmBrcAbrGY9Z1kNZChic"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "SMACKedveltelek",
+        "url": "https://open.spotify.com/album/6xWovGuIbT7C0yzpNxBx7S"
+      },
+      "artists": [
+        {
+          "name": "L\u00f3ci J\u00e1tszik",
+          "url": "https://open.spotify.com/artist/1M7KsIoOlY1CK4h0bFkjIf"
+        }
+      ],
+      "duration_ms": 133874,
+      "name": "SMACKedveltelek",
+      "url": "https://open.spotify.com/track/0yyDCyrYx6CSSZO4uC8UZU"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "kurvanagy ???",
+        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
+      },
+      "artists": [
+        {
+          "name": "girlhood",
+          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "kurvanagy ???",
+      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Unnom k\u00e9ne",
         "url": "https://open.spotify.com/album/2wCElNNdcPBIH4pyTqKTVI"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 197320,
       "name": "Unnom k\u00e9ne",
       "url": "https://open.spotify.com/track/0Idt6JYcE5YPAalcMohdk8"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "kurvanagy ???",
-        "url": "https://open.spotify.com/album/5rtV49XeYdexhaF7uk0N5W"
-      },
-      "artists": [
-        {
-          "name": "girlhood",
-          "url": "https://open.spotify.com/artist/3fNcMexoD7MGbJ2rzqpk6U"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "kurvanagy ???",
-      "url": "https://open.spotify.com/track/5BwHgUkJOPriDnrH5RNEwc"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Ez vagyok \u00e9n",
+        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
+      },
+      "artists": [
+        {
+          "name": "STAiR",
+          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
+        }
+      ],
+      "duration_ms": 97263,
+      "name": "Ez vagyok \u00e9n",
+      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Engem szeretni neh\u00e9z",
         "url": "https://open.spotify.com/album/0xzTy11q0KuvPg9roMMRhP"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 242803,
       "name": "Engem szeretni neh\u00e9z",
       "url": "https://open.spotify.com/track/4Mamklib5ugFYkndshmeif"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Ez vagyok \u00e9n",
-        "url": "https://open.spotify.com/album/4CBzKmewWaLtHfcQkFr7sK"
-      },
-      "artists": [
-        {
-          "name": "STAiR",
-          "url": "https://open.spotify.com/artist/4mNut2kfqMUk0q8cF975Ai"
-        }
-      ],
-      "duration_ms": 97263,
-      "name": "Ez vagyok \u00e9n",
-      "url": "https://open.spotify.com/track/40blJ4UYkDgvbsAkvee9Lq"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Huszonegy",
-        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
-      },
-      "artists": [
-        {
-          "name": "Beretka \u00c1d\u00e1m",
-          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
-        }
-      ],
-      "duration_ms": 170719,
-      "name": "Huszonegy",
-      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "ENSO",
         "url": "https://open.spotify.com/album/2Zm6SG1MzkQmTRy2ZDekyH"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 186750,
       "name": "POCSOLYA",
       "url": "https://open.spotify.com/track/1xhtbZAAjUEuldqYNil0rW"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Huszonegy",
+        "url": "https://open.spotify.com/album/3KzRo4vfpoVuYcnnb3xVp6"
+      },
+      "artists": [
+        {
+          "name": "Beretka \u00c1d\u00e1m",
+          "url": "https://open.spotify.com/artist/2pUosmQBulUMSAsOZ19jI6"
+        }
+      ],
+      "duration_ms": 170719,
+      "name": "Huszonegy",
+      "url": "https://open.spotify.com/track/17DqocwisbHAZuB30WMRh3"
     },
     {
       "added_at": "2024-09-05 22:00:00",

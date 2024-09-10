@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Julia Wieniawa
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,088 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,129 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Sobą Tak](https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Sobą Tak](https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V) | 2:40 |
-| 2 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
-| 3 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
-| 4 | [och i ach](https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [och i ach](https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF) | 3:01 |
-| 5 | [Tam słońce, gdzie my](https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tam słońce, gdzie my](https://open.spotify.com/album/73wEkOKWj6NZqOLRj0EhH0) | 3:15 |
-| 6 | [było, minęło](https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [było, minęło](https://open.spotify.com/album/77oL0Jtei9L3GH0tMCFwEy) | 3:27 |
-| 7 | [Złamane serce jest OK](https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Dziewczyna Pop](https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB) | 3:15 |
-| 8 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 |
-| 9 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 |
-| 10 | [100 BPM](https://open.spotify.com/track/3wAulDuaq7hYR0Oc61eMXB) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [100 BPM](https://open.spotify.com/album/2VhNDCVTromRBdYjLqzDtJ) | 2:26 |
+| 1 | [Tam słońce, gdzie my](https://open.spotify.com/track/1Wh2SwNbe3OQCoskPc3fD8) | [Wiktor Dyduła](https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs) | [Tam słońce, gdzie my](https://open.spotify.com/album/73wEkOKWj6NZqOLRj0EhH0) | 3:15 |
+| 2 | [było, minęło](https://open.spotify.com/track/0UqiPItaioGfB7hfmTCDZ1) | [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [było, minęło](https://open.spotify.com/album/77oL0Jtei9L3GH0tMCFwEy) | 3:27 |
+| 3 | [och i ach](https://open.spotify.com/track/1MsoH4Fz8O9PKbTW5SkXbJ) | [Sylwia Grzeszczak](https://open.spotify.com/artist/2TRVhYMkHV4jwB92R3McaS) | [och i ach](https://open.spotify.com/album/2MNCHzcw3C3wpo81uWeOxF) | 3:01 |
+| 4 | [Złamane serce jest OK](https://open.spotify.com/track/4588ZH7944EUrbDvdkr2sA) | [Daria Zawiałow](https://open.spotify.com/artist/0tdKRrbItnLj40yUFi23jx) | [Dziewczyna Pop](https://open.spotify.com/album/6tHc8WdUmPmU8HnQPNubkB) | 3:15 |
+| 5 | [100 BPM](https://open.spotify.com/track/3wAulDuaq7hYR0Oc61eMXB) | [Kizo](https://open.spotify.com/artist/2IHoZ3RrDJIikMRsYgHjhy), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [BeMelo](https://open.spotify.com/artist/58n40EtcUlarXICnPb9ohx) | [100 BPM](https://open.spotify.com/album/2VhNDCVTromRBdYjLqzDtJ) | 2:26 |
+| 6 | [Sobą Tak](https://open.spotify.com/track/4Pd7CIKMDmBP9eHhXNbwpq) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Sobą Tak](https://open.spotify.com/album/7GpqscAy3N1Ukp2OHLou1V) | 2:40 |
+| 7 | [taki mały ja](https://open.spotify.com/track/3is9xGBEPrkLAF0fryCLK7) | [kuqe 2115](https://open.spotify.com/artist/2FtYzWBUVhZ2vfy8S207Zf), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [taki mały ja](https://open.spotify.com/album/0V9iei7ta8jjktxfpq8GsK) | 2:54 |
+| 8 | [Róż](https://open.spotify.com/track/3XhllIfCF2T1RaJwbBWSdi) | [Jonatan](https://open.spotify.com/artist/2dLhpezBEgAELn73fiMEak), [Bletka](https://open.spotify.com/artist/4QYitR7yrCaf5CLQ09hX1m), [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Róż](https://open.spotify.com/album/1yshQQ9rEmfZTWqNccWAZ1) | 2:51 |
+| 9 | [Falochrony](https://open.spotify.com/track/6rCz0E0G6El6irdft7Zjgp) | [Roxie Węgiel](https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [Falochrony](https://open.spotify.com/album/5hzrI1yiFAvl4j1AJ7ikzW) | 2:49 |
+| 10 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 |
 | 11 | [Miłego lata](https://open.spotify.com/track/6qRA84oyd0yKDnTHbOkSlZ) | [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Miłego lata](https://open.spotify.com/album/4vgTXHPyctIDYOBKellbeH) | 2:42 |
 | 12 | [Jak w filmie](https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n) | [Sarsa](https://open.spotify.com/artist/0lKCO7SCRiTCS4ZEU6l1zx) | [Jak w filmie](https://open.spotify.com/album/2gtLXFybjn3nSZQPqVCsr6) | 3:03 |
 | 13 | [JAK MAM TO NAZWAĆ?](https://open.spotify.com/track/08Ggt3DvreDedFCAVsctCd) | [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [W ZWIĄZKU Z MUZYKĄ](https://open.spotify.com/album/2yVDUnBqTF1sQ0SmUqEezy) | 2:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 59 | [Popłyniemy](https://open.spotify.com/track/66jkTQje4DSEe72yG8HhKz) | [Julia Wieniawa](https://open.spotify.com/artist/1HX9uYVwH6HHGyE8xSgtUD) | [Popłyniemy](https://open.spotify.com/album/39CNmDhQhmyWLsGD50RACg) | 2:58 |
 | 60 | [hyperstar](https://open.spotify.com/track/4sUmke1MALyUgdRDseLga1) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [hyperstar](https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl) | 2:33 |
 
-Snapshot ID: `Ztop4AAAAACt+YCULmFBfroZwIXnBYvs`
+Snapshot ID: `Zt8EQwAAAAABKAz1NPRQ8DZdych/f8Ms`

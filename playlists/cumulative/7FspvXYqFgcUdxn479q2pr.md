@@ -4,7 +4,7 @@
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Carneyval
 
-274 songs - 13 hr 40 min
+275 songs - 13 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Addicted To Rave](https://open.spotify.com/track/26U7mvLqEFr9E1Y7ThCxS2) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [Timmy Trumpet's SINPHONY No\. 2](https://open.spotify.com/album/2SBIYlYYL5S9VBd2NsbzFm) | 2:49 | 2024-04-26 | 2024-05-03 |
 | [Aether](https://open.spotify.com/track/5rRNF9XcEnRhZWYcDiVjUG) | [Christian Corsi](https://open.spotify.com/artist/3JlSc5y4TTi8H0mszwjKPk) | [Aether](https://open.spotify.com/album/40AF6aaqClvKYOYA1rioaV) | 4:44 | 2024-06-17 | 2024-06-21 |
 | [Afloja](https://open.spotify.com/track/2IcXnAG6z8ZBv1mTNVjJhf) | [San Pacho](https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU), [Buitano](https://open.spotify.com/artist/2nPE9PSeu64Rpzqr8ZjjUY), [Fatboi](https://open.spotify.com/artist/2gyvGXFogWk7AifdziMnXE) | [Afloja](https://open.spotify.com/album/0WHUe82nMpxe7TvyvkiLUP) | 3:03 | 2024-04-26 | 2024-05-03 |
+| [Afterglow](https://open.spotify.com/track/0QTzsscae0G5ndE4vWSXTd) | [Carneyval](https://open.spotify.com/artist/2L8dsMgFCSOumasWQ4gvwZ) | [Afterglow](https://open.spotify.com/album/6vi6J8DtwGtGeCWDUgqq3R) | 2:40 | 2024-09-09 |  |
 | [AI Fantasy](https://open.spotify.com/track/27JWau2VWMsrcsr53xVTrt) | [Sesco](https://open.spotify.com/artist/0pP0ClsQK7FgtbwuUcVrQV), [VIVID](https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1) | [AI Fantasy](https://open.spotify.com/album/7lruKU4dqG2Hm92Mj8MoX5) | 2:35 | 2024-08-23 | 2024-08-31 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/5hg6mJBpptifzsKo8EVzjT) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:09 | 2024-08-30 |  |
 | [Alive](https://open.spotify.com/track/6mN40z3rm6Yg7Pl5L9MSnx) | [WITH U](https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV), [Albert Breaker](https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf), [mohalizer](https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i) | [Alive](https://open.spotify.com/album/5ZLcOtEmIuI9DFQfBSamFs) | 3:12 | 2024-07-12 | 2024-07-19 |

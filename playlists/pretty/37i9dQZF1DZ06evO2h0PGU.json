@@ -1,12 +1,12 @@
 {
   "description": "This is Yeah Yeah Yeahs. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 45947,
+  "num_followers": 45969,
   "original_name": "This Is Yeah Yeah Yeahs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAADC5fmXe1d7JRW4g52OcOZB",
+  "snapshot_id": "ZtzpAAAAAAD30XEj272JxQTpg+a04imP",
   "tracks": [
     {
       "added_at": null,
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 216173,
-      "name": "Rich",
-      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
+      "duration_ms": 179240,
+      "name": "Black Tongue",
+      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
     },
     {
       "added_at": null,
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
         }
       ],
-      "duration_ms": 179240,
-      "name": "Black Tongue",
-      "url": "https://open.spotify.com/track/3qmia7zOrWK9CkK8wWUkbz"
+      "duration_ms": 216173,
+      "name": "Rich",
+      "url": "https://open.spotify.com/track/2Ff1bfQkF1nmjOETYLQZsL"
     },
     {
       "added_at": null,

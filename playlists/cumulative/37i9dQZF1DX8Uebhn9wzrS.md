@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,053 songs - 3 day 6 hr 15 min
+2,054 songs - 3 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -250,7 +250,7 @@
 | [bulb](https://open.spotify.com/track/5Atzb2RbMN2l8YKUElBiyM) | [niff\_](https://open.spotify.com/artist/2vpm14X9dM28wOrLAOUlto) | [bulb](https://open.spotify.com/album/6oBfJtYLWBE3f3fY8dK7Pl) | 2:05 | 2022-04-15 | 2022-11-12 |
 | [Bullet Train](https://open.spotify.com/track/46rQypiYgXMrC2tssYiLsK) | [vibesment](https://open.spotify.com/artist/6UWqTGxMm01khzGeZlOimx) | [Bullet Train](https://open.spotify.com/album/6ALsegdjupq4DCT1JAWkRn) | 2:15 | 2023-11-17 | 2024-08-10 |
 | [Bulls Eye](https://open.spotify.com/track/5ciYeaDUtqtiLRoIKikPxV) | [Vida](https://open.spotify.com/artist/7b3Z4ZPifTMuQfrdZr9QRg) | [Bulls Eye](https://open.spotify.com/album/72Oi1D8ef7YOWtzbuNk12s) | 1:46 | 2024-03-22 |  |
-| [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 |  |
+| [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-08-31 | 2024-09-10 |
 | [Buoyant Time](https://open.spotify.com/track/10ka1GxK5M8AJxzc21XzeW) | [Boukas](https://open.spotify.com/artist/59yn6qYpXksMH0N6y42Hnj), [Math\-Mic](https://open.spotify.com/artist/5ZtY0L9BEnWtTcPZyNVKV3), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Buoyant Time](https://open.spotify.com/album/2H553rKRXK4SBpXJvOxvC6) | 2:39 | 2022-07-01 | 2022-11-26 |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 | 2024-08-31 |
 | [Butterfly Wings](https://open.spotify.com/track/3APXIJxOJapEUUlYE29Dpu) | [Lawrence Walther](https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME), [Solar Body](https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO) | [Butterfly Wings](https://open.spotify.com/album/7BJ0oYYtU7NPWNJtTP9rJt) | 2:24 | 2022-07-29 | 2022-10-01 |
@@ -917,6 +917,7 @@
 | [Kame House](https://open.spotify.com/track/3uLcMHUGmLerRqw7QTdQ31) | [gknister](https://open.spotify.com/artist/0fR068DfY5exvbuRLEV0t7), [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Kame House](https://open.spotify.com/album/37ngdwdhn2bVmKHi63B9d5) | 2:07 | 2024-05-23 |  |
 | [Kanashi](https://open.spotify.com/track/0Xs2w8ZtC6h1AOGpqCuvgu) | [Saint Totoro](https://open.spotify.com/artist/4w13HtawCKjVZFCb60zMbM) | [Kanashi](https://open.spotify.com/album/0cC5AFwmnMaAc7GzXFzrRY) | 2:24 | 2022-04-15 | 2022-06-10 |
 | [Kazemachi](https://open.spotify.com/track/1vdwv5M0KqausGOtY1haBA) | [KOHEI YOSHII](https://open.spotify.com/artist/3uO4RRkSXyaak1AaakNvsG) | [Kazemachi](https://open.spotify.com/album/78ndGlppDmdIgWNDjA9tKr) | 2:01 | 2022-11-11 | 2023-09-16 |
+| [Keep It Calm](https://open.spotify.com/track/7Lk97jmCy6NLGoMOCliR25) | [Flaminguez](https://open.spotify.com/artist/6N1OYOloCfLQRL1NQeHF4x) | [Keep It Calm](https://open.spotify.com/album/0sSxZTHWKC6Cx8llgdP8zN) | 2:12 | 2024-09-06 |  |
 | [Keep This Up \- Lo\-Fi](https://open.spotify.com/track/402DiXncs9aahnqrxurdg3) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg), [Closed on Sunday](https://open.spotify.com/artist/1LwjR2mIm78OJRTYdkMLl3) | [Keep This up / High Regard / Empty Space \(Lo\-Fi\)](https://open.spotify.com/album/03YkledkBTxa5CC2NaqWhO) | 2:28 | 2022-04-15 | 2022-07-15 |
 | [Keeps Me Wondering Why](https://open.spotify.com/track/0xcp6v3yOWE3gsILVElDEI) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Keeps Me Wondering Why](https://open.spotify.com/album/0nHwQFKQri8077vTVZrwHR) | 1:57 | 2023-02-06 |  |
 | [Ketanji](https://open.spotify.com/track/09I6fKxNZhPbvCxx4bmvCC) | [Kenzie](https://open.spotify.com/artist/0QYQjRbAV7qfoTpUW4Bmrh) | [Ketanji](https://open.spotify.com/album/5yQ0XpUlcwx8FyuEUTa6UN) | 2:42 | 2022-10-28 | 2023-01-20 |

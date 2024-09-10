@@ -1,12 +1,12 @@
 {
   "description": "This Is Joan Sebastian. Los temas esenciales, todos en una lista.",
-  "num_followers": 880040,
+  "num_followers": 880292,
   "original_name": "This Is Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAAAXiH69ammMdQY9TZFUcQNG",
+  "snapshot_id": "ZtzpAAAAAACB9tU4M4rYoa8NZKLqXd0N",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Afortunado",
+        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Afortunado",
+      "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joan Sebastian Con Mariachi",
         "url": "https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 221379,
       "name": "Qu\u00e9 No Te Asombre",
       "url": "https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afortunado",
-        "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Afortunado",
-      "url": "https://open.spotify.com/track/1X6s95fLr0C2UfS08f2bhv"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Popkillerami nagrodzono single '5 INFLUENCEREK' oraz 'JEREMY SOCHAN'\. Posłuchaj zwycięzców oraz wszystkich nominowanych na jednej playliście.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,254 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,253 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 22 | [MŁODY PADEREWSKI](https://open.spotify.com/track/05MYJf19LSo2E1lZ0RrMAC) | [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [MŁODY PADEREWSKI](https://open.spotify.com/album/4qN47N0th8re2Xi09s3fss) | 2:10 |
 | 23 | [Uzi](https://open.spotify.com/track/66JWE9YKWc6XWUwN7OdRE9) | [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Sobel](https://open.spotify.com/artist/56VhOZOF6hwqrbNYwkmcsH), [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt) | [Uzi](https://open.spotify.com/album/4XNsonogcCgCijh0FOzQ9e) | 2:55 |
 | 24 | [SQNHEAD](https://open.spotify.com/track/6kdAn7zMHOp57RlOgDel4j) | [SB Maffija](https://open.spotify.com/artist/0AEQNlJAZeghMaFyIYfrQG), [Białas](https://open.spotify.com/artist/2ufQfSFDFXfMS7MEMzdGZE), [Żabson](https://open.spotify.com/artist/0QR764k0D36npmTMWx5bft), [Lanek](https://open.spotify.com/artist/7afPAbg5jb45KFUSnHIMFG), [Solar](https://open.spotify.com/artist/1KJvuZHmkpnrjIyTLhhwpb), [Kinny Zimmer](https://open.spotify.com/artist/19zuiWthJYU6FCqnV4mJYC), [Tomb](https://open.spotify.com/artist/1Fr0Md8mOOg75V07Awv1G5), [Wroobel](https://open.spotify.com/artist/1ulO81VOUFqMTv0suMjXOS) | [SQNHEAD](https://open.spotify.com/album/4zWkYzMYNwvCwFAVloExPA) | 2:33 |
-| 25 | [RONDO](https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [MOWA WĘŻY](https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74) | 3:05 |
-| 26 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 25 | [IRL](https://open.spotify.com/track/0Mh7nzWn5BHJSenmaUSEt6) | [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [Mjonszu](https://open.spotify.com/artist/4h0vqFFUqp5yFQ7K3dyJD8) | [IRL](https://open.spotify.com/album/4Aimo27fuTWEN871U2TQ5H) | 2:31 |
+| 26 | [RONDO](https://open.spotify.com/track/6bj4cH8DseYmq9G1fQ8CZV) | [Asster](https://open.spotify.com/artist/5PJKbcbs3gm5tdePNo2eZX), [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [MOWA WĘŻY](https://open.spotify.com/album/0mN6XUkbzU1zwUzHYWbA74) | 3:05 |
 | 27 | [Jedna Nić](https://open.spotify.com/track/6IvxOx1K9mUKmtQCoo2QGx) | [Paluch](https://open.spotify.com/artist/462yq5vpZnO172v3nK9ibv), [Słoń](https://open.spotify.com/artist/0wm6v5GU6VbR1wtsm0YiTV), [Worek](https://open.spotify.com/artist/00o5eWNk5MqreQLbngsikb) | [Pośród Hien](https://open.spotify.com/album/7ihGsH0SFRZY213dSXRXMK) | 2:40 |
 | 28 | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/track/6zrAkmtbohurOiCKgWNBdO) | [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht) | [UZUMAKI FORMA OSTATECZNA](https://open.spotify.com/album/6qcbKRA7omOSjv0PoUVj79) | 3:18 |
 | 29 | [nóż motylkowy](https://open.spotify.com/track/2xCSrx8a1gZllp0jSFzsP2) | [Chivas](https://open.spotify.com/artist/1fZAAHNWdSM5gqbi9o5iEA), [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [nóż motylkowy](https://open.spotify.com/album/2rAT9XqHZFhEWgLfQeN50j) | 2:54 |

@@ -355,6 +355,32 @@
     },
     {
       "album": {
+        "name": "Bang",
+        "url": "https://open.spotify.com/album/3Co0FCldADeWNu51p7cOAu"
+      },
+      "artists": [
+        {
+          "name": "Avie",
+          "url": "https://open.spotify.com/artist/3HjE47TE0eAsXavKpEOp7i"
+        },
+        {
+          "name": "Delil",
+          "url": "https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX"
+        },
+        {
+          "name": "Zuna",
+          "url": "https://open.spotify.com/artist/2otUckChxWf2cp6UP2cD6e"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125307,
+      "name": "Bang",
+      "url": "https://open.spotify.com/track/2v7mskZy5FYH2r993PoZIU"
+    },
+    {
+      "album": {
         "name": "Barbie & Ken",
         "url": "https://open.spotify.com/album/59HrY7RS8ApXzqN287hUPL"
       },
@@ -482,7 +508,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 146086,
       "name": "Black Yamaha",
       "url": "https://open.spotify.com/track/3pI1UxUSaClJYRWEB2YRRE"
@@ -662,7 +688,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 163545,
       "name": "Caliente",
       "url": "https://open.spotify.com/track/03bHOG4F73Oincp72EK6Ew"
@@ -684,7 +710,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 130873,
       "name": "CANO",
       "url": "https://open.spotify.com/track/0n6nZnjzYnZFMnT7LrMUWA"
@@ -941,6 +967,28 @@
     },
     {
       "album": {
+        "name": "Durch die Nacht",
+        "url": "https://open.spotify.com/album/1p8BJWQQDUAwSkUA38lwuU"
+      },
+      "artists": [
+        {
+          "name": "Olexesh",
+          "url": "https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl"
+        },
+        {
+          "name": "MB",
+          "url": "https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159389,
+      "name": "Durch die Nacht",
+      "url": "https://open.spotify.com/track/2SOJytsIuNLOG49osyWLRd"
+    },
+    {
+      "album": {
         "name": "Egal",
         "url": "https://open.spotify.com/album/6ITpDSZZKmZejmS4EPMqPW"
       },
@@ -1062,7 +1110,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 140200,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/5xypiIRm7ILzbz0kze92u6"
@@ -1141,6 +1189,28 @@
     },
     {
       "album": {
+        "name": "Hab Bock",
+        "url": "https://open.spotify.com/album/3ed84leSokfmj11w7cedZ0"
+      },
+      "artists": [
+        {
+          "name": "Bonez MC",
+          "url": "https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6"
+        },
+        {
+          "name": "Trettmann",
+          "url": "https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130001,
+      "name": "Hab Bock",
+      "url": "https://open.spotify.com/track/6YRObRlRln6sRd7w83l67G"
+    },
+    {
+      "album": {
         "name": "Harascho",
         "url": "https://open.spotify.com/album/5NypcMUQwE0w87pO87JdYt"
       },
@@ -1160,6 +1230,28 @@
       "duration_ms": 145946,
       "name": "Harascho",
       "url": "https://open.spotify.com/track/69iBZUSh7Lo4g0qxYoXGov"
+    },
+    {
+      "album": {
+        "name": "HOME SWEET 7OUMA (feat. Noah Amano)",
+        "url": "https://open.spotify.com/album/2NdMP7LoIimiXfDYIHZmIc"
+      },
+      "artists": [
+        {
+          "name": "Skandal",
+          "url": "https://open.spotify.com/artist/6a4F3jPvr13nmI6JsPCRFV"
+        },
+        {
+          "name": "Noah Amano",
+          "url": "https://open.spotify.com/artist/21yEnf7kUistCxIaqg8DDb"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145321,
+      "name": "HOME SWEET 7OUMA (feat. Noah Amano)",
+      "url": "https://open.spotify.com/track/6Yu2mYtEDWjHq1GVojcw2o"
     },
     {
       "album": {
@@ -1446,7 +1538,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 132005,
       "name": "Leben lang",
       "url": "https://open.spotify.com/track/1u59aqUTvk0X1TxchtyyNZ"
@@ -1588,7 +1680,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 136914,
       "name": "Meine Augen",
       "url": "https://open.spotify.com/track/5MnpPgnUEiJMMa5WzbLOWe"
@@ -1606,10 +1698,28 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 152438,
       "name": "mhm...",
       "url": "https://open.spotify.com/track/3uf8kERpUgjU7cOGv1L4r3"
+    },
+    {
+      "album": {
+        "name": "Mi Amore",
+        "url": "https://open.spotify.com/album/0hyexfPnojjI5sGdPf3Mc8"
+      },
+      "artists": [
+        {
+          "name": "Veysel",
+          "url": "https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Mi Amore",
+      "url": "https://open.spotify.com/track/504M4AhCfHbmXMiXvgw8QY"
     },
     {
       "album": {
@@ -1847,6 +1957,24 @@
     },
     {
       "album": {
+        "name": "OOPS (I did it again)",
+        "url": "https://open.spotify.com/album/0BhylzQweb5SPvBbKadbao"
+      },
+      "artists": [
+        {
+          "name": "YAKARY",
+          "url": "https://open.spotify.com/artist/6cpOyiEibAAlRlUF4Kk3vI"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179146,
+      "name": "OOPS (I did it again)",
+      "url": "https://open.spotify.com/track/7sAUt67MZEhoJncmRDMY2S"
+    },
+    {
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/15DqWPxOLxClMpeKXhDGSP"
       },
@@ -2026,10 +2154,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 144644,
       "name": "Rabona",
       "url": "https://open.spotify.com/track/0Ysom9A3PT4NlpJ379ULN4"
+    },
+    {
+      "album": {
+        "name": "Rapstar",
+        "url": "https://open.spotify.com/album/0cFeIIO2YVok8hKk1HPjxd"
+      },
+      "artists": [
+        {
+          "name": "Amo",
+          "url": "https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh"
+        },
+        {
+          "name": "Nimo",
+          "url": "https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186255,
+      "name": "Rapstar",
+      "url": "https://open.spotify.com/track/57gjUsErLOYxTOqyiK6CVm"
     },
     {
       "album": {
@@ -2048,7 +2198,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 152142,
       "name": "REIN GEHEN",
       "url": "https://open.spotify.com/track/3BzqMLJnK8bHmlnKssixn5"
@@ -2188,7 +2338,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 148000,
       "name": "SOMMERNACHT",
       "url": "https://open.spotify.com/track/4biu85oMT4U4G4IDttEg6C"
@@ -2254,7 +2404,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 139234,
       "name": "Superstars",
       "url": "https://open.spotify.com/track/3dgOu83QnvkooEa4Jz2Msr"
@@ -2378,7 +2528,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 134528,
       "name": "VEMPA",
       "url": "https://open.spotify.com/track/3pPMgoouYtezLiBTEeL9be"

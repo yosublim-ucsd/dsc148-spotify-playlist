@@ -4,7 +4,7 @@
 
 > Relaxing Jazz on a warm summer day.
 
-315 songs - 19 hr 57 min
+317 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/2G9r3EX4EgIh4qjLrCepoi) | [Tim Donnelly Band](https://open.spotify.com/artist/2kCXMeRGZyhizaH79rvDd8) | [Sunny](https://open.spotify.com/album/1Bz1c2Imdi7aQ3tf8y2ZGe) | 2:31 | 2022-02-16 | 2023-05-12 |
 | [Midnight Lines](https://open.spotify.com/track/4sS86z3NqZnfE4RI81ymSV) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:43 | 2022-05-17 | 2024-03-22 |
 | [Midnight Mirage](https://open.spotify.com/track/4ZkJ2ihhr5ahvIYPLbRJr4) | [KTZ Players](https://open.spotify.com/artist/5IFXbDEfoLijwZB1YB2bTe) | [Midnight Mirage](https://open.spotify.com/album/2AyLd6evRaAcYOuNI0HV9L) | 2:55 | 2024-01-05 |  |
+| [Mind Blowing](https://open.spotify.com/track/6akKHUQ9cC4OY7dKQSCrr2) | [Frank Guardiola](https://open.spotify.com/artist/5gcPk6Qs7bOVFQDwH5xRcl) | [Mind Blowing](https://open.spotify.com/album/0nGXPUr5zgqDjkk0hn5mfK) | 3:47 | 2024-09-09 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-05-10 | 2024-07-23 |
 | [Misty](https://open.spotify.com/track/78K54LEyjSttk9UTE8PR9r) | [Steve Blumenthal](https://open.spotify.com/artist/59z8p2IU8agbAddmgLVAXE) | [Misty](https://open.spotify.com/album/7vEoSNuCi4Hh899wvGY7Ct) | 4:12 | 2022-05-31 |  |
 | [Mo' Better Blues](https://open.spotify.com/track/3CGqAtOKUe4pn3j9kOKp4J) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Mo' Better Blues](https://open.spotify.com/album/0hxR5dlIVm8EwblNwNGzM4) | 3:50 | 2022-02-16 | 2023-05-12 |
@@ -194,7 +195,7 @@
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-02-16 |  |
 | [Once or Twice](https://open.spotify.com/track/3gLgRL9RNCfgYqSg9ipjcH) | [Garry Cooper Trio](https://open.spotify.com/artist/3cgKynIVkHB5ZWckvrDE3Q) | [Once or Twice](https://open.spotify.com/album/1gTsqipGHIgsom3Dfmgn5M) | 3:34 | 2023-05-25 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/0NKZA27JmLi1EHOwwLsnGf) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [A Sleepin' Bee](https://open.spotify.com/album/52OV3fqwCfKyObuI4KkmbF) | 3:39 | 2022-02-16 | 2022-06-15 |
-| [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 |  |
+| [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 | 2024-09-10 |
 | [Passing Time](https://open.spotify.com/track/1tOHfIMejiASTjsmkvH704) | [Sean Murphy](https://open.spotify.com/artist/3tYPwi8YXV9PTnt445WJKq) | [Passing Time](https://open.spotify.com/album/48s0tTqeqhWSHA24zIv1pL) | 3:05 | 2023-08-31 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-02-16 |  |
 | [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-02-16 | 2023-06-22 |
@@ -212,6 +213,7 @@
 | [Say What You Mean](https://open.spotify.com/track/2H61wQkJnlml24lEvefckV) | [Antonio Mendez Group](https://open.spotify.com/artist/631XePl2r4gmsvDUTJgxqj) | [Say What You Mean](https://open.spotify.com/album/47aVJWrtJZNVxg9Gwa5T9w) | 3:21 | 2024-08-06 |  |
 | [Schnitz n´Schniggles](https://open.spotify.com/track/3BoKHF4H6OG9lSWKa1Scq3) | [Jack Rosenbaum](https://open.spotify.com/artist/4FJ62CBNJrKWADUOl6pqnb) | [Schnitz n´Schniggles](https://open.spotify.com/album/1ObA1O7H3uDG6kV6CROeVw) | 3:39 | 2022-02-16 | 2023-05-12 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-06-08 |  |
+| [September Waltz](https://open.spotify.com/track/3duqLrVlkcoxAyoSKGDKBB) | [Trio Rosa](https://open.spotify.com/artist/74qiJSjWdILIXAVQ99np5q) | [September Waltz](https://open.spotify.com/album/2vnRJ1VuTzINTSqd4NaPGK) | 3:54 | 2024-09-09 |  |
 | [Serendipity](https://open.spotify.com/track/3KonwJcO3xhHuNq49osUSD) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Serendipity](https://open.spotify.com/album/5TvTwOMVlaOmHcHvInGlXg) | 3:25 | 2024-07-22 |  |
 | [Serenity](https://open.spotify.com/track/7E4vT2YkHsZ5Jwr0lgTqmq) | [Erik Vårdstedt](https://open.spotify.com/artist/4PTKCoxmZgZigpelRdhQgY) | [Serenity](https://open.spotify.com/album/3WI8Ix0CZWg5BxLD8ilzif) | 3:05 | 2024-08-26 |  |
 | [Shadows of Yesterday's Love](https://open.spotify.com/track/7C8S8C0QkRz4uxDsQILZU1) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Shadows of Yesterday's Love](https://open.spotify.com/album/28305LMSGEhjhJahNqWJc7) | 3:42 | 2024-07-01 |  |
@@ -295,7 +297,7 @@
 | [Volare](https://open.spotify.com/track/5wrPY0DoczKtiaqLtozTmc) | [Ellie Johnson Trio](https://open.spotify.com/artist/7a6Eji3kBivaMHQo3Yk6Zx) | [Street of Dreams](https://open.spotify.com/album/74J2vRQmnkZpwsswq1pFCT) | 3:13 | 2022-02-16 |  |
 | [Walking By](https://open.spotify.com/track/0CtufKbrnk06oIhgAxqY3H) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [Walking By](https://open.spotify.com/album/3D0p0Nd2uLQVShpQcVIYiJ) | 2:47 | 2024-08-06 |  |
 | [Walking on Clouds](https://open.spotify.com/track/6R1XRia3u8IRBaHs6LBBGr) | [Holborns](https://open.spotify.com/artist/2gC8FqAcOqWElBDNVIHbRm) | [Walking On Clouds](https://open.spotify.com/album/6hH88gvmgvTtEIsLVdarSD) | 2:02 | 2022-02-16 |  |
-| [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2024-01-05 |  |
+| [Was It Me?](https://open.spotify.com/track/6Q0qioDylmmGPhj2s7qo4q) | [Al Fowler Trio](https://open.spotify.com/artist/5CerxxaCrkjDa5ShjsTwcX) | [Was It Me?](https://open.spotify.com/album/2NBKYZxvxE535vWtPzIlHv) | 4:21 | 2024-01-05 | 2024-09-10 |
 | [Watch What Happens](https://open.spotify.com/track/3C8LKleDein4hf61QPoWg5) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [Crossways](https://open.spotify.com/album/5wS9f4r6IGfxyluF1ykXtG) | 2:57 | 2022-06-08 |  |
 | [We Tried so Hard](https://open.spotify.com/track/6YBKC1DBIvkv8U1stTIIgl) | [Gus Anderson](https://open.spotify.com/artist/6wosCo4oHuuIP2L5WxKaaX) | [We Tried so Hard](https://open.spotify.com/album/4OAO7Qe0LnzusofD7rIOQt) | 3:36 | 2024-09-02 |  |
 | [We Will Know](https://open.spotify.com/track/5oEDH73owpTgdLTlPxdiUo) | [Trio Serena](https://open.spotify.com/artist/0rdaxUS2UanmnFN66x4Y8Z) | [We Will Know](https://open.spotify.com/album/4WzRuH8DoD4MoM5hcXN3Qy) | 3:46 | 2024-06-17 | 2024-08-20 |
@@ -303,7 +305,7 @@
 | [What A Little Moonlight Can Do](https://open.spotify.com/track/33sW1w6GqKgSolhokSdhpd) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [What A Little Moonlight Can Do](https://open.spotify.com/album/4skOjbMtwpf1zAZHyBanTN) | 2:33 | 2022-08-10 |  |
 | [What Is This Thing Called Love](https://open.spotify.com/track/3cXOEALLyoASwgS6a57sz3) | [David Robinson Trio](https://open.spotify.com/artist/30yWMvpb5wptJ24GUL7gzj) | [Milestones](https://open.spotify.com/album/02m2hFXOv5XVJ0Z22llXLh) | 3:18 | 2022-02-16 | 2024-08-13 |
 | [What's Life Without You](https://open.spotify.com/track/4bb1bddVF7iDn4Db0bY4Ic) | [Mr\. Right Time](https://open.spotify.com/artist/0WPPJlHG7B9doyzIEy69LQ) | [In My Own Small World](https://open.spotify.com/album/1nEShi0S3yWyDvXW6evjgl) | 4:18 | 2022-06-28 |  |
-| [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-02-16 |  |
+| [When I Fall In Love](https://open.spotify.com/track/7wAFHu3ueBLEebC5NEOk9z) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [When I Fall In Love](https://open.spotify.com/album/6rCnmJjhEashCYVazkSK7g) | 4:49 | 2022-02-16 | 2024-09-10 |
 | [When I Know It's Right](https://open.spotify.com/track/1KLwReg9QybpPytHMDMfCv) | [The Grace Smith Gang](https://open.spotify.com/artist/3wyD1yWbuRCI7JevgoI5Cv) | [When I Know It's Right](https://open.spotify.com/album/0YGCo4WQVSqpcYRkCWwELM) | 2:03 | 2022-02-16 | 2022-05-04 |
 | [When Sunny Gets Blue](https://open.spotify.com/track/0JcgHL8tNphYe7Q8nPkYtV) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [When Sunny Gets Blue](https://open.spotify.com/album/1BIRyHurwWkR2PiyW9Q54z) | 5:17 | 2022-02-16 | 2024-08-20 |
 | [When You Come Home](https://open.spotify.com/track/1TlWfTGEALeyG39A9qHokR) | [Midnight Trio](https://open.spotify.com/artist/6tlN3eXUM981BWTAHN27bv) | [When You Come Home](https://open.spotify.com/album/40kyT8n1MAUF56KmpkQeqs) | 3:36 | 2024-02-09 |  |

@@ -840,7 +840,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 184349,
       "name": "Bhadak",
       "url": "https://open.spotify.com/track/6upU8Uzp33gRSOdQC7K2ao"
@@ -4124,6 +4124,28 @@
       "duration_ms": 182399,
       "name": "Not Afraid",
       "url": "https://open.spotify.com/track/6NiI4lT0odRC70uRJ4Bg77"
+    },
+    {
+      "album": {
+        "name": "Number Plate",
+        "url": "https://open.spotify.com/album/3najCBsi5OB1mwg3pTVfm5"
+      },
+      "artists": [
+        {
+          "name": "Sahil Dhull",
+          "url": "https://open.spotify.com/artist/1YhZbHSLY4DwUzlennljq8"
+        },
+        {
+          "name": "Shine",
+          "url": "https://open.spotify.com/artist/0tSuiGWMqg0KzeweQKeiIM"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177857,
+      "name": "Number Plate",
+      "url": "https://open.spotify.com/track/7nNxDOSyABffGcaehhncXG"
     },
     {
       "album": {

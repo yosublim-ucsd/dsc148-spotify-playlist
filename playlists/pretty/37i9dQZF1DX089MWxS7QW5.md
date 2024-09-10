@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: GEMINI\(제미나이\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,081 likes - 68 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,100 likes - 68 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX089MWxS7QW5.md) - [plain]
 | 37 | [SLOWDOWN](https://open.spotify.com/track/3eQMPW1KsaObLtP9zJHePx) | [ODD Cloud](https://open.spotify.com/artist/0EsmRvqVdlPTIwkpOLw3Gi) | [SLOWDOWN](https://open.spotify.com/album/6uqzxFO5MdPpZKfBoPSyoB) | 3:16 |
 | 38 | [bluelemonhighball](https://open.spotify.com/track/5NUrBAj2bMt5VzagE9ilPj) | [YUWOO](https://open.spotify.com/artist/2pEUm9NMo9GuvmiO0ZS4uC) | [bluelemonhighball](https://open.spotify.com/album/3wSWnlXY6qWAN8F7bg0Wpv) | 3:05 |
 | 39 | [beam](https://open.spotify.com/track/1Q8uOWCxzVBW4GIWBT9YCt) | [b!ni](https://open.spotify.com/artist/1DfPDEvUAWsURAKZKL9JvU) | [beam](https://open.spotify.com/album/4ehaX1UjNgJkzwN3EmVKvc) | 2:32 |
-| 40 | [BAD \(Feat\. Moon Sujin, Joh!\)](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 |
+| 40 | [BAD](https://open.spotify.com/track/7EOywRvwsJM1XEIOpCuK0V) | [Minit](https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Joh!](https://open.spotify.com/artist/13Gmz7fhew38A0i3bkkgp6) | [BAD](https://open.spotify.com/album/15kWx8KsnrUBHl2zynDpOD) | 3:12 |
 | 41 | [Old Flame](https://open.spotify.com/track/5RQreDiOgjXeIHbIaZaipY) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [Old Flame](https://open.spotify.com/album/7iFKkuuz5IPEoiGkor2AyX) | 2:09 |
 | 42 | [Nirvana Blues](https://open.spotify.com/track/7Kg4EWw7TSiXAczXDQfhSn) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [YIN](https://open.spotify.com/album/3SKAMCBO0FkSyKIO4aqsIs) | 2:54 |
 | 43 | [In My Place](https://open.spotify.com/track/3YpqXTPxHMazmpUf34XTr7) | [Jane B](https://open.spotify.com/artist/1zszrZ7zpOhqyjJ0Gn6de1) | [DESIRE](https://open.spotify.com/album/5dQaplWsYS1xh6LRUAq6GW) | 2:44 |

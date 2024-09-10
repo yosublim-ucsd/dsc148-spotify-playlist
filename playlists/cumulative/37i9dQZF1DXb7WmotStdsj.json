@@ -2800,7 +2800,7 @@
       ],
       "date_added": "2022-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 298032,
       "name": "Nakareen El Khir",
       "url": "https://open.spotify.com/track/73dNejNw458nkrl9ZxZq36"
@@ -3350,6 +3350,28 @@
       "duration_ms": 281182,
       "name": "Wahda Bwahda",
       "url": "https://open.spotify.com/track/4Ws6cRdfazsptOVi6lS25W"
+    },
+    {
+      "album": {
+        "name": "Waldiya Samholi",
+        "url": "https://open.spotify.com/album/7zqPD1RWksNJyZ2kLuwiW6"
+      },
+      "artists": [
+        {
+          "name": "Abdou Gambetta",
+          "url": "https://open.spotify.com/artist/1tK2o8xfVFCjGVs41FWhT2"
+        },
+        {
+          "name": "Kader Zakzouk",
+          "url": "https://open.spotify.com/artist/2los1xR6ofFqCl4duii0xA"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296000,
+      "name": "Waldiya Samholi",
+      "url": "https://open.spotify.com/track/2vhiaigd2I1xDgZqoEmaTr"
     },
     {
       "album": {

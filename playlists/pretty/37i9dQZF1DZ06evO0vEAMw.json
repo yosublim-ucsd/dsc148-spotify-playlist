@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 81521,
+  "num_followers": 81560,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAACSG1ASSBZxvZBQycWieHFM",
+  "snapshot_id": "ZtzpAAAAAADwofk+1+Z7yXq/hot7UVm4",
   "tracks": [
     {
       "added_at": null,
@@ -1003,26 +1003,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ke Star (feat. Virgo Deep) [Remix]",
-        "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
+        "name": "Deal with It",
+        "url": "https://open.spotify.com/album/73chBzty2A658sLKCYy54h"
       },
       "artists": [
         {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Virgo Deep",
-          "url": "https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM"
         }
       ],
-      "duration_ms": 328766,
-      "name": "Ke Star (feat. Virgo Deep) - Remix",
-      "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
+      "duration_ms": 217154,
+      "name": "Ride for You",
+      "url": "https://open.spotify.com/track/5SwcKxSMFVxftpfHclPc03"
     },
     {
       "added_at": null,

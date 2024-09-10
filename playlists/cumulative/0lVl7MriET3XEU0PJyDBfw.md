@@ -2,7 +2,7 @@
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Tech House therapy for the dance floor \| Submit: houseiumpromo@gmail.com
+> Your Tech House session for the dance floor \| Submit: houseiumpromo@gmail.com
 
 315 songs - 16 hr 25 min
 

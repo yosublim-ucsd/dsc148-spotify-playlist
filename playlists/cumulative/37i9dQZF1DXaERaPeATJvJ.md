@@ -2,9 +2,9 @@
 
 ### [Memorindie](https://open.spotify.com/playlist/37i9dQZF1DXaERaPeATJvJ)
 
-> Nostalgia kancah musik Independen era 90an hingga 2000an\. \#IndieLokaldiSpotify Cover: Float
+> Nostalgia kancah musik Independen era 90an hingga 2000an\. Cover: Zeke and the Popo
 
-170 songs - 11 hr 46 min
+172 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Biara](https://open.spotify.com/track/2G38QfmlWGmAnMISsx6EeV) | [Sieve](https://open.spotify.com/artist/6UtGpQD2GgpZBkU3WlqcJB) | [Biara](https://open.spotify.com/album/3v1Q7EALIjc7mB1PRVfDTQ) | 2:27 | 2021-11-25 |  |
 | [Biru](https://open.spotify.com/track/3YQMGuD8YeCFbqoPOzqQgq) | [Barefood](https://open.spotify.com/artist/6UZs7JW1FeeIoYIBAUsLfM) | [Milkbox](https://open.spotify.com/album/0sw7BNUNlQBHNR5TrJbGwe) | 7:42 | 2023-11-24 | 2024-03-22 |
 | [Buka](https://open.spotify.com/track/5ULbGJ2djrEH6h58E3K0gj) | [Pure Saturday](https://open.spotify.com/artist/0rewGqZI1o6eLWEgWo4Hyn) | [Elora](https://open.spotify.com/album/2lkjT831tn2hgtZKqXkUZM) | 4:04 | 2024-04-04 |  |
+| [C Song](https://open.spotify.com/track/1vLQT4DkAANoExYQVi80uQ) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Space in the Headlines](https://open.spotify.com/album/64asUZz3O4s8S7HK3Se1kW) | 5:16 | 2024-09-09 |  |
 | [Castillo Del Arena](https://open.spotify.com/track/6YCLE3nQx0MwamzytmxDDv) | [Rock N Roll Mafia](https://open.spotify.com/artist/6EK3t5PY9iBCzjujQFwYVc) | [Prodigal](https://open.spotify.com/album/1Nu4Gmcl5eWNxTdgBq3rV7) | 4:32 | 2024-03-22 | 2024-04-05 |
 | [Cermin](https://open.spotify.com/track/3QqEFHU2gPzV0nq277y9fK) | [WONDERGEL](https://open.spotify.com/artist/7kqRQuWrQEUJECtxamxmr3) | [Wondergel](https://open.spotify.com/album/0ljj3xlOQw965rlOFF5xnJ) | 4:21 | 2022-04-14 |  |
 | [Confession, Pt\. 2](https://open.spotify.com/track/1KJDoezH79kJuyYIjOaD4J) | [Media Distorsi](https://open.spotify.com/artist/0lPD0oAckOuHRAq9CsxqEz), [Maria Claudine](https://open.spotify.com/artist/2dQVm4j9XcZF1ZbCGT55mF) | [Chapter 01: The Beginning](https://open.spotify.com/album/34GK92dwjZYXYPza1Uettt) | 5:56 | 2021-11-25 |  |
@@ -100,6 +101,7 @@
 | [Menjadi Dewasa](https://open.spotify.com/track/0GesyQ4yRafkQoXuA1VMcT) | [VOX](https://open.spotify.com/artist/0T90XEl0OLRsdEmE42DNLX) | [Pada Awalnya](https://open.spotify.com/album/5MHkgIcCWTujqjrwqgLZcq) | 4:22 | 2021-11-25 |  |
 | [Merah](https://open.spotify.com/track/3lJJDeALwWMVn5KzOBuFue) | [Monkey to Millionaire](https://open.spotify.com/artist/3CvmuoTHGPRoQLO4N64C98) | [Lantai Merah](https://open.spotify.com/album/51pYHM3rQTWuN1wvIyknsi) | 3:52 | 2022-05-12 |  |
 | [Mesin Penenun Hujan](https://open.spotify.com/track/6WObOPPp4yKnwiL6abeA35) | [Frau](https://open.spotify.com/artist/57aIUWdoh4cKqfr78UksRS) | [Starlit Carousel](https://open.spotify.com/album/7xqaytUNMT0NZ14KMYAI1M) | 3:26 | 2021-11-25 |  |
+| [Mighty Love](https://open.spotify.com/track/4JvSk0QTgPWrZLki45fraa) | [Zeke And The Popo](https://open.spotify.com/artist/1NpRXY8edspDqltxFmbZ4j) | [Space in the Headlines](https://open.spotify.com/album/64asUZz3O4s8S7HK3Se1kW) | 3:40 | 2024-09-09 |  |
 | [Molly May](https://open.spotify.com/track/2S4YWdUecq76SZTuwh3mQb) | [The Marsh Kids](https://open.spotify.com/artist/5Q85nVKkadZn0tbUIrAze1) | [The Many Failings Of Bugsy Moonblood](https://open.spotify.com/album/4PdaE0ri4nvLd68hJ4aiBg) | 3:51 | 2024-03-22 | 2024-04-05 |
 | [Musim Ujan](https://open.spotify.com/track/6RbpP5uh7i6lqyhey1vXj2) | [Sore](https://open.spotify.com/artist/175PwHedjMlt2ujXwfX64A) | [Sorealist](https://open.spotify.com/album/2Mp0Jvz37IpwQf4bNSiqwU) | 4:47 | 2024-03-22 | 2024-04-05 |
 | [My Little Story](https://open.spotify.com/track/3nKRkZdG3jV15pkHfy9SB9) | [Dear Nancy](https://open.spotify.com/artist/74An0zaPQxQ2PeiPyoSeXQ) | [My Little Story](https://open.spotify.com/album/6CF9WbcbO7k338T2e3g9iG) | 4:26 | 2021-11-25 |  |

@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Eye of the Beholder",
+        "url": "https://open.spotify.com/album/6UexEudGbmVE1YjxSXwjhH"
+      },
+      "artists": [
+        {
+          "name": "Lukas Auer",
+          "url": "https://open.spotify.com/artist/1T58UK6Ao6O1qWahGTyfAu"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136250,
+      "name": "Eye of the Beholder",
+      "url": "https://open.spotify.com/track/1YzAdjRV5vZFLkCqPS86I5"
+    },
+    {
+      "album": {
         "name": "The Insider",
         "url": "https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX"
       },

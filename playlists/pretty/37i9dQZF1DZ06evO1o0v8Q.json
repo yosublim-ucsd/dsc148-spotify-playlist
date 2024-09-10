@@ -1,12 +1,12 @@
 {
-  "description": "This is: Turnstile. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 24589,
+  "description": "This is Turnstile. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 24607,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAABBWX0YrjI6j6bvLPLuQfw3",
+  "snapshot_id": "ZtzpAAAAAABPsRB0h7RJrbyL29Io69yg",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 194520,
-      "name": "Generator",
-      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
+      "duration_ms": 124880,
+      "name": "I Don't Wanna Be Blind",
+      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
     },
     {
       "added_at": null,
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 124880,
-      "name": "I Don't Wanna Be Blind",
-      "url": "https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat"
+      "duration_ms": 194520,
+      "name": "Generator",
+      "url": "https://open.spotify.com/track/04vAjpZ2ppNIFcxq9bqj39"
     },
     {
       "added_at": null,
@@ -227,8 +227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pressure to Succeed",
-        "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
+        "name": "Step to Rhythm",
+        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
       },
       "artists": [
         {
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 63251,
-      "name": "The Things You Do",
-      "url": "https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0"
+      "duration_ms": 197433,
+      "name": "Keep It Moving",
+      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Step to Rhythm",
-        "url": "https://open.spotify.com/album/7uLGjaXnnvZCRogNmNEJwz"
+        "name": "Pressure to Succeed",
+        "url": "https://open.spotify.com/album/4NyunR1H9oTh53OTEktFBO"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 197433,
-      "name": "Keep It Moving",
-      "url": "https://open.spotify.com/track/4VVnprM3eR1hlac2ulGzjv"
+      "duration_ms": 63251,
+      "name": "The Things You Do",
+      "url": "https://open.spotify.com/track/7oSetY84ZklreUXX4eFdP0"
     },
     {
       "added_at": null,

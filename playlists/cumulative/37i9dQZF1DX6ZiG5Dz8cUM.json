@@ -3907,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Love Stories",
+        "url": "https://open.spotify.com/album/58QAu607aLpamQZfHDw0mY"
+      },
+      "artists": [
+        {
+          "name": "Jennie Reigen",
+          "url": "https://open.spotify.com/artist/4gefXT9y8hdGtxBmkHN2HA"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147539,
+      "name": "Love Stories",
+      "url": "https://open.spotify.com/track/1YkTLEO57RnNZDXQ699rMh"
+    },
+    {
+      "album": {
         "name": "Love To Be Happy",
         "url": "https://open.spotify.com/album/4by10y5bBBZtlfRzUicL60"
       },
@@ -5510,7 +5528,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 256713,
       "name": "Sander",
       "url": "https://open.spotify.com/track/07VvD1Wz8hGKE2n6SEApWP"
@@ -5550,7 +5568,7 @@
       ],
       "date_added": "2024-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 225100,
       "name": "Shadow Play",
       "url": "https://open.spotify.com/track/1VLxIOjukOrzBwqL6mp9Q3"
@@ -7465,6 +7483,24 @@
     },
     {
       "album": {
+        "name": "When You're Near",
+        "url": "https://open.spotify.com/album/1AfSswzeUZp98XWmslxzI6"
+      },
+      "artists": [
+        {
+          "name": "Midtown Players",
+          "url": "https://open.spotify.com/artist/1GRABQUFydUxNHGumW35mO"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247250,
+      "name": "When You're Near",
+      "url": "https://open.spotify.com/track/0DTowMkNIYpSZpccbahA7f"
+    },
+    {
+      "album": {
         "name": "Go! (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
       },
@@ -7512,7 +7548,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 233780,
       "name": "Whitsunday Islands",
       "url": "https://open.spotify.com/track/1zKGVPC73CCFAyTF5Hsyqy"

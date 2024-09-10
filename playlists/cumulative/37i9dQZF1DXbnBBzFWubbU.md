@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-142 songs - 9 hr 23 min
+143 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Dilbar](https://open.spotify.com/track/3guNmy1Hk82Kssjzui0hiL) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Dilbar](https://open.spotify.com/album/6oZ2HA0hRgJw2jsoW9bERD) | 2:48 | 2023-08-18 |  |
 | [Dola re Dola](https://open.spotify.com/track/1R0YUQ48qQQXFd9dLYifQw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Dola re Dola](https://open.spotify.com/album/4Ih0jp3d02bw3BlhzoS1le) | 2:05 | 2024-02-13 |  |
 | [Doya](https://open.spotify.com/track/3nX9vs2V0CqAsqEkp5Vhb2) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Doya](https://open.spotify.com/album/4MU5QDNOKxdUM58D4U8ybl) | 3:24 | 2023-08-18 |  |
+| [Drama](https://open.spotify.com/track/0CzmJDWIqkWL8GFsFh15Hw) | [Umair Butt](https://open.spotify.com/artist/4E2wX4DFQFhlLyVzRw0C1P), [Maizu](https://open.spotify.com/artist/4KB86rl9F9MdgIq3ilN6Ai) | [Drama](https://open.spotify.com/album/6ToiGbp7UpGG8LNWJNNN6l) | 2:29 | 2024-09-09 |  |
 | [Dua](https://open.spotify.com/track/4u92oAH7FQXEeoXTOFZjRr) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Dua](https://open.spotify.com/album/72JN1BC0jTu6H8Dnrw8txu) | 3:46 | 2023-09-08 |  |
 | [Dunya](https://open.spotify.com/track/29YBMSU7BgLmTm7rCLtGIy) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Mitika Kanwar](https://open.spotify.com/artist/4sjw8DSxhdPiJkGbtAobEg) | [TURBO](https://open.spotify.com/album/2Rnc46rrppQJeRnaK80GFP) | 3:29 | 2023-10-03 |  |
 | [Eastern Jam](https://open.spotify.com/track/4WygV70LzaCA8FgOcpN1w4) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 3:56 | 2023-08-18 |  |

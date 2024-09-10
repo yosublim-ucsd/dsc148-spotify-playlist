@@ -1,6 +1,6 @@
 {
   "description": "Towa Bird takes over, highlighting some of her favorite LGBTQIA+ indie/alternative/rock artists.",
-  "num_followers": 172236,
+  "num_followers": 172308,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
@@ -615,6 +615,26 @@
     {
       "added_at": "2024-06-21 04:00:00",
       "album": {
+        "name": "if i were a fish (feat. Olivia Barton)",
+        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
+      },
+      "artists": [
+        {
+          "name": "corook",
+          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
+        },
+        {
+          "name": "Olivia Barton",
+          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
+        }
+      ],
+      "duration_ms": 141903,
+      "name": "if i were a fish (feat. Olivia Barton)",
+      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
         "name": "GIRL$",
         "url": "https://open.spotify.com/album/5PiG8SxQgviIgBa3Pb3Shn"
       },
@@ -635,26 +655,6 @@
       "duration_ms": 132999,
       "name": "GIRL$",
       "url": "https://open.spotify.com/track/1VKDQlo1k2ObpufovXHagN"
-    },
-    {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "if i were a fish (feat. Olivia Barton)",
-        "url": "https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        },
-        {
-          "name": "Olivia Barton",
-          "url": "https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1"
-        }
-      ],
-      "duration_ms": 141903,
-      "name": "if i were a fish (feat. Olivia Barton)",
-      "url": "https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t"
     },
     {
-      "added_at": "2024-06-21 15:51:27",
-      "album": {
-        "name": "Little Rope",
-        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
-      },
-      "artists": [
-        {
-          "name": "Sleater-Kinney",
-          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
-        }
-      ],
-      "duration_ms": 224840,
-      "name": "Say It Like You Mean It",
-      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "To Be Yours",
@@ -987,6 +971,22 @@
       "duration_ms": 211782,
       "name": "To Be Yours",
       "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
+    },
+    {
+      "added_at": "2024-06-21 15:51:27",
+      "album": {
+        "name": "Little Rope",
+        "url": "https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM"
+      },
+      "artists": [
+        {
+          "name": "Sleater-Kinney",
+          "url": "https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB"
+        }
+      ],
+      "duration_ms": 224840,
+      "name": "Say It Like You Mean It",
+      "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
     },
     {
       "added_at": "2024-06-21 04:00:00",
@@ -1233,22 +1233,6 @@
       "url": "https://open.spotify.com/track/4iRtrvu2GVOCImocv42Wz2"
     },
     {
-      "added_at": "2024-06-21 04:00:00",
-      "album": {
-        "name": "Girls Make Me Wanna Die (No Rome Remix)",
-        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
-      },
-      "artists": [
-        {
-          "name": "The Aces",
-          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
-        }
-      ],
-      "duration_ms": 135297,
-      "name": "Girls Make Me Wanna Die",
-      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
-    },
-    {
       "added_at": "2024-06-21 15:51:27",
       "album": {
         "name": "Name Your Sorrow",
@@ -1263,6 +1247,22 @@
       "duration_ms": 230984,
       "name": "Heavy Pour",
       "url": "https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m"
+    },
+    {
+      "added_at": "2024-06-21 04:00:00",
+      "album": {
+        "name": "Girls Make Me Wanna Die (No Rome Remix)",
+        "url": "https://open.spotify.com/album/6NHWnrF8FvVeo56ZqyKVaX"
+      },
+      "artists": [
+        {
+          "name": "The Aces",
+          "url": "https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe"
+        }
+      ],
+      "duration_ms": 135297,
+      "name": "Girls Make Me Wanna Die",
+      "url": "https://open.spotify.com/track/0JVdbliSQkwLXsLpvNhFb1"
     }
   ],
   "unique_name": "Alternative Pride",

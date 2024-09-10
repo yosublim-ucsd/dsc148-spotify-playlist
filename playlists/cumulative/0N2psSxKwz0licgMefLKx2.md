@@ -2,9 +2,9 @@
 
 ### [New Country Hits \(Country Life\)](https://open.spotify.com/playlist/0N2psSxKwz0licgMefLKx2)
 
-> From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone
+> From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone
 
-227 songs - 12 hr 13 min
+228 songs - 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Flip a Coin](https://open.spotify.com/track/3fNV0e9te9ZJeGEvSPR6N5) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [No Better Time](https://open.spotify.com/album/0RrvvsNs4lpXuf7VHI8z4s) | 3:38 | 2023-11-03 | 2024-03-02 |
 | [For What It's Worth](https://open.spotify.com/track/7wvx4oBOAvMhWVITi9lY46) | [Hootie & The Blowfish](https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof) | [For What It's Worth](https://open.spotify.com/album/6eaCoCGomz1EEEtiIRgywz) | 2:42 | 2024-05-17 | 2024-06-18 |
 | [Free Like](https://open.spotify.com/track/1pRvzjKNkW5DY1ycqAftIR) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Free Like](https://open.spotify.com/album/3oLm7KrYF4ZMdqlialglaN) | 2:49 | 2024-07-19 |  |
+| [Friday Night Heartbreaker](https://open.spotify.com/track/0oJhcYnFy6wx36jSFaDGuM) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Friday Night Heartbreaker](https://open.spotify.com/album/0FGySZHkb5MORFp5BG9L8z) | 3:25 | 2024-09-09 |  |
 | [Gather Round](https://open.spotify.com/track/6Ca4hnG703NUIjAQAdhB68) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Gather Round](https://open.spotify.com/album/6Xy0LHeThG8pU58oy9d28x) | 2:50 | 2023-11-03 | 2024-01-27 |
 | [Gatlinburg](https://open.spotify.com/track/1tTU4d2Ke6JaGMZcrIjeBs) | [Lauren Watkins](https://open.spotify.com/artist/4gF2OluaMxcC4qrGbPaB7S) | [The Heartbroken Record](https://open.spotify.com/album/5JGn3VCsHcB2xaqY5bdclK) | 2:46 | 2024-06-21 | 2024-08-25 |
 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 | 2023-11-03 | 2024-01-27 |

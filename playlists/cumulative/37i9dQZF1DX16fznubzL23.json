@@ -188,7 +188,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 157160,
       "name": "Align (Sorry)",
       "url": "https://open.spotify.com/track/5X0Zgtq35C1aaqySYuIWua"
@@ -344,7 +344,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-27",
+      "date_removed": null,
       "duration_ms": 176850,
       "name": "Bad To Me",
       "url": "https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j"
@@ -486,7 +486,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-28",
+      "date_removed": null,
       "duration_ms": 198039,
       "name": "Breaking The Yoke Of Love",
       "url": "https://open.spotify.com/track/4Qpilnxi20LRgYr3a9iOJA"
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-02",
+      "date_removed": null,
       "duration_ms": 179454,
       "name": "Feel Different",
       "url": "https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN"
@@ -1124,7 +1124,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-06",
+      "date_removed": null,
       "duration_ms": 141176,
       "name": "Fire Wood",
       "url": "https://open.spotify.com/track/4z7OibjcVz9QvNEYywHynf"
@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "adedamola",
+        "url": "https://open.spotify.com/album/0mxle2p72zngkE9p4KAE0A"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161086,
+      "name": "hell and back",
+      "url": "https://open.spotify.com/track/1v9AZkRJoirN00lAC3Pvd8"
+    },
+    {
+      "album": {
         "name": "Home - A COLORS SHOW",
         "url": "https://open.spotify.com/album/5ckAHp1ePv5NQvC6dN7hPo"
       },
@@ -1572,7 +1590,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 147897,
       "name": "I want you back",
       "url": "https://open.spotify.com/track/0lkx4bG03A3dHArBnlhBVx"
@@ -2262,7 +2280,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 166520,
       "name": "Mennye Den (feat. O'Kenneth & Beeztrap KOTM)",
       "url": "https://open.spotify.com/track/1b3NxXPYKWjdJywn03rCqI"
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-07",
+      "date_removed": null,
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 147939,
       "name": "MY STORY",
       "url": "https://open.spotify.com/track/4B4RmY7fkH6HnUM4bXBo1r"
@@ -3256,7 +3274,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-02",
+      "date_removed": null,
       "duration_ms": 172800,
       "name": "Relationship",
       "url": "https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4"
@@ -3450,7 +3468,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 180630,
       "name": "Shoulda, Coulda, Woulda",
       "url": "https://open.spotify.com/track/1qj6ASbEi8nIPHZF7IKNoN"
@@ -3786,7 +3804,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 163925,
       "name": "Tragic",
       "url": "https://open.spotify.com/track/2kGGzpFQPLz0NtgCHFo9AI"
@@ -3804,7 +3822,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 152551,
       "name": "truth",
       "url": "https://open.spotify.com/track/4O4QfPeWZPiOMZSpLudhUW"

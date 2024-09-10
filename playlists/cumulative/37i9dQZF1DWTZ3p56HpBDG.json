@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Best of South Asian diaspora. Cover: ZAYN",
+  "description": "Best of South Asian diaspora. Cover: Raf Saperra",
   "name": "No Borders",
   "tracks": [
     {
@@ -582,6 +582,24 @@
       "duration_ms": 213485,
       "name": "Biryani",
       "url": "https://open.spotify.com/track/6Vpg28zlWpLIfpBrtvmN7N"
+    },
+    {
+      "album": {
+        "name": "Breathe Now",
+        "url": "https://open.spotify.com/album/4ZVdV0gvAc5hSiXIfoqiVg"
+      },
+      "artists": [
+        {
+          "name": "Tara Lily",
+          "url": "https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183076,
+      "name": "Breathe Now",
+      "url": "https://open.spotify.com/track/1zAdFySkAlBZD8a9MQ04GF"
     },
     {
       "album": {
@@ -1367,6 +1385,32 @@
     },
     {
       "album": {
+        "name": "FLOWERS",
+        "url": "https://open.spotify.com/album/2T8UsmQWxJzEMa77xEwdpH"
+      },
+      "artists": [
+        {
+          "name": "Heems",
+          "url": "https://open.spotify.com/artist/7x3mbyjfOZ9y599MHmyNOu"
+        },
+        {
+          "name": "Sid Vashi",
+          "url": "https://open.spotify.com/artist/6wD4PrOL4VPp0SDCtpbtba"
+        },
+        {
+          "name": "Navz-47",
+          "url": "https://open.spotify.com/artist/1COjjFgtQEz2oxPHF6XIuu"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288750,
+      "name": "FLOWERS",
+      "url": "https://open.spotify.com/track/360RdrbwanTNmg17hbKsNC"
+    },
+    {
+      "album": {
         "name": "For a While - Single",
         "url": "https://open.spotify.com/album/4lw2BuCZftDXnFGEJJw6Ib"
       },
@@ -1937,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "INTENTIONS",
+        "url": "https://open.spotify.com/album/2ulPYOJiZeJWhMwCgDFC8Z"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Kaifi Khalil",
+          "url": "https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204220,
+      "name": "INTENTIONS",
+      "url": "https://open.spotify.com/track/47RIqbHJtiqrY7X5JpQDaM"
+    },
+    {
+      "album": {
         "name": "Island Gyal",
         "url": "https://open.spotify.com/album/3ARj4t5llhyc62MY6qzo2f"
       },
@@ -2164,6 +2230,28 @@
       "duration_ms": 197580,
       "name": "Kabool Na",
       "url": "https://open.spotify.com/track/3YremD1Bd3anXO6j4nQs9X"
+    },
+    {
+      "album": {
+        "name": "Kangna",
+        "url": "https://open.spotify.com/album/3szsxekNdNTTwX4645paMR"
+      },
+      "artists": [
+        {
+          "name": "JJ Esko",
+          "url": "https://open.spotify.com/artist/34UvVIz1pxvFOQZt3fHNSv"
+        },
+        {
+          "name": "Bilal Shahid",
+          "url": "https://open.spotify.com/artist/3e1b5YHWfO80pDTVulRlLk"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164333,
+      "name": "Kangna",
+      "url": "https://open.spotify.com/track/50UXBm0uC2FaKKnOrreUDG"
     },
     {
       "album": {
@@ -3103,6 +3191,28 @@
     },
     {
       "album": {
+        "name": "Patola",
+        "url": "https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "DJ Jesta",
+          "url": "https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240066,
+      "name": "Patola",
+      "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"
+    },
+    {
+      "album": {
         "name": "Peng",
         "url": "https://open.spotify.com/album/6VoxLsPAzcKdzNWvx847rI"
       },
@@ -3348,7 +3458,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 198412,
       "name": "Runway",
       "url": "https://open.spotify.com/track/4ZaHyIlvsFha9mxQGfoWOf"
@@ -4258,7 +4368,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 158000,
       "name": "VICTIMS",
       "url": "https://open.spotify.com/track/3Anvgo6pzIdAh1frvfpMd7"
@@ -4378,7 +4488,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 157714,
       "name": "WATCH THE NEWS.",
       "url": "https://open.spotify.com/track/083iJqL2RrkhjTJ3L2Yi9K"
@@ -4418,7 +4528,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 211280,
       "name": "What I Am",
       "url": "https://open.spotify.com/track/3aH35oNFzGsCazXBkCsX9g"

@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: אלון עדר
 
-103 songs - 6 hr 17 min
+104 songs - 6 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 | 2024-07-25 |  |
 | [הכל פה משובש](https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [הכל פה משובש](https://open.spotify.com/album/6P206uroOIPyQqQ1WFovt6) | 3:39 | 2024-06-27 | 2024-08-23 |
 | [הכלים השבורים](https://open.spotify.com/track/23GTlgyW30suOUiIzOeZwS) | [Shuli Rand](https://open.spotify.com/artist/7CgBEyXbjOjFX3HiysHtXN) | [הכלים השבורים](https://open.spotify.com/album/6I0Vjzr0C0aTTYX51gKmsk) | 3:27 | 2024-07-25 |  |
+| [הלוך ושוב](https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W), [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [לחיות](https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL) | 4:16 | 2024-09-05 |  |
 | [העץ יחיה](https://open.spotify.com/track/2L2PghgZHxNKrcVsR16FmW) | [Monica Sex](https://open.spotify.com/artist/0xd6DVkSrfCs0C01t85gbj), [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [העץ יחיה](https://open.spotify.com/album/7gROCFhhozMnHNVrxVNPiL) | 3:09 | 2024-06-27 |  |
 | [ואולי הסוף כבר היה](https://open.spotify.com/track/6lUclGjzAqTH0KJ74HYbxh) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB), [יענקל'ה רוטבליט](https://open.spotify.com/artist/4sN0HNOVlxGnhPqgSIkcIC), [Tomer Yosef](https://open.spotify.com/artist/0oslLqFFiQGt023MVrPyhd), [Itamar Ziegler](https://open.spotify.com/artist/124b64p4uSTDhwVSgxSGWV), [Gedy Ronen](https://open.spotify.com/artist/0KSJMQoxfV5nRqoCqb8535) | [החצר האחורית 3](https://open.spotify.com/album/0l8ynz9r3gU65k9JYOoXHE) | 4:00 | 2024-08-15 |  |
 | [ומה נשאר](https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa) | [Ilan Peled](https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL), [Berry Sakharof](https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC) | [ומה נשאר](https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy) | 3:55 | 2024-07-25 |  |
@@ -92,7 +93,7 @@
 | [נורי](https://open.spotify.com/track/1nkfhZmS2ezI41ynnTkX2s) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק א'](https://open.spotify.com/album/4zDlFZUFP6NLyULgGO3SiC) | 3:42 | 2024-06-27 |  |
 | [נכנע לך](https://open.spotify.com/track/1HHfRiRLtMmRedkKSnaneH) | [The White Screen](https://open.spotify.com/artist/1CpLH8A3xibzzmyKZ1VtH7), [Shekel](https://open.spotify.com/artist/4XRymSxqMfKCkA6njs39lM) | [נכנע לך](https://open.spotify.com/album/7aR3BakZBsbkgqGpNtqp5o) | 4:25 | 2024-06-27 | 2024-07-12 |
 | [סבתא חנה](https://open.spotify.com/track/6O0JjxigZoLH6ZOhrBIWkW) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz), [Shlomi Saranga](https://open.spotify.com/artist/2b9OkxEH6i2Dxm9RqA9Eti) | [שמש וענן](https://open.spotify.com/album/5dNYF4ZWgUL2NhAJM3Dym8) | 3:07 | 2024-06-27 |  |
-| [סימן טוב](https://open.spotify.com/track/0OxILw9eBRYTDTkV3uJQh4) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [סימן טוב](https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX) | 3:15 | 2024-08-01 |  |
+| [סימן טוב](https://open.spotify.com/track/0OxILw9eBRYTDTkV3uJQh4) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [סימן טוב](https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX) | 3:15 | 2024-08-01 | 2024-09-10 |
 | [עד שתחזור, עד שתשובי](https://open.spotify.com/track/6tqTHljogFwHapPUv1vW73) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [עד שתחזור, עד שתשובי](https://open.spotify.com/album/1PR83IYAtqHfQswH731Jdw) | 3:56 | 2024-06-27 | 2024-07-27 |
 | [עולם משוגע \- קיסריה אנפלאגד](https://open.spotify.com/track/5j0kcyzn9L5okUYff1jGH5) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [קיסריה אנפלאגד 2022](https://open.spotify.com/album/3C6Lur2DcbljDEPEkcrcF4) | 5:50 | 2024-06-27 |  |
 | [עולם שלי](https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [עולם שלי](https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1) | 3:25 | 2024-07-18 |  |

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bulgaria.
 
-1,736 songs - 4 day 1 hr 33 min
+1,737 songs - 4 day 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Now That We Don't Talk \(Taylor's Version\) \(From The Vault\)](https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989 \(Taylor's Version\)](https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg) | 2:26 | 2023-10-28 | 2023-11-02 |
 | [Nqma Kak](https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi) | [MBT](https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd), [BM](https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu) | [Masquerade](https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL) | 3:35 | 2023-02-17 | 2024-03-04 |
 | [NQMA KO DA STANE](https://open.spotify.com/track/7IDxMPA2kEhDP2wFcKOqBL) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Alex & Vladi](https://open.spotify.com/artist/7jWNuWVbbbg9z1Er19DkGj) | [LOTUS](https://open.spotify.com/album/4hiU1Gvf57Iq6pVcQ0qRI8) | 3:31 | 2022-06-04 | 2022-07-09 |
+| [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:07 | 2024-09-09 |  |
 | [Nun id change](https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [AftërLyfe](https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM) | 3:31 | 2023-02-25 | 2023-03-02 |
 | [née\-nah](https://open.spotify.com/track/2yUzr8Sr6ldG8vmHhZwTnz) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 3:40 | 2024-01-13 | 2024-02-01 |
 | [OBESHTANIQ](https://open.spotify.com/track/21prcHeCfQlZZ43nSmrQR4) | [V:RGO](https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW), [Emil TRF](https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB) | [3/3 Vol\. 2](https://open.spotify.com/album/7ekqcWSZeMaJ28SZrIzXzB) | 3:27 | 2024-01-06 | 2024-01-20 |
@@ -1588,7 +1589,7 @@
 | [Зиг\-заг](https://open.spotify.com/track/6i9AZs8Cv8d3I6PQMN22RC) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 2:48 | 2024-06-28 |  |
 | [Знам ли](https://open.spotify.com/track/1qoRKC4dltaqIOAllaJC6m) | [SkandaU](https://open.spotify.com/artist/21Q5VJotowNOhkOD2x2Cti) | [Знам ли](https://open.spotify.com/album/5Q1ochnGEaasOtnu5hzIuf) | 3:26 | 2022-11-08 | 2022-11-19 |
 | [Зомби](https://open.spotify.com/track/4e1RbIHenXkXwhe7aCcAux) | [Boro Purvi](https://open.spotify.com/artist/27m6NrJXMbLGlkoGBUy2IV), [Shunaka](https://open.spotify.com/artist/5yawwjGbFGcVtn22j8OHA6) | [Груби песни с хора дет ме кефят](https://open.spotify.com/album/0X2uU8eVPrWvx6kpKdOZ6h) | 2:20 | 2021-06-21 | 2021-06-24 |
-| [Играй](https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:09 | 2024-06-29 |  |
+| [Играй](https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:09 | 2024-06-29 | 2024-09-10 |
 | [Извинявай](https://open.spotify.com/track/7oM90DTfJTMtSB3DEJq42p) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Извинявай](https://open.spotify.com/album/3zYtY8ABs89W4xI6fp6wme) | 3:55 | 2022-11-12 | 2022-12-12 |
 | [Изкушение](https://open.spotify.com/track/6Fz0IEZ0qHeu3cEbRDqSnU) | [ToTo H](https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP), [Slavi Trifonov](https://open.spotify.com/artist/4hcbbb8RBjFjCuMhmVv1b9), [Ku\-Ku Band](https://open.spotify.com/artist/6dTTAcKWN7BmRGAmmAsdeX) | [Изкушение](https://open.spotify.com/album/2eMxdsV5UGrIDcaQKTUrLN) | 3:44 | 2021-03-27\* | 2021-08-25 |
 | [Изтръпвам](https://open.spotify.com/track/4VoATubuei6OrMOPhLBM6T) | [Molec](https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr) | ["АЛБУМ"](https://open.spotify.com/album/08oZcyXVOtXVBLWFv3osRR) | 3:17 | 2023-11-23 | 2023-11-30 |

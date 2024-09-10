@@ -4,7 +4,7 @@
 
 > beber gin em casa, nada melhor
 
-240 songs - 14 hr 50 min
+241 songs - 14 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Feel Your Weight](https://open.spotify.com/track/6bRVkUr1fyZVX4XwQ4RpaR) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:09 | 2022-02-18 |  |
 | [Feelin' Alright \(feat\. Reva DeVito\)](https://open.spotify.com/track/0LLKDPlqrAlqgoiMDqkB2D) | [Nick Wisdom](https://open.spotify.com/artist/64lYrmxOvVvuiNyENyf3m3), [Reva DeVito](https://open.spotify.com/artist/00jACgDWIBdPM4eH8nORwz) | [Intimate Strangers](https://open.spotify.com/album/4tEm5274iungpgOhCQvkO5) | 5:16 | 2022-03-25 | 2022-07-29 |
 | [FIND YOUR WAY BACK](https://open.spotify.com/track/65kk9CAAqFI3LWBEhUwVqd) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 2:42 | 2022-02-18 |  |
-| [Flecha do Dedo](https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Flecha do dedo / Paixão faixa preta](https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt) | 4:04 | 2024-08-22 |  |
+| [Flecha do Dedo](https://open.spotify.com/track/0L8kOZj7LC36d6WNbhprCr) | [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI) | [Flecha do dedo / Paixão faixa preta](https://open.spotify.com/album/77vpBr3RbUPpWdRCMUcDEt) | 4:04 | 2024-08-22 | 2024-09-10 |
 | [Flight's Booked](https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 4:14 | 2022-06-24 |  |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/4PlbUZ7l0HPZFcTf31hrkt) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/album/0mQZn6mrdeNH6HT0hBmEBF) | 3:20 | 2023-12-08 | 2024-04-19 |
 | [Floating \(feat\. Khalid\) \[filous Remix\]](https://open.spotify.com/track/69aQw9lS9lhGGnGcuoX5c7) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [The Color Of You \(Remixes\)](https://open.spotify.com/album/61MBQ27mg5uDNDk1ANjPvq) | 3:20 | 2022-03-25 | 2022-04-21 |
@@ -225,6 +225,7 @@
 | [Time Goes By](https://open.spotify.com/track/5O9AKdoEYe8dDE1wG9YX41) | [Taste Nasa](https://open.spotify.com/artist/1zbepYbMHGUfTDTaTqXWwo) | [Time Goes By](https://open.spotify.com/album/5a3TW9AIx7JLSyRZZ6HRBK) | 3:35 | 2022-02-18 | 2022-07-29 |
 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 | 2022-02-18 |  |
 | [Too Good](https://open.spotify.com/track/1m7vbLfcbKILAxOQDSqnQv) | [Jo&Me](https://open.spotify.com/artist/4Bh7uZMnASKeyvQGWX7VN6) | [Too Good](https://open.spotify.com/album/1rSUsTzpTyCcSZ9cnstrHd) | 4:13 | 2022-02-18 | 2022-07-29 |
+| [Topo da Minha Cabeça](https://open.spotify.com/track/6lAQU9g2xFvFYpQjogi4RL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Barba Negra](https://open.spotify.com/artist/5BPmokvgi18I0XyI0sK0Rq) | [Topo da Minha Cabeça](https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0) | 4:12 | 2024-09-09 |  |
 | [Treat Me Like Fire](https://open.spotify.com/track/31uliP6HjZ3SWBU2a2ZBLf) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [LION BABE EP](https://open.spotify.com/album/3vwDIj8DVYqAkCspoKHMOr) | 4:09 | 2022-03-25 | 2022-04-21 |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2022-06-24 | 2022-09-15 |
 | [Two Bodies](https://open.spotify.com/track/3mC4P2y840KDWKPjSwuaGx) | [Flight Facilities](https://open.spotify.com/artist/1lc8mnyGrCLtPhCoWjRxjM), [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Two Bodies](https://open.spotify.com/album/6YFbrq6RJJXkmLY9Ar0rK8) | 6:08 | 2022-03-25 | 2022-04-14 |

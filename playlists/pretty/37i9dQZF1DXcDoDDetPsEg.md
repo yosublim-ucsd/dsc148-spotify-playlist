@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDoDDetPsEg.md) - [plain]
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: S1mba
 
-[Spotify](https://open.spotify.com/user/spotify) - 984,390 likes - 86 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 984,398 likes - 86 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

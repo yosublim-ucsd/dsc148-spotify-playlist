@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 742654,
+  "num_followers": 742672,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Zsi/HAAAAAAIvU3ZaL5cyU5ahZjgI3Po",
+  "snapshot_id": "Zt9UIwAAAACbOOSAyLQMhd4W3yusMSaE",
   "tracks": [
     {
       "added_at": "2024-07-03 20:15:10",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2024-07-03 20:15:10",
       "album": {
-        "name": "Hold Space For Me",
-        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
-      },
-      "artists": [
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 168746,
-      "name": "Ne Me Quitte Pas (Don't Leave Me)",
-      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
-    },
-    {
-      "added_at": "2024-07-03 20:15:10",
-      "album": {
         "name": "Son Little (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2jGQieA1EggldcxFAiQHjJ"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 228000,
       "name": "Lay Down",
       "url": "https://open.spotify.com/track/3x8IsQzb1KhPPo6zNGzzL1"
+    },
+    {
+      "added_at": "2024-07-03 20:15:10",
+      "album": {
+        "name": "Hold Space For Me",
+        "url": "https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB"
+      },
+      "artists": [
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 168746,
+      "name": "Ne Me Quitte Pas (Don't Leave Me)",
+      "url": "https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr"
     },
     {
       "added_at": "2024-07-03 20:15:10",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2024-07-03 20:15:10",
       "album": {
+        "name": "Tamale",
+        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+      },
+      "artists": [
+        {
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Ayayai",
+      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
+    },
+    {
+      "added_at": "2024-07-03 20:15:10",
+      "album": {
         "name": "Junkyard Jazz",
         "url": "https://open.spotify.com/album/1MBaEeGuZFixWVTARJ4amP"
       },
@@ -1121,20 +1137,24 @@
       "url": "https://open.spotify.com/track/1wR6F2NFDjBlDAYEHnAPS9"
     },
     {
-      "added_at": "2024-07-03 20:15:10",
+      "added_at": "2024-09-09 20:01:39",
       "album": {
-        "name": "Tamale",
-        "url": "https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn"
+        "name": "Anhedonia II b/w Ecstasy Cowgirl",
+        "url": "https://open.spotify.com/album/2Y0HcZRxb8s0GRXa8EeQCg"
       },
       "artists": [
         {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        },
+        {
+          "name": "Dirty Art Club",
+          "url": "https://open.spotify.com/artist/2DcAdoxP41GECOfZt2MhQL"
         }
       ],
-      "duration_ms": 170013,
-      "name": "Ayayai",
-      "url": "https://open.spotify.com/track/5Ia9AtWXI3DjcfVdlfczRl"
+      "duration_ms": 159402,
+      "name": "Anhedonia II",
+      "url": "https://open.spotify.com/track/68wV6l0woKlHHGiZ9hdhxz"
     },
     {
       "added_at": "2024-07-03 20:15:10",
@@ -1337,6 +1357,22 @@
       "url": "https://open.spotify.com/track/03rZ4jEeqvKjrqdRHPZmpp"
     },
     {
+      "added_at": "2024-09-09 20:01:39",
+      "album": {
+        "name": "Lonely / Sweet Devil",
+        "url": "https://open.spotify.com/album/0MGsHtaGy3Co8i09Kn5vgV"
+      },
+      "artists": [
+        {
+          "name": "Kate Bollinger",
+          "url": "https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned"
+        }
+      ],
+      "duration_ms": 198710,
+      "name": "Sweet Devil",
+      "url": "https://open.spotify.com/track/0DL1CEFnfYujeCuLh51nSt"
+    },
+    {
       "added_at": "2024-07-03 20:15:10",
       "album": {
         "name": "GPS (w/ Felly)",
@@ -1391,22 +1427,6 @@
     {
       "added_at": "2024-07-03 20:15:10",
       "album": {
-        "name": "j's lullaby (darlin' i'd wait for you)",
-        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
-      },
-      "artists": [
-        {
-          "name": "Delaney Bailey",
-          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
-        }
-      ],
-      "duration_ms": 290132,
-      "name": "j's lullaby (darlin' i'd wait for you)",
-      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
-    },
-    {
-      "added_at": "2024-07-03 20:15:10",
-      "album": {
         "name": "El Bueno Y El Malo",
         "url": "https://open.spotify.com/album/1amdsOYtz60qOm5EiWq8Qb"
       },
@@ -1423,6 +1443,38 @@
       "duration_ms": 201413,
       "name": "Tres Hermanos [Feat. Dan Auerbach]",
       "url": "https://open.spotify.com/track/7CiBrNzJrRDCx0viAECy3e"
+    },
+    {
+      "added_at": "2024-07-03 20:15:10",
+      "album": {
+        "name": "j's lullaby (darlin' i'd wait for you)",
+        "url": "https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "duration_ms": 290132,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "added_at": "2024-09-09 20:01:39",
+      "album": {
+        "name": "Watch Me Drive Them Dogs Wild",
+        "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
+      },
+      "artists": [
+        {
+          "name": "Merce Lemon",
+          "url": "https://open.spotify.com/artist/4u2LxHDBsFDH3J9NumXSCH"
+        }
+      ],
+      "duration_ms": 290003,
+      "name": "Watch Me Drive Them Dogs Wild",
+      "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
     },
     {
       "added_at": "2024-07-03 20:15:10",
@@ -1599,58 +1651,6 @@
       "duration_ms": 177387,
       "name": "Song for Nick Drake",
       "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2024-07-03 20:15:10",
-      "album": {
-        "name": "Ted Lucas",
-        "url": "https://open.spotify.com/album/2CEQedK1AH7F8zcYM7o0Yd"
-      },
-      "artists": [
-        {
-          "name": "Ted Lucas",
-          "url": "https://open.spotify.com/artist/6Ej6u8fvyHFFKn5GaQ5cPn"
-        }
-      ],
-      "duration_ms": 261810,
-      "name": "It Is So Nice to Get Stoned",
-      "url": "https://open.spotify.com/track/7xZOeV9Pa6SxH487LEoRxO"
-    },
-    {
-      "added_at": "2024-07-03 20:15:10",
-      "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
-    },
-    {
-      "added_at": "2024-07-03 20:15:10",
-      "album": {
-        "name": "Like a Ship",
-        "url": "https://open.spotify.com/album/3FEpG0GuwgCz8wNBkmQY7I"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        },
-        {
-          "name": "Keite Young",
-          "url": "https://open.spotify.com/artist/2euNKUC2iR9HRDVjLbhNdn"
-        }
-      ],
-      "duration_ms": 353506,
-      "name": "Like a Ship",
-      "url": "https://open.spotify.com/track/2g6aIBdprkYt5mNFjY6HAz"
     }
   ],
   "unique_name": "Stay in Bed",

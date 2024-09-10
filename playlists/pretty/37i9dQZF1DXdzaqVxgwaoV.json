@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Celebrando 90 a\u00f1os de Discos Fuentes, con Pastor L\u00f3pez en portada!",
-  "num_followers": 125187,
+  "num_followers": 125287,
   "original_name": "Desde Septiembre se Siente Diciembre",
   "owner": {
     "name": "Spotify",
@@ -711,26 +711,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
-      },
-      "artists": [
-        {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
-        },
-        {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
-        }
-      ],
-      "duration_ms": 280783,
-      "name": "Un Solo Cuerpo",
-      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Listos para Bailar",
         "url": "https://open.spotify.com/album/6fxDh3ZygNQVsqNvnj6oYM"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 226730,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/7t13B1tMcF74fp7fYYVcud"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        },
+        {
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+        }
+      ],
+      "duration_ms": 280783,
+      "name": "Un Solo Cuerpo",
+      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -855,18 +855,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
       "artists": [
         {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/0yR6g8tt0IzisAPcizD4xz"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -991,22 +991,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+        "name": "\u00c9xitos Pastor L\u00f3pez",
+        "url": "https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8"
       },
       "artists": [
         {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
         }
       ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+      "duration_ms": 214680,
+      "name": "Traicionera",
+      "url": "https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1027,22 +1023,6 @@
       "duration_ms": 215322,
       "name": "Mar de Emociones",
       "url": "https://open.spotify.com/track/5UcCxorHQtfYcU1SRhgGL4"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "\u00c9xitos Pastor L\u00f3pez",
-        "url": "https://open.spotify.com/album/6aYiYSjRloFEj6ecvPFAh8"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 214680,
-      "name": "Traicionera",
-      "url": "https://open.spotify.com/track/1mmR1F48d1taWksNH9mQqa"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1083,6 +1063,26 @@
       "duration_ms": 191400,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1135,26 +1135,6 @@
       "duration_ms": 158610,
       "name": "La Pollera Color\u00e1",
       "url": "https://open.spotify.com/track/6OzXCNNTfqX9BPQZFWbDyh"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1215,22 +1195,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 266797,
-      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
-      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9xitos los Warahuaco & Hern\u00e1n Rojas",
         "url": "https://open.spotify.com/album/1TtaDXi6YdjxUJo4ri7aTJ"
       },
@@ -1247,6 +1211,42 @@
       "duration_ms": 170893,
       "name": "El Pescador de Bar\u00fa",
       "url": "https://open.spotify.com/track/74ZKfd2J1nPl5KyAVQ5uyy"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 266797,
+      "name": "Qu\u00e9 Har\u00e9 Sin Ti",
+      "url": "https://open.spotify.com/track/2qGUuQSv0PDWe6CGz8GdcP"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Bachata Rosa (Versi\u00f3n Regional)",
-        "url": "https://open.spotify.com/album/2vYWZIfKwVuxFUPIfol9h7"
-      },
-      "artists": [
-        {
-          "name": "Lukas Bloom",
-          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
-        }
-      ],
-      "duration_ms": 170589,
-      "name": "Bachata Rosa - Versi\u00f3n Regional",
-      "url": "https://open.spotify.com/track/6DTpICcBytnJCN047V7w85"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -1431,6 +1415,22 @@
       "duration_ms": 216293,
       "name": "Qu\u00e9 Voy a Hacer Sin Ti",
       "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Bachata Rosa (Versi\u00f3n Regional)",
+        "url": "https://open.spotify.com/album/2vYWZIfKwVuxFUPIfol9h7"
+      },
+      "artists": [
+        {
+          "name": "Lukas Bloom",
+          "url": "https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX"
+        }
+      ],
+      "duration_ms": 170589,
+      "name": "Bachata Rosa - Versi\u00f3n Regional",
+      "url": "https://open.spotify.com/track/6DTpICcBytnJCN047V7w85"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1487,6 +1487,26 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
+        "name": "\u00c9xitos los Corraleros de Majagual",
+        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Julio Erazo",
+          "url": "https://open.spotify.com/artist/5MQLAzmqK0zHHmZ9yBwFZ6"
+        }
+      ],
+      "duration_ms": 189372,
+      "name": "Hace un Mes",
+      "url": "https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
         "name": "Los Relajos del Arriero",
         "url": "https://open.spotify.com/album/5Z8e6tnjGvPulTFqddGxG8"
       },
@@ -1499,22 +1519,6 @@
       "duration_ms": 128560,
       "name": "Con Verraquera",
       "url": "https://open.spotify.com/track/1zbFphPJy50PP88eIpMvMc"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Quien Piensa En Ti",
-      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1539,26 +1543,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9xitos los Corraleros de Majagual",
-        "url": "https://open.spotify.com/album/6DTw8ppotAPp9Gcyj4DsXX"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Julio Erazo",
-          "url": "https://open.spotify.com/artist/5MQLAzmqK0zHHmZ9yBwFZ6"
-        }
-      ],
-      "duration_ms": 189372,
-      "name": "Hace un Mes",
-      "url": "https://open.spotify.com/track/4eXKLkP8QUYn1Ph90npuhe"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -1579,18 +1563,18 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "Bailables del A\u00f1o (Vol. 19)",
-        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
       },
       "artists": [
         {
-          "name": "Grupo Cariaco",
-          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
         }
       ],
-      "duration_ms": 226250,
-      "name": "Cuerpo a Cuerpo",
-      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
+      "duration_ms": 278826,
+      "name": "Quien Piensa En Ti",
+      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1611,6 +1595,42 @@
       "duration_ms": 194616,
       "name": "Tu Ausencia",
       "url": "https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "Bailables del A\u00f1o (Vol. 19)",
+        "url": "https://open.spotify.com/album/7CPqtS8EnVxhqi9vpi7AtT"
+      },
+      "artists": [
+        {
+          "name": "Grupo Cariaco",
+          "url": "https://open.spotify.com/artist/7svoDpV7jHqFXOKNMhL4Ip"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Cuerpo a Cuerpo",
+      "url": "https://open.spotify.com/track/65V8Ylug8Z2uAHzZpyvNfR"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "\u00c9poca de Oro 16 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Eliseo Herrera",
+          "url": "https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani"
+        }
+      ],
+      "duration_ms": 157130,
+      "name": "La Burrita",
+      "url": "https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1727,26 +1747,6 @@
     {
       "added_at": "2024-09-01 08:41:00",
       "album": {
-        "name": "\u00c9poca de Oro 16 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2fbH7juIgtukbOBqEOx9eY"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Eliseo Herrera",
-          "url": "https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani"
-        }
-      ],
-      "duration_ms": 157130,
-      "name": "La Burrita",
-      "url": "https://open.spotify.com/track/3mXlm2lIp3leSWzv1vqN2k"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
         "name": "El Mujeriego",
         "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
       },
@@ -1759,26 +1759,6 @@
       "duration_ms": 181269,
       "name": "El Mujeriego",
       "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
-    },
-    {
-      "added_at": "2024-09-01 08:41:00",
-      "album": {
-        "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
-        "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
-      },
-      "artists": [
-        {
-          "name": "Gustavo \"El Loco\" Quintero",
-          "url": "https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl"
-        },
-        {
-          "name": "Los Teen Agers",
-          "url": "https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl"
-        }
-      ],
-      "duration_ms": 200033,
-      "name": "La Cinta Verde",
-      "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
     },
     {
       "added_at": "2024-09-01 08:41:00",
@@ -1799,6 +1779,26 @@
       "duration_ms": 150410,
       "name": "V\u00edspera de A\u00f1o Nuevo",
       "url": "https://open.spotify.com/track/0hRfaXRQhSAqMUCon1QT3Y"
+    },
+    {
+      "added_at": "2024-09-01 08:41:00",
+      "album": {
+        "name": "\u00c9xitos Gustavo 'El Loko' Quintero",
+        "url": "https://open.spotify.com/album/0MNldUvah3YWbTUzFGjOiL"
+      },
+      "artists": [
+        {
+          "name": "Gustavo \"El Loco\" Quintero",
+          "url": "https://open.spotify.com/artist/7qf3WdV7lYx6WknoNnxokl"
+        },
+        {
+          "name": "Los Teen Agers",
+          "url": "https://open.spotify.com/artist/2dlJdFaPxHy9C3bOKS1ZKl"
+        }
+      ],
+      "duration_ms": 200033,
+      "name": "La Cinta Verde",
+      "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
     }
   ],
   "unique_name": "Desde Septiembre se Siente Diciembre",

@@ -1,6 +1,6 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 672167,
+  "num_followers": 672510,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-01-19 14:43:19",
       "album": {
+        "name": "Crazy For Your Love",
+        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 141918,
+      "name": "Crazy For Your Love",
+      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
+    },
+    {
+      "added_at": "2024-01-19 14:43:19",
+      "album": {
         "name": "Harmless Melodies",
         "url": "https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 210742,
       "name": "Luv Note",
       "url": "https://open.spotify.com/track/4wnvVlqdz6o7eLtbeS5sYR"
-    },
-    {
-      "added_at": "2024-01-19 14:43:19",
-      "album": {
-        "name": "Crazy For Your Love",
-        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 141918,
-      "name": "Crazy For Your Love",
-      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
     },
     {
       "added_at": "2024-01-19 14:43:19",

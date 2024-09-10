@@ -2,7 +2,7 @@
 
 ### [This Is Felicity Urquhart](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cpEEq)
 
-> This is: Felicity Urquhart\. Alle wichtigen Tracks in einer Playlist.
+> This is Felicity Urquhart\. The essential tracks, all in one playlist.
 
 97 songs - 5 hr 57 min
 
@@ -74,7 +74,7 @@
 | [Slow It Down](https://open.spotify.com/track/3pPGtVlnHeBupAomDBE4AY) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Karl Broadie](https://open.spotify.com/artist/1LkgfPxaEtpFvKDWSmGqj8) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:16 | 2023-07-27 | 2024-03-11 |
 | [So Go On](https://open.spotify.com/track/3bEUhd1DWfzij3LGECFGni) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Landing Lights](https://open.spotify.com/album/3bIHr1r2NWmbtIdaLfIDhs) | 3:43 | 2023-06-17 | 2024-07-04 |
 | [Softer Side](https://open.spotify.com/track/5qz43mUFzrB1W7SsKmp1mV) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:32 | 2023-11-10 |  |
-| [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 |  |
+| [Something Good](https://open.spotify.com/track/6ScIYj8MbREFPnEYX6DbxR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Something Good](https://open.spotify.com/album/1eyvu6BW5P1NDcNKepLycx) | 2:35 | 2023-06-17 | 2024-09-10 |
 | [Spare Parts](https://open.spotify.com/track/7bVkZG3zltN9bYyFmjcJqu) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:15 | 2023-06-17 |  |
 | [Speck of Dust](https://open.spotify.com/track/12HXebA19zhK2imE3q6xTD) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 4:40 | 2023-06-25 | 2024-08-07 |
 | [Still Alive](https://open.spotify.com/track/4J7jfVlt6A1GjDIW70B5FC) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [My Life](https://open.spotify.com/album/7rQBTBd3bTxdIu47uB5dPT) | 4:14 | 2023-06-17 | 2024-08-26 |
@@ -101,7 +101,7 @@
 | [Unsteady \(Ever Since You're Gone\)](https://open.spotify.com/track/5tlaJqthyn8tKphTAHPQ4n) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Birdsong](https://open.spotify.com/album/7nzRTWT2Hzd4Qg6JrLsBw6) | 3:14 | 2023-12-16 | 2024-08-15 |
 | [Wanna Go There](https://open.spotify.com/track/3sYuePEiE1wasUy6CKnDnR) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [The Song Club](https://open.spotify.com/album/4LJ7i3oggMdAbTpDJHDB59) | 3:33 | 2023-06-17 |  |
 | [We'll Never Get Along](https://open.spotify.com/track/1opYx6TlryW6ve95rc1RS6) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Nothing to Hide](https://open.spotify.com/album/4iYbts3OBVrm9pjlU08qJ7) | 3:48 | 2023-06-18 | 2024-06-11 |
-| [Western Lullaby](https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:19 | 2023-06-18 |  |
+| [Western Lullaby](https://open.spotify.com/track/3bQ61KuOqk5SWV8zxLazey) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 4:19 | 2023-06-18 | 2024-09-10 |
 | [Where I Wanna Be](https://open.spotify.com/track/4Bu1Vw72PMIvlNNrXs3dj8) | [Nick Barker](https://open.spotify.com/artist/4VZy32PZdwxcefnsvE5PBM), [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [Where I Wanna Be](https://open.spotify.com/album/7GM1YkGnS0LoyImur8d3os) | 4:29 | 2023-06-17 |  |
 | [Where the Fruit Hangs Low](https://open.spotify.com/track/5sawOEIlyZa9ygPGttmKRb) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Shanley Del](https://open.spotify.com/artist/6vLfrPvPCIVcN7EZtnnrwl) | [Frozen Rabbit](https://open.spotify.com/album/6PEjYJkMWbTLgB6qQEQupY) | 3:17 | 2023-06-17 |  |
 | [You Can't Break My Heart](https://open.spotify.com/track/4ONAoZUWmzDHrp3nLFpuxf) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj) | [New Shadow](https://open.spotify.com/album/0LbTlNLPASTuciM2QcU2XD) | 2:06 | 2023-07-11 | 2024-06-24 |

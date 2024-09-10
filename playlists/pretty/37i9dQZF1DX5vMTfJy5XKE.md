@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Cher
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,766 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,750 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 49 | [Amazing Grace \[Feat\. The Tabernacle Choir at Temple Square, Mack Wilberg\]](https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Mack Wilberg](https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz) | [Amazing Grace](https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9) | 4:27 |
 | 50 | [This Christmas \(Feels Like Love\)](https://open.spotify.com/track/6P0BB4NFxOKlMCZQFXVKmm) | [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [This Christmas \(Feels Like Love\)](https://open.spotify.com/album/5gtWO7LWHde4S1PbSDHlyc) | 2:37 |
 
-Snapshot ID: `ZtH4NQAAAAD9roDGt/G9ODJtux6Ps4iR`
+Snapshot ID: `Zt9tGAAAAAAzaYrZjh/fhSsXO3TwJsOf`

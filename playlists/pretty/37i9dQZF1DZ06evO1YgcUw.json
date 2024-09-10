@@ -1,12 +1,12 @@
 {
   "description": "This is The Beach Boys. The essential tracks, all in one playlist.",
-  "num_followers": 317253,
+  "num_followers": 317261,
   "original_name": "This Is The Beach Boys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAABgMZzjPrKrlF1OjfpMvKit",
+  "snapshot_id": "ZtzpAAAAAAA2A5J4LdnwgWBB6eWlZpmx",
   "tracks": [
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 (Remastered)",
-        "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
+        "name": "All Summer Long (Mono & Stereo)",
+        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 146373,
-      "name": "Do It Again - Remastered 2001",
-      "url": "https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2"
+      "duration_ms": 128973,
+      "name": "All Summer Long (Stereo)",
+      "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
     },
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Summer Long (Mono & Stereo)",
-        "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
+        "name": "20/20 (Remastered)",
+        "url": "https://open.spotify.com/album/2vFDenbFedYVMOwDqTiw82"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
         }
       ],
-      "duration_ms": 128973,
-      "name": "All Summer Long (Stereo)",
-      "url": "https://open.spotify.com/track/7Dq4DIHxstJPuoZAkP4885"
+      "duration_ms": 146373,
+      "name": "Do It Again - Remastered 2001",
+      "url": "https://open.spotify.com/track/0vhCcrN8ULryq1KuEEYlm2"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends (Remastered)",
-        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 39973,
-      "name": "Meant For You - Remastered 2001",
-      "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pet Sounds",
         "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 156266,
       "name": "You Still Believe In Me",
       "url": "https://open.spotify.com/track/2xNZK0n7SV7qvV1AlH30Dp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friends (Remastered)",
+        "url": "https://open.spotify.com/album/2EeDLAhZi04oPV3FJ2s6uS"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 39973,
+      "name": "Meant For You - Remastered 2001",
+      "url": "https://open.spotify.com/track/2h5cpnAVMC4kOOLF7NqmIr"
     },
     {
       "added_at": null,
@@ -539,22 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Surfin' USA (Remastered)",
-        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 111200,
-      "name": "Shut Down - Remastered 2001",
-      "url": "https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pet Sounds",
         "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 178440,
       "name": "Don't Talk (Put Your Head On My Shoulder)",
       "url": "https://open.spotify.com/track/6BWZ4BPsftc9v7sUMFOAr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Surfin' USA (Remastered)",
+        "url": "https://open.spotify.com/album/6u5tGarzvESDsQiIpC4SlI"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 111200,
+      "name": "Shut Down - Remastered 2001",
+      "url": "https://open.spotify.com/track/3jZLwNteBDlGhgOCEgnuF2"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "The Warmth Of The Sun - Remastered",
-      "url": "https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pet Sounds",
         "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 186760,
       "name": "I'm Waiting For The Day",
       "url": "https://open.spotify.com/track/56rf6DuAv3AGpLIhXVagTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "The Warmth Of The Sun - Remastered",
+      "url": "https://open.spotify.com/track/1HFtTn1sIJhkV6mtY8ax2Z"
     },
     {
       "added_at": null,
@@ -667,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love You - Remastered",
-        "url": "https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 58533,
-      "name": "Ding Dang - Remastered 2000",
-      "url": "https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pet Sounds",
         "url": "https://open.spotify.com/album/2CNEkSE8TADXRT2AzcEt1b"
       },
@@ -699,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
-        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 147866,
-      "name": "Surfin' U.S.A. - 2021 Stereo Mix",
-      "url": "https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -727,6 +695,38 @@
       "duration_ms": 219306,
       "name": "Heroes And Villains - Remastered 2001",
       "url": "https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love You - Remastered",
+        "url": "https://open.spotify.com/album/3ttmiqBiRWbbloqIwOfRZi"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 58533,
+      "name": "Ding Dang - Remastered 2000",
+      "url": "https://open.spotify.com/track/1YWy15CcdCrVugRJOZxuc7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
+        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 147866,
+      "name": "Surfin' U.S.A. - 2021 Stereo Mix",
+      "url": "https://open.spotify.com/track/5r84UnwABy2ZcG0BbYUS60"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
-        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 133733,
-      "name": "I Get Around - 2021 Stereo Mix",
-      "url": "https://open.spotify.com/track/5nfO4MpLIU4rbohUOKofzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smiley Smile (Remastered)",
         "url": "https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 67893,
       "name": "Whistle In - Remastered 2001",
       "url": "https://open.spotify.com/track/35zgxz18meGLAaQ7pdUlsU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of The Beach Boys: Sounds Of Summer (Expanded Edition Super Deluxe)",
+        "url": "https://open.spotify.com/album/3JOCLW8MS0pmqGCDisF0e8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 133733,
+      "name": "I Get Around - 2021 Stereo Mix",
+      "url": "https://open.spotify.com/track/5nfO4MpLIU4rbohUOKofzW"
     },
     {
       "added_at": null,
@@ -815,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "L.A. (Light Album) [Remastered]",
-        "url": "https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 239240,
-      "name": "Lady Lynda - Remastered 2000",
-      "url": "https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sail On Sailor \u2013 1972 (Super Deluxe)",
         "url": "https://open.spotify.com/album/0tOjOMLH9dwS5ITlwtgz9k"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 31296,
       "name": "I'm The Pied Piper - A Cappella Section",
       "url": "https://open.spotify.com/track/21cBdopm6fSgfLnplL7qVT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L.A. (Light Album) [Remastered]",
+        "url": "https://open.spotify.com/album/48nGKNICvdcZSWHwEkIIQz"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 239240,
+      "name": "Lady Lynda - Remastered 2000",
+      "url": "https://open.spotify.com/track/4wObUmV0gM20Rnahfo2FJ4"
     }
   ],
   "unique_name": "This Is The Beach Boys",

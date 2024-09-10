@@ -4,7 +4,7 @@
 
 > Workout with Haryanvi Songs.
 
-120 songs - 5 hr 59 min
+121 songs - 6 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Document](https://open.spotify.com/track/1feOpUkRMcB6kwGvoLW7C4) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Document](https://open.spotify.com/album/2GQZdnBCslzoKfgCMjbz91) | 3:40 | 2024-07-31 |  |
 | [Dole Laadle](https://open.spotify.com/track/4vDGNh41YgJrSHPxnAJnOS) | [Gulzaar Chhaniwala](https://open.spotify.com/artist/1LOB46pDsJhtIXW1nbHYZo) | [Dole Laadle](https://open.spotify.com/album/5Ca9Nx2w4IUCXAtBy5vuyq) | 3:01 | 2023-07-24 |  |
 | [Don Dada](https://open.spotify.com/track/74pqHiISH1jCZcNTJrI5Qe) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Don Dada](https://open.spotify.com/album/5FVvpRqfz1mp3mRnv1zpgh) | 2:48 | 2023-07-24 | 2024-04-06 |
+| [Farmer Flex](https://open.spotify.com/track/0815EkSwweaxTgU3fcfCDZ) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Farmer Flex](https://open.spotify.com/album/6sBMQ4rT0sGjfLawVjbKxP) | 3:34 | 2024-09-09 |  |
 | [Farraar](https://open.spotify.com/track/6PohXw5DibZpkgPxd7dwwD) | [Addy B](https://open.spotify.com/artist/2AbdUtRz66AR1qNWEDnKhD), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob) | [Farraar](https://open.spotify.com/album/160URWYJYPC9W5VDj25Hoc) | 3:30 | 2023-08-30 | 2024-03-02 |
 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 | 2023-10-03 | 2023-12-23 |
 | [Gaadi Desiyan Ki](https://open.spotify.com/track/1bi3ume3cSnvQssluzdLG8) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Gaadi Desiyan Ki](https://open.spotify.com/album/2pq8qaJMYuQI7VJqqHP7hD) | 2:37 | 2023-07-24 | 2024-04-19 |
@@ -96,7 +97,7 @@
 | [Permit Badmashi Ka](https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU) | [RK Crew](https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw), [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Aashu Twinkle](https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ) | [Permit Badmashi Ka](https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM) | 2:44 | 2023-07-24 |  |
 | [Pistal Te Mehnga Lehnga](https://open.spotify.com/track/3C1uC6FCTvftY4H9nyFEYB) | [Vinod Sorkhi](https://open.spotify.com/artist/5XseceQa0u43rtE8s2DIoV), [Kay D](https://open.spotify.com/artist/6e12O63wUHuRVqb0YHV4YG), [Anjali Raghav](https://open.spotify.com/artist/4tnyxnjCVBlkqaefQ6fgbv) | [Pistal Te Mehnga Lehnga](https://open.spotify.com/album/4KGnfHLFoZ7ZlIT7P5Aa29) | 2:42 | 2023-07-24 |  |
 | [Power](https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5), [DRJ Sohail](https://open.spotify.com/artist/1cMmtYmcMDsPOrEu7uVJYN) | [Power](https://open.spotify.com/album/2K1UUqgmoUp5BD7hjw602v) | 2:53 | 2024-03-08 |  |
-| [Power](https://open.spotify.com/track/2ATtRykzfzdjs8CVYfXtlu) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 2:30 | 2024-04-30 |  |
+| [Power](https://open.spotify.com/track/2ATtRykzfzdjs8CVYfXtlu) | [Jaggi](https://open.spotify.com/artist/3xKm7gBOnRxMwTHucbePnJ) | [ON TOP](https://open.spotify.com/album/6t6C4S2tWC8icUdNYIYHaC) | 2:30 | 2024-04-30 | 2024-09-10 |
 | [Ram Ram Karke](https://open.spotify.com/track/6naLIL2jVbE6uyUpUKtnAH) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Ram Ram Karke](https://open.spotify.com/album/5YjykDAdQ5OWVFc9b7PqaI) | 3:26 | 2023-11-09 | 2024-04-19 |
 | [Ram Ram Karke](https://open.spotify.com/track/7LDvvW9IqGzDcoRdX2k5it) | [R Deep](https://open.spotify.com/artist/7hk6OYYvIpH2wGfdj2l1GA), [Ankit Baiyanpuriya](https://open.spotify.com/artist/5KRt8SDS71jP3uyR4OwoIw) | [Ram Ram Karke](https://open.spotify.com/album/5aixreA83as4J3IhzZePlT) | 3:26 | 2024-04-17 | 2024-08-01 |
 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 | 2023-08-30 | 2023-11-10 |

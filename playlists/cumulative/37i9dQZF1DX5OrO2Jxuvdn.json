@@ -1244,7 +1244,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 151973,
       "name": "Everything She Ain\u2019t",
       "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
@@ -3698,6 +3698,24 @@
       "duration_ms": 208280,
       "name": "The Way I Talk",
       "url": "https://open.spotify.com/track/21LRaD9rB3v7p7DDCZsW4y"
+    },
+    {
+      "album": {
+        "name": "The Devil Don't Sleep - Deluxe / Big Machine Radio Release Special",
+        "url": "https://open.spotify.com/album/2lHWa2z1E8GjdHlOOUULmG"
+      },
+      "artists": [
+        {
+          "name": "Brantley Gilbert",
+          "url": "https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa"
+        }
+      ],
+      "date_added": "2024-07-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/2sSgZkaAOIfkzNDhndiLvZ"
     },
     {
       "album": {

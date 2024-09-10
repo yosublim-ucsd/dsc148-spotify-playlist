@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Fred again.\. \(pictured\), Linkin Park, Halsey and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 860,180 likes - 119 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 860,217 likes - 119 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

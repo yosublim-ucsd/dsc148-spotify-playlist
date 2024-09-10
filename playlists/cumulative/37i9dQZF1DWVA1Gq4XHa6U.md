@@ -2,7 +2,7 @@
 
 ### [Gold School](https://open.spotify.com/playlist/37i9dQZF1DWVA1Gq4XHa6U)
 
-> Taking it way back! Cover: Jay\-Z
+> Taking it way back! Cover: The Notorious B.I.G.
 
 307 songs - 22 hr 13 min
 

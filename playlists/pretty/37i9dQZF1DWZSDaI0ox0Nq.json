@@ -1,6 +1,6 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 19516,
+  "num_followers": 19522,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,18 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
-        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
+        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
+        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
       },
       "artists": [
         {
-          "name": "Azucena Maizani",
-          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
-        },
-        {
-          "name": "Nelly Omar",
-          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
-        },
-        {
-          "name": "Orestes Cufaro",
-          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
+          "name": "Virginia Luque",
+          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
         }
       ],
-      "duration_ms": 165982,
-      "name": "La canci\u00f3n de Buenos Aires",
-      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
+      "duration_ms": 155280,
+      "name": "La Morocha",
+      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
     },
     {
       "added_at": "2024-08-02 17:18:29",
@@ -583,18 +575,26 @@
     {
       "added_at": "2024-08-02 17:18:29",
       "album": {
-        "name": "Virginia Luque Cronolog\u00eda - La Estrella de Buenos Aires (1968)",
-        "url": "https://open.spotify.com/album/0gF8PydJV7gZYrHKVwZZi2"
+        "name": "Vintage Argentine Tangos (1928 - 1954), Vol. 2",
+        "url": "https://open.spotify.com/album/4anYze0tSqlzugbsDrbcAz"
       },
       "artists": [
         {
-          "name": "Virginia Luque",
-          "url": "https://open.spotify.com/artist/3l9sNbRTss6iqUdZq6R8Wc"
+          "name": "Azucena Maizani",
+          "url": "https://open.spotify.com/artist/0B2RE6SzZ4QsCRkl1nMz1n"
+        },
+        {
+          "name": "Nelly Omar",
+          "url": "https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f"
+        },
+        {
+          "name": "Orestes Cufaro",
+          "url": "https://open.spotify.com/artist/3WXc29391Id6Tmh37E7gdm"
         }
       ],
-      "duration_ms": 155280,
-      "name": "La Morocha",
-      "url": "https://open.spotify.com/track/1wgpDmWmiFO8m7ZBWCaQDF"
+      "duration_ms": 165982,
+      "name": "La canci\u00f3n de Buenos Aires",
+      "url": "https://open.spotify.com/track/4t2Ow4sdp8p8OVfpu2e1Ey"
     },
     {
       "added_at": "2024-08-02 17:18:29",

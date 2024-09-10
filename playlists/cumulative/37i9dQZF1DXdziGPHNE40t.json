@@ -878,7 +878,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 250009,
       "name": "At A Glance",
       "url": "https://open.spotify.com/track/0rlmAIIhMnD1750HZibwLD"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 239125,
       "name": "Late Bagatelle",
       "url": "https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M"
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 226750,
       "name": "Margot In May",
       "url": "https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v"
@@ -9324,7 +9324,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 232115,
       "name": "The Moment We Said Goodbye",
       "url": "https://open.spotify.com/track/4StMdVMtMG4IlZF8GmGyb9"
@@ -10285,6 +10285,24 @@
     },
     {
       "album": {
+        "name": "We Closed Tonight",
+        "url": "https://open.spotify.com/album/3kCWumpngDTSkbUEAtEpWv"
+      },
+      "artists": [
+        {
+          "name": "Fortune Morel Trio",
+          "url": "https://open.spotify.com/artist/5IDJIXonrrl2nVcd4LZTQf"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218324,
+      "name": "We Closed Tonight",
+      "url": "https://open.spotify.com/track/62OgArVq3eoSHo1Hjje9EW"
+    },
+    {
+      "album": {
         "name": "We Will Know",
         "url": "https://open.spotify.com/album/4WzRuH8DoD4MoM5hcXN3Qy"
       },
@@ -10944,7 +10962,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 204391,
       "name": "Wooden String",
       "url": "https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Grupo Frontera & Gabito Ballesteros, JHAYCO , NATTI NATASHA, Nicky Jam, Calle 24 and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,649 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,673 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

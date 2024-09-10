@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Bitch Get Out My Car",
+        "url": "https://open.spotify.com/album/7wBWhre9MI2woi5fLq24W1"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135480,
+      "name": "Bitch Get Out My Car",
+      "url": "https://open.spotify.com/track/4O5lLmu32GcqTsNM8CTL0L"
+    },
+    {
+      "album": {
         "name": "Make a Scene",
         "url": "https://open.spotify.com/album/2vLMz7mNDjeAkCstDKiz7p"
       },

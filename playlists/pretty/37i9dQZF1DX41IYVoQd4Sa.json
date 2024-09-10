@@ -1,6 +1,6 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc. \u05e7\u05d0\u05d1\u05e8: \u05d0\u05dc\u05d5\u05df \u05e2\u05d3\u05e8",
-  "num_followers": 30206,
+  "num_followers": 30213,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-09-05 21:01:00",
       "album": {
-        "name": "You Are What You Do",
-        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
-      },
-      "artists": [
-        {
-          "name": "Aviram",
-          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Smile Again",
-      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
         "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
         "url": "https://open.spotify.com/album/1TUA9tdmF04MuoDDo6GbTW"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 245100,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
       "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "You Are What You Do",
+        "url": "https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx"
+      },
+      "artists": [
+        {
+          "name": "Aviram",
+          "url": "https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Smile Again",
+      "url": "https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER"
     },
     {
       "added_at": "2024-09-05 21:01:00",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-09-05 21:01:00",
       "album": {
-        "name": "Nouvelle vie",
-        "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
-      },
-      "artists": [
-        {
-          "name": "PA'AM",
-          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
-        },
-        {
-          "name": "Odelly",
-          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
-        }
-      ],
-      "duration_ms": 170994,
-      "name": "Nouvelle vie",
-      "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
         "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0uWDmGSuYnaD9xbd7zioIS"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 208000,
       "name": "\u05ea\u05de\u05d9\u05d3 \u05d9\u05dc\u05d3\u05d9\u05dd",
       "url": "https://open.spotify.com/track/4ZB8VUBs5WXlfRXFtXMZqq"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "Nouvelle vie",
+        "url": "https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX"
+      },
+      "artists": [
+        {
+          "name": "PA'AM",
+          "url": "https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0"
+        },
+        {
+          "name": "Odelly",
+          "url": "https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx"
+        }
+      ],
+      "duration_ms": 170994,
+      "name": "Nouvelle vie",
+      "url": "https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO"
     },
     {
       "added_at": "2024-09-05 21:01:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2024-09-05 21:01:00",
       "album": {
-        "name": "Water on Water",
-        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
+        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
       },
       "artists": [
         {
-          "name": "Roni Alter",
-          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
+          "name": "\u05d9\u05d5\u05e9\u05d9",
+          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
         }
       ],
-      "duration_ms": 308093,
-      "name": "Carry me home",
-      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
+      "duration_ms": 168923,
+      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
+      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
     },
     {
       "added_at": "2024-09-05 21:01:00",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-09-05 21:01:00",
       "album": {
-        "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-        "url": "https://open.spotify.com/album/6LJUzUbBtkwmgpCosXc0jh"
+        "name": "Water on Water",
+        "url": "https://open.spotify.com/album/4ODnE9lIwYG32OtBiokX8P"
       },
       "artists": [
         {
-          "name": "\u05d9\u05d5\u05e9\u05d9",
-          "url": "https://open.spotify.com/artist/55at4C8Kzzr6TkFeZKyPzJ"
+          "name": "Roni Alter",
+          "url": "https://open.spotify.com/artist/2QZYh3YAFWqpJHf01j0DbN"
         }
       ],
-      "duration_ms": 168923,
-      "name": "\u05d0\u05e0\u05d9 \u05e8\u05d5\u05e6\u05d4 \u05d0\u05ea \u05d4\u05d7\u05d9\u05d9\u05dd \u05e9\u05dc\u05d9 \u05d1\u05d7\u05d6\u05e8\u05d4",
-      "url": "https://open.spotify.com/track/6XXmUYotqTIbx9xOd9lQqW"
+      "duration_ms": 308093,
+      "name": "Carry me home",
+      "url": "https://open.spotify.com/track/3qbz1mAfj4tEygh3KAtuog"
     },
     {
       "added_at": "2024-09-05 21:01:00",
@@ -995,90 +995,6 @@
       "duration_ms": 343074,
       "name": "\u05d4\u05d0\u05d6\u05e8\u05d7 \u05d4\u05d0\u05d7\u05d3 / \u05e8\u05d9\u05d1\u05d5\u05e0\u05d5 \u05e9\u05dc \u05e2\u05d5\u05dc\u05dd - Live",
       "url": "https://open.spotify.com/track/3gv5bZNWHybHWDJjG5NgGa"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
-        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
-      },
-      "artists": [
-        {
-          "name": "Aya Zahavi Feiglin",
-          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
-      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
-        "name": "Petrified",
-        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
-      },
-      "artists": [
-        {
-          "name": "David Lerner",
-          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
-        }
-      ],
-      "duration_ms": 252456,
-      "name": "Petrified",
-      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
-        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
-      },
-      "artists": [
-        {
-          "name": "Dudu Tassa",
-          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
-        }
-      ],
-      "duration_ms": 188987,
-      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
-        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
-      },
-      "artists": [
-        {
-          "name": "Ilan Peled",
-          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
-        },
-        {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
-      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
-    },
-    {
-      "added_at": "2024-09-05 21:01:00",
-      "album": {
-        "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
-        "url": "https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spector",
-          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
-      "url": "https://open.spotify.com/track/0OxILw9eBRYTDTkV3uJQh4"
     },
     {
       "added_at": "2024-09-05 21:01:00",
@@ -1111,6 +1027,94 @@
       "duration_ms": 259000,
       "name": "All The Way",
       "url": "https://open.spotify.com/track/5G3Tdxnfgi8vqtHConYJWM"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB"
+      },
+      "artists": [
+        {
+          "name": "Aya Zahavi Feiglin",
+          "url": "https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "\u05d4\u05d9\u05d9 \u05d0\u05d7\u05d5\u05ea",
+      "url": "https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+        "url": "https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "duration_ms": 188987,
+      "name": "\u05e2\u05ea \u05dc\u05d0\u05d4\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "Petrified",
+        "url": "https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP"
+      },
+      "artists": [
+        {
+          "name": "David Lerner",
+          "url": "https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR"
+        }
+      ],
+      "duration_ms": 252456,
+      "name": "Petrified",
+      "url": "https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+        "url": "https://open.spotify.com/album/6YSPaFeSwjXvrFyrnxXfgy"
+      },
+      "artists": [
+        {
+          "name": "Ilan Peled",
+          "url": "https://open.spotify.com/artist/1LpRkScq81dh88nfExlreL"
+        },
+        {
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "\u05d5\u05de\u05d4 \u05e0\u05e9\u05d0\u05e8",
+      "url": "https://open.spotify.com/track/4Z6pU5UHfUNO6uh6OT8IGa"
+    },
+    {
+      "added_at": "2024-09-05 21:01:00",
+      "album": {
+        "name": "\u05dc\u05d7\u05d9\u05d5\u05ea",
+        "url": "https://open.spotify.com/album/6uPKNwK4o6QokRH0I7z7cL"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spector",
+          "url": "https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W"
+        },
+        {
+          "name": "Alon Eder",
+          "url": "https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll"
+        }
+      ],
+      "duration_ms": 256092,
+      "name": "\u05d4\u05dc\u05d5\u05da \u05d5\u05e9\u05d5\u05d1",
+      "url": "https://open.spotify.com/track/1LWXYCFfhJBeeNhQw6io2j"
     }
   ],
   "unique_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",

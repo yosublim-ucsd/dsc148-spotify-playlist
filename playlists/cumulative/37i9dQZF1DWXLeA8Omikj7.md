@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-979 songs - 2 day 22 hr 17 min
+980 songs - 2 day 22 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Ghost](https://open.spotify.com/track/7AQjYCNDaxvnLzajPn6tmd) | [Ookay](https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t) | [Ghost](https://open.spotify.com/album/6obE8PUQth0vzbAH5IeQnp) | 3:47 | 2019-05-26\* | 2020-08-26 |
 | [Ghost Plant](https://open.spotify.com/track/0l5yzyUkyFbGcFPPdRGLOl) | [High Math](https://open.spotify.com/artist/71fMNJGcp7GFz0ZxBvohtt) | [Ghost Plant](https://open.spotify.com/album/3pUXaUfatJq2Whvk6ECeRp) | 1:16 | 2019-07-26 | 2020-08-26 |
 | [Ghosted](https://open.spotify.com/track/4zCWCBENCHWgSag7BXsuJL) | [Sonny Side Up](https://open.spotify.com/artist/4gFsE3BJKgBw4VdueiIrEl) | [Ghosted](https://open.spotify.com/album/0DCNR7DuF8b0MDU3wAH10w) | 2:37 | 2021-01-30 |  |
-| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* |  |
+| [Gilded](https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig) | [Sarah Davachi](https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA) | [Gave in Rest](https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR) | 3:30 | 2019-06-19\* | 2024-09-10 |
 | [Gin](https://open.spotify.com/track/0nQ7GqFn1SIrYY4KZb2h7u) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG) | [Diamonds](https://open.spotify.com/album/2m7ty72Y36LBf9pdEKJRdW) | 2:10 | 2019-06-19\* |  |
 | [Gjuijar](https://open.spotify.com/track/36vmHQWDFTkiihU3YTMXO5) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/1RwMFMZCSBvlr8QrPuBgC4) | 4:41 | 2021-07-23 | 2022-07-29 |
 | [Gjuijar](https://open.spotify.com/track/4bN14h0cAjKYGS7GqfKjBp) | [Flanafi](https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d), [Ape School](https://open.spotify.com/artist/0z0xZ00PVGWHUEIKPa5UEv) | [The Knees Start to Go](https://open.spotify.com/album/0mYfyjA0zCp3n6RkdB0rLC) | 4:41 | 2022-09-09 | 2023-04-02 |
@@ -650,6 +650,7 @@
 | [Polaris](https://open.spotify.com/track/6Qng1hawspj0ddyexe0IHV) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [We Are Friends, Vol\. 6](https://open.spotify.com/album/04EzEYc1Q1YHeDMxQAJR2P) | 9:45 | 2019-06-21 | 2020-08-26 |
 | [Polyparty](https://open.spotify.com/track/1D4JdD2b3kIO51p4GSAzXi) | [Aspetuck](https://open.spotify.com/artist/0GkeJJhTM5XDaT8iuRl0gd) | [Aspetuck 002](https://open.spotify.com/album/0ayZp8Cy4rwDLteIOWTUT1) | 5:51 | 2020-02-05 | 2020-05-18 |
 | [Porcelain](https://open.spotify.com/track/5et8DWvvtMND8WzRDeql3n) | [Earth Trax](https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ) | [Closer Now](https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC) | 4:58 | 2023-03-18 | 2023-10-01 |
+| [potluck](https://open.spotify.com/track/0DeAJmckih4dColRzcdHrA) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [Holly Waxwing](https://open.spotify.com/artist/65vLeQ3wfcwF6NJobtlpBv), [Ari Liloia](https://open.spotify.com/artist/6rYxB2pEDc1emPnoDq8rg3) | [potluck](https://open.spotify.com/album/7z61N7PSOhMOFWpnF7uDvb) | 4:36 | 2024-09-06 |  |
 | [Praah Com Poesia](https://open.spotify.com/track/5wA6aFuMZw783ghYlxVybw) | [Spaniol](https://open.spotify.com/artist/379N7T3a4nmax4XPxffDn1) | [Confluencias II: Montaña](https://open.spotify.com/album/59OxHbwWRRJ20ZGENMwRSq) | 6:16 | 2019-06-21 | 2020-10-22 |
 | [Prelude](https://open.spotify.com/track/1q1p0bsfEgqXDEWo1kx363) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [Territory](https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58) | 1:52 | 2019-06-20 | 2020-10-22 |
 | [Presudeos](https://open.spotify.com/track/0g3Aik1PF3U7mOsWT4vC1n) | [Alon Mor](https://open.spotify.com/artist/6OLvF6GmX0tMBJJDoeM9Hh) | [Long Awaited Journey](https://open.spotify.com/album/0luITeWYScJrsgLfuctJaV) | 9:08 | 2019-06-19\* | 2020-08-26 |

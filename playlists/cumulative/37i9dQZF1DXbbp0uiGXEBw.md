@@ -4,7 +4,7 @@
 
 > Cùng Phương Mỹ Chi tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt.
 
-275 songs - 17 hr 41 min
+276 songs - 17 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Con Cò Và Mặt Trời](https://open.spotify.com/track/66NklLT0sNLJdH1gmQX6xN) | [Phương Mỹ Chi](https://open.spotify.com/artist/1BcjfrXV4Oe3fK0c8dnxFF), [DTAP](https://open.spotify.com/artist/5L9ssI4l4DKU1za4ZwvKvG) | [Vũ Trụ Cò Bay \(Deluxe Version\)](https://open.spotify.com/album/626xyudaD4ySeXlaelOujb) | 3:35 | 2024-08-27 | 2024-09-06 |
 | [Con Đã Về](https://open.spotify.com/track/17rXZKbGKVWA4ZudeyFKy8) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3) | [Con Đã Về](https://open.spotify.com/album/68sqNGevSOeTj9PixQQSev) | 4:26 | 2022-02-01 | 2022-02-24 |
 | [Criminal](https://open.spotify.com/track/6JAFqDVdkLfJ9BtGIBZNWd) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Nữ Hoàng Vũ Đạo Đường Phố \(SWFV\) Nhiệm vụ Cấp bậc](https://open.spotify.com/album/2KFtIUAicQBmIyKV4hoWgT) | 3:06 | 2024-09-06 |  |
-| [Cuộc gọi về nhà](https://open.spotify.com/track/5cOJyNRsEpE9j7cN4Vz86D) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Cuộc gọi về nhà](https://open.spotify.com/album/7rGIfaNTYgknjJqsmbEdzN) | 3:49 | 2023-11-29 |  |
+| [Cuộc gọi về nhà](https://open.spotify.com/track/5cOJyNRsEpE9j7cN4Vz86D) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Cuộc gọi về nhà](https://open.spotify.com/album/7rGIfaNTYgknjJqsmbEdzN) | 3:49 | 2023-11-29 | 2024-09-10 |
 | [Cà Phê](https://open.spotify.com/track/5cvW3PYJeQjRTnj9vHP5Va) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [50/50](https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff) | 3:10 | 2022-03-21 |  |
 | [Có 1 Người Sẽ Đến](https://open.spotify.com/track/77fNnD0fqYyCiXFhTvoPEp) | [Nguyên Hà](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Hồi Ức Thanh Xuân](https://open.spotify.com/album/3pLMlm8TkW4xlKSbKBd4fB) | 4:34 | 2024-04-02 | 2024-05-21 |
 | [Có Ai Thương Em Như Anh](https://open.spotify.com/track/7AD5F85waSb3yZxZxEXhJM) | [Tóc Tiên](https://open.spotify.com/artist/4YkqEuVf1Jf2x2XDqJ2CvC), [Touliver](https://open.spotify.com/artist/5UNWQJdUbO8Gbg9Qn3r52M) | [Có Ai Thương Em Như Anh](https://open.spotify.com/album/3MxId1GopqGHnUTynUIuFA) | 3:51 | 2022-07-12 |  |
@@ -283,5 +283,6 @@
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/1U4zQAW8s2kAMftN3avXL0) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [CAM'ON](https://open.spotify.com/album/5tZXLMvuV0A4HYbU9tcQrg) | 3:32 | 2024-02-06 | 2024-07-04 |
 | [Đừng kết thúc hôm nay](https://open.spotify.com/track/3VkPKSc5HU1WPahoLOCRnj) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Đừng kết thúc hôm nay](https://open.spotify.com/album/4h0hGD95lTVKwSjNZAvfp3) | 3:32 | 2023-12-09 | 2024-01-10 |
 | [Đừng Nói Tôi Điên](https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7) | [Thu Minh](https://open.spotify.com/artist/4mzMFxVZNS2uCVNdsVFoj5), [Myra Trần](https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd) | [Đừng Nói Tôi Điên](https://open.spotify.com/album/6mxpoaAVFBasybCf2NHaPN) | 4:30 | 2023-11-29 | 2024-03-06 |
+| [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [ƯỚC ANH TAN NÁT CON TIM](https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU) | 3:50 | 2024-09-10 |  |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

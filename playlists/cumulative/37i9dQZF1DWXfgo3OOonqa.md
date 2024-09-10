@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-1,582 songs - 2 day 21 hr 1 min
+1,583 songs - 2 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1147,6 +1147,7 @@
 | [Poppade en till](https://open.spotify.com/track/5QR4fCF91oBMMdiH0xJDvk) | [Parham](https://open.spotify.com/artist/3ldCASdD4QRyfTt6lpPn6y) | [Poppade en till](https://open.spotify.com/album/1KkYv6Q0yrGehzyZm0tAGJ) | 3:29 | 2023-01-19 | 2023-02-10 |
 | [Poppis](https://open.spotify.com/track/0YdaLD97uhero6WpO4HfMe) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Poppis](https://open.spotify.com/album/5abDAhJ618gaQ26XyMa8Bp) | 2:07 | 2022-02-10 | 2022-04-29 |
 | [POW POW](https://open.spotify.com/track/7bEG8w5O4P2zDBirLYqBkc) | [Cicii](https://open.spotify.com/artist/5uf9F1Z86ckaBP5kCA2V9F), [DJ BAZE](https://open.spotify.com/artist/4XqqwU47yfpLcUR3EfmTR7) | [POW POW](https://open.spotify.com/album/18d7OCTsQZrqExaFzfC8sh) | 3:07 | 2021-12-16 | 2022-01-07 |
+| [Poängplockarna](https://open.spotify.com/track/6e3OK7sF64zXh4H9mmreOc) | [Shacki](https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [Poängplockarna](https://open.spotify.com/album/3QoAhmzzFNCPRodFWTkaSQ) | 2:11 | 2024-09-09 |  |
 | [PRAPAPA](https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq) | [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [PRAPAPA](https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9) | 2:04 | 2023-07-06 | 2023-10-06 |
 | [Preach](https://open.spotify.com/track/6eaWqe9hXtUgA604vZg5ct) | [Fille Danza](https://open.spotify.com/artist/5oWrOLZfLDGgpeD3crSRa3), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [Preach](https://open.spotify.com/album/62FvyTtNzWIpyI1dk9mSX9) | 2:54 | 2021-12-16 | 2022-01-07 |
 | [PRECIS INNAN DU SOMNAR](https://open.spotify.com/track/1AHe5HM7PdZxfdSnwurjMZ) | [Gee Dixon](https://open.spotify.com/artist/3oJjZweJo9yqNFnKBTlgm0), [Viktor Ax](https://open.spotify.com/artist/4qp8Vfo8zlEF8ZqJxQJt84), [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [YVO](https://open.spotify.com/artist/4Zwos2Ntsm6WlvNmFoTL8h) | [AVANTGARDE](https://open.spotify.com/album/3tsrP3xrEQjo8HJVmA90W6) | 3:38 | 2023-11-23 | 2024-02-09 |

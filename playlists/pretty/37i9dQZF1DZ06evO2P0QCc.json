@@ -1,12 +1,12 @@
 {
-  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
-  "num_followers": 111394,
+  "description": "This is Inspector. The essential tracks, all in one playlist.",
+  "num_followers": 111418,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAABNEx9qB4OsGabbT+Z0iLB+",
+  "snapshot_id": "ZtzpAAAAAACc+oTP6B1o/nbR+Apqwe+0",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 213746,
+      "name": "El Relato",
+      "url": "https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Inspector",
         "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 200613,
       "name": "Noviembre (feat. Ely Guerra)",
       "url": "https://open.spotify.com/track/1ZZwOa4F545Z0bsirja8iz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 213746,
-      "name": "El Relato",
-      "url": "https://open.spotify.com/track/7dLsthrW8ROlkLeOTglRsz"
     },
     {
       "added_at": null,

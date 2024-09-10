@@ -1,6 +1,6 @@
 {
   "description": "Everyday. Every time.  These are the songs you can count on. Always. Cover: <a href=\"spotify:artist:4sdhhi6q1Ez9l5PagQsykC\">Katy Nichole</a>",
-  "num_followers": 611072,
+  "num_followers": 611203,
   "original_name": "Everyday Inspiration",
   "owner": {
     "name": "Spotify",
@@ -195,22 +195,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Fear No More",
-        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        }
-      ],
-      "duration_ms": 192926,
-      "name": "Fear No More",
-      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Sing Like Never Before: The Essential Collection",
         "url": "https://open.spotify.com/album/70kDwid3oC52MDbnRxWydm"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 256933,
       "name": "10,000 Reasons (Bless The Lord) [Radio Version] - Radio Version/Live",
       "url": "https://open.spotify.com/track/2MobJagQB0dGJoRqI8OT0m"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Fear No More",
+        "url": "https://open.spotify.com/album/2fB6DEetkiafmJD4hcfMDZ"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        }
+      ],
+      "duration_ms": 192926,
+      "name": "Fear No More",
+      "url": "https://open.spotify.com/track/2dRkBASYztFHahOf5GNeQ9"
     },
     {
       "added_at": "2024-06-23 01:51:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-06-23 01:51:00",
       "album": {
-        "name": "Church Pew",
-        "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 183558,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
-    },
-    {
-      "added_at": "2024-06-23 01:51:00",
-      "album": {
         "name": "Lydia Laird",
         "url": "https://open.spotify.com/album/3erGyrIRfmyAx7bQpiYc8N"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 204865,
       "name": "Hallelujah Even Here",
       "url": "https://open.spotify.com/track/5fRvZNPLgsUntaKPOLuwc6"
+    },
+    {
+      "added_at": "2024-06-23 01:51:00",
+      "album": {
+        "name": "Church Pew",
+        "url": "https://open.spotify.com/album/28nagL70UdAzAs1ZgNOGnN"
+      },
+      "artists": [
+        {
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+        }
+      ],
+      "duration_ms": 183558,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/7gG1zqIVyFeowQEo4iZiAd"
     },
     {
       "added_at": "2024-06-23 01:51:00",

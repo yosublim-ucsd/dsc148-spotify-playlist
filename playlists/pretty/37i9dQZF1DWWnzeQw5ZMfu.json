@@ -1,6 +1,6 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there.  Cover: Niall Horan",
-  "num_followers": 69699,
+  "num_followers": 69707,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
@@ -495,18 +495,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Don't Start Now (Live in LA Remix)",
-        "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
+        "name": "Serious Hits...Live! - 2019 Remaster",
+        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 340075,
-      "name": "Don't Start Now - Live in LA Remix",
-      "url": "https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ"
+      "duration_ms": 393146,
+      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
+      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Serious Hits...Live! - 2019 Remaster",
-        "url": "https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV"
+        "name": "Don't Start Now (Live in LA Remix)",
+        "url": "https://open.spotify.com/album/0MaGeHimijY3IhEWPkTUEx"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 393146,
-      "name": "In the Air Tonight - Live from the Serious Tour 1990; 2019 Remaster",
-      "url": "https://open.spotify.com/track/0izmGVy9X7JVY3Eh44s84B"
+      "duration_ms": 340075,
+      "name": "Don't Start Now - Live in LA Remix",
+      "url": "https://open.spotify.com/track/7d9aNPQ3idYpe9zjQHSLwQ"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 285930,
+      "name": "I See Fire - Live and in Session",
+      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
         "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 362216,
       "name": "Freedom! '90 - Live from MTV Unplugged, 1996",
       "url": "https://open.spotify.com/track/0tLa4mib11WGc1YbSa1AFq"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
-        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 191820,
-      "name": "Kill This Love - Live",
-      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+        "name": "BLACKPINK 2021 'THE SHOW' LIVE",
+        "url": "https://open.spotify.com/album/5IDJBkr9EzMofENo4ScNxi"
       },
       "artists": [
         {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 285930,
-      "name": "I See Fire - Live and in Session",
-      "url": "https://open.spotify.com/track/3pA38Vfw2Q3T1LSL5wcPk7"
+      "duration_ms": 191820,
+      "name": "Kill This Love - Live",
+      "url": "https://open.spotify.com/track/1GrGs8HBvOHHdeho4w1ZkH"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
-        "name": "Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 256740,
-      "name": "Treat You Better - Live",
-      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
         "name": "Pandemonium (Live at the O2 Arena, London - 21 December 2009)",
         "url": "https://open.spotify.com/album/3ndAvT7Tca2KclpKe9BbbL"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 223226,
       "name": "Always on My Mind - Live at the O2 Arena, London - 21 December 2009",
       "url": "https://open.spotify.com/track/78j9FMDQ5hRt0JTDHYEvg3"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
+        "name": "Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 256740,
+      "name": "Treat You Better - Live",
+      "url": "https://open.spotify.com/track/4LEtCNmFV5NyWcANGZC9si"
     },
     {
       "added_at": "2024-02-13 05:00:00",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2024-02-13 05:00:00",
       "album": {
+        "name": "Soul Live",
+        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
+      },
+      "artists": [
+        {
+          "name": "Seal",
+          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
+        }
+      ],
+      "duration_ms": 441666,
+      "name": "Crazy - Live",
+      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
+    },
+    {
+      "added_at": "2024-02-13 05:00:00",
+      "album": {
         "name": "Live At Madison Square Garden",
         "url": "https://open.spotify.com/album/6kTIdOmlTbxh7vzNwb4n0L"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 211240,
       "name": "Waking Up In Vegas - Live At MTV Unplugged, 2009",
       "url": "https://open.spotify.com/track/532jcgk0ZQgRze05omDsqo"
-    },
-    {
-      "added_at": "2024-02-13 05:00:00",
-      "album": {
-        "name": "Soul Live",
-        "url": "https://open.spotify.com/album/6bXqJuzljqzZo4MMhoECiT"
-      },
-      "artists": [
-        {
-          "name": "Seal",
-          "url": "https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv"
-        }
-      ],
-      "duration_ms": 441666,
-      "name": "Crazy - Live",
-      "url": "https://open.spotify.com/track/0amwBCPSbKOMq1C5EC687X"
     },
     {
       "added_at": "2024-02-13 05:00:00",

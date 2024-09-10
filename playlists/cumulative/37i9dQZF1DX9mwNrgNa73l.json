@@ -857,6 +857,28 @@
     },
     {
       "album": {
+        "name": "SAEN V",
+        "url": "https://open.spotify.com/album/4kqmmKtqwpehMneabNjdv6"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Shahid Mallya",
+          "url": "https://open.spotify.com/artist/4LnYRxNZVCTsDCO2xKjOn8"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Bulleshah",
+      "url": "https://open.spotify.com/track/2aoxNtHgeXaKk2wkuzYQc0"
+    },
+    {
+      "album": {
         "name": "Ae Dil Hai Mushkil (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex"
       },
@@ -3317,6 +3339,32 @@
     },
     {
       "album": {
+        "name": "Salle Alla",
+        "url": "https://open.spotify.com/album/3OjpUyw8B63wMLB1Snp514"
+      },
+      "artists": [
+        {
+          "name": "Shaarib Toshi",
+          "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
+        },
+        {
+          "name": "Hashim Ahmedani",
+          "url": "https://open.spotify.com/artist/0Su1XZz9jwRLRT0GBGWLpO"
+        },
+        {
+          "name": "Alex Shahbaz",
+          "url": "https://open.spotify.com/artist/2ozQBz0oMeKqW2xSomWVwp"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284171,
+      "name": "Salle Alla",
+      "url": "https://open.spotify.com/track/6Pp8UsVAzoqCojPWEFFnYT"
+    },
+    {
+      "album": {
         "name": "Nusrat Fateh Ali Khan No. 1 Hits",
         "url": "https://open.spotify.com/album/5dZFcWltRWnmi4takYGuij"
       },
@@ -3824,7 +3872,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 298500,
       "name": "Wiladat",
       "url": "https://open.spotify.com/track/68PqHsJQCdbC6fekbY8u7l"

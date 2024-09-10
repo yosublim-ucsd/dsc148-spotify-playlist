@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: JJ4K
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,469 likes - 95 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,470 likes - 95 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 17 | [Vibe](https://open.spotify.com/track/5HUGeXDiLSpBr2Bg1zDrE4) | [POETIK](https://open.spotify.com/artist/32yy4XQE2Pnziuq7rc58EA), [Raggadat Cris](https://open.spotify.com/artist/6i4nnmw5KnkFqmLEH7QkJJ), [Lee Monro](https://open.spotify.com/artist/4q18hlAqtj53irTF6psTk9), [BIGGs 685](https://open.spotify.com/artist/1iIdYSoOB5dhc90R9ENrjM) | [Vibe](https://open.spotify.com/album/5Kj9oueIM0JBRn59m7viAJ) | 2:58 |
 | 18 | [WHEN I](https://open.spotify.com/track/5hqBRdjLsiIELegHNyMhaG) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H) | [WHEN I](https://open.spotify.com/album/6DQc77aqIKxso8JJzkowta) | 1:59 |
 | 19 | [Dawg In Me](https://open.spotify.com/track/1o620TsetJRzlSvKzaXVSh) | [Miss Kaninna](https://open.spotify.com/artist/1ODboExevbfXfgKz7NPKxz) | [Dawg In Me](https://open.spotify.com/album/4808Jj2DIvH8aVXG3rWJFj) | 2:29 |
-| 20 | [Asskin Fore More](https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Asskin For More](https://open.spotify.com/album/2AeoJ9iRsZmaXapSXvvpVw) | 3:52 |
+| 20 | [Asskin For More](https://open.spotify.com/track/1QKeGFTwANvnboG2ji86Qi) | [Cool Out Sun](https://open.spotify.com/artist/7I1YIX7VLDgFGs4THxBqRd), [N'fa Jones](https://open.spotify.com/artist/7g4RUa5OftEV75aZ4kLOJk), [Sensible J](https://open.spotify.com/artist/1UdDg4tjgYWO4MHzvrgT2U), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Asskin For More](https://open.spotify.com/album/2AeoJ9iRsZmaXapSXvvpVw) | 3:52 |
 | 21 | [Reverie](https://open.spotify.com/track/5IBVaaOPUrkOhF9lIFkd5Z) | [Miles Nautu](https://open.spotify.com/artist/0o5U1p6ZUurte1gamdqmLI), [Marigold](https://open.spotify.com/artist/1qxMrN7GOPfiFkC8H0rKh6) | [ALLUDE](https://open.spotify.com/album/1VsciwZ0oNZeb10mCr8rAX) | 4:12 |
 | 22 | [PRIDE \- EPISODE 2](https://open.spotify.com/track/5N32A33Xtf216gEBTUgnMr) | [OD](https://open.spotify.com/artist/52mj5aYgAlSF03Gpx1KHX9) | [PRIDE \(EPISODE 2\)](https://open.spotify.com/album/7g6h09Tv4ELd4OAqAVa4bu) | 2:15 |
 | 23 | [AREA SAINT](https://open.spotify.com/track/3OyEK1Il9ZYJ4T90Uef1BT) | [King Roman](https://open.spotify.com/artist/1mKApP2dgCtGbvKssYpJaq) | [AREA SAINT](https://open.spotify.com/album/1E5XrdS7rd7LazbKmOuDSM) | 2:38 |

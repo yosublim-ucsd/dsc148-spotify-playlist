@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 465368,
+  "num_followers": 465383,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Bloodclock",
-        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
-      },
-      "artists": [
-        {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
-        }
-      ],
-      "duration_ms": 314373,
-      "name": "Bloodclock",
-      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "Schizophrenia (Re-Recorded)",
         "url": "https://open.spotify.com/album/3SlfkVIXt6loQjZOByllmv"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 274093,
       "name": "How Many Tears to Nurture a Rose?",
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Bloodclock",
+        "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
+      },
+      "artists": [
+        {
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Bloodclock",
+      "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
+        "name": "An End to Everything",
+        "url": "https://open.spotify.com/album/4TlTgmb6Kwo6VoOh8bDF14"
+      },
+      "artists": [
+        {
+          "name": "Entheos",
+          "url": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
+        }
+      ],
+      "duration_ms": 214883,
+      "name": "An End to Everything",
+      "url": "https://open.spotify.com/track/6sKANyckRxoAVakhHnPDGU"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
         "name": "Dreadbringer",
         "url": "https://open.spotify.com/album/0jSVZMYKV2kaI2mePVHF1v"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 330941,
       "name": "Dreadbringer",
       "url": "https://open.spotify.com/track/2w5EUUiQUnbgWe3kwZAh4n"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "An End to Everything",
-        "url": "https://open.spotify.com/album/4TlTgmb6Kwo6VoOh8bDF14"
-      },
-      "artists": [
-        {
-          "name": "Entheos",
-          "url": "https://open.spotify.com/artist/4ZBgVz7Pg5ZAX7pZjURSOI"
-        }
-      ],
-      "duration_ms": 214883,
-      "name": "An End to Everything",
-      "url": "https://open.spotify.com/track/6sKANyckRxoAVakhHnPDGU"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Reinkaos",
-        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
-      },
-      "artists": [
-        {
-          "name": "Dissection",
-          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
-        }
-      ],
-      "duration_ms": 366333,
-      "name": "Maha-Kali",
-      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "The Deceivers (Instrumental)",
         "url": "https://open.spotify.com/album/2xs01qTwDQ0BkreOq75GQT"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 267813,
       "name": "Purified by Vengeance (Instrumental) [feat. Mark Holcomb, Periphery & Mick Gordon]",
       "url": "https://open.spotify.com/track/39TLRxXsT5Ar1vM0q7JZS2"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Reinkaos",
+        "url": "https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw"
+      },
+      "artists": [
+        {
+          "name": "Dissection",
+          "url": "https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe"
+        }
+      ],
+      "duration_ms": 366333,
+      "name": "Maha-Kali",
+      "url": "https://open.spotify.com/track/0Jt4oMpZKEFRrHYBNglgzt"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1303,38 +1303,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "The Lake of Blood",
-        "url": "https://open.spotify.com/album/1OusZ0BZhBVV2kEpwEm3O5"
-      },
-      "artists": [
-        {
-          "name": "Ereb Altor",
-          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
-        }
-      ],
-      "duration_ms": 383585,
-      "name": "The Lake of Blood",
-      "url": "https://open.spotify.com/track/4NJoXNF44uL3D6UyexhGYr"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "All Is Dust",
-        "url": "https://open.spotify.com/album/6yAVfeKaGnEZ7SPWp6rnDV"
-      },
-      "artists": [
-        {
-          "name": "Neaera",
-          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
-        }
-      ],
-      "duration_ms": 338617,
-      "name": "Pacifier",
-      "url": "https://open.spotify.com/track/4ywWva0s8MTSJmdnf8IpZd"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "Serpent Sermon",
         "url": "https://open.spotify.com/album/5mvX2lAGsrLplQhbO5QPFa"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 355506,
       "name": "Mountain Magick",
       "url": "https://open.spotify.com/track/640gQtoBsV6NzzHsFqNMO2"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "All Is Dust",
+        "url": "https://open.spotify.com/album/6yAVfeKaGnEZ7SPWp6rnDV"
+      },
+      "artists": [
+        {
+          "name": "Neaera",
+          "url": "https://open.spotify.com/artist/66Xc7Y6aW9W5RS2r8HY6P2"
+        }
+      ],
+      "duration_ms": 338617,
+      "name": "Pacifier",
+      "url": "https://open.spotify.com/track/4ywWva0s8MTSJmdnf8IpZd"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "The Lake of Blood",
+        "url": "https://open.spotify.com/album/1OusZ0BZhBVV2kEpwEm3O5"
+      },
+      "artists": [
+        {
+          "name": "Ereb Altor",
+          "url": "https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm"
+        }
+      ],
+      "duration_ms": 383585,
+      "name": "The Lake of Blood",
+      "url": "https://open.spotify.com/track/4NJoXNF44uL3D6UyexhGYr"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
+        "name": "I Resign",
+        "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
+      },
+      "artists": [
+        {
+          "name": "Crypta",
+          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+        }
+      ],
+      "duration_ms": 233626,
+      "name": "I Resign",
+      "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
         "name": "Death March",
         "url": "https://open.spotify.com/album/5Mpro4JXyYlwrbA1cX9Nzs"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "I Resign",
-        "url": "https://open.spotify.com/album/0ThLiiA7fav9v9hMEajvro"
+        "name": "Hanged by My Hand",
+        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
       },
       "artists": [
         {
-          "name": "Crypta",
-          "url": "https://open.spotify.com/artist/0w1xNkvjKVskWP7GvbiwRB"
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
         }
       ],
-      "duration_ms": 233626,
-      "name": "I Resign",
-      "url": "https://open.spotify.com/track/6s3s4DgMYB4aXtZhNa2rmf"
+      "duration_ms": 193453,
+      "name": "Hanged by My Hand",
+      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 279322,
       "name": "Schmutzliebe",
       "url": "https://open.spotify.com/track/2hZpva43iZT1fFn6MNNghM"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Hanged by My Hand",
-        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Hanged by My Hand",
-      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Unholy Deification",
-        "url": "https://open.spotify.com/album/5SHd2KcCSIvUHcqCLeu60o"
-      },
-      "artists": [
-        {
-          "name": "Incantation",
-          "url": "https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz"
-        }
-      ],
-      "duration_ms": 228635,
-      "name": "Offerings (The Swarm) IV",
-      "url": "https://open.spotify.com/track/6YybsbilnwQcK7a6Vhx2OC"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "The howling",
         "url": "https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 248373,
       "name": "The howling",
       "url": "https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Unholy Deification",
+        "url": "https://open.spotify.com/album/5SHd2KcCSIvUHcqCLeu60o"
+      },
+      "artists": [
+        {
+          "name": "Incantation",
+          "url": "https://open.spotify.com/artist/66AXpP038gUcoKVQoO98Fz"
+        }
+      ],
+      "duration_ms": 228635,
+      "name": "Offerings (The Swarm) IV",
+      "url": "https://open.spotify.com/track/6YybsbilnwQcK7a6Vhx2OC"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Haunted by Guilt",
-        "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
-      },
-      "artists": [
-        {
-          "name": "Kalmah",
-          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
-        }
-      ],
-      "duration_ms": 225635,
-      "name": "Haunted by Guilt",
-      "url": "https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "Seeking To Pierce",
         "url": "https://open.spotify.com/album/7sG0xaqhk1fjO7ZWbOJWYE"
       },
@@ -2019,6 +2003,22 @@
       "duration_ms": 253787,
       "name": "Seeking To Pierce",
       "url": "https://open.spotify.com/track/33LU20qyNQHxAEs9zkhimp"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Haunted by Guilt",
+        "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
+      },
+      "artists": [
+        {
+          "name": "Kalmah",
+          "url": "https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF"
+        }
+      ],
+      "duration_ms": 225635,
+      "name": "Haunted by Guilt",
+      "url": "https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Opus Daemoniacal",
-        "url": "https://open.spotify.com/album/2XmbTXoQzazfgPwlKSHJ31"
-      },
-      "artists": [
-        {
-          "name": "Limbonic Art",
-          "url": "https://open.spotify.com/artist/5IrAgNdYXNkINpqT4XCnTD"
-        }
-      ],
-      "duration_ms": 487174,
-      "name": "Ad Astra Et Abyssos",
-      "url": "https://open.spotify.com/track/27EsSohmA41XrbezV8R6A0"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "Ksar Al-Kufar",
         "url": "https://open.spotify.com/album/7uxKxIqVeps6DWbaggpNKm"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 261746,
       "name": "Ksar Al-Kufar",
       "url": "https://open.spotify.com/track/209JHbDe9Y5gJkWnVpxmSx"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Opus Daemoniacal",
+        "url": "https://open.spotify.com/album/2XmbTXoQzazfgPwlKSHJ31"
+      },
+      "artists": [
+        {
+          "name": "Limbonic Art",
+          "url": "https://open.spotify.com/artist/5IrAgNdYXNkINpqT4XCnTD"
+        }
+      ],
+      "duration_ms": 487174,
+      "name": "Ad Astra Et Abyssos",
+      "url": "https://open.spotify.com/track/27EsSohmA41XrbezV8R6A0"
     },
     {
       "added_at": "2024-08-16 00:01:00",
@@ -2423,22 +2423,6 @@
     {
       "added_at": "2024-08-16 00:01:00",
       "album": {
-        "name": "Hellfenlic",
-        "url": "https://open.spotify.com/album/1i4JZRIz4EOsaaBKuFpNTf"
-      },
-      "artists": [
-        {
-          "name": "The Infernal Sea",
-          "url": "https://open.spotify.com/artist/2PRHHXzKIZIBrkXi2q4Pfu"
-        }
-      ],
-      "duration_ms": 224645,
-      "name": "Black Witchery",
-      "url": "https://open.spotify.com/track/7gnNzzJFEjzKY1H4u75XEq"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
         "name": "Warmen Are Here For None",
         "url": "https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 217240,
       "name": "Warmen Are Here For None",
       "url": "https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Hellfenlic",
+        "url": "https://open.spotify.com/album/1i4JZRIz4EOsaaBKuFpNTf"
+      },
+      "artists": [
+        {
+          "name": "The Infernal Sea",
+          "url": "https://open.spotify.com/artist/2PRHHXzKIZIBrkXi2q4Pfu"
+        }
+      ],
+      "duration_ms": 224645,
+      "name": "Black Witchery",
+      "url": "https://open.spotify.com/track/7gnNzzJFEjzKY1H4u75XEq"
     }
   ],
   "unique_name": "Extreme Metal",

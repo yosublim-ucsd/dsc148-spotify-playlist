@@ -2,7 +2,7 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> DIAMANTE
+> crue!
 
 670 songs - 2 day 0 hr 44 min
 

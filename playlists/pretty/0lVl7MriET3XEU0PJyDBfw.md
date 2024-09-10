@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 
 ### [BASSLINE THERAPY](https://open.spotify.com/playlist/0lVl7MriET3XEU0PJyDBfw)
 
-> Tech House therapy for the dance floor \| Submit: houseiumpromo@gmail.com
+> Your Tech House session for the dance floor \| Submit: houseiumpromo@gmail.com
 
 [Houseium Playlists](https://open.spotify.com/user/jayke0108) - 11,017 likes - 60 songs - 3 hr 7 min
 
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/0lVl7MriET3XEU0PJyDBfw.md) - [plain]
 | 59 | [So Different](https://open.spotify.com/track/7ncQlEWDcux4xhuoGzY2Lc) | [Pickle](https://open.spotify.com/artist/3RuyFkjMNXXXabK3bH5DQt), [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [So Different](https://open.spotify.com/album/36Qxy0uYkoTu5sVWvIzoVZ) | 3:00 |
 | 60 | [There It Is](https://open.spotify.com/track/71b4fGIGMUacvD6fg6xltk) | [X & Ivy](https://open.spotify.com/artist/5GrYSX7RkjYmhl0eUWRcpH) | [There It Is](https://open.spotify.com/album/1HIhM9eys4WCCLvgcppZTl) | 3:09 |
 
-Snapshot ID: `AAAZAgyqZ2ClClBVt1jAN4sebM+2oWpd`
+Snapshot ID: `AAAZA4XJ7DMnSmZxukQeshW6dETp7oE0`

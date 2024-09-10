@@ -680,7 +680,7 @@
       ],
       "date_added": "2024-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 345666,
       "name": "Agnus Dei",
       "url": "https://open.spotify.com/track/2ohy1XMth89tkmCk7esI0q"
@@ -1380,7 +1380,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 36093,
       "name": "Banana - Skit",
       "url": "https://open.spotify.com/track/5Rc0ZtPwdP2P8wXTq7EamM"
@@ -2144,7 +2144,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 329541,
       "name": "BUSY / SIRENS",
       "url": "https://open.spotify.com/track/4YdRnTnXYwgI48kkzWy6uk"
@@ -4734,7 +4734,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 225853,
       "name": "Good Times Roll",
       "url": "https://open.spotify.com/track/7hVhRCDV100Jq26NGR7adw"
@@ -5978,7 +5978,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 67133,
       "name": "Intro",
       "url": "https://open.spotify.com/track/2zavoMfVVPJMikH57fd8yK"
@@ -6928,7 +6928,7 @@
       ],
       "date_added": "2023-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 369600,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
@@ -7446,6 +7446,24 @@
       "duration_ms": 446293,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/0dYTYyBD0j1neoklCctt1s"
+    },
+    {
+      "album": {
+        "name": "Manning Fireworks",
+        "url": "https://open.spotify.com/album/1bKiiYGt1fzm9YMlTnUqpN"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179733,
+      "name": "Manning Fireworks",
+      "url": "https://open.spotify.com/track/6Ge9RrMoV65nlpjQ5YJOut"
     },
     {
       "album": {
@@ -10149,6 +10167,24 @@
     },
     {
       "album": {
+        "name": "Imaginal Disk",
+        "url": "https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193186,
+      "name": "She Looked Like Me!",
+      "url": "https://open.spotify.com/track/66st0nh6vlK7t2yzWfzmcA"
+    },
+    {
+      "album": {
         "name": "Shepherd in a Sheepskin Vest",
         "url": "https://open.spotify.com/album/59hAqiqCmbfLBDtMzGCNpp"
       },
@@ -10924,7 +10960,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 378992,
       "name": "Strong",
       "url": "https://open.spotify.com/track/0d7IFDkLXrG2WhQkPYw3Ju"
@@ -11528,7 +11564,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 156960,
       "name": "The Best Ever Death Metal Band in Denton",
       "url": "https://open.spotify.com/track/4AtUqjDgRO2S3jBzAjRvh7"
@@ -12138,6 +12174,24 @@
       "duration_ms": 149466,
       "name": "Them Bones (2022 Remaster)",
       "url": "https://open.spotify.com/track/4A065x9kJt955eGVqf813g"
+    },
+    {
+      "album": {
+        "name": "Home Constellation Study",
+        "url": "https://open.spotify.com/album/3x7F1yCZ0wjlKhRbWqkMzw"
+      },
+      "artists": [
+        {
+          "name": "Asher White",
+          "url": "https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232122,
+      "name": "Theme From Leaving Philadelphia",
+      "url": "https://open.spotify.com/track/4hznb8bMK38TxibW8BQRNK"
     },
     {
       "album": {

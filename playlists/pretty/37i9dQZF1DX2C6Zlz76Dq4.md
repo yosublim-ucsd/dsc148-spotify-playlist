@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 
 > Country's legendary artists singing your favorite Christmas Classics\. Cover: Reba McEntire
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,146 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,144 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2C6Zlz76Dq4.md) - [plain]
 | 99 | [Honky Tonk Christmas](https://open.spotify.com/track/6sSzHqqEYj3iHbCckchnxi) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Honky Tonk Christmas](https://open.spotify.com/album/5kIfAEfAWBYRKHnhLS6ise) | 2:52 |
 | 100 | [Milk and Cookies \('till Santa's Gone\)](https://open.spotify.com/track/2Ocrrp9yiHYy08Qw0Ht4eo) | [Clint Black](https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt) | [The Clint Black Christmas Collection](https://open.spotify.com/album/2F1CtdI1ERhG5Sufzevk3l) | 2:41 |
 
-Snapshot ID: `ZtjE5wAAAAD3rhdtdvvr24Se9eJ9xBem`
+Snapshot ID: `Zt9GvwAAAACc4mHG6jVSE/+ZLljfEIg9`

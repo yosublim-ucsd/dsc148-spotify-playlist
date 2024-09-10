@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 248389,
       "name": "1+1",
       "url": "https://open.spotify.com/track/5faImH2zpFQUn30yWNsbi1"
@@ -60,6 +60,32 @@
       "duration_ms": 212026,
       "name": "11 Januari",
       "url": "https://open.spotify.com/track/2Ev8mNT9YHaUIELEKKf4ld"
+    },
+    {
+      "album": {
+        "name": "17 Juni",
+        "url": "https://open.spotify.com/album/2sEqsb4bAdKvOQJbrmzsqM"
+      },
+      "artists": [
+        {
+          "name": "Pascal Meliala",
+          "url": "https://open.spotify.com/artist/1oChqfTEO3APBVjUaFI1DY"
+        },
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        },
+        {
+          "name": "Cecilia Morinta",
+          "url": "https://open.spotify.com/artist/5BtNjjzw9yWPKtfh02cS3S"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332953,
+      "name": "17 Juni",
+      "url": "https://open.spotify.com/track/44QEmMQci4T5rbKcGHxhzK"
     },
     {
       "album": {
@@ -429,6 +455,24 @@
     },
     {
       "album": {
+        "name": "Cerita",
+        "url": "https://open.spotify.com/album/5RLgxuk2wPeTU9KxSuNF01"
+      },
+      "artists": [
+        {
+          "name": "TADI",
+          "url": "https://open.spotify.com/artist/6hpZLcLqVjqzWWA0ZXTThF"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199844,
+      "name": "Cerita",
+      "url": "https://open.spotify.com/track/6Sa1QuExIuLuZwyDrmgbN3"
+    },
+    {
+      "album": {
         "name": "Gemini",
         "url": "https://open.spotify.com/album/5UUq5EZYAvCFD0ZMNankvF"
       },
@@ -578,6 +622,24 @@
       "duration_ms": 257760,
       "name": "Dewi",
       "url": "https://open.spotify.com/track/3dPqT7eqD97dsN6kFUixk0"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266213,
+      "name": "Dia Dia Dia",
+      "url": "https://open.spotify.com/track/7htWuazarn407jLZTQZp8P"
     },
     {
       "album": {
@@ -870,6 +932,24 @@
       "duration_ms": 170000,
       "name": "Jadi Kekasihku Saja",
       "url": "https://open.spotify.com/track/1lCv3fOI9bqBypLpgUfA4T"
+    },
+    {
+      "album": {
+        "name": "Jangan Pernah Berubah",
+        "url": "https://open.spotify.com/album/5cKCBveEH9NA3svYUb7h0Y"
+      },
+      "artists": [
+        {
+          "name": "Coldiac",
+          "url": "https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238216,
+      "name": "Jangan Pernah Berubah",
+      "url": "https://open.spotify.com/track/1CHgfuZWlq45GGjRgAUhzT"
     },
     {
       "album": {
@@ -2014,6 +2094,24 @@
       "duration_ms": 268422,
       "name": "Sempurna",
       "url": "https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE"
+    },
+    {
+      "album": {
+        "name": "Senopati in the Rain",
+        "url": "https://open.spotify.com/album/1MQWy0x00JEwubp9UAfR31"
+      },
+      "artists": [
+        {
+          "name": "Jordan Susanto",
+          "url": "https://open.spotify.com/artist/3VTinmaVJ65oaRB2QYynkI"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260790,
+      "name": "Senopati in the Rain",
+      "url": "https://open.spotify.com/track/7svlh1SNqobLPM0cJjLTxt"
     },
     {
       "album": {

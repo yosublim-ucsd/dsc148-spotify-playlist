@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-207 songs - 9 hr 18 min
+208 songs - 9 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Bastille](https://open.spotify.com/track/7BHadNj1tyvcUUtwAyaQMJ) | [Felix Tanguy](https://open.spotify.com/artist/5OJrYNaBOdmPu2XsvH7tiW) | [Bastille](https://open.spotify.com/album/3mIBkkGxrGtbHmCgKvDnDa) | 2:15 | 2022-08-03 | 2023-06-21 |
 | [Beauté](https://open.spotify.com/track/6nDc5i9kdQP7gCt8hk3Ib3) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Forlorn](https://open.spotify.com/album/6aMnSCguHOdoJsrvaz6rii) | 3:12 | 2022-08-03 |  |
 | [Before and After](https://open.spotify.com/track/1qdF4ws4FoTuQ9ojY4vQOg) | [Hector Hellström](https://open.spotify.com/artist/0l6NEToAlJUoZTzaYJPRZr) | [Before and After](https://open.spotify.com/album/3s7nEIScJqXvt99fB5kMGR) | 2:19 | 2023-02-21 |  |
+| [Beginnings](https://open.spotify.com/track/07Z42sQFooVNSyoJjknCDz) | [Néer](https://open.spotify.com/artist/5yYwQWCRkaZAIOThUKNo5n) | [Beginnings](https://open.spotify.com/album/4wtOORXX25j7SZSMbb5VmY) | 2:16 | 2024-09-09 |  |
 | [believed](https://open.spotify.com/track/6dEKvEjO2aKRW8sETTH7Pv) | [Esperance](https://open.spotify.com/artist/4HphhPtgKql1Mzeo4snWgg) | [believed](https://open.spotify.com/album/65TinZpS9iX0S4aOvXYUAl) | 2:38 | 2024-09-02 |  |
 | [Bells](https://open.spotify.com/track/698afgx5ev4sqwZBTqHpoW) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo) | [Bells](https://open.spotify.com/album/22blhd4TSXEcQCJ13UmToB) | 3:21 | 2022-08-03 | 2023-06-21 |
 | [Between Words](https://open.spotify.com/track/5MB63o3BqXmPAPtzmhEb4o) | [Kelli Carswell](https://open.spotify.com/artist/1EYt9z9E0wab4f22IvFAJ4) | [Between Words](https://open.spotify.com/album/3a5s2mMbdQgLptCC384fPO) | 2:26 | 2022-10-24 |  |
@@ -144,7 +145,7 @@
 | [Persistence Of Lost Time](https://open.spotify.com/track/1tTWdpNyr5tlQpmRSkkWOe) | [How It All Ends](https://open.spotify.com/artist/78nAIN5HSq9vvW2NTsnv7j), [Arthur Baptista Galvão](https://open.spotify.com/artist/1Kf5YJ4yaDOSOBbkkzaQ2V) | [Persistence Of Lost Time](https://open.spotify.com/album/43inTGMMSmUjfbWzJ0rBzd) | 1:48 | 2022-08-03 |  |
 | [Perth](https://open.spotify.com/track/7isZIXanXM8Yn89Q0Qz0ut) | [Elinaura](https://open.spotify.com/artist/1PHMZ5pRjowUYaUCXtOYVd) | [Perth & Quiet Breath](https://open.spotify.com/album/5iQZ1X4bIuldcL2pU4WxM8) | 2:43 | 2022-09-12 |  |
 | [Pine Scent](https://open.spotify.com/track/3qdrO68GxXO9YFzXeiYdZI) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [Pine Scent](https://open.spotify.com/album/3R5ljw2npySClY689m2qri) | 2:06 | 2024-08-12 |  |
-| [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 |  |
+| [Plus Profond](https://open.spotify.com/track/7tEmaNEsEkAsYIcOvnPaa9) | [Nore April](https://open.spotify.com/artist/1kG5JVjVfcLdz5E97ZatfM) | [Plus Profond](https://open.spotify.com/album/7GksUrM626mfLSL5NFfFEY) | 1:54 | 2022-08-03 | 2024-09-10 |
 | [Poesia](https://open.spotify.com/track/7F6hlMdM7OrUw8C1W4pjAC) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Poesia](https://open.spotify.com/album/65XKtO4I2xUDHKsrMjtUtW) | 2:05 | 2023-01-26 |  |
 | [Poets night](https://open.spotify.com/track/3tBaAnnYtDovnTsohJxGby) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Poets night](https://open.spotify.com/album/0WtuAtlDonPKHRCRCTJE7a) | 3:22 | 2022-08-29 |  |
 | [Quérete a ti mesmo](https://open.spotify.com/track/1LcIr9UrZgmkMGJ6U5aIIm) | [Coralia del Villar](https://open.spotify.com/artist/3gX9B2yu8e72aPFZTap45P) | [Quérete a ti mesmo](https://open.spotify.com/album/4eSIWgY6NHWPhw46vMa4R6) | 2:45 | 2022-08-03 |  |

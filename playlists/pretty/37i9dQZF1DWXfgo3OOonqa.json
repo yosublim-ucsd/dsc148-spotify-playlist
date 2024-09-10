@@ -1,12 +1,12 @@
 {
   "description": "h\u00e5ll det 100.",
-  "num_followers": 333342,
+  "num_followers": 333379,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztop4AAAAADVV4gs0XqHXBuTvnXlcXAG",
+  "snapshot_id": "Zt8CZAAAAACgCCtH/WKia4+YIVlzLwF+",
   "tracks": [
     {
       "added_at": "2024-09-05 22:00:00",
@@ -39,22 +39,6 @@
       "duration_ms": 158378,
       "name": "I Might",
       "url": "https://open.spotify.com/track/2UX821OXiIYGp67PdMqmoe"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "Wanderland",
-        "url": "https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 127200,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -103,6 +87,22 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
+        "name": "Wanderland",
+        "url": "https://open.spotify.com/album/46aeuItpjIlt7UFkiJx0JH"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 127200,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/28tmgW1cStfjnvE3zQARhd"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
         "name": "Veni Vidi Vici",
         "url": "https://open.spotify.com/album/5kKE9BUeleg11gvFSSGE72"
       },
@@ -131,6 +131,26 @@
       "duration_ms": 177087,
       "name": "BABY",
       "url": "https://open.spotify.com/track/5or9rMUbGT1kfSlhKVBQTw"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Shooting Stars",
+        "url": "https://open.spotify.com/album/52cOIztVSBkqo1e1sNXp5r"
+      },
+      "artists": [
+        {
+          "name": "ALAN MAX",
+          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
+        },
+        {
+          "name": "JB",
+          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
+        }
+      ],
+      "duration_ms": 111254,
+      "name": "Shooting Stars",
+      "url": "https://open.spotify.com/track/2lrD9pDlp13KePkBluPGSj"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -287,26 +307,6 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Shooting Stars",
-        "url": "https://open.spotify.com/album/52cOIztVSBkqo1e1sNXp5r"
-      },
-      "artists": [
-        {
-          "name": "ALAN MAX",
-          "url": "https://open.spotify.com/artist/4OVGNBPR9zKzQRLRj98AHY"
-        },
-        {
-          "name": "JB",
-          "url": "https://open.spotify.com/artist/6Xln2zf2OkGDhFKUQcw1yB"
-        }
-      ],
-      "duration_ms": 111254,
-      "name": "Shooting Stars",
-      "url": "https://open.spotify.com/track/2lrD9pDlp13KePkBluPGSj"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
         "name": "Fin & Bad",
         "url": "https://open.spotify.com/album/5pA1bxs27z1XVOJcdWLv4d"
       },
@@ -353,6 +353,26 @@
       "url": "https://open.spotify.com/track/2dbBEKjOo3wm6f0CVl3SvY"
     },
     {
+      "added_at": "2024-09-09 14:12:52",
+      "album": {
+        "name": "Po\u00e4ngplockarna",
+        "url": "https://open.spotify.com/album/3QoAhmzzFNCPRodFWTkaSQ"
+      },
+      "artists": [
+        {
+          "name": "Shacki",
+          "url": "https://open.spotify.com/artist/2PuGN7y0Lvx9ItrBKyutPU"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
+        }
+      ],
+      "duration_ms": 131764,
+      "name": "Po\u00e4ngplockarna",
+      "url": "https://open.spotify.com/track/6e3OK7sF64zXh4H9mmreOc"
+    },
+    {
       "added_at": "2024-09-05 22:00:00",
       "album": {
         "name": "Radarn",
@@ -395,18 +415,18 @@
     {
       "added_at": "2024-09-05 22:00:00",
       "album": {
-        "name": "Claylist",
-        "url": "https://open.spotify.com/album/0DmPw2KV10pzi6Z2xa2Y13"
+        "name": "INLOGGAD 3",
+        "url": "https://open.spotify.com/album/5lcGCMjhnL7XotV4KbjmFG"
       },
       "artists": [
         {
-          "name": "Clayton",
-          "url": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+          "name": "HAVAL",
+          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
         }
       ],
-      "duration_ms": 117683,
-      "name": "Ginseng Drill 2002",
-      "url": "https://open.spotify.com/track/093QVc8x2AguMbxIAd8DzZ"
+      "duration_ms": 163200,
+      "name": "MY LOVE",
+      "url": "https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -439,22 +459,6 @@
       "duration_ms": 183529,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/3ECiakfWYQGpy4fK9A4qF6"
-    },
-    {
-      "added_at": "2024-09-05 22:00:00",
-      "album": {
-        "name": "INLOGGAD 3",
-        "url": "https://open.spotify.com/album/5lcGCMjhnL7XotV4KbjmFG"
-      },
-      "artists": [
-        {
-          "name": "HAVAL",
-          "url": "https://open.spotify.com/artist/4XW87HXcsYTkdK7IhSy2Kt"
-        }
-      ],
-      "duration_ms": 163200,
-      "name": "MY LOVE",
-      "url": "https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw"
     },
     {
       "added_at": "2024-09-05 22:00:00",
@@ -543,6 +547,22 @@
       "duration_ms": 157021,
       "name": "Sista G\u00e5ng",
       "url": "https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA"
+    },
+    {
+      "added_at": "2024-09-05 22:00:00",
+      "album": {
+        "name": "Claylist",
+        "url": "https://open.spotify.com/album/0DmPw2KV10pzi6Z2xa2Y13"
+      },
+      "artists": [
+        {
+          "name": "Clayton",
+          "url": "https://open.spotify.com/artist/2B9eNNfeX4u6TwMtDjS00L"
+        }
+      ],
+      "duration_ms": 117683,
+      "name": "Ginseng Drill 2002",
+      "url": "https://open.spotify.com/track/093QVc8x2AguMbxIAd8DzZ"
     },
     {
       "added_at": "2024-09-05 22:00:00",

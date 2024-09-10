@@ -810,7 +810,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 169106,
       "name": "Duj Sandale",
       "url": "https://open.spotify.com/track/3rx0WO8pmKvpW7DxBOPxry"
@@ -1946,6 +1946,28 @@
       "duration_ms": 364493,
       "name": "Me cago en el amor",
       "url": "https://open.spotify.com/track/6nfxhYm1k0OodleIJfTepK"
+    },
+    {
+      "album": {
+        "name": "Me Sem Rom",
+        "url": "https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg"
+      },
+      "artists": [
+        {
+          "name": "Fanfare Ciocarlia",
+          "url": "https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg"
+        },
+        {
+          "name": "Iulian Canaf",
+          "url": "https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187900,
+      "name": "Me Sem Rom",
+      "url": "https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk"
     },
     {
       "album": {

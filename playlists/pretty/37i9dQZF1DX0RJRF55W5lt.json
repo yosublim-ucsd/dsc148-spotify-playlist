@@ -1,6 +1,6 @@
 {
   "description": "Classic anthems from a classic era. Cover: Sunship",
-  "num_followers": 564002,
+  "num_followers": 564100,
   "original_name": "UK Garage Classics",
   "owner": {
     "name": "Spotify",
@@ -495,26 +495,22 @@
     {
       "added_at": "2024-06-18 14:40:12",
       "album": {
-        "name": "Freak Like Me",
-        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
+        "name": "Love Shy",
+        "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
       },
       "artists": [
         {
-          "name": "Dub Conspiracy",
-          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
+          "name": "Kristine Blond",
+          "url": "https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE"
         },
         {
-          "name": "Tru Faith",
-          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
-        },
-        {
-          "name": "Dome",
-          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
+          "name": "Club Asylum",
+          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
         }
       ],
-      "duration_ms": 292533,
-      "name": "Freak Like Me - Dome's Peak Freak Remix",
-      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
+      "duration_ms": 221820,
+      "name": "Love Shy - Club Asylum Remix",
+      "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
     },
     {
       "added_at": "2024-06-18 14:40:12",
@@ -535,22 +531,26 @@
     {
       "added_at": "2024-06-18 14:40:12",
       "album": {
-        "name": "Love Shy",
-        "url": "https://open.spotify.com/album/3QqOTn1e6K1LV9xwYKgRH1"
+        "name": "Freak Like Me",
+        "url": "https://open.spotify.com/album/2WF4PpVoRbiyRRNPBqWXdE"
       },
       "artists": [
         {
-          "name": "Kristine Blond",
-          "url": "https://open.spotify.com/artist/3cqSnNd8C7qh2cUSh2NnrE"
+          "name": "Dub Conspiracy",
+          "url": "https://open.spotify.com/artist/50JXpwiwsojrMGGHVfif0r"
         },
         {
-          "name": "Club Asylum",
-          "url": "https://open.spotify.com/artist/5TpyNFaq1IDeWEkHZOMAIH"
+          "name": "Tru Faith",
+          "url": "https://open.spotify.com/artist/08aJyCqJgyyEVklHZe77R9"
+        },
+        {
+          "name": "Dome",
+          "url": "https://open.spotify.com/artist/3889voMug5hvUtUVC9WaUe"
         }
       ],
-      "duration_ms": 221820,
-      "name": "Love Shy - Club Asylum Remix",
-      "url": "https://open.spotify.com/track/4ThF7v3bdi7wHiDIrB8Ggn"
+      "duration_ms": 292533,
+      "name": "Freak Like Me - Dome's Peak Freak Remix",
+      "url": "https://open.spotify.com/track/7jUhvpXow0mD27v77F6vC2"
     },
     {
       "added_at": "2024-06-18 14:40:12",

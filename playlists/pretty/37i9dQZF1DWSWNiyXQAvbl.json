@@ -1,6 +1,6 @@
 {
   "description": "Ease back in time with the help of these seventies classics...",
-  "num_followers": 492814,
+  "num_followers": 492861,
   "original_name": "Easy 70s",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-06-03 14:45:23",
       "album": {
-        "name": "All Things Must Pass (Remastered)",
-        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 281226,
-      "name": "My Sweet Lord",
-      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
-    },
-    {
-      "added_at": "2024-06-03 14:45:23",
-      "album": {
         "name": "Number Ones",
         "url": "https://open.spotify.com/album/4Gnhm7AGwlXf0UxC2yxJtz"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 244826,
       "name": "Superstition - Single Version",
       "url": "https://open.spotify.com/track/300RfAPZ57B0y6YYj9n6DN"
+    },
+    {
+      "added_at": "2024-06-03 14:45:23",
+      "album": {
+        "name": "All Things Must Pass (Remastered)",
+        "url": "https://open.spotify.com/album/16YCkHew4MBxGtpqkCTx6M"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 281226,
+      "name": "My Sweet Lord",
+      "url": "https://open.spotify.com/track/1chu8wc9zbNqTQ2ahROys1"
     },
     {
       "added_at": "2024-06-03 14:45:23",

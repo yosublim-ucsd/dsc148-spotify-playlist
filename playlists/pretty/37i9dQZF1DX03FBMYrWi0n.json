@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Ir\u00e8ne",
-  "num_followers": 5336,
+  "num_followers": 5338,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -327,22 +327,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "SIMULATION FREESTYLE",
-        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
+        "name": "Comment Debord",
+        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
       },
       "artists": [
         {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        },
-        {
-          "name": "P'tit Belliveau",
-          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
         }
       ],
-      "duration_ms": 150923,
-      "name": "SIMULATION FREESTYLE",
-      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
+      "duration_ms": 222002,
+      "name": "Chalet",
+      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -363,18 +359,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Comment Debord",
-        "url": "https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK"
+        "name": "SIMULATION FREESTYLE",
+        "url": "https://open.spotify.com/album/67icCWPplOTmKycqmtR7Pl"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        },
+        {
+          "name": "P'tit Belliveau",
+          "url": "https://open.spotify.com/artist/1Mnw1xS9MvW7sgitmlqnCM"
         }
       ],
-      "duration_ms": 222002,
-      "name": "Chalet",
-      "url": "https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE"
+      "duration_ms": 150923,
+      "name": "SIMULATION FREESTYLE",
+      "url": "https://open.spotify.com/track/5zOmfRwRObA58CFCurmftN"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "GOOD LUCK",
-        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
       },
       "artists": [
         {
-          "name": "DEBBY FRIDAY",
-          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
         }
       ],
-      "duration_ms": 202986,
-      "name": "WHAT A MAN",
-      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+        "name": "GOOD LUCK",
+        "url": "https://open.spotify.com/album/7eC9s1oyo60kJhNNeTCsQM"
       },
       "artists": [
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "DEBBY FRIDAY",
+          "url": "https://open.spotify.com/artist/5lofelrRCFBwzTF616hSx4"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+      "duration_ms": 202986,
+      "name": "WHAT A MAN",
+      "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "P\u00eale-m\u00eale",
-        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
-      },
-      "artists": [
-        {
-          "name": "Valence",
-          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
-        }
-      ],
-      "duration_ms": 253546,
-      "name": "La vie attend pas",
-      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "\u00c0 demain peut-\u00eatre",
         "url": "https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "P\u00eale-m\u00eale",
+        "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
+      },
+      "artists": [
+        {
+          "name": "Valence",
+          "url": "https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44"
+        }
+      ],
+      "duration_ms": 253546,
+      "name": "La vie attend pas",
+      "url": "https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
+        "name": "Diorama",
+        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 218627,
+      "name": "Astronaute amateur",
+      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
         "name": "Tu ne mourras pas",
         "url": "https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1"
       },
@@ -735,18 +751,18 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "Diorama",
-        "url": "https://open.spotify.com/album/1zD3pk55omrNufy3dPL9Cg"
+        "name": "blood pareil",
+        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
       },
       "artists": [
         {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
         }
       ],
-      "duration_ms": 218627,
-      "name": "Astronaute amateur",
-      "url": "https://open.spotify.com/track/4EHuW9lGaG8v6ESGlWjvpi"
+      "duration_ms": 264891,
+      "name": "blood pareil",
+      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 242800,
       "name": "Le grand \u00e9cart",
       "url": "https://open.spotify.com/track/5qlF09NGhK3NMONkhM1PLU"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "blood pareil",
-        "url": "https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js"
-      },
-      "artists": [
-        {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
-        }
-      ],
-      "duration_ms": 264891,
-      "name": "blood pareil",
-      "url": "https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "bla bla bla",
-        "url": "https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx"
-      },
-      "artists": [
-        {
-          "name": "distraction4ever",
-          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
-        }
-      ],
-      "duration_ms": 172023,
-      "name": "bla bla bla",
-      "url": "https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "Rencontrer Looloo",
         "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 150320,
       "name": "Ah ouin",
       "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "bla bla bla",
+        "url": "https://open.spotify.com/album/6iHKdmK6qrRSCMjIH309yx"
+      },
+      "artists": [
+        {
+          "name": "distraction4ever",
+          "url": "https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "bla bla bla",
+      "url": "https://open.spotify.com/track/0ntU62KuvSknHWMDfR03zT"
     },
     {
       "added_at": "2024-09-06 04:00:00",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2024-09-06 04:00:00",
       "album": {
-        "name": "S\u00faper Normal",
-        "url": "https://open.spotify.com/album/2UQwcCIqEvHfokOVazqo1v"
-      },
-      "artists": [
-        {
-          "name": "We Are Wolves",
-          "url": "https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW"
-        }
-      ],
-      "duration_ms": 245546,
-      "name": "S\u00faper Normal",
-      "url": "https://open.spotify.com/track/1mIA0Ch3k9xp3PoGiwhZ9p"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
         "name": "O\u00f9 est?",
         "url": "https://open.spotify.com/album/7CYFUg1UP2PZZ2zoIQkp2d"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 271696,
       "name": "O\u00f9 est?",
       "url": "https://open.spotify.com/track/17iQ6UIeisPmIHX8fuMSYo"
+    },
+    {
+      "added_at": "2024-09-06 04:00:00",
+      "album": {
+        "name": "S\u00faper Normal",
+        "url": "https://open.spotify.com/album/2UQwcCIqEvHfokOVazqo1v"
+      },
+      "artists": [
+        {
+          "name": "We Are Wolves",
+          "url": "https://open.spotify.com/artist/1Mt6gJbSKbLoSXWbgb44LW"
+        }
+      ],
+      "duration_ms": 245546,
+      "name": "S\u00faper Normal",
+      "url": "https://open.spotify.com/track/1mIA0Ch3k9xp3PoGiwhZ9p"
     },
     {
       "added_at": "2024-09-06 04:00:00",

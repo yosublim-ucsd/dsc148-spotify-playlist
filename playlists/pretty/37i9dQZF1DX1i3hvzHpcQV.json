@@ -1,12 +1,12 @@
 {
   "description": "Tune into the Hottest tracks of Kollywood!\nCover : Raayan",
-  "num_followers": 878585,
+  "num_followers": 878822,
   "original_name": "Hot Hits Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtMYlgAAAADPlnnXriPfyBxR7gzUCNh9",
+  "snapshot_id": "Zt6IXQAAAAB+wBHMDQu+fnt80TWka5uo",
   "tracks": [
     {
       "added_at": "2024-08-20 07:30:07",
@@ -59,6 +59,38 @@
       "duration_ms": 202285,
       "name": "Minikki Minikki",
       "url": "https://open.spotify.com/track/48SUyK7lpQElCnhFjP3qPc"
+    },
+    {
+      "added_at": "2024-09-09 05:32:13",
+      "album": {
+        "name": "The Greatest Of All Time",
+        "url": "https://open.spotify.com/album/7qziZGdxIycvh71Oqjkpqo"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Shenbagaraj",
+          "url": "https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI"
+        },
+        {
+          "name": "Velu",
+          "url": "https://open.spotify.com/artist/2RSkJy7tN23yEXfx1DkbI4"
+        },
+        {
+          "name": "Sam",
+          "url": "https://open.spotify.com/artist/5LTCGDYmszZxu2ybzDfb05"
+        },
+        {
+          "name": "Narayanan Ravishankar",
+          "url": "https://open.spotify.com/artist/2eJunkotmRUe8mLJmqW8HD"
+        }
+      ],
+      "duration_ms": 212090,
+      "name": "Matta",
+      "url": "https://open.spotify.com/track/2hBFfxMw0RtEI5KsCJ7knh"
     },
     {
       "added_at": "2024-07-04 06:40:25",
@@ -165,6 +197,30 @@
       "url": "https://open.spotify.com/track/77OQsnAirm7Ke8EGgBeOxz"
     },
     {
+      "added_at": "2024-04-18 05:36:43",
+      "album": {
+        "name": "Whistle Podu (From \"The Greatest Of All Time\")",
+        "url": "https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o"
+      },
+      "artists": [
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Madan Karky",
+          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
+        }
+      ],
+      "duration_ms": 281268,
+      "name": "Whistle Podu (From \"The Greatest Of All Time\")",
+      "url": "https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a"
+    },
+    {
       "added_at": "2023-10-12 09:46:05",
       "album": {
         "name": "Maamadura (From \"Jigarthanda DoubleX\")",
@@ -239,6 +295,30 @@
       "duration_ms": 229677,
       "name": "Badass (From \"Leo\")",
       "url": "https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5"
+    },
+    {
+      "added_at": "2024-09-09 05:32:13",
+      "album": {
+        "name": "The Greatest Of All Time",
+        "url": "https://open.spotify.com/album/7qziZGdxIycvh71Oqjkpqo"
+      },
+      "artists": [
+        {
+          "name": "Thalapathy Vijay",
+          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
+        },
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Raja Bhavatharini",
+          "url": "https://open.spotify.com/artist/6abqwiPNT4niDf1GcS8qWK"
+        }
+      ],
+      "duration_ms": 269109,
+      "name": "Chinna Chinna Kangal",
+      "url": "https://open.spotify.com/track/4PtSul5mGEaMIJplE34ZcM"
     },
     {
       "added_at": "2024-07-29 23:03:56",
@@ -319,30 +399,6 @@
       "duration_ms": 279677,
       "name": "Arabic Kuthu - Halamithi Habibo (From \"Beast\")",
       "url": "https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv"
-    },
-    {
-      "added_at": "2024-04-18 05:36:43",
-      "album": {
-        "name": "Whistle Podu (From \"The Greatest Of All Time\")",
-        "url": "https://open.spotify.com/album/1swku6qb12p9zSJ13Kul0o"
-      },
-      "artists": [
-        {
-          "name": "Thalapathy Vijay",
-          "url": "https://open.spotify.com/artist/0fhunuOz2OuOEr3YK5ctSm"
-        },
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Madan Karky",
-          "url": "https://open.spotify.com/artist/6EtLhQRslM09DO6EQLzodI"
-        }
-      ],
-      "duration_ms": 281268,
-      "name": "Whistle Podu (From \"The Greatest Of All Time\")",
-      "url": "https://open.spotify.com/track/6GH5qLVhOvbgRvqFdAKQ9a"
     },
     {
       "added_at": "2023-10-19 10:25:05",
@@ -617,26 +673,6 @@
       "url": "https://open.spotify.com/track/6TK7jseRCrogw9IzQYkw2h"
     },
     {
-      "added_at": "2022-08-05 08:53:14",
-      "album": {
-        "name": "Kanja Poovu Kannala (From \"Viruman\")",
-        "url": "https://open.spotify.com/album/6ORDYnNAskVUmXrb0UnU8F"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 237558,
-      "name": "Kanja Poovu Kannala (From \"Viruman\")",
-      "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
-    },
-    {
       "added_at": "2022-04-08 12:51:26",
       "album": {
         "name": "Beast Mode (From \"Beast\")",
@@ -741,34 +777,6 @@
       "url": "https://open.spotify.com/track/1LbBOhicFmu7ktJqIHCELt"
     },
     {
-      "added_at": "2023-04-03 08:28:49",
-      "album": {
-        "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
-        "url": "https://open.spotify.com/album/2iJ80LZlLGk7G8Fkc8gcW8"
-      },
-      "artists": [
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Sreekanth Hariharan",
-          "url": "https://open.spotify.com/artist/6EI5lmCSICOvroaH1bTwEj"
-        },
-        {
-          "name": "Sathyaprakash",
-          "url": "https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn"
-        }
-      ],
-      "duration_ms": 290816,
-      "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
-      "url": "https://open.spotify.com/track/1IevAM0Sl5iUIxGWDOXIar"
-    },
-    {
       "added_at": "2023-01-13 06:41:44",
       "album": {
         "name": "Varisu",
@@ -869,26 +877,6 @@
       "url": "https://open.spotify.com/track/4eVsmEtOgOCa3WnK0C4Cbg"
     },
     {
-      "added_at": "2022-12-09 09:47:15",
-      "album": {
-        "name": "Love Today (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4thX43Eb58eteV7DriC6H0"
-      },
-      "artists": [
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 244669,
-      "name": "Ennai Vittu",
-      "url": "https://open.spotify.com/track/4FOCZFqxIS1Xc5JWla5VNj"
-    },
-    {
       "added_at": "2022-08-22 04:04:54",
       "album": {
         "name": "Thenmozhi (From \"Thiruchitrambalam\")",
@@ -963,34 +951,6 @@
       "duration_ms": 216774,
       "name": "Private Party",
       "url": "https://open.spotify.com/track/5OotwkHgMpNYfsCwAOs4jP"
-    },
-    {
-      "added_at": "2022-08-05 08:53:14",
-      "album": {
-        "name": "Bullet Song (From \"The Warriorr \")(Tamil)",
-        "url": "https://open.spotify.com/album/6Q5BlmKZZMqkilmi40Sta2"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Silambarasan TR",
-          "url": "https://open.spotify.com/artist/5Hn84AFwiTEi8eMoI5B9AS"
-        },
-        {
-          "name": "Haripriya",
-          "url": "https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h"
-        },
-        {
-          "name": "Viveka",
-          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
-        }
-      ],
-      "duration_ms": 237235,
-      "name": "Bullet Song (From \"The Warriorr \")(Tamil)",
-      "url": "https://open.spotify.com/track/78g1KU3zvKQLS5emtG9Xiu"
     },
     {
       "added_at": "2022-07-08 13:52:53",
@@ -1085,26 +1045,6 @@
       "url": "https://open.spotify.com/track/7fdsoKCtpx2hYXDRMoActW"
     },
     {
-      "added_at": "2022-02-09 02:41:17",
-      "album": {
-        "name": "Mudhal Nee Mudivum Nee (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3r6JhF3T7IkDvhWWJSux9y"
-      },
-      "artists": [
-        {
-          "name": "Darbuka Siva",
-          "url": "https://open.spotify.com/artist/5t97rjifUl8d4HNwSzbCv9"
-        },
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 332702,
-      "name": "Mudhal Nee Mudivum Nee Title Track",
-      "url": "https://open.spotify.com/track/4oNVmnywnXguyk76wkMuIb"
-    },
-    {
       "added_at": "2022-09-13 23:27:36",
       "album": {
         "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
@@ -1123,26 +1063,6 @@
       "duration_ms": 142258,
       "name": "Mayakkama Kalakkama (From \"Thiruchitrambalam\")",
       "url": "https://open.spotify.com/track/2kOH2QZB7F7I1iVXqwKuBF"
-    },
-    {
-      "added_at": "2023-10-18 10:25:18",
-      "album": {
-        "name": "Anbenum (From \"Leo\")",
-        "url": "https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz"
-      },
-      "artists": [
-        {
-          "name": "Anirudh Ravichander",
-          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Lothika",
-          "url": "https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX"
-        }
-      ],
-      "duration_ms": 214330,
-      "name": "Anbenum (From \"Leo\")",
-      "url": "https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep"
     }
   ],
   "unique_name": "Hot Hits Tamil",

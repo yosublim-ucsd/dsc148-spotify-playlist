@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: A$AP Rocky
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,137 likes - 87 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,145 likes - 87 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

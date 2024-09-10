@@ -1,12 +1,12 @@
 {
   "description": "This is Edicion Especial. The essential tracks, all in one playlist.",
-  "num_followers": 132177,
+  "num_followers": 132288,
   "original_name": "This Is Edicion Especial",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtuXgAAAAAAD47KGpdORrVRqZQG4H6G9",
+  "snapshot_id": "ZtzpAAAAAAAxL4fFC8VS9OyAcqLvwieZ",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pareja Ideal - Live",
-        "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 249088,
-      "name": "La Pareja Ideal - Live",
-      "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Que Lloro",
         "url": "https://open.spotify.com/album/2gKxbvUws8depMnbZld0P8"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 259531,
       "name": "Que Lloro",
       "url": "https://open.spotify.com/track/7BqDHVGw4tlgv86QXrEaiJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pareja Ideal - Live",
+        "url": "https://open.spotify.com/album/7yBA24q5Agy3K1fo1CUyUR"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 249088,
+      "name": "La Pareja Ideal - Live",
+      "url": "https://open.spotify.com/track/3tf2lQgJvyMrx8Rcv2SmPZ"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Del Ice - Live",
-        "url": "https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "El Del Ice - Live",
-      "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hoy Ya Me Voy",
         "url": "https://open.spotify.com/album/4Zgr06GJIQG1Gk8g6WWnq2"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 259976,
       "name": "Hoy Ya Me Voy",
       "url": "https://open.spotify.com/track/01KN2l362wczyvdO9mgW0v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Del Ice - Live",
+        "url": "https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "El Del Ice - Live",
+      "url": "https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8"
     },
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rompecabezas",
-        "url": "https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 232031,
-      "name": "Me Vuelve Loco",
-      "url": "https://open.spotify.com/track/3QqjIX7MHwmip6AGbATwTU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Super Del Barril",
         "url": "https://open.spotify.com/album/1GN1V9GFypeKwM2xclRkRo"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 197151,
       "name": "La Super Del Barril",
       "url": "https://open.spotify.com/track/6HjLOag0JzUheMcTrMGVL4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rompecabezas",
+        "url": "https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf"
+      },
+      "artists": [
+        {
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
+        }
+      ],
+      "duration_ms": 232031,
+      "name": "Me Vuelve Loco",
+      "url": "https://open.spotify.com/track/3QqjIX7MHwmip6AGbATwTU"
     },
     {
       "added_at": null,

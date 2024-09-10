@@ -2,7 +2,7 @@
 
 ### [This Is Doja Cat](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5)
 
-> This is Doja Cat\. The essential tracks, all in one playlist.
+> This is Doja Cat\. Todos os maiores hits em uma só playlist.
 
 70 songs - 3 hr 47 min
 

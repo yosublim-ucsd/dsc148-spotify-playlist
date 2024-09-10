@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 
 > lowkey crying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,276 likes - 178 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 358,352 likes - 178 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,25 +17,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 7 | [Sapphire Tears](https://open.spotify.com/track/2dlIVDvA7Otn950xPFBNYM) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [Sapphire Tears](https://open.spotify.com/album/7xvdOP2uv8hjwjkNzojjDc) | 2:47 |
 | 8 | [Slow Solitude](https://open.spotify.com/track/4Vp3Rz9Ll5S0iHrK8hrl31) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Slow Solitude](https://open.spotify.com/album/79TKoCQMhPuxQbYc8808bS) | 2:42 |
 | 9 | [In Presence](https://open.spotify.com/track/01hiTwznescgIbY9PAUVUz) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [In Presence](https://open.spotify.com/album/3a25R9D7Qz4uHXkJqAAV1A) | 2:53 |
-| 10 | [How to remember?](https://open.spotify.com/track/3TJpAfD2dog7sxn0KMVqj0) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [How to remember?](https://open.spotify.com/album/45v0xf9l3ah7uNRaHveTyj) | 2:41 |
-| 11 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
-| 12 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 |
-| 13 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
-| 14 | [The Last Falling Leaves](https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Last Falling Leaves](https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG) | 2:51 |
-| 15 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
+| 10 | [Salt and Skin](https://open.spotify.com/track/5tAEj5pI81x8l7atVQaxlx) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Salt and Skin](https://open.spotify.com/album/0xY1k0w6KPxGg4Cg9CgSbn) | 2:57 |
+| 11 | [Eternal](https://open.spotify.com/track/4sev7LAzn0sTDpZ9tE2eaE) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Eternal](https://open.spotify.com/album/7jlA8VZmKDsECqR0jdhHwR) | 2:48 |
+| 12 | [How to remember?](https://open.spotify.com/track/3TJpAfD2dog7sxn0KMVqj0) | [Kisane](https://open.spotify.com/artist/58DEdEFdrIavjVMzUTiWlN) | [How to remember?](https://open.spotify.com/album/45v0xf9l3ah7uNRaHveTyj) | 2:41 |
+| 13 | [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 |
+| 14 | [Valse de Mignon](https://open.spotify.com/track/6Tkep7VhXvCa7qnbyZBDLM) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse de Mignon](https://open.spotify.com/album/219xT06tHFgETfNrYMEdVh) | 2:16 |
+| 15 | [The Last Falling Leaves](https://open.spotify.com/track/4n3FI6GHSd8HFhpiCqqF3s) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [The Last Falling Leaves](https://open.spotify.com/album/2GzrCiNw6A4YOc7cEBHDMG) | 2:51 |
 | 16 | [Pax](https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Pax](https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW) | 5:28 |
 | 17 | [Kaiho](https://open.spotify.com/track/2JMWJkY1aQhNASkIuDUnI5) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Kaiho](https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU) | 3:17 |
 | 18 | [Tiny Feather](https://open.spotify.com/track/1c6G0EAKsW4p9Bt2PA6OpV) | [Steven Lombardo](https://open.spotify.com/artist/3HthcN6rB2WPtHNyQcCqeZ) | [Tiny Feather](https://open.spotify.com/album/7qjZHR89Mjldv15xZWUFca) | 2:12 |
-| 19 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 |
-| 20 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
+| 19 | [Aún Te Veo](https://open.spotify.com/track/3fB2azt4qGQTs2KbSsEmjH) | [Sami Kaur](https://open.spotify.com/artist/5xiFtN2r8Rc3jJ6pkrm7W8) | [Aún Te Veo](https://open.spotify.com/album/5ZG2B564RbdcYWLEjheU77) | 2:30 |
+| 20 | [Hidden poetry](https://open.spotify.com/track/3KlDABftWLOMxlQUTkRmJI) | [Liu Ju](https://open.spotify.com/artist/3cCGz7C2zdclj245jLMqzk) | [Hidden poetry](https://open.spotify.com/album/3hn4kKodyid2wx4agXY3rM) | 2:19 |
 | 21 | [Viento En Calma](https://open.spotify.com/track/6uBL5gwVhfPMHic7YcD6TX) | [Levi Neroli](https://open.spotify.com/artist/2HTyHL2oeARjQT0ilYm93F) | [Viento En Calma](https://open.spotify.com/album/6S1AdQWqcStwMkxklMTQ7V) | 2:16 |
-| 22 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
-| 23 | [Longing For](https://open.spotify.com/track/4aKiZxaugtwU2ow4p13qFJ) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Longing For](https://open.spotify.com/album/6LNMqIM9c1D2kBNrGFg7VN) | 2:23 |
-| 24 | [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 |
-| 25 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
-| 26 | [Into the Unknown](https://open.spotify.com/track/2Yvs2TLzIogzXMX8LBAMJd) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Into the Unknown](https://open.spotify.com/album/5foR1PGhkVlOnY2fVjicRP) | 2:15 |
-| 27 | [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 |
-| 28 | [In The Old Library](https://open.spotify.com/track/59laLvebJc2o98AFIgduKq) | [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [In The Old Library](https://open.spotify.com/album/4EUXCUbXjBds1qiLUZw2V7) | 2:01 |
+| 22 | [alone at sea](https://open.spotify.com/track/67q1BKoOkW3leD5BJE6nuT) | [Nadav Cohen](https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S) | [alone at sea](https://open.spotify.com/album/4zCf8DzpHkY8II4oNPYaS6) | 2:31 |
+| 23 | [Perpendicular](https://open.spotify.com/track/0cd9j88kIE6LIpDwAAtKOO) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Perpendicular](https://open.spotify.com/album/3Jz2nhyhV7ftStCe9d2IFY) | 2:18 |
+| 24 | [Longing For](https://open.spotify.com/track/4aKiZxaugtwU2ow4p13qFJ) | [Herman Lundblad](https://open.spotify.com/artist/1NhLgbEEqvx0lMETdA9uWz) | [Longing For](https://open.spotify.com/album/6LNMqIM9c1D2kBNrGFg7VN) | 2:23 |
+| 25 | [Syllables Flow](https://open.spotify.com/track/2USbdKxzXryyv1fakxIbD0) | [Sabrina Austin](https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K) | [Syllables Flow](https://open.spotify.com/album/3rJEjPamXwipkhDj65Fkn0) | 2:06 |
+| 26 | [L'étreinte Des Souvenirs](https://open.spotify.com/track/69tQyiHrHf1wAVL6hZJ73r) | [Isabelle Laurent](https://open.spotify.com/artist/40de5QVJHa895tHe4LKsms) | [L'étreinte Des Souvenirs](https://open.spotify.com/album/2Js9tT2gpZ8kjJi2E3BWqW) | 2:58 |
+| 27 | [In The Old Library](https://open.spotify.com/track/59laLvebJc2o98AFIgduKq) | [Housman](https://open.spotify.com/artist/6ZtaiZjSFgNoixlvp3zQ56) | [In The Old Library](https://open.spotify.com/album/4EUXCUbXjBds1qiLUZw2V7) | 2:01 |
+| 28 | [Into the Unknown](https://open.spotify.com/track/2Yvs2TLzIogzXMX8LBAMJd) | [Otto Noir](https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS) | [Into the Unknown](https://open.spotify.com/album/5foR1PGhkVlOnY2fVjicRP) | 2:15 |
 | 29 | [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 |
 | 30 | [From Yesterday](https://open.spotify.com/track/7b6VZCEYcorGozuy3h5SzT) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [From Yesterday](https://open.spotify.com/album/6Zybuuq4NKifmpUHBnAIOk) | 3:09 |
 | 31 | [Elegy Of Solace](https://open.spotify.com/track/5OwbUwe2qFPQ1iUSosmR9u) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Elegy Of Solace](https://open.spotify.com/album/230v9G7h2iSAN8gibtd8eU) | 2:38 |
@@ -187,4 +187,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrc3lwvImLj.md) - [plain]
 | 177 | [Dunkel](https://open.spotify.com/track/4y5m6mGSXzVZArFSm4YnYK) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Dunkel](https://open.spotify.com/album/62Wg9F1bDreyAWx9gp1IXx) | 2:20 |
 | 178 | [Home](https://open.spotify.com/track/7xYFoMTtdlx2GmK0sopL0T) | [Adrian Kuipers](https://open.spotify.com/artist/4qA8zZoA4L4YLpJTjgpIwi) | [Home](https://open.spotify.com/album/0v8ArMlSc9QCkB9rTfKPOs) | 3:57 |
 
-Snapshot ID: `ZtbdfQAAAAArwpfXJVEY9Egx8qqO1oPg`
+Snapshot ID: `Zt6wlgAAAACmctTxfETEhKlk1Q9GqMoy`

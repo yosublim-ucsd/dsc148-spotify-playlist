@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover: Tion Wayne and Shallipoppi
 
-462 songs - 21 hr 57 min
+463 songs - 22 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [LOVE OR LAMBA](https://open.spotify.com/track/4jkIybqZVorJl9tUsurxLH) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [LOVE OR LAMBA](https://open.spotify.com/album/0B7OiCfdcXs7a68aYvm6wP) | 2:33 | 2024-07-12 |  |
 | [Love Triangle](https://open.spotify.com/track/0nfY7lzgMQvAR6bMyMr1ac) | [7Dime](https://open.spotify.com/artist/2ezc7Zq9xX0tADcy8UbvNi) | [Love Triangle](https://open.spotify.com/album/3jUpxVJwDVNiWELcyukdOU) | 2:32 | 2023-03-30 | 2023-06-17 |
 | [Madam De Madam](https://open.spotify.com/track/0ZsbFYlRLuxPiz0geTzUTZ) | [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Madam De Madam](https://open.spotify.com/album/3bMvPUkqDhLz4rJ39ysnHr) | 4:22 | 2023-05-04 | 2023-05-27 |
+| [Malaika](https://open.spotify.com/track/49YxupwKQB4HbBaQDf1nP9) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Malaika](https://open.spotify.com/album/4tToAXh7PVPnx0OCGku2IL) | 2:53 | 2024-09-09 |  |
 | [Mama Maradona](https://open.spotify.com/track/11bQsRKQ9z0acI4klPQoQr) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Mama Maradona](https://open.spotify.com/album/4ZtZwFfgzEMn4pyy5SuJ8y) | 2:55 | 2022-09-01 | 2023-03-25 |
 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/534w3xm1EQmh0SzbrV2Dgc) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 | 2024-02-09 |  |
 | [Manhattan](https://open.spotify.com/track/19SKgtnmtd6VY8vilw2wIy) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [Manhattan](https://open.spotify.com/album/1ofHkWWW4k9wj8PUCPnD3K) | 2:41 | 2022-12-08 | 2023-03-25 |
@@ -409,7 +410,7 @@
 | [Te Button](https://open.spotify.com/track/0z2knWPwd0ersERolm2o77) | [Oladips](https://open.spotify.com/artist/5ToaR1at4yUIuHcAxn7won), [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku) | [Te Button](https://open.spotify.com/album/4mL10441YojtOmgogaMlzG) | 2:56 | 2024-06-07 | 2024-08-09 |
 | [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-19 |  |
 | [Tempo](https://open.spotify.com/track/5u3DPeOB7igxEaZV6lntlh) | [dndSection](https://open.spotify.com/artist/7mQzdxdxZFsbWLMP3lcZtS) | [Tempo](https://open.spotify.com/album/62idXCwWHEJYlTvBNTnXuE) | 2:49 | 2024-03-15 | 2024-04-19 |
-| [Tena](https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Tena](https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl) | 2:20 | 2024-07-19 |  |
+| [Tena](https://open.spotify.com/track/3pohfOAdKZRKP8AyOy9QDi) | [Kobi Jonz](https://open.spotify.com/artist/5k9IrMHs9Jfpk8A94Ta7nR) | [Tena](https://open.spotify.com/album/1xuHZkLI7kjFUrM6Y6FXRl) | 2:20 | 2024-07-19 | 2024-09-10 |
 | [The Emperor's Killz](https://open.spotify.com/track/4Dji6d3OBRuQ8AVSkoiCvy) | [Ikechukwu](https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE), [Jesse Jagz](https://open.spotify.com/artist/30N9JY1VoDikz8Czs2TKtT) | [The Emperor's Killz](https://open.spotify.com/album/1ntps2YD2MokdrfPpgPSRV) | 2:53 | 2023-02-11 | 2023-02-17 |
 | [THE GOAT](https://open.spotify.com/track/6pLcTVmCUa6cDBAcwi9c3h) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF) | [The Lost Boy \(Deluxe Version\)](https://open.spotify.com/album/7MDNR9DbdaUzv03PKMIkrp) | 2:33 | 2022-12-08 | 2023-02-17 |
 | [The Guy](https://open.spotify.com/track/6blCtzooXNbKlyDMgdp5zo) | [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL) | [The Guy](https://open.spotify.com/album/2LKh0iw3OeLCIEkd0HsHeL) | 3:17 | 2022-07-21 | 2023-06-17 |

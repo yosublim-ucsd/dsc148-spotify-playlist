@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: MENDEZ, Soarito",
-  "num_followers": 46931,
+  "num_followers": 46949,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
+        "name": "Farda",
+        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
+      },
+      "artists": [
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 189011,
+      "name": "Farda",
+      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
         "name": "Chakras",
         "url": "https://open.spotify.com/album/1Mz8AqAAgcwDwF9LglSk6K"
       },
@@ -299,22 +315,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Farda",
-        "url": "https://open.spotify.com/album/5YSetVW0KplBGeI1uLQPFs"
-      },
-      "artists": [
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 189011,
-      "name": "Farda",
-      "url": "https://open.spotify.com/track/6YvBWNtX8L8VBxahAqo954"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "Por Enquanto",
         "url": "https://open.spotify.com/album/1uFTodamqWqlk5KwYkqy0n"
       },
@@ -331,22 +331,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        }
-      ],
-      "duration_ms": 243180,
-      "name": "Do You No Wrong",
-      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "Deepak Looper",
         "url": "https://open.spotify.com/album/6fmSivCeFMAVtMGA2GRMZf"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 193492,
       "name": "Impec",
       "url": "https://open.spotify.com/track/37M00uZSz6smSxZ7pHchuh"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        }
+      ],
+      "duration_ms": 243180,
+      "name": "Do You No Wrong",
+      "url": "https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Quem Tu Mereces",
-        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
-      },
-      "artists": [
-        {
-          "name": "CADU",
-          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
-        },
-        {
-          "name": "Kuptz",
-          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
-        }
-      ],
-      "duration_ms": 212331,
-      "name": "Quem Tu Mereces",
-      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/2amag4wp9qpVP8RXKLBCfb"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 212727,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/0IsDXIzleU032NLdaKG0o2"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "Quem Tu Mereces",
+        "url": "https://open.spotify.com/album/2tQ4nC33veFyfLbI0EwSo7"
+      },
+      "artists": [
+        {
+          "name": "CADU",
+          "url": "https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3"
+        },
+        {
+          "name": "Kuptz",
+          "url": "https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd"
+        }
+      ],
+      "duration_ms": 212331,
+      "name": "Quem Tu Mereces",
+      "url": "https://open.spotify.com/track/2qNu8tgL3PPubm8NzSQzb9"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
-        "name": "Partimento",
-        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
-      },
-      "artists": [
-        {
-          "name": "Supa Squad",
-          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "Partimento",
-      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
         "name": "Lugar Favorito",
         "url": "https://open.spotify.com/album/0mTmzf6wbxNPsRbDNOotHU"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2024-09-05 23:00:00",
       "album": {
+        "name": "Partimento",
+        "url": "https://open.spotify.com/album/4BpbosuLKEhM0UTvKHcAF7"
+      },
+      "artists": [
+        {
+          "name": "Supa Squad",
+          "url": "https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw"
+        }
+      ],
+      "duration_ms": 113142,
+      "name": "Partimento",
+      "url": "https://open.spotify.com/track/2YEA1CW7n1Aa60AU2Vp9gM"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
         "name": "Alma do Neg\u00f3cio",
         "url": "https://open.spotify.com/album/4svZmg7skhs6TKJb18e0Tv"
       },
@@ -1291,26 +1291,6 @@
       "duration_ms": 160982,
       "name": "Alma do Neg\u00f3cio",
       "url": "https://open.spotify.com/track/6f8jLGeRkS0nyWifN1Y58E"
-    },
-    {
-      "added_at": "2024-09-05 23:00:00",
-      "album": {
-        "name": "BOM BOM",
-        "url": "https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe"
-      },
-      "artists": [
-        {
-          "name": "Rony Fuego",
-          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
-        },
-        {
-          "name": "Loony Johnson",
-          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
-        }
-      ],
-      "duration_ms": 180597,
-      "name": "BOM BOM",
-      "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
     },
     {
       "added_at": "2024-09-05 23:00:00",
@@ -1335,6 +1315,26 @@
       "duration_ms": 219266,
       "name": "Mood 111",
       "url": "https://open.spotify.com/track/5ZcyKNKvNX5ZJofCwvTArU"
+    },
+    {
+      "added_at": "2024-09-05 23:00:00",
+      "album": {
+        "name": "BOM BOM",
+        "url": "https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe"
+      },
+      "artists": [
+        {
+          "name": "Rony Fuego",
+          "url": "https://open.spotify.com/artist/0DxsiYPUEWLY4HjaUDM8Lk"
+        },
+        {
+          "name": "Loony Johnson",
+          "url": "https://open.spotify.com/artist/0AJ7gzFhNKeCeIpFNikyWv"
+        }
+      ],
+      "duration_ms": 180597,
+      "name": "BOM BOM",
+      "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
     },
     {
       "added_at": "2024-09-05 23:00:00",

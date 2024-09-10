@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 173539,
+  "num_followers": 173590,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
+        "name": "Schwarzes Herz",
+        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
+      },
+      "artists": [
+        {
+          "name": "AYLIVA",
+          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
+        }
+      ],
+      "duration_ms": 168146,
+      "name": "Wei\u00dfes Haus",
+      "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7trUmg86DFfcs1uRRiv8GY"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 268515,
       "name": "So wie du bist",
       "url": "https://open.spotify.com/track/12SH8NE1e17yItgsb2gitp"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
-        "name": "Schwarzes Herz",
-        "url": "https://open.spotify.com/album/0Xsdw4O63MRbnZn81z7Uws"
-      },
-      "artists": [
-        {
-          "name": "AYLIVA",
-          "url": "https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1"
-        }
-      ],
-      "duration_ms": 168146,
-      "name": "Wei\u00dfes Haus",
-      "url": "https://open.spotify.com/track/2EbO8k2jAHVRMVvUB77nNt"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "Bambule",
-        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
-      },
-      "artists": [
-        {
-          "name": "Beginner",
-          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
-        }
-      ],
-      "duration_ms": 254080,
-      "name": "Liebes Lied",
-      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
-    },
-    {
-      "added_at": "2024-02-09 07:01:34",
-      "album": {
         "name": "F\u00fcr Immer",
         "url": "https://open.spotify.com/album/2BYgvzVkCaenJvpQC2HHrf"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 128571,
       "name": "F\u00fcr Immer",
       "url": "https://open.spotify.com/track/6KyYXQlUOVCFN50RJq5xLq"
+    },
+    {
+      "added_at": "2024-02-09 07:01:34",
+      "album": {
+        "name": "Bambule",
+        "url": "https://open.spotify.com/album/4UnAhQ03mdUCpdNrHYBW7D"
+      },
+      "artists": [
+        {
+          "name": "Beginner",
+          "url": "https://open.spotify.com/artist/4XkhEirR2JZT4fncyOxxtf"
+        }
+      ],
+      "duration_ms": 254080,
+      "name": "Liebes Lied",
+      "url": "https://open.spotify.com/track/6YzYyeMV5MY7wHOGskZdzf"
     },
     {
       "added_at": "2024-02-09 07:01:34",
@@ -995,26 +995,18 @@
     {
       "added_at": "2024-02-09 07:01:34",
       "album": {
-        "name": "MISS YOU",
-        "url": "https://open.spotify.com/album/2OBL2m5NlhWqIPWwDZfdlB"
+        "name": "Ein neuer Tag",
+        "url": "https://open.spotify.com/album/6tWw1DGgF60yoCUexPx4UU"
       },
       "artists": [
         {
-          "name": "Disarstar",
-          "url": "https://open.spotify.com/artist/7BSNHln0lSqyDHdQ3sv0Q5"
-        },
-        {
-          "name": "Evangelia",
-          "url": "https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK"
-        },
-        {
-          "name": "The Cratez",
-          "url": "https://open.spotify.com/artist/3pVfscwg2QxhdHtk966inb"
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
         }
       ],
-      "duration_ms": 129587,
-      "name": "MISS YOU",
-      "url": "https://open.spotify.com/track/7cfSjuVys2WX0rKLZcEwYS"
+      "duration_ms": 179866,
+      "name": "Wir beide",
+      "url": "https://open.spotify.com/track/059vqesASfCCpWPabAngNE"
     }
   ],
   "unique_name": "Liebeslieder",

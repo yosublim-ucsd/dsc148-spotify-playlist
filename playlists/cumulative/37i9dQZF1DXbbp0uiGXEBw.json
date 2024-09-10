@@ -694,7 +694,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 229584,
       "name": "Cu\u1ed9c g\u1ecdi v\u1ec1 nh\u00e0",
       "url": "https://open.spotify.com/track/5cOJyNRsEpE9j7cN4Vz86D"
@@ -5460,6 +5460,24 @@
       "duration_ms": 270857,
       "name": "\u0110\u1eebng N\u00f3i T\u00f4i \u0110i\u00ean",
       "url": "https://open.spotify.com/track/2SBUmN7mgGikl6oESlNWS7"
+    },
+    {
+      "album": {
+        "name": "\u01af\u1edaC ANH TAN N\u00c1T CON TIM",
+        "url": "https://open.spotify.com/album/3rBSN7zMui46ss81lhh6zU"
+      },
+      "artists": [
+        {
+          "name": "Ph\u00f9ng Kh\u00e1nh Linh",
+          "url": "https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230599,
+      "name": "\u01af\u1edaC ANH TAN N\u00c1T CON TIM",
+      "url": "https://open.spotify.com/track/4r12MbGoZQBt6SQpFyFXq8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbbp0uiGXEBw"

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-614 songs - 1 day 18 hr 32 min
+615 songs - 1 day 18 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,7 +109,8 @@
 | [Do You Dream About Me?](https://open.spotify.com/track/4hRHtPFwj1bNpwO4zr8R2X) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Cinematography](https://open.spotify.com/album/2dm2ziYU0BUDcEzS4GJkJ2) | 3:55 | 2024-07-10 |  |
 | [Do You Feel Me \- Main Version \- Clean](https://open.spotify.com/track/13W16zkKK8aC4JYTI45oX3) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [The Point Of It All](https://open.spotify.com/album/6D9s3EcG4VChMYvBFdzuaK) | 3:55 | 2023-12-30 |  |
 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 | 2023-12-30 |  |
-| [Does Anybody Really Fall In Love Anymore?](https://open.spotify.com/track/5nUHXVXf5UBrdAToSWihRv) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:15 | 2023-12-30 |  |
+| [Does Anybody Really Fall in Love Anymore](https://open.spotify.com/track/0kKIjuEgtE5J930ugt5iJd) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:25 | 2024-09-09 |  |
+| [Does Anybody Really Fall In Love Anymore?](https://open.spotify.com/track/5nUHXVXf5UBrdAToSWihRv) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Heart Of Stone](https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK) | 4:15 | 2023-12-30 | 2024-09-10 |
 | [Domino](https://open.spotify.com/track/1k9DmOy2H10taUtUwLeddI) | [Diane Warren](https://open.spotify.com/artist/3A2jfQOLgo5rV4GYFHbEA2), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Diane Warren: The Cave Sessions, Vol\. 1](https://open.spotify.com/album/1xjZo0P4M0V14UHILaJ4Re) | 3:24 | 2023-12-30 |  |
 | [Don't Come Cryin'](https://open.spotify.com/track/4tMTtOFomcCVIF727bU4qf) | [Fiona](https://open.spotify.com/artist/2WyOrgeRrZC4Z4Mh82IQva) | [Squeeze](https://open.spotify.com/album/0uPxiq6UrITOnow8MPYKt3) | 4:08 | 2023-12-30 |  |
 | [Don't Let My Heart Know](https://open.spotify.com/track/5rXmlyAvnaiWXbpesEHfMQ) | [Francisca](https://open.spotify.com/artist/5sVP7wbwGugD3vMykfphvR) | [Don't Let My Heart Know](https://open.spotify.com/album/15BrMsfVWURifTllaooGm0) | 4:02 | 2024-07-10 |  |

@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-605 songs - 1 day 6 hr 56 min
+606 songs - 1 day 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Clear State Of Mind](https://open.spotify.com/track/36OpzLOYcztdNv6V9cJ9DB) | [Herman Anderson](https://open.spotify.com/artist/3SoWeHWTQIqJhegPfsR5Wp) | [Clear State Of Mind](https://open.spotify.com/album/6MVTvA4RGDOGA3XSVRndGY) | 3:32 | 2023-11-17 |  |
 | [Close Enough](https://open.spotify.com/track/58bd0hNn1LYG6jSNE9WeM6) | [Joe M\. Key](https://open.spotify.com/artist/6u5JdEH2gZlzRb2HfVa9Km) | [Close Enough](https://open.spotify.com/album/3P3OocbqmC9jhEeUCLa3jI) | 2:47 | 2024-08-06 |  |
 | [Come Lay beside Me](https://open.spotify.com/track/5FzAFM8TN0RyOXHNO5tHTm) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Come Lay beside Me](https://open.spotify.com/album/1IQfTAYfEDbuZ4RwbU26di) | 3:03 | 2022-09-20 |  |
-| [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 |  |
+| [Come Rain Or Come Shine](https://open.spotify.com/track/2KaiRciXTCoGWvDUG6UyXy) | [Maurice Miro](https://open.spotify.com/artist/3xjYq5W31V01cF7BSvVrYb) | [Come Rain Or Come Shine](https://open.spotify.com/album/4BXX5ct1sM5Uk2J1SeY0TH) | 3:40 | 2022-04-26 | 2024-09-10 |
 | [Come to Bed](https://open.spotify.com/track/6RDWMyTEWPRPhzCf9BJD3X) | [Meg Lawrence](https://open.spotify.com/artist/4a6PAS1FZgcaDd99xc2wD1) | [Come to Bed](https://open.spotify.com/album/25smdIvY1XMb1d4cWmGID3) | 3:48 | 2024-03-08 |  |
 | [Conversation](https://open.spotify.com/track/3unem1h9c7rRbYvJ9wzJHY) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Conversation](https://open.spotify.com/album/15dZOVU2WT5WKHXo2qdACs) | 2:45 | 2022-05-10 |  |
 | [Crosby Street](https://open.spotify.com/track/22ugSr3HnMXfxTiXsroNQD) | [Carmen Simmons](https://open.spotify.com/artist/6HhW3vf5i1Ao2KsOsdHfbV) | [Crosby Street](https://open.spotify.com/album/5lN5yfRTiTpukhAWyFHxxW) | 2:26 | 2023-10-27 |  |
@@ -391,6 +391,7 @@
 | [Once upon a Time in Stockholm](https://open.spotify.com/track/4fum2PuR9suDOwhcBlSiH7) | [Franz Gordon](https://open.spotify.com/artist/6c9mrV72IOeJ5imCUK281g) | [Once Upon a Time in Stockholm](https://open.spotify.com/album/5x4v2sxf36pw8LTxPl0UMX) | 2:52 | 2024-05-30 |  |
 | [One Day We'll Find Our Way](https://open.spotify.com/track/27ljy6g5ghJo1ZeoOsHsB7) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [One Day We'll Find Our Way](https://open.spotify.com/album/3tSFilzfu3rrcY1BfPfm3x) | 3:06 | 2022-06-08 | 2024-07-13 |
 | [One Last Dance](https://open.spotify.com/track/3Af6LPYOITWxloH7eED7Y1) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [One Last Dance](https://open.spotify.com/album/0OdxyjZX4YgwO9l9Dgcmfp) | 2:43 | 2024-08-06 |  |
+| [One last kiss](https://open.spotify.com/track/2d2oOj9c7dAJRlnfVsWkvH) | [Art Beckett](https://open.spotify.com/artist/4KuBcbUdLyPvc6bC84lQ6Y) | [One last kiss](https://open.spotify.com/album/4uYEFWeodgSvuk193IeXXY) | 2:55 | 2024-09-09 |  |
 | [One Night](https://open.spotify.com/track/4CQfJu36iL61aP3PMSVmgb) | [George Gower](https://open.spotify.com/artist/5dY3RsdO6LWXjhYitTgX8b) | [One Night](https://open.spotify.com/album/00ApSbsUpWTsbOy1cLuI8r) | 2:50 | 2023-12-15 |  |
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-12 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 |  |
@@ -494,7 +495,7 @@
 | [Stay in Your Lane](https://open.spotify.com/track/3tY6RIiYIUUnxzkIQhlTxt) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Stay in Your Lane](https://open.spotify.com/album/35apYnhsneqL04gk6joyq6) | 2:57 | 2024-03-08 |  |
 | [Stella By Starlight](https://open.spotify.com/track/3xQ8oqFUTLFQ9dNEq2SMOP) | [Ward Stetson](https://open.spotify.com/artist/4cgzkhsBdCNVDzBrx7is7S) | [Stella By Starlight](https://open.spotify.com/album/2XjCNA2ejNe4in6ynwcHQM) | 1:55 | 2022-09-06 | 2023-08-26 |
 | [Still playing](https://open.spotify.com/track/3ZmMB5MLuocZsQ7zqoqjMX) | [Jeannie Purdue](https://open.spotify.com/artist/0A0cOM444T6hJehiTABk83) | [Still playing](https://open.spotify.com/album/2ATOhcvDREGBOSfpGb2ecZ) | 2:54 | 2023-06-15 |  |
-| [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 |  |
+| [Stormy Weather](https://open.spotify.com/track/46ryjq76whaLHkJVrvkAqo) | [Marc Leigh](https://open.spotify.com/artist/5xNnoFnVK1iSZnPTvwwjeY) | [Stormy Weather](https://open.spotify.com/album/3ys62gvyRiXgQDeaedo7VO) | 4:07 | 2022-04-12 | 2024-09-10 |
 | [Street Of Dreams](https://open.spotify.com/track/783BlsF88Ae8b0Xs4ZDzQy) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [Street Of Dreams](https://open.spotify.com/album/1bM7zzY2xmI0TMMFQKeNFu) | 2:39 | 2023-03-23 | 2024-07-02 |
 | [Sudden Light](https://open.spotify.com/track/4n1f5JBvnngHCassE6jyt6) | [Rhys Wells](https://open.spotify.com/artist/4im1JHdAIz4yOsjizlGZzt) | [Sudden Light](https://open.spotify.com/album/5A6oIf1TnaPU8NJL6MKLq4) | 3:23 | 2023-10-27 |  |
 | [Summer in Central Park](https://open.spotify.com/track/1LI1odohhRVtGSqRuEABw9) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Summer in Central Park](https://open.spotify.com/album/6KlLMcXaSJtFeUvWexpaEA) | 3:31 | 2023-09-08 |  |
@@ -547,7 +548,7 @@
 | [These Foolish Things](https://open.spotify.com/track/0CXDipwJc206zISTQqO5y6) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [These Foolish Things](https://open.spotify.com/album/2bePbAVM2pnJoZKimuHZzw) | 4:57 | 2022-04-12 |  |
 | [They Keep Asking](https://open.spotify.com/track/2gY1SFySK9FC7Nq41kBoOd) | [Gottfried Barber](https://open.spotify.com/artist/3xisMaeXXrWN04sf31GVKl) | [They Keep Asking](https://open.spotify.com/album/6v1pneOr3DwY05Mk90l5v0) | 2:31 | 2023-08-10 |  |
 | [They Say It's Wonderful](https://open.spotify.com/track/70XPtCtNGP1SoHfAq0Wjdv) | [Avery Miller](https://open.spotify.com/artist/01o77igJ4oxA6MnykrzHNN) | [They Say It's Wonderful](https://open.spotify.com/album/6O9j528nmzyeA2Y6pOX198) | 3:19 | 2022-04-12 | 2024-07-23 |
-| [Thinking Of You](https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Thinking Of You](https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0) | 4:22 | 2022-10-06 |  |
+| [Thinking Of You](https://open.spotify.com/track/7lIluhlbePFHOZh4BP2Ymg) | [Lee Bendroth](https://open.spotify.com/artist/1asg7ElYSc6LhJ7b9fMaFF) | [Thinking Of You](https://open.spotify.com/album/02Viv2aEVLj6UTNBpJG3D0) | 4:22 | 2022-10-06 | 2024-09-10 |
 | [Thoughts Of Yesterday](https://open.spotify.com/track/0ZtfGOP5WB9rosemFD5c6e) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Thoughts Of Yesterday](https://open.spotify.com/album/1QyKUmbdbAGuOrj2iRzF14) | 3:17 | 2022-10-27 | 2024-08-20 |
 | [Three Quarters](https://open.spotify.com/track/2PZoncoazGNcr0KhFJHmQV) | [Tim Walker\-Price](https://open.spotify.com/artist/3rRxzD0o5wUqEFkCwaKiI9) | [Three Quarters](https://open.spotify.com/album/5noB3wOdSv5LinLEmfps4M) | 3:12 | 2024-07-12 |  |
 | [Till There Was You](https://open.spotify.com/track/3bGhklfS5vo11uM9kBnbyB) | [Anna Niva](https://open.spotify.com/artist/535a8rNQO9F4uQjhRJirsx) | [Till There Was You](https://open.spotify.com/album/5p2c7pdxKRryVmsKsAM7Ud) | 2:50 | 2023-04-20 | 2024-06-28 |

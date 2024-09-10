@@ -516,7 +516,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 261314,
       "name": "Aariro",
       "url": "https://open.spotify.com/track/1uvXRNyvSVXCbfXSJlCR75"
@@ -5546,7 +5546,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 197500,
       "name": "College Superstars",
       "url": "https://open.spotify.com/track/1ZzYPJ20fj7rEyrNWiBLc5"
@@ -5936,7 +5936,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 179520,
       "name": "Damma Goli",
       "url": "https://open.spotify.com/track/5aaDffip8dEsYcUvQFho3x"
@@ -7834,7 +7834,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 223260,
       "name": "Ennammaa",
       "url": "https://open.spotify.com/track/2i7hOM9vywqMogW7HU3z2F"
@@ -10590,7 +10590,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 260108,
       "name": "Jaragandi (From \"Game Changer\") (Tamil)",
       "url": "https://open.spotify.com/track/1I7eEJRpbmvCHrArF674rE"
@@ -12328,7 +12328,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 201048,
       "name": "Kalyaana Satham Satham (From \"The Family Star\")",
       "url": "https://open.spotify.com/track/7mjF9JEihQK1BLh6NUy9op"
@@ -13714,7 +13714,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 271641,
       "name": "Kiliye - From \"ARM\"",
       "url": "https://open.spotify.com/track/6c3dMssPGqOHXqffFUYFSs"
@@ -14428,7 +14428,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 223339,
       "name": "Kottu Kottu Getti Melam",
       "url": "https://open.spotify.com/track/6QWojLE2NbT73BvXdGTdhY"
@@ -14960,6 +14960,36 @@
       "duration_ms": 168049,
       "name": "Lady Luck",
       "url": "https://open.spotify.com/track/2866dwDrdw61Z92FNpOvoW"
+    },
+    {
+      "album": {
+        "name": "Crazy Kaadhal",
+        "url": "https://open.spotify.com/album/2ILMdTcBlxqBP1bqbOpefg"
+      },
+      "artists": [
+        {
+          "name": "Johan Anthony",
+          "url": "https://open.spotify.com/artist/4FN63ChZl1waQ6KIcm08d3"
+        },
+        {
+          "name": "Dhinakar Udhaya Sangeethan",
+          "url": "https://open.spotify.com/artist/71nxJrYbZ0yijf8NvnoD34"
+        },
+        {
+          "name": "Jude Romaric",
+          "url": "https://open.spotify.com/artist/68XxiSIkob1rLJ9n9lTQpy"
+        },
+        {
+          "name": "Punya Selva",
+          "url": "https://open.spotify.com/artist/6uvIzuYq1gO5Q4AkLwSIgw"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224842,
+      "name": "LaLaLa LaLaLa",
+      "url": "https://open.spotify.com/track/1VbvcBowxw4IsBS3A4989e"
     },
     {
       "album": {
@@ -18460,7 +18490,7 @@
       ],
       "date_added": "2024-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 184186,
       "name": "Muttaama Muttikkittu",
       "url": "https://open.spotify.com/track/1UKzVUxQlgvCqYYgDfDZxt"
@@ -20058,6 +20088,40 @@
       "duration_ms": 279025,
       "name": "Neethane Enadhu Thozhamai - From \" Mr. Zoo Keeper\"",
       "url": "https://open.spotify.com/track/1QHKyeqr9m0D5Zn4VpmUFU"
+    },
+    {
+      "album": {
+        "name": "Crazy Kaadhal",
+        "url": "https://open.spotify.com/album/2ILMdTcBlxqBP1bqbOpefg"
+      },
+      "artists": [
+        {
+          "name": "Johan Anthony",
+          "url": "https://open.spotify.com/artist/4FN63ChZl1waQ6KIcm08d3"
+        },
+        {
+          "name": "Dhinakar Udhaya Sangeethan",
+          "url": "https://open.spotify.com/artist/71nxJrYbZ0yijf8NvnoD34"
+        },
+        {
+          "name": "Jude Romaric",
+          "url": "https://open.spotify.com/artist/68XxiSIkob1rLJ9n9lTQpy"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Arun Tejess",
+          "url": "https://open.spotify.com/artist/2JXc8b6idEU70IyYgmCQPA"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "Neeyum Naanum",
+      "url": "https://open.spotify.com/track/3DBbazh3gpTrKWeVyMtiZA"
     },
     {
       "album": {
@@ -24446,10 +24510,44 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 256068,
       "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [TAMIL]",
       "url": "https://open.spotify.com/track/7tPvUREcqTO5O12t7vwhev"
+    },
+    {
+      "album": {
+        "name": "Crazy Kaadhal",
+        "url": "https://open.spotify.com/album/2ILMdTcBlxqBP1bqbOpefg"
+      },
+      "artists": [
+        {
+          "name": "Johan Anthony",
+          "url": "https://open.spotify.com/artist/4FN63ChZl1waQ6KIcm08d3"
+        },
+        {
+          "name": "Dhinakar Udhaya Sangeethan",
+          "url": "https://open.spotify.com/artist/71nxJrYbZ0yijf8NvnoD34"
+        },
+        {
+          "name": "Jude Romaric",
+          "url": "https://open.spotify.com/artist/68XxiSIkob1rLJ9n9lTQpy"
+        },
+        {
+          "name": "Deva",
+          "url": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+        },
+        {
+          "name": "Kavitha Ilango",
+          "url": "https://open.spotify.com/artist/56reW50O7uh6zGI436aD1u"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181462,
+      "name": "Quarter Sollanda",
+      "url": "https://open.spotify.com/track/6OPqWbotAHs1NoFrLhA4L0"
     },
     {
       "album": {
@@ -25720,7 +25818,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 187228,
       "name": "Saaral Saaral (From \"Rasavathi\")",
       "url": "https://open.spotify.com/track/1z0pKVAU4oXe79uyNF4SYk"
@@ -27448,7 +27546,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 121193,
       "name": "Star in the Making",
       "url": "https://open.spotify.com/track/5FwNX0rDdQxllUTEdsm9F4"
@@ -33986,7 +34084,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 207499,
       "name": "Vintage Love (From \"Star\")",
       "url": "https://open.spotify.com/track/0lttJ9CNuTWRojQmg9ytla"

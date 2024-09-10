@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/16FL0OZQSlG3dX6XtpCmkZ"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227441,
+      "name": "August",
+      "url": "https://open.spotify.com/track/7hgyY3bVnEK6CO6cyO8QrK"
+    },
+    {
+      "album": {
         "name": "Background Music",
         "url": "https://open.spotify.com/album/3rIQuaqO6tdsgeScpFFumi"
       },
@@ -160,7 +178,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 214186,
       "name": "Background Music",
       "url": "https://open.spotify.com/track/5PBQsqit9PJ4OS1KWkto3h"
@@ -601,6 +619,28 @@
     },
     {
       "album": {
+        "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+        "url": "https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg"
+      },
+      "artists": [
+        {
+          "name": "Riley Green",
+          "url": "https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218946,
+      "name": "Don\u2019t Mind If I Do (ft. Ella Langley)",
+      "url": "https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH"
+    },
+    {
+      "album": {
         "name": "One Thing At A Time",
         "url": "https://open.spotify.com/album/6i7mF7whyRJuLJ4ogbH2wh"
       },
@@ -1010,7 +1050,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 215570,
       "name": "God Took His Time On You",
       "url": "https://open.spotify.com/track/0SNIS7vbpwP5I0TjyPIAed"
@@ -1263,6 +1303,24 @@
     },
     {
       "album": {
+        "name": "If Walls Could Talk",
+        "url": "https://open.spotify.com/album/7MA2POxNu5Do9qsgUPc1un"
+      },
+      "artists": [
+        {
+          "name": "Tyla Rodrigues",
+          "url": "https://open.spotify.com/artist/5SwnYxaLFxCb2LQ7Kl7JAV"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215000,
+      "name": "If Walls Could Talk",
+      "url": "https://open.spotify.com/track/53V8fHfZAORD6RGdrguPZB"
+    },
+    {
+      "album": {
         "name": "COWBOY CARTER",
         "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
       },
@@ -1376,6 +1434,24 @@
       "duration_ms": 219830,
       "name": "Limousine Running",
       "url": "https://open.spotify.com/track/1YlMDKuzoTD6OlvN3OWeI9"
+    },
+    {
+      "album": {
+        "name": "Little Lost",
+        "url": "https://open.spotify.com/album/02tG6IdaU5AJuz0vMKfXqB"
+      },
+      "artists": [
+        {
+          "name": "Dylan Wright",
+          "url": "https://open.spotify.com/artist/0XjUzkpgj8t1MnxhROumUe"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170059,
+      "name": "Little Lost",
+      "url": "https://open.spotify.com/track/594MNbYHuLVSVb8wGqiUul"
     },
     {
       "album": {
@@ -1572,7 +1648,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 207146,
       "name": "Miami, My Amy",
       "url": "https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp"
@@ -2472,7 +2548,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-10",
       "duration_ms": 295444,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/6ZISzizKHNE1Ic4YH280jw"

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Jay Park\(박재범\)\)
 
-1,306 songs - 2 day 22 hr 49 min
+1,307 songs - 2 day 22 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Cheap talk \(Feat\. JUSTHIS\) \(Prod\. CODE KUNST\)](https://open.spotify.com/track/31l7az7JT4boi5BjUth78k) | [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Cheap talk](https://open.spotify.com/album/235Q8MzZnlCV7RPLsMTeHJ) | 3:41 | 2021-12-18 | 2022-07-04 |
 | [Cheating Day \(Prod\. imeanseoul x wavyburnz x LifeisGacha\)](https://open.spotify.com/track/4onOVqI25eJHk6OlFJultJ) | [viceversa](https://open.spotify.com/artist/5M6uaTVVZuyAkdr60oWKrJ) | [Cheating Day \(Prod\. imeanseoul x wavyburnz x LifeisGacha\)](https://open.spotify.com/album/1qLTOhMdsnhKhpYrgXM3Fe) | 2:54 | 2023-03-14 | 2023-04-05 |
 | [Checks \(Feat\. SUPERBEE, Jay Park & The Quiett\)](https://open.spotify.com/track/5lE0fWZIeZ4qAzooznV8Lm) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:58 | 2022-03-05 | 2022-04-21 |
+| [Cheese Burger \(Feat\. Deepflow, Minos, DJ 손\)](https://open.spotify.com/track/1XOm3FldDqLy2rUAM1Hn5T) | [NOAH1LUV](https://open.spotify.com/artist/2tLQLO1aqUX2c45auUfxGo), [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [MINOS](https://open.spotify.com/artist/5TFyn81eoBFYh9sjhg4gfL), [DJ 손](https://open.spotify.com/artist/6wxcGpoRvzuS8i3rS7R9H2) | [Cheese Burger \(Feat\. Deepflow, Minos, DJ 손\)](https://open.spotify.com/album/7z1kf4UH0jf08iYYCf1qQt) | 3:48 | 2024-09-09 |  |
 | [Cherish](https://open.spotify.com/track/0Fw9QIr1EMXMR4p6c7DEkE) | [Son Chamchi](https://open.spotify.com/artist/1DQsSFmlJUKZuyKZjJMlN2) | [Cherish](https://open.spotify.com/album/1N6TrmRxjorAX5XPqcvhR0) | 3:25 | 2022-01-04 | 2022-06-30 |
 | [CHICKEN DINNA](https://open.spotify.com/track/2bll3Te3bvaxRV0TfzxNfs) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [REDDY ACTION](https://open.spotify.com/album/76kX8iTykE1stIV3kTY9UV) | 3:40 | 2022-10-13 | 2023-01-20 |
 | [Chilly](https://open.spotify.com/track/3hArB0uSLrGt27uAFdFgd6) | [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Travel](https://open.spotify.com/album/5jKpIo0afcaHucq0QYXi3x) | 3:32 | 2023-07-05 | 2023-07-14 |
