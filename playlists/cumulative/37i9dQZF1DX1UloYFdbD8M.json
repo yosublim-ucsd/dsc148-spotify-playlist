@@ -183,6 +183,32 @@
     },
     {
       "album": {
+        "name": "Akame",
+        "url": "https://open.spotify.com/album/2wV6jmX8o9rlNmfBhu7KYT"
+      },
+      "artists": [
+        {
+          "name": "Jubair Muhammed",
+          "url": "https://open.spotify.com/artist/0oPKTL05sIUJh7pyV723J0"
+        },
+        {
+          "name": "Hanan Shaah",
+          "url": "https://open.spotify.com/artist/5WGX9SJLY7TCqRUJcfcaYi"
+        },
+        {
+          "name": "Muthu",
+          "url": "https://open.spotify.com/artist/5pGgvi8S9gtudjUjPiWq3q"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225272,
+      "name": "Akame",
+      "url": "https://open.spotify.com/track/3uEOPyMyEmkeNLiXj3MlkS"
+    },
+    {
+      "album": {
         "name": "Akshara Nagari",
         "url": "https://open.spotify.com/album/3wHs2JP7aNZafv5uAjsT1Q"
       },
@@ -220,7 +246,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 239846,
       "name": "Alayazhikal",
       "url": "https://open.spotify.com/track/2l9ZlzdLl0MXWn2Ta8l4XS"
@@ -554,7 +580,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 333000,
       "name": "Bhagavathi",
       "url": "https://open.spotify.com/track/7IveVDpt6GAmdO2KU3SPw0"
@@ -2304,7 +2330,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 89999,
       "name": "Mazhamegam",
       "url": "https://open.spotify.com/track/3fnO3TqRRKGMdC5uaZNuwp"
@@ -3912,7 +3938,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 226097,
       "name": "Swapname",
       "url": "https://open.spotify.com/track/0diGuDISOvsXWs9v5aWv00"
@@ -4032,7 +4058,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 168960,
       "name": "Thanne",
       "url": "https://open.spotify.com/track/2OSvxPgxpojMhe6MjdrulH"

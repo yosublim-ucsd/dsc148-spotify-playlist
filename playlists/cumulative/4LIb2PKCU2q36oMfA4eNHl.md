@@ -4,7 +4,7 @@
 
 > The best tracks in downtempo &amp; chill, curated by Anjuna\. Perfect for studying, meditating &amp; relaxing.
 
-141 songs - 8 hr 50 min
+142 songs - 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Reflected](https://open.spotify.com/track/23ot990qxQ3vDliNsFbDE7) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm), [Polar M](https://open.spotify.com/artist/3deSTS7GVnIHb5s6T7rV5g) | [Music For Home Vol\. 1: Our Season](https://open.spotify.com/album/3k2iR3YPoOw1xIFHoLSpvX) | 4:53 | 2023-12-08 | 2024-01-27 |
 | [Remember Me](https://open.spotify.com/track/676TDDDpvxBeddNHeJJ5Uy) | [Braxton](https://open.spotify.com/artist/3yOWDl4RunYUhE6dWCXhp4) | [Remember Me](https://open.spotify.com/album/4KJhQTZgKYxewsxHoKy6Mj) | 3:10 | 2024-07-12 |  |
 | [Satisfied \[Strings\]](https://open.spotify.com/track/4hUI4xL5nAiY2pAWBfohEH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Satisfied \[Strings\]](https://open.spotify.com/album/6yWdmcKUunAkFi4V6rfV1B) | 2:57 | 2024-08-23 |  |
-| [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 |  |
+| [Second Chance](https://open.spotify.com/track/0IdaAvLilaPpPp4IDOpUud) | [Jody Wisternoff](https://open.spotify.com/artist/5gTVJRQmuS88nOhhdHqErL), [James Grant](https://open.spotify.com/artist/45fFrwMq6sPP5P4k1qqFi7) | [Second Chance](https://open.spotify.com/album/2rFoIkxEUTJBCZlZUk0lYS) | 4:30 | 2024-01-12 | 2024-09-11 |
 | [shimmering like you taught me](https://open.spotify.com/track/2mAj7esKn9QtZwjzKKAyow) | [Jorge](https://open.spotify.com/artist/06gZcKE43fmppPdPVYG8HV) | [shimmering like you taught me](https://open.spotify.com/album/1eBMSN2GVwskDKeBKUcuYa) | 2:44 | 2024-07-19 | 2024-08-17 |
 | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/track/2gHvMuXWRWs1E3hGhba4Vl) | [Mark Barrott](https://open.spotify.com/artist/4gL09KXlpi9W3wcoyAM15P) | [Shinrin\-yoku \(森林浴\)](https://open.spotify.com/album/2fb2A2HtNR5dUvFpai1Pmv) | 4:38 | 2023-12-08 | 2024-01-20 |
 | [Show Me How](https://open.spotify.com/track/12dXMqsOXUtE9IBtUDSOvt) | [Sean Blanc](https://open.spotify.com/artist/5zOgJO7Uyh5ALdB7Ts9vxt) | [Show Me How](https://open.spotify.com/album/4RSRc0uKcujiW0Xesvriz5) | 4:03 | 2024-06-19 | 2024-06-22 |
@@ -129,6 +129,7 @@
 | [Snow Day](https://open.spotify.com/track/4om6fOW3uXnGWfTSmLDfwq) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Snow Day](https://open.spotify.com/album/4CGsHJyqHvYt1TdEtj359g) | 3:28 | 2023-12-08 | 2023-12-16 |
 | [Solace](https://open.spotify.com/track/27DozBowhDYuHNExnzbipt) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Solace](https://open.spotify.com/album/3jnjfy0d3wpbZ12cy1LlPj) | 3:13 | 2023-12-08 |  |
 | [Stellar](https://open.spotify.com/track/2Go5FfwZeqUPW3OnmPdmPN) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Mimose](https://open.spotify.com/album/4C3g7KoC8HBoiURn8eWGaa) | 3:45 | 2024-04-19 | 2024-06-15 |
+| [Summer](https://open.spotify.com/track/1w9XZ6Pac9L7z4LOSbYe0E) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Love Exposure](https://open.spotify.com/album/3GOcUvecKCw6ImtEP8wldX) | 3:52 | 2024-09-10 |  |
 | [summer & emails \(no longer a sadness\)](https://open.spotify.com/track/0p03R0WRlCjPp5rENeC4GM) | [Joshua](https://open.spotify.com/artist/6WY4GlbTKrZnzoaIyKdyDr), [Alaskan Tapes](https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq) | [2.23](https://open.spotify.com/album/3cVo98Ytv09Iu5PIwnla5O) | 1:06 | 2024-01-05 | 2024-01-13 |
 | [Summer Dreams](https://open.spotify.com/track/3VSWJ61d0x9LJ2zvZPGFwD) | [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ), [Dessin Bizarre](https://open.spotify.com/artist/4DafxGtQjtOUPDvUZXQfgC) | [Happiness EP](https://open.spotify.com/album/4rORjkZD4qJYHjiIMJrhFy) | 2:58 | 2024-03-01 | 2024-06-04 |
 | [Swirl](https://open.spotify.com/track/0Uj30EguEhtuNlzMTI2i86) | [Croquet Club](https://open.spotify.com/artist/6Fn7vKaPgzA6AAIb7EhhV6) | [Fugue In Twilight](https://open.spotify.com/album/0cv8RApqPNKm5G8w8mOugM) | 4:14 | 2024-03-28 | 2024-04-13 |

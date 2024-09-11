@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,298 likes - 47 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,366 likes - 47 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 7 | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/track/2lmKOWJr0QP4O4WQcxwNNT) | [Shirley Carvalhaes](https://open.spotify.com/artist/6HNIWHUiKtaQwzY424iplT) | [Passar pela Moenda \- Ao Vivo](https://open.spotify.com/album/5VBDvmOHpGQKK2voUeMcwc) | 5:21 |
 | 8 | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/track/4MHH8KdwgvZBm2MnpTS4px) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Joelhos no Chão \- Ao Vivo](https://open.spotify.com/album/4YujH3jWfy2bVI3XVcIuGn) | 6:08 |
 | 9 | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/track/52JyooPBg5X4bnxZYyWdQg) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Jairo Bonfim](https://open.spotify.com/artist/1DcX51Pc5bYQX0o2fvdGK4) | [Filho Volta \(Ao Vivo\)](https://open.spotify.com/album/44g66oxnqjBxpky6dfEsYN) | 4:20 |
-| 10 | [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:45 |
+| 10 | [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:43 |
 | 11 | [Todo Medo Se Vai](https://open.spotify.com/track/7a98p4MG0I4g0m0GrN5GoL) | [André Wilian](https://open.spotify.com/artist/0J2crDNBfQIL61dT9I402K), [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Todo Medo Se Vai](https://open.spotify.com/album/7cHxcctw146k3eJnblSwPX) | 3:43 |
 | 12 | [profundo amor de Jesus](https://open.spotify.com/track/0SE7KavCxDx2B2cpe4XCdH) | [Hillside Recording](https://open.spotify.com/artist/1Pr6QC1iOpXLx1shPTBBhN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE), [Cether](https://open.spotify.com/artist/4DPWhihNMGBAgXYyYLOXn7) | [profundo amor de Jesus](https://open.spotify.com/album/10YKBx5cc6ZZZ9gKIl53Tn) | 3:45 |
 | 13 | [Yeshua \- Ao Vivo](https://open.spotify.com/track/3rT4pjQiuQc4TbmffBEecq) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe), [Felipe Rodrigues](https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS), [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC), [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN), [Salvaon](https://open.spotify.com/artist/1YbTEvDgGkTuBpMFtHDbgG) | [Yeshua \- Ao Vivo](https://open.spotify.com/album/0FwcDAqBcPazI0Y28RHXrc) | 8:17 |

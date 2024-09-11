@@ -1477,6 +1477,24 @@
     },
     {
       "album": {
+        "name": "Historia Musical 14 Ca\u00f1onazos (1971 - 1980)",
+        "url": "https://open.spotify.com/album/16L4Sx2a2F0QiEKnvBauRx"
+      },
+      "artists": [
+        {
+          "name": "Ismael Rudas",
+          "url": "https://open.spotify.com/artist/1Q9t63kYBZgRHiasXyNpo8"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178119,
+      "name": "El Viejo Ba\u00fal",
+      "url": "https://open.spotify.com/track/2xVpum8zwiaElEHB889JtU"
+    },
+    {
+      "album": {
         "name": "Greatest Cumbia Classics Of Colombia, Vol. 1",
         "url": "https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV"
       },
@@ -2776,7 +2794,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 226184,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/6GA4n3kmq8pTJLmntNlXDD"

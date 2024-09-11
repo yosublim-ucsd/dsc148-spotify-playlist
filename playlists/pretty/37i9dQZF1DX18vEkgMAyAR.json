@@ -1,6 +1,6 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 68213,
+  "num_followers": 68217,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
@@ -927,6 +927,22 @@
     {
       "added_at": "2024-05-10 06:34:25",
       "album": {
+        "name": "Can't Hurry Love",
+        "url": "https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Cele",
+          "url": "https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg"
+        }
+      ],
+      "duration_ms": 181212,
+      "name": "Can't Hurry Love",
+      "url": "https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB"
+    },
+    {
+      "added_at": "2024-05-10 06:34:25",
+      "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/35gvThn8Bj6gW12Qr8pXUs"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 235555,
       "name": "Never Too Far",
       "url": "https://open.spotify.com/track/6EfVcvhMtH0PA7JVyD8TJb"
-    },
-    {
-      "added_at": "2024-05-10 06:34:25",
-      "album": {
-        "name": "Can't Hurry Love",
-        "url": "https://open.spotify.com/album/5p9MT9gZX1J7X4QLj7A414"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Cele",
-          "url": "https://open.spotify.com/artist/3Ep2ZktnezHzTyx4oAFddg"
-        }
-      ],
-      "duration_ms": 181212,
-      "name": "Can't Hurry Love",
-      "url": "https://open.spotify.com/track/7385EDnK2hsXZT1yBUX4EB"
     },
     {
       "added_at": "2024-05-10 06:34:25",

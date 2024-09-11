@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "PERSON",
+        "url": "https://open.spotify.com/album/3TNRXnBvhF8ZzELhMuBo9m"
+      },
+      "artists": [
+        {
+          "name": "*Luna",
+          "url": "https://open.spotify.com/artist/4vwJe968gHHZzL0or0gSZA"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269368,
+      "name": "Black Out",
+      "url": "https://open.spotify.com/track/1xoSc615wdQJiegfuJ8wPH"
+    },
+    {
+      "album": {
         "name": "Don't need cure?",
         "url": "https://open.spotify.com/album/0sXrmpRxUj5p8BkZ5U5cwn"
       },
@@ -1279,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "\u3082\u3046\u5bdd\u306a\u3055\u3044",
+        "url": "https://open.spotify.com/album/7ydOugS57oikJG0NehJIce"
+      },
+      "artists": [
+        {
+          "name": "saikawa",
+          "url": "https://open.spotify.com/artist/07QJKBA7oc1IFkGNDo7qsB"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214666,
+      "name": "\u3082\u3046\u5bdd\u306a\u3055\u3044 (feat. \u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/0bhQ9mUIy3MligfrPdhjpX"
+    },
+    {
+      "album": {
         "name": "\u3084\u3063\u305f\u308c\uff01\u97f3\u5408\u6226",
         "url": "https://open.spotify.com/album/1vEKZQ3l7IK35HlBt15u6H"
       },
@@ -1298,6 +1334,32 @@
       "duration_ms": 242538,
       "name": "\u3084\u3063\u305f\u308c\uff01\u97f3\u5408\u6226 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/4rREBo7wDwPnUatYbnjHoH"
+    },
+    {
+      "album": {
+        "name": "Guest Pass Gallery",
+        "url": "https://open.spotify.com/album/1gazSaERPpINljX75TCuHB"
+      },
+      "artists": [
+        {
+          "name": "miru",
+          "url": "https://open.spotify.com/artist/7BsojQGOXYRhn2f4sHrbPN"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        },
+        {
+          "name": "\u53ef\u4e0d",
+          "url": "https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "\u3084\u3063\u3063\u3063\u30c1\u30e3\u30a4\u30ca\uff01\uff01\uff01\uff01 (feat. \u93e1\u97f3\u30ec\u30f3&\u53ef\u4e0d)",
+      "url": "https://open.spotify.com/track/6kYcasPVu8On2eUuvkS6Eb"
     },
     {
       "album": {
@@ -1404,7 +1466,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 204500,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30a8\u30dd\u30c3\u30af\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/3bhvdTNbtl7NmdCaudhXwR"
@@ -1878,7 +1940,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 270857,
       "name": "\u30b9\u30d7\u30ea\u30f3\u30af\u30eb",
       "url": "https://open.spotify.com/track/0de4RUozyo1uCBmJ7dOwan"
@@ -2347,6 +2409,28 @@
     },
     {
       "album": {
+        "name": "\u30cd\u30bf\u30d0\u30ec\uff3c(^o^)\uff0f",
+        "url": "https://open.spotify.com/album/6Qr7x9v4O8pqrB9KKKB7Ga"
+      },
+      "artists": [
+        {
+          "name": "Owata-P",
+          "url": "https://open.spotify.com/artist/3v36jh0tWiWqZwdBDUAgQP"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217259,
+      "name": "\u30df\u30e9\u30af\u30eb\u30a8\u30fc\u30b9\uff01 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/6B2AgMVAmX30SsKgr97tBO"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30a4\u30d7\u30eb\u30b7\u30ed\u30c3\u30d7",
         "url": "https://open.spotify.com/album/6urT2apeR10mgxZIW1GG5A"
       },
@@ -2358,7 +2442,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 237856,
       "name": "\u30e1\u30a4\u30d7\u30eb\u30b7\u30ed\u30c3\u30d7",
       "url": "https://open.spotify.com/track/0ptAtCL007q44Yqgh8CqCl"
@@ -2724,7 +2808,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 196223,
       "name": "\u5408\u6210\u3059\u308b\u30df\u30e9\u30a4 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0ZuSEkUSvuhrcmOu1MBKDC"
@@ -3348,7 +3432,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 188219,
       "name": "\u6c37\u306e\u30bb\u30ab\u30a4 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/2oKdBm7n99To9MDxqlc3MG"
@@ -3462,6 +3546,28 @@
       "duration_ms": 215000,
       "name": "\u7a7a\u60f3\u21d4\u73fe\u5b9f\u30e1\u30c8\u30ed\u30ce\u30fc\u30e0",
       "url": "https://open.spotify.com/track/1vt39ocM5YJ5XpCKfrBO6S"
+    },
+    {
+      "album": {
+        "name": "\u8133\u5929",
+        "url": "https://open.spotify.com/album/4Vm4G7KCNB8MIhd7UEcbyA"
+      },
+      "artists": [
+        {
+          "name": "\u30e0\u30e9\u30bf\u30b7\u30e6\u30a6",
+          "url": "https://open.spotify.com/artist/1UOYQDUo7piWGEOQuorb79"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "\u8133\u5929 feat. \u93e1\u97f3\u30ea\u30f3",
+      "url": "https://open.spotify.com/track/3kwHouapkt8MKka707ddQC"
     },
     {
       "album": {

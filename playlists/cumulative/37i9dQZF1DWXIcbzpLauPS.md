@@ -4,7 +4,7 @@
 
 > metalcore at its best\. Cover: thrown
 
-995 songs - 2 day 13 hr 41 min
+996 songs - 2 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Don't Reach For Me](https://open.spotify.com/track/3pFg2UmSItBn9Zj8AmVse7) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Don't Reach For Me](https://open.spotify.com/album/3FWb6SMsjXJ1VqRamg44cO) | 3:45 | 2024-04-12 | 2024-08-13 |
 | [Don’t Look Away](https://open.spotify.com/track/13TI2bhTRld8pgk9xM8wm9) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Don't Look Away](https://open.spotify.com/album/4waOzgfNIF4sBAkKX9NzrJ) | 3:13 | 2024-03-08 | 2024-05-11 |
 | [Don’t Look Away](https://open.spotify.com/track/0vEp4LmvDQNcc8MGOHno6Q) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Vol\. 2](https://open.spotify.com/album/7lAOJSvVNt3hTZ9MQMSBmB) | 3:13 | 2024-05-10 |  |
+| [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 | 2024-08-30 |  |
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
 | [Doubt Me](https://open.spotify.com/track/2eagADnpxQacZXpQxlZ8n3) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:10 | 2023-09-29 | 2024-02-10 |
@@ -779,7 +780,7 @@
 | [Sleepless](https://open.spotify.com/track/3lSaNqdv9RsJpmI0V4afRQ) | [What Lies Below](https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj) | [Sleepless](https://open.spotify.com/album/7zc8anigDU6aPd6bAOSppC) | 4:32 | 2024-06-04 | 2024-08-16 |
 | [Sleepless Deathbed](https://open.spotify.com/track/1ZAFLRxIurbkvn5xrs4soC) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [Sleepless Deathbed](https://open.spotify.com/album/4NNQqKSzqvqqGBVMkh2yeJ) | 3:58 | 2024-01-22 | 2024-08-26 |
 | [SLIT WRIST SAVIOR \- Graveside Edition](https://open.spotify.com/track/53KHVi05aNn8zlum8Ep0hm) | [Carnifex](https://open.spotify.com/artist/4nqY8hkQNkHaDq4fdVxdYr) | [SLIT WRIST SAVIOR \(Graveside Edition\)](https://open.spotify.com/album/2zH0pCrottkYrK6hIBgzI6) | 4:21 | 2022-07-13 | 2022-07-21 |
-| [Slow Sour Bleed](https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CURE](https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5) | 4:07 | 2024-05-10 |  |
+| [Slow Sour Bleed](https://open.spotify.com/track/4OxMtvwZb8Ke1z4uIwEaKr) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CURE](https://open.spotify.com/album/34Je91rVQYAoPcGqfpcdd5) | 4:07 | 2024-05-10 | 2024-09-11 |
 | [Smile](https://open.spotify.com/track/4roKpz8Lr3mrTynVrFOD70) | [Banks Arcade](https://open.spotify.com/artist/0dPpBOzonBzIhl7EoLnj3D) | [Smile](https://open.spotify.com/album/5KV8G5odPoSh6lflXZTFoO) | 3:42 | 2022-01-21 | 2022-04-29 |
 | [Smoke Signals](https://open.spotify.com/track/63cTVY6A0yeJ0DsjXBwYVH) | [Novelists FR](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Smoke Signals](https://open.spotify.com/album/6LlnpYow87yXNdi9TtTUiv) | 3:34 | 2022-04-01 | 2022-07-23 |
 | [Smoldered](https://open.spotify.com/track/6WvDSdmAlcO9h2FWtsSYjN) | [Abiotic](https://open.spotify.com/artist/25TXAPH49z6xsXwjcBJdfe), [Chaney Crabb](https://open.spotify.com/artist/5XyQ4rRjIxhVpaOrXlZ1jJ) | [Smoldered](https://open.spotify.com/album/3nzyvzWv4ePq1gsxUUAWF0) | 5:12 | 2022-07-13 | 2022-07-15 |

@@ -1,6 +1,6 @@
 {
   "description": "the sweetest new indie pop, featuring Kai Bosch \ud83c\udf51",
-  "num_followers": 29309,
+  "num_followers": 29307,
   "original_name": "peach",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Meet Cute",
-        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 166027,
-      "name": "Meet Cute",
-      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "Happy Customers",
         "url": "https://open.spotify.com/album/0dTKw8cadmnm8RWA4pcQxZ"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 170340,
       "name": "Happy Customers",
       "url": "https://open.spotify.com/track/2SeeW0fmWUTYrRCr7Ofila"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Meet Cute",
+        "url": "https://open.spotify.com/album/2BizN0b47TcJRtV3HDbxxp"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 166027,
+      "name": "Meet Cute",
+      "url": "https://open.spotify.com/track/1AGwNYyB2N1bPpGaL77Htz"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -511,18 +511,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Keep It Up",
-        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
+        "name": "Romanticism",
+        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
       },
       "artists": [
         {
-          "name": "Good Neighbours",
-          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 156524,
-      "name": "Keep It Up",
-      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
+      "duration_ms": 234234,
+      "name": "Airplane",
+      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Romanticism",
-        "url": "https://open.spotify.com/album/6I7Al2K8HxKvyJcook1ZR8"
+        "name": "Keep It Up",
+        "url": "https://open.spotify.com/album/2BfzJ8ozCGDPTD9TXNPGrL"
       },
       "artists": [
         {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+          "name": "Good Neighbours",
+          "url": "https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE"
         }
       ],
-      "duration_ms": 234234,
-      "name": "Airplane",
-      "url": "https://open.spotify.com/track/5U0vVExqpq4pOEhs2ODuA9"
+      "duration_ms": 156524,
+      "name": "Keep It Up",
+      "url": "https://open.spotify.com/track/3B7cm8w1IAfOfgQHFvAsft"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Shiny Things",
-        "url": "https://open.spotify.com/album/3onXWmnfOLbH5TeRvtFlDk"
-      },
-      "artists": [
-        {
-          "name": "Matilda Cole",
-          "url": "https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI"
-        }
-      ],
-      "duration_ms": 167569,
-      "name": "Shiny Things",
-      "url": "https://open.spotify.com/track/1FtIJ4bHPWDp82eFDAe9w7"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "How I Wish I Was Cool",
         "url": "https://open.spotify.com/album/0cfVAeAUKSHQfBdSItqykL"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 186131,
       "name": "How I Wish I Was Cool",
       "url": "https://open.spotify.com/track/4vHN3V78frVhc6wfYXOS8D"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Shiny Things",
+        "url": "https://open.spotify.com/album/3onXWmnfOLbH5TeRvtFlDk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Cole",
+          "url": "https://open.spotify.com/artist/3E9GBigbPYos8ocrppL8OI"
+        }
+      ],
+      "duration_ms": 167569,
+      "name": "Shiny Things",
+      "url": "https://open.spotify.com/track/1FtIJ4bHPWDp82eFDAe9w7"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "City Warm Heart",
-        "url": "https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52"
-      },
-      "artists": [
-        {
-          "name": "LA Priest",
-          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
-        }
-      ],
-      "duration_ms": 181069,
-      "name": "City Warm Heart",
-      "url": "https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "Paint Me Like A Woman",
         "url": "https://open.spotify.com/album/2wuTuT0PhsusCx1kk8fEMY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 284226,
       "name": "Paint Me Like A Woman",
       "url": "https://open.spotify.com/track/6uFOrSpwGRFrSCCZIwaVrY"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "City Warm Heart",
+        "url": "https://open.spotify.com/album/5iNljgQzhCShhX58EmQA52"
+      },
+      "artists": [
+        {
+          "name": "LA Priest",
+          "url": "https://open.spotify.com/artist/2JYMUWD8r1jFFjD1V3WcCX"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "City Warm Heart",
+      "url": "https://open.spotify.com/track/3nqjxIyCFr72mrgbUvxX0y"
     },
     {
       "added_at": "2024-08-21 13:07:59",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-08-21 13:07:59",
       "album": {
-        "name": "Losing By A Landslide",
-        "url": "https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP"
-      },
-      "artists": [
-        {
-          "name": "Sophia Alexa",
-          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Losing By A Landslide",
-      "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
-    },
-    {
-      "added_at": "2024-08-21 13:07:59",
-      "album": {
         "name": "Different This Time?",
         "url": "https://open.spotify.com/album/67DJaYzEwXwfJ4ofIF3QaC"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 189316,
       "name": "What Have I Become?",
       "url": "https://open.spotify.com/track/08MQRS8nISdiYeZq4Dq2I8"
+    },
+    {
+      "added_at": "2024-08-21 13:07:59",
+      "album": {
+        "name": "Losing By A Landslide",
+        "url": "https://open.spotify.com/album/16D48mNNTX9JtuKUuVMnKP"
+      },
+      "artists": [
+        {
+          "name": "Sophia Alexa",
+          "url": "https://open.spotify.com/artist/73lvPuHcwxbYt4DzLhs7XZ"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Losing By A Landslide",
+      "url": "https://open.spotify.com/track/3rmUh491bZcjZlzv2zn1xa"
     },
     {
       "added_at": "2024-08-21 13:07:59",

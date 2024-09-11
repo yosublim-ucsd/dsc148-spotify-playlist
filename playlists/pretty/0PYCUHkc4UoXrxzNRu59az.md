@@ -27,6 +27,6 @@ pretty - [cumulative](/playlists/cumulative/0PYCUHkc4UoXrxzNRu59az.md) - [plain]
 | 17 | [Still into You](https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:36 |
 | 18 | [Send Me The Moon](https://open.spotify.com/track/2xNCvvLwHconIojhe57JEv) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Kaleidoscope EP](https://open.spotify.com/album/5LWxBc1nda26oJOccMZuWf) | 4:57 |
 | 19 | [Make Out](https://open.spotify.com/track/7sDNOhZKTb7RBDm3udUGDo) | [Julia Nunes](https://open.spotify.com/artist/5KxxHTQit8vvtn3JFyw3MH) | [Some Feelings](https://open.spotify.com/album/5Zz0yKTZUvmllqnZaF6JN4) | 2:49 |
-| 20 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
+| 20 | [Warmth](https://open.spotify.com/track/4hVJIlulH29qKVYGCT6cky) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \- Complete Edition](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:49 |
 
 Snapshot ID: `AAAAFZGd6mup14MXWM7/lZ0Qe/lXRPYu`

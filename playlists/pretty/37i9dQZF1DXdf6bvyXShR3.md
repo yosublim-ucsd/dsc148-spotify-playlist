@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 
 > <a href="spotify:artist:5mIowAJMp7RKNheelruV5z">&ME</a>'s favorite tracks\. Updated regularly\. Curated by &ME\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,297 likes - 71 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,365 likes - 71 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdf6bvyXShR3.md) - [plain]
 | 18 | [If I Could Stop The Sunset](https://open.spotify.com/track/75gHYLYjhFCbtKS1gWkGr4) | [Juan Yarin](https://open.spotify.com/artist/0cPgP2pYS8lmkzxiJc0hO7) | [If I Could Stop The Sunset](https://open.spotify.com/album/3ZZEi1BSdN7nre48mHwMSJ) | 6:38 |
 | 19 | [After Saturday Night \- Manoo Alternative Remix](https://open.spotify.com/track/4XYiw42aBp3OgB3pQ0pRCj) | [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx), [Starving Yet Full](https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a), [Manoo](https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz) | [Réciprocité Remixed](https://open.spotify.com/album/5gMTZ0bWqCXh7YtNHTUdmp) | 8:00 |
 | 20 | [Save My Life](https://open.spotify.com/track/1qlDfQfqMVgAIX3bGSr5EJ) | [Benny Mussa](https://open.spotify.com/artist/3JNbl0jPjCNLrZrCbqku6f) | [Save My Life](https://open.spotify.com/album/6YZT6tRvHJ6jGFSKVbg5tF) | 2:50 |
-| 21 | [Wala Ala Balo Edit](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Edit](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
+| 21 | [Wala Ala Balo Remix](https://open.spotify.com/track/3YV7ImEdD2moA9ZALYFbu1) | [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Misty](https://open.spotify.com/artist/4IrIBE884z1Tjx7A6jRGd6) | [Wala Ala Balo Remix](https://open.spotify.com/album/6HqYQvHSW2qBqk7jcwhFuW) | 6:17 |
 | 22 | [Je Préfère Ça](https://open.spotify.com/track/6EFCqqmQPbfPTiGaTX2o8r) | [Marine Neuilly](https://open.spotify.com/artist/4YwQhwRfbRMFIplXwGQezw) | [Je Préfère Ça](https://open.spotify.com/album/3bQniI8gmo3higCnIQ3MYe) | 3:17 |
 | 23 | [Indlela](https://open.spotify.com/track/1OM5jg270V0MJAWViprzUf) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Thee Suka](https://open.spotify.com/artist/0UKxhX9dIF8XkLRbKrQcoN), [Nkuli Keys](https://open.spotify.com/artist/4ZM10RQ54AoqOqicXrIGmp) | [Indlela](https://open.spotify.com/album/5ApLWvuBwx6btiU1V0uIbl) | 6:54 |
 | 24 | [Barr\-Setta](https://open.spotify.com/track/38c1BU0m7WR2Ez8zUqQI9y) | [Umgido](https://open.spotify.com/artist/3Wf4yyq68bvmeajhLXETrt), [Rudy Julius](https://open.spotify.com/artist/34DaaWAYOdwGT3nftgzn2P) | [The Atlantic](https://open.spotify.com/album/4IbKrYy3PFRNzVc4CGfEe6) | 5:47 |

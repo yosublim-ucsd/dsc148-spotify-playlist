@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Jess\u00e9 Alcantara",
-  "num_followers": 172646,
+  "num_followers": 172670,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,38 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
+        "name": "Salmos 113",
+        "url": "https://open.spotify.com/album/3bzmo48p1wOToGkgh7mFKl"
+      },
+      "artists": [
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        }
+      ],
+      "duration_ms": 131891,
+      "name": "Salmos 113",
+      "url": "https://open.spotify.com/track/3R4li8HreiKbZC4ztcySQ8"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Filho Pr\u00f3digo",
+        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 114580,
+      "name": "Filho Pr\u00f3digo",
+      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
         "name": "Aben\u00e7oado",
         "url": "https://open.spotify.com/album/1UeoqagDPl2CtvyQ4JtMKc"
       },
@@ -255,22 +287,6 @@
       "duration_ms": 188852,
       "name": "Aben\u00e7oado",
       "url": "https://open.spotify.com/track/2hd4gRebmcGg4Tf5akivTg"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Filho Pr\u00f3digo",
-        "url": "https://open.spotify.com/album/71SgkTXW7JdBhSC144nlOP"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 114580,
-      "name": "Filho Pr\u00f3digo",
-      "url": "https://open.spotify.com/track/7t8kUYD03BGHvQNBZFEiud"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -299,22 +315,6 @@
       "duration_ms": 203081,
       "name": "Metas e Versos (feat. Brunno Ramos)",
       "url": "https://open.spotify.com/track/1Doa0Lxwyy3t5VXTVZFR9F"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "100 Versos",
-        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "100 Versos",
-      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -351,18 +351,18 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "eu vi",
-        "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
+        "name": "100 Versos",
+        "url": "https://open.spotify.com/album/3mLp7jYB9OvVRhjHXJMM7s"
       },
       "artists": [
         {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
         }
       ],
-      "duration_ms": 179310,
-      "name": "eu vi",
-      "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+      "duration_ms": 158663,
+      "name": "100 Versos",
+      "url": "https://open.spotify.com/track/6mMsJejUwWpTHjYyrRTg7p"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
+        "name": "eu vi",
+        "url": "https://open.spotify.com/album/0u2KNdhqH6ow0ngQvbGMDI"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 179310,
+      "name": "eu vi",
+      "url": "https://open.spotify.com/track/776a4QwYcp91riZRZlAqWt"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
         "name": "Chove Cedo",
         "url": "https://open.spotify.com/album/2HzZCISe25bdH1UMULbjuR"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 192000,
       "name": "Chove Cedo",
       "url": "https://open.spotify.com/track/2XFkZKC26RhXF3yzkg0ykW"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Salmos 113",
-        "url": "https://open.spotify.com/album/3bzmo48p1wOToGkgh7mFKl"
-      },
-      "artists": [
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        }
-      ],
-      "duration_ms": 131891,
-      "name": "Salmos 113",
-      "url": "https://open.spotify.com/track/3R4li8HreiKbZC4ztcySQ8"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Vale da Sombra",
-        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Vale da Sombra",
-      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
         "name": "Bem Maior",
         "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
       },
@@ -519,62 +503,6 @@
       "duration_ms": 156000,
       "name": "Bem Maior",
       "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
-      },
-      "artists": [
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Controle",
-        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        }
-      ],
-      "duration_ms": 184102,
-      "name": "Controle",
-      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Predestinado",
-        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 162272,
-      "name": "Viv\u00e3o",
-      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -615,6 +543,78 @@
       "duration_ms": 256285,
       "name": "Trap Gospel Existe",
       "url": "https://open.spotify.com/track/00nGa6T0InHfVSky5nDYrw"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Vale da Sombra",
+        "url": "https://open.spotify.com/album/7B4NtDX14mrfDXvWVJ3TXF"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Vale da Sombra",
+      "url": "https://open.spotify.com/track/53fJ4qNUOSLqhNedzp2lxJ"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+      },
+      "artists": [
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Predestinado",
+        "url": "https://open.spotify.com/album/4D0hEnelEJSkEplzl3tfh2"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 162272,
+      "name": "Viv\u00e3o",
+      "url": "https://open.spotify.com/track/06fddvzlWUEew0EGXK7eei"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Controle",
+        "url": "https://open.spotify.com/album/4MJLd9rXWPBQONZcUkpVYI"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 184102,
+      "name": "Controle",
+      "url": "https://open.spotify.com/track/55wOEFXFsswm2z2xGEQOx1"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Cansado",
-        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
-      },
-      "artists": [
-        {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
-        },
-        {
-          "name": "Skinny Beats",
-          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Cora\u00e7\u00e3o Cansado",
-      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
         "name": "Nome Sobre Todo Nome",
         "url": "https://open.spotify.com/album/1REKdbjMNhpUo6cTHhGacj"
       },
@@ -795,6 +775,30 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
+        "name": "Sangue",
+        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 173548,
+      "name": "Sangue",
+      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
         "name": "E F\u00e9",
         "url": "https://open.spotify.com/album/30ds3ileHxbUp4oiuQOijT"
       },
@@ -807,6 +811,26 @@
       "duration_ms": 153400,
       "name": "E F\u00e9",
       "url": "https://open.spotify.com/track/2qfI1rpgbGjNoaqcOJVfc2"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Cansado",
+        "url": "https://open.spotify.com/album/647o2SxR5KwJMyiW8UjWwW"
+      },
+      "artists": [
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Cora\u00e7\u00e3o Cansado",
+      "url": "https://open.spotify.com/track/00IM6KmIxhJGhJ6s4Rzutf"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -851,32 +875,8 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Sangue",
-        "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        }
-      ],
-      "duration_ms": 173548,
-      "name": "Sangue",
-      "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Casa Sem a Gra\u00e7a",
-        "url": "https://open.spotify.com/album/2lRvGKZu4PLkZTyKjuaWTk"
+        "name": "Vibe de Crente",
+        "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
       },
       "artists": [
         {
@@ -884,17 +884,29 @@
           "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
         },
         {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
           "name": "Trindade Records",
           "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
           "name": "Love Funk",
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         }
       ],
-      "duration_ms": 209395,
-      "name": "Casa Sem a Gra\u00e7a",
-      "url": "https://open.spotify.com/track/3xOMVx3JeUEgbxlVdKMBm0"
+      "duration_ms": 208116,
+      "name": "Vibe de Crente",
+      "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1071,17 +1083,13 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Vibe de Crente",
-        "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
+        "name": "Casa Sem a Gra\u00e7a",
+        "url": "https://open.spotify.com/album/2lRvGKZu4PLkZTyKjuaWTk"
       },
       "artists": [
         {
           "name": "Rafael Caff",
           "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
-        },
-        {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
         },
         {
           "name": "Trindade Records",
@@ -1090,19 +1098,11 @@
         {
           "name": "Love Funk",
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
         }
       ],
-      "duration_ms": 208116,
-      "name": "Vibe de Crente",
-      "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
+      "duration_ms": 209395,
+      "name": "Casa Sem a Gra\u00e7a",
+      "url": "https://open.spotify.com/track/3xOMVx3JeUEgbxlVdKMBm0"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1123,6 +1123,38 @@
       "duration_ms": 171428,
       "name": "Metanoia",
       "url": "https://open.spotify.com/track/5yFbN85LhLus4kGMVRc3GV"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Amor de Deus",
+        "url": "https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL"
+      },
+      "artists": [
+        {
+          "name": "2metro",
+          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
+        }
+      ],
+      "duration_ms": 245807,
+      "name": "Amor de Deus",
+      "url": "https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Mesma Miss\u00e3o",
+        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
+      },
+      "artists": [
+        {
+          "name": "RAMON EL BRABO",
+          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
+        }
+      ],
+      "duration_ms": 163245,
+      "name": "Mesma Miss\u00e3o",
+      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1191,22 +1223,6 @@
       "duration_ms": 157568,
       "name": "Mais Perto do C\u00e9u",
       "url": "https://open.spotify.com/track/42DMceznqA2BZIpdJTdJC9"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Mesma Miss\u00e3o",
-        "url": "https://open.spotify.com/album/7MzCE7MhQmxJX7FyZYTGR2"
-      },
-      "artists": [
-        {
-          "name": "RAMON EL BRABO",
-          "url": "https://open.spotify.com/artist/6pbgRRt11Pm25bOUugtzhI"
-        }
-      ],
-      "duration_ms": 163245,
-      "name": "Mesma Miss\u00e3o",
-      "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1287,22 +1303,6 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Amor de Deus",
-        "url": "https://open.spotify.com/album/1iEdczsn5jPpUvQyn0PYLL"
-      },
-      "artists": [
-        {
-          "name": "2metro",
-          "url": "https://open.spotify.com/artist/2X9dC91SeQxCJwWk2LyjEV"
-        }
-      ],
-      "duration_ms": 245807,
-      "name": "Amor de Deus",
-      "url": "https://open.spotify.com/track/5T34BcD9g2JLASC9HuaMlP"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
         "name": "Aba Pai",
         "url": "https://open.spotify.com/album/2MH7AKynaJf9qjIylGXMxz"
       },
@@ -1315,46 +1315,6 @@
       "duration_ms": 126720,
       "name": "Aba Pai",
       "url": "https://open.spotify.com/track/5RDiH1JScYwrGaQOCZnUqF"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Prioridade",
-        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
-      },
-      "artists": [
-        {
-          "name": "Luna Garcez",
-          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Prioridade",
-      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
-      },
-      "artists": [
-        {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
-        },
-        {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
-        }
-      ],
-      "duration_ms": 199115,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1383,26 +1343,22 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/3SSpd8yC1ueWdG5ojJlgId"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+          "name": "Luna Garcez",
+          "url": "https://open.spotify.com/artist/7EL0yj5j2H7vN6Xu1fKB5p"
         },
         {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         }
       ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+      "duration_ms": 204000,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/1RmOFNrRwuYH0IhRCm3Xwp"
     },
     {
       "added_at": "2024-09-07 03:01:00",
@@ -1431,6 +1387,50 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+      },
+      "artists": [
+        {
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Dima",
+          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+        }
+      ],
+      "duration_ms": 200405,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/13Bxv5nyhn9N4XzeO7TuPQ"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        },
+        {
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+        }
+      ],
+      "duration_ms": 199115,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/0YC9PmA7JeaupmtfIOugat"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
       },
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2024-09-07 03:01:00",
       "album": {
-        "name": "Por Onde C Andar",
-        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
-      },
-      "artists": [
-        {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "Por Onde C Andar",
-      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
-    },
-    {
-      "added_at": "2024-09-07 03:01:00",
-      "album": {
         "name": "R&V - Prel\u00fadio",
         "url": "https://open.spotify.com/album/0JPVBsKAA00j2gnCBQhDT8"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 153706,
       "name": "Essas Ruas",
       "url": "https://open.spotify.com/track/45q0aUHFCg0kn1hieW2nGN"
+    },
+    {
+      "added_at": "2024-09-07 03:01:00",
+      "album": {
+        "name": "Por Onde C Andar",
+        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Por Onde C Andar",
+      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
     },
     {
       "added_at": "2024-09-07 03:01:00",

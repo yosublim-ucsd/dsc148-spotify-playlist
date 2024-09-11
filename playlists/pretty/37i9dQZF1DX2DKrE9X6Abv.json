@@ -1,6 +1,6 @@
 {
   "description": "this is your moment. ",
-  "num_followers": 757430,
+  "num_followers": 757683,
   "original_name": "end credits",
   "owner": {
     "name": "Spotify",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
-        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
-      },
-      "artists": [
-        {
-          "name": "Milo Korbenski",
-          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
-        }
-      ],
-      "duration_ms": 233513,
-      "name": "Feral Guest",
-      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
-    },
-    {
-      "added_at": "2024-08-08 19:49:51",
-      "album": {
         "name": "Lupercalia",
         "url": "https://open.spotify.com/album/1N62oiLUF4xRk0cZETrSkn"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2024-08-08 19:49:51",
       "album": {
-        "name": "burn & breathe",
-        "url": "https://open.spotify.com/album/61hjvdKUnhMHIpHEnANlFd"
+        "name": "When You Gonna Tell 'Em the Truth, Aaron?",
+        "url": "https://open.spotify.com/album/24f1sqoX0UlZtAywhRb3Ba"
       },
       "artists": [
         {
-          "name": "Chloe Ament",
-          "url": "https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu"
+          "name": "Milo Korbenski",
+          "url": "https://open.spotify.com/artist/6AcfbTxwwz9q4dxJP9sZTI"
         }
       ],
-      "duration_ms": 322856,
-      "name": "Evangeline",
-      "url": "https://open.spotify.com/track/0TPNqKRhUmqv3rzWfKTmoP"
+      "duration_ms": 233513,
+      "name": "Feral Guest",
+      "url": "https://open.spotify.com/track/69v7vezS4laY5CZPrWma0B"
     },
     {
       "added_at": "2024-08-08 19:49:51",
@@ -1515,6 +1499,22 @@
       "duration_ms": 200813,
       "name": "Burner",
       "url": "https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz"
+    },
+    {
+      "added_at": "2024-08-08 19:49:51",
+      "album": {
+        "name": "burn & breathe",
+        "url": "https://open.spotify.com/album/61hjvdKUnhMHIpHEnANlFd"
+      },
+      "artists": [
+        {
+          "name": "Chloe Ament",
+          "url": "https://open.spotify.com/artist/3bAJYz1UylrqS4DgaU9aOu"
+        }
+      ],
+      "duration_ms": 322856,
+      "name": "Evangeline",
+      "url": "https://open.spotify.com/track/0TPNqKRhUmqv3rzWfKTmoP"
     },
     {
       "added_at": "2024-08-08 19:49:51",

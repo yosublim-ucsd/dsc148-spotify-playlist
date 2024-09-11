@@ -1,12 +1,12 @@
 {
   "description": "Every legend has a beginning. Listen to music from Arcane, now streaming on Netflix. ",
-  "num_followers": 44437,
+  "num_followers": 44800,
   "original_name": "Arcane Offical Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtkswAAAAABJYS5wLiEJ6P0gCNdNpweL",
+  "snapshot_id": "ZuCWlAAAAADwObrksyL3Y673OA10h/pQ",
   "tracks": [
     {
       "added_at": "2024-09-05 04:00:00",
@@ -101,10 +101,10 @@
       "url": "https://open.spotify.com/track/3GAkqaCeVaT4CxHR06Eztc"
     },
     {
-      "added_at": "2024-08-10 07:00:00",
+      "added_at": "2024-09-10 18:57:24",
       "album": {
-        "name": "Arcane League of Legends (Soundtrack from the Animated Series)",
-        "url": "https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd"
+        "name": "Enemy (with JID) - from the series Arcane League of Legends",
+        "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
       "artists": [
         {
@@ -114,11 +114,19 @@
         {
           "name": "JID",
           "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
         }
       ],
       "duration_ms": 173381,
-      "name": "Enemy feat. J.I.D. (from the series Arcane League of Legends)",
-      "url": "https://open.spotify.com/track/4qXKkOZ691yYgQu4Lunrds"
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
       "added_at": "2024-08-10 07:00:00",

@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,950 songs - 10 day 23 hr 30 min
+6,951 songs - 10 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -636,6 +636,7 @@
 | [big buddha](https://open.spotify.com/track/3ctgxH0ZpE50qscnZYBY1H) | [Max Hayward](https://open.spotify.com/artist/7BYvlfn9FHd6YH5eTY93zP) | [big buddha](https://open.spotify.com/album/7o1tcY2UDb2b8ZxHQnSRN5) | 2:28 | 2024-01-05 |  |
 | [Big City Issues](https://open.spotify.com/track/7HB3OzS1oOw0ccm27Fg7T0) | [Daniel Fridell](https://open.spotify.com/artist/4WG5037NDBAMyjzClxwmKK), [Sven Lindvall](https://open.spotify.com/artist/3TauislvTr1US5ZCbjnLUx) | [Big City Issues](https://open.spotify.com/album/3hnPutVsHtBKSijIJoJQGv) | 3:21 | 2023-08-10 | 2024-01-12 |
 | [Big Day Out](https://open.spotify.com/track/1mPHFhoAPxim1peXjMVjay) | [Stereo Fear](https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM) | [Big Day Out](https://open.spotify.com/album/2Sv5516GYRdIEG2Us4zl9w) | 1:54 | 2022-05-27 | 2022-09-16 |
+| [Big Fish](https://open.spotify.com/track/2zoSvGZXm4NSLHd5oBNtUc) | [Hi Hat Henry](https://open.spotify.com/artist/7tsp47BEDJSjYQB0YaDV52) | [Big Fish](https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT) | 2:35 | 2024-09-06 |  |
 | [Big Tree](https://open.spotify.com/track/0IXM3N0Z8bPBt0WGb3d44C) | [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx), [Muni](https://open.spotify.com/artist/2VcTkhXOXidpqh4MfiQA5p) | [Big Tree](https://open.spotify.com/album/5AOSkWM8dQbVzaxCJ5gf0J) | 2:13 | 2022-08-26 | 2022-12-03 |
 | [Big Woofer](https://open.spotify.com/track/4ARIpxew6xchsB0A36vrh1) | [Green Piccolo](https://open.spotify.com/artist/0Of8ndqAY23l2wV3sS6Zez) | [Big Woofer](https://open.spotify.com/album/4n5sey3TYWjIGhzyT57mJH) | 2:56 | 2022-12-09 | 2023-03-25 |
 | [Bikes](https://open.spotify.com/track/1xXQc2REQJrIWvpSljejP7) | [Nometronn](https://open.spotify.com/artist/3drJMaIVtJLNisW6LezOnB) | [Bikes](https://open.spotify.com/album/21uOUcZD90UulgeEjy4vEc) | 1:25 | 2021-06-18 | 2022-01-14 |
@@ -1367,7 +1368,7 @@
 | [Crescent](https://open.spotify.com/track/78pD8Ejib9BtCKWeXqDr3t) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Crescent](https://open.spotify.com/album/5nIIDBRXFx30wdaoWiklDE) | 2:23 | 2022-02-25 | 2022-07-22 |
 | [Crescent](https://open.spotify.com/track/7oBjP02qAHgXYvFCVH9VIs) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [clay house](https://open.spotify.com/artist/12im7CjaLsHG55sOqVEHCB) | [Murmurs](https://open.spotify.com/album/2FfHrppZXayvIrqaYeTtbI) | 2:23 | 2022-05-27 | 2022-09-16 |
 | [Crescent Moon](https://open.spotify.com/track/5OhYCwdrUO5a3QIOdIWJGs) | [Alecs DeLarge](https://open.spotify.com/artist/6748zpPL23DmNFwloBW90u) | [Crescent Moon](https://open.spotify.com/album/1DxwPbB3b6c2nWqIFEy2Zj) | 1:39 | 2021-11-05 | 2022-06-03 |
-| [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
+| [Crimson](https://open.spotify.com/track/0lHKUq3vasc9eAKVdMVcG3) | [7apes](https://open.spotify.com/artist/4smeBjKru2y3oeQkGSfotv), [Les Jardíns](https://open.spotify.com/artist/1KmgcJvdi7bqvZMrCr9z8a) | [Crimson](https://open.spotify.com/album/7jWYq4jLHtPtmgMvA4m8aD) | 1:52 | 2023-12-01 |  |
 | [Crispiness](https://open.spotify.com/track/67TiB4FlJItKnZFtlXg51R) | [Dee Dee Kidd](https://open.spotify.com/artist/0FiYOjX2fWu29n1P8sud2s) | [Crispiness](https://open.spotify.com/album/4yyRZwLzJcPm8J7OW9zjqf) | 2:38 | 2023-11-10 |  |
 | [Crispy Clouds](https://open.spotify.com/track/4aocuOYi95rQqZNIZt5qtK) | [Howie Doowin](https://open.spotify.com/artist/5GsPaA0g3apgEmOW1HmP7n) | [Crispy Clouds](https://open.spotify.com/album/3Iia1CVUyUWzFbuCg5E9fR) | 2:00 | 2022-07-29 | 2022-11-11 |
 | [Croaky](https://open.spotify.com/track/3QDkNXAurjaxSkbCVZ9pmf) | [David Cutter Music](https://open.spotify.com/artist/5yhFNHP0rMKAtz0fP7IArF) | [Tape Beats 1](https://open.spotify.com/album/3zChkhJVAtkkzBuH6vrZbR) | 1:59 | 2022-09-30 | 2023-01-13 |
@@ -6737,7 +6738,7 @@
 | [White Nights](https://open.spotify.com/track/6ZfePJuiRrJYFQ56xgIeyT) | [Gesmis](https://open.spotify.com/artist/09BQkr06MjFC0nQEd1nG4W) | [White Nights](https://open.spotify.com/album/72NJSF1glsNYibRDuXqHY7) | 2:43 | 2021-12-03 | 2022-06-17 |
 | [White Rose](https://open.spotify.com/track/25xALe1f2uX82L4AmBBcsJ) | [NEKOB](https://open.spotify.com/artist/3tMMTfUIzDEm4qxPMrV1Mi) | [White Rose](https://open.spotify.com/album/4e3Hx5l4itWXJfXDVbRD4e) | 2:09 | 2024-04-26 |  |
 | [white star](https://open.spotify.com/track/6OGSthy4oaSFBg1SNE17dM) | [keseki](https://open.spotify.com/artist/6cDusStHo7vuxe09eYupQf) | [white star](https://open.spotify.com/album/0x2Yra2AfIkfD6M2WL520Z) | 2:22 | 2023-01-13 | 2023-06-08 |
-| [White Trees](https://open.spotify.com/track/2Kf8l3pAXfxYkakE5lzB1D) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Winter Village](https://open.spotify.com/album/7yRyycsRQyoDjljHVN0EMf) | 1:46 | 2024-02-09 |  |
+| [White Trees](https://open.spotify.com/track/2Kf8l3pAXfxYkakE5lzB1D) | [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76) | [Winter Village](https://open.spotify.com/album/7yRyycsRQyoDjljHVN0EMf) | 1:46 | 2024-02-09 | 2024-09-11 |
 | [White winter](https://open.spotify.com/track/0JMRlB5u553fDhhOnLuGKr) | [Lunatic Sad](https://open.spotify.com/artist/2zdUTbS2EdmbSrzK96XvEp) | [White winter](https://open.spotify.com/album/6MK1itWKgniRnP9oy8e5Kx) | 1:34 | 2022-12-09 | 2023-10-20 |
 | [Who Am I \(eh\-eh\) \- Beat Edit](https://open.spotify.com/track/0pXX3aDCcldZ6voMUmwVl8) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Who Am I \(eh\-eh\) \[Beat Edit\]](https://open.spotify.com/album/23RZYIaAic0jZQdG9sCIc2) | 2:48 | 2022-11-18 | 2022-11-25 |
 | [Who Am I \(eh\-eh\) \- Beat Edit](https://open.spotify.com/track/7ECSUGLfQJclwIiBxps8o2) | [Koralle](https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h) | [Who Am I \(eh\-eh\) \(Beat Edit\)](https://open.spotify.com/album/3FN65pquPfhUcbbzslACz4) | 2:48 | 2022-08-19 | 2022-11-20 |

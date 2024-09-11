@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Luli Lee\(이루리\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Savina & Drones\(사비나앤드론즈\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-767 songs - 1 day 22 hr 52 min
+769 songs - 1 day 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,7 +126,7 @@
 | [Concrete \(feat\. CHEEZE\)](https://open.spotify.com/track/2hcSWo1r3YOi8eNHWOXjAi) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Dawn Defibrillation, Vol\. 3](https://open.spotify.com/album/5aXrWCXI7jgHtKVB9khLor) | 3:05 | 2021-12-21 | 2022-06-28 |
 | [Confession](https://open.spotify.com/track/5YOjqVJJDxSdHuwUmLBqXw) | [GIFT](https://open.spotify.com/artist/72jdj8uXwdYUzACiO3RJer) | [Confession](https://open.spotify.com/album/3d7PpF9RGShHyPS4qVsWM3) | 3:50 | 2021-12-21 | 2022-04-19 |
 | [Conversation](https://open.spotify.com/track/2QeyQqJP1Zsmi700qggXvs) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Conversation](https://open.spotify.com/album/3o9oDOYgTR1067epl2bYwC) | 3:20 | 2022-03-31 | 2022-07-14 |
-| [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 |  |
+| [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 | 2024-09-04 | 2024-09-11 |
 | [Cream Dream](https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj) | [Trophy Cat](https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK) | [Cream Dream](https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj) | 3:16 | 2021-12-21 | 2022-07-25 |
 | [Crystal Trees](https://open.spotify.com/track/52XWDiWgJZsDea3mvYyQVl) | [U\-Turn](https://open.spotify.com/artist/4mhu5X1P8QV77uRvOm9Oj0) | [Crystal Trees](https://open.spotify.com/album/2FLy8XWsPbZ6NLF3YbzIao) | 3:23 | 2022-04-12 | 2022-04-14 |
 | [Cue Sign](https://open.spotify.com/track/4cBiqsGxRNpIE02zfMdhNf) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Cue Sign](https://open.spotify.com/album/4VWFmbeJULZek7Pmyg0bTO) | 3:36 | 2023-02-28 | 2023-03-28 |
@@ -216,7 +216,7 @@
 | [fool](https://open.spotify.com/track/41c8b3Nj6DCoaKrdaim47d) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/16YHVI5MAqFtYOLqrJAB9j) | 2:10 | 2021-12-21 | 2022-07-29 |
 | [fool](https://open.spotify.com/track/6lXGf0irWo1XWl8acAlzso) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL), [Hayne](https://open.spotify.com/artist/2OuXA3zTqSBjchwV4jD5gL), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [fool](https://open.spotify.com/album/7dUPtlVTD9sepa5fcaWB44) | 2:10 | 2022-07-27 | 2024-04-19 |
 | [Footprints](https://open.spotify.com/track/0Pc4zYHIdyI636YLBaOEL0) | [DAHEE](https://open.spotify.com/artist/3esENfTnYy40Cs650mMtyT) | [Footprints](https://open.spotify.com/album/3iTAeUvQ853oDtfwW3bI70) | 2:53 | 2022-09-29 | 2022-11-02 |
-| [For all sorrow](https://open.spotify.com/track/7GJtyVwAj9DS0VSar0rFEK) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [The fifth season](https://open.spotify.com/album/6QcDMqATcPx553KrX47ceS) | 3:18 | 2024-08-29 |  |
+| [For all sorrow](https://open.spotify.com/track/7GJtyVwAj9DS0VSar0rFEK) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [The fifth season](https://open.spotify.com/album/6QcDMqATcPx553KrX47ceS) | 3:18 | 2024-08-29 | 2024-09-11 |
 | [for lovers who hesitate](https://open.spotify.com/track/5BqwC9kOBbqYkzdOKeXFFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [LEGEND](https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC) | 4:25 | 2021-12-12 |  |
 | [For the gone\(with ELLE KOREA\)](https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [RECONNECT](https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC) | 4:03 | 2021-12-12 |  |
 | [Forest](https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck) | [Choi Yu Ree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Stroll](https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx) | 3:48 | 2022-08-25 |  |
@@ -456,6 +456,7 @@
 | [No Reason](https://open.spotify.com/track/2bFKSblSou0f9BnGsO1lSA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [No Reason](https://open.spotify.com/album/0s2AqRLQOx2w57ZX4CfFWk) | 2:49 | 2022-03-31 | 2022-06-21 |
 | [Nobody \(With Mac curly\)](https://open.spotify.com/track/0mCOeuPYwQbEjReOmQhDhX) | [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [PREVIEW \- Vincent Park](https://open.spotify.com/album/5SZJbfMzxp0QTJBhBm2eR0) | 3:07 | 2021-12-21 | 2022-06-02 |
 | [Nobody can find us](https://open.spotify.com/track/18sJ7LfYeLdZIHJKC3wc9g) | [Plo6](https://open.spotify.com/artist/7qY3PamjXoWN7X51bZuoBa) | [Nobody can find us](https://open.spotify.com/album/6FOdQu6OKJdVZcfn6XjGEk) | 3:24 | 2022-04-12 | 2022-04-21 |
+| [Nobody Knows](https://open.spotify.com/track/23qUzPqxqNOfeMfxO5LhoS) | [Savina & Drones](https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7) | [Lasha](https://open.spotify.com/album/1mtNGgqIJJJongT6SqK4Um) | 4:24 | 2024-09-10 |  |
 | [Nobody's Fault](https://open.spotify.com/track/0Eqj077XY6OCq1NQReUviZ) | [권여름](https://open.spotify.com/artist/1IB1YV6fNVrEDEOMxwBU75) | [Lily, Lily](https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N) | 3:24 | 2022-03-21 | 2022-06-14 |
 | [Normal Love](https://open.spotify.com/track/5S3kJyqUmYgF0sbD00Ao8K) | [wYte](https://open.spotify.com/artist/6ku0yqiBqUvtZ16Pi3soDC) | [Normal Love](https://open.spotify.com/album/1Y2OnLgXy5Pa7m0YHY5PGQ) | 3:24 | 2024-05-08 | 2024-05-10 |
 | [Northern Light](https://open.spotify.com/track/1CRpDZ0XPU77yoJu2mJZir) | [Joohyo](https://open.spotify.com/artist/2A7bNE2vH60u6TrY50jdy4) | [Northern Light](https://open.spotify.com/album/3CfKLDPqXyRbjcIWk2ShQ5) | 4:01 | 2021-12-21 | 2022-07-02 |
@@ -547,6 +548,7 @@
 | [Seoul City \- Spotify Singles](https://open.spotify.com/track/2ZXUclexEqoF3MsLK33xsx) | [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [MIRANI](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no), [sAewoo](https://open.spotify.com/artist/5JzGdNWFlf4S7upAVbiX35) | [Spotify Singles](https://open.spotify.com/album/7IDwq3HwkSlakUOBKmTrqK) | 3:34 | 2023-03-01 | 2023-03-28 |
 | [Seoul Cyborg](https://open.spotify.com/track/4rrMmUmhSdFlulRRxek9xw) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Pacemaker](https://open.spotify.com/album/2lVYVVjbyDmlSZeBjSnAfr) | 3:22 | 2021-12-21 | 2022-07-22 |
 | [She's like a Pretty Witch \(Feat\. Kvsh\)](https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf) | [SHIRT](https://open.spotify.com/artist/5LFkuWvCFR1up60k4gU1qi), [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z) | [c\-a\-r\-e\-l\-e\-s\-s](https://open.spotify.com/album/6zi6edZVRlp5Efy15XAqLB) | 2:53 | 2024-04-30 | 2024-05-28 |
+| [She's not straight](https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL) | [jisokuryClub](https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO) | [She's not straight](https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0) | 3:50 | 2024-09-10 |  |
 | [Shelter Of Dreams](https://open.spotify.com/track/2DauGSCkwdgts3sUkuQu30) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Shelter Of Dreams](https://open.spotify.com/album/7nYp9JSCBmrEN30yjXI5rJ) | 4:32 | 2024-07-01 | 2024-07-04 |
 | [Shimmer](https://open.spotify.com/track/7uoMYFa07mkc8fDPxKQ7jO) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [Shimmer](https://open.spotify.com/album/3mA6BYaLOeIJlYUCGfSiFq) | 4:11 | 2024-04-30 | 2024-05-10 |
 | [Shining](https://open.spotify.com/track/2V9WSMXEQsndclO6euxhus) | [JEMINN](https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2) | [Shining](https://open.spotify.com/album/7DLTL4SBnacezYhSPmV5qW) | 4:13 | 2022-03-31 | 2022-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 
 > ¡Lo mejor de la Salsa Cubana! Celia Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,224 likes - 48 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,297 likes - 48 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,6 +55,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVSSKiqqNKSC.md) - [plain]
 | 45 | [Un Poquito al Revés \- Remasterizado](https://open.spotify.com/track/1JTYxQB9J2KchmYpmaluQF) | [Pupy y Los Que Son Son](https://open.spotify.com/artist/69rb3HVHXHjBhiJbAmLjZH) | [Tranquilo Que Yo Controlo \(Remasterizado\)](https://open.spotify.com/album/5j07wZn3eSyjnRch2zczmy) | 4:33 |
 | 46 | [El Dueno del Party](https://open.spotify.com/track/3dSfzMb6yzfofd6llvvVnk) | [Juan Guillermo](https://open.spotify.com/artist/2a6asokZtIXtp4pxTLvTvq), [Los Extraterrestres](https://open.spotify.com/artist/3G65Io9sxcoeyBVip1ruau) | [Que No Me Controlen](https://open.spotify.com/album/3T7xTNUfhefkNlgynjE4GN) | 4:39 |
 | 47 | [Caramelo Con Picante](https://open.spotify.com/track/1LOTPsUy1m5XRB6iplC2ns) | [Lazarito Valdés](https://open.spotify.com/artist/1yft8LK8eazl4knHB4zi0s), [Bamboleo](https://open.spotify.com/artist/0RLtwSikzOlGO14oOqYlW4) | [Caramelo Con Picante](https://open.spotify.com/album/2obdmB6edFmMSm6whJR6m1) | 5:36 |
-| 48 | [Temba, tumba y timba](https://open.spotify.com/track/7Cukyed54aN3Cdz0KbI90f) | [Mayito Rivera](https://open.spotify.com/artist/1S0Og7sspn3YyJmEcE43zD), [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Best of Cuba](https://open.spotify.com/album/7jT6GMmUSudbIvCIMXom02) | 6:52 |
+| 48 | [Quiero Verte Otra Vez](https://open.spotify.com/track/6BsQn0pSEpiGvJOwdRQjxx) | [Havana D'primera](https://open.spotify.com/artist/5Y8dq9whdlog1KEay1JxpO) | [Quiero Verte Otra Vez](https://open.spotify.com/album/4862dwA64dtiFt42ezMima) | 4:48 |
 
 Snapshot ID: `ZpFXGgAAAAA207rSfbRSTOG7SNnd7ARj`

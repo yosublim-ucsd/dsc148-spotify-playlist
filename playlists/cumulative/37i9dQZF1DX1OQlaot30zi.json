@@ -6492,7 +6492,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 204346,
       "name": "ARANCIATA AMARA (feat. BRESCO, Flus Brain, Caesar, TOLKA & MarZa)",
       "url": "https://open.spotify.com/track/766s0gnTg340LW0HlJ6AFq"
@@ -25924,7 +25924,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 152000,
       "name": "ESTATE",
       "url": "https://open.spotify.com/track/6QLFAWuv3zaWkP0xIIyBmm"
@@ -52701,6 +52701,32 @@
     },
     {
       "album": {
+        "name": "NA/RM (feat. Yung Snapp, MV Killa)",
+        "url": "https://open.spotify.com/album/5EYVTyUFq11hMkgOVTGjk2"
+      },
+      "artists": [
+        {
+          "name": "Side Baby",
+          "url": "https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179555,
+      "name": "NA/RM (feat. Yung Snapp, MV Killa)",
+      "url": "https://open.spotify.com/track/1kVGd4iy8RwBAbhuqt2ZIG"
+    },
+    {
+      "album": {
         "name": "Nah!",
         "url": "https://open.spotify.com/album/5rkOHJ1qtDMWJSLON1q6Wh"
       },
@@ -60777,6 +60803,28 @@
     },
     {
       "album": {
+        "name": "PER SEMPRE (feat. Bresh)",
+        "url": "https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Bresh",
+          "url": "https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184848,
+      "name": "PER SEMPRE (feat. Bresh)",
+      "url": "https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O"
+    },
+    {
+      "album": {
         "name": "PIAZZA NOIA",
         "url": "https://open.spotify.com/album/1R5ZIS1zYkFptbn69V9vaa"
       },
@@ -64962,7 +65010,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 176117,
       "name": "PUNTO DI PARTENZA (feat. Cecchy)",
       "url": "https://open.spotify.com/track/5g500WspI6ErE9B7W6tL1n"
@@ -78735,7 +78783,7 @@
         },
         {
           "name": "Psycho",
-          "url": "https://open.spotify.com/artist/553cCRABrOOflXVdzZopWY"
+          "url": "https://open.spotify.com/artist/4HrALIkrwF2SyrQlvAEAP4"
         }
       ],
       "date_added": "2024-09-05",
@@ -78898,7 +78946,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 128468,
       "name": "TENERE IL FOCUS",
       "url": "https://open.spotify.com/track/0kXWABECuoPRXsrmMcGhQ1"

@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Matroda and Martin Ikin 👽👽 50% techno, 50% house
 
-1,744 songs - 4 day 1 hr 26 min
+1,745 songs - 4 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [444](https://open.spotify.com/track/7gjxXndvML1DoJeB6izQPa) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM) | [444](https://open.spotify.com/album/1kBqRa2e2terLD72aVHvsk) | 3:16 | 2024-02-02 | 2024-03-30 |
 | [4U](https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Martin Ikin](https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1), [Sian\-Lee](https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0) | [4U](https://open.spotify.com/album/5p6wULtzOrjrTlMUtrDnVr) | 3:00 | 2024-08-30 |  |
 | [4U](https://open.spotify.com/track/3vMiriTQGrU8OyjgGOQSRH) | [MorganJ](https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW) | [4U](https://open.spotify.com/album/684cOXTueOXaJiBOFHhYNA) | 2:51 | 2023-04-07 | 2023-06-10 |
+| [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/track/4HVELk51Nc1UF7jb1nzIRT) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Shamiya Battles](https://open.spotify.com/artist/3NTdPQSh0JSz5c5AGngQyE) | [7 Seconds \(feat\. Shamiya Battles\) \- Radio Edit](https://open.spotify.com/album/6i3MFLyojYO4kteUSnWaVG) | 1:32 | 2024-09-10 |  |
 | [99](https://open.spotify.com/track/5RXuv1FvyPSyKLe8pAFTuc) | [Madison Mars](https://open.spotify.com/artist/4gJCFxvqKc43Ifk0UIBB42) | [99](https://open.spotify.com/album/6Z8aed1zOub2o1inup1RTi) | 3:02 | 2023-06-09 | 2023-07-02 |
 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 | 2023-08-11 | 2023-11-13 |
 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 | 2021-11-26 | 2022-04-23 |
@@ -261,7 +262,7 @@
 | [Canutito](https://open.spotify.com/track/2nHgZpG5MI2AmY83SnPEys) | [Paskman](https://open.spotify.com/artist/70s7RdFqr3UEBlooMGUQdO) | [Canutito](https://open.spotify.com/album/4g3RxEavuwvedsrhW1hevG) | 3:26 | 2023-12-15 | 2024-01-13 |
 | [Can’t Fight The Feeling](https://open.spotify.com/track/1T7fTFxkosqEF8AZzDvm6I) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz) | [Can’t Fight The Feeling](https://open.spotify.com/album/0UDIxo8rh9AcO7oGHjaETt) | 2:51 | 2023-02-17 | 2023-04-09 |
 | [Caribeña](https://open.spotify.com/track/2iC7V1DRHNLvnfkfzVvwiV) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Lirico En La Casa](https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo), [Cristian Vinci](https://open.spotify.com/artist/4qQDMZaMko7Fq2gbq2PpRx), [Manybeat](https://open.spotify.com/artist/1Be8ITi2hwXQWdQCKbmQv4) | [Caribeña](https://open.spotify.com/album/4UXlFSWUxN4ThJcF8D1ipL) | 2:01 | 2023-06-09 | 2023-10-28 |
-| [Carnaval \- Edit](https://open.spotify.com/track/0URKgKj0Bv3Y9WWowdTi6U) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Carnaval \- EP](https://open.spotify.com/album/4L2O1axvPT7pcyIegodN6A) | 3:29 | 2024-09-06 |  |
+| [Carnaval \- Edit](https://open.spotify.com/track/0URKgKj0Bv3Y9WWowdTi6U) | [Melé](https://open.spotify.com/artist/6EZO7Baz0SIFskWTO1GHqX) | [Carnaval \- EP](https://open.spotify.com/album/4L2O1axvPT7pcyIegodN6A) | 3:29 | 2024-09-06 | 2024-09-11 |
 | [Carnaval de Paris](https://open.spotify.com/track/5b58AS0u6Xr4vaxWnY2C1n) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO) | [Carnaval de Paris](https://open.spotify.com/album/75yY2YZoi4iMQQqXCj4fW3) | 3:15 | 2022-04-01 | 2022-06-11 |
 | [CARNET \- Cloonee Remix](https://open.spotify.com/track/5d1T4dmSTUoI5GR9R9CJYL) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u), [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [CARNET \(Cloonee Remix\)](https://open.spotify.com/album/5gaFlogR1ipqBuLBKlDw3E) | 3:45 | 2023-12-22 | 2024-07-27 |
 | [Caroline](https://open.spotify.com/track/4stpA04LZHBCx3YejNdodF) | [CID](https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO), [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0) | [Caroline](https://open.spotify.com/album/2BbSWQGVeRWeJQtByWRxOm) | 3:00 | 2023-06-23 | 2023-11-18 |

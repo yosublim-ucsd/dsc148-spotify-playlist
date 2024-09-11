@@ -1,6 +1,6 @@
 {
   "description": "Live fast, die awesome! A great mix of the best rockabilly tracks.",
-  "num_followers": 533968,
+  "num_followers": 533979,
   "original_name": "Rockabilly Mania",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Blue Jean Bop",
-        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
-      },
-      "artists": [
-        {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
-        }
-      ],
-      "duration_ms": 142560,
-      "name": "Bluejean Bop",
-      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
-    },
-    {
-      "added_at": "2024-08-22 08:48:23",
-      "album": {
         "name": "Legacy",
         "url": "https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 138840,
       "name": "Hello Mary Lou",
       "url": "https://open.spotify.com/track/0YOasUp8fxPk3FXEa3fZ9z"
+    },
+    {
+      "added_at": "2024-08-22 08:48:23",
+      "album": {
+        "name": "Blue Jean Bop",
+        "url": "https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En"
+      },
+      "artists": [
+        {
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+        }
+      ],
+      "duration_ms": 142560,
+      "name": "Bluejean Bop",
+      "url": "https://open.spotify.com/track/2BgekYyyiCcvina0Ihoii9"
     },
     {
       "added_at": "2024-08-22 08:48:23",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-08-22 08:48:23",
       "album": {
-        "name": "Tennessee Stomp",
-        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
-      },
-      "artists": [
-        {
-          "name": "Hillbilly Casino",
-          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
-        }
-      ],
-      "duration_ms": 133693,
-      "name": "Debt With the Devil",
-      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
-    },
-    {
-      "added_at": "2024-08-22 08:48:23",
-      "album": {
         "name": "Lip Lickin' Lou",
         "url": "https://open.spotify.com/album/2vJyPunjsJLeTCV2WNDcn5"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 125840,
       "name": "Lip Lickin' Lou",
       "url": "https://open.spotify.com/track/74hKkSJTY4Z6P6BRV1641u"
+    },
+    {
+      "added_at": "2024-08-22 08:48:23",
+      "album": {
+        "name": "Tennessee Stomp",
+        "url": "https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni"
+      },
+      "artists": [
+        {
+          "name": "Hillbilly Casino",
+          "url": "https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO"
+        }
+      ],
+      "duration_ms": 133693,
+      "name": "Debt With the Devil",
+      "url": "https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q"
     },
     {
       "added_at": "2024-08-22 08:48:23",

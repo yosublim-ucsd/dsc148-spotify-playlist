@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 103499,
+  "num_followers": 103515,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -547,26 +547,6 @@
     {
       "added_at": "2024-07-11 15:58:05",
       "album": {
-        "name": "Encontrar Voc\u00ea",
-        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        },
-        {
-          "name": "Thamiriz",
-          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "Encontrar Voc\u00ea",
-      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
-    },
-    {
-      "added_at": "2024-07-11 15:58:05",
-      "album": {
         "name": "Presente de Deus",
         "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 209020,
       "name": "Presente de Deus",
       "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
+    },
+    {
+      "added_at": "2024-07-11 15:58:05",
+      "album": {
+        "name": "Encontrar Voc\u00ea",
+        "url": "https://open.spotify.com/album/78khzdISh7T6PaOlNQpnij"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        },
+        {
+          "name": "Thamiriz",
+          "url": "https://open.spotify.com/artist/2u2MB8deIasxceazWjMBaM"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "Encontrar Voc\u00ea",
+      "url": "https://open.spotify.com/track/4TMVm9USFh1gi4HfHr0Gi4"
     },
     {
       "added_at": "2024-07-11 15:58:05",

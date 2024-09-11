@@ -4,7 +4,7 @@
 
 > Every legend has a beginning\. Listen to music from Arcane, now streaming on Netflix.
 
-96 songs - 4 hr 26 min
+97 songs - 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 | 2023-03-17 | 2024-08-11 |
 | [Dynasties and Dystopia \(from the series Arcane League of Legends\)](https://open.spotify.com/track/2k2RPHMeyercU9PauiKNbU) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Gizzle](https://open.spotify.com/artist/0xukYGKRRwBWS1N9sfCQoq), [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:58 | 2024-08-10 |  |
 | [Elvis In Hawaii](https://open.spotify.com/track/6UXn8SZa9GqhNVjiqkFzmt) | [Tyler Bates](https://open.spotify.com/artist/75fIuwXxhZ1atNzWLMrgF0), [Timothy Williams](https://open.spotify.com/artist/3rYGGDSKzvvH2JdqgVvfee) | [Agent Elvis \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/3N6LCbuO9xlvfwDkiGA2yF) | 0:57 | 2023-03-17 | 2024-08-11 |
-| [Enemy feat\. J.I.D\. \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4qXKkOZ691yYgQu4Lunrds) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:53 | 2024-08-10 |  |
+| [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2024-09-10 |  |
+| [Enemy feat\. J.I.D\. \(from the series Arcane League of Legends\)](https://open.spotify.com/track/4qXKkOZ691yYgQu4Lunrds) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 2:53 | 2024-08-10 | 2024-09-11 |
 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 | 2023-03-17 | 2024-08-11 |
 | [Golden Coins](https://open.spotify.com/track/3DNwXAqv9OI5BdmoAsdPWk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Harum Scarum](https://open.spotify.com/album/0DDokriMy7L6hseGI6Ju7C) | 1:54 | 2023-03-17 | 2024-08-11 |
 | [Good Luck Charm](https://open.spotify.com/track/19gotedXtqeE8dWju6WURW) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records, Vol\. 3](https://open.spotify.com/album/5Iec810oL6PorbyBVjLnmD) | 2:25 | 2023-03-17 | 2024-08-11 |

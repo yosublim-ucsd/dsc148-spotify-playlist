@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: 41
 
-1,241 songs - 2 day 8 hr 22 min
+1,242 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -530,7 +530,7 @@
 | [ICED OUT](https://open.spotify.com/track/2iOYqp2uNNDD5HCOlxlnIe) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [UNTAMED](https://open.spotify.com/album/1LM4qNXzxeL4ptfUOeUQwV) | 3:09 | 2021-12-03 | 2022-02-05 |
 | [Iced Out Necklace](https://open.spotify.com/track/4gHV947Q9UAUse8jl8agb6) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Iced Out Necklace](https://open.spotify.com/album/2lsir2p46AysC4SQpfaiwc) | 2:35 | 2022-04-01 | 2022-06-01 |
 | [Ick](https://open.spotify.com/track/7nn4MXs89QymmNzRreTywe) | [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [Now You See Me](https://open.spotify.com/album/6WFa2y2gaNb7561mFsYG7T) | 1:55 | 2023-08-11 | 2023-10-21 |
-| [ICONIC.](https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [ICONIC.](https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz) | 2:51 | 2024-08-09 |  |
+| [ICONIC.](https://open.spotify.com/track/1p5mADwa7B3qzokLXSW1tl) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [ICONIC.](https://open.spotify.com/album/4TRJX3D4gWWyKPXRhGMUBz) | 2:51 | 2024-08-09 | 2024-09-11 |
 | [IdgaF](https://open.spotify.com/track/5uFGqqXqeX2EA8CxTs2DJL) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [IdgaF](https://open.spotify.com/album/7EzgvU0MYQpqS90E97u9rk) | 1:43 | 2023-07-07 | 2023-08-19 |
 | [If I Go Down \- from the film National Champions](https://open.spotify.com/track/5EiJy15UPO6iQSRDoerbv4) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [If I Go Down \(from the film National Champions\)](https://open.spotify.com/album/2xAB6zJS3cySqeXVSY1kXg) | 3:32 | 2021-12-03 | 2022-02-19 |
 | [If U Don’t Know By Now](https://open.spotify.com/track/598KwHY5LR8nhtaDjqu1Oa) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Gap Year!](https://open.spotify.com/album/2ObDRU1wRJ2fZ2yD9WXNYy) | 2:55 | 2024-09-06 |  |
@@ -564,6 +564,7 @@
 | [John Woo Flick \(with Benny The Butcher & Westside Gunn\)](https://open.spotify.com/track/07Hl8YmZR1JYpEhCDqNBJA) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [John Woo Flick \(with Benny The Butcher & Westside Gunn\)](https://open.spotify.com/album/51rkfslHbM2exyR4strATb) | 4:46 | 2022-02-04 | 2022-04-16 |
 | [Johnny P's Caddy](https://open.spotify.com/track/6AshXllQhobwSXsdpgp41w) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Johnny P's Caddy](https://open.spotify.com/album/1YKdJEzlhd5rsq03k7eWmM) | 3:45 | 2022-01-28 | 2022-05-20 |
 | [Juice In The Hood](https://open.spotify.com/track/3HQCjSh485i3UVGLI4TkV0) | [Stalley](https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Juice In The Hood](https://open.spotify.com/album/2uphSkQgZhqLe1heH7qSiX) | 2:58 | 2024-03-29 | 2024-04-06 |
+| [JULIO](https://open.spotify.com/track/50wITgAlmXZC9FwdIo2GRO) | [HolliTv](https://open.spotify.com/artist/4cN1oRKKkpYhfNQvhHOCpD) | [JULIO](https://open.spotify.com/album/2140aEoBxxlhLS3CG85UQN) | 1:53 | 2024-09-10 |  |
 | [July The Fourth](https://open.spotify.com/track/5L2yLS4c0rEAVu2sQouz7t) | [CEO Trayle](https://open.spotify.com/artist/6RuutbNl5ny8LAf1uSK3fS) | [July The Fourth](https://open.spotify.com/album/6Ai7vuVWp2XvQAYBib1TPA) | 2:09 | 2022-07-08 | 2022-09-10 |
 | [Jumping](https://open.spotify.com/track/1eCgZFpNsBY4h1gIsAmTpV) | [Quelly Woo](https://open.spotify.com/artist/5PPetvBg4hGBkco4Y267hd) | [Top Prospect \-LOTTERY PICK](https://open.spotify.com/album/3NRuJM5j49FzzaWyJpVbeD) | 1:45 | 2022-03-11 | 2022-03-18 |
 | [June 22nd](https://open.spotify.com/track/2uPyRKg62IcLFaGXXw0qEn) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [June 22nd](https://open.spotify.com/album/3T94lLozmbIFa4BiHNtkjC) | 3:10 | 2023-06-23 | 2023-11-25 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Обкладинка: DOROFEEVA
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,188 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,190 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 47 | [Відтінки кохання](https://open.spotify.com/track/4M5WE4XUgBPOsOknXgF22d) | [IPATOVA](https://open.spotify.com/artist/1YkGsKpY7ZwyW7siR4Cg2F) | [Відтінки кохання](https://open.spotify.com/album/1g709UXSr9lq44uA4xErws) | 3:25 |
 | 48 | [Маніпулятор](https://open.spotify.com/track/3PzjCgqGxWvhYqHblHkbpH) | [MUHOMORROVA](https://open.spotify.com/artist/6roqRQje8Yt8NBaN7gxPJs) | [Маніпулятор](https://open.spotify.com/album/7zSmlU2GFf2xw0JD51YigB) | 2:20 |
 | 49 | [Ріка любові](https://open.spotify.com/track/5snZOEgF6jjRIBag6XaylG) | [Mari Cheba](https://open.spotify.com/artist/2pHpT31qrGT1mQ96jPtqM2) | [Ріка любові](https://open.spotify.com/album/0fSYVOzWl3Kt7WxmQbWwUv) | 3:37 |
-| 50 | [Єдине, що вічне](https://open.spotify.com/track/5CQ97QRAtGfyg3YGffiScB) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J) | [Єдине, що вічне](https://open.spotify.com/album/4vSsgvE2mWiLUbFNp8wgMV) | 3:51 |
+| 50 | [Єдине, що вічне](https://open.spotify.com/track/5CQ97QRAtGfyg3YGffiScB) | [Slukhay Sashu](https://open.spotify.com/artist/7bovXIoMqWNOibj93PfU7J), [Van Su](https://open.spotify.com/artist/3QMkbapuVS2Y98sxtd4hMm) | [Єдине, що вічне](https://open.spotify.com/album/4vSsgvE2mWiLUbFNp8wgMV) | 3:51 |
 | 51 | [Солодка кров](https://open.spotify.com/track/4a1Sw7F8d3S2QBApwvoM0M) | [Liana Spelas](https://open.spotify.com/artist/5pxxLiXNESMpqQRGGBwVkT) | [Солодка кров](https://open.spotify.com/album/7Jcxr2ANesGtmgRIXbKyCO) | 3:02 |
 | 52 | [Хто ми є?](https://open.spotify.com/track/323b3bA5XABG27rOdURsKb) | [MANAMAHA](https://open.spotify.com/artist/14aYKAZ4zig2g6Pdll5Mf4) | [Хто ми є?](https://open.spotify.com/album/3QRyIl9vgKllzIBTYBFcnN) | 2:30 |
 | 53 | [Давай танцювати](https://open.spotify.com/track/2CGejuIMxuFBMJGHVTp40G) | [Laliko](https://open.spotify.com/artist/6jqXdcbmUoFSsMza1k8BHe) | [Давай танцювати](https://open.spotify.com/album/1BoyJE3dmazRbEpqO3Z4Ev) | 3:13 |

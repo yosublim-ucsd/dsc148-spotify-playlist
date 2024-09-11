@@ -2,7 +2,7 @@
 
 ### [This Is Labi Siffre](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3jgeSr)
 
-> This is Labi Siffre\. The essential tracks, all in one playlist.
+> This is Labi Siffre\. En önemli parçalar, hepsi tek bir çalma listesinde.
 
 115 songs - 7 hr 10 min
 

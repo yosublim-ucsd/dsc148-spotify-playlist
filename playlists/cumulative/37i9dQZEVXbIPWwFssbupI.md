@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,931 songs - 4 day 6 hr 11 min
+1,933 songs - 4 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [C'est quoi le boulot](https://open.spotify.com/track/20tbggYegKwvYI9gEmJ9sM) | [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd), [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE) | [La Boîte de Pandore](https://open.spotify.com/album/5M94RDub177Dot84wRNPEt) | 3:21 | 2022-05-06 | 2022-05-18 |
 | [C'est rien c'est la rue](https://open.spotify.com/track/3JNWdGovHosY8J8lI8ddBj) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [C'est rien c'est la rue](https://open.spotify.com/album/0PrevMMv2D8rOibbI3xwTM) | 3:07 | 2021-09-12 | 2021-09-19 |
 | [C'est rien c'est la rue](https://open.spotify.com/track/4wHzOvWX9u8p3n6GIO7Rgu) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Best Life](https://open.spotify.com/album/5pqeNqiOS8Y4BXU7YVxuQc) | 3:07 | 2021-10-10 | 2021-10-11 |
+| [Ca parle mal](https://open.spotify.com/track/7ifFhxRIvYbe4IuzIkY2Qi) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Depuis le temps \- Part\. 2](https://open.spotify.com/album/5liaAwKXqnLAhpBconEDR6) | 2:56 | 2024-09-10 |  |
 | [Ca suffit](https://open.spotify.com/track/4FJev5hUB4QLujGOmUe6js) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Ca suffit](https://open.spotify.com/album/3QWAgFgfYNXpC0B2mGMh1E) | 4:05 | 2021-10-23 | 2021-10-29 |
 | [Ca va aller](https://open.spotify.com/track/1qNOfvUAVx521BQn0fuGUW) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:52 | 2021-03-27 | 2021-03-29 |
 | [Cabeza](https://open.spotify.com/track/66tNDqYNR2S6Svwgm3BMi9) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [Mafana](https://open.spotify.com/album/5cnpjofSRJPxR22AriH7Q9) | 2:28 | 2021-03-27\* | 2021-11-07 |
@@ -601,7 +602,8 @@
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-06-05 | 2022-07-19 |
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-03-11 | 2023-05-27 |
 | [Espace](https://open.spotify.com/track/6mVltF2RFB3n7t14Pk7pfC) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 3:12 | 2021-11-14 | 2021-11-21 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-24 |  |
+| [Espresso](https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:55 | 2024-09-10 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-24 | 2024-09-11 |
 | [Essaie encore](https://open.spotify.com/track/7xFEyavPtivXc8yFqEZJpJ) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Essaie encore](https://open.spotify.com/album/5Kqj10UZpCAEmO41U9g28X) | 3:39 | 2021-05-30 | 2021-06-18 |
 | [Essayez](https://open.spotify.com/track/5buwti8KR41CbKSv3nnqzu) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:57 | 2021-03-27 | 2021-04-02 |
 | [Etna](https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 4:22 | 2022-09-17 | 2022-10-02 |
@@ -1479,7 +1481,7 @@
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2021-04-18 | 2022-01-03 |
 | [RATPI WORLD](https://open.spotify.com/track/2ZjTAieewsBC24kPGfLagc) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [RATPI WORLD](https://open.spotify.com/album/46d2es59WpPNYuuUyAtXQm) | 2:15 | 2021-03-27\* | 2021-03-27 |
 | [Rebel](https://open.spotify.com/track/1XuK2XEV5hG9QOYbHDMs7z) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 2:13 | 2024-02-10 | 2024-02-17 |
-| [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 | 2024-09-08 |  |
+| [Recommence\-moi](https://open.spotify.com/track/6P3HLPsc5pWu3sZYxL0S9N) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [RECOMMENCE\-MOI](https://open.spotify.com/album/30M4RbTzpc2lH3OdSwJTgu) | 3:16 | 2024-09-08 | 2024-09-11 |
 | [Reda \- Partie 2](https://open.spotify.com/track/4Igu07hwi6lm9rCd6SJaF0) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7) | [Persona Non Grata](https://open.spotify.com/album/5oMOec7nX82TAK863BFfap) | 3:27 | 2021-12-12 | 2021-12-13 |
 | [Reda \- Partie 3](https://open.spotify.com/track/0YNw7sncP8iZdA2KJiac0B) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Mister You](https://open.spotify.com/artist/74YbW6s8CZdaYLxJU9HeS7), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [Niro](https://open.spotify.com/artist/1wAtSe79kItIb9nf5EhI2Q), [Le Rat Luciano](https://open.spotify.com/artist/5QuZ9HdvnXcX8kEG782Phv) | [Persona Non Grata](https://open.spotify.com/album/5oMOec7nX82TAK863BFfap) | 3:58 | 2021-12-12 | 2021-12-13 |
 | [Redescends](https://open.spotify.com/track/1kXFslzdPEkOs5QC5GkdN4) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Redescends](https://open.spotify.com/album/5lmmRtv80XbKm3EqS1AReB) | 2:39 | 2022-07-16 | 2022-07-31 |

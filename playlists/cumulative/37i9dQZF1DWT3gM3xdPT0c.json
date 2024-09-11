@@ -5597,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Through a Maze",
+        "url": "https://open.spotify.com/album/6zWFZzQ3LaGTzWAYXMHonv"
+      },
+      "artists": [
+        {
+          "name": "Colin Reed",
+          "url": "https://open.spotify.com/artist/1kyU4Wtac2j8uJO377RqTs"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153191,
+      "name": "Through a Maze",
+      "url": "https://open.spotify.com/track/01nrJ5PYtkLc8zz7ZIw9XH"
+    },
+    {
+      "album": {
         "name": "Harbor",
         "url": "https://open.spotify.com/album/2T8UUD2gx6wlK09uQ6zBzp"
       },

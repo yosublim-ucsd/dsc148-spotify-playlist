@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Big Sean
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,174 likes - 98 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,269 likes - 98 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 84 | [Oregon](https://open.spotify.com/track/1xIAHRag2NC347gbTe5ig4) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Oregon](https://open.spotify.com/album/2Zw3tUqmAocI2AD2YN0jgH) | 1:55 |
 | 85 | [the ok song.](https://open.spotify.com/track/1OTSnzieL7hyOJyxBicNz2) | [femdot.](https://open.spotify.com/artist/7aGhkUVp7V3klWfTFe7AHS) | [Buy One, Get One Free, vol 3.](https://open.spotify.com/album/6JBfnBEgcv15duEc5Dl1mL) | 2:13 |
 | 86 | [Can't Wake Up \- Remix](https://open.spotify.com/track/6j1TrNeuKkqa3id2H2q00I) | [Ahmad Anonimis](https://open.spotify.com/artist/3wnsNFtqQ75UEUAN3PwkPH), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Can't Wake Up \(Remix\)](https://open.spotify.com/album/3ELhsTmzpNjhEpfIGrC8X9) | 3:36 |
-| 87 | [Hyde Park](https://open.spotify.com/track/3W50xDzVZNF6VHDblZLASn) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Quality Control](https://open.spotify.com/artist/6i392l38cR3uBPF0DbNs7S) | [Hyde Park](https://open.spotify.com/album/71t10UNvIQe0XlJJJzhoEv) | 2:09 |
+| 87 | [Hyde Park](https://open.spotify.com/track/3W50xDzVZNF6VHDblZLASn) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI) | [Hyde Park](https://open.spotify.com/album/71t10UNvIQe0XlJJJzhoEv) | 2:09 |
 | 88 | [Paper Cuts \(with J\. Cole\)](https://open.spotify.com/track/4l0UlMRbfxPS0Y3zHlpYou) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [We Only Talk About Real Shit When We're Fucked Up](https://open.spotify.com/album/3kXP7albhNo2neJAivDwxk) | 3:52 |
 | 89 | [On the Spot \(feat\. Big K.R.I.T\. & Wiz Khalifa\)](https://open.spotify.com/track/3NLGrRCwuV3zAuEF5VlNqr) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [THC3 \(Kushedgod Bitch\)](https://open.spotify.com/album/0BGjsGOK9GG63PqCXZpL4J) | 2:39 |
 | 90 | [Cecil Fielder](https://open.spotify.com/track/5RVrnIt1wsYM3j4BhlIghB) | [Boldy James](https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Cecil Fielder](https://open.spotify.com/album/77eO9nEYH6BVgNaMK57uCE) | 2:33 |

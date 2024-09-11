@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAbiSanadiYvpMMusocemC1",
+  "snapshot_id": "AAAAAAAAAACuWvxqvGCeK9AgwV067HFA",
   "tracks": [
     {
       "added_at": "2024-09-06 03:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "I Wrote Your Name (Upon My Heart)",
+        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
+      },
+      "artists": [
+        {
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+        }
+      ],
+      "duration_ms": 200932,
+      "name": "I Wrote Your Name (Upon My Heart)",
+      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "Cielo de Amor",
         "url": "https://open.spotify.com/album/1CoUowBSIyWqtutcndZCnY"
       },
@@ -91,6 +107,42 @@
       "duration_ms": 178740,
       "name": "Cielo de Amor",
       "url": "https://open.spotify.com/track/4QPmDnHLVNWRTGJSAX79DP"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Signs And Wonders",
+        "url": "https://open.spotify.com/album/0KbECwliQ7YW1jSS1wG9K3"
+      },
+      "artists": [
+        {
+          "name": "Thousand Frames",
+          "url": "https://open.spotify.com/artist/1hQiBauFKkGx5m9togUnyc"
+        },
+        {
+          "name": "Eyes Set To Kill",
+          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
+        }
+      ],
+      "duration_ms": 220546,
+      "name": "The Heart Wants What It Wants",
+      "url": "https://open.spotify.com/track/7kYReScqRScFCa6PxRizJb"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "The Rest Of The Best - Vol. 2",
+        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 260523,
+      "name": "Communication - Polar Session '01",
+      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -119,26 +171,6 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
-        "name": "Signs And Wonders",
-        "url": "https://open.spotify.com/album/0KbECwliQ7YW1jSS1wG9K3"
-      },
-      "artists": [
-        {
-          "name": "Thousand Frames",
-          "url": "https://open.spotify.com/artist/1hQiBauFKkGx5m9togUnyc"
-        },
-        {
-          "name": "Eyes Set To Kill",
-          "url": "https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP"
-        }
-      ],
-      "duration_ms": 220546,
-      "name": "The Heart Wants What It Wants",
-      "url": "https://open.spotify.com/track/7kYReScqRScFCa6PxRizJb"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
         "name": "Infection",
         "url": "https://open.spotify.com/album/7InvQ576KlW8grvtisNTGF"
       },
@@ -151,74 +183,6 @@
       "duration_ms": 167867,
       "name": "Infection",
       "url": "https://open.spotify.com/track/3uvVPu3tNJsAdH2ZzwflRz"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "I Wrote Your Name (Upon My Heart)",
-        "url": "https://open.spotify.com/album/6eZoMvARr3RHr8Xmteqcnu"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 200932,
-      "name": "I Wrote Your Name (Upon My Heart)",
-      "url": "https://open.spotify.com/track/6x52Hw5bZEpGbp3Ir6k7FJ"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "The Rest Of The Best - Vol. 2",
-        "url": "https://open.spotify.com/album/6oz2MkC7QlhdGpx3Lsgeui"
-      },
-      "artists": [
-        {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "duration_ms": 260523,
-      "name": "Communication - Polar Session '01",
-      "url": "https://open.spotify.com/track/7z2ooZp4EXJbsVRVxl3OEp"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Parasite - acoustic",
-        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
-      },
-      "artists": [
-        {
-          "name": "Dead by April",
-          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
-        },
-        {
-          "name": "THE DAY WE LEFT EARTH",
-          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Parasite - acoustic",
-      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "Can We Fix Our Nation's Broken Heart",
-        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 278366,
-      "name": "Can We Fix Our Nation's Broken Heart",
-      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -239,6 +203,26 @@
       "duration_ms": 328466,
       "name": "Just Like Tom Thumb's Blues - Live at Madison Square Garden, New York City, NY - January 30, 1974",
       "url": "https://open.spotify.com/track/0hOWvv5WzJSZPmx1ofqTAd"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "Parasite - acoustic",
+        "url": "https://open.spotify.com/album/1VagtIKihEN148c24WzHXp"
+      },
+      "artists": [
+        {
+          "name": "Dead by April",
+          "url": "https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6"
+        },
+        {
+          "name": "THE DAY WE LEFT EARTH",
+          "url": "https://open.spotify.com/artist/7BmeO6vzKLEnURfmgd3VqL"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Parasite - acoustic",
+      "url": "https://open.spotify.com/track/5kjBjlkznLYkBja3QCSV2n"
     },
     {
       "added_at": "2024-09-06 03:00:00",
@@ -267,6 +251,38 @@
     {
       "added_at": "2024-09-06 03:00:00",
       "album": {
+        "name": "Can We Fix Our Nation's Broken Heart",
+        "url": "https://open.spotify.com/album/0xnIaAMnfjEyt6Vxs4DxXK"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 278366,
+      "name": "Can We Fix Our Nation's Broken Heart",
+      "url": "https://open.spotify.com/track/0RjaFK7bRxPrvGTM4cA8zB"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
+        "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
+        "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 239173,
+      "name": "Fading Like A Rose (Original +2 bpm)",
+      "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
+    },
+    {
+      "added_at": "2024-09-06 03:00:00",
+      "album": {
         "name": "A Whole New Sound",
         "url": "https://open.spotify.com/album/4rKpyXuKGtcZvaHFIXgjLP"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 141519,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/3qY20OIOEiBOzIi3ajP6l0"
-    },
-    {
-      "added_at": "2024-09-06 03:00:00",
-      "album": {
-        "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
-        "url": "https://open.spotify.com/album/5B7TvbVknCtZDOnv4NCG5S"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 239173,
-      "name": "Fading Like A Rose (Original +2 bpm)",
-      "url": "https://open.spotify.com/track/3TbqYPh4PhmpP7zQYt8iRq"
     },
     {
       "added_at": "2024-09-06 03:00:00",

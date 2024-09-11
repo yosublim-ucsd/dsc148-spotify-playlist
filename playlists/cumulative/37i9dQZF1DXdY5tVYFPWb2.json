@@ -5275,6 +5275,24 @@
     },
     {
       "album": {
+        "name": "liquid city",
+        "url": "https://open.spotify.com/album/3Bg6Aso9MrVgtHiih6pclv"
+      },
+      "artists": [
+        {
+          "name": "showmore",
+          "url": "https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221244,
+      "name": "metro",
+      "url": "https://open.spotify.com/track/3M9HbRpiukEESGhSl4ZS2x"
+    },
+    {
+      "album": {
         "name": "South Penguin",
         "url": "https://open.spotify.com/album/2DwgeLA7t57D9nLFBwj82p"
       },
@@ -13252,7 +13270,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 192000,
       "name": "\u30d6\u30eb\u30fc\u30b8\u30fc",
       "url": "https://open.spotify.com/track/6f1eD29V3PcsYvbLcQ4y6Y"

@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14450,
+  "num_followers": 14449,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "H1-KEYnote #2 [Deeper]",
-        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
-    },
-    {
-      "added_at": "2024-08-10 15:58:49",
-      "album": {
         "name": "Listen to this song",
         "url": "https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 223644,
       "name": "Listen to this song",
       "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
+    },
+    {
+      "added_at": "2024-08-10 15:58:49",
+      "album": {
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
+      },
+      "artists": [
+        {
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "added_at": "2024-08-10 15:58:49",
@@ -835,18 +835,18 @@
     {
       "added_at": "2024-08-10 15:58:49",
       "album": {
-        "name": "Lonely Night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+        "name": "You're mine, You!",
+        "url": "https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Shin Youme",
+          "url": "https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Lonely Night",
-      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
+      "duration_ms": 232751,
+      "name": "You\u2019re mine, You!",
+      "url": "https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd"
     }
   ],
   "unique_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",

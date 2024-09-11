@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 
 > So fresh, so smooth\. Cover: Boney James
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,638 likes - 100 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,673 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEbYi1zYy0Z.md) - [plain]
 | 54 | [Stargazer](https://open.spotify.com/track/4POr14ZlDgPitimhBGj08w) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy), [Michael Thompson](https://open.spotify.com/artist/5UZEztWb9suFCkfS6Cuhzn) | [Stargazer](https://open.spotify.com/album/31vxsKVRxtdbNHqTmPOSD3) | 4:07 |
 | 55 | [Terminator](https://open.spotify.com/track/6QOJoThXu58CINhFeyitHf) | [Brendan Ross](https://open.spotify.com/artist/3M01zUDEhtQi29cFkqhBhJ) | [Terminator](https://open.spotify.com/album/7qBGqNzkgkC4QyVRMPOJwn) | 3:50 |
 | 56 | [Shore Thing](https://open.spotify.com/track/4bSWGX8MISGps0O6u6RWXJ) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Kim Scott](https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP) | [The Collaborations](https://open.spotify.com/album/7M0tYO1VeOg9TjIUDe5Ik6) | 4:02 |
-| 57 | [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:43 |
+| 57 | [Smoothin'](https://open.spotify.com/track/50ZmHXALKOhouCsYXXH9ps) | [Christophe Goze](https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H) | [Smoothin'](https://open.spotify.com/album/0JmnQpoXh1lL4y7FlDRjN0) | 4:34 |
 | 58 | [Make Safe](https://open.spotify.com/track/2vY18rxipRFpTYwaSEEVr4) | [Randal Clark](https://open.spotify.com/artist/6nyQjlgqFNP1ZkPECpByYy) | [Moving Too Fast](https://open.spotify.com/album/2PTey5hRAnZnTG78rvvNox) | 4:12 |
 | 59 | [Pocket Change](https://open.spotify.com/track/20snJJndKSSbLElgCXgdIe) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Pocket Change](https://open.spotify.com/album/5TSjBEXc9N8wFHUigfIjxx) | 4:03 |
 | 60 | [Lullaby Tres](https://open.spotify.com/track/1hlvi8WHybUmBgtyohwSCT) | [Kenny G](https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB) | [Lullaby Tres](https://open.spotify.com/album/3keFDbJF9CnEBm9Xm9XGB3) | 2:04 |

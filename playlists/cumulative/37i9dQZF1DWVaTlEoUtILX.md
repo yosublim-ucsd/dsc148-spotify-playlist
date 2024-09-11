@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Romance in the House\. \(가족X멜로의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-35 songs - 1 hr 56 min
+37 songs - 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,8 @@
 | [Thinking out Loud](https://open.spotify.com/track/34gCuhDGsG4bRPIf9bb02f) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [x \(Deluxe Edition\)](https://open.spotify.com/album/1xn54DMo2qIqBuMqHtUsFd) | 4:41 | 2024-08-14 |  |
 | [Way to Go](https://open.spotify.com/track/2DT90JqDCM9HOTmMBukznE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Gee \- The First Mini Album](https://open.spotify.com/album/4YroJ4NELkaJ34JjEZ6RyJ) | 3:03 | 2024-08-14 |  |
 | [We Are The Champions](https://open.spotify.com/track/6ceLJHWkvMM3oc0Ftodrdm) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Stone Cold Classics](https://open.spotify.com/album/7C2DKB8C12LqxMkfJRwTo9) | 3:01 | 2024-08-14 |  |
+| [We Come Around](https://open.spotify.com/track/6hDA0eBK3IiY7zjMBJSlGK) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Romance in the House \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4OYNOjkXYD0nYV5nHbVfHK) | 3:38 | 2024-09-10 |  |
+| [We Come Around \- Instrumental](https://open.spotify.com/track/3A46gb7Gw0ezYEGlrAn57g) | [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Romance in the House \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/4OYNOjkXYD0nYV5nHbVfHK) | 3:38 | 2024-09-10 |  |
 | [다 줄꺼야\(Acustic Version\)](https://open.spotify.com/track/6bJqfAFMGxMTkCcc3ca25g) | [Jo Kyu Man](https://open.spotify.com/artist/7tmHTqQAf5iH8kkEnu1bIw) | [다 줄꺼야](https://open.spotify.com/album/0soexvjx2g1EeCHgpgIFAc) | 4:02 | 2024-08-14 |  |
 | [두 사람](https://open.spotify.com/track/3tEPgUhheyOJQhnH2IwQna) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [4집 \- 다시 꿈꾸고 싶다](https://open.spotify.com/album/1eXaht7XauVPJeXQZXekWR) | 4:16 | 2024-08-14 |  |
 | [비행기](https://open.spotify.com/track/3GcTcXCJLVdy7iYhSKPGUp) | [Turtles](https://open.spotify.com/artist/7HtP6hIBf2xk5L5vqWqj22) | [거북이 사요!!](https://open.spotify.com/album/2gsiYXrDQwyhG0LY83qgdg) | 3:32 | 2024-08-14 |  |

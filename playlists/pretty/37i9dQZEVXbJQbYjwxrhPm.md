@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Bulgaria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 496 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 498 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 31 | [К'ъв съм як](https://open.spotify.com/track/6z6PaDoMisMAHCB2OKwsrf) | [Djordan](https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls) | [К'ъв съм як](https://open.spotify.com/album/7j3nIj23kSaqcZ0bYaWswl) | 3:15 |
 | 32 | [Ти си топ](https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx) | [DJ Damyan](https://open.spotify.com/artist/39mjWoyHE5RMghSx70h7pI), [Mile Kitic](https://open.spotify.com/artist/2OhGtVGxKAJJuc7bEKB7wH) | [Ти си топ](https://open.spotify.com/album/5uN7YJXOapE9kHW6igaXez) | 2:51 |
 | 33 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 |
-| 34 | [Shivers](https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:27 |
+| 34 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 |
 | 35 | [Havana](https://open.spotify.com/track/3krDdyri6NeeU7FwTiAniq) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH), [Galin](https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai) | [Havana](https://open.spotify.com/album/4Fp1TGVc2iUXRqNN1cExmC) | 2:42 |
 | 36 | [Мама миа](https://open.spotify.com/track/1VN1sfcpaC7y7dimb0ZihK) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq), [Selina](https://open.spotify.com/artist/583wxBpo6S1maGz1bqYekZ) | [Мама миа](https://open.spotify.com/album/1TBwnIPebX0VAWrbwtNm3Q) | 3:06 |
 | 37 | [Nishto](https://open.spotify.com/track/3r0rVxfmfvVDFI2uL1GbOx) | [Preslava](https://open.spotify.com/artist/2Dj0euYPa8eiI6Ee5VLBwg) | [Nishto](https://open.spotify.com/album/0nzpSvAvyziGPC0BwrTvrt) | 3:13 |
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 41 | [Dai Mi Vsichko](https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg) | [Andrea](https://open.spotify.com/artist/3Q71N3lHz2pijhljCNqOqw) | [Men Si Tarsil](https://open.spotify.com/album/5WNRNUPRA3iUd1IfJBt4tf) | 3:21 |
 | 42 | [Обичам те, ти мене \- не](https://open.spotify.com/track/2R3jE3iK7C1Ok8eCuIFCmy) | [Medi](https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq) | [Обичам те, ти мене \- не](https://open.spotify.com/album/4sSVZfarKHR318eTUD2avZ) | 2:48 |
 | 43 | [Tuka Tuka](https://open.spotify.com/track/4zlMrhh3Le1JtimQxGKt0e) | [Krisko](https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD) | [Tuka Tuka](https://open.spotify.com/album/4cx5JhmWbo2REbNu2EVHBW) | 3:16 |
-| 44 | [Bad Habits](https://open.spotify.com/track/6ex1Pz3pntgy4NPtxHXN2V) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \- Tour Edition](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:50 |
+| 44 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 |
 | 45 | [От кеф да умирам](https://open.spotify.com/track/1SF5ZAO1oUSduw2lHschoA) | [Dessita](https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ), [SIMONA](https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq) | [От кеф да умирам](https://open.spotify.com/album/0SerSfJWOnQLMkEvf24aZd) | 4:00 |
 | 46 | [Башмайсторска](https://open.spotify.com/track/1rLpf280OicMHgkl6SfGHG) | [Billy Hlapeto](https://open.spotify.com/artist/0dz4rGLXin0gvKYqFh7iyI), [Lexus](https://open.spotify.com/artist/7L0jOBGO246iJcBr8uWfXs), [Dim4ou](https://open.spotify.com/artist/6URykZzv72st8HDMcJNrsV) | [Башмайсторска](https://open.spotify.com/album/3TSTVv5u0S4wGktlHdQNEO) | 3:07 |
 | 47 | [Играй](https://open.spotify.com/track/0nOmcHDPI2fwIBEDeuSwzT) | [Galena](https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355) | [GALENAXX](https://open.spotify.com/album/64OTHsW1to9x7I6IyDgVK7) | 3:09 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJQbYjwxrhPm.md) - [plain]
 | 49 | [i like the way you kiss me](https://open.spotify.com/track/3JG1uFc40wfyrqaWC7iv0e) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [yustyna](https://open.spotify.com/album/5nzSCZ7NhKvAysI0tmNOdD) | 2:22 |
 | 50 | [Драскай клечката](https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF) | [Tsvetelina Yaneva](https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH) | [Драскай клечката](https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7) | 3:38 |
 
-Snapshot ID: `LnJiSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LnOxcAAAAAAAAAAAAAAAAAAAAAAAAGVu`

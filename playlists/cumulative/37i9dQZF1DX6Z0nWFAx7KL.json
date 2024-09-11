@@ -316,7 +316,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 159845,
       "name": "Apologize",
       "url": "https://open.spotify.com/track/3LAPe9NMRnWTFZNlFkzIME"
@@ -1052,6 +1052,32 @@
       "duration_ms": 220000,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/3h0tEwAyOCQDa4X8NEcy0Q"
+    },
+    {
+      "album": {
+        "name": "Dancing In The Dark Alone",
+        "url": "https://open.spotify.com/album/6ikXguU0h4yetGBHhEJ8M5"
+      },
+      "artists": [
+        {
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        },
+        {
+          "name": "Horxata",
+          "url": "https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Dancing In The Dark Alone",
+      "url": "https://open.spotify.com/track/6zQPojpQG3IkS69M2qmABd"
     },
     {
       "album": {
@@ -3095,6 +3121,36 @@
     },
     {
       "album": {
+        "name": "Lost In Love (feat. Rolipso)",
+        "url": "https://open.spotify.com/album/0nSnzGCV5AvTxOgO3weiou"
+      },
+      "artists": [
+        {
+          "name": "MCN2",
+          "url": "https://open.spotify.com/artist/343xgiGnBTnEyNmf0N6aeh"
+        },
+        {
+          "name": "okafuwa",
+          "url": "https://open.spotify.com/artist/34MSwSLRID464bAqEzGrFj"
+        },
+        {
+          "name": "Jorden Dux",
+          "url": "https://open.spotify.com/artist/3c62o0pVkqhFkIsclgYcuf"
+        },
+        {
+          "name": "Rolipso",
+          "url": "https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124033,
+      "name": "Lost In Love (feat. Rolipso)",
+      "url": "https://open.spotify.com/track/3RQHMgJrpWmWaTNbB5svBx"
+    },
+    {
+      "album": {
         "name": "Lost In The Sky",
         "url": "https://open.spotify.com/album/7dwJXlUeHtiGZZNiLi0O3g"
       },
@@ -4668,7 +4724,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 229484,
       "name": "Sunlight",
       "url": "https://open.spotify.com/track/595M3e9mqepEd19NGVEABi"

@@ -4,7 +4,7 @@
 
 > crue!
 
-670 songs - 2 day 0 hr 44 min
+670 songs - 2 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,7 +141,7 @@
 | [Dakar \- Extended mix](https://open.spotify.com/track/19Zay2GOA8Ebe9cuinWfNJ) | [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [Dean Walker](https://open.spotify.com/artist/2yu2cq17ts76sjEjRMKqkN), [Savage & SHē](https://open.spotify.com/artist/3grWiHymOsSQY0VjeNAxCD) | [Dakar \(Extended Mix\)](https://open.spotify.com/album/0MUvSlOwYQ8TIXqDwc9Vx7) | 6:23 | 2024-04-04 |  |
 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 | 2023-08-01 | 2024-06-21 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-05-23 |  |
-| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 4:28 | 2024-08-22 |  |
+| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-22 |  |
 | [dark days \- Nitefreak Remix](https://open.spotify.com/track/2tgwSxvZPzpoYw3LB9xdFZ) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [dark days \- Nitefreak Remix](https://open.spotify.com/album/1DS3fjJQLsg6vLxz0pJne1) | 5:16 | 2024-08-30 | 2024-09-08 |
 | [DARLING DRIVE](https://open.spotify.com/track/3JhpAudiaS7sjVGnL09fx2) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [DARLING DRIVE](https://open.spotify.com/album/6Mu1C7bpcOqWBvniV7OFRm) | 3:19 | 2024-01-11 |  |
 | [Day I Met You](https://open.spotify.com/track/2CKUBP6gZlk7gVSQLiie5M) | [YUMA](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Day I Met You](https://open.spotify.com/album/0FkM3AnJGzeXNjMudtNRGi) | 5:31 | 2024-02-22 | 2024-03-30 |

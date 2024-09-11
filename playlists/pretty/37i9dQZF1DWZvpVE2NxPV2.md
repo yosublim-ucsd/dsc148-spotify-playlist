@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,859 likes - 176 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,898 likes - 176 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,7 +156,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 146 | [Forward](https://open.spotify.com/track/1vAzpG22ziNLd5wzOzjM0z) | [Lukas Strindberg](https://open.spotify.com/artist/7gomQ5jpHnma0BOkn07wxU) | [Forward](https://open.spotify.com/album/6VeJTPvH1U28Ne2MCK3q1L) | 3:09 |
 | 147 | [Empty Spaces](https://open.spotify.com/track/02hFekfpXLbeoBIdCEgbBc) | [Everything Will Rust](https://open.spotify.com/artist/6ongOGTUwDaQjpqjnlkooi) | [Empty Spaces](https://open.spotify.com/album/4qfwY4yqkCdFGevRrcBsVB) | 3:48 |
 | 148 | [Macromedas](https://open.spotify.com/track/4r2XXfxvEHvQoSz1FVsrVu) | [Zoniacs](https://open.spotify.com/artist/6IiJPhO9buoldoCLSG4foO) | [Macromedas](https://open.spotify.com/album/2clBnik7oSq4iYjWCITgYl) | 2:33 |
-| 149 | [Osho Dream](https://open.spotify.com/track/1Oq4Ptmtue1d4XH4QIS6gm) | [Buddha's Lounge](https://open.spotify.com/artist/0DQtE70SlFZZkbNpCRaMHb) | [Osho Dream](https://open.spotify.com/album/4tD9w34gloyMWXKbsOzZq1) | 2:17 |
+| 149 | [](https://open.spotify.com/track/1Oq4Ptmtue1d4XH4QIS6gm) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4tD9w34gloyMWXKbsOzZq1) | 0:00 |
 | 150 | [Oceanside](https://open.spotify.com/track/1DfD1xXwSjleVWRZXSFjuW) | [Wings Of Silk](https://open.spotify.com/artist/5cRPBrgj3kzFukDUej9Rny) | [Oceanside](https://open.spotify.com/album/3UYWj2lQc2S6nZ6Ym5heWK) | 2:47 |
 | 151 | [Hesperus](https://open.spotify.com/track/5BPskS9THo8GzpNB1prEOM) | [Rosa Løvstrøm](https://open.spotify.com/artist/13f3uLVCX4o7wjqwtVlDwC) | [Hesperus](https://open.spotify.com/album/3HzGSOjcVYWlvhLBIf60JH) | 3:20 |
 | 152 | [Dhyana](https://open.spotify.com/track/4giruyzXVMBmcERashYyj9) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Dhyana](https://open.spotify.com/album/5jPHHLNadGsw4uxd2E8nmf) | 3:07 |

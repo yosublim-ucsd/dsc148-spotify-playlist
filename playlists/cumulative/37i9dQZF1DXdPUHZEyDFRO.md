@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of Perfect Family\. \(완벽한 가족의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-56 songs - 3 hr 17 min
+60 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,8 @@
 | [Fuckin' New Year](https://open.spotify.com/track/4njyS3c6btHwlhVuYt4ks5) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [New Year](https://open.spotify.com/album/5EurmkjnoKInaBsjAM6iFB) | 2:48 | 2024-09-06 |  |
 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 | 2024-09-06 |  |
 | [How to Love a Rainbow](https://open.spotify.com/track/3a8TKwYs3gA9DEe6oauNM1) | [Moon shines on it’s own](https://open.spotify.com/artist/5qWhuGxp7QbZKCNk1uVRrs) | [How to Love a Rainbow](https://open.spotify.com/album/7uczbFFqYu8br7nb8z3HrE) | 3:40 | 2024-09-06 |  |
+| [I am firefly](https://open.spotify.com/track/4B9SQPvwLQZMehhKW6VkVn) | [Kim Ho Jeong](https://open.spotify.com/artist/26RogiediR08e49bNars1L) | [Perfect Family \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4vOyPmN7K04LeLBMMdwRJS) | 3:40 | 2024-09-10 |  |
+| [I am firefly \- Instrumental](https://open.spotify.com/track/2iMBccgeOadS9umDA3z6Te) | [Kim Ho Jeong](https://open.spotify.com/artist/26RogiediR08e49bNars1L) | [Perfect Family \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/4vOyPmN7K04LeLBMMdwRJS) | 3:40 | 2024-09-10 |  |
 | [i don't know \(with HUH YUNJIN of LE SSERAFIM\)](https://open.spotify.com/track/0ObH6HhEWiI2kXBJ4tusbQ) | [j\-hope](https://open.spotify.com/artist/0b1sIQumIAsNbqAoIClSpy), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [HOPE ON THE STREET VOL.1](https://open.spotify.com/album/5mqxdPWQirLBE7vdDMhlB4) | 3:03 | 2024-09-06 |  |
 | [Jealousy](https://open.spotify.com/track/4ib6HLKPiAUzwLN0L6uJwA) | [ROCKY](https://open.spotify.com/artist/3bQABAi10Xqg1WsMAhYdBZ) | [BLANK](https://open.spotify.com/album/2COWlbAbEoNxfPM09oy6m6) | 3:46 | 2024-09-06 |  |
 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 | 2024-09-06 |  |
@@ -53,6 +55,8 @@
 | [Sick](https://open.spotify.com/track/1y9hu74RXak8cNh2UmCG5e) | [Lee Jun Hyung](https://open.spotify.com/artist/6Op1UrYjepK3TvjsjnCeTq) | [UTOPIA](https://open.spotify.com/album/54RmDAiQ15SEwNpW716mgr) | 3:41 | 2024-09-06 |  |
 | [the Road](https://open.spotify.com/track/6sZHwnDbiGcCuGsRJgx86s) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [The First Album, Pt.1 'The Road'](https://open.spotify.com/album/0ttQCf2MsPptQLbEFQV1sx) | 4:06 | 2024-09-06 |  |
 | [Time limit \(Feat\. Leellamarz, Loco\)](https://open.spotify.com/track/1jQg7ImfH2OVpp9lu9mOj0) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm) | [Curtain Call](https://open.spotify.com/album/02RwftMPUiJvxCTDOUSJWx) | 3:49 | 2024-09-06 |  |
+| [To Heaven](https://open.spotify.com/track/1FaT2qD2HDPDPdgzdv8FdF) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Perfect Family \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2JwnPxoyZmKK9dosgekTAc) | 3:17 | 2024-09-10 |  |
+| [To Heaven \- Instrumental](https://open.spotify.com/track/0eizp0wKlhJ4at9t0PVGXi) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [Perfect Family \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/2JwnPxoyZmKK9dosgekTAc) | 3:17 | 2024-09-10 |  |
 | [Track 8](https://open.spotify.com/track/0rs6oZBsFPBf1TnCVt51mF) | [Lee So Ra](https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC) | [7th Album](https://open.spotify.com/album/25evl4uFTZnYnLcUwrl0Oa) | 4:44 | 2024-09-06 |  |
 | [U](https://open.spotify.com/track/0J3wYUuX6BTmdUXDtK1A7A) | [John Park](https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB) | [U](https://open.spotify.com/album/32XLopG07mOWaIHyYST1Pf) | 3:33 | 2024-09-06 |  |
 | [Walking With](https://open.spotify.com/track/143MWj1w7d5G5Hpn2bYyqv) | [Kim Dong Ryul](https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV) | [Walking Together](https://open.spotify.com/album/286U6R2fhZmWXDKCRkHbZn) | 4:25 | 2024-09-06 |  |

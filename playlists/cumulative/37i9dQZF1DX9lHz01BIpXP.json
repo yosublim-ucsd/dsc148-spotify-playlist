@@ -338,7 +338,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 188453,
       "name": "Broke",
       "url": "https://open.spotify.com/track/4DaJv3w5BZrsj5eLgDWsEK"
@@ -736,6 +736,28 @@
       "duration_ms": 185395,
       "name": "Doen Net Jou Ding",
       "url": "https://open.spotify.com/track/5xDEtccEFNBMkpfF4Xt2e2"
+    },
+    {
+      "album": {
+        "name": "Draadsitters",
+        "url": "https://open.spotify.com/album/5tvO4CqQZEGQbGK7N4MQvd"
+      },
+      "artists": [
+        {
+          "name": "C.M.T",
+          "url": "https://open.spotify.com/artist/7dp7rXGLihg118ZUN8tp1P"
+        },
+        {
+          "name": "Twinn",
+          "url": "https://open.spotify.com/artist/5Kf4aQK9jLLoRx6gNClM8O"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145815,
+      "name": "Draadsitters",
+      "url": "https://open.spotify.com/track/68xtHJkWSdnKz1TP59Fk3D"
     },
     {
       "album": {

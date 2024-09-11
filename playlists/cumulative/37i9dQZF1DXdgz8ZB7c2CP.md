@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Mura Masa
 
-817 songs - 1 day 21 hr 10 min
+818 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -403,6 +403,7 @@
 | [Kaleidoscope \(Me&U\)](https://open.spotify.com/track/6T5BzQTQzr7JQkPUVlbbLL) | [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ), [Alexander Lewis](https://open.spotify.com/artist/1XwAo9UCt90soyw5V7U6LV) | [Kaleidoscope \(Me&U\)](https://open.spotify.com/album/2TNaumC6KtDTgt80bdY3n5) | 2:50 | 2022-12-21 | 2023-05-13 |
 | [KARMA](https://open.spotify.com/track/0Hxg817iDRgOgizgY8G0j1) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [KARMA](https://open.spotify.com/album/4Jr5o5eaXLhVSucvED6QA4) | 2:29 | 2021-08-06 | 2022-07-21 |
 | [Kcab Gnihsur](https://open.spotify.com/track/7GP2geX3A16B2IUFejZtSS) | [gade 节奏](https://open.spotify.com/artist/6BWcu2p4Zn7BgJyx1lexW3) | [Kcab Gnihsur](https://open.spotify.com/album/4vRbGdmuLUTzOEnGPFWTre) | 3:51 | 2023-12-08 | 2023-12-22 |
+| [Keep It Moving](https://open.spotify.com/track/6S1N4cHzWrCcJ3SCkpOIft) | [TroyBoi](https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Keep It Moving](https://open.spotify.com/album/2UoLGeViU5qTIlKLMtxOag) | 2:40 | 2024-09-05 |  |
 | [KEEP ME IN MIND \(ft\. Lyrah\)](https://open.spotify.com/track/4f84AMUxmYGFp9ddjEK3bG) | [clear eyes](https://open.spotify.com/artist/0IVWeUVFPCMT7MmhvqmfUr), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [KEEP ME IN MIND \(ft\. Lyrah\)](https://open.spotify.com/album/3v54IBpEIcNMlXiXOkT7c8) | 2:58 | 2023-08-24 | 2023-09-22 |
 | [Keep The Lights On](https://open.spotify.com/track/1ov61nQUSYIgQTfSiv2xwx) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN), [Beach Season](https://open.spotify.com/artist/44hIVkpzLPUGJGUa04H3jw) | [Keep The Lights On](https://open.spotify.com/album/2tNm6bp4Jx46klup8qcIo4) | 3:05 | 2023-08-04 | 2023-09-02 |
 | [Keep You](https://open.spotify.com/track/0yxqE17S8mauxiv10mMVS0) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF), [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [Keep You](https://open.spotify.com/album/50ivZBGeYJPiAnvrpElesT) | 3:37 | 2021-08-06 | 2022-12-22 |
@@ -632,7 +633,7 @@
 | [Shoyu](https://open.spotify.com/track/7ammiC4TKHgMXP8RnccYcA) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 2:21 | 2022-09-16 | 2023-05-13 |
 | [Shuf \(Adore U\)](https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Curve 1](https://open.spotify.com/album/0LxpmDac7eNkPqOKvjkMNo) | 3:46 | 2024-08-22 |  |
 | [Siento Mi Destino](https://open.spotify.com/track/3pSfCBzoBZzQJVQUl3U06s) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Original Classic](https://open.spotify.com/album/2KBN5wIYIuy8SlrxNiZWq1) | 3:48 | 2021-11-12 | 2022-07-28 |
-| [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 | 2024-03-21 |  |
+| [Silence](https://open.spotify.com/track/5pE1HaAhMOeVjciqaLEr9J) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB) | [Silence](https://open.spotify.com/album/7ItctvDW7uwa0Zegbd8rq2) | 2:36 | 2024-03-21 | 2024-09-11 |
 | [Silent Assassin](https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Silent Assassin](https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2) | 2:07 | 2023-07-07 | 2024-04-11 |
 | [Silver Thread Golden Needle](https://open.spotify.com/track/36j1SeSsw7OZsTO3ogFKEM) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Silver Thread Golden Needle](https://open.spotify.com/album/5tAtDEcbyj78RJ3q4SpYM1) | 9:56 | 2024-01-12 | 2024-03-29 |
 | [sinking @@!](https://open.spotify.com/track/47vCeLdxTjshWI3emh3ZUb) | [late year](https://open.spotify.com/artist/5VIvm6mJVnzoOrcFEsKIfP), [Otxhello](https://open.spotify.com/artist/4S3cwLP8haGAdlqyza3GZ3), [Dilip](https://open.spotify.com/artist/5PcwbyuOX1pnaeVYatEEB2), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [late year](https://open.spotify.com/album/52IWApcFLgfDu9clR1GGNg) | 3:20 | 2021-08-06 | 2022-07-29 |

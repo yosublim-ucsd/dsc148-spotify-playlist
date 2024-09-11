@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover:  Clara Riva
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,616 likes - 85 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,614 likes - 85 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 79 | [Drama](https://open.spotify.com/track/4m4L3bOhHLkWqht47FERT3) | [Nwm](https://open.spotify.com/artist/6XDlyeLSa3pKKuy7e6533O), [Pepi Shortfuse](https://open.spotify.com/artist/4gOd3PFzTxzjx9AChwpNu4) | [Drama](https://open.spotify.com/album/1HKfiIwzK245byZ9f9qGcH) | 2:27 |
 | 80 | [Lost and Found](https://open.spotify.com/track/1uP4MBH8f0ZqmBsu7R2Mvn) | [FOODOMORE](https://open.spotify.com/artist/7pjUcS7PGlN60mkd82n6Wn) | [Lost and Found](https://open.spotify.com/album/2TYHhpNQAFvGXNZJp660nr) | 3:44 |
 | 81 | [Nobody](https://open.spotify.com/track/3vyFKIoue5rm6DNg6IRFzF) | [Annisya](https://open.spotify.com/artist/1PELt1dPoZyGYKgV6KWBkA) | [Femme Fatale](https://open.spotify.com/album/4b28smZwrgrzO5RsJODYsJ) | 3:38 |
-| 82 | [Gold & Jade Pt\. II](https://open.spotify.com/track/5Pam2MyBLCsJvFEDzrISnb) | [Jade Syndicate](https://open.spotify.com/artist/62iJYKkWZkAop4eNPVQ5L6), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [Jay Yen](https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt) | [Gold & Jade Pt\. II](https://open.spotify.com/album/2x2Sqja4INB8qp28vqaYnb) | 2:52 |
+| 82 | [Gold & Jade Pt\. II](https://open.spotify.com/track/5Pam2MyBLCsJvFEDzrISnb) | [Jade Syndicate](https://open.spotify.com/artist/62iJYKkWZkAop4eNPVQ5L6), [Bloodlyne](https://open.spotify.com/artist/6r2NRFjucCptbMJHvRtLXL), [Jay Yen](https://open.spotify.com/artist/3JgETLiorvAt8Xfsz6HcRt), [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA) | [Gold & Jade Pt\. II](https://open.spotify.com/album/2x2Sqja4INB8qp28vqaYnb) | 2:52 |
 | 83 | [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 |
 | 84 | [Ditikam Badai](https://open.spotify.com/track/75qKUaa7fA0xZTjhMIcCXS) | [Lawang Pitu](https://open.spotify.com/artist/3rC2AQ70DYt1lvnJmFrpO9) | [Anugerah Harmoni](https://open.spotify.com/album/4zzFvUFrDcifLt8PmzpnxN) | 4:41 |
 | 85 | [Move On](https://open.spotify.com/track/5yoKyhpDqbKBpzvpxhTKpw) | [Explicit Sentimental](https://open.spotify.com/artist/68LfQqCoKGkMAVzlMXTI3r), [VREYA](https://open.spotify.com/artist/6BxtKT3VsGzAM1CZpGQgka), [Romano Guitar Boy](https://open.spotify.com/artist/4V2B4o9ulMViRgnnae4F6P) | [Move On](https://open.spotify.com/album/6SCBjwG7qFViyoBWQZvv63) | 3:12 |

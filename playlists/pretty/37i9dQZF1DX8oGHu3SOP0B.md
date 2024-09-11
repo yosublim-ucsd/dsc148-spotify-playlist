@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 
 > ฟังเพลงศิลปินหญิงประเทศไทยกัน\. ปก: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,309 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,317 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oGHu3SOP0B.md) - [plain]
 | 23 | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/track/4CBRdY0RexCvMi0GoyDiZc) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7), [pY\-1](https://open.spotify.com/artist/2OaPa926aKd12rYVXJWSEW) | [ความรักหน้าตาเป็นไง \- you](https://open.spotify.com/album/5UJzWrNNyLDbnNe21eoGOm) | 3:38 |
 | 24 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
 | 25 | [Skinship](https://open.spotify.com/track/3tNbRakSOzvDLbVhtgJ8cS) | [Ice Tamonwan](https://open.spotify.com/artist/7d4IM4PU9KfbfW2D5bgNz2) | [Skinship](https://open.spotify.com/album/0JKwlZrkVdIDFuUkD2ErFI) | 3:45 |
-| 26 | [ติดฝน \(rain\)](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
+| 26 | [ติดฝน](https://open.spotify.com/track/6rk1rGqpNXTeu7kVsB049F) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [rain](https://open.spotify.com/album/4cox7xZolfLKU5nmvWH8wX) | 3:16 |
 | 27 | [Parallel Universe](https://open.spotify.com/track/4BdS1az84tkJJhGteYFwLV) | [Pango](https://open.spotify.com/artist/0lWFoio2Ak7YODAwIdJQq9) | [Parallel Universe](https://open.spotify.com/album/4eO2ltr8VT9601I0GWaksw) | 3:58 |
 | 28 | [วันนี้ พรุ่งนี้ ตลอดไป](https://open.spotify.com/track/1AEF2WaDl4sG5CpHh1jKEI) | [พู่กัน กันฏ์ระพี](https://open.spotify.com/artist/3k7rqg9S2F8zpVETclVJyl), [fellow fellow](https://open.spotify.com/artist/1aEKvjRnbf1laB7DVXFqsG) | [วันนี้ พรุ่งนี้ ตลอดไป](https://open.spotify.com/album/73Q3OHsgWdWgoLRkajMyRd) | 3:32 |
 | 29 | [I hate flowers](https://open.spotify.com/track/2Rv7ThmE2HpgbY91sXjV5c) | [mlsnw](https://open.spotify.com/artist/2UgcmrWgUDrBdURtLvGSjc) | [I hate flowers](https://open.spotify.com/album/4OpcCIZJHGdxgubQOWPtq6) | 3:23 |

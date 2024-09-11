@@ -4,7 +4,7 @@
 
 > Unwind to these calm classical guitar pieces.
 
-801 songs - 1 day 10 hr 35 min
+803 songs - 1 day 10 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Elegia](https://open.spotify.com/track/72dTSVm9IsZD0eYft7H7XV) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Elegia](https://open.spotify.com/album/5akwFZfzBFG3ISUpHfIju8) | 2:28 | 2022-03-04 |  |
 | [Elegía](https://open.spotify.com/track/47quLP1vxEzunhRdml1aVs) | [Lester Paredes](https://open.spotify.com/artist/6qmJhBPj3ROsuH7bLDODMf) | [Elegía](https://open.spotify.com/album/6gvFzFVIftV58SyjSz2c6q) | 3:54 | 2022-05-27 | 2022-07-22 |
 | [Elva stycken för gitarr ur mitt musikaliska skissblock: I\. Skeppsholmskyrkans klockor](https://open.spotify.com/track/3DUEY4DM6kXXsXq6PmtOTk) | [Olle Adolphson](https://open.spotify.com/artist/4hkOyd0eTeViYkZooM4Jay), [Mats Bergström](https://open.spotify.com/artist/1cK2dUALEJSsEGK3WUgruU) | [Olle Adolphson Musik för gitarr](https://open.spotify.com/album/6RULsoSVGu4e3rPC8vSbOt) | 3:37 | 2022-06-03 | 2022-06-10 |
+| [Embrace](https://open.spotify.com/track/2WoTg0pmCpUpakSrIVMyc4) | [Emmanuel Fischer](https://open.spotify.com/artist/2yB2CmOKM98FyiYDq0H1v3) | [Embrace](https://open.spotify.com/album/5JtSMJQHqrir1O0CY8cPT2) | 2:35 | 2024-09-10 |  |
 | [Emilia](https://open.spotify.com/track/5DdyzYxR6gj2yTdDdc0upl) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [Emilia](https://open.spotify.com/album/2H1UqvpzhDAfML0LSSmkot) | 2:01 | 2022-10-07 | 2024-07-18 |
 | [Enchantment](https://open.spotify.com/track/10SYT1xYCFAZZg7muzeAxC) | [Valencia Torres](https://open.spotify.com/artist/1FIDJ9PL61hAFkpZPodejt) | [Enchantment](https://open.spotify.com/album/1wUy2g9PMkkvA1gZZQU8CX) | 3:07 | 2023-04-21 | 2024-07-18 |
 | [Encounters](https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Encounters](https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um) | 2:11 | 2023-10-27 | 2024-07-30 |
@@ -385,7 +386,7 @@
 | [Lavender](https://open.spotify.com/track/6qlH4I4LLeSCZSDNiLvZQL) | [Kathekon](https://open.spotify.com/artist/6vRmfBellM9PLkqukd8s6w) | [Lavender](https://open.spotify.com/album/7cSNoS1oggwf0I9f6YOqBV) | 2:20 | 2022-10-28 | 2023-06-16 |
 | [Layers](https://open.spotify.com/track/3HCq1uKsrIfii8eYSgO9tf) | [LarryLand](https://open.spotify.com/artist/4VWgOACHzlk7bMcAeVpcmK) | [Layers](https://open.spotify.com/album/3Mru6j8trKeOcaw27xAlqB) | 2:41 | 2023-03-10 |  |
 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
-| [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 |  |
+| [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 | 2024-09-11 |
 | [Left Unsaid](https://open.spotify.com/track/70kfWgQvwouRNgxush5oEv) | [Caro Courbet](https://open.spotify.com/artist/52zVeu3wctCuT0MKNL67hx) | [Left Unsaid](https://open.spotify.com/album/5fKMfqNLcSxp2Ec9Y2v5aL) | 2:11 | 2022-12-16 | 2023-03-25 |
 | [Lemon Butterflies](https://open.spotify.com/track/6LD3GreVtXhePn8SmPDUzm) | [Moldoni](https://open.spotify.com/artist/0wyLg7FcGRulowJqoek8lw) | [Lemon Butterflies](https://open.spotify.com/album/79atPdOAmjxkB3H4bABUt4) | 1:24 | 2022-07-01 | 2022-10-07 |
 | [Lento](https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP) | [Christopher Varela](https://open.spotify.com/artist/2irB8SXzuA2u0rBten7TnK) | [Lento](https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88) | 2:00 | 2023-08-17 |  |
@@ -628,6 +629,7 @@
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2022-03-18 | 2024-06-21 |
 | [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2022-03-25 | 2024-04-05 |
 | [Siena](https://open.spotify.com/track/6hebly36sQyqXZerurmsuO) | [Marcus Larsen](https://open.spotify.com/artist/3VvLdbNVbOdEcCrsmaOfYX) | [Siena](https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ) | 2:11 | 2021-12-08 | 2022-04-22 |
+| [Sighs at Sunrise](https://open.spotify.com/track/2OOeFSreST9tlRmhxBchtz) | [Elijah Stone](https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu) | [Sighs at Sunrise](https://open.spotify.com/album/36eNKGSb9Z6hW123nBfyIK) | 2:18 | 2024-09-10 |  |
 | [Signum](https://open.spotify.com/track/70Z6rUWqzQha0RMFcyJIiJ) | [Alexas Lucio](https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ) | [Signum](https://open.spotify.com/album/49dELtri6eKyk7Dq2zIqQB) | 2:35 | 2022-08-05 | 2022-11-18 |
 | [Silberberg](https://open.spotify.com/track/1nK1oBJTscRvCM8dfmHejS) | [Pierre Lune](https://open.spotify.com/artist/1kuEeg8wBDQ0zJXN0puWNa) | [Le Louvre](https://open.spotify.com/album/2oO72iywMunjNXkhplNFHU) | 3:25 | 2021-12-08 | 2022-05-11 |
 | [Silent Reflection](https://open.spotify.com/track/2UtUxP2a69N3TsjL2O8zek) | [Thaisa Deboys](https://open.spotify.com/artist/1mIbAzEXDPLycJNcDcck5B) | [Silent Reflection](https://open.spotify.com/album/787hPGoGaetjRZgJCqe96a) | 2:02 | 2024-06-07 |  |

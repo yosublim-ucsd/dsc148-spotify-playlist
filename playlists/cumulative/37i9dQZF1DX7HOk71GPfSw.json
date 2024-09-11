@@ -6080,7 +6080,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 241014,
       "name": "bunnyland",
       "url": "https://open.spotify.com/track/3ir5t2xAqrrX3yYP0rqdzX"
@@ -6600,7 +6600,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 177493,
       "name": "Caustic",
       "url": "https://open.spotify.com/track/4psWH7HF7omu2KbAusNeQt"
@@ -26099,6 +26099,24 @@
     },
     {
       "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/67q2ad1ImfNsm3O5c3erXE"
+      },
+      "artists": [
+        {
+          "name": "Tlya X An",
+          "url": "https://open.spotify.com/artist/6KF6XPVpveOW82GRFgwFsX"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/1xDENykwH0WhdB5XVDYX3k"
+    },
+    {
+      "album": {
         "name": "ELECTRIC",
         "url": "https://open.spotify.com/album/0cGcGHZ4jHWPktYQalQNpa"
       },
@@ -32431,6 +32449,24 @@
     },
     {
       "album": {
+        "name": "Saying Nothing",
+        "url": "https://open.spotify.com/album/4Ot0QcSz9jPXAeg6Ly29wZ"
+      },
+      "artists": [
+        {
+          "name": "Revenge Wife",
+          "url": "https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189898,
+      "name": "Saying Nothing",
+      "url": "https://open.spotify.com/track/3eSj9sGBywMqtd2avjCgnB"
+    },
+    {
+      "album": {
         "name": "Scared to Go Home",
         "url": "https://open.spotify.com/album/4ZXSq1eXkwdgEOAtxurhmD"
       },
@@ -33342,7 +33378,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 129000,
       "name": "shiversucker",
       "url": "https://open.spotify.com/track/7l2ArIjSSFAbtlcvvuKr0b"
@@ -38330,6 +38366,28 @@
       "duration_ms": 128914,
       "name": "Tinted Glasses",
       "url": "https://open.spotify.com/track/3Rgvrk7iVSk3LmeytiTNI0"
+    },
+    {
+      "album": {
+        "name": "tiny purse, tiny top",
+        "url": "https://open.spotify.com/album/6LBpAMjNSc8tm740hopJsx"
+      },
+      "artists": [
+        {
+          "name": "BRONZE AVERY",
+          "url": "https://open.spotify.com/artist/30XwDI0SEYBda3gBtutSZW"
+        },
+        {
+          "name": "Lilyisthatyou",
+          "url": "https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126766,
+      "name": "tiny purse, tiny top",
+      "url": "https://open.spotify.com/track/1AhoAuvhcydhLy8i7uLPBq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 43885,
+  "num_followers": 43900,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAYEdpa27BX9nRRm197kerBb1/zpO/1",
+  "snapshot_id": "AAAYFkv76BLKhOvkXVpUU2G8OzuYPSa0",
   "tracks": [
     {
       "added_at": "2024-09-06 05:38:31",
@@ -83,6 +83,22 @@
       "duration_ms": 148714,
       "name": "Jessy",
       "url": "https://open.spotify.com/track/4fu6Xv1f0LK73K566EkFYQ"
+    },
+    {
+      "added_at": "2024-09-10 09:47:14",
+      "album": {
+        "name": "Igual No Debo",
+        "url": "https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "duration_ms": 163106,
+      "name": "Igual No Debo",
+      "url": "https://open.spotify.com/track/1xgEvJ6oPN3mTd99tY6RQ5"
     },
     {
       "added_at": "2024-09-06 05:38:31",

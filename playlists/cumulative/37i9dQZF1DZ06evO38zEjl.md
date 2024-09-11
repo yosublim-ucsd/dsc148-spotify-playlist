@@ -2,7 +2,7 @@
 
 ### [This Is Jon Hassell](https://open.spotify.com/playlist/37i9dQZF1DZ06evO38zEjl)
 
-> This is Jon Hassell\. Todos os maiores hits em uma só playlist.
+> This is Jon Hassell\. The essential tracks, all in one playlist.
 
 133 songs - 13 hr 19 min
 
@@ -63,7 +63,7 @@
 | [Flash of the Spirit \(Laughter\)](https://open.spotify.com/track/1KvWa9WllBJcqmqOhr7YdR) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Farafina](https://open.spotify.com/artist/5UMmGAarEnn9bIua1CuYWL) | [Flash of the Spirit](https://open.spotify.com/album/1kq5wytZSTx0mQvxkg5fW0) | 5:45 | 2022-05-30 | 2023-12-14 |
 | [Freeway](https://open.spotify.com/track/3Sk6uOd120wSIECrFkbEUu) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 4:49 | 2023-04-05 | 2024-05-19 |
 | [Griot \(Over "Contagious Magic"\) \- Live From The Art Gallery Of Ontario,Canada/1980](https://open.spotify.com/track/3GWhZoyuZonyiD3QmpYTnX) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Fourth World Vol 1 Possible Musics](https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9) | 4:02 | 2022-05-29 |  |
-| [Hamburg](https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 7:09 | 2023-10-10 |  |
+| [Hamburg](https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ), [J.A\. Deane](https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn), [Michael Brook](https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y) | [The Surgeon of the Nightsky Restores Dead Things by the Power of Sound](https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF) | 7:09 | 2023-10-10 | 2024-09-11 |
 | [Harambe](https://open.spotify.com/track/4jYBcL0CH3IG0r6sQMpYIA) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Psychogeography \(Zones Of Feeling\)](https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ) | 3:46 | 2023-04-24 | 2023-05-23 |
 | [Her First Rain](https://open.spotify.com/track/0RxCW8AjgsL2PDHf7uka9U) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 1:38 | 2022-05-29 | 2023-02-14 |
 | [Her First Rain](https://open.spotify.com/track/6c5YdmrqRZA8Dg1wvN0VjG) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 1:38 | 2023-02-13 |  |
@@ -77,7 +77,7 @@
 | [Lunar](https://open.spotify.com/track/2s9A9QkP6poey6gfYdTeJF) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/6nh4xd1H0yQU7pb3DcUSiy) | 6:32 | 2022-05-30 | 2023-02-12 |
 | [Lunar](https://open.spotify.com/track/3MOYk5IIuNMbqa7Npk1OKE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Seeing Through Sound \(Pentimento Volume Two\)](https://open.spotify.com/album/2hsHMLZk3bnvM2olMZNAXL) | 6:32 | 2023-02-11 |  |
 | [Maarifa Street](https://open.spotify.com/track/1eL6wpxyDb1Wt7kgV8yNoE) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/47OJ22T2drD6DY3vMLWQ1D) | 7:09 | 2022-05-29 | 2023-01-17 |
-| [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 | 2023-05-22 | 2024-09-08 |
+| [Maarifa Street](https://open.spotify.com/track/6jAmLyyGnms8l7crD3QTmn) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Maarifa Street](https://open.spotify.com/album/0y5IgFl3vIib6O46CfqEu9) | 7:09 | 2023-05-22 |  |
 | [Manga Scene](https://open.spotify.com/track/2RHtLQ1gxmqL6kCBvY4mlH) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/09rCHELhjgKrNyoWePQHm9) | 5:44 | 2022-05-29 | 2023-02-14 |
 | [Manga Scene](https://open.spotify.com/track/4H1mGSeiayRkwB08vaJAfI) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Listening To Pictures \(Pentimento Volume One\)](https://open.spotify.com/album/6kLpWP9Enlx10Jceh1M8Rf) | 5:44 | 2023-02-13 |  |
 | [Miracle Steps](https://open.spotify.com/track/2q6MuQKOrsSwGwGViknzLy) | [Jon Hassell](https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ) | [Power Spot](https://open.spotify.com/album/3NeBtTjhIhWNnXi7wBcvHo) | 4:21 | 2022-05-29 |  |

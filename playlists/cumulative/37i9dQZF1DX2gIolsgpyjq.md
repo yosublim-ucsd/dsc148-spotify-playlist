@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Nordics](https://open.spotify.com/playlist/37i9dQZF1DX2gIolsgpyjq)
 
-> The best new music by independent artists in the Nordics\. Cover: Sløtface
+> Catch Tolou, Kissimjau, Carlina de Place and Izza Gara on the Fresh Finds Nordics stage at By:Larm! The best new music by independent artists in the Nordics.
 
 523 songs - 1 day 3 hr 37 min
 

@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 53239,
+  "num_followers": 53243,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 218160,
-      "name": "Jam Jam",
-      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "<Dall>",
         "url": "https://open.spotify.com/album/0hJloArA2Kb9xNBIv34osS"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 180600,
       "name": "Candy Crush",
       "url": "https://open.spotify.com/track/1TsY0n1qB8s54TtB1pMajQ"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 218160,
+      "name": "Jam Jam",
+      "url": "https://open.spotify.com/track/3h7WIL3B6nP3171zl6HWj8"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -883,18 +883,22 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Starry Night",
-        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
+        "name": "The Story Of The Year (feat. Wonwoo)",
+        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
       },
       "artists": [
         {
-          "name": "MOMOLAND",
-          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+          "name": "PARKMOONCHI",
+          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
+        },
+        {
+          "name": "Wonwoo",
+          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
         }
       ],
-      "duration_ms": 191426,
-      "name": "Starry Night",
-      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
+      "duration_ms": 253948,
+      "name": "The Story Of The Year (feat. Wonwoo)",
+      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -919,22 +923,18 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "The Story Of The Year (feat. Wonwoo)",
-        "url": "https://open.spotify.com/album/09drbb7KrxZTBhg9Eodvjc"
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/6dPTCj1x52RQX4ALieYp5N"
       },
       "artists": [
         {
-          "name": "PARKMOONCHI",
-          "url": "https://open.spotify.com/artist/1LIw1nom0dT1E99JFLINqh"
-        },
-        {
-          "name": "Wonwoo",
-          "url": "https://open.spotify.com/artist/4G2Rc8UO9dVp8nJs5fJH7f"
+          "name": "MOMOLAND",
+          "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
         }
       ],
-      "duration_ms": 253948,
-      "name": "The Story Of The Year (feat. Wonwoo)",
-      "url": "https://open.spotify.com/track/3r13xapjaH18CkefLlFtyj"
+      "duration_ms": 191426,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/1bc8AJGZcWin6rLbCpHXVq"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "I\u2019m not good at",
-        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
-      },
-      "artists": [
-        {
-          "name": "Mitty",
-          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "I\u2019m not good at",
-      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "Rainbow note",
         "url": "https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 197648,
       "name": "Line 1",
       "url": "https://open.spotify.com/track/3FKAwuyAYbuUI4jMTPfKQE"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "I\u2019m not good at",
+        "url": "https://open.spotify.com/album/7rTw76epZxmCpniX4WVDjc"
+      },
+      "artists": [
+        {
+          "name": "Mitty",
+          "url": "https://open.spotify.com/artist/1RyHoiUL5MomO7N7kzgZjQ"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "I\u2019m not good at",
+      "url": "https://open.spotify.com/track/0lpvVtvprYHA8L0uBYTFtS"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1327,6 +1327,22 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
+        "name": "Cristal Love",
+        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+      },
+      "artists": [
+        {
+          "name": "En Sokum",
+          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+        }
+      ],
+      "duration_ms": 217058,
+      "name": "Cristal Love",
+      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
         "name": "Forget You",
         "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Cristal Love",
-        "url": "https://open.spotify.com/album/5sIhEUT8XBrUpdIsFkXkjK"
+        "name": "Something",
+        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
       },
       "artists": [
         {
-          "name": "En Sokum",
-          "url": "https://open.spotify.com/artist/3RjGXbgDR40y0ZzZhCACfF"
+          "name": "KIM A REUM",
+          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
         }
       ],
-      "duration_ms": 217058,
-      "name": "Cristal Love",
-      "url": "https://open.spotify.com/track/056ve9qgYBqfAadX29x9ds"
+      "duration_ms": 280778,
+      "name": "Something",
+      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1379,22 +1395,6 @@
       "duration_ms": 194373,
       "name": "Love Note!",
       "url": "https://open.spotify.com/track/0NfXZxnw1e6HdEJzcoWVzF"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
-        "name": "Something",
-        "url": "https://open.spotify.com/album/64hw34kgQuqdjf5NidMHoo"
-      },
-      "artists": [
-        {
-          "name": "KIM A REUM",
-          "url": "https://open.spotify.com/artist/797zr1JFQLxAHNQEl9HKlp"
-        }
-      ],
-      "duration_ms": 280778,
-      "name": "Something",
-      "url": "https://open.spotify.com/track/6hsefiVeZtpyExvPcI1Rt3"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "summer blossom",
-        "url": "https://open.spotify.com/album/2o2I9habr191db2ke30BAx"
-      },
-      "artists": [
-        {
-          "name": "BehindtheMoon",
-          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
-        }
-      ],
-      "duration_ms": 208813,
-      "name": "summer blossom",
-      "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
-    },
-    {
-      "added_at": "2024-08-10 15:49:48",
-      "album": {
         "name": "play ground",
         "url": "https://open.spotify.com/album/0cpiWjhRpaenw6hqJBhSle"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 206583,
       "name": "Slide",
       "url": "https://open.spotify.com/track/09TYWKx7EhaAo4wrpFCpd4"
+    },
+    {
+      "added_at": "2024-08-10 15:49:48",
+      "album": {
+        "name": "summer blossom",
+        "url": "https://open.spotify.com/album/2o2I9habr191db2ke30BAx"
+      },
+      "artists": [
+        {
+          "name": "BehindtheMoon",
+          "url": "https://open.spotify.com/artist/4BHjuxRl1cKElPbo12BODO"
+        }
+      ],
+      "duration_ms": 208813,
+      "name": "summer blossom",
+      "url": "https://open.spotify.com/track/3ORowtJPiXrdd42trQVnAH"
     },
     {
       "added_at": "2024-08-10 15:49:48",
@@ -1679,18 +1679,18 @@
     {
       "added_at": "2024-08-10 15:49:48",
       "album": {
-        "name": "Embracing",
-        "url": "https://open.spotify.com/album/7Bkkj3Tj5I2fGHH0KgwXYD"
+        "name": "LOVE SEEKER",
+        "url": "https://open.spotify.com/album/28G2KFtO10rs5ohSIuNdTb"
       },
       "artists": [
         {
-          "name": "The Stray",
-          "url": "https://open.spotify.com/artist/7CedIKpt1GTubqlwD149d6"
+          "name": "JD",
+          "url": "https://open.spotify.com/artist/6BJ76jC5b2bwoRVKrJg2qW"
         }
       ],
-      "duration_ms": 202426,
-      "name": "Embracing",
-      "url": "https://open.spotify.com/track/5Waqzt9QtbAh7MzuZOC01q"
+      "duration_ms": 206240,
+      "name": "LOVE SEEKER",
+      "url": "https://open.spotify.com/track/35lDSBBNjB8chnTjMrmzYQ"
     }
   ],
   "unique_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",

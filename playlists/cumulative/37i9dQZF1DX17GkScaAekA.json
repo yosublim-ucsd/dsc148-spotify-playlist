@@ -49,6 +49,28 @@
     },
     {
       "album": {
+        "name": "Chopin: Preludes Op.28",
+        "url": "https://open.spotify.com/album/3IMD38I0EOZnZ7xz8N0hqX"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Maurizio Pollini",
+          "url": "https://open.spotify.com/artist/2VIdKQmRHnWofsR4odfFOh"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120426,
+      "name": "24 Pr\u00e9ludes, Op. 28: 4. In E Minor - 1974 Recording",
+      "url": "https://open.spotify.com/track/2bgJtH1MgEV7CgaU3aDYAk"
+    },
+    {
+      "album": {
         "name": "Chopin: 26 Preludes",
         "url": "https://open.spotify.com/album/3baJOyeM5b3t8CoOOeRKH6"
       },
@@ -326,6 +348,28 @@
       "duration_ms": 251642,
       "name": "And Some Will Fall - Edit",
       "url": "https://open.spotify.com/track/3zhI27rwuBWsh1LX4a1UF9"
+    },
+    {
+      "album": {
+        "name": "War & Peace (Original Soundtrack by Martin Phipps)",
+        "url": "https://open.spotify.com/album/783EdYKCbDqS0I6TrCGCnl"
+      },
+      "artists": [
+        {
+          "name": "Martin Phipps",
+          "url": "https://open.spotify.com/artist/5ukRxzaJiJLe6khkJeIHOn"
+        },
+        {
+          "name": "BBC National Orchestra Of Wales",
+          "url": "https://open.spotify.com/artist/1fhEh9FpKs42GFeqerlBUf"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199012,
+      "name": "Andrei",
+      "url": "https://open.spotify.com/track/3FuIwtiMNisauMhKOdmPjO"
     },
     {
       "album": {

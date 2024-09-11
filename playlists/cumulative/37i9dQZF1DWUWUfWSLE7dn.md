@@ -4,7 +4,7 @@
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-168 songs - 7 hr 58 min
+169 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Close Friend](https://open.spotify.com/track/6e9OGvs2eyNWlJWoGBpabH) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2) | [Fantastic Beasts and Where to Find Them \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0eEZX45VOaWms7TTjVn7dQ) | 1:51 | 2022-11-08 |  |
 | [A King's Sadness](https://open.spotify.com/track/35kpiigbRx8E3LL1ayRpnC) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [The Tale Of Despereaux \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4VthH60GXdvR7Y6FtkCiDb) | 2:00 | 2022-11-08 |  |
 | [A Time for us \- From "Romeo and Juliet"](https://open.spotify.com/track/6ptRBpwCgFApJ4wUl7FJm3) | [La Brea String Section](https://open.spotify.com/artist/5lmdoRvaahCuAxehsBDpH4) | [Chi Mai](https://open.spotify.com/album/2h1nRHyChouLMvQhHgykK6) | 3:35 | 2022-03-09 | 2022-11-09 |
+| [A Window to the Past](https://open.spotify.com/track/1PPTlPJqKuL0fdoTmzwXJy) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack](https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq) | 3:54 | 2024-09-10 |  |
 | [Abendruhe](https://open.spotify.com/track/78rnp2gjXUMTxTCL546pWY) | [Nikolas Ricard](https://open.spotify.com/artist/1r72qpS4rK1Sq1TvRxi3rf) | [Zauchensee](https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay) | 2:48 | 2022-06-03 | 2022-11-09 |
 | [Adam and Meshell](https://open.spotify.com/track/2lkuN8OSDJ1EnVPPsHdMOc) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Adam and Meshell](https://open.spotify.com/album/1idAqCkBhL5Ijhp76BEwfX) | 2:47 | 2022-05-20 | 2022-11-09 |
 | [After the Storm](https://open.spotify.com/track/5NOfvyC7EmTHLlM8jCnDYr) | [HILMA](https://open.spotify.com/artist/5cfA35ok9YlWE032xcI423) | [Echo](https://open.spotify.com/album/4B2lXu2ZUFvgzJt6s7hPY1) | 2:56 | 2022-03-09 | 2022-11-09 |

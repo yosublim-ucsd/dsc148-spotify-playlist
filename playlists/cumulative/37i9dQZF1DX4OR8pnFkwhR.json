@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: jo0ji",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: muque",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -2222,6 +2222,24 @@
       "duration_ms": 177731,
       "name": "Businessman",
       "url": "https://open.spotify.com/track/4pFT8B1n09iD1gMhcZnGcf"
+    },
+    {
+      "album": {
+        "name": "BUTTERFLY TATTOO",
+        "url": "https://open.spotify.com/album/0q9re6owALL4WA0O6k6wrh"
+      },
+      "artists": [
+        {
+          "name": "Broken Kangaroo",
+          "url": "https://open.spotify.com/artist/2x88RJdG7aCmPZQAzlGUeo"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200397,
+      "name": "BUTTERFLY TATTOO",
+      "url": "https://open.spotify.com/track/0T7CTxbjaGj57xMrKNWqj5"
     },
     {
       "album": {
@@ -4981,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Feed My Mind",
+        "url": "https://open.spotify.com/album/1QqiaVDZ5pvB6jc2Bv6W8A"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211304,
+      "name": "Feed My Mind",
+      "url": "https://open.spotify.com/track/0DGBbmefobtk0K9bMcaENJ"
+    },
+    {
+      "album": {
         "name": "Remember Me?",
         "url": "https://open.spotify.com/album/6zhucaGBTNY1OdGkiZzNz2"
       },
@@ -7548,6 +7584,24 @@
       "duration_ms": 263000,
       "name": "ITSUKA",
       "url": "https://open.spotify.com/track/5VmFkO55CHVLQyx0aRlaHC"
+    },
+    {
+      "album": {
+        "name": "jabber",
+        "url": "https://open.spotify.com/album/2QgP71TV3kI5l1IY4B5hxK"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "jabber",
+      "url": "https://open.spotify.com/track/5ucYLXCSafpbzkaPKeXmWX"
     },
     {
       "album": {
@@ -10324,7 +10378,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 158500,
       "name": "nevermind",
       "url": "https://open.spotify.com/track/0CRbc6n3eHpJNr5Xy97IX1"
@@ -10776,7 +10830,7 @@
       ],
       "date_added": "2024-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 157951,
       "name": "nonfiction",
       "url": "https://open.spotify.com/track/5yr4AGgoQCpuJggiZ5vllq"
@@ -13463,6 +13517,24 @@
     },
     {
       "album": {
+        "name": "Shooting Star",
+        "url": "https://open.spotify.com/album/6Vxap6Jr3WVOQFzgsJXX78"
+      },
+      "artists": [
+        {
+          "name": "Deep Sea Diving Club",
+          "url": "https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236336,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/3EG8mickfTehy0Gmeao2Qc"
+    },
+    {
+      "album": {
         "name": "short short",
         "url": "https://open.spotify.com/album/2vT5XBZqx4iOmzqk7vRsuK"
       },
@@ -16114,7 +16186,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 121494,
       "name": "Twelve",
       "url": "https://open.spotify.com/track/0EqP8DJyPL1V65UWrSlgCz"
@@ -17304,6 +17376,24 @@
       "duration_ms": 162000,
       "name": "YOU & PURE",
       "url": "https://open.spotify.com/track/6R4zo0vwf2GYo8j8EwwiJK"
+    },
+    {
+      "album": {
+        "name": "you left the story of my life",
+        "url": "https://open.spotify.com/album/6sjj56JBEsHR0qGKdQe4Ic"
+      },
+      "artists": [
+        {
+          "name": "swetty",
+          "url": "https://open.spotify.com/artist/1upcOMqQPeePrD1BmZV6vm"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173124,
+      "name": "you left the story of my life",
+      "url": "https://open.spotify.com/track/1IOzjkapv2XcXl4KuuL7ho"
     },
     {
       "album": {
@@ -19014,7 +19104,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 215713,
       "name": "\u306a\u3093\u3068\u306a\u304f",
       "url": "https://open.spotify.com/track/4UDxmiKbNQhsvgqfHYegi0"
@@ -19598,7 +19688,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 219398,
       "name": "\u308f\u308c\u308f\u308c\u306e\u3057\u307e",
       "url": "https://open.spotify.com/track/7lMPVBtPdoxVENSe16W9Hn"
@@ -22678,7 +22768,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 217950,
       "name": "\u30df\u30e9\u30fc\u30dc\u30fc\u30eb\u3068\u591c\u306e\u8e0a\u308a\u5b50",
       "url": "https://open.spotify.com/track/1FzQR0FqkJ6doSnkztVvwp"
@@ -23742,6 +23832,24 @@
       "duration_ms": 194579,
       "name": "\u5149\u306e\u671d\u306b",
       "url": "https://open.spotify.com/track/64yK5MIMyh2m0esogmoXoT"
+    },
+    {
+      "album": {
+        "name": "\u5149\u3092\u8fce\u3048\u306b\u884c\u3053\u3046",
+        "url": "https://open.spotify.com/album/2CjIqVUiomIdPor6EB39dN"
+      },
+      "artists": [
+        {
+          "name": "Teikokukissa",
+          "url": "https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238910,
+      "name": "\u5149\u3092\u8fce\u3048\u306b\u884c\u3053\u3046",
+      "url": "https://open.spotify.com/track/0xqySIjnf29mmmt4YPCSJw"
     },
     {
       "album": {

@@ -4822,7 +4822,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 170681,
       "name": "Go!Go!Juliet",
       "url": "https://open.spotify.com/track/281Y0zXVKomWDRd6zvpdlh"
@@ -6434,6 +6434,24 @@
       "duration_ms": 253646,
       "name": "I\u2019m In A Groovie",
       "url": "https://open.spotify.com/track/61fr0A4gRpafYYdWMdtBwJ"
+    },
+    {
+      "album": {
+        "name": "jabber",
+        "url": "https://open.spotify.com/album/2QgP71TV3kI5l1IY4B5hxK"
+      },
+      "artists": [
+        {
+          "name": "muque",
+          "url": "https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183200,
+      "name": "jabber",
+      "url": "https://open.spotify.com/track/5ucYLXCSafpbzkaPKeXmWX"
     },
     {
       "album": {
@@ -16795,6 +16813,28 @@
     },
     {
       "album": {
+        "name": "\u3072\u307f\u3064\u3092\u541b\u306b",
+        "url": "https://open.spotify.com/album/3vsw7BXgqgk6IchukO6nvx"
+      },
+      "artists": [
+        {
+          "name": "GLIM SPANKY",
+          "url": "https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig"
+        },
+        {
+          "name": "\u82b1\u8b5c",
+          "url": "https://open.spotify.com/artist/2c32JruIkUyfdycHmhIph4"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241000,
+      "name": "\u3072\u307f\u3064\u3092\u541b\u306b",
+      "url": "https://open.spotify.com/track/4PP9DNyM8McDnnysHM6pTK"
+    },
+    {
+      "album": {
         "name": "\u3072\u3089\u3044\u3066",
         "url": "https://open.spotify.com/album/5S7hAsUSF61UTreK80j5Ze"
       },
@@ -23389,6 +23429,24 @@
     },
     {
       "album": {
+        "name": "\u4ed5\u4e8b",
+        "url": "https://open.spotify.com/album/5akDksBg6qMRNGzfZikEUc"
+      },
+      "artists": [
+        {
+          "name": "Gestalt Girl",
+          "url": "https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u4ed5\u4e8b",
+      "url": "https://open.spotify.com/track/4wcemwAdipLH6EzEskGXIC"
+    },
+    {
+      "album": {
         "name": "\u4f1a\u3044\u305f\u304f\u306a\u3063\u3066\u3001\u98db\u3093\u3060\u30d0\u30a4\u30c8",
         "url": "https://open.spotify.com/album/4lx6wgb1j0KwJSlbWn6yEg"
       },
@@ -25202,7 +25260,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 258133,
       "name": "\u5acc\u3044\u306b\u306a\u3063\u3061\u3083\u3046\u3088",
       "url": "https://open.spotify.com/track/55Omjk9mCRO6X3DrhQRYAJ"
@@ -29598,7 +29656,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 194000,
       "name": "\u8703\u6c17\u697c",
       "url": "https://open.spotify.com/track/5uKZfmX2Bel2rlWyuKvpSe"

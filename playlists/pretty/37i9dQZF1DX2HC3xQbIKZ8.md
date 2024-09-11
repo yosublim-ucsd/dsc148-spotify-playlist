@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 
 > Reggae, roots and dub\. Relax, you're on island time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,436 likes - 103 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,449 likes - 103 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2HC3xQbIKZ8.md) - [plain]
 | 44 | [I'm Home](https://open.spotify.com/track/0MV2H01BybDxm00tTSOFTS) | [1 Drop Nation](https://open.spotify.com/artist/1himDdDI4oiR6xf63AxOKh) | [I'm Home](https://open.spotify.com/album/62XQ2Z2W7l8uhERBDC7Dhb) | 3:38 |
 | 45 | [A Little Bit More](https://open.spotify.com/track/00eJYYLj3L2Mr2Nl1a9J02) | [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [A Little Bit More](https://open.spotify.com/album/2mG6jpLEZKR0awrVeZNflg) | 3:34 |
 | 46 | [Take It Away](https://open.spotify.com/track/2xHZ0R5LYEbD18FOTjO7dO) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Take It Away](https://open.spotify.com/album/6IUZa6lFsU0rSCu1FYV7gL) | 3:32 |
-| 47 | [Beautiful](https://open.spotify.com/track/6dbsWJKOVd9u7RoZhiRKKt) | [J Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Beautiful](https://open.spotify.com/album/20gMAxDx4XqQGAbCYnB2u1) | 3:54 |
+| 47 | [Beautiful](https://open.spotify.com/track/6dbsWJKOVd9u7RoZhiRKKt) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Beautiful](https://open.spotify.com/album/20gMAxDx4XqQGAbCYnB2u1) | 3:54 |
 | 48 | [Island Time](https://open.spotify.com/track/4X1m9Nt7CtIY4loF6A52Ms) | [Rei](https://open.spotify.com/artist/2DM5LlJaApG5igeJrHJc85), [Mikey Mayz](https://open.spotify.com/artist/6AEfnpuztTZIwyy7fViTcy) | [Island Time](https://open.spotify.com/album/2HK1aULqZdRgxMmWJALHi9) | 3:17 |
 | 49 | [Everywhere I Go](https://open.spotify.com/track/3WJeD93DKPKn7Gd7k2B1DW) | [Tobias](https://open.spotify.com/artist/7rRC4fXWvwnQXuudPlqkqP) | [Everywhere I Go](https://open.spotify.com/album/1mxEIPvyBlQpowlC8n4IVd) | 3:40 |
 | 50 | [Rooftop Party](https://open.spotify.com/track/5DPMbnzyYeATCfuwuyAv2X) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Rooftop Party](https://open.spotify.com/album/4wUrSdPQZNtXj1sYSNu80G) | 3:43 |
 | 51 | [Tū mai te reo](https://open.spotify.com/track/5fO1dKbtYwOruYrij4SsNT) | [TOHU](https://open.spotify.com/artist/5oUP1Mu9KCC1DqMTGs7zMk) | [Tū mai te reo](https://open.spotify.com/album/3LBfpVKNeotPrUrskaGTc0) | 4:03 |
 | 52 | [Otherside](https://open.spotify.com/track/55vUueIJ1D5zgMqQzAUxjw) | [Valley Kids](https://open.spotify.com/artist/2ICjmWYEED30C1Wc7Et53T) | [Otherside](https://open.spotify.com/album/7c3HBSx949vQO3jnFQgbCf) | 3:44 |
 | 53 | [E Leai Seisi E Tonu I Lenei Olaga](https://open.spotify.com/track/3MJ1bEZO8M6HiPE0TINZwh) | [Sammy Atoa](https://open.spotify.com/artist/7vRrKe1XWwhLqhM4XMyCxD) | [E Leai Seisi E Tonu I Lenei Olaga](https://open.spotify.com/album/4LnW0Ro3VAoGUdtEO5PXyz) | 4:08 |
-| 54 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [J Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 |
+| 54 | [Slow Up](https://open.spotify.com/track/6INwzydOIayqZGXtr732YW) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz), [Tomorrow People](https://open.spotify.com/artist/06pkUJtvwH93XlSdc0RAOY) | [Slow Up](https://open.spotify.com/album/3nPzDSC3Jx9gmLblpzZtrx) | 3:39 |
 | 55 | [Prince Charming](https://open.spotify.com/track/06goB8fnjdVuCuyDmgTX3F) | [Rebel Souljahz](https://open.spotify.com/artist/6DW0QgM048WZ1eDJfq9ZhS) | [Prince Charming](https://open.spotify.com/album/6hrHPCTTR3Dh1iaYBnw9ax) | 4:09 |
 | 56 | [NEVER](https://open.spotify.com/track/2ck3ktp70iez3oKiLxyIA5) | [Swiss](https://open.spotify.com/artist/3iRQU5nfA9uLRPgmXXhbCy), [Junior Soqeta](https://open.spotify.com/artist/1bJTmjgUdH1inz5cCpsOUA), [Folau](https://open.spotify.com/artist/0jj9Os8Krjis4OFaps08Km) | [NEVER \(REMIX\)](https://open.spotify.com/album/2V9Pt2F4G0gXBP4qTJvNpz) | 3:34 |
 | 57 | [Tell me you're Serious](https://open.spotify.com/track/6jOI0CKp4Tq63zLASXTiQa) | [NLC](https://open.spotify.com/artist/3TqJF164i0btEXB3SskiLf) | [Tell me you're Serious](https://open.spotify.com/album/2aCFPHIU8VhmvnKjJVx2DE) | 3:34 |

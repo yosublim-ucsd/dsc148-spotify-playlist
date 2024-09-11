@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: YUNGIN, Jay Park\(박재범\)\)
 
-1,307 songs - 2 day 22 hr 53 min
+1,308 songs - 2 day 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1166,6 +1166,7 @@
 | [Trust Yourself](https://open.spotify.com/track/0Slju470ZWMOTxfN3wHIxm) | [Balming Tiger](https://open.spotify.com/artist/6vbKIm1WsvhMMDpthYONc1) | [Trust Yourself](https://open.spotify.com/album/7wlBNw7Wyq6xKJavMaiIw4) | 2:53 | 2023-02-01 | 2023-03-28 |
 | [TTFU](https://open.spotify.com/track/2Ijm5CQ4Y24lS0Zi7oK6hj) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [TTFU](https://open.spotify.com/album/5K6d8lB7dP9CNXv9LPR1nN) | 3:40 | 2022-09-19 | 2023-03-25 |
 | [TTM](https://open.spotify.com/track/0lLvhNSlV5homLbgJ5SBvM) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v) | [TTM](https://open.spotify.com/album/4ErAS9ZcC2UPWyX9cSGFi4) | 3:17 | 2023-04-27 | 2023-09-08 |
+| [Turbulence](https://open.spotify.com/track/6cFn46erk6PtVxU1MUmFB0) | [YUNGIN](https://open.spotify.com/artist/6mhw1MMBwP4wlOmYM3x9bp), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [JUSTHIS](https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3) | [Did You Know?, Pt\. 1](https://open.spotify.com/album/6pGgkSjHZ4pyh9Tc0b9vom) | 3:39 | 2024-09-10 |  |
 | [Turn Up! \(Feat\. M1NU, Veinyfl, Swervy, Layone, Young Ji Lee, Lil Nekh, D.Ark\)](https://open.spotify.com/track/6DRXvIUvbUfa1RKQ2YUsl4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Veinyfl](https://open.spotify.com/artist/7zVfEU7GNOsAKr6r7w96Dj), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC), [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ), [Young Ji Lee](https://open.spotify.com/artist/3dbdqj6vFLewW1Mv0U0omC), [Touch the Sky](https://open.spotify.com/artist/5DimH6eLRBfesct7V25Juk), [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j) | ["SIKE"!](https://open.spotify.com/album/4cuZ0gQ51TtaNLs3uwqAKs) | 6:44 | 2021-12-18 | 2022-06-20 |
 | [Turns Out \(feat\. foggyatthebottom\)](https://open.spotify.com/track/6rn5H8WeT0jxbC5phicnyV) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO), [Foggyatthebottom](https://open.spotify.com/artist/3fXHHmLxAY43pSTlWnbYd7) | [Turns Out \(feat\. foggyatthebottom\)](https://open.spotify.com/album/6kRRDkGYgOcreVn2W4x3YG) | 3:41 | 2023-08-17 | 2023-11-16 |
 | [Turtle \(Feat\. CHUNG HA\)](https://open.spotify.com/track/4EDyTgFsthqY9Kgqkwm2LQ) | [BLASÉ](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Debugging](https://open.spotify.com/album/1mKifxJ2tQAlcGj4Kfwugz) | 2:23 | 2024-05-21 |  |

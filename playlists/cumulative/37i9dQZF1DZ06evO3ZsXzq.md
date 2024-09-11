@@ -2,7 +2,7 @@
 
 ### [This Is Harry Styles \(2\)](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3ZsXzq)
 
-> This Is Harry Styles\. Los temas esenciales, todos en una lista.
+> This is Harry Styles\. Track\-track unggulan, semuanya dalam satu playlist.
 
 30 songs - 1 hr 47 min
 

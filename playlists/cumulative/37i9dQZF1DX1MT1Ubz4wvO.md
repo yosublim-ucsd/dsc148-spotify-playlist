@@ -4,7 +4,7 @@
 
 > Todas las semanas los nuevos lanzamientos de Rock en español, con Dum Chica en portada.
 
-3,160 songs - 7 day 15 hr 41 min
+3,161 songs - 7 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2197,6 +2197,7 @@
 | [Par Mil \- En Vivo](https://open.spotify.com/track/5uKSOIW61UtM1VD8nzsIqe) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [Tilcara: El Recital](https://open.spotify.com/album/6SdhYfsSNFXe0cNgMEdkgR) | 4:12 | 2022-09-09 | 2022-09-17 |
 | [Para D Mamar](https://open.spotify.com/track/7CNcDCATnNfCjspC365SYM) | [Farol 116](https://open.spotify.com/artist/0wc3bvjIQbovCDGZqYiNtD) | [Para D Mamar](https://open.spotify.com/album/4bS2FsGNTrBczooc9XyTEU) | 3:12 | 2024-02-02 | 2024-02-17 |
 | [Para dejarme ir](https://open.spotify.com/track/4SEyqO3z8hPFirTazUx8Wp) | [No somos poetas](https://open.spotify.com/artist/7nZOqMGqCJZksdhgCJ0YSR) | [Para dejarme ir](https://open.spotify.com/album/1e6aFheHArXg1SQm0z8UqY) | 3:03 | 2024-08-30 |  |
+| [Para Elisa](https://open.spotify.com/track/3oSfPOgansftRA56i0tcqJ) | [Valdo Rodriguez](https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4) | [Para Elisa](https://open.spotify.com/album/2HxWprK3RZ3UyC575hmGHR) | 2:33 | 2024-09-06 |  |
 | [Para Estar](https://open.spotify.com/track/2VQJKuneBaDNwjBHbWn5FK) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [A Madrugar](https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc) | 4:32 | 2023-08-25 | 2023-09-02 |
 | [Para los Pájaros](https://open.spotify.com/track/21i2D8lKOnfT7vOJx5D8z5) | [Sanje](https://open.spotify.com/artist/5GpUWwhWjWHqGVbHMF6OPx) | [Para los Pájaros / Carlos](https://open.spotify.com/album/6fwq1M7IulFPZ0lbn4BB5v) | 4:28 | 2024-07-05 | 2024-07-13 |
 | [Para Olvidarte](https://open.spotify.com/track/6xqbFlMlRAgdtSuUtmXP8w) | [Wayra Iglesias](https://open.spotify.com/artist/1N7yGYBWACnuv2xw0QGdvw) | [Para Olvidarte](https://open.spotify.com/album/7LkrTKmFzy23jynymNjZLS) | 3:05 | 2024-05-10 | 2024-05-25 |

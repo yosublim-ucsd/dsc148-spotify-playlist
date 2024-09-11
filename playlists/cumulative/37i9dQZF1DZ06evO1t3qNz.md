@@ -2,7 +2,7 @@
 
 ### [This Is Jessie Murph](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t3qNz)
 
-> This Is Jessie Murph\. Los temas esenciales, todos en una lista.
+> This is Jessie Murph\. The essential tracks, all in one playlist.
 
 26 songs - 1 hr 14 min
 

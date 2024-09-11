@@ -4,7 +4,7 @@
 
 > מאינדי ועד רוק, קבלו את השירים היפים של הסצנה האלטרנטיבית בישראל\. קאבר: אלון עדר
 
-104 songs - 6 hr 21 min
+105 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Not in Vain \- In A Box III Version](https://open.spotify.com/track/5Yc2fKkRskvU7l2f8gRiHh) | [Asaf Avidan](https://open.spotify.com/artist/7t51dSX8ZkKC7VoKRd0lME) | [In A Box III: Acoustic Recordings](https://open.spotify.com/album/28FLk4QDTvSQWJoSS6NNoM) | 4:44 | 2024-06-27 | 2024-07-27 |
 | [Nouvelle vie](https://open.spotify.com/track/7iGYmHYKpyjVvTKy7URgwO) | [PA'AM](https://open.spotify.com/artist/39Xp68AEeQ9Ykb02vMcjP0), [Odelly](https://open.spotify.com/artist/7hUrMnwET3LXeTpvpMUjZx) | [Nouvelle vie](https://open.spotify.com/album/0FA6jayNcSOoO1NTQWZ9zX) | 2:50 | 2024-08-01 |  |
 | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/track/3eUNNhJ8zuNxF2ZTu6FnXO) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [PC People \(feat\. ROUSSO\)](https://open.spotify.com/album/4n49Tf6fRYuJgsrFgRiEjc) | 2:59 | 2024-06-27 |  |
-| [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 | 2024-06-27 |  |
+| [Petrified](https://open.spotify.com/track/04OmvsYNDRNt0CD9Y1rbyV) | [David Lerner](https://open.spotify.com/artist/5hAcdkd4JZrGKxYaZJFHlR) | [Petrified](https://open.spotify.com/album/2t8Ve4IgJFdeiemjIyXxwP) | 4:12 | 2024-06-27 | 2024-09-11 |
 | [Shot Shot Cherry](https://open.spotify.com/track/2YtGRSOyUBzvmavhAV73XD) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [Shot Shot Cherry](https://open.spotify.com/album/5S047vXGgxCioGnpxQFuhe) | 2:32 | 2024-06-27 | 2024-07-27 |
 | [Smile Again](https://open.spotify.com/track/1lQjJ8jEgRtlvHWK16JyER) | [Aviram](https://open.spotify.com/artist/7qRREBnshFcjRrO934sLF8) | [You Are What You Do](https://open.spotify.com/album/2zpV0nJZs5H56fETTAynlx) | 3:20 | 2024-07-11 |  |
 | [Spinnin'](https://open.spotify.com/track/2xWPDIps7ger8WRUE84bg9) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Spinnin'](https://open.spotify.com/album/4CRfnrDgWkCNq4jO08YzQt) | 3:17 | 2024-07-11 |  |
@@ -49,7 +49,7 @@
 | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/track/6icmYzENBRjRO5AKIP2kBz) | [The Backyard](https://open.spotify.com/artist/52m4avwDcrat4zSI2UljXB) | [האם נדע להיוולד שוב מחדש](https://open.spotify.com/album/5rzvnCtCEJk4pGsxx8OkFL) | 3:46 | 2024-06-27 |  |
 | [הדבר האמיתי](https://open.spotify.com/track/424f6LZLl4MpDRBFhCJVJw) | [Meirav Hellinger](https://open.spotify.com/artist/5I33atw5kt4yjIVMgvBBgy), [דניאל ברזילאי](https://open.spotify.com/artist/5iklnNC2aChGQXXhheEyzF) | [הדבר האמיתי](https://open.spotify.com/album/6pfsgNjqvF5SvLbpQv9xil) | 3:27 | 2024-08-22 |  |
 | [הדרך היא בית](https://open.spotify.com/track/7KgsAanEew4U8CobJwXj9c) | [Sun Tailor](https://open.spotify.com/artist/66OcrfmtH2NhgKsGdkkbAi) | [הדרך היא בית](https://open.spotify.com/album/6LDnRZK48a7sDwoV9R7wCc) | 3:35 | 2024-07-25 | 2024-08-09 |
-| [החיים שלי פיגוע יפיפה](https://open.spotify.com/track/6mJzamOGdc5LmVNpCRuQ5X) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [החיים שלי פיגוע יפיפה](https://open.spotify.com/album/0QXun3wB20gm0vOZ0KfGWZ) | 4:49 | 2024-08-15 | 2024-09-08 |
+| [החיים שלי פיגוע יפיפה](https://open.spotify.com/track/6mJzamOGdc5LmVNpCRuQ5X) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll) | [החיים שלי פיגוע יפיפה](https://open.spotify.com/album/0QXun3wB20gm0vOZ0KfGWZ) | 4:49 | 2024-08-15 |  |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/0GRj6FvKdaMTNqxStUGHHM) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [מתקרבים הכוכבים](https://open.spotify.com/album/0yYCbp4oZSPFWsqPA3dYZ9) | 3:03 | 2024-07-25 | 2024-08-23 |
 | [היא תמשיך גם בלעדיך](https://open.spotify.com/track/63MZV8fBPGsf7ub7ZadhpX) | [Alon Oleartchik](https://open.spotify.com/artist/7oXPj4DkjAxME8ExDAfwJP) | [היא תמשיך גם בלעדיך](https://open.spotify.com/album/4Cwr2wOmmGgmcqI74ZBe0g) | 3:03 | 2024-07-11 | 2024-07-27 |
 | [היי אחות](https://open.spotify.com/track/5eGL1KCy7mSLzcuDP1zoIn) | [Aya Zahavi Feiglin](https://open.spotify.com/artist/5OTBHykSuThA0RdYZTvDa2) | [היי אחות](https://open.spotify.com/album/0FYYI6vfeFR5ZkWpN8fkKB) | 3:49 | 2024-07-25 |  |
@@ -78,6 +78,7 @@
 | [לא לבד](https://open.spotify.com/track/1q9u5uDVBZzvjgTMbmE29i) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [לא לבד](https://open.spotify.com/album/10Sp1KBx5ZOfJxmdBEnUaW) | 4:00 | 2024-06-27 | 2024-07-13 |
 | [לב](https://open.spotify.com/track/2kxiveWK7YFaSdecpSwCrP) | [יוגב גלוסמן](https://open.spotify.com/artist/59PEfBoqGJwGqZ6G4zv0vO) | [לב](https://open.spotify.com/album/4gaVOXO7NvJwgXhQQ2SIRj) | 3:45 | 2024-06-27 | 2024-08-10 |
 | [לבזבז לך את הזמן](https://open.spotify.com/track/1wbh5gf9fboGQAaYy35wav) | [Shlomi Shaban](https://open.spotify.com/artist/4eIu7kgUUZzOgx6goRqEQX) | [בית פתוח חלק ב'](https://open.spotify.com/album/21absbNyeEXykXGFsK62mP) | 3:16 | 2024-07-25 | 2024-08-05 |
+| [להיות לבד \- בארבי Live](https://open.spotify.com/track/4IUuctG736RauTKMbWCP3T) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [שירים מדלת אל דלת \- בארבי Live](https://open.spotify.com/album/3nYrAdAwkgMH3GVLuksRCp) | 3:40 | 2024-09-05 |  |
 | [לחיות](https://open.spotify.com/track/57AB4nVaoAcCE11UBwOuhB) | [Daniela Spector](https://open.spotify.com/artist/6kO1d5Ht9hz9dbTgR1vF3W) | [לחיות](https://open.spotify.com/album/15e4Iu5sz7Efpn3yC51uCD) | 4:07 | 2024-06-27 | 2024-09-06 |
 | [לין](https://open.spotify.com/track/1gV2b28Mp7e6OLePab2P1x) | [Lola Marsh](https://open.spotify.com/artist/56UIK6wmbbxuQ6VA20vrWD) | [לין](https://open.spotify.com/album/5uYzUJhOtV3bLeKcgxF0H4) | 3:15 | 2024-06-27 |  |
 | [מגדל המים](https://open.spotify.com/track/7FSNvre21CIecc08tKMOD6) | [Jane Bordeaux](https://open.spotify.com/artist/2a76fsDcTl6A43zwaFNPr4) | [מגדל המים](https://open.spotify.com/album/7E0IokiZVTP7pkOGOJYaJU) | 3:47 | 2024-06-27 |  |
@@ -99,7 +100,7 @@
 | [עולם שלי](https://open.spotify.com/track/1qH5ltPT9wrJzd5lzxaODM) | [Alma Gov](https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv) | [עולם שלי](https://open.spotify.com/album/7DEvEtOMZIcNVfWN3p84w1) | 3:25 | 2024-07-18 |  |
 | [עכשיו זה ברור](https://open.spotify.com/track/73Jk7n3oRhHQwGbqZaGhPz) | [Gil Bar Hadas](https://open.spotify.com/artist/3Y9inlj5vz1rd0vzgw6tCJ) | [עכשיו זה ברור](https://open.spotify.com/album/4h5okaeqvmjLvXOraI1JxI) | 3:38 | 2024-06-27 |  |
 | [עמוק באדמה](https://open.spotify.com/track/311NxddQ4FbZxuhrnxBflc) | [Patrick Sebag](https://open.spotify.com/artist/7HVUcMJ2KO1lmcscDae1LC), [Erez Lev Ari](https://open.spotify.com/artist/6ixcPs7utvM6GEIY5Lq8HN) | [עמוק באדמה](https://open.spotify.com/album/3QzgiDKlOlWPOfY8oRIdhA) | 3:17 | 2024-07-11 | 2024-08-16 |
-| [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 | 2024-06-27 |  |
+| [עת לאהוב](https://open.spotify.com/track/1dK2qSifRQNbHlhgImIstf) | [Dudu Tassa](https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz) | [עת לאהוב](https://open.spotify.com/album/2EN0t3s8obVmls1bxVbcHO) | 3:08 | 2024-06-27 | 2024-09-11 |
 | [פצע על פצע](https://open.spotify.com/track/5kY9Jbhn1BxIs9wqfzucFQ) | [Yaya](https://open.spotify.com/artist/5TQTVs4aYHC16RG23Zd2c3), [Gal De Paz](https://open.spotify.com/artist/77eDggSxjTCYZseu4fey1x) | [פצע על פצע](https://open.spotify.com/album/0Vrm96p9OoFluFInH3eFsx) | 3:32 | 2024-06-27 | 2024-07-05 |
 | [צ'ופ צ'ופ](https://open.spotify.com/track/6EC5YNG81bMVfxX56u0j9T) | [סלון קורטינה](https://open.spotify.com/artist/4c2Lkr9QFX5ifjlLKgFd5o), [J.Lamotta](https://open.spotify.com/artist/76O0DRobXGao078KT0xci8) | [צ'ופ צ'ופ](https://open.spotify.com/album/5ZciqquzRfFvGev2NZhwgs) | 2:37 | 2024-07-04 | 2024-08-02 |
 | [שוב לא יכולתי לישון](https://open.spotify.com/track/6PoH7ek2VwXzCRFkxKWdYw) | [Alon Eder](https://open.spotify.com/artist/5jPfVWcLzappQ4m3G2U6Ll), [Eder 2 Lipschitz](https://open.spotify.com/artist/2omk6v84kD0vX9TaAZ7jR2), [יהודה עדר](https://open.spotify.com/artist/5LhqNdFK1YXr8qcf7is7Kh), [הרי ליפשיץ](https://open.spotify.com/artist/3JygULwEzXNWvwWyhJMP5s) | [שוב לא יכולתי לישון](https://open.spotify.com/album/43mFIYYPdf1tqmpqYA1wpM) | 3:10 | 2024-06-27 |  |

@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-124 songs - 12 hr 49 min
+125 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [Sonno Side A \(Live\)](https://open.spotify.com/track/2c5ROKD75qsYLeIuC1zVzC) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno: Nuit Noire Tape \(Live\)](https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb) | 21:15 | 2024-08-18 |  |
 | [Sonno Side B \(Live\)](https://open.spotify.com/track/0O7qkW2GZCdSmIDNqlykBH) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno: Nuit Noire Tape \(Live\)](https://open.spotify.com/album/1Y1qV9sLkSaZlwnZj98Kdb) | 22:16 | 2024-08-18 |  |
 | [Space Channel](https://open.spotify.com/track/0iNQjPzuYEexBAsPSsKvnO) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 1:42 | 2022-05-29 |  |
-| [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 | 2023-12-26 |  |
+| [Spettro I](https://open.spotify.com/track/3DG4yCO1Js4vwhpzTnzqVX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:38 | 2023-12-26 | 2024-09-11 |
 | [Spettro II](https://open.spotify.com/track/4fOacmPnsko7toPFVFHrgF) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:08 | 2023-12-29 | 2024-07-31 |
 | [Spettro III](https://open.spotify.com/track/4dfKvKF398PyHCayVWUJBw) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 8:28 | 2023-12-26 | 2024-09-08 |
 | [Spettro IV](https://open.spotify.com/track/7ayAahQbikfOt4KQ3lE9n6) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Spettri](https://open.spotify.com/album/3FfEqoVIZUSQXHU2QKNuPP) | 7:28 | 2023-12-29 | 2024-08-18 |
@@ -128,6 +128,7 @@
 | [VERDE](https://open.spotify.com/track/5ktQ1ULTNMSHFktFzxuQcl) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 5:02 | 2022-05-29 |  |
 | [Vincere](https://open.spotify.com/track/2J1H4mInsooNYoukRPFj4l) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:27 | 2024-04-30 |  |
 | [Vincere](https://open.spotify.com/track/2bCJY4qvQtBKa6r47i2vem) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Vincere](https://open.spotify.com/album/0QOiZ7kmSuZ1FwsDYxYr93) | 7:27 | 2022-05-29 | 2024-04-30 |
+| [Voltaggio solitario](https://open.spotify.com/track/3pWP6Ghd0iN7srBvxtiHqv) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Sonno](https://open.spotify.com/album/6fXNm5RvqVEMi2X7368caX) | 3:58 | 2024-09-11 |  |
 | [Walk with the Wolves](https://open.spotify.com/track/5kqqAPXLsolWJ5lnIIejbV) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:31 | 2023-08-31 | 2023-09-16 |
 | [Water](https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 8:47 | 2022-05-30 |  |
 | [Winds in the Misty Ridge](https://open.spotify.com/track/3RmhZyWCQHnHBM2itlcMF4) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:13 | 2022-06-05 | 2024-08-27 |

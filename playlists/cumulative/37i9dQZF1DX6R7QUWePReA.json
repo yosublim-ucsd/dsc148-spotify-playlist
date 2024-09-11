@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "Timeless heart-warming classics from 1940- 1980 for the holiday season.",
+  "description": "Timeless heart-warming classics from 1940- 1970 for the holiday season.",
   "name": "Christmas Classics",
   "tracks": [
     {
@@ -240,7 +240,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 169160,
       "name": "Christmas Dream",
       "url": "https://open.spotify.com/track/1PrhnQxWAVYikCHcieRQiy"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2022-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 728106,
       "name": "Christmas Medley: Joy To The World/Deck The Halls/O Come All Ye Faithful/Jingle Bells",
       "url": "https://open.spotify.com/track/73gbEonI6EtiPiqxcsN8DL"
@@ -1347,6 +1347,24 @@
     },
     {
       "album": {
+        "name": "Charles Brown Sings Christmas Songs",
+        "url": "https://open.spotify.com/album/7fyklcTMPrBRGkOivUwwCW"
+      },
+      "artists": [
+        {
+          "name": "Charles Brown",
+          "url": "https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169095,
+      "name": "Please Come Home For Christmas",
+      "url": "https://open.spotify.com/track/0cwealcvftIKDBFJh1X014"
+    },
+    {
+      "album": {
         "name": "Please Come Home for Christmas / Funky New Year (2013 Remaster)",
         "url": "https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5"
       },
@@ -1358,7 +1376,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 177440,
       "name": "Please Come Home for Christmas - 2013 Remaster",
       "url": "https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC"
@@ -1502,7 +1520,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 154640,
       "name": "Santa Claus Is Comin' to Town",
       "url": "https://open.spotify.com/track/6YeDjSHCDmJKgU8foiaruL"
@@ -1520,10 +1538,28 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 267600,
       "name": "Santa Claus Is Comin' to Town - Live at C.W. Post College, Greenvale, NY - December 1975",
       "url": "https://open.spotify.com/track/6s2wpWPFPAgKg2LXxi1Oee"
+    },
+    {
+      "album": {
+        "name": "Ultimate Christmas",
+        "url": "https://open.spotify.com/album/1gCLWt3kXk5kNTZdsx6P8a"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2024-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134826,
+      "name": "Santa Claus Is Coming To Town",
+      "url": "https://open.spotify.com/track/6syO6UTl8QiiWADJy3Uy2d"
     },
     {
       "album": {
@@ -1690,7 +1726,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 161160,
       "name": "Snow (with Percy Faith & His Orchestra)",
       "url": "https://open.spotify.com/track/6EAu25LT3JAlO585PFkLhB"
@@ -1798,7 +1834,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 105346,
       "name": "The Happiest Christmas Tree - 2009 Digital Remaster",
       "url": "https://open.spotify.com/track/4WN9xLkAeINLPLaoeZ9ZW9"
@@ -1980,7 +2016,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 65346,
       "name": "We Wish You A Merry Christmas",
       "url": "https://open.spotify.com/track/6h3MR7BSXsxUgypreO85Mp"
@@ -2056,7 +2092,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 223453,
       "name": "When a Child Is Born",
       "url": "https://open.spotify.com/track/0jXjTHqZVXhQSGUAvUbCvU"

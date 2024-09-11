@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 477200,
+  "num_followers": 477306,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "LOVERs PLAYBOOK",
         "url": "https://open.spotify.com/album/78UznjghWeYXMeN201KLtC"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 269242,
       "name": "THANK YOU 4 LOVIN\u2019 ME",
       "url": "https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2024-08-28 04:09:57",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "Raisa",
         "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 262746,
       "name": "Serba Salah",
       "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2024-08-28 04:09:57",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-08-28 04:09:57",
       "album": {
-        "name": "Harus Bahagia",
-        "url": "https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG"
-      },
-      "artists": [
-        {
-          "name": "Yura Yunita",
-          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
-        }
-      ],
-      "duration_ms": 173809,
-      "name": "Harus Bahagia",
-      "url": "https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY"
-    },
-    {
-      "added_at": "2024-08-28 04:09:57",
-      "album": {
         "name": "Sunggu Indah",
         "url": "https://open.spotify.com/album/4lsEBUgBu0KSVLxlQw4OyP"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 338880,
       "name": "Sunggu Indah",
       "url": "https://open.spotify.com/track/16dSPNURystMsZIIWqNE6B"
+    },
+    {
+      "added_at": "2024-08-28 04:09:57",
+      "album": {
+        "name": "Harus Bahagia",
+        "url": "https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG"
+      },
+      "artists": [
+        {
+          "name": "Yura Yunita",
+          "url": "https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio"
+        }
+      ],
+      "duration_ms": 173809,
+      "name": "Harus Bahagia",
+      "url": "https://open.spotify.com/track/6nPZx4xtBSX1x641ktitSY"
     },
     {
       "added_at": "2024-08-28 04:09:57",

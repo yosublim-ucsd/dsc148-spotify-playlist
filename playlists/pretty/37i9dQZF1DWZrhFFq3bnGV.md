@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,836 likes - 94 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,848 likes - 94 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZrhFFq3bnGV.md) - [plain]
 | 16 | [Music To My Soul \(Special\)](https://open.spotify.com/track/1YXlBYdTsy0pWvRHi9ScVF) | [Heyru](https://open.spotify.com/artist/1VLQWJyEb1apcDzhyOrmWH), [Fabiolous](https://open.spotify.com/artist/2HnIXtsVHBDu2PrB8f3nyz) | [Music To My Soul \(Special\)](https://open.spotify.com/album/1sd9LFjN1hqsinzdUFTC0G) | 4:43 |
 | 17 | [Nyomennyoh](https://open.spotify.com/track/3vbjE0uKesNplB2q37pLqr) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX) | [Etude](https://open.spotify.com/album/0TQFBksym24sKgT6KMsjEL) | 5:54 |
 | 18 | [Membumi](https://open.spotify.com/track/0TvmXKdVpjJtqVRzDlG9UA) | [5Petani](https://open.spotify.com/artist/2gcy19PBJyMIGP5avLkzCp), [Adeavery](https://open.spotify.com/artist/2LKa7eyIqxqTLgEvlzk1bl) | [Perjalanan](https://open.spotify.com/album/0P74BQZP32tDrGbYaHHeeb) | 4:27 |
-| 19 | [Enter The Forest](https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2) | [Achi Hardjakusumah](https://open.spotify.com/artist/4DHHEVXeggPQInQQCa7OJW), [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Vito Jr](https://open.spotify.com/artist/2aencawxeL7XEgaRjmNUYV), [Viandebas](https://open.spotify.com/artist/61G4WS8ioqfVTCktOQNvJF), [Kabul Oktavianus](https://open.spotify.com/artist/3JB0ctZ30YXBaFp475FxMr), [Housman Pranoto](https://open.spotify.com/artist/2cWhXmXb82NiU5ZJgeyMBf) | [Enter The Forest](https://open.spotify.com/album/37E5B9MPot8YmWWw8JyQ6c) | 4:42 |
+| 19 | [Enter The Forest](https://open.spotify.com/track/1igx6zG9HrUur1v0Xm8Bn2) | [Achi Hardjakusumah](https://open.spotify.com/artist/4DHHEVXeggPQInQQCa7OJW), [Ammir Gita](https://open.spotify.com/artist/1Tibn3fgyF89en7LbMX7No), [Vito Jr.](https://open.spotify.com/artist/0RXxMFheFjksSYzqJlSoqe), [Viandebas](https://open.spotify.com/artist/61G4WS8ioqfVTCktOQNvJF), [Kabul Oktavianus](https://open.spotify.com/artist/3JB0ctZ30YXBaFp475FxMr), [Housman Pranoto](https://open.spotify.com/artist/2cWhXmXb82NiU5ZJgeyMBf) | [Enter The Forest](https://open.spotify.com/album/37E5B9MPot8YmWWw8JyQ6c) | 4:42 |
 | 20 | [Layla](https://open.spotify.com/track/0c7K8PhzxpCpmKBGnMvTRS) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn) | [Layla](https://open.spotify.com/album/5efLFZQ6F0ThH0y4m7ux3g) | 2:45 |
 | 21 | [Primadona](https://open.spotify.com/track/21VAHk2V9XKkhsTT0LCyPI) | [Adikara](https://open.spotify.com/artist/4g69iZz2nk9El5Zf3ttiBN) | [Primadona](https://open.spotify.com/album/0UoR0p6c4Wr7iTBeKzDnRS) | 4:07 |
 | 22 | [Wanna Do](https://open.spotify.com/track/5orukLs2BbGTNROGzqviF1) | [Jordy Waelauruw](https://open.spotify.com/artist/3oECPG2Aqe2bo0LrcSJQ0H), [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Wanna Do](https://open.spotify.com/album/09xopQN6jbRdCZdgywTJ10) | 3:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a href="https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5?si=rkkz3xKqQTCfkmyCtuVXVQ">Joe Goddard</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,111 likes - 52 songs - 3 hr 26 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 67,120 likes - 52 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

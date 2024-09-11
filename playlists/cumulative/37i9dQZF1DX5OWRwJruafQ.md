@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-483 songs - 23 hr 4 min
+484 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [33](https://open.spotify.com/track/7JtCTnYXJvn2tcD5MmEjgQ) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [33](https://open.spotify.com/album/055Za6Wlf00WEYJefGjgxL) | 2:49 | 2024-01-11 |  |
 | [4 Days](https://open.spotify.com/track/4pQbBdYF0Q51WgpDNeYqP7) | [Ammy Gill](https://open.spotify.com/artist/5haYUb5jgBXUG4zVm6lp4Z) | [4 Days](https://open.spotify.com/album/7c9es6ncieiN3y3tGVyxPV) | 3:41 | 2024-01-27 | 2024-02-22 |
 | [45](https://open.spotify.com/track/5XnYIsiOHVKWx0pKCinsEP) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N) | [45](https://open.spotify.com/album/1GA6BkfiK0RKKdjgNFPPIt) | 2:26 | 2024-08-09 | 2024-08-23 |
-| [5 Raund](https://open.spotify.com/track/3CPhDJAUVVoXJ6AYv98grC) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [5 Raund](https://open.spotify.com/album/6EfljohQtKZhHwHOTpcmmy) | 3:00 | 2024-08-20 |  |
+| [5 Raund](https://open.spotify.com/track/3CPhDJAUVVoXJ6AYv98grC) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [5 Raund](https://open.spotify.com/album/6EfljohQtKZhHwHOTpcmmy) | 3:00 | 2024-08-20 | 2024-09-11 |
 | [65 Inch Ghodian](https://open.spotify.com/track/6wZzl3g6LhAk1ry6MoZnlx) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [65 Inch Ghodian](https://open.spotify.com/album/1Cr8qrPYfkbmvPcNVfdoeU) | 1:56 | 2023-03-29 | 2024-08-27 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2023-12-21 |  |
 | [8500](https://open.spotify.com/track/1HjXEP7AK1SrehhZ7wgOt7) | [Hammy Muzic](https://open.spotify.com/artist/7zzosAlsXxJJ5vXPymZZAj), [Skywar](https://open.spotify.com/artist/5GRF2OUN2zIW9MbSqrQETT) | [Auto Mode](https://open.spotify.com/album/1g2kiM7YojZsx7LpTA8Jat) | 2:08 | 2024-07-09 | 2024-07-19 |
@@ -49,6 +49,7 @@
 | [Att](https://open.spotify.com/track/56qSePm8XOkRVKb8u8avmN) | [Venom](https://open.spotify.com/artist/5lZ9zdkK3hlyU2m2WyoPDZ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Att](https://open.spotify.com/album/7vIksV0AHUeZNYWasymdPw) | 2:45 | 2024-07-26 | 2024-08-10 |
 | [Audition](https://open.spotify.com/track/0uAm3qTRs67by3FxhQTyQY) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Bangers](https://open.spotify.com/album/498Rnyy18ac5qqgoFv8HZz) | 2:15 | 2024-04-19 | 2024-05-04 |
 | [Award](https://open.spotify.com/track/5jTxpXe7Lav7oUdWYGzpPg) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Award](https://open.spotify.com/album/6BKaGsIy9fP46kMc9olq32) | 2:55 | 2023-08-21 | 2024-04-19 |
+| [Baapu](https://open.spotify.com/track/7fbXRNjwxEGOXZ3qKCqJoG) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q), [Laddi Chhajla](https://open.spotify.com/artist/4sMccimUuMKOjT3pgcYADP) | [Baapu](https://open.spotify.com/album/1JhvNWtLu5mRFkSViaDguT) | 2:40 | 2024-09-10 |  |
 | [Backbone](https://open.spotify.com/track/7crVv5ckSrKt4uRMNhzvPM) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [KR](https://open.spotify.com/artist/171hduWXUKyqmow0NKy4aM), [Mani Rai](https://open.spotify.com/artist/5eKDsKLXibdyzKpRkaZfY1) | [Backbone](https://open.spotify.com/album/1PDnZ9aOMsGrsyA6z0GPjy) | 2:42 | 2023-11-15 | 2023-11-19 |
 | [Bad Boy](https://open.spotify.com/track/405XCqBuCIDDqVnaRYWKr6) | [Vicky](https://open.spotify.com/artist/7zCChitz4Xn1O7OqXjOhhR) | [Bad Boy](https://open.spotify.com/album/6r6cbSRfx2jw0Ih1xB7KfW) | 3:00 | 2023-06-08 | 2023-07-13 |
 | [BAD\-DUA](https://open.spotify.com/track/1tdfzRdcrv2SlEfmGXev8N) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [YAS the Underdog](https://open.spotify.com/artist/3gBTnOJvbcIKiDJPylSlcZ) | [BAD\-DUA](https://open.spotify.com/album/2aYGdxPtJjhU1hjquTWPw4) | 4:16 | 2024-04-11 | 2024-05-25 |

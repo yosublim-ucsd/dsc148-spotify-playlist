@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: DAMONA",
-  "num_followers": 34568,
+  "num_followers": 34576,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "r\u00fcckw\u00e4rts auf dem heimweg",
-        "url": "https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB"
-      },
-      "artists": [
-        {
-          "name": "Katha Pauer",
-          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
-        }
-      ],
-      "duration_ms": 140528,
-      "name": "heimweg",
-      "url": "https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "Ich trage Samt",
         "url": "https://open.spotify.com/album/5wHD5ao5biGk9MuBuSVl8p"
       },
@@ -431,18 +415,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Himmel (TW)",
-        "url": "https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm"
+        "name": "r\u00fcckw\u00e4rts auf dem heimweg",
+        "url": "https://open.spotify.com/album/4TGlBCsqYM6RP4u1KFdkOB"
       },
       "artists": [
         {
-          "name": "Marisabelle",
-          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+          "name": "Katha Pauer",
+          "url": "https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC"
         }
       ],
-      "duration_ms": 134257,
-      "name": "Himmel (TW)",
-      "url": "https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i"
+      "duration_ms": 140528,
+      "name": "heimweg",
+      "url": "https://open.spotify.com/track/4OwU6J3bkYykrHKINJl42P"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -459,6 +443,22 @@
       "duration_ms": 160000,
       "name": "Biness",
       "url": "https://open.spotify.com/track/6ifugRp33eSgxc3eT47Cwm"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Himmel (TW)",
+        "url": "https://open.spotify.com/album/53fUicbk50WlpWRGD3n7Dm"
+      },
+      "artists": [
+        {
+          "name": "Marisabelle",
+          "url": "https://open.spotify.com/artist/7juQyo2bnOdDsd0V4UDYdH"
+        }
+      ],
+      "duration_ms": 134257,
+      "name": "Himmel (TW)",
+      "url": "https://open.spotify.com/track/5quB3ViT2L2Lrq3Y30el4i"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Wieso eigentlich?",
-        "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
-      },
-      "artists": [
-        {
-          "name": "Juli Gilde",
-          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
-        }
-      ],
-      "duration_ms": 163979,
-      "name": "Wieso eigentlich?",
-      "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "Track Your Steps",
         "url": "https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 190635,
       "name": "Track Your Steps",
       "url": "https://open.spotify.com/track/0uojm86o10peXMlThzQOZG"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Wieso eigentlich?",
+        "url": "https://open.spotify.com/album/74Pbj3oZnDPjy2NGPPvowt"
+      },
+      "artists": [
+        {
+          "name": "Juli Gilde",
+          "url": "https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS"
+        }
+      ],
+      "duration_ms": 163979,
+      "name": "Wieso eigentlich?",
+      "url": "https://open.spotify.com/track/0eZj1dRYF4Legp8ea496wy"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l"
+      },
+      "artists": [
+        {
+          "name": "Anna Ullrich",
+          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+        }
+      ],
+      "duration_ms": 343087,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
         "name": "Ich hoff du bist da",
         "url": "https://open.spotify.com/album/3H2Z9AVO0nVfNkDqWKHkYM"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/4Q1IPfyPulVqgxyYEA242l"
+        "name": "Danke f\u00fcr nichts",
+        "url": "https://open.spotify.com/album/5GFhB8yF5oP7JJJ8hounDw"
       },
       "artists": [
         {
-          "name": "Anna Ullrich",
-          "url": "https://open.spotify.com/artist/50KbwRJgMFxSmT50FamuDN"
+          "name": "EAZI",
+          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
         }
       ],
-      "duration_ms": 343087,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/5bg9ZkfdNl213rHC8flQWu"
+      "duration_ms": 120000,
+      "name": "Danke f\u00fcr nichts",
+      "url": "https://open.spotify.com/track/4dHxkoH4zHN8ofouJ8ho21"
     },
     {
       "added_at": "2024-09-04 05:16:29",
@@ -675,22 +691,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Danke f\u00fcr nichts",
-        "url": "https://open.spotify.com/album/5GFhB8yF5oP7JJJ8hounDw"
-      },
-      "artists": [
-        {
-          "name": "EAZI",
-          "url": "https://open.spotify.com/artist/0kYyxlSQpwDOsB9qO4LlAZ"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Danke f\u00fcr nichts",
-      "url": "https://open.spotify.com/track/4dHxkoH4zHN8ofouJ8ho21"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "Yoga Pose",
         "url": "https://open.spotify.com/album/6nzDOF0DySy2Z2vJOWunMw"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-09-04 05:16:29",
       "album": {
-        "name": "Nothing (Demo)",
-        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
-      },
-      "artists": [
-        {
-          "name": "Philine Sonny",
-          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
-        }
-      ],
-      "duration_ms": 112054,
-      "name": "Nothing - Demo",
-      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
-    },
-    {
-      "added_at": "2024-09-04 05:16:29",
-      "album": {
         "name": "morgengrau",
         "url": "https://open.spotify.com/album/6HHflBjjzpp0HBTUXcB5kS"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 195000,
       "name": "morgengrau",
       "url": "https://open.spotify.com/track/32aYAzJYlWqc2FiZ4Dq4qy"
+    },
+    {
+      "added_at": "2024-09-04 05:16:29",
+      "album": {
+        "name": "Nothing (Demo)",
+        "url": "https://open.spotify.com/album/6pflBpxNeZbtKR5ESYCdYC"
+      },
+      "artists": [
+        {
+          "name": "Philine Sonny",
+          "url": "https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t"
+        }
+      ],
+      "duration_ms": 112054,
+      "name": "Nothing - Demo",
+      "url": "https://open.spotify.com/track/2qaRXeJ4LIHOP6Qx47ayAj"
     },
     {
       "added_at": "2024-09-04 05:16:29",

@@ -647,6 +647,32 @@
     },
     {
       "album": {
+        "name": "Cadillac - Ummer",
+        "url": "https://open.spotify.com/album/7d4yDktMqcDBQUX7Wu8VlD"
+      },
+      "artists": [
+        {
+          "name": "Amar Sandhu",
+          "url": "https://open.spotify.com/artist/52azpeiy7FKa0hoa8CwL6E"
+        },
+        {
+          "name": "Royal Maan",
+          "url": "https://open.spotify.com/artist/6MHxMEFX5cIIcXFzpycr09"
+        },
+        {
+          "name": "MOIZ",
+          "url": "https://open.spotify.com/artist/7qLqv2DawIfZM4iSfjuFQB"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160597,
+      "name": "Cadillac",
+      "url": "https://open.spotify.com/track/39JlUzqdOcKsctlBbyIYix"
+    },
+    {
+      "album": {
         "name": "Calgary",
         "url": "https://open.spotify.com/album/4vL7XeY4m0Ay8cF1MWDt1S"
       },
@@ -662,7 +688,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 163208,
       "name": "Calgary",
       "url": "https://open.spotify.com/track/3DiJ2iurZ6wM1Kx90Z2RWt"
@@ -770,7 +796,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 168000,
-      "name": "Daang, V1",
+      "name": "Daang V1",
       "url": "https://open.spotify.com/track/718N1bBYYO7Rf4SJfVosQ7"
     },
     {
@@ -959,6 +985,24 @@
     },
     {
       "album": {
+        "name": "DOWNTOWN",
+        "url": "https://open.spotify.com/album/5fnwo2fKkhLtBAQ1P5H9MD"
+      },
+      "artists": [
+        {
+          "name": "Saabi Bhinder",
+          "url": "https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154285,
+      "name": "DOWNTOWN",
+      "url": "https://open.spotify.com/track/7uw41oKgDSTE9Uq0yRNCmS"
+    },
+    {
+      "album": {
         "name": "Dunali",
         "url": "https://open.spotify.com/album/0CFzwInr6xDkMoYYD98z6t"
       },
@@ -1106,6 +1150,24 @@
       "duration_ms": 140869,
       "name": "Gabru",
       "url": "https://open.spotify.com/track/6s46FX8X6lwaDz82AYQc38"
+    },
+    {
+      "album": {
+        "name": "Gangsta",
+        "url": "https://open.spotify.com/album/0DsKeIrucbRS6XVrXmEfOy"
+      },
+      "artists": [
+        {
+          "name": "Billa Jaan",
+          "url": "https://open.spotify.com/artist/48DaKoarQ3gDzeJaILALBf"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202387,
+      "name": "Gangsta",
+      "url": "https://open.spotify.com/track/5RxnlCaQwE5amMH8fMri5X"
     },
     {
       "album": {
@@ -1365,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "In Case",
+        "url": "https://open.spotify.com/album/100gHhW5AZT9yGMajJMtoY"
+      },
+      "artists": [
+        {
+          "name": "Raka",
+          "url": "https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295172,
+      "name": "In Case",
+      "url": "https://open.spotify.com/track/3XNdtAldN7TeHWv1vFORY8"
+    },
+    {
+      "album": {
         "name": "Infamous",
         "url": "https://open.spotify.com/album/2qzB2fBbECaMwqECCIJPN0"
       },
@@ -1542,7 +1622,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 193579,
       "name": "LIMELIGHT",
       "url": "https://open.spotify.com/track/034zk3Lzkfw2L0FXbgyWCR"
@@ -1630,7 +1710,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 115046,
       "name": "Madly",
       "url": "https://open.spotify.com/track/1oJ1hCWgBelM8WGMTQmOmu"
@@ -2188,7 +2268,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 261000,
       "name": "Outta Reach",
       "url": "https://open.spotify.com/track/0oCskX48nwxbA25Z1zODjA"
@@ -2408,7 +2488,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 188571,
       "name": "Rubicon Drill",
       "url": "https://open.spotify.com/track/03yKEFruN3BS2coglBtt2N"
@@ -2598,6 +2678,24 @@
       "duration_ms": 132978,
       "name": "SWITCHIN' LANES",
       "url": "https://open.spotify.com/track/0o6IjbwmqxiDZPE5TvNKoJ"
+    },
+    {
+      "album": {
+        "name": "Tere Sher",
+        "url": "https://open.spotify.com/album/1O3G72Xx0uu0TlKBPPuiOy"
+      },
+      "artists": [
+        {
+          "name": "Preet Sidhu",
+          "url": "https://open.spotify.com/artist/5TP4EiR9iVNfpv1IS2iVIz"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122352,
+      "name": "Tere Sher",
+      "url": "https://open.spotify.com/track/2QsH4fYTyCjamaBBUQP41z"
     },
     {
       "album": {

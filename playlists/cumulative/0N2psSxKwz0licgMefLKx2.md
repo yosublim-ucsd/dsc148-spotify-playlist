@@ -4,7 +4,7 @@
 
 > From Toronto to Nashville \- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Post Malone
 
-228 songs - 12 hr 17 min
+229 songs - 12 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Dirt Cheap](https://open.spotify.com/track/0tEugNCWzzwp1VeqzpKLsB) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Dirt Cheap](https://open.spotify.com/album/3gIIKzH3rsmUgiwzoQFhpP) | 2:48 | 2023-11-03 | 2024-03-09 |
 | [Dirt Roads And Jesus](https://open.spotify.com/track/0rAsn40XCigrz7XZNxV2pr) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Never Giving Up On That](https://open.spotify.com/album/34AyKaRR2hTQOHTmaxUeDD) | 3:10 | 2023-11-03 | 2024-03-09 |
 | [Don't Take The Girl](https://open.spotify.com/track/1MgF4Za06e1KQxzCYqGChf) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Across The Sheets](https://open.spotify.com/album/7nWjFzbfY7W4FxTAzKfhMu) | 4:20 | 2023-11-03 | 2024-03-02 |
+| [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/track/6yIaRllz0lCXuISYsqyCNH) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Don’t Mind If I Do \(ft\. Ella Langley\)](https://open.spotify.com/album/5tecOHW8icfevqfej3QEhg) | 3:38 | 2024-09-10 |  |
 | [Drink Em Up](https://open.spotify.com/track/6mTdWZ1l1pNBtoetnlhlMY) | [The Washboard Union](https://open.spotify.com/artist/2YftJBwNPaJJMK5ORcHq8k) | [Drink Em Up](https://open.spotify.com/album/3wgOnaECqpgR1vGJ894llo) | 3:11 | 2024-03-15 | 2024-06-02 |
 | [Drinkaby](https://open.spotify.com/track/3lg4wfPFpFLapRp2SiQQGd) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Drinkaby](https://open.spotify.com/album/7aMF2CCGWFppLNwMZzGnY6) | 3:02 | 2023-11-03 | 2024-03-23 |
 | [Drive You Out Of My Mind](https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD) | [Kassi Ashton](https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg) | [Drive You Out Of My Mind](https://open.spotify.com/album/0tybIuD9JXSQ0zY1s9PQmv) | 3:32 | 2023-11-03 | 2024-05-11 |
@@ -128,7 +129,7 @@
 | [Mind Of A Country Boy](https://open.spotify.com/track/6W0hxzuDXmRU6hQmViRaGi) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Mind Of A Country Boy](https://open.spotify.com/album/7GIq22HBQ4mKjxE2PaE5Op) | 3:16 | 2024-06-14 |  |
 | [Missin You In San Antone](https://open.spotify.com/track/4cWu9xQoWpazNSZ88OAw4d) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Missin You In San Antone](https://open.spotify.com/album/2SRUh7z7agEMmE3AyejCGE) | 3:13 | 2023-11-03 | 2023-11-11 |
 | [Moonshines](https://open.spotify.com/track/6OOVF3wtJ6Qj2fPPHcuzj5) | [Owen Riegling](https://open.spotify.com/artist/0FDlMMfT3tLEKM0QdEIHYu) | [Bruce County](https://open.spotify.com/album/2LtmmDRoH27B1li1RRWYvp) | 3:44 | 2024-05-24 |  |
-| [My Day 1's](https://open.spotify.com/track/35GmQ5bpv9A7Xo1U7M5lz6) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 3:00 | 2024-08-02 |  |
+| [My Day 1's](https://open.spotify.com/track/35GmQ5bpv9A7Xo1U7M5lz6) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Serving Country](https://open.spotify.com/album/4vxPW02Yf9UbO90m7yM6PY) | 3:00 | 2024-08-02 | 2024-09-11 |
 | [My Last Rodeo](https://open.spotify.com/track/6HumsLwKYoW6taXk0q2fy8) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [Ain't My Last Rodeo](https://open.spotify.com/album/0s8C6oQDtxObNVDfFKD5MR) | 3:42 | 2023-11-03 | 2024-04-27 |
 | [my place](https://open.spotify.com/track/4QHuywfD1V1eBMRY8Hbqnl) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [my place](https://open.spotify.com/album/0LYfCVKOshd8xC4VTVtbol) | 3:38 | 2024-04-05 | 2024-05-11 |
 | [My Shadow](https://open.spotify.com/track/7M2fkGO31n1sIcgsyZvVyx) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [My Shadow](https://open.spotify.com/album/1UYesAlvVGlSxNPIIS6gp3) | 3:14 | 2024-03-08 | 2024-04-06 |
@@ -207,7 +208,7 @@
 | [Turn](https://open.spotify.com/track/75gZhzqWDaqJgy19YERY5g) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Turn](https://open.spotify.com/album/6wvwfOXlSxL3pbQwJmea10) | 3:25 | 2024-01-26 | 2024-03-16 |
 | [Two Steppin' On The Moon](https://open.spotify.com/track/2DlZPa20qJYVsq1W6VtrCx) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [This Country Music Thing](https://open.spotify.com/album/6hb6sxdZjuHReraMCfDcrw) | 3:15 | 2024-08-16 |  |
 | [Use Me](https://open.spotify.com/track/1070IKrlb7FspThi7xAuYv) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Dallas Smith](https://open.spotify.com/album/3dI7Y28fYBPve8KLJ2A8ig) | 3:46 | 2024-06-17 |  |
-| [Vegas](https://open.spotify.com/track/7JXScDV8K6zO3AbSyPEldN) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Vegas](https://open.spotify.com/album/5BveLY7bzvZzCUBYoqZsFm) | 3:22 | 2024-08-02 |  |
+| [Vegas](https://open.spotify.com/track/7JXScDV8K6zO3AbSyPEldN) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Vegas](https://open.spotify.com/album/5BveLY7bzvZzCUBYoqZsFm) | 3:22 | 2024-08-02 | 2024-09-11 |
 | [Vegas](https://open.spotify.com/track/393ebh7Tq3q45yH68lxuyH) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [Vegas](https://open.spotify.com/album/4AVMZ91ayoRmwH9NcJEFkh) | 3:02 | 2024-03-15 | 2024-04-13 |
 | [Walking Man](https://open.spotify.com/track/2peujF6rxIoeKhPwzr4JVZ) | [Dillon James](https://open.spotify.com/artist/5bdPShbvAASQjO3mIMOWRR) | [Walking Man](https://open.spotify.com/album/4ks9ooYdf5guO753gPHTAK) | 3:15 | 2023-11-03 | 2024-01-27 |
 | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/track/1lnxr4wngiu820gv1HCbGM) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Want This Beer \(Feat\. Julia Michaels\)](https://open.spotify.com/album/1HM1VgJl9i35DVwlepdTd8) | 2:39 | 2024-07-19 |  |

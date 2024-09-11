@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWbdikWtt34.md) - [plain]
 
 > Dendang Dangdut teratas\. Cover: Wandra Restusiyan, Projector Band
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,674 likes - 87 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,686 likes - 87 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

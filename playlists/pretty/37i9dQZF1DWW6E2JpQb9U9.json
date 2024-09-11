@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Tan Bionica & Airbag",
-  "num_followers": 114689,
+  "num_followers": 114720,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
+        "name": "Barek (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Barek - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
         "name": "Ahora Vengo (Vivo Luna Park)",
         "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 171306,
       "name": "Ahora Vengo - Vivo Luna Park",
       "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
-        "name": "Barek (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
-      },
-      "artists": [
-        {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
-        }
-      ],
-      "duration_ms": 243253,
-      "name": "Barek - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "14 de Julio (En Vivo)",
-        "url": "https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn"
-      },
-      "artists": [
-        {
-          "name": "Trotsky Vengar\u00e1n",
-          "url": "https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk"
-        },
-        {
-          "name": "Gabriel Peluffo",
-          "url": "https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6"
-        }
-      ],
-      "duration_ms": 217403,
-      "name": "14 de Julio - En Vivo",
-      "url": "https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "Demonio Paraguayo (En Vivo)",
         "url": "https://open.spotify.com/album/3zGMwV9bHkvf4hcgUvPcdL"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 262014,
       "name": "Demonio Paraguayo - En Vivo",
       "url": "https://open.spotify.com/track/66vpazTiBR7b3vIl1E9wnW"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "14 de Julio (En Vivo)",
+        "url": "https://open.spotify.com/album/0s1DH4HBWc6yifcShbuuSn"
+      },
+      "artists": [
+        {
+          "name": "Trotsky Vengar\u00e1n",
+          "url": "https://open.spotify.com/artist/6Hr2CvTnI7x9U3MyDH2zBk"
+        },
+        {
+          "name": "Gabriel Peluffo",
+          "url": "https://open.spotify.com/artist/5frii2hIMmJCUQk4KRglG6"
+        }
+      ],
+      "duration_ms": 217403,
+      "name": "14 de Julio - En Vivo",
+      "url": "https://open.spotify.com/track/3GoLJdVtUTSQzzdaZkaWg0"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Huellas Digitales (En Vivo)",
-        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Para\u00edso en Retro - En Vivo",
-      "url": "https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "Carretera Perdida (En Vivo)",
         "url": "https://open.spotify.com/album/2OD36U3WFqeLqD4rf8KuA3"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 290496,
       "name": "Carretera Perdida - En Vivo",
       "url": "https://open.spotify.com/track/6XcMzT3kroyNvOJ9vaOsHT"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "Huellas Digitales (En Vivo)",
+        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Para\u00edso en Retro - En Vivo",
+      "url": "https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR"
     },
     {
       "added_at": "2024-08-22 18:51:34",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2024-08-22 18:51:34",
       "album": {
-        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
-        }
-      ],
-      "duration_ms": 268960,
-      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
-      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
-    },
-    {
-      "added_at": "2024-08-22 18:51:34",
-      "album": {
         "name": "La Superacci\u00f3n (En Vivo en el Metrop\u00f3litan)",
         "url": "https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO"
       },
@@ -1639,6 +1619,26 @@
       "duration_ms": 317962,
       "name": "La Superacci\u00f3n - En Vivo en el Metrop\u00f3litan",
       "url": "https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43"
+    },
+    {
+      "added_at": "2024-08-22 18:51:34",
+      "album": {
+        "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+        "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+        }
+      ],
+      "duration_ms": 268960,
+      "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
+      "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
     },
     {
       "added_at": "2024-08-22 18:51:34",

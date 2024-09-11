@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Harry Potter and the Prisoner of Azkaban / Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/7DDls7RWrCLvZgTVCJgfcq"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234040,
+      "name": "A Window to the Past",
+      "url": "https://open.spotify.com/track/1PPTlPJqKuL0fdoTmzwXJy"
+    },
+    {
+      "album": {
         "name": "Zauchensee",
         "url": "https://open.spotify.com/album/4G5j00B5FgozGgqpgyA0Ay"
       },

@@ -2,7 +2,7 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> rex orange county <3
+> DJ Suzy ⭐
 
 2,974 songs - 6 day 16 hr 47 min
 

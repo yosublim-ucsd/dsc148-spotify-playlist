@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 
 > New dance music from Deep House to Future Rave\. Refreshed every Friday by Spinnin' Records\. Check <a href="https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5">Spinnin' Records Brand New</a> for the latest Spinnin' releases\.  COVER:  Carneyval
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,555 likes - 18 songs - 47 min 48 sec
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 32,555 likes - 21 songs - 59 min 11 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,6 +25,9 @@ pretty - [cumulative](/playlists/cumulative/7FspvXYqFgcUdxn479q2pr.md) - [plain]
 | 15 | [Niet Te Lang Doen](https://open.spotify.com/track/0PQKIBxujfbN7GYp20dH56) | [Sjaak](https://open.spotify.com/artist/2YjydjpJfm9VAtiV0XRmkm), [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8) | [Niet Te Lang Doen](https://open.spotify.com/album/05UL8lTrxIZb4loPfAdtpx) | 2:15 |
 | 16 | [Moves](https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL) | [Taurus](https://open.spotify.com/artist/0CuFrDO1gvky7Ozc0pL78K) | [Moves](https://open.spotify.com/album/4CTORO90BbUDClLgqR91tG) | 3:01 |
 | 17 | [Our House](https://open.spotify.com/track/4OIZob7JDiTYBh5GZCKUgH) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Disco Fries](https://open.spotify.com/artist/7G7KvDCLdVG0Ok511Iqc9U), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [Our House](https://open.spotify.com/album/5OwBxi1qtoiCQZnBd9jkCs) | 3:12 |
-| 18 | [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 |
+| 18 | [just stand there](https://open.spotify.com/track/2D9a9CXeo3HFtVeaNlzp4a) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 4:20 |
+| 19 | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/track/3qpsSAfHgTdTwkaraJLe0V) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Mentissa](https://open.spotify.com/artist/0cb0p26TbAeBeekZHfxWlS) | [Mamma Mia \(feat\. Mentissa\) \- Techno Mix](https://open.spotify.com/album/19w0jhRAHEnurkWpsKQFTf) | 3:20 |
+| 20 | [Situation](https://open.spotify.com/track/75X2SypN4QR4pr1amO0Jfs) | [A Little Sound](https://open.spotify.com/artist/1Jv2F8VFJsSr2XKte0vpbQ), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [Situation](https://open.spotify.com/album/0dTzjve5Q4J4zx1GkV6Lny) | 2:52 |
+| 21 | [adore u](https://open.spotify.com/track/1rf4SX7dduNbrNnOmupLzi) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [ten days](https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh) | 3:40 |
 
-Snapshot ID: `AAArH+AQWunx7NJBFB9ISahR1xM1EBLJ`
+Snapshot ID: `AAArIwMqYp2PN866WobqgPbKYKc0/yV4`

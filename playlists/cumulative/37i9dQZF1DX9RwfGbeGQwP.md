@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,441 songs - 2 day 6 hr 17 min
+1,442 songs - 2 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [Cashmere](https://open.spotify.com/track/26jKVRgWdbQZRzMWuV6y22) | [c e c e l i e](https://open.spotify.com/artist/4QvPq5gns3HmrXPy67CciX), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O) | [Cashmere](https://open.spotify.com/album/1MtYJCV0I8jNyWabqS7t3M) | 2:23 | 2022-05-13 | 2022-11-26 |
 | [Cassis](https://open.spotify.com/track/0fERk8rJySrdXAFYwzfJ50) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Cassis](https://open.spotify.com/album/5x6ya97jZmSdOnIEwD6g7f) | 2:04 | 2022-08-19 | 2023-01-13 |
 | [Cat in the Box](https://open.spotify.com/track/2k9QU8szGSVS8b2N7xW6MC) | [Mosalla](https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C), [Joe Sunrise](https://open.spotify.com/artist/4mvWLbsizI6uxbelCP9LRy) | [Cat in the Box](https://open.spotify.com/album/5WmnhaE67jSCe4MrseI5Be) | 1:56 | 2023-04-27 |  |
+| [Cat Whisperer](https://open.spotify.com/track/7nnoeXw1CQ9oLeZ5wgEiXx) | [BLVKEY](https://open.spotify.com/artist/4MzCPIbr4CgXgAbVidFpgB) | [Cat Whisperer](https://open.spotify.com/album/4bwfOZ4QtcVU2grYXcJAd6) | 2:50 | 2024-09-06 |  |
 | [Cathartic](https://open.spotify.com/track/0yk0UX9d2qa9eCqsvQobei) | [\[ocean jams\]](https://open.spotify.com/artist/3dHotvHEwOdiVKy5X6Gw9B) | [Cathartic](https://open.spotify.com/album/1qn7HpgYuij9FtWD1KIxHd) | 2:12 | 2022-01-27 | 2022-09-03 |
 | [Cayo](https://open.spotify.com/track/6p8cuVRnfBv4C6dhvYua5i) | [Chancla](https://open.spotify.com/artist/1GzwYC8JgtfOTyvAiiuGNs), [Oaty.](https://open.spotify.com/artist/2S5BNs8nlCRoKvnw9LuwBU) | [Cayo](https://open.spotify.com/album/0oY0cZTZBDrlPTM7chf4bE) | 2:16 | 2022-01-27 | 2022-07-08 |
 | [cenzontle](https://open.spotify.com/track/4WCrZo1zIDKaZu4th9GWef) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [cenzontle](https://open.spotify.com/album/688WIs5pmbG3GblAjajdmV) | 2:32 | 2024-03-22 |  |
@@ -235,7 +236,7 @@
 | [Cocody](https://open.spotify.com/track/2S5zCpMUfE6Vf0OfSp47lC) | [créature sonore](https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb) | [Cocody](https://open.spotify.com/album/31XVK9Arz6Ak5LU7UXGu90) | 1:44 | 2022-09-23 | 2023-09-05 |
 | [coffe break](https://open.spotify.com/track/27nTIPsA7DPskQHdX7kAUR) | [J0pie](https://open.spotify.com/artist/3c124seowxwVtBR8dGvirN) | [coffe break](https://open.spotify.com/album/3pr0z0UHmCRgguVjgU8WE3) | 2:32 | 2022-12-16 |  |
 | [Coffee And Pie, Oh My!](https://open.spotify.com/track/1RKHfYrGwQVGld7XO2lOSt) | [Trainsleeper](https://open.spotify.com/artist/5vjsK1KRuMhzdFJHYI8ll5) | [Coffee And Pie, Oh My!](https://open.spotify.com/album/4BQSUpeKpiaLhbf8C3oe1H) | 1:47 | 2022-05-20 | 2022-11-26 |
-| [Coffee As The Day Goes](https://open.spotify.com/track/6vAkdVKssSsSGoOZ049HoS) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [North Of The Lights](https://open.spotify.com/album/6EpvEx8s0DIyUP7HTzVJFl) | 2:30 | 2023-03-08 |  |
+| [Coffee As The Day Goes](https://open.spotify.com/track/6vAkdVKssSsSGoOZ049HoS) | [ohlos](https://open.spotify.com/artist/72l8ZKvwKkr1ZMLzDcFxQC) | [North Of The Lights](https://open.spotify.com/album/6EpvEx8s0DIyUP7HTzVJFl) | 2:30 | 2023-03-08 | 2024-09-11 |
 | [Coffee Bean](https://open.spotify.com/track/7vQW3Ml7G1AOpQhWHRz2Hh) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Coffee Bean](https://open.spotify.com/album/6XN9QFx0kHgb98qP2E4MB9) | 2:12 | 2022-01-27 | 2022-10-29 |
 | [Coffee in the Morning](https://open.spotify.com/track/6N83i2OmWaYFbvga1xLD1v) | [Zebra Daydream](https://open.spotify.com/artist/60cKOZGjA809YVwoBnrp41) | [Safari of the Mind](https://open.spotify.com/album/3MiLjpdp7Xam7nisn6JlDB) | 2:21 | 2022-01-27 | 2022-09-30 |
 | [Coffee Jazz vibes](https://open.spotify.com/track/0MUGs0JpdZiIbtwsACGQci) | [Zleept](https://open.spotify.com/artist/503ArEUA5XIRmhJCk7fRdN) | [But It is L O F I](https://open.spotify.com/album/04CJWN7lrnFkMBWh2ATsF3) | 1:50 | 2022-01-27 | 2023-09-29 |

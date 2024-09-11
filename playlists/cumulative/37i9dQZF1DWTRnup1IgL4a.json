@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "A Beautiful World",
+        "url": "https://open.spotify.com/album/3BAuze9CQjVKTAkRvzalIL"
+      },
+      "artists": [
+        {
+          "name": "Rua Do Sol",
+          "url": "https://open.spotify.com/artist/6H6xSboY4n7uDxqgRaBBL4"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213902,
+      "name": "A Beautiful World",
+      "url": "https://open.spotify.com/track/49UUWYBaGKhS9eXwVhbrhy"
+    },
+    {
+      "album": {
         "name": "A la recherche de l'autre",
         "url": "https://open.spotify.com/album/17WLl7MsDL25RsYFH0nPvO"
       },
@@ -1298,6 +1316,24 @@
       "duration_ms": 185750,
       "name": "Foggy Morning",
       "url": "https://open.spotify.com/track/2ADsX9J1hQBryNwDWZqEsf"
+    },
+    {
+      "album": {
+        "name": "For T.",
+        "url": "https://open.spotify.com/album/2wYyGrlkOK0hLJ5a6yREzD"
+      },
+      "artists": [
+        {
+          "name": "Still Tides",
+          "url": "https://open.spotify.com/artist/4DnWRs5XJ6CES9GbwP0BNP"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160989,
+      "name": "For T.",
+      "url": "https://open.spotify.com/track/48PAdzQXHcM3A7pJICW6Co"
     },
     {
       "album": {

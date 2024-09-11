@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Gabriela Rocha
 
-1,379 songs - 4 day 16 hr 52 min
+1,379 songs - 4 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Deus das Estações](https://open.spotify.com/track/3u6nyixufkTEksYWzfdiHY) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Novo Tempo](https://open.spotify.com/artist/4hSwClI41RKuFb46itnL5e) | [Deus das Estações](https://open.spotify.com/album/6X1B7DvKbLueNCkAn4b8rF) | 4:00 | 2024-04-19 | 2024-04-27 |
 | [Deus Do Avivamento](https://open.spotify.com/track/0hZPnEfkolGrgCaZaYDS85) | [Projeto Vida Music](https://open.spotify.com/artist/5eTgiu0Q3GpNuXyNJDfLkp), [Ronan Castro](https://open.spotify.com/artist/01XcyZ8V2wAQTaazuzCNaG) | [Deus Do Avivamento](https://open.spotify.com/album/4g8C86A68K4TErAhjWG6kx) | 6:08 | 2023-11-24 | 2023-12-23 |
 | [Deus dos Deuses \- Ao Vivo](https://open.spotify.com/track/77qjVFBkcMdocVjfeX6EUZ) | [Clayton Queiroz](https://open.spotify.com/artist/225heaA0eolmtY4YIGdByA), [Jackson e Talita](https://open.spotify.com/artist/59pNFKgT5El7qhHp3zfVNd) | [Deus dos Deuses \(Ao Vivo\)](https://open.spotify.com/album/2DuSgz06v588pwOIkgcqPL) | 4:47 | 2023-07-14 | 2023-07-22 |
-| [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:45 | 2024-08-30 |  |
+| [Deus Está Aqui \(Medley\)](https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Deus Está Aqui \(Medley\)](https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G) | 4:43 | 2024-08-30 |  |
 | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Está Fazendo \(Ao Vivo\)](https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx) | 4:15 | 2023-07-21 | 2023-07-29 |
 | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/track/1J0Gwf6r112PNnTz4E8BOx) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy) | [Deus Está Fazendo \- Louvorzão 2023 \(Ao Vivo\)](https://open.spotify.com/album/2zKXw5zKtzd4eblciO5qEg) | 4:24 | 2024-04-19 | 2024-04-27 |
 | [Deus Fará](https://open.spotify.com/track/71D1FbE9tGeibYa10l78Me) | [Elaine de Jesus](https://open.spotify.com/artist/6bGbc8Wuk79kOzhCDWmeQQ) | [Jesus \(Deluxe\)](https://open.spotify.com/album/1olViWyLd2YHivr72eZSRA) | 5:02 | 2023-08-18 | 2023-09-02 |

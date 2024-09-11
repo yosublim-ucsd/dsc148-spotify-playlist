@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,993 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,993 likes - 100 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 9 | [Heads Up](https://open.spotify.com/track/6JGlFHvFHXe3VjqP1obvL6) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:40 |
 | 10 | [Majnoonh](https://open.spotify.com/track/6LpZccpdi0Hf9HpDlRn0it) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [GLORY](https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9) | 3:10 |
 | 11 | [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/track/34FbOiAkJr9R9cbKaQW2do) | [Babbu Maan](https://open.spotify.com/artist/2ENaPFnsKa9MlutVokd6es), [Alamgir Khan](https://open.spotify.com/artist/0cczE6c7kfFCBQt96AV4Nt) | [Parshawan Naar Da \(From "Sucha Soorma"\)](https://open.spotify.com/album/4aJXFeb1uBpjiM3SS5GUD1) | 3:06 |
-| 12 | [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 |
-| 13 | [Faith](https://open.spotify.com/track/5Hnl7vagze1xTLyybaltfs) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Faith](https://open.spotify.com/album/21Gstty5YfiD673TAy3xc7) | 3:36 |
-| 14 | [Killa](https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Killa](https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp) | 3:37 |
-| 15 | [Lakh Lagje](https://open.spotify.com/track/3jo8Skp9Zb42J7smlir9pz) | [Love Brar](https://open.spotify.com/artist/60lKtBkcPvtB70ZNkGzUeQ) | [Lakh Lagje](https://open.spotify.com/album/49uhqEP8BvmBraMlXHADRT) | 3:21 |
-| 16 | [5 Raund](https://open.spotify.com/track/3CPhDJAUVVoXJ6AYv98grC) | [Manavgeet Gill](https://open.spotify.com/artist/0IUwlPP1FEOxkArw3zciWl), [Kanji Porh](https://open.spotify.com/artist/1b98mtrHsQw4TsaFTZTNFt), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [5 Raund](https://open.spotify.com/album/6EfljohQtKZhHwHOTpcmmy) | 3:00 |
+| 12 | [Baapu](https://open.spotify.com/track/7fbXRNjwxEGOXZ3qKCqJoG) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [IRIS Music](https://open.spotify.com/artist/1DB6PUHcKe8s5Ul7jkVR4Q), [Laddi Chhajla](https://open.spotify.com/artist/4sMccimUuMKOjT3pgcYADP) | [Baapu](https://open.spotify.com/album/1JhvNWtLu5mRFkSViaDguT) | 2:40 |
+| 13 | [Top](https://open.spotify.com/track/4jSjnF8GRvWO0nxfudh1yz) | [Kabir Sandhu](https://open.spotify.com/artist/0vgGXCt0DLo0GrQ2cqvZt3) | [Top](https://open.spotify.com/album/4TYNZEz2JiJwSnGSkOIyEq) | 3:41 |
+| 14 | [Faith](https://open.spotify.com/track/5Hnl7vagze1xTLyybaltfs) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Panther](https://open.spotify.com/artist/1HnV8VaGdip3y1SpJPgft0) | [Faith](https://open.spotify.com/album/21Gstty5YfiD673TAy3xc7) | 3:36 |
+| 15 | [Killa](https://open.spotify.com/track/2kiRrQqFKQ3MGLhcAwHsty) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Sultaan](https://open.spotify.com/artist/7frYUe4C7A42uZqCzD34Y4), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Killa](https://open.spotify.com/album/33Q4zyQMjyj7D4Ul8XRHAp) | 3:37 |
+| 16 | [Lakh Lagje](https://open.spotify.com/track/3jo8Skp9Zb42J7smlir9pz) | [Love Brar](https://open.spotify.com/artist/60lKtBkcPvtB70ZNkGzUeQ) | [Lakh Lagje](https://open.spotify.com/album/49uhqEP8BvmBraMlXHADRT) | 3:21 |
 | 17 | [Chaudhar](https://open.spotify.com/track/5KBE9WQ9pUZXz3SLJZf0hk) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Labh Heera](https://open.spotify.com/artist/4ezwpwbRQF6wEWji17s3Bc), [MixSingh](https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U) | [Chaudhar](https://open.spotify.com/album/5oKWsH1gDsgD7c1jkYSKMt) | 4:12 |
 | 18 | [Kafan](https://open.spotify.com/track/5yT7AStUNevohRn6X0gdIV) | [Turban Beats](https://open.spotify.com/artist/6Ddk8RlrCsHSGe2e4qafZE) | [Kafan](https://open.spotify.com/album/2wZuDq0bvxo0mTk4XAijB9) | 3:08 |
 | 19 | [Requirement](https://open.spotify.com/track/178AWgKX1C424sDBUGI04L) | [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW), [Diamond](https://open.spotify.com/artist/2FsgnpXcftQH9HppbO1DeC), [Mehraj Deep](https://open.spotify.com/artist/7nbT7stif3z27aRr8gSv35) | [Requirement](https://open.spotify.com/album/6NnGBBdfufKlUcYPOKhSOX) | 2:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5OWRwJruafQ.md) - [plain]
 | 99 | [Stick Talk](https://open.spotify.com/track/61sbacNWadHqNi8U0ew7rt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Stick Talk](https://open.spotify.com/album/776yBgdEdhEUPmyErZuIu0) | 2:39 |
 | 100 | [Fight](https://open.spotify.com/track/49wyLmS7QnyAu2GbQCMcax) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [K.S Makhan](https://open.spotify.com/artist/0O35NR0LgBXsui6L5VOOq3), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Fight](https://open.spotify.com/album/7j0WC5laIVZcyWMzcyBPn0) | 3:03 |
 
-Snapshot ID: `Zt6fFgAAAAA0R4NhYv3zcKS7O1kbovzr`
+Snapshot ID: `Zt/QuQAAAAAizpsG4vC51JfI1UHb5mku`

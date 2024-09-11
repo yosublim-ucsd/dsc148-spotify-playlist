@@ -4,7 +4,7 @@
 
 > A happy place 🪩🪩
 
-456 songs - 1 day 4 hr 18 min
+456 songs - 1 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [D.I.S.C.O\. \- Edit](https://open.spotify.com/track/6tjYbiZ2wLgp33HMVxkJ9o) | [Roman Flügel](https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw) | [Anima EP](https://open.spotify.com/album/3z33qPqbX0yY8b3PcVgzxu) | 4:05 | 2022-01-14 | 2022-06-19 |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-08-03 | 2024-05-18 |
 | [Dance With You](https://open.spotify.com/track/1SF2Yv4eZgtd7q6ygLqKc9) | [Party Pupils](https://open.spotify.com/artist/4F61H4lx1js4wtWfb2Rfnt), [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I) | [Dance With You](https://open.spotify.com/album/6tBYHEsGKuUmzXMxwQxLN3) | 2:24 | 2024-07-26 |  |
-| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 4:28 | 2024-08-23 |  |
+| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-23 |  |
 | [dancebaby](https://open.spotify.com/track/7vHIbQY5czfIYIq6rHuvyK) | [Soul Legend](https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy) | [dancebaby](https://open.spotify.com/album/44s0sDQMiz6M0XOzmfikAk) | 2:54 | 2024-08-02 |  |
 | [Dancing Down The Path](https://open.spotify.com/track/1jtAputapT9efP7VO88zaJ) | [The Coney Island Rhythm Band](https://open.spotify.com/artist/5kml8KV4qmcGVDF4Co2tAi), [Jerk Boy](https://open.spotify.com/artist/4w5bgvbaOepmRv2CQ0x1iA) | [Dancing Down The Path](https://open.spotify.com/album/35wPcnLcQuxqDIV0VlfELS) | 6:21 | 2024-02-23 |  |
 | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/track/4RAgh3iVmXwaeNpnOTkoXU) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Dancing Shoes \(Take Me Higher\)](https://open.spotify.com/album/4HlaHUFAikPsEE3VvWIyyK) | 2:34 | 2023-06-09 |  |

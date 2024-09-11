@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTJwoZ7Hrwg.md) - [plain]
 
 > Les plus grands hits et nos coups de cœur francophones de 2023\. Photo: Aliocha Schneider
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,301 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,300 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

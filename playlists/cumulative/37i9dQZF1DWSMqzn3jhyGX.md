@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of DNA Lover\. \(DNA 러버의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
-48 songs - 3 hr 3 min
+49 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Polar Night](https://open.spotify.com/track/76V49Eff84umE7YUHmaCRG) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Polar Night](https://open.spotify.com/album/1A1gCes6TP34C3FhVE8t0N) | 4:18 | 2024-08-23 |  |
 | [Special lecture for LOVE \(FEAT\. Han Ye Seul\)](https://open.spotify.com/track/2vu0gIbtabp50KJq3hw9bu) | [Mighty Mouth](https://open.spotify.com/artist/7pxK1v2idIDo5Imir0lb5i), [Han Ye Seul](https://open.spotify.com/artist/5vBWv11p4V6VIjeY7OkOkP) | [LOVE CLASS](https://open.spotify.com/album/03qQrGDjnL0csovaAuKSbb) | 3:39 | 2024-08-23 |  |
 | [Sweet Symphony \(feat\. Chris Stapleton\)](https://open.spotify.com/track/4N1QzEzQudrgGMWjPZhaX2) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Proof Of Life](https://open.spotify.com/album/75o3sk5btG5NX8JaPw190o) | 3:48 | 2024-08-23 |  |
+| [Tempt](https://open.spotify.com/track/3x0sTCtWb6dt4CwsGMAhEI) | [Leenzy](https://open.spotify.com/artist/2116oBbgoFStjoP9GDnRfI) | [DNA Lover \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/4VTeY0kyLMNBIYifr0GtnL) | 2:56 | 2024-09-10 |  |
 | [the deep sea](https://open.spotify.com/track/1hQDMQleO7992DMawi3lhd) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [stars and memories and poetry](https://open.spotify.com/album/6ow1N25ns0kjoNm9S32BuJ) | 3:47 | 2024-08-23 |  |
 | [The Moon and Sixpence](https://open.spotify.com/track/5oudDwupzSbUnu4D7PXj8k) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Light & Shade chapter.2](https://open.spotify.com/album/3VMZhTgZW2ugrTgj7FydgI) | 4:06 | 2024-08-23 |  |
 | [This Will Be Our Year](https://open.spotify.com/track/5mNjFEWm65zdqHoVKKttv4) | [The Zombies](https://open.spotify.com/artist/2jgPkn6LuUazBoBk6vvjh5) | [Odessey and Oracle](https://open.spotify.com/album/6ToVzL6h7HnatpBcOF0fH5) | 2:08 | 2024-08-23 |  |

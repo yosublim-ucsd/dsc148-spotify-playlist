@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. \nCover: Don West",
+  "description": "The best new music by independent artists and labels. \nCover: Stocker",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -5991,6 +5991,24 @@
     },
     {
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/02IubQRHTCQ7QbDawkqeqR"
+      },
+      "artists": [
+        {
+          "name": "Taj Ralph",
+          "url": "https://open.spotify.com/artist/6VU9Ht3FVOrhBT69pmiwG4"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/6lTmjnqBQYyqiu7EAbxVtE"
+    },
+    {
+      "album": {
         "name": "Birds & The Eagles",
         "url": "https://open.spotify.com/album/3yU6Iomu2SYVr0CXZnczRT"
       },
@@ -6826,6 +6844,24 @@
       "duration_ms": 218000,
       "name": "Blue Jeans",
       "url": "https://open.spotify.com/track/7D3jxvZUfgPSGfOLdnkCNw"
+    },
+    {
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/6pf1SGAQ8uSRe8G86fbZqp"
+      },
+      "artists": [
+        {
+          "name": "T Truman",
+          "url": "https://open.spotify.com/artist/69fq3LFkhrH4vr6F3UGEUD"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/29lBozGdEwtw8ZrUsAoOUs"
     },
     {
       "album": {
@@ -7850,6 +7886,24 @@
       "duration_ms": 215497,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7ysVSqgXW0oOg82POfYxZC"
+    },
+    {
+      "album": {
+        "name": "Brighton",
+        "url": "https://open.spotify.com/album/3oKt8SKONl6rbikLVQ0fkh"
+      },
+      "artists": [
+        {
+          "name": "There's A Tuesday",
+          "url": "https://open.spotify.com/artist/7ogKQvoSDyH4YEM5yShPI5"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190853,
+      "name": "Brighton",
+      "url": "https://open.spotify.com/track/1a86yM66wQRoDPYZL22D9Z"
     },
     {
       "album": {
@@ -10125,6 +10179,24 @@
     },
     {
       "album": {
+        "name": "P.M",
+        "url": "https://open.spotify.com/album/2euqdjPEbdEiTlqCULyI93"
+      },
+      "artists": [
+        {
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184546,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/15Ow2PvOPr3Qf2yLgVSZBu"
+    },
+    {
+      "album": {
         "name": "Change Your Mind",
         "url": "https://open.spotify.com/album/0o1K8adykH3qiKF5bZqOMd"
       },
@@ -10674,6 +10746,24 @@
       "duration_ms": 173381,
       "name": "Close Friend",
       "url": "https://open.spotify.com/track/219jtp83oneHuSJLJfxEtT"
+    },
+    {
+      "album": {
+        "name": "Close to This",
+        "url": "https://open.spotify.com/album/2b0mNQdw0iyZIFWSKQibW5"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224862,
+      "name": "Close to This",
+      "url": "https://open.spotify.com/track/78UNtIiOt5pSqA1jCu05jo"
     },
     {
       "album": {
@@ -17566,7 +17656,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 150000,
       "name": "enough for me",
       "url": "https://open.spotify.com/track/58O6AbmFMi50n1JUR9RDNc"
@@ -19062,7 +19152,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 115147,
       "name": "Fall In Love Again",
       "url": "https://open.spotify.com/track/62CZsvEvLN6O8vk9bLDRcF"
@@ -22242,6 +22332,24 @@
       "duration_ms": 153033,
       "name": "Get Me Down",
       "url": "https://open.spotify.com/track/507Rf3rTNCMhYmoAix8Ici"
+    },
+    {
+      "album": {
+        "name": "Get Over It",
+        "url": "https://open.spotify.com/album/2bXyAHWPGgGzSKgI7W8a9o"
+      },
+      "artists": [
+        {
+          "name": "smol fish",
+          "url": "https://open.spotify.com/artist/1s6NvPMt2shlv4MBNu9M9v"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "Get Over It",
+      "url": "https://open.spotify.com/track/2xCZ5XGZypH7rIlrvf4UCz"
     },
     {
       "album": {
@@ -30285,6 +30393,24 @@
     },
     {
       "album": {
+        "name": "Into Me",
+        "url": "https://open.spotify.com/album/0ezS3JBCDI70jq6OxP6dsD"
+      },
+      "artists": [
+        {
+          "name": "Stocker",
+          "url": "https://open.spotify.com/artist/1iSjvAa746kngRZIVsrWkm"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Into Me",
+      "url": "https://open.spotify.com/track/4oDn4v5jaUQVRAyJlfIxfy"
+    },
+    {
+      "album": {
         "name": "Love In The Sun - EP",
         "url": "https://open.spotify.com/album/0Fz6d9y4o7Ykv0QoOcRb1S"
       },
@@ -32410,6 +32536,28 @@
       "duration_ms": 178236,
       "name": "Landline",
       "url": "https://open.spotify.com/track/4pLrzFdVBo7CZRThuORvTv"
+    },
+    {
+      "album": {
+        "name": "Landslide",
+        "url": "https://open.spotify.com/album/4auTL8OSCOHWprwOqzlZuD"
+      },
+      "artists": [
+        {
+          "name": "Karina Savage",
+          "url": "https://open.spotify.com/artist/1Omhe6WyATIf4ZurfsumKr"
+        },
+        {
+          "name": "Glades",
+          "url": "https://open.spotify.com/artist/14rP13jdQNgQvuPA2AkBgm"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174123,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/7qhaA7MaHAkMKaOe5I3TOY"
     },
     {
       "album": {
@@ -34589,6 +34737,24 @@
     },
     {
       "album": {
+        "name": "Lords Of Lithium",
+        "url": "https://open.spotify.com/album/6wqo3FDxv7Bms4zqsltDfp"
+      },
+      "artists": [
+        {
+          "name": "Pipe-eye",
+          "url": "https://open.spotify.com/artist/0Sh9OyckiAu6tBP2yiN6wf"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203415,
+      "name": "Lords Of Lithium",
+      "url": "https://open.spotify.com/track/0dLpHtlWPyUbQI1thmPsHk"
+    },
+    {
+      "album": {
         "name": "Lose",
         "url": "https://open.spotify.com/album/7aiR3xfQ8b0LkePIb7GIGd"
       },
@@ -35136,6 +35302,24 @@
       "duration_ms": 208986,
       "name": "Love Tattoo",
       "url": "https://open.spotify.com/track/2RoDZ8AsCt28fFdi4yA1mf"
+    },
+    {
+      "album": {
+        "name": "Love That Takes You Up",
+        "url": "https://open.spotify.com/album/1MOmGID19PXLZxMaNLwvNV"
+      },
+      "artists": [
+        {
+          "name": "Nice Biscuit",
+          "url": "https://open.spotify.com/artist/1HDNxhUcc8y6JukY45KHyv"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295484,
+      "name": "Love That Takes You Up",
+      "url": "https://open.spotify.com/track/0zBmEE0ruiNSs1JEXUKl3I"
     },
     {
       "album": {
@@ -37634,7 +37818,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 258191,
       "name": "Moneypenny",
       "url": "https://open.spotify.com/track/6t6gN6WFTsHd0aDpdEgA5Y"
@@ -37906,6 +38090,24 @@
       "duration_ms": 197303,
       "name": "morning",
       "url": "https://open.spotify.com/track/4Yc9do70f5SznLGByImUBN"
+    },
+    {
+      "album": {
+        "name": "Morning New",
+        "url": "https://open.spotify.com/album/304xhzWAg6WdnwLLFactfE"
+      },
+      "artists": [
+        {
+          "name": "Tesse",
+          "url": "https://open.spotify.com/artist/79pRetX9tdLGbpsZ3Upksr"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252659,
+      "name": "Morning New",
+      "url": "https://open.spotify.com/track/5VXY9rfJENERXIjypdPqsm"
     },
     {
       "album": {
@@ -43570,7 +43772,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 152433,
       "name": "Owner Operator",
       "url": "https://open.spotify.com/track/13PC7fpNWPPkMFJjTQeMh1"
@@ -44170,7 +44372,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 232974,
       "name": "Perfect Plate",
       "url": "https://open.spotify.com/track/4RBOUzxkpd4stHcRkqeWbb"
@@ -44486,6 +44688,24 @@
       "duration_ms": 195000,
       "name": "Pick Up The Pace",
       "url": "https://open.spotify.com/track/3gKSsWz9MTQlRZx4BYWA1E"
+    },
+    {
+      "album": {
+        "name": "Picture Me",
+        "url": "https://open.spotify.com/album/2DLbdkxQdNcsegvJwAWCKs"
+      },
+      "artists": [
+        {
+          "name": "Josef Scott",
+          "url": "https://open.spotify.com/artist/1Ety32ivSztP0Yc9Q8cBzS"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227813,
+      "name": "Picture Me",
+      "url": "https://open.spotify.com/track/6B1HGmcGiLmDOvD96J9cKP"
     },
     {
       "album": {
@@ -50914,7 +51134,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 146283,
       "name": "SIERRA",
       "url": "https://open.spotify.com/track/46EkfPswWXiZ7WvXNYkU9C"
@@ -52260,7 +52480,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 153726,
       "name": "Snack",
       "url": "https://open.spotify.com/track/1foj3wbUlhrF4CVu3IBpFY"
@@ -52620,7 +52840,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 230382,
       "name": "Sober",
       "url": "https://open.spotify.com/track/7zdb638L9029cS2v2PyHZY"
@@ -52710,7 +52930,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 274838,
       "name": "Some Kind of Angel",
       "url": "https://open.spotify.com/track/1Hmj8zqZaub8poKxtDcaef"
@@ -53516,7 +53736,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 243780,
       "name": "Special Occasions",
       "url": "https://open.spotify.com/track/24rVmtoVMIf77BoNTuEsQb"
@@ -58594,7 +58814,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 212727,
       "name": "Think It's You",
       "url": "https://open.spotify.com/track/5tHBtdIwBIJP9zDZL95PIe"
@@ -61254,7 +61474,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 136554,
       "name": "Until you came along",
       "url": "https://open.spotify.com/track/0Zr3IMXKYoeRJkfJFwMvN5"

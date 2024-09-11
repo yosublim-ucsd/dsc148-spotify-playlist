@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Shiva in cover + le migliori uscite di questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,088 likes - 75 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,104 likes - 75 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 50 | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/track/2b7jU3d9AZAotfi0pvLaec) | [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Champs Élysées \(feat\. Gunna\)](https://open.spotify.com/album/4a9IJ72QKdzVHFoj6jflQz) | 2:36 |
 | 51 | [PALETTE](https://open.spotify.com/track/24v7M7PETkMSimX79C1cT4) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [PALETTE](https://open.spotify.com/album/5HzTy1cbSrGNaZ1zBNCQ0M) | 2:01 |
 | 52 | [MY BOO](https://open.spotify.com/track/5KYsIT6wnW54LCJ1inu3Xm) | [Welo](https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [MY BOO](https://open.spotify.com/album/58bUwhJzwrrs1aVuBgN0AT) | 2:23 |
-| 53 | [Temari](https://open.spotify.com/track/0Au5T2BazDKzoHIzRMiB8v) | [Meri](https://open.spotify.com/artist/0wMC49AIBN8CVYTEbnBqup), [Psycho](https://open.spotify.com/artist/553cCRABrOOflXVdzZopWY) | [Temari](https://open.spotify.com/album/7rAHurZrbtPlnxQQS2xIUA) | 2:27 |
+| 53 | [Temari](https://open.spotify.com/track/0Au5T2BazDKzoHIzRMiB8v) | [Meri](https://open.spotify.com/artist/0wMC49AIBN8CVYTEbnBqup), [Psycho](https://open.spotify.com/artist/4HrALIkrwF2SyrQlvAEAP4) | [Temari](https://open.spotify.com/album/7rAHurZrbtPlnxQQS2xIUA) | 2:27 |
 | 54 | [CAFFÈ AMARO](https://open.spotify.com/track/5EPfp1edrw1vgxriqxLTlD) | [RRARI DAL TACCO](https://open.spotify.com/artist/30fnIb0InCgAp2IPY17nqd) | [CAFFÈ AMARO](https://open.spotify.com/album/0Mdda3X8mF2lghQGmEZCvV) | 1:59 |
 | 55 | [Mentale](https://open.spotify.com/track/6FzhWQuJWyWvbdUad1xEPb) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Mentale](https://open.spotify.com/album/1ijWVZdDagxdMarep595Uc) | 2:00 |
 | 56 | [3 Metri Sopra Il Cielo](https://open.spotify.com/track/4nrB8mq4yLFIq7aQ5JmP6x) | [GionnyScandal](https://open.spotify.com/artist/7EyPI6TWLhz3XUpxkbyCV2), [Giulia Jean](https://open.spotify.com/artist/3MkXTqMdLdWScN4cUOCLr4) | [3 Metri Sopra Il Cielo](https://open.spotify.com/album/3EEwXbXthxCSwGwhaI0s2z) | 2:49 |

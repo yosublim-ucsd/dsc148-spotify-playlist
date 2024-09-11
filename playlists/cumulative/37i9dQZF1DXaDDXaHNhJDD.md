@@ -2,7 +2,7 @@
 
 ### [Mollywood Gold](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> The finest set of Malayalam music from the past 10 years.<br/>Cover : Aadujeevitham
+> The finest set of Malayalam music from the past 10 years.<br/>Cover : Aavesham
 
 196 songs - 12 hr 57 min
 

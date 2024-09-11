@@ -4,7 +4,7 @@
 
 > 
 
-1,694 songs - 3 day 19 hr 5 min
+1,695 songs - 3 day 19 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -617,6 +617,7 @@
 | [Ghosts](https://open.spotify.com/track/5OHdCpueECq21KGgRRwlEz) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI) | [Ghosts](https://open.spotify.com/album/0ky3cuMCOk9CDSYyeHMFJP) | 2:50 | 2023-01-16 |  |
 | [GIRLS LiE \- RiraN Remix](https://open.spotify.com/track/0gGLaPAcBD5ekqwBUoFHaQ) | [電音部](https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx), [池袋電音部](https://open.spotify.com/artist/6vF4vGu7LpNXNg4qEpAIFf), [MY NEW GEAR](https://open.spotify.com/artist/6DgP2yWREz9inxiohm7G4n), [阿沙薙 帯 \(CV: 和久野愛佳\)](https://open.spotify.com/artist/0FVJVsdVF7htwuJ6lZrZPW), [雫來叉手毬 \(CV: 中村さんそ\)](https://open.spotify.com/artist/79UeIfR6f31bTepVlCxADZ), [中村さんそ](https://open.spotify.com/artist/30R9MQOeKqrMoafeHmTYuY), [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [GIRLS LiE \(RiraN Remix\)](https://open.spotify.com/album/2XekZC2cUTKEbrVm0WKq60) | 2:29 | 2024-05-03 |  |
 | [Give A Fuck](https://open.spotify.com/track/11ZZzQgJXAw0lHvKF6y23S) | [The Dope Doctor](https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Give A Fuck](https://open.spotify.com/album/1jv7Xlj8nNuxHOPcfJtU43) | 2:54 | 2024-01-26 |  |
+| [Give Me a Feel](https://open.spotify.com/track/1Uky1CNhWrQTUmZsCe30Tq) | [Sghenny](https://open.spotify.com/artist/4ciy3r7f8nrBKoLZsJ6oVY) | [Give Me a Feel](https://open.spotify.com/album/3vIC8MEOYs0LUeaZiSn8rA) | 2:45 | 2024-09-10 |  |
 | [Give U Some \- Edit](https://open.spotify.com/track/4ExzN6CEaQAx9ZY8MZc1VP) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf), [Scarra](https://open.spotify.com/artist/75CWM6dvHUuLGsQj8fJyXr) | [Give U Some \(Edit\)](https://open.spotify.com/album/2Tobz7v3IA7Hoe1tiiZZo3) | 2:16 | 2023-10-20 |  |
 | [Glass](https://open.spotify.com/track/4mMSnriEQFlAqG13pRJOcB) | [Lady Dammage](https://open.spotify.com/artist/3tfuR1hlhOuwBVYzl8dgKE) | [Glass](https://open.spotify.com/album/5SRhqPHiwwyCmtYNff3COT) | 3:12 | 2024-08-17 |  |
 | [Global Revolution \- Live Edit](https://open.spotify.com/track/4EGTSjrlZMzcxGezV7QZ2g) | [Aversion](https://open.spotify.com/artist/2ecqtRdHGMT1SSSaYXoYlC) | [Global Revolution \(Live Edit\)](https://open.spotify.com/album/0GrL8Ox4kfkqna8LK6Q0pJ) | 2:21 | 2023-06-26 |  |

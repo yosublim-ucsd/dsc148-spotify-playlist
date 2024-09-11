@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 
 > Spotifyで人気のソニックシリーズ楽曲を収録したオフィシャルプレイリスト！/Official playlist of popular Sonic series songs on Spotify!  \(C\)SEGA
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,426 likes - 53 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,617 likes - 53 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 | 2 | [Kingdom Valley: Act 1 \(Trailer ver.\) \- SONIC X SHADOW GENERATIONS](https://open.spotify.com/track/5iyP6lo2442NR8hb2Juqxh) | [Audissi Studios](https://open.spotify.com/artist/4HwBkW9qrBDcJDnHbuhv5b) | [Kingdom Valley: Act 1 \(Trailer ver.\) \- SONIC X SHADOW GENERATIONS](https://open.spotify.com/album/3lKmgNS4KqYcax7DQ5F7ob) | 2:11 |
 | 3 | [Space Colony Ark: Act1 \(TeddyLoid x Jun Senoue Remix\) \[Trailer version\] \- SONIC X SHADOW GENERATIONS](https://open.spotify.com/track/6mdRgyqHnSf85VFk2iwl6v) | [Jun Senoue](https://open.spotify.com/artist/04jFPnV89o5zz9qix9wAVZ) | [Space Colony Ark: Act1 \(TeddyLoid x Jun Senoue Remix\) \[Trailer version\] \- SONIC X SHADOW GENERATIONS](https://open.spotify.com/album/20qVvpfZzxCbD2LAmIhqKj) | 1:56 |
 | 4 | [Chaos Island: Act1 \(Trailer version\) \-SONIC X SHADOW GENERATIONS](https://open.spotify.com/track/72sb8tauensDjbqB4ybJ9B) | [R.B.U.](https://open.spotify.com/artist/7KX0wiE5YURQ5weKL8Mmg9) | [Chaos Island: Act1 \(Trailer ver.\) \- SONIC X SHADOW GENERATIONS](https://open.spotify.com/album/0F8YGeDnoflgRlspk8Mxyx) | 2:59 |
-| 5 | [I Am..\. All Of Me \- Live](https://open.spotify.com/track/4PWOPM2yKchPQVCmKU8tPC) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw) | 4:32 |
+| 5 | [I Am..\. All Of Me \- Live](https://open.spotify.com/track/3vgjXBMtSW9vGYfT0oBl62) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/2uPyiLBW1WZP4wIfwoHBaj) | 4:32 |
 | 6 | [Break Through It All](https://open.spotify.com/track/0Oz6SCNjnsfEAWI3Y9Ix7f) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Sonic Frontiers Original Soundtrack Stillness & Motion](https://open.spotify.com/album/52exAJ8OkzVCXKTJ2FrcYA) | 4:09 |
 | 7 | [Open Your Heart \- Main Theme of ”Sonic Adventure” \-](https://open.spotify.com/track/4Isdi65xWzIhrwdR9UBu3l) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [SONIC ADVENTURE Original Soundtrack \(20th Anniversary Edition\)](https://open.spotify.com/album/72a2RLOxD8COLbiyTiwQIv) | 5:15 |
 | 8 | [Lights, Camera, Action! \- Studiopolis Zone Act 1](https://open.spotify.com/track/4aKkhZmKHRqW1mYKI0VTtC) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/0WkLss7gRrFrdL7wuicps5) | 3:07 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92WbCyxmvRU.md) - [plain]
 | 52 | [Live & Learn \- Live](https://open.spotify.com/track/0qVOs1V7tgk0z0TZNzn8GN) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL), [FILMharmonic Orchestra, Prague](https://open.spotify.com/artist/5wWxVeUfHDUXotmcddtzvF) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw) | 4:50 |
 | 53 | [One Way Dream](https://open.spotify.com/track/5joiLm4EOZrFo0SfoE3BpA) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Nathan Sharp](https://open.spotify.com/artist/1X5diIf3QYBCTauZYgbzEi) | [Sonic Frontiers Original Soundtrack Stillness & Motion](https://open.spotify.com/album/3rzNkB4JHEnWmuXC6G98IS) | 5:18 |
 
-Snapshot ID: `Zt+y3QAAAADOxfWAWyKHCig2zATKqeP4`
+Snapshot ID: `ZuAGnAAAAAAVdkZVOHXhG2owpQGblZvt`

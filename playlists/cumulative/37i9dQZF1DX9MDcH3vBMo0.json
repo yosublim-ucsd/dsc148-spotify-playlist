@@ -9093,6 +9093,24 @@
     },
     {
       "album": {
+        "name": "Que seas tu",
+        "url": "https://open.spotify.com/album/2Jt95hQSOPXCSYigpwQXdX"
+      },
+      "artists": [
+        {
+          "name": "George Agate",
+          "url": "https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154600,
+      "name": "Que seas tu",
+      "url": "https://open.spotify.com/track/6tfuROHlOJqwzwzWxDcOnc"
+    },
+    {
+      "album": {
         "name": "Qui n\u2019avance pas, recule",
         "url": "https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU"
       },
@@ -13090,6 +13108,24 @@
       "duration_ms": 164009,
       "name": "Vibrio",
       "url": "https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW"
+    },
+    {
+      "album": {
+        "name": "Vies Ant\u00e9rieures",
+        "url": "https://open.spotify.com/album/5OOjkY45YrDJSuJ1DB3364"
+      },
+      "artists": [
+        {
+          "name": "Shreyas Murali",
+          "url": "https://open.spotify.com/artist/6swIo0iu7c8WtdCzHnNPxS"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137125,
+      "name": "Vies Ant\u00e9rieures",
+      "url": "https://open.spotify.com/track/3yWM5VNcsOGNL9dzSsNzAg"
     },
     {
       "album": {

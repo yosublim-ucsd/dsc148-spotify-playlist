@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "In A Landscape",
+        "url": "https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251642,
+      "name": "And Some Will Fall - Edit",
+      "url": "https://open.spotify.com/track/3zhI27rwuBWsh1LX4a1UF9"
+    },
+    {
+      "album": {
         "name": "Memoryhouse",
         "url": "https://open.spotify.com/album/4fcZBukqygltK48rGGzylj"
       },
@@ -1199,6 +1217,24 @@
     },
     {
       "album": {
+        "name": "In A Landscape",
+        "url": "https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199701,
+      "name": "Late and Soon - Edit",
+      "url": "https://open.spotify.com/track/0Ah7xBR9mpFOdjHrXT65rH"
+    },
+    {
+      "album": {
         "name": "Voices 2",
         "url": "https://open.spotify.com/album/29qu0lgHevmRAWZMWkDsD5"
       },
@@ -1226,6 +1262,24 @@
       "duration_ms": 455019,
       "name": "Little Requiems - Cello Version",
       "url": "https://open.spotify.com/track/6bw0n3EJHPq531tnwKfi9q"
+    },
+    {
+      "album": {
+        "name": "In A Landscape",
+        "url": "https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281385,
+      "name": "Love Song (After JE) - Edit",
+      "url": "https://open.spotify.com/track/2mwb7n6JGuk8PTkhoVgUhN"
     },
     {
       "album": {
@@ -3024,6 +3078,24 @@
       "duration_ms": 224853,
       "name": "The Haunted Ocean 4",
       "url": "https://open.spotify.com/track/1bTJkfwWgQRjubgLzkCI9c"
+    },
+    {
+      "album": {
+        "name": "In A Landscape",
+        "url": "https://open.spotify.com/album/2so1waMMbnpnxmycHyvw24"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219494,
+      "name": "The Poetry of Earth (Geophony) - Edit",
+      "url": "https://open.spotify.com/track/1BAKTRSBqrt3baGntsrcKk"
     },
     {
       "album": {

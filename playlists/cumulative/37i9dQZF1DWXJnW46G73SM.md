@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف: حماقي
 
-1,131 songs - 2 day 15 hr 16 min
+1,133 songs - 2 day 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -546,6 +546,7 @@
 | [Mesh Saleem](https://open.spotify.com/track/06GfyzaBSbs18pJsZO1jvM) | [Hamza Namira](https://open.spotify.com/artist/2N72bJ8IYB4KZmKmxz5Xkk) | [Mesh Saleem](https://open.spotify.com/album/6XnP1hueQTJJSBsXMdgRHc) | 3:33 | 2023-08-16 | 2023-08-29 |
 | [Mesh Sawa](https://open.spotify.com/track/0WMmrbgl83C66KcMhWKDO6) | [Ahmed Batshan](https://open.spotify.com/artist/3mw4hDoLzTBOieeN9XZBIz) | [Mesh Sawa](https://open.spotify.com/album/2XOXYx3MOoLSPbDmwjZZgt) | 3:09 | 2024-07-04 | 2024-09-01 |
 | [Mesh Saybani](https://open.spotify.com/track/5qO0ltb9QRvQvj2c7San3y) | [Hudz](https://open.spotify.com/artist/1ffKtN3dRJOQKTUm1pkDGM), [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Mesh Saybani](https://open.spotify.com/album/1QLI8mWdXlxempEeh3AlRV) | 3:00 | 2022-01-27 | 2022-04-08 |
+| [Mesh Shaghleen Balna](https://open.spotify.com/track/2CDMJWyXHJAP5MErdg7F8J) | [Nesma Mahgoub](https://open.spotify.com/artist/68J05BuI8JQSdEwIyuBBVI) | [Mesh Shaghleen Balna](https://open.spotify.com/album/66lwxRHTTYHzbcHc4gxVBq) | 3:34 | 2024-09-10 |  |
 | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/track/7a4fFS88i5CiAn3zCkfoGk) | [Hassan El Shafei](https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x), [Bosy](https://open.spotify.com/artist/3wREoMa2oI5qs6NsmQcsKb), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Mesh Shayfenhom \( Coke Studio Egypt 2023 \)](https://open.spotify.com/album/3wYZey6tv0VrSgpYUkCLQs) | 3:42 | 2023-08-03 | 2023-11-14 |
 | [Mestaghni \| مستغني](https://open.spotify.com/track/18RvhZWDpYtzyTwU4uopmT) | [Amr Mostafa](https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg) | [Mestaghni \| مستغني](https://open.spotify.com/album/7MMTCyQBuyEQi0elzGLMvP) | 2:54 | 2023-09-14 | 2023-12-30 |
 | [Mestaneky](https://open.spotify.com/track/6FDtQjEUHPak1EC1TPC2Wu) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Mestaneky](https://open.spotify.com/album/73gsCvCysoUpE4u4JRQxi3) | 4:17 | 2023-03-09 | 2023-05-09 |
@@ -558,6 +559,7 @@
 | [Mlook Alfarhah](https://open.spotify.com/track/4pcAKurw42eSHSWfmHpr6p) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Enaba](https://open.spotify.com/artist/6oKthe3hcKm6ZuPuTiyTnE) | [Mlook Alfarhah](https://open.spotify.com/album/0AU9qF9WsMUgbrYm6QqSDQ) | 1:36 | 2021-12-23 | 2022-01-21 |
 | [Mnamel](https://open.spotify.com/track/1DKPneXBsDu5ea9W01LOZm) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU), [Donia Wael](https://open.spotify.com/artist/1gUWwjX6wyoX6fOJ4z5Ha1) | [L Nor \(2\-3\)](https://open.spotify.com/album/0SYxXFWltccqziLMvruS5E) | 2:27 | 2023-09-29 | 2024-01-12 |
 | [Mnstchy](https://open.spotify.com/track/3kimm4bL3pTvb5ztJKSlgL) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u), [Rayen Youssef](https://open.spotify.com/artist/3rN1K1PmBAEbbdg2sOP2Pk) | [Mnstchy](https://open.spotify.com/album/6YJiJe5oITi4SxAxG9KkLz) | 3:13 | 2024-01-05 | 2024-02-09 |
+| [Mokhtalifa](https://open.spotify.com/track/5OmOPMs4xgR3UTRpYnYjd3) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Mokhtalifa](https://open.spotify.com/album/5jNzmtcSilAskFLb2iWulf) | 2:58 | 2024-09-10 |  |
 | [Momken Azaalak](https://open.spotify.com/track/4QKRv2FjUogwA1tHRr8LBH) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Momken Azaalak](https://open.spotify.com/album/0TaRvYnIEuXDfH5JVU0Q4f) | 3:38 | 2022-02-11 | 2022-05-19 |
 | [MONAMOUR](https://open.spotify.com/track/2ObrrFH0HIDrT3TfHV9Aqk) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [أفضل أغانى 2024](https://open.spotify.com/album/7Fx2opgiB62sccFEmebS9o) | 2:34 | 2024-07-24 |  |
 | [Mood Gahed](https://open.spotify.com/track/2KJfvsq3xNhaVWNVIOo4w1) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [Mood Gahed](https://open.spotify.com/album/5vNgfn5DeseZGYUkaZbS93) | 3:05 | 2024-01-25 | 2024-02-16 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Aline Barros. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 160357,
+  "description": "This is Aline Barros. The essential tracks, all in one playlist.",
+  "num_followers": 160368,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtzpAAAAAABoBclVitj6a67i2ro02Kzu",
+  "snapshot_id": "Zt46gAAAAADn++W5D7ERPB8+vpOfgzps",
   "tracks": [
     {
       "added_at": null,
@@ -299,22 +299,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Poder do Teu Amor",
-        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "Ao \u00danico",
-      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Adorai (Os Melhores Momentos)",
         "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
@@ -331,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+        "name": "O Poder do Teu Amor",
+        "url": "https://open.spotify.com/album/2L2bJBB02c1Lfe18VLwGsL"
       },
       "artists": [
         {
@@ -340,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 208608,
-      "name": "Primeiro Amor",
-      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
+      "duration_ms": 250840,
+      "name": "Ao \u00danico",
+      "url": "https://open.spotify.com/track/4ILBvXzE1hHidS46q6i7zO"
     },
     {
       "added_at": null,
@@ -547,6 +531,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 272741,
+      "name": "Esperan\u00e7a",
+      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Aline Barros e Cia",
         "url": "https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4"
       },
@@ -563,22 +563,6 @@
       "duration_ms": 202106,
       "name": "Pula Pula",
       "url": "https://open.spotify.com/track/3TtZVm8TkYTGUH8UKerZvy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 272741,
-      "name": "Esperan\u00e7a",
-      "url": "https://open.spotify.com/track/39haoAQl6lLuaSrZDelpAg"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 208608,
+      "name": "Primeiro Amor",
+      "url": "https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -624,25 +624,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 368454,
-      "name": "Bem-Aventurado (Blessed)",
-      "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Vem Fluir (Fall Like Rain)",
-        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 387779,
-      "name": "Vem Fluir (Fall Like Rain)",
-      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
+      "duration_ms": 394924,
+      "name": "Te Adorar \u00e9 o Meu Prazer",
+      "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
     },
     {
       "added_at": null,
@@ -659,6 +643,22 @@
       "duration_ms": 225200,
       "name": "Caminho de Milagres (Ao Vivo Nos Len\u00e7\u00f3is Maranhenses)",
       "url": "https://open.spotify.com/track/7sRranCzXO259L6YTbk9bm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem Fluir (Fall Like Rain)",
+        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 387779,
+      "name": "Vem Fluir (Fall Like Rain)",
+      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
     },
     {
       "added_at": null,
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 394924,
-      "name": "Te Adorar \u00e9 o Meu Prazer",
-      "url": "https://open.spotify.com/track/3tzl7KLt2URgiPTgqHf7uS"
+      "duration_ms": 368454,
+      "name": "Bem-Aventurado (Blessed)",
+      "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
     },
     {
       "added_at": null,
@@ -711,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jehov\u00e1 Jireh",
-        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
+        "name": "Adorai (Os Melhores Momentos)",
+        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
       "artists": [
         {
@@ -720,9 +720,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 336662,
-      "name": "Jehov\u00e1 Jireh",
-      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
+      "duration_ms": 241266,
+      "name": "Sem Limites",
+      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Adorai (Os Melhores Momentos)",
-        "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
+        "name": "Jehov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/52HfewNw5eXdITVHfj2bHK"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 241266,
-      "name": "Sem Limites",
-      "url": "https://open.spotify.com/track/0ipoF7Fraw4gW6QQf2bZcs"
+      "duration_ms": 336662,
+      "name": "Jehov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/45KWondblrT7ERIR2q3wiO"
     },
     {
       "added_at": null,

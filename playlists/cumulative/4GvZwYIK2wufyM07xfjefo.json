@@ -349,6 +349,24 @@
     },
     {
       "album": {
+        "name": "El rebano de Gish",
+        "url": "https://open.spotify.com/album/1Eq21TDbOSz31FFPRnVM4i"
+      },
+      "artists": [
+        {
+          "name": "Maubox",
+          "url": "https://open.spotify.com/artist/6Pawecfq5bF3s2o01TlOIe"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261543,
+      "name": "El rebano de Gish",
+      "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
+    },
+    {
+      "album": {
         "name": "\u3084\u307e\u306a\u3044\u30a2\u30e1",
         "url": "https://open.spotify.com/album/6WKi8TcYxz9GTEdqfg5KV1"
       },
@@ -404,7 +422,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 210000,
       "name": "Genshijin VR (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/67ZMR5fo3p2abfbiOPMHtv"
@@ -458,7 +476,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 458000,
       "name": "Jewel Box",
       "url": "https://open.spotify.com/track/5OoiWKJi45rv6vwnH2dnr9"
@@ -1039,6 +1057,28 @@
     },
     {
       "album": {
+        "name": "Koromogae",
+        "url": "https://open.spotify.com/album/0jKwaGOp0XyeyK5hwbCWQo"
+      },
+      "artists": [
+        {
+          "name": "Amamori P",
+          "url": "https://open.spotify.com/artist/1tlY9pasYap8HnzVQrCe1B"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "\u3055\u3088\u3059\u304c\u3089 (feat. \u82b1\u9688\u5343\u51ac)",
+      "url": "https://open.spotify.com/track/7etkJ5lXgNXMtDmGZWez7f"
+    },
+    {
+      "album": {
         "name": "\u305d\u3053\u306b\u3044\u305f\u3053\u3068",
         "url": "https://open.spotify.com/album/1lvFZFte1gQNeAAsemlMgH"
       },
@@ -1276,7 +1316,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 350000,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30fb\u30b6\u30fb\u30c4\u30a1\u30a4\u30b9 (feat. \u53ef\u4e0d)",
       "url": "https://open.spotify.com/track/7urN2V1SxQkNSTGBtS4BTL"
@@ -1648,7 +1688,7 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 162150,
       "name": "\u30c4\u30ae\u30cf\u30ae\u30ca\u30e0\u30b8\u30ab (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/1m0G8vtPj0SB2vaohgbjdj"
@@ -2098,10 +2138,28 @@
       ],
       "date_added": "2024-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 190626,
       "name": "\u30ec\u30b9\u30c8 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/0G6w5xoxRt1kygWF0KAoUi"
+    },
+    {
+      "album": {
+        "name": "\u8679\u8272\u306e\u304f\u3058\u3089",
+        "url": "https://open.spotify.com/album/6OUwNhriwtbvvipDcLj84e"
+      },
+      "artists": [
+        {
+          "name": "\u307d\u3066",
+          "url": "https://open.spotify.com/artist/3aCTrqguLqycn5cNbnkbdl"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176520,
+      "name": "\u30ec\u30c8\u30ed\u30ce\u30fc\u30c4",
+      "url": "https://open.spotify.com/track/7D2upCsReOlDhENdjlGKGo"
     },
     {
       "album": {
@@ -2360,6 +2418,24 @@
       "duration_ms": 248000,
       "name": "\u5341\u5e74\u5f8c\u306e\u79c1 \u5341\u5e74\u5f8c\u306e\u672a\u6765",
       "url": "https://open.spotify.com/track/1OZBcgqvnbK5aoUljojwni"
+    },
+    {
+      "album": {
+        "name": "at Last",
+        "url": "https://open.spotify.com/album/525LMTfWtCvvDpVuM1INqx"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u702c\u308b\u307d",
+          "url": "https://open.spotify.com/artist/4JPnxsMo1F3QOkh9KGDWz1"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273750,
+      "name": "\u541b\u306e\u8072\u3068\u8718\u86db\u306e\u7cf8",
+      "url": "https://open.spotify.com/track/24Ac11d10rb1aD8pCEcNPZ"
     },
     {
       "album": {
@@ -2626,6 +2702,24 @@
       "duration_ms": 209638,
       "name": "\u6700\u4f4e\u9650\u5ea6\u306e\u751f\u6d3b\u3092 (feat. \u521d\u97f3\u30df\u30af)",
       "url": "https://open.spotify.com/track/5NgYqtOyjG4bLFbMEHQs03"
+    },
+    {
+      "album": {
+        "name": "Voices In My Head",
+        "url": "https://open.spotify.com/album/0TmN163hGkI1GWE4h0BXNA"
+      },
+      "artists": [
+        {
+          "name": "regulus",
+          "url": "https://open.spotify.com/artist/0ZszsC66omhZ92du9Np8I3"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316097,
+      "name": "\u6a2a\u9854",
+      "url": "https://open.spotify.com/track/0dGzQtGRwBZsSSgFIdjp3R"
     },
     {
       "album": {

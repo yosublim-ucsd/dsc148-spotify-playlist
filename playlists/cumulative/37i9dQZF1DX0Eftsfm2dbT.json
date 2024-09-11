@@ -1455,6 +1455,24 @@
     },
     {
       "album": {
+        "name": "Are you serious?",
+        "url": "https://open.spotify.com/album/1VkcEVXoIxaOXyfgw28DYi"
+      },
+      "artists": [
+        {
+          "name": "Awich",
+          "url": "https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131037,
+      "name": "Are you serious?",
+      "url": "https://open.spotify.com/track/7EEJXDmUYdIZCoabv8jUXk"
+    },
+    {
+      "album": {
         "name": "Ase",
         "url": "https://open.spotify.com/album/7CUF5nRG7LacpOxIC5qDpJ"
       },
@@ -2740,7 +2758,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 146184,
       "name": "BOMBAE",
       "url": "https://open.spotify.com/track/0B3p9EdLUWwvF2X8A58CJt"
@@ -5448,6 +5466,28 @@
       "duration_ms": 157493,
       "name": "ENERGY SONG",
       "url": "https://open.spotify.com/track/61sk82mNl7QBvUftq94MD5"
+    },
+    {
+      "album": {
+        "name": "ENFJ",
+        "url": "https://open.spotify.com/album/0SdA5A8JmaMRutC9P3lyx1"
+      },
+      "artists": [
+        {
+          "name": "AI jacky",
+          "url": "https://open.spotify.com/artist/6cOuEef5ejInNSGz7d2OLU"
+        },
+        {
+          "name": "KNOTT",
+          "url": "https://open.spotify.com/artist/2NF3xtDv37VbHGizBsCQRh"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164996,
+      "name": "ENFJ",
+      "url": "https://open.spotify.com/track/0QRrMQZp9c407gkHZv7DOX"
     },
     {
       "album": {
@@ -8254,7 +8294,7 @@
       ],
       "date_added": "2024-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 180008,
       "name": "Hot Aura",
       "url": "https://open.spotify.com/track/41NlNxqA9ZwesmREjyixYJ"
@@ -10654,6 +10694,32 @@
       "duration_ms": 169646,
       "name": "Lost",
       "url": "https://open.spotify.com/track/4XrbQ2Njf0632aZUo40zlt"
+    },
+    {
+      "album": {
+        "name": "Lost Forever",
+        "url": "https://open.spotify.com/album/4aG2JYD32odGmvE2BfGCDs"
+      },
+      "artists": [
+        {
+          "name": "\u5c71\u7530\u30ae\u30e3\u30eb\u795e\u5bae",
+          "url": "https://open.spotify.com/artist/0Vxzbf42RZnV5TUq3JeOIs"
+        },
+        {
+          "name": "KUROMAKU",
+          "url": "https://open.spotify.com/artist/6C2U2QtF4rll9QqZJKKb2c"
+        },
+        {
+          "name": "ATSUKI",
+          "url": "https://open.spotify.com/artist/7Iv21VB4xGG5UsWdCw2A57"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Lost Forever",
+      "url": "https://open.spotify.com/track/3HSRdeQwMBXNP5dxN28qHJ"
     },
     {
       "album": {
@@ -14433,6 +14499,24 @@
     },
     {
       "album": {
+        "name": "Phantom",
+        "url": "https://open.spotify.com/album/3kW2AXepcttLkkOoCjG2oa"
+      },
+      "artists": [
+        {
+          "name": "me2",
+          "url": "https://open.spotify.com/artist/1bLpAMszAGByoGRRVdZsuh"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135653,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/5TyVH13iBGFmdcA5Sb1vvv"
+    },
+    {
+      "album": {
         "name": "Phenomeno",
         "url": "https://open.spotify.com/album/4yk7K6h54kH24QaEzxINC4"
       },
@@ -16028,7 +16112,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 222962,
       "name": "Romantic",
       "url": "https://open.spotify.com/track/1LMsFxKdOOiJbGP64IcTwg"
@@ -16744,7 +16828,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 168888,
       "name": "Shakin'",
       "url": "https://open.spotify.com/track/5ZreAcjNsT2Ojw2aA8uIRP"
@@ -17558,7 +17642,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 165350,
       "name": "STAND BY ME",
       "url": "https://open.spotify.com/track/0eSnqzlCv7im0zOHzXW2fD"
@@ -17897,6 +17981,24 @@
     },
     {
       "album": {
+        "name": "Sunglasses freestyle",
+        "url": "https://open.spotify.com/album/55qRduG3GgfKqPCYjeFq4Z"
+      },
+      "artists": [
+        {
+          "name": "Harka",
+          "url": "https://open.spotify.com/artist/6GcZguCVovv7iXEPq98VFI"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98400,
+      "name": "Sunglasses freestyle",
+      "url": "https://open.spotify.com/track/3wK2MRrbVI24W7kmrRDYvx"
+    },
+    {
+      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/3muT6VHrpJM16MqMc3yc97"
       },
@@ -18028,7 +18130,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 185217,
       "name": "Sweet Dream",
       "url": "https://open.spotify.com/track/5SO4GRQfqkL3zGAKAwWg3A"
@@ -18394,7 +18496,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 174730,
       "name": "THE CHRONIC",
       "url": "https://open.spotify.com/track/0XP2DAWHBbX7bK7NTFAUlH"
@@ -19865,6 +19967,24 @@
     },
     {
       "album": {
+        "name": "WANI",
+        "url": "https://open.spotify.com/album/43LOTZZiQvd5uMEVH4X6UK"
+      },
+      "artists": [
+        {
+          "name": "DONGURIZU",
+          "url": "https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140195,
+      "name": "WANI",
+      "url": "https://open.spotify.com/track/6B4yssWgngEArL9RJ9RHPn"
+    },
+    {
+      "album": {
         "name": "Wannabe",
         "url": "https://open.spotify.com/album/59ArA4migkYQtlzAvKE7aM"
       },
@@ -21008,7 +21128,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 148418,
       "name": "YW",
       "url": "https://open.spotify.com/track/2TaoYfJcOMXsiDZPI9FPwA"
@@ -21578,7 +21698,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 196666,
       "name": "\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u30b5\u30d0\u30f3\u30ca",
       "url": "https://open.spotify.com/track/76fLF0kLJ0mV7xTQqUHQZy"
@@ -22164,7 +22284,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 231033,
       "name": "\u4e59 (feat. NENE)",
       "url": "https://open.spotify.com/track/4S0kTyodr1Ajr4VwgCl8V7"
@@ -23304,7 +23424,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 211250,
       "name": "\u85ac\u5e74",
       "url": "https://open.spotify.com/track/54dwy2bwZH2g9uH8jtjWXj"

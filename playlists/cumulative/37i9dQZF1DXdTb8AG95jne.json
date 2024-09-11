@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Luli Lee(\uc774\ub8e8\ub9ac)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Savina & Drones(\uc0ac\ube44\ub098\uc564\ub4dc\ub860\uc988)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -2196,7 +2196,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 158838,
       "name": "crazy",
       "url": "https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X"
@@ -3896,7 +3896,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 198976,
       "name": "For all sorrow",
       "url": "https://open.spotify.com/track/7GJtyVwAj9DS0VSar0rFEK"
@@ -8409,6 +8409,24 @@
     },
     {
       "album": {
+        "name": "Lasha",
+        "url": "https://open.spotify.com/album/1mtNGgqIJJJongT6SqK4Um"
+      },
+      "artists": [
+        {
+          "name": "Savina & Drones",
+          "url": "https://open.spotify.com/artist/15sNY2hbxc4Vu8hI96mDt7"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264012,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/23qUzPqxqNOfeMfxO5LhoS"
+    },
+    {
+      "album": {
         "name": "Lily, Lily",
         "url": "https://open.spotify.com/album/11Ws2hc7clfj59RRldpJ6N"
       },
@@ -10124,6 +10142,24 @@
       "duration_ms": 173210,
       "name": "She's like a Pretty Witch (Feat. Kvsh)",
       "url": "https://open.spotify.com/track/1xZc4SJuQI9e9pES2h2imf"
+    },
+    {
+      "album": {
+        "name": "She's not straight",
+        "url": "https://open.spotify.com/album/4HjbWvsjIgiSQ9yxFRUql0"
+      },
+      "artists": [
+        {
+          "name": "jisokuryClub",
+          "url": "https://open.spotify.com/artist/4CIo3JKWdZi41ZKLlSjlyO"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230360,
+      "name": "She's not straight",
+      "url": "https://open.spotify.com/track/6K14UCl6PmwnmXxYOkfmeL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The perfect study beats\. Find your focus, crush your productivity.
 
-2,054 songs - 3 day 6 hr 18 min
+2,055 songs - 3 day 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1031,6 +1031,7 @@
 | [Looking Back](https://open.spotify.com/track/3Egy2qks6AS2LYP1RmnLCn) | [m.sorlii](https://open.spotify.com/artist/5yZq1pWTwP9YNCbuCBfROH), [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Looking Back](https://open.spotify.com/album/6mjTeqLjOIdGvj86dVQj4c) | 2:28 | 2022-11-18 | 2023-03-25 |
 | [looking back](https://open.spotify.com/track/0dxMj3mOuLH0igqGZQYEPe) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [looking back](https://open.spotify.com/album/1MgY24AwMIAt8E6w89K9Rq) | 2:10 | 2024-03-08 |  |
 | [Loose Changes](https://open.spotify.com/track/2TwnlyZK8MUipdASFzPSPl) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Loose Changes](https://open.spotify.com/album/6hW0KKfZpxIDwlSQDbE0Zo) | 2:08 | 2023-03-20 |  |
+| [Lost](https://open.spotify.com/track/2llOKtnQhAfwtQ5eZXbvgk) | [Slowday](https://open.spotify.com/artist/4twRiTv6fnJpXOReoe8bmz) | [Lost](https://open.spotify.com/album/3mAflyAPuXsplINO38Rp2h) | 2:24 | 2024-09-06 |  |
 | [Lost And Found](https://open.spotify.com/track/3FeSqMVjKFDcARrMBz9zvV) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Noomz](https://open.spotify.com/artist/2W85Y3jKObrtjjsa2o7dg6) | [Lost And Found](https://open.spotify.com/album/1wDBfVn0vYBPB93Xsfcl22) | 1:51 | 2022-07-29 | 2022-08-12 |
 | [Lost At Sea](https://open.spotify.com/track/0QtoMbZP4bssxALpUKklh2) | [Shibo](https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy) | [Lost At Sea](https://open.spotify.com/album/3JzGzTh1wjYugYa9OeehnO) | 2:32 | 2024-08-23 |  |
 | [Lost in LA](https://open.spotify.com/track/4dZBeDiuLJ6dKmB3NDqjui) | [Five Fingers](https://open.spotify.com/artist/10LCB4dVgrtVsM8SBEXtdS) | [Lost in LA](https://open.spotify.com/album/1jmrcNqyUhff0IGK1AwxVb) | 2:01 | 2023-01-20 |  |
@@ -1783,7 +1784,7 @@
 | [Taking Flight](https://open.spotify.com/track/73vGZ3fTM303YNDoXHIM3i) | [Mindeliq](https://open.spotify.com/artist/33FKoUeAEFuzVHGBd9IhcL), [Fred Paci](https://open.spotify.com/artist/24snO5m4Z01DjKf5gtl14T), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Taking Flight](https://open.spotify.com/album/2CywxdG7exuCBbMqZlcwVh) | 2:35 | 2023-01-13 | 2024-02-09 |
 | [Taking It Slow At The Beach](https://open.spotify.com/track/5xQJTQyGpzI48h8YYldXnD) | [Juliette](https://open.spotify.com/artist/2A9ozO2R5liuK6dMrhJwnQ) | [Taking It Slow at the Beach](https://open.spotify.com/album/4oNYznjAG04N2Wlvwen4Xn) | 2:05 | 2022-06-24 | 2022-11-26 |
 | [Taming Moon](https://open.spotify.com/track/3xy99WsoXDyCWqxgr87xWC) | [Moderator](https://open.spotify.com/artist/6fynenqBn7lrlAgVCw5YnB), [Etherealplcs](https://open.spotify.com/artist/0Xw0uyIbAWD1B7RZdUGHl7) | [Taming Moon](https://open.spotify.com/album/0hYF1wmiOmLnEB7O9FY5rB) | 2:25 | 2022-05-27 | 2022-11-12 |
-| [Tapestop](https://open.spotify.com/track/0UIlFZoYz9PobCAyzu7spv) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Tapestop](https://open.spotify.com/album/1m0mvaUvcJKMWegEJfGY7p) | 1:45 | 2023-08-17 | 2024-09-02 |
+| [Tapestop](https://open.spotify.com/track/0UIlFZoYz9PobCAyzu7spv) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Tapestop](https://open.spotify.com/album/1m0mvaUvcJKMWegEJfGY7p) | 1:45 | 2023-08-17 |  |
 | [Tartufo](https://open.spotify.com/track/1GPbMICiOkUgFylbUQB2bM) | [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt), [LESKY](https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf) | [Tartufo](https://open.spotify.com/album/4n5TIXBW3FZInQEf8sMR9t) | 2:31 | 2022-04-15 | 2022-10-14 |
 | [Tea](https://open.spotify.com/track/2a2Cu4OIJIhmlVCaSGkngS) | [Osian Lewis](https://open.spotify.com/artist/3kn72XyMIHZfZAQ4LqsUEs) | [Tea](https://open.spotify.com/album/2v9Ft3rcbvfKsnt8N0kSsK) | 2:10 | 2024-03-01 |  |
 | [Tea Tree](https://open.spotify.com/track/55mpA2gpXm8lnifAvhGmro) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Tea Tree](https://open.spotify.com/album/1KHbsf2RfIBpoWAqLgudbU) | 2:04 | 2022-04-15 | 2023-02-14 |
@@ -1995,7 +1996,7 @@
 | [What Matters](https://open.spotify.com/track/2LjUTOfZNTXuNfFZbhEdoA) | [Vancgroover](https://open.spotify.com/artist/4oAJgYdsGm7zkJgZTCPA0a) | [What Matters](https://open.spotify.com/album/5sCxBnzKBpeh7HuiQgPIKz) | 1:54 | 2022-09-16 | 2024-06-20 |
 | [What up robot?](https://open.spotify.com/track/1KWQNyfQxqB9oNjz8qLVyd) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [What up robot?](https://open.spotify.com/album/5xLM06IL0Hc9O86sN5NXo0) | 2:04 | 2023-01-13 |  |
 | [What When Why](https://open.spotify.com/track/0i0Q5eFr909SFwCzvoKWLY) | [Jonny Where How](https://open.spotify.com/artist/1ZpSXCUCMP3E5GPFmI1VMc) | [What When Why](https://open.spotify.com/album/6lbNaHUgHOKA7jytgTfIB4) | 2:17 | 2022-04-15 | 2023-03-02 |
-| [What's Up](https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [What's Up](https://open.spotify.com/album/2vu4V8wFYvlEclre1q0t92) | 2:42 | 2022-10-01 |  |
+| [What's Up](https://open.spotify.com/track/5G5SdyJn3gZi1nv1xFKlgv) | [Miki Maou](https://open.spotify.com/artist/1BVujMA5brgpV9fRkNUeFS) | [What's Up](https://open.spotify.com/album/2vu4V8wFYvlEclre1q0t92) | 2:42 | 2022-10-01 | 2024-09-11 |
 | [When I Get A Lil' Older](https://open.spotify.com/track/18vC8S9aI8kUMW49pJHdZR) | [Sid Southside](https://open.spotify.com/artist/4TiVNrltbnF40ju8ZrCgmG) | [I Recognize](https://open.spotify.com/album/0m84fp41o0EaSIf9SInbIo) | 2:31 | 2023-03-24 |  |
 | [When Our Eyes Meet](https://open.spotify.com/track/4A416X9ErbzPCkyuHl8lVZ) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [When Our Eyes Meet](https://open.spotify.com/album/7l7LGXNNY3M65UX5SgS9PV) | 1:27 | 2023-06-06 | 2023-10-06 |
 | [When We Last Spoke](https://open.spotify.com/track/5wAD3nLgZYfx9rq2nwj7ij) | [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq), [sloh rou](https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j) | [When We Last Spoke](https://open.spotify.com/album/729l7CLfvcWNkVX1Cm0ZyK) | 1:51 | 2022-04-22 | 2022-11-12 |
@@ -2058,7 +2059,7 @@
 | [Zephyr](https://open.spotify.com/track/70jg1afuHgAUYGEnqsh2n9) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [Zephyr](https://open.spotify.com/album/6NGoFqVVUw45s8vNrL5GDc) | 1:56 | 2024-06-15 |  |
 | [zero](https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4) | [invisible design](https://open.spotify.com/artist/0PGLAS23Jf5WcA4xaCmxLM) | [zero](https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz) | 2:27 | 2024-08-23 |  |
 | [Zeros](https://open.spotify.com/track/6ik7asMfpomN31lExYVYfz) | [Kartel of Sound](https://open.spotify.com/artist/1aaKuoHFyzRHeLh7nflK1R) | [Zeros](https://open.spotify.com/album/0g4xA0ZpkgM7SrEyvz6aZY) | 2:03 | 2024-03-08 |  |
-| [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 |  |
+| [Zlatan](https://open.spotify.com/track/2KXPb5Q3UQYFx6kmJesS2F) | [JAY VANILLA](https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV) | [Zlatan](https://open.spotify.com/album/56xbsZljmmaVTlTNAwtr5v) | 1:45 | 2023-08-31 | 2024-09-11 |
 | [Zodiac](https://open.spotify.com/track/01tUhIL7bgA6UrByND0Cg3) | [LXXXVII](https://open.spotify.com/artist/311w5PIT9AJHKLoVXGxboO) | [Zodiac](https://open.spotify.com/album/4KJIA7JL7y4Rhfpgb7BeVF) | 2:19 | 2024-02-02 |  |
 | [zodiac](https://open.spotify.com/track/52IDolnJNCfL4rA6UwDCi3) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [zodiac](https://open.spotify.com/album/6cyHjL3dwTcUhaYmdkrCxa) | 2:21 | 2023-03-08 |  |
 | [älv](https://open.spotify.com/track/5HiTU06li1OKrzNue6Vt4K) | [bomull](https://open.spotify.com/artist/1F32IriH9KUZxZzUoxeQub) | [älv](https://open.spotify.com/album/7D645woOaYW5g3iffXWfbK) | 2:38 | 2023-12-15 |  |

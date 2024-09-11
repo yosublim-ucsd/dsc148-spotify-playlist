@@ -1,6 +1,6 @@
 {
   "description": "No, el punk espa\u00f1ol NO EST\u00c1 MUERTO. Foto: La Polla Records.",
-  "num_followers": 106772,
+  "num_followers": 106794,
   "original_name": "Punk Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Ni Descanso, Ni Paz!",
-        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
-      },
-      "artists": [
-        {
-          "name": "La Polla Records",
-          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
-        }
-      ],
-      "duration_ms": 137102,
-      "name": "Ni Descanso, Ni Paz!",
-      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Cicatriz en la Matrix",
         "url": "https://open.spotify.com/album/51o67b23wyqqkYGN738zMG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 118986,
       "name": "Tenemos a la Pasma",
       "url": "https://open.spotify.com/track/2yGO1zOQ3psTV42DxtzF85"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "Ni Descanso, Ni Paz!",
+        "url": "https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z"
+      },
+      "artists": [
+        {
+          "name": "La Polla Records",
+          "url": "https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ"
+        }
+      ],
+      "duration_ms": 137102,
+      "name": "Ni Descanso, Ni Paz!",
+      "url": "https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Esta es una Noche de Rock & Roll",
-        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
-      },
-      "artists": [
-        {
-          "name": "Zirrosis",
-          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
-        }
-      ],
-      "duration_ms": 180444,
-      "name": "Esta es una Noche de Rock & Roll",
-      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Coraz\u00f3n ardiendo",
         "url": "https://open.spotify.com/album/0cRzS0eYvsw7rIRN2cTs97"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 181360,
       "name": "Coraz\u00f3n ardiendo",
       "url": "https://open.spotify.com/track/60zBmfg2Hle1y4VaUfISOo"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "Esta es una Noche de Rock & Roll",
+        "url": "https://open.spotify.com/album/6DK1XCDO0wA5W9kDauT88D"
+      },
+      "artists": [
+        {
+          "name": "Zirrosis",
+          "url": "https://open.spotify.com/artist/3hzp7HyJA5zS5VbpapOfFJ"
+        }
+      ],
+      "duration_ms": 180444,
+      "name": "Esta es una Noche de Rock & Roll",
+      "url": "https://open.spotify.com/track/4nJ2SE3AZm9qNh5hXH03uR"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Love the Antros",
-        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
-      },
-      "artists": [
-        {
-          "name": "Karne Cruda",
-          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
-        }
-      ],
-      "duration_ms": 155469,
-      "name": "Love the Antros",
-      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "Todos Mis Enemigos Se Llaman Cayetano",
         "url": "https://open.spotify.com/album/4vRnzZz0zMqGjYpQzOQNZL"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 57840,
       "name": "Todos Mis Enemigos Se Llaman Cayetano",
       "url": "https://open.spotify.com/track/2DBfn7HocTGusEpvCr0xQc"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "Love the Antros",
+        "url": "https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv"
+      },
+      "artists": [
+        {
+          "name": "Karne Cruda",
+          "url": "https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf"
+        }
+      ],
+      "duration_ms": 155469,
+      "name": "Love the Antros",
+      "url": "https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
-        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
-      },
-      "artists": [
-        {
-          "name": "Bellotaris Fallecidos",
-          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
-        }
-      ],
-      "duration_ms": 96666,
-      "name": "Vpo",
-      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
         "name": "A Quien Pueda Interesar (Remasterizado 2024)",
         "url": "https://open.spotify.com/album/0jk5qU3Z9l4EASdK6Avc8Q"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 165786,
       "name": "S\u00e1lvate Si Puedes - Remasterizado 2024",
       "url": "https://open.spotify.com/track/7a7Cno4XnbKNUuIw2SCmv9"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
+        "name": "Y el Que Sea Feo Que Haga los Recaos de Noche",
+        "url": "https://open.spotify.com/album/5I2wNu3nGj7oHCIFtH1Yne"
+      },
+      "artists": [
+        {
+          "name": "Bellotaris Fallecidos",
+          "url": "https://open.spotify.com/artist/7witIEaYssgO9srRY85ZLl"
+        }
+      ],
+      "duration_ms": 96666,
+      "name": "Vpo",
+      "url": "https://open.spotify.com/track/3Eo8g7AdbPGmODRv3yZidD"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1471,18 +1471,18 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/7DXcd7kx5qZ5Ig7G3YW5XG"
+        "name": "Dinero",
+        "url": "https://open.spotify.com/album/7xyExasxLlGYVceDILxbEG"
       },
       "artists": [
         {
-          "name": "Botijo",
-          "url": "https://open.spotify.com/artist/3z2FFbYE0YeU7FddwT3iBu"
+          "name": "Pota en la Sopa",
+          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
         }
       ],
-      "duration_ms": 221189,
-      "name": "Fuera de Lugar",
-      "url": "https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9"
+      "duration_ms": 198533,
+      "name": "Dinero",
+      "url": "https://open.spotify.com/track/23ChPzzuCbM0NrxBjLJcS9"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
-        "name": "Dinero",
-        "url": "https://open.spotify.com/album/7xyExasxLlGYVceDILxbEG"
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/7DXcd7kx5qZ5Ig7G3YW5XG"
       },
       "artists": [
         {
-          "name": "Pota en la Sopa",
-          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
+          "name": "Botijo",
+          "url": "https://open.spotify.com/artist/3z2FFbYE0YeU7FddwT3iBu"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Dinero",
-      "url": "https://open.spotify.com/track/23ChPzzuCbM0NrxBjLJcS9"
+      "duration_ms": 221189,
+      "name": "Fuera de Lugar",
+      "url": "https://open.spotify.com/track/1F6Twsu2NXTj63796f98k9"
     },
     {
       "added_at": "2024-09-09 10:56:10",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-09-09 10:56:10",
       "album": {
+        "name": "Basura",
+        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
+      },
+      "artists": [
+        {
+          "name": "Pota en la Sopa",
+          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Basura",
+      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
+    },
+    {
+      "added_at": "2024-09-09 10:56:10",
+      "album": {
         "name": "J\u00f3dete",
         "url": "https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 242320,
       "name": "Y sigo en pie",
       "url": "https://open.spotify.com/track/1mHavFRruSCwupKzTVGoys"
-    },
-    {
-      "added_at": "2024-09-09 10:56:10",
-      "album": {
-        "name": "Basura",
-        "url": "https://open.spotify.com/album/1hSJoS6GhfnxqtJabaTXhg"
-      },
-      "artists": [
-        {
-          "name": "Pota en la Sopa",
-          "url": "https://open.spotify.com/artist/4fOyA8pQ1Td1iE1kCPKCOO"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Basura",
-      "url": "https://open.spotify.com/track/2Lwyx3R8KUFq2bHuiwccty"
     },
     {
       "added_at": "2024-09-09 10:56:10",

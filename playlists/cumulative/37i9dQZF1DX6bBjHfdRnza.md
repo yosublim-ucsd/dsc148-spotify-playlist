@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Cover: BOABOA\. Artwork by Rewina Beshue.
 
-2,367 songs - 6 day 16 hr 41 min
+2,367 songs - 6 day 16 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [Dance with Me](https://open.spotify.com/track/1twGsEDffBMQ5zoftqG1Lw) | [Mirko Di Florio](https://open.spotify.com/artist/4B9TNYzqv1ClVclflVWMic) | [Dance with Me](https://open.spotify.com/album/6n5gAyPw5RcOalTYLogKoQ) | 3:20 | 2023-01-25 | 2023-03-02 |
 | [Dance With U](https://open.spotify.com/track/7admpnx6uCD1rkkcxlJEJH) | [Leo Brown](https://open.spotify.com/artist/44NtFX5OfUfdUIVYoGE3ND) | [Dance With U](https://open.spotify.com/album/48IwGFznorkRVpsRtqqatu) | 2:51 | 2024-03-15 | 2024-05-11 |
 | [Dance With You](https://open.spotify.com/track/2pgAIjDHGyhCiljwR8cHA6) | [Mohtiv](https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG) | [Dance With You](https://open.spotify.com/album/37ON9AutvXnoBSES8QzuIA) | 2:52 | 2024-05-08 | 2024-08-29 |
-| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 4:28 | 2024-08-28 |  |
+| [Dance With You \(All Night\)](https://open.spotify.com/track/6XhziaA2fyAnIy9NgnHxqX) | [Menesix](https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ) | [Dance With You \(All Night\)](https://open.spotify.com/album/2tnfANxib7urtE2qaqt9zG) | 3:08 | 2024-08-28 |  |
 | [Dancefloor](https://open.spotify.com/track/1aDd5ioq8tzscMo3tYVLfU) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [Dancefloor](https://open.spotify.com/album/0LHWlUFCB7xkGVmlgfZFI2) | 4:00 | 2022-06-08 | 2022-08-11 |
 | [Dancefloor Spesh](https://open.spotify.com/track/2KiCf8pnPgHuKPkK6ap6qi) | [PJ Bridger](https://open.spotify.com/artist/3qVbqMOyXN5vbE2933VvWW) | [Dancefloor Spesh](https://open.spotify.com/album/4sDNJYdslwuPW4h0UHPkSK) | 5:54 | 2023-05-24 | 2023-06-29 |
 | [Dante](https://open.spotify.com/track/6qu76WRo3VSmJpQqrZUXMj) | [Mia Vice](https://open.spotify.com/artist/5tWzAR3Y3EWKm2OwYY4UAY) | [Dante](https://open.spotify.com/album/5KPgNXRUVf1zPwUeFVPTq7) | 5:44 | 2023-08-30 | 2023-09-28 |

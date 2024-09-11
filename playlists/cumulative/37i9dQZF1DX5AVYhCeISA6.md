@@ -2,7 +2,7 @@
 
 ### [Inspiring Latinas](https://open.spotify.com/playlist/37i9dQZF1DX5AVYhCeISA6)
 
-> el final de un capítulo 🌸 KAROL G cierra el tour de MSB 🌈💖✨
+> el final de un capítulo 🌸 KAROL G en el tour de MSB 🌈💖✨
 
 229 songs - 12 hr 26 min
 

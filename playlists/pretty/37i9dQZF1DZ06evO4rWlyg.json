@@ -1,12 +1,12 @@
 {
-  "description": "This Is Bj\u00f6rk. Los temas esenciales, todos en una lista.",
-  "num_followers": 136924,
+  "description": "This is Bj\u00f6rk. The essential tracks, all in one playlist.",
+  "num_followers": 136954,
   "original_name": "This Is Bj\u00f6rk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtzpAAAAAAAIkP50L6i4hqYWZJvZ6gVl",
+  "snapshot_id": "Zt46gAAAAADFnjF0UQarRxOHRhZ3mWmW",
   "tracks": [
     {
       "added_at": null,
@@ -131,8 +131,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fossora",
-        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
+        "name": "Vespertine",
+        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
       },
       "artists": [
         {
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 44405,
-      "name": "Fagurt Er \u00cd Fj\u00f6r\u00f0um",
-      "url": "https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS"
+      "duration_ms": 314866,
+      "name": "Pagan Poetry",
+      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
     },
     {
       "added_at": null,
@@ -179,8 +179,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vespertine",
-        "url": "https://open.spotify.com/album/7sScYIMy44GyOll7TpWcak"
+        "name": "Fossora",
+        "url": "https://open.spotify.com/album/5NchVUjB8yqNhqSeBYaFVy"
       },
       "artists": [
         {
@@ -188,9 +188,9 @@
           "url": "https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA"
         }
       ],
-      "duration_ms": 314866,
-      "name": "Pagan Poetry",
-      "url": "https://open.spotify.com/track/2uMm657euPoE7Vgaukuupl"
+      "duration_ms": 44405,
+      "name": "Fagurt Er \u00cd Fj\u00f6r\u00f0um",
+      "url": "https://open.spotify.com/track/4X34cTviyVZ0mVojwUfplS"
     },
     {
       "added_at": null,

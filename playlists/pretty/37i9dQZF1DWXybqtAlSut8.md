@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,982 likes - 56 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,090 likes - 56 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,19 +13,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 3 | [All Creatures of Our God and King \- Piano](https://open.spotify.com/track/0OkaDCNIJOMuwL5JYp6fmh) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Our God and King \(Piano\)](https://open.spotify.com/album/32E8Rf6P23KTvY63PY0OpW) | 2:54 |
 | 4 | [Close To Thee](https://open.spotify.com/track/44GOEcCmzjIgOItTbZUcO0) | [Victor Kovacs](https://open.spotify.com/artist/5JF3HMNudSKqJDkgCOzULV) | [Close To Thee](https://open.spotify.com/album/4rCn7sMH02gp4YyoufBchC) | 2:48 |
 | 5 | [Beautiful Place](https://open.spotify.com/track/1tHNih8afCvuqWReZWcpvZ) | [Ricardo Henriquez](https://open.spotify.com/artist/2KphNahrTQR94NfgOp0wXn) | [Beautiful Place](https://open.spotify.com/album/1Y3DJYLI58h8DdZhlQTcyA) | 2:44 |
-| 6 | [Jesus Loves Me, This I Know \- Piano](https://open.spotify.com/track/69vZKe90OwhRnQ6ZC5dzEJ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:33 |
-| 7 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 |
-| 8 | [All Hail the Power of Jesus' Name \(Coronation\) \- Piano](https://open.spotify.com/track/4PsucT5BzsvcT98uW4fs1D) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [The Power of His Joy \(Piano\)](https://open.spotify.com/album/6DXOJdQGlsENNI4T7JyNuE) | 2:18 |
+| 6 | [Sweet Hour Of Prayer](https://open.spotify.com/track/0kxftcnP8dnDJmU38gG5dc) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Sweet Hour Of Prayer](https://open.spotify.com/album/4wD93qlTwPBFDhtMC0DOY1) | 3:26 |
+| 7 | [All Hail the Power of Jesus' Name \(Coronation\) \- Piano](https://open.spotify.com/track/4PsucT5BzsvcT98uW4fs1D) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [The Power of His Joy \(Piano\)](https://open.spotify.com/album/6DXOJdQGlsENNI4T7JyNuE) | 2:18 |
+| 8 | [Jesus Loves Me, This I Know \- Piano](https://open.spotify.com/track/69vZKe90OwhRnQ6ZC5dzEJ) | [Sacred Keys](https://open.spotify.com/artist/5M6nB85ptAF8gjR6ivoJv7) | [Glorious Peaceful Hymns \(Piano\)](https://open.spotify.com/album/6zG36CBTmA4hX6Gmqoglb7) | 2:33 |
 | 9 | [Nearer, My God, to Thee \- Piano](https://open.spotify.com/track/6tmfx84m0fPjDRWaEOJRsp) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:34 |
 | 10 | [Upon arising](https://open.spotify.com/track/0mjJd9JwaIF6MPaqm04PDT) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Upon arising](https://open.spotify.com/album/1vaVict2D2c1gGhRnJxamu) | 2:07 |
 | 11 | [Lord, I Need You \- Instrumental](https://open.spotify.com/track/3kR85FFf3Xe6Dj2orfHJdk) | [Dan Musselman](https://open.spotify.com/artist/7kuyOw0FKwn0BwTHegjJ4g) | [Peaceful Piano Worship, Volume 2](https://open.spotify.com/album/6MLd4WUU9jlMAhwcV1xueI) | 3:15 |
 | 12 | [The Creation Praise You Pt.2](https://open.spotify.com/track/0pcRN3rMp4HP0EAZ3nEVd3) | [Alexander Sundstrom](https://open.spotify.com/artist/4LnkZVv27mMYZ7lVYJvu1b) | [Eternal Moments](https://open.spotify.com/album/2G2YBVIdKF3rYcnLeP8tJD) | 1:10 |
 | 13 | [All People That On Earth Do Dwell \(Old 100th\) \- Piano](https://open.spotify.com/track/4FHD0MYyJg3BNNUZnUmlsF) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Season of Worship \(Piano\)](https://open.spotify.com/album/0gWl3xtKjxGjmkToyF41g0) | 2:10 |
-| 14 | [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 |
-| 15 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
-| 16 | [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 |
-| 17 | [Our Father](https://open.spotify.com/track/5ArPxeGPthvPdzoQnhrjy5) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Our Father](https://open.spotify.com/album/69HvfWXNfqKJvOlU13tb1U) | 3:22 |
-| 18 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 |
+| 14 | [Crown Him With Many Crowns \(Diademata\) \- Piano](https://open.spotify.com/track/3UMfcEhL0p23Tq21QJv3b1) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [Onward Into His Glory \(Piano\)](https://open.spotify.com/album/7rip3tOp7NqOvhRuNcTdmU) | 2:40 |
+| 15 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 |
+| 16 | [This Little Light Of Mine](https://open.spotify.com/track/1plzn99hcRGdxIaI1YLDeW) | [Olivier Willow](https://open.spotify.com/artist/4IEBEBW5CshJaaqArMS6up) | [This Little Light Of Mine](https://open.spotify.com/album/0Qcf8R4FEz3bGkynbwCFGE) | 2:20 |
+| 17 | [Awake! The Voice is Calling Us](https://open.spotify.com/track/1jWzAMYmK7ARcZKLvgmsAT) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [Awake! The Voice is Calling Us](https://open.spotify.com/album/6fWkX8xZnKydG5JichMXdn) | 2:31 |
+| 18 | [Our Father](https://open.spotify.com/track/5ArPxeGPthvPdzoQnhrjy5) | [Carlo Verde](https://open.spotify.com/artist/3XEOasc1hHiS4EAcYVI1Lt) | [Our Father](https://open.spotify.com/album/69HvfWXNfqKJvOlU13tb1U) | 3:22 |
 | 19 | [Upright](https://open.spotify.com/track/6YCdFKgr4EKMpOoanmmXLB) | [Piano Logos](https://open.spotify.com/artist/71Y0cryV3GqHeCgRbduLJC) | [Blameless](https://open.spotify.com/album/5YqPtFU9BvjlCyJ9RUAouH) | 1:40 |
 | 20 | [tis So Sweet To Trust In Jesus \- Piano](https://open.spotify.com/track/6uZZOnfsqJ6uk3KjAFhtVX) | [Faithful Horizon](https://open.spotify.com/artist/2kl2iJXfU234FdA96LCCIM) | [Hymns to Worship Our Savior \(Piano\)](https://open.spotify.com/album/2ZPomiRL9ZzUdv2O3MLco7) | 2:26 |
 | 21 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXybqtAlSut8.md) - [plain]
 | 55 | [In Christ Alone](https://open.spotify.com/track/0oFzpmAIsjEDui3iZ2cfvj) | [Divine Refrains](https://open.spotify.com/artist/0ORcsXfAGHEFzVNBGobA1p) | [Great Is Thy Faithfulness](https://open.spotify.com/album/1NmCBI4tY3Y4rhutZzoLp2) | 2:30 |
 | 56 | [What A Friend We Have In Jesus](https://open.spotify.com/track/4TTgSYLyZPzlwmjU4w37Il) | [Chapman Asbury](https://open.spotify.com/artist/3JmHUA1Ro9pT1JJEhluIBJ) | [What A Friend We Have In Jesus](https://open.spotify.com/album/4Pb3IkcjHTvvAMUqoZsn7p) | 3:46 |
 
-Snapshot ID: `Ztb06wAAAAA7rDjb1aGcnAVuny6pQn5y`
+Snapshot ID: `ZuAcsAAAAAD904ZwKxJi80xqgdyZDATg`

@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que est\u00e1 subiendo. Foto: Donaty",
-  "num_followers": 117376,
+  "num_followers": 117398,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Ztm7EwAAAAD4VukIKQAbNNpPiB6+k3DM",
+  "snapshot_id": "ZuB3aQAAAAC7HZ/H0UgdhzAxVvww7rZo",
   "tracks": [
     {
       "added_at": "2024-09-05 14:06:54",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/520zY3iBFbIpJ5FJNoVt3i"
     },
     {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "Wao Que Nota",
+        "url": "https://open.spotify.com/album/1yIF45GXoVtvYAFMKvlFS1"
+      },
+      "artists": [
+        {
+          "name": "Dixson Waz",
+          "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+        }
+      ],
+      "duration_ms": 108660,
+      "name": "Wao Que Nota",
+      "url": "https://open.spotify.com/track/3MU9eWDBBuUJYCRN9evsIg"
+    },
+    {
       "added_at": "2024-03-21 19:13:50",
       "album": {
         "name": "Ou Ou",
@@ -47,22 +63,6 @@
       "duration_ms": 146865,
       "name": "Ou Ou",
       "url": "https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF"
-    },
-    {
-      "added_at": "2024-09-05 14:06:54",
-      "album": {
-        "name": "Wey Wey Wey",
-        "url": "https://open.spotify.com/album/07PuM1653RF6LTC3MmmqNZ"
-      },
-      "artists": [
-        {
-          "name": "Jey One",
-          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
-        }
-      ],
-      "duration_ms": 131964,
-      "name": "Wey Wey Wey",
-      "url": "https://open.spotify.com/track/5RTro716Bn7eVoSnB6k5OS"
     },
     {
       "added_at": "2024-08-01 03:37:43",
@@ -93,6 +93,34 @@
       "url": "https://open.spotify.com/track/1FExEHMPs4J1qLZTPFOuaX"
     },
     {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "Bellaca",
+        "url": "https://open.spotify.com/album/3bqjZQL8ThM5YSg3LXnV6P"
+      },
+      "artists": [
+        {
+          "name": "Felony",
+          "url": "https://open.spotify.com/artist/1YpZR5JBeYmWSq3C1WREKG"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "Onguito Wa",
+          "url": "https://open.spotify.com/artist/5gIa74oRT4LLG0AioLVn6F"
+        },
+        {
+          "name": "DJ Chulo NYC",
+          "url": "https://open.spotify.com/artist/6c6C4zF0PwHiS5EdDQbrLC"
+        }
+      ],
+      "duration_ms": 189400,
+      "name": "Bellaca",
+      "url": "https://open.spotify.com/track/3z514eM3Fq9JR2R8uNKWR6"
+    },
+    {
       "added_at": "2024-08-29 16:56:43",
       "album": {
         "name": "To No Morimo",
@@ -107,26 +135,6 @@
       "duration_ms": 144004,
       "name": "To No Morimo",
       "url": "https://open.spotify.com/track/0WjYqtGGmGoPEVGk5kFqu8"
-    },
-    {
-      "added_at": "2024-08-29 16:56:43",
-      "album": {
-        "name": "Ella Quiere Prender",
-        "url": "https://open.spotify.com/album/5lXIG6hvqNNs7j1xz7JISw"
-      },
-      "artists": [
-        {
-          "name": "JeycitoLM",
-          "url": "https://open.spotify.com/artist/238gi90zN8qUlMGGERfXF4"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 114647,
-      "name": "Ella Quiere Prender",
-      "url": "https://open.spotify.com/track/3cyxDhxAdCdrmglYQE1gNP"
     },
     {
       "added_at": "2024-02-08 22:40:39",
@@ -153,24 +161,20 @@
       "url": "https://open.spotify.com/track/0psfsyaZP1MNEBiTSeTM9N"
     },
     {
-      "added_at": "2024-09-05 14:06:54",
+      "added_at": "2024-09-10 16:44:25",
       "album": {
-        "name": "Gare",
-        "url": "https://open.spotify.com/album/2GJ25CRNOCuooga8BthoF4"
+        "name": "Si No Es Mala, No La Sube - En Vivo",
+        "url": "https://open.spotify.com/album/4owYaHoqagOqVc2bEnno2Q"
       },
       "artists": [
         {
-          "name": "Flow 28",
-          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
         }
       ],
-      "duration_ms": 136010,
-      "name": "Gare",
-      "url": "https://open.spotify.com/track/5CswnaIe28vwtSh7yJ926Y"
+      "duration_ms": 141522,
+      "name": "Si No Es Mala, No La Sube - En Vivo",
+      "url": "https://open.spotify.com/track/5H4uoVYo7tQw9DgwbRL0wI"
     },
     {
       "added_at": "2024-07-18 20:05:48",
@@ -205,6 +209,26 @@
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "E' buena Que Tu Ta",
+        "url": "https://open.spotify.com/album/3nQ5VDPAxC7sBJCl0KtBLj"
+      },
+      "artists": [
+        {
+          "name": "Yoan Retro",
+          "url": "https://open.spotify.com/artist/2cMBe6WzKwPphDZ0QNK8Zi"
+        },
+        {
+          "name": "GMBeats Degranalo",
+          "url": "https://open.spotify.com/artist/0vOOkAomy9bzW2dXw1HiWJ"
+        }
+      ],
+      "duration_ms": 90422,
+      "name": "E' buena Que Tu Ta",
+      "url": "https://open.spotify.com/track/1i7U7NldmeLj3jSFbnArdv"
+    },
+    {
       "added_at": "2024-06-12 20:16:51",
       "album": {
         "name": "PIKY",
@@ -225,44 +249,24 @@
       "url": "https://open.spotify.com/track/3s53B1v7ijagovFhhWVX8n"
     },
     {
-      "added_at": "2024-08-29 16:56:43",
+      "added_at": "2024-09-10 16:44:25",
       "album": {
-        "name": "MALA",
-        "url": "https://open.spotify.com/album/2CR1ez0u1gFz1P8QxZY5IO"
+        "name": "Toki Toki",
+        "url": "https://open.spotify.com/album/5wqbNwqUD6SOp2wMQKdhjt"
       },
       "artists": [
         {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+          "name": "La Kikada",
+          "url": "https://open.spotify.com/artist/7Fpb4yEAPfiQfY0Bx0uLm5"
         },
         {
-          "name": "Shadow Blow",
-          "url": "https://open.spotify.com/artist/53cVnpkm8dTmf20tssYSNF"
+          "name": "Potencia Lirical",
+          "url": "https://open.spotify.com/artist/6fxEt6A7hRd7Iq4FnwSxVb"
         }
       ],
-      "duration_ms": 140850,
-      "name": "MALA",
-      "url": "https://open.spotify.com/track/1NxuiVZB05U7lW8kwFeuSL"
-    },
-    {
-      "added_at": "2024-08-29 16:56:43",
-      "album": {
-        "name": "Te Fundite",
-        "url": "https://open.spotify.com/album/6SU3U8l4zWMcjCHdvi9Wv6"
-      },
-      "artists": [
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 145384,
-      "name": "Te Fundite",
-      "url": "https://open.spotify.com/track/26rp4TUpsgkPm0eXYUBKH0"
+      "duration_ms": 168421,
+      "name": "Toki Toki",
+      "url": "https://open.spotify.com/track/37zcb8ExP6wLm9613zIsG8"
     },
     {
       "added_at": "2024-09-05 14:06:54",
@@ -323,6 +327,26 @@
       "duration_ms": 140874,
       "name": "Che Che",
       "url": "https://open.spotify.com/track/7ESqP17DjGLx7j8fm0Gp2L"
+    },
+    {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "POPOLI",
+        "url": "https://open.spotify.com/album/7Lvk6twBYDakvDFzIDsVDz"
+      },
+      "artists": [
+        {
+          "name": "JEYCOORD",
+          "url": "https://open.spotify.com/artist/5Zzi1E5kq6bZ6cC3MKSIPn"
+        },
+        {
+          "name": "Hansel El De La H",
+          "url": "https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG"
+        }
+      ],
+      "duration_ms": 103304,
+      "name": "POPOLI",
+      "url": "https://open.spotify.com/track/7fwOd7J9jXj30nJHPNjJNq"
     },
     {
       "added_at": "2024-08-29 16:56:43",
@@ -405,6 +429,26 @@
       "url": "https://open.spotify.com/track/5UuRRWrcCT3k0KttaAExlw"
     },
     {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "POW",
+        "url": "https://open.spotify.com/album/1MLqpklqPNyQeyq4l0lQ4R"
+      },
+      "artists": [
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        },
+        {
+          "name": "Pio el titoki",
+          "url": "https://open.spotify.com/artist/2yIqmykK6KOTqpqg0kLS6y"
+        }
+      ],
+      "duration_ms": 98310,
+      "name": "POW",
+      "url": "https://open.spotify.com/track/7trOK3oFaxfYQMW4LtmOA0"
+    },
+    {
       "added_at": "2024-05-23 17:26:04",
       "album": {
         "name": "Dominguito",
@@ -429,24 +473,36 @@
       "url": "https://open.spotify.com/track/5QcwrMLWShJEleFfffobvV"
     },
     {
-      "added_at": "2024-08-29 16:56:43",
+      "added_at": "2024-09-05 14:06:54",
       "album": {
-        "name": "PASAME EL CHIQUITO",
-        "url": "https://open.spotify.com/album/0tu2myzeNya8hlKceurV7V"
+        "name": "Wey Wey Wey",
+        "url": "https://open.spotify.com/album/07PuM1653RF6LTC3MmmqNZ"
       },
       "artists": [
         {
-          "name": "Jezzy",
-          "url": "https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu"
-        },
-        {
-          "name": "Leo RD",
-          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
+          "name": "Jey One",
+          "url": "https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw"
         }
       ],
-      "duration_ms": 98020,
-      "name": "PASAME EL CHIQUITO",
-      "url": "https://open.spotify.com/track/7HNY6wBfosPugcTdT58Zwx"
+      "duration_ms": 131964,
+      "name": "Wey Wey Wey",
+      "url": "https://open.spotify.com/track/5RTro716Bn7eVoSnB6k5OS"
+    },
+    {
+      "added_at": "2024-09-10 16:44:25",
+      "album": {
+        "name": "MUEVE LA CINTURA",
+        "url": "https://open.spotify.com/album/6EHtzdrFRuiwsNIFTr4Erw"
+      },
+      "artists": [
+        {
+          "name": "Peino P",
+          "url": "https://open.spotify.com/artist/5wCvgTfFJzI4PPhNW5hNpj"
+        }
+      ],
+      "duration_ms": 84250,
+      "name": "MUEVE LA CINTURA",
+      "url": "https://open.spotify.com/track/7IPkDK0EBSvzzPpRoLp5ds"
     },
     {
       "added_at": "2024-05-30 18:05:50",
@@ -573,24 +629,24 @@
       "url": "https://open.spotify.com/track/0H62ltcrmOg1SJDKkZD95P"
     },
     {
-      "added_at": "2024-08-29 16:56:43",
+      "added_at": "2024-09-05 14:06:54",
       "album": {
-        "name": "Ya Te La Bebite",
-        "url": "https://open.spotify.com/album/70Yw1b0kfQwFygx290Cxgp"
+        "name": "Gare",
+        "url": "https://open.spotify.com/album/2GJ25CRNOCuooga8BthoF4"
       },
       "artists": [
         {
-          "name": "El Sicokario",
-          "url": "https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6"
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
         },
         {
-          "name": "42palmundo",
-          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
+          "name": "Leo RD",
+          "url": "https://open.spotify.com/artist/7w0t8O8nbirfLvGJgKK0xk"
         }
       ],
-      "duration_ms": 81951,
-      "name": "Ya Te La Bebite",
-      "url": "https://open.spotify.com/track/4VSZFNUhsBjlZNKZYhzp1e"
+      "duration_ms": 136010,
+      "name": "Gare",
+      "url": "https://open.spotify.com/track/5CswnaIe28vwtSh7yJ926Y"
     },
     {
       "added_at": "2024-04-17 10:33:51",
@@ -607,22 +663,6 @@
       "duration_ms": 184938,
       "name": "LA LECHE MATERNA",
       "url": "https://open.spotify.com/track/6HjooscdDxnbZ169Y47gAF"
-    },
-    {
-      "added_at": "2024-08-29 16:56:43",
-      "album": {
-        "name": "Modo Yetti",
-        "url": "https://open.spotify.com/album/2kMdw5L46esbnWhhfqXb0C"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        }
-      ],
-      "duration_ms": 142564,
-      "name": "Modo Yetti",
-      "url": "https://open.spotify.com/track/0VEAYIKldkuyfTjKDRSUML"
     },
     {
       "added_at": "2024-05-09 19:47:36",
@@ -781,66 +821,6 @@
       "url": "https://open.spotify.com/track/0qklyeTyK2bs4T3wkPZPsE"
     },
     {
-      "added_at": "2024-08-29 16:56:43",
-      "album": {
-        "name": "Travesura (feat. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few)",
-        "url": "https://open.spotify.com/album/5Z6tPU1jLZefXRvDX0T0I8"
-      },
-      "artists": [
-        {
-          "name": "Boy Wonder CF",
-          "url": "https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF"
-        },
-        {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Nino Freestyle",
-          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        },
-        {
-          "name": "Chelsy",
-          "url": "https://open.spotify.com/artist/2DR4ukJfl3MNXYWPTFMe7D"
-        },
-        {
-          "name": "Three Seven Music",
-          "url": "https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb"
-        },
-        {
-          "name": "The Chosen Few",
-          "url": "https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Travesura (feat. Lenny Santos, Chelsy, Three Seven Music & The Chosen Few)",
-      "url": "https://open.spotify.com/track/1HNPpduwc2H95IC1eMJuXB"
-    },
-    {
-      "added_at": "2024-01-18 21:46:59",
-      "album": {
-        "name": "Trola (Remix)",
-        "url": "https://open.spotify.com/album/2ZcAECGG7NfhuXyUNHfso9"
-      },
-      "artists": [
-        {
-          "name": "Yailin la Mas Viral",
-          "url": "https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt"
-        },
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        }
-      ],
-      "duration_ms": 144923,
-      "name": "Trola (Remix)",
-      "url": "https://open.spotify.com/track/2IeZQmfUHbPtzsK2RAq430"
-    },
-    {
       "added_at": "2024-02-01 23:53:43",
       "album": {
         "name": "UN VOLAO",
@@ -855,30 +835,6 @@
       "duration_ms": 99000,
       "name": "UN VOLAO",
       "url": "https://open.spotify.com/track/1QBrDmUZ28brJz8vdvxzxI"
-    },
-    {
-      "added_at": "2024-08-29 16:56:43",
-      "album": {
-        "name": "Diligencia",
-        "url": "https://open.spotify.com/album/7LVaVM23RIJqjEYgNQ5jtG"
-      },
-      "artists": [
-        {
-          "name": "Kreizy k",
-          "url": "https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        },
-        {
-          "name": "El Piky",
-          "url": "https://open.spotify.com/artist/4KqB52DfLAKRtgqNwMnvJW"
-        }
-      ],
-      "duration_ms": 130168,
-      "name": "Diligencia",
-      "url": "https://open.spotify.com/track/7ePmCLyUQPf3wCZcQZ01zW"
     },
     {
       "added_at": "2024-07-18 20:05:48",
@@ -1005,26 +961,6 @@
       "url": "https://open.spotify.com/track/7f3S36TfLiQcLfiva9rWeq"
     },
     {
-      "added_at": "2024-07-02 22:11:19",
-      "album": {
-        "name": "Siento Que Si",
-        "url": "https://open.spotify.com/album/3gM2Pg2gLIhg71ooGLgZCJ"
-      },
-      "artists": [
-        {
-          "name": "Papaa Tyga",
-          "url": "https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC"
-        },
-        {
-          "name": "OG DETRUYELO",
-          "url": "https://open.spotify.com/artist/3gPb5oQZHqLolM6gP0IBli"
-        }
-      ],
-      "duration_ms": 137288,
-      "name": "Siento Que Si",
-      "url": "https://open.spotify.com/track/441wRCgso9TQUj4sL4Jnzc"
-    },
-    {
       "added_at": "2024-08-08 13:47:32",
       "album": {
         "name": "Doblando",
@@ -1043,22 +979,6 @@
       "duration_ms": 127874,
       "name": "Doblando",
       "url": "https://open.spotify.com/track/3KIJl1kSQ0o4NT7ExS28Bp"
-    },
-    {
-      "added_at": "2024-07-02 22:11:19",
-      "album": {
-        "name": "Aay Q Mirala",
-        "url": "https://open.spotify.com/album/1lJa5BZdSBbZBnQqe8nSSx"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 130619,
-      "name": "Aay Q Mirala",
-      "url": "https://open.spotify.com/track/2ZMZWzli6S2mqQakuFEas4"
     },
     {
       "added_at": "2024-08-01 03:37:43",
@@ -1249,30 +1169,6 @@
       "url": "https://open.spotify.com/track/2gHnanUQHwdDyFvgVnHH9p"
     },
     {
-      "added_at": "2024-08-08 13:47:32",
-      "album": {
-        "name": "Carol y Nikol",
-        "url": "https://open.spotify.com/album/64tbhddVSQsNzzfK4LtNmt"
-      },
-      "artists": [
-        {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "Bulova",
-          "url": "https://open.spotify.com/artist/6NAhbfEqeWELwfjH391Vz0"
-        },
-        {
-          "name": "El Baby R",
-          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
-        }
-      ],
-      "duration_ms": 152264,
-      "name": "Carol y Nikol",
-      "url": "https://open.spotify.com/track/6BsMycS2yU6h3ircUA5NFP"
-    },
-    {
       "added_at": "2024-07-25 17:45:11",
       "album": {
         "name": "SATA 42",
@@ -1291,26 +1187,6 @@
       "duration_ms": 129235,
       "name": "MAMA HUEVO",
       "url": "https://open.spotify.com/track/5B0XDVJrHKa50sqWeNovco"
-    },
-    {
-      "added_at": "2024-08-20 15:02:13",
-      "album": {
-        "name": "Shupamela",
-        "url": "https://open.spotify.com/album/5plKtCvLBagJSEJC7pIkdw"
-      },
-      "artists": [
-        {
-          "name": "El Sicokario",
-          "url": "https://open.spotify.com/artist/2R2Qev4Igr0JpO9G8kbJc6"
-        },
-        {
-          "name": "42palmundo",
-          "url": "https://open.spotify.com/artist/2NbqLq9sULjF2DGQPsV7UK"
-        }
-      ],
-      "duration_ms": 232615,
-      "name": "Shupamela",
-      "url": "https://open.spotify.com/track/3lKf4p6pEo0oWMYdc8NhK0"
     },
     {
       "added_at": "2024-07-02 22:11:19",

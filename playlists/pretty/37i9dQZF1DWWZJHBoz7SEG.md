@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> ¡Arranca el Mes Patrio con nueva música, y sus chilitos en nogada! ¡Arre! 🇲🇽🎉
+> ¡Arranca el Mes Patrio con nueva música, y sus chilitos en nogada! ¡Arre! 🇲🇽🎉 Grupo Frontera y Gabito Ballesteros en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 862,800 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 862,962 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 49 | [Я Так Устал / Ya Tak Ustal](https://open.spotify.com/track/3ag2DJeXtr55wbwyXz17YH) | [Molchat Doma](https://open.spotify.com/artist/1nVq0hKIVReeaiB3xJgKf0) | [Belaya Polosa](https://open.spotify.com/album/60B6wBzA7SFksiyiNqlYhn) | 5:00 |
 | 50 | [Drummer](https://open.spotify.com/track/2vYAKa9MpnFSpEPyPSfaNh) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Drummer](https://open.spotify.com/album/1zPtKycZi8zpHwurCQoDxp) | 3:32 |
 
-Snapshot ID: `ZtqaYAAAAAAHR8zQrkrGZwkPRqDXEtgo`
+Snapshot ID: `ZuDqOwAAAAC8gvdEO4VxzMAzWn3vSNsX`

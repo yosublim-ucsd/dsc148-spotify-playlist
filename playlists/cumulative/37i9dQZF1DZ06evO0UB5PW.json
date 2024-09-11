@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-31",
-  "description": "This Is Mastodon. Los temas esenciales, todos en una lista.",
+  "description": "This is Mastodon. The essential tracks, all in one playlist.",
   "name": "This Is Mastodon",
   "tracks": [
     {
@@ -826,7 +826,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 388200,
       "name": "Roots Remain",
       "url": "https://open.spotify.com/track/5llEJFL6NzKYgMTEb68XtL"
@@ -844,7 +844,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 199013,
       "name": "Scorpion Breath",
       "url": "https://open.spotify.com/track/36dvfTxi43vTmGQOAnxsi5"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 330880,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/68LvFcDLqo1cejJi9oVVOV"

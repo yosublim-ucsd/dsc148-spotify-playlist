@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Sommeren går på held: <a href="spotify:artist:6idjJt47PjFydVRrAlNw4C">Hans Philip</a> to the rescue ❤️‍🔥 <a href="spotify:track:12RzHH3ZiYmBP6ehh33L20">Du og jeg</a> ❤️‍🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,779 likes - 103 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,790 likes - 103 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

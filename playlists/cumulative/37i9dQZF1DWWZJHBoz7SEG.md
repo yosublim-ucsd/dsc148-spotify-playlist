@@ -2,7 +2,7 @@
 
 ### [Novedades Viernes MX](https://open.spotify.com/playlist/37i9dQZF1DWWZJHBoz7SEG)
 
-> ¡Arranca el Mes Patrio con nueva música, y sus chilitos en nogada! ¡Arre! 🇲🇽🎉
+> ¡Arranca el Mes Patrio con nueva música, y sus chilitos en nogada! ¡Arre! 🇲🇽🎉 Grupo Frontera y Gabito Ballesteros en portada.
 
 6,685 songs - 15 day 3 hr 14 min
 

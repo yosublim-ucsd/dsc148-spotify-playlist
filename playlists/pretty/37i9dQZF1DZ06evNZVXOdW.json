@@ -1,12 +1,12 @@
 {
-  "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 7826,
+  "description": "This is: Arooj Aftab. Alle wichtigen Tracks in einer Playlist.",
+  "num_followers": 7830,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtzpAAAAAAAEgqVsFLPFsYLMHyGFLdCO",
+  "snapshot_id": "Zt46gAAAAACU4Yo29qt8LLGX8OrDdXiR",
   "tracks": [
     {
       "added_at": null,
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 443200,
-      "name": "Baghon Main Pade Jhoole",
-      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 497293,
-      "name": "Man Kunto Maula",
-      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+      "duration_ms": 443200,
+      "name": "Baghon Main Pade Jhoole",
+      "url": "https://open.spotify.com/track/5hY2lOw1uHHkBPvXVR1EHj"
     },
     {
       "added_at": null,
@@ -799,26 +799,6 @@
       "duration_ms": 542837,
       "name": "Naja",
       "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kand",
-        "url": "https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9"
-      },
-      "artists": [
-        {
-          "name": "Pawas",
-          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 551334,
-      "name": "Kand",
-      "url": "https://open.spotify.com/track/76Ijr5E3UvOtzjaNcc3AXx"
     },
     {
       "added_at": null,

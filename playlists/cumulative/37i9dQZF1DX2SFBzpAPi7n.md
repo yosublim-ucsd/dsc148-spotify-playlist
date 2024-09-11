@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: DAY6\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-729 songs - 1 day 20 hr 3 min
+730 songs - 1 day 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [INFP](https://open.spotify.com/track/53TbTPtP4Dw0zkTevQC4pZ) | [Crackshot](https://open.spotify.com/artist/4OIvtiUAaPgUT1ZzmVc5yb) | [INFP](https://open.spotify.com/album/6VvIurbhKuSuhOVVFY4iXd) | 4:36 | 2023-06-13 | 2023-06-23 |
 | [Inside Your World](https://open.spotify.com/track/4l0OhKIugkCqWUxT5Xr9NE) | [Viral Affair](https://open.spotify.com/artist/2RLXrZ2IUAB9EnN6dTuGcH) | [Inside Your World](https://open.spotify.com/album/1jWwTcfYZDs6KvBiNX6a50) | 3:47 | 2022-07-08 | 2022-07-23 |
 | [Insomnia](https://open.spotify.com/track/5ednWrrbj9ViPQUq86jaIF) | [Young K](https://open.spotify.com/artist/34HmvZztvxqAo2mBSAieRe) | [Let Me Off The Earth Part.1](https://open.spotify.com/album/4YxcZOA3BiBUbJV44M7P9n) | 3:05 | 2022-04-22 | 2022-07-28 |
+| [iNSTEAD!](https://open.spotify.com/track/5OOGWXB0EWgAULLPzC27Nc) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn), [Yoon Do Hyun](https://open.spotify.com/artist/6KsmQPHXE3qhzNNBPSZ0eB) | [Open ♭eta v6.4](https://open.spotify.com/album/4lfHkwDW53trUWcRbgbJJk) | 2:57 | 2024-09-10 |  |
 | [Invincible](https://open.spotify.com/track/2oGCuDkdDmd1OTVNMJqfFO) | [YB](https://open.spotify.com/artist/1rpgxJZxZMLnFNc1Jmyov5) | [EPIC SEVEN \(Original Soundtrack\) 'Invincible'](https://open.spotify.com/album/6OZ8ZANoibZBNM7948KPjn) | 3:31 | 2022-07-04 | 2022-07-29 |
 | [Invisibles](https://open.spotify.com/track/7bJcyukFHTgXuQ31Cl7LZ9) | [Bandage](https://open.spotify.com/artist/1fuAboBjT2k4lPcpkIaqTt) | [Square One](https://open.spotify.com/album/3sQvmhUTKE0SY7piBVlinX) | 3:49 | 2022-04-12 | 2022-07-25 |
 | [Irrelevant Answer](https://open.spotify.com/track/3IPaUN3I7fVDaYBqjOBHDB) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Irrelevant Answer](https://open.spotify.com/album/1IDA58hI66YgQsf5niPAnU) | 2:56 | 2022-04-22 | 2022-07-28 |
@@ -460,7 +461,7 @@
 | [PLAY](https://open.spotify.com/track/0ddSLVdbpKFO1FtIYpYnw9) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Childhood](https://open.spotify.com/album/6Nb2vk4KMl2TH12CXc6YAb) | 3:46 | 2022-08-17 | 2022-10-01 |
 | [PLAYLIST](https://open.spotify.com/track/12kMpvtjefa3ocd8BOj3k9) | [Ahn Heesu](https://open.spotify.com/artist/2Fwxi3YNuEudad5gK11BUo) | [PLAYLIST](https://open.spotify.com/album/49v8k8cmufM9Lhz4TkrpcI) | 3:54 | 2022-07-08 | 2022-07-23 |
 | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/track/2oo8j9ZIUiT1WNRaZX9t7L) | [Kim Yuna](https://open.spotify.com/artist/5jiscb6yxuu9hj4BoW5Wea) | [Plum Blossom \(Webtoon 'Return of The Blossoming Blade', Pt\. 3\)](https://open.spotify.com/album/5ehOEQ1GAxPDi4dnUH9Ktz) | 3:07 | 2023-06-13 | 2023-06-23 |
-| [PLUTO](https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2024-06-05 |  |
+| [PLUTO](https://open.spotify.com/track/261HjCXIPx0G5RAR7W660r) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2024-06-05 | 2024-09-11 |
 | [Polaroid](https://open.spotify.com/track/2tA3NP12r4niSRhb9Y6AoY) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Polaroid](https://open.spotify.com/album/0dIwHWpQXBKVOuP9CJsY4E) | 3:26 | 2022-11-17 | 2023-04-06 |
 | [Police Class](https://open.spotify.com/track/0jdXQM3NDFpxLz1ZH4XvCK) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Rookie Cops \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6GyojMQTX2rSgtNsYdyO8N) | 3:31 | 2022-04-12 | 2022-07-17 |
 | [Poor Little Cake](https://open.spotify.com/track/4BBHp4LONJ886Sgav5ed4L) | [Kim Seung Joo](https://open.spotify.com/artist/5IAgpDPGNmCpD1EwmZ2PFN) | [KOSHIEN](https://open.spotify.com/album/27V5Zkabh3T1YQJjdwV8Gb) | 3:33 | 2024-04-09 | 2024-05-10 |

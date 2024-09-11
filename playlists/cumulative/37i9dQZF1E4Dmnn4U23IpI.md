@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1E4Dmnn4U23IpI.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E4Dmnn4U23IpI) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E4Dmnn4U23IpI)
 
-### [Radio de The Midnight](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
+### [The Midnight Radio](https://open.spotify.com/playlist/37i9dQZF1E4Dmnn4U23IpI)
 
-> Con FM\-84, Timecop1983, Kalax y más
+> With Ollie Wride, Gunship, The Bad Dreamers and more
 
 1,549 songs - 4 day 10 hr 56 min
 
@@ -62,7 +62,7 @@
 | [Against the Tide](https://open.spotify.com/track/1w88mhgRLRD44fB3ypxIaJ) | [Futurecop!](https://open.spotify.com/artist/10yA9Y6h5wbDaX5XuZuA9X), [NINA](https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG) | [Against the Tide](https://open.spotify.com/album/7MeTKavR9bebnjgHKQWHEy) | 3:52 | 2022-03-17 | 2022-03-18 |
 | [Agony And Peace \(To Kill This Fire Not Gonna Cry\)](https://open.spotify.com/track/0RTj9O85KJPkT7YZise0cw) | [Crzy Robot](https://open.spotify.com/artist/2pYarznVMLC7N763CjEpbD) | [Agony And Peace \(To Kill This Fire Not Gonna Cry\)](https://open.spotify.com/album/7ts2Yq8yPIuBLqrDtMPqjm) | 3:01 | 2022-05-25 | 2022-05-26 |
 | [AHAH](https://open.spotify.com/track/0y4R8DooPL1F6qRdxgzu52) | [ItsSlater](https://open.spotify.com/artist/0JFzVyhopprzz8meciwQAZ) | [Alive For Now](https://open.spotify.com/album/5buLuyZDd1L6QEeyQmqVpy) | 3:13 | 2022-10-10 | 2022-12-18 |
-| [Alice](https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Alice](https://open.spotify.com/album/3wwjDBE8eNzgNVIxnWuwwc) | 4:57 | 2022-03-09 | 2024-09-10 |
+| [Alice](https://open.spotify.com/track/3qiTL142kPzE64TXopEbpZ) | [PYLOT](https://open.spotify.com/artist/3ZLe7OttXFn3JOPVZ9Vrr0) | [Alice](https://open.spotify.com/album/3wwjDBE8eNzgNVIxnWuwwc) | 4:57 | 2022-03-09 |  |
 | [Alien Victory](https://open.spotify.com/track/1567PJ30QKSrgF95xP8lbh) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Saturdaze](https://open.spotify.com/album/2s793dkklgAgVqra7Ax1fg) | 4:55 | 2021-12-03 | 2022-03-04 |
 | [Alienated](https://open.spotify.com/track/0pZfLd0p06VNaJmuXbZPsN) | [ELFL](https://open.spotify.com/artist/72xDdmrHFi38fW3rdLzvnU) | [Alienated](https://open.spotify.com/album/2wnLpT0ziBgxr3n10bB4qB) | 3:27 | 2022-06-30 | 2022-07-01 |
 | [Alive](https://open.spotify.com/track/0Yenc3TUB2RJAkp7GWG4L4) | [Sengkan Hanse](https://open.spotify.com/artist/17hP5GIDyzg9sf47D9gx7d), [Maylinsean](https://open.spotify.com/artist/6hFV3v4XmqoDikMYojEV08) | [Alive](https://open.spotify.com/album/6fybdOnvFlUT26dAJ4BNM8) | 3:18 | 2022-04-01 | 2022-05-25 |
@@ -276,7 +276,7 @@
 | [Cruzando el Puente \- Instrumental](https://open.spotify.com/track/3aUkU5ZLfAaicyPOq6fiZl) | [Cosaquitos En Globo](https://open.spotify.com/artist/3Ppe0SyQXF8z46utuKhwy9) | [Pure Synthwave, Vol\. 1](https://open.spotify.com/album/7lmBVf3pK20mAcVjqgxYX1) | 4:06 | 2023-04-17 | 2023-04-18 |
 | [Cruzando obstáculos](https://open.spotify.com/track/7HqR7XL1fFqzWLNKmoCS9E) | [BUNGALOW](https://open.spotify.com/artist/1U5ZgJWUFvIAXTFjMuNs48) | [Marcianos](https://open.spotify.com/album/6uD5vfmFTzHiie6hUIILzt) | 2:30 | 2022-07-16 | 2022-10-17 |
 | [Crystal Protocol](https://open.spotify.com/track/5vnwZmz6YEt4mPCZH4icpO) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Magnatron](https://open.spotify.com/album/7LFFQrgPPbPzS6Q61Y3o4F) | 3:52 | 2023-06-10 | 2024-04-13 |
-| [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 | 2022-03-31 |  |
+| [Crystal Ships](https://open.spotify.com/track/0bEu6jZ6S1PmYjXyxf06z5) | [Michael Oakley](https://open.spotify.com/artist/7mxepENRg71jHuLHVeK07c) | [Introspect](https://open.spotify.com/album/1C49jimseChKEbLpIfpeJN) | 5:14 | 2022-03-31 | 2024-09-11 |
 | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/track/4MxlFlAqGSnNMYYXne6Fer) | [Kalax](https://open.spotify.com/artist/2o88SjmtVVVyCmTGCuSPoY) | [Crystal Waves \(From "Wave Break"\)](https://open.spotify.com/album/54hp6mvPDPZgVUFbWOK3N5) | 4:40 | 2021-12-01\* | 2022-05-14 |
 | [Crystalex](https://open.spotify.com/track/5oMDaZjpBwZUcOMfttvAeu) | [Marvel83'](https://open.spotify.com/artist/31b6PTO6eCjLsm85tvkgXz) | [In a Different Time](https://open.spotify.com/album/7zFoNajDmh9ndb9umcruON) | 5:16 | 2022-02-04 | 2022-03-08 |
 | [Crystalline](https://open.spotify.com/track/2dXpyz3Vlc0PRlaCJG0ZPr) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Nocturnal](https://open.spotify.com/album/0V8iFftiuRJESNykeAlajg) | 6:02 | 2024-08-04 | 2024-09-10 |
@@ -517,7 +517,7 @@
 | [Gamma Rays](https://open.spotify.com/track/6ICxN5jwgX4c6xG4cKay3C) | [Unfound](https://open.spotify.com/artist/7u4YxeFiaq5WBD6izDeTry) | [Anomaly](https://open.spotify.com/album/4axof9tMEh5TVn8JgXCvWi) | 4:20 | 2022-04-16 | 2022-07-23 |
 | [Ganas De Ti](https://open.spotify.com/track/2ciS0xgZshStd6Wovd9d4Z) | [NELLY DARLY](https://open.spotify.com/artist/59fxY6jQiibRwjCn2FX413) | [Bajo El Sismo](https://open.spotify.com/album/5lRh9IzE7C9Pkw8F0wPDpa) | 2:19 | 2022-09-12 | 2022-09-13 |
 | [Genesis](https://open.spotify.com/track/5BVoixzxMMa48lOGq0ZtBO) | [Nightcrawler](https://open.spotify.com/artist/74GPpxM5i8gN1sgNXh8JKu), [Dana Jean Phoenix](https://open.spotify.com/artist/2bMw6rIx4S9uymqxxQ1vkh) | [Metropolis](https://open.spotify.com/album/5US6OaklSFTeajFmaxfeBe) | 4:10 | 2022-03-13 | 2022-06-19 |
-| [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-03-10 |  |
+| [Georgetown](https://open.spotify.com/track/1LJXg27KpKvIWQCo1xGlia) | [The Bad Dreamers](https://open.spotify.com/artist/71Char2jLgXkG97fBjqNNY) | [Space and Time \(Deluxe Edition\)](https://open.spotify.com/album/6kHxPKAWHgv7wVaM2qcKlV) | 3:47 | 2022-03-10 | 2024-09-11 |
 | [Get Out](https://open.spotify.com/track/2yrh2iC9s9wXbnc9fSCuIn) | [Dance With the Dead](https://open.spotify.com/artist/2KtnZQwMQJN3uyI8eHZRvm) | [B\-Sides: Vol\. 1](https://open.spotify.com/album/1NhAWLxOl4dD4WMs56VvsI) | 2:36 | 2021-12-01\* | 2021-12-02 |
 | [Get Your Wish](https://open.spotify.com/track/3peTrZjg0aSPa1wXwaeNFo) | [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Get Your Wish](https://open.spotify.com/album/3MTkYV1Nm0UXOvIoj0v4jj) | 3:26 | 2022-01-12 | 2022-01-13 |
 | [Get Your Wish](https://open.spotify.com/track/6aUfT9QOcTHhxLNrf1aVR8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:38 | 2022-07-27 | 2022-07-28 |
@@ -907,7 +907,7 @@
 | [Never Say Die](https://open.spotify.com/track/3R2jaCtqawdBv6mZ2Ym7Ty) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/4ePbJdHu99l50AwUnG1baG) | 4:23 | 2022-10-08 | 2022-12-20 |
 | [Never Stop](https://open.spotify.com/track/2U9xilwDVbl5upU99insIn) | [FM\-84](https://open.spotify.com/artist/1xvEo98zythSrgN69GQevk), [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Never Stop](https://open.spotify.com/album/2L4sKiETTDaNCw2g6ozN3V) | 4:46 | 2021-12-22 | 2024-05-29 |
 | [Never Surrender](https://open.spotify.com/track/6QeWh5fWA5HRzZZTd45f1U) | [Ace Buchannon](https://open.spotify.com/artist/0siwLM5U6RGrHmTclF15rb), [Gryff](https://open.spotify.com/artist/3M4MXoiDxsDBq9Cm3vKNOk) | [Eye of the Storm](https://open.spotify.com/album/32pld4LUUztlztwudVyOHl) | 4:01 | 2024-02-28 | 2024-02-29 |
-| [New Cydonia \(Alternate Version\)](https://open.spotify.com/track/4quEnq53y9XiUjyfsTscS0) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Deep Cuts](https://open.spotify.com/album/4Z7r7gdBxELwmSqO4YVxsf) | 4:21 | 2021-12-01\* | 2024-08-31 |
+| [New Cydonia \(Alternate Version\)](https://open.spotify.com/track/4quEnq53y9XiUjyfsTscS0) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg) | [Deep Cuts](https://open.spotify.com/album/4Z7r7gdBxELwmSqO4YVxsf) | 4:21 | 2021-12-01\* |  |
 | [New Cydonia \(feat\. Hayley\)](https://open.spotify.com/track/6zeAe94aC36a94QS0VhZJM) | [Starcadian](https://open.spotify.com/artist/3I0ceM8qfqhCKGepaswmVg), [HAYLEY](https://open.spotify.com/artist/7ATbg3F34QymewYIV20RZl) | [Midnight Signals \(Original Motion Picture Score\)](https://open.spotify.com/album/1zxAn2q8xIOZAj93KVLZ1q) | 4:13 | 2021-12-02 | 2024-04-19 |
 | [New High](https://open.spotify.com/track/2DhV8zoET5dlew43Dt05lD) | [Trevor Something](https://open.spotify.com/artist/6bWylzDlsTfR8khADRQJfd) | [Ultraparanoia](https://open.spotify.com/album/11x7E30bHOhD1esPQBxLQW) | 4:04 | 2022-10-07 | 2023-04-01 |
 | [New Tomorrow](https://open.spotify.com/track/5QYlmR9WamVNeOWBdKcOTu) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 5:10 | 2021-12-02 | 2022-07-28 |

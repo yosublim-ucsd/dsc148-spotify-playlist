@@ -41679,6 +41679,24 @@
     },
     {
       "album": {
+        "name": "Para Elisa",
+        "url": "https://open.spotify.com/album/2HxWprK3RZ3UyC575hmGHR"
+      },
+      "artists": [
+        {
+          "name": "Valdo Rodriguez",
+          "url": "https://open.spotify.com/artist/4h949lAuNvDdg5UKXPA6x4"
+        }
+      ],
+      "date_added": "2024-09-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153984,
+      "name": "Para Elisa",
+      "url": "https://open.spotify.com/track/3oSfPOgansftRA56i0tcqJ"
+    },
+    {
+      "album": {
         "name": "A Madrugar",
         "url": "https://open.spotify.com/album/1Ubx3PYhvbbrXrS9SF5Cvc"
       },

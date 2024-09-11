@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kris Kross Amsterdam, Antoon & Zoë Tauran
 
-[Spotify](https://open.spotify.com/user/spotify) - 264,142 likes - 99 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 264,153 likes - 99 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 65 | [Wonen In Het Westen](https://open.spotify.com/track/0tMLH7zuBzXuZpMaGf6AEb) | [geosy](https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5) | [Wonen In Het Westen](https://open.spotify.com/album/6liHWTI5hfZRhpg1FXTOxr) | 3:03 |
 | 66 | [Iets In De Lucht](https://open.spotify.com/track/2HboxpER5N3RbCypbms0Ke) | [Maks](https://open.spotify.com/artist/0s350tLzNbk3Vj7rwZHXSI) | [Iets In De Lucht](https://open.spotify.com/album/5JJIGj3WjEmpPjO0NcjT2o) | 2:11 |
 | 67 | [Het Is Oké Zo](https://open.spotify.com/track/6rv1HIB3mhvH54z7x9pVWY) | [Elle Hollis](https://open.spotify.com/artist/5ZCeCsLU92i1Uv75rarNNn) | [Het Is Oké Zo](https://open.spotify.com/album/19yLORzrENovmHG7aSM8zg) | 3:27 |
-| 68 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [Luna](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
+| 68 | [Dat Is Het Leven](https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j) | [LUNA](https://open.spotify.com/artist/7eBiPPZezCgV5rrO5x47qf) | [Dat Is Het Leven](https://open.spotify.com/album/6GCyMmKkymXKLj1A1GSQFW) | 2:59 |
 | 69 | [Stick In The Mud](https://open.spotify.com/track/0c6bqeQXUxaNZxwwEuanmz) | [Tessa Rose Jackson](https://open.spotify.com/artist/1GkgfQAfu2FBxcmwKAOOiJ), [The Shells](https://open.spotify.com/artist/0BTYtHWqKmJ3MDZdGALpWV) | [Stick In The Mud](https://open.spotify.com/album/6NTb4aHJ99qgZZ5Uim8j9h) | 3:58 |
 | 70 | [Doe Eens Raar](https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [Doe Eens Raar](https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg) | 3:47 |
 | 71 | [Leef Met Me](https://open.spotify.com/track/7ocqHpl8DoEQF0ULIRVMHz) | [Kemal](https://open.spotify.com/artist/1p3p2Usiclg9GN1OE13td5) | [Binnenwereld](https://open.spotify.com/album/66byD57IQrYQNFzC8pDPNw) | 2:41 |

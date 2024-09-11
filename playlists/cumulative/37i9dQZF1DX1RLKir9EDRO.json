@@ -4057,6 +4057,24 @@
     },
     {
       "album": {
+        "name": "D\u00dcZ D\u00dcNYA",
+        "url": "https://open.spotify.com/album/4ncWuoEYATPnoazsB3xFy2"
+      },
+      "artists": [
+        {
+          "name": "Robin",
+          "url": "https://open.spotify.com/artist/0pGPEVS5RjTs0jE4egqtVW"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104303,
+      "name": "D\u00dcZ D\u00dcNYA",
+      "url": "https://open.spotify.com/track/5Q4z4rnz4bqkDfUceoxm55"
+    },
+    {
+      "album": {
         "name": "D\u00fc\u015flerim Bo\u015f",
         "url": "https://open.spotify.com/album/6c5Iv43wJc1UuZtlTgCNCN"
       },
@@ -5474,7 +5492,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 255231,
       "name": "G\u00fczelim",
       "url": "https://open.spotify.com/track/1H9xeJmv3Ywgxvwwia1UwV"
@@ -5842,7 +5860,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 202385,
       "name": "Herkesten Farkl\u0131s\u0131n",
       "url": "https://open.spotify.com/track/32oaK2NK4mhL47xF2fiiIN"
@@ -6415,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "\u0130smet",
+        "url": "https://open.spotify.com/album/2QQMV2IDwETIKrW786waTn"
+      },
+      "artists": [
+        {
+          "name": "Yasak Helva",
+          "url": "https://open.spotify.com/artist/5Ku0LlBlvSAliBxZvPUJWw"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307302,
+      "name": "\u0130smet",
+      "url": "https://open.spotify.com/track/2AR2bijc8fdsT69kAXZbeJ"
+    },
+    {
+      "album": {
         "name": "\u0130stedi\u011finde Yaz",
         "url": "https://open.spotify.com/album/1u8SgswIRJMP9jKpkyZ5lk"
       },
@@ -6698,6 +6734,24 @@
       "duration_ms": 272359,
       "name": "Kafas\u0131 Kar\u0131\u015f\u0131k",
       "url": "https://open.spotify.com/track/6UYThO4gR2EE42MdG0pdlM"
+    },
+    {
+      "album": {
+        "name": "Kafay\u0131 Takt\u0131m",
+        "url": "https://open.spotify.com/album/0RdT5edHlCrZp1esNbFDf9"
+      },
+      "artists": [
+        {
+          "name": "GLSH",
+          "url": "https://open.spotify.com/artist/0cgVfVpwHSfELTRxrlzNtl"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Kafay\u0131 Takt\u0131m",
+      "url": "https://open.spotify.com/track/6AA4LouJTYgrEKY6tMqczz"
     },
     {
       "album": {
@@ -11239,6 +11293,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6yle",
+        "url": "https://open.spotify.com/album/3072jVrXZMpKPdHaNUyR3S"
+      },
+      "artists": [
+        {
+          "name": "Umur Doma",
+          "url": "https://open.spotify.com/artist/2kv6srmlOrk6584oHo4XGj"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152699,
+      "name": "S\u00f6yle",
+      "url": "https://open.spotify.com/track/3GJtSiuMC5cGk2d3tYKPEy"
+    },
+    {
+      "album": {
         "name": "S\u00f6zler Yalan",
         "url": "https://open.spotify.com/album/453eBU29pSBBafv2sv4t2N"
       },
@@ -11978,7 +12050,7 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 196607,
       "name": "U\u00c7URUM",
       "url": "https://open.spotify.com/track/55Q6M66q3dnqQHY8TqfXPr"
@@ -14314,7 +14386,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 149000,
       "name": "\u015eansl\u0131 Domuz",
       "url": "https://open.spotify.com/track/6yoltQSSwXVSKhiS0o17bN"

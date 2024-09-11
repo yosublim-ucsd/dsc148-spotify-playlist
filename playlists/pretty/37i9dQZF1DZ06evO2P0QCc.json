@@ -1,12 +1,12 @@
 {
-  "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 111418,
+  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
+  "num_followers": 111432,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZtzpAAAAAACc+oTP6B1o/nbR+Apqwe+0",
+  "snapshot_id": "Zt46gAAAAAB6KznPGrT/zwbEc5dS4xWU",
   "tracks": [
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blanco y Negro",
-        "url": "https://open.spotify.com/album/7qhAkyX27LQoUTrveQmika"
+        "name": "Skangre Latino",
+        "url": "https://open.spotify.com/album/5dGLfPbpabYLF6RWWQ0GCH"
       },
       "artists": [
+        {
+          "name": "The Magnetics",
+          "url": "https://open.spotify.com/artist/122nF1f7d6nNfr39ZednVC"
+        },
         {
           "name": "Inspector",
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 154897,
-      "name": "Ara\u00f1a Ska",
-      "url": "https://open.spotify.com/track/6oseawKMHtK8WzEy0mcsUI"
+      "duration_ms": 198653,
+      "name": "Las Tijeras (Remastered Version 2024)",
+      "url": "https://open.spotify.com/track/5UQ590tNDsDGpVr9woC44o"
     }
   ],
   "unique_name": "This Is Inspector",

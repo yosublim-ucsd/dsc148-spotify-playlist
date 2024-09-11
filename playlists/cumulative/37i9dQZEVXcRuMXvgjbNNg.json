@@ -515,6 +515,24 @@
     },
     {
       "album": {
+        "name": "Cape Elizabeth",
+        "url": "https://open.spotify.com/album/7rAXvbNQSxnAnVl3taoMLj"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181750,
+      "name": "A Troubled Mind",
+      "url": "https://open.spotify.com/track/3onPL6KjCPM0K8wZkDeU7y"
+    },
+    {
+      "album": {
         "name": "BRIGHTSIDE",
         "url": "https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW"
       },
@@ -1246,6 +1264,24 @@
       "duration_ms": 324986,
       "name": "All Too Well",
       "url": "https://open.spotify.com/track/7BYPmEdt88hoMF5yrEFWV8"
+    },
+    {
+      "album": {
+        "name": "I Miss You Already + I Haven\u2019t Left Yet",
+        "url": "https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/0UqKPaKqC3tWU4o8BB7owl"
     },
     {
       "album": {
@@ -2050,7 +2086,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 173090,
       "name": "Atlas Hands",
       "url": "https://open.spotify.com/track/1cM3Yg2598GAgtV8uu2hBZ"
@@ -3198,7 +3234,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 326920,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY"
@@ -4525,6 +4561,24 @@
     },
     {
       "album": {
+        "name": "The Spirit Moves (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17NNwphKSgMVOjUA2oembN"
+      },
+      "artists": [
+        {
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161906,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/0fPHfNb0LwKGw3jCKzMk54"
+    },
+    {
+      "album": {
         "name": "Clara",
         "url": "https://open.spotify.com/album/3ascjdgULZweQDwIIC72JO"
       },
@@ -5002,6 +5056,24 @@
       "duration_ms": 170759,
       "name": "City on a Hill",
       "url": "https://open.spotify.com/track/11i1ZadbMOxmAHanhcQonu"
+    },
+    {
+      "album": {
+        "name": "Act 3: The Dying of Self",
+        "url": "https://open.spotify.com/album/77hndvEyvuHleU1AXdHIVC"
+      },
+      "artists": [
+        {
+          "name": "Mon Rov\u00eea",
+          "url": "https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170759,
+      "name": "City on a Hill",
+      "url": "https://open.spotify.com/track/5WWBUjHWwDkAzCczIRxYmB"
     },
     {
       "album": {
@@ -5833,6 +5905,24 @@
     },
     {
       "album": {
+        "name": "I Love You So F***ing Much",
+        "url": "https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1QDgcVfZKIf2SKBjQzzTLs"
+    },
+    {
+      "album": {
         "name": "Together Lonely",
         "url": "https://open.spotify.com/album/5qdYMMnLqlCHSdoAoVpsPm"
       },
@@ -6568,7 +6658,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 232133,
       "name": "Deeper Well",
       "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
@@ -6922,7 +7012,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 183850,
       "name": "Don't Let Me",
       "url": "https://open.spotify.com/track/5Vnny8AlKRnPZ3wQNouf2T"
@@ -9542,7 +9632,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 212920,
       "name": "Girl",
       "url": "https://open.spotify.com/track/6zP2bIJWqFZtJ8dtxeDzcp"
@@ -9564,6 +9654,24 @@
       "duration_ms": 135003,
       "name": "Girl in a Coffee Shop",
       "url": "https://open.spotify.com/track/6Ki9mwZXkthhVoAzzwCG7z"
+    },
+    {
+      "album": {
+        "name": "Grey Fidelity",
+        "url": "https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283099,
+      "name": "Girl in Calico",
+      "url": "https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M"
     },
     {
       "album": {
@@ -11358,7 +11466,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 190017,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/3WMj3VfJhsKO6KcGy3ddDb"
@@ -14377,6 +14485,24 @@
     },
     {
       "album": {
+        "name": "(i would have followed you)",
+        "url": "https://open.spotify.com/album/7oODsnDx7Pccntmf78OzQM"
+      },
+      "artists": [
+        {
+          "name": "Delaney Bailey",
+          "url": "https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289040,
+      "name": "j's lullaby (darlin' i'd wait for you)",
+      "url": "https://open.spotify.com/track/3uxdBOY4eCts8eOS03J9Qf"
+    },
+    {
+      "album": {
         "name": "Colors",
         "url": "https://open.spotify.com/album/3tB0jxYiIvNmAvnA1Ulq9s"
       },
@@ -14464,7 +14590,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 256021,
       "name": "Jersey Giant",
       "url": "https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R"
@@ -15318,7 +15444,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 354840,
       "name": "Leader Of The Landslide",
       "url": "https://open.spotify.com/track/1GobnJwog1V9M7UsITz8u5"
@@ -16518,7 +16644,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 236720,
       "name": "Lost In The Light",
       "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
@@ -17342,7 +17468,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
@@ -18622,7 +18748,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 194400,
       "name": "my friend's toyota",
       "url": "https://open.spotify.com/track/7ANtPfYkLWhL2XbUjyBSZF"
@@ -18868,7 +18994,7 @@
       ],
       "date_added": "2024-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 270973,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r"
@@ -19320,6 +19446,24 @@
       "duration_ms": 197480,
       "name": "nobody else",
       "url": "https://open.spotify.com/track/7GLBqDKAJLCLIsj2GEDkSw"
+    },
+    {
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/3Yb4T8IHugPg0Z0y6oWyMy"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188728,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/1nPTHOxN6Oit9FSEKrRi3k"
     },
     {
       "album": {
@@ -21418,7 +21562,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 269411,
       "name": "Pool House",
       "url": "https://open.spotify.com/track/74f0dpqHhTeTJzs4pmZ1yq"
@@ -22214,7 +22358,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 202346,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2ZwihAP8zB5XX1CmYIOBbF"
@@ -23376,7 +23520,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 288786,
       "name": "Silver Springs - 2004 Remaster",
       "url": "https://open.spotify.com/track/4nZi6XNe36Ut4Nij3IQ1yC"
@@ -23488,7 +23632,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 177918,
       "name": "Simply the Best (From \"Schitt's Creek\")",
       "url": "https://open.spotify.com/track/4kcnySwaXAKatz4c5U8MSI"
@@ -23734,7 +23878,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 267880,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
@@ -27164,7 +27308,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-15",
+      "date_removed": null,
       "duration_ms": 256535,
       "name": "The Wolves and the Ravens",
       "url": "https://open.spotify.com/track/7M7e3u2MjbOVTkQMW6XqL6"
@@ -27182,7 +27326,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 242545,
       "name": "The Woods",
       "url": "https://open.spotify.com/track/5MNdLrYWcdciT607WMlIGM"
@@ -27276,6 +27420,24 @@
       "duration_ms": 203106,
       "name": "There's Still A Light In The House",
       "url": "https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY"
+    },
+    {
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/2onJzQg0nmBE75fz7HtaEV"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "date_added": "2024-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313474,
+      "name": "These Memories",
+      "url": "https://open.spotify.com/track/3W1rXAxq5yOhS00WgGUlwa"
     },
     {
       "album": {
@@ -27536,7 +27698,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 245533,
       "name": "This Year's Love",
       "url": "https://open.spotify.com/track/1wK6fC3r5fGJ7N4U8R0nOY"
@@ -28638,7 +28800,7 @@
       ],
       "date_added": "2023-11-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-13",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "ur so pretty",
       "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"

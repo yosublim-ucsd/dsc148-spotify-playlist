@@ -2,9 +2,9 @@
 
 ### [Electronii'K](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: IÖN\)
+> New & best K\-Electronic music is here\. \(Cover: GIRIBOY\(기리보이\)\)
 
-194 songs - 10 hr 56 min
+195 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,9 +133,10 @@
 | [PARADISE](https://open.spotify.com/track/1l5J8Z8hIhfFvt6hUbuchV) | [Thru](https://open.spotify.com/artist/7gWULzAJSyQez1XA3nRmfH), [SUZO](https://open.spotify.com/artist/52mRVQC1hdI0tSV6zEp5f8) | [PARADISE](https://open.spotify.com/album/0SFyF2YwxMJn6sHkOCTRfW) | 2:57 | 2024-04-05 | 2024-04-19 |
 | [Peaches \- No2zcat Remix](https://open.spotify.com/track/5qfPgGDyAQlM48pQM7KO4t) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak), [No2zcat](https://open.spotify.com/artist/0pYXIFLHuxPH7RCFIBX96H) | [iScreaM Vol.14 : Peaches Remixes](https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI) | 2:52 | 2024-04-05 |  |
 | [Peaches \- SUMIN Remix](https://open.spotify.com/track/5VHcNCSmnKAFFyMaTYtzPc) | [KAI](https://open.spotify.com/artist/6iVo62B0bdTknRcrktCmak), [SUMIN](https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU) | [iScreaM Vol.14 : Peaches Remixes](https://open.spotify.com/album/2mrFSsDjOA6veZsbyMgMmI) | 3:19 | 2024-04-05 |  |
+| [PEAK \(Feat\. CAMO\)](https://open.spotify.com/track/57EIGm8jQt9K0ACLOwW7Fv) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [GRB02](https://open.spotify.com/album/7jbVRExKqUqRUtAXFAJeHG) | 2:40 | 2024-09-10 |  |
 | [Perfume \- Bronze & Jason Lee Remix](https://open.spotify.com/track/1RfFpaNcAFFZRUOc6awgMG) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw), [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [Jason Lee](https://open.spotify.com/artist/72VOOoqqtdrD4MP2FMZOlD) | [iScreaM Vol.24 : Perfume Remixes](https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc) | 3:11 | 2024-04-05 | 2024-06-29 |
 | [Perfume \- Jafunk Remix](https://open.spotify.com/track/6l0ak0PKqf4DOLnlrhgIe9) | [NCT DOJAEJUNG](https://open.spotify.com/artist/0W0w607z3JEA1vXLz9FVGw), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [iScreaM Vol.24 : Perfume Remixes](https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc) | 2:48 | 2024-04-05 |  |
-| [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 |  |
+| [Phantom \- IMLAY Remix](https://open.spotify.com/track/20UwEhgJgMbdYeFfoaTqlX) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [IMLAY](https://open.spotify.com/artist/4b7ZEkk5uXPlwX2IPuV7Q2) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 3:10 | 2024-04-05 | 2024-09-11 |
 | [Phantom \- Pierre Blanche Remix](https://open.spotify.com/track/2sqOAZK3yegHFbab4Z4479) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz), [Pierre Blanche](https://open.spotify.com/artist/7sQcLctmMlBV6eBvdcnNgo) | [iScreaM Vol.23 : Phantom Remixes](https://open.spotify.com/album/0LeX49Jo3D797EqjQZ56fB) | 4:04 | 2024-04-05 | 2024-08-29 |
 | [Photon](https://open.spotify.com/track/3ISVRPSbNgPGdigy3UoHYN) | [H93](https://open.spotify.com/artist/4wQ45RryJ6QjKtVkgo2LVw), [Koriz](https://open.spotify.com/artist/2pLjVFjvF73gyjXgOUGKQP), [Arkins](https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH) | [Photon](https://open.spotify.com/album/5iaPmOD57Gq7N3lZhPJOYi) | 2:22 | 2024-06-28 |  |
 | [Pinnacle \- Pure 100% Remix](https://open.spotify.com/track/36BVMpm5KbIF5G14mU6ZGw) | [4URA](https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd), [PhiloSofie](https://open.spotify.com/artist/5Mvx3dMV17trz9HTdF2AkQ), [Pure 100%](https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP) | [Pinnacle \(Remixes\)](https://open.spotify.com/album/0u1csmgyK18AZgiFeBxtog) | 3:26 | 2024-05-09 | 2024-06-29 |

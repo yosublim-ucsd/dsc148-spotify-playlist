@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-[Topsify](https://open.spotify.com/user/topsify) - 10,456 likes - 108 songs - 6 hr 9 min
+[Topsify](https://open.spotify.com/user/topsify) - 10,457 likes - 108 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/24U0Ot6ffyRdCjR8IdPLTo.md) - [plain]
 | 30 | [Drunk, Running](https://open.spotify.com/track/0OQFriWHtnIzsRp3uImlGt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/30fIbIvd1AN04FrBt12KhM) | 4:05 |
 | 31 | [care to care \(feat\. Plumm\)](https://open.spotify.com/track/6Y5J8CemxHISRLDJltDGcH) | [Marysia Osu](https://open.spotify.com/artist/0drclFaX2CCeuqnT5cfCY1), [Plumm](https://open.spotify.com/artist/17goxueRDomjijRHKaaQpT) | [care to care \(feat\. Plumm\)](https://open.spotify.com/album/19mftJ6Xm0m4plxo3backy) | 3:03 |
 | 32 | [Olympus](https://open.spotify.com/track/2pqi703QQcp2zsuS3NgCii) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/7rG4h8pLLcr6kW30cbSWD8) | 3:36 |
-| 33 | [imperfect for you \- acoustic](https://open.spotify.com/track/16tikdI5Xs4Md96uv2uYcC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb) | 3:03 |
+| 33 | [imperfect for you \- acoustic](https://open.spotify.com/track/16tikdI5Xs4Md96uv2uYcC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \- slightly deluxe](https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb) | 3:03 |
 | 34 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 35 | [Lonely with Our Love](https://open.spotify.com/track/7Db8Jxy2tEKyR7edqwEDWl) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [A Week in Nashville](https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1) | 3:28 |
 | 36 | [History Of Man](https://open.spotify.com/track/3CwYjyptH0BfbSNPfA0ZyG) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:28 |

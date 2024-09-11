@@ -4,7 +4,7 @@
 
 > Spotifyで人気のソニックシリーズ楽曲を収録したオフィシャルプレイリスト！/Official playlist of popular Sonic series songs on Spotify!  \(C\)SEGA
 
-85 songs - 5 hr 9 min
+86 songs - 5 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [His World \-Theme of Sonic The Hedgehog\-](https://open.spotify.com/track/7heT8oGUnfvpRaXUFwHvCF) | [Ali Tabatabaee](https://open.spotify.com/artist/2GzDtAvFxH5TXQdU49DfBJ), [Matty Lewis](https://open.spotify.com/artist/5s8Qq1F4Gg4s6H2Ez7xxAS) | [SONIC THE HEDGEHOG ORIGINAL SOUND TRACK \(Vol\. 1\)](https://open.spotify.com/album/1sahk6P4ZKBggkZXlay3qX) | 4:39 | 2024-09-10 |  |
 | [Hydro City Zone Act 2](https://open.spotify.com/track/5bMy3QonhmsJDp7axnD89Y) | [Tee Lopes](https://open.spotify.com/artist/5ZOKvzD4GQ7Yg2CS4CVbRb) | [Sonic Mania Original Sound Track \(Selected Edition\)](https://open.spotify.com/album/5GL6hqg5z1jg4lGRsacoL8) | 2:07 | 2024-04-19 |  |
 | [I Am..\. All Of Me](https://open.spotify.com/track/4slBHMsULWSDtG2hspyTC8) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [SHADOW THE HEDGEHOG OFFICIAL SOUNDTRACK](https://open.spotify.com/album/1MUpN5jsfpa4efTplCglqS) | 3:51 | 2024-04-19 | 2024-09-10 |
-| [I Am..\. All Of Me \- Live](https://open.spotify.com/track/4PWOPM2yKchPQVCmKU8tPC) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw) | 4:32 | 2024-09-10 |  |
+| [I Am..\. All Of Me \- Live](https://open.spotify.com/track/3vgjXBMtSW9vGYfT0oBl62) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/2uPyiLBW1WZP4wIfwoHBaj) | 4:32 | 2024-09-10 |  |
+| [I Am..\. All Of Me \- Live](https://open.spotify.com/track/4PWOPM2yKchPQVCmKU8tPC) | [Crush 40](https://open.spotify.com/artist/4gNEgDZhEu6ldAI2wWdZsL) | [Sonic 30th Anniversary Symphony](https://open.spotify.com/album/4yKH5FB9gO2GQNnalIqcTw) | 4:32 | 2024-09-10 | 2024-09-11 |
 | [Infinite](https://open.spotify.com/track/5dOfc9DzdGzD9N8l7pgei8) | [Tyler Smyth](https://open.spotify.com/artist/6m0Je9Z408QX7tN93Iv7hm), [Andy Bane](https://open.spotify.com/artist/2BuF8z4VQx8M6iAvlGZYGL) | [Sonic Forces Vocal Traxx On The Edge](https://open.spotify.com/album/3eSAEWP41gnF0RpXyFxCKs) | 4:35 | 2024-04-19 |  |
 | [I’m Here](https://open.spotify.com/track/2HCtfxzcJ1Gsl8hSRFIPML) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Merry Kirk\-Holmes](https://open.spotify.com/artist/2WtceEj0QjyIzsZp3Gp2wu) | [Sonic Frontiers Original Soundtrack Stillness & Motion](https://open.spotify.com/album/3rzNkB4JHEnWmuXC6G98IS) | 4:08 | 2024-04-19 | 2024-09-10 |
 | [I’m Here \- Revisited \(feat\. Kellin Quinn\)](https://open.spotify.com/track/68SKsdLA8I9tOGJV5qLuJj) | [SEGA SOUND TEAM](https://open.spotify.com/artist/4ShgdWtm52xvEr8uYmT0V6), [Tomoya Ohtani](https://open.spotify.com/artist/0TdhLJ5G2ICGuYTlNOeut3), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Sonic Frontiers Expansion Soundtrack Paths Revisited](https://open.spotify.com/album/7wS54l0sbmZzzwEIcBgLtu) | 4:07 | 2024-09-10 |  |

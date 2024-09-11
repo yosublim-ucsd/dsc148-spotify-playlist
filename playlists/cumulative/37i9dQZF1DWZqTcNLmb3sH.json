@@ -11080,20 +11080,20 @@
       },
       "artists": [
         {
-          "name": "jaskaran singh",
-          "url": "https://open.spotify.com/artist/3RZvZ0XrbbFtSESYLjxHI1"
-        },
-        {
-          "name": "Venkatesh P Marakamdini",
-          "url": "https://open.spotify.com/artist/3MFwjndcuDclnGzLKpfxKT"
-        },
-        {
-          "name": "Vinayak",
-          "url": "https://open.spotify.com/artist/2pACPxyRzWlnT4AGAv5DfN"
+          "name": "Jaskaran Singh",
+          "url": "https://open.spotify.com/artist/20Xvd4mO28iHfkdL3a5MRL"
         },
         {
           "name": "Nazeeb Billu",
           "url": "https://open.spotify.com/artist/7qKOPvmYkqaCrl8pddYJnk"
+        },
+        {
+          "name": "Vinayak",
+          "url": "https://open.spotify.com/artist/5gMKeMQFI4l9otWlXlea8b"
+        },
+        {
+          "name": "Venkatesh P Marakamdini",
+          "url": "https://open.spotify.com/artist/3Q3DaP4c9L8ne4mWyMpYLY"
         }
       ],
       "date_added": "2024-09-09",
@@ -13586,7 +13586,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 196477,
       "name": "Joli Thoogo (From \"Kabandha'')",
       "url": "https://open.spotify.com/track/7xqO9Rs3OGB3VDD7o0DLkl"
@@ -14202,6 +14202,32 @@
       "duration_ms": 192719,
       "name": "Kali Agiru (From \"Kapati\")",
       "url": "https://open.spotify.com/track/2yt6XmbILJTQBAs6u8re1l"
+    },
+    {
+      "album": {
+        "name": "Kali Amma Baa (From \"Bhairadevi\")",
+        "url": "https://open.spotify.com/album/4QS7H17hny1MjNrQyBFll2"
+      },
+      "artists": [
+        {
+          "name": "Malathi",
+          "url": "https://open.spotify.com/artist/3RiwMIK2NXH21U7A0mxZRt"
+        },
+        {
+          "name": "K.K. Senthil Prasath",
+          "url": "https://open.spotify.com/artist/43bbVLMLarZ45KDWJqqeRu"
+        },
+        {
+          "name": "Shrijai",
+          "url": "https://open.spotify.com/artist/6Ab9iHsUGEYPbcoXWlsRmo"
+        }
+      ],
+      "date_added": "2024-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269473,
+      "name": "Kali Amma Baa (From \"Bhairadevi\")",
+      "url": "https://open.spotify.com/track/2LXGhrD3M2pZ9QIbfgAXo2"
     },
     {
       "album": {
@@ -15894,7 +15920,7 @@
       ],
       "date_added": "2024-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 202723,
       "name": "Kuthoohala (From \"Bisi-Bisi Ice-Cream\")",
       "url": "https://open.spotify.com/track/6GhDA8IutWpZO4HBpgQ3Z2"
@@ -20096,7 +20122,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 259413,
       "name": "Nanagantaane (feat. Rajavardan, Rihana & Divya Suresh) [From \"Hiranya - The Hitman\"]",
       "url": "https://open.spotify.com/track/4rpc50DRQTwzLJYFRMEXMm"
@@ -28628,7 +28654,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-09-11",
       "duration_ms": 207518,
       "name": "Ta Takkara (Complex Song) (From \"Kalki 2898 AD\") (Kannada)",
       "url": "https://open.spotify.com/track/2ocFrOaQLmpPfhAETSdnsg"
@@ -28671,7 +28697,7 @@
         },
         {
           "name": "Nagarjun Sharma",
-          "url": "https://open.spotify.com/artist/6y0fX1VsvikMf62did3WY1"
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
         },
         {
           "name": "Armaan Malik",
